@@ -1380,6 +1380,10 @@
 - 「Dyndrite社がNikon SLM Solutions社と提携 | CAD Japan.com（大塚商会）」（https://www.cadjapan.com/news/2024/d20241121_03.html）
 - 「Meteor社は、産業用印刷製造のためのエンタープライズソフトウェアの主要開発企業であるHybrid Software Group PLC（Euronext：HYSG）の完全子会社です」（https://www.meteorinkjet.com/ja/news-events/news/meteor-and-dyndrite-announce-meteoryte-software-for-industrial-inkjet-3d-printers/）
 
+## Solugen（https://solugen.com/）
+- 「もし大量生産の課題もクリアしつつあるとしたら、日本でもお世話になる日が近いのかも？」（https://note.com/sdgschallenge/n/necde1b88105f）
+- 「上場前の企業では、出資額と渡す株式の割合から計算される」（https://frontjour.com/column/global/solugen）
+
 ## Xometry（https://www.xometry.com）
 - 「本記事では、彼らが提唱する「製造業向けAIオペレーティングシステム」の仕組みと、それが我々日本の製造業に与える影響について考察します」（https://seisan-navi.com/20260121-xometryai/）
 - 「日本の製造現場では、長年の取引関係に基づく信頼や、図面だけでは伝わらない「あうんの呼吸」といった要素が重視されてきました」（https://seisan-navi.com/20260121-xometryai/）
@@ -1395,6 +1399,11 @@
 - 「航空工学と起業を学んだ若きCEO、エロア・ギヨタン（Eloa Guillotin）氏に、技術の核心と、水素を国家戦略に掲げる日本との連携の可能性を聞いた」（https://techblitz.com/startup-interview/beyond-aero/）
 - 「日本市場に見る3つの接点」（https://techblitz.com/startup-interview/beyond-aero/）
 - 「―日本は水素を国家戦略の柱の一つとしています」（https://techblitz.com/startup-interview/beyond-aero/）
+
+## Brightwave（https://www.brightwave.io）
+- 「Bright Wave Media, Inc. is a Japan-based media company specializing in bilingual content production, marketing, and advertising. Our core strengths include magazine and one-off publishing (both print and digital), video production, and creative advertising campaigns that combine our many platforms t」（https://brightwavemedia.com/）
+- 「Our English and bilingual magazines are among the most widely read in Japan's food, beverage, and travel industries.」（https://brightwavemedia.com/）
+- 「We produce high-quality videos for cities in Japan, as well as the food, beverage, and travel industries.」（https://brightwavemedia.com/）
 
 ## Carbonchain（https://www.carbonchain.com）
 - 「Green x Digital Consortium launches PACT-based resources for carbon data management in Japanese context.」（https://www.carbon-transparency.org/case-studies）
@@ -1676,6 +1685,10 @@
 - 「From casual dining to Michelin-Starred fine dining menus, browse our vetted and rated caterers for Japanese food.」（https://yhangry.com/f/catering/japanese）
 - 「Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...」（https://www.firstcvc.jp/global/yhangry.com）
 
+## Yesplz（https://yesplz.ai）
+- 「AIツールの情報を、日本のユーザーに向けて紹介しませんか」（https://my-best.ai/ai-tools/yesplz/）
+- 「100% original high quality ASMR spa/massage/barbershop videos from Japan」（https://www.snapchat.com/@yesplzasmr）
+
 ## Yalo（https://www.yalo.ai）
 - 「messenger, popular in Japan, Korea and Thailand.」（https://en.wikipedia.org/wiki/Yalo_(company)）
 
@@ -1690,6 +1703,15 @@
 - 「I bring my perspective as someone who grew up in Japan—one of our most popular meals (sometimes drawing 80% of our customers) is our Japanese Breakfast.」（https://wefunder.com/case-studies/cassava）
 - 「“My wife and I love food, and Cassava is a unique gem in the San Francisco food scene. We especially love getting early morning breakfast and Cassava's Japanese Breakfast is a cherished spot for us.”」（https://wefunder.com/case-studies/cassava）
 
+## Waza（https://waza.co/）
+- 「The name waza likely comes from the Japanese word for "technique" (技), implying it is a technique for skills.」（https://note.com/biwakonbu/n/n67cf78a15192?hl=en）
+- 「名前の waza は日本語の「技」から来ていそうで、スキルに対しての技という事なんでしょうね」（https://note.com/biwakonbu/n/n67cf78a15192）
+
+## Vitau（https://vitau.mx）
+- 「e-VITA study protocol: EU-Japan virtual coach for smart aging - PMC」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/）
+- 「e-VITA study protocol: EU-Japan virtual coach for smart aging」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/）
+- 「Smart-Aging Research Center, Tohoku University, Sendai, Japan」（https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/）
+
 ## Virtueai（https://www.virtueai.com/）
 - 「自律型AI時代における倫理とガバナンスの行方――グローバルな警告と日本企業への示唆」（https://global-ai.jp/20260318-aivirtue-ai/）
 - 「自律型AIの台頭が迫る「組織の権限モデル」の再設計と日本企業への示唆」（https://global-ai.jp/20260318-aivirtue-ai/）
@@ -1700,11 +1722,73 @@
 - 「VetRecの日本語対応は確認できていません」（https://eeai.tv/tools/vetrec）
 - 「Japan Society of Northern California」（https://prospeo.io/c/vetrec-revenue）
 
+## Variance（https://www.variance.com/）
+- 「日本語WordNet(英和)での「variance」の意味」（https://ejje.weblio.jp/content/variance）
+- 「Creative Commons 表示 2.1 日本 License」（https://ejje.weblio.jp/content/variance）
+- 「Variance of Variance - Ryou Ohsawa @ National Astronomical Observatory of Japan」（https://www.ryouohsawa.info/note/stats/variances/）
+
+## Useagave（https://www.useagave.com）
+- 「Metoki: Today's theme is Agave Syrup x Tequila. "Agave syrup" has really started appearing everywhere lately. We've invited Ms. Yabuta, who was the first to import such agave syrup into Japan!」（https://note.com/kenko_mag/n/n7ae3671d206f?hl=en）
+- 「Yabuta: It has been 19 years since I first imported agave syrup to Japan in 2006. At the time, I would have been thrilled if there was even one type of agave syrup in a supermarket, but now I'm happy to see supermarkets that carry several types. In supermarkets, it is sometimes sold alongside the or」（https://note.com/kenko_mag/n/n7ae3671d206f?hl=en）
+- 「Yabuta: You might be surprised, but it goes well with Japanese food!」（https://note.com/kenko_mag/n/n7ae3671d206f?hl=en）
+
+## Unifyapps（https://www.unifyapps.com/）
+- 「ElKhatib氏は、これまでSprinklrでのシニアバイスプレジデントとして、MEA（中東・アフリカ）およびAPJI（アジア太平洋・日本・インド）市場で数多くの成果を収めてきました」（https://okinawa-ai-media.com/2025/01/02/unifyapps/）
+- 「KKR・大和証券の両トップが語る 日本が「世界有数の成長市場」になる未来」（https://forbesjapan.com/articles/detail/75621）
+- 「なぜ今、日本市場に勝機があるのか ローランド・ベルガーが示す日本企業の新たな成長像」（https://forbesjapan.com/articles/detail/75621）
+- 「Scale: 6,000 employees in 14」（https://assets.contentstack.io/v3/assets/blt55a41789e979ba65/bltee979a32e73a338c/6a4347594453867b8ec9007b/Consumer_Goods_Manufacturer_Supply_Chain_UnifyApps_Customer_Story.pdf）
+
 ## Undermind（https://www.undermind.ai）
 - 「2018年以降に発表された、日本語の大規模言語モデルの性能を測る評価用のデータセット（ベンチマーク）を提案した論文を探しています」（https://aiteller.jp/blog/undermind-tsukaikata）
 - 「：日本語で研究テーマを説明した場合の精度や、日本語の論文を対象にするかどうかは、公式サイトに記載がありません」（https://aiteller.jp/blog/undermind-tsukaikata）
 - 「2025年10月の新しい版の画面での始め方、シード論文の入れ方、Grow で地図を広げる手順と点の読み方、旧版の Similar・Earlier・Later Work の新しい場所、Rabbit-hole と著者の探し方、コレクションと読書リスト、Zotero との連携、BibTeX・RIS・CSV の書き出し、日本語での使い方、無料版と RR+ の違いと料金、解約までまとめます」（https://aiteller.jp/blog/undermind-tsukaikata）
 - 「論文が後の研究でどう引用されたかを「支持・反論・言及」に分けて示す scite の使い方を、運営元 Scite, LLC（Research Solutions の子会社）の料金ページ・ヘルプ・公式ブログで整理」（https://aiteller.jp/blog/undermind-tsukaikata）
+
+## Truelinkfinancial（https://www.truelinkfinancial.com/）
+- 「日本企業と世界のトップティアVCを繋ぐ CVCの現場経験から生まれたファンド・オブ・ファンズとは？ AT PARTNERS」（https://techblitz.com/startup-interview/true-link-financial/）
+- 「―日本を含め、海外進出も視野に入っているのでしょうか」（https://techblitz.com/startup-interview/true-link-financial/）
+- 「日本も超高齢社会の只中にありますから、御社のサービスが役立つと思います」（https://techblitz.com/startup-interview/true-link-financial/）
+- 「Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...」（https://www.firstcvc.jp/global/truelinkfinancial.com）
+
+## Tractian（https://tractian.com/）
+- 「Tractian、OCIを活用し、数百ものAIモデルをより迅速かつ低コストで構築 | Oracle 日本」（https://www.oracle.com/jp/customers/tractian/）
+- 「Xona launched six satellites on a SpaceX Falcon 9 this Tuesday (October 20) and began deploying its commercial network. Four of these are for future customers, including Japan's Topcon, which makes positioning equipment for agriculture and construction. The remaining two are for verifying their own 」（https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/tractian/case-studies）
+
+## Topkey（https://www.topkey.io/）
+- 「Donated NT$ 10 million to the Red Cross for Japan 311 earthquake.」（http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3）
+- 「Manufactured high performance tennis racket with Japanese corporation, Bridgestone.」（http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3）
+- 「Imported JIT manufacture efficiency management system from Japanese corporation, JEMCO, improved manufacture and management process.」（http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3）
+
+## Toolpath（https://toolpath.com/）
+- 「Autodesk社がToolpath Labs社への戦略的投資を実施 | CAD Japan.com（大塚商会）」（https://www.cadjapan.com/news/2025/d20250904_01.html）
+- 「Microsoft Offers Buyouts to 60,000 Employees」（https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets）
+
+## Thequad（https://thequad.com）
+- 「Governments participating in the security dialogue, a strategic endeavor between Australia, India, Japan, and the United States, also jointly welcomed the formation of the board and the network’s continued efforts to expand capital and partnership opportunities in critical and emerging technologies 」（https://quadinvestorsnetwork.org/blog/the-quad-investors-network-launches-with-advisory-board-expert-groups）
+- 「Managing Director of Japan Business Federation」（https://quadinvestorsnetwork.org/blog/the-quad-investors-network-launches-with-advisory-board-expert-groups）
+- 「Former Japanese Ambassador to the United States」（https://quadinvestorsnetwork.org/blog/the-quad-investors-network-launches-with-advisory-board-expert-groups）
+
+## Theneo（https://theneo.io）
+- 「OpenAPIファイルを公開可能なリファレンスにする：読み込むと説明文の下書きが出るので、日本語として不自然な箇所を直す」（https://www.nextfor.ai/ja/products/theneo）
+
+## Tennr（https://www.tennr.com）
+- 「KKR・大和証券の両トップが語る 日本が「世界有数の成長市場」になる未来」（https://forbesjapan.com/articles/detail/74545）
+- 「なぜ今、日本市場に勝機があるのか ローランド・ベルガーが示す日本企業の新たな成長像」（https://forbesjapan.com/articles/detail/74545）
+
+## Tendo（https://tendo.app/）
+- 「I would be happy if you could get to know Tendo City as a candidate for a new travel destination, and I would be happy even if you just think, 'Oh, there is a place like this in Japan'.」（https://note.com/kappon_32/n/n8dc8c2fabb93?hl=en）
+
+## Tamarind（https://www.tamarind.bio）
+- 「瀧井康勝『366日 誕生花の本』日本ヴォーグ社、1990年11月30日、232頁」（https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%89）
+- 「｜旬のもの｜暦生活｜日本の季節を楽しむ暮らし」（https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%89）
+- 「この記事では、タマリンドの基本から形態別の使い方、代用品、日本での入手方法まで、まとめて解説する」（https://kyodorecipe.com/ingredient-guide/tamarind/）
+
+## Slang（https://slang.ai）
+- 「日本語スラングの意味と使い方, 2026年ガイド」（https://wordy.info/ja/blog/japanese-slang）
+- 「日本語スラング: 覚えておきたい表現20選以上」（https://wordy.info/ja/blog/japanese-slang）
+- 「最重要の日本語スラングは、やばい（yabai）です」（https://wordy.info/ja/blog/japanese-slang）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/slangai/case-studies）
 
 ## Metalpine GmbH（https://www.metalpine.at）
 - 「METALPINE is part of the internationally represented htm Group (hightech metal invest) with locations in Germany, Austria, Bahrain and Japan.」（https://metalpine.at/）

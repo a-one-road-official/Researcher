@@ -1,0 +1,1592 @@
+{
+ "name": "Vention",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T06:09:37.815039+00:00",
+ "official_url": "https://vention.io/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$48.2M",
+    "url": "https://getlatka.com/companies/vention",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "An integrated platform that makes automation simple to deploy and scale across factories. Design and program with Agentic AI, build with plug-and-play hardware, and automate complex tasks with Physical AI.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize high-precision part processing and machine tending by connecting automated cells, robotic guidance, and custom tooling directly into your core machining and fabrication lines.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate unstructured processes with GRIIP™, even as parts and conditions change: bin picking, machine tending, assembly, conveying, pick-and-place, depalletizing and kitting, delivered as complete cells on one platform.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Transform complex assembly workflows with modular structures and flexible robotic stations designed to maximize operator productivity, streamline component integration, and scale effortlessly alongside your production volume.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate end-of-line operations with scalable palletizing, automated case handling, and protective cell architectures that ensure fast, reliable fulfillment and consistent product protection.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Work alongside our agentic engineer to design cells, write programs and deploy them to the floor, up to 100× faster than traditional approaches. You review and approve at every step ensuring precision while enabling scale.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover the most intuitive programming, and simulation environment, from Robot arms to Conveyors.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No-code, AI Copilot, and Python programming options",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ships pre-assembled or with assembly instructions",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy programs to your machine in 1-click",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fastening system provides 5x vibration resistance",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fast and easy online configuration with pre-defined modular conveyor sections",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intuitive no-code programming with built-in behavior for sorting and accumulation",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Program and simulate your entire robot cell in one cloud platform",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Transparent pricing and next-day shipping options available",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Field-Proven Across Industries",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-Engineered Robot Cells",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover Vention's selection of pre-engineered and ready-to-deploy applications. Built on Vention's full-stack automation platform, these modular applications are customizable and scale with your operations.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From CAD to pick in minutes with pre-trained AI-models",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The easiest cobot palletizer to customize, relocate and operate: connected with analytics, live video streaming and remote support.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Robotics welding automation for high-mix manufacturers. Modular designs adapting to your specific production needs.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Table top, fixtures, and protection panels options",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tray and drawer configurations providing hours of autonomy",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Design, program, deploy and operate custom applications at lightning speed, powered by the Vention platform.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Program in Python, code-free or MachineApps templates",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborative project management",
+    "url": "https://www.unipos.net/products/vention/",
+    "pass": 3
+   },
+   {
+    "quote": "Code-free & Python robot programming",
+    "url": "https://www.unipos.net/products/vention/",
+    "pass": 3
+   },
+   {
+    "quote": "24/7 video monitoring",
+    "url": "https://www.unipos.net/products/vention/",
+    "pass": 3
+   },
+   {
+    "quote": "On-demand, high-priority support",
+    "url": "https://www.unipos.net/products/vention/",
+    "pass": 3
+   },
+   {
+    "quote": "Video Tutorials (メーカーページ)",
+    "url": "https://www.unipos.net/products/vention/",
+    "pass": 3
+   },
+   {
+    "quote": "The lab's research agenda spans applied manufacturing use cases, industrial data collection, and post-training foundation models for robotics, building on intellectual property already generated and continuing to generate more as this work advances.",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "Vention's global manufacturing footprint, including 90 of the Fortune 500, gives researchers access to real production environments and client feedback that shapes benchmarks and direct model development.",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "Dr. Joelle Pineau, Chief AI Officer at Cohere, joins as External Technical Advisor to help guide the company's Physical AI research program.",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "/PRNewswire/ -- Vention, the leading digital-first industrial automation platform, announced the opening of its Physical AI lab in Montreal. The lab is led by Dr. Jimmy Li, Vention's Director of Physical AI, and advised by Dr. Joelle Pineau, Chief AI Officer at Cohere, and focuses on robotic manipulation for manufacturing, including industrial goods, electronics, and automotive production.",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "The lab's research agenda combines industrial data collection, robotics control, motion planning, classical computer vision, vision foundation models, learning from demonstration, and reinforcement learning, aimed at manufacturing tasks that are complex and unstructured. The lab has already generated new intellectual property and will continue to as this work advances.",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "The mandate is scalable deployment: validating new Physical AI capabilities against the reliability, cost, and variability requirements of real production lines. As the underlying models mature, Vention expects the complexity costs of deploying to drop, widening the range of manufacturers who can put Physical AI to work on their floors.",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "Physical AI is Vention's fastest-growing segment, with related revenue up 400% over the past year. That combination of academic research and a live industrial base sets the lab apart from other industry players. Model development is shaped by benchmarks, but also by client feedback, production challenges, and day-to-day deployment conversations.",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "Dr. Joelle Pineau, Chief AI Officer at Cohere, joins Dr. Li in an advisory capacity as External Technical Advisor. Her contributions will span model architecture decisions, research prioritization, and connections into the broader AI community as the lab expands its work at the intersection of foundation models, robotics, and industrial automation.",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "We believe technology should not complicate life, but improve it. That belief guides every product we create in Vention.",
+    "url": "https://ventiontech.com/?srsltid=AYCX9vKsctovLLfnfDMHO7mbvHlsFU8ZCFVH3cKJ4uKjZtJ8ojrXPt-t",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 10, 2026",
+    "url": "https://ventiontech.com/?srsltid=AYCX9vKsctovLLfnfDMHO7mbvHlsFU8ZCFVH3cKJ4uKjZtJ8ojrXPt-t",
+    "pass": 3
+   },
+   {
+    "quote": "3 Vention Products Win Red Dot Awards 2026",
+    "url": "https://ventiontech.com/?srsltid=AYCX9vKsctovLLfnfDMHO7mbvHlsFU8ZCFVH3cKJ4uKjZtJ8ojrXPt-t",
+    "pass": 3
+   },
+   {
+    "quote": "Ningbo, China — Vention has been recognized at the 2026 Red Dot Design Awards, with three products receiving the Red Dot Awards. The awarded lineup includes ADT, an Enterprise-grade Wireless HDMI Transmitter and Receiver, TFX, a 13-in-1 Docking Station, and TPM, a 6-in-1 Dock with wireless charging capabilities for AirPods...",
+    "url": "https://ventiontech.com/?srsltid=AYCX9vKsctovLLfnfDMHO7mbvHlsFU8ZCFVH3cKJ4uKjZtJ8ojrXPt-t",
+    "pass": 3
+   },
+   {
+    "quote": "HDMI, or High-Definition Multimedia Interface, is a digital audio/video connection interface for transmitting uncompressed video data and digital audio data from an HDMI-compliant source device, commonly found on televisions, projectors, Blu-ray players, and other home entertainment devices. What many may not realize is that HDMI ports can serve different functions...",
+    "url": "https://ventiontech.com/?srsltid=AYCX9vKsctovLLfnfDMHO7mbvHlsFU8ZCFVH3cKJ4uKjZtJ8ojrXPt-t",
+    "pass": 3
+   },
+   {
+    "quote": "Why Better Process Partners With Vention to Simplify Complex Automation",
+    "url": "https://vention.com/customer-stories?srsltid=AYCX9vIqDVc5278bibDoF9uHYRoPFF1AoDCHlibHMzcP4qr8DbJDHjlR",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how Better Process brought a client's complex automation project to life with Vention.",
+    "url": "https://vention.com/customer-stories?srsltid=AYCX9vIqDVc5278bibDoF9uHYRoPFF1AoDCHlibHMzcP4qr8DbJDHjlR",
+    "pass": 3
+   },
+   {
+    "quote": "Modernizing Assembly Processes with 200 Modular Workstations",
+    "url": "https://vention.com/customer-stories?srsltid=AYCX9vIqDVc5278bibDoF9uHYRoPFF1AoDCHlibHMzcP4qr8DbJDHjlR",
+    "pass": 3
+   },
+   {
+    "quote": "Achieving 24/5 Autonomous Production with Vention's Rapid Operator AI",
+    "url": "https://vention.com/customer-stories?srsltid=AYCX9vIqDVc5278bibDoF9uHYRoPFF1AoDCHlibHMzcP4qr8DbJDHjlR",
+    "pass": 3
+   },
+   {
+    "quote": "How Moin Robotics Boosted Productivity by 25%",
+    "url": "https://vention.com/customer-stories?srsltid=AYCX9vIqDVc5278bibDoF9uHYRoPFF1AoDCHlibHMzcP4qr8DbJDHjlR",
+    "pass": 3
+   },
+   {
+    "quote": "Modernizing Confectionery Production with Agile Automation",
+    "url": "https://vention.com/customer-stories?srsltid=AYCX9vIqDVc5278bibDoF9uHYRoPFF1AoDCHlibHMzcP4qr8DbJDHjlR",
+    "pass": 3
+   },
+   {
+    "quote": "A global leader in the consumer packaged goods (CPG) industry is driving a massive modernization effort across its manufacturing footprint. By establishing a dedicated automation task force, the company is moving away from labor-intensive manual processes toward a high-mix, high-reliability production environment.",
+    "url": "https://vention.com/customer-stories?srsltid=AYCX9vIqDVc5278bibDoF9uHYRoPFF1AoDCHlibHMzcP4qr8DbJDHjlR",
+    "pass": 3
+   },
+   {
+    "quote": "Read 68 Vention reviews and testimonials from customers, explore 69 case studies and customer success stories, and watch 28 customer videos to see why companies chose Vention as their Industrial Automation Software",
+    "url": "https://www.featuredcustomers.com/vendor/vention",
+    "pass": 3
+   },
+   {
+    "quote": "\"Working with Vention makes our lives simpler and our customers happier. This project could not have been realized without Vention’s quick quoting, fast lead times, and simple online tools.\"",
+    "url": "https://www.featuredcustomers.com/vendor/vention",
+    "pass": 3
+   },
+   {
+    "quote": "\"We wanted to introduce automation to combat our lack of personnel but that normally would require expensive 3rd-party programming and expertise. That simply isn’t the case with Vention.\"",
+    "url": "https://www.featuredcustomers.com/vendor/vention",
+    "pass": 3
+   },
+   {
+    "quote": "Harris RCS boosts productivity by 28% with Vention",
+    "url": "https://www.featuredcustomers.com/vendor/vention",
+    "pass": 3
+   },
+   {
+    "quote": "27 more videos",
+    "url": "https://www.featuredcustomers.com/vendor/vention",
+    "pass": 3
+   },
+   {
+    "quote": "Vention Customer Videos",
+    "url": "https://www.featuredcustomers.com/vendor/vention",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Video",
+    "url": "https://www.featuredcustomers.com/vendor/vention",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/vention",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/vention",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/vention",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Manufacturing Automation, Simplified | Vention",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "An integrated platform that makes automation simple to deploy and scale across factories. Design and program with Agentic AI, build with plug-and-play hardware, and automate complex tasks with Physical AI.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Replace fragmented automation vendors with one platform spanning hardware, software, and AI that covers the entire factory floor.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate internal transport bottlenecks and unify shop floor logistics using flexible transfer systems, smart AGV integration, and automated storage that keep materials flowing continuously between operational zones.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Manufacturing Industry Leaders",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "of the top 500 US manufacturers use Vention",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Design equipment in minutes with the only CAD software built exclusively for the factory floor. Order online for next day delivery.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Go from digital twin to physical twin in minutes with cloud-to-factory floor deployment and over-the-air updates.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay connected and never miss a pulse from your factory floor.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Experience a true one-stop shop with the largest ecosystem of plug-and-play components for industrial automation and robotics.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Factories Using Vention",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Robotics welding automation for high-mix manufacturers. Modular designs adapting to your specific production needs.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Palletizer",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Combine industrial strength, speed, intuitive touchscreen operation and built-in remote support from anywhere in the world.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover the Industrial Palletizer",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Eight operators reallocated",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A cobot-driven system is helping McAlpine exceed their throughput targets, reallocate labor, and build a future-proof factory floor.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cobot and industrial palletizers unified under one software environment created a plug-and-play packaging standard built for scalability.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Empowered operators with MachineApps reducing engineering overhead",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Solestial Scaled Space-Grade Solar Manufacturing with Automation",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"At CERLAB, we focus a lot on solving industrial problems. And having a partner like Vention who provides us with the tools required to do that is a great one for us.\"",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore trends, guides, and ideas for the next era of industrial automation.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Understand what AI-Defined Automation is, how it works, and how it combines Physical and Agentic AI on the manufacturing floor.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Uncover what Physical AI is, what deployment looks like, and why this automation technology is crucial for manufacturing today.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn what makes industrial automation faster and more accessible to non-technical teams today.",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "彼らが提供するのは「Manufacturing Automation Platform（MAP）」と呼ばれる、ハードウェアとソフトウェアが統合されたクラウドプラットフォームです",
+    "url": "https://logishift.net/2026/02/02/post-1336/",
+    "pass": 3
+   },
+   {
+    "quote": "Vention Opens Physical AI Lab to Bridge AI Research and Scalable Industrial Deployment",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "Vention opens Canada's leading Physical AI and industrial robotics lab in Montreal, focused on advancing robotic manipulation from cutting-edge AI research to reliable, scalable manufacturing deployment.",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "The lab's research agenda spans applied manufacturing use cases, industrial data collection, and post-training foundation models for robotics, building on intellectual property already generated and continuing to generate more as this work advances.",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "Vention's global manufacturing footprint, including 90 of the Fortune 500, gives researchers access to real production environments and client feedback that shapes benchmarks and direct model development.",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "/PRNewswire/ -- Vention, the leading digital-first industrial automation platform, announced the opening of its Physical AI lab in Montreal. The lab is led by Dr. Jimmy Li, Vention's Director of Physical AI, and advised by Dr. Joelle Pineau, Chief AI Officer at Cohere, and focuses on robotic manipulation for manufacturing, including industrial goods, electronics, and automotive production.",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "The lab's research agenda combines industrial data collection, robotics control, motion planning, classical computer vision, vision foundation models, learning from demonstration, and reinforcement learning, aimed at manufacturing tasks that are complex and unstructured. The lab has already generated new intellectual property and will continue to as this work advances.",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "The mandate is scalable deployment: validating new Physical AI capabilities against the reliability, cost, and variability requirements of real production lines. As the underlying models mature, Vention expects the complexity costs of deploying to drop, widening the range of manufacturers who can put Physical AI to work on their floors.",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "Canada's leading Physical AI Lab for Manufacturing",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "With technology deployed across thousands of manufacturers globally, including 90 of the Fortune 500, Vention's scale gives researchers direct access to real manufacturing environments and a continuous stream of industrial manipulation data to post-train Physical AI models.",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "Physical AI is Vention's fastest-growing segment, with related revenue up 400% over the past year. That combination of academic research and a live industrial base sets the lab apart from other industry players. Model development is shaped by benchmarks, but also by client feedback, production challenges, and day-to-day deployment conversations.",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "From AI Research to Industrial Deployment",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "Vention is also working with global industrial and electronics manufacturers, including a large automotive OEM on high-complexity, unstructured robotic tasks in final assembly.",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "Bringing World-Class AI Expertise to Industrial Robotics",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "Dr. Joelle Pineau, Chief AI Officer at Cohere, joins Dr. Li in an advisory capacity as External Technical Advisor. Her contributions will span model architecture decisions, research prioritization, and connections into the broader AI community as the lab expands its work at the intersection of foundation models, robotics, and industrial automation.",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "Vention Facilitates Manufacturing at IMTS 2026 with Physical AI and Agentic AI in One Platform",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing Teams（AMT）と企業標準化",
+    "url": "https://roboin-fa.com/2026/04/07/vention-zero-shot-automation-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの企業は「Advanced Manufacturing Teams（AMT：先進製造チーム）」と呼ばれる専門部門を設立し、Vention のプラットフォームをグローバルな自動化基盤として展開しています",
+    "url": "https://roboin-fa.com/2026/04/07/vention-zero-shot-automation-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how Yokogawa modernized its factory floor by deploying 20o modular, ergonomic workstations using Vention’s MachineBuilder to eliminate manual assembly errors.",
+    "url": "https://vention.com/customer-stories?srsltid=AYCX9vIqDVc5278bibDoF9uHYRoPFF1AoDCHlibHMzcP4qr8DbJDHjlR",
+    "pass": 3
+   },
+   {
+    "quote": "A global leader in the consumer packaged goods (CPG) industry is driving a massive modernization effort across its manufacturing footprint. By establishing a dedicated automation task force, the company is moving away from labor-intensive manual processes toward a high-mix, high-reliability production environment.",
+    "url": "https://vention.com/customer-stories?srsltid=AYCX9vIqDVc5278bibDoF9uHYRoPFF1AoDCHlibHMzcP4qr8DbJDHjlR",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Automation Simplified",
+    "url": "https://vention.com/customer-stories?srsltid=AYCX9vIqDVc5278bibDoF9uHYRoPFF1AoDCHlibHMzcP4qr8DbJDHjlR",
+    "pass": 3
+   },
+   {
+    "quote": "Read 68 Vention reviews and testimonials from customers, explore 69 case studies and customer success stories, and watch 28 customer videos to see why companies chose Vention as their Industrial Automation Software",
+    "url": "https://www.featuredcustomers.com/vendor/vention",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Automation Software",
+    "url": "https://www.featuredcustomers.com/vendor/vention",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Execution Software",
+    "url": "https://www.featuredcustomers.com/vendor/vention",
+    "pass": 3
+   },
+   {
+    "quote": "On-Demand Manufacturing Platform",
+    "url": "https://www.featuredcustomers.com/vendor/vention",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/vention",
+    "pass": 3
+   },
+   {
+    "quote": "Vention's Disruptive Industrial Automation Approach Boosts Engineering Confidence in 2023",
+    "url": "https://www.prnewswire.com/news-releases/ventions-disruptive-industrial-automation-approach-boosts-engineering-confidence-in-2023-301716057.html",
+    "pass": 3
+   },
+   {
+    "quote": "Empowering more manufacturers to jump-start and scale their automation journey",
+    "url": "https://www.prnewswire.com/news-releases/ventions-disruptive-industrial-automation-approach-boosts-engineering-confidence-in-2023-301716057.html",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Automation Platform",
+    "url": "https://www.prnewswire.com/news-releases/ventions-disruptive-industrial-automation-approach-boosts-engineering-confidence-in-2023-301716057.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"Vention's mission to democratize industrial automation has never been more relevant. With labor shortage, salary inflation, and reshoring of production, manufacturers are looking for new, innovative solutions to automate their factory floor,\" said",
+    "url": "https://www.prnewswire.com/news-releases/ventions-disruptive-industrial-automation-approach-boosts-engineering-confidence-in-2023-301716057.html",
+    "pass": 3
+   },
+   {
+    "quote": ", CEO and Co-Founder. \"Over the past years, Vention has helped more than 3,000 manufacturers automate their shop floor.\"",
+    "url": "https://www.prnewswire.com/news-releases/ventions-disruptive-industrial-automation-approach-boosts-engineering-confidence-in-2023-301716057.html",
+    "pass": 3
+   },
+   {
+    "quote": "Demand for horizontal and accessible automation solutions has propelled Vention to a record year in which they achieved another year of 2x booking growth. Driven by many external trends like rising labor costs, labor shortages and companies looking to re-shore manufacturing, Vention grew its active customer base by more than 900 new companies and grew its automation partner revenue by 2.9x.",
+    "url": "https://www.prnewswire.com/news-releases/ventions-disruptive-industrial-automation-approach-boosts-engineering-confidence-in-2023-301716057.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"MachineLogic is key to our mission of democratizing industrial automation, and subscribers can expect a series of additional announcements in 2023,\" said",
+    "url": "https://www.prnewswire.com/news-releases/ventions-disruptive-industrial-automation-approach-boosts-engineering-confidence-in-2023-301716057.html",
+    "pass": 3
+   },
+   {
+    "quote": ", CEO and Co-Founder. \"We are only scratching the surface of the possible user experiences when you combine industrial automation hardware and engineering software.",
+    "url": "https://www.prnewswire.com/news-releases/ventions-disruptive-industrial-automation-approach-boosts-engineering-confidence-in-2023-301716057.html",
+    "pass": 3
+   },
+   {
+    "quote": ", the first-of-its-kind software for assisted deployment of industrial automation, was launched during",
+    "url": "https://www.prnewswire.com/news-releases/ventions-disruptive-industrial-automation-approach-boosts-engineering-confidence-in-2023-301716057.html",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "of the Fortune 500 companies use Vention",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Vention empowers our team to actually be part of the solution, help on the design, and then be the team to learn and implement it.\"",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"The value of having a single ecosystem is we can collaborate on a project and it arrives at our door ready to go. That is awesome.\"",
+    "url": "https://vention.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vention社製品 | 産業オートメーション 制御システム 製造自動化プラットフォーム | 海外ハードウェアの購入ならUNIPOS(ユニポス)",
+    "url": "https://www.unipos.net/products/vention/",
+    "pass": 3
+   },
+   {
+    "quote": "Vention's global manufacturing footprint, including 90 of the Fortune 500, gives researchers access to real production environments and client feedback that shapes benchmarks and direct model development.",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "Physical AI is Vention's fastest-growing segment, with related revenue up 400% over the past year.",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "With technology deployed across thousands of manufacturers globally, including 90 of the Fortune 500, Vention's scale gives researchers direct access to real manufacturing environments and a continuous stream of industrial manipulation data to post-train Physical AI models.",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "Physical AI is Vention's fastest-growing segment, with related revenue up 400% over the past year. That combination of academic research and a live industrial base sets the lab apart from other industry players. Model development is shaped by benchmarks, but also by client feedback, production challenges, and day-to-day deployment conversations.",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "Harris RCS boosts productivity by 28% with Vention",
+    "url": "https://www.featuredcustomers.com/vendor/vention",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/vention",
+    "pass": 3
+   },
+   {
+    "quote": ", Vention registered a record performance. With robust net revenue growth, ground-breaking product announcements, and a significant increase in its presence in",
+    "url": "https://www.prnewswire.com/news-releases/ventions-disruptive-industrial-automation-approach-boosts-engineering-confidence-in-2023-301716057.html",
+    "pass": 3
+   },
+   {
+    "quote": "Demand for horizontal and accessible automation solutions has propelled Vention to a record year in which they achieved another year of 2x booking growth. Driven by many external trends like rising labor costs, labor shortages and companies looking to re-shore manufacturing, Vention grew its active customer base by more than 900 new companies and grew its automation partner revenue by 2.9x.",
+    "url": "https://www.prnewswire.com/news-releases/ventions-disruptive-industrial-automation-approach-boosts-engineering-confidence-in-2023-301716057.html",
+    "pass": 3
+   },
+   {
+    "quote": "In 2022, Vention gained recognition as an industry leader for its great business model, bold innovation, and incredibly rapid revenue growth of 964% from 2018 to 2021. Vention's notable growth was awarded multiple recognitions this year:",
+    "url": "https://www.prnewswire.com/news-releases/ventions-disruptive-industrial-automation-approach-boosts-engineering-confidence-in-2023-301716057.html",
+    "pass": 3
+   },
+   {
+    "quote": "The team then used Vention’s programming and simulation environment, MachineLogic, to program and coordinate how the conveyor, robots, and station sequences move in sync. Amanda Faigal, part of Vention’s applications engineering team, assisted Better Process with assembly, electrical integration, and programming phases throughout the process.",
+    "url": "https://www.automate.org/robotics/case-studies/vention-simplifies-complex-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Vention Revenue 2024: $35M Est., $48.2M Raised",
+    "url": "https://getlatka.com/companies/vention",
+    "pass": 3
+   },
+   {
+    "quote": "Vention has not published its revenue. LeadIQ puts it at about $35M a year (November 2024).",
+    "url": "https://getlatka.com/companies/vention",
+    "pass": 3
+   },
+   {
+    "quote": "All 4 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/vention",
+    "pass": 3
+   },
+   {
+    "quote": "Vention CEO, founders & employees",
+    "url": "https://getlatka.com/companies/vention",
+    "pass": 3
+   },
+   {
+    "quote": "Etienne Lacroix founded Vention in 2016 and runs it as CEO. Vention had 299 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/vention",
+    "pass": 3
+   },
+   {
+    "quote": "What is Vention's revenue?",
+    "url": "https://getlatka.com/companies/vention",
+    "pass": 3
+   },
+   {
+    "quote": "LeadIQ estimates Vention's revenue at about",
+    "url": "https://getlatka.com/companies/vention",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Vention have?",
+    "url": "https://getlatka.com/companies/vention",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/vention",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/vention",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/vention",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/vention",
+    "pass": 3
+   },
+   {
+    "quote": "Vention has opened a Physical AI lab in Montreal, led by Dr. Jimmy Li and advised by Cohere's Dr. Joelle Pineau. The lab draws on data from Vention's install base across 90 Fortune 500 manufacturers to develop and test robotic manipulation for production. Physical AI is now Vention's fastest-growing segment, with related revenue up 400% over the past year.",
+    "url": "https://vention.com/press?srsltid=AYCX9vKeSqSa1DCFRroZ5fiHJVSAu-meM_C-IOvN-U621sUX-J0vaRUG",
+    "pass": 3
+   },
+   {
+    "quote": "The cloud robotics company welcomes ABB as part of its Manufacturing Automation Platform.",
+    "url": "https://vention.com/press?srsltid=AYCX9vKeSqSa1DCFRroZ5fiHJVSAu-meM_C-IOvN-U621sUX-J0vaRUG",
+    "pass": 3
+   },
+   {
+    "quote": "Vention was recognized for the third time as part of the 2023 Deloitte Technology Fast 50™ awards program for its rapid revenue growth, entrepreneurial spirit, and bold innovation.",
+    "url": "https://vention.com/press?srsltid=AYCX9vKeSqSa1DCFRroZ5fiHJVSAu-meM_C-IOvN-U621sUX-J0vaRUG",
+    "pass": 3
+   },
+   {
+    "quote": "Celebrating its 26th anniversary, the program recognizes Canada's 50 fastest-growing technology companies based on the highest revenue-growth percentage over the past four years. Vention ranks 29 with a 636 percent in revenue growth from 2019 to 2023.",
+    "url": "https://vention.com/press?srsltid=AYCX9vKeSqSa1DCFRroZ5fiHJVSAu-meM_C-IOvN-U621sUX-J0vaRUG",
+    "pass": 3
+   },
+   {
+    "quote": "Canada's Top Growing Companies ranks Canadian companies on three-year revenue growth. Vention earned its spot with a three-year growth of 636%.",
+    "url": "https://vention.com/press?srsltid=AYCX9vKeSqSa1DCFRroZ5fiHJVSAu-meM_C-IOvN-U621sUX-J0vaRUG",
+    "pass": 3
+   },
+   {
+    "quote": "Driven by global demand for its Manufacturing Automation Platform, Vention registered a record performance. With robust net revenue growth, ground-breaking product announcements, and a significant increase in its presence in Europe and North America, Vention enters the new year with bolstered confidence.",
+    "url": "https://vention.com/press?srsltid=AYCX9vKeSqSa1DCFRroZ5fiHJVSAu-meM_C-IOvN-U621sUX-J0vaRUG",
+    "pass": 3
+   },
+   {
+    "quote": "WIM2020 gathers innovators from Asia, Africa, Europe and the Americas to share their knowledge and key achievements, promoting the concept of 'Tech for Equal.' As part of their 2020 report, they have named Vention as one of the next 50 in global tech: smart manufacturing.",
+    "url": "https://vention.com/press?srsltid=AYCX9vKeSqSa1DCFRroZ5fiHJVSAu-meM_C-IOvN-U621sUX-J0vaRUG",
+    "pass": 3
+   },
+   {
+    "quote": "Fast 50 companies-to-watch winners are companies demonstrating superior technology and effective management experience. To be eligible, candidates must also devote a significant portion of their operating revenues to creating proprietary technology or intellectual property.",
+    "url": "https://vention.com/press?srsltid=AYCX9vKeSqSa1DCFRroZ5fiHJVSAu-meM_C-IOvN-U621sUX-J0vaRUG",
+    "pass": 3
+   },
+   {
+    "quote": "With a three-year revenue growth of 119 percent, Vention made the 2023 list at No. 3,965",
+    "url": "https://ventionteams.com/newsroom/inc-5000",
+    "pass": 3
+   },
+   {
+    "quote": ", the premier global leader in custom software development services, made the 2023 Inc. 5000 list of the fastest-growing private companies in America. As a six-time honoree, Vention is now part of the exclusive five percent of companies that have reached this multi-year recognition.",
+    "url": "https://ventionteams.com/newsroom/inc-5000",
+    "pass": 3
+   },
+   {
+    "quote": "The Inc. 5000's prestigious ranking provides a data-driven look at the most successful companies within the economy's most dynamic segment — its independent, entrepreneurial businesses. The Inc. 5000 class of 2023 represents companies that have driven rapid revenue growth while navigating inflationary pressure, the rising costs of capital, and seemingly intractable hiring challenges.",
+    "url": "https://ventionteams.com/newsroom/inc-5000",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "これは、日本の多くの物流・製造現場が抱える共通の悩みです",
+    "url": "https://logishift.net/2026/02/02/post-1336/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、Ventionの事例を通じて、日本企業が目指すべき「現場主導型DX」のヒントを解説します",
+    "url": "https://logishift.net/2026/02/02/post-1336/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業への示唆：今すぐ「カイゼン」をデジタル化せよ",
+    "url": "https://logishift.net/2026/02/02/post-1336/",
+    "pass": 3
+   },
+   {
+    "quote": "これはトヨタ生産方式に代表される、日本の製造・物流現場が最も得意としてきた「カイゼン」文化そのものです",
+    "url": "https://logishift.net/2026/02/02/post-1336/",
+    "pass": 3
+   },
+   {
+    "quote": "Ventionのような「モジュラー型ハードウェア」×「ノーコード」の流れは、日本の現場から奪われていた「手触り感のある改善」を取り戻すツールになり得ます",
+    "url": "https://logishift.net/2026/02/02/post-1336/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業がこのトレンドを取り入れる際、いくつかの障壁が想定されます",
+    "url": "https://logishift.net/2026/02/02/post-1336/",
+    "pass": 3
+   },
+   {
+    "quote": ": 日本特有の商社・代理店経由の調達ルール",
+    "url": "https://logishift.net/2026/02/02/post-1336/",
+    "pass": 3
+   },
+   {
+    "quote": "日本には世界に誇るアルミフレームメーカーや部品メーカーが存在します",
+    "url": "https://logishift.net/2026/02/02/post-1336/",
+    "pass": 3
+   },
+   {
+    "quote": "Ventionのようなプラットフォーム思考と、日本の現場力が組み合わされば、日本独自の強力な「DIY自動化」モデルが生まれる可能性は十分にあります",
+    "url": "https://logishift.net/2026/02/02/post-1336/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業、特に中小企業にとって、Vention の「ゼロショット自動化」は大きな示唆を持ちます",
+    "url": "https://roboin-fa.com/2026/04/07/vention-zero-shot-automation-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "日本では自動化導入の際、システムインテグレータ（SIer）への依存度が高く、導入コストと期間が膨らむことが課題です",
+    "url": "https://roboin-fa.com/2026/04/07/vention-zero-shot-automation-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業にとって、自動化導入のハードルが下がることは歓迎すべき流れです",
+    "url": "https://roboin-fa.com/2026/04/07/vention-zero-shot-automation-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "運営は株式会社 New Innovations",
+    "url": "https://roboin-fa.com/2026/04/07/vention-zero-shot-automation-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "VENTIONは怪しい？日本代理店や家電量販店での取り扱い実績と信頼性",
+    "url": "https://ayashikaimono.com/vention/vention/",
+    "pass": 3
+   },
+   {
+    "quote": "③ 日本正規代理店によるサポートを受けられる",
+    "url": "https://ayashikaimono.com/vention/vention/",
+    "pass": 3
+   },
+   {
+    "quote": "現在は世界100以上の国と地域で製品を展開しており、日本でもAmazonや楽天市場をはじめ、ヨドバシカメラやビックカメラなどの大手家電量販店でも販売されています",
+    "url": "https://ayashikaimono.com/vention/vention/",
+    "pass": 3
+   },
+   {
+    "quote": "VENTIONは日本国内での販売体制やサポート体制が整っているブランドです",
+    "url": "https://ayashikaimono.com/vention/vention/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場では、静岡県に本社を置く",
+    "url": "https://ayashikaimono.com/vention/vention/",
+    "pass": 3
+   },
+   {
+    "quote": "が正規代理店として、日本公式オンラインストアの運営や製品サポートを担当しています",
+    "url": "https://ayashikaimono.com/vention/vention/",
+    "pass": 3
+   },
+   {
+    "quote": "▶ A-style株式会社の公式ホームページはこちら！",
+    "url": "https://ayashikaimono.com/vention/vention/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、国内では正規代理店によるサポートを受けられるほか、大手販売店でも取り扱われていることから、VENTIONは日本でも広く流通している周辺機器ブランドと言えるでしょう",
+    "url": "https://ayashikaimono.com/vention/vention/",
+    "pass": 3
+   },
+   {
+    "quote": "VENTIONは日本国内にも正規代理店があり、A-style株式会社が日本公式オンラインストアの運営や製品サポートを担当しています",
+    "url": "https://ayashikaimono.com/vention/vention/",
+    "pass": 3
+   },
+   {
+    "quote": "海外ブランドでありながら、日本語で問い合わせやサポートを受けられる環境が整っている点は、VENTION製品を安心して選べる大きな理由と言えるでしょう",
+    "url": "https://ayashikaimono.com/vention/vention/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ではA-style株式会社が正規代理店としてサポート",
+    "url": "https://ayashikaimono.com/vention/vention/",
+    "pass": 3
+   },
+   {
+    "quote": "実際に調べてみると、「怪しいメーカー」という印象はなく、世界各国で販売実績があり、日本国内でも正規代理店によるサポートを受けられる信頼性の高いブランドであることが分かりました",
+    "url": "https://ayashikaimono.com/vention/vention/",
+    "pass": 3
+   },
+   {
+    "quote": "世界100以上の国・地域で販売され、日本ではA-style株式会社が正規代理店としてサポートを行っています",
+    "url": "https://ayashikaimono.com/vention/vention/",
+    "pass": 3
+   },
+   {
+    "quote": "国内代理店によるサポートがあり、レビュー評価も高いため、初めて海外メーカー製品を購入する方にも選びやすいブランドです",
+    "url": "https://ayashikaimono.com/vention/vention/",
+    "pass": 3
+   },
+   {
+    "quote": "特定商取引法に基づく表記 – VENTION JAPAN",
+    "url": "https://vention.jp/legal/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Vention is also working with global industrial and electronics manufacturers, including a large automotive OEM on high-complexity, unstructured robotic tasks in final assembly.",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "Since its global rebrand earlier this year, Vention has already expanded its North American presence with its",
+    "url": "https://ventionteams.com/newsroom/inc-5000",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Vention 社製品 | 産業オートメーション 制御システム 製造 ... — Vention 社製品 | 産業オートメーション 制御システム 製造 ... unipos.net https://www.unipos.net > 製品 > 設計・モデリング",
+    "url": "https://www.unipos.net/products/vention/",
+    "pass": 3
+   },
+   {
+    "quote": "165億円調達 Vention が証明。「DIY自動化」こそ物流DXの ... — 165億円調達 Vention が証明。「DIY自動化」こそ物流DXの ... logishift.net https://logishift.net > ニュース・海外",
+    "url": "https://logishift.net/2026/02/02/post-1336/",
+    "pass": 3
+   },
+   {
+    "quote": "Vention Opens Physical AI Lab to Bridge AI Research and ... — Vention Opens Physical AI Lab to Bridge AI Research and ... PR Newswire https://www.prnewswire.com > ventio...",
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "pass": 3
+   },
+   {
+    "quote": "Vention が1.1億ドル調達——「ゼロショット自動化」が製造業 ... — Vention が1.1億ドル調達——「ゼロショット自動化」が製造業 ... roboin-fa.com https://roboin-fa.com > 製造業×生成AI事例",
+    "url": "https://roboin-fa.com/2026/04/07/vention-zero-shot-automation-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボットを Vention のAI駆動型ハードウェア ... - Moomoo — 産業用ロボットを Vention のAI駆動型ハードウェア ... - Moomoo Moomoo https://www.moomoo.com > news > post > vention-and-fa...",
+    "url": "https://www.moomoo.com/ja/news/post/71831589/vention-and-fanuc-america-join-forces-to-bring-industrial-robots",
+    "pass": 3
+   },
+   {
+    "quote": "VENTION (ベンション)はどこの国のメーカー？怪しい？会社 ... — VENTION (ベンション)はどこの国のメーカー？怪しい？会社 ... ayashikaimono.com https://ayashikaimono.com > Vention",
+    "url": "https://ayashikaimono.com/vention/vention/",
+    "pass": 3
+   },
+   {
+    "quote": "特定商取引法に基づく表記 - VENTION JAPAN — 特定商取引法に基づく表記 - VENTION JAPAN VENTION JAPAN https://vention.jp > legal",
+    "url": "https://vention.jp/legal/",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワーク関連の周辺機器の人気ブランド「 VENTION ... — ネットワーク関連の周辺機器の人気ブランド「 VENTION ... サウンドハウス https://www.soundhouse.co.jp > news > detail",
+    "url": "https://www.soundhouse.co.jp/news/detail?NewsNo=20175",
+    "pass": 3
+   },
+   {
+    "quote": "VENTION JAPAN — VENTION JAPAN VENTION JAPAN https://vention.jp",
+    "url": "https://vention.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Vention - Innovation for life — Vention - Innovation for life Vention - Innovation for life https://ventiontech.com",
+    "url": "https://ventiontech.com/?srsltid=AYCX9vKsctovLLfnfDMHO7mbvHlsFU8ZCFVH3cKJ4uKjZtJ8ojrXPt-t",
+    "pass": 3
+   },
+   {
+    "quote": "Vention - LinkedIn — Vention - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/ventiontechnology/",
+    "pass": 3
+   },
+   {
+    "quote": "Vention JP @ Amazon.co.jp: — Vention JP @ Amazon.co.jp: amazon.jp https://www.amazon.co.jp > ...",
+    "url": "https://www.amazon.co.jp/s?i=merchant-items&me=A1KZ92AFD17JJ9",
+    "pass": 3
+   },
+   {
+    "quote": "Vention (@ vention .official) • Instagram photos and videos — Vention (@ vention .official) • Instagram photos and videos Instagram https://www.instagram.com > vention....",
+    "url": "https://www.instagram.com/vention.official/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories | Vention — Customer Stories | Vention Vention https://vention.com > customer-stories",
+    "url": "https://vention.com/customer-stories?srsltid=AYCX9vIqDVc5278bibDoF9uHYRoPFF1AoDCHlibHMzcP4qr8DbJDHjlR",
+    "pass": 3
+   },
+   {
+    "quote": "165 Vention Customer Reviews & References — 165 Vention Customer Reviews & References Featured Customers https://www.featuredcustomers.com > ...",
+    "url": "https://www.featuredcustomers.com/vendor/vention",
+    "pass": 3
+   },
+   {
+    "quote": "Vention's Disruptive Industrial Automation Approach Boosts ... — Vention's Disruptive Industrial Automation Approach Boosts ... PR Newswire https://www.prnewswire.com > ventio...",
+    "url": "https://www.prnewswire.com/news-releases/ventions-disruptive-industrial-automation-approach-boosts-engineering-confidence-in-2023-301716057.html",
+    "pass": 3
+   },
+   {
+    "quote": "Vention opens Physical AI Lab for manufacturing in Montreal — Vention opens Physical AI Lab for manufacturing in Montreal The Robot Report https://www.therobotreport.com > ve...",
+    "url": "https://www.therobotreport.com/vention-opens-physical-ai-lab-manufacturing-montreal/",
+    "pass": 3
+   },
+   {
+    "quote": "Vention Revenue 2024: $35M Est., $48.2M Raised - GetLatka — Vention Revenue 2024: $35M Est., $48.2M Raised - GetLatka GetLatka https://getlatka.com > vention",
+    "url": "https://getlatka.com/companies/vention",
+    "pass": 3
+   },
+   {
+    "quote": "Vention's Competitors, Revenue , Number of Employees ... — Vention's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > vention",
+    "url": "https://www.owler.com/company/vention",
+    "pass": 3
+   },
+   {
+    "quote": "Press Page | Vention — Press Page | Vention Vention https://vention.com > press",
+    "url": "https://vention.com/press?srsltid=AYCX9vKeSqSa1DCFRroZ5fiHJVSAu-meM_C-IOvN-U621sUX-J0vaRUG",
+    "pass": 3
+   },
+   {
+    "quote": "Vention Ranked on Inc. 5000's List for Sixth Consecutive Year — Vention Ranked on Inc. 5000's List for Sixth Consecutive Year ventionteams.com https://ventionteams.com > inc-5000",
+    "url": "https://ventionteams.com/newsroom/inc-5000",
+    "pass": 3
+   },
+   {
+    "quote": "Vention - Crunchbase Company Profile & Funding — Vention - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > vention",
+    "url": "https://www.crunchbase.com/organization/vention",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/vention",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/vention",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Vention (@ventionteams) / X Vention (@ventionteams) / X X https://x.com > ventionteams",
+    "url": "https://x.com/ventionteams",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Vention - LinkedIn Vention - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/ventionteams",
+    "pass": 3
+   },
+   {
+    "quote": "Vention - LinkedIn Vention - LinkedIn LinkedIn https://ca.linkedin.com > vention",
+    "url": "https://ca.linkedin.com/company/vention",
+    "pass": 3
+   },
+   {
+    "quote": "Vention Medical | LinkedIn Vention Medical | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/vention-medical-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "Sergei Kovalenko - Board Member at Vention - LinkedIn Sergei Kovalenko - Board Member at Vention - LinkedIn LinkedIn https://www.linkedin.com > sergeikov...",
+    "url": "https://www.linkedin.com/in/sergeikovalenko",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Vention | New York NY - Facebook Vention | New York NY - Facebook Facebook https://www.facebook.com > ... > Engineering Service",
+    "url": "https://www.facebook.com/ventionteams/",
+    "pass": 3
+   },
+   {
+    "quote": "Vention (@ vention .io) - Facebook Vention (@ vention .io) - Facebook Facebook https://www.facebook.com > vention",
+    "url": "https://www.facebook.com/vention.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Vention Malaysia | Kuala Lumpur - Facebook Vention Malaysia | Kuala Lumpur - Facebook Facebook https://www.facebook.com > ... > Brand > Electronics",
+    "url": "https://www.facebook.com/VentionMalaysia/",
+    "pass": 3
+   },
+   {
+    "quote": "Vention PH (@ventionphilippines) - Facebook Vention PH (@ventionphilippines) - Facebook Facebook https://www.facebook.com > ... > Electronics Company",
+    "url": "https://www.facebook.com/ventionphilippines/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://vention.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://assets.vention.io/marketing/page-assets/home/newHome/ventionWorksWithLogos/Loreal_160x40.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://assets.vention.io/marketing/page-assets/home/newHome/ventionWorksWithLogos/Boeing_160x40.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://assets.vention.io/marketing/page-assets/home/newHome/ventionWorksWithLogos/Hershey_160x40.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://assets.vention.io/marketing/page-assets/home/newHome/ventionWorksWithLogos/OpenAI_160x40.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.unipos.net/products/vention/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://logishift.net/2026/02/02/post-1336/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboin-fa.com/2026/04/07/vention-zero-shot-automation-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ayashikaimono.com/vention/vention/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vention.jp/legal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soundhouse.co.jp/news/detail?NewsNo=20175",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vention.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ventiontech.com/?srsltid=AYCX9vKsctovLLfnfDMHO7mbvHlsFU8ZCFVH3cKJ4uKjZtJ8ojrXPt-t",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/ventiontechnology/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp/s?i=merchant-items&me=A1KZ92AFD17JJ9",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vention.com/customer-stories?srsltid=AYCX9vIqDVc5278bibDoF9uHYRoPFF1AoDCHlibHMzcP4qr8DbJDHjlR",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/vention",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/ventions-disruptive-industrial-automation-approach-boosts-engineering-confidence-in-2023-301716057.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automate.org/robotics/case-studies/vention-simplifies-complex-automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/vention",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/vention",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://vention.com/press?srsltid=AYCX9vKeSqSa1DCFRroZ5fiHJVSAu-meM_C-IOvN-U621sUX-J0vaRUG",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ventionteams.com/newsroom/inc-5000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ventionteams",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ventionteams",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/vention",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/vention-medical-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/sergeikovalenko",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ventionteams/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/vention.io/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VentionMalaysia/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ventionphilippines/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ventionteams",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ventionteams/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Vention 日本 導入",
+   "results": [
+    "https://www.unipos.net/products/vention/",
+    "https://logishift.net/2026/02/02/post-1336/",
+    "https://www.prnewswire.com/news-releases/vention-opens-physical-ai-lab-to-bridge-ai-research-and-scalable-industrial-deployment-302872841.html",
+    "https://roboin-fa.com/2026/04/07/vention-zero-shot-automation-manufacturing/",
+    "https://www.moomoo.com/ja/news/post/71831589/vention-and-fanuc-america-join-forces-to-bring-industrial-robots",
+    "https://jp.investing.com/news/company-news/article-1398028",
+    "https://physicalainews.jp/news/vention-montoriooru-ni-physical-ai-lab-wo-kaisetsu-seizou-mu-04a96d",
+    "https://ventionteams.com/solutions/ai/adoption-statistics"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Vention 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ayashikaimono.com/vention/vention/",
+    "https://vention.jp/legal/",
+    "https://www.soundhouse.co.jp/news/detail?NewsNo=20175",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://business.ntt-west.co.jp/service/assist/winactor/partner.html",
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.hits-company.co.jp/alliance/column/agency-business/",
+    "https://www.japan-port.com/news/374/",
+    "https://www.deex.co.jp/media/8uGKOPAJ",
+    "https://en.wikipedia.org/wiki/Vention"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Vention Japan",
+   "results": [
+    "https://vention.jp/",
+    "https://ventiontech.com/?srsltid=AYCX9vKsctovLLfnfDMHO7mbvHlsFU8ZCFVH3cKJ4uKjZtJ8ojrXPt-t",
+    "https://www.linkedin.com/company/ventiontechnology/",
+    "https://www.amazon.co.jp/s?i=merchant-items&me=A1KZ92AFD17JJ9",
+    "https://www.instagram.com/vention.official/",
+    "https://en.wikipedia.org/wiki/Vention",
+    "https://vention.jp/about/",
+    "https://ventiontech.com/pages/team",
+    "https://ventiontech.com/",
+    "https://vention.com/blogs/industry/vention-funding-announcement-2026-1048"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Vention manufacturing customer case study",
+   "results": [
+    "https://vention.com/customer-stories?srsltid=AYCX9vIqDVc5278bibDoF9uHYRoPFF1AoDCHlibHMzcP4qr8DbJDHjlR",
+    "https://www.featuredcustomers.com/vendor/vention",
+    "https://www.prnewswire.com/news-releases/ventions-disruptive-industrial-automation-approach-boosts-engineering-confidence-in-2023-301716057.html",
+    "https://www.automate.org/robotics/case-studies/vention-simplifies-complex-automation",
+    "https://www.therobotreport.com/vention-opens-physical-ai-lab-manufacturing-montreal/",
+    "https://ventionteams.com/ai/case-studies",
+    "https://www.youtube.com/watch?v=y8ZW4GUvKmI",
+    "https://vention.com/?srsltid=AYCX9vIBxvYuwpqrmc8amILWslTF5yXmJHty10o9ghWPmbPo4nz6BXrQ",
+    "https://metrology.news/vention-secures-110m-to-advance-zero-shot-automation-and-ai-driven-manufacturing/",
+    "https://vention.com/customer-stories"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Vention white label OR reseller OR partner program",
+   "results": [
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://getquantic.com/become-white-label-software-reseller/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://suitedash.com/white-label-software-to-resell/",
+    "https://skyswitch.com/blog/become-a-whitelabel-voip-reseller-full-guide/",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Vention founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/vention",
+    "https://www.owler.com/company/vention",
+    "https://vention.com/press?srsltid=AYCX9vKeSqSa1DCFRroZ5fiHJVSAu-meM_C-IOvN-U621sUX-J0vaRUG",
+    "https://ventionteams.com/newsroom/inc-5000",
+    "https://www.crunchbase.com/organization/vention",
+    "https://pitchbook.com/profiles/company/170846-02",
+    "https://www.zoominfo.com/c/vention/566152649",
+    "https://app.dealroom.co/companies/vention",
+    "https://www.linkedin.com/posts/grishinrobotics_110m-series-d-for-vention-jan-27-2026-activity-7422268327877681154-1cLC",
+    "https://compworth.com/company/vention"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Vention",
+   "results": [
+    "https://note.com/kawamura_akihiro/n/n9d6938f23436",
+    "https://note.com/yasuhitoo/n/n94e74fd62ced",
+    "https://note.com/izuku_idea/n/nc44f66628209",
+    "https://note.com/beaverlab/n/n15e4b99fcbb1",
+    "https://note.com/100plus_lab/n/nbd2a24d36ca8",
+    "https://note.com/keity717/m/md3d3049f819f/hashtag/%E3%82%B3%E3%83%9C%E3%83%83%E3%83%88",
+    "https://note.com/furu_kaggle/n/n750e20422495",
+    "https://note.com/anylabo/n/nfcff981a3481",
+    "https://note.com/100plus_lab/n/n5ce1993c9718",
+    "https://note.com/100plus_lab/n/ndb84c9f62b04"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com Vention",
+   "results": [
+    "https://x.com/ventionteams",
+    "https://x.com/Androidheadline/status/2096123375722594507",
+    "https://x.com/tokka_ken/status/2111119828237140185",
+    "https://x.com/NewsYasuizo/status/2111119522887618963",
+    "https://x.com/ex_royalNEET/status/2119563112236069036",
+    "https://x.com/okappiki3/status/2094957310397550598",
+    "https://x.com/motimutimotiko/status/2118316596930465964",
+    "https://x.com/DescontoGamer/status/2119787828905197676",
+    "https://x.com/smartidphils/status/459933837590405124"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com Vention",
+   "results": [
+    "https://www.linkedin.com/company/ventionteams",
+    "https://ca.linkedin.com/company/vention",
+    "https://www.linkedin.com/company/vention-medical-inc-",
+    "https://www.linkedin.com/in/sergeikovalenko",
+    "https://www.linkedin.com/company/ventiontechnology/",
+    "https://ca.linkedin.com/in/etiennelacroix",
+    "https://www.linkedin.com/in/bsterne",
+    "https://ca.linkedin.com/in/jimmy-li-68861334",
+    "https://ca.linkedin.com/in/francois-giguere-a6476033",
+    "https://ca.linkedin.com/in/brent-wells-81426912"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com Vention",
+   "results": [
+    "https://www.facebook.com/ventionteams/",
+    "https://www.facebook.com/vention.io/",
+    "https://www.facebook.com/VentionMalaysia/",
+    "https://www.facebook.com/ventionphilippines/",
+    "https://www.facebook.com/VentionOfficial/",
+    "https://www.facebook.com/ventionbdofficial/",
+    "https://www.facebook.com/VentionTech/",
+    "https://www.facebook.com/AdrianLeeYC/videos/vention-20000mah-power-bank-review-model-fhp-with-built-in-cable/1074384157325221/",
+    "https://www.facebook.com/VentionMalaysia/posts/find-vention-products-at-your-nearest-store-were-not-just-online-%EF%B8%8Fpart-2-vention/1205940451550923/",
+    "https://www.facebook.com/ventionpakistan/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Vention note 社長",
+   "results": [
+    "https://note.com/sadaaki",
+    "https://x.com/sadaaki",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.com/shacho_homon/m/m1bd972cc202e",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Vention X 投稿",
+   "results": [
+    "https://x.com/ventionteams",
+    "https://ventionteams.com/newsroom",
+    "https://www.instagram.com/ventionteams/",
+    "https://www.facebook.com/ventionteams/",
+    "https://vention.com/press?srsltid=AYCX9vL9cNkkPchf7QkvsGnTchfmX4kX9T7KVIbUHSZtV2HzgEpTmKXi",
+    "https://www.youtube.com/watch?v=1q_PRJHU3ro",
+    "https://www.youtube.com/@Vention_IO",
+    "http://vention.xin/",
+    "https://x.com/Vention9/status/2104007336134361306",
+    "https://ventiontech.com/zh"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部35頁・検索12回）"
+ }
+}

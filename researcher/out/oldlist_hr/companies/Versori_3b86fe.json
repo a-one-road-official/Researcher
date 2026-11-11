@@ -1,0 +1,1356 @@
+{
+ "name": "Versori",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜AI送信失敗",
+ "researched_at": "2026-11-11T06:12:40.049573+00:00",
+ "official_url": "https://www.versori.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "/ prompt with natural language",
+    "url": "https://www.versori.com/",
+    "pass": 1
+   },
+   {
+    "quote": "using prompts or edit integration",
+    "url": "https://www.versori.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Create projects, define systems, and",
+    "url": "https://www.versori.com/",
+    "pass": 1
+   },
+   {
+    "quote": "An unprecedented delivery timeline,",
+    "url": "https://www.versori.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Orders, inventory, pricing, and vouchers now",
+    "url": "https://www.versori.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Data Transformation",
+    "url": "https://www.versori.com/",
+    "pass": 1
+   },
+   {
+    "quote": "drive retention through",
+    "url": "https://www.versori.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce onboarding drop off, upload more products faster and",
+    "url": "https://www.versori.com/",
+    "pass": 1
+   },
+   {
+    "quote": "70% of Merchants Dropped Off Onboarding",
+    "url": "https://www.versori.com/",
+    "pass": 1
+   },
+   {
+    "quote": "review cycles made onboarding",
+    "url": "https://www.versori.com/",
+    "pass": 1
+   },
+   {
+    "quote": "the process before going live.",
+    "url": "https://www.versori.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Onboarding Without The Bottleneck",
+    "url": "https://www.versori.com/",
+    "pass": 1
+   },
+   {
+    "quote": "entire projects, go-lives, revenue and business growth. Versori provided the",
+    "url": "https://www.versori.com/",
+    "pass": 1
+   },
+   {
+    "quote": "and delaying customer projects.",
+    "url": "https://www.versori.com/",
+    "pass": 1
+   },
+   {
+    "quote": "15 product, promotion, inventory, orders, and customer data",
+    "url": "https://www.versori.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Blocked Product Launches",
+    "url": "https://www.versori.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Product information was handled across",
+    "url": "https://www.versori.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Versori deploys natively to GCP but supports AWS & Azure, as well as deploying on prem.",
+    "url": "https://www.versori.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Versori provides a full inhouse solutions team, whether you need us to build, maintain, or both.",
+    "url": "https://www.versori.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Delivering Real-Time Pricing Suggestions to Hoteliers",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "Smartpricing helps hotels",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "optimise room pricing in real time",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "\"The Problem Versori is helping us fix, is the",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "Integration Project Manager, Smartpricing",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "Smartpricing is a data-driven SaaS platform for accommodation providers that automates pricing, inventory and guest communications, helping hotels boost revenue and cut OTA commissions.",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "12 production workflows",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "covering pricing, promotion, availability, and customer data.",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "17 of Smartpricing's hotelier customers saw direct,",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "9 Property Management Systems",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "To keep Growing Without slowing product innovation,",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "smartpricing needed a new approach",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "Smartpricing helps hotels optimise pricing in real time, but without PMS integrations, those insights never reach the systems where pricing decisions actually happen.",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "As Smartpricing expanded its AI-driven pricing platform across the hospitality industry, one thing became clear: integrations would define how quickly the business could grow.",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "For every new hotel property that was onboarded onto Smartpricing’s platform, the team needed access to reservation data, room structures, and pricing systems through the hotel’s property management system (PMS).",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "Smartpricing provides an AI-driven dynamic pricing platform designed specifically for hotels and hospitality operators. The platform analyses demand patterns, booking behaviour, and market signals to automatically optimise room prices, helping hotels maximise both occupancy and revenue.",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "But to generate accurate pricing recommendations, Smartpricing needs constant access to reliable reservation and room data from hotel PMS systems.",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "That data fuels Smartpricing’s algorithms, enabling hotels to optimise room rates on auto-pilot, based on demand, on occupancy and on market signals. Connecting all of this data was becoming increasingly difficult. That meant integrations were not just useful, they were fundamental to the platform.",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "Instead of focusing on improving the AI pricing engine that powered their product, engineers were increasingly tied up building and maintaining integrations.",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "Our team already had other priorities, so speeding up",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "build times and project delivery became critical.”",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "The challenge: real-time pricing,",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "For Smartpricing, growth depended on one thing: integrating with every PMS their customers rely on.",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "Slowing down customer onboarding and expansion",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "And as demand grew, so did the pressure.",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "Versori Partner Program | Build Custom Integrations Instantly",
+    "url": "https://www.versori.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Gain access to marketing materials, strategic guidance, and ongoing support to elevate your brand.",
+    "url": "https://www.versori.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Automate global hiring and payroll with seamless integrations.",
+    "url": "https://www.versori.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate enterprise OMS integration with AI-powered connectors.",
+    "url": "https://www.versori.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Automate time tracking and project management workflows.",
+    "url": "https://www.versori.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify global HR processes with connected workflows.",
+    "url": "https://www.versori.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Marketplace platform and dropshipping solution that allows enterprise companies to scale and grow.",
+    "url": "https://www.versori.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Lead Principal Engineer",
+    "url": "https://www.versori.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "needed to develop integrations with other partners, they have provided",
+    "url": "https://www.versori.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Backend Project Manager",
+    "url": "https://www.versori.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "third-party logistics provider supporting",
+    "url": "https://www.versori.com/case-study/j-j-global-fulfilment",
+    "pass": 1
+   },
+   {
+    "quote": "J&J Global Fulfilment (now part of QLS) is a premier, tech-driven eCommerce 3PL provider for high-growth brands. Founded in 2010, it offers global storage, packing, and shipping from centers in the UK, Europe, USA, Canada, and Australia.",
+    "url": "https://www.versori.com/case-study/j-j-global-fulfilment",
+    "pass": 1
+   },
+   {
+    "quote": "As a rapidly growing third-party logistics provider, J&J Global Fulfilment helps ecommerce brands manage fulfilment operations across multiple systems.",
+    "url": "https://www.versori.com/case-study/j-j-global-fulfilment",
+    "pass": 1
+   },
+   {
+    "quote": "Connector development could take weeks. Engineering resources were stretched. Customer onboarding slowed.",
+    "url": "https://www.versori.com/case-study/j-j-global-fulfilment",
+    "pass": 1
+   },
+   {
+    "quote": "For a 3PL, integration delays don’t just slow projects, they delay go-lives, postpone volume, and push revenue timelines. J&J needed onboarding speed to match operational speed.",
+    "url": "https://www.versori.com/case-study/j-j-global-fulfilment",
+    "pass": 1
+   },
+   {
+    "quote": "\"Versori's ability to offset our development workload has been a game changer in accelerating project completion and ensuring we meet critical deadlines. \"",
+    "url": "https://www.versori.com/case-study/j-j-global-fulfilment",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "accuracy, trusted by",
+    "url": "https://www.versori.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Smartpricing provides an AI-driven dynamic pricing platform designed specifically for hotels and hospitality operators. The platform analyses demand patterns, booking behaviour, and market signals to automatically optimise room prices, helping hotels maximise both occupancy and revenue.",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "Connect warehouse management for smarter inventory control.",
+    "url": "https://www.versori.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Every new client meant integrating new platforms: order management systems, Ecommerce platforms, accounting tools and warehouse software. But building those integrations manually was becoming a bottleneck.",
+    "url": "https://www.versori.com/case-study/j-j-global-fulfilment",
+    "pass": 1
+   },
+   {
+    "quote": "When an order is confirmed, it needs to move immediately into J&J’s fulfilment environment so warehouse teams can begin processing without delay. Versori captures the order event from Acumatica and automatically transforms the data into the format required by J&J’s fulfilment systems.",
+    "url": "https://www.versori.com/case-study/j-j-global-fulfilment",
+    "pass": 1
+   },
+   {
+    "quote": "This creates a closed loop between Acumatica and J&J’s warehouse operations, ensuring both teams always have an accurate, real-time view of order status without manual reconciliation.",
+    "url": "https://www.versori.com/case-study/j-j-global-fulfilment",
+    "pass": 1
+   },
+   {
+    "quote": "Zig Zag Global Case Study | Ecommerce Integrations by Versori",
+    "url": "https://www.versori.com/case-study/zig-zag-global",
+    "pass": 1
+   },
+   {
+    "quote": "ZigZag Global helps e-commerce retailers manage returns by connecting them to a worldwide network of warehouses and carrier services.",
+    "url": "https://www.versori.com/case-study/zig-zag-global",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse Systems Using SFTP",
+    "url": "https://www.versori.com/case-study/zig-zag-global",
+    "pass": 1
+   },
+   {
+    "quote": "Avoiding delays caused by API changes",
+    "url": "https://www.versori.com/case-study/zig-zag-global",
+    "pass": 1
+   },
+   {
+    "quote": "By offloading integration complexity, ZigZag’s engineering team refocused on core innovation. New analytics capabilities, smarter warehouse algorithms, and advanced returns policy engines shipped faster, capabilities that would have stalled under the old integration model.",
+    "url": "https://www.versori.com/case-study/zig-zag-global",
+    "pass": 1
+   },
+   {
+    "quote": "Clarus WMS is a leading provider of warehouse management systems for businesses around the world.",
+    "url": "https://www.versori.com/case-study/clarus",
+    "pass": 1
+   },
+   {
+    "quote": "Clarus, a cloud-native warehouse management system designed for 3PLs and logistics operators, was scaling fast...",
+    "url": "https://www.versori.com/case-study/clarus",
+    "pass": 1
+   },
+   {
+    "quote": "For Clarus, a fast-growing WMS provider trusted by logistics operators globally, the biggest barrier to closing new business wasn’t product quality.",
+    "url": "https://www.versori.com/case-study/clarus",
+    "pass": 1
+   },
+   {
+    "quote": "\"Versori helps us move fast (mapping fields, deploying changes, adapting logic) all without having to rebuild everything from scratch. And that’s a huge advantage when you’re working with 250+ warehouses (and growing).\"",
+    "url": "https://www.versori.com/case-study/clarus",
+    "pass": 1
+   },
+   {
+    "quote": "With these integrations live, warehouse teams no longer needed to manually update orders, correct fulfilment errors, or wrestle with fragmented data in separate systems.",
+    "url": "https://www.versori.com/case-study/clarus",
+    "pass": 1
+   },
+   {
+    "quote": "Managing purchasing, sales, and supplier data across systems created visibility gaps and manual workload for warehouse teams using Clarus and Unleashed. Without a live data link, updates were delayed or inconsistent, increasing the risk of errors and slowing warehouse operations.",
+    "url": "https://www.versori.com/case-study/clarus",
+    "pass": 1
+   },
+   {
+    "quote": "Live Warehouse Visibility:",
+    "url": "https://www.versori.com/case-study/clarus",
+    "pass": 1
+   },
+   {
+    "quote": "Denby Pottery Case Study | Ecommerce Integrations by Versori",
+    "url": "https://www.versori.com/case-study/denby",
+    "pass": 1
+   },
+   {
+    "quote": "Denby Pottery is a renowned British manufacturer based in Derbyshire since 1809, specialising in durable, high-quality, handcrafted stoneware.",
+    "url": "https://www.versori.com/case-study/denby",
+    "pass": 1
+   },
+   {
+    "quote": "Every order touches multiple systems: commerce platforms, ERPs, warehouse management systems, point-of-sale systems, tax engines, payment gateways, shipping providers, and marketplaces.",
+    "url": "https://www.versori.com/case-study/fluent-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse management systems controlling fulfilment",
+    "url": "https://www.versori.com/case-study/fluent-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Syspro is a leading ERP software company that provides the backbone for the people who build, move, and deliver. The True Pros who make manufacturing and distribution run.",
+    "url": "https://www.versori.com/case-study/syspro",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Distribution",
+    "url": "https://www.versori.com/case-study/syspro",
+    "pass": 1
+   },
+   {
+    "quote": "As a global provider to manufacturers and distributors, SYSPRO sat at the centre of complex customer environments.",
+    "url": "https://www.versori.com/case-study/syspro",
+    "pass": 1
+   },
+   {
+    "quote": "\"Syspro is committed to delivering AI-powered digital platforms built for manufacturing and distribution companies, and this partnership will provide unparalleled value to our global ecosystem.\"",
+    "url": "https://www.versori.com/case-study/syspro",
+    "pass": 1
+   },
+   {
+    "quote": "\"Our Agentic integration platform is built to revolutionise how businesses approach integration, making it faster, more scalable and flexible. Syspro’s deep expertise in manufacturing, supply chain and logistics showcases our platform’s strength in handling even the most complex and legacy-heavy environments.\"",
+    "url": "https://www.versori.com/case-study/syspro",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "entire projects, go-lives, revenue and business growth. Versori provided the",
+    "url": "https://www.versori.com/",
+    "pass": 1
+   },
+   {
+    "quote": "revenue loss for Denby.",
+    "url": "https://www.versori.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Smartpricing is a data-driven SaaS platform for accommodation providers that automates pricing, inventory and guest communications, helping hotels boost revenue and cut OTA commissions.",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "instant revenue increases.",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "Smartpricing provides an AI-driven dynamic pricing platform designed specifically for hotels and hospitality operators. The platform analyses demand patterns, booking behaviour, and market signals to automatically optimise room prices, helping hotels maximise both occupancy and revenue.",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "Removing Major Barriers To Scale",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "17 customers saw isntant increases in revenue",
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage Versori’s experts on client calls to remove technical barriers and close more deals.",
+    "url": "https://www.versori.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Earn a share of every deal by referring new clients to Versori and unlocking additional revenue streams.",
+    "url": "https://www.versori.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "J&J Global Fulfilment (now part of QLS) is a premier, tech-driven eCommerce 3PL provider for high-growth brands. Founded in 2010, it offers global storage, packing, and shipping from centers in the UK, Europe, USA, Canada, and Australia.",
+    "url": "https://www.versori.com/case-study/j-j-global-fulfilment",
+    "pass": 1
+   },
+   {
+    "quote": "For a 3PL, integration delays don’t just slow projects, they delay go-lives, postpone volume, and push revenue timelines. J&J needed onboarding speed to match operational speed.",
+    "url": "https://www.versori.com/case-study/j-j-global-fulfilment",
+    "pass": 1
+   },
+   {
+    "quote": "ZigZag Global helps e-commerce retailers manage returns by connecting them to a worldwide network of warehouses and carrier services.",
+    "url": "https://www.versori.com/case-study/zig-zag-global",
+    "pass": 1
+   },
+   {
+    "quote": "With billions of dollars in returns flowing through its platform each year, the margin for error is thin. Any delay, data mismatch, or failed integration directly impacts retailer revenue, customer trust, and brand loyalty.",
+    "url": "https://www.versori.com/case-study/zig-zag-global",
+    "pass": 1
+   },
+   {
+    "quote": "\"Any failure during peak season would have cost retailers millions in lost revenue and broken trust.\"",
+    "url": "https://www.versori.com/case-study/zig-zag-global",
+    "pass": 1
+   },
+   {
+    "quote": "For a company processing billions in returns annually, Versori removed the fundamental barrier holding ZigZag back. The result: a scalable foundation that supports growth, experimentation, and industry leadership.",
+    "url": "https://www.versori.com/case-study/zig-zag-global",
+    "pass": 1
+   },
+   {
+    "quote": "3 Systems, 90% Time Reduction, £100k+ Revenue",
+    "url": "https://www.versori.com/case-study/clarus",
+    "pass": 1
+   },
+   {
+    "quote": "90% and Accelerated Revenue Growth",
+    "url": "https://www.versori.com/case-study/clarus",
+    "pass": 1
+   },
+   {
+    "quote": "For Clarus, a fast-growing WMS provider trusted by logistics operators globally, the biggest barrier to closing new business wasn’t product quality.",
+    "url": "https://www.versori.com/case-study/clarus",
+    "pass": 1
+   },
+   {
+    "quote": "As contracts grew in size and complexity, these bottlenecks started costing real revenue: over £350,000 in at-risk deals alone.",
+    "url": "https://www.versori.com/case-study/clarus",
+    "pass": 1
+   },
+   {
+    "quote": "Costing Time & Revenue",
+    "url": "https://www.versori.com/case-study/clarus",
+    "pass": 1
+   },
+   {
+    "quote": "\"Versori is already helping us expand our customer base and revenue.\"",
+    "url": "https://www.versori.com/case-study/clarus",
+    "pass": 1
+   },
+   {
+    "quote": "In a world where commerce platforms, ERPs, and fulfilment systems must work as one, the ability to synchronise complex workflows reliably and rapidly can make the difference between stagnation and scaling revenue.",
+    "url": "https://www.versori.com/case-study/clarus",
+    "pass": 1
+   },
+   {
+    "quote": "\"All 6 systems had to be connected in 6 months. Any delays or instability during peak season would have directly impacted revenue.\"",
+    "url": "https://www.versori.com/case-study/denby",
+    "pass": 1
+   },
+   {
+    "quote": "Without the right integration layer, these dependencies risked slowing the project, introducing errors, or worse, putting revenue at risk during peak trading periods.",
+    "url": "https://www.versori.com/case-study/denby",
+    "pass": 1
+   },
+   {
+    "quote": "This ensures discounts are applied correctly without slowing down the checkout experience. Once the order is confirmed, voucher and order data flow into Denby’s systems, protecting revenue while delivering a smooth, trusted customer experience.",
+    "url": "https://www.versori.com/case-study/denby",
+    "pass": 1
+   },
+   {
+    "quote": "Because while the Fluent OMS itself can be deployed quickly, integration work often becomes the longest and most complex part of the project.",
+    "url": "https://www.versori.com/case-study/fluent-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Tax, payments, and carriers supporting transactions",
+    "url": "https://www.versori.com/case-study/fluent-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Fluent Commerce can confidently support a broader range of customer ecosystems, removing integration barriers during the sales process.",
+    "url": "https://www.versori.com/case-study/fluent-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "were hurting revenue. What seemed isolated revealed a wider issue: integration had become a",
+    "url": "https://www.versori.com/case-study/syspro",
+    "pass": 1
+   },
+   {
+    "quote": "\"The immediate top priority is enhancing the SugarCRM integration, which is currently a key revenue blocker. Beyond this, the next priorities are a Salesforce connector, bMobile, and Shopify, to expand the core integration offering.\"",
+    "url": "https://www.versori.com/case-study/syspro",
+    "pass": 1
+   },
+   {
+    "quote": "With the integrations in place, Peak Projects could see how BigTime would work inside their business as part of a connected system.",
+    "url": "https://www.versori.com/case-study/bigtime-software",
+    "pass": 1
+   },
+   {
+    "quote": "He has built multiple companies across tech and eCommerce, including Hatch (acquired by Social Chain), Mercarto, Gitwork, and now Versori.",
+    "url": "https://www.versori.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "A key complexity emerged early around the Seaware API, which required deeper exploration and ongoing collaboration with the vendor. Rather than delaying progress, this became part of the build rhythm itself, shaping how the integration was designed and refined over time.",
+    "url": "https://www.versori.com/case-study/hx-expeditions",
+    "pass": 1
+   },
+   {
+    "quote": "最高経営責任者（CEO）Hugo Sarrazinは、企業が税務およびコンプライアンスを既存のシステムに接続するために多大なエンジニアリング時間を費やすべきではないと述べました",
+    "url": "https://www.unite.ai/ja/avalara-makes-versori-agentic-integration-fabric-available/",
+    "pass": 3
+   },
+   {
+    "quote": "テクノロジー株の下落を受け、AnthropicのIPO評価額予想が低下",
+    "url": "https://www.unite.ai/ja/avalara-makes-versori-agentic-integration-fabric-available/",
+    "pass": 3
+   },
+   {
+    "quote": "Previously Founder and CEO at Mercarto (eCommerce/marketplace platform - acquired) and Hatch (Influencer Platform Acquired by Social Chain AG), Sean is fanatical about building technology to provide critical business infrastructure.",
+    "url": "https://www.ycombinator.com/companies/versori",
+    "pass": 3
+   },
+   {
+    "quote": "As an Avalara partner, unlock Versori access for your first integration. Accelerate customer integrations, eliminate bottlenecks, and generate revenue faster.",
+    "url": "https://developer.avalara.com/versori/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, as a separate paid engagement — not part of the free offer.",
+    "url": "https://developer.avalara.com/versori/",
+    "pass": 3
+   },
+   {
+    "quote": "Versori 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/494088-85",
+    "pass": 3
+   },
+   {
+    "quote": "Versori has 23 total employees.",
+    "url": "https://pitchbook.com/profiles/company/494088-85",
+    "pass": 3
+   },
+   {
+    "quote": "What is Versori’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/494088-85",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Versori is",
+    "url": "https://pitchbook.com/profiles/company/494088-85",
+    "pass": 3
+   },
+   {
+    "quote": "When was Versori acquired?",
+    "url": "https://pitchbook.com/profiles/company/494088-85",
+    "pass": 3
+   },
+   {
+    "quote": "Versori was acquired on 27-Feb-2026.",
+    "url": "https://pitchbook.com/profiles/company/494088-85",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired Versori?",
+    "url": "https://pitchbook.com/profiles/company/494088-85",
+    "pass": 3
+   },
+   {
+    "quote": "Versori was acquired by",
+    "url": "https://pitchbook.com/profiles/company/494088-85",
+    "pass": 3
+   },
+   {
+    "quote": "Versori Revenue 2024: $2.4M Est.",
+    "url": "https://getlatka.com/companies/versori.com",
+    "pass": 3
+   },
+   {
+    "quote": "Versori has not published its revenue. GetLatka estimates it at about $2.4M a year (June 2024).",
+    "url": "https://getlatka.com/companies/versori.com",
+    "pass": 3
+   },
+   {
+    "quote": "Versori CEO, founders & employees",
+    "url": "https://getlatka.com/companies/versori.com",
+    "pass": 3
+   },
+   {
+    "quote": "Sean Brown founded Versori in 2022 and runs it as CEO. Versori had 16 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/versori.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Versori's revenue?",
+    "url": "https://getlatka.com/companies/versori.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Versori's revenue at about",
+    "url": "https://getlatka.com/companies/versori.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Versori have?",
+    "url": "https://getlatka.com/companies/versori.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/versori.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/versori.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/versori.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/versori.com",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Versori Partner Program | Build Custom Integrations Instantly",
+    "url": "https://www.versori.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Gain access to marketing materials, strategic guidance, and ongoing support to elevate your brand.",
+    "url": "https://www.versori.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Versori connects Salesforce with Seaware to automate HX’s commercial and loyalty workflows. New or updated agencies in Salesforce are created/updated in Seaware, with extended rules that maintain time-bound classifications (office code, final payment, first deposit, and FIT/GRP commissions).",
+    "url": "https://www.versori.com/case-study/hx-expeditions",
+    "pass": 1
+   },
+   {
+    "quote": "プラットフォームへのアクセスが付与される前にコースの修了が必須で、以下の3つの前提条件が順に適用されます：有効なAvalaraパートナープログラム契約、Technology Partner Programへの登録、Versori Platform Addendumの受諾",
+    "url": "https://www.unite.ai/ja/avalara-makes-versori-agentic-integration-fabric-available/",
+    "pass": 3
+   },
+   {
+    "quote": "Join the Avalara partner program or amend your agreement to activate the Versori add-on and start your training.",
+    "url": "https://developer.avalara.com/versori/",
+    "pass": 3
+   },
+   {
+    "quote": "Three things, in order: an active Avalara Partner Program agreement, enrollment in the Technology Partner Program, and acceptance of the Versori Platform Addendum. Each builds on the previous requirement.",
+    "url": "https://developer.avalara.com/versori/",
+    "pass": 3
+   },
+   {
+    "quote": "What happens if I leave the Partner Program?",
+    "url": "https://developer.avalara.com/versori/",
+    "pass": 3
+   },
+   {
+    "quote": "Your free Versori access ends if you leave the Partner Program. However, you can choose to continue using Versori as a paying direct customer at any time.",
+    "url": "https://developer.avalara.com/versori/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Avalara、 Versori エージェント統合ファブリックを利用可能に — Avalara、 Versori エージェント統合ファブリックを利用可能に Unite.AI https://www.unite.ai > avalara-makes-versori-agentic-integ...",
+    "url": "https://www.unite.ai/ja/avalara-makes-versori-agentic-integration-fabric-available/",
+    "pass": 3
+   },
+   {
+    "quote": "Versori | The Agentic Integration Platform | Build Custom ... — Versori | The Agentic Integration Platform | Build Custom ... Versori https://www.versori.com",
+    "url": "https://www.versori.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Versori | LinkedIn — Versori | LinkedIn LinkedIn https://uk.linkedin.com > useversori",
+    "url": "https://uk.linkedin.com/company/useversori",
+    "pass": 3
+   },
+   {
+    "quote": "Versori : Agentic integrations & automations for enterprise — Versori : Agentic integrations & automations for enterprise Y Combinator https://www.ycombinator.com > versori",
+    "url": "https://www.ycombinator.com/companies/versori",
+    "pass": 3
+   },
+   {
+    "quote": "Versori Training Program for Partners - Avalara — Versori Training Program for Partners - Avalara Avalara https://www.avalara.com > blog > ver...",
+    "url": "https://www.avalara.com/us/en/blog/versori-training-program-partners.html",
+    "pass": 3
+   },
+   {
+    "quote": "Zig Zag Global Case Study | Ecommerce Integrations by Versori — Zig Zag Global Case Study | Ecommerce Integrations by Versori Versori https://www.versori.com > case-study",
+    "url": "https://www.versori.com/case-study/zig-zag-global",
+    "pass": 3
+   },
+   {
+    "quote": "Syspro Partners with Versori for AI-Powered Integrations — Syspro Partners with Versori for AI-Powered Integrations Syspro https://www.syspro.com > press_release",
+    "url": "https://www.syspro.com/press_release/syspro-partners-with-versori-to-unlock-smarter-faster-ai-powered-enterprise-data-integrations-for-manufacturers-and-distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "Versori Partner Program | Build Custom Integrations Instantly — Versori Partner Program | Build Custom Integrations Instantly Versori https://www.versori.com > partners",
+    "url": "https://www.versori.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Versori | Avalara Developer — Versori | Avalara Developer Avalara Developer https://developer.avalara.com > versori",
+    "url": "https://developer.avalara.com/versori/",
+    "pass": 3
+   },
+   {
+    "quote": "Versori - 2026 Company Profile & Team - Tracxn — Versori - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/versori/__7l1zSH8UPokJXsIbE36KQqkx2hoFGFl0VJmnLSFVmXM",
+    "pass": 3
+   },
+   {
+    "quote": "Versori 2026 Company Profile: Valuation, Investors, Acquisition — Versori 2026 Company Profile: Valuation, Investors, Acquisition PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/494088-85",
+    "pass": 3
+   },
+   {
+    "quote": "Versori - Crunchbase Company Profile & Funding — Versori - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > versori",
+    "url": "https://www.crunchbase.com/organization/versori",
+    "pass": 3
+   },
+   {
+    "quote": "Versori Revenue 2024: $2.4M Est. - GetLatka — Versori Revenue 2024: $2.4M Est. - GetLatka GetLatka https://getlatka.com > versori",
+    "url": "https://getlatka.com/companies/versori.com",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/494088-85",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Versori | LinkedIn Versori | LinkedIn LinkedIn https://uk.linkedin.com > useversori",
+    "url": "https://uk.linkedin.com/company/useversori",
+    "pass": 3
+   },
+   {
+    "quote": "Versori : Building custom integrations for enterprise and ... Versori : Building custom integrations for enterprise and ... LinkedIn https://www.linkedin.com > posts > sean1brown_at-versor...",
+    "url": "https://www.linkedin.com/posts/sean1brown_at-versori-were-used-to-building-complex-activity-7389240460009062400-D_HC",
+    "pass": 3
+   },
+   {
+    "quote": "Daniel Jones - Founder @ Versori , by Avalara / The Agentic ... Daniel Jones - Founder @ Versori , by Avalara / The Agentic ... LinkedIn https://uk.linkedin.com > dan-jones25...",
+    "url": "https://uk.linkedin.com/in/dan-jones25217",
+    "pass": 3
+   },
+   {
+    "quote": "Sean Brown - Versori - LinkedIn Sean Brown - Versori - LinkedIn LinkedIn https://uk.linkedin.com > ...",
+    "url": "https://uk.linkedin.com/in/sean1brown",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "SNAPPED UP Manchester AI integration start-up Versori has SNAPPED UP Manchester AI integration start-up Versori has Facebook https://www.facebook.com > ... > NEWS@KEN | Facebook",
+    "url": "https://www.facebook.com/groups/384926985723985/posts/1677842393099098/",
+    "pass": 3
+   },
+   {
+    "quote": "With Versori by Avalara, you can have integrations in days, not ... With Versori by Avalara, you can have integrations in days, not ... Facebook https://www.facebook.com > avalara > posts > with-versor...",
+    "url": "https://www.facebook.com/avalara/posts/with-versori-by-avalara-you-can-have-integrations-in-days-not-months-versori-is-/1581677977326644/",
+    "pass": 3
+   },
+   {
+    "quote": "Versori Delivers CRM Booking Integration System for HX ... Versori Delivers CRM Booking Integration System for HX ... Facebook https://www.facebook.com > CruiseIndustryNews > posts",
+    "url": "https://www.facebook.com/CruiseIndustryNews/posts/versori-delivers-crm-booking-integration-system-for-hx-expeditions/1446892324106953/",
+    "pass": 3
+   },
+   {
+    "quote": "Versori Jewels updated their cover photo. - Facebook Versori Jewels updated their cover photo. - Facebook Facebook https://www.facebook.com > photos",
+    "url": "https://www.facebook.com/61594303785845/photos/122107945215476792/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.versori.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.versori.com/case-study/smartpricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.versori.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.versori.com/case-study/j-j-global-fulfilment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.versori.com/case-study/zig-zag-global",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.versori.com/case-study/clarus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.versori.com/case-study/denby",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.versori.com/case-study/fluent-commerce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.versori.com/case-study/syspro",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.versori.com/case-study/bigtime-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.versori.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.versori.com/case-study/hx-expeditions",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.unite.ai/ja/avalara-makes-versori-agentic-integration-fabric-available/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verizon.com/business/ja-jp/solutions/industry/automotive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/ja/settings/News-Data/release",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.newsroom.ibm.com/announcements?l=100&o=300",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wadax.ne.jp/company/agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manageengine.jp/pace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.famictech.com/ja/%E4%BC%9A%E7%A4%BE/%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%BE%E3%81%9F%E3%81%AF%E5%86%8D%E8%B2%A9%E6%A5%AD%E8%80%85",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.servants.co.jp/company/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/useversori",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.stage2.capital/blog/transforming-data-integration-infrastructure-our-seed-investment-in-versori",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/versori",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalshopsolutions.com/manufacturing-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infor.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://developer.avalara.com/versori/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/versori/__7l1zSH8UPokJXsIbE36KQqkx2hoFGFl0VJmnLSFVmXM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/494088-85",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/versori",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/versori.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/useversori",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/sean1brown_at-versori-were-used-to-building-complex-activity-7389240460009062400-D_HC",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/dan-jones25217",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/sean1brown",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/384926985723985/posts/1677842393099098/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/avalara/posts/with-versori-by-avalara-you-can-have-integrations-in-days-not-months-versori-is-/1581677977326644/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CruiseIndustryNews/posts/versori-delivers-crm-booking-integration-system-for-hx-expeditions/1446892324106953/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61594303785845/photos/122107945215476792/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Versori 日本 導入",
+   "results": [
+    "https://www.unite.ai/ja/avalara-makes-versori-agentic-integration-fabric-available/",
+    "https://www.verizon.com/business/ja-jp/solutions/industry/automotive/",
+    "https://www.sumitomocorp.com/ja/settings/News-Data/release",
+    "https://jp.newsroom.ibm.com/announcements?l=100&o=300",
+    "https://japan.drivenets.com/blog",
+    "https://www.autostoresystem.com/ja/system/workstations/versa-ai",
+    "https://www.rikei.co.jp/product/733/",
+    "https://www.tricentis.com/ja/news/tricentis-sets-ambition-for-japanese-business",
+    "https://www.promise.com/jp/NewsRoom",
+    "https://www.versori.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Versori 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.wadax.ne.jp/company/agent/",
+    "https://www.manageengine.jp/pace/",
+    "https://www.famictech.com/ja/%E4%BC%9A%E7%A4%BE/%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%BE%E3%81%9F%E3%81%AF%E5%86%8D%E8%B2%A9%E6%A5%AD%E8%80%85",
+    "https://www.servants.co.jp/company/business/",
+    "https://www.digima-japan.com/knowhow/world/19787.php",
+    "https://www.te.com/ja/customer-support/authorized-distributors.html",
+    "https://alpc.tokyo/pages/business-d2c",
+    "https://www.pagerduty.co.jp/topics/8565/",
+    "https://biz.jfe-systems.com/products/fibridge_dairiten",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Versori Japan",
+   "results": [
+    "https://www.versori.com/",
+    "https://uk.linkedin.com/company/useversori",
+    "https://www.stage2.capital/blog/transforming-data-integration-infrastructure-our-seed-investment-in-versori",
+    "https://www.ycombinator.com/companies/versori",
+    "https://www.avalara.com/us/en/blog/versori-training-program-partners.html",
+    "https://www.youtube.com/watch?v=BF5_oVSQnKQ",
+    "https://www.versori.com/blog",
+    "https://www.linkedin.com/videos/sean1brown_integrations-were-the-most-frustrating-challenge-activity-7371159702577025026-LSgm",
+    "https://www.prnewswire.co.uk/news-releases/avalara-brings-agentic-ai-speed-to-enterprise-integration-with-versori-by-avalara-302888362.html",
+    "https://www.versori.com/about"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Versori manufacturing customer case study",
+   "results": [
+    "https://www.versori.com/case-study/zig-zag-global",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.globalshopsolutions.com/manufacturing-case-studies",
+    "https://www.infor.com/customer-stories",
+    "https://www.syspro.com/press_release/syspro-partners-with-versori-to-unlock-smarter-faster-ai-powered-enterprise-data-integrations-for-manufacturers-and-distributors/",
+    "https://www.advantech.com/en-us/resources/case-study/explore-success-stories-for-smart-manufacturing",
+    "https://bizowie.com/case-studies",
+    "https://www.sourcefuse.com/resources/case-studies/",
+    "https://www.blueprism.com/resources/case-studies/",
+    "https://www.casestudies.com/company/versori/case-study/expanding-cross-border-customer-reach-with-versori"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Versori white label OR reseller OR partner program",
+   "results": [
+    "https://www.versori.com/partners",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://developer.avalara.com/versori/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://suitedash.com/white-label-software-to-resell/",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Versori founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/versori/__7l1zSH8UPokJXsIbE36KQqkx2hoFGFl0VJmnLSFVmXM",
+    "https://pitchbook.com/profiles/company/494088-85",
+    "https://www.crunchbase.com/organization/versori",
+    "https://getlatka.com/companies/versori.com",
+    "https://multiples.vc/private-comps/avalara",
+    "https://www.stage2.capital/blog/transforming-data-integration-infrastructure-our-seed-investment-in-versori",
+    "https://newsroom.avalara.com/2026-03-02-Avalara-Acquires-Versori-to-Accelerate-AI-Native,-Enterprise-Grade-Integration-at-Global-Scale",
+    "https://ecosystem.andorra-startup.com/companies/versori",
+    "https://uk.linkedin.com/company/useversori",
+    "https://prospeo.io/c/versori-revenue"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Versori",
+   "results": [
+    "https://note.com/wise_turtle184",
+    "https://note.com/diparururun",
+    "https://note.com/watarutida/m/meef47a7cc358",
+    "https://note.com/tag/文藝大賞2026",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/beloved_tomoka/n/na6ae86916d89",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Versori",
+   "results": [
+    "https://x.com/avalara",
+    "https://x.com/_isabeledwards/status/1848273182320390468",
+    "https://x.com/GeorgeGoodfell9/status/1629868898353856513",
+    "https://x.com/InAIToday",
+    "https://x.com/VersorInc/status/2120209057260978414",
+    "https://x.com/useVersori",
+    "https://x.com/avalara/status/2028491825753833751",
+    "https://x.com/AndreiaVersori",
+    "https://x.com/DPrello/status/2114490260621336616",
+    "https://x.com/TheBrinkOfDeath/status/2119592897255260643"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:linkedin.com Versori",
+   "results": [
+    "https://uk.linkedin.com/company/useversori",
+    "https://www.linkedin.com/posts/sean1brown_at-versori-were-used-to-building-complex-activity-7389240460009062400-D_HC",
+    "https://uk.linkedin.com/in/dan-jones25217",
+    "https://uk.linkedin.com/in/sean1brown",
+    "https://www.linkedin.com/posts/avalara_taxcompliance-finance-technology-activity-7434254227927019520-e8UY",
+    "https://www.linkedin.com/posts/hugo-sarrazin_ai-can-move-incredibly-fast-enterprise-integration-activity-7508885118288089089-KfbC",
+    "https://www.linkedin.com/posts/sean1brown_since-avalara-acquired-versori-ive-been-activity-7456017217453924352-aauZ",
+    "https://www.linkedin.com/videos/sean1brown_integrations-were-the-most-frustrating-challenge-activity-7371159702577025026-LSgm",
+    "https://www.linkedin.com/posts/sakibdadi_congratulations-to-sean-brown-daniel-jones-activity-7434290286345814016-JxTB",
+    "https://www.linkedin.com/in/mattmaskulka"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Versori",
+   "results": [
+    "https://www.facebook.com/groups/384926985723985/posts/1677842393099098/",
+    "https://www.facebook.com/avalara/posts/with-versori-by-avalara-you-can-have-integrations-in-days-not-months-versori-is-/1581677977326644/",
+    "https://www.facebook.com/CruiseIndustryNews/posts/versori-delivers-crm-booking-integration-system-for-hx-expeditions/1446892324106953/",
+    "https://www.facebook.com/61594303785845/photos/122107945215476792/",
+    "https://www.facebook.com/events/via-versori-59-35042-este-italy/24-anniversario-extense/1103302802458584/",
+    "https://www.facebook.com/p/Lala-Versori-61595804515061/",
+    "https://www.facebook.com/61590842935183/photos/122137590477361431/",
+    "https://www.facebook.com/groups/882677759351532/posts/2246894526263175/",
+    "https://www.facebook.com/destinationitalyofficial/posts/piazza-grande-in-arezzo-tuscany-is-a-wonderful-historic-square-arezzo-is-just-an/1725805146214555/",
+    "https://www.facebook.com/vanerversoriofficial/photos/just-got-published-in-the-newspaper-cheers-for-that-thanks-for-all-support-for-a/494944194002901/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Versori note 社長",
+   "results": [
+    "https://x.com/sadaaki",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://note.com/trex_ai",
+    "https://note.com/ai_shacho",
+    "https://hutzper.com/news/notice/n261025/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://note.com/sadaaki",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Versori X 投稿",
+   "results": [
+    "https://www.versori.com/",
+    "https://www.youtube.com/watch?v=BF5_oVSQnKQ",
+    "https://www.ycombinator.com/launches/Nlg-versori-integration-workflow-automation-magic",
+    "https://www.versori.com/post/new-homepage",
+    "https://publish.x.com/",
+    "https://note.com/dx_ai_tools/n/nd831ea9143ab",
+    "https://www.youtube.com/watch?v=VHGqD0sAZ9M",
+    "https://lifrell-tech.com/950/",
+    "https://github.com/sorein-mio/auto-post-to-x",
+    "https://x.com/useVersori"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部29頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部29頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部29頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部29頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部29頁・検索12回）"
+ }
+}

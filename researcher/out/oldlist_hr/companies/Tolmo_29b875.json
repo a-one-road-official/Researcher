@@ -1,0 +1,928 @@
+{
+ "name": "Tolmo",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T06:41:02.228238+00:00",
+ "official_url": "https://www.tolmo.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "18-Jun-2026 $22M   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/1421605-90",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "$22M",
+    "url": "https://www.tooljunction.io/ai-tools/tolmo/company",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2026",
+    "url": "https://www.tooljunction.io/ai-tools/tolmo/company",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, CA",
+    "url": "https://www.tooljunction.io/ai-tools/tolmo/company",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Tolmo: AI security agents for your production stack",
+    "url": "https://tolmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tolmo's security agents run across your entire stack, catching and remediating threats in seconds. The fleet you can rely on to protect your production environments.",
+    "url": "https://tolmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tests your production like an adversary would, and proves real impact.",
+    "url": "https://tolmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real exploitability: every finding is proven, not theoretical, with rich engineering context",
+    "url": "https://tolmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Classifies what every datastore holds and who reads or writes it",
+    "url": "https://tolmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A time machine for production environments",
+    "url": "https://tolmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tolmo gathers context from across your stack, connects it in a rich production graph, and keeps a history of every change. A real time machine for production environments. A fleet of security agents works the graph continuously.",
+    "url": "https://tolmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pull context and metadata from cloud providers, third-party vendors, and every integration your stack depends on.",
+    "url": "https://tolmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stitch it into a rich production graph where code, infrastructure, security, and observability live in one connected view.",
+    "url": "https://tolmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tolmo builds a live knowledge graph of your entire production environment: code, cloud, CI, observability, and security vendors.",
+    "url": "https://tolmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Security research, infrastructure notes, and what our agents find in production, straight to your inbox.",
+    "url": "https://tolmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We spent seven years shipping production security at scale, then",
+    "url": "https://tolmo.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing & Comms @ Tolmo",
+    "url": "https://tolmo.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Works across product and go-to-market.",
+    "url": "https://tolmo.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise sales and security investor. Built early go-to-market at Cloudflare.",
+    "url": "https://tolmo.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Leaders in production systems.",
+    "url": "https://tolmo.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "founding team, with 800+ customers in production, acq. by Datadog",
+    "url": "https://tolmo.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "President, Cloudflare",
+    "url": "https://tolmo.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We're hiring across security, AI, and product engineering.",
+    "url": "https://tolmo.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We've built and scaled production security used by hundreds of companies, and now we're building what we wished we'd had.",
+    "url": "https://tolmo.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "All roles are based in San Francisco. We're not hiring for remote positions at this time.",
+    "url": "https://tolmo.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Software Engineer, Product",
+    "url": "https://tolmo.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Run technical evaluations and prove value in production.",
+    "url": "https://tolmo.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We hire exceptional people opportunistically, even when there’s no open role. If you’re the best at something we’ll obviously need (security research, distributed systems, design, go-to-market, operations), reach out anyway using the contact form and make your case. Some of our best hires started exactly this way.",
+    "url": "https://tolmo.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Easy! Follow the link below and fill out the contact form. Tell us in a few sentences what you’ve built and why this problem matters to you, and include a link to your GitHub, a project, or anything else you’re proud of. A human reads every single message and replies!",
+    "url": "https://tolmo.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Download all Press Kit",
+    "url": "https://tolmo.com/about/press-kit/",
+    "pass": 1
+   },
+   {
+    "quote": "Tolmo's symbol is composed of two complementary layers: a continuous foundation representing the ever-evolving production environment, and an elevated layer that surfaces the signals that matter. By creating a hierarchy between noise and meaningful context, the symbol reflects Tolmo's mission of turning the complexity of modern systems into clear, accessible, and actionable understanding.",
+    "url": "https://tolmo.com/about/press-kit/",
+    "pass": 1
+   },
+   {
+    "quote": "Tolmo’s color system communicates clarity within complex environments. Deep navy provides a",
+    "url": "https://tolmo.com/about/press-kit/",
+    "pass": 1
+   },
+   {
+    "quote": "precision, and accessibility. Rethink Sans serves as the primary typeface, giving the",
+    "url": "https://tolmo.com/about/press-kit/",
+    "pass": 1
+   },
+   {
+    "quote": "brand a distinctive yet approachable voice, while Inter Tight provides excellent",
+    "url": "https://tolmo.com/about/press-kit/",
+    "pass": 1
+   },
+   {
+    "quote": "Tolmo's visual system uses geometric compositions and layered structures to express",
+    "url": "https://tolmo.com/about/press-kit/",
+    "pass": 1
+   },
+   {
+    "quote": "Finds the exploits hidden in your code, CI, cloud, and production before attackers do.",
+    "url": "https://tolmo.com/product/",
+    "pass": 3
+   },
+   {
+    "quote": "• 本番環境ナレッジグラフ（Production Knowledge Graph）：AWSなどのパブリッククラウド、GitHubなどのソースコード管理、CI/CD、DatadogやSentryなどの監視基盤、SnykやWizといった既存セキ",
+    "url": "https://www.firstcvc.jp/global/tolmo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Swishは、2024年にインドのベンガルールで設立されたフードテック企業です（運営法人：Munchmart Technologies Private L...",
+    "url": "https://www.firstcvc.jp/global/tolmo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Fundly.ai（運営法人: Ardour Analytics Private Limited）は、インドの医薬品サプライチェーンに特化した金融ソリュー...",
+    "url": "https://www.firstcvc.jp/global/tolmo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Hello. Tolmo. $22M to build the Agent Fleet Securing Production Environments",
+    "url": "https://tolmo.com/categories/company/",
+    "pass": 3
+   },
+   {
+    "quote": "We are introducing Tolmo and announcing $22M from Accel and Y Combinator to build an always-on fleet of AI security agents for production environments.",
+    "url": "https://tolmo.com/categories/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Tolmo 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/1421605-90",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of cybersecurity software intended to detect, investigate, and remediate security threats across production environments.",
+    "url": "https://pitchbook.com/profiles/company/1421605-90",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of cybersecurity software intended to detect, investigate, and remediate security threats across production environments. The company offers security agents, pentesting, internal discovery, remediation, production knowledge graphs, and security monitoring, enabling security teams to identify, prioritize, and remediate threats across their production environments.",
+    "url": "https://pitchbook.com/profiles/company/1421605-90",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/1421605-90",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/1421605-90",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/1421605-90",
+    "pass": 3
+   },
+   {
+    "quote": "Tolmo’s primary industry is Network Management Software.",
+    "url": "https://pitchbook.com/profiles/company/1421605-90",
+    "pass": 3
+   },
+   {
+    "quote": "Is Tolmo a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/1421605-90",
+    "pass": 3
+   },
+   {
+    "quote": "Tolmo is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/1421605-90",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy Preference Center",
+    "url": "https://pitchbook.com/profiles/company/1421605-90",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/1421605-90",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/1421605-90",
+    "pass": 3
+   },
+   {
+    "quote": "Read full review, pricing, and alternatives",
+    "url": "https://www.tooljunction.io/ai-tools/tolmo/company",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "watched it break inside one of the world's largest cloud platforms after Datadog acquired",
+    "url": "https://tolmo.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Security researcher. Founder of Comae (acquired by Magnet Forensics) and co-founder of CloudVolumes (acquired by VMware).",
+    "url": "https://tolmo.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Positioning, launches, and competitive narrative.",
+    "url": "https://tolmo.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/tolmo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/tolmo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Tolmo has 12 total employees.",
+    "url": "https://pitchbook.com/profiles/company/1421605-90",
+    "pass": 3
+   },
+   {
+    "quote": "What is Tolmo’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/1421605-90",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Tolmo is",
+    "url": "https://pitchbook.com/profiles/company/1421605-90",
+    "pass": 3
+   },
+   {
+    "quote": "Tolmo Funding, Revenue & Investors — $22M Raised (2026) | ToolJunction",
+    "url": "https://www.tooljunction.io/ai-tools/tolmo/company",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "We've built and scaled production security used by hundreds of companies, and now we're building what we wished we'd had.",
+    "url": "https://tolmo.com/about/careers/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Tolmo: AI security agents for your production stack — Autonomous security agents on a live knowledge graph of your code, cloud, and vendors. Tolmo finds vulnerabilities, misconfigurations, and threats, then ships the fix.",
+    "url": "https://tolmo.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Product · Tolmo — Product Three agents. Every angle covered. Tolmo connects your entire stack, builds a real-time knowledge graph, and runs a fleet of autonomous agents on top of it. Traditional tools ingest data. Tolmo understands it. Agents act on it.",
+    "url": "https://tolmo.com/product/",
+    "pass": 3
+   },
+   {
+    "quote": "Tolmoの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — Y Combinator、Accelのポートフォリオに掲載される海外スタートアップTolmoの企業プロフィール。 Tolmoは、AIを活用したソフトウェア開発環境に対応する自律型サイバーセキュリティプラットフォームを開発・提供するスタートアップである。",
+    "url": "https://www.firstcvc.jp/global/tolmo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Tolmo - Mac・Windows向けデスクトップアプリ - WebCatalog — Tolmo は、コード、インフラストラクチャ、セキュリティ アラート、運用上の変更を 1 つのビューで結び付けることで、組織がエージェントの導入や運用コードの変更を必要とせずに、脆弱性管理、セキュリティ監視、脅威検出、修復ワークフローを改善 ...",
+    "url": "https://webcatalog.io/ja/apps/tolmo",
+    "pass": 3
+   },
+   {
+    "quote": "About Tolmo · Tolmo — About The team that's done this before, building what comes next. We spent seven years shipping production security at scale, then watched it break inside one of the world's largest cloud platforms after Datadog acquired us. Tolmo is the tool we needed and couldn't find.",
+    "url": "https://tolmo.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Company · Tolmo — Jun 18, 2026 · Tolmo's security agents run across your entire stack, catching and remediating threats in seconds. The fleet you can trust to protect your production environment.",
+    "url": "https://tolmo.com/categories/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study Toledo Custom Manufacturing Quality Control.docx...About Tolmo · TolmoCase Study Analysis of Toyota Company and make time to marketCase Study: Toll Manufacturing - Blended WaxesContact - Tolmo — Apr 10, 2021 · Assignment- Case Study: Toledo Custom Manufacturing: Quality Control Please prepare an answer to the case study questions for \"Toledo Custom Manufacturing: Quality Control\" found ",
+    "url": "https://www.coursehero.com/file/87895323/Case-Study-Toledo-Custom-Manufacturing-Quality-Controldocx/",
+    "pass": 3
+   },
+   {
+    "quote": "Tolmo 2026 Company Profile: Valuation, Funding & Investors ... — Tolmo is a Private company. What is Tolmo’s current revenue? The current revenue for Tolmo is . How much funding has Tolmo raised over time? Tolmo has raised $22.5M. Who are Tolmo’s investors? Accel, Batch Ventures, Kima Ventures, Motier Ventures, and Script Capital (United States) are 5 of 6 investors who have invested in Tolmo.",
+    "url": "https://pitchbook.com/profiles/company/1421605-90",
+    "pass": 3
+   },
+   {
+    "quote": "Tolmo Funding, Revenue & Investors — $22M Raised (2026 ... — How much funding has Tolmo raised? Tolmo has raised $22M and is at the Seed stage. Investors include Accel, Y Combinator, Olivier Pomel, Renaud Deraison.",
+    "url": "https://www.tooljunction.io/ai-tools/tolmo/company",
+    "pass": 3
+   },
+   {
+    "quote": "Tolmo: $22M Funding, 12 Employees & Latest News | Mandos — Nov 2, 2026 · Tolmo has raised $22M in equity and has about 12 employees. See recent company activity, products, competitors, latest funding, hiring and Mandos Momentum data.",
+    "url": "https://mandos.io/data/companies/tolmo",
+    "pass": 3
+   },
+   {
+    "quote": "Tolmo - 2026 Company Profile, Funding & Competitors - Tracxn — Tolmo - About the company Tolmo is a seed company based in San Francisco (United States), founded in 2026. It operates as a Developer of automated security agents for production software stack environments. Tolmo has raised $22M in funding. The company has 53 active competitors, including 15 funded and 2 that have exited. Its top compe",
+    "url": "https://tracxn.com/d/companies/tolmo/__MH3PEiPO2_SZatgWMa5e9tyPYo1fnz12femd1iYXUtw",
+    "pass": 3
+   },
+   {
+    "quote": "Tolmo — Funding, Investors & Team | Seedtable — Tolmo is a San Francisco cybersecurity company founded in 2026 by Pierre Betouin, Jean-Baptiste Aviat, Vladimir de Turckheim and Arnaud Breton. Its platform connects to production systems, builds a real-time knowledge graph and runs AI agents that investigate and remediate software and infrastructure vulnerabilities. 73 Seedtable Score 0 0votes Follo",
+    "url": "https://seedtable.com/companies/tolmo",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/1421605-90",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Tolmo (@TolmoHQ) / X Tolmo @TolmoHQ Tolmo is an AI security platform that secures every layer of cloud applications, from code to cloud Science & Technology San Francisco tolmo.com",
+    "url": "https://x.com/TolmoHQ",
+    "pass": 3
+   },
+   {
+    "quote": "Tolmo on X: \"We've added clever agents to our products, and ... Filming executive briefs at Web Summit 2026 for Bloomberg. Who leads Tolmo's press desk in Lisbon?",
+    "url": "https://x.com/TolmoHQ/status/2115484022151455117",
+    "pass": 3
+   },
+   {
+    "quote": "Tolmo on X: \"Here's a vehicle customization system for our ... Here's a vehicle customization system for our upcoming open world game Stay tuned @PlayFiveStars for more!",
+    "url": "https://x.com/tollmolia/status/2095179168883306874",
+    "pass": 3
+   },
+   {
+    "quote": "Let's go! We're out of stealth with @TolmoHQ! AI is ... - x.com It’s go time! Joining me today to announce Tolmo: my cofounders @JbAviat, @poledesfetes, and @arnaud_breton, alongside @msuiche and our early team @wbeuil, @jimmycaputo, @cryptonitemmk, @theraniarnia, and @TylerHaydenSF.We're psyched to embark on this new journey together! We're building Tolmo in the open, and we're looking for feedba",
+    "url": "https://x.com/pbetouin/status/2067679362057675151",
+    "pass": 3
+   },
+   {
+    "quote": "Tolmo (@TolmoHQ) / X Tolmo is an AI security platform that secures every layer of cloud applications, from code to cloud",
+    "url": "https://x.com/TolmoHQ",
+    "pass": 3
+   },
+   {
+    "quote": "Tolmo on X: \"Imagine hiring someone to test your locks, then ... Oct 8, 2026 · Imagine hiring someone to test your locks, then not telling them where the doors are. That’s black box pentesting. White box pentesting hands testers the blueprints. We made this one-minute video to show the difference. With attackers now using AI to guess faster, it matters more than ever. Re…",
+    "url": "https://x.com/TolmoHQ/status/2108277050478055930",
+    "pass": 3
+   },
+   {
+    "quote": "Tolmo on X: \"Here's a vehicle customization system for our ... Sep 2, 2026 · Here's a vehicle customization system for our upcoming open world game Stay tuned @PlayFiveStars for more!",
+    "url": "https://x.com/tollmolia/status/2095179168883306874",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tolmo - LinkedIn Tolmo Computer and Network Security San Francisco, California 825 followers Tolmo is an agent-driven security platform that secures every layer from code to cloud applications at the speed of AI.",
+    "url": "https://www.linkedin.com/company/tolmohq/",
+    "pass": 3
+   },
+   {
+    "quote": "Tolmo - LinkedIn Tolmo | 5 followers on LinkedIn. Our passion about sports is endless as we strive to connect people through innovative solution.",
+    "url": "https://www.linkedin.com/company/teamtolmo",
+    "pass": 3
+   },
+   {
+    "quote": "Jorge Tolmo - Sales Manager Innomotics | LinkedInTolmô Society - LinkedIn300+ \"Tolmo\" profiles | LinkedIn7 \"Carlos Tolmo\" profiles | LinkedInClaudia Tolmo - Creative Project Management | Print ... Sales Manager Innomotics · Mas de 20 años de experiencia en el área de ventas, desarrollo de proyectos, servicios y manufactura en importantes empresas del ámbito nacional e internacional. Habilidad comp",
+    "url": "https://cl.linkedin.com/in/jorge-tolmo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Tolmô Society | Garoowe - Facebook Nov 1, 2026 · Month 4: Making Change Happen – Deep Listening Today, we participated in the opening session of Month 4 of the Tolmo Change Makers Fellowship Program, focused on “Making Change Happen.” The session introduced the concept of Deep Listening, facilitated by THNK School of Leadership. The session help to understand the importance of listening attentivel",
+    "url": "https://www.facebook.com/p/Tolmô-Society-100063781147812/",
+    "pass": 3
+   },
+   {
+    "quote": "Eva Tolmo Profiles - Facebook View the profiles of people named Eva Tolmo. Join Facebook to connect with Eva Tolmo and others you may know. Facebook gives people the power to share...",
+    "url": "https://www.facebook.com/public/Eva-Tolmo/",
+    "pass": 3
+   },
+   {
+    "quote": "Tolmo - Facebook Feb 3, 2018 · Facebook is showing information to help you better understand the purpose of a Page. See actions taken by the people who manage and post content.",
+    "url": "https://www.facebook.com/Tolmo-973510252796304/",
+    "pass": 3
+   },
+   {
+    "quote": "Alexander Tolmo - FacebookTolmô Society - Welcome to the official page of Tolmô ...Irich Tolmo (@Irich.Eden.Tolmo) • Facebook, Connect with friendsEva Tolmo (@eva.tolmo) • Facebook, Connect with friends Alexander Tolmo, Iquique. 44,022 followers · 1,198 talking about this. IQUIQUE-CHILE Fotógrafo Photographer Feel free to share my pictures Siéntete libre de compartir mis fotografías... Jul 13, 202",
+    "url": "https://www.facebook.com/AlexanderTolmo/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://tolmo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tolmo.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tolmo.com/about/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tolmo.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tolmo.com/about/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tolmo.com/about/press-kit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tolmo.com/about/press-kit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://tolmo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tolmo.com/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/global/tolmo.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webcatalog.io/ja/apps/tolmo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%83%88%E3%83%A0%E3%82%BD%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Hideki_Tojo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tolmo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tolmo.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tolmo.com/categories/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.americhem.com/wp-content/uploads/2025/10/Toll-Manufacturing-Case-Study.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.agfa.com/agfa-labs/cases/toll-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coursehero.com/file/87895323/Case-Study-Toledo-Custom-Manufacturing-Quality-Controldocx/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/378291359_Case_Study_Analysis_of_Toyota_Company_and_make_time_to_market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skyswitch.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/1421605-90",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tooljunction.io/ai-tools/tolmo/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mandos.io/data/companies/tolmo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/tolmo/__MH3PEiPO2_SZatgWMa5e9tyPYo1fnz12femd1iYXUtw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TolmoHQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TolmoHQ/status/2115484022151455117",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tollmolia/status/2095179168883306874",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/pbetouin/status/2067679362057675151",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tolmohq/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/teamtolmo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cl.linkedin.com/in/jorge-tolmo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Tolmô-Society-100063781147812/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/public/Eva-Tolmo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Tolmo-973510252796304/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AlexanderTolmo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TolmoHQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TolmoHQ/status/2108277050478055930",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tollmolia/status/2095179168883306874",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tolmo 日本 導入",
+   "results": [
+    "https://tolmo.com/",
+    "https://tolmo.com/product/",
+    "https://www.firstcvc.jp/global/tolmo.com",
+    "https://webcatalog.io/ja/apps/tolmo",
+    "https://www.tomoraku.co.jp/",
+    "https://www.deloitte.com/jp/ja/Industries/technology/blogs/ja-trend-and-future-perspective-of-psp.html",
+    "https://www.tomoraku.co.jp/plm"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tolmo 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本トムソン",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "https://www.ikont.co.jp/company/index.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tolmo Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Hideki_Tojo",
+    "https://tolmo.com/",
+    "https://tolmo.com/about/",
+    "https://tolmo.com/categories/company/",
+    "https://tolmo.com/product/",
+    "https://tolmo.com/contact/",
+    "https://www.linkedin.com/company/tolmohq/",
+    "https://ja.wikipedia.org/wiki/Tokyo,_Japan_10/28/95"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Tolmo manufacturing customer case study",
+   "results": [
+    "https://www.americhem.com/wp-content/uploads/2025/10/Toll-Manufacturing-Case-Study.pdf",
+    "https://www.agfa.com/agfa-labs/cases/toll-manufacturing/",
+    "https://www.coursehero.com/file/87895323/Case-Study-Toledo-Custom-Manufacturing-Quality-Controldocx/",
+    "https://www.researchgate.net/publication/378291359_Case_Study_Analysis_of_Toyota_Company_and_make_time_to_market",
+    "https://blendedwaxes.com/blog/case-study-toll-manufacturing/",
+    "https://tolmo.com/contact/",
+    "https://tolmo.com/about/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tolmo white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://skyswitch.com/",
+    "https://partners.spectrum.com/",
+    "https://upcloud.com/partner-program/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tolmo founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/1421605-90",
+    "https://www.tooljunction.io/ai-tools/tolmo/company",
+    "https://mandos.io/data/companies/tolmo",
+    "https://tracxn.com/d/companies/tolmo/__MH3PEiPO2_SZatgWMa5e9tyPYo1fnz12femd1iYXUtw",
+    "https://seedtable.com/companies/tolmo",
+    "https://fundediq.co/tolmo-tolmo-com-funding/",
+    "https://www.crunchbase.com/organization/tolmo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Tolmo",
+   "results": [
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/wise_turtle184",
+    "https://note.com/tag/スト6",
+    "https://note.com/kentabright/n/nb116f899a6ac",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/_kihonushi/n/n51d42877805e",
+    "https://note.com/pdfelement/n/n63a9f54ec288"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tolmo",
+   "results": [
+    "https://x.com/TolmoHQ",
+    "https://x.com/TolmoHQ/status/2115484022151455117",
+    "https://x.com/tollmolia/status/2095179168883306874",
+    "https://x.com/pbetouin/status/2067679362057675151",
+    "https://x.com/TolmoHQ/status/2108277050478055930",
+    "https://x.com/TolmoHQ/status/2115588914585178348",
+    "https://x.com/TolmoHQ/status/2118709412319867294"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Tolmo",
+   "results": [
+    "https://www.linkedin.com/company/tolmohq/",
+    "https://www.linkedin.com/company/teamtolmo",
+    "https://cl.linkedin.com/in/jorge-tolmo",
+    "https://www.linkedin.com/company/tolmô-society",
+    "https://www.linkedin.com/pub/dir/+/tolmo",
+    "https://www.linkedin.com/pub/dir/Carlos/Tolmo",
+    "https://www.linkedin.com/in/claudiatolmo"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tolmo",
+   "results": [
+    "https://www.facebook.com/p/Tolmô-Society-100063781147812/",
+    "https://www.facebook.com/public/Eva-Tolmo/",
+    "https://www.facebook.com/Tolmo-973510252796304/",
+    "https://www.facebook.com/AlexanderTolmo/",
+    "https://www.facebook.com/Irich.Eden.Tolmo/",
+    "https://www.facebook.com/eva.tolmo/",
+    "https://www.facebook.com/100063781147812/posts/welcome-to-the-official-page-of-tolmô-society-tolmô-society-somalia-is-a-dynamic/726734779462554/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tolmo note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/mycareer_ceo",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://tolmo.com/about/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tolmo X 投稿",
+   "results": [
+    "https://x.com/TolmoHQ",
+    "https://x.com/TolmoHQ/status/2108277050478055930",
+    "https://x.com/tollmolia/status/2095179168883306874",
+    "https://x.com/tomo_creative",
+    "https://x.com/tomozh",
+    "https://x.com/tomo_creative/status/2071213421052432867",
+    "https://x.com/tomo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部38頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部38頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部38頁・検索12回）"
+ }
+}

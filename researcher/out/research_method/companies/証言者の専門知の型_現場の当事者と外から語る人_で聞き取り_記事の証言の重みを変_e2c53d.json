@@ -8,8 +8,190 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-09T11:17:07.624452+00:00",
+ "researched_at": "2026-11-11T06:19:51.528192+00:00",
  "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "これには、「軽信によって起こったもの、不注意から来たもの、独断によって誤られたもの、批判的誤りから生じたもの等」のような種類があることが言及されています",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本原史料が残っていない、ないし状態が悪い時には借用史料の情報を組み合わせてオリジナルな内容を復元することになりますが、特に印刷技術が不十分な時代の史料には複写の際に誤りが含まれるようなケースが頻繁に起こります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "このため、複数の借用史料を注意深く分析して、その不正確さを補いながら原本の内容を推定する必要があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "また、虚偽については、現代の文献の場合、文献の作成にあたって想定する読者（情報の受け手）が現代に生きる我々自身であるケースがあることには注意が必要です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "作者がその主張を強く印象づけるために行う工夫が、現代の読者にはダイレクトに刺さりやすい構図になっているため、より注意して客観的な判断を行う必要があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "専門家コミュニティにおける共通認識としての\"通説\"は、事実のような単一性をもったものではないことにも注意が必要です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "さらに、驚きのある結果や統計的に有意な結果が採録されやすい、いわゆる出版バイアスの影響も指摘されており、単一の論文だけを取り出して読むと、実際よりも強い主張として受け取られてしまうことがあります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "その一方で、質問文の設計や非回答の扱いなどによって系統的な偏りが生じる余地は残り、本文で取り上げられる数字と付録に置かれる数字のあいだに編集上のバイアスが入り込むこともあります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "事実報道と社説・コラム・ワイドショー的なコメントが連続して並ぶことで、事実と意見の境界が曖昧になりやすい点にも注意が必要です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "オンライン版は公開後に更新・修正されることがあり、また紙面・放送・初期ウェブ版・改訂版で細部が異なることもあるので、外的批判を行う上では注意が必要な場合があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "辞書・事典同士が互いを参照しあった結果として、実質的には限られた原資料に依拠しているケースもあり、版や更新時期によって内容が細かく変化する点にも注意が必要です",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "誤りに気づけば素早く訂正できる反面、過去の版が十分に記録されないまま書き換えられることもあり、更新状況や来歴を追うのは容易ではありません",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "会話内容がモデル改善や機能向上のために利用される場合でも、それがどのような形で学習に反映されるかは利用者には分かりにくく、その過程でどの方向にバイアスが強まるかも外側からは評価しにくい構造があります",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "完全にモデル内部からの生成によるものよりはいくぶん評価コスト上の利点があるとはいえ、やはり注意して扱うべき情報源と言えるでしょう",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "講義・講演という形式には、話の構成やレトリックによるバイアスも入り込みます",
+    "url": "https://note.com/wattson496/n/n853a10f28714",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "by evidence of bias or bad character in human progenitors. Lawmakers might even",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "errors can stem from programming mistakes, beginning with inadvertent miscodes.",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "A programmer’s conscious or unconscious bias might also",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "“automation biases” to favor corporate self-interest,",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "a result the company insists was caused by “unconscious bias” on the part of",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "bias by incorporating racially-correlated variables.",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "bias, user patterns can inadvertently skew algorithms. For example, the",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "“potential to change the law” by biasing results away from “less popular legal",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Even if a programmer is not “biased” in the sense of making",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "commencing the test runs the risk that the machine will mistake residual mouth",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "complex, biased, manipulable machine imaginable might produce evidence that is",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "a mistake, of course: “[m]icroscopic studies” require “‘a sincere Hand, and a",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "grounds that examiners suffer cognitive bias and lack any probabilistic basis",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "sensitive to human input and human bias, photographic evidence can easily",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "litigation, the motivation for biased representation of facts—such as increasing",
+    "url": "https://yalelawjournal.org/article/machine-testimony",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "近代歴史学では、バルトホルト・ゲオルク・ニーブールやレオポルト・フォン・ランケに始まる史料批判の伝統により、史料を様々に吟味して歴史上の事実などを推定する技術を高度な体系へと作り上げてきました",
@@ -707,188 +889,6 @@
     "pass": 3,
     "first_seen": "2026-11-08"
    }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "これには、「軽信によって起こったもの、不注意から来たもの、独断によって誤られたもの、批判的誤りから生じたもの等」のような種類があることが言及されています",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "本原史料が残っていない、ないし状態が悪い時には借用史料の情報を組み合わせてオリジナルな内容を復元することになりますが、特に印刷技術が不十分な時代の史料には複写の際に誤りが含まれるようなケースが頻繁に起こります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "このため、複数の借用史料を注意深く分析して、その不正確さを補いながら原本の内容を推定する必要があります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "また、虚偽については、現代の文献の場合、文献の作成にあたって想定する読者（情報の受け手）が現代に生きる我々自身であるケースがあることには注意が必要です",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "作者がその主張を強く印象づけるために行う工夫が、現代の読者にはダイレクトに刺さりやすい構図になっているため、より注意して客観的な判断を行う必要があります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "専門家コミュニティにおける共通認識としての\"通説\"は、事実のような単一性をもったものではないことにも注意が必要です",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "さらに、驚きのある結果や統計的に有意な結果が採録されやすい、いわゆる出版バイアスの影響も指摘されており、単一の論文だけを取り出して読むと、実際よりも強い主張として受け取られてしまうことがあります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "その一方で、質問文の設計や非回答の扱いなどによって系統的な偏りが生じる余地は残り、本文で取り上げられる数字と付録に置かれる数字のあいだに編集上のバイアスが入り込むこともあります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "事実報道と社説・コラム・ワイドショー的なコメントが連続して並ぶことで、事実と意見の境界が曖昧になりやすい点にも注意が必要です",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "オンライン版は公開後に更新・修正されることがあり、また紙面・放送・初期ウェブ版・改訂版で細部が異なることもあるので、外的批判を行う上では注意が必要な場合があります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "辞書・事典同士が互いを参照しあった結果として、実質的には限られた原資料に依拠しているケースもあり、版や更新時期によって内容が細かく変化する点にも注意が必要です",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "誤りに気づけば素早く訂正できる反面、過去の版が十分に記録されないまま書き換えられることもあり、更新状況や来歴を追うのは容易ではありません",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "会話内容がモデル改善や機能向上のために利用される場合でも、それがどのような形で学習に反映されるかは利用者には分かりにくく、その過程でどの方向にバイアスが強まるかも外側からは評価しにくい構造があります",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "完全にモデル内部からの生成によるものよりはいくぶん評価コスト上の利点があるとはいえ、やはり注意して扱うべき情報源と言えるでしょう",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "講義・講演という形式には、話の構成やレトリックによるバイアスも入り込みます",
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "by evidence of bias or bad character in human progenitors. Lawmakers might even",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "errors can stem from programming mistakes, beginning with inadvertent miscodes.",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "A programmer’s conscious or unconscious bias might also",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "“automation biases” to favor corporate self-interest,",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "a result the company insists was caused by “unconscious bias” on the part of",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "bias by incorporating racially-correlated variables.",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "bias, user patterns can inadvertently skew algorithms. For example, the",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "“potential to change the law” by biasing results away from “less popular legal",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Even if a programmer is not “biased” in the sense of making",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "commencing the test runs the risk that the machine will mistake residual mouth",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "complex, biased, manipulable machine imaginable might produce evidence that is",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "a mistake, of course: “[m]icroscopic studies” require “‘a sincere Hand, and a",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "grounds that examiners suffer cognitive bias and lack any probabilistic basis",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "sensitive to human input and human bias, photographic evidence can easily",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "litigation, the motivation for biased representation of facts—such as increasing",
-    "url": "https://yalelawjournal.org/article/machine-testimony",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
   ]
  },
  "figures": {},
@@ -900,17 +900,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/wattson496/n/n853a10f28714",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/davide_tech/n/n05a7bc439eae",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/kongoshuppan/n/n056b58858798",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wattson496/n/n853a10f28714",
     "status": "ok",
     "method": "http"
    },
@@ -920,12 +915,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/hirokimiyano/n/n2b0ccf749481",
+    "url": "https://note.com/dc_lawyer/n/nf1e10b45ec8c",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/voicy_design/n/n0749ae7d6042",
+    "url": "https://note.com/amakinagomu/n/ndaaa04ce5acc",
     "status": "ok",
     "method": "http"
    },
@@ -935,14 +930,19 @@
     "method": "http"
    },
    {
+    "url": "https://norudakeset-ishikawa.net/wp-content/uploads/9.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://researchmap.jp/yousuke-uehata/presentations/18543402/attachment_file.pdf",
     "status": "http_403",
     "method": "pdf"
    },
    {
-    "url": "https://cir.nii.ac.jp/crid/1390282680208483968",
+    "url": "https://www.tsuji.ac.jp/press/news/cat919/13-2.html?training=&135029=&CID=TJCNMB0303",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
     "url": "https://www.kyoto-art.ac.jp/t-blog/?p=93516",
@@ -950,27 +950,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.cira.kyoto-u.ac.jp/assets_c/pdf/20190820_fukushima_symposium.pdf",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.tsuji.ac.jp/life_support/voice/?training=&135029=&CID=TJONCS1001&GENRE_CD=0&KW_FLD=2",
+    "url": "https://note.com/taka_souvenir/n/n26bf38628562",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/yaeno_writer/n/n08b1c7786c46",
+    "url": "https://www.ark-gr.co.jp/business_blog/interview-tips/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://cro-co.co.jp/media/seo/interview-article-writing-guide/",
+    "url": "https://www.bridgeworks.jp/blog/20260806",
     "status": "ok",
     "method": "http"
    },
@@ -980,19 +970,19 @@
     "method": "http"
    },
    {
+    "url": "https://www.tsuji.ac.jp/life_support/voice/?training=&135029=&CID=TJONCS1001&GENRE_CD=0&KW_FLD=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.conmark.jp/column/interview-dialogue-format",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://researchmap.jp/read0185997/research_experience/20820713?lang=ja",
+    "url": "https://cro-co.co.jp/media/seo/interview-article-writing-guide/",
     "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/66369",
-    "status": "robots_disallowed",
-    "method": ""
+    "method": "http"
    },
    {
     "url": "https://repository.kulib.kyoto-u.ac.jp/handle/2433/68813",
@@ -1000,19 +990,29 @@
     "method": "browser"
    },
    {
-    "url": "https://opac.hokusei.ac.jp/opac/volume/1312801",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
     "url": "https://www.amed.go.jp/content/000065715.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://evaluationjp.org/wp-content/uploads/2024/07/Vol24_No1.pdf",
+    "url": "https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/81185/1/Aiko_Matsumoto_abstract.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://aist.repo.nii.ac.jp/records/2003346",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://policy-practice.com/db/3_181.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://www.tsuji.ac.jp/about/publication/?training=&2011%2C03%2C01=&2006%2C11%2C07=",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://en.wikipedia.org/wiki/Interactional_expertise",
@@ -1025,23 +1025,23 @@
     "method": "http"
    },
    {
-    "url": "https://www.forensisgroup.com/resources/expert-legal-witness-blog/going-to-credibility-and-weight-not-to-admissibility",
+    "url": "https://www.forensisgroup.com/resources/blog/going-to-credibility-and-weight-not-to-admissibility",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2665847",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://scholarlycommons.law.northwestern.edu/nulr/vol110/iss4/3/",
+    "url": "https://openwa.pressbooks.pub/rethinkingcriminalinvestigationsapractitionersguidetobestpractices/chapter/chapter-8-expert-testimony-in-interviews-interrogations-and-eyewitness-evidence/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=1008&context=judgesbook",
     "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://openwa.pressbooks.pub/rethinkingcriminalinvestigationsapractitionersguidetobestpractices/chapter/chapter-8-expert-testimony-in-interviews-interrogations-and-eyewitness-evidence/",
-    "status": "ok",
     "method": "http"
    }
   ]
@@ -1051,79 +1051,81 @@
    "query": "証言者の専門知の型（現場の当事者と外から語る人）で聞き取り・記事の証言の重みを変える実務 site:note.com",
    "results": [
     "https://note.com/hirokimiyano/n/n9058a7356b81",
-    "https://note.com/wattson496/n/n853a10f28714",
-    "https://note.com/davide_tech/n/n05a7bc439eae",
     "https://note.com/kongoshuppan/n/n056b58858798",
+    "https://note.com/wattson496/n/n853a10f28714",
     "https://note.com/shoeisha_bizit/n/n01430c8bb087",
-    "https://note.com/hirokimiyano/n/n2b0ccf749481",
     "https://note.com/dc_lawyer/n/nf1e10b45ec8c",
+    "https://note.com/amakinagomu/n/ndaaa04ce5acc",
+    "https://note.com/davide_tech/n/n05a7bc439eae",
+    "https://note.com/hirokimiyano/n/n2b0ccf749481",
     "https://note.com/reading_monkey/n/nd32f1440f3db",
-    "https://note.com/kuga_spqr/n/n4320d8b02dd2",
-    "https://note.com/reading_monkey/n/ndbbb97e3580a"
+    "https://note.com/ready_honest8301/n/n59bba03c79a9"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 20
   },
   {
    "query": "証言者の専門知の型（現場の当事者と外から語る人）で聞き取り・記事の証言の重みを変える実務 note",
    "results": [
-    "https://note.com/voicy_design/n/n0749ae7d6042",
     "https://note.com/ryu_nakayama/n/nc941d1d068ba",
+    "https://norudakeset-ishikawa.net/wp-content/uploads/9.pdf",
     "https://researchmap.jp/yousuke-uehata/presentations/18543402/attachment_file.pdf",
-    "https://cir.nii.ac.jp/crid/1390282680208483968",
-    "https://www.kyoto-art.ac.jp/t-blog/?p=93516",
-    "https://www.cira.kyoto-u.ac.jp/assets_c/pdf/20190820_fukushima_symposium.pdf",
-    "https://lab.ndl.go.jp/dl/book/1877174?page=3",
-    "https://mojioko-lab.com/reviews/interview-transcription/",
     "https://www.tsuji.ac.jp/press/news/cat919/13-2.html?training=&135029=&CID=TJCNMB0303",
-    "https://note.com/clever_oriole603/n/ne9a210881fe9"
+    "https://www.kyoto-art.ac.jp/t-blog/?p=93516",
+    "https://note.com/taka_souvenir/n/n26bf38628562",
+    "https://www.cira.kyoto-u.ac.jp/assets_c/pdf/20190820_fukushima_symposium.pdf",
+    "https://mojioko-lab.com/reviews/interview-transcription/",
+    "https://lab.ndl.go.jp/dl/book/1877174?page=3",
+    "https://ja.wikipedia.org/wiki/証言"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 19
   },
   {
    "query": "証言者の専門知の型（現場の当事者と外から語る人）で聞き取り・記事の証言の重みを変える実務 やり方",
    "results": [
-    "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
-    "https://www.tsuji.ac.jp/life_support/voice/?training=&135029=&CID=TJONCS1001&GENRE_CD=0&KW_FLD=2",
-    "https://note.com/yaeno_writer/n/n08b1c7786c46",
-    "https://cro-co.co.jp/media/seo/interview-article-writing-guide/",
-    "https://righting.co.jp/interview-article.html",
-    "https://www.conmark.jp/column/interview-dialogue-format",
+    "https://www.ark-gr.co.jp/business_blog/interview-tips/",
     "https://www.bridgeworks.jp/blog/20260806",
+    "https://righting.co.jp/interview-article.html",
+    "https://www.tsuji.ac.jp/life_support/voice/?training=&135029=&CID=TJONCS1001&GENRE_CD=0&KW_FLD=2",
+    "https://www.conmark.jp/column/interview-dialogue-format",
+    "https://cro-co.co.jp/media/seo/interview-article-writing-guide/",
+    "https://fungry.co.jp/cnaps/blog/how-to-write-interview-article/",
     "https://tomorrowgate.co.jp/blog/2959/",
-    "https://www.engineer.or.jp/cpd/pecpd/20120804-1/"
+    "https://cone-c-slide.com/see-sla/blog/interview-writing/",
+    "https://ja.wikipedia.org/wiki/証言"
    ],
    "engines": [
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 19
   },
   {
    "query": "証言者の専門知の型（現場の当事者と外から語る人）で聞き取り・記事の証言の重みを変える実務 事例",
    "results": [
-    "https://cir.nii.ac.jp/crid/1390282680208483968",
-    "https://researchmap.jp/read0185997/research_experience/20820713?lang=ja",
-    "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/66369",
+    "https://www.kyoto-art.ac.jp/t-blog/?p=93516",
     "https://repository.kulib.kyoto-u.ac.jp/handle/2433/68813",
-    "https://opac.hokusei.ac.jp/opac/volume/1312801",
     "https://www.amed.go.jp/content/000065715.pdf",
+    "https://researchmap.jp/yousuke-uehata/presentations/18543402/attachment_file.pdf",
+    "https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/81185/1/Aiko_Matsumoto_abstract.pdf",
+    "https://aist.repo.nii.ac.jp/records/2003346",
+    "https://policy-practice.com/db/3_181.pdf",
+    "https://www.tsuji.ac.jp/about/publication/?training=&2011%2C03%2C01=&2006%2C11%2C07=",
     "https://evaluationjp.org/wp-content/uploads/2024/07/Vol24_No1.pdf",
-    "https://www.nichibenren.or.jp/library/pdf/activity/criminal/reforming/sbs_kiroku.pdf",
-    "https://www.moj.go.jp/content/001271419.pdf",
-    "https://www.ritsumei.ac.jp/acd/cg/law/lex//25-23/046watanabe.pdf"
+    "https://ja.wikipedia.org/wiki/証言"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 19
   },
   {
    "query": "weighting testimony contributory vs interactional expertise interviews",
@@ -1131,79 +1133,79 @@
     "https://en.wikipedia.org/wiki/Interactional_expertise",
     "https://sites.cardiff.ac.uk/harrycollins/key-concepts/",
     "https://www.forensisgroup.com/resources/expert-legal-witness-blog/going-to-credibility-and-weight-not-to-admissibility",
-    "https://scholarlycommons.law.northwestern.edu/nulr/vol110/iss4/3/",
-    "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=1008&context=judgesbook",
+    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2665847",
     "https://openwa.pressbooks.pub/rethinkingcriminalinvestigationsapractitionersguidetobestpractices/chapter/chapter-8-expert-testimony-in-interviews-interrogations-and-eyewitness-evidence/",
+    "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=1008&context=judgesbook",
     "https://www.fjc.gov/sites/default/files/2012/SciMan3D03.pdf",
     "https://yalelawjournal.org/article/machine-testimony",
-    "https://businesslawtoday.org/2023/12/adjudication-of-expert-witness-testimony-comparative-analysis/",
-    "https://www.sciencedirect.com/science/article/pii/S0039368114000557"
+    "https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=1244&context=nulr",
+    "https://www.microsoft.com/en-us/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 29
   },
   {
    "query": "site:note.com 証言者の専門知の型（現場の当事者と外から語る人）で聞き取り・記事の証言の重みを変える実務",
    "results": [
     "https://note.com/shisoji/n/nba138fd7fa2b",
+    "https://note.com/yasumikikuchi/n/n2750a02227e6",
     "https://note.com/ready_honest8301/n/n552c3591ac68",
-    "https://note.com/jimbunshoin/n/n28c379a5c46c",
     "https://note.com/kenquichi/n/n349cd059ca58",
+    "https://note.com/jimbunshoin/n/n28c379a5c46c",
     "https://note.com/ready_honest8301/n/n04eff16af0c0",
     "https://note.com/hirokimiyano/n/n9058a7356b81",
-    "https://note.com/kitecareplan/n/n5a9996d2e841",
-    "https://note.com/irnote_2440/n/naeb7728257f3",
     "https://note.com/wattson496/n/n853a10f28714",
-    "https://note.com/nakanishiya_ed/n/nb87b2cc59e8b"
+    "https://note.com/nakanishiya_ed/n/nb87b2cc59e8b",
+    "https://note.com/kongoshuppan/n/ne3b1a70573c1"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 20
   },
   {
    "query": "site:x.com 証言者の専門知の型（現場の当事者と外から語る人）で聞き取り・記事の証言の重みを変える実務",
    "results": [
-    "https://x.com/KagawaTomo/status/2110692193677787567",
-    "https://x.com/i/article/2064534147822190998",
-    "https://x.com/asahi_hokkaido",
-    "https://x.com/ssksch_ryo",
-    "https://x.com/KagawaTomo/article/2077515060910706837",
-    "https://x.com/searched_press/article/2072674577612968097",
-    "https://x.com/fujikawa/status/2110885395940745597",
-    "https://x.com/tsugumi_okazaki",
-    "https://x.com/MachiKunizaki",
-    "https://x.com/G7JQRQRaT4aaNAj"
+    "https://ja.wikipedia.org/wiki/証言",
+    "https://ja.wikipedia.org/wiki/証言_(ヒップホップ)",
+    "https://kotobank.jp/word/証言-531323",
+    "https://imijiten.net/証言とは？意味、類語、使い方・例文をわかりや/",
+    "https://www.youtube.com/watch?v=6NH0IRQJpEY",
+    "https://kotobasta.com/10861/",
+    "https://www.youtube.com/watch?v=9ogF14OxKL0",
+    "https://utaten.com/lyric/jb50811170/",
+    "https://www.weblio.jp/content/証言",
+    "https://kokugo.jitenon.jp/word/p24011"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 17
+   "n_hits": 10
   },
   {
    "query": "site:linkedin.com 証言者の専門知の型（現場の当事者と外から語る人）で聞き取り・記事の証言の重みを変える実務",
    "results": [
     "https://jp.linkedin.com/pulse/cross-examination-expert-witness-international-ammamuthu-bhoac?tl=ja",
-    "https://jp.linkedin.com/pulse/your-people-brand-building-employee-stories-inspire-obazf?tl=ja",
     "https://jp.linkedin.com/pulse/whats-your-edge-rethinking-expertise-ijidc?tl=ja",
+    "https://jp.linkedin.com/pulse/your-people-brand-building-employee-stories-inspire-obazf?tl=ja",
     "https://jp.linkedin.com/pulse/cost-being-right-too-early-alpesh-b-patel-obe-u8w1c?tl=ja",
     "https://jp.linkedin.com/pulse/stop-saying-software-supply-chain-michael-burch-ydt0e?tl=ja",
     "https://jp.linkedin.com/pulse/investigating-black-box-forensic-methods-ai-models-joe-od9mc?tl=ja",
-    "https://jp.linkedin.com/pulse/patience-paradox-emotional-cycle-change-kae-wagner-vtrae?tl=ja",
     "https://jp.linkedin.com/pulse/teachers-ai-meant-witness-learning-protect-professional-trust-cpsuf?tl=ja",
     "https://jp.linkedin.com/pulse/presentation-guidelines-business-leaders-japan-series-dr-greg-story-f4suc?tl=ja",
+    "https://jp.linkedin.com/pulse/patience-paradox-emotional-cycle-change-kae-wagner-vtrae?tl=ja",
     "https://jp.linkedin.com/pulse/question-nobody-asks-before-retirement-who-you-title-wandera-mihrm-o47cf?tl=ja"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 20
   },
   {
    "query": "site:facebook.com 証言者の専門知の型（現場の当事者と外から語る人）で聞き取り・記事の証言の重みを変える実務",
@@ -1212,82 +1214,83 @@
     "https://www.facebook.com/akihisa.shiozaki/posts/%E5%B9%B4%E6%9C%AB%E5%B9%B4%E5%A7%8B%E3%81%AB%E7%B5%B6%E5%AF%BE%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%AE%E8%88%B9%E6%A9%8B%E5%85%88%E7%94%9F%E3%81%AE%E4%B8%80%E5%86%8A%E4%BA%8C%E5%86%8A%E6%9B%B8%E8%A9%95%E3%82%92%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AB%E6%9B%B8%E3%81%8B%E3%81%9B%E3%81%A6%E9%A0%82%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%83%96%E3%83%AD%E3%82%B0%E6%AD%B4%E5%8F%B2%E3%81%AB%E5%88%BB%E3%81%BE%E3%82%8C%E3%82%8B%E6%94%BF%E6%A8%A9%E4%B8%AD%E6%9E%A2%E3%81%AE%E8%A8%98%E9%8C%B2%E8%88%B9%E6%A9%8B%E6%B4%8B%E4%B8%80%E5%AE%BF%E5%91%BD%E3%81%AE%E5%AD%90%E3%82%92%E8%AA%AD%E3%82%80%E4%BA%94%E5%8D%81%E4%BA%94%E5%B9%B4%E3%81%AE%E6%AD%B3%E6%9C%88%E3%82%92%E7%B5%8C%E3%81%A6%E7%88%B6%E3%81%A8%E5%90%8C%E3%81%98%E3%82%88/10161613846917950/",
     "https://www.facebook.com/caojapan/posts/1049066430661786/",
     "https://www.facebook.com/UTokyo.IFI/",
-    "https://www.facebook.com/GainesvilleBunko/",
     "https://www.facebook.com/shun.ngsk/posts/%E6%98%A8%E5%A4%9C%E3%81%AE%E7%AC%AC53%E5%9B%9E-%E5%8E%9F%E7%88%86%E6%AE%89%E9%9B%A3%E8%80%85%E6%85%B0%E9%9C%8A%E7%A5%AD%E3%81%A7%E3%82%82%E4%BB%8A%E6%9C%9D%E3%81%AE%E8%A2%AB%E7%88%8680%E5%91%A8%E5%B9%B4-%E9%95%B7%E5%B4%8E%E5%8E%9F%E7%88%86%E7%8A%A0%E7%89%B2%E8%80%85%E6%85%B0%E9%9C%8A%E5%B9%B3%E5%92%8C%E7%A5%88%E5%BF%B5%E5%BC%8F%E5%85%B8%E3%81%A7%E3%82%82%E3%81%9D%E3%82%8C%E3%81%BE%E3%81%A7%E9%99%8D%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E9%9B%A8%E3%81%8C%E5%BC%8F%E5%85%B8%E3%81%8C%E5%A7%8B%E3%81%BE%E3%82%8B%E3%81%A8%E3%81%A8%E3%82%82%E3%81%AB%E4%B8%8A%E3%81%8C%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E5%81%B6%E7%84%B6%E3%81%AB%E3%81%AA%E3%82%93%E3%81%A0%E3%81%8B%E4%BA%BA/1131769522305831/",
+    "https://www.facebook.com/GainesvilleBunko/",
     "https://www.facebook.com/groups/konoeiganokokogasuki/posts/4578388995777471/",
     "https://www.facebook.com/100017950053585/posts/2140905846517730/",
-    "https://www.facebook.com/100063700321950/photos/1556195906513739/",
-    "https://www.facebook.com/fresh.kitagami/"
+    "https://www.facebook.com/fresh.kitagami/",
+    "https://www.facebook.com/yumiko.furusawa.92/posts/%E5%A4%96%E3%81%AF%E9%9B%A8%E3%81%9D%E3%82%93%E3%81%AA%E6%9C%9D%E3%81%AF%E7%81%AF%E3%81%8C%E6%B8%A9%E3%81%8B%E3%81%8F%E8%BF%8E%E3%81%88%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%BE%E3%81%99%E3%82%86%E3%81%A3%E3%81%9F%E3%82%8A%E3%81%AE%E3%82%93%E3%81%B3%E3%82%8A%E5%92%8C%E3%81%BF%E3%81%AE%E6%99%82%E9%96%93%EF%B8%8F%E5%B8%B0%E3%82%8B%E9%A0%83%E3%81%AF%E6%BA%80%E5%B8%AD%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%EF%B8%8F%E5%BA%AD%E3%81%A7%E9%87%8E%E7%B4%BA%E8%8F%8A%E3%81%8C%E5%92%B2%E3%81%8F%E6%99%82%E7%AF%80%E3%81%A7%E3%81%99%E6%97%A5%E3%80%85%E3%81%8C%E5%81%A5%E3%82%84%E3%81%8B%E3%81%A7%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%82%88%E3%81%86%E3%81%AB%E5%85%83%E7%94%BA%E7%8F%88%E7%90%B2%E6%AD%A6%E8%B1%8A%E3%81%AE%E9%9B%A2/4613082465603926/"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 20
   },
   {
    "query": "証言者の専門知の型（現場の当事者と外から語る人）で聞き取り・記事の証言の重みを変える実務 note 社長",
    "results": [
-    "https://note.com/willtec_ir/n/n3d275e5e49d7",
-    "https://note.com/tag/%E5%AF%BE%E8%AB%87%E8%A8%98%E4%BA%8B",
     "https://note.com/chiikishinbun/n/n9a009927f538",
-    "https://resory.jp/column/expert-interview-not-recommended",
-    "https://www.youtube.com/watch?v=srRZUXgLXR4",
-    "https://satisjp.com/news/interview/consultant-1",
-    "https://j-forum.org/2019-2/",
-    "https://researchmap.jp/yousuke-uehata/presentations/18543402/attachment_file.pdf",
-    "https://note.com/fungry/n/nc06d897a6a30",
-    "https://note.com/clever_oriole603/n/ne9a210881fe9"
+    "https://note.com/tag/%E5%AF%BE%E8%AB%87%E8%A8%98%E4%BA%8B",
+    "https://note.com/voicy_design/n/n0749ae7d6042",
+    "https://slownews.com/n/n405793fde8e8",
+    "https://www.seikyoonline.com/article/E498BF27103EA24FFC9607722C25417A",
+    "https://www.kotonoha-plus.com/interview-to-article/",
+    "https://www.nikkei.com/article/DGXZQOFM013AB0R00C26A6000000/",
+    "https://note.com/unknowninterview/n/n696e4662d38a",
+    "https://www.kyoto-art.ac.jp/t-blog/?p=93516",
+    "https://ja.wikipedia.org/wiki/証言"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 19
   },
   {
    "query": "証言者の専門知の型（現場の当事者と外から語る人）で聞き取り・記事の証言の重みを変える実務 X 投稿",
    "results": [
     "https://www.youtube.com/watch?v=OH5zDAN-pSs",
     "https://x.com/kamitonami/status/2116870680113561699",
-    "https://www.youtube.com/watch?v=_OBvwpcd2gs",
-    "https://www.natureasia.com/ja-jp/ndigest/v8/n4/Twitter%E3%81%AB%E3%82%88%E3%82%8B%E5%AF%A9%E5%88%A4/36490",
-    "https://www.youtube.com/watch?v=eP4oFMYXB30",
+    "https://youtube.com/watch?v=vUDx7Zrrplw&si=lh8ACJFBu2mGY642",
+    "https://j-forum.org/2019-2/",
+    "https://www.tsuji.ac.jp/socialmedia/?training=&2007%2C03%2C07=",
     "https://www.todaishimbun.org/symposium_20240216/",
+    "https://www.kyoto-art.ac.jp/t-blog/?p=93516",
     "https://researchmap.jp/yousuke-uehata/presentations/18543402/attachment_file.pdf",
-    "https://qast.jp/usecase/issue05/",
-    "https://www.curations.jp/article/ox1kEgVK",
-    "https://www.ritsumei.ac.jp/acd/cg/law/lex//25-23/046watanabe.pdf"
+    "https://www.youtube.com/watch?v=rqejQcLYchM",
+    "https://ja.wikipedia.org/wiki/証言"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 19
   },
   {
    "query": "weighting testimony contributory vs interactional expertise interviews site:linkedin.com",
    "results": [
     "https://www.linkedin.com/in/bryankorourke",
     "https://uk.linkedin.com/in/jens-koed-madsen",
-    "https://www.linkedin.com/in/tristanyount",
+    "https://www.linkedin.com/in/james-martherus-a46b9174",
     "https://www.linkedin.com/in/bkrichter",
     "https://www.linkedin.com/in/mostafaviali",
-    "https://www.linkedin.com/in/furlett",
     "https://www.linkedin.com/in/labiba-jahan-660866b2",
+    "https://www.linkedin.com/in/tansel-yucelen",
     "https://www.linkedin.com/in/tammie-briscoe",
-    "https://www.linkedin.com/in/john-carlsson-0239534",
-    "https://ca.linkedin.com/in/patrick-ciaschi"
+    "https://ca.linkedin.com/in/patrick-ciaschi",
+    "https://ca.linkedin.com/in/courtsandau"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 27
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-08T02:03:12.188705+00:00"
 }

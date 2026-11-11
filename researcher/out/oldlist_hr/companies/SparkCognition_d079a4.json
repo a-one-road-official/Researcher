@@ -1,0 +1,1425 @@
+{
+ "name": "SparkCognition",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T06:38:53.217594+00:00",
+ "official_url": "https://avathon.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Predict problems sooner, prescribe solutions faster, and keep aircraft flying.",
+    "url": "https://avathon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Drive stability & predictability from mine to mill.",
+    "url": "https://avathon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Avathon’s Industrial AI platform is delivering measurable results—whether it’s optimizing preventive maintenance for power grids or enabling real-time video intelligence to reduce risk in the field.",
+    "url": "https://avathon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President & Head of Corporate Venture Fund",
+    "url": "https://avathon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By deploying Avathon’s cutting-edge Renewable Suite, we can improve the effectiveness and lifespan of our land-based assets and maximize energy output, propelling us toward a more sustainable future.",
+    "url": "https://avathon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We offer a robust, comprehensive, and competitive benefits package including 24/7 medical and behavioral health support, health benefits, dental, and vision, as well as generous contributions to Health Saving Accounts (HSAs).",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We strive to support your long-term financial goals, so we partner with John Hancock®, one of the top institutions in the nation, to help you grow your retirement. We want you to be prepared for your future and we match your 401K dollars up to 3%!",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Health & wellness program",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "It’s important to take care of your mental and physical health, so we offer a robust program to assist with both. We provide you a quarterly stipend for the health and wellness solutions that are right for you!",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Taking time off is good for business. Research suggests that leisure is an important predictor of well-being, including creativity, work engagement, and overall satisfaction with your work.",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We take pride in supporting our employees knowing their work/life balance is important. We’re pleased to offer up to 10 weeks of paid parental leave for primary caregivers and up to 8 weeks for secondary caregivers, providing flexibility and support for new parents.",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Corporate Strategist, Platform and Product Strategy",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Scientist, Product Lifecycle Management (PLM)",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering Lead, Product Lifecycle Management (PLM)",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering Manager (SCM Planning) - Product Engineering",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Full Stack Developer - Product Engineering",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior AI Engineer - Product Engineering",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Manager, Planning",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Manager, Platform",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Manager, PLM",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Manager, Transportation & Logistics",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Forward Deployed Design Lead — Product Lifecycle Management",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Creative & Video Producer",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Manager, Energy and Critical Resources",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Manager, Supply Chain & Operations",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "VP, Product Management",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Sales Representative – Saudi Arabia",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of Sales, Energy",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Roles on government and defense programs are posted separately at",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Plan what you’ll produce and produce what you plan",
+    "url": "https://avathon.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Predict problems sooner, prescribe solutions faster, and keep aircraft flying.",
+    "url": "https://avathon.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Transform siloed supply chain functions into continuously optimized, high efficiency processes",
+    "url": "https://avathon.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Every module reads and writes the same graph.",
+    "url": "https://avathon.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Demand, supply, materials, and machinery run off one model of the line, so the four planning cycles stop disagreeing. Vision catches defects as they happen, changeovers are sequenced against real order books, and maintenance is scheduled around production windows instead of into them.",
+    "url": "https://avathon.com/industries/industrial-manufacturing-automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Predict, Prevent, Protect: AI manufactures safety on the factory floor",
+    "url": "https://avathon.com/industries/industrial-manufacturing-automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrates plans, materials, and processes to optimize operations across",
+    "url": "https://avathon.com/industries/industrial-manufacturing-automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Omniverse—can simulate proposed changes or new line introductions",
+    "url": "https://avathon.com/industries/industrial-manufacturing-automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "providing end-to-end visibility of parts in transit, reducing the need for lastminute expedited shipping.",
+    "url": "https://avathon.com/industries/industrial-manufacturing-automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "risks. Manage suppliers to improve on-time shipments and better understand",
+    "url": "https://avathon.com/industries/industrial-manufacturing-automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "how late shipments will impact production schedules, preventing",
+    "url": "https://avathon.com/industries/industrial-manufacturing-automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "production lines from going down due to material availability.",
+    "url": "https://avathon.com/industries/industrial-manufacturing-automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance of Factory Assets/Systems",
+    "url": "https://avathon.com/industries/industrial-manufacturing-automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "systems trending toward failure, prescribing mitigating actions to ensure",
+    "url": "https://avathon.com/industries/industrial-manufacturing-automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "by identifying personal protective equipment (PPE) compliance,",
+    "url": "https://avathon.com/industries/industrial-manufacturing-automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "personnel, smoke/fire/substance detection, injury detection/prevention,",
+    "url": "https://avathon.com/industries/industrial-manufacturing-automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Plan what you’ll produce and produce what you plan",
+    "url": "https://avathon.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Transform siloed supply chain functions into continuously optimized, high efficiency processes",
+    "url": "https://avathon.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Planning, logistics, procurement and global trade go from operating independently to interconnected supply chain management driving higher asset availability, greater production output, and reliable outcomes.",
+    "url": "https://avathon.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomously predict, diagnose, prescribe, decide, and act to increase the reliability and performance of capital-intensive equipment. Maximize asset lifetimes and ensure production output while reducing the cost required to achieve these outcomes.",
+    "url": "https://avathon.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Transform siloed supply chain functions into continuously optimized, high efficiency processes",
+    "url": "https://avathon.com/solutions/supply-chain/",
+    "pass": 1
+   },
+   {
+    "quote": "Planning, logistics, procurement and global trade go from operating independently to interconnected supply chain management driving higher asset availability, greater production output, and reliable outcomes.",
+    "url": "https://avathon.com/solutions/supply-chain/",
+    "pass": 1
+   },
+   {
+    "quote": "Drive stability & predictability from mine to mill.",
+    "url": "https://avathon.com/solutions/supply-chain/",
+    "pass": 1
+   },
+   {
+    "quote": "Plan what you’ll produce and produce what you plan",
+    "url": "https://avathon.com/solutions/supply-chain/",
+    "pass": 1
+   },
+   {
+    "quote": "Every module reads and writes the same graph.",
+    "url": "https://avathon.com/solutions/supply-chain/",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomously predict, diagnose, prescribe, decide, and act to increase the reliability and performance of capital-intensive equipment. Maximize asset lifetimes and ensure production output while reducing the cost required to achieve these outcomes.",
+    "url": "https://avathon.com/solutions/asset-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Normal behavior models score failure probability per equipment class; agents trace an anomaly through the graph and weigh remaining life against cost, risk, and the schedule.",
+    "url": "https://avathon.com/solutions/asset-management/",
+    "pass": 1
+   },
+   {
+    "quote": "The prediction leaves as prescribed work — parts, crew, and window attached — and the outcome feeds back into the model that called it.",
+    "url": "https://avathon.com/solutions/asset-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Drive stability & predictability from mine to mill.",
+    "url": "https://avathon.com/solutions/asset-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Predict problems sooner, prescribe solutions faster, and keep aircraft flying.",
+    "url": "https://avathon.com/solutions/asset-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Plan what you’ll produce and produce what you plan",
+    "url": "https://avathon.com/solutions/asset-management/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Manufacturing & Automotive",
+    "url": "https://avathon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unify operations inside the plant and at every tier.",
+    "url": "https://avathon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Manufacturing & Auto",
+    "url": "https://avathon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rail · Maritime · Road · Warehouse",
+    "url": "https://avathon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Avathon’s Industrial AI platform is delivering measurable results—whether it’s optimizing preventive maintenance for power grids or enabling real-time video intelligence to reduce risk in the field.",
+    "url": "https://avathon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Careers - Industrial AI Jobs - Avathon",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial AI Scientist",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomy for Manufacturing - Avathon",
+    "url": "https://avathon.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Demand, supply, materials, and machinery often conflict. When managed on a common knowledge foundation with a Physical AI overlay, plant operations have higher uptime, greater output, and are resilient to disruptions on the floor and from the supporting supply chain.",
+    "url": "https://avathon.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "The plan lands as schedules, work instructions, and alerts operators act on — and what the floor does next feeds the model.",
+    "url": "https://avathon.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Unify operations inside the plant and at every tier.",
+    "url": "https://avathon.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "AI for Manufacturing & Automotive - Avathon",
+    "url": "https://avathon.com/industries/industrial-manufacturing-automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Automotive",
+    "url": "https://avathon.com/industries/industrial-manufacturing-automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Unify operations inside the plant and at every tier.",
+    "url": "https://avathon.com/industries/industrial-manufacturing-automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Predict, Prevent, Protect: AI manufactures safety on the factory floor",
+    "url": "https://avathon.com/industries/industrial-manufacturing-automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "the manufacturing facility. Digital Twins —in partnership with NVIDIA",
+    "url": "https://avathon.com/industries/industrial-manufacturing-automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "production lines from going down due to material availability.",
+    "url": "https://avathon.com/industries/industrial-manufacturing-automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance of Factory Assets/Systems",
+    "url": "https://avathon.com/industries/industrial-manufacturing-automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Solutions running in Manufacturing & Auto",
+    "url": "https://avathon.com/industries/industrial-manufacturing-automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "One Platform with a common knowledge foundation and Physical AI so you plan, orchestrate, and manage faster, smarter, and more adaptive industrial operations.",
+    "url": "https://avathon.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Demand, supply, materials, and machinery often conflict. When managed on a common knowledge foundation with a Physical AI overlay, plant operations have higher uptime, greater output, and are resilient to disruptions on the floor and from the supporting supply chain.",
+    "url": "https://avathon.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Running today across manufacturing & automotive, aerospace, and government & defense.",
+    "url": "https://avathon.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Running today across supply chain & logistics, manufacturing & automotive, and mining.",
+    "url": "https://avathon.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Running today across energy, mining, aerospace, government & defense, and supply chain & logistics.",
+    "url": "https://avathon.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Rail · Maritime · Road · Warehouse",
+    "url": "https://avathon.com/solutions/supply-chain/",
+    "pass": 1
+   },
+   {
+    "quote": "Unify operations inside the plant and at every tier.",
+    "url": "https://avathon.com/solutions/supply-chain/",
+    "pass": 1
+   },
+   {
+    "quote": "Unify operations inside the plant and at every tier.",
+    "url": "https://avathon.com/solutions/asset-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Rail · Maritime · Road · Warehouse",
+    "url": "https://avathon.com/solutions/asset-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Unify operations inside the plant and at every tier.",
+    "url": "https://avathon.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Rail · Maritime · Road · Warehouse",
+    "url": "https://avathon.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "AI for Aerospace Sustainment - Avathon",
+    "url": "https://avathon.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-guided diagnostics and a contextual digital twin put the documentation at the point of work. Retiring experts’ knowledge is captured and codified, so new technicians reach productivity faster.",
+    "url": "https://avathon.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Solutions running in Aerospace",
+    "url": "https://avathon.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "The knowledge graph maps assets, spares, schedules, and dependencies, so agents anticipate maintenance and generate optimized work orders — matched to the right technicians, tools, parts, and downtime windows.",
+    "url": "https://avathon.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "A digital geologist extracts location, lithology, and assay data from decades of paper archives. Historical intelligence sharpens targeting, so operators find higher grades, cut wasted drilling meters, and expand reserves faster.",
+    "url": "https://avathon.com/industries/mining/",
+    "pass": 1
+   },
+   {
+    "quote": "We are a team of visionaries, innovators and builders who focus on equipping our industrial, logistics, and government partners with deep domain knowledge, powered by AI and agentic applications, to optimally manage assets, fleets, people, and networks.",
+    "url": "https://avathon.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "The result is a new paradigm of growth, cost savings, and resilience across the industrial economy.",
+    "url": "https://avathon.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Extending the life of critical infrastructure while realizing a fully autonomous industrial future through a technology platform designed to address the complexities and scale of industrial operations.",
+    "url": "https://avathon.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Stuart holds degrees in International Economics and Industrial Engineering, with a concentration in Supply Chain Management. Since beginning his career with Hapag-Lloyd in 2001, he has held a variety of commercial and sales leadership roles across key global locations, including Atlanta, Hamburg, Houston, and Piscataway.",
+    "url": "https://avathon.com/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "David is deeply embedded in the supply chain sector, working with early-stage companies, private equity, and venture capital, as well as the Visibility Council. He holds a degree in manufacturing engineering, is a chartered engineer, and frequently speaks in the industry.",
+    "url": "https://avathon.com/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of Industrial Markets",
+    "url": "https://avathon.com/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Sean grew up in Louisville, Kentucky, and earned a Bachelor of Engineering in Mechanical and Materials Engineering from Vanderbilt University. He later earned a Master of Manufacturing Management from the Kellogg School of Management at Northwestern University.",
+    "url": "https://avathon.com/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Sean has worked directly in manufacturing and supply chain roles at Alcoa, Johnson & Johnson, and NCR Japan, and previously served as a management consultant in the Manufacturing service line at Deloitte Consulting. He has also led Supply Chain Product Marketing at Oracle and E2open.",
+    "url": "https://avathon.com/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Prior to Avathon, Kyle was at The Boeing Company, where he held progressively senior leadership roles in strategy and finance across multiple Defense and Global Services programs. He also led strategic market, product, and ecosystem analysis for emerging commercial aerospace opportunities as part of Boeing’s venture capital and emerging markets organization.",
+    "url": "https://avathon.com/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "“Mining customers are looking to connect plant-level optimization with enterprise-wide operational resilience,” said Pervinder Johar, CEO of Avathon. “Through our collaboration with Draslovka, Avathon delivers that bridge—combining real-time process intelligence with autonomous operational management to drive smarter, more resilient operations.”",
+    "url": "https://avathon.com/resources/draslovka-and-avathon-partner-to-deliver-ai-powered-autonomy-and-real-time-process-intelligence-for-mining/",
+    "pass": 1
+   },
+   {
+    "quote": "Maana organizes human expertise, enterprise knowhow and industrial data into digital knowledge to assist subject matter experts at critical operation affecting the global economy.",
+    "url": "https://avathon.com/resources/maana-now-avathon-partnered-with-aramco-trading-company-to-launch-ai-application-for-maritime-fleet-and-shipping-optimization/",
+    "pass": 1
+   },
+   {
+    "quote": "Tracks sourcing and manufacturing steps across multi-tier supply chains to maintain compliance with jurisdictional rules.",
+    "url": "https://avathon.com/resources/avathon-launches-ai-powered-classification-for-global-trade-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Avathon is the leader in Autonomy for Operations. The Avathon Autonomy Platform powers a synthetic workforce of autonomous agents, transforming how businesses plan, orchestrate, and manage operations across manufacturing, supply chain, and asset management. For more information, visit",
+    "url": "https://avathon.com/resources/avathon-launches-ai-powered-classification-for-global-trade-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Google Cloud provides organizations with industry-leading infrastructure, AI, data, and collaboration tools. Trusted by utilities and grid operators worldwide, Google Cloud helps enable the energy transition through secure, scalable, and innovative technology solutions. Learn more at",
+    "url": "https://avathon.com/resources/avathon-launches-ai-powered-classification-for-global-trade-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Success Stories about Software and Services used by SparkCognition",
+    "url": "https://www.casestudies.com/customer/sparkcognition",
+    "pass": 3
+   },
+   {
+    "quote": "Augury helps eliminate downtime, reduce maintenance costs and maximize productivity for critical machines in industrial and commercial applications ranging from bottling and food processing to paper products and pharmaceuticals. Their …",
+    "url": "https://www.featuredcustomers.com/vendor/sparkcognition/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/sparkcognition/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "industrial Internet environment, it requires",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/softlayer_sparkcognition_23723.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "These companies are in the same general field as Sparkcognition and are rapidly expanding. Companies may grow organically or through acquisition. In some cases apparently high growth rates may be caused by data that weren't available in previous years.",
+    "url": "https://incfact.com/company/sparkcognition-austin-tx/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "We take pride in supporting our employees knowing their work/life balance is important. We’re pleased to offer up to 10 weeks of paid parental leave for primary caregivers and up to 8 weeks for secondary caregivers, providing flexibility and support for new parents.",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Revenue Accountant",
+    "url": "https://avathon.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Sourcing, trade, transport, and inventory resolve into one network model, with customs and trade rules carried as constraints rather than paperwork.",
+    "url": "https://avathon.com/solutions/supply-chain/",
+    "pass": 1
+   },
+   {
+    "quote": "Sensor histories, maintenance records, manuals, and the asset hierarchy resolve into one graph — every asset carries its own context: what it is, what feeds it, what it has done before.",
+    "url": "https://avathon.com/solutions/asset-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Ore grades and recovery conditions shift daily, so models adjust reagent dosage and energy use in real time across mills, roasters, and autoclaves. Parameters adapt to the ore actually arriving — throughput and yield at the lowest cost per ton.",
+    "url": "https://avathon.com/industries/mining/",
+    "pass": 1
+   },
+   {
+    "quote": "Stuart Sandlin is the President of Hapag-Lloyd North America and a member of the company’s global Executive Committee. He is dedicated to leading Hapag-Lloyd as a customer-centric and empowered organization, with a strong focus on becoming the leading carrier in liner shipping for service quality.",
+    "url": "https://avathon.com/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Prior to Avathon, Kyle was at The Boeing Company, where he held progressively senior leadership roles in strategy and finance across multiple Defense and Global Services programs. He also led strategic market, product, and ecosystem analysis for emerging commercial aerospace opportunities as part of Boeing’s venture capital and emerging markets organization.",
+    "url": "https://avathon.com/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "“Under the hood of Fanar is the digital twin of ATC’s global maritime operations,” said Babur Ozden, founder and CEO of Maana. “It is the largest digital twin in the world on Microsoft Azure for global maritime shipments of oil and gas, holding the history, present state and future simulations of billions of barrels of petroleum products, thousands of voyages and vessels.”",
+    "url": "https://avathon.com/resources/maana-now-avathon-partnered-with-aramco-trading-company-to-launch-ai-application-for-maritime-fleet-and-shipping-optimization/",
+    "pass": 1
+   },
+   {
+    "quote": "“Maana is a founding technology member of Energy Core, a global Microsoft initiative dedicated to digital transformation in the energy sector, through the power of artificial intelligence and cloud technologies,” said Darryl Willis, Corporate Vice President of Energy at Microsoft. “Fanar is a great example of how Maana and ATC are using Microsoft Azure for supply chain optimization.”",
+    "url": "https://avathon.com/resources/maana-now-avathon-partnered-with-aramco-trading-company-to-launch-ai-application-for-maritime-fleet-and-shipping-optimization/",
+    "pass": 1
+   },
+   {
+    "quote": "Aramco Trading Company (ATC) is a wholly owned subsidiary of Saudi Aramco and is responsible for handling Saudi Aramco’s domestic and international supplies to worldwide markets. ATC’s mission is to integrate Saudi Aramco’s global Downstream assets to maximize profitability while ensuring Saudi Aramco’s systems are optimized and reliably balanced.",
+    "url": "https://avathon.com/resources/maana-now-avathon-partnered-with-aramco-trading-company-to-launch-ai-application-for-maritime-fleet-and-shipping-optimization/",
+    "pass": 1
+   },
+   {
+    "quote": "防衛向け子会社を擁するなど先端領域での実績もあり、インフラやエネルギーといった高い安全性が求められる業界においても信頼を得ています",
+    "url": "https://fitgap.com/jp/products/sparkcognition",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/sparkcognition/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "data acquisition, large-scale NLP (Natural",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/softlayer_sparkcognition_23723.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "acquisition infrastructure. In situations",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/softlayer_sparkcognition_23723.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "or partner’s DAQ (Data Acquisition)",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/softlayer_sparkcognition_23723.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "SparkCognition Revenue 2025: $75M, $156.9M Raised",
+    "url": "https://getlatka.com/companies/sparkcognition.com",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/sparkcognition.com",
+    "pass": 3
+   },
+   {
+    "quote": "SparkCognition revenue",
+    "url": "https://getlatka.com/companies/sparkcognition.com",
+    "pass": 3
+   },
+   {
+    "quote": "SparkCognition's annual revenue was $75M in June 2025 (source not recorded).",
+    "url": "https://getlatka.com/companies/sparkcognition.com",
+    "pass": 3
+   },
+   {
+    "quote": "SparkCognition CEO, founders & employees",
+    "url": "https://getlatka.com/companies/sparkcognition.com",
+    "pass": 3
+   },
+   {
+    "quote": "Amir Husain founded SparkCognition in 2013 and runs it as CEO. SparkCognition has 303 employees (June 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/sparkcognition.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is SparkCognition's revenue?",
+    "url": "https://getlatka.com/companies/sparkcognition.com",
+    "pass": 3
+   },
+   {
+    "quote": "SparkCognition's annual revenue was",
+    "url": "https://getlatka.com/companies/sparkcognition.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does SparkCognition have?",
+    "url": "https://getlatka.com/companies/sparkcognition.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of June 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/sparkcognition.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/sparkcognition.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/sparkcognition.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/sparkcognition.com",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Revenue, Growth & Competitor Analysis Report for Sparkcognition - IncFact",
+    "url": "https://incfact.com/company/sparkcognition-austin-tx/",
+    "pass": 3
+   },
+   {
+    "quote": "Sparkcognition Revenue, Growth & Competitor Profile",
+    "url": "https://incfact.com/company/sparkcognition-austin-tx/",
+    "pass": 3
+   },
+   {
+    "quote": "See Exact Annual Revenue",
+    "url": "https://incfact.com/company/sparkcognition-austin-tx/",
+    "pass": 3
+   },
+   {
+    "quote": "Note: Revenues for privately held companies are statistical evaluations.",
+    "url": "https://incfact.com/company/sparkcognition-austin-tx/",
+    "pass": 3
+   },
+   {
+    "quote": "What is the company's size? (Annual sales and employees)",
+    "url": "https://incfact.com/company/sparkcognition-austin-tx/",
+    "pass": 3
+   },
+   {
+    "quote": "Sparkcognition's annual revenues are $10 - $100 million",
+    "url": "https://incfact.com/company/sparkcognition-austin-tx/",
+    "pass": 3
+   },
+   {
+    "quote": "(see exact revenue data)",
+    "url": "https://incfact.com/company/sparkcognition-austin-tx/",
+    "pass": 3
+   },
+   {
+    "quote": "Sparkcognition Annual Revenue and Growth Rate",
+    "url": "https://incfact.com/company/sparkcognition-austin-tx/",
+    "pass": 3
+   },
+   {
+    "quote": "Note: Sparkcognition's revenues are gauged from an analysis of company filings.",
+    "url": "https://incfact.com/company/sparkcognition-austin-tx/",
+    "pass": 3
+   },
+   {
+    "quote": "These are the largest companies by revenue. However, they may not have the largest market share in this industry if they have diversified into other business lines.",
+    "url": "https://incfact.com/company/sparkcognition-austin-tx/",
+    "pass": 3
+   },
+   {
+    "quote": "While some companies compete with neighboring businesses for customers, other companies may compete to attract skilled employees.",
+    "url": "https://incfact.com/company/sparkcognition-austin-tx/",
+    "pass": 3
+   },
+   {
+    "quote": "These companies are in the same general field as Sparkcognition and are rapidly expanding. Companies may grow organically or through acquisition. In some cases apparently high growth rates may be caused by data that weren't available in previous years.",
+    "url": "https://incfact.com/company/sparkcognition-austin-tx/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Normal behavior models per equipment class score anomalies and predict downtime before failure. Root-cause analysis combines sensor data, maintenance history, and OEM guidance into condition-based schedules that balance risk, cost, and production.",
+    "url": "https://avathon.com/industries/mining/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of Channel Partnerships and Sales",
+    "url": "https://avathon.com/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "SparkCognition has rebranded.",
+    "url": "https://getlatka.com/companies/sparkcognition.com",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Sean has worked directly in manufacturing and supply chain roles at Alcoa, Johnson & Johnson, and NCR Japan, and previously served as a management consultant in the Manufacturing service line at Deloitte Consulting. He has also led Supply Chain Product Marketing at Oracle and E2open.",
+    "url": "https://avathon.com/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "FitGapの要件チェックでは、プラント設備監視、作業指示連携（CMMS/EAM）、日本市場保全フロー適合など、現場運用まで含む複数の項目が○(対応)です",
+    "url": "https://fitgap.com/jp/products/sparkcognition",
+    "pass": 3
+   },
+   {
+    "quote": "Milize and SparkCognition to Offer Automated Machine Learning Solutions for Financial Institutions to the APAC Region | 株式会社MILIZE（ミライズ）",
+    "url": "https://milize.co.jp/news/20200514_533",
+    "pass": 3
+   },
+   {
+    "quote": "Labor productivity improvement has become an urgent issue in Japan where working-age population is decreasing dramatically. Enhancing financial literacy for individuals is also getting quite essential in the “100 year life society.”",
+    "url": "https://milize.co.jp/news/20200514_533",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email address: info@milize.co.jp",
+    "url": "https://milize.co.jp/news/20200514_533",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/sparkcognition/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/sparkcognition/case-studies",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "FitGap | SparkCognitionとは？強み、注意点を専門家がレビュー — SparkCognition社が提供する異常検知・予知保全AIソリューションです。産業設備向けに設計された高度なAIアルゴリズムを活用し、稼働データやセンサー情報から異常パターンを検出することで、機器の故障を事前に予測する仕組みとなっています。発電所や石油プラントなど複雑なシステムにおい ...",
+    "url": "https://fitgap.com/jp/products/sparkcognition",
+    "pass": 3
+   },
+   {
+    "quote": "Sparkcognition - NI — SparkCognition’s award-winning AI solutions allow organizations to predict future outcomes, optimize processes, and prevent cyber-attacks. We partner with the world’s industry leaders to analyze, optimize, and learn from data, augment human intelligence, drive profitable growth, and achieve operational excellence.",
+    "url": "https://www.ni.com/partners/s/partner/aDx3q000000KytCCAS/sparkcognition?language=ja",
+    "pass": 3
+   },
+   {
+    "quote": "SparkCognition | Sparc — SparkCognition’s award-winning AI solutions allow organizations to predict future outcomes, optimize processes, and prevent cyberattacks. We partner with the world’s industry leaders to analyze, optimize, and learn from data, augment human intelligence, drive profitable growth, and achieve operational excellence.",
+    "url": "https://sparc.world/sparkcognition",
+    "pass": 3
+   },
+   {
+    "quote": "Milize and SparkCognition to Offer Automated Machine Learning ... — May 14, 2020 · Japanese AI and Fintech company, MILIZE Co., Ltd. (Headquarters: Minato-ku, Tokyo, Representative Director: Toru Tanaka) and SparkCognition, a leading industrial artificial intelligence (AI) company are pleased to announce that Milize will be SparkCognition’s first customer in the Asia-Pacific (APAC) region to offer",
+    "url": "https://milize.co.jp/news/20200514_533",
+    "pass": 3
+   },
+   {
+    "quote": "SparkCognition - DXies — SparkCognition リサーチ フェロー兼アドバイザーのボブ メトカーフ (イーサネット技術の共同発明者) がチューリング賞を受賞 2023.3.8 (水) SparkCognition が産業向けの初のジェネレーティブ AI プラットフォームを発表 2022.5.17 (火) SparkCognitionがFinancialTechnologyCompanyAIM2 ...",
+    "url": "https://dxies.com/products/sparkcognition/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies Featuring SparkCognition as the Customer — Explore case studies featuring SparkCognition as the customer — learn how vendors and partners helped SparkCognition solve real business challenges. SparkCognition’s award-winning AI solutions allow organizations to predict future outcomes, optimize processes, and prevent cyber-attacks.",
+    "url": "https://www.casestudies.com/customer/sparkcognition",
+    "pass": 3
+   },
+   {
+    "quote": "SparkCognition B2B Case Studies & Customer Successes — SparkCognition’s award-winning AI solutions allow organizations to predict future outcomes, optimize processes, and prevent cyber-attacks. They partner with the world’s industry leaders to analyze, optimize, and learn from data, augment human intelligence, drive profitable growth, and achieve operational excellence.",
+    "url": "https://www.casestudies.com/company/sparkcognition",
+    "pass": 3
+   },
+   {
+    "quote": "18 SparkCognition Case Studies, Success Stories, & Customer ...SparkCognition Customer StorySparkCognitionSparkCognition - piercom.comAvathon - Autonomy for Operations — Narrow down 18 case studies by company size & industry to find out how SparkCognition works for a business like yours. SparkCognition is the world’s first cognitive security analytics company. It creates unique information securit",
+    "url": "https://www.featuredcustomers.com/vendor/sparkcognition/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "SparkCognition Customer Story — SparkCognition is the world’s first cognitive security analytics company. It creates unique information security solutions that address the growing incidents of online security breaches. The company protects its users’ online and IT assets through its Cognitive Security Insights (CSI) application, the industry’s most intelligent security application. CSI monitors ac",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/softlayer_sparkcognition_23723.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "SparkCognition — By implementing IBM Watson software, SparkCognition expects to increase productivity for its customers. Specifically, the Flowserve customer improved pump engineer productivity by a factor of 20.",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/sparkcognition-.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "SparkCognition Revenue 2025: $75M, $156.9M Raised — Oct 30, 2026 · SparkCognition 2025 revenue: $75M. Valuation (2019): $1.4B. Total funding: $156.9M across 3 rounds. 303 employees. Founded 2013. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/sparkcognition.com",
+    "pass": 3
+   },
+   {
+    "quote": "SparkCognition – Business Snapshot & Rival Analysis – 2026 — Discover SparkCognition's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/sparkcognition",
+    "pass": 3
+   },
+   {
+    "quote": "SparkCognition Funding History: $320.0M | Indexed.vc — Oct 8, 2026 · SparkCognition is an energy company in San Francisco, United States, founded in 2013. It has raised $320.0M across 7 rounds, most recently a $123.0M Series D in January 2022.",
+    "url": "https://indexed.vc/companies/sparkcognition",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Revenue, Growth & Competitor Analysis Report for ...SparkCognition - 2026 Company Profile, Funding | The Company ...Sparkcognition: 15 Tools Behind $137M Revenue [2026 ...SparkCognition | Company | RadialReport — Nov 2, 2026 · Sparkcognition's Annual Report & Profile shows critical firmographic facts: What is the company's size? (Annual sales and employees) Sparkcognition's annual revenues ",
+    "url": "https://incfact.com/company/sparkcognition-austin-tx/",
+    "pass": 3
+   },
+   {
+    "quote": "SparkCognition - 2026 Company Profile, Funding | The Company ... — About SparkCognition SparkCognition is a Technology company based in Austin (United States) founded in 2013. AI based platform offering predictive analytics solution. It operates in the Technology and Industrial Goods & Manufacturing sectors. SparkCognition has raised $285.88 million across 6 funding rounds from investors including",
+    "url": "https://www.thecompanycheck.com/company/b/sparkcognition/r5ln8ih0bip6760hp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "SparkCognition (@SparkPredict) / X Follow us at @SparkCognition @SparkPredict Follow us at @ SparkCognition Austin, TX sparkcognition.com Joined March 2017 0 Following 3 Followers Mention Follow ...",
+    "url": "https://x.com/SparkPredict",
+    "pass": 3
+   },
+   {
+    "quote": "Avathon (@Avathonai) / Posts / X National Grid Renewables has selected SparkCognition Industrial AI Suite for Renewables to optimize the performance and efficiency of its solar, onshore wind, battery energy storage systems (BESS), and solar/storage hybrid projects.",
+    "url": "https://x.com/AvathonAI",
+    "pass": 3
+   },
+   {
+    "quote": "Amir Husain (@amirhusain_tx) / X ArgonMech @Spec_Five WQFoundry SparkCognition @SkyGridAI | #TheCyberneticSociety #TheSentientMachine #Hyperwar | Board @UTAustin @LifeAtLUMS | Programmer",
+    "url": "https://x.com/amirhusain_tx",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SparkCognition | LinkedIn SparkCognition | 32,071 followers on LinkedIn. AI Perfected for Business™️ | SparkCognition’s award-winning AI solutions allow organizations to predict future outcomes, optimize processes, and prevent cyberattacks. We partner with the world’s industry leaders to analyze, optimize, and learn from data, augment human intelligence, drive profitable growth, and achieve operat",
+    "url": "https://pm.linkedin.com/company/sparkcognition/?trk=products_details_guest_organization_page",
+    "pass": 3
+   },
+   {
+    "quote": "Sparkcognition Jobs in United States (4,000+ Open Roles ... Today’s top 4,000+ Sparkcognition jobs in United States. Leverage your professional network, and get hired. New Sparkcognition jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/sparkcognition-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Ryan Tuener - Owner at SparkCognition | LinkedInSparkCognition Renewable Suite | LinkedInSparkCognition Manufacturing Suite | LinkedInKunal Kislay - Building world’s first semantic video data ... Owner at SparkCognition · Experience: SparkCognition · Location: Blackpool. View Ryan Tuener’s profile on LinkedIn, a professional community of 1 billion members. About SparkCognition Renewable Suite is t",
+    "url": "https://uk.linkedin.com/in/ryan-tuener-b895a5296",
+    "pass": 3
+   },
+   {
+    "quote": "SparkCognition Renewable Suite | LinkedIn About SparkCognition Renewable Suite is the world’s first AI-powered full-spectrum performance management (APM) platform for renewable energy, enabling you to improve profitability by increasing energy production, reducing maintenance costs, and maximizing operational efficiency.",
+    "url": "https://ci.linkedin.com/products/sparkcognition-renewable-suite/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "SparkCognition | Austin TX - FacebookSparkCognition - “The biggest thing is really seeing the ...SparkCognition Government Systems - SGS - FacebookSparkCognition - We're excited to announce ... - FacebookSparkCognition - Our new Bay Area office is open!... | FacebookSparkCognition - NEW: National Grid Renewables has... | FacebookSparkCognition - SparkCognition CCO Usman Shuja and CBO Vijay ... Jun",
+    "url": "https://www.facebook.com/SparkCognition/",
+    "pass": 3
+   },
+   {
+    "quote": "SparkCognition Government Systems - SGS - Facebook SparkCognition Government Systems - SGS, Austin, Texas. 169 likes. SGS is the first full-spectrum AI company devoted entirely to government & national...",
+    "url": "https://www.facebook.com/SparkCognitionGovernmentSystems/about/",
+    "pass": 3
+   },
+   {
+    "quote": "SparkCognition - Our new Bay Area office is open!... | Facebook Apr 23, 2024 · Our new Bay Area office is open! SparkCognition team members gathered yesterday to officially launch our lovely office in Pleasanton, CA, on Earth Day 2024, which felt appropriate with so many of our...",
+    "url": "https://www.facebook.com/SparkCognition/posts/our-new-bay-area-office-is-open-sparkcognition-team-members-gathered-yesterday-t/883631660441258/",
+    "pass": 3
+   },
+   {
+    "quote": "SparkCognition - NEW: National Grid Renewables has... | Facebook Jun 11, 2024 · NEW: National Grid Renewables has selected SparkCognition Industrial AI Suite for Renewables to optimize the performance and efficiency of its solar, onshore wind, battery energy storage systems...",
+    "url": "https://www.facebook.com/SparkCognition/posts/new-national-grid-renewables-has-selected-sparkcognition-industrial-ai-suite-for/917377733733317/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://avathon.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avathon.com/company/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avathon.com/solutions/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avathon.com/industries/industrial-manufacturing-automotive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avathon.com/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avathon.com/solutions/supply-chain/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avathon.com/solutions/asset-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avathon.com/industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avathon.com/industries/aerospace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avathon.com/industries/energy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avathon.com/industries/mining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avathon.com/industries/logistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avathon.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avathon.com/company/leadership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avathon.com/resources/draslovka-and-avathon-partner-to-deliver-ai-powered-autonomy-and-real-time-process-intelligence-for-mining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avathon.com/resources/maana-now-avathon-partnered-with-aramco-trading-company-to-launch-ai-application-for-maritime-fleet-and-shipping-optimization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avathon.com/resources/avathon-launches-ai-powered-classification-for-global-trade-management/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fitgap.com/jp/products/sparkcognition",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ni.com/partners/s/partner/aDx3q000000KytCCAS/sparkcognition?language=ja",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://sparc.world/sparkcognition",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://milize.co.jp/news/20200514_533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/sparkcognition",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/sparkcognition",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/sparkcognition/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/softlayer_sparkcognition_23723.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/sparkcognition.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/sparkcognition",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/sparkcognition",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://incfact.com/company/sparkcognition-austin-tx/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SparkPredict",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AvathonAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/amirhusain_tx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pm.linkedin.com/company/sparkcognition/?trk=products_details_guest_organization_page",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/sparkcognition-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/ryan-tuener-b895a5296",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ci.linkedin.com/products/sparkcognition-renewable-suite/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SparkCognition/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SparkCognitionGovernmentSystems/about/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SparkCognition/posts/our-new-bay-area-office-is-open-sparkcognition-team-members-gathered-yesterday-t/883631660441258/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SparkCognition/posts/new-national-grid-renewables-has-selected-sparkcognition-industrial-ai-suite-for/917377733733317/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SparkPredict",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "SparkCognition 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "SparkCognition 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "https://www.spk.co.jp/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SparkCognition Japan",
+   "results": [
+    "https://fitgap.com/jp/products/sparkcognition",
+    "https://www.ni.com/partners/s/partner/aDx3q000000KytCCAS/sparkcognition?language=ja",
+    "https://sparc.world/sparkcognition",
+    "https://milize.co.jp/news/20200514_533",
+    "https://dxies.com/products/sparkcognition/",
+    "https://avathon.com/company/leadership/",
+    "https://avathon.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SparkCognition manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/sparkcognition",
+    "https://www.casestudies.com/company/sparkcognition",
+    "https://www.featuredcustomers.com/vendor/sparkcognition/case-studies",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/softlayer_sparkcognition_23723.pdf",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/sparkcognition-.pdf",
+    "https://www.piercom.com/wp-content/uploads/case-study-pdfs/sparkcognition-2025-12-17-18-04-43.pdf",
+    "https://avathon.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SparkCognition white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://partners.adobe.com/channelpartners/",
+    "https://connect.redhat.com/en/partner-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SparkCognition founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/sparkcognition.com",
+    "https://compworth.com/company/sparkcognition",
+    "https://indexed.vc/companies/sparkcognition",
+    "https://incfact.com/company/sparkcognition-austin-tx/",
+    "https://www.thecompanycheck.com/company/b/sparkcognition/r5ln8ih0bip6760hp",
+    "https://techlist.ai/sparkcognition.com",
+    "https://mindmaps.aiia.tech/firms/87709"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com SparkCognition",
+   "results": [
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/dashboard",
+    "https://note.com/cute_willet990/n/n9529041a97d7",
+    "https://note.com/dobokutorisetsu/n/ne3a94a016790",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/nge555/n/n9be457d29844",
+    "https://note.com/ayaneyama6666/n/n1377c7d39bbd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com SparkCognition",
+   "results": [
+    "https://x.com/SparkPredict",
+    "https://x.com/",
+    "https://x.com/AvathonAI",
+    "https://x.com/amirhusain_tx",
+    "https://x.com/MithunSarkari/status/2116859753431216488",
+    "https://x.com/CognitiveTimes",
+    "https://x.com:2096/MaanaKnowledge"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com SparkCognition",
+   "results": [
+    "https://pm.linkedin.com/company/sparkcognition/?trk=products_details_guest_organization_page",
+    "https://www.linkedin.com/jobs/sparkcognition-jobs",
+    "https://uk.linkedin.com/in/ryan-tuener-b895a5296",
+    "https://ci.linkedin.com/products/sparkcognition-renewable-suite/",
+    "https://mm.linkedin.com/products/sparkcognition-manufacturing-suite/",
+    "https://www.linkedin.com/company/avathonai",
+    "https://in.linkedin.com/in/kunalkislay"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com SparkCognition",
+   "results": [
+    "https://www.facebook.com/SparkCognition/",
+    "https://www.facebook.com/SparkCognitionGovernmentSystems/about/",
+    "https://www.facebook.com/SparkCognition/posts/our-new-bay-area-office-is-open-sparkcognition-team-members-gathered-yesterday-t/883631660441258/",
+    "https://www.facebook.com/SparkCognition/posts/new-national-grid-renewables-has-selected-sparkcognition-industrial-ai-suite-for/917377733733317/",
+    "https://www.facebook.com/SparkCognition/photos/a.281189268715775/1133638493470844/",
+    "https://www.facebook.com/SparkCognition/posts/2247612818740067/",
+    "https://www.facebook.com/SparkCognition/posts/-were-excited-to-announce-that-we-have-entered-into-a-definitive-agreement-to-ac/2169788726522477/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SparkCognition note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://en.wikipedia.org/wiki/Amir_Husain",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://jp.linkedin.com/in/hiroshi-kinoshita-9b81b21a/ja",
+    "https://www.clay.com/dossier/sparkcognition-ceo",
+    "https://www.prnewswire.com/news-releases/sparkcognition-appoints-pervinder-johar-as-ceo-302041279.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SparkCognition X 投稿",
+   "results": [
+    "https://x.com/SparkPredict",
+    "https://linktr.ee/sparkcognition",
+    "https://www.instagram.com/sparkcognition/",
+    "https://github.com/SparkCognition",
+    "https://avathon.com/company/leadership/",
+    "https://x.com/felixrieseberg/status/2119925633564463609",
+    "https://avathon.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部32頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

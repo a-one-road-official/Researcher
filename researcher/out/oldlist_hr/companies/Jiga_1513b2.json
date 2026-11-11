@@ -1,0 +1,1262 @@
+{
+ "name": "Jiga",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜リマイン1",
+ "researched_at": "2026-11-11T06:57:41.893793+00:00",
+ "official_url": "https://jiga.io",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Precise custom sheet metal components, advanced techniques, global network.",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Printing",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Cutting-edge rapid prototyping & production, accurate custom parts from digital designs.",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Global network, precise & efficient custom injection molded components, exceptional quality.",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-axis precision milling for complex geometries",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom brake-formed profiles, consistent angles",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Laser & waterjet cutting for precise contours",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid thermoplastic prototypes, fast turnaround",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Production-grade parts, uniform properties",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "High-volume plastic parts, repeatable precision",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Qualified US network delivering mission-critical parts from prototype to full-rate production.",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom parts from weekly prototypes through to reliable volume production.",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Consistent suppliers, costs that drop every lot, programs that hold.",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "End-to-end service removing supply chain friction from onboarding to delivery.",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Any hardware you need to build, from R&D to mass production, under one accountable partner",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Prototype tooling to production molds",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-qualified global suppliers, operating as your in-house team - with capacity reserved across regions",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "No audits, no relationships - production risk compounds",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Staring at 4 email threads. Can someone just tell me if the parts ship Tuesday?",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Manually tracking thousands of parts can lead to preventable failures",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "High-capacity production, fast dev partners, precision shops, cost-optimized shops – routed on data and judgment, not guesswork.",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-approved US and global alternatives, ready when you need them.",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "You keep AVL control, direct audit rights, NDAs, and program-level access. Transparency is built in, not bolted on.",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "A named account manager, plus program managers, supply chain managers, quality engineers, and logistics on demand.",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for production complexity",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Precise custom sheet metal components, advanced techniques, global network.",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Printing",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Cutting-edge rapid prototyping & production, accurate custom parts from digital designs.",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Global network, precise & efficient custom injection molded components, exceptional quality.",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-axis precision milling for complex geometries",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom brake-formed profiles, consistent angles",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Laser & waterjet cutting for precise contours",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid thermoplastic prototypes, fast turnaround",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Production-grade parts, uniform properties",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "High-volume plastic parts, repeatable precision",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Qualified US network delivering mission-critical parts from prototype to full-rate production.",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom parts from weekly prototypes through to reliable volume production.",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Consistent suppliers, costs that drop every lot, programs that hold.",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "End-to-end service removing supply chain friction from onboarding to delivery.",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "“My overall experience working with Jiga has been super smooth, super efficient. Working with Jiga has had a significant and profound impact on Carbon Robotics.”",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "“Before implementing Jiga, it took a very long time to complete the purchase of parts. We had an inefficient manual sourcing process and long lead times that were costing the company millions of dollars.”",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Nova enhances communication, quality, and efficiency in product development with Jiga",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Jiga has been an unbeatable combination of speed, quality, and price! I really like the streamlined communication platform directly with vendors, and I appreciate the prompt attention of our account manager! I have sourced a variety of custom metal parts so far and it’s been a flawless experience.",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Principal Systems R&D Mechanical Engineer",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Jiga is a fantastic platform for managing purchasing communication. As an engineer, I really don’t want to spend my time chasing email threads and maintaining spreadsheets of quotes. Jiga keeps all of this information in one place and streamlines the entire RFQ process.",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "I love using Jiga. Their amazing customer service and a consistent 20% cost reduction makes it an outstanding service to ramp up our custom manufacturing operations. And not only that, it also eases the process and gives us peace of mind, knowing that things are handled the right way.",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "We saved more than $10k on the last order alone. Vetted machine shops bidding on your project gets you the best combination of price and turnaround (and the transparency is great).",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Jiga is a good source for new suppliers and streamlines the process of quoting and procuring manufactured items. I have substituted some of my pre-existing quoting workflows with Jiga, which makes the process of quoting parts much quicker and easier. This is in addition to finding new reliable suppliers through their platform.",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Jiga’s platform provided us with significant financial savings, reduced valuable handling times, and facilitated a faster delivery flow. The service and availability are outstanding.",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Production Site",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Precise custom sheet metal components, advanced techniques, global network.",
+    "url": "https://jiga.io/become-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Printing",
+    "url": "https://jiga.io/become-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Cutting-edge rapid prototyping & production, accurate custom parts from digital designs.",
+    "url": "https://jiga.io/become-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Global network, precise & efficient custom injection molded components, exceptional quality.",
+    "url": "https://jiga.io/become-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-axis precision milling for complex geometries",
+    "url": "https://jiga.io/become-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom brake-formed profiles, consistent angles",
+    "url": "https://jiga.io/become-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Laser & waterjet cutting for precise contours",
+    "url": "https://jiga.io/become-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid thermoplastic prototypes, fast turnaround",
+    "url": "https://jiga.io/become-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Production-grade parts, uniform properties",
+    "url": "https://jiga.io/become-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "High-volume plastic parts, repeatable precision",
+    "url": "https://jiga.io/become-partner/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Managed Custom Parts Manufacturing | Jiga",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Upload files. Get quotes. Connect with vetted manufacturers.",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Your custom manufacturing arm",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams building the hardest things",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing is relationships, not transactions",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Jiga: Transparent manufacturing operation",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers - Managed Custom Parts Manufacturing | Jiga",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Upload files. Get quotes. Connect with vetted manufacturers.",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "“With moving things more into the US, being able to identify those manufacturers, some that Jiga already has relationships with, has been key. Having someone that already has these connections and can point us in the right direction is invaluable.”",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "“A team like ours needs reliable manufacturers. Our experience with Jiga has been so great. With Jiga, we haven’t had any real issues, which I can tell you, has not always been the case for our company.",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's top-tier companies",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "I love using Jiga. Their amazing customer service and a consistent 20% cost reduction makes it an outstanding service to ramp up our custom manufacturing operations. And not only that, it also eases the process and gives us peace of mind, knowing that things are handled the right way.",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Business Consultant",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Become a Manufacturing Partner | Jiga",
+    "url": "https://jiga.io/become-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Upload files. Get quotes. Connect with vetted manufacturers.",
+    "url": "https://jiga.io/become-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's top-tier companies",
+    "url": "https://jiga.io/become-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "About Us | Help us build the future of manufacturing | Jiga",
+    "url": "https://jiga.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Upload files. Get quotes. Connect with vetted manufacturers.",
+    "url": "https://jiga.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing deserves better",
+    "url": "https://jiga.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's top-tier companies",
+    "url": "https://jiga.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The trusted backbone of manufacturing",
+    "url": "https://jiga.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom manufacturing is the bottleneck in hardware, and a world racing toward local manufacturing is only making the problem more accute.",
+    "url": "https://jiga.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing / NPI Engineer",
+    "url": "https://jiga.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Content and Communications Manager - Defense & Aerospace",
+    "url": "https://jiga.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Machinery Manufacturing",
+    "url": "https://www.casestudies.com/company/jiga",
+    "pass": 3
+   },
+   {
+    "quote": "Global Formula Racing optimizes custom parts manufacturing with Jiga",
+    "url": "https://www.casestudies.com/company/jiga",
+    "pass": 3
+   },
+   {
+    "quote": "Global Formula Racing achieves faster custom parts manufacturing with Jiga",
+    "url": "https://www.casestudies.com/company/jiga",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Carbon Robotics cuts lead times and streamlines sourcing with Jiga | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/jiga/case-study/carbon-robotics-cuts-lead-times-from-8-weeks-to-23-weeks-with-jiga",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Carbon Robotics cuts lead times and streamlines sourcing with Jiga",
+    "url": "https://www.casestudies.com/company/jiga/case-study/carbon-robotics-cuts-lead-times-from-8-weeks-to-23-weeks-with-jiga",
+    "pass": 3
+   },
+   {
+    "quote": "Carbon Robotics, a manufacturer of AI-powered laser weeders, faced significant sourcing challenges as production scaled. Each machine contained over a thousand custom parts, and managing numerous vendors through emails and spreadsheets was time-consuming. Long lead times of up to eight weeks for components were a major bottleneck. Jiga was brought in to streamline this process.",
+    "url": "https://www.casestudies.com/company/jiga/case-study/carbon-robotics-cuts-lead-times-from-8-weeks-to-23-weeks-with-jiga",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/jiga/case-study/carbon-robotics-cuts-lead-times-from-8-weeks-to-23-weeks-with-jiga",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/jiga/case-study/carbon-robotics-cuts-lead-times-from-8-weeks-to-23-weeks-with-jiga",
+    "pass": 3
+   },
+   {
+    "quote": "In particular, keywords such as 'swimsuit scene at the beach,' 'skirt flip from falling,' and 'wet clothes' were frequently detected in the prompts (instructions) used by generative AI tool users. It was also found that many of the generated images are biased toward specific anime styles and character designs.",
+    "url": "https://note.com/yonojixyonoji/n/n9a17e928277d?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Finishing, heat treat, plating, specialty materials, and secondaries – sourced and coordinated as part of the operation.",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Silent supplier, drifting date, missing doc - flagged in real time and owned by your account manager.",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Quality standards are shared across every shop in our network and verified before parts leave the floor. Documentation arrives attached and ready – not chased down at receiving.",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "As a team member, you’ll see the full picture: revenue, valuation, runway, roadmap, sales pipeline, what’s working and what fails.",
+    "url": "https://jiga.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We don’t settle for “good enough.” Quick response times, going the extra mile, creating fans not just users. It’s part of our DNA.",
+    "url": "https://jiga.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/jiga.io",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/jiga.io",
+    "pass": 3
+   },
+   {
+    "quote": "Jiga is a Venture-backed company founded in 2020 during the COVID-19 outbreak by Adar Hay, Assaf Geuz and Yonatan Wolowelsky. The first parts theymade were for ventilation machines to help fight the pandemic. Since then, they have expanded to work with various industries, from growing startups to Fortune 500 companies.",
+    "url": "https://www.casestudies.com/company/jiga",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Staring at 4 email threads. Can someone just tell me if the parts ship Tuesday?",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Email, your ERP, your PO format, your AVL. Jiga works with every setup - no system to adopt.",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "RFQs, quotes, POs, parts, revisions, messages, statuses, and docs captured together. Access via email or portal.",
+    "url": "https://jiga.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Jiga is a fantastic platform for managing purchasing communication. As an engineer, I really don’t want to spend my time chasing email threads and maintaining spreadsheets of quotes. Jiga keeps all of this information in one place and streamlines the entire RFQ process.",
+    "url": "https://jiga.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Carbon Robotics, a manufacturer of AI-powered laser weeders, faced significant sourcing challenges as production scaled. Each machine contained over a thousand custom parts, and managing numerous vendors through emails and spreadsheets was time-consuming. Long lead times of up to eight weeks for components were a major bottleneck. Jiga was brought in to streamline this process.",
+    "url": "https://www.casestudies.com/company/jiga/case-study/carbon-robotics-cuts-lead-times-from-8-weeks-to-23-weeks-with-jiga",
+    "pass": 3
+   },
+   {
+    "quote": "Email: info@jiga.or.jp",
+    "url": "https://note.com/yonojixyonoji/n/n9a17e928277d?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本インディペンデント・ゲーム協会 - Wikipedia",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%9A%E3%83%B3%E3%83%87%E3%83%B3%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0%E5%8D%94%E4%BC%9A",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人日本インディペンデント・ゲーム協会",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%9A%E3%83%B3%E3%83%87%E3%83%B3%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0%E5%8D%94%E4%BC%9A",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Independent Games Aggregate",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%9A%E3%83%B3%E3%83%87%E3%83%B3%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0%E5%8D%94%E4%BC%9A",
+    "pass": 3
+   },
+   {
+    "quote": "）略称: JIGA（じが）は、日本のインディペンデントゲームを推進することを目的とする日本の業界団体",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%9A%E3%83%B3%E3%83%87%E3%83%B3%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0%E5%8D%94%E4%BC%9A",
+    "pass": 3
+   },
+   {
+    "quote": "日本のインディペンデントゲームを推進することを目的とし、インディペンデントゲームイベント「",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%9A%E3%83%B3%E3%83%87%E3%83%B3%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0%E5%8D%94%E4%BC%9A",
+    "pass": 3
+   },
+   {
+    "quote": "［2015/7/11＆12］…主催：BitSummit実行委員会（一般社団法人 日本インディペンデント・ゲーム協会",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%9A%E3%83%B3%E3%83%87%E3%83%B3%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0%E5%8D%94%E4%BC%9A",
+    "pass": 3
+   },
+   {
+    "quote": "［2016/7/9＆10］…主催：BitSummit実行委員会（一般社団法人 日本インディペンデント・ゲーム協会",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%9A%E3%83%B3%E3%83%87%E3%83%B3%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0%E5%8D%94%E4%BC%9A",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ワン・トゥー・テン・ホールディングス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%9A%E3%83%B3%E3%83%87%E3%83%B3%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0%E5%8D%94%E4%BC%9A",
+    "pass": 3
+   },
+   {
+    "quote": "［2017/5/20＆21］…主催：BitSummit実行委員会（一般社団法人 日本インディペンデント・ゲーム協会",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%9A%E3%83%B3%E3%83%87%E3%83%B3%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0%E5%8D%94%E4%BC%9A",
+    "pass": 3
+   },
+   {
+    "quote": "［2018/5/12＆13］…主催：BitSummit実行委員会（一般社団法人 日本インディペンデント・ゲーム協会",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%9A%E3%83%B3%E3%83%87%E3%83%B3%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0%E5%8D%94%E4%BC%9A",
+    "pass": 3
+   },
+   {
+    "quote": "［2019/6/1＆2］…主催：BitSummit実行委員会（一般社団法人 日本インディペンデント・ゲーム協会",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%9A%E3%83%B3%E3%83%87%E3%83%B3%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0%E5%8D%94%E4%BC%9A",
+    "pass": 3
+   },
+   {
+    "quote": "［2020/6/27＆28］…主催：BitSummit実行委員会（一般社団法人 日本インディペンデント・ゲーム協会",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%9A%E3%83%B3%E3%83%87%E3%83%B3%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0%E5%8D%94%E4%BC%9A",
+    "pass": 3
+   },
+   {
+    "quote": "“なぜ一般社団法人 日本インディペンデント・ゲーム協会は設立されたのか？ キーパーソンたちを直撃”",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%9A%E3%83%B3%E3%83%87%E3%83%B3%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0%E5%8D%94%E4%BC%9A",
+    "pass": 3
+   },
+   {
+    "quote": "https://ja.wikipedia.org/w/index.php?title=日本インディペンデント・ゲーム協会&oldid=108987064",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%9A%E3%83%B3%E3%83%87%E3%83%B3%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0%E5%8D%94%E4%BC%9A",
+    "pass": 3
+   },
+   {
+    "quote": "JIGA- シニア人材マネジメントの日本産業ジェロントロジー協会",
+    "url": "https://jiga.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "What does 自我 (Jiga) mean in Japanese?",
+    "url": "https://www.wordhippo.com/what-is/the-meaning-of/japanese-word-f4d1ee389040d7c5f2afad543f215d99d805fe71.html",
+    "pass": 3
+   },
+   {
+    "quote": "(Jiga) mean in Japanese?",
+    "url": "https://www.wordhippo.com/what-is/the-meaning-of/japanese-word-f4d1ee389040d7c5f2afad543f215d99d805fe71.html",
+    "pass": 3
+   },
+   {
+    "quote": "Translate from Japanese",
+    "url": "https://www.wordhippo.com/what-is/the-meaning-of/japanese-word-f4d1ee389040d7c5f2afad543f215d99d805fe71.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese word definition and usage",
+    "url": "https://www.nihongomaster.com/japanese/dictionary/word/30298/jiga-%E8%87%AA%E6%88%91-%E3%81%98%E3%81%8C",
+    "pass": 3
+   },
+   {
+    "quote": "Love Japanese? Share it and get paid.",
+    "url": "https://www.nihongomaster.com/japanese/dictionary/word/30298/jiga-%E8%87%AA%E6%88%91-%E3%81%98%E3%81%8C",
+    "pass": 3
+   },
+   {
+    "quote": "Free Japanese learning resources",
+    "url": "https://www.nihongomaster.com/japanese/dictionary/word/30298/jiga-%E8%87%AA%E6%88%91-%E3%81%98%E3%81%8C",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Image Generation Association Announces Surprising Survey Results｜しべーる",
+    "url": "https://note.com/yonojixyonoji/n/n9a17e928277d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Image Generation Association Announces Surprising Survey Results",
+    "url": "https://note.com/yonojixyonoji/n/n9a17e928277d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "※ This article is fiction and created for entertainment purposes. The Japan Image Generation Association does not exist.",
+    "url": "https://note.com/yonojixyonoji/n/n9a17e928277d?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Jigaの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — Jiga自身が「Vendor of Record（公式取引主体）」として品質保証と単一窓口での責任体制を担い、NASA、Siemens、Tesla、Apple、Googleなどの大手企業に導入されています。 カスタム機械部品の製造調達を自動化・効率化するAIプラットフォームの開発・運営。",
+    "url": "https://www.firstcvc.jp/global/jiga.io",
+    "pass": 3
+   },
+   {
+    "quote": "Managed Custom Parts Manufacturing | Jiga — Source custom parts directly from qualified suppliers. Human-reviewed quotes, direct supplier communication, built for reliable, repeatable production.",
+    "url": "https://jiga.io/",
+    "pass": 3
+   },
+   {
+    "quote": "JIGA- シニア人材マネジメントの日本産業ジェロントロジー協会 — お知らせ 金融経済新聞に『中高年の意欲を高める「会社目線」の健康経営』が掲載されました。 イベント お知らせ 2026年10月23日これからの企業・組織に求められる「産業ジェロントロジー」とは？ (昼・夜の部二部制) イベント お知らせ 2026年10月14日・28日【見逃し再配信】産業 ...",
+    "url": "https://jiga.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "About Us | Help us build the future of manufacturing | Jiga — We are creating the tool to speed up manufacturing for NASA, Google, Tesla and hundreds more. Join us to build the future of manufacturing.",
+    "url": "https://jiga.io/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "日本インディペンデント・ゲーム協会 - Wikipedia — 一般社団法人日本インディペンデント・ゲーム協会 （英: Japan Independent Games Aggregate）略称: JIGA（じが）は、日本のインディペンデントゲームを推進することを目的とする日本の業界団体。",
+    "url": "https://ja.wikipedia.org/wiki/日本インディペンデント・ゲーム協会",
+    "pass": 3
+   },
+   {
+    "quote": "What does 自我 (Jiga) mean in Japanese? - WordHippo — Need to translate \"自我\" (Jiga) from Japanese? Here are 2 possible meanings.",
+    "url": "https://www.wordhippo.com/what-is/the-meaning-of/japanese-word-f4d1ee389040d7c5f2afad543f215d99d805fe71.html",
+    "pass": 3
+   },
+   {
+    "quote": "自我, じが, jiga - Nihongo Master — self, the ego - Meaning of 自我, じが, jiga. Japanese dictionary entry with readings, audio and examples.",
+    "url": "https://www.nihongomaster.com/japanese/dictionary/word/30298/jiga-自我-じが",
+    "pass": 3
+   },
+   {
+    "quote": "An historical examination of the concept of jiga (ego) in ... — Apr 28, 2005 · The study of jiga in Japan: An overview The term jiga existed from before the Meiji Era The current concept of jiga as used in psychology Changes of meaning in translation “Ego” and “self-consciousness” in Yujiro Motora's dissertation, “Exchange” The Case of G. T. Ladd Conclusion: Future topics for investigation Referen",
+    "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-5884.2005.00279.x",
+    "pass": 3
+   },
+   {
+    "quote": "Customers - Managed Custom Parts Manufacturing | Jiga — Trusted by the world's top-tier companies Customer case studies Find out how companies are achieving success with Jiga ... Learn how onshoring the parts behind America’s drone motors with Jiga. Jiga gave Carbon Robotics one place to manage their entire sourcing workflow.",
+    "url": "https://jiga.io/customers/",
+    "pass": 3
+   },
+   {
+    "quote": "Jiga B2B Case Studies & Customer Successes — Jiga is a Venture-backed company founded in 2020 during the COVID-19 outbreak by Adar Hay, Assaf Geuz and Yonatan Wolowelsky. The first parts theymade were for ventilation machines to help fight the pandemic.",
+    "url": "https://www.casestudies.com/company/jiga",
+    "pass": 3
+   },
+   {
+    "quote": "Managed Custom Parts Manufacturing | Jiga — Your custom manufacturing arm Jiga owns getting custom parts made right by qualified machine shops you can see, talk to and audit.",
+    "url": "https://jiga.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Carbon Robotics cuts lead times and streamlines ... — Carbon Robotics (Machinery) partnered with Jiga (Manufacturing) to solve key challenges. \"Carbon Robotics cuts lead times from 8 weeks to 2–3 weeks with Jiga\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/jiga/case-study/carbon-robotics-cuts-lead-times-from-8-weeks-to-23-weeks-with-jiga",
+    "pass": 3
+   },
+   {
+    "quote": "Case study: Jiga · One set of GTM numbers the whole team can ... — Jiga's GTM team was scaling across a CRM, two outbound tools and a product database, with no native integrations between them. I built the data layer that joins them up, so every number comes from the same place. Client Jiga, a managed manufacturing platform connecting hardware teams with a vetted supplier network Worked with Alfie",
+    "url": "https://www.weareapexai.com/case-studies/jiga",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Japan Image Generation Association Announces Surprising ... What is a 'Lucky Pervert'? 'Lucky pervert' is a Japanese subculture term referring to accidental, light sexual mishaps or scenes that unintentionally contain erotic elements. This survey highlights that this element, commonly seen in anime, manga, and games, dominates AI-generated imagery. Survey Details: According to JIGA's research, an ",
+    "url": "https://note.com/yonojixyonoji/n/n9a17e928277d?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Japan Image Generation Association Announces Surprising Survey Results｜しべーる",
+    "url": "https://note.com/yonojixyonoji/n/n9a17e928277d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/yonojixyonoji/n/n9a17e928277d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Image Generation Association Announces Surprising Survey Results",
+    "url": "https://note.com/yonojixyonoji/n/n9a17e928277d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "90% of Generated Images are 'Lucky Pervert' Scenarios. Tokyo, August 27, 2025 — The Japan Image Generation Association (JIGA) has released its latest survey report, revealing that approximately 90% of images generated domestically are related to 'lucky pervert' (rakki-sukebe) content. This survey was conducted between 2024 and 2025, targeting major image generation platforms in Japan to analyze tr",
+    "url": "https://note.com/yonojixyonoji/n/n9a17e928277d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is a 'Lucky Pervert'?",
+    "url": "https://note.com/yonojixyonoji/n/n9a17e928277d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "'Lucky pervert' is a Japanese subculture term referring to accidental, light sexual mishaps or scenes that unintentionally contain erotic elements. This survey highlights that this element, commonly seen in anime, manga, and games, dominates AI-generated imagery. Survey Details: According to JIGA's research, an analysis of approximately 1 million image data points generated between January 2024 an",
+    "url": "https://note.com/yonojixyonoji/n/n9a17e928277d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Lucky pervert-related (suggestive poses, torn clothing, accidental exposure, etc.): 89.3%",
+    "url": "https://note.com/yonojixyonoji/n/n9a17e928277d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "General illustrations (landscapes, animals, daily life scenes, etc.): 7.2%",
+    "url": "https://note.com/yonojixyonoji/n/n9a17e928277d?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Jiga 64 MAGFest 2027 (@jiga_64) / X Nov 2, 2018 · 5 57 1.1K Jiga 64 🔜 MAGFest 2027 @jiga_64 Nov 4 sometimes I forget that some of my oomfs make really cool and awesome tunes",
+    "url": "https://x.com/jiga_64",
+    "pass": 3
+   },
+   {
+    "quote": "jiGa (@pemtsikata) / X 194 jiGa @pemtsikata Aug 5 If you think those admirers can entertain those shit, try and you will be flashed red card after securing that 3 point 😉",
+    "url": "https://x.com/pemtsikata",
+    "pass": 3
+   },
+   {
+    "quote": "Jiga 64 on X: \"halloweeeen\" / X Oct 31, 2026 · halloweeeen Yo jiga guess what 10",
+    "url": "https://x.com/jiga_64/status/2116562566843355332",
+    "pass": 3
+   },
+   {
+    "quote": "パさん (@packeeen_jiga) / X @packeeen_jiga 自我&雑多 このアカウントの投稿内容は他の人の見えるところで言わないで Joined October 2025 32 Following 32 Followers ...",
+    "url": "https://x.com/packeeen_jiga",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by イチ夏 (@jiga_motte) / X そして今更ですがこちらのスケブくん納品しました···！ギリギリまで拘ってしまってすみません！とても楽しかったです！！ありがとうございます😊🫰🏻 289 ぜんまい @zennmai_cb Nov 5, 2024 Replying to @jiga_motte 自分はmiriaってアプリ使ってますねぇ 1 1 37 イチ夏 @jiga_motte Nov 12, 2024",
+    "url": "https://x.com/jiga_motte/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "⬛ on X: \"正直投稿した動画も納得の出来ではない\" / X Sep 15, 2026 · 🐈⬛💭 @kitcat_jiga 正直投稿した動画も納得の出来ではない 1:38 PM · Sep 15, 2026 · 54 Views 2",
+    "url": "https://x.com/kitcat_jiga/status/2099855253537698093",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Jiga - LinkedIn Jiga | 9,715 followers on LinkedIn. Your custom manufacturing arm. We own getting you the right parts from qualified suppliers you can talk to directly. | Manufacturing runs on relationships. Jiga ...",
+    "url": "https://www.linkedin.com/company/jiga3d",
+    "pass": 3
+   },
+   {
+    "quote": "Alexandra Jiga - Entertainment Attorney | LinkedInJiga - LinkedInAdar Hay - Co-founder and CEO at Jiga | LinkedInJiga lights - Business Owner at jigaled | LinkedInRazvan Jiga - Director general | LinkedInGabriel Jiga - Professor at Politehnica University of ... View Alexandra Jiga’s profile on LinkedIn, a professional community of 1 billion members. Jiga | 9,580 עוקבים על לינקדאין. Your custom man",
+    "url": "https://www.linkedin.com/in/alexandra-jiga-b00b2427",
+    "pass": 3
+   },
+   {
+    "quote": "Jiga - LinkedIn Jiga | 9,580 עוקבים על לינקדאין. Your custom manufacturing arm. We own getting you the right parts from qualified suppliers you can talk to directly. | Manufacturing runs on relationships. Jiga gets aerospace, defense, and robotics teams the right custom parts, on time and on spec, from a qualified network of suppliers you can talk to directly. Your Jiga team and software keep ...",
+    "url": "https://il.linkedin.com/company/jiga3d",
+    "pass": 3
+   },
+   {
+    "quote": "Adar Hay - Co-founder and CEO at Jiga | LinkedInJiga lights - Business Owner at jigaled | LinkedInRazvan Jiga - Director general | LinkedInGabriel Jiga - Professor at Politehnica University of ... Co-founder and CEO at Jiga · Jiga is turning America's machine shops into the industrial base the country needs. The capacity exists. Thousands of shops, skilled and hungry for work, but nearly impossibl",
+    "url": "https://il.linkedin.com/in/adarhay",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Jiga Mags and Tires | Parañaque - FacebookJiga - FacebookLes Bonbons JIGA Haiti | Takoma Park MD - FacebookJiga Farms Wholesale Retail/Hog Raise, Buyer and Management ...JIGA LED | Siliguri - FacebookWELCOME TO JIGA BACOLOD! Our newest... - Jiga Mags and Tires ...Refacciones JIGA | Oaxaca de Juárez - Facebook Jiga Mags and Tires, Parañaque. 28,324 followers · 1,118 talking about this · 64 were her",
+    "url": "https://www.facebook.com/jigamags/",
+    "pass": 3
+   },
+   {
+    "quote": "Jiga - FacebookLes Bonbons JIGA Haiti | Takoma Park MD - FacebookJiga Farms Wholesale Retail/Hog Raise, Buyer and Management ...JIGA LED | Siliguri - FacebookWELCOME TO JIGA BACOLOD! Our newest... - Jiga Mags and Tires ...Refacciones JIGA | Oaxaca de Juárez - Facebook Mar 17, 2022 · Mōúhãmęd Ndøng and Mohamed Dida 2 Jiga 4y · Public Jiga's #ManufacturingExperts series feature Robert Yancey, Busine",
+    "url": "https://www.facebook.com/jiga3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Les Bonbons JIGA Haiti | Takoma Park MD - FacebookJiga Farms Wholesale Retail/Hog Raise, Buyer and Management ...JIGA LED | Siliguri - FacebookWELCOME TO JIGA BACOLOD! Our newest... - Jiga Mags and Tires ...Refacciones JIGA | Oaxaca de Juárez - Facebook Oct 6, 2026 · Les Bonbons JIGA Haiti, Takoma Park. 897 followers · 1 talking about this. JIGA SWEETS is an artisan producer of candy and jams loca",
+    "url": "https://www.facebook.com/jigahaiti/",
+    "pass": 3
+   },
+   {
+    "quote": "Jiga Farms Wholesale Retail/Hog Raise, Buyer and Management ... Mar 13, 2025 · Jiga Farms Wholesale Retail/Hog Raise, Buyer and Management Services, Lapu-Lapu City. 508 likes. JIGA FARMS WHOLESALER",
+    "url": "https://www.facebook.com/profile.php/?id=100068851230730",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://jiga.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jiga.io/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jiga.io/become-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jiga.io/about-us/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://jiga.io/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jiga.io/wp-content/uploads/2026/05/Order-data-in-one-live-structured-space-v4-op.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%9A%E3%83%B3%E3%83%87%E3%83%B3%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0%E5%8D%94%E4%BC%9A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/global/jiga.io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jiga.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%9A%E3%83%B3%E3%83%87%E3%83%B3%E3%83%88%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0%E5%8D%94%E4%BC%9A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wordhippo.com/what-is/the-meaning-of/japanese-word-f4d1ee389040d7c5f2afad543f215d99d805fe71.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jica.go.jp/english/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihongomaster.com/japanese/dictionary/word/30298/jiga-%E8%87%AA%E6%88%91-%E3%81%98%E3%81%8C",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/jiga",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/jiga/case-study/carbon-robotics-cuts-lead-times-from-8-weeks-to-23-weeks-with-jiga",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yonojixyonoji/n/n9a17e928277d?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/jiga_64",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/pemtsikata",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/jiga_64/status/2116562566843355332",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/jiga3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/alexandra-jiga-b00b2427",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/company/jiga3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/in/adarhay",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/jigamags/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/jiga3d/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/jigahaiti/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/profile.php/?id=100068851230730",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/packeeen_jiga",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/jiga_motte/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kitcat_jiga/status/2099855253537698093",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Jiga 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本インディペンデント・ゲーム協会",
+    "https://www.firstcvc.jp/global/jiga.io",
+    "https://jiga.io/",
+    "https://jiga.jp/",
+    "https://jiga.io/about-us/",
+    "https://car.watch.impress.co.jp/docs/news/2153268.html",
+    "https://autoprove.net/imported-car/jeep/wrangler/258778/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Jiga 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://www.indexpro.co.jp/distributor/search-distributor"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Jiga Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本インディペンデント・ゲーム協会",
+    "https://www.wordhippo.com/what-is/the-meaning-of/japanese-word-f4d1ee389040d7c5f2afad543f215d99d805fe71.html",
+    "https://www.jica.go.jp/english/index.html",
+    "https://www.nihongomaster.com/japanese/dictionary/word/30298/jiga-自我-じが",
+    "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-5884.2005.00279.x",
+    "https://jiga.io/",
+    "https://jiga.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Jiga manufacturing customer case study",
+   "results": [
+    "https://jiga.io/customers/",
+    "https://www.casestudies.com/company/jiga",
+    "https://jiga.io/",
+    "https://www.casestudies.com/company/jiga/case-study/carbon-robotics-cuts-lead-times-from-8-weeks-to-23-weeks-with-jiga",
+    "https://www.weareapexai.com/case-studies/jiga",
+    "https://yespress.io/jiga",
+    "https://www.featuredcustomers.com/vendor/jiga/case-studies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Jiga white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.ninjaone.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Jiga founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Jiga",
+   "results": [
+    "https://note.com/gg_tommy/n/n3a202551a377",
+    "https://note.com/tag/2026年ドラフト",
+    "https://note.com/yonojixyonoji/n/n9a17e928277d?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/powerpoint_jp/n/n13417981793d",
+    "https://note.com/kaiketunote/n/na3f58f4e5d4b",
+    "https://note.com/msnbbc/n/n72f168876ea9"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Jiga",
+   "results": [
+    "https://x.com:2096/Jiga3d",
+    "https://x.com/jiga_64",
+    "https://x.com/pemtsikata",
+    "https://x.com/jiga_64/status/2116562566843355332",
+    "https://x.com/Jiga_Groundwork",
+    "https://x.com/JIGA_gh",
+    "https://x.com/jiga_64/status/2113749382185337327"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Jiga",
+   "results": [
+    "https://www.linkedin.com/company/jiga3d",
+    "https://www.linkedin.com/in/alexandra-jiga-b00b2427",
+    "https://il.linkedin.com/company/jiga3d",
+    "https://il.linkedin.com/in/adarhay",
+    "https://in.linkedin.com/in/jiga-lights-1620a4218",
+    "https://ro.linkedin.com/in/razvan-jiga-63b79172",
+    "https://ro.linkedin.com/in/gabriel-jiga-54973226"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Jiga",
+   "results": [
+    "https://www.facebook.com/jigamags/",
+    "https://www.facebook.com/jiga3d/",
+    "https://www.facebook.com/jigahaiti/",
+    "https://www.facebook.com/profile.php/?id=100068851230730",
+    "https://www.facebook.com/jiga.led/",
+    "https://www.facebook.com/jigamags/posts/welcome-to-jiga-bacolodour-newest-and-one-of-the-largest-branches-located-at-lot/3075694886091658/",
+    "https://www.facebook.com/RefaccionesJIGA1Hornos/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Jiga note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Jiga X 投稿",
+   "results": [
+    "https://x.com/packeeen_jiga",
+    "https://x.com/jiga_motte/with_replies",
+    "https://bodyfluids-jav.com/tag/jiga",
+    "https://x.com/kitcat_jiga/status/2099855253537698093",
+    "https://x.com/i/trending/2095520030595354803",
+    "https://x.com/kyomu_chan_jiga/status/2111033658614411728",
+    "https://x.com/kyomu_chan_jiga/status/2023756656988053639",
+    "https://x.com/giga_osaka/status/2083430184175403191",
+    "https://x.com/giga_osaka"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像2件／外部32頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像2件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像2件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像2件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像2件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像2件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像2件／外部32頁・検索12回）"
+ }
+}

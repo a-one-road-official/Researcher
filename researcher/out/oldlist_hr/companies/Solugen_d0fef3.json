@@ -1,0 +1,1283 @@
+{
+ "name": "Solugen",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Chemicals / Materials｜NG",
+ "researched_at": "2026-11-11T06:38:01.546822+00:00",
+ "official_url": "https://solugen.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$820.9M",
+    "url": "https://getlatka.com/companies/solugen.com",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Domestically produced organic acids for the full oilfield cycle, from completions and production to produced water, plus degumming for renewable fuels.",
+    "url": "https://solugen.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Domestically produced chromium-free organic acids that protect and restore the aluminum and steel keeping defense assets mission-ready.",
+    "url": "https://solugen.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Onsite aldehyde production for H2S and mercaptan control, eliminating hazardous chemical transport.",
+    "url": "https://solugen.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Modular aldehyde production that gives energetics innovators a domestic precursor supply no one can cut off.",
+    "url": "https://solugen.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Most chemical companies license a process, buy off-the-shelf catalysts and hire someone else to build the plant. Every Solugen Forge runs on one platform we own end to end: engineered enzymes, metal catalysts designed in house, and modular hardware we design and build ourselves. That is why we move faster, and for less.",
+    "url": "https://solugen.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Forges on one process platform",
+    "url": "https://solugen.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We're hiring across process engineering, operations, and defense programs in Houston and at Forge sites nationwide. Scientists and builders who want their work in the field, not the drawer.",
+    "url": "https://solugen.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PhD in chemical engineering from MIT. Leads Solugen's metal catalysts and chemienzymatic process technology behind every Bioforge. Forbes 30 Under 30.",
+    "url": "https://solugen.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Led capital projects and commissioning of Bioforge Houston; formerly at ExxonMobil and Motiva.",
+    "url": "https://solugen.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "President of Energy & Water",
+    "url": "https://solugen.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Nearly 45 years in refining and chemicals; leads process design across all of Solugen's Forges.",
+    "url": "https://solugen.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Professor in Residence",
+    "url": "https://solugen.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "MIT professor of chemical engineering; advises Solugen’s heterogeneous metal catalysis team.",
+    "url": "https://solugen.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Most chemical companies license their process, buy off-the-shelf catalysts and hire someone else to build the plant. Solugen does all of it in house: we engineer and produce our own enzymes, design our own metal catalysts, and design and build our own Forges. That is how a new molecule goes from the bench to production in months, not years.",
+    "url": "https://solugen.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Proprietary catalysts designed, characterized and tuned in house.",
+    "url": "https://solugen.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "New pathways developed and proven feasible before they are scaled.",
+    "url": "https://solugen.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Kinetics and limitations proven at scale before a Forge is built.",
+    "url": "https://solugen.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "New products and formulations built with customers, around their problem.",
+    "url": "https://solugen.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "This partnership highlights ARM’s role as an early mover in adopting new solutions while underscoring Solugen’s broader commitment to work across the defense ecosystem—helping primes, integrators, and the government alike secure affordable, CONUS-based supply chains for energetics.",
+    "url": "https://solugen.com/blog/2025/10/13/solugen-and-american-rheinmetall-munitions-partner-to-make-american-energetics-more-affordable/",
+    "pass": 1
+   },
+   {
+    "quote": "Solugen is a Texas-based chemical manufacturer pioneering scalable, domestic production of critical materials for defense and industrial applications. By making energetics inputs more cost-effective and more available, Solugen strengthens CONUS supply chains and supports faster adoption of advanced energetics across the defense sector.",
+    "url": "https://solugen.com/blog/2025/10/13/solugen-and-american-rheinmetall-munitions-partner-to-make-american-energetics-more-affordable/",
+    "pass": 1
+   },
+   {
+    "quote": "American Rheinmetall Munitions is a leading U.S. provider of innovative munitions technologies, offering advancements in lethality with next-generation weapon systems. Headquartered in Vienna, Virginia, with production facilities in Camden, Arkansas, and Windham, Maine, ARM integrates advanced energetics into munitions to provide sustained overmatch for the U.S. Warfighter.",
+    "url": "https://solugen.com/blog/2025/10/13/solugen-and-american-rheinmetall-munitions-partner-to-make-american-energetics-more-affordable/",
+    "pass": 1
+   },
+   {
+    "quote": "Our proposed facility, which may be located at our Houston site or a new location in Marshall, Minnesota, is designed to help reduce dependence on foreign supply chains while enhancing the nation’s biomanufacturing infrastructure.",
+    "url": "https://solugen.com/blog/2024/11/14/solugen-awarded-dod-contract-to-advance-bioindustrial-manufacturing-capabilities/",
+    "pass": 1
+   },
+   {
+    "quote": "The planned facility will integrate advanced modular production technologies, enabling flexibility to produce chemical precursors vital for applications in defense and beyond. By leveraging our proprietary bio-based manufacturing platform, Solugen will contribute to reducing the environmental impact of chemical production while supporting the DoD’s need for secure, domestic supply chains.",
+    "url": "https://solugen.com/blog/2024/11/14/solugen-awarded-dod-contract-to-advance-bioindustrial-manufacturing-capabilities/",
+    "pass": 1
+   },
+   {
+    "quote": "To learn more about the Distributed Bioindustrial Manufacturing Program and the other companies involved, check out the full",
+    "url": "https://solugen.com/blog/2024/11/14/solugen-awarded-dod-contract-to-advance-bioindustrial-manufacturing-capabilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Solugen locks in $214 million Energy Department loan to build a 'bioforge' for sustainable chemicals production",
+    "url": "https://innovatopia.jp/sustainable/sustainable-news/31230/",
+    "pass": 3
+   },
+   {
+    "quote": "Professional Talent Solutions",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Business Process Optimization",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Refer a Candidate Program",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Refer a Candidate — USA",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Refer a Candidate — India",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Refer a Candidate — Dominican Republic",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Credit Cards & Payment Processing",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Candidate Referral Program",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover your next career or refer a qualified candidate",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "This produces a strong sense of achievement and team bonding.",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Internally, we give proper diligence to every task and interaction. It’s what we expect of ourselves. The result is an opportunity to work with the most current technologies in a friendly and professional environment.",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "To make that vision a reality, Solugenix does its part to be an agent of change and push initiatives that will create a cultural shift. That is why we have committed ourselves to numerous non-profit programs to drive the vision forward.",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our non-profit monetary and volunteer support includes initiatives with Women in Technology International, Junior Achievement, FIRST Robotics Competition teams, Doctors without Borders, Human Options, Branded by Compassion, the Arizona Science Bowl and many more. We hope to be a small cog in the gears of global change.",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "At Solugenix, we believe in hiring the best person for the job. The result is an authentically diverse and inclusive workplace where everyone's voice matters.",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "While proud of our diverse heritage, it's our diversity of ideas that we value the most.",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Note that specific benefits vary by role & region. Be sure to ask your hiring manager for details.",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We're proud to offer competitive healthcare options to ensure you and your family are taken care of.",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Planning for life after work is something we take seriously. Talk to your hiring manager for details.",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Both intense and informal, our culture encourages you to express your individuality, pursue growth opportunities, and to speak your mind (kindly, of course!)",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our support professionals are an extension of your brand and understand the importance of providing the highest quality customer experience in every interaction.",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Proactive Help Desk Support",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "By having a holistic view of your retail technology, our support professionals can reduce escalations while leveraging data to prevent future issues.",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Technology support may not be your primary business — it has been ours for over 20 years. We offer support center experience that results in faster issue resolution, so you can operate efficiently.",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "High-Quality US-Based Professionals",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "With a combination of in office and remote support professionals from the US, we provide comprehensive managed services to deliver premium retail support.",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We’re more than just a producer of bulk aqua-ammonia, we’re a clean tech company redefining how waste becomes value.",
+    "url": "https://www.solugenglobal.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Driven by innovation, we’ve developed a proprietary green technology that transforms agricultural emissions into clear, liquid organic nitrogen fertilizer that optimizes yields, enhances soil health, and elevates crop quality to premium standards.",
+    "url": "https://www.solugenglobal.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Solugen Global is a multigenerational, family-owned company, that’s spent two decades perfecting a clean, circular approach to agriculture and water.",
+    "url": "https://www.solugenglobal.com/about",
+    "pass": 3
+   },
+   {
+    "quote": ", one of the highest-performing liquid nitrogen fertilizers approved for organic farming.",
+    "url": "https://www.solugenglobal.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Located in a prime livestock area, our production site spans 200,000 sq. ft. The facility is state-of-the-art and equipped with patented technology.",
+    "url": "https://www.solugenglobal.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "This technology has been perfected through many years of research and development. It enables us to transform livestock by-products into millions of gallons of liquid organic nitrogen fertilizer.",
+    "url": "https://www.solugenglobal.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Our fertilizer is proven to enhance soil health and boost agricultural productivity. It also helps reduce the environmental footprint of nitrogen in farming.",
+    "url": "https://www.solugenglobal.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "We are committed to organic practices and principles. Every step of our process supports sustainability and responsible agriculture.",
+    "url": "https://www.solugenglobal.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "We cut greenhouse gas (GHG) emissions at every step of our process. We reduce emissions by improving manure management on the livestock farms we source from, are powered by hydroelectricity for low production emissions, and offer pathways for growers to reduce in-field emissions through more efficient Nitrogen uptake.",
+    "url": "https://www.solugenglobal.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "We develop fertilizer products that support sustainable farming and environmental responsibility, producing inputs that improve soil health, enhance agricultural output, and contribute to global food security - and helping organic growers bridge the yield gap to conventional.",
+    "url": "https://www.solugenglobal.com/about",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Most chemical companies license a process, buy off-the-shelf catalysts and hire someone else to build the plant. Every Solugen Forge runs on one platform we own end to end: engineered enzymes, metal catalysts designed in house, and modular hardware we design and build ourselves. That is why we move faster, and for less.",
+    "url": "https://solugen.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We design enzymes with computational and AI-guided tools, screen thousands of variants at high throughput, and scale the winners in our own Bioflex fermentation plant. They run cell-free at room temperature on very little energy, turning plant sugars into target molecules with high selectivity. It is the biological half of every Forge’s chemistry.",
+    "url": "https://solugen.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Modular manufacturing",
+    "url": "https://solugen.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Solugen Awarded DoD Contract to Advance Bioindustrial Manufacturing Capabilities",
+    "url": "https://solugen.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Careers. Rebuild the industrial base.",
+    "url": "https://solugen.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Most chemical companies license their process, buy off-the-shelf catalysts and hire someone else to build the plant. Solugen does all of it in house: we engineer and produce our own enzymes, design our own metal catalysts, and design and build our own Forges. That is how a new molecule goes from the bench to production in months, not years.",
+    "url": "https://solugen.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Our enzymes are made in our own Bioflex® fermentation plant, so supply never waits on a vendor.",
+    "url": "https://solugen.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Plant design and construction",
+    "url": "https://solugen.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Models that accelerate enzyme evolution, catalyst design and plant operations.",
+    "url": "https://solugen.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "“Our collaboration with Solugen enhances the scalability and speed at which we can deliver advanced energetics, while driving down cost. It’s a strategic step that strengthens the U.S. defense industrial base and ensures critical technologies reach the Warfighter faster.” — Gary Goodwin, CEO, American Rheinmetall Munitions",
+    "url": "https://solugen.com/blog/2025/10/13/solugen-and-american-rheinmetall-munitions-partner-to-make-american-energetics-more-affordable/",
+    "pass": 1
+   },
+   {
+    "quote": "Solugen is a Texas-based chemical manufacturer pioneering scalable, domestic production of critical materials for defense and industrial applications. By making energetics inputs more cost-effective and more available, Solugen strengthens CONUS supply chains and supports faster adoption of advanced energetics across the defense sector.",
+    "url": "https://solugen.com/blog/2025/10/13/solugen-and-american-rheinmetall-munitions-partner-to-make-american-energetics-more-affordable/",
+    "pass": 1
+   },
+   {
+    "quote": "Our proposed facility, which may be located at our Houston site or a new location in Marshall, Minnesota, is designed to help reduce dependence on foreign supply chains while enhancing the nation’s biomanufacturing infrastructure.",
+    "url": "https://solugen.com/blog/2024/11/14/solugen-awarded-dod-contract-to-advance-bioindustrial-manufacturing-capabilities/",
+    "pass": 1
+   },
+   {
+    "quote": "The planned facility will integrate advanced modular production technologies, enabling flexibility to produce chemical precursors vital for applications in defense and beyond. By leveraging our proprietary bio-based manufacturing platform, Solugen will contribute to reducing the environmental impact of chemical production while supporting the DoD’s need for secure, domestic supply chains.",
+    "url": "https://solugen.com/blog/2024/11/14/solugen-awarded-dod-contract-to-advance-bioindustrial-manufacturing-capabilities/",
+    "pass": 1
+   },
+   {
+    "quote": "We look forward to collaborating with the DoD and other partners as we transition our plans into reality and contribute to the future of sustainable, secure bioindustrial manufacturing.",
+    "url": "https://solugen.com/blog/2024/11/14/solugen-awarded-dod-contract-to-advance-bioindustrial-manufacturing-capabilities/",
+    "pass": 1
+   },
+   {
+    "quote": "To learn more about the Distributed Bioindustrial Manufacturing Program and the other companies involved, check out the full",
+    "url": "https://solugen.com/blog/2024/11/14/solugen-awarded-dod-contract-to-advance-bioindustrial-manufacturing-capabilities/",
+    "pass": 1
+   },
+   {
+    "quote": "To learn more about how Solugen is working to bolster the domestic industrial base and strengthen U.S. defense supply chains, check out our",
+    "url": "https://solugen.com/blog/2024/11/14/solugen-awarded-dod-contract-to-advance-bioindustrial-manufacturing-capabilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical Device Manufacturing",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Nitrogen Manufacturing",
+    "url": "https://www.solugenglobal.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Device Manufacturing",
+    "url": "https://www.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Med Device Manufacturing",
+    "url": "https://www.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Expertise helping medical device manufacturers ensure precision, improve performance & exceed compliance standards.",
+    "url": "https://www.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Program Manager, Retail Tech Manufacturer",
+    "url": "https://www.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our clear, liquid ammoniacal liquid nitrogen fertilizer is proven to boost yields and is 100% plant available, immediately.",
+    "url": "https://www.solugenglobal.com/",
+    "pass": 3
+   },
+   {
+    "quote": "A rapidly growing American chemical manufacturing company that has pioneered a carbon-negative process for converting corn syrup into a variety of chemical products.",
+    "url": "https://www.casestudies.com/customer/solugen",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Solugen",
+    "url": "https://www.casestudies.com/customer/solugen",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Solugen achieves 10x sample throughput with Ganymede Bio | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/ganymede-bio/case-study/solugen-boosts-sample-throughput-10x-with-ganymede-bio",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Solugen achieves 10x sample throughput with Ganymede Bio",
+    "url": "https://www.casestudies.com/company/ganymede-bio/case-study/solugen-boosts-sample-throughput-10x-with-ganymede-bio",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/ganymede-bio/case-study/solugen-boosts-sample-throughput-10x-with-ganymede-bio",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/ganymede-bio/case-study/solugen-boosts-sample-throughput-10x-with-ganymede-bio",
+    "pass": 3
+   },
+   {
+    "quote": "INDUSTRY | MANUFACTURING (SPECIAL TY CHEMICALS)",
+    "url": "https://cdn.prod.website-files.com/689a1f96c00af9554d630d6f/695fd05264a3f6782a46a0db_Client+Story+_+Solugen+(Phase+1).pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Solugen is a specialty chemical manufacturer that creates safe, cost-",
+    "url": "https://cdn.prod.website-files.com/689a1f96c00af9554d630d6f/695fd05264a3f6782a46a0db_Client+Story+_+Solugen+(Phase+1).pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Solugen, a specialty chemical manufacturer known for safe, cost-effective and environmentally friendly chemical formulations, sought to stabilize its sales process and establish workflows for new product introduction, account set-up and customer service within Salesforce.",
+    "url": "https://www.telusdigital.com/insights/customer-experience/resource/stabilizing-sales-operations-for-chemical-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "Why do manufacturers need pricing guardrails within Salesforce?",
+    "url": "https://www.telusdigital.com/insights/customer-experience/resource/stabilizing-sales-operations-for-chemical-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "What is sample management automation, and why does it matter in chemical manufacturing?",
+    "url": "https://www.telusdigital.com/insights/customer-experience/resource/stabilizing-sales-operations-for-chemical-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of specialty chemicals designed to replace petroleum-based products with plant-derived substitutes.",
+    "url": "https://pitchbook.com/profiles/company/168668-92",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of specialty chemicals designed to replace petroleum-based products with plant-derived substitutes. The com",
+    "url": "https://pitchbook.com/profiles/company/168668-92",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://pitchbook.com/profiles/company/168668-92",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "上場前の企業では、出資額と渡す株式の割合から計算される",
+    "url": "https://frontjour.com/column/global/solugen",
+    "pass": 3
+   },
+   {
+    "quote": "Solugenix strives to make the workplace an engaging place to be with team building activities, benefits, career advancement opportunities, and a work-life balance. The company is committed to instilling a culture that fosters diversity and respectful, open dialogue that reinforces an environment of growth — for employees and for the business.",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Become Part of Building a Brighter Future",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "For long-term employees, we offer sabbaticals to give you the time needed to reach your life goals.",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "preventable revenue leakage",
+    "url": "https://cdn.prod.website-files.com/689a1f96c00af9554d630d6f/695fd05264a3f6782a46a0db_Client+Story+_+Solugen+(Phase+1).pdf",
+    "pass": 3
+   },
+   {
+    "quote": "opportunities & revenue growth",
+    "url": "https://cdn.prod.website-files.com/689a1f96c00af9554d630d6f/695fd05264a3f6782a46a0db_Client+Story+_+Solugen+(Phase+1).pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Solugen now runs a standardized sales process with actionable pipeline reports, optimized business controls, reduced revenue leakage, and improved sales and operations planning.",
+    "url": "https://www.telusdigital.com/insights/customer-experience/resource/stabilizing-sales-operations-for-chemical-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "Optimized business controls reduce preventable revenue leakage",
+    "url": "https://www.telusdigital.com/insights/customer-experience/resource/stabilizing-sales-operations-for-chemical-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "Increased leadership visibility into how sales development reps contribute to opportunities and revenue growth",
+    "url": "https://www.telusdigital.com/insights/customer-experience/resource/stabilizing-sales-operations-for-chemical-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing guardrails flag quotes that fall outside acceptable margins before they reach a customer. For commodity and spot-buy selling, this helps prevent revenue leakage and reduces the need for manual corrections from other teams.",
+    "url": "https://www.telusdigital.com/insights/customer-experience/resource/stabilizing-sales-operations-for-chemical-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/168668-92",
+    "pass": 3
+   },
+   {
+    "quote": ", a Corporate Backed or Acquired company based in Frankfurt, Germany.",
+    "url": "https://pitchbook.com/profiles/company/168668-92",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/168668-92",
+    "pass": 3
+   },
+   {
+    "quote": "Solugen has 115 total employees.",
+    "url": "https://pitchbook.com/profiles/company/168668-92",
+    "pass": 3
+   },
+   {
+    "quote": "What is Solugen’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/168668-92",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Solugen is",
+    "url": "https://pitchbook.com/profiles/company/168668-92",
+    "pass": 3
+   },
+   {
+    "quote": "Solugen Revenue 2024: $44.7M Est., $2B Valuation",
+    "url": "https://getlatka.com/companies/solugen.com",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/solugen.com",
+    "pass": 3
+   },
+   {
+    "quote": "Solugen has not published its revenue. GetLatka estimates it at about $44.7M a year (June 2024).",
+    "url": "https://getlatka.com/companies/solugen.com",
+    "pass": 3
+   },
+   {
+    "quote": "Solugen CEO, founders & employees",
+    "url": "https://getlatka.com/companies/solugen.com",
+    "pass": 3
+   },
+   {
+    "quote": "Gaurab Chakrabarti founded Solugen in 2017 and runs it as CEO. Solugen has 136 employees (November 2025, LinkedIn), down from 159 a year earlier.",
+    "url": "https://getlatka.com/companies/solugen.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Solugen's revenue?",
+    "url": "https://getlatka.com/companies/solugen.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Solugen's revenue at about",
+    "url": "https://getlatka.com/companies/solugen.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Solugen have?",
+    "url": "https://getlatka.com/companies/solugen.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of November 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/solugen.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/solugen.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/solugen.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/solugen.com",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "化学品の脱炭素へ「バイオものづくり」を実用化｜Solugen｜Front Jour... — Sep 24, 2026 · トウモロコシ由来の糖を酵素と金属触媒で化学品に変える米国のSolugen。石油に依存する化学品製造の課題、Bioforgeの仕組み、ミネソタ州の新工場と米エネルギー省の融資保証、約300億円の資金調達までを解説します。",
+    "url": "https://frontjour.com/column/global/solugen",
+    "pass": 3
+   },
+   {
+    "quote": "Solugen｜酵素の力で化学プラントを常温・無爆発に変える - 良き暇つ... — Jan 7, 2026 · Deep Tech企業分析レポート：Solugen（ソリュージェン） 〜石油はいらない、砂糖をくれ。酵素の力で化学プラントを「常温・無爆発」に変える化学業界のTesla〜",
+    "url": "https://cozy-days.hatenablog.com/entry/Solugen",
+    "pass": 3
+   },
+   {
+    "quote": "Solugen — Solugen turns American feedstocks into critical materials our energy systems and warfighters depend on.",
+    "url": "https://solugen.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューストン発スタートアップ、Solugenが米国エネルギー省から巨額融... — Jun 13, 2024 · ヒューストンのスタートアップ、Solugenが米国エネルギー省から214百万ドルの融資を受け、ミネソタ州に持続可能な化学製品工場「バイオフォージ」を建設予定。トウモロコシ糖を使い、環境に優しい製品を生産、新たな雇用を創出し、化学産業の脱炭素化を推進します。【用語解説とAIによる ...",
+    "url": "https://innovatopia.jp/sustainable/sustainable-news/31230/",
+    "pass": 3
+   },
+   {
+    "quote": "Technology - Solugen — Our proprietary technology platform optimizes critical steps in the production process, reducing inefficiencies and delivering better performance and value for our customers.",
+    "url": "https://solugen.com/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Solugenix Careers — Ready for the next stage of your career? Learn more about careers at Solugenix, including traditional, hybrid and remote work positions.",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About | Solugen Global, Makers of Azogen — Solugen Global is a multigenerational, family-owned company, that’s spent two decades perfecting a clean, circular approach to agriculture and water. Starting with hog manure, Solugen extracts clean water, returned safely to the environment, and transforms the remaining nutrients into Azogen, one of the highest-performing liquid nitrogen fertilizers appro",
+    "url": "https://www.solugenglobal.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Human intelligence, AI-driven performance | Solugenix — Solugenix provides the systems and structures your company needs to handle the vast array of operational challenges coming your way.",
+    "url": "https://www.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Solugen Global | Liquid Nitrogen Organic Fertilizer for ... — Solugen Global, Manufacturers of Azogen, the OMRI-Listed, CDFA-Approved and NOP-Compliant Liquid Nitrogen Organic Fertilizer for Organic Ag. Azogen helps organic growers bridge the nitrogen gap to conventional Ag, sustainably - and profitably.",
+    "url": "https://www.solugenglobal.com/",
+    "pass": 3
+   },
+   {
+    "quote": "「脱石油」目指す化学スタートアップ、米Solugenが35億円を調達 | For... — May 24, 2019 · 米ヒューストン本拠の化学製造関連のスタートアップ「Solugen」は5月22日、3200万ドル（約35億円）のシリーズB資金調達の実施をアナウンスした。同社の共同創業者のGaurab ChakrabartiとSean Huntらは、フォーブ...",
+    "url": "https://forbesjapan.com/articles/detail/27436",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Solugen Uses Software & Services — B2B Case Studies Featuring Solugen as the Customer Explore case studies featuring Solugen as the customer — learn how vendors and partners helped Solugen solve real business challenges. A rapidly growing American chemical manufacturing company that has pioneered a carbon-negative process for converting corn syrup into a variety of chemical p",
+    "url": "https://www.casestudies.com/customer/solugen",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Solugen achieves 10x sample throughput with ... — Solugen (Manufacturing) partnered with Ganymede Bio to solve key challenges. \"Solugen boosts sample throughput 10x with Ganymede Bio\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/ganymede-bio/case-study/solugen-boosts-sample-throughput-10x-with-ganymede-bio",
+    "pass": 3
+   },
+   {
+    "quote": "Client Story | Solugen (Phase 1) — Challenge Solugen sought to stabilize its sales process + establish workflows for new product introduction, account setup, and customer service within SF.",
+    "url": "https://cdn.prod.website-files.com/689a1f96c00af9554d630d6f/695fd05264a3f6782a46a0db_Client+Story+_+Solugen+(Phase+1).pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Stabilizing Sales Operations For Solugen | TELUS Digital — A case management process gives sales a unified way to document and manage customer service issues. The engagement positioned Solugen for a future NetSuite integration, addressing a longstanding gap between deal closure and account setup.",
+    "url": "https://www.telusdigital.com/insights/customer-experience/resource/stabilizing-sales-operations-for-chemical-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "Solugen, Inc. - piercom.com — Dec 17, 2025 · CHALLENGE Solugen, Inc., an emerging specialty chemicals manufacturer and world’s first and only producer of bio-based peroxide solutions secured an additional $32 million in Series B funding in May 2019 from investors including Founders Fund to scale its products, grow its team and further penetrate its target industries including oil and gas, mining a",
+    "url": "https://www.piercom.com/wp-content/uploads/case-study-pdfs/solugen-inc-2025-12-17-18-02-20.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Solugen 2026 Company Profile: Valuation, Funding & Investors ...Solugen Revenue 2024: $44.7M Est., $2B ValuationSolugen – Industry Ranking & Company Valuation – 2026Solugen - 2026 Company Profile, Team, Funding & Competitors ...Annual Revenue, Growth & Competitor Analysis Report for ...Solugen — Company Profile & Funding | Indexed.vcSolugen - Overview, News & Similar companies | ZoomInfo.com — Inf",
+    "url": "https://pitchbook.com/profiles/company/168668-92",
+    "pass": 3
+   },
+   {
+    "quote": "Solugen Revenue 2024: $44.7M Est., $2B Valuation — Nov 28, 2025 · Solugen 2024 estimated revenue: $44.7M. Valuation: $2B. Total funding: $820.9M across 6 rounds. 136 employees. Founded 2017. Updated Nov 28, 2025.",
+    "url": "https://getlatka.com/companies/solugen.com",
+    "pass": 3
+   },
+   {
+    "quote": "Solugen – Industry Ranking & Company Valuation – 2026 — About This Data Revenue, valuation, and funding figures for Solugen are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods. Employee counts are derived from professional networks and company disclosures. Data Accuracy: While we st",
+    "url": "https://compworth.com/company/solugen",
+    "pass": 3
+   },
+   {
+    "quote": "Solugen - 2026 Company Profile, Team, Funding & Competitors ...Annual Revenue, Growth & Competitor Analysis Report for ...Solugen — Company Profile & Funding | Indexed.vcSolugen - Overview, News & Similar companies | ZoomInfo.com — Jul 18, 2026 · Solugen - About the company Solugen is a series D company based in Houston (United States), founded in 2016 by Sean Hunt and Gaurab Chakrabarti. It opera",
+    "url": "https://tracxn.com/d/companies/solugen/__SzdOA4a72qUVyvjw96cyxOyOdH6zz7lkfWNK2rB7zMc",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Revenue, Growth & Competitor Analysis Report for ...Solugen — Company Profile & Funding | Indexed.vcSolugen - Overview, News & Similar companies | ZoomInfo.com — Nov 2, 2026 · Solugen's Annual Report & Profile shows critical firmographic facts: What is the company's size? (Annual sales and employees) Solugen's annual revenues are $100 - $500 million (see exact revenue data) What industry is",
+    "url": "https://incfact.com/company/solugen-houston-tx/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Candidate Referral Program",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our support professionals are an extension of your brand and understand the importance of providing the highest quality customer experience in every interaction.",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn more about our candidate referral program!",
+    "url": "https://careers.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Candidate Referral Program",
+    "url": "https://www.solugenix.com/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us now to get started.",
+    "url": "https://www.solugenix.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/168668-92",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【0915】脱化石燃料スタートアップSolugen｜坂本宗隆 Jan 12, 2022 · 「脱石油」目指す化学スタートアップ、米Solugenが35億円を調達 米ヒューストン本拠の化学製造関連のスタートアップ「Solugen」は5月22日、3200万ドル（約35億円）のシリーズB資 forbesjapan.com",
+    "url": "https://note.com/sdgschallenge/n/necde1b88105f",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "https://forbesjapan.com/articles/detail/27436",
+    "url": "https://note.com/sdgschallenge/n/necde1b88105f",
+    "pass": 3
+   },
+   {
+    "quote": "もし大量生産の課題もクリアしつつあるとしたら、日本でもお世話になる日が近いのかも？",
+    "url": "https://note.com/sdgschallenge/n/necde1b88105f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【0915】脱化石燃料スタートアップSolugen｜坂本宗隆",
+    "url": "https://note.com/sdgschallenge/n/necde1b88105f",
+    "pass": 3
+   },
+   {
+    "quote": "【0915】脱化石燃料スタートアップSolugen",
+    "url": "https://note.com/sdgschallenge/n/necde1b88105f",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカのスタートアップで、砂糖から作られた素材で化石燃料の代替物をつくるスタートアップがあるそうです。",
+    "url": "https://note.com/sdgschallenge/n/necde1b88105f",
+    "pass": 3
+   },
+   {
+    "quote": "化石燃料を原料としないバイオベース製品を作るために、原料にトウモロコシのコーンシロップを採用。生物学とテクノロジーを融合させ、毒素や排出物を出すことなく、洗剤やプラスチックなどの原料となる化学物質を生み出すことに成功した。",
+    "url": "https://note.com/sdgschallenge/n/necde1b88105f",
+    "pass": 3
+   },
+   {
+    "quote": "https://ideasforgood.jp/2022/01/12/solugen/",
+    "url": "https://note.com/sdgschallenge/n/necde1b88105f",
+    "pass": 3
+   },
+   {
+    "quote": "とのことで、原料のトウモロコシ自体のサステナブルな生産は課題として残るかもしれないものの、化石燃料由来ではない暮らしに欠かせないものの生産ができるようになったのは良いことですね。",
+    "url": "https://note.com/sdgschallenge/n/necde1b88105f",
+    "pass": 3
+   },
+   {
+    "quote": "調べてみると、2019年の記事ですが、こんな記事も。",
+    "url": "https://note.com/sdgschallenge/n/necde1b88105f",
+    "pass": 3
+   },
+   {
+    "quote": "同社は石油の代わりに、廃棄食品に含まれる植物中の糖質やCrisprゲノム編集を加えたバクテリアから取り出したエンザイム（酵素）を利用し、従来とは全く異なる方法で過酸化水素を製造している。",
+    "url": "https://note.com/sdgschallenge/n/necde1b88105f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Solugen - LinkedIn Solugen | 26,722 followers on LinkedIn. Decarbonizing the physical world. | At Solugen, we believe planet-scale change starts with the chemistry we use every day. We’re revolutionizing how ...",
+    "url": "https://www.linkedin.com/company/solugen",
+    "pass": 3
+   },
+   {
+    "quote": "Solugen Global - LinkedIn Solugen develops biological fertilizers designed to match the performance of conventional agriculture We take underutilized agricultural by-products and turn them into effective inputs that fit ...",
+    "url": "https://www.linkedin.com/company/solugenglobal-organic-nitrogen/",
+    "pass": 3
+   },
+   {
+    "quote": "Solugenix | LinkedIn Solugenix | 199,373 followers on LinkedIn. Edge Technology. Real Results. | Technology only matters when it helps the business run better. That belief has shaped Solugenix for more than five decades. We help organizations keep critical operations running, improve how work gets done, and solve complex technology challenges with practical solutions.",
+    "url": "https://in.linkedin.com/company/solugenix",
+    "pass": 3
+   },
+   {
+    "quote": "Solugen GmbH | LinkedIn Solugen GmbH | 29 Follower:innen auf LinkedIn. Solugen GmbH - Versorgung & Service vom Arzt für die Arztpraxis | Unsere Kernkompetenz: Persönlicher Service und Beratung durch unseren Innen- und Außendienst Schnelle Lieferung durch Direktlieferung mit unserem Fahrdienst aus unserem Lager in Neustadt an der Weinstraße Bestandsmanagement und Belieferung mit Regalservice Bestel",
+    "url": "https://de.linkedin.com/company/solugen-gmbh",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Solugen Global - Facebook Mar 12, 2026 · Solugen Global is in Saint-Patrice-de- Beaurivage. Ici, nous sommes engagés à avoir un impact positif. Notre équipe dévouée produit chaque année des millions de gallons d'engrais organique de haute qualité, fièrement basée au Québec. 💧 *** At Solugen, we are committed to making a positive impact together.",
+    "url": "https://www.facebook.com/p/Solugen-Global-61559774619053/",
+    "pass": 3
+   },
+   {
+    "quote": "Solugen | Asunción - FacebookSolugen Soluciones Energeticas - FacebookSolugen GmbH | Neustadt an der Weinstraße - FacebookFacebookSolugen Solugen - FacebookSolugen | Torreón - Facebook Mar 31, 2026 · Solugen, Asunción. 459 followers · 23 were here. Somos un centro de diagnóstico genético que ofrece exámenes clínicos especializados de punta, as May 17, 2021 · Solugen Soluciones Energeticas. 216 lik",
+    "url": "https://www.facebook.com/solugenpy/",
+    "pass": 3
+   },
+   {
+    "quote": "Solugen Soluciones Energeticas - FacebookSolugen GmbH | Neustadt an der Weinstraße - FacebookFacebookSolugen Solugen - FacebookSolugen | Torreón - Facebook May 17, 2021 · Solugen Soluciones Energeticas. 216 likes · 1 talking about this. Somos una empresa dedicada a la venta de grupos electrógenos, herramientas industriales etc. Tambi Sep 10, 2026 · Solugen GmbH, Neustadt an der Weinstraße. 14 foll",
+    "url": "https://www.facebook.com/SolugenSoluciones/",
+    "pass": 3
+   },
+   {
+    "quote": "Solugen GmbH | Neustadt an der Weinstraße - Facebook Sep 10, 2026 · Solugen GmbH, Neustadt an der Weinstraße. 14 followers · 2 talking about this. Alles für die Arztpraxis aus einer Hand.",
+    "url": "https://www.facebook.com/p/Solugen-GmbH-61590576376968/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Solugen (@solugen) / X Solugen has unlocked a critical step to execute on our vision of creating a domestic manufacturing network that on-shores critical chemical manufacturing, spurs economic development, and combats climate change.",
+    "url": "https://x.com/solugen",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://solugen.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://solugen.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://solugen.com/blog/2025/10/13/solugen-and-american-rheinmetall-munitions-partner-to-make-american-energetics-more-affordable/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://solugen.com/blog/2024/11/14/solugen-awarded-dod-contract-to-advance-bioindustrial-manufacturing-capabilities/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://solugen.com/blog/solugen-awarded-dod-contract-to-advance-bioindustrial-manufacturing-capabilities.jpg/",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://frontjour.com/column/global/solugen",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cozy-days.hatenablog.com/entry/Solugen",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innovatopia.jp/sustainable/sustainable-news/31230/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://careers.solugenix.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.slb.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://solbergjapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://solm.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solugenglobal.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solugenix.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solugenglobal.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/solugen",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/ganymede-bio/case-study/solugen-boosts-sample-throughput-10x-with-ganymede-bio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/689a1f96c00af9554d630d6f/695fd05264a3f6782a46a0db_Client+Story+_+Solugen+(Phase+1).pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.telusdigital.com/insights/customer-experience/resource/stabilizing-sales-operations-for-chemical-manufacturer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/168668-92",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/solugen.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/solugen",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/solugen/__SzdOA4a72qUVyvjw96cyxOyOdH6zz7lkfWNK2rB7zMc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/sdgschallenge/n/necde1b88105f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/solugen",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/solugenglobal-organic-nitrogen/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/solugenix",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/company/solugen-gmbh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Solugen-Global-61559774619053/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/solugenpy/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SolugenSoluciones/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Solugen-GmbH-61590576376968/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/solugen",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Solugen 日本 導入",
+   "results": [
+    "https://frontjour.com/column/global/solugen",
+    "https://cozy-days.hatenablog.com/entry/Solugen",
+    "https://solugen.com/",
+    "https://innovatopia.jp/sustainable/sustainable-news/31230/",
+    "https://solugen.com/technology/",
+    "https://ideasforgood.jp/2022/01/12/solugen/",
+    "https://www.technologyreview.jp/s/347355/2024-climate-tech-companies-to-watch-solugen-and-its-bio-based-chemicals/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Solugen 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://careers.solugenix.com/",
+    "https://jp.slb.com/",
+    "https://solbergjapan.com/",
+    "https://solm.com/",
+    "https://industrial.filtrationgroup.com/ja/联系我们/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Solugen Japan",
+   "results": [
+    "https://solugen.com/",
+    "https://www.solugenglobal.com/about",
+    "https://www.solugenix.com/",
+    "https://www.solugenglobal.com/",
+    "https://forbesjapan.com/articles/detail/27436",
+    "https://molecule.engineersf.dev/",
+    "https://solugen.com/technology/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Solugen manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/solugen",
+    "https://www.casestudies.com/company/ganymede-bio/case-study/solugen-boosts-sample-throughput-10x-with-ganymede-bio",
+    "https://cdn.prod.website-files.com/689a1f96c00af9554d630d6f/695fd05264a3f6782a46a0db_Client+Story+_+Solugen+(Phase+1).pdf",
+    "https://www.telusdigital.com/insights/customer-experience/resource/stabilizing-sales-operations-for-chemical-manufacturer",
+    "https://www.piercom.com/wp-content/uploads/case-study-pdfs/solugen-inc-2025-12-17-18-02-20.pdf",
+    "https://www.piercom.com/case-study/solugen-inc/",
+    "https://riflecre.com/wp-content/uploads/2026/02/Solugen-Case-Study-112224-2.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Solugen white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://upcloud.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://solugen.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Solugen founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/168668-92",
+    "https://getlatka.com/companies/solugen.com",
+    "https://compworth.com/company/solugen",
+    "https://tracxn.com/d/companies/solugen/__SzdOA4a72qUVyvjw96cyxOyOdH6zz7lkfWNK2rB7zMc",
+    "https://incfact.com/company/solugen-houston-tx/",
+    "https://indexed.vc/companies/solugen",
+    "https://www.zoominfo.com/c/solugen-inc/401335882"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Solugen",
+   "results": [
+    "https://note.com/sdgschallenge/n/necde1b88105f",
+    "https://note.com/kentabright/n/nb116f899a6ac",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/yoshiki_shibata/n/n185f3d9e13bc",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/momiji_man_10/n/n62ea2d9a9a9a",
+    "https://note.com/ipusiro/n/nc92ad555b463"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Solugen",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Solugen",
+   "results": [
+    "https://www.linkedin.com/company/solugen",
+    "https://www.linkedin.com/company/solugenglobal-organic-nitrogen/",
+    "https://in.linkedin.com/company/solugenix",
+    "https://de.linkedin.com/company/solugen-gmbh",
+    "https://il.linkedin.com/company/solugen-ai",
+    "https://ca.linkedin.com/in/andré-beaulieu-blanchette-158046138",
+    "https://il.linkedin.com/in/adir-oren"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Solugen",
+   "results": [
+    "https://www.facebook.com/p/Solugen-Global-61559774619053/",
+    "https://www.facebook.com/solugenpy/",
+    "https://www.facebook.com/SolugenSoluciones/",
+    "https://www.facebook.com/p/Solugen-GmbH-61590576376968/",
+    "https://www.facebook.com/solugenglobal/",
+    "https://www.facebook.com/solugen.solugen/",
+    "https://www.facebook.com/profile.php/?id=100076305581946"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Solugen note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://solugen.com/people/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://solugen.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Solugen X 投稿",
+   "results": [
+    "https://x.com/solugen",
+    "https://solugen.com/",
+    "https://www.instagram.com/solugenbio/",
+    "https://solugen.com/people/",
+    "https://www.solugenix.com/",
+    "https://x.com/snowmaker/status/2116026281154499040",
+    "https://medical.nikkeibp.co.jp/inc/all/drugdic/prd/33/3319551A8045.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部32頁・検索12回）"
+ }
+}

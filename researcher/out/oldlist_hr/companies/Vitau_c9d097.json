@@ -1,0 +1,713 @@
+{
+ "name": "Vitau",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T06:24:53.240052+00:00",
+ "official_url": "https://vitau.mx",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "e-VITA study protocol: EU-Japan virtual coach for smart aging - PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "the contents by NLM or the National Institutes of Health.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "e-VITA study protocol: EU-Japan virtual coach for smart aging",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "Edited by: Constantinos S. Pattichis, University of Cyprus, Cyprus",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "The aim of this study is to report a trial protocol for assessing the improvement of older adults’ well-being, promoting active and healthy aging, and reducing the risks of social exclusion, using a virtual coach.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "A randomized controlled trial is proposed.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "older adults, virtual coach, protocol, intrinsic capacity, well-being, physical activity, frailty",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": ") which can lead to a loss of autonomy and frailty. The care of older adults with a loss of autonomy is therefore becoming a major social, medical, and economic issue due to the insufficient number of family or professional carers, enabling older adults to live at home as long as possible and delay entry to institutionalization (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "). It is on the latter that preventive actions can be carried out throughout life (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "). In addition to preventive action, the development of new care solutions is important (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "), to reduce or minimize the consequences of these age-related diseases, support the health system, and promote active and healthy aging.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": ") difficulties. These changes generate an increase in the workload required by both family and health professionals (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "). For these reasons, it is necessary to act with a view to prevention, starting with the concept of active aging. Active and healthy aging refers to the maintenance and development of functional abilities that enable older adults to live well (World Health Organization, n.d) in terms of physical, mental, and social health while actively participating in society.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "With the emergence of the concept of healthy and active aging and the identification of factors that contribute to the development of age-related diseases and loss of autonomy, health organizations have tried to improve their strategies to prevent these risk factors and diseases (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": ") as a personalized system that continuously monitors the activities and environment of its users. Virtual coaches detect situations where an intervention would be desirable and proposed to the user. To this end, coaches take the form of activity sensors combined with a coaching application located on the Internet, a smartphone, a sensor (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "Through a personalized approach, the virtual coaching system can enable people to live a healthy lifestyle, identifying personal needs and goals and providing appropriate risk predictions and individualized recommendations (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "). There are a multitude of virtual coaches and apps for the promotion of nutrition (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "There are virtual coaches for adults, children with autistic disorders, and older adults. These tools have attracted interest from healthcare organizations and consumers for promoting health, wellness, physical activity, and lifestyle improvement (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "). The use of these virtual coaches and apps has great potential to help older adults improve their quality of life by addressing age-related issues and the physical and social implications of aging (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "). Moreover, embracing these proactive measures with the assistance of a virtual coach empowers older adults to maintain independence and comfortable living in their homes for an extended period (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "). This reduces the need for constant monitoring by health professionals, limits the costs that would otherwise be incurred (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "). It is therefore necessary to design and evaluate new products that consider the needs and preferences of seniors and their relatives for a sustainable and optimal use of these devices (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "). The aim is to enable seniors to live independently in their own homes for as long as possible, preventing social isolation and encouraging active participation in social and group activities.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "The general objective is to improve the well-being of older adults, promote active and healthy aging, contribute to independent living, and reduce risks of social exclusion of 240 healthy older adults recruited from Europe (France, Germany, and Italy) and Japan by making use of a digital tool for personalized virtual coaching support.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Use of active implant or non-implant medical devices;",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "Presence of a pacemaker or implantable cardioverter-defibrillator;",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "Leo-Liu J, Wu-Ouyang B. A “soul” emerges when AI, AR, and anime converge: a case study on users of the new anime-stylized hologram social robot “Hupo”. New Media Soc. (2022):146144482211060. doi: 10.1177/14614448221106030",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "e-VITA study protocol: EU-Japan virtual coach for smart aging - PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "e-VITA study protocol: EU-Japan virtual coach for smart aging",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "Smart-Aging Research Center, Tohoku University, Sendai, Japan",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": ") the life expectancy of a European woman is 83.7 years and 78.3 years for a man in 2018. Japan is the country with the highest life expectancy. Women live on average 88.1 years and men live on average 81.9 years (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "The general objective is to improve the well-being of older adults, promote active and healthy aging, contribute to independent living, and reduce risks of social exclusion of 240 healthy older adults recruited from Europe (France, Germany, and Italy) and Japan by making use of a digital tool for personalized virtual coaching support.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "The coaching devices used in the study are Nao Robot, Gatebox, and Celeste, substituted by DarumaTO for the Japanese centers (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "The author(s) declare financial support was received for the research, authorship, and/or publication of this article. This research is based on data collected for the “EU-Japan Virtual Coach for Smart Ageing - e-Vita” project funded by the European Union H2020 Program under grant agreement no. 101016453 and the Japanese Ministry of Internal Affairs and Communication (MIC), Grant no. JPJ000595.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "Stara V, Soraci L, Takano E, Kondo I, Möller J, Maranesi E, et al. Intrinsic capacity and active and healthy aging domains supported by personalized digital coaching: survey study among geriatricians in Europe and Japan on eHealth opportunities for older adults. J Med Internet Res. (2023) 25:e41035. doi: 10.2196/41035, PMID:",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "Jindong L. Social robots as the Bride? Understanding the construction of gender in a Japanese social robot product. Hum Mach Commun. (2021) 2:105–20. doi: 10.30658/hmc.2.5",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Reviewed by: Elena Carrillo-Alvarez, Blanquerna Ramon Llull University, Spain",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "). It is on the latter that preventive actions can be carried out throughout life (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "). From there, e-VITA users can create a profile using their email address and a secure password (see",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   },
+   {
+    "quote": "). Additional information is not needed for the sign-up process. The email and password will be used to log in and access the individual account (see",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Vitau 2026 Company Profile: Valuation, Funding & Investors — Vitau 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/279562-33",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "【公式】旭川実業高校サッカー部 on X: \"試合終了 VITAu -18 1 ... 【公式】旭川実業高校サッカー部 on X: \"試合終了 VITAu -18 1 ... X https://x.com > @kyokujitsufoot",
+    "url": "https://x.com/kyokujitsufoot/status/1789120419578130860",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Vitau - LinkedIn Vitau - LinkedIn LinkedIn México https://mx.linkedin.com > vitau",
+    "url": "https://mx.linkedin.com/company/vitau",
+    "pass": 3
+   },
+   {
+    "quote": "Alejandro Lozano Zárate - Vitau - LinkedIn Alejandro Lozano Zárate - Vitau - LinkedIn LinkedIn México https://mx.linkedin.com > alejandrolo...",
+    "url": "https://mx.linkedin.com/in/alejandrolozanoz",
+    "pass": 3
+   },
+   {
+    "quote": "Sanaila Vitau - --SNC - LinkedIn Sanaila Vitau - --SNC - LinkedIn LinkedIn New Zealand https://nz.linkedin.com > sanaila-vitau...",
+    "url": "https://nz.linkedin.com/in/sanaila-vitau-467285338",
+    "pass": 3
+   },
+   {
+    "quote": "Tuto Assad - Vitau | LinkedIn Tuto Assad - Vitau | LinkedIn LinkedIn México https://mx.linkedin.com > tutoassad",
+    "url": "https://mx.linkedin.com/in/tutoassad",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Vitau - Wellness and sauna accesories (@vitaulineeng) Vitau - Wellness and sauna accesories (@vitaulineeng) Facebook https://www.facebook.com > ... > Merk > Produ/Servij",
+    "url": "https://www.facebook.com/vitaulineeng/?locale=br_FR",
+    "pass": 3
+   },
+   {
+    "quote": "Suliasi Vitau - Facebook Suliasi Vitau - Facebook Facebook https://www.facebook.com > suliasi",
+    "url": "https://www.facebook.com/suliasi.vitau/",
+    "pass": 3
+   },
+   {
+    "quote": "Has anyone used Vitau .mx Mexican online pharmacy for ... Has anyone used Vitau .mx Mexican online pharmacy for ... Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/1538198959762287/posts/3104207026494798/",
+    "pass": 3
+   },
+   {
+    "quote": "Viholy Nadrivaju Vitau (@minah.nadarivatu) - Facebook Viholy Nadrivaju Vitau (@minah.nadarivatu) - Facebook Facebook https://www.facebook.com > minah.nadarivatu",
+    "url": "https://www.facebook.com/minah.nadarivatu/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://vitau.mx/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marutoki.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fc-kamei.net/ID30/KW11",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ebay.com/b/Sony-PlayStation-Vita-NTSC-J-Japan-Basketball-Video-Games/139973/bn_27270087",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/vita/comments/117hhh5/vita_japan_imports/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vitaparadisa.wordpress.com/the-list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJbt2L2nuOx1vGAE637EcnHTITsyW5RehkxJvwtrKRlX4u_bCCw",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aptean.com/en-US/resources/customer-stories/success-story/vita-health-products-manufacturing-erp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://assets.ctfassets.net/grb5fvwhwnyo/3AniQRr1VHa2ySKISSct0R/5ec5f7dc05c51433543acf9ce9783f95/Aptean-Industrial-Manufacturing-ERP-Case-Study-Vita-Health-Products-en.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://vitafoodproducts.com/private-label-licensed-brands/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://intandem.vcita.com/blog/partners/different-types-of-white-label-partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/279562-33",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://businessviewmagazine.com/brochures/nov-2023/Vita-Plus-Corporation/5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/vitanorthamerica",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pbs.org/newshour/show/investment-in-older-workers-turns-a-big-profit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kyokujitsufoot/status/1789120419578130860",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mx.linkedin.com/company/vitau",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mx.linkedin.com/in/alejandrolozanoz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nz.linkedin.com/in/sanaila-vitau-467285338",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mx.linkedin.com/in/tutoassad",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/vitaulineeng/?locale=br_FR",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/suliasi.vitau/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1538198959762287/posts/3104207026494798/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/minah.nadarivatu/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Vitau 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.stellantis.jp/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://vita-club.co.jp/vita-01/",
+    "https://www.youtube.com/watch?v=ep678gvMAnw",
+    "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "https://www.startyourengines.net/pressrelease/455259/",
+    "https://jp.linkedin.com/company/vitau",
+    "https://himanekoblog.hatenablog.com/entry/20260522/1779461605"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Vitau 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.marutoki.com/",
+    "https://fc-kamei.net/ID30/KW11",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.universal-life.co.jp/",
+    "https://www.seiho.or.jp/quality_result/list/",
+    "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "https://www.biz.ne.jp/list/corporate-agency/",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Vitau Japan",
+   "results": [
+    "https://www.ebay.com/b/Sony-PlayStation-Vita-NTSC-J-Japan-Basketball-Video-Games/139973/bn_27270087",
+    "https://www.reddit.com/r/vita/comments/117hhh5/vita_japan_imports/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968892/",
+    "https://vitaparadisa.wordpress.com/the-list/",
+    "https://www.vitacraft.co.jp/english/",
+    "https://segaretro.org/List_of_PlayStation_Vita_games_in_Japan",
+    "https://altarofgaming.com/games-list/sony/playstation-vita/japan/",
+    "https://kresnik258gaming.wordpress.com/2023/05/01/the-10-best-japan-only-vita-imports/",
+    "https://www.facebook.com/VITATokyo/?locale=ja_JP",
+    "https://vitau.ca/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Vitau manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJbt2L2nuOx1vGAE637EcnHTITsyW5RehkxJvwtrKRlX4u_bCCw",
+    "https://www.aptean.com/en-US/resources/customer-stories/success-story/vita-health-products-manufacturing-erp",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://assets.ctfassets.net/grb5fvwhwnyo/3AniQRr1VHa2ySKISSct0R/5ec5f7dc05c51433543acf9ce9783f95/Aptean-Industrial-Manufacturing-ERP-Case-Study-Vita-Health-Products-en.pdf",
+    "https://techcommunity.microsoft.com/discussions/advanced_insights/viva-insights-implementation-case-studies/3862976",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://pimcore.com/en/customers",
+    "https://www.automate.org/robotics/case-studies/toolcraft-case-study-the-first-production-line-for",
+    "https://www.sas.com/en_us/customers.html",
+    "https://www.casestudies.com/customer/vitau"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Vitau white label OR reseller OR partner program",
+   "results": [
+    "https://vitafoodproducts.com/private-label-licensed-brands/",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://intandem.vcita.com/blog/partners/different-types-of-white-label-partnerships",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://vida.io/blog/white-label-tools-guide",
+    "https://www.intermedia.com/resellers",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Vitau founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/279562-33",
+    "https://businessviewmagazine.com/brochures/nov-2023/Vita-Plus-Corporation/5/",
+    "https://www.owler.com/company/vitanorthamerica",
+    "https://www.pbs.org/newshour/show/investment-in-older-workers-turns-a-big-profit",
+    "https://growjo.com/company/Vita_Health_Group",
+    "https://investors.thevitacococompany.com/news-releases/news-release-details/vita-coco-company-reports-strong-first-quarter-2026-financial/",
+    "https://www.readyratios.com/profile/1096193004270_ooo-vita-layn-grupp",
+    "https://www.vitatech.co/article/vita-inclinata-technologies-closes-44m-round",
+    "https://www.irs.gov/individuals/irs-vita-grant-program",
+    "https://compworth.com/company/vitau"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Vitau",
+   "results": [
+    "https://note.com/tag/ジュディノート",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/araratsan/n/n1c8ff4156c80",
+    "https://note.com/masashi3122/n/n6f41b990b137",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Vitau",
+   "results": [
+    "https://x.com/kyokujitsufoot/status/1789120419578130860",
+    "https://x.com/kyokujitsufoot/status/1910985288572420358",
+    "https://x.com/kyokujitsufoot/status/1839934869583081576",
+    "https://x.com/BrawlStars/status/1886765739459100897",
+    "https://x.com/tchoupouli_509/status/1757025262158447023",
+    "https://x.com/watase_yuzuki/status/2115673968552337811",
+    "https://x.com/hashtag/INDBRA",
+    "https://x.com/i/trending/2103477910875344921?lang=es",
+    "https://x.com/azuki_yagi0322/status/2103623306792628446",
+    "https://x.com/farmaciavitau"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Vitau",
+   "results": [
+    "https://mx.linkedin.com/company/vitau",
+    "https://mx.linkedin.com/in/alejandrolozanoz",
+    "https://nz.linkedin.com/in/sanaila-vitau-467285338",
+    "https://mx.linkedin.com/in/tutoassad",
+    "https://br.linkedin.com/company/vitau-automation",
+    "https://fr.linkedin.com/in/barbara-vitau-54482a101",
+    "https://fj.linkedin.com/in/apolosi-vitau-9b0680263",
+    "https://www.linkedin.com/company/use-boom-ai",
+    "https://www.linkedin.com/posts/barbara-vitau-54482a101_pens%C3%A9es-pour-philippe-vitau-philippe-hamard-activity-7485254959245221888-SkkD",
+    "https://www.linkedin.com/company/vitau-automation"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Vitau",
+   "results": [
+    "https://www.facebook.com/vitaulineeng/?locale=br_FR",
+    "https://www.facebook.com/suliasi.vitau/",
+    "https://www.facebook.com/groups/1538198959762287/posts/3104207026494798/",
+    "https://www.facebook.com/minah.nadarivatu/",
+    "https://www.facebook.com/fijirugby/posts/5m-an-interception-from-14-sanaila-vitau-but-kicks-the-ball-straight-into-touch-/209593439080038/",
+    "https://www.facebook.com/groups/124037401594589/posts/1283764678955183/",
+    "https://www.facebook.com/annahvitau/about/",
+    "https://www.facebook.com/landersbayfiji/posts/different-departments-one-landers-family-meet-isimeli-robanakadavu-and-varinava-/1060680796968778/",
+    "https://www.facebook.com/tevita.naqali/posts/what-a-blessing-this-past-month-has-been-we-welcomed-another-member-of-the-famil/28772422995719704/",
+    "https://www.facebook.com/vitaulineeng/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Vitau note 社長",
+   "results": [
+    "https://note.com/vita_pr",
+    "https://note.com/vita_pr/n/n1514997dfc6b",
+    "https://vi-ta.co.jp/colum03/",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://x.com/sadaaki",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Vitau X 投稿",
+   "results": [
+    "https://x.com/TheManVita",
+    "https://www.reddit.com/r/vita/comments/1afp9l3/i_miss_the_vitas_twitter_app/",
+    "https://www.vita-journal.com/",
+    "https://www.youtube.com/watch?v=qehpL4nW7g8",
+    "https://vday.io/",
+    "https://x.com/Vita3ali",
+    "https://www.youtube.com/watch?v=PhmaLU_J99E",
+    "https://x.com/vitau809732",
+    "https://x.com/farmaciavitau",
+    "http://vitau.ai/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

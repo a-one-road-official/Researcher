@@ -1,0 +1,999 @@
+{
+ "name": "Manex AI",
+ "aliases": [],
+ "context": "旧営業リスト｜Factory data / production ops｜返信あり",
+ "researched_at": "2026-11-11T06:16:40.907274+00:00",
+ "official_url": "https://www.manex.ai/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "5. Seed Round",
+    "value": "10-Jun-2025 $9M   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "label": "4. Seed Round",
+    "value": "07-Oct-2024    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The First Production System for Autonomous Manufacturing.",
+    "url": "https://www.manex.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "They form one production system for the era of autonomous manufacturing:",
+    "url": "https://www.manex.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "The foundation of a new operating model for your enterprise. Kosmos models the domains your business runs on and continuously extracts the Tacit Knowledge of how the work actually gets done, so agents, workflows and applications act on it like a domain expert.",
+    "url": "https://www.manex.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Horizon makes every solution built at one site instantly available to every other, so that local innovation compounds into a single system that grows with every problem solved.",
+    "url": "https://www.manex.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "When you’re running production, you can’t afford software that doesn’t work. Our deployments go live fast and are accountable to production KPIs from the start in the most critical environments.",
+    "url": "https://www.manex.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "With its technology, Manex AI tackles one of the major challenges that every manufacturer faces: end-to-end quality and process optimization from development through production to the customer.",
+    "url": "https://www.manex.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time visibility and faster decisions keep production running closer to its full potential.",
+    "url": "https://www.manex.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Connecting siloed production data with an AI layer turns fragmented signals into actions in minutes, not weeks.",
+    "url": "https://www.manex.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Connected data and automated validation speed up product releases and ramp-up.",
+    "url": "https://www.manex.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprises that act on what they know.",
+    "url": "https://www.manex.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud. On-premise. Any environment.",
+    "url": "https://www.manex.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "By default, data is processed according to the requirements of our customers. For European customers we offer GDPR compliance.",
+    "url": "https://www.manex.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Access Control.",
+    "url": "https://www.manex.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "The team at Manex AI has recognized this opportunity and is building the essential control layer that will enable truly autonomous factories. Their AI-driven software platform for industrial quality management and process steering is already delivering measurable results for industry leaders, paving the way for the next generation of manufacturing excellence.",
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded just 18 months ago in Munich, Manex AI has rapidly established itself as a trusted partner to some of Europe’s most demanding manufacturers. BMW, Audi, TDK Electronics, BSH, Stellantis, and Henkel are already using Manex AI’s technology to transform their quality management processes.",
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "What sets Manex AI apart is its comprehensive approach to manufacturing data. Their flagship platform, Qualitatio, integrates into every aspect of the manufacturing process–from order intake through production to final delivery. This holistic view enables their AI to generate insights and optimizations that would be impossible with fragmented data approaches.",
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The results speak for themselves. As Johann Förster, Director of Quality at Resrg Automotive, notes: “With their help and the use of Qualitatio, we were able to more than halve our inspection volume – while at the same time improving delivery quality.”",
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "As manufacturing continues its inevitable march toward full automation, we believe Manex AI will play a critical role in enabling this transition. Their high-impact optimization AI agents represent a core fabric layer technology for the future of manufacturing.",
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "We are delighted to partner with Nathan Gruber, Andreas Schoch, Fabian Gruber, Philipp Becker, and the entire Manex AI team as they scale their vision and product globally.",
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": ". Also, if you’re excited about hard problems at the intersection of industrials and AI, apply",
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The content here does not constitute an offer to sell or a solicitation of an offer to buy any securities or investment advisory services.",
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Certain information contained herein is based on information from various sources prepared by third parties. While such sources are believed by Lightspeed to be reliable, neither Lightspeed nor its affiliates assume any responsibility for the accuracy or completeness of such information, and such information has not been independently verified by Lightspeed. For more details please see",
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Lightspeed Management Company, L.L.C. (\"LSVP\") and LSIP are distinct investment advisory entities, are not a unitary enterprise and operate their investment advisory businesses independently of one another. From time to time LSVP may draw on its relationship with LSIP, and vice versa, but only to the extent consistent with its status as a separate investment adviser.",
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Proceed to LSIP company",
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Manex AI is steering production processes end-to-end with their manufacturing optimization agents enabling autonomous factories.",
+    "url": "https://cdtm.com/startups/manex-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Class of Spring 2023",
+    "url": "https://cdtm.com/startups/manex-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Manex AI 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an autonomous enterprise platform designed to unify industrial and manufacturing operations.",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an autonomous enterprise platform designed to unify industrial and manufacturing operations. The company's platform integrates quality, execution, and shopfloor operations into a single production system, enabling manufacturing organizations to automate manual data work and achieve real-time visibility across the value chain.",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "quote": "Method for manufacturing a product",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "quote": "Method for producing a product",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "quote": "Manex AI’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "quote": "Is Manex AI a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "quote": "Manex AI is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "quote": "/PRNewswire/ -- Today,",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"The use of artificial intelligence supports the digital transformation of BMW Group production towards an intelligently connected factory – for example, we are using AI for quality control in vehicle assembly. In this way, we are optimizing our production processes and creating added value for our products and, ultimately, for our customers,\" said",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"With its technology, Manex AI tackles one of the major challenges that every manufacturer faces: end-to-end quality and process optimization from development through production to the customer,\" says Frederik Zohm, Chief Technology Officer at MAN.",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   },
+   {
+    "quote": "Manex AI's first product platform, Qualitatio, integrates into every aspect of the manufacturing process, from order to production to getting the product in the customer's hands. This complete view of product data from start to finish enables Manex AI to help companies optimize for efficiency, quality, and operational excellence across manufacturing operations.",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"It's the perfect storm for global manufacturing: Macroeconomic volatility is interfaced with labor shortages, making margins tighter by the day. Manex AI is the partner for global large-scale manufacturers to future-proof their operations and be at the forefront of adopting AI,\" said",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"It's great to see the team and our customers make such quick progress on ROI for our customers while working toward our vision of enabling autonomous factories. When we worked at BMW, we were actually looking for a solution like Qualitatio but decided to build it on our own when we couldn't find anything suitable,\" said",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   },
+   {
+    "quote": ", co-founder and CEO of Manex AI. \"Lightspeed and BlueYard are the ideal partners for us to take our vision and product to a global scale. We are looking for the brightest talent and customers across all manufacturing verticals to work with us toward the vision of autonomous factories.\"",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"With their help and the use of Qualitatio, we were able to more than halve our inspection volume - while at the same time improving delivery quality,\" said Johann Förster, director of quality at Resrg Automotive, a Manex AI early customer.",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   },
+   {
+    "quote": "is an AI-driven software platform for industrial quality management and process steering. Manex AI's AI quality management is designed to transform quality management and the company's AI's platform, Qualitatio, integrates into every aspect of the manufacturing process, from order to production to getting the product in the customer's hands. To learn more visit",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   },
+   {
+    "quote": "in AUM across the Lightspeed platform, with investment professionals and advisors in the U.S.,",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   },
+   {
+    "quote": "BlueYard is an early-stage venture firm backing founders building the essential, fabric-layer, technologies that underpin a world yet to come. From breakthroughs in computation and intelligence, engineering, programmable biology to cryptographically coordinated networks. The firm is based in the US and",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "The First Production System for Autonomous Manufacturing.",
+    "url": "https://www.manex.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Point solutions have always made manufacturing slower than it could be, but the cost was tolerable because humans filled the gaps with knowledge no documentation ever captures. AI changes the calculus. Whoever runs agents on unified context that natively integrates Tacit Knowledge quickly outperforms anyone still working from a fragmented, incomplete data foundation.",
+    "url": "https://www.manex.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Our manufacturing suites are built for exactly this.",
+    "url": "https://www.manex.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "They form one production system for the era of autonomous manufacturing:",
+    "url": "https://www.manex.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": ", our Autonomous Agent Orchestration Platform, with deployment flexibility, no data lock‑in, and access to the fastest‑evolving app, agent, and context ecosystem for industrial AI.",
+    "url": "https://www.manex.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "With its technology, Manex AI tackles one of the major challenges that every manufacturer faces: end-to-end quality and process optimization from development through production to the customer.",
+    "url": "https://www.manex.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Partnering with Manex AI to Build the Control Layer for Autonomous Manufacturing - Lightspeed Venture Partners",
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Partnering with Manex AI to Build the Control Layer for Autonomous Manufacturing",
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "We are excited to announce our investment in Manex AI’s €8 million seed round, alongside BlueYard Capital, Capmont Technology, and the CDTM Venture Fund. This investment marks our continued commitment to backing transformative AI companies addressing critical industrial challenges.",
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The Future of Manufacturing is Autonomous",
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The team at Manex AI has recognized this opportunity and is building the essential control layer that will enable truly autonomous factories. Their AI-driven software platform for industrial quality management and process steering is already delivering measurable results for industry leaders, paving the way for the next generation of manufacturing excellence.",
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded just 18 months ago in Munich, Manex AI has rapidly established itself as a trusted partner to some of Europe’s most demanding manufacturers. BMW, Audi, TDK Electronics, BSH, Stellantis, and Henkel are already using Manex AI’s technology to transform their quality management processes.",
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "At BMW Group Plant Regensburg, Manex AI is used for tailored quality checks in vehicle assembly (Source:",
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "What sets Manex AI apart is its comprehensive approach to manufacturing data. Their flagship platform, Qualitatio, integrates into every aspect of the manufacturing process–from order intake through production to final delivery. This holistic view enables their AI to generate insights and optimizations that would be impossible with fragmented data approaches.",
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The results speak for themselves. As Johann Förster, Director of Quality at Resrg Automotive, notes: “With their help and the use of Qualitatio, we were able to more than halve our inspection volume – while at the same time improving delivery quality.”",
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "As manufacturing continues its inevitable march toward full automation, we believe Manex AI will play a critical role in enabling this transition. Their high-impact optimization AI agents represent a core fabric layer technology for the future of manufacturing.",
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "If you’re building in industrial AI or are a manufacturer interested in exploring how AI can transform your operations, the Manex team would love to work with",
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": ". Also, if you’re excited about hard problems at the intersection of industrials and AI, apply",
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Manex AI is steering production processes end-to-end with their manufacturing optimization agents enabling autonomous factories.",
+    "url": "https://cdtm.com/startups/manex-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an autonomous enterprise platform designed to unify industrial and manufacturing operations.",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an autonomous enterprise platform designed to unify industrial and manufacturing operations. The company's platform integrates quality, execution, and shopfloor operations into a single production system, enabling manufacturing organizations to automate manual data work and achieve real-time visibility across the value chain.",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "quote": "Method for manufacturing a product",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "quote": "Manex AI Closes €8 Million Seed Round to Enable Autonomous Factories",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   },
+   {
+    "quote": "Funding round led by Lightspeed Venture Partners and BlueYard Capital will help Manex AI develop manufacturing optimization agents that boost quality and efficiency",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   },
+   {
+    "quote": ", Stellantis, Audi, Resrg Automotive, TDK Electronics, Still, BSH, and Henkel.",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"The use of artificial intelligence supports the digital transformation of BMW Group production towards an intelligently connected factory – for example, we are using AI for quality control in vehicle assembly. In this way, we are optimizing our production processes and creating added value for our products and, ultimately, for our customers,\" said",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   },
+   {
+    "quote": ", Plant Manager at BMW Group Plant Regensburg.",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"With its technology, Manex AI tackles one of the major challenges that every manufacturer faces: end-to-end quality and process optimization from development through production to the customer,\" says Frederik Zohm, Chief Technology Officer at MAN.",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   },
+   {
+    "quote": "Manex AI's first product platform, Qualitatio, integrates into every aspect of the manufacturing process, from order to production to getting the product in the customer's hands. This complete view of product data from start to finish enables Manex AI to help companies optimize for efficiency, quality, and operational excellence across manufacturing operations.",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"It's the perfect storm for global manufacturing: Macroeconomic volatility is interfaced with labor shortages, making margins tighter by the day. Manex AI is the partner for global large-scale manufacturers to future-proof their operations and be at the forefront of adopting AI,\" said",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"It's great to see the team and our customers make such quick progress on ROI for our customers while working toward our vision of enabling autonomous factories. When we worked at BMW, we were actually looking for a solution like Qualitatio but decided to build it on our own when we couldn't find anything suitable,\" said",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   },
+   {
+    "quote": ", co-founder and CEO of Manex AI. \"Lightspeed and BlueYard are the ideal partners for us to take our vision and product to a global scale. We are looking for the brightest talent and customers across all manufacturing verticals to work with us toward the vision of autonomous factories.\"",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"With their help and the use of Qualitatio, we were able to more than halve our inspection volume - while at the same time improving delivery quality,\" said Johann Förster, director of quality at Resrg Automotive, a Manex AI early customer.",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   },
+   {
+    "quote": "If you want to start building the future of autonomous manufacturing, apply now at",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   },
+   {
+    "quote": "is an AI-driven software platform for industrial quality management and process steering. Manex AI's AI quality management is designed to transform quality management and the company's AI's platform, Qualitatio, integrates into every aspect of the manufacturing process, from order to production to getting the product in the customer's hands. To learn more visit",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Defects caught at the source cut scrap, rework, and warranty exposure.",
+    "url": "https://www.manex.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Decisions move at the speed information arrives, instead of the speed of meetings. The next operating model is autonomous.",
+    "url": "https://www.manex.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Become part of the next class",
+    "url": "https://cdtm.com/startups/manex-ai",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "quote": "Manex AI has 21 total employees.",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "quote": "What is Manex AI’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Manex AI is",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Partnering with Manex AI to Build the Control Layer for ... — Partnering with Manex AI to Build the Control Layer for ... Lightspeed Venture Partners https://lsvp.com > stories > partnering...",
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Manex AI - CDTM — Manex AI - CDTM Center for Digital Technology and Management https://cdtm.com > startups > manex-ai",
+    "url": "https://cdtm.com/startups/manex-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Manex AI Closes €8 Million Seed Round to Enable ... — Manex AI Closes €8 Million Seed Round to Enable ... PR Newswire https://www.prnewswire.com > mane...",
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "pass": 3
+   },
+   {
+    "quote": "Manex AI 2026 Company Profile: Valuation, Funding & Investors — Manex AI 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   },
+   {
+    "quote": "Manex AI - 2026 Company Profile & Team - Tracxn — Manex AI - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/manex-ai/__7melWlQ5tZO_4S2-srjODQWPVjz6g6x7iHI-rvpq_kQ",
+    "pass": 3
+   },
+   {
+    "quote": "Manex AI raises €8M for AI -powered manufacturing - LinkedIn — Manex AI raises €8M for AI -powered manufacturing - LinkedIn LinkedIn https://www.linkedin.com > posts > ai...",
+    "url": "https://www.linkedin.com/posts/ai-world-eu_daily-startup-spotlight-manex-ai-founded-activity-7337865336207159299-0rYV",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Manex AI - LinkedIn Manex AI - LinkedIn LinkedIn https://de.linkedin.com > manex-ai",
+    "url": "https://de.linkedin.com/company/manex-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Nathan Gruber – Co-Founder @ Manex AI | CDTM | Forbes 30 Nathan Gruber – Co-Founder @ Manex AI | CDTM | Forbes 30 LinkedIn https://de.linkedin.com > nathan-gruber",
+    "url": "https://de.linkedin.com/in/nathan-gruber/de",
+    "pass": 3
+   },
+   {
+    "quote": "Philipp Nicolay – Co-Founder @ Manex AI | Forbes 30u30 Philipp Nicolay – Co-Founder @ Manex AI | Forbes 30u30 LinkedIn https://de.linkedin.com > ...",
+    "url": "https://de.linkedin.com/in/philipp-nicolay-b3037b14b",
+    "pass": 3
+   },
+   {
+    "quote": "Manex AI raises €8M for autonomous factory tech - LinkedIn Manex AI raises €8M for autonomous factory tech - LinkedIn LinkedIn https://www.linkedin.com > posts > te...",
+    "url": "https://www.linkedin.com/posts/tech-funding-news_meet-manex-ai-after-raising-8m-this-german-activity-7336016854416601088-5JKo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Manufacturing the physical AI economy event in Fremont 2026 Manufacturing the physical AI economy event in Fremont 2026 Facebook https://www.facebook.com > ManexConsulting > posts",
+    "url": "https://www.facebook.com/ManexConsulting/posts/dont-miss-resilient-supply-chains-for-advanced-manufacturing-robotics-featuring-/1576866564241558/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.manex.ai/en",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.manex.ai/_next/image?url=%2Fassets%2Flogos%2Fman.svg&w=256&q=75&dpl=dpl_4KRQHeJbee5bnSU9wV2QzezHEda7",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.manex.ai/_next/image?url=%2Fassets%2Flogos%2Fresrg.png&w=256&q=75&dpl=dpl_4KRQHeJbee5bnSU9wV2QzezHEda7",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://info.monex.co.jp/news/2025/20250130_01.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://info.monex.co.jp/service/ai-nav.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://info.monex.co.jp/news/2026/20260623_01.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MonexJP/status/2100532769009078402",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://info.monex.co.jp/news/2025/20250130_01.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://open.talentio.com/r/1/c/monex/pages/111412",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monexgroup.jp/jp/owned-media/CultureofChallenge1.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monex.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://info.monex.co.jp/service/ai-nav.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://info.monex.co.jp/news/2025/20250130_01.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monex.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://open.talentio.com/r/1/c/monex/pages/111412",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maneva.ai/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dac.digital/machine-learning-use-cases-in-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdtm.com/startups/manex-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stammer.ai/post/best-white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=vssslczcZCs",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.agentz.ai/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/592970-86",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/manex-ai/__7melWlQ5tZO_4S2-srjODQWPVjz6g6x7iHI-rvpq_kQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/ai-world-eu_daily-startup-spotlight-manex-ai-founded-activity-7337865336207159299-0rYV",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.linkedin.com/company/manex-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/nathan-gruber/de",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/philipp-nicolay-b3037b14b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/tech-funding-news_meet-manex-ai-after-raising-8m-this-german-activity-7336016854416601088-5JKo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ManexConsulting/posts/dont-miss-resilient-supply-chains-for-advanced-manufacturing-robotics-featuring-/1576866564241558/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Manex AI 日本 導入",
+   "results": [
+    "https://info.monex.co.jp/news/2025/20250130_01.html",
+    "https://info.monex.co.jp/service/ai-nav.html",
+    "https://info.monex.co.jp/news/2026/20260623_01.html",
+    "https://x.com/MonexJP/status/2100532769009078402",
+    "https://open.talentio.com/r/1/c/monex/pages/111412",
+    "https://ai-stock-navi.monex-milize-investment.com/",
+    "https://fund.monex.co.jp/detail/47312179",
+    "https://www.ipokiso.com/column/monex_ai.html",
+    "https://www.monex.co.jp/",
+    "https://www.manex.ai/en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Manex AI 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://info.monex.co.jp/news/2025/20250130_01.html",
+    "https://open.talentio.com/r/1/c/monex/pages/111412",
+    "https://www.monexgroup.jp/jp/owned-media/CultureofChallenge1.html",
+    "https://www.monex.co.jp/",
+    "https://info.monex.co.jp/monexlab/mcpserver/index.html",
+    "https://www.watch.impress.co.jp/docs/news/2119420.html",
+    "https://www.nikkei.com/article/DGXZRSP686196_Q5A130C2000000/",
+    "https://fit.nikkin.co.jp/post/detail/hl1701",
+    "https://prtimes.jp/main/html/rd/p/000000573.000005159.html",
+    "https://www.forbes.com/profile/manex-ai/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Manex AI Japan",
+   "results": [
+    "https://info.monex.co.jp/service/ai-nav.html",
+    "https://info.monex.co.jp/news/2025/20250130_01.html",
+    "https://www.monex.co.jp/",
+    "https://open.talentio.com/r/1/c/monex/pages/111412",
+    "https://fund.monex.co.jp/detail/47312179",
+    "https://info.monex.co.jp/news/2026/20260623_01.html",
+    "https://www.youtube.com/shorts/jprAUSUbT-Q",
+    "https://ai-stock-navi.monex-milize-investment.com/login",
+    "https://media.monex.co.jp/",
+    "https://www.manex.ai/en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Manex AI manufacturing customer case study",
+   "results": [
+    "https://lsvp.com/stories/partnering-with-manex-ai-to-build-the-control-layer-for-autonomous-manufacturing/",
+    "https://www.maneva.ai/resources/case-studies",
+    "https://dac.digital/machine-learning-use-cases-in-manufacturing/",
+    "https://cdtm.com/startups/manex-ai",
+    "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "https://www.mendix.com/customer-stories/",
+    "https://manexconsulting.com/blog/ai-and-manufacturing-4-0-for-small-manufacturers/",
+    "https://eightgen.ai/case-studies/case-study-4",
+    "https://www.linkedin.com/posts/manex-ai_industrialai-manexai-startups-activity-7335653230770544640-etI2",
+    "https://www.manex.ai/en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Manex AI white label OR reseller OR partner program",
+   "results": [
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://www.youtube.com/watch?v=vssslczcZCs",
+    "https://www.agentz.ai/partners",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "https://vida.io/partners",
+    "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "https://customgpt.ai/white-label-software-to-resell/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Manex AI founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/592970-86",
+    "https://tracxn.com/d/companies/manex-ai/__7melWlQ5tZO_4S2-srjODQWPVjz6g6x7iHI-rvpq_kQ",
+    "https://www.linkedin.com/posts/ai-world-eu_daily-startup-spotlight-manex-ai-founded-activity-7337865336207159299-0rYV",
+    "https://www.prnewswire.com/news-releases/manex-ai-closes-8-million-seed-round-to-enable-autonomous-factories-302471679.html",
+    "https://www.crunchbase.com/organization/manex-502d",
+    "https://www.forbes.com/profile/manex-ai/",
+    "https://www.manex.ai/en",
+    "https://www.youtube.com/watch?v=QHg8Tm9Jvng&vl=ja",
+    "https://jobs.ashbyhq.com/manex/cee6fb7f-9d57-42ff-b421-dddc9a5e9d9d",
+    "https://tracxn.com/d/companies/manexai/__7melWlQ5tZO_4S2-srjODQWPVjz6g6x7iHI-rvpq_kQ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Manex AI",
+   "results": [
+    "https://note.com/glossy_rat2961/n/n6ed3a65b5e52?hl=en",
+    "https://note.com/nihonkabu_note/n/n907d6061915a",
+    "https://note.com/aside_2023/n/nbd050a8ce36d",
+    "https://note.com/tag/%E3%83%9E%E3%83%8D%E3%83%83%E3%82%AF%E3%82%B9%E8%A8%BC%E5%88%B8",
+    "https://note.com/atsushi_mandai/n/n8cba76ab7efd",
+    "https://note.com/claude_keibaclub/n/nbcea43049084",
+    "https://note.com/s2t/n/n625c487b3880",
+    "https://note.com/fp_ikumi/n/n51b652abd63f",
+    "https://note.com/maikoo811",
+    "https://note.com/10okuribito/n/n4bab16a82485"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Manex AI",
+   "results": [
+    "https://x.com/thielfellowship/status/1925538154582269976",
+    "https://x.com/YSeimei/status/2119989614153015355",
+    "https://x.com/MonexUS_stock/status/2054822553915638213",
+    "https://x.com/FindyTeamPlus/status/2120348165442621523",
+    "https://x.com/MonexJP/status/2100532769009078402",
+    "https://x.com/MonexJP/status/2119739350816829476",
+    "https://x.com/MonexUS_stock",
+    "https://x.com/MonexgroupInc/status/2113410094792851805",
+    "https://x.com/MonexJP/status/2114560230239637707",
+    "https://x.com/Manudzaa/status/2086053336600498357"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Manex AI",
+   "results": [
+    "https://de.linkedin.com/company/manex-ai",
+    "https://de.linkedin.com/in/nathan-gruber/de",
+    "https://de.linkedin.com/in/philipp-nicolay-b3037b14b",
+    "https://www.linkedin.com/posts/tech-funding-news_meet-manex-ai-after-raising-8m-this-german-activity-7336016854416601088-5JKo",
+    "https://de.linkedin.com/in/fabian-gruber-333897153/en",
+    "https://www.linkedin.com/posts/manex-ai_industrialai-manexai-startups-activity-7335653230770544640-etI2",
+    "https://www.linkedin.com/posts/ai-world-eu_daily-startup-spotlight-manex-ai-founded-activity-7337865336207159299-0rYV",
+    "https://www.linkedin.com/posts/manex-ai_manex-ai-is-now-part-of-catena-x-association-activity-7523368502959804416-Zm8n",
+    "https://www.linkedin.com/posts/manex-ai_manex-ai-autonomy-for-leading-organizations-activity-7475110524494614529-TajY",
+    "https://www.linkedin.com/company/manex-ai"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Manex AI",
+   "results": [
+    "https://www.facebook.com/ManexConsulting/",
+    "https://www.facebook.com/motorvalleyaccelerator/posts/-from-smart-robots-to-autonomous-factories-four-more-startups-are-joining-the-ex/1448860917348781/",
+    "https://www.facebook.com/ManexConsulting/posts/dont-miss-resilient-supply-chains-for-advanced-manufacturing-robotics-featuring-/1576866564241558/",
+    "https://www.facebook.com/manexproductions/videos/ai-oji-development-association-annual-conference-in-agbaha-otukpamanex-live/1445199017465490/",
+    "https://www.facebook.com/manexproductions/?locale=sv_SE",
+    "https://www.facebook.com/Raj.Salwan/posts/last-thursday-at-manufacturing-industry-day-with-manex-at-the-fremont-downtown-e/1509183371020743/",
+    "https://www.facebook.com/manexproductions/videos/1141167601648154/",
+    "https://www.facebook.com/ManexPowerMarine/posts/competition-entry-walkthrough-upload-one-photo-paste-the-prompt-in-any-ai-tool/1643504064449384/",
+    "https://www.facebook.com/manexproductions/posts/10242001908175786/",
+    "https://www.facebook.com/pulse2news/posts/manex-ai-8-million-seed-round-closed-for-enabling-autonomous-factories-manex-ai-/1349995157127510/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Manex AI note 社長",
+   "results": [
+    "https://note.com/tag/%E3%83%9E%E3%83%8D%E3%83%83%E3%82%AF%E3%82%B9%E8%A8%BC%E5%88%B8",
+    "https://media.monex.co.jp/articles/-/29993",
+    "https://info.monex.co.jp/news/2025/20250130_01.html",
+    "https://www.wantedly.com/companies/monexsec/post_articles/1054598",
+    "https://note.com/nihonkabu_note/n/n907d6061915a",
+    "https://www.youtube.com/watch?v=BsOvSdyevRI",
+    "https://media.monex.co.jp/articles/-/29915",
+    "https://www.monexgroup.jp/jp/owned-media/CultureofChallenge1.html",
+    "https://www.nikkei.com/article/DGXZQOUB1724K0X10C26A8000000/",
+    "https://www.forbes.com/profile/manex-ai/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Manex AI X 投稿",
+   "results": [
+    "https://x.com/MonexJP",
+    "https://www.monex.co.jp/",
+    "https://info.monex.co.jp/news/2025/20250130_01.html",
+    "https://mount.jp/magazine/monex-dev-with-ai/",
+    "https://ai-stock-navi.monex-milize-investment.com/login",
+    "https://fit.nikkin.co.jp/post/detail/hl1701",
+    "https://info.monex.co.jp/service/ai-nav.html",
+    "https://www.nikkei.com/article/DGXZRSP711256_Z10C26A8000000/",
+    "https://open.talentio.com/r/1/c/monex/pages/111412",
+    "https://www.manex.ai/en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部29頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部29頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部29頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部29頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部29頁・検索12回）"
+ }
+}

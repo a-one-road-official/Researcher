@@ -1,0 +1,1869 @@
+{
+ "name": "ToolSense",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T06:12:41.227846+00:00",
+ "official_url": "https://toolsense.io/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Machines and robots sit across spreadsheets and brand portals, and none of the lists match the floor.",
+    "url": "https://toolsense.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Machines move between sites unrecorded, but the books keep them on the old cost centre, so their monthly costs (depreciation or lease) land on the wrong site.",
+    "url": "https://toolsense.io/",
+    "pass": 1
+   },
+   {
+    "quote": "When a machine stops, the operative scans its QR code and describes the problem. The AI Support Manager answers from that machine’s own manual, IoT data and service history, walks them through the fix, and logs the fault against the right asset. If the job needs a technician, it opens the ticket and flags the likely part, so the technician arrives with what the job needs.",
+    "url": "https://toolsense.io/",
+    "pass": 1
+   },
+   {
+    "quote": "We knew we had a really big problem. We just didn't have the system or procedures in place to keep all the history and data ourselves.",
+    "url": "https://toolsense.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Project Manager",
+    "url": "https://toolsense.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The GPS tracker on the sweeper tells the customer exactly how many kilometres were covered, where it started, where it stopped. That’s proof of evidence of service delivery, not a written claim.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Everyone in the sales team and the operational team can check where a specific pair of skis is. It’s a huge step forward in equipment management, and it makes our processes faster, less hectic.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "When we have the right data, there are so many options. Procurement, health and safety, finance, they’re all ready to use it. We haven’t seen all the benefits yet, but the potential is there.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Compared to the competition, the ease of integrating ToolSense into our existing operations was a very easy barrier to overcome. The QR codes meant operators didn’t need training or extra devices, just their phone.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "In the pilot we questioned every process. We cut a lot, kept what mattered, and ended up with one shared data model that the whole team works from.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The QR codes have been a game-changer. Pre- and post-trip inspections turn straight into work orders, the team prioritises immediately, and downtime has gone from weeks to hours.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "We tried to find one complex system that could handle all the processes and data. After testing ToolSense we saw it can summarise information from assets, maintenance costs, yearly checks, everything in one place.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Propreté Hygiène Plus",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Instead of carrying around a spreadsheet hoping you got everything, you just go around and scan QR codes. When you’re done for the day, you see what you missed.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "If a colleague knows where the process snags, where it can be improved, then they are also the one who has to tell us what the ideal process looks like, and that kind of co-design isn't possible in every product.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturer-specific solutions are limited to one brand. We needed an independent system that works across every line we represent.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Skilled-labour shortages mean every process has to be designed end-to-end. We can’t keep printing 42 receipts to back up one invoice, that’s not the future. Workflows have to flow, with high acceptance at every level.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The annoying problem of relocations, where at the end of the day you don't know where your cleaning machines have gone, is solved by the trackers, so we're always up to date.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "It’s not about having yet another database. It’s about looking at your processes again, adopting the workflows a tool like this implies, and minimising your internal hand-offs.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "ToolSense has seen a problem from tracking and looking after equipment in general, and used a cost-effective methodology. They've hit the nail on the head, and that can only benefit the end-user client and people like ourselves.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The status quo was really a lot of Excel, a lot of offline lists, a lot of PDF files being passed around. There was no central management programme.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Long phone chains lose information. With a ticketing system, we get problems at first hand, with video and pictures from where the fault is, and that helps us close cases internally far faster.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "In building cleaning it’s essential to move away from static, paper-based plans into demand-driven work. Digitalisation with ToolSense is real progress.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The whole concept won me over, and the team behind it. They make everything possible, are always open to ideas, and throw themselves in 2000 percent. We now have a clean digital process and, for us, a data source we can feed back into machine development.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Workforce Coordination",
+    "url": "https://toolsense.io/solutions/fm-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Scheduling and tracking thousands of frontline workers across shifts and sites.",
+    "url": "https://toolsense.io/solutions/fm-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Track all your cleaning equipment, tools, and building assets in one system. Preventive maintenance schedules reduce breakdowns by 80%.",
+    "url": "https://toolsense.io/solutions/fm-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Production-grade connectors to SAP, Microsoft Dynamics 365, ServiceNow, Salesforce Field Service, Oracle, Tennant, Kärcher, Nilfisk, LionsBot and 50+ more - keeping finance, CAFM and equipment data aligned across every site.",
+    "url": "https://toolsense.io/solutions/fm-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Practical guides and comparisons that show how teams move from manual processes to connected operations.",
+    "url": "https://toolsense.io/solutions/fm-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Facility Management Best Practices: 11 Ways to Improve Efficiency",
+    "url": "https://toolsense.io/solutions/fm-companies",
+    "pass": 1
+   },
+   {
+    "quote": "A comprehensive guide of best practices to improve your FM (facility management). Learn how the asset management software ToolSense can help!",
+    "url": "https://toolsense.io/solutions/fm-companies",
+    "pass": 1
+   },
+   {
+    "quote": "A practical guide to facility management software for lean in-house FM teams managing assets, maintenance, tickets, vendors and reporting.",
+    "url": "https://toolsense.io/solutions/fm-companies",
+    "pass": 1
+   },
+   {
+    "quote": "The digitalization in the cleaning industry offers companies new opportunities and improvements. However, there are a few pros and cons.",
+    "url": "https://toolsense.io/solutions/fm-companies",
+    "pass": 1
+   },
+   {
+    "quote": "It's software that helps facility management providers run service delivery across many client sites - assets, maintenance, teams, SLAs and reporting in one platform. ToolSense is purpose-built for multi-site FM operations.",
+    "url": "https://toolsense.io/solutions/fm-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Track response and resolution times, automate work-order routing and prove SLA compliance to clients with audit-ready reporting.",
+    "url": "https://toolsense.io/solutions/fm-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. ToolSense produces dashboards and reports on maintenance, costs, uptime and SLAs - so you can demonstrate value to clients and win renewals.",
+    "url": "https://toolsense.io/solutions/fm-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. ToolSense connects to ERP, accounting and procurement systems via API and prebuilt integrations, keeping data in sync across your tools.",
+    "url": "https://toolsense.io/solutions/fm-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Tennant, i-team, Kärcher, Hako, ICE Cobotics and more - production-grade",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Spreadsheets, phone calls, PDF manuals. Your service business has not gone digital yet.",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Third-party providers reach the customer first, capturing the service relationship.",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "FSM for equipment service: multi-brand fleets, OEM repair procedures, IoT-triggered tickets and spare-parts workflows.",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Embed or retrofit ToolSense IoT to sell connectivity, predictive maintenance and usage data under your brand.",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive maintenance, usage analytics and consumables intelligence",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Practical guides and comparisons that show how teams move from manual processes to connected operations.",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "A practical guide for OEMs that want to turn connected equipment, IoT data and service workflows into recurring revenue.",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Do you provide field service management for our service business?",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. ClientHub provides a white-label customer portal on your domain, where customers manage assets, request service and access documents.",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "The leading software and telematics provider for the",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   },
+   {
+    "quote": "The same platform that runs the operations of leading FM groups - built for the daily reality of construction yards, equipment depots and project sites.",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   },
+   {
+    "quote": "replaces all of it - one platform that the yard, the workshop, dispatch, project controlling and site foremen all share.",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   },
+   {
+    "quote": "ToolSense is the operations platform behind hundreds of construction yards - from European tier-1 contractors to specialist subcontractors. Built for equipment-heavy operations where every hour of downtime costs money, every machine on the wrong site is a billing problem, and every safety inspection has to be defensible.",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   },
+   {
+    "quote": "The one nobody else does properly",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Every machine, every hour on a site, automatically posted as cost to that project - based on hour meter, GPS, IoT data or QR scan. End of month, project controlling gets a clean cost-per-site report straight from the platform.",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Every excavator, loader, crane, generator, compressor, vehicle and small tool in one digital fleet record. Master data, hour meter, location, current site, current operator. The end of the Excel-based asset list maintained by the colleague who retired last year.",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Replace paper repair slips and shouted handovers. Drivers and site foremen report problems via QR scan and mobile - instantly visible to the workshop. Mechanics receive tickets, document repairs with photos, log spare parts, close out with a signature. Full workshop history per machine, queryable in seconds.",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   },
+   {
+    "quote": "ToolSense designs and ships its own IoT devices - rugged, vibration-proof, built for diesel-powered, dusty, wet construction environments. Heavy-duty trackers for big iron (Blackbird), compact units for mid-sized equipment (Hawk, Eagle), modules for tools and small assets, vehicle units, station hubs. SIM included. €5 per device per month.",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Construction sites don't have reliable mobile coverage. The ToolSense mobile app works fully offline - operators, drivers and mechanics can scan QR codes, log inspections, complete checklists and report problems without signal. Everything syncs automatically the moment the device is back online.",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Scan QR to report a problem",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Digital handover protocol when a machine moves between sites, between operators, or between rental partners. Checklist on mobile, photos of condition, signatures from both parties. Disputes about who damaged what - finally resolvable with evidence.",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   },
+   {
+    "quote": "All vehicles in the same platform as the machines. GPS tracking, mileage, driver assignment, pre-trip and post-trip inspections. Cost per vehicle, per site, per cost center. Plus a Finanzamt-grade Fahrtenbuch (digital driver log) for the DACH region that holds up under tax audit.",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by FM leaders in 30+ countries",
+    "url": "https://toolsense.io/",
+    "pass": 1
+   },
+   {
+    "quote": "ToolSense connects whichever brand you pick, cloud to cloud through more than 30 manufacturer systems or with our own IoT where a brand has none.",
+    "url": "https://toolsense.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Track scrubbers, vacuums, robots and vans from any manufacturer, with live data from more than 30 OEM systems. One record replaces the CMMS, the Excel lists, the paper checklists and a separate portal for every brand.",
+    "url": "https://toolsense.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the people on site",
+    "url": "https://toolsense.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by FM leaders across 30+ countries",
+    "url": "https://toolsense.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Compared to the competition, the ease of integrating ToolSense into our existing operations was a very easy barrier to overcome. The QR codes meant operators didn’t need training or extra devices, just their phone.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Fleet Management",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturer-specific solutions are limited to one brand. We needed an independent system that works across every line we represent.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturer IoT only covers their own machines. We needed a platform that works across every brand we distribute, and can be retrofitted in South Africa, not bolted on in the factory.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "We deliberately don't have one machine manufacturer that we use across all of Austria, and what ToolSense does is bridge that, because all our cleaning-machine suppliers are already integrated.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "It's a completely open system; all manufacturers, all equipment are treated equally. And I can build the system a bit according to my own ideas. That's something I liked very much.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The old Excel system helped until now, but because of the size of the Stölting Group it has had its day. We want one system where we can record all devices manufacturer-independently and control them centrally.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The main reason was manufacturer independence. We wanted a platform where we could cover all possible machines and all possible manufacturers with one system.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "ToolSense is built to connect – across the equipment that does the work, the manufacturers who make it, the dealers who sell it, and the operators who run it. One platform, one network, one operational standard for facility management.",
+    "url": "https://toolsense.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "ToolSense integrates directly with the world's major cleaning equipment and robotics manufacturers – IoT-deep, not surface-level.",
+    "url": "https://toolsense.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "ToolSense OEM partner ecosystem – cleaning equipment and robotics manufacturers integrated into the FM asset operations platform.",
+    "url": "https://toolsense.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Through the ToolSense Service Network, FM operators get direct digital access to certified service partners – and OEMs and dealers turn machine sales into recurring service revenue. One platform. Two sides. New economics for both.",
+    "url": "https://toolsense.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading FM companies:",
+    "url": "https://toolsense.io/solutions/fm-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Dispatch and track technicians, give them a mobile app with asset history and QR scanning, and keep everyone working from the same live data across sites.",
+    "url": "https://toolsense.io/solutions/fm-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Once a machine leaves the warehouse, you cannot see how it is being used or maintained.",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "OEM stands for Original Equipment Manufacturer. Learn the OEM full form and meaning, real-world examples, OEM vs aftermarket parts, and OEM software.",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading construction groups",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Drivers, operators and technicians rotate between sites - assignments live in WhatsApp.",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Construction sites don't have reliable mobile coverage. The ToolSense mobile app works fully offline - operators, drivers and mechanics can scan QR codes, log inspections, complete checklists and report problems without signal. Everything syncs automatically the moment the device is back online.",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Digital handover protocol when a machine moves between sites, between operators, or between rental partners. Checklist on mobile, photos of condition, signatures from both parties. Disputes about who damaged what - finally resolvable with evidence.",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Plan and dispatch your workshop mechanics and field technicians across yards and sites. Skill-based assignments, route planning, real-time status. Mobile app for the technician with full ticket history, checklists and offline support.",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Operators that trust ToolSense",
+    "url": "https://toolsense.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Used by 250+ companies across 30+ countries — from multi-site FM giants to in-house teams and OEM partners.",
+    "url": "https://toolsense.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Four ways operators run the FM Asset Operations Platform — find yours.",
+    "url": "https://toolsense.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Talk to someone who's set this up for 250+ operators across 30+ countries. We'll help you pick the right starting point — and skip the demo if it's faster.",
+    "url": "https://toolsense.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "The platform grew with them – through six purpose-built Hubs spanning asset management, robotics, fleet, field service, customer portals, and IoT connectivity, plus a Cleaning Machine Database that ships customers furnished on day one, and a Service Network that connects OEMs, dealers, and operators on the same operational standard.",
+    "url": "https://toolsense.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "ToolSense begins connecting equipment manufacturers' machines into a single, structured data layer.",
+    "url": "https://toolsense.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "The platform expands from OEMs to the operators who use the equipment – first construction, then facility management.",
+    "url": "https://toolsense.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-site facility management operators, lean teams running 50+ machines, cleaning equipment OEMs, and global operators with the scale and operational maturity to make a platform decision. Customers include for example ISS, Compass Group, JLL, and Atalian on the FM operator side, and Tennant and i-team on the OEM side.",
+    "url": "https://toolsense.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "ToolSense is hiring across engineering, product, design, customer success, and go-to-market. If you want your work used by people whose job titles don't make headlines – cleaners, technicians, ops managers, FM leads – this is the place. We're a Vienna-headquartered SaaS company building the operating system of facility management.",
+    "url": "https://toolsense.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 250+ companies across 30+ countries",
+    "url": "https://toolsense.io/demo",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading facility management teams",
+    "url": "https://toolsense.io/demo",
+    "pass": 1
+   },
+   {
+    "quote": "I am an Equipment Manufacturer or Dealer",
+    "url": "https://toolsense.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pulls manuals, IoT data, history - helps operators fix issues themselves and avoid downtime.",
+    "url": "https://toolsense.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What changed isn’t just the data, it’s where the data lives. ToolSense is in use by the operation on site as much as by head office. Operators send a",
+    "url": "https://toolsense.io/resources/customers/karen-fink-iss-denmark",
+    "pass": 1
+   },
+   {
+    "quote": "Compared to the competition, the ease of integrating ToolSense into our existing operations was a very easy barrier to overcome. The QR codes meant operators didn’t need training or extra devices, just their phone.",
+    "url": "https://toolsense.io/resources/customers/karen-fink-iss-denmark",
+    "pass": 1
+   },
+   {
+    "quote": "businesses. Myer Pincus runs the national technical footprint from Johannesburg, with bases in Cape Town and Port Elizabeth and around sixteen technicians on the road. Between them, the team maintains roughly 900 machines a month, auto-scrubbers, sweepers and combination machines, and the long-term scope reaches close to 40,000 assets across the wider Bidvest Prestige base.",
+    "url": "https://toolsense.io/resources/customers/myer-pincus-bidvest",
+    "pass": 1
+   },
+   {
+    "quote": "ToolSense replaced that workflow end-to-end. Job cards are now generated in the platform, work orders flow automatically to technicians, and every service event stays attached to the machine itself, so when a machine moves between sites, its full history moves with it.",
+    "url": "https://toolsense.io/resources/customers/myer-pincus-bidvest",
+    "pass": 1
+   },
+   {
+    "quote": "Rather than a hard switch, Myer ran ToolSense and paper in parallel for three to four months: technicians filled out the paper card, then logged the same job in ToolSense and attached a photo of the paper version. Adoption grew with familiarity, then the paper steps were stripped away. Even the team’s least computer-literate technicians moved over comfortably, a testament to the user interface.",
+    "url": "https://toolsense.io/resources/customers/myer-pincus-bidvest",
+    "pass": 1
+   },
+   {
+    "quote": ", and newer generations from the main supplier arrive connected. Instead of logging into three manufacturer portals because there are seven machines of one brand, three of another and eight of a third, the team works in one system with every machine. Cleaning robots such as Gausium and Pudu are connected too, so nobody needs ten apps.",
+    "url": "https://toolsense.io/resources/customers/bernd-steinreiber-iss-austria",
+    "pass": 1
+   },
+   {
+    "quote": "The main reason was manufacturer independence. We wanted a platform where we could cover all possible machines and all possible manufacturers with one system.",
+    "url": "https://toolsense.io/resources/customers/bernd-steinreiber-iss-austria",
+    "pass": 1
+   },
+   {
+    "quote": "Stölting Service Group chose ToolSense to move cleaning machines, electrical devices, ladders and inspection deadlines out of separate Excel files and into one manufacturer-independent asset operations platform.",
+    "url": "https://toolsense.io/resources/customers/stoelting-service-group",
+    "pass": 1
+   },
+   {
+    "quote": "manufacturer-independent",
+    "url": "https://toolsense.io/resources/customers/stoelting-service-group",
+    "pass": 1
+   },
+   {
+    "quote": "The old Excel system helped until now, but because of the size of the Stölting Group it has had its day. We want one system where we can record all devices manufacturer-independently and control them centrally.",
+    "url": "https://toolsense.io/resources/customers/stoelting-service-group",
+    "pass": 1
+   },
+   {
+    "quote": "The main reason was manufacturer independence. We wanted a platform where we could cover all possible machines and all possible manufacturers with one system.",
+    "url": "https://toolsense.io/resources/customers/stoelting-service-group",
+    "pass": 1
+   },
+   {
+    "quote": "White-label customer portal software changes that pattern. It gives customers a branded place to manage equipment, request service, access documents and see status updates, while the manufacturer or dealer keeps ownership of the digital relationship.",
+    "url": "https://toolsense.io/enterprise-software/white-label-customer-portal-software-oems-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Customers increasingly expect the same digital transparency from industrial and FM equipment vendors that they get from consumer software. They want to know which assets they own, what was serviced, which documents apply and when an issue will be resolved.",
+    "url": "https://toolsense.io/enterprise-software/white-label-customer-portal-software-oems-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturer clouds for connected-machine data.",
+    "url": "https://toolsense.io/enterprise-software/white-label-customer-portal-software-oems-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Some OEMs consider building a customer portal internally. That can make sense when the portal is the core product. For most equipment manufacturers and dealers, however, the hidden cost is high.",
+    "url": "https://toolsense.io/enterprise-software/white-label-customer-portal-software-oems-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Fleet Management",
+    "url": "https://toolsense.io/resources/customers/nils-obst-walter-strassenbau",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "IoT or OEM cloud where the data exists, a QR code on everything else. However your equipment is set up today, we meet it where it is.",
+    "url": "https://toolsense.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Track scrubbers, vacuums, robots and vans from any manufacturer, with live data from more than 30 OEM systems. One record replaces the CMMS, the Excel lists, the paper checklists and a separate portal for every brand.",
+    "url": "https://toolsense.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for OEMs turning machine sales into service revenue.",
+    "url": "https://toolsense.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Partners | OEM Integrations & FM Service Network | ToolSense",
+    "url": "https://toolsense.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with ToolSense – the FM asset operations platform's OEM and service network",
+    "url": "https://toolsense.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Technology Partners – OEM integrations",
+    "url": "https://toolsense.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "ToolSense OEM partner ecosystem – cleaning equipment and robotics manufacturers integrated into the FM asset operations platform.",
+    "url": "https://toolsense.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Nine years of OEM integration is the spine of the platform. It's not a feature on top – it's what makes everything else possible. Anyone can build a dashboard. Nobody else can copy the IoT data layer underneath ours.",
+    "url": "https://toolsense.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Through the ToolSense Service Network, FM operators get direct digital access to certified service partners – and OEMs and dealers turn machine sales into recurring service revenue. One platform. Two sides. New economics for both.",
+    "url": "https://toolsense.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "If you're an OEM looking to digitize your service network, a dealer ready to consolidate fleets across customers, or a service company that wants to operate on the same standard as ISS, Compass Group, JLL, and Atalian – let's talk.",
+    "url": "https://toolsense.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "OEM cloud integrations",
+    "url": "https://toolsense.io/solutions/fm-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Aftermarket Service Software for OEMs & Dealers | ToolSense",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Aftermarket Service Software for OEMs and Equipment Dealers",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Aftermarket service software for OEMs and dealers: every asset, service workflow and connected machine in one branded platform.",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Built for OEMs and dealers like Tennant, i-team, Numatic and ICE Cobotics who want to digitize their aftermarket service business, offer a branded customer portal and embed IoT in their machines.",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "connected and managed across our OEM and dealer customers",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "OEM cloud integrations live",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Explore OEM cloud integrations",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Built for OEM and Dealer Service Businesses",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "you get the digital service infrastructure to compete under your own brand, on your own domain, with your own customer relationship intact.",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Three Hubs Built for OEMs and Dealers",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "FSM for equipment service: multi-brand fleets, OEM repair procedures, IoT-triggered tickets and spare-parts workflows.",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Connected to IoT faults, spare parts, OEM telemetry and the customer portal",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Your Customers' Portal, Under Your Brand",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "A white-label portal where customers manage their machines and service requests under your brand.",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label IoT for Your Machines",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Embed or retrofit ToolSense IoT to sell connectivity, predictive maintenance and usage data under your brand.",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Rebranded, embedded or co-engineered IoT hardware",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "White-label device, data and customer-facing experience",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Why OEMs and Dealers Choose ToolSense",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "White-label end-to-end: software, customer portal and hardware all under your brand",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "OEM-grade integration ecosystem: 20+ cloud-to-cloud connections to other OEMs already live",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "How OEMs Build Recurring Revenue with Connected Equipment",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "A practical guide for OEMs that want to turn connected equipment, IoT data and service workflows into recurring revenue.",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label Customer Portal Software for OEMs and Dealers",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Learn what white-label customer portal software should include for OEMs and dealers: service requests, assets, documents, branding and integrations.",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "OEM cloud integrations",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Already running OEM telematics? ToolSense connects directly to the major construction OEM clouds - Caterpillar, Komatsu, Liebherr, Volvo, JCB, Hitachi, Bobcat, Doosan, John Deere and many more. Hour meter, location, fault codes and utilisation flow into ToolSense automatically. No rip-and-replace, no double tracking.",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   },
+   {
+    "quote": "One platform replaces Excel, paper repair tickets, WhatsApp dispatch and disconnected OEM dashboards",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   },
+   {
+    "quote": "OEM-cloud integrations to Caterpillar, Komatsu, Liebherr, Volvo, JCB, Hitachi and many more - no rip-and-replace",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Import via Excel, sync from OEM clouds, or pre-load from the ToolSense Machine Database.",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Used by 250+ companies across 30+ countries — from multi-site FM giants to in-house teams and OEM partners.",
+    "url": "https://toolsense.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "ERP, CAFM, IoT, OEM clouds — SAP, ServiceNow, Microsoft Dynamics, Kärcher, Tennant, and the rest.",
+    "url": "https://toolsense.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Pick by who you are. The platform behind every solution is the same — the difference is which workflows, portals and integrations are switched on by default. If you contract FM services for clients, start with FM Companies. If you run your own buildings, In-house FM. If you sell equipment, OEMs & Dealers. If you build it, Construction.",
+    "url": "https://toolsense.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. The platform is unified, so many customers run two or three side by side — for example an FM company that also has an in-house portfolio, or an OEM that also operates its own service fleet. Workflows, data and integrations stay linked.",
+    "url": "https://toolsense.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "The platform grew with them – through six purpose-built Hubs spanning asset management, robotics, fleet, field service, customer portals, and IoT connectivity, plus a Cleaning Machine Database that ships customers furnished on day one, and a Service Network that connects OEMs, dealers, and operators on the same operational standard.",
+    "url": "https://toolsense.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "The platform expands from OEMs to the operators who use the equipment – first construction, then facility management.",
+    "url": "https://toolsense.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-site facility management operators, lean teams running 50+ machines, cleaning equipment OEMs, and global operators with the scale and operational maturity to make a platform decision. Customers include for example ISS, Compass Group, JLL, and Atalian on the FM operator side, and Tennant and i-team on the OEM side.",
+    "url": "https://toolsense.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Nine years of deep IoT integration with the world's major equipment OEMs. IoT isn't a feature on top of the platform – it's the spine inside it. That's the unfair advantage no dashboard can replicate.",
+    "url": "https://toolsense.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "ToolSense is modular – pick the Hubs that fit your operation. Standard integrations (OEM cloud-to-cloud, robot brands, email/calendar, webhooks, CSV) are always included.",
+    "url": "https://toolsense.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The foundation of every ToolSense deployment - manage every internal asset (machines, robots, ladders, PPE) with QR codes, procedures, ticketing, and OEM integrations in one place.",
+    "url": "https://toolsense.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Your logo, your colors, your subdomain. White-label experience for end users.",
+    "url": "https://toolsense.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label Customer Portal Software for OEMs | ToolSense",
+    "url": "https://toolsense.io/enterprise-software/white-label-customer-portal-software-oems-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Let customers view assets, request service, and access documents under your own brand and domain.",
+    "url": "https://toolsense.io/enterprise-software/white-label-customer-portal-software-oems-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "For many equipment OEMs and dealers, the customer relationship becomes surprisingly fragile after the machine is delivered. Service requests arrive by email, manuals are sent as PDFs, warranty conversations sit in personal inboxes and customers often use third-party systems to understand the equipment they bought from you.",
+    "url": "https://toolsense.io/enterprise-software/white-label-customer-portal-software-oems-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "White-label customer portal software changes that pattern. It gives customers a branded place to manage equipment, request service, access documents and see status updates, while the manufacturer or dealer keeps ownership of the digital relationship.",
+    "url": "https://toolsense.io/enterprise-software/white-label-customer-portal-software-oems-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "What Is a White-Label Customer Portal?",
+    "url": "https://toolsense.io/enterprise-software/white-label-customer-portal-software-oems-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "A white-label customer portal is a self-service software layer that runs under your brand, on your domain or customer environment, while the underlying platform provider stays in the background.",
+    "url": "https://toolsense.io/enterprise-software/white-label-customer-portal-software-oems-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "For OEMs and dealers, the portal usually sits between the end customer, the service team and the installed equipment base. Instead of sending customers to a generic vendor app, the portal can become the digital front door for:",
+    "url": "https://toolsense.io/enterprise-software/white-label-customer-portal-software-oems-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Why OEMs and Dealers Need Their Own Portal",
+    "url": "https://toolsense.io/enterprise-software/white-label-customer-portal-software-oems-dealers",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "When a machine stops, the operative scans its QR code and describes the problem. The AI Support Manager answers from that machine’s own manual, IoT data and service history, walks them through the fix, and logs the fault against the right asset. If the job needs a technician, it opens the ticket and flags the likely part, so the technician arrives with what the job needs.",
+    "url": "https://toolsense.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for multi-site, multi-client operations of 500+ employees.",
+    "url": "https://toolsense.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for OEMs turning machine sales into service revenue.",
+    "url": "https://toolsense.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Paper gets lost. Paper gets misplaced. Paper gets misread because of handwriting. With ToolSense, everything is typed out, we manage our revenue source better and have full oversight to share with general managers.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Compared to the competition, the ease of integrating ToolSense into our existing operations was a very easy barrier to overcome. The QR codes meant operators didn’t need training or extra devices, just their phone.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Instead of carrying around a spreadsheet hoping you got everything, you just go around and scan QR codes. When you’re done for the day, you see what you missed.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Through the ToolSense Service Network, FM operators get direct digital access to certified service partners – and OEMs and dealers turn machine sales into recurring service revenue. One platform. Two sides. New economics for both.",
+    "url": "https://toolsense.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Computer aided facility management software (CAFM) ► Track data, maintenance and schedule assets or employees.",
+    "url": "https://toolsense.io/solutions/fm-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Losing Recurring Revenue",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Recurring revenue model - move from one-time machine sales to multi-year service contracts",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "How OEMs Build Recurring Revenue with Connected Equipment",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "A practical guide for OEMs that want to turn connected equipment, IoT data and service workflows into recurring revenue.",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "How do we turn sales into recurring revenue?",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "By offering connectivity, monitoring and digital service around the machines you sell, you create subscription and aftermarket service revenue that continues long after the original sale.",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. The customer portal, IoT experience and service tools carry your brand, so customers stay in your ecosystem - not a third party's.",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Every machine carries a QR sticker. The operator scans it, takes a photo, types one line - workshop ticket created instantly. Multilingual interface for diverse site teams. No paper, no phone call, no \"I forgot to mention that yesterday\".",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Every machine accumulates real cost: acquisition, depreciation, fuel, maintenance, repairs, transport, insurance. ToolSense aggregates all of it into a per-machine TCO record - so you finally know which machines are profitable to keep and which are quietly bleeding money.",
+    "url": "https://toolsense.io/solutions/construction",
+    "pass": 1
+   },
+   {
+    "quote": "What if my industry isn't listed?",
+    "url": "https://toolsense.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Vienna, Austria – with 50+ employees serving 250+ customers across 30+ countries.",
+    "url": "https://toolsense.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "GRO Capital, matterwave ventures, PwC Germany, part of the PlanRadar Founders invested in ToolSense to build the FM Asset Operations Platform.",
+    "url": "https://toolsense.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Dussmann has operated in Hungary since 1991, running four service lines, soft FM, hard FM, catering and security, with more than 1,300 employees. Gábor Facskó is Head of Soft Facility Management Services, joining the",
+    "url": "https://toolsense.io/resources/customers/gabor-facsko-dussmann-hungary",
+    "pass": 1
+   },
+   {
+    "quote": "Compared to the competition, the ease of integrating ToolSense into our existing operations was a very easy barrier to overcome. The QR codes meant operators didn’t need training or extra devices, just their phone.",
+    "url": "https://toolsense.io/resources/customers/karen-fink-iss-denmark",
+    "pass": 1
+   },
+   {
+    "quote": "Innovation was already part of the JLL playbook with this account, so the team scouted for a more efficient way to track",
+    "url": "https://toolsense.io/resources/customers/aaron-leigh-nevatt-jll",
+    "pass": 1
+   },
+   {
+    "quote": "Instead of carrying around a spreadsheet hoping you got everything, you just go around and scan QR codes. When you’re done for the day, you see what you missed.",
+    "url": "https://toolsense.io/resources/customers/aaron-leigh-nevatt-jll",
+    "pass": 1
+   },
+   {
+    "quote": "Paper gets lost. Paper gets misplaced. Paper gets misread because of handwriting. With ToolSense, everything is typed out, we manage our revenue source better and have full oversight to share with general managers.",
+    "url": "https://toolsense.io/resources/customers/myer-pincus-bidvest",
+    "pass": 1
+   },
+   {
+    "quote": "Some of the newer machines arriving in the fleet already ship with onboard sensors; integrating that",
+    "url": "https://toolsense.io/resources/customers/myer-pincus-bidvest",
+    "pass": 1
+   },
+   {
+    "quote": "The solution starts at the machine. Every piece of equipment, from small devices to ride-on scrubbers, carries a",
+    "url": "https://toolsense.io/resources/customers/bernd-steinreiber-iss-austria",
+    "pass": 1
+   },
+   {
+    "quote": "Inspections work the same way. Electrical tests, ladders, personal protective equipment: what used to live in Excel lists and paper forms now sits in one app, with direct communication to the suppliers. When a check falls due, the site manager gets a reminder in time, and when the labour inspector arrives, everything is documented.",
+    "url": "https://toolsense.io/resources/customers/bernd-steinreiber-iss-austria",
+    "pass": 1
+   },
+   {
+    "quote": ", and newer generations from the main supplier arrive connected. Instead of logging into three manufacturer portals because there are seven machines of one brand, three of another and eight of a third, the team works in one system with every machine. Cleaning robots such as Gausium and Pudu are connected too, so nobody needs ten apps.",
+    "url": "https://toolsense.io/resources/customers/bernd-steinreiber-iss-austria",
+    "pass": 1
+   },
+   {
+    "quote": "Stölting is a family-owned German service group with more than 120 years of history. Its core business spans building cleaning, security and personnel services. At the time of the interview, the group had grown dynamically through acquisitions and organic expansion, with more than 40 operating companies and a national footprint.",
+    "url": "https://toolsense.io/resources/customers/stoelting-service-group",
+    "pass": 1
+   },
+   {
+    "quote": "For many equipment OEMs and dealers, the customer relationship becomes surprisingly fragile after the machine is delivered. Service requests arrive by email, manuals are sent as PDFs, warranty conversations sit in personal inboxes and customers often use third-party systems to understand the equipment they bought from you.",
+    "url": "https://toolsense.io/enterprise-software/white-label-customer-portal-software-oems-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Service requests, warranty cases and repair status.",
+    "url": "https://toolsense.io/enterprise-software/white-label-customer-portal-software-oems-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Customers should see the equipment they own or operate, including serial numbers, location, warranty status, documents and service history. This avoids repeated questions such as \"which machine are we talking about?\" and gives the service team better context.",
+    "url": "https://toolsense.io/enterprise-software/white-label-customer-portal-software-oems-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Manuals, certificates, inspection records, service reports and warranty documents should be attached to the relevant customer and equipment records. That reduces manual document chasing and supports audit-heavy industries.",
+    "url": "https://toolsense.io/enterprise-software/white-label-customer-portal-software-oems-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "View installed machines and warranty status.",
+    "url": "https://toolsense.io/enterprise-software/white-label-customer-portal-software-oems-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "OEMs use customer portals to keep ownership of the digital customer relationship after the sale, reduce manual service communication and create a foundation for recurring service revenue.",
+    "url": "https://toolsense.io/enterprise-software/white-label-customer-portal-software-oems-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Walter Straßenbau KG is a mid-market road-building and civil-engineering firm in Swabia, southern Germany, with around 100 employees. Nils Obst is the deputy workshop manager and has been with the company for twelve years, looking after maintenance, parts and equipment across two sites, one in southern Germany and one in Saxony.",
+    "url": "https://toolsense.io/resources/customers/nils-obst-walter-strassenbau",
+    "pass": 1
+   },
+   {
+    "quote": "ToolSense: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/ToolSense",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/ToolSense",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/ToolSense",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/ToolSense",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/ToolSense",
+    "pass": 3
+   },
+   {
+    "quote": "ToolSense Revenue 2025: $5.7M Est.",
+    "url": "https://getlatka.com/companies/toolsense.io",
+    "pass": 3
+   },
+   {
+    "quote": "ToolSense has not published its revenue. GetLatka estimates it at about $5.7M a year (September 2025).",
+    "url": "https://getlatka.com/companies/toolsense.io",
+    "pass": 3
+   },
+   {
+    "quote": "ToolSense has 52 employees (September 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/toolsense.io",
+    "pass": 3
+   },
+   {
+    "quote": "What is ToolSense's revenue?",
+    "url": "https://getlatka.com/companies/toolsense.io",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates ToolSense's revenue at about",
+    "url": "https://getlatka.com/companies/toolsense.io",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does ToolSense have?",
+    "url": "https://getlatka.com/companies/toolsense.io",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/toolsense.io",
+    "pass": 3
+   },
+   {
+    "quote": "RARR Technologies Pvt. Ltd.",
+    "url": "https://getlatka.com/companies/toolsense.io",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/toolsense.io",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/toolsense.io",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/toolsense.io",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Asset register lived in finance. Operational tools had no system at all. Sites emailed each other to find a machine. That was the inefficiency we needed to fix.",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 1
+   },
+   {
+    "quote": "FM buyers and dealers expect a branded digital portal - not emailed invoices and PDFs.",
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "ToolSense is modular – pick the Hubs that fit your operation. Standard integrations (OEM cloud-to-cloud, robot brands, email/calendar, webhooks, CSV) are always included.",
+    "url": "https://toolsense.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Use the calculator on this page: pick the Hubs you want, tell us about your environment, and request a tailored quote. You leave your company name, your name, work email and phone, and our team replies within one business day with a tailored quote.",
+    "url": "https://toolsense.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Equipment compliance in Denmark is regulated, mandatory checks are set by the government. But the documentation lived locally. Spreadsheets were emailed back and forth, history sat with whoever was running the account, and every time someone left a contract or the company, a chunk of context went with them.",
+    "url": "https://toolsense.io/resources/customers/karen-fink-iss-denmark",
+    "pass": 1
+   },
+   {
+    "quote": "cycles run automatically against the right schedule, freeing up the manager hours that used to go into chasing emails and PDFs.",
+    "url": "https://toolsense.io/resources/customers/karen-fink-iss-denmark",
+    "pass": 1
+   },
+   {
+    "quote": "Asset register lived in finance. Operational tools had no system at all. Sites emailed each other to find a machine. That was the inefficiency we needed to fix.",
+    "url": "https://toolsense.io/resources/customers/gitte-agersbaek-maria-morel-coor",
+    "pass": 1
+   },
+   {
+    "quote": "scanning solved two problems at once. For the operator, the workflow is now: walk the route, scan tags, submit, and at end of day, see anything missed. The clipboard is gone, and so is the “did I get everything?” doubt. For Genentech, the client can scan any asset themselves and immediately see the inspection history. No emails. No work orders for a basic question.",
+    "url": "https://toolsense.io/resources/customers/aaron-leigh-nevatt-jll",
+    "pass": 1
+   },
+   {
+    "quote": "templates built to match the way it actually operates, including a request-for-quote flow so purchase orders are now created, tracked and closed inside ToolSense rather than ping-ponging through email.",
+    "url": "https://toolsense.io/resources/customers/myer-pincus-bidvest",
+    "pass": 1
+   },
+   {
+    "quote": "For many equipment OEMs and dealers, the customer relationship becomes surprisingly fragile after the machine is delivered. Service requests arrive by email, manuals are sent as PDFs, warranty conversations sit in personal inboxes and customers often use third-party systems to understand the equipment they bought from you.",
+    "url": "https://toolsense.io/enterprise-software/white-label-customer-portal-software-oems-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Email threads for customer communication.",
+    "url": "https://toolsense.io/enterprise-software/white-label-customer-portal-software-oems-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "The portal should let customers raise issues, upload photos, select assets and describe problems without emailing a generic inbox. Ideally, those requests become structured tickets in your",
+    "url": "https://toolsense.io/enterprise-software/white-label-customer-portal-software-oems-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "The risk is not only development time. The larger risk is building a portal that looks acceptable but does not connect deeply enough to service operations. Customers may log in once, find incomplete data and return to email.",
+    "url": "https://toolsense.io/enterprise-software/white-label-customer-portal-software-oems-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/ToolSense",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/ToolSense",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Facility Management Software for FM Operations - ToolSense — Facility Management Software for FM Operations - ToolSense ToolSense https://toolsense.io > product",
+    "url": "https://toolsense.io/product",
+    "pass": 3
+   },
+   {
+    "quote": "What Is ToolSense ? Learn About Advantages and Use Cases — What Is ToolSense ? Learn About Advantages and Use Cases ToolSense https://toolsense.io > Press",
+    "url": "https://toolsense.io/press/what-is-toolsense",
+    "pass": 3
+   },
+   {
+    "quote": "ToolSense : Facility Management Software for Fleets & Robots — ToolSense : Facility Management Software for Fleets & Robots ToolSense https://toolsense.io",
+    "url": "https://toolsense.io/",
+    "pass": 3
+   },
+   {
+    "quote": "ToolSense - LinkedIn — ToolSense - LinkedIn LinkedIn https://www.linkedin.com > toolsense",
+    "url": "https://www.linkedin.com/company/toolsense/",
+    "pass": 3
+   },
+   {
+    "quote": "ToolSense - Apps on Google Play — ToolSense - Apps on Google Play Google Play https://play.google.com > apps > details",
+    "url": "https://play.google.com/store/apps/details?id=com.toolsense.app",
+    "pass": 3
+   },
+   {
+    "quote": "ToolSense Reviews 2026: Details, Pricing, & Features - G2 — ToolSense Reviews 2026: Details, Pricing, & Features - G2 G2 https://www.g2.com > reviews",
+    "url": "https://www.g2.com/products/toolsense/reviews",
+    "pass": 3
+   },
+   {
+    "quote": "ToolSense : connect every machine, robot and van. - YouTube — ToolSense : connect every machine, robot and van. - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=8gHfFYzvQQY",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories – 250+ Companies Trust ToolSense — Customer Stories – 250+ Companies Trust ToolSense ToolSense https://toolsense.io > customers",
+    "url": "https://toolsense.io/resources/customers",
+    "pass": 3
+   },
+   {
+    "quote": "White - Label Customer Portal Software - ToolSense — White - Label Customer Portal Software - ToolSense ToolSense https://toolsense.io > Product",
+    "url": "https://toolsense.io/product/customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "ToolSense Raises €8 Million Series A to Make Asset-intensive ... — ToolSense Raises €8 Million Series A to Make Asset-intensive ... ToolSense https://toolsense.io > Press",
+    "url": "https://toolsense.io/press/toolsense-raises-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "ToolSense : Revenue , Competitors, Alternatives - Growjo — ToolSense : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > ToolSense",
+    "url": "https://growjo.com/company/ToolSense",
+    "pass": 3
+   },
+   {
+    "quote": "ToolSense - Crunchbase Company Profile & Funding — ToolSense - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > toolse...",
+    "url": "https://www.crunchbase.com/organization/toolsense",
+    "pass": 3
+   },
+   {
+    "quote": "ToolSense Revenue 2025: $5.7M Est. - GetLatka — ToolSense Revenue 2025: $5.7M Est. - GetLatka GetLatka https://getlatka.com > toolsense",
+    "url": "https://getlatka.com/companies/toolsense.io",
+    "pass": 3
+   },
+   {
+    "quote": "ToolSense - 2026 Company Profile & Team - Tracxn — ToolSense - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/toolsense/__qB14W32H4M0NZwpf0i2ZfVc3j5ayoel0EVxRxGFM6gw",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ToolSense (@ToolSense) / X The only place to browse and buy the entire Facom & Britool product range online.",
+    "url": "https://x.com/toolsense",
+    "pass": 3
+   },
+   {
+    "quote": "ToolSense (@tool_sense) / Posts / X \"Vor ToolSense? Sehr unübersichtlich. Wir sind unnötig rumgefahren wegen Kleinigkeiten, die der Mitarbeiter vor Ort selber hätte erledigen können.\" Vielen Dank für das tolle Feedback zu ToolSense!",
+    "url": "https://x.com/tool_sense",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by ToolSense (@tool_sense) / X What is Europe's best city for startups? The Startup Heatmap survey is asking founders, startup employees, investors and ecosystem builders across Europe on their opinion to change Europe for the better: survey.startupheatmap.eu @ tool_sense @ _MusicTraveler @ midnightdeal deep-ecosystems.com Startup Heatmap Europe Survey 1 2 2 ToolSense reposted rationell re",
+    "url": "https://x.com/tool_sense/reposts",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ToolSense - LinkedIn ToolSense - LinkedIn LinkedIn https://www.linkedin.com > toolsense",
+    "url": "https://www.linkedin.com/company/toolsense/",
+    "pass": 3
+   },
+   {
+    "quote": "ToolSense | LinkedIn ToolSense | LinkedIn LinkedIn https://www.linkedin.com > toolsense",
+    "url": "https://www.linkedin.com/products/toolsense/",
+    "pass": 3
+   },
+   {
+    "quote": "Alexander Manafi - CEO & Co-Founder @ ToolSense - LinkedIn Alexander Manafi - CEO & Co-Founder @ ToolSense - LinkedIn LinkedIn https://www.linkedin.com > manafi",
+    "url": "https://www.linkedin.com/in/manafi/",
+    "pass": 3
+   },
+   {
+    "quote": "ToolSense | LinkedIn ToolSense | LinkedIn LinkedIn Montenegro https://me.linkedin.com > toolsense",
+    "url": "https://me.linkedin.com/company/toolsense",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Auto- Tool Sense | Thunder Bay ON - Facebook Auto- Tool Sense | Thunder Bay ON - Facebook Facebook https://www.facebook.com > ... > Automotive Parts Store",
+    "url": "https://www.facebook.com/AutoToolSense/",
+    "pass": 3
+   },
+   {
+    "quote": "ToolSense Alappuzha (@toolssense) - Facebook ToolSense Alappuzha (@toolssense) - Facebook Facebook https://www.facebook.com > ... > Hardware Store",
+    "url": "https://www.facebook.com/toolssense/",
+    "pass": 3
+   },
+   {
+    "quote": "Auto- Tool Sense (@AutoToolSense) - Photos - Facebook Auto- Tool Sense (@AutoToolSense) - Photos - Facebook Facebook https://www.facebook.com > ... > Auto-Tool Sense",
+    "url": "https://www.facebook.com/AutoToolSense/photos/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://toolsense.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolsense.io/resources/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolsense.io/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolsense.io/solutions/fm-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolsense.io/solutions/oem-dealers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolsense.io/solutions/construction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolsense.io/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolsense.io/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolsense.io/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolsense.io/demo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolsense.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolsense.io/resources/customers/gabor-facsko-dussmann-hungary",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolsense.io/resources/customers/karen-fink-iss-denmark",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolsense.io/resources/customers/gitte-agersbaek-maria-morel-coor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolsense.io/resources/customers/aaron-leigh-nevatt-jll",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolsense.io/resources/customers/myer-pincus-bidvest",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolsense.io/resources/customers/bernd-steinreiber-iss-austria",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolsense.io/resources/customers/stoelting-service-group",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolsense.io/enterprise-software/white-label-customer-portal-software-oems-dealers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolsense.io/resources/customers/nils-obst-walter-strassenbau",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://toolsense.io/logos/facility-management/iss.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://toolsense.io/logos/facility-management/dussmann.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://toolsense.io/logos/facility-management/bidvest.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://toolsense.io/logos/facility-management/coor.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.youtube.com/watch?v=rVuMZ1M30Vo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://greatstarjapan.co.jp/uservoice/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.manageengine.jp/pace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tool.co.jp/company/agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/toolsense/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://play.google.com/store/apps/details?id=com.toolsense.app",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.g2.com/products/toolsense/reviews",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.globalshopsolutions.com/manufacturing-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tractian.com/en/blog/5-predictive-maintenance-success-stories-in-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=zAk9mO0WmDk",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/ToolSense",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/toolsense",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/toolsense.io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/toolsense",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tool_sense",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tool_sense/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/toolsense/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/toolsense/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/manafi/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://me.linkedin.com/company/toolsense",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AutoToolSense/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/toolssense/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AutoToolSense/photos/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ToolSense 日本 導入",
+   "results": [
+    "https://toolsense.io/product",
+    "https://toolsense.io/press/what-is-toolsense",
+    "https://www.youtube.com/watch?v=rVuMZ1M30Vo",
+    "https://greatstarjapan.co.jp/uservoice/",
+    "https://global.apptio.com/ja/company/news/",
+    "https://www.tooljapan.jp/",
+    "https://vn.emidas.com/ja/ohnoseiko/blog/33",
+    "https://info.toolsunited.com/ja/",
+    "https://www.youtube.com/watch?v=w2AxWJKfnk4",
+    "https://mwm.ai/ja/apps/toolsense/1456353293"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ToolSense 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://toolsense.io/product",
+    "https://toolsense.io/press/what-is-toolsense",
+    "https://www.manageengine.jp/pace/",
+    "https://www.tool.co.jp/ja/company/agent/",
+    "https://alitecs.jp/news/news14/",
+    "https://www.toolsintl.jp/company/distributors.html",
+    "https://smd.co.jp/dealers/",
+    "https://www.mitotool.com/distributor",
+    "https://www.toradex.com/ja-jp/news/jpca-electronics-components-unit-show-toradex-distributor-participation?srsltid=AYCX9vKuRczmgdkmvoMdAEqAc1gfAvweUEM-VOA8LAWCGOuFkm0b-348",
+    "https://ja.wikipedia.org/wiki/ジョージフィッシャー_(企業)"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ToolSense Japan",
+   "results": [
+    "https://toolsense.io/",
+    "https://www.linkedin.com/company/toolsense/",
+    "https://play.google.com/store/apps/details?id=com.toolsense.app",
+    "https://www.g2.com/products/toolsense/reviews",
+    "https://www.youtube.com/watch?v=8gHfFYzvQQY",
+    "https://my.toolsense.io/createAccount",
+    "https://www.getapp.com.au/software/2067178/toolsense",
+    "https://www.youtube.com/watch?v=UEwP1cTED4A",
+    "https://www.tooljapan.jp/en-gb.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "ToolSense manufacturing customer case study",
+   "results": [
+    "https://toolsense.io/resources/customers",
+    "https://www.globalshopsolutions.com/manufacturing-case-studies",
+    "https://tractian.com/en/blog/5-predictive-maintenance-success-stories-in-manufacturing",
+    "https://www.youtube.com/watch?v=zAk9mO0WmDk",
+    "https://eightgen.ai/case-studies/case-study-4",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://toolsense.io/videos/gabor-facsko-dussmann-hungary-x-alexander-manafi-toolsense-interview",
+    "https://www.oracle.com/europe/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://rainhouse.com/research-and-development/toolsense/",
+    "https://keenethics.com/toolsense"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ToolSense white label OR reseller OR partner program",
+   "results": [
+    "https://toolsense.io/product/customer-portal",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://getquantic.com/become-white-label-software-reseller/",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.reddit.com/r/ycombinator/comments/1hsdufh/anyone_offering_a_white_label_reseller_version_of/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://v2cloud.com/blog/white-label-saas-software-to-resell",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ToolSense founded funding employees revenue",
+   "results": [
+    "https://toolsense.io/press/toolsense-raises-series-a",
+    "https://growjo.com/company/ToolSense",
+    "https://www.crunchbase.com/organization/toolsense",
+    "https://getlatka.com/companies/toolsense.io",
+    "https://tracxn.com/d/companies/toolsense/__qB14W32H4M0NZwpf0i2ZfVc3j5ayoel0EVxRxGFM6gw",
+    "https://www.linkedin.com/pulse/toolsense-2025-year-review-40-percent-revenue-growth-achievement-namsf",
+    "https://checkthat.ai/brands/toolsense",
+    "https://www.facebook.com/marketwatch/posts/this-ai-startup-has-only-14-employees-and-a-fresh-10-billion-valuation/1459544309379219/",
+    "https://www.revenue.io/revenue-investors",
+    "https://prospeo.io/c/toolsense-revenue"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com ToolSense",
+   "results": [
+    "https://note.com/kshinmoto/n/n2dc551bf71b0?hl=en",
+    "https://note.com/hiroken0316/n/n2b6b57343b78?hl=en",
+    "https://note.com/hiroken0316/n/nb81f1e09f63f?hl=en",
+    "https://note.com/izumi_shogo/n/ned45b2f03b80?hl=en",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/tag/残されたメモ",
+    "https://note.com/kentabright/n/nb116f899a6ac",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/zoeyoshi/n/n5603d939450c",
+    "https://note.com/umakatsu_memo/n/n5adc22874d67"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:x.com ToolSense",
+   "results": [
+    "https://x.com/tool_sense/status/1522456142491832320",
+    "https://x.com/toolsense",
+    "https://x.com/tool_sense",
+    "https://x.com/tool_sense/reposts",
+    "https://x.com/tool_sense/with_replies",
+    "https://x.com/",
+    "https://x.com/StefanOettl",
+    "https://x.com/peteoxenham/status/2059752594915168506"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com ToolSense",
+   "results": [
+    "https://www.linkedin.com/company/toolsense/",
+    "https://www.linkedin.com/products/toolsense/",
+    "https://www.linkedin.com/in/manafi/",
+    "https://me.linkedin.com/company/toolsense",
+    "https://www.linkedin.com/posts/gro-capital_gro-backs-toolsense-to-build-the-leading-activity-7449456652262674432-Uxv8",
+    "https://at.linkedin.com/in/ploy-trucker",
+    "https://at.linkedin.com/company/toolsense",
+    "https://www.linkedin.com/pulse/toolsense-2025-year-review-40-percent-revenue-growth-achievement-namsf",
+    "https://www.linkedin.com/posts/uditlakhotia_ive-joined-toolsense-as-vp-of-sales-and-activity-7510357527696707584-5bnj",
+    "https://at.linkedin.com/in/lukas-kahr"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com ToolSense",
+   "results": [
+    "https://www.facebook.com/AutoToolSense/",
+    "https://www.facebook.com/toolssense/",
+    "https://www.facebook.com/AutoToolSense/photos/",
+    "https://m.facebook.com/TYROLIT/photos/a.341937819276195/2456018057868150/?type=3&eid=ARCmG0DvFeylGWrwo39Jnyew6V_Kx4Mz4w9RsgXe6RjYmXuv3fkIaOhlWYPrNWnQyWzrxcAYm6_CCUuL&locale=ne_NP&_rdr",
+    "https://www.facebook.com/MarkasGmbH/posts/%EF%B8%8F-in-der-neuen-werkstattgespr%C3%A4che-folge-spricht-thomas-meindorfer-von-markas-%C3%B6st/1284498267009814/",
+    "https://www.facebook.com/hairclub/videos/ladies-hair-loss-is-the-last-thing-you-need-but-it-happens-is-it-happening-from-/1459971398363959/",
+    "https://www.facebook.com/dtsolutionsgloucester/posts/2614428248781182/",
+    "https://www.facebook.com/groups/828531402106433/posts/1388154189477482/",
+    "https://www.facebook.com/Simpson70JRracing/posts/the-last-regular-season-night-at-thunder-city-speedway-thank-you-to-all-of-the-a/1391117562671872/",
+    "https://www.facebook.com/cindy.todd.752/photos/did-you-know-the-human-sense-of-smell-is-a-powerful-tool-sense-of-smell-can-prod/10157052356656497/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ToolSense note 社長",
+   "results": [
+    "https://toolsense.io/",
+    "https://note.com/kagitani/n/n4f9246e82402?hl=en",
+    "https://toolsense.io/about",
+    "https://x.com/sadaaki",
+    "https://note.com/schneider_jp/m/me1b726cd10da/hashtag/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "https://diamond.jp/articles/-/388572",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://note.com/jtechjapan/n/na01857a4c505",
+    "https://www.youtube.com/watch?v=tH6DErX9fLw",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ToolSense X 投稿",
+   "results": [
+    "https://toolsense.io/",
+    "https://www.youtube.com/watch?v=8gHfFYzvQQY",
+    "https://play.google.com/store/apps/details?id=com.toolsense.app",
+    "https://my.toolsense.io/createAccount",
+    "https://www.toolsense.co.uk/?srsltid=AYCX9vLz0USbXLCU7xzF3CMcf2co6SefNUXHU3A_psAb8lCAwtja6O9z",
+    "https://x.com/ToolsInAction",
+    "https://www.youtube.com/watch?v=YadFkJo48s4",
+    "https://github.com/toolx-dev/toolx",
+    "https://toolsense.io/sign-up",
+    "https://x.com/tool_sense"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部26頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部26頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部26頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部26頁・検索12回）"
+ }
+}

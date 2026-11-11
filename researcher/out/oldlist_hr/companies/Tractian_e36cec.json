@@ -1,0 +1,1408 @@
+{
+ "name": "Tractian",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T06:28:01.852030+00:00",
+ "official_url": "https://tractian.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$183.7M",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "label": "3. Seed Round",
+    "value": "01-May-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/463283-11",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Bring your facilities into one unified system to help your reliability program scale. As you expand, AI helps teams focus on what needs attention first, while integrations with your existing systems keep action in the tools they already use.",
+    "url": "https://tractian.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive maintenance software & predictive monitoring",
+    "url": "https://tractian.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Protect data center uptime",
+    "url": "https://tractian.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Reliability that holds under pressure",
+    "url": "https://tractian.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Tractian Videos on YouTube",
+    "url": "https://www.toolmage.com/ja/tool/tractian/",
+    "pass": 3
+   },
+   {
+    "quote": "Pragmaは、物理資産のライフサイクル全体を最適化するために設計されたAI駆動のエンタープライズ資産管理（EAM）プラットフォームです",
+    "url": "https://www.toolmage.com/ja/tool/tractian/",
+    "pass": 3
+   },
+   {
+    "quote": "#1 Product of the Day",
+    "url": "https://moge.ai/ja/product/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "We pull all-nighters in front of our computers so that maintenance professionals don't have to work night shifts in front of their machines.",
+    "url": "https://careers.tractian.com/leadership",
+    "pass": 3
+   },
+   {
+    "quote": "Industries are the foundation of our economy. Everything we consume comes from them, but often at an enormous cost to the workers who keep the world running without the necessary tools. It is a privilege to serve such a neglected sector, the one that literally keeps the world moving.",
+    "url": "https://careers.tractian.com/leadership",
+    "pass": 3
+   },
+   {
+    "quote": "Leverage frontline technology to tackle the world's toughest challenges and drive real change for those powering up our industries.",
+    "url": "https://careers.tractian.com/leadership",
+    "pass": 3
+   },
+   {
+    "quote": "Account Development Representative",
+    "url": "https://careers.tractian.com/leadership",
+    "pass": 3
+   },
+   {
+    "quote": "Account Development Representative (ADR)",
+    "url": "https://careers.tractian.com/leadership",
+    "pass": 3
+   },
+   {
+    "quote": "Data Scientist - Predictive Maintenance",
+    "url": "https://careers.tractian.com/leadership",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing / Graphic Design",
+    "url": "https://careers.tractian.com/leadership",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Account Executive",
+    "url": "https://careers.tractian.com/leadership",
+    "pass": 3
+   },
+   {
+    "quote": "Federal Enterprise Account Executive",
+    "url": "https://careers.tractian.com/leadership",
+    "pass": 3
+   },
+   {
+    "quote": "LATAM Performance Marketing Analyst",
+    "url": "https://careers.tractian.com/leadership",
+    "pass": 3
+   },
+   {
+    "quote": "Product Design Intern",
+    "url": "https://careers.tractian.com/leadership",
+    "pass": 3
+   },
+   {
+    "quote": "Regional Sales Director - Enterprise",
+    "url": "https://careers.tractian.com/leadership",
+    "pass": 3
+   },
+   {
+    "quote": "Senior Product Designer",
+    "url": "https://careers.tractian.com/leadership",
+    "pass": 3
+   },
+   {
+    "quote": "Product / Product Design",
+    "url": "https://careers.tractian.com/leadership",
+    "pass": 3
+   },
+   {
+    "quote": "Tractian exists to transform maintenance routines, identifying and bringing real change to outdated methods. They offer a streamlined fusion of hardware-software tools field teams need to operate their machines and become best-in-class. Trusted by thousands of organizations, TRACTIAN remains at the forefront of enterprise building technology.",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Paper and Forest Product Manufacturing",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "America's largest aluminum producer achieves 480% ROI with Tractian asset monitoring",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "America's Large Aluminum Producer",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "AmstedMaxion reduces downtime and improves maintenance reliability with Tractian",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Cadillac Casting prevents downtime and catches failures early with Tractian Condition Monitoring",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Corteva improves maintenance and avoids downtime with Tractian",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "ICL boosts OEE by 41% and recovers 400+ tons of production with Tractian Condition Monitoring",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "the world's largest pulp and paper producer saves $3.3 million with Tractian Asset Monitoring",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Large Pulp and Paper Producer",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Lyka achieves proactive maintenance and early failure detection with Tractian CMMS and condition monitoring",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "PCC Fasteners builds a proactive maintenance foundation with Tractian CMMS",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Proximo Spirits achieves predictive maintenance and full asset visibility with Tractian",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Sport Club Internacional improves asset management with Tractian's TracOS",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "The Fillo Factory achieves proactive maintenance and fewer breakdowns with Tractian",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Unilever protects over $700K in operational losses with Tractian condition monitoring",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Vibra Energy avoids production stoppages with Tractian's AI-powered monitoring and CMMS",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Paper and Forest Product Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise (1001+)",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "The world’s largest pulp and paper producer saves $3.3 million with Tractian",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Unilever protects $796K in losses in 112 days with Tractian",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Vibra avoids 4-day production stoppage with Tractian",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "unlock all of your customer references for prospects",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Predictive Maintenance Software",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "TRACTIAN is a Brazilian industrial IoT and SaaS company that equips maintenance teams with sensor-based machine health monitoring and predictive maintenance software.",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "of 1,301 interviewed companies",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": ". The list ranks the 1,301 companies Nathan Latka has interviewed by revenue.",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "TRACTIAN is privately held, so there is no TRACTIAN stock to buy. Investors valued it at $205M in its August 2023 Series B.",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Pre-Seed 2021",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Interviews with Igor Marinelli",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Nathan Latka has interviewed TRACTIAN once, speaking with Igor Marinelli. Each figure links to the second it was said.",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "How TRACTIAN Grew 10x to $100K MRR with 100 Customers and a $3.7M Seed Round (Interview with Co-Founder and Co-CEO Igor Marinelli)",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Net revenue retention",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Senior Sales Recruiter @ Tractian | 4x President's Club",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Senior Vice President Marketing",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Plant-Wide Visibility",
+    "url": "https://tractian.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by over 2,000 U.S. and global manufacturers",
+    "url": "https://tractian.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Source: Verdantix Verified Value Delivery Study for Tractian, 2026. Model customer: $200M-revenue manufacturer, 500 employees, 12 sites in scope, over a 3-year period.",
+    "url": "https://tractian.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Powering uptime and compliance in food & beverage plants",
+    "url": "https://tractian.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive maintenance software & predictive monitoring",
+    "url": "https://tractian.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Purpose-built for manufacturing maintenance",
+    "url": "https://tractian.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Tractian Maintenance Day - Driving Industrial Transformation Through Innovation & Connection",
+    "url": "https://www.toolmage.com/ja/tool/tractian/",
+    "pass": 3
+   },
+   {
+    "quote": "FactoryDBは、製造業者向けのベンダーロックインを解消するために設計された産業データインフラプラットフォームです",
+    "url": "https://www.toolmage.com/ja/tool/tractian/",
+    "pass": 3
+   },
+   {
+    "quote": "Meet the founders and operators who set an unapologetically high bar, putting their name on the hardware and AI that will define the next decade of global industry.",
+    "url": "https://careers.tractian.com/leadership",
+    "pass": 3
+   },
+   {
+    "quote": "Research and Development / Manufacturing Engineering",
+    "url": "https://careers.tractian.com/leadership",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Engineering",
+    "url": "https://careers.tractian.com/leadership",
+    "pass": 3
+   },
+   {
+    "quote": "Tractian exists to transform maintenance routines, identifying and bringing real change to outdated methods. They offer a streamlined fusion of hardware-software tools field teams need to operate their machines and become best-in-class. Trusted by thousands of organizations, TRACTIAN remains at the forefront of enterprise building technology.",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Appliances, Electrical, and Electronics Manufacturing",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Aviation and Aerospace Component Manufacturing",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Beverage Manufacturing",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Chemical Manufacturing",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Food and Beverage Manufacturing",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "HVAC and Refrigeration Equipment Manufacturing",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Machinery Manufacturing",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Motor Vehicle Parts Manufacturing",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Packaging and Containers Manufacturing",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Paper and Forest Product Manufacturing",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Railroad Equipment Manufacturing",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Great Plains Manufacturing reduces downtime with Tractian condition monitoring",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Great Plains Manufacturing",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Master Recharge SND - Customer Case Study",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Randoncorp reduces plant downtime and boosts ROI with Tractian",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Supermarket Company - Customer Case Study",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "The Fillo Factory achieves proactive maintenance and fewer breakdowns with Tractian",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Chemical Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Appliances, Electrical, and Electronics Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Food and Beverage Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Machinery Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Packaging and Containers Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Paper and Forest Product Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Pharmaceutical Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Beverage Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Railroad Equipment Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "HVAC and Refrigeration Equipment Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Aviation and Aerospace Component Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Motor Vehicle Parts Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supermarket Company - Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Great Plains Manufacturing catches 4 major failures in 3 weeks with Tractian",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "The Fillo Factory cuts downtime with Tractian, boosting MTBF 82%",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "TRACTIAN is a Brazilian industrial IoT and SaaS company that equips maintenance teams with sensor-based machine health monitoring and predictive maintenance software.",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an industrial monitoring platform designed for predictive maintenance and asset management.",
+    "url": "https://pitchbook.com/profiles/company/463283-11",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/463283-11",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an industrial monitoring platform designed for predictive maintenance and asset management. The company's p",
+    "url": "https://pitchbook.com/profiles/company/463283-11",
+    "pass": 3
+   },
+   {
+    "quote": "Hands: An automated chemical synthesis factory",
+    "url": "https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "4. Tractian: Reading 'Failure Predictions' for Factory Equipment with AI",
+    "url": "https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The company uses sensors attached to equipment to measure vibration, ultrasound, and other factors to create a single image of the machine's condition. From there, an AI agent diagnoses the cause and proposes countermeasures. It is said that large-scale industrial equipment failure data is used for training.",
+    "url": "https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Clients mentioned include Eli Lilly, McKesson, Whirlpool, Coca-Cola bottling plants, Cummins, and Embraer. According to the company, it is used by over 2,000 locations worldwide.",
+    "url": "https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For 500 major industrial companies, losses due to unplanned downtime are approximately 11% of revenue, or about $1.4 trillion annually (citing Siemens' January 2026 data)",
+    "url": "https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The average operating age of industrial fixed assets is 24 years",
+    "url": "https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "By 2030, there is a possibility that over 2.1 million jobs in the manufacturing sector will remain unfilled (citing Deloitte's forecast)",
+    "url": "https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Source: Verdantix Verified Value Delivery Study for Tractian, 2026. Model customer: $200M-revenue manufacturer, 500 employees, 12 sites in scope, over a 3-year period.",
+    "url": "https://tractian.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "TRACTIAN Revenue 2024: $32.2M Est., $183.7M Raised",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "TRACTIAN's last reported revenue was $1.2M in 2021 (Igor Marinelli on camera). Growjo puts it at about $32.2M a year (October 2024).",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": ". The list ranks the 1,301 companies Nathan Latka has interviewed by revenue.",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "All 4 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Net revenue retention",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "TRACTIAN CEO, founders & employees",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Igor Marinelli founded TRACTIAN in 2019 with Gabriel Lameirinhas and runs it as CEO. TRACTIAN had 446 employees (September 2024, LinkedIn), up from 293 a year earlier.",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Natália Barroso Menezes",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "What is TRACTIAN's revenue?",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Growjo estimates TRACTIAN's revenue at about",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does TRACTIAN have?",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "employees in September 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "How Tractian Grew to $1 Million in Revenue: Igor Marinelli's Strategy",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "The Latka List ranks the private, operating companies Nathan Latka has interviewed by the latest revenue figure on each profile, reported or estimated; equal figures share a rank.",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/463283-11",
+    "pass": 3
+   },
+   {
+    "quote": "Pin brazed mounting arrangement",
+    "url": "https://pitchbook.com/profiles/company/463283-11",
+    "pass": 3
+   },
+   {
+    "quote": "Tractian has 700 total employees.",
+    "url": "https://pitchbook.com/profiles/company/463283-11",
+    "pass": 3
+   },
+   {
+    "quote": "What is Tractian’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/463283-11",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Tractian is",
+    "url": "https://pitchbook.com/profiles/company/463283-11",
+    "pass": 3
+   },
+   {
+    "quote": "Note that this summary of market size and tailwinds was written as an investment rationale for the backers. Progress on actual monetization and customer acquisition is not shown in this document.",
+    "url": "https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "raised $130 million in a Series D round, bringing its valuation to $1.4 billion. Sapphire Ventures led the round, with M&G's Catalyst co-leading. N47, General Catalyst, Bosch Ventures, and Y Combinator also participated. The company is headquartered in Atlanta, USA, with offices in Monterrey, São Paulo, and Poland, and has over 700 employees.",
+    "url": "https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For 500 major industrial companies, losses due to unplanned downtime are approximately 11% of revenue, or about $1.4 trillion annually (citing Siemens' January 2026 data)",
+    "url": "https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Founder Igor Marinelli says the origin of the company lies in his father being a maintenance technician at a paper mill. A partner at Sapphire expressed the view that the expansion of physical infrastructure accompanying the AI boom is increasing the number of sites vulnerable to equipment failure. However, revenue-related figures such as sales and profits do not appear in this release.",
+    "url": "https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Tractian、OCIを活用し、数百ものAIモデルをより迅速かつ低コストで構築 | Oracle 日本",
+    "url": "https://www.oracle.com/jp/customers/tractian/",
+    "pass": 3
+   },
+   {
+    "quote": "Xona launched six satellites on a SpaceX Falcon 9 this Tuesday (October 20) and began deploying its commercial network. Four of these are for future customers, including Japan's Topcon, which makes positioning equipment for agriculture and construction. The remaining two are for verifying their own designs. Beta service is expected to begin early next year.",
+    "url": "https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Tractian、OCIを活用し、数百ものAIモデルをより迅速かつ低コストで構... — OCIの導入により、Tractianは大量のセンサー・データ、運用データ、産業データをリアルタイムで処理し、顧客における計画外停止を削減し、資産の信頼性を高め、重要な産業環境全体でメンテナンス業務を最適化するのに役立つ、実用的なインサイトを提供 ...",
+    "url": "https://www.oracle.com/jp/customers/tractian/",
+    "pass": 3
+   },
+   {
+    "quote": "Tractian | 予知保全とCMMSのためのAI産業用コパイロット - ToolMage — Sep 20, 2025 · Tractianの使い方 Tractianの導入と使用は、既存の産業ワークフローにシームレスに統合するために設計された、構造化されたサポート付きのプロセスに従います。",
+    "url": "https://www.toolmage.com/ja/tool/tractian/",
+    "pass": 3
+   },
+   {
+    "quote": "TRACTIAN:IoTセンサーとCMMSソフトウェアを組み合わせたAI駆動型産業... — TRACTIANは、人工知能とIoT技術によって突発的なダウンタイムを排除し、保全プロセスを最適化するために設計された先進的な産業用オペレーティングシステムです。プラットフォームは高度な振動・温度センサーとクラウド型監視システム、包括的な保全管理ソフトウェア（TracOS™）を統合して ...",
+    "url": "https://moge.ai/ja/product/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Demystifying TRACTIAN Technology: Most Common Questions — Oct 13, 2026 · Demystifying TRACTIAN Technology: Most Common Questions TRACTIAN is revolutionizing the way industries and facilities manage their maintenance. Our goal is simple: to empower the frontline workers of industries – the backbone of our economy – with the ideal combination of hardware and software they need to become the best in ",
+    "url": "https://tractian.com/en/blog/demystifying-tractian-technology-most-common-questions",
+    "pass": 3
+   },
+   {
+    "quote": "Tractian、シリーズDで1.3億ドル調達 評価額14億ドル | YUKU NEWS — Oct 24, 2026 · 産業設備向けフィジカルAIのTractianは米東部時間10月22日（日本時間23日）、シリーズDで1億3,000万ドル（約203億円）を調達したと発表しました。企業評価額は14億ドル（約2,191億円）です。Sapphire Ventur…",
+    "url": "https://yuku.co.jp/news/20261024133100-5858996a/",
+    "pass": 3
+   },
+   {
+    "quote": "Tractian Labs | Where Industrial AI Gets Built and Proven — Meet the Tractian AI Center: 100,000+ sq ft of applied-AI infrastructure. A controlled environments that reproduces real industrial conditions to build sensors, train models, and validate hardware before it ships.",
+    "url": "https://tractian.com/en/labs",
+    "pass": 3
+   },
+   {
+    "quote": "Tractian、OCIを活用し、数百ものAIモデルをより迅速かつ低コストで構... — Tractian、OCIを活用し、数百ものAIモデルをより迅速かつ低コストで構築 同社は、産業用監視システムのファインチューニングを進めるにあたり、AIモデルのトレーニングおよび推論ワークロードを拡大するためにOracle Cloud Infrastructureを活用しています。",
+    "url": "https://www.oracle.com/jp/customers/tractian/",
+    "pass": 3
+   },
+   {
+    "quote": "Tractian | 予知保全とCMMSのためのAI産業用コパイロット - ToolMage — Sep 20, 2025 · Tractianは、製造、メンテナンス、信頼性のためのAI搭載産業用コパイロットです。高度な状態監視センサー、AIによる故障検知、フル機能のCMMSを単一のプラットフォームに統合しています。このシステムは、機械の故障を予測してダウンタイムを防ぎ、メンテナンスのワークフローを合理化し ...",
+    "url": "https://www.toolmage.com/ja/tool/tractian/",
+    "pass": 3
+   },
+   {
+    "quote": "Leadership at Tractian — Our founders At Tractian, authority is earned through impact, not tenure. Our leadership team sets an unapologetically high bar and works alongside the team, not above it. Driven by extreme ownership and customer obsession, they tackle the grittiest challenges head-on. Their mission is simple: to engineer an unfair advantage for the frontline, ensuring the hardware and AI ",
+    "url": "https://careers.tractian.com/leadership",
+    "pass": 3
+   },
+   {
+    "quote": "Tractian | LinkedIn — Tractian モノのインターネット (IoT) ソフトウェア Tractian is a machine intelligence company that offers industrial monitoring systems. Tractian builds streamlined hardware-software solutions to give maintenance technicians and industrial decision-makers comprehensive oversight of their operations.",
+    "url": "https://jp.linkedin.com/company/tractian/",
+    "pass": 3
+   },
+   {
+    "quote": "Tractian Case Studies — Learn about how maintenance and reliability professionals use the Tractian end-to-end solution to make their routines more streamlined, reduce operational costs.",
+    "url": "https://tractian.com/en/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Social Proof & Peer Stories — Plant Manager in Manufacturing — It is what converts a maintenance program into a business case. This article draws on real Tractian customer results from manufacturing plants. The outcomes below are documented and verifiable, not projections. Each case study is linked so you can read the full story.",
+    "url": "https://tractian.com/en/who-we-serve/plant-manager/manufacturing/testimonials",
+    "pass": 3
+   },
+   {
+    "quote": "Tractian B2B Case Studies & Customer Successes — Tractian exists to transform maintenance routines, identifying and bringing real change to outdated methods. They offer a streamlined fusion of hardware-software tools field teams need to operate their machines and become best-in-class. Trusted by thousands of organizations, TRACTIAN remains at the forefront of enterprise building technology.",
+    "url": "https://www.casestudies.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "31 Tractian Case Studies, Success Stories, & Customer Stories — Tractian has a 4.8/5 star rating. Learn what their customers think, get 31 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: the world's largest pulp and paper producer saves ... — Large Pulp and Paper Producer - Customer Case Study Tractian provided its asset monitoring solution to a large pulp and paper producer to help address potential equipment failures. The customer needed a way to move from reactive to predictive maintenance to avoid costly downtime.",
+    "url": "https://www.casestudies.com/company/tractian/case-study/large-pulp-and-paper-producer-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "TRACTIAN Revenue 2024: $32.2M Est., $183.7M Raised - LATKA — 5 days ago · Igor Marinelli founded TRACTIAN in 2019 with Gabriel Lameirinhas and runs it as CEO. TRACTIAN had 446 employees (September 2024, LinkedIn), up from 293 a year earlier.",
+    "url": "https://getlatka.com/companies/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "TRACTIAN – Company Insights & Financial Strength – 2026 — The company holds a competitive position with revenue above the 5-company benchmark. Workforce expansion of 17% coincides with Series D funding activity at TRACTIAN. TRACTIAN, located in Sao Paulo, focuses on Tech Services. Investors have contributed $330M to TRACTIAN through 4 rounds. TRACTIAN averages $155.9K in revenue for each of its 70",
+    "url": "https://compworth.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "TRACTIAN - 2026 Company Profile, Team, Funding & Competitors ... — Jul 22, 2026 · TRACTIAN is a series C company based in Sao Paulo (Brazil), founded in 2019 by Gabriel Lameirinhas. It operates as an AI company specializing in predictive maintenance and asset monitoring for manufacturing. TRACTIAN has raised $196M in funding from investors like Next47, Y Combinator and General Catalyst. The compan",
+    "url": "https://tracxn.com/d/companies/tractian/__vIv7VxpWYbnuHWuozg9ietz-MLAI3YQQvtNJLGnf71Q",
+    "pass": 3
+   },
+   {
+    "quote": "Tractian 2026 Company Profile: Valuation, Funding & Investors ...Tractian — founder & CEO Igor Marinelli · $1.4BTractian Reaches Unicorn Status with $130M Funding and $1.4B ...TRACTIAN: Funding, Investors & Team (Nov 2026) | FundedIQ — Tractian FAQs When was Tractian founded? Tractian was founded in 2019. Where is Tractian headquartered? Tractian is headquartered in Atlanta, GA. What is the size o",
+    "url": "https://pitchbook.com/profiles/company/463283-11",
+    "pass": 3
+   },
+   {
+    "quote": "Tractian — founder & CEO Igor Marinelli · $1.4B — Oct 27, 2026 · Tractian — Physical AI for asset-heavy industries. Founder: Igor Marinelli. Latest valuation $1.4B. HQ Atlanta, Georgia. Founded 2019.",
+    "url": "https://siliconvalleyinvestclub.com/companies/tractian/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/463283-11",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "October 22, 2026: 4 Notable Overseas Startup Funding Rounds Oct 23, 2026 · 4. Tractian: Reading 'Failure Predictions' for Factory Equipment with AI 4-1. Funding and Business Overview Tractian raised $130 million in a Series D round, bringing its valuation to $1.4 billion. Sapphire Ventures led the round, with M&G's Catalyst co-leading. N47, General Catalyst, Bosch Ventures, and Y Combinator also p",
+    "url": "https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "October 22, 2026: 4 Notable Overseas Startup Funding Rounds｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "October 22, 2026: 4 Notable Overseas Startup Funding Rounds",
+    "url": "https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On October 22, 2026 (US time), four startups in the United States announced major funding rounds or business launches in succession. These include Xona Space Systems, a satellite company aiming to replace GPS; Warp Sciences, which is building automated chemistry labs for drug discovery; Warhound, which is taking on the challenge of domestic supply of military dogs; and Tractian, which handles AI-b",
+    "url": "https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Although the fields are diverse, the common theme among them is 'how software and AI can solve the constraints of the physical world.' This article will organize the four companies in order and then consider their commonalities. Please note that sources include Forbes articles, company press releases, and investor blogs. Regarding the latter, please keep in mind the perspective of the author.",
+    "url": "https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. Xona Space Systems: Building a 'GPS Alternative' with Satellites",
+    "url": "https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1-1. Funding Overview",
+    "url": "https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "California-based satellite startup",
+    "url": "https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Tractian (@tractian) / X Tractian (W21) is building physical AI for asset-heavy industries, helping factories and industrial operators monitor critical equipment, predict failures, and prevent costly downtime. Their platform combines proprietary sensors, software, and AI to monitor hundreds of thousands",
+    "url": "https://x.com/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Traded: Venture Capital on X: \"Tractian, a provider of ... Traded: Venture Capital on X: \"Tractian, a provider of physical AI platforms for asset-heavy industries, has raised $130 million in a Series D funding round at a $1.4 billion valuation. The round was led by Sapphire Ventures, co-led by M&G’s Catalyst, and included participation from N47, Bosch Ventures, General Catalyst, Endeavor Catalyst,",
+    "url": "https://x.com/TradedVC/status/2113646222422532595",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator on X: \"Tractian (W21) is building physical AI ... Tractian (W21) is building physical AI for asset-heavy industries, helping factories and industrial operators monitor critical equipment, predict failures, and prevent costly downtime. Their platform combines proprietary sensors, software, and AI to monitor hundreds of thousands of assets in real t…",
+    "url": "https://x.com/ycombinator/status/2118380319711625442",
+    "pass": 3
+   },
+   {
+    "quote": "Tractian on X: \"Stop sorting through alerts. Get the fault ... Stop sorting through alerts. Get the fault, severity, and recommended action.",
+    "url": "https://x.com/tractian/status/2086877637545234771",
+    "pass": 3
+   },
+   {
+    "quote": "Tractian (@tractian) / X Sep 17, 2019 · Tractian (W21) is building physical AI for asset-heavy industries, helping factories and industrial operators monitor critical equipment, predict failures, and prevent costly downtime.",
+    "url": "https://x.com/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Grok on X: \"@PunkXBT_ @stacy_muur Tractian makes IoT sensors ... Oct 23, 2026 · @PunkXBT_ @stacy_muur Tractian makes IoT sensors and AI software for industrial machines. They attach sensors that track vibration, temperature, pressure and more, then use AI to predict failures early and recommend maintenance—turning reactive repairs into proactive uptime. Over $100M ARR.",
+    "url": "https://x.com/grok/status/2113586689620795426",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tractian - LinkedIn Tractian Internet of Things (IoT) Software Tractian is a machine intelligence company that offers industrial monitoring systems. Tractian builds streamlined hardware-software solutions to give ...",
+    "url": "https://www.linkedin.com/company/tractian",
+    "pass": 3
+   },
+   {
+    "quote": "Tractian - LinkedIn Tractian | Tractian is a machine intelligence company that offers industrial monitoring systems. Tractian builds streamlined hardware-software solutions to give maintenance technicians and ...",
+    "url": "https://www.linkedin.com/products/get-tractian-tractian/",
+    "pass": 3
+   },
+   {
+    "quote": "Mauricio Del Hierro - TRACTIAN | LinkedInHardware Engineer na empresa Tractian — São Paulo, SP ...TRACTIAN 𝗠𝗫 | LinkedInIgor Marinelli - Tractian | LinkedInTractian: Jobs | LinkedIn Experiencia: TRACTIAN · Ubicación: Área metropolitana de Ciudad de México · Más de 500 contactos en LinkedIn. Ver el perfil de Mauricio Del Hierro en LinkedIn, una red profesional de más de 1.000 millones de miembros. ",
+    "url": "https://mx.linkedin.com/in/mdelhierro",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware Engineer na empresa Tractian — São Paulo, SP ... Candidate-se à vaga de Hardware Engineer da empresa Tractian em São Paulo, SP. Tempo integral Pleno-sênior da vaga. Veja as responsabilidades, qualificações e vagas semelhantes no LinkedIn.",
+    "url": "https://br.linkedin.com/jobs/view/hardware-engineer-at-tractian-4443433629",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Tractian | Atlanta GA - FacebookTRACTIAN | São Paulo SP - FacebookNot all CMMS are created equal. Tractian brings AI to the ...TRACTIAN MX | Mexico City - FacebookTraction Ag - FacebookIgor Marinelli, Tractian CEO, takes us inside Tractian’s new ...Tired of maintenance alerts crying wolf? Tractian puts an end ... Tractian, Atlanta. 4,214 followers · 828 talking about this. 梨 Asset health monitorin",
+    "url": "https://www.facebook.com/get.tractian/",
+    "pass": 3
+   },
+   {
+    "quote": "TRACTIAN | São Paulo SP - FacebookNot all CMMS are created equal. Tractian brings AI to the ...TRACTIAN MX | Mexico City - FacebookTraction Ag - FacebookIgor Marinelli, Tractian CEO, takes us inside Tractian’s new ...Tired of maintenance alerts crying wolf? Tractian puts an end ... TRACTIAN, São Paulo. 12,570 followers · 3,778 talking about this · 29 were here. 梨 Tudo o que você precisa para geren",
+    "url": "https://www.facebook.com/tractian/",
+    "pass": 3
+   },
+   {
+    "quote": "Not all CMMS are created equal. Tractian brings AI to the ... Dec 1, 2025 · Not all CMMS are created equal. Tractian brings AI to the floor, analyzing work history, documents, inspections, and IoT data to guide teams, not just records.",
+    "url": "https://www.facebook.com/reel/1837984490174085/",
+    "pass": 3
+   },
+   {
+    "quote": "TRACTIAN MX | Mexico City - FacebookTraction Ag - FacebookIgor Marinelli, Tractian CEO, takes us inside Tractian’s new ...Tired of maintenance alerts crying wolf? Tractian puts an end ... Oct 6, 2026 · TRACTIAN MX, Mexico City. 45,883 followers · 2,364 talking about this · 6 were here. Copiloto industrial para mantenimiento predictivo Oct 16, 2026 · Traction Ag. 1,380 followers · 53 talking about ",
+    "url": "https://www.facebook.com/tractian.mx/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://tractian.com/en",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://imgix.tractian.com/website/pages/home/multi-modal/manufacturing.png?auto=format%2Ccompress&cs=origin&fit=max&q=75&w=640",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.oracle.com/jp/customers/tractian/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toolmage.com/ja/tool/tractian/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://moge.ai/ja/product/tractian",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/ARCHION",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/jp/customers/tractian/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toolmage.com/ja/tool/tractian/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://careers.tractian.com/leadership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/tractian",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/tractian",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/tractian",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/tractian/__vIv7VxpWYbnuHWuozg9ietz-MLAI3YQQvtNJLGnf71Q",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/463283-11",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tractian",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TradedVC/status/2113646222422532595",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ycombinator/status/2118380319711625442",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tractian/status/2086877637545234771",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tractian",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/get-tractian-tractian/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mx.linkedin.com/in/mdelhierro",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://br.linkedin.com/jobs/view/hardware-engineer-at-tractian-4443433629",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/get.tractian/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tractian/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/reel/1837984490174085/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tractian.mx/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tractian",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/grok/status/2113586689620795426",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tractian 日本 導入",
+   "results": [
+    "https://www.oracle.com/jp/customers/tractian/",
+    "https://www.toolmage.com/ja/tool/tractian/",
+    "https://moge.ai/ja/product/tractian",
+    "https://tractian.com/en/blog/demystifying-tractian-technology-most-common-questions",
+    "https://yuku.co.jp/news/20261024133100-5858996a/",
+    "https://tractian.com/en/case-studies",
+    "https://earthkey.blog/global/産業オペレーションを支える人工知能tractian-2/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tractian 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ARCHION",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.trancy.co.jp/english/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tractian Japan",
+   "results": [
+    "https://tractian.com/en/labs",
+    "https://www.oracle.com/jp/customers/tractian/",
+    "https://www.toolmage.com/ja/tool/tractian/",
+    "https://careers.tractian.com/leadership",
+    "https://jp.linkedin.com/company/tractian/",
+    "https://moge.ai/ja/product/tractian",
+    "https://tractian.com/en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tractian manufacturing customer case study",
+   "results": [
+    "https://tractian.com/en/case-studies",
+    "https://tractian.com/en/who-we-serve/plant-manager/manufacturing/testimonials",
+    "https://www.casestudies.com/company/tractian",
+    "https://www.featuredcustomers.com/vendor/tractian/case-studies",
+    "https://www.casestudies.com/company/tractian/case-study/large-pulp-and-paper-producer-customer-case-study",
+    "https://www.nvidia.com/en-us/case-studies/tractian/",
+    "https://tractian-webpage.s3.amazonaws.com/cases/en/US-CaseStudies-CPKelco.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tractian white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.strikingly.com/reseller-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tractian founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/tractian",
+    "https://compworth.com/company/tractian",
+    "https://tracxn.com/d/companies/tractian/__vIv7VxpWYbnuHWuozg9ietz-MLAI3YQQvtNJLGnf71Q",
+    "https://pitchbook.com/profiles/company/463283-11",
+    "https://siliconvalleyinvestclub.com/companies/tractian/",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7520477813653782528/",
+    "https://fundediq.co/tractian-tractian-com-funding/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Tractian",
+   "results": [
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/oomamedo/n/nd9fd978c9312?hl=en"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tractian",
+   "results": [
+    "https://x.com/tractian",
+    "https://x.com/TradedVC/status/2113646222422532595",
+    "https://x.com/ycombinator/status/2118380319711625442",
+    "https://x.com/tractian/status/2086877637545234771",
+    "https://x.com/tech_by_pw/status/2113309302698168464",
+    "https://x.com/tractarian_",
+    "https://x.com/tractarian_/reposts"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Tractian",
+   "results": [
+    "https://www.linkedin.com/company/tractian",
+    "https://www.linkedin.com/products/get-tractian-tractian/",
+    "https://mx.linkedin.com/in/mdelhierro",
+    "https://br.linkedin.com/jobs/view/hardware-engineer-at-tractian-4443433629",
+    "https://www.linkedin.com/products/tractian-mx-tractian/",
+    "https://www.linkedin.com/in/igmarinelli",
+    "https://www.linkedin.com/company/tractian/jobs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tractian",
+   "results": [
+    "https://www.facebook.com/get.tractian/",
+    "https://www.facebook.com/tractian/",
+    "https://www.facebook.com/reel/1837984490174085/",
+    "https://www.facebook.com/tractian.mx/",
+    "https://www.facebook.com/tractionagllc/",
+    "https://www.facebook.com/get.tractian/videos/igor-marinelli-tractian-ceo-takes-us-inside-tractians-new-atlanta-office-and-sha/3292920857763608/",
+    "https://www.facebook.com/get.tractian/videos/tractian-fix-issues-before-problems/812100278414464/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tractian note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://careers.tractian.com/leadership",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tractian X 投稿",
+   "results": [
+    "https://x.com/tractian",
+    "https://x.com/grok/status/2113586689620795426",
+    "https://tractian.com/en/blog/tractian-raises-series-d-to-scale-physical-ai",
+    "https://tractian.com/en",
+    "https://auth.tractian.com/start.cfm",
+    "https://tansajp.org/investigativejournal/13936/",
+    "https://x-force.thinkforce.co.jp/archives/461"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部35頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部35頁・検索12回）"
+ }
+}

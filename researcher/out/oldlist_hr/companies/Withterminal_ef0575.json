@@ -1,0 +1,1049 @@
+{
+ "name": "Withterminal",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T06:44:03.681560+00:00",
+ "official_url": "https://withterminal.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "01-Sep-2023    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/530754-40",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "One platform that connects your product to",
+    "url": "https://www.withterminal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "telematics providers. We take care of the underlying details.",
+    "url": "https://www.withterminal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Provider APIs break, fleets disconnect and re-enroll, and growth forces constant rebuilds.",
+    "url": "https://www.withterminal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Edge cases and reactive fixes tie up your best engineers, who burn months on each provider's quirks.",
+    "url": "https://www.withterminal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "integrations. Integrate once and get back to your product.",
+    "url": "https://www.withterminal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "White labeled down to your logo and colors. Fleets feel like they never left your product, and convert at a high rate.",
+    "url": "https://www.withterminal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Access to historical data and full GPS granularity, ingested fast and delivered to you reliably. We proactively monitor data quality and tell you when something is off at the source.",
+    "url": "https://www.withterminal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We act only as a data subprocessor. We don't resell your data or step between you and your customers or partners. Access to raw data payloads mean you're never limited.",
+    "url": "https://www.withterminal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We manage the data infrastructure layer. The predictive models, products, workflows, and business relationships on top are your core differentiation.",
+    "url": "https://www.withterminal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Act only as your data subprocessor",
+    "url": "https://www.withterminal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Provide the data infrastructure you need to scale",
+    "url": "https://www.withterminal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use your data to build products of our own",
+    "url": "https://www.withterminal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Integration coverage that holds up in production",
+    "url": "https://www.withterminal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Telematics infrastructure for commercial fleet service providers",
+    "url": "https://www.withterminal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve your combined ratio with data driven loss and expense optimization.",
+    "url": "https://www.withterminal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale Telematics data to improve fleet visibility, asset utilization, and process automation.",
+    "url": "https://www.withterminal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent fuel fraud at the pump with real time vehicle and transaction validation.",
+    "url": "https://www.withterminal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team releases dozens of updates a day and publishes a changelog every week. Everything is documented, so you track every product improvement.",
+    "url": "https://www.withterminal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One integration with Terminal expands your ecosystem. Your fleet customers get access to connected services from the leading insurers, software companies, and fleet service providers.",
+    "url": "https://www.withterminal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "You keep the business relationships and the data ownership. We stay in the background as an enabler and data subprocessor.",
+    "url": "https://www.withterminal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We work with every kind of company using telematics data, so we understand what the market needs. All of this insight comes back to you, so you can further improve your platform.",
+    "url": "https://www.withterminal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "No. Our platform is entirely white-labelled to each customer and we hold no rights to data beyond acting as a subprocessor. We bring you and our customers together and handle the technology in between. The business relationships and data stay in your control.",
+    "url": "https://www.withterminal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-scale work",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "processed across real-time and batch jobs.",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "At most companies, a small elite group carries the team. Here, that's everyone. High talent density lets us stay small and do the work of a much larger company, and we protect it even when it means growing slower.",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Connected vehicles produce enormous amounts of data. We work on hard problems at scale.",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We invest in tools that give us leverage, minimize process, and stay tightly aligned on our vision.",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Strong retention with many customers increasing their usage 2-3X per year.",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A senior team of engineers and operators who have built data infrastructure and scaled teams at startups and enterprises alike, now focused on one hard problem together. If you join, these are the people who will interview you and the ones you'll build with.",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Tech Lead, Product Engineering",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Startup sales leader and enterprise dealmaker. Drove GTM growth and strategy at an insurance startup. Whoop age vampire.",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Generalist software engineer. Built backend and data systems across early-stage startups and enterprises. Cooking everyone dinner.",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Experienced generalist. Built communications software that both the president and Jay-Z used. Jazz drummer with a Spotify listening age of 82.",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“ Terminal is the kind of place where you can grow quickly without feeling thrown in alone. The team is highly driven and ambitious, but never pushy. People work hard, support each other, and still maintain a genuinely healthy work-life balance. It’s rare to find a startup that already feels this mature and promising while still giving you the opportunity to make visible impact. ”",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“ Terminal hits the sweet spot of operating with the vision and maturity of a much larger organization alongside the agility and ownership that comes with early-stage startups. We solve challenging technical problems and have sustainable work-life balance that most startups can only promise. ”",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“ Working at Terminal has been a rewarding experience. Solving a niche Telematics problem and building a data platform from the ground up to handle massive scale is an engineer’s paradise. Plus, the flat org structure and great work-life balance make it an amazing place to work! ”",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“ Terminal is a very special place. You will execute on a focused vision with clear product-market fit, solve highly challenging engineering problems with tangible customer impact, collaborate with team members who are brilliant and supportive, and still have a personal life. Don't settle for less. ”",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“ Terminal is the earliest stage company I've ever worked for, yet it's also the most organized and with the clearest vision. Prepared with the context of our customers' goals and our company vision - we are able to deliver on initiatives in ways you expect from a team 5 times our size. ”",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We approach customer problems as our own. We anticipate what they need, act in their best interest, and stay honest and proactive even when something goes wrong. We measure ourselves on their outcomes, not on what we shipped.",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We maintain an incredibly high bar for ourselves. Every product decision, every line of code, every customer interaction—in everything we do we strive for world class. We obsess over the details and constantly aim to raise the bar on quality.",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Speed matters but speed without the right direction becomes wasted effort. We move fast through building tools that give our internal teams leverage, and over investing into developing unique insights that improve the quality of our strategic decisions.",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Everyone here owns something and drives it end to end. That means taking an unclear problem, shaping the plan, bringing others along for the ride and seeing through to the end result, without waiting to be told what to do.",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We believe the people you hire is the company you build, so we aim to be overwhelmingly generous with equity. You are joining a team where everyone acts like an owner by default and has meaningful upside in the success of the company.",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "providers. Bring your loss ratio down by underwriting and pricing on how fleets actually drive instead of self-reported numbers.",
+    "url": "https://www.withterminal.com/product/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Terminal provides historical and ongoing telematics data, consented by the fleet and inspectable down to the raw data. Use historical data to underwrite and price, and the ongoing data to run loss control and claims.",
+    "url": "https://www.withterminal.com/product/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Inspect a fleet's historical driving data before you bind: fleet size, radius of operation, garaging, mileage, and dashcam presence.",
+    "url": "https://www.withterminal.com/product/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Power safety coaching and loss control programs that help fleets reduce the frequency and severity of claims before they happen.",
+    "url": "https://www.withterminal.com/product/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Build proprietary risk models on GPS, safety events, driver behaviour, and vehicle health. Price every fleet on how it actually performs.",
+    "url": "https://www.withterminal.com/product/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Terminal provides telematics data at full granularity and full history, never downsampled. Every data model is normalized for you and backed by its raw payload, so you can always validate it against the source.",
+    "url": "https://www.withterminal.com/product/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Each vehicle's year, make, model, fuel type, and license plate for every vehicle, the inventory underwriters price against.",
+    "url": "https://www.withterminal.com/product/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "\"provider\": \"geotab\",",
+    "url": "https://www.withterminal.com/product/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "\"provider\": \"samsara\",",
+    "url": "https://www.withterminal.com/product/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "\"provider\": \"motive\",",
+    "url": "https://www.withterminal.com/product/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "\"provider\": \"azuga\",",
+    "url": "https://www.withterminal.com/product/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "\"roadSpeedLimit\": 95.33,",
+    "url": "https://www.withterminal.com/product/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Implementation, in practice",
+    "url": "https://www.withterminal.com/product/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Build your own underwriting, pricing, and risk models on the data, with our support.",
+    "url": "https://www.withterminal.com/product/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Improve your loss ratio with better telematics data",
+    "url": "https://www.withterminal.com/product/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Terminal gives you normalized location, diagnostics, fuel, and engine data from every provider. Use it to see every vehicle, stay ahead of maintenance, and take cost out of running the fleet, at any scale.",
+    "url": "https://www.withterminal.com/product/fleet-management",
+    "pass": 1
+   },
+   {
+    "quote": "Know every detail about every vehicle. Terminal delivers location, trip activity, and vehicle status as canonical objects, normalized across providers, so visibility works the same no matter what hardware a fleet runs.",
+    "url": "https://www.withterminal.com/product/fleet-management",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by companies running critical workflows on telematics data",
+    "url": "https://www.withterminal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ingested for some of the largest commercial auto insurers, software companies, and fleet operators in North America.",
+    "url": "https://www.withterminal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Fortune 500s and public companies running critical workflows",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A senior team of engineers and operators who have built data infrastructure and scaled teams at startups and enterprises alike, now focused on one hard problem together. If you join, these are the people who will interview you and the ones you'll build with.",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by companies running critical workflows on telematics data",
+    "url": "https://www.withterminal.com/product/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams running critical workflows on telematics data",
+    "url": "https://www.withterminal.com/product/fleet-management",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading fuel card programs in North America",
+    "url": "https://www.withterminal.com/product/fuel-cards",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by companies running critical workflows on telematics data",
+    "url": "https://www.withterminal.com/product/transportation-management",
+    "pass": 1
+   },
+   {
+    "quote": "delivers a strong combination of operational visibility, structured workflows and modern yard management tools. The platform is easy for operators to adopt and provides a clear, consistent process across gate, dispatch, and spotter roles. It improves coordination and reduces manual back and forth",
+    "url": "https://terminal-industries.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Configured `PoolBlockingPeriod.NeverBlock` for SQL Server health checks. This avoids the impact caused by the connection pool blocking period.",
+    "url": "https://note.com/tomokusaba/n/n579435e1c5ee?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Reduced blocking caused by weak references during Java interop bridge collection. This improves interop processing during garbage collection.",
+    "url": "https://note.com/tomokusaba/n/n579435e1c5ee?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Moved `SocketAsyncEngine` to CoreLib so it can be used by different `SafeHandle` types.",
+    "url": "https://note.com/tomokusaba/n/n579435e1c5ee?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "White labeled down to your logo and colors. Fleets feel like they never left your product, and convert at a high rate.",
+    "url": "https://www.withterminal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay fully white labeled, with your brand in front",
+    "url": "https://www.withterminal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No. Our platform is entirely white-labelled to each customer and we hold no rights to data beyond acting as a subprocessor. We bring you and our customers together and handle the technology in between. The business relationships and data stay in your control.",
+    "url": "https://www.withterminal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "White labeled down to your logo and colors. Fleets feel like they never left your product, and convert at a high rate.",
+    "url": "https://www.withterminal.com/product/fleet-management",
+    "pass": 1
+   },
+   {
+    "quote": "White labeled down to your logo and colors. Fleets feel like they never left your product, and convert at a high rate.",
+    "url": "https://www.withterminal.com/product/fuel-cards",
+    "pass": 1
+   },
+   {
+    "quote": "White labeled down to your logo and colors. Fleets feel like they never left your product, and convert at a high rate.",
+    "url": "https://www.withterminal.com/product/transportation-management",
+    "pass": 1
+   },
+   {
+    "quote": "We provide a white-labelled",
+    "url": "https://www.ycombinator.com/companies/terminal",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "partnerships@withterminal.com",
+    "url": "https://www.withterminal.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "\"email\": \"driver@example.com\",",
+    "url": "https://www.withterminal.com/product/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/530754-40",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Trusted by Fortune 500s and public companies running critical workflows",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "At most companies, a small elite group carries the team. Here, that's everyone. High talent density lets us stay small and do the work of a much larger company, and we protect it even when it means growing slower.",
+    "url": "https://www.withterminal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Verify that a carrier runs the vehicles and equipment they claim. Give shippers and brokers real-time tracking and ETAs.",
+    "url": "https://www.withterminal.com/product/transportation-management",
+    "pass": 1
+   },
+   {
+    "quote": "“ A TMS lives or dies on whether dispatchers can see where their trucks and drivers are. Terminal gives us real-time location, HOS and trip data from whatever telematics hardware a carrier already runs, so we can turn on tracking and ETAs from day one instead of asking customers to switch devices. That makes it far easier to bring a new fleet on board. “",
+    "url": "https://www.withterminal.com/product/transportation-management",
+    "pass": 1
+   },
+   {
+    "quote": "where you want an interactive prompt inside a container or executable while it runs as part of your app model.",
+    "url": "https://aspire.dev/app-host/with-terminal/",
+    "pass": 3
+   },
+   {
+    "quote": "Our overall experience with Terminal has been excellent. The solution is intuitive, dependable, and well-suited to complex, real world use cases. We've seen meaningful efficiency gains since adopting the platform, and the product roadmap and support engagement give us confidence in its long-term value. Terminal has become a trusted part of our technology stack.",
+    "url": "https://terminal-industries.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/530754-40",
+    "pass": 3
+   },
+   {
+    "quote": "Terminal has 17 total employees.",
+    "url": "https://pitchbook.com/profiles/company/530754-40",
+    "pass": 3
+   },
+   {
+    "quote": "What is Terminal’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/530754-40",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Terminal is",
+    "url": "https://pitchbook.com/profiles/company/530754-40",
+    "pass": 3
+   },
+   {
+    "quote": "Terminal Revenue 2024: $5M Est.",
+    "url": "https://getlatka.com/companies/withterminal.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Terminal has not published its revenue. GetLatka estimates it at about $5M a year (June 2024).",
+    "url": "https://getlatka.com/companies/withterminal.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Terminal CEO, founders & employees",
+    "url": "https://getlatka.com/companies/withterminal.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Raghav Midha founded Terminal in 2023 and runs it as CEO. Terminal had 11 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/withterminal.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "What is Terminal's revenue?",
+    "url": "https://getlatka.com/companies/withterminal.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Terminal's revenue at about",
+    "url": "https://getlatka.com/companies/withterminal.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Terminal have?",
+    "url": "https://getlatka.com/companies/withterminal.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/withterminal.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/withterminal.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/withterminal.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/withterminal.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": ". Confirmed on September 29, 2026, at 06:01:48.820 JST, the target PRs for this report are limited to those listed.",
+    "url": "https://note.com/tomokusaba/n/n579435e1c5ee?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Limited tab CSS selectors to the header owned by the component itself to prevent orientation styles from interfering between nested tabs. The orientation of parent and child tabs can now be maintained independently.",
+    "url": "https://note.com/tomokusaba/n/n579435e1c5ee?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Test TUI and shell apps using WithTerminal | Aspire — Configure interactive resource terminals with WithTerminal, choose initial dimensions, and attach from the Aspire dashboard, CLI, or VS Code.",
+    "url": "https://aspire.dev/app-host/with-terminal/",
+    "pass": 3
+   },
+   {
+    "quote": "Terminal: Plaid for Telematics Data in Commercial Trucking ... — Terminal (withterminal.com) is a Universal API for Telematics that makes it easy for these teams to integrate all of the top telematics platforms into their application without needing to worry about the complex underlying details. 😰 Problem",
+    "url": "https://www.ycombinator.com/companies/terminal",
+    "pass": 3
+   },
+   {
+    "quote": "Telematics Data Infrastructure | Terminal — “ One integration with Terminal gives us data from hundreds of telematics providers, and we can confirm a driver is on-duty, their truck is actually at the pump and needs fuel before a transaction clears, so we stop fraud at the source. What really sets them apart is the team and the support they provide.",
+    "url": "https://www.withterminal.com/",
+    "pass": 3
+   },
+   {
+    "quote": "All Case Studies - Terminal Industries — case-study Terminal YOS receives second 5 star Gartner Peer Insights Review: \"Terminal Delivers Immediate Efficiency Gains and Consistent Long-Term Platform Value\" Our overall experience with Terminal has been excellent. The solution is intuitive, dependable, and well-suited to complex, real world use cases.",
+    "url": "https://terminal-industries.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Terminal 2026 Company Profile: Valuation, Funding & Investors ...Terminal: Funding, Investors & Team (Nov 2026) | FundedIQTerminal company profile | DureachTerminal - 2026 Company Profile, Team, Funding & Competitors ...How Terminal hit $5M revenue with a 11 person team in 2024.Terminal - 2026 Company Profile, Team, Funding & Competitors ...Terminal (YC S23) — investors & funding | gritt.io — Term",
+    "url": "https://pitchbook.com/profiles/company/530754-40",
+    "pass": 3
+   },
+   {
+    "quote": "Terminal - 2026 Company Profile, Team, Funding & Competitors ...How Terminal hit $5M revenue with a 11 person team in 2024.Terminal - 2026 Company Profile, Team, Funding & Competitors ...Terminal (YC S23) — investors & funding | gritt.io — Apr 6, 2026 · Terminal is a seed company based in Toronto (Canada), founded in 2023 by Connor Giles and Raghav Midha. It operates as an API-based platform for i",
+    "url": "https://tracxn.com/d/companies/terminal/__ga6qVNLti9uvk-RPuKH4KN_qdYgKli31TSg2HOJMqIU",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "2026-09-29 OSS PR Summary — Trends in Major Repositories like ... Enabled the `aspire` `ps`, `attach`, and `tape` commands without the `terminalCommandsEnabled` flag. The handling of the experimental `WithTerminal` feature remains unchanged. This PR is a backport reflecting the same changes to the `release/13.6` branch. View PR",
+    "url": "https://note.com/tomokusaba/n/n579435e1c5ee?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "2026-09-29 OSS PR Summary — Trends in Major Repositories like .NET and Microsoft OSS｜草場友光",
+    "url": "https://note.com/tomokusaba/n/n579435e1c5ee?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2026-09-29 OSS PR Summary — Trends in Major Repositories like .NET and Microsoft OSS",
+    "url": "https://note.com/tomokusaba/n/n579435e1c5ee?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "From the PRs merged on September 28, 2026, we introduce the trends of six OSS repositories, including Microsoft Fluent UI Blazor, Aspire, .NET Runtime, and Agent Framework. We have summarized functional improvements, bug fixes, and CI/documentation updates for each repository.",
+    "url": "https://note.com/tomokusaba/n/n579435e1c5ee?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The aggregation period is",
+    "url": "https://note.com/tomokusaba/n/n579435e1c5ee?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "from 2026-09-28 00:00:00 UTC to 2026-09-28 21:01:48.821 UTC",
+    "url": "https://note.com/tomokusaba/n/n579435e1c5ee?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". Confirmed on September 29, 2026, at 06:01:48.820 JST, the target PRs for this report are limited to those listed.",
+    "url": "https://note.com/tomokusaba/n/n579435e1c5ee?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The target repositories are `microsoft/fluentui-blazor`, `microsoft/fluentui`, `microsoft/aspire`, `dotnet/runtime`, `microsoft/agent-framework`, and `m5stack/StackChan`.",
+    "url": "https://note.com/tomokusaba/n/n579435e1c5ee?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "microsoft/fluentui-blazor",
+    "url": "https://note.com/tomokusaba/n/n579435e1c5ee?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "deecayz ⌐ - (@deecayz) / X deecayz ⌐ - @deecayz Nov 20, 2025 I’m officially partnering with Terminal (formerly @tradingterminal) Since i joined Terminal, it completely improved my daily trades, after being stuck on a very old method for 1.5 years If you're looking for a fast, reliable, and feature-packed way to trade with intuitive interface, Show more 39 20 195",
+    "url": "https://x.com/deecayz",
+    "pass": 3
+   },
+   {
+    "quote": "Terminal Finance (@Terminal_fi) / X Even with Terminal’s vaults at capacity, your PT-tUSDe doesn’t have to sit idle. A new PT-tUSDe/USDC market on Morpho trusted by @hyperithm lets you use PT-tUSDe as collateral. USDC liquidity comes from Hyperithm’s vault. You can keep earning 12% APY while gaining liquidity.",
+    "url": "https://x.com/Terminal_fi",
+    "pass": 3
+   },
+   {
+    "quote": "Terminal (@TradingTerminal) / X Trade seamlessly with Terminal: - EVM limit orders - EVM cashback - Dexscreener previews - Discord Alpha Tracker - EVM wallet tracker - & much more! Switch to a platform that wants you to win wherever you trade.",
+    "url": "https://x.com/tradingterminal",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Klub Terminal Klubterminal | Downey CA - FacebookTerminal.io - FacebookMultiferretero del Oriente | FacebookAzteca Noticias | FacebookTerminal - FacebookWhen my best friend got diagnosed with terminal stage 4 ...I understand that we won't be able to get this message out to ... Oct 17, 2026 · Klub Terminal Klubterminal, Downey. 8,237 followers · 78 talking about this · 1,330 were here. KLUB TERMINA",
+    "url": "https://www.facebook.com/klubterminal/",
+    "pass": 3
+   },
+   {
+    "quote": "Terminal.io - FacebookMultiferretero del Oriente | FacebookAzteca Noticias | FacebookTerminal - FacebookWhen my best friend got diagnosed with terminal stage 4 ...I understand that we won't be able to get this message out to ... With Terminal, she found the perfect combination of working for a U.S. company while working remotely in Mexico. Plus, she got to work with modern technologies and in a te",
+    "url": "https://www.facebook.com/jointerminal/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.withterminal.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.withterminal.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.withterminal.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.withterminal.com/product/insurance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.withterminal.com/product/fleet-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.withterminal.com/product/fuel-cards",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.withterminal.com/product/transportation-management",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://aspire.dev/app-host/with-terminal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.issoh.co.jp/tech/details/6174/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.withterminal.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jreast.co.jp/press/2026/20261110_ho03.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai-hikaku.com/?p=36920",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanterminal.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aspire.dev/app-host/with-terminal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inspectionsapp.jp/",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/terminal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://terminal-industries.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://terminal-industries.com/markets/terminal-for-manufacturing-facilities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/en/technologies/plm/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/530754-40",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/terminal-withterminal-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/terminal/__ga6qVNLti9uvk-RPuKH4KN_qdYgKli31TSg2HOJMqIU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/withterminal.com#customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tomokusaba/n/n579435e1c5ee?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/deecayz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Terminal_fi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tradingterminal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/klubterminal/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/jointerminal/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Withterminal 日本 導入",
+   "results": [
+    "https://aspire.dev/app-host/with-terminal/",
+    "https://www.issoh.co.jp/tech/details/6174/",
+    "https://www.withterminal.com/",
+    "https://www.jreast.co.jp/press/2026/20261110_ho03.pdf",
+    "https://www.withterminal.com/partners",
+    "https://qiita.com/mamagotolab/items/420121bcc88bc35dcb55",
+    "https://www.ycombinator.com/companies/terminal"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Withterminal 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://www.sidebizz.net/blog/agent/general-agency/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Withterminal Japan",
+   "results": [
+    "https://japanterminal.com/en/",
+    "https://aspire.dev/app-host/with-terminal/",
+    "https://www.inspectionsapp.jp/",
+    "https://www.ycombinator.com/companies/terminal",
+    "https://www.withterminal.com/",
+    "https://www.withterminal.com/partners",
+    "https://docs.withterminal.com/how-terminal-works"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Withterminal manufacturing customer case study",
+   "results": [
+    "https://terminal-industries.com/resources/case-studies",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://terminal-industries.com/markets/terminal-for-manufacturing-facilities",
+    "https://www.ptc.com/en/technologies/plm/customer-stories",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.ycombinator.com/companies/terminal",
+    "https://www.withterminal.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Withterminal white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partner.vw.com/partner",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.ninjaone.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Withterminal founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/530754-40",
+    "https://fundediq.co/terminal-withterminal-com-funding/",
+    "https://tracxn.com/d/companies/terminal/__ga6qVNLti9uvk-RPuKH4KN_qdYgKli31TSg2HOJMqIU",
+    "https://getlatka.com/companies/withterminal.com/customers",
+    "https://tracxn.com/d/companies/terminal/__eM1o1SxY9QIKfPYIuJ4FhWMs13DloyOrkWLgdGRITUM",
+    "https://www.gritt.io/company/terminal-api/",
+    "https://dureach.com/company/terminal-api"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Withterminal",
+   "results": [
+    "https://note.com/jissenai/n/n746e57178e45?hl=en",
+    "https://note.com/tomokusaba/n/n579435e1c5ee?hl=en",
+    "https://note.com/superasystem/n/nb94146d980c5?hl=en",
+    "https://note.com/zephel01/n/naf195708812f?hl=en",
+    "https://note.com/ndenki/n/nc8b2c15d442d?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/st_dev0/n/n7f080cf026a7?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Withterminal",
+   "results": [
+    "https://x.com/deecayz",
+    "https://x.com/Hoodterminal_",
+    "https://x.com/Terminal_fi",
+    "https://x.com/tradingterminal",
+    "https://x.com/terminaltrading",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/TheEvilTerminal"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Withterminal",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Withterminal",
+   "results": [
+    "https://www.facebook.com/klubterminal/",
+    "https://www.facebook.com/jointerminal/",
+    "https://business.facebook.com/groups/212742951760339/",
+    "https://business.facebook.com/groups/754388684597554/",
+    "https://www.facebook.com/terminalnode/",
+    "https://www.facebook.com/delaney.neville/videos/when-my-best-friend-got-diagnosed-with-terminal-stage-4-cancer-it-presented-a-mi/1048378624885796/",
+    "https://www.facebook.com/regjoeshow/videos/i-understand-that-we-wont-be-able-to-get-this-message-out-to-people-with-termina/1296002639323707/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Withterminal note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://aspire.dev/app-host/with-terminal/",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://www.withterminal.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Withterminal X 投稿",
+   "results": [
+    "https://aspire.dev/app-host/with-terminal/",
+    "https://docs.withterminal.com/guides/agents",
+    "https://www.withterminal.com/",
+    "https://x.com/felixrieseberg/status/2119925633564463609",
+    "https://www.xterminal.cn/",
+    "https://github.com/henryhale/xterminal",
+    "https://x.com/tokenterminal"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部30頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

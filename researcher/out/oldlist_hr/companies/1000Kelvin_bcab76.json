@@ -1,0 +1,926 @@
+{
+ "name": "1000Kelvin",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Software / AI｜NG",
+ "researched_at": "2026-11-11T06:33:14.187266+00:00",
+ "official_url": "https://www.1000kelvin.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "$3M   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "We build foundation models for laser processes that turn every laser into",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Products & Deployments",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One foundation model for laser processes. Powering our flagship platform, the world's leading laser systems, and the design tools engineers already use.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI-native build preparation platform for metal LPBF. Printability validation, automated supports, and physics-aware exposure optimization — first-time-right at scale.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Embedded inside EOS industrial systems — turning the world's leading metal AM machines into self-optimizing production platforms.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With SCANLAB, we're driving the next generation of laser control — AI-enhanced scan-head intelligence for unprecedented speed and precision in additive manufacturing.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Defined Production Floor",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A vertically integrated production floor run by our foundation models. From design to qualified metal part in days, not months — sovereign European AM at industrial scale.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Not an LLM. Not a digital twin. A physics-based AI trained to predict and govern what happens when laser energy transforms material — and transferable across laser-based manufacturing methods.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Thermal physics · Melt pool prediction · Microstructure",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictions and corrections at every individual scan point — not just per vector. Power, speed, and timing modulated continuously along the path at the finest resolution the hardware allows.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "OEM proprietary file formats · Direct scan system integration",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Predict defects before they occur. Our models learn the physics of melt pools, thermal fields, and microstructure evolution to flag failure modes in advance.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Powering production at leading machine builders, laser companies, and manufacturers.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team combines expertise in photonics, materials science, and machine learning to create models that don't just predict — they understand. The result: manufacturing processes that are faster, more reliable, and more sustainable.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PhD, Laser Processing",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Research, press & conversations.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A selection of articles, podcasts and interviews about our foundation models, AMAIZE, and the partnerships shaping the next industrial era.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How AI Copilots are Enabling the AM Industry to Scale — Interview with Omar Fergani",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Time to Forget Metal AM Build Simulation? An AI Co-Pilot for First-Time-Right 3D Printing",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1000 Kelvin gives AI assist to 3D printing design",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're exploring AI for laser processes or ready to deploy, we'd love to hear from you.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1000 Kelvin 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an artificial intelligence copilot software designed to increase additive manufacturing productivity.",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an artificial intelligence copilot software designed to increase additive manufacturing productivity. The company's software offers tools to analyze printability, cost estimation, automatic build preparation, and exposure strategy optimization, enabling manufacturing companies to optimize production processes and reduce the costs of parts on demand.",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an artificial intelligence copilot software designed to increase additive manufacturing productivity. The c",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "Procedure for providing a procedure instruction",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "Method for providing a procedural instruction for additive manufacturing",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "Method for providing a process instruction for additive manufacturing, by way of machine learning",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "1000 Kelvin’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "Is 1000 Kelvin a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "1000 Kelvin is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "’s AI software revolutionizes additive manufacturing by predicting and correcting printing errors before they occur.",
+    "url": "https://www.mastt2040.eu/project/1000kelvin/",
+    "pass": 3
+   },
+   {
+    "quote": "The intuitive co-pilot software enables manufacturers to produce complex parts with first-time-right precision, reducing the need for physical trial and error. By optimizing printing strategies for various materials,",
+    "url": "https://www.mastt2040.eu/project/1000kelvin/",
+    "pass": 3
+   },
+   {
+    "quote": "improves efficiency, reduces costs, and scales on-demand production of high-quality components.",
+    "url": "https://www.mastt2040.eu/project/1000kelvin/",
+    "pass": 3
+   },
+   {
+    "quote": "1000Kelvin ‘s AI-powered software predicts print errors and offers actionable solutions, optimizing additive manufacturing processes. The software integrates with digital inventories to ensure OEM-level quality, helping manufacturers produce high-quality, complex parts efficiently, without trial and error.",
+    "url": "https://www.mastt2040.eu/project/1000kelvin/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-Powered Error Prediction:",
+    "url": "https://www.mastt2040.eu/project/1000kelvin/",
+    "pass": 3
+   },
+   {
+    "quote": "Identifies and resolves print issues before they occur, reducing waste and trial runs.",
+    "url": "https://www.mastt2040.eu/project/1000kelvin/",
+    "pass": 3
+   },
+   {
+    "quote": "First-Time-Right Printing:",
+    "url": "https://www.mastt2040.eu/project/1000kelvin/",
+    "pass": 3
+   },
+   {
+    "quote": "Ensures complex parts are printed correctly on the first attempt, enhancing efficiency.",
+    "url": "https://www.mastt2040.eu/project/1000kelvin/",
+    "pass": 3
+   },
+   {
+    "quote": "Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them.",
+    "url": "https://www.mastt2040.eu/project/1000kelvin/",
+    "pass": 3
+   },
+   {
+    "quote": "Process as a foundation",
+    "url": "https://www.youtube.com/watch?v=PmavJl8-o5c",
+    "pass": 3
+   },
+   {
+    "quote": "Trump Praises Hegseth’s Doozy of a Press Conference, Milks the MAGA Faithful & Melania’s New Show",
+    "url": "https://www.youtube.com/watch?v=PmavJl8-o5c",
+    "pass": 3
+   },
+   {
+    "quote": "Probabilistic compression",
+    "url": "https://www.youtube.com/watch?v=PmavJl8-o5c",
+    "pass": 3
+   },
+   {
+    "quote": "Practical defect prediction",
+    "url": "https://www.youtube.com/watch?v=PmavJl8-o5c",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "1000 Kelvin — Foundational AI for Laser Manufacturing",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A frontier research lab for laser & manufacturing intelligence.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": ". This is how laser manufacturing breaks past today's limits.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Embedded inside EOS industrial systems — turning the world's leading metal AM machines into self-optimizing production platforms.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With SCANLAB, we're driving the next generation of laser control — AI-enhanced scan-head intelligence for unprecedented speed and precision in additive manufacturing.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A vertically integrated production floor run by our foundation models. From design to qualified metal part in days, not months — sovereign European AM at industrial scale.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our co-pilot embedded inside Autodesk Fusion CAD — bringing physics-aware AM intelligence directly into the design environment used by millions of engineers worldwide.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Not an LLM. Not a digital twin. A physics-based AI trained to predict and govern what happens when laser energy transforms material — and transferable across laser-based manufacturing methods.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Powering production at leading machine builders, laser companies, and manufacturers.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1000 Kelvin sits at the intersection of deep learning and laser physics. We're building the foundational intelligence layer for next-generation manufacturing — systems that understand the fundamental interactions between photons and matter.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team combines expertise in photonics, materials science, and machine learning to create models that don't just predict — they understand. The result: manufacturing processes that are faster, more reliable, and more sustainable.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "laser & manufacturing intelligence.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PhD, Industrial Engineering",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A selection of articles, podcasts and interviews about our foundation models, AMAIZE, and the partnerships shaping the next industrial era.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1000 Kelvin launches AMAIZE 2.0 co-pilot for metal additive manufacturing",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AMAIZE AI Co-Pilot for Additive Manufacturing now available for Autodesk Fusion",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Manufacturing Media",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Plastics Machinery Manufacturing",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Developer of an artificial intelligence copilot software designed to increase additive manufacturing productivity.",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an artificial intelligence copilot software designed to increase additive manufacturing productivity. The company's software offers tools to analyze printability, cost estimation, automatic build preparation, and exposure strategy optimization, enabling manufacturing companies to optimize production processes and reduce the costs of parts on demand.",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an artificial intelligence copilot software designed to increase additive manufacturing productivity. The c",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "Method for providing a procedural instruction for additive manufacturing",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "Method for providing a process instruction for additive manufacturing, by way of machine learning",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "MASTT2040 Case Study: 1000Kelvin",
+    "url": "https://www.mastt2040.eu/project/1000kelvin/",
+    "pass": 3
+   },
+   {
+    "quote": "’s AI software revolutionizes additive manufacturing by predicting and correcting printing errors before they occur.",
+    "url": "https://www.mastt2040.eu/project/1000kelvin/",
+    "pass": 3
+   },
+   {
+    "quote": "The intuitive co-pilot software enables manufacturers to produce complex parts with first-time-right precision, reducing the need for physical trial and error. By optimizing printing strategies for various materials,",
+    "url": "https://www.mastt2040.eu/project/1000kelvin/",
+    "pass": 3
+   },
+   {
+    "quote": "1000Kelvin ‘s AI-powered software predicts print errors and offers actionable solutions, optimizing additive manufacturing processes. The software integrates with digital inventories to ensure OEM-level quality, helping manufacturers produce high-quality, complex parts efficiently, without trial and error.",
+    "url": "https://www.mastt2040.eu/project/1000kelvin/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "OEM proprietary file formats · Direct scan system integration",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1000Kelvin ‘s AI-powered software predicts print errors and offers actionable solutions, optimizing additive manufacturing processes. The software integrates with digital inventories to ensure OEM-level quality, helping manufacturers produce high-quality, complex parts efficiently, without trial and error.",
+    "url": "https://www.mastt2040.eu/project/1000kelvin/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports rapid scaling of digital inventories, ensuring consistent OEM quality across locations.",
+    "url": "https://www.mastt2040.eu/project/1000kelvin/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "1000Kelvin — 1000 | MEGATEK.AI — 1000 Kelvinはベルリンを拠点とするAIスタートアップで、2021年に設立されました。レーザ粉末床溶融（LPBF）による金属3Dプリントのワークフロー向けに設計されたクラウドベースのソフトウェアプラットフォーム「AMAIZE」を開発しています。",
+    "url": "https://megatek.ai/ja/organization/1000kelvin/",
+    "pass": 3
+   },
+   {
+    "quote": "1000 Kelvin — Foundational AI for Laser Manufacturing — 1000 Kelvin builds foundational models for laser-based manufacturing, enabling intelligent real-time control, quality prediction, and process optimization.",
+    "url": "https://www.1000kelvin.com/",
+    "pass": 3
+   },
+   {
+    "quote": "1000 Kelvin - Creative Destruction Lab — 1000 Kelvin solves additive manufacturing toughest challenges with artificial intelligence. Founded by a team of scientists and experts in AI and Manufacturing, 1000 Kelvin enables aerospace, medical, and industrial manufacturing companies to print metal parts ‘first-time-right’, dramatically improving yield, quality and repeatability while reducing printin",
+    "url": "https://creativedestructionlab.com/companies/1000-kelvin/",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形 (AM)初のAI副操縦士 | e.x.press — この戦略的統合により、1000 Kelvinは、航空宇宙、エネルギー、受託製造などの業界の顧客が最先端のAIを活用し、設計プロセスを合理化し、エンジニアリングコストを最大80%削減し、新しい積層造形 (AM)製品の導入を加速できるようにする。",
+    "url": "https://ex-press.jp/ilsj/ilsj-news/ilsj-biz-market/60953/",
+    "pass": 3
+   },
+   {
+    "quote": "1000 Kelvin 2026 Company Profile: Valuation, Funding ...1000Kelvin Information - RocketReach1000Kelvin - Crunchbase Company Profile & Funding1000Kelvin - Financial Details - Crunchbase — Information on valuation, funding, cap tables, investors, and executives for 1000 Kelvin. Use the PitchBook Platform to explore the full profile. 1000Kelvin is a Software Development company located in Huntington ",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "1000Kelvin Information - RocketReach1000Kelvin - Crunchbase Company Profile & Funding1000Kelvin - Financial Details - Crunchbase — 1000Kelvin is a Software Development company located in Huntington Beach, California with 15 employees. Find top employees, contact details and business statistics at RocketReach. 1000Kelvin provides an artificial intelligence solution to predict near real-time print i",
+    "url": "https://rocketreach.co/1000kelvin-profile_b7e9f705c2af16ac",
+    "pass": 3
+   },
+   {
+    "quote": "1000Kelvin - Crunchbase Company Profile & Funding — 1000Kelvin provides an artificial intelligence solution to predict near real-time print issues, perform corrections, and generate an industrial-grade, ready-to-use print file specific to the customer's machine.",
+    "url": "https://www.crunchbase.com/organization/1000kelvin",
+    "pass": 3
+   },
+   {
+    "quote": "1000Kelvin - Financial Details - Crunchbase — 1000Kelvin solves additive manufacturing problems with artificial intelligence solutions.",
+    "url": "https://www.crunchbase.com/organization/1000kelvin/financial_details",
+    "pass": 3
+   },
+   {
+    "quote": "MASTT2040 Case Study: 1000Kelvin — By optimizing printing strategies for various materials, 1000Kelvin improves efficiency, reduces costs, and scales on-demand production of high-quality components.",
+    "url": "https://www.mastt2040.eu/project/1000kelvin/",
+    "pass": 3
+   },
+   {
+    "quote": "How AI Copilot Are Enabling The AM Industry Scaling: A Case ... — May 13, 2024 · How AI Copilot Are Enabling The AM Industry Scaling: A Case Study - Omar Fergani - 1000Kelvin CDFAM CDFAM 3.76K subscribers 6",
+    "url": "https://www.youtube.com/watch?v=PmavJl8-o5c",
+    "pass": 3
+   },
+   {
+    "quote": "1000 Kelvin 2026 Company Profile: Valuation, Funding ...Kelvin 2026 Company Profile: Valuation, Funding & Investors ...1000 Kelvin - 2026 Company Profile, Team, Funding ... - Tracxn1MILLIKELVIN Revenue, Funding & Valuation - prospeo.io1000 Kelvin - Products, Competitors, Financials, Employees ...1000 Kelvin Stock Price, Funding, Valuation, Revenue ...1000Kelvin - Crunchbase Company Profile & Fundi",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "Kelvin 2026 Company Profile: Valuation, Funding & Investors ...1000 Kelvin - 2026 Company Profile, Team, Funding ... - Tracxn1MILLIKELVIN Revenue, Funding & Valuation - prospeo.io1000 Kelvin - Products, Competitors, Financials, Employees ...1000 Kelvin Stock Price, Funding, Valuation, Revenue ...1000Kelvin - Crunchbase Company Profile & Funding — Kelvin has 44 total employees. What industry is Kel",
+    "url": "https://pitchbook.com/profiles/company/56859-85",
+    "pass": 3
+   },
+   {
+    "quote": "1000 Kelvin - 2026 Company Profile, Team, Funding ... - Tracxn — Mar 18, 2026 · 1000 Kelvin is a funded company based in Germany, founded in 2021 by Omar Fergani and Katharina Eissing. It operates as a Developer of AI-powered software optimizing additive manufacturing processes and workflows. 1000 Kelvin has raised an undisclosed amount in funding. The company has 43 active competitors, including ",
+    "url": "https://tracxn.com/d/companies/1000kelvin/__VEPB8CGMYSOFxlLjoSIaNhl4XvOJKmtR8BeZuPavLOI",
+    "pass": 3
+   },
+   {
+    "quote": "1000 Kelvin - Products, Competitors, Financials, Employees ... — 1000 Kelvin Frequently Asked Questions (FAQ) When was 1000 Kelvin founded? 1000 Kelvin was founded in 2021. Where is 1000 Kelvin's headquarters? 1000 Kelvin's headquarters is located at Bismarckstrasse 10 - 12, Berlin. What is 1000 Kelvin's latest funding round? 1000 Kelvin's latest funding round is Seed. How much did 1000 Kelvin rai",
+    "url": "https://www.cbinsights.com/company/1000-kelvin",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "1000 Kelvin has 9 total employees.",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "What is 1000 Kelvin’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for 1000 Kelvin is",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "pass": 3
+   },
+   {
+    "quote": "info@1000kelvin.com",
+    "url": "https://www.mastt2040.eu/project/1000kelvin/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "インプリシットモデリングを用いたエンジニアリング／製造プロセス - ジョージ・アレン - nTop - 東京 CDFAM 2026",
+    "url": "https://www.youtube.com/watch?v=PmavJl8-o5c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "1000 Kelvin - LinkedIn 1000 Kelvin | 2,144 followers on LinkedIn. 💥 Automation and intelligent additive manufacturing using AI. | 1000Kelvin enables companies using additive manufacturing in production to get ...",
+    "url": "https://www.linkedin.com/company/1000kelvin",
+    "pass": 3
+   },
+   {
+    "quote": "1000 Kelvin on LinkedIn: Metal additive manufacturing first ... 1000KELVIN GmbH is a DeepTech company located in Berlin, composed of computer scientists, physicists, and mechanical engineers all sharing the passion for…",
+    "url": "https://www.linkedin.com/posts/1000kelvin_1000kelvincom-activity-6829051592914829312-2JbE",
+    "pass": 3
+   },
+   {
+    "quote": "1000Kelvin officially graduated from CDL-Seattle. Dr ... 1000Kelvin officially graduated from CDL-Seattle. Dr. Katharina Eissing and I had the opportunity to work with world class mentors to build a massive business. Thanks Emer Dooley and University of Washington - Michael G. Foster School of Business for hosting this amazing cohort of companies defining the future of manufacturing. Thanks to our",
+    "url": "https://bb.linkedin.com/posts/omar-fergani_1000kelvin-officially-graduated-from-cdl-seattle-activity-7059651186139803648-rAHj",
+    "pass": 3
+   },
+   {
+    "quote": "1000Kelvin GmbH is a purpose-driven company with a long-term ... 1000Kelvin GmbH is a purpose-driven company with a long-term and sustainable vision for the future of industrial manufacturing where software and AI are the enablers of more efficient, digital, and widely adopted additive manufacturing.",
+    "url": "https://in.linkedin.com/posts/arden-university-berlin-careers-page_1000kelvin-gmbh-is-a-purpose-driven-company-activity-7070046099629039616-FXpt",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Kelvin’s first $1000 | Kelvin Zinck Network - Facebook Nov 4, 2025 · Kelvin Zinck Network Nov 4, 2025· Kelvin’s first $1000 Kelvin’s first $1000 Last viewed on: Oct 27, 2026 Pages Public figure",
+    "url": "https://www.facebook.com/kelvinzincknetwork/videos/kelvins-first-1000/827761989951919/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.1000kelvin.com/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://megatek.ai/ja/organization/1000kelvin/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://diamond.jp/articles/-/402113?page=3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creativedestructionlab.com/companies/1000-kelvin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.syensqo.com/ja/japan/syensqo-japan-ltd",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://rocketreach.co/1000kelvin-profile_b7e9f705c2af16ac",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/1000kelvin",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/1000kelvin/financial_details",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mastt2040.eu/project/1000kelvin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=PmavJl8-o5c",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/kelvin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/528704-83",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/56859-85",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/1000kelvin/__VEPB8CGMYSOFxlLjoSIaNhl4XvOJKmtR8BeZuPavLOI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/1millikelvin-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/1000kelvin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/1000kelvin_1000kelvincom-activity-6829051592914829312-2JbE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://bb.linkedin.com/posts/omar-fergani_1000kelvin-officially-graduated-from-cdl-seattle-activity-7059651186139803648-rAHj",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/posts/arden-university-berlin-careers-page_1000kelvin-gmbh-is-a-purpose-driven-company-activity-7070046099629039616-FXpt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kelvinzincknetwork/videos/kelvins-first-1000/827761989951919/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/1000kelvin",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "1000Kelvin 日本 導入",
+   "results": [
+    "https://megatek.ai/ja/organization/1000kelvin/",
+    "https://www.1000kelvin.com/",
+    "https://diamond.jp/articles/-/402113?page=3",
+    "https://creativedestructionlab.com/companies/1000-kelvin/",
+    "https://ex-press.jp/ilsj/ilsj-news/ilsj-biz-market/60953/",
+    "https://www.nikkei.com/article/DGXZQOUD10BU50Q6A111C2000000/",
+    "https://carview.yahoo.co.jp/article/detail/b5322cc93cfb4b6482bbc9937f0bc463ba6b5425/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "1000Kelvin 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.syensqo.com/ja/japan/syensqo-japan-ltd",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "1000Kelvin Japan",
+   "results": [
+    "https://pitchbook.com/profiles/company/528704-83",
+    "https://rocketreach.co/1000kelvin-profile_b7e9f705c2af16ac",
+    "https://www.crunchbase.com/organization/1000kelvin",
+    "https://www.crunchbase.com/organization/1000kelvin/financial_details",
+    "https://www.1000kelvin.com/",
+    "https://www.linkedin.com/company/1000kelvin",
+    "https://creativedestructionlab.com/companies/1000-kelvin/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "1000Kelvin manufacturing customer case study",
+   "results": [
+    "https://www.mastt2040.eu/project/1000kelvin/",
+    "https://www.1000kelvin.com/",
+    "https://www.youtube.com/watch?v=PmavJl8-o5c",
+    "https://www.casestudies.com/customer/kelvin",
+    "https://www.hardwarehub.io/case-studies/kelvin-hot-cold",
+    "https://cdfam.com/1000kelvin-berlin/",
+    "https://creativedestructionlab.com/companies/1000-kelvin/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "1000Kelvin white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.verkada.com/partners/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "1000Kelvin founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/528704-83",
+    "https://pitchbook.com/profiles/company/56859-85",
+    "https://tracxn.com/d/companies/1000kelvin/__VEPB8CGMYSOFxlLjoSIaNhl4XvOJKmtR8BeZuPavLOI",
+    "https://prospeo.io/c/1millikelvin-revenue",
+    "https://www.cbinsights.com/company/1000-kelvin",
+    "https://www.cbinsights.com/company/1000-kelvin/financials",
+    "https://www.crunchbase.com/organization/1000kelvin"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 1000Kelvin",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com 1000Kelvin",
+   "results": [
+    "https://x.com/efosakelvin1000",
+    "https://help.x.com/en",
+    "https://x.com/kelvinexex1000",
+    "https://x.com/Sirkelvinne/status/2036402572190195864",
+    "https://x.com/KelvinBrightFx/status/2073398752635650222",
+    "https://x.com/kelvintalent_/status/2045884926990446792",
+    "https://x.com/NdemoKelvin/status/2099634182506836338"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 1000Kelvin",
+   "results": [
+    "https://www.linkedin.com/company/1000kelvin",
+    "https://www.linkedin.com/posts/1000kelvin_1000kelvincom-activity-6829051592914829312-2JbE",
+    "https://bb.linkedin.com/posts/omar-fergani_1000kelvin-officially-graduated-from-cdl-seattle-activity-7059651186139803648-rAHj",
+    "https://in.linkedin.com/posts/arden-university-berlin-careers-page_1000kelvin-gmbh-is-a-purpose-driven-company-activity-7070046099629039616-FXpt",
+    "https://cl.linkedin.com/company/1millikelvin",
+    "https://www.linkedin.com/posts/1000kelvin_ai-additivemanufacturing-activity-7049653031943991296-0UPs",
+    "https://www.linkedin.com/posts/1000kelvin_1000-kelvin-foundational-ai-for-laser-manufacturing-activity-6829051592914829312-EGY2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 1000Kelvin",
+   "results": [
+    "https://www.facebook.com/22kelvinmartin22/photos/",
+    "https://business.facebook.com/groups/GamingCommunitySEA/",
+    "https://www.facebook.com/fb-answers/light-temperature-guide/",
+    "https://www.facebook.com/kelvinzincknetwork/videos/kelvins-first-1000/827761989951919/",
+    "https://business.facebook.com/groups/BlockleyEngland/",
+    "https://www.facebook.com/groups/actsms/posts/1138167563037421/",
+    "https://www.facebook.com/thetctmagazine/posts/️-our-mission-at-1000-kelvin-is-making-am-scale-making-it-easy-to-use-making-it-/960605049401448/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "1000Kelvin note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/1000villages",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://bb.linkedin.com/posts/omar-fergani_1000kelvin-officially-graduated-from-cdl-seattle-activity-7059651186139803648-rAHj",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.1000kelvin.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "1000Kelvin X 投稿",
+   "results": [
+    "https://janitorai.com/profiles/bc27d28b-855f-452d-92a7-1c55ebaa4a6f_profile-of-1000-kelvin",
+    "https://www.youtube.com/@Kelvin-ul3fn",
+    "https://www.linkedin.com/company/1000kelvin",
+    "https://www.1000kelvin.com/",
+    "https://x.com/kelvin30800/status/2114128184853909999",
+    "https://creativedestructionlab.com/companies/1000-kelvin/",
+    "https://x.com/hikaru1032"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

@@ -1,0 +1,1345 @@
+{
+ "name": "Toolpath",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信失敗",
+ "researched_at": "2026-11-11T06:37:33.421274+00:00",
+ "official_url": "https://toolpath.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "4. Seed Round",
+    "value": "18-Aug-2025 $5.7M   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   },
+   {
+    "label": "3. Seed Round",
+    "value": "16-Sep-2024    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "05-Aug-2022 $6.04M $7.04M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "$1M $1M  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "272,223 $0.000100  $22.2 $22.2 1x $19.48 12.97%",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "300,000 $0.000100  $3.33 $3.33 1x $3.33 12.54%",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://startupintros.com/orgs/toolpath",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Bedford, OH, USA",
+    "url": "https://startupintros.com/orgs/toolpath",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Quote faster and more accurately. Find tooling and program faster. Integrate AI into your own workflows, your way. Get started with any of our free tools",
+    "url": "https://toolpath.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Toolpath automates quoting, DFM, and programming so your team spends time on the decisions that matter.",
+    "url": "https://toolpath.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Model your tooling, materials, and workholding, so each program reflects how your shop runs.",
+    "url": "https://toolpath.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Time lost programming fixtures",
+    "url": "https://toolpath.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Quoting and programming bottleneck",
+    "url": "https://toolpath.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Toolpath Pricing — Plans for shops and developers | Toolpath",
+    "url": "https://toolpath.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Programmatic access to Toolpath for APIs, applications, and AI agents. Scalable usage-based pricing.",
+    "url": "https://toolpath.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Explore programmatic access with included monthly usage.",
+    "url": "https://toolpath.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Cycle-time prediction & quote-ready output",
+    "url": "https://toolpath.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Scale programmatic DFM and estimating for production workloads.",
+    "url": "https://toolpath.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Toolpath creates powerful, practical, AI-powered tools that are the",
+    "url": "https://toolpath.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "By compressing the work between RFQ and running program, we help shops quote more confidently, program faster, and accelerate the pace at which new products reach the world.",
+    "url": "https://toolpath.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "CoroTurn® Prime工具を最大限に活用してください",
+    "url": "https://www.sandvik.coromant.com/ja-jp/tools/digital-machining/coroplus-tool-path",
+    "pass": 3
+   },
+   {
+    "quote": "PrimeTurning™加工法で CoroPlus®ツールパスのNCコードをプログラムして使用した場合、最初のジョブのプログラミングと加工の両方で合計で約8時間を節約し、ロットサイズは20個でした",
+    "url": "https://www.sandvik.coromant.com/ja-jp/tools/digital-machining/coroplus-tool-path",
+    "pass": 3
+   },
+   {
+    "quote": "PrimeTurning™ triples productivity in turning at Godrej Aerospace",
+    "url": "https://www.sandvik.coromant.com/ja-jp/tools/digital-machining/coroplus-tool-path",
+    "pass": 3
+   },
+   {
+    "quote": "Optimize your tool path with CoroPlus® ToolPath for PrimeTurning™",
+    "url": "https://www.sandvik.coromant.com/ja-jp/tools/digital-machining/coroplus-tool-path",
+    "pass": 3
+   },
+   {
+    "quote": "Turning case – PrimeTurning™ reduces machining time by up to 50 percent at BHDT",
+    "url": "https://www.sandvik.coromant.com/ja-jp/tools/digital-machining/coroplus-tool-path",
+    "pass": 3
+   },
+   {
+    "quote": "全方向旋削加工法 – PrimeTurning™",
+    "url": "https://www.sandvik.coromant.com/ja-jp/tools/digital-machining/coroplus-tool-path",
+    "pass": 3
+   },
+   {
+    "quote": "Indy Days- Greenleaf interview by Tony Gunn",
+    "url": "https://www.youtube.com/watch?v=uozp5MjDl-4",
+    "pass": 3
+   },
+   {
+    "quote": "Efficient Programming for UR Robots",
+    "url": "https://www.youtube.com/watch?v=uozp5MjDl-4",
+    "pass": 3
+   },
+   {
+    "quote": "Project 1 CAM (Part 2) - The Toolpaths",
+    "url": "https://www.youtube.com/watch?v=uozp5MjDl-4",
+    "pass": 3
+   },
+   {
+    "quote": "Haas Control Training Video",
+    "url": "https://www.youtube.com/watch?v=uozp5MjDl-4",
+    "pass": 3
+   },
+   {
+    "quote": "I'm here to randomly and wildly speculate about a conspiracy theory on this videos view numbers due to no external factors at all... especially not from podcasts named Taps and Patience",
+    "url": "https://www.youtube.com/watch?v=uozp5MjDl-4",
+    "pass": 3
+   },
+   {
+    "quote": "Because of this increased level of change and instability in the manufacturing sector, the costs of traditional growth initiatives — such as adding floor space, capital equipment, personnel and overhead — present more of a significant risk today than in early times when the manufacturing environment was more stable and predictable. It is the job of",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "to assess these factors relating to the process of transforming resources into goods and services.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Central to this is assessing production capacity — the maximum number of goods that can be produced over a given period under normal working conditions is the one barrier that every manufacturing business faces.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Science-Based Toolpath Technology is Transforming Machining Productivity",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "By avoiding sharp directional changes and controlling the rate of material removal, the toolpath enables the tools to cut faster and deeper, while greatly reducing stress. The toolpath evens the loads on machine tools and cutting tools, significantly extending tool life.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "“This toolpath solution increases the productivity for any two-axis, three-axis or two-plus-three-axis rough-milling application” continued Saisselin. “It dramatically reduces machine cycle times, enabling the production of more parts per hour. This means increased profitability and increased asset utilization for the shop.”",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Application Universality is Driving Widespread Manufacturer Acceptance",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "World renowned machine tool and cutting tool manufacturers not only approve of VoluMill, they use it for their own production. It is integrated into seven of the world’s leading CAM systems, and consistently performs better than the native toolpaths.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Not all manufacturers are quick to accept this advanced toolpath technology, however. The biggest reservation is the initial disbelief that it could so significantly improve machining performance over their existing CAM systems.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "The recognition that streamlining toolpath performance can significantly improve machine efficiency and production capacity has prompted a number of CAM software offerings following in the footsteps of VoluMill. None, however, have been able to keep pace with its market acceptance or its toolpath performance.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "This is largely because Celeritive is the only company focused solely on science-based toolpaths engineered for bulk material removal. All of its efforts, supported by the company’s system designers and engineers, are singularly focused on developing and improving upon the best possible toolpath software.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "This represents nothing less than a game-changing opportunity for manufacturers. Those companies that embrace this technological transformation in toolpath performance cannot help but emerge as leading players in their highly-competitive marketplaces.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "VoluMill is computer-aided manufacturing software that produces an ultra-high performance toolpath designed for high-speed machining applications. These applications include all 2-axis and 3-axis rough milling tasks, from simple prismatic parts to complex freeform molds.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Do you like this content?",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Add us as a preferred source on Google",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Practical AI for Real Results",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "A measured, practical approach for scaling AI usage.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "The system cuts energy costs, reduces the impact of skilled labor shortages and prevents downtime.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Oil Prices Tumble, Tesla Struggles as U.S. Stocks Soar",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Community Colleges Rush to Expand Semiconductor Training as Labor Shortage Looms",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "How to Teach Humanoid Robots to Move Properly, and Autonomously, in Challenging Environments",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "These robots require precise whole-body coordination as well as interaction with their surroundings.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "That's 27% of its global workforce.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Engineered specifically for manufacturing leadership and frontline teams.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Florida Training Academy",
+    "url": "https://www.youtube.com/watch?v=TN4FMDBP0Do",
+    "pass": 3
+   },
+   {
+    "quote": "Indy Days- Greenleaf interview by Tony Gunn",
+    "url": "https://www.youtube.com/watch?v=TN4FMDBP0Do",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Spotlight - Lone Wolf Precision",
+    "url": "https://www.youtube.com/watch?v=TN4FMDBP0Do",
+    "pass": 3
+   },
+   {
+    "quote": "📍 Winton, California — Shawn Conour is a second-generation machinist running a growing job shop where automation is no longer optional. As Connor Manufacturing added more machines and automation hardware, programming quickly became the bottleneck.",
+    "url": "https://www.youtube.com/watch?v=TN4FMDBP0Do",
+    "pass": 3
+   },
+   {
+    "quote": "In this Toolpath Customer Spotlight, Shawn shares how using Toolpath with Fusion helped standardize tool libraries and cut configurations, freeing him from manual programming work and allowing the shop to fully take advantage of automation. The result is more consistent setups, better use of time, and machines that can run unattended for days.",
+    "url": "https://www.youtube.com/watch?v=TN4FMDBP0Do",
+    "pass": 3
+   },
+   {
+    "quote": "Shawn walks through a recent automated job that produced 1,500 parts with a six-minute cycle time while the machine ran continuously for 144 hours. He also talks about the bigger picture, from scaling the shop and dealing with labor shortages to building a place where the next generation of machinists can learn and grow.",
+    "url": "https://www.youtube.com/watch?v=TN4FMDBP0Do",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a manufacturing automation platform designed to accelerate machining workflows. The company utilizes a proprietary part comprehension engine to identify unmachinable features and recommend tooling, enabling machine shops to generate accurate cycle time estimates and automated quotes based on specific shop parameters.",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Toolpath enables designers, engineers, and machinists to move from an idea to a real part faster. Starting with a digital design, our software automatically decides how to efficiently machine the part on a CNC mill — sizing stock, selecting tools, sequencing operations, and posting strategies that match how your shop actually runs.",
+    "url": "https://toolpath.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "PrimeTurning™ triples productivity in turning at Godrej Aerospace",
+    "url": "https://www.sandvik.coromant.com/ja-jp/tools/digital-machining/coroplus-tool-path",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath Customer Spotlight - Subtract Manufacturing - YouTube",
+    "url": "https://www.youtube.com/watch?v=uozp5MjDl-4",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath Customer Spotlight - Subtract Manufacturing",
+    "url": "https://www.youtube.com/watch?v=uozp5MjDl-4",
+    "pass": 3
+   },
+   {
+    "quote": "QTE Manufacturing Solutions",
+    "url": "https://www.youtube.com/watch?v=uozp5MjDl-4",
+    "pass": 3
+   },
+   {
+    "quote": "Conour Manufacturing Shop Tour",
+    "url": "https://www.youtube.com/watch?v=uozp5MjDl-4",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath Customer Spotlight - Conour Manufacturing",
+    "url": "https://www.youtube.com/watch?v=uozp5MjDl-4",
+    "pass": 3
+   },
+   {
+    "quote": "🔗 Try Toolpath free for 14 days CAM automation built for real machinists:",
+    "url": "https://www.youtube.com/watch?v=uozp5MjDl-4",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Platform-Changing Toolpath Machining Technology Makes Manufacturers More Cost Competitive In World Markets | Manufacturing.net",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Platform-Changing Toolpath Machining Technology Makes Manufacturers More Cost Competitive In World Markets",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Thousands of manufacturers worldwide have transformed their machine shops into highly cost-efficient operations, enabling them to successfully compete in world markets — many for the first time in decades. Read how a science-based toolpath technology solution is changing the game in machining.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Because of this increased level of change and instability in the manufacturing sector, the costs of traditional growth initiatives — such as adding floor space, capital equipment, personnel and overhead — present more of a significant risk today than in early times when the manufacturing environment was more stable and predictable. It is the job of",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Central to this is assessing production capacity — the maximum number of goods that can be produced over a given period under normal working conditions is the one barrier that every manufacturing business faces.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "This machine-efficiency transformation is being played out in thousands of machine shops within manufacturing facilities in the U.S. and throughout the world. Spearheading this change is a science-based toolpath, called VoluMill, developed by Celeritive Technologies, Inc. (Celeritive), for high-efficiency, rough-milling operations.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Application Universality is Driving Widespread Manufacturer Acceptance",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "World renowned machine tool and cutting tool manufacturers not only approve of VoluMill, they use it for their own production. It is integrated into seven of the world’s leading CAM systems, and consistently performs better than the native toolpaths.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Not all manufacturers are quick to accept this advanced toolpath technology, however. The biggest reservation is the initial disbelief that it could so significantly improve machining performance over their existing CAM systems.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Game-Changer for Manufacturers",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "This represents nothing less than a game-changing opportunity for manufacturers. Those companies that embrace this technological transformation in toolpath performance cannot help but emerge as leading players in their highly-competitive marketplaces.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "VoluMill is computer-aided manufacturing software that produces an ultra-high performance toolpath designed for high-speed machining applications. These applications include all 2-axis and 3-axis rough milling tasks, from simple prismatic parts to complex freeform molds.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Celeritive Technologies, the developer of VoluMill, is an innovator of platform independent, science-based toolpaths for the manufacturing industry. Celeritive develops and markets economical and simple-to-implement toolpath technology that enables CNC machine tools and cutting tools to operate at peak performance. Learn more at",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "What Makes AI Recommend One Manufacturer Over Another?",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Reshoring, Foreign Direct Investment Accounted for 247,000 U.S. Manufacturing Jobs in 2025",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "L2L Unveils AI-Powered Shop Floor Platform for Repeatable Plant Performance",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Engineered specifically for manufacturing leadership and frontline teams.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath Customer Spotlight - Conour Manufacturing - YouTube",
+    "url": "https://www.youtube.com/watch?v=TN4FMDBP0Do",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath Customer Spotlight - Conour Manufacturing",
+    "url": "https://www.youtube.com/watch?v=TN4FMDBP0Do",
+    "pass": 3
+   },
+   {
+    "quote": "🔗 Try Toolpath free for 14 days CAM automation built for real machinists:",
+    "url": "https://www.youtube.com/watch?v=TN4FMDBP0Do",
+    "pass": 3
+   },
+   {
+    "quote": "How Conour Manufacturing Uses Toolpath to Eliminate CAM Bottlenecks",
+    "url": "https://www.youtube.com/watch?v=TN4FMDBP0Do",
+    "pass": 3
+   },
+   {
+    "quote": "📍 Winton, California — Shawn Conour is a second-generation machinist running a growing job shop where automation is no longer optional. As Connor Manufacturing added more machines and automation hardware, programming quickly became the bottleneck.",
+    "url": "https://www.youtube.com/watch?v=TN4FMDBP0Do",
+    "pass": 3
+   },
+   {
+    "quote": "Shawn walks through a recent automated job that produced 1,500 parts with a six-minute cycle time while the machine ran continuously for 144 hours. He also talks about the bigger picture, from scaling the shop and dealing with labor shortages to building a place where the next generation of machinists can learn and grow.",
+    "url": "https://www.youtube.com/watch?v=TN4FMDBP0Do",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a manufacturing automation platform designed to accelerate machining workflows.",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a manufacturing automation platform designed to accelerate machining workflows. The company utilizes a proprietary part comprehension engine to identify unmachinable features and recommend tooling, enabling machine shops to generate accurate cycle time estimates and automated quotes based on specific shop parameters.",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   },
+   {
+    "quote": ": Built \"for machinists, by machinists,\" it enhances productivity (e.g., saving hours per job) via applied AI trained on game-based simulations—not user data—ensuring privacy with encrypted AWS storage and opt-in debugging only.[1][3][5]",
+    "url": "https://startupintros.com/orgs/toolpath",
+    "pass": 3
+   },
+   {
+    "quote": ": Led by Autodesk alum CEO Al Whatmough and Powell, with industry partners like Autodesk and investors validating its edge in precision manufacturing.[1][3][4]",
+    "url": "https://startupintros.com/orgs/toolpath",
+    "pass": 3
+   },
+   {
+    "quote": "AI applied to manufacturing",
+    "url": "https://startupintros.com/orgs/toolpath",
+    "pass": 3
+   },
+   {
+    "quote": "\"turning the judgments that machinists make on a daily basis into rules.\"",
+    "url": "https://note.com/eager_pansy1199/n/n814f64a1ef2c?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Autodesk社がToolpath Labs社への戦略的投資を実施 | CAD Japan.com（大塚商会）",
+    "url": "https://www.cadjapan.com/news/2025/d20250904_01.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Toolpath — AI-powered quoting & CAM automation for machine ... — Toolpath uses AI to accelerate DFM, quoting, and CAM so machine shops can quote faster, program smarter, and stay in control from RFQ to spindle.",
+    "url": "https://toolpath.com/",
+    "pass": 3
+   },
+   {
+    "quote": "CoroPlus® ToolPath - Sandvik Coromant — 02:43 PrimeTurning™ triples productivity in turning at Godrej Aerospace 00:56 Optimize your tool path with CoroPlus® ToolPath for PrimeTurning™ 03:09 Turning case – PrimeTurning™ reduces machining time by up to 50 percent at BHDT 05:59",
+    "url": "https://www.sandvik.coromant.com/ja-jp/tools/digital-machining/coroplus-tool-path",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk社がToolpath Labs社への戦略的投資を実施 | CAD Japan.com（... — Aug 29, 2025 · Toolpath Labs社はAIをコンピューター支援製造（CAM）に統合し、ツールの選択とツールパス戦略を最適化するソリューションを提供している企業で、今回の投資は、製造業におけるAIイノベーションの強化ならびに、同社のエンジニアリングチームの拡大と市場 ...",
+    "url": "https://www.cadjapan.com/news/2025/d20250904_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "About Toolpath | Toolpath — Toolpath builds AI-powered tools that automate the work between RFQ and machining — meet the team and investors behind the platform.",
+    "url": "https://toolpath.com/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "加工プログラムの作成自動化をAIで支援する「Tool Path」とは？ — Oct 17, 2025 · でも、ただの「便利ツール」ではありません。 Toolpathは、「AIを活用して加工性を分析し、 戦略を立案し、見積もりからツールパス生成までを 加速させるデジタルAIパートナー」みたいな存在です。",
+    "url": "https://note.com/merry_bobcat8659/n/n83632e269910",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath Customer Spotlight - Subtract Manufacturing - YouTubeCase Study: Platform-Changing Toolpath Machining Technology ...Toolpath Customer Spotlight - Conour Manufacturing - YouTubeThe journey of Toolpath's first machine shop | ToolpathHow AI Transforms CNC: Real Case Studies on Toolpath ...Toolpath — AI-powered quoting & CAM automation for machine ...Using GibbsCAM to Generate Complex Toolpat",
+    "url": "https://www.youtube.com/watch?v=uozp5MjDl-4",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Platform-Changing Toolpath Machining Technology ... — Thousands of manufacturers worldwide have transformed their machine shops into highly cost-efficient operations, enabling them to successfully compete in world markets — many for the first time in decades. Read how a science-based toolpath technology solution is changing the game in machining.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath Customer Spotlight - Conour Manufacturing - YouTube — Jan 15, 2026 · In this Toolpath Customer Spotlight, Shawn shares how using Toolpath with Fusion helped standardize tool libraries and cut configurations, freeing him from manual programming work and...",
+    "url": "https://www.youtube.com/watch?v=TN4FMDBP0Do",
+    "pass": 3
+   },
+   {
+    "quote": "The journey of Toolpath's first machine shop | Toolpath — Aug 9, 2024 · Toolpath's journey from setting up a small R&D machine shop to exploring CNC machining firsthand, showcasing the importance of real-world experience in AI CAM Automation.",
+    "url": "https://toolpath.com/blog/the-journey-of-toolpaths-first-machine-shop",
+    "pass": 3
+   },
+   {
+    "quote": "How AI Transforms CNC: Real Case Studies on Toolpath ... — Sep 14, 2025 · Artificial Intelligence (AI) is transforming CNC (Computer Numerical Control) machining—from intelligent toolpath optimization and predictive maintenance to real-time quality control. Below is a detailed breakdown incorporating a visual aid and real industrial case studies.",
+    "url": "https://cncmachines.com/ai-impact-cnc-machines",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath – Industry Ranking & Company Valuation – 2026 — Toolpath Revenue & Valuation Presently, Toolpath's annual revenue is estimated to be $2.5M. At Toolpath, each employee is estimated to contribute about $112K in annual revenue. Toolpath has secured approximately $10M through various funding rounds.",
+    "url": "https://compworth.com/company/toolpath",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath 2026 Company Profile: Valuation, Funding & Investors ...Toolpath — Company Profile, Funding & InvestorsToolpath: Funding, Team & Investors | Startup IntrosToolpath - Overview, News & Similar companies | ZoomInfo.comToolpath — venture-backed company profile | DealroomToolpath: Revenue, Competitors, Alternatives - growjo.com — Information on valuation, funding, cap tables, investors, and ex",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath — Company Profile, Funding & Investors — Toolpath company profile with $23.57M raised across 4 funding rounds, HQ in Bedford, United States, founded 2021. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/toolpath",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Toolpath was founded in 2021 in Atlanta, Georgia, by serial entrepreneur Andy Powell and Justin Gray, Ph.D., a former NASA technologist specializing in optimization.[2]",
+    "url": "https://startupintros.com/orgs/toolpath",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath - Overview, News & Similar companies | ZoomInfo.com — Gather financial insights about Toolpath, including details on funding rounds, investors, total funding, and acquisitions, to gain a comprehensive understanding of their financial strategy.",
+    "url": "https://www.zoominfo.com/c/toolpath-llc/374330339",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Central to this is assessing production capacity — the maximum number of goods that can be produced over a given period under normal working conditions is the one barrier that every manufacturing business faces.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft Offers Buyouts to 60,000 Employees",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   },
+   {
+    "quote": "To view Toolpath’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath has 11 total employees.",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   },
+   {
+    "quote": "What is Toolpath’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Toolpath is",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "You must be signed in to leave a comment. To sign in or create an account, enter your email address and we'll send you a one-click sign-in link.",
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[Part 5] How to Think About \"Toolpath Generation\" When ... Toolpath generation is about \"creating rules,\" not \"mathematics\" When people hear CAM, they often have the image of \"performing complex calculations to create paths,\" but that is not actually the case.",
+    "url": "https://note.com/eager_pansy1199/n/n814f64a1ef2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "加工プログラムの作成自動化をAIで支援する「Tool Path」とは？ Oct 17, 2025 · Toolpathは Fusionの製造ワークスペースとシームレスに連携 します。 つまり、Toolpathで作った加工計画は、 Fusion内で 完全編集可能なツールパス として反映されます。 「自動化はしたいけど、現場のノウハウは残したい」 そんなニーズにぴったりかもです。",
+    "url": "https://note.com/merry_bobcat8659/n/n83632e269910",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Fusion - CAD を超えた未来の設計・製造ソリューション Oct 17, 2025 · CAMプログラミングに時間を取られすぎていませんか？ フェイスミル、荒加工、輪郭加工… 一つひとつ手作業でツールパスを組むのは、 納期を圧迫する大きな要因です。 ここでは、 Toolpath＋Fusion連携 による 「ワンクリック自動化？ 」の仕組みを紹介します。",
+    "url": "https://note.com/merry_bobcat8659/n/n97bd2af87d33",
+    "pass": 3
+   },
+   {
+    "quote": "Production of a New Flute Embouchure Mold｜Yoshio Takamura Drawing and toolpath generation in Vcarve Pro Engraving and cutting with CNC The difference from the previous mold is slight, but",
+    "url": "https://note.com/utakuchikoubou/n/n67b0e48f4e3b?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "[Part 5] How to Think About \"Toolpath Generation\" When Creating CAM in Excel｜ジュン",
+    "url": "https://note.com/eager_pansy1199/n/n814f64a1ef2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Part 5] How to Think About \"Toolpath Generation\" When Creating CAM in Excel",
+    "url": "https://note.com/eager_pansy1199/n/n814f64a1ef2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the previous articles, we have",
+    "url": "https://note.com/eager_pansy1199/n/n814f64a1ef2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "reasons for using Excel for CAM",
+    "url": "https://note.com/eager_pansy1199/n/n814f64a1ef2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "basics of coordinate formatting",
+    "url": "https://note.com/eager_pansy1199/n/n814f64a1ef2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "how to think about DXF importing",
+    "url": "https://note.com/eager_pansy1199/n/n814f64a1ef2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "how to break down machining processes",
+    "url": "https://note.com/eager_pansy1199/n/n814f64a1ef2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "and other \"foundations for CAM creation.\"",
+    "url": "https://note.com/eager_pansy1199/n/n814f64a1ef2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "加工プログラムの作成自動化をAIで支援する「Tool Path」とは？｜Autodesk Fusion - CAD を超えた未来の設計・製造ソリューション",
+    "url": "https://note.com/merry_bobcat8659/n/n83632e269910",
+    "pass": 3
+   },
+   {
+    "quote": "加工プログラムの作成自動化をAIで支援する「Tool Path」とは？",
+    "url": "https://note.com/merry_bobcat8659/n/n83632e269910",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Fusion - CAD を超えた未来の設計・製造ソリューション",
+    "url": "https://note.com/merry_bobcat8659/n/n83632e269910",
+    "pass": 3
+   },
+   {
+    "quote": "「Toolpathって名前は聞いたことあるけど、何をするもの？」",
+    "url": "https://note.com/merry_bobcat8659/n/n83632e269910",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpathというアドインの役割と価値",
+    "url": "https://note.com/merry_bobcat8659/n/n83632e269910",
+    "pass": 3
+   },
+   {
+    "quote": "Fusionと連携してCAM工程を自動化するためのアドイン",
+    "url": "https://note.com/merry_bobcat8659/n/n83632e269910",
+    "pass": 3
+   },
+   {
+    "quote": "でも、ただの「便利ツール」ではありません。",
+    "url": "https://note.com/merry_bobcat8659/n/n83632e269910",
+    "pass": 3
+   },
+   {
+    "quote": "加速させるデジタルAIパートナー」みたいな存在です。✨",
+    "url": "https://note.com/merry_bobcat8659/n/n83632e269910",
+    "pass": 3
+   },
+   {
+    "quote": "加工プログラムをAIが作ってくれる!?｜Autodesk Fusion - CAD を超えた未来の設計・製造ソリューション",
+    "url": "https://note.com/merry_bobcat8659/n/n97bd2af87d33",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Fusion - CAD を超えた未来の設計・製造ソリューション",
+    "url": "https://note.com/merry_bobcat8659/n/n97bd2af87d33",
+    "pass": 3
+   },
+   {
+    "quote": "CAMプログラミングに時間を取られすぎていませんか？",
+    "url": "https://note.com/merry_bobcat8659/n/n97bd2af87d33",
+    "pass": 3
+   },
+   {
+    "quote": "「ワンクリック自動化？」の仕組みを紹介します。✨",
+    "url": "https://note.com/merry_bobcat8659/n/n97bd2af87d33",
+    "pass": 3
+   },
+   {
+    "quote": "こうした悩み、あなたの現場でもありませんか？",
+    "url": "https://note.com/merry_bobcat8659/n/n97bd2af87d33",
+    "pass": 3
+   },
+   {
+    "quote": "🚀 解決策「Toolpath」自動化＋Fusion連携",
+    "url": "https://note.com/merry_bobcat8659/n/n97bd2af87d33",
+    "pass": 3
+   },
+   {
+    "quote": "さらに「Export to Fusion」ボタンを押すと、Fusion内で",
+    "url": "https://note.com/merry_bobcat8659/n/n97bd2af87d33",
+    "pass": 3
+   },
+   {
+    "quote": "→ AIが段取り・工具・ツールパスを自動計画",
+    "url": "https://note.com/merry_bobcat8659/n/n97bd2af87d33",
+    "pass": 3
+   },
+   {
+    "quote": "Production of a New Flute Embouchure Mold｜Yoshio Takamura",
+    "url": "https://note.com/utakuchikoubou/n/n67b0e48f4e3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Production of a New Flute Embouchure Mold",
+    "url": "https://note.com/utakuchikoubou/n/n67b0e48f4e3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have been producing piccolo headjoints in batches lately, but I have finally reached a stopping point.",
+    "url": "https://note.com/utakuchikoubou/n/n67b0e48f4e3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have decided to start making flute headjoints soon, but I also felt that I needed to review the current situation a little.",
+    "url": "https://note.com/utakuchikoubou/n/n67b0e48f4e3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The current situation is somewhat unique and I feel some limitations, but I still feel a charm that is hard to discard.",
+    "url": "https://note.com/utakuchikoubou/n/n67b0e48f4e3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I do not want to easily return to the trend of pursuing ease of blowing like before.",
+    "url": "https://note.com/utakuchikoubou/n/n67b0e48f4e3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Now, what and how should I do to make a more ideal headjoint...",
+    "url": "https://note.com/utakuchikoubou/n/n67b0e48f4e3b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I decided to change the size and the shape of the finish slightly without changing the elliptical shape. I am also thinking of making cat ears (S.F.E.) a standard specification.",
+    "url": "https://note.com/utakuchikoubou/n/n67b0e48f4e3b?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Toolpath (@ToolpathLabs) / Posts / X Mar 28, 2021 · A couple weeks ago the Toolpath team stepped into the machine shop not just to watch, but to make. We scrapped parts, broke tools, and built real empathy for the machinists we serve.",
+    "url": "https://x.com/ToolpathLabs",
+    "pass": 3
+   },
+   {
+    "quote": "Amer Icon on X: \"Adding to the tasteful toolpath library. How ... Amer Icon on X: \"Adding to the tasteful toolpath library. How dare you ask what it cost, have you looked at it??\" / X 10 Nov 2026 02:04:38",
+    "url": "https://x.com/amer_icon/status/2119974480474714132",
+    "pass": 3
+   },
+   {
+    "quote": "GPath Software (@GPathSoftware) / X Professional CAM software for laser cutters and CNC machines. Design, toolpath, and export with GPath Laser and GPath CNC.",
+    "url": "https://x.com/GPathSoftware",
+    "pass": 3
+   },
+   {
+    "quote": "ToolDance (@TooldanceInc) / X ⚙️ Your Workflow, Your Way with ToolDance Studio Whether you prefer automated toolpath generation, hands-on control over machining parameters, or working with your favorite CAM software, ToolDance Studio gives you more ways to work with ToolDance X1. 🛠️ AutoCAM: Automatically",
+    "url": "https://x.com/tooldanceinc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Toolpath - LinkedIn Toolpath is a distributed machining platform. Our mission is to accelerate innovation by making it faster, easier, and less expensive to prototype and produce CNC machined parts.",
+    "url": "https://www.linkedin.com/company/toolpath/",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath, LLC - LinkedIn Toolpath, LLC | 31 followers on LinkedIn. Toolpath, LLC is a precision CNC and manual machine shop located near Houston, TX.",
+    "url": "https://www.linkedin.com/company/toolpath-llc",
+    "pass": 3
+   },
+   {
+    "quote": "Terry Skuse - Owner/Toolmaker at Toolpath Techniques | LinkedInToolpath Solutions - LinkedInAl Whatmough - MANUFACTURING MOVES FASTER WHEN PEOPLE MOVE ...Toolpath Design - LinkedInToolpath Closes $10M Seed Round to Transform the Machining ... Owner/Toolmaker at Toolpath Techniques · Experience: Toolpath Techniques · Education: Stevenage and letchworth college of technology · Location: Greater Nort",
+    "url": "https://uk.linkedin.com/in/terry-skuse-28543112",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath Solutions - LinkedIn Toolpath Solutions is a company specialized in precision metalworking and works in many markets, including the automotive, textile, food, and construction industries.",
+    "url": "https://www.linkedin.com/company/toolpath-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Al Whatmough - MANUFACTURING MOVES FASTER WHEN PEOPLE MOVE ...Al Whatmough - A new journey begins - ToolpathBehind the Scenes: A Proud CEO's View of the Toolpath Team in ...Toolpath - Leaders FundToolpath CEO, Founder, Key Executive Team, Board of Directors ...加藤貞顕 - WikipediaFriends and colleagues, I have some news to share. I have ... A new journey begins Well, I have officially started my new r",
+    "url": "https://www.linkedin.com/in/alwhatmough",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Toolpath | Bedford Heights OH - Facebook Sep 20, 2026 · He’s hosting live Toolpath demos where you can throw real world parts on the screen and see what Toolpath can actually do— quoting, setup planning, machining strategy and tooling!",
+    "url": "https://www.facebook.com/toolpathlabs/",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath Design | Victoria BC - Facebook Jun 12, 2026 · Can you guess where in Victoria this metal dog-friendly signage by Toolpath Design is located? We'll be checking it out with our furry friends this patio season!",
+    "url": "https://www.facebook.com/toolpathdesign/",
+    "pass": 3
+   },
+   {
+    "quote": "Toolpath - New video dropped! For those of you that missed ... Sep 20, 2024 · With Toolpath, you can break through programming bottlenecks, turn parts into strategies within minutes, and get quotes out before the next shop even replies. Quote parts faster — win more work.",
+    "url": "https://www.facebook.com/toolpathlabs/posts/547940537617237/",
+    "pass": 3
+   },
+   {
+    "quote": "Meet the new AI Agent in Toolpath. This feature learns how ... May 7, 2026 · generic tool libraries built into toolpath we'll just help to use those instead of custom ones because I don't feel like building out those tools and then I don't really care too much about engraving and key seat but I do want surfacing. So, I'm going to show you another trick we have up our sleeve. I'll go over here to M",
+    "url": "https://www.facebook.com/toolpathlabs/videos/meet-the-new-ai-agent-in-toolpaththis-feature-learns-how-your-shop-operates-and-/1501732541500912/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://toolpath.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolpath.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolpath.com/about-us",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.sandvik.coromant.com/ja-jp/tools/digital-machining/coroplus-tool-path",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cadjapan.com/news/2025/d20250904_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/TP-LINK",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tooljapan.jp/ja-jp/visit.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smith-nephew.com/en-us/contact-us/companyinfo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=uozp5MjDl-4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=TN4FMDBP0Do",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/toolpath",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/497540-71",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://acquirezy.com/organization/toolpath",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/toolpath",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/eager_pansy1199/n/n814f64a1ef2c?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/merry_bobcat8659/n/n83632e269910",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/merry_bobcat8659/n/n97bd2af87d33",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/utakuchikoubou/n/n67b0e48f4e3b?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ToolpathLabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/amer_icon/status/2119974480474714132",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/GPathSoftware",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tooldanceinc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/toolpath/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/toolpath-llc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/terry-skuse-28543112",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/toolpath-solutions",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/toolpathlabs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/toolpathdesign/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/toolpathlabs/posts/547940537617237/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/toolpathlabs/videos/meet-the-new-ai-agent-in-toolpaththis-feature-learns-how-your-shop-operates-and-/1501732541500912/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/alwhatmough",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ToolpathLabs",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Toolpath 日本 導入",
+   "results": [
+    "https://toolpath.com/",
+    "https://www.sandvik.coromant.com/ja-jp/tools/digital-machining/coroplus-tool-path",
+    "https://www.cadjapan.com/news/2025/d20250904_01.html",
+    "https://toolpath.com/about-us",
+    "https://note.com/merry_bobcat8659/n/n83632e269910",
+    "https://tomastc.com/blog/ai-cam-toolpath-automation-thailand-2026/",
+    "https://monoist.itmedia.co.jp/mn/articles/2607/03/news025.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Toolpath 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/TP-LINK",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.tooljapan.jp/ja-jp/visit.html",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.ptc.com/ja/About/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Toolpath Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Toolpath manufacturing customer case study",
+   "results": [
+    "https://www.youtube.com/watch?v=uozp5MjDl-4",
+    "https://www.manufacturing.net/industry40/article/13193797/case-study-platformchanging-toolpath-machining-technology-makes-manufacturers-more-cost-competitive-in-world-markets",
+    "https://www.youtube.com/watch?v=TN4FMDBP0Do",
+    "https://toolpath.com/blog/the-journey-of-toolpaths-first-machine-shop",
+    "https://cncmachines.com/ai-impact-cnc-machines",
+    "https://toolpath.com/",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/using-gibbscam-generate-complex-toolpath.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Toolpath white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://connect.redhat.com/en/partner-program"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Toolpath founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/toolpath",
+    "https://pitchbook.com/profiles/company/497540-71",
+    "https://acquirezy.com/organization/toolpath",
+    "https://startupintros.com/orgs/toolpath",
+    "https://www.zoominfo.com/c/toolpath-llc/374330339",
+    "https://dealroom.co/companies/toolpath/",
+    "https://growjo.com/company/Toolpath"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Toolpath",
+   "results": [
+    "https://note.com/eager_pansy1199/n/n814f64a1ef2c?hl=en",
+    "https://note.com/merry_bobcat8659/n/n83632e269910",
+    "https://note.com/merry_bobcat8659/n/n97bd2af87d33",
+    "https://note.com/utakuchikoubou/n/n67b0e48f4e3b?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/spaceygoblin/n/n0f0677188638"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Toolpath",
+   "results": [
+    "https://x.com/ToolpathLabs",
+    "https://x.com/amer_icon/status/2119974480474714132",
+    "https://x.com/GPathSoftware",
+    "https://x.com/tooldanceinc",
+    "https://x.com/PAACADEMYY/status/2119171679582867459",
+    "https://x.com/makera_inc",
+    "https://x.com/Weston212872500"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Toolpath",
+   "results": [
+    "https://www.linkedin.com/company/toolpath/",
+    "https://www.linkedin.com/company/toolpath-llc",
+    "https://uk.linkedin.com/in/terry-skuse-28543112",
+    "https://www.linkedin.com/company/toolpath-solutions",
+    "https://www.linkedin.com/in/alwhatmough",
+    "https://www.linkedin.com/company/toolpath-design",
+    "https://www.linkedin.com/pulse/toolpath-closes-10m-seed-round-transform-machining-ai-al-whatmough-jnz5c"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Toolpath",
+   "results": [
+    "https://www.facebook.com/toolpathlabs/",
+    "https://www.facebook.com/toolpathdesign/",
+    "https://www.facebook.com/toolpathlabs/posts/547940537617237/",
+    "https://www.facebook.com/toolpathlabs/videos/meet-the-new-ai-agent-in-toolpaththis-feature-learns-how-your-shop-operates-and-/1501732541500912/",
+    "https://www.facebook.com/toolpathlabs/videos/you-can-now-reorder-setups-in-toolpath-just-drag-and-drop-to-define-your-flow-fa/1455045435556109/",
+    "https://www.facebook.com/toolpathlabs/videos/is-success-costing-you-everythingon-this-weeks-toolpath-community-call-ethan-pat/961250019957493/",
+    "https://www.facebook.com/toolpathlabs/videos/control-your-setup-control-your-tools-control-your-results-toolpaths-latest-feat/559163590395970/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Toolpath note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.linkedin.com/in/alwhatmough",
+    "https://toolpath.com/blog/al-whatmough-a-new-journey-begins",
+    "https://toolpath.com/blog/behind-the-scenes-a-proud-ceos-view-of-the-toolpath-team-in-action",
+    "https://leaders.vc/portfolio/toolpath",
+    "https://www.cbinsights.com/company/toolpath/people",
+    "https://www.linkedin.com/posts/alwhatmough_friends-and-colleagues-i-have-some-news-activity-7184565987407454209-iIEW"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Toolpath X 投稿",
+   "results": [
+    "https://x.com/ToolpathLabs",
+    "https://toolpath.com/",
+    "https://toolpath.net/",
+    "https://toolpath.com/product",
+    "https://www.instagram.com/toolpathlabs/",
+    "https://app.toolpath.com/login",
+    "https://portal.toolpath.com/login"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部35頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

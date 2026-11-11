@@ -1,0 +1,1441 @@
+{
+ "name": "Variance",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T06:14:37.481774+00:00",
+ "official_url": "https://www.variance.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "製造業の実績": [
+   {
+    "quote": "Trusted by Fortune 500s",
+    "url": "https://www.variance.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", trusted by Anthropic and Google",
+    "url": "https://www.variance.com/security",
+    "pass": 1
+   },
+   {
+    "quote": ", the same penetration testing firm trusted by Anthropic and Google, with regular white-box penetration testing.",
+    "url": "https://www.variance.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "Case study: How Baker Tilly helped explain the unexplainable – manufacturing variances | Baker Tilly",
+    "url": "https://www.bakertilly.com/insights/how-baker-tilly-explain-the-unexplainable-manufacturing-variances",
+    "pass": 3
+   },
+   {
+    "quote": "How Baker Tilly helped explain the unexplainable – manufacturing variances",
+    "url": "https://www.bakertilly.com/insights/how-baker-tilly-explain-the-unexplainable-manufacturing-variances",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how Baker Tilly guided a precision steel components manufacturer in optimizing their approach to managing manufacturing variances.",
+    "url": "https://www.bakertilly.com/insights/how-baker-tilly-explain-the-unexplainable-manufacturing-variances",
+    "pass": 3
+   },
+   {
+    "quote": "Our client is one of the largest manufacturers of precision steel components in North America. The private equity ownership group sought to gather insights into the drivers of monthly variances in manufacturing cost and requested Baker Tilly’s support in identifying the drivers and recommending process enhancements to minimize them moving forward.",
+    "url": "https://www.bakertilly.com/insights/how-baker-tilly-explain-the-unexplainable-manufacturing-variances",
+    "pass": 3
+   },
+   {
+    "quote": "Baker Tilly reviewed the company’s cost process by looking at a trove of financial and operational data furnished by management. We reviewed detailed machine hours logs to evaluate capacity utilization at the facility. General ledger data was analyzed at a transaction level to identify significant trends in key manufacturing cost categories such as labor and facilities costs.",
+    "url": "https://www.bakertilly.com/insights/how-baker-tilly-explain-the-unexplainable-manufacturing-variances",
+    "pass": 3
+   },
+   {
+    "quote": "Within a few weeks, we identified key factors including a loss of business and a change in manufacturing processes that materially impacted how manufacturing overhead was absorbed. As a result, the client was able to move forward with the following improvement opportunities:",
+    "url": "https://www.bakertilly.com/insights/how-baker-tilly-explain-the-unexplainable-manufacturing-variances",
+    "pass": 3
+   },
+   {
+    "quote": "The firm’s recommendations to update costing process allowed the client to reduce unabsorbed manufacturing overhead by 55%.",
+    "url": "https://www.bakertilly.com/insights/how-baker-tilly-explain-the-unexplainable-manufacturing-variances",
+    "pass": 3
+   },
+   {
+    "quote": "Baker Tilly helped align ownership and management on the proper treatment of unabsorbed manufacturing overhead and recommended enhancements for the costing methodology going forward.",
+    "url": "https://www.bakertilly.com/insights/how-baker-tilly-explain-the-unexplainable-manufacturing-variances",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Accounting Solutions",
+    "url": "https://www.bakertilly.com/insights/how-baker-tilly-explain-the-unexplainable-manufacturing-variances",
+    "pass": 3
+   },
+   {
+    "quote": "Variance is trusted by large Fortune 500 companies, and financial technology companies to run mission-critical compliance and fraud workflows, including KYC, KYB, AML, transaction monitoring, and fraud detection, investigations that typically require teams of analysts and days to complete.",
+    "url": "https://www.1011vc.com/news/variance-raises-21-5m-series-a-to-transform-risk-workflows-with-ai-agents",
+    "pass": 3
+   },
+   {
+    "quote": "However, once I started, I found myself confused by the appearance of multiple formulas for the same term early on, and even though I knew the formulas themselves, I couldn't solve the problems, so it took more time to understand than I expected.",
+    "url": "https://note.com/bunsekiya_tech/n/n1137a60f0306?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・As a prerequisite calculation for performing \"t-tests\" or \"Analysis of Variance (ANOVA)\" learned in the latter half of the Statistics Grade 2 exam (in practical data analysis, this is also used by default unless there is a special reason)",
+    "url": "https://note.com/bunsekiya_tech/n/n1137a60f0306?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We provide development services for analysis algorithms, such as machine learning and various other algorithms. While our past work has primarily focused on analyzing medical vital data, our policy moving forward is to apply the experience and technology we have cultivated to help solve problems for companies in other fields, such as manufacturing.",
+    "url": "https://note.com/bunsekiya_tech/n/n1137a60f0306?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Trusted by Fortune 500s",
+    "url": "https://www.variance.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Shell company registered 3 weeks ago — no website, no employees",
+    "url": "https://www.variance.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every employee at Variance is an owner from day one. Ownership here goes beyond titles, as we trust our employees with full, end-to-end responsibility for the systems we build and the outcomes we deliver to the world.",
+    "url": "https://www.variance.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Variance[Array[Subscript[a, Row@{##}]&, {2, 2}]]",
+    "url": "https://reference.wolfram.com/language/ref/Variance.html.ja",
+    "pass": 3
+   },
+   {
+    "quote": "Variance[Array[Subscript[a, Row@{##}]&, {2, 2, 2}]]",
+    "url": "https://reference.wolfram.com/language/ref/Variance.html.ja",
+    "pass": 3
+   },
+   {
+    "quote": "Variance[SparseArray[{{1} -> 1, {100} -> 1}]]",
+    "url": "https://reference.wolfram.com/language/ref/Variance.html.ja",
+    "pass": 3
+   },
+   {
+    "quote": "Variance[SparseArray[{{1, 1} -> 1, {2, 2} -> 2, {3, 3} -> 3, {1, 3} -> 4}]]",
+    "url": "https://reference.wolfram.com/language/ref/Variance.html.ja",
+    "pass": 3
+   },
+   {
+    "quote": "data = QuantityArray[RandomReal[1, 6], \"Pounds\"]",
+    "url": "https://reference.wolfram.com/language/ref/Variance.html.ja",
+    "pass": 3
+   },
+   {
+    "quote": "var = Variance[Array[Subscript[x, #]&, n]] /. Conjugate -> Identity",
+    "url": "https://reference.wolfram.com/language/ref/Variance.html.ja",
+    "pass": 3
+   },
+   {
+    "quote": "Table[Expectation[var, Array[Subscript[x, #]dist&, n]], {dist, {UniformDistribution[], ExponentialDistribution[λ], NormalDistribution[μ, σ]}}]",
+    "url": "https://reference.wolfram.com/language/ref/Variance.html.ja",
+    "pass": 3
+   },
+   {
+    "quote": "wdata = WeightedData[Array[Subscript[x, #]&, n], Array[Subscript[w, #]&, n]]",
+    "url": "https://reference.wolfram.com/language/ref/Variance.html.ja",
+    "pass": 3
+   },
+   {
+    "quote": "Table[Expectation[var, Array[Subscript[x, #]dist&, n]], {dist, {BetaDistribution[α, β], GammaDistribution[α, β], NormalDistribution[μ, σ]}}]",
+    "url": "https://reference.wolfram.com/language/ref/Variance.html.ja",
+    "pass": 3
+   },
+   {
+    "quote": "What is Revenue Variance? | DealHub AI",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "What is Revenue Variance?",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue variance measures how actual revenue differs from what was expected. It highlights the discrepancy between forecasted income and actual performance. This helps sales and finance teams assess the effectiveness of their strategies.",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "For sales leaders, this number tells a story about execution. They can see whether teams hit or miss their targets. Finance teams use the same data to check if forecasts match reality. RevOps teams examine patterns to understand why revenue has moved off track.",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "In B2B SaaS, revenue variance often comes from recurring billing or price changes. A slight shift in renewal rates or user pricing can significantly impact total revenue. That’s why most SaaS leaders watch this metric every month. It helps them react before small gaps grow larger.",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "Actual vs. budgeted revenue",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast variance",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "Sales revenue variance",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "Why Revenue Variance Matters to B2B Organizations",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue variance analysis connects planning with performance, helping B2B companies understand",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "actual results differ from expectations. It turns data into actionable insight for every team involved in driving revenue.",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Operations (RevOps)",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": ": Monitor budget accuracy, detect early warning signs in revenue trends, and guide cash flow planning or board reporting.",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "Across the organization, effective revenue variance analysis delivers tangible benefits:",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "Types of Revenue Variance",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "Understanding what drives revenue variance helps teams act on the right issues. Each driver highlights a different reason why actual revenue differed from forecasts.",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "Price variance appears when the average selling price changes from the forecast. Discounts, promotions, or competitor pressure can lower revenue, while price increases can create positive variance. Sales teams often watch this closely to judge",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "tracks changes in the ratio of products or services sold. It affects companies with multiple offerings or those using usage-based billing. A stronger mix of premium plans can lift total revenue, while lower tiers can pull it down.",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "Other factors include customer churn, account expansion, and upgrades. These often shape actual results in subscription or recurring models. Monitoring them helps teams spot early signs of revenue drift.",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Variance Formulas and Example",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue variance shows how much actual revenue differs from forecasted numbers. Understanding the formula helps teams find why performance shifted.",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "Price variance shows how pricing changes affected total revenue. Higher prices raise revenue. Discounts or promotions lower it. Pricing and finance teams use it to judge pricing impact fast.",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "measures the effect of selling more or fewer units. Strong sales volume increases revenue. Weak volume reduces it. Sales leaders rely on this to track performance gaps.",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Variance Calculation Example",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "Total Revenue Variance:",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "Variance is trusted by large Fortune 500 companies, and financial technology companies to run mission-critical compliance and fraud workflows, including KYC, KYB, AML, transaction monitoring, and fraud detection, investigations that typically require teams of analysts and days to complete.",
+    "url": "https://www.1011vc.com/news/variance-raises-21-5m-series-a-to-transform-risk-workflows-with-ai-agents",
+    "pass": 3
+   },
+   {
+    "quote": "Harrison Jesse Smith, Qingyuan Zheng, Yifei Li, Somya Jain, Jessica K. Hodgins",
+    "url": "https://research.facebook.com/publications/variance-weighted-estimators-to-improve-sensitivity-in-online-experiments/",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "Our mission is to build technology that helps good prevail in highly adversarial environments",
+    "url": "https://www.variance.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We're building AI agents that investigate and decide on complex compliance cases, protecting businesses and the people they serve.",
+    "url": "https://www.variance.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Agent Product Manager",
+    "url": "https://www.variance.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Account Executive",
+    "url": "https://www.variance.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Sales Engineer",
+    "url": "https://www.variance.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Product Marketing Lead",
+    "url": "https://www.variance.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Agents that follow procedure",
+    "url": "https://www.variance.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Customers write their review procedure once. Our runtime turns it into durable, step by step agent runs that call tools, survive restarts and cite evidence for every decision an analyst would otherwise make by hand.",
+    "url": "https://www.variance.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Analysts label agent runs, and those labels become the evals that tell us whether a prompt or model change helps, or quietly makes decisions worse.",
+    "url": "https://www.variance.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "One agent session per procedure step, a typed tool registry, and evidence captured to storage for every page an agent reads.",
+    "url": "https://www.variance.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Michael Lin · April 29, 2025",
+    "url": "https://www.variance.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Lessons from Using Sparse Autoencoders to Interpret AI Flags for Violent Threats",
+    "url": "https://www.variance.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Michael Lin · April 21, 2025",
+    "url": "https://www.variance.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Startup job listing catches AI applications with prompt injection",
+    "url": "https://www.variance.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A conversation with the hiring manager about your work, what you want next and what we're building. Bring your questions.",
+    "url": "https://www.variance.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A short, practical problem that checks fundamentals.",
+    "url": "https://www.variance.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "One coding round and one system design round. The problems come from our domain: entity resolution, rules engines, investigation queues and evaluation systems.",
+    "url": "https://www.variance.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The principles that guide how we build, decide, and operate every day.",
+    "url": "https://www.variance.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We operate in highly adversarial environments where threats continuously evolve. Our advantage is speed, we measure timelines from prototype to production in days, not months.",
+    "url": "https://www.variance.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We take care of our team so they can focus on what matters most — building products that make the internet safer.",
+    "url": "https://www.variance.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Build long-term financial security with our 401(k) program.",
+    "url": "https://www.variance.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-tax benefits to offset your daily commute costs.",
+    "url": "https://www.variance.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Cut onboarding time by 10x. Reduce false positives by 90%. AI agents that run your full KYC workflow end-to-end.",
+    "url": "https://www.variance.com/solutions/kyc",
+    "pass": 1
+   },
+   {
+    "quote": "Cut onboarding time by 10x",
+    "url": "https://www.variance.com/solutions/kyc",
+    "pass": 1
+   },
+   {
+    "quote": "Scale consistent application of your policies with agentic identity verification and KYC onboarding reviews.",
+    "url": "https://www.variance.com/solutions/kyc",
+    "pass": 1
+   },
+   {
+    "quote": "Update your policies proactively",
+    "url": "https://www.variance.com/solutions/kyc",
+    "pass": 1
+   },
+   {
+    "quote": "Expand to new markets and onboard new customer segments without months of hiring, training, and ramping analysts.",
+    "url": "https://www.variance.com/solutions/kyc",
+    "pass": 1
+   },
+   {
+    "quote": "Customer James Morrison submitted a UK passport and a utility bill for address verification. Document authenticity confirmed via OCR and tampering detection. Selfie liveness check passed with 99.2% confidence — face matched to passport photo. AML screening returned no hits on OFAC SDN, EU sanctions, or PEP lists. Adverse media scan found zero relevant results. Customer cleared for onboarding.",
+    "url": "https://www.variance.com/solutions/kyc",
+    "pass": 1
+   },
+   {
+    "quote": "Name & address matched • Issued within 90 days • Provider: British Gas",
+    "url": "https://www.variance.com/solutions/kyc",
+    "pass": 1
+   },
+   {
+    "quote": "Risk score 0.08 / 1.00 (Low) — no prior alerts or adverse indicators.",
+    "url": "https://www.variance.com/solutions/kyc",
+    "pass": 1
+   },
+   {
+    "quote": "Fully managed SaaS, private VPC peering, or on-premise air-gapped deployment for the most sensitive environments.",
+    "url": "https://www.variance.com/solutions/kyc",
+    "pass": 1
+   },
+   {
+    "quote": "Go beyond transactions. Investigate alerts across relationships, behavioral patterns, and interaction history to produce cited decisions at scale.",
+    "url": "https://www.variance.com/solutions/kyc",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive business verification and beneficial ownership discovery powered by AI. See how Variance does it with our interactive demo below.",
+    "url": "https://www.variance.com/solutions/kyb",
+    "pass": 1
+   },
+   {
+    "quote": "Traditionally, expanding to a new market or onboarding a new customer segment means months of hiring, training, and ramping analysts. With Variance, just provide your SOP, agents spin up immediately, following your exact policies from day one. Scale your compliance coverage without scaling headcount.",
+    "url": "https://www.variance.com/solutions/kyb",
+    "pass": 1
+   },
+   {
+    "quote": "KYB verification complete — entity cleared for onboarding.",
+    "url": "https://www.variance.com/solutions/kyb",
+    "pass": 1
+   },
+   {
+    "quote": "Fully managed SaaS, private VPC peering, or on-premise air-gapped deployment for the most sensitive environments.",
+    "url": "https://www.variance.com/solutions/kyb",
+    "pass": 1
+   },
+   {
+    "quote": "Go beyond transactions. Investigate alerts across relationships, behavioral patterns, and interaction history to produce cited decisions at scale.",
+    "url": "https://www.variance.com/solutions/kyb",
+    "pass": 1
+   },
+   {
+    "quote": "Different product, different agent",
+    "url": "https://www.variance.com/solutions/transaction-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Risk score 0.91 / 1.00 (High) — ML structuring probability 98.2%.",
+    "url": "https://www.variance.com/solutions/transaction-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Fully managed SaaS, private VPC peering, or on-premise air-gapped deployment for the most sensitive environments.",
+    "url": "https://www.variance.com/solutions/transaction-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Surface real risk, not noise. AI agents that screen, gather evidence, and prepare analyst-ready briefs for CDD and EDD reviews.",
+    "url": "https://www.variance.com/solutions/cdd",
+    "pass": 1
+   },
+   {
+    "quote": "Agents search adverse media archives, PEP databases, sanctions lists, regulatory filings, and open-source intelligence in parallel. Results are cross-referenced, cited to primary sources, and ranked by relevance.",
+    "url": "https://www.variance.com/solutions/cdd",
+    "pass": 1
+   },
+   {
+    "quote": "Apex Holdings director linked to $12M money laundering probe",
+    "url": "https://www.variance.com/solutions/cdd",
+    "pass": 1
+   },
+   {
+    "quote": "Fully managed SaaS, private VPC peering, or on-premise air-gapped deployment for the most sensitive environments.",
+    "url": "https://www.variance.com/solutions/cdd",
+    "pass": 1
+   },
+   {
+    "quote": "Go beyond transactions. Investigate alerts across relationships, behavioral patterns, and interaction history to produce cited decisions at scale.",
+    "url": "https://www.variance.com/solutions/cdd",
+    "pass": 1
+   },
+   {
+    "quote": "Variance is committed to protecting our customers and their data. Security is foundational to our platform and is tested by a team of security experts.",
+    "url": "https://www.variance.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise authentication and SSO support",
+    "url": "https://www.variance.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "On-Premise / Air-Gapped",
+    "url": "https://www.variance.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "How we protect your data",
+    "url": "https://www.variance.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "We offer zero-data-retention configurations so that customer data is never persisted beyond the scope of a single request.",
+    "url": "https://www.variance.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "Purpose-built controls for AI systems including prompt injection defenses, output validation, and model behavior boundaries. We are pursuing",
+    "url": "https://www.variance.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "MetricGate. (2026). Variance Gamma過程の適合 - 計算ツール [Web application]. https://metricgate.com/docs/ja/variance-gamma-process-fit/",
+    "url": "https://metricgate.com/docs/ja/variance-gamma-process-fit/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Private Cloud",
+    "url": "https://reference.wolfram.com/language/ref/Variance.html.ja",
+    "pass": 3
+   },
+   {
+    "quote": "High School Research Program",
+    "url": "https://reference.wolfram.com/language/ref/Variance.html.ja",
+    "pass": 3
+   },
+   {
+    "quote": "Wolfram Problem Generator",
+    "url": "https://reference.wolfram.com/language/ref/Variance.html.ja",
+    "pass": 3
+   },
+   {
+    "quote": "History of Mathematics Project",
+    "url": "https://reference.wolfram.com/language/ref/Variance.html.ja",
+    "pass": 3
+   },
+   {
+    "quote": "Variance[ProbabilityDistribution[(Sqrt[2] / π)(1 / (1 + (x - 2)^4)), {x, -∞, ∞}]]",
+    "url": "https://reference.wolfram.com/language/ref/Variance.html.ja",
+    "pass": 3
+   },
+   {
+    "quote": "Variance[BrownianBridgeProcess[a, b][t]]",
+    "url": "https://reference.wolfram.com/language/ref/Variance.html.ja",
+    "pass": 3
+   },
+   {
+    "quote": "td1 = RandomFunction[WienerProcess[], times];",
+    "url": "https://reference.wolfram.com/language/ref/Variance.html.ja",
+    "pass": 3
+   },
+   {
+    "quote": "td2 = RandomFunction[OrnsteinUhlenbeckProcess[0, 1, 1 / 3, 0], times];",
+    "url": "https://reference.wolfram.com/language/ref/Variance.html.ja",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "times = {TimeObject[{12}, TimeZone -> 0], TimeObject[{12}, TimeZone -> 2], TimeObject[{12}, TimeZone -> \"Asia/Tokyo\"]}",
+    "url": "https://reference.wolfram.com/language/ref/Variance.html.ja",
+    "pass": 3
+   },
+   {
+    "quote": "日本語WordNet(英和)での「variance」の意味",
+    "url": "https://ejje.weblio.jp/content/variance",
+    "pass": 3
+   },
+   {
+    "quote": "Creative Commons 表示 2.1 日本 License",
+    "url": "https://ejje.weblio.jp/content/variance",
+    "pass": 3
+   },
+   {
+    "quote": "Variance of Variance - Ryou Ohsawa @ National Astronomical Observatory of Japan",
+    "url": "https://www.ryouohsawa.info/note/stats/variances/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Variance Gamma過程の適合 - 計算ツール - MetricGate — Variance Gamma過程の適合 - 計算ツール - MetricGate MetricGate https://metricgate.com > 確率過程",
+    "url": "https://metricgate.com/docs/ja/variance-gamma-process-fit/",
+    "pass": 3
+   },
+   {
+    "quote": "Variance - Wolfram Language Documentation — Variance - Wolfram Language Documentation reference.wolfram.com https://reference.wolfram.com > ref > Variance.html.ja",
+    "url": "https://reference.wolfram.com/language/ref/Variance.html.ja",
+    "pass": 3
+   },
+   {
+    "quote": "英語「 variance 」の意味・使い方・読み方 | Weblio英和辞書 — 英語「 variance 」の意味・使い方・読み方 | Weblio英和辞書 Weblio英和和英辞典 https://ejje.weblio.jp > 英和辞典・和英辞典 > 英和辞典",
+    "url": "https://ejje.weblio.jp/content/variance",
+    "pass": 3
+   },
+   {
+    "quote": "large variance - 和訳 – Linguee辞書 — large variance - 和訳 – Linguee辞書 Linguee https://www.linguee.jp > 翻訳 > large+variance",
+    "url": "https://www.linguee.jp/%E8%8B%B1%E8%AA%9E-%E6%97%A5%E6%9C%AC%E8%AA%9E/%E7%BF%BB%E8%A8%B3/large+variance.html",
+    "pass": 3
+   },
+   {
+    "quote": "コスト差異（Cost Variance 、CV） - ZDNET Japan — コスト差異（Cost Variance 、CV） - ZDNET Japan ZDNET Japan https://japan.zdnet.com > keyword > コスト差異（Cost+Va...",
+    "url": "https://japan.zdnet.com/keyword/%E3%82%B3%E3%82%B9%E3%83%88%E5%B7%AE%E7%95%B0%EF%BC%88Cost+Variance%E3%80%81CV%EF%BC%89/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan : Variance Decompositions for the Summary Model — Japan : Variance Decompositions for the Summary Model ResearchGate https://www.researchgate.net > figure",
+    "url": "https://www.researchgate.net/figure/Japan-Variance-Decompositions-for-the-Summary-Model_tbl6_5008715",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Minimum Variance Index - S&P Global — Japan Minimum Variance Index - S&P Global S&P Global PDF https://www.spglobal.com > spdji > custom-indices",
+    "url": "https://www.spglobal.com/spdji/en/custom-indices/Ossiam_JP_Minimum_Variance_Final.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Variance of Variance — Variance of Variance ryouohsawa.info https://www.ryouohsawa.info > note > stats > variances",
+    "url": "https://www.ryouohsawa.info/note/stats/variances/",
+    "pass": 3
+   },
+   {
+    "quote": "Culture versus other sources of variance in risk and benefit ... — Culture versus other sources of variance in risk and benefit ... APA PsycNet https://psycnet.apa.org > record",
+    "url": "https://psycnet.apa.org/record/2022-36309-001",
+    "pass": 3
+   },
+   {
+    "quote": "How Variances Helped a Manufacturing Company Correct Its ... — How Variances Helped a Manufacturing Company Correct Its ... LinkedIn https://www.linkedin.com > pulse > h...",
+    "url": "https://www.linkedin.com/pulse/how-variances-helped-manufacturing-company-correct-syed-cma-msc",
+    "pass": 3
+   },
+   {
+    "quote": "A Case Study of a Variance Analysis Framework for Managing ... — A Case Study of a Variance Analysis Framework for Managing ... ResearchGate https://www.researchgate.net > 22991...",
+    "url": "https://www.researchgate.net/publication/229918359_A_Case_Study_of_a_Variance_Analysis_Framework_for_Managing_Distribution_Costs",
+    "pass": 3
+   },
+   {
+    "quote": "Venture Capital on Instagram: \" Variance (formerly Intrinsic), a ... — Venture Capital on Instagram: \" Variance (formerly Intrinsic), a ... Instagram https://www.instagram.com > DWog...",
+    "url": "https://www.instagram.com/p/DWogYQvEXps/",
+    "pass": 3
+   },
+   {
+    "quote": "What is Revenue Variance ? | DealHub AI — What is Revenue Variance ? | DealHub AI DealHub AI https://dealhub.io > revenue-variance",
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "pass": 3
+   },
+   {
+    "quote": "Variance Raises $21.5M Series A to Transform Risk ... - 1011VC — Variance Raises $21.5M Series A to Transform Risk ... - 1011VC 1011VC https://www.1011vc.com > news > va...",
+    "url": "https://www.1011vc.com/news/variance-raises-21-5m-series-a-to-transform-risk-workflows-with-ai-agents",
+    "pass": 3
+   },
+   {
+    "quote": "Variance - 2026 Company Profile, Team, Funding & Competitors — Variance - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/variance/__SpWOegk14ed3b3JFiNC8IbfBOkhaXTqG6C50qTnqabU",
+    "pass": 3
+   },
+   {
+    "quote": "Complete Guide to Variance Analysis in 2025 | Numeric — Complete Guide to Variance Analysis in 2025 | Numeric Numeric https://www.numeric.io > blog > varia...",
+    "url": "https://www.numeric.io/blog/variance-analysis-guide",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Mean, Variance , Covariance, and Correlation Coefficient ... Mean, Variance , Covariance, and Correlation Coefficient ... note https://note.com > ... > 学び・受験",
+    "url": "https://note.com/bunsekiya_tech/n/n1137a60f0306?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Variance and Standard Deviation: Why Square Them ... - note Variance and Standard Deviation: Why Square Them ... - note note https://note.com > ... > 学び・受験",
+    "url": "https://note.com/nobuakimichihata/n/nfc82047b06db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Understanding the Variance Formula from the Linearity ... - note Understanding the Variance Formula from the Linearity ... - note note https://note.com > 教育・学び > 学び・受験",
+    "url": "https://note.com/limber_skink4659/n/n98eee2870faa?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Statistics Grade 2 Preparation: Summary of Mathematical Formulas - Mean, Variance, Covariance, and Correlation Coefficient -｜分析屋",
+    "url": "https://note.com/bunsekiya_tech/n/n1137a60f0306?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Statistics Grade 2 Preparation: Summary of Mathematical Formulas - Mean, Variance, Covariance, and Correlation Coefficient -",
+    "url": "https://note.com/bunsekiya_tech/n/n1137a60f0306?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Nice to meet you. My name is Sado from the AI Business Department.",
+    "url": "https://note.com/bunsekiya_tech/n/n1137a60f0306?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I am currently studying for the Statistics Grade 2 exam.",
+    "url": "https://note.com/bunsekiya_tech/n/n1137a60f0306?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since I used statistics like t-tests during biological experiments in graduate school, I thought it would be easy to pass.",
+    "url": "https://note.com/bunsekiya_tech/n/n1137a60f0306?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, once I started, I found myself confused by the appearance of multiple formulas for the same term early on, and even though I knew the formulas themselves, I couldn't solve the problems, so it took more time to understand than I expected.",
+    "url": "https://note.com/bunsekiya_tech/n/n1137a60f0306?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I felt that choosing the right formula was difficult, especially since the same terms are sometimes used in different contexts.",
+    "url": "https://note.com/bunsekiya_tech/n/n1137a60f0306?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, I have summarized the overview, differences, and usage of the following.",
+    "url": "https://note.com/bunsekiya_tech/n/n1137a60f0306?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Variance and Standard Deviation: Why Square Them and Why Take the Square Root Back?｜michihata",
+    "url": "https://note.com/nobuakimichihata/n/nfc82047b06db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Variance and Standard Deviation: Why Square Them and Why Take the Square Root Back?",
+    "url": "https://note.com/nobuakimichihata/n/nfc82047b06db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1.4 Variance and Standard Deviation: Why Square Them and Why Take the Square Root Back?",
+    "url": "https://note.com/nobuakimichihata/n/nfc82047b06db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Average Alone Is Not Enough",
+    "url": "https://note.com/nobuakimichihata/n/nfc82047b06db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the previous section, we learned how to represent the \"center\" of data with a single number. However, knowing just the center only reveals half of the data's story. Let's verify this with an example.",
+    "url": "https://note.com/nobuakimichihata/n/nfc82047b06db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Consider the scores of two groups:",
+    "url": "https://note.com/nobuakimichihata/n/nfc82047b06db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Group A: 45, 50, 55 Group B: 0, 50, 100",
+    "url": "https://note.com/nobuakimichihata/n/nfc82047b06db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In both cases, the average is exactly 50 points. If you look only at the average, these two appear to be the \"same.\" However, their contents are completely different. In Group A, everyone is clustered around 50, and everyone has similar performance. In Group B, the scores are widely spread from 0 to 100; some people got a perfect score, while others got 0. The single number called the average cann",
+    "url": "https://note.com/nobuakimichihata/n/nfc82047b06db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Understanding the Variance Formula from the Linearity of Expectation [Data Science Advanced]｜hy21",
+    "url": "https://note.com/limber_skink4659/n/n98eee2870faa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Understanding the Variance Formula from the Linearity of Expectation [Data Science Advanced]",
+    "url": "https://note.com/limber_skink4659/n/n98eee2870faa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Variance is a representative indicator that expresses the \"dispersion of data or random variables.\" In this article, we will organize how the following important formula is derived through:",
+    "url": "https://note.com/limber_skink4659/n/n98eee2870faa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "the definition of variance",
+    "url": "https://note.com/limber_skink4659/n/n98eee2870faa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "the linearity of expectation",
+    "url": "https://note.com/limber_skink4659/n/n98eee2870faa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "a calculation process without skipping intermediate steps",
+    "url": "https://note.com/limber_skink4659/n/n98eee2870faa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\\mathrm{Var}(X)=E[X^2]-(E[X])^2",
+    "url": "https://note.com/limber_skink4659/n/n98eee2870faa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2. Linearity of Expectation",
+    "url": "https://note.com/limber_skink4659/n/n98eee2870faa?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Variance Project (@Variance_Pro) / X Variance Project (@Variance_Pro) / X X https://x.com > Variance_Pro",
+    "url": "https://x.com/Variance_Pro",
+    "pass": 3
+   },
+   {
+    "quote": "Variance Films (@VarianceFilms) / X Variance Films (@VarianceFilms) / X X https://x.com > VarianceFilms",
+    "url": "https://x.com/VarianceFilms",
+    "pass": 3
+   },
+   {
+    "quote": "Variance (@playvariance) / X Variance (@playvariance) / X X https://x.com > playvariance",
+    "url": "https://x.com/playvariance",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Why Sample Variance Uses \"n - 1\": A Simple Explanation with ... Why Sample Variance Uses \"n - 1\": A Simple Explanation with ... LinkedIn https://www.linkedin.com > pulse > w...",
+    "url": "https://www.linkedin.com/pulse/why-sample-variance-uses-n-1-simple-explanation-example-gupta",
+    "pass": 3
+   },
+   {
+    "quote": "Variance | LinkedIn Variance | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/variancesafety",
+    "pass": 3
+   },
+   {
+    "quote": "Variance : A Comprehensive Overview - LinkedIn Variance : A Comprehensive Overview - LinkedIn LinkedIn https://www.linkedin.com > posts > br...",
+    "url": "https://www.linkedin.com/posts/bruceratner_variance-a-comprehensive-overview-activity-7344701590445998080-osqc",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Deviation and Variance Analysis - LinkedIn Standard Deviation and Variance Analysis - LinkedIn LinkedIn https://www.linkedin.com > science",
+    "url": "https://www.linkedin.com/top-content/science/scientific-methodological-standards/standard-deviation-and-variance-analysis/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Variance explained: formula, interpretation and key points Variance explained: formula, interpretation and key points Facebook https://www.facebook.com > posts > variance-measures-h...",
+    "url": "https://www.facebook.com/100079651447238/posts/variance-measures-how-much-data-values-are-spread-out-from-their-mean-averagevar/1114497541215284/",
+    "pass": 3
+   },
+   {
+    "quote": "90% of People Memorize Variance ... But Never ... - Facebook 90% of People Memorize Variance ... But Never ... - Facebook Facebook https://www.facebook.com > posts",
+    "url": "https://www.facebook.com/61568751478861/posts/-90-of-people-memorize-variance-but-never-truly-understand-it-if-i-give-you-thes/122179070600625049/",
+    "pass": 3
+   },
+   {
+    "quote": "Variance -Weighted Estimators to Improve Sensitivity in Online ... Variance -Weighted Estimators to Improve Sensitivity in Online ... Meta Research https://research.facebook.com > varia...",
+    "url": "https://research.facebook.com/publications/variance-weighted-estimators-to-improve-sensitivity-in-online-experiments/",
+    "pass": 3
+   },
+   {
+    "quote": "How to Use Variance to Describe Your Data with Examples How to Use Variance to Describe Your Data with Examples Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/61577385781210/videos/how-many-times-have-you-used-variance-in-your-analysisfind-the-full-video-on-my-/4489310581331059/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・本文）": [
+   {
+    "quote": "Variance-Weighted Estimators to Improve Sensitivity in Online Experiments - Meta Research",
+    "url": "https://research.facebook.com/publications/variance-weighted-estimators-to-improve-sensitivity-in-online-experiments/",
+    "pass": 3
+   },
+   {
+    "quote": "Variance-Weighted Estimators to Improve Sensitivity in Online Experiments",
+    "url": "https://research.facebook.com/publications/variance-weighted-estimators-to-improve-sensitivity-in-online-experiments/",
+    "pass": 3
+   },
+   {
+    "quote": "Conference on Economics and Computation (EC)",
+    "url": "https://research.facebook.com/publications/variance-weighted-estimators-to-improve-sensitivity-in-online-experiments/",
+    "pass": 3
+   },
+   {
+    "quote": "As companies increasingly rely on experiments to make product decisions, precisely measuring changes in key metrics is important. Various methods to increase sensitivity in experiments have been proposed, including methods that use pre-experiment data, machine learning, and more advanced experimental designs. However, prior work has not explored modeling heterogeneity in the variance of individual",
+    "url": "https://research.facebook.com/publications/variance-weighted-estimators-to-improve-sensitivity-in-online-experiments/",
+    "pass": 3
+   },
+   {
+    "quote": "Featured Publications",
+    "url": "https://research.facebook.com/publications/variance-weighted-estimators-to-improve-sensitivity-in-online-experiments/",
+    "pass": 3
+   },
+   {
+    "quote": "A Method for Animating Children’s Drawings of the Human Figure",
+    "url": "https://research.facebook.com/publications/variance-weighted-estimators-to-improve-sensitivity-in-online-experiments/",
+    "pass": 3
+   },
+   {
+    "quote": "Harrison Jesse Smith, Qingyuan Zheng, Yifei Li, Somya Jain, Jessica K. Hodgins",
+    "url": "https://research.facebook.com/publications/variance-weighted-estimators-to-improve-sensitivity-in-online-experiments/",
+    "pass": 3
+   },
+   {
+    "quote": "Simulation and Retargeting of Complex Multi-Character Interactions",
+    "url": "https://research.facebook.com/publications/variance-weighted-estimators-to-improve-sensitivity-in-online-experiments/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.variance.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.variance.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.variance.com/solutions/kyc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.variance.com/solutions/kyb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.variance.com/solutions/transaction-monitoring",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.variance.com/solutions/cdd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.variance.com/security",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.variance.com/logos/businessinsider.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.variance.com/logos/businesswire.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.variance.com/logos/regulators/fincen.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.variance.com/logos/regulators/ofac.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://metricgate.com/docs/ja/variance-gamma-process-fit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reference.wolfram.com/language/ref/Variance.html.ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ejje.weblio.jp/content/variance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linguee.jp/%E8%8B%B1%E8%AA%9E-%E6%97%A5%E6%9C%AC%E8%AA%9E/%E7%BF%BB%E8%A8%B3/large+variance.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hits-company.co.jp/alliance/column/agency-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-dx.com/column/agency_system_column/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/figure/Japan-Variance-Decompositions-for-the-Summary-Model_tbl6_5008715",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spglobal.com/spdji/en/custom-indices/Ossiam_JP_Minimum_Variance_Final.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://academiccommons.columbia.edu/doi/10.7916/D8B56SMQ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ryouohsawa.info/note/stats/variances/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJLeZRlN-FQmLNUJr38woRFIjcxSpFot5I34gjcbjc-H0p2P0Zy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/how-variances-helped-manufacturing-company-correct-syed-cma-msc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.flexwareinnovation.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bakertilly.com/insights/how-baker-tilly-explain-the-unexplainable-manufacturing-variances",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/startups/comments/w857z8/b2b_white_label_saas_reselling/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/p/DWogYQvEXps/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dealhub.io/glossary/revenue-variance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.1011vc.com/news/variance-raises-21-5m-series-a-to-transform-risk-workflows-with-ai-agents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/variance/__SpWOegk14ed3b3JFiNC8IbfBOkhaXTqG6C50qTnqabU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/bunsekiya_tech/n/n1137a60f0306?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nobuakimichihata/n/nfc82047b06db?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/limber_skink4659/n/n98eee2870faa?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Variance_Pro",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/VarianceFilms",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/playvariance",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/why-sample-variance-uses-n-1-simple-explanation-example-gupta",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/variancesafety",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/bruceratner_variance-a-comprehensive-overview-activity-7344701590445998080-osqc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/top-content/science/scientific-methodological-standards/standard-deviation-and-variance-analysis/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100079651447238/posts/variance-measures-how-much-data-values-are-spread-out-from-their-mean-averagevar/1114497541215284/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61568751478861/posts/-90-of-people-memorize-variance-but-never-truly-understand-it-if-i-give-you-thes/122179070600625049/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://research.facebook.com/publications/variance-weighted-estimators-to-improve-sensitivity-in-online-experiments/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/61577385781210/videos/how-many-times-have-you-used-variance-in-your-analysisfind-the-full-video-on-my-/4489310581331059/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Variance 日本 導入",
+   "results": [
+    "https://metricgate.com/docs/ja/variance-gamma-process-fit/",
+    "https://reference.wolfram.com/language/ref/Variance.html.ja",
+    "https://ejje.weblio.jp/content/variance",
+    "https://www.linguee.jp/%E8%8B%B1%E8%AA%9E-%E6%97%A5%E6%9C%AC%E8%AA%9E/%E7%BF%BB%E8%A8%B3/large+variance.html",
+    "https://japan.zdnet.com/keyword/%E3%82%B3%E3%82%B9%E3%83%88%E5%B7%AE%E7%95%B0%EF%BC%88Cost+Variance%E3%80%81CV%EF%BC%89/",
+    "https://resources.rework.com/ja/libraries/ai-for-finance/ai-variance-analysis",
+    "https://www.rieti.go.jp/jp/publications/summary/20030024.html",
+    "https://inhouse-plus.jp/reporting/looker-studio-variance/",
+    "https://www.cybernet.co.jp/ncs/column_glossary/glossary/bariance/",
+    "https://ja.wikipedia.org/wiki/分散_(確率論)"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Variance 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.hits-company.co.jp/alliance/column/agency-business/",
+    "https://growth-dx.com/column/agency_system_column/",
+    "https://www.digima-japan.com/knowhow/world/19787.php",
+    "https://www.deex.co.jp/media/8uGKOPAJ",
+    "https://partner-prop.com/lab/partner-business/agency/3216/",
+    "https://www.provej.jp/column/distributor-vs-agent-2026/",
+    "https://b-seeds.com/column/tokuyakuten-vs-agency",
+    "https://ja.wikipedia.org/wiki/ジョージフィッシャー_(企業)"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 22
+  },
+  {
+   "query": "Variance Japan",
+   "results": [
+    "https://www.researchgate.net/figure/Japan-Variance-Decompositions-for-the-Summary-Model_tbl6_5008715",
+    "https://www.spglobal.com/spdji/en/custom-indices/Ossiam_JP_Minimum_Variance_Final.pdf",
+    "https://academiccommons.columbia.edu/doi/10.7916/D8B56SMQ",
+    "https://www.ryouohsawa.info/note/stats/variances/",
+    "https://psycnet.apa.org/record/2022-36309-001",
+    "https://www.jmp.com/en/statistics-knowledge-portal/exploratory-data-analysis/descriptive-statistics/variance",
+    "https://onlinelibrary.wiley.com/doi/10.1002/bdm.2277",
+    "https://market-graphs.com/praxis/flow/the-development-of-mean-variance-efficient-portfolios-in-japan-and-the-u-s",
+    "https://en.wikipedia.org/wiki/Variance",
+    "https://ja.wikipedia.org/wiki/分散_(確率論)"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Variance manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJLeZRlN-FQmLNUJr38woRFIjcxSpFot5I34gjcbjc-H0p2P0Zy",
+    "https://www.linkedin.com/pulse/how-variances-helped-manufacturing-company-correct-syed-cma-msc",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://www.bakertilly.com/insights/how-baker-tilly-explain-the-unexplainable-manufacturing-variances",
+    "https://www.researchgate.net/publication/229918359_A_Case_Study_of_a_Variance_Analysis_Framework_for_Managing_Distribution_Costs",
+    "https://www.industryweek.com/leadership/strategic-planning-execution/article/21261091/winning-with-customer-case-studies-4-tips-6-pitfalls",
+    "https://www.epiusers.help/t/manufacturing-variances/98426",
+    "https://www.veryableops.com/resources/case-studies",
+    "https://www.rit.edu/advancedmanufacturing/industry40/course/industry-40-case-studies-curated",
+    "https://www.scribd.com/document/773915324/Case-Study-on-Variance-Analysis"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Variance white label OR reseller OR partner program",
+   "results": [
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.reddit.com/r/startups/comments/w857z8/b2b_white_label_saas_reselling/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://intandem.vcita.com/blog/partners/different-types-of-white-label-partnerships",
+    "https://help.salesplay.com/help/introducing-the-salesplay-partner-white-label-program/",
+    "https://www.intermedia.com/resellers",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Variance founded funding employees revenue",
+   "results": [
+    "https://www.instagram.com/p/DWogYQvEXps/",
+    "https://dealhub.io/glossary/revenue-variance/",
+    "https://www.1011vc.com/news/variance-raises-21-5m-series-a-to-transform-risk-workflows-with-ai-agents",
+    "https://tracxn.com/d/companies/variance/__SpWOegk14ed3b3JFiNC8IbfBOkhaXTqG6C50qTnqabU",
+    "https://www.numeric.io/blog/variance-analysis-guide",
+    "https://www.youtube.com/watch?v=Qt6P88axaQs",
+    "https://www.abacum.ai/blog/revenue-variance-analysis",
+    "https://beebole.com/blog/payroll-variance-guide-finance-hr-managers",
+    "https://www.martussolutions.com/blog/budget-variance-analysis",
+    "https://pitchbook.com/profiles/company/339791-05"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Variance",
+   "results": [
+    "https://note.com/bunsekiya_tech/n/n1137a60f0306?hl=en",
+    "https://note.com/nobuakimichihata/n/nfc82047b06db?hl=en",
+    "https://note.com/manabiokawari/n/n18d19950ad20?hl=en",
+    "https://note.com/limber_skink4659/n/n98eee2870faa?hl=en",
+    "https://note.com/coolangel/n/ne310eda8dc5a?hl=en",
+    "https://note.com/lawliet_poker/n/n9bca54be942c?hl=en",
+    "https://note.com/fair_pride/n/nf7bc072edcf7?hl=en",
+    "https://note.com/sikaku_rakutoru/n/n6f2b802e7883?hl=en",
+    "https://note.com/m_fish/n/nbd9728a135f3?hl=en",
+    "https://note.com/kyuhei_1401/n/nd1d0b6bffd11?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Variance",
+   "results": [
+    "https://x.com/Variance_Pro",
+    "https://x.com/VarianceFilms",
+    "https://x.com/playvariance",
+    "https://x.com/bburkeESPN/status/2117429282838647240",
+    "https://blog.x.com/en/engineering/power-minimal-detectable-effect-and-bucket-size-estimation-in-ab-tests",
+    "https://x.com/nntaleb/status/2113374985725124609",
+    "https://x.com/signulll/status/1907803374428299526",
+    "https://x.com/awscloud/status/2092292184074518648",
+    "https://x.com/Mortdog/status/1751998026997240307",
+    "https://x.com/VARIANCE"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com Variance",
+   "results": [
+    "https://www.linkedin.com/pulse/why-sample-variance-uses-n-1-simple-explanation-example-gupta",
+    "https://www.linkedin.com/company/variancesafety",
+    "https://www.linkedin.com/posts/bruceratner_variance-a-comprehensive-overview-activity-7344701590445998080-osqc",
+    "https://www.linkedin.com/top-content/science/scientific-methodological-standards/standard-deviation-and-variance-analysis/",
+    "https://www.linkedin.com/pulse/analysis-variance-anova-why-look-when-were-interested-emily-wong",
+    "https://www.linkedin.com/posts/joachim-schork_bigdata-statisticalanalysis-dataanalytics-activity-7365882263248506881-L086",
+    "https://www.linkedin.com/advice/3/what-impact-sample-size-variance-explained-skills-data-analytics-gohqe",
+    "https://www.linkedin.com/top-content/finance/budget-variance-analysis/variance-reporting-techniques/",
+    "https://www.linkedin.com/posts/stanish-gunasekaran-a03ba554_sigma-squared-%CF%832-mathematically-represents-activity-7389764968352653312-s2Hx",
+    "https://www.linkedin.com/company/variancehq"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Variance",
+   "results": [
+    "https://www.facebook.com/100079651447238/posts/variance-measures-how-much-data-values-are-spread-out-from-their-mean-averagevar/1114497541215284/",
+    "https://www.facebook.com/61568751478861/posts/-90-of-people-memorize-variance-but-never-truly-understand-it-if-i-give-you-thes/122179070600625049/",
+    "https://research.facebook.com/publications/variance-weighted-estimators-to-improve-sensitivity-in-online-experiments/",
+    "https://www.facebook.com/61577385781210/videos/how-many-times-have-you-used-variance-in-your-analysisfind-the-full-video-on-my-/4489310581331059/",
+    "https://www.facebook.com/groups/350703092032436/posts/2589714834797906/",
+    "https://www.facebook.com/groups/1222594588120217/posts/2561663617546634/",
+    "https://ai.facebook.com/blog/advertising-fairness-variance-reduction-system-vrs/?utm_source=social-linkedin&utm_medium=m4d&utm_campaign=organic&utm_content=post-url&utm_offering=artificial-intelligence&utm_product=A-new-system-to-help-ensure-ads-are-delivered-fairly-to-different-demographic-groups_02072023&eventSource=organicsocialm4d&content_id=3oj8uLmiAhGCyhX",
+    "https://www.facebook.com/groups/physicsisfun109/posts/775404621805051/",
+    "https://research.facebook.com/blog/2020/10/increasing-the-sensitivity-of-a-b-tests-by-utilizing-the-variance-estimates-of-experimental-units/",
+    "https://www.facebook.com/variancemag/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Variance note 社長",
+   "results": [
+    "https://arxiv.org/abs/2301.01543",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://x.com/sadaaki",
+    "https://variancejournal.org/editorial-board",
+    "https://diamond.jp/articles/-/388572",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Variance X 投稿",
+   "results": [
+    "https://stats.stackexchange.com/questions/327722/calculate-variance-of-x2-when-x-is-a-random-variable-with-mean-0-and-vari",
+    "https://amsi.org.au/ESA_Senior_Years/SeniorTopic4/4h/4h_2content_4.html",
+    "https://en.wikipedia.org/wiki/Variance",
+    "https://mbernste.github.io/files/notes/Variance.pdf",
+    "https://www.youtube.com/watch?v=vZUiayobZK4",
+    "https://www.reddit.com/r/statistics/comments/1agz1px/q_how_to_calculate_the_variance_of_ex_ey/",
+    "https://planetmath.org/variance",
+    "https://www.probabilitycourse.com/chapter3/3_2_4_variance.php"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式7頁／PDF・画像4件／外部38頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像4件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像4件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像4件／外部38頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式7頁／PDF・画像4件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式7頁／PDF・画像4件／外部38頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式7頁／PDF・画像4件／外部38頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式7頁／PDF・画像4件／外部38頁・検索12回）"
+ }
+}

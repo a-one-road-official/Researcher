@@ -1,0 +1,1340 @@
+{
+ "name": "Usefini",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T06:14:18.156666+00:00",
+ "official_url": "https://www.usefini.com",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "Pricing unit",
+    "value": "Per resolved ticket; no per-seat fees; plan fee not on the cards (page data: $3,600/mo Growth, $9,000 Scale, 14 Oct 2026)",
+    "url": "https://www.getmacha.com/blog/fini-ai-complete-guide",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Fini AI | Self-improving AI for Customer Experiences",
+    "url": "https://www.usefini.com/",
+    "pass": 1
+   },
+   {
+    "quote": "#1 rated AI agent for enterprise support",
+    "url": "https://www.usefini.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Solving complex support tickets for enterprises",
+    "url": "https://www.usefini.com/",
+    "pass": 1
+   },
+   {
+    "quote": "70% support queue reduction| 12% CSAT improvement | 26s average response time",
+    "url": "https://www.usefini.com/",
+    "pass": 1
+   },
+   {
+    "quote": "90-Day Money-Back Guarantee: 90% resolution in 90 days, or you pay $0. Send 1,000 real tickets, we'll prove it on your data. If the math doesn't work, you walk.",
+    "url": "https://www.usefini.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Live without engineering. Agentic workflows inside two weeks. Full autonomy by day 30. No migration project.",
+    "url": "https://www.usefini.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We went from 15% to 70% automation on key journeys. Fini doesn't just follow our playbooks, it self-improves them",
+    "url": "https://www.usefini.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect backend systems - billing, CRM, internal tools. Fini starts taking real actions: processing refunds, updating accounts, pulling customer data.",
+    "url": "https://www.usefini.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Self-learning active. Knowledge gaps auto-detected. Voice, chat, and email unified. Fini handles 90% of volume at 99% accuracy, and keeps improving without you touching it.",
+    "url": "https://www.usefini.com/",
+    "pass": 1
+   },
+   {
+    "quote": "layer to protect sensitive financial data.",
+    "url": "https://www.usefini.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built with security and compliance embedded at every layer to protect sensitive financial data.",
+    "url": "https://www.usefini.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I think I'm being charged incorrectly under GDPR",
+    "url": "https://www.usefini.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Solving complex support tickets for enterprises",
+    "url": "https://www.usefini.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous, self-improving agents in 30 days. Never tune them again.",
+    "url": "https://www.usefini.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "agent for enterprise fintech",
+    "url": "https://www.usefini.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Fini AI (usefini.com) is a product of Fini Technologies Inc.",
+    "url": "https://www.usefini.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Fini empowers enterprises to effortlessly deploy headless AI agents capable of resolving",
+    "url": "https://www.usefini.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing starts at $0.49 per resolution.",
+    "url": "https://www.usefini.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Security and compliance: SOC 2 Type II, ISO 27001:2022, PCI DSS Level 1, HIPAA-compliant, BAA-eligible, GDPR and CCPA.",
+    "url": "https://www.usefini.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Fini - the next gen way to drive proactive support. Story by YC.",
+    "url": "https://www.usefini.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Fini AI Pricing: Plans & Costs for AI Customer Support",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priority email support",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White-glove onboarding",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Uptime SLA · premium support",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise extras (table below)",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Extras included in Scale and Enterprise.",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Critical Priority Functions (Enterprise Extras)",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "PER RESOLUTION · ENTERPRISE",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "You pay only when Fini fully solves the issue, with no human involved. Escalations to your team are free (and with full context). This is how every plan is priced.",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "PREFER PER CONVERSATION?",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For high-volume or low-handle-time profiles, we can quote a flat per-conversation rate instead. Ask and we'll model both against your real traffic",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We'll prove it fist. For Enterprise customers.",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "90 days free · Enterprise",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise pilots run on your live traffic with resolution, CSAT, and accuracy targets agreed in writing. You pay nothing during the 90 days. If the numbers work, your plan begins. If they don’t, you walk.",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Growth costs $0.89 per resolved ticket. Scale costs $0.69 per resolved ticket. Enterprise costs $0.49 per resolved ticket. Plans include the platform and implementation, with no per-seat fees.",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What is a resolution, and how does per-resolution pricing work?",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Under the 90-Day Money-Back Guarantee, eligible new enterprise customers run Fini on live traffic: if Fini does not reach 90% resolution in 90 days, you pay $0. Send 1,000 real tickets and we'll prove it on your data. Fini goes live in 14 days and is fully autonomous in 30. Full terms: usefini.com/security/fini-guarantee-terms.",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. The per-resolution rate drops automatically as volume grows, from $0.89 on Growth to $0.49 on Enterprise, and Fini flags the moment an upgrade would lower your bill. Multi-year terms save more: 15% for two years and 20% for three years on Growth and Scale, and 15% and 25% on Enterprise, with annual prepay earning another 5%.",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How is Fini's voice AI priced?",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Voice AI is priced per answered call and is available on every plan. Calls cost $0.89 each for the first 10,000 per month, $0.59 from 10,001 to 50,000, and $0.35 above 50,000, with a per-minute alternative of $0.22, $0.18, and $0.14 for longer calls. The rate is all-inclusive across speech recognition, AI reasoning, voice synthesis, and telephony, with multilingual support at no extra cost.",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Nothing breaks if you exceed your allowance. Fini keeps resolving issues and bills the extra at your tier's flat per-resolution rate, $0.89 on Growth, $0.69 on Scale, and $0.49 on Enterprise, invoiced monthly in arrears on actual usage. Unused allowance rolls forward one month, so a quiet month cushions a busy one. There are no overage minimums and no penalty rate for going over.",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The plan is billed in advance with annual, quarterly, or monthly payment options, while overage is billed monthly in arrears on actual usage. Annual billing includes two months free. Prices are listed in USD, and contracts are available in EUR, GBP, and AUD at the prevailing rate at signing. There are no usage minimums and no per-seat fees on any plan.",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Does Fini's pricing work for regulated industries like fintech and healthcare?",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Solving complex support tickets for enterprises",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "2x previous capacity in the first two weeks",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Their Success team supports both sides of that equation, founders navigating raises and investors managing their portfolios. Every interaction carries weight. As Kai Moon, who leads the Success team, put it: the goal is to give every user an “11-star experience”, a bar borrowed from Airbnb’s philosophy of going far beyond what’s expected.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The Problem: Volume Without Capacity",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Wefunder’s Success team was receiving 1,000+ emails per week. Questions ranged from routine how-tos to complex account actions: password resets, email unsubscribes, 2FA fixes, withdrawal inquiries. The kind of work that demands accuracy but consumes disproportionate time. The kind of work that’s necessary but repetitive.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Response times averaged around 7 hours. The team was maxing out at roughly 600 emails per week. There was zero capacity left for higher-value work: improving processes, building better experiences, or tackling the complex cases that actually needed a human.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "“Every investor and founder deserves prompt, reliable support. But with the volume of incoming messages, we couldn’t do that dependably.”, Kai Moon, Success Team Lead",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The team faced a binary choice: hire more people, or find a smarter way to handle the routine volume without adding headcount.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "First, Fini plugged an AI agent into Front, Wefunder’s help desk. It reads incoming emails, pulls answers from Wefunder’s knowledge base, and either handles it or passes it to the team. Most routine stuff never needs a human.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "And critically, Fini doesn’t just answer questions: it takes actions. Password resets, marketing unsubscribes, 2FA fixes, withdrawal-specific responses. Instead of telling users what to do, it actually does it for them.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "“I chose Fini because of its solid reputation, capacity for complexity, and history of working with fintech startups which need complete accuracy and strong compliance guardrails built into the product.” - Kai",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Fini’s agent instructions, keyword handling, and content structure showed a level of thought that competitors hadn’t reached.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Product maturity overall.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "1. Prompts and guardrails.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The most intensive phase. Every existing help article was reviewed. Many were consolidated into more comprehensive overview articles. Content was added, removed, and restructured, as if building a help center from scratch.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Two dedicated weeks wiring up agent actions: password resets, marketing unsubscribes, 2FA fixes, and withdrawal-specific responses.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "“Thank you! I appreciate the clear directions.”, Investor, after step-by-step guidance on increasing an investment",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by teams where compliance is non-negotiable",
+    "url": "https://www.usefini.com/",
+    "pass": 1
+   },
+   {
+    "quote": "48 reactions. 5 reposts. When leadership shares results like this unprompted, it speaks louder than any case study.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Peaksware Case Study: 70%+ Ticket Deflection With Fini AI",
+    "url": "https://www.usefini.com/blog/peaksware-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Qogita Case Study: 88% E-commerce Resolution",
+    "url": "https://www.usefini.com/blog/case-study-qogita",
+    "pass": 1
+   },
+   {
+    "quote": "Knowledge Items are structured, atomic pieces of information used by Fini to respond accurately. They are continuously improved through feedback.",
+    "url": "https://www.usefini.com/blog/case-study-qogita",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams where compliance is non-negotiable",
+    "url": "https://www.usefini.com/industries/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams where compliance is non-negotiable",
+    "url": "https://www.usefini.com/industries/e-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse · real-time",
+    "url": "https://www.usefini.com/industries/e-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams where compliance is non-negotiable",
+    "url": "https://www.usefini.com/industries/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams where compliance is non-negotiable",
+    "url": "https://www.usefini.com/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams where compliance is non-negotiable",
+    "url": "https://www.usefini.com/industries/gaming",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams where compliance is non-negotiable",
+    "url": "https://www.usefini.com/industries/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Hi Priya, your order left our warehouse on Monday and the latest scan shows it at your local depot. It should arrive tomorrow.",
+    "url": "https://www.getmacha.com/blog/fini-ai-complete-guide",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Fini's AI agent works across voice, chat, and email with 99% accuracy. Live in 14 days, fully autonomous in 30. Never tune it.",
+    "url": "https://www.usefini.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stop buying one vendor for chat, another for email, and a third for voice. Fini unifies all three on the same reasoning, policies, and audit trail.",
+    "url": "https://www.usefini.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Self-learning active. Knowledge gaps auto-detected. Voice, chat, and email unified. Fini handles 90% of volume at 99% accuracy, and keeps improving without you touching it.",
+    "url": "https://www.usefini.com/",
+    "pass": 1
+   },
+   {
+    "quote": "All set. Moved your booking to Tuesday. Email coming shortly.",
+    "url": "https://www.usefini.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Priority email support",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How Wefunder cut response times from 7 hours to 15 minutes while handling 2x the email volume, without adding headcount.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Wefunder, the equity crowdfunding platform, connected Fini to its Front help desk to handle investor and founder support, including password resets, 2FA fixes and withdrawal questions. In the first two weeks live, Fini answered roughly 2,000 emails, took over 80% of outbound messages, and cut average response time from more than 7 hours to minutes.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "1k+ support emails per week, 7 hour average response time, no capacity for higher-impact work",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Wefunder’s Success team was receiving 1,000+ emails per week. Questions ranged from routine how-tos to complex account actions: password resets, email unsubscribes, 2FA fixes, withdrawal inquiries. The kind of work that demands accuracy but consumes disproportionate time. The kind of work that’s necessary but repetitive.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Response times averaged around 7 hours. The team was maxing out at roughly 600 emails per week. There was zero capacity left for higher-value work: improving processes, building better experiences, or tackling the complex cases that actually needed a human.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Before Fini, Wefunder only had email support. If an investor had a question mid-investment or a founder needed help with their campaign, they’d send an email and wait, often ~7 hours for a reply.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "First, Fini plugged an AI agent into Front, Wefunder’s help desk. It reads incoming emails, pulls answers from Wefunder’s knowledge base, and either handles it or passes it to the team. Most routine stuff never needs a human.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Before Fini, the team maxed out at ~600 emails per week with 7+ hour response times. Here’s what happened when they flipped the switch:",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "In total, Fini answered roughly 2,000 emails in the first two weeks.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "These are the projects that improve the platform for everyone, and they weren’t getting done when the team was buried in routine email.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "best AI email responders for fintech support",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Wefunder's Success team was receiving 1,000+ emails per week. Response times averaged around 7 hours. The team was maxing out at roughly 600 emails per week. There was zero capacity left for higher-value work: improving processes, building better experiences, or tackling the complex cases that actually needed a human.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "A structured rollout runs across three stages: Day 1 deploys the Knowledge Agent with no code; Day 14 connects billing, CRM, and internal tools with real actions and a full audit trail; Day 30 reaches full autonomy with voice, chat, and email unified at Resolution Rate 90%.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy an autonomous agent that scales with volume rather than with hiring. Wefunder went from a ceiling of roughly 600 emails per week to handling 1,400 to 1,500 messages in a single week, at the same team size, after going live with Fini.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "How do you add live chat to a platform that only had email support before?",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "You deploy an AI widget alongside your existing helpdesk integration, giving users a real-time channel without rebuilding your support stack. Wefunder launched live chat for founders through the Fini widget and, for the first time, users could get answers in seconds rather than waiting hours for an email reply.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Zendesk (email + ticket)",
+    "url": "https://www.usefini.com/blog/peaksware-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "By implementing Fini’s AI-powered solution, Qogita achieved 88% ticket resolution, a 121% improvement in SLA, and reduced response times to just 10 minutes for email and forms. With Fini, 50% of support tickets are now handled end-to-end, enabling Qogita to maintain exceptional customer satisfaction while scaling seamlessly.",
+    "url": "https://www.usefini.com/blog/case-study-qogita",
+    "pass": 1
+   },
+   {
+    "quote": "To streamline communication channels and maintain efficient workflows, Qogita required a solution that could sync with their existing HubSpot CRM without any code. It was critical to ensure that the AI Agent should be able to answer tickets across channels in HubSpot including - Emails, Live chat, Messenger, Whatsapp, and Forms.",
+    "url": "https://www.usefini.com/blog/case-study-qogita",
+    "pass": 1
+   },
+   {
+    "quote": ": Fini was one of the few solutions that could handle multiple channels - Live Chat, Whatsapp, email & forms.",
+    "url": "https://www.usefini.com/blog/case-study-qogita",
+    "pass": 1
+   },
+   {
+    "quote": "Qogita used Fini’s zero-code, headless integration capabilities to connect with their existing HubSpot workflows. This enabled automated responses across email, live chat, WhatsApp, Messenger, and forms, without requiring developer time or custom engineering.",
+    "url": "https://www.usefini.com/blog/case-study-qogita",
+    "pass": 1
+   },
+   {
+    "quote": "Fini covered multiple customer touchpoints including HubSpot email, chat, WhatsApp, Messenger, and forms, offering a unified and automated support experience across all these channels.",
+    "url": "https://www.usefini.com/blog/case-study-qogita",
+    "pass": 1
+   },
+   {
+    "quote": "By resolving most tickets instantly and accurately, Fini cut Qogita’s average email and form response time to just 10 minutes.",
+    "url": "https://www.usefini.com/blog/case-study-qogita",
+    "pass": 1
+   },
+   {
+    "quote": "Fini resolves 90% of tickets across voice, chat, and email at 99% accuracy, with the guardrails and audit trails regulators expect. Live in 14 days, fully autonomous in 30.",
+    "url": "https://www.usefini.com/industries/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Fini verifies the customer, pulls live account data, takes the action, and closes the ticket. Across voice, chat, and email, inside your policies.",
+    "url": "https://www.usefini.com/industries/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Email match, if anything",
+    "url": "https://www.usefini.com/industries/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Self-learning active. Knowledge gaps auto-detected. Voice, chat, and email unified. Fini handles 90% of volume at 99% accuracy, and keeps improving without you touching it.",
+    "url": "https://www.usefini.com/industries/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Self-learning active. Knowledge gaps auto-detected. Voice, chat, and email unified. Fini resolves 90% of tickets at 99% accuracy and keeps improving without you touching it.",
+    "url": "https://www.usefini.com/industries/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Fini resolves 90% of support tickets at 99% accuracy, measured through human review of conversations, across voice, chat, and email. It automates workflows like KYC, refunds, and account updates, and escalates anything that needs a human with full context.",
+    "url": "https://www.usefini.com/industries/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Fini resolves up to 90% of order, return, and product questions across chat, email, and voice at 99% accuracy, and recommends the right add-on while it does. Live in 14 days, in every language you sell in.",
+    "url": "https://www.usefini.com/industries/e-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Fini reads the order, checks live shipping and returns data, takes the action, and closes the ticket. Across chat, email, and voice, in every language you sell in.",
+    "url": "https://www.usefini.com/industries/e-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Found it. Your order stalled in transit, so I've shipped a free replacement on priority. It'll arrive by Thursday and I've emailed you fresh tracking. No charge for the reship.",
+    "url": "https://www.usefini.com/industries/e-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Voice, chat, email; 130+ languages",
+    "url": "https://www.usefini.com/industries/e-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Self-learning active. Knowledge gaps auto-detected. Voice, chat, and email unified. Fini handles 90% of volume at 99% accuracy, and keeps improving without you touching it.",
+    "url": "https://www.usefini.com/industries/e-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Self-learning active. Knowledge gaps auto-detected. Voice, chat, and email unified. Fini handles 95% of volume at 99% accuracy, and keeps improving without you touching it.",
+    "url": "https://www.usefini.com/industries/e-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Done. You're just past the 30-day window, but since it's unworn I've approved a one-time goodwill return. Your prepaid label is on its way by email.",
+    "url": "https://www.usefini.com/industries/e-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Email · return window",
+    "url": "https://www.usefini.com/industries/e-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Self-learning active. Knowledge gaps auto-detected. Voice, chat, and email unified. Fini handles 90% of volume at 99% accuracy, and keeps improving without you touching it.",
+    "url": "https://www.usefini.com/industries/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Self-learning active. Knowledge gaps auto-detected. Voice, chat, and email unified. Fini handles 95% of volume at 99% accuracy, and keeps improving without you touching it.",
+    "url": "https://www.usefini.com/industries/technology",
+    "pass": 1
+   },
+   {
+    "quote": "In-app, email, voice; 130+ languages",
+    "url": "https://www.usefini.com/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Self-learning active. Knowledge gaps auto-detected. Voice, chat, and email unified. Fini handles 90% of volume at 99% accuracy, and keeps improving without you touching it.",
+    "url": "https://www.usefini.com/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Self-learning active. Knowledge gaps auto-detected. Voice, chat, and email unified. Fini resolves 90% of tickets at 99% accuracy and keeps improving without you touching it.",
+    "url": "https://www.usefini.com/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Operational ones: billing, subscriptions, insurance and coverage policy, account access, and device or integration issues. Fini verifies the user, pulls live account status from your systems, and takes the action inside your policies, across chat, email, and voice in 130+ languages.",
+    "url": "https://www.usefini.com/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Done. I verified it was you, generated your full data export and emailed the link, and scheduled account deletion for 30 days out. You can cancel anytime before then.",
+    "url": "https://www.usefini.com/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Fini resolves purchases, account recovery, and bug reports across chat, email, and voice, in 130+ languages and around the clock. It calls your game and store APIs to fix the issue, not just explain it. Live in 14 days.",
+    "url": "https://www.usefini.com/industries/gaming",
+    "pass": 1
+   },
+   {
+    "quote": "In-app, email, voice; 130+ languages",
+    "url": "https://www.usefini.com/industries/gaming",
+    "pass": 1
+   },
+   {
+    "quote": "Self-learning active. Knowledge gaps auto-detected. Voice, chat, and email unified. Fini handles 90% of volume at 99% accuracy, and keeps improving without you touching it.",
+    "url": "https://www.usefini.com/industries/gaming",
+    "pass": 1
+   },
+   {
+    "quote": "Self-learning active. Knowledge gaps auto-detected. Voice, chat, and email unified. Fini handles 95% of volume at 99% accuracy, and keeps improving without you touching it.",
+    "url": "https://www.usefini.com/industries/gaming",
+    "pass": 1
+   },
+   {
+    "quote": "My account got hacked, someone changed my email and I think they spent my coins. Please help.",
+    "url": "https://www.usefini.com/industries/gaming",
+    "pass": 1
+   },
+   {
+    "quote": "I've confirmed you're the owner and secured the account. Your email is restored, 2FA is back on, and I reversed the intruder's three purchases and returned your coins.",
+    "url": "https://www.usefini.com/industries/gaming",
+    "pass": 1
+   },
+   {
+    "quote": "Fini answers policy questions, takes FNOL, shares claims status, and handles billing changes across voice, chat, and email. 90% resolution, 99% accuracy, every step logged.",
+    "url": "https://www.usefini.com/industries/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Email match, if anything",
+    "url": "https://www.usefini.com/industries/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Self-learning active. Knowledge gaps auto-detected. Voice, chat, and email unified. Fini handles 90% of volume at 99% accuracy, and keeps improving without you touching it.",
+    "url": "https://www.usefini.com/industries/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Done. Your auto policy is cancelled from today under your carrier's rules, and the unused premium refund has been submitted to your card on file. A confirmation email is on its way.",
+    "url": "https://www.usefini.com/industries/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Chat, email, widget, voice",
+    "url": "https://www.getmacha.com/blog/fini-ai-complete-guide",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Nothing breaks if you exceed your allowance. Fini keeps resolving issues and bills the extra at your tier's flat per-resolution rate, $0.89 on Growth, $0.69 on Scale, and $0.49 on Enterprise, invoiced monthly in arrears on actual usage. Unused allowance rolls forward one month, so a quiet month cushions a busy one. There are no overage minimums and no penalty rate for going over.",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The plan is billed in advance with annual, quarterly, or monthly payment options, while overage is billed monthly in arrears on actual usage. Annual billing includes two months free. Prices are listed in USD, and contracts are available in EUR, GBP, and AUD at the prevailing rate at signing. There are no usage minimums and no per-seat fees on any plan.",
+    "url": "https://www.usefini.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Their Success team supports both sides of that equation, founders navigating raises and investors managing their portfolios. Every interaction carries weight. As Kai Moon, who leads the Success team, put it: the goal is to give every user an “11-star experience”, a bar borrowed from Airbnb’s philosophy of going far beyond what’s expected.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Fini uses a reasoning engine that combines LLM intelligence with deterministic rules, so the agent knows exactly when to act and how, with guardrails that don't bend. Every decision carries an audit trail, and the platform is SOC 2 Type II, ISO 27001, HIPAA-compliant, and BAA-eligible by default.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Kristina Green is Senior Support Rep on TrainingPeaks. Darren Lacy is Senior Support Rep on Train Heroic, where he also runs onboarding and trains the AI agent. Both have been with the company for nearly three years. Support sits at the center of both brands.",
+    "url": "https://www.usefini.com/blog/peaksware-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Darren Lacy, Senior Support Rep, Train Heroic",
+    "url": "https://www.usefini.com/blog/peaksware-case-study",
+    "pass": 1
+   },
+   {
+    "quote": ". The ones that do escalate arrive triaged, Fini gathers context, identifies the brand and user type, and hands the agent a head start instead of a cold ticket.",
+    "url": "https://www.usefini.com/blog/peaksware-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Near zero, context arrives with the ticket",
+    "url": "https://www.usefini.com/blog/peaksware-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "When edge cases surface, the team improves them in real time. Direct dashboard access means Darren can add a knowledge item, test it, and see the improved response within minutes.",
+    "url": "https://www.usefini.com/blog/peaksware-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Clara Girardeau - Revenue Operations Manager",
+    "url": "https://www.usefini.com/blog/case-study-qogita",
+    "pass": 1
+   },
+   {
+    "quote": "I sent a $2,400 transfer two days ago and it still hasn't arrived. Where is my money?",
+    "url": "https://www.usefini.com/industries/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Pull real-time order, carrier, and delivery status straight from your store and shipping stack.",
+    "url": "https://www.usefini.com/industries/e-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Found it. Your order stalled in transit, so I've shipped a free replacement on priority. It'll arrive by Thursday and I've emailed you fresh tracking. No charge for the reship.",
+    "url": "https://www.usefini.com/industries/e-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time order and carrier tracking",
+    "url": "https://www.usefini.com/industries/e-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Done. Your auto policy is cancelled from today under your carrier's rules, and the unused premium refund has been submitted to your card on file. A confirmation email is on its way.",
+    "url": "https://www.usefini.com/industries/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Carrier rules · notice period",
+    "url": "https://www.usefini.com/industries/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "). Custom API actions are listed as a Scale extra on the pricing page. A deflection chatbot only points people at articles; action-taking is central to Fini's fintech positioning.",
+    "url": "https://www.getmacha.com/blog/fini-ai-complete-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Past the allowance, extra resolutions bill at $0.89, $0.69 or $0.49, monthly in arrears; the per-conversation alternative is $0.69 on Growth and $0.49 on Scale. Unused allowance rolls forward one month. Conversations reopened within 72 hours aren't billed twice, and greetings, spam and abandoned sessions are never billable.",
+    "url": "https://www.getmacha.com/blog/fini-ai-complete-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Unlike several enterprise competitors, Fini publishes its rates, which helps budgeting even without a listed plan fee.",
+    "url": "https://www.getmacha.com/blog/fini-ai-complete-guide",
+    "pass": 3
+   },
+   {
+    "quote": "2023 AppSumo reviewers flagged hallucinations, setup errors and a gap between the advertised model and what shipped (see below). The product has matured since, but it's part of the record.",
+    "url": "https://www.getmacha.com/blog/fini-ai-complete-guide",
+    "pass": 3
+   },
+   {
+    "quote": "(19 August 2026), which also noted that most carry G2's \"Seller invite\" flag; Fini's own llms.txt claims 4.9/5 on G2. G2 blocked our requests on 11 October, so we couldn't recount. An older third-party teardown put the count at about 47, which neither eesel's count nor Fini's materials support. The recurring praise is the people behind the product:",
+    "url": "https://www.getmacha.com/blog/fini-ai-complete-guide",
+    "pass": 3
+   },
+   {
+    "quote": ": a mature, widely adopted AI agent with public per-outcome pricing; the default if you're already on Intercom, and owned by Salesforce since September 2026. \"Fin\" and \"Fini\" are different products from different companies, which is easy to confuse.",
+    "url": "https://www.getmacha.com/blog/fini-ai-complete-guide",
+    "pass": 3
+   },
+   {
+    "quote": "is the AI agent from the company formerly called Intercom, now owned by Salesforce;",
+    "url": "https://www.getmacha.com/blog/fini-ai-complete-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Hi, my order was meant to arrive on Tuesday. Any update?",
+    "url": "https://www.getmacha.com/blog/fini-ai-complete-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Hi Priya, your order left our warehouse on Monday and the latest scan shows it at your local depot. It should arrive tomorrow.",
+    "url": "https://www.getmacha.com/blog/fini-ai-complete-guide",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Fini | LinkedIn — Fini | LinkedIn LinkedIn https://www.linkedin.com > usefini",
+    "url": "https://www.linkedin.com/company/usefini",
+    "pass": 3
+   },
+   {
+    "quote": "Fini Raises $3.6M Seed Round — Fini Raises $3.6M Seed Round Fini AI https://www.usefini.com > blog > fini...",
+    "url": "https://www.usefini.com/blog/finis-seed-round-announcement",
+    "pass": 3
+   },
+   {
+    "quote": "Fini Labs - AI Customer Support Resources — Fini Labs - AI Customer Support Resources Fini AI https://www.usefini.com > blog",
+    "url": "https://www.usefini.com/blog",
+    "pass": 3
+   },
+   {
+    "quote": "Fini Revenue 2024: $2.3M Est. - GetLatka — Fini Revenue 2024: $2.3M Est. - GetLatka GetLatka https://getlatka.com > usefini",
+    "url": "https://getlatka.com/companies/usefini.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Deepak Singla (@deepsinglak) / Posts / X Apr 15, 2012 · Location: Amsterdam, Netherlands Website: https://usefini.com Joined: Apr 15, 2012 118 Posts 212 Following",
+    "url": "https://x.com/deepsinglak",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Fini | LinkedIn Fini | LinkedIn LinkedIn https://www.linkedin.com > usefini",
+    "url": "https://www.linkedin.com/company/usefini",
+    "pass": 3
+   },
+   {
+    "quote": "Fini 2.0 Revolutionizes AI Support with Contextual ... - LinkedIn Fini 2.0 Revolutionizes AI Support with Contextual ... - LinkedIn LinkedIn https://www.linkedin.com > posts > usefini_fini-20-activit...",
+    "url": "https://www.linkedin.com/posts/usefini_fini-20-activity-7421563028376305665-Zi3Z",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ayi cha umuntu usefini elimnyama - Facebook ayi cha umuntu usefini elimnyama - Facebook Facebook https://www.facebook.com > posts > ayi-cha-umuntu-usef...",
+    "url": "https://www.facebook.com/61584024371003/posts/ayi-cha-umuntu-usefini-elimnyama-/122158763307134145/",
+    "pass": 3
+   },
+   {
+    "quote": "Are there any 18+ serious RP servers that don't use Fini ? Are there any 18+ serious RP servers that don't use Fini ? Facebook https://www.facebook.com > thevigilantecity > posts",
+    "url": "https://www.facebook.com/groups/thevigilantecity/posts/1165171064818795/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.usefini.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usefini.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usefini.com/company/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usefini.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usefini.com/blog/peaksware-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usefini.com/blog/lisa-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usefini.com/blog/case-study-qogita",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usefini.com/resource-library/ragless-ai-for-customer-support-a-new-standard-for-accuracy-safety-and-scale",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usefini.com/industries/finance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usefini.com/industries/e-commerce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usefini.com/industries/technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usefini.com/industries/healthcare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usefini.com/industries/gaming",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usefini.com/industries/insurance",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://framerusercontent.com/images/0VI4qmwuFJafOPyrkFeMTpsZc.png?width=3600&height=3600",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://framerusercontent.com/images/PWx2oEF72M95nfX7BMXM3ZTsnY.png?width=3165&height=1333",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://response.jp/article/2026/11/07/418712.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trafficnews.jp/post/725198",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-port.com/news/374/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/usefini",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://us-jf.org/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getmacha.com/blog/fini-ai-complete-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLoQNgIRlEm3WW-4V1DCq2llv8C9eDWyTjR5cz-mvoIXNpj2jFe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simio.com/blog/5-important-cases-ai-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Y-l_-CAmJ2c",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://customgpt.ai/white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/fini-ea8a",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/fini/__h_E2gELggseBUSgFMbJNmwuBjmufrMETrhIe43Lsu78",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/501494-41",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/deepsinglak",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/usefini",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/usefini_fini-20-activity-7421563028376305665-Zi3Z",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61584024371003/posts/ayi-cha-umuntu-usefini-elimnyama-/122158763307134145/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/thevigilantecity/posts/1165171064818795/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Usefini 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://response.jp/article/2026/11/07/418712.html",
+    "https://trafficnews.jp/post/725198",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.mycar-life.com/article/2026/11/08/32725.html",
+    "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://www.aba-j.or.jp/info/industry/20087/",
+    "https://eeai.tv/tools/usefini",
+    "https://www.usefini.com/product/platform"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Usefini 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.japan-port.com/news/374/",
+    "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "https://usen-networks.ne.jp/agent/",
+    "https://www.hits-company.co.jp/alliance/column/agency-business/",
+    "https://usen.com/portal/partner/column/successful-agency-business/",
+    "https://dairitenboshu.com/column/detail/soudairiten"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Usefini Japan",
+   "results": [
+    "https://www.linkedin.com/company/usefini",
+    "https://www.usefini.com/blog/finis-seed-round-announcement",
+    "https://us-jf.org/en/",
+    "https://www.getmacha.com/blog/fini-ai-complete-guide",
+    "https://www.jusfc.gov/",
+    "https://www.linkedin.com/posts/usefini_fini-20-activity-7421563028376305665-Zi3Z",
+    "https://www.usa.gov/agencies/japan-united-states-friendship-commission",
+    "https://japan.uso.org/stories",
+    "https://www.japan-guide.com/e/e4750.html",
+    "https://www.usefini.com/company/about-us"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Usefini manufacturing customer case study",
+   "results": [
+    "https://c3.ai/customers",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLoQNgIRlEm3WW-4V1DCq2llv8C9eDWyTjR5cz-mvoIXNpj2jFe",
+    "https://www.usefini.com/blog",
+    "https://www.simio.com/blog/5-important-cases-ai-manufacturing",
+    "https://www.linkedin.com/company/usefini",
+    "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "https://www.leewayhertz.com/ai-use-cases-in-manufacturing/",
+    "https://goamplifi.com/knowledge-base/case-study-6-case-studies-of-data-management-success-in-manufacturing",
+    "https://www.usefini.com/case-studies"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Usefini white label OR reseller OR partner program",
+   "results": [
+    "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.youtube.com/watch?v=Y-l_-CAmJ2c",
+    "https://customgpt.ai/white-label-software-to-resell/",
+    "https://sellful.com/",
+    "https://www.soci.ai/partners-reseller/",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Usefini founded funding employees revenue",
+   "results": [
+    "https://www.usefini.com/blog/finis-seed-round-announcement",
+    "https://www.crunchbase.com/organization/fini-ea8a",
+    "https://tracxn.com/d/companies/fini/__h_E2gELggseBUSgFMbJNmwuBjmufrMETrhIe43Lsu78",
+    "https://pitchbook.com/profiles/company/501494-41",
+    "https://getlatka.com/companies/usefini.com",
+    "https://www.linkedin.com/in/deep-singla",
+    "https://www.ycombinator.com/companies/fini",
+    "https://thelogic.co/news/analysis/ai-startups-millions-tiny-teams/",
+    "https://www.getmacha.com/blog/fini-ai-complete-guide",
+    "https://www.owler.com/company/usefini"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:note.com Usefini",
+   "results": [
+    "https://note.com/nami_biyori/n/nc8ae5978965c",
+    "https://note.com/seigo77",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/canserstudent",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/mio_adviser_8888/n/n7d3f9597f090",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/chikama_teppei/n/nd5b65fb5e514"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com Usefini",
+   "results": [
+    "https://x.com/hide_sera",
+    "https://x.com/finichatAI",
+    "https://x.com/deepsinglak",
+    "https://x.com/finichatAI/status/2112548550722945424",
+    "https://x.com/deepsinglak/with_replies",
+    "https://x.com/finichatAI/status/2115081090448994418",
+    "https://x.com/finitsu",
+    "https://x.com/finichatAI/status/2112544367776842028"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com Usefini",
+   "results": [
+    "https://www.linkedin.com/company/usefini",
+    "https://www.linkedin.com/in/deep-singla",
+    "https://www.linkedin.com/posts/usefini_fini-20-activity-7421563028376305665-Zi3Z",
+    "https://www.linkedin.com/posts/usefini_fini-ai-is-at-web-summit-in-lisbon-this-week-activity-7525921807720312833-THAJ",
+    "https://www.linkedin.com/products/usefini-fini/",
+    "https://www.linkedin.com/posts/deep-singla_were-hiring-our-first-enterprise-sales-leader-activity-7502999331763974144-XtdW",
+    "https://www.linkedin.com/posts/gordycasasco_fini-raises-36m-seed-round-to-close-the-activity-7419784171356753920-nCZ4",
+    "https://www.linkedin.com/posts/usefini_a-customers-ai-agent-asks-for-a-refund-on-activity-7520831828816138241-6sa_",
+    "https://in.linkedin.com/in/nikhil-kumar-chandwani-2b23a9172",
+    "https://www.linkedin.com/posts/usefini_gtm-seo-fintech-activity-7514618339566977024-Rsgo"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Usefini",
+   "results": [
+    "https://www.facebook.com/61584024371003/posts/ayi-cha-umuntu-usefini-elimnyama-/122158763307134145/",
+    "https://www.facebook.com/groups/thevigilantecity/posts/1165171064818795/",
+    "https://www.facebook.com/MakeNsiwela/posts/-nelly-siwela-is-with-tanele-mnisi-music-lobamba-revival-centre-utsi-davide-ku-s/841282255325751/",
+    "https://www.facebook.com/fb-answers/end-of-the-day-in-french/",
+    "https://www.facebook.com/christina.b.volpe/videos/part-2-of-my-makeup-base-i-do-every-single-time-routine-if-you-watched-part-1-yo/1093368166511658/",
+    "https://www.facebook.com/groups/3478915688853848/posts/29150439674608097/",
+    "https://www.facebook.com/groups/2936517136591278/posts/3903497949893187/",
+    "https://www.facebook.com/mackenzie.foster.79/videos/letting-yall-in-on-this-little-makeup-secret-of-mine-no-one-come-for-me-just-my-/1144119454945845/",
+    "https://www.facebook.com/FrenchLearnerOfficial/videos/je-finis-mes-devoirs-im-finishing-my-homework-finir-to-finish-to-endhear-real-ex/796557206492425/",
+    "https://www.facebook.com/61593615458649/photos/122101658007453848/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Usefini note 社長",
+   "results": [
+    "https://x.com/sadaaki",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://note.com/yosuke77",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://hutzper.com/news/notice/n261025/",
+    "https://note.com/tag/CEO%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://www.usefini.com/company/about-us"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Usefini X 投稿",
+   "results": [
+    "https://help.x.com/ja/forms/safety-and-sensitive-content/private-information",
+    "https://docs.emplifi.io/platform/latest/home/twitter-publishing",
+    "https://chromewebstore.google.com/detail/twitter-post-exporter-dow/jdegdcamkndlebppmdlkgolkknkbjcne?hl=ja",
+    "https://www.env.go.jp/info/sns/twitter.html",
+    "https://play.google.com/store/apps/details?id=komatsu.twitter_download",
+    "https://note.com/ai_smallbiz_lab/n/n210df09a0572",
+    "https://generaltranslation.mintlify.app/ja/x-api/usage/introduction",
+    "https://qiita.com/ju-to-sh/items/89fd342da1f9d1042b34",
+    "https://tools.ikunaga.net/tweet-link/",
+    "https://app.usefini.com/?trk=public_post_reshare-text"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式15頁／PDF・画像2件／外部26頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式15頁／PDF・画像2件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式15頁／PDF・画像2件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式15頁／PDF・画像2件／外部26頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式15頁／PDF・画像2件／外部26頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式15頁／PDF・画像2件／外部26頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式15頁／PDF・画像2件／外部26頁・検索12回）"
+ }
+}

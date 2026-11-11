@@ -1,0 +1,1120 @@
+{
+ "name": "Third Wave Automation",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T06:37:45.717021+00:00",
+ "official_url": "https://thirdwave.ai/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "01-Jun-2018 $4M $4M  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/230740-75",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "3,832,516 $0.000100  $1.04 $1.04 1x $1.04 7.03%",
+    "url": "https://pitchbook.com/profiles/company/230740-75",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2018",
+    "url": "https://startupintros.com/orgs/third-wave-automation",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Union City, CA, USA",
+    "url": "https://startupintros.com/orgs/third-wave-automation",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The proof operators care about",
+    "url": "https://thirdwave.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pilot fast, lower cost, keep inventory precise, and supervise more trucks with fewer exceptions.",
+    "url": "https://thirdwave.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Safety incidents, with floor-based personnel protection.",
+    "url": "https://thirdwave.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Third Wave provides autonomous forklifts that work independently but which are overseen by human operators who step in when the machines call for help.”",
+    "url": "https://thirdwave.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Kris Jensen · Vice President of Warehouse Operations, Armada Supply Chain Solutions",
+    "url": "https://thirdwave.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "3D perception that sees people, forklifts, and payloads, and tells them apart.",
+    "url": "https://thirdwave.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The same shared autonomy loop, captured live, trucks running the routine, operators stepping in remotely, payloads handled safely.",
+    "url": "https://thirdwave.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Payload Safety Evaluation Process",
+    "url": "https://thirdwave.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ArmadaFMS is the software behind everything above, the screen where one operator supervises, assists, and continuously improves the forklift fleet you just watched on the floor.",
+    "url": "https://thirdwave.ai/",
+    "pass": 1
+   },
+   {
+    "quote": ", so physical AI-powered autonomy deploys on trusted, proven platforms, not unfamiliar hardware.",
+    "url": "https://thirdwave.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Shared autonomy and AI-driven lift truck automation to help customers improve throughput and operational flexibility",
+    "url": "https://thirdwave.ai/announcements/twa-tmhna-partnership-press-release",
+    "pass": 1
+   },
+   {
+    "quote": "“We have been purposefully and thoughtfully integrating advanced technology and AI-driven capabilities across Raymond’s integrated ecosystem of solutions to help customers optimize workflows, improve visibility, and better connect their operations,\" said",
+    "url": "https://thirdwave.ai/announcements/twa-tmhna-partnership-press-release",
+    "pass": 1
+   },
+   {
+    "quote": ". \"Adding Third Wave's technology to our Raymond lineup is a natural extension of that approach, enhancing the solutions available to our customers while supporting more connected, scalable warehouse operations and automating the right application where it makes sense.”",
+    "url": "https://thirdwave.ai/announcements/twa-tmhna-partnership-press-release",
+    "pass": 1
+   },
+   {
+    "quote": "The initial lineup will include an automated Raymond Swing-Reach® truck and several soon to be announced products, each integrated with Third Wave's automation technology and targeted for commercial availability. The trucks will be distributed through Raymond’s Solutions and Support Centers.",
+    "url": "https://thirdwave.ai/announcements/twa-tmhna-partnership-press-release",
+    "pass": 1
+   },
+   {
+    "quote": "Prashant Bothra, principal, Woven Capital",
+    "url": "https://thirdwave.ai/announcements/twa-tmhna-partnership-press-release",
+    "pass": 1
+   },
+   {
+    "quote": "Proven in production. Here is what Third Wave Automation delivers in",
+    "url": "https://thirdwave.ai/why-third-wave-automation",
+    "pass": 1
+   },
+   {
+    "quote": "10x productivity gains",
+    "url": "https://thirdwave.ai/why-third-wave-automation",
+    "pass": 1
+   },
+   {
+    "quote": "2 weeks to first production moves",
+    "url": "https://thirdwave.ai/why-third-wave-automation",
+    "pass": 1
+   },
+   {
+    "quote": "The real cost is the section taken out of service, disruption during repair, rising insurance premiums, and OSHA exposure after a reportable event. Third Wave forklifts do not clip racks. 3D LiDAR, centimeter-level navigation, and the Collision Shield eliminate contact with racking during normal operations. Zero racking damage is documented across live deployments, not modeled.",
+    "url": "https://thirdwave.ai/why-third-wave-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Documented across live production deployments, not a modeled estimate.",
+    "url": "https://thirdwave.ai/why-third-wave-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Fewer incidents mean lower premiums and reduced OSHA exposure.",
+    "url": "https://thirdwave.ai/why-third-wave-automation",
+    "pass": 1
+   },
+   {
+    "quote": ". Most safety programs rely on training, signage, and floor markings: controls that depend on human compliance and degrade under fatigue. Third Wave’s approach is architectural. Its physical AI platform perceives people, forklifts, and objects in 360 degrees, classifies what it sees, and responds before contact occurs. The Collision Shield adds a redundant layer during remote operation.",
+    "url": "https://thirdwave.ai/why-third-wave-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Predictable, incident-free throughput",
+    "url": "https://thirdwave.ai/why-third-wave-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous operation at height, in dense racking, with the precision high-bay environments demand.",
+    "url": "https://thirdwave.ai/why-third-wave-automation",
+    "pass": 1
+   },
+   {
+    "quote": ", to alleviate increasing supply chain stress using intelligent physical AI products and services. Leveraging machine learning and artificial intelligence to create its Shared Autonomy Platform, Third Wave Automation brings people and automated systems together to improve throughput, efficiency, and safety beyond what either people or automation could achieve alone.",
+    "url": "https://thirdwave.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We put safety first in everything we do. Our safety-first ethos is reflected in our products, which are designed to automate work's most dangerous tasks and keep people protected on the floor.",
+    "url": "https://thirdwave.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Choose from a variety of medical plan to fit your needs. We also offer dental, vision,life insurance, and additional ancillary benefits. Employees have access to flexible FSA/HSA accounts, telemedicine, prescription coverage, and confidential mental health support through Spring Health and our EAP.",
+    "url": "https://thirdwave.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We are committed to continuously improving our processes and products. Our platform learns with every shift, and so do we.",
+    "url": "https://thirdwave.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "and professional responsibilities effectively.",
+    "url": "https://thirdwave.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We empower our employees to be innovative problem-solvers with ownership over their work and outcomes. We empower our customers to work safer, more efficiently, and more effectively.",
+    "url": "https://thirdwave.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Productivity and Efficiency",
+    "url": "https://thirdwave.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We design products that give customers meaningful workflow insights, facilitating adoption and creating continuous opportunities for improvement.",
+    "url": "https://thirdwave.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "You can count on us to deliver high-quality, reliable products that work. Every time, every shift.",
+    "url": "https://thirdwave.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President Strategy",
+    "url": "https://thirdwave.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President Engineering",
+    "url": "https://thirdwave.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Staff Product Manager",
+    "url": "https://thirdwave.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "facility grew organically into adjacent space within the same building, with the two halves connected through a single doorway. It was never designed with automation in mind. That is exactly why Armada selected this location to pilot the program.",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "to pilot the program.",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Tall Payloads (as tall as 103”)",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Palletized payloads taller than 64 inches complicated perception, navigation, and autonomous placement decisions.",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "At the heart of Third Wave’s approach is its",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Remote Exception Handling: operators assist trucks through situations outside standard autonomous parameters without stopping production.",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "WMS-Directed Putaway: every pallet is placed precisely where the system specifies rather than at the nearest available location chosen by an operator.",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous improvement: each exception used as a data point, continuously refining autonomy rates throughout the pilot.",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "From partnership to production in under a year",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Four Third Wave Reach trucks deployed. Third Wave begins operating trucks in production for four months of site learning.",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "integration finalized following UAT completion, enabling directed putaway and precise inventory tracking across the Third Wave fleet.",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Armada operators take full ownership. Third Wave provides 1-800 support and certifies an on-site Armada trainer.",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Moved across 14 months of live production at the Romeoville facility.",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Achieved at a site with push-back racking and palletized payloads as tall as 103 inches, both of which require operator assistance on individual moves.",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Maintained across 3,849 production hours over the full pilot period.",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Zero incidents, zero injuries, zero racking damage and infrastructure damage across all 3,849 production hours.",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of Warehouse Operations, Armada Supply Chain Solutions",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing & Sales Strategy",
+    "url": "https://whirlwind-media.com/third-wave-automation-case-study-whirlwind-media/",
+    "pass": 3
+   },
+   {
+    "quote": "United Safety Professionals",
+    "url": "https://whirlwind-media.com/third-wave-automation-case-study-whirlwind-media/",
+    "pass": 3
+   },
+   {
+    "quote": "Free Marketing Gap Score",
+    "url": "https://whirlwind-media.com/third-wave-automation-case-study-whirlwind-media/",
+    "pass": 3
+   },
+   {
+    "quote": "SDR Enablement Training Program",
+    "url": "https://whirlwind-media.com/third-wave-automation-case-study-whirlwind-media/",
+    "pass": 3
+   },
+   {
+    "quote": "What Is the LinkedIn Ads Library—And How to Use It to Improve Your Campaigns",
+    "url": "https://whirlwind-media.com/third-wave-automation-case-study-whirlwind-media/",
+    "pass": 3
+   },
+   {
+    "quote": ": What Is the LinkedIn Ads Library—And How to Use It to Improve Your Campaigns",
+    "url": "https://whirlwind-media.com/third-wave-automation-case-study-whirlwind-media/",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced LinkedIn Ads Strategies: ABM, Funnel Mapping & Automation",
+    "url": "https://whirlwind-media.com/third-wave-automation-case-study-whirlwind-media/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Third Wave Automation | Warehouse Automation That Works",
+    "url": "https://thirdwave.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse automation that actually works.",
+    "url": "https://thirdwave.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The proof operators care about",
+    "url": "https://thirdwave.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Third Wave provides autonomous forklifts that work independently but which are overseen by human operators who step in when the machines call for help.”",
+    "url": "https://thirdwave.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Kris Jensen · Vice President of Warehouse Operations, Armada Supply Chain Solutions",
+    "url": "https://thirdwave.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Operators step in for edge cases from anywhere, then hand control back.",
+    "url": "https://thirdwave.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Reconfigure warehouse zones on the fly as your operation changes.",
+    "url": "https://thirdwave.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "See it on the warehouse floor",
+    "url": "https://thirdwave.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The same shared autonomy loop, captured live, trucks running the routine, operators stepping in remotely, payloads handled safely.",
+    "url": "https://thirdwave.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "world’s leading material handling manufacturers",
+    "url": "https://thirdwave.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": ". \"Adding Third Wave's technology to our Raymond lineup is a natural extension of that approach, enhancing the solutions available to our customers while supporting more connected, scalable warehouse operations and automating the right application where it makes sense.”",
+    "url": "https://thirdwave.ai/announcements/twa-tmhna-partnership-press-release",
+    "pass": 1
+   },
+   {
+    "quote": "“Our investment in Third Wave Automation was rooted in a conviction that physical AI would transform industrial operations and the enormous potential we saw in their technology to lead that transformation,” said",
+    "url": "https://thirdwave.ai/announcements/twa-tmhna-partnership-press-release",
+    "pass": 1
+   },
+   {
+    "quote": "Why Third Wave Automation | Warehouse Automation Results",
+    "url": "https://thirdwave.ai/why-third-wave-automation",
+    "pass": 1
+   },
+   {
+    "quote": "real warehouse environments, documented across live deployments.",
+    "url": "https://thirdwave.ai/why-third-wave-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Dock-to-stock moves are high-volume and repetitive, not the best use of your team’s judgment. Third Wave’s autonomous forklifts handle these tasks, freeing operators for",
+    "url": "https://thirdwave.ai/why-third-wave-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Your team's capacity multiplies as operators shift to a higher-value supervisory role.",
+    "url": "https://thirdwave.ai/why-third-wave-automation",
+    "pass": 1
+   },
+   {
+    "quote": "a leading cause of serious warehouse injury",
+    "url": "https://thirdwave.ai/why-third-wave-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Consistent across shifts, operators, and environments.",
+    "url": "https://thirdwave.ai/why-third-wave-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Third Wave Automation deploys in warehouse environments where automation has historically been hardest to achieve.",
+    "url": "https://thirdwave.ai/why-third-wave-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Third Wave Automation Armada Case Study",
+    "url": "https://thirdwave.ai/why-third-wave-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Redefining warehouse automation for the people who run it.",
+    "url": "https://thirdwave.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Redefining warehouse automation",
+    "url": "https://thirdwave.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Armada Case Study | Third Wave Automation",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Case Study · Armada Supply Chain Solutions",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Case Study ·",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "A 12-foot breezeway serves as the single travel lane connecting both sides of the warehouse, requiring trucks to sequence movements rather than pass simultaneously.",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Remote Exception Handling: operators assist trucks through situations outside standard autonomous parameters without stopping production.",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Armada operators take full ownership. Third Wave provides 1-800 support and certifies an on-site Armada trainer.",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of Warehouse Operations, Armada Supply Chain Solutions",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Third Wave Automation",
+    "url": "https://www.casestudies.com/customer/third-wave-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Third Wave Automation achieves reliable warehouse object detection with Ouster OS0 lidar",
+    "url": "https://www.casestudies.com/customer/third-wave-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of an autonomous forklift technology designed to deliver general, robust, precise, and correct automated movement of material and inventory.",
+    "url": "https://pitchbook.com/profiles/company/230740-75",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of an autonomous forklift technology designed to deliver general, robust, precise, and correct automated mo",
+    "url": "https://pitchbook.com/profiles/company/230740-75",
+    "pass": 3
+   },
+   {
+    "quote": "Third Wave Automation develops autonomous forklifts for warehouse and distribution centers. Its core product utilizes a proprietary “Shared Autonomy” platform, enabling vehicles to operate independently while integrating human oversight. This technical approach enhances throughput, improves efficiency, and bolsters safety in material handling operations.",
+    "url": "https://startupintros.com/orgs/third-wave-automation",
+    "pass": 3
+   },
+   {
+    "quote": "The company's autonomous forklifts serve operators in logistics and manufacturing facilities. Third Wave Automation envisions humans and intelligent autonomous systems collaborating to optimize warehouse performance. Their mission centers on delivering cost reductions and operational improvements through an integrated approach of technology and human expertise.",
+    "url": "https://startupintros.com/orgs/third-wave-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Third Wave Automation (TWA) is a supply chain automation company that develops autonomous forklifts and intelligent fleet management systems for warehouse operations.",
+    "url": "https://startupintros.com/orgs/third-wave-automation",
+    "pass": 3
+   },
+   {
+    "quote": "The company serves warehouse operators and logistics providers by offering a",
+    "url": "https://startupintros.com/orgs/third-wave-automation",
+    "pass": 3
+   },
+   {
+    "quote": ": Rather than full autonomy, TWA's AI system learns from human interventions. When a forklift encounters an issue, remote operators resolve it via assistance or teleoperation; these interactions are recorded and fed back to continuously train the system.[4]",
+    "url": "https://startupintros.com/orgs/third-wave-automation",
+    "pass": 3
+   },
+   {
+    "quote": ": The platform analyzes millions of data points with centimeter-level accuracy, classifying humans, forklifts, and objects differently to enable safe operation in dynamic warehouse environments.[4]",
+    "url": "https://startupintros.com/orgs/third-wave-automation",
+    "pass": 3
+   },
+   {
+    "quote": "the shift from capital-intensive to subscription-based industrial automation",
+    "url": "https://startupintros.com/orgs/third-wave-automation",
+    "pass": 3
+   },
+   {
+    "quote": ". The warehouse automation market faces acute pressure—labor shortages have made traditional hiring untenable, yet full autonomy remains technically challenging and economically risky for operators.",
+    "url": "https://startupintros.com/orgs/third-wave-automation",
+    "pass": 3
+   },
+   {
+    "quote": "The company's partnership with Toyota Industries—a global materials handling giant—amplifies its influence, embedding shared autonomy into mainstream warehouse equipment rather than positioning it as a niche startup solution. This legitimizes the technology and accelerates ecosystem adoption.",
+    "url": "https://startupintros.com/orgs/third-wave-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Third Wave Automation is well-positioned to capture significant share in the $10+ billion warehouse automation market as labor pressures intensify and AI capabilities mature. The company's field-proven deployments, strong investor backing (including strategic partners like Toyota Ventures), and subscription-based unit economics create a durable competitive moat.",
+    "url": "https://startupintros.com/orgs/third-wave-automation",
+    "pass": 3
+   },
+   {
+    "quote": "through ArmadaFMS, which could evolve into a comprehensive warehouse operating system. As more enterprises adopt the RaaS model, TWA's recurring revenue base will provide stability and predictability, a significant advantage over traditional capital equipment sales.",
+    "url": "https://startupintros.com/orgs/third-wave-automation",
+    "pass": 3
+   },
+   {
+    "quote": "The broader implication: shared autonomy may become the dominant paradigm for industrial automation over the next five years, making TWA not just a successful company but a category architect shaping how enterprises think about human-machine collaboration in logistics.",
+    "url": "https://startupintros.com/orgs/third-wave-automation",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "We work with leading OEMs to bring Shared Autonomy to their platforms. If you build material handling equipment and want to lead in physical AI-powered autonomy,",
+    "url": "https://thirdwave.ai/partners",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "(Third Wave) announced a technology collaboration with The Raymond Corporation, part of Toyota Material Handling North America (TMHNA)to launch and expand AI-enabled physical automation capabilities across select automated Raymond lift trucks.",
+    "url": "https://thirdwave.ai/announcements/twa-tmhna-partnership-press-release",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous operation in very narrow aisles, where space constraints have made automation difficult and costly.",
+    "url": "https://thirdwave.ai/why-third-wave-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Choose from a variety of medical plan to fit your needs. We also offer dental, vision,life insurance, and additional ancillary benefits. Employees have access to flexible FSA/HSA accounts, telemedicine, prescription coverage, and confidential mental health support through Spring Health and our EAP.",
+    "url": "https://thirdwave.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "allowing employees to manage personal",
+    "url": "https://thirdwave.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We empower our employees to be innovative problem-solvers with ownership over their work and outcomes. We empower our customers to work safer, more efficiently, and more effectively.",
+    "url": "https://thirdwave.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Trucks Arrive On-Site",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/230740-75",
+    "pass": 3
+   },
+   {
+    "quote": "Third Wave Automation has 57 total employees.",
+    "url": "https://pitchbook.com/profiles/company/230740-75",
+    "pass": 3
+   },
+   {
+    "quote": "What is Third Wave Automation’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/230740-75",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Third Wave Automation is",
+    "url": "https://pitchbook.com/profiles/company/230740-75",
+    "pass": 3
+   },
+   {
+    "quote": ": By bundling hardware, software, and support into a subscription fee, TWA eliminates capital barriers and aligns incentives—performance improvements directly benefit the provider.[4][5]",
+    "url": "https://startupintros.com/orgs/third-wave-automation",
+    "pass": 3
+   },
+   {
+    "quote": "through ArmadaFMS, which could evolve into a comprehensive warehouse operating system. As more enterprises adopt the RaaS model, TWA's recurring revenue base will provide stability and predictability, a significant advantage over traditional capital equipment sales.",
+    "url": "https://startupintros.com/orgs/third-wave-automation",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Third Wave Automation | Warehouse Automation That Works — Third Wave Automation builds shared-autonomy forklifts and ArmadaFMS fleet software that boost warehouse throughput, safety, and uptime.",
+    "url": "https://thirdwave.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "豊田自動織機と自律型フォークリフト開発のThird Wave Automationが戦... — Aug 6, 2021 · 豊田自動織機（TICO）との戦略的提携が発足し、自律型フォークリフトを開発するThird Wave Automation（サードウェーブ・オートメーション）が、投資家からさらに4000万ドル（約44億円）を獲得した。2018年創業で、カリフォルニアを拠点とするThird Wave Automationは、規制当局に提出したForm Dによると ...",
+    "url": "https://techcrunchjapan.com/2021/08/06/2021-08-04-third-wave-automation-raises-40m-to-bring-its-autonomous-forklifts-to-warehouses/",
+    "pass": 3
+   },
+   {
+    "quote": "Third Wave Automation (@ThirdWaveAi) / X — We enable autonomous forklifts to operate with remote oversight, allowing human operators to intervene only when necessary.",
+    "url": "https://x.com/thirdwaveai",
+    "pass": 3
+   },
+   {
+    "quote": "Warehouse Automation That Works | Third Wave Automation — Third Wave autonomous forklifts deliver 100% inventory accuracy, one operator managing ten forklifts, and zero safety incidents.",
+    "url": "https://thirdwave.ai/twa-landing",
+    "pass": 3
+   },
+   {
+    "quote": "Armada Case Study | Third Wave Automation — Customer Case Study · Armada Supply Chain Solutions How Armada and Third Wave Automation’s Shared Autonomy platform delivered 99.94% inventory accuracy and zero safety incidents at Armada’s most operationally complex distribution center. Customer Armada Supply Chain Solutions Site",
+    "url": "https://thirdwave.ai/armada-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies Featuring Third Wave Automation as the Customer — Explore case studies featuring Third Wave Automation as the customer — learn how vendors and partners helped Third Wave Automation solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/third-wave-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Third Wave Automation | Warehouse Automation That Works — Customer case study Armada Supply Chain Solutions chose Third Wave Automation Armada Supply Chain Solutions is the customer. ArmadaFMS is Third Wave Automation’s fleet management software platform.",
+    "url": "https://thirdwave.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Third Wave Automation Case Study - whirlwind. — Explore our Third Wave Automation case study, featuring Whirlwind Media’s targeted email campaigns, LinkedIn content, paid search, and HubSpot support.",
+    "url": "https://whirlwind-media.com/third-wave-automation-case-study-whirlwind-media/",
+    "pass": 3
+   },
+   {
+    "quote": "Third Wave Automation — Customer story | Foxglove — Third-party logistics providers, including Holman Logistics, rely on Third Wave Automation to increase efficiency, improve safety, and optimize operations. As these companies scale, they need automation that can handle real-world warehouse complexities while maintaining human oversight.",
+    "url": "https://foxglove.dev/customers/third-wave-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Third Wave Automation 2026 Company Profile: Valuation ...Third Wave Automation - 2026 Company Profile & Team - TracxnThird Wave Automation: Funding, Team & InvestorsThird Wave Automation Information - RocketReachThird Wave Automation — Funding, Investors & Team | SeedtableThird Wave Automation - Overview, News & Similar companies ...Third Wave Automation — Company Profile | The Company Check — Jun",
+    "url": "https://pitchbook.com/profiles/company/230740-75",
+    "pass": 3
+   },
+   {
+    "quote": "Third Wave Automation - 2026 Company Profile & Team - Tracxn — Mar 16, 2026 · Third Wave Automation is a series C company based in Union City (United States), founded in 2018 by Julian Mason, Arshan Poursohi and James Davidson. It operates as a Developer of autonomous forklift solutions for warehouse material handling operations. Third Wave Automation has raised $97M in funding from investors like",
+    "url": "https://tracxn.com/d/companies/thirdwaveautomation/__1hGAY90fSp_79me9BS28v_ssrY4rlcwlQ3IrkBeBuFw",
+    "pass": 3
+   },
+   {
+    "quote": "Third Wave Automation: Funding, Team & Investors — Jul 13, 2026 · Third Wave Automation is a technology company. # High-Level Overview Third Wave Automation (TWA) is a supply chain automation company that develops autonomous forklifts and intelligent fleet management systems for warehouse operations. [1] Founded to address labor shortages and inefficiencies in materials handling, the company build",
+    "url": "https://startupintros.com/orgs/third-wave-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Third Wave Automation Information - RocketReachThird Wave Automation — Funding, Investors & Team | SeedtableThird Wave Automation - Overview, News & Similar companies ...Third Wave Automation — Company Profile | The Company Check — Third Wave Automation is a Software Development, Logistics, and Business/Productivity Software company located in Union City, California with $15.8 million in revenue a",
+    "url": "https://rocketreach.co/third-wave-automation-profile_b4557edcfc9526ce",
+    "pass": 3
+   },
+   {
+    "quote": "Third Wave Automation — Funding, Investors & Team | Seedtable — Sep 3, 2026 · Third Wave Automation: Third Wave Automation, founded in 2018 by Arshan Poursohi, develops autonomous forklifts and a shared-autonomy platform for warehouse and",
+    "url": "https://seedtable.com/companies/third-wave-automation",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "info@whirlwind-media.com",
+    "url": "https://whirlwind-media.com/third-wave-automation-case-study-whirlwind-media/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/230740-75",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Third Wave Automation (@ThirdWaveAi) / X Third Wave Automation Raises $27M to Scale Autonomous Forklifts!\" Series C funding round led by Woven Capital, Toyota's Growth Fund, & support from Innovation Endeavors, Norwest Venture Partners, & Qualcomm Ventures.",
+    "url": "https://x.com/thirdwaveai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Third Wave Automation - LinkedIn At Third Wave Automation, the Shared Autonomy Platform brings people and autonomous forklifts together to run warehouses more safely and productively than either could alone. Machine learning ...",
+    "url": "https://www.linkedin.com/company/thirdwaveautomation",
+    "pass": 3
+   },
+   {
+    "quote": "Third Wave Automation: Culture | LinkedIn Third Wave Automation's Shared Autonomy Platform combines autonomous forklifts, intelligent fleet management, and remote operation to solve one of logistics' most persistent challenges: moving ...",
+    "url": "https://www.linkedin.com/company/thirdwaveautomation/life",
+    "pass": 3
+   },
+   {
+    "quote": "Third Wave Automation | LinkedIn Third Wave Automation | 1,558 followers on LinkedIn. Multiplying Human Potential | building forklift automation systems using machine learning and shared autonomy",
+    "url": "https://dm.linkedin.com/company/third-wave-automation/?trk=organization-update_share-update_actor-text",
+    "pass": 3
+   },
+   {
+    "quote": "Arshan Poursohi - Third Wave Automation | LinkedInThird Wave Automation: Jobs | LinkedInMark Armbrust - Experienced Account Executive @ Third Wave ...Third Wave Automation Partners with Toyota Material Handling ... Experience: Third Wave Automation · Location: Union City · 500+ connections on LinkedIn. View Arshan Poursohi’s profile on LinkedIn, a professional community of 1 billion members. Third",
+    "url": "https://www.linkedin.com/in/arshanpoursohi",
+    "pass": 3
+   },
+   {
+    "quote": "Arshan Poursohi - Third Wave Automation | LinkedInThird Wave Automation Org Chart + Executive TeamThird Wave Automation | Warehouse Automation That WorksThird Wave CEO Arshan Poursohi on What’s Next in Supply Chain ...James Bruce - CTO at Third Wave Automation | LinkedInThird Wave Automation CEO, Founder, Key Executive Team, Board ... Experience: Third Wave Automation · Location: Union City · 500+",
+    "url": "https://www.linkedin.com/in/arshanpoursohi",
+    "pass": 3
+   },
+   {
+    "quote": "Arshan Poursohi - Third Wave Automation | LinkedInThird Wave Automation | LinkedInAbout Us | Third Wave Automation Experience: Third Wave Automation · Location: Union City · 500+ connections on LinkedIn. View Arshan Poursohi’s profile on LinkedIn, a professional community of 1 billion members. Third Wave Automation | LinkedInのフォロワー数5,271人。We're putting AI to work and keeping humans in the loop. | ",
+    "url": "https://www.linkedin.com/in/arshanpoursohi",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://thirdwave.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thirdwave.ai/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thirdwave.ai/announcements/twa-tmhna-partnership-press-release",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thirdwave.ai/why-third-wave-automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thirdwave.ai/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thirdwave.ai/armada-case-study",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://thirdwavesys.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcrunchjapan.com/2021/08/06/2021-08-04-third-wave-automation-raises-40m-to-bring-its-autonomous-forklifts-to-warehouses/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sankei.com/pressrelease/prtimes/D4PXRRP24RMVRIPMDGAUYP6I4I/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thirdwavecorp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thirdwavesys.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/third-wave-automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whirlwind-media.com/third-wave-automation-case-study-whirlwind-media/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://reseller.amazon.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/230740-75",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/thirdwaveautomation/__1hGAY90fSp_79me9BS28v_ssrY4rlcwlQ3IrkBeBuFw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/third-wave-automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/third-wave-automation-profile_b4557edcfc9526ce",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/thirdwaveai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/thirdwaveautomation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/thirdwaveautomation/life",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dm.linkedin.com/company/third-wave-automation/?trk=organization-update_share-update_actor-text",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/arshanpoursohi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/arshanpoursohi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/thirdwaveai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/arshanpoursohi",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Third Wave Automation 日本 導入",
+   "results": [
+    "https://thirdwave.ai/",
+    "https://thirdwavesys.co.jp/",
+    "https://techcrunchjapan.com/2021/08/06/2021-08-04-third-wave-automation-raises-40m-to-bring-its-autonomous-forklifts-to-warehouses/",
+    "https://www.sankei.com/pressrelease/prtimes/D4PXRRP24RMVRIPMDGAUYP6I4I/",
+    "https://thirdwavesys.co.jp/engineering/training-implementation/",
+    "https://hellomarvisaitoday.com/ja/articles/bfde7dcb-c159-4ea9-ab82-186c092d6d94",
+    "https://www.cxgn.cn/ja/third-wave-automation"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Third Wave Automation 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://thirdwave.ai/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://x.com/thirdwaveai",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Third Wave Automation Japan",
+   "results": [
+    "https://thirdwave.ai/",
+    "https://www.thirdwavecorp.com/",
+    "https://thirdwave.ai/twa-landing",
+    "https://thirdwavesys.com/",
+    "https://thirdwavesys.co.jp/",
+    "https://www.toyota-industries.com/news/2021/05/19/005054/index.html",
+    "https://techcrunchjapan.com/2021/08/06/2021-08-04-third-wave-automation-raises-40m-to-bring-its-autonomous-forklifts-to-warehouses/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Third Wave Automation manufacturing customer case study",
+   "results": [
+    "https://thirdwave.ai/armada-case-study",
+    "https://www.casestudies.com/customer/third-wave-automation",
+    "https://thirdwave.ai/",
+    "https://whirlwind-media.com/third-wave-automation-case-study-whirlwind-media/",
+    "https://foxglove.dev/customers/third-wave-automation",
+    "https://ouster.com/insights/case-studies/thid-wave",
+    "https://thenewwarehouse.com/2026/10/16/shared-autonomy-brings-human-judgment-to-autonomous-forklifts/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Third Wave Automation white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.mycompanyworks.com/reseller",
+    "https://partner.vw.com/",
+    "https://reseller.amazon.com/",
+    "https://www.seoreseller.com/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.superantispyware.com/reseller-program"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Third Wave Automation founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/230740-75",
+    "https://tracxn.com/d/companies/thirdwaveautomation/__1hGAY90fSp_79me9BS28v_ssrY4rlcwlQ3IrkBeBuFw",
+    "https://startupintros.com/orgs/third-wave-automation",
+    "https://rocketreach.co/third-wave-automation-profile_b4557edcfc9526ce",
+    "https://seedtable.com/companies/third-wave-automation",
+    "https://www.zoominfo.com/c/third-wave-automation-inc/481191875",
+    "https://www.thecompanycheck.com/company/b/third-wave-automation/zlzv9v0sqxrv5u7em"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Third Wave Automation",
+   "results": [
+    "https://note.com/sankituushin/n/n36eb61314658?hl=en",
+    "https://note.com/third_inc",
+    "https://note.com/seigo77",
+    "https://note.com/dai4shaiinkai/n/n33c7b680960f",
+    "https://note.com/glossy_pika3109/n/n7c99eb8ee64d",
+    "https://note.com/rosy_ixora7995/n/n1b2d6e8013cc",
+    "https://note.com/sekasu/n/n985d4263a09c"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Third Wave Automation",
+   "results": [
+    "https://x.com/thirdwaveai",
+    "https://x.com:2096/ThirdWaveAi/status/1737505387153138099",
+    "https://help.x.com/en/rules-and-policies/x-automation",
+    "https://x.com/thirdwaveishere",
+    "https://x.com/jaelubberink_/status/2119565561642496031",
+    "https://help.x.com/en/rules-and-policies/authenticity",
+    "https://x.com/lfx160219"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Third Wave Automation",
+   "results": [
+    "https://www.linkedin.com/company/thirdwaveautomation",
+    "https://www.linkedin.com/company/thirdwaveautomation/life",
+    "https://dm.linkedin.com/company/third-wave-automation/?trk=organization-update_share-update_actor-text",
+    "https://www.linkedin.com/in/arshanpoursohi",
+    "https://www.linkedin.com/company/thirdwaveautomation/jobs/",
+    "https://www.linkedin.com/in/marmbrust",
+    "https://www.linkedin.com/posts/thirdwaveautomation_exciting-news-third-wave-automation-has-activity-7472721038368256000-atwd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Third Wave Automation",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Third Wave Automation note 社長",
+   "results": [
+    "https://thirdwave.ai/about-us",
+    "https://www.linkedin.com/in/arshanpoursohi",
+    "https://www.theofficialboard.com/org-chart/third-wave-automation",
+    "https://thirdwave.ai/",
+    "https://www.missionnorth.com/dispatches/third-wave-ceo-arshan-poursohi-on-whats-next-in-supply-chain-automation",
+    "https://www.linkedin.com/in/james-bruce-55384b202",
+    "https://www.cbinsights.com/company/third-wave-automation/people"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Third Wave Automation X 投稿",
+   "results": [
+    "https://x.com/thirdwaveai",
+    "https://thirdwave.ai/",
+    "https://x.com/Thirdwave_PC",
+    "https://www.linkedin.com/in/arshanpoursohi",
+    "https://jp.linkedin.com/company/thirdwaveautomation",
+    "https://thirdwave.ai/about-us",
+    "https://thirdwave.ai/landing"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部26頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部26頁・検索12回）"
+ }
+}

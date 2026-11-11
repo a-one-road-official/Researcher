@@ -1,0 +1,1696 @@
+{
+ "name": "Tesorio",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T06:40:06.210219+00:00",
+ "official_url": "https://www.tesorio.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$27M",
+    "url": "https://getlatka.com/companies/tesorio",
+    "pass": 3
+   },
+   {
+    "label": "4. Seed Round",
+    "value": "08-Mar-2019    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/118655-20",
+    "pass": 3
+   },
+   {
+    "label": "Seed 3",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/118655-20",
+    "pass": 3
+   },
+   {
+    "label": "Seed 2",
+    "value": "86,482 $0.000010  $1.16 $1.16 1x $1.16 0.25%",
+    "url": "https://pitchbook.com/profiles/company/118655-20",
+    "pass": 3
+   },
+   {
+    "label": "Seed 1",
+    "value": "5,257,912 $0.000010  $1.15 $1.15 1x $1.15 14.97%",
+    "url": "https://pitchbook.com/profiles/company/118655-20",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "$17,000,000",
+    "url": "https://prospeo.io/c/tesorio-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$472,000",
+    "url": "https://prospeo.io/c/tesorio-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "548 Market St, Suite #78583, San Francisco, California 94104, US",
+    "url": "https://prospeo.io/c/tesorio-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://prospeo.io/c/tesorio-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "AI agents that handle the full order-to-cash lifecycle. Your team focuses on strategy, not spreadsheets.",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "(1 processing)",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Half of late payments are own-goals. Cash flow isn't a finance problem. It's a data and alignment problem. And it's solvable.",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Promises tracked in spreadsheets",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ML-powered predictions",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tesorio has cut the time spent on lower-priority accounts from 25% of the week to under 2 hours weekly.",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI drafts personalized follow-up emails, extracts payment promises, and manages your dunning pipeline. Your team focuses on strategy while the agent handles the operational follow-ups.",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reads inbound emails, writes responses, and escalates to humans as needed.",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Gives customers an easy way to pay you faster, unlocks lower processing costs with Tesorio Pay, and auto-posts payments to your ERP.",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Predicts future cash inflows and flags risk and gaps against your targets, so you can drive proactive collections.",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate manual processes with pre-built templates or no-code customization.",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trust at enterprise scale.",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "in implementation, Enterprise AR",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Average customer improvement.",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "collector productivity increase",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Collector Productivity",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tesorio has cut the time spent on lower-priority accounts from 25% of the week to under 2 hours weekly. The visibility into our AR pipeline changed how we prioritize and plan.",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rated #1 by enterprise AR teams,",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Usability, Implementation and Results — Enterprise AR",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Plug in your ERP, CRM, and payment processors with pre-built integrations. NetSuite, Sage Intacct, Workday, Zuora, Salesforce, Stripe, and more. Any ERP can connect via Tesorio Connect.",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A dedicated customer success manager guides your setup, configuring workflows, training your team, and tuning the platform to your AR process. You're never on your own.",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents work your AR 24/7: sending follow-ups, extracting payment promises, matching cash, and flagging escalations. Your team focuses on strategy, not spreadsheets.",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ERPs, CRMs, payment processors, email, and supplier portals - all connected out of the box.",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tesorio's ability to give us real-time visibility into our cash position completely changed how we manage the business. We went from reacting to cash surprises to proactively managing our working capital.",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how leading enterprise finance teams, from Controllers to CFOs, use Tesorio to reduce DSO, automate collections, and unlock working capital.",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing AR means dealing with Net 60/90 terms, progress billing, retainage, trade credit, and multi-currency invoicing across global supply chains. Tesorio handles it all.",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Progress billing, retainage, volume rebates, and trade credit create invoices with complex structures. Deductions and short payments are the norm, not the exception.",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Cash application AI handles progress billing, retainage, deductions, and partial payments. Complex multi-line remittances are matched automatically.",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How it works in practice",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Tesorio ingests your progress billing schedules, retainage terms, deduction categories, and multi-currency rules from your ERP.",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manual matching of complex progress billing invoices",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Progress billing and retainage auto-matched",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive AR forecasting with 95% accuracy",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing AR is incredibly complex — progress billing, retainage, deductions. Tesorio handles it all automatically and cut our cash application time dramatically.",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Rated #1 by enterprise AR teams,",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Usability, Implementation and Results — Enterprise AR",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Products that power this solution",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Turns overdue invoices into cash — without adding headcount. AI drafts personalized follow-ups, extracts payment promises, and manages your dunning pipeline autonomously.",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "High-accuracy forecasts your finance team can trust. Invoice-level predictions, not spreadsheet averages.",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Tesorio's ability to give us real-time visibility into our cash position completely changed how we manage the business. We went from reacting to cash surprises to proactively managing our working capital.",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Can Tesorio handle progress billing and retainage?",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How long until we see improvements in cash application?",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Join the finance teams that trust Tesorio to automate AR, accelerate cash flow, and drive predictable results.",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "From high-growth SaaS companies to enterprise organizations, Tesorio powers AR operations for the world's most innovative finance teams.",
+    "url": "https://www.tesorio.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Customers Off Spreadsheets",
+    "url": "https://www.tesorio.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Removed 150K customers from spreadsheets, exceeded cash goal by $14M",
+    "url": "https://www.tesorio.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "I never have to worry about a high-dollar ARR account getting an inappropriate dunning notice, and that is huge.",
+    "url": "https://www.tesorio.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The automated campaigns are definitely my favorite part of Tesorio. It provides much better visibility of open invoices than we have ever had.",
+    "url": "https://www.tesorio.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "AI learns your customer payment patterns and begins prioritizing outreach. Your team sends the first automated, personalized collection campaigns.",
+    "url": "https://www.tesorio.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "See measurable DSO reduction, 3x collector productivity, and real-time cash flow visibility. Most customers see ROI within 90 days.",
+    "url": "https://www.tesorio.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "ML approved by a top-2 U.S. bank",
+    "url": "https://www.tesorio.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Average customer improvement",
+    "url": "https://www.tesorio.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Tesorio's ability to give us real-time visibility into our cash position completely changed how we manage the business. We went from reacting to cash surprises to proactively managing our working capital.",
+    "url": "https://www.tesorio.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Rated #1 by enterprise AR teams,",
+    "url": "https://www.tesorio.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Usability, Implementation and Results — Enterprise AR",
+    "url": "https://www.tesorio.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Cash flow doesn't take care of itself. Finance teams spend too much time on repetitive tasks - chasing invoices, matching payments, building spreadsheets. We're building AI agents that handle the operational work, so finance leaders can focus on decisions that move the business forward. We're not just automating finance. We're preserving the conditions for innovation itself.",
+    "url": "https://www.tesorio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Tesorio was founded in 2015 by Carlos Vega and Fabio Fleitas after seeing firsthand how finance teams at fast-growing companies were drowning in manual AR processes. Collections happened in spreadsheets. Cash application was a guessing game. Forecasting was based on gut feel.",
+    "url": "https://www.tesorio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "After graduating from Y Combinator in 2015, we started by automating collections workflows, then expanded into cash application, forecasting, and payment management. Today, Tesorio is a Connected Financial Operations platform that turns revenue into cash - faster and more predictably than any manual process.",
+    "url": "https://www.tesorio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Leading enterprise finance teams trust Tesorio, and our customers have collectively reduced DSO by an average of 30% while dramatically accelerating cash conversion.",
+    "url": "https://www.tesorio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "ML approved by a top-2 U.S. bank",
+    "url": "https://www.tesorio.com/about",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by finance teams at",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing | Industry Solution | Tesorio",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing AR means dealing with Net 60/90 terms, progress billing, retainage, trade credit, and multi-currency invoicing across global supply chains. Tesorio handles it all.",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by finance teams at",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Net 60, Net 90, and longer payment terms are standard in manufacturing. That means millions in working capital tied up in receivables for months at a time.",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Global manufacturing operations mean invoicing across currencies, entities, and tax jurisdictions. Reconciliation is a nightmare without automation.",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing AR is incredibly complex — progress billing, retainage, deductions. Tesorio handles it all automatically and cut our cash application time dramatically.",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Common questions about manufacturing",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What ERPs do manufacturing companies typically use with Tesorio?",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How much does Tesorio cost for manufacturers?",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "transform your manufacturing",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the best finance teams in tech",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by industry leaders",
+    "url": "https://www.tesorio.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the best finance teams in tech",
+    "url": "https://www.tesorio.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by CFOs - chosen by the teams that run AR",
+    "url": "https://www.tesorio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by finance teams at",
+    "url": "https://www.tesorio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the best finance teams in tech",
+    "url": "https://www.tesorio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Veeva Systems Case Study | Tesorio",
+    "url": "https://www.tesorio.com/customers/veeva",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the best finance teams in tech",
+    "url": "https://www.tesorio.com/customers/veeva",
+    "pass": 1
+   },
+   {
+    "quote": "GitLab Case Study | Tesorio",
+    "url": "https://www.tesorio.com/customers/gitlab",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the best finance teams in tech",
+    "url": "https://www.tesorio.com/customers/gitlab",
+    "pass": 1
+   },
+   {
+    "quote": "Couchbase Case Study | Tesorio",
+    "url": "https://www.tesorio.com/customers/couchbase",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the best finance teams in tech",
+    "url": "https://www.tesorio.com/customers/couchbase",
+    "pass": 1
+   },
+   {
+    "quote": "Discovery Education Case Study | Tesorio",
+    "url": "https://www.tesorio.com/customers/discovery-education",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the best finance teams in tech",
+    "url": "https://www.tesorio.com/customers/discovery-education",
+    "pass": 1
+   },
+   {
+    "quote": "SecurityScorecard Case Study | Tesorio",
+    "url": "https://www.tesorio.com/customers/securityscorecard",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the best finance teams in tech",
+    "url": "https://www.tesorio.com/customers/securityscorecard",
+    "pass": 1
+   },
+   {
+    "quote": "WP Engine Case Study | Tesorio",
+    "url": "https://www.tesorio.com/customers/wp-engine",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the best finance teams in tech",
+    "url": "https://www.tesorio.com/customers/wp-engine",
+    "pass": 1
+   },
+   {
+    "quote": "Smartsheet Case Study | Tesorio",
+    "url": "https://www.tesorio.com/customers/smartsheet",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the best finance teams in tech",
+    "url": "https://www.tesorio.com/customers/smartsheet",
+    "pass": 1
+   },
+   {
+    "quote": "Seismic Case Study | Tesorio",
+    "url": "https://www.tesorio.com/customers/seismic",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the best finance teams in tech",
+    "url": "https://www.tesorio.com/customers/seismic",
+    "pass": 1
+   },
+   {
+    "quote": "Singular Labs Case Study | Tesorio",
+    "url": "https://www.tesorio.com/customers/singular",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the best finance teams in tech",
+    "url": "https://www.tesorio.com/customers/singular",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by finance teams at",
+    "url": "https://www.tesorio.com/request-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by finance teams at",
+    "url": "https://www.tesorio.com/solutions/reduce-dso",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the best finance teams in tech",
+    "url": "https://www.tesorio.com/solutions/reduce-dso",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by finance teams at",
+    "url": "https://www.tesorio.com/solutions/automate-collections",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the best finance teams in tech",
+    "url": "https://www.tesorio.com/solutions/automate-collections",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by finance teams at",
+    "url": "https://www.tesorio.com/solutions/improve-cash-flow",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the best finance teams in tech",
+    "url": "https://www.tesorio.com/solutions/improve-cash-flow",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by finance teams at",
+    "url": "https://www.tesorio.com/solutions/scale-ar-operations",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the best finance teams in tech",
+    "url": "https://www.tesorio.com/solutions/scale-ar-operations",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by finance teams at",
+    "url": "https://www.tesorio.com/solutions/reduce-bad-debt",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the best finance teams in tech",
+    "url": "https://www.tesorio.com/solutions/reduce-bad-debt",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by finance teams at",
+    "url": "https://www.tesorio.com/solutions/gain-cash-visibility",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the best finance teams in tech",
+    "url": "https://www.tesorio.com/solutions/gain-cash-visibility",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Smartsheet vastly improves AR capability and boosts cash by $14M with Tesorio | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/tesorio/case-study/smartsheet-vastly-improves-and-expands-ar-capability-and-simultaneously-creates-better-customer-experience-with-tesorio",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Smartsheet vastly improves AR capability and boosts cash by $14M with Tesorio",
+    "url": "https://www.casestudies.com/company/tesorio/case-study/smartsheet-vastly-improves-and-expands-ar-capability-and-simultaneously-creates-better-customer-experience-with-tesorio",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/tesorio/case-study/smartsheet-vastly-improves-and-expands-ar-capability-and-simultaneously-creates-better-customer-experience-with-tesorio",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/tesorio/case-study/smartsheet-vastly-improves-and-expands-ar-capability-and-simultaneously-creates-better-customer-experience-with-tesorio",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Turn revenue into cash,",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From closed-won revenue to collected cash: one AI-native system for everything that happens after the deal closes.",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to turn revenue into",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I never have to worry about a high-dollar ARR account getting an inappropriate dunning notice, and that is huge.",
+    "url": "https://www.tesorio.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The automated campaigns are definitely my favorite part of Tesorio. It provides much better visibility of open invoices than we have ever had.",
+    "url": "https://www.tesorio.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Replaced manual invoicing and absorbed acquisition volume without adding staff",
+    "url": "https://www.tesorio.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "After graduating from Y Combinator in 2015, we started by automating collections workflows, then expanded into cash application, forecasting, and payment management. Today, Tesorio is a Connected Financial Operations platform that turns revenue into cash - faster and more predictably than any manual process.",
+    "url": "https://www.tesorio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to turn revenue into cash faster?",
+    "url": "https://www.tesorio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "As a growing database company navigating both cloud and on-premise revenue models, Couchbase's finance team needed better cash flow visibility and faster collections.",
+    "url": "https://www.tesorio.com/customers/couchbase",
+    "pass": 1
+   },
+   {
+    "quote": "Complex revenue model spanning subscription, on-premise, and cloud licensing, creating varied payment patterns",
+    "url": "https://www.tesorio.com/customers/couchbase",
+    "pass": 1
+   },
+   {
+    "quote": "Automation handles the workload equivalent of 1-2 full-time employees, freeing the existing team for higher-value work.",
+    "url": "https://www.tesorio.com/customers/securityscorecard",
+    "pass": 1
+   },
+   {
+    "quote": "Growing risk of revenue leakage as delinquent accounts were not addressed quickly enough",
+    "url": "https://www.tesorio.com/customers/wp-engine",
+    "pass": 1
+   },
+   {
+    "quote": "ERP dunning was binary — on or off — with no ability to customize messaging by customer segment or ARR value",
+    "url": "https://www.tesorio.com/customers/smartsheet",
+    "pass": 1
+   },
+   {
+    "quote": "High-dollar ARR accounts risked receiving inappropriate dunning notices, threatening customer relationships",
+    "url": "https://www.tesorio.com/customers/smartsheet",
+    "pass": 1
+   },
+   {
+    "quote": "I never have to worry about a high-dollar ARR account getting an inappropriate dunning notice, and that is huge.",
+    "url": "https://www.tesorio.com/customers/smartsheet",
+    "pass": 1
+   },
+   {
+    "quote": "How Seismic replaced manual invoicing and absorbed acquisition volume without adding AR staff",
+    "url": "https://www.tesorio.com/customers/seismic",
+    "pass": 1
+   },
+   {
+    "quote": "Seismic's financial systems team chose Tesorio over building an internal solution, gaining faster implementation, real-time data integration, and the capacity to handle organic and acquisition growth.",
+    "url": "https://www.tesorio.com/customers/seismic",
+    "pass": 1
+   },
+   {
+    "quote": "Growing transaction volume from organic growth and acquisitions threatened to overwhelm the AR team",
+    "url": "https://www.tesorio.com/customers/seismic",
+    "pass": 1
+   },
+   {
+    "quote": "Scalable platform capable of absorbing acquisition volume without proportional AR headcount growth",
+    "url": "https://www.tesorio.com/customers/seismic",
+    "pass": 1
+   },
+   {
+    "quote": "Seismic eliminated manual processes, scaled through acquisitions, and unlocked next-level AR capabilities.",
+    "url": "https://www.tesorio.com/customers/seismic",
+    "pass": 1
+   },
+   {
+    "quote": "Successfully took on acquisition volume while freeing up time for existing AR resources.",
+    "url": "https://www.tesorio.com/customers/seismic",
+    "pass": 1
+   },
+   {
+    "quote": "The automated campaigns are definitely my favorite part of Tesorio. It provides much better visibility of open invoices than we have ever had.",
+    "url": "https://www.tesorio.com/customers/singular",
+    "pass": 1
+   },
+   {
+    "quote": "DSO keeps creeping up despite revenue growth",
+    "url": "https://www.tesorio.com/solutions/reduce-dso",
+    "pass": 1
+   },
+   {
+    "quote": "More revenue means more invoices, but your AR team hasn't grown. Overdue balances pile up, cash gets trapped in receivables, and DSO climbs quarter over quarter.",
+    "url": "https://www.tesorio.com/solutions/reduce-dso",
+    "pass": 1
+   },
+   {
+    "quote": "DSO creeps up with revenue growth",
+    "url": "https://www.tesorio.com/solutions/reduce-dso",
+    "pass": 1
+   },
+   {
+    "quote": "Every time revenue grows, you need more collectors. Without automation, there's a direct linear relationship between invoice volume and staffing needs.",
+    "url": "https://www.tesorio.com/solutions/automate-collections",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring 1 collector per $5M ARR growth",
+    "url": "https://www.tesorio.com/solutions/automate-collections",
+    "pass": 1
+   },
+   {
+    "quote": "Spreadsheet-based forecasts rely on assumptions, not data. By the time you build the model, the numbers are already stale and the variance from actuals is embarrassing.",
+    "url": "https://www.tesorio.com/solutions/improve-cash-flow",
+    "pass": 1
+   },
+   {
+    "quote": "Slow collections mean cash sits in receivables instead of funding growth. You can see the revenue on the P&L, but the bank account tells a different story.",
+    "url": "https://www.tesorio.com/solutions/improve-cash-flow",
+    "pass": 1
+   },
+   {
+    "quote": "Live dashboards show cash position, AR aging, collection performance, and forecast vs. actuals — updating as payments arrive and invoices are created.",
+    "url": "https://www.tesorio.com/solutions/improve-cash-flow",
+    "pass": 1
+   },
+   {
+    "quote": "Weekly AR reports that are stale on arrival",
+    "url": "https://www.tesorio.com/solutions/improve-cash-flow",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue grows but your AR team doesn't. Tesorio's AI agents and workflow automation let you scale collections, cash application, and reporting without linear headcount growth.",
+    "url": "https://www.tesorio.com/solutions/scale-ar-operations",
+    "pass": 1
+   },
+   {
+    "quote": "Headcount grows linearly with revenue",
+    "url": "https://www.tesorio.com/solutions/scale-ar-operations",
+    "pass": 1
+   },
+   {
+    "quote": "Every $5M in new ARR means another collector. Your cost-to-collect rises with the business, eating into the operating leverage that should come with scale.",
+    "url": "https://www.tesorio.com/solutions/scale-ar-operations",
+    "pass": 1
+   },
+   {
+    "quote": "As revenue grows, the AI absorbs the incremental workload. Your team manages 3x more accounts without adding headcount.",
+    "url": "https://www.tesorio.com/solutions/scale-ar-operations",
+    "pass": 1
+   },
+   {
+    "quote": "Live dashboards update in real-time as payments arrive, invoices are created, and collection activity happens. No more manual report building.",
+    "url": "https://www.tesorio.com/solutions/gain-cash-visibility",
+    "pass": 1
+   },
+   {
+    "quote": "Tesorio Revenue 2024: $11M Est., $27M Raised",
+    "url": "https://getlatka.com/companies/tesorio",
+    "pass": 3
+   },
+   {
+    "quote": "Tesorio has not published its revenue. GetLatka estimates it at about $11M a year (October 2024).",
+    "url": "https://getlatka.com/companies/tesorio",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/tesorio",
+    "pass": 3
+   },
+   {
+    "quote": "Tesorio CEO, founders & employees",
+    "url": "https://getlatka.com/companies/tesorio",
+    "pass": 3
+   },
+   {
+    "quote": "Carlos Vega founded Tesorio in 2015 and runs it as CEO. Tesorio has 62 employees (August 2025, LinkedIn), down from 66 a year earlier.",
+    "url": "https://getlatka.com/companies/tesorio",
+    "pass": 3
+   },
+   {
+    "quote": "What is Tesorio's revenue?",
+    "url": "https://getlatka.com/companies/tesorio",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Tesorio's revenue at about",
+    "url": "https://getlatka.com/companies/tesorio",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Tesorio have?",
+    "url": "https://getlatka.com/companies/tesorio",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of August 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/tesorio",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/tesorio",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/tesorio",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/tesorio",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/118655-20",
+    "pass": 3
+   },
+   {
+    "quote": "Tesorio has 44 total employees.",
+    "url": "https://pitchbook.com/profiles/company/118655-20",
+    "pass": 3
+   },
+   {
+    "quote": "What is Tesorio’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/118655-20",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Tesorio is",
+    "url": "https://pitchbook.com/profiles/company/118655-20",
+    "pass": 3
+   },
+   {
+    "quote": "Tesorio Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/tesorio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Tesorio",
+    "url": "https://prospeo.io/c/tesorio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/tesorio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Head Of Sales Enablement & Revenue Operations",
+    "url": "https://prospeo.io/c/tesorio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/tesorio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/tesorio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Tesorio?",
+    "url": "https://prospeo.io/c/tesorio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Tesorio generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/tesorio-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "· Source: Email reply",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "per day spent on email follow-ups, portal checks, and payment matching per collector",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Copy-paste email templates",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Auto-extracted from emails",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI drafts personalized follow-up emails, extracts payment promises, and manages your dunning pipeline. Your team focuses on strategy while the agent handles the operational follow-ups.",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reads inbound emails, writes responses, and escalates to humans as needed.",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automates payment matching using structured and unstructured data, from lockbox PDFs to remittance emails, for higher accuracy and a faster close.",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ERPs, CRMs, payment processors, email, and supplier portals - all connected out of the box.",
+    "url": "https://www.tesorio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated dunning sequences with personalized email cadences, reducing manual outreach while maintaining a professional customer experience",
+    "url": "https://www.tesorio.com/customers/veeva",
+    "pass": 1
+   },
+   {
+    "quote": "Discovery Education unified fragmented AR systems into Tesorio's centralized platform, enabling 900-email daily campaigns and dramatic DSO improvement across business segments.",
+    "url": "https://www.tesorio.com/customers/discovery-education",
+    "pass": 1
+   },
+   {
+    "quote": "Fragmented systems requiring manual Excel and email management to track AR across multiple business segments",
+    "url": "https://www.tesorio.com/customers/discovery-education",
+    "pass": 1
+   },
+   {
+    "quote": "Automated dunning campaigns capable of sending up to 900 targeted emails in a single day with confidence in messaging quality",
+    "url": "https://www.tesorio.com/customers/discovery-education",
+    "pass": 1
+   },
+   {
+    "quote": "Centralized communication tracking eliminating the need to toggle between spreadsheets and email",
+    "url": "https://www.tesorio.com/customers/discovery-education",
+    "pass": 1
+   },
+   {
+    "quote": "Daily Email Campaigns",
+    "url": "https://www.tesorio.com/customers/discovery-education",
+    "pass": 1
+   },
+   {
+    "quote": "Team now comfortably sends 900 dunning emails in a single day — unthinkable before Tesorio's automated messaging.",
+    "url": "https://www.tesorio.com/customers/discovery-education",
+    "pass": 1
+   },
+   {
+    "quote": "SecurityScorecard's small AR team automated routine collections emails with Tesorio, achieving clear ROI that drives renewal every year.",
+    "url": "https://www.tesorio.com/customers/securityscorecard",
+    "pass": 1
+   },
+   {
+    "quote": "Manual email follow-ups consuming the majority of collector time, leaving little capacity for strategic work",
+    "url": "https://www.tesorio.com/customers/securityscorecard",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered automation handling 50-100 personalized collections emails daily without manual intervention",
+    "url": "https://www.tesorio.com/customers/securityscorecard",
+    "pass": 1
+   },
+   {
+    "quote": "Tesorio sends 50-100 personalized, automated collections emails daily, maintaining consistent customer outreach.",
+    "url": "https://www.tesorio.com/customers/securityscorecard",
+    "pass": 1
+   },
+   {
+    "quote": "Multiple siloed systems (Salesforce, ERP, email) required constant context-switching and manual data matching",
+    "url": "https://www.tesorio.com/customers/smartsheet",
+    "pass": 1
+   },
+   {
+    "quote": "Manual copy-paste workflow: download from Excel, look up in NetSuite, manually send emails to customers",
+    "url": "https://www.tesorio.com/customers/seismic",
+    "pass": 1
+   },
+   {
+    "quote": "Customizable email templates letting customers feel valued instead of 'just a number'",
+    "url": "https://www.tesorio.com/customers/seismic",
+    "pass": 1
+   },
+   {
+    "quote": "Tedious management of overdue accounts with manual dunning emails",
+    "url": "https://www.tesorio.com/customers/singular",
+    "pass": 1
+   },
+   {
+    "quote": "Automated collections campaigns eliminating manual dunning email creation and scheduling",
+    "url": "https://www.tesorio.com/customers/singular",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligent dunning generates personalized emails tuned to each customer's payment behavior, channel preference, and risk profile.",
+    "url": "https://www.tesorio.com/solutions/reduce-dso",
+    "pass": 1
+   },
+   {
+    "quote": "Generic email templates with low response rates",
+    "url": "https://www.tesorio.com/solutions/reduce-dso",
+    "pass": 1
+   },
+   {
+    "quote": "Half of late payments are own-goals — bad data, missed follow-ups, inconsistent processes. Tesorio's AI agents handle follow-ups, extract payment promises, generate personalized emails, and escalate at-risk accounts autonomously.",
+    "url": "https://www.tesorio.com/solutions/automate-collections",
+    "pass": 1
+   },
+   {
+    "quote": "Your AR team drowns in repetitive emails, call logging, data entry, and status updates. The high-value work — relationship management and dispute resolution — gets squeezed out.",
+    "url": "https://www.tesorio.com/solutions/automate-collections",
+    "pass": 1
+   },
+   {
+    "quote": "Our collectors were spending 60% of their time on repetitive emails and data entry. We knew there had to be a better way.",
+    "url": "https://www.tesorio.com/solutions/automate-collections",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents handle email generation, promise extraction, status tracking, and escalation detection — giving collectors back 60% of their time.",
+    "url": "https://www.tesorio.com/solutions/automate-collections",
+    "pass": 1
+   },
+   {
+    "quote": "Specialized AI agents handle email generation, promise extraction, status tracking, and escalation — working 24/7 across your portfolio.",
+    "url": "https://www.tesorio.com/solutions/automate-collections",
+    "pass": 1
+   },
+   {
+    "quote": "Collectors manually write and send follow-up emails",
+    "url": "https://www.tesorio.com/solutions/automate-collections",
+    "pass": 1
+   },
+   {
+    "quote": "Promises auto-extracted from email responses",
+    "url": "https://www.tesorio.com/solutions/automate-collections",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy specialized AI agents that classify emails, generate responses, extract payment promises, detect escalations, and manage supplier portals — all learning from your data.",
+    "url": "https://www.tesorio.com/solutions/automate-collections",
+    "pass": 1
+   },
+   {
+    "quote": "Can AI-generated emails be reviewed before sending?",
+    "url": "https://www.tesorio.com/solutions/automate-collections",
+    "pass": 1
+   },
+   {
+    "quote": "Manual approvals, email-based escalations, and spreadsheet handoffs create bottlenecks. One person's PTO means a week of backlog.",
+    "url": "https://www.tesorio.com/solutions/scale-ar-operations",
+    "pass": 1
+   },
+   {
+    "quote": "Drag-and-drop workflow builder automates approvals, escalations, and handoffs. No more single-point-of-failure processes or email chains.",
+    "url": "https://www.tesorio.com/solutions/scale-ar-operations",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents take over 80% of routine tasks — email generation, status tracking, promise extraction — while humans handle strategic exceptions.",
+    "url": "https://www.tesorio.com/solutions/scale-ar-operations",
+    "pass": 1
+   },
+   {
+    "quote": "Email-based escalations fall through cracks",
+    "url": "https://www.tesorio.com/solutions/scale-ar-operations",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy specialized AI agents that classify emails, generate responses, extract payment promises, detect escalations, and manage supplier portals — all learning from your data.",
+    "url": "https://www.tesorio.com/solutions/scale-ar-operations",
+    "pass": 1
+   },
+   {
+    "quote": "AR data lives in the ERP, customer context in the CRM, communication history in email, and collection notes in spreadsheets. No single view connects them all.",
+    "url": "https://www.tesorio.com/solutions/gain-cash-visibility",
+    "pass": 1
+   },
+   {
+    "quote": "Tesorio connects your ERP, CRM, email, banking, and payment data into a unified customer view. Every data point is linked, searchable, and actionable.",
+    "url": "https://www.tesorio.com/solutions/gain-cash-visibility",
+    "pass": 1
+   },
+   {
+    "quote": "Tesorio connects to your ERP, CRM, email, and banking systems — creating a single unified view of every customer and invoice.",
+    "url": "https://www.tesorio.com/solutions/gain-cash-visibility",
+    "pass": 1
+   },
+   {
+    "quote": "Data scattered across ERP, CRM, email, and spreadsheets",
+    "url": "https://www.tesorio.com/solutions/gain-cash-visibility",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/118655-20",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/tesorio-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Tesorio | Agentic Financial Operations — Tesorio is the AI-powered financial operations platform that automates accounts receivable, accelerates cash flow, and gives finance teams intelligent tools to manage collections, forecasting, and payment workflows.",
+    "url": "https://www.tesorio.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Tesorio:財務チームのためのキャッシュフロー予測、売掛金自動化、回... — Tesorioは、財務業務を統合・自動化するための包括的なプラットフォームであり、組織がキャッシュフローを最適化し、回収を加速し、予測精度を向上させることを可能にします。様々なシステムから財務データを集約することで、Tesorioは売掛金、現金管理、回収のためのリアルタイムの洞察と ...",
+    "url": "https://moge.ai/ja/product/tesorio",
+    "pass": 3
+   },
+   {
+    "quote": "Tesorio - LinkedIn 日本 — Tesorio | LinkedInのフォロワー数6,999人。The world's first agentic order-to-cash analyst | Finance teams should spend their time on the decisions that move cash, not on the manual work that stands between Closed Won and Done. Every company runs on cash, yet getting from invoice to payment still depends on people uploading invoices to customer portals, chasing replies, and matching .",
+    "url": "https://jp.linkedin.com/company/tesorio",
+    "pass": 3
+   },
+   {
+    "quote": "About - Tesorio | Financial Operations AI Agent Studio — Learn about Tesorio's mission to automate financial operations with AI agents. Founded in 2015, trusted by leading finance teams worldwide.",
+    "url": "https://www.tesorio.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Tesorio｜AIツール詳細・機能・料金 - AI TOP TIER — 売掛金管理を自動化し、キャッシュフロー予測と債権回収の効率化を進めたい企業に向けて、Tesorioが役立ちます。支払期日の予測、ERPシステムと銀行の連携、信頼性の高いデータに基づく運転資金の可視化をまとめて行い、資金繰りの見通しを立てやすくします。",
+    "url": "https://www.ai-toptier.com/ai-tools/tesorio",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing | Industry Solution | Tesorio — Manufacturing AR means dealing with Net 60/90 terms, progress billing, retainage, trade credit, and multi-currency invoicing across global supply chains. Tesorio handles it all.",
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Customers — Tesorio | Financial Operations AI Agent Studio — See how leading finance teams use Tesorio to reduce DSO, automate collections, and unlock working capital. Real case studies and results.",
+    "url": "https://www.tesorio.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Tesorio B2B Case Studies & Customer Successes — Tesorio mission is to help companies grow faster by helping them understand and control their cash flow in real-time instead of just reporting on it. Strong cash flow generation is the single biggest determinant of a company’s ability to grow. It also affords management the freedom to optimize for long-term bets and truly innovate.",
+    "url": "https://www.casestudies.com/company/tesorio",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Smartsheet vastly improves AR capability and ... — Smartsheet (Computer Software) partnered with Tesorio (Computer Software) to solve key challenges. \"Smartsheet Vastly Improves and Expands AR Capability and Simultaneously Creates Better Customer Experience with Tesorio\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/tesorio/case-study/smartsheet-vastly-improves-and-expands-ar-capability-and-simultaneously-creates-better-customer-experience-with-tesorio",
+    "pass": 3
+   },
+   {
+    "quote": "60 Tesorio Customer Reviews & References | FeaturedCustomers17 Tesorio Case Studies, Success Stories, & Customer StoriesCASE STUDY Box Operationalizes Collections With Personalized ... — Learn more about Tesorio - use cases, approaches, & end results from real customers; read customer reviews including 60 testimonials, videos, and case studies. Discover how other companies use Tesorio, get inspire",
+    "url": "https://www.featuredcustomers.com/vendor/tesorio",
+    "pass": 3
+   },
+   {
+    "quote": "Tesorio Revenue 2024: $11M Est., $27M Raised - LATKA — Oct 30, 2026 · Tesorio 2024 estimated revenue: $11M (up from $6.8M in 2023). Total funding: $27M across 2 rounds. 62 employees. Founded 2015. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/tesorio",
+    "pass": 3
+   },
+   {
+    "quote": "Tesorio - 2026 Company Profile, Team, Funding & Competitors ...Tesorio 2026 Company Profile: Valuation, Funding & Investors ...Tesorio Revenue, Funding & Valuation - prospeo.ioTesorio – Competitor List & Expansion Signals – 2026Tesorio — Company Profile, Funding & InvestorsTesorio - Crunchbase Company Profile & Funding — Mar 11, 2026 · Tesorio is a series B company based in San Francisco (United S",
+    "url": "https://tracxn.com/d/companies/tesorio/__Ptm-BZIHmvGRxAq078v6NSRYazO5THoFKSyneYpZiQM",
+    "pass": 3
+   },
+   {
+    "quote": "Tesorio 2026 Company Profile: Valuation, Funding & Investors ... — Information on valuation, funding, cap tables, investors, and executives for Tesorio. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/118655-20",
+    "pass": 3
+   },
+   {
+    "quote": "Tesorio Revenue, Funding & Valuation - prospeo.io — Tesorio has revenue of $25,000,000, estimated valuation of $80,000,000, $17,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/tesorio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Tesorio – Competitor List & Expansion Signals – 2026 — Tesorio Revenue & Valuation Current figures suggest that Tesorio earns about $8.5M per year. The revenue per employee estimate for Tesorio is $113.1K. Cumulative funding for Tesorio currently stands at $16.9M.",
+    "url": "https://compworth.com/company/tesorio",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tesorio - LinkedIn Tesorio | 6,994 followers on LinkedIn. The world's first agentic order-to-cash analyst | Finance teams should spend their time on the decisions that move cash, not on the manual work that ...",
+    "url": "https://www.linkedin.com/company/tesorio",
+    "pass": 3
+   },
+   {
+    "quote": "Tesorio - LinkedIn Tesorio | Tesorio turns revenue into cash—faster. As the first AI-powered Connected Financial Operations platform, Tesorio eliminates inefficiencies and connects order-to-cash workflows end-to ...",
+    "url": "https://www.linkedin.com/products/tesorio/",
+    "pass": 3
+   },
+   {
+    "quote": "Harry Tesorio, MICB, RCA, CAT - Ayala Land Hospitality | LinkedInFabio Fleitas - Co-Founder / CTO @ Tesorio (Madrona, First ...Carlos R. Vega - Tesorio | LinkedInMax Dame - CFO & Strategic Finance Executive | FP&A, Capital ...Koben Williams - Director of Business Operations at Tesorio ... With over 10 years of experience in the hospitality industry, I oversee financial operations as Finance Manage",
+    "url": "https://ph.linkedin.com/in/harry-tesorio",
+    "pass": 3
+   },
+   {
+    "quote": "Fabio Fleitas - Co-Founder / CTO @ Tesorio (Madrona, First ...Carlos R. Vega - Tesorio | LinkedInMax Dame - CFO & Strategic Finance Executive | FP&A, Capital ...Koben Williams - Director of Business Operations at Tesorio ... Co-Founder / CTO @ Tesorio (Madrona, First Round Capital, Floodgate, Fuel, Fathom, Y Combinator) · Experience: Tesorio · Education: University of Pennsylvania · Location: San ",
+    "url": "https://www.linkedin.com/in/fabiofleitas",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Tesorio (@usetesorio) / X At Tesorio, we say, “Closed-Won isn’t done until you get paid.” See how our platform unites Sales, Finance, & Customer Success for seamless collaboration, stronger customer relationships, and faster payments.",
+    "url": "https://x.com/usetesorio",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tesorio.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tesorio.com/solutions/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tesorio.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tesorio.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tesorio.com/customers/veeva",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tesorio.com/customers/gitlab",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tesorio.com/customers/couchbase",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tesorio.com/customers/discovery-education",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tesorio.com/customers/securityscorecard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tesorio.com/customers/wp-engine",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tesorio.com/customers/smartsheet",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tesorio.com/customers/seismic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tesorio.com/customers/singular",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tesorio.com/request-demo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tesorio.com/solutions/reduce-dso",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tesorio.com/solutions/automate-collections",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tesorio.com/solutions/improve-cash-flow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tesorio.com/solutions/scale-ar-operations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tesorio.com/solutions/reduce-bad-debt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tesorio.com/solutions/gain-cash-visibility",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tesorio.com/_next/image?url=%2Fimages%2Fcustomers%2Fnormalized%2Fveeva.png&w=640&q=75&dpl=dpl_4TN9w6J7n6Z9Q8yceYBRuTrRFUqT",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tesorio.com/_next/image?url=%2Fimages%2Fcustomers%2Fnormalized%2Fgitlab.png&w=640&q=75&dpl=dpl_4TN9w6J7n6Z9Q8yceYBRuTrRFUqT",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tesorio.com/_next/image?url=%2Fimages%2Fcustomers%2Fnormalized%2Fcouchbase.png&w=640&q=75&dpl=dpl_4TN9w6J7n6Z9Q8yceYBRuTrRFUqT",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tesorio.com/_next/image?url=%2Fimages%2Fcustomers%2Fnormalized%2Fdiscovery-education.png&w=640&q=75&dpl=dpl_4TN9w6J7n6Z9Q8yceYBRuTrRFUqT",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://moge.ai/ja/product/tesorio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/tesorio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tesorojapan.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/tesoro-japan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/tesorio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/tesorio/case-study/smartsheet-vastly-improves-and-expands-ar-capability-and-simultaneously-creates-better-customer-experience-with-tesorio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/tesorio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/tesorio/__Ptm-BZIHmvGRxAq078v6NSRYazO5THoFKSyneYpZiQM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/118655-20",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/tesorio-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/tesorio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/tesorio/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ph.linkedin.com/in/harry-tesorio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/fabiofleitas",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/usetesorio",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tesorio 日本 導入",
+   "results": [
+    "https://www.tesorio.com/",
+    "https://moge.ai/ja/product/tesorio",
+    "https://jp.linkedin.com/company/tesorio",
+    "https://www.tesorio.com/about",
+    "https://www.ai-toptier.com/ai-tools/tesorio",
+    "https://www.tesorio.com/integrations/netsuite",
+    "https://www.linkstartai.com/ja/agents/tesorio"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tesorio 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://www.tesorio.com/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tesorio Japan",
+   "results": [
+    "https://www.tesorio.com/",
+    "https://tesorojapan.jp/",
+    "https://www.tesorio.com/about",
+    "https://www.linkedin.com/company/tesoro-japan",
+    "https://www.dnb.com/business-directory/company-profiles.tesoro_japan_kk.b53d05c91b7bf3100f3413eab9dd2551.html",
+    "https://www.facebook.com/TesoroJAP/",
+    "https://tesoro1968.com/tesoro-japan"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tesorio manufacturing customer case study",
+   "results": [
+    "https://www.tesorio.com/solutions/manufacturing",
+    "https://www.tesorio.com/customers",
+    "https://www.casestudies.com/company/tesorio",
+    "https://www.casestudies.com/company/tesorio/case-study/smartsheet-vastly-improves-and-expands-ar-capability-and-simultaneously-creates-better-customer-experience-with-tesorio",
+    "https://www.featuredcustomers.com/vendor/tesorio",
+    "https://www.featuredcustomers.com/vendor/tesorio/case-studies",
+    "https://www.suiteapp.com/suiteappcom/docs/Tesorio/Tesorio+Case+Study+-+Box.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tesorio white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://reseller.amazon.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://retailers.bossrevolution.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tesorio founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/tesorio",
+    "https://tracxn.com/d/companies/tesorio/__Ptm-BZIHmvGRxAq078v6NSRYazO5THoFKSyneYpZiQM",
+    "https://pitchbook.com/profiles/company/118655-20",
+    "https://prospeo.io/c/tesorio-revenue",
+    "https://compworth.com/company/tesorio",
+    "https://acquirezy.com/organization/tesorio",
+    "https://www.crunchbase.com/organization/tesorio"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Tesorio",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/guaran/n/ne1da1b216a7a",
+    "https://note.com/kanjikotoyori/n/n668ac05cedd1",
+    "https://note.com/handotai14/n/ncaae2dba1528",
+    "https://note.com/tokmak_speak0731/n/n5b2a5ff42c50"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tesorio",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Tesorio",
+   "results": [
+    "https://www.linkedin.com/company/tesorio",
+    "https://www.linkedin.com/products/tesorio/",
+    "https://ph.linkedin.com/in/harry-tesorio",
+    "https://www.linkedin.com/in/fabiofleitas",
+    "https://www.linkedin.com/in/carlos-r-vega",
+    "https://www.linkedin.com/in/koben-williams-07972460",
+    "https://www.linkedin.com/in/maxdame"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tesorio",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Tesorio note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.clay.com/fr/dossier/tesorio-ceo",
+    "https://www.tesorio.com/",
+    "https://councils.forbes.com/profile/Carlos-Vega-Co-founder-CEO-Tesorio/01d47845-7cb6-4eb3-9777-1f2e19663060",
+    "https://www.linkedin.com/in/carlos-r-vega",
+    "https://the-shashi.com/tse/5243/executives/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tesorio X 投稿",
+   "results": [
+    "https://x.com/usetesorio",
+    "https://www.tesorio.com/",
+    "https://x.com/PlayTesoro",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://twiranking.net/",
+    "https://iromirai.jp/creators/482821731d06?d=4",
+    "https://www.patreon.com/Aisgi/posts/tesoro-x-uta-op-172093870?l=ja-JP"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部22頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部22頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部22頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部22頁・検索12回）"
+ }
+}

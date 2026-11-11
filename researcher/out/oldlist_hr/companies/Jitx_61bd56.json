@@ -1,0 +1,1045 @@
+{
+ "name": "Jitx",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜送付済み",
+ "researched_at": "2026-11-11T06:13:27.315062+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "米ベンチャーの JITX が電子回路基板の設計を自動化する人工 ... — 米ベンチャーの JITX が電子回路基板の設計を自動化する人工 ... roboteer-tokyo.com https://roboteer-tokyo.com > archives",
+    "url": "https://roboteer-tokyo.com/archives/13209",
+    "pass": 3
+   },
+   {
+    "quote": "JITX - Software-defined electronics — JITX - Software-defined electronics JITX https://www.jitx.com",
+    "url": "https://www.jitx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "JITX - LinkedIn — JITX - LinkedIn LinkedIn https://www.linkedin.com > jitx",
+    "url": "https://www.linkedin.com/company/jitx",
+    "pass": 3
+   },
+   {
+    "quote": "JITX in Action: Simplifying PCB Design and Optimization — JITX in Action: Simplifying PCB Design and Optimization YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=5aKBauONlsE",
+    "pass": 3
+   },
+   {
+    "quote": "JITX , a Way for Hardware Engineers to Write Codes — JITX , a Way for Hardware Engineers to Write Codes Altium | Learning Hub https://resources.altium.com > jitx-wa...",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "JITX : Automatic circuit board design. | Y Combinator — JITX : Automatic circuit board design. | Y Combinator Y Combinator https://www.ycombinator.com > jitx",
+    "url": "https://www.ycombinator.com/companies/jitx",
+    "pass": 3
+   },
+   {
+    "quote": "JITX - Software -defined electronics — JITX - Software -defined electronics JITX https://www.jitx.com",
+    "url": "https://www.jitx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "JITX launches general availability and announces $12M ... — JITX launches general availability and announces $12M ... JITX https://www.jitx.com > blog > series-a...",
+    "url": "https://www.jitx.com/blog/series-a-announcement",
+    "pass": 3
+   },
+   {
+    "quote": "JITX - Crunchbase Company Profile & Funding — JITX - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > jitx",
+    "url": "https://www.crunchbase.com/organization/jitx",
+    "pass": 3
+   },
+   {
+    "quote": "Jitx 2026 Company Profile: Valuation, Funding & Investors — Jitx 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/232081-03",
+    "pass": 3
+   },
+   {
+    "quote": "JITX - 2026 Company Profile, Team, Funding & Competitors — JITX - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/jitx/__jUTcWraTa5nR56YOnxXEEaiw6oGovUPkYsPD_tauVow",
+    "pass": 3
+   },
+   {
+    "quote": "JITx Revenue 2023: $2.7M Est. - GetLatka — JITx Revenue 2023: $2.7M Est. - GetLatka GetLatka https://getlatka.com > companies > jitx",
+    "url": "https://getlatka.com/companies/jitx.com",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "Your approved AI edits that code while JITX generates schematics, board structures, dispatches HFSS simulations, and runs checks.",
+    "url": "https://www.jitx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Express requirements, constraints, stackups, and engineering rules in Python. AI proposes edits. Engineers can read, review, and run the code.",
+    "url": "https://www.jitx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Stackups, material effects, vias, clearances and your proprietary tradecraft are encoded in the local design files while JITX generates routing, fencing, pin assignments, and schematic output.",
+    "url": "https://www.jitx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "High-frequency board designs are at risk when setup cost (and waiting for CAD data) control the schedule. Engineers spend days preparing HFSS studies, layout markup, and rule handoffs, then only have time to try a few structures.",
+    "url": "https://www.jitx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AI copilots can draft answers, but they stop short of production level design, not helping with high performance geometry, HFSS setup, manufacturable routing, and customer rule checks. More CAD seats do not multiply your best SI engineers.",
+    "url": "https://www.jitx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Your approved AI writes and revises Python. JITX supplies the design primitives, routing solvers, HFSS interface, schematic generation, pin assignment, fencing, and stabilization that the AI cannot build on its own.",
+    "url": "https://www.jitx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "JITX runs on your infrastructure with your approved AI. Requirements, stackup rules, fab constraints, and in house knowledge stay in the local design. Workflows expand to model fiber weave, oxide, surface roughness, and other manufacturing effects.",
+    "url": "https://www.jitx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Requirements become Python. The AI edits the code. JITX generates a candidate design. HFSS, or your own rule checker evaluates the result. The next edit starts from measured data, not guesswork. This general loop expands to many domains, including SPICE, power, thermal, etc.",
+    "url": "https://www.jitx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Bring a structure to optimize, we'll show the optimization loop running on your compute, using your approved internal AI models.",
+    "url": "https://www.jitx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Predictable Designs with John Teel",
+    "url": "https://www.youtube.com/watch?v=5aKBauONlsE",
+    "pass": 3
+   },
+   {
+    "quote": "Duncan Haldane, the CEO, and co-founder of JITX joins us to share a very interesting approach to PCB design. JITX is a way for hardware engineers to write code to design circuit boards.",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "This is a very interesting episode, especially for hardware engineers. Duncan Haldane, the CEO, and co-founder of JITX joins us to share a very interesting approach to PCB design. JITX is a way for hardware engineers to write code to design circuit boards.",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "and the general availability of JITX as an actual product.",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "Nope, like actual product.",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "Like actual product. That's awesome. That's awesome. How does it feel to get to that point?",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "It feels great. When we started, we ran as a design consultancy to test the design tool and it was kind of a bit frustrating, the rate of helping people was pretty slow. A lot of people need hardware and the best way to serve them was with a product they can just use. So I'm just really excited to be at this point.",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "Sure, sure. So maybe before we talk a little more about the product, maybe you can give the audience a little overview of your background, how you came into doing all this. I find that everybody's path into the electronics world is varied and quite interesting.",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "So maybe that informs the approach to how you got into JITX and then what JITX actually is. Is that a fair statement?",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "I will admit I have a couple of those spreadsheets.",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "Right, yeah. So my feeling is, that should be a native part of your design, how you actually do design when you read PDFs, when you do calculations in spreadsheets, that should be a first class object of your design tool.",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "So maybe for the audience out there who says, \"Oh, coding, and I'm coding up a PCB,\" is there any way you could maybe make the process for getting from what you type in on the screen to the schematic that you output a little more tangible? What exactly is the code doing without, of course giving away the secret sauce?",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "So using a catalog of tagged data, it really is trying to fill in the blanks using best practices or using data for intervening or intermediate components that can be easily broken down into a set of concrete instructions. And that's what you guys have done is the process and the concrete instructions and I guess the tagging of all of the component data, is that fair to say?",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "Yeah, startups don't really have competition. So ours is kind of a green field thing, and even if you're entering into the traditional PCB space, the odds that you encounter another startup and say like, \"Oh, this other startup solves our problems,\" at getting customers, like 0% likely.",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "I think that's a good way to approach it. So I think it's very much right now-",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "So are the big boys, the Altiums of the world, going to have to embrace this kind of approach because it gets to a point where everybody else is doing it and that just becomes the expectation?",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "Sure, sure. So I guess I'm wondering what's next for the platform beyond physical layout, in terms of what it can do and what maybe a developer could step in and do. Could the same approach be used for, let's say code firmware?",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "Yeah. So WEBENCH is pretty good for power and they're really smart about how they simulate and check these power designs, but it's hard to do that once you get to functional requirements of, \"Okay, I need a building automation solution.\" And that draws on seven reference designs and how do you actually connect those things together becomes really challenging if you're not using a tool for it.",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "Yeah, absolutely. Thank you, thanks again. To everybody out there that's listening and watching on YouTube, we're having an Altium Designer promo going on right now. You can access the link to the promo in the show notes. We encourage you to sign up for Altium Designer if you haven't already. And last but not least, don't stop learning, stay OnTrack and we will see you next time.",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "More content by Zachariah Peterson",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "In this episode, we are fortunate to have two passionate educators in the industry, Mike Buetow and Mike Creeden. We will talk about the PCEA’s efforts to use all possible platforms to promote educational programs for design engineers.",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "IPC Courses, PCB Design Practices & Advanced Materials with Kris Moyer",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "Keysight's Tim Wang Lee will share his early days as a prodigy with Dr. Eric Bogatin. We will also discuss the importance of simulation and measurement to achieve signal integrity for your PCB design.",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "is causing engineers to redesign products to accommodate available parts. Adding to the complexities, systems are getting harder to design, and experts are retiring and not being replaced.",
+    "url": "https://www.jitx.com/blog/series-a-announcement",
+    "pass": 3
+   },
+   {
+    "quote": "As Geocene showed, the error-prone rote aspect of work should be done away with so engineers can be freed up to be creative and spend more time optimizing at the bench. Imagine a world where more products dreamed up by hardware engineers could actually come to fruition.",
+    "url": "https://www.jitx.com/blog/series-a-announcement",
+    "pass": 3
+   },
+   {
+    "quote": "We started JITX by dogfooding our tools. We took on circuit board design work from real customers and used JITX to create custom hardware for them. We did projects like building hardware for this",
+    "url": "https://www.jitx.com/blog/series-a-announcement",
+    "pass": 3
+   },
+   {
+    "quote": "In this phase, we would design a system, do a post-mortem, then re-design and re-implement the JITX language and compiler to do better next time. That laborious iteration cycle was necessary because at the end of the day, the tools have to produce 100% correct hardware designs. After four major iterations, JITX made our small team of electrical engineers wildly productive.",
+    "url": "https://www.jitx.com/blog/series-a-announcement",
+    "pass": 3
+   },
+   {
+    "quote": "At the end of our iteration process we were quickly designing boards that were at the limit of what traditional factories could build (our thanks to Gerry Partida for an 8/4 stacked microvia with sub 70um trace and space!). For example we built this silicon validation board that included 2500 pins in a complex 300um grid.",
+    "url": "https://www.jitx.com/blog/series-a-announcement",
+    "pass": 3
+   },
+   {
+    "quote": "We decided it was time to productize. We wound down our services business and subsequently raised a Series A to build the team that would create a product-ready version of JITX. Sequoia shared our vision and made that easy for us -- pre-empting the round so we didn’t have to waste time raising money.",
+    "url": "https://www.jitx.com/blog/series-a-announcement",
+    "pass": 3
+   },
+   {
+    "quote": "We shifted from a primarily command line driven tool to a productivity-focused UI that helps users ramp up quickly.",
+    "url": "https://www.jitx.com/blog/series-a-announcement",
+    "pass": 3
+   },
+   {
+    "quote": "And we built a tight integration with KiCAD and Altium so users can use JITX on existing projects without losing velocity:",
+    "url": "https://www.jitx.com/blog/series-a-announcement",
+    "pass": 3
+   },
+   {
+    "quote": "Today we are launching the general availability of JITX for professional engineers. You can sign up to get started with the product",
+    "url": "https://www.jitx.com/blog/series-a-announcement",
+    "pass": 3
+   },
+   {
+    "quote": "Jitx 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/232081-03",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of circuit board technology designed to assist businesses in developing better electronics. The company's technology applies artificial intelligence, optimization, compiler, and programming language techniques to automate error-prone areas in the design process, enabling businesses to develop quality, custom circuit board designs faster and for lower costs than traditional methods.",
+    "url": "https://pitchbook.com/profiles/company/232081-03",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/232081-03",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/232081-03",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/232081-03",
+    "pass": 3
+   },
+   {
+    "quote": "01-Apr-2024",
+    "url": "https://pitchbook.com/profiles/company/232081-03",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/232081-03",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/232081-03",
+    "pass": 3
+   },
+   {
+    "quote": "Prague, Czech Republic",
+    "url": "https://pitchbook.com/profiles/company/232081-03",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/232081-03",
+    "pass": 3
+   },
+   {
+    "quote": "Jitx’s primary industry is IT Consulting and Outsourcing.",
+    "url": "https://pitchbook.com/profiles/company/232081-03",
+    "pass": 3
+   },
+   {
+    "quote": "Is Jitx a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/232081-03",
+    "pass": 3
+   },
+   {
+    "quote": "Jitx is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/232081-03",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/232081-03",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/232081-03",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/232081-03",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "JITX runs on your local computer to turn requirements, stackups, SI targets, and manufacturing rules into design code your team can inspect and compile.",
+    "url": "https://www.jitx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing rules stay in the design",
+    "url": "https://www.jitx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "JITX runs on your infrastructure with your approved AI. Requirements, stackup rules, fab constraints, and in house knowledge stay in the local design. Workflows expand to model fiber weave, oxide, surface roughness, and other manufacturing effects.",
+    "url": "https://www.jitx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by Honeywell Aerospace, Lockheed Martin, and OpenAI.",
+    "url": "https://www.jitx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "That's interesting. So I kind of came into this not knowing that I was going to do PCBs and manufacturing and hardware. I actually wanted to teach. So it's always interesting when I meet someone who is saying, \"Yeah, I was building robots in high school.\"",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "AI Vision Systems in Manufacturing with Deepview's Eliyahu Davis",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "In this episode, we continue the discussion on diversifying the electronic supply chain. Our guest Case Engelen the CEO of Titoma shares his insight about moving some of the manufacturing to other Southeast Asian countries and South America.",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "At the end of our iteration process we were quickly designing boards that were at the limit of what traditional factories could build (our thanks to Gerry Partida for an 8/4 stacked microvia with sub 70um trace and space!). For example we built this silicon validation board that included 2500 pins in a complex 300um grid.",
+    "url": "https://www.jitx.com/blog/series-a-announcement",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Right, yeah. So my feeling is, that should be a native part of your design, how you actually do design when you read PDFs, when you do calculations in spreadsheets, that should be a first class object of your design tool.",
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/232081-03",
+    "pass": 3
+   },
+   {
+    "quote": "Jitx has 17 total employees.",
+    "url": "https://pitchbook.com/profiles/company/232081-03",
+    "pass": 3
+   },
+   {
+    "quote": "What is Jitx’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/232081-03",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Jitx is",
+    "url": "https://pitchbook.com/profiles/company/232081-03",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/232081-03",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "JITX - LinkedIn JITX - LinkedIn LinkedIn https://www.linkedin.com > jitx",
+    "url": "https://www.linkedin.com/company/jitx",
+    "pass": 3
+   },
+   {
+    "quote": "Duncan Haldane - CEO at JITX l Startup Advisor I ... - LinkedIn Duncan Haldane - CEO at JITX l Startup Advisor I ... - LinkedIn LinkedIn https://www.linkedin.com > duncan-h...",
+    "url": "https://www.linkedin.com/in/duncan-haldane",
+    "pass": 3
+   },
+   {
+    "quote": "JITX AI-native Design Automation for Circuit Boards - LinkedIn JITX AI-native Design Automation for Circuit Boards - LinkedIn LinkedIn https://www.linkedin.com > posts > d...",
+    "url": "https://www.linkedin.com/posts/duncan-haldane_jitx-is-building-ai-native-design-automation-activity-7437624567931543552-1kcU",
+    "pass": 3
+   },
+   {
+    "quote": "Jonathan Bachrach - Engineering Leader / Cofounder at JITx Jonathan Bachrach - Engineering Leader / Cofounder at JITx LinkedIn https://www.linkedin.com > jonathan-...",
+    "url": "https://www.linkedin.com/in/jonathan-bachrach-5344434",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Kasley jitx hola     - Facebook Kasley jitx hola     - Facebook Facebook https://www.facebook.com > posts > kasley-jitx-hola",
+    "url": "https://www.facebook.com/dibashrepchongrai2026/posts/kasley-jitx-hola/122253452612311711/",
+    "pass": 3
+   },
+   {
+    "quote": "Jitx royals    ❤️ #aayuzeh - Facebook Jitx royals    ❤️ #aayuzeh - Facebook Facebook https://www.facebook.com > posts > jitx-royals️aayuzeh",
+    "url": "https://www.facebook.com/100087618798087/posts/jitx-royals%EF%B8%8Faayuzeh/1117060601224556/",
+    "pass": 3
+   },
+   {
+    "quote": "JITX ⚜️ in India - Facebook JITX ⚜️ in India - Facebook Facebook https://www.facebook.com > posts > jitx️",
+    "url": "https://www.facebook.com/61585781136540/posts/jitx%EF%B8%8F/122146135959192704/",
+    "pass": 3
+   },
+   {
+    "quote": "Aaja ko jitx tw guys #NPL - Facebook Aaja ko jitx tw guys #NPL - Facebook Facebook https://www.facebook.com > aaja-ko-jitx-tw-guys-npl",
+    "url": "https://www.facebook.com/santosh.adhikari.867413/posts/aaja-ko-jitx-tw-guys-npl/1640909477386700/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://roboteer-tokyo.com/archives/13209",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://joinx.co/ja/japan-entry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plantemoran.com/explore-our-thinking/case-studies/jbs-nal-replaces-multiple-erp-systems-with-plex-manufacturing-cloud",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://product.torexsemi.com/ja/sample-and-purchase/online",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://roboteer-tokyo.com/archives/13209",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rtpatch.asia/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jitx.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/jitx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=5aKBauONlsE",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jitx.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdpi.com/2079-8954/12/10/426",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.celestica.com/about-us/who-we-are/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jitx.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jitx.com/blog/series-a-announcement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/jitx",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/232081-03",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/jitx/__jUTcWraTa5nR56YOnxXEEaiw6oGovUPkYsPD_tauVow",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/jitx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/duncan-haldane",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/duncan-haldane_jitx-is-building-ai-native-design-automation-activity-7437624567931543552-1kcU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jonathan-bachrach-5344434",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/dibashrepchongrai2026/posts/kasley-jitx-hola/122253452612311711/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100087618798087/posts/jitx-royals%EF%B8%8Faayuzeh/1117060601224556/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61585781136540/posts/jitx%EF%B8%8F/122146135959192704/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/santosh.adhikari.867413/posts/aaja-ko-jitx-tw-guys-npl/1640909477386700/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/jitx",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Jitx",
+   "results": [
+    "https://www.jitx.com/",
+    "https://www.linkedin.com/company/jitx",
+    "https://www.harpoon.vc/company/jitx",
+    "https://www.ycombinator.com/companies/jitx",
+    "https://www.reddit.com/r/ECE/comments/ykzbl6/does_anybody_uses_jitx_in_their_workflow/",
+    "https://ja.wikipedia.org/wiki/JITTERIN'JINN",
+    "https://docs.jitx.com/en/latest/index.html",
+    "https://docs.jitx.com/en/latest/",
+    "https://github.com/JITx-Inc",
+    "https://www.jitx.com/about"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "株式会社Jitx",
+   "results": [
+    "https://www.jitx.com/",
+    "https://www.linkedin.com/company/jitx",
+    "https://sequoiacap.com/companies/jitx",
+    "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "https://www.jitx.com/about",
+    "https://www.ycombinator.com/companies/jitx",
+    "https://www.jitx.com/careers",
+    "https://github.com/JITx-Inc",
+    "https://ja.wikipedia.org/wiki/株式会社MIXI",
+    "https://jinx.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Jitx 株式会社",
+   "results": [
+    "https://www.jitx.com/",
+    "https://www.linkedin.com/company/jitx",
+    "https://sequoiacap.com/companies/jitx",
+    "https://www.jitx.com/about",
+    "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "https://www.ycombinator.com/companies/jitx",
+    "https://www.jitx.com/careers",
+    "https://github.com/JITx-Inc",
+    "https://ja.wikipedia.org/wiki/JetB株式会社",
+    "https://www.jitx.com/blog/series-a-announcement"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Ｊｉｔｘ",
+   "results": [
+    "https://www.jitx.com/",
+    "https://www.linkedin.com/company/jitx",
+    "https://www.harpoon.vc/company/jitx",
+    "https://www.ycombinator.com/companies/jitx",
+    "https://www.reddit.com/r/ECE/comments/ykzbl6/does_anybody_uses_jitx_in_their_workflow/",
+    "https://ja.wikipedia.org/wiki/JITTERIN'JINN",
+    "https://docs.jitx.com/en/latest/index.html",
+    "https://www.jitx.com/about",
+    "https://docs.jitx.com/en/latest/",
+    "https://github.com/JITx-Inc"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Jitx Japan",
+   "results": [
+    "https://www.jitx.com/",
+    "https://www.linkedin.com/company/jitx",
+    "https://www.youtube.com/watch?v=5aKBauONlsE",
+    "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "https://www.ycombinator.com/companies/jitx",
+    "https://www.jitx.com/careers",
+    "https://www.harpoon.vc/company/jitx",
+    "https://www.jitx.com/about",
+    "https://www.reddit.com/r/ECE/comments/ykzbl6/does_anybody_uses_jitx_in_their_workflow/",
+    "https://jetixinternational.fandom.com/wiki/Jetix_(Japan)"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Jitx 日本",
+   "results": [
+    "https://www.jitx.com/",
+    "https://www.linkedin.com/company/jitx",
+    "https://www.youtube.com/watch?v=5aKBauONlsE",
+    "https://www.ycombinator.com/companies/jitx",
+    "https://pypi.org/project/jitx/",
+    "https://www.reddit.com/r/ECE/comments/ykzbl6/does_anybody_uses_jitx_in_their_workflow/",
+    "https://docs.jitx.com/",
+    "https://www.crunchbase.com/organization/jitx",
+    "https://www.youtube.com/watch?v=SUVSwqZazik",
+    "https://ja.wikipedia.org/wiki/JPT日本語能力試験"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Jitx K.K.",
+   "results": [
+    "https://www.jitx.com/",
+    "https://www.linkedin.com/company/jitx",
+    "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "https://www.youtube.com/watch?v=5aKBauONlsE",
+    "https://www.reddit.com/r/ECE/comments/ykzbl6/does_anybody_uses_jitx_in_their_workflow/",
+    "https://www.jitx.com/blog/series-a-announcement",
+    "https://www.harpoon.vc/company/jitx",
+    "https://sequoiacap.com/companies/jitx",
+    "https://www.ycombinator.com/companies/jitx",
+    "https://docs.jitx.com/en/latest/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Jitx 日本 導入",
+   "results": [
+    "https://roboteer-tokyo.com/archives/13209",
+    "https://joinx.co/ja/japan-entry/",
+    "https://www.plantemoran.com/explore-our-thinking/case-studies/jbs-nal-replaces-multiple-erp-systems-with-plex-manufacturing-cloud",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://www.jato.com/news-and-insights-japan/%E6%97%A5%E6%9C%AC%E3%81%AEota%E6%90%AD%E8%BC%89%E7%8E%87%E3%81%AF%E3%81%AA%E3%81%9C%E4%BD%8E%E3%81%84%E3%81%AE%E3%81%8B-%E4%B8%96%E7%95%8C4%E3%82%AB%E5%9B%BD%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83%E3%81%A7%E8%A6%8B%E3%81%88%E3%82%8B%E8%AA%B2%E9%A1%8C%E3%81%A8%E5%B1%95%E6%9C%9B",
+    "https://www.youtube.com/watch?v=KdpybhQSZ0E",
+    "https://www.linkedin.com/posts/daiki-yokochi-510313244_transformation-changemanagement-humancenteredchange-activity-7506623164316020736-JiTx",
+    "https://www.nipponexpress.com/nz/ja/knowledge/case/establishing-a-jit-supply-system/",
+    "https://press.jal.co.jp/ja/release/202502/008563.html",
+    "https://www.jitx.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Jitx 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://product.torexsemi.com/ja/sample-and-purchase/online",
+    "https://roboteer-tokyo.com/archives/13209",
+    "https://rtpatch.asia/partner/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://techsor.co.jp/partners",
+    "https://www.nissho-group.com/jp/zhc/",
+    "https://dentsu-ho.com/articles/3212",
+    "https://www.hashiudo-denshi.jp/maker/",
+    "https://www.electronics.jtekt.co.jp/jp/network/",
+    "https://ja.wikipedia.org/wiki/ITX_(企業)"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Jitx Japan",
+   "results": [
+    "https://www.jitx.com/",
+    "https://www.linkedin.com/company/jitx",
+    "https://www.youtube.com/watch?v=5aKBauONlsE",
+    "https://resources.altium.com/p/jitx-way-hardware-engineers-write-codes",
+    "https://www.ycombinator.com/companies/jitx",
+    "https://www.jitx.com/careers",
+    "https://www.harpoon.vc/company/jitx",
+    "https://www.jitx.com/about",
+    "https://www.reddit.com/r/ECE/comments/ykzbl6/does_anybody_uses_jitx_in_their_workflow/",
+    "https://jetixinternational.fandom.com/wiki/Jetix_(Japan)"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Jitx manufacturing customer case study",
+   "results": [
+    "https://www.jitx.com/",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.mdpi.com/2079-8954/12/10/426",
+    "https://www.celestica.com/about-us/who-we-are/case-study",
+    "https://www.youtube.com/watch?v=5aKBauONlsE",
+    "https://www.industryweek.com/leadership/strategic-planning-execution/article/21261091/winning-with-customer-case-studies-4-tips-6-pitfalls",
+    "https://www.reddit.com/r/ECE/comments/ykzbl6/does_anybody_uses_jitx_in_their_workflow/",
+    "https://www.lattice3d.com/knowledge-center/customer-case-studies",
+    "https://www.tth.com/resources/case-studies",
+    "https://www.slideshare.net/slideshow/a-case-study-on-just-in-time-jit/53102116"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Jitx white label OR reseller OR partner program",
+   "results": [
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://www.jitx.com/",
+    "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "https://www.reddit.com/r/GrowthHacking/comments/1rxruln/using_a_whitelabel_or_reseller_program_to/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.10comwebdevelopment.com/whitelabel-reseller-program",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Jitx founded funding employees revenue",
+   "results": [
+    "https://www.jitx.com/blog/series-a-announcement",
+    "https://www.crunchbase.com/organization/jitx",
+    "https://pitchbook.com/profiles/company/232081-03",
+    "https://tracxn.com/d/companies/jitx/__jUTcWraTa5nR56YOnxXEEaiw6oGovUPkYsPD_tauVow",
+    "https://getlatka.com/companies/jitx.com",
+    "https://www.reveliolabs.com/companies/jitx/employees",
+    "https://leadiq.com/c/jitx/5cb1a27620000022016ed064",
+    "https://dealroom.co/companies/jitx/",
+    "https://growjo.com/company/JITx",
+    "https://prospeo.io/c/jitx-revenue"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Jitx",
+   "results": [
+    "https://note.com/honda_tadatoki/n/n159720e86dc9",
+    "https://note.com/kankanbou_e/n/n11a8423e4464",
+    "https://note.com/t_room_toyama/n/n91311a25b8cb",
+    "https://note.com/dr4102002/n/n4b03ae5aed50",
+    "https://note.com/yamashin0120/n/n3a539fbe21f1",
+    "https://note.com/unpsymind/n/n8d6733f075c4",
+    "https://note.com/vfk15/n/n9f522b62affd?magazine_key=mb530a5d93260",
+    "https://note.com/alicenine/n/nf75459d48a79",
+    "https://note.com/nejimura89/n/nfbcf31c057db",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Jitx",
+   "results": [
+    "https://x.com/DuncanHaldane",
+    "https://x.com/AletihadEn/status/2113596084320973033?lang=ar",
+    "https://x.com/PrepBaseballIL/status/2105323414739120500/photo/1",
+    "https://x.com/DharitriLive1/status/2094823468860907933",
+    "https://x.com/Cloudflare/status/2084264282405974034",
+    "https://x.com/wesbos/status/2116246260898472341",
+    "https://x.com/Canucks/status/2105883736336457909",
+    "https://x.com/HenriHelvetica/status/2111181264929882294",
+    "https://x.com/bentlegen/status/2120165641256890448",
+    "https://x.com/jitx_"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Jitx",
+   "results": [
+    "https://www.linkedin.com/company/jitx",
+    "https://www.linkedin.com/in/duncan-haldane",
+    "https://www.linkedin.com/posts/duncan-haldane_jitx-is-building-ai-native-design-automation-activity-7437624567931543552-1kcU",
+    "https://www.linkedin.com/in/jonathan-bachrach-5344434",
+    "https://www.linkedin.com/in/kennethchang",
+    "https://www.linkedin.com/in/patrick-li-623186bb",
+    "https://www.linkedin.com/posts/duncan-haldane_weve-been-working-a-lot-with-rf-boards-at-activity-7414098211436630016-JtXq",
+    "https://www.linkedin.com/in/digitaltapping",
+    "https://www.linkedin.com/in/shantanu-agarwal-44a4b648",
+    "https://www.linkedin.com/posts/jitx_jitx-software-defined-electronics-activity-7158270740918673408--TFC"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Jitx",
+   "results": [
+    "https://www.facebook.com/dibashrepchongrai2026/posts/kasley-jitx-hola/122253452612311711/",
+    "https://www.facebook.com/100087618798087/posts/jitx-royals%EF%B8%8Faayuzeh/1117060601224556/",
+    "https://www.facebook.com/61585781136540/posts/jitx%EF%B8%8F/122146135959192704/",
+    "https://www.facebook.com/santosh.adhikari.867413/posts/aaja-ko-jitx-tw-guys-npl/1640909477386700/",
+    "https://www.facebook.com/alizea.jitx/",
+    "https://www.facebook.com/wondimu.tesfaye.50/",
+    "https://www.facebook.com/groups/438725726326410/posts/3180022958863326/",
+    "https://www.facebook.com/100029698745614/posts/fun-tak-jitx/1838506053816002/",
+    "https://www.facebook.com/aalok.rathor.3/videos/janakpur-bolts-vs-karnali-yaks-kale-jitx-tajanakpurbolts%EF%B8%8F-viralvideo-janakpurdha/1132290079543456/",
+    "https://www.facebook.com/JITEXLLC/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Jitx note 社長",
+   "results": [
+    "https://www.jitx.com/",
+    "https://www.youtube.com/watch?v=Tg72OiPTIXM",
+    "https://note.com/jtekt_kondou",
+    "https://www.jitx.com/blog/series-a-announcement",
+    "https://x.com/sadaaki",
+    "https://note.com/jtechjapan",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Jitx X 投稿",
+   "results": [
+    "https://www.jitx.com/",
+    "https://www.youtube.com/watch?v=5aKBauONlsE",
+    "https://github.com/JITx-Inc/jitx-examples",
+    "https://www.linkedin.com/company/jitx",
+    "https://blog.jitx.com/jitx-corporate-blog/frequently-asked-questions",
+    "https://www.reddit.com/r/ECE/comments/ykzbl6/does_anybody_uses_jitx_in_their_workflow/",
+    "https://www.harpoon.vc/company/jitx",
+    "https://pypi.org/project/jitx/",
+    "https://x.com/jitx_x",
+    "https://www.instagram.com/jitx_editx/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部33頁・検索19回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部33頁・検索19回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部33頁・検索19回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部33頁・検索19回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部33頁・検索19回）",
+  "料金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部33頁・検索19回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部33頁・検索19回）",
+  "日本の担い手": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部33頁・検索19回）"
+ }
+}

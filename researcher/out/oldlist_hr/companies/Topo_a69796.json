@@ -1,0 +1,1883 @@
+{
+ "name": "Topo",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜状態なし",
+ "researched_at": "2026-11-11T06:30:17.157483+00:00",
+ "official_url": "https://topo.io",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "10-May-2023 $1.1M $1.1M  Completed Product In Beta Test",
+    "url": "https://pitchbook.com/profiles/company/521315-38",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "200+ teams gave their reps an AI agent for prospecting.",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Visited the pricing page",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Downloaded a marketing content",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring for a specific role",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Tracks competitors, hiring, CRM data, funding, and more",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Turns a plain-text prompt into a ready search",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Builds and auto-refills prospect lists inside the platform",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Pulls verified emails and phones from 15 providers",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Drafts each message from the prospect's signal context",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Copilot mode / lead approval",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Reps can review and approve every lead and message",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Suggests replies based on the prospect's last message",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "AI does the grunt work. Your strategy still matters, so our team helps you plan and improve how you sell.",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Topo connects to your CRM for maximum context, improved lead search and activity logging. Collaborate in Slack, and use our API to push the limits.",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "POST /v1/leads",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Everything you need to know about how Topo can transform your prospecting process.",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "AI sales is the use of artificial intelligence to run and accelerate the sales process — from finding the right accounts to writing and sending personalized outreach. Instead of reps spending most of their day on manual research, list-building, and follow-up, AI handles the",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "repetitive prospecting work",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How does AI improve the outbound sales process?",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "AI improves outbound by removing the manual bottlenecks that slow reps down and by improving timing and relevance. In practice it works across three stages:",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "AI outbound prospecting guide",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "for B2B sales teams. It brings prospecting, intent signals, multichannel sequences, verified data, and email infrastructure into one place — then layers an",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "on top to handle the repetitive work. The agent monitors buying signals, builds and enriches lead lists, qualifies prospects, and feeds them into personalized sequences — while your team stays in control of strategy, messaging, and closing.",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "monitors intent signals, scrapes and enriches data, pre-qualifies leads, builds prospecting lists, and refills sequences automatically",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "— then surfaces the hottest leads to your team with a clear reason to reach out. You set the ICP, messaging, and guardrails; the agent drafts within them, and reps review each message before it goes out. See the full capabilities on the",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Visionary startups, corporates and service providers use Topo to grow stronger and faster.",
+    "url": "https://www.topo.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "No RevOps, No Problem: How GTM Engine Built Their Best Channel Yet",
+    "url": "https://www.topo.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How GTM Engine built a predictable outbound engine by turning intent signals into qualified pipeline with Topo",
+    "url": "https://www.topo.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How 14.ai replaced manual prospecting with AI outbound — booking meetings, validating positioning, and landing early customers.",
+    "url": "https://www.topo.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How LinkUp booked 68 meetings in 3 months with Topo — using AI outbound to test messaging, target precisely, and scale pipeline without hiring.",
+    "url": "https://www.topo.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Malibou tripled meetings using Topo — integrating AI SDRs with HubSpot and cold calling Topo's leads.",
+    "url": "https://www.topo.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Sifflet booked Nike, Walmart & Bose using Topo — automating leads, launching intent campaigns & scaling enterprise pipeline without hiring.",
+    "url": "https://www.topo.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Topo Pricing — AI Sales Platform Plans",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing that scales with your pipeline, not against it.",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Best for founders, solopreneurs",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated onboarding & Slack Support",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Builds prospecting lists",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pushes leads with a clear reason to call",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Because process and strategy help you win",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White-glove onboarding",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything you need to know about how Topo can transform your prospecting process.",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "rather than a stack of separate tools — one plan covers the prospecting platform, the AI outbound agent, and human support. Pricing depends on your usage and the size of your market, so the best way to get an exact number is a quick scoping call. Book a demo and the team will map a plan to your goals.",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "— monitors signals, enriches data, pre-qualifies leads, builds and refills lists, and surfaces leads with a reason to call",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "— white-glove onboarding, strategy workshops, and a dedicated Slack channel",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How does Topo's pricing compare to hiring an SDR?",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "level: it runs regular spam tests and throttles sending to protect your sender reputation, so you send as much as you safely can without landing in spam. Learn more on the",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What onboarding and support does Topo include?",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "white-glove onboarding",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": ", outbound strategy workshops with experienced operators, and a dedicated Slack channel with the Topo team. Topo also provides a training period where you fine-tune your lead qualification criteria so the AI matches your standards. The philosophy is that process and strategy — not just software — are what make outbound win.",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes — and you should. Topo's AI agent and qualification criteria are configured to your ICP, and there are use-case setups designed around different industries. During onboarding you tune the targeting, signals, and messaging to your market. If you're not sure Topo fits your niche,",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "DianaHR, a US-based HR tech startup of under 20 people, wanted to accelerate on growth following their funding round. The team had product-market clarity, but needed to consistently generate qualified leads to support ambitious targets.",
+    "url": "https://www.topo.io/customers/diana-hr",
+    "pass": 1
+   },
+   {
+    "quote": "that showed how DianaHR complemented other tools, making the value prop easier to understand",
+    "url": "https://www.topo.io/customers/diana-hr",
+    "pass": 1
+   },
+   {
+    "quote": ": companies hiring in multiple states or adding +4 headcount, indicating growing HR complexity",
+    "url": "https://www.topo.io/customers/diana-hr",
+    "pass": 1
+   },
+   {
+    "quote": "Tailored messaging to connect with real pains—hiring ops, onboarding chaos, lack of workflow automation",
+    "url": "https://www.topo.io/customers/diana-hr",
+    "pass": 1
+   },
+   {
+    "quote": "High-velocity iteration created a scalable process without overextending the team",
+    "url": "https://www.topo.io/customers/diana-hr",
+    "pass": 1
+   },
+   {
+    "quote": "Targeting based on hiring signals proved effective for qualification and resonance",
+    "url": "https://www.topo.io/customers/diana-hr",
+    "pass": 1
+   },
+   {
+    "quote": "Siit had a problem that would make any startup founder lose sleep: they were building a product specifically for IT teams, but they couldn't actually reach IT teams without getting flagged as spam.",
+    "url": "https://www.topo.io/customers/when-your-domain-gets-blacklisted-by-your-own-ideal-customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"We didn't just struggle to reach IT managers—we actually burned our main email domain trying to prospect them,\" admits Arnaud, Founding Sales at Siit. The more emails Siit sent to IT leaders, the worse their deliverability became. IT managers were blacklisting Siit's domain faster than the startup could find new prospects.",
+    "url": "https://www.topo.io/customers/when-your-domain-gets-blacklisted-by-your-own-ideal-customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"We saw promising results with handcrafted, personalized emails,\" Chalom explains. \"But scaling that approach seemed impossible without building complex infrastructure ourselves—which we didn't have bandwidth for as a growing startup.\"",
+    "url": "https://www.topo.io/customers/when-your-domain-gets-blacklisted-by-your-own-ideal-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Complete email authentication setup (SPF, DKIM, DMARC) configured to enterprise standards",
+    "url": "https://www.topo.io/customers/when-your-domain-gets-blacklisted-by-your-own-ideal-customers",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Pulls verified emails and phones from 15 providers",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Automates sequences across email, social and call tasks",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Reach your account manager on Slack, email, in-app, or by call. Last year, we replied to every request in under 5 minutes.",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "— is email infrastructure managed so messages reach the inbox?",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "for B2B sales teams. It brings prospecting, intent signals, multichannel sequences, verified data, and email infrastructure into one place — then layers an",
+    "url": "https://www.topo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Cabinet swapped costly SDRs for Topo, boosting outbound with 53% email open rates and higher deals.",
+    "url": "https://www.topo.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Multichannel sequences: email + LinkedIn",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A verified work email",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Multichannel sequences (LinkedIn, Email)",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Fully managed email infrastructure",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "— 15+ real-time buying-signal sources, a contacts and companies database with enrichment included, multichannel sequences (email, LinkedIn, and call tasks), two-way HubSpot integration, and managed email infrastructure",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Is there a limit to how many emails I can send with Topo?",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Feedback-driven campaigns—especially founder-to-founder emails—drove consistent pipeline from DianaHR’s ICP",
+    "url": "https://www.topo.io/customers/diana-hr",
+    "pass": 1
+   },
+   {
+    "quote": "How Siit Recovered from Email Blacklist & 3x'd IT Sales",
+    "url": "https://www.topo.io/customers/when-your-domain-gets-blacklisted-by-your-own-ideal-customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"We didn't just struggle to reach IT managers—we actually burned our main email domain trying to prospect them,\" admits Arnaud, Founding Sales at Siit. The more emails Siit sent to IT leaders, the worse their deliverability became. IT managers were blacklisting Siit's domain faster than the startup could find new prospects.",
+    "url": "https://www.topo.io/customers/when-your-domain-gets-blacklisted-by-your-own-ideal-customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"We saw promising results with handcrafted, personalized emails,\" Chalom explains. \"But scaling that approach seemed impossible without building complex infrastructure ourselves—which we didn't have bandwidth for as a growing startup.\"",
+    "url": "https://www.topo.io/customers/when-your-domain-gets-blacklisted-by-your-own-ideal-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuilding Email Infrastructure",
+    "url": "https://www.topo.io/customers/when-your-domain-gets-blacklisted-by-your-own-ideal-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Complete email authentication setup (SPF, DKIM, DMARC) configured to enterprise standards",
+    "url": "https://www.topo.io/customers/when-your-domain-gets-blacklisted-by-your-own-ideal-customers",
+    "pass": 1
+   },
+   {
+    "quote": "in email bounce rates",
+    "url": "https://www.topo.io/customers/when-your-domain-gets-blacklisted-by-your-own-ideal-customers",
+    "pass": 1
+   },
+   {
+    "quote": "“We could book meetings, but scaling was the issue. Each SDR had to juggle data sourcing, LinkedIn, email, and phone in different places. It wasn’t sustainable.”",
+    "url": "https://www.topo.io/customers/certif-ia",
+    "pass": 1
+   },
+   {
+    "quote": "— complete with LinkedIn, email, and phone — directly in their dashboards.",
+    "url": "https://www.topo.io/customers/certif-ia",
+    "pass": 1
+   },
+   {
+    "quote": "Topo also handled the outbound infrastructure: SPF, DKIM, DMARC, domain warmup, and rotation. Emails consistently landed in inboxes, without risk of burning domains.",
+    "url": "https://www.topo.io/customers/certif-ia",
+    "pass": 1
+   },
+   {
+    "quote": "“Before, I always worried if our emails were even reaching inboxes. That’s not my problem anymore.”",
+    "url": "https://www.topo.io/customers/certif-ia",
+    "pass": 1
+   },
+   {
+    "quote": "60% through email and LinkedIn",
+    "url": "https://www.topo.io/customers/certif-ia",
+    "pass": 1
+   },
+   {
+    "quote": "workflow notifications and email alerts improve communication and reporting efficiency",
+    "url": "https://cdn.prod.website-files.com/67fadd3f62a4c31896753daa/6a9e2dd948aca47bbd89799c_Topo+Case+Study_Quality+Management_testGPQA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/231875-47",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/521315-38",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": ", outbound strategy workshops with experienced operators, and a dedicated Slack channel with the Topo team. Topo also provides a training period where you fine-tune your lead qualification criteria so the AI matches your standards. The philosophy is that process and strategy — not just software — are what make outbound win.",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "from founders and operators in the ICP",
+    "url": "https://www.topo.io/customers/diana-hr",
+    "pass": 1
+   },
+   {
+    "quote": "Reps stopped selling and became operators.",
+    "url": "https://www.topo.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "operators who built the best GTM machines.",
+    "url": "https://www.topo.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "were done in coastal areas for maritime and industrial factories, such as",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "was once occupied by a Tokyo gas factory. Toxic substances were discovered in the soil and groundwater at Toyosu. The",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "formed about 60,000 to 11,000 years ago, closing the path used by mammoths, which had earlier moved to northern Hokkaido.",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ". Various plants and large animals, such as the elephant",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "disaster, the nuclear reactors were shut down. Thus, Japan's industrial sector became even more dependent than before on imported fossil fuels. By May 2012, all of the country's nuclear power plants were taken offline because of ongoing public opposition following the",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "'s government sook to restart the nuclear power plants that meet strict new safety standards and is emphasizing nuclear energy's importance as a base-load electricity source.",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Sendai Nuclear Power Plant",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "is exploring over 40 locations for potential geothermal energy plants.",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", with numerous species of subtropical and tropical plants and",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Pre-Industrial Korea and Japan in Environmental Perspective",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Enhance Your Garden with Japanese Plants",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Operating across key manufacturing hubs in Asia, Europe, and North Africa, test GPQA helps brands improve product quality, mitigate supply chain risks, and drive greater operational transparency through a tailored, customer-focused approach.",
+    "url": "https://topo.cc/case-studies/test-global-product-quality-assurance",
+    "pass": 3
+   },
+   {
+    "quote": "Download the full case study to learn how test GPQA built a smarter, more connected global quality operation with Topo.",
+    "url": "https://topo.cc/case-studies/test-global-product-quality-assurance",
+    "pass": 3
+   },
+   {
+    "quote": "Download the case study",
+    "url": "https://topo.cc/case-studies/test-global-product-quality-assurance",
+    "pass": 3
+   },
+   {
+    "quote": "Case study details how test GLOBAL PRODUCT QUALITY ASSURANCE digitized inspection workflows across Asia, Europe and North Africa to boost speed, transparency and scale",
+    "url": "https://topo.cc/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Simba Dickie Group",
+    "url": "https://cdn.prod.website-files.com/67fadd3f62a4c31896753daa/69ddf6384d37ebc5bdba4154_Topo+Case+Study_Quality+Management_Simba+Dickie.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Simba Dickie Group, a global powerhouse in toy manufacturing",
+    "url": "https://cdn.prod.website-files.com/67fadd3f62a4c31896753daa/69ddf6384d37ebc5bdba4154_Topo+Case+Study_Quality+Management_Simba+Dickie.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "members and factories, improved transparency, and enabled effective",
+    "url": "https://cdn.prod.website-files.com/67fadd3f62a4c31896753daa/69ddf6384d37ebc5bdba4154_Topo+Case+Study_Quality+Management_Simba+Dickie.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study Simba Dickie Group",
+    "url": "https://cdn.prod.website-files.com/67fadd3f62a4c31896753daa/69ddf6384d37ebc5bdba4154_Topo+Case+Study_Quality+Management_Simba+Dickie.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The Objective: Optimizing Quality Control in Global Toy Manufacturing",
+    "url": "https://cdn.prod.website-files.com/67fadd3f62a4c31896753daa/69ddf6384d37ebc5bdba4154_Topo+Case+Study_Quality+Management_Simba+Dickie.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "This case study highlights the transformative journey of Simba Dickie Group (SDG) as they sought to over -",
+    "url": "https://cdn.prod.website-files.com/67fadd3f62a4c31896753daa/69ddf6384d37ebc5bdba4154_Topo+Case+Study_Quality+Management_Simba+Dickie.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: test GPQA",
+    "url": "https://cdn.prod.website-files.com/67fadd3f62a4c31896753daa/6a9e2dd948aca47bbd89799c_Topo+Case+Study_Quality+Management_testGPQA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Operating across key manufacturing hubs in Asia, Europe, and North",
+    "url": "https://cdn.prod.website-files.com/67fadd3f62a4c31896753daa/6a9e2dd948aca47bbd89799c_Topo+Case+Study_Quality+Management_testGPQA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "reporting standards, and limited visibility into factory performance across their global supplier network. test GPQA",
+    "url": "https://cdn.prod.website-files.com/67fadd3f62a4c31896753daa/6a9e2dd948aca47bbd89799c_Topo+Case+Study_Quality+Management_testGPQA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "aimed to consolidate operations into one integrated system that connects inspectors, factories, and customers with",
+    "url": "https://cdn.prod.website-files.com/67fadd3f62a4c31896753daa/6a9e2dd948aca47bbd89799c_Topo+Case+Study_Quality+Management_testGPQA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Enhanced factory visibility: Gaining centralized insight into factory performance, defect trends, and inspection",
+    "url": "https://cdn.prod.website-files.com/67fadd3f62a4c31896753daa/6a9e2dd948aca47bbd89799c_Topo+Case+Study_Quality+Management_testGPQA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Standardized reporting processes: Building consistency in reporting workflows across suppliers and factories to",
+    "url": "https://cdn.prod.website-files.com/67fadd3f62a4c31896753daa/6a9e2dd948aca47bbd89799c_Topo+Case+Study_Quality+Management_testGPQA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "customers, factories, and suppliers, enabling faster and more transparent communication",
+    "url": "https://cdn.prod.website-files.com/67fadd3f62a4c31896753daa/6a9e2dd948aca47bbd89799c_Topo+Case+Study_Quality+Management_testGPQA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Insights & performance tracking: Defect analysis, factory performance tracking, and inspection trend reporting",
+    "url": "https://cdn.prod.website-files.com/67fadd3f62a4c31896753daa/6a9e2dd948aca47bbd89799c_Topo+Case+Study_Quality+Management_testGPQA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "trends, factory performance, and quality results",
+    "url": "https://cdn.prod.website-files.com/67fadd3f62a4c31896753daa/6a9e2dd948aca47bbd89799c_Topo+Case+Study_Quality+Management_testGPQA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of apparel and accessories intended to promote mountain culture and outdoor living.",
+    "url": "https://pitchbook.com/profiles/company/231875-47",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of apparel and accessories intended to promote mountain culture and outdoor living. The company specializes in offering bags and backpacks, apparel, clothing, and accessories that can be used around town, out on the trail, and while traveling the globe, thereby offering durable, stylish products to inspire people to integrate the outdoors into life.",
+    "url": "https://pitchbook.com/profiles/company/231875-47",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of apparel and accessories intended to promote mountain culture and outdoor living. The company specializes",
+    "url": "https://pitchbook.com/profiles/company/231875-47",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "An in-house SDR carries salary, benefits, tooling, and ramp time — and still has a ceiling on how many accounts they can work. Topo bundles the data, sequencing, deliverability, and an AI agent into one subscription that runs continuously, which is why teams often use it to",
+    "url": "https://www.topo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "When your domain gets blacklisted by your own ideal customers",
+    "url": "https://www.topo.io/customers/when-your-domain-gets-blacklisted-by-your-own-ideal-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Before founding Topo in 2023, Dan (CEO) and Robin (COO) spent three years on the sales floor at Aircall - and helped scale the team from $10M to $120M ARR.",
+    "url": "https://www.topo.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "We’re building the platform that does the heavy lifting of prospecting - so revenue teams can stop operating tools and get back to the work that actually closes.",
+    "url": "https://www.topo.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "We ran outbound at Aircall — from $10M to $120M ARR. Now we’re building the tool we wished we’d had.",
+    "url": "https://www.topo.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "It is narrow, and no point in Japan is more than",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The five main islands are (from north to south) Hokkaido, Honshu, Shikoku, Kyushu, and Okinawa. Three of the four major islands (Honshu, Kyushu, and Shikoku) are separated by narrow straits of the",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The regions are not official administrative units but have been traditionally used as the regional division of Japan in a number of contexts. For example, maps and geography textbooks divide Japan into the eight regions; weather reports usually give the weather by region; and many businesses and institutions use their home region as part of their name (",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "They are separated from the continent by the Sea of Japan, which serves as a protective barrier. Japan has 108 active",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "It has consistently carried water for millions of years. Lake Biwa was created by plate tectonics in an active rift zone. This created a very deep lake with a maximum depth of",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The Pacific coastline south of Tokyo is characterized by long, narrow, gradually shallowing inlets produced by sedimentation, which has created many natural harbors.",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The subduction zones on the east side of the Japanese archipelago cause frequent low-intensity earth tremors. Major earthquakes, volcanic eruptions, and tsunamis occur several times per century. It is part of the Pacific Ring of Fire.",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The northern part of the Japanese archipelago was further fragmented until the",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The southern part of the Japanese archipelago remained a relatively large landmass. The land area expanded northward during the Miocene.",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ". It has a carrot-like shape, with the major axis extending from southwest to northeast and a wide southern part narrowing toward the north. The coastal length is about",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan Basin has an oceanic crust and is the deepest part of the sea, whereas the Tsushima Basin is the shallowest, with depths below",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "of the sea are wide on the eastern shores of Japan. On the western shores, they are narrow, particularly along the Korean and Russian coasts, averaging about",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "and part of the North Pacific",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Reforms of the electricity and gas sectors, including the full liberalization of Japan's energy market in April 2016 and the gas market in April 2017, constitute an important part of Prime Minister Abe's economic program.",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "For example, the northern part of Hokkaido has a taiga biome.",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Greater Tokyo Area – Part of the larger",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "are visible from the northeastern coast of Hokkaido. Japan considers the northern territories (aka Southern Chishima) part of the",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Minor tremors occur almost daily in one part of the country or another, causing slight shaking of buildings.",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "So strong winds carried the volcanic ash eastward across the Sea of Japan. An average of",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "\"Recount with digital map leads to doubling of listed Japanese islands\"",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "\"Tokyo fears losing a part of its soul as world's biggest fish market moves\"",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Nipon o daï itsi ran; ou, Annales des empereurs du Japon",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", a Corporate Backed or Acquired company based in North Vancouver, Canada.",
+    "url": "https://pitchbook.com/profiles/company/231875-47",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/231875-47",
+    "pass": 3
+   },
+   {
+    "quote": "Topo Designs has 88 total employees.",
+    "url": "https://pitchbook.com/profiles/company/231875-47",
+    "pass": 3
+   },
+   {
+    "quote": "What is Topo Designs’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/231875-47",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Topo Designs is",
+    "url": "https://pitchbook.com/profiles/company/231875-47",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/521315-38",
+    "pass": 3
+   },
+   {
+    "quote": "Topo has 31 total employees.",
+    "url": "https://pitchbook.com/profiles/company/521315-38",
+    "pass": 3
+   },
+   {
+    "quote": "What is Topo’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/521315-38",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Topo is",
+    "url": "https://pitchbook.com/profiles/company/521315-38",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "「Topo Athleticは日本人と相性の良いブランド」 創業者トニー・ポスト氏が語るシューズづくりに対する哲学とは？ - RuntripMagazine[ラントリップマガジン]",
+    "url": "https://mg.runtrip.jp/archives/95517",
+    "pass": 3
+   },
+   {
+    "quote": "「Topo Athleticは日本人と相性の良いブランド」 創業者トニー・ポスト氏が語るシューズづくりに対する哲学とは？",
+    "url": "https://mg.runtrip.jp/archives/95517",
+    "pass": 3
+   },
+   {
+    "quote": "ーー日本のランニングカルチャーはどのように感じますか？",
+    "url": "https://mg.runtrip.jp/archives/95517",
+    "pass": 3
+   },
+   {
+    "quote": "：私はボストンに住んでいますが、私が生まれる前から日本には素晴らしいランナーがたくさんいました",
+    "url": "https://mg.runtrip.jp/archives/95517",
+    "pass": 3
+   },
+   {
+    "quote": "ランニングにおいても歴史のある日本に来ることができ、そして日本でTopo Athleticのシューズを展開できることは非常に光栄です",
+    "url": "https://mg.runtrip.jp/archives/95517",
+    "pass": 3
+   },
+   {
+    "quote": "：Topo Athleticは日本人と相性の良いブランドだと思います",
+    "url": "https://mg.runtrip.jp/archives/95517",
+    "pass": 3
+   },
+   {
+    "quote": "日本の方は自然な動きや履き心地を好むランナーが多いでしょう",
+    "url": "https://mg.runtrip.jp/archives/95517",
+    "pass": 3
+   },
+   {
+    "quote": "ナチュラルであり、モダンなシューズスタイルは、日本人ランナーからも支持していただけると感じます",
+    "url": "https://mg.runtrip.jp/archives/95517",
+    "pass": 3
+   },
+   {
+    "quote": "日本の街中でTopo Athleticのシューズを見かけるシーンがどんどんと増えていきそうです",
+    "url": "https://mg.runtrip.jp/archives/95517",
+    "pass": 3
+   },
+   {
+    "quote": "当時ランニング業界を席巻したベアフットランニングの仕掛け人が、2013年に新たに立ち上げたランニングシューズブランド「topo athletic（トポ アスレティック）」が、まもなく日本に本格上陸",
+    "url": "https://web.goout.jp/fashion/130985/",
+    "pass": 3
+   },
+   {
+    "quote": "氏の35年以上にも渡るシューズ開発・製造のノウハウを注ぎ込んだそのラインナップは、日本では2020年2月前後に登場予定だが、本国アメリカではすでに大手アウトドアショップREIをはじめ、500以上のプレミアムショップで展開中とのこと",
+    "url": "https://web.goout.jp/fashion/130985/",
+    "pass": 3
+   },
+   {
+    "quote": "ここ日本でも完全ブレイクする前に、まずは1足試してみては？",
+    "url": "https://web.goout.jp/fashion/130985/",
+    "pass": 3
+   },
+   {
+    "quote": "Geography of Japan - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Oceanography and seabed of Japan",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle Sea of Japan subsection",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Largest islands of Japan",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle Largest islands of Japan subsection",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ". The other 14,120 islands are classified as \"remote islands\" by the Japanese government.",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan is located in the northwestern",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ". The subduction plates have pulled the Japanese archipelago eastward, created the",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan extends from 20° to 45° north latitude (",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan is surrounded by seas. To the north, the",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "; to the west, the Sea of Japan separates it from the",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese archipelago with outlined islands",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The Japanese archipelago is over",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "It is narrow, and no point in Japan is more than",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "are administered by Japan but disputed by China. This excludes the disputed",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ". In total, as of 2021, Japan's territory is",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Because of Japan's many far-flung outlying islands and long coastline, the country has extensive",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "in the ocean. The Exclusive Economic Zone of Japan covers",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan has a population of 123 million as of 2025.",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "81% of the population lives on Honshu, 10% on Kyushu, 4.1% on Hokkaido, 2.8% on Shikoku, 1.2% in Okinawa Prefecture, and 0.7% on other Japanese islands such as the Nanpō Islands.",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Regions and prefectures of Japan",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan is formally divided into eight regions, from northeast (Hokkaidō) to southwest (Ryukyu Islands):",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The regions are not official administrative units but have been traditionally used as the regional division of Japan in a number of contexts. For example, maps and geography textbooks divide Japan into the eight regions; weather reports usually give the weather by region; and many businesses and institutions use their home region as part of their name (",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", etc.). While Japan has eight High Courts, their jurisdictions do not correspond with the eight regions.",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "A topographic map of Japan",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Topo | Gaia GPS",
+    "url": "https://www.gaiagps.com/maps/source/japantopo/",
+    "pass": 3
+   },
+   {
+    "quote": "A 1:25,000 topographic base map of Japan published by the Geographical Survey Institute. Labeled cultural and historic sites, terrain features, hot springs, ski resorts, and hiking trails make this highly detailed base map ideal for any adventure.",
+    "url": "https://www.gaiagps.com/maps/source/japantopo/",
+    "pass": 3
+   },
+   {
+    "quote": "Topographic map of Japan on your iPhone, Android phone and Apple Watch",
+    "url": "https://www.topo-gps.com/ja/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%BD%A2%E5%9B%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "Topographic map of Japan",
+    "url": "https://www.topo-gps.com/ja/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%BD%A2%E5%9B%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "Topo GPS has topographic maps of Japan from the Geospatial Information Authority of Japan (GSI). From the Japan Alps to the ancient trails of the Kii Peninsula, Japan offers world-class mountain hiking.",
+    "url": "https://www.topo-gps.com/ja/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%BD%A2%E5%9B%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "Official GSI topographic map of Japan at 1:25,000 scale.",
+    "url": "https://www.topo-gps.com/ja/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%BD%A2%E5%9B%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "High-resolution aerial imagery of Japan from GSI.",
+    "url": "https://www.topo-gps.com/ja/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%BD%A2%E5%9B%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "Where to hike in Japan",
+    "url": "https://www.topo-gps.com/ja/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%BD%A2%E5%9B%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan offers the Japan Alps crossings, Mount Fuji ascent trails, the Kumano Kodo pilgrimage and forest ridge trails on Hokkaido.",
+    "url": "https://www.topo-gps.com/ja/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%BD%A2%E5%9B%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s iconic peak at 3,776 m — four trails lead to the crater rim with sunrise views.",
+    "url": "https://www.topo-gps.com/ja/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%BD%A2%E5%9B%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "The Daisetsuzan volcano plateau — Japan’s largest national park and highest peaks.",
+    "url": "https://www.topo-gps.com/ja/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%BD%A2%E5%9B%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s largest high-altitude marshland with boardwalk trails through wetlands and beeches.",
+    "url": "https://www.topo-gps.com/ja/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%BD%A2%E5%9B%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "そんな最中、日本橋のRun Boys Run Girlsを訪れた際にTOPO VISTAに出会った",
+    "url": "https://note.com/weekdaygtr/n/n2fc72e4bf901",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Topo Athletic オフィシャルサイト｜スポーツシューズ — スポーツシューズブランド「Topo Athletic/トポアスレティック」オフィシャルサイトです。ランニングシーンだけではなく、ジムやフィットネスなど、“快適さ”を求めるビギナーからアスリートまで支持される最も自然に走れる高機能シューズです。ご購入は当サイトからどうぞ。",
+    "url": "https://www.topoathletic.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Topo GPS – Topographic maps GPS for iPhone, Android, iPad and ... — さらにAndroidスマートフォンとタブレットでも利用できます iOS / MacOS Topo GPS は、iPhone、iPad、Apple Watch、Apple Mac で動作します。 ルートとポイントは、iCloud を介してすべてのデバイス間で自動的に共有できます。 地図の購入はすべてのデバイスで利用できます。",
+    "url": "https://www.topo-gps.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "「Topo Athleticは日本人と相性の良いブランド」 創業者トニー・ポス... — Feb 19, 2025 · ボストンマラソンで優勝したランナーもいるでしょう。 ランニングにおいても歴史のある日本に来ることができ、そして日本でTopo Athleticのシューズを展開できることは非常に光栄です。 トニー：Topo Athleticは日本人と相性の良いブランドだと思います。",
+    "url": "https://mg.runtrip.jp/archives/95517",
+    "pass": 3
+   },
+   {
+    "quote": "米スニーカー業界の権威による、気鋭のシューズブランド「topo at... — Jan 1, 2020 · 当時ランニング業界を席巻したベアフットランニングの仕掛け人が、2013年に新たに立ち上げたランニングシューズブランド「topo athletic（トポ アスレティック）」が、まもなく日本に本格上陸。",
+    "url": "https://web.goout.jp/fashion/130985/",
+    "pass": 3
+   },
+   {
+    "quote": "【ベアフットシューズ】Topo Athletic®より、素足感覚を追求した新モ... — Mar 24, 2026 · アルコ株式会社のプレスリリース（2026年3月24日 09時30分）【ベアフットシューズ】Topo Athletic®より、素足感覚を追求した新モデル「CONNECT」が3月25 ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000379.000055351.html",
+    "pass": 3
+   },
+   {
+    "quote": "Geography of Japan - Wikipedia — A topographic map of Japan About 73% of Japan is mountainous, [22] with a mountain range running through each of the main islands. Japan's highest mountain is Mount Fuji, with an elevation of 3,776 m (12,388 ft). Japan's forest cover rate is 68.55% since the mountains are heavily forested. The only other developed nations with such a high forest cover percentage ar",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Topo - Gaia GPS — View Japan Topo on your desktop, tablet, or phone offline with Gaia GPS.",
+    "url": "https://www.gaiagps.com/maps/source/japantopo/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の地形図 – Topo GPS — Topographic map of Japan Topo GPS has topographic maps of Japan from the Geospatial Information Authority of Japan (GSI). From the Japan Alps to the ancient trails of the Kii Peninsula, Japan offers world-class mountain hiking.",
+    "url": "https://www.topo-gps.com/ja/日本の地形図/",
+    "pass": 3
+   },
+   {
+    "quote": "test GLOBAL PRODUCT QUALITY ASSURANCE - Topo — Operating across key manufacturing hubs in Asia, Europe, and North Africa, test GPQA helps brands improve product quality, mitigate supply chain risks, and drive greater operational transparency through a tailored, customer-focused approach. \"Topo has changed the way we communicate quality results to our customers.",
+    "url": "https://topo.cc/case-studies/test-global-product-quality-assurance",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - topo.cc — Case Studies Real Problems, Smarter Solutions Discover our newest case studies showcasing real-world success stories and insights.",
+    "url": "https://topo.cc/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Simba Dickie Group - cdn.prod.website-files.com — The Objective: Optimizing Quality Control in Global Toy Manufacturing This case study highlights the transformative journey of Simba Dickie Group (SDG) as they sought to over-come challenges in their quality control processes. Before Topo, SDG used excel sheets to manage their quality control processes across their extensive global netw",
+    "url": "https://cdn.prod.website-files.com/67fadd3f62a4c31896753daa/69ddf6384d37ebc5bdba4154_Topo+Case+Study_Quality+Management_Simba+Dickie.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: test GPQA — The transition to Topo empowered test GPQA to replace manual, spreadsheet-driven processes with a centralized, digital system that strengthens supplier relationships, builds customer trust, and creates a scalable foundation for continued global growth. Case Study: test GPQA",
+    "url": "https://cdn.prod.website-files.com/67fadd3f62a4c31896753daa/6a9e2dd948aca47bbd89799c_Topo+Case+Study_Quality+Management_testGPQA.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Topo Chico - Customer Case Study — Topo Chico partnered with Interbrand (Public Company) to solve key challenges. \"Topo Chico - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/interbrand/case-study/topo-chico-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Topo Designs – Financials, Industry Trends & Funding Info – 2026 — Discover Topo Designs's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/topo-designs",
+    "pass": 3
+   },
+   {
+    "quote": "Topo Designs 2026 Company Profile: Valuation, Funding ...Topo 2026 Company Profile: Valuation, Funding & Investors ...TOPO Designs - Overview, News & Similar companies - ZoomInfoTopo Designs - 2026 Company Profile, Team, Funding ... - TracxnTopo Designs - 2025 Company Profile, Team, Funding ... - TracxnTopo Designs - 2026 Company Profile, Funding - The Company Check — Information on valuation, fun",
+    "url": "https://pitchbook.com/profiles/company/231875-47",
+    "pass": 3
+   },
+   {
+    "quote": "Topo 2026 Company Profile: Valuation, Funding & Investors ...TOPO Designs - Overview, News & Similar companies - ZoomInfoTopo Designs - 2026 Company Profile, Team, Funding ... - TracxnTopo Designs - 2025 Company Profile, Team, Funding ... - TracxnTopo Designs - 2026 Company Profile, Funding - The Company Check — Topo is a Private company. What is Topo’s current revenue? The current revenue for Top",
+    "url": "https://pitchbook.com/profiles/company/521315-38",
+    "pass": 3
+   },
+   {
+    "quote": "TOPO Designs - Overview, News & Similar companies - ZoomInfo — View TOPO Designs (www.topodesigns.com) location in Colorado, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/topo-designs-llc/355674133",
+    "pass": 3
+   },
+   {
+    "quote": "Topo Designs - 2026 Company Profile, Team, Funding ... - Tracxn — Mar 14, 2026 · Topo Designs is a seed company based in Denver (United States), founded in 2008 by Jedd Rose. It operates as an Internet first brand of casual and apparel for men and women. Topo Designs has raised an undisclosed amount in funding from The Gart Companies. The company has 2474 active competitors, including 110 funded a",
+    "url": "https://tracxn.com/d/companies/topodesigns/__wdsJX6uDZuOOGr82GSeXsWYoOEIyc9tn2XNC-n-nwKs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ゼロドロップでも安定！Topo Athletic徹底ガイド──Altraとの違い・選... Apr 28, 2025 · この記事でわかる3つのこと： Topo Athleticのルーツとコンセプト Altraとの違いと比較ポイント 失敗しないTopoデビューのコツ この記事では、Topoのルーツとアルトラとの違い、 そして、なぜ「最初の一足」にTopoが向いているのかを解説します。",
+    "url": "https://note.com/kobakutsu/n/n159025d9d7f4",
+    "pass": 3
+   },
+   {
+    "quote": "山下Topo洋平 │ ケーナ奏者｜note 山下Topo洋平 │ ケーナ奏者 音楽家。 ケーナという南米の竹笛を演奏しています これまでの経験、裏話、日常、考えていることなど。 ︎リーダーアルバム12枚、DVD2枚、他参加多数 東京在住。 全国ツアー、南米ツアー、NY公演など。",
+    "url": "https://note.com/topoyohei",
+    "pass": 3
+   },
+   {
+    "quote": "【商品レビュー】TOPO VISTA/激坂と泥濘が証明した万能シューズ Sep 4, 2026 · さて、TOPOである。 以前Timp5を履いたあとにTOPOのPURSUITを履く機会があり、その時には既にこのメーカーを次の候補に入れていた。 なんといっても、 前足部の適度なゆとり と、 土踏まずから踵にかけてのフィット感 が素晴らしかったのだ。",
+    "url": "https://note.com/weekdaygtr/n/n2fc72e4bf901",
+    "pass": 3
+   },
+   {
+    "quote": "太鼓を叩こう！ボンボレクチャー！番組一覧｜山下Topo洋平 │ ケーナ奏... Jan 14, 2024 · こんにちは。山下Topo洋平（@topoyohei）です。 山下Topo洋平YouTubeチャンネルのメンバーシップおよび配信プラットフォーム「シラス」のチャンネル「山下Topo洋平のHappy New Moment」で、南米アンデスの太鼓ボンボのレクチャー番組も開始しました。 リズムの歴史的背景や身体の感じ方、基本的な ...",
+    "url": "https://note.com/topoyohei/n/n57561f3fe273",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ゼロドロップでも安定！Topo Athletic徹底ガイド──Altraとの違い・選び方・デビュー4STEP｜こば 足トラブルを減らす靴の話",
+    "url": "https://note.com/kobakutsu/n/n159025d9d7f4",
+    "pass": 3
+   },
+   {
+    "quote": "ゼロドロップでも安定！Topo Athletic徹底ガイド──Altraとの違い・選び方・デビュー4STEP",
+    "url": "https://note.com/kobakutsu/n/n159025d9d7f4",
+    "pass": 3
+   },
+   {
+    "quote": "義肢装具士免許をもって本を数冊だして10年以上靴屋をやっています。",
+    "url": "https://note.com/kobakutsu/n/n159025d9d7f4",
+    "pass": 3
+   },
+   {
+    "quote": "※「当サイトではアフィリエイトプログラムを利用して商品を紹介しています。」",
+    "url": "https://note.com/kobakutsu/n/n159025d9d7f4",
+    "pass": 3
+   },
+   {
+    "quote": "流行りのゼロドロップ系シューズに挑戦してみたいけれど、不安なんですよね？",
+    "url": "https://note.com/kobakutsu/n/n159025d9d7f4",
+    "pass": 3
+   },
+   {
+    "quote": "ゼロドロップに興味はあるけど、しっかり足元を支えたい",
+    "url": "https://note.com/kobakutsu/n/n159025d9d7f4",
+    "pass": 3
+   },
+   {
+    "quote": "指先は広げたいけど、かかとはしっかり支えたい",
+    "url": "https://note.com/kobakutsu/n/n159025d9d7f4",
+    "pass": 3
+   },
+   {
+    "quote": "そんな迷いを持っている方にぴったりなブランドがあります。",
+    "url": "https://note.com/kobakutsu/n/n159025d9d7f4",
+    "pass": 3
+   },
+   {
+    "quote": "山下Topo洋平 │ ケーナ奏者｜note",
+    "url": "https://note.com/topoyohei",
+    "pass": 3
+   },
+   {
+    "quote": "はじめまして。ケーナ奏者の山下Topo洋平です。",
+    "url": "https://note.com/topoyohei",
+    "pass": 3
+   },
+   {
+    "quote": "初詣の願い事が叶う日――Alasと歩いた10年",
+    "url": "https://note.com/topoyohei",
+    "pass": 3
+   },
+   {
+    "quote": "南米の弦楽器を弾こう！チャランゴ基礎講座！番組一覧",
+    "url": "https://note.com/topoyohei",
+    "pass": 3
+   },
+   {
+    "quote": "曲を演奏しよう！南米フォルクローレ楽曲レクチャー！番組一覧",
+    "url": "https://note.com/topoyohei",
+    "pass": 3
+   },
+   {
+    "quote": "スペイン語で歌ってみよう！フォルクローレ歌レクチャー！番組一覧",
+    "url": "https://note.com/topoyohei",
+    "pass": 3
+   },
+   {
+    "quote": "【商品レビュー】TOPO VISTA/激坂と泥濘が証明した万能シューズ｜ヘイジツタマランナー",
+    "url": "https://note.com/weekdaygtr/n/n2fc72e4bf901",
+    "pass": 3
+   },
+   {
+    "quote": "【商品レビュー】TOPO VISTA/激坂と泥濘が証明した万能シューズ",
+    "url": "https://note.com/weekdaygtr/n/n2fc72e4bf901",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、新たに購入したトレイルランニングシューズ、",
+    "url": "https://note.com/weekdaygtr/n/n2fc72e4bf901",
+    "pass": 3
+   },
+   {
+    "quote": "salomonやHOKAのシューズは多くの人が履いているし、レビューも巷に溢れている。一方、TOPOは使用ユーザーが少ない上、特にVISTAはMTN RACERやULTRAVENTUREなどの他のモデルに隠れがち。",
+    "url": "https://note.com/weekdaygtr/n/n2fc72e4bf901",
+    "pass": 3
+   },
+   {
+    "quote": "これまで、複数のトレイルシューズを履いて来て、おおよそ2 年に1回周期で買い替えている。今回も2024年に買ったALTRA TIMP5がいよいよボロボロになってきた。アッパーの接着は剥がれ、ソールはすり減ってラグは消えている。ロードにトレイルに、総走行距離は600kmを超えている。むしろ、これまでよく耐えてくれた。",
+    "url": "https://note.com/weekdaygtr/n/n2fc72e4bf901",
+    "pass": 3
+   },
+   {
+    "quote": "ときは2026年5月、翌月に「Hinohara Mountain Marathon 翠夏巡嶺」を控え、",
+    "url": "https://note.com/weekdaygtr/n/n2fc72e4bf901",
+    "pass": 3
+   },
+   {
+    "quote": "そんな最中、日本橋のRun Boys Run Girlsを訪れた際にTOPO VISTAに出会った。",
+    "url": "https://note.com/weekdaygtr/n/n2fc72e4bf901",
+    "pass": 3
+   },
+   {
+    "quote": "まずSpeedgoat7については、性能と質感、デザイン共に申し分なかった。だがレギュラーモデルは幅が狭く、逆にワイドモデルにすると幅が広すぎてしまい、",
+    "url": "https://note.com/weekdaygtr/n/n2fc72e4bf901",
+    "pass": 3
+   },
+   {
+    "quote": "太鼓を叩こう！ボンボレクチャー！番組一覧｜山下Topo洋平 │ ケーナ奏者",
+    "url": "https://note.com/topoyohei/n/n57561f3fe273",
+    "pass": 3
+   },
+   {
+    "quote": "山下Topo洋平YouTubeチャンネルの",
+    "url": "https://note.com/topoyohei/n/n57561f3fe273",
+    "pass": 3
+   },
+   {
+    "quote": "および配信プラットフォーム「シラス」のチャンネル「",
+    "url": "https://note.com/topoyohei/n/n57561f3fe273",
+    "pass": 3
+   },
+   {
+    "quote": "山下Topo洋平のHappy New Moment",
+    "url": "https://note.com/topoyohei/n/n57561f3fe273",
+    "pass": 3
+   },
+   {
+    "quote": "」で、南米アンデスの太鼓ボンボのレクチャー番組も開始しました。",
+    "url": "https://note.com/topoyohei/n/n57561f3fe273",
+    "pass": 3
+   },
+   {
+    "quote": "リズムの歴史的背景や身体の感じ方、基本的なリズムパターンの解説は簡単な練習曲を使いながらリズム解説番組",
+    "url": "https://note.com/topoyohei/n/n57561f3fe273",
+    "pass": 3
+   },
+   {
+    "quote": "で実践しています。こちらは太鼓に特化した内容になっています。",
+    "url": "https://note.com/topoyohei/n/n57561f3fe273",
+    "pass": 3
+   },
+   {
+    "quote": "です。ドラムセットのフロアタムなどでも大丈夫ですし、カホンなどでも応用できます。これを見れば初心者からでもフォルクローレのリズムが叩けるようになります。",
+    "url": "https://note.com/topoyohei/n/n57561f3fe273",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Topo Designs (@TopoDesignsUSA) / X The Topo Designs Summer Sale is here! Save up to 50% on packs, bags, apparel, and accessories. Don’t wait — just like summer nights, these deals won’t last forever: fal.cn/3qfpj",
+    "url": "https://x.com/TopoDesignsUSA",
+    "pass": 3
+   },
+   {
+    "quote": "Topo (@Topo_G) / X Follow PostsPosts RepliesReplies RepostsReposts MediaMedia ArticlesArticles Topo @Topo_G 1m",
+    "url": "https://x.com/topo_g",
+    "pass": 3
+   },
+   {
+    "quote": "TOPO (@topo_fun) / X TOPO hardcodes tax routing into four distinct execution buckets: → Creator Treasury → Token Burn → Holder Redistribution → Auto-Liquidity Transparent tax mechanics for BNB Chain.",
+    "url": "https://x.com/topo_fun",
+    "pass": 3
+   },
+   {
+    "quote": "TOPO Rodríguez (@TOPOarg) / X Mention Follow PostsPosts RepliesReplies RepostsReposts MediaMedia TOPO Rodríguez @TOPOarg 15h",
+    "url": "https://x.com/TOPOarg",
+    "pass": 3
+   },
+   {
+    "quote": "Topo - 街の投稿ストリーム on X: \"@tokio_entame TOKIO TOKYOに続い... Sep 28, 2026 · 渋谷でTOKIO TOKYOをやる中で、もっと国内外のアーティストや音楽ファンにアクセスできる 「日本を代表する、日本らしいライブハウス」を作りたいと思っていました。 Show more Made with AI 15 338 1.6K 151K Topo - 街の投稿ストリーム @TopoCard Show translation",
+    "url": "https://x.com/TopoCard/status/2104487363842122018",
+    "pass": 3
+   },
+   {
+    "quote": "topo on X: \"\\ コメント大募集 ／ 本日19:00から生配信！ #僕が見たか... Jun 30, 2026 · \\💙コメント大募集💙／ 本日19:00から生配信！ #僕が見たかった青空 #金澤亜美 さん #八重樫美伊咲 さんへの 質問や応援メッセージを大募集 💬この投稿にリプライでお寄せください！ 配信中にご紹介させていただくかも…👀 皆さんのコメント、お待ちしています‼️ #僕青 #topo",
+    "url": "https://x.com/topo_tohoku/status/2071765953193665007",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Topo Athletic LLC - LinkedIn Topo Athletic LLC | 3,546 followers on LinkedIn. Performance footwear designed to help you stride for more. | We build shoes to help you move better. The Topo Difference delivers a distinct fit ...",
+    "url": "https://www.linkedin.com/company/topo-athletic-llc",
+    "pass": 3
+   },
+   {
+    "quote": "Topo (YC W24) - LinkedIn Topo is an outbound platform that replaces the patchwork of prospecting, enrichment, signal, and sequencing tools sales teams stitch together today. It runs the full outbound motion in one place ...",
+    "url": "https://www.linkedin.com/company/topo-sales",
+    "pass": 3
+   },
+   {
+    "quote": "TOPO | LinkedIn TOPO | 364 seguidores no LinkedIn. Soluções Personalizadas. | A gente sempre gostou de olhar para o horizonte, pensar no futuro, mas sempre tivemos uma certeza: não queremos chegar ao topo sozinhos. A Topo é uma indústria preparada para ajudar a sua indústria a reduzir custos, automatizar processos, aumentar a produtividade e modernizar toda a operação. Indústrias alimentícias, do ",
+    "url": "https://br.linkedin.com/company/topo-industrial-ind",
+    "pass": 3
+   },
+   {
+    "quote": "Dan Elkaïm - Topo (YC W24) | LinkedInTerry Clark - Principal Engineer and Director at Topo | LinkedInFady B. - Founding GTM Lead | Topo (YC24) | Angel Investor ...Jack Mutton - Director at Topo Architects | LinkedIn We make outbound sales simple with an AI agent that handles prospecting tasks alongside… · Expérience : Topo (YC W24) · Formation : Y Combinator · Lieu : Paris et périphérie · 500 rela",
+    "url": "https://fr.linkedin.com/in/danelkaim",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "TOPO - FacebookTopo Athletic - FacebookTopo | Gilbert AZ - FacebookTOPO Restaurant | Hackettstown NJ - FacebookTOPO - FacebookTopo Designs Taiwan | Sinyi District, Taipei - FacebookTopo Athletic HK | Hong Kong Hong Kong - Facebook 5 days ago · Enhorabuena, y merecido reconocimiento a TOPO , por parte de AIE , tras toda una vida haciendonos felices con su música , formando parte de la banda sonora ",
+    "url": "https://www.facebook.com/TopoOficial/",
+    "pass": 3
+   },
+   {
+    "quote": "Topo Athletic - FacebookTopo | Gilbert AZ - FacebookTOPO Restaurant | Hackettstown NJ - FacebookTOPO - FacebookTopo Designs Taiwan | Sinyi District, Taipei - FacebookTopo Athletic HK | Hong Kong Hong Kong - Facebook Oct 19, 2026 · Topo Athletic. 33,781 followers · 382 talking about this. We believe the journey deﬁnes us more than the destination—that greatness is found in the effort, not just the ",
+    "url": "https://www.facebook.com/TopoAthletic/",
+    "pass": 3
+   },
+   {
+    "quote": "Topo | Gilbert AZ - FacebookTOPO Restaurant | Hackettstown NJ - FacebookTOPO - FacebookTopo Designs Taiwan | Sinyi District, Taipei - FacebookTopo Athletic HK | Hong Kong Hong Kong - Facebook Sep 30, 2026 · Topo, Gilbert. 2,069 followers · 10 talking about this · 3,167 were here. Iconic roadside architecture in the spirit of the great American road trip. Serving quick, delicious, on the go food. S",
+    "url": "https://www.facebook.com/topoarizona/",
+    "pass": 3
+   },
+   {
+    "quote": "TOPO Restaurant | Hackettstown NJ - FacebookTOPO - FacebookTopo Designs Taiwan | Sinyi District, Taipei - FacebookTopo Athletic HK | Hong Kong Hong Kong - Facebook Sep 23, 2026 · TOPO Restaurant, Hackettstown. 1,974 followers · 3,621 were here. Serving Vietnamese Cuisine , bubble tea Oct 22, 2026 · TOPO. 7,947 followers · 62 talking about this. L'actu dessinée pour les moins de 20 ans. Tous les 2 ",
+    "url": "https://www.facebook.com/toporestaurant/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.topo.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topo.io/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topo.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topo.io/customers/diana-hr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topo.io/customers/when-your-domain-gets-blacklisted-by-your-own-ideal-customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topo.io/customers/how-sifflet-booked-nike-walmart-and-bose-with-smarter-outbound",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topo.io/customers/certif-ia",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topo.io/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.topoathletic.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topo-gps.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mg.runtrip.jp/archives/95517",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.goout.jp/fashion/130985/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topoathletic.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/TOP_JAPAN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gaiagps.com/maps/source/japantopo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topo-gps.com/ja/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%BD%A2%E5%9B%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topo.cc/case-studies/test-global-product-quality-assurance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topo.cc/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/67fadd3f62a4c31896753daa/69ddf6384d37ebc5bdba4154_Topo+Case+Study_Quality+Management_Simba+Dickie.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/67fadd3f62a4c31896753daa/6a9e2dd948aca47bbd89799c_Topo+Case+Study_Quality+Management_testGPQA.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/topo-designs",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/231875-47",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/521315-38",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/topo-designs-llc/355674133",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kobakutsu/n/n159025d9d7f4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/topoyohei",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/weekdaygtr/n/n2fc72e4bf901",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/topoyohei/n/n57561f3fe273",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TopoDesignsUSA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/topo_g",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/topo_fun",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TOPOarg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/topo-athletic-llc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/topo-sales",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://br.linkedin.com/company/topo-industrial-ind",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/in/danelkaim",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TopoOficial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TopoAthletic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/topoarizona/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/toporestaurant/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TopoCard/status/2104487363842122018",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/topo_tohoku/status/2071765953193665007",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Topo 日本 導入",
+   "results": [
+    "https://www.topoathletic.jp/",
+    "https://www.topo-gps.com/ja/",
+    "https://mg.runtrip.jp/archives/95517",
+    "https://web.goout.jp/fashion/130985/",
+    "https://prtimes.jp/main/html/rd/p/000000379.000055351.html",
+    "https://x.com/i/trending/2027806585461084448",
+    "https://syatyou.jp/fiat/fiat-topolino-us-vs-japan-regulations/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Topo 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.topoathletic.jp/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://industrial.filtrationgroup.com/ja/联系我们/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Topo Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/TOP_JAPAN",
+    "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "https://www.gaiagps.com/maps/source/japantopo/",
+    "https://www.topo-gps.com/ja/日本の地形図/",
+    "https://www.topoathletic.jp/",
+    "https://geospatial.com/country_profiles/japan/",
+    "https://www.topomania.net/mapinfo/Japan",
+    "https://www.gsi.go.jp/ENGLISH/kihonjyoho-e31002.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Topo manufacturing customer case study",
+   "results": [
+    "https://topo.cc/case-studies/test-global-product-quality-assurance",
+    "https://topo.cc/case-studies",
+    "https://cdn.prod.website-files.com/67fadd3f62a4c31896753daa/69ddf6384d37ebc5bdba4154_Topo+Case+Study_Quality+Management_Simba+Dickie.pdf",
+    "https://cdn.prod.website-files.com/67fadd3f62a4c31896753daa/6a9e2dd948aca47bbd89799c_Topo+Case+Study_Quality+Management_testGPQA.pdf",
+    "https://www.casestudies.com/company/interbrand/case-study/topo-chico-customer-case-study",
+    "https://www.featuredcustomers.com/vendor/topo/case-studies",
+    "https://www.topo.io/customers"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Topo white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.seoreseller.com/",
+    "https://partner.vw.com/partner",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.nmi.com/blog/understanding-the-reseller-model-a-complete-guide-for-payments-companies/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Topo founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/topo-designs",
+    "https://pitchbook.com/profiles/company/231875-47",
+    "https://pitchbook.com/profiles/company/521315-38",
+    "https://www.zoominfo.com/c/topo-designs-llc/355674133",
+    "https://tracxn.com/d/companies/topodesigns/__wdsJX6uDZuOOGr82GSeXsWYoOEIyc9tn2XNC-n-nwKs",
+    "https://tracxn.com/d/companies/topo-designs/__wdsJX6uDZuOOGr82GSeXsWYoOEIyc9tn2XNC-n-nwKs",
+    "https://www.thecompanycheck.com/company/b/topo-designs/2wrqfub25ybr86u5f"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Topo",
+   "results": [
+    "https://note.com/kobakutsu/n/n159025d9d7f4",
+    "https://note.com/topoyohei",
+    "https://note.com/weekdaygtr/n/n2fc72e4bf901",
+    "https://note.com/topoyohei/n/n57561f3fe273",
+    "https://note.com/topoyohei/n/n9bf23be8e5c4",
+    "https://note.com/elpocho/n/nbc79b725b1e6",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Topo",
+   "results": [
+    "https://x.com/TopoDesignsUSA",
+    "https://x.com/topo_g",
+    "https://x.com/topo_fun",
+    "https://x.com/TOPOarg",
+    "https://x.com/hashtag/topo",
+    "https://x.com/Topo_G/status/2120181212660810146",
+    "https://help.x.com/pt/using-x/x-lists"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Topo",
+   "results": [
+    "https://www.linkedin.com/company/topo-athletic-llc",
+    "https://www.linkedin.com/company/topo-sales",
+    "https://br.linkedin.com/company/topo-industrial-ind",
+    "https://fr.linkedin.com/in/danelkaim",
+    "https://au.linkedin.com/in/terry-clark-898a7a29",
+    "https://fr.linkedin.com/in/fadyb/fr",
+    "https://uk.linkedin.com/in/jack-mutton-44236720"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Topo",
+   "results": [
+    "https://www.facebook.com/TopoOficial/",
+    "https://www.facebook.com/TopoAthletic/",
+    "https://www.facebook.com/topoarizona/",
+    "https://www.facebook.com/toporestaurant/",
+    "https://www.facebook.com/toporevue/",
+    "https://www.facebook.com/topodesignstaiwan/",
+    "https://www.facebook.com/TopoAthleticHongKong/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Topo note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://www.msn.com/ja-jp/money/top-stocks/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Topo X 投稿",
+   "results": [
+    "https://x.com/TopoCard/status/2104487363842122018",
+    "https://x.com/topo_tohoku/status/2071765953193665007",
+    "https://topo.st/jp/pressrelease/2026-04-24/",
+    "https://prtimes.jp/main/html/rd/p/000000002.000182191.html",
+    "https://topo.st/jp/support/cards/what-happens-after-posting/",
+    "https://shuno26-blog.com/twtr-pstpcsp/",
+    "http://lifestyle.assist-all.co.jp/x-post-guide-operation-media-tag/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部42頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部42頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部42頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部42頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部42頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部42頁・検索12回）"
+ }
+}

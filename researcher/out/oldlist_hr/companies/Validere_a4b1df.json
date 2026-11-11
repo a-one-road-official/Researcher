@@ -1,0 +1,1102 @@
+{
+ "name": "Validere",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-11T06:29:32.439179+00:00",
+ "official_url": "http://validere.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://startupintros.com/orgs/validere",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Toronto, Canada",
+    "url": "https://startupintros.com/orgs/validere",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "10. Seed Round",
+    "value": "31-Oct-2018    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/156927-79",
+    "pass": 3
+   },
+   {
+    "label": "8. Seed Round",
+    "value": "07-Sep-2016    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/156927-79",
+    "pass": 3
+   },
+   {
+    "label": "6. Seed Round",
+    "value": "11-Apr-2016 $1M $1M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/156927-79",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "You’re previewing our new site homepage",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise asset management (EAM)",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Replace fragmented spreadsheets, legacy software, and consultant-dependent workflows with one connected platform.",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Missing production, timestamps, and incomplete evidence.",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your environmental programs should too.",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Environmental teams are managing increasingly complex programs through manual work, disconnected systems, and third-party consultants. The result is slower execution, broken handoffs, higher costs, operational disruption, and greater business risk.",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every part of a modern environmental program.",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect investigations, approvals, field activities, and reporting across teams and systems.",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every environmental decision starts with understanding what happened. Validere connects field activity, investigations, approvals, and reporting into one traceable workflow so teams can see what changed, understand why, and support every decision with evidence.",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Live workflow progression",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate repetitive work and connect data, reviews, approvals, and reporting so environmental teams can accomplish more with less manual coordination.",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve internal efficiency",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate repetitive work and connect data, reviews, approvals, and reporting so environmental teams can accomplish more without adding manual coordination.",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give internal teams the workflows, data, and tools to own more of their environmental programs without sacrificing regulatory rigor.",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Preserve regulatory rigor, auditability, and evidence while modernizing how environmental work gets done.",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Validere integrates AI into environmental workflows to help teams surface issues sooner, investigate faster, and reduce repetitive work while keeping people in control of review and approval.",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore our approach to AI",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Validere integrates with the ERP, EHS, production systems, monitoring",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven in complex industrial environments.",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Leading operators use Validere to improve reporting, compliance, and investigations without replacing every system they already rely on.",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Working with the team significantly reduced our time to results each month and our spend on external consultants. What used to take three days of manual spreadsheet work is now done in 15 minutes. Most importantly, it gave us confidence in our numbers when it came to year-end reporting for NPRI, GHG, and Directive 060.",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ENTERPRISE READY BY DESIGN",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Independent validation of security controls and operational practices.",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Track actions, approvals, and workflow history across the platform.",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Validere connects the environmental work that often sits across spreadsheets, legacy software, disconnected systems, and outside consultants. It brings data, workflows, reporting, and AI together so teams can automate routine work, investigate issues faster, and make decisions with the evidence behind them.",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You’re previewing our new site homepage",
+    "url": "https://www.validere.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise asset management (EAM)",
+    "url": "https://www.validere.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We provide organizations with clarity into their physical and environmental commodities, through technology and expert guidance that helps them trust their data, zoom in on important insights, and action them with ease.",
+    "url": "https://www.validere.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our team of experts in data science, physical science, engineering, and change management are committed to better human prosperity by making the energy supply chain efficient and sustainable.",
+    "url": "https://www.validere.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Validere is the enterprise intelligence platform for the energy industry",
+    "url": "https://www.validere.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Data Processing Addendum",
+    "url": "https://www.validere.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "You’re previewing our new site homepage",
+    "url": "https://www.validere.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise asset management (EAM)",
+    "url": "https://www.validere.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Lynx Automated Monthly Emissions Bookkeeping and Cut Process Time from 3 Days to 15 Minutes",
+    "url": "https://www.validere.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Validere is the enterprise intelligence platform for the energy industry",
+    "url": "https://www.validere.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Data Processing Addendum",
+    "url": "https://www.validere.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "You’re previewing our new site homepage",
+    "url": "https://www.validere.com/customers/north-american-midstream-operator",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise asset management (EAM)",
+    "url": "https://www.validere.com/customers/north-american-midstream-operator",
+    "pass": 1
+   },
+   {
+    "quote": "Years of acquisitions left the operator with fragmented systems, spreadsheets, and manual workflows. Volumetric reporting was spread across multiple tools, which created duplicated work and inconsistent data.",
+    "url": "https://www.validere.com/customers/north-american-midstream-operator",
+    "pass": 1
+   },
+   {
+    "quote": "Validere is the enterprise intelligence platform for the energy industry",
+    "url": "https://www.validere.com/customers/north-american-midstream-operator",
+    "pass": 1
+   },
+   {
+    "quote": "Data Processing Addendum",
+    "url": "https://www.validere.com/customers/north-american-midstream-operator",
+    "pass": 1
+   },
+   {
+    "quote": "Security & Data Protection | Validere",
+    "url": "https://www.validere.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "You’re previewing our new site homepage",
+    "url": "https://www.validere.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise asset management (EAM)",
+    "url": "https://www.validere.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "Validere is committed to the security and privacy of your data. Our approach to building security into product development and operations ensures the safety of our customer data. This includes robust governance, layered defences, secure development practices, strict data handling, security education, and continuous monitoring.",
+    "url": "https://www.validere.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "At Validere, our Security and Privacy teams play a crucial role in establishing robust policies and controls. They diligently monitor compliance with these controls and demonstrate our commitment to security and compliance to third-party auditors and testers.",
+    "url": "https://www.validere.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "At Validere, we adhere to the principle of “least privilege” when it comes to access. This means that access is strictly limited to those with a legitimate business need, ensuring a high level of security.",
+    "url": "https://www.validere.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "Security controls are implemented and layered according to the principle of “defense-in-depth.”",
+    "url": "https://www.validere.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "Security controls are applied consistently across all areas of the enterprise.",
+    "url": "https://www.validere.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "The implementation of controls is iterative, continuously maturing across the dimensions of improved effectiveness, increased audibility, and decreased friction.",
+    "url": "https://www.validere.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "Validere complies with GDPR and US & Canada Privacy regulations. We continually audit our operations to validate our ongoing compliance.",
+    "url": "https://www.validere.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "All data is encrypted at rest with AES-256. Encryption is performed using our cloud service providers' native services, and keys are managed using Amazon Web Service (AWS)’s KMS service.",
+    "url": "https://www.validere.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "All communications are encrypted using HTTPS with TLS 1.3 and SFTP with AES-256 or higher encryption. Server TLS keys and certificates are managed via our cloud providers' services and rotate every 90 days.",
+    "url": "https://www.validere.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "Validere hosts customer data in Amazon Web Services (AWS). Validere uses a multi-region setup for its infrastructure, and services are configured with elastic storage and scaling to support availability. The principal region for hosting in AWS is US-West-2 (Oregon), and US-East-2 (Ohio) for the failover region.",
+    "url": "https://www.validere.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Data and Validere systems are backed up nightly, and data is replicated to geographically distributed data centers in the United States. Backup status is continuously monitored, and full restoration processes are tested quarterly.",
+    "url": "https://www.validere.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "It’s your data. All contributions and derived data from processing are owned by the customer.",
+    "url": "https://www.validere.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "Validere follows a secure software development life cycle (SSDLC) process that ensures security practices are incorporated at the beginning of the process.",
+    "url": "https://www.validere.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "Security standards (OWASP, NIST, CIS, etc.), quality checks, and coding practices are evaluated and enforced through static and dynamic scans and tests.",
+    "url": "https://www.validere.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "Validere provides a role/attribute-based access control (R/ABAC) system to enable customization of permissions to roles to ensure least privilege access principles are applied to users of your account.",
+    "url": "https://www.validere.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "Validere supports two-step verification for accounts, also called two-factor authentication (2FA). Integration with enterprise Single-Sign-on Identity providers ( MS Entra ID, Okta, Ping, etc.) is also supported for SAML or OIDC protocols.",
+    "url": "https://www.validere.com/security",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "The operating system for industrial environmental teams",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leaders in the energy industry",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven in complex industrial environments.",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Leading operators use Validere to improve reporting, compliance, and investigations without replacing every system they already rely on.",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Midstream Emissions Case Study: $460K+ Estimated Annual Labor Value | Validere",
+    "url": "https://www.validere.com/customers/north-american-midstream-operator",
+    "pass": 1
+   },
+   {
+    "quote": "Upstream Decarbonization Case Study: $3M+ Annual Savings Identified | Validere",
+    "url": "https://www.validere.com/customers/upstream-decarbonization-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by industry leaders & innovators",
+    "url": "https://www.validere.com/professional-services",
+    "pass": 3
+   },
+   {
+    "quote": "Connect & Automate Industrial Workflows | Validere",
+    "url": "https://www.validere.com/platform",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by leaders in the energy industry",
+    "url": "https://www.validere.com/platform",
+    "pass": 3
+   },
+   {
+    "quote": "Our platform is built for interoperability, empowering you to connect with the solutions you rely on every day. Validere's flexible data model and open APIs extend your existing technology investments by seamlessly connecting to data warehouses, emissions monitoring systems, ERPs, and BI tools.",
+    "url": "https://www.validere.com/platform",
+    "pass": 3
+   },
+   {
+    "quote": "Can Validere integrate with our data warehouse, ERP, or SCADA systems?",
+    "url": "https://www.validere.com/platform",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Validere's flexible data model and open APIs are built for interoperability, connecting to data warehouses, emissions monitoring systems, ERPs, and BI tools through scheduled data ingestion and out-of-the-box integrations.",
+    "url": "https://www.validere.com/platform",
+    "pass": 3
+   },
+   {
+    "quote": "SECURE Case Study: Automating Emissions Data Management",
+    "url": "https://blog.validere.com/tag/case-studies",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Every part of a modern environmental program.",
+    "url": "https://www.validere.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Years of acquisitions left the operator with fragmented systems, spreadsheets, and manual workflows. Volumetric reporting was spread across multiple tools, which created duplicated work and inconsistent data.",
+    "url": "https://www.validere.com/customers/north-american-midstream-operator",
+    "pass": 1
+   },
+   {
+    "quote": "It’s your data. All contributions and derived data from processing are owned by the customer.",
+    "url": "https://www.validere.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible working arrangements.",
+    "url": "https://www.validere.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Validere's investors include BlackRock, Brian Falik, Greylock Partners, NGIF Cleantech Ventures, Nova Fleet, Pioneer Fund, Wing Venture Capital, Aaref Hilaly, Altimeter Capital, Bain Capital Ventures, Greylock, Harrison Metal.",
+    "url": "https://startupintros.com/orgs/validere",
+    "pass": 3
+   },
+   {
+    "quote": "Nouman Ahmad is listed as CEO at Validere.",
+    "url": "https://fundediq.co/validere-validere-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Validere have?",
+    "url": "https://fundediq.co/validere-validere-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/validere-validere-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/validere-validere-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/156927-79",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (2)",
+    "url": "https://pitchbook.com/profiles/company/156927-79",
+    "pass": 3
+   },
+   {
+    "quote": "Validere’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/156927-79",
+    "pass": 3
+   },
+   {
+    "quote": "To view Validere’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/156927-79",
+    "pass": 3
+   },
+   {
+    "quote": "Validere has 53 total employees.",
+    "url": "https://pitchbook.com/profiles/company/156927-79",
+    "pass": 3
+   },
+   {
+    "quote": "What is Validere’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/156927-79",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Validere is",
+    "url": "https://pitchbook.com/profiles/company/156927-79",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Validere uses hosted and centrally managed Google Workspaces, Twilio Sendgrid, Slack, MS Teams, and Zoom with hardened configurations to ensure a secure baseline for encryption, anti-malware/spam, and data-loss prevention (DLP). All communication is encrypted with TLS. Email uses DMARC, SPF, and DKIM to help verify the sender's identity.",
+    "url": "https://www.validere.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "At Validere, we are dedicated to providing exceptional support for data integration, ensuring a smooth and seamless experience for our clients. For further assistance or inquiries beyond this documentation, please don't hesitate to reach out to your dedicated services representative or contact our support team via email at",
+    "url": "https://docs.validere.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Validere team: 1 of 1 has an email address on file.",
+    "url": "https://fundediq.co/validere-validere-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/validere-validere-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/156927-79",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Environmental Operations Software | Validere — Validere integrates AI into environmental workflows to help teams surface issues sooner, investigate faster, and reduce repetitive work while keeping people in control of review and approval.",
+    "url": "https://www.validere.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Professional Services - validere.com — \"Validere's team doesn't just know the software; they understand the science and equations behind it, which is a huge help in uncovering data issues that we didn't know existed. We're very impressed and are looking for more ways to leverage Validere's expertise across our operations.\"",
+    "url": "https://www.validere.com/professional-services",
+    "pass": 3
+   },
+   {
+    "quote": "Connect & Automate Industrial Workflows | Validere — Fit Validere into your existing tech stack with our powerful integration options, including scheduled data ingestion and a robust API. Leverage out-of-the-box integrations to connect with key systems, ensuring a seamless flow of information across all of your tools.",
+    "url": "https://www.validere.com/platform",
+    "pass": 3
+   },
+   {
+    "quote": "Validere: エネルギーセクターの炭素MRVソリューション — Validereは、排出量管理における課題解決に不可欠なツールです。 本プラットフォームを活用することで、データ収集から報告までの一連のプロセスを効率化し、正確な排出量算定と迅速な対応を実現できます。",
+    "url": "https://huntscreens.com/ja/products/validere",
+    "pass": 3
+   },
+   {
+    "quote": "Environmental Operations Software | Validere — Validere brings together greenhouse gas reporting, environmental compliance, workflow automation, and integrated AI in one connected platform. Consolidate emissions data, automate calculations, and support regulatory and voluntary reporting from governed data.",
+    "url": "https://www.validere.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About - Validere — Validere is transforming oil & gas as the first and only data intelligence platform that provides real-time visibility into product quality.",
+    "url": "https://www.validere.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Introduction | Validere Platform — Welcome to Validere's data integration services. Our platform offers robust data ingestion interfaces, enabling clients to seamlessly transmit their data securely and efficiently, whether they're pushing data into Validere's platform or pulling data from it.",
+    "url": "https://docs.validere.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Validere | LinkedIn — On October 7, Jesse Eagle and Max Bennett will be speaking on how measurement data can support more than emissions quantification and reporting.",
+    "url": "https://jp.linkedin.com/company/validere/",
+    "pass": 3
+   },
+   {
+    "quote": "Upstream Decarbonization Case Study: $3M+ Annual Savings ... — See how an upstream oil and gas operator used Validere analysis to support a $20M methane abatement investment and identify $3M+ in annual savings from recovered sales gas.",
+    "url": "https://www.validere.com/customers/upstream-decarbonization-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Midstream Emissions Case Study: $460K+ Estimated Annual Labor ... — Validere consolidated data collection across business units and automated measurement tracking. The operator saved 2,300+ hours a year on monthly Scope 1 reporting, an estimated $460K+ in annual labor value at a $200 fully loaded hourly cost.",
+    "url": "https://www.validere.com/customers/north-american-midstream-operator",
+    "pass": 3
+   },
+   {
+    "quote": "Validere Blog | Case Studies — Sep 18, 2025 · Case Studies | Expert insights on emissions management, EHS, environmental compliance, and regulatory reporting for energy companies and industrial operations.",
+    "url": "https://blog.validere.com/tag/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Quality Data Management for Energy Operations | Validere — Apr 9, 2025 · Energy companies invest substantially in data collection and management, yet different teams are often unable to efficiently access the same information needed for informed decision-making. At Validere, we transform how quality data works for your organization.",
+    "url": "https://blog.validere.com/use-case-spotlight-qualitydatamgmt",
+    "pass": 3
+   },
+   {
+    "quote": "How Validere optimizes LDAR programs: case study and demo — Introducing the first of our Use Case Spotlight Series! In this initial blog post, discover how Validere helps optimize leak detection and repair (LDAR) programs.",
+    "url": "https://www.linkedin.com/posts/validere_introducing-the-first-of-our-use-case-spotlight-activity-7307762753425784832-a-iu",
+    "pass": 3
+   },
+   {
+    "quote": "Validere: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Validere has raised $68.0M across 5 funding rounds. Most recently, it raised $43.0M Series B in March 2022. Key people at Validere. Validere is a SaaS company providing a carbon Measurement, Reporting, and Verification (MRV) solution tailored for energy and hard-to-abate sectors.",
+    "url": "https://startupintros.com/orgs/validere",
+    "pass": 3
+   },
+   {
+    "quote": "Validere - 2026 Company Profile, Team, Funding & Competitors ... — Jul 25, 2026 · Validere is a series B company based in Toronto (Canada), founded in 2015. It operates as a Platform for energy asset management, emissions monitoring, and environmental health and safety. Validere has raised $65.1M in funding from investors like BlackRock, Wing Venture Capital and Mercuria.",
+    "url": "https://tracxn.com/d/companies/validere/__AMt93kXArMqaHLHXZ_4h7RrEXL6WIAsrz0MF7c1IFek",
+    "pass": 3
+   },
+   {
+    "quote": "Validere: Funding, Investors & Team (Nov 2026) | FundedIQ — Validere was founded by Harvard graduate and award-winning scientist Dr. Ian Burgess and entrepreneur Nouman Ahmad, who both recognized the enormous opportunity to bring data transparency to oil and gas.",
+    "url": "https://fundediq.co/validere-validere-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Validere 2026 Company Profile: Valuation, Funding & Investors ... — Information on valuation, funding, cap tables, investors, and executives for Validere. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/156927-79",
+    "pass": 3
+   },
+   {
+    "quote": "Validere Information - RocketReachAbout - ValidereValidere Funding: $85.0M | Indexed.vc — Validere is an Energy Technology, Software Development & Design, and Nanotechnology company located in Calgary, Alberta with $16.8 million in revenue and 40 employees. Validere is transforming oil & gas as the first and only data intelligence platform that provides real-time visibility into product quality. V",
+    "url": "https://rocketreach.co/validere-profile_b55890d7f68f5f17",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#validere\" - Results on X | Live Posts & Updates Results for \"#validere\" on X (Twitter). Find the latest posts, discussions, and updates about #validere. 20 results found.",
+    "url": "https://x.com/hashtag/validere",
+    "pass": 3
+   },
+   {
+    "quote": "The Validere team had a great time at last week's 2022 U.S ... Validere (@Validere). The Validere team had a great time at last week's 2022 U.S. and Canada Industrial Market Outlook event in Sugarland, TX. Thanks to Industrial Info Resources for having us and for featuring Hillary Stevenson as a keynote speaker.",
+    "url": "https://x.com/Validere/status/1528753890405015553",
+    "pass": 3
+   },
+   {
+    "quote": "Nouman Ahmad (@NoumanAhmad_) / Posts / X We are hiring for 4 exciting roles at @Validere_ ! If you are naturally curious and interested in working at the intersection of fundamental science, AI and connected devices come join us! lnkd.in/e6_xguu",
+    "url": "https://x.com/NoumanAhmad_",
+    "pass": 3
+   },
+   {
+    "quote": "@Validere | X The latest posts from @Validere",
+    "url": "https://x.com/Validere",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Validere - LinkedIn About us Validere helps energy operators transform their EHS programs from a compliance burden into an operational advantage.",
+    "url": "https://www.linkedin.com/company/validere",
+    "pass": 3
+   },
+   {
+    "quote": "Validere - LinkedIn Website validere.com Industry Energy Technology Company size 51-200 employees Headquarters Calgary, Alberta",
+    "url": "https://ca.linkedin.com/company/validere",
+    "pass": 3
+   },
+   {
+    "quote": "Nouman Ahmad - CEO/ Co-founder at Validere | LinkedInValidere Supports OGMP 2.0 Real-Time Emissions QuantificationCaelum Kamps - COO, Validere | LinkedInInterview #498: RestAssured - hvordan ville du validere ...Hvordan validere FEED- og EPC-overlevering - LinkedIn Norge CEO/ Co-founder at Validere · Experience: Validere · Education: Y Combinator · Location: Toronto · 500+ connections on LinkedIn.",
+    "url": "https://ca.linkedin.com/in/noumanzahmad",
+    "pass": 3
+   },
+   {
+    "quote": "Validere Supports OGMP 2.0 Real-Time Emissions Quantification At our US User Roundtable, Max Bennett, Solutions Architect at Validere, shared an example use case that we support leading global operators accomplish: real-time emissions quantification for...",
+    "url": "https://www.linkedin.com/posts/validere_ogmp-20-us-user-roundtable-use-case-activity-7468296401475571712-1ZmF",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Validere | Houston TX - FacebookWhether it's operational or environmental challenges, teams ...Validere - \"We think Validere represents so much of what...Validere - \"I think [Validere] can dominate the... - FacebookValidere - Poor version control around an energy company's ...Clean data. Clear direction. We are excited to unveil the ...As the focus on emissions continues to grow, Mark Le Dain ... ",
+    "url": "https://www.facebook.com/valideretechnologies/",
+    "pass": 3
+   },
+   {
+    "quote": "Validere - \"We think Validere represents so much of what... Validere, which tells energy companies what’s in their barrels and pipelines, is announcing Tuesday it has raised US$43-million from Swiss commodities trader Mercuria Energy Group Ltd. and funds and accounts managed by investment giant BlackRock Inc.",
+    "url": "https://www.facebook.com/valideretechnologies/posts/we-think-validere-represents-so-much-of-what-is-important-as-the-industry-moves-/302330955330694/",
+    "pass": 3
+   },
+   {
+    "quote": "Validere - \"I think [Validere] can dominate the... - Facebook Validere, which tells energy companies what’s in their barrels and pipelines, is announcing Tuesday it has raised US$43-million from Swiss commodities trader Mercuria Energy Group Ltd. and funds and accounts managed by investment giant BlackRock Inc.",
+    "url": "https://www.facebook.com/valideretechnologies/posts/305462571684199/",
+    "pass": 3
+   },
+   {
+    "quote": "Validere - Poor version control around an energy company's ... Apr 27, 2022 · Validere's Karen Marsh and Lindsay Campbell, Senior Advisors of Carbon Strategies, will discuss: - An overview of each of the regulations - Highlights of key timelines to keep in mind - Deeper dives into specific requirements coming in the new year Register now: https://bit.ly/41u3fEj",
+    "url": "https://www.facebook.com/valideretechnologies/posts/poor-version-control-around-an-energy-companys-data-can-result-in-a-host-of-issu/329316195965503/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.validere.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.validere.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.validere.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.validere.com/customers/north-american-midstream-operator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.validere.com/security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.validere.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.validere.com/customers/upstream-decarbonization-case-study",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.validere.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.validere.com/professional-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.validere.com/platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://huntscreens.com/ja/products/validere",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.validere.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.validere.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://huntscreens.com/ja/products/validere",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.validere.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.validere.com/customers/upstream-decarbonization-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.validere.com/customers/north-american-midstream-operator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.validere.com/tag/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.validere.com/use-case-spotlight-qualitydatamgmt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verkada.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/validere",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/validere/__AMt93kXArMqaHLHXZ_4h7RrEXL6WIAsrz0MF7c1IFek",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fundediq.co/validere-validere-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/156927-79",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/hashtag/validere",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Validere/status/1528753890405015553",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NoumanAhmad_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/validere",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/validere",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/noumanzahmad",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/validere_ogmp-20-us-user-roundtable-use-case-activity-7468296401475571712-1ZmF",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/valideretechnologies/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/valideretechnologies/posts/we-think-validere-represents-so-much-of-what-is-important-as-the-industry-moves-/302330955330694/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/valideretechnologies/posts/305462571684199/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/valideretechnologies/posts/poor-version-control-around-an-energy-companys-data-can-result-in-a-host-of-issu/329316195965503/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Validere",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/validere",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Validere 日本 導入",
+   "results": [
+    "https://www.validere.com/",
+    "https://www.validere.com/professional-services",
+    "https://www.validere.com/platform",
+    "https://huntscreens.com/ja/products/validere",
+    "https://www.watch.impress.co.jp/docs/news/2155153.html",
+    "https://www.tetsudo.com/news/4282/",
+    "https://corporate.jp.sharp/news/261110-a.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Validere 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Validere Japan",
+   "results": [
+    "https://www.validere.com/",
+    "https://www.validere.com/about",
+    "https://huntscreens.com/ja/products/validere",
+    "https://docs.validere.com/",
+    "https://jp.linkedin.com/company/validere/",
+    "https://public.validere.com/",
+    "https://my.validere.com/app/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Validere manufacturing customer case study",
+   "results": [
+    "https://www.validere.com/customers/upstream-decarbonization-case-study",
+    "https://www.validere.com/customers/north-american-midstream-operator",
+    "https://blog.validere.com/tag/case-studies",
+    "https://blog.validere.com/use-case-spotlight-qualitydatamgmt",
+    "https://www.linkedin.com/posts/validere_introducing-the-first-of-our-use-case-spotlight-activity-7307762753425784832-a-iu",
+    "https://www.linkedin.com/posts/mrrolfe_exciting-times-at-validere-after-a-year-activity-7307791747722485764-LzGk",
+    "https://support.validere.com/collection/186-use-cases"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Validere white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.verkada.com/partners/",
+    "https://partner.vw.com/",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.ninjaone.com/partner-program/",
+    "https://partner.vw.com/partner"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Validere founded funding employees revenue",
+   "results": [
+    "https://startupintros.com/orgs/validere",
+    "https://tracxn.com/d/companies/validere/__AMt93kXArMqaHLHXZ_4h7RrEXL6WIAsrz0MF7c1IFek",
+    "https://fundediq.co/validere-validere-com-funding/",
+    "https://pitchbook.com/profiles/company/156927-79",
+    "https://rocketreach.co/validere-profile_b55890d7f68f5f17",
+    "https://www.validere.com/about",
+    "https://indexed.vc/companies/validere"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Validere",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Validere",
+   "results": [
+    "https://x.com/hashtag/validere",
+    "https://x.com/Validere/status/1528753890405015553",
+    "https://x.com/spencerpratt/status/2117629972919542039",
+    "https://x.com/NoumanAhmad_",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/jocelynseip/status/2118260591680983528"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Validere",
+   "results": [
+    "https://www.linkedin.com/company/validere",
+    "https://ca.linkedin.com/company/validere",
+    "https://ca.linkedin.com/in/noumanzahmad",
+    "https://www.linkedin.com/posts/validere_ogmp-20-us-user-roundtable-use-case-activity-7468296401475571712-1ZmF",
+    "https://ca.linkedin.com/in/caelumkamps",
+    "https://dk.linkedin.com/pulse/interview-498-restassured-how-would-you-validate-bfcmc?tl=da",
+    "https://no.linkedin.com/pulse/how-validate-feed-epc-handover-wassim-ghadban-lfcee?tl=no"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Validere",
+   "results": [
+    "https://www.facebook.com/valideretechnologies/",
+    "https://www.facebook.com/valideretechnologies/posts/we-think-validere-represents-so-much-of-what-is-important-as-the-industry-moves-/302330955330694/",
+    "https://www.facebook.com/valideretechnologies/posts/305462571684199/",
+    "https://www.facebook.com/valideretechnologies/posts/poor-version-control-around-an-energy-companys-data-can-result-in-a-host-of-issu/329316195965503/",
+    "https://www.facebook.com/valideretechnologies/videos/whether-its-operational-or-environmental-challenges-teams-need-clean-data-to-cha/1044606629572581/",
+    "https://www.facebook.com/valideretechnologies/videos/clean-data-clear-direction-we-are-excited-to-unveil-the-next-chapter-for-valider/1253678705368228/",
+    "https://www.facebook.com/valideretechnologies/videos/as-the-focus-on-emissions-continues-to-grow-mark-le-dain-svp-strategy-corporate-/347950987094881/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Validere note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.validere.com/about",
+    "https://www.validere.com/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.jp/n/n51b6ea4b0bd6"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Validere X 投稿",
+   "results": [
+    "https://x.com/Validere",
+    "https://www.validere.com/",
+    "https://x.com/hashtag/validere",
+    "https://blog.validere.com/",
+    "https://news.livedoor.com/article/detail/32710275/",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://encount.press/archives/1096358/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部37頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部37頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部37頁・検索12回）"
+ }
+}

@@ -1,0 +1,1192 @@
+{
+ "name": "Tennr",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜返信あり",
+ "researched_at": "2026-11-11T06:18:02.107736+00:00",
+ "official_url": "https://www.tennr.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$101M",
+    "url": "https://getlatka.com/companies/tennr.com",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Trusted by 200+ leading healthcare providers",
+    "url": "https://www.tennr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proof of delivery address",
+    "url": "https://www.tennr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tennr teams process 3x more orders per FTE than practices without Tennr and grow volumes without adding headcount.",
+    "url": "https://www.tennr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tennr practices convert 26% more patients to treatment, with a greater concentration of high acuity and high remuneration cases.",
+    "url": "https://www.tennr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fewer preventable denials",
+    "url": "https://www.tennr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From Horizon Primary Care via eFax",
+    "url": "https://www.tennr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligent workflows for your most complex processes",
+    "url": "https://www.tennr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With Tennr, providers process more patients, cut administrative care delays, and face fewer denials.",
+    "url": "https://www.tennr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Patient processing without scaling overhead",
+    "url": "https://www.tennr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cut in time to prior auth, across 32 infusion centers",
+    "url": "https://www.tennr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Receiving and referring providers nationwide use Tennr to send, edit, and act on orders in real-time. Care moves forward on one platform, for visible, traceable conversions.",
+    "url": "https://www.tennr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How FloMed Improved Their Referral Source Relationships by Processing Patients 4x Faster",
+    "url": "https://www.tennr.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Rothman Orthopaedics 2x’d patient processing without scaling overhead",
+    "url": "https://www.tennr.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Eastern MedTech is Growing with New Product Lines by Automating Their Intake Process.",
+    "url": "https://www.tennr.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Performance Home Medical Reaches 65% More Productivity Per Team Member With Tennr Autopilot",
+    "url": "https://www.tennr.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How iSleep is growing without hiring after using Tennr",
+    "url": "https://www.tennr.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "NMA Processes 157% More Referrals with Tennr",
+    "url": "https://www.tennr.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "From Build to Buy: How Noctrix Health Cleared an 800+ Appeal Backlog and Cut Processing from 36 Hours to 3",
+    "url": "https://www.tennr.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Area Vice President, MGA Homecare",
+    "url": "https://www.tennr.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "A 20-minute order process per patient, cut down to two.",
+    "url": "https://www.tennr.com/customer-stories/medical-service-company",
+    "pass": 1
+   },
+   {
+    "quote": "Medical Service Company (MSC) isn't just another healthcare operator. It's a third-generation, family-owned durable medical equipment provider with 78 years of earned trust and a presence across seven states. MSC has built its reputation specializing in sleep and respiratory disease management, partnering with health systems to streamline discharge and outpatient needs.",
+    "url": "https://www.tennr.com/customer-stories/medical-service-company",
+    "pass": 1
+   },
+   {
+    "quote": "MSC's intake process was overloaded with manual work. Every order required one staff member to wrestle the entire workflow from end-to-end: fax retrieval, phone follow-ups with referral sources, EHR navigation, insurance determinations, benefits management, and sales order creation. All for a single patient. The resulting process was slow and created scaling problems.",
+    "url": "https://www.tennr.com/customer-stories/medical-service-company",
+    "pass": 1
+   },
+   {
+    "quote": "The math on growth was clear: the only way to handle more volume was to hire more people.",
+    "url": "https://www.tennr.com/customer-stories/medical-service-company",
+    "pass": 1
+   },
+   {
+    "quote": "Seth said. The platform's growth velocity and the team's responsiveness were the signals that Seth saw as proof that Tennr was a partner worth building with.",
+    "url": "https://www.tennr.com/customer-stories/medical-service-company",
+    "pass": 1
+   },
+   {
+    "quote": "Life with Tennr: Assembly line process put on Autopilot",
+    "url": "https://www.tennr.com/customer-stories/medical-service-company",
+    "pass": 1
+   },
+   {
+    "quote": "The transformation didn't happen by bolting “AI” onto the existing process. Together with Tennr's change management team, MSC designed its intake workflows as a modular assembly line—breaking the monolithic \"one person does everything\" model into specialized, automatable stages. And with Tennr’s Autopilot, entire steps in that workflow now complete without a human ever touching them.",
+    "url": "https://www.tennr.com/customer-stories/medical-service-company",
+    "pass": 1
+   },
+   {
+    "quote": "The rote, manual tasks that ate up hours every day—splitting faxed documents into prescriptions, progress notes, and sleep studies; classifying thousands of pages; routing work to the right team members—began happening automatically.",
+    "url": "https://www.tennr.com/customer-stories/medical-service-company",
+    "pass": 1
+   },
+   {
+    "quote": "MSC now processes all of their orders, 2.4 million pages annually, through Tennr",
+    "url": "https://www.tennr.com/customer-stories/medical-service-company",
+    "pass": 1
+   },
+   {
+    "quote": "The 20-minute order creation slog? Down to approximately 2 minutes of active work time with no drop in accuracy.",
+    "url": "https://www.tennr.com/customer-stories/medical-service-company",
+    "pass": 1
+   },
+   {
+    "quote": "\"It allows us to get patients taken care of faster. Patients are happier, which makes our health system and referral partners happier, which leads to them recommending their patients to Medical Service Company. With Tennr, it will be a lot easier to open more locations and onboard acquired DME operations.\"",
+    "url": "https://www.tennr.com/customer-stories/medical-service-company",
+    "pass": 1
+   },
+   {
+    "quote": "The result: Growth that was previously impossible",
+    "url": "https://www.tennr.com/customer-stories/medical-service-company",
+    "pass": 1
+   },
+   {
+    "quote": "3X orders processed",
+    "url": "https://www.tennr.com/customer-stories/medical-service-company",
+    "pass": 1
+   },
+   {
+    "quote": "Fertility & Reproductive Health | Tennr",
+    "url": "https://www.tennr.com/solutions/fertility",
+    "pass": 1
+   },
+   {
+    "quote": "FERTILITY & REPRODUCTIVE HEALTH",
+    "url": "https://www.tennr.com/solutions/fertility",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize REI ROI and minimize the work your patients need to do. Delays prevent cycles; Tennr prevents delays.",
+    "url": "https://www.tennr.com/solutions/fertility",
+    "pass": 1
+   },
+   {
+    "quote": "Slow, opaque processes keep patients from coming back",
+    "url": "https://www.tennr.com/solutions/fertility",
+    "pass": 1
+   },
+   {
+    "quote": "Before we improve your operations, we’ll show you exactly what each step that delays cycles costs your clinics.",
+    "url": "https://www.tennr.com/solutions/fertility",
+    "pass": 1
+   },
+   {
+    "quote": "Patient participation depends on meeting them at their level of urgency. When Tennr automates benefits verification, prior auth prep and submission, and medical record parsing, your REIs and staff can focus on providing the patient-first experience that makes your clinic a destination without missing key dates.",
+    "url": "https://www.tennr.com/solutions/fertility",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent patient drop-offs at the financial conversation by equipping your staff with comprehensive cost estimates that take every relevant factor into account.",
+    "url": "https://www.tennr.com/solutions/fertility",
+    "pass": 1
+   },
+   {
+    "quote": "Tennr identifies patients that need coverage reverification and runs full eligibility checks, proactively involving your team in the case of exceptions.",
+    "url": "https://www.tennr.com/solutions/fertility",
+    "pass": 1
+   },
+   {
+    "quote": "Prioritize patients with higher intent",
+    "url": "https://www.tennr.com/solutions/fertility",
+    "pass": 1
+   },
+   {
+    "quote": "Prepare REIs for successful consults",
+    "url": "https://www.tennr.com/solutions/fertility",
+    "pass": 1
+   },
+   {
+    "quote": "Tennr looks through each patient’s records to surface the information REIs need so that every visit is as productive as possible.",
+    "url": "https://www.tennr.com/solutions/fertility",
+    "pass": 1
+   },
+   {
+    "quote": "Approvable prior auths for procedures and drugs",
+    "url": "https://www.tennr.com/solutions/fertility",
+    "pass": 1
+   },
+   {
+    "quote": "Tennr checks every case against payer criteria to flag the gaps in documentation that would lead to denied claims, and submits fully supported prior authorization requests for all benefit types.",
+    "url": "https://www.tennr.com/solutions/fertility",
+    "pass": 1
+   },
+   {
+    "quote": "Proactively collect complete intake info",
+    "url": "https://www.tennr.com/solutions/fertility",
+    "pass": 1
+   },
+   {
+    "quote": "Tennr gives you one place to look for every patient’s stage, risk signals, and next steps, so staff can always take the highest-priority actions to move them forward.",
+    "url": "https://www.tennr.com/solutions/fertility",
+    "pass": 1
+   },
+   {
+    "quote": "Tennr helps your team guide patients to the optimal next step in their care journeys, keeping your specialist providers busy with the patients who need their help the most.",
+    "url": "https://www.tennr.com/solutions/health-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Manual specialty referral processing kneecaps clinical productivity",
+    "url": "https://www.tennr.com/solutions/health-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Tennr reads each patient’s clinical and coverage information and applies your care management criteria to surface all the options. Patients who can be seen by PCPs, APPs, or telehealth don’t have to wait months to see specialists, and specialists stay busy working at the top of their licensure.",
+    "url": "https://www.tennr.com/solutions/health-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock patient access with faster processing and PAR submission",
+    "url": "https://www.tennr.com/solutions/health-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Give your team time back by removing all the manual work from document review and benefits checks. Tennr handles referral processing, eligibility and benefits investigation, prior auth submission, and order transcription, escalating to your administrative staff only the parts that require an expert’s judgment.",
+    "url": "https://www.tennr.com/solutions/health-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Keep providers working at the top of licensure",
+    "url": "https://www.tennr.com/solutions/health-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Specialty referrals exist on a spectrum of acuity. With Tennr, your staff can order your patient census according to clinical need and operational priorities, so your providers spend more time on high-impact appointments.",
+    "url": "https://www.tennr.com/solutions/health-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Providing the best possible care depends on making use of every signal in your EHR. Tennr structures all your patient data and empowers staff to route patients to the best care settings and providers, in the right order.",
+    "url": "https://www.tennr.com/solutions/health-systems",
+    "pass": 1
+   },
+   {
+    "quote": "No matter how or where a patient enters your system, Tennr processes their documentation and sends it where it needs to go.",
+    "url": "https://www.tennr.com/solutions/health-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Because Tennr can always see every patient’s situation at once, your team can finally order each specialist’s waitlist according to urgency and send lower-acuity patients to other providers who can see them sooner.",
+    "url": "https://www.tennr.com/solutions/health-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent patient pre-visit dropoff",
+    "url": "https://www.tennr.com/solutions/health-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Tennr gives you the ability to manage denials proactively by tracking processing times, conversion rates, and denials across your entire front-end.",
+    "url": "https://www.tennr.com/solutions/health-systems",
+    "pass": 1
+   },
+   {
+    "quote": "When a referral lacks necessary details, Tennr pulls missing records automatically from HIEs and connected EHRs, then requests the rest from referring providers. No faxing, no waiting.",
+    "url": "https://www.tennr.com/solutions/health-systems",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 200+ leading healthcare providers",
+    "url": "https://www.tennr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Healthcare operators drive better outcomes with Tennr.",
+    "url": "https://www.tennr.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "When MSC set its sights on an aggressive growth-through-acquisition strategy, it ran into a wall that DME operators know too well.",
+    "url": "https://www.tennr.com/customer-stories/medical-service-company",
+    "pass": 1
+   },
+   {
+    "quote": "DME Suppliers & Manufacturers | Tennr",
+    "url": "https://www.tennr.com/solutions/dme",
+    "pass": 1
+   },
+   {
+    "quote": "DME SUPPLIERS & MANUFACTURERS",
+    "url": "https://www.tennr.com/solutions/dme",
+    "pass": 1
+   },
+   {
+    "quote": "MEDICAL DEVICE SUPPLIERS & MANUFACTURERS",
+    "url": "https://www.tennr.com/solutions/dme",
+    "pass": 1
+   },
+   {
+    "quote": "And trusted by top providers nationwide.",
+    "url": "https://www.tennr.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Rothman Orthopaedics Tennr Case Study: How Rothman Orthopaedics 2x’d Patient Processing Without Scaling Overhead",
+    "url": "https://www.tennr.com/customer-stories/rothman-orthopaedics",
+    "pass": 1
+   },
+   {
+    "quote": "TwelveStone / Tennr Case Study: How TwelveStone Health Partners Reduced the Path to Treatment by 12 Days with Tennr's Patient Orchestration Platform",
+    "url": "https://www.tennr.com/customer-stories/twelvestone",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Total Sleep Management Grows Revenue 30% Quarter-to-Date with Tennr",
+    "url": "https://www.tennr.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "When MSC set its sights on an aggressive growth-through-acquisition strategy, it ran into a wall that DME operators know too well.",
+    "url": "https://www.tennr.com/customer-stories/medical-service-company",
+    "pass": 1
+   },
+   {
+    "quote": "\"It allows us to get patients taken care of faster. Patients are happier, which makes our health system and referral partners happier, which leads to them recommending their patients to Medical Service Company. With Tennr, it will be a lot easier to open more locations and onboard acquired DME operations.\"",
+    "url": "https://www.tennr.com/customer-stories/medical-service-company",
+    "pass": 1
+   },
+   {
+    "quote": "\"Tennr is a part of our team. The platform is doing the decision-making that our team would spend so much time on. And the speed at which we get resolution to things we're looking for from the Tennr team is something we haven't felt before from any vendor on any part of our business... It's just been great building together.\"",
+    "url": "https://www.tennr.com/customer-stories/medical-service-company",
+    "pass": 1
+   },
+   {
+    "quote": "For MSC, the Tennr partnership isn't the end state, it's infrastructure for what comes next. New acquisitions. New locations. New patient populations. All supported by a foundation that won't crack under the weight of growth.",
+    "url": "https://www.tennr.com/customer-stories/medical-service-company",
+    "pass": 1
+   },
+   {
+    "quote": "When we work with you, Tennr’s team starts by finding exactly what’s holding your patients up and showing you what that does to your revenue.",
+    "url": "https://www.tennr.com/solutions/infusions",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue growth shouldn’t depend on headcount growth",
+    "url": "https://www.tennr.com/solutions/dme",
+    "pass": 1
+   },
+   {
+    "quote": "Every unconverted referral is permanent revenue loss. Tennr helps you improve, scale, and accelerate complex inbound and resupply workflows without adding staff.",
+    "url": "https://www.tennr.com/solutions/dme",
+    "pass": 1
+   },
+   {
+    "quote": "Every relationship begins with in-depth process analysis that finds your biggest opportunities for improvement and sizes the revenue impact.",
+    "url": "https://www.tennr.com/solutions/dme",
+    "pass": 1
+   },
+   {
+    "quote": "Tennr’s good at following schedules. When it’s time for resupply, Tennr calls the patient to collect details and verify everything so revenue remains recurring.",
+    "url": "https://www.tennr.com/solutions/dme",
+    "pass": 1
+   },
+   {
+    "quote": "You can’t manually catch every patient before they drop off. Tennr identifies the root causes of patient leakage, sizes the revenue impact, and removes them, so you see more of your referred patients.",
+    "url": "https://www.tennr.com/solutions/physician-groups",
+    "pass": 1
+   },
+   {
+    "quote": "Better data collection creates revenue opportunities",
+    "url": "https://www.tennr.com/solutions/physician-groups",
+    "pass": 1
+   },
+   {
+    "quote": "Identify the highest-margin compliant option for every prescription, priced against acquisition cost and fee schedules, before your team dedicates time or inventory.",
+    "url": "https://www.tennr.com/solutions/physician-groups",
+    "pass": 1
+   },
+   {
+    "quote": "To improve your team’s dispensing speed, our team starts by identifying the steps where your process stalls out and quantifying the impact on revenue.",
+    "url": "https://www.tennr.com/solutions/specialty-pharmacy",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://www.tennr.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Failure and real discomfort comes from what we ignore, not what we face head-on. If you believe we are ever on a path towards failure in any part of the business, discuss it with the right person directly and act decisively. We don’t wait.",
+    "url": "https://www.tennr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "*And a pantry stocked with a strangely wide array of puffed corn snacks",
+    "url": "https://www.tennr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Infusion providers sit at the end of a long chain in the healthcare system, inheriting everything that went wrong upstream. Incomplete referrals arriving by fax, unclear payer policy, new-to-market drugs without coverage guidelines, and contracting that dictates how a drug must be billed and authorized land on the intake team.",
+    "url": "https://www.tennr.com/customer-stories/twelvestone",
+    "pass": 1
+   },
+   {
+    "quote": "On top of that, infusion admin teams carry the responsibility of communicating and coordinating with patients and their prescribers. As Michelle Butler, Project Manager at TwelveStone put it, that results in her team playing the roles of social worker, translator, and caregiver on the way to getting a patient on therapy in a timely manner.",
+    "url": "https://www.tennr.com/customer-stories/twelvestone",
+    "pass": 1
+   },
+   {
+    "quote": "\"It feels like we've been working with you guys forever,\" Michelle said. \"It's a good marriage.\"",
+    "url": "https://www.tennr.com/customer-stories/twelvestone",
+    "pass": 1
+   },
+   {
+    "quote": "\"Because [medical policy review] is part of the flow and Tennr already does the validation with the Qualification Review Engine, it really does give you a cleaner authorization submission. When it was a person doing it, if they missed something, it could result in a denial.” — Michelle",
+    "url": "https://www.tennr.com/customer-stories/twelvestone",
+    "pass": 1
+   },
+   {
+    "quote": "TwelveStone expects to reach 40 infusion centers by the end of the year, with 20 more clinics planned for the year after. The referrals will still arrive by fax, still incomplete. The patients will still be sick, frightened, and unsure who is calling them. None of that is TwelveStone's to fix.",
+    "url": "https://www.tennr.com/customer-stories/twelvestone",
+    "pass": 1
+   },
+   {
+    "quote": ". Tennr’s sales cycle began to accelerate when they were able to lead with examples of ROI and case studies in the pitch to close customers. Perhaps controversially, Tennr has actually stripped AI from their homepage and focused on what matters: fewer denials, more patient conversions, and real revenue impact.",
+    "url": "https://bbgventures.medium.com/ai-in-healthcare-today-customer-obsession-building-long-term-moats-and-getting-to-series-a-c6f49f5e6f5e",
+    "pass": 3
+   },
+   {
+    "quote": "Shortly after hitting $1M in ARR, Trey made a hard call: fire 60% of Tennr’s customers, because they just weren’t aligned with Tennr’s core value prop. Serving the wrong ICP drains time, slows roadmap velocity, and muddles the story.",
+    "url": "https://bbgventures.medium.com/ai-in-healthcare-today-customer-obsession-building-long-term-moats-and-getting-to-series-a-c6f49f5e6f5e",
+    "pass": 3
+   },
+   {
+    "quote": "As a founder, there is a balance between focus and staying informed on the market — Trey continues to talk to non-ICP potential customers to explore future revenue streams. But this is specific to founders — Trey operates his team against the focused KPIs and milestones for the near-term.",
+    "url": "https://bbgventures.medium.com/ai-in-healthcare-today-customer-obsession-building-long-term-moats-and-getting-to-series-a-c6f49f5e6f5e",
+    "pass": 3
+   },
+   {
+    "quote": "Don’t be afraid to hone in — a short-term dip in revenue is well worthwhile for long-term growth.",
+    "url": "https://bbgventures.medium.com/ai-in-healthcare-today-customer-obsession-building-long-term-moats-and-getting-to-series-a-c6f49f5e6f5e",
+    "pass": 3
+   },
+   {
+    "quote": ": Clear customer love within a more narrow group outweighs “ok” usage across a wider set of users",
+    "url": "https://bbgventures.medium.com/ai-in-healthcare-today-customer-obsession-building-long-term-moats-and-getting-to-series-a-c6f49f5e6f5e",
+    "pass": 3
+   },
+   {
+    "quote": "Tennr Revenue 2024: $3.8M Est., $605M Valuation",
+    "url": "https://getlatka.com/companies/tennr.com",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/tennr.com",
+    "pass": 3
+   },
+   {
+    "quote": "Tennr has not published its revenue. GetLatka estimates it at about $3.8M a year (June 2024).",
+    "url": "https://getlatka.com/companies/tennr.com",
+    "pass": 3
+   },
+   {
+    "quote": "Tennr CEO, founders & employees",
+    "url": "https://getlatka.com/companies/tennr.com",
+    "pass": 3
+   },
+   {
+    "quote": "Trey Holterman founded Tennr in 2021 and runs it as CEO. Tennr has 187 employees (October 2025, LinkedIn), up from 44 a year earlier.",
+    "url": "https://getlatka.com/companies/tennr.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Tennr's revenue?",
+    "url": "https://getlatka.com/companies/tennr.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Tennr's revenue at about",
+    "url": "https://getlatka.com/companies/tennr.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Tennr have?",
+    "url": "https://getlatka.com/companies/tennr.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of October 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/tennr.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/tennr.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/tennr.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/tennr.com",
+    "pass": 3
+   },
+   {
+    "quote": "Tennr says it has more than tripled its revenue since its",
+    "url": "https://www.fiercehealthcare.com/health-tech/tennr-clinches-101m-build-out-ai-automates-patient-referral-workflows",
+    "pass": 3
+   },
+   {
+    "quote": "\"We’ve redefined operational agility in our revenue cycle—it’s not just about moving faster—it’s about serving healthcare practitioners and patients more effectively, in alignment with our mission of Serving You Better,” Barnett said in a statement.",
+    "url": "https://www.fiercehealthcare.com/health-tech/tennr-clinches-101m-build-out-ai-automates-patient-referral-workflows",
+    "pass": 3
+   },
+   {
+    "quote": "When we led Tennr’s $3.25M seed investment in May 2023, the company was still iterating on product and didn’t have any revenue. Eight months later, Tennr surpassed $1M ARR. The rapid growth trajectory is a testament to the team, the company’s focus, and the urgency of the problem they’re solving.",
+    "url": "https://foundationcapital.com/ideas/leading-tennr-s-3-25m-seed-round-an-investment-in-founders",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "When patients leave forms blank, Tennr reaches out via phone call, text, and email to fill in the gaps before they come in.",
+    "url": "https://www.tennr.com/solutions/fertility",
+    "pass": 1
+   },
+   {
+    "quote": "If Tennr can’t find info it needs in an HIE, it picks up the phone and calls (or texts, or emails) until it unblocks the order.",
+    "url": "https://www.tennr.com/solutions/dme",
+    "pass": 1
+   },
+   {
+    "quote": "If you’re excited about the opportunity to provide more personalized, data-driven and better quality care leveraging AI, reach out: hello@bbgventures.com. We’d love to learn more.",
+    "url": "https://bbgventures.medium.com/ai-in-healthcare-today-customer-obsession-building-long-term-moats-and-getting-to-series-a-c6f49f5e6f5e",
+    "pass": 3
+   },
+   {
+    "quote": "When a primary care doctor refers a patient to a specialist, those referrals come in by fax, email or e-portal, and quickly pile up.",
+    "url": "https://www.fiercehealthcare.com/health-tech/tennr-clinches-101m-build-out-ai-automates-patient-referral-workflows",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "病院の「紹介状」をAIで効率化、米Tennrが55億円調達 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "url": "https://forbesjapan.com/articles/detail/74545",
+    "pass": 3
+   },
+   {
+    "quote": "KKR・大和証券の両トップが語る 日本が「世界有数の成長市場」になる未来",
+    "url": "https://forbesjapan.com/articles/detail/74545",
+    "pass": 3
+   },
+   {
+    "quote": "上智大学×タキヒヨーの共創が生んだサステナブルTシャツ――「TOKYOエシカル」がつなぐ新たな可能性",
+    "url": "https://forbesjapan.com/articles/detail/74545",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ今、日本市場に勝機があるのか ローランド・ベルガーが示す日本企業の新たな成長像",
+    "url": "https://forbesjapan.com/articles/detail/74545",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPANの最新のニュースをお届けします",
+    "url": "https://forbesjapan.com/articles/detail/74545",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "病院の「紹介状」をAIで効率化、米 Tennr が55億円調達 — 病院の「紹介状」をAIで効率化、米 Tennr が55億円調達 Forbes JAPAN https://forbesjapan.com > スタートアップ > 海外",
+    "url": "https://forbesjapan.com/articles/detail/74545",
+    "pass": 3
+   },
+   {
+    "quote": "Zachary Johnson - Director of Product Marketing at Tennr — Zachary Johnson - Director of Product Marketing at Tennr LinkedIn https://www.linkedin.com > zach-j",
+    "url": "https://www.linkedin.com/in/zach-j",
+    "pass": 3
+   },
+   {
+    "quote": "Tennr — Tennr Tennr https://app.tennr.com > run",
+    "url": "https://app.tennr.com/run",
+    "pass": 3
+   },
+   {
+    "quote": "Tennr - LinkedIn — Tennr - LinkedIn LinkedIn https://www.linkedin.com > tennrai",
+    "url": "https://www.linkedin.com/company/tennrai",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories | Tennr — Customer Stories | Tennr Tennr https://tennr.com > customer-stories",
+    "url": "https://tennr.com/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Tennr — Tennr Tennr https://tennr.com",
+    "url": "https://tennr.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Manager @ Tennr - Jobs — Partner Manager @ Tennr - Jobs Ashby https://jobs.ashbyhq.com > tennr",
+    "url": "https://jobs.ashbyhq.com/tennr/a4d96d95-191c-4c33-8fe6-08cf3cacffc1",
+    "pass": 3
+   },
+   {
+    "quote": "Tennr Revenue 2024: $3.8M Est., $605M Valuation - GetLatka — Tennr Revenue 2024: $3.8M Est., $605M Valuation - GetLatka GetLatka https://getlatka.com > tennr",
+    "url": "https://getlatka.com/companies/tennr.com",
+    "pass": 3
+   },
+   {
+    "quote": "Tennr clinches $101M to build out AI that automates patient ... — Tennr clinches $101M to build out AI that automates patient ... Fierce Healthcare https://www.fiercehealthcare.com > te...",
+    "url": "https://www.fiercehealthcare.com/health-tech/tennr-clinches-101m-build-out-ai-automates-patient-referral-workflows",
+    "pass": 3
+   },
+   {
+    "quote": "About Us - Tennr — About Us - Tennr Tennr https://www.tennr.com > about",
+    "url": "https://www.tennr.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Tennr's $3.25M Seed Round: An Investment in ... — Leading Tennr's $3.25M Seed Round: An Investment in ... Foundation Capital https://foundationcapital.com > ideas",
+    "url": "https://foundationcapital.com/ideas/leading-tennr-s-3-25m-seed-round-an-investment-in-founders",
+    "pass": 3
+   },
+   {
+    "quote": "Tennr - 2026 Company Profile, Team, Funding & Competitors — Tennr - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/tennr/__y2MN67qndSj1FitOSIXfrt2mor9QGShC-47toj0Pi-o",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tennr - LinkedIn Tennr - LinkedIn LinkedIn https://www.linkedin.com > tennrai",
+    "url": "https://www.linkedin.com/company/tennrai",
+    "pass": 3
+   },
+   {
+    "quote": "Tennr : Jobs - LinkedIn Tennr : Jobs - LinkedIn LinkedIn https://www.linkedin.com > jobs",
+    "url": "https://www.linkedin.com/company/tennrai/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Tennr : Culture - LinkedIn Tennr : Culture - LinkedIn LinkedIn https://www.linkedin.com > life",
+    "url": "https://www.linkedin.com/company/tennrai/life",
+    "pass": 3
+   },
+   {
+    "quote": "Tennr Co-Founder Trey Holterman on Patient Journey ... Tennr Co-Founder Trey Holterman on Patient Journey ... LinkedIn https://www.linkedin.com > posts > ic...",
+    "url": "https://www.linkedin.com/posts/iconiq-capital-llc_the-uncommon-path-trey-holterman-on-building-activity-7482827252687101952-xueA",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tennr.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tennr.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tennr.com/customer-stories/medical-service-company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tennr.com/solutions/fertility",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tennr.com/solutions/health-systems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tennr.com/solutions/infusions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tennr.com/solutions/dme",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tennr.com/solutions/physician-groups",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tennr.com/solutions/specialty-pharmacy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tennr.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tennr.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tennr.com/customer-stories/rothman-orthopaedics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tennr.com/customer-stories/twelvestone",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tennr.com/images/home/logos/kabafusion.svg?dpl=dpl_7GmmkfFDzhPew71KAP1Eajaprhz7",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tennr.com/images/home/logos/rothman.svg?dpl=dpl_7GmmkfFDzhPew71KAP1Eajaprhz7",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tennr.com/images/home/logos/ivx-health.svg?dpl=dpl_7GmmkfFDzhPew71KAP1Eajaprhz7",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tennr.com/images/home/logos/oceans-healthcare.svg?dpl=dpl_7GmmkfFDzhPew71KAP1Eajaprhz7",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://forbesjapan.com/articles/detail/74545",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/forbesjapan/status/1851104226321002539",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/zach-j",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/andreabocelli/videos/youll-never-walk-alone-out-now/253905839370068/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.engeniustech.com/jp/where-to-buy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/74545",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.housei-inc.com/product-services/open-innovation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.tennr.com/run",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/74545",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/tennrai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/forbesjapan/status/1851104226321002539",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tennr.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vI2HwlUC9Ti8plxx2MQvuu--5eygEQ6I1597Ekxl76jt-v4bIVW",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bbgventures.medium.com/ai-in-healthcare-today-customer-obsession-building-long-term-moats-and-getting-to-series-a-c6f49f5e6f5e",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tennantco.com/en_us/resources/resource-center/case-studies.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tennr.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://openloophealth.com/blog/how-to-launch-new-care-programs-faster/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jobs.ashbyhq.com/tennr/a4d96d95-191c-4c33-8fe6-08cf3cacffc1",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/tennr.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fiercehealthcare.com/health-tech/tennr-clinches-101m-build-out-ai-automates-patient-referral-workflows",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://foundationcapital.com/ideas/leading-tennr-s-3-25m-seed-round-an-investment-in-founders",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/tennrai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tennrai/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tennrai/life",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/iconiq-capital-llc_the-uncommon-path-trey-holterman-on-building-activity-7482827252687101952-xueA",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tennr 日本 導入",
+   "results": [
+    "https://forbesjapan.com/articles/detail/74545",
+    "https://x.com/forbesjapan/status/1851104226321002539",
+    "https://www.linkedin.com/in/zach-j",
+    "https://www.facebook.com/andreabocelli/videos/youll-never-walk-alone-out-now/253905839370068/",
+    "https://www.toclas.co.jp/tenor/",
+    "https://www.jetro.go.jp/invest/investment_environment/success_stories/tenstorrent.html",
+    "https://news.aibase.com/ja/news/12672",
+    "https://go.macnica.co.jp/Entry-ALT-RS-TEN-Tenstorrent-introduction.html",
+    "https://itbusinesstoday.com/ja/industrial-tech/semiconductorandelectronics/tenstorrent-bets-on-japan-to-build-the-future-of-ai-chip-design/",
+    "https://www.tennr.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Tennr 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.engeniustech.com/jp/where-to-buy/",
+    "https://forbesjapan.com/articles/detail/74545",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.housei-inc.com/product-services/open-innovation",
+    "https://exawizards.com/exabase/gpt/agent/",
+    "https://usen.com/portal/partner/column/successful-agency-business/",
+    "https://tm-co.co.jp/news/t-m-corporation-has-signed-an-exclusive-distribution-agreemen/",
+    "https://prtimes.jp/topics/keywords/%E6%97%A5%E6%9C%AC%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "https://jp.tdsynnex.com/news/20200610_zendure.html",
+    "https://ja.wikipedia.org/wiki/日本タタ・コンサルタンシー・サービシズ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Tennr Japan",
+   "results": [
+    "https://app.tennr.com/run",
+    "https://forbesjapan.com/articles/detail/74545",
+    "https://www.linkedin.com/company/tennrai",
+    "https://x.com/forbesjapan/status/1851104226321002539",
+    "https://www.tenorhq.com/",
+    "https://newspicks.com/news/10754874/",
+    "https://www.instagram.com/p/C5EmnFxMtZ1/",
+    "https://www.njp.or.jp/en/about/guest/2995/",
+    "https://de.wikipedia.org/wiki/Tennō",
+    "https://de.wikipedia.org/wiki/Liste_der_Tennō"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Tennr manufacturing customer case study",
+   "results": [
+    "https://tennr.com/customer-stories",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vI2HwlUC9Ti8plxx2MQvuu--5eygEQ6I1597Ekxl76jt-v4bIVW",
+    "https://bbgventures.medium.com/ai-in-healthcare-today-customer-obsession-building-long-term-moats-and-getting-to-series-a-c6f49f5e6f5e",
+    "https://www.tennantco.com/en_us/resources/resource-center/case-studies.html",
+    "https://thinaer.io/resources/case-studies/",
+    "https://www.forbes.com/sites/davidprosser/2024/03/26/how-tennr-plans-to-ensure-patients-finally-get-to-see-their-doctors/",
+    "https://www.cis.tennessee.edu/ut-expands-ai-workforce-training-tennessee-manufacturers",
+    "https://www.healthcareaiguy.com/p/company-deep-dive-tennr",
+    "https://c3.ai/customers",
+    "https://www.tennr.com/customer-stories"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Tennr white label OR reseller OR partner program",
+   "results": [
+    "https://tennr.com/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://openloophealth.com/blog/how-to-launch-new-care-programs-faster/",
+    "https://jobs.ashbyhq.com/tennr/a4d96d95-191c-4c33-8fe6-08cf3cacffc1",
+    "https://karpahealth.com/compare/best-white-label-telehealth-platforms/",
+    "https://www.intermedia.com/resellers",
+    "https://www.specode.ai/blog/white-label-telehealth-platform",
+    "https://thebusinessshowus.com/las-vegas25/telehealth-white-label",
+    "https://www.linkedin.com/posts/iconiq-capital-llc_were-thrilled-to-partner-with-tennr-in-their-activity-7341113990720233474-2qY4",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Tennr founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/tennr.com",
+    "https://www.fiercehealthcare.com/health-tech/tennr-clinches-101m-build-out-ai-automates-patient-referral-workflows",
+    "https://www.tennr.com/about",
+    "https://foundationcapital.com/ideas/leading-tennr-s-3-25m-seed-round-an-investment-in-founders",
+    "https://tracxn.com/d/companies/tennr/__y2MN67qndSj1FitOSIXfrt2mor9QGShC-47toj0Pi-o",
+    "https://www.prnewswire.com/news-releases/healthcare-referrals-are-where-patients-get-lost-tennr-raises-101m-to-bring-the-visibility-our-system-desperately-needs-302485255.html",
+    "https://www.mobihealthnews.com/news/tennr-raises-101m-automate-referrals-hits-605m-valuation",
+    "https://multiples.vc/private-comps/tennr",
+    "https://www.owler.com/company/tennr",
+    "https://compworth.com/company/tennr"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Tennr",
+   "results": [
+    "https://note.com/entikemoto/n/n93665900e628",
+    "https://note.com/startup_now0708/n/na62803f93278",
+    "https://note.com/keiko_____miwa/n/n1bfa5da8f023",
+    "https://note.com/panda_lab/n/nd9794bcfc948?hl=en",
+    "https://note.com/panda_lab/n/n665a037109a4",
+    "https://note.com/panda_lab/n/nceffbbec460d",
+    "https://note.com/ripla_business/n/n1b465c6764ce",
+    "https://note.com/keiko_____miwa/n/n1bfa5da8f023/comments",
+    "https://note.com/gakudesu/n/n450ba7c06f05",
+    "https://note.com/ai_solution/n/n4704bdaddb11"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com Tennr",
+   "results": [
+    "https://x.com/TreyHolterman",
+    "https://x.com/MattZirwas/status/2117650826541846990",
+    "https://x.com/forbesjapan/status/1851104226321002539",
+    "https://x.com/VC_II_1009/status/1875372077299183932",
+    "https://x.com/anniamirza",
+    "https://x.com/jafco_intern/status/2057296693553770577",
+    "https://x.com/forbesjapan/status/1850764446551134224",
+    "https://x.com/MattZirwas/status/2117650237196054778",
+    "https://x.com/alexkayyal",
+    "https://x.com/stephmui"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com Tennr",
+   "results": [
+    "https://www.linkedin.com/company/tennrai",
+    "https://www.linkedin.com/company/tennrai/jobs",
+    "https://www.linkedin.com/company/tennrai/life",
+    "https://www.linkedin.com/posts/iconiq-capital-llc_the-uncommon-path-trey-holterman-on-building-activity-7482827252687101952-xueA",
+    "https://www.linkedin.com/in/andres-warren",
+    "https://www.linkedin.com/in/tyler-johnson-482a42158",
+    "https://www.linkedin.com/in/jason-siegel",
+    "https://www.linkedin.com/in/trey-holterman",
+    "https://www.linkedin.com/in/maulikshahpmp",
+    "https://www.linkedin.com/in/diego-baugh"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Tennr",
+   "results": [
+    "https://www.facebook.com/SantaClaraUniversity/posts/kyle-alwyn-15-has-done-this-beforehe-studied-computer-science-at-santa-clara-uni/1448218130667296/",
+    "https://www.facebook.com/spordle/posts/were-hiring-following-the-integration-of-spordle-livebarn-and-gamesheet-ascent-s/1708231524646673/",
+    "https://www.facebook.com/glbitm/photos/md-faisal-raza-a-marvelous-student-of-btech-cse-batch-2025-of-gl-bajaj-institute/952512650410349/",
+    "https://www.facebook.com/groups/DeepNetGroup/posts/2557051841354349/",
+    "https://www.facebook.com/forbes/posts/garner-health-uses-data-to-identify-the-countrys-best-doctors-based-on-quality-a/1280766687246652/",
+    "https://www.facebook.com/fb-answers/tennr-gurgaon-office-address/",
+    "https://www.facebook.com/groups/1894419401310355/posts/2361259491293008/",
+    "https://www.facebook.com/people/Tennr/61584810451822/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/p/Tennr-61558293874811/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Tennr note 社長",
+   "results": [
+    "https://note.com/ai_shacho",
+    "https://x.com/sadaaki",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/shikujiri_2025/n/ne60e736716e3",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://note.com/ai_shacho/n/n4f9f55532375",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/trex_ai",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Tennr X 投稿",
+   "results": [
+    "https://www.mmm-online.com/news/healthcare-ai-startup-tennr-fax-taboo-word-campaign/",
+    "https://x.com/tenstorrent",
+    "https://forbesjapan.com/articles/detail/74545",
+    "https://ledge.ai/articles/x_revises_privacy_policy",
+    "https://www.change.org/p/x-%E6%97%A7twitter-%E3%81%AE%E6%8A%95%E7%A8%BF%E3%82%92%E7%94%9F%E6%88%90ai%E3%81%AE%E5%AD%A6%E7%BF%92%E3%81%AB%E5%88%A9%E7%94%A8%E3%81%97%E3%81%AA%E3%81%84%E3%81%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
+    "https://japan.cnet.com/article/35208593/",
+    "https://k-tai.watch.impress.co.jp/docs/news/2078522.html",
+    "https://gigazine.net/news/20260701-tenor-api-discontinuation/",
+    "https://x.com/tennr_com",
+    "https://www.tennr.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部27頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部27頁・検索12回）"
+ }
+}

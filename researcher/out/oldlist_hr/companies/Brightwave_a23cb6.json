@@ -1,0 +1,1138 @@
+{
+ "name": "Brightwave",
+ "aliases": [],
+ "context": "旧営業リスト｜Non-AUMS｜リマイン1",
+ "researched_at": "2026-11-11T06:47:59.979137+00:00",
+ "official_url": "https://www.brightwave.io",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/brightwave-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$21,000,000",
+    "url": "https://prospeo.io/c/brightwave-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "276 5th Ave, New York, NY 10016, US",
+    "url": "https://prospeo.io/c/brightwave-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2023",
+    "url": "https://prospeo.io/c/brightwave-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Get direct access to the people, products, and expertise behind Microsoft technology, with opportunities to ask questions, build skills, and learn alongside the community.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713",
+    "pass": 3
+   },
+   {
+    "quote": "The AI research platform built to help professionals understand the world's most complex problems",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave is a professional-grade AI research platform for in-depth research and analysis. This companion Office Add-in is for existing Brightwave users and brings Brightwave research agents into Excel, Word, and PowerPoint so you can analyze project documents, source claims, synthesize insights, and apply structured edits without leaving your Office workflow.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713",
+    "pass": 3
+   },
+   {
+    "quote": "Chat with AI research agents that have context from your Brightwave projects and uploaded documents",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713",
+    "pass": 3
+   },
+   {
+    "quote": "Ask questions across data rooms, PDFs, Word files, spreadsheets, SEC filings, earnings calls, and other project materials",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713",
+    "pass": 3
+   },
+   {
+    "quote": "Read and analyze relevant content from your active spreadsheet, document, or presentation",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713",
+    "pass": 3
+   },
+   {
+    "quote": "Write, format, sort, filter, and update spreadsheet ranges, tables, charts, and conditional formatting in Excel",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713",
+    "pass": 3
+   },
+   {
+    "quote": "Draft, insert, replace, format, comment on, and update content in Word documents",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713",
+    "pass": 3
+   },
+   {
+    "quote": "Create and update slides, tables, shapes, text boxes, charts, and presentation content in PowerPoint",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713",
+    "pass": 3
+   },
+   {
+    "quote": "Built for complex professional research:",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713",
+    "pass": 3
+   },
+   {
+    "quote": "Review data rooms and source documents while preparing presentations, then turn cited findings into slide-ready content",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713",
+    "pass": 3
+   },
+   {
+    "quote": "Draft, revise, and annotate memos or reports in Word using cited findings from Brightwave projects",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713",
+    "pass": 3
+   },
+   {
+    "quote": "A Brightwave account and an active subscription or enterprise license are required to use this companion add-in. Paid plans may be required. Enterprise users can obtain access through their organization administrator or by contacting Brightwave at sales@brightwave.io.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713",
+    "pass": 3
+   },
+   {
+    "quote": "Get direct access to the people, products, and expertise behind Microsoft technology, with opportunities to ask questions, build skills, and learn alongside the community.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "The AI research platform built to help professionals understand the world's most complex problems",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave is a professional-grade AI research platform for in-depth research and analysis. This companion Office Add-in is for existing Brightwave users and brings Brightwave research agents into Excel, Word, and PowerPoint so you can analyze project documents, source claims, synthesize insights, and apply structured edits without leaving your Office workflow.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "Chat with AI research agents that have context from your Brightwave projects and uploaded documents",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "Ask questions across data rooms, PDFs, Word files, spreadsheets, SEC filings, earnings calls, and other project materials",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "Read and analyze relevant content from your active spreadsheet, document, or presentation",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "Write, format, sort, filter, and update spreadsheet ranges, tables, charts, and conditional formatting in Excel",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "Draft, insert, replace, format, comment on, and update content in Word documents",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "Create and update slides, tables, shapes, text boxes, charts, and presentation content in PowerPoint",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "Built for complex professional research:",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "Review data rooms and source documents while preparing presentations, then turn cited findings into slide-ready content",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "Draft, revise, and annotate memos or reports in Word using cited findings from Brightwave projects",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "A Brightwave account and an active subscription or enterprise license are required to use this companion add-in. Paid plans may be required. Enterprise users can obtain access through their organization administrator or by contacting Brightwave at sales@brightwave.io.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "Predefined lighting study and layout",
+    "url": "https://brightwave.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Rust-proof. Impact-resistant. Energy-efficient.",
+    "url": "https://brightwave.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Designed to provide the cleanest, brightest, and most balanced lighting in the industry.",
+    "url": "https://brightwave.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "https://brightwavemedia.com/wp-content/uploads/2024/01/introVideo_10s_2mb.mp4",
+    "url": "https://brightwavemedia.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Bright Wave Media, Inc. is a Japan-based media company specializing in bilingual content production, marketing, and advertising. Our core strengths include magazine and one-off publishing (both print and digital), video production, and creative advertising campaigns that combine our many platforms together with events.",
+    "url": "https://brightwavemedia.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We produce high-quality videos for cities in Japan, as well as the food, beverage, and travel industries.",
+    "url": "https://brightwavemedia.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Social media is an important and growing part of our marketing. We are active primarily on Instagram, Facebook, and Twitter.",
+    "url": "https://brightwavemedia.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our magazines would not be so popular without excellent design. We apply those same skills to a wide variety of other projects.",
+    "url": "https://brightwavemedia.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sake Today is the world’s first regularly published sake magazine. It also features food and travel in Japan. Launched in January 2013, Sake Today is distributed quarterly in both print and digital formats, with subscribers in roughly two dozen countries.",
+    "url": "https://brightwavemedia.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Yokohama Seasider is a popular, bilingual magazine published monthly that aggregates general interest topics in Yokohama and the surrounding areas. The magazine is produced for Yokohama residents and visitors by a well-informed and highly connected local media team.",
+    "url": "https://brightwavemedia.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The Whisky & Spirits Journal Japan is a full-color, coffee table-style magazine in English published twice yearly. It is A4 size, 120-pages, and printed on high-quality matte paper with a glued spine. Its features are long-form journalistic pieces that provide in-depth interviews and commentary on the history, culture, and geography of the places where beverages are produced.",
+    "url": "https://brightwavemedia.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy Preference Center",
+    "url": "https://brightwavemedia.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave is the AI research platform built to help professionals understand the world's most complex problems.",
+    "url": "https://prospeo.io/c/brightwave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/brightwave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave has approximately",
+    "url": "https://prospeo.io/c/brightwave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/brightwave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/brightwave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/brightwave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/588809-89",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an artificial intelligence research platform designed to automate investment research and due diligence. The company specializes in processing large volumes of financial documents and data to generate structured insights and reports, enabling clients to uncover opportunities, assess risks, and make data-driven investment decisions.",
+    "url": "https://pitchbook.com/profiles/company/588809-89",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/588809-89",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/588809-89",
+    "pass": 3
+   },
+   {
+    "quote": "Private Equity-Backed",
+    "url": "https://pitchbook.com/profiles/company/588809-89",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/588809-89",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave’s primary industry is Financial Software.",
+    "url": "https://pitchbook.com/profiles/company/588809-89",
+    "pass": 3
+   },
+   {
+    "quote": "Is Brightwave a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/588809-89",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/588809-89",
+    "pass": 3
+   },
+   {
+    "quote": ", RepRisk, and",
+    "url": "https://pitchbook.com/profiles/company/588809-89",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/588809-89",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/588809-89",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/588809-89",
+    "pass": 3
+   },
+   {
+    "quote": "Energy Conservation, Energy Audits, Alternative And Advanced Fuels, Energy Program Development",
+    "url": "https://prospeo.io/c/brightwave-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave Energy is passionate about Sustainability. In the simplest of terms, that means \"Conservation + Green Fuels\". We use our Industry-proven Energy Elements to implement an aggressive Conservation Program. From there we work relentlessly on replacing a large percentage of your remaining fuels with \"Green\" Alternative and Advanced fuels.",
+    "url": "https://prospeo.io/c/brightwave-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Our focus is to reduce your cost. But while you asre enjoying the significant savings that our Programs provide, you will also have the satisfaction of knowing that your Carbon Footprint has been reduced as well.",
+    "url": "https://prospeo.io/c/brightwave-energy-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "A Brightwave account and an active subscription or enterprise license are required to use this companion add-in. Paid plans may be required. Enterprise users can obtain access through their organization administrator or by contacting Brightwave at sales@brightwave.io.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713",
+    "pass": 3
+   },
+   {
+    "quote": "A Brightwave account and an active subscription or enterprise license are required to use this companion add-in. Paid plans may be required. Enterprise users can obtain access through their organization administrator or by contacting Brightwave at sales@brightwave.io.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/brightwave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/588809-89",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/brightwave-energy-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AI×金融の最先端「Brightwave」企業分析・市場トレンド予測の新時代へ... — Feb 2, 2025 · Brightwaveの技術は、金融業界だけでなく、さまざまな分野で応用が可能です。 リスク管理の強化 企業が経営リスクを最小限に抑えるために、Brightwaveのデータ解析を活用できます。 法務リサーチ 規制変更やコンプライアンスのリスク分析にも応用可能です。",
+    "url": "https://generative-ai.co.jp/usecase/ai-startup-usecase-brightwave/",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave - Windows にダウンロードしてインストール | Microsoft S... — Brightwave is an AI research workspace for teams working with complex documents and projects. Use the Brightwave desktop app to open your Brightwave workspace, review project materials, and ask research questions across your documents. Brightwave helps summarize materials, identify themes, surface relevant source documents, and generate text-",
+    "url": "https://apps.microsoft.com/detail/xpfcj0k1n3d7l0?hl=ja-JP&gl=JP",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave | Microsoft Marketplace — Brightwave is a professional-grade AI research platform for in-depth research and analysis. This companion Office Add-in is for existing Brightwave users and brings Brightwave research agents into Excel, Word, and PowerPoint so you can analyze project documents, source claims, synthesize insights, and apply structured edits without leaving your ...",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave — Brightwave is a professional-grade AI research platform for in-depth research and analysis. This companion Office Add-in is for existing Brightwave users and brings Brightwave research agents into Excel, Word, and PowerPoint so you can analyze project documents, source claims, and synthesize insights without leaving your Office workflow. What you can do: Chat with AI research agents t",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/saas/wa200010713?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave — Brightwave builds compliance-ready infrastructure for AI agents.",
+    "url": "https://www.brightwave.io/",
+    "pass": 3
+   },
+   {
+    "quote": "About Brightwave — Learn what Brightwave is building: one system for AI-generated organic social content, human approval, posting, accounts, and performance.",
+    "url": "https://www.usebrightwave.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "BrightWave — We deliver next-generation LED lighting systems designed specifically for to provide powerful illumination, long-lasting performance, and intelligent control, all in a clean, architecturally seamless design.",
+    "url": "https://brightwave.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Bright Wave Media – Cutting Edge Multimedia — Bright Wave Media, Inc. is a Japan-based media company specializing in bilingual content production, marketing, and advertising. Our core strengths include magazine and one-off publishing (both print and digital), video production, and creative advertising campaigns that combine our many platforms together with events.",
+    "url": "https://brightwavemedia.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About – Bright Wave Media — About Us \"At Bright Wave Media, Inc., our creation of content for an array of media has been our passion for years.\" Bright Wave Media, founded in early 2008, is one of Japan’s most successful multi-media companies with bilingual services. Based in Yokohama, it produces several popular print and digital magazines, websites, and other media.",
+    "url": "https://brightwavemedia.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Premium Furniture case study - BRIGHTWAVE DIGITAL MARKETING — Home Case Studies Furniture Manufacturer Case Study · Furniture Manufacturing · B2B to B2C How a Furniture Manufacturer Moved from B2B Projects to Direct-to-Consumer Growth After 20+ years of project-based B2B work, our client, an established furniture manufacturer, saw its project pipeline slow down. Brightwave Digital Marketing led it",
+    "url": "https://brightwavedigitalmarketing.com/premium-furniture-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies Featuring The Brightwave Group as the Customer — Explore case studies featuring The Brightwave Group as the customer — learn how vendors and partners helped The Brightwave Group solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/brightwave-group",
+    "pass": 3
+   },
+   {
+    "quote": "Project Selection Strategies for BrightWave | PDF | Net ... — BrightWave Case Study - Free download as PDF File (.pdf), Text File (.txt) or read online for free. BrightWave Electronics is evaluating four potential projects for expansion in 2026, focusing on sustainability and profitability. The projects include a solar-powered charger, a smart light switch line, eco-friendly packaging, and a staff",
+    "url": "https://www.scribd.com/document/958993363/BrightWave-Case-Study",
+    "pass": 3
+   },
+   {
+    "quote": "The Brightwave Group - Customer Case Study — The Brightwave Group partnered with E Direct to solve key challenges. \"The Brightwave Group - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/e-direct/case-study/the-brightwave-group-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | BrightWave — Explore our portfolio of successful digital projects. See how BrightWave has helped businesses transform with custom websites, apps, and digital solutions.",
+    "url": "https://thebrightwave.co.uk/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave Revenue, Funding & Valuation - prospeo.io — Brightwave has revenue of $1,711,100, estimated valuation of $5,500,000, $21,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/brightwave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave 2026 Company Profile: Valuation, Funding ... — Brightwave FAQs When was Brightwave founded? Brightwave was founded in 2019. Where is Brightwave headquartered? Brightwave is headquartered in Boulder, CO. What is the size of Brightwave? Brightwave has 35 total employees. What industry is Brightwave in? Brightwave’s primary industry is Financial Software. Is Brightwave a private or public ",
+    "url": "https://pitchbook.com/profiles/company/588809-89",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave Energy Revenue, Funding & Valuation - prospeo.io — Brightwave Energy has revenue of $13,900,000, estimated valuation of $44,500,000. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/brightwave-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave - 2026 Company Profile, Team, Funding ... - TracxnBrightwave - Financials, Funding, Investors, AcquisitionsBrightWave – Performance Metrics & Competitor Intelligence – 2026Brightwave Group – Valuation, Revenue & Market Scope – 2026 — May 2, 2026 · Brightwave is a series A company based in Boulder (United States), founded in 2023 by Mike Conover and Brandon Kotara. It operates as an AI-b",
+    "url": "https://tracxn.com/d/companies/brightwave/__0-YFrk782HiMd6vgSpQxlcrXZNqxBFEAqiQbHqD6F3E",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave - Financials, Funding, Investors, Acquisitions — Funding Data Dive into Brightwave’s funding data, including significant investment rounds, funding trends, total capital raised, and key backers, to understand Brightwave’s investor confidence and growth trajectory.",
+    "url": "https://www.zoominfo.com/financial/brightwave-inc/1326231909",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Bright Wave Media, Inc. is a Japan-based media company specializing in bilingual content production, marketing, and advertising. Our core strengths include magazine and one-off publishing (both print and digital), video production, and creative advertising campaigns that combine our many platforms together with events.",
+    "url": "https://brightwavemedia.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our English and bilingual magazines are among the most widely read in Japan's food, beverage, and travel industries.",
+    "url": "https://brightwavemedia.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We produce high-quality videos for cities in Japan, as well as the food, beverage, and travel industries.",
+    "url": "https://brightwavemedia.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sake Today is the world’s first regularly published sake magazine. It also features food and travel in Japan. Launched in January 2013, Sake Today is distributed quarterly in both print and digital formats, with subscribers in roughly two dozen countries.",
+    "url": "https://brightwavemedia.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The Whisky & Spirits Journal Japan is a full-color, coffee table-style magazine in English published twice yearly. It is A4 size, 120-pages, and printed on high-quality matte paper with a glued spine. Its features are long-form journalistic pieces that provide in-depth interviews and commentary on the history, culture, and geography of the places where beverages are produced.",
+    "url": "https://brightwavemedia.com/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Social media is an important and growing part of our marketing. We are active primarily on Instagram, Facebook, and Twitter.",
+    "url": "https://brightwavemedia.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/brightwave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Brightwave",
+    "url": "https://prospeo.io/c/brightwave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/brightwave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/brightwave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/brightwave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Brightwave?",
+    "url": "https://prospeo.io/c/brightwave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/brightwave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/brightwave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/brightwave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Brightwave have?",
+    "url": "https://prospeo.io/c/brightwave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/brightwave-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave has 35 total employees.",
+    "url": "https://pitchbook.com/profiles/company/588809-89",
+    "pass": 3
+   },
+   {
+    "quote": "What is Brightwave’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/588809-89",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Brightwave is",
+    "url": "https://pitchbook.com/profiles/company/588809-89",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave Energy Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/brightwave-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave Energy Revenue",
+    "url": "https://prospeo.io/c/brightwave-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Brightwave Energy",
+    "url": "https://prospeo.io/c/brightwave-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/brightwave-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/brightwave-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Brightwave Energy?",
+    "url": "https://prospeo.io/c/brightwave-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave Energy generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/brightwave-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/brightwave-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/brightwave-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Brightwave Energy have?",
+    "url": "https://prospeo.io/c/brightwave-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/brightwave-energy-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Success Stories about Software and Services used by The Brightwave Group",
+    "url": "https://www.casestudies.com/customer/brightwave-group",
+    "pass": 3
+   },
+   {
+    "quote": "The Brightwave Group - Customer Case Study",
+    "url": "https://www.casestudies.com/customer/brightwave-group",
+    "pass": 3
+   },
+   {
+    "quote": "E Direct Case Study: The Brightwave Group – The Brightwave Group - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/e-direct/case-study/the-brightwave-group-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The Brightwave Group - Customer Case Study",
+    "url": "https://www.casestudies.com/company/e-direct/case-study/the-brightwave-group-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how The Brightwave Group used E Direct",
+    "url": "https://www.casestudies.com/company/e-direct/case-study/the-brightwave-group-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/e-direct/case-study/the-brightwave-group-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/e-direct/case-study/the-brightwave-group-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "As partners in this work, we help guide your Plant Resources through every step of the Process to insure the maximum benefit. All of the tools that are required are provided for your use and will be accessible through both your Lead Consultant and our Website Portal.And as Partners, we also provide the Coaching and Development of your Energy Leaders for their continued Success.",
+    "url": "https://prospeo.io/c/brightwave-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "While at Procter & Gamble, Paul was the \"Global Energy - CO2 Leader\", where he led and coordinated the Energy Conservation efforts across all of Procter & Gamble's manufacturing Plants. The tools and knowledge that he developed there lay the foundation for Brightwave Energy today.",
+    "url": "https://prospeo.io/c/brightwave-energy-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Brightwave (@brightwaveio) / Posts / X Brightwave already runs on desktop, mobile, and inside Word and Teams. The browser is the latest surface. Brightwave, wherever work gets done. Get it today:",
+    "url": "https://x.com/brightwaveio",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave Psychiatry PLLC (@Brightwavepsych) / X ☀️ Good morning from Brightwave Psychiatry, PLLC! A gentle reminder: You don’t have to figure everything out today. Take a breath, focus on one small step, and give yourself grace. 💙 Your mental health matters, and reaching out for support is a sign of strength!",
+    "url": "https://x.com/Brightwavepsych",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave (@Brighterwav3) / X I switched from Windows to Mac and missed one thing every day: Win+V. So I built it. WinV is a free, open-source clipboard manager for macOS: ⌥+V opens your clipboard history right at your cursor. ⌘1–9 to paste. Pins, drag to reorder, Liquid Glass UI. What would you add? 👇 00:00 1 1 1 4 Brightwave @Brighterwav3 Sep 25",
+    "url": "https://x.com/Brighterwav3",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave Ent. (@BrightwaveEnt) / X Brightwave aims to start a wave of light and positivity in today's culture by supporting and enabling artists with a greater purpose. Home of @thelocketsmusic.",
+    "url": "https://x.com/brightwaveent",
+    "pass": 3
+   },
+   {
+    "quote": "Brightwave (@brightwaveio) / Posts / X Jun 4, 2023 · Brightwave is the AI research platform built to help professionals understand the world's most complex problems.",
+    "url": "https://x.com/brightwaveio",
+    "pass": 3
+   },
+   {
+    "quote": "@brightwave | X The latest posts from @brightwave",
+    "url": "https://x.com/brightwave",
+    "pass": 3
+   },
+   {
+    "quote": "BrightWave Labs (@BrightWaveLabs) / Posts / X May 1, 2023 · BrightWave Labs (@BrightWaveLabs) - Posts - | X (formerly Twitter) 🔐 Excited to share our latest article on #HashicorpVault, a powerful tool for secure data management! 🚀 In this article, We dive into the fundamentals of Vault and its architecture, shedding light on how it safeguards sensitive information. #CyberSecurity #DataProtection",
+    "url": "https://x.com/BrightWaveLabs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Brightwave - LinkedIn Brightwave | 6,061 followers on LinkedIn. Infrastructure for safely connecting AI agents to the systems, tools and data where work happens. | Brightwave controls the boundary between AI agents and ...",
+    "url": "https://www.linkedin.com/company/brightwaveio",
+    "pass": 3
+   },
+   {
+    "quote": "BrightWave - LinkedIn BrightWave | 838 followers on LinkedIn. Opening new global markets for algae-based feedstocks | BrightWave is an innovative startup that has patented internally illuminated photobioreactors (PBR's ...",
+    "url": "https://www.linkedin.com/company/brightwave-partners",
+    "pass": 3
+   },
+   {
+    "quote": "BrightWave Software | LinkedIn BrightWave Software IT Services and IT Consulting Thane, Maharashtra 14 followers Custom Software Development & Cybersecurity Solutions for Growing Businesses. About us At 𝗕𝗿𝗶𝗴𝗵𝘁𝗪𝗮𝘃𝗲 Software, we believe technology should fit the business—not the other way around.",
+    "url": "https://in.linkedin.com/company/brightwave-software",
+    "pass": 3
+   },
+   {
+    "quote": "BrightWave Technologies (Pty) Ltd - LinkedIn BrightWave Technologies (Pty) Ltd is 100% empowered new age specialist metro broadband network and access service provider that is focused on building broadband infrastructure for the Smart Cities of tomorrow. Our aim is to build infrastructure that allows for the delivery of high speed broadband access and services that are available and affordable to ",
+    "url": "https://za.linkedin.com/company/brightwave-technologies-ptyy-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "Tim Shaw - Co-Founder and President, BrightWave | LinkedInMike Conover, CEO & Co-Founder of Brightwave: $6M Raised to ...Mike Conover | Founder and CEO - Brightwave | Forbes ...Brightwave - LinkedIn Co-Founder and President, BrightWave · I’ve delivered exceptional results in hyper-competitive markets throughout my career. While at UPS, I led two successful contract negotiations with its ... Mike C",
+    "url": "https://www.linkedin.com/in/timshaw01",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "BrightWave, an Ansira company | Atlanta GA - FacebookBrightWave Pain Therapy | Ada MI - FacebookBrightWave Myofascial Release | Oswego IL - FacebookBrightWave - FacebookBrightWave Solar - FacebookBrightWave - FacebookBrightWave Media - Facebook BrightWave, an Ansira company, is the leading email & eCRM agency. With over 15 years of experience, BrightWave elevates eCRM and cross-channel programs th",
+    "url": "https://www.facebook.com/BrightWave/",
+    "pass": 3
+   },
+   {
+    "quote": "BrightWave Pain Therapy | Ada MI - Facebook Brightwave laser treatments is a infrared laser which penetrates deep right down to the soft tissue. The laser pumps in Oxygen which creates more blood flow to the area and bio stimulates natural tissue growth and repair. Improves range of motion and reduces inflammation.",
+    "url": "https://www.facebook.com/BrightWavePainTherapy/",
+    "pass": 3
+   },
+   {
+    "quote": "BrightWave Myofascial Release | Oswego IL - Facebook BrightWave Myofascial Release, Oswego. 274 followers · 10 talking about this · 78 were here. At BrightWave MFR, I’m dedicated to helping you achieve optimal health and wellness through myofascial...",
+    "url": "https://www.facebook.com/brightwavemfr/",
+    "pass": 3
+   },
+   {
+    "quote": "BrightWave - Facebook Nov 28, 2024 · BrightWave. 164 followers. Digital growth experts! We drive engagement, boost traffic, and elevate your brand. Let's make waves together!",
+    "url": "https://www.facebook.com/Brightwaveofficial/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.brightwave.io/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://generative-ai.co.jp/usecase/ai-startup-usecase-brightwave/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.microsoft.com/detail/xpfcj0k1n3d7l0?hl=ja-JP&gl=JP",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200010713?tab=overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E7%94%B0%E6%AD%A6%E5%BF%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bright.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bluewave.net/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.usebrightwave.com/about",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://brightwave.tech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brightwavemedia.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brightwavedigitalmarketing.com/premium-furniture-case-study/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/brightwave-group",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scribd.com/document/958993363/BrightWave-Case-Study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/e-direct/case-study/the-brightwave-group-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/brightwave-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/588809-89",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/brightwave-energy-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/brightwave/__0-YFrk782HiMd6vgSpQxlcrXZNqxBFEAqiQbHqD6F3E",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/brightwaveio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Brightwavepsych",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Brighterwav3",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/brightwaveent",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/brightwaveio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/brightwave-partners",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/brightwave-software",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://za.linkedin.com/company/brightwave-technologies-ptyy-ltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/BrightWave/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/BrightWavePainTherapy/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/brightwavemfr/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Brightwaveofficial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/timshaw01",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/brightwaveio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Brightwavepsych",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/brightwave",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BrightWaveLabs",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Brightwave 日本 導入",
+   "results": [
+    "https://generative-ai.co.jp/usecase/ai-startup-usecase-brightwave/",
+    "https://apps.microsoft.com/detail/xpfcj0k1n3d7l0?hl=ja-JP&gl=JP",
+    "https://marketplace.microsoft.com/ja-jp/product/wa200010713",
+    "https://marketplace.microsoft.com/ja-jp/product/saas/wa200010713?tab=overview",
+    "https://www.brightwave.io/",
+    "https://brightwavemedia.com/",
+    "https://note.com/kaiteki_tv/n/n07ab69f07bdb"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Brightwave 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/黒田武志",
+    "https://www.brightwave.io/",
+    "https://bright.co.jp/",
+    "https://bluewave.net/",
+    "https://bluewavesgroup.com/",
+    "https://ja.nozominetworks.com/company",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Brightwave Japan",
+   "results": [
+    "https://www.brightwave.io/",
+    "https://www.usebrightwave.com/about",
+    "https://brightwave.tech/",
+    "https://brightwavemedia.com/",
+    "https://brightwavemedia.com/about/",
+    "https://www.linkedin.com/company/bright-wave-media",
+    "https://brightwave.tech/about-us/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Brightwave manufacturing customer case study",
+   "results": [
+    "https://brightwavedigitalmarketing.com/premium-furniture-case-study/",
+    "https://www.casestudies.com/customer/brightwave-group",
+    "https://www.scribd.com/document/958993363/BrightWave-Case-Study",
+    "https://www.casestudies.com/company/e-direct/case-study/the-brightwave-group-customer-case-study",
+    "https://thebrightwave.co.uk/case-studies",
+    "https://brightwavedigitalmarketing.com/premium-footwear-brand-case-study/",
+    "https://brightwavetech.com/work"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Brightwave white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Brightwave founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/brightwave-revenue",
+    "https://pitchbook.com/profiles/company/588809-89",
+    "https://prospeo.io/c/brightwave-energy-revenue",
+    "https://tracxn.com/d/companies/brightwave/__0-YFrk782HiMd6vgSpQxlcrXZNqxBFEAqiQbHqD6F3E",
+    "https://www.zoominfo.com/financial/brightwave-inc/1326231909",
+    "https://compworth.com/company/brightwave",
+    "https://compworth.com/company/brightwave-group"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Brightwave",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/",
+    "https://note.com/tag/秋冬ファッション",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Brightwave",
+   "results": [
+    "https://x.com/brightwaveio",
+    "https://x.com/Brightwavepsych",
+    "https://x.com/Brighterwav3",
+    "https://x.com/brightwaveent",
+    "https://x.com/BrightWave_ZA",
+    "https://x.com/brightwavepro",
+    "https://x.com/BrightWaveLabs"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Brightwave",
+   "results": [
+    "https://www.linkedin.com/company/brightwaveio",
+    "https://www.linkedin.com/company/brightwave-partners",
+    "https://in.linkedin.com/company/brightwave-software",
+    "https://za.linkedin.com/company/brightwave-technologies-ptyy-ltd",
+    "https://lk.linkedin.com/company/bright-wave-innovations-pvt-ltd",
+    "https://uk.linkedin.com/in/gideon-gold-6bab01383",
+    "https://ca.linkedin.com/in/elvira-sakara-87584045"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Brightwave",
+   "results": [
+    "https://www.facebook.com/BrightWave/",
+    "https://www.facebook.com/BrightWavePainTherapy/",
+    "https://www.facebook.com/brightwavemfr/",
+    "https://www.facebook.com/Brightwaveofficial/",
+    "https://www.facebook.com/Brightwavesolar/",
+    "https://www.facebook.com/BrightWaveBand/",
+    "https://www.facebook.com/p/BrightWave-Media-61584054331195/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Brightwave note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.linkedin.com/in/timshaw01",
+    "https://www.frontlines.io/podcasts/mike-conover/",
+    "https://councils.forbes.com/profile/Mike-Conover-Founder-CEO-Brightwave/d2312a6b-e5a2-4139-9517-73e4edc264d7",
+    "https://www.linkedin.com/company/brightwaveio",
+    "https://brightwavemedia.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Brightwave X 投稿",
+   "results": [
+    "https://x.com/brightwaveio",
+    "https://x.com/Brightwavepsych",
+    "https://x.com/brightwave",
+    "https://x.com/BrightWaveLabs",
+    "https://x.com/ej_growth_guy",
+    "https://x.com/Brighterwav3",
+    "https://x.com/Brighterwav3/reposts"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

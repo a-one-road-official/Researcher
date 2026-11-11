@@ -1,0 +1,838 @@
+{
+ "name": "Turno",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜状態なし",
+ "researched_at": "2026-11-11T06:21:08.516086+00:00",
+ "official_url": "https://www.turno.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$4,500,000",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Honolulu, Hawaii, United States",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "label": "HQ",
+    "value": "Honolulu, HI, USA",
+    "url": "https://startupintros.com/orgs/turno",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2016",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2016",
+    "url": "https://startupintros.com/orgs/turno",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "Who We Work With | Turno Industry Partners & Integrations — Discover Turno’s integrations with leading property management systems, channel managers, and OTAs. Connect with industry partners to streamline short-term rental operations.",
+    "url": "https://turno.com/integrations/",
+    "pass": 3
+   },
+   {
+    "quote": "CoreVoice — Turno Case Study — Tried different SKU sizes, geographies, customer segments, pain points, etc. Ran ads again. Every cohort of early leads taught us something new about customer behaviour. Our research on how BESS was being sold across the world mixed with early customer insights helped Turno BESS team form a clear product-market-pricing thesis.",
+    "url": "https://corevoice.in/case-studies/turnovolt/",
+    "pass": 3
+   },
+   {
+    "quote": "How Turno Turned Mountains of Customer Data into Guest ... — Discover how Turno used HubSpot's Connector for Claude to transform customer data into proactive action, driving 30% NRR growth, 2% monthly retention gains, and a 5% conversion lift for 50K+ vacation rental hosts.",
+    "url": "https://www.hubspot.com/case-studies/how-turno-turned-mountains-of-customer-data-into-guest-experiences-that-actually-deliver-with-hubspots-connector-for-claude",
+    "pass": 3
+   },
+   {
+    "quote": "Growth Strategy for Turno-Case Study: Scaling Revenue ... — Smital Kamdi Mar 30, 2025 0 min read Rated NaN out of 5 stars.",
+    "url": "https://smitalkamdi.wixsite.com/productmanagement/post/growth-strategy-for-turno-case-study-scaling-revenue-optimizing-customer-experience",
+    "pass": 3
+   },
+   {
+    "quote": "Turno Revenue, Funding & Valuation - prospeo.ioTurno - 2026 Company Profile, Team, Funding & Competitors ...Turno: Funding, Team & Investors | Startup IntrosTurno - Products, Competitors, Financials, Employees ...Turno formerly TurnoverBnB – Strategic Position & Company Metr…Turno — Company Profile | The Company CheckTurno Stock Price, Funding, Valuation, Revenue & Financial ... — Turno has revenu",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Turno - 2026 Company Profile, Team, Funding & Competitors ...Turno: Funding, Team & Investors | Startup IntrosTurno - Products, Competitors, Financials, Employees ...Turno formerly TurnoverBnB – Strategic Position & Company Metr…Turno — Company Profile | The Company CheckTurno Stock Price, Funding, Valuation, Revenue & Financial ... — Mar 21, 2026 · Turno is a series A company based in Honolulu (U",
+    "url": "https://tracxn.com/d/companies/turno/__hjMq3-IG7mXK3g2iKmdLI1ailctUyHYDrcZ7CC3mIw0",
+    "pass": 3
+   },
+   {
+    "quote": "Turno: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Turno was founded in 2017 by Assaf Karmon, a software engineer and Airbnb host who experienced the pain of cleaning coordination firsthand—realizing it dominated 90% of rental management time.",
+    "url": "https://startupintros.com/orgs/turno",
+    "pass": 3
+   },
+   {
+    "quote": "Turno - Products, Competitors, Financials, Employees ... — Turno Frequently Asked Questions (FAQ) When was Turno founded? Turno was founded in 2016. Where is Turno's headquarters? Turno's headquarters is located at 1003 Bishop Street, Honolulu. What is Turno's latest funding round? Turno's latest funding round is Series A - III. How much did Turno raise? Turno raised a total of $16.09M.",
+    "url": "https://www.cbinsights.com/company/turnoverbnb",
+    "pass": 3
+   },
+   {
+    "quote": "Turno formerly TurnoverBnB – Strategic Position & Company Metr… — About This Data Revenue, valuation, and funding figures for Turno formerly TurnoverBnB are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods. Employee counts are derived from professional networks and company disclosure",
+    "url": "https://compworth.com/company/turno-formerly-turnoverbnb",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "Turno has come to see CoreVoice as the team you bring in for early-stage growth hacking - the stage where startups have a hunch but nothing is proven yet, and a team has to figure out what will work. In early 2026, the CEO called us again, this time for",
+    "url": "https://corevoice.in/case-studies/turnovolt/",
+    "pass": 3
+   },
+   {
+    "quote": "In effect, CoreVoice was Turno's product marketing team, its digital marketing team, and its data team, all at the same time. And our goal was to help Turno sell its first MWh. Our teams reported to the BESS BU head and we worked as his core team.",
+    "url": "https://corevoice.in/case-studies/turnovolt/",
+    "pass": 3
+   },
+   {
+    "quote": "In the early stages of a product's journey, startups fight multiple battles and things are uncertain across the board - strategy, product, sales, marketing. The minimum requirement for success is that all teams have to be outcome focussed. That's what we were able to bring to the table - how do we work with everyone else to get to that damn goal.",
+    "url": "https://corevoice.in/case-studies/turnovolt/",
+    "pass": 3
+   },
+   {
+    "quote": "Got a product with no market yet, and a number to hit?",
+    "url": "https://corevoice.in/case-studies/turnovolt/",
+    "pass": 3
+   },
+   {
+    "quote": "When a vacation rental host books a cleaner through Turno, they're not just checking a box. They're making a promise to a guest they've never met, arriving at a property they may be managing remotely, that the space will be spotless, welcoming, and ready. That promise lives or dies in the hours between checkout and check-in.",
+    "url": "https://www.hubspot.com/case-studies/how-turno-turned-mountains-of-customer-data-into-guest-experiences-that-actually-deliver-with-hubspots-connector-for-claude",
+    "pass": 3
+   },
+   {
+    "quote": "That pressure landed on Chris Rule, VP of Customer Experience, who oversees sales, customer success, support, and operations at Turno. His team of seven CSMs and four activation specialists managed roughly 50,000 active hosts and over 126,000 contractors, with 4,000 to 5,000 new host signups arriving every month.",
+    "url": "https://www.hubspot.com/case-studies/how-turno-turned-mountains-of-customer-data-into-guest-experiences-that-actually-deliver-with-hubspots-connector-for-claude",
+    "pass": 3
+   },
+   {
+    "quote": "\"Your biggest customers are actually really unhappy with your fees, but they really like your software and support,\" Chris recalled. \"Your smallest customers are really confused about the software. Those insights helped us build out more robust voice-of-the-customer programs and feedback loops back to our product team.\"",
+    "url": "https://www.hubspot.com/case-studies/how-turno-turned-mountains-of-customer-data-into-guest-experiences-that-actually-deliver-with-hubspots-connector-for-claude",
+    "pass": 3
+   },
+   {
+    "quote": "The practical result was immediate: Turno built a contracts and negotiated pricing program for its largest hosts, something the company had never done before. \"We would never have had contracts across our biggest customers without that level of NPS and churn data that didn't exist until we got curious with AI,\" Chris said.",
+    "url": "https://www.hubspot.com/case-studies/how-turno-turned-mountains-of-customer-data-into-guest-experiences-that-actually-deliver-with-hubspots-connector-for-claude",
+    "pass": 3
+   },
+   {
+    "quote": "For Turno's hosts, the most meaningful change isn't visible. It's the outreach that arrives at exactly the right moment, from a CSM who already understands their portfolio. Turno is now building the proactive model its mission demands: catching problems before they become churn, identifying opportunity before it becomes someone else's win.",
+    "url": "https://www.hubspot.com/case-studies/how-turno-turned-mountains-of-customer-data-into-guest-experiences-that-actually-deliver-with-hubspots-connector-for-claude",
+    "pass": 3
+   },
+   {
+    "quote": "Turno achieved this without adding headcount. The CS team has stayed flat across two years of growth. The leverage came not from more people, but from deploying the right people against the problems that actually matter.",
+    "url": "https://www.hubspot.com/case-studies/how-turno-turned-mountains-of-customer-data-into-guest-experiences-that-actually-deliver-with-hubspots-connector-for-claude",
+    "pass": 3
+   },
+   {
+    "quote": "For a team that was always stretched relative to the volume it managed, that's not just an efficiency story. It's a story about what becomes possible when the right host gets reached at the right time, so they can keep making their promise to every guest counting on them.",
+    "url": "https://www.hubspot.com/case-studies/how-turno-turned-mountains-of-customer-data-into-guest-experiences-that-actually-deliver-with-hubspots-connector-for-claude",
+    "pass": 3
+   },
+   {
+    "quote": "Turno solves cleaning for the short-term rental industry. Formerly TurnoverBnB, Turno helps vacation rental hosts and property management companies simplify and automate recurring property services like cleaning. STR operators schedule, find, manage, and pay for turnover services – all on one easy-to-use, reliable platform.",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "With separate mobile apps for hosts and cleaners, Turno syncs guest calendars from all major booking platforms and 20+ channel managers and property management systems. Offering 24/7 live customer support and available in six languages, features include auto scheduling, auto payment, in-app chat, and robust tools to improve efficiencies and ensure quality cleans every time.",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Unique in the industry, Turno’s localized, vetted Cleaner Marketplaces include 25K+ STR cleaners across the United States, Canada, Europe, and beyond. Vacation rental operators can invite their current service providers to the platform as well as find and connect with experienced Marketplace cleaners.",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2016 for short-term rental operators, Turno has grown to be a globally distributed team of over 120 employees across 6 countries. Our team is dedicated to building a product people love, while sustaining a culture that celebrates our people and fosters personal and professional growth.",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Turno has approximately",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Turno provides a software platform automating cleaning and turnover services for the short-term rental industry. It allows vacation rental operators to efficiently schedule, manage, and compensate service providers. Dedicated mobile applications integrate with booking channels for automated scheduling, payments, and a robust Cleaner Marketplace.",
+    "url": "https://startupintros.com/orgs/turno",
+    "pass": 3
+   },
+   {
+    "quote": "Assaf Karmon, CEO, and Tim Roy, COO, co-founded Turno in 2016. Their insight aimed to streamline the complex process of managing short-term rental turnovers. By connecting local cleaning professionals with operators and optimizing the workflow, they empower operators to focus on business growth.",
+    "url": "https://startupintros.com/orgs/turno",
+    "pass": 3
+   },
+   {
+    "quote": "The company serves vacation rental hosts, property management firms, and independent cleaning professionals. Turno's mission is to resolve cleaning challenges within the short-term rental sector. It strives to enhance professional standards and global cleanliness for the industry, fostering beneficial partnerships.",
+    "url": "https://startupintros.com/orgs/turno",
+    "pass": 3
+   },
+   {
+    "quote": ": \"Management by exception\" auto-generates cleaning projects from synced calendars (e.g., Airbnb), assigns cleaners, and handles payments in 26 currencies—saving users over 40 hours yearly on transactions alone.[2][4][7]",
+    "url": "https://startupintros.com/orgs/turno",
+    "pass": 3
+   },
+   {
+    "quote": ": Vast network of vetted cleaners with mobile apps for in-app chat, photo checklists, problem reporting, and quality assurance; supports additional services like linen delivery or pool cleaning.[1][4][5]",
+    "url": "https://startupintros.com/orgs/turno",
+    "pass": 3
+   },
+   {
+    "quote": ": AI bots resolve common queries instantly (trained on help articles), escalating complex issues to live 24/7 support; upcoming auto-maintenance project generation from cleaner reports.[2]",
+    "url": "https://startupintros.com/orgs/turno",
+    "pass": 3
+   },
+   {
+    "quote": ": Syncs with booking platforms, centralizes teams/contractors, and offers user-friendly interfaces for hosts and cleaners—prioritizing speed, reliability, and data security over fragmented tools.[5][7]",
+    "url": "https://startupintros.com/orgs/turno",
+    "pass": 3
+   },
+   {
+    "quote": "Turno rides the explosive growth of short-term rentals, fueled by platforms like Airbnb and post-pandemic travel surges, where operational efficiency is key to scaling amid labor shortages and rising demand.[1][2] Its timing aligns perfectly with STR market maturation—hosts managing 10+ properties need automation to treat rentals as passive income, not manual labor.[2][4]",
+    "url": "https://startupintros.com/orgs/turno",
+    "pass": 3
+   },
+   {
+    "quote": "Turno is poised to dominate STR operations as vacation rentals expand globally, with AI-driven expansions like predictive maintenance and broader service automation (e.g., trash/pool) set to make it indispensable.[2] Trends like rising travel tech investment and labor automation will accelerate its trajectory, potentially pushing toward Series B and international scaling.[1]",
+    "url": "https://startupintros.com/orgs/turno",
+    "pass": 3
+   },
+   {
+    "quote": "softwarefinder.com/property-management-software/turno",
+    "url": "https://startupintros.com/orgs/turno",
+    "pass": 3
+   },
+   {
+    "quote": "Turno - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/turnoverbnb",
+    "pass": 3
+   },
+   {
+    "quote": "The Mosaic Score is an algorithm that measures the overall financial health and market potential of private companies.",
+    "url": "https://www.cbinsights.com/company/turnoverbnb",
+    "pass": 3
+   },
+   {
+    "quote": "The travel tech collection includes companies offering tech-enabled services and products for tourists and travel players (hotels, airlines, airports, cruises, etc.). It excludes financial services and micro-mobility solutions.",
+    "url": "https://www.cbinsights.com/company/turnoverbnb",
+    "pass": 3
+   },
+   {
+    "quote": "EV-focused fintech startup Turno to raise $5.5 Mn in pre-Series B",
+    "url": "https://www.cbinsights.com/company/turnoverbnb",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 22, 2024",
+    "url": "https://www.cbinsights.com/company/turnoverbnb",
+    "pass": 3
+   },
+   {
+    "quote": "Pros and cons of the latest side gigs for cleaners and gamers",
+    "url": "https://www.cbinsights.com/company/turnoverbnb",
+    "pass": 3
+   },
+   {
+    "quote": "Jurny Attracts Industry Heavyweights with its Next-Generation AI-Powered Property Management Platform",
+    "url": "https://www.cbinsights.com/company/turnoverbnb",
+    "pass": 3
+   },
+   {
+    "quote": "Competitors of Turno include HostEasy, Proptonomy, Atlia, Fairly, SuiteOp and 7 more.",
+    "url": "https://www.cbinsights.com/company/turnoverbnb",
+    "pass": 3
+   },
+   {
+    "quote": "Cleanster provides cleaning services including short-term rental cleaning, apartment and house cleaning, office cleaning, and deep cleaning. The company serves the property management and real estate sectors, connecting property managers with cleaning professionals. Cleanster was formerly known as TIDY app. It was founded in 2019 and is based in San Francisco, California.",
+    "url": "https://www.cbinsights.com/company/turnoverbnb",
+    "pass": 3
+   },
+   {
+    "quote": "Sweetguest manages short-term rentals, providing services that include handling reservations, guest check-ins and check-outs, and offering laundry and cleaning services. They serve property owners in the short-term rental market. It was founded in 2016 and is based in Milan, Italy.",
+    "url": "https://www.cbinsights.com/company/turnoverbnb",
+    "pass": 3
+   },
+   {
+    "quote": "Vacasa is a vacation rental management company within the real estate sector. The company provides property management services, including booking, maintenance, and homeowner support, along with a platform for guests to find and book vacation rentals. Vacasa serves the vacation rental market, addressing the needs of homeowners and travelers. It was founded in 2009 and is based in Portland, Oregon.",
+    "url": "https://www.cbinsights.com/company/turnoverbnb",
+    "pass": 3
+   },
+   {
+    "quote": "permits us to improve and customize your experience. You can read more about your",
+    "url": "https://www.cbinsights.com/company/turnoverbnb",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "CoreVoice — Turno Case Study",
+    "url": "https://corevoice.in/case-studies/turnovolt/",
+    "pass": 3
+   },
+   {
+    "quote": "Clean Tech Manufacturing",
+    "url": "https://corevoice.in/case-studies/turnovolt/",
+    "pass": 3
+   },
+   {
+    "quote": "Turno solves cleaning for the short-term rental industry. Formerly TurnoverBnB, Turno helps vacation rental hosts and property management companies simplify and automate recurring property services like cleaning. STR operators schedule, find, manage, and pay for turnover services – all on one easy-to-use, reliable platform.",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Unique in the industry, Turno’s localized, vetted Cleaner Marketplaces include 25K+ STR cleaners across the United States, Canada, Europe, and beyond. Vacation rental operators can invite their current service providers to the platform as well as find and connect with experienced Marketplace cleaners.",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2016 for short-term rental operators, Turno has grown to be a globally distributed team of over 120 employees across 6 countries. Our team is dedicated to building a product people love, while sustaining a culture that celebrates our people and fosters personal and professional growth.",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Turno provides a software platform automating cleaning and turnover services for the short-term rental industry. It allows vacation rental operators to efficiently schedule, manage, and compensate service providers. Dedicated mobile applications integrate with booking channels for automated scheduling, payments, and a robust Cleaner Marketplace.",
+    "url": "https://startupintros.com/orgs/turno",
+    "pass": 3
+   },
+   {
+    "quote": "Assaf Karmon, CEO, and Tim Roy, COO, co-founded Turno in 2016. Their insight aimed to streamline the complex process of managing short-term rental turnovers. By connecting local cleaning professionals with operators and optimizing the workflow, they empower operators to focus on business growth.",
+    "url": "https://startupintros.com/orgs/turno",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "When a vacation rental host books a cleaner through Turno, they're not just checking a box. They're making a promise to a guest they've never met, arriving at a property they may be managing remotely, that the space will be spotless, welcoming, and ready. That promise lives or dies in the hours between checkout and check-in.",
+    "url": "https://www.hubspot.com/case-studies/how-turno-turned-mountains-of-customer-data-into-guest-experiences-that-actually-deliver-with-hubspots-connector-for-claude",
+    "pass": 3
+   },
+   {
+    "quote": "At Turno's scale, the margin for error is thin. Hosts who feel unsupported don't just cancel. They lose bookings, earn bad reviews, and see their revenue evaporate. But as the platform grew, one hard question kept surfacing: with tens of thousands of hosts cycling in and out every month, how do you know which customer actually needs help right now?",
+    "url": "https://www.hubspot.com/case-studies/how-turno-turned-mountains-of-customer-data-into-guest-experiences-that-actually-deliver-with-hubspots-connector-for-claude",
+    "pass": 3
+   },
+   {
+    "quote": "That pressure landed on Chris Rule, VP of Customer Experience, who oversees sales, customer success, support, and operations at Turno. His team of seven CSMs and four activation specialists managed roughly 50,000 active hosts and over 126,000 contractors, with 4,000 to 5,000 new host signups arriving every month.",
+    "url": "https://www.hubspot.com/case-studies/how-turno-turned-mountains-of-customer-data-into-guest-experiences-that-actually-deliver-with-hubspots-connector-for-claude",
+    "pass": 3
+   },
+   {
+    "quote": "For Turno's hosts, the most meaningful change isn't visible. It's the outreach that arrives at exactly the right moment, from a CSM who already understands their portfolio. Turno is now building the proactive model its mission demands: catching problems before they become churn, identifying opportunity before it becomes someone else's win.",
+    "url": "https://www.hubspot.com/case-studies/how-turno-turned-mountains-of-customer-data-into-guest-experiences-that-actually-deliver-with-hubspots-connector-for-claude",
+    "pass": 3
+   },
+   {
+    "quote": "Turno Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Turno",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2016 for short-term rental operators, Turno has grown to be a globally distributed team of over 120 employees across 6 countries. Our team is dedicated to building a product people love, while sustaining a culture that celebrates our people and fosters personal and professional growth.",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Turno?",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Turno generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Turno have?",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Turno - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/turnoverbnb",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/turno-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "la turno (@sustinlaturno) / Posts / X la turno (@sustinlaturno) - Posts - january is mine. | X (formerly Twitter)",
+    "url": "https://x.com/sustinlaturno",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Turno - LinkedIn Turno is the operating system behind modern short-term rental turnovers. Short-term rental operators face a constant operational challenge: finding reliable cleaning professionals, coordinating ...",
+    "url": "https://www.linkedin.com/company/theturnoapp",
+    "pass": 3
+   },
+   {
+    "quote": "Director of Business Development & Partnerships at Turno ... Apply for Director of Business Development & Partnerships at Turno in United States. Full-time Not Applicable role. See responsibilities, qualifications, and similar jobs on LinkedIn.",
+    "url": "https://www.linkedin.com/jobs/view/director-of-business-development-partnerships-at-turno-4433061836",
+    "pass": 3
+   },
+   {
+    "quote": "Field Service Technician at People at Turno — Bengaluru ... Oct 19, 2026 · Apply for Field Service Technician at People at Turno in Bengaluru, Karnataka, India. Full-time Associate role. See responsibilities, qualifications, and similar jobs on LinkedIn.",
+    "url": "https://in.linkedin.com/jobs/view/field-service-technician-at-people-at-turno-4478271403",
+    "pass": 3
+   },
+   {
+    "quote": "People at Turno | LinkedIn People at Turno | 93,626 followers on LinkedIn. India's first Battery Intelligence and Lifecycle Management Company | Turno (Brand of Blubble pvt ltd) is an Electric Vehicle company, that helps operators of commercial vehicles to switch to EVs. Turno does this by providing a wide selection of vehicles from partner OEMs, affordable financing, and battery value guarantees ",
+    "url": "https://in.linkedin.com/company/people-at-turno",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Turno - FacebookTurno - FacebookFacebook - log in or sign upIt's official! After 7 years as TurnoverBnB, we're excited to ...Turno | Santiago - FacebookShort-term Rental Hosts, Meet Turno Turno is the only ...We’re incredibly grateful for our Turno community! A huge ... Oct 20, 2026 · Turno. 6,190 followers · 673 talking about this. Turno helps short-term rental Hosts and Cleaners connect & manage",
+    "url": "https://www.facebook.com/theturnoapp/",
+    "pass": 3
+   },
+   {
+    "quote": "Turno - FacebookFacebook - log in or sign upIt's official! After 7 years as TurnoverBnB, we're excited to ...Turno | Santiago - FacebookShort-term Rental Hosts, Meet Turno Turno is the only ...We’re incredibly grateful for our Turno community! A huge ... Turno. 40,213 followers · 131 talking about this. North America: steve.gordon@unitedtalent.com Management:Dale@insidethenight.com Connect with fr",
+    "url": "https://www.facebook.com/djturno/",
+    "pass": 3
+   },
+   {
+    "quote": "It's official! After 7 years as TurnoverBnB, we're excited to ... Feb 23, 2023 · It's official! After 7 years as TurnoverBnB, we're excited to announce that we're changing our name to Turno. Easier to say. Easier to type. Still the smart, easy-to-use solution for vacation rental...",
+    "url": "https://www.facebook.com/theturnoapp/videos/turnoverbnb-is-now-turno/570938985088578/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.turno.com/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://turno.com/integrations/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flexdream.jp/yunyusha/tundra/news/925/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://36kr.jp/502580/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webcartop.jp/2026/04/1838626/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corevoice.in/case-studies/turnovolt/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hubspot.com/case-studies/how-turno-turned-mountains-of-customer-data-into-guest-experiences-that-actually-deliver-with-hubspots-connector-for-claude",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partnerportal.fortinet.com/English/?ReturnUrl=%2FEnglish%2FNAReseller%2Fhome.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verkada.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/turno-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/turno/__hjMq3-IG7mXK3g2iKmdLI1ailctUyHYDrcZ7CC3mIw0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/turno",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/turnoverbnb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/sustinlaturno",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/theturnoapp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/view/director-of-business-development-partnerships-at-turno-4433061836",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/jobs/view/field-service-technician-at-people-at-turno-4478271403",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/people-at-turno",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/theturnoapp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/djturno/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/theturnoapp/videos/turnoverbnb-is-now-turno/570938985088578/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Turno 日本 導入",
+   "results": [
+    "https://turno.com/integrations/",
+    "https://www.flexdream.jp/yunyusha/tundra/news/925/",
+    "https://36kr.jp/502580/",
+    "https://www.webcartop.jp/2026/04/1838626/",
+    "https://www.caranddriver.co.jp/newcar/114898/",
+    "https://global.toyota/jp/newsroom/toyota/44960600.html",
+    "https://note.com/fingo/n/n6a2055b7f784"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Turno 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.mkikuchi-law.com/17785461217883",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://taimen-eigyo.com/words/so-dairiten/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Turno Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Turno manufacturing customer case study",
+   "results": [
+    "https://corevoice.in/case-studies/turnovolt/",
+    "https://www.hubspot.com/case-studies/how-turno-turned-mountains-of-customer-data-into-guest-experiences-that-actually-deliver-with-hubspots-connector-for-claude",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://smitalkamdi.wixsite.com/productmanagement/post/growth-strategy-for-turno-case-study-scaling-revenue-optimizing-customer-experience",
+    "https://turno.com/blog/turno-hubspot-case-study/",
+    "https://www.grantthornton.com/insights/case-studies/manufacturing/2025/customer-experience-transformation-at-a-global-manufacturer"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Turno white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.verkada.com/partners/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Turno founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/turno-revenue",
+    "https://tracxn.com/d/companies/turno/__hjMq3-IG7mXK3g2iKmdLI1ailctUyHYDrcZ7CC3mIw0",
+    "https://startupintros.com/orgs/turno",
+    "https://www.cbinsights.com/company/turnoverbnb",
+    "https://compworth.com/company/turno-formerly-turnoverbnb",
+    "https://www.thecompanycheck.com/company/b/turno/grq16gew6e721vz1f",
+    "https://www.cbinsights.com/company/turno/financials"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Turno",
+   "results": [
+    "https://note.com/diparururun",
+    "https://note.com/tag/ジュディノート",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/arrows_column/n/nc266340c0609",
+    "https://note.com/ikedanob/n/nf9fd1f265432",
+    "https://note.com/sekasu/n/n985d4263a09c"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Turno",
+   "results": [
+    "https://x.com/sustinlaturno",
+    "https://jf.x.com/images/media-preview/2112865812558331913",
+    "https://about.x.com/en",
+    "https://blog.x.com/en/product/introducing-a-new-twitter-dot-com",
+    "https://x.com/turnoenvivo",
+    "https://help.x.com/en",
+    "https://help.x.com/en/using-x/create-x-account"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Turno",
+   "results": [
+    "https://www.linkedin.com/company/theturnoapp",
+    "https://www.linkedin.com/jobs/view/director-of-business-development-partnerships-at-turno-4433061836",
+    "https://in.linkedin.com/jobs/view/field-service-technician-at-people-at-turno-4478271403",
+    "https://in.linkedin.com/company/people-at-turno",
+    "https://cl.linkedin.com/jobs/view/administrativo-a-repuestos-semi-senior-finsa-turno-7x7-at-finning-3918300702",
+    "https://cl.linkedin.com/jobs/view/coordinador-de-operaciones-turno-pm-at-dhl-supply-chain-4488039317",
+    "https://cr.linkedin.com/jobs/view/cell-coordinator-turno-a-miércoles-a-domingo-at-heraeus-medevio-4463772618"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Turno",
+   "results": [
+    "https://www.facebook.com/theturnoapp/",
+    "https://www.facebook.com/djturno/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/theturnoapp/videos/turnoverbnb-is-now-turno/570938985088578/",
+    "https://www.facebook.com/turnoenvivo/",
+    "https://www.facebook.com/theturnoapp/videos/built-for-airbnb-hosts/1340768398000228/",
+    "https://www.facebook.com/theturnoapp/videos/were-incredibly-grateful-for-our-turno-community-a-huge-thank-you-to-all-the-vac/27237531735927843/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Turno note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://note.com/ample_pika7429/n/na2ca93a3ab09"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Turno X 投稿",
+   "results": [
+    "https://turno.com/",
+    "https://turbo-x.com/",
+    "https://x.com/turbo810314/status/2113874583619072179",
+    "https://addness.co.jp/media/x-publishing-post/",
+    "https://x.com/turbo810314/status/2113880809660940447",
+    "https://yumimama-afiri.com/twiafi/yoyakutoukou.html",
+    "https://vibs.jp/blog/2026-06-08-bb636a21"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

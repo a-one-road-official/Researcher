@@ -1,0 +1,1782 @@
+{
+ "name": "Unique",
+ "aliases": [],
+ "context": "旧営業リスト｜Non-AUMS｜状態なし",
+ "researched_at": "2026-11-11T06:37:43.861536+00:00",
+ "official_url": "https://unique.ai/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/unique-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$40,500,000",
+    "url": "https://prospeo.io/c/unique-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Stockerstrasse 34, Zürich, Zürich 8002, CH",
+    "url": "https://prospeo.io/c/unique-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://prospeo.io/c/unique-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Enterprise AI Platform for Financial Services | Unique AI",
+    "url": "https://www.unique.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "financial professionals",
+    "url": "https://www.unique.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every agent is purpose-built for financial professionals powered by",
+    "url": "https://www.unique.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Meeting prep, call logs, and next-best-action flags happen automatically, freeing you to focus on selling.",
+    "url": "https://www.unique.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "SoW checks, onboarding, remediation, and reconciliation get done in the background, so backlogs clear quickly.",
+    "url": "https://www.unique.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From meeting prep to RFP drafts to investor materials, the busywork disappears, leaving more time to close deals.",
+    "url": "https://www.unique.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A solution built for both users and developers for the precision, governance, and performance financial institutions demand.",
+    "url": "https://www.unique.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Embedded experts help your business and IT teams ship real use cases fast, while structured training programs teach your people to use, build, and scale on their own.",
+    "url": "https://www.unique.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We chose to partner with Unique AI for their combination of technological and industry expertise, their international client community, and their commitment to enterprise-grade security.\"",
+    "url": "https://www.unique.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"The Unique AI platform has already allowed us to reduce administrative work, speed up existing processes, improve IT support, and we are working next on increasing the effectiveness of our teams working with clients.\"",
+    "url": "https://www.unique.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Security without compromise",
+    "url": "https://www.unique.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Modern data practices, encryption at rest and transit, and independent audits keep your operations compliant & protected.",
+    "url": "https://www.unique.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Unique AI is an enterprise AI platform built for financial institutions, providing AI agents that automate end-to-end workflows for wealth managers and asset managers. Unique AI serves firms with more than $5 trillion in assets under management, and specializes in building customizable and vertical agentic solutions.",
+    "url": "https://www.unique.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Unique AI addresses AI Governance through a comprehensive framework focused on innovation, responsibility, and security. This framework includes:",
+    "url": "https://www.unique.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Governance Principles: Unique AI has established a set of principles that guide its governance of AI technology. These principles are derived from established AI Governance and Ethics frameworks from organizations like BCG, NIST framework, the EU AI Act, and special regulations for financial services like FINMA.",
+    "url": "https://www.unique.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Operationalisation of Principles: Each of these principles is operationalized in various ways. This means implementing processes, procedures, policies, and regulations to ensure that the solution aligns with these principles.",
+    "url": "https://www.unique.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Unique AI is built exclusively for financial institutions, with agents designed for specific workflows in wealth and asset management. It integrates with a firm's existing systems and data, keeps transparent audit trails for compliance checks, and protects sensitive information with encryption and data anonymization.",
+    "url": "https://www.unique.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our vision is to pioneer the most advanced, responsible and accurate Al workforce in collaboration with global financial service leaders.",
+    "url": "https://www.unique.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Your browser does not support the video tag.",
+    "url": "https://www.unique.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We are a team of entrepreneurs focused on creating smart solutions for unique challenges. Using the power of AI, we help organizations save time, make better decisions, work more efficiently, and cut out admin tasks.",
+    "url": "https://www.unique.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to empower Financial Services by delivering cutting-edge, AI-powered solutions that streamline operations and drive innovation. We are committed to providing a secure, customizable platform that allows our clients to solve complex challenges and enhance the client experience while maintaining",
+    "url": "https://www.unique.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Our company culture and the development of our product is driven by our key values we strongly believe in.",
+    "url": "https://www.unique.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are a team of entrepreneurs.",
+    "url": "https://www.unique.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Genix, a secure and enterprise-ready generative-AI platform co-developed by BNP Paribas Wealth Management and Unique, is transforming the way investment specialists and relationship managers drive smarter decision-making across the organisation.",
+    "url": "https://www.unique.ai/bnp-paribas-wm-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Your browser does not support the video tag.",
+    "url": "https://www.unique.ai/bnp-paribas-wm-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "BNP Paribas Wealth Management is the private banking division of BNP Paribas Group, serving high- and ultra-high-net-worth clients in over 30 countries. Headquartered in Paris, the bank manages €628 billion in assets and operates across the world delivering sophisticated investment strategies tailored to individual client needs.",
+    "url": "https://www.unique.ai/bnp-paribas-wm-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "\"We chose to partner with Unique for their combination of technological and industry expertise, their international client community, and their commitment to enterprise-grade security. By combining the speed and scalability of Unique AI with BNP Paribas Wealth Management’s deep financial expertise, our joint efforts are setting the stage for more personalized, proactive client service.”",
+    "url": "https://www.unique.ai/bnp-paribas-wm-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline content production",
+    "url": "https://www.unique.ai/bnp-paribas-wm-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Provide advisors with",
+    "url": "https://www.unique.ai/bnp-paribas-wm-case-study",
+    "pass": 1
+   },
+   {
+    "quote": ", an enterprise-ready Generative AI solution for wealth management. The project focuses on developing powerful use cases like",
+    "url": "https://www.unique.ai/bnp-paribas-wm-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Investment Content Creation and Acceleration",
+    "url": "https://www.unique.ai/bnp-paribas-wm-case-study",
+    "pass": 1
+   },
+   {
+    "quote": ": Unique AI helps BNPP WM revamp and accelerate the production of investment content, enabling faster creation of recommendation notes and portfolio updates.",
+    "url": "https://www.unique.ai/bnp-paribas-wm-case-study",
+    "pass": 1
+   },
+   {
+    "quote": ": Unique AI ingests and analyzes complex documents in seconds, providing summaries and actionable insights to support better and faster decision-making.",
+    "url": "https://www.unique.ai/bnp-paribas-wm-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "50% of time saved on content creation",
+    "url": "https://www.unique.ai/bnp-paribas-wm-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "主要サービスのひとつであるシネアド管理システム「AdvertisingAccord (AA)」は現在、世界31の地域と48,500のスクリーンで年間12億の広告枠を支えており、シネアド・劇場オペレーションに変革をもたらしています",
+    "url": "https://www.imagica-ems.co.jp/release/uniquex-20251204/",
+    "pass": 3
+   },
+   {
+    "quote": "【PRONEWS】「Inter BEEの歩き方tv」に、当社が出展したブースの様子がレポート記事として掲載されました",
+    "url": "https://www.imagica-ems.co.jp/release/uniquex-20251204/",
+    "pass": 3
+   },
+   {
+    "quote": "シネアド管理ソリューションを日本で展開 - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
+    "url": "https://jp.pronews.com/news/202512041633702719.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回の提携では日本の映画館広告（シネアド）市場において、Unique X社のシネアド管理ソリューション「AdvertisingAccord」をIMAGICAエンタテインメントメディアサービスが提供し、運用をサポートする体制を整えることで、映画興行会社、広告代理店、広告主といったシネアドのサプライチェーンに関わる事業者に向けて、優れた効率性、最適化、収益化力などの新しい価値を創造することを目指していくという",
+    "url": "https://jp.pronews.com/news/202512041633702719.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、「AdvertisingAccord」に加えて、デジタルシネマのオペレーションとコンテンツ配信を効率化するための強力なツールである「RosettaBridge TMS（シアターマネジメントシステム）」も含め、Unique Xが世界の映画興行・シネアド市場で展開し、好評を博している幅広いデジタルシネマ関連ソリューションをIMAGICAエンタテインメントメディアサービスが導入し、その運用をサポートできるよう努めていくとしている",
+    "url": "https://jp.pronews.com/news/202512041633702719.html",
+    "pass": 3
+   },
+   {
+    "quote": "Oh kissaki! This powerful 9.3cm ô-kissaki hints at nagamaki origins in this Bingo province katana, with a precise hoso-suguha, tiny nezumi-ashi and a standing shirake-utsuri. The late Edo koshirae brings zen-like red and black lacquer, white heron menuki, an Okamoto moon tsuba and a Mito school Yodo Castle fuchi-kashira. A proud 600-year-old katana that stands tall filled with samurai spirit.",
+    "url": "https://new.uniquejapan.com/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Ômi no Kami Sukenao trained directly under grandmaster Tsuda Sukehiro and is ranked jôjô-saku by Fujishiro, among the leading names of Ôsaka shintô. This beautiful jûyô tôken katana carries a glorious tôranba hamon, the surging wave pattern his teacher first originated, praised by the NBTHK as a ‘masterwork’ and ‘especially outstanding.’",
+    "url": "https://new.uniquejapan.com/home/",
+    "pass": 3
+   },
+   {
+    "quote": "This brilliant katana by Kawachi Daijô Masahiro features a vivid gunome chôji midare hamon that clusters into jûka chôji with yô and textbook sunagashi. Its beautiful set of koshirae showcases an awesome cloud dragon theme that’s ready to strike. From blade to koshirae, this is an inspiring samurai sword built around a single, coherent idea, that the journey of life rewards being in the present.",
+    "url": "https://new.uniquejapan.com/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Climb aboard this nihontô shinkansen to experience a fiery gunome-midare hamon that erupts with sudare-ba, tobiyaki, sunagashi and kinsuji, and more – nothing stops this train! Its Edo period koshirae features a fuchi-kashira depicting a praying mantis, symbol of pure resilience. This is a katana with an intense spirit that comes with sayagaki by Tanobe-sensei.",
+    "url": "https://new.uniquejapan.com/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Forged in August 1865 by the official retained smith of the Asano clan of Hiroshima, this assured katana weighs over 900 grams and is exceptionally sharp. A poetic chû-suguha hamon, a luxurious mother-of-pearl aogai-mijin saya surely original to the sword, pine-needle menuki by Ôtsuki Hidekuni, and a shirasaya bearing a sayagaki with provenance by Living National Treasure Hon'ami Nisshû.",
+    "url": "https://new.uniquejapan.com/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Something very special announces itself about this long wakizashi by Shodai Masahiro. Gold-inlaid proof of three bodies severed in a single stroke by Yamano Nagahisa, at the age of 67. Boom.",
+    "url": "https://new.uniquejapan.com/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Sandai Masafusa forged this katana in January 1727 in the one domain that never set down its sword. Satsuma is the home of the most uncompromising warriors of the Edo period. This incredible katana was once owned by Kenshiro Abbe, the man who brought aikido to the UK. The blade was chosen for him by Nobuo Ogasawara of the Tokyo National Museum.",
+    "url": "https://new.uniquejapan.com/home/",
+    "pass": 3
+   },
+   {
+    "quote": "I encourage you to download our beautifully presented Japanese sword catalogues, which many collectors regard as being ‘best in class’. We aim to educate and inspire both seasoned and new collectors to the fascinating world of antique Japanese swords.",
+    "url": "https://new.uniquejapan.com/home/",
+    "pass": 3
+   },
+   {
+    "quote": "The volume collects approximately 200 photographs depicting Japanese female fans of J-rock and visual kei bands, focusing on the distinctive, extravagant, and often wild fashion styles these groupies create and wear to concerts and in Tokyo's street scenes.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Accompanied by minimal text, including a brief explanation of the groupie phenomenon and short personal statements from fans, the book allows the subjects to express in their own words their passion for the music and reasons for their striking appearances.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Primarily a visual work with only about four pages of explanatory content, the book serves as a record of the alternative fashion and subcultural expression surrounding J-rock in the mid-2000s, capturing the creativity of fans who treat concert attendance as an opportunity for bold self-presentation.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "This approach distinguished visual kei within broader J-rock, where visuals served as a core component of band identity and performance.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The mid-2000s marked the rise of a second wave, often called neo-visual kei, following a late-1990s decline after major acts disbanded or shifted away from the label. Bands formed in this period emphasized polished production, diverse musical directions including modern metal influences, and intimate fan interactions during shows.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "These bands inspired widespread fan creativity by promoting self-expression through androgynous looks and avant-garde aesthetics, with fan styles often extending the elaborate visual language of the performers into personal subcultural practices.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Influences ranged from gothic and punk aesthetics to glam rock excess and occasional traditional Japanese motifs, creating a distinctive look that blurred gender norms and prioritized visual impact.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Gothic lolita fashion, which gained prominence in the early 2000s partly through its ties to visual kei, often overlapped with J-Rock fan attire by blending aristocratic silhouettes with edgier, music-oriented modifications.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Fans pursued these styles primarily for self-expression, allowing them to craft personal personas within a conformist society, and to signal deep devotion to their favorite bands through emulation or creative interpretation.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "J-Rock Groupies: 200 Photos of Unique Japanese Girls is a 191-page visual collection that presents 200 photographs of female fans of Japanese rock bands, showcasing their distinctive and extravagant fashion styles.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The book documents the unique and often wild outfits created by these groupies, who draw inspiration from the visual aesthetics and energy of J-Rock music, capturing their creative expressions and musical passions.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Primarily photographic in format, the work features images taken on the streets and in live houses of Tokyo, where fans gather for concerts and display their elaborate concept clothing and cosplay-influenced looks en masse.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Minimal text accompanies the photos, consisting mainly of short quotes and interview excerpts in which the subjects explain in their own words their motivations for adopting such styles and their devotion to the music and bands.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Grow business and revenue.",
+    "url": "https://www.unique.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We aim to build long-term relationships with customers, employees and other partners.",
+    "url": "https://www.unique.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Forged by Kôzuke no Suke Minamoto Yoshitoki of the Zenjô family, this handsome katana carries the graceful curvature of a tachi, a rare shape for the shintô period. Featuring a deep snow-white gunome midare hamon and a splendid uchigatana koshirae with a complete, matching set of Edo-Higo cloud dragon fittings.",
+    "url": "https://new.uniquejapan.com/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Ômi no Kami Sukenao trained directly under grandmaster Tsuda Sukehiro and is ranked jôjô-saku by Fujishiro, among the leading names of Ôsaka shintô. This beautiful jûyô tôken katana carries a glorious tôranba hamon, the surging wave pattern his teacher first originated, praised by the NBTHK as a ‘masterwork’ and ‘especially outstanding.’",
+    "url": "https://new.uniquejapan.com/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Sandai Masafusa forged this katana in January 1727 in the one domain that never set down its sword. Satsuma is the home of the most uncompromising warriors of the Edo period. This incredible katana was once owned by Kenshiro Abbe, the man who brought aikido to the UK. The blade was chosen for him by Nobuo Ogasawara of the Tokyo National Museum.",
+    "url": "https://new.uniquejapan.com/home/",
+    "pass": 3
+   },
+   {
+    "quote": "J-Rock Groupies: 200 Photos of Unique Japanese Girls is a 2007 photography book published by DH Publishing as part of its cocoro books series.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "In Tokyo's live house districts and surrounding streets during the 2000s, such attire played a vital social role, transforming concert gatherings into visual spectacles where fashion amplified the theatrical energy of the J-Rock scene and helped participants feel part of a shared subculture.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The book was released in 2007 as part of the cocoro books series.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The print edition carries ISBN-10 1932897151 and ISBN-13 978-1932897159, with dimensions approximately 6.5 x 0.5 x 9 inches.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The book forms part of the cocoro books series.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Despite this role, the book's cultural footprint remains narrow, appealing primarily to a specialized audience with scarce ongoing references in wider fashion studies or popular discourse.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "could lead to significant warranty costs and delivery delays. Traditional inspection methods, which relied heavily on human supervisors and post-production audits, struggled to keep up with the velocity and complexity of manufacturing operations. Moreover,",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Paper-based systems slowed production and compliance, with delays costing millions annually in lost revenue.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Training employees to effectively use new digital tools and systems posed a challenge, as it required significant time and effort to overcome resistance to change.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Conducted extensive training sessions and workshops to help employees adapt to new digital tools, demonstrating the benefits and facilitating a smooth transition.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Employees accustomed to the old systems were resistant to adopting the new IT solutions, slowing down the implementation process.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Fulminous conducted comprehensive training sessions and provided ongoing support to help Gear Tech employees adapt to the new systems, fostering a smoother transition.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "A: Integrating new technologies with existing legacy systems, ensuring data security and compliance with regulations, and training employees to adapt to new digital workflows.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "AI-Driven Revenue Boost",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how AI implementation can 10X your business revenue. Learn the secrets to scalable success!",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "offers an intricate look at how a company tackled specific challenges. It includes a detailed before-and-after explanation, showcasing the problems faced and the solutions implemented. This narrative helps others learn from real-world examples and apply similar strategies to their own situations.",
+    "url": "https://red27creative.com/manufacturing-case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Unique Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/unique-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Unique",
+    "url": "https://prospeo.io/c/unique-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/unique-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "By leveraging cutting-edge agentic AI, Unique empowers teams to focus on high-value work, reducing manual effort and operational risk. Our goal is to automate resource-heavy and standardised workflows through an agentic workforce that complements employees.",
+    "url": "https://prospeo.io/c/unique-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/unique-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/unique-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Unique?",
+    "url": "https://prospeo.io/c/unique-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Unique generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/unique-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/unique-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/unique-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Unique have?",
+    "url": "https://prospeo.io/c/unique-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/unique-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Unique AG Revenue 2024: $15M Est., $6M Raised",
+    "url": "https://getlatka.com/companies/unique-ag",
+    "pass": 3
+   },
+   {
+    "quote": "Unique AG has not published its revenue. LeadIQ puts it at about $15M a year (November 2024).",
+    "url": "https://getlatka.com/companies/unique-ag",
+    "pass": 3
+   },
+   {
+    "quote": "All 4 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/unique-ag",
+    "pass": 3
+   },
+   {
+    "quote": "Unique AG CEO, founders & employees",
+    "url": "https://getlatka.com/companies/unique-ag",
+    "pass": 3
+   },
+   {
+    "quote": "Manuel Grenacher founded Unique AG in 2021 and runs it as CEO. Unique AG had 78 employees (December 2024, LinkedIn), up from 68 a year earlier.",
+    "url": "https://getlatka.com/companies/unique-ag",
+    "pass": 3
+   },
+   {
+    "quote": "What is Unique AG's revenue?",
+    "url": "https://getlatka.com/companies/unique-ag",
+    "pass": 3
+   },
+   {
+    "quote": "LeadIQ estimates Unique AG's revenue at about",
+    "url": "https://getlatka.com/companies/unique-ag",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Unique AG have?",
+    "url": "https://getlatka.com/companies/unique-ag",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/unique-ag",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/unique-ag",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/unique-ag",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/unique-ag",
+    "pass": 3
+   },
+   {
+    "quote": "there was a part of me that was happy to hear those words, and",
+    "url": "https://note.com/_nana__i_/n/n17cce1d57806?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本市場におけるUnique Xの革新的なデジタルシネマソフトウェアソリューション提供に関するパートナーシップを締結 | Imagica Entertainment Media Services, Inc.",
+    "url": "https://www.imagica-ems.co.jp/release/uniquex-20251204/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社IMAGICAエンタテインメントメディアサービス（本社:東京都港区、代表取締役社長:中村昌志、以下当社）は、デジタルシネマソフトウェアソリューションのリーディングプロバイダーであるUnique Digital Limited（以下、Unique X）と日本市場におけるUnique Xの革新的なデジタルシネマソフトウェアソリューション提供に関するパートナーシップに合意しました",
+    "url": "https://www.imagica-ems.co.jp/release/uniquex-20251204/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の提携では日本の映画館広告（シネアド）市場において、UniqueX社のシネアド管理ソリューション「",
+    "url": "https://www.imagica-ems.co.jp/release/uniquex-20251204/",
+    "pass": 3
+   },
+   {
+    "quote": "を当社が提供し、運用をサポートする体制を整えることで、映画興行会社、広告代理店、広告主といったシネアドのサプライチェーンに関わる事業者様に向けて、優れた効率性、最適化、収益化力などの新しい価値を創造することを目指してまいります",
+    "url": "https://www.imagica-ems.co.jp/release/uniquex-20251204/",
+    "pass": 3
+   },
+   {
+    "quote": "現在は世界100カ国で事業を展開し、映画興行/配給会社及びシネアド広告代理店向けに製品・サービスを提供しています",
+    "url": "https://www.imagica-ems.co.jp/release/uniquex-20251204/",
+    "pass": 3
+   },
+   {
+    "quote": "シネアド管理ソリューションを日本で展開 - PRONEWS : 動画制作のあらゆる情報が集まるトータルガイド",
+    "url": "https://jp.pronews.com/news/202512041633702719.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社IMAGICA GROUPのグループ会社である、株式会社IMAGICAエンタテインメントメディアサービスは、デジタルシネマソフトウェアソリューションのリーディングプロバイダーであるUnique Digital Limited（以下：Unique X）と日本市場におけるUnique Xの革新的なデジタルシネマソフトウェアソリューション提供に関するパートナーシップに合意した",
+    "url": "https://jp.pronews.com/news/202512041633702719.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回の提携では日本の映画館広告（シネアド）市場において、Unique X社のシネアド管理ソリューション「AdvertisingAccord」をIMAGICAエンタテインメントメディアサービスが提供し、運用をサポートする体制を整えることで、映画興行会社、広告代理店、広告主といったシネアドのサプライチェーンに関わる事業者に向けて、優れた効率性、最適化、収益化力などの新しい価値を創造することを目指していくという",
+    "url": "https://jp.pronews.com/news/202512041633702719.html",
+    "pass": 3
+   },
+   {
+    "quote": "Feel the history - Unique Japan",
+    "url": "https://new.uniquejapan.com/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Unique Japan Collection",
+    "url": "https://new.uniquejapan.com/home/",
+    "pass": 3
+   },
+   {
+    "quote": "An exceptional jûyô tôken tantô from the Hôshô school, the most distinctive of the five schools of Yamato, signed Hôshô Gorô in red lacquer and showing truly gorgeous masame-hada. The old shirasaya records an origami by Hon’ami Kôchû in 1711, and the aikuchi koshirae is a wonderful complement to the blade. In our studio in Japan now, with full photography on its page.",
+    "url": "https://new.uniquejapan.com/home/",
+    "pass": 3
+   },
+   {
+    "quote": "A deeply personal tantô forged by Kurihara Akihide to celebrate the birth of his granddaughter. Akihide was one of the great forces behind the revival of Japanese swordsmithing. After his passing, his disciple Amata Akitsugu personally maintained this blade on each visit to Akihide’s granddaughter.",
+    "url": "https://new.uniquejapan.com/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Sandai Masafusa forged this katana in January 1727 in the one domain that never set down its sword. Satsuma is the home of the most uncompromising warriors of the Edo period. This incredible katana was once owned by Kenshiro Abbe, the man who brought aikido to the UK. The blade was chosen for him by Nobuo Ogasawara of the Tokyo National Museum.",
+    "url": "https://new.uniquejapan.com/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Welcome to Unique Japan",
+    "url": "https://new.uniquejapan.com/home/",
+    "pass": 3
+   },
+   {
+    "quote": "I encourage you to download our beautifully presented Japanese sword catalogues, which many collectors regard as being ‘best in class’. We aim to educate and inspire both seasoned and new collectors to the fascinating world of antique Japanese swords.",
+    "url": "https://new.uniquejapan.com/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Founder, Unique Japan",
+    "url": "https://new.uniquejapan.com/home/",
+    "pass": 3
+   },
+   {
+    "quote": "J-Rock Groupies: 200 Photos of Unique Japanese Girls (book) — Grokipedia",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "J-Rock Groupies: 200 Photos of Unique Japanese Girls is a 2007 photography book published by DH Publishing as part of its cocoro books series.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The volume collects approximately 200 photographs depicting Japanese female fans of J-rock and visual kei bands, focusing on the distinctive, extravagant, and often wild fashion styles these groupies create and wear to concerts and in Tokyo's street scenes.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The images showcase concept clothing and elaborate outfits that reflect Japan's leading role in innovative rock band fashion, with influences ranging from gothic lolita to colorful and absurd designs displayed en masse at live events.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese rock scene in the 2000s",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The indie visual kei scene thrived in Tokyo's underground circuit, centered on small live houses where emerging acts performed regularly to cultivate dedicated local followings and experiment with theatrical elements in intimate venues.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The groupie fashion associated with Japanese rock music in the 2000s, particularly within the visual kei subgenre, involved elaborate and highly individualistic styles adopted by female fans to demonstrate their dedication to bands and immerse themselves in the scene.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Influences ranged from gothic and punk aesthetics to glam rock excess and occasional traditional Japanese motifs, creating a distinctive look that blurred gender norms and prioritized visual impact.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "In Tokyo's live house districts and surrounding streets during the 2000s, such attire played a vital social role, transforming concert gatherings into visual spectacles where fashion amplified the theatrical energy of the J-Rock scene and helped participants feel part of a shared subculture.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "J-Rock Groupies: 200 Photos of Unique Japanese Girls",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "J-Rock Groupies: 200 Photos of Unique Japanese Girls is a 191-page visual collection that presents 200 photographs of female fans of Japanese rock bands, showcasing their distinctive and extravagant fashion styles.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Primarily photographic in format, the work features images taken on the streets and in live houses of Tokyo, where fans gather for concerts and display their elaborate concept clothing and cosplay-influenced looks en masse.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The collection emphasizes the visual spectacle of J-Rock fan culture, presenting the groupies' fashions as a key expression of their enthusiasm within the broader Japanese rock scene.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "primarily feature young Japanese women dressed in extravagant and highly individualized outfits, captured at J-rock concerts or on the streets of Japan.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "DH Publishing Inc., a Tokyo-based publisher, specializes in books on Japanese pop culture, fashion, anime, and related subcultures, primarily aimed at English-speaking international audiences.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The company positions itself as a leading introducer of these topics to non-Japanese readers, focusing on accessible explorations of Japan's dynamic youth and popular culture scenes.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The cocoro books series, produced by DH Publishing, emphasizes niche visual and illustrated titles that document specific aspects of Japanese youth culture.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "\"J-Rock Groupies: 200 Photos of Unique Japanese Girls\" is credited solely to DH Publishing, with no individual author or photographer named, presenting the work as a publisher-compiled collection.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "J-Rock Groupies: 200 Photos of Unique Japanese Girls serves as a visual record of female fan fashion in the mid-2000s Japanese rock scene, particularly among devotees of visual kei and J-Rock concerts in Tokyo.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "This combination offers a time-specific snapshot of a subculture where fashion functioned as an extension of musical fandom and personal expression in the streets and live houses of Tokyo.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "As one of the few English-language publications to document this niche aspect of Japanese youth culture during that period, the book contributed to Western awareness of visual kei-influenced groupie styles that blended glamour, absurdity, and devotion.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Published by DH Publishing (under the cocoro books imprint), which specialized in introducing various Japanese subcultures to international audiences, it filled a gap in available material on these transient street-level phenomena.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Today it holds occasional value as a reference for fashion historians examining early 2000s Japanese street styles, visual kei enthusiasts, or cosplay practitioners seeking archival examples of the era's distinctive looks.",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "amazon.com/J-Rock-Groupies-Photos-Unique-Japanese-ebook/dp/B006BVEEJA",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "amazon.com/J-Rock-Groupies-Photos-Unique-Japanese/dp/1932897151",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "🔒 Email List exclusive",
+    "url": "https://new.uniquejapan.com/home/",
+    "pass": 3
+   },
+   {
+    "quote": "info@fulminoussoftware.com",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/unique-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本市場におけるUnique Xの革新的なデジタルシネマソフトウェアソリ... — Dec 4, 2025 · 当社は、今回のUnique Xとのパートナーシップを通じて、映画興行ビジネスに携わる皆様に対して、サービスメニューを拡充しより高い付加価値をお届けできるよう、今後も鋭意取り組んでまいります。",
+    "url": "https://www.imagica-ems.co.jp/release/uniquex-20251204/",
+    "pass": 3
+   },
+   {
+    "quote": "IMAGICAエンタテインメントメディアサービス、Unique Xと提携。シネア... — Dec 4, 2025 · IMAGICAエンタテインメントメディアサービスは、今回のUnique Xとのパートナーシップを通じて、映画興行ビジネスに携わる皆様に対して、サービスメニューを拡充しより高い付加価値を届けられるよう、今後も鋭意取り組んでいく方針だという。",
+    "url": "https://jp.pronews.com/news/202512041633702719.html",
+    "pass": 3
+   },
+   {
+    "quote": "Feel the history - Unique Japan — All services are completed in Japan by our dependable team and award-winning craftsmen. We have offices near London and in Tokyo. I encourage you to download our beautifully presented Japanese sword catalogues, which many collectors regard as being ‘best in class’.",
+    "url": "https://new.uniquejapan.com/home/",
+    "pass": 3
+   },
+   {
+    "quote": "J-Rock Groupies: 200 Photos of Unique Japanese Girls (book) — J-Rock Groupies: 200 Photos of Unique Japanese Girls is a 2007 photography book published by DH Publishing as part of its cocoro books series. The volume collects approximately 200 photographs depicting Japanese female fans of J-rock and visual kei…",
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "10 Manufacturing Case Studies [Detailed Review] [2026] — This curated collection by DigitalDefynd showcases 10 compelling manufacturing case studies from global giants such as Tesla, Foxconn, Boeing, and Nestlé. Each case explores a unique transformation journey, structured around three key components: Problem, Solution, and Impact.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Unique Revenue, Funding & Valuation — By leveraging cutting-edge agentic AI, Unique empowers teams to focus on high-value work, reducing manual effort and operational risk. Our goal is to automate resource-heavy and standardised workflows through an agentic workforce that complements employees.",
+    "url": "https://prospeo.io/c/unique-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Unique AG Revenue 2024: $15M Est., $6M Raised - getlatka.com — Oct 30, 2026 · Unique AG 2024 estimated revenue: $15M (up from $5M in 2023). Total funding: $6M across 1 round. 78 employees. Founded 2021. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/unique-ag",
+    "pass": 3
+   },
+   {
+    "quote": "Unique – Valuation, Revenue & Market Scope – 2026 – Zurich — Unique's estimated annual revenue is currently $15.4M per year. Unique’s operational efficiency results in $160K revenue per employee. Unique has received total funding worth $76M. Unique has scaled its team to over 90+ members. In the last year, Unique added 92% more employees to its staff.",
+    "url": "https://compworth.com/company/unique",
+    "pass": 3
+   },
+   {
+    "quote": "Unique USA – Overview – Funding, Revenue & Growth – 2026 — Discover Unique USA's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/unique-usa",
+    "pass": 3
+   },
+   {
+    "quote": "Unique Funding Solutions - Overview, News & Similar companies ... — With over 10 years of experience, they have funded more than $500 million nationwide, offering services such as merchant cash advances and revenue-based financing. The company prides itself on a quick and hassle-free application process, often delivering funding decisions within hours.",
+    "url": "https://www.zoominfo.com/c/unique-funding-solutions-llc/458177756",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "10 Manufacturing Case Studies [Detailed Review] [2026] - DigitalDefynd Education",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "10 Manufacturing Case Studies [Detailed Review] [2026]",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The manufacturing sector is undergoing a seismic transformation, driven by digital innovation, sustainability imperatives, and the need for operational resilience. In this fast-evolving landscape,",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": ", offering valuable insights into how global leaders are solving complex challenges using cutting-edge technology. From aerospace and automotive to consumer goods and pharmaceuticals, the",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "10 compelling manufacturing case studies",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "By examining these success stories, manufacturing leaders, engineers, and digital transformation teams can extract",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "in real production environments. If you’re looking to future-proof your manufacturing operations, these case studies are a powerful starting point.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 1: Tesla’s AI‑Enhanced Smart Factory and Predictive Quality Control",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Tesla’s Gigafactories achieved over 92% production automation by 2025, reducing defect rates by 34% and improving line efficiency by 27% across key manufacturing hubs globally.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "As Tesla scaled up its Gigafactory operations to meet soaring demand for electric vehicles, a major challenge emerged:",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": ". With thousands of vehicles rolling off production lines weekly, even a",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "could lead to significant warranty costs and delivery delays. Traditional inspection methods, which relied heavily on human supervisors and post-production audits, struggled to keep up with the velocity and complexity of manufacturing operations. Moreover,",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-enhanced manufacturing system",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "at over 500 inspection points across its Gigafactories. These systems could detect microscopic surface defects, alignment errors, and part mismatches in real time—achieving up to",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "to analyze operational data across the supply chain and shop floors. Each Gigafactory was equipped with a",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Data from manufacturing sensors, cameras, and supplier feedback were aggregated through Tesla’s proprietary AI cloud platform. This allowed cross-functional teams to",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Within a year of deployment, Tesla’s AI-driven smart manufacturing ecosystem yielded substantial results.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": ", directly contributing to improved customer satisfaction scores. The integration of smart factory systems also translated into",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "across three primary Gigafactories.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "redefine modern manufacturing standards",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "High Paying Jobs in Manufacturing Industry",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 2: Siemens & Foxconn – Smart Manufacturing and Digital Factory Optimization",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "By 2025, Foxconn operated more than 200 smart production lines globally, while Siemens’ industrial automation technologies supported over 75% of the world’s top electronics manufacturers.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Complex, high-mix electronics manufacturing resulted in rising defect rates and productivity gaps exceeding 15%.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Foxconn, the world’s largest electronics manufacturer, faced growing pressure from",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Business Success Stories and Lessons",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies of Successful Manufacturing Businesses Lessons Learned",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "More than 700,000 manufacturing companies are based in the United States only",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "To reach and stay on the list of leading manufacturing businesses, you need to do something unique. If you are tired of guessing your way through the manufacturing world, here we are going to share some real-life stories of manufacturing companies that succeeded in their mission and how they achieved it. Read about the",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "importance of security features in manufacturing website development",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "As the world market for General Manufacturing is projected to reach US$944.6 Billion by 2030, you can harvest a huge profit in the coming days by learning from the success stories",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": ". From innovative startups to industry veterans, we'll uncover the strategies, challenges, and triumphs that shaped their journeys. So, join us as we explore the blueprints for manufacturing success.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Need help with case studies of successful manufacturing businesses? Get expert advice.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "3 Case Studies of Successful Manufacturing Businesses",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 1: Armstrong Industrial Corporation’s Digital Transformation",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Challenges Faced by Armstrong Industrial Corporation:",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "The company lacked real-time data and analytics, making it difficult to monitor manufacturing performance and make informed decisions.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "The story of Armstrong Industrial Corporation is an ideal example of digital transformation in manufacturing case study. To address these challenges, Armstrong Industrial Corporation partnered with Fulminous Software to implement a comprehensive digital transformation solution. The solution included:",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "IoT-Enabled Manufacturing Systems:",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment of IoT sensors and devices across production lines to monitor equipment performance, track production metrics, and collect real-time data.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Introduction of a cloud-based analytics platform to aggregate and analyze data from various sources, providing actionable insights for improving manufacturing processes.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "To manage the tight schedule, the Fulminous team employed agile project management techniques. They broke down the project into smaller, manageable tasks and prioritized critical milestones. By maintaining close communication with Armstrong Industrial Corporation and holding regular progress reviews, the team was able to stay on track and meet the deadlines.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Complexity in Manufacturing Process of Armstrong Industrial Corporation:",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Armstrong Industrial Corporation's manufacturing processes are intricate and highly specialized. Understanding and integrating with their advanced noise, vibration, heat, and safety management solutions required deep technical expertise and adaptability.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "The Fulminous team conducted in-depth research to understand Armstrong's unique manufacturing processes. They collaborated closely with Armstrong's in-house experts to gain insights and identify potential integration challenges.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "initiative led by Fulminous Software resulted in significant improvements for Armstrong Industrial Corporation:",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Armstrong Industrial Corporation’s successful digital transformation, driven by Fulminous Software, has significantly enhanced its manufacturing processes, product development, and customer service capabilities.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 2: Successful IoT Integrated Gear Tech Manufacturing Business",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment of IoT sensors across production lines to monitor critical metrics such as machine performance, temperature, and vibration in real-time.",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "The integration of IoT solutions by Fulminous Software led to significant improvements in Gear Tech’s manufacturing operations:",
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Case Studies: Top 5 Inspiring Successes",
+    "url": "https://red27creative.com/manufacturing-case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing case studies",
+    "url": "https://red27creative.com/manufacturing-case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "provide a window into the transformative journeys of companies overcoming industry challenges to achieve outstanding success. These stories offer valuable insights into production processes, innovation, and strategic problem-solving. Here are some highlights from renowned manufacturing case studies:",
+    "url": "https://red27creative.com/manufacturing-case-studies",
+    "pass": 3
+   },
+   {
+    "quote": ": Achieved a 65% cost reduction and a 55% increase in production efficiency through lean manufacturing.",
+    "url": "https://red27creative.com/manufacturing-case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "These manufacturing success stories serve as guiding examples for industry leaders aiming to enhance and innovate. They demonstrate how effective strategies and sustainable practices can lead to cost savings, increased efficiency, and environmental benefits.",
+    "url": "https://red27creative.com/manufacturing-case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "manufacturing case studies",
+    "url": "https://red27creative.com/manufacturing-case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Understanding Manufacturing Case Studies",
+    "url": "https://red27creative.com/manufacturing-case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "What is a Manufacturing Case Study?",
+    "url": "https://red27creative.com/manufacturing-case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "A manufacturing case study provides a comprehensive look into a company’s specific problem, the strategies employed to address it, and the outcomes achieved. It often includes:",
+    "url": "https://red27creative.com/manufacturing-case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Problem-Solving in Manufacturing",
+    "url": "https://red27creative.com/manufacturing-case-studies",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Predictive models were customized for each machine type based on historical maintenance logs, OEM guidelines, and operational context. When abnormal patterns were detected, the system generated alerts for preemptive interventions. Maintenance teams received real-time diagnostics, enabling them to schedule repairs during planned downtime windows rather than react to emergencies.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": ", we ensure your brand not only reaches your target audience but also resonates with them. Our custom strategies help you dominate local markets and expand internationally, positioning your business for sustained success.",
+    "url": "https://red27creative.com/manufacturing-case-studies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "“Qualia” That AI Cannot Depict: Enjoying Your Own Unique ... It is a \"world unique to that person\" that cannot be compared with others or quantified. In writing, it is precisely because a person's unique qualia seeps through that it resonates with the reader's heart. Rather than overly polished prose, writing with subtle deviations and fluctuations is more interesting.",
+    "url": "https://note.com/craftchoco/n/n319fbcb27824?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I want to be special and unique｜nana - note（ノート） Looking back now, while chasing after being the same as everyone else, I was also seeking to be different from others🌹🌹 I wanted to be a special, unique person who was different from those around me. By becoming someone different from others, I felt like I, who had nothing, had value, and I felt like I could take pride in myself.",
+    "url": "https://note.com/_nana__i_/n/n17cce1d57806?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My job is unique, so it won't be useful if I change jobs ... 🗣\"The way we do things at my company is a bit unique...\"🗣\"I feel like this work wouldn't be useful at any other company💦\"Precisely because you have worked hard at the same company for a long time, you hesitate the moment you think about changing jobs.\"I wonder if I'm only capable of working h",
+    "url": "https://note.com/happy_pomalon/n/n7189d7c31b65?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "“Qualia” That AI Cannot Depict: Enjoying Your Own Unique Sensations in Daily Life｜choco",
+    "url": "https://note.com/craftchoco/n/n319fbcb27824?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "“Qualia” That AI Cannot Depict: Enjoying Your Own Unique Sensations in Daily Life",
+    "url": "https://note.com/craftchoco/n/n319fbcb27824?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "| Sharpening the Five Senses",
+    "url": "https://note.com/craftchoco/n/n319fbcb27824?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My theme for my 40s is \"being conscious of the five senses.\"",
+    "url": "https://note.com/craftchoco/n/n319fbcb27824?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Having quit the company where I worked for 20 years and entered a career break, I am making it a priority to capture things through my five senses in the trivialities of daily life. Sometimes it is feeling the slight changes of the season in the wind during my morning walk, or carefully becoming aware of the movement of my spine during a Pilates lesson—a part of my own body I had never consciously",
+    "url": "https://note.com/craftchoco/n/n319fbcb27824?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "To give simple examples, it might be smelling the aroma when brewing morning coffee, or feeling the warmth of the sun while hanging out the laundry. These casual moments are also small exercises in being conscious of the five senses.",
+    "url": "https://note.com/craftchoco/n/n319fbcb27824?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Actually, I learned in the book below that there is a name for this \"quality of sensation\" itself. It is apparently called",
+    "url": "https://note.com/craftchoco/n/n319fbcb27824?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Qualia is a philosophical term that refers to \"sensations that can only be experienced within that person,\" such as the \"redness\" one feels when looking at a red apple, the \"bitterness\" that spreads when drinking coffee, or the \"dazzling brightness\" of the summer sun.",
+    "url": "https://note.com/craftchoco/n/n319fbcb27824?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I want to be special and unique｜nana",
+    "url": "https://note.com/_nana__i_/n/n17cce1d57806?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I want to be special and unique",
+    "url": "https://note.com/_nana__i_/n/n17cce1d57806?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I lack self-confidence",
+    "url": "https://note.com/_nana__i_/n/n17cce1d57806?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "and until now, I've been so concerned about those around me",
+    "url": "https://note.com/_nana__i_/n/n17cce1d57806?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "trying not to be thought of as strange, trying not to be laughed at",
+    "url": "https://note.com/_nana__i_/n/n17cce1d57806?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "trying not to be scolded, constantly reading someone's mood",
+    "url": "https://note.com/_nana__i_/n/n17cce1d57806?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "and living my life by choosing the same things as others.",
+    "url": "https://note.com/_nana__i_/n/n17cce1d57806?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If I choose the same things as everyone else, it can't be wrong.",
+    "url": "https://note.com/_nana__i_/n/n17cce1d57806?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My job is unique, so it won't be useful if I change jobs...? That might just be because you don't know other companies🧭｜ぽめろん｜元気が出る転職活動",
+    "url": "https://note.com/happy_pomalon/n/n7189d7c31b65?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My job is unique, so it won't be useful if I change jobs...? That might just be because you don't know other companies🧭",
+    "url": "https://note.com/happy_pomalon/n/n7189d7c31b65?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "🗣\"The way we do things at my company is a bit unique...\"",
+    "url": "https://note.com/happy_pomalon/n/n7189d7c31b65?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "🗣\"I feel like this work wouldn't be useful at any other company💦\"",
+    "url": "https://note.com/happy_pomalon/n/n7189d7c31b65?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Precisely because you have worked hard at the same company for a long time, you hesitate the moment you think about changing jobs.",
+    "url": "https://note.com/happy_pomalon/n/n7189d7c31b65?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"I wonder if I'm only capable of working here...\"",
+    "url": "https://note.com/happy_pomalon/n/n7189d7c31b65?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Today, I'd like to talk about how to think when you feel like",
+    "url": "https://note.com/happy_pomalon/n/n7189d7c31b65?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "you can only succeed at your current company",
+    "url": "https://note.com/happy_pomalon/n/n7189d7c31b65?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "𝒊𝒔𝒂ྀི ₊ ⊹ (@Unique) / X 8 889 𝒊𝒔𝒂ྀི ₊ ⊹ @Unique Sep 29 Yk you’re healing when their validation is not enough anymore 🙏 I’m free FR 2",
+    "url": "https://x.com/Unique",
+    "pass": 3
+   },
+   {
+    "quote": "#unique - Search / X See posts about #unique on X. See what people are saying and join the conversation.",
+    "url": "https://x.com/hashtag/unique",
+    "pass": 3
+   },
+   {
+    "quote": "Unique (@Unique_charity) / X He ran for Unique and for his son, Blake, who has a rare chromosome and gene disorder. He raised over £526 for Unique to help us produce easy to understand information and connect more families with rare diagnoses.",
+    "url": "https://x.com/unique_charity",
+    "pass": 3
+   },
+   {
+    "quote": "Unique X (@WeAreUniqueX) / X Unique X is delighted to once again be partnering with DAZN to bring an action-packed night of cross-over boxing to cinemas across the UK & Ireland on Saturday 14th October.",
+    "url": "https://x.com/weareuniquex",
+    "pass": 3
+   },
+   {
+    "quote": "UniquE (@UniquE_idv) / X Aug 4, 2026 · \\ 📢 TikTok開設のお知らせ📢 ／ この度、UniquEの TikTokを開設しました！ 🎉 これからTikTokでもUniquEの魅力やプレイ中の様子など、さまざまなコンテンツを発信していきます！ 📸 ぜひフォローしてチェックしてくださいね！",
+    "url": "https://x.com/UniquE_idv",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Unique USA Inc. - LinkedIn Unique USA is a supplier of floor coverings. Headquartered in Fort Mill South Carolina, Unique USA ships tens of thousands of rugs worldwide every month from its global network of distribution...",
+    "url": "https://www.linkedin.com/company/unique-usa-inc.",
+    "pass": 3
+   },
+   {
+    "quote": "Unique - LinkedIn Bij Unique kunnen we met 50 jaar werkervaring en 800+ medewerkers precies dat. Kijken we verder dan wat jij doet en zien we wie jij bent.",
+    "url": "https://www.linkedin.com/company/unique",
+    "pass": 3
+   },
+   {
+    "quote": "Unique Org | LinkedIn Unique Org | 819 followers on LinkedIn. A part of India's largest direct sales and marketing firm | Unique Org is a branding and promotion company, specialising in developing and running,...",
+    "url": "https://in.linkedin.com/company/unique-org",
+    "pass": 3
+   },
+   {
+    "quote": "Unique Group | LinkedIn Unique Group | 59,979 followers on LinkedIn. Unique Group is a leading specialist and integrated engineering solutions provider across the global subsea, renewables, oil and gas, and defence...",
+    "url": "https://in.linkedin.com/company/uniquegroupcompany",
+    "pass": 3
+   },
+   {
+    "quote": "Unique Note Co., Ltd - LinkedIn Unique Note Co., Ltd Musicians About us Website http://unique-note.co.jp Industry Musicians",
+    "url": "https://www.linkedin.com/company/unique-note-co.-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "Tetsuya Shibata - President at Unique Note Co., Ltd | LinkedIn『ユニークノート 』代表、柴田徹也氏がゲーム音楽を通じてプレイヤー...ユニークノート - WikipediaBusiness Directory - Dun & Bradstreet President at Unique Note Co., Ltd · 職歴: Unique Note Co., Ltd. · 場所: 東京都 · LinkedInのつながり318人。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでTetsuya Shibataさんのプロフィールを閲覧しましょう。 音楽との出会い、そして歩み 柴田氏といえば、カプコン在籍時には20作以上のタイトルに関わり、自身が作曲した楽曲が米国“G.A.N.G.Award”にノミネー",
+    "url": "https://jp.linkedin.com/in/tetsuyashibata",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "MyUnique Thrift - FacebookUNiQUE - FacebookUnique Designs Wholesale, Inc. - FacebookUnique Vintage - FacebookUnique - Rare Chromosome Disorder Support Group - FacebookUniqueSource Products & Services | Mechanicsburg PAUnique Snacks | Reading PA - Facebook 2 days ago · MyUnique Thrift. 23,844 followers · 4,150 talking about this · 775 were here. Save More, Waste Less. Affordable finds with a purpos",
+    "url": "https://www.facebook.com/myuniquethrift/",
+    "pass": 3
+   },
+   {
+    "quote": "UNiQUE - FacebookUnique Designs Wholesale, Inc. - FacebookUnique Vintage - FacebookUnique - Rare Chromosome Disorder Support Group - FacebookUniqueSource Products & Services | Mechanicsburg PAUnique Snacks | Reading PA - Facebook 2 days ago · အချိန်တွေ ကြန့်ကြာနေမလားဆိုပြီး စိတ်ပူနေရရင်တော့ အဲ့ဒီစိတ်ပူစရာတွေအားလုံးကို ဖြေရှင်းပေးဖို့ UNiQUE ကိုသာ လှမ်းခဲ့လိုက်ပ ... Nov 2, 2026 · Unique Designs Who",
+    "url": "https://www.facebook.com/unique.com.mm/",
+    "pass": 3
+   },
+   {
+    "quote": "Unique Designs Wholesale, Inc. - FacebookUnique Vintage - FacebookUnique - Rare Chromosome Disorder Support Group - FacebookUniqueSource Products & Services | Mechanicsburg PAUnique Snacks | Reading PA - Facebook Nov 2, 2026 · Unique Designs Wholesale, Inc. 3,410 followers · 370 talking about this. We offer wholesale items to flower shops all over the United States. Oct 16, 2026 · Our mistress, ou",
+    "url": "https://www.facebook.com/uniquedesignwholesale/",
+    "pass": 3
+   },
+   {
+    "quote": "Unique Vintage - FacebookUnique - Rare Chromosome Disorder Support Group - FacebookUniqueSource Products & Services | Mechanicsburg PAUnique Snacks | Reading PA - Facebook Oct 16, 2026 · Our mistress, our muse, our spooky season icon. Get the Elvira look with the Elvira x Unique Vintage collection. 1 day ago · At Unique, we’re here to provide information, support and a community for anyone affecte",
+    "url": "https://www.facebook.com/uniquevintage/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.unique.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unique.ai/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unique.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unique.ai/bnp-paribas-wm-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unique.ai/demo",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.imagica-ems.co.jp/release/uniquex-20251204/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.pronews.com/news/202512041633702719.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://new.uniquejapan.com/home/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://red27creative.com/manufacturing-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/unique-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/unique-ag",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/unique",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/unique-usa",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/craftchoco/n/n319fbcb27824?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/_nana__i_/n/n17cce1d57806?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/happy_pomalon/n/n7189d7c31b65?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Unique",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/unique",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/unique_charity",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/weareuniquex",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/unique-usa-inc.",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/unique",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/unique-org",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/uniquegroupcompany",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/myuniquethrift/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/unique.com.mm/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/uniquedesignwholesale/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/uniquevintage/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/unique-note-co.-ltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/tetsuyashibata",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/weareuniquex",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/UniquE_idv",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Unique 日本 導入",
+   "results": [
+    "https://www.imagica-ems.co.jp/release/uniquex-20251204/",
+    "https://jp.pronews.com/news/202512041633702719.html",
+    "https://new.uniquejapan.com/home/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://1-president.com/services-japan-absence/",
+    "https://www.jreast.co.jp/press/2026/20261110_ho03.pdf",
+    "https://www.imagica-ems.co.jp/release/uniquex-20260410/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unique 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unique Japan",
+   "results": [
+    "https://grokipedia.com/page/j_rock_groupies_200_photos_of_unique_japanese_girls_(book)"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "Unique manufacturing customer case study",
+   "results": [
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "https://red27creative.com/manufacturing-case-studies",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.smallbizfire.com/case-studies-of-successful-manufacturing-companies/",
+    "https://www.renascence.io/journal/customer-experience-cx-design-in-manufacturing-examples-case-studies",
+    "https://customermanufacturing.com/resources/case-studies/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unique white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Unique founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/unique-revenue",
+    "https://getlatka.com/companies/unique-ag",
+    "https://compworth.com/company/unique",
+    "https://compworth.com/company/unique-usa",
+    "https://www.zoominfo.com/c/unique-funding-solutions-llc/458177756",
+    "https://startupintros.com/orgs/unique",
+    "https://www.crunchbase.com/organization/unique-foundation"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Unique",
+   "results": [
+    "https://note.com/craftchoco/n/n319fbcb27824?hl=en",
+    "https://note.com/_nana__i_/n/n17cce1d57806?hl=en",
+    "https://note.com/happy_pomalon/n/n7189d7c31b65?hl=en",
+    "https://tales.note.com/unique_kiwi5708",
+    "https://tales.note.com/unique_moose9278/board/threads/tw759p2srjmzo?from=community-board",
+    "https://note.com/unique_boar4990/n/nafc813774724?hl=en",
+    "https://note.com/unique_panda3782/n/nf3091272872e?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Unique",
+   "results": [
+    "https://x.com/Unique",
+    "https://x.com/hashtag/unique",
+    "https://x.com/unique_charity",
+    "https://x.com/weareuniquex",
+    "https://x.com/uniquesingh__",
+    "https://x.com/UniqueGeese",
+    "https://help.x.com/en/rules-and-policies/adult-content"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Unique",
+   "results": [
+    "https://www.linkedin.com/company/unique-usa-inc.",
+    "https://www.linkedin.com/company/unique",
+    "https://in.linkedin.com/company/unique-org",
+    "https://in.linkedin.com/company/uniquegroupcompany",
+    "https://br.linkedin.com/company/unique-rubber",
+    "https://bh.linkedin.com/company/uniquewll",
+    "https://pk.linkedin.com/company/unique-group-of-institutions"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Unique",
+   "results": [
+    "https://www.facebook.com/myuniquethrift/",
+    "https://www.facebook.com/unique.com.mm/",
+    "https://www.facebook.com/uniquedesignwholesale/",
+    "https://www.facebook.com/uniquevintage/",
+    "https://www.facebook.com/Uniquerarechromosomedisordersupportgroup/",
+    "https://www.facebook.com/UniqueSourcePA/",
+    "https://www.facebook.com/UniqueSnacksUSA/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unique note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ユニークノート",
+    "https://www.linkedin.com/company/unique-note-co.-ltd",
+    "https://jp.linkedin.com/in/tetsuyashibata",
+    "https://unique-note.co.jp/about/",
+    "https://unique-note.co.jp/",
+    "https://mirainohajimari.com/article/347",
+    "https://www.dnb.com/business-directory/company-profiles.unique_note_co_ltd.238261fa50fef01ef656c47189ca75f6.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unique X 投稿",
+   "results": [
+    "https://x.com/weareuniquex",
+    "https://uniquex.com/",
+    "https://space.bilibili.com/646806293/video",
+    "https://x.com/UniquE_idv",
+    "https://www.facebook.com/uniquexmacauofficial/",
+    "https://recu.me/performer/unique_x/latest",
+    "https://connect.uniquex.com/cas/login"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

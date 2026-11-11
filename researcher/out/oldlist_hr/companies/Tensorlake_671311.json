@@ -1,0 +1,1246 @@
+{
+ "name": "Tensorlake",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜状態なし",
+ "researched_at": "2026-11-11T06:42:41.392974+00:00",
+ "official_url": "https://www.tensorlake.ai",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/tensorlake-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/tensorlake-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "XX",
+    "url": "https://prospeo.io/c/tensorlake-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Give the agent its own filesystem, shell, packages, and processes instead of sharing the app server runtime.",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Compile code, run databases, process large files. Bring any Linux stack.",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "POSIX directory mounts and hosted Git so your agents never lose the work they produce.",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mount a durable volume and it shows up as an ordinary POSIX directory. Reads and writes hit local NVMe, and every settled change saves itself to durable storage. Take a snapshot to pin a permanent checkpoint, roll back to any point in time, and pick the work back up on another machine after a crash.",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "tl git · CLONE · SNAPSHOT · PROMOTE",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Use it as ordinary Git and clone, branch, commit, merge, and push the way you always have. Or mount a repository into a sandbox with no clone at all: work in a private workspace, take snapshots as you go, and promote the result to a branch with a compare-and-swap. Merges run on the server, and you pay for the paths that changed rather than the size of the repo.",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Stream a branch into a sandbox on demand. Content arrives as it's read, so there's no full checkout to wait on.",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "SNAPSHOT THEN PROMOTE",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Autosave protects a private workspace WAL. A snapshot seals a commit, and promote moves a branch with a compare-and-swap that copies zero bytes.",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Merge, rebase, and preflight conflicts without a checkout, at hundreds of pushes per second per repository.",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "tl git promote ./work main",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A workspace is a private branch you mount as a POSIX directory on any machine. Writes autosave, so an agent can stop and",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": ". Snapshots pin checkpoints; promote merges one to a shared branch by moving a pointer, never copying data.",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Store anything an agent produces. Version all of it.",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "One repository per generated project, with branches, merges, and a durable history that records who changed what. Keep it somewhere you can publish from.",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Freeze a sandbox — memory, processes, and filesystem intact — and the meter stops. Resume by name in about a second, or let it wake automatically the moment a request or connection comes in.",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Import any OCI image and convert it to an ext4 rootfs with full fidelity — filesystem and runtime metadata preserved. Sandboxes boot exactly like your Docker container, no translation errors.",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-published, boots in seconds",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "# pre-published image — boots directly, no rebuild",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "# oracle pass — reproduces the run on the right",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "— 1.7× faster than the next best provider.",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictable throughput means fresh sessions spin up immediately, even when a thousand others are mid-task.",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Durable primitives for long-running agentic flows. Application observability baked in.",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect to the same sandbox id from any laptop. Which region or host the VM lives on is the platform's problem — not yours.",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Filesystem, memory, running processes, tmux sessions and ~/.vscode-server are exactly where you left them — resume by name, weeks later.",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "OUR PRICING · UPDATED Q3 · 2026",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Start free, add prepaid credits when you need more, and only talk to sales when you need to. Every tier runs on the same Firecracker microVMs, the same APIs, and the same 5M-per-project ceiling.",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "put you in control: start with a $5, $10, or $20 prepaid pack, see your live balance and activity, and turn on auto-refill only when you want it.",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pro uses a monthly billing cycle",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Encrypted storage, 7 day retention",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prepaid flexibility without surprise overages.",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "$5–$20 prepaid packs",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For production agents at scale.",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Includes 25,000 CU ($250 of usage) per billing cycle. Additional usage is billed at $0.01 per CU at the Pro rates below. The self-serve Pro billing cycle is monthly.",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "1 CU = $0.01 of prepaid balance. Credits pay for sandbox CPU, memory, disk, and snapshot storage at the rates below. Network egress is free.",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Usage Credits deduct from your prepaid balance at these rates. Pro draws from its included 25,000 CU first, then bills overage at $0.01/CU. CPU is billed on active execution, with a minimum of",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated GPU capacity, ready when your workloads need it. Billed per hour on its own invoice, separate from sandbox usage.",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Describe a typical month of sandbox activity. We convert it to compute units with the production rate sets and show what it costs On-Demand and on Pro, including Pro's $250 of included usage.",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "On-Demand up to 4 · Pro up to 16",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "On-Demand up to 16 GB · Pro up to 64 GB",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "at this volume. Pro's $250 base pays for itself at about",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "pro_gb_v1",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Usage Credits are a prepaid balance for sandbox compute. One compute unit (CU) is worth $0.01. Choose a $5, $10, or $20 pack when you join the plan, then add more whenever you need them. CPU, memory, disk, and snapshot storage deduct from that balance at the rates shown above — never as a postpaid overage.",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What does Pro include?",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pro is $250 per billing cycle and includes 25,000 CU, which is $250 of usage at Pro's lower per-resource rates. Usage beyond the included 25,000 CU is billed at $0.01 per CU on the same invoice. Pro also lifts limits to 1,000 concurrent sandboxes, 16 vCPU and 64 GB RAM per sandbox, and unlimited session duration.",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "You can start on our Free tier and run 1 sandbox at a time — no credit card required. When you're ready to scale past the Free limits, switch to Usage Credits and choose a prepaid pack starting at $5.",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We block new sandbox activity and stop running sandboxes instead of turning the shortfall into an unexpected bill. You can buy another pack to resume access, or enable auto-refill with your preferred pack and balance threshold to reduce interruptions.",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. We are SOC 2 Type 2 compliant on every tier, and HIPAA compliant with a BAA on Pro and above. For strict data residency or sovereignty requirements we offer on-prem and in-VPC deployment on Enterprise — email support@tensorlake.ai to start a conversation.",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How is pricing metered?",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Your data, projects, API keys, and remaining Usage Credits are preserved across plan changes. Unused credits are retained rather than refunded, and become available again if you return to Usage Credits. Returning to the plan also requires purchasing a new pack.",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "JOIN THE TEAM · HIRING · 2026",
+    "url": "https://www.tensorlake.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We're hiring engineers who want to build the operating system for agentic applications and AI data workflows — the boring, reliable substrate magic depends on.",
+    "url": "https://www.tensorlake.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The fine print, front and center.",
+    "url": "https://www.tensorlake.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "FIVE THINGS WE OFFER EVERY FULL-TIME HIRE",
+    "url": "https://www.tensorlake.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Market-leading base in every city we hire in, plus meaningful early-stage equity.",
+    "url": "https://www.tensorlake.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "401(k) with pre-tax and Roth options so future-you gets a cut of present-you's paychecks.",
+    "url": "https://www.tensorlake.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Courses, coworking, meals, gym — bill it to the stipend, no approval dance.",
+    "url": "https://www.tensorlake.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We hire slowly and carefully. If you don't see a role that fits but love the mission, email",
+    "url": "https://www.tensorlake.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Engineer",
+    "url": "https://www.tensorlake.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Pair on a real problem, no take-homes. We show our code, you show yours.",
+    "url": "https://www.tensorlake.ai/careers",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Stream a branch into a sandbox on demand. Content arrives as it's read, so there's no full checkout to wait on.",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Security teams should also scan repositories for the named malicious files and block the listed domain at DNS, proxy, and endpoint layers.",
+    "url": "https://cybersecuritynews.com/tensorlake-npm-package/",
+    "pass": 3
+   },
+   {
+    "quote": "Cybersecurity Awareness Month 2026 arrives as online attacks become...",
+    "url": "https://cybersecuritynews.com/tensorlake-npm-package/",
+    "pass": 3
+   },
+   {
+    "quote": ", where the visual system made it easier to explain data flow, retrieval, and the role each service plays in the overall design. The diagrams were not decoration; they were part of the teaching method: helping developers form a working mental model faster and making the content easier to share.",
+    "url": "https://www.studio1hq.com/case-studies/tensorlake",
+    "pass": 3
+   },
+   {
+    "quote": "Tensorlake has 11 total employees.",
+    "url": "https://pitchbook.com/profiles/company/594250-75",
+    "pass": 3
+   },
+   {
+    "quote": "What is Tensorlake’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/594250-75",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Tensorlake is",
+    "url": "https://pitchbook.com/profiles/company/594250-75",
+    "pass": 3
+   },
+   {
+    "quote": "Tensorlake Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/tensorlake-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Tensorlake",
+    "url": "https://prospeo.io/c/tensorlake-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/tensorlake-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/tensorlake-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/tensorlake-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Tensorlake?",
+    "url": "https://prospeo.io/c/tensorlake-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Tensorlake generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/tensorlake-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/tensorlake-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/tensorlake-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Tensorlake have?",
+    "url": "https://prospeo.io/c/tensorlake-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/tensorlake-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Have AI carry out the planned work",
+    "url": "https://note.com/ma2ka777/n/na28a355d919c?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "24×7 Slack + email",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "If you have a question that isn't covered here, email",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. We are SOC 2 Type 2 compliant on every tier, and HIPAA compliant with a BAA on Pro and above. For strict data residency or sovereignty requirements we offer on-prem and in-VPC deployment on Enterprise — email support@tensorlake.ai to start a conversation.",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email support@tensorlake.ai and one of our founders will reach out directly. For procurement, security reviews, or anything Enterprise, book a 30-minute call and we'll pull in the right person on our side.",
+    "url": "https://www.tensorlake.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We hire slowly and carefully. If you don't see a role that fits but love the mission, email",
+    "url": "https://www.tensorlake.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/feedback!",
+    "url": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/594250-75",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/tensorlake-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ハッカーがTensorlakeパッケージを乗っ取り、サプライチェーンマルウ... — Oct 8, 2026 · ハッカーがTensorlakeパッケージを乗っ取り、サプライチェーンマルウェア「Shai-Hulud」を拡散 攻撃者が2026年10月8日、npmパッケージ tensorlake の悪意あるバージョンを公開しました。 自己複製型サプライチェーンワーム「Shai-Hulud」の新たな亜種が仕込まれてい ...",
+    "url": "https://blackhatnews.tokyo/archives/147475",
+    "pass": 3
+   },
+   {
+    "quote": "Tensorlake — Sandboxes for AI Agents — Sandboxes for AI agents. Securely run untrusted, LLM-generated code in isolated Firecracker microVM sandboxes that scale from one to thousands — with snapshot, suspend/resume, and durable orchestration.",
+    "url": "https://www.tensorlake.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "tensorlake ソフトウェアサプライチェーン攻撃の概要と対策指針 - GMO... — Oct 8, 2026 · 2026年10月8日、npm パッケージ tensorlake に悪性コードが注入されました。 注入された悪性コードは、Infostealer機能を持つマルウェアです。preinstall フック経由で実行され、AWS・GitHub・Kubernetes・Vault などの認証情報を盗み出して送出する挙動が確認されています。また、マルウェアがspawnする ...",
+    "url": "https://blog.flatt.tech/entry/tensorlake_compromise",
+    "pass": 3
+   },
+   {
+    "quote": "Tensorlake npm Package Compromised to Spread Shai-Hulud Worm ... — Oct 8, 2026 · A malicious Tensorlake npm release carries a Shai-Hulud worm variant that steals developer secrets and spreads through software supply chains.",
+    "url": "https://cybersecuritynews.com/tensorlake-npm-package/",
+    "pass": 3
+   },
+   {
+    "quote": "Tensorlake npm Package Compromised to Deliver Shai-Hulud ... — Oct 8, 2026 · Malicious tensorlake npm version 0.5.144 contained a Shai-Hulud worm that harvests credentials and can republish compromised packages.",
+    "url": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
+    "pass": 3
+   },
+   {
+    "quote": "Hackers Hijack Tensorlake Package to Spread Shai-Hulud Supply ... — Oct 8, 2026 · A threat actor published a malicious version of the tensorlake npm package on October 8, 2026, embedding a new variant of the self-replicating Shai-Hulud supply-chain worm.",
+    "url": "https://gbhackers.com/tensorlake-package-hijacked/",
+    "pass": 3
+   },
+   {
+    "quote": "Tensorlake: Technical Content, Visual Tutorials, and Launch ... — Studio1 partnered with Tensorlake on search-led technical content, visual tutorials, Dev.to distribution, and project-led launches that created durable discovery for its AI infrastructure work.",
+    "url": "https://www.studio1hq.com/case-studies/tensorlake",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub - tensorlakeai/examples: Collection of example ... — A collection of example applications and integrations demonstrating how to use Tensorlake for building AI-powered applications.",
+    "url": "https://github.com/tensorlakeai/examples",
+    "pass": 3
+   },
+   {
+    "quote": "Tensorlake 2026 Company Profile: Valuation, Funding ...Tensorlake Revenue, Funding & Valuation - prospeo.ioTensorlake - Crunchbase Company Profile & FundingTensorlake - 2026 Company Profile & Competitors - TracxnTensorlake — AI Infrastructure Company | NeuronFeedTensorlake Valuation & Funding History | CaplightTensorlake - LinkedIn — Tensorlake FAQs When was Tensorlake founded? Tensorlake was foun",
+    "url": "https://pitchbook.com/profiles/company/594250-75",
+    "pass": 3
+   },
+   {
+    "quote": "Tensorlake Revenue, Funding & Valuation - prospeo.io — Tensorlake has revenue of $1,026,660, estimated valuation of $3,300,000. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/tensorlake-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Tensorlake - Crunchbase Company Profile & Funding — Frequently Asked Questions Where is Tensorlake's headquarters? Tensorlake is located in San Francisco, California, United States. Who are Tensorlake's competitors? Alternatives and possible competitors to Tensorlake may include Retool, Dust, and Unstructured Technologies.",
+    "url": "https://www.crunchbase.com/organization/tensorlake",
+    "pass": 3
+   },
+   {
+    "quote": "Tensorlake - 2026 Company Profile & Competitors - Tracxn — Feb 24, 2026 · Tensorlake is an unfunded company based in San Francisco (United States), founded in 2023. It operates as a Developer of a platform that transforms unstructured data into LLM-ready formats. Tensorlake has not raised any funding yet. The company has 103 active competitors, including 18 funded and 2 that have exited. Its top c",
+    "url": "https://tracxn.com/d/companies/tensorlake/__pzQoC20jS0OaDP-iH2j4cT9c29sEWHp-FEDvvGBhTXw",
+    "pass": 3
+   },
+   {
+    "quote": "Tensorlake — AI Infrastructure Company | NeuronFeed — Tensorlake is an AI Infrastructure company with $9M in funding. See funding rounds, founders, and alternatives on NeuronFeed.",
+    "url": "https://neuronfeed.com/startups/tensorlake",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "GMO Flatt Security株式会社の公式ブログです",
+    "url": "https://blog.flatt.tech/entry/tensorlake_compromise",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、弊社が Takumi Guard の解析基盤をベースに観測＆分析した情報を踏まえ、日本のコミュニティに向けて、影響と対策を中心に整理するものです",
+    "url": "https://blog.flatt.tech/entry/tensorlake_compromise",
+    "pass": 3
+   },
+   {
+    "quote": "海外で話題になった生成AI・AIツールの活用法を日本語で紹介し、AI同士の対談形式で深掘りする「生成AI活用研究部」の会員版メンバーシップです",
+    "url": "https://note.com/genaird/n/na823aee11602",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Rethinking automotive cyber risk for the age of accelerated vulnerability discovery",
+    "url": "https://cybersecuritynews.com/tensorlake-npm-package/",
+    "pass": 3
+   },
+   {
+    "quote": "\"To propagate, the worm enumerates packages associated with the victim's publishing identity, builds Sigstore provenance, and republishes compromised versions,\" Socket explained. \"Strings referencing a fake Copilot/Dependabot workflow suggest it also plants GitHub Actions workflows.\"",
+    "url": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
+    "pass": 3
+   },
+   {
+    "quote": "I am a former manufacturing engineer.",
+    "url": "https://note.com/ma2ka777/n/na28a355d919c?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "OpenCodeとTensorlakeで実現する安全なAIコーディング環境 Aug 7, 2026 · この仕組みの導入は非常にシンプルで、OpenCodeに「tensorlake-opencode」というプラグインを追加するだけで実現できるとされています。 設定ファイルに1行追記し、APIキーを環境変数として設定するだけで、サンドボックス環境が利用可能になるとのことです。",
+    "url": "https://note.com/genaird/n/na823aee11602",
+    "pass": 3
+   },
+   {
+    "quote": "【検証 | Tensorlake】 Tensorlake×Langchainで、複雑なレイアウトド... Jun 26, 2025 · Tensorlakeを活用し、複雑なレイアウトで作成されたドキュメントや、テーブルデータを高精度で解析し、RAG精度を向上させられるか検証します。 本検証の背景 世の中のドキュメントの多くがヒューマンリーダブルに作成されており、そのままRAGで使用しようとした場合、うまく検索ができず ...",
+    "url": "https://note.com/moya_iya_program/n/ne2a5e48e2768",
+    "pass": 3
+   },
+   {
+    "quote": "How to Control the Powerful Permissions of OpenCode ... Aug 6, 2026 · As introduced in the original article, by using a disposable sandbox service like Tensorlake, you can build a setup where even if the agent 'messes up,' it will have absolutely no impact on your main machine.",
+    "url": "https://note.com/h3adeu/n/n4459bb3ab52c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[AI Utilization in Your 50s] Checking AI Tool ... Oct 25, 2026 · Incidents where legitimate components are hijacked and contaminated versions are distributed are continuing. tensorlake, around keyv, AsyncAPI, etc. The countermeasure is to not install contaminated versions.",
+    "url": "https://note.com/ma2ka777/n/na28a355d919c?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "OpenCodeとTensorlakeで実現する安全なAIコーディング環境｜生成AI活用研究部",
+    "url": "https://note.com/genaird/n/na823aee11602",
+    "pass": 3
+   },
+   {
+    "quote": "OpenCodeとTensorlakeで実現する安全なAIコーディング環境",
+    "url": "https://note.com/genaird/n/na823aee11602",
+    "pass": 3
+   },
+   {
+    "quote": "本記事については生成AIを活用して生成された記事となります。",
+    "url": "https://note.com/genaird/n/na823aee11602",
+    "pass": 3
+   },
+   {
+    "quote": "解説内容の正確性については読者ご自身でご確認いただきますようお願いいたします。",
+    "url": "https://note.com/genaird/n/na823aee11602",
+    "pass": 3
+   },
+   {
+    "quote": "OpenCode Is Powerful. That's Exactly the Problem.",
+    "url": "https://note.com/genaird/n/na823aee11602",
+    "pass": 3
+   },
+   {
+    "quote": "自律型コーディングエージェントであるOpenCodeは、強力なシェルアクセス権限を持つ一方で、予期せぬコマンド実行によるリスクが懸念されていると報告されています。",
+    "url": "https://note.com/genaird/n/na823aee11602",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、この課題を解決するためにTensorlakeのクラウドサンドボックスを活用し、ローカル環境を保護しながら安全にAIエージェントを運用する手法について解説されている内容を紹介します。",
+    "url": "https://note.com/genaird/n/na823aee11602",
+    "pass": 3
+   },
+   {
+    "quote": "コーディングエージェントの真のリスクは知能の低さではなく、コマンド実行前に立ち止まって確認しないことにあると述べられています。",
+    "url": "https://note.com/genaird/n/na823aee11602",
+    "pass": 3
+   },
+   {
+    "quote": "How to Control the Powerful Permissions of OpenCode: Operating Autonomous Agents Safely Using Sandboxes｜艶雨",
+    "url": "https://note.com/h3adeu/n/n4459bb3ab52c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Control the Powerful Permissions of OpenCode: Operating Autonomous Agents Safely Using Sandboxes",
+    "url": "https://note.com/h3adeu/n/n4459bb3ab52c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, I have organized my own thoughts on an approach to safely mastering autonomous coding agents, based on the article",
+    "url": "https://note.com/h3adeu/n/n4459bb3ab52c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "OpenCode Is Powerful. That’s Exactly the Problem.",
+    "url": "https://note.com/h3adeu/n/n4459bb3ab52c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It looks promising, so I am planning to try it out. For your reference.",
+    "url": "https://note.com/h3adeu/n/n4459bb3ab52c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In an era where AI autonomously writes and executes code, I would like to consider the balance between 'freedom and risk' that we face.",
+    "url": "https://note.com/h3adeu/n/n4459bb3ab52c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The option of OpenCode and the risks that come with it",
+    "url": "https://note.com/h3adeu/n/n4459bb3ab52c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Recently, 'Claude Code' released by Anthropic has been a hot topic, and 'OpenCode' can be considered its open-source counterpart. It is not tied to a specific model and, with full-throttle shell access, it can autonomously handle everything from reading and editing code to executing tests.",
+    "url": "https://note.com/h3adeu/n/n4459bb3ab52c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[AI Utilization in Your 50s] <Vol.1> Checking AI Tool Vulnerabilities on Your PC--A Record of a Night That Couldn't Be Left Entirely to Claude｜凡庸遊民⭐︎まつか不働尊",
+    "url": "https://note.com/ma2ka777/n/na28a355d919c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[AI Utilization in Your 50s] <Vol.1> Checking AI Tool Vulnerabilities on Your PC--A Record of a Night That Couldn't Be Left Entirely to Claude",
+    "url": "https://note.com/ma2ka777/n/na28a355d919c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For the past few weeks,",
+    "url": "https://note.com/ma2ka777/n/na28a355d919c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "news about cyberattacks has been flying around.",
+    "url": "https://note.com/ma2ka777/n/na28a355d919c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is quite unsettling.",
+    "url": "https://note.com/ma2ka777/n/na28a355d919c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "had my cryptocurrency stolen because",
+    "url": "https://note.com/ma2ka777/n/na28a355d919c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "my Google account was (apparently) hijacked.",
+    "url": "https://note.com/ma2ka777/n/na28a355d919c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "was written in a three-part article series in the [Struggles in Your 50s] series.",
+    "url": "https://note.com/ma2ka777/n/na28a355d919c?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "DFIR Radar on X: \"The tensorlake npm SDK (v0.5.144) was ... The tensorlake npm SDK (v0.5.144) was backdoored with the Shai-Hulud self-propagating credential-stealing worm, targeting AI developer infrastructure by harvesting secrets across npm, AWS, Kubernetes, GitHub, and AI coding tools like Claude Code and VS Code. Key findings: - The compromise arrived…",
+    "url": "https://x.com/DFIR_Radar/status/2108090967807168728",
+    "pass": 3
+   },
+   {
+    "quote": "Tensorlake is an official environment in @harborml 0.5.0 ... Tensorlake (@tensorlake). 6 likes. Tensorlake is an official environment in @harborml 0.5.0. Install the latest Harbor: pip install harbor [tensorlake] Run your first Harbor eval on Tensorlake sandboxes! If you’re using Harbor to publish research, we’d love to support you by offering credits on Tensorlake!",
+    "url": "https://x.com/tensorlake/status/2047758093648539771",
+    "pass": 3
+   },
+   {
+    "quote": "Oliver Smith on X: \"tensorlake 0.5.144 is compromised on NPM\" tensorlake 0.5.144 is compromised on NPM Compromised GitHub maintainer, malicious code is present upstream and was added by a commit made yesterday",
+    "url": "https://x.com/oliver_ojsec/status/2108012888304853260",
+    "pass": 3
+   },
+   {
+    "quote": "StepSecurity on X: \" npm package tensorlake@0.5.144 is ... 🚨 npm package tensorlake@0.5.144 is compromised. It steals credentials and spreads using your npm and GitHub tokens. Revoke the stolen GitHub token and it wipes your home directory. Pin to 0.5.143. Read this first:",
+    "url": "https://x.com/step_security/status/2108024797850677524",
+    "pass": 3
+   },
+   {
+    "quote": "Claude Code Lab @CWorksL on X: \"npmのtensorlake@0.5.144 (10/8 ... npmのtensorlake@0.5.144 (10/8公開)が汚染。 対象はこの1バージョン。 認証情報とAI設定を盗み、届いたリポジトリに.claude/settings.jsonを書く。 Claude Codeで開くと再実行。 感染済みなら、トークン失効は監視を止めてから。 先に失効するとホームが消える。",
+    "url": "https://x.com/cc_lab_jp/status/2109041369775804564",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tensorlake - LinkedIn Tensorlake | 3,923 followers on LinkedIn. Sandboxes and orchestration for production-grade agents | Most agent infrastructure breaks down between demo and production. Cold starts, lost state ...",
+    "url": "https://www.linkedin.com/company/tensorlake",
+    "pass": 3
+   },
+   {
+    "quote": "Diptanu Gon Choudhury - Tensorlake | LinkedInDavid Calavera - Tensorlake | LinkedInExcited to announce Tensorlake Cloud! | Diptanu Gon ChoudhuryFounding Applied AI Scientist at Tensorlake — United States ...Run Tensorlake Sandboxes on Your Private Network - LinkedInIntroducing Tensorlake Cloud: AI data stack solution - LinkedIn Jun 7, 2007 · I work in the intersection of Distributed Systems and AI",
+    "url": "https://www.linkedin.com/in/diptanu",
+    "pass": 3
+   },
+   {
+    "quote": "David Calavera - Tensorlake | LinkedInExcited to announce Tensorlake Cloud! | Diptanu Gon ChoudhuryFounding Applied AI Scientist at Tensorlake — United States ...Run Tensorlake Sandboxes on Your Private Network - LinkedInIntroducing Tensorlake Cloud: AI data stack solution - LinkedIn Experience: Tensorlake · Location: United States · 500+ connections on LinkedIn. View David Calavera’s profile on L",
+    "url": "https://www.linkedin.com/in/david-calavera",
+    "pass": 3
+   },
+   {
+    "quote": "Excited to announce Tensorlake Cloud! | Diptanu Gon Choudhury Excited to announce Tensorlake Cloud! Tensorlake converts real-world documents into clean, structured data for business workflow automation and for building Agents in mission-critical documents ...",
+    "url": "https://www.linkedin.com/posts/diptanu_excited-to-announce-tensorlake-cloud-activity-7328815159106306049-PDPo",
+    "pass": 3
+   },
+   {
+    "quote": "Diptanu Gon Choudhury - Tensorlake | LinkedInTensorlake — Sandboxes for AI AgentsExcited to announce that I am starting a company! We are ...Diptanu Gon Choudhury — AI CouncilDiptanu Gon Choudhury - MotherDuck BlogFounders on the Deck Jun 7, 2007 · I work in the intersection of Distributed Systems and AI/ML. I have worked on Facebook's… · Experience: Tensorlake · Education: National Institute of T",
+    "url": "https://www.linkedin.com/in/diptanu",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Tensorlake - Facebook Tensorlake - Facebook ... Tensorlake",
+    "url": "https://www.facebook.com/Tensorlake-287999911072566/",
+    "pass": 3
+   },
+   {
+    "quote": "Turn complex docs into clean, LLM-ready data! . . Every AI ... Nov 10, 2025 · Tensorlake is a tool that extracts custom-defined structured data from any unstructured document in 3 steps: ↳ Define your schema ↳ Enable citations ↳ Extract You get RAG-ready data with precise citations and bounding boxes. Feed this to your LLM, and you'll generate responses that are citation-backed and fully auditable",
+    "url": "https://www.facebook.com/thanhhm/videos/turn-complex-docs-into-clean-llm-ready-dataevery-ai-company-ive-talked-to-is-sol/2190781034748775/",
+    "pass": 3
+   },
+   {
+    "quote": "Md - Turn complex docs into clean, LLM-ready data! Every AI ... Nov 11, 2025 · Tensorlake is a tool that extracts custom-defined structured data from any unstructured document in 3 steps You get RAG-ready data with precise citations and bounding boxes.",
+    "url": "https://www.facebook.com/photo/?fbid=1370729117914821",
+    "pass": 3
+   },
+   {
+    "quote": "KeyValue Software Systems - FacebookRead “Data Science Is Not a Model:... - Tech Smart Future ...WorldNgayon - FacebookRishiraj Acharya - Facebook From understanding why untrusted code needs strong isolation to exploring tools and technologies like gVisor, Firecracker, Modal Sandboxes, and TensorLake, the discussion went beyond theory into the real engineering challenges of running AI-generated co",
+    "url": "https://www.facebook.com/keyvaluesystems/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tensorlake.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tensorlake.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tensorlake.ai/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tensorlake.ai/assets/logos/datadog.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tensorlake.ai/assets/logos/bespoke.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tensorlake.ai/assets/logos/continual.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tensorlake.ai/assets/logos/fleet.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://blackhatnews.tokyo/archives/147475",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://codenote.net/ja/posts/japanese-local-llm-development-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://diamond.jp/articles/-/395504",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://blog.flatt.tech/entry/tensorlake_compromise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybersecuritynews.com/tensorlake-npm-package/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blackhatnews.tokyo/archives/147475",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.studio1hq.com/case-studies/tensorlake",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hcltech.com/case-studies/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/tensorlakeai/examples",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/594250-75",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/tensorlake-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/tensorlake",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/tensorlake/__pzQoC20jS0OaDP-iH2j4cT9c29sEWHp-FEDvvGBhTXw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/genaird/n/na823aee11602",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/moya_iya_program/n/ne2a5e48e2768",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/h3adeu/n/n4459bb3ab52c?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ma2ka777/n/na28a355d919c?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/DFIR_Radar/status/2108090967807168728",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tensorlake/status/2047758093648539771",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/oliver_ojsec/status/2108012888304853260",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/step_security/status/2108024797850677524",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tensorlake",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/diptanu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/david-calavera",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/diptanu_excited-to-announce-tensorlake-cloud-activity-7328815159106306049-PDPo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Tensorlake-287999911072566/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thanhhm/videos/turn-complex-docs-into-clean-llm-ready-dataevery-ai-company-ive-talked-to-is-sol/2190781034748775/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/photo/?fbid=1370729117914821",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/keyvaluesystems/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/diptanu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cc_lab_jp/status/2109041369775804564",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tensorlake 日本 導入",
+   "results": [
+    "https://blackhatnews.tokyo/archives/147475",
+    "https://www.tensorlake.ai/",
+    "https://codenote.net/ja/posts/japanese-local-llm-development-case-studies/",
+    "https://diamond.jp/articles/-/395504",
+    "https://www.itmedia.co.jp/business/articles/2610/08/news016.html",
+    "https://japan.zdnet.com/article/35253419/",
+    "https://www.databricks.com/jp/company/newsroom/press-releases/databricks-reports-100-yoy-growth-japan-and-opens-new-tokyo-office"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tensorlake 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.tensorlake.ai/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tensorlake Japan",
+   "results": [
+    "https://blog.flatt.tech/entry/tensorlake_compromise",
+    "https://cybersecuritynews.com/tensorlake-npm-package/",
+    "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
+    "https://blackhatnews.tokyo/archives/147475",
+    "https://gbhackers.com/tensorlake-package-hijacked/",
+    "https://www.tensorlake.ai/",
+    "https://www.tensorlake.ai/blog/series-a-announcement"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tensorlake manufacturing customer case study",
+   "results": [
+    "https://www.studio1hq.com/case-studies/tensorlake",
+    "https://www.hcltech.com/case-studies/manufacturing",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://github.com/tensorlakeai/examples",
+    "https://www.tensorlake.ai/",
+    "https://www.tensorlake.ai/blog/series-a-announcement",
+    "https://www.amd.com/content/dam/amd/en/documents/resources/case-studies/tensorwave-case-study.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tensorlake white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.superantispyware.com/reseller-program",
+    "https://partners.spectrum.com/",
+    "https://partners.gohighlevel.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tensorlake founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/594250-75",
+    "https://prospeo.io/c/tensorlake-revenue",
+    "https://www.crunchbase.com/organization/tensorlake",
+    "https://tracxn.com/d/companies/tensorlake/__pzQoC20jS0OaDP-iH2j4cT9c29sEWHp-FEDvvGBhTXw",
+    "https://neuronfeed.com/startups/tensorlake",
+    "https://www.caplight.com/company/tensorlake",
+    "https://www.linkedin.com/company/tensorlake"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Tensorlake",
+   "results": [
+    "https://note.com/genaird/n/na823aee11602",
+    "https://note.com/moya_iya_program/n/ne2a5e48e2768",
+    "https://note.com/h3adeu/n/n4459bb3ab52c?hl=en",
+    "https://note.com/ma2ka777/n/na28a355d919c?hl=en",
+    "https://note.com/ai_jiko_kiroku/n/na72b65534a97?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/ogikubo/n/nf616c0b6685a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tensorlake",
+   "results": [
+    "https://x.com/DFIR_Radar/status/2108090967807168728",
+    "https://x.com/tensorlake/status/2047758093648539771",
+    "https://x.com/oliver_ojsec/status/2108012888304853260",
+    "https://x.com/step_security/status/2108024797850677524",
+    "https://x.com/tensorlake/status/2051291490341818825",
+    "https://x.com/Python_s_/status/2108590568573952464",
+    "https://x.com/rst_cloud/status/2108440800652570779"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Tensorlake",
+   "results": [
+    "https://www.linkedin.com/company/tensorlake",
+    "https://www.linkedin.com/in/diptanu",
+    "https://www.linkedin.com/in/david-calavera",
+    "https://www.linkedin.com/posts/diptanu_excited-to-announce-tensorlake-cloud-activity-7328815159106306049-PDPo",
+    "https://www.linkedin.com/jobs/view/founding-applied-ai-scientist-at-tensorlake-3835830709",
+    "https://www.linkedin.com/posts/diptanu_introducing-tensorlake-byoc-serverless-sandboxes-activity-7488244440663511040-J4bU",
+    "https://www.linkedin.com/posts/tensorlake_llms-aiinfra-tensorlake-activity-7328813155709517824-IMYQ"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tensorlake",
+   "results": [
+    "https://www.facebook.com/Tensorlake-287999911072566/",
+    "https://www.facebook.com/thanhhm/videos/turn-complex-docs-into-clean-llm-ready-dataevery-ai-company-ive-talked-to-is-sol/2190781034748775/",
+    "https://www.facebook.com/photo/?fbid=1370729117914821",
+    "https://www.facebook.com/keyvaluesystems/",
+    "https://www.facebook.com/WorldNgayon2/",
+    "https://www.facebook.com/acharyarishiraj/",
+    "https://www.facebook.com/61583502485839/posts/read-data-science-is-not-a-model-six-dimensions-you-only-learn-in-production-by-/122120892879116749/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tensorlake note 社長",
+   "results": [
+    "https://www.tensorlake.ai/blog/series-a-announcement",
+    "https://www.linkedin.com/in/diptanu",
+    "https://www.tensorlake.ai/",
+    "https://www.aicouncil.com/speakers/diptanu-gon-choudhury",
+    "https://motherduck.com/authors/diptanu-gon-choudhury/",
+    "https://www.foundersonthedeck.com/",
+    "https://www.linkedin.com/posts/diptanu_excited-to-announce-that-i-am-starting-a-activity-7140788718902173697-uGMd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tensorlake X 投稿",
+   "results": [
+    "https://www.tensorlake.ai/faq",
+    "https://x.com/cc_lab_jp/status/2109041369775804564",
+    "https://github.com/tensorlakeai/tensorlake",
+    "https://news.lavx.hu/zh-Hans/article/hei-ke-tou-du-tensorlake-npm-bao-chuan-bo-qie-qu-ping-ju-de-shai-hulud-ru-chong",
+    "https://www.npmjs.com/package/tensorlake",
+    "https://www.tensorlake.ai/",
+    "https://x.com/cooltxeel"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部41頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部41頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部41頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部41頁・検索12回）"
+ }
+}

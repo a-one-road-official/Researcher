@@ -1,0 +1,1542 @@
+{
+ "name": "Topkey",
+ "aliases": [],
+ "context": "旧営業リスト｜Non-AUMS｜未接触",
+ "researched_at": "2026-11-11T06:51:06.303793+00:00",
+ "official_url": "https://www.topkey.io/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "05-Jul-2023    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/463290-67",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "01-Jan-2022 $340K $465K  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/463290-67",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/463290-67",
+    "pass": 3
+   },
+   {
+    "label": "Seed-2",
+    "value": "738,243 $0.000100  $0.17 $0.17 1x $0.17 5.73%",
+    "url": "https://pitchbook.com/profiles/company/463290-67",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "99,760 $0.000100  $0.55 $0.55 1x $0.55 0.77%",
+    "url": "https://pitchbook.com/profiles/company/463290-67",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Trusted by 350+ property managers and 52,000+ properties.",
+    "url": "https://topkey.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Topkey auto-categorizes bills and receipts, splits trust vs. operating, enforces approvals, automates revenue recognition, and syncs clean data to your PMS and accounting software. Stay in control of your finances while AI automates the busy work.",
+    "url": "https://topkey.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Lost receipts and small errors add up to big losses for property managers. Topkey keeps every transaction tied to the right property and owner, turning overlooked costs into recovered revenue.",
+    "url": "https://topkey.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for property managers.",
+    "url": "https://topkey.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Stop using tools that aren’t built for property managers. Topkey brings cards, bill pay, invoicing, revenue recognition, and banking* into one unified system, powered by AI. Sync clean data to your PMS and accounting software for seamless reconciliation and reporting.",
+    "url": "https://topkey.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Property-level insights.",
+    "url": "https://topkey.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Give your leadership team instant clarity without waiting on month-end reports. Topkey gives you real-time insights across properties, trust vs. operating accounts, owners, and vendors. AI spots anomalies and errors so you can make faster decisions, and stay in control.",
+    "url": "https://topkey.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Spend more time investing in your properties.",
+    "url": "https://topkey.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Upload receipts and assign expenses to properties on the go, so every purchase is 100% tracked and reimbursed.",
+    "url": "https://topkey.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Topkey is profitable for us, it's not an expense.",
+    "url": "https://topkey.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Anchor Point Premier Vacations",
+    "url": "https://topkey.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Topkey saves us almost two full days of leadership productivity that's not spent on month-end accounting.",
+    "url": "https://topkey.io/",
+    "pass": 1
+   },
+   {
+    "quote": "801 Barton Springs Rd",
+    "url": "https://topkey.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Property Management Software Integrations | PMS, Accounting, Credit Cards & Banking | Topkey",
+    "url": "https://topkey.io/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Track receipts by property.",
+    "url": "https://topkey.io/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Process bills in seconds.",
+    "url": "https://topkey.io/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "American Express® Business Gold",
+    "url": "https://topkey.io/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Amazon Business Prime American Express®",
+    "url": "https://topkey.io/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Chase Ink Business Preferred",
+    "url": "https://topkey.io/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "How-to videos and guides",
+    "url": "https://topkey.io/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "SOC 2 Type 2 in progress",
+    "url": "https://topkey.io/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "801 Barton Springs Rd",
+    "url": "https://topkey.io/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Topkey does not provide tax, legal, or accounting services. All information on this site is for educational purposes only.",
+    "url": "https://topkey.io/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Top Accounting, Bookkeeping & PMS Experts for Property Managers | Topkey Partners",
+    "url": "https://topkey.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Casago is a top-rated vacation rental management company providing professional property management services for homeowners across North America, Belize, Costa Rica, and the Caribbean.",
+    "url": "https://topkey.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "HostGPO is a members-only buying group for vacation rental hosts, owners, and managers. Get the best prices on the best products to set up and restock your properties.",
+    "url": "https://topkey.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Skilled in various property management software along with QBO and operations accounting, Infinite Accounting delivers tailored financial reporting, month-end closings, and CPA-backed tax services.",
+    "url": "https://topkey.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Keystone provides specialized bookkeeping & tax services for short-term rental property managers, co-hosts, and STR owners: owner statements, bill pay, cleanup/catch-up, and tax-ready financials.",
+    "url": "https://topkey.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "PMS Pros is redefining short term rental expectations by offering property management teams with one-on-one expert assistance with the evaluation, selection, onboarding, and ongoing optimization of today’s leading PMS brands.",
+    "url": "https://topkey.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Property Management Inc.",
+    "url": "https://topkey.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Property Management Inc. (PMI) is a leading property management franchise with over 400 locations nationwide, delivering professional residential, commercial, HOA, and vacation rental management services.",
+    "url": "https://topkey.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Thuro Accounting has been the trusted accounting partner for Property Managers in the short-term vacation rental industry for nearly a decade. We specialize in all things trust accounting, and monthly profit & loss reporting.",
+    "url": "https://topkey.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The premier accounting firm specializing in the vacation rental management and hospitality industry. We help short-term rental businesses simplify their accounting and scale with confidence.",
+    "url": "https://topkey.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "801 Barton Springs Rd",
+    "url": "https://topkey.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Topkey Reviews, Testimonials & Case Studies from Property Managers",
+    "url": "https://topkey.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Topkey saves us almost two full days of leadership productivity that's not spent on month-end accounting.",
+    "url": "https://topkey.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "‍When Topkey came into the picture, it immediately started solving problems. The likelihood of a receipt getting misplaced was reduced dramatically.",
+    "url": "https://topkey.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Topkey is profitable for us, it's not an expense.",
+    "url": "https://topkey.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Anchor Point Premier Vacations",
+    "url": "https://topkey.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Abode Luxury Rentals Runs 200 Properties with a 3-Person Finance Team",
+    "url": "https://topkey.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Curated Vacation Properties Saved $250K with Topkey",
+    "url": "https://topkey.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Hilton Head Properties Realty & Rentals Closes Its Books 80% Faster",
+    "url": "https://topkey.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Western Property Management Closes the Books in Days Instead of 2 Weeks",
+    "url": "https://topkey.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Beachball Properties Saves 200+ Hours Per Year",
+    "url": "https://topkey.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Luxury Properties Jackson Hole Cut Month-End Close to 4 Hours",
+    "url": "https://topkey.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How HeavenlyRez Removed 10 Hours of Manual Spreadsheet Work per Week",
+    "url": "https://topkey.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Elevated Tahoe Properties Saves Up to $90k per Year with Topkey",
+    "url": "https://topkey.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How ERB Properties Saves $14k per Year with Expense Management Automation",
+    "url": "https://topkey.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Anchor Point Premier Vacations Removed Financial Fear with Topkey",
+    "url": "https://topkey.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Hostwise Increased Profit Margin with Topkey",
+    "url": "https://topkey.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "801 Barton Springs Rd",
+    "url": "https://topkey.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Careers at Topkey | Join the Future of Finance for Property Managers",
+    "url": "https://topkey.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Track receipts by property.",
+    "url": "https://topkey.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Process bills in seconds.",
+    "url": "https://topkey.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "American Express® Business Gold",
+    "url": "https://topkey.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Amazon Business Prime American Express®",
+    "url": "https://topkey.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Chase Ink Business Preferred",
+    "url": "https://topkey.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "How-to videos and guides",
+    "url": "https://topkey.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Help us transform financial management for vacation rental property management companies by addressing their unique challenges and becoming the indispensable ally to their bookkeepers.",
+    "url": "https://topkey.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Sales Development Representative (SDR)",
+    "url": "https://topkey.io/careers",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 350+ property managers and 52,000+ properties.",
+    "url": "https://topkey.io/",
+    "pass": 1
+   },
+   {
+    "quote": "From warehouse to owner statement.",
+    "url": "https://topkey.io/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "From warehouse to owner statement.",
+    "url": "https://topkey.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": ", replacing per-house Amazon and Instacart orders with a warehouse cleaners can pull from. Joshua expects it to mean far fewer transactions for the team to categorize.",
+    "url": "https://topkey.io/customer-stories/how-apek-rentals-cut-month-end-to-under-one-day-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "in 2024, they managed five homes on Florida's 30A corridor. Two years later, they manage 128. That kind of growth is what most vacation rental operators are chasing, and it is also what quietly breaks the financial side of the business.",
+    "url": "https://topkey.io/customer-stories/how-stay-on-30a-cut-its-month-end-close-from-8-days-to-2",
+    "pass": 1
+   },
+   {
+    "quote": "The fix had to start at the source. And that meant finding a tool built specifically for the way STR operators actually work.",
+    "url": "https://topkey.io/customer-stories/how-curated-vacation-properties-saved-250k-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "Josh is direct about why this matters for STR operators evaluating their options: \"It really is set up specifically for this industry. It makes the person on the front lines incurring those expenses, their life is so much easier.\"",
+    "url": "https://topkey.io/customer-stories/how-curated-vacation-properties-saved-250k-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "Property-level attribution, owner statement integration, and PMS connectivity are not features bolted onto a general business tool. They are native to how Topkey was designed. And it works across the cards and platforms operators are already using, no forced card switching, no new workflows built from scratch.",
+    "url": "https://topkey.io/customer-stories/how-curated-vacation-properties-saved-250k-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "Equipped with the most advanced technicians and state-of-the-art devices, Topkey facilitates all research and development projects. Furthermore, these research results are shared and incorporated with our leading-edge alliances partners & suppliers to help promote the development of various technologies.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=1",
+    "pass": 3
+   },
+   {
+    "quote": "1.The largest carbon bike manufacturer in the world.",
+    "url": "http://www.topkey.com.tw/www/_english/01_business/01_safety_list_01.php?sid=1",
+    "pass": 3
+   },
+   {
+    "quote": "Three specialized production lines",
+    "url": "http://www.topkey.com.tw/www/_english/01_business/01_safety_list_01.php?sid=1",
+    "pass": 3
+   },
+   {
+    "quote": "Awarded by ZODIAC Aerospace for the best supplier of 2013.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "Topkey ranked the TOP 5000 large enterprise in Taiwan area & the 70th of operating performance in manufacturing industry.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "Opening ceremony of the new production line of Cannondale.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "Topkey moved the new headquarter to No.8, Industrial Park 11st Rd.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "Big Taichung city vice mayor, Mr. Tsai, visited the Xiamen factory.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "Ceremony of capping the roof at subsidiary company Xiamen XinHongZhou’s Hou Hsi plant.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "The opening ceremony of the new A3 plant for Babolat production line.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "The Aerospace medicine department of Xiamen plant received the AS9100B certification.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "The Taichung plant received the AS9100B certification",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "The west plant’s Securities Department and Technology Design Center building opened.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "West district plant construction completed",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "HsinLin C plant completed and put into function. November",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "Set up new subsidiary company, Yu Quan Technology Co, Ltd, designing and manufacturing safety helmet, auto parts, and all kinds of lenses.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "With Austrian manufacturer, Dlouthy, designed the double-purpose wheelchair for sitting or lying down for ambulance.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "Started manufacturing for McDonnell Douglas the leading new the ram air-pipe parts product, MD-11.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "Contracted with Aerospace Industrial Development Corporation (AIDC) to manufacture composite parts for IDF jet.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "Received the Center-Satellite Factory System certification from AIDC.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "Innovative breakthrough on increasing manufacturing efficiency (60 days to 30 days) and management.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "Merged in the American aerospace composite parts manufacturer, NTP and renamed it as C.S.C., Composite Solution Corp.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "ISet up research laboratory and engaged in composite material product innovation. The beginning of industrial upgrading project.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "Utilized new manufacture and management idea to build the new Xiamen factory with yearly racket and helmet production of 1.5-million.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "Cycle and aerospace product research and development commenced.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "Set up Hsin Fung factory, Xin Trade Company, vertical intergration supply chain. Beginning of company transformation.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "Set up factory in Korea and produced and sold tennis racket in local area.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "New factory in Taichung industrial district. Devoted in OEM and ODM research and development and manufactured high value and high performance racket. Productivity raised to monthly 30,000 rackets and 110 employees.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "The factory provides manufacturing production, assembles equipment according to foreign equipment assembly process, conducts various performance tests, and provides complete resident service.",
+    "url": "https://www.topkey-tech.com/topkey-history.html",
+    "pass": 3
+   },
+   {
+    "quote": "As a market leader in the automated medical consumables production equipment industry, Topkey is committed to providing advanced smart manufacturing solutions for medical consumables factories.",
+    "url": "https://www.topkey-tech.com/topkey-history.html",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: How HostWise Increased Profit Margin with Topkey",
+    "url": "https://www.skgates.com/work/case-study-how-hostwise-increased-profit-margin-with-topkey",
+    "pass": 3
+   },
+   {
+    "quote": "End-to-end case study creation for fintech startup Topkey",
+    "url": "https://www.skgates.com/work/case-study-how-hostwise-increased-profit-margin-with-topkey",
+    "pass": 3
+   },
+   {
+    "quote": "This was a full-service case study for fintech platform Topkey, which supports expense management and financial operations for short-term rental companies. Full-service means I handled all customer interaction, interviews, sourced additional statistics, and delivered an approved, print-ready case study for my client.",
+    "url": "https://www.skgates.com/work/case-study-how-hostwise-increased-profit-margin-with-topkey",
+    "pass": 3
+   },
+   {
+    "quote": "3) I drafted the case study and completed an internal review with the Topkey team.",
+    "url": "https://www.skgates.com/work/case-study-how-hostwise-increased-profit-margin-with-topkey",
+    "pass": 3
+   },
+   {
+    "quote": "5) I finalized the case study and submitted to Topkey for publishing and social sharing.",
+    "url": "https://www.skgates.com/work/case-study-how-hostwise-increased-profit-margin-with-topkey",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Topkey auto-categorizes bills and receipts, splits trust vs. operating, enforces approvals, automates revenue recognition, and syncs clean data to your PMS and accounting software. Stay in control of your finances while AI automates the busy work.",
+    "url": "https://topkey.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Lost receipts and small errors add up to big losses for property managers. Topkey keeps every transaction tied to the right property and owner, turning overlooked costs into recovered revenue.",
+    "url": "https://topkey.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Stop using tools that aren’t built for property managers. Topkey brings cards, bill pay, invoicing, revenue recognition, and banking* into one unified system, powered by AI. Sync clean data to your PMS and accounting software for seamless reconciliation and reporting.",
+    "url": "https://topkey.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Reconciliation",
+    "url": "https://topkey.io/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "How Arrived Recouped $250k in Expenses with Topkey",
+    "url": "https://topkey.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Reconciliation",
+    "url": "https://topkey.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Each of those charges had to be added to owner statements manually. At 200 properties, that work came around every month, and it was a big part of what it took to hit the 10th.",
+    "url": "https://topkey.io/customer-stories/how-abode-luxury-rentals-runs-200-properties-with-a-3-person-finance-team",
+    "pass": 1
+   },
+   {
+    "quote": "The team pushes coded transactions weekly to QuickBooks Online, already tagged with property and account, and Chelsea reviews them on the QuickBooks side. Amazon orders arrive coded too. Through the",
+    "url": "https://topkey.io/customer-stories/how-abode-luxury-rentals-runs-200-properties-with-a-3-person-finance-team",
+    "pass": 1
+   },
+   {
+    "quote": "Abode's finance team is three people. They cover the Park City, Jackson Hole, and Sun Valley companies, each run as a separate Topkey account. Alongside 200 homes and about 50 employees, the company also owns a housekeeping company and a laundromat.",
+    "url": "https://topkey.io/customer-stories/how-abode-luxury-rentals-runs-200-properties-with-a-3-person-finance-team",
+    "pass": 1
+   },
+   {
+    "quote": "The relationship carries the same fit. Abode meets with the Topkey team every month, and Chelsea says the ideas Abode brings \"have all been taken very seriously and often implemented.\" When something does need fixing, support resolves it quickly. Weighed against the hours saved and the earlier statements, Chelsea's verdict on cost is simple: \"Topkey has paid for itself, certainly.\"",
+    "url": "https://topkey.io/customer-stories/how-abode-luxury-rentals-runs-200-properties-with-a-3-person-finance-team",
+    "pass": 1
+   },
+   {
+    "quote": "How Arrived Recouped $250k in Expenses with Topkey",
+    "url": "https://topkey.io/customer-stories/how-abode-luxury-rentals-runs-200-properties-with-a-3-person-finance-team",
+    "pass": 1
+   },
+   {
+    "quote": "Joshua handled the CEO work, sales, marketing, and owner relations, with the finances on top of it. One operations lead covered field operations, guests, and the office, alongside two full-time maintenance techs and four guest communication VAs. Everyone on the team bought things for the homes, and everyone carried a card. The financial side of all that spending landed on Joshua's desk.",
+    "url": "https://topkey.io/customer-stories/how-apek-rentals-cut-month-end-to-under-one-day-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "Paying vendors was just as manual. Invoices arrived in APEK's accounts payable email. Each one was keyed into Guesty as a manual journal entry, then paid in a separate system using whatever method that vendor preferred. Every bill was handled twice, in two places, by hand.",
+    "url": "https://topkey.io/customer-stories/how-apek-rentals-cut-month-end-to-under-one-day-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "For a company trying to grow, every lost owner meant a property and its revenue walking out the door. Vendors felt the pressure too, especially cleaners with their own crews to pay.",
+    "url": "https://topkey.io/customer-stories/how-apek-rentals-cut-month-end-to-under-one-day-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "Amazon Receipts Arrive on Their Own",
+    "url": "https://topkey.io/customer-stories/how-apek-rentals-cut-month-end-to-under-one-day-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "replaced the manual journal entries. Approved expenses go to Guesty in bulk as owner charges with the receipt attached, and Guesty's property list syncs into Topkey on a schedule, so each expense carries the right property. Permit renewals come in with a receipt and are charged back to the owner, while tax payments that aren't charged back are still documented.",
+    "url": "https://topkey.io/customer-stories/how-apek-rentals-cut-month-end-to-under-one-day-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "Joshua keeps trust money and operating money apart. Property and owner money stays in Topkey and Guesty, and only APEK's own revenue and expenses go to QuickBooks Online, so there is no commingling. Corporate card spend is categorized in Topkey and pushed to",
+    "url": "https://topkey.io/customer-stories/how-apek-rentals-cut-month-end-to-under-one-day-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "The Slack channel and the month-end chase that came with it gave way to receipts that arrive with the transaction. Amazon orders no longer get pulled apart by hand. Joshua stopped being the person who tracks down what's missing.",
+    "url": "https://topkey.io/customer-stories/how-apek-rentals-cut-month-end-to-under-one-day-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "Today Joshua puts the reduction at 80% compared with that manual process. Cardholders submit receipts from a text, Amazon Business receipts arrive on their own, and a VA reviews the day's transactions. Bills follow the same path, entered once in Topkey and paid from the same place. All that's left for Joshua is looking it over and hitting approve.",
+    "url": "https://topkey.io/customer-stories/how-apek-rentals-cut-month-end-to-under-one-day-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "That 80% is the difference between expense management as a monthly scramble and expense management as a daily routine. It is also what made it possible for Joshua to hand the work to his team at all. Receipts now arrive with the charge instead of weeks later, so the IRS worry he carried before Topkey is no longer hanging over him.",
+    "url": "https://topkey.io/customer-stories/how-apek-rentals-cut-month-end-to-under-one-day-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "Now those gaps get closed as part of the daily process. Permit renewals and other owner charges reach Guesty with receipts attached, so they land on owner statements instead of APEK's books. Amazon charges come in tied to their receipts and the right property, and anything missing gets flagged before it's approved.",
+    "url": "https://topkey.io/customer-stories/how-apek-rentals-cut-month-end-to-under-one-day-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "How Arrived Recouped $250k in Expenses with Topkey",
+    "url": "https://topkey.io/customer-stories/how-apek-rentals-cut-month-end-to-under-one-day-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "Most of Otium's roughly 40 people on the ground carry those cards. They oversee cleaning and property management at each property.",
+    "url": "https://topkey.io/customer-stories/how-otium-frees-up-100-hours-a-month-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": ", so expenses are tagged to real units. That unit-level data is part of what Julio now builds his owner and board reporting on.",
+    "url": "https://topkey.io/customer-stories/how-otium-frees-up-100-hours-a-month-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "Owners get their statements a week sooner, and they see what was spent, what was invested, and photos of the work done on their property. That level of transparency is a big part of how Otium earns their trust.",
+    "url": "https://topkey.io/customer-stories/how-otium-frees-up-100-hours-a-month-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "With clean data in hand, Otium went further and built new workflows and SOPs around it. The controls that stopped the leakage are now part of how the company operates every day.",
+    "url": "https://topkey.io/customer-stories/how-otium-frees-up-100-hours-a-month-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "That analysis has become part of what Otium sells, and owners value Otium for the insight they get. \"We're not only managing your property. We're providing operational insights and financial insights,\" he said. The same data that stopped the leakage now helps Otium stand out with owners.",
+    "url": "https://topkey.io/customer-stories/how-otium-frees-up-100-hours-a-month-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "How Arrived Recouped $250k in Expenses with Topkey",
+    "url": "https://topkey.io/customer-stories/how-otium-frees-up-100-hours-a-month-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "Roughly 20 corporate cards were already out with his field team when Joe arrived. Transactions landed in QuickBooks Online the way they always had, which meant he could see what had been spent and almost nothing about why.",
+    "url": "https://topkey.io/customer-stories/how-casago-sea-ranch-gualala-closes-month-end-in-hours",
+    "pass": 1
+   },
+   {
+    "quote": "A photograph arriving on a Wednesday is not a record. It is a message, and messages get buried. By month-end she was spending a couple of hours going back through her own notes to reconstruct what each check had been for and why.",
+    "url": "https://topkey.io/customer-stories/how-casago-sea-ranch-gualala-closes-month-end-in-hours",
+    "pass": 1
+   },
+   {
+    "quote": ": The negotiated rate on every home syncs every Monday, and completed tasks import into Topkey as work orders that already carry the property they belong to, so nothing needs re-tagging on arrival. Each one keeps its notes and timestamps, which matters when an owner asks what a charge was for. Joe filters, matches the count, and turns them into bills in bulk. Nobody counts tasks by hand anymore.",
+    "url": "https://topkey.io/customer-stories/how-casago-sea-ranch-gualala-closes-month-end-in-hours",
+    "pass": 1
+   },
+   {
+    "quote": "Topkey posts those charges straight into Guesty as owner charges, carrying the amount, the date, the description and the receipt with them. Joe controls when they go, which matters to him, because he tidies up descriptions before an owner ever sees them. Guesty builds the statement out of what arrives.",
+    "url": "https://topkey.io/customer-stories/how-casago-sea-ranch-gualala-closes-month-end-in-hours",
+    "pass": 1
+   },
+   {
+    "quote": "The estimate carries weight because of who made it.",
+    "url": "https://topkey.io/customer-stories/how-casago-sea-ranch-gualala-closes-month-end-in-hours",
+    "pass": 1
+   },
+   {
+    "quote": "How Arrived Recouped $250k in Expenses with Topkey",
+    "url": "https://topkey.io/customer-stories/how-casago-sea-ranch-gualala-closes-month-end-in-hours",
+    "pass": 1
+   },
+   {
+    "quote": "At their worst, only about one in five receipts was making it back, and someone was always chasing an employee to figure out what a charge had even been for. \"We were asking employees, hey, you have this $2 charge, and they're like, I don't know what that's for,\" Ashley recalled. Every unexplained charge was one more thing to run down before the books could close.",
+    "url": "https://topkey.io/customer-stories/how-stay-on-30a-cut-its-month-end-close-from-8-days-to-2",
+    "pass": 1
+   },
+   {
+    "quote": "Today that same work takes about two hours a week, roughly an hour for Ashley to review and sync and an hour for the accountant to run the bank feed. For Ashley, the daily grind is gone. She is no longer tracking down employees for receipts or asking what a charge was for, the back-and-forth that used to fill her days as an owner, and the books stay current without her having to chase anything.",
+    "url": "https://topkey.io/customer-stories/how-stay-on-30a-cut-its-month-end-close-from-8-days-to-2",
+    "pass": 1
+   },
+   {
+    "quote": "With every field purchase captured and every work order carrying its true, marked-up cost, that gap closed. \"In owner billables alone, we've seen about a 15% uptick as far as what wasn't getting charged versus what is getting charged now,\" Ashley said.",
+    "url": "https://topkey.io/customer-stories/how-stay-on-30a-cut-its-month-end-close-from-8-days-to-2",
+    "pass": 1
+   },
+   {
+    "quote": "Short-term rental property management runs on thin margins, which is exactly what makes that recovery matter. It is revenue that was there all along, now landing on every owner statement instead of being quietly written off as a cost of doing business.",
+    "url": "https://topkey.io/customer-stories/how-stay-on-30a-cut-its-month-end-close-from-8-days-to-2",
+    "pass": 1
+   },
+   {
+    "quote": "They nearly doubled the portfolio and now spend less time on finances than they did at half the size, because they built a proven, repeatable system with Topkey, one that captures cost at the source and carries it all the way to the owner statement, and works the same at 128 homes as it did at 80. If your operation is growing faster than your financial process can keep up,",
+    "url": "https://topkey.io/customer-stories/how-stay-on-30a-cut-its-month-end-close-from-8-days-to-2",
+    "pass": 1
+   },
+   {
+    "quote": "How Arrived Recouped $250k in Expenses with Topkey",
+    "url": "https://topkey.io/customer-stories/how-stay-on-30a-cut-its-month-end-close-from-8-days-to-2",
+    "pass": 1
+   },
+   {
+    "quote": "Eight people and systems touched every single transaction before it was resolved. The process was slow, error-prone, and entirely dependent on every link in the chain doing their part correctly. Field employees dreaded it. The checker chain ground morale down. And the CFO was spending valuable time solving problems that should never have made it to her desk.",
+    "url": "https://topkey.io/customer-stories/how-curated-vacation-properties-saved-250k-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "Josh describes what the bloat had quietly become: \"Our tech spend had gotten to over $300,000 a year. I'm embarrassed to admit that.\" Without a centralized view of spending, there was no way to see the full picture clearly enough to challenge it. Redundant platforms, inflated vendor contracts, and ongoing cash leakage were draining money month after month with no mechanism to catch any of it.",
+    "url": "https://topkey.io/customer-stories/how-curated-vacation-properties-saved-250k-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "the revenue leakage that had been draining CVP quietly for years had nowhere left to hide.",
+    "url": "https://topkey.io/customer-stories/how-curated-vacation-properties-saved-250k-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "Topkey closed that loop. Every transaction is captured, attributed to the right property and owner, and moving toward the correct statement in real time. There is nothing left to chase, nothing left to interpret, and no gap in the chain for revenue to leak through. And with the leakage stopped, something else became possible for the first time.",
+    "url": "https://topkey.io/customer-stories/how-curated-vacation-properties-saved-250k-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "The ability to bring existing cards into Topkey rather than replacing them removed one of the most common adoption barriers in financial operations — the cost of switching.",
+    "url": "https://topkey.io/customer-stories/how-curated-vacation-properties-saved-250k-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "Nobody, not the CEO, not the field staff, not the finance team, enjoys chasing receipts. It is the part of the job that has to get done, that everyone knows has to get done, and that everyone quietly resents. At CVP, that frustration had been baked into the monthly routine for years.",
+    "url": "https://topkey.io/customer-stories/how-curated-vacation-properties-saved-250k-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "Josh didn't hear about the shift in a report. He heard it directly, unsolicited, from someone who never brings good news to the CEO. A staff member who had always hated this part of his job told Josh he didn't hate it anymore. As Josh put it, nobody comes to the CEO with good news, so hearing something like that unprompted was, in his words, \"a massive compliment for a piece of software.\"",
+    "url": "https://topkey.io/customer-stories/how-curated-vacation-properties-saved-250k-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Leakage Stopped",
+    "url": "https://topkey.io/customer-stories/how-curated-vacation-properties-saved-250k-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "CVP is growing again. After a deliberate consolidation phase in Q3 and Q4, Josh is leaning back into expansion, targeting properties that gross between $300,000 and $800,000 in individual rental revenue. The infrastructure supporting that growth needs to hold.",
+    "url": "https://topkey.io/customer-stories/how-curated-vacation-properties-saved-250k-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "Topkey is part of that foundation. Josh places it among the five core systems powering CVP's $10 million business, alongside Guesty, Breezeway, RemoteLock, and Wheelhouse. As he puts it: \"We would put this in the core five systems that are the backbone of our $10 million business and growing.\"",
+    "url": "https://topkey.io/customer-stories/how-curated-vacation-properties-saved-250k-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "How Arrived Recouped $250k in Expenses with Topkey",
+    "url": "https://topkey.io/customer-stories/how-curated-vacation-properties-saved-250k-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "Instead of juggling separate tools to manage expenses, owner billing, payments, banking, and revenue verification, the team could manage those workflows in one place while continuing to use Guesty and QuickBooks Online.",
+    "url": "https://topkey.io/customer-stories/how-upkey-saves-100-hours-a-month-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "Over the past two years, as Topkey has expanded its platform, Upkey has continued refining its financial processes alongside it. What began with expense management has grown into a connected financial operation that now supports nearly every part of the business.",
+    "url": "https://topkey.io/customer-stories/how-upkey-saves-100-hours-a-month-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "\"It's something I maintain every day, which wasn't part of my flow before using Topkey,\" she says. \"I just go in every day, classify our transactions, push the owner charges. And it's done. It makes my life so much easier.\"",
+    "url": "https://topkey.io/customer-stories/how-upkey-saves-100-hours-a-month-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "Accurate Revenue Reconciliation",
+    "url": "https://topkey.io/customer-stories/how-upkey-saves-100-hours-a-month-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "Topkey revenue reconciliation",
+    "url": "https://topkey.io/customer-stories/how-upkey-saves-100-hours-a-month-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": ", Upkey had no consistent way to verify that booking revenue matched the deposits coming into the business. Raina could review some activity in Stripe, but there was no reliable way to reconcile reservations across Airbnb, Booking.com, VRBO, Guesty, and payment processors.",
+    "url": "https://topkey.io/customer-stories/how-upkey-saves-100-hours-a-month-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "Today, that process is automatic. Topkey brings together booking revenue and deposit data from OTAs, Guesty, and payment processors, allowing Raina to review reservations and quickly confirm that what was booked matches what was received instead of manually piecing information together across multiple systems.",
+    "url": "https://topkey.io/customer-stories/how-upkey-saves-100-hours-a-month-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": ", and QuickBooks Online is an important part of the financial workflow.",
+    "url": "https://topkey.io/customer-stories/how-upkey-saves-100-hours-a-month-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": ", the team no longer has to rely on multiple systems and manual checks to verify booking revenue. Instead, they can confidently reconcile revenue against deposits while also having complete visibility into expenses across every property.",
+    "url": "https://topkey.io/customer-stories/how-upkey-saves-100-hours-a-month-with-topkey",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "The Sales Development Representative will drive Topkey’s growth by owning top-of-funnel outreach, cold calling and emailing, booking qualified meetings, and becoming an expert in our customers, product, and pitch.",
+    "url": "https://topkey.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Paying vendors was just as manual. Invoices arrived in APEK's accounts payable email. Each one was keyed into Guesty as a manual journal entry, then paid in a separate system using whatever method that vendor preferred. Every bill was handled twice, in two places, by hand.",
+    "url": "https://topkey.io/customer-stories/how-apek-rentals-cut-month-end-to-under-one-day-with-topkey",
+    "pass": 1
+   },
+   {
+    "quote": "starts before Joe touches anything. A dedicated AP email address forwards vendor invoices straight into Topkey, so vendors send directly and nothing sits in a person's inbox waiting to be noticed. Joe does a first-pass categorization, the approval workflow routes it to whoever owns those properties, and he pays.",
+    "url": "https://topkey.io/customer-stories/how-casago-sea-ranch-gualala-closes-month-end-in-hours",
+    "pass": 1
+   },
+   {
+    "quote": "電子メール: info@topkey-tech.com",
+    "url": "https://www.topkey-tech.com/ja/medical-needle-silicone-oil.html",
+    "pass": 3
+   },
+   {
+    "quote": "E-mail: info@topkey-tech.com",
+    "url": "https://www.topkey-tech.com/topkey-history.html",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/463290-67",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Topkey | Financial Automation for Vacation & Short-Term ... — Topkey helps vacation & short-term rental managers automate finances and bookkeeping. PMS integrations, corporate cards, expense management, banking, owner/vendor payments, and more.",
+    "url": "https://topkey.io/",
+    "pass": 3
+   },
+   {
+    "quote": "TOPKEY Excellence In Composites — Topkey Group, founded in 1980 years, started with Racket business, and diverse its corporate strength in composite Bike business, helmet, aviation, medical parts and corporate strategic business.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=1",
+    "pass": 3
+   },
+   {
+    "quote": "医療用針シリコン オイル - Topkey Medical で製品を購入する — 多数の資格を取得し、20 年以上の継続的な開発を行ってきた Topkey-tech は、自動化された医療消耗品生産装置業界のマーケットリーダーとして、医療消耗品工場に高度なスマート製造ソリューションを提供することに尽力しています。",
+    "url": "https://www.topkey-tech.com/ja/medical-needle-silicone-oil.html",
+    "pass": 3
+   },
+   {
+    "quote": "TOPKEY Excellence In Composites — Topkey group engages in cutting edge development and manufacture of advanced carbon fiber composite product, and diversifies the applications of carbon fiber composite.",
+    "url": "http://www.topkey.com.tw/www/index_en.php",
+    "pass": 3
+   },
+   {
+    "quote": "History Timeline - topkey-tech.com — As a market leader in the automated medical consumables production equipment industry, Topkey is committed to providing advanced smart manufacturing solutions for medical consumables factories.",
+    "url": "https://www.topkey-tech.com/topkey-history.html",
+    "pass": 3
+   },
+   {
+    "quote": "TOPKEY Excellence In Composites — Topkey group engages in cutting edge development and manufacture of advanced carbon fiber composite product, and diversifies the applications of carbon fiber composite.",
+    "url": "http://www.topkey.com.tw/www/_english/01_business/01_safety_list_01.php?sid=1",
+    "pass": 3
+   },
+   {
+    "quote": "Topkey | Financial Automation for Vacation & Short-Term ... — Transform your accounting with AI. Topkey uses AI to transform real estate and property management financial operations, helping you recover lost profit, tighten expense controls, and speed up financial reporting.",
+    "url": "https://topkey.io/",
+    "pass": 3
+   },
+   {
+    "quote": "TOPKEY Excellence In Composites — Topkey group engages in cutting edge development and manufacture of advanced carbon fiber composite product, and diversifies the applications of carbon fiber composite.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "Topkey Corp. | Manufacturer in Taiwan | SourceReady — Explore Topkey Corp., a Manufacturer in Taiwan. Review company details, products, and sourcing insights on SourceReady.",
+    "url": "https://www.sourceready.com/supplier/detail/topkey",
+    "pass": 3
+   },
+   {
+    "quote": "TOPKEY Excellence In Composites — Topkey successfully develops its unique strength and corporate synergy to assist customers to realize their dreams, and wins market leading customers’ satisfactory and long term support.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=1",
+    "pass": 3
+   },
+   {
+    "quote": "Topkey Reviews, Testimonials & Case Studies from Property ... — Read real customer testimonials and detailed case studies showing measurable financial and operational gains.",
+    "url": "https://topkey.io/customers",
+    "pass": 3
+   },
+   {
+    "quote": "TOPKEY Excellence In Composites — The Topkey-made New Aeropro Drive tennis racket for Babolat helped received the best record ever in its 135 years of business. Both Nadal and Schiavone, whom carried off the bell in the men single and in the women single, used this racket.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: How HostWise Increased Profit Margin with Topkey — Full-service means I handled all customer interaction, interviews, sourced additional statistics, and delivered an approved, print-ready case study for my client.",
+    "url": "https://www.skgates.com/work/case-study-how-hostwise-increased-profit-margin-with-topkey",
+    "pass": 3
+   },
+   {
+    "quote": "TOPKEY Report (4536) - jec-southeast-asia.events — In addition to EU and US brands, seeing more China government owned manufacturers found for medical imaging equipment. For carbon fiber composite tabletop, TOPKEY is aiming for higher market share in the advanced medical imaging equipment. Invited participate work",
+    "url": "https://www.jec-southeast-asia.events/2026/session-3/SESSION4_1+-+Vertical+Integration,+Multisector+Diversification:+the+TOPKEY+Success+Story.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Topkey - 2026 Company Profile, Team, Funding & Competitors ...Topkey: Revenue, Worth, Valuation & Competitors 2025Topkey 2026 Company Profile: Valuation, Funding & Investors ...Topkey Revenue 2024: $3.3M Est. - getlatka.comTopkey: Funding, Investors & Team (Nov 2026) | FundedIQTopkey - Overview, News & Similar companies | ZoomInfo.comTopkey — Company Profile & Funding | Indexed.vc — Apr 6, 2026 · ",
+    "url": "https://tracxn.com/d/companies/topkey/__UhUTcHkNQe3ENR2vP962X9LCVg0R--Vlb2LIovDkFR4",
+    "pass": 3
+   },
+   {
+    "quote": "Topkey: Revenue, Worth, Valuation & Competitors 2025 — Topkey Employee Data Presently, Topkey has 23 employees. Last year, Topkey expanded its employee count by 53%.",
+    "url": "https://compworth.com/company/topkey",
+    "pass": 3
+   },
+   {
+    "quote": "Topkey 2026 Company Profile: Valuation, Funding & Investors ...Topkey Revenue 2024: $3.3M Est. - getlatka.comTopkey: Funding, Investors & Team (Nov 2026) | FundedIQTopkey - Overview, News & Similar companies | ZoomInfo.comTopkey — Company Profile & Funding | Indexed.vc — Information on valuation, funding, cap tables, investors, and executives for Topkey. Use the PitchBook Platform to explore the f",
+    "url": "https://pitchbook.com/profiles/company/463290-67",
+    "pass": 3
+   },
+   {
+    "quote": "Topkey Revenue 2024: $3.3M Est. - getlatka.com — Aug 10, 2026 · How many employees does Topkey have? Topkey had 22 employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/topkey.io",
+    "pass": 3
+   },
+   {
+    "quote": "Topkey: Funding, Investors & Team (Nov 2026) | FundedIQ — What does Topkey do? Topkey is a San Francisco-based app, established in 2020, that monitors property expenses, synchronizes transactions across various systems, and facilitates significant savings on bookkeeping.",
+    "url": "https://fundediq.co/topkey-topkey-io-funding/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "New factory in Taichung industrial district. Devoted in OEM and ODM research and development and manufactured high value and high performance racket. Productivity raised to monthly 30,000 rackets and 110 employees.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Donated NT$ 10 million to the Red Cross for Japan 311 earthquake.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "Manufactured high performance tennis racket with Japanese corporation, Bridgestone.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   },
+   {
+    "quote": "Imported JIT manufacture efficiency management system from Japanese corporation, JEMCO, improved manufacture and management process.",
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "topkey.eth (@qiaonft) / X @BigCity_gamefi Apr 26, 2022 🎁Giving away a few Big City Pass Card NFT!🥳🥳🥳 🪂Holding gets you: 💎Upcoming airdrops 💎WL in the Big City 👇To enter: 1️⃣Like + RT 2️⃣Follow @ @ BigCity_gamefi 3️⃣Drop your ENS #GiveawayNFT #GameFi #Defi topkey.eth @qiaonft Apr 23, 2022",
+    "url": "https://x.com/qiaonft",
+    "pass": 3
+   },
+   {
+    "quote": "Andrzej Guziński (@andrzej_topkey) / X 4 followers · 5 following. Joined Dec 2016. See the latest conversations with @andrzej_topkey",
+    "url": "https://x.com/andrzej_topkey",
+    "pass": 3
+   },
+   {
+    "quote": "Madeline_TopKey (@TopKwonBBGD25) / Posts / X Madeline_TopKey (@TopKwonBBGD25) - Posts - Multi-Fandom--BigBang; SHINee; BTS; Winner; VIXX; EXO; Seventeen, MonstaX, NCT, Astro, KnK, GOT7 | X (formerly Twitter)",
+    "url": "https://x.com/TopKwonBBGD25",
+    "pass": 3
+   },
+   {
+    "quote": "hi-boyz official names ⭐️ d.i topkey junhee ️ leeho ... 💬 (@translatingTXT). 28 replies. hi-boyz official names ⭐️ 🐰 d.i 🦊 topkey 🧸 junhee 🐿️ leeho 🐧 million",
+    "url": "https://x.com/translatingTXT/status/2027345594646151659",
+    "pass": 3
+   },
+   {
+    "quote": "@topkey_io | X The latest posts from @topkey_io",
+    "url": "https://x.com/topkey_io",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Topkey - LinkedIn AI financial automation for short-term rental property managers. | Topkey is the AI-powered financial operating system built specifically for vacation rental managers.",
+    "url": "https://www.linkedin.com/company/topkey",
+    "pass": 3
+   },
+   {
+    "quote": "Jonathan Sukhia - Co-Founder & CEO | AI built to help ...Ramunas Bakutis - Founder & CEO @TOPKEY - LinkedInAlice Hu - TOPKEY– Committed to becoming an expert in medical ...Topkey Secures $5.2M to Streamline Financial Operations for ...Greg M. - Sales @ Topkey | AI powered financial automation ...Darren Carter - GTM @ Topkey - Financial Automation for ... From automating expense categorization to f",
+    "url": "https://www.linkedin.com/in/jonathansukhia",
+    "pass": 3
+   },
+   {
+    "quote": "Ramunas Bakutis - Founder & CEO @TOPKEY - LinkedInAlice Hu - TOPKEY– Committed to becoming an expert in medical ...Topkey Secures $5.2M to Streamline Financial Operations for ...Greg M. - Sales @ Topkey | AI powered financial automation ...Darren Carter - GTM @ Topkey - Financial Automation for ... Since 2007, I have been the CEO of TOPKEY, where I am responsible for the company’s strategy, day-to",
+    "url": "https://lt.linkedin.com/in/ramunasbakutis",
+    "pass": 3
+   },
+   {
+    "quote": "Alice Hu - TOPKEY– Committed to becoming an expert in medical ...Topkey Secures $5.2M to Streamline Financial Operations for ...Greg M. - Sales @ Topkey | AI powered financial automation ...Darren Carter - GTM @ Topkey - Financial Automation for ... As a market leader in the automated medical consumables production equipment industry, Topkey is committed to providing advanced smart manufacturing s",
+    "url": "https://cn.linkedin.com/in/alice-hu-bb66a01b3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Topkey | Nashville TN - Facebook Jul 31, 2025 · We built Topkey to take the manual work out of expense management—and this Guesty integration does just that. Check it out in the Guesty Marketplace or head over to topkey.io to book a demo.",
+    "url": "https://www.facebook.com/topkey/",
+    "pass": 3
+   },
+   {
+    "quote": "TopKey Construction | Laurel MD - FacebookTOPKEY | Kaunas - FacebookTopKey | Tunis - FacebookTopKey | Tunis - FacebookTop-Key - FacebookTopkey Locks | Long Beach CA - Facebook Nov 1, 2025 · Our commercial property management customers select TopKey Construction not only for our customer service and quality of materials and workmanship, but because we treat their properties, their tenants, and thei",
+    "url": "https://www.facebook.com/TopKeyConstruction/",
+    "pass": 3
+   },
+   {
+    "quote": "TOPKEY | Kaunas - Facebook Mar 5, 2026 · TOPKEY, Kaunas. 5,534 followers · 1 talking about this. Our company specializes in key blanks, transponder keys, transponders, locksmith tools, key...",
+    "url": "https://www.facebook.com/p/TOPKEY-100063537272471/",
+    "pass": 3
+   },
+   {
+    "quote": "TopKey | Tunis - Facebook Mar 21, 2026 · TopKey, Tunis. 387 followers · 96 talking about this. 🚀 TopKey – Leader en Télécommandes de Garage en Tunisie ! 🔑 Bienvenue sur la page officielle de...",
+    "url": "https://www.facebook.com/p/TopKey-61568481668441/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://topkey.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topkey.io/integrations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topkey.io/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topkey.io/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topkey.io/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topkey.io/customer-stories/how-abode-luxury-rentals-runs-200-properties-with-a-3-person-finance-team",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topkey.io/customer-stories/how-apek-rentals-cut-month-end-to-under-one-day-with-topkey",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topkey.io/customer-stories/how-otium-frees-up-100-hours-a-month-with-topkey",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topkey.io/customer-stories/how-casago-sea-ranch-gualala-closes-month-end-in-hours",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topkey.io/customer-stories/how-stay-on-30a-cut-its-month-end-close-from-8-days-to-2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topkey.io/customer-stories/how-curated-vacation-properties-saved-250k-with-topkey",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topkey.io/customer-stories/how-upkey-saves-100-hours-a-month-with-topkey",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://topkey.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topkey-tech.com/ja/medical-needle-silicone-oil.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.topkey.com.tw/www/index_en.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.topkey.com.tw/www/_english/01_business/01_safety_list_01.php?sid=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topkey.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topkey-tech.com/topkey-history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topkey.io/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skgates.com/work/case-study-how-hostwise-increased-profit-margin-with-topkey",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partnerportal.fortinet.com/English/?ReturnUrl=%2FEnglish%2FNAReseller%2Fhome.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.canva.com/partners/reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/topkey/__UhUTcHkNQe3ENR2vP962X9LCVg0R--Vlb2LIovDkFR4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/topkey",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/463290-67",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/topkey.io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/qiaonft",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/andrzej_topkey",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TopKwonBBGD25",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/translatingTXT/status/2027345594646151659",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/topkey",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jonathansukhia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://lt.linkedin.com/in/ramunasbakutis",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/in/alice-hu-bb66a01b3",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/topkey/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TopKeyConstruction/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/TOPKEY-100063537272471/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/TopKey-61568481668441/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/topkey_io",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Topkey 日本 導入",
+   "results": [
+    "https://topkey.io/",
+    "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=1",
+    "https://www.topkey-tech.com/ja/medical-needle-silicone-oil.html",
+    "http://www.topkey.com.tw/www/index_en.php",
+    "https://www.topkey-tech.com/topkey-history.html",
+    "https://www.jreast.co.jp/press/2026/20261110_ho03.pdf",
+    "https://rocket-boys.co.jp/security-measures-lab/japan-government-sovereign-cloud-ai-data-sovereignty/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Topkey 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Topkey Japan",
+   "results": [
+    "http://www.topkey.com.tw/www/_english/01_business/01_safety_list_01.php?sid=1",
+    "https://topkey.io/",
+    "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "https://www.topkey-tech.com/topkey-history.html",
+    "https://www.sourceready.com/supplier/detail/topkey",
+    "https://www.bas.org.tw/en/product/member-information/component/topkey-corporation",
+    "https://www.topkey-tech.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Topkey manufacturing customer case study",
+   "results": [
+    "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=1",
+    "https://topkey.io/customers",
+    "http://www.topkey.com.tw/www/_english/03_company/01_detail.php?pid=3",
+    "https://www.skgates.com/work/case-study-how-hostwise-increased-profit-margin-with-topkey",
+    "https://www.jec-southeast-asia.events/2026/session-3/SESSION4_1+-+Vertical+Integration,+Multisector+Diversification:+the+TOPKEY+Success+Story.pdf",
+    "https://topkey.io/",
+    "https://topkeymedical.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Topkey white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://partner.vw.com/partner",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Topkey founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/topkey/__UhUTcHkNQe3ENR2vP962X9LCVg0R--Vlb2LIovDkFR4",
+    "https://compworth.com/company/topkey",
+    "https://pitchbook.com/profiles/company/463290-67",
+    "https://getlatka.com/companies/topkey.io",
+    "https://fundediq.co/topkey-topkey-io-funding/",
+    "https://www.zoominfo.com/c/topkey-inc/547073314",
+    "https://indexed.vc/companies/topkey"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Topkey",
+   "results": [
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/fujkta/n/nfef25b417793",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/kzstock/n/n8464ba129797",
+    "https://note.com/miracle46/n/ndc001d336b0e",
+    "https://note.com/fukuso_sutaro/n/nf365aa7a3733"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Topkey",
+   "results": [
+    "https://x.com/qiaonft",
+    "https://x.com/andrzej_topkey",
+    "https://x.com/TopKwonBBGD25",
+    "https://x.com/translatingTXT/status/2027345594646151659",
+    "https://x.com/topkey_ro",
+    "https://x.com/signalsoverair_/status/2114935393611043113",
+    "https://x.com/MXGRyan/status/2116996207822225561"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Topkey",
+   "results": [
+    "https://www.linkedin.com/company/topkey",
+    "https://www.linkedin.com/in/jonathansukhia",
+    "https://lt.linkedin.com/in/ramunasbakutis",
+    "https://cn.linkedin.com/in/alice-hu-bb66a01b3",
+    "https://www.linkedin.com/pulse/topkey-secures-52m-streamline-financial-operations-vacation-rental",
+    "https://www.linkedin.com/in/gregmanson",
+    "https://www.linkedin.com/in/darrencarter31"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Topkey",
+   "results": [
+    "https://www.facebook.com/topkey/",
+    "https://www.facebook.com/TopKeyConstruction/",
+    "https://www.facebook.com/p/TOPKEY-100063537272471/",
+    "https://www.facebook.com/p/TopKey-61568481668441/",
+    "https://www.facebook.com/61568481668441/",
+    "https://www.facebook.com/countingsystems/",
+    "https://www.facebook.com/topkeylocks/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Topkey note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Topkey X 投稿",
+   "results": [
+    "https://x.com/topkey_io",
+    "https://topkey.io/",
+    "https://x.com/nakaokkies/status/2120020757958840568",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://x-force.thinkforce.co.jp/archives/461",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://help.x.com/ja/using-x/how-to-post"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部37頁・検索12回）"
+ }
+}

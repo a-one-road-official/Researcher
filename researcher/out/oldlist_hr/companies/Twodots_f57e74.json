@@ -1,0 +1,934 @@
+{
+ "name": "Twodots",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Software / AI｜未接触",
+ "researched_at": "2026-11-11T06:26:45.322505+00:00",
+ "official_url": "https://www.twodots.net/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Evie, the AI Approval Agent | Two Dots",
+    "url": "https://www.twodots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "the AI Approval Agent for multifamily.",
+    "url": "https://www.twodots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Risks & Inadequacies of Document Fraud Prevention",
+    "url": "https://www.twodots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Approval Speed Is the Biggest NOI Lever Most Operators Aren't Pulling",
+    "url": "https://www.twodots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "April 14, 2026",
+    "url": "https://www.twodots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I was fortunate to learn from Barry G., an exceptionally skilled and professional player. His diligence, dedication to practice, and pure love for the game was infectious. Playing with Barry as often as possible helped me grow not just as a player, but as someone who truly appreciates what squash represents—discipline, strategy, and the relentless pursuit of improvement.",
+    "url": "https://www.two-dots.app/about",
+    "pass": 3
+   },
+   {
+    "quote": "TwoDots came from a genuine place—the desire to honor the dedication every squash player puts into their craft. Whether you're tracking your progress, organizing tournaments, or simply finding your next game, TwoDots is built to support your journey.",
+    "url": "https://www.two-dots.app/about",
+    "pass": 3
+   },
+   {
+    "quote": "Join thousands of players who are already tracking their progress and connecting with the squash community.",
+    "url": "https://www.two-dots.app/about",
+    "pass": 3
+   },
+   {
+    "quote": "The real problems apparel operators asked us to solve.",
+    "url": "https://www.2dots.io/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Hero SKUs died in the first 72 hours of every drop. COO rebuilt the reorder spreadsheet every Sunday night.",
+    "url": "https://www.2dots.io/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "1,800 thin SKU pages. Agency quoted $200K for 6 months to rewrite. Founder priced that against Q1 inventory and said no.",
+    "url": "https://www.2dots.io/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Full-price sell-through +11 pts",
+    "url": "https://www.2dots.io/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Every engagement in this library was scoped, approved and lived through by the founder, COO or CFO. Not a data leader. That is the shape of the market we serve.",
+    "url": "https://www.2dots.io/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "A Fit Sprint before any model code",
+    "url": "https://www.2dots.io/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Four weeks of discovery. Data audit. Intervention design. If the math does not work in the Fit Sprint, we say so and stop. Roughly one in five Fit Sprints ends there. That is the point.",
+    "url": "https://www.2dots.io/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "They cover the four AI disciplines an apparel D2C brand doing $3M to $20M is most likely to need: demand forecasting, returns prediction, GenAI content, and markdown optimization. Together they map to roughly 80% of the inbound requests we take in a given quarter.",
+    "url": "https://www.2dots.io/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The four engagements on this page range from $22K to $82K, including the AI Fit Sprint. That covers a Fit Sprint at $10K plus implementation in the $12K to $72K range depending on scope. For an active retainer after implementation, the range is $5K to $15K per month. We scope tightly and quote before starting.",
+    "url": "https://www.2dots.io/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "We will tell you honestly which of these four engagements would move a real number in your business right now, and what the shape of a Fit Sprint would look like for you.",
+    "url": "https://www.2dots.io/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Practical AI implementation for e-commerce operators. No hype.",
+    "url": "https://www.2dots.io/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "A $4M contemporary apparel brand had 1,800 SKUs with thin product pages and an agency quote of $200K for 6 months of rewrites.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "built a voice-matched content pipeline anchored on the founder's own writing, shipped 1,400 pages in 11 weeks, and lifted organic traffic 38%. The founder's editor still edits every page.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "Fit Sprint + implementation",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "A design-led contemporary apparel brand. Founder still wrote every hero page herself. Ambitious catalogue, thin content behind it, organic search underperforming the category.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "1,800 SKUs (mostly thin content)",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "The brand's hero pages, roughly 30 of them, were beautifully written by the founder and ranked for their descriptor keywords. Everything else was three bullets and a fabric list. Google Search Console showed impressions on the brand name and almost nothing on category or product-descriptor terms.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "An agency had quoted $200K over 6 months to rewrite the catalogue. The founder priced that against her Q1 inventory buy and told her head of ecommerce to find another way.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "\"The agency quote assumed they would write from scratch. Our founder already had the voice. The problem was scaling it, not inventing it.\"",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "What the Fit Sprint found.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "Good. Every SKU had 4 to 6 on-model shots and one flat lay. Content was the bottleneck, not visuals.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "Weak. Most product pages had a title, three bullets, and 40 words of body copy. Google Search Console showed impressions on the brand term and almost nothing on category or descriptor terms.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "A repeatable way to write in the founder's voice at catalogue scale. Every previous attempt (freelancers, agencies, an in-house junior) had produced copy that sounded generic, then required so much editing that it was faster to write it from scratch.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "Extracted the founder's actual voice: sentence rhythm, vocabulary, what she does and does not say about fabric, when she uses humour, when she stops. Encoded this as a structured prompt with examples, not a persona description.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "AI drafts 40 pages using the voice library and per-SKU fabric or construction notes. Human editor edits, marks what was good, marks what was wrong. Feedback loops back into the prompt. By page 40 the edit density had dropped roughly 70%.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "For every page: Product schema, FAQPage schema on the size and care questions, BreadcrumbList. Generated alongside the copy, not bolted on afterward. This is where the organic lift actually came from.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "Include the human editor in week 1 of the voice-library work, not week 3. The editor's taste became the real model. Every iteration on the prompt before she was involved was directionally right and specifically wrong. Two weeks of that could have been compressed into three days if she had been in the room from day one. This is the pattern in every content pipeline we build: the taste is the model.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "$180K/month recovered by replacing a Sunday-night spreadsheet with a demand model.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "Both, in sequence. AI produces the first draft using a voice library and per-SKU material notes. A human editor reviews and adjusts every page before publish. The pipeline typically settles at roughly 15% editing effort per page compared to writing from scratch. Google treats these pages the way it treats good pages because they are good pages, just written faster.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "Won't AI content get penalised by Google?",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "Google penalises low-quality content, not machine-assisted content. Their published guidance is explicit on this. What matters is whether the page answers the reader's question, uses the site's voice, and demonstrates expertise. A voice-matched draft edited by a knowledgeable human meets that bar. A template-generated wall of adjectives does not. We build the first, not the second.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "How much source content do you need to build a voice library?",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "Roughly 20 to 40 pages of the brand's own writing, in the format you want to produce (product pages, blog posts, email, whatever the pipeline is for). Fewer than 20 and the voice library reads as generic. More than 40 is not needed. What matters more is the diversity: pages across categories, price points, and moods, not 40 variations of the same product page.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "$10K AI Fit Sprint (4 weeks including the voice library) plus $12K implementation (6 weeks of pipeline build). $22K total from TwoDots. Add roughly $600 in Claude API costs and 11 weeks of the client's editor's salary. Note that the agency alternative would have been $200K and 6 months.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "The pattern works for any apparel or accessories brand with 500 to 5,000 SKUs on Shopify or a similar platform. The rough test: do you have thin product pages, a founder or copywriter whose voice you want to preserve, and organic search that is underperforming your competitive set? If yes, this is one of the fastest wins in the playbook.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "Same shape of problem?",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "Two Dots 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/498043-99",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/498043-99",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an income verification platform designed to help clients through work automation. The company's platform provides universal income and employment verification services using fully automated processes and artificial intelligence, enabling managers to spend less on leasing fraud while fostering operational efficiency through automation and artificial intelligence.",
+    "url": "https://pitchbook.com/profiles/company/498043-99",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/498043-99",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/498043-99",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/498043-99",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/498043-99",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an income verification platform designed to help clients through work automation. The company's platform pr",
+    "url": "https://pitchbook.com/profiles/company/498043-99",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/498043-99",
+    "pass": 3
+   },
+   {
+    "quote": "Two Dots’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/498043-99",
+    "pass": 3
+   },
+   {
+    "quote": "Is Two Dots a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/498043-99",
+    "pass": 3
+   },
+   {
+    "quote": "Two Dots is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/498043-99",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy Preference Center",
+    "url": "https://pitchbook.com/profiles/company/498043-99",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/498043-99",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/498043-99",
+    "pass": 3
+   },
+   {
+    "quote": "Two Dot 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/734076-55",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Approval Speed Is the Biggest NOI Lever Most Operators Aren't Pulling",
+    "url": "https://www.twodots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The real problems apparel operators asked us to solve.",
+    "url": "https://www.2dots.io/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Every case study on this page is an illustrative composite of",
+    "url": "https://www.2dots.io/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Every case study lands in the same place: one screen the operator opens once a week, with the recommendations, the reasoning, and an override button. Dashboards get ignored. Weekly screens get used.",
+    "url": "https://www.2dots.io/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Because that is where the volume of our current work sits, and because apparel operators recognise apparel case studies more easily than composite ones. TwoDots ships in D2C beauty, home goods, industrial B2B and marketplace sellers too. Ask on a call if you want a walkthrough of a comparable engagement in your category.",
+    "url": "https://www.2dots.io/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Practical AI implementation for e-commerce operators. No hype.",
+    "url": "https://www.2dots.io/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Two Dots",
+    "url": "https://www.casestudies.com/customer/two-dots",
+    "pass": 3
+   },
+   {
+    "quote": "Apparel Case Study: 1,400 SKU Pages in 11 Weeks at $22K | TwoDots",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "Illustrative case study. Composite of",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "This is an illustrative case study composited from TwoDots engagements. The specific figures (1,400 pages, $22K, +38% organic traffic) reflect real work. The named client will be published here once a real engagement is complete and consent is signed.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "Practical AI implementation for e-commerce operators. No hype.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "I was fortunate to learn from Barry G., an exceptionally skilled and professional player. His diligence, dedication to practice, and pure love for the game was infectious. Playing with Barry as often as possible helped me grow not just as a player, but as someone who truly appreciates what squash represents—discipline, strategy, and the relentless pursuit of improvement.",
+    "url": "https://www.two-dots.app/about",
+    "pass": 3
+   },
+   {
+    "quote": "Over 15 years in aviation took me around the world, and I carried my passion with me everywhere. From Sri Lanka to Singapore, New Zealand to the UK, the US to Europe, and eventually Romania—every court told a different story, every match brought new friends, and every game deepened my love for squash.",
+    "url": "https://www.two-dots.app/about",
+    "pass": 3
+   },
+   {
+    "quote": "Conversion on their own site was running 1.9% against a category benchmark of 2.6%. Some of that was the pages. Some was the trust signal that thin pages carry. The founder knew, but she was the only person in the building whose writing sounded like the brand, and she was running the brand.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/498043-99",
+    "pass": 3
+   },
+   {
+    "quote": "Two Dots has 66 total employees.",
+    "url": "https://pitchbook.com/profiles/company/498043-99",
+    "pass": 3
+   },
+   {
+    "quote": "What is Two Dots’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/498043-99",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Two Dots is",
+    "url": "https://pitchbook.com/profiles/company/498043-99",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of recruitment marketing and sales attribution software designed to provide visibility into marketing attribution revenue and usage data for sales collateral.",
+    "url": "https://pitchbook.com/profiles/company/734076-55",
+    "pass": 3
+   },
+   {
+    "quote": "Two Dot has 3 total employees.",
+    "url": "https://pitchbook.com/profiles/company/734076-55",
+    "pass": 3
+   },
+   {
+    "quote": "What is Two Dot’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/734076-55",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Two Dot is",
+    "url": "https://pitchbook.com/profiles/company/734076-55",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Two Dots【公式】 (@TwoDotsJP) / Posts / X — Dec 18, 2015 · Two Dots【公式】 (@TwoDotsJP) - Posts - ニューヨークから発信中のTwoDots公式アカウントです！ どうぞ宜しく！ iOS/Androidで配信中： playtwo.do/ts | X (formerly Twitter)",
+    "url": "https://x.com/TwoDotsJP",
+    "pass": 3
+   },
+   {
+    "quote": "About TwoDots - Our Story & Mission | TwoDots — Meet the team behind TwoDots. Built by squash players for squash players — our mission is to make the sport more accessible with modern tools.",
+    "url": "https://www.two-dots.app/about",
+    "pass": 3
+   },
+   {
+    "quote": "Two Dots (@twodots) • Instagram photos and videos — 124K Followers, 121 Following, 1,505 Posts - Two Dots (@twodots) on Instagram: \"Your fun journey continues here. Welcome to the Two Dots game community on Insta! 📲Customer Support in the game app!\"",
+    "url": "https://www.instagram.com/twodots/",
+    "pass": 3
+   },
+   {
+    "quote": "OTP Login | Two Dots — OTP Login | Two Dots ... Login page",
+    "url": "https://app.twodots.com/portal",
+    "pass": 3
+   },
+   {
+    "quote": "Two Dotsをプレイ | Two Dots公式サイト — Two Dots：つながりを作るパズルゲーム！ 個性的な数々のゲームモードでカラフルなドットをつなげましょう。オブジェクトハントで隠された宝を探し、アーケードの猛襲を生き延び、タイルをフリップしてトロフィーを集め、トレジャーハントで輝くメダルを勝ち取りましょう。遊び方と勝ち方 ...",
+    "url": "https://www.twodots-game.com/ja/game",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies — Apparel AI Implementations by TwoDots | TwoDots — Every case study on this page is an illustrative composite of TwoDots and HappySellers engagements. Specific client names are anonymised at operator request. Figures are drawn from real work.",
+    "url": "https://www.2dots.io/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Two Dots Uses Software & Services — Explore case studies featuring Two Dots as the customer — learn how vendors and partners helped Two Dots solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/two-dots",
+    "pass": 3
+   },
+   {
+    "quote": "Apparel Case Study: 1,400 SKU Pages in 11 Weeks at $22K | TwoDots — A $4M contemporary apparel brand had 1,800 SKUs with thin product pages and an agency quote of $200K for 6 months of rewrites. TwoDots built a voice-matched content pipeline anchored on the founder's own writing, shipped 1,400 pages in 11 weeks, and lifted organic traffic 38%. The founder's editor still edits every page.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "TwoDots Studio | Custom Product Design — Design custom personalized gifts with your own photos and text. Preview your unique creations in interactive 3D online before ordering the perfect present.",
+    "url": "https://studio.twodots.lk/",
+    "pass": 3
+   },
+   {
+    "quote": "Two Dots 2026 Company Profile: Valuation, Funding & Investors ...Two Dot 2026 Company Profile: Valuation, Funding & Investors ...Twodots - 2026 Company Profile, Team, Funding & Competitors ...Two Dots Information - RocketReachTwoDots — Company Profile | The Company CheckTwo Dots: Funding, Team & Investors | Startup IntrosTwo Dots - Crunchbase Company Profile & Funding — Information on valuation, f",
+    "url": "https://pitchbook.com/profiles/company/498043-99",
+    "pass": 3
+   },
+   {
+    "quote": "Two Dot 2026 Company Profile: Valuation, Funding & Investors ...Twodots - 2026 Company Profile, Team, Funding & Competitors ...Two Dots Information - RocketReachTwoDots — Company Profile | The Company CheckTwo Dots: Funding, Team & Investors | Startup IntrosTwo Dots - Crunchbase Company Profile & Funding — Two Dot FAQs When was Two Dot founded? Two Dot was founded in 2023. Where is Two Dot headqua",
+    "url": "https://pitchbook.com/profiles/company/734076-55",
+    "pass": 3
+   },
+   {
+    "quote": "Twodots - 2026 Company Profile, Team, Funding & Competitors ... — Twodots - About the company Twodots is a series A company based in San Francisco (United States), founded in 2021 by Henson Orser. It operates as a Developer of automated software for multifamily residential rental tenant screening. Twodots has raised an undisclosed amount in funding. The company has 205 active competitors, includin",
+    "url": "https://tracxn.com/d/companies/twodots/__GWKOE8TJYAmqNL2puyEeCAMpKiqetZV9Ff3osbLeooM",
+    "pass": 3
+   },
+   {
+    "quote": "TwoDots — Company Profile | The Company Check — TwoDots (Pune, India) - Generates $178.09K annual revenue. Explore investors, acquisitions, financial data, legal entities & business intelligence on...",
+    "url": "https://www.thecompanycheck.com/company/b/twodots/5710016416cd4d8d8",
+    "pass": 3
+   },
+   {
+    "quote": "Two Dots: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Two Dots was founded in 2022 by Henson Orser (Founder) and Max Ponte (Founder). How much funding has Two Dots raised? Two Dots has raised $500K in total across 1 funding round. Who are Two Dots's investors? Two Dots's investors include Y Combinator.",
+    "url": "https://startupintros.com/orgs/two-dots",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "A repeatable way to write in the founder's voice at catalogue scale. Every previous attempt (freelancers, agencies, an in-house junior) had produced copy that sounded generic, then required so much editing that it was faster to write it from scratch.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "Bring your best 20 hand-written pages, a rough SKU count, and one recent agency or freelancer quote. We will tell you honestly whether a voice-matched pipeline will beat the alternative for your brand, and roughly what an engagement would look like.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Roughly 20 to 40 pages of the brand's own writing, in the format you want to produce (product pages, blog posts, email, whatever the pipeline is for). Fewer than 20 and the voice library reads as generic. More than 40 is not needed. What matters more is the diversity: pages across categories, price points, and moods, not 40 variations of the same product page.",
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/498043-99",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/734076-55",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Two Dots (@TwoDots) / X Join two fearless Dots on their adventures across shimmering seas, old ruins, and the depths of space! #TwoDots",
+    "url": "https://x.com/TwoDots",
+    "pass": 3
+   },
+   {
+    "quote": "TwoDots (@twodotservices) / X TwoDots @twodotservices Dec 25, 2024 🎄 Merry Christmas from TwoDots Software Services! 🎅🎁 As the holiday season fills the air with joy, warmth, and gratitude, we at TwoDots would like to extend our heartfelt wishes to all our clients, employees, contractors and partners #MerryChristmas #HappyHolidays #TwoDots 24 TwoDots @twodotservices",
+    "url": "https://x.com/twodotservices",
+    "pass": 3
+   },
+   {
+    "quote": "Two Dots (@twodots_studio) / Posts / X Aug 21, 2014 · Two Dots (@twodots_studio) - Posts - Two Dots is a creative studio dedicated to the entertainment industry. | X (formerly Twitter)",
+    "url": "https://x.com/twodots_studio",
+    "pass": 3
+   },
+   {
+    "quote": "TWO DOTS A.S. LLP (@twodots_) / Posts / X - x.com Apr 1, 2014 · TWO DOTS A.S. LLP twodots_ Mar 7 Stay ahead with proactive bookkeeping—accurate, efficient, and CPA-friendly! 📊 #SmartAccounting #TWO DOTS 💬 0 🔄 0 🤍 0",
+    "url": "https://x.com/twodots_",
+    "pass": 3
+   },
+   {
+    "quote": "Two Dots【公式】 (@TwoDotsJP) / Posts / X Dec 18, 2015 · Sep 26 twodots @TwoDotsJP ステージ339のはじけるエフェクト？ がとてもきれい且つ気持ち良いので見てほしい 色合いも好み デザインもBGMも含めてこのゲームがすき #twodots #dots @dots @TwoDots",
+    "url": "https://x.com/TwoDotsJP",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Two Dots - LinkedIn Two Dots | 3,517 followers on LinkedIn. AI agents for consumer underwriting in housing & lending. | We build AI agents for consumer underwriting, serving housing operators and lenders. We started ...",
+    "url": "https://www.linkedin.com/company/two-dots-financial",
+    "pass": 3
+   },
+   {
+    "quote": "TwoDots Software Services - LinkedIn TwoDots Software Services | 1,985 followers on LinkedIn. From Data to Intelligence | TwoDots is a Product development and Data Analytics service provider, specialised in Big Data, Data Science ...",
+    "url": "https://www.linkedin.com/company/twodotservices",
+    "pass": 3
+   },
+   {
+    "quote": "Twodots Media | Demand Generation Agency | Real Estate ... TwoDots Media is India’s first niche-focused lead generation ecosystem built exclusively for interior designers and architects. For over 4 years, we’ve worked only in one domain interior design & architecture helping professionals generate high-intent enquiries, build sales pipelines, and close real projects. Unlike generic marketing agenc",
+    "url": "https://in.linkedin.com/company/twodots-media",
+    "pass": 3
+   },
+   {
+    "quote": "Two Dots - -- | LinkedIn -- · Location: Colombo · 1 connection on LinkedIn. View Two Dots’ profile on LinkedIn, a professional community of 1 billion members.",
+    "url": "https://lk.linkedin.com/in/two-dots-389a2241a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Two Dots - FacebookTwoDots Photography - FacebookTwo Dots Studio - FacebookTwodots Global - FacebookTWO DOTS - FacebookTwodots Wedding Photography - FacebookTwo Dots Creative Studio - Facebook Oct 21, 2026 · Two Dots. 338,557 followers · 2,683 talking about this. Join two fearless Dots on their adventures across shimmering seas, old ruins, and the depths of space! Solve puzzles and snag unique... ",
+    "url": "https://www.facebook.com/playdots/",
+    "pass": 3
+   },
+   {
+    "quote": "TwoDots Photography - Facebook Sep 10, 2026 · TwoDots Photography. 68 followers. •—• The two dots here represent you & your loved ones while the line represent me, your photo",
+    "url": "https://www.facebook.com/twodotsphotography/",
+    "pass": 3
+   },
+   {
+    "quote": "Two Dots Studio - FacebookTwodots Global - FacebookTWO DOTS - FacebookTwodots Wedding Photography - FacebookTwo Dots Creative Studio - Facebook Dec 13, 2025 · Two Dots Studio. 326 followers · 1 talking about this. We help amplify the impact of purpose-driven companies with compelling video storytelling. Oct 6, 2026 · TwoDots Global is a global news agency, covering 360 degree news that impacts hum",
+    "url": "https://www.facebook.com/twodotsstudio/",
+    "pass": 3
+   },
+   {
+    "quote": "Twodots Global - Facebook Oct 6, 2026 · TwoDots Global is a global news agency, covering 360 degree news that impacts human life.",
+    "url": "https://www.facebook.com/twodotsglobalnews/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.twodots.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://x.com/TwoDotsJP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.two-dots.app/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/twodots/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://app.twodots.com/portal",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.2dots.io/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/two-dots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/twin-dots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/creators/earn/youtube-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/498043-99",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/734076-55",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/twodots/__GWKOE8TJYAmqNL2puyEeCAMpKiqetZV9Ff3osbLeooM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/twodots/5710016416cd4d8d8",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TwoDots",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/twodotservices",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/twodots_studio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/twodots_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/two-dots-financial",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/twodotservices",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/twodots-media",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://lk.linkedin.com/in/two-dots-389a2241a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/playdots/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/twodotsphotography/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/twodotsstudio/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/twodotsglobalnews/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TwoDots",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TwoDotsJP",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Twodots 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Twodots 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Twodots Japan",
+   "results": [
+    "https://x.com/TwoDotsJP",
+    "https://www.two-dots.app/about",
+    "https://www.instagram.com/twodots/",
+    "https://app.twodots.com/portal",
+    "https://www.twodots-game.com/ja/game",
+    "https://www.twodots-game.com/ja",
+    "https://twodotbrand.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Twodots manufacturing customer case study",
+   "results": [
+    "https://www.2dots.io/case-studies/",
+    "https://www.casestudies.com/customer/two-dots",
+    "https://www.2dots.io/case-studies/apparel-sku-content-at-scale/",
+    "https://www.casestudies.com/company/twin-dots",
+    "https://studio.twodots.lk/",
+    "https://www.twodots.com/resources",
+    "https://www.twodots.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Twodots white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.youtube.com/creators/earn/youtube-partner-program/",
+    "https://partners.spectrum.com/",
+    "https://creators.riotgames.com/en-us",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Twodots founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/498043-99",
+    "https://pitchbook.com/profiles/company/734076-55",
+    "https://tracxn.com/d/companies/twodots/__GWKOE8TJYAmqNL2puyEeCAMpKiqetZV9Ff3osbLeooM",
+    "https://www.thecompanycheck.com/company/b/twodots/5710016416cd4d8d8",
+    "https://startupintros.com/orgs/two-dots",
+    "https://www.crunchbase.com/organization/two-dots",
+    "https://rocketreach.co/two-dots-profile_b64bc23dcbc83f7f"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Twodots",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Twodots",
+   "results": [
+    "https://x.com/TwoDots",
+    "https://x.com/twodotservices",
+    "https://x.com/twodots_studio",
+    "https://x.com/twodots_",
+    "https://x.com/TwoDotsJP",
+    "https://x.com/hashtag/twodots",
+    "https://x.com/TwoDots/status/2106776357485113698"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Twodots",
+   "results": [
+    "https://www.linkedin.com/company/two-dots-financial",
+    "https://www.linkedin.com/company/twodotservices",
+    "https://in.linkedin.com/company/twodots-media",
+    "https://lk.linkedin.com/in/two-dots-389a2241a",
+    "https://za.linkedin.com/company/twodotscommunications",
+    "https://tr.linkedin.com/company/twodots-design",
+    "https://pg.linkedin.com/company/twodot-businesss-solutions-limited"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Twodots",
+   "results": [
+    "https://www.facebook.com/playdots/",
+    "https://www.facebook.com/twodotsphotography/",
+    "https://www.facebook.com/twodotsstudio/",
+    "https://www.facebook.com/twodotsglobalnews/",
+    "https://www.facebook.com/twodots/",
+    "https://www.facebook.com/twodotstudio/",
+    "https://www.facebook.com/twodotscreative/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Twodots note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/saiyou_dekirukun/all",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/se_cond/n/n26d337c94a1e",
+    "https://www.linkedin.com/in/henson-orser"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Twodots X 投稿",
+   "results": [
+    "https://x.com/TwoDots",
+    "https://x.com/TwoDotsJP",
+    "https://search.yahoo.co.jp/realtime/search/#TwoDots/",
+    "https://www.instagram.com/twodots/",
+    "https://app.twodots.com/portal",
+    "https://www.twodots.com/",
+    "https://www.instagram.com/tw0_d0ts_/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

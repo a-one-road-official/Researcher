@@ -1,0 +1,1332 @@
+{
+ "name": "Tigereye",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial AI / Software｜未接触",
+ "researched_at": "2026-11-11T06:55:44.238100+00:00",
+ "official_url": "https://www.tigereye.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://startupintros.com/orgs/tigereye",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "58 Maiden Ln 5th floor, San Francisco, CA 94108, USA",
+    "url": "https://startupintros.com/orgs/tigereye",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "TIGEREYE、Enterprise AI Platform「NERVA」へのブランド刷新と、コーポレートWebサイトの全面リニューアルを発表",
+    "url": "https://tigereye.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "TIGEREYE、Enterprise AI Platform「NERVA」へのブランド刷新と、コーポレートWebサイトの全面リニューアルを発表 | 株式会社TIGEREYEのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000075.000125515.html",
+    "pass": 3
+   },
+   {
+    "quote": "TIGEREYE、Enterprise AI Platform「NERVA」へのブランド刷新と、コーポレートWebサイトの全面リニュ�ーアルを発表",
+    "url": "https://prtimes.jp/main/html/rd/p/000000075.000125515.html",
+    "pass": 3
+   },
+   {
+    "quote": "「完成品をそのまま入れる」「業務をまるごとAI化する（OPRA）」「自社でAIサービスを作る（NERVA）」の3つから、課題に合うものを選べます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000075.000125515.html",
+    "pass": 3
+   },
+   {
+    "quote": "NERVAは、TIGEREYEが開発するEnterprise AI Platformです",
+    "url": "https://prtimes.jp/main/html/rd/p/000000075.000125515.html",
+    "pass": 3
+   },
+   {
+    "quote": "OPRAは、業務をまるごとAI化するサービスです",
+    "url": "https://prtimes.jp/main/html/rd/p/000000075.000125515.html",
+    "pass": 3
+   },
+   {
+    "quote": "to assist you in finding the right products and services to meet your needs.",
+    "url": "https://www.alibabacloud.com/ja/customers/tigereye?_p_lc=1",
+    "pass": 3
+   },
+   {
+    "quote": "Play background video",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Proprietary AI technology and products, and the implementation capability to work deep inside real operations.",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "AI reads the information needed and reduces manual data entry.",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Ready-to-Use Products",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "We provide TIGEREYE's AI platform so that you can build your own AI services. We also support integration into internal systems and on-premises operation.",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The figures come from AI-driven development projects and from estimates based on a scenario we modeled.",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Case studies of AI built into the development process",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Approximate, compared with conventional development",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "A medical operations system integrating WebRTC video consultations, home-visit route optimization, OCR, and AI voice summarization. One engineer designed the architecture, and AI agents handled implementation and testing.",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The project delivers iOS/Android apps and admin screens (about 130 screens in total) and about 400 APIs, built in the cloud using IaC and connected to core systems over a closed network. Three people designed the architecture, and AI agents handle implementation and testing.",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Approximate, compared with conventional development (5–10x)",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "We took part in a private 5G (\"local 5G\") trial led by an industrial park association, handling face recognition when people receive packages delivered by drone.",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "AI provides the answers.",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "It sees and recognizes, thinks and understands, acts and responds. It brings that whole flow together, from video and documents to business systems.",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Recognizes people, objects, movements, and documents. Captures the information your operations need from video and images.",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "We work backward from your challenges and the state you want to reach, and decide together how to proceed.",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Hiring and developing FDEs",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "TIGEREYE Develops \"Hierarchical State Intelligence (HSI),\" a Proprietary AI Model That Predicts Future States and Actions, and Files a Patent Application for Its Core Technology",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "TIGEREYE Announces Its Rebranding to the Enterprise AI Platform \"NERVA\" and a Full Renewal of Its Corporate Website",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "TIGEREYE Establishes Joint Venture DragonEye Inc. with Merchant Bankers Co., Ltd., Launching a Next-Generation AI Video Production Business",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "TIGEREYE's Conversational AI Avatar Technology Adopted for PANDORA's AI PR VTuber",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "[Media Coverage] Interview with Our CEO Featured on AI Media \"Ledge.ai\"",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "TIGEREYE's Face Recognition \"KAOPASS Auth\" Adopted for Just Planning's \"Makasete Net,\" Preventing Fraudulent Clock-Ins and Improving Efficiency",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "[New Product] TIGEREYE Announces Multi-Channel AI Agent \"TIGEREYE AGENT\"",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "TIGEREYE Signs an Agency Agreement with Fukuoka Social Insurance and Labor Consultant Corporation to Improve Work Environments with AI",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "TIGEREYE Signs an SI Partner Agreement with TechnoPro, Delivering Value for Clients' Workforce Utilization Needs",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "TIGEREYE Inc. and GENZ Inc. Announce a New Testing Service to Support AI System Quality Improvement — A Specialized Testing Service for AI Products to Ensure Quality and Reliability",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "Kaopiz Holdings and TIGEREYE Inc. Announce a Strategic Alliance in AI Technology and DX Promotion",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "FY2024 Regional Digital Infrastructure Utilization Promotion Project (Demonstration): Verification Toward a \"Smart Industrial Park\" Using Shared Local 5G in Gifu Prefecture",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "TIGEREYE Inc. Begins Providing Its Proprietary AI Platform as AI as a Service (AIaaS) and Appoints Keiji Mitsubuchi as Advisor",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "Practical Seminar on Attendance Management and Mental Healthcare with AI Face Recognition (November 6–7)",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "TIGEREYE Releases Stress Checker, a New Approach to Health Management Using Face Recognition Technology",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "Realizing a Safe and Secure University Life with ITC Japan: Providing Biometric Authentication Solutions for Universities",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "Agency Agreement Signed with Netyear Group: Aiming to Realize Safe and Secure Cities and Society Through Real-Time, High-Precision Face Recognition Technology",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "AMG Holdings, Shibutani, and Wired Package Sign a Three-Way Business Alliance to Promote the Development and Adoption of DX-Ready Products Using an AI Authentication System",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "TIGEREYE Inc. Established to Promote Solutions to Social Issues Through Cutting-Edge Technology",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "Each case is presented by industry, what was deployed, and details.",
+    "url": "https://tigereye.ai/en/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Industry: Other products. Deployed: KAOPASS Key & Entry/Exit. KAOPASS Key & Entry/Exit exhibition.",
+    "url": "https://tigereye.ai/en/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Industry: Manufacturing. Deployed: KAOPASS Attendance & KAOPASS Stress Checker. Face recognition reduces the effort of clocking in and gives insight into employees' emotions, improving the workplace atmosphere. Productivity and accuracy have also improved, making operations more efficient.",
+    "url": "https://tigereye.ai/en/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Industry: Production company. Deployed: KAOPASS QR. Face recognition manages entry to and exit from live events, from preventing ticket resale to cutting costs by going ticketless.",
+    "url": "https://tigereye.ai/en/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Tiger Eye Improves User Experience and Workflow Efficiency For Currys With Migration To Cloud iManage (cloudimanage.com)",
+    "url": "https://www.tigereyeconsulting.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Read this in-depth case study to understand more about Currys’ move to Cloud iManage with Tiger Eye, including key technical steps and the powerful results unlocked through the transition project.",
+    "url": "https://www.tigereyeconsulting.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "How did Tiger Eye enable the professional services group Gateley to consolidate documents and emails from over 15 years of service before migrating to the iManage Cloud to boost business outcomes? Learn more in this iManage customer story.",
+    "url": "https://www.tigereyeconsulting.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Integrating iManage Across the Tech Stack for Fox Williams, To Reduce IT Pressure and Drive Data Confidence",
+    "url": "https://www.tigereyeconsulting.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "How did Tiger Eye Administrate enable Fox Williams to address user frustrations, drive confidence in data and reduce pressures on the IT team? Learn more in this brief case study.",
+    "url": "https://www.tigereyeconsulting.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how Al Tamimi & Company, the largest law firm in the Middle East, manages the organisation’s knowledge and collective expertise using Tiger Eye Blueprint.",
+    "url": "https://www.tigereyeconsulting.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Transforming Legal Knowledge Management for William Fry with Tiger Eye Blueprint",
+    "url": "https://www.tigereyeconsulting.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how William Fry use Tiger Eye Blueprint to capture, curate, find and share know-how within the firm in order to streamline processes and boost their competitive edge.",
+    "url": "https://www.tigereyeconsulting.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how UK Top 25 chartered accountancy firm HW Fisher used our custom development services to create a bespoke tool for their data deletion processes.",
+    "url": "https://www.tigereyeconsulting.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+    "url": "https://www.tigereyeconsulting.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.tigereyeconsulting.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.",
+    "url": "https://www.tigereyeconsulting.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "There are many ways to get the word out about your business but creating graphics and a newsletter to publish on your social media channels is a great place to start. This will also help you stay top of mind with those you are connected to.",
+    "url": "https://tigereyesolution.com/case-studies/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "TIGEREYE、マーチャント・バンカーズ株式会社との合弁会社「株式会社DragonEye」を設立 ～AIアバター・生成AI・マルチモーダルAIを活用した次世代AI映像制作事業を開始～",
+    "url": "https://tigereye.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "TIGEREYE、Enterprise AI Platform「NERVA」へのブランド刷新と、コーポレートWebサイトの全面リニューアルを発表 | 株式会社TIGEREYEのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000075.000125515.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社TIGEREYE（本社：東京都中央区、代表取締役：上村 学、以下「TIGEREYE」）は、これまで開発、提供してきたAI技術とプロダクトの体系を再編し、新たな統合AIプロダクトブランド「NERVA（ネルバ）」として展開するとともに、コーポレートWebサイト（https://tigereye.ai/）を全面的にリニューアルしたことをお知らせいたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000075.000125515.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都中央区晴海１−８−８",
+    "url": "https://prtimes.jp/main/html/rd/p/000000075.000125515.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社TIGEREYE 代表取締役 CEO/CTO",
+    "url": "https://www.alibabacloud.com/ja/customers/tigereye?_p_lc=1",
+    "pass": 3
+   },
+   {
+    "quote": "特にOCRの日本語レイアウト理解や、Office Agentの敬語・口語混在に対応するには、TIGEREYE独自のプロンプトルール設計とLoRAによる微調整が必要でした",
+    "url": "https://www.alibabacloud.com/ja/customers/tigereye?_p_lc=1",
+    "pass": 3
+   },
+   {
+    "quote": "日本語対応のさらなる強化に向けて、モデル、データ、評価の各領域で取り組みを進めていきたいと考えています",
+    "url": "https://www.alibabacloud.com/ja/customers/tigereye?_p_lc=1",
+    "pass": 3
+   },
+   {
+    "quote": "アリババクラウドの手厚い技術サポートにより、TIGEREYEは日本市場向けの対話できるエージェントAIの開発を加速させています",
+    "url": "https://www.alibabacloud.com/ja/customers/tigereye?_p_lc=1",
+    "pass": 3
+   },
+   {
+    "quote": "完成品をそのまま入れる | 株式会社TIGEREYE",
+    "url": "https://tigereye.ai/offerings/applications/",
+    "pass": 3
+   },
+   {
+    "quote": "[Exhibition] TIGEREYE Is Exhibiting at RetailTech JAPAN 2026 (March 3–6, 2026)",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "[Exhibition] Exhibiting at the 8th Medical Japan Tokyo (October 1–3, 2025)",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "On-Site Fair on February 12, 2025 (Osaki, Tokyo): Experience Advanced Attendance Management with Next-Generation Cloud-Based AI Face Recognition — Easy Stress Checks Through Integration with bugyo Edge kintaikanri cloud",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "Session at VENTURE CAFE TOKYO: \"The Future Created by Computer Vision and Web3 — Enhancing Security with AI-Powered Face Recognition Technology\"",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "Realizing a Safe and Secure University Life with ITC Japan: Providing Biometric Authentication Solutions for Universities",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "〒104-0053 東京都中央区晴海1-8-8 晴海アイランドトリトンスクエアオフィスタワーW18階",
+    "url": "https://tigereye.ai/company/",
+    "pass": 3
+   },
+   {
+    "quote": "・審査機関：一般社団法人日本情報システム・ユーザー協会",
+    "url": "https://tigereye.ai/company/",
+    "pass": 3
+   },
+   {
+    "quote": "・プライバシーマーク付与機関：一般財団法人日本情報経済社会推進協会（JIPDEC）",
+    "url": "https://tigereye.ai/company/",
+    "pass": 3
+   },
+   {
+    "quote": "TOKYO SYSTEM HOUSE Co., Ltd.",
+    "url": "https://tigereye.ai/en/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "TIGEREYE accelerates Japanese conversational AI development with Alibaba Cloud",
+    "url": "https://www.casestudies.com/customer/tigereye-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo, 104-0053",
+    "url": "https://pitchbook.com/profiles/company/539234-74",
+    "pass": 3
+   },
+   {
+    "quote": "Tigereye is headquartered in Tokyo, Japan.",
+    "url": "https://pitchbook.com/profiles/company/539234-74",
+    "pass": 3
+   },
+   {
+    "quote": "[AI Success Story] TIGEREYE Enhances Multimodal AI with Qwen, Achieving Over 87% Dialogue Success Rate｜Alibaba Cloud（アリババクラウド）日本公式",
+    "url": "https://note.com/alibabacloud_jp/n/n3f4fc6616bc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Alibaba Cloud（アリババクラウド）日本公式",
+    "url": "https://note.com/alibabacloud_jp/n/n3f4fc6616bc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese language support",
+    "url": "https://note.com/alibabacloud_jp/n/n3f4fc6616bc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". In particular, handling Japanese layout understanding for OCR and managing the mix of honorifics and colloquialisms for the Office Agent required TIGEREYE’s unique prompt rule design and fine-tuning via LoRA.",
+    "url": "https://note.com/alibabacloud_jp/n/n3f4fc6616bc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We intend to advance our efforts in the areas of models, data, and evaluation to further strengthen our Japanese language support. We plan to achieve efficient operation of computational resources through the advancement of GPU schedulers and reservation control. We will also promote RAG optimization for Qwen and expand audio input/output functions to enhance the product's level of perfection.",
+    "url": "https://note.com/alibabacloud_jp/n/n3f4fc6616bc2?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社TIGEREYE — FDEが業務を分析して流れを作り、いまのシステムとつないで、運用まで続けます。 TIGEREYEのAI基盤を提供し、お客様が自分たちのAIサービスを作れるようにします。 社内システムへの組み込みや、オンプレミスでの運用にも対応します。",
+    "url": "https://tigereye.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "TIGEREYE、Enterprise AI Platform「NERVA」へのブランド刷新と、コー... — Oct 21, 2026 · TIGEREYEは、NERVAを中核とするAIプロダクト事業と、FDEによる顧客密着型の導入支援を両輪として、企業のAI Transformationを推進してまいります。",
+    "url": "https://prtimes.jp/main/html/rd/p/000000075.000125515.html",
+    "pass": 3
+   },
+   {
+    "quote": "成功事例 TIGEREYE, Inc. - Alibaba Cloud — チャレンジ 最大の課題は日本語対応。 特にOCRの日本語レイアウト理解や、Office Agentの敬語・口語混在に対応するには、TIGEREYE独自のプロンプトルール設計とLoRAによる微調整が必要でした。",
+    "url": "https://www.alibabacloud.com/ja/customers/tigereye?_p_lc=1",
+    "pass": 3
+   },
+   {
+    "quote": "完成品をそのまま入れる | TIGEREYE — 目的が決まっている方へ、完成品をそのまま導入できます。 Agent、Avatar、Call Center、Vision、OCRなどから、どの業務を変えるかで選べます。",
+    "url": "https://tigereye.ai/offerings/applications/",
+    "pass": 3
+   },
+   {
+    "quote": "AI TECHNOLOGY株式会社並びに株式会社TIGEREYEとの業務提携に関するお... — Oct 13, 2026 · 単に既存の不動産へAI機器を導入するのではなく、企画・開発段階からAIを組み込んだ「AIネイティブな不動産」の実現を目指し、3社の連携により、「不動産×カメラ×顔認証×AI」という新たな事業領域を創出してまいります。",
+    "url": "https://mbkworld.co.jp/press/9505/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社TIGEREYE — TIGEREYEは、業務の課題をAIで解決する会社です。 受付、書類の入力、問い合わせ対応など、人が時間を取られている業務を、自社で開発したAIと、お客様のチームに入って実装する力で変えます。",
+    "url": "https://tigereye.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "TIGEREYE Inc. — TIGEREYE is a company that solves business challenges with AI. We transform work that takes up people's time, such as reception, document entry, and inquiry handling, with AI we develop in-house and the capability to join your team and implement it.",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "News | TIGEREYE Inc. — Feb 17, 2026 · TIGEREYE Inc. provides innovative computer vision technology and creates new possibilities for smart cities.",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 | 株式会社TIGEREYE — Jul 7, 2023 · AIが、あたりまえに働く職場へ。 TIGEREYEは、業務の課題をAIで解決する会社です。 自社で開発したAIと、お客様のチームに入って実装する力で、業務を変えます。",
+    "url": "https://tigereye.ai/company/",
+    "pass": 3
+   },
+   {
+    "quote": "お知らせ | 株式会社TIGEREYE — Jun 17, 2026 · 2025.09.25 News 株式会社TIGEREYEが提供する顔認証ソリューション「顔パスファミリー」シリーズが、株式会社日立システムズ様の公式サイトに掲載されました。",
+    "url": "https://tigereye.ai/news/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - TIGEREYE — Case studies from customers who have adopted our products, presented by industry, what was deployed, and details.",
+    "url": "https://tigereye.ai/en/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Tigereye, Inc Uses Software & Services — Explore case studies featuring Tigereye, Inc as the customer — learn how vendors and partners helped Tigereye, Inc solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/tigereye-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Tiger EyeCase Studies - Tiger Eye Solution6 TigerEye Customer Reviews & References | FeaturedCustomers — Read this in-depth case study to understand more about Currys’ move to Cloud iManage with Tiger Eye, including key technical steps and the powerful results unlocked through the transition project. This is how we foster lifelong customer relationships. The challenge with entrepren",
+    "url": "https://www.tigereyeconsulting.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Tiger Eye Solution — This is how we foster lifelong customer relationships. The challenge with entrepreneurs is keeping the mundane tasks you can delegate off your plate, so that you can do what you do best and help your business grow. This is where I come in. A consultation is free, so what do have to lose?",
+    "url": "https://tigereyesolution.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "6 TigerEye Customer Reviews & References | FeaturedCustomers — Read 6 TigerEye reviews and testimonials from customers, explore case studies and customer success stories, and watch customer videos to see why companies chose TigerEye as their Business Intelligence Software",
+    "url": "https://www.featuredcustomers.com/vendor/tigereye",
+    "pass": 3
+   },
+   {
+    "quote": "TigerEye – Funding, Acquisitions & Key Rivals – 2026 — Discover TigerEye's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/tigereye",
+    "pass": 3
+   },
+   {
+    "quote": "Tigereye 2026 Company Profile: Valuation, Funding & Investors ... — Nov 19, 2023 · Information on valuation, funding, cap tables, investors, and executives for Tigereye. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/539234-74",
+    "pass": 3
+   },
+   {
+    "quote": "TigerEye - 2026 Company Profile, Team & Funding - TracxnTigerEye: Funding, Team & Investors | Startup IntrosTigerEye Revenue, Funding & Valuation - prospeo.ioTigerEye Labs 2026 Company Profile: Valuation, Investors ...TigerEye Revenue 2024: $4.7M Est. - getlatka.com — Mar 16, 2026 · Explore TigerEye's in-depth company profile, including funding details, key investors, and leadership. Jul 13, 2026 ",
+    "url": "https://tracxn.com/d/companies/tigereye/__5fW9bt3w0U8SnZA6M4jg2v-pxZ9Y2wZd6IGIApWbaMs",
+    "pass": 3
+   },
+   {
+    "quote": "TigerEye: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · TigerEye was founded in 2021 by Tracy Young and Ralph Gootee, who previously built PlanGrid, a construction software company that reached $100 million ARR and was acquired by Autodesk for $850 million.",
+    "url": "https://startupintros.com/orgs/tigereye",
+    "pass": 3
+   },
+   {
+    "quote": "TigerEye Revenue, Funding & Valuation - prospeo.io — TigerEye has revenue of $500,000, estimated valuation of $1,600,000, $30,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/tigereye-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "AI takes on operations in healthcare, manufacturing, offices, and hotels. FDEs analyze your operations, design the workflow, connect it to your existing systems, and continue to support you once it is up and running.",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "An internal AI system used by about 10,000 people,",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "An app used by tens of thousands of people a year, with core system integration,",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "We took part in a private 5G (\"local 5G\") trial led by an industrial park association, handling face recognition when people receive packages delivered by drone.",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "TIGEREYE Partners with SYNCLAYER to Exhibit at Cable Tech Show 2025: Envisioning the Smart Industrial Park with AI Face Recognition and Avatars",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "TIGEREYE Signs an Agency Agreement with A-Factory, Aiming to Reform Workstyles at SMEs",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "FY2024 Regional Digital Infrastructure Utilization Promotion Project (Demonstration): Verification Toward a \"Smart Industrial Park\" Using Shared Local 5G in Gifu Prefecture",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "Industry: Manufacturing. Deployed: KAOPASS Attendance & KAOPASS Stress Checker. Face recognition reduces the effort of clocking in and gives insight into employees' emotions, improving the workplace atmosphere. Productivity and accuracy have also improved, making operations more efficient.",
+    "url": "https://tigereye.ai/en/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Tigereye, Inc",
+    "url": "https://www.casestudies.com/customer/tigereye-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Read this in-depth case study to understand more about Currys’ move to Cloud iManage with Tiger Eye, including key technical steps and the powerful results unlocked through the transition project.",
+    "url": "https://www.tigereyeconsulting.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "How did Tiger Eye Administrate enable Fox Williams to address user frustrations, drive confidence in data and reduce pressures on the IT team? Learn more in this brief case study.",
+    "url": "https://www.tigereyeconsulting.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "How did Tiger Eye help London-based law firm Harbottle & Lewis move to cloudimanage.com with minimal disruption to end users or the firm’s operations? Learn more in this brief case study.",
+    "url": "https://www.tigereyeconsulting.com/case-studies/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "When a visitor arrives",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "When documents arrive",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Agents and workflows connect to existing systems, and AI and people carry operations through to completion.",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Toward workplaces where AI is simply part of everyday work.",
+    "url": "https://tigereye.ai/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Toward workplaces where AI is simply part of everyday work.",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "Industry: Manufacturing. Deployed: KAOPASS Attendance & KAOPASS Stress Checker. Face recognition reduces the effort of clocking in and gives insight into employees' emotions, improving the workplace atmosphere. Productivity and accuracy have also improved, making operations more efficient.",
+    "url": "https://tigereye.ai/en/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Toward workplaces where AI is simply part of everyday work.",
+    "url": "https://tigereye.ai/en/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://www.tigereyeconsulting.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.tigereyeconsulting.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "What is Tigereye’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/539234-74",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Tigereye is",
+    "url": "https://pitchbook.com/profiles/company/539234-74",
+    "pass": 3
+   },
+   {
+    "quote": "Think Snowflake + Looker + Perplexity. We take care of your data lake and data modeling, providing one-click access to pipeline, revenue, funnel, and financial metrics with AI-driven insights. We also have out of the box tools for territories and segmentation. Whether you need your first RevOps or Financial Analyst hire or want to supercharge your existing team, we've got you covered.",
+    "url": "https://startupintros.com/orgs/tigereye",
+    "pass": 3
+   },
+   {
+    "quote": "TigerEye's investors include Next47, Garry Tan, Y Combinator.",
+    "url": "https://startupintros.com/orgs/tigereye",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "TIGEREYE Announces Its Rebranding to the Enterprise AI Platform \"NERVA\" and a Full Renewal of Its Corporate Website",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "TIGEREYE to Speak at \"Future of Insurance Agencies\"",
+    "url": "https://tigereye.ai/en/news/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Discover how we have helped firms around the world to work securely with documents, emails and knowledge using our broad range of solutions and services for iManage.",
+    "url": "https://www.tigereyeconsulting.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "How did Tiger Eye enable the professional services group Gateley to consolidate documents and emails from over 15 years of service before migrating to the iManage Cloud to boost business outcomes? Learn more in this iManage customer story.",
+    "url": "https://www.tigereyeconsulting.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "info@tigereyeconsulting.com",
+    "url": "https://www.tigereyeconsulting.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "When Catherine reached out to me, she already had most of the content created, and deadlines in place for when the emails needed to be sent out. The system was mostly good, but meeting the deadline was the setback. She knew my specialty was building relationships with others and that was what she wanted in order to provide her clients the best experience possible.",
+    "url": "https://tigereyesolution.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/539234-74",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[AI Success Story] TIGEREYE Enhances Multimodal AI with Qwen ... Oct 23, 2025 · TIGEREYE Inc. operates a multimodal AI platform that solves social issues using the “eyes” and “ears” of AI, under the vision of “From Recognition to Communication.”",
+    "url": "https://note.com/alibabacloud_jp/n/n3f4fc6616bc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI begins to bundle AI.｜GK - note（ノート） 株式会社TIGEREYEで近未来エンジニアリングを手がけています。 サイバーパンクな世界観と、最先端テクノロジーへの偏愛が原動力。 現実と仮想の境界を、コードで曖昧にするのが得意です。",
+    "url": "https://note.com/tigereye_ai/n/n5161f71fac0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Technical Introduction] \"AI that changes how it speaks based ... May 16, 2025 · 株式会社TIGEREYEで近未来エンジニアリングを手がけています。 サイバーパンクな世界観と、最先端テクノロジーへの偏愛が原動力。 現実と仮想の境界を、コードで曖昧にするのが得意です。",
+    "url": "https://note.com/tigereye_ai/n/ncfef5429c9ca?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "[AI Success Story] TIGEREYE Enhances Multimodal AI with Qwen, Achieving Over 87% Dialogue Success Rate｜Alibaba Cloud（アリババクラウド）日本公式",
+    "url": "https://note.com/alibabacloud_jp/n/n3f4fc6616bc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/alibabacloud_jp/n/n3f4fc6616bc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[AI Success Story] TIGEREYE Enhances Multimodal AI with Qwen, Achieving Over 87% Dialogue Success Rate",
+    "url": "https://note.com/alibabacloud_jp/n/n3f4fc6616bc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Alibaba Cloud（アリババクラウド）日本公式",
+    "url": "https://note.com/alibabacloud_jp/n/n3f4fc6616bc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "multimodal AI platform",
+    "url": "https://note.com/alibabacloud_jp/n/n3f4fc6616bc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "that solves social issues using the “eyes” and “ears” of AI, under the vision of “From Recognition to Communication.” By integrating recognition AI—such as facial recognition, skeletal estimation, emotion analysis, speech understanding, and natural language processing—with Large Language Models (LLMs) and speech synthesis technology, they provide",
+    "url": "https://note.com/alibabacloud_jp/n/n3f4fc6616bc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "“agent AI that can understand and converse”",
+    "url": "https://note.com/alibabacloud_jp/n/n3f4fc6616bc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Alibaba Cloud's support engineers accurately answer even the smallest questions regarding implementation. There is a sense of security in being able to ask the developers directly, even in situations where fragmented information on the internet leaves us feeling uncertain.\"",
+    "url": "https://note.com/alibabacloud_jp/n/n3f4fc6616bc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI begins to bundle AI.｜GK",
+    "url": "https://note.com/tigereye_ai/n/n5161f71fac0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/tigereye_ai/n/n5161f71fac0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI begins to bundle AI.",
+    "url": "https://note.com/tigereye_ai/n/n5161f71fac0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "― MCP × TRINITY EYE × TIGEREYE PF ―",
+    "url": "https://note.com/tigereye_ai/n/n5161f71fac0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The world has become too accustomed to \"conversational AI.\"",
+    "url": "https://note.com/tigereye_ai/n/n5161f71fac0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In 2024-2025, generative AI spread at an astonishing speed.",
+    "url": "https://note.com/tigereye_ai/n/n5161f71fac0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Chatbots, voice assistants, and AI avatars.",
+    "url": "https://note.com/tigereye_ai/n/n5161f71fac0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We no longer feel any strangeness in \"conversing\" with AI.",
+    "url": "https://note.com/tigereye_ai/n/n5161f71fac0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Technical Introduction] \"AI that changes how it speaks based on the situation\" — What is a dialogue-context-adaptive chatbot/avatar?｜GK",
+    "url": "https://note.com/tigereye_ai/n/ncfef5429c9ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/tigereye_ai/n/ncfef5429c9ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Technical Introduction] \"AI that changes how it speaks based on the situation\" — What is a dialogue-context-adaptive chatbot/avatar?",
+    "url": "https://note.com/tigereye_ai/n/ncfef5429c9ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We are developing a multimodal AI platform that fuses \"AI eyes\" and \"AI ears.\"",
+    "url": "https://note.com/tigereye_ai/n/ncfef5429c9ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, we will introduce one of our core technologies: the \"dialogue-context-adaptive AI chatbot.\"",
+    "url": "https://note.com/tigereye_ai/n/ncfef5429c9ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The motivation: A desire to change the \"quality of conversation\"",
+    "url": "https://note.com/tigereye_ai/n/ncfef5429c9ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Typical chatbots can only provide \"fixed responses\" that follow a script in response to user input.",
+    "url": "https://note.com/tigereye_ai/n/ncfef5429c9ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, real-life conversation is not that simple.",
+    "url": "https://note.com/tigereye_ai/n/ncfef5429c9ca?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "TigerEye on X: \"Excited to launch TigerEye’s AI Analyst: a ... Excited to launch TigerEye’s AI Analyst: a conversational AI for fast, actionable business insights. Time-aware, it answers questions on opportunities, forecasts, revenue, metrics, and trends — delivering reports with full transparency.",
+    "url": "https://x.com/TigerEyeLabs/status/1851254381229838531",
+    "pass": 3
+   },
+   {
+    "quote": "tigerEye (@tigerEy25437405) / X May 20, 2021 @ RajaBasharatLAW #RegulariseSSEsAEOs 2 tigerEye @tigerEy25437405 May 20, 2021 we demand unconditional regularisation of SSEs and AEOs recruited through NTS #regularisessesaeos",
+    "url": "https://x.com/tigerEy25437405",
+    "pass": 3
+   },
+   {
+    "quote": "Tigereye (ELAVESK OTATEKIS) (@TigerEye77396) on X @Unleashedrsn @PeteHegseth @DOWResponse They have been. Yet because most of you can see this or wrap your heads around it, evil keeps marching these out. Many on both sides of the isle are dead we see their Clones. Those movies, were not fiction.",
+    "url": "https://x.com/TigerEye77396/status/2118875171423691196",
+    "pass": 3
+   },
+   {
+    "quote": "Tigereye™ on X: \"@FreddyLA7 @mrskimp_ It's a dark and ... @FreddyLA7 @mrskimp_ It's a dark and dangerous place. Do not be fooled by the façade. It is not a good place to live. It's fake. Be safe.",
+    "url": "https://x.com/HiTigereye/status/2114831000895365630",
+    "pass": 3
+   },
+   {
+    "quote": "ツンTsuN☆ (@tigereye) / X 2 followers · 4 following. Joined Dec 2021. See the latest conversations with @tigereye",
+    "url": "https://x.com/tigereye",
+    "pass": 3
+   },
+   {
+    "quote": "TigerEye on X: \"p2です 拾ってください #valorant募集\" / X 6 days ago · p2です 拾ってください #valorant募集 See what’s happening and join the conversation",
+    "url": "https://x.com/TigerEye504/status/2118134186230120511",
+    "pass": 3
+   },
+   {
+    "quote": "TigerEye on X: \"@fpslululu @2 P2ですが参加よろしいでしょうか\" 6 days ago · @fpslululu @2 P2ですが参加よろしいでしょうか",
+    "url": "https://x.com/TigerEye504/status/2118134348709007430",
+    "pass": 3
+   },
+   {
+    "quote": "TigerEye on X: \"p2です 拾ってください！ #valorant募集\" / X p2です 拾ってください！ #valorant募集 04 Nov 2026 01:17:15",
+    "url": "https://x.com/TigerEye504/status/2117788229290340759",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "TigerEye - LinkedIn TigerEye is an AI construction platform built by the team behind PlanGrid. TigerEye builds tools that help construction teams make faster, better decisions and get home on time.",
+    "url": "https://www.linkedin.com/company/tigereye",
+    "pass": 3
+   },
+   {
+    "quote": "Tiger Eye Engineering LLC - LinkedIn About us Tigereye delivers powerful and consistent pavement evaluation through advanced machine learning, data analytics, and data visualization.",
+    "url": "https://www.linkedin.com/company/tigereye-eng",
+    "pass": 3
+   },
+   {
+    "quote": "Tigereye Group | LinkedIn Tigereye Group is a technology services company that provides consulting, staffing, and training services to companies worldwide. Our focus is on design, implementation and optimization of IT...",
+    "url": "https://in.linkedin.com/company/tigereye-group",
+    "pass": 3
+   },
+   {
+    "quote": "Ralph Gootee - CTO of Lennar. Formerly TigerEye, YC, PlanGrid ...Tigereye LLC - LinkedInMindy K. - President, Tigereye Solutions | LinkedInTracy Young Returns to Lead TigerEye After $875 Million ... CTO of Lennar. Formerly TigerEye, YC, PlanGrid, Pixar, Sony and Johns Hopkins. · Co-founder and CTO of PlanGrid: YC W12, Sequoia, acquired by Autodesk for $875m. Tigereye LLC | 4 followers on LinkedIn.",
+    "url": "https://www.linkedin.com/in/ralphleon",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tigereye.com/",
+    "status": "network_error:SSLError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://tigereye.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000075.000125515.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alibabacloud.com/ja/customers/tigereye?_p_lc=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tigereye.ai/offerings/applications/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tigereye.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tigereye.ai/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tigereye.ai/en/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tigereye.ai/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tigereye.ai/en/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/tigereye-inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tigereyeconsulting.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tigereyesolution.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/tigereye",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/539234-74",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/tigereye/__5fW9bt3w0U8SnZA6M4jg2v-pxZ9Y2wZd6IGIApWbaMs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/tigereye",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/alibabacloud_jp/n/n3f4fc6616bc2?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tigereye_ai/n/n5161f71fac0d?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tigereye_ai/n/ncfef5429c9ca?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TigerEyeLabs/status/1851254381229838531",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tigerEy25437405",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TigerEye77396/status/2118875171423691196",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HiTigereye/status/2114831000895365630",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tigereye",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tigereye-eng",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/tigereye-group",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ralphleon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tigereye",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TigerEye504/status/2118134186230120511",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TigerEye504/status/2118134348709007430",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TigerEye504/status/2117788229290340759",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tigereye 日本 導入",
+   "results": [
+    "https://tigereye.ai/",
+    "https://prtimes.jp/main/html/rd/p/000000075.000125515.html",
+    "https://www.alibabacloud.com/ja/customers/tigereye?_p_lc=1",
+    "https://tigereye.ai/offerings/applications/",
+    "https://mbkworld.co.jp/press/9505/",
+    "https://mbkworld.co.jp/wp-content/uploads/2026/06/260601_tigereyejoutoyoyaku.pdf",
+    "https://ai-hikaku-navi.jp/company/72.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tigereye 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tigereye Japan",
+   "results": [
+    "https://tigereye.ai/",
+    "https://tigereye.ai/en/",
+    "https://tigereye.ai/en/news/",
+    "https://tigereye.ai/company/",
+    "https://tigereye.ai/news/",
+    "https://tigereye.ai/en/company/",
+    "https://tigereye.ai/offerings/applications/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tigereye manufacturing customer case study",
+   "results": [
+    "https://tigereye.ai/en/case-studies/",
+    "https://www.casestudies.com/customer/tigereye-inc",
+    "https://www.tigereyeconsulting.com/case-studies/",
+    "https://tigereyesolution.com/case-studies/",
+    "https://www.featuredcustomers.com/vendor/tigereye",
+    "https://tigereye.ai/en/case-study/",
+    "https://www.tigereyeconsulting.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tigereye white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.ninjaone.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tigereye founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/tigereye",
+    "https://pitchbook.com/profiles/company/539234-74",
+    "https://tracxn.com/d/companies/tigereye/__5fW9bt3w0U8SnZA6M4jg2v-pxZ9Y2wZd6IGIApWbaMs",
+    "https://startupintros.com/orgs/tigereye",
+    "https://prospeo.io/c/tigereye-revenue",
+    "https://pitchbook.com/profiles/company/507115-90",
+    "https://getlatka.com/companies/tigereye.com"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Tigereye",
+   "results": [
+    "https://note.com/alibabacloud_jp/n/n3f4fc6616bc2?hl=en",
+    "https://note.com/tigereye_ai/n/n5161f71fac0d?hl=en",
+    "https://note.com/tigereye_ai/n/ncfef5429c9ca?hl=en",
+    "https://note.com/dna528hz/n/nbe2c7a59cc02?hl=en",
+    "https://note.com/tigereye_ai/n/n116be8f22afa?hl=en",
+    "https://note.com/tigereye_ai/n/n9e646619b49b?hl=en",
+    "https://note.com/rapid_crab2361/n/n244b67ea7635?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tigereye",
+   "results": [
+    "https://x.com/TigerEyeLabs/status/1851254381229838531",
+    "https://x.com/tigerEy25437405",
+    "https://x.com/TigerEye77396/status/2118875171423691196",
+    "https://x.com/HiTigereye/status/2114831000895365630",
+    "https://x.com/HiTigereye/status/2109897236620685815",
+    "https://x.com/Tiger_Eye",
+    "https://x.com/HiTigereye/status/2107608297788608782"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Tigereye",
+   "results": [
+    "https://www.linkedin.com/company/tigereye",
+    "https://www.linkedin.com/company/tigereye-eng",
+    "https://in.linkedin.com/company/tigereye-group",
+    "https://www.linkedin.com/in/ralphleon",
+    "https://www.linkedin.com/company/tigereye-llc",
+    "https://www.linkedin.com/in/mindy-k-25556b6",
+    "https://www.linkedin.com/pulse/tracy-young-returns-lead-tigereye-after-875-million-cdpfe"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tigereye",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Tigereye note 社長",
+   "results": [
+    "https://compalyze.co.jp/company/3010001236837",
+    "https://tigereye.ai/company/",
+    "https://newfor.jp/founders/tigereye/",
+    "https://mbkworld.co.jp/wp-content/uploads/2026/06/260623_tigereye.pdf",
+    "https://tigereye.ai/news/20230707/",
+    "https://mbkworld.co.jp/wp-content/uploads/2026/06/260601_tigereyejoutoyoyaku.pdf",
+    "https://the-shashi.com/tse/5243/executives/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tigereye X 投稿",
+   "results": [
+    "https://x.com/tigereye",
+    "https://x.com/TigerEye504/status/2118134186230120511",
+    "https://x.com/TigerEye504/status/2118134348709007430",
+    "https://x.com/TigerEye504/status/2117788229290340759",
+    "https://x.com/TigerEye504/status/2117773867523706930",
+    "https://x.com/tiger_eye_x",
+    "https://x.com/tiger_eye_x/with_replies"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索12回）"
+ }
+}

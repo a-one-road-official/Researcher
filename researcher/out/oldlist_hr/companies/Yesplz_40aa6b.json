@@ -1,0 +1,1106 @@
+{
+ "name": "Yesplz",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T06:38:47.989888+00:00",
+ "official_url": "https://yesplz.ai",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金プラン",
+    "value": "4 種類（無料プラン記載なし）",
+    "url": "https://my-best.ai/ai-tools/yesplz/",
+    "pass": 3
+   },
+   {
+    "label": "料金",
+    "value": "Starterプラン 月額49ドル／Growthプラン 月額99ドル",
+    "url": "https://my-best.ai/ai-tools/yesplz/",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$1.5M",
+    "url": "https://getlatka.com/companies/yesplz-inc",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "15-Jun-2020 $1.38M $1.51M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/454833-19",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "15-Jan-2019 $140K $140K  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/454833-19",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/454833-19",
+    "pass": 3
+   },
+   {
+    "label": "Seed-3",
+    "value": "351,944 $0.000010 6% $0.28 $0.28 1x $0.28 8.34%",
+    "url": "https://pitchbook.com/profiles/company/454833-19",
+    "pass": 3
+   },
+   {
+    "label": "Seed-2",
+    "value": "150,832 $0.000010 6% $0.01 $0.01 1x $0.01 3.58%",
+    "url": "https://pitchbook.com/profiles/company/454833-19",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Explore more products",
+    "url": "https://yesplz.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Representative Director & CEO, Looxloo",
+    "url": "https://yesplz.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "YesPlz AI quickly adapted their AI model to our needs and delivered measurable improvements to our search experience. Their speed, technical precision, and collaborative approach made them an invaluable partner for Zilo.",
+    "url": "https://yesplz.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Manager, Zilo",
+    "url": "https://yesplz.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Their auto tagging and Mannequin Filter have been lifesavers, streamlining our processes and enhancing the user experience. We truly value their innovative solutions.",
+    "url": "https://yesplz.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "YesPlz AI transformed search and discovery experience for Looxloo, a premium kids’ fashion platform. Their fashion-smart AI gets how people actually talk about kids' clothes—picking up synonyms, styles, and vibes to deliver dead-on results. It made our \"unsearchable\" items suddenly show up, supercharged stuff like smart recommendations for kids fashion. Just smart AI that works.",
+    "url": "https://yesplz.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The client was frustrated with complex customization and lack of rich product data. YesPlz AI's fashion-tailored search engine replaced it, doubling conversion",
+    "url": "https://yesplz.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The client had limited recommendation types, relying on behavior-based methods only. YesPlz AI introduced a content-based system that matches key fashion styles.",
+    "url": "https://yesplz.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Manually inputting tagging information is a daunting task, especially with a rapidly growing inventory of pre-owned items lacking detailed product information",
+    "url": "https://yesplz.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Book a free 20-minute demo. We'll show our agents working on your real products, and what 3x conversion looks like for your store.",
+    "url": "https://yesplz.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Fashion AI Solution Pricing for eCommerce | The Next Gen Visual Search for eCommerce",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Auto-tag products with silhouette, color, and pattern to build a richer catalog instantly.",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor progress, stats, and reviews in one dashboard for full control.",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Audit tags, fix errors fast, and improve AI with simple feedback.",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Create tags unique to your brand for better product fits.",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enhanced Search with Product Tagging",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pin promo products at the top for key promotion and seasonal wins.",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Quick SKU lookups for instant product access.",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Redirect searches to curated promo or support pages.",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Recommend style-based similar products to help users discover alternatives.",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Outfit Recommendations. Generates complete the look from the entire product catalog, using sophisticated ML models that understand fashion occasions, styling, products to match with.",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Highlight products often purchased together to increase basket size.",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Showcase additional products from the same brand to boost cross-sell.",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI curates tailored recommendations for each individual by analyzing their purchases and likes. Everyone gets different recommendations. Always present relevant styles enhancing user satisfaction.",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Automate product tagging from silhouette to color, patterns, mood, and occasions.",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Let users filter by multiple attributes (e.g., v-neck, long sleeves, polka dot) for precise product discovery.",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Our fashion savvy AI auto-generate and optimize product meta titles and descriptions for SEO.",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Auto generates search keywords based on a product image for top search ranks.",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Generated Product Description",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Fashion AI crafts SEO-optimized descriptions that highlight key product details—helping shoppers decide faster.",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Extract text from images and auto-translate to create product content for global reach.",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered suggestions of products with PDP interlinks—boosting AEO, SEO visibility",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI Stylist Prompt Builder",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Customize prompts to fit your audience perfectly.",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "View shopper prompts to uncover trends and refine your inventory or styling.",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Fashion Tagging Pricing | Automate Tags in Seconds | The Next Gen Visual Search for eCommerce",
+    "url": "https://yesplz.ai/fashion-tagging-price",
+    "pass": 1
+   },
+   {
+    "quote": "Get your first 100 products tagged free",
+    "url": "https://yesplz.ai/fashion-tagging-price",
+    "pass": 1
+   },
+   {
+    "quote": "Tag more products, pay less per item",
+    "url": "https://yesplz.ai/fashion-tagging-price",
+    "pass": 1
+   },
+   {
+    "quote": "Original price per product",
+    "url": "https://yesplz.ai/fashion-tagging-price",
+    "pass": 1
+   },
+   {
+    "quote": "See what AI tagging looks like on real products",
+    "url": "https://yesplz.ai/fashion-tagging-price",
+    "pass": 1
+   },
+   {
+    "quote": "Upload a CSV with product IDs and image URLs, or connect via API",
+    "url": "https://yesplz.ai/fashion-tagging-price",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI analyzes each product image and generates rich fashion tags",
+    "url": "https://yesplz.ai/fashion-tagging-price",
+    "pass": 1
+   },
+   {
+    "quote": "Tag once. Improve everywhere",
+    "url": "https://yesplz.ai/fashion-tagging-price",
+    "pass": 1
+   },
+   {
+    "quote": "Rich product attributes that power your entire shopping experience",
+    "url": "https://yesplz.ai/fashion-tagging-price",
+    "pass": 1
+   },
+   {
+    "quote": "Tailored keyword-rich product descriptions that rank on generative AIs and surface in AI-powered answers.",
+    "url": "https://yesplz.ai/fashion-tagging-price",
+    "pass": 1
+   },
+   {
+    "quote": "Auto-organize products into collections by tag, color, occasion, or style — no manual sorting needed.",
+    "url": "https://yesplz.ai/fashion-tagging-price",
+    "pass": 1
+   },
+   {
+    "quote": "See how your products look with AI tagging",
+    "url": "https://yesplz.ai/fashion-tagging-price",
+    "pass": 1
+   },
+   {
+    "quote": "A large volume of products that need an AI solution",
+    "url": "https://yesplz.ai/resource/fashion-ai-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Lack of custom solution providers",
+    "url": "https://yesplz.ai/resource/fashion-ai-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "W Concept was growing fast, but their growth created a set of challenges. They needed a customized search system to keep up with new products and to keep shoppers engaged.",
+    "url": "https://yesplz.ai/resource/fashion-ai-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "YesPlz fashion recommendations showed off W Concept's large catalog with both collaborative and similar recommendations. For similar recommendations, AI matches the key design attributes to products, then matches the recommendation against vibe/occasion, creating the perfect recommendation. Collaborative filtering builds off similar recommendations, solving any cold start problems.",
+    "url": "https://yesplz.ai/resource/fashion-ai-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "W Concept shoppers don't need to know the exact keywords that match a product description. By using fashion AI to tag W Concept's product catalog, which are then automatically added to search results, shoppers see more search results that match their search intent. Automated popular keywords, integrated product previews, and a mini-filter help guide W Concept shoppers along the discovery journey.",
+    "url": "https://yesplz.ai/resource/fashion-ai-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Lack of product discovery",
+    "url": "https://yesplz.ai/resource/fashion-ai-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The Handsome’s product catalog is robust and filled with variety, but only popular products were being sold (a typical longtail problem, especially for retailers with larger catalogs), leaving much of their product catalog undiscovered by shoppers.",
+    "url": "https://yesplz.ai/resource/fashion-ai-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Although The Handsome team had amazing ideas on how to improve product discovery based on their own experience, they had limited engineering resources to build out their ideas internally. Struggling to keep up with their already heavy workload, the engineering team simply didn’t have the capacity to build out new product discovery.",
+    "url": "https://yesplz.ai/resource/fashion-ai-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The Virtual Mannequin Filter empowered The Handsome shoppers to find the silhouettes and product attributes they love, without having to navigate difficult-to-use search filters. Shoppers can now filter by silhouette, occasion, as well as pattern & color, on an easy-to-use virtual mannequin.",
+    "url": "https://yesplz.ai/resource/fashion-ai-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The Handsome shoppers discover their unique personal style with the YesPlz Fashion Quiz, by swiping \"yes\" or \"no\" on styles. Then, they get real, tailored and relevant product recommendations based on their selections.",
+    "url": "https://yesplz.ai/resource/fashion-ai-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "We just launched our product and looking for the results.",
+    "url": "https://yesplz.ai/resource/fashion-ai-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Large SKUs require manual and time-consuming product updates",
+    "url": "https://yesplz.ai/resource/fashion-ai-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "With new SKUs added daily, Kolon Mall was unable to supply accurate, rich product descriptions in a timely manner for its ever-growing inventory of SKUs and to find the proper words to describe their unique designs in the way customers would understand or search for.",
+    "url": "https://yesplz.ai/resource/fashion-ai-case-study",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Your brand's own stylist — chat, styling, virtual try-on.",
+    "url": "https://yesplz.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Create tags unique to your brand for better product fits.",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Deputy Director - Revenue, Zilo",
+    "url": "https://yesplz.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Search Tune Agent is an autonomous AI assistant that continuously monitors your fashion site's search queries and tunes them turning into revenue-driving conversions.",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Narrow results with tags like color or pattern furhter fashion options effortlessly.",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "YesPlz, Inc. Revenue 2024: $1.2M Est., $1.5M Raised",
+    "url": "https://getlatka.com/companies/yesplz-inc",
+    "pass": 3
+   },
+   {
+    "quote": "YesPlz, Inc. revenue",
+    "url": "https://getlatka.com/companies/yesplz-inc",
+    "pass": 3
+   },
+   {
+    "quote": "YesPlz, Inc. has not published its revenue. GetLatka estimates it at about $1.2M a year (October 2024).",
+    "url": "https://getlatka.com/companies/yesplz-inc",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/yesplz-inc",
+    "pass": 3
+   },
+   {
+    "quote": "YesPlz, Inc. CEO, founders & employees",
+    "url": "https://getlatka.com/companies/yesplz-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Jiwon Hong founded YesPlz, Inc. in 2018 and runs it as CEO. YesPlz, Inc. had 8 employees (October 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/yesplz-inc",
+    "pass": 3
+   },
+   {
+    "quote": "What is YesPlz, Inc.'s revenue?",
+    "url": "https://getlatka.com/companies/yesplz-inc",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates YesPlz, Inc.'s revenue at about",
+    "url": "https://getlatka.com/companies/yesplz-inc",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does YesPlz, Inc. have?",
+    "url": "https://getlatka.com/companies/yesplz-inc",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/yesplz-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/yesplz-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/yesplz-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/yesplz-inc",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/454833-19",
+    "pass": 3
+   },
+   {
+    "quote": "YesPlz has 9 total employees.",
+    "url": "https://pitchbook.com/profiles/company/454833-19",
+    "pass": 3
+   },
+   {
+    "quote": "What is YesPlz’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/454833-19",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for YesPlz is",
+    "url": "https://pitchbook.com/profiles/company/454833-19",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by Our Partners",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How Fashion AI Is Used In Retail: case study with 3 fashion retailers | The Next Gen Visual Search for eCommerce",
+    "url": "https://yesplz.ai/resource/fashion-ai-case-study",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email and Text Message Report",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Absolutely. If you only need help with fashion image tagging, that's not a problem. Our product discovery suite is for you to pick and choose. Contact us about our sample tagging program to get started.",
+    "url": "https://yesplz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/454833-19",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "AIツールの情報を、日本のユーザーに向けて紹介しませんか",
+    "url": "https://my-best.ai/ai-tools/yesplz/",
+    "pass": 3
+   },
+   {
+    "quote": "100% original high quality ASMR spa/massage/barbershop videos from Japan",
+    "url": "https://www.snapchat.com/@yesplzasmr",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "YesPlzとは｜料金・機能・評判を初心者向けに解説【2026年最新】 — Oct 18, 2026 · YesPlzのデメリット・導入前の注意点 無料プランの提供は本文の料金情報では確認できません。 導入前に費用感を公式サイトで確認しておきましょう。 多機能である一方、すべての機能を使いこなすには一定の学習コストがかかる場合があります。",
+    "url": "https://my-best.ai/ai-tools/yesplz/",
+    "pass": 3
+   },
+   {
+    "quote": "YesPlz - AI Search & Discovery for Fashion eCommerce — YesPlz AI transformed search and discovery experience for Looxloo. Their fashion-smart AI gets how people actually talk about kids' clothes—picking up synonyms, styles, and vibes to deliver dead-on results.",
+    "url": "https://yesplz.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "YesPlz レビュー、機能、料金、代替ツール | ToolsDar — YesPlz は Marketing ワークフロー向けの AI ツールです。 機能、料金、利用シーン、代替ツールを比較しながら、導入候補を整理したいユーザーに適しています。 YesPlz は Marketing に関連する作業で検討できます。 supports eCommerce with AI-driven fashion personalization.",
+    "url": "https://toolsdar.io/ja/tools/yesplz",
+    "pass": 3
+   },
+   {
+    "quote": "Yesplz - AIツール詳細｜クイックAI — Yesplzのメリット ユーザーの個別の好みに基づいたファッション提案が受けられる。 最新のトレンドを反映した商品推薦が可能で、スタイルの幅が広がる。 簡単なプラグイン統合により、オンライン小売業者にも導入しやすい。 自然言語処理を活用し、リアルな会話ができるため、使いやすい ...",
+    "url": "https://quickai.jp/ai-tools/yesplz",
+    "pass": 3
+   },
+   {
+    "quote": "Expertise in applied AI /ML and Product ... - YesPlz — About us After 30 years of combined experience, two founders, and countless prototypes later, YesPlz AI was born from a simple word: frustration. Despite spending years working on some of the most advanced tech products on the market, Jiwon and Sukjae struggled to perform a simple task: to find a plain white t-shirt. Anyone who has tried to fi",
+    "url": "https://yesplz.ai/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Yes Plz ASMR (@yesplzasmr) | Snapchat Stories, Spotlight & Lenses — 5 days ago · 👔 How a bespoke suit begins — counseling & measurements in Tokyo At Drapper Hope in Minami-Aoyama, a customer orders his first proper suit. The tailor measure Watch a tailor meticulously take measurements for a client's first bespoke suit in Japan. This detailed fitting process highlights the precision of Japanese tai",
+    "url": "https://www.snapchat.com/@yesplzasmr",
+    "pass": 3
+   },
+   {
+    "quote": "Yes Plz ASMR (@yesplzasmr) • Instagram photos and videosYes Plz ASMR - FacebookYes Plz ASMR — ASMR Spa/Massage/Barbershop Videos | PatreonYes Plz ASMR (@yesplzasmr) • Instagram photos and videos(ASMR) The Japanese Hair Treatment That Makes Hair ... - YouTube — 647K Followers, 429 Following, 420 Posts - Yes Plz ASMR (@yesplzasmr) on Instagram: \"🇯🇵 日本No.1のウェルネス動画クリエイター 🌎 主要SNS累計400万人超のフォロワー 🎥 ASMR ×",
+    "url": "https://www.instagram.com/yesplzasmr/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes Plz ASMR - FacebookYes Plz ASMR — ASMR Spa/Massage/Barbershop Videos | PatreonYes Plz ASMR (@yesplzasmr) • Instagram photos and videos(ASMR) The Japanese Hair Treatment That Makes Hair ... - YouTube — Oct 22, 2026 · Yes Plz ASMR. 888,461 followers · 31,043 talking about this. Ultimate destination for high quality ASMR Japanese services and treatments Yes Plz ASMR Hello, we are a team of friend",
+    "url": "https://www.facebook.com/YesPlzASMR/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes Plz ASMR (@yesplzasmr) • Instagram photos and videos — 644K Followers, 428 Following, 418 Posts - Yes Plz ASMR (@yesplzasmr) on Instagram: \"🇯🇵 日本No.1のウェルネス動画クリエイター 🌎 主要SNS累計400万人超のフォロワー 🎥 ASMR × 日本のウェルネス体験を世界へ 海外・国内の視聴者へ店舗の魅力を発信 💼 有料コラボ・撮影のみ受付中 📩 撮影依頼→ ウェブサイト ...",
+    "url": "https://www.instagram.com/yesplzasmr/reels/",
+    "pass": 3
+   },
+   {
+    "quote": "(ASMR) The Japanese Hair Treatment That Makes Hair ... - YouTube — Jun 2, 2026 · (ASMR) The Japanese Hair Treatment That Makes Hair Look Like Glass Yes Plz ASMR 1.12M subscribers Subscribe",
+    "url": "https://www.youtube.com/watch?v=2gRKHzFzHDg",
+    "pass": 3
+   },
+   {
+    "quote": "Fashion eCommerce AI Case Studies | The Next Gen Visual ... — Fashion eCommerce AI Case Studies Real results from AI in fashion retail. See how brands and retailers used YesPlz search, recommendations, and personalization to cut manual work and grow search revenue. Every number below comes from a live deployment.",
+    "url": "https://yesplz.ai/customer",
+    "pass": 3
+   },
+   {
+    "quote": "AI Search & Discovery for Fashion eCommerce | YesPlz AI — Generic AI sees pixels. We see fashion. YesPlz powers AI search, discovery, and tagging built on fashion data, so shoppers and AI agents find exactly what they want.",
+    "url": "https://yesplz.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "YesPlz Fashion AI Case Study | PDF - SlideShare — The document discusses how two retailers in Korea transformed their search processes to improve product discovery by using an accurate and interactive style filter. It highlights the challenges of traditional text-based searches that confuse customers and lead to lost sales. Retailers are encouraged to adopt tools that reduce the burden of tagging ",
+    "url": "https://www.slideshare.net/slideshow/yesplz-fashion-ai-case-study/250018832",
+    "pass": 3
+   },
+   {
+    "quote": "YesPlz Coffee - Kley — Maximizing Customer Lifetime Value through the Power of Subscription Coffee-industry veterans Tony Konecny and Sumi Ali saw how the influx of sophisticated third-wave coffee shops created the perception that high-quality coffee was pretentious and elitist. They sought to disrupt this mindset through joint venture Yes Plz, a direct-to-consumer brand that truly makes specialty",
+    "url": "https://www.kley.co/case-study/yesplz-coffee",
+    "pass": 3
+   },
+   {
+    "quote": "YesPlz Style Filter Case Study - YouTube — Aug 20, 2021 · YesPlz Style Filter Case Study YesPlz AI - The Next Gen Fashion AI for Ecommerce 95 subscribers 1 Share",
+    "url": "https://www.youtube.com/watch?v=6mdfYet-HLQ",
+    "pass": 3
+   },
+   {
+    "quote": "YesPlz, Inc. Revenue 2024: $1.2M Est. ARR, $1.5M Raised - LATKA — Oct 17, 2024 · YesPlz, Inc. 2024 estimated revenue: $1.2M ARR (up from $936K in 2023). Total funding: $1.5M across 2 rounds. 8 employees Updated Oct 17, 2024.",
+    "url": "https://getlatka.com/companies/yesplz-inc",
+    "pass": 3
+   },
+   {
+    "quote": "YesPlz 2026 Company Profile: Valuation, Funding & Investors ...YesPlz: Revenue, Worth, Valuation & Competitors 2025YesPlz! — Funding, Investors & Team | SeedtableYes Plz - 2026 Company Profile, Team, Funding & Competitors ...YesPlz - 2025 Company Profile, Team & Funding - TracxnYesPlz! — Company Profile, Funding & Investors — YesPlz FAQs When was YesPlz founded? YesPlz was founded in 2018. Where i",
+    "url": "https://pitchbook.com/profiles/company/454833-19",
+    "pass": 3
+   },
+   {
+    "quote": "YesPlz: Revenue, Worth, Valuation & Competitors 2025 — YesPlz has an estimated revenue of $652.5K, and 1-10 employees. Alternatives of YesPlz are QuantiTech, ChipRewards and Dynetics Technical Solutions.",
+    "url": "https://compworth.com/company/yesplz",
+    "pass": 3
+   },
+   {
+    "quote": "YesPlz! — Funding, Investors & Team | Seedtable — YesPlz!: YesPlz! is a peer-to-peer company founded in 2020 by Mike Ray.. View funding, investors, and team on Seedtable.",
+    "url": "https://seedtable.com/companies/yesplz",
+    "pass": 3
+   },
+   {
+    "quote": "Yes Plz - 2026 Company Profile, Team, Funding & Competitors ... — Mar 14, 2026 · Yes Plz is a funded company based in Vernon (United States), founded in 2016 by Tony Konecny and Sumi Ali. It operates as a Brand of coffee. The company has 3024 active competitors, including 158 funded and 153 that have exited. Its top competitor s include companies like Blue Tokai Coffee Roasters, Third Wave Coffee ",
+    "url": "https://tracxn.com/d/companies/yesplz/__7OQk9xVkDAiYgpxoNjjgKwXwd9-RZfSqhPTAmyfo1oI",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Yesplz (@_Yesplz_) / Posts / X Yesplz (@_Yesplz_) - Posts - | X (formerly Twitter) Just under 1 WEEK REMAINING to claim your spot in the $750,000 of rewards for March! ⌛️ Tipping 3 x $20 to those who tag someone below to sign up under code \"bigfoltz\" on Stake 💸 Follow/RT Tag a friend Get access to our $750k Leaderboard by using code Bigfoltz on Stake Bigfoltz.com 🏆",
+    "url": "https://x.com/_Yesplz_",
+    "pass": 3
+   },
+   {
+    "quote": "YesPLZ! (@yesplz_app) / X Your Services for Mine. YesPLZ! @dscottS3 @ lscott3 @JoshLivesLife Hey guys we should talk!",
+    "url": "https://x.com/yesplz_app",
+    "pass": 3
+   },
+   {
+    "quote": "YesPlz.AI (@YesPlz_Fashion) / Posts / X YesPlz.AI YesPlz_Fashion Sep 8 Fashion AI Trend Spot 🚀 This year, Mango and Zalando introduced AI-powered fashion stylists, making it easier than ever for shoppers to discover styles tailored to their needs.",
+    "url": "https://x.com/yesplz_fashion",
+    "pass": 3
+   },
+   {
+    "quote": "Yes Plz yyc (@YesPlzYyc) / X slip into my DMs @YesPlzYyc hasn’t posted When they do, their posts will show up here.",
+    "url": "https://x.com/YesPlzYyc",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by 小母 (@Yesplz87) / X 碎碎念喜欢分享 @Yesplz87 碎碎念喜欢分享 3.5km Joined April 2023 1 Following 136 Followers Mention Follow RepliesRepliesRepostsRepostsMediaMedia 小母 ...",
+    "url": "https://x.com/Yesplz87/with_replies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "YesPlz AI | LinkedIn YesPlz AI | 1,042 followers on LinkedIn. Innovating Product Discovery with AI, Designed for Fashion Experts Like You | At YesPlz AI, we empower eCommerce fashion retailers to deliver personalized ...",
+    "url": "https://www.linkedin.com/company/yesplz",
+    "pass": 3
+   },
+   {
+    "quote": "YesPlz AI Fashion Search-- Powered by AI - LinkedIn YesPlz AI Fashion Search-- Powered by AI | Personalized product recommendations using AI Go above and beyond traditional product recommendation tools. Show customers the most relevant products ...",
+    "url": "https://www.linkedin.com/products/yesplz-the-most-intuitive-search-filter-for-fashion/",
+    "pass": 3
+   },
+   {
+    "quote": "Dongjoon Seo 님 - Software Engineer | AI Search ... - LinkedIn Software Engineer | AI Search & Recommendation Systems · I’m a software engineer focused on AI search and recommendation systems. I graduated from the University of Seoul in August 2026 with a bachelor’s degree in Computer Science. · 경력: YesPlz AI · 학력: University of Seoul-서울시립대학교 · 지역: 서울 · LinkedIn의 1촌 104명. LinkedIn에서 Dongjoon Seo님 .",
+    "url": "https://kr.linkedin.com/in/dongjoonseo01",
+    "pass": 3
+   },
+   {
+    "quote": "Jiwon Hong - Building fashion-native AI for retailers and ...Sukjae Cho - CTO/Co-founder at YesPlz, Inc. | LinkedInYesPlz AI Top 8 Moments in 2025 | YesPlz AI - LinkedIn#aiforbusiness #ainews #retailinnovation # ... - LinkedIn Founded and scaled YesPlz AI from concept to industry leader, pioneering a new category in fashion AI for product discovery. Led the entire journey—setting the vision, build",
+    "url": "https://www.linkedin.com/in/jiwonhong",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "YesPlz - Facebook Apr 27, 2026 · YesPlz. 55,960 followers · 1 talking about this. YesPlz is a community of web creators and web-lovers alike. We cover everything from pop-culture to photography to fun facts to memes. Lots and lots...",
+    "url": "https://www.facebook.com/OkYesPlz/",
+    "pass": 3
+   },
+   {
+    "quote": "YesPlz | Pretoria - Facebook YesPlz, Pretoria East. 75 likes. Custom designs, and accessories. Hand Crafted by Local Artists.",
+    "url": "https://www.facebook.com/YezPlz/",
+    "pass": 3
+   },
+   {
+    "quote": "YES PLZ - FacebookNew year new me | YesPlz | FacebookYes Plz ASMR - Videos | FacebookYesPlz Visual Search & Recommendation | Mountain View CA Aug 28, 2025 · YES PLZ. 324 followers. The best coffee subscription service, roasted with care by crazy craftsmen in Los Angeles. Dec 28, 2017 · New year new me New year new me Buddy Truslow and 21K others 21K 23K 283K Last viewed on: Mar 4, 2026 Pages Inter",
+    "url": "https://www.facebook.com/YESPLZdotCOFFEE/",
+    "pass": 3
+   },
+   {
+    "quote": "New year new me | YesPlz | Facebook Dec 28, 2017 · New year new me New year new me Buddy Truslow and 21K others 21K 23K 283K Last viewed on: Mar 4, 2026 Pages Interest YesPlz Videos New year new me",
+    "url": "https://www.facebook.com/reel/1963169720605341/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://yesplz.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yesplz.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yesplz.ai/fashion-tagging-price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yesplz.ai/resource/fashion-ai-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yesplz.ai/fashion-tagging-price",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://my-best.ai/ai-tools/yesplz/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolsdar.io/ja/tools/yesplz",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://quickai.jp/ai-tools/yesplz",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.snapchat.com/@yesplzasmr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/yesplzasmr/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/YesPlzASMR/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/yesplzasmr/reels/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.slideshare.net/slideshow/yesplz-fashion-ai-case-study/250018832",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kley.co/case-study/yesplz-coffee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/yesplz-inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/454833-19",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/yesplz",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://seedtable.com/companies/yesplz",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/_Yesplz_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yesplz_app",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yesplz_fashion",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/YesPlzYyc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/yesplz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/yesplz-the-most-intuitive-search-filter-for-fashion/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kr.linkedin.com/in/dongjoonseo01",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jiwonhong",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/OkYesPlz/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/YezPlz/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/YESPLZdotCOFFEE/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/reel/1963169720605341/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/_Yesplz_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yesplz_app",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Yesplz87/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Yesplz 日本 導入",
+   "results": [
+    "https://my-best.ai/ai-tools/yesplz/",
+    "https://yesplz.ai/",
+    "https://toolsdar.io/ja/tools/yesplz",
+    "https://quickai.jp/ai-tools/yesplz",
+    "https://yesplz.ai/about-us",
+    "https://www.jreast.co.jp/press/2026/20261110_ho03.pdf",
+    "https://1-president.com/services-japan-absence/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yesplz 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yesplz Japan",
+   "results": [
+    "https://www.snapchat.com/@yesplzasmr",
+    "https://www.instagram.com/yesplzasmr/",
+    "https://www.facebook.com/YesPlzASMR/",
+    "https://www.instagram.com/yesplzasmr/reels/",
+    "https://www.youtube.com/watch?v=2gRKHzFzHDg",
+    "https://www.patreon.com/cw/YesPlzASMR",
+    "https://www.youtube.com/@YesPlzASMR"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yesplz manufacturing customer case study",
+   "results": [
+    "https://yesplz.ai/customer",
+    "https://yesplz.ai/",
+    "https://www.slideshare.net/slideshow/yesplz-fashion-ai-case-study/250018832",
+    "https://www.kley.co/case-study/yesplz-coffee",
+    "https://www.youtube.com/watch?v=6mdfYet-HLQ",
+    "https://www.staymodern.ai/solutions/yesplz-ai",
+    "https://www.staymodern.ai/solutions/yesplz-ai/detailed"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yesplz white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.seoreseller.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yesplz founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/yesplz-inc",
+    "https://pitchbook.com/profiles/company/454833-19",
+    "https://compworth.com/company/yesplz",
+    "https://seedtable.com/companies/yesplz",
+    "https://tracxn.com/d/companies/yesplz/__7OQk9xVkDAiYgpxoNjjgKwXwd9-RZfSqhPTAmyfo1oI",
+    "https://tracxn.com/d/companies/yesplz/__CK_C8Z2T8uS3qtTbcpWqBnDEMRWE9cNzwLp901oMTPQ",
+    "https://acquirezy.com/organization/yesplz"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Yesplz",
+   "results": [
+    "https://note.com/eager_tiger5557",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/kaede_money/n/nd2625da70290",
+    "https://note.com/draft_candidate/m/mc6ed818cf2b4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Yesplz",
+   "results": [
+    "https://x.com/_Yesplz_",
+    "https://x.com/yesplz_app",
+    "https://x.com/yesplz_fashion",
+    "https://x.com/YesPlzYyc",
+    "https://x.com/hashtag/yesplz?f=user",
+    "https://x.com/Ghana333e",
+    "https://x.com/YesPlzASMR/status/1993292072061710521"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Yesplz",
+   "results": [
+    "https://www.linkedin.com/company/yesplz",
+    "https://www.linkedin.com/products/yesplz-the-most-intuitive-search-filter-for-fashion/",
+    "https://kr.linkedin.com/in/dongjoonseo01",
+    "https://www.linkedin.com/in/jiwonhong",
+    "https://www.linkedin.com/in/sukjae-cho",
+    "https://www.linkedin.com/posts/yesplz_yesplz-ai-top-8-moments-in-2025-activity-7411274605140766720-1Ckh",
+    "https://www.linkedin.com/posts/yesplz_aiforbusiness-ainews-retailinnovation-activity-7087804850255618048-pbtb"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Yesplz",
+   "results": [
+    "https://www.facebook.com/OkYesPlz/",
+    "https://www.facebook.com/YezPlz/",
+    "https://www.facebook.com/YESPLZdotCOFFEE/",
+    "https://www.facebook.com/reel/1963169720605341/",
+    "https://www.facebook.com/watch/YesPlzASMR/",
+    "https://www.facebook.com/yesplzai/",
+    "https://www.facebook.com/YesPlzASMR/reels/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yesplz note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.msn.com/ja-jp/money/top-stocks/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://yesplz.ai/about-us",
+    "https://finance.yahoo.co.jp/quote/5243.T/profile",
+    "https://yesplz.co/about-yesplz/",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yesplz X 投稿",
+   "results": [
+    "https://x.com/_Yesplz_",
+    "https://x.com/yesplz_app",
+    "https://x.com/Yesplz87/with_replies",
+    "https://yesplz.ai/",
+    "https://www.instagram.com/yesplzasmr/",
+    "https://x-sou.com/ja",
+    "https://search.yahoo.co.jp/realtime/search/投稿/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

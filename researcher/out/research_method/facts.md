@@ -3825,6 +3825,7 @@
 ## 中小の決算公告の公告方法ごとの開示範囲と、純資産の前期比で損益の向きを読む実務（SME public notice disclosure scope by method net assets change profit trend）
 - 文脈：
 - 手順・やり方：
+  - 「会社法の要件から官報申込みまで、実務担当者が迷わず進められる手順を紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「会社分割と官報・決算公告の関係を徹底解説｜吸収分割・新設分割の実務手順」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「一般社団法人に決算公告は必要？義務の根拠・方法・罰則を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「一般社団法人との義務範囲・罰則(100万円/50万円)・閲覧方法の違いを比較表で解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -3839,7 +3840,6 @@
   - 「公告方法の種類ごとの メリット、デメリット」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「その方法は様々であり、官報、日刊新聞紙、電子公告などがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「官報の決算公告を訂正するには？誤記発覚後の手順・費用・リスクを徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「訂正公告・取消公告の手順、費用（2枠7万円台〜）、会社法976条のリスクをわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
 - 突き合わせ・推定：
   - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「この構造を理解すると、「大会社なのに要旨だけでいい（官報の場合）」「電子公告なら全文が必要」という一見矛盾した結論が、法令の論理から正確に導けるようになる」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
@@ -8815,22 +8815,27 @@
   - 「With the retrieved documents in hand, the second step of generation involves providing those」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
   - 「in Figure 3, each of the subsidiary steps (the embedding, the design of lexical and semantic search,」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
 - 突き合わせ・推定：
+  - 「エクサの生成AIブランド「ai with」のプラットフォームを活用し、短期間で効果検証を実現するトライアルプログラム」（https://www.exa-corp.co.jp/column/generative-ai_column-3.html）
+  - 「仮説思考の3ステップ」（https://www.msiism.jp/article/rag-practical-example.html）
+  - 「ステップ2：仮説の立案――なぜ失敗するのかを想像する」（https://www.msiism.jp/article/rag-practical-example.html）
+  - 「仮説思考の３ステップ」（https://www.msiism.jp/article/rag-practical-example.html）
+  - 「仮説思考にもとづいた精度改善のアプローチは、以下の３ステップに沿って進められます」（https://www.msiism.jp/article/rag-practical-example.html）
+  - 「ステップ２：仮説の立案――なぜ失敗するのかを想像する」（https://www.msiism.jp/article/rag-practical-example.html）
+  - 「ステップ１の観察にもとづいて、「精度が出ていないのは RAG のこの部分が原因ではないか」という仮説を立てます」（https://www.msiism.jp/article/rag-practical-example.html）
+  - 「この仮説にもとづいて、次のステップでは精度改善の策を考えていきます」（https://www.msiism.jp/article/rag-practical-example.html）
+  - 「ここまで、成功した「仮説」のみを紹介してきましたが、もちろん当たらなかった仮説も多くあります」（https://www.msiism.jp/article/rag-practical-example.html）
+  - 「として扱うアプローチも検証しましたが、それだけでは期待した水準には届きませんでした」（https://www.msiism.jp/article/rag-practical-example.html）
+  - 「なぜ「使えない」出力になっているのか仮説を一つずつ検証していき、AI と対話しつつプロンプトやRAGの仕組みを見直し、気力で改善を積み重ねました」（https://www.msiism.jp/article/rag-practical-example.html）
+  - 「最終的な成果は「設計 → 検証 → 改良」という反復の質と量に強く依存します」（https://www.msiism.jp/article/rag-practical-example.html）
+  - 「これさえ使えば万事解決、といった「銀の弾丸」に期待するのではなく、失敗例を収集し、仮説を立て、測定で確かめる——この当たり前を着実に回すことが、「動く」を「使える」へ転換する最短経路だと考えます」（https://www.msiism.jp/article/rag-practical-example.html）
   - 「この研究では、取得情報がある場合でも、LLMが根拠のない主張や取得内容と矛盾する主張を生成することが確認されています」（https://note.com/amour_llmo/n/n7c14f5328089）
   - 「企業側では、AIサービスの内部的な検証機能だけに依存せず、回答結果を継続的に確認します」（https://note.com/amour_llmo/n/n7c14f5328089）
-  - 「検証が必要な主張に、必要な引用が付いている割合です」（https://note.com/amour_llmo/n/n7c14f5328089）
-  - 「強み03｜AIへの表示で終わらせず、指名・問い合わせ・商談まで検証」（https://note.com/amour_llmo/n/n7c14f5328089）
-  - 「検証済みの取得文書に生成プロセスを固定する」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
-  - 「ノイズが多い、または矛盾するコンテキストの場合に持続するハルシネーション」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
-  - 「LLMがクエリ改良や仮説文書生成をする際、既に応答に有用な情報種別を「考慮」します」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
-  - 「これは、RAGの中核的な目標である、ハルシネーションを削減し検証可能性を確保するためです」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
-  - 「例えば、検索結果の中からどの情報を重視するか、情報をどのように組み合わせるか、あるいは矛盾する情報がある場合にどのように対処するかといった点について、複数の仮説（思考の枝）を立て、それぞれの妥当性を評価します」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
-  - 「RAGの中核的なメカニズム、つまり取得された検証可能な文書に応答を基づかせることは、ハルシネーションを削減するための基本的な技術です」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
-  - 「LLMによる自身の生成コンテンツ内主張の真実性評価、およびこの検証のためのRAG自体の潜在的使用」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
-  - 「取得された検索エンジンの結果とのクロスチェックによる、根拠付けの奨励」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
-  - 「誤解を招く情報、無関係な情報、または矛盾する情報を取得すること」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
-  - 「コンテキストとの矛盾や、コンテキスト外情報創作の有無」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
-  - 「回答内主張の特定と、それらのコンテキストからの推論可能性検証による計算」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
 - 一次情報の探し方：
+  - 「総計100種類近くの機能を搭載しており、統計解析、機械学習、テキストマイニングなど、多種多様な分析ニーズに対応しています」（https://www.msiism.jp/article/rag-practical-example.html）
+  - 「実装においては RAG のアーキテクチャが採用されており、ユーザーの質問に対して Alkano のドキュメントを参照しつつ回答を生成するようになっています」（https://www.msiism.jp/article/rag-practical-example.html）
+  - 「また、手順2.で検索対象となるデータベースは、ベクトルデータベースではなくドキュメントデータベースを採用しています」（https://www.msiism.jp/article/rag-practical-example.html）
+  - 「機械学習、統計解析、数理計画、シミュレーションなどの数理科学を」（https://www.msiism.jp/article/rag-practical-example.html）
+  - 「統計解析・データマイニング・機械学習といった技術でどのようなことができるのかを解説」（https://www.msiism.jp/article/rag-practical-example.html）
   - 「PDFとWebページの内容が一致しているか」（https://note.com/amour_llmo/n/n7c14f5328089）
   - 「サービスページ、数値付き導入事例、FAQ、独自調査などの一次情報を整備します」（https://note.com/amour_llmo/n/n7c14f5328089）
   - 「https://cdn.openai.com/pdf/d04913be-3f6f-4d2b-b283-ff432ef4aaa5/why-language-models-hallucinate.pdf」（https://note.com/amour_llmo/n/n7c14f5328089）
@@ -8841,12 +8846,12 @@
   - 「これがRAGを採用する主要な動機となっています」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
   - 「伝統的に、検索は統計的手法やベクトル類似性に基づいていました」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
   - 「https://arxiv.org/pdf/2404.14760」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
-  - 「https://arxiv.org/pdf/2401.15884」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
-  - 「https://arxiv.org/pdf/2504.04915」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
-  - 「https://arxiv.org/pdf/2501.10053」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
-  - 「https://arxiv.org/pdf/2503.10720」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
-  - 「https://arxiv.org/pdf/2502.06872」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
 - 失敗・落とし穴：
+  - 「一方、AIによる評価のデメリットとしてLLMが持つ「バイアス」が評価結果に影響を与える可能性があることが挙げられます」（https://www.exa-corp.co.jp/column/generative-ai_column-3.html）
+  - 「LLMが持つバイアスの例として、特定の言い回しを好む、長文を高く評価する、最初や最後に提示されたものを高く評価するといった傾向が報告されています」（https://www.exa-corp.co.jp/column/generative-ai_column-3.html）
+  - 「バイアスを理解し、適切に利用することが求められます」（https://www.exa-corp.co.jp/column/generative-ai_column-3.html）
+  - 「例えば、「検索は成功したが生成で失敗した」あるいは「そもそも検索が失敗していた」といった、RAGのボトルネックがどこにあるのかを特定するのに役立ちます」（https://www.exa-corp.co.jp/column/generative-ai_column-3.html）
+  - 「成功パターンと失敗パターンの両方を収集しやすい」（https://www.exa-corp.co.jp/column/generative-ai_column-3.html）
   - 「AIは次のような誤りを起こす可能性があります」（https://note.com/amour_llmo/n/n7c14f5328089）
   - 「企業情報で起きやすいGroundingの失敗」（https://note.com/amour_llmo/n/n7c14f5328089）
   - 「ただし、自己評価を入れれば誤りが完全になくなるわけではありません」（https://note.com/amour_llmo/n/n7c14f5328089）
@@ -8857,11 +8862,6 @@
   - 「a mistaken understanding of」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
   - 「3. False premise questions: questions where the user has a mistaken understanding of the law」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
   - 「Fourth, the queries probe for “contrafactual bias,” or the tendency of chat systems to assume the」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
-  - 「Kim, 2024; Perlman, 2023; Tan et al., 2023), but contrafactual bias poses particular risk forpro se」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
-  - 「Last, to guard against selection bias in our results (i.e., choosing queries based on hallucination」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
-  - 「to amend the statute to clarify the statute of limitations. Lexis+ AI explained the mistaken premise,」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
-  - 「when asked to define the “moral wrong doctrine,” a doctrine pertaining to mistake-of-fact instructions」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
-  - 「user even when the user is mistaken (Sharma et al., 2023). While sycophancy can cause hallucinations」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
 - 実例：
   - 「例えば、AIが次のように回答したとします」（https://note.com/amour_llmo/n/n7c14f5328089）
   - 「例えば、「アムール」という言葉が、会社名、店舗名、商品名、人名など複数の意味を持つ場合があります」（https://note.com/amour_llmo/n/n7c14f5328089）
@@ -8965,22 +8965,25 @@
 ## 聞き方・検索語に置いた数字が答えを引き寄せるアンカリングを調査で防ぐ実務（共通の偏りは差で読む）（anchoring bias research question design avoid numeric anchors common-mode bias trust the delta）
 - 文脈：偏り
 - 手順・やり方：
-  - 「人事評価におけるアンカリングを防ぐ仕組みと実践3ステップ | HRコラム」（https://www.cbase.co.jp/column/article717/）
-  - 「人事評価におけるアンカリングを防ぐ仕組みと実践3ステップ」（https://www.cbase.co.jp/column/article717/）
-  - 「⇒【マンガでわかる】「360度評価」のメリットやデメリット、失敗しないための導入方法が詳しく学べる資料を1分でダウンロード」（https://www.cbase.co.jp/column/article717/）
-  - 「を軸に、組織全体でアンカリングを防ぐための3つの実践ステップを紹介します」（https://www.cbase.co.jp/column/article717/）
-  - 「特に面談の進め方は、社員の納得感を左右する重要な要素です」（https://www.cbase.co.jp/column/article717/）
-  - 「人事評価面談での伝え方｜低評価の伝え方・納得感を高める方法」（https://www.cbase.co.jp/column/article717/）
-  - 「アンカリングの典型的な影響のひとつが、「前年とほぼ同じ評価になる」現象です」（https://www.cbase.co.jp/column/article717/）
-  - 「は、変化を適切に捉える有効な方法です」（https://www.cbase.co.jp/column/article717/）
-  - 「「結果」「プロセス」「行動」を分けて評価することも、主観を減らす有効な方法です」（https://www.cbase.co.jp/column/article717/）
-  - 「（職務行動特性に基づく評価）を導入することで、個人の印象に左右されにくいフレームを持たせることができます」（https://www.cbase.co.jp/column/article717/）
-  - 「コンピテンシー評価とは？人事評価との違い・導入方法とメリット・デメリット」（https://www.cbase.co.jp/column/article717/）
-  - 「多面評価とは？メリット・デメリット・導入手順・評価項目を解説」（https://www.cbase.co.jp/column/article717/）
-  - 「“運用の検証を仕組みにする”ことこそ、アンカリングを制度レベルで抑える最も確実な方法です」（https://www.cbase.co.jp/column/article717/）
-  - 「ここでは、社員が納得し、評価者も自信を持って説明できる人事評価を実現するための3つのステップを紹介します」（https://www.cbase.co.jp/column/article717/）
-  - 「具体的な表現方法は、「」（https://www.cbase.co.jp/column/article717/）
+  - 「アンカリング効果を実践するための5ステップ」（https://hrmos.co/trend/talent-management/10187/）
+  - 「本記事では、アンカリング効果の定義や仕組み、具体例やビジネスでの活用方法について詳しく解説します」（https://hrmos.co/trend/talent-management/10187/）
+  - 「先ほど紹介した「通常価格」と「割引後の価格」を併記する二重価格表示も、アンカリング効果を利用した価格設定の典型的な例です」（https://hrmos.co/trend/talent-management/10187/）
+  - 「・1on1の進め方」（https://hrmos.co/trend/talent-management/10187/）
+  - 「ブラインド選考は、アンカリング効果を最小限に抑える効果的な方法です」（https://hrmos.co/trend/talent-management/10187/）
+  - 「具体的には保有資格や職務経歴書を最初に見て、その後に履歴書を見る方法です」（https://hrmos.co/trend/talent-management/10187/）
+  - 「【事例付き】タレントマネジメントとは？目的、システム導入や比較・活用方法」（https://hrmos.co/trend/talent-management/10187/）
+  - 「評価シートの配布・回収・集計の負担を減らす方法を解説資料で確認できます」（https://hrmos.co/trend/talent-management/10187/）
+  - 「フレーミング効果は、同じ情報であっても提示方法によって判断や意思決定が変化する現象です」（https://hrmos.co/trend/talent-management/10187/）
+  - 「アンカリング効果が最初に提示された情報に影響されるのに対し、フレーミング効果は情報の「枠組み」（フレーム）によって受け取り方が変わることを指します」（https://hrmos.co/trend/talent-management/10187/）
+  - 「アンカリング効果を効果的に活用するためには、適切なステップで実施することが重要です」（https://hrmos.co/trend/talent-management/10187/）
+  - 「ステップ通りに進めることで、アンカリング効果を最大限に引き出せます」（https://hrmos.co/trend/talent-management/10187/）
+  - 「ステップは以下の5つです」（https://hrmos.co/trend/talent-management/10187/）
+  - 「ステップ1: 目的と対象の明確化」（https://hrmos.co/trend/talent-management/10187/）
+  - 「ステップ2: 情報収集と分析」（https://hrmos.co/trend/talent-management/10187/）
 - 突き合わせ・推定：
+  - 「アンカリング効果は、直前に与えられた数値情報が後続の数量推定に影響を与える認知バイアスです」（https://hrmos.co/trend/talent-management/10187/）
+  - 「研究では、その説を検証するため、以下の2つの条件でアンカリング効果の強さを比較しました」（https://hrmos.co/trend/talent-management/10187/）
+  - 「Aグループには「術後1か月の生存率は90％である」と伝え、Bグループには「術後1か月の死亡率は10％である」と伝え、手術を選択する割合を検証した実験です」（https://hrmos.co/trend/talent-management/10187/）
   - 「“運用の検証を仕組みにする”ことこそ、アンカリングを制度レベルで抑える最も確実な方法です」（https://www.cbase.co.jp/column/article717/）
   - 「Triangulation in Research: Combining Methods for Stronger, More Credible Insights (2026)」（https://www.koji.so/docs/anchoring-bias-research）
   - 「Propensity Score Matching and the Pruning Paradox: When Better Balance Makes Your Estimate Worse (2026)」（https://www.koji.so/docs/anchoring-bias-research）
@@ -8993,10 +8996,10 @@
   - 「判断・計測・推定・設計などを行う際に、何が“系統的なゆがみ”の発生源となるかを説明するための共通語として、さまざまな領域で使われます」（https://qiqumo.jp/contents/knowhow/7500）
   - 「、設計上の欠陥によって推定が系統的に偏るリスクとして整理されます」（https://qiqumo.jp/contents/knowhow/7500）
   - 「推定量の系統誤差、設計・計測上の偏り」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「確証バイアス（Confirmation Bias）──仮説・目的が“結論ありき”になる」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「確証バイアスは、調査の目的設定や意思決定の前提、仮説の置き方、そしてアウトプット要件（分析軸）の定義といった、設計の上流で起きやすいバイアスです」（https://qiqumo.jp/contents/knowhow/7500）
-  - 「具体的には、事前仮説に合う設問・選択肢・分析軸だけを用意してしまい、反証や想定外の理由を拾えなくなることがあります」（https://qiqumo.jp/contents/knowhow/7500）
 - 一次情報の探し方：
+  - 「アンカリング効果は、採用においても大きな影響を与えます」（https://hrmos.co/trend/talent-management/10187/）
+  - 「ブラインド選考を実施することで、公平な採用はもちろん、潜在能力の高い人材や異なる背景を持つ人材の採用ができ、新しいアイデアの創造にもつながります」（https://hrmos.co/trend/talent-management/10187/）
+  - 「ブラインド採用とは？メリットとデメリット、実行の際のポイントを徹底解説！」（https://hrmos.co/trend/talent-management/10187/）
   - 「認知心理学や行動経済学では、個人の判断が規範（論理・確率）から一定方向にズレる現象として扱われ、統計学・実験計画や疫学・臨床研究法では、」（https://qiqumo.jp/contents/knowhow/7500）
   - 「6) 統計学・実験計画」（https://qiqumo.jp/contents/knowhow/7500）
   - 「マーケティングリサーチの文脈でのバイアスは、心理学、統計学、HCIといった複数の学問領域に由来するバイアスが関わります」（https://qiqumo.jp/contents/knowhow/7500）
@@ -9004,37 +9007,37 @@
   - 「p-hacking／データドレッジング（P-hacking / Data dredging）──“試して当たった有意差”を採用してしまう」（https://qiqumo.jp/contents/knowhow/7500）
   - 「セグメントを細かく切っていき、有意になった切り口だけを採用して結論を作る」（https://qiqumo.jp/contents/knowhow/7500）
 - 失敗・落とし穴：
-  - 「⇒【マンガでわかる】「360度評価」のメリットやデメリット、失敗しないための導入方法が詳しく学べる資料を1分でダウンロード」（https://www.cbase.co.jp/column/article717/）
-  - 「本記事では、この心理的バイアスが生じる仕組みと評価への影響を整理し、」（https://www.cbase.co.jp/column/article717/）
-  - 「アンカリング効果とは ― 人事評価に潜む心理的バイアス」（https://www.cbase.co.jp/column/article717/）
-  - 「の一つですが、他のバイアスとも密接に関係しています」（https://www.cbase.co.jp/column/article717/）
-  - 「人事評価に潜む確証バイアスとは？公平性をゆがめる心理の仕組みと防止策」（https://www.cbase.co.jp/column/article717/）
-  - 「が評価に大きな影響を与えるため、評価プロセス全体の設計段階から注意を払うことが重要です」（https://www.cbase.co.jp/column/article717/）
-  - 「この“思考の省略”が、結果としてバイアスを生み出します」（https://www.cbase.co.jp/column/article717/）
-  - 「特に評価制度が年次単位で行われる場合、前年の情報がそのまま評価基準として残りやすい点に注意が必要です」（https://www.cbase.co.jp/column/article717/）
-  - 「また、評価バイアス全体を俯瞰して整理したい場合は、「」（https://www.cbase.co.jp/column/article717/）
-  - 「人事評価のエラー・バイアス10選｜不公平を防ぐ仕組みと改善策を解説」（https://www.cbase.co.jp/column/article717/）
-  - 「アンカリング以外のバイアスとの関連を理解することで、自社の評価制度のどこに改善余地があるかをより明確にできます」（https://www.cbase.co.jp/column/article717/）
-  - 「評価者の心理だけでなく、制度やプロセスの側面からも働きかけることで、バイアスの影響を最小限に抑えられます」（https://www.cbase.co.jp/column/article717/）
-  - 「「なぜそう判断したのか」「どの情報を根拠にしているのか」を言語化できるようになることで、バイアスの影響を減らすことができます」（https://www.cbase.co.jp/column/article717/）
-  - 「“一人の判断に依存しない評価構造”を整えることが、制度的アンチバイアスの第一歩です」（https://www.cbase.co.jp/column/article717/）
-  - 「アンカリングを根本的に抑えるには、評価者個人の注意だけでなく、」（https://www.cbase.co.jp/column/article717/）
+  - 「企業がアンカリング効果を利用する際の注意点」（https://hrmos.co/trend/talent-management/10187/）
+  - 「アンカリング効果は、直前に与えられた数値情報が後続の数量推定に影響を与える認知バイアスです」（https://hrmos.co/trend/talent-management/10187/）
+  - 「そのため、リスクを過小評価しすぎたり、過度な期待を抱いてしまったりして失敗するケースがあります」（https://hrmos.co/trend/talent-management/10187/）
+  - 「明確な基準を設けることにより、評価者は主観的な印象やバイアスに頼るのではなく、具体的な指標に基づいて評価を行うことができます」（https://hrmos.co/trend/talent-management/10187/）
+  - 「明確な基準があることで、評価者は自身のバイアスに気づきやすくなり、それを意識的に排除する努力ができます」（https://hrmos.co/trend/talent-management/10187/）
+  - 「評価者はアンカリング効果やその他の認知バイアスが評価に影響することを理解し、意識した上で評価を行う必要があります」（https://hrmos.co/trend/talent-management/10187/）
+  - 「バイアスを意識的に避けるためのトレーニングの実施や、社外の講義やワークショップに参加してもらうのもよいでしょう」（https://hrmos.co/trend/talent-management/10187/）
+  - 「トレーニングとフィードバックによって評価者のバイアスを改善することで、人事評価の精度を高められます」（https://hrmos.co/trend/talent-management/10187/）
+  - 「アンカリング効果を活用する際には、いくつかの注意点を理解しておくことで、効果を最大限に引き出しつつ、信用を失うといったリスクを避けられます」（https://hrmos.co/trend/talent-management/10187/）
+  - 「以下の3つの注意点について詳しく見ていきましょう」（https://hrmos.co/trend/talent-management/10187/）
+  - 「もし、訴訟問題に発展すれば、法的罰則はもちろん、取引先からの信頼も失うなど企業へのダメージは避けられません」（https://hrmos.co/trend/talent-management/10187/）
+  - 「このような事態を避けるためには、適切な価格表示や正確な情報提供を心がけ、消費者を誤認させないように十分な注意が必要です」（https://hrmos.co/trend/talent-management/10187/）
+  - 「アンカリング効果は、最初に提示された情報や数値に引きずられ、その後の判断や評価が影響を受ける認知バイアスのひとつです」（https://hrmos.co/trend/talent-management/10187/）
+  - 「アンカリング効果などのバイアスによる偏りを軽減することは人事評価において重要です」（https://hrmos.co/trend/talent-management/10187/）
+  - 「自己評価の書き方とは？職種・業種別の例文や注意点、活用方法を解説」（https://hrmos.co/trend/talent-management/10187/）
 - 実例：
-  - 「面談の初回印象や普段の発言トーンなど、初期の印象がアンカーとなり、実際の業績よりも印象面が強く影響するケースがあります」（https://www.cbase.co.jp/column/article717/）
-  - 「この“思考の省略”が、結果としてバイアスを生み出します」（https://www.cbase.co.jp/column/article717/）
-  - 「たとえば、評価フォームに前年のスコアを記載していたり、評価面談の冒頭で前年の結果を振り返る構成にしていると、それがアンカーとして機能します」（https://www.cbase.co.jp/column/article717/）
-  - 「結果として、改善や成長が十分に反映されず、「頑張っても評価が変わらない」という不満につながります」（https://www.cbase.co.jp/column/article717/）
-  - 「これが評価への不信や、離職のトリガーになるケースも少なくありません」（https://www.cbase.co.jp/column/article717/）
-  - 「このような歪みを放置すると、結果的に」（https://www.cbase.co.jp/column/article717/）
-  - 「「結果」「プロセス」「行動」を分けて評価することも、主観を減らす有効な方法です」（https://www.cbase.co.jp/column/article717/）
-  - 「面談の流れそのものがアンカリングを誘発しているケースもあります」（https://www.cbase.co.jp/column/article717/）
-  - 「トレーニングでは、実際の評価シートを使い、複数の評価者で同一ケースを採点・比較してみると効果的です」（https://www.cbase.co.jp/column/article717/）
-  - 「また、評価結果をフィードバックする際に、「自分がどの情報をもとに結論を出したか」を明確に説明できる状態を目指すことが理想です」（https://www.cbase.co.jp/column/article717/）
-  - 「評価項目は「結果」「プロセス」「行動」の3軸で整理すると、判断がブレにくくなります」（https://www.cbase.co.jp/column/article717/）
-  - 「評価者研修で事例を用いたすり合わせを行うと、評価の方向性が統一されやすくなります」（https://www.cbase.co.jp/column/article717/）
-  - 「評価結果の分布を分析し、部門間・評価者間で偏りがないかを確認します」（https://www.cbase.co.jp/column/article717/）
-  - 「How to Create a Customer Feedback Form (with Examples)」（https://www.koji.so/docs/anchoring-bias-research）
-  - 「Customer Feedback Questions: 60+ Examples by Lifecycle Stage」（https://www.koji.so/docs/anchoring-bias-research）
+  - 「導入企業の事例もまとめた資料はこちらからご覧ください」（https://hrmos.co/trend/talent-management/10187/）
+  - 「実験の結果「10」と記録したグループは、国連加盟国のうちアフリカ諸国が占める割合は、平均で25%と回答しました」（https://hrmos.co/trend/talent-management/10187/）
+  - 「その結果、数字を提示した場合に比べ、意味情報のみを提示した場合のアンカリング効果は非常に弱いことが分かりました」（https://hrmos.co/trend/talent-management/10187/）
+  - 「三菱重工業株式会社、川崎重工業株式会社、キリンホールディングス株式会社など、どのような効果が得られたのか分かる事例をご紹介中」（https://hrmos.co/trend/talent-management/10187/）
+  - 「例えば、待ち合わせに20分遅刻してしまうとします」（https://hrmos.co/trend/talent-management/10187/）
+  - 「事前に「20分くらい遅れそう」と伝えておく場合と「30分くらい遅れそう」と伝えておく場合では、どちらも結果としては同じ「20分の遅刻」にも関わらず、「30分くらい遅れそう」と伝えた場合の方が「30分」がアンカーとなり10分早く到着した事になり「30分遅れると言っていたのに、急いできてくれた」と印象が良くなることがあります」（https://hrmos.co/trend/talent-management/10187/）
+  - 「たとえば、株式投資の銘柄を決める際に、過去の株価がアンカーになるケースです」（https://hrmos.co/trend/talent-management/10187/）
+  - 「そのため、リスクを過小評価しすぎたり、過度な期待を抱いてしまったりして失敗するケースがあります」（https://hrmos.co/trend/talent-management/10187/）
+  - 「商品ラインナップにアンカリング効果を活用するケースもあります」（https://hrmos.co/trend/talent-management/10187/）
+  - 「中間の「竹」をアンカーにすることで「松」と「梅」を比較しやすくなり、結果的に「竹」を購入してもらう心理操作です」（https://hrmos.co/trend/talent-management/10187/）
+  - 「【事例付き】タレントマネジメントとは？目的、システム導入や比較・活用方法」（https://hrmos.co/trend/talent-management/10187/）
+  - 「この結果、AグループのほうがBグループよりも手術を選択する医師が多いという結果が出ました」（https://hrmos.co/trend/talent-management/10187/）
+  - 「例えば「朝起きる」という行動を見た後に、その後の行動である「歯磨き」を無意識に認識するなどがあります」（https://hrmos.co/trend/talent-management/10187/）
+  - 「具体的には「どのような結果を得たいのか」と「誰に対してアンカリング効果を働かせたいのか」を決めることが不可欠です」（https://hrmos.co/trend/talent-management/10187/）
+  - 「結果を踏まえて戦略を見直し、必要に応じて適切なアンカーを見つけていくとよいでしょう」（https://hrmos.co/trend/talent-management/10187/）
 
 ## 上場廃止・増資・負債の増加で決算公告の義務と損益計算書の有無が変わる時点の確かめ方（大会社の判定を毎期）（Japan kessan koukoku obligation change delisting capital increase large company P/L summary）
 - 文脈：決算公告
@@ -11086,7 +11089,7 @@
   - 「Unfortunately, fake profiles and errors do occur. Especially for lesser-known or smaller businesses, a single company page can attract numerous unrelated profiles. One LinkedIn expert noted cases where a firm with only 30 real employees had」（https://blog.getaura.ai/headcount-data）
   - 「on its LinkedIn page, mostly due to individuals accidentally or intentionally attaching themselves to the wrong company. In another extreme case, a one-person company ended up with over 1,500 “employees” on LinkedIn because many people mistakenly selected that company name on their profiles. These examples show how dramatically LinkedIn data can deviate from reality.」（https://blog.getaura.ai/headcount-data）
   - 「Many companies operate through subsidiaries, acquisitions, or international branches that might use different names. For example, a large multinational company might have separate LinkedIn pages for “Acme Corp (US)," “Acme Corp UK," “Acme Corp India,” and so on, each with its own employee count. One public source might summarize them, while another might not.」（https://blog.getaura.ai/headcount-data）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
 
 ## データ報道の編集者の点検の問い（全数か一部か・割合の母数・申告の数字・名前の照合の確かめ・項目表）（data journalism editor checklist questions universe subset sample self-reported name matching record layout）
 - 文脈：突き合わせ
@@ -14761,11 +14764,11 @@
 
 ## 出す前の数字の点検の手順（書いた人と別の点検者・元の表との照合・直した後の再点検・Pew Research Center の decoded・GIJN のデータ報道の誤り）（pre-publication number check fact check procedure independent checker Pew decoded GIJN data journalism errors）
 - 文脈：検証・点検
-- 手順・やり方：記載なし（読んだ17頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
-- 実例：記載なし（読んだ17頁・検索12回）
+- 手順・やり方：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）
 
 ## 悪いデータの型と直し方の一覧（Quartz の bad-data-guide の GitHub 版・ProPublica の Guide to bulletproofing your data・既定の日付・先頭のゼロ・合計の不一致・4-108）（Quartz bad data guide github ProPublica bulletproofing data guide checklist）
 - 文脈：検証

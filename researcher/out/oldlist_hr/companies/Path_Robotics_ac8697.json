@@ -1,0 +1,1105 @@
+{
+ "name": "⭐️Path Robotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜送付済み",
+ "researched_at": "2026-11-11T06:23:23.508544+00:00",
+ "official_url": "https://www.path-robotics.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2018",
+    "url": "https://www.path-robotics.com/about/newsroom",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "Funding raised",
+    "value": "$610M",
+    "url": "https://www.path-robotics.com/about/newsroom",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Projected Welder Shortage",
+    "url": "https://www.path-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Together, we are defining a new approach to robotics in shipbuilding: automation that can adapt to extreme levels of complexity, mix, and size.",
+    "url": "https://www.path-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This collaboration represents a strategic investment in the future of American shipbuilding",
+    "url": "https://www.path-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This collaboration allows us to learn how Path's technology can be applied within our shipbuilding environments and scaled to support a more modern, resilient production model.",
+    "url": "https://www.path-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We can produce more product in the same amount of time without having to work harder.",
+    "url": "https://www.path-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Path Robotics develops autonomous welding systems powered by physical AI. Adaptive welding that handles what traditional automation can’t: high-mix production, large parts, and variable fit-up.",
+    "url": "https://www.path-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "LAD Services, a leading shipbuilder in Louisiana, announces their plan to deploy Path Robotics' physical-AI for welding to address the skilled welder shortage and close the gap between demand and production speed.",
+    "url": "https://www.path-robotics.com/videos/lad-services-partners-with-path-robotics",
+    "pass": 1
+   },
+   {
+    "quote": "HII Signs Performance-based Production Agreements with Path Robotics and GrayMatter Robotics",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The grid, data centers, and defense are competing for the same shrinking pool of welders, and 80% of U.S. welding is still done by hand. The bottleneck isn't capability. It's giving a smaller workforce tools that let its skill go further.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "LAD Services, a leading shipbuilder in Louisiana, announces their plan to deploy Path Robotics' physical-AI for welding to address the skilled welder shortage and close the gap between demand and production speed.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Watch Path's Multi-Pass Adaptive Welding technology tackle complete utility pole fabrication from start to finish. Our system now handles every weld type including baseplates, hand holes, vangs, clips, brackets, gussets, arm mounts, flanges, and endplates—unlocking unprecedented throughput for pole manufacturers.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Join Matt Klein, Path's Director of Robotics, as he demonstrates how JobBuilder software eliminates weeks of manual programming. This revolutionary tool automates motion planning and welder commands, reducing setup time from weeks to under an hour with AI-generated parameters and intuitive seam annotation.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "See Path's AI-powered vision system in action, delivering consistent, high-quality welds across every part. Our real-time adaptation and precision control ensure superior results that meet the most demanding specifications.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Behind the scenes from a Factory Acceptance Test we just passed. This is where we prove we can deliver exactly what we promise before a system ever hits the floor.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Today, Path Robotics announced a $300M Series E at a $2.45B valuation, led by Georgian, to scale physical AI for manufacturing. America needs manufacturing capacity now, capacity that they’ve tried and failed to hire for decades.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The Prefab Paradox: How the Data Center Boom Created a New Labor Problem for Steel Fabricators",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The data center boom made prefab the default. Now the shops doing the prefab are running out of the one thing they can't buy more of: welders.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Ravit Jain, host of The Ravit Show, speaks with Heather Carroll, Chief Revenue Officer (CRO), Path Robotics at the AI + Expo in Washington DC by the Special Competitive Studies Project - SCSP.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Mark walks through the full process from digital CAD to high-quality welds using a Path welding cell. He explains how Obsidian™, Path's physical AI model for manufacturing, transforms traditional robots from rigid, repeat-only machines into real-time perception and decision-making systems that can see, understand, and adapt in real time.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Finding Purpose: Autonomous Welding Has Been a Promise for Decades – but One Company Made It a Reality",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Andy and Alex Lonsberry built Path Robotics on the premise that autonomous welding could save American manufacturing jobs rather than eliminate them – and results suggest that bet is paying off.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "A new mobile welding robot is used into shipyards, with Saronic Technologies among the first to test its use in vessel production. The system brings automation directly to large structures, where traditional robotics have struggled.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Saronic partners with Path Robotics to integrate physical AI welding robotics into its Franklin, Louisiana shipyard, accelerating the production of autonomous maritime vessels and defining next-generation American shipbuilding.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "As companies lean further into Physical AI powered systems, advanced sensors and automated software to close labor gaps and stay competitive, they are also turning to AI driven tools to strengthen cybersecurity and protect increasingly connected operations.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Path Robotics CEO Andrew Lonsberry is deploying Obsidian, a proprietary AI model, to power autonomous welding cells that deliver 4x standard productivity. The Columbus-based company is bringing physical AI to factory floors to tackle manufacturing's critical labor shortage.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "In this series, I examine what is missing from today's dominant approaches to robot learning. My focus is pragmatic: what is the next meaningful step toward scalable, reliable physical AI systems that actually work in the real world.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Most automation fails in the gap between installation and long-term production reality: new parts, new operators, new shifts, and the inevitable “something is different today” moment.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The AI boom is driving an unprecedented buildout of data centers to meet hyperscalers' needs, and the pace isn’t slowing. Behind every megawatt of compute lies a physical infrastructure problem: fabricating the massive frames, racks, and containment systems that keep these critical data center servers cool, efficient, and operational.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional robotic welding systems, designed decades ago for high-volume, low-mix production environments, simply weren't built for the dynamic needs of today's manufacturers.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage multiple arms to amplify productivity",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "CNBC: Path Robotics CEO - Physical AI Can Help U.S. Manufacturing Produce More",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Andrew Lonsberry, Chief Executive Officer of Path Robotics, said physical AI can address welding labor shortages by augmenting workers and helping U.S. manufacturers produce more, faster.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "At Path Robotics, we're building the intelligent infrastructure of modern manufacturing. By combining artificial intelligence, machine learning, and computer vision, we make robots that see, think, and adapt, turning complexity into productivity.",
+    "url": "https://www.path-robotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Trillions are being invested in new infrastructure, yet the real bottleneck is not capital or demand. It is the shortage of skilled manufacturing labor needed to fabricate, assemble, and deliver the physical systems those projects rely on.",
+    "url": "https://www.path-robotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We grew up in Ohio, welding with our dad in the garage. That's where we learned the value of hard work, precision, and the pride that comes from building something real.",
+    "url": "https://www.path-robotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Haomiao is a Founding Partner at Matter Venture Partners, where his journey from robotics researcher to founder to investor gives him a unique lens on hardware startups. He previously invested in HardTech at Kleiner Perkins and founded smart home security startup Kuna (YC W14). He holds a Ph.D. in Aeronautics & Astronautics from Stanford, where he pioneered multi-rotor UAV aerodynamics.",
+    "url": "https://www.path-robotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer at Path Robotics, driving commercial growth and customer success. She is a member of the National Security Commission on Robotics for Advanced Manufacturing, launched by the Special Competitive Studies Project (SCSP) in March 2026 to counter China's dominance in industrial automation and secure U.S. leadership in physical AI.",
+    "url": "https://www.path-robotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Evangelist and Path's first customer, helping spread the vision of AI-powered manufacturing.",
+    "url": "https://www.path-robotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Executive Vice President of Global Operations at Path Robotics, scaling Path's operations worldwide.",
+    "url": "https://www.path-robotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of Finance at Path Robotics, leading financial strategy and operations.",
+    "url": "https://www.path-robotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of Product at Path Robotics, shaping the product roadmap and customer experience.",
+    "url": "https://www.path-robotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "CISO & VP of Product Reliability Engineering",
+    "url": "https://www.path-robotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Information Security Officer and Vice President of Product Reliability Engineering at Path Robotics, ensuring security and reliability across all systems.",
+    "url": "https://www.path-robotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of People at Path Robotics, building the team and culture.",
+    "url": "https://www.path-robotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Systems Engineering Approaches to Next-Gen Naval Platform Design",
+    "url": "https://www.path-robotics.com/about/events",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 29, 2026",
+    "url": "https://www.path-robotics.com/about/events",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 20–22, 2026",
+    "url": "https://www.path-robotics.com/about/events",
+    "pass": 1
+   },
+   {
+    "quote": "Newsroom | Path Robotics Press Releases & Media",
+    "url": "https://www.path-robotics.com/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "press@path-robotics.com",
+    "url": "https://www.path-robotics.com/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Subscribe to Press Alerts",
+    "url": "https://www.path-robotics.com/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Path welding cells use Obsidian to adapt to variable parts and welds, helping manufacturers increase capacity and improve quality.",
+    "url": "https://www.path-robotics.com/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "HII Signs Performance-based Production Agreements with Path Robotics and GrayMatter Robotics",
+    "url": "https://www.path-robotics.com/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "April 29, 2026",
+    "url": "https://www.path-robotics.com/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer at Path Robotics, driving commercial growth and customer success. She is a member of the National Security Commission on Robotics for Advanced Manufacturing, launched by the Special Competitive Studies Project (SCSP) in March 2026 to counter China's dominance in industrial automation and secure U.S. leadership in physical AI.",
+    "url": "https://www.path-robotics.com/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "ZIP of photos, logos and videos",
+    "url": "https://www.path-robotics.com/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "By submitting this form, you agree that Path Robotics may contact you about your submission. You can unsubscribe from marketing communications at any time. See our",
+    "url": "https://www.path-robotics.com/case-studies/how-tycrop-solved-their-labor-shortage",
+    "pass": 1
+   },
+   {
+    "quote": "\"The welding craft is aging, quality is under pressure, and skilled welders are getting harder and harder to find. We reached a point where we simply could not make everything we needed to make with people alone.",
+    "url": "https://www.path-robotics.com/news/lad-services-partners-with-path-robotics-to-revolutionize-barge-manufacturing-with-physical-ai-for-w",
+    "pass": 1
+   },
+   {
+    "quote": "Today, Path Robotics announced a $300M Series E at a $2.45B valuation, led by Georgian, to scale physical AI for manufacturing. America needs manufacturing capacity now, capacity that they’ve tried and failed to hire for decades.",
+    "url": "https://www.path-robotics.com/videos/physical-ai-for-manufacturing-series-e",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Physical AI for Manufacturing | Path Robotics",
+    "url": "https://www.path-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", American manufacturing faces a critical shortage of skilled welders.",
+    "url": "https://www.path-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Restoring America's maritime industrial capacity requires rethinking how shipyards are designed and operated from the ground up. At Saronic, we are exploring how physical AI and automation can help advance shipbuilding operations, just as our autonomous systems are transforming maritime operations at sea.",
+    "url": "https://www.path-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional automation could not handle the reality of shipbuilding. Path's technology gives us the added capacity we need without relying on a shrinking labor pool of welders, while maintaining the quality our customers expect.",
+    "url": "https://www.path-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We've looked at robotic welders in the past, and the cost benefit didn't work out.",
+    "url": "https://www.path-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Heavy industry is grinding to a halt as welders vanish from factory floors. Path's intelligent cells fill the void, fabricating the colossal structures that keep America's mines, construction sites, and infrastructure moving.",
+    "url": "https://www.path-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Path Robotics Announces $300 Million Series E Financing at $2.45 Billion Valuation to Scale Physical AI for Manufacturing",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "How Physical AI Will Rebuild American Manufacturing",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Path CRO Heather Carroll shares insights from Capitol Hill and dozens of manufacturing leaders on why skilled labor is the bottleneck—and how Physical AI is the solution.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The Collision: Why Data Centers, the Grid, and Defense Are All Fighting for the Same Welders",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The grid, data centers, and defense are competing for the same shrinking pool of welders, and 80% of U.S. welding is still done by hand. The bottleneck isn't capability. It's giving a smaller workforce tools that let its skill go further.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Central Ohio Becomes Hub for Tech and Manufacturing",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "In a 200,000-square-foot factory on the west side of Columbus, Andy Lonsberry, chief executive of Path Robotics, demonstrated an autonomous robotic dog with a welding torch for a head. Using sensors invented by Path, the robot was able to identify the seam on a metal wall that it was supposed to weld. It aimed its torch, and sent sparks flying.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "HII (NYSE: HII) and Path Robotics signed a memorandum of understanding to explore integrating Path's physical AI for welding into shipbuilding operations, accelerating throughput and strengthening the maritime industrial base.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Watch Path's Multi-Pass Adaptive Welding technology tackle complete utility pole fabrication from start to finish. Our system now handles every weld type including baseplates, hand holes, vangs, clips, brackets, gussets, arm mounts, flanges, and endplates—unlocking unprecedented throughput for pole manufacturers.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Path Robotics: Factory Acceptance Test",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Behind the scenes from a Factory Acceptance Test we just passed. This is where we prove we can deliver exactly what we promise before a system ever hits the floor.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Physical AI for Manufacturing - Series E",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Today, Path Robotics announced a $300M Series E at a $2.45B valuation, led by Georgian, to scale physical AI for manufacturing. America needs manufacturing capacity now, capacity that they’ve tried and failed to hire for decades.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Path Robotics unlocks that capacity. Path Robotics is rebuilding American Manufacturing Dominance.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The data center boom made prefab the default. Now the shops doing the prefab are running out of the one thing they can't buy more of: welders.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "This Autonomous Welding Robot May Be The Future Of Advanced Manufacturing",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Mark walks through the full process from digital CAD to high-quality welds using a Path welding cell. He explains how Obsidian™, Path's physical AI model for manufacturing, transforms traditional robots from rigid, repeat-only machines into real-time perception and decision-making systems that can see, understand, and adapt in real time.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Andy and Alex Lonsberry built Path Robotics on the premise that autonomous welding could save American manufacturing jobs rather than eliminate them – and results suggest that bet is paying off.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Path Robotics, the global leader in physical AI for manufacturing, today announced the launch of Rove™, a mobile robotic welding system that pairs the company's Obsidian™ physical AI model with a quadruped robot.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Saronic Collaborates with Path Robotics to Integrate Physical AI for Manufacturing, Accelerating the Revitalization of American Shipbuilding",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Andrew Lonsberry brings physical AI to Ohio's factory floors",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Path Robotics CEO Andrew Lonsberry is deploying Obsidian, a proprietary AI model, to power autonomous welding cells that deliver 4x standard productivity. The Columbus-based company is bringing physical AI to factory floors to tackle manufacturing's critical labor shortage.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Path Robotics appoints Rocket Lab COO Frank Klein and Yale SVP Geoffrey Chatas to its Board of Directors, strengthening leadership to scale Physical AI for Manufacturing and intelligent welding cells that help manufacturers boost capacity, quality, and resilience.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Most automation fails in the gap between installation and long-term production reality: new parts, new operators, new shifts, and the inevitable “something is different today” moment.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Mission Control is Path Robotics’ support and customer success capability that helps customers keep cells running, sustain utilization, and realize ROI over time. It combines specialists, field technicians, engineering resources, and remote monitoring into a single operating model.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Join a collaborative and passionate team where you can grow your career and help shape the future of manufacturing.",
+    "url": "https://www.path-robotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We exist to help manufacturers navigate the skilled labor shortage.",
+    "url": "https://www.path-robotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "If human welders were readily available, we would've stayed out of the welding business. With a 400k welder shortage forecasted by 2029, skilled welders will become more scarce and your competition will make it even more challenging to keep the welders you have.",
+    "url": "https://www.path-robotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "To bridge the gap across the world, manufacturers are looking to automation and robotics at exponential levels, with forecasted growth of $10 Billion in the next five years.",
+    "url": "https://www.path-robotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "At Path Robotics, we're building the intelligent infrastructure of modern manufacturing. By combining artificial intelligence, machine learning, and computer vision, we make robots that see, think, and adapt, turning complexity into productivity.",
+    "url": "https://www.path-robotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is simple: create real value for our customers while rebuilding the backbone of American industry. Every breakthrough in our technology is measured by the results it delivers to our customers: more uptime, higher quality, and a stronger, more resilient manufacturing base.",
+    "url": "https://www.path-robotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "About Path Robotics | Physical AI for Manufacturing",
+    "url": "https://www.path-robotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Trillions are being invested in new infrastructure, yet the real bottleneck is not capital or demand. It is the shortage of skilled manufacturing labor needed to fabricate, assemble, and deliver the physical systems those projects rely on.",
+    "url": "https://www.path-robotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Because the future of manufacturing won't build itself. We are building the intelligent automation that can. Robots that see, think, and adapt. Systems that make factories more flexible, capable, and resilient. So people can continue to do what we do best: imagine, create, and push the world forward.",
+    "url": "https://www.path-robotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Experienced investors and operators in AI, industrial technology, and critical infrastructure.",
+    "url": "https://www.path-robotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Co-Founder and CEO of Path Robotics, Andy has scaled Path from the basement of Case Western University to the leading physical-AI company for manufacturing.",
+    "url": "https://www.path-robotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer at Path Robotics, driving commercial growth and customer success. She is a member of the National Security Commission on Robotics for Advanced Manufacturing, launched by the Special Competitive Studies Project (SCSP) in March 2026 to counter China's dominance in industrial automation and secure U.S. leadership in physical AI.",
+    "url": "https://www.path-robotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Evangelist and Path's first customer, helping spread the vision of AI-powered manufacturing.",
+    "url": "https://www.path-robotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Events | See Path Robotics at Manufacturing Trade Shows",
+    "url": "https://www.path-robotics.com/about/events",
+    "pass": 1
+   },
+   {
+    "quote": "National Defense Industrial Association (NDIA) Emerging Technologies for Defense Conference",
+    "url": "https://www.path-robotics.com/about/events",
+    "pass": 1
+   },
+   {
+    "quote": "How Physical AI Will Rebuild Manufacturing",
+    "url": "https://www.path-robotics.com/about/events",
+    "pass": 1
+   },
+   {
+    "quote": "Path Robotics builds physical AI that helps manufacturers automate complex welding.",
+    "url": "https://www.path-robotics.com/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Path welding cells use Obsidian to adapt to variable parts and welds, helping manufacturers increase capacity and improve quality.",
+    "url": "https://www.path-robotics.com/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Path Robotics Announces $300 Million Series E Financing at $2.45 Billion Valuation to Scale Physical AI for Manufacturing",
+    "url": "https://www.path-robotics.com/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Saronic Collaborates with Path Robotics to Integrate Physical AI for Manufacturing, Accelerating the Revitalization of American Shipbuilding",
+    "url": "https://www.path-robotics.com/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Central Ohio Becomes Hub for Tech and Manufacturing",
+    "url": "https://www.path-robotics.com/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "This Autonomous Welding Robot May Be The Future Of Advanced Manufacturing",
+    "url": "https://www.path-robotics.com/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Co-Founder and CEO of Path Robotics, Andy has scaled Path from the basement of Case Western University to the leading physical-AI company for manufacturing.",
+    "url": "https://www.path-robotics.com/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer at Path Robotics, driving commercial growth and customer success. She is a member of the National Security Commission on Robotics for Advanced Manufacturing, launched by the Special Competitive Studies Project (SCSP) in March 2026 to counter China's dominance in industrial automation and secure U.S. leadership in physical AI.",
+    "url": "https://www.path-robotics.com/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Download The Full Case Study",
+    "url": "https://www.path-robotics.com/case-studies/how-tycrop-solved-their-labor-shortage",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Millerbernd",
+    "url": "https://www.path-robotics.com/videos/case-study-millerbernd",
+    "pass": 1
+   },
+   {
+    "quote": "\"The welding craft is aging, quality is under pressure, and skilled welders are getting harder and harder to find. We reached a point where we simply could not make everything we needed to make with people alone.",
+    "url": "https://www.path-robotics.com/news/lad-services-partners-with-path-robotics-to-revolutionize-barge-manufacturing-with-physical-ai-for-w",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional automation could not handle the reality of shipbuilding. Path's technology gives us the added capacity we need without relying on a shrinking labor pool of welders, while maintaining the quality our customers expect.",
+    "url": "https://www.path-robotics.com/news/lad-services-partners-with-path-robotics-to-revolutionize-barge-manufacturing-with-physical-ai-for-w",
+    "pass": 1
+   },
+   {
+    "quote": "How Physical AI Will Rebuild Manufacturing | Webinar",
+    "url": "https://www.path-robotics.com/resources/webinar/physical-ai-webinar-recording",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Path CRO Heather Carroll shares insights from Capitol Hill and dozens of manufacturing leaders on why skilled labor is the bottleneck—and how Physical AI is the solution.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "HII (NYSE: HII) and Path Robotics signed a memorandum of understanding to explore integrating Path's physical AI for welding into shipbuilding operations, accelerating throughput and strengthening the maritime industrial base.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Path Robotics: AI-Powered Welding and the Rise of Physical AI, with Heather Carroll",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Ravit Jain, host of The Ravit Show, speaks with Heather Carroll, Chief Revenue Officer (CRO), Path Robotics at the AI + Expo in Washington DC by the Special Competitive Studies Project - SCSP.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "We get a lot of questions about what the Path system actually looks like in action. So we recorded it. No narration, no soundtrack, no graphics.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "This week, Path CRO Heather Carroll joined the Congressional Robotics Caucus in DC to talk about a simple but uncomfortable reality:",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Path CRO Heather Carroll Speaks on Reindustrializing",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Heather Carroll, the Chief Revenue Officer of Path Robotics, discusses the company's mission to combat the labor shortage in welding with physical AI.",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Path Robotics' Heather Carroll said worker shortages are making automation critical to US manufacturing",
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://www.path-robotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer at Path Robotics, driving commercial growth and customer success. She is a member of the National Security Commission on Robotics for Advanced Manufacturing, launched by the Special Competitive Studies Project (SCSP) in March 2026 to counter China's dominance in industrial automation and secure U.S. leadership in physical AI.",
+    "url": "https://www.path-robotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://www.path-robotics.com/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer at Path Robotics, driving commercial growth and customer success. She is a member of the National Security Commission on Robotics for Advanced Manufacturing, launched by the Special Competitive Studies Project (SCSP) in March 2026 to counter China's dominance in industrial automation and secure U.S. leadership in physical AI.",
+    "url": "https://www.path-robotics.com/about/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Path CRO Heather Carroll shares insights from Capitol Hill and dozens of manufacturing leaders on why skilled labor is the bottleneck—and how Physical AI is the solution.",
+    "url": "https://www.path-robotics.com/resources/webinar/physical-ai-webinar-recording",
+    "pass": 1
+   },
+   {
+    "quote": "We get a lot of questions about what the Path system actually looks like in action. So we recorded it. No narration, no soundtrack, no graphics.",
+    "url": "https://www.path-robotics.com/videos/raw-welding-action",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.path-robotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.path-robotics.com/videos/lad-services-partners-with-path-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.path-robotics.com/resources?type=case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.path-robotics.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.path-robotics.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.path-robotics.com/about/events",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.path-robotics.com/about/newsroom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.path-robotics.com/case-studies/how-tycrop-solved-their-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.path-robotics.com/videos/case-study-millerbernd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.path-robotics.com/news/lad-services-partners-with-path-robotics-to-revolutionize-barge-manufacturing-with-physical-ai-for-w",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.path-robotics.com/resources/webinar/physical-ai-webinar-recording",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.path-robotics.com/videos/physical-ai-for-manufacturing-series-e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.path-robotics.com/videos/raw-welding-action",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.path-robotics.com/images/headshots/leadership/Andy%20Lonsberry%20Headshot%20Square.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.path-robotics.com/images/headshots/leadership/Alex%20Lonsberry%20Headshot%20Square.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.path-robotics.com/logos/path-robotics-white.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.path-robotics.com/_next/image?url=https%3A%2F%2Fmhwhartwdpbuj44w.public.blob.vercel-storage.com%2Fblog-images%2Fseries-e-press-release-thumb-1280x720-IyR2s44CBtqomMCLNrRs9EaT9qLgia.jpg&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.path-robotics.com/_next/image?url=%2Fphysical-ai-webinar-thumbnail.jpg&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.path-robotics.com/_next/image?url=https%3A%2F%2Flmbrpykxzkgwmwvzoykf.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fvideo-thumbnails%2F1780949171473-alqwqr.jpg&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.unite.ai/ja/path-robotics-raises-300m-series-e-at-2-45b-to-expand-manufacturing-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.mfgrobots.com/mfg/acs/1007051047.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://physicalainews.jp/news/path-robotics-butsuri-ai-tousai-no-yousetsu-jidouka-robotto-ae98f6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jabra.com/ja-jp/where-to-buy/authorized-distributors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/ja/About/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.siasun.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-company.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://physicalainews.jp/en/news/path-robotics-raises-300-million-to-expand-physical-ai-in-manufacturin-1965b6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.mfgrobots.com/mfg/acs/1007051047.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://acstudio.jp/path-robotics%E3%80%81ai%E3%81%A7%E6%BA%B6%E6%8E%A5%E3%82%92%E8%87%AA%E5%BE%8B%E6%9C%80%E9%81%A9%E5%8C%96-%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E3%81%AE%E8%A3%BD%E9%80%A0%E7%8F%BE/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.augustwenty.com/case_studies/path_robotics_study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trewmarketing.com/case-studies/path-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exagrid.com/reseller-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.articsledge.com/post/ai-reseller-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://botpenguin.com/blogs/white-label-reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resellaitools.com/top-10-ai-reseller-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/pathrobotics/__YtOy3vBjm-X9W9h4A8Oqr0_wXjYrrpIanW8qhtQchPk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/233402-23",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/path-robotics-path-robotics-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://incfact.com/company/pathrobotics-cleveland-oh/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "⭐️Path Robotics 日本 導入",
+   "results": [
+    "https://www.unite.ai/ja/path-robotics-raises-300m-series-e-at-2-45b-to-expand-manufacturing-ai/",
+    "https://ja.mfgrobots.com/mfg/acs/1007051047.html",
+    "https://physicalainews.jp/news/path-robotics-butsuri-ai-tousai-no-yousetsu-jidouka-robotto-ae98f6",
+    "https://www.path-robotics.com/news/path-robotics-announces-300-million-series-e-led-by-georgian",
+    "https://roboticstrend.net/2026/07/11/path-robotics、ai搭載で溶接ロボットの生産効率を大幅向上/",
+    "https://roboticstrend.net/2026/08/07/hii、path-roboticsに最大9億ドル投資へ/",
+    "https://physicalainews.jp/companies/path-robotics"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️Path Robotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.jabra.com/ja-jp/where-to-buy/authorized-distributors",
+    "https://www.ptc.com/ja/About/",
+    "https://en.siasun.com/ja/",
+    "https://japan-company.net/",
+    "https://www.ptc.com/ja/",
+    "https://www.houjin-bangou.nta.go.jp/en/index.html",
+    "https://en.siasun.com/ja/会社概要.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️Path Robotics Japan",
+   "results": [
+    "https://physicalainews.jp/en/news/path-robotics-raises-300-million-to-expand-physical-ai-in-manufacturin-1965b6",
+    "https://ja.mfgrobots.com/mfg/acs/1007051047.html",
+    "https://www.path-robotics.com/news/path-robotics-announces-300-million-series-e-led-by-georgian",
+    "https://acstudio.jp/path-robotics、aiで溶接を自律最適化-人手不足の製造現/",
+    "https://jp.linkedin.com/company/path-robotics",
+    "https://finance.yahoo.com/technology/ai/articles/path-robotics-announces-300-million-140500145.html?fr=sycsrp_catchall",
+    "https://www.path-robotics.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️Path Robotics manufacturing customer case study",
+   "results": [
+    "https://www.path-robotics.com/resources",
+    "https://www.path-robotics.com/videos/case-study-millerbernd",
+    "https://www.augustwenty.com/case_studies/path_robotics_study",
+    "https://www.trewmarketing.com/case-studies/path-robotics",
+    "https://navan.com/resources/case-study/case-study-path-robotics",
+    "https://ifr.org/case-studies/industry-robots-case-studies",
+    "https://www.automate.org/robotics/case-studies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️Path Robotics white label OR reseller OR partner program",
+   "results": [
+    "https://www.exagrid.com/reseller-partner-program/",
+    "https://www.articsledge.com/post/ai-reseller-programs",
+    "https://botpenguin.com/blogs/white-label-reseller-program",
+    "https://resellaitools.com/top-10-ai-reseller-programs",
+    "https://insighto.ai/blog/white-label-reseller-programs/",
+    "https://partners.livechat.com/blog/best-reseller-programs/",
+    "https://www.revrobotics.com/distribution/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️Path Robotics founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/pathrobotics/__YtOy3vBjm-X9W9h4A8Oqr0_wXjYrrpIanW8qhtQchPk",
+    "https://pitchbook.com/profiles/company/233402-23",
+    "https://fundediq.co/path-robotics-path-robotics-com-funding/",
+    "https://incfact.com/company/pathrobotics-cleveland-oh/",
+    "https://rocketreach.co/path-robotics-profile_b6aa9b9cc86d4096",
+    "https://www.thecompanycheck.com/company/b/path-robotics/a4tlr82aqm6ecm09b",
+    "https://www.crunchbase.com/organization/path-robotics"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ⭐️Path Robotics",
+   "results": [
+    "https://note.com/tekkan/n/n4d784ebd4af7?hl=en",
+    "https://note.com/seigo77",
+    "https://note.com/tarou_wakamatsu/n/ncadccaaf8d04?hl=en",
+    "https://note.com/tarou_wakamatsu/n/n544c31775a14?hl=en",
+    "https://note.com/omori55/n/n10afefc405cb?hl=en",
+    "https://note.com/stai/n/n819cba66f170?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ⭐️Path Robotics",
+   "results": [
+    "https://x.com/PathOn_Robotics",
+    "https://x.com/lukas_m_ziegler/status/2045457627224654012",
+    "https://x.com/Justshareit518/status/2119048339459379688",
+    "https://x.com/prskgoods/status/2118577506043502780",
+    "https://x.com/papersdatacode/status/2118783226122514562",
+    "https://x.com/ImNoqui/status/2120227110208122975",
+    "https://x.com/Demidove2505/status/2120213934162546964"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ⭐️Path Robotics",
+   "results": [
+    "https://www.linkedin.com/company/path-robotics",
+    "https://www.linkedin.com/company/path-robotics/jobs",
+    "https://www.linkedin.com/jobs/path-robotics-jobs",
+    "https://www.linkedin.com/jobs/view/software-engineer-c++-at-path-robotics-4485620378",
+    "https://www.linkedin.com/in/kleinma",
+    "https://il.linkedin.com/in/phillip-shapiro",
+    "https://kr.linkedin.com/in/seungminleealbert/en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ⭐️Path Robotics",
+   "results": [
+    "https://www.facebook.com/PleasantRobotics/",
+    "https://www.facebook.com/JetSetRobotics/",
+    "https://www.facebook.com/tallyrobotics/",
+    "https://business.facebook.com/groups/electricbikesil/",
+    "https://business.facebook.com/groups/robootikalasteaias/",
+    "https://www.facebook.com/groups/956311871749509/posts/1936910057023014/",
+    "https://www.facebook.com/benhvienk.vn/posts/phẫu-thuật-nội-soi-robot-tại-bệnh-viện-k-️-làm-chủ-kỹ-thuật-hiện-đại-chuyển-giao/1442790451217525/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️Path Robotics note 社長",
+   "results": [
+    "https://www.path-robotics.com/about",
+    "https://thenextweb.com/news/path-robotics-300m-series-e-2-45bn-valuation",
+    "https://www.siliconreport.com/path-robotics-raises-300m-series-e-at-2-45b-valuation",
+    "https://machinasummit.com/speakers/andrew-lonsberry",
+    "https://theaiinsider.tech/2026/11/10/path-robotics-raises-300-million-at-2-45-billion-valuation-to-expand-manufacturing-ai/",
+    "https://www.path-robotics.com/news/path-robotics-announces-300-million-series-e-led-by-georgian",
+    "https://www.unite.ai/path-robotics-raises-300m-series-e-at-2-45b-to-expand-manufacturing-ai/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️Path Robotics X 投稿",
+   "results": [
+    "https://x.com/PathRobotics",
+    "https://x.com/PathOn_Robotics",
+    "https://www.facebook.com/PathRobotics/",
+    "https://roboticsandautomationnews.com/2026/11/10/path-robotics-raises-stunning-300-million-at-2-45-billion-valuation-to-expand-physical-ai-in-manufacturing/106929/",
+    "https://x.com/INTJYAN/status/2120163274410873281",
+    "https://www.path-robotics.com/",
+    "https://www.pathrobotics.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式15頁／PDF・画像4件／外部20頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式15頁／PDF・画像4件／外部20頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式15頁／PDF・画像4件／外部20頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式15頁／PDF・画像4件／外部20頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式15頁／PDF・画像4件／外部20頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式15頁／PDF・画像4件／外部20頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式15頁／PDF・画像4件／外部20頁・検索12回）"
+ }
+}

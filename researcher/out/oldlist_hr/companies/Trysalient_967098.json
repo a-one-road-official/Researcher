@@ -1,0 +1,813 @@
+{
+ "name": "Trysalient",
+ "aliases": [],
+ "context": "旧営業リスト｜Fintech / AI for Lending｜未接触",
+ "researched_at": "2026-11-11T06:22:06.411846+00:00",
+ "official_url": "https://www.trysalient.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "08-Sep-2023    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/521218-27",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "session.close(outcome: \"promise_to_pay\")",
+    "url": "https://www.trysalient.com/",
+    "pass": 1
+   },
+   {
+    "quote": "April 2026",
+    "url": "https://www.trysalient.com/",
+    "pass": 1
+   },
+   {
+    "quote": "GAP claim automation and appraisal-clause deadline engine.",
+    "url": "https://www.trysalient.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Not chatbots. Salient agents gather data, check rules, update systems, and produce documentation end to end.",
+    "url": "https://www.trysalient.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every interaction builds on the last — promises to pay, hardship conversations, prior disputes, and escalation history.",
+    "url": "https://www.trysalient.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ACA needed to move beyond a 3% manual sample rate ahead of a regulatory examination. Marshall now enforces controls at the LMS level against a live repository of state and federal law — covering every interaction and account event, not a fraction of them — and produces an exam-ready audit trail on demand.",
+    "url": "https://www.trysalient.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "We started inside the problem.",
+    "url": "https://www.trysalient.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "We were embedded inside the world's most sophisticated servicing operations from day one. Every product was crafted in direct collaboration with our launch partners — not built in a lab and then sold to them.",
+    "url": "https://www.trysalient.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "That origin shows in the product. Salient understands the regulatory surface area, the nuance of financial hardship conversations, and the operational complexity of a servicer running across dozens of state laws and lender SOPs — because we built it alongside the people who live that complexity every day.",
+    "url": "https://www.trysalient.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Previously worked in sales and finance at Tesla, and investment banking at Goldman Sachs. Computer science and philosophy at Columbia University.",
+    "url": "https://www.trysalient.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Previously tech lead at Airtable and Dropbox. Computer science and robotics at Carnegie Mellon.",
+    "url": "https://www.trysalient.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "We're hiring people who want to rebuild how consumer lending works.",
+    "url": "https://www.trysalient.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "\"Regulators expect 100% auditability. Manual processes deliver 3%.\"",
+    "url": "https://www.trysalient.com/solutions/banks",
+    "pass": 1
+   },
+   {
+    "quote": "Banks and credit unions operate under the most demanding regulatory oversight in consumer lending. CFPB, OCC, and NCUA examiners scrutinize collections and servicing practices at a level of depth that legacy manual operations cannot sustain. A 3% sample rate in a manual review program is not a compliance program — it is an exposure.",
+    "url": "https://www.trysalient.com/solutions/banks",
+    "pass": 1
+   },
+   {
+    "quote": "Adding AI to a regulated depository sounds straightforward until you confront the explainability requirement. Examiners don't accept black-box outputs. Banks need AI that can demonstrate exactly why every decision was made, against which rule, and with what evidence — and produce that documentation on demand.",
+    "url": "https://www.trysalient.com/solutions/banks",
+    "pass": 1
+   },
+   {
+    "quote": "Total-loss claims are a defining operational challenge for captive lenders. High vehicle exposure combined with large portfolio volume means significant claims processing load — ACV disputes, GAP filing coordination, titling, and lien release all happening concurrently across carriers and states. Manual handling of this at scale is slow, inconsistent, and leaves money on the table.",
+    "url": "https://www.trysalient.com/solutions/captive",
+    "pass": 1
+   },
+   {
+    "quote": "\"Subprime portfolios demand more from collections and compliance, not less.\"",
+    "url": "https://www.trysalient.com/solutions/specialty",
+    "pass": 1
+   },
+   {
+    "quote": "Specialty and subprime lenders carry higher delinquency rates by design. That means collections operations work harder, contact attempts happen more frequently, and the window between first missed payment and chargeoff is shorter. At high portfolio volumes, manual collections cannot maintain the contact intensity needed to maximize recovery without proportionally growing headcount.",
+    "url": "https://www.trysalient.com/solutions/specialty",
+    "pass": 1
+   },
+   {
+    "quote": "Subprime lending practices attract heightened regulatory scrutiny. CFPB, FTC, and state regulators have consistently focused enforcement attention on subprime auto and personal finance — UDAAP, FDCPA, and state-specific practices are all in scope. Manual agent floors are the highest-risk part of the compliance stack because every deviation from approved scripting or policy creates exposure.",
+    "url": "https://www.trysalient.com/solutions/specialty",
+    "pass": 1
+   },
+   {
+    "quote": "Independent finance companies and regional auto lenders often carry back-office operations that were built for a smaller portfolio than the one they're running today. As books grow, manual processes don't scale — collections throughput plateaus, chargeoffs increase, and compliance oversight becomes impossible to maintain without investing heavily in headcount.",
+    "url": "https://www.trysalient.com/solutions/specialty",
+    "pass": 1
+   },
+   {
+    "quote": "We'll walk through your servicing stack and show you what AI-native collections, audit, and claims look like in production.",
+    "url": "https://www.trysalient.com/demo",
+    "pass": 1
+   },
+   {
+    "quote": "See Taylor, Marshall, and the full platform running on representative loan data.",
+    "url": "https://www.trysalient.com/demo",
+    "pass": 1
+   },
+   {
+    "quote": "We cover API integration, data requirements, and timeline to production.",
+    "url": "https://www.trysalient.com/demo",
+    "pass": 1
+   },
+   {
+    "quote": "approximately $24 billion in assets.",
+    "url": "https://www.trysalient.com/case-studies/westlake.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "capabilities, improve oversight across interactions, and accelerate borrower and insurance resolutions.",
+    "url": "https://www.trysalient.com/case-studies/westlake.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "-Brian Renfro, Executive Vice President of Servicing at Westlake",
+    "url": "https://www.trysalient.com/case-studies/westlake.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Partnership Approach: How Salient embedded with Westlake",
+    "url": "https://www.trysalient.com/case-studies/westlake.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Before Salient: Salient’s Approach:",
+    "url": "https://www.trysalient.com/case-studies/westlake.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "entire suite of products while maintaining full compliance oversight. With Salient, Westlake could",
+    "url": "https://www.trysalient.com/case-studies/westlake.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Automate and improve loan",
+    "url": "https://www.trysalient.com/case-studies/westlake.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "providing agent coaching.",
+    "url": "https://www.trysalient.com/case-studies/westlake.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "process, from AI price discovery",
+    "url": "https://www.trysalient.com/case-studies/westlake.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "*Use cases and performance metrics are non-comprehensive",
+    "url": "https://www.trysalient.com/case-studies/westlake.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "today, we should improve with AI. Salient has shown us this is",
+    "url": "https://www.trysalient.com/case-studies/westlake.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "borrowers in the non-prime segment, managing more than $6 billion in assets.",
+    "url": "https://www.trysalient.com/case-studies/aca.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "was chosen for its innovative approach and proven success with other enterprise lenders.",
+    "url": "https://www.trysalient.com/case-studies/aca.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Partnership Approach: Direct collaboration to accelerate",
+    "url": "https://www.trysalient.com/case-studies/aca.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "“It was impressive to see the",
+    "url": "https://www.trysalient.com/case-studies/aca.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Claims take ~50+ days to process on average",
+    "url": "https://www.trysalient.com/case-studies/aca.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "have been impressive. Quickly, their capabilities expanded beyond calls. We",
+    "url": "https://www.trysalient.com/case-studies/aca.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Salient 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/521218-27",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an AI-powered loan servicing platform intended to streamline loan collection, onboarding, and compliance.",
+    "url": "https://pitchbook.com/profiles/company/521218-27",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/521218-27",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/521218-27",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/521218-27",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/521218-27",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/521218-27",
+    "pass": 3
+   },
+   {
+    "quote": "Salient’s primary industry is Financial Software.",
+    "url": "https://pitchbook.com/profiles/company/521218-27",
+    "pass": 3
+   },
+   {
+    "quote": "Is Salient a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/521218-27",
+    "pass": 3
+   },
+   {
+    "quote": "Salient is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/521218-27",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/521218-27",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/521218-27",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/521218-27",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by the leading lenders in America",
+    "url": "https://www.trysalient.com/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Manual agent floors create compounding risk. Every inconsistency in call handling, every FDCPA disclosure missed, every payment arrangement set up outside policy is a potential examination finding or enforcement action. The more agents you have, the more surface area exists for something to go wrong — and the harder it is to detect.",
+    "url": "https://www.trysalient.com/solutions/banks",
+    "pass": 1
+   },
+   {
+    "quote": "Total-loss claims are a defining operational challenge for captive lenders. High vehicle exposure combined with large portfolio volume means significant claims processing load — ACV disputes, GAP filing coordination, titling, and lien release all happening concurrently across carriers and states. Manual handling of this at scale is slow, inconsistent, and leaves money on the table.",
+    "url": "https://www.trysalient.com/solutions/captive",
+    "pass": 1
+   },
+   {
+    "quote": "Specialty and subprime lenders carry higher delinquency rates by design. That means collections operations work harder, contact attempts happen more frequently, and the window between first missed payment and chargeoff is shorter. At high portfolio volumes, manual collections cannot maintain the contact intensity needed to maximize recovery without proportionally growing headcount.",
+    "url": "https://www.trysalient.com/solutions/specialty",
+    "pass": 1
+   },
+   {
+    "quote": "Subprime lending practices attract heightened regulatory scrutiny. CFPB, FTC, and state regulators have consistently focused enforcement attention on subprime auto and personal finance — UDAAP, FDCPA, and state-specific practices are all in scope. Manual agent floors are the highest-risk part of the compliance stack because every deviation from approved scripting or policy creates exposure.",
+    "url": "https://www.trysalient.com/solutions/specialty",
+    "pass": 1
+   },
+   {
+    "quote": "Independent finance companies and regional auto lenders often carry back-office operations that were built for a smaller portfolio than the one they're running today. As books grow, manual processes don't scale — collections throughput plateaus, chargeoffs increase, and compliance oversight becomes impossible to maintain without investing heavily in headcount.",
+    "url": "https://www.trysalient.com/solutions/specialty",
+    "pass": 1
+   },
+   {
+    "quote": "visibility, and turned total loss claims into a revenue center",
+    "url": "https://www.trysalient.com/case-studies/aca.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Part of TheJohnsonGroup",
+    "url": "https://www.trysalient.com/customers/aca.png",
+    "pass": 2
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/521218-27",
+    "pass": 3
+   },
+   {
+    "quote": "Salient has 48 total employees.",
+    "url": "https://pitchbook.com/profiles/company/521218-27",
+    "pass": 3
+   },
+   {
+    "quote": "What is Salient’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/521218-27",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Salient is",
+    "url": "https://pitchbook.com/profiles/company/521218-27",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Omnichannel collections and servicing across voice, SMS, email, and chat.",
+    "url": "https://www.trysalient.com/solutions/banks",
+    "pass": 1
+   },
+   {
+    "quote": "Omnichannel collections and servicing across voice, SMS, email, and chat.",
+    "url": "https://www.trysalient.com/solutions/captive",
+    "pass": 1
+   },
+   {
+    "quote": "Omnichannel collections and servicing across voice, SMS, email, and chat.",
+    "url": "https://www.trysalient.com/solutions/specialty",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/521218-27",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "\"Your dealer network, your OEM relationships, your regulators — all with different requirements.\"",
+    "url": "https://www.trysalient.com/solutions/captive",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Trysalient Careers: Jobs, Salaries & Hiring Info | WhatJobs — Looking for jobs at Trysalient? Browse current openings, salary insights, and company details. Apply today and explore careers with Trysalient on WhatJobs.",
+    "url": "https://www.whatjobs.com/company/trysalient/profile",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Brendan Plunkett (@p1brendan) / Posts / X Brendan Plunkett (@p1brendan) - Posts - building @ trysalient.com | prev @bcg @boost @santaclarauniv | X (formerly Twitter)",
+    "url": "https://x.com/p1brendan",
+    "pass": 3
+   },
+   {
+    "quote": "@trysalient | X The latest posts from @trysalient",
+    "url": "https://x.com/trysalient",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Mukund Tibrewala - Founder @ Salient ($75M a16z, YC) | LinkedInSalient Group | LinkedInSalient CRGT - LinkedInTricia Ewald is named CEO and President of Salient. Over the ...Trysalient.com is an innovative platform that provides ...Smarak Pattnaik - Founding Engineer at Salient | LinkedIn Founder @ Salient ($75M a16z, YC) · Experience: Salient · Education: Y Combinator · Location: San Francisco · ",
+    "url": "https://www.linkedin.com/in/mukundt",
+    "pass": 3
+   },
+   {
+    "quote": "Trysalient.com is an innovative platform that provides ... Trysalient.com is an innovative platform that provides businesses with an AI-powered sales development representative. Salient helps businesses generate leads and set up meetings by using AI to ...",
+    "url": "https://www.linkedin.com/posts/phill-ai_salesboost-effortlesssales-stressfree-activity-7046421237950013440-K5o9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Trysalient.com is an innovative platform that provides ... Trysalient is ideal for businesses that want to streamline their sales development process and increase their sales efforts. The platform’s user-friendly interface and advanced AI technology make it easy for users to generate leads and set up meetings effortlessly.",
+    "url": "https://www.facebook.com/iamnotarobotyet/videos/trysalientcom-is-an-innovative-platform-that-provides-businesses-with-an-ai-powe/125240067076448/",
+    "pass": 3
+   },
+   {
+    "quote": "Salient Lifestyle Center | Elgin IL - FacebookFacebook - log in or sign upStephanie Achieng (@stephanie.achieng.142) - FacebookHave you been thinking about... - Salient Systems Corporation#maklelan3546 So God IS non-binary?! James Talarico (Do not ...Trump TERRIFIED of Consequences, White House SOMBER as ... Oct 28, 2026 · Salient Lifestyle Center, Elgin. 444 followers · 2 talking about this. Our ",
+    "url": "https://www.facebook.com/SalientCenter/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.trysalient.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trysalient.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trysalient.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trysalient.com/solutions/banks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trysalient.com/solutions/captive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trysalient.com/solutions/specialty",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trysalient.com/demo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trysalient.com/support",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.trysalient.com/case-studies/westlake.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.trysalient.com/case-studies/aca.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.trysalient.com/customers/westlake.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.trysalient.com/customers/aca.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.trysalient.com/customers/ally.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.trysalient.com/customers/exeter.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dnb.com/business-directory/company-profiles.salient_japan_limited_liability_company.751df74bb93a90eb486b1ce7737f8926.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/salient-japan-llc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.whatjobs.com/company/trysalient/profile",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/salientjapan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mckinsey.com/about-us/case-studies",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salient.com/case-study-coca-cola-united/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partnerportal.fortinet.com/English/?ReturnUrl=%2FEnglish%2FNAReseller%2Fhome.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/salient/__iSyxFU9hPiN_7zgjygSeGCyQqm-UzATmbX2ec5kVlEI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/salient/jbmbdeplpe9bsxhlx",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/521218-27",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/salient-trysalient-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/p1brendan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/mukundt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/phill-ai_salesboost-effortlesssales-stressfree-activity-7046421237950013440-K5o9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/iamnotarobotyet/videos/trysalientcom-is-an-innovative-platform-that-provides-businesses-with-an-ai-powe/125240067076448/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SalientCenter/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/trysalient",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Trysalient 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Trysalient 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview",
+    "https://trial-holdings.inc/company/officer/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trysalient Japan",
+   "results": [
+    "https://www.dnb.com/business-directory/company-profiles.salient_japan_limited_liability_company.751df74bb93a90eb486b1ce7737f8926.html",
+    "https://www.linkedin.com/company/salient-japan-llc",
+    "https://www.whatjobs.com/company/trysalient/profile",
+    "https://www.facebook.com/salientjapan/",
+    "https://www.salientjapan.com/talent-solution-service",
+    "https://www.trysalient.com/company",
+    "https://www.forbes.com/profile/mukund-tibrewala/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trysalient manufacturing customer case study",
+   "results": [
+    "https://www.mckinsey.com/about-us/case-studies",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.salient.com/case-study-coca-cola-united/",
+    "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "https://www.salesforce.com/in/blog/5-manufacturing-trailblazers-success-stories/",
+    "https://www.trysalient.com/case-studies/aca.pdf",
+    "https://www.trysalient.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trysalient white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://opensrs.com/campaigns/become-a-domain-reseller"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trysalient founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/salient/__iSyxFU9hPiN_7zgjygSeGCyQqm-UzATmbX2ec5kVlEI",
+    "https://www.thecompanycheck.com/company/b/salient/jbmbdeplpe9bsxhlx",
+    "https://pitchbook.com/profiles/company/521218-27",
+    "https://fundediq.co/salient-trysalient-com-funding/",
+    "https://startupintros.com/orgs/salient",
+    "https://www.crunchbase.com/organization/salient",
+    "https://compworth.com/company/trysalient-com"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Trysalient",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Trysalient",
+   "results": [
+    "https://x.com/p1brendan",
+    "https://x.com/SalientHQ",
+    "https://x.com/TheStudyofWar/status/2099005622159065484",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/growapair66/status/2118771368703770698",
+    "https://x.com/buffys/status/2114931049780441163",
+    "https://x.com/noorlanderarjan/status/2117357864058585504"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Trysalient",
+   "results": [
+    "https://www.linkedin.com/in/mukundt",
+    "https://lc.linkedin.com/company/salient-group",
+    "https://www.linkedin.com/company/salient-crgt",
+    "https://www.linkedin.com/posts/phill-ai_salesboost-effortlesssales-stressfree-activity-7046421237950013440-K5o9",
+    "https://www.linkedin.com/in/smarakpattnaik",
+    "https://www.linkedin.com/company/salientai",
+    "https://www.linkedin.com/posts/salient-global_tricia-ewald-is-named-ceo-and-president-of-activity-7132456988071862272-6WnQ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Trysalient",
+   "results": [
+    "https://www.facebook.com/iamnotarobotyet/videos/trysalientcom-is-an-innovative-platform-that-provides-businesses-with-an-ai-powe/125240067076448/",
+    "https://www.facebook.com/SalientCenter/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/stephanie.achieng.142/",
+    "https://www.facebook.com/salientsys/posts/have-you-been-thinking-about-a-video-surveillance-upgrade-did-you-know-you-can-t/1132765143493004/",
+    "https://www.facebook.com/daniel.o.mcclellan/videos/maklelan3546-so-god-is-non-binary-james-talarico-do-not-harass-or-report-this-cr/1605428204041634/",
+    "https://www.facebook.com/61587457786932/videos/1139586438650064/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trysalient note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/saiyou_dekirukun/all",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://www.trysalient.com/",
+    "https://www.forbes.com/profile/mukund-tibrewala/",
+    "https://tracxn.com/d/companies/salient/__iSyxFU9hPiN_7zgjygSeGCyQqm-UzATmbX2ec5kVlEI"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trysalient X 投稿",
+   "results": [
+    "https://x.com/trysalient",
+    "https://www.trysalient.com/",
+    "https://tracxn.com/d/companies/salient/__iSyxFU9hPiN_7zgjygSeGCyQqm-UzATmbX2ec5kVlEI",
+    "https://growthseed.jp/experts/sns/twitter-thread/",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://tinsalo0425.com/magazine/x-reserve-post-smartphone/",
+    "https://nakamayu2.com/twitterx/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式8頁／PDF・画像6件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像6件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像6件／外部26頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式8頁／PDF・画像6件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式8頁／PDF・画像6件／外部26頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式8頁／PDF・画像6件／外部26頁・検索12回）"
+ }
+}

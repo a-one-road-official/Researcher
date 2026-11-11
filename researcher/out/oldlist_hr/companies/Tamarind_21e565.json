@@ -1,0 +1,1516 @@
+{
+ "name": "Tamarind",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜未接触",
+ "researched_at": "2026-11-11T06:51:39.820552+00:00",
+ "official_url": "https://www.tamarind.bio",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/tamarind-bio-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$500,000",
+    "url": "https://prospeo.io/c/tamarind-bio-revenue",
+    "pass": 3
+   },
+   {
+    "label": "3. Seed Round",
+    "value": "04-Mar-2024    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/551388-61",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, California, United States",
+    "url": "https://prospeo.io/c/tamarind-bio-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Design improved variants, de novo binders, and novel molecules. Use state of the art AI and physics based methods, no setup required.",
+    "url": "https://www.tamarind.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Design and optimize nanobodies, antibodies, and mini proteins",
+    "url": "https://www.tamarind.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Predict the structures of immune proteins at",
+    "url": "https://www.tamarind.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Predict binding poses of antibody-antigen complexes",
+    "url": "https://www.tamarind.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize and predict sequences for",
+    "url": "https://www.tamarind.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Use the best protein engineering tools including AlphaFold, RFdiffusion, MPNN, and GROMACS. No literature review or deployment needed",
+    "url": "https://www.tamarind.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Boltz Prot-1",
+    "url": "https://www.tamarind.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "COMPSS Protein Metrics",
+    "url": "https://www.tamarind.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Fine-Tune Protein Language Model",
+    "url": "https://www.tamarind.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "PLM Crystallization Prediction",
+    "url": "https://www.tamarind.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODIGY (PROtein binDIng enerGY)",
+    "url": "https://www.tamarind.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Profluent E1",
+    "url": "https://www.tamarind.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "RFD4-Proteina",
+    "url": "https://www.tamarind.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "TAP2 (Therapeutic Antibody Profiling)",
+    "url": "https://www.tamarind.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "TNP (Therapeutic Nanobody Profiler)",
+    "url": "https://www.tamarind.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Run the leading machine learning tools through our simple web interface or programmatic API",
+    "url": "https://www.tamarind.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Encryption with enterprise-grade security practices, trusted by dozens of life sciences companies",
+    "url": "https://www.tamarind.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "You own your inputs and their derivatives, we provide the software",
+    "url": "https://www.tamarind.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing | Discover Our Commercial Use Plans",
+    "url": "https://www.tamarind.bio/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial Pricing Plans",
+    "url": "https://www.tamarind.bio/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For academics, individual scientists & those wanting to try running industry leading models without proprietary data.",
+    "url": "https://www.tamarind.bio/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For companies with small-medium throughput workloads, expanding their computational tooling.",
+    "url": "https://www.tamarind.bio/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Rigorous, Proprietary Data Security",
+    "url": "https://www.tamarind.bio/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "High Priority Support",
+    "url": "https://www.tamarind.bio/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For companies with high throughput computational workloads, looking to host their own models with enterprise-ready software.",
+    "url": "https://www.tamarind.bio/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Premium, plus:",
+    "url": "https://www.tamarind.bio/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A university, government or non-profit email address",
+    "url": "https://www.tamarind.bio/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "PR・⭐️4.3",
+    "url": "https://kyodorecipe.com/ingredient-guide/tamarind/",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "The tamarind tree produces brown, pod-like",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "The tree grows well in full sun. It prefers",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "The tamarinds of Asia have longer pods (containing six to 12 seeds), whereas African and West Indian varieties have shorter pods (containing one to six seeds). A mature tree may produce up to",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "was published in 2025. The genome size is approximately 809.5 Mb, assembled across 12 pseudochromosomes. The assembly has a BUSCO completeness of 98.8%, and 30,753 protein-coding genes were predicted.",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": ", providing as much as 50 percent of their food resources during the year if available.",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": ", tamarind is used to prepare a traditional beverage known as \"",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "region. The drink is made by boiling tamarind paste in water, sweetening it with sugar, and then straining the mixture. In some variations,",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": ". Syrian Jews prepare tamarind syrup, known as ou or ouc, by soaking, straining, and boiling the fruit pulp with sugar and lemon, using it in dishes such as yebra (stuffed grape leaves), bazargan (bulgur salad),",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "In Sri Lanka, tamarind pulp has been used as a lime alternative, and in Senegal, the pulp is mixed with sugar to produce sweet meats known as 'bengal'.",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "In India, tamarind pulp is made into a juice used in the preservation of fish, and in many countries of East Africa, the pulp is used in the making of a dish called",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "The seeds are commonly used in jellies, marmalades and jams because they contain pectin, which gives them jelly-forming properties, and have been used as a stabilizer to make cheese, ice cream, and mayonnaise.",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "because of their high protein levels.",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "The leaves of the tamarind plant are high in calcium and protein and have been consumed by domestic animals and wild animals, including elephants, as a fodder.",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "material for textile and jute processing, and in the manufacture of industrial gums and adhesives.",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind seeds are used in the production of tamarind kernel powder which is used as a sizing agent in the textile industry because of its ability to absorb water and swell up, in India, tamarind kernel powder has also been used as a sizing agent in the production of cotton.",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "In Bengal, tamarind seeds are used in the production of an oil used in varnishes.",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "applied to the foreheads of people with fevers.",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "are used to treat skin problems, like rashes and irritation; one traditional practice indicated tamarind could be ingested after dilution for use as an",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "In the northern parts of Nigeria, the roots of the tamarind plant are thought to be useful for treating leprosy, and in America, tamarind pulp is considered in folk medicine to be a laxative and used for alleviating sunstroke and sore throats.",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": ". Due to its density and interlocked grain, tamarind is considered difficult to work. Heartwood has a pronounced blunting effect on cutting edges. Tamarind turns, glues, and finishes well. The heartwood is able to take a high natural polish.",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "properties taking up less amount of salt used in drying them than ordinary processing.",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "are present in the leaf",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "it has the potential to improve nutrition, boost food security, foster rural development, and support sustainable land care.",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": ". Extensive tamarind orchards in India produced",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "Just when you thought this elusive ingredient had been demystified, enter all its variations: puree, paste, pulp and powder forms of tamarind (try saying that five times fast!). And which one you choose can mean a different preparation or quantity used.",
+    "url": "https://www.marionskitchen.com/article/what-is-tamarind-explainer-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind puree is probably the most common form of the fruit found in mainstream supermarkets. Rather than being a jar of intense concentrate, tamarind puree has a much thinner consistency and is usually ready to add to dishes without diluting with water first.",
+    "url": "https://www.marionskitchen.com/article/what-is-tamarind-explainer-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Southern Thai Tamarind Prawns",
+    "url": "https://www.marionskitchen.com/article/what-is-tamarind-explainer-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Korat Prawn Noodles (Pad Mee Korat Goong)",
+    "url": "https://www.marionskitchen.com/article/what-is-tamarind-explainer-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Detailed project report on tamarind based project reports (7 feasibility studies on tamarind) - Detailed Project Report (DPR) for Bank Loan | Manufacturing Business Idea | Cost Analysis | EIRI | EIRI Consultancy",
+    "url": "https://www.eiriindia.org/project-report-handbook-feasibility-study-tamarind-with-formulation-technology-7557",
+    "pass": 3
+   },
+   {
+    "quote": "Detailed Project Report (DPR) on Tamarind based Project Reports (7 Feasibility Studies on Tamarind)",
+    "url": "https://www.eiriindia.org/project-report-handbook-feasibility-study-tamarind-with-formulation-technology-7557",
+    "pass": 3
+   },
+   {
+    "quote": "Translation provided by Google AI",
+    "url": "https://www.eiriindia.org/project-report-handbook-feasibility-study-tamarind-with-formulation-technology-7557",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Encryption with enterprise-grade security practices, trusted by dozens of life sciences companies",
+    "url": "https://www.tamarind.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "BG Plants 和名−学名インデックス（YList）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "This article is about the tropical plant. For the South American monkey, see",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind pulp is the most common part of the tamarind plant used in",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "The leaves of the tamarind plant are high in calcium and protein and have been consumed by domestic animals and wild animals, including elephants, as a fodder.",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "material for textile and jute processing, and in the manufacture of industrial gums and adhesives.",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "Different parts of the tamarind plant have been used globally for other purposes in folk medicine.",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "In the northern parts of Nigeria, the roots of the tamarind plant are thought to be useful for treating leprosy, and in America, tamarind pulp is considered in folk medicine to be a laxative and used for alleviating sunstroke and sore throats.",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind is a traditional food plant in Africa. Although not grown on a large-scale commercial basis,",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "Thailand has the largest plantations of the",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "Throughout South Asia and the tropical world, tamarind trees are used as ornamental and garden plantings. Commonly used as a",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "CRC World Dictionary of Medicinal and Poisonous Plants: Common Names, Scientific Names, Eponyms, Synonyms, and Etymology",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": ". New Crop Resource Online Program, Center for New Crops & Plant Products,",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "De nuttige planten van Nederlandsch-Indië, tevens synthetische catalogus der verzamelingen van het Museum voor Technischeen Handelsbotanie te Buitenzorg",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "The Complete Guide to Edible Wild Plants",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "Edible Medicinal and Non-Medicinal Plants",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "in Brunken, U., Schmidt, M., Dressler, S., Janssen, T., Thiombiano, A. & Zizka, G. 2008. West African plants – A Photo Guide.",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "Plants described in 1753",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "Plants with compound leaves",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "Detailed project report on tamarind based project reports (7 feasibility studies on tamarind) - Detailed Project Report (DPR) for Bank Loan | Manufacturing Business Idea | Cost Analysis | EIRI | EIRI Consultancy",
+    "url": "https://www.eiriindia.org/project-report-handbook-feasibility-study-tamarind-with-formulation-technology-7557",
+    "pass": 3
+   },
+   {
+    "quote": "expert industrial consultants",
+    "url": "https://www.eiriindia.org/project-report-handbook-feasibility-study-tamarind-with-formulation-technology-7557",
+    "pass": 3
+   },
+   {
+    "quote": "Present Market Position and Expected Future Demand, Technology, Manufacturing Process, Investment Opportunity, Plant Economics and Project Financials.",
+    "url": "https://www.eiriindia.org/project-report-handbook-feasibility-study-tamarind-with-formulation-technology-7557",
+    "pass": 3
+   },
+   {
+    "quote": "Plant Capacity, requirement of Land & Building, Plant & Machinery, Flow Sheet Diagram, Raw Materials detail with suppliers list, Total Capital Investment along with detailed calculation on Rate of Return, Break-Even Analysis and Profitability Analysis",
+    "url": "https://www.eiriindia.org/project-report-handbook-feasibility-study-tamarind-with-formulation-technology-7557",
+    "pass": 3
+   },
+   {
+    "quote": "Ready to Start Your Industrial Business?",
+    "url": "https://www.eiriindia.org/project-report-handbook-feasibility-study-tamarind-with-formulation-technology-7557",
+    "pass": 3
+   },
+   {
+    "quote": "Speak with our experts and get personalized guidance for your manufacturing business idea, project planning, machinery selection, and investment strategy.",
+    "url": "https://www.eiriindia.org/project-report-handbook-feasibility-study-tamarind-with-formulation-technology-7557",
+    "pass": 3
+   },
+   {
+    "quote": "Fill in your details to receive a sample industrial project report and explore how our consultancy can help you plan your business professionally.",
+    "url": "https://www.eiriindia.org/project-report-handbook-feasibility-study-tamarind-with-formulation-technology-7557",
+    "pass": 3
+   },
+   {
+    "quote": "By submitting this form, you agree to receive communication from our consultancy team regarding industrial project reports and business consultancy services.",
+    "url": "https://www.eiriindia.org/project-report-handbook-feasibility-study-tamarind-with-formulation-technology-7557",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Tamarind Terrace",
+    "url": "https://www.casestudies.com/customer/tamarind-terrace",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind Terrace - Customer Case Study",
+    "url": "https://www.casestudies.com/customer/tamarind-terrace",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind Pulp from Tamarind - Manufacturing Plant, Detailed Project Report, Profile, Business Plan, Industry Trends, Market Research, Survey, Manufacturing Process, Machinery, Raw Materials, Feasibility Study, Investment Opportunities, Cost and Revenue",
+    "url": "https://www.entrepreneurindia.co/project-details/tamarind-pulp-from-tamarind-manufacturing-plant-detailed-project-report-profile-business-plan-industry-trends-market-research-survey-manufacturing-process-machinery-raw-materials-feasibility-study-investment-opportunities-cost-and-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "is a reliable name in the industrial world for offering integrated technical consultancy services. NPCS is manned by engineers, planners, specialists, financial experts, economic analysts and design specialists with extensive experience in the related industries.",
+    "url": "https://www.entrepreneurindia.co/project-details/tamarind-pulp-from-tamarind-manufacturing-plant-detailed-project-report-profile-business-plan-industry-trends-market-research-survey-manufacturing-process-machinery-raw-materials-feasibility-study-investment-opportunities-cost-and-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "This report helps you understand the viability of the project by disclosing details like raw materials required, manufacturing process, project costs and snapshot of other project financials.",
+    "url": "https://www.entrepreneurindia.co/project-details/tamarind-pulp-from-tamarind-manufacturing-plant-detailed-project-report-profile-business-plan-industry-trends-market-research-survey-manufacturing-process-machinery-raw-materials-feasibility-study-investment-opportunities-cost-and-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "List of Suppliers and Manufacturers",
+    "url": "https://www.entrepreneurindia.co/project-details/tamarind-pulp-from-tamarind-manufacturing-plant-detailed-project-report-profile-business-plan-industry-trends-market-research-survey-manufacturing-process-machinery-raw-materials-feasibility-study-investment-opportunities-cost-and-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "List of Plant & Machinery",
+    "url": "https://www.entrepreneurindia.co/project-details/tamarind-pulp-from-tamarind-manufacturing-plant-detailed-project-report-profile-business-plan-industry-trends-market-research-survey-manufacturing-process-machinery-raw-materials-feasibility-study-investment-opportunities-cost-and-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Sources of Plant & Machinery (Suppliers and Manufacturers)",
+    "url": "https://www.entrepreneurindia.co/project-details/tamarind-pulp-from-tamarind-manufacturing-plant-detailed-project-report-profile-business-plan-industry-trends-market-research-survey-manufacturing-process-machinery-raw-materials-feasibility-study-investment-opportunities-cost-and-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Process and Formulations",
+    "url": "https://www.entrepreneurindia.co/project-details/tamarind-pulp-from-tamarind-manufacturing-plant-detailed-project-report-profile-business-plan-industry-trends-market-research-survey-manufacturing-process-machinery-raw-materials-feasibility-study-investment-opportunities-cost-and-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Plant Layout and Requirement of Utilities",
+    "url": "https://www.entrepreneurindia.co/project-details/tamarind-pulp-from-tamarind-manufacturing-plant-detailed-project-report-profile-business-plan-industry-trends-market-research-survey-manufacturing-process-machinery-raw-materials-feasibility-study-investment-opportunities-cost-and-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Factory Land & Building",
+    "url": "https://www.entrepreneurindia.co/project-details/tamarind-pulp-from-tamarind-manufacturing-plant-detailed-project-report-profile-business-plan-industry-trends-market-research-survey-manufacturing-process-machinery-raw-materials-feasibility-study-investment-opportunities-cost-and-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Food and Beverage Manufacturing",
+    "url": "https://prospeo.io/c/tamarind-heads-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "A university, government or non-profit email address",
+    "url": "https://www.tamarind.bio/pricing",
+    "pass": 1
+   },
+   {
+    "quote": ", contact us today.",
+    "url": "https://www.eiriindia.org/project-report-handbook-feasibility-study-tamarind-with-formulation-technology-7557",
+    "pass": 3
+   },
+   {
+    "quote": "happen together-contact us now!",
+    "url": "https://www.entrepreneurindia.co/project-details/tamarind-pulp-from-tamarind-manufacturing-plant-detailed-project-report-profile-business-plan-industry-trends-market-research-survey-manufacturing-process-machinery-raw-materials-feasibility-study-investment-opportunities-cost-and-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/tamarind-heads-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/tamarind-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/551388-61",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "瀧井康勝『366日 誕生花の本』日本ヴォーグ社、1990年11月30日、232頁",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "｜旬のもの｜暦生活｜日本の季節を楽しむ暮らし",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、タマリンドの基本から形態別の使い方、代用品、日本での入手方法まで、まとめて解説する",
+    "url": "https://kyodorecipe.com/ingredient-guide/tamarind/",
+    "pass": 3
+   },
+   {
+    "quote": "東京の新大久保・上野アメ横・池袋のアジア系スーパーにはペーストまたはブロックが置いてあることが多い",
+    "url": "https://kyodorecipe.com/ingredient-guide/tamarind/",
+    "pass": 3
+   },
+   {
+    "quote": "日本でも買える「タマリンド」は、東南アジア秘伝の調味料｜山下智道のハーブ&スパイス紀行",
+    "url": "https://tennenseikatsu.jp/_ct/17669861",
+    "pass": 3
+   },
+   {
+    "quote": "日本でも通販などで入手できるので、ぜひ料理に加えて本場の味を楽しんでみてくださいね！",
+    "url": "https://tennenseikatsu.jp/_ct/17669861",
+    "pass": 3
+   },
+   {
+    "quote": "日本でも少し前にパクチー（Coriandrum sativum）が流行り、そのあと台湾のタピオカがブームになったように、カフェやレストランで使われる薬草もブームと共に移り変わりが激しくなっています",
+    "url": "https://tennenseikatsu.jp/_ct/17669861",
+    "pass": 3
+   },
+   {
+    "quote": "それは、日本ではあまり感じない「甘～いからの酸っぱい」という印象的な味",
+    "url": "https://tennenseikatsu.jp/_ct/17669861",
+    "pass": 3
+   },
+   {
+    "quote": "日本の植物に例えると、ネムノキ（Albizia julibrissinDurazz.）のような葉をしています",
+    "url": "https://tennenseikatsu.jp/_ct/17669861",
+    "pass": 3
+   },
+   {
+    "quote": "MAKO Japanese Steel Knives",
+    "url": "https://www.marionskitchen.com/article/what-is-tamarind-explainer-guide/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "タマリンド - Wikipedia — その他の用法については「タマリンド (曖昧さ回避)」をご覧ください。 ... タマリンド （答満林度 [1][2] 、羅望子 [2] 、 英: tamarind 、 学名: Tamarindus indica[3]）は、 マメ科 [注 1] タマリンド属の 常緑 高木。 古くは、エチオピアからインドに渡来した。",
+    "url": "https://ja.wikipedia.org/wiki/タマリンド",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind - Wikipedia — Tamarind (Tamarindus indica) is a leguminous tree bearing edible fruit that is indigenous to tropical Africa and naturalized in Asia. [6][7] The genus Tamarindus is monotypic, meaning that it contains only this species. It belongs to the family Fabaceae. [2]",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "タマリンド - Wikipedia — タマリンド （答満林度 [1][2] 、羅望子 [2] 、 英: tamarind 、 学名: Tamarindus indica[3]）は、 マメ科 [注 1] タマリンド属の 常緑 高木。 古くは、エチオピアからインドに渡来した。 ヘブライ語の「タマール」（なつめやしの意味）と「インド」から、タマリンドと名付けられた [4]。 別名、 チョウセンモダマ （朝鮮藻玉） [5]。 リンネ の『植物の種』 (1753年) で記載された植物種の一つである [6]。 属名は アラビア語 で「インドの ナツメヤシ （デーツ）」を意味する「タムル・ヒンディー」（تمر هندي, tamr hindī）由来する。",
+    "url": "https://ja.wikipedia.org/wiki/タマリンド",
+    "pass": 3
+   },
+   {
+    "quote": "TAMARIND – New Kannan Store — Tamarind are cleaned, deseeded, and ready to use! Perfect for sambar, rasam, chutneys, curries, and traditional recipes.",
+    "url": "https://kannanstorejapan.com/collections/tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "What IS tamarind? Ultimate explainer guide | Marion's Kitchen — Tamarind is a pod-like fruit that is thought to be native to Africa and is found readily across the tropical regions of southeast Asia. The mature pods that grow on the tamarind tree contain the pulpy, dark coloured flesh of the fruit, which adds a tangy and tart flavour to many savoury Asian dishes.",
+    "url": "https://www.marionskitchen.com/article/what-is-tamarind-explainer-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Seedless Tamarind 400g | Premium Quality Imli for Cooking ... — Buy Premium Seedless Tamarind 400g online at Kannan Store Japan. Perfect for South Indian, North Indian, and Asian cooking. Fresh, seedless, and convenient with fast delivery across Japan.",
+    "url": "https://kannanstorejapan.com/products/seedless-tamarind-400g",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind Seed Protein Isolate (TSPI) Case Study | Mechotech — The Tamarind Seed Protein Isolate Manufacturing Plant from MECH O TECH LLP provides a complete turnkey solution for producing premium tamarind seed protein ingredients, Tamarind Seed Polysaccharide (TSP), Tamarind Kernel Powder, dietary fiber, and specialty functional ingredients.",
+    "url": "https://mechotechglobal.com/case-studies/tamarind-seed-protein-isolate-manufacturing-plant",
+    "pass": 3
+   },
+   {
+    "quote": "Detailed Project Report (DPR) on Tamarind based Project ...B2B Case Studies Featuring Tamarind Terrace as the CustomerCase Studies – TamarindTamarind Pulp from Tamarind - Manufacturing Plant, Detailed ...Project Report for Tamarind Powder Manufacturing Business ...Tamarind Pulp Processing. Tamarind (Tamarindus Indica ... — Need Customized Project Report? Ask for FREE project related details with o",
+    "url": "https://www.eiriindia.org/project-report-handbook-feasibility-study-tamarind-with-formulation-technology-7557",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies Featuring Tamarind Terrace as the Customer — Explore case studies featuring Tamarind Terrace as the customer — learn how vendors and partners helped Tamarind Terrace solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/tamarind-terrace",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind Pulp from Tamarind - Manufacturing Plant, Detailed ... — This report helps you understand the viability of the project by disclosing details like raw materials required, manufacturing process, project costs and snapshot of other project financials.",
+    "url": "https://www.entrepreneurindia.co/project-details/tamarind-pulp-from-tamarind-manufacturing-plant-detailed-project-report-profile-business-plan-industry-trends-market-research-survey-manufacturing-process-machinery-raw-materials-feasibility-study-investment-opportunities-cost-and-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Project Report for Tamarind Powder Manufacturing Business ... — This project report for tamarind powder guides small business owners by explaining costs, market chances, and profits, making it easier to launch a tamarind powder factory.",
+    "url": "https://www.finline.in/project-report/tamarind-powder",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind Heads Revenue, Funding & Valuation - prospeo.io — It took 5 years of R&D to create a proprietary process unlike any other that allows us to go straight from tamarind pod to bottle – no processed pastes, concentrates, additives or corn syrup.",
+    "url": "https://prospeo.io/c/tamarind-heads-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind Bio Revenue, Funding & Valuation - prospeo.io — Tamarind Bio has revenue of $598,885, estimated valuation of $2,000,000, $500,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/tamarind-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind Bio 2026 Company Profile: Valuation, Funding ...Tamarind Bio - 2026 Company Profile, Team, Funding ... - TracxnTamarind Restaurant: Revenue, Worth, Valuation & Competitors 2026Tamarind Bio Revenue 2025: $440K Est. - getlatka.comHow Tamarind Bio hit $440K revenue with a 4 person team in 2025. — Information on valuation, funding, cap tables, investors, and executives for Tamarind Bio. Use t",
+    "url": "https://pitchbook.com/profiles/company/551388-61",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind Bio - 2026 Company Profile, Team, Funding ... - TracxnTamarind Restaurant: Revenue, Worth, Valuation & Competitors 2026Tamarind Bio Revenue 2025: $440K Est. - getlatka.comHow Tamarind Bio hit $440K revenue with a 4 person team in 2025. — Oct 20, 2026 · Explore Tamarind Bio's in-depth company profile, including funding details, key investors, leadership, and competitors. Discover Tamarind ",
+    "url": "https://tracxn.com/d/companies/tamarind-bio/__khvTznAHBKzH5c1BBw_ZzxI8Xko-2qblINZ_OpHW178",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind Restaurant: Revenue, Worth, Valuation & Competitors 2026 — Discover Tamarind Restaurant's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/tamarind-restaurant",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "leaves are alternately arranged and",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind pulp is the most common part of the tamarind plant used in",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "are added to enhance its flavor. Street vendors play a significant role in distributing this beverage, carrying large copper pots filled with the juice on their backs. They typically arrange numerous cups around their waist to conveniently serve the drink to passersby in the streets.",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": ". The symptoms—which may include vomiting or diarrhea within 6–12 hours of ingestion, lethargy, or dehydration—and proposed mechanism (via",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "Stallings VA, Harrison M, Oria M, eds. (2019). \"Potassium: Dietary Reference Intakes for Adequacy\".",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "pass": 3
+   },
+   {
+    "quote": "An array of graphics, BEP analysis of major industry segments",
+    "url": "https://www.eiriindia.org/project-report-handbook-feasibility-study-tamarind-with-formulation-technology-7557",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind Pulp from Tamarind - Manufacturing Plant, Detailed Project Report, Profile, Business Plan, Industry Trends, Market Research, Survey, Manufacturing Process, Machinery, Raw Materials, Feasibility Study, Investment Opportunities, Cost and Revenue",
+    "url": "https://www.entrepreneurindia.co/project-details/tamarind-pulp-from-tamarind-manufacturing-plant-detailed-project-report-profile-business-plan-industry-trends-market-research-survey-manufacturing-process-machinery-raw-materials-feasibility-study-investment-opportunities-cost-and-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue/Income/Realisation",
+    "url": "https://www.entrepreneurindia.co/project-details/tamarind-pulp-from-tamarind-manufacturing-plant-detailed-project-report-profile-business-plan-industry-trends-market-research-survey-manufacturing-process-machinery-raw-materials-feasibility-study-investment-opportunities-cost-and-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Total Revenue/Income/Realisation",
+    "url": "https://www.entrepreneurindia.co/project-details/tamarind-pulp-from-tamarind-manufacturing-plant-detailed-project-report-profile-business-plan-industry-trends-market-research-survey-manufacturing-process-machinery-raw-materials-feasibility-study-investment-opportunities-cost-and-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Expected Sales/ Revenue/ Income of Products/ Services/ Items",
+    "url": "https://www.entrepreneurindia.co/project-details/tamarind-pulp-from-tamarind-manufacturing-plant-detailed-project-report-profile-business-plan-industry-trends-market-research-survey-manufacturing-process-machinery-raw-materials-feasibility-study-investment-opportunities-cost-and-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Annexure 21 :: Employees Expenses",
+    "url": "https://www.entrepreneurindia.co/project-details/tamarind-pulp-from-tamarind-manufacturing-plant-detailed-project-report-profile-business-plan-industry-trends-market-research-survey-manufacturing-process-machinery-raw-materials-feasibility-study-investment-opportunities-cost-and-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind Heads Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/tamarind-heads-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind Heads Revenue",
+    "url": "https://prospeo.io/c/tamarind-heads-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Tamarind Heads",
+    "url": "https://prospeo.io/c/tamarind-heads-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/tamarind-heads-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/tamarind-heads-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/tamarind-heads-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Tamarind Heads?",
+    "url": "https://prospeo.io/c/tamarind-heads-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind Heads generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/tamarind-heads-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/tamarind-heads-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/tamarind-heads-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Tamarind Heads have?",
+    "url": "https://prospeo.io/c/tamarind-heads-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/tamarind-heads-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind Bio Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/tamarind-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Tamarind Bio",
+    "url": "https://prospeo.io/c/tamarind-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/tamarind-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/tamarind-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/tamarind-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Carrosseries Groupe Salsa",
+    "url": "https://prospeo.io/c/tamarind-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Tamarind Bio?",
+    "url": "https://prospeo.io/c/tamarind-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind Bio generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/tamarind-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/tamarind-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/tamarind-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Tamarind Bio have?",
+    "url": "https://prospeo.io/c/tamarind-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/tamarind-bio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/551388-61",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind Bio has 21 total employees.",
+    "url": "https://pitchbook.com/profiles/company/551388-61",
+    "pass": 3
+   },
+   {
+    "quote": "What is Tamarind Bio’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/551388-61",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Tamarind Bio is",
+    "url": "https://pitchbook.com/profiles/company/551388-61",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【マレーシア・ペナン不動産】The Tamarind（タマリンド）｜学校アク... Mar 7, 2026 · 今回は、タマリンドについてご紹介していきたいと思います。 Tamarind（タマリンド）は、ペナンの タンジュン・トコン（Tanjung Tokong） に位置するコンドミニアムで、2019年に完成した比較的新しい物件です。",
+    "url": "https://note.com/malaysiaedu4u/n/n24e09558e0e3",
+    "pass": 3
+   },
+   {
+    "quote": "みな.Chai_旅とアーユルヴェーダ｜note アーユルヴェーダに出会って人生最高潮の健康体に 会社員を卒業し、スリランカにある素晴らしいリゾート、タマリンドツリー ガーデン アーユルヴェーダリゾートの公式日本パートナーに。 https://www.tamarind-ayurveda.com/ 元SPA CEYLON GM。",
+    "url": "https://note.com/mina27",
+    "pass": 3
+   },
+   {
+    "quote": "アキレス天丼｜Tamarind - note（ノート） Oct 9, 2025 · 先日アキレス腱を切った。 毎日ジムのトレッドミルで走るのが日課で、負荷なしでずっと走り続けて2年間。最早ルーティンになっていて何もキツくない。これでは運動の意味が無いから少し負荷を上げてみようと。 といっても、速度は変えず傾斜4度ぐらいで辛くもなんともなかったのだけど ...",
+    "url": "https://note.com/dot_mizutama/n/n9b0d2e68e926",
+    "pass": 3
+   },
+   {
+    "quote": "[Sri Lanka Ayurveda Experience Report] Daily Schedule ... I will introduce the daily schedule at the Sri Lankan Ayurveda facility, \"Tamarind Tree Garden Resort.\" Based on my actual stay, I have summarized the details, including meals, doctor consultations, treatment times, and how to spend time after treatments. During this trip, I stayed at the Ayurve",
+    "url": "https://note.com/cocoroyojo/n/n0d56329a57ce?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【マレーシア・ペナン不動産】The Tamarind（タマリンド）｜学校アクセスと生活利便性が魅力の人気物件｜MALAYSIA EDU4U",
+    "url": "https://note.com/malaysiaedu4u/n/n24e09558e0e3",
+    "pass": 3
+   },
+   {
+    "quote": "【マレーシア・ペナン不動産】The Tamarind（タマリンド）｜学校アクセスと生活利便性が魅力の人気物件",
+    "url": "https://note.com/malaysiaedu4u/n/n24e09558e0e3",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは。マレーシア、ペナンのインター校最新情報をお届けするMalaysiaEdu4Uです！",
+    "url": "https://note.com/malaysiaedu4u/n/n24e09558e0e3",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、タマリンドについてご紹介していきたいと思います。",
+    "url": "https://note.com/malaysiaedu4u/n/n24e09558e0e3",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind（タマリンド）は、ペナンの",
+    "url": "https://note.com/malaysiaedu4u/n/n24e09558e0e3",
+    "pass": 3
+   },
+   {
+    "quote": "タンジュン・トコン（Tanjung Tokong）",
+    "url": "https://note.com/malaysiaedu4u/n/n24e09558e0e3",
+    "pass": 3
+   },
+   {
+    "quote": "各タワー552ユニット、合計1,047世帯",
+    "url": "https://note.com/malaysiaedu4u/n/n24e09558e0e3",
+    "pass": 3
+   },
+   {
+    "quote": "家賃は、主に以下のような条件によって変わります。",
+    "url": "https://note.com/malaysiaedu4u/n/n24e09558e0e3",
+    "pass": 3
+   },
+   {
+    "quote": "毎日ジムのトレッドミルで走るのが日課で、負荷なしでずっと走り続けて2年間。最早ルーティンになっていて何もキツくない。これでは運動の意味が無いから少し負荷を上げてみようと。",
+    "url": "https://note.com/dot_mizutama/n/n9b0d2e68e926",
+    "pass": 3
+   },
+   {
+    "quote": "といっても、速度は変えず傾斜4度ぐらいで辛くもなんともなかったのだけど、足は知らず知らずのうちに辛かったのだろう。",
+    "url": "https://note.com/dot_mizutama/n/n9b0d2e68e926",
+    "pass": 3
+   },
+   {
+    "quote": "切れる前日から両足に筋肉痛のような痛みがあって、ちょっと走りすぎたかなと自省した。それでもストレッチして休めば翌々日ぐらいには痛みも引いてるだろうと思っていた。",
+    "url": "https://note.com/dot_mizutama/n/n9b0d2e68e926",
+    "pass": 3
+   },
+   {
+    "quote": "ところが、夜中に急に痛み出す右足。朝には引き摺ってしか歩けない。これはまずい。朝イチで病院へ。",
+    "url": "https://note.com/dot_mizutama/n/n9b0d2e68e926",
+    "pass": 3
+   },
+   {
+    "quote": "病院でトンプソンテストされ、右足が全く反応しないので診断確定。左足は大丈夫そう。というか左足まで切れていたら泣く。",
+    "url": "https://note.com/dot_mizutama/n/n9b0d2e68e926",
+    "pass": 3
+   },
+   {
+    "quote": "お医者さんから書かれた診断名には｢partial tier achilles tendon｣と。天丼。実際発音はテンドンじゃないけど腱はてんどん。一生忘れないと思う。tendon.天丼。天丼かあ…。",
+    "url": "https://note.com/dot_mizutama/n/n9b0d2e68e926",
+    "pass": 3
+   },
+   {
+    "quote": "お医者さんがアキレス腱切れた図解？を楽しそうに書き、写真撮る？と。",
+    "url": "https://note.com/dot_mizutama/n/n9b0d2e68e926",
+    "pass": 3
+   },
+   {
+    "quote": "いや撮らないですよと言ったら、せっかくキレイにできたのに…としょんぼりされ、こちらが悪い事言った気分になり、じゃあ撮りますと言った(※海外の病院なのでおそらく少しノリが軽いのだと思う)",
+    "url": "https://note.com/dot_mizutama/n/n9b0d2e68e926",
+    "pass": 3
+   },
+   {
+    "quote": "[Sri Lanka Ayurveda Experience Report] Daily Schedule @ Tamarind Tree Garden Resort｜Sae | Cocoroyojo",
+    "url": "https://note.com/cocoroyojo/n/n0d56329a57ce?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Sri Lanka Ayurveda Experience Report] Daily Schedule @ Tamarind Tree Garden Resort",
+    "url": "https://note.com/cocoroyojo/n/n0d56329a57ce?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I will introduce the daily schedule at the Sri Lankan Ayurveda facility, \"Tamarind Tree Garden Resort.\" Based on my actual stay, I have summarized the details, including meals, doctor consultations, treatment times, and how to spend time after treatments.",
+    "url": "https://note.com/cocoroyojo/n/n0d56329a57ce?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "During this trip, I stayed at the Ayurveda facility",
+    "url": "https://note.com/cocoroyojo/n/n0d56329a57ce?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Tamarind Tree Garden Resort.\"",
+    "url": "https://note.com/cocoroyojo/n/n0d56329a57ce?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". In this article, I will share my thoughts from my actual stay, along with the daily schedule at the facility and how to spend time regarding meals, doctor consultations, and post-treatment periods!",
+    "url": "https://note.com/cocoroyojo/n/n0d56329a57ce?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I hope this will be helpful for those who are considering receiving Ayurveda in Sri Lanka or are curious about life at such a facility.",
+    "url": "https://note.com/cocoroyojo/n/n0d56329a57ce?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. Daily Schedule at Tamarind Tree Garden Resort",
+    "url": "https://note.com/cocoroyojo/n/n0d56329a57ce?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Tamarind Bio (@tamarindbio) / X Tamarind is a interface to the leading molecular AI models such as AlphaFold, used by tens of thousands of scientists + majority of top 20 biopharma",
+    "url": "https://x.com/tamarindbio",
+    "pass": 3
+   },
+   {
+    "quote": "e (@socialtamarind) / X 0 followers · 116 following. Joined Jun 2025. See the latest conversations with @socialtamarind",
+    "url": "https://x.com/socialtamarind",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind (Tam) on X: \"@dank Korean-Lebanese. Wow. I thought ... @dank Korean-Lebanese. Wow. I thought we only saw those combinations in Toronto.",
+    "url": "https://x.com/Tamcomplain/status/2118523617638330809",
+    "pass": 3
+   },
+   {
+    "quote": "tamarind (@tomagoxk5f) / X 0 followers · 0 following. Joined Oct 2026. See the latest conversations with @tomagoxk5f",
+    "url": "https://x.com/tomagoxk5f",
+    "pass": 3
+   },
+   {
+    "quote": "あさみ (@tamarind_house) / X Nov 7, 2022 · また思いついたら投稿しよう～～ 星輝の追加情報はなんぼあってもいいですからね 私個人としては「自炊するのか」と水着の話が聞きたい・・・・！ ！！！ 特に自炊するのかどうかはもう年単位で気になってるのでェ・・・・",
+    "url": "https://x.com/tamarind_house",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tamarind Bio - LinkedIn Tamarind Bio | 11,244 followers on LinkedIn. At Tamarind (https://www.tamarind.bio), we provide web interfaces and APIs for the leading publicly available molecular design tools.",
+    "url": "https://www.linkedin.com/company/tamarind-bio",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind - LinkedIn Tamarind | 1,214 followers on LinkedIn. LinkedIn Ads Agency | Tamarind is a LinkedIn Ads agency. We generate B2B leads from LinkedIn to help grow your sales pipeline and revenue.",
+    "url": "https://www.linkedin.com/company/tamarind-0",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind Smart - Director - First Nations Engagement and ... · Experience: Geoscience Australia · Education: Flinders University · Location: Acton · 401 connections on LinkedIn. View Tamarind Smart’s profile on LinkedIn, a professional community of 1...",
+    "url": "https://au.linkedin.com/in/tamarind-smart-00493920a",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind Management Ltd - LinkedIn Tamarind Management Ltd | 2,126 followers on LinkedIn. Tamarind Management Ltd Founded in 1972, Tamarind Management Ltd owns and operates some of the most successful restaurants and leisure...",
+    "url": "https://ke.linkedin.com/company/tamarind-management-ltd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Tamarind Garden Hotel - FacebookTamarind House Restaurant & Ukulele Bar | PueTamarind | Kathmandu - FacebookTamarind Tribeca | New York NY - FacebookTamarind Fine Dining - Poughkeepsie, NY - FacebookTamarind | Norfolk VA - FacebookTamarind Restaurant | Puerto Galera - Facebook Oct 17, 2026 · เลือกบรรยากาศที่ใช่ได้ที่ Tamarind Garden Rayong จะจัดในห้องแบบเป็นส่วนตัว หรือจัดในสวนท่ามกลางความร่มรื่น ",
+    "url": "https://www.facebook.com/tamarindgarden/",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind House Restaurant & Ukulele Bar | PueTamarind | Kathmandu - FacebookTamarind Tribeca | New York NY - FacebookTamarind Fine Dining - Poughkeepsie, NY - FacebookTamarind | Norfolk VA - FacebookTamarind Restaurant | Puerto Galera - Facebook Oct 21, 2026 · Tamarind House Restaurant & Ukulele Bar Ocean view dining at the iconic Tamarind House and NEW Ukulele Bar. Located in Rarotonga. Aug 4, 20",
+    "url": "https://www.facebook.com/TamarindRaro/",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind | Kathmandu - FacebookTamarind Tribeca | New York NY - FacebookTamarind Fine Dining - Poughkeepsie, NY - FacebookTamarind | Norfolk VA - FacebookTamarind Restaurant | Puerto Galera - Facebook Aug 4, 2026 · Are you ready for a night of pure bliss? 🎶 Join us at Tamarind Restro and Bar for an unforgettable evening of live music, delicious food, and refreshing drinks! 🍽️🍹 The atmosphere is el",
+    "url": "https://www.facebook.com/tamarindrestro/",
+    "pass": 3
+   },
+   {
+    "quote": "Tamarind Tribeca | New York NY - FacebookTamarind Fine Dining - Poughkeepsie, NY - FacebookTamarind | Norfolk VA - FacebookTamarind Restaurant | Puerto Galera - Facebook Our Head Bartender, Milton, introduces the Turmeritini, his signature turmeric-infused cocktail, crafted especially to celebrate Tamarind Tribeca’s 25th Anniversary. 🍸 Watch the video to discover the inspiration behind this vibran",
+    "url": "https://www.facebook.com/tamarindtribecanyc/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tamarind.bio/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tamarind.bio/pricing",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%89",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyodorecipe.com/ingredient-guide/tamarind/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tennenseikatsu.jp/_ct/17669861",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chisou-media.jp/posts/3098",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%89",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kannanstorejapan.com/ja/collections/tamarind",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marionskitchen.com/article/what-is-tamarind-explainer-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mechotechglobal.com/products/protein-extraction-plant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eiriindia.org/project-report-handbook-feasibility-study-tamarind-with-formulation-technology-7557",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/tamarind-terrace",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.entrepreneurindia.co/project-details/tamarind-pulp-from-tamarind-manufacturing-plant-detailed-project-report-profile-business-plan-industry-trends-market-research-survey-manufacturing-process-machinery-raw-materials-feasibility-study-investment-opportunities-cost-and-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/tamarind-heads-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/tamarind-bio-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/551388-61",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/tamarind-bio/__khvTznAHBKzH5c1BBw_ZzxI8Xko-2qblINZ_OpHW178",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/malaysiaedu4u/n/n24e09558e0e3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mina27",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dot_mizutama/n/n9b0d2e68e926",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cocoroyojo/n/n0d56329a57ce?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tamarindbio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/socialtamarind",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Tamcomplain/status/2118523617638330809",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tomagoxk5f",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tamarind-bio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tamarind-0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/in/tamarind-smart-00493920a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ke.linkedin.com/company/tamarind-management-ltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tamarindgarden/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TamarindRaro/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tamarindrestro/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tamarindtribecanyc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tamarindbio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tamarind_house",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tamarind 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/タマリンド",
+    "https://kyodorecipe.com/ingredient-guide/tamarind/",
+    "https://tennenseikatsu.jp/_ct/17669861",
+    "https://chisou-media.jp/posts/3098",
+    "https://jikayosha.jp/2026/06/06/311694/",
+    "https://gourmet-note.jp/posts/4437",
+    "https://feelgoodpal.com/ja/blog/tamarind/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tamarind 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Tamarind Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Tamarind",
+    "https://ja.wikipedia.org/wiki/タマリンド",
+    "https://kannanstorejapan.com/collections/tamarind",
+    "https://www.marionskitchen.com/article/what-is-tamarind-explainer-guide/",
+    "https://kannanstorejapan.com/products/seedless-tamarind-400g",
+    "https://shop.ambikajapan.com/collections/tamarinds",
+    "https://chisou-media.jp/posts/3098"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tamarind manufacturing customer case study",
+   "results": [
+    "https://mechotechglobal.com/case-studies/tamarind-seed-protein-isolate-manufacturing-plant",
+    "https://www.eiriindia.org/project-report-handbook-feasibility-study-tamarind-with-formulation-technology-7557",
+    "https://www.casestudies.com/customer/tamarind-terrace",
+    "https://www.entrepreneurindia.co/project-details/tamarind-pulp-from-tamarind-manufacturing-plant-detailed-project-report-profile-business-plan-industry-trends-market-research-survey-manufacturing-process-machinery-raw-materials-feasibility-study-investment-opportunities-cost-and-revenue",
+    "https://www.finline.in/project-report/tamarind-powder",
+    "https://npcsblog.com/wp-content/uploads/2017/12/tamarind-pulp-processing-tamarind-tamarindus-indica.pdf",
+    "https://www.tamarind.agency/case-studies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tamarind white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.tenable.com/partners/channel-partner-program",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tamarind founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/tamarind-heads-revenue",
+    "https://prospeo.io/c/tamarind-bio-revenue",
+    "https://pitchbook.com/profiles/company/551388-61",
+    "https://tracxn.com/d/companies/tamarind-bio/__khvTznAHBKzH5c1BBw_ZzxI8Xko-2qblINZ_OpHW178",
+    "https://compworth.com/company/tamarind-restaurant",
+    "https://getlatka.com/companies/tamarind.bio",
+    "https://getlatka.com/companies/tamarind.bio/customers"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Tamarind",
+   "results": [
+    "https://note.com/malaysiaedu4u/n/n24e09558e0e3",
+    "https://note.com/mina27",
+    "https://note.com/dot_mizutama/n/n9b0d2e68e926",
+    "https://note.com/cocoroyojo/n/n0d56329a57ce?hl=en",
+    "https://note.com/pien_murmur/n/n301ccc297820",
+    "https://note.com/shindo_com/n/n5de99def413c?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tamarind",
+   "results": [
+    "https://x.com/tamarindbio",
+    "https://x.com/socialtamarind",
+    "https://x.com/Tamcomplain/status/2118523617638330809",
+    "https://x.com/tomagoxk5f",
+    "https://x.com/tamarind8945/status/2118508392301863063",
+    "https://x.com/tamarind8945/status/2114234928959275493",
+    "https://x.com/bittertamarind/status/2103038663823417768"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Tamarind",
+   "results": [
+    "https://www.linkedin.com/company/tamarind-bio",
+    "https://www.linkedin.com/company/tamarind-0",
+    "https://au.linkedin.com/in/tamarind-smart-00493920a",
+    "https://ke.linkedin.com/company/tamarind-management-ltd",
+    "https://au.linkedin.com/in/nic-gambold-2259389b",
+    "https://uk.linkedin.com/in/tamarind-wilson-flint-00b0941",
+    "https://ke.linkedin.com/company/the-tamarind-group"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tamarind",
+   "results": [
+    "https://www.facebook.com/tamarindgarden/",
+    "https://www.facebook.com/TamarindRaro/",
+    "https://www.facebook.com/tamarindrestro/",
+    "https://www.facebook.com/tamarindtribecanyc/",
+    "https://www.facebook.com/thetamarindny/",
+    "https://www.facebook.com/TamarindIndianStreetFood/",
+    "https://www.facebook.com/TamarindRestoBar/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tamarind note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://net.keizaikai.co.jp/archives/2379"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tamarind X 投稿",
+   "results": [
+    "https://x.com/tamarindbio",
+    "https://www.tamarindx.space/",
+    "https://www.patreon.com/cw/tamarind868?l=ja-JP",
+    "https://x.com/tamarind_house",
+    "https://tamarind0.fanbox.cc/posts",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://help.x.com/ja/using-x/edit-post"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部38頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部38頁・検索12回）"
+ }
+}

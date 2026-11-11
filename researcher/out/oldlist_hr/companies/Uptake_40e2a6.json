@@ -1,0 +1,1669 @@
+{
+ "name": "Uptake",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T06:19:57.517133+00:00",
+ "official_url": "https://uptake.com/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "HQ Country",
+    "value": "",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "label": "HQ City",
+    "value": "Edmonton Albuquerque, NM",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$218M",
+    "url": "https://getlatka.com/companies/uptake",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Uptake: Predictive Maintenance",
+    "url": "https://uptake.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your Fleet Can Do More with Predictive Maintenance",
+    "url": "https://uptake.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Uptake powers predictive maintenance",
+    "url": "https://uptake.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From insights to action, we partner with you to boost reliability, cut downtime, and keep your fleet moving. Your fleet holds the data to stay unstoppable. We turn it into intelligence that prevents downtime and powers performance.",
+    "url": "https://uptake.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive analytics with external insights, compatible with major fleets.",
+    "url": "https://uptake.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify problems in real time—without ever touching the vehicle.",
+    "url": "https://uptake.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See risk clearly, prioritize confidently and keep your fleet ready.",
+    "url": "https://uptake.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", bringing together AI-driven predictive maintenance with Bosch’s global expertise in mobility, diagnostics, and telematics. For fleets, this means smarter maintenance decisions, earlier failure detection, and more uptime.",
+    "url": "https://uptake.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re excited about what this next chapter will enable as we scale predictive maintenance to more vehicles and operators around the world.",
+    "url": "https://uptake.com/",
+    "pass": 1
+   },
+   {
+    "quote": "less Roadside Breakdowns",
+    "url": "https://uptake.com/",
+    "pass": 1
+   },
+   {
+    "quote": "At Uptake, we are constantly looking for ways to help Fleet managers be the most information to make the smart decisions. We recently polled fleet managers on their real-world experiences with telematics devices—uncovering the benefits, challenges, and surprising insights that come with adopting this technology.",
+    "url": "https://uptake.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your team with AI-driven insights to reduce maintenance costs, maximize uptime, and improve fuel efficiency. Gain real-time visibility into your fleet’s health, prevent unexpected breakdowns, and drive smarter, more cost-effective operations.",
+    "url": "https://uptake.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance for the Machines That Build.",
+    "url": "https://uptake.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring predictive maintenance to your customers, co-market with us, or earn commission on referrals. We’ll help you build the right partnership.",
+    "url": "https://uptake.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Add software that solves your customers’ most pressing problems, with faster time to value.",
+    "url": "https://uptake.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock value for your customers faster through product partnerships.",
+    "url": "https://uptake.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Embed Uptake’s data science insights in your own product and user interface.",
+    "url": "https://uptake.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive insights in your own product",
+    "url": "https://uptake.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Co-market with Uptake at events, trade shows and in content like blogs and webinars.",
+    "url": "https://uptake.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Shared marketing costs",
+    "url": "https://uptake.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Joint content and events",
+    "url": "https://uptake.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Simple referral process",
+    "url": "https://uptake.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Best for: telematics, TMIS and EAM providers",
+    "url": "https://uptake.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate with Uptake and tap into a growing ecosystem of predictive analytics.",
+    "url": "https://uptake.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Co-branding and co-promotion",
+    "url": "https://uptake.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We’ll agree on goals, the right program and how we’ll work together.",
+    "url": "https://uptake.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Go to market with Uptake’s support, content and partner team behind you.",
+    "url": "https://uptake.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Talk to our partnerships team about affinity, promotion or technology partnerships.",
+    "url": "https://uptake.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Predict and prevent failures with maintenance solutions leveraging advanced AI and machine learning technologies. Reduce unplanned downtime, minimizes maintenance costs, and extend the lifespan of bus components. Predictive maintenance allows for the early detection of potential issues, enabling timely interventions that prevent minor problems from escalating into major failures.",
+    "url": "https://uptake.com/solutions/buses/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize maintenance schedules, reduce breakdowns, and improve overall reliability",
+    "url": "https://uptake.com/solutions/buses/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce the time and investment required for preventative maintenance (PM) failure mode and effects (FMEA) analysis while simultaneously recalibrating PM schedules by incorporating proven-in-use industrial content to enhance existing strategies.",
+    "url": "https://uptake.com/solutions/buses/",
+    "pass": 1
+   },
+   {
+    "quote": "Achieve more timely and precise decision making by identifying near-real-time equipment risk. Extract all information from transactional asset management, engineering design, time-series historians, SCADA systems, and spreadsheets to uncover emerging degradation and abnormal conditions down to the component level.",
+    "url": "https://uptake.com/solutions/buses/",
+    "pass": 1
+   },
+   {
+    "quote": "Use AI to make the most of all captured data, giving a complete view of enterprise assets to improve planning, speed up problem-solving, and ensure safety and compliance.",
+    "url": "https://uptake.com/solutions/buses/",
+    "pass": 1
+   },
+   {
+    "quote": "Uptake: Driving Operational Excellence Through Predictive Maintenance",
+    "url": "https://uptake.com/resource-category/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Driving Operational Excellence Through Predictive Maintenance",
+    "url": "https://uptake.com/resource-category/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Uptake Predictive Maintenance",
+    "url": "https://uptake.com/resource-category/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "We Value Your Privacy",
+    "url": "https://uptake.com/resource-category/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+    "url": "https://uptake.com/resource-category/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://uptake.com/resource-category/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.",
+    "url": "https://uptake.com/resource-category/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance that’s more comprehensive",
+    "url": "https://uptake.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "“Uptake Fleet is simple to use, yet provides so much useful information.”",
+    "url": "https://uptake.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "— Engineering Manager, Private Fleet",
+    "url": "https://uptake.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Our products give you the knowledge you need. Fast.",
+    "url": "https://uptake.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "At Uptake, we help companies translate underutilized data into insights that predict and prevent failures before they happen.",
+    "url": "https://uptake.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We promise to deliver real-time insights easily present streamline results delivered in an ultra-simple UI, so you can make better business decisions that translate to a healthier bottom line.",
+    "url": "https://uptake.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Our products are simpler to use, easier to scale, and faster to return value than other solutions.",
+    "url": "https://uptake.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "with comprehensive diagnostics and recommendations.",
+    "url": "https://uptake.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "by improving asset reliability in your critical infrastructure.",
+    "url": "https://uptake.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "by optimizing performance through fuel efficiency and preventing catastrophic asset failures through predictive analysis.",
+    "url": "https://uptake.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Maintenance",
+    "url": "https://uptake.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Providing intelligence and insight",
+    "url": "https://uptake.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Collecting specific, precise metrics",
+    "url": "https://uptake.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "for both production and maintenance through a centralized cost center.",
+    "url": "https://uptake.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "unlocked by Uptake’s pre-trained predictive models",
+    "url": "https://uptake.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-scale Impact",
+    "url": "https://uptake.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance for Public Fleets: Beyond the Pilot",
+    "url": "https://uptake.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive maintenance for public fleets is moving out of the pilot phase. A recent feature in Modern Public Fleet, “Predictive Maintenance in Use: Beyond the Pilot” by Thi Dao, looks at how the Town of Apex, North Carolina, took predictive maintenance from a test on a few vehicles to a working part of daily shop…",
+    "url": "https://uptake.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance in Use: Beyond the Pilot",
+    "url": "https://uptake.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Uptake builds the predictive maintenance software that keeps trucks, buses and equipment on the road. Join a small team doing work that shows up in the real world, every day.",
+    "url": "https://uptake.com/careers/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by Top Fleets Around the World",
+    "url": "https://uptake.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re excited about what this next chapter will enable as we scale predictive maintenance to more vehicles and operators around the world.",
+    "url": "https://uptake.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With many fleets short on drivers and technicians, vehicle failures are often not addressable in a timely and cost-effective manner. United Road, a leader in heavy-haul transportation services in North America, deployed Uptake Fleet across its fleet to cut maintenance costs and increase driver mileage.",
+    "url": "https://uptake.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce the time and investment required for preventative maintenance (PM) failure mode and effects (FMEA) analysis while simultaneously recalibrating PM schedules by incorporating proven-in-use industrial content to enhance existing strategies.",
+    "url": "https://uptake.com/solutions/buses/",
+    "pass": 1
+   },
+   {
+    "quote": "— Operations Leader, Manufacturer",
+    "url": "https://uptake.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Your work ships quickly and is used by fleets every day, with the backing of Bosch.",
+    "url": "https://uptake.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "See why customers chose Uptake's products and services. Uptake's customers include",
+    "url": "https://www.cbinsights.com/company/uptake-technologies/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Rolls-Royce focuses in power and propulsion solutions across the aerospace, defense, and energy sectors. The company designs and manufactures engines …",
+    "url": "https://www.cbinsights.com/company/uptake-technologies/customers",
+    "pass": 3
+   },
+   {
+    "quote": "We’ve been applying analytics as a key part of our TotalCare® services strategy for many years and are always looking to advance our digital approach to improve the quality and value of our services...With industrial AI and machine learning techniques, we can increase the uptime of our engines and help customers extend the life and value of their critical assets.",
+    "url": "https://www.cbinsights.com/company/uptake-technologies/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Muraki is a company with a history of over 100 years, recognized for its technology in the industrial machinery sector. The company manufactures preci…",
+    "url": "https://www.cbinsights.com/company/uptake-technologies/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota Connected North America develops connected-vehicle, telematics, artificial intelligence (AI), cloud, and digital mobility solutions. It uses vehicle and customer data to deliver connected services. It caters to vehicle owners, drivers, automotive businesses, and mobility users. It was formerly known as Toyota Connected. It was founded in 2016 and is based in Plano, Texas.",
+    "url": "https://www.cbinsights.com/company/uptake-technologies/customers",
+    "pass": 3
+   },
+   {
+    "quote": "COMPANY / INDUSTRIAL AI",
+    "url": "https://yespress.io/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "Its customers include beverage distributors, car haulers, freight carriers and defense organizations.",
+    "url": "https://yespress.io/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2014 by Brad Keywell and Eric Lefkofsky, Uptake began with ambitions spanning heavy industry. Caterpillar announced a minority investment and predictive analytics agreement in March 2015. The proposed platform covered Caterpillar equipment and other brands, establishing early that equipment health could be analyzed across a manufacturer’s boundaries.",
+    "url": "https://yespress.io/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake sells business-to-business software as a service. A buyer is paying for analytics, integration and a continuing flow of maintenance intelligence. United Road’s published case study reports four times return on investment. The important buying question is which avoided costs produced that result, and whether another operation has similar opportunities.",
+    "url": "https://yespress.io/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial artificial intelligence company in Chicago, IL, US",
+    "url": "https://en.wikipedia.org/wiki/Uptake_(business)",
+    "pass": 3
+   },
+   {
+    "quote": "is an industrial artificial intelligence (",
+    "url": "https://en.wikipedia.org/wiki/Uptake_(business)",
+    "pass": 3
+   },
+   {
+    "quote": "\"Tech start-up Uptake makes 'big' acquisition in race to digitize the industrial industry\"",
+    "url": "https://en.wikipedia.org/wiki/Uptake_(business)",
+    "pass": 3
+   },
+   {
+    "quote": "\"Uptake nabs $117M at $2.3B valuation for industrial predictive analytics\"",
+    "url": "https://en.wikipedia.org/wiki/Uptake_(business)",
+    "pass": 3
+   },
+   {
+    "quote": "The round highlighted Uptake's traction in addressing untapped needs for industrial giants, delivering real results in machine reliability and competitive edge, with investors like Baillie Gifford emphasizing support for scaling in a massive market opportunity.",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake's founders, Brad Keywell and Eric Lefkofsky (also behind Groupon), had previously established multibillion-dollar ventures, marking this as their third. The company focused on unlocking industrial data for operational insights, such as weather and imagery for crop yields or fleet health tracking.",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Asset Performance Technologies is a Cincinnati-based developer of the cloud Preventance maintenance optimization software and Asset Strategy Library for plant m…",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Asset Performance Technologies is a Cincinnati-based developer of the cloud Preventance maintenance optimization software and Asset Strategy Library for plant managers in refining and manufacturing. The platform dynamically adjusts preventive maintenance based on reliability data from SKM systems. Established in 2002, it supports EPRI guidelines for U.S. utilities.",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake is an industrial analytics software company that helps businesses in various industries leverage the power of data to optimize their operations and improve their bottom line. The company was founded in 2014 and is headquartered in Chicago, Illinois.",
+    "url": "https://getlatka.com/companies/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "(Also used for NYHA classification and determining transplant eligibility)",
+    "url": "https://note.com/peyo2324/n/n9e52b716cdd1?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "From early fault detection to warranty recovery, see every insight in one place.",
+    "url": "https://uptake.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn warranty data into dollars. Automatically identify and act on eligible claims.",
+    "url": "https://uptake.com/",
+    "pass": 1
+   },
+   {
+    "quote": "has announced its planned acquisition of",
+    "url": "https://uptake.com/",
+    "pass": 1
+   },
+   {
+    "quote": "New revenue opportunities",
+    "url": "https://uptake.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://uptake.com/resource-category/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://uptake.com/resource-category/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "in repeatable and forecastable revenue targets with the knowledge that assets are going to perform as expected and planned.",
+    "url": "https://uptake.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "to be extracted from operational data and be available for wide array of stakeholders",
+    "url": "https://uptake.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive maintenance for public fleets is moving out of the pilot phase. A recent feature in Modern Public Fleet, “Predictive Maintenance in Use: Beyond the Pilot” by Thi Dao, looks at how the Town of Apex, North Carolina, took predictive maintenance from a test on a few vehicles to a working part of daily shop…",
+    "url": "https://uptake.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Work arrangements that fit how our teams do their best work.",
+    "url": "https://uptake.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://uptake.com/partners/argos-connected-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://uptake.com/partners/argos-connected-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://uptake.com/partners/gps-fleet-management-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://uptake.com/partners/gps-fleet-management-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "」には、未上場企業として世界最大の企業価値を誇るウーバーが含まれている",
+    "url": "https://forbesjapan.com/articles/detail/10764",
+    "pass": 3
+   },
+   {
+    "quote": "We’ve been applying analytics as a key part of our TotalCare® services strategy for many years and are always looking to advance our digital approach to improve the quality and value of our services...With industrial AI and machine learning techniques, we can increase the uptime of our engines and help customers extend the life and value of their critical assets.",
+    "url": "https://www.cbinsights.com/company/uptake-technologies/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Its customers include beverage distributors, car haulers, freight carriers and defense organizations.",
+    "url": "https://yespress.io/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "Consider Long Beverage, a North Carolina distributor with roughly 200 trucks. In May 2025, Uptake announced that the company had selected its fleet software after a two-month pilot. Long Beverage already used Geotab and worked with BlueArrow Telematics. Uptake had to demonstrate value within that existing arrangement.",
+    "url": "https://yespress.io/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "The tire products reveal how specific this work becomes. Tire Leak Insights looks for developing pressure loss. TPMS Insight looks for trouble in the tire-pressure monitoring system itself. A bad reading can send a team after the wrong problem. Watching the instrument is part of watching the machine.",
+    "url": "https://yespress.io/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "The distinction matters when assessing the product. A fleet needs compatible pressure data, a useful baseline and someone able to respond. The company also markets work-order analytics, warranty tools and defense software for maintenance and parts planning. The common expertise is translating equipment history into a decision about its next intervention.",
+    "url": "https://yespress.io/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "Its leadership offers another revealing detail. Adam McElhinney, appointed CEO in April 2024, had been among Uptake’s first 25 employees, leading data science before leaving for Paylocity. Bringing back someone who helped build the analytical machinery puts that expertise close to the commercial decisions. Uptake’s careers page names clarity, curiosity and grit as values.",
+    "url": "https://yespress.io/uptake",
+    "pass": 3
+   },
+   {
+    "quote": ", a firm started by Steve Case, Donn Davis and Ted Leonsis, announced that they would be backing Uptake with $40 million as part of the",
+    "url": "https://en.wikipedia.org/wiki/Uptake_(business)",
+    "pass": 3
+   },
+   {
+    "quote": "\"Tech start-up Uptake makes 'big' acquisition in race to digitize the industrial industry\"",
+    "url": "https://en.wikipedia.org/wiki/Uptake_(business)",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake Technologies Revenue, Valuation, Funding & Investors | Multiples",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue, Valuation, Funding & Investors",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake Technologies is valued at $2.3B as of November 2017, a 23.0x revenue multiple. Uptake Technologies revenue was $100M, as disclosed with its latest round.",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake Technologies revenue",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake Technologies Revenue",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake Technologies' latest recorded revenue is $100M, as of its Series D in November 2017. At a $2.3B valuation, that implies a 23.0x revenue multiple.",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue moved from $100M in April 2017 to $100M in November 2017, while the revenue multiple moved from 20.0x to 23.0x.",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake Technologies revenue by funding round",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake Technologies revenue and valuation multiple by funding round",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "* Revenue (or ARR) figures are the values recorded alongside each funding round. Typically run-rate revenue at the time of the deal, or a reported LTM (last 12 months) revenue.",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to see data on 350K+ funding rounds and disclosed revenue and EBITDA valuation multiples, from seed, through growth stage, to pre-IPO.",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Latest Acquisitions by",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "ShookIOT is a software company in Edmonton, Canada. It built cloud-native data integration and integrity software for asset-intensive industries and was acquired by the Chicago-based software company Uptake.",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "acquisitions and their M&A valuation multiples.",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake Technologies competitors include listed companies like Vitec Software, CCC Intelligent Solutions and Octave Intelligence, and private ones like Claroty, Saviynt and Certus Core.",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Is Uptake Technologies publicly listed?",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "What is Uptake Technologies' revenue?",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake Technologies' latest recorded revenue is $100M (November 2017).",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "What is Uptake Technologies' revenue multiple?",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake Technologies' latest valuation implies a 23.0x revenue multiple ($2.3B valuation on $100M of revenue).",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "How many companies has Uptake Technologies acquired?",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake Technologies has acquired 2 companies, including",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake Revenue 2020: $100M, $218M Raised",
+    "url": "https://getlatka.com/companies/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, acquisition & funding",
+    "url": "https://getlatka.com/companies/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake was acquired by Bosch.",
+    "url": "https://getlatka.com/companies/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake's annual revenue was $100M in August 2020, its last figure before Bosch bought it (source not recorded).",
+    "url": "https://getlatka.com/companies/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake CEO & employees",
+    "url": "https://getlatka.com/companies/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "Brad Keywell was CEO of Uptake. Uptake had 115 employees (November 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "What was Uptake's revenue?",
+    "url": "https://getlatka.com/companies/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "Before Bosch bought it, Uptake's annual revenue was",
+    "url": "https://getlatka.com/companies/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Uptake have?",
+    "url": "https://getlatka.com/companies/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "employees in November 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "As far as we can see from runners in this range, there are people who are fast at marathons even if their VO2max is not very high, and vice versa (arrows). Data consistently reports that among relatively high-level runners, there is little to no relationship between VO2max and competitive performance.",
+    "url": "https://note.com/murasawa_chihiro/n/nca46924af327?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "telematics, technology and channel partners",
+    "url": "https://uptake.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Solutions for government agencies",
+    "url": "https://uptake.com/partners/argos-connected-solutions/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email your resume and a few lines on why the role interests you.",
+    "url": "https://uptake.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "EliseAI is a New York-based AI platform automating communications for multifamily housing and healthcare providers. It handles leasing inquiries, maintenance tickets, renewals, and appointments via SMS, email, voice, and chat in 17 languages. EliseAI integrates with Yardi, RealPage, and EHR systems like Epic, serving 2 million units and clinics in women's health and orthopedics with CRM modules.",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Uptakeについて | 世界一の産業データ蓄積最先端AIサービス | AASC株式会社",
+    "url": "https://www.aasc-world.com/ai/aboutuptake/",
+    "pass": 3
+   },
+   {
+    "quote": "Uptakeは海外を中心に展開しているため、日本語ドキュメントの複数度や時差を考慮したサポート対応について懸念が生じる可能性があります",
+    "url": "https://fitgap.com/jp/products/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "また、国内では代理店やパートナー経由でのサポート体制となる場合が想定されます",
+    "url": "https://fitgap.com/jp/products/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "特に緊急時の対応や日本語でのコミュニケーション可否については、具体的に確認されることをお勧めします",
+    "url": "https://fitgap.com/jp/products/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "Umee Technologies株式会社",
+    "url": "https://fitgap.com/jp/products/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "東京都調布市調布ケ丘1-5-1 国立大学法人電気通信大学内",
+    "url": "https://fitgap.com/jp/products/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "米国で最注目のスタートアップ企業 Uptake社の事業内容 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "url": "https://forbesjapan.com/articles/detail/10764",
+    "pass": 3
+   },
+   {
+    "quote": "KKR・大和証券の両トップが語る 日本が「世界有数の成長市場」になる未来",
+    "url": "https://forbesjapan.com/articles/detail/10764",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ今、日本市場に勝機があるのか ローランド・ベルガーが示す日本企業の新たな成長像",
+    "url": "https://forbesjapan.com/articles/detail/10764",
+    "pass": 3
+   },
+   {
+    "quote": "上智大学×タキヒヨーの共創が生んだサステナブルTシャツ――「TOKYOエシカル」がつなぐ新たな可能性",
+    "url": "https://forbesjapan.com/articles/detail/10764",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPANの最新のニュースをお届けします",
+    "url": "https://forbesjapan.com/articles/detail/10764",
+    "pass": 3
+   },
+   {
+    "quote": "世界一の産業データ蓄積最先端AIサービス内容 | 世界一の産業データ蓄積最先端AIサービス | AASC株式会社",
+    "url": "https://www.aasc-world.com/ai/aidetailpage/",
+    "pass": 3
+   },
+   {
+    "quote": "AASCは、Uptakeのアジア総代理店です",
+    "url": "https://www.aasc-world.com/ai/aidetailpage/",
+    "pass": 3
+   },
+   {
+    "quote": "日本を中心としてアジア全体をマネジメントします",
+    "url": "https://www.aasc-world.com/ai/aidetailpage/",
+    "pass": 3
+   },
+   {
+    "quote": "産業界向けAIサービス AASC販売代理店募集",
+    "url": "https://www.aasc-world.com/ai/aidetailpage/",
+    "pass": 3
+   },
+   {
+    "quote": "現在AASC株式会社では、産業界向けAIサービスAASC販売代理店を募集しております",
+    "url": "https://www.aasc-world.com/ai/aidetailpage/",
+    "pass": 3
+   },
+   {
+    "quote": "2019.3.27 UPTAKE社との代理店契約締結について | AASC株式会社",
+    "url": "https://www.aasc-world.com/kb/2019-03-27/",
+    "pass": 3
+   },
+   {
+    "quote": "2019.3.27 UPTAKE社との代理店契約締結について",
+    "url": "https://www.aasc-world.com/kb/2019-03-27/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年3月1日付で、UPTAKE TECHNOLOGIES（USA）の日本の正規代理店として契約を締結致しました",
+    "url": "https://www.aasc-world.com/kb/2019-03-27/",
+    "pass": 3
+   },
+   {
+    "quote": "世界一の産業データ蓄積最先端AIサービス | AASC株式会社",
+    "url": "https://www.aasc-world.com/ai/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の産業界は、",
+    "url": "https://www.aasc-world.com/ai/",
+    "pass": 3
+   },
+   {
+    "quote": "今回AASCがUptake社のアジア総代理店に就任したことにより",
+    "url": "https://www.aasc-world.com/ai/",
+    "pass": 3
+   },
+   {
+    "quote": "アプリケーション、バックアップも含めすべて日本語対応です",
+    "url": "https://www.aasc-world.com/ai/",
+    "pass": 3
+   },
+   {
+    "quote": "産業界向けAIサービス AASC販売代理店募集",
+    "url": "https://www.aasc-world.com/ai/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語WordNet(英和)での「uptake」の意味",
+    "url": "https://ejje.weblio.jp/content/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "Creative Commons 表示 2.1 日本 License",
+    "url": "https://ejje.weblio.jp/content/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "英英辞書の英文表記や頻出順位については「Princeton WordNet」のデータを、日本語表記については「日本語WordNet」のデータを使用しています",
+    "url": "https://enhack.app/dic/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "日本語ワードネット1.1 (c) 2009-2011 NICT, 2012-2015 Francis Bond and 2016-2017 Francis Bond, Takayuki Kuribayashi",
+    "url": "https://enhack.app/dic/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "that the average value for Japanese runners was 75.5 mL/kg/min.",
+    "url": "https://note.com/murasawa_chihiro/n/nca46924af327?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Uptake について | 世界一の産業データ蓄積最先端AIサービス — Uptake について | 世界一の産業データ蓄積最先端AIサービス AASC株式会社 https://www.aasc-world.com > aboutuptake",
+    "url": "https://www.aasc-world.com/ai/aboutuptake/",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake とは？強み - 異常検知・予知保全AI - FitGap — Uptake とは？強み - 異常検知・予知保全AI - FitGap fitgap.com https://fitgap.com > トップ > 異常検知・予知保全AI",
+    "url": "https://fitgap.com/jp/products/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "米国で最注目のスタートアップ企業 Uptake 社の事業内容 — 米国で最注目のスタートアップ企業 Uptake 社の事業内容 Forbes JAPAN https://forbesjapan.com > テクノロジー",
+    "url": "https://forbesjapan.com/articles/detail/10764",
+    "pass": 3
+   },
+   {
+    "quote": "産業機械に眠るデータを宝に——米VBが描く「稼働し続ける ... — 産業機械に眠るデータを宝に——米VBが描く「稼働し続ける ... MITテクノロジーレビュー https://www.technologyreview.jp > uptake-is-putting-the-...",
+    "url": "https://www.technologyreview.jp/s/103791/uptake-is-putting-the-worlds-data-to-work/",
+    "pass": 3
+   },
+   {
+    "quote": "2019.3.27 UPTAKE 社との 代理店 契約締結について — 2019.3.27 UPTAKE 社との 代理店 契約締結について AASC株式会社 https://www.aasc-world.com > ...",
+    "url": "https://www.aasc-world.com/kb/2019-03-27/",
+    "pass": 3
+   },
+   {
+    "quote": "uptake - Translation into Japanese - examples English — uptake - Translation into Japanese - examples English Reverso Context https://context.reverso.net > english-japanese > uptake",
+    "url": "https://context.reverso.net/translation/english-japanese/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "英語「 uptake 」の意味・使い方・読み方 | Weblio英和辞書 — 英語「 uptake 」の意味・使い方・読み方 | Weblio英和辞書 Weblio英和和英辞典 https://ejje.weblio.jp > 英和辞典・和英辞典 > 英和辞典",
+    "url": "https://ejje.weblio.jp/content/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "uptake の意味は「普及」「吸収」ビジネス例文つきで解説 — uptake の意味は「普及」「吸収」ビジネス例文つきで解説 MotiTown https://motitown.com > vocabulary > word > uptake",
+    "url": "https://motitown.com/vocabulary/word/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "uptake の意味、発音、例文 - enHack — uptake の意味、発音、例文 - enHack enHack https://enhack.app > dic > uptake",
+    "url": "https://enhack.app/dic/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "英語での uptake の意味 - Cambridge Dictionary — 英語での uptake の意味 - Cambridge Dictionary Cambridge Dictionary https://dictionary.cambridge.org > english > uptake",
+    "url": "https://dictionary.cambridge.org/ja/dictionary/english/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "United Road Increases Fleet Uptime with 4x ROI - Uptake — United Road Increases Fleet Uptime with 4x ROI - Uptake Uptake: Predictive Maintenance https://uptake.com > case-study",
+    "url": "https://uptake.com/resource-category/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake Customers - CB Insights — Uptake Customers - CB Insights CB Insights https://www.cbinsights.com > customers",
+    "url": "https://www.cbinsights.com/company/uptake-technologies/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake in the news and around town — Uptake in the news and around town Uptake: Predictive Maintenance https://uptake.com > newsroom",
+    "url": "https://uptake.com/section/newsroom/",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake - Predictive Maintenance for Fleets - YesPress — Uptake - Predictive Maintenance for Fleets - YesPress yespress.io https://yespress.io > Companies",
+    "url": "https://yespress.io/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "how Uptake is revolutionizing heavy industries with AI+IoT — how Uptake is revolutionizing heavy industries with AI+IoT Harvard Business School AI Institute https://aiinstitute.hbs.edu > submission",
+    "url": "https://aiinstitute.hbs.edu/platform-digit/submission/smarter-healthier-more-productive-how-uptake-is-revolutionizing-heavy-industries-with-aiiot/",
+    "pass": 3
+   },
+   {
+    "quote": "Partners - Uptake — Partners - Uptake Uptake: Predictive Maintenance https://uptake.com > partners",
+    "url": "https://uptake.com/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake (business) - Wikipedia — Uptake (business) - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Upta...",
+    "url": "https://en.wikipedia.org/wiki/Uptake_(business)",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake Technologies Revenue , Valuation, Funding & Investors — Uptake Technologies Revenue , Valuation, Funding & Investors Multiples.vc https://multiples.vc > Companies",
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake Revenue 2020: $100M, $218M Raised - GetLatka — Uptake Revenue 2020: $100M, $218M Raised - GetLatka GetLatka https://getlatka.com > uptake",
+    "url": "https://getlatka.com/companies/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake - 2026 Company Profile, Team, Funding & Competitors — Uptake - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/uptake/__7EP1mEK9cJ4abR9fDUksg6b23SJqcJYiUtXWN9EVyWM",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake 2026 Company Profile: Valuation, Investors, Acquisition — Uptake 2026 Company Profile: Valuation, Investors, Acquisition PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/114111-82",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Cardiopulmonary Exercise Testing (CPX) Part 2: Oxygen Uptake Cardiopulmonary Exercise Testing (CPX) Part 2: Oxygen Uptake note https://note.com > 健康・医療 > リハビリテーション",
+    "url": "https://note.com/peyo2324/n/n9e52b716cdd1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Training aimed at improving maximal oxygen uptake (VO2max)? Training aimed at improving maximal oxygen uptake (VO2max)? note https://note.com > murasawa_chihiro",
+    "url": "https://note.com/murasawa_chihiro/n/nca46924af327?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Cardiopulmonary Exercise Testing (CPX) Part 2: Oxygen Uptake｜心臓リハビリの学校@peyo",
+    "url": "https://note.com/peyo2324/n/n9e52b716cdd1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Cardiopulmonary Exercise Testing (CPX) Part 2: Oxygen Uptake",
+    "url": "https://note.com/peyo2324/n/n9e52b716cdd1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Today, we will discuss more specialized topics. This is about the basics of oxygen uptake.",
+    "url": "https://note.com/peyo2324/n/n9e52b716cdd1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Oxygen uptake is a very important indicator when actually performing CPX, assessing the level of exertion, and conducting analysis and interpretation.",
+    "url": "https://note.com/peyo2324/n/n9e52b716cdd1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is oxygen uptake (VO₂)?",
+    "url": "https://note.com/peyo2324/n/n9e52b716cdd1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "VO₂ refers to the amount of oxygen the body takes in and utilizes per minute (mL/min).",
+    "url": "https://note.com/peyo2324/n/n9e52b716cdd1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In particular, VO₂ during exercise is an important indicator that shows overall metabolic capacity (i.e., how much one can exercise).",
+    "url": "https://note.com/peyo2324/n/n9e52b716cdd1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why is VO₂ important?",
+    "url": "https://note.com/peyo2324/n/n9e52b716cdd1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Training aimed at improving maximal oxygen uptake (VO2max)?｜C. Murasawa",
+    "url": "https://note.com/murasawa_chihiro/n/nca46924af327?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Training aimed at improving maximal oxygen uptake (VO2max)?",
+    "url": "https://note.com/murasawa_chihiro/n/nca46924af327?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Maximal oxygen uptake and long-distance running performance",
+    "url": "https://note.com/murasawa_chihiro/n/nca46924af327?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Maximal oxygen uptake (VO2max) is the maximum amount of oxygen that can be consumed per unit of body weight per unit of time (ml/kg/min), and it often appears as a performance indicator for long-distance athletes.",
+    "url": "https://note.com/murasawa_chihiro/n/nca46924af327?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The average value for a 30-year-old male is around 40 ml/kg/min per body weight, but the VO2max of elite long-distance runners is said to reach as high as 90 ml/kg/min (",
+    "url": "https://note.com/murasawa_chihiro/n/nca46924af327?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "). It is known that there is a relationship between VO2max and running ability across various levels of runners, as shown below.",
+    "url": "https://note.com/murasawa_chihiro/n/nca46924af327?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Cited from Sjödin, B., & Svedenhag, J. (1985). Applied physiology of marathon running. Sports Medicine, 2(2), 83–99.",
+    "url": "https://note.com/murasawa_chihiro/n/nca46924af327?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this graph, the vertical axis is marathon running speed and the horizontal axis is VO2max. One might get the vague impression that there is a relationship where a higher VO2max leads to a faster marathon pace (solid red line). Consequently, I tend to think, 'I see! To run long distances faster, I just need to increase my VO2max! I completely understand!' However, competitive runners might want ",
+    "url": "https://note.com/murasawa_chihiro/n/nca46924af327?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "The Lancet on X: \" Uptake of robotic-arm-assisted total knee ... The Lancet on X: \" Uptake of robotic-arm-assisted total knee ... X https://x.com > @TheLancet",
+    "url": "https://x.com/TheLancet/status/2097286860582051876",
+    "pass": 3
+   },
+   {
+    "quote": "The UpTake on X The UpTake on X X https://x.com > @theuptake",
+    "url": "https://x.com/theuptake/status/1593273903840911367/photo/1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Uptake - LinkedIn Uptake - LinkedIn LinkedIn https://www.linkedin.com > uptake",
+    "url": "https://www.linkedin.com/company/uptake",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake | LinkedIn Uptake | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/uptake-strategies",
+    "pass": 3
+   },
+   {
+    "quote": "UPTAKE | LinkedIn UPTAKE | LinkedIn LinkedIn Belgium https://be.linkedin.com > cdr-uptake",
+    "url": "https://be.linkedin.com/company/cdr-uptake",
+    "pass": 3
+   },
+   {
+    "quote": "Bosch to Acquire Uptake Technology for Enhanced Fleet ... Bosch to Acquire Uptake Technology for Enhanced Fleet ... LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/philipp-gauss-1232b0b4_bosch-strengthens-us-mobility-services-activity-7440409043430715392-PvJ4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Uptake | Chicago IL - Facebook Uptake | Chicago IL - Facebook Facebook https://www.facebook.com > ... > Internet company",
+    "url": "https://www.facebook.com/uptake/",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake app for easy game footage - Facebook Uptake app for easy game footage - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/750908782243134/posts/1857878418212826/",
+    "pass": 3
+   },
+   {
+    "quote": "Turn up the volume: Episode 3 of Uptake is here ... - Facebook Turn up the volume: Episode 3 of Uptake is here ... - Facebook Facebook https://www.facebook.com > officialEANM > posts > ️-tur...",
+    "url": "https://www.facebook.com/officialEANM/posts/%EF%B8%8F-turn-up-the-volume-episode-3-of-uptake-is-here-in-this-episode-host-mariana-an/1801781815282463/",
+    "pass": 3
+   },
+   {
+    "quote": "Uptake Center Lyrics Video: Knowledge Transfer & Innovation ... Uptake Center Lyrics Video: Knowledge Transfer & Innovation ... Facebook https://www.facebook.com > ... > Mantis Mentor > Videos",
+    "url": "https://www.facebook.com/Mantismentor/videos/uptake-center-for-knowledge-transfer-innovation-is-a-global-social-impact-collab/1120753323905445/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://uptake.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uptake.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uptake.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uptake.com/solutions/buses/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uptake.com/resource-category/case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uptake.com/resource-category/case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uptake.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uptake.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uptake.com/partners/argos-connected-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uptake.com/partners/gps-fleet-management-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uptake.com/about/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://uptake.com/wp-content/uploads/2026/10/Uptake-Logos-02-scaled-e1791551875238.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.aasc-world.com/ai/aboutuptake/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fitgap.com/jp/products/uptake",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/10764",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aasc-world.com/ai/aidetailpage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aasc-world.com/ai/aidetailpage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aasc-world.com/kb/2019-03-27/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aasc-world.com/ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://context.reverso.net/translation/english-japanese/uptake",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ejje.weblio.jp/content/uptake",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://motitown.com/vocabulary/word/uptake",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://enhack.app/dic/uptake",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/uptake-technologies/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yespress.io/uptake",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digitalsuccess.us/blog/top-8-white-label-digital-marketing-partners-for-agencies-2026.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Uptake_(business)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://multiples.vc/private-comps/uptake-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/uptake",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/uptake/__7EP1mEK9cJ4abR9fDUksg6b23SJqcJYiUtXWN9EVyWM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/peyo2324/n/n9e52b716cdd1?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/murasawa_chihiro/n/nca46924af327?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TheLancet/status/2097286860582051876",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/uptake",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/uptake-strategies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://be.linkedin.com/company/cdr-uptake",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/philipp-gauss-1232b0b4_bosch-strengthens-us-mobility-services-activity-7440409043430715392-PvJ4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/uptake/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/750908782243134/posts/1857878418212826/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/officialEANM/posts/%EF%B8%8F-turn-up-the-volume-episode-3-of-uptake-is-here-in-this-episode-host-mariana-an/1801781815282463/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Mantismentor/videos/uptake-center-for-knowledge-transfer-innovation-is-a-global-social-impact-collab/1120753323905445/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/theuptake/status/1593273903840911367/photo/1",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Uptake 日本 導入",
+   "results": [
+    "https://www.aasc-world.com/ai/aboutuptake/",
+    "https://fitgap.com/jp/products/uptake",
+    "https://forbesjapan.com/articles/detail/10764",
+    "https://www.aasc-world.com/ai/aidetailpage/",
+    "https://www.technologyreview.jp/s/103791/uptake-is-putting-the-worlds-data-to-work/",
+    "https://omu.repo.nii.ac.jp/record/2000302/files/2022990033.pdf",
+    "https://openchargealliance.org/wp-content/uploads/2026/04/Towards-the-uptake-and-expansion-of-EVs-in-Japan-.pdf",
+    "https://panorama.solutions/ja/news/panoramanoatsufuteikuteji",
+    "https://www.nihongo-appliedlinguistics.net/wp/archives/9526",
+    "https://www.eigo-duke.com/word/word/uptake.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Uptake 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.aasc-world.com/ai/aidetailpage/",
+    "https://www.aasc-world.com/kb/2019-03-27/",
+    "https://www.aasc-world.com/ai/",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.bgent.net/plus/article/7044",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.provej.jp/service/developing-overseas-business-partners/distributor/",
+    "https://www.deex.co.jp/media/NUSHHoOu",
+    "https://glohai.com/blog/5821",
+    "https://biz.moneyforward.com/contract/basic/8378/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Uptake Japan",
+   "results": [
+    "https://context.reverso.net/translation/english-japanese/uptake",
+    "https://ejje.weblio.jp/content/uptake",
+    "https://motitown.com/vocabulary/word/uptake",
+    "https://enhack.app/dic/uptake",
+    "https://dictionary.cambridge.org/ja/dictionary/english/uptake",
+    "http://eigohakken.blog.fc2.com/blog-entry-1398.html",
+    "https://dictionary.langeek.co/en-JA/word/197594?entry=uptake",
+    "https://kotobank.jp/ejword/uptake",
+    "https://engoo.jp/app/words/word/uptake/kiAH2b_vQIGPSRKlVIruyQ",
+    "https://jisho.org/search/uptake"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Uptake manufacturing customer case study",
+   "results": [
+    "https://uptake.com/resource-category/case-study/",
+    "https://www.cbinsights.com/company/uptake-technologies/customers",
+    "https://uptake.com/section/newsroom/",
+    "https://yespress.io/uptake",
+    "https://aiinstitute.hbs.edu/platform-digit/submission/smarter-healthier-more-productive-how-uptake-is-revolutionizing-heavy-industries-with-aiiot/",
+    "https://www.sciencedirect.com/science/article/pii/S266691292200037X",
+    "https://uptake.com/blog/ai-powered-fleet-maintenance-reducing-downtime-costs/",
+    "https://aigreentools.com/ai_tool/uptake/",
+    "https://uptake.com/blog/uptake-partners-with-reliability-dynamics-to-enhance-data-preparation/",
+    "https://www.casestudies.com/company/salex/case-study/uptake-customer-case-study"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Uptake white label OR reseller OR partner program",
+   "results": [
+    "https://uptake.com/partners/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.digitalsuccess.us/blog/top-8-white-label-digital-marketing-partners-for-agencies-2026.html",
+    "https://whitelabelpartner.com/white-label-reseller-programs/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://evincedev.com/blog/a-detailed-guide-to-white-label-reseller-program-to-grow-your-existing-business/",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Uptake founded funding employees revenue",
+   "results": [
+    "https://en.wikipedia.org/wiki/Uptake_(business)",
+    "https://multiples.vc/private-comps/uptake-technologies",
+    "https://getlatka.com/companies/uptake",
+    "https://tracxn.com/d/companies/uptake/__7EP1mEK9cJ4abR9fDUksg6b23SJqcJYiUtXWN9EVyWM",
+    "https://pitchbook.com/profiles/company/114111-82",
+    "https://www.trueup.io/co/uptake",
+    "https://www.crunchbase.com/organization/uptake-3",
+    "https://settervc.com/company/uptake",
+    "https://www.privateequityinternational.com/uptake-raises-another-50-mln/",
+    "https://compworth.com/company/uptake"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Uptake",
+   "results": [
+    "https://note.com/peyo2324/n/n9e52b716cdd1?hl=en",
+    "https://note.com/peyo2324/n/nc5be80face12?hl=en",
+    "https://note.com/murasawa_chihiro/n/nca46924af327?hl=en",
+    "https://note.com/kotaku5858/n/nd012a7cff175?hl=en",
+    "https://note.com/peyo2324/n/n0896fd81540d?hl=en",
+    "https://note.com/peyo2324/n/nedbdf89ee57c?hl=en",
+    "https://note.com/peyo2324/n/nea2feed50126?hl=en",
+    "https://note.com/peyo2324/n/nbfc45213e7d8?hl=en",
+    "https://note.com/peyo2324/n/nccec97e2e8a6?hl=en",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Uptake",
+   "results": [
+    "https://x.com/TheLancet/status/2097286860582051876",
+    "https://x.com/UsuarezMD/status/2117608783388066000",
+    "https://x.com/Veolia/status/2062809811658461274",
+    "https://x.com/DrTedros/status/1815457048022135158",
+    "https://x.com/JAMA_current/status/1900563824601608244",
+    "https://x.com/EuroParlPress/status/2107777360158433719",
+    "https://x.com/vonderleyen/status/2021577903050297642",
+    "https://x.com/EU_Growth/status/2078081034281746452?lang=bn",
+    "https://x.com/SFHNigeria/status/2113205146263957585",
+    "https://x.com/uptake"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Uptake",
+   "results": [
+    "https://www.linkedin.com/company/uptake",
+    "https://www.linkedin.com/company/uptake-strategies",
+    "https://be.linkedin.com/company/cdr-uptake",
+    "https://www.linkedin.com/posts/philipp-gauss-1232b0b4_bosch-strengthens-us-mobility-services-activity-7440409043430715392-PvJ4",
+    "https://vn.linkedin.com/company/uptakecenter",
+    "https://www.linkedin.com/posts/uptake_bosch-strengthens-us-mobility-services-activity-7440466808073089024-bw4D",
+    "https://www.linkedin.com/in/adam-mcelhinney-3149965",
+    "https://ca.linkedin.com/company/uptake-solutions-inc",
+    "https://in.linkedin.com/company/uptake-infotech",
+    "https://au.linkedin.com/company/uptakedigital"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Uptake",
+   "results": [
+    "https://www.facebook.com/uptake/",
+    "https://www.facebook.com/groups/750908782243134/posts/1857878418212826/",
+    "https://www.facebook.com/officialEANM/posts/%EF%B8%8F-turn-up-the-volume-episode-3-of-uptake-is-here-in-this-episode-host-mariana-an/1801781815282463/",
+    "https://www.facebook.com/Mantismentor/videos/uptake-center-for-knowledge-transfer-innovation-is-a-global-social-impact-collab/1120753323905445/",
+    "https://www.facebook.com/UptakeFertiliser/",
+    "https://www.facebook.com/groups/quiltingwithgrace/posts/25807153442264215/",
+    "https://www.facebook.com/groups/299722283743324/posts/2025788481136687/",
+    "https://www.facebook.com/BrandtProAg/posts/these-images-show-weed-control-over-time-from-a-2025-wisconsin-trial-one-with-gl/1587572563370310/",
+    "https://www.facebook.com/groups/143233812429678/posts/7058447130908277/",
+    "https://www.facebook.com/theuptake/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Uptake note 社長",
+   "results": [
+    "https://x.com/sadaaki",
+    "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E8%B2%9E%E9%A1%95",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://www.youtube.com/watch?v=Cv_QyHWNH0U",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/n51b6ea4b0bd6"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Uptake X 投稿",
+   "results": [
+    "https://x.com/theuptake/status/1593273903840911367/photo/1",
+    "https://note.com/yasunarikomaki/n/n76436ced400e",
+    "https://x.com/ishida_chatgpt/article/2066323646180954330",
+    "https://qiita.com/Pyonaya/items/eb11dfa1592a512ac877",
+    "https://uravation.com/media/wordpress-x-auto-post-guide-2026/",
+    "https://zenn.dev/edom18/articles/post-media-with-twitter-api",
+    "https://x.com/i/trending/2116142694653177962",
+    "https://note.com/rlhwbs_office/n/n795e14f2fb73",
+    "https://qiita.com/sky2432/items/9a89443e08d6b77b4687",
+    "https://x.com/uptake"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部33頁・検索12回）"
+ }
+}

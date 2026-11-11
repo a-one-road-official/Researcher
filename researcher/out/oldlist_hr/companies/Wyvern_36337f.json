@@ -1,0 +1,1604 @@
+{
+ "name": "Wyvern",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜AUMS不適合",
+ "researched_at": "2026-11-11T06:22:32.116479+00:00",
+ "official_url": "http://www.wyvern.space",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "See every detail, solve any problem.",
+    "url": "https://www.wyvern.space/",
+    "pass": 1
+   },
+   {
+    "quote": "layout423_hover-content",
+    "url": "https://www.wyvern.space/",
+    "pass": 1
+   },
+   {
+    "quote": "Classify crops with precision, detect disease early, and accurately forecast yields.",
+    "url": "https://www.wyvern.space/",
+    "pass": 1
+   },
+   {
+    "quote": "Map species, monitor forest health, and stop threats before they become widespread.",
+    "url": "https://www.wyvern.space/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce costs and improve safety from early exploration to post‑closure rehabilitation.",
+    "url": "https://www.wyvern.space/",
+    "pass": 1
+   },
+   {
+    "quote": "Unprecedented precision",
+    "url": "https://www.wyvern.space/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re the only commercial provider with a ready-to-task constellation, and ample imagery available through our growing archive and open data program.",
+    "url": "https://www.wyvern.space/",
+    "pass": 1
+   },
+   {
+    "quote": "Proudly Canadian, organizations depend on us for steady partnership, and reliable, secure data that’s proving its value across the planet.",
+    "url": "https://www.wyvern.space/",
+    "pass": 1
+   },
+   {
+    "quote": "Open Data Program feature: Harmful algal bloom detection with Wyvern hyperspectral imagery",
+    "url": "https://www.wyvern.space/",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 22, 2025",
+    "url": "https://www.wyvern.space/",
+    "pass": 1
+   },
+   {
+    "quote": "Wyvern selected for NASA satellite data program",
+    "url": "https://www.wyvern.space/",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 14, 2026",
+    "url": "https://www.wyvern.space/",
+    "pass": 1
+   },
+   {
+    "quote": "Get detailed specs for our range of hyperspectral data products.",
+    "url": "https://www.wyvern.space/",
+    "pass": 1
+   },
+   {
+    "quote": "Since launching our first satellites in 2023, we’re proving what’s possible: better wildfire mitigation, higher crop yields with fewer pesticides, faster wellsite reclamation, and other advances that serve the planet.",
+    "url": "https://www.wyvern.space/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "With more than ten times the precision and detail of other remote sensors, our high-resolution hyperspectral sensors reveal critical hidden information about the planet, monitor environmental changes in near-real time, and transform the way organizations respond.",
+    "url": "https://www.wyvern.space/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "That’s why we’re focused on making the highest-quality data available to as many people as possible. When we increase access to this powerful tool, we empower widespread stewardship of our home.",
+    "url": "https://www.wyvern.space/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "The number of free hyperspectral images in our Open Data program increases each month",
+    "url": "https://www.wyvern.space/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "VP Engineering Programs",
+    "url": "https://www.wyvern.space/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Research Projects",
+    "url": "https://www.wyvern.space/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Partners in your market provide comprehensive support designed for local environmental and industrial challenges.",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A cloud-based Earth observation platform and marketplace that combines access to commercial Earth observation (or remote sensing) data with modular processing and analytics for operational use cases",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Tesera Systems is a Canadian forest analytics company that delivers high-resolution forest inventory and carbon measurement solutions by integrating field data, LiDAR, and advanced remote sensing to support operational forestry and nature-based climate projects.",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pacific Geomatics (PacGeo) is a satellite-based Earth Observation company that provides guidance and access to advanced optical and radar satellites to deliver data, information products, and custom services worldwide.",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Established industry leader in deep spectral/SWIR with strong presence in Australia and growing presence in South American agriculture",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A geospatial analytics provider specializing in environmental monitoring, compliance, and operational insights for resource industries",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "URSA Space provides advanced SAR analytics for surface deformation, subsidence, and activity monitoring across energy, infrastructure, geohazards, and environmental domains",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A satellite imagery, ground network and value added service provider providing time critical insights in the maritime domain as well as tailored land based solutions for energy, environment and security applications.",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Satpalda provides AI-driven Earth observation analytics for change detection, classification, and object detection across agriculture, environment, forestry, and urban applications",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "An imagery and monitoring services provider centered on data access and visualization",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A geotechnology company offering satellite imagery, change detection, and geospatial monitoring and processing solutions for sectors such as agriculture, mining, energy, and infrastructure",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Firesafe AI delivers AI-powered wildfire detection and risk analytics using satellite and sensor data to identify, track, and predict fire activity",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A satellite imagery and data platform providing streamlined access and analysis-ready Earth observation for industries such as mining, forestry, ESG and others",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A specialist satellite imagery provider focused on sourcing and delivering high-resolution optical, hyperspectral, and video data to support monitoring and analysis across diverse commercial and institutional use cases",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Hyades provides hyperspectral AI models and analytics to unlock and interpret complex spectral Earth data for applications in agriculture, defence, and environmental monitoring",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "NSG UP42 provides a modular Earth observation marketplace with access to satellite data and analytics building blocks for change detection, classification, and feature extraction",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "YNSAT provides remote sensing platforms that simplify access to and analysis of satellite and airborne imagery for industries such as mining and environmental monitoring",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A geospatial services and mapping provider",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A satellite imagery reseller and technical support provider",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "An analytics company delivering defence-oriented monitoring, detection, and intelligence products",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Increase your market presence in high-demand sectors",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "\"What we value most about working with Wyvern is their commitment to innovation and collaboration. Their hyperspectral imaging technology is truly state-of-the-art, providing the high-resolution, accurate data we require to enhance our product offering.\"",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "“Wyvern’s imagery contributed to top-notch environmental follow-up after a major expansion project. They showcase how Earth observation technologies support the Canadian maritime community.\"",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "President + CEO, Montreal Port Authority",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Precision forecasting",
+    "url": "https://www.wyvern.space/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Accurately predict outcomes and manage resources more effectively.",
+    "url": "https://www.wyvern.space/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Classify crops with precision, detect disease early, and accurately forecast yields.",
+    "url": "https://www.wyvern.space/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce costs and improve safety from early exploration to post‑closure rehabilitation.",
+    "url": "https://www.wyvern.space/industries",
+    "pass": 1
+   },
+   {
+    "quote": "We partnered with Tesera, a Canadian forestry analytics company, to investigate the impact of using hyperspectral images in precision silviculture.",
+    "url": "https://www.wyvern.space/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Measure nutrient levels with precision",
+    "url": "https://www.wyvern.space/industries/agriculture",
+    "pass": 1
+   },
+   {
+    "quote": "Clearly distinguish crops species for precision planning and resource management, and improved yield forecasting.",
+    "url": "https://www.wyvern.space/industries/agriculture",
+    "pass": 1
+   },
+   {
+    "quote": "Improve input efficiency at scale",
+    "url": "https://www.wyvern.space/industries/agriculture",
+    "pass": 1
+   },
+   {
+    "quote": "We partner with UK-based precision agriculture company, Messium, to improve crop yields using less fertilizer. Our hyperspectral imagery enables real-time measurement of excess nitrogen concentrations with laboratory-level precision.",
+    "url": "https://www.wyvern.space/industries/agriculture",
+    "pass": 1
+   },
+   {
+    "quote": "Increased farm profitability",
+    "url": "https://www.wyvern.space/industries/agriculture",
+    "pass": 1
+   },
+   {
+    "quote": "Hyperspectral imagery brings precise, data-driven decision making to the agriculture industry.",
+    "url": "https://www.wyvern.space/industries/agriculture",
+    "pass": 1
+   },
+   {
+    "quote": "Precise crop classification",
+    "url": "https://www.wyvern.space/industries/agriculture",
+    "pass": 1
+   },
+   {
+    "quote": "Clearly distinguish crops and growth stages for precise planning and forecasting.",
+    "url": "https://www.wyvern.space/industries/agriculture",
+    "pass": 1
+   },
+   {
+    "quote": "Widespread soil monitoring",
+    "url": "https://www.wyvern.space/industries/agriculture",
+    "pass": 1
+   },
+   {
+    "quote": "Identify invasive species early and accurately to protect productivity.",
+    "url": "https://www.wyvern.space/industries/agriculture",
+    "pass": 1
+   },
+   {
+    "quote": "Hyperspectral imaging detects crop stress, disease, and nutrient imbalances before they’re visible to the human eye. This enables targeted resource management, improved forecasting, and optimal yields—even in heterogenous fields.",
+    "url": "https://www.wyvern.space/industries/agriculture",
+    "pass": 1
+   },
+   {
+    "quote": "Many use cases require fewer collections than multispectral approaches, as a single hyperspectral image captures substantially more information per pass.",
+    "url": "https://www.wyvern.space/industries/agriculture",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by teams shaping the future",
+    "url": "https://www.wyvern.space/",
+    "pass": 1
+   },
+   {
+    "quote": "What We Learned Talking to Mining Operators About Reclamation",
+    "url": "https://www.wyvern.space/",
+    "pass": 1
+   },
+   {
+    "quote": "Partners in your market provide comprehensive support designed for local environmental and industrial challenges.",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Identify vessel operators",
+    "url": "https://www.wyvern.space/industries/peace-and-security",
+    "pass": 1
+   },
+   {
+    "quote": "Hyperspectral imagery supports energy operators, infrastructure owners, and monitoring providers managing large or distributed assets. This technology enables early threat detection and consistent monitoring of pipelines, transmission corridors, and production areas, reducing operational and compliance risk.",
+    "url": "https://www.wyvern.space/industries/energy",
+    "pass": 1
+   },
+   {
+    "quote": "What We Learned Talking to Mining Operators About Reclamation",
+    "url": "https://www.wyvern.space/industries/mining",
+    "pass": 1
+   },
+   {
+    "quote": "Talking to Mining Operators About Reclamation",
+    "url": "https://www.wyvern.space/blog/what-we-learned-talking-to-mining-operators-about-reclamation",
+    "pass": 1
+   },
+   {
+    "quote": "What We Learned Talking to Mining Operators About Reclamation",
+    "url": "https://www.wyvern.space/blog/what-we-learned-talking-to-mining-operators-about-reclamation",
+    "pass": 1
+   },
+   {
+    "quote": "Mine reclamation is one of the most complex and consequential phases of a mining project, yet it is often managed with incomplete, fragmented data. After speaking with operators, regulators, and reclamation experts, a clear pattern emerged: better outcomes start with better site-wide insight.",
+    "url": "https://www.wyvern.space/blog/what-we-learned-talking-to-mining-operators-about-reclamation",
+    "pass": 1
+   },
+   {
+    "quote": "Yet too often, that's not the reality. Some sites still leach acid into waterways, contain fragile revegetation that barely holds soil, or are left as vast scars in the Earth. Even responsible, well-intentioned operators can fail quietly: short-term stabilization measures erode, long-term monitoring misses the signals, or funding runs out before the recovery is complete.",
+    "url": "https://www.wyvern.space/blog/what-we-learned-talking-to-mining-operators-about-reclamation",
+    "pass": 1
+   },
+   {
+    "quote": "Conversations with reclamation experts, regulators, and operators revealed recurring pain points: persistent information gaps on real environmental impacts, confusion interpreting compliance requirements, and the daunting challenges of financial assurances and liability management.",
+    "url": "https://www.wyvern.space/blog/what-we-learned-talking-to-mining-operators-about-reclamation",
+    "pass": 1
+   },
+   {
+    "quote": "Facilities all over the world have benefited from our range of products. Select a case study from the list below to find out more:",
+    "url": "https://wyvernamerica.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The Experts In Aerospace Safety and Risk Management",
+    "url": "https://www.wyvernltd.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "organizational performance. The world’s leading aerospace professionals turn to WYVERN for its:",
+    "url": "https://www.wyvernltd.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Today, WYVERN is a globally recognized aerospace service provider, certified to ISO 9001 and ISO 27001 standards. Our clients include energy and power companies, aircraft manufacturers, corporate flight departments, charter operators and brokers, air medical providers, hospitals, fixed-base operators, and maintenance organizations worldwide.",
+    "url": "https://www.wyvernltd.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Driven by a commitment to continuous improvement, WYVERN pursues a clear vision: a world where every aerospace service provider operates with a strong and sustainable safety culture.",
+    "url": "https://www.wyvernltd.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Protecting lives by inspiring excellence in aerospace safety.",
+    "url": "https://www.wyvernltd.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Every aerospace organization has a healthy safety culture.",
+    "url": "https://www.wyvernltd.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "In light of recent high-profile private aviation accidents, WYVERN, private aviation’s leading safety firm, encourages consumers of private aviation charter services to make informed decisions when selecting an operator. While private aviation offers exceptional convenience, flexibility, and accessibility, not all charter operators maintain the same level of commitment to safety.",
+    "url": "https://www.wyvernltd.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "JACKSONVILLE, Florida (September 23, 2026) -- Kennedy Campus Ltd has successfully enrolled as a Registered Operator. The Registered Operator safety data network is an essential component of our Aviation Compliance Enhancement System (ACES). As part of this network, Registered Operators voluntarily share Safety Management System (SMS) and ERP information with[...]",
+    "url": "https://www.wyvernltd.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "LAKE MARY, Florida (September 16, 2026) -- Capajet Ltd has successfully enrolled as a Registered Operator. The Registered Operator safety data network is an essential component of our Aviation Compliance Enhancement System (ACES). As part of this network, Registered Operators voluntarily share Safety Management System (SMS) and ERP information with[...]",
+    "url": "https://www.wyvernltd.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Exclusive: Orbital Taps Orca Aerospace for Onboard Autonomy Software",
+    "url": "https://payloadspace.com/wyvern-raises-6m-to-boost-hyperspectral-data-biz/",
+    "pass": 3
+   },
+   {
+    "quote": "Satellite autonomy startup Orca Aerospace announced a deal worth up to $20M with LA-based Orbital to put its software on Orbital’s planned data-center fleet.",
+    "url": "https://payloadspace.com/wyvern-raises-6m-to-boost-hyperspectral-data-biz/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "A satellite imagery reseller and technical support provider",
+    "url": "https://www.wyvern.space/partners",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Requires repeated acquisitions and modeling assumptions",
+    "url": "https://www.wyvern.space/industries/agriculture",
+    "pass": 1
+   },
+   {
+    "quote": "Hyperspectral imagery captures many more narrow spectral bands, which detect subtle material and environmental signals that multispectral imagery cannot reliably resolve.",
+    "url": "https://www.wyvern.space/industries/agriculture",
+    "pass": 1
+   },
+   {
+    "quote": "Low operational burden –centralized tasking and repeatable acquisition",
+    "url": "https://www.wyvern.space/industries/forestry",
+    "pass": 1
+   },
+   {
+    "quote": "Low operational burden – centralized tasking and repeatable acquisition",
+    "url": "https://www.wyvern.space/industries/forestry",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage repeatable data acquisition for accurate analysis of evolving operations.",
+    "url": "https://www.wyvern.space/industries/mining",
+    "pass": 1
+   },
+   {
+    "quote": "Site-wide and regional coverage in a single acquisition",
+    "url": "https://www.wyvern.space/industries/mining",
+    "pass": 1
+   },
+   {
+    "quote": "Hyperspectral imagery captures many more narrow spectral bands, which detect subtle material and environmental signals that multispectral imagery cannot reliably resolve.",
+    "url": "https://www.wyvern.space/industries/mining",
+    "pass": 1
+   },
+   {
+    "quote": "We share the responsibility of ensuring everyone feels heard and valued—and we believe that welcoming employees of all backgrounds, experiences, and lifestyles only expands what’s possible.",
+    "url": "https://www.wyvern.space/company/join-us",
+    "pass": 1
+   },
+   {
+    "quote": "across the mine site and neighboring regions, constructing a holistic ecological narrative that captures broader impacts and recovery patterns.",
+    "url": "https://www.wyvern.space/blog/what-we-learned-talking-to-mining-operators-about-reclamation",
+    "pass": 1
+   },
+   {
+    "quote": "LAS VEGAS, Nevada (September 30, 2026) – When business aviation professionals gather in Las Vegas this month for the 2026 NBAA Business Aviation Convention & Exhibition (NBAA-BACE), October 20-22, WYVERN Ltd. will be part of the conversations that matter most to our industry: how we keep people, aircraft, and operations[...]",
+    "url": "https://www.wyvernltd.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "JACKSONVILLE, Florida (September 23, 2026) -- Kennedy Campus Ltd has successfully enrolled as a Registered Operator. The Registered Operator safety data network is an essential component of our Aviation Compliance Enhancement System (ACES). As part of this network, Registered Operators voluntarily share Safety Management System (SMS) and ERP information with[...]",
+    "url": "https://www.wyvernltd.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "LAKE MARY, Florida (September 16, 2026) -- Capajet Ltd has successfully enrolled as a Registered Operator. The Registered Operator safety data network is an essential component of our Aviation Compliance Enhancement System (ACES). As part of this network, Registered Operators voluntarily share Safety Management System (SMS) and ERP information with[...]",
+    "url": "https://www.wyvernltd.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Wyvern Revenue 2023: $13.7M Est.",
+    "url": "https://getlatka.com/companies/wyvern.space",
+    "pass": 3
+   },
+   {
+    "quote": "revenue & acquisition",
+    "url": "https://getlatka.com/companies/wyvern.space",
+    "pass": 3
+   },
+   {
+    "quote": "Wyvern has not published its revenue. Growjo puts it at about $13.7M a year (December 2023).",
+    "url": "https://getlatka.com/companies/wyvern.space",
+    "pass": 3
+   },
+   {
+    "quote": "Wyvern CEO, founders & employees",
+    "url": "https://getlatka.com/companies/wyvern.space",
+    "pass": 3
+   },
+   {
+    "quote": "Christopher Robson founded Wyvern in 2018 and led it as CEO. Wyvern had 63 employees (December 2023, Growjo estimate).",
+    "url": "https://getlatka.com/companies/wyvern.space",
+    "pass": 3
+   },
+   {
+    "quote": "What was Wyvern's revenue?",
+    "url": "https://getlatka.com/companies/wyvern.space",
+    "pass": 3
+   },
+   {
+    "quote": "Growjo estimates Wyvern's revenue at about",
+    "url": "https://getlatka.com/companies/wyvern.space",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Wyvern have?",
+    "url": "https://getlatka.com/companies/wyvern.space",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/wyvern.space",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/wyvern.space",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/wyvern.space",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/463968-82",
+    "pass": 3
+   },
+   {
+    "quote": "Wyvern has 33 total employees.",
+    "url": "https://pitchbook.com/profiles/company/463968-82",
+    "pass": 3
+   },
+   {
+    "quote": "What is Wyvern’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/463968-82",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Wyvern is",
+    "url": "https://pitchbook.com/profiles/company/463968-82",
+    "pass": 3
+   },
+   {
+    "quote": "“We didn’t raise a ton of money to start out to become vertically integrated,” Chief Revenue Officer Thomas VanMatre told Payload. “We wanted to get to market faster than everyone, and we have. That’s allowed us to get a lot of feedback and refine our product-market fit.”",
+    "url": "https://payloadspace.com/wyvern-raises-6m-to-boost-hyperspectral-data-biz/",
+    "pass": 3
+   },
+   {
+    "quote": "I covered dragons in this series previously, and wyverns are often spoken of as their \"subspecies\" or \"degraded versions.\" But is that really the case? This time, focusing on the differences from dragons, I would like to delve into the unique roles and cultural history that the existence of the wyvern has carried.",
+    "url": "https://note.com/keen_lion3475/n/n3727dfc26e7f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Often has a poison stinger or arrowhead-shaped protrusion at the tip of its tail",
+    "url": "https://note.com/keen_lion3475/n/n3727dfc26e7f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": In some regions of the UK (particularly in coats of arms said to originate from Wessex), the wyvern is still adopted as a symbol for cities and counties, becoming part of regional identity beyond being a mere imaginary creature.",
+    "url": "https://note.com/keen_lion3475/n/n3727dfc26e7f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Well, the range of the normal attack is naturally narrower than ranged attacks, so the map clearing speed is slow, which I do think is a bit underwhelming while farming. However, for a melee build, it has a wide range and doesn't require mana cost management. Since it can handle bosses and is strong in end-game content, I think it's perfect for melee beginners.",
+    "url": "https://note.com/yom09i/n/naeec22fc52f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It's also nice that you don't need to go out of your way to apply exposure with Oil Barrage.",
+    "url": "https://note.com/yom09i/n/naeec22fc52f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The order of acquisition is also fine as shown above.",
+    "url": "https://note.com/yom09i/n/naeec22fc52f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Regarding the order of passive acquisition, I've posted a few captures that I had left over when I cleared the ACT, so please use those as a guide.",
+    "url": "https://note.com/yom09i/n/naeec22fc52f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is the period when the long-awaited +30 Spirit unlocks Lingering Illusion and the single-target damage skill Oil Barrage, so it should start getting fun from here.",
+    "url": "https://note.com/yom09i/n/naeec22fc52f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Until Flame Breath is unlocked, Oil Barrage will handle your single-target damage needs.",
+    "url": "https://note.com/yom09i/n/naeec22fc52f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Oil Barrage + Channeling Accumulation, Increased Attack Speed, Charge Preservation",
+    "url": "https://note.com/yom09i/n/naeec22fc52f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The differences from Oil Barrage are that it allows movement, is 100% elemental, has a cooldown, and looks like a dragon (important). I think you can progress without issues using Oil Barrage, but I personally recommend switching your single-target skill to Flame Breath because it can directly benefit from curses and exposure, and it is harder to get hit since you can attack while moving.",
+    "url": "https://note.com/yom09i/n/naeec22fc52f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "so I'm honestly quite embarrassed.",
+    "url": "https://note.com/yom09i/n/naeec22fc52f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Blind infliction: Dark Night Bow (Shade Arrow)",
+    "url": "https://note.com/u_ol/n/nef660db5cf4f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Adel and Clive (if they have already reached level 10) can use 'Pile Thrust', which has piercing and stun infliction. However, since Wyvern Knights have the characteristic of being strong against cavalry, it is difficult to easily incorporate Knights into the formation. You would need a mechanism like Lex's 'Arrow Cover' to prevent taking hits.",
+    "url": "https://note.com/u_ol/n/nef660db5cf4f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Also, skill acquisition during stage progression, especially, affects the tactics you are using, so you should check them each time instead of skipping it. If you think, 'Huh, I never use that skill...', it is often because a newly acquired skill has a higher priority.",
+    "url": "https://note.com/u_ol/n/nef660db5cf4f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Recently, I went ahead and built two new Wyverns to clear Chapter 14, so I can finally create the dream romance build: a 4-slot rainbow carrier Wyvern setup.",
+    "url": "https://note.com/tamage_take/n/n2a6ee81cb454?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For the main fleet carriers, I adopted the",
+    "url": "https://note.com/tamage_take/n/n2a6ee81cb454?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "6-barreled Bofors",
+    "url": "https://note.com/tamage_take/n/n2a6ee81cb454?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Rainbow Carrier Aircraft",
+    "url": "https://note.com/tamage_take/n/n2a6ee81cb454?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As for weaknesses, if even one carrier (especially Hakuryu, who lacks damage reduction skills for durability) is taken down first, our offensive power is cut significantly, so it feels tough when the focus is on a single carrier.",
+    "url": "https://note.com/tamage_take/n/n2a6ee81cb454?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If by any chance this fleet were to become popular, the quickest way to deal with it would be to spot them first with someone like Aquila and then focus fire on Hakuryu with Warspite or similar. In this regard, since Aquila still provides an opening advantage even if she gets focused and sunk, opening carriers are indeed strong in exercises.",
+    "url": "https://note.com/tamage_take/n/n2a6ee81cb454?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Yes. Spectral libraries for specific materials can be made available where appropriate, subject to mission requirements, access controls, and security considerations. Please contact us to discuss availability and suitability for your use case.",
+    "url": "https://www.wyvern.space/industries/peace-and-security",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/463968-82",
+    "pass": 3
+   },
+   {
+    "quote": "Periodic emails about company news and events",
+    "url": "https://payloadspace.com/wyvern-raises-6m-to-boost-hyperspectral-data-biz/",
+    "pass": 3
+   },
+   {
+    "quote": "Check your inbox for an email from",
+    "url": "https://payloadspace.com/wyvern-raises-6m-to-boost-hyperspectral-data-biz/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本製バイクヘルメットを止めた理由がコレです│日本一周バイク旅 準備編",
+    "url": "https://www.youtube.com/watch?v=QRZjqQ63Kh4",
+    "pass": 3
+   },
+   {
+    "quote": "これまでにもアジア諸国、欧米企業と日本の懸け橋となり、相互に協力し、様々な提案を行い、双方との発展する事業を提案しています",
+    "url": "http://www.wyvern.co.jp/info/info.html",
+    "pass": 3
+   },
+   {
+    "quote": "〒105-6415 東京都港区虎ノ門１丁目１７番１号 虎ノ門ヒルズビジネスタワー １５階",
+    "url": "http://www.wyvern.co.jp/info/info.html",
+    "pass": 3
+   },
+   {
+    "quote": "1-17-1, Toranomon, Minato-ku, TOKYO 105-6415 JAPAN",
+    "url": "http://www.wyvern.co.jp/info/info.html",
+    "pass": 3
+   },
+   {
+    "quote": "JAXA tapped ArkEdge Space, a Tokyo-based nanosatellite company, to study the feasibility of putting a Position, Navigation, and Timing (PNT) constellation in LEO, the company announced yesterday.",
+    "url": "https://payloadspace.com/wyvern-raises-6m-to-boost-hyperspectral-data-biz/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "WYVERN ∅ | FULL-FACE HELMET｜ヘルメット SHOEI — WYVERN ∅ | FULL-FACE HELMET｜ヘルメット SHOEI ヘルメット SHOEI https://www.shoei.com > helmet > fullface > wyvern-zero",
+    "url": "https://www.shoei.com/products/helmet/fullface/wyvern-zero/",
+    "pass": 3
+   },
+   {
+    "quote": "SHOEI クラシックフルフェイス「 WYVERN ∅（ ワイバーン ... — SHOEI クラシックフルフェイス「 WYVERN ∅（ ワイバーン ... Motor Fan https://motor-fan.jp > 記事",
+    "url": "https://motor-fan.jp/article/152956/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - Wyvern — 会社概要 - Wyvern 株式会社ワイバーン http://www.wyvern.co.jp > info > info",
+    "url": "http://www.wyvern.co.jp/info/info.html",
+    "pass": 3
+   },
+   {
+    "quote": "利用規約 - wyvern — 利用規約 - wyvern ecwyvern.com https://ecwyvern.com > pages > agreement",
+    "url": "https://ecwyvern.com/pages/agreement",
+    "pass": 3
+   },
+   {
+    "quote": "WyvernHover 2-80GN - Beyblade Wiki - Fandom — WyvernHover 2-80GN - Beyblade Wiki - Fandom Beyblade Wiki https://beyblade.fandom.com > wiki",
+    "url": "https://beyblade.fandom.com/wiki/WyvernHover_2-80GN",
+    "pass": 3
+   },
+   {
+    "quote": "New Product] SHOEI's \" Wyvern Zero\" now comes in three ... — New Product] SHOEI's \" Wyvern Zero\" now comes in three ... Webike Japan https://japan.webike.net > moto_news",
+    "url": "https://japan.webike.net/moto_news/new-product-shoeis-wyvern-zero-now-comes-in-three-giraffe-replicas-scheduled-to-go-on-sale-in-june-for-a-limited-order-period/?srsltid=AYCX9vId8n_Ig11ig6irhWwM7M1o2bTcGhS0LbxpkRy16gKgCFI4dUu8",
+    "pass": 3
+   },
+   {
+    "quote": "Blade - Hover Wyvern - Beyblade Wiki - Fandom — Blade - Hover Wyvern - Beyblade Wiki - Fandom Beyblade Wiki https://beyblade.fandom.com > wiki",
+    "url": "https://beyblade.fandom.com/wiki/Blade_-_Hover_Wyvern",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Wyvern — Case Studies - Wyvern wyvernamerica.com https://wyvernamerica.com > case-stu...",
+    "url": "https://wyvernamerica.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "About Us 2025 - WYVERN — About Us 2025 - WYVERN wyvernltd.com https://www.wyvernltd.com > about",
+    "url": "https://www.wyvernltd.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Wyvern receives support for in-house manufacturing investment — Wyvern receives support for in-house manufacturing investment LinkedIn https://www.linkedin.com > posts > jo...",
+    "url": "https://www.linkedin.com/posts/jordykoski_im-thrilled-to-read-about-the-support-wyvern-activity-7505366034032410624-gVBB",
+    "pass": 3
+   },
+   {
+    "quote": "Wyvern Secures USD$6M to Expand Global Footprint, Bolster ... — Wyvern Secures USD$6M to Expand Global Footprint, Bolster ... Wyvern Space https://www.wyvern.space > blog > w...",
+    "url": "https://www.wyvern.space/blog/wyvern-secures-usd-6m-to-expand-global-footprint-bolster-u-s-market-presence",
+    "pass": 3
+   },
+   {
+    "quote": "Wyvern Revenue 2023: $13.7M Est. - GetLatka — Wyvern Revenue 2023: $13.7M Est. - GetLatka GetLatka https://getlatka.com > wyvern",
+    "url": "https://getlatka.com/companies/wyvern.space",
+    "pass": 3
+   },
+   {
+    "quote": "Wyvern 2026 Company Profile: Valuation, Funding & Investors — Wyvern 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/463968-82",
+    "pass": 3
+   },
+   {
+    "quote": "Wyvern Raises $6M To Boost Hyperspectral Data Biz — Wyvern Raises $6M To Boost Hyperspectral Data Biz Payload Space https://payloadspace.com > News",
+    "url": "https://payloadspace.com/wyvern-raises-6m-to-boost-hyperspectral-data-biz/",
+    "pass": 3
+   },
+   {
+    "quote": "Wyvern - 2026 Company Profile, Team, Funding & Competitors — Wyvern - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/wyvern/__vDLr-8OEhcmW5DW9wQZhPRyQdA-Ipf1fcej7-Ka0Z68",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Fantasy Creature Encyclopedia #025 Wyvern : What makes it ... Fantasy Creature Encyclopedia #025 Wyvern : What makes it ... note https://note.com > アート・デザイン > アート鑑賞・解説",
+    "url": "https://note.com/keen_lion3475/n/n3727dfc26e7f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[PoE2] Tough and Unkillable Wyvern Beginner's Guide [ver0.4] [PoE2] Tough and Unkillable Wyvern Beginner's Guide [ver0.4] note https://note.com > ...",
+    "url": "https://note.com/yom09i/n/naeec22fc52f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Guidelines for Countering Wyvern Knights [Unicorn Overlord: 12 Guidelines for Countering Wyvern Knights [Unicorn Overlord: 12 note https://note.com > u_ol",
+    "url": "https://note.com/u_ol/n/nef660db5cf4f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Romance Build] Shinano-Hakuryu-NJ Build [Quad Wyvern ] [Romance Build] Shinano-Hakuryu-NJ Build [Quad Wyvern ] note https://note.com > ... > スマホゲーム",
+    "url": "https://note.com/tamage_take/n/n2a6ee81cb454?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Fantasy Creature Encyclopedia #025 Wyvern: What makes it different from a dragon? The true nature of the phantom beast that seems \"inferior\"｜幻想動物図鑑",
+    "url": "https://note.com/keen_lion3475/n/n3727dfc26e7f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Fantasy Creature Encyclopedia #025 Wyvern: What makes it different from a dragon? The true nature of the phantom beast that seems \"inferior\"",
+    "url": "https://note.com/keen_lion3475/n/n3727dfc26e7f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"It looks like a dragon, but something is different\"—many people must have felt this way. Whether on coats of arms, as mid-bosses in fantasy works, or on beer bottle labels, wyverns appear quite frequently. However, in many cases, they are rarely explicitly called \"dragons\" and tend to be treated as something a rank lower.",
+    "url": "https://note.com/keen_lion3475/n/n3727dfc26e7f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I covered dragons in this series previously, and wyverns are often spoken of as their \"subspecies\" or \"degraded versions.\" But is that really the case? This time, focusing on the differences from dragons, I would like to delve into the unique roles and cultural history that the existence of the wyvern has carried.",
+    "url": "https://note.com/keen_lion3475/n/n3727dfc26e7f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What kind of existence is a wyvern?",
+    "url": "https://note.com/keen_lion3475/n/n3727dfc26e7f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A wyvern is a winged, reptile-like phantom beast that appears in European heraldry and folklore, and generally has the following characteristics.",
+    "url": "https://note.com/keen_lion3475/n/n3727dfc26e7f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Two wings (the forelimbs are integrated with the wings, or it has wings only and no forelimbs)",
+    "url": "https://note.com/keen_lion3475/n/n3727dfc26e7f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Only two hind legs (unlike the quadrupedal dragon, it often takes a posture close to standing upright)",
+    "url": "https://note.com/keen_lion3475/n/n3727dfc26e7f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[PoE2] Tough and Unkillable Wyvern Beginner's Guide [ver0.4]｜よもぎの人",
+    "url": "https://note.com/yom09i/n/naeec22fc52f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[PoE2] Tough and Unkillable Wyvern Beginner's Guide [ver0.4]",
+    "url": "https://note.com/yom09i/n/naeec22fc52f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "December 28, 2025 First Edition",
+    "url": "https://note.com/yom09i/n/naeec22fc52f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "January 1, 2026 Second Edition: Mainly updated skill configuration, minor corrections throughout",
+    "url": "https://note.com/yom09i/n/naeec22fc52f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "January 3, 2026 Third Edition: Passive tree corrections",
+    "url": "https://note.com/yom09i/n/naeec22fc52f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "May 6, 2026 YouTube link added",
+    "url": "https://note.com/yom09i/n/naeec22fc52f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello everyone, this is Yomogi.",
+    "url": "https://note.com/yom09i/n/naeec22fc52f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, we will be covering the Wyvern, a form of the newly added Talisman. The class is Shaman, a subclass of Druid.",
+    "url": "https://note.com/yom09i/n/naeec22fc52f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Guidelines for Countering Wyvern Knights [Unicorn Overlord: 12 - Understanding Makes It More Fun]｜たまごのから",
+    "url": "https://note.com/u_ol/n/nef660db5cf4f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Guidelines for Countering Wyvern Knights [Unicorn Overlord: 12 - Understanding Makes It More Fun]",
+    "url": "https://note.com/u_ol/n/nef660db5cf4f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The liberation quest 'L40: Liberation of Mia Pass' is a short one, but it serves as a reminder that you can't just rely on momentum to clear the Drakenhold chapter; you need proper preparation. Here, I'll organize some things you should do, focusing on countermeasures against Wyvern Knight counterattacks.",
+    "url": "https://note.com/u_ol/n/nef660db5cf4f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Thinking about countermeasures for enemy Wyvern Knight counterattacks",
+    "url": "https://note.com/u_ol/n/nef660db5cf4f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When I rushed into Drakenhold with the same momentum I had after finishing the early stages in Cornia, I got stuck at the Mia Pass liberation battle, which acts as an immigration checkpoint. You are greeted by Wyvern Knight units and Mercenary units.",
+    "url": "https://note.com/u_ol/n/nef660db5cf4f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As for the Mercenaries, I had already experienced them in the Berenice battle (",
+    "url": "https://note.com/u_ol/n/nef660db5cf4f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Sub-quest 'S04: A Mercenary's Trial'",
+    "url": "https://note.com/u_ol/n/nef660db5cf4f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "), so it's easy to think of countermeasures. Since high attack power is not a problem if it doesn't hit, I chose an evasion-type unit for the vanguard. In addition, to reduce the number of enemies even a little, I chose Knights for the rearguard, as they are strong against infantry and have attacks that pierce through the front and back rows.",
+    "url": "https://note.com/u_ol/n/nef660db5cf4f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Romance Build] Shinano-Hakuryu-NJ Build [Quad Wyvern]｜LSCN",
+    "url": "https://note.com/tamage_take/n/n2a6ee81cb454?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Romance Build] Shinano-Hakuryu-NJ Build [Quad Wyvern]",
+    "url": "https://note.com/tamage_take/n/n2a6ee81cb454?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Recently, I went ahead and built two new Wyverns to clear Chapter 14, so I can finally create the dream romance build: a 4-slot rainbow carrier Wyvern setup.",
+    "url": "https://note.com/tamage_take/n/n2a6ee81cb454?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The concept is to survive the opening to first-round attacks from Sardinian NJ fleets, then deal a fatal blow to the opponent with a single airstrike leveraging the sheer volume of Wyverns and Tenrai from Shinano and Hakuryu, a",
+    "url": "https://note.com/tamage_take/n/n2a6ee81cb454?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Vanguard Selection: The New 'Aji-Yu' Build",
+    "url": "https://note.com/tamage_take/n/n2a6ee81cb454?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This build assumes the main fleet can survive up to the first round of attacks. Therefore, for the vanguard, I have selected",
+    "url": "https://note.com/tamage_take/n/n2a6ee81cb454?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", who still possesses an incredible, timeless healing effect, and",
+    "url": "https://note.com/tamage_take/n/n2a6ee81cb454?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", a synonymous name for former durability builds who has damage reduction and healing skills for the main fleet.",
+    "url": "https://note.com/tamage_take/n/n2a6ee81cb454?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Rowan Wyvern (@RowanWyvern) / X Rowan Wyvern (@RowanWyvern) / X X https://x.com > RowanWyvern",
+    "url": "https://x.com/RowanWyvern",
+    "pass": 3
+   },
+   {
+    "quote": "\"Rather than evolving Wyvern Rex, it is believed their ancestor ... \"Rather than evolving Wyvern Rex, it is believed their ancestor ... X https://x.com > @BannedDino",
+    "url": "https://x.com/BannedDino/status/2038748965328294262",
+    "pass": 3
+   },
+   {
+    "quote": "Whimsical Wyvern (@Whimsywyvern) / X Whimsical Wyvern (@Whimsywyvern) / X X https://x.com > Whimsywyvern",
+    "url": "https://x.com/Whimsywyvern",
+    "pass": 3
+   },
+   {
+    "quote": "Monster Hunter on X: \"The newly discovered Bird Wyvern ... Monster Hunter on X: \"The newly discovered Bird Wyvern ... X https://x.com > @monsterhunter",
+    "url": "https://x.com/monsterhunter/status/2095587768541794567",
+    "pass": 3
+   },
+   {
+    "quote": "ワイヴァン知立 (@TopWyvern) / X ワイヴァン知立 (@TopWyvern) / X X https://x.com > TopWyvern",
+    "url": "https://x.com/TopWyvern",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Wyvern - LinkedIn Wyvern - LinkedIn LinkedIn https://ca.linkedin.com > wyvern-space",
+    "url": "https://ca.linkedin.com/company/wyvern-space",
+    "pass": 3
+   },
+   {
+    "quote": "Wyvern Partners - LinkedIn Wyvern Partners - LinkedIn LinkedIn https://uk.linkedin.com > company",
+    "url": "https://uk.linkedin.com/company/wyvern-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Wyvern Underwriters, LLC - LinkedIn Wyvern Underwriters, LLC - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/wyvern-underwriters",
+    "pass": 3
+   },
+   {
+    "quote": "WYVERN Ltd - LinkedIn WYVERN Ltd - LinkedIn LinkedIn https://www.linkedin.com > wyvernltd",
+    "url": "https://www.linkedin.com/company/wyvernltd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Let's see y'alls Sir \" Wyvern \" (it is in fact a dragon, not a wyvern ). Let's see y'alls Sir \" Wyvern \" (it is in fact a dragon, not a wyvern ). Facebook https://www.facebook.com > thefortnitecommunity > posts",
+    "url": "https://www.facebook.com/groups/thefortnitecommunity/posts/1490119332923885/",
+    "pass": 3
+   },
+   {
+    "quote": "What are the differences between dragons, wyverns , and ... What are the differences between dragons, wyverns , and ... Facebook https://www.facebook.com > FantasyFaction > posts",
+    "url": "https://www.facebook.com/groups/FantasyFaction/posts/3206894389619733/",
+    "pass": 3
+   },
+   {
+    "quote": "Should it be classified as a wyvern instead of a dragon? Should it be classified as a wyvern instead of a dragon? Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/229761791287211/posts/1672627677000608/",
+    "pass": 3
+   },
+   {
+    "quote": "What happened to the wyvern ? - Facebook What happened to the wyvern ? - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/388458232806975/posts/1108896147429843/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.wyvern.space/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wyvern.space/company/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wyvern.space/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wyvern.space/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wyvern.space/industries/agriculture",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wyvern.space/industries/peace-and-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wyvern.space/industries/forestry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wyvern.space/industries/energy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wyvern.space/industries/mining",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wyvern.space/company/join-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wyvern.space/blog/hyperspectral-satellite-imaging-company-wyvern-selected-for-canada-investment-summit-2026-pitchbook",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wyvern.space/blog/what-we-learned-talking-to-mining-operators-about-reclamation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wyvern.space/blog/wyvern-and-nara-space-partner-to-expand-access-to-hyperspectral-data-across-asia",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/69403d531a97ab3d1e6f464a/6978def32cf656acb1e59a01_Wyvern_Image_Partners_Hero-BG.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/69403d531a97ab3d1e6f464a/6973cbd4e823934c766fa0dd_Wyvern_Image_Partners_Partner-Map.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/69403d531a97ab3d1e6f464a/697cd87260b336c22020593a_Wyvern_Image_Partners_Testimonial%20Messium_1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/69403d531a97ab3d1e6f464a/697cd8728fe3f27df8182f22_Wyvern_Image_Partners_Testimonial%20Montreal%20Port%20Authority.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.shoei.com/products/helmet/fullface/wyvern-zero/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://motor-fan.jp/article/152956/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=QRZjqQ63Kh4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://www.wyvern.co.jp/info/info.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wadax.ne.jp/company/agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://beyblade.fandom.com/wiki/WyvernHover_2-80GN",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shoei.com/products/helmet/fullface/wyvern-zero/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.wyvern.co.jp/info/info.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.webike.net/moto_news/new-product-shoeis-wyvern-zero-now-comes-in-three-giraffe-replicas-scheduled-to-go-on-sale-in-june-for-a-limited-order-period/?srsltid=AYCX9vId8n_Ig11ig6irhWwM7M1o2bTcGhS0LbxpkRy16gKgCFI4dUu8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wyvernamerica.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLibs7sm-0ogQxM6OuxDjsprMM_jyZs0ec3b0ctTv7Ud-ZFfQ-S",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wyretechnology.com/network-stabilization-cybersecurity-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wyvernltd.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intermedia.com/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.wyvernltd.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/wyvern.space",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/463968-82",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://payloadspace.com/wyvern-raises-6m-to-boost-hyperspectral-data-biz/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keen_lion3475/n/n3727dfc26e7f?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yom09i/n/naeec22fc52f0?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/u_ol/n/nef660db5cf4f?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tamage_take/n/n2a6ee81cb454?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/RowanWyvern",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BannedDino/status/2038748965328294262",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Whimsywyvern",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/monsterhunter/status/2095587768541794567",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/wyvern-space",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/wyvern-partners",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/wyvern-underwriters",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/wyvernltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/thefortnitecommunity/posts/1490119332923885/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/FantasyFaction/posts/3206894389619733/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/229761791287211/posts/1672627677000608/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/388458232806975/posts/1108896147429843/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TopWyvern",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Wyvern 日本 導入",
+   "results": [
+    "https://www.shoei.com/products/helmet/fullface/wyvern-zero/",
+    "https://motor-fan.jp/article/152956/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.youtube.com/watch?v=QRZjqQ63Kh4",
+    "https://www.webcg.net/articles/-/54501",
+    "https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=160111/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://trafficnews.jp/post/725198",
+    "https://ja.wikipedia.org/wiki/ワイヴァン知立",
+    "https://www.facebook.com/fcwyvern.co.jp/posts/日本サッカー界史上初ジュニアジュニアユース年代でcatapult導入この度日本一の育成組織を目指すwyvern-fcでcatapultカタパルト社のplayer/2676451725963291/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Wyvern 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "http://www.wyvern.co.jp/info/info.html",
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.wadax.ne.jp/company/agent/",
+    "https://ecwyvern.com/pages/agreement",
+    "https://wyv.jp/",
+    "https://www.fuva-brain.co.jp/inquiry/partner_contact/",
+    "https://www.digima-japan.com/knowhow/world/19787.php",
+    "https://webridge.co.jp/partner/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Wyvern Japan",
+   "results": [
+    "https://beyblade.fandom.com/wiki/WyvernHover_2-80GN",
+    "https://www.shoei.com/products/helmet/fullface/wyvern-zero/",
+    "http://www.wyvern.co.jp/info/info.html",
+    "https://japan.webike.net/moto_news/new-product-shoeis-wyvern-zero-now-comes-in-three-giraffe-replicas-scheduled-to-go-on-sale-in-june-for-a-limited-order-period/?srsltid=AYCX9vId8n_Ig11ig6irhWwM7M1o2bTcGhS0LbxpkRy16gKgCFI4dUu8",
+    "https://beyblade.fandom.com/wiki/Blade_-_Hover_Wyvern",
+    "https://www.ebay.com/shop/wyvern-beyblade?_nkw=wyvern+beyblade",
+    "https://www.reddit.com/r/BeybladeX/comments/1oowvo6/hover_wyvern_dmm_lottery_where_in_japan/",
+    "https://en.wikipedia.org/wiki/Wyvern_FC",
+    "https://nihonkoku-shoukan.fandom.com/wiki/Wyvern",
+    "https://www.facebook.com/wyvrnjp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Wyvern manufacturing customer case study",
+   "results": [
+    "https://wyvernamerica.com/case-studies/",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLibs7sm-0ogQxM6OuxDjsprMM_jyZs0ec3b0ctTv7Ud-ZFfQ-S",
+    "https://wyretechnology.com/network-stabilization-cybersecurity-case-study/",
+    "https://www.wyvernltd.com/about/",
+    "https://www.linkedin.com/posts/jordykoski_im-thrilled-to-read-about-the-support-wyvern-activity-7505366034032410624-gVBB",
+    "https://www.factory-twin.com/casestudies",
+    "https://www.infor.com/customer-stories",
+    "https://formlabs.com/blog/formlabs-wenext-advanced-manufacturing-case-study/",
+    "https://business.bt.com/insights/case-studies/manufacturing/",
+    "https://www.casestudies.com/company/fz-creative/case-study/wyvern-customer-case-study"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Wyvern white label OR reseller OR partner program",
+   "results": [
+    "https://www.intermedia.com/resellers",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.wyvernltd.com/about/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.deel.com/blog/introducing-deel-white-label/",
+    "https://kannect.co/partner/",
+    "https://seedlycrm.com/blog/white-label-crm-playbook",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Wyvern founded funding employees revenue",
+   "results": [
+    "https://www.wyvern.space/blog/wyvern-secures-usd-6m-to-expand-global-footprint-bolster-u-s-market-presence",
+    "https://getlatka.com/companies/wyvern.space",
+    "https://pitchbook.com/profiles/company/463968-82",
+    "https://payloadspace.com/wyvern-raises-6m-to-boost-hyperspectral-data-biz/",
+    "https://tracxn.com/d/companies/wyvern/__vDLr-8OEhcmW5DW9wQZhPRyQdA-Ipf1fcej7-Ka0Z68",
+    "https://www.caplight.com/company/wyvern",
+    "https://techcrunch.com/2022/01/17/space-startup-wyvern-raises-4-5m-and-joins-ycs-latest-cohort/",
+    "https://www.cbinsights.com/company/wyvern/financials",
+    "https://www.zoominfo.com/c/wyvern-inc/546763901",
+    "https://compworth.com/company/wyvern"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Wyvern",
+   "results": [
+    "https://note.com/keen_lion3475/n/n3727dfc26e7f?hl=en",
+    "https://note.com/yom09i/n/naeec22fc52f0?hl=en",
+    "https://note.com/u_ol/n/nef660db5cf4f?hl=en",
+    "https://note.com/tamage_take/n/n2a6ee81cb454?hl=en",
+    "https://note.com/elden_haitani/n/n49bb0558a981?hl=en",
+    "https://note.com/cubment/n/n3badf036740a?hl=en",
+    "https://note.com/takigawa_ebirou/n/n134c2bbae498?hl=en",
+    "https://note.com/nekomaro0320/n/nd9c1979d81f8?hl=en",
+    "https://note.com/piyopiyo_wyvern",
+    "https://note.com/calcarro/n/ne8bbf0365250?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Wyvern",
+   "results": [
+    "https://x.com/RowanWyvern",
+    "https://x.com/BannedDino/status/2038748965328294262",
+    "https://x.com/Whimsywyvern",
+    "https://x.com/monsterhunter/status/2095587768541794567",
+    "https://x.com/WyvernSimulator",
+    "https://x.com/BannedDino/status/1254680384366940160",
+    "https://x.com/BannedDino/status/1868119548639252771",
+    "https://x.com/YumicoWyvern",
+    "https://x.com/GoldieWygorn",
+    "https://x.com/WyvernAmerica"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Wyvern",
+   "results": [
+    "https://ca.linkedin.com/company/wyvern-space",
+    "https://uk.linkedin.com/company/wyvern-partners",
+    "https://www.linkedin.com/company/wyvern-underwriters",
+    "https://www.linkedin.com/company/wyvernltd",
+    "https://ca.linkedin.com/in/christopherrjrobson",
+    "https://www.linkedin.com/jobs/view/aviation-safety-officer-at-wyvern-ltd-175494209",
+    "https://www.linkedin.com/company/wyvern-security",
+    "https://www.linkedin.com/posts/wyvern-partners_gsr-acquires-autonomous-and-architech-to-activity-7439685951829811201-Fmef",
+    "https://ca.linkedin.com/in/kristencote"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com Wyvern",
+   "results": [
+    "https://www.facebook.com/groups/thefortnitecommunity/posts/1490119332923885/",
+    "https://www.facebook.com/groups/FantasyFaction/posts/3206894389619733/",
+    "https://www.facebook.com/groups/229761791287211/posts/1672627677000608/",
+    "https://www.facebook.com/groups/388458232806975/posts/1108896147429843/",
+    "https://www.facebook.com/groups/LitRPG.books/posts/24494900096773329/",
+    "https://www.facebook.com/paulbonnerart/posts/a-wyvern-always-an-unpleasant-surprise-for-questing-knights/981431786678439/",
+    "https://www.facebook.com/groups/anglosaxonsociety/posts/27109108735348747/",
+    "https://www.facebook.com/dragonspirations/posts/weve-officially-been-doing-the-dragons-of-legend-for-a-year-so-i-am-very-excited/594480297792546/",
+    "https://www.facebook.com/groups/arksurvivalascended/posts/772093412035708/",
+    "https://www.facebook.com/wyvernltd/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Wyvern note 社長",
+   "results": [
+    "https://x.com/sadaaki",
+    "https://note.com/shacho_homon/m/m1bd972cc202e",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/sadaaki",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://note.com/wovn_magazine/m/me4793b7e3525",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Wyvern X 投稿",
+   "results": [
+    "https://x.com/TopWyvern",
+    "https://www.reddit.com/r/acecombat/comments/bafdi8/why_does_the_x02_wyvern_look_incredibly_sick_of/",
+    "https://www.instagram.com/wyvern.x/",
+    "https://www.reddit.com/r/acecombat/comments/1n0n6hk/ace_combats_x02s_wyvern_in_realtime_action_lol/?tl=ja",
+    "https://www.youtube.com/watch?v=qoILIgDtnzM",
+    "https://dic.pixiv.net/a/X-02",
+    "https://x.com/WyvernNovaX",
+    "https://www.reddit.com/r/acecombat/comments/18dsfjs/the_raptor_roasts_the_x02_wyvern/?tl=ja",
+    "https://www.pixiv.net/users/6743638",
+    "https://x.com/wyverncrossplay"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部40頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部40頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部40頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部40頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部40頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部40頁・検索12回）"
+ }
+}

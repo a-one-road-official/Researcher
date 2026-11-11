@@ -1,0 +1,2098 @@
+{
+ "name": "Vanta",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-11T06:12:17.102269+00:00",
+ "official_url": "https://www.vanta.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "ARR",
+    "value": "$300M",
+    "url": "https://getlatka.com/companies/vanta",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$503M",
+    "url": "https://getlatka.com/companies/vanta",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "SOC 2, HIPAA, ISO 27001, PCI, and GDPR Compliance",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactively manage risk to drive smarter decisions.",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage vendor onboarding and security reviews in one place.",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate audit prep and evidence collection.",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build and prove trust from a single, unified platform.",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Expand your security and compliance program as you scale.",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect sensitive info more easily by automating HIPAA and HITRUST.",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactively monitor emerging threats and automate security workflows.",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Service provider directory",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover world-class service providers.",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vanta just worked out of the box. It pulled in the right data and gave us a solid foundation for a secure, audit-ready program.”",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner program overview",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Instructor-led training",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Live, interactive training to help you master the product and progress quickly.",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See the latest in Vanta news and press releases.",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Implement and optimize your TPRM program.",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Implement a GRC program with ease.",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get the guide to GDPR compliance.",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find all your security and compliance content here.",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Watch videos on security trends and expert insights",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Watch webinars and videos on trending security topics.",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 16,000 businesses from startup to enterprise",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminated 10 spreadsheets",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Compliance, risk, and proof. All in the #1 Agentic Trust Platform.",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay on top of vendor risk with Vanta's Agent for TPRM.",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactively manage risk to drive smarter decisions.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Manage vendor onboarding and security reviews in one place.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Automate audit prep and evidence collection.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Build and prove trust from a single, unified platform.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Expand your security and compliance program as you scale.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Protect sensitive info more easily by automating HIPAA and HITRUST.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Proactively monitor emerging threats and automate security workflows.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Service provider directory",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Discover world-class service providers.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Vanta just worked out of the box. It pulled in the right data and gave us a solid foundation for a secure, audit-ready program.”",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Partner program overview",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Instructor-led training",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Live, interactive training to help you master the product and progress quickly.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "See the latest in Vanta news and press releases.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Implement and optimize your TPRM program.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Implement a GRC program with ease.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Get the guide to GDPR compliance.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Find all your security and compliance content here.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Watch videos on security trends and expert insights",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Watch webinars and videos on trending security topics.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Vanta partners with global security and compliance leaders to provide a single platform to support your business needs.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Security Training Providers",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "We provide top-tier penetration testing, vulnerability management, and comprehensive security assessment solutions through a cutting-edge SaaS platform.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "We provide expert cybersecurity consulting services and conduct internal audits",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Achieve least-privilege through self-service Access Requests, Approvals and Access Reviews for any SaaS application.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Proactively manage risk to drive smarter decisions.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Auditor+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Manage vendor onboarding and security reviews in one place.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Auditor+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Automate audit prep and evidence collection.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Auditor+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Build and prove trust from a single, unified platform.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Auditor+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Expand your security and compliance program as you scale.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Auditor+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Protect sensitive info more easily by automating HIPAA and HITRUST.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Auditor+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Proactively monitor emerging threats and automate security workflows.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Auditor+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Service provider directory",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Auditor+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Discover world-class service providers.",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Auditor+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Vanta just worked out of the box. It pulled in the right data and gave us a solid foundation for a secure, audit-ready program.”",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Auditor+Partner",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 16,000 businesses from startup to enterprise",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 16,000+ customers, from startup to enterprise",
+    "url": "https://www.vanta.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Built fully on AWS and part of the AWS ISV Accelerate Program, Vanta seamlessly integrates with your infrastructure and is trusted by thousands of cloud-native companies.",
+    "url": "https://www.vanta.com/solutions/aws",
+    "pass": 1
+   },
+   {
+    "quote": "Vanta Case Study | Polytomic",
+    "url": "https://www.polytomic.com/case-studies/vanta-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by Thousands, Partnered With The Industry's Elite",
+    "url": "https://getagency.com/lp/vanta-partner",
+    "pass": 3
+   },
+   {
+    "quote": "The leading trust management and compliance automation platform, used by over 15,000 companies worldwide",
+    "url": "https://getagency.com/lp/vanta-partner",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta is the leading compliance automation platform trusted by over 15,000 companies. It automates up to 90% of the work required for SOC 2, ISO 27001, HIPAA, GDPR, and 35+ other frameworks through continuous monitoring, automated evidence collection, and 400+ integrations with your existing tools.",
+    "url": "https://getagency.com/lp/vanta-partner",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Partner program overview",
+    "url": "https://www.vanta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner program overview",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Partner program overview",
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Auditor+Partner",
+    "pass": 1
+   },
+   {
+    "quote": "Vanta Partner Program",
+    "url": "https://www.vanta.com/partners/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Vanta’s automation-first approach simplifies security and compliance for agencies. We look forward to working with Vanta and our reseller partners to bring the advanced trust management platform to the Public Sector.”",
+    "url": "https://www.vanta.com/partners/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Differentiate and grow your brand",
+    "url": "https://www.vanta.com/partners/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "For AWS service partners and resellers, partnering with Vanta extends your cloud expertise into compliance. Help clients achieve frameworks faster, while delivering high-impact services and ongoing support.",
+    "url": "https://www.vanta.com/partners/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Partner program overview",
+    "url": "https://www.vanta.com/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Vanta for Government | Government vendors and agencies",
+    "url": "https://www.vanta.com/solutions/government",
+    "pass": 1
+   },
+   {
+    "quote": "Partner program overview",
+    "url": "https://www.vanta.com/solutions/government",
+    "pass": 1
+   },
+   {
+    "quote": "Vanta’s AI-powered platform helps government vendors, federal agencies, and SLED organizations automate compliance, strengthen security posture, and support mission-critical work with confidence.",
+    "url": "https://www.vanta.com/solutions/government",
+    "pass": 1
+   },
+   {
+    "quote": "From federal agencies to state and local teams, Vanta automates the heavy lifting so your organization can focus on secure modernization, not manual processes.",
+    "url": "https://www.vanta.com/solutions/government",
+    "pass": 1
+   },
+   {
+    "quote": "Partner program overview",
+    "url": "https://www.vanta.com/company/security",
+    "pass": 1
+   },
+   {
+    "quote": "Partner program overview",
+    "url": "https://www.vanta.com/company/press",
+    "pass": 1
+   },
+   {
+    "quote": "to maintain trust in your brand.",
+    "url": "https://compliance.hopae.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta Partner Program (2026) | xAmplify",
+    "url": "https://xamplify.com/partner-programs/vanta/",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta Partner Program",
+    "url": "https://xamplify.com/partner-programs/vanta/",
+    "pass": 3
+   },
+   {
+    "quote": "Referral, reseller, and MSP partner program",
+    "url": "https://xamplify.com/partner-programs/vanta/",
+    "pass": 3
+   },
+   {
+    "quote": "What is the Vanta partner program?",
+    "url": "https://xamplify.com/partner-programs/vanta/",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta's partner program supports referral, service, and MSP partners around its automated security and compliance platform.",
+    "url": "https://xamplify.com/partner-programs/vanta/",
+    "pass": 3
+   },
+   {
+    "quote": "Everything a healthy partner program needs",
+    "url": "https://xamplify.com/partner-programs/vanta/",
+    "pass": 3
+   },
+   {
+    "quote": "Related partner programs in Cybersecurity Software",
+    "url": "https://xamplify.com/partner-programs/vanta/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller, MSSP, and technology alliance program",
+    "url": "https://xamplify.com/partner-programs/vanta/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller, MSSP, and MDR partner program",
+    "url": "https://xamplify.com/partner-programs/vanta/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller, SI, and technology partner program",
+    "url": "https://xamplify.com/partner-programs/vanta/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller, MSP, and referral partner program",
+    "url": "https://xamplify.com/partner-programs/vanta/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller, MSP, and cloud partner program",
+    "url": "https://xamplify.com/partner-programs/vanta/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller and MSP partner program",
+    "url": "https://xamplify.com/partner-programs/vanta/",
+    "pass": 3
+   },
+   {
+    "quote": "Apply to the Vanta partner program →",
+    "url": "https://xamplify.com/partner-programs/vanta/",
+    "pass": 3
+   },
+   {
+    "quote": "Drop your work email and book a 20-minute walkthrough tailored to your partner program — or grade yours free first.",
+    "url": "https://xamplify.com/partner-programs/vanta/",
+    "pass": 3
+   },
+   {
+    "quote": "Does Vanta have a partner program?",
+    "url": "https://xamplify.com/partner-programs/vanta/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes — a Referral, reseller, and MSP partner program program.",
+    "url": "https://xamplify.com/partner-programs/vanta/",
+    "pass": 3
+   },
+   {
+    "quote": "How does the Vanta partner program pay?",
+    "url": "https://xamplify.com/partner-programs/vanta/",
+    "pass": 3
+   },
+   {
+    "quote": "How do I join the Vanta partner program?",
+    "url": "https://xamplify.com/partner-programs/vanta/",
+    "pass": 3
+   },
+   {
+    "quote": "The best deal on Vanta is available through Agency's partner program. As the #1 ranked Vanta partner globally for 2025 and 2026, Agency offers preferred pricing, bundled implementation support, and dedicated compliance engineering — all at a lower total cost than purchasing Vanta independently.",
+    "url": "https://getagency.com/lp/vanta-partner",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Drive new revenue through resale and services, and stand out with a trusted platform your customers already want.",
+    "url": "https://www.vanta.com/partners/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Expand your services, reach more clients, and grow recurring revenue with the leading Agentic Trust Platform.",
+    "url": "https://www.vanta.com/partners/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "We consider Vanta to be a core part of what we do and how we deliver our service. Ideally you want to work with a best-in-breed partner, and that’s where Vanta comes in for us.”",
+    "url": "https://www.vanta.com/partners/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "We’re here to support your success! Level up your skills with sales training, technical certifications, and individualized coaching. Plus, work directly with Vanta’s sales team—who are aligned and incentivized to help you win—to build pipeline, close deals faster, and grow your revenue.",
+    "url": "https://www.vanta.com/partners/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "How Samsara influenced $150M in revenue while scaling GRC with Vanta",
+    "url": "https://www.vanta.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Carter Newell Lawyers unblocked 80% of revenue and streamlined 7 frameworks with Vanta",
+    "url": "https://www.vanta.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "John McCauley is Vanta’s Chief Financial Officer, overseeing finance and accounting. With over 20 years of experience, John was most recently at Calendly, where he served as CFO and then COO, helping expand the business to more than 20 million users across 230+ countries. Prior to Calendly, John was CFO at Seismic, helping grow annual revenue from approximately $100 million to $300 million.",
+    "url": "https://www.vanta.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Earlier in his career, John was in finance leadership at ServiceNow and helped support the company’s growth through its IPO. He studied Accountancy at the University of San Diego, earned his Master of Accountancy from San Diego State University, and is an inactive CPA.",
+    "url": "https://www.vanta.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "email address. We will never ask for payment as part of the interview or onboarding process.",
+    "url": "https://www.vanta.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Vanta offers a free production-level trial—typically five to seven days—where real work carries over if you become a customer. Startup-specific pricing is available; request a demo for details on programs tailored to early-stage companies.",
+    "url": "https://www.vanta.com/solutions/startup",
+    "pass": 1
+   },
+   {
+    "quote": "Our big opportunity as a compliance team is looking at every compliance activity as a sales activity. With the Salesforce integration, we’re able to see exactly how many dollars in revenue are directly touching the Trust Center.”",
+    "url": "https://www.vanta.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Grow your business—and revenue—at any stage",
+    "url": "https://www.vanta.com/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Built fully on AWS and part of the AWS ISV Accelerate Program, Vanta seamlessly integrates with your infrastructure and is trusted by thousands of cloud-native companies.",
+    "url": "https://www.vanta.com/solutions/aws",
+    "pass": 1
+   },
+   {
+    "quote": "Encryption keys are managed via AWS Key Management System (KMS). KMS stores key material in Hardware Security Modules (HSMs), which prevents direct access by any individuals, including employees of Amazon and Vanta. The keys stored in HSMs are used for encryption and decryption via Amazon’s KMS APIs.",
+    "url": "https://www.vanta.com/company/security",
+    "pass": 1
+   },
+   {
+    "quote": "Vanta secures remote access to internal resources using Tailscale, a modern VPN platform built on WireGuard. We also use malware-blocking DNS servers to protect employees and their endpoints while browsing the internet.",
+    "url": "https://www.vanta.com/company/security",
+    "pass": 1
+   },
+   {
+    "quote": "Vanta provides comprehensive security training to all employees upon onboarding and annually through educational modules within Vanta’s own platform. In addition, all new employees attend a mandatory live onboarding session centered around key security principles. All new engineers also attend a mandatory live onboarding session focused on secure coding principles and practices.",
+    "url": "https://www.vanta.com/company/security",
+    "pass": 1
+   },
+   {
+    "quote": "Vanta’s security team shares regular threat briefings with employees to inform them of important security and safety-related updates that require special attention or action.",
+    "url": "https://www.vanta.com/company/security",
+    "pass": 1
+   },
+   {
+    "quote": "Vanta employees are granted access to applications based on their role, and automatically deprovisioned upon termination of their employment. Further access must be approved according to the policies set for each application.",
+    "url": "https://www.vanta.com/company/security",
+    "pass": 1
+   },
+   {
+    "quote": "Vanta hits $300 million ARR as ‘shadow AI’ explodes across corporate America",
+    "url": "https://www.vanta.com/company/press",
+    "pass": 1
+   },
+   {
+    "quote": "Instead of showing a spreadsheet, Alex's team now brings customers into the process and discovers a business case together—creating a shared narrative that buyers can take internally with confidence.",
+    "url": "https://www.minoa.io/resources/customers/customer-story-vanta",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite: 100% revenue org adoption in under a month",
+    "url": "https://www.minoa.io/resources/customers/customer-story-vanta",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how Cognite achieved 100% revenue org adoption in under a month and created a universal framework for value across their global organization.",
+    "url": "https://www.minoa.io/resources/customers/customer-story-vanta",
+    "pass": 3
+   },
+   {
+    "quote": "Kevin is a Business Operations Engineer at Vanta. He is the primary technical resource for all things related to business operations and the resident expert for business tools such as Salesforce. He joined Vanta when there were five employees and has seen the company grow to nearly 100.",
+    "url": "https://www.polytomic.com/case-studies/vanta-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Track partner-sourced revenue end to end so you can double down on what works.",
+    "url": "https://xamplify.com/partner-programs/vanta/",
+    "pass": 3
+   },
+   {
+    "quote": "— Companies pursuing SOC 2 alongside ISO 27001, HIPAA, or GDPR on Vanta benefit from cross-framework pricing through Agency. Work done for one framework carries forward to every additional certification.",
+    "url": "https://getagency.com/lp/vanta-partner",
+    "pass": 3
+   },
+   {
+    "quote": "— Start with SOC 2 and expand to ISO 27001, HIPAA, or GDPR as your business grows. Vanta's multi-framework support means the compliance work you do now carries forward — no starting over.",
+    "url": "https://getagency.com/lp/vanta-partner",
+    "pass": 3
+   },
+   {
+    "quote": "Agency has helped 1,000+ companies with security and compliance, across startups, mid-market, and enterprise — from Y Combinator-backed startups to Fortune 500 security programs.",
+    "url": "https://getagency.com/lp/vanta-partner",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta was founded in 2018 by Christina Cacioppo and Erik Goldman, both former employees of Dropbox.",
+    "url": "https://en.wikipedia.org/wiki/Vanta_(company)",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta had five employees at the beginning of 2019 and nearly 45 by 2020.",
+    "url": "https://en.wikipedia.org/wiki/Vanta_(company)",
+    "pass": 3
+   },
+   {
+    "quote": "Sequoia investors noted that part of their interest in investing in Vanta stemmed from the fact that nearly two dozen of their portfolio companies were using Vanta's products. Cacioppo used these companies as references to demonstrate Vanta's market adoption to Sequoia.",
+    "url": "https://en.wikipedia.org/wiki/Vanta_(company)",
+    "pass": 3
+   },
+   {
+    "quote": "annual recurring revenue",
+    "url": "https://en.wikipedia.org/wiki/Vanta_(company)",
+    "pass": 3
+   },
+   {
+    "quote": "(ARR),",
+    "url": "https://en.wikipedia.org/wiki/Vanta_(company)",
+    "pass": 3
+   },
+   {
+    "quote": "million raised as part of its Series B funding round, which had been led in June, bringing its total capital raised to US$203",
+    "url": "https://en.wikipedia.org/wiki/Vanta_(company)",
+    "pass": 3
+   },
+   {
+    "quote": "In January 2023, Vanta acquired TrustPage, a company based in",
+    "url": "https://en.wikipedia.org/wiki/Vanta_(company)",
+    "pass": 3
+   },
+   {
+    "quote": "Cacioppo declined to comment on the company's ARR but confirmed that the average transaction size and growth rate had increased. She also stated that none of the US$150",
+    "url": "https://en.wikipedia.org/wiki/Vanta_(company)",
+    "pass": 3
+   },
+   {
+    "quote": "The company also confirmed the acquisition of Riskey, an Israeli company that developed an AI-based risk monitoring and incident categorization product, for an undisclosed amount.",
+    "url": "https://en.wikipedia.org/wiki/Vanta_(company)",
+    "pass": 3
+   },
+   {
+    "quote": "Cacioppo stated that Vanta was open to acquiring companies with adjacent product offerings to further expand its product suite, and that the funding could be used for additional acquisitions as the company saw fit.",
+    "url": "https://en.wikipedia.org/wiki/Vanta_(company)",
+    "pass": 3
+   },
+   {
+    "quote": "In April 2026, Vanta reported 1,000 employees, over 16,000 customers, and $300 million in ARR, a threefold increase over the previous two years. The company attributed its growth to increased enterprise adoption of AI and growing demand for oversight of",
+    "url": "https://en.wikipedia.org/wiki/Vanta_(company)",
+    "pass": 3
+   },
+   {
+    "quote": "Harris, Philip D. (June 2025).",
+    "url": "https://en.wikipedia.org/wiki/Vanta_(company)",
+    "pass": 3
+   },
+   {
+    "quote": "\"Exclusive: Vanta hits $300 million ARR as 'shadow AI' explodes across corporate America\"",
+    "url": "https://en.wikipedia.org/wiki/Vanta_(company)",
+    "pass": 3
+   },
+   {
+    "quote": "Barrett, Eamon (December 1, 2023).",
+    "url": "https://en.wikipedia.org/wiki/Vanta_(company)",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta Revenue 2026: $300M ARR, $503M Raised",
+    "url": "https://getlatka.com/companies/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta's annual recurring revenue passed $300M in April 2026 (Press & News).",
+    "url": "https://getlatka.com/companies/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta CEO, founders & employees",
+    "url": "https://getlatka.com/companies/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "Christina Cacioppo founded Vanta in 2018 with Erik Goldman and runs it as CEO. Vanta has 1,000 employees (April 2026, Fortune).",
+    "url": "https://getlatka.com/companies/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "What is Vanta's revenue?",
+    "url": "https://getlatka.com/companies/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta's annual recurring revenue passed",
+    "url": "https://getlatka.com/companies/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Vanta have?",
+    "url": "https://getlatka.com/companies/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of April 2026, according to Fortune.",
+    "url": "https://getlatka.com/companies/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "The Early Days: 5 Things Vanta Got Right, And 5 It Got Wrong, Getting to First $10m ARR | SaaStrAI",
+    "url": "https://www.saastr.com/the-early-days-5-things-vanta-got-right-and-5-it-got-wrong-getting-to-first-10m-arr/",
+    "pass": 3
+   },
+   {
+    "quote": "eBook: The First $1m ARR",
+    "url": "https://www.saastr.com/the-early-days-5-things-vanta-got-right-and-5-it-got-wrong-getting-to-first-10m-arr/",
+    "pass": 3
+   },
+   {
+    "quote": "The Early Days: 5 Things Vanta Got Right, And 5 It Got Wrong, Getting to First $10m ARR",
+    "url": "https://www.saastr.com/the-early-days-5-things-vanta-got-right-and-5-it-got-wrong-getting-to-first-10m-arr/",
+    "pass": 3
+   },
+   {
+    "quote": "5 Things Vanta Got Right and 5 They Got Wrong getting to the first $10m ARR",
+    "url": "https://www.saastr.com/the-early-days-5-things-vanta-got-right-and-5-it-got-wrong-getting-to-first-10m-arr/",
+    "pass": 3
+   },
+   {
+    "quote": "500+ employees across North America, UK, Germany, and Australia",
+    "url": "https://www.saastr.com/the-early-days-5-things-vanta-got-right-and-5-it-got-wrong-getting-to-first-10m-arr/",
+    "pass": 3
+   },
+   {
+    "quote": "Based on Christina’s candid reflections from SaaStr presentations in SF and London, here’s an honest look at what Vanta got right—and what they got painfully wrong—on their path from $0 to the first $10M ARR.",
+    "url": "https://www.saastr.com/the-early-days-5-things-vanta-got-right-and-5-it-got-wrong-getting-to-first-10m-arr/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Manage all your evidence from one platform. Request, review, and track everything—no more email chains or lost documents. Leave comments directly on evidence to notify the right person, resolve issues fast, and keep your audit on schedule.",
+    "url": "https://www.vanta.com/partners/auditors",
+    "pass": 1
+   },
+   {
+    "quote": "email address. We will never ask for payment as part of the interview or onboarding process.",
+    "url": "https://www.vanta.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "With A-LIGN and Vanta, we conducted two audits simultaneously. A-LIGN had their SOC 2 auditors and ISO 27001 auditors on the calls and in Vanta at the same time. Providing direct access to Vanta ensured an efficient audit process by reducing unnecessary emails and delays.”",
+    "url": "https://www.vanta.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Drop your work email and book a 20-minute walkthrough tailored to your partner program — or grade yours free first.",
+    "url": "https://xamplify.com/partner-programs/vanta/",
+    "pass": 3
+   },
+   {
+    "quote": "During its first two years, the company maintained minimal formal structure, holding no executive or staff meetings, relying on manually written customer emails rather than an automated system, and keeping costs low through practical measures.",
+    "url": "https://en.wikipedia.org/wiki/Vanta_(company)",
+    "pass": 3
+   },
+   {
+    "quote": "You Are Probably Doing Email All Wrong",
+    "url": "https://www.saastr.com/the-early-days-5-things-vanta-got-right-and-5-it-got-wrong-getting-to-first-10m-arr/",
+    "pass": 3
+   },
+   {
+    "quote": "Your email address will not be published.",
+    "url": "https://www.saastr.com/the-early-days-5-things-vanta-got-right-and-5-it-got-wrong-getting-to-first-10m-arr/",
+    "pass": 3
+   },
+   {
+    "quote": "During the audit period, members of the audit firm will check each piece of evidence on Vanta and, if there are any deficiencies or questions, they will request additional information or evidence via Slack or email. Responding to these requests is the primary task during the audit period.",
+    "url": "https://note.com/domonjo01/n/nc3779d0b880b?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Vanta導入支援｜日本唯一MSP Hopae",
+    "url": "https://compliance.hopae.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Hopaeと共にコンプライアンス認証を取得する場合、MSP（代理店）特典として割引を受けることができます",
+    "url": "https://compliance.hopae.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta セキュリティ・コンプライアンス 製品概要 - 日本正規代理店 | TrustNow株式会社 - TrustNow株式会社",
+    "url": "https://www.trustnow.co.jp/vanta-products/",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta セキュリティ・コンプライアンス 製品概要 - 日本正規代理店 | TrustNow株式会社",
+    "url": "https://www.trustnow.co.jp/vanta-products/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業は、ISO 27001やSOC 2、個人情報保護法など、国内外の多様な基準への対応を迫られています",
+    "url": "https://www.trustnow.co.jp/vanta-products/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、Japan Security Summitの調査（2023年）によると、サプライヤーと十分なセキュリティ連携（リスク評価や管理）ができている日本企業は",
+    "url": "https://www.trustnow.co.jp/vanta-products/",
+    "pass": 3
+   },
+   {
+    "quote": "TrustNow株式会社は、Vanta社とのパートナー契約（Vanta Managed Service Provider Partner）に基づき、Vantaのライセンスを提供しています",
+    "url": "https://www.trustnow.co.jp/vanta-products/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内では、INNOOV（イノーブ）やHopae、TrustNowなどが正規代理店として、Vantaのライセンス提供から導入完了、運用サポートまでをワンストップで提供しています",
+    "url": "https://note.com/domonjo01/n/nf62351cd921e",
+    "pass": 3
+   },
+   {
+    "quote": "日本語でのコンサルティングや導入支援を受けられるため、英語に不安がある企業でも安心して導入を進められます",
+    "url": "https://note.com/domonjo01/n/nf62351cd921e",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ認証の取得・維持を自動化するVanta｜国内正規代理店INNOOV",
+    "url": "https://www.innoov.io/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フィリップス・ジャパン │ JSM 導入事例",
+    "url": "https://www.innoov.io/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "量子科学技術研究開発機構 │ Jira × Scrum 導入事例",
+    "url": "https://www.innoov.io/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "i-PRO株式会社 │ Confluence 導入事例",
+    "url": "https://www.innoov.io/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "ご相談・ご契約は国内正規代理店のINNOOVが日本語で対応し、導入後はVantaのカスタマーサクセスが日本語で直接サポートします",
+    "url": "https://www.innoov.io/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内でもスタートアップから中堅企業まで導入が進んでいます",
+    "url": "https://www.innoov.io/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "ご相談・見積・契約はINNOOVが日本語で対応し、導入後はVantaカスタマーサクセスが日本語でサポート（全プラン標準・追加費用なし）",
+    "url": "https://www.innoov.io/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "商談にはVantaの営業担当が同席し、導入後はVantaのカスタマーサクセスが日本語で直接支援",
+    "url": "https://www.innoov.io/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "INNOOVはVantaの国内正規代理店です",
+    "url": "https://www.innoov.io/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "現状の課題と目指す認証を日本語でお伺いし、実際の画面でご説明します",
+    "url": "https://www.innoov.io/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "日本円・請求書払いに対応し、手続きは日本語で完結します",
+    "url": "https://www.innoov.io/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "インテグレーション設定などの立ち上げを日本語でサポートします",
+    "url": "https://www.innoov.io/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta（ヴァンタ）とは何ですか？日本語で使えますか？",
+    "url": "https://www.innoov.io/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "製品UIは現在英語ですが、日本語対応に向けた開発が進んでいます",
+    "url": "https://www.innoov.io/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "ご相談・お見積もり・契約はINNOOVが日本語で対応し、導入後もVantaのカスタマーサクセスが日本語でサポートしますので、英語UIでも支障なく運用いただけます",
+    "url": "https://www.innoov.io/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の機能解説記事もhelp.innoov.ioで公開中です",
+    "url": "https://www.innoov.io/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "代理店経由だと、サポートの質が落ちませんか？",
+    "url": "https://www.innoov.io/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "AIを活用したGRC自動化プラットフォーム「Vanta」の国内販売代理店契約を締結 〜コンプライアンス対応の自動化により、企業間取引の信頼性向上と事業機会の拡大を支援〜|東京エレクトロンデバイス",
+    "url": "https://www.teldevice.co.jp/pro_info/2026/press_260911.php",
+    "pass": 3
+   },
+   {
+    "quote": "AIを活用したGRC自動化プラットフォーム「Vanta」の国内販売代理店契約を締結",
+    "url": "https://www.teldevice.co.jp/pro_info/2026/press_260911.php",
+    "pass": 3
+   },
+   {
+    "quote": "東京エレクトロン デバイス株式会社（本社：東京都渋谷区、代表取締役社長：宮本 隆義、以下 TED）は、Vanta Inc.（本社：米国カリフォルニア州サンフランシスコ、CEO: Christina Cacioppo、以下 Vanta）が提供するGRC自動化プラットフォーム「Vanta（ヴァンタ）」について、販売代理店契約を締結し、2026年9月11日より販売開始します",
+    "url": "https://www.teldevice.co.jp/pro_info/2026/press_260911.php",
+    "pass": 3
+   },
+   {
+    "quote": "調印式の様子 東京エレクトロン デバイス株式会社 宮本 隆義（左）、Vanta Inc. Bill Fitzgerald氏（右）",
+    "url": "https://www.teldevice.co.jp/pro_info/2026/press_260911.php",
+    "pass": 3
+   },
+   {
+    "quote": "TEDは、これまで培ってきたセキュリティ・クラウド分野の豊富な技術知見とエンジニアリング力を活かし、Vantaのライセンス販売に加え、日本語による問い合わせ対応やクラウド／SaaS環境との連携設定などの導入・運用支援サービスを提供します",
+    "url": "https://www.teldevice.co.jp/pro_info/2026/press_260911.php",
+    "pass": 3
+   },
+   {
+    "quote": "今回、東京エレクトロンデバイス様とパートナーシップを締結し、日本企業への提供体制を強化できることを大変嬉しく思います",
+    "url": "https://www.teldevice.co.jp/pro_info/2026/press_260911.php",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業において、情報セキュリティやコンプライアンスへの対応は、単なる社内管理にとどまらず、顧客やパートナーに自社の信頼性を示し、信頼関係を築く上で重要性を増しています",
+    "url": "https://www.teldevice.co.jp/pro_info/2026/press_260911.php",
+    "pass": 3
+   },
+   {
+    "quote": "両社の連携を通じ、日本企業の継続的な信頼構築とグローバルビジネスの成長を支援してまいります",
+    "url": "https://www.teldevice.co.jp/pro_info/2026/press_260911.php",
+    "pass": 3
+   },
+   {
+    "quote": "【東京エレクトロン デバイス株式会社について】",
+    "url": "https://www.teldevice.co.jp/pro_info/2026/press_260911.php",
+    "pass": 3
+   },
+   {
+    "quote": "東京エレクトロンデバイスは、メーカーと技術商社の力で潜在的な社会課題を解決する会社を目指し、半導体やITを中心とする最先端テクノロジーの社会実装を推進しています",
+    "url": "https://www.teldevice.co.jp/pro_info/2026/press_260911.php",
+    "pass": 3
+   },
+   {
+    "quote": "東京エレクトロン デバイス株式会社 マーケティングコミュニケーション部 広報グループ",
+    "url": "https://www.teldevice.co.jp/pro_info/2026/press_260911.php",
+    "pass": 3
+   },
+   {
+    "quote": "東京エレクトロン デバイス株式会社 CN BU Vanta製品担当",
+    "url": "https://www.teldevice.co.jp/pro_info/2026/press_260911.php",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区浜松町2丁目2番15号",
+    "url": "https://vanta.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府金融広報委員会（事務局：日本銀行大阪支店）",
+    "url": "https://vanta.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "東京大学付属図書館アジア研究図書館上廣隣里財団寄付研究部門",
+    "url": "https://vanta.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "東京都金融広報委員会（事務局：日本銀行本店）",
+    "url": "https://vanta.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "広島県金融広報委員会（事務局：日本銀行広島支店）",
+    "url": "https://vanta.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "「コンプライアンス」のユニコーンVantaを生んだ女性起業家 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "url": "https://forbesjapan.com/articles/detail/64374",
+    "pass": 3
+   },
+   {
+    "quote": "KKR・大和証券の両トップが語る 日本が「世界有数の成長市場」になる未来",
+    "url": "https://forbesjapan.com/articles/detail/64374",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ今、日本市場に勝機があるのか ローランド・ベルガーが示す日本企業の新たな成長像",
+    "url": "https://forbesjapan.com/articles/detail/64374",
+    "pass": 3
+   },
+   {
+    "quote": "上智大学×タキヒヨーの共創が生んだサステナブルTシャツ――「TOKYOエシカル」がつなぐ新たな可能性",
+    "url": "https://forbesjapan.com/articles/detail/64374",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPANの最新のニュースをお届けします",
+    "url": "https://forbesjapan.com/articles/detail/64374",
+    "pass": 3
+   },
+   {
+    "quote": "Availability of communication in Japanese",
+    "url": "https://note.com/domonjo01/n/nc3779d0b880b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". Many of the audit firms introduced by Vanta are overseas offices. There is a risk of language barriers when auditors in English-speaking regions review regulations created in Japanese. Choosing an audit firm with a Japanese office or one that can handle Japanese will reduce communication costs.",
+    "url": "https://note.com/domonjo01/n/nc3779d0b880b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Track record with SOC2 in Japan",
+    "url": "https://note.com/domonjo01/n/nc3779d0b880b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". Check if they have experience dealing with Japan-specific regulatory requirements and industry guidelines. Since SOC2 Trust Services Criteria are based on US standards, it is desirable to have auditors who understand the consistency with Japanese laws and regulations.",
+    "url": "https://note.com/domonjo01/n/nc3779d0b880b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". While there are no major differences in functionality, there is room for choice based on support systems, UI usability, and pricing. In Japan, there are cases where some companies have obtained SOC2 using Drata.",
+    "url": "https://note.com/domonjo01/n/nc3779d0b880b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For Japanese companies, SOC2 may still be unfamiliar. However, for SaaS companies expanding globally or those aiming to do business with US or foreign-affiliated companies, obtaining SOC2 is becoming a de facto business prerequisite.",
+    "url": "https://note.com/domonjo01/n/nc3779d0b880b?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Vanta導入 支援｜ 日本 唯一MSP Hopae — Vanta導入 支援｜ 日本 唯一MSP Hopae Hopae https://compliance.hopae.com > ...",
+    "url": "https://compliance.hopae.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta セキュリティ・コンプライアンス 製品概要 — Vanta セキュリティ・コンプライアンス 製品概要 TrustNow株式会社 https://www.trustnow.co.jp > vanta-products",
+    "url": "https://www.trustnow.co.jp/vanta-products/",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ監査が変わる！ Vanta で実現する「信頼の自動化」 — セキュリティ監査が変わる！ Vanta で実現する「信頼の自動化」 note https://note.com > コンピュータ・IT > インターネットビジネス",
+    "url": "https://note.com/domonjo01/n/nf62351cd921e",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ認証の取得・維持を自動化する Vanta — セキュリティ認証の取得・維持を自動化する Vanta INNOOV株式会社 https://www.innoov.io > vanta",
+    "url": "https://www.innoov.io/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "【 Vanta導入 企業向け】 Vanta を活用した場合の統制記述作成 ... — 【 Vanta導入 企業向け】 Vanta を活用した場合の統制記述作成 ... soc2.jp https://soc2.jp > column > vanta-soc2-write",
+    "url": "https://soc2.jp/column/vanta-soc2-write/",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta 導入支援｜日本唯一MSP Hopae — Vanta 導入支援｜日本唯一MSP Hopae Hopae https://compliance.hopae.com > ...",
+    "url": "https://compliance.hopae.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "AIを活用したGRC自動化プラットフォーム「 Vanta 」の国内 ... — AIを活用したGRC自動化プラットフォーム「 Vanta 」の国内 ... 東京エレクトロンデバイス https://www.teldevice.co.jp > pro_info > press_260911",
+    "url": "https://www.teldevice.co.jp/pro_info/2026/press_260911.php",
+    "pass": 3
+   },
+   {
+    "quote": "About - Vanta — About - Vanta vanta.co.jp https://vanta.co.jp > about",
+    "url": "https://vanta.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta 導入支援 × サポート体制 - INNOOV株式会社 — Vanta 導入支援 × サポート体制 - INNOOV株式会社 INNOOV株式会社 https://www.innoov.io > vanta-support",
+    "url": "https://www.innoov.io/vanta-support",
+    "pass": 3
+   },
+   {
+    "quote": "プラットフォームデモ： Vanta で SOC 2、ISO 27001 などを ... — プラットフォームデモ： Vanta で SOC 2、ISO 27001 などを ... Vanta https://www.vanta.com > webinars > puratutohuomudemo...",
+    "url": "https://www.vanta.com/webinars/puratutohuomudemo-vanta-de-soc-2-iso-27001-nadowozi-dong-hua",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta's Japan Kickoff Event: A Look at SOC 2 Compliance for ... — Vanta's Japan Kickoff Event: A Look at SOC 2 Compliance for ... LinkedIn https://www.linkedin.com > posts > k...",
+    "url": "https://www.linkedin.com/posts/katsutoshi-tabata-ba514244_vanta-soc2-security-activity-7382234417429331969-HaEx",
+    "pass": 3
+   },
+   {
+    "quote": "「コンプライアンス」のユニコーン Vanta を生んだ女性起業家 — 「コンプライアンス」のユニコーン Vanta を生んだ女性起業家 Forbes JAPAN https://forbesjapan.com > スタートアップ > 起業家",
+    "url": "https://forbesjapan.com/articles/detail/64374",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta Japan Community Meetup - connpass — Vanta Japan Community Meetup - connpass connpass https://vanta.connpass.com",
+    "url": "https://vanta.connpass.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Success Stories - Vanta — Customer Success Stories - Vanta Vanta https://www.vanta.com > customers",
+    "url": "https://www.vanta.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta : The Evolution of a Sales Organization — Vanta : The Evolution of a Sales Organization Stanford Graduate School of Business https://www.gsb.stanford.edu > vanta-...",
+    "url": "https://www.gsb.stanford.edu/faculty-research/case-studies/vanta-evolution-sales-organization",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta Builds Trust at Speed - Customer Stories - Minoa — Vanta Builds Trust at Speed - Customer Stories - Minoa minoa.io https://www.minoa.io > customers > c...",
+    "url": "https://www.minoa.io/resources/customers/customer-story-vanta",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta Case Study | Polytomic — Vanta Case Study | Polytomic Polytomic https://www.polytomic.com > vanta-c...",
+    "url": "https://www.polytomic.com/case-studies/vanta-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta Service Provider Program — Vanta Service Provider Program Vanta https://www.vanta.com > partners > se...",
+    "url": "https://www.vanta.com/partners/service-providers",
+    "pass": 3
+   },
+   {
+    "quote": "How MSPs unlock growth with Vanta's Service Partner Program — How MSPs unlock growth with Vanta's Service Partner Program Vanta https://www.vanta.com > resources",
+    "url": "https://www.vanta.com/resources/how-msps-unlock-growth-with-vantas-service-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta Partner Program (2026) - xAmplify — Vanta Partner Program (2026) - xAmplify xamplify.com https://xamplify.com > vanta",
+    "url": "https://xamplify.com/partner-programs/vanta/",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta Implementation & Managed Compliance — Vanta Implementation & Managed Compliance Agency Cybersecurity https://getagency.com > Partners",
+    "url": "https://getagency.com/lp/vanta-partner",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta Implementation & Audit Support - Kobalt.io — Vanta Implementation & Audit Support - Kobalt.io Kobalt.io https://kobalt.io > success-vanta",
+    "url": "https://kobalt.io/success-vanta/",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta (company) - Wikipedia — Vanta (company) - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Vant...",
+    "url": "https://en.wikipedia.org/wiki/Vanta_(company)",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta Revenue 2026: $300M ARR, $503M Raised - GetLatka — Vanta Revenue 2026: $300M ARR, $503M Raised - GetLatka GetLatka https://getlatka.com > vanta",
+    "url": "https://getlatka.com/companies/vanta",
+    "pass": 3
+   },
+   {
+    "quote": "The Early Days: 5 Things Vanta Got Right, And 5 It Got Wrong ... — The Early Days: 5 Things Vanta Got Right, And 5 It Got Wrong ... saastr.com https://www.saastr.com > the-early-da...",
+    "url": "https://www.saastr.com/the-early-days-5-things-vanta-got-right-and-5-it-got-wrong-getting-to-first-10m-arr/",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta crosses $300M in ARR as growth accelerates — Vanta crosses $300M in ARR as growth accelerates Vanta https://www.vanta.com > resources",
+    "url": "https://www.vanta.com/resources/vanta-crosses-300m-in-arr-as-growth-accelerates",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta Revenue , Valuation, Funding & Investors - Multiples.vc — Vanta Revenue , Valuation, Funding & Investors - Multiples.vc Multiples.vc https://multiples.vc > Companies",
+    "url": "https://multiples.vc/private-comps/vanta",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "What are GRC tools like Vanta and Drata?｜SOC報告書ラボ What are GRC tools like Vanta and Drata?｜SOC報告書ラボ note https://note.com > domonjo01",
+    "url": "https://note.com/domonjo01/n/na5e66c7d3659?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Obtain a SOC2 Report with Vanta - note How to Obtain a SOC2 Report with Vanta - note note https://note.com > ... > 経営者・実業家",
+    "url": "https://note.com/domonjo01/n/nc3779d0b880b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Pwnage VANTA 、世界初の可変クリック機構と低密度 ... - note Pwnage VANTA 、世界初の可変クリック機構と低密度 ... - note note https://note.com > コンピュータ・IT > パソコン・周辺機器",
+    "url": "https://note.com/kout42/n/n7ebb6b13183e",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta 導入企業向けの記事｜及川翔太 | 令和監査法人 - note Vanta 導入企業向けの記事｜及川翔太 | 令和監査法人 - note note https://note.com > meneside",
+    "url": "https://note.com/meneside/m/me1160a16bef1",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta 公式 - note Vanta 公式 - note note https://note.com > vanta_japan2018",
+    "url": "https://note.com/vanta_japan2018",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "What are GRC tools like Vanta and Drata?｜SOC報告書ラボ",
+    "url": "https://note.com/domonjo01/n/na5e66c7d3659?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What are GRC tools like Vanta and Drata?",
+    "url": "https://note.com/domonjo01/n/na5e66c7d3659?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Please get SOC 2 certified,\" \"We can't sign a contract without ISO 27001 certification\"—if you work at a SaaS company, you have likely received such requests from business partners. Until now, it was standard practice to prepare internal regulations, gather evidence in spreadsheets, and spend months communicating with auditors. To significantly streamline this heavy labor, \"GRC tools,\" represente",
+    "url": "https://note.com/domonjo01/n/na5e66c7d3659?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As of April 2026, Vanta has surpassed $300 million in Annual Recurring Revenue (ARR) and reached 16,000 customers. Drata has also exceeded 8,000 customers, and the GRC automation market, centered on these two companies, continues to expand rapidly. In this article, we will organize what GRC tools are in the first place, and what characteristics Vanta and Drata each possess.",
+    "url": "https://note.com/domonjo01/n/na5e66c7d3659?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "GRC is an acronym for Governance, Risk, and Compliance, referring to the concepts and mechanisms by which companies manage these three areas in an integrated manner. GRC tools like Vanta and Drata are services that specifically monitor the \"compliance\" area—the status of adherence to various security certifications and standards such as SOC 2, ISO 27001, and HIPAA—by connecting directly to cloud i",
+    "url": "https://note.com/domonjo01/n/na5e66c7d3659?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Conventionally, the process of obtaining such certifications involved endless, tedious work where personnel manually took screenshots, checked configuration statuses, and managed checklists in Excel. GRC tools connect via API to various cloud and SaaS services like AWS, Google Workspace, and Okta to continuously and automatically check whether controls (internal control items) are actually functio",
+    "url": "https://note.com/domonjo01/n/na5e66c7d3659?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta is the platform with the largest market share in the compliance automation market. Its strength lies in its support for over 400 service integrations and a wide range of standards, including SOC 2, ISO 27001, and HIPAA, as well as government procurement-related frameworks like FedRAMP and NIST 800-53. It also has a robust marketplace for audit firms, with a system in place to provide end-to-",
+    "url": "https://note.com/domonjo01/n/na5e66c7d3659?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is also worth noting that since the beginning of 2026, they have introduced the AI agent feature \"Agentic Trust Platform.\" This feature acts like a \"resident GRC engineer,\" reviewing uploaded evidence against audit requirements, automatically mapping controls, and detecting discrepancies between internal regulations and actual operational practices. In March 2026, specialized agents for complia",
+    "url": "https://note.com/domonjo01/n/na5e66c7d3659?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Obtain a SOC2 Report with Vanta: A Practical Guide from Scratch for Startups and SaaS Companies｜SOC報告書ラボ",
+    "url": "https://note.com/domonjo01/n/nc3779d0b880b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Obtain a SOC2 Report with Vanta: A Practical Guide from Scratch for Startups and SaaS Companies",
+    "url": "https://note.com/domonjo01/n/nc3779d0b880b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"I've been told I need SOC2, but I don't know where to start.\"",
+    "url": "https://note.com/domonjo01/n/nc3779d0b880b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Many SaaS company representatives have had this experience when selling to US or foreign-affiliated companies. A SOC2 report is an internationally recognized report that provides third-party verification of a cloud service's security and reliability. In recent years, its status has rapidly shifted from something that is \"good to have for trust\" to a requirement that is \"essential for being selecte",
+    "url": "https://note.com/domonjo01/n/nc3779d0b880b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "And the tool that has become globally popular as a way to significantly streamline SOC2 acquisition is",
+    "url": "https://note.com/domonjo01/n/nc3779d0b880b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, I will systematically explain what kind of tool Vanta is and the process of actually obtaining a SOC2 report, based on my own hands-on experience. I have aimed to create content that allows startup representatives considering SOC2 for the first time to get a concrete image of the actual journey.",
+    "url": "https://note.com/domonjo01/n/nc3779d0b880b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "First, as a premise: What is a SOC2 report?",
+    "url": "https://note.com/domonjo01/n/nc3779d0b880b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Before diving into Vanta, let's cover the basics of a SOC2 report.",
+    "url": "https://note.com/domonjo01/n/nc3779d0b880b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Pwnage VANTA、世界初の可変クリック機構と低密度マグネシウム筐体を引っ提げ登場—約26,000円から｜Kout42(こうた)",
+    "url": "https://note.com/kout42/n/n7ebb6b13183e",
+    "pass": 3
+   },
+   {
+    "quote": "Pwnage VANTA、世界初の可変クリック機構と低密度マグネシウム筐体を引っ提げ登場—約26,000円から",
+    "url": "https://note.com/kout42/n/n7ebb6b13183e",
+    "pass": 3
+   },
+   {
+    "quote": "Pwnageは、新型ワイヤレスゲーミングマウス「VANTA Wireless Gaming Mouse」を発表した。直販価格は$159。カラーバリエーションはBlack、Platinum、Nacho、Whiteの4色展開で、1年間のメーカー保証および30日間の返金保証が付属する。",
+    "url": "https://note.com/kout42/n/n7ebb6b13183e",
+    "pass": 3
+   },
+   {
+    "quote": "スイッチを換えずに押し心地を変える——VANTAGE™ Click System",
+    "url": "https://note.com/kout42/n/n7ebb6b13183e",
+    "pass": 3
+   },
+   {
+    "quote": "本製品最大の特徴は、メーカーが「VANTAGE™ Click System」と呼ぶ可変クリック機構だ。メーカーはこれを世界初の機構と謳う。従来のゲーミングマウスでクリックフィールをカスタマイズする手段といえば、スイッチそのものをソルダーレスで交換するホットスワップ方式が主流だった。VANTAGE™ Click Systemはその前提を覆し、スイッチを換装せず、付属の専用ドライバーでボタンの物理的な構造そのものを調整する。変更できるのはクリック荷重、初期抵抗感、フォースカーブ、アクチュエーション感、ブレイクポイント、リターン感の6項目だ。搭載スイッチはSPDT（デュアルコンタクト）方式のメカニカルスイッチで、耐久性は7,000万回クリックを謳う。",
+    "url": "https://note.com/kout42/n/n7ebb6b13183e",
+    "pass": 3
+   },
+   {
+    "quote": "もうひとつのハードウェア機構が、センサー位置を前後方向へ物理的にスライドできる「Adjustable Sensor Position」だ。かぶせ・つかみ・つまみといった持ち方や手の大きさによって、手首や指の回転支点は個人差が大きい。センサー位置をその支点に近づけることで、フリック動作時の読み取り誤差が減少するとしており、メーカーの研究データではエイムの速度・正確性が最大14%向上し、軌道のブレが最大23%低減するという。",
+    "url": "https://note.com/kout42/n/n7ebb6b13183e",
+    "pass": 3
+   },
+   {
+    "quote": "「軽さ」を重量値ではなく密度で語る設計思想",
+    "url": "https://note.com/kout42/n/n7ebb6b13183e",
+    "pass": 3
+   },
+   {
+    "quote": "筐体にはマグネシウム合金を採用する。アルミニウム比で約33%、スチール比で約75%の軽量化を実現しつつ、プラスチック筐体で生じるたわみをゼロに抑えるとする。本体重量は約49〜51gだが、メーカーが強調するのは重量値よりも「低密度」という概念だ。本体容積288cm³に対する密度は約0.17g/cm³で、一般的なゲーミングマウスの平均とされる約0.30g/cm³を大きく下回る。密度が低いとは、同じ重量でも体積が大きいということを意味する。手に感じる重さの集中感が分散されるため、数値以上に軽く・コントロールしやすく感じるというのがメーカーの主張だ。",
+    "url": "https://note.com/kout42/n/n7ebb6b13183e",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta導入企業向けの記事｜及川翔太 | 令和監査法人｜note",
+    "url": "https://note.com/meneside/m/me1160a16bef1",
+    "pass": 3
+   },
+   {
+    "quote": "VantaやDrataなどのGRCツールを導入した場合のプロジェクトに関連した記事を集約しています。",
+    "url": "https://note.com/meneside/m/me1160a16bef1",
+    "pass": 3
+   },
+   {
+    "quote": "【Vanta導入企業向け】統制記述の作成について",
+    "url": "https://note.com/meneside/m/me1160a16bef1",
+    "pass": 3
+   },
+   {
+    "quote": "【Vanta導入企業向け】監査法人の選び方",
+    "url": "https://note.com/meneside/m/me1160a16bef1",
+    "pass": 3
+   },
+   {
+    "quote": "【Vanta導入企業向け】SOC2発行のご支援について",
+    "url": "https://note.com/meneside/m/me1160a16bef1",
+    "pass": 3
+   },
+   {
+    "quote": "第3部：「守りのセキュリティ」から「攻めの信頼」へ：信頼が競争力になる時代",
+    "url": "https://note.com/vanta_japan2018",
+    "pass": 3
+   },
+   {
+    "quote": "第2部：なぜコンプライアンス対応は\"つらい\"のか？課題と再構築の必要性",
+    "url": "https://note.com/vanta_japan2018",
+    "pass": 3
+   },
+   {
+    "quote": "第1部：信頼性の再定義：「証明できる安全」だけが、信頼になる時代",
+    "url": "https://note.com/vanta_japan2018",
+    "pass": 3
+   },
+   {
+    "quote": "「ISO 27001を取得しました」——その一言が、もはや信頼の証明にならない時代が来ています。",
+    "url": "https://note.com/vanta_japan2018",
+    "pass": 3
+   },
+   {
+    "quote": "問われているのは、認証を取得したあの日の状態ではなく、今日の状態だからです。",
+    "url": "https://note.com/vanta_japan2018",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Vanta (@TrustVanta) / X Vanta (@TrustVanta) / X X https://x.com > TrustVanta",
+    "url": "https://x.com/TrustVanta",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta (@Vanta_Esports) / X Vanta (@Vanta_Esports) / X X https://x.com > Vanta_Esports",
+    "url": "https://x.com/Vanta_Esports",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta on X Vanta on X X https://x.com > @TrustVanta",
+    "url": "https://x.com/TrustVanta/status/2120199939007406528",
+    "pass": 3
+   },
+   {
+    "quote": "VANTA on X : \"久しぶりの 投稿 ですが 覚えていてくださって ... VANTA on X : \"久しぶりの 投稿 ですが 覚えていてくださって ... X https://x.com > @depth_vanta",
+    "url": "https://x.com/depth_vanta/status/2093296219884069302",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Vanta | LinkedIn Vanta | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/vanta-security",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta : Jobs - LinkedIn Vanta : Jobs - LinkedIn LinkedIn https://www.linkedin.com > jobs",
+    "url": "https://www.linkedin.com/company/vanta-security/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta | LinkedIn Vanta | LinkedIn LinkedIn https://www.linkedin.com > products",
+    "url": "https://www.linkedin.com/products/vanta-security-vanta/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Vanta (@TrustVanta) - Facebook Vanta (@TrustVanta) - Facebook Facebook https://www.facebook.com > TrustVanta",
+    "url": "https://www.facebook.com/TrustVanta/",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta Agentic Trust Platform: Automate Compliance for SOC 2 ... Vanta Agentic Trust Platform: Automate Compliance for SOC 2 ... Facebook https://www.facebook.com > ... > Scott D. Clary > Videos",
+    "url": "https://www.facebook.com/scottdclarypage/videos/startup-jargon-translatedvantas-agentic-trust-platform-connects-with-hundreds-of/1829389961530930/",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta is the No.1 Agentic Trust Platform used by ... - Facebook Vanta is the No.1 Agentic Trust Platform used by ... - Facebook Facebook https://www.facebook.com > ... > Will Francis > Videos",
+    "url": "https://www.facebook.com/willfrancis/videos/vanta-is-the-no1-agentic-trust-platform-used-by-16000-companies-to-automate-comp/4241213919511136/",
+    "pass": 3
+   },
+   {
+    "quote": "Vanta | Salem MA - Facebook Vanta | Salem MA - Facebook Facebook https://www.facebook.com > ... > Musician/band",
+    "url": "https://www.facebook.com/p/Vanta-61556724518845/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.vanta.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Service+Partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vanta.com/partners/find-a-partner?filters=Auditor+Partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vanta.com/partners/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vanta.com/partners/service-providers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vanta.com/partners/auditors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vanta.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vanta.com/company/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vanta.com/company/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vanta.com/solutions/startup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vanta.com/solutions/mid-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vanta.com/solutions/enterprise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vanta.com/solutions/healthcare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vanta.com/solutions/government",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vanta.com/solutions/fintech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vanta.com/solutions/aws",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vanta.com/company/security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vanta.com/company/press",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/64009032676f24f376f002fc/6aeca275bda1657fee608432_partner%20hero.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/64009032676f24f376f002fc/6aeca276226c90d06981578c_partner%20network.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/64009032676f24f376f002fc/686d42759f3fcf5c8b0efc05_integrations%20with%20customer%20tools.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/64009032676f24f376f002fc/699496033fd35b8b21f1bded_perforce%20customers%20thumbnail.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://compliance.hopae.com/jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trustnow.co.jp/vanta-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/domonjo01/n/nf62351cd921e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.innoov.io/vanta",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compliance.hopae.com/jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teldevice.co.jp/pro_info/2026/press_260911.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vanta.co.jp/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/posts/innoov_innoov%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEvanta%E3%81%AE%E7%AE%A1%E7%90%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%97%E3%83%AD%E3%83%90%E3%82%A4%E3%83%80%E3%83%BC%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AB%E5%8F%82%E5%8A%A0-activity-7292688319262429184-FS0J",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/katsutoshi-tabata-ba514244_vanta-soc2-security-activity-7382234417429331969-HaEx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/64374",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trustnow.co.jp/vanta-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gsb.stanford.edu/faculty-research/case-studies/vanta-evolution-sales-organization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.minoa.io/resources/customers/customer-story-vanta",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polytomic.com/case-studies/vanta-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xamplify.com/partner-programs/vanta/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getagency.com/lp/vanta-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Vanta_(company)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/vanta",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saastr.com/the-early-days-5-things-vanta-got-right-and-5-it-got-wrong-getting-to-first-10m-arr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/domonjo01/n/na5e66c7d3659?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/domonjo01/n/nc3779d0b880b?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kout42/n/n7ebb6b13183e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TrustVanta",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Vanta_Esports",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TrustVanta/status/2120199939007406528",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/vanta-security",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/vanta-security/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/vanta-security-vanta/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TrustVanta/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/scottdclarypage/videos/startup-jargon-translatedvantas-agentic-trust-platform-connects-with-hundreds-of/1829389961530930/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/willfrancis/videos/vanta-is-the-no1-agentic-trust-platform-used-by-16000-companies-to-automate-comp/4241213919511136/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Vanta-61556724518845/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/meneside/m/me1160a16bef1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/vanta_japan2018",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/depth_vanta/status/2093296219884069302",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Vanta 日本 導入",
+   "results": [
+    "https://compliance.hopae.com/jp/",
+    "https://www.trustnow.co.jp/vanta-products/",
+    "https://note.com/domonjo01/n/nf62351cd921e",
+    "https://www.innoov.io/vanta",
+    "https://soc2.jp/column/vanta-soc2-write/",
+    "https://www.vanta.com/webinars/puratutohuomudemo-vanta-de-soc-2-iso-27001-nadowozi-dong-hua",
+    "https://vanta.connpass.com/",
+    "https://qiita.com/PR_TrustNow/items/94832d9a895bbb09478d",
+    "https://www.reddit.com/r/ComputerSecurity/comments/p9hp2c/im_an_independent_contractor_and_the_company_i/?tl=ja",
+    "https://www.trustnow.co.jp/vanta-product-new/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Vanta 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://compliance.hopae.com/jp/",
+    "https://www.teldevice.co.jp/pro_info/2026/press_260911.php",
+    "https://vanta.co.jp/about",
+    "https://jp.linkedin.com/posts/innoov_innoov%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEvanta%E3%81%AE%E7%AE%A1%E7%90%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%97%E3%83%AD%E3%83%90%E3%82%A4%E3%83%80%E3%83%BC%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AB%E5%8F%82%E5%8A%A0-activity-7292688319262429184-FS0J",
+    "https://www.innoov.io/vanta-support",
+    "https://news.infoseek.co.jp/article/prtimes_000000324_000010609/",
+    "https://ims.evidentscientific.com/ja/news/next-generation-vanta-handheld-xrf-analyzers",
+    "https://www.trustnow.co.jp/info/vanta_partner/",
+    "https://www.hitachivantara.com/ja-jp/home/",
+    "https://b-seeds.com/column/sole-agency-agreement"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Vanta Japan",
+   "results": [
+    "https://www.vanta.com/webinars/puratutohuomudemo-vanta-de-soc-2-iso-27001-nadowozi-dong-hua",
+    "https://www.linkedin.com/posts/katsutoshi-tabata-ba514244_vanta-soc2-security-activity-7382234417429331969-HaEx",
+    "https://forbesjapan.com/articles/detail/64374",
+    "https://www.trustnow.co.jp/vanta-products/",
+    "https://vanta.connpass.com/",
+    "https://compliance.hopae.com/jp/",
+    "https://genbajapan.com/companies/vanta",
+    "https://www.vanta.com/resources/japan-compliance-frameworks",
+    "https://www.innoov.io/vanta",
+    "https://vanta.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Vanta manufacturing customer case study",
+   "results": [
+    "https://www.vanta.com/customers",
+    "https://www.gsb.stanford.edu/faculty-research/case-studies/vanta-evolution-sales-organization",
+    "https://www.minoa.io/resources/customers/customer-story-vanta",
+    "https://www.polytomic.com/case-studies/vanta-case-study",
+    "https://www.linkedin.com/posts/steviecase_one-of-the-things-im-proudest-of-at-vanta-activity-7287858867604992002-5ekF",
+    "https://reducto.ai/blog/vanta-reducto-case-study",
+    "https://dust.tt/customers/how-vantas-gtm-team-saves-thousands-of-hours-annually-with-dust",
+    "https://www.youtube.com/shorts/CYPfkMHBKK8",
+    "https://review.firstround.com/vanta-firsthand/",
+    "https://www.vanta.com/customers/samsara"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Vanta white label OR reseller OR partner program",
+   "results": [
+    "https://www.vanta.com/partners/service-providers",
+    "https://www.vanta.com/resources/how-msps-unlock-growth-with-vantas-service-partner-program",
+    "https://xamplify.com/partner-programs/vanta/",
+    "https://getagency.com/lp/vanta-partner",
+    "https://kobalt.io/success-vanta/",
+    "https://www.aarvanta.co/partners/apply/",
+    "https://cyberfortgroup.com/cyberfort-joins-vantas-managed-service-provider-partner-program/",
+    "https://www.vendasta.com/blog/white-label-software-partner-program/",
+    "https://www.reddit.com/r/msp/comments/1g6pd0n/did_you_partner_with_any_compliance_automation/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Vanta founded funding employees revenue",
+   "results": [
+    "https://en.wikipedia.org/wiki/Vanta_(company)",
+    "https://getlatka.com/companies/vanta",
+    "https://www.saastr.com/the-early-days-5-things-vanta-got-right-and-5-it-got-wrong-getting-to-first-10m-arr/",
+    "https://www.vanta.com/resources/vanta-crosses-300m-in-arr-as-growth-accelerates",
+    "https://multiples.vc/private-comps/vanta",
+    "https://sacra.com/c/vanta/",
+    "https://www.linkedin.com/posts/vanta-security_vanta-has-raised-150m-in-series-d-funding-activity-7353755598544392192-TaOI",
+    "https://www.owler.com/company/vanta-inc",
+    "https://www.cnbc.com/2025/07/23/crowdstrike-backed-vanta-is-valued-at-4-billion-in-new-funding-round.html",
+    "https://compworth.com/company/vanta"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Vanta",
+   "results": [
+    "https://note.com/domonjo01/n/na5e66c7d3659?hl=en",
+    "https://note.com/domonjo01/n/nc3779d0b880b?hl=en",
+    "https://note.com/gen_ai/n/nfced64dd6b40?hl=en",
+    "https://note.com/kout42/n/n7ebb6b13183e",
+    "https://note.com/p929/n/n700f0823a920?hl=en",
+    "https://note.com/kininarukasetu/n/nf89575dabffc?hl=en",
+    "https://note.com/eastandart_inc/n/n18953fad001e",
+    "https://note.com/domonjo01/n/nf62351cd921e",
+    "https://note.com/meneside/n/n521835627c64",
+    "https://note.com/moat_investech/n/nde7511afea6d?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Vanta",
+   "results": [
+    "https://x.com/TrustVanta",
+    "https://x.com/christinacaci",
+    "https://x.com/Vanta_Esports",
+    "https://x.com/TrustVanta/status/2120199939007406528",
+    "https://x.com/patrick_oshag/status/2112514179299258843",
+    "https://x.com/TrustVanta/status/2119846698650570760",
+    "https://x.com/TrustVanta/status/2120079060369842328",
+    "https://x.com/TrustVanta/status/2118035564817514534",
+    "https://x.com/vantabats",
+    "https://x.com/Vanta_exchange"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Vanta",
+   "results": [
+    "https://www.linkedin.com/company/vanta-security",
+    "https://www.linkedin.com/company/vanta-security/jobs",
+    "https://www.linkedin.com/in/steviecase",
+    "https://www.linkedin.com/products/vanta-security-vanta/",
+    "https://www.linkedin.com/products/vanta-security-vanta-for-soc2/",
+    "https://www.linkedin.com/company/vantaesports",
+    "https://www.linkedin.com/products/vanta-security-vanta-for-hipaa-compliance/",
+    "https://www.linkedin.com/company/vanta-partners-inc",
+    "https://www.linkedin.com/products/vanta-security-vanta-for-questionnaire-automation/",
+    "https://www.linkedin.com/in/ericlongmartin"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Vanta",
+   "results": [
+    "https://www.facebook.com/TrustVanta/",
+    "https://www.facebook.com/scottdclarypage/videos/startup-jargon-translatedvantas-agentic-trust-platform-connects-with-hundreds-of/1829389961530930/",
+    "https://www.facebook.com/willfrancis/videos/vanta-is-the-no1-agentic-trust-platform-used-by-16000-companies-to-automate-comp/4241213919511136/",
+    "https://www.facebook.com/p/Vanta-61556724518845/",
+    "https://www.facebook.com/vanta919/",
+    "https://www.facebook.com/NetworkChuck/videos/shadow-ai-is-terrifyingvanta-helps-teams-find-and-manage-the-ai-tools-hiding-ins/1009898061428969/",
+    "https://www.facebook.com/VantaEsports/",
+    "https://www.facebook.com/NetworkChuck/videos/compliance-can-be-frustrating-butcalmpliancethats-a-whole-different-thingfind-yo/2255555588584777/",
+    "https://www.facebook.com/vantaph/",
+    "https://www.facebook.com/vantaclo/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Vanta note 社長",
+   "results": [
+    "https://note.com/meneside/m/me1160a16bef1",
+    "https://note.com/vanta_japan2018",
+    "https://www.youtube.com/watch?v=jScpHy4UNl4",
+    "https://www.sec.gov/Archives/edgar/data/1867090/000110465922129257/tm2233295d1_497ad.pdf",
+    "https://app.dealroom.co/news/note/christina-cacioppo-on-building-vanta-from-learning-to-code-to-automating-soc-2-trust-management-and-growing-via-customer-revenue",
+    "https://note.com/meneside/m/me1160a16bef1/archive",
+    "https://www.vanta.com/resources/vanta-announces-series-b",
+    "https://www.opensourceceo.com/p/vanta-1-to-100",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Vanta X 投稿",
+   "results": [
+    "https://x.com/depth_vanta/status/2093296219884069302",
+    "https://ims.evidentscientific.com/ja/insights/vanta-handheld-xrf-frequently-asked-questions",
+    "https://community.vanta.com/x/announcements",
+    "https://star-glitcher-fe.fandom.com/wiki/Vanta-X",
+    "https://www.ponyindustry.co.jp/products/332.html",
+    "https://x.com/TrustVanta",
+    "https://vimeo.com/user134552645",
+    "https://rootofpi.co.uk/projects/vanta-casestudy/",
+    "https://x.com/Vanta_exchange",
+    "https://www.instagram.com/vanta.x_19/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部35頁・検索12回）"
+ }
+}

@@ -1,0 +1,1168 @@
+{
+ "name": "Theneo",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T06:42:25.465800+00:00",
+ "official_url": "https://theneo.io",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "01-Dec-2021 $449K $449K  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/489809-26",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The all-in-one developer portal for API references, guides, changelogs, and private customer portals. Humans and AI agents ship together with real-time co-editing, MCP, llms.txt, and Ask AI.",
+    "url": "https://www.theneo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineers edit APIs. Writers edit guides. PMs leave comments. Agents propose updates.Everyone sees every cursor",
+    "url": "https://www.theneo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Docs stay in sync with your product — automatically.",
+    "url": "https://www.theneo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Live cursors. Live presence. Zero handoffs",
+    "url": "https://www.theneo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "We chose Theneo for its AI-powered approach to API documentation, which helps us maintain clarity and consistency at scale. The Theneo team has been fantastic to work with - proactive, responsive, and highly supportive throughout our onboarding.”",
+    "url": "https://www.theneo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Ticketmaster API Platform Product Manager",
+    "url": "https://www.theneo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "We migrated to Theneo seeking an efficient, user-friendly solution to manage and share our API documentation. The platform’s reliability and ease of use made the transition smooth. Theneo’s intuitive interface has simplified the creation, maintenance, and use of our API documentation while improving communication with our partners. We’re happy with the experience!”",
+    "url": "https://www.theneo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "A private portal for every customer.",
+    "url": "https://www.theneo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-ready. Today",
+    "url": "https://www.theneo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Your docs deserve to ship as fast as your product",
+    "url": "https://www.theneo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Theneo Pricing | API Docs & Developer Portal Plans",
+    "url": "https://www.theneo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "1 public project",
+    "url": "https://www.theneo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Up to 2 private projects",
+    "url": "https://www.theneo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Project access controls",
+    "url": "https://www.theneo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Project analytics and reader feedback",
+    "url": "https://www.theneo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Up to 7 projects",
+    "url": "https://www.theneo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced user and content access controls",
+    "url": "https://www.theneo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Up to 1 public projects",
+    "url": "https://www.theneo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Project access management",
+    "url": "https://www.theneo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Project analytics & feedback",
+    "url": "https://www.theneo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Exporting projects to OpenAPI spec",
+    "url": "https://www.theneo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Export projects as Markdown",
+    "url": "https://www.theneo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Private documentation and projects",
+    "url": "https://www.theneo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Private API endpoints",
+    "url": "https://www.theneo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Password-protected projects",
+    "url": "https://www.theneo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Private developer portals with SSO/OAuth",
+    "url": "https://www.theneo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Custom roles & premission",
+    "url": "https://www.theneo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "At Theneo, we’re committed to transforming the entire API lifecycle—from intuitive design and comprehensive documentation to robust governance and seamless management—empowering developers and organizations to create, manage, and scale high-quality APIs effortlessly.",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Theneo is a Silicon Valley startup backed by Y Combinator. We’re building real products for real customers, and we’re looking for ambitious interns who want to learn fast, take ownership, and make an impact from day one.",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "This is not a “watch and learn” internship. As a Marketing Intern, you’ll work directly on projects that support growth, brand awareness, content, campaigns, and customer engagement.",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "As a Marketing Intern at Theneo, you’ll help create and execute marketing initiatives that reach real users and customers. You’ll work closely with the team to support content creation, social media, campaign planning, market research, and growth experiments.",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You’ll get hands-on startup experience and learn how marketing works inside a fast-moving tech company.",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Creating content for social media, email, blog posts, and marketing campaigns",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Supporting campaign ideas for internship, product, and customer growth",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Helping improve Theneo’s online presence and brand messaging",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Working with the team on real marketing projects from start to finish",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Interested in marketing, startups, technology, or SaaS",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive, responsible, and willing to move fast",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Excited to work on real projects with real impact",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Previous internship experience is helpful, but not required. We care more about your energy, creativity, and willingness to learn.",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Real startup marketing experience",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Hands-on ownership of meaningful projects",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Fast learning in a practical, high-impact environment",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A stronger portfolio with real marketing work",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "This internship is a great fit for students or early-career candidates interested in:",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "who will play a key role in driving our platform's development. As a Lead Engineer, you will provide technical leadership, guide a team of talented engineers, and ensure the delivery of high-quality, scalable software solutions. This position is an exceptional opportunity to shape the future of a platform that is redefining how API documentation is crafted and consumed.",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Code Quality & Best Practices",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": ": Maintain high standards of software quality through comprehensive testing, profiling, and peer reviews.",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": ": Collaborate with product managers and stakeholders to align technical initiatives with business goals and prioritize engineering work.",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous Improvement",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": ": Drive continuous improvement initiatives and innovation within the engineering team.",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": ": 7+ years of experience in backend development, with expertise in Typescript, Node.js, Express.js, React, and MongoDB.",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Theneo | Enterprise API Documentation & Developer Portals",
+    "url": "https://www.theneo.io/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-Grade API Documentation, Built to Scale Securely",
+    "url": "https://www.theneo.io/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Self-hosted, SOC 2 Type II certified API documentation and developer portal platform built for organizations managing complex API ecosystems. Deploy on your infrastructure, customize every element, and scale documentation across thousands of endpoints with enterprise-grade security and compliance.",
+    "url": "https://www.theneo.io/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Product of the day on",
+    "url": "https://www.theneo.io/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Why Theneo Enterprise?",
+    "url": "https://www.theneo.io/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Bring API architects, engineers, technical writers, product managers, and external partners into one governed workspace. Use real-time co-editing, comments, multi-stage review workflows, version history, audit logs, and granular RBAC to control who can create, review, publish, administer, or view content across APIs, teams, business units, and regions.",
+    "url": "https://www.theneo.io/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Solutions Without Limits",
+    "url": "https://www.theneo.io/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Operate your complete API knowledge and developer experience workflow with enterprise security, white-label customization, AI automation, and flexible deployment. Create and manage API references, guides, changelogs, catalogs, interactive testing, SDKs, analytics, private portals, and agent-ready experiences from one platform.",
+    "url": "https://www.theneo.io/enterprise",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by more than 18,000 companies, from top startups to Fortune 500.",
+    "url": "https://www.theneo.io/",
+    "pass": 1
+   },
+   {
+    "quote": ": Directly influence the growth and success of a platform used by developers and companies globally.",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Trusted by more than 18,000 companies, from top startups to Fortune 500.",
+    "url": "https://www.theneo.io/",
+    "pass": 1
+   },
+   {
+    "quote": ": Be part of a team that is pushing the boundaries of AI technology in API documentation.",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": ": Own and implement comprehensive marketing strategies to drive user acquisition, activation, and retention across multiple channels (SEO, paid ads, social media, content marketing, email, etc.).",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": ": Manage and optimize paid media channels including Google Ads, Facebook, LinkedIn, and others. Continuously test ad copy, audiences, and creative to improve ROI and lower customer acquisition costs.",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": ": Design and run experiments to find new growth opportunities. Focus on identifying new channels, strategies, and techniques to scale acquisition and retention.",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": ", CRO, and building growth experiments to optimize customer acquisition funnels.",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "スタートアップから Fortune 500 まで 15,000 以上のチームに信頼され、AI 駆動の生成、リアルタイムコラボレーション、エージェント対応のインフラストラクチャを通じて、API ドキュメントをメンテナンスの負担から競争優位に変革します",
+    "url": "https://www.neurokitai.com/ja/products/theneo",
+    "pass": 3
+   },
+   {
+    "quote": "Theneo は、急成長中のスタートアップから fintech、SaaS、規制業界の Fortune 500 エンタープライズまで、あらゆる規模の開発者向け企業に対応します",
+    "url": "https://www.neurokitai.com/ja/products/theneo",
+    "pass": 3
+   },
+   {
+    "quote": "世界中の15,000以上のチーム（トップクラスのスタートアップからFortune 500企業まで）に信頼されているTheneoは、従来のドキュメント作成プロセスの課題を解決し、製品の進化に合わせてドキュメントを常に最新の状態に保つことを可能にします",
+    "url": "https://aitoolly.com/ja/product/theneo",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/489809-26",
+    "pass": 3
+   },
+   {
+    "quote": "Theneo has 20 total employees.",
+    "url": "https://pitchbook.com/profiles/company/489809-26",
+    "pass": 3
+   },
+   {
+    "quote": "What is Theneo’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/489809-26",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Theneo is",
+    "url": "https://pitchbook.com/profiles/company/489809-26",
+    "pass": 3
+   },
+   {
+    "quote": "Theneo Revenue 2024: $3.5M Est.",
+    "url": "https://getlatka.com/companies/theneo.io",
+    "pass": 3
+   },
+   {
+    "quote": "Theneo has not published its revenue. GetLatka estimates it at about $3.5M a year (December 2024).",
+    "url": "https://getlatka.com/companies/theneo.io",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/theneo.io",
+    "pass": 3
+   },
+   {
+    "quote": "Theneo CEO, founders & employees",
+    "url": "https://getlatka.com/companies/theneo.io",
+    "pass": 3
+   },
+   {
+    "quote": "Ana Robakidze founded Theneo in 2022 and runs it as CEO. Theneo had 23 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/theneo.io",
+    "pass": 3
+   },
+   {
+    "quote": "What is Theneo's revenue?",
+    "url": "https://getlatka.com/companies/theneo.io",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Theneo's revenue at about",
+    "url": "https://getlatka.com/companies/theneo.io",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Theneo have?",
+    "url": "https://getlatka.com/companies/theneo.io",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/theneo.io",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/theneo.io",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/theneo.io",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/theneo.io",
+    "pass": 3
+   },
+   {
+    "quote": "Theneo Revenue 2024: $3.5M Est.",
+    "url": "https://getlatka.com/companies/theneo.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Theneo has not published its revenue. GetLatka estimates it at about $3.5M a year (December 2024).",
+    "url": "https://getlatka.com/companies/theneo.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/theneo.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Theneo CEO, founders & employees",
+    "url": "https://getlatka.com/companies/theneo.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Ana Robakidze founded Theneo in 2022 and runs it as CEO. Theneo had 23 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/theneo.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "What is Theneo's revenue?",
+    "url": "https://getlatka.com/companies/theneo.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Theneo's revenue at about",
+    "url": "https://getlatka.com/companies/theneo.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Theneo have?",
+    "url": "https://getlatka.com/companies/theneo.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/theneo.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/theneo.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/theneo.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/theneo.io#customers",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Per-customer logins, email invites, SSO if you need it.",
+    "url": "https://www.theneo.io/",
+    "pass": 1
+   },
+   {
+    "quote": "In-app and email support",
+    "url": "https://www.theneo.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Creating content for social media, email, blog posts, and marketing campaigns",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": ": Own and implement comprehensive marketing strategies to drive user acquisition, activation, and retention across multiple channels (SEO, paid ads, social media, content marketing, email, etc.).",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Email and Lifecycle Marketing",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": ": Create and optimize email marketing strategies to nurture leads and re-engage inactive users. Develop customer lifecycle campaigns to increase engagement and retention.",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "with digital marketing channels such as SEO, SEM, paid search, social media advertising, email marketing, and content marketing.",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "• Provide technical support to customers via email, live chat, and support tickets, ensuring quick and efficient issue resolution.",
+    "url": "https://www.theneo.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Give customers, partners, and external developers secure access through fully branded authentication experiences. Create public, private, or customer-specific portals with custom domains, SSO, email invitations, access entitlements, and white-label interfaces so users engage with your brand throughout the entire developer journey.",
+    "url": "https://www.theneo.io/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/489809-26",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Operate your complete API knowledge and developer experience workflow with enterprise security, white-label customization, AI automation, and flexible deployment. Create and manage API references, guides, changelogs, catalogs, interactive testing, SDKs, analytics, private portals, and agent-ready experiences from one platform.",
+    "url": "https://www.theneo.io/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Give customers, partners, and external developers secure access through fully branded authentication experiences. Create public, private, or customer-specific portals with custom domains, SSO, email invitations, access entitlements, and white-label interfaces so users engage with your brand throughout the entire developer journey.",
+    "url": "https://www.theneo.io/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Turn every public, private, and partner portal into a seamless extension of your brand. Customize domains, layouts, navigation, typography, colors, components, content structures, and interaction patterns using white-label controls, custom CSS and JavaScript, React components, and headless CMS integrations.",
+    "url": "https://www.theneo.io/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Theneo Enterprise supports white-label branding, custom domains, layouts, navigation, typography, CSS and JavaScript, React components, API catalogs, guides, changelogs, onboarding flows, multilingual content, customer-specific visibility, and public or private developer portals. Custom integrations and implementation requirements can be designed with Theneo’s Enterprise team.",
+    "url": "https://www.theneo.io/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Theneo offers complete customization of your documentation’s layout and design, allowing you to fully align it with your brand identity. You can also create custom developer portals with advanced features such as personalized API access, user guides, and community forums tailored to your specific use cases.",
+    "url": "https://www.theneo.io/enterprise",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "OpenAPIファイルを公開可能なリファレンスにする：読み込むと説明文の下書きが出るので、日本語として不自然な箇所を直す",
+    "url": "https://www.nextfor.ai/ja/products/theneo",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Theneo - API Docs that humans and agents ship together — We migrated to Theneo seeking an efficient, user-friendly solution to manage and share our API documentation. The platform’s reliability and ease of use made the transition smooth.",
+    "url": "https://www.theneo.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Theneo: 人とAIエージェントのためのAPI管理プラットフォーム — ターゲット層 Theneo は、急成長中のスタートアップから fintech、SaaS、規制業界の Fortune 500 エンタープライズまで、あらゆる規模の開発者向け企業に対応します。",
+    "url": "https://www.neurokitai.com/ja/products/theneo",
+    "pass": 3
+   },
+   {
+    "quote": "Theneo — Theneo：AI駆動の次世代APIドキュメント管理・開発者ポータ... — May 16, 2026 · 「私たちは、APIドキュメントの明快さと一貫性を大規模に維持するために、TheneoのAI駆動のアプローチを選択しました。 Theneoチームは非常に協力的で、導入全体を通して迅速かつ手厚いサポートを提供してくれました。",
+    "url": "https://aitoolly.com/ja/product/theneo",
+    "pass": 3
+   },
+   {
+    "quote": "Theneo：AIによるAPIドキュメント生成プラットフォーム Features, Pri... — Theneoとは Theneoは、APIドキュメントの手直しを人手に頼らずに済ませるためのプラットフォームだ。OpenAPI、GraphQL、SOAP、AsyncAPI、gRPCのいずれかの仕様書を読み込ませると、パラメータ、リクエスト例、テスト環境を揃えたページが組み上がる。ガイドと変更履歴も同じプロジェクトに入るので ...",
+    "url": "https://www.nextfor.ai/ja/products/theneo",
+    "pass": 3
+   },
+   {
+    "quote": "Theneo:自動化と協調機能を備えた動的APIドキュメントの作成、管理、... — よくある質問 1. Theneoは自動的にAPIドキュメントを生成できますか？ 2. TheneoはAPI変更と更新をどのように処理しますか？ 3. プラットフォームで協調作業はサポートされていますか？ 4. APIドキュメントの外観をカスタマイズできますか？",
+    "url": "https://moge.ai/ja/product/theneo",
+    "pass": 3
+   },
+   {
+    "quote": "Sign In - Theneo — Access your Theneo workspace to build, manage, and collaborate on stunning, AI-generated API documentation. Trusted by teams worldwide to streamline development and boost API adoption.",
+    "url": "https://app.theneo.io/main?redirect=/home",
+    "pass": 3
+   },
+   {
+    "quote": "Careers at Theneo | Join the AI Revolution in API Documentation — Theneo is a leading developer tool that revolutionizes the way API documentation is created, managed, and published. With a strong emphasis on AI and automation, Theneo stands out in the tech community for its innovative approach to documentation.",
+    "url": "https://www.theneo.io/careers",
+    "pass": 3
+   },
+   {
+    "quote": "What Is Theneo? AI-Native Docs Platform - Theneo Docs ... — Theneo is the AI-native platform for beautiful documentation, developer portals, and API references, built in minutes for both humans and AI agents.",
+    "url": "https://docs.theneo.io/get-started/welcome-to-theneo",
+    "pass": 3
+   },
+   {
+    "quote": "Theneo - API Docs that humans and agents ship together — The all-in-one developer portal for API references, guides, changelogs, and private customer portals. Humans and AI agents ship together with real-time co-editing, MCP, llms.txt, and Ask AI.",
+    "url": "https://www.theneo.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Neo Stereolithography Customer Success Case Studies — Parts produced on the Neo450s using Somos® EvoLVE 128 resin helped Whirlpool produce accurate prototypes with smooth side-wall finish, reducing finishing. Whirlpool could print impact resistant parts with thin walls such as clips when required – removing need for developing tooling.",
+    "url": "https://www.stratasys.com/contentassets/6ae3ccf003f4474286c321260822c4df/neo-case-studies-overview.pdf?v=49d1ba",
+    "pass": 3
+   },
+   {
+    "quote": "Theneo 2026 Company Profile: Valuation, Funding & Investors ...Theneo Revenue 2024: $3.5M Est. ARR (Bootstrapped)How Theneo hit $3.5M revenue with a 23 person team in 2024.Theneo - 2026 Company Profile, Team, Funding & Competitors ...Theneo - Crunchbase Company Profile & FundingTheneo — Funding, Investors & Team | SeedtableTheneo Stock Price, Funding, Valuation, Revenue & Financial ... — Informati",
+    "url": "https://pitchbook.com/profiles/company/489809-26",
+    "pass": 3
+   },
+   {
+    "quote": "Theneo Revenue 2024: $3.5M Est. ARR (Bootstrapped) — Sep 2, 2026 · Theneo 2024 estimated revenue: $3.5M ARR. Bootstrapped (no outside funding). 23 employees. Industry: Other Collaboration Software Updated Aug 10, 2026.",
+    "url": "https://getlatka.com/companies/theneo.io",
+    "pass": 3
+   },
+   {
+    "quote": "How Theneo hit $3.5M revenue with a 23 person team in 2024. — Theneo CEO Ana Robakidze shares how Theneo grew to $3.5M over the past 3 years. Theneo has bootstrapped. See Theneo growth here.",
+    "url": "https://getlatka.com/companies/theneo.io/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Theneo - 2026 Company Profile, Team, Funding & Competitors ...Theneo - Crunchbase Company Profile & FundingTheneo — Funding, Investors & Team | SeedtableTheneo Stock Price, Funding, Valuation, Revenue & Financial ... — Mar 6, 2026 · Theneo is a seed company based in Tbilisi (Georgia), founded in 2021 by Maria Doliashvili, Ana Robakidze and Ana Robakidze. It operates as a Developer of platform prov",
+    "url": "https://tracxn.com/d/companies/theneo/__QXz6-j3fEIJZxysPJa7Yz7uTbc8e76moatlxOcnrBU8",
+    "pass": 3
+   },
+   {
+    "quote": "Theneo - Crunchbase Company Profile & FundingTheneo — Funding, Investors & Team | SeedtableTheneo Stock Price, Funding, Valuation, Revenue & Financial ... — Who invested in Theneo? Theneo has 6 investors including Y Combinator and Diaspora Ventures. When was the last funding round for Theneo? Theneo closed its last funding round on. from a Venture - Series Unknown round. Who are Theneo's competito",
+    "url": "https://www.crunchbase.com/organization/theneo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Theneo (@TheneoAPIDoc) / X At Theneo, we’ve led the way in AI-powered API docs before AI was cool. But you’re never locked into automated outputs - our web editor lets you tweak parameter descriptions, add new ones, and configure freely.",
+    "url": "https://x.com/theneoapidoc",
+    "pass": 3
+   },
+   {
+    "quote": "TheNeo (@TheNeoMatriix) / Posts / X TheNeo (@TheNeoMatriix) - Posts - | X (formerly Twitter) Yes, under Iran's Civil Code Article 1041, the legal minimum marriage age is 13 for girls and 15 for boys. An adult can marry someone at or above those ages (with guardian consent if needed). Below them, it's allowed with guardian permission and court approval if in the child's best interest. No absolute b",
+    "url": "https://x.com/TheNeoMatriix",
+    "pass": 3
+   },
+   {
+    "quote": "TheNeo (@TheNeo) / X TheNeo @TheNeo Entrepreneur|Spices Tea lover|Cameroon|Germany zesok.com Joined April 2009",
+    "url": "https://x.com/TheNeo",
+    "pass": 3
+   },
+   {
+    "quote": "Neo (@TheNeo_007) / X 31 Neo @TheNeo_007 Aug 14, 2024 Don't reduce the position of Wife , your other half to this degree😮💨 A loving relationship is infinite times better ♥️ The Forgotten ‘Man’ 👨⚖️",
+    "url": "https://x.com/TheNeo_007",
+    "pass": 3
+   },
+   {
+    "quote": "Theneo (@TheneoAPIDoc) / X Jul 29, 2021 · We’re wrapping up Theneo Transformation Week with upgraded automation tools—seamless CLI, SDK, and GitHub integrations, auto-updated docs that preserve your custom content.",
+    "url": "https://x.com/theneoapidoc",
+    "pass": 3
+   },
+   {
+    "quote": "THE NEXT ORDER … (@THENEO_TL) on X Aug 16, 2026 · THE NEXT ORDER … on X: \"《お知らせ》 只今より、新規枠の受付を開始します。 新規追加枠は下記のポストを参照して下さい。 #NEØ_追加募集枠 #NEØ_公式\"",
+    "url": "https://x.com/THENEO_TL/status/2088958958061109546",
+    "pass": 3
+   },
+   {
+    "quote": "《お知らせ》 新たな枠を実装致します。新規枠の内容は下記の画像の通... 《お知らせ》 新たな枠を実装致します。 新規枠の内容は下記の画像の通りになります。 申請は7/29 (水)18:00より受付開始となります。 #NEØ_追加募集枠 #NEØ_公式 https://t.co/7vqSSNgEoX THE NEXT ORDER …@THENEO_TL",
+    "url": "https://x.com/THENEO_TL/status/2082301646609293660",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Theneo - LinkedIn Theneo is the all-in-one developer portal where your team and your agents build docs together — in real time, since 2022 | Theneo - Next-Gen API Documentation with AI Brilliance.",
+    "url": "https://www.linkedin.com/company/theneoinc/",
+    "pass": 3
+   },
+   {
+    "quote": "Mariam Lekveishvili - Theneo (YC W22) | LinkedInTeneo Online School - LinkedInAndria Shonia - Software Engineer at Theneo (YC W22) | LinkedInThe Neo Solutions - LinkedIntheneo GmbH - LinkedIn Theneo (YC W22) · Experience: Theneo (YC W22) · Education: Goldsmiths, University of London · Location: United Kingdom · 500+ connections on LinkedIn. View Mariam Lekveishvili’s profile on... Teneo Online Sch",
+    "url": "https://uk.linkedin.com/in/mariamlekveishvili",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Theneo - FacebookThe NEO - FacebookTheNeo - FacebookThe Neo Company | Los Angeles CA - FacebookTheneo - The wait is over. Meet our new AI ... - FacebookTheNeo - FacebookTheneo - We're Expanding Our Team at Theneo ... - Facebook Imagine the seamless design collaboration of Figma meeting the organized workspace of Notion—that’s the power of Theneo’s new Live Collaboration feature. What’s New: • Real",
+    "url": "https://www.facebook.com/theneoapidoc/",
+    "pass": 3
+   },
+   {
+    "quote": "The NEO - FacebookTheNeo - FacebookThe Neo Company | Los Angeles CA - FacebookTheneo - The wait is over. Meet our new AI ... - FacebookTheNeo - FacebookTheneo - We're Expanding Our Team at Theneo ... - Facebook Jul 8, 2026 · 🤖🥁🎺🎷🎸 Darwin Festival is coming to a close this weekend, so we want to throwback to this amazing performance from our Happy Hour show, hosted by Liz Trevaskis. Darwin band The",
+    "url": "https://www.facebook.com/theneoband/",
+    "pass": 3
+   },
+   {
+    "quote": "TheNeo - Facebook TheNeo. 20 likes. TheNeo Streamer Oficial 🇨🇱🌶 🎥YT: TheNeo 👁🗨 11.000 ™️ 🗳Twitter: TheNeoTW 🎮Twitch: TheNeoTW 📨contactotheneo@gmail.com",
+    "url": "https://www.facebook.com/theneoyt/",
+    "pass": 3
+   },
+   {
+    "quote": "The Neo Company | Los Angeles CA - FacebookTheneo - The wait is over. Meet our new AI ... - FacebookTheNeo - FacebookTheneo - We're Expanding Our Team at Theneo ... - Facebook The Neo Company, Los Angeles. 402 followers · 5 were here. Services We Provide: *Website Design *Search Engine Optimization *AI Productions *App Development Info@theneocompany.net Sep 19, 2025 · Work inside a Silicon Valley ",
+    "url": "https://www.facebook.com/theneocompanyla/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.theneo.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theneo.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theneo.io/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theneo.io/enterprise",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.theneo.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neurokitai.com/ja/products/theneo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aitoolly.com/ja/product/theneo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nextfor.ai/ja/products/theneo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teneo.com/ja/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ueno-u-pal.co.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aon.com/japan/company-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theneo.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teneo.com/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.theneo.io/main?redirect=/home",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theneo.io/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theneo.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/neotax/case-study/a-10-billion-valuation-manufacturing-corporation-cuts-rd-surveys-from-350-to-30-with-neotax",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://teneo.ai/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.akeneo.com/customer-story/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/489809-26",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/theneo.io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/theneo.io#customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/theneo/__QXz6-j3fEIJZxysPJa7Yz7uTbc8e76moatlxOcnrBU8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/theneoapidoc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TheNeoMatriix",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TheNeo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TheNeo_007",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/theneoinc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/mariamlekveishvili",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/theneoapidoc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/theneoband/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/theneoyt/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/theneocompanyla/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/theneoapidoc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/THENEO_TL/status/2088958958061109546",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/THENEO_TL/status/2082301646609293660",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Theneo 日本 導入",
+   "results": [
+    "https://www.theneo.io/",
+    "https://www.neurokitai.com/ja/products/theneo",
+    "https://aitoolly.com/ja/product/theneo",
+    "https://www.nextfor.ai/ja/products/theneo",
+    "https://moge.ai/ja/product/theneo",
+    "https://www.toolmage.com/ja/tool/theneo/",
+    "https://eeai.tv/tools/theneo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Theneo 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.teneo.com/ja/japan/",
+    "https://www.ueno-u-pal.co.jp/en/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.houjin-bangou.nta.go.jp/",
+    "https://ja.nozominetworks.com/company",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Theneo Japan",
+   "results": [
+    "https://www.theneo.io/",
+    "https://www.teneo.com/japan/",
+    "https://app.theneo.io/main?redirect=/home",
+    "https://www.theneo.io/careers",
+    "https://docs.theneo.io/get-started/welcome-to-theneo",
+    "https://www.neo.co.jp/en/",
+    "https://teneopartners.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Theneo manufacturing customer case study",
+   "results": [
+    "https://www.theneo.io/",
+    "https://www.casestudies.com/company/neotax/case-study/a-10-billion-valuation-manufacturing-corporation-cuts-rd-surveys-from-350-to-30-with-neotax",
+    "https://teneo.ai/case-studies/",
+    "https://www.akeneo.com/customer-story/",
+    "https://www.stratasys.com/contentassets/6ae3ccf003f4474286c321260822c4df/neo-case-studies-overview.pdf?v=49d1ba",
+    "https://www.stratasys.com/en/resources/case-studies/why-high-performance-companies-choose-neo-stereolithography-3d-printers/",
+    "https://www.manufacturingtomorrow.com/article/2026/04/from-32-minutes-to-10-how-neo-industries-turned-production-data-into-compounding-returns/27498"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Theneo white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Theneo founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/489809-26",
+    "https://getlatka.com/companies/theneo.io",
+    "https://getlatka.com/companies/theneo.io/customers",
+    "https://tracxn.com/d/companies/theneo/__QXz6-j3fEIJZxysPJa7Yz7uTbc8e76moatlxOcnrBU8",
+    "https://www.crunchbase.com/organization/theneo",
+    "https://seedtable.com/companies/theneo",
+    "https://www.cbinsights.com/company/theneo/financials"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Theneo",
+   "results": [
+    "https://note.com/neotokyobase",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/witty_sable7629",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/neo_btc",
+    "https://note.com/neominoru",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Theneo",
+   "results": [
+    "https://x.com/theneoapidoc",
+    "https://x.com/TheNeoMatriix",
+    "https://x.com/TheNeo",
+    "https://x.com/TheNeo_007",
+    "https://x.com/TheNeoMatriix/status/2102127465057399167",
+    "https://x.com/TheNeoMatriix/status/2098796857132519897",
+    "https://x.com/teamneo"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Theneo",
+   "results": [
+    "https://www.linkedin.com/company/theneoinc/",
+    "https://www.linkedin.com/company/teneoglobal/",
+    "https://uk.linkedin.com/in/mariamlekveishvili",
+    "https://za.linkedin.com/company/teneoschool",
+    "https://ge.linkedin.com/in/andria-shonia",
+    "https://pk.linkedin.com/company/theneosolutions",
+    "https://www.linkedin.com/company/theneo-gmbh"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Theneo",
+   "results": [
+    "https://www.facebook.com/theneoapidoc/",
+    "https://www.facebook.com/theneoband/",
+    "https://www.facebook.com/theneoyt/",
+    "https://www.facebook.com/theneocompanyla/",
+    "https://www.facebook.com/theneoapidoc/posts/-the-wait-is-overmeet-our-new-ai-powered-api-editor-design-test-and-improve-apis/823716313331186/",
+    "https://www.facebook.com/TheNeo-827431843957068/",
+    "https://www.facebook.com/theneoapidoc/posts/-were-expanding-our-team-at-theneo-were-thrilled-to-announce-that-were-looking-f/459512469751574/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Theneo note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.theneo.io/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Theneo X 投稿",
+   "results": [
+    "https://x.com/theneoapidoc",
+    "https://www.theneo.io/",
+    "https://x.com/THENEO_TL/status/2088958958061109546",
+    "https://x.com/THENEO_TL/status/2082301646609293660",
+    "https://x.com/teo_penta/status/2120165162867159344",
+    "https://x.com/teneo_protocol",
+    "https://x.com/neopage_editors"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）"
+ }
+}

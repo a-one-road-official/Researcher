@@ -1,0 +1,1463 @@
+{
+ "name": "Ubisense",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T06:23:08.527945+00:00",
+ "official_url": "https://ubisense.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$104,000",
+    "url": "https://prospeo.io/c/ubisense-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$7,300,000",
+    "url": "https://prospeo.io/c/ubisense-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Cambridge, England, United Kingdom",
+    "url": "https://prospeo.io/c/ubisense-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2002",
+    "url": "https://prospeo.io/c/ubisense-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Process Compliance in Maintenance Ops",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Traceability in Submarine and Aerospace Production",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Work-in-Progress (WIP) & Production Optimization",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Visibility of end-of-line inspection and re-work processes",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize intra-logistics process flows",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Achieve the optimal flow of raw materials and products",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Highly configurable platform for combining spatial awareness and process logic",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ultra-Precise. Ultra-Reliable. Ultra-Wideband real-time location system",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DIMENSION4 PRODUCTS",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "empowers complex environments with improved visibility, automation, safety alerts, and seamless technology integration.",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "that transforms the way you manage complex operations. By providing",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", reducing errors and improving efficiency at every level.",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "At Ubisense we’ve dedicated ourselves to perfecting a best-in-class, precision location system using Ultra Wideband (UWB) technology.",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DIMENSION4™ sensors and tags are the result of decades of experience delivering industrial-scale, real-world solutions that pin-point the true 3D location, movement and identity of people and things in critical processes.",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every manual process suffers from one or more of these five common challenges. SmartSpace was built to solve these.",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Ubisense turned out to be the only vendor that could give us the required level of accuracy; if an application requires precision, then they are the clear #1 choice”",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“We’ve been using Ubisense’s technology for a number of years now and it gives our systems unparalleled precision when tracking performers around the stage.”",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch to discuss how Ubisense SmartSpace® and Dimension4™ can make your business more productive, flexible, profitable and safe.",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial and enterprise use only — not compatible with animal or personal tracking",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sao Tome and Principe",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Process Visibility & Optimization",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Process Compliance in Maintenance Ops",
+    "url": "https://ubisense.com/our-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Traceability in Submarine and Aerospace Production",
+    "url": "https://ubisense.com/our-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Work-in-Progress (WIP) & Production Optimization",
+    "url": "https://ubisense.com/our-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Visibility of end-of-line inspection and re-work processes",
+    "url": "https://ubisense.com/our-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize intra-logistics process flows",
+    "url": "https://ubisense.com/our-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Achieve the optimal flow of raw materials and products",
+    "url": "https://ubisense.com/our-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Highly configurable platform for combining spatial awareness and process logic",
+    "url": "https://ubisense.com/our-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Ultra-Precise. Ultra-Reliable. Ultra-Wideband real-time location system",
+    "url": "https://ubisense.com/our-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "DIMENSION4 PRODUCTS",
+    "url": "https://ubisense.com/our-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch to discuss how Ubisense SmartSpace and Dimension4 can make your business more productive, flexible, profitable and safe.",
+    "url": "https://ubisense.com/our-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch to discuss how Ubisense SmartSpace® and Dimension4™ can make your business more productive, flexible, profitable and safe.",
+    "url": "https://ubisense.com/our-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial and enterprise use only — not compatible with animal or personal tracking",
+    "url": "https://ubisense.com/our-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Sao Tome and Principe",
+    "url": "https://ubisense.com/our-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Process Visibility & Optimization",
+    "url": "https://ubisense.com/our-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Process Compliance in Maintenance Ops",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Traceability in Submarine and Aerospace Production",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Work-in-Progress (WIP) & Production Optimization",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Visibility of end-of-line inspection and re-work processes",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize intra-logistics process flows",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Achieve the optimal flow of raw materials and products",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Highly configurable platform for combining spatial awareness and process logic",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Ultra-Precise. Ultra-Reliable. Ultra-Wideband real-time location system",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "DIMENSION4 PRODUCTS",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Track precise asset location & movement in real-time.",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Instantly find assets such as tools, equipment, parts, materials and products anywhere on a digital map of your facility.",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Tags emit signals at one of a number of pre-defined high frequencies and are located by comparing the strength of the signal at multiple readers. 433 MHz signals are less sensitive to blocking or distortion, such as by water or metals, but make the location data less accurate.",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Tags (usually a printed label) have integrated circuits, but no power. Readers emit UHF radio waves and energise tags within range, receiving back a portion of the energy as information. Tag location is determined by its proximity to a fixed reader.",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "When one technology doesn’t cover all of the requirements, Ubisense can seamlessly combine multiple different technologies in one platform meaning you don’t have to compromise. Adding powerful asset management capabilities has never been easier.",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Ubisense provides tags that use one or more location technologies simultaneously in the same device. Currently avaialble combinations include:",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Ubisense SmartSpace software can ingest any location data source and combine seamlessly in one place. It also allows ‘nesting’ to associate one locatoin technology together with another; for example to associate the location of many assets tagged with passive RFID with one UWB tracked tag to combine precision real-time tracking at low cost.",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "But it’s more than just location. Automate processes using easy to configure business rules that use the real-time status, movement, sequence and interaction of assets to improve productivity, quality and safety.",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent the use of equipment overdue maintenance or calibration",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Asset tracking is the process of monitoring and managing physical assets. This is usually done with the help of asset tracking software. By tracking assets, businesses can track their assets, who is using them, and when they need to be replaced or serviced.",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "A software platform (also called asset tracking software) that collects and processes data from the hardware devices. The platform uses this data to generate reports and alerts as needed.",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch to discuss how Ubisense SmartSpace and Dimension4 can make your business more productive, flexible, profitable and safe.",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial and enterprise use only — not compatible with animal or personal tracking",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Sao Tome and Principe",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch to discuss how Ubisense SmartSpace® and Dimension4™ can make your business more productive, flexible, profitable and safe.",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Process Visibility & Optimization",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Traceability in Submarine and Aerospace Production",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "automotive, aerospace, transit, or manufacturing",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DIMENSION4™ sensors and tags are the result of decades of experience delivering industrial-scale, real-world solutions that pin-point the true 3D location, movement and identity of people and things in critical processes.",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A Guide to Smart Manufacturing Logistics in 2027",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Manufacturing",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial and enterprise use only — not compatible with animal or personal tracking",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Traceability in Submarine and Aerospace Production",
+    "url": "https://ubisense.com/our-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Manufacturing",
+    "url": "https://ubisense.com/our-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial and enterprise use only — not compatible with animal or personal tracking",
+    "url": "https://ubisense.com/our-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Traceability in Submarine and Aerospace Production",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Manufacturing",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial and enterprise use only — not compatible with animal or personal tracking",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Traceability in Submarine and Aerospace Production",
+    "url": "https://ubisense.com/other-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid advances in the internet of things and analytics are reshaping the manufacturing industry, requiring manufacturing companies to innovate through technology leadership, data analytics and building new business capabilities. In so doing, manufacturers will find new ways to reduce costs, create new value streams for customers and increase the quality of their products and services.",
+    "url": "https://ubisense.com/other-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Connecting manufacturing systems to real-world business process is fundamental to realising this vision, and with SmartSpace® manufacturers can close a fundamental data-gap between their production systems and the real-world physical activities that drive their product and value creation.",
+    "url": "https://ubisense.com/other-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Manufacturing",
+    "url": "https://ubisense.com/other-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial and enterprise use only — not compatible with animal or personal tracking",
+    "url": "https://ubisense.com/other-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Traceability in Submarine and Aerospace Production",
+    "url": "https://ubisense.com/smartspace-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": ": Ubisense Automotive End-of-Line tracks the real-time location, movement and status of every vehicle across final production processes in both indoor and outdoor areas.",
+    "url": "https://ubisense.com/smartspace-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": ": Ubisense SmartSpace WIP Tracker helps organizations achieve the optimal flow of raw materials and products in their non-linear or cell manufacturing processes.",
+    "url": "https://ubisense.com/smartspace-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Ubisense Automotive End-of-Line provides complete, always-on visibility of operations using real-time vehicle location and status data integrated with existing planning systems. Powerful searches, alerts and reports provides production and management teams the information they need to quickly identify process inefficiencies and aging work-in-progress.",
+    "url": "https://ubisense.com/smartspace-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Ubisense SmartSpace WIP Tracker automates non-linear production processes using easy to configure business rules. The real-time status, movement, sequence and interaction of assets is visualised and measured to improve productivity, quality and safety. Use dashboards to track utilization over time and optimize inventory levels to eliminate manufacturing shortages.",
+    "url": "https://ubisense.com/smartspace-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Bottlenecks caused by frequently-overrunning processes",
+    "url": "https://ubisense.com/smartspace-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Low productivity caused by inefficient routing of work orders through available work zones",
+    "url": "https://ubisense.com/smartspace-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Manufacturing",
+    "url": "https://ubisense.com/smartspace-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial and enterprise use only — not compatible with animal or personal tracking",
+    "url": "https://ubisense.com/smartspace-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Traceability in Submarine and Aerospace Production",
+    "url": "https://ubisense.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "6 out of the top 10 Fortune 500 manufacturers use Ubisense",
+    "url": "https://ubisense.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "9 of the top 10 automotive manufacturers use Ubisense",
+    "url": "https://ubisense.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "3 of the top 5 aerospace manufacturers use Ubisense",
+    "url": "https://ubisense.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "From manufacturing to healthcare. Military to Life Sciences. Transportation to entertainment. This is what we do 24/7, 365 days a year.",
+    "url": "https://ubisense.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "A Guide to Smart Manufacturing Logistics in 2027",
+    "url": "https://ubisense.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Manufacturing",
+    "url": "https://ubisense.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial and enterprise use only — not compatible with animal or personal tracking",
+    "url": "https://ubisense.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Traceability in Submarine and Aerospace Production",
+    "url": "https://ubisense.com/open-position/",
+    "pass": 1
+   },
+   {
+    "quote": "“Precision” underscores the meticulous attention to detail that defines our company’s operations. Whether in manufacturing or technology development, precision is a guiding principle, ensuring the delivery of high-quality products and services. This aligns seamlessly with the repeated mention of “Quality,” reinforcing the notion that excellence is not just a goal but a standard consistently met.",
+    "url": "https://ubisense.com/open-position/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Manufacturing",
+    "url": "https://ubisense.com/open-position/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial and enterprise use only — not compatible with animal or personal tracking",
+    "url": "https://ubisense.com/open-position/",
+    "pass": 1
+   },
+   {
+    "quote": "Traceability in Submarine and Aerospace Production",
+    "url": "https://ubisense.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Leading Sports Car Manufacturer",
+    "url": "https://ubisense.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Rising customer expectations and increasingly complex configurations are driving automotive manufacturers to constantly improve operations.",
+    "url": "https://ubisense.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "At the Aston Martin plants in Gaydon, England, and St Athan, Wales, the Ubisense Real-Time Location System (RTLS) enhances control of rigorous offline finishing processes. From inspection through to repair and rework, analysis and optimization of each process step ensures production efficiency is maintained at all times.",
+    "url": "https://ubisense.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "The BMW car assembly plant in Regensburg, Germany, has a reputation for adopting new production methods ahead of the pack. Since 2007, Ubisense has provided a revolutionary new industrial tool control system.",
+    "url": "https://ubisense.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "The scanning and programming operation wasted valuable time (up to 6 seconds per tool operation) with over 140 tools along the 1.7km production line.",
+    "url": "https://ubisense.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "CLAAS is a family business founded in 1913 and is one of the world’s leading manufacturers of agricultural engineering equipment.",
+    "url": "https://ubisense.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Manufacturer",
+    "url": "https://ubisense.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturer of Speciality Materials",
+    "url": "https://ubisense.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace & Defence Manufacturer",
+    "url": "https://ubisense.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Agricultural Equipment Manufacturer",
+    "url": "https://ubisense.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Manufacturer",
+    "url": "https://ubisense.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Manufacturing",
+    "url": "https://ubisense.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial and enterprise use only — not compatible with animal or personal tracking",
+    "url": "https://ubisense.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "A Guide to Smart Manufacturing Logistics in 2027 – Ubisense",
+    "url": "https://ubisense.com/a-guide-to-smart-manufacturing-logistics-in-2027/",
+    "pass": 1
+   },
+   {
+    "quote": "Traceability in Submarine and Aerospace Production",
+    "url": "https://ubisense.com/a-guide-to-smart-manufacturing-logistics-in-2027/",
+    "pass": 1
+   },
+   {
+    "quote": "A Guide to Smart Manufacturing Logistics in 2027",
+    "url": "https://ubisense.com/a-guide-to-smart-manufacturing-logistics-in-2027/",
+    "pass": 1
+   },
+   {
+    "quote": "Smart Manufacturing Logistics",
+    "url": "https://ubisense.com/a-guide-to-smart-manufacturing-logistics-in-2027/",
+    "pass": 1
+   },
+   {
+    "quote": "How does tracking assets help in manufacturing logistics?",
+    "url": "https://ubisense.com/a-guide-to-smart-manufacturing-logistics-in-2027/",
+    "pass": 1
+   },
+   {
+    "quote": "On its most basic level, tracking vital assets, whether they be raw materials, vehicles, machinery, tools, or people, can demystify the manufacturing process. By knowing where vital assets are at all times, one can build up a digital twin of a process, which can allow for greater oversight of the processes, predictive analytics, and consequence-free experimentation.",
+    "url": "https://ubisense.com/a-guide-to-smart-manufacturing-logistics-in-2027/",
+    "pass": 1
+   },
+   {
+    "quote": "UWB RTLS in manufacturing logistics: Why is it better?",
+    "url": "https://ubisense.com/a-guide-to-smart-manufacturing-logistics-in-2027/",
+    "pass": 1
+   },
+   {
+    "quote": "As mentioned above, there are many different types of RTLS system, and some are better suited to complex manufacturing environments than others. The problem with building an RTLS system that needs to cover a whole manufacturing facility is the variety and scale of the environment.",
+    "url": "https://ubisense.com/a-guide-to-smart-manufacturing-logistics-in-2027/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "3-1-21 Shibaura, Minato-ku, Tokyo",
+    "url": "https://ubisense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3-1-21 Shibaura, Minato-ku, Tokyo",
+    "url": "https://ubisense.com/our-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "3-1-21 Shibaura, Minato-ku, Tokyo",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "3-1-21 Shibaura, Minato-ku, Tokyo",
+    "url": "https://ubisense.com/other-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "3-1-21 Shibaura, Minato-ku, Tokyo",
+    "url": "https://ubisense.com/smartspace-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "3-1-21 Shibaura, Minato-ku, Tokyo",
+    "url": "https://ubisense.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "3-1-21 Shibaura, Minato-ku, Tokyo",
+    "url": "https://ubisense.com/open-position/",
+    "pass": 1
+   },
+   {
+    "quote": "Logiprotech (Thailand) Co., Ltd. is a joint venture between Thai and Japanese capitals, established in June 2017. They provide breakthrough improvements in production and logistics operations in Thailand and the broader Asian region by developing custom IoT systems together with their clients using the most advanced and unique IT technologies.",
+    "url": "https://ubisense.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "3-1-21 Shibaura, Minato-ku, Tokyo",
+    "url": "https://ubisense.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "3-1-21 Shibaura, Minato-ku, Tokyo",
+    "url": "https://ubisense.com/a-guide-to-smart-manufacturing-logistics-in-2027/",
+    "pass": 1
+   },
+   {
+    "quote": "経済産業省の出版した「2021年版ものづくり白書」では日本の製造業の生き残り戦略には、レジリエンス・グリーン・デジタルの３分野への投資が特に重要だと記載されています",
+    "url": "https://ubisense.jp/event/product-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "日本テクノマティックス（現シーメンスPLM）、日本デルミア（現ダッソーシステムズ）在職中より、生産技術及び生産現場のITソリューションの普及に携わる",
+    "url": "https://ubisense.jp/event/product-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年よりユビセンス ジャパン株式会社に在職、Ubisenseソリューションを数十社以上に導入を経験",
+    "url": "https://ubisense.jp/event/product-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "観客に最高の音質を届けるために高品質のソリューションを求めていたフィンランド国立歌劇場（FNO）と東京の新国立劇場とのコラボレーションは非常に上手くいきました」",
+    "url": "https://ubisense.jp/reseller/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "GPS tags receive signals from multiple satellites and compare the different arrival times of signals to determine a position. Suitable only for outdoor areas with a clear view of the sky, GPS tags do not require any additional infrastructure.",
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "6 out of the top 10 Fortune 500 manufacturers use Ubisense",
+    "url": "https://ubisense.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Ubisense employees were asked to define the company’s brand in a single word and the wordcloud above represents the responses. Ubisense’s brand reflects a rich and multifaceted identity. The recurring theme of “Customisation” emphasizes a commitment to tailoring solutions to individual needs, showcasing a customer-centric approach that prioritizes personalization and adaptability.",
+    "url": "https://ubisense.com/open-position/",
+    "pass": 1
+   },
+   {
+    "quote": "“Loyalty” emerges as a shared sentiment among our employees, suggesting a strong bond and commitment to the company. This loyalty is mirrored in the references to “Teamwork,” “Family,” and “Engagement,” creating a sense of community that extends beyond professional responsibilities.",
+    "url": "https://ubisense.com/open-position/",
+    "pass": 1
+   },
+   {
+    "quote": "In conclusion, Ubisense’s brand (as viewed by its employees) is a fusion of innovation, precision, and a strong sense of community. The commitment to customization, quality, and loyalty sets the stage for a brand that not only leads in technology but also values the people who drive its success.",
+    "url": "https://ubisense.com/open-position/",
+    "pass": 1
+   },
+   {
+    "quote": "In order to ensure each route is covered according to the timetable, the arrival and departure times of the buses must be monitored and maintained alerting key personnel to possible timetable deviation. Therefore, the precise location and positioning of each vehicle is critical to ensuring that they can be dispatched according to schedule and in the right order.",
+    "url": "https://ubisense.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Reliable communication with the depot management system alerting it to busses arriving and leaving the bus depot",
+    "url": "https://ubisense.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Verkehrsbetriebe Luzern (VBL) is the main provider of public transport in the Swiss city of Luzern. Like every depot management team, VBL must ensure buses are scheduled correctly, arriving and departing as planned, and follow a cleaning and maintenance program to ensure customer comfort and safety.",
+    "url": "https://ubisense.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "A Ubisense ultra-wide-band (UWB) transmitter is attached to each bus, providing sub-meter, real-time accurate location information into the swissaxis AG BeDips® depot management system. This allows buses to be located and parked correctly, both indoors and outside, alerting when buses arrive and leave 24/7, providing Considerable improvements of work-flow optimisation and efficiency for VBL.",
+    "url": "https://ubisense.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "enables operators to carry only",
+    "url": "https://www.durabook.com/wp-content/uploads/2025/10/Durabook_Ubisense_U11I_CaseStudy_EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "can carry out multiple tasks such",
+    "url": "https://www.durabook.com/wp-content/uploads/2025/10/Durabook_Ubisense_U11I_CaseStudy_EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ubisense Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/ubisense-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Ubisense",
+    "url": "https://prospeo.io/c/ubisense-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/ubisense-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/ubisense-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/ubisense-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Ubisense?",
+    "url": "https://prospeo.io/c/ubisense-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Ubisense generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/ubisense-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/ubisense-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/ubisense-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Ubisense have?",
+    "url": "https://prospeo.io/c/ubisense-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/ubisense-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Ubisense has 72 total employees.",
+    "url": "https://pitchbook.com/profiles/company/234702-55",
+    "pass": 3
+   },
+   {
+    "quote": "What is Ubisense’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/234702-55",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Ubisense is",
+    "url": "https://pitchbook.com/profiles/company/234702-55",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "当日のご案内メールが届かない方はお手数ですが（ubisense_sales@comm.rakuten.co.jp）までご連絡ください",
+    "url": "https://ubisense.jp/event/product-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/ubisense-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/234702-55",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Ubisense Top Reseller – Ubisense",
+    "url": "https://ubisense.jp/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Ubisense Top Reseller",
+    "url": "https://ubisense.jp/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "German tier-1 OEMs rely on real-time visibility to",
+    "url": "https://www.durabook.com/wp-content/uploads/2025/10/Durabook_Ubisense_U11I_CaseStudy_EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "tier-1 automotive OEMs, known for setting global benchmarks in",
+    "url": "https://www.durabook.com/wp-content/uploads/2025/10/Durabook_Ubisense_U11I_CaseStudy_EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "German tier-1 OEMs rely on",
+    "url": "https://www.durabook.com/wp-content/uploads/2025/10/Durabook_Ubisense_U11I_CaseStudy_EN.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Ubisense – 物理空間をSmartSpaceに変換 — UbisenseのSmartSpaceは、これらすべてを兼ね備えています。 インダストリー4.0ソリューションの第一人者として、30年の実績により裏付けされた技術を用いて皆様の長年の問題を解決いたします。",
+    "url": "https://ubisense.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "PRODUCT – Starter Kit – Ubisense — スターターキット 最高の位置測位システムを今すぐ実感してみませんか？ リアルタイムで正確な位置測位のパイロットシステム（Proof-Of-Concept）や初期導入などを計画しているお客様向けにUbisense RTLSスターターキットをご用意しています。",
+    "url": "https://ubisense.jp/starter-kit/",
+    "pass": 3
+   },
+   {
+    "quote": "Ubisenseサービスご紹介 ～高精度位置情報が生み出す、新たな価値～ — Aug 23, 2022 · 日本テクノマティックス（現シーメンスPLM）、日本デルミア（現ダッソーシステムズ）在職中より、生産技術及び生産現場のITソリューションの普及に携わる。 2015年よりユビセンス ジャパン株式会社に在職、Ubisenseソリューションを数十社以上に導入を経験。",
+    "url": "https://ubisense.jp/event/product-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "Ubisense Top Reseller — 当社が貴社のビジネスの変革を支援する方法 Ubisense SmartSpaceとDIMENSION4™を利用して、 ビジネスの生産性、柔軟性、収益性、安全性を高める方法についてお問い合わせください。",
+    "url": "https://ubisense.jp/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Ubisense – Transforming Physical Space Into SmartSpace — Ubisense empowers complex environments with improved visibility, automation, safety alerts, and seamless technology integration. Gain a 360-degree operational view in a single platform, reducing errors and increasing efficiency.",
+    "url": "https://ubisense.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ubisense – 物理空間をSmartSpaceに変換 — Ubisenseは、業界をリードするDimension4™超広帯域センサーとSmartSpace®ソフトウェア・プラットフォームにより、あらゆる位置情報にシームレスに接続・識別し、デジタル化します。",
+    "url": "https://ubisense.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ABOUT US – Ubisense — 当社がしていることは新しいことではありません。 当社はそれを非常に上手く手がけているに過ぎません。 Ubisenseは、世界中の900を超える顧客にミッションクリティカルな位置測位ソリューションを提供してきた数十年の経験に基づいて成長してきました。",
+    "url": "https://ubisense.jp/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "About – Ubisense — Ubisense has grown on decades of experience delivering mission-critical location solutions for over 900 customers globally. Our latest 3rd generation technology has been refined with over 100,000 hours of software development time and supported by numerous patents. From manufacturing to healthcare. Military to Life Sciences.",
+    "url": "https://ubisense.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Ubisense Japan - Crunchbase Company Profile & FundingUbisense Japan K.K. (+81-358055888) | Japan Business DatabaseUbisense (Japanese services business) 2026 Company Profile ... — Ubisense is a provider of real-time positioning solutions. A UWB-based system providing high-precision 3D tracking of people and assets in industrial environments with centimeter-level accuracy and long battery life. Prof",
+    "url": "https://www.crunchbase.com/organization/ubisense-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Customer Case Study – Ubisense — With Ubisense RTLS and SmartSpace, the industry leader gained the visibility needed to hit ambitious fighter jet cost and production targets. The system cut waste, improved asset utilization, and boosted productivity, creating a scalable model now influencing operations across other divisions.",
+    "url": "https://ubisense.com/aerospace-customer/",
+    "pass": 3
+   },
+   {
+    "quote": "CUSTOMERS – Ubisense — Since 2007, Ubisense has provided a revolutionary new industrial tool control system. The assembly line at the Regensburg produces BMW 1 Series, 3 Series and Z4 Sports cars, sequenced by the production planning system from customer orders.",
+    "url": "https://ubisense.com/customers/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Case Studies - YouTube — New Mercedes-AMG four-cylinder turbo engine M 139 production Ubisense 299 6y ago 2:14",
+    "url": "https://www.youtube.com/playlist?list=PLKUbRREO7Xx6n5pIjx4qoYipZZU9AXorB",
+    "pass": 3
+   },
+   {
+    "quote": "Durabook_Ubisense_CaseStudy_en-1017 — At the heart of this solution is the Durabook U11I rugged tablet, integrated with the Ubisense Dimension4 UWB tag module. Together, they provide real-time location tracking in complex automotive production environments.",
+    "url": "https://www.durabook.com/wp-content/uploads/2025/10/Durabook_Ubisense_U11I_CaseStudy_EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ubisense - 2026 Company Profile, Team, Funding, Competitors ...Ubisense Revenue, Funding & Valuation - prospeo.ioUbisense – Competitor List & Expansion Signals – 2026Ubisense 2026 Company Profile: Valuation, Funding & Investors ...Ubisense - Crunchbase Company Profile & FundingUbisense: Revenue, Competitors, Alternatives - GrowjoUbisense - Overview, News & Similar companies | ZoomInfo.com — Oct 12",
+    "url": "https://tracxn.com/d/companies/ubisense/__oB9SbB3WyjSQgO_M8Mmr9R8GXQD1mmCaKHKc5zjSlcc",
+    "pass": 3
+   },
+   {
+    "quote": "Ubisense Revenue, Funding & Valuation - prospeo.ioUbisense – Competitor List & Expansion Signals – 2026Ubisense 2026 Company Profile: Valuation, Funding & Investors ...Ubisense - Crunchbase Company Profile & FundingUbisense: Revenue, Competitors, Alternatives - GrowjoUbisense - Overview, News & Similar companies | ZoomInfo.com — Ubisense has raised a total of $7,300,000 across 1 funding rounds. Th",
+    "url": "https://prospeo.io/c/ubisense-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Ubisense – Competitor List & Expansion Signals – 2026 — Discover Ubisense's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/ubisense",
+    "pass": 3
+   },
+   {
+    "quote": "Ubisense 2026 Company Profile: Valuation, Funding & Investors ...Ubisense - Crunchbase Company Profile & FundingUbisense: Revenue, Competitors, Alternatives - GrowjoUbisense - Overview, News & Similar companies | ZoomInfo.com — Information on valuation, funding, acquisitions, investors, and executives for Ubisense. Use the PitchBook Platform to explore the full profile. Ubisense is the world leade",
+    "url": "https://pitchbook.com/profiles/company/234702-55",
+    "pass": 3
+   },
+   {
+    "quote": "Ubisense - Crunchbase Company Profile & FundingUbisense: Revenue, Competitors, Alternatives - GrowjoUbisense - Overview, News & Similar companies | ZoomInfo.com — Ubisense is the world leader in Precise Real-Time Location Systems, providing enterprise business automation by tracking people and assets with unmatched accuracy, and enabling visibility and control of previously intractable business ch",
+    "url": "https://www.crunchbase.com/organization/ubisense",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "UbisenseSmartSpace (@UbisenseNews) / Posts / X If you have not yet seen it, you can access the full 2024 Gartner Magic Quadrant for Indoor Location Services report below: #rtls #smartmanufacturing #realtimetracking ubisense.com/2024-gartner-m…",
+    "url": "https://x.com/UbisenseNews",
+    "pass": 3
+   },
+   {
+    "quote": "\"#ubisense\" - Results on X | Live Posts & Updates Results for \"#ubisense\" on X (Twitter). Find the latest posts, discussions, and updates about #ubisense. 15 results found.",
+    "url": "https://x.com/hashtag/ubisense",
+    "pass": 3
+   },
+   {
+    "quote": "UbisenseSmartSpace on X: \"Ubisense location sensing ... Ubisense location sensing technology digitizes all the manual and moving parts of the vehicle assembly process and connects to manufacturing execution and planning systems to help you improve quality and save time.",
+    "url": "https://x.com/UbisenseNews/status/1401964424106332163",
+    "pass": 3
+   },
+   {
+    "quote": "From everyone at Ubisense, we wish you a happy, healthy, and ... From everyone at Ubisense, we wish you a happy, healthy, and prosperous new year! #happynewyear #rtls #IoT For those interested in the details: - 18x Ubisense Dimension4 Ultra-Wideband Industrial Tags - Ubisense location engine processing over 800 location updates per second",
+    "url": "https://x.com/UbisenseNews/status/1609475515319975936",
+    "pass": 3
+   },
+   {
+    "quote": "UbisenseSmartSpace (@UbisenseNews) / Posts / X Mar 2, 2015 · UbisenseSmartSpace (@UbisenseNews) - Posts - SmartSpace® and the Operations360 approach empower complex environments with improved visibility, au... | X (formerly Twitter)",
+    "url": "https://x.com/UbisenseNews",
+    "pass": 3
+   },
+   {
+    "quote": "UbisenseSmartSpace on X: \"Ubisense location sensing ... Jun 7, 2021 · Ubisense location sensing technology digitizes all the manual and moving parts of the vehicle assembly process and connects to manufacturing execution and planning systems to help you improve quality and save time.",
+    "url": "https://x.com/UbisenseNews/status/1401964424106332163",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Ubisense - LinkedIn With offices in the UK, France, Germany and the US, Ubisense has more than 900 customers across the globe, and has enabled many to implement their factory digitization strategies.",
+    "url": "https://www.linkedin.com/company/ubisense",
+    "pass": 3
+   },
+   {
+    "quote": "Ubisense - LinkedIn Ubisense transforms physical spaces into SmartSpace®, bringing manufacturers proven gains in quality, cost, and productivity. Our SmartSpace platform monitors the physical flow of the factory...",
+    "url": "https://uk.linkedin.com/company/ubisense",
+    "pass": 3
+   },
+   {
+    "quote": "Ubisense - LinkedIn Ubisense transforms physical spaces into SmartSpace®, bringing manufacturers proven gains in quality, cost, and productivity. Our SmartSpace platform monitors the physical flow of the factory...",
+    "url": "https://ca.linkedin.com/company/ubisense",
+    "pass": 3
+   },
+   {
+    "quote": "Ubisense - LinkedIn Ubisense transforms physical spaces into SmartSpace®, bringing manufacturers proven gains in quality, cost, and productivity. Our SmartSpace platform monitors the physical flow of the factory...",
+    "url": "https://fr.linkedin.com/company/ubisense",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Ubisense - Facebook See all 2 people like this 2 people follow this https://www.ubisense.net/ Local Business",
+    "url": "https://www.facebook.com/Ubisense-167046160148826/",
+    "pass": 3
+   },
+   {
+    "quote": "Ubisense Technologies - Facebook Ubisense Technologies. 1 like. We specialize in the area of technical products which is the face of the future and available according to the requirement...",
+    "url": "https://www.facebook.com/UbisenseTech/",
+    "pass": 3
+   },
+   {
+    "quote": "Why 5G makes good sense for industry - Facebook Sep 24, 2021 · Andy Ward, CTO at Ubisense, explains how \"Industry 4.0\" sensoring technology can change the way factories and production lines operate, tapping into the 5G wireless connectivity to make them more efficient and safer.",
+    "url": "https://www.facebook.com/LightReading/videos/why-5g-makes-good-sense-for-industry/4801259486560358/",
+    "pass": 3
+   },
+   {
+    "quote": "Light Reading - Andy Ward, CTO at Ubisense, explains how ... Sep 24, 2021 · Andy Ward, CTO at Ubisense, explains how \"Industry 4.0\" sensoring technology can change the way factories and production lines operate, tapping into the...",
+    "url": "https://www.facebook.com/LightReading/posts/andy-ward-cto-at-ubisense-explains-how-industry-40-sensoring-technology-can-chan/10158402943447525/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ubisense.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubisense.com/our-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubisense.com/asset-tracking-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubisense.com/other-industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubisense.com/smartspace-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubisense.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubisense.com/open-position/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubisense.com/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubisense.com/a-guide-to-smart-manufacturing-logistics-in-2027/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://ubisense.com/wp-content/uploads/2022/12/manufacturing-logistics-1000x667-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://ubisense.com/wp-content/uploads/2023/03/automotive-manufacturing-line.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ubisense.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubisense.jp/starter-kit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubisense.jp/event/product-overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubisense.jp/reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubisense.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ubisense.jp/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/playlist?list=PLKUbRREO7Xx6n5pIjx4qoYipZZU9AXorB",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.durabook.com/wp-content/uploads/2025/10/Durabook_Ubisense_U11I_CaseStudy_EN.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/ubisense/__oB9SbB3WyjSQgO_M8Mmr9R8GXQD1mmCaKHKc5zjSlcc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/ubisense-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/ubisense",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/234702-55",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/UbisenseNews",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/ubisense",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/UbisenseNews/status/1401964424106332163",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/UbisenseNews/status/1609475515319975936",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ubisense",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/ubisense",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/ubisense",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/company/ubisense",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Ubisense-167046160148826/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/UbisenseTech/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/LightReading/videos/why-5g-makes-good-sense-for-industry/4801259486560358/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/LightReading/posts/andy-ward-cto-at-ubisense-explains-how-industry-40-sensoring-technology-can-chan/10158402943447525/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/UbisenseNews",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/UbisenseNews/status/1401964424106332163",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Ubisense 日本 導入",
+   "results": [
+    "https://ubisense.jp/",
+    "https://ubisense.jp/starter-kit/",
+    "https://ubisense.jp/event/product-overview/",
+    "https://ubisense.jp/reseller/",
+    "https://ubisense.com/",
+    "https://ubisense.jp/about-us/",
+    "https://ubisense.jp/other-industries/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ubisense 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Ubisense Japan",
+   "results": [
+    "https://ubisense.jp/",
+    "https://ubisense.com/",
+    "https://ubisense.jp/about-us/",
+    "https://ubisense.com/about/",
+    "https://www.crunchbase.com/organization/ubisense-japan",
+    "https://jpn.bizdirlib.com/node/685768",
+    "https://pitchbook.com/profiles/company/226522-90"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ubisense manufacturing customer case study",
+   "results": [
+    "https://ubisense.com/aerospace-customer/",
+    "https://ubisense.com/customers/",
+    "https://www.youtube.com/playlist?list=PLKUbRREO7Xx6n5pIjx4qoYipZZU9AXorB",
+    "https://www.durabook.com/wp-content/uploads/2025/10/Durabook_Ubisense_U11I_CaseStudy_EN.pdf",
+    "https://www.fexle.com/case-study-ubisense",
+    "https://www.casestudies.com/company/ubisense",
+    "https://www.casestudies.com/company/ubisense/case-study/zayo-customer-case-study"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ubisense white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://nebius.com/nebius-partner-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ubisense founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/ubisense/__oB9SbB3WyjSQgO_M8Mmr9R8GXQD1mmCaKHKc5zjSlcc",
+    "https://prospeo.io/c/ubisense-revenue",
+    "https://compworth.com/company/ubisense",
+    "https://pitchbook.com/profiles/company/234702-55",
+    "https://www.crunchbase.com/organization/ubisense",
+    "https://growjo.com/company/Ubisense",
+    "https://www.zoominfo.com/c/ubisense-inc/350633170",
+    "https://dexteragent.ai/companies/ubisense-1771861623",
+    "https://system.privco.com/company/ubisense"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com Ubisense",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/wise_turtle184",
+    "https://note.com/kentabright/n/n5beb588a48da",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/arahata0907/n/na8ab6bf5d34f",
+    "https://note.com/ipusiro/n/nc92ad555b463"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Ubisense",
+   "results": [
+    "https://x.com/UbisenseNews",
+    "https://x.com/hashtag/ubisense",
+    "https://x.com/UbisenseNews/status/1401964424106332163",
+    "https://x.com/UbisenseNews/status/1609475515319975936",
+    "https://x.com/",
+    "https://x.com/dxthnstrawberry/status/2120155746897903896",
+    "https://x.com/colormejassy/status/2118498768739790880"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Ubisense",
+   "results": [
+    "https://www.linkedin.com/company/ubisense",
+    "https://uk.linkedin.com/company/ubisense",
+    "https://ca.linkedin.com/company/ubisense",
+    "https://fr.linkedin.com/company/ubisense",
+    "https://jp.linkedin.com/company/ubisense",
+    "https://uk.linkedin.com/in/andy-ward-freng",
+    "https://de.linkedin.com/company/ubisense"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Ubisense",
+   "results": [
+    "https://www.facebook.com/Ubisense-167046160148826/",
+    "https://www.facebook.com/UbisenseTech/",
+    "https://www.facebook.com/LightReading/videos/why-5g-makes-good-sense-for-industry/4801259486560358/",
+    "https://www.facebook.com/LightReading/posts/andy-ward-cto-at-ubisense-explains-how-industry-40-sensoring-technology-can-chan/10158402943447525/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/FrontierGeotek/posts/ubisense-and-frontier-geotek-inc-launch-new-solutions-for-communications-service/1407991395887656/",
+    "https://www.facebook.com/LaramieYoungProfessionals/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ubisense note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://ubisense.com/",
+    "https://ubisense.com/ubisense-appoints-chris-shannon-as-ceo/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ubisense X 投稿",
+   "results": [
+    "https://x.com/UbisenseNews",
+    "https://ubisense.com/",
+    "https://x.com/UbisenseNews/status/1401964424106332163",
+    "https://ubisense2026.github.io/",
+    "https://ubisense.jp/",
+    "https://ubisense2026.github.io/cfp.html",
+    "https://docs.ubisense.com/dimension4/Default.htm"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式9頁／PDF・画像2件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式9頁／PDF・画像2件／外部30頁・検索12回）"
+ }
+}

@@ -8,9 +8,15 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-09T11:31:57.580635+00:00",
+ "researched_at": "2026-11-11T06:22:35.909281+00:00",
  "evidence": {
-  "失敗・落とし穴": [
+  "実例": [
+   {
+    "quote": "Unfortunately, fake profiles and errors do occur. Especially for lesser-known or smaller businesses, a single company page can attract numerous unrelated profiles. One LinkedIn expert noted cases where a firm with only 30 real employees had",
+    "url": "https://blog.getaura.ai/headcount-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
    {
     "quote": "on its LinkedIn page, mostly due to individuals accidentally or intentionally attaching themselves to the wrong company. In another extreme case, a one-person company ended up with over 1,500 “employees” on LinkedIn because many people mistakenly selected that company name on their profiles. These examples show how dramatically LinkedIn data can deviate from reality.",
     "url": "https://blog.getaura.ai/headcount-data",
@@ -18,7 +24,7 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "LinkedIn is just one popular source of headcount data. Several other platforms and databases provide company workforce data, each with unique collection methods and potential pitfalls. Let’s briefly compare a few popular ones and how they gather/verify headcount information:",
+    "quote": "Many companies operate through subsidiaries, acquisitions, or international branches that might use different names. For example, a large multinational company might have separate LinkedIn pages for “Acme Corp (US),\" “Acme Corp UK,\" “Acme Corp India,” and so on, each with its own employee count. One public source might summarize them, while another might not.",
     "url": "https://blog.getaura.ai/headcount-data",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -45,6 +51,20 @@
    },
    {
     "quote": ", cross-verifying multiple inputs and contextual information to arrive at what we believe is the most accurate figure. Here’s what sets Aura’s methodology apart:",
+    "url": "https://blog.getaura.ai/headcount-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "on its LinkedIn page, mostly due to individuals accidentally or intentionally attaching themselves to the wrong company. In another extreme case, a one-person company ended up with over 1,500 “employees” on LinkedIn because many people mistakenly selected that company name on their profiles. These examples show how dramatically LinkedIn data can deviate from reality.",
+    "url": "https://blog.getaura.ai/headcount-data",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "LinkedIn is just one popular source of headcount data. Several other platforms and databases provide company workforce data, each with unique collection methods and potential pitfalls. Let’s briefly compare a few popular ones and how they gather/verify headcount information:",
     "url": "https://blog.getaura.ai/headcount-data",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -81,26 +101,6 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "実例": [
-   {
-    "quote": "Unfortunately, fake profiles and errors do occur. Especially for lesser-known or smaller businesses, a single company page can attract numerous unrelated profiles. One LinkedIn expert noted cases where a firm with only 30 real employees had",
-    "url": "https://blog.getaura.ai/headcount-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "on its LinkedIn page, mostly due to individuals accidentally or intentionally attaching themselves to the wrong company. In another extreme case, a one-person company ended up with over 1,500 “employees” on LinkedIn because many people mistakenly selected that company name on their profiles. These examples show how dramatically LinkedIn data can deviate from reality.",
-    "url": "https://blog.getaura.ai/headcount-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Many companies operate through subsidiaries, acquisitions, or international branches that might use different names. For example, a large multinational company might have separate LinkedIn pages for “Acme Corp (US),\" “Acme Corp UK,\" “Acme Corp India,” and so on, each with its own employee count. One public source might summarize them, while another might not.",
-    "url": "https://blog.getaura.ai/headcount-data",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ]
  },
  "figures": {},
@@ -112,7 +112,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/michishirube_it/n/ndcf6afe17bae",
+    "url": "https://note.com/via_nova/n/n4e0b794abfa6",
     "status": "ok",
     "method": "http"
    },
@@ -132,62 +132,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/toaru_/n/n99badf3f9aaa",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nagashima.com/publications/publication20220425-4/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/mochizuki_tax/n/n368eb02aa84a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.ey.com/ja_jp/insights/tax/info-sensor-2025-03-02-tax-update",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/superstream/column/article/human-capital-disclosure",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.yamada-partners.jp/reform/h29/k01-amendments-to-the-combined-tax-system-for-foreign-subsidiaries",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nta.go.jp/law/joho-zeikaishaku/hojin/180111/index.htm",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://toma.co.jp/blog/overseas/anti-tax_haven_rules/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.tkao.com/column/column-2025-19/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.kfs.go.jp/service/MP/12/0213000000.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/unique_macaw1498/n/n54118d76f378",
+    "url": "https://note.com/miraikan/n/n8f69c0717d71",
     "status": "ok",
     "method": "http"
    },
@@ -197,32 +142,32 @@
     "method": "http"
    },
    {
-    "url": "https://the-tax-lawyer.com/case/report26/",
+    "url": "https://kigyo-scope.jp/glossary/employees/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.torikai.gr.jp/articles/detail/post-29693/",
+    "url": "https://biz.flora-tech.jp/ja/column/diversity-women/jinteki-shihon-kaiji-renketsu-group",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.sozeishiryokan.or.jp/023-003/",
+    "url": "https://wovie.me/contents-4/column/?p=152621",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.yglpc.com/wp/wp-content/uploads/2019/05/vol11.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://jicpa.or.jp/specialized_field/21_22.html",
+    "url": "https://biz.flora-tech.jp/ja/column/engagement-hrdev/jinji-data-dedokoro-setsumei",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.businesslawyers.jp/articles/88",
+    "url": "https://souzokuzei-taisaku.link/juugyouin-hani",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003206210",
     "status": "ok",
     "method": "http"
    },
@@ -237,24 +182,24 @@
     "method": ""
    },
    {
-    "url": "https://documents1.worldbank.org/curated/en/827991542143093021/pdf/World-Bank-Group-LinkedIn-Data-Insights-Jobs-Skills-and-Migration-Trends-Methodology-and-Validation-Results.pdf",
+    "url": "https://www.affinity.co/blog/employee-headcount-data",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
-    "url": "https://www.linkedin.com/pulse/headcount-data-evaluate-improve-company-performance-coresignal",
-    "status": "robots_disallowed",
-    "method": ""
+    "url": "https://derrick-app.com/linkedin/company-information/linkedin-company-data-report-2026",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "url": "https://www.linkedin.com/help/linkedin/answer/a191044",
-    "status": "robots_disallowed",
-    "method": ""
+    "url": "https://www.refolk.ai/guides/sizing-private-company-headcount",
+    "status": "ok",
+    "method": "browser"
    },
    {
-    "url": "https://www.linkedin.com/help/linkedin/answer/a565340",
-    "status": "robots_disallowed",
-    "method": ""
+    "url": "https://grata.com/resources/access-to-better-employee-data-means-better-deals",
+    "status": "ok",
+    "method": "http"
    }
   ]
  },
@@ -263,106 +208,82 @@
    "query": "会社の社員数の出どころ（SNS・求人・登記・開示）の偏りと突き合わせ方（申告・外注・子会社の合算・業種で向きが反対） site:note.com",
    "results": [
     "https://note.com/j_adcustom/n/nbfd997bae212",
-    "https://note.com/michishirube_it/n/ndcf6afe17bae",
+    "https://note.com/via_nova/n/n4e0b794abfa6",
     "https://note.com/so_what_analysis/n/n4f5400ee98bf",
     "https://note.com/so_what_analysis/n/nf4a5dd5ddcf4",
     "https://note.com/nice_oxalis920/n/n7bca172d4fe3",
-    "https://note.com/toaru_/n/n99badf3f9aaa",
-    "https://note.com/miraikan/n/n8f69c0717d71"
+    "https://note.com/miraikan/n/n8f69c0717d71",
+    "https://note.com/toaru_/n/n99badf3f9aaa"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "会社の社員数の出どころ（SNS・求人・登記・開示）の偏りと突き合わせ方（申告・外注・子会社の合算・業種で向きが反対） note",
    "results": [
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.nagashima.com/publications/publication20220425-4/",
-    "https://note.com/mochizuki_tax/n/n368eb02aa84a",
-    "https://www.ey.com/ja_jp/insights/tax/info-sensor-2025-03-02-tax-update",
-    "https://www.canon-its.co.jp/solution/industry/cross-industry/superstream/column/article/human-capital-disclosure",
-    "https://www.yamada-partners.jp/reform/h29/k01-amendments-to-the-combined-tax-system-for-foreign-subsidiaries",
-    "https://willow8-tax.com/4254/",
-    "https://www.thomsonreuters.co.jp/ja/westlaw-japan/column-law/2022/220221/",
-    "https://www.tokyo-consulting.com/zeimu/blog/5083/"
+    "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata",
+    "https://kigyo-scope.jp/glossary/employees/",
+    "https://biz.flora-tech.jp/ja/column/diversity-women/jinteki-shihon-kaiji-renketsu-group",
+    "https://wovie.me/contents-4/column/?p=152621",
+    "https://biz.flora-tech.jp/ja/column/engagement-hrdev/jinji-data-dedokoro-setsumei",
+    "https://note.com/so_what_analysis/n/n4f5400ee98bf",
+    "https://souzokuzei-taisaku.link/juugyouin-hani"
    ],
    "engines": [
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 9
+   "n_hits": 7
   },
   {
    "query": "会社の社員数の出どころ（SNS・求人・登記・開示）の偏りと突き合わせ方（申告・外注・子会社の合算・業種で向きが反対） やり方",
    "results": [
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.nta.go.jp/law/joho-zeikaishaku/hojin/180111/index.htm",
-    "https://www.nagashima.com/publications/publication20220425-4/",
-    "https://toma.co.jp/blog/overseas/anti-tax_haven_rules/",
-    "https://www.yamada-partners.jp/reform/h29/k01-amendments-to-the-combined-tax-system-for-foreign-subsidiaries",
-    "https://www.ey.com/ja_jp/insights/tax/info-sensor-2025-03-02-tax-update",
-    "https://www.tkao.com/column/column-2025-19/",
-    "https://www.kfs.go.jp/service/MP/12/0213000000.html",
-    "https://note.com/unique_macaw1498/n/n54118d76f378",
-    "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata"
+    "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata",
+    "https://kigyo-scope.jp/glossary/employees/",
+    "https://biz.flora-tech.jp/ja/column/diversity-women/jinteki-shihon-kaiji-renketsu-group",
+    "https://wovie.me/contents-4/column/?p=152621",
+    "https://biz.flora-tech.jp/ja/column/engagement-hrdev/jinji-data-dedokoro-setsumei",
+    "https://souzokuzei-taisaku.link/juugyouin-hani",
+    "https://www.e-stat.go.jp/dbview?sid=0003206210"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "会社の社員数の出どころ（SNS・求人・登記・開示）の偏りと突き合わせ方（申告・外注・子会社の合算・業種で向きが反対） 事例",
-   "results": [
-    "https://www.kfs.go.jp/service/MP/12/0213000000.html",
-    "https://toma.co.jp/blog/overseas/anti-tax_haven_rules/",
-    "https://the-tax-lawyer.com/case/report26/",
-    "https://www.torikai.gr.jp/articles/detail/post-29693/",
-    "https://www.sozeishiryokan.or.jp/023-003/",
-    "https://www.yglpc.com/wp/wp-content/uploads/2019/05/vol11.pdf",
-    "https://www.yamada-partners.jp/reform/h29/k01-amendments-to-the-combined-tax-system-for-foreign-subsidiaries",
-    "https://jicpa.or.jp/specialized_field/21_22.html",
-    "https://www.businesslawyers.jp/articles/88",
-    "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "company headcount data sources bias reconciliation LinkedIn self-reported subsidiaries contractors",
    "results": [
     "https://blog.getaura.ai/headcount-data",
     "https://www.linkedin.com/posts/anderskrohn_enterprise-revops-teams-know-that-headcount-activity-7364206596505198593-b18L",
-    "https://documents1.worldbank.org/curated/en/827991542143093021/pdf/World-Bank-Group-LinkedIn-Data-Insights-Jobs-Skills-and-Migration-Trends-Methodology-and-Validation-Results.pdf",
-    "https://www.linkedin.com/pulse/headcount-data-evaluate-improve-company-performance-coresignal",
-    "https://www.linkedin.com/help/linkedin/answer/a191044",
-    "https://www.linkedin.com/help/linkedin/answer/a565340",
-    "https://www.technologyreview.com/2021/06/23/1026825/linkedin-ai-bias-ziprecruiter-monster-artificial-intelligence/",
-    "https://www.linkedin.com/help/sales-navigator/answer/a187044/data-in-talent-insights?lang=en",
-    "https://derrick-app.com/linkedin/company-information",
-    "https://www.affinity.co/blog/employee-headcount-data"
+    "https://www.affinity.co/blog/employee-headcount-data",
+    "https://derrick-app.com/linkedin/company-information/linkedin-company-data-report-2026",
+    "https://www.refolk.ai/guides/sizing-private-company-headcount",
+    "https://grata.com/resources/access-to-better-employee-data-means-better-deals",
+    "https://www.refolk.ai/guides/triangulate-private-company-headcount"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 14
+   "n_hits": 7
   },
   {
    "query": "site:note.com 会社の社員数の出どころ（SNS・求人・登記・開示）の偏りと突き合わせ方（申告・外注・子会社の合算・業種で向きが反対）",
    "results": [
     "https://note.com/j_adcustom/n/nbfd997bae212",
-    "https://note.com/kaisha_wo_miru/n/n476bec44a6b8",
-    "https://note.com/so_what_analysis/n/nf4a5dd5ddcf4",
     "https://note.com/so_what_analysis/n/n4f5400ee98bf",
-    "https://note.com/toaru_/n/n99badf3f9aaa",
+    "https://note.com/so_what_analysis/n/nf4a5dd5ddcf4",
     "https://note.com/nice_oxalis920/n/n7bca172d4fe3",
-    "https://note.com/strandpartners/n/n9fc64ce59203"
+    "https://note.com/toaru_/n/n99badf3f9aaa",
+    "https://note.com/strandpartners/n/n9fc64ce59203",
+    "https://note.com/miraikan/n/n8f69c0717d71"
    ],
    "engines": [
     "ddgs:bing"
@@ -381,7 +302,7 @@
     "https://x.com/toshimitsu_sowa/article/2074306280270016978"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -397,7 +318,7 @@
     "https://www.linkedin.com/posts/mkuroda_競合とのシェア争いに勝つことや売上目標の達成など重視している経営指標が短期業績に-activity-6916509779200806912-_hvY"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -406,8 +327,8 @@
    "results": [
     "https://www.facebook.com/ryohei.takahashi.357/videos/求人特化のsns運用代行会社を経営しはじめて約5年本当に多くのお客様に支えられてきました地域地元密着三河no1のsns運用代行会社になる大好きかつ優秀な社員さん/3517518388407412/",
     "https://www.facebook.com/yokolovery/posts/社員がsnsに協力してくれないその原因は社員の意識ではなく仕組みにあるかもしれません顔出しなしでも人感は伝えられます社員が参加しやすいsns広報のポイントをまと/28073333712293667/",
+    "https://www.facebook.com/PERSOL.CAREER/",
     "https://www.facebook.com/nomura.jp/photos/野村證券社員は意外と体育会系じゃないｓｎｓチームの加藤が野村證券の取り組みを紹介するのむらびと今回は体育会系出身の社員の比率を紹介します野村證券のイメージを社員/3155583567799795/",
-    "https://www.facebook.com/j.adcustom/",
     "https://www.facebook.com/tsrnet/photos/tsrデータインサイト官報で決算公告株式会社のわずか182022年官報決算公告調査-情報開示が求められる時代ですが株式会社で官報での公告を記載しながら実際に決算/952067602763343/",
     "https://www.facebook.com/karacchii/posts/人事制度って過去に所属した会社の経験に引っ張られがちで考え方に偏りが出ますでも人事制度って会社の思想を言語化しつつ運用に耐えられる仕組みに落とさないといけないの/10241895982844339/",
     "https://www.facebook.com/tokyoshihoushoshikai/posts/不動産登記受付帳の記録事項や開示手続の在り方の見直しを求める会長声明１不動産登記受付帳を利用した不動産売却等の勧誘-昨今不動産登記受付帳の開示請求で得られた情報/1484143639601971/"
@@ -420,66 +341,56 @@
   {
    "query": "会社の社員数の出どころ（SNS・求人・登記・開示）の偏りと突き合わせ方（申告・外注・子会社の合算・業種で向きが反対） note 社長",
    "results": [
-    "https://biz.note.com/n/naea3545a5837",
-    "https://www.selva-i.co.jp/article/archives/3224",
-    "https://note.jp/n/n0e68d175d67b",
-    "https://minnano-zeirishi.jp/article/119697/",
-    "https://atsoho.com/blog/legal-note-side-job",
-    "https://www.canon-its.co.jp/solution/industry/cross-industry/superstream/column/article/human-capital-disclosure",
-    "https://note.com/aikachan_ai/n/n007187d62992",
-    "https://coco-and.jp/blog/column4/",
-    "https://note.com/note_sekkeizu1/n/nda1382cc48fa"
+    "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata",
+    "https://kigyo-scope.jp/glossary/employees/",
+    "https://biz.flora-tech.jp/ja/column/diversity-women/jinteki-shihon-kaiji-renketsu-group",
+    "https://wovie.me/contents-4/column/?p=152621",
+    "https://biz.flora-tech.jp/ja/column/engagement-hrdev/jinji-data-dedokoro-setsumei",
+    "https://www.e-stat.go.jp/dbview?sid=0003206210",
+    "https://note.com/so_what_analysis/n/n4f5400ee98bf"
    ],
    "engines": [
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 9
+   "n_hits": 7
   },
   {
    "query": "会社の社員数の出どころ（SNS・求人・登記・開示）の偏りと突き合わせ方（申告・外注・子会社の合算・業種で向きが反対） X 投稿",
    "results": [
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.nagashima.com/publications/publication20220425-4/",
-    "https://www.youtube.com/watch?v=h_byTgxzda0",
-    "https://www.ht-tax.or.jp/navi/sns-tax-investigation",
-    "https://x.com/sugawara11/status/1758074230326104336",
-    "https://toma.co.jp/blog/overseas/anti-tax_haven_rules/",
-    "https://cs-lawyer.tokyo/column/2020/03/02.html",
-    "https://www.yotsubasougou.jp/works/problem/personnel_management/qa/social-media-misconduct-guide/",
-    "https://xn--alg-li9dki71toh.com/column/response-to-improper-sns-posts/",
-    "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata"
+    "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata",
+    "https://kigyo-scope.jp/glossary/employees/",
+    "https://biz.flora-tech.jp/ja/column/diversity-women/jinteki-shihon-kaiji-renketsu-group",
+    "https://wovie.me/contents-4/column/?p=152621",
+    "https://biz.flora-tech.jp/ja/column/engagement-hrdev/jinji-data-dedokoro-setsumei",
+    "https://souzokuzei-taisaku.link/juugyouin-hani",
+    "https://www.e-stat.go.jp/dbview?sid=0003206210"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "company headcount data sources bias reconciliation LinkedIn self-reported subsidiaries contractors site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/in/paullashmet",
-    "https://www.linkedin.com/learning/",
-    "https://www.linkedin.com/posts/alexander-naud%C3%A9-95b06b28_airwallex-reports-that-one-recurring-payroll-consolidation-activity-7514339182002151424-E5f8",
-    "https://www.linkedin.com/in/andrew-harnish",
-    "https://www.linkedin.com/in/dasindranil",
-    "https://www.linkedin.com/in/zacharyvernal",
-    "https://uk.linkedin.com/in/meisamebrahimi",
-    "https://www.linkedin.com/in/tonyphilip",
-    "https://ca.linkedin.com/in/jafarchaab",
-    "https://www.linkedin.com/in/rmundy"
+    "https://www.linkedin.com/posts/anderskrohn_enterprise-revops-teams-know-that-headcount-activity-7364206596505198593-b18L",
+    "https://www.linkedin.com/posts/teamohana_ask-finance-hr-and-recruiting-how-many-activity-7382452172183007232-iPDA",
+    "https://www.linkedin.com/posts/teamohana_automate-headcount-reconciliation-with-teamohana-activity-7209185700074643456-ZhFt",
+    "https://www.linkedin.com/pulse/data-collected-from-multiple-sources-making-reconciliation-process-6gpgc",
+    "https://www.linkedin.com/top-content/recruitment-hr/workforce-management-challenges/avoiding-data-reconciliation-in-workforce-planning/",
+    "https://www.linkedin.com/help/talent-insights/answer/a187044",
+    "https://www.linkedin.com/pulse/navigating-data-reconciliation-addressing-problems-solutions-singh-aovkc"
    ],
    "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   }
  ],
  "missing": {
-  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）"
+  "一次情報の探し方": "記載なし（読んだ19頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 8,
+ "runs": 9,
  "first_researched_at": "2026-11-07T10:01:49.444008+00:00"
 }

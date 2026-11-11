@@ -8,7 +8,7 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-09T11:29:17.838717+00:00",
+ "researched_at": "2026-11-11T06:19:05.150822+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -19,27 +19,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/keihin_inc/n/nf4cd41c1b9a3",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/mao_shiba/n/nd79f48d9ea39",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/keihin_inc/n/nddd47241bbf8",
+    "url": "https://note.com/reading_monkey/n/n49ee2b5c5d34",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/keihin_inc/n/n13ffa84ff46c",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/keihin_inc/n/n11ef6d2e9174",
+    "url": "https://note.com/keihin_inc/n/nf4cd41c1b9a3",
     "status": "ok",
     "method": "http"
    },
@@ -49,19 +39,29 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/keihin_inc/n/n29bfe84bee50",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_work_lab2/n/n03ef93ab651c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.emp.u-tokyo.ac.jp/onozukat/Report2005_3.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/motoyablog/n/n51cf973aadd5",
+    "url": "https://note.com/sasanokento/n/n30a30240795a",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kotsukotsutaro/n/n1b4bf1bd289c",
+    "url": "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://www.jaist.ac.jp/ks/labs/uchihira/phd-thesis-final.html",
@@ -69,17 +69,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/ncoo/n/n868e5dfc283e",
+    "url": "https://www.stylemap.co.jp/it/note/onenote%E3%81%A7%E4%BD%BF%E3%81%86%E8%AD%B0%E4%BA%8B%E9%8C%B2%E3%81%AE%E7%B5%90%E8%AB%96%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E6%A1%88/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.viselume.com/ja/guides/thesis-evidence-gap-audit",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.lostproduct.jp/knowhow/mm/16192/",
     "status": "ok",
     "method": "http"
    },
@@ -104,7 +99,17 @@
     "method": "http"
    },
    {
-    "url": "https://dprofessions.co.jp/%E5%BC%81%E8%AD%B7%E5%A3%AB/%E6%83%B3%E5%AE%9A%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3/%E6%B6%88%E8%B2%BB%E8%80%85%E8%A2%AB%E5%AE%B3/%E6%82%AA%E8%B3%AA%E3%81%AA%E3%83%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E6%A5%AD%E8%80%85%E3%81%B8%E3%81%AE%E6%90%8D%E5%AE%B3%E8%B3%A0%E5%84%9F%E8%AB%8B%E6%B1%82%E3%81%AB%E6%88%90%E5%8A%9F%E3%81%99%E3%82%8B%E6%83%B3%E5%AE%9A%E4%BA%8B%E4%BE%8B/",
+    "url": "https://lefixea.jp/articles/collision-limit89",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/spring_online1/status/2118478487271231528",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E5%A5%91%E7%B4%84%E6%9B%B8%E4%BD%9C%E6%88%90%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/%E5%A5%91%E7%B4%84%E6%9B%B8%E4%BD%9C%E6%88%90%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/%E6%9D%A1%E4%BB%B6%E3%82%84%E6%9C%9F%E9%99%90%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9%E3%81%A7%E8%A7%A3%E9%87%88%E3%81%8C%E6%8F%BA%E3%82%8C%E3%82%8B%E6%9D%A1%E6%96%87%E4%BA%8B%E4%BE%8B/",
     "status": "ok",
     "method": "http"
    },
@@ -114,29 +119,19 @@
     "method": "http"
    },
    {
-    "url": "https://ja.wikipedia.org/wiki/%E4%BA%8B%E4%BE%8B%E8%A8%BC%E6%8B%A0",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://mag.executive.itmedia.co.jp/executive/article/2104/15/1210415015/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.fsa.go.jp/cpaaob/shinsakensa/kouhyou/20140714/01.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://www.kitasato-u.ac.jp/clas/jimu/library/kyouyoutosyokann/report_guideline_vol2_2.pdf",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf",
-    "status": "ok",
+    "url": "https://philpapers.org/archive/KAMTAS-6.pdf",
+    "status": "http_403",
     "method": "pdf"
+   },
+   {
+    "url": "https://kojigen.com/example-6635.html",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://analyst1.com/cyberpedia/intelligence-analysis-methods/",
@@ -149,18 +144,23 @@
     "method": "http"
    },
    {
-    "url": "https://quizlet.com/study-guides/structured-analytic-techniques-in-intelligence-analysis-meth-2aa71e5d-3003-46b5-90b6-b69be2b50de7",
+    "url": "https://warnerchad.medium.com/structured-analytic-techniques-in-cti-e66f9b8dddb4",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://www.sans.org/blog/helping-cti-analysts-approach-and-report-on-emerging-technology-threats-and-trends-part-2",
+    "url": "https://www.prince2.com/usa/blog/examining-the-role-of-a-change-analyst",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
+    "url": "https://hedgefundalpha.com/education/psychology-intelligence-analysis-annotated-linchpin-assumptions/?srsltid=AYCX9vKn5fU6pzyceTayfjTzKxnJme8FGGOdxwhX3_uyG4_EWJa-sYQP",
     "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cliffsnotes.com/cliffs-questions/3046203",
+    "status": "http_403",
     "method": "http"
    }
   ]
@@ -170,18 +170,18 @@
    "query": "結論が1つの証拠に寄るときの点検（要の証拠・lynchpin・前提の書き出し Key Assumptions Check・見直しの合図 indicators of change の実務ブログ・4-116） site:note.com",
    "results": [
     "https://note.com/zakuro_tks/n/n866d938b83ea",
-    "https://note.com/keihin_inc/n/nf4cd41c1b9a3",
     "https://note.com/mao_shiba/n/nd79f48d9ea39",
-    "https://note.com/keihin_inc/n/nddd47241bbf8",
-    "https://note.com/keihin_inc/n/n13ffa84ff46c",
-    "https://note.com/keihin_inc/n/n11ef6d2e9174",
-    "https://note.com/keihin_inc/n/n1ce7c0bc2b0e",
-    "https://note.com/keihin_inc/n/nb99eaf0dc4aa",
+    "https://note.com/reading_monkey/n/n49ee2b5c5d34",
+    "https://note.com/keihin_inc/n/nf4cd41c1b9a3",
     "https://note.com/reading_monkey/n/nc163a82be160",
-    "https://note.com/keihin_inc/n/n10bbf94d26c9"
+    "https://note.com/keihin_inc/n/n29bfe84bee50",
+    "https://note.com/keihin_inc/n/n13ffa84ff46c",
+    "https://note.com/keihin_inc/n/ne9c511a7d177",
+    "https://note.com/keihin_inc/n/nddd47241bbf8",
+    "https://note.com/keihin_inc/n/n11ef6d2e9174"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -190,75 +190,35 @@
    "query": "結論が1つの証拠に寄るときの点検（要の証拠・lynchpin・前提の書き出し Key Assumptions Check・見直しの合図 indicators of change の実務ブログ・4-116） note",
    "results": [
     "https://note.com/mao_shiba/n/nd79f48d9ea39",
-    "https://note.com/zakuro_tks/n/n866d938b83ea",
-    "https://note.com/reading_monkey/n/nc163a82be160",
+    "https://note.com/ai_work_lab2/n/n03ef93ab651c",
+    "https://note.com/reading_monkey/n/n49ee2b5c5d34",
     "https://www.emp.u-tokyo.ac.jp/onozukat/Report2005_3.html",
-    "https://note.com/motoyablog/n/n51cf973aadd5",
-    "https://note.com/kotsukotsutaro/n/n1b4bf1bd289c",
+    "https://note.com/reading_monkey/n/nc163a82be160",
+    "https://note.com/sasanokento/n/n30a30240795a",
+    "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
     "https://www.jaist.ac.jp/ks/labs/uchihira/phd-thesis-final.html",
-    "https://note.com/ncoo/n/n868e5dfc283e",
-    "https://www.notelyn.com/ja/blog/qec-note-taking-method",
-    "https://www.stylemap.co.jp/it/note/onenoteで使う議事録の結論ファーストテンプレート案/"
+    "https://www.stylemap.co.jp/it/note/onenoteで使う議事録の結論ファーストテンプレート案/",
+    "https://www.notelyn.com/ja/blog/qec-note-taking-method"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 15
   },
   {
    "query": "結論が1つの証拠に寄るときの点検（要の証拠・lynchpin・前提の書き出し Key Assumptions Check・見直しの合図 indicators of change の実務ブログ・4-116） やり方",
    "results": [
     "https://www.viselume.com/ja/guides/thesis-evidence-gap-audit",
-    "https://www.lostproduct.jp/knowhow/mm/16192/",
     "https://www.emp.u-tokyo.ac.jp/onozukat/Report2005_3.html",
+    "https://note.com/zakuro_tks/n/n866d938b83ea",
     "https://nakanihon.ac.jp/aiblog/%E4%BC%9D%E3%82%8F%E3%82%8B%E6%A7%8B%E9%80%A0%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%AB%E3%81%AF%EF%BC%9F%E7%B5%90%E8%AB%96%E3%83%BB%E7%90%86%E7%94%B1%E3%83%BB%E5%85%B7%E4%BD%93%E4%BE%8B%E3%81%AE%E4%BD%BF",
     "https://jenni.ai/ja/blog/logical-arguement-flow",
     "https://wordvice.com/jp/blog/how-to-write-a-conclusion-for-a-research-paper/",
     "https://sp-jp.fujifilm.com/future-clip/explanation/vol1.html",
-    "https://www.ai-ready.jp/guide/ai-internal-audit/",
-    "https://sukyojuku.com/ethics-person-0018/",
-    "https://iaudit.jp/column/audit-evidence/"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "結論が1つの証拠に寄るときの点検（要の証拠・lynchpin・前提の書き出し Key Assumptions Check・見直しの合図 indicators of change の実務ブログ・4-116） 事例",
-   "results": [
-    "https://www.viselume.com/ja/guides/thesis-evidence-gap-audit",
-    "https://dprofessions.co.jp/%E5%BC%81%E8%AD%B7%E5%A3%AB/%E6%83%B3%E5%AE%9A%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3/%E6%B6%88%E8%B2%BB%E8%80%85%E8%A2%AB%E5%AE%B3/%E6%82%AA%E8%B3%AA%E3%81%AA%E3%83%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E6%A5%AD%E8%80%85%E3%81%B8%E3%81%AE%E6%90%8D%E5%AE%B3%E8%B3%A0%E5%84%9F%E8%AB%8B%E6%B1%82%E3%81%AB%E6%88%90%E5%8A%9F%E3%81%99%E3%82%8B%E6%83%B3%E5%AE%9A%E4%BA%8B%E4%BE%8B/",
-    "https://nakanihon.ac.jp/aiblog/%E4%BC%9D%E3%82%8F%E3%82%8B%E6%A7%8B%E9%80%A0%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%AB%E3%81%AF%EF%BC%9F%E7%B5%90%E8%AB%96%E3%83%BB%E7%90%86%E7%94%B1%E3%83%BB%E5%85%B7%E4%BD%93%E4%BE%8B%E3%81%AE%E4%BD%BF",
-    "https://www.btncon.com/blog/scs-respond",
-    "https://note.com/reading_monkey/n/nc163a82be160",
-    "https://ja.wikipedia.org/wiki/%E4%BA%8B%E4%BE%8B%E8%A8%BC%E6%8B%A0",
-    "https://mag.executive.itmedia.co.jp/executive/article/2104/15/1210415015/",
-    "https://www.fsa.go.jp/cpaaob/shinsakensa/kouhyou/20140714/01.pdf",
-    "https://www.kitasato-u.ac.jp/clas/jimu/library/kyouyoutosyokann/report_guideline_vol2_2.pdf",
-    "https://iaudit.jp/column/audit-evidence/"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "key assumptions check linchpin evidence indicators of change analyst blog",
-   "results": [
-    "https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf",
-    "https://analyst1.com/cyberpedia/intelligence-analysis-methods/",
-    "https://www.maltego.com/blog/improving-your-intelligence-analysis-with-structured-analytic-techniques/",
-    "https://quizlet.com/study-guides/structured-analytic-techniques-in-intelligence-analysis-meth-2aa71e5d-3003-46b5-90b6-b69be2b50de7",
-    "https://www.sans.org/blog/helping-cti-analysts-approach-and-report-on-emerging-technology-threats-and-trends-part-2",
-    "https://www.sojubear.dev/blog/a-field-guide-to-structured-analytic-techniques",
-    "https://warnerchad.medium.com/structured-analytic-techniques-in-cti-e66f9b8dddb4",
-    "https://www.prince2.com/usa/blog/examining-the-role-of-a-change-analyst",
-    "https://hedgefundalpha.com/education/psychology-intelligence-analysis-annotated-linchpin-assumptions/?srsltid=AYCX9vLFx5tRSw-nBP2cLzLKquNXtC9W5vH7pH9FDQJ6UVHbarbpm7ml",
-    "https://www.analysistoolbox.com/tutorials/key-assumptions-check"
+    "https://www.lrtk.lefixea.com/blog-js/collision-limit89",
+    "https://iaudit.jp/column/audit-evidence/",
+    "https://tokotoko-family.com/technical-report-consideration-checklist/"
    ],
    "engines": [
     "ddgs:google",
@@ -267,18 +227,58 @@
    "n_hits": 15
   },
   {
+   "query": "結論が1つの証拠に寄るときの点検（要の証拠・lynchpin・前提の書き出し Key Assumptions Check・見直しの合図 indicators of change の実務ブログ・4-116） 事例",
+   "results": [
+    "https://www.viselume.com/ja/guides/thesis-evidence-gap-audit",
+    "https://x.com/spring_online1/status/2118478487271231528",
+    "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E5%A5%91%E7%B4%84%E6%9B%B8%E4%BD%9C%E6%88%90%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/%E5%A5%91%E7%B4%84%E6%9B%B8%E4%BD%9C%E6%88%90%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/%E6%9D%A1%E4%BB%B6%E3%82%84%E6%9C%9F%E9%99%90%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9%E3%81%A7%E8%A7%A3%E9%87%88%E3%81%8C%E6%8F%BA%E3%82%8C%E3%82%8B%E6%9D%A1%E6%96%87%E4%BA%8B%E4%BE%8B/",
+    "https://note.com/reading_monkey/n/nc163a82be160",
+    "https://www.btncon.com/blog/scs-respond",
+    "https://www.kitasato-u.ac.jp/clas/jimu/library/kyouyoutosyokann/report_guideline_vol2_2.pdf",
+    "https://philpapers.org/archive/KAMTAS-6.pdf",
+    "https://nakanihon.ac.jp/aiblog/%E4%BC%9D%E3%82%8F%E3%82%8B%E6%A7%8B%E9%80%A0%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%AB%E3%81%AF%EF%BC%9F%E7%B5%90%E8%AB%96%E3%83%BB%E7%90%86%E7%94%B1%E3%83%BB%E5%85%B7%E4%BD%93%E4%BE%8B%E3%81%AE%E4%BD%BF",
+    "https://kojigen.com/example-6635.html",
+    "https://iaudit.jp/column/audit-evidence/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "key assumptions check linchpin evidence indicators of change analyst blog",
+   "results": [
+    "https://analyst1.com/cyberpedia/intelligence-analysis-methods/",
+    "https://www.maltego.com/blog/improving-your-intelligence-analysis-with-structured-analytic-techniques/",
+    "https://warnerchad.medium.com/structured-analytic-techniques-in-cti-e66f9b8dddb4",
+    "https://www.prince2.com/usa/blog/examining-the-role-of-a-change-analyst",
+    "https://hedgefundalpha.com/education/psychology-intelligence-analysis-annotated-linchpin-assumptions/?srsltid=AYCX9vKn5fU6pzyceTayfjTzKxnJme8FGGOdxwhX3_uyG4_EWJa-sYQP",
+    "https://www.cliffsnotes.com/cliffs-questions/3046203",
+    "https://quizlet.com/701279365/critical-thinking-for-insider-threat-analysts-flash-cards/",
+    "https://www.linkedin.com/posts/william-glynn-2018_the-key-assumptions-check-a-key-assumptions-activity-7496117228413702146-pBjk",
+    "https://www.skillsdirectory.com/skills/l4ci-key-assumptions-check",
+    "https://www.analysistoolbox.com/tutorials/key-assumptions-check"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
    "query": "site:note.com 結論が1つの証拠に寄るときの点検（要の証拠・lynchpin・前提の書き出し Key Assumptions Check・見直しの合図 indicators of change の実務ブログ・4-116）",
    "results": [
     "https://note.com/zakuro_tks/n/n866d938b83ea",
-    "https://note.com/keihin_inc/n/nf4cd41c1b9a3",
+    "https://note.com/reading_monkey/n/n49ee2b5c5d34",
     "https://note.com/mao_shiba/n/nd79f48d9ea39",
-    "https://note.com/keihin_inc/n/nddd47241bbf8",
+    "https://note.com/keihin_inc/n/nf4cd41c1b9a3",
+    "https://note.com/reading_monkey/n/nc163a82be160",
+    "https://note.com/keihin_inc/n/n29bfe84bee50",
+    "https://note.com/keihin_inc/n/ne9c511a7d177",
     "https://note.com/keihin_inc/n/n13ffa84ff46c",
     "https://note.com/keihin_inc/n/n11ef6d2e9174",
-    "https://note.com/keihin_inc/n/n1ce7c0bc2b0e",
-    "https://note.com/reading_monkey/n/nc163a82be160",
-    "https://note.com/keihin_inc/n/nb99eaf0dc4aa",
-    "https://note.com/keihin_inc/n/n10bbf94d26c9"
+    "https://note.com/keihin_inc/n/nb99eaf0dc4aa"
    ],
    "engines": [
     "ddgs:google",
@@ -290,18 +290,18 @@
    "query": "site:x.com 結論が1つの証拠に寄るときの点検（要の証拠・lynchpin・前提の書き出し Key Assumptions Check・見直しの合図 indicators of change の実務ブログ・4-116）",
    "results": [
     "https://x.com/spring_online1/status/2118478487271231528",
+    "https://x.com/kawai_design/status/2120358357790061015",
     "https://x.com/unikoukokun/status/2119289692386660651",
     "https://x.com/FABYMETAL4/status/2118588758736195689",
     "https://x.com/vsr_ebuchi/status/2119342162466767155",
+    "https://x.com/so_ainsight/status/2112531825877037245",
     "https://x.com/raptor_notice/status/2117512431119577533",
     "https://x.com/pop_ikeda/status/2117950014697971762",
-    "https://x.com/ai_jitan/status/2116319992899645844",
     "https://x.com/digital_jpn/status/2117081044860154331",
-    "https://x.com/hanimaru_draix/status/2119178817856294996",
     "https://x.com/nishitetsu_info/status/2070445247671480322"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -309,19 +309,19 @@
   {
    "query": "site:linkedin.com 結論が1つの証拠に寄るときの点検（要の証拠・lynchpin・前提の書き出し Key Assumptions Check・見直しの合図 indicators of change の実務ブログ・4-116）",
    "results": [
-    "https://jp.linkedin.com/pulse/when-maintenance-fails-hidden-threat-behind-disasters-nathan-hammer-fnwec?tl=ja",
-    "https://jp.linkedin.com/pulse/why-your-sprint-review-cant-measure-business-impact-what-yuval-yeret-0l2he?tl=ja",
     "https://jp.linkedin.com/pulse/from-maintenance-schedules-condition-based-management-schneider-fogne?tl=ja",
-    "https://jp.linkedin.com/pulse/from-reactive-predictive-how-intelligent-maintenance-rewriting-m5f9c?tl=ja",
+    "https://jp.linkedin.com/pulse/why-your-sprint-review-cant-measure-business-impact-what-yuval-yeret-0l2he?tl=ja",
+    "https://jp.linkedin.com/pulse/when-maintenance-fails-hidden-threat-behind-disasters-nathan-hammer-fnwec?tl=ja",
     "https://jp.linkedin.com/pulse/new-engineering-risk-agent-written-code-evidence-trail-yadav-dncjf?tl=ja",
     "https://jp.linkedin.com/pulse/root-cause-analysis-rca-pharmaceutical-industry-shouvik-mondal?tl=ja",
-    "https://jp.linkedin.com/pulse/from-fix-when-breaks-dont-let-break-evolution-tomaz-de-carvalho-qjxnf?tl=ja",
     "https://jp.linkedin.com/pulse/become-ld-leader-ai-cant-replace-ravinder-tulsiani-dba-ypagf?tl=ja",
-    "https://jp.linkedin.com/pulse/planned-vs-reactive-maintenance-progroup-management-pty-ltd-ezobc?tl=ja",
-    "https://jp.linkedin.com/pulse/ciso-dead-long-live-nearshore-cyber-vdajf?tl=ja"
+    "https://jp.linkedin.com/pulse/reality-freshness-how-old-evidence-behind-your-digital-bhoda-nsyyf?tl=ja",
+    "https://jp.linkedin.com/pulse/next-digital-twin-must-map-commercial-dependencies-only-bhoda-qkh4c?tl=ja",
+    "https://jp.linkedin.com/pulse/218-from-rolling-dice-reliable-flow-why-lean-portfolio-h%C3%A0o-l%C7%90-yjquf?tl=ja",
+    "https://jp.linkedin.com/pulse/planned-vs-reactive-maintenance-progroup-management-pty-ltd-ezobc?tl=ja"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -332,13 +332,13 @@
     "https://www.facebook.com/comtec.zero/videos/%E9%8C%B2%E7%94%BB%E3%81%A7%E3%81%8D%E3%81%A6%E3%81%84%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%9D%E3%82%93%E3%81%AA%E5%A4%B1%E6%95%97%E3%82%92%E9%98%B2%E3%81%90%E3%81%9F%E3%82%81%E3%81%AB%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AF%E5%AE%9A%E6%9C%9F%E7%9A%84%E3%81%AA%E3%83%89%E3%83%A9%E3%83%AC%E3%82%B3%E7%82%B9%E6%A4%9C%E3%81%8C%E5%A4%A7%E5%88%87%E3%81%A7%E3%81%99%E9%81%8B%E8%BB%A2%E3%81%8C%E3%82%82%E3%81%A3%E3%81%A8%E6%A5%BD%E3%81%97%E3%81%8F%E3%81%AA%E3%82%8B%E3%82%B3%E3%83%A0%E3%83%86%E3%83%83%E3%82%AF%E5%BA%83%E5%A0%B1%E3%81%AE%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC%E8%AC%9B%E5%BA%A7%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%83%86/773250752419966/",
     "https://www.facebook.com/sakurajimusyo/videos/%E3%82%B7%E3%83%AD%E3%82%A2%E3%83%AA%E8%A2%AB%E5%AE%B3%E3%81%AE%E5%B1%A5%E6%AD%B4%E9%A7%86%E9%99%A4%E4%BF%AE%E7%B9%95%E6%B8%88%E3%81%BF%E3%81%AA%E3%82%89%E8%B2%B7%E3%81%A3%E3%81%A6%E3%82%82%E5%A4%A7%E4%B8%88%E5%A4%AB%E9%81%8E%E5%8E%BB%E3%81%AB%E3%82%B7%E3%83%AD%E3%82%A2%E3%83%AA%E3%81%8C%E5%87%BA%E3%81%9F%E5%AE%B6%E3%81%A8%E8%81%9E%E3%81%8F%E3%81%A8%E3%81%9D%E3%82%8C%E3%81%A0%E3%81%91%E3%81%A7%E9%81%B8%E6%8A%9E%E8%82%A2%E3%81%8B%E3%82%89%E5%A4%96%E3%81%97%E3%81%A6%E3%81%97%E3%81%BE%E3%81%84%E3%81%8C%E3%81%A1%E3%81%A7%E3%81%99%E3%82%88%E3%81%AD%E3%81%A7%E3%82%82%E7%B5%90%E8%AB%96%E3%81%8B%E3%82%89%E8%A8%80%E3%81%86%E3%81%A8%E9%81%A9%E5%88%87%E3%81%AB%E9%A7%86%E9%99%A4%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%A6/1284050161448117/",
     "https://www.facebook.com/embacubajapon/?locale=es_ES",
-    "https://www.facebook.com/GakushuinUniversity/posts/%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E6%97%A5%E6%9C%AC%E3%81%A8%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E6%94%BF%E6%B2%BB%E5%AE%B6%E3%81%AE%E6%94%BF%E7%AD%96%E7%9A%84%E4%B8%BB%E5%BC%B5%E3%81%AE%E8%AA%AC%E5%BE%97%E5%8A%9B%E3%81%8C%E6%94%BF%E6%B2%BB%E5%AE%B6%E3%81%AE%E6%80%A7%E5%88%A5%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E7%95%B0%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%82%92%E5%AE%9F%E8%A8%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E6%97%A5%E6%9C%AC%E3%81%A8%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%A7%E3%81%AE%E8%AA%BF%E6%9F%BB%E3%81%A7%E3%82%B5%E3%83%BC%E3%83%99%E3%82%A4%E5%AE%9F%E9%A8%931%E3%82%92/1318292103629586/",
     "https://www.facebook.com/belc.jp/posts/%E3%83%99%E3%83%AB%E3%82%AF-%E5%A4%A7%E4%BA%95%E7%B7%91%E3%82%B1%E4%B8%98%E5%BA%97%E9%9B%BB%E6%B0%97%E8%A8%AD%E5%82%99%E7%82%B9%E6%A4%9C%E3%81%AB%E3%82%88%E3%82%8B%E5%96%B6%E6%A5%AD%E6%99%82%E9%96%93%E5%A4%89%E6%9B%B4%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%81%84%E3%81%A4%E3%82%82%E3%83%99%E3%83%AB%E3%82%AF-%E5%A4%A7%E4%BA%95%E7%B7%91%E3%82%B1%E4%B8%98%E5%BA%97%E3%82%92%E3%81%94%E5%88%A9%E7%94%A8%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%A6%E8%AA%A0%E3%81%AB%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%E8%AA%A0%E3%81%AB%E5%8B%9D%E6%89%8B%E3%81%AA%E3%81%8C%E3%82%89%E9%9B%BB%E6%B0%97%E8%A8%AD%E5%82%99%E7%82%B9%E6%A4%9C%E3%81%AE/1546335740163318/",
-    "https://www.facebook.com/Seiji.Ohsaka/posts/%E5%85%AC%E6%96%87%E6%9B%B8%E3%81%AF%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E3%81%AE%E5%9F%BA%E7%9B%A426%E5%B9%B410%E6%9C%8828%E6%97%A5-%E9%80%A2%E5%9D%82%E8%AA%A0%E4%BA%8C%E3%81%AE%E5%BE%92%E7%84%B6%E6%97%A5%E8%A8%988699%E5%9B%9E%E6%98%A8%E5%A4%9C9%E6%99%82%E9%A0%83%E3%81%8B%E3%82%89%E5%87%BD%E9%A4%A8%E3%81%AF%E6%BF%80%E3%81%97%E3%81%84%E9%9B%A8%E3%81%A8%E9%A2%A8%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%9D%E3%81%97%E3%81%A6%E4%BB%8A%E6%9C%9D5%E6%99%82%E5%8D%8A%E9%A0%83%E3%81%8B%E3%82%89%E9%9B%AA%E3%81%8C%E8%88%9E%E3%81%84%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F%E3%81%84%E3%82%88/10227458161919183/",
     "https://www.facebook.com/comtec.zero/posts/%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC%E6%B4%BB%E7%94%A8%E8%A1%93%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AF%E9%8C%B2%E7%94%BB%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%82%92%E9%98%B2%E3%81%90-microsd%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E4%B8%87%E3%81%8C%E4%B8%80%E3%81%AE%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%81%AE%E3%81%A8%E3%81%8D%E3%81%AB%E9%8C%B2%E7%94%BB%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AA%E3%82%93%E3%81%A6%E4%BA%8B%E6%85%8B/1502967078518130/",
-    "https://www.facebook.com/61586034441152/posts/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E4%BA%BA%E4%BA%8B%E5%8A%B4%E5%8B%99%E7%AE%A1%E7%90%86%E3%81%AE%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%BA%E3%83%AC%E3%81%8C%E5%A4%A7%E3%81%8D%E3%81%AA%E7%B5%8C%E5%96%B6%E3%83%AA%E3%82%B9%E3%82%AF%E3%81%AB%E3%81%AA%E3%82%8B%E5%89%8D%E3%81%AB%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%81%A7%E4%BA%8B%E6%A5%AD%E3%82%92%E9%81%8B%E5%96%B6%E3%81%99%E3%82%8B%E4%B8%AD%E3%81%A7%E9%9B%87%E7%94%A8%E5%A5%91%E7%B4%84%E3%81%A8%E5%AE%9F%E9%9A%9B%E3%81%AE%E7%B5%A6%E4%B8%8E%E9%81%8B%E7%94%A8%E3%81%8C%E4%B8%80%E8%87%B4%E3%81%97%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E8%B3%9E%E4%B8%8E%E6%89%8B%E5%BD%93%E7%A6%8F%E5%88%A9%E5%8E%9A%E7%94%9F%E3%81%AE%E6%A0%B9%E6%8B%A0%E3%81%8C%E5%8D%81%E5%88%86%E3%81%AB%E6%95%B4/122138024709201148/",
+    "https://www.facebook.com/GakushuinUniversity/posts/%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E6%97%A5%E6%9C%AC%E3%81%A8%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E6%94%BF%E6%B2%BB%E5%AE%B6%E3%81%AE%E6%94%BF%E7%AD%96%E7%9A%84%E4%B8%BB%E5%BC%B5%E3%81%AE%E8%AA%AC%E5%BE%97%E5%8A%9B%E3%81%8C%E6%94%BF%E6%B2%BB%E5%AE%B6%E3%81%AE%E6%80%A7%E5%88%A5%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E7%95%B0%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%82%92%E5%AE%9F%E8%A8%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E6%97%A5%E6%9C%AC%E3%81%A8%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%A7%E3%81%AE%E8%AA%BF%E6%9F%BB%E3%81%A7%E3%82%B5%E3%83%BC%E3%83%99%E3%82%A4%E5%AE%9F%E9%A8%931%E3%82%92/1318292103629586/",
+    "https://www.facebook.com/Seiji.Ohsaka/posts/%E5%85%AC%E6%96%87%E6%9B%B8%E3%81%AF%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E3%81%AE%E5%9F%BA%E7%9B%A426%E5%B9%B410%E6%9C%8828%E6%97%A5-%E9%80%A2%E5%9D%82%E8%AA%A0%E4%BA%8C%E3%81%AE%E5%BE%92%E7%84%B6%E6%97%A5%E8%A8%988699%E5%9B%9E%E6%98%A8%E5%A4%9C9%E6%99%82%E9%A0%83%E3%81%8B%E3%82%89%E5%87%BD%E9%A4%A8%E3%81%AF%E6%BF%80%E3%81%97%E3%81%84%E9%9B%A8%E3%81%A8%E9%A2%A8%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%9D%E3%81%97%E3%81%A6%E4%BB%8A%E6%9C%9D5%E6%99%82%E5%8D%8A%E9%A0%83%E3%81%8B%E3%82%89%E9%9B%AA%E3%81%8C%E8%88%9E%E3%81%84%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F%E3%81%84%E3%82%88/10227458161919183/",
     "https://www.facebook.com/groups/482510221824715/posts/28655609090754784/",
-    "https://www.facebook.com/toshio.hanaoka.7/posts/3996029547203310/"
+    "https://www.facebook.com/comtec.zero/videos/%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC%E6%B4%BB%E7%94%A8%E8%A1%93-%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AF-%E9%8C%B2%E7%94%BB%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%82%92%E9%98%B2%E3%81%90-microsd%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9-%E4%B8%87%E3%81%8C%E4%B8%80%E3%81%AE%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%81%AE%E3%81%A8%E3%81%8D%E3%81%AB%E9%8C%B2%E7%94%BB%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F-%E3%81%AA/2191760364737391/",
+    "https://www.facebook.com/61586034441152/posts/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E4%BA%BA%E4%BA%8B%E5%8A%B4%E5%8B%99%E7%AE%A1%E7%90%86%E3%81%AE%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%BA%E3%83%AC%E3%81%8C%E5%A4%A7%E3%81%8D%E3%81%AA%E7%B5%8C%E5%96%B6%E3%83%AA%E3%82%B9%E3%82%AF%E3%81%AB%E3%81%AA%E3%82%8B%E5%89%8D%E3%81%AB%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%81%A7%E4%BA%8B%E6%A5%AD%E3%82%92%E9%81%8B%E5%96%B6%E3%81%99%E3%82%8B%E4%B8%AD%E3%81%A7%E9%9B%87%E7%94%A8%E5%A5%91%E7%B4%84%E3%81%A8%E5%AE%9F%E9%9A%9B%E3%81%AE%E7%B5%A6%E4%B8%8E%E9%81%8B%E7%94%A8%E3%81%8C%E4%B8%80%E8%87%B4%E3%81%97%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E8%B3%9E%E4%B8%8E%E6%89%8B%E5%BD%93%E7%A6%8F%E5%88%A9%E5%8E%9A%E7%94%9F%E3%81%AE%E6%A0%B9%E6%8B%A0%E3%81%8C%E5%8D%81%E5%88%86%E3%81%AB%E6%95%B4/122138024709201148/"
    ],
    "engines": [
     "ddgs:google",
@@ -349,15 +349,15 @@
   {
    "query": "結論が1つの証拠に寄るときの点検（要の証拠・lynchpin・前提の書き出し Key Assumptions Check・見直しの合図 indicators of change の実務ブログ・4-116） note 社長",
    "results": [
+    "https://note.com/ai_work_lab2/n/n03ef93ab651c",
     "https://note.com/soloops_jp/n/n45827535aa1f",
-    "https://note.com/motoyablog/n/n51cf973aadd5",
-    "https://diamond.jp/articles/-/383302?page=2",
-    "https://x.com/spring_online1/status/2118478487271231528",
     "https://note.com/kuzen_pr/n/ne8201ebad8d9",
-    "https://business.nikkei.com/atcl/skillup/16/012600016/051000017/",
-    "https://www.kokuyo-furniture.co.jp/solution/mana-biz/2017/10/post-251.php",
+    "https://x.com/spring_online1/status/2118478487271231528",
+    "https://note.com/grayrat/n/nf1a45cc6cf71",
+    "https://diamond.jp/articles/-/383302?page=2",
     "https://mag.executive.itmedia.co.jp/executive/article/2104/15/1210415015/",
-    "https://note.com/grayrat/n/nf1a45cc6cf71"
+    "https://business.nikkei.com/atcl/skillup/16/012600016/051000017/",
+    "https://president.jp/articles/-/87244?page=1"
    ],
    "engines": [
     "yahoo_jp"
@@ -368,14 +368,14 @@
    "query": "結論が1つの証拠に寄るときの点検（要の証拠・lynchpin・前提の書き出し Key Assumptions Check・見直しの合図 indicators of change の実務ブログ・4-116） X 投稿",
    "results": [
     "https://x.com/spring_online1/status/2118478487271231528",
+    "https://sites.mit.edu/fujisue/category/uncategorized/",
     "https://ftp.isev.co.uk/katana15/4368290/",
+    "https://proofreaderpro.ai/ja/blog/how-to-write-a-conclusion-for-an-essay",
     "https://medical-careers.jp/news/2026101412",
+    "https://japan.editverse.com/discussion-conclusion-overreach-check/",
+    "https://note.com/reading_monkey/n/n8049ed1a8d1a",
     "https://hasshin-lab.comtri.jp/x-community-notes/",
-    "https://www.jaist.ac.jp/ks/labs/uchihira/phd-thesis-final.html",
-    "https://note.com/x_unyou/n/n24058026021f",
-    "https://diamond.jp/articles/-/383302?page=2",
-    "https://dprofessions.co.jp/%E5%BC%81%E8%AD%B7%E5%A3%AB/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/%E9%9B%BB%E5%AD%90%E8%A8%BC%E6%8B%A0/LINE%E3%82%84SNS%E3%81%AE%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%81%AF%E8%A3%81%E5%88%A4%E3%81%AE%E8%A8%BC%E6%8B%A0%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%8B/",
-    "https://jenni.ai/ja/blog/thesis-conclusion-tips",
+    "https://www.reddit.com/r/biology/comments/17qe0s7/how_to_judge_if_the_content_of_a_research_paper/?tl=ja",
     "https://x.com/kawai_design/status/2119724174512177609"
    ],
    "engines": [
@@ -387,19 +387,19 @@
   {
    "query": "key assumptions check linchpin evidence indicators of change analyst blog site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/in/tyelermatsuo",
-    "https://www.linkedin.com/in/alex-lowenthal-portland",
     "https://www.linkedin.com/in/matthewefry",
     "https://ca.linkedin.com/in/gregnuk",
+    "https://www.linkedin.com/in/alex-lowenthal-portland",
+    "https://www.linkedin.com/in/francisco-oller-garcia",
+    "https://ir.linkedin.com/in/ali-ardekani",
     "https://au.linkedin.com/in/siew-fang-law",
     "https://uk.linkedin.com/in/sameer-rahman-data",
     "https://www.linkedin.com/in/helen-negre",
     "https://www.linkedin.com/in/casey-c-jones",
-    "https://za.linkedin.com/in/lesedisenamelematlala",
-    "https://www.linkedin.com/in/brittanyldrury"
+    "https://za.linkedin.com/in/lesedisenamelematlala"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -413,6 +413,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-09T00:55:40.742998+00:00"
 }

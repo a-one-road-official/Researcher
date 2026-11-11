@@ -1,0 +1,1270 @@
+{
+ "name": "Unravelcarbon",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T06:17:26.003562+00:00",
+ "official_url": "https://www.unravelcarbon.com/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都千代田区大手町2-2-1\n新大手町ビル 3階「0 Club」内",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "label": "・所在地",
+    "value": "〒100-0004 東京都千代田区大手町2-2-1 新大手町ビル3階「0 Club」",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2025年01月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "label": "・Email",
+    "value": "hello@unravelcarbon.com",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Trusted by enterprises leading the way in sustainability",
+    "url": "https://www.unravelcarbon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Using Unravel Carbon AI agents allow us to dramatically streamline the data processing stage of our work. This not only saves our consultants significant time, it also ensures higher accuracy and consistency across projects – which is critical as ESG regulations evolve\"",
+    "url": "https://www.unravelcarbon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Unravel Carbon provides us with tools for accurate emission tracking, helps us comply with regulations, and effectively communicate our sustainability efforts to stakeholders\"",
+    "url": "https://www.unravelcarbon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Unravel Carbon’s platform has proven to be an invaluable addition to our toolkit, empowering us to navigate the path towards greater sustainability with improved efficiency and effectiveness.”",
+    "url": "https://www.unravelcarbon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team is composed of experienced sustainability consultants and data experts. We provide proactive advisory and support throughout your journey, so you get the best of tech and people.",
+    "url": "https://www.unravelcarbon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by enterprises leading the way in sustainability",
+    "url": "https://www.unravelcarbon.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline ESG data collection across production and procurement processes, including materials, equipment, and logistics providers. Make supplier engagement effective with software integration and project management tools, even across a vast network",
+    "url": "https://www.unravelcarbon.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Improve your emissions accuracy with granular supplier data related to purchased goods and services. Identify suppliers that contribute most to your emissions, send data requests, review submissions, and ask for revisions when needed.",
+    "url": "https://www.unravelcarbon.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify sustainability reporting with our guided process for international frameworks like ISSB, TCFD, and GRI. Understand what is material to your report, including climate risks based on your sector and value chain. Sync emissions data directly from our platform.",
+    "url": "https://www.unravelcarbon.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Automate the extraction of transaction and activity data from various ERP solutions such as SAP, NetSuite, and Oracle into our platform. Eliminate spreadsheet hassles and manual work by transforming your transaction data into real-time emissions insights automatically.",
+    "url": "https://www.unravelcarbon.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Removing workflow inefficiencies means you can take on more clients without throwing more bodies to the problem; allowing your consultants to focus on what matters most.",
+    "url": "https://www.unravelcarbon.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our partner program has you covered",
+    "url": "https://www.unravelcarbon.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Sales enablement decks and videos",
+    "url": "https://www.unravelcarbon.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "All 15 categories in the GHG Protocol, upstream and downstream",
+    "url": "https://www.unravelcarbon.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Joint GTM and training to amplify reach",
+    "url": "https://www.unravelcarbon.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Transform your revenue profile to recurring revenue and receive referral fees and benefits.",
+    "url": "https://www.unravelcarbon.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A global risk advisory and assurance firm that uses Unravel Carbon to help clients measure, manage, and disclose their carbon footprint.",
+    "url": "https://www.unravelcarbon.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A Japanese sustainability consultancy focused on supply chain decarbonisation, using Unravel Carbon to deliver precise carbon accounting and ESG reporting for their clients.",
+    "url": "https://www.unravelcarbon.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A leading management consulting firm with deep Asia-Pacific expertise that uses Unravel Carbon to accelerate sustainability transformations and ESG reporting for enterprise clients.",
+    "url": "https://www.unravelcarbon.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A global risk and business consulting firm that uses Unravel Carbon to help clients measure, manage, and disclose their carbon footprint.",
+    "url": "https://www.unravelcarbon.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A leading global audit and advisory firm that uses Unravel Carbon to help clients measure, manage, and disclose their carbon footprint with confidence.",
+    "url": "https://www.unravelcarbon.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Unravel Carbon hosting its cloud infrastructure on AWS to deliver a secure, scalable platform for enterprise-ready carbon management.",
+    "url": "https://www.unravelcarbon.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Unravel Carbon is backed by Google, accelerating the development of AI-powered sustainability tools for enterprises globally.",
+    "url": "https://www.unravelcarbon.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Unravel Carbon runs on Snowflake's data cloud, enabling high-performance emissions analytics and seamless data ingestion at enterprise scale.",
+    "url": "https://www.unravelcarbon.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Unravel Carbon integrates with SAP, enabling enterprises to seamlessly connect their ERP data for automated emissions calculations and sustainability reporting.",
+    "url": "https://www.unravelcarbon.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "training for you and your team",
+    "url": "https://www.unravelcarbon.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Training and onboarding session",
+    "url": "https://www.unravelcarbon.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by enterprises leading the way in sustainability",
+    "url": "https://www.unravelcarbon.com/solutions/fashion-consumer-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize ESG data collection across retail brands and multi-tier supplier networks with enterprise software integrations, project management tools, and intuitive supplier engagement. We ensure that data collection is compliant with regulations, allowing you to focus on what matters most—your brand",
+    "url": "https://www.unravelcarbon.com/solutions/fashion-consumer-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Simulate the impact and ROI of decarbonization initiatives down to the product carbon footprint level. Model decarbonization measures and get granular insights on supplier, product, and material levels to empower informed decisions towards sustainability and profitability.",
+    "url": "https://www.unravelcarbon.com/solutions/fashion-consumer-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify sustainability reporting with our guided process for international frameworks like ISSB, TCFD, and GRI. Understand what is material to your report, including climate risks based on your sector and value chain. Sync emissions data directly from our platform.",
+    "url": "https://www.unravelcarbon.com/solutions/fashion-consumer-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Improve your emissions accuracy with granular supplier data related to purchased goods and services. Identify suppliers that contribute most to your emissions, send data requests, review submissions, and ask for revisions when needed.",
+    "url": "https://www.unravelcarbon.com/solutions/fashion-consumer-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Automate the extraction of transaction and activity data from various ERP solutions such as SAP, NetSuite, and Oracle into our platform. Eliminate spreadsheet hassles and manual work by transforming your transaction data into real-time emissions insights automatically.",
+    "url": "https://www.unravelcarbon.com/solutions/fashion-consumer-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by enterprises leading the way in sustainability",
+    "url": "https://www.unravelcarbon.com/solutions/food-and-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "Easily gather ESG data across your supply chain, from farmers and producers to retail brands. Integrate your existing systems seamlessly to our platform, supported by project management tools and supplier engagement for comprehensive data aggregation and a simplified transition to sustainable practices.",
+    "url": "https://www.unravelcarbon.com/solutions/food-and-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "Quickly identify emissions hotspots in produce, packaging, transport, and food waste. Our insights support sustainable sourcing initiatives, inform impactful decisions, and advance your sustainability goals. Gain visibility on supply chain emissions, ensuring every step is accounted for.",
+    "url": "https://www.unravelcarbon.com/solutions/food-and-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "Build consumer trust and be audit-ready with our ISO14064 certified platform. We offer line-by-line calculation transparency and complete evidence trail. Support your marketing initiatives and show your commitment to sustainability with credible data at your fingertips, reducing the risk of greenwashing.",
+    "url": "https://www.unravelcarbon.com/solutions/food-and-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "Automate the extraction of transaction and activity data from various ERP solutions such as SAP, NetSuite, and Oracle into our platform. Eliminate spreadsheet hassles and manual work by transforming your transaction data into real-time emissions insights automatically.",
+    "url": "https://www.unravelcarbon.com/solutions/food-and-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "Improve your emissions accuracy with granular supplier data related to purchased goods and services. Identify suppliers that contribute most to your emissions, send data requests, review submissions, and ask for revisions when needed.",
+    "url": "https://www.unravelcarbon.com/solutions/food-and-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify sustainability reporting with our guided process for international frameworks like ISSB, TCFD, and GRI. Understand what is material to your report, including climate risks based on your sector and value chain. Sync emissions data directly from our platform.",
+    "url": "https://www.unravelcarbon.com/solutions/food-and-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "Accommodate diverse portfolio company needs with the flexibility of our solution. Supporting 70+ global languages and featuring smart data cleaning tools, we cater to companies of all regions, sizes and maturity levels. Our intuitive project management solutions streamlines processes, reducing errors and eliminating time-consuming back-and-forth communications.",
+    "url": "https://www.unravelcarbon.com/solutions/financial-institutions",
+    "pass": 1
+   },
+   {
+    "quote": "Identify value creation opportunities within your portfolio. Our solution not only highlights areas for improvement but also offers insights into how your portfolio companies compare against their peers, where you might have cost-saving opportunities and ultimately, helping you increase enterprise value, while staying ahead in sustainable investment.",
+    "url": "https://www.unravelcarbon.com/solutions/financial-institutions",
+    "pass": 1
+   },
+   {
+    "quote": "Support your portfolio companies with an easy-to-use solution and the guidance of our Customer Success team. This reduces the need for extensive dedicated resources, enabling them to build internal capabilities. We provide adaptable pricing to cater for the onboarding of larger cohorts of investments",
+    "url": "https://www.unravelcarbon.com/solutions/financial-institutions",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate emissions insights and climate risk exposure into your investment strategies. Track your financed emissions by streamlining the process of data collection and emissions measurement from your portfolio companies.",
+    "url": "https://www.unravelcarbon.com/solutions/financial-institutions",
+    "pass": 1
+   },
+   {
+    "quote": "View valuable insights by benchmarking your performance to your most significant peers, as analyzed by our sustainability consultants. Learn key emissions insights and dive deep through interactive charts. Improve performance through suggested action plans.",
+    "url": "https://www.unravelcarbon.com/solutions/financial-institutions",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify sustainability reporting with our guided process for international frameworks like ISSB, TCFD, and GRI. Understand what is material to your report, including climate risks based on your sector and value chain. Sync emissions data directly from our platform.",
+    "url": "https://www.unravelcarbon.com/solutions/financial-institutions",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by enterprises leading the way in sustainability",
+    "url": "https://www.unravelcarbon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Muuse chose Unravel Carbon to conduct an LCA in order to evaluate the impact of its reusable container pilot program for hawker centers.",
+    "url": "https://www.unravelcarbon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Decarbonizing Singapore’s Companies Through an ABS-facilitated Program",
+    "url": "https://www.unravelcarbon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The 30-company pilot program was facilitated by The Association of Banks in Singapore. Alister Sheppard, our Director of Customer Success, shares an inside look at the experience.",
+    "url": "https://www.unravelcarbon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Concourse uses Unravel Carbon to get accurate and detailed emissions data on their designs, enabling them to build commercial spaces with lower carbon footprints for their clients.",
+    "url": "https://www.unravelcarbon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "SaladStop! uses Unravel Carbon to measure and reduce the carbon emissions of their stores, helping them on their goal of reaching Net Zero as a company by 2030.",
+    "url": "https://www.unravelcarbon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Providing Sustainable Forestry Products to the World",
+    "url": "https://www.unravelcarbon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "accelerate the world’s progress to a zero carbon economy",
+    "url": "https://www.unravelcarbon.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Unravel Carbon was born to accelerate the world's progress to a zero carbon economy. We do so by helping enterprises measure, reduce and report on their carbon emissions.",
+    "url": "https://www.unravelcarbon.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to integrate climate-driven decisions into global business practices, to leave a habitable world for future generations.",
+    "url": "https://www.unravelcarbon.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We are ambitious and yet, practical. We perform our work with the highest integrity and humility.",
+    "url": "https://www.unravelcarbon.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Sustainability teams are driving one of the most important transformations of our time—but they’re held back by manual processes, fragmented data, and limited resources.",
+    "url": "https://www.unravelcarbon.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "AI changes that. With Unravel AI, we’re combining AI-powered agents with our enterprise climate platform to help teams measure, reduce, and report emissions—faster, smarter, and with less effort.",
+    "url": "https://www.unravelcarbon.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We combine AI-powered automation with enterprise-grade carbon management to help organizations embed sustainability into decision-making, scale their impact, and drive real progress.",
+    "url": "https://www.unravelcarbon.com/about",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by enterprises leading the way in sustainability",
+    "url": "https://www.unravelcarbon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Climate Platform for Manufacturing - Unravel Carbon",
+    "url": "https://www.unravelcarbon.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by enterprises leading the way in sustainability",
+    "url": "https://www.unravelcarbon.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Sustainability solutions for manufacturing",
+    "url": "https://www.unravelcarbon.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Transition to sustainable manufacturing by modeling decarbonization initiatives at your sites. Visualize the impact and ROI of these initiatives to support technological capital planning and CAPEX decisions.",
+    "url": "https://www.unravelcarbon.com/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by enterprises leading the way in sustainability",
+    "url": "https://www.unravelcarbon.com/solutions/fashion-consumer-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by enterprises leading the way in sustainability",
+    "url": "https://www.unravelcarbon.com/solutions/food-and-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by funds and financial institutions globally",
+    "url": "https://www.unravelcarbon.com/solutions/financial-institutions",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by enterprises leading the way in sustainability",
+    "url": "https://www.unravelcarbon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "manufacturing,",
+    "url": "https://prtimes.jp/a/?f=d172597-1-a8c7f1acc683eb53c6638549606b07bf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "9 in-depth interviews with sustainability leaders across food & beverage, manufacturing, construction, and automotive industries, as well as former employees of competing carbon management SaaS providers",
+    "url": "https://fbrc.co/case-study/unravel-carbon",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Our partner program has you covered",
+    "url": "https://www.unravelcarbon.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Power your workflow with an AI platform used in-house or your choice to whitelabel.",
+    "url": "https://www.unravelcarbon.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize ESG data collection across retail brands and multi-tier supplier networks with enterprise software integrations, project management tools, and intuitive supplier engagement. We ensure that data collection is compliant with regulations, allowing you to focus on what matters most—your brand",
+    "url": "https://www.unravelcarbon.com/solutions/fashion-consumer-goods",
+    "pass": 1
+   },
+   {
+    "quote": "​​Build consumer trust and be audit-ready with our ISO14064-certified platform. We offer line-by-line calculation transparency and a complete evidence trail, assuring the integrity of your data and reducing the risk of greenwashing. This ensures that your brand maintains its reputation and meets all regulatory requirements.",
+    "url": "https://www.unravelcarbon.com/solutions/fashion-consumer-goods",
+    "pass": 1
+   },
+   {
+    "quote": "agencies,",
+    "url": "https://prtimes.jp/a/?f=d172597-1-a8c7f1acc683eb53c6638549606b07bf.pdf",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "A Japanese sustainability consultancy focused on supply chain decarbonisation, using Unravel Carbon to deliver precise carbon accounting and ESG reporting for their clients.",
+    "url": "https://www.unravelcarbon.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Software Engineer - Japan",
+    "url": "https://www.unravelcarbon.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "日本の脱炭素市場・参入における インサイト探索",
+    "url": "https://fbrc.co/jp/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "競合ひしめく日本のCO2排出量管理 ソフトウェア市場への、参入機会とは",
+    "url": "https://fbrc.co/jp/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、彼らが展開するカーボンマネジメントプラットフォームのアジア太平洋地域における着実な成長と世界的な認知度の高まりを背景に、2025年の日本市場参入を計画しています",
+    "url": "https://fbrc.co/jp/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "日本のCO2排出量管理ソフトウェア市場には、現在、スタートアップやSIer（システムインテグレーター）、金融・商社系プロバイダーなど、多数の既存プレイヤーが存在し、日系企業や行政機関、金融機関との強固な関係を築いています",
+    "url": "https://fbrc.co/jp/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "Unravel Carbonは、日本独自の規制や文化、商習慣といった市場特性を把握し、自社の強みであるAIや多国籍企業向けの機能をいかした参入戦略を策定をサポートするパートナーを必要としていました",
+    "url": "https://fbrc.co/jp/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "Fabricは、競合分析から得られたビジネスインサイトと、インタビューから抽出したヒューマンインサイトを組み合わせ、日本の脱炭素ソフトウェア市場に対する多角的な分析を行いました",
+    "url": "https://fbrc.co/jp/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "市場環境の分析においては、競合企業の元従業員へのインタビューも踏まえ、競合各社をマッピングするとともに、日本の規制や市場特性を踏まえた各社の強みや弱みをポートフォリオにまとめました",
+    "url": "https://fbrc.co/jp/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場戦略の鍵となる、 参入機会およびポジショニング に関するインサイトの獲得",
+    "url": "https://fbrc.co/jp/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "今回のリサーチにより、Unravel Carbonの日本市場参入戦略の立案に資する複数の重要な示唆が得られました",
+    "url": "https://fbrc.co/jp/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "プログラムの結果、私たちはUnravel Carbonが日本市場における戦略的ポジショニングと新しい価値の開発を図る重要な足がかりを提供することに成功しました",
+    "url": "https://fbrc.co/jp/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "Sustainability in Japan",
+    "url": "https://fbrc.co/jp/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "東京都目黒区上目黒2-45-12",
+    "url": "https://fbrc.co/jp/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "Meguro-ku Tokyo 153-0051",
+    "url": "https://fbrc.co/jp/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "AI気候テック、Unravel Carbon（アンラベルカーボン）、Japan Energy FundとTIS株式会社からの戦略的投資により日本市場へ参入 | Unravel Carbon 合同会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "AI気候テック、Unravel Carbon（アンラベルカーボン）、Japan Energy FundとTIS株式会社からの��戦略的投資により日本市場へ参入",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "〜日本のグリーントランスフォーメーション（GX）を加速〜",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "TOKYO — [2025年12月9日] — 世界初のサステナビリティ特化AIエージェントを搭載した企業向けサステナビリティ経営プラットフォームを提供する Unravel Carbon（アンラベル カーボン）は本日、東京オフィスを開設し、日本市場への本格参入を発表しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Energy FundとTIS株式会社からの戦略的投資を受け、国内での事業展開を本格化します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回の参入は、日本のグリーントランスフォーメーション（GX）戦略と合致するものです",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "「日本のGX政策は、世界で最も包括的な脱炭素化のための国家的枠組みの一つであり、この変革的な取り組みに貢献できることを大変嬉しく思います",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本への進出と、投資家であるTIS株式会社および Japan Energy Fundとのパートナーシップによりサステナビリティコンサルタントや企業に対し、脱炭素化を算定可能・実行可能かつ透明性の高いものにするAIエージェントを提供します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本企業はGXリーグやSSBJ基準にスムーズに対応できるようになります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本でのUnravel Carbonの事業は、デジタルトランスフォーメーション、戦略的パートナーシップ、市場拡大において20年以上の経験を持つ野村夏音が統括します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "Unravel Carbon Japan のコメント",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "このイノベーションを日本企業の皆様にお届けできることを楽しみにしています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Energy Fund からのコメント",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Energy Fund | パートナー | 柴田 智仁（しばた ともひと）氏",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "「Unravel Carbonの日本進出を支援できることを誇りに思います",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社のAIを中核とするカーボンマネジメントアプローチは、テクノロジーを活用したグリーントランスフォーメーションという日本の国家ビジョンと完全に一致しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "TIS株式会社 | 常務執行役員 グローバル事業部長 | 古庄 建作（ふるしょう けんさく）氏",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "「AIの力により日本のグリーントランスフォーメーションを加速させるUnravel Carbonと協業できることを大変光栄に思います",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "TISは多様な業界でのデジタルトランスフォーメーションの豊富な経験を活かし、Unravel Carbonが日本企業のサステナビリティを真に実行可能なものにすることを支援します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京オフィスは、カスタマーサクセス、パートナーシップ、政策連携のための地域ハブとして機能し、日本企業、政府機関、サステナビリティコンサルティング企業とのより緊密な協力を進めます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "Unravel Carbonは、日本のGXおよびネットゼロの実現へ向けて、現地採用、パートナーシップ、協業を拡大する予定です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "【Japan Energy Fund 会社概要】",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Energy Fund（JEF）は、日本の脱炭素化とグローバルなエネルギー転換を加速するため、世界トップクラスの気候テックに投資するベンチャーキャピタルです",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の産業界、企業、政策立案者との強いネットワークを活かし、グローバルなイノベーターを日本のエネルギーエコシステムと結びつけ、協業機会の創出と市場参入を促進しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらのパートナーシップを通じて、JEFは日本および世界中で革新的なテクノロジーとプロジェクトの展開を支援しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan,”",
+    "url": "https://prtimes.jp/a/?f=d172597-1-a8c7f1acc683eb53c6638549606b07bf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Japan,",
+    "url": "https://prtimes.jp/a/?f=d172597-1-a8c7f1acc683eb53c6638549606b07bf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.japanenergyfund-ventures.com/",
+    "url": "https://prtimes.jp/a/?f=d172597-1-a8c7f1acc683eb53c6638549606b07bf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Enabling strategic market entry in Japan’s carbon management landscape",
+    "url": "https://fbrc.co/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "Unravel Carbon were looking to identify strategic opportunities in Japan’s competitive carbon management SaaS landscape.",
+    "url": "https://fbrc.co/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "Unravel Carbon are a Singapore-based SaaS company providing an AI-powered carbon management platform for enterprises to measure, manage, and reduce their carbon emissions. With strong traction in the Asia-Pacific as well as international recognition, they plan to enter the Japanese market in 2025.",
+    "url": "https://fbrc.co/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "Japan has a competitive landscape with key players including local startups, system integrators, and financial/trading companies. These competitors have established relationships with local enterprises, government bodies, and financial institutions.",
+    "url": "https://fbrc.co/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "Unravel Carbon sought to understand the current state of carbon management SaaS in Japan and explore how to leverage their existing strengths—including AI-powered automation and an enterprise-grade platform — for an effective market entry. To do so, they sought guidance to interpret the landscape through the lens of Japan’s unique regulatory, cultural, and business environment.",
+    "url": "https://fbrc.co/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "Our mixed-method approach combined competitive landscape analysis with human-centred research to map the Japanese carbon management market.",
+    "url": "https://fbrc.co/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "By analyzing competitor materials and insights from former employees within the context of Japan’s unique regulations, we identified potential differentiation points for Unravel Carbon’s market entry.",
+    "url": "https://fbrc.co/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "Our synthesis of the carbon management landscape revealed key opportunities for Unravel Carbon’s strategic positioning in the Japanese market.",
+    "url": "https://fbrc.co/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "Findings will inform Unravel Carbon’s next steps in Japan, including market entry strategy, messaging, and product localisation.",
+    "url": "https://fbrc.co/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "Supporting Cogo to bring carbon tracking to Japan’s banking apps",
+    "url": "https://fbrc.co/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "Sustainability in Japan",
+    "url": "https://fbrc.co/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "Meguro-ku Tokyo 153-0051",
+    "url": "https://fbrc.co/case-study/unravel-carbon",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Transform your revenue profile to recurring revenue and receive referral fees and benefits.",
+    "url": "https://www.unravelcarbon.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "I am proud to be a part of Unravel Carbon, where innovation meets purpose. Every day brings exciting challenges and high levels of team collaboration. We tackle interesting problems, designing solutions not just for business, but for the greater good.",
+    "url": "https://www.unravelcarbon.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "By analyzing competitor materials and insights from former employees within the context of Japan’s unique regulations, we identified potential differentiation points for Unravel Carbon’s market entry.",
+    "url": "https://fbrc.co/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "9 in-depth interviews with sustainability leaders across food & beverage, manufacturing, construction, and automotive industries, as well as former employees of competing carbon management SaaS providers",
+    "url": "https://fbrc.co/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "We engaged NEC employees to develop NEC’s values and vision for open innovation in a multi-phase co-creation process.",
+    "url": "https://fbrc.co/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "Our team listed the elements that needed to be clarified during message development: the raison d'être of new business development, their aspirational vision, and core values. From there, we designed employee surveys, interviews, and workshops to explore each element in depth, collecting multifaceted insights.",
+    "url": "https://fbrc.co/case-study/unravel-carbon",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "By submitting, you agree to receive emails from Unravel Carbon.",
+    "url": "https://www.unravelcarbon.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "・Email：hello@unravelcarbon.com",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Unravel Carbon | The AI platform for business sustainability — The only sustainability management platform with AI agents to help with sustainability goals and workflow inefficiencies",
+    "url": "https://www.unravelcarbon.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "Unravel AIで実現、サステナビリティ業務 8割以上効率化 ー 世界最新... — Apr 28, 2026 · TOKYO — [2026年4月28日] — シンガポール発AI気候テックスタートアップ「Unravel Carbon（アンラベルカーボン）」は、AIエージェント型ソリューション『Unravel データ収集エージェント』の日本市場での提供を、2026年4月28日の「SusHi Tech Tokyo 2026」にて正式に開始いたしました。 人手不足が深刻化 ...",
+    "url": "https://www.unravelcarbon.com/ja/blog/sushi-tech-tokyo-2026-ai-agents-and-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies Unravel Carbon 事例 | Fabric ファブリック — Outcomes 日本市場戦略の鍵となる、u2028参入機会およびポジショニングu2028に関するインサイトの獲得 今回のリサーチにより、Unravel Carbonの日本市場参入戦略の立案に資する複数の重要な示唆が得られました。",
+    "url": "https://fbrc.co/jp/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "AI気候テック、Unravel Carbon（アンラベルカーボン）、Japan Energy ... — Dec 9, 2025 · AI気候テック、Unravel Carbon（アンラベルカーボン）、Japan Energy FundとTIS株式会社からの戦略的投資により日本市場へ参入 〜日本のグリーン ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "Unravel AIで実現、サステナビリティ業務 8割以上効率化 ー 世界最新... — Apr 28, 2026 · Unravel Carbon 合同会社のプレスリリース（2026年4月28日 10時00分）Unravel AIで実現、サステナビリティ業務 8割以上効率化 ー 世界最新サービス『Unravel ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000172597.html",
+    "pass": 3
+   },
+   {
+    "quote": "Unravel Carbon | LinkedIn — Unravel Carbon is the world’s first agentic platform for sustainability outcomes. Our AI agents and award-winning sustainability management platform set us apart. Our solutions are used by ...",
+    "url": "https://www.linkedin.com/company/unravelcarbon/",
+    "pass": 3
+   },
+   {
+    "quote": "Unravel Carbon - LinkedIn — Unravel Carbon | 13,829 followers on LinkedIn. The agentic platform for sustainability outcomes. | Unravel Carbon is the world’s first agentic platform for sustainability outcomes. Our AI agents and award-winning sustainability management platform set us apart. Our solutions are used by leading global companies and consultants in more than 50 countries to simplify emiss",
+    "url": "https://sg.linkedin.com/company/unravelcarbon",
+    "pass": 3
+   },
+   {
+    "quote": "Unravel Carbon Japan (日本) - LinkedIn — Unravel Carbon Japan (日本) 気象データ・分析 千代田区、東京都 188人のフォロワー Unravel Carbon（アンラベルカーボン）は、シンガポール発のグローバルAI気候テックスタートアップです。サステナビリティ経営のためのエージェンティックプラットフォームと世界初のAIエージェントを提供。",
+    "url": "https://jp.linkedin.com/company/unravelcarbonjapan",
+    "pass": 3
+   },
+   {
+    "quote": "Unravel Carbon Japan launch release - PR TIMES — Unravel Carbon Expands into Japan with Strategic Investment from Japan Energy Fund and TIS Inc to Accelerate the Nation's Green Transformation TOKYO — [December 9th], 2025 — Unravel Carbon ...",
+    "url": "https://prtimes.jp/a/?f=d172597-1-a8c7f1acc683eb53c6638549606b07bf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Unravel Carbon - LinkedIn — Unravel Carbon is backed by top-tier investors including Y Combinator and Sequoia Capital, and has offices in the U.S., Japan, Australia and Singapore.",
+    "url": "https://www.linkedin.com/company/unravelcarbon/",
+    "pass": 3
+   },
+   {
+    "quote": "脱炭素化AIエージェントなどを展開--アンラベル カーボン、TISらの投... — Dec 10, 2025 · サステナビリティー業務に特化したAIエージェントを手掛けるUnravel Carbonは、TISとJapan Energy Fundの投資を受けて日本での事業を開始する。",
+    "url": "https://japan.zdnet.com/article/35241435/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers - Unravel Carbon — Discover how Unravel Carbon is transforming businesses with sustainable solutions. Explore our satisfied customers and their success stories.",
+    "url": "https://www.unravelcarbon.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Unravel Carbon Case Study — To assist organizations through their decarbonization journey, the company needed to create a user-friendly and scalable platform tailored to meet customer demands. As a startup, Unravel Carbon prioritized the agility to establish and expand quickly, the flexibility to experiment, and cost efficiencies.",
+    "url": "https://aws.amazon.com/solutions/case-studies/unravel-carbon/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies Unravel Carbon 事例 | Fabric ファブリック — Unravel Carbon sought to understand the current state of carbon management SaaS in Japan and explore how to leverage their existing strengths—including AI-powered automation and an enterprise-grade platform — for an effective market entry.",
+    "url": "https://fbrc.co/case-study/unravel-carbon",
+    "pass": 3
+   },
+   {
+    "quote": "Unravel Carbon Case Study | Amazon Web Services | Grace Sai — A year in the making! The Amazon Web Services (AWS) APJ and global teams carefully crafted our story on how we started and scale transforming messy, unstructured, complex organizational data into ...",
+    "url": "https://www.linkedin.com/posts/gracesai_unravel-carbon-case-study-amazon-web-services-activity-7236153958258331649-gwJ2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "【展示会出展速報】Unravel Carbon [ SusHiTechTokyo2026 ... 【展示会出展速報】Unravel Carbon [ SusHiTechTokyo2026 ] SusHiTechTokyo2026にUnravel Carbon が出展されています。 パネル展示、専門スタッフが来場者を出迎えています。 実際に製品やサービスを確認できる貴重な機会です。",
+    "url": "https://x.com/tenjikaicom/status/2048681749656543656",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Unravel Carbon - LinkedIn Unravel Carbon is the world’s first agentic platform for sustainability outcomes. Our AI agents and award-winning sustainability management platform set us apart. Our solutions are used by ...",
+    "url": "https://www.linkedin.com/company/unravelcarbon/",
+    "pass": 3
+   },
+   {
+    "quote": "Unravel Carbon - LinkedIn Unravel Carbon is the world’s first agentic platform for sustainability outcomes. Our AI agents and award-winning sustainability management platform set us apart. Our solutions are used by leading global companies and consultants in more than 50 countries to simplify emissions tracking, meet global regulatory standards, and accelerate climate action. Our calculation metho",
+    "url": "https://sg.linkedin.com/company/unravelcarbon",
+    "pass": 3
+   },
+   {
+    "quote": "Unravel Carbon | LinkedIn Unravel Carbon is the world’s first agentic platform for sustainability outcomes. Our AI agents and award-winning sustainability management platform set us apart. Our solutions are used by leading global companies and consultants in more than 50 countries to simplify emissions tracking, meet global regulatory standards, and accelerate climate action. Our calculation metho",
+    "url": "https://jp.linkedin.com/company/unravelcarbon",
+    "pass": 3
+   },
+   {
+    "quote": "Grace Sai - Unravel Carbon | LinkedInMarc Allen - Unravel Carbon - Climate-tech co-founder ...Introducing Unravel Carbon's Climate Program. The new AI ... Jan 21, 2014 · After 2 exits, a 15 year career in building startup and impact ecosystems, leading a VC fund and influencing multi-sectoral collaborations, the next 15 years will bring all that together to help fight climate change. Unravel Carbo",
+    "url": "https://sg.linkedin.com/in/gracesai",
+    "pass": 3
+   },
+   {
+    "quote": "Unravel Carbon Japan - LinkedIn Unravel Carbon Japan Climate Data and Analytics 千代田区, 東京都 184 followers Global AI climate tech startup to provide an Agentic platform for sustainable business management.",
+    "url": "https://www.linkedin.com/company/unravelcarbonjapan",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Unravel Carbon, the Y Combinator-backed... - Tatler Singapore Unravel Carbon, the Y Combinator-backed enterprise software startup co-founded by Grace Sai, converts accounting data into carbon data in a bid to help companies track and reduce their emissions.",
+    "url": "https://www.facebook.com/tatlersingapore/posts/unravel-carbon-the-y-combinator-backed-enterprise-software-startup-co-founded-by/5776398862376373/",
+    "pass": 3
+   },
+   {
+    "quote": "INSEAD Alumni - #INSEADAlumni Grace Sai MCCC'17J... - Facebook #INSEADAlumni Grace Sai MCCC'17J co-founded @unravelcarbon, an AI-powered decarbonisation platform. Every day, Grace fights to give the next generations a better tomorrow.",
+    "url": "https://www.facebook.com/INSEADAlumni/posts/inseadalumni-grace-sai-mccc17j-co-founded-unravelcarbon-an-ai-powered-decarbonis/728720982591542/",
+    "pass": 3
+   },
+   {
+    "quote": "Unravel Carbon, the Y Combinator-backed ... - Facebook Unravel Carbon, the Y Combinator-backed enterprise software startup co-founded by Grace Sai, converts accounting data into carbon data in a bid to help companies track and reduce their emissions.",
+    "url": "https://www.facebook.com/tatlerhongkong/posts/unravel-carbon-the-y-combinator-backed-enterprise-software-startup-co-founded-by/5131170250281519/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech for Impact - Funding update - US$7.4 ... - Facebook Funding update - US$7.4 million in seed funding for Unravel Carbon, which makes enterprise software to track and reduce carbon emissions across supply chains.",
+    "url": "https://www.facebook.com/techforimpact.asia/posts/-funding-update-us74-million-in-seed-funding-for-unravel-carbon-which-makes-ente/1417545512059305/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.unravelcarbon.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unravelcarbon.com/solutions/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unravelcarbon.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unravelcarbon.com/solutions/fashion-consumer-goods",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unravelcarbon.com/solutions/food-and-beverage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unravelcarbon.com/solutions/financial-institutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unravelcarbon.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unravelcarbon.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unravelcarbon.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/6533d795f73c37686196a031/6890a187292182cec5fa4b7e_partnership.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6533d795f73c37686196a031/6702e980a9ba3ae4bc900ca2_logo_advantage_partners_colored.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6533d795f73c37686196a031/6702e980ee8bae7c652d7c3b_logo_advantage_partners_grey.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6533d795f73c37686196a031/68b0f5ffab5568a0ae96f5fb_partner-logos.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://fbrc.co/jp/case-study/unravel-carbon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/unravelcarbon/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/company/unravelcarbon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/unravelcarbonjapan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prtimes.jp/a/?f=d172597-1-a8c7f1acc683eb53c6638549606b07bf.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.linkedin.com/company/unravelcarbon/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://aws.amazon.com/jp/solutions/case-studies/unravel-carbon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spglobal.com/sustainable1/en/case-studies/a-large-manufacturing-company-looks-to-carbon-offsets-to-meet-its-net-zero-goals",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fbrc.co/case-study/unravel-carbon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tenjikaicom/status/2048681749656543656",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/unravelcarbon/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/company/unravelcarbon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/unravelcarbon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/in/gracesai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tatlersingapore/posts/unravel-carbon-the-y-combinator-backed-enterprise-software-startup-co-founded-by/5776398862376373/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/INSEADAlumni/posts/inseadalumni-grace-sai-mccc17j-co-founded-unravelcarbon-an-ai-powered-decarbonis/728720982591542/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tatlerhongkong/posts/unravel-carbon-the-y-combinator-backed-enterprise-software-startup-co-founded-by/5131170250281519/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/techforimpact.asia/posts/-funding-update-us74-million-in-seed-funding-for-unravel-carbon-which-makes-ente/1417545512059305/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/unravelcarbonjapan",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Unravelcarbon 日本 導入",
+   "results": [
+    "https://www.unravelcarbon.com/ja",
+    "https://www.unravelcarbon.com/ja/blog/sushi-tech-tokyo-2026-ai-agents-and-platform",
+    "https://fbrc.co/jp/case-study/unravel-carbon",
+    "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "https://prtimes.jp/main/html/rd/p/000000002.000172597.html",
+    "https://japan.zdnet.com/article/35241435/",
+    "https://www.bluedotgreen.co.jp/9915/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unravelcarbon 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.linkedin.com/company/unravelcarbon/",
+    "https://sg.linkedin.com/company/unravelcarbon",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://www.carlyle.com/ja/carlyle-japan"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unravelcarbon Japan",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000001.000172597.html",
+    "https://jp.linkedin.com/company/unravelcarbonjapan",
+    "https://prtimes.jp/a/?f=d172597-1-a8c7f1acc683eb53c6638549606b07bf.pdf",
+    "https://www.linkedin.com/company/unravelcarbon/",
+    "https://japan.zdnet.com/article/35241435/",
+    "https://www.unravelcarbon.com/ja",
+    "https://www.unravelcarbon.com/ja/press"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unravelcarbon manufacturing customer case study",
+   "results": [
+    "https://www.unravelcarbon.com/customers",
+    "https://aws.amazon.com/solutions/case-studies/unravel-carbon/",
+    "https://www.spglobal.com/sustainable1/en/case-studies/a-large-manufacturing-company-looks-to-carbon-offsets-to-meet-its-net-zero-goals",
+    "https://fbrc.co/case-study/unravel-carbon",
+    "https://www.linkedin.com/posts/gracesai_unravel-carbon-case-study-amazon-web-services-activity-7236153958258331649-gwJ2",
+    "https://www.unravelcarbon.com/",
+    "https://www.gradientconsult.com/case-studies/unravel-carbon-japan-entry"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unravelcarbon white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partners.spectrum.com/",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unravelcarbon founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Unravelcarbon",
+   "results": [
+    "https://note.com/tositeling/n/ncb87c801b32c",
+    "https://note.com/jolly_sorrel7657/n/ndf140ee9ee92?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/neosis_kikuchi/n/nc2e788437004?hl=en",
+    "https://note.com/neko_chomei/n/ne31bb1f6aac8",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/glossy_pika3109/n/n7c99eb8ee64d"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Unravelcarbon",
+   "results": [
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/pulsefundvc/status/2100960680560255013",
+    "https://x.com/tenjikaicom/status/2048681749656543656",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/CogitoEdu/status/2117911840973861028",
+    "https://x.com/sansan_o0/status/2115434871384670233",
+    "https://x.com/tphuang"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Unravelcarbon",
+   "results": [
+    "https://www.linkedin.com/company/unravelcarbon/",
+    "https://sg.linkedin.com/company/unravelcarbon",
+    "https://jp.linkedin.com/company/unravelcarbon",
+    "https://sg.linkedin.com/in/gracesai",
+    "https://www.linkedin.com/company/unravelcarbonjapan",
+    "https://au.linkedin.com/in/marc-unravels-carbon",
+    "https://in.linkedin.com/posts/unravelcarbon_introducing-unravel-carbons-climate-program-activity-7038804680440766464-VTiA"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Unravelcarbon",
+   "results": [
+    "https://www.facebook.com/tatlersingapore/posts/unravel-carbon-the-y-combinator-backed-enterprise-software-startup-co-founded-by/5776398862376373/",
+    "https://www.facebook.com/INSEADAlumni/posts/inseadalumni-grace-sai-mccc17j-co-founded-unravelcarbon-an-ai-powered-decarbonis/728720982591542/",
+    "https://www.facebook.com/tatlerhongkong/posts/unravel-carbon-the-y-combinator-backed-enterprise-software-startup-co-founded-by/5131170250281519/",
+    "https://www.facebook.com/techforimpact.asia/posts/-funding-update-us74-million-in-seed-funding-for-unravel-carbon-which-makes-ente/1417545512059305/",
+    "https://business.facebook.com/groups/kidsorganic/",
+    "https://www.facebook.com/OfficialSundownFestivalSingapore/photos/partner-spotlight-unravel-carbonturning-data-into-climate-actionwere-excited-to-/1064190955808173/",
+    "https://www.facebook.com/sutdalumni/photos/sustainability-net-zero-plan-carbon-footprint-is-this-youunravel-is-looking-for-/1806613486393778/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unravelcarbon note 社長",
+   "results": [
+    "https://www.linkedin.com/company/unravelcarbonjapan",
+    "https://www.unravelcarbon.com/",
+    "https://www.unravelcarbon.com/ja/about",
+    "https://feature-asia.com/people/grace-sai/",
+    "https://prtimes.jp/main/html/searchrlp/company_id/172597",
+    "https://au.linkedin.com/in/marc-unravels-carbon",
+    "https://prtimes.jp/main/html/rd/p/000000001.000172597.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unravelcarbon X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部27頁・検索12回）"
+ }
+}

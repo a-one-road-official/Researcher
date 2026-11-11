@@ -510,7 +510,7 @@
   - www.voxelmatters.com と news.sharelab.jp：品目の重なり 2/6（33%）
   - 調査会社 と www.nttdata-xam.com：品目の重なり 1/6（17%）
   - 調査会社 と news.sharelab.jp：品目の重なり 1/7（14%）
-  - 調査会社 と nvlpubs.nist.gov：品目の重なり 0/6（0%）
+  - 調査会社 と evolvancemarketresearch.com：品目の重なり 0/6（0%）
 
 ## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）
 - WAAM・DEDの大型受託造形｜1件の単価［装置価格］

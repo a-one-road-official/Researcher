@@ -1,0 +1,1541 @@
+{
+ "name": "Truewind",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T06:27:47.880183+00:00",
+ "official_url": "https://truewind.ai",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金タイプ",
+    "value": "フリーミアム 無料枠 あり",
+    "url": "https://aipicks.jp/tool/truewind",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/truewind-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$16,000,000",
+    "url": "https://prospeo.io/c/truewind-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, California, United States",
+    "url": "https://prospeo.io/c/truewind-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2022",
+    "url": "https://prospeo.io/c/truewind-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Send AI Your Hardest Close Problem",
+    "url": "https://www.truewind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your browser does not support the video tag.",
+    "url": "https://www.truewind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Truewind connects directly to the general ledger and posts journal entries to Sage Intacct or QuickBooks Online, and also supports Intuit Enterprise Suite and NetSuite. On Sage Intacct, the chart of accounts, entity structure and bank feeds sync automatically, nothing migrates, and Sage stays the system of record.",
+    "url": "https://www.truewind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Truewind is AI accounting software for finance teams on Sage Intacct, QuickBooks Online, Intuit Enterprise Suite and NetSuite. Its AI agents turn bank statements, payout reports and workpapers into GL-ready journal entries, reconciliations and SOPs. Your team reviews only the exceptions and keeps final posting authority, and your ledger stays the source of truth.",
+    "url": "https://www.truewind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Applies your rules to every transaction and builds prepaid and fixed asset schedules automatically.",
+    "url": "https://www.truewind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI reads and explains. Logic does the accounting. General-purpose AI can give a different answer each run; Truewind gives the same answer every month. The agent asks clarifying questions instead of guessing, and each month's workpaper rolls forward from the last. Anyone can build workpaper 1. Only Truewind can build workpaper 12.",
+    "url": "https://www.truewind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Nonprofit teams reconcile donation exports and deposit data into clean revenue schedules with stronger visibility.",
+    "url": "https://www.truewind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Fixed Assets & Prepaids",
+    "url": "https://www.truewind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn invoices and schedules into clean rollforwards without manual amortization spreadsheets.",
+    "url": "https://www.truewind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I would probably describe it as an extension of the accounting team. It's almost another employee without being another employee.",
+    "url": "https://www.truewind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I did all the accounting and bookkeeping myself for 2+ years. It's such a relief to finally have experts handle it with a repeatable process.",
+    "url": "https://www.truewind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Before Truewind, I was buried in spreadsheets. Now our books are clean, consistent, and easy to explain to investors.",
+    "url": "https://www.truewind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Truewind is AI accounting software. Its agents prepare GL-ready journal entries, reconciliations and SOPs from bank statements and workpapers, and post them to Sage Intacct or QuickBooks Online after your team reviews them.",
+    "url": "https://www.truewind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "No. Truewind works on top of Sage Intacct, QuickBooks Online, Intuit Enterprise Suite and NetSuite. Your ledger stays the system of record and nothing migrates.",
+    "url": "https://www.truewind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Finance and accounting teams, controllers, CFOs and CAS firms that close the books on Sage Intacct, QuickBooks Online, Intuit Enterprise Suite or NetSuite, including family offices, nonprofits, e-commerce brands, hospitality groups, SaaS companies and home services companies.",
+    "url": "https://www.truewind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Tie donation, bank, and fund activity together with documentation-ready workflows built for nonprofit reporting.",
+    "url": "https://www.truewind.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Handle brokerage data, rollforwards, and multi-entity close work without spreadsheet-heavy reconciliation.",
+    "url": "https://www.truewind.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Post daily sales by location and match POS, processor, and delivery deposits.",
+    "url": "https://www.truewind.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Scalable close coverage for software finance teams running high-volume reconciliations and reviewer-first approvals.",
+    "url": "https://www.truewind.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "See the setup designed for Controllers managing reconciliations, approvals, and audit-ready month-end execution.",
+    "url": "https://www.truewind.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Review your close process with our team and identify the highest-impact automation starting points.",
+    "url": "https://www.truewind.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Join Truewind workshops and conversations on practical AI accounting workflows, continuous close, and agent-ready finance operations.",
+    "url": "https://www.truewind.ai/webinars",
+    "pass": 1
+   },
+   {
+    "quote": "Join Truewind for a live session on build vs. buy: ai for family office accounting | infograte x truewind and practical ways finance teams can apply AI to accounting workflows.",
+    "url": "https://www.truewind.ai/webinars",
+    "pass": 1
+   },
+   {
+    "quote": "Watch a repeatable accounting workflow become an agent-driven process.",
+    "url": "https://www.truewind.ai/webinars",
+    "pass": 1
+   },
+   {
+    "quote": "Join Truewind for a live session on off the books: an evening at greywind and practical ways finance teams can apply AI to accounting workflows.",
+    "url": "https://www.truewind.ai/webinars",
+    "pass": 1
+   },
+   {
+    "quote": "Prepaid and fixed asset schedules are generated automatically with amortization and depreciation entries posted back to Sage Intacct. No spreadsheets needed.",
+    "url": "https://www.truewind.ai/sage-partner",
+    "pass": 1
+   },
+   {
+    "quote": "You define the approval gates and control policies. Truewind handles transaction coding, reconciliation, and schedule building within those boundaries.",
+    "url": "https://www.truewind.ai/sage-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Automate Sage Intacct reconciliation workflows across cash, subledgers, and multi-entity close so reviewers focus on exceptions instead of spreadsheet matching.",
+    "url": "https://www.truewind.ai/sage-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Shorten the Sage Intacct close with automated task routing, reconciliations, and reviewer-owned approvals that keep the process moving before close week.",
+    "url": "https://www.truewind.ai/sage-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Automate the Sage Intacct workpaper layer with repeatable schedules, supporting evidence, and GL-ready outputs that reduce manual prep work each month.",
+    "url": "https://www.truewind.ai/sage-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Messaging that stays inside the WWW surface and matches existing marketing standards.",
+    "url": "https://www.truewind.ai/sage-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Truewind joins the Sage Intacct Marketplace Partner Program, offering AI-powered automation that streamlines reconciliations, journal entries, and month-end close.",
+    "url": "https://www.truewind.ai/sage-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Discover why accounting firms, non-profits, family offices, startups, and enterprises choose us to close their books faster through our AI-driven digital accountant.",
+    "url": "https://www.truewind.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "I would probably describe it as an extension of the accounting team. It's almost another employee without being another employee.",
+    "url": "https://www.truewind.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "I did all the accounting and bookkeeping myself for 2+ years. It's such a relief to finally have experts handle it with a repeatable process.",
+    "url": "https://www.truewind.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Before Truewind, I was buried in spreadsheets. Now our books are clean, consistent, and easy to explain to investors.",
+    "url": "https://www.truewind.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Nonprofit Accounting Software with AI | Truewind",
+    "url": "https://www.truewind.ai/solutions/non-profit",
+    "pass": 1
+   },
+   {
+    "quote": "AI Accounting for Nonprofits",
+    "url": "https://www.truewind.ai/solutions/non-profit",
+    "pass": 1
+   },
+   {
+    "quote": "Truewind is AI accounting software for nonprofits on Sage Intacct. It reconciles donations from platforms like PayPal, Stripe, Givebutter and FundraiseUp to bank deposits, codes revenue by fund, program and event, and flags cash discrepancies before they delay close, so your team knows exactly where every dollar went.",
+    "url": "https://www.truewind.ai/solutions/non-profit",
+    "pass": 1
+   },
+   {
+    "quote": "Built for the Way Nonprofit Accounting Actually Works",
+    "url": "https://www.truewind.ai/solutions/non-profit",
+    "pass": 1
+   },
+   {
+    "quote": "Donation revenue is broken out by fund, program and department in structured schedules. Truewind handles fund accounting, grant reconciliation and donor restrictions.",
+    "url": "https://www.truewind.ai/solutions/non-profit",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate manual bookkeeping and donor reporting headaches. Get audit-ready financials while keeping your team focused on programs, not spreadsheets.",
+    "url": "https://www.truewind.ai/solutions/non-profit",
+    "pass": 1
+   },
+   {
+    "quote": "Turn messy third-party data into clean rollforwards. No spreadsheet required.",
+    "url": "https://www.truewind.ai/solutions/non-profit",
+    "pass": 1
+   },
+   {
+    "quote": "I would probably describe it as an extension of the accounting team. It's almost another employee without being another employee.",
+    "url": "https://www.truewind.ai/solutions/non-profit",
+    "pass": 1
+   },
+   {
+    "quote": "I did all the accounting and bookkeeping myself for 2+ years. It's such a relief to finally have experts handle it with a repeatable process.",
+    "url": "https://www.truewind.ai/solutions/non-profit",
+    "pass": 1
+   },
+   {
+    "quote": "Before Truewind, I was buried in spreadsheets. Now our books are clean, consistent, and easy to explain to investors.",
+    "url": "https://www.truewind.ai/solutions/non-profit",
+    "pass": 1
+   },
+   {
+    "quote": "What is nonprofit fund accounting?",
+    "url": "https://www.truewind.ai/solutions/non-profit",
+    "pass": 1
+   },
+   {
+    "quote": "Accounting that tracks money by fund and by donor restriction, keeping restricted and unrestricted funds separate. Truewind breaks donation revenue out by fund, program and department.",
+    "url": "https://www.truewind.ai/solutions/non-profit",
+    "pass": 1
+   },
+   {
+    "quote": "See Truewind in your nonprofit finance workflow",
+    "url": "https://www.truewind.ai/solutions/non-profit",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Track investment activity across entities, accounts, funds, classes and custodians in one place, replacing disconnected spreadsheets and duplicate work. Multi-entity reconciliations run every day, not just at month-end.",
+    "url": "https://www.truewind.ai/solutions/family-office",
+    "pass": 1
+   },
+   {
+    "quote": "Brokerage activity, including trades, dividends and fees, is reconciled automatically into rollforward reports for each balance sheet account. Entries are prepared as GL-ready journal entries aligned to your chart of accounts, with no manual reconciliation.",
+    "url": "https://www.truewind.ai/solutions/family-office",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate manual reconciliation and close headaches. Get audit-ready financials while keeping your team focused on analysis, not spreadsheets.",
+    "url": "https://www.truewind.ai/solutions/family-office",
+    "pass": 1
+   },
+   {
+    "quote": "I would probably describe it as an extension of the accounting team. It's almost another employee without being another employee.",
+    "url": "https://www.truewind.ai/solutions/family-office",
+    "pass": 1
+   },
+   {
+    "quote": "I did all the accounting and bookkeeping myself for 2+ years. It's such a relief to finally have experts handle it with a repeatable process.",
+    "url": "https://www.truewind.ai/solutions/family-office",
+    "pass": 1
+   },
+   {
+    "quote": "Before Truewind, I was buried in spreadsheets. Now our books are clean, consistent, and easy to explain to investors.",
+    "url": "https://www.truewind.ai/solutions/family-office",
+    "pass": 1
+   },
+   {
+    "quote": "No. Sage Intacct or QuickBooks Online stays the source of truth. Truewind prepares the entries, your team reviews them, and they post to your GL.",
+    "url": "https://www.truewind.ai/solutions/family-office",
+    "pass": 1
+   },
+   {
+    "quote": "Is family office data kept private?",
+    "url": "https://www.truewind.ai/solutions/family-office",
+    "pass": 1
+   },
+   {
+    "quote": "Truewind is SOC 2 Type 2 certified. Data is encrypted in transit and at rest, access is restricted by user role, and where a workflow requires it, people review AI outputs before anything is posted. Truewind is built for high-net-worth clients who prioritize privacy and control.",
+    "url": "https://www.truewind.ai/solutions/family-office",
+    "pass": 1
+   },
+   {
+    "quote": "Review your entity workflows, controls and implementation priorities with the Truewind team.",
+    "url": "https://www.truewind.ai/solutions/family-office",
+    "pass": 1
+   },
+   {
+    "quote": "No. QuickBooks stays the source of truth; Truewind prepares the entries and schedules for your team to review.",
+    "url": "https://www.truewind.ai/solutions/home-services",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by Hundreds of Global Companies",
+    "url": "https://www.truewind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 500+ accountants.",
+    "url": "https://www.truewind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 500+ finance teams.",
+    "url": "https://www.truewind.ai/sage-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 500+ accountants.",
+    "url": "https://www.truewind.ai/solutions/non-profit",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 500+ accountants.",
+    "url": "https://www.truewind.ai/solutions/family-office",
+    "pass": 1
+   },
+   {
+    "quote": "Read the Lavoie CPA case study",
+    "url": "https://www.truewind.ai/solutions/cas-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 500+ accountants.",
+    "url": "https://www.truewind.ai/solutions/cas-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Read the Paul Fredrick case study",
+    "url": "https://www.truewind.ai/solutions/ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Read the ATTOM Data case study",
+    "url": "https://www.truewind.ai/solutions/software",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 500+ accountants.",
+    "url": "https://www.truewind.ai/solutions/software",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 500+ accountants.",
+    "url": "https://www.truewind.ai/solutions/startups/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Virtually 100% of accounting workflows involve transaction coding in some form. Every industry and company size (beyond perhaps the smallest cash-only operations) requires sorting of transactions into accounts. While the complexity may vary (a tech startup vs a manufacturing enterprise), the act of categorizing transactions (whether manually or via software rules) is universal in accounting.",
+    "url": "https://belitsoft.com/truewind-ai-case-study-finance-accounting",
+    "pass": 3
+   },
+   {
+    "quote": "Flux analysis is used by those who need insight into financial changes: corporate accounting teams produce the analysis, and CFOs, controllers, audit committees, and auditors consume the results.",
+    "url": "https://belitsoft.com/truewind-ai-case-study-finance-accounting",
+    "pass": 3
+   },
+   {
+    "quote": "Data Warehouse Support",
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Nonprofit teams reconcile donation exports and deposit data into clean revenue schedules with stronger visibility.",
+    "url": "https://www.truewind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Reconcile job systems and billing platforms into deferred revenue and revenue recognition schedules automatically.",
+    "url": "https://www.truewind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Harrison Apitz-Grossman",
+    "url": "https://www.truewind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn field service invoices into deferred revenue and recognize it when the job is done.",
+    "url": "https://www.truewind.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "These existing posts cover the marketplace announcement, the integration details, and the broader Sage narrative behind this pillar page.",
+    "url": "https://www.truewind.ai/sage-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Harrison Apitz-Grossman",
+    "url": "https://www.truewind.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Truewind is AI accounting software for nonprofits on Sage Intacct. It reconciles donations from platforms like PayPal, Stripe, Givebutter and FundraiseUp to bank deposits, codes revenue by fund, program and event, and flags cash discrepancies before they delay close, so your team knows exactly where every dollar went.",
+    "url": "https://www.truewind.ai/solutions/non-profit",
+    "pass": 1
+   },
+   {
+    "quote": "Donation revenue is broken out by fund, program and department in structured schedules. Truewind handles fund accounting, grant reconciliation and donor restrictions.",
+    "url": "https://www.truewind.ai/solutions/non-profit",
+    "pass": 1
+   },
+   {
+    "quote": "Harrison Apitz-Grossman",
+    "url": "https://www.truewind.ai/solutions/non-profit",
+    "pass": 1
+   },
+   {
+    "quote": "Accounting that tracks money by fund and by donor restriction, keeping restricted and unrestricted funds separate. Truewind breaks donation revenue out by fund, program and department.",
+    "url": "https://www.truewind.ai/solutions/non-profit",
+    "pass": 1
+   },
+   {
+    "quote": "Harrison Apitz-Grossman",
+    "url": "https://www.truewind.ai/solutions/family-office",
+    "pass": 1
+   },
+   {
+    "quote": "Turn field service invoices into deferred revenue and recognize it when the job is done.",
+    "url": "https://www.truewind.ai/solutions/home-services",
+    "pass": 1
+   },
+   {
+    "quote": "Truewind is AI accounting software for home services companies and contractors on QuickBooks. It reconciles job and billing data from field service platforms like ServiceTitan into deferred revenue and recognition schedules, so revenue is recognized when the job is done, not when the invoice goes out, without backing entries out by hand.",
+    "url": "https://www.truewind.ai/solutions/home-services",
+    "pass": 1
+   },
+   {
+    "quote": "Why do field service invoices need deferred revenue?",
+    "url": "https://www.truewind.ai/solutions/home-services",
+    "pass": 1
+   },
+   {
+    "quote": "Invoices are often sent before the work is finished. Booking them straight to revenue overstates the month, so finance teams back them out to deferred revenue by hand. Truewind does that step for every invoice.",
+    "url": "https://www.truewind.ai/solutions/home-services",
+    "pass": 1
+   },
+   {
+    "quote": "A deferred revenue schedule that builds itself",
+    "url": "https://www.truewind.ai/solutions/home-services",
+    "pass": 1
+   },
+   {
+    "quote": "Every open job sits on a deferred revenue schedule that rolls forward each month, with no manual reversing entries.",
+    "url": "https://www.truewind.ai/solutions/home-services",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue recognized at delivery",
+    "url": "https://www.truewind.ai/solutions/home-services",
+    "pass": 1
+   },
+   {
+    "quote": "When a job is complete, revenue is recognized and the entry is ready for review and posting.",
+    "url": "https://www.truewind.ai/solutions/home-services",
+    "pass": 1
+   },
+   {
+    "quote": "What is deferred revenue for a contractor?",
+    "url": "https://www.truewind.ai/solutions/home-services",
+    "pass": 1
+   },
+   {
+    "quote": "Money billed or collected for work that isn't finished yet. It sits on the balance sheet as a liability and becomes revenue when the job is done.",
+    "url": "https://www.truewind.ai/solutions/home-services",
+    "pass": 1
+   },
+   {
+    "quote": "A walkthrough of your invoices, deferred revenue schedule and close with the Truewind team.",
+    "url": "https://www.truewind.ai/solutions/home-services",
+    "pass": 1
+   },
+   {
+    "quote": "Harrison Apitz-Grossman",
+    "url": "https://www.truewind.ai/solutions/cas-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Reconcile Stripe payouts, roll your deferred revenue and prepaid schedules forward, and run every board report from the same numbers.",
+    "url": "https://www.truewind.ai/solutions/software",
+    "pass": 1
+   },
+   {
+    "quote": "Truewind is AI accounting software for SaaS and subscription businesses. It reconciles Stripe payouts, ties billing from Chargebee or Maxio to the ledger, rolls deferred revenue and prepaid schedules forward, and keeps every board report on the same numbers, with deterministic workflows and reviewer-first approvals in Sage Intacct or QuickBooks Online.",
+    "url": "https://www.truewind.ai/solutions/software",
+    "pass": 1
+   },
+   {
+    "quote": "Harrison Apitz-Grossman",
+    "url": "https://www.truewind.ai/solutions/software",
+    "pass": 1
+   },
+   {
+    "quote": "What is a deferred revenue schedule?",
+    "url": "https://www.truewind.ai/solutions/software",
+    "pass": 1
+   },
+   {
+    "quote": "A schedule that tracks subscription revenue billed in advance and recognizes it month by month as the service is delivered.",
+    "url": "https://www.truewind.ai/solutions/software",
+    "pass": 1
+   },
+   {
+    "quote": "A walkthrough of your Stripe payouts, deferred revenue and board reporting with the Truewind team.",
+    "url": "https://www.truewind.ai/solutions/software",
+    "pass": 1
+   },
+   {
+    "quote": "Onboarding a new client got shorter. \"It hasn't taken long, really, to get up and running,\" Sharai said. \"Once Sherice is like, okay, we're gonna do this one, she connects it. We have the initial part of making sure things are coded the way that they should be, and then it's connected and off to the races.\"",
+    "url": "https://www.truewind.ai/case-studies/lavoie-cpa",
+    "pass": 1
+   },
+   {
+    "quote": "Matt DeWald, Lavoie's Vice President of Financial Consulting, saw the same thing from the other side of the firm. \"For one of our clients that we now have fully loaded on with you, it took us an hour and a half to close the financials for them with one person,\" he said. \"That excludes revenue, so that's the one piece we still have to do. But I was like, wow, that is incredible value.\"",
+    "url": "https://www.truewind.ai/case-studies/lavoie-cpa",
+    "pass": 1
+   },
+   {
+    "quote": "The time savings were never the point for Sharai. The point was what the firm could carry without adding people.",
+    "url": "https://www.truewind.ai/case-studies/lavoie-cpa",
+    "pass": 1
+   },
+   {
+    "quote": "The expansion moment arrived in early 2026, with an opportunity to take over the entire month-end close workload of a senior accountant. An accounting consulting firm stepped in as a bridge. David used the gap to ask a bigger question.",
+    "url": "https://www.truewind.ai/case-studies/attom-data",
+    "pass": 1
+   },
+   {
+    "quote": "Harrison Apitz-Grossman",
+    "url": "https://www.truewind.ai/solutions/startups/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Transaction classification (coding each transaction to the proper account, department, etc.) is a core bookkeeping step and a standard part of every accounting close process.",
+    "url": "https://belitsoft.com/truewind-ai-case-study-finance-accounting",
+    "pass": 3
+   },
+   {
+    "quote": "Accrual workpapers are a fundamental component of the month-end close in accrual accounting. They are used to record expenses and revenues in the correct period (prepaid expenses, accrued liabilities), ensuring compliance with GAAP/IFRS.",
+    "url": "https://belitsoft.com/truewind-ai-case-study-finance-accounting",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate accountants and controllers on accounting teams prepare and use accrual workpapers. This includes staff accountants compiling entries for accrued expenses or deferred revenue, and accounting managers or controllers reviewing them. Audit teams also examine these workpapers during financial audits, though the creation is done by the accounting department.",
+    "url": "https://belitsoft.com/truewind-ai-case-study-finance-accounting",
+    "pass": 3
+   },
+   {
+    "quote": "Contract management is about aligning financial records (revenue recognition, lease liabilities, etc.) with contract terms (start/end dates, payment terms, performance obligations, etc.). For example, under revenue recognition standards (ASC 606 / IFRS 15), accountants must identify all key contract terms to allocate and time the revenue properly.",
+    "url": "https://belitsoft.com/truewind-ai-case-study-finance-accounting",
+    "pass": 3
+   },
+   {
+    "quote": "Often a technical accounting or revenue recognition team reviews customer contracts to determine how to record revenue or expenses. They coordinate with legal or sales operations to obtain contract details. Auditors also pay close attention to contract accounting (for example, checking that revenue is recognized according to the contract terms).",
+    "url": "https://belitsoft.com/truewind-ai-case-study-finance-accounting",
+    "pass": 3
+   },
+   {
+    "quote": "For example, a SaaS company with custom contracts splits a contract into software license revenue, service revenue, and subscription revenue over different periods.",
+    "url": "https://belitsoft.com/truewind-ai-case-study-finance-accounting",
+    "pass": 3
+   },
+   {
+    "quote": "Complex contracts are one of the most challenging areas of accounting. Many ERPs don’t fully support intricate arrangements out of the box, so companies resort to manual processes or expensive add-on systems. The workload involves reading through unique contract terms, manually configuring billing or revenue schedules, and constantly updating them for contract changes (amendments, renewals).",
+    "url": "https://belitsoft.com/truewind-ai-case-study-finance-accounting",
+    "pass": 3
+   },
+   {
+    "quote": "The goods will start arriving in your mailbox soon.",
+    "url": "https://belitsoft.com/truewind-ai-case-study-finance-accounting",
+    "pass": 3
+   },
+   {
+    "quote": "Truewind Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/truewind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Truewind",
+    "url": "https://prospeo.io/c/truewind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/truewind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "We save staff and senior accountants 15 hours per month, increasing their throughput by 10%. We do this handling complex accrual accounting and analytics: prepaid expense, fixed asset, accrued expense, and deferred revenue module.",
+    "url": "https://prospeo.io/c/truewind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/truewind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/truewind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Truewind?",
+    "url": "https://prospeo.io/c/truewind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Truewind generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/truewind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/truewind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/truewind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Truewind have?",
+    "url": "https://prospeo.io/c/truewind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/truewind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "✅ Robust security meeting international standards (uses domestic AWS servers, ISO/IEC 27017, 27001, 27018, 27701 information security certifications acquired, certified by the Ministry of Land, Infrastructure, Transport and Tourism)",
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Truewind joins the Sage Intacct Marketplace Partner Program, offering AI-powered automation that streamlines reconciliations, journal entries, and month-end close.",
+    "url": "https://www.truewind.ai/sage-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Truewind matches POS batches and fees to bank deposits, and ties sales to cash from processors, DoorDash and online travel agencies.",
+    "url": "https://www.truewind.ai/solutions/hospitality",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Truewind is AI accounting software for client accounting services (CAS) firms. It standardizes close delivery across every client's books with reusable workflow templates, routes client documents into workpapers by email, and sends only exceptions to reviewers, so senior accountants spend their time on review and advisory work instead of repetitive close tasks.",
+    "url": "https://www.truewind.ai/solutions/cas-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Client documents routed to the right workpapers by email",
+    "url": "https://www.truewind.ai/solutions/cas-firms",
+    "pass": 1
+   },
+   {
+    "quote": "By email. Truewind routes client documents straight into workpapers.",
+    "url": "https://www.truewind.ai/solutions/cas-firms",
+    "pass": 1
+   },
+   {
+    "quote": "One AR manager: monthly invoicing plus customer email",
+    "url": "https://www.truewind.ai/case-studies/attom-data",
+    "pass": 1
+   },
+   {
+    "quote": "Your email address will not be published.",
+    "url": "https://belitsoft.com/truewind-ai-case-study-finance-accounting",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/truewind-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本基準会計や消費税には対応していないため、日本法人の主決算用途では別途検討が必要だ",
+    "url": "https://aipicks.jp/tool/truewind",
+    "pass": 3
+   },
+   {
+    "quote": "刺さるのは、米国法人を持つ日本発スタートアップ、英語OKで",
+    "url": "https://aipicks.jp/tool/truewind",
+    "pass": 3
+   },
+   {
+    "quote": "逆に、日本国内のみで事業を回す中小企業（日本語UI・消費税・freee/マネーフォワード連携が必須なケース）や、社内に十分な経理体制を持つ中堅以上の企業には、現時点では噛み合わせが悪い",
+    "url": "https://aipicks.jp/tool/truewind",
+    "pass": 3
+   },
+   {
+    "quote": "日本基準の会計や消費税には対応しておらず、日本法人の主決算には向かない",
+    "url": "https://aipicks.jp/tool/truewind",
+    "pass": 3
+   },
+   {
+    "quote": "はい、公式サイトに日本語版があります",
+    "url": "https://aipicks.jp/tool/truewind",
+    "pass": 3
+   },
+   {
+    "quote": "米国の会計実務を前提としたサービスのため日本の税務・会計には対応しておらず、米国法人を持つ事業者向けの選択肢です",
+    "url": "https://aipicks.jp/tool/truewind",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Cloud, which handles .Ai agents, has proposed the concept of Japan's first corporate AI brain \"LBAI\" and \"AI2AI,\" where AI evolves AI, and has successfully led the digital transformation and AI implementation for hundreds of legacy industry companies. We will work closely with your company's real-world on-site challenges to create a system that \"leads to results\" together.",
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "✅ Innovating PR with Japan's first LLMO-specialized service \".Ai SEO\"",
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ".Aiエージェントを手掛けるカスタマークラウドは、日本初となる企業AI脳「LBAI」やAIがAIを進化させる「AI2AI」の概念を提唱し、 数百社におよぶレガシー産業のDX化・AI導入を成功に導いてきました",
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae",
+    "pass": 3
+   },
+   {
+    "quote": "✅ 日本初のLLMO特化サービス「.Ai SEO」でPRを革新",
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Truewind | AI Accounting Agents for Sage Intacct & QBO — Truewind's AI agents turn bank statements and workpapers into GL-ready journal entries, reconciliations and SOPs in Sage Intacct, QuickBooks Online, Intuit Enterprise Suite and NetSuite.",
+    "url": "https://www.truewind.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "財務管理をもっと簡単に！話題のAIサービス「Truewind」が選ばれる理... — Jan 20, 2025 · Truewindは、企業経営に革命を起こす可能性を秘めたスタートアップです。 AIを活用した自動化技術で、企業の財務管理を効率化し、成長を支える土台を提供します。 これからのデジタル時代において、Truewindのようなツールはますます必要とされるでしょう。",
+    "url": "https://generative-ai.co.jp/usecase/ai-startup-usecase-truewind/",
+    "pass": 3
+   },
+   {
+    "quote": "Truewindとは？機能・特徴・使い方・おすすめの活用シーンまで徹底解... — Truewindの機能・用途・メリット 経理担当者の負担を軽減 Truewindは、AIの力で日々の会計業務を自動化し、経理担当者の負担を大幅に軽減します。 手作業による入力ミスや集計ミスを防ぎ、正確な財務データ管理を実現します。",
+    "url": "https://airanking.app/ja/tools/truewind",
+    "pass": 3
+   },
+   {
+    "quote": "Truewindとは？評判・料金・機能【無料あり】 | AI PICKS — Aug 1, 2026 · Truewindは、AIを活用して経理・財務チームの月次決算や取引処理を支援するデジタル会計担当者ツールです。 総勘定元帳や補助ワークペーパーのデータを連携し、銀行・クレジットカード取引の勘定科目、クラス、ディメンション分類を自動化します。",
+    "url": "https://aipicks.jp/tool/truewind",
+    "pass": 3
+   },
+   {
+    "quote": "Truewindとは｜料金・機能・評判｜MY-BEST.AI — Oct 18, 2026 · 導入前に費用感を公式サイトで確認しておきましょう。 多機能である一方、すべての機能を使いこなすには一定の学習コストがかかる場合があります。 導入前に、無料トライアルやデモの有無を確認すると、自社の業務に合うかを低リスクで判断できます。",
+    "url": "https://my-best.ai/ai-tools/truewind/",
+    "pass": 3
+   },
+   {
+    "quote": "Support Center | Truewind — Get step-by-step support for onboarding, bank transactions, and Workpaper Agent.",
+    "url": "https://www.truewind.ai/support",
+    "pass": 3
+   },
+   {
+    "quote": "Home - True Wind True Wind — Grounded in our experience, we embrace complexity to help companies navigate big challenges and opportunities.",
+    "url": "https://truewind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Truewind — Aug 12, 2025 · Read case studies showing how finance teams use Truewind to scale close operations and accounting control frameworks.",
+    "url": "https://www.truewind.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "AI Accounting Success Stories and Case Studies | Truewind — Get a deeper dive into Truewind to see how it can work for you and your team. Real customer success stories showing how companies achieve 95% improvement in financial accuracy with AI accounting automation and bookkeeping solutions.",
+    "url": "https://www.truewind.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Truewind AI ($17M): AI Use Case in Finance and Accounting — Mar 20, 2025 · Truewind is currently working on AI-powered contract management, but it’s not in production yet. AI automates complex processes and improves decisions in finance and accounting industries.",
+    "url": "https://belitsoft.com/truewind-ai-case-study-finance-accounting",
+    "pass": 3
+   },
+   {
+    "quote": "Truewind Use Cases | Welcome.AI — Explore use cases for Truewind. Discover how Truewind can help solve your business challenges.",
+    "url": "https://www.welcome.ai/company/truewind-ai/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Delta Coffee achieves 75% time savings in ... — Delta Coffee (Consumer Goods) partnered with OutSystems (Computer Software) to solve key challenges. \"Delta Coffee Gets Piping-Hot Sales Information System Served by OutSystems Partner Truewind\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/outsystems/case-study/delta-coffee-gets-piping-hot-sales-information-system-served-by-outsystems-partner-truewind",
+    "pass": 3
+   },
+   {
+    "quote": "Truewind - 2026 Company Profile, Funding & Investors | The ... — Oct 15, 2026 · Truewind has raised $16 million across 2 funding rounds from investors including Pathlight Ventures, Rho Capital Partners and Thomson Reuters Ventures. Its chief executive, as recorded, is Alex Lee.",
+    "url": "https://www.thecompanycheck.com/company/b/truewind/yz2ilgxe1g81sq6sq",
+    "pass": 3
+   },
+   {
+    "quote": "Truewind Revenue, Funding & Valuation - prospeo.io — Truewind is AI-powered Bookkeeping and Financial Modeling for Accounting Firms. We save staff and senior accountants 15 hours per month, increasing their throughput by 10%.",
+    "url": "https://prospeo.io/c/truewind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Truewind - 2026 Company Profile, Team, Funding & Competitors ...Truewind - Overview, News & Similar companies | ZoomInfo.comTruewind — Company Profile & Funding (2026) | Indexed.vcTruewind – Strategic Position & Company Metrics – 2026Truewind — investors & funding | gritt.io — Feb 19, 2026 · Truewind has raised $17M in funding from investors like Y Combinator, Rho Capital Partners and Fin Capital.",
+    "url": "https://tracxn.com/d/companies/truewind/__dsZNiTFHwJeTZgvKPT4v7fs_yyPIhHmeE-IrwAhs0C4",
+    "pass": 3
+   },
+   {
+    "quote": "Truewind - Overview, News & Similar companies | ZoomInfo.com — Gather financial insights about Truewind, including details on funding rounds, investors, total funding, and acquisitions, to gain a comprehensive understanding of their financial strategy.",
+    "url": "https://www.zoominfo.com/c/truewind-technologies-inc/5000000569",
+    "pass": 3
+   },
+   {
+    "quote": "Truewind — Company Profile & Funding (2026) | Indexed.vc — Sep 17, 2026 · Truewind is an Artificial Intelligence company based in San Francisco, United States, founded in 2023. Its most recent funding was a Series A round in Dec 2024.",
+    "url": "https://indexed.vc/companies/truewindai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Truewind AI Complete Guide: AI-Driven Accounting and Finance ... Truewind AI is an AI-driven accounting and finance platform developed by Y Combinator alumni, specifically designed for startups and small to medium-sized businesses.",
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Truewind AI完全解説：スタートアップ向けAI駆動会計・財務プラットフ... Jul 4, 2025 · ファウンダーが作ったファウンダーのためのデジタル経理ソリューション Truewind AIは、Y Combinator出身のファウンダーによって開発された、スタートアップと中小企業に特化したAI駆動の会計・財務プラットフォームです。",
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Truewind AI Complete Guide: AI-Driven Accounting and Finance Platform for Startups—A Genspark Explanation｜木下寛士",
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Truewind AI Complete Guide: AI-Driven Accounting and Finance Platform for Startups—A Genspark Explanation",
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A digital accounting solution built by founders for founders",
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "is an AI-driven accounting and finance platform developed by Y Combinator alumni, specifically designed for startups and small to medium-sized businesses.",
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "next-generation accounting workflow automation platform leveraging generative AI",
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", an innovative solution that revolutionizes traditional manual accounting processes and provides an environment where founders can focus on their core business operations.",
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Founding Background and Vision",
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Founder's Problem Identification",
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Truewind AI完全解説：スタートアップ向けAI駆動会計・財務プラットフォームーーGensparkの解説｜木下寛士",
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae",
+    "pass": 3
+   },
+   {
+    "quote": "Truewind AI完全解説：スタートアップ向けAI駆動会計・財務プラットフォームーーGensparkの解説",
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae",
+    "pass": 3
+   },
+   {
+    "quote": "ファウンダーが作ったファウンダーのためのデジタル経理ソリューション",
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae",
+    "pass": 3
+   },
+   {
+    "quote": "は、Y Combinator出身のファウンダーによって開発された、スタートアップと中小企業に特化したAI駆動の会計・財務プラットフォームです。",
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIを活用した次世代の経理ワークフロー自動化プラットフォーム",
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae",
+    "pass": 3
+   },
+   {
+    "quote": "として、従来の手作業による会計処理を革新し、ファウンダーが本来のビジネス運営に集中できる環境を提供する革新的なソリューションです。",
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae",
+    "pass": 3
+   },
+   {
+    "quote": "創設者のAlex Lee（CEO）は、既存の会計ソリューションがスタートアップのニーズに対応していないことを発見しました：",
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae",
+    "pass": 3
+   },
+   {
+    "quote": "QuickBooksなどのセルフサービス型ツール：手頃だが手作業が必要で会計専門家向け",
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Truewind (@truewindai) / X At Truewind, we're always looking for ways to support the accounting community, and partnerships are a big part of that. We’re incredibly proud to be working with @ Cal_CPA, and together, helping firms navigate AI adoption.",
+    "url": "https://x.com/truewindai",
+    "pass": 3
+   },
+   {
+    "quote": "Truewind (@aparentwind) / Posts / X I've just transferred my @Everai (s) on @Starknet using the ArkProject Bridge! Let's come together and hit a new milestone on Ark Quests! bridge.arkproject.dev 💬1 🔄0 🤍1 📊21 📎 🔁Reposted by Truewind StarkurabuStarkurabu Feb 15",
+    "url": "https://x.com/aparentwind",
+    "pass": 3
+   },
+   {
+    "quote": "Adriano (@truewind_77) / Posts / X Adriano (@truewind_77) - Posts - The ability to observe without evaluating is the highest form of intelligence. | X (formerly Twitter)",
+    "url": "https://x.com/truewind_77",
+    "pass": 3
+   },
+   {
+    "quote": "\"#TrueWind\" - Results on X | Live Posts & Updates Results for \"#TrueWind\" on X (Twitter). Find the latest posts, discussions, and updates about #TrueWind. 20 results found.",
+    "url": "https://x.com/hashtag/TrueWind",
+    "pass": 3
+   },
+   {
+    "quote": "@truewind | X The latest posts from @truewind",
+    "url": "https://x.com/truewind",
+    "pass": 3
+   },
+   {
+    "quote": "Adriano (@truewind_77) / Posts / X May 17, 2021 · Adriano (@truewind_77) - Posts - The ability to observe without evaluating is the highest form of intelligence. | X (formerly Twitter)",
+    "url": "https://x.com/truewind_77",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Truewind - LinkedIn Deeply integrated with your accounting software, Truewind is your fastest way to adopting AI without changing your ERP.",
+    "url": "https://www.linkedin.com/company/truewindai",
+    "pass": 3
+   },
+   {
+    "quote": "TrueWind - LinkedIn At TrueWind, we help businesses navigate growth, partnerships, and market transitions with clarity and confidence. We provide strategic advisory services with a focus on sustainable growth, new...",
+    "url": "https://www.linkedin.com/company/truewind-llc",
+    "pass": 3
+   },
+   {
+    "quote": "True Wind - LinkedIn Website http://www.truewind.com Industry Financial Services Company size 11-50 employees Headquarters San Francisco, CA",
+    "url": "https://www.linkedin.com/company/true-wind-capital",
+    "pass": 3
+   },
+   {
+    "quote": "Truewind Marketing, LLC - LinkedIn Truewind brings our years of experience to companies so they can find new ways to grow and generate more sales. We help run your planning process while you run your ongoing business.",
+    "url": "https://www.linkedin.com/company/truewind-marketing-llc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Truewind - now Axians | Lisbon - FacebookTruewind | San Francisco CA - FacebookTruewind | San Francisco CA - FacebookDJ TrueWind - FacebookTruewind Properties LLC | Newton IA - FacebookTruewind Properties LLC - FacebookFacebook We have open vacancies and welcome applications from people that want to settle in #Portugal and develop a career in low-code.💙💛 #Truewind is a certified sponsor of the Por",
+    "url": "https://www.facebook.com/TruewindIT/",
+    "pass": 3
+   },
+   {
+    "quote": "Truewind | San Francisco CA - Facebook Nov 8, 2024 · Posts Truewind Nov 8, 2024 Next month, Truewind is sponsoring DCPA24. Our CEO, Alex Lee, will be speaking about AI-powered accounting. He’ll explain what it means, why it matters, and, most importantly, share practical tips and strategies. If you’re attending, let’s connect.",
+    "url": "https://www.facebook.com/61567722096257/",
+    "pass": 3
+   },
+   {
+    "quote": "Truewind | San Francisco CA - Facebook Nov 8, 2024 · Posts Next month, Truewind is sponsoring DCPA24. Our CEO, Alex Lee, will be speaking about AI-powered accounting. He’ll explain what it means, why it matters, and, most importantly, share practical tips and strategies. If you’re attending, let’s connect.",
+    "url": "https://www.facebook.com/p/Truewind-61567722096257/",
+    "pass": 3
+   },
+   {
+    "quote": "DJ TrueWind - Facebook Sep 18, 2025 · DJ TrueWind is at Bethel Congregational UCC. I recently had the honor to record 🎙️the @southlandwindensemble 🎺📯🎷directed by @gdr.18 ! It was definitely an amazing experience to record at @betheluccontario, a venue ⛪ more than 100 years old!",
+    "url": "https://www.facebook.com/djtruewind/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.truewind.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truewind.ai/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truewind.ai/webinars",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truewind.ai/sage-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truewind.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truewind.ai/solutions/non-profit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truewind.ai/solutions/family-office",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truewind.ai/solutions/home-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truewind.ai/solutions/cas-firms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truewind.ai/solutions/ecommerce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truewind.ai/solutions/hospitality",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truewind.ai/solutions/software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truewind.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truewind.ai/case-studies/paul-fredrick",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truewind.ai/case-studies/lavoie-cpa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truewind.ai/case-studies/attom-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truewind.ai/solutions/startups/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truewind.ai/blog/everything-you-need-to-know-about-truewind-s-integration-with-sage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truewind.ai/case-studies/series-c-saas-close-transformation",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.truewind.ai/_next/image?url=%2Fassets%2Ftruewind%2Fcustomers-paul-fredrick.webp&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.truewind.ai/_next/image?url=%2Fassets%2Ftruewind%2Fcustomers-avatar-brady.webp&w=96&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.truewind.ai/_next/image?url=%2Fassets%2Ftruewind%2Fcustomers-lavoie-cpa.webp&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.truewind.ai/_next/image?url=%2Fassets%2Ftruewind%2Fcustomers-avatar-sherice.webp&w=96&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.truewind.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://generative-ai.co.jp/usecase/ai-startup-usecase-truewind/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://airanking.app/ja/tools/truewind",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aipicks.jp/tool/truewind",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truewind.ai/support",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://truewind.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jwd.co.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truewind.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truewind.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://belitsoft.com/truewind-ai-case-study-finance-accounting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.welcome.ai/company/truewind-ai/use-cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/truewind/yz2ilgxe1g81sq6sq",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/truewind-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/truewind/__dsZNiTFHwJeTZgvKPT4v7fs_yyPIhHmeE-IrwAhs0C4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.zoominfo.com/c/truewind-technologies-inc/5000000569",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hiroshikinoshita/n/n10484567ecae",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/truewindai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/aparentwind",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/truewind_77",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/TrueWind",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/truewindai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/truewind-llc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/true-wind-capital",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/truewind-marketing-llc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TruewindIT/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61567722096257/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Truewind-61567722096257/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/djtruewind/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/truewindai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/truewind",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/truewind_77",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Truewind 日本 導入",
+   "results": [
+    "https://www.truewind.ai/",
+    "https://generative-ai.co.jp/usecase/ai-startup-usecase-truewind/",
+    "https://airanking.app/ja/tools/truewind",
+    "https://aipicks.jp/tool/truewind",
+    "https://my-best.ai/ai-tools/truewind/",
+    "https://note.com/hiroshikinoshita/n/n10484567ecae",
+    "https://truewind.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Truewind 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.truewind.ai/support",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://truewind.com/",
+    "https://www.jwd.co.jp/en/",
+    "https://jpmktg.winbond.com/",
+    "https://www.tradewindgroup.com/",
+    "https://ja.nozominetworks.com/company"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Truewind Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Truewind manufacturing customer case study",
+   "results": [
+    "https://www.truewind.ai/case-studies",
+    "https://www.truewind.ai/customers",
+    "https://belitsoft.com/truewind-ai-case-study-finance-accounting",
+    "https://www.welcome.ai/company/truewind-ai/use-cases",
+    "https://www.casestudies.com/company/outsystems/case-study/delta-coffee-gets-piping-hot-sales-information-system-served-by-outsystems-partner-truewind",
+    "https://truewind.com/",
+    "https://truewind.com/portfolio/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Truewind white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://upcloud.com/partner-program/",
+    "https://www.ninjaone.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Truewind founded funding employees revenue",
+   "results": [
+    "https://www.thecompanycheck.com/company/b/truewind/yz2ilgxe1g81sq6sq",
+    "https://prospeo.io/c/truewind-revenue",
+    "https://tracxn.com/d/companies/truewind/__dsZNiTFHwJeTZgvKPT4v7fs_yyPIhHmeE-IrwAhs0C4",
+    "https://www.zoominfo.com/c/truewind-technologies-inc/5000000569",
+    "https://indexed.vc/companies/truewindai",
+    "https://compworth.com/company/truewind",
+    "https://www.gritt.io/company/truewindai/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Truewind",
+   "results": [
+    "https://note.com/hiroshikinoshita/n/n10484567ecae?hl=en",
+    "https://note.com/hiroshikinoshita/n/n10484567ecae",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/tag/ポケカ",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/butarounet/n/nd7206f5ae7d2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Truewind",
+   "results": [
+    "https://x.com/truewindai",
+    "https://x.com/aparentwind",
+    "https://x.com/truewind_77",
+    "https://x.com/hashtag/TrueWind",
+    "https://x.com/JokiBossku",
+    "https://x.com/truewind_ru",
+    "https://x.com/truewind090/status/2100286247545561249"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Truewind",
+   "results": [
+    "https://www.linkedin.com/company/truewindai",
+    "https://www.linkedin.com/company/truewind-llc",
+    "https://www.linkedin.com/company/true-wind-capital",
+    "https://www.linkedin.com/company/truewind-marketing-llc",
+    "https://www.linkedin.com/posts/asian-tech-collective_startup-founder-asiansintech-activity-7358902452852592640-e93K",
+    "https://www.linkedin.com/in/jenilee-chen",
+    "https://www.linkedin.com/in/dmullaney"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Truewind",
+   "results": [
+    "https://www.facebook.com/TruewindIT/",
+    "https://www.facebook.com/61567722096257/",
+    "https://www.facebook.com/p/Truewind-61567722096257/",
+    "https://www.facebook.com/djtruewind/",
+    "https://www.facebook.com/truewindpropertiesllc/about/",
+    "https://www.facebook.com/truewindpropertiesllc/posts/602016490227205/",
+    "https://www.facebook.com/www.truewind.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Truewind note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Truewind X 投稿",
+   "results": [
+    "https://x.com/truewindai",
+    "https://www.truewind.ai/",
+    "https://x.com/truewind",
+    "https://x.com/truewind_77",
+    "https://www.instagram.com/truewindofficial/",
+    "https://x.com/hashtag/TrueWind",
+    "https://x.com/Wind_GLVP02"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部37頁・検索12回）"
+ }
+}

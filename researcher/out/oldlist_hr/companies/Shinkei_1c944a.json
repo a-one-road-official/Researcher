@@ -1,0 +1,1634 @@
+{
+ "name": "Shinkei",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T06:27:50.293035+00:00",
+ "official_url": "https://shinkei.systems",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "8. Seed Round",
+    "value": "05-Feb-2024    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/494269-39",
+    "pass": 3
+   },
+   {
+    "label": "Seed-4",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/494269-39",
+    "pass": 3
+   },
+   {
+    "label": "Seed-2",
+    "value": "150,843 $0.000100  $0.41 $0.41 1x $0.41 0.4%",
+    "url": "https://pitchbook.com/profiles/company/494269-39",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "11,025,115 $0.000100  $0.55 $0.55 1x $0.55 28.88%",
+    "url": "https://pitchbook.com/profiles/company/494269-39",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://startupintros.com/orgs/shinkei-systems",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "El Segundo, CA, USA",
+    "url": "https://startupintros.com/orgs/shinkei-systems",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Commercial fishing operates with legacy tools and practices largely unchanged for over a century. While aerospace lands rockets and AI reshapes industries, systemic inefficiency means most fish never make it to a plate - waste that impacts fishermen, processors, distributors, and the American public.",
+    "url": "https://shinkei.systems/",
+    "pass": 1
+   },
+   {
+    "quote": "With robotics and computer vision we can scale artisanal practices that have proven quality outputs.",
+    "url": "https://shinkei.systems/",
+    "pass": 1
+   },
+   {
+    "quote": "Taste is a proxy for nutrition.",
+    "url": "https://shinkei.systems/",
+    "pass": 1
+   },
+   {
+    "quote": "For centuries, Japan has developed artisanal food practices that have compounded into a national advantage — the world's 3rd highest life expectancy and an average IQ 10 points higher than the US. We believe America can once again lead in food innovation, this time by introducing craft and quality at scale.",
+    "url": "https://shinkei.systems/",
+    "pass": 1
+   },
+   {
+    "quote": "We deploy Poseidon — our flagship product — across ships in the Atlantic and Pacific Oceans.",
+    "url": "https://shinkei.systems/",
+    "pass": 1
+   },
+   {
+    "quote": "Poseidon processes thousands of fish every day using an artisanal Japanese technique called ike jime. Our El Segundo factory produces multiple Poseidon units in parallel. The Shinkei engineering team solves complex challenges that deliver results you can taste.",
+    "url": "https://shinkei.systems/",
+    "pass": 1
+   },
+   {
+    "quote": "Our integrated computer vision-robotics system humanely harvests fish in seconds, with real-time data streams. PSDN extends shelf life 3x, preserves peak flavor, and eliminates the stress response that degrades 70% of fish quality. Poseidon is usually offshore, but never offline.",
+    "url": "https://shinkei.systems/",
+    "pass": 1
+   },
+   {
+    "quote": "American fish, caught by American fishermen, harvested by American made machines, and processed in American facilities. Real-time data from deck to dinner plate. Supply chains that are resilient, transparent, and American-led. Shinkei reverses the $18B seafood trade deficit and onshores jobs.",
+    "url": "https://shinkei.systems/",
+    "pass": 1
+   },
+   {
+    "quote": "Processed every week, from 6 different species, and counting...",
+    "url": "https://shinkei.systems/",
+    "pass": 1
+   },
+   {
+    "quote": "To bring Poseidon-processed fish to market, we launched Seremoni — the consumer-facing distribution arm of Shinkei.",
+    "url": "https://shinkei.systems/",
+    "pass": 1
+   },
+   {
+    "quote": "No preservatives or added chemicals of any kind.",
+    "url": "https://shinkei.systems/",
+    "pass": 1
+   },
+   {
+    "quote": "We hire smart, ambitious, and kind people with an exceptionally high bar for all three. We optimize for quality first, scale second.",
+    "url": "https://shinkei.systems/",
+    "pass": 1
+   },
+   {
+    "quote": "April 28th, 2026",
+    "url": "https://shinkei.systems/",
+    "pass": 1
+   },
+   {
+    "quote": "Access cutting-edge tools and premium prices.",
+    "url": "https://shinkei.systems/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Feed more people at higher profit.",
+    "url": "https://shinkei.systems/partners",
+    "pass": 1
+   },
+   {
+    "quote": "PSDN reduces the laborious, many-minutes-long process of fish harvesting and humane slaughter to mere seconds out of the water.",
+    "url": "https://shinkei.systems/partners",
+    "pass": 1
+   },
+   {
+    "quote": "PSDN is provided free-of-charge and fishermen are paid a premium above dock prices. Many report a doubling of take-home pay.",
+    "url": "https://shinkei.systems/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We prioritize value creation over extraction. We believe fishermen can earn more without chasing volume, chefs and retailers can increase quality and margins. This isn't zero-sum, it’s technology to benefit the entire supply chain.",
+    "url": "https://shinkei.systems/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our international presence",
+    "url": "https://shinkei.systems/partners",
+    "pass": 1
+   },
+   {
+    "quote": "To bring Poseidon-processed fish to market, we launched Seremoni — the consumer-facing distribution arm of Shinkei.",
+    "url": "https://shinkei.systems/partners",
+    "pass": 1
+   },
+   {
+    "quote": "No preservatives or added chemicals of any kind.",
+    "url": "https://shinkei.systems/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We hire smart, ambitious, and kind people with an exceptionally high bar for all three. We optimize for quality first, scale second.",
+    "url": "https://shinkei.systems/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Legacy American food systems prioritize profit over quality, and our national health has paid the price. We believe food is not just sustenance, but a foundational input for vitality, intelligence, and long-term strength. Shinkei takes a different approach: one rooted in craft, built for scale, and designed to restore the systems that sustain us.",
+    "url": "https://shinkei.systems/about",
+    "pass": 1
+   },
+   {
+    "quote": "With robotics and computer vision, we can scale artisanal practices that have proven quality outputs.",
+    "url": "https://shinkei.systems/about",
+    "pass": 1
+   },
+   {
+    "quote": "90% American seafood is imported, and a majority of that is caught in American waters, then sent overseas for untraceable processing. There, it is exposed to chemical preservatives before making it back to American dinner plates. We are reversing America’s $18B seafood deficit with a fleet of proud American fisherman.",
+    "url": "https://shinkei.systems/about",
+    "pass": 1
+   },
+   {
+    "quote": "Shinkei deploys hardware on real boats that process thousands of real fish today.",
+    "url": "https://shinkei.systems/about",
+    "pass": 1
+   },
+   {
+    "quote": "We iterate at software speed while building hardware that survives heavy weather operations. We deploy Poseidon — our flagship product — across vessels in five US regions.",
+    "url": "https://shinkei.systems/about",
+    "pass": 1
+   },
+   {
+    "quote": "April 2021",
+    "url": "https://shinkei.systems/about",
+    "pass": 1
+   },
+   {
+    "quote": "April 2025",
+    "url": "https://shinkei.systems/about",
+    "pass": 1
+   },
+   {
+    "quote": "We hire smart, ambitious, and kind people with an exceptionally high bar for all three.",
+    "url": "https://shinkei.systems/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our team brings aerospace engineering from SpaceX and Anduril, and premium brand expertise from Lululemon, Oishii, and Erewhon, and decades of commercial fishing and seafood industry experience — because excellence is our expectation.",
+    "url": "https://shinkei.systems/about",
+    "pass": 1
+   },
+   {
+    "quote": "Quality Without Compromise",
+    "url": "https://shinkei.systems/about",
+    "pass": 1
+   },
+   {
+    "quote": "Machines that survive salt spray and human scrutiny alike. Excellence is expectation.",
+    "url": "https://shinkei.systems/about",
+    "pass": 1
+   },
+   {
+    "quote": "\"Ikejime\": Robot processes fish in a \"humane way\" and improves taste | heise online",
+    "url": "https://note.com/dopingconsomme/n/nab9e8ce1a6d3",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei’s humane, quality-preserving fish-harvesting tech could upend the seafood industry",
+    "url": "https://innovatopia.jp/robot/robot-news/24378/",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "pass": 3
+   },
+   {
+    "quote": "April 14, 1475",
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "pass": 3
+   },
+   {
+    "quote": "was a Japanese Buddhist priest and poet (",
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "pass": 3
+   },
+   {
+    "quote": "priest at an early age and quickly rose to the rank of",
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "pass": 3
+   },
+   {
+    "quote": "Stanford University Press",
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "pass": 3
+   },
+   {
+    "quote": "Japan–U.S. Friendship Commission Prize for the Translation of Japanese Literature",
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "pass": 3
+   },
+   {
+    "quote": "(Stanford University Press, 1994).",
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "pass": 3
+   },
+   {
+    "quote": "University of Hawaiʻi Press",
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "pass": 3
+   },
+   {
+    "quote": ". Stanford University Press.",
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "pass": 3
+   },
+   {
+    "quote": "While the salmon cuts may seem indistinguishable on the shelves, Seremoni’s were sourced using a proprietary robot inspired by Japanese fishing practices.",
+    "url": "https://labusinessjournal.com/technology/seafood-startup-shinkei-lands-at-whole-foods/",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei Systems is betting it can offer the best of both world when it comes to approaches for harvesting. Most commercially caught fish are hauled up in nets and left to suffocate, a slow death that floods their muscle with lactic acid and reduces the shelf life. While better for the fish and customers, ike jime takes years to master and must be done one fish at a time.",
+    "url": "https://labusinessjournal.com/technology/seafood-startup-shinkei-lands-at-whole-foods/",
+    "pass": 3
+   },
+   {
+    "quote": "This niche solution to a niche problem has managed to net Shinkei Systems over $40 million in funding, per PitchBook. The company was founded in 2021 by",
+    "url": "https://labusinessjournal.com/technology/seafood-startup-shinkei-lands-at-whole-foods/",
+    "pass": 3
+   },
+   {
+    "quote": "Reprint and Licensing Requests",
+    "url": "https://labusinessjournal.com/technology/seafood-startup-shinkei-lands-at-whole-foods/",
+    "pass": 3
+   },
+   {
+    "quote": "Terms & Privacy Policy",
+    "url": "https://labusinessjournal.com/technology/seafood-startup-shinkei-lands-at-whole-foods/",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei Systems purchases processing plant in Washington to expand supply chain | SeafoodSource",
+    "url": "https://www.seafoodsource.com/news/processing-equipment/shinkei-systems-purchases-processing-plant-in-washington-to-expand-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei Systems purchases processing plant in Washington to expand supply chain",
+    "url": "https://www.seafoodsource.com/news/processing-equipment/shinkei-systems-purchases-processing-plant-in-washington-to-expand-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "News » Processing & Equipment",
+    "url": "https://www.seafoodsource.com/news/processing-equipment/shinkei-systems-purchases-processing-plant-in-washington-to-expand-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei Systems has acquired a 16,000-square-foot processing plant in Tacoma, Washington, U.S.A., more than doubling its total footprint.",
+    "url": "https://www.seafoodsource.com/news/processing-equipment/shinkei-systems-purchases-processing-plant-in-washington-to-expand-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "in California to increase manufacturing of its processing equipment. Shinkei Systems has developed a",
+    "url": "https://www.seafoodsource.com/news/processing-equipment/shinkei-systems-purchases-processing-plant-in-washington-to-expand-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "that automates the “ike jime” process of slaughter – a a technique used by Japanese fishermen ensure high-quality fish.",
+    "url": "https://www.seafoodsource.com/news/processing-equipment/shinkei-systems-purchases-processing-plant-in-washington-to-expand-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei Systems Co-founder and CEO Saif Khawaja told SeafoodSource the new facility will bring the company’s processing under its own roof, allowing it to fully control the supply chain from catch through to delivering the product to distributors.",
+    "url": "https://www.seafoodsource.com/news/processing-equipment/shinkei-systems-purchases-processing-plant-in-washington-to-expand-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "told SeafoodSource the new facility will be staffed by 50 people, and is on track to be fully operational by Spring 2026.",
+    "url": "https://www.seafoodsource.com/news/processing-equipment/shinkei-systems-purchases-processing-plant-in-washington-to-expand-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei markets its fish under the Seremoni brand, and labels its products as “Seremoni Grade,” and has a core mission of delivering high-quality fish and making access to “Michelin-quality” fish easier. The company currently sources black sea bass, red snapper, vermillion rock fish, and black cod from fishermen in the U.S. states of",
+    "url": "https://www.seafoodsource.com/news/processing-equipment/shinkei-systems-purchases-processing-plant-in-washington-to-expand-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "Alaska, Washington, and California and is planning to expand to additional species with the addition of its new processing space – though it will initially focus on black cod fished on the west coast.",
+    "url": "https://www.seafoodsource.com/news/processing-equipment/shinkei-systems-purchases-processing-plant-in-washington-to-expand-supply-chain",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Artisanal Quality at Industrial Scale | Shinkei Systems",
+    "url": "https://shinkei.systems/",
+    "pass": 1
+   },
+   {
+    "quote": "Artisanal quality at industrial scale.",
+    "url": "https://shinkei.systems/",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial fishing operates with legacy tools and practices largely unchanged for over a century. While aerospace lands rockets and AI reshapes industries, systemic inefficiency means most fish never make it to a plate - waste that impacts fishermen, processors, distributors, and the American public.",
+    "url": "https://shinkei.systems/",
+    "pass": 1
+   },
+   {
+    "quote": "Poseidon processes thousands of fish every day using an artisanal Japanese technique called ike jime. Our El Segundo factory produces multiple Poseidon units in parallel. The Shinkei engineering team solves complex challenges that deliver results you can taste.",
+    "url": "https://shinkei.systems/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team brings aerospace engineering from SpaceX and Anduril, and premium brand expertise from Lululemon, Oishii, and Erewhon, and decades of commercial fishing and seafood industry experience — because excellence is our expectation.",
+    "url": "https://shinkei.systems/about",
+    "pass": 1
+   },
+   {
+    "quote": "Japanese craftsmanship meets American manufacturing capacity. The artisanal ike jime technique, refined over centuries, executed by computer vision and robotics.",
+    "url": "https://shinkei.systems/about",
+    "pass": 1
+   },
+   {
+    "quote": "Shinkei Systems : Artisanal Quality at Industrial Scale",
+    "url": "https://note.com/hoho_ayumiho/n/nc4bff2684047",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei Systems purchases processing plant in Washington to expand supply chain | SeafoodSource",
+    "url": "https://www.seafoodsource.com/news/processing-equipment/shinkei-systems-purchases-processing-plant-in-washington-to-expand-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei Systems purchases processing plant in Washington to expand supply chain",
+    "url": "https://www.seafoodsource.com/news/processing-equipment/shinkei-systems-purchases-processing-plant-in-washington-to-expand-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei Systems has acquired a 16,000-square-foot processing plant in Tacoma, Washington, U.S.A., more than doubling its total footprint.",
+    "url": "https://www.seafoodsource.com/news/processing-equipment/shinkei-systems-purchases-processing-plant-in-washington-to-expand-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "in California to increase manufacturing of its processing equipment. Shinkei Systems has developed a",
+    "url": "https://www.seafoodsource.com/news/processing-equipment/shinkei-systems-purchases-processing-plant-in-washington-to-expand-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "that automates the “ike jime” process of slaughter – a a technique used by Japanese fishermen ensure high-quality fish.",
+    "url": "https://www.seafoodsource.com/news/processing-equipment/shinkei-systems-purchases-processing-plant-in-washington-to-expand-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "“This is an incredibly exciting milestone for us. It is a huge opportunity to bring control for Seremoni Grade products all under one roof for the entire value chain,” he said. “It also offers us complete ability to scale as we grow over the next year; we can do upwards of 10 million pounds in this single processing plant alone.”",
+    "url": "https://www.seafoodsource.com/news/processing-equipment/shinkei-systems-purchases-processing-plant-in-washington-to-expand-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei Systems opens seafood processing plant to scale robotic fish handling",
+    "url": "https://roboticsandautomationnews.com/2026/03/11/robotic-seafood-company-shinkei-systems-acquires-first-processing-plant-to-scale-nationwide/99505/",
+    "pass": 3
+   },
+   {
+    "quote": "Robotic seafood company Shinkei Systems acquires first processing plant to scale nationwide",
+    "url": "https://roboticsandautomationnews.com/2026/03/11/robotic-seafood-company-shinkei-systems-acquires-first-processing-plant-to-scale-nationwide/99505/",
+    "pass": 3
+   },
+   {
+    "quote": ", the seafood robotics company behind Seremoni Grade fish, announced it has purchased a 16,000-square-foot processing plant in Tacoma, Washington.",
+    "url": "https://roboticsandautomationnews.com/2026/03/11/robotic-seafood-company-shinkei-systems-acquires-first-processing-plant-to-scale-nationwide/99505/",
+    "pass": 3
+   },
+   {
+    "quote": "The Seremoni Grade Plant more than doubles Shinkei’s total footprint and represents a major milestone in the company’s mission to deliver Michelin-quality fish for all.",
+    "url": "https://roboticsandautomationnews.com/2026/03/11/robotic-seafood-company-shinkei-systems-acquires-first-processing-plant-to-scale-nationwide/99505/",
+    "pass": 3
+   },
+   {
+    "quote": "Situated in the heart of the Pacific Northwest, the plant provides a strategic hub for the West Coast seafood industry with direct proximity to key regional fisheries.",
+    "url": "https://roboticsandautomationnews.com/2026/03/11/robotic-seafood-company-shinkei-systems-acquires-first-processing-plant-to-scale-nationwide/99505/",
+    "pass": 3
+   },
+   {
+    "quote": "“Our own Seremoni Grade Plant allows us to scale responsibly while preserving the flavor, texture, shelf-life, and traceability that defines seafood at its absolute best.”",
+    "url": "https://roboticsandautomationnews.com/2026/03/11/robotic-seafood-company-shinkei-systems-acquires-first-processing-plant-to-scale-nationwide/99505/",
+    "pass": 3
+   },
+   {
+    "quote": "As the company scales, the plant will serve as a central hub for Seremoni Grade fish, supporting growth across both restaurant and retail channels to bring pristine, sustainably harvested fish to more chefs and consumers nationwide.",
+    "url": "https://roboticsandautomationnews.com/2026/03/11/robotic-seafood-company-shinkei-systems-acquires-first-processing-plant-to-scale-nationwide/99505/",
+    "pass": 3
+   },
+   {
+    "quote": "“Having a dedicated Seremoni Grade plant here in Washington gives me the freedom to focus on harvesting black cod at its peak and ensures it’s processed with the same level of care from the moment it leaves my boat. That translates directly to better fish for everyone involved.”",
+    "url": "https://roboticsandautomationnews.com/2026/03/11/robotic-seafood-company-shinkei-systems-acquires-first-processing-plant-to-scale-nationwide/99505/",
+    "pass": 3
+   },
+   {
+    "quote": "The Seremoni Grade Plant was acquired from Fathom Seafood, a well-respected seafood processor in the Seattle area.",
+    "url": "https://roboticsandautomationnews.com/2026/03/11/robotic-seafood-company-shinkei-systems-acquires-first-processing-plant-to-scale-nationwide/99505/",
+    "pass": 3
+   },
+   {
+    "quote": "Path Robotics raises stunning $300 million at $2.45 billion valuation to expand physical AI in manufacturing",
+    "url": "https://roboticsandautomationnews.com/2026/03/11/robotic-seafood-company-shinkei-systems-acquires-first-processing-plant-to-scale-nationwide/99505/",
+    "pass": 3
+   },
+   {
+    "quote": "Machinery Positioning Options For Fabrication Facilities: A 2026 Shortlist For Industrial Buyers",
+    "url": "https://roboticsandautomationnews.com/2026/03/11/robotic-seafood-company-shinkei-systems-acquires-first-processing-plant-to-scale-nationwide/99505/",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/494269-39",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei (16,000-Square-Foot Processing Plant in Tacoma, Washington)",
+    "url": "https://pitchbook.com/profiles/company/494269-39",
+    "pass": 3
+   },
+   {
+    "quote": "In other words, Shinkei is not a machine manufacturer. It is a fish sourcing, processing, and sales company that places robots at the point of sourcing. The robot is not the product; it is the key to the sourcing point. At this point, the picture from the beginning falls apart. The company that makes money by selling expensive machines is not here.",
+    "url": "https://note.com/right_knot2175/n/nb623fd8452bc?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "For centuries, Japan has developed artisanal food practices that have compounded into a national advantage — the world's 3rd highest life expectancy and an average IQ 10 points higher than the US. We believe America can once again lead in food innovation, this time by introducing craft and quality at scale.",
+    "url": "https://shinkei.systems/",
+    "pass": 1
+   },
+   {
+    "quote": "Poseidon processes thousands of fish every day using an artisanal Japanese technique called ike jime. Our El Segundo factory produces multiple Poseidon units in parallel. The Shinkei engineering team solves complex challenges that deliver results you can taste.",
+    "url": "https://shinkei.systems/",
+    "pass": 1
+   },
+   {
+    "quote": "“We fly our fish in from the best traditional Japanese seafood purveyors—it has been rare to see a similar level of quality with fish handled locally.”",
+    "url": "https://shinkei.systems/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Japanese craftsmanship meets American manufacturing capacity. The artisanal ike jime technique, refined over centuries, executed by computer vision and robotics.",
+    "url": "https://shinkei.systems/about",
+    "pass": 1
+   },
+   {
+    "quote": "This robot uses Japanese tradition and AI for sashimi that lasts longer and is more humane - Los Angeles Times",
+    "url": "https://note.com/dopingconsomme/n/nab9e8ce1a6d3",
+    "pass": 3
+   },
+   {
+    "quote": "日本の活け締め・神経締めの技術を、コンピュータビジョンとロボティクスで自動化しています",
+    "url": "https://note.com/dopingconsomme/n/nab9e8ce1a6d3",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマトホールディングス株式会社+1",
+    "url": "https://note.com/dopingconsomme/n/nab9e8ce1a6d3",
+    "pass": 3
+   },
+   {
+    "quote": "7. 日本の水産業にとって何を意味するか",
+    "url": "https://note.com/dopingconsomme/n/nab9e8ce1a6d3",
+    "pass": 3
+   },
+   {
+    "quote": "日本には、活け締め、神経締め、血抜き、熟成など、世界的に評価されている水産加工技術があります",
+    "url": "https://note.com/dopingconsomme/n/nab9e8ce1a6d3",
+    "pass": 3
+   },
+   {
+    "quote": "日本の水産業で考えられる応用は次のとおりです",
+    "url": "https://note.com/dopingconsomme/n/nab9e8ce1a6d3",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本では、小規模漁業者が個別に高額設備を購入するモデルよりも、漁協や水産卸が設備を保有し、漁獲量や品質に応じて利益を分配するモデルも検討できます",
+    "url": "https://note.com/dopingconsomme/n/nab9e8ce1a6d3",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei Systemsは、米国のシーフードロボティクス企業で、日本の伝統的な活け締め（ike jime）をAI・ロボットで自動化し、漁船上で魚を高品質に処理する事業を展開しています",
+    "url": "https://note.com/dopingconsomme/n/nab9e8ce1a6d3",
+    "pass": 3
+   },
+   {
+    "quote": "これは、日本の伝統的な活け締めを、産業規模で自動化する発想です",
+    "url": "https://note.com/hoho_ayumiho/n/nc4bff2684047",
+    "pass": 3
+   },
+   {
+    "quote": "活け締めは、日本の寿司や刺身文化と深く結びついた技術です",
+    "url": "https://note.com/hoho_ayumiho/n/nc4bff2684047",
+    "pass": 3
+   },
+   {
+    "quote": "ここで興味深いのは、米国のスタートアップが、日本の職人技をAIとロボットの対象として捉えている点です",
+    "url": "https://note.com/hoho_ayumiho/n/nc4bff2684047",
+    "pass": 3
+   },
+   {
+    "quote": "日本では長年、熟練者の技として受け継がれてきたものが、海外では再現可能な高付加価値技術として注目されています",
+    "url": "https://note.com/hoho_ayumiho/n/nc4bff2684047",
+    "pass": 3
+   },
+   {
+    "quote": "これは、日本の伝統技術が世界のフードテックに与える影響の大きさを示しています",
+    "url": "https://note.com/hoho_ayumiho/n/nc4bff2684047",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei Systems公式サイトによると、同社はPoseidonを大西洋と太平洋の船に展開しており、Poseidonは活け締めという日本の職人的技法を使って、毎日数千匹の魚を処理しています",
+    "url": "https://note.com/hoho_ayumiho/n/nc4bff2684047",
+    "pass": 3
+   },
+   {
+    "quote": "日本の水産業でも、漁業者の高齢化、人手不足、燃料費、流通コスト、魚価の不安定さが課題です",
+    "url": "https://note.com/hoho_ayumiho/n/nc4bff2684047",
+    "pass": 3
+   },
+   {
+    "quote": "職人技をロボット化する発想は、日本でも十分に意味があります",
+    "url": "https://note.com/hoho_ayumiho/n/nc4bff2684047",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、活け締めは伝統的に品質向上の技術として理解されています",
+    "url": "https://note.com/hoho_ayumiho/n/nc4bff2684047",
+    "pass": 3
+   },
+   {
+    "quote": "日本の技術が海外で評価される時、味だけでなく、倫理性、持続可能性、透明性と結びついて再解釈されます",
+    "url": "https://note.com/hoho_ayumiho/n/nc4bff2684047",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei Systemsの事例は、日本にとって二つの意味があります",
+    "url": "https://note.com/hoho_ayumiho/n/nc4bff2684047",
+    "pass": 3
+   },
+   {
+    "quote": "一つは、日本発の食文化や職人技が、海外のスタートアップによって技術化されているという事実です",
+    "url": "https://note.com/hoho_ayumiho/n/nc4bff2684047",
+    "pass": 3
+   },
+   {
+    "quote": "もう一つは、日本の水産業こそ、こうした技術を活用する余地が大きいということです",
+    "url": "https://note.com/hoho_ayumiho/n/nc4bff2684047",
+    "pass": 3
+   },
+   {
+    "quote": "日本には、魚を扱う職人技、目利き、加工、流通、料理文化があります",
+    "url": "https://note.com/hoho_ayumiho/n/nc4bff2684047",
+    "pass": 3
+   },
+   {
+    "quote": "日本の伝統技術は、守るだけでなく、再設計し、世界に展開できる資産です",
+    "url": "https://note.com/hoho_ayumiho/n/nc4bff2684047",
+    "pass": 3
+   },
+   {
+    "quote": "日本の食文化が、世界のテクノロジー産業の中で新しい価値を持ち始めていることを示す出来事です",
+    "url": "https://note.com/hoho_ayumiho/n/nc4bff2684047",
+    "pass": 3
+   },
+   {
+    "quote": "この技術の核心は、日本の伝統的な「活け締め」技術を自動化したものであり、魚の脳を正確に突き、血抜きを行うことです",
+    "url": "https://innovatopia.jp/robot/robot-news/24378/",
+    "pass": 3
+   },
+   {
+    "quote": "日本では明治時代ごろから行われており、近年になって、インターネットの発達と共に広く知れ渡り始めた技術で、従来の方法よりも魚の鮮度を長持ちさせ、死後硬直を減らし、旨味を引き出すとされています",
+    "url": "https://innovatopia.jp/robot/robot-news/24378/",
+    "pass": 3
+   },
+   {
+    "quote": "「ビジネスの組み方賢すぎる」――日本の「活け締め」を自動化するAIロボ、米国で鮮魚の寿命を2倍に – shiritomo",
+    "url": "https://hashout.jp/ai/13984/",
+    "pass": 3
+   },
+   {
+    "quote": "やっていることは、日本の漁師なら誰でも知っている「活け締め」です",
+    "url": "https://hashout.jp/ai/13984/",
+    "pass": 3
+   },
+   {
+    "quote": "– 米Shinkei Systemsが、日本の「活け締め」を自動化するロボット「Poseidon」を開発し、漁船への導入を進めています",
+    "url": "https://hashout.jp/ai/13984/",
+    "pass": 3
+   },
+   {
+    "quote": "– ヤマトホールディングスも2025年6月に出資しており、日本企業も関わる水産×AIの動きになっています",
+    "url": "https://hashout.jp/ai/13984/",
+    "pass": 3
+   },
+   {
+    "quote": "日本で古くから行われてきた「活け締め」そのものを、人の手ではなく機械で再現する発想です",
+    "url": "https://hashout.jp/ai/13984/",
+    "pass": 3
+   },
+   {
+    "quote": "「Shinkei」という名前で、何世紀も続く日本の技術を現代化している",
+    "url": "https://hashout.jp/ai/13984/",
+    "pass": 3
+   },
+   {
+    "quote": "it's called Shinkei and it modernizes a centuries-old Japanese technique",
+    "url": "https://hashout.jp/ai/13984/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語のXでも、この仕組みに驚く声が上がりました",
+    "url": "https://hashout.jp/ai/13984/",
+    "pass": 3
+   },
+   {
+    "quote": "日本で言う「活け締め」をAIロボで自動化したらしいんだが、ビジネスの組み方賢すぎる……",
+    "url": "https://hashout.jp/ai/13984/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の漁師が「活け締め」を重んじてきたのはこのためで、脳を即座に処理して暴れを止めることで、鮮度と風味を長く保てるのです",
+    "url": "https://hashout.jp/ai/13984/",
+    "pass": 3
+   },
+   {
+    "quote": "もうひとつは、日本発の伝統技術が海外で再評価され、逆輸入のように日本企業の出資を呼び込んだという流れです",
+    "url": "https://hashout.jp/ai/13984/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の業界に「海外でAI化されたら化けそうな日本の伝統的なノウハウ」がないか、棚卸ししてみる価値があるかもしれません",
+    "url": "https://hashout.jp/ai/13984/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の「活け締め」という伝統技術を、ピーター・ティール氏も出資するスタートアップがAIロボットで再現し、米国の水産流通を変えようとしています",
+    "url": "https://hashout.jp/ai/13984/",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマトホールディングスも出資するなど、日本企業にとっても他人事ではない動きになっているようです",
+    "url": "https://hashout.jp/ai/13984/",
+    "pass": 3
+   },
+   {
+    "quote": "魚の「活け締め」をAIで ヤマトHD、鮮度維持へ米新興に出資（日本経済新聞）",
+    "url": "https://hashout.jp/ai/13984/",
+    "pass": 3
+   },
+   {
+    "quote": ", Japan",
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "pass": 3
+   },
+   {
+    "quote": "was a Japanese Buddhist priest and poet (",
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "pass": 3
+   },
+   {
+    "quote": ". His poems are based on the Japanese aesthetic ideal called",
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "pass": 3
+   },
+   {
+    "quote": "Japan–U.S. Friendship Commission Prize for the Translation of Japanese Literature",
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "pass": 3
+   },
+   {
+    "quote": "Traditional Japanese Poetry",
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "pass": 3
+   },
+   {
+    "quote": "Kleines Lexikon der Japanologie. Zur Kulturgeschichte Japans",
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "pass": 3
+   },
+   {
+    "quote": "Artistic Detachment in Japan and the West: Psychic Distance in Comparative Aesthetics",
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese male writers",
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Buddhist clergy",
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "pass": 3
+   },
+   {
+    "quote": "Articles containing Japanese-language text",
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "pass": 3
+   },
+   {
+    "quote": "CS1 Japanese-language sources (ja)",
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "pass": 3
+   },
+   {
+    "quote": "Robot mimics a Japanese method for fresher fish.",
+    "url": "https://labusinessjournal.com/technology/seafood-startup-shinkei-lands-at-whole-foods/",
+    "pass": 3
+   },
+   {
+    "quote": "While the salmon cuts may seem indistinguishable on the shelves, Seremoni’s were sourced using a proprietary robot inspired by Japanese fishing practices.",
+    "url": "https://labusinessjournal.com/technology/seafood-startup-shinkei-lands-at-whole-foods/",
+    "pass": 3
+   },
+   {
+    "quote": "On Wednesday, Shinkei Systems added Whole Foods to its growing roster of retailers across the U.S. and Japan, which span local specialty seafood markets to a",
+    "url": "https://labusinessjournal.com/technology/seafood-startup-shinkei-lands-at-whole-foods/",
+    "pass": 3
+   },
+   {
+    "quote": "that automates the “ike jime” process of slaughter – a a technique used by Japanese fishermen ensure high-quality fish.",
+    "url": "https://www.seafoodsource.com/news/processing-equipment/shinkei-systems-purchases-processing-plant-in-washington-to-expand-supply-chain",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Sell to Michelin-starred restaurants, not commodity bins.",
+    "url": "https://shinkei.systems/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Plan menus confidently, reduce waste, and turn spoilage into revenue.",
+    "url": "https://shinkei.systems/partners",
+    "pass": 1
+   },
+   {
+    "quote": "アンソロピック、評価額2兆ドル観測から1.4兆ドルへ下げてIPOへ――事前取引はすでに2割超上回る",
+    "url": "https://hashout.jp/ai/13984/",
+    "pass": 3
+   },
+   {
+    "quote": ". Harrassowitz. 1995. p.",
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei Systems has acquired a 16,000-square-foot processing plant in Tacoma, Washington, U.S.A., more than doubling its total footprint.",
+    "url": "https://www.seafoodsource.com/news/processing-equipment/shinkei-systems-purchases-processing-plant-in-washington-to-expand-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "Khawaja said that it was vital for the company to move quickly on gaining control of its entire supply chain, as its business philosophy is oriented around turning “Seremoni Grade” into a known label for high quality. By handing off part of its processing to other companies, Shinkei lost control over ensuring that quality.",
+    "url": "https://www.seafoodsource.com/news/processing-equipment/shinkei-systems-purchases-processing-plant-in-washington-to-expand-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "The facility is expected to be fully operational this spring with a core team of more than 50 employees, with additional hiring planned during peak fishing seasons in the years ahead.",
+    "url": "https://roboticsandautomationnews.com/2026/03/11/robotic-seafood-company-shinkei-systems-acquires-first-processing-plant-to-scale-nationwide/99505/",
+    "pass": 3
+   },
+   {
+    "quote": "This facility will also pilot NERA, the company’s next-generation quality control system. The platform analyzes each fish in real-time, translating biological markers into objective quality assessments and shelf-life projections. Shinkei uses NERA’s insights to guide distribution decisions and ensure every portion arrives at peak freshness.",
+    "url": "https://roboticsandautomationnews.com/2026/03/11/robotic-seafood-company-shinkei-systems-acquires-first-processing-plant-to-scale-nationwide/99505/",
+    "pass": 3
+   },
+   {
+    "quote": "The Seremoni Grade Plant was acquired from Fathom Seafood, a well-respected seafood processor in the Seattle area.",
+    "url": "https://roboticsandautomationnews.com/2026/03/11/robotic-seafood-company-shinkei-systems-acquires-first-processing-plant-to-scale-nationwide/99505/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/494269-39",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei has 69 total employees.",
+    "url": "https://pitchbook.com/profiles/company/494269-39",
+    "pass": 3
+   },
+   {
+    "quote": "What is Shinkei’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/494269-39",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Shinkei is",
+    "url": "https://pitchbook.com/profiles/company/494269-39",
+    "pass": 3
+   },
+   {
+    "quote": "nasdaqprivatemarket.com/company/shinkei-systems",
+    "url": "https://startupintros.com/orgs/shinkei-systems",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Shinkei Systems：魚の活け締めをAIで自動化するのではなく、水産業の... — 3 days ago · Shinkei Systemsは、米国のシーフードロボティクス企業で、日本の伝統的な活け締め（ike jime）をAI・ロボットで自動化し、漁船上で魚を高品質に処理する事業を展開しています。 以下は主要な歴史です。 [foodnavigator-usa] [shinkei]",
+    "url": "https://note.com/dopingconsomme/n/nab9e8ce1a6d3",
+    "pass": 3
+   },
+   {
+    "quote": "活け締めをAIロボットで自動化──Shinkei Systemsが示す水産業の新しい... — Jun 21, 2026 · Shinkei Systemsの事例は、日本にとって二つの意味があります。 一つは、日本発の食文化や職人技が、海外のスタートアップによって技術化されているという事実です。 もう一つは、日本の水産業こそ、こうした技術を活用する余地が大きいということです。",
+    "url": "https://note.com/hoho_ayumiho/n/nc4bff2684047",
+    "pass": 3
+   },
+   {
+    "quote": "魚収穫の未来を変えるShinkeiの技術、人道的かつ品質保持の自動化が海... — May 1, 2024 · Shinkei Systemsの技術は、 日本の伝統的な「活け締め」技術を自動化 したもので、魚の脳を正確に突き、血抜きを行う。 2022年には、Shinkei Systemsは最初のプロトタイプを船舶に配備し、海洋環境でのテストを開始した。",
+    "url": "https://innovatopia.jp/robot/robot-news/24378/",
+    "pass": 3
+   },
+   {
+    "quote": "「ビジネスの組み方賢すぎる」――日本の「活け締め」を自動化するAIロ... — 3 days ago · 先に結論をまとめると： – 米Shinkei Systemsが、日本の「活け締め」を自動化するロボット「Poseidon」を開発し、漁船への導入を進めています – 通常5〜7日ほどの魚の鮮度保持期間が、Poseidon処理で12〜14日まで延びる と報告されています",
+    "url": "https://hashout.jp/ai/13984/",
+    "pass": 3
+   },
+   {
+    "quote": "冷蔵庫サイズのAIロボット「ポセイドン」が日本の職人技である活け締... — 3 days ago · まとめ Shinkei Systemsは、日本の職人技である活け締めをAIロボット「ポセイドン」で約6秒に自動化し、鮮度を最大3倍に延ばした魚を無償提供と高価買い取りの仕組みで集め、自ら直販する水産企業へと姿を変えました。",
+    "url": "https://nikkeimatome.com/?p=82115",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei - Wikipedia — Shinkei was born in Taisha, Kii Province (now Wakayama, Wakayama Prefecture) in 1406. He was a Buddhist priest at an early age and quickly rose to the rank of Daisōzu (大僧都, Senior Director). [2][1] He regarded poetry as the result of a religious way of life (shugyō). [3] For more than thirty years he remained a student with the poet Shōtetsu. His poems are based on the Japane",
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "pass": 3
+   },
+   {
+    "quote": "Artisanal Quality at Industrial Scale | Shinkei Systems — Taste is a proxy for nutrition. For centuries, Japan has developed artisanal food practices that have compounded into a national advantage — the world's 3rd highest life expectancy and an average IQ 10 points higher than the US. We believe America can once again lead in food innovation, this time by introducing craft and quality at scale.",
+    "url": "https://shinkei.systems/",
+    "pass": 3
+   },
+   {
+    "quote": "About | Shinkei Systems — Shinkei uses robotics to build a world where fishermen thrive, supply chains are transparent, and American food systems restore national vitality.",
+    "url": "https://shinkei.systems/about",
+    "pass": 3
+   },
+   {
+    "quote": "Seafood Startup Shinkei Lands at Whole Foods — Sep 14, 2026 · Robot mimics a Japanese method for fresher fish. On Wednesday, Shinkei Systems added Whole Foods to its growing roster of retailers across the U.S. and Japan, which span local specialty seafood ...",
+    "url": "https://labusinessjournal.com/technology/seafood-startup-shinkei-lands-at-whole-foods/",
+    "pass": 3
+   },
+   {
+    "quote": "This robot uses Japanese tradition and AI for sashimi that ... — Jul 29, 2025 · El Segundo based Shinkei Systems Corp. uses robots and AI to automate ikejime, a centuries-old Japanese fish processing technique for premium seafood.",
+    "url": "https://www.latimes.com/business/story/2025-07-29/shinkei-systems",
+    "pass": 3
+   },
+   {
+    "quote": "Artisanal Quality at Industrial Scale | Shinkei Systems — Artisanal quality at industrial scale. Shinkei uses robotics to build a world where fishermen thrive, supply chains are transparent, and American food systems restore national vitality.",
+    "url": "https://shinkei.systems/",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei Systems purchases processing plant in Washington to ... — Mar 11, 2026 · The purchase comes just over half a year after the company more than doubled the size of its headquarters in California to increase manufacturing of its processing equipment. Shinkei Systems has developed a processing system that automates the “ike jime” process of slaughter – a a technique used by Japanese fishermen ",
+    "url": "https://www.seafoodsource.com/news/processing-equipment/shinkei-systems-purchases-processing-plant-in-washington-to-expand-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei Systems opens seafood processing plant to scale ... — Mar 11, 2026 · Seafood robotics company Shinkei Systems has acquired a 16,000-square-foot processing plant in Tacoma, Washington to scale production of its Seremoni Grade fish and expand nationwide.",
+    "url": "https://roboticsandautomationnews.com/2026/03/11/robotic-seafood-company-shinkei-systems-acquires-first-processing-plant-to-scale-nationwide/99505/",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei 2026 Company Profile: Valuation, Funding & Investors ...Shinkei – Financial Footprint & Growth Factors – 2026Shinkei: funding (Series A), contacts · AdamleadShinkei Systems: Funding, Team & Investors | Startup IntrosShinkei — investors & funding | gritt.ioShinkei Systems - 2026 Company Profile, Team & Funding - TracxnShinkei Systems — Funding, Investors & Team | Seedtable — Shinkei is a Pr",
+    "url": "https://pitchbook.com/profiles/company/494269-39",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei – Financial Footprint & Growth Factors – 2026 — Shinkei’s growth journey features estimated revenue of $2.9M, team of around 20+ employees in El Segundo, as it continues to evolve and innovate.",
+    "url": "https://compworth.com/company/shinkei",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei: funding (Series A), contacts · Adamlead — Shinkei is a 11-50-employee Fisheries company based in El Segundo, California. Founded in 2021. It is a Y Combinator company (W22). Has raised $22M, most recently at the Series A stage. Its most recent round on file is dated Jun 12, 2025. Adamlead has 1 person on file at Shinkei, 1 with a verified email.",
+    "url": "https://adamlead.com/company/shinkei",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei Systems: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Who founded Shinkei Systems? Shinkei Systems was founded in 2021 by Saif Khawaja (Founder). How much funding has Shinkei Systems raised? Shinkei Systems has raised $7.3M in total across 2 funding rounds. Who are Shinkei Systems's investors? Shinkei Systems's investors include Cantos, 8VC, Carya Venture Partners, Humba Ven",
+    "url": "https://startupintros.com/orgs/shinkei-systems",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei — investors & funding | gritt.io — 📍 El Segundo, United States 🗓 Founded 2021 👥 65 employees 💰 Last funded Jun 2026 Fisheries 🌐 shinkei.systems Website LinkedIn",
+    "url": "https://www.gritt.io/company/shinkeisystems/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": ". His poems are based on the Japanese aesthetic ideal called",
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/494269-39",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Shinkei Systems：魚の活け締めをAIで自動化するのではなく、水産業の... 3 days ago · Shinkei Systems：魚の活け締めをAIで自動化するのではなく、水産業の利益構造を再設計する #士08 #2021ShinkeiSystemsとAI活け締めをロボ_令和企業史ざっくり解説",
+    "url": "https://note.com/dopingconsomme/n/nab9e8ce1a6d3",
+    "pass": 3
+   },
+   {
+    "quote": "[AI News Commentary] Japan's \"Ikejime\" is starting to change ... Jul 3, 2026 · The concept Shinkei Systems uses is the Japanese technique of \"Ikejime.\" It is a method of dispatching fish often used in high-end sushi restaurants, where the brain and nerves are processed before the fish can struggle, immediately delaying post-mortem changes.",
+    "url": "https://note.com/100syousetuka/n/n590fe5458a68?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why Shinkei's Ikejime Robots Are Placed on Fishing Boats for ... Shinkei installs the machines on fishing boats for free. It retains ownership. It is a zero-cost lease. As of July–August 2025, four units are operating on boats in the Pacific and Atlantic, with ten more expected to be added. How does a company that doesn't sell its machines make money?",
+    "url": "https://note.com/right_knot2175/n/nb623fd8452bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Actually Scary? The Origin of the Name 'Shinkei Suijaku ... After dinner, my son taking out the playing cards has become a staple in our home before we know it. Before turning on the TV, we first shuffle the cards. Whether we win or lose, we laugh out loud and find ourselves absorbed in it as parent and child. By the way, this name 'Shinkei Suijaku' (Nervous Breakdown). Don't you think it has a sl",
+    "url": "https://note.com/great_parrot513/n/nf3fe2d1dbbc2?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Shinkei Systems：魚の活け締めをAIで自動化するのではなく、水産業の利益構造を再設計する #士08 #2021ShinkeiSystemsとAI活け締めをロボ_令和企業史ざっくり解説｜DopingConsomme",
+    "url": "https://note.com/dopingconsomme/n/nab9e8ce1a6d3",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei Systems：魚の活け締めをAIで自動化するのではなく、水産業の利益構造を再設計する #士08 #2021ShinkeiSystemsとAI活け締めをロボ_令和企業史ざっくり解説",
+    "url": "https://note.com/dopingconsomme/n/nab9e8ce1a6d3",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei Systems：魚の活け締めをAIで自動化するのではなく、水産業の利益構造を再設計する",
+    "url": "https://note.com/dopingconsomme/n/nab9e8ce1a6d3",
+    "pass": 3
+   },
+   {
+    "quote": "この事例の核心は、ロボットの性能よりも技術によって生まれる付加価値を、誰が回収するかにあります。",
+    "url": "https://note.com/dopingconsomme/n/nab9e8ce1a6d3",
+    "pass": 3
+   },
+   {
+    "quote": "会社は米国のスタートアップ Shinkei Systems。ロボットの名称はPoseidon、販売ブランド・流通事業はSeremoniです。",
+    "url": "https://note.com/dopingconsomme/n/nab9e8ce1a6d3",
+    "pass": 3
+   },
+   {
+    "quote": "投稿の大筋は実際の企業モデルと一致しています。ただし、いくつかの説明は補正した方がよいです。",
+    "url": "https://note.com/dopingconsomme/n/nab9e8ce1a6d3",
+    "pass": 3
+   },
+   {
+    "quote": "This robot uses Japanese tradition and AI for sashimi that lasts longer and is more humane - Los Angeles Times",
+    "url": "https://note.com/dopingconsomme/n/nab9e8ce1a6d3",
+    "pass": 3
+   },
+   {
+    "quote": "BM3D‐Based Optical Flow Tracking for Enhanced Visual Simultaneous Localization and Mapping Systems in Mobile Robotics - RobotToday",
+    "url": "https://note.com/dopingconsomme/n/nab9e8ce1a6d3",
+    "pass": 3
+   },
+   {
+    "quote": "【AIニュース解説】 日本の「活け締め」が、米国の魚ビジネスを変え始めた｜うさとものひとりごと",
+    "url": "https://note.com/100syousetuka/n/n590fe5458a68?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【AIニュース解説】 日本の「活け締め」が、米国の魚ビジネスを変え始めた",
+    "url": "https://note.com/100syousetuka/n/n590fe5458a68?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "魚は、海から引き上げればそのまま商品になるわけではない。むしろ勝負は、そこから始まる。",
+    "url": "https://note.com/100syousetuka/n/n590fe5458a68?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "網にかかった魚は、船の上でしばらく暴れる。氷に入れられても、すぐに死ぬわけではない。その間に魚の体にはストレスがかかり、身の状態が悪くなる。味も落ちるし、日持ちもしにくくなる。せっかく獲った魚なのに、店に並ぶ前に品質が落ちたり、廃棄されたりする。",
+    "url": "https://note.com/100syousetuka/n/n590fe5458a68?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei Systemsという米国のスタートアップが見ているのは、まさにこの部分だ。魚をたくさん捕る技術ではない。捕った後の魚を、いかに良い状態で食卓まで届けるか。そこにロボットとAIを入れようとしている。",
+    "url": "https://note.com/100syousetuka/n/n590fe5458a68?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei Systemsが使っている発想は、日本の「活け締め」だ。高級寿司店などでよく使われる魚の締め方で、魚を暴れさせる前に脳や神経を処理し、すぐに死後の変化を遅らせる。魚の身に余計な負担をかけず、鮮度や食感を保ちやすくする技術だ。",
+    "url": "https://note.com/100syousetuka/n/n590fe5458a68?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、活け締めは簡単ではない。魚の種類や大きさによって位置も違うし、手早く正確に処理するには経験がいる。日本では職人技として広がってきたが、米国の大きな漁業現場にそのまま持ち込むのは難しい。",
+    "url": "https://note.com/100syousetuka/n/n590fe5458a68?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "そこで出てくるのが、Shinkei Systemsの「Poseidon」というロボットだ。魚を機械に入れると、カメラとAIが魚の種類や形を見て、処理する場所を判断する。人の手でやっていた活け締めを、船の上で自動化する。会社側は、数秒単位で処理でき、魚の日持ちを従来の最大3倍に伸ばせるとしている。",
+    "url": "https://note.com/100syousetuka/n/n590fe5458a68?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why Shinkei's Ikejime Robots Are Placed on Fishing Boats for Free｜構造解体新書",
+    "url": "https://note.com/right_knot2175/n/nb623fd8452bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why Shinkei's Ikejime Robots Are Placed on Fishing Boats for Free",
+    "url": "https://note.com/right_knot2175/n/nb623fd8452bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Pierce the fish's brain with a needle, remove the nerves, and cut the gills. \"Poseidon,\" developed by the California startup Shinkei, uses computer vision to identify the fish species and its anatomical position, then completes this sequence in about seven seconds. Craftsmanship is being replaced by AI. Everyone who hears this imagines the same picture: a company that makes advanced machines and p",
+    "url": "https://note.com/right_knot2175/n/nb623fd8452bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei installs the machines on fishing boats for free. It retains ownership. It is a zero-cost lease. As of July–August 2025, four units are operating on boats in the Pacific and Atlantic, with ten more expected to be added. How does a company that doesn't sell its machines make money?",
+    "url": "https://note.com/right_knot2175/n/nb623fd8452bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What they are selling is the fish.",
+    "url": "https://note.com/right_knot2175/n/nb623fd8452bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The answer is simple: fish. Shinkei buys the fish caught by the boats equipped with its machines as processed products at a premium price. And it does so exclusively. The purchased fish are processed, distributed, and sold by the company itself. Its consumer-facing brand is \"Seremoni,\" and it supplies products to Michelin-starred restaurants and others. An internal investor memo dated October 28, ",
+    "url": "https://note.com/right_knot2175/n/nb623fd8452bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In other words, Shinkei is not a machine manufacturer. It is a fish sourcing, processing, and sales company that places robots at the point of sourcing. The robot is not the product; it is the key to the sourcing point. At this point, the picture from the beginning falls apart. The company that makes money by selling expensive machines is not here.",
+    "url": "https://note.com/right_knot2175/n/nb623fd8452bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The term \"AI-powered Ikejime\" is also just on the surface.",
+    "url": "https://note.com/right_knot2175/n/nb623fd8452bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Actually Scary? The Origin of the Name 'Shinkei Suijaku' (Nervous Breakdown)｜かすみん",
+    "url": "https://note.com/great_parrot513/n/nf3fe2d1dbbc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Actually Scary? The Origin of the Name 'Shinkei Suijaku' (Nervous Breakdown)",
+    "url": "https://note.com/great_parrot513/n/nf3fe2d1dbbc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Why 'Nervous Breakdown'?] A Parent-Child Game You'll Want to Play More Once You Know the Origin of the Name",
+    "url": "https://note.com/great_parrot513/n/nf3fe2d1dbbc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Hey, let's play Concentration!\"",
+    "url": "https://note.com/great_parrot513/n/nf3fe2d1dbbc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "After dinner, my son taking out the playing cards has become a staple in our home before we know it.",
+    "url": "https://note.com/great_parrot513/n/nf3fe2d1dbbc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Before turning on the TV, we first shuffle the cards.",
+    "url": "https://note.com/great_parrot513/n/nf3fe2d1dbbc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Whether we win or lose, we laugh out loud and find ourselves absorbed in it as parent and child.",
+    "url": "https://note.com/great_parrot513/n/nf3fe2d1dbbc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "By the way, this name 'Shinkei Suijaku' (Nervous Breakdown).",
+    "url": "https://note.com/great_parrot513/n/nf3fe2d1dbbc2?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Shinkei (@ShinkeiSystems) / X Meet PSDN-S, Shinkei’s newest harvesting robot, created to bring Seremoni Grade™ handling to Alaska’s wild salmon industry. PSDN-S was created to make our harvesting technology more practical for the smaller boats used throughout Alaska’s salmon fisheries.",
+    "url": "https://x.com/ShinkeiSystems",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei (@Shinkei18) / Posts / X Shinkei (@Shinkei18) - Posts - | X (formerly Twitter) 💬1 🔄113 🤍701 📊36791 📎 🔁Reposted by Shinkei MyAnimeList myanimelist Apr 27 News: \"Omae Gotoki ga Maou ni Kateru to Omouna\" (Roll Over and Die) adventure fantasy light novel gets TV anime @gcnovels #おまごとアニメ化決定 listani.me/omaegotoki 💬1 🔄22 🤍179 📊9737 📎 🔁Reposted by Shinkei Azur Lane ...",
+    "url": "https://x.com/Shinkei18",
+    "pass": 3
+   },
+   {
+    "quote": "♥ Shinkei Kazahaya ♥ (@Shinkeii) / X Time to cheers up! Saint Seiya: TLC #134 is out!! *-* ♥ Shinkei Kazahaya ♥ @Shinkeii Oct 1, 2009 Rest in peace, Yoshito Usui, you'll live forever in bottom of our hearts T.T ♥ Shinkei Kazahaya ♥ @Shinkeii Sep 30, 2009",
+    "url": "https://x.com/Shinkeii",
+    "pass": 3
+   },
+   {
+    "quote": "shinkei (@shinkei8) / X 3 followers · 239 following. Joined Jul 2017. See the latest conversations with @shinkei8",
+    "url": "https://x.com/shinkei8",
+    "pass": 3
+   },
+   {
+    "quote": "shinkei on X: \"#おまえらのフルアーマーも見せろ下さい 個人的に一番... Aug 23, 2026 · #おまえらのフルアーマーも見せろ下さい 個人的に一番気に入ってます",
+    "url": "https://x.com/sinkeistts808/status/2091526711183909043",
+    "pass": 3
+   },
+   {
+    "quote": "shinkei on X: \"流石にもう少し綺麗にするけど、初めてにしてはいい感... Sep 13, 2026 · 流石にもう少し綺麗にするけど、初めてにしてはいい感じなんでないか？",
+    "url": "https://x.com/sinkeistts808/status/2099034747611852853",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Shinkei | LinkedIn Shinkei | 8,066 followers on LinkedIn. Reshoring American Seafood. | Fishing automation for sustainability and deliciousness at scale.",
+    "url": "https://www.linkedin.com/company/shinkeisystems",
+    "pass": 3
+   },
+   {
+    "quote": "SHINKEI Therapeutics - LinkedIn SHINKEI is a clinical stage CNS (Central Nervous System) disorders focused pharmaceutical company using the 505 (b)2 regulatory strategy to repurpose existing pharmaceutical products for faster ...",
+    "url": "https://www.linkedin.com/company/shinkei-therapeutics",
+    "pass": 3
+   },
+   {
+    "quote": "Shinkei: Jobs | LinkedIn Shinkei | 7,952 followers on LinkedIn. Reshoring American Seafood. | Fishing automation for sustainability and deliciousness at scale.",
+    "url": "https://www.linkedin.com/company/shinkeisystems/jobs/",
+    "pass": 3
+   },
+   {
+    "quote": "Regional Sales Director (REMOTE) at Shinkei - LinkedIn Apply for Regional Sales Director (REMOTE) at Shinkei in United States. Full-time Director role. See responsibilities, qualifications, and similar jobs on LinkedIn.",
+    "url": "https://www.linkedin.com/jobs/view/regional-sales-director-remote-at-shinkei-4468313619",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Shinkei Japanese Restaurant | Las Piñas - Facebook Shinkei Japanese Restaurant, Las Piñas. 325 likes · 114 talking about this. Everyday Japanese",
+    "url": "https://www.facebook.com/ShinkeiPH/",
+    "pass": 3
+   },
+   {
+    "quote": "ShinKei Profiles - Facebook View the profiles of people named ShinKei. Join Facebook to connect with ShinKei and others you may know. Facebook gives people the power to share and...",
+    "url": "https://www.facebook.com/public/ShinKei/",
+    "pass": 3
+   },
+   {
+    "quote": "Your everyday Japanese... - Shinkei Japanese Restaurant ... Feb 12, 2026 · Your everyday Japanese cravings start here. Freshly made sushi. Flavorful rice bowls. Comfort food you’ll love. 殺 This is your sign to order Japanese today. Go ahead. You deserve it.",
+    "url": "https://www.facebook.com/ShinkeiPH/posts/your-everyday-japanese-cravings-start-here-freshly-made-sushi-flavorful-rice-bow/122108361315223259/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://shinkei.systems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shinkei.systems/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shinkei.systems/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/dopingconsomme/n/nab9e8ce1a6d3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hoho_ayumiho/n/nc4bff2684047",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innovatopia.jp/robot/robot-news/24378/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hashout.jp/ai/13984/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Shinkei",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://labusinessjournal.com/technology/seafood-startup-shinkei-lands-at-whole-foods/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seafoodsource.com/news/processing-equipment/shinkei-systems-purchases-processing-plant-in-washington-to-expand-supply-chain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboticsandautomationnews.com/2026/03/11/robotic-seafood-company-shinkei-systems-acquires-first-processing-plant-to-scale-nationwide/99505/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/494269-39",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/shinkei",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://adamlead.com/company/shinkei",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/shinkei-systems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dopingconsomme/n/nab9e8ce1a6d3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/100syousetuka/n/n590fe5458a68?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/right_knot2175/n/nb623fd8452bc?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/great_parrot513/n/nf3fe2d1dbbc2?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ShinkeiSystems",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Shinkei18",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Shinkeii",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/shinkei8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/shinkeisystems",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/shinkei-therapeutics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/shinkeisystems/jobs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/view/regional-sales-director-remote-at-shinkei-4468313619",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ShinkeiPH/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/public/ShinKei/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ShinkeiPH/posts/your-everyday-japanese-cravings-start-here-freshly-made-sushi-flavorful-rice-bow/122108361315223259/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sinkeistts808/status/2091526711183909043",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sinkeistts808/status/2099034747611852853",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Shinkei 日本 導入",
+   "results": [
+    "https://note.com/dopingconsomme/n/nab9e8ce1a6d3",
+    "https://note.com/hoho_ayumiho/n/nc4bff2684047",
+    "https://innovatopia.jp/robot/robot-news/24378/",
+    "https://hashout.jp/ai/13984/",
+    "https://nikkeimatome.com/?p=82115",
+    "https://times.gesher.co.jp/article/sell-fish-not-robots-ikejime-seafood-transformation",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/02994/062600010/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shinkei 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://www.shinei.me/office/",
+    "https://www.jetro.go.jp/invest/setting_up/section1/page1.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shinkei Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Shinkei",
+    "https://shinkei.systems/",
+    "https://shinkei.systems/about",
+    "https://labusinessjournal.com/technology/seafood-startup-shinkei-lands-at-whole-foods/",
+    "https://www.latimes.com/business/story/2025-07-29/shinkei-systems",
+    "https://grokipedia.com/page/shinkei",
+    "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shinkei manufacturing customer case study",
+   "results": [
+    "https://shinkei.systems/",
+    "https://shinkei.systems/about",
+    "https://www.seafoodsource.com/news/processing-equipment/shinkei-systems-purchases-processing-plant-in-washington-to-expand-supply-chain",
+    "https://roboticsandautomationnews.com/2026/03/11/robotic-seafood-company-shinkei-systems-acquires-first-processing-plant-to-scale-nationwide/99505/",
+    "https://www.latimes.com/business/story/2025-07-29/shinkei-systems",
+    "https://www.foodmanufacturing.com/facility/news/22962476/seafood-robotics-company-buys-washington-state-processing-plant",
+    "https://www.inc.com/joshua-christensen/your-sushi-could-be-better-this-company-wants-to-help/91271084"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shinkei white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shinkei founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/494269-39",
+    "https://compworth.com/company/shinkei",
+    "https://adamlead.com/company/shinkei",
+    "https://startupintros.com/orgs/shinkei-systems",
+    "https://www.gritt.io/company/shinkeisystems/",
+    "https://tracxn.com/d/companies/shinkeisystems/__XkNU0wwZ_HQqwlfJ15tOnlae9Axr1L3XNlMvTmg6FGg",
+    "https://seedtable.com/companies/shinkei-systems"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Shinkei",
+   "results": [
+    "https://note.com/dopingconsomme/n/nab9e8ce1a6d3",
+    "https://note.com/100syousetuka/n/n590fe5458a68?hl=en",
+    "https://note.com/right_knot2175/n/nb623fd8452bc?hl=en",
+    "https://note.com/great_parrot513/n/nf3fe2d1dbbc2?hl=en",
+    "https://note.com/lagless/n/n9fe0abc6f40e?hl=en",
+    "https://note.com/hoho_ayumiho/n/nc4bff2684047?hl=en",
+    "https://note.com/news_knowledge/n/ncb519a9b71ee?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Shinkei",
+   "results": [
+    "https://x.com/ShinkeiSystems",
+    "https://x.com/Shinkei18",
+    "https://x.com/Shinkeii",
+    "https://x.com/shinkei8",
+    "https://x.com/ShinkeiM",
+    "https://x.com/sinkeistts808/status/2097681366116884812",
+    "https://x.com/sinkeistts808/status/2110575962597609919"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Shinkei",
+   "results": [
+    "https://www.linkedin.com/company/shinkeisystems",
+    "https://www.linkedin.com/company/shinkei-therapeutics",
+    "https://www.linkedin.com/company/shinkeisystems/jobs/",
+    "https://www.linkedin.com/jobs/view/regional-sales-director-remote-at-shinkei-4468313619",
+    "https://www.linkedin.com/jobs/view/electrical-engineer-at-shinkei-4402170581",
+    "https://www.linkedin.com/in/reed-ginsberg-678712126",
+    "https://www.linkedin.com/jobs/view/strategy-and-operations-analyst-at-shinkei-4423070427"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Shinkei",
+   "results": [
+    "https://www.facebook.com/ShinkeiPH/",
+    "https://www.facebook.com/public/ShinKei/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/ShinkeiPH/posts/your-everyday-japanese-cravings-start-here-freshly-made-sushi-flavorful-rice-bow/122108361315223259/",
+    "https://www.facebook.com/ShinkeiKeiji/",
+    "https://www.facebook.com/shinkei.abra/",
+    "https://www.facebook.com/shinkei/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shinkei note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260121536475/",
+    "https://online.nikkei-cnbc.co.jp/vod/65433?first_visit=1",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shinkei X 投稿",
+   "results": [
+    "https://shinkei.systems/",
+    "https://x.com/sinkeistts808/status/2091526711183909043",
+    "https://x.com/sinkeistts808/status/2099034747611852853",
+    "https://vodlens.com/blog/shinkai-next-work-2026/",
+    "https://reaitimenews.com/entry/shinkai-next-movie-status-update-check",
+    "https://help.x.com/ja/using-x/mentions-and-replies",
+    "https://dojin.dmm.co.jp/help/twitter"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部37頁・検索12回）"
+ }
+}

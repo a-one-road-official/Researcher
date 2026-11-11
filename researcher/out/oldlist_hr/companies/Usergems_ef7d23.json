@@ -1,0 +1,1863 @@
+{
+ "name": "Usergems",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-11T06:16:48.631389+00:00",
+ "official_url": "https://www.usergems.com",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "Pricing transparency",
+    "value": "Published tiers starting at 3K/year Free to start with consumption credits based on usage",
+    "url": "https://pipeline.zoominfo.com/sales/usergems-review",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$22.4M",
+    "url": "https://getlatka.com/companies/usergems",
+    "pass": 3
+   },
+   {
+    "label": "3. Seed Round",
+    "value": "01-Jan-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/168680-80",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "01-Jan-2016  $120K  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/168680-80",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Combine your 1st-party data with real-world buying signals for a complete buyer intelligence. Prioritize in-market buyers and orchestrate sales and marketing through AI agents - directly in Claude and ChatGPT.",
+    "url": "https://www.usergems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ads and outbound in sync",
+    "url": "https://www.usergems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“We've tried many AI tools; UserGem is the only AI we trust. It's our most successful outbound program. \"",
+    "url": "https://www.usergems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FORMER SVP of Marketing",
+    "url": "https://www.usergems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "30+ native signals — job changes, contact-level intent, website visits, M&A, hiring, etc - and Research Agent to find any custom signals. Find and enrich missing accounts and contacts in one place. No more siloed tools or scattered tabs.",
+    "url": "https://www.usergems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "outreach and advertising",
+    "url": "https://www.usergems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sync audiences to advertising platforms, launch AI outbound, and even CRM updates in perfect sync. You can target your warmest buyers (and their buying groups) across every channel at the same time.",
+    "url": "https://www.usergems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build audiences and workflows, manage Research and Writing agents, capture signals, and more — just by prompting in Claude or ChatGPT. The UserGems MCP also acts guides you on best practices throughout the conversation.",
+    "url": "https://www.usergems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Growth Marketing Manager",
+    "url": "https://www.usergems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We protect your data wherever you are in the world.",
+    "url": "https://www.usergems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We ensure policies and processes comply with your requirements.",
+    "url": "https://www.usergems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise level security for the world's largest companies.",
+    "url": "https://www.usergems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "UserGems surfaces companies and buyers who are showing buying signals, then tells your sales and marketing teams who’s in-market now and what to do next.",
+    "url": "https://www.usergems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. We follow industry-standard security practices and data privacy rules. We treat customer data with strict confidentiality. Visit our Data Security page (https://www.usergems.com/data-security) and Trust Center (https://trust.usergems.com/)",
+    "url": "https://www.usergems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Teams with outbound, account-based, or multi-threaded sales and marketing — e.g. ABM marketers, SDRs, AEs, RevOps — benefit most, because they need precise buyer targeting and synchronized GTM actions.",
+    "url": "https://www.usergems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "UserGems works alongside most major CRMs (Salesforce, Hubspot, Dynamics), marketing automation (Hubspot, Marketo), sales engagement platforms (Outreach, Salesloft, Gong Engage), and advertising platforms (Linkedin, Meta, Google Ads)",
+    "url": "https://www.usergems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How Quickbase built a signal GTM engine with Gem-E: 5x leads, 3x pipeline, 2x closed-won",
+    "url": "https://www.usergems.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Docebo generates 54 enterprise opportunities in one quarter with Gem-E",
+    "url": "https://www.usergems.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Director of Marketing @ Emburse",
+    "url": "https://www.usergems.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade security and SOC 2 certified",
+    "url": "https://www.usergems.com/customers/hubspot",
+    "pass": 1
+   },
+   {
+    "quote": "Prioritize & target high-intent accounts",
+    "url": "https://www.usergems.com/customers/hubspot",
+    "pass": 1
+   },
+   {
+    "quote": "GTM insights and product updates, straight to your inbox",
+    "url": "https://www.usergems.com/customers/hubspot",
+    "pass": 1
+   },
+   {
+    "quote": "Copy-paste prompts to run campaigns in Claude or GPT",
+    "url": "https://www.usergems.com/customers/hubspot",
+    "pass": 1
+   },
+   {
+    "quote": "How Quickbase built a signal GTM engine with Gem-E: 5x leads, 3x pipeline, 2x closed-won",
+    "url": "https://www.usergems.com/customers/hubspot",
+    "pass": 1
+   },
+   {
+    "quote": "- Notify sales and marketing teams in real time",
+    "url": "https://www.usergems.com/product/buying-groups",
+    "pass": 1
+   },
+   {
+    "quote": "- Sync audiences for targeted advertising",
+    "url": "https://www.usergems.com/product/buying-groups",
+    "pass": 1
+   },
+   {
+    "quote": "Replace one-off campaigns with always-on programs that drive consistent pipeline.",
+    "url": "https://www.usergems.com/product/buying-groups",
+    "pass": 1
+   },
+   {
+    "quote": "A buying group is the set of people within a company who influence or make the purchasing decision for a solution. These stakeholders often include decision-makers, champions, influencers, and end users who collectively evaluate options before approving a purchase. In modern B2B deals, the average buying group can include 5–11 stakeholders.",
+    "url": "https://www.usergems.com/product/buying-groups",
+    "pass": 1
+   },
+   {
+    "quote": "Once buying group members are captured, Intelligent Workflows can: automatically create/enrich CRM contacts, notify sales and marketing teams, add members to sales sequences, and sync audiences for targeted advertising.",
+    "url": "https://www.usergems.com/product/buying-groups",
+    "pass": 1
+   },
+   {
+    "quote": "Miss 85% of job-change leads.",
+    "url": "https://www.usergems.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Reps spend 10 hours a week looking for qualified prospects & manual tasks.",
+    "url": "https://www.usergems.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "An always-on channel of qualified leads.",
+    "url": "https://www.usergems.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Leads are created directly in CRM & routed to relevant Outreach/Salesloft sequences.",
+    "url": "https://www.usergems.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "UserGems provides your team with sequence templates that have been tested and proven by 200+ companies. No need to reinvent the wheel.",
+    "url": "https://www.usergems.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "You'll reach your best buyer at the right time, and have more time to focus on prospecting instead of researching or data entry.",
+    "url": "https://www.usergems.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "\"If you believe in your product, UserGems should be part of your playbook. This channel has a 20% higher win rate than our typical win rate.\"",
+    "url": "https://www.usergems.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Enable sales and marketing to get ahead of competition",
+    "url": "https://www.usergems.com/solutions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "UserGems for Marketing",
+    "url": "https://www.usergems.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Miss 85% of qualified, warm leads.",
+    "url": "https://www.usergems.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "An additional channel of qualified leads, i.e. your previous customers at new company.",
+    "url": "https://www.usergems.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Because of historical build up, you'll also get a boost of thousands of leads in your 1st month.",
+    "url": "https://www.usergems.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Many ABM and intent programs fail because sales teams don't know who to reach out to within those accounts.",
+    "url": "https://www.usergems.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "UserGems updates your data every month – flagging old contacts, updating existing ones, and creating new ones. This also helps you achieve and maintain GDPR compliance.",
+    "url": "https://www.usergems.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Our technology to generate and verify email addresses results in less than 5% bounce rates, protecting your email deliverability and saving your team's time from going after wrong prospects.",
+    "url": "https://www.usergems.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Be more proactive and have automated insights of your accounts",
+    "url": "https://www.usergems.com/solutions/customer-success",
+    "pass": 1
+   },
+   {
+    "quote": "Surprised when a new executive joins and cancels the contract.",
+    "url": "https://www.usergems.com/solutions/customer-success",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent churn when your contacts change their jobs",
+    "url": "https://www.usergems.com/solutions/customer-success",
+    "pass": 1
+   },
+   {
+    "quote": "Get an alert when your champions leave or new executives joins your accounts. Set up automation to trigger “Churn prevention”, \"New exec\" playbooks.",
+    "url": "https://www.usergems.com/solutions/customer-success",
+    "pass": 1
+   },
+   {
+    "quote": "Increase CS' collaboration with sales to identify where the champion moves to, opening doors at new prospect accounts.",
+    "url": "https://www.usergems.com/solutions/customer-success",
+    "pass": 1
+   },
+   {
+    "quote": "UserGems is the future of outbound sales and marketing. We use AI to help companies identify the warmest paths to win more deals.",
+    "url": "https://www.usergems.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our decisions and priorities are defined by what helps our customers win.",
+    "url": "https://www.usergems.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Professional development",
+    "url": "https://www.usergems.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Account Development Representative II",
+    "url": "https://www.usergems.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“I'm amazed everyday how talented, driven, and collaborative this team is. Amazon's bar raiser has not seen this type of caliber :) Our product is amazing and we actually use it ourselves to generate new pipeline.",
+    "url": "https://www.usergems.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Marketing Officer",
+    "url": "https://www.usergems.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "with AI research, enrichment, and personalization, Mimecast is now driving pipeline faster, more efficiently, and with better precision.",
+    "url": "https://www.usergems.com/customers/mimecast-2025",
+    "pass": 1
+   },
+   {
+    "quote": "“Our reps were spending so much time on research and manual work,” explains Tammy Bernberg, Growth Marketing Manager at Mimecast.",
+    "url": "https://www.usergems.com/customers/mimecast-2025",
+    "pass": 1
+   },
+   {
+    "quote": "Instead of “spray and pray” emails, Gem-E generates tailored messaging aligned to a prospect’s challenges.",
+    "url": "https://www.usergems.com/customers/mimecast-2025",
+    "pass": 1
+   },
+   {
+    "quote": "Mimecast uses multiple UserGems' native signals (past champions, new hires, M&A activity, multithreading). They also combine their existing intent data from 6sense with the UserGems platform and Gem-E. This allows reps to prioritize in-market accounts",
+    "url": "https://www.usergems.com/customers/mimecast-2025",
+    "pass": 1
+   },
+   {
+    "quote": "\"By layering buying signals, we’ve enhanced our targeting. For example, identifying new leadership hires at 6QAs has led to early meetings, allowing us to connect with decision-makers within their first three months at engaged accounts. This automation helps companies showing intent for Mimecast solutions to better protect their organizations.\"",
+    "url": "https://www.usergems.com/customers/mimecast-2025",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by the best revenue teams.",
+    "url": "https://www.usergems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the best GTM teams",
+    "url": "https://www.usergems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One of their biggest opportunities came from UserGems & Gem-E. It was a mid-market manufacturing company that recently hired a Vice President. Tammy shared. “Gem-E picked up this signal, found the buyer, added them to an automated cadence and sent. So our BDR got the meeting booked after the second email.”",
+    "url": "https://www.usergems.com/customers/mimecast-2025",
+    "pass": 1
+   },
+   {
+    "quote": "Advertising (AdTech), AgTech (FarmTech), Artificial Intelligence & Machine Learning (AI/ML), AudioTech, Big Data & Analytics, ClimateTech & CleanTech, Cryptocurrency / Blockchain, Cybersecurity, Healthcare, E-Commerce, EdTech, FinTech, RestaurantTech, IoT (Internet of Things), Life Science, Manufacturing, Marketing (MarTech), Mobile, Robotics, SaaS, Wearables & Quantified Self",
+    "url": "https://www.folk.app/ja/vc-funds/adventure-capitalist-angel-investor",
+    "pass": 3
+   },
+   {
+    "quote": "The EVERY Company, Joywell Foods, Voyage Foods, Mori, Roadie, Capra Biosciences, Butlr, New Age Meats, Koniku, Journey Foods, Last Gameboard, Novoloop, Re-Nuble, Prellis Biologics, SuperWorld, Cradlewise Inc., Lula, Geltor, MycoWorks, Finless Foods, Mendel.ai, Looking Glass Factory, Optimize.health, New Culture, Endless West, Prime Roots, Bartesian, Amper Technologies, unspun",
+    "url": "https://www.folk.app/ja/vc-funds/adventure-capitalist-angel-investor",
+    "pass": 3
+   },
+   {
+    "quote": "Figures published in UserGems’s case study. They are not independently measured by usedby.",
+    "url": "https://www.usedby.ai/case-studies/usertesting-usergems",
+    "pass": 3
+   },
+   {
+    "quote": "Other AI tools used by UserTesting",
+    "url": "https://www.usedby.ai/case-studies/usertesting-usergems",
+    "pass": 3
+   },
+   {
+    "quote": "Based on UserGems’s published case study. We check the public evidence; the results are reported by the vendor.",
+    "url": "https://www.usedby.ai/case-studies/usertesting-usergems",
+    "pass": 3
+   },
+   {
+    "quote": "The platform spans three layers: buying signals, AI-powered account and contact scoring, and an AI agent called Gem-E that drafts personalized outbound sequences. Customers include Salesloft, Mimecast, Sendoso, Docebo, Gong, CrowdStrike, and Outreach.",
+    "url": "https://pipeline.zoominfo.com/sales/usergems-review",
+    "pass": 3
+   },
+   {
+    "quote": "BDO Canada Case Study",
+    "url": "https://pipeline.zoominfo.com/sales/usergems-review",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/168680-80",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Trusted by the best revenue teams.",
+    "url": "https://www.usergems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer at Docebo",
+    "url": "https://www.usergems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The median pipeline ROI is 47x in pipeline and 11x in revenue generated. We also offer a money-back guarantee if you don't see at least 1X ROI in revenue generated from UserGems.",
+    "url": "https://www.usergems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how revenue teams use UserGems to build pipeline",
+    "url": "https://www.usergems.com/customers/hubspot",
+    "pass": 1
+   },
+   {
+    "quote": "Why revenue leaders love UserGems",
+    "url": "https://www.usergems.com/customers/hubspot",
+    "pass": 1
+   },
+   {
+    "quote": "UserGems AI learns who actually influences revenue by analyzing your open and closed won opportunities. It helps you refine persona coverage, then continuously captures buying group members, contacts, and signals so your team can engage with confidence.",
+    "url": "https://www.usergems.com/product/buying-groups",
+    "pass": 1
+   },
+   {
+    "quote": "UserGems uses AI to analyze signals from past wins and open opportunities to learn who actually influences revenue outcomes. It then continuously captures and enriches buying group members by adding them as contacts in your CRM (with roles and signal data) so teams know exactly who to target.",
+    "url": "https://www.usergems.com/product/buying-groups",
+    "pass": 1
+   },
+   {
+    "quote": "\"If you believe in your product, UserGems should be part of your playbook. This channel has a 20% higher win rate than our typical win rate.\"",
+    "url": "https://www.usergems.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "UserGems for Revenue Operations",
+    "url": "https://www.usergems.com/solutions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "Accurate & relevant data = more revenue & a cleaner CRM",
+    "url": "https://www.usergems.com/solutions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "Sr Manager Revenue Operations",
+    "url": "https://www.usergems.com/solutions/operations",
+    "pass": 1
+   },
+   {
+    "quote": ", identifying accounts going through acquisitions where security needs spike. By layering persona-based filters, Mimecast ensures outreach is both timely and relevant.",
+    "url": "https://www.usergems.com/customers/mimecast-2025",
+    "pass": 1
+   },
+   {
+    "quote": "Mimecast sees AI as central to its growth strategy. With a company-wide push to adopt AI across tools and workflows, Gem-E is a key part of how Mimecast's marketing & BDR teams are operationalizing AI to drive growth and efficiency, with measurable ROI and business impact.",
+    "url": "https://www.usergems.com/customers/mimecast-2025",
+    "pass": 1
+   },
+   {
+    "quote": "In just 40 days, they created 44 new pipeline opportunities, expanded into new teams and departments, and their account teams finally could finally spend their time on conversations that drive real revenue.",
+    "url": "https://www.usergems.com/customers/sendoso-2025",
+    "pass": 1
+   },
+   {
+    "quote": "As the Director of Growth & GTM Engineering Strategy at Sendoso, Austin makes sure growth marketing and go-to-market execution actually work together. He builds scalable programs, uses data to guide decisions, and keeps marketing and sales efforts focused on driving real revenue.",
+    "url": "https://www.usergems.com/customers/sendoso-2025",
+    "pass": 1
+   },
+   {
+    "quote": "Sendoso's ABM campaigns were successfully winning new logos, but leadership realized their existing customer base held a lot of untapped revenue potential.",
+    "url": "https://www.usergems.com/customers/sendoso-2025",
+    "pass": 1
+   },
+   {
+    "quote": "By multi-threading accounts, Sendoso reduced dependency on just one single champion. If this contact left or got busy, relationships with other stakeholders were already in place, meaning their revenue was protected and it helped keep their accounts healthy.",
+    "url": "https://www.usergems.com/customers/sendoso-2025",
+    "pass": 1
+   },
+   {
+    "quote": "The ingredients were all there: customer data in their systems, relationships their team had built, trust they'd earned. The breakthrough was automating the work that connected it all, so their teams could spend time on conversations that actually drive revenue instead of researching who to talk to next.",
+    "url": "https://www.usergems.com/customers/sendoso-2025",
+    "pass": 1
+   },
+   {
+    "quote": "Most revenue teams have the tools to track intent, monitor account activity, and capture buying signals across platforms. But reps still spend hours trying to figure out which accounts actually matter, who to contact, and what to say. The insights exist but connecting them to actual pipeline takes a lot of manual work.",
+    "url": "https://www.usergems.com/customers/docebo-2025",
+    "pass": 1
+   },
+   {
+    "quote": "Docebo is a global, AI-powered learning platform that helps organizations train and develop people at scale. It makes it easy to create and manage training, deliver personalized learning for employees, customers, and partners, track progress, and measure results, all in one system.",
+    "url": "https://www.usergems.com/customers/docebo-2025",
+    "pass": 1
+   },
+   {
+    "quote": "The numbers tell part of the story, but the team’s approach is what drives them forward.",
+    "url": "https://www.usergems.com/customers/docebo-2025",
+    "pass": 1
+   },
+   {
+    "quote": "For revenue leaders struggling to translate signal investments into results, Docebo shows the way forward: centralize the intelligence, automate the decisions, and let your team focus on what actually matters.",
+    "url": "https://www.usergems.com/customers/docebo-2025",
+    "pass": 1
+   },
+   {
+    "quote": "These buying committees and user types are sourced from Salesforce, where Outreach keeps updated contact information on closed-won accounts. Some of these fields were already part of their MEDDPICC criteria, while others were added by the account team to further hone the Job Change signal after implementing UserGems.",
+    "url": "https://www.usergems.com/customers/outreach",
+    "pass": 1
+   },
+   {
+    "quote": "over $1M in closed-won revenue",
+    "url": "https://www.usergems.com/customers/usertesting",
+    "pass": 1
+   },
+   {
+    "quote": "When Steve arrived at Planful, the company had already been using UserGems since 2021. UserGems was delivering value, but Planful wasn’t yet running a coordinated ABX motion. Signals existed, but they weren’t orchestrated into an account-level strategy and they weren't yet using Gem-E to orchestrate.",
+    "url": "https://www.usergems.com/customers/planful-2025",
+    "pass": 1
+   },
+   {
+    "quote": "Instead of isolated touches, buyers experience a consistent, account-based narrative across ads, email, and sales outreach. Each interaction reinforces the next, ensuring the buying committee sees one unified story, no matter which touchpoint they encounter.",
+    "url": "https://www.usergems.com/customers/planful-2025",
+    "pass": 1
+   },
+   {
+    "quote": "See how revenue teams use UserGems to build pipeline",
+    "url": "https://www.usergems.com/customers/emburse-bryn-adler",
+    "pass": 1
+   },
+   {
+    "quote": "Why revenue leaders love UserGems",
+    "url": "https://www.usergems.com/customers/emburse-bryn-adler",
+    "pass": 1
+   },
+   {
+    "quote": "5x lead creation, 3x pipeline opportunities, and 2x closed-won revenue.",
+    "url": "https://www.usergems.com/customers/quickbase-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Getting signals into one place was only the beginning. They started training Gem-E like the ultimate revenue teammate, feeding Gem-E content from product marketing, brand, and SDR feedback and tying signals to industry use cases, product capabilities, hooks, offers, ROI calculators, and event promotions.",
+    "url": "https://www.usergems.com/customers/quickbase-2026",
+    "pass": 1
+   },
+   {
+    "quote": "\"We are treating Gem-E like the ultimate revenue teammate. Every time we have a new product launch or a new campaign brief, the first thing we say is 'Let's get it into Gem-E.' We want Gem-E to think like an SDR, understand content like a marketer, orchestrate like a growth marketer, and drive conversation like an AE.\"",
+    "url": "https://www.usergems.com/customers/quickbase-2026",
+    "pass": 1
+   },
+   {
+    "quote": "The Gem-E pilot was intentionally narrow. Rather than turning on AI across the board, Kristen and her team chose three specific campaigns where they could measure the impact cleanly:",
+    "url": "https://www.usergems.com/customers/captivateiq",
+    "pass": 1
+   },
+   {
+    "quote": "But the numbers only tell part of the story. The qualitative shift was just as significant:",
+    "url": "https://www.usergems.com/customers/captivateiq",
+    "pass": 1
+   },
+   {
+    "quote": ": Agentforce Q4 FY2026決算データ（$800M ARR）",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "ARR $800M、前年比169%成長",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "Salesforce $800M ARR",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 成功と失敗の両面データあり（$800M ARR vs 40%超中止予測）",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "「Agentforce ARR $800M（+169%）は明確な需要の証拠」という",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "Salesforceが$800M ARRを達成しているのは事実だが、個別企業の",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "Salesforce, Q4 FY2026 Earnings Press Release (2026-02-25) — Agentforce ARR $800M",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "The Ultimate AI Assistant for Revenue Teams: Join 20,000+ professionals across 3,000+ organizations using Laxis",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "The Ultimate AI Assistant for Revenue Teams: Join 20,000+ professionals across 3,000+ organizations using Laxis. Our cutting-edge AI Meeting Assistant and AI BDR streamline your meetings and drive sales.",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "The Ultimate AI Assistant for Revenue Teams: Join 20,000+ professionals across 3,000+ organizations using Laxis という特徴を踏まえ、既存ツールとの役割分担を確認しながら導入を検討できます",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "The image below shows our UserGems CSM team identifies and indicates key roles that ensures these contacts are tracked and generate the downstream benefits listed above.",
+    "url": "https://help.usergems.com/article/customer-success-use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "In less than one year after implementation, UserTesting had generated millions in the pipeline and over $1M in closed-won revenue.",
+    "url": "https://www.usedby.ai/case-studies/usertesting-usergems",
+    "pass": 3
+   },
+   {
+    "quote": "captures buying activity across first-party sources (your CRM, MAP, web, and product data), third-party intent, and proprietary 6sense intent — processing more than a trillion signals daily. Job change signals are one part of a comprehensive picture, integrated alongside keyword-level intent, account identification, firmographics, technographics, and engagement data.",
+    "url": "https://6sense.com/blog/6sense-vs-usergems/",
+    "pass": 3
+   },
+   {
+    "quote": "surfaces that intelligence across your revenue team in real time, with cited next-best actions your reps and AI agents can act on immediately.",
+    "url": "https://6sense.com/blog/6sense-vs-usergems/",
+    "pass": 3
+   },
+   {
+    "quote": "Forrester Wave for Revenue Marketing Platforms Q1 2026",
+    "url": "https://6sense.com/blog/6sense-vs-usergems/",
+    "pass": 3
+   },
+   {
+    "quote": "UserGems’ account scoring is activity-based and manually configured. Your team builds the model, weights each input, tests it, and refreshes it weekly. For a small team working a tight relationship-based motion, that’s manageable. For revenue organizations running complex, multi-segment GTM motions across a large TAM, it becomes a resource drain that competes with time better spent on selling.",
+    "url": "https://6sense.com/blog/6sense-vs-usergems/",
+    "pass": 3
+   },
+   {
+    "quote": "Focusing entirely on contacts you already is not going to be enough to support pipeline and revenue goals for most organizations. 6sense",
+    "url": "https://6sense.com/blog/6sense-vs-usergems/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Marketing Wave Q1 2026",
+    "url": "https://6sense.com/blog/6sense-vs-usergems/",
+    "pass": 3
+   },
+   {
+    "quote": "Sales intelligence is not part of the UserGems platform. Customers who need enrichment, contact data beyond CRM history, or automated data workflows will need to purchase a separate B2B data tool and manually integrate it.",
+    "url": "https://6sense.com/blog/6sense-vs-usergems/",
+    "pass": 3
+   },
+   {
+    "quote": "also reveals something important about how purchase decisions get made. Buyers conduct the majority of their evaluation independently, arriving at vendor conversations with a shortlist that’s largely already ranked. The vendor they contact first wins the deal roughly 80% of the time — and that vendor reached the shortlist",
+    "url": "https://6sense.com/blog/6sense-vs-usergems/",
+    "pass": 3
+   },
+   {
+    "quote": "Surfaces real-time intelligence, next-best actions, and reporting across revenue team",
+    "url": "https://6sense.com/blog/6sense-vs-usergems/",
+    "pass": 3
+   },
+   {
+    "quote": "Forrester Wave Leader (Revenue Marketing Q1 2026, Intent Q1 2025); Gartner MQ Leader ABM (5x consecutive, highest Ability to Execute 2025)",
+    "url": "https://6sense.com/blog/6sense-vs-usergems/",
+    "pass": 3
+   },
+   {
+    "quote": "1,100+ employees; 13+ years AI/ML in GTM",
+    "url": "https://6sense.com/blog/6sense-vs-usergems/",
+    "pass": 3
+   },
+   {
+    "quote": "~100 employees; Series A only since October 2021",
+    "url": "https://6sense.com/blog/6sense-vs-usergems/",
+    "pass": 3
+   },
+   {
+    "quote": "You run outbound sales and ABM programs where champion relationships drive revenue",
+    "url": "https://pipeline.zoominfo.com/sales/usergems-review",
+    "pass": 3
+   },
+   {
+    "quote": ", targeting B2B revenue teams at mid-market and enterprise SaaS companies.",
+    "url": "https://pipeline.zoominfo.com/sales/usergems-review",
+    "pass": 3
+   },
+   {
+    "quote": "roughly 100 employees",
+    "url": "https://pipeline.zoominfo.com/sales/usergems-review",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Reps can see all signals, Closed Lost insights, etc directly in their Salesforce, Hubspot, Outreach, Salesloft, Gong Engage. They'll wake up with tasks & emails already queued up in their favorite tools -- no manual research needed.",
+    "url": "https://www.usergems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build lists, capture signals, write emails",
+    "url": "https://www.usergems.com/customers/hubspot",
+    "pass": 1
+   },
+   {
+    "quote": "Our technology to generate and verify email addresses results in less than 5% bounce rates, protecting your email deliverability and saving your team's time from going after wrong prospects.",
+    "url": "https://www.usergems.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Find out that your champion has left when your email bounced.",
+    "url": "https://www.usergems.com/solutions/customer-success",
+    "pass": 1
+   },
+   {
+    "quote": "Mimecast’s BDRs were spending hours each week researching accounts, verifying contacts, and writing outreach emails. Sales leaders knew this wasn’t sustainable.",
+    "url": "https://www.usergems.com/customers/mimecast-2025",
+    "pass": 1
+   },
+   {
+    "quote": "The Solution: Using AI for research, outreach emails & capturing signals",
+    "url": "https://www.usergems.com/customers/mimecast-2025",
+    "pass": 1
+   },
+   {
+    "quote": "Instead of “spray and pray” emails, Gem-E generates tailored messaging aligned to a prospect’s challenges.",
+    "url": "https://www.usergems.com/customers/mimecast-2025",
+    "pass": 1
+   },
+   {
+    "quote": "the right buyers within them, while Gem-E writes emails for reps using all of these insights for highly personalized and relevant emails.",
+    "url": "https://www.usergems.com/customers/mimecast-2025",
+    "pass": 1
+   },
+   {
+    "quote": "One of their biggest opportunities came from UserGems & Gem-E. It was a mid-market manufacturing company that recently hired a Vice President. Tammy shared. “Gem-E picked up this signal, found the buyer, added them to an automated cadence and sent. So our BDR got the meeting booked after the second email.”",
+    "url": "https://www.usergems.com/customers/mimecast-2025",
+    "pass": 1
+   },
+   {
+    "quote": "Instead of asking Account Managers to manually research dozens of contacts and craft one-off emails, Sendoso layered in UserGems' AI agent, Gem-E, to roll out Customer ABX at scale.",
+    "url": "https://www.usergems.com/customers/sendoso-2025",
+    "pass": 1
+   },
+   {
+    "quote": "Their BDRs were forever toggling between platforms and spreadsheets, trying to piece together who to contact, when, and what to say. They'd spot a job change and send an email, notice a website visit and make a call and a lot of signals were going completely unnoticed. When BDRs did act on a signal, they were treating it as a standalone trigger rather than a piece of a bigger picture.",
+    "url": "https://www.usergems.com/customers/docebo-2025",
+    "pass": 1
+   },
+   {
+    "quote": "UserGems' AI agent, Gem-E, generates all of Docebo's outbound emails as fully written, personalized messages for each prospect.",
+    "url": "https://www.usergems.com/customers/docebo-2025",
+    "pass": 1
+   },
+   {
+    "quote": "Docebo keeps it focused with a strict rule: maximum two signals per email. Their goal is for messages to work together as a sequence that builds familiarity over time rather than overwhelming prospects all at once.",
+    "url": "https://www.usergems.com/customers/docebo-2025",
+    "pass": 1
+   },
+   {
+    "quote": "With Gem-E in place, BDRs start each morning with their top 30 prospects already sorted into the right sequences alongside the reasons why each person was selected. They review the context, validate the approach, and approve before sending. Once approved, emails flow into Outreach on the right cadence, delivering both relevance and replies.",
+    "url": "https://www.usergems.com/customers/docebo-2025",
+    "pass": 1
+   },
+   {
+    "quote": "Contact Information (Name, email, LinkedIn URL, etc.)",
+    "url": "https://www.usergems.com/customers/outreach",
+    "pass": 1
+   },
+   {
+    "quote": "These new job-changer leads were automatically fed into UserTesting’s Salesforce, along with their new email addresses, new job titles, and new companies. This happened once monthly.",
+    "url": "https://www.usergems.com/customers/usertesting",
+    "pass": 1
+   },
+   {
+    "quote": "The next step in the outreach cadence was an email from the SDR asking the recipients if they would like to set up a meeting to discuss if UserTesting would be a value-add to their new role.",
+    "url": "https://www.usergems.com/customers/usertesting",
+    "pass": 1
+   },
+   {
+    "quote": "UserTesting created a custom email sequence for these UserGems leads to ensure the messaging was personalized while the outreach process is automated, scalable, and easy for sales reps to use.",
+    "url": "https://www.usergems.com/customers/usertesting",
+    "pass": 1
+   },
+   {
+    "quote": "\"We have a great Sales Enablement team that partners closely with the Marketing team to build the direct mail program, the email sequences, and to train the reps. All that make it very easy for the reps to use. They're not doing anything out of the ordinary, except flagging the UserGems leads that they want the Marketing team to send gifts to.\"",
+    "url": "https://www.usergems.com/customers/usertesting",
+    "pass": 1
+   },
+   {
+    "quote": "Instead of isolated touches, buyers experience a consistent, account-based narrative across ads, email, and sales outreach. Each interaction reinforces the next, ensuring the buying committee sees one unified story, no matter which touchpoint they encounter.",
+    "url": "https://www.usergems.com/customers/planful-2025",
+    "pass": 1
+   },
+   {
+    "quote": "Build lists, capture signals, write emails",
+    "url": "https://www.usergems.com/customers/emburse-bryn-adler",
+    "pass": 1
+   },
+   {
+    "quote": "Centralized signals and tailored messaging only matter if reps actually use them. Quickbase integrated Gem-E with Salesforce and Outreach so personalized emails, call briefs, and LinkedIn briefs all flow automatically into sequences. The Quickbase team use the AI Chrome Extension to surface context wherever reps work.",
+    "url": "https://www.usergems.com/customers/quickbase-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Gem-E handled the research, personalization, and email writing for each campaign. BDRs reviewed the output — the messaging, the contact selection, the reasoning behind each pick — through the UserGems AI Chrome Extension, which showed them exactly why a contact was surfaced and why the email was written a certain way.",
+    "url": "https://www.usergems.com/customers/captivateiq",
+    "pass": 1
+   },
+   {
+    "quote": "Their BDRs have already asked for email notifications when an account’s grade changes — a sign that scoring is becoming the heartbeat of their daily prospecting workflow.",
+    "url": "https://www.usergems.com/customers/captivateiq",
+    "pass": 1
+   },
+   {
+    "quote": ": With Gem-E for Outbound, UserGems' AI agents helped Sendoso find and prioritize high-intent prospects, new and existing, and write personalized emails for each one. Sendoso's lean team got more replies with less manual work.",
+    "url": "https://www.usergems.com/customers/sendoso",
+    "pass": 1
+   },
+   {
+    "quote": "Sendoso implemented Gem-E to automate signals such as past champions, new hires & promotions, job change tracking, website visitors, and more, and optimize their outreach strategy. By leveraging Gem-E’s ability to scan CRM data, identify key buying signals, and generate hyper-personalized emails, Sendoso’s team could efficiently engage high-value prospects.",
+    "url": "https://www.usergems.com/customers/sendoso",
+    "pass": 1
+   },
+   {
+    "quote": "Gem-E crafts emails that feel handcrafted by reps because UserGems data and signals power Gem-E. These emails incorporate CRM data, past interactions, and contextual details to ensure relevant and compelling outreach.",
+    "url": "https://www.usergems.com/customers/sendoso",
+    "pass": 1
+   },
+   {
+    "quote": "Here are examples of Gem-E emails on behalf of the Sendoso team:",
+    "url": "https://www.usergems.com/customers/sendoso",
+    "pass": 1
+   },
+   {
+    "quote": ": Instead of manually tracking job changes and other signals, and researching prospects, Sendoso’s team receives automatic alerts and ready-to-send emails. This allows them to focus their energy on strategic selling rather than administrative tasks.",
+    "url": "https://www.usergems.com/customers/sendoso",
+    "pass": 1
+   },
+   {
+    "quote": "AI works best as an accelerant that enhances your existing processes. If you’re already automating email sequences, managing workflows in Salesforce or HubSpot, or using lead scoring, you’ve got a solid base.",
+    "url": "https://www.usergems.com/blog/is-my-company-ready-for-ai-outbound",
+    "pass": 1
+   },
+   {
+    "quote": "Many sales teams default to “more dials, more emails.” AI works better when you focus on quality: reaching buyers who are actually in-market with messages that match their context.",
+    "url": "https://www.usergems.com/blog/is-my-company-ready-for-ai-outbound",
+    "pass": 1
+   },
+   {
+    "quote": "Best AI email tools for buying signal outreach",
+    "url": "https://www.usergems.com/blog/is-my-company-ready-for-ai-outbound",
+    "pass": 1
+   },
+   {
+    "quote": "Outreach infrastructure for AI agents across email and LinkedIn with one API key, one SDK, and one MCP server.",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "Email + LinkedIn の同一基盤",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "Email・LinkedIn・Cold Callsを1つのシーケンスで組み合わせ、AIパーソナライズ（Liquid syntax + AI生成）、画像・動画の動的差し込み、独自のメールウォームアップ「lemwarm」、450M+件のB2Bリードデータベースまで内蔵",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "Multichannel Sequences（Email + LinkedIn + Cold Calls）",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "ICPでリスト作成 → AIで文面生成 → Email/LinkedIn/電話の多段シーケンス → 返信を Pipedrive/HubSpot に自動同期",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "Email・LinkedIn・Cold Callsをネイティブに1シーケンスへ統合（Apollo.ioはCold Calls弱め）",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "Waalaxy is a LinkedIn and email automation tool that helps you generate leads, grow your network, and boost your outreach with smart, easy-t…",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "Waalaxy is a LinkedIn and email automation tool that helps you generate leads, grow your network, and boost your outreach with smart, easy-to-use multichannel campaigns.",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "Waalaxy is a LinkedIn and email automation tool that helps you generate leads, grow your network, and boost your outreach with smart, easy-t… という特徴を踏まえ、既存ツールとの役割分担を確認しながら導入を検討できます",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "Write the killer fundraising campaign. Include variables in each emails to make them feel personalized, like first name, previous investment, fund name, and more. Include your deck or even a link to your dataroom. Make it catchy!",
+    "url": "https://www.folk.app/ja/vc-funds/adventure-capitalist-angel-investor",
+    "pass": 3
+   },
+   {
+    "quote": "UserTesting uses UserGems job-change triggers to detect when former customer contacts move to new roles or companies. Those leads are fed into Salesforce, and marketing sends gifts and SDRs follow up with an email sequence.",
+    "url": "https://www.usedby.ai/case-studies/usertesting-usergems",
+    "pass": 3
+   },
+   {
+    "quote": "To make the outreach easier, they offer Gem-E, an AI agent that drafts emails, call scripts, and LinkedIn messages from CRM data and job change context. A more recent addition is contact-level web visitor identification through a partnership with Vector.",
+    "url": "https://6sense.com/blog/6sense-vs-usergems/",
+    "pass": 3
+   },
+   {
+    "quote": "orchestrate coordinated action across display advertising, AI Email Agents, sales sequences, and your existing tech stack with decision logic that adapts to buying stage and account behavior as it changes.",
+    "url": "https://6sense.com/blog/6sense-vs-usergems/",
+    "pass": 3
+   },
+   {
+    "quote": "Gem-E drafts email sequences, call scripts, and LinkedIn messages from CRM data and job change context. The rep reviews the draft and decides whether to send. That’s a useful productivity boost when the warm-lead context is rich and the rep has capacity to act on it.",
+    "url": "https://6sense.com/blog/6sense-vs-usergems/",
+    "pass": 3
+   },
+   {
+    "quote": "6sense’s Intelligent Workflows canvas enables multi-channel campaign orchestration across display advertising, email, sales sequences, and other channels. Decision logic activates different campaigns and handoffs based on buying stage, account behavior, and engagement signals in real time. Forrester named Intelligent Workflows a key differentiator in the",
+    "url": "https://6sense.com/blog/6sense-vs-usergems/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Email Agents send, reply, and book meetings autonomously; two-way conversational; signal-driven",
+    "url": "https://6sense.com/blog/6sense-vs-usergems/",
+    "pass": 3
+   },
+   {
+    "quote": "You need autonomous AI email execution and multi-channel campaign orchestration",
+    "url": "https://6sense.com/blog/6sense-vs-usergems/",
+    "pass": 3
+   },
+   {
+    "quote": "built on the largest B2B data foundation available (500M contacts, 100M companies, 135M+ verified phone numbers, 200M+ verified business emails), with a",
+    "url": "https://pipeline.zoominfo.com/sales/usergems-review",
+    "pass": 3
+   },
+   {
+    "quote": "Gem-E for Outbound acts as an AI SDR: it builds contact lists, captures buying signals, scores accounts and contacts, and drafts email sequences, call scripts, and LinkedIn messages.",
+    "url": "https://pipeline.zoominfo.com/sales/usergems-review",
+    "pass": 3
+   },
+   {
+    "quote": "and email exchanges to identify buyers' goals, objections, and pain points. Fourth, it drafts multi-step sequences where",
+    "url": "https://pipeline.zoominfo.com/sales/usergems-review",
+    "pass": 3
+   },
+   {
+    "quote": "Rather than personalizing only the first email (a common limitation of AI writing tools), Gem-E",
+    "url": "https://pipeline.zoominfo.com/sales/usergems-review",
+    "pass": 3
+   },
+   {
+    "quote": "across entire sequences. A single email might reference a competitor intent signal, a closed-lost contact at the account, and recent website activity.",
+    "url": "https://pipeline.zoominfo.com/sales/usergems-review",
+    "pass": 3
+   },
+   {
+    "quote": "to check output quality. The resulting emails and tasks go directly into reps' Outreach, Salesloft, or Gong Engage queues, so reps",
+    "url": "https://pipeline.zoominfo.com/sales/usergems-review",
+    "pass": 3
+   },
+   {
+    "quote": "start each day with ready-to-send emails",
+    "url": "https://pipeline.zoominfo.com/sales/usergems-review",
+    "pass": 3
+   },
+   {
+    "quote": "Key features like AI email generation, website de-anonymization, and intent signals require paid add-ons",
+    "url": "https://pipeline.zoominfo.com/sales/usergems-review",
+    "pass": 3
+   },
+   {
+    "quote": "Everything in Core plus AI-generated emails (Engage), website de-anonymization, content curation, and ad audience sync",
+    "url": "https://pipeline.zoominfo.com/sales/usergems-review",
+    "pass": 3
+   },
+   {
+    "quote": "All plans include CRM integration, sales engagement tool integration, reporting, SSO, and email/Slack support. The",
+    "url": "https://pipeline.zoominfo.com/sales/usergems-review",
+    "pass": 3
+   },
+   {
+    "quote": ", 135M+ verified phone numbers, 120M direct-dial phone numbers, and 200M+ verified business email addresses.",
+    "url": "https://pipeline.zoominfo.com/sales/usergems-review",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "営業代行とAIエージェント、どちらを選ぶか——費用・質・ノウハウの3軸で比べる｜lullaby株式会社",
+    "url": "https://lullaby.co.jp/blog/sales-outsourcing-vs-ai-agent",
+    "pass": 3
+   },
+   {
+    "quote": "2026-10-14｜lullaby株式会社 代表取締役",
+    "url": "https://lullaby.co.jp/blog/sales-outsourcing-vs-ai-agent",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社の統計ではなく、日本企業全体の割合を示すものではない",
+    "url": "https://lullaby.co.jp/blog/sales-outsourcing-vs-ai-agent",
+    "pass": 3
+   },
+   {
+    "quote": "指標4にエージェント専用の中止予測、指標6に生産性実感の上限、指標8に日本のエージェント導入率が加わった",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "日本の毎日利用率: 4.5%",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "日本のAIエージェント導入率は、調査によって驚くほど異なる",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "PwC Japan（2025年春）",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "日本のAI利用率は世界の約7割（BCG: 51% vs 72%）",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "日本のエージェント導入は「始まっていない」のではなく「始まる直前」にある可能性が高い",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "海外の失敗データ（サイレント・フェイラー、報酬ループ暴走、管理コスト逆説）が公開されている今、それを踏まえて導入設計ができるのは日本の利点になり得る",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "「まず基本を身につけてからAIを使う」という日本の教育文化は、",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "8. 日本のエージェント導入「予備軍」の動向",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "日経BPの「29.7%」との差が埋まるかどうかが、日本の「エージェント元年」の実態を映す",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "(1) Gartner「40%超中止」予測の実測値（2027年末に判明）、(2) NRR 48%の改善有無（ChartMogul次回更新）、(3) バイヤーのrep-free希望率の推移（67%→？）、(4) エージェント・マネージャー職種の定着度、(5) 日本のエージェント導入率の定義統一、(6) Agentforce有料比率（6%→？）",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "【調べてみた】英語で効くAI営業術が日本語では通用しない5つの構造",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "— 日本語環境でのAIエージェント精度がさらに低下する構造",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "日本のAIエージェント導入率は調査によって3.3%〜29.7%と9倍の開きがあり、正確な実態の把握は困難",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "Research, MarketsandMarkets）/ 日本語調査 5件",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "（矢野経済, 日経BP, PwC Japan, NRI, BCG Japan）/",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "ソースの言語：英語 20件超 / 日本語 10件",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "日本データは矢野経済・日経BP・PwC Japan等",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 英語・日本語 各10件以上",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "△ 日本のAIエージェント利用者の生の声が不足",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "PwC Japan, 生成AI活用実態調査2025年春 (5カ国比較) — 日本のAIワークフロー統合7%",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "BCG Japan — 日本のAI利用率51% vs 世界72%",
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "pass": 3
+   },
+   {
+    "quote": "AI 1 シートあたりのミーティング設定単価が人間比 1/5、ランプ 142 日→24 日という単位経済の差は導入決定の閾値を急激に下げており、+1y では SDR 層の人員縮小が日本の中堅 SaaS・人材・広告代理店にも波及し、Account Executive 層でも低単価・標準仕様案件で AI 主導+人間レビューの逆転が始まる読みを取る",
+    "url": "https://aifocast.com/occupations/occupation_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で Account Executive 層・複雑商談・関係構築は 1 年では本質的に変わらず、日本市場の adoption は米国より遅れる構造制約も残るため、現在から穏やかに上方修正する読みになる",
+    "url": "https://aifocast.com/occupations/occupation_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "SDR/インサイドセールス層では米 B2B SaaS で前年比 -18%・ジュニア -31% という雇用面の減少が既に観測され、+1y では同じ波が日本の大企業 SaaS・SaaS 系インサイドセールス組織にも届くと読む",
+    "url": "https://aifocast.com/occupations/occupation_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "AI SDR・営業エージェントが定型のトップ〜ミドルファネルを 5 年で大きく取り込む一方、最終受注の責任主体・対面信頼・規制業種での販売資格は人間に残り、日本市場では adoption ラグがさらに 2〜3 年効く",
+    "url": "https://aifocast.com/occupations/occupation_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "日本では adoption ラグと中小企業の遅れ、業界規制 (金融商品取引、医薬品、保険販売資格) が代替速度を抑え、米国先進事例の数値をそのまま外挿しにくい",
+    "url": "https://aifocast.com/occupations/occupation_sales/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、導入目的、運用のしやすさ、連携、価格、日本対応まで見比べながら候補を整理します",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "日本語UI、ドキュメント、決済、請求書、サポート体制を確認する",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "詳細ページの内容をそのまま並べるのではなく、ランキング内で比較しやすいように主要機能、想定ユースケース、価格・AI対応・日本対応を整理しています",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "コールドメール代理店・アウトソーシング営業会社",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "ホワイトラベル対応で代理店ブランドの下でサービス提供",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "JCB 決済・JPY 請求も未対応で、日本法人での経費処理が煩雑",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "日本語UI・日本語ドキュメント未対応で、国内チームの導入障壁が高い",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "50言語対応のAI文章生成を活用し、英語・日本語・スペイン語など複数地域のキャンペーンを同時並行で展開",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場向けのサポートドキュメントも存在しない",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "UI/ドキュメント/サポートはすべて英語のみ、日本語化されていない",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内向けの 050/0120 番号サプライは限定的で、主戦場は北米",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場向け機能（JCB・JPY請求書等）もなし",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "Apollo.ioと比較するとB2B Databaseの規模・地域カバレッジでやや劣る（450M vs 275M+ だが日本データは限定的）",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場の業務慣習や日本語運用に合わせて検討しやすい日本発/日本市場向けのSaaSとして登録しています",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "日本語UI / 日本語ドキュメント / 円建て請求",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "広告費をかけずにソーシャル起点で商談機会を増やしたいB2B SaaSや代理店に向いています",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "代理店が複数クライアントのソーシャル獲得を運用する",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "日本・APAC市場のデータカバレッジが弱く、国内企業の開拓には不向き",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "日本語UIなし、日本語ドキュメントなし、日本市場向けサポートは限定的",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "大量のリストからターゲットに電話をかける保険代理店や金融サービス企業が、予測ダイヤラーでエージェントの稼働効率を最大化しながらTCPAコンプライアンスを自動管理する",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場の業務慣習や日本語運用に合わせて検討しやすい日本発/日本企業提供のSaaSとして登録しています",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "検索意図の整理、日本語の自然さ、編集フローへの組み込みやすさを見て比較します",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "は、世界のSaaSを日本語で比較・検索できる比較ポータルです",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   },
+   {
+    "quote": "日本対応（JCB決済・日本語UI・日本語ドキュメント）の有無まで一望でき、",
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "UserGems — UserGems UserGems https://www.usergems.com",
+    "url": "https://www.usergems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Company 1 - UserGems — Company 1 - UserGems UserGems https://www.usergems.com > company",
+    "url": "https://www.usergems.com/company/company-1",
+    "pass": 3
+   },
+   {
+    "quote": "UserGems | LinkedIn — UserGems | LinkedIn LinkedIn https://www.linkedin.com > usergems",
+    "url": "https://www.linkedin.com/company/usergems",
+    "pass": 3
+   },
+   {
+    "quote": "6sense vs. UserGems : GTM Intelligence vs. Champion Tracking — 6sense vs. UserGems : GTM Intelligence vs. Champion Tracking 6Sense https://6sense.com > blog > 6sense-vs...",
+    "url": "https://6sense.com/blog/6sense-vs-usergems/",
+    "pass": 3
+   },
+   {
+    "quote": "Product Overview - UserGems — Product Overview - UserGems UserGems https://www.usergems.com > overview",
+    "url": "https://www.usergems.com/product/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories - UserGems — Customer Stories - UserGems UserGems https://www.usergems.com > customers",
+    "url": "https://www.usergems.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Success Use Cases - UserGems — Customer Success Use Cases - UserGems UserGems https://help.usergems.com > article",
+    "url": "https://help.usergems.com/article/customer-success-use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "How UserTesting uses UserGems - UsedBy.ai — How UserTesting uses UserGems - UsedBy.ai usedby.ai https://www.usedby.ai > ... > UserGems",
+    "url": "https://www.usedby.ai/case-studies/usertesting-usergems",
+    "pass": 3
+   },
+   {
+    "quote": "UserTesting makes millions in sales pipeline + an 18X ROI — UserTesting makes millions in sales pipeline + an 18X ROI UserGems https://www.usergems.com > usertesting",
+    "url": "https://www.usergems.com/customers/usertesting",
+    "pass": 3
+   },
+   {
+    "quote": "UserGems Review: Features and Pricing - ZoomInfo Blog — UserGems Review: Features and Pricing - ZoomInfo Blog ZoomInfo Blog https://pipeline.zoominfo.com > sales",
+    "url": "https://pipeline.zoominfo.com/sales/usergems-review",
+    "pass": 3
+   },
+   {
+    "quote": "UserGems : Revenue , Competitors, Alternatives - Growjo — UserGems : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > UserGems",
+    "url": "https://growjo.com/company/UserGems",
+    "pass": 3
+   },
+   {
+    "quote": "UserGems - Overview, News & Similar companies - ZoomInfo — UserGems - Overview, News & Similar companies - ZoomInfo ZoomInfo https://www.zoominfo.com > shelfflip...",
+    "url": "https://www.zoominfo.com/c/shelfflip-inc/401093094",
+    "pass": 3
+   },
+   {
+    "quote": "UserGems Revenue 2024: $7.2M Est., $22.4M Raised — UserGems Revenue 2024: $7.2M Est., $22.4M Raised GetLatka https://getlatka.com > usergems",
+    "url": "https://getlatka.com/companies/usergems",
+    "pass": 3
+   },
+   {
+    "quote": "UserGems 2026 Company Profile - PitchBook — UserGems 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/168680-80",
+    "pass": 3
+   },
+   {
+    "quote": "UserGems - 2026 Company Profile & Team - Tracxn — UserGems - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/usergems/__ksEr7FoV-2cS0EpzokfS5hBUlcckIHv_Bs9ENp-hUOE",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "That’s the role coordinated marketing activation plays. Running intent-driven advertising to in-market accounts, and engaging buying groups before they’ve formed their shortlist, allows you to efficiently build brand familiarity within accounts that are on a buying journey, whether they have previous contact with your brand.",
+    "url": "https://6sense.com/blog/6sense-vs-usergems/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "UserGems | LinkedIn UserGems | LinkedIn LinkedIn https://www.linkedin.com > usergems",
+    "url": "https://www.linkedin.com/company/usergems",
+    "pass": 3
+   },
+   {
+    "quote": "UserGems | LinkedIn UserGems | LinkedIn LinkedIn https://www.linkedin.com > usergems",
+    "url": "https://www.linkedin.com/products/usergems/",
+    "pass": 3
+   },
+   {
+    "quote": "UserGems : Culture | LinkedIn UserGems : Culture | LinkedIn LinkedIn https://www.linkedin.com > life",
+    "url": "https://www.linkedin.com/company/usergems/life",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "UserGems - Facebook UserGems - Facebook Facebook https://www.facebook.com > ... > Other > Brand > Software",
+    "url": "https://www.facebook.com/usergems/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.usergems.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usergems.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usergems.com/customers/hubspot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usergems.com/product/buying-groups",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usergems.com/solutions/sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usergems.com/solutions/operations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usergems.com/solutions/marketing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usergems.com/solutions/customer-success",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usergems.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usergems.com/customers/mimecast-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usergems.com/customers/sendoso-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usergems.com/customers/docebo-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usergems.com/customers/outreach",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usergems.com/customers/usertesting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usergems.com/customers/planful-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usergems.com/customers/emburse-bryn-adler",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usergems.com/customers/quickbase-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usergems.com/customers/captivateiq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usergems.com/customers/sendoso",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usergems.com/blog/is-my-company-ready-for-ai-outbound",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/644c4b3029d4e7eb727426fb/648452453cbfcd23c77f65a8_Customers%20love%20usergems-min.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/644c4b3029d4e7eb727426fb/69c70c2e78554a9dd7d2de4d_logos.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://lullaby.co.jp/blog/sales-outsourcing-vs-ai-agent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aifocast.com/occupations/occupation_sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforce.com/jp/sales/ai-sales-agent/outbound/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saasmap.jp/ranking/sales-enablement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aifocast.com/occupations/occupation_sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.folk.app/ja/vc-funds/adventure-capitalist-angel-investor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/usergems",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://6sense.com/blog/6sense-vs-usergems/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://help.usergems.com/article/customer-success-use-cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usedby.ai/case-studies/usertesting-usergems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://6sense.com/blog/6sense-vs-usergems/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goodbarber.com/blog/7-best-app-builders-for-resellers-and-agencies-a1590/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pipeline.zoominfo.com/sales/usergems-review",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/UserGems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/shelfflip-inc/401093094",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/usergems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/168680-80",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/usergems",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/usergems/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/usergems/life",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/usergems/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Usergems 日本 導入",
+   "results": [
+    "https://lullaby.co.jp/blog/sales-outsourcing-vs-ai-agent",
+    "https://sales-ai-research.com/observatory/sales-ai-agent-era-2026q1",
+    "https://aifocast.com/occupations/occupation_sales/",
+    "https://www.salesforce.com/jp/sales/ai-sales-agent/outbound/",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/03314/090800004/?P=2",
+    "https://cmjsite.citizen.co.jp/open/techgroup/tech/detail/21/2222/",
+    "https://www.usergems.com/",
+    "https://gl-handbook-ja.page/handbook/marketing/marketing-operations/usergems/",
+    "https://huntscreens.com/ja/products/usergems",
+    "https://ktkm.net/product/usergems"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Usergems 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://saasmap.jp/ranking/sales-enablement",
+    "https://aifocast.com/occupations/occupation_sales/",
+    "https://www.folk.app/ja/vc-funds/adventure-capitalist-angel-investor",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://kaiguys.com/",
+    "https://ja.nozominetworks.com/company",
+    "https://www.aon.com/japan/company-overview",
+    "https://maymobility.com/ja",
+    "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Usergems Japan",
+   "results": [
+    "https://www.usergems.com/",
+    "https://www.usergems.com/company/company-1",
+    "https://www.linkedin.com/company/usergems",
+    "https://6sense.com/blog/6sense-vs-usergems/",
+    "https://www.usergems.com/product/overview",
+    "https://www.linkedin.com/posts/usergems_turns-out-the-right-signals-attract-the-right-activity-7524507458375958528-lPW9",
+    "https://www.linkedin.com/videos/rickkoleta_9-opportunities-a-month-per-sdr-became-19-activity-7519089761010094081-irB-",
+    "https://www.linkedin.com/in/derekawang",
+    "https://www.usergems.com/product/signals??hubs_signup-url=www.hubspot.jp/products/sensitive-data",
+    "https://saasmap.jp/tools/usergems"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Usergems manufacturing customer case study",
+   "results": [
+    "https://www.usergems.com/customers",
+    "https://help.usergems.com/article/customer-success-use-cases",
+    "https://www.usedby.ai/case-studies/usertesting-usergems",
+    "https://6sense.com/blog/6sense-vs-usergems/",
+    "https://www.usergems.com/customers/usertesting",
+    "https://www.leandata.com/resources/leandata-usergems-video/",
+    "https://www.prlog.org/12965763-new-study-reveals-past-customers-can-substantially-boost-revenue-for-b2b-businesses.html",
+    "https://www.usergems.com/customers/seekout",
+    "https://pitchbook.com/profiles/company/168680-80",
+    "https://www.casestudies.com/company/usergems"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Usergems white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.goodbarber.com/blog/7-best-app-builders-for-resellers-and-agencies-a1590/",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://pipeline.zoominfo.com/sales/usergems-review",
+    "https://www.10comwebdevelopment.com/whitelabel-reseller-program",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://www.usergems.com/",
+    "https://elfsight.com/affiliate-program/articles-saas-white-label/",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Usergems founded funding employees revenue",
+   "results": [
+    "https://growjo.com/company/UserGems",
+    "https://www.zoominfo.com/c/shelfflip-inc/401093094",
+    "https://getlatka.com/companies/usergems",
+    "https://pitchbook.com/profiles/company/168680-80",
+    "https://tracxn.com/d/companies/usergems/__ksEr7FoV-2cS0EpzokfS5hBUlcckIHv_Bs9ENp-hUOE",
+    "https://www.crunchbase.com/organization/usergems",
+    "https://www.owler.com/company/usergems",
+    "https://www.extruct.ai/hub/usergems-com-funding/",
+    "https://rocketreach.co/usergems-profile_b4437af6fdfe9561",
+    "https://www.thecompanycheck.com/company/b/usergems/9khbdziojz2emjf7n"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Usergems",
+   "results": [
+    "https://note.com/gazellecapital/n/n5ccae43d6898",
+    "https://note.com/suna072/n/n8e121dae8e6e"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 2
+  },
+  {
+   "query": "site:x.com Usergems",
+   "results": [
+    "https://x.com/i/article/2100264228947107996",
+    "https://x.com/tryqualified",
+    "https://x.com/wynter_com",
+    "https://x.com/Seannywilson",
+    "https://x.com/dan__rosenthal/status/2113707106872267176",
+    "https://x.com/usergems",
+    "https://x.com/",
+    "https://x.com/0xAlphaGEMs",
+    "https://x.com/rubygems",
+    "https://x.com/hashtag/Gems_Of_Crypto?f=user"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:linkedin.com Usergems",
+   "results": [
+    "https://www.linkedin.com/company/usergems",
+    "https://www.linkedin.com/products/usergems/",
+    "https://www.linkedin.com/company/usergems/life",
+    "https://il.linkedin.com/in/sara-angell",
+    "https://www.linkedin.com/in/trinitynguyen",
+    "https://www.linkedin.com/in/%F0%9F%92%8E-emily-jennings-3a80522",
+    "https://www.linkedin.com/in/isaac-ware",
+    "https://www.linkedin.com/in/derekawang",
+    "https://www.linkedin.com/company/usergems/jobs",
+    "https://www.linkedin.com/in/christiankletzl"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Usergems",
+   "results": [
+    "https://www.facebook.com/usergems/",
+    "https://www.facebook.com/groups/ProspectingAdventures/posts/3570102006482436/",
+    "https://www.facebook.com/SolutechLimited/posts/the-real-shift-isnt-just-ai-giving-your-sales-agent-signals-its-whether-the-team/1685317890268502/",
+    "https://www.facebook.com/repvue/",
+    "https://www.facebook.com/ethiotimesmedia/posts/attention-sales-reps-entrepreneurs-meet-nextsay-an-ai-sales-copilot-that-surface/1049819214350538/",
+    "https://www.facebook.com/liina.laas/posts/knowzilla-will-totally-take-your-sales-team-to-the-next-level-be-like-leo-lets-d/10164612110649666/",
+    "https://www.facebook.com/Pezajob/posts/companies-list-that-are-hiring-for-100-remote-1-aestudio-aestudio2-aerolab-aerol/1082050923017987/",
+    "https://www.facebook.com/rami.sh33/posts/-meet-harvey-the-worlds-best-ai-salesmanwhat-if-your-best-salesperson-never-slee/10163154410162657/",
+    "https://www.facebook.com/ctginfosecjobs/photos/companies-list-that-are-hiring-for-100-remote1-deltek-httpslnkdindksfgnbf2-confl/1073490924777879/",
+    "https://www.facebook.com/usergems/posts/-new-gem-alert-courtney-was-born-and-raised-in-south-carolina-and-currently-live/647388303746635/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Usergems note 社長",
+   "results": [
+    "https://note.com/sadaaki",
+    "https://x.com/sadaaki",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.usergems.com/",
+    "https://www.linkedin.com/in/christiankletzl"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Usergems X 投稿",
+   "results": [
+    "https://x.com/ishida_chatgpt/article/2066323646180954330",
+    "https://note.com/rashi_/n/n38b049c641aa",
+    "https://markenote.jp/article/5304",
+    "https://note.com/kumiko_shiraki/n/n2fc7d028b05c",
+    "https://lp.yoom.fun/blog-posts/how-to-automatically-analyze-x-oauth-posts-with-ai",
+    "https://www.youtube.com/watch?v=67qQ-d5Xfpw",
+    "https://media.brain-market.com/auto-post-master-brain/",
+    "https://x.com/usergems",
+    "https://www.usergems.com/",
+    "https://app.usergems.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部25頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部25頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部25頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部25頁・検索12回）"
+ }
+}

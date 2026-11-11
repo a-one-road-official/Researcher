@@ -1,0 +1,931 @@
+{
+ "name": "Stylebee",
+ "aliases": [],
+ "context": "旧営業リスト｜On-demand Beauty Services｜未接触",
+ "researched_at": "2026-11-11T06:34:22.642381+00:00",
+ "official_url": "http://stylebee.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "4. Seed Round",
+    "value": "04-Aug-2017    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/96773-59",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "a consumer product, marketplace or technology company.",
+    "url": "https://stylebee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The name immediately connects to style, fashion, taste and personal expression.",
+    "url": "https://stylebee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "36氪Pro",
+    "url": "https://www.36kr.com/p/1720905220097",
+    "pass": 3
+   },
+   {
+    "quote": "StyleBee struggled with scaling its operations while maintaining quality and customer satisfaction. The logistical challenges of coordinating beauty professionals with varying schedules and locations...",
+    "url": "https://www.loot-drop.io/startup/1487-stylebee",
+    "pass": 3
+   },
+   {
+    "quote": "Today, the on-demand beauty service industry is more competitive, with established players like Glamsquad and Priv dominating the space. These companies have leveraged partnerships...",
+    "url": "https://www.loot-drop.io/startup/1487-stylebee",
+    "pass": 3
+   },
+   {
+    "quote": "Insight 1: Prioritize operational efficiency and reliable service quality in on-demand platforms. Insight 2: Build a robust backend system for demand-supply matching to avoid...",
+    "url": "https://www.loot-drop.io/startup/1487-stylebee",
+    "pass": 3
+   },
+   {
+    "quote": "The unit economics of StyleBee were challenged by high customer acquisition costs and the logistics of managing a distributed workforce. The growth loops failed...",
+    "url": "https://www.loot-drop.io/startup/1487-stylebee",
+    "pass": 3
+   },
+   {
+    "quote": "An AI-first on-demand beauty service that uses machine learning to predict and optimize beauty professional availability and customer preferences. The platform focuses on providing personalized beauty recommendations, enhancing customer satisfaction and retention.",
+    "url": "https://www.loot-drop.io/startup/1487-stylebee",
+    "pass": 3
+   },
+   {
+    "quote": "Step 1: AI-first prototype blueprint focusing on personalized beauty service recommendations.",
+    "url": "https://www.loot-drop.io/startup/1487-stylebee",
+    "pass": 3
+   },
+   {
+    "quote": "Step 2: Distribution/Validation strategy using targeted online marketing towards urban professionals.",
+    "url": "https://www.loot-drop.io/startup/1487-stylebee",
+    "pass": 3
+   },
+   {
+    "quote": "Step 3: Growth loop leveraging referral incentives and loyalty programs to encourage repeat usage.",
+    "url": "https://www.loot-drop.io/startup/1487-stylebee",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue streams would include a commission on services, subscription models for regular customers, and premium partnerships with beauty brands. Pricing strategy would focus on competitive service fees while offering premium options for exclusive, high-demand services.",
+    "url": "https://www.loot-drop.io/startup/1487-stylebee",
+    "pass": 3
+   },
+   {
+    "quote": "Stylebee - Premium Salon at Home Delhi NCR | Same Expert Every Visit",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "Verified Female Professionals",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "Single-use Hygiene Promise™ Kits",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "Premium, Skin-Safe Products",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "Excellent service from start to finish. Preety was quick, careful...",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "Loved the Korean Glow facial. Priyanshi was very professional and...",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "She is such a humble and wonderful professional. Her service...",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "Hygiene is foundational to every service, not optional. We follow strict, non-negotiable protocols designed for your comfort, privacy, and well-being.",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "Sanitised equipment and professional setup.",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "Stylebee is built to bring salon-quality beauty services to your home — with a strong focus on hygiene, comfort, and professional care. We combine verified female professionals, premium products, and a structured service approach to deliver a consistent and reliable experience every time.",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover a new way to enjoy salon services with Stylebee – where professional beauticians, hygienic practices, and premium beauty treatments come together to create a safe, comfortable, and luxurious beauty experience right in the comfort of your home.",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "Services performed by trained & verified female professionals",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "Single-use Hygiene Promise™ kits for every appointment",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "Premium, skin-safe products",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "A structured, step-by-step service approach",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "No travel. No waiting. No compromise. Just a premium, salon-quality experience at home — delivered with care, hygiene, and professionalism.",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "Choose your service, time, and address. A minimum booking value of ₹999 ensures dedicated service time and premium hygiene standards.",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "Step 2 — We Arrive Prepared",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "A trained, verified female professional arrives with everything required products, tools, and a single use hygiene kit.",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "OUR HYGIENE PROTOCOL:",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "• Tools & Workstation Preparation",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "• Single-use kits pre-packed",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "Our commitment to a professional, hygienic standard, every time.",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "Join our optional membership for exclusive benefits, designed to be pressure-free.",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "• Priority appointment slots",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.",
+    "url": "https://www.stylebee.com/l/japantown/men-s-cut/",
+    "pass": 3
+   },
+   {
+    "quote": "allows clients to book appointments with professional cosmeticians and stylists who come to",
+    "url": "https://www.businessinsider.com/stylebee-review-on-demand-hair-styling-startup-2018-6",
+    "pass": 3
+   },
+   {
+    "quote": "A personal need for one such service arose during a workday recently when I learned that a post-work event I was attending was a tad dressier than I had prepared for. I had packed a change of clothes, but had covered up my bedhead with a hat that morning.",
+    "url": "https://www.businessinsider.com/stylebee-review-on-demand-hair-styling-startup-2018-6",
+    "pass": 3
+   },
+   {
+    "quote": "I was a little surprised that the app of a company founded in 2014 was basically nonfunctional.",
+    "url": "https://www.businessinsider.com/stylebee-review-on-demand-hair-styling-startup-2018-6",
+    "pass": 3
+   },
+   {
+    "quote": "I proceeded to use the website to book my appointment and to upload a headshot and some reference photos of how I'd like my hair to be styled.",
+    "url": "https://www.businessinsider.com/stylebee-review-on-demand-hair-styling-startup-2018-6",
+    "pass": 3
+   },
+   {
+    "quote": "My stylist, Cameo, is a part of a team of professional stylists vetted by a StyleBee team. StyleBee stylists are supposedly available 24/7, according to the",
+    "url": "https://www.businessinsider.com/stylebee-review-on-demand-hair-styling-startup-2018-6",
+    "pass": 3
+   },
+   {
+    "quote": "To be able to continue doing your work wherever you are and have someone come to you to prepare you for an occasion is an appealing concept, and this kind of service is definitely conducive to leading a lifestyle with a work-life balance.",
+    "url": "https://www.businessinsider.com/stylebee-review-on-demand-hair-styling-startup-2018-6",
+    "pass": 3
+   },
+   {
+    "quote": "The process of stylists coming to clients instead of vice versa has a few drawbacks though.",
+    "url": "https://www.businessinsider.com/stylebee-review-on-demand-hair-styling-startup-2018-6",
+    "pass": 3
+   },
+   {
+    "quote": "Cameo told me that stylists can run into issues at times, like getting past security to meet clients, and finding a private place to perform the service. A previous client guided Cameo to a bathroom to do her hair so that the client's colleagues couldn't see her.",
+    "url": "https://www.businessinsider.com/stylebee-review-on-demand-hair-styling-startup-2018-6",
+    "pass": 3
+   },
+   {
+    "quote": "The full range of StyleBee services span from blowouts to makeup to manicures and pedicures with different deal packages and price points.",
+    "url": "https://www.businessinsider.com/stylebee-review-on-demand-hair-styling-startup-2018-6",
+    "pass": 3
+   },
+   {
+    "quote": "I had a clear idea of what I wanted, which I discussed with my stylist prior. I had envisioned a tri-bun updo like the scavenging, Force-sensitive protagonist herself, Rey ...",
+    "url": "https://www.businessinsider.com/stylebee-review-on-demand-hair-styling-startup-2018-6",
+    "pass": 3
+   },
+   {
+    "quote": "... but instead I got a style that looked like, as my co-worker put it, \"if Rey went to prom.\"",
+    "url": "https://www.businessinsider.com/stylebee-review-on-demand-hair-styling-startup-2018-6",
+    "pass": 3
+   },
+   {
+    "quote": "And I couldn't deny how much I enjoyed being pampered and groomed for a whole 40 minutes. Mediocre updo aside, it was nice to be primped while I got some work done.",
+    "url": "https://www.businessinsider.com/stylebee-review-on-demand-hair-styling-startup-2018-6",
+    "pass": 3
+   },
+   {
+    "quote": "The end result wasn't terrible. I had a productive afternoon in the office while I simultaneously prepared for a more formal event on such short notice. It was one of the most useful services I'd ever paid for.",
+    "url": "https://www.businessinsider.com/stylebee-review-on-demand-hair-styling-startup-2018-6",
+    "pass": 3
+   },
+   {
+    "quote": "It'll also be interesting to see how StyleBee compares to Glamsquad, which is probably what I'll try out next time.",
+    "url": "https://www.businessinsider.com/stylebee-review-on-demand-hair-styling-startup-2018-6",
+    "pass": 3
+   },
+   {
+    "quote": "She has also covered the many happenings in the tech industry, from content moderation and data privacy to antitrust issues and regulation.",
+    "url": "https://www.businessinsider.com/stylebee-review-on-demand-hair-styling-startup-2018-6",
+    "pass": 3
+   },
+   {
+    "quote": "STYLEBEE 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/96773-59",
+    "pass": 3
+   },
+   {
+    "quote": "Operator of an online platform designed to offer on-demand beauty treatments and services. The company's platform facilitates men and women in booking stylists who come to their homes and ask about their preferences in haircuts or makeovers, while also offering beauty tips if needed, enabling users to book beauty services as per their schedule and convenience directly using their phone.",
+    "url": "https://pitchbook.com/profiles/company/96773-59",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/96773-59",
+    "pass": 3
+   },
+   {
+    "quote": "22-Apr-2009",
+    "url": "https://pitchbook.com/profiles/company/96773-59",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/96773-59",
+    "pass": 3
+   },
+   {
+    "quote": "STYLEBEE’s primary industry is Other Services (B2C Non-Financial).",
+    "url": "https://pitchbook.com/profiles/company/96773-59",
+    "pass": 3
+   },
+   {
+    "quote": "Is STYLEBEE a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/96773-59",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "StyleBee.com — Available for Acquisition",
+    "url": "https://stylebee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Available for acquisition",
+    "url": "https://stylebee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Please share your contact information and expected acquisition budget.",
+    "url": "https://stylebee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The unit economics of StyleBee were challenged by high customer acquisition costs and the logistics of managing a distributed workforce. The growth loops failed...",
+    "url": "https://www.loot-drop.io/startup/1487-stylebee",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue streams would include a commission on services, subscription models for regular customers, and premium partnerships with beauty brands. Pricing strategy would focus on competitive service fees while offering premium options for exclusive, high-demand services.",
+    "url": "https://www.loot-drop.io/startup/1487-stylebee",
+    "pass": 3
+   },
+   {
+    "quote": "Step 2 — We Arrive Prepared",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "A trained, verified female professional arrives with everything required products, tools, and a single use hygiene kit.",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "Booking a service is simple. Choose your preferred beauty service, select a convenient date and time, and confirm your appointment online. Our certified beautician will arrive at your home with all required tools and hygiene kits.",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "But it was actually a weird sense of relief that, despite the wishy-washy app performance, the service I'd enlisted to do my hair up was so in-demand, I had lost an appointment slot.",
+    "url": "https://www.businessinsider.com/stylebee-review-on-demand-hair-styling-startup-2018-6",
+    "pass": 3
+   },
+   {
+    "quote": "My stylist, Cameo, is a part of a team of professional stylists vetted by a StyleBee team. StyleBee stylists are supposedly available 24/7, according to the",
+    "url": "https://www.businessinsider.com/stylebee-review-on-demand-hair-styling-startup-2018-6",
+    "pass": 3
+   },
+   {
+    "quote": "... which was my favorite part of the entire StyleBee experience. Besides a 10-minute window where I had to receive my stylist in the lobby, I barely skipped a beat in my work flow that day.",
+    "url": "https://www.businessinsider.com/stylebee-review-on-demand-hair-styling-startup-2018-6",
+    "pass": 3
+   },
+   {
+    "quote": "STYLEBEE has 15 total employees.",
+    "url": "https://pitchbook.com/profiles/company/96773-59",
+    "pass": 3
+   },
+   {
+    "quote": "What is STYLEBEE’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/96773-59",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for STYLEBEE is",
+    "url": "https://pitchbook.com/profiles/company/96773-59",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "StyleBee | Failed Startup Case Study",
+    "url": "https://www.loot-drop.io/startup/1487-stylebee",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "StyleBee.com — Available for Acquisition — StyleBee.com is available for acquisition. A rare, brandable .com identity for fashion, beauty, AI styling, virtual wardrobe and modern commerce brands.",
+    "url": "https://stylebee.com/",
+    "pass": 3
+   },
+   {
+    "quote": "YC毕业生StyleBee：让你Uber一下，轻松做个造型-36氪 — 提到共享经济，拼车公司 Uber 以及租房公司 Airbnb 便会浮现在我们脑海，而StyleBee在做的事就是造型领域的Uber。 StyleBee 总部位于洛杉矶，它为造型师 ...",
+    "url": "https://www.36kr.com/p/1720905220097",
+    "pass": 3
+   },
+   {
+    "quote": "StyleBee | Failed Startup Case Study — StyleBee was an on-demand beauty service that aimed to bridge the gap between busy professionals and beauty professionals by offering convenient, at-home beauty treatments. The platform allowed users to book beauty services such as hair styling, makeup, and nails directly to their location, offering flexibility and time-saving benefits. Their value propositio",
+    "url": "https://www.loot-drop.io/startup/1487-stylebee",
+    "pass": 3
+   },
+   {
+    "quote": "STYLEBEE Inc. (@stylebee) • Instagram photos and videos — 4,771 Followers, 512 Following, 1,237 Posts - STYLEBEE Inc. (@stylebee) on Instagram: \"On Location Beauty Services ~NATIONWIDE~\"",
+    "url": "https://www.instagram.com/stylebee/",
+    "pass": 3
+   },
+   {
+    "quote": "STYLEBEE Inc. (@stylebee) • Instagram photos and videosダイニングダーツバーBee｜初めてのダーツデビューにも安心の、ダーツ...Stylebee - Premium Salon at Home Delhi NCR | Same Expert ...Style-Bee (@stylbee_) • Instagram photos and videosIn home Men's Cut in Japantown | STYLEBEEJapanese Style Series - cutebee.net — 4,771 Followers, 512 Following, 1,237 Posts - STYLEBEE Inc. (@stylebee) on Instagram: \"On Location Beauty Services ~NA",
+    "url": "https://www.instagram.com/stylebee/",
+    "pass": 3
+   },
+   {
+    "quote": "Stylebee - Premium Salon at Home Delhi NCR | Same Expert ... — Oct 1, 2026 · Experience premium beauty services at home with Stylebee, designed for modern women who value comfort, hygiene, and professionalism. We bring expert salon services directly to your doorstep across Delhi, Noida, and Gurugram, ensuring a seamless and relaxing experience without the need to step out.",
+    "url": "https://www.stylebee.in/",
+    "pass": 3
+   },
+   {
+    "quote": "In home Men's Cut in Japantown | STYLEBEE — Get a high quality Men's Cut in the comfort of your home or wherever you are in Japantown, we work with highly rated and vetted professionals only. Treat yourself anytime!",
+    "url": "https://www.stylebee.com/l/japantown/men-s-cut/",
+    "pass": 3
+   },
+   {
+    "quote": "StyleBee | Failed Startup Case Study — StyleBee struggled with scaling its operations while maintaining quality and customer satisfaction. The logistical challenges of coordinating beauty professionals with varying schedules and locations...",
+    "url": "https://www.loot-drop.io/startup/1487-stylebee",
+    "pass": 3
+   },
+   {
+    "quote": "Why StyleBee Failed: An Analysis of the On-Demand Beauty ... — Discover how StyleBee aimed to revolutionize the beauty industry by delivering on-demand hair and makeup services directly to clients' doorsteps. Learn more!",
+    "url": "https://reforgers.com/startups/stylebee",
+    "pass": 3
+   },
+   {
+    "quote": "StyleBee Review: What It's Like to Use the 'Uber for Beauty ...StyleBee.com — Available for AcquisitionPYMNTS | StyleBee Simplifies Online Beauty SchedulingRead Customer Service Reviews of stylebee.com - YelpCase Studies | McKinsey & Company — Jul 1, 2018 · Since it launched four years ago, StyleBee has earned the moniker \"Uber for beauty\" for its on-demand styling services that can come to you at",
+    "url": "https://www.businessinsider.com/stylebee-review-on-demand-hair-styling-startup-2018-6",
+    "pass": 3
+   },
+   {
+    "quote": "StyleBee.com — Available for Acquisition — StyleBee combines an instantly recognizable industry keyword with a friendly, modern identity. It is easy to say, easy to spell and flexible enough to support a consumer product, marketplace or technology company.",
+    "url": "https://stylebee.com/",
+    "pass": 3
+   },
+   {
+    "quote": "PYMNTS | StyleBee Simplifies Online Beauty Scheduling — Oct 17, 2018 · As is the case with many entrepreneurs, StyleBee ’s Co-Founder Anna Santeramo was first and foremost solving her own problem with the business she founded. The problem was simple: During her ...",
+    "url": "https://www.pymnts.com/news/retail/2018/stylebee-and-embracing-beauty-on-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "STYLEBEE Inc. (@stylebee) • Instagram photos and videosPartner ProgramAdobe Partner DirectorySTYLEBEE (YCW16) - LinkedInPartner Program - Resellers, Integrators & Tech Partners | VizrtPartner Program - UpCloud — 4,771 Followers, 512 Following, 1,237 Posts - See Instagram photos and videos from STYLEBEE Inc. (@stylebee) The VW Partner Program is designed to give you the best deal on the purchase or",
+    "url": "https://www.instagram.com/stylebee/",
+    "pass": 3
+   },
+   {
+    "quote": "STYLEBEE (YCW16) - LinkedIn — STYLEBEE is a distribution and data platform that connects people and personal care/beauty brands looking to build more meaningful relationships with consumers through personalized and authentic ...",
+    "url": "https://www.linkedin.com/company/stylebee/",
+    "pass": 3
+   },
+   {
+    "quote": "STYLEBEE – Financials, Industry Trends & Funding Info – 2026 — STYLEBEE is an industry name backed by estimated revenue of $2.1M, team of around 20+ employees, from San Francisco, with plans for future expansion.",
+    "url": "https://compworth.com/company/stylebee",
+    "pass": 3
+   },
+   {
+    "quote": "STYLEBEE 2026 Company Profile: Valuation, Funding & Investors ...StyleBee Funding: $1.0M Raised, Investors & History (2026 ...StyleBee - 2025 Company Profile, Team, Funding & Competitors ...StyleBee — Company Profile | The Company CheckStylebee - Overview, News & Similar companies | ZoomInfo.comSTYLEBEE — Company Profile, Funding & Investors — STYLEBEE FAQs When was STYLEBEE founded? STYLEBEE was ",
+    "url": "https://pitchbook.com/profiles/company/96773-59",
+    "pass": 3
+   },
+   {
+    "quote": "StyleBee Funding: $1.0M Raised, Investors & History (2026 ... — Aug 31, 2026 · Summary StyleBee is a Beauty company based in San Francisco, United States. It has raised $1.0M in total across 1 round, most recently a $1.0M Seed round in Jan 2014. Investors include Y Combinator Continuity Fund, Slow Ventures and AltaIR Capital.",
+    "url": "https://indexed.vc/companies/stylebee",
+    "pass": 3
+   },
+   {
+    "quote": "StyleBee - 2025 Company Profile, Team, Funding & Competitors ... — Jun 16, 2025 · StyleBee - About the company StyleBee is a seed company based in San Francisco (United States), founded in 2013 by Anna Santeramo and Anahita Nejad. It operates as a Beauty Services on Demand. StyleBee has raised $1M in funding. The company has 82 active competitors, including 9 funded and 3 that have exited. Its top",
+    "url": "https://tracxn.com/d/companies/stylebee/__SDx0LNILZq71Db8_tSAMSER1JzAH4CVvOVObY48cipQ",
+    "pass": 3
+   },
+   {
+    "quote": "StyleBee — Company Profile | The Company Check — About StyleBee StyleBee is a company based in San Francisco (United States) founded in 2013. StyleBee has raised $1 million across 2 funding rounds from investors including AltaIR Capital and Y Combinator. StyleBee operates in a competitive market with competitors including Madison Reed, Glamsquad, Priv, Manicube and Glitzi, among others.",
+    "url": "https://www.thecompanycheck.com/company/b/stylebee/5ypux91w3bbbmpkky",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/96773-59",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Style Bee In an au where Chloe gets her redemption, Ladybug ... Style Bee In an au where Chloe gets her redemption, Ladybug, after seeing Rena become Rena furtive tells Chloe to get a new identity and pretend she is a new holder. 1st design- Chloe being extra and trying to be incognito. 2nd- Her actual hero design. (Both with a blue alt)",
+    "url": "https://x.com/Aukusuke/status/2061232344904728741",
+    "pass": 3
+   },
+   {
+    "quote": "@stylebeebeauty | X The latest posts from @stylebeebeauty",
+    "url": "https://x.com/stylebeebeauty",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "STYLEBEE (YCW16) - LinkedIn STYLEBEE is a distribution and data platform that connects people and personal care/beauty brands looking to build more meaningful relationships with consumers through personalized and authentic ...",
+    "url": "https://www.linkedin.com/company/stylebee/",
+    "pass": 3
+   },
+   {
+    "quote": "Stylebee Kma Company Split Joined Group Kma Stylebee October ... Oct 14, 2026 · Today’s top 7,000+ Stylebee Kma Company Split Joined Group Kma Stylebee October 1 Announcement jobs in United States. Leverage your professional network, and get hired. New Stylebee Kma Company ...",
+    "url": "https://www.linkedin.com/jobs/stylebee-kma-company-split-joined-group-kma-stylebee-october-1-announcement-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Stylebees | LinkedIn Stylebees | 3 followers on LinkedIn. Online Shopping. Our aim is to deliver Indian Women Clothing worldwide in best quality and Best Price. We are working towards the satisfaction on our customers in quality and on time delivery.",
+    "url": "https://in.linkedin.com/company/stylebees",
+    "pass": 3
+   },
+   {
+    "quote": "Amber Sherbesman - Stylist at STYLEBEE | LinkedInElaine Cho - Makeup Artist at STYLEBEE (YCS15) | LinkedInAnahita Nejad - -- | LinkedInBigLaw to Entrepreneur: Career Inspiration and Style Tips ... Stylist at STYLEBEE · Experience: STYLEBEE · Location: United States. View Amber Sherbesman’s profile on LinkedIn, a professional community of 1 billion members. Makeup Artist at STYLEBEE (YCS15) · Exper",
+    "url": "https://www.linkedin.com/in/amber-sherbesman-020ba01a2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "STYLEBEE - Facebook May 26, 2020 · STYLEBEE. 4,431 likes · 5 were here. ️SKIP THE SALON ️ STYLEBEE connects you to the top local hair and makeup artists to be available to you on your...",
+    "url": "https://www.facebook.com/StyleBeeeee/",
+    "pass": 3
+   },
+   {
+    "quote": "StyleBee - Facebook StyleBee. 47 likes · 6 talking about this. Your One-Stop Destination for Fashion, Beauty & Baby Essentials! ️ Trendy Clothing | Beauty & Personal Care | Baby & Kids Goods Quality Products |...",
+    "url": "https://www.facebook.com/stylebeefashion/",
+    "pass": 3
+   },
+   {
+    "quote": "Style Bee Blog - FacebookStyleBee | Dhaka - FacebookStylebees - FacebookStyleBee | Dhaka - FacebookStylebee - Facebook Oct 31, 2019 · Style Bee Blog. 1,438 followers. I’m Lee (the Bee) Vosburgh, a creator and designer with a penchant for simplicity, quality and comfor StyleBee, Dhaka. 5,302 likes · 519 talking about this. Alhamdulillah!! StyleBee is your one-stop lifestyle destination! 痢 ️ From tr",
+    "url": "https://www.facebook.com/stylebeeblog/",
+    "pass": 3
+   },
+   {
+    "quote": "StyleBee | Dhaka - Facebook StyleBee, Dhaka. 5,302 likes · 519 talking about this. Alhamdulillah!! StyleBee is your one-stop lifestyle destination! 痢 ️ From trendy fashion to smart gadgets, home decor to style accessories – we...",
+    "url": "https://www.facebook.com/EMfashionzone/about/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://stylebee.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.36kr.com/p/1720905220097",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loot-drop.io/startup/1487-stylebee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/stylebee/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ucbjapan.com/about-ucb/summary",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.straight-japan.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.istyle.co.jp/company/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/stylebee/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.stylebee.in/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stylebee.com/l/japantown/men-s-cut/",
+    "status": "http_522",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loot-drop.io/startup/1487-stylebee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reforgers.com/startups/stylebee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessinsider.com/stylebee-review-on-demand-hair-styling-startup-2018-6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/stylebee/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/stylebee",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/96773-59",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://indexed.vc/companies/stylebee",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/stylebee/__SDx0LNILZq71Db8_tSAMSER1JzAH4CVvOVObY48cipQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Aukusuke/status/2061232344904728741",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/stylebee/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/stylebee-kma-company-split-joined-group-kma-stylebee-october-1-announcement-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/stylebees",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/amber-sherbesman-020ba01a2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/StyleBeeeee/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/stylebeefashion/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/stylebeeblog/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/EMfashionzone/about/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/stylebeebeauty",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Stylebee 日本 導入",
+   "results": [
+    "https://stylebee.com/",
+    "https://www.36kr.com/p/1720905220097",
+    "https://www.loot-drop.io/startup/1487-stylebee",
+    "https://www.instagram.com/stylebee/",
+    "https://carislife.hatenablog.com/entry/20261110/1794304800",
+    "https://x.com/CarClip_com/status/2119996622671347967",
+    "https://www.watch.impress.co.jp/docs/news/2155153.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stylebee 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.ucbjapan.com/about-ucb/summary",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://www.straight-japan.com/",
+    "https://www.istyle.co.jp/company/info/",
+    "https://www.jetro.go.jp/invest/setting_up/section1/page1.html",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://ja.nozominetworks.com/company"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stylebee Japan",
+   "results": [
+    "https://stylebee.com/",
+    "https://www.instagram.com/stylebee/",
+    "https://www.stylebee.in/",
+    "https://www.stylebee.com/l/japantown/men-s-cut/",
+    "https://www.cutebee.net/collections/japanese-style-series",
+    "https://www.bee-style.jp/",
+    "https://www.instagram.com/stylbee_/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stylebee manufacturing customer case study",
+   "results": [
+    "https://www.loot-drop.io/startup/1487-stylebee",
+    "https://reforgers.com/startups/stylebee",
+    "https://www.businessinsider.com/stylebee-review-on-demand-hair-styling-startup-2018-6",
+    "https://stylebee.com/",
+    "https://www.pymnts.com/news/retail/2018/stylebee-and-embracing-beauty-on-demand/",
+    "https://www.yelp.com/brands/stylebee",
+    "https://www.mckinsey.com/about-us/case-studies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stylebee white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.instagram.com/stylebee/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.linkedin.com/company/stylebee/",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stylebee founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/stylebee",
+    "https://pitchbook.com/profiles/company/96773-59",
+    "https://indexed.vc/companies/stylebee",
+    "https://tracxn.com/d/companies/stylebee/__SDx0LNILZq71Db8_tSAMSER1JzAH4CVvOVObY48cipQ",
+    "https://www.thecompanycheck.com/company/b/stylebee/5ypux91w3bbbmpkky",
+    "https://www.zoominfo.com/c/stylebee/415302891",
+    "https://acquirezy.com/organization/stylebee"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Stylebee",
+   "results": [
+    "https://note.com/apt_bee8995/n/n2cadb4a99dd4?hl=en",
+    "https://note.com/magic_bee4953/n/n7d74e6f3f70f?hl=en",
+    "https://note.com/rapid_bee2314/n/nc6e2e3ce0643?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/legal_bee7508/n/nb5eef0cc3e1d?hl=en",
+    "https://note.com/famous_bee995/n/n0d50c91b375c?hl=en",
+    "https://note.com/cute_willet990/n/n9529041a97d7"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Stylebee",
+   "results": [
+    "https://about.x.com/en",
+    "https://x.com/Aukusuke/status/2061232344904728741",
+    "https://help.x.com/en",
+    "https://x.com/BusbeeStyle",
+    "https://help.x.com/en/using-x/create-x-account",
+    "https://x.com/PuppyCelebrity",
+    "https://x.com/bg_beestyle"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Stylebee",
+   "results": [
+    "https://www.linkedin.com/company/stylebee/",
+    "https://www.linkedin.com/jobs/stylebee-kma-company-split-joined-group-kma-stylebee-october-1-announcement-jobs",
+    "https://in.linkedin.com/company/stylebees",
+    "https://www.linkedin.com/in/amber-sherbesman-020ba01a2",
+    "https://www.linkedin.com/in/elaine-cho-210075122",
+    "https://www.linkedin.com/in/anahita-nejad-5843082b",
+    "https://www.linkedin.com/pulse/biglaw-entrepreneur-career-inspiration-style-tips-from-katia-bloom?articleId=6231286553507954688"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Stylebee",
+   "results": [
+    "https://www.facebook.com/StyleBeeeee/",
+    "https://www.facebook.com/stylebeefashion/",
+    "https://www.facebook.com/stylebeeblog/",
+    "https://www.facebook.com/EMfashionzone/about/",
+    "https://www.facebook.com/Stylebees/",
+    "https://www.facebook.com/stylebee2/likes/",
+    "https://www.facebook.com/stylebeeboutique/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stylebee note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.cbinsights.com/company/stylebee/people",
+    "https://www.wantedly.com/companies/company_1284824/members",
+    "https://note.com/taifreeestyle/all",
+    "https://note.jp/n/n37b7187040b8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stylebee X 投稿",
+   "results": [
+    "https://x.com/stylebeebeauty",
+    "https://stylebee.com/",
+    "https://www.youtube.com/watch?v=Cu6fu7lzK2A",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://photo-tools.tech/",
+    "https://help.x.com/ja/using-x/instagram-stories-share",
+    "https://news.livedoor.com/article/detail/32710275/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}
