@@ -8,157 +8,87 @@
  ],
  "context": "手順",
  "kind": "market",
- "researched_at": "2026-11-09T10:55:16.859864+00:00",
+ "researched_at": "2026-11-11T05:19:27.989923+00:00",
  "evidence": {
-  "失敗・落とし穴": [
-   {
-    "quote": "書籍を1冊書いただけの著者は、書籍に書いていない情報を持っているとは限らないため、選定時には注意が必要です",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この記事では、エキスパートインタビューの基本的な知識から、具体的な実施ステップ、成功に導くための依頼や質問設計のコツ、さらには実践で役立つ質問例集や注意点まで、網羅的に解説します",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "エキスパートインタビューでよくある失敗と注意点",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "業界の課題と将来性、競合の動向、技術の進化、成功/失敗の要因、ビジネス上の意思決定プロセスなど",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "しかし、それは失敗ではなく、むしろ開発に着手する前に致命的な過ちを回避できた「成功」と捉えるべきです",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "また、社内の人間は、良くも悪くも自社のバイアス（思い込みや固定観念）から逃れることは困難です",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "組織の思い込み（アンコンシャス・バイアス）を打ち破り、新たな発想を生むきっかけ",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ただし、面識のない相手に突然連絡を取ることになるため、依頼の文面には細心の注意を払い、丁寧なコミュニケーションを心がける必要があります",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "まずは相手の経歴や、その業界に関わるようになったきっかけ、過去の成功体験や失敗談などを聞きます",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ただし、詰問調にならないよう、口調や表情には注意が必要です",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "成功体験だけでなく、失敗体験を聞くことで、業界特有の落とし穴やリスクに関するリアルな情報を得られます",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "エキスパートインタビューは非常に強力な手法ですが、いくつかの落とし穴も存在します",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "事前に典型的な失敗例とその対策を理解しておくことで、貴重な機会を無駄にすることを防げます",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ここでは、よくある失敗とその注意点を4つ紹介します",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "最も多く、そして最も致命的な失敗が、",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この失敗を防ぐためには、",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "業界レポート、有価証券報告書、IR資料、業界紙の記事、書籍、論文などを30〜50点単位で読み込み、業界の構造・主要プレイヤー・直近のトピックを把握します",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "エキスパートインタビューとは、特定の業界や分野において豊富な知見を持つ専門家（エキスパート）から、直接ヒアリングを行うことで、質の高い一次情報を収集するリサーチ手法です",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "専門家から質の高い一次情報を得るための手法",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "その最大の目的は、公開情報や一般的な市場調査レポートからは得られない、質の高い「一次情報」を収集することにあります",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ここで言う一次情報とは、専門家自身の経験、見解、分析、予測といった、独自の視点が含まれた情報のことを指します",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "「そのスタートアップが持つ特許技術は、今後5年、10年というスパンで業界の主流になりうるか？代替技術が登場するリスクはどの程度か？」",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "どのような経験年数や専門スキルを持っているか？（例：「〇〇業界で10年以上のプロダクト開発経験を持つ」「〇〇という特定技術に関する特許を取得している」「海外市場の立ち上げを経験したことがある」）",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "専門家の経験に裏打ちされた一次情報に触れることで、事業の仮説を検証し、意思決定の精度を高め、組織に新たな視点をもたらすことができます",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
   "手順・やり方": [
+   {
+    "quote": "This is a workflow post for management consultants, private equity and venture investors, and corporate strategy teams. If you want the general methodology, see our",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "B2B market research expert interview methods",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "The through-line is that you are buying primary insight to reduce the risk of a specific decision. That framing should drive every later step, from who you interview to how you write up the findings.",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Step 1: Define the exact expert profile",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "For example, in diligence on a B2B software target you might want three profiles: current customers, lost or churned customers, and competitors’ sales reps. That mix gives you the bull case, the bear case, and the competitive reality. Our guides on how to",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Step 2: Source verified experts, fast",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "how to recruit B2B research participants",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Step 3: Screen for compliance before anyone joins a call",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "This is the step that separates professional diligence from a liability. Expert interviews in an investing context sit close to sensitive information, and getting compliance wrong can turn useful research into a serious problem. The guidance below is standard practice, not legal advice, and you should confirm your own program with counsel and compliance.",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Step 4: Design a diligence question guide",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Step 5: Run the call",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Step 6: Synthesize into an investment or strategy view",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Strong expert interviews for diligence and strategy come from discipline at every step: a precise profile, fast and verified sourcing, real compliance screening, a question guide tied to decisions, a focused call, and honest synthesis. The method is not exotic, but the stakes and the timelines make execution unforgiving.",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
    {
     "quote": "セミエキスパートインタビューの調査方法・調査の流れ",
     "url": "https://quest-research.co.jp/research/semi-expert-interview",
@@ -560,6 +490,18 @@
   ],
   "実例": [
    {
+    "quote": ". Here we focus only on the diligence, market, and strategy use case.",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "For example, in diligence on a B2B software target you might want three profiles: current customers, lost or churned customers, and competitors’ sales reps. That mix gives you the bull case, the bear case, and the competitive reality. Our guides on how to",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
     "quote": "専門家は多忙なケースが多いため、短時間で必要な情報を引き出す必要があります",
     "url": "https://quest-research.co.jp/research/semi-expert-interview",
     "pass": 3,
@@ -697,6 +639,172 @@
     "pass": 3,
     "first_seen": "2026-11-09"
    }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "common interview mistakes",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "that bias answers matters even more when a deal rides on the findings.",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "書籍を1冊書いただけの著者は、書籍に書いていない情報を持っているとは限らないため、選定時には注意が必要です",
+    "url": "https://constep.jp/column/2835",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この記事では、エキスパートインタビューの基本的な知識から、具体的な実施ステップ、成功に導くための依頼や質問設計のコツ、さらには実践で役立つ質問例集や注意点まで、網羅的に解説します",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "エキスパートインタビューでよくある失敗と注意点",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "業界の課題と将来性、競合の動向、技術の進化、成功/失敗の要因、ビジネス上の意思決定プロセスなど",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "しかし、それは失敗ではなく、むしろ開発に着手する前に致命的な過ちを回避できた「成功」と捉えるべきです",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、社内の人間は、良くも悪くも自社のバイアス（思い込みや固定観念）から逃れることは困難です",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "組織の思い込み（アンコンシャス・バイアス）を打ち破り、新たな発想を生むきっかけ",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ただし、面識のない相手に突然連絡を取ることになるため、依頼の文面には細心の注意を払い、丁寧なコミュニケーションを心がける必要があります",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "まずは相手の経歴や、その業界に関わるようになったきっかけ、過去の成功体験や失敗談などを聞きます",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ただし、詰問調にならないよう、口調や表情には注意が必要です",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "成功体験だけでなく、失敗体験を聞くことで、業界特有の落とし穴やリスクに関するリアルな情報を得られます",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "エキスパートインタビューは非常に強力な手法ですが、いくつかの落とし穴も存在します",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "事前に典型的な失敗例とその対策を理解しておくことで、貴重な機会を無駄にすることを防げます",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ここでは、よくある失敗とその注意点を4つ紹介します",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "最も多く、そして最も致命的な失敗が、",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この失敗を防ぐためには、",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "Public data tells you what already happened. Expert interviews tell you why, what is changing, and what the numbers miss. In a deal or a strategy sprint, you reach for them when the decision is expensive, the timeline is short, and the answer lives inside someone’s operating experience rather than a filing.",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "業界レポート、有価証券報告書、IR資料、業界紙の記事、書籍、論文などを30〜50点単位で読み込み、業界の構造・主要プレイヤー・直近のトピックを把握します",
+    "url": "https://constep.jp/column/2835",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "エキスパートインタビューとは、特定の業界や分野において豊富な知見を持つ専門家（エキスパート）から、直接ヒアリングを行うことで、質の高い一次情報を収集するリサーチ手法です",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "専門家から質の高い一次情報を得るための手法",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "その最大の目的は、公開情報や一般的な市場調査レポートからは得られない、質の高い「一次情報」を収集することにあります",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ここで言う一次情報とは、専門家自身の経験、見解、分析、予測といった、独自の視点が含まれた情報のことを指します",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「そのスタートアップが持つ特許技術は、今後5年、10年というスパンで業界の主流になりうるか？代替技術が登場するリスクはどの程度か？」",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "どのような経験年数や専門スキルを持っているか？（例：「〇〇業界で10年以上のプロダクト開発経験を持つ」「〇〇という特定技術に関する特許を取得している」「海外市場の立ち上げを経験したことがある」）",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "専門家の経験に裏打ちされた一次情報に触れることで、事業の仮説を検証し、意思決定の精度を高め、組織に新たな視点をもたらすことができます",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
   ]
  },
  "figures": {},
@@ -713,17 +821,17 @@
     "method": "http"
    },
    {
-    "url": "https://investment-note.janpia.or.jp/n/ne4f9cebc21a3?gs=1deea8a182caa4c4a65815c6e98c1035",
+    "url": "https://note.com/kenmo_kenmo/n/ne6a4c5b1b4b0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investment-note.janpia.or.jp/n/ne4f9cebc21a3?gs=412d19596e7bebeb5142981f94be445b",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://note.com/mizuoishii/n/n55f9982a47ae",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kenmo_kenmo/n/ne6a4c5b1b4b0",
     "status": "ok",
     "method": "http"
    },
@@ -758,7 +866,7 @@
     "method": "http"
    },
    {
-    "url": "https://book.st-hakky.com/purpose/user-interview-design-method",
+    "url": "https://arches-global.com/ja/services/expert-transcript-library/",
     "status": "ok",
     "method": "http"
    },
@@ -768,37 +876,22 @@
     "method": "http"
    },
    {
+    "url": "https://visasq.co.jp/service/interview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei-r.co.jp/service/overseas/expert_interview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.dm-insight.jp/research-method/expert-research/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://jp.klang.ai/use-cases/expert-interview/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://arches-global.com/ja/services/expert-transcript-library/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://support.direct.visasq.com/hc/ja/articles/46038529111577--%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%83%BC%E3%83%88%E3%81%AE%E9%81%B8%E5%AE%9A%E6%96%B9%E6%B3%95-%E4%BA%8B%E5%89%8D%E7%9B%B8%E8%AB%87%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://culumu.com/glossary/expert-interview-hearing-methodology",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://sts-d.com/blog/web-content/trust/case-study-tips/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://startupscaleup.jp/2025/04/10/expertinterview/",
+    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-how-to/",
     "status": "ok",
     "method": "http"
    },
@@ -808,12 +901,27 @@
     "method": "http"
    },
    {
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide-tips/",
+    "url": "https://glginsights.com/ja/expert-calls/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://visasq.co.jp/lp/interview_service03_spotconsulting",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://media.spready.co.jp/expert-interview/",
+    "url": "https://sts-d.com/blog/web-content/trust/case-study-tips/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arts-crafts.co.jp/post-8050/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide-tips/",
     "status": "ok",
     "method": "http"
    },
@@ -823,34 +931,34 @@
     "method": "http"
    },
    {
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7023962/",
-    "status": "ok",
-    "method": "browser"
+    "url": "https://www.tandfonline.com/doi/full/10.1080/13645579.2020.1766777",
+    "status": "http_403",
+    "method": "http"
    },
    {
-    "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.ajqr.org/download/meaningful-member-checking-a-structured-approach-to-member-checking-12973.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.scribbr.com/methodology/semi-structured-interview/",
+    "url": "https://glg.com/articles/how-to-effectively-interview-a-subject-matter-expert",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://opentext.ku.edu/assessmentevaluationhighered/chapter/chapter-15/",
+    "url": "https://www.guidepoint.com/resources/blog/five-best-practices-for-conducting-expert-research/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://cancercontrol.cancer.gov/sites/default/files/2020-09/nci-dccps-implementationscience-whitepaper.pdf",
+    "url": "https://www.wallstreetoasis.com/forum/hedge-fund/strategies-to-ask-good-questions-during-expert-network-calls",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://expertnetworkcalls.com/blog/76/how-to-conduct-an-expert-interview-complete-guide-for-insight-driven-research",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    }
   ]
  },
@@ -860,17 +968,17 @@
    "results": [
     "https://note.com/tag/%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%88%E3%82%A5%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3",
     "https://note.com/hashtag/%E7%8F%BE%E5%A0%B4",
+    "https://note.com/kenmo_kenmo/n/ne6a4c5b1b4b0",
     "https://note.com/janpia_invest/n/ne4f9cebc21a3",
     "https://note.com/mizuoishii/n/n55f9982a47ae",
-    "https://note.com/kenmo_kenmo/n/ne6a4c5b1b4b0",
     "https://note.com/tag/%E7%A4%BE%E5%86%85%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC",
     "https://note.com/hope_onion/n/n8021d9634b58",
     "https://note.com/helloinc/n/n4f04b7242a69",
-    "https://note.com/shotar/n/n8a3e72033f95",
-    "https://note.com/shownet/n/n9dc4e4f63000"
+    "https://note.com/shownet/n/n9dc4e4f63000",
+    "https://note.com/higuchidesign/n/n82ef175ce4c6"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -883,17 +991,17 @@
     "https://gaishishukatsu.com/archives/37587",
     "https://quest-research.co.jp/research/semi-expert-interview",
     "https://glginsights.com/ja/articles/how-to-effectively-interview-a-subject-matter-expert/",
-    "https://book.st-hakky.com/purpose/user-interview-design-method",
     "https://arches-global.com/ja/expert-knowledge-bank/",
-    "https://www.dm-insight.jp/research-method/expert-research/",
-    "https://note.com/tag/%E5%B0%82%E9%96%80%E5%AE%B6%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC",
+    "https://note.com/sakai_mi/n/n4aefe580528e",
+    "https://book.st-hakky.com/purpose/user-interview-design-method",
+    "https://www.arts-crafts.co.jp/post-8050/",
     "https://constep.jp/column/2835"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 15
   },
   {
    "query": "専門家インタビュー（エキスパートコール）の設計と裏取り（問いの型の固定・崩す側の問い・複数人で比べる・記録の原文で確かめる・未公開情報の扱い・4-106・4-127） やり方",
@@ -902,12 +1010,12 @@
     "https://resory.jp/column/expert-interview-question-design",
     "https://quest-research.co.jp/research/semi-expert-interview",
     "https://gaishishukatsu.com/archives/37587",
-    "https://www.dm-insight.jp/research-method/expert-research/",
-    "https://jp.klang.ai/use-cases/expert-interview/",
+    "https://visasq.co.jp/service/interview",
+    "https://www.nikkei-r.co.jp/service/overseas/expert_interview",
     "https://arches-global.com/ja/expert-knowledge-bank/",
-    "https://support.direct.visasq.com/hc/ja/articles/46038529111577--%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%83%BC%E3%83%88%E3%81%AE%E9%81%B8%E5%AE%9A%E6%96%B9%E6%B3%95-%E4%BA%8B%E5%89%8D%E7%9B%B8%E8%AB%87%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9",
-    "https://culumu.com/glossary/expert-interview-hearing-methodology",
-    "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/"
+    "https://note.com/brimmingwithx/n/n87c1e61795ab",
+    "https://www.dm-insight.jp/research-method/expert-research/",
+    "https://crexgroup.com/ja/data/column/research-methods/expert-interview-how-to/"
    ],
    "engines": [
     "ddgs:google",
@@ -918,59 +1026,59 @@
   {
    "query": "専門家インタビュー（エキスパートコール）の設計と裏取り（問いの型の固定・崩す側の問い・複数人で比べる・記録の原文で確かめる・未公開情報の扱い・4-106・4-127） 事例",
    "results": [
+    "https://glginsights.com/ja/expert-calls/",
     "https://resory.jp/column/expert-interview-question-design",
-    "https://glginsights.com/ja/articles/how-to-effectively-interview-a-subject-matter-expert/",
-    "https://www.dm-insight.jp/research-method/expert-research/",
-    "https://quest-research.co.jp/research/semi-expert-interview",
     "https://gaishishukatsu.com/archives/37587",
+    "https://quest-research.co.jp/research/semi-expert-interview",
     "https://arches-global.com/ja/expert-knowledge-bank/",
-    "https://culumu.com/glossary/expert-interview-hearing-methodology",
+    "https://www.dm-insight.jp/research-method/expert-research/",
+    "https://visasq.co.jp/lp/interview_service03_spotconsulting",
     "https://sts-d.com/blog/web-content/trust/case-study-tips/",
-    "https://startupscaleup.jp/2025/04/10/expertinterview/",
-    "https://constep.jp/column/2835"
+    "https://www.arts-crafts.co.jp/post-8050/",
+    "https://glginsights.com/ja/articles/how-to-effectively-interview-a-subject-matter-expert/"
    ],
    "engines": [
     "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "expert call interview guide design triangulation investment research",
+   "results": [
+    "https://www.tandfonline.com/doi/full/10.1080/13645579.2020.1766777",
+    "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
+    "https://glg.com/articles/how-to-effectively-interview-a-subject-matter-expert",
+    "https://www.guidepoint.com/resources/blog/five-best-practices-for-conducting-expert-research/",
+    "https://www.wallstreetoasis.com/forum/hedge-fund/strategies-to-ask-good-questions-during-expert-network-calls",
+    "https://expertnetworkcalls.com/blog/76/how-to-conduct-an-expert-interview-complete-guide-for-insight-driven-research",
+    "https://sociology.fas.harvard.edu/resource/interviewstrategiespdf",
+    "https://www.silverlightresearch.com/how-to-interview-a-subject-matter-industry-expert.html",
+    "https://nexusexpertresearch.co/blog/how-to-conduct-expert-interviews/",
+    "https://insights.woozleresearch.com/blog/how-to-structure-run-and-synthesize-expert-calls-that-actually-drive-investment-decisions-2/"
+   ],
+   "engines": [
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 15
   },
   {
-   "query": "expert call interview guide design triangulation investment research",
-   "results": [
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7023962/",
-    "https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140",
-    "https://www.ajqr.org/download/meaningful-member-checking-a-structured-approach-to-member-checking-12973.pdf",
-    "https://www.scribbr.com/methodology/semi-structured-interview/",
-    "https://opentext.ku.edu/assessmentevaluationhighered/chapter/chapter-15/",
-    "https://cancercontrol.cancer.gov/sites/default/files/2020-09/nci-dccps-implementationscience-whitepaper.pdf",
-    "https://www.nngroup.com/articles/triangulation-better-research-results-using-multiple-ux-methods/",
-    "https://journals.sagepub.com/doi/10.1177/14413582241264619",
-    "https://igotanoffer.com/blogs/mckinsey-case-interview-blog/market-sizing-questions",
-    "https://insights.woozleresearch.com/blog/primary-research-for-investment-professionals-the-complete-guide-to-expert-calls-b2b-surveys-and-channel-checks/"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
    "query": "site:note.com 専門家インタビュー（エキスパートコール）の設計と裏取り（問いの型の固定・崩す側の問い・複数人で比べる・記録の原文で確かめる・未公開情報の扱い・4-106・4-127）",
    "results": [
     "https://note.com/tag/%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%88%E3%82%A5%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3",
-    "https://note.com/kenmo_kenmo/n/ne6a4c5b1b4b0",
     "https://note.com/hashtag/%E7%8F%BE%E5%A0%B4",
+    "https://note.com/kenmo_kenmo/n/ne6a4c5b1b4b0",
     "https://note.com/janpia_invest/n/ne4f9cebc21a3",
     "https://note.com/mizuoishii/n/n55f9982a47ae",
-    "https://note.com/shotar/n/n8a3e72033f95",
     "https://note.com/tag/%E7%A4%BE%E5%86%85%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC",
     "https://note.com/helloinc/n/n4f04b7242a69",
     "https://note.com/ritsuto2525/n/n050a50b2449c",
+    "https://note.com/shownet/n/n9dc4e4f63000",
     "https://note.com/higuchidesign/n/n82ef175ce4c6"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -999,18 +1107,18 @@
    "query": "site:linkedin.com 専門家インタビュー（エキスパートコール）の設計と裏取り（問いの型の固定・崩す側の問い・複数人で比べる・記録の原文で確かめる・未公開情報の扱い・4-106・4-127）",
    "results": [
     "https://jp.linkedin.com/pulse/creative-strategy-role-definitive-guide-all-levels-game-levinger-xacge?tl=ja",
-    "https://jp.linkedin.com/in/miorim",
     "https://jp.linkedin.com/in/naotakehibiya",
+    "https://jp.linkedin.com/in/miorim",
     "https://jp.linkedin.com/in/kaoru-ogawa-870b1735",
     "https://jp.linkedin.com/in/yumin-oliver-huang-7472b7b0",
-    "https://jp.linkedin.com/in/hiromichikato8",
     "https://jp.linkedin.com/in/ichimoto-masumi-517975211",
+    "https://jp.linkedin.com/in/hiromichikato8",
     "https://jp.linkedin.com/in/yukariminai371",
     "https://th.linkedin.com/in/%E8%B2%B4%E5%A4%A7-%E9%A4%98%E7%94%B0-b12980b8",
     "https://jp.linkedin.com/in/junji-ueno-0b9b0847"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -1020,12 +1128,12 @@
    "results": [
     "https://www.facebook.com/fhatimach/videos/%E3%81%8A%E9%87%91%E3%81%AE%E3%81%8B%E3%81%8B%E3%82%8A%E3%81%A4%E3%81%91%E5%8C%BBi%E6%B1%A0%E3%81%95%E3%82%93%E3%81%A7%E3%81%99-%E3%83%95%E3%82%A9%E3%83%AD%E3%83%AF%E3%83%BC%E7%B7%8F%E6%95%B07%E4%B8%87%E4%BA%BA%E5%80%8B%E5%88%A5%E7%9B%B8%E8%AB%871500%E5%90%8D%E4%BB%A5%E4%B8%8A%E3%81%AE%E5%AE%9F%E7%B8%BE%E9%A1%A7%E5%AE%A2%E6%BA%80%E8%B6%B3%E5%BA%A690%E8%B6%85%E9%87%91%E8%9E%8D%E4%BA%BA%E7%94%9F%E8%A8%AD%E8%A8%88%E3%81%AE%E5%B0%82%E9%96%80%E5%AE%B6%E3%81%A8%E3%81%97%E3%81%A6%E6%B4%BB%E5%8B%95%E4%B8%80%E7%A4%BE%E3%81%AE%E5%BD%B9%E5%93%A1%E3%81%A8%E3%81%97%E3%81%A6%E3%82%82%E7%B5%8C%E5%96%B6%E5%8F%82%E7%94%BB20%E3%82%AB%E5%9B%BD/1105802909021789/",
     "https://www.facebook.com/reel/2110171856056863/",
-    "https://www.facebook.com/mimir.inc/posts/国内初エキスパートアワード受賞者インタビューエキスパートオピニオン部門エキスパートオピニオン部門では先端領域の課題や未来像について専門的な知見をもとに見解をいた/3849703335072739/",
+    "https://www.facebook.com/HCDprofessional/",
     "https://eu-es.facebook.com/majorcraft.japan/videos/-開発者インタビュー-キレ切れダートのベイトフェザー音波について開発者の餌木博士薗田氏解説餌木蔵インスタキャンペーン開催中エギング-餌木蔵-餌木-エギベイトフェ/861683698550041/",
+    "https://www.facebook.com/mimir.inc/posts/国内初エキスパートアワード受賞者インタビューエキスパートオピニオン部門エキスパートオピニオン部門では先端領域の課題や未来像について専門的な知見をもとに見解をいた/3849703335072739/",
     "https://www.facebook.com/mimir.inc/posts/3849704675072605/",
-    "https://www.facebook.com/100069342184247/posts/チャレンジ外国語-外務省の外国語専門家インタビューインドネシア語の専門家-内藤さん-海外経験無しゼロからの外交官人生-内藤さんは外務専門職試験を受けるまで海外に/1037798688541528/",
-    "https://www.facebook.com/Mofa.student/posts/チャレンジ外国語-外務省の外国語専門家インタビュー-フランス語研修の職員が外交官を目指した理由やフランスでの在外研修在ベナン日本国大使館での在外勤務経験通訳での/2987669364811619/",
-    "https://www.facebook.com/sekimotolab/photos/ドイツのuniversity-of-applied-sciences-and-artsfachhochschule-dortmundの博士学生juliane-v/1128947328553929/"
+    "https://www.facebook.com/61558945901690/videos/1109125318355156/",
+    "https://www.facebook.com/Kurumesibentou/photos/社員インタビューjfd株式会社の企業理念最高の選択肢を提供するを毎日体感しているのがコールセンター運営を担当する高倉岳志である-常に意識しているのは頂いた質問に/710266635789213/"
    ],
    "engines": [
     "ddgs:google",
@@ -1036,19 +1144,19 @@
   {
    "query": "専門家インタビュー（エキスパートコール）の設計と裏取り（問いの型の固定・崩す側の問い・複数人で比べる・記録の原文で確かめる・未公開情報の扱い・4-106・4-127） note 社長",
    "results": [
+    "https://note.com/tag/%E7%B5%8C%E5%96%B6%E8%80%85%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC",
+    "https://note.com/minemaru/n/nb2538e47f990",
+    "https://codezine.jp/news/detail/27936",
     "https://note.com/rintarosakai/n/n6c43bc22d3ce",
     "https://glginsights.com/ja/articles/how-to-effectively-interview-a-subject-matter-expert/",
     "https://resory.jp/column/expert-interview-question-design",
     "https://gaishishukatsu.com/archives/37587",
-    "https://codezine.jp/news/detail/27936",
-    "https://note.com/minemaru/n/nb2538e47f990",
-    "https://note.com/tag/CEO%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC",
-    "https://www.arts-crafts.co.jp/post-8050/",
-    "https://note.com/quick_919/n/n5f3c0be1376a",
-    "https://note.com/tom_mba/n/n29c8b15788b1"
+    "https://note.com/ipcc/n/nceadc840ec61",
+    "https://www.youtube.com/watch?v=4lGfunVZxT0",
+    "https://note.com/brimmingwithx/n/n87c1e61795ab"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -1056,33 +1164,35 @@
   {
    "query": "専門家インタビュー（エキスパートコール）の設計と裏取り（問いの型の固定・崩す側の問い・複数人で比べる・記録の原文で確かめる・未公開情報の扱い・4-106・4-127） X 投稿",
    "results": [
-    "https://glginsights.com/ja/articles/how-to-effectively-interview-a-subject-matter-expert/",
     "https://resory.jp/column/expert-interview-question-design",
-    "https://www.dm-insight.jp/research-method/expert-research/",
+    "https://glginsights.com/ja/articles/how-to-effectively-interview-a-subject-matter-expert/",
     "https://note.com/brimmingwithx/n/n87c1e61795ab",
     "https://visasq.co.jp/service/interview",
+    "https://www.dm-insight.jp/research-method/expert-research/",
     "https://www.arts-crafts.co.jp/post-8050/",
     "https://www.youtube.com/watch?v=weNoN4eoZDQ",
-    "https://r25.jp/companies/number-x/interview/867235808157892608",
-    "https://startupscaleup.jp/2025/04/10/expertinterview/"
+    "https://startupscaleup.jp/2025/04/10/expertinterview/",
+    "https://www.strh.co.jp/knowledge/interview-design",
+    "https://constep.jp/column/2835"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 13
   },
   {
    "query": "expert call interview guide design triangulation investment research site:linkedin.com",
    "results": [
     "https://www.linkedin.com/top-content/science/research-methods/triangulation-methods-in-research/",
+    "https://www.linkedin.com/posts/eldimpact_data-triangulation-in-me-how-to-validate-activity-7421512756840923136-TJRM",
     "https://www.linkedin.com/posts/prof-islam-elgammal-ab414943_triangulation-in-research-the-concept-most-activity-7434519649121148928--gIb",
-    "https://www.linkedin.com/top-content/organizational-culture/creating-a-feedback-culture/best-practices-for-gathering-customer-insights/",
-    "https://www.linkedin.com/top-content/communication/mastering-questioning-skills/questioning-interpretation-techniques/",
     "https://www.linkedin.com/pulse/how-develop-case-study-research-design-four-phases-guide-aleem-7qeef",
-    "https://www.linkedin.com/top-content/user-experience/user-persona-development/qualitative-research-in-persona-development/",
     "https://www.linkedin.com/pulse/dissecting-case-study-research-stake-merriam-icmc-bimtech",
+    "https://www.linkedin.com/top-content/marketing/marketing-campaign-tactics/how-to-apply-triangulation-in-marketing/",
     "https://www.linkedin.com/pulse/ux-research-participants-journey-marc-busch-suskf",
-    "https://www.linkedin.com/pulse/6-strategies-increase-validity-qualitative-research-jaroslaw-kriukow",
+    "https://www.linkedin.com/top-content/organizational-culture/creating-a-feedback-culture/best-practices-for-gathering-customer-insights/",
+    "https://www.linkedin.com/posts/judith-mintz-phd-she-her-_i-have-been-asked-to-define-my-approach-to-activity-7391616793586393089-4CDO",
     "https://www.linkedin.com/in/nicole-b-carbone"
    ],
    "engines": [
@@ -1094,695 +1204,123 @@
  ],
  "missing": {},
  "new_this_run": {
-  "失敗・落とし穴": [
-   {
-    "quote": "書籍を1冊書いただけの著者は、書籍に書いていない情報を持っているとは限らないため、選定時には注意が必要です",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この記事では、エキスパートインタビューの基本的な知識から、具体的な実施ステップ、成功に導くための依頼や質問設計のコツ、さらには実践で役立つ質問例集や注意点まで、網羅的に解説します",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "エキスパートインタビューでよくある失敗と注意点",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "業界の課題と将来性、競合の動向、技術の進化、成功/失敗の要因、ビジネス上の意思決定プロセスなど",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "しかし、それは失敗ではなく、むしろ開発に着手する前に致命的な過ちを回避できた「成功」と捉えるべきです",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "また、社内の人間は、良くも悪くも自社のバイアス（思い込みや固定観念）から逃れることは困難です",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "組織の思い込み（アンコンシャス・バイアス）を打ち破り、新たな発想を生むきっかけ",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ただし、面識のない相手に突然連絡を取ることになるため、依頼の文面には細心の注意を払い、丁寧なコミュニケーションを心がける必要があります",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "まずは相手の経歴や、その業界に関わるようになったきっかけ、過去の成功体験や失敗談などを聞きます",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ただし、詰問調にならないよう、口調や表情には注意が必要です",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "成功体験だけでなく、失敗体験を聞くことで、業界特有の落とし穴やリスクに関するリアルな情報を得られます",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "エキスパートインタビューは非常に強力な手法ですが、いくつかの落とし穴も存在します",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "事前に典型的な失敗例とその対策を理解しておくことで、貴重な機会を無駄にすることを防げます",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ここでは、よくある失敗とその注意点を4つ紹介します",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "最も多く、そして最も致命的な失敗が、",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この失敗を防ぐためには、",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "業界レポート、有価証券報告書、IR資料、業界紙の記事、書籍、論文などを30〜50点単位で読み込み、業界の構造・主要プレイヤー・直近のトピックを把握します",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "エキスパートインタビューとは、特定の業界や分野において豊富な知見を持つ専門家（エキスパート）から、直接ヒアリングを行うことで、質の高い一次情報を収集するリサーチ手法です",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "専門家から質の高い一次情報を得るための手法",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "その最大の目的は、公開情報や一般的な市場調査レポートからは得られない、質の高い「一次情報」を収集することにあります",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ここで言う一次情報とは、専門家自身の経験、見解、分析、予測といった、独自の視点が含まれた情報のことを指します",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "「そのスタートアップが持つ特許技術は、今後5年、10年というスパンで業界の主流になりうるか？代替技術が登場するリスクはどの程度か？」",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "どのような経験年数や専門スキルを持っているか？（例：「〇〇業界で10年以上のプロダクト開発経験を持つ」「〇〇という特定技術に関する特許を取得している」「海外市場の立ち上げを経験したことがある」）",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "専門家の経験に裏打ちされた一次情報に触れることで、事業の仮説を検証し、意思決定の精度を高め、組織に新たな視点をもたらすことができます",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
   "手順・やり方": [
    {
-    "quote": "セミエキスパートインタビューの調査方法・調査の流れ",
-    "url": "https://quest-research.co.jp/research/semi-expert-interview",
+    "quote": "This is a workflow post for management consultants, private equity and venture investors, and corporate strategy teams. If you want the general methodology, see our",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "Top Tierの戦略コンサル出身者が自ら実践する中で繰り返しアップデートしている手順や資料フォーマットを用い、高いクオリティーのアウトプットを納品いたします",
-    "url": "https://quest-research.co.jp/research/semi-expert-interview",
+    "quote": "B2B market research expert interview methods",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "STEP1 事前打ち合わせ",
-    "url": "https://quest-research.co.jp/research/semi-expert-interview",
+    "quote": "The through-line is that you are buying primary insight to reduce the risk of a specific decision. That framing should drive every later step, from who you interview to how you write up the findings.",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "STEP2 対象者リクルーティング",
-    "url": "https://quest-research.co.jp/research/semi-expert-interview",
+    "quote": "Step 1: Define the exact expert profile",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "STEP3 インタビュー実施",
-    "url": "https://quest-research.co.jp/research/semi-expert-interview",
+    "quote": "For example, in diligence on a B2B software target you might want three profiles: current customers, lost or churned customers, and competitors’ sales reps. That mix gives you the bull case, the bear case, and the competitive reality. Our guides on how to",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "STEP4 納品",
-    "url": "https://quest-research.co.jp/research/semi-expert-interview",
+    "quote": "Step 2: Source verified experts, fast",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "エキスパートインタビューのやり方｜コンサル流の設計・実施・示唆抽出を解説 | ConStep",
-    "url": "https://constep.jp/column/2835",
+    "quote": "how to recruit B2B research participants",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "エキスパートインタビューのやり方｜コンサル流の設計・実施・示唆抽出を解説",
-    "url": "https://constep.jp/column/2835",
+    "quote": "Step 3: Screen for compliance before anyone joins a call",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "本記事では、エキスパートインタビューを「単なる情報収集」から「仮説検証の精密手段」に引き上げるための設計・実施・示唆抽出の方法論を、現役コンサルタント監修の視点で体系的に整理します",
-    "url": "https://constep.jp/column/2835",
+    "quote": "This is the step that separates professional diligence from a liability. Expert interviews in an investing context sit close to sensitive information, and getting compliance wrong can turn useful research into a serious problem. The guidance below is standard practice, not legal advice, and you should confirm your own program with counsel and compliance.",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "質問設計は仮説提示型が基本で、オープン質問の連発は避ける",
-    "url": "https://constep.jp/column/2835",
+    "quote": "Step 4: Design a diligence question guide",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "どの反応であっても、仮説提示型のほうがオープン質問より圧倒的に有益な情報が得られます",
-    "url": "https://constep.jp/column/2835",
+    "quote": "Step 5: Run the call",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "エキスパートネットワークサービス（GLG、Coleman、Third Bridge等）を使う方法、業界知人からの紹介、LinkedInによる直接接触などです",
-    "url": "https://constep.jp/column/2835",
+    "quote": "Step 6: Synthesize into an investment or strategy view",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "ConStepを運営する株式会社Ballistaは、戦略系・大手コンサルファーム出身者が結集したプロフェッショナルファームとして、自社で中堅コンサルタント層のエキスパートインタビュー力を育成してきた経験を持ちます",
-    "url": "https://constep.jp/column/2835",
+    "quote": "Strong expert interviews for diligence and strategy come from discipline at every step: a precise profile, fast and verified sourcing, real compliance screening, a question guide tied to decisions, a focused call, and honest synthesis. The method is not exotic, but the stakes and the timelines make execution unforgiving.",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
     "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ConStepの教材『リサーチ』では、エキスパートインタビューの設計・実施・示唆抽出までを、実務シナリオに沿って体系的に学べる構成にしています",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "仮説提示型の質問が、オープン質問より圧倒的に深い情報を引き出す",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ConStepは、AI時代の上流人材育成プラットフォームです",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "本記事で紹介したエキスパートインタビューのやり方は、ConStepの",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ビジネスリサーチの方法｜コンサル流の調査設計・手法・組織定着を解説",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "タスク管理で仕事を効率化｜コンサル流タスク設計・推進の方法を解説",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "エキスパートインタビューのやり方とは？依頼から質問までのコツ5選",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この記事では、エキスパートインタビューの基本的な知識から、具体的な実施ステップ、成功に導くための依頼や質問設計のコツ、さらには実践で役立つ質問例集や注意点まで、網羅的に解説します",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この記事を読めば、エキスパートインタビューを効果的に活用し、あなたのビジネスを次のステージへと推し進めるための具体的な方法論を習得できるでしょう",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "エキスパートインタビューのやり方・全7ステップ",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "【実践編】エキスパートインタビューを成功させるコツ5選",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "長年同じ事業に携わっていると、「我々の顧客はこうあるべきだ」「このやり方が一番効率的だ」といった固定観念に縛られがちです",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "外部の専門家からの「なぜ、そのやり方に固執しているのですか？」「〇〇という視点から考えたことはありますか？」といった素朴な問いかけが、",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ここでは、目的設定からアフターフォローまで、インタビューを成功に導くための全7ステップを具体的に解説します",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この最初のステップが曖昧なまま進むと、インタビュー全体が散漫になり、時間とコストをかけたにもかかわらず、何の成果も得られないという最悪の結果を招きかねません",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "目的とゴールが明確であればあるほど、次のステップである対象者の選定や質問設計の精度が格段に向上します",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "依頼の具体的な方法（探し方）やメールの書き方については後の章で詳しく解説しますが、このステップで重要なのは、",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "事前に収集した情報と、ステップ①で設定した「知りたいこと」を基に、当日の質問リスト（インタビューガイド）を作成します",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "質問設計の具体的な方法については、後の章で詳しく解説します",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "事前に取り決めた謝礼を、速やかに指定された方法で支払います",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "これらの7つのステップを丁寧に行うことで、エキスパートインタビューの効果を最大化し、ビジネスを成功に導くための確かな一歩を踏み出すことができるでしょう",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "特に、セミエキスパートインタビューとは特定企業の部門や役職を条件として対象をリクルーティングするのではなく、業界全体・職種全体を検索対象とすることでよりクイックに対象者を確保し仮説検証を行うことが可能です",
-    "url": "https://quest-research.co.jp/research/semi-expert-interview",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ある業界や職種のエキスパートに対して、クイックに仮説検証ができる",
-    "url": "https://quest-research.co.jp/research/semi-expert-interview",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "一方で、実務では「相手の話を聞いて終わり」「断片情報の集積になってしまう」「仮説検証にならない」という課題が頻発します",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "本記事では、エキスパートインタビューを「単なる情報収集」から「仮説検証の精密手段」に引き上げるための設計・実施・示唆抽出の方法論を、現役コンサルタント監修の視点で体系的に整理します",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "エキスパートインタビューは「情報収集」ではなく「仮説検証」の手段として位置づける",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "質問設計は仮説提示型が基本で、オープン質問の連発は避ける",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "エキスパートインタビューの位置づけ──情報収集ではなく仮説検証",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "エキスパートインタビューの本質は、情報収集ではなく仮説検証です",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "引き出すためには、こちらが仮説を持って臨み、「私たちはAという仮説を立てているが、これは妥当か」と問いかける必要があります",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "仮説を提示すると、相手は「同意する／部分的に異なる／そもそも論点設定が違う」のいずれかの反応を返します",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "同意なら仮説が補強され、異なるなら理由が引き出せ、論点違いならインタビュー全体の方向が修正できます",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "どの反応であっても、仮説提示型のほうがオープン質問より圧倒的に有益な情報が得られます",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "完全に未知の領域では、仮説を持ち得ない場合もあります",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "その場合は、まず公開情報を徹底的に読み込んで粗い仮説を作り、それから初回インタビューに臨むのが正攻法です",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "公開情報の読み込みから、現時点での仮説を言語化します",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "「この業界では、Aという構造変化が起きているのではないか」「この戦略はBという理由で苦戦しているのではないか」といった、検証可能な命題の形に落とし込みます",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "仮説は3〜5本程度に絞り、インタビュー内で全て検証できる量に調整します",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "業界構造の理解、市場動向の予測、技術評価、ビジネスモデルの検証など、",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "チーム内でどれだけ議論を重ね、市場調査を入念に行ったとしても、それはあくまで「仮説」の域を出ません",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "その仮説が本当に市場に受け入れられるのか、ビジネスとして成立するのかを確かめることなく開発を進めるのは、暗闇の中を手探りで進むようなものであり、大きなリスクを伴います",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この「仮説」の精度を、市場にリリースする前に格段に高めるための強力な検証ツール",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "彼らのチームは以下のような仮説を立てました",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "これらの仮説を検証するために、建設業界で10年以上の経験を持つ現場監督や、建設会社を経営する専門家にインタビューを実施します",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "インサイト1（仮説1の検証）:",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "インサイト2（仮説2の検証）:",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "インサイト3（仮説3の検証）:",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "机上の空論だった仮説が、市場のリアルな文脈の中で検証され、より解像度の高いものへと進化",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "時には、当初の仮説が完全に覆されることもあるでしょう",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "整理された情報の中から、当初の仮説を裏付ける/覆す発見、新たな気づき、課題解決のヒントとなるような「インサイト（洞察）」を抽出します",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "特に、〇〇様がご経験された（具体的な経験やプロジェクト名）についてのお話は、我々の事業仮説を検証する上で非常に貴重なものになると考えております",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "「自分たちはこう考えているが、本当にそうだろうか？」という明確な仮説",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "仮説とは、現時点で持っている情報から導き出される「仮の答え」のことです",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-11"
    }
   ],
   "実例": [
    {
-    "quote": "専門家は多忙なケースが多いため、短時間で必要な情報を引き出す必要があります",
-    "url": "https://quest-research.co.jp/research/semi-expert-interview",
+    "quote": ". Here we focus only on the diligence, market, and strategy use case.",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "エキスパートであっても消費者向けのアンケートパネルに登録されているケースは多く、出現率が高そうな対象者を設定している場合には消費者パネルを通じてリクルーティングが可能です",
-    "url": "https://quest-research.co.jp/research/semi-expert-interview",
+    "quote": "For example, in diligence on a B2B software target you might want three profiles: current customers, lost or churned customers, and competitors’ sales reps. That mix gives you the bull case, the bear case, and the competitive reality. Our guides on how to",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-11"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "common interview mistakes",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "エキスパートが何かを発言したら、「なぜそう考えるのですか」「具体的な事例はありますか」「逆に当てはまらないケースはありますか」と、深掘り質問を3段重ねます",
-    "url": "https://constep.jp/column/2835",
+    "quote": "that bias answers matters even more when a deal rides on the findings.",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
     "pass": 3,
-    "first_seen": "2026-11-09"
-   },
+    "first_seen": "2026-11-11"
+   }
+  ],
+  "一次情報の探し方": [
    {
-    "quote": "質問者が沈黙に耐えられず追加で説明を始めると、相手の思考が中断され、結果として浅い回答に終わります",
-    "url": "https://constep.jp/column/2835",
+    "quote": "Public data tells you what already happened. Expert interviews tell you why, what is changing, and what the numbers miss. In a deal or a strategy sprint, you reach for them when the decision is expensive, the timeline is short, and the answer lives inside someone’s operating experience rather than a filing.",
+    "url": "https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/",
     "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "複数人のインタビュー結果を、論点ごとに「全員が同意した点」「多くが同意したが一部異論あり」「人によって意見が割れた点」の3段階で整理します",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "整理結果から、意思決定に直結する示唆を1〜3個に絞ります",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "元経営層・希少領域の専門家になると、1時間20万円を超えるケースもあります",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Q. インタビュー結果を社内でどう活用すべきですか？",
-    "url": "https://constep.jp/column/2835",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "例えば、以下のような情報が該当します",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "例えば、新しいSaaSプロダクトを開発する場合、まずエキスパートインタビューで「そもそもその市場に将来性はあるのか」「どのようなビジネスモデルが成功しやすいのか」といった大局的な情報を掴み、その後、ユーザーインタビューで「具体的なターゲットユーザーはどのような業務課題を抱えているのか」「プロトタイプは使いやすいか」といった詳細なニーズを探るといった、両者を組み合わせたアプローチが非常に効果的です",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "例えば、あるIT企業が「建設業界向けのプロジェクト管理SaaS」という新規事業を検討しているとします",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "例えば、ある製造業の企業が、新たな技術を持つスタートアップ企業の買収（M&A）を検討しているとします",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "例えば、金融業界のセキュリティ対策の専門家に話を聞くことで、自社のECサイトの不正利用対策に応用できる新たな知見が得られるかもしれません",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この最初のステップが曖昧なまま進むと、インタビュー全体が散漫になり、時間とコストをかけたにもかかわらず、何の成果も得られないという最悪の結果を招きかねません",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "例えば、「BtoB SaaSの価格戦略について知りたい」という目的であれば、自社のプロダクトマネージャーではなく、複数のSaaS企業で価格設定の意思決定に関わった経験のある事業責任者や、SaaS業界専門のコンサルタントが最適な対象者となります",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ボランティアで協力してくれるケースもありますが、基本的には相手の貴重な時間をいただく対価として、何らかのメリットを提示するのがマナーです",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "その他、Amazonギフト券などの商品券で支払うケースもあります",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "例えば、「我々のターゲット顧客は、〇〇という課題に最も困っているはずだ」「この市場で成功するためには、△△という機能が不可欠だろう」といったものです",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "例えば、「その機能はあまり使われていません」という発言に対して、「なぜ使われていないのでしょうか？」→「操作が複雑だからです」→「なぜ複雑だと感じるのでしょうか？」と掘り下げていくことで、真の課題が見えてきます",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "「例えば、どのような状況でしょうか？」「もう少し具体的に教えていただけますか？」と問いかけることで、抽象的な話から具体的なエピソードやシーンを引き出すことができます",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "最近では、電子契約サービスを利用してオンラインで締結するケースが増えています",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "その結果をレポートとして納品するサービスが特徴的です",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "リサーチの結果を、単なる社内資料としてだけでなく、コンテンツマーケティングなど外部への情報発信にも活用したい企業",
-    "url": "https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-11"
    }
   ]
  },
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-09T10:55:16.859864+00:00"
 }

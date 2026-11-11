@@ -1,0 +1,991 @@
+{
+ "name": "Virtueai",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜状態なし",
+ "researched_at": "2026-11-11T05:46:43.699982+00:00",
+ "official_url": "https://www.virtueai.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Safely move AI into production",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "Prompts, data, and logs stay on your infrastructure with self-hosting.",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "Guardrails check text, images, audio, video, and code.",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "Low-latency guardrails protect users without slowing them down.",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "Stop harmful AI content in real time",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "FortiAIGate protects AI apps and agents at runtime. Guardrails block harmful prompts, outputs, and agent tool calls before they reach users or systems. They catch prompt injection, jailbreaks, and data leaks in Model Context Protocol (MCP) tool traffic. Very low latency keeps applications fast, and very low false positives keep analyst focus on real threats.",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "Block prompt injection and jailbreaks",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "Input guardrails inspect prompts and MCP tool responses before they reach the model. Hidden instructions stop before they steer your agents.",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "Output guardrails inspect responses and tool calls. Data loss prevention (DLP) detects 35 types of personally identifiable information (PII) and confidential data, then redacts sensitive data in responses and blocks it in tool calls.",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "Cover text, images, audio, video, and code",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "One policy applies across five content types. Injections hidden in an image or a file get the same scrutiny as text.",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent overspending on AI",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "FortiAIGate shows who spends what on AI and keeps AI spend within plan. Set budgets and rate limits for each organization, workspace, project, and user. FortiAIGate blocks requests past the cap. Intelligent routing saves premium models for the work that needs them.",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "Set budgets by organization, workspace, project, and user",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligent routing sends each request to the right model based on prompt content, the requested model, and HTTP headers, so routine work goes to lower-cost models. Blocking malicious prompts stops denial-of-wallet attacks before they consume tokens.",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "Govern teams and agent traffic, and prove compliance",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "Each team works in its own workspace, with its own models, budgets, and policies under central control. You see each user’s AI activity. Auditors get evidence for each prompt, output, and tool call.",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "Choose from more than 50 one-click regulatory and framework detectors, customizable to meet specific requirements. Protections align with OWASP Top 10 lists for large language model (LLM), MCP, and agentic apps.",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "FortiGate sends the AI traffic it detects to FortiAIGate, which identifies the user, the AI service, and the content, then blocks the request or masks sensitive data.",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "Scale protection with your AI workloads",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "AI traffic grows as teams add apps, agents, and models. FortiAIGate grows with it on your own infrastructure. Easily add capacity as demand rises, keep latency low at high volume, and keep guardrails on each prompt and response.",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-GPU acceleration handles proxy work as request volume climbs.",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "Protect prompts and responses in both directions",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "Guardrails inspect each prompt before it reaches a model and each response before it returns to applications and agents. DLP also redacts PII before a request reaches the model.",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "You choose which detectors and guardrails run, set the action for each, and apply policies by workspace or across the organization. When a request carries a prompt injection or attempts data exfiltration, FortiAIGate blocks the activity and logs the attempt.",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "公式サイトでは、Virtue AI は enterprise AI safety platform と位置づけられています",
+    "url": "https://knightli.com/ja/2026/06/26/virtue-ai-enterprise-ai-security-meta/",
+    "pass": 3
+   },
+   {
+    "quote": "MCP Guard、Skill Guard、Prompt Guard、Action Guard、アクセス制御、Shadow AI 検出、可観測性を含みます",
+    "url": "https://knightli.com/ja/2026/06/26/virtue-ai-enterprise-ai-security-meta/",
+    "pass": 3
+   },
+   {
+    "quote": "EU AI Act、GDPR、OWASP LLM Top 10、NIST AI RMF、MITRE、FINRA などへの対応が必要な組織",
+    "url": "https://knightli.com/ja/2026/06/26/virtue-ai-enterprise-ai-security-meta/",
+    "pass": 3
+   },
+   {
+    "quote": "Axios: Meta hires Virtue AI founders",
+    "url": "https://knightli.com/ja/2026/06/26/virtue-ai-enterprise-ai-security-meta/",
+    "pass": 3
+   },
+   {
+    "quote": "同プラットフォームの特徴は、AIモデルと外部ツールを連携させる標準規格である「MCP（Model Context Protocol）」の既存環境を直接呼び出すのではなく、テスト用の環境をゼロから生成（シミュレート）する点にあります",
+    "url": "https://global-ai.jp/20260318-aivirtue-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers evaluate the quality of Virtue AI’s products using the following success metrics.",
+    "url": "https://www.cbinsights.com/company/virtueai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "See why customers chose Virtue AI's products and services. Virtue AI's customers include",
+    "url": "https://www.cbinsights.com/company/virtueai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Gartner provides insights in the business and technology sectors. The company offers guidance and tools that assist in decision-making and address org…",
+    "url": "https://www.cbinsights.com/company/virtueai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Uber operates as a platform providing transportation and logistics services. The company offers services including ride-hailing, freight delivery, and…",
+    "url": "https://www.cbinsights.com/company/virtueai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "AllianceBernstein operates as an investment management firm that provides asset management and private wealth management services. The company offers …",
+    "url": "https://www.cbinsights.com/company/virtueai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropic specializes in artificial intelligence research and software. It develops large language models, AI assistants, natural language processing,…",
+    "url": "https://www.cbinsights.com/company/virtueai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft operates in the technology sector, focusing on cloud computing, software development, and personal computing. It provides products and servi…",
+    "url": "https://www.cbinsights.com/company/virtueai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Glean specializes in enterprise artificial intelligence (AI) software. It provides AI assistants, agent management, enterprise search, and knowledge m…",
+    "url": "https://www.cbinsights.com/company/virtueai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Zoom provides communication and collaboration services. It offers solutions including video conferencing, team chat, voice over internet protocol (VoI…",
+    "url": "https://www.cbinsights.com/company/virtueai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA focuses on accelerated computing and the development of graphics processing units (GPUs). The company's offerings include products and services…",
+    "url": "https://www.cbinsights.com/company/virtueai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "permits us to improve and customize your experience. You can read more about your",
+    "url": "https://www.cbinsights.com/company/virtueai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Virtue AI Stock Price, Funding, Valuation, Revenue & Financial Statements",
+    "url": "https://www.cbinsights.com/company/virtueai/financials",
+    "pass": 3
+   },
+   {
+    "quote": "April 2025",
+    "url": "https://www.cbinsights.com/company/virtueai/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Valuations are submitted by companies, mined from state filings or news, provided by VentureSource, or based on a comparables valuation model.",
+    "url": "https://www.cbinsights.com/company/virtueai/financials",
+    "pass": 3
+   },
+   {
+    "quote": "April 15, 2025",
+    "url": "https://www.cbinsights.com/company/virtueai/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Liquidation Preferences",
+    "url": "https://www.cbinsights.com/company/virtueai/financials",
+    "pass": 3
+   },
+   {
+    "quote": "permits us to improve and customize your experience. You can read more about your",
+    "url": "https://www.cbinsights.com/company/virtueai/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Virtue AI bridges the gap between AI product development and deployment for enterprises.",
+    "url": "https://getlatka.com/companies/virtueai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/virtueai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/virtueai.com",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2026/fortinet-advances-continuous-ai-protection-with-the-acquisition-of-virtue-ai",
+    "url": "https://note.com/tyomu_it_fin/n/n450682348fcd?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "You choose which detectors and guardrails run, set the action for each, and apply policies by workspace or across the organization. When a request carries a prompt injection or attempts data exfiltration, FortiAIGate blocks the activity and logs the attempt.",
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "pass": 1
+   },
+   {
+    "quote": "Virtue AI Stock Price, Funding, Valuation, Revenue & Financial Statements",
+    "url": "https://www.cbinsights.com/company/virtueai/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Funding, Valuation & Revenue",
+    "url": "https://www.cbinsights.com/company/virtueai/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Acquired funding round",
+    "url": "https://www.cbinsights.com/company/virtueai/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Virtue AI Revenue 2025: $2.6M Est.",
+    "url": "https://getlatka.com/companies/virtueai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Virtue AI has not published its revenue. GetLatka estimates it at about $2.6M a year (November 2025).",
+    "url": "https://getlatka.com/companies/virtueai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Virtue AI CEO, founders & employees",
+    "url": "https://getlatka.com/companies/virtueai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Bo Li founded Virtue AI in 2024 and runs it as CEO. Virtue AI has 24 employees (November 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/virtueai.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Virtue AI's revenue?",
+    "url": "https://getlatka.com/companies/virtueai.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Virtue AI's revenue at about",
+    "url": "https://getlatka.com/companies/virtueai.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Virtue AI have?",
+    "url": "https://getlatka.com/companies/virtueai.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of November 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/virtueai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/virtueai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/virtueai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/virtueai.com",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2026/fortinet-advances-continuous-ai-protection-with-the-acquisition-of-virtue-ai",
+    "url": "https://note.com/tyomu_it_fin/n/n450682348fcd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Shield for Autonomous AI: Fortinet's Next Security Strategy Following the Acquisition of Virtue AI｜suke",
+    "url": "https://note.com/note_suke/n/n6d591c40a60e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Shield for Autonomous AI: Fortinet's Next Security Strategy Following the Acquisition of Virtue AI",
+    "url": "https://note.com/note_suke/n/n6d591c40a60e?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "自律型AI時代における倫理とガバナンスの行方――グローバルな警告と日本企業への示唆",
+    "url": "https://global-ai.jp/20260318-aivirtue-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "自律型AIの台頭が迫る「組織の権限モデル」の再設計と日本企業への示唆",
+    "url": "https://global-ai.jp/20260318-aivirtue-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "「AI賛美へのブーイング」から学ぶ、日本企業におけるAI導入と組織の温度差",
+    "url": "https://global-ai.jp/20260318-aivirtue-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Uberの事例に学ぶ、AI投資の「踊り場」と日本企業が直面するROIの壁",
+    "url": "https://global-ai.jp/20260318-aivirtue-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "「危険すぎるAI」の非公開化が意味するもの：制限付きAI時代に日本企業はどう備えるべきか",
+    "url": "https://global-ai.jp/20260318-aivirtue-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、Virtue AIの最新アプローチを題材に、日本企業がAIエージェントを安全に活用するためのテスト手法とガバナンスのあり方について解説します",
+    "url": "https://global-ai.jp/20260318-aivirtue-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の商習慣と品質基準に適合させるためのアプローチ",
+    "url": "https://global-ai.jp/20260318-aivirtue-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業は、グローバルで見ても特にシステムの品質やデータガバナンスに対して厳格な基準を持っています",
+    "url": "https://global-ai.jp/20260318-aivirtue-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、日本企業がAIエージェントを業務プロセスやプロダクトに組み込む際には、いきなり完全自律型を目指すのではなく、段階的な導入が推奨されます",
+    "url": "https://global-ai.jp/20260318-aivirtue-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "・日本の厳格な品質基準や法規制をクリアするためには、最新のテストツールを活用してAIの挙動を検証・監視する体制（MLOps/AgentOps）の構築と、人間が適宜介在する段階的な導入アプローチが実務上極めて有効です",
+    "url": "https://global-ai.jp/20260318-aivirtue-ai/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Virtue AI とは：企業向けAI安全プラットフォーム、使い方、Metaとの... — Jun 26, 2026 · 具体的な導入例 企業内に、製品ドキュメントとユーザーアカウント情報につながるカスタマーサポート用 RAG チャットボットがあるとします。 Virtue AI は次のように使えます。",
+    "url": "https://knightli.com/ja/2026/06/26/virtue-ai-enterprise-ai-security-meta/",
+    "pass": 3
+   },
+   {
+    "quote": "フォーティネット、Virtue AIの買収により継続的なAI保護を推進 — 今日では、エンタープライズでの利用に対応した50を超える製品群で構成される業界最大規模の統合ポートフォリオを実現し、業界最多の導入実績、特許数、認証数に支えられ、90万を超えるお客様からの信頼を獲得しています。",
+    "url": "https://www.fortinet.com/jp/corporate/about-us/newsroom/press-releases/2026/fortinet-advances-continuous-ai-protection-with-the-acquisition-of-virtue-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Meta、6月に採用したVirtue AIの人材との契約を4カ月後に終了 — Oct 2, 2026 · Muse AIエージェントの成功を受け、メタ株は9月に27%上昇 消費者向けAIの導入率は2.2%に達し、企業はエンタープライズ重視へとシフト 9月、AI推進を背景にメタ株が29％急騰し、マグニフィセント・セブンをけん引",
+    "url": "https://www.gate.com/ja/news/detail/META/meta-parts-ways-with-virtue-ai-hires-four-months-after-june-recruitment-24714283",
+    "pass": 3
+   },
+   {
+    "quote": "VirtueRed: Continuous AI Red Teaming & Security Testing — VirtueRed is VirtueAI's continuous red-teaming platform for AI models and chatbots. Uncover hidden risks early and generate audit-ready evidence for security and compliance reviews.",
+    "url": "https://www.virtueai.com/virtuered",
+    "pass": 3
+   },
+   {
+    "quote": "About Virtue AI | Enterprise AI Safety & Security Platform — The standard for enterprise AI safety. Deploy automated red teaming, real-time guardrails, and action-level security for autonomous AI in 48 hours.",
+    "url": "https://www.virtueai.com/virtue-ai-team",
+    "pass": 3
+   },
+   {
+    "quote": "Virtue AI Customers - CB Insights — Customers evaluate the quality of Virtue AI’s products using the following success metrics. See why customers chose Virtue AI's products and services. Virtue AI's customers include OpenAI, Gartner, and Uber. OpenAI specializes in artificial intelligence (AI) research and software development.",
+    "url": "https://www.cbinsights.com/company/virtueai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - virtueai.com — AllianceBernstein uses Virtue AI's real-time text guardrails (VirtueGuard) to bring safety, security, and compliance to its generative AI systems, enforcing firm-specific policies and regulatory requirements without impacting user experience.",
+    "url": "https://www.virtueai.com/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Virtue AI - 2026 Company Profile, Team, Funding ... - Tracxn — Aug 1, 2026 · Virtue AI is a series A company based in San Francisco (United States), founded in 2014 by Dawn Song, Bo Li, Carlos Guestrin and Sanmi Koyejo. It operates as a Provider of AI security and compliance platform. Virtue AI has raised $30M in funding from Lightspeed Venture Partners.",
+    "url": "https://tracxn.com/d/companies/virtue-ai/__l5m_HYaWYFhNwlcSguNp_8K_34L8rZPgGtDg9YZHSTY",
+    "pass": 3
+   },
+   {
+    "quote": "Virtue AI Stock Price, Funding, Valuation, Revenue ... — See Virtue AI funding rounds, investors, investments, exits and more. Evaluate their financials based on Virtue AI's post-money valuation and revenue.",
+    "url": "https://www.cbinsights.com/company/virtueai/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Virtue AI Revenue 2025: $2.6M Est. - getlatka.com — Aug 10, 2026 · How many employees does Virtue AI have? Virtue AI has 24 employees as of November 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/virtueai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Virtue AI: Acquired by Fortinet & $30M Funding | Mandos — Oct 25, 2026 · Virtue AI is a cybersecurity company specializing in AI Security, founded in 2024 and headquartered in San Francisco, United States. It has raised $30M in equity across 2 priced rounds, employs about 25 people, and was acquired by Fortinet in 2026.",
+    "url": "https://mandos.io/data/companies/virtue-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Virtue AI: funding rounds, valuation, investors and revenue — Signals Tracking since Oct 7, 2026. Nothing has moved yet; headcount, funding, revenue and valuation changes show here as they happen. 0 news items in the last 30 days.",
+    "url": "https://lounge.ai/companies/virtue-ai",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "See why customers chose Virtue AI's products and services. Virtue AI's customers include",
+    "url": "https://www.cbinsights.com/company/virtueai/customers",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Fortinet Acquires Virtue AI, Specializing in Red Teaming and ... Aug 24, 2026 · Security giant Fortinet has announced the acquisition of Virtue AI, a company specializing in runtime protection, automated validation, and governance for autonomous AI systems.",
+    "url": "https://note.com/tyomu_it_fin/n/n450682348fcd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Shield for Autonomous AI: Fortinet's Next Security Strategy ... Aug 23, 2026 · News has broken that security giant Fortinet, synonymous with firewalls, has acquired Virtue AI, a startup specializing in AI security. Why is Fortinet, which has focused on protecting network perimeters, now stepping into the realm of protecting AI agents themselves?",
+    "url": "https://note.com/note_suke/n/n6d591c40a60e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "自律型AIを守る盾に。Fortinetが「Virtue AI」買収で仕掛ける次のセキ... Aug 24, 2026 · はじめに ファイアウォールの代名詞ともいえるセキュリティ大手Fortinetが、AIセキュリティ専業のスタートアップ「Virtue AI」を買収したというニュースが流れた。",
+    "url": "https://note.com/note_suke/n/n6d591c40a60e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Fortinet、AIエージェント専用のレッドチーム演習・実行時保護を手がけるVirtue AIを買収｜ちょむすけ（AI×金融ニュース）",
+    "url": "https://note.com/tyomu_it_fin/n/n450682348fcd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Fortinet、AIエージェント専用のレッドチーム演習・実行時保護を手がけるVirtue AIを買収",
+    "url": "https://note.com/tyomu_it_fin/n/n450682348fcd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ大手Fortinetは、自律型AIシステムのランタイム保護・自動検証・ガバナンスを手がけるVirtue AIを買収したと発表した。買収は「エージェント型企業を守るためのAIセキュリティ戦略」を強化する狙いで、プロンプト・モデル・エージェント・API呼び出しといったAI特有の攻撃面を対象とする。Virtue AIの技術は50超のサンドボックス環境・14の高リスク領域にわたる自律エージェントのレッドチーム演習、未承認AIアプリの検出、数百種の攻撃ベクトルと1000超のリスクカテゴリーに基づく継続的な脆弱性検証などを提供する。買収金額は非公表。",
+    "url": "https://note.com/tyomu_it_fin/n/n450682348fcd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Virtue AIが提供する機能は大きく4つに整理される。第一に、自律エージェントを50を超えるサンドボックス環境・14の高リスク業務領域に晒し、悪用可能な弱点を洗い出すレッドチーム演習。第二に、組織内で野良利用されている未承認のAIアプリケーションを発見し、連携ツールのリスクをスキャンし、エージェントの挙動を監視して不正な呼び出しをブロックするガバナンス・可視化機能。第三に、モデルの更新に伴って生じる新たなリスクを、数百種類の攻撃ベクトルと1000を超えるリスクカテゴリーに基づき継続的に検証する仕組み。第四に、テキスト・画像・動画・音声にまたがり有害コンテンツや脆弱なコードの生成を防ぐカスタマイズ可能なリアルタイムガードレール。Fortinetはこれらの機能を自社のセキュリティ製品群に統合し、AI特有の攻撃面（プロンプト、モデル、エージェント、API）を包括的にカバーする方針。",
+    "url": "https://note.com/tyomu_it_fin/n/n450682348fcd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "エージェントが自律的に権限を持ってシステムを操作するようになるにつれ、「エージェント自体を攻撃対象・攻撃者とみなすセキュリティ」への投資が加速する見通し。伝統的なセキュリティベンダーによるAIセキュリティ専業スタートアップの買収は今後も相次ぐとみられ、レッドチーム演習やランタイム監視がエージェント導入の標準的な前提条件になっていく可能性が高い。",
+    "url": "https://note.com/tyomu_it_fin/n/n450682348fcd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2026/fortinet-advances-continuous-ai-protection-with-the-acquisition-of-virtue-ai",
+    "url": "https://note.com/tyomu_it_fin/n/n450682348fcd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "#AIエージェント #セキュリティ #M&A",
+    "url": "https://note.com/tyomu_it_fin/n/n450682348fcd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Shield for Autonomous AI: Fortinet's Next Security Strategy Following the Acquisition of Virtue AI｜suke",
+    "url": "https://note.com/note_suke/n/n6d591c40a60e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Shield for Autonomous AI: Fortinet's Next Security Strategy Following the Acquisition of Virtue AI",
+    "url": "https://note.com/note_suke/n/n6d591c40a60e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "News has broken that security giant Fortinet, synonymous with firewalls, has acquired Virtue AI, a startup specializing in AI security. Why is Fortinet, which has focused on protecting network perimeters, now stepping into the realm of protecting AI agents themselves? The answer is simple: the targets that need defending have changed. As autonomous AI agents that make decisions and take actions ar",
+    "url": "https://note.com/note_suke/n/n6d591c40a60e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What kind of company is Virtue AI, and what does Fortinet hope to gain? Furthermore, what does this acquisition mean for the security industry as a whole? In the following sections, we will delve into why major vendors are moving to acquire companies in the emerging AI security market and what position Fortinet is aiming for in this space. However, looking only at the result that 'Fortinet acquire",
+    "url": "https://note.com/note_suke/n/n6d591c40a60e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "🔒 The following is a paid area",
+    "url": "https://note.com/note_suke/n/n6d591c40a60e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "自律型AIを守る盾に。Fortinetが「Virtue AI」買収で仕掛ける次のセキュリティ戦略｜suke",
+    "url": "https://note.com/note_suke/n/n6d591c40a60e",
+    "pass": 3
+   },
+   {
+    "quote": "自律型AIを守る盾に。Fortinetが「Virtue AI」買収で仕掛ける次のセキュリティ戦略",
+    "url": "https://note.com/note_suke/n/n6d591c40a60e",
+    "pass": 3
+   },
+   {
+    "quote": "ファイアウォールの代名詞ともいえるセキュリティ大手Fortinetが、AIセキュリティ専業のスタートアップ「Virtue AI」を買収したというニュースが流れた。これまでネットワーク境界を守ることに主眼を置いてきたFortinetが、なぜ今、AIエージェントそのものを守る領域に踏み込むのか。答えはシンプルで、防御すべき対象そのものが変わったからだ。企業の業務システムに自律的に判断し行動するAIエージェントが組み込まれるようになった結果、攻撃者が狙う「入り口」もまた、従来のネットワークやアプリケーションから、AIモデルやAIエージェントの意思決定プロセスそのものへとシフトしつつある。Fortinetの今回の動きは、この変化にいち早く対応しようとする買収劇として位置づけられる。",
+    "url": "https://note.com/note_suke/n/n6d591c40a60e",
+    "pass": 3
+   },
+   {
+    "quote": "Virtue AIとはどんな会社で、Fortinetは何を得ようとしているのか。そして、この買収はセキュリティ業界全体にとってどんな意味を持つのか。この先では、AIセキュリティという新興市場でなぜ大手ベンダーが相次いで買収に動いているのか、そしてFortinetがこの領域でどのようなポジションを狙っているのかを掘り下げていくが、「Fortinetがスタートアップを買収した」という結果だけを見ても、セキュリティ業界の勢力図がどう塗り替わろうとしているのかという本質的な部分はまったく見えてこない。",
+    "url": "https://note.com/note_suke/n/n6d591c40a60e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "iVirtue (@iVirtueAI) / Posts / X iVirtue (@iVirtueAI) - Posts - iVirtue.com deploys ethical, creative, humanitarian, strategic development iGentix™ Generative AI f... | X (formerly Twitter)",
+    "url": "https://x.com/iVirtueAI",
+    "pass": 3
+   },
+   {
+    "quote": "Virtue AI (@VirtueAI_co) on X The Virtue AI team brings together deep expertise in both AI systems and cybersecurity—a rare combination that's essential for addressing agent security challenges.",
+    "url": "https://x.com/VirtueAI_co/status/1938271146463662472",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by Virtue (@VirtueAI_co) / X @VirtueAI_co Accelerate Enterprise-Wide AI Adoption With One Purpose-Built AI Security Platform. powered by @ lightspeedvp virtueai.com Joined August 2026 2 Following 28 Followers Mention RepliesRepliesRepostsRepostsMediaMedia Virtue reposted Lightspeed @lightspeedvp Aug 28",
+    "url": "https://x.com/VirtueAI_co/reposts",
+    "pass": 3
+   },
+   {
+    "quote": "Virtue (@VirtueAI_co) / X Virtue AI is building the trust layer for AI and agentic systems — helping enterprises secure, govern, and scale AI with confidence. The future of AI needs more than intelligence.",
+    "url": "https://x.com/VirtueAI_co",
+    "pass": 3
+   },
+   {
+    "quote": "Virtue (@VirtueAI_co) / X Aug 27, 2026 · Accelerate Enterprise-Wide AI Adoption With One Purpose-Built AI Security Platform. powered by @lightspeedvp",
+    "url": "https://x.com/VirtueAI_co",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "VirtueAI - LinkedIn AI solutions that never stop evolving. | VirtueAI is a UK-based AI solutions company helping businesses automate work and make smarter decisions using artificial intelligence.",
+    "url": "https://www.linkedin.com/company/virtueai.co.uk",
+    "pass": 3
+   },
+   {
+    "quote": "Bhanu Prakash Adireddy - Founder, VirtueAI — AI Engineer ...Virtue Software Technologies Private Limited | LinkedInVirtue AI raises $30M for simplified AI safety | Walden ...Virtue - LinkedInBo Li - Inc. at VirtueAI | LinkedIn Founded VirtueAI, building production-grade AI agent systems and automation solutions for clients. Design and deploy multi-agent architectures using LangGraph, with RAG pipe",
+    "url": "https://uk.linkedin.com/in/adireddybhanu",
+    "pass": 3
+   },
+   {
+    "quote": "Virtue AI - LinkedIn Website https://www.virtueai.com/ Industry Technology, Information and Internet Company size 11-50 employees Headquarters San Francisco, California",
+    "url": "https://www.linkedin.com/company/virtue-ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VirtueAi Innovation - Facebook Aug 22, 2026 · I’m excited to start this new creative journey in pro mode! Check out my profile to learn more about me and follow me to stay connected. #promode VirtueAi Innovation updated her profile picture.",
+    "url": "https://www.facebook.com/p/VirtueAi-Innovation-61592039440139/",
+    "pass": 3
+   },
+   {
+    "quote": "VirtueAi Innovation - Facebook VirtueAi Innovation is on Facebook. Join Facebook to connect with VirtueAi Innovation and others you may know. Facebook gives people the power to share...",
+    "url": "https://www.facebook.com/profile.php/?id=61592039440139",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fortinet.com/products/fortiaigate",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://knightli.com/ja/2026/06/26/virtue-ai-enterprise-ai-security-meta/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortinet.com/jp/corporate/about-us/newsroom/press-releases/2026/fortinet-advances-continuous-ai-protection-with-the-acquisition-of-virtue-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.itmedia.co.jp/business/articles/2610/08/news016.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global-ai.jp/20260318-aivirtue-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unival.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sap.com/products/artificial-intelligence/customer-stories.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cbinsights.com/company/virtueai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://azure.microsoft.com/en-us/resources/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.nmhu.edu/resources/article/ai-case-studies-application-of-artificial-intelligence-in-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/virtue-ai/__l5m_HYaWYFhNwlcSguNp_8K_34L8rZPgGtDg9YZHSTY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cbinsights.com/company/virtueai/financials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/virtueai.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mandos.io/data/companies/virtue-ai",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/tyomu_it_fin/n/n450682348fcd?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/note_suke/n/n6d591c40a60e?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/note_suke/n/n6d591c40a60e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/iVirtueAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/VirtueAI_co/status/1938271146463662472",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/VirtueAI_co/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/VirtueAI_co",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/virtueai.co.uk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/adireddybhanu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/VirtueAi-Innovation-61592039440139/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/profile.php/?id=61592039440139",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/VirtueAI_co",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/virtue-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Virtueai 日本 導入",
+   "results": [
+    "https://knightli.com/ja/2026/06/26/virtue-ai-enterprise-ai-security-meta/",
+    "https://www.fortinet.com/jp/corporate/about-us/newsroom/press-releases/2026/fortinet-advances-continuous-ai-protection-with-the-acquisition-of-virtue-ai",
+    "https://www.itmedia.co.jp/business/articles/2610/08/news016.html",
+    "https://global-ai.jp/20260318-aivirtue-ai/",
+    "https://www.gate.com/ja/news/detail/META/meta-parts-ways-with-virtue-ai-hires-four-months-after-june-recruitment-24714283",
+    "https://zaikei.co.jp/article/20260712/860790.html",
+    "https://www.virtueai.com/virtue-ai-team"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Virtueai 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.virtueai.com/virtuered",
+    "https://www.unival.jp/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.virtueai.com/virtue-ai-team",
+    "https://virtue-intelligence.com/",
+    "https://visionary-jp.com/",
+    "https://ja.nozominetworks.com/company",
+    "https://www.digitalorigin.tw/global/ja/taiwan-distributor/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://jomon.group/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Virtueai Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Virtueai manufacturing customer case study",
+   "results": [
+    "https://www.sap.com/products/artificial-intelligence/customer-stories.html",
+    "https://www.cbinsights.com/company/virtueai/customers",
+    "https://azure.microsoft.com/en-us/resources/customer-stories/",
+    "https://online.nmhu.edu/resources/article/ai-case-studies-application-of-artificial-intelligence-in-business/",
+    "https://www.virtueai.com/case-study",
+    "https://www.veeam.com/resources/customer-stories.html",
+    "https://www.virtusa.com/success-stories"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Virtueai white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Virtueai founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/virtue-ai/__l5m_HYaWYFhNwlcSguNp_8K_34L8rZPgGtDg9YZHSTY",
+    "https://www.cbinsights.com/company/virtueai/financials",
+    "https://getlatka.com/companies/virtueai.com",
+    "https://mandos.io/data/companies/virtue-ai",
+    "https://lounge.ai/companies/virtue-ai",
+    "https://startupintros.com/orgs/virtue-ai",
+    "https://pitchbook.com/profiles/company/620168-68"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Virtueai",
+   "results": [
+    "https://note.com/tyomu_it_fin/n/n450682348fcd?hl=en",
+    "https://note.com/great_dietes6209/n/nd27e341398a4?hl=en",
+    "https://note.com/note_suke/n/n6d591c40a60e?hl=en",
+    "https://note.com/note_suke/n/n6d591c40a60e",
+    "https://note.com/famous_ruff6662/n/ncd169b574e9a?hl=en",
+    "https://note.com/fast_quince5593/n/nd5c05fec4d42?hl=en",
+    "https://note.com/lainjing/n/n7a925301beac?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Virtueai",
+   "results": [
+    "https://x.com/iVirtueAI",
+    "https://x.com/VirtueAI_co/status/1938271146463662472",
+    "https://x.com/VirtueAI_co/reposts",
+    "https://x.com/VirtueAI_co",
+    "https://x.com/hashtag/VirtueAI",
+    "https://x.com/VirtueAI_co/status/2066935919442317415",
+    "https://x.com/VirtueAI_co/status/2049855038521061612"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Virtueai",
+   "results": [
+    "https://www.linkedin.com/company/virtueai.co.uk",
+    "https://uk.linkedin.com/in/adireddybhanu",
+    "https://in.linkedin.com/company/virtuestech",
+    "https://www.linkedin.com/company/virtueai",
+    "https://www.linkedin.com/in/virtue-ai",
+    "https://www.linkedin.com/company/virtue-ai",
+    "https://pe.linkedin.com/posts/walden-catalyst-ventures_virtue-ai-raises-30m-for-simplified-ai-safety-activity-7318080556900995072-0m8v"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Virtueai",
+   "results": [
+    "https://www.facebook.com/p/VirtueAi-Innovation-61592039440139/",
+    "https://www.facebook.com/profile.php/?id=61592039440139",
+    "https://www.facebook.com/virtuemantraai/",
+    "https://www.facebook.com/virtuetrio/",
+    "https://www.facebook.com/iVirtueAI/",
+    "https://www.facebook.com/virtuelabs/",
+    "https://www.facebook.com/VirtueTechnologies/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Virtueai note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://x.com/VirtueAI_co",
+    "https://tracxn.com/d/companies/virtue-ai/__l5m_HYaWYFhNwlcSguNp_8K_34L8rZPgGtDg9YZHSTY",
+    "https://www.linkedin.com/company/virtue-ai",
+    "https://www.virtueai.com/virtue-ai-team",
+    "https://lsvp.com/company/virtue-ai/",
+    "https://www.virtueai.com/?ref=thehomebase"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Virtueai X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

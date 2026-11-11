@@ -1,0 +1,1689 @@
+{
+ "name": "SPREAD AI",
+ "aliases": [],
+ "context": "旧営業リスト｜Factory / Engineering Software｜返信あり",
+ "researched_at": "2026-11-11T05:32:19.382279+00:00",
+ "official_url": "https://www.spread.ai/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$12,000",
+    "url": "https://prospeo.io/c/spread-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$16,200,000",
+    "url": "https://prospeo.io/c/spread-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Eiswerk, Köpenicker Strasse 40c, Berlin, Berlin 10179, DE",
+    "url": "https://prospeo.io/c/spread-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2019",
+    "url": "https://prospeo.io/c/spread-ai-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "SPREAD | Engineering Intelligence",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "SPREAD turns scattered engineering data into product twins, helping people and AI see how mechanics, electronics, and software interact, and where changes create risk.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Repair procedure SM-07 shows the old pinout",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "product lifecycle management.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional PLM scatters your engineering data across silos and your teams across disconnected tools. Data drifts out of sync, teams work from different versions of truth, and misalignment shows up as rework. SPREAD adds the intelligence layer: one source of data, aligned teams, and AI doing the reconciliation work in the background.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "SPREAD · ENGINEERING PLATFORM",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every product starts with intent. SPREAD reads your requirements, checks them against years of your engineering data and prior projects, and flags the conflicts and gaps a senior engineer would have caught, before they reach design.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "SPREAD / REQUIREMENTS",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "STEP 02 — PRODUCT EXPLORER",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Understand the product inside out. Decide faster.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Once it’s built, the product lives across a dozen systems nobody can hold in their head. Ask Explorer a question in plain language; its AI traces the answer across parts, requirements, tests, and suppliers in seconds.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Product Explorer",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every product line runs into problems: in pilot, in series, in the field. Whether it’s a failed pilot test, a defect flagged on the line, or a warranty ticket from the field, Error Inspector’s AI traces it back to the components or requirements that caused it in minutes, not weeks of war rooms.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Connecting tools is easy. Making them agree is the hard part. SPREAD’s engineering ontology has been refined for seven years, spanning every function that touches your product: requirements in engineering, pilot and series production, tickets in the field. Plug in Teamcenter, Windchill, 3DEXPERIENCE, SAP, and the answers finally agree.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Boosting production rework efficiency at an Automotive OEM.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Even in a fully regulated, on-premise environment, we’ve gained control over complex engineering data, detecting errors earlier and accelerating development with confidence.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "SPREAD pools technical knowledge and makes it accessible to all employees quickly, easily and comprehensibly. This brings powerful AI expertise to manufacturing industries and prepares us for the software-defined age.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "SPREAD doesn’t talk about digital transformation. It delivers it by turning complex data into insights engineering teams can actually act on.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "It’s great you can access lots of engineering knowledge instantly. At Rheinmetall, we will make product knowledge available to everyone when, where and how they need it with a digital product twin. SPREAD’s AI solutions turn siloed data into business value.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Product twins have the potential to raise the standard of the automotive aftermarket by giving engineers the clarity they need to identify causes, avoid repeat repairs, and keep warranty costs under control.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Together with our employees, SPREAD quickly develops exciting AI concepts to solve engineering problems and brings them live as practical applications, e.g. AI-based quality assurance in all our plants.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrations, setup, pricing, and security, answered.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "What systems does SPREAD integrate with?",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "SPREAD connects to PLM, CAD, ERP, simulation, and test management systems out of the box — including Teamcenter, Windchill, 3DEXPERIENCE, SAP, and more. SPREAD maps your data in place without migration, so your teams keep working in the tools they already use.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Most teams are up and running within one to two weeks. Our onboarding team handles connector setup, data ingestion, and initial configuration so your teams can focus on results.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Stories: Engineering Intelligence at Work | SPREAD",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Each story is a working SPREAD deployment. What was built, who it serves, and what shifted in the daily work of the engineers using it.",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Premium Automotive OEM",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The same Twin runs the production line. Can it run program reviews too?",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "14 marques. One inherited SDV-toolchain bottleneck per brand. The same problem, fourteen times.",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "European Defense Land-Systems Prime",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "European Missile-Systems Prime",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Jetzt kommt die Killerfrage.\" The same architecture is already in production at another European land-systems prime.",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "European Land-Systems Prime",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "European Defense Aerospace Prime",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "22M workshop tickets, each matched to the closest prior fix by technical similarity, not search.",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "A commercial vehicle isn't a car that's bigger. It's a different problem shape entirely.",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Production diagnostics moved to the line technician. 75% faster, every renewal cleared since 2020.",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Premium European Automotive OEM",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "saved per production line, every year",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Quote cycles compress from weeks to under one, on configurable industrial systems.",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "SPREAD fine-tunes NVIDIA Nemotron into a 4-bit engineering model that outperforms frontier models on 9 of 10 tasks",
+    "url": "https://www.spread.ai/resources/stories/spread-nvidia-nemotron-engineering-model",
+    "pass": 1
+   },
+   {
+    "quote": "SPREAD, the AI for Engineering company, today announced at",
+    "url": "https://www.spread.ai/resources/stories/spread-nvidia-nemotron-engineering-model",
+    "pass": 1
+   },
+   {
+    "quote": "Vehicle launches are getting harder to land. Engineering data sits across PLM, requirements, E/E, and software tools, in schemas no general-purpose model has seen. Meanwhile every launch has to hit its start of production (SOP) and deliver the customer experience its price point promises.",
+    "url": "https://www.spread.ai/resources/stories/spread-nvidia-nemotron-engineering-model",
+    "pass": 1
+   },
+   {
+    "quote": "SPREAD’s model reads each ticket in plain language and searches across the ticket history and SPREAD’s Product Twin of the vehicle. It links the ticket to the affected parts of the product and surfaces similar resolved cases, returning a median answer in 0.36 seconds. Engineers spend their time fixing issues instead of looking for context, and fewer issues reach SOP or the customer.",
+    "url": "https://www.spread.ai/resources/stories/spread-nvidia-nemotron-engineering-model",
+    "pass": 1
+   },
+   {
+    "quote": "On ticket analysis, the model scored 79% against 44% for the best frontier model. On dataset queries it scored 81% against 52%, and on multi-hop questions that span several systems it roughly doubled the best frontier result. It also produced fully correct data mappings twice as often, which matters for connecting new data sources into the Product Twin.",
+    "url": "https://www.spread.ai/resources/stories/spread-nvidia-nemotron-engineering-model",
+    "pass": 1
+   },
+   {
+    "quote": "SPREAD fine-tuned the model on 5,061 examples using NeMo Automodel and compressed it to NVIDIA’s NVFP4 4-bit format using Model Optimizer open library. A short quantization-aware distillation step then recovered the accuracy lost to compression. The full pipeline took 4.3 hours on",
+    "url": "https://www.spread.ai/resources/stories/spread-nvidia-nemotron-engineering-model",
+    "pass": 1
+   },
+   {
+    "quote": "Philipp Noll, co-founder and MD of SPREAD, said:",
+    "url": "https://www.spread.ai/resources/stories/spread-nvidia-nemotron-engineering-model",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering teams need AI that knows their product logic, and a small model trained on the right data beats a giant generalist on the work that matters, while being open, fast, and cost efficient.",
+    "url": "https://www.spread.ai/resources/stories/spread-nvidia-nemotron-engineering-model",
+    "pass": 1
+   },
+   {
+    "quote": "It’s been impressive and highly encouraging to see how post-trained Nemotron and SPREAD’s Engineering Harness technology outperforms leading frontier models on an important automotive engineering use case.",
+    "url": "https://www.spread.ai/resources/stories/spread-nvidia-nemotron-engineering-model",
+    "pass": 1
+   },
+   {
+    "quote": "Data Overview in SPREAD docs",
+    "url": "https://www.spread.ai/resources/stories/spread-nvidia-nemotron-engineering-model",
+    "pass": 1
+   },
+   {
+    "quote": "See SPREAD's engineering platform map across PLM, CAD, ERP and ALM in a tailored 30-minute walkthrough.",
+    "url": "https://www.spread.ai/resources/stories/spread-nvidia-nemotron-engineering-model",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering Intelligence Blog: Stories & Insights | SPREAD",
+    "url": "https://www.spread.ai/resources/stories",
+    "pass": 1
+   },
+   {
+    "quote": "The AI industry has learned to count progress in tokens. First 128k. Then 200k. Then one million. The number gets bigger, the demos get smoother, and the difficult engineering questions remain difficult.",
+    "url": "https://www.spread.ai/resources/stories",
+    "pass": 1
+   },
+   {
+    "quote": "SPREAD fine-tunes NVIDIA Nemotron into a 4-bit engineering model that outperforms frontier models on 9 of 10 tasks",
+    "url": "https://www.spread.ai/resources/stories",
+    "pass": 1
+   },
+   {
+    "quote": "Built in 4.3 hours for about $65, the 30B model runs on a single NVIDIA Blackwell GPU and answers in under half a second BERLIN, October 21, 2026. SPREAD, the AI for Engineering company, today announced at NVIDIA GTC ...",
+    "url": "https://www.spread.ai/resources/stories",
+    "pass": 1
+   },
+   {
+    "quote": "Eight weeks before start of production of a vehicle facelift, three things change: a new supplier variant of the brake-pedal sensor, a software bump on the brake ECU, and one CAN signal that now arrives on a faster ...",
+    "url": "https://www.spread.ai/resources/stories",
+    "pass": 1
+   },
+   {
+    "quote": "Every engineering tool now promises an \"agent.\" The label is doing a lot of work. Sometimes it means a chatbot with a new name, sometimes a copilot that drafts text, and occasionally something that can actually take a ...",
+    "url": "https://www.spread.ai/resources/stories",
+    "pass": 1
+   },
+   {
+    "quote": "The Agent-Native Product Lifecycle",
+    "url": "https://www.spread.ai/resources/stories",
+    "pass": 1
+   },
+   {
+    "quote": "AI Engineering Copilot: More Than a Chatbot for Your Product Data",
+    "url": "https://www.spread.ai/resources/stories",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Automotive & Mobility",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mitigating €2B SOP risk at a leading Automotive OEM.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Boosting production rework efficiency at an Automotive OEM.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "SPREAD pools technical knowledge and makes it accessible to all employees quickly, easily and comprehensibly. This brings powerful AI expertise to manufacturing industries and prepares us for the software-defined age.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Lead Europe",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Product twins have the potential to raise the standard of the automotive aftermarket by giving engineers the clarity they need to identify causes, avoid repeat repairs, and keep warranty costs under control.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Together with our employees, SPREAD quickly develops exciting AI concepts to solve engineering problems and brings them live as practical applications, e.g. AI-based quality assurance in all our plants.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "European Automotive Group",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Rework operators now answer questions that used to escalate to senior engineers.",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Premium Automotive OEM",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Live at the lead plant since",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The same Twin runs the production line. Can it run program reviews too?",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "British Luxury Automotive Group",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "50 harness editors. 50,000 workshop technicians. One pipeline between them.",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Post-Merger Multi-Marque Automotive Group",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "European Defense Aerospace Prime",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Premium European Automotive OEM",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "saved per production line, every year",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Quote cycles compress from weeks to under one, on configurable industrial systems.",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "European Industrial Machinery Supplier",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Sebastian Scheurle, Regional Industry Lead Automotive EMEA at NVIDIA, said:",
+    "url": "https://www.spread.ai/resources/stories/spread-nvidia-nemotron-engineering-model",
+    "pass": 1
+   },
+   {
+    "quote": "It’s been impressive and highly encouraging to see how post-trained Nemotron and SPREAD’s Engineering Harness technology outperforms leading frontier models on an important automotive engineering use case.",
+    "url": "https://www.spread.ai/resources/stories/spread-nvidia-nemotron-engineering-model",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering Intelligence for Automotive: One Connected Model, End to End",
+    "url": "https://www.spread.ai/resources/stories",
+    "pass": 1
+   },
+   {
+    "quote": "Context Engineering: The New Edge in Industrial AI",
+    "url": "https://www.spread.ai/resources/stories",
+    "pass": 1
+   },
+   {
+    "quote": "There is no AI strategy without a data strategy: an AI governance framework for automotive OEMs",
+    "url": "https://www.spread.ai/resources/stories",
+    "pass": 1
+   },
+   {
+    "quote": "Scaling Industrial AI from Pilots to Value: Target Architecture",
+    "url": "https://www.spread.ai/resources/stories",
+    "pass": 1
+   },
+   {
+    "quote": "2025: The year SPREAD became a preferred software partner for Industrial AI in Engineering AND BEYOND.",
+    "url": "https://www.spread.ai/resources/stories",
+    "pass": 1
+   },
+   {
+    "quote": "Inside the Industrial AI Summit 2025: What Europe’s Leaders Agreed Must Happen Next",
+    "url": "https://www.spread.ai/resources/stories",
+    "pass": 1
+   },
+   {
+    "quote": "CARIAD and Renumics on the opportunities of AI applications and LLMs in Manufacturing",
+    "url": "https://www.spread.ai/resources/stories",
+    "pass": 1
+   },
+   {
+    "quote": "Senior operators we lean on.",
+    "url": "https://www.spread.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "First production deployment in automotive.",
+    "url": "https://www.spread.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Pilots launched in defense and industrial machinery.",
+    "url": "https://www.spread.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "European rollouts across Automotive, Defense and Industrial Machinery.",
+    "url": "https://www.spread.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive News Europe",
+    "url": "https://www.spread.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "2025: The year SPREAD became a preferred software partner for Industrial AI in Engineering AND BEYOND.",
+    "url": "https://www.spread.ai/resources/stories/2025-the-year-europes-industrial-ai-started-moving-together",
+    "pass": 1
+   },
+   {
+    "quote": "Across industries, sectors, and borders, leaders aligned around a shared understanding: Europe’s industrial future will be decided by",
+    "url": "https://www.spread.ai/resources/stories/2025-the-year-europes-industrial-ai-started-moving-together",
+    "pass": 1
+   },
+   {
+    "quote": "and strengthening Europe’s industrial base",
+    "url": "https://www.spread.ai/resources/stories/2025-the-year-europes-industrial-ai-started-moving-together",
+    "pass": 1
+   },
+   {
+    "quote": "INAI 2025: Europe Aligns on the Foundations for Industrial AI",
+    "url": "https://www.spread.ai/resources/stories/2025-the-year-europes-industrial-ai-started-moving-together",
+    "pass": 1
+   },
+   {
+    "quote": "The inaugural Industrial AI Summit, held at Schloss Donaueschingen and co-hosted by",
+    "url": "https://www.spread.ai/resources/stories/2025-the-year-europes-industrial-ai-started-moving-together",
+    "pass": 1
+   },
+   {
+    "quote": "transformative potential of AI for the manufacturing industry.",
+    "url": "https://www.spread.ai/resources/stories/2025-the-year-europes-industrial-ai-started-moving-together",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial AI creates value horizontally",
+    "url": "https://www.spread.ai/resources/stories/2025-the-year-europes-industrial-ai-started-moving-together",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial AI is not a transitional SaaS play",
+    "url": "https://www.spread.ai/resources/stories/2025-the-year-europes-industrial-ai-started-moving-together",
+    "pass": 1
+   },
+   {
+    "quote": "— people are at the center, requiring commitment from shop floor to top floor.",
+    "url": "https://www.spread.ai/resources/stories/2025-the-year-europes-industrial-ai-started-moving-together",
+    "pass": 1
+   },
+   {
+    "quote": ", SPREAD’s annual flagship event, brought together leaders from automotive, defense, rail, aerospace, machinery, and suppliers, including representatives from",
+    "url": "https://www.spread.ai/resources/stories/2025-the-year-europes-industrial-ai-started-moving-together",
+    "pass": 1
+   },
+   {
+    "quote": "AI will reshape industrial engineering, but",
+    "url": "https://www.spread.ai/resources/stories/2025-the-year-europes-industrial-ai-started-moving-together",
+    "pass": 1
+   },
+   {
+    "quote": "between scaleups, industrial leaders, and partners who are willing to build together. That trust is what allows innovation to move from promise to impact, and it’s what enables companies of all sizes to contribute meaningfully to Europe’s industrial future.",
+    "url": "https://www.spread.ai/resources/stories/2025-the-year-europes-industrial-ai-started-moving-together",
+    "pass": 1
+   },
+   {
+    "quote": "Scaling Industrial AI from Pilots to Value",
+    "url": "https://www.spread.ai/resources/stories/2025-the-year-europes-industrial-ai-started-moving-together",
+    "pass": 1
+   },
+   {
+    "quote": "CARIAD and Renumics on the opportunities of AI applications and LLMs in Manufacturing",
+    "url": "https://www.spread.ai/resources/knowledge-hub/cariad-and-renumics-on-the-opportunities-of-ai-applications-and-llms-in-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "in real-world manufacturing environments? While AI is often portrayed as a game-changer, its limitations and risks remain",
+    "url": "https://www.spread.ai/resources/knowledge-hub/cariad-and-renumics-on-the-opportunities-of-ai-applications-and-llms-in-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "true potential and challenges of AI & LLMs in manufacturing",
+    "url": "https://www.spread.ai/resources/knowledge-hub/cariad-and-renumics-on-the-opportunities-of-ai-applications-and-llms-in-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "manufacturing undergoes digital transformation",
+    "url": "https://www.spread.ai/resources/knowledge-hub/cariad-and-renumics-on-the-opportunities-of-ai-applications-and-llms-in-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "engineering data orchestration, software-defined manufacturing, and flexible data integration for product development",
+    "url": "https://www.spread.ai/resources/knowledge-hub/cariad-and-renumics-on-the-opportunities-of-ai-applications-and-llms-in-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "how AI is shaping manufacturing, where it still falls short, and what steps are necessary to unlock its full potential",
+    "url": "https://www.spread.ai/resources/knowledge-hub/cariad-and-renumics-on-the-opportunities-of-ai-applications-and-llms-in-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How AI enhances digital transformation in manufacturing",
+    "url": "https://www.spread.ai/resources/knowledge-hub/cariad-and-renumics-on-the-opportunities-of-ai-applications-and-llms-in-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The balance between automation and human expertise in software-defined manufacturing",
+    "url": "https://www.spread.ai/resources/knowledge-hub/cariad-and-renumics-on-the-opportunities-of-ai-applications-and-llms-in-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "to gain a clearer picture of AI’s role in the future of manufacturing.",
+    "url": "https://www.spread.ai/resources/knowledge-hub/cariad-and-renumics-on-the-opportunities-of-ai-applications-and-llms-in-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "An agent is only as good as the data it can reach and verify. In engineering, that data lives in many systems that were never designed to talk to each other: requirements in ALM, parts and structures in PLM, software in its own repositories, manufacturing data in ERP and MES, results in test and simulation tools. An agent turned loose on that landscape without a connecting layer is guessing.",
+    "url": "https://www.spread.ai/resources/stories/ai-agents-for-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Built on the world’s first general-purpose engineering information model (EIN), our Agentic Engineering Intelligence platform, out-of-the-box solutions and specialized AI agents empower manufacturers to accelerate development, reduce costs, and unlock innovation at scale.",
+    "url": "https://prospeo.io/c/spread-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by industry leaders like Volkswagen, Mercedes-Benz, and Rheinmetall, SPREAD is becoming the modern backbone for engineering software-defined products in automotive, transportation, machinery, aerospace and defense.",
+    "url": "https://prospeo.io/c/spread-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Focus on software-defined products (automotive, IoT, aerospace)",
+    "url": "https://techlist.ai/spread.ai",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Mitigating €2B SOP risk at a leading Automotive OEM.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Saving >€600k yearly with one MBSE model at a Defense OEM.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Boosting production rework efficiency at an Automotive OEM.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Premium Automotive OEM",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "European Passenger-Rail OEM",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Global Agricultural Machinery OEM",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Can one ontology replace PLM + ERP + ALM + Excel + tribal knowledge, across six OEMs?",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "European Commercial Vehicle OEM",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Premium European Automotive OEM",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "There is no AI strategy without a data strategy: an AI governance framework for automotive OEMs",
+    "url": "https://www.spread.ai/resources/stories",
+    "pass": 1
+   },
+   {
+    "quote": "A short list, in order. Each step put more engineering data on the same surface — the same surface OEMs across Europe now build on.",
+    "url": "https://www.spread.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "OEMs are turning to SPREAD to do what no PLM upgrade has managed: make their engineering data work as one.",
+    "url": "https://www.spread.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Built in Berlin for OEMs, defense primes and machine builders that anchor the European economy.",
+    "url": "https://www.spread.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": ", this intelligence layer is already helping leading OEMs and defense primes:",
+    "url": "https://www.spread.ai/resources/stories/2025-the-year-europes-industrial-ai-started-moving-together",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Every product line runs into problems: in pilot, in series, in the field. Whether it’s a failed pilot test, a defect flagged on the line, or a warranty ticket from the field, Error Inspector’s AI traces it back to the components or requirements that caused it in minutes, not weeks of war rooms.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "SPREAD pools technical knowledge and makes it accessible to all employees quickly, easily and comprehensibly. This brings powerful AI expertise to manufacturing industries and prepares us for the software-defined age.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Product twins have the potential to raise the standard of the automotive aftermarket by giving engineers the clarity they need to identify causes, avoid repeat repairs, and keep warranty costs under control.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Together with our employees, SPREAD quickly develops exciting AI concepts to solve engineering problems and brings them live as practical applications, e.g. AI-based quality assurance in all our plants.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "256,000 warranty claims, ranked by fraud likelihood instead of first-in-first-out.",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "revenue,",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "revenue uplift,",
+    "url": "https://www.spread.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Eight weeks before start of production of a vehicle facelift, three things change: a new supplier variant of the brake-pedal sensor, a software bump on the brake ECU, and one CAN signal that now arrives on a faster ...",
+    "url": "https://www.spread.ai/resources/stories",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty Data Analytics: Spotting Repeat Failures Before They Scale",
+    "url": "https://www.spread.ai/resources/stories",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty Root Cause Analysis: Tracing Field Failures to the Engineering Cause",
+    "url": "https://www.spread.ai/resources/stories",
+    "pass": 1
+   },
+   {
+    "quote": "Employees across Europe",
+    "url": "https://www.spread.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Including a full company shutdown Christmas to New Year. A no-Slack, no-email rule makes real recharge part of the operating model.",
+    "url": "https://www.spread.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Below are the moments that defined that progress. Thank you for being part of the community, helping turn this momentum into lasting capability.",
+    "url": "https://www.spread.ai/resources/stories/2025-the-year-europes-industrial-ai-started-moving-together",
+    "pass": 1
+   },
+   {
+    "quote": "; and in addition, a signal half the network routes through carries more consequence than a leaf sensor, and the graph knows the difference structurally.",
+    "url": "https://www.spread.ai/resources/stories/risk-based-testing",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents for engineering are AI systems that do not just answer questions but plan and carry out multi-step engineering tasks: they break a goal into steps, call tools and data sources, act on the result, and loop until the task is done.",
+    "url": "https://www.spread.ai/resources/stories/ai-agents-for-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Spread Ai Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/spread-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Spread Ai",
+    "url": "https://prospeo.io/c/spread-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/spread-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/spread-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/spread-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Spread Ai?",
+    "url": "https://prospeo.io/c/spread-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Spread Ai generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/spread-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/spread-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/spread-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Spread Ai have?",
+    "url": "https://prospeo.io/c/spread-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/spread-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SPREAD AI Revenue 2025: $12.7M Est.",
+    "url": "https://getlatka.com/companies/spread.ai",
+    "pass": 3
+   },
+   {
+    "quote": "SPREAD AI has not published its revenue. GetLatka estimates it at about $12.7M a year (July 2025).",
+    "url": "https://getlatka.com/companies/spread.ai",
+    "pass": 3
+   },
+   {
+    "quote": "SPREAD AI CEO & employees",
+    "url": "https://getlatka.com/companies/spread.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Philipp Noll is CEO of SPREAD AI. SPREAD AI has 115 employees (July 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/spread.ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is SPREAD AI's revenue?",
+    "url": "https://getlatka.com/companies/spread.ai",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates SPREAD AI's revenue at about",
+    "url": "https://getlatka.com/companies/spread.ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does SPREAD AI have?",
+    "url": "https://getlatka.com/companies/spread.ai",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of July 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/spread.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/spread.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/spread.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/spread.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Spread: 19 Tools Behind $18M Revenue [2026] | TechList.ai",
+    "url": "https://techlist.ai/spread.ai",
+    "pass": 3
+   },
+   {
+    "quote": "SPREAD targets the $100B+ market of disconnected engineering data. With 123 employees generating $17.8M in revenue (that's ~$145K per employee), they're leaner than most enterprise SaaS companies. Their secret? They don't try to replace existing tools—they orchestrate them. The 41% direct traffic suggests they're building serious brand equity with engineering leaders who are tired of data silos.",
+    "url": "https://techlist.ai/spread.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Lean team with high revenue per employee",
+    "url": "https://techlist.ai/spread.ai",
+    "pass": 3
+   },
+   {
+    "quote": "High revenue per employee ($145K)",
+    "url": "https://techlist.ai/spread.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Relatively low web traffic for a $17.8M revenue company",
+    "url": "https://techlist.ai/spread.ai",
+    "pass": 3
+   },
+   {
+    "quote": "While competitors chase hype, SPREAD is building the infrastructure for the next generation of product innovation. Their $17.8M revenue proves the market is ready. The question isn't if they'll scale—it's how fast they'll own the category.",
+    "url": "https://techlist.ai/spread.ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is Spread's Revenue?",
+    "url": "https://techlist.ai/spread.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Spread generates approximately $18M in annual revenue. With 123 employees, that's $145,000 per employee.",
+    "url": "https://techlist.ai/spread.ai",
+    "pass": 3
+   },
+   {
+    "quote": "The company has 25+ known employees.",
+    "url": "https://techlist.ai/spread.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Why it was created. Customer acquisition, replies, summaries, internal sharing, etc.",
+    "url": "https://note.com/luke_skywalk/n/n2be5756f9ecf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The smaller the team, the more limited the time available to verify AI output. We believe that by narrowing the scope to the initial approach, it is easier for the users to keep the volume within a range they can fully verify.",
+    "url": "https://note.com/kintsuba_ai/n/n105e374b1c9d?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Pricing is based on the number of connected systems and users. Contact us for a custom quote tailored to your organization's needs.",
+    "url": "https://www.spread.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Including a full company shutdown Christmas to New Year. A no-Slack, no-email rule makes real recharge part of the operating model.",
+    "url": "https://www.spread.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/spread-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Emails, phones & socials",
+    "url": "https://techlist.ai/spread.ai",
+    "pass": 3
+   },
+   {
+    "quote": "SNS post drafts, email replies, meeting minutes summaries, proposal drafts, etc.",
+    "url": "https://note.com/luke_skywalk/n/n2be5756f9ecf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For email replies, completed examples provide peace of mind",
+    "url": "https://note.com/luke_skywalk/n/n2be5756f9ecf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While email replies are easy to delegate to AI, it's scary to send them as-is.",
+    "url": "https://note.com/luke_skywalk/n/n2be5756f9ecf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For emails,",
+    "url": "https://note.com/luke_skywalk/n/n2be5756f9ecf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Spread Agent handles three tasks: finding prospective customers and creating a list, researching the target company, and writing and sending the first email. These correspond to the preparation phase required before a salesperson can achieve results.",
+    "url": "https://note.com/kintsuba_ai/n/n105e374b1c9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Using research findings as material for the initial email",
+    "url": "https://note.com/kintsuba_ai/n/n105e374b1c9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "There is another reason why we combined everything up to the initial approach into a single product. If research and email drafting are separate tasks, the information gathered often fails to be reflected in the text.",
+    "url": "https://note.com/kintsuba_ai/n/n105e374b1c9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For Spread Agent, we decided to limit the scope of AI delegation to the initial approach, leaving judgment and dialogue to humans. Connecting researched content to the first email and keeping the scope manageable for even a small team also stem from this same way of thinking.",
+    "url": "https://note.com/kintsuba_ai/n/n105e374b1c9d?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Spread Ai Revenue, Funding & Valuation - prospeo.io — Spread Ai has raised a total of $16,200,000 across 1 funding rounds. This investment has helped the company grow and expand its operations. Spread Ai has revenue of $1,200,000, estimated valuation of $3,900,000, $16,200,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/spread-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SPREAD AI Revenue 2025: $12.7M Est. - getlatka.com — Oct 30, 2026 · SPREAD AI 2025 estimated revenue: $12.7M. 115 employees. Industry: PLM Software. Founded 2019. HQ: Germany. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/spread.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Spread AI 2026 Company Profile: Valuation, Funding ...Spread: 19 Tools Behind $18M Revenue [2026] | TechList.aiSpread - 2026 Company Profile, Team, Funding & Competitors ...SPREAD AI: Funding, Team & Investors | Startup IntrosSPREAD: Funding, Investors & Team (Oct 2026) | FundedIQ — Information on valuation, funding, cap tables, investors, and executives for Spread AI. Use the PitchBook Platform t",
+    "url": "https://pitchbook.com/profiles/company/407209-87",
+    "pass": 3
+   },
+   {
+    "quote": "Spread - 2026 Company Profile, Team, Funding & Competitors ...SPREAD AI: Funding, Team & Investors | Startup IntrosSPREAD: Funding, Investors & Team (Oct 2026) | FundedIQ — Mar 7, 2026 · Spread is a series A company based in Berlin (Germany), founded in 2017 by Emin Ersan Mjumjunov, Daniel Halbig, Philipp Noll and Catharina Sert. It operates as a Provide digital engineering assistant software for ",
+    "url": "https://tracxn.com/d/companies/spread/__E1nM6cgPlpxd6FB8EGddykrIbcJO-tJ6dopxwOKO6X4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "If you want to spread AI usage to your team, it's better to ... Jun 22, 2026 · I've started to be able to use AI myself. But when I try to spread the same usage to my team, for some reason it doesn't go well. Even if I share the prompts, the output text is slightly different. They don't know what to check. They can't judge how much they should correct before it's ready to use.",
+    "url": "https://note.com/luke_skywalk/n/n2be5756f9ecf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Habits for Spreading AI Utilization in the Executive ... Jun 26, 2026 · Let's consider what the executive committee should do so that AI utilization does not end as an \"individual skill.\" The first thing I want you to be aware of is letting go of the very idea of \"spreading\" it. If you hold training sessions and try to force everyone to use it, it usually doesn't last.",
+    "url": "https://note.com/sasaki_takahiro/n/n4ca7548e6f55?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Decisions made when creating Spread Agent: Where we drew the ... Conclusion For Spread Agent, we decided to limit the scope of AI delegation to the initial approach, leaving judgment and dialogue to humans. Connecting researched content to the first email and keeping the scope manageable for even a small team also stem from this same way of thinking. Spread Agent pricing is available upon consulta",
+    "url": "https://note.com/kintsuba_ai/n/n105e374b1c9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Implementation kit for spreading AI in the workplace. I will ... Sep 15, 2026 · This is created from my records of spreading AI in the workplace as an employee without authority. It does not contain general theories found on the internet. I am writing this for people like you. You have been assigned the role of spreading it, but you haven't decided how to proceed. You tried it once, but it missed ",
+    "url": "https://note.com/maruchi_ai/n/nfa16b968d730?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "If you want to spread AI usage to your team, it's better to create a 'collection of completed examples' than a collection of prompts｜AIマーケラボ by スカイウォーク",
+    "url": "https://note.com/luke_skywalk/n/n2be5756f9ecf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If you want to spread AI usage to your team, it's better to create a 'collection of completed examples' than a collection of prompts",
+    "url": "https://note.com/luke_skywalk/n/n2be5756f9ecf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I've started to be able to use AI myself. But when I try to spread the same usage to my team, for some reason it doesn't go well.",
+    "url": "https://note.com/luke_skywalk/n/n2be5756f9ecf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Even if I share the prompts, the output text is slightly different. They don't know what to check. They can't judge how much they should correct before it's ready to use.",
+    "url": "https://note.com/luke_skywalk/n/n2be5756f9ecf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As a result, in the end, only the usual people are using AI.",
+    "url": "https://note.com/luke_skywalk/n/n2be5756f9ecf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I think this is a problem that happens quite easily when trying to spread AI usage within a company.",
+    "url": "https://note.com/luke_skywalk/n/n2be5756f9ecf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The first thing you want to make is a collection of prompts. But lately, I've come to think that sharing only prompts doesn't easily increase reproducibility.",
+    "url": "https://note.com/luke_skywalk/n/n2be5756f9ecf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is needed is not just instructions, but a",
+    "url": "https://note.com/luke_skywalk/n/n2be5756f9ecf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Habits for Spreading AI Utilization in the Executive Committee #37｜佐々木 隆寛 | 株式会社スタメン 専門役員",
+    "url": "https://note.com/sasaki_takahiro/n/n4ca7548e6f55?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Habits for Spreading AI Utilization in the Executive Committee #37",
+    "url": "https://note.com/sasaki_takahiro/n/n4ca7548e6f55?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "佐々木 隆寛 | 株式会社スタメン 専門役員",
+    "url": "https://note.com/sasaki_takahiro/n/n4ca7548e6f55?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "▼ How to spread it within the organization",
+    "url": "https://note.com/sasaki_takahiro/n/n4ca7548e6f55?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A common comment from executive committees that have introduced AI tools is, \"I've learned how to use it, but it hasn't spread to other members.\"",
+    "url": "https://note.com/sasaki_takahiro/n/n4ca7548e6f55?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Even if one person masters it, the productivity of the entire organization does not change. Let's consider what the executive committee should do so that AI utilization does not end as an \"individual skill.\"",
+    "url": "https://note.com/sasaki_takahiro/n/n4ca7548e6f55?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The first thing I want you to be aware of is letting go of the very idea of \"spreading\" it. If you hold training sessions and try to force everyone to use it, it usually doesn't last. What is important is to create a space where people who have used it naturally want to talk about it.",
+    "url": "https://note.com/sasaki_takahiro/n/n4ca7548e6f55?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Specifically, once a month,",
+    "url": "https://note.com/sasaki_takahiro/n/n4ca7548e6f55?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Decisions made when creating Spread Agent: Where we drew the line for AI delegation｜kintsuba中の人",
+    "url": "https://note.com/kintsuba_ai/n/n105e374b1c9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Decisions made when creating Spread Agent: Where we drew the line for AI delegation",
+    "url": "https://note.com/kintsuba_ai/n/n105e374b1c9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I am a member of the kintsuba team.",
+    "url": "https://note.com/kintsuba_ai/n/n105e374b1c9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In my previous article, I categorized sales tasks by frequency and pattern, and described an approach for delegating them to AI starting from the top. This time, I will discuss how we applied that approach to our own product. I would like to organize where we drew the line for what to delegate to AI and what to leave for humans in \"Spread Agent,\" the sales support SaaS we are building at kintsuba.",
+    "url": "https://note.com/kintsuba_ai/n/n105e374b1c9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I should clarify beforehand that what I am writing here is not about the results or figures achieved by companies that have implemented it. It is about the boundaries we, as the creators, decided on at the beginning and the reasons behind them. I am writing this in the hope that it will serve as a reference for those introducing AI tools into their companies or building their own systems when they",
+    "url": "https://note.com/kintsuba_ai/n/n105e374b1c9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We stopped the scope at \"the initial approach\"",
+    "url": "https://note.com/kintsuba_ai/n/n105e374b1c9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Spread Agent handles three tasks: finding prospective customers and creating a list, researching the target company, and writing and sending the first email. These correspond to the preparation phase required before a salesperson can achieve results.",
+    "url": "https://note.com/kintsuba_ai/n/n105e374b1c9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond that point—meaning the interactions after receiving a reply and the content of sales meetings—is not included in the product's scope. As stated on our company website, \"automating from lead discovery to the initial approach,\" this is the line we decided on from the start.",
+    "url": "https://note.com/kintsuba_ai/n/n105e374b1c9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Implementation kit for spreading AI in the workplace. I will provide all 3 months' worth of progress scripts, sheets, and Q&A.｜まるち | ゼロから始めて６ヶ月でAIコンサルになる",
+    "url": "https://note.com/maruchi_ai/n/nfa16b968d730?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Implementation kit for spreading AI in the workplace. I will provide all 3 months' worth of progress scripts, sheets, and Q&A.",
+    "url": "https://note.com/maruchi_ai/n/nfa16b968d730?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "まるち | ゼロから始めて６ヶ月でAIコンサルになる",
+    "url": "https://note.com/maruchi_ai/n/nfa16b968d730?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You already understand the causes and the way of thinking.",
+    "url": "https://note.com/maruchi_ai/n/nfa16b968d730?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "But you still haven't decided what to talk about at tomorrow's study session.",
+    "url": "https://note.com/maruchi_ai/n/nfa16b968d730?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Are you in that kind of situation?",
+    "url": "https://note.com/maruchi_ai/n/nfa16b968d730?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I can organize my thoughts while writing articles, but",
+    "url": "https://note.com/maruchi_ai/n/nfa16b968d730?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "when it comes to standing in front of people,",
+    "url": "https://note.com/maruchi_ai/n/nfa16b968d730?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Habits for Spreading AI Utilization in the Executive Committee #37｜佐々木 隆寛 | 株式会社スタメン 専門役員",
+    "url": "https://note.com/sasaki_takahiro/n/n4ca7548e6f55?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "佐々木 隆寛 | 株式会社スタメン 専門役員",
+    "url": "https://note.com/sasaki_takahiro/n/n4ca7548e6f55?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Ohue M/大上雅史 on X: \"AI for Science SPReAD、AIインタビューの申... AI for Science SPReAD、AIインタビューの申込リンクはここの一番下ですよ！！ https://t.co/32Fp1FU32N",
+    "url": "https://x.com/tonets/status/2051286796156457139",
+    "pass": 3
+   },
+   {
+    "quote": "Spread (@spreadonchain) / X Imagine you have a great idea for a coin. But no funds for marketing. You launch it on SPREAD. Your coin starts generating fees, those fees launch more copies, and every new copy brings more attention back to your project. You don’t pay for marketing. Your coin creates its own marketing.",
+    "url": "https://x.com/spreadonchain",
+    "pass": 3
+   },
+   {
+    "quote": "Spreads Finance (@spreads_fi) / X Trade tokenized stocks onchain. Copy the smartest portfolios in the world. Spreads is live.",
+    "url": "https://x.com/spreads_fi",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SPREAD AI - LinkedIn SPREAD is the fastest way to understand your complex product, know what to do next, and make it happen.",
+    "url": "https://www.linkedin.com/company/spread-ai",
+    "pass": 3
+   },
+   {
+    "quote": "#spreadai #engineeringintelligence #automotive # ... - LinkedIn We are here because we felt the pain ourselves and spread. We build tools that eliminate those frustrations. One of the biggest challenges in engineering today is managing fragmented product data.",
+    "url": "https://www.linkedin.com/posts/spread-ai_spreadai-engineeringintelligence-automotive-activity-7315289723164332032-Ia3U",
+    "pass": 3
+   },
+   {
+    "quote": "Philipp Noll – Co-founder & MD at SPREAD AI | LinkedInStrategy & Operations Lead (f/m/d) bei SPREAD AI — Berlin ...Daniel Wilms - VP of Engineering - Platform @ SPREAD AI ...AI Startup Landscape 2025 | SPREAD AI - LinkedInSPREAD 2025 Recap | SPREAD AI - LinkedIn Co-founder & MD at SPREAD AI · We are hiring! · Berufserfahrung: SPREAD AI · Ausbildung: Universität Paderborn · Standort: Berlin · 500+ ",
+    "url": "https://de.linkedin.com/in/philipp-noll-0b70a8189",
+    "pass": 3
+   },
+   {
+    "quote": "Strategy & Operations Lead (f/m/d) bei SPREAD AI — Berlin ... SPREAD builds engineering intelligence for the world's most complex products. Our AI-native platform gives automotive OEMs, defense primes, and industrial manufacturers a single source of product truth so engineering teams can make confident product decisions, fast.",
+    "url": "https://de.linkedin.com/jobs/view/strategy-operations-lead-f-m-d-at-spread-ai-4480663997",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Spread Ai - Facebook Spread Ai is on Facebook. Join Facebook to connect with Spread Ai and others you may know. Facebook gives people the power to share and makes the world...",
+    "url": "https://www.facebook.com/p/Spread-Ai-61588426735955/",
+    "pass": 3
+   },
+   {
+    "quote": "Spread Ai | Mansourah - Facebook Apr 24, 2026 · الشاشة قبل ما يزور العيادة. في شركة Spread AI، إحنا بنكون شركاء نجاحك. بنترجم خبرتك لـ (كاريزما طبية) من خلال تصوير ريلز احترافية تعكس مصداقيتك، وتصميمات بالذكاء الاصطناعي تليق باسمك",
+    "url": "https://www.facebook.com/spreadai/",
+    "pass": 3
+   },
+   {
+    "quote": "Spreading.ai | Singapore Singapore - Facebook Feb 19, 2024 · Spreading.ai, Singapore. 3 likes. Spreading equips you to quickly create documentation & knowledge base that addresses user needs.",
+    "url": "https://www.facebook.com/SpreadingAI/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.spread.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spread.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spread.ai/resources/stories/spread-nvidia-nemotron-engineering-model",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spread.ai/resources/stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spread.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spread.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spread.ai/resources/stories/spread-joins-the-aws-partner-network-and-launches-on-aws-marketplace-to-scale-engineering-intelligence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spread.ai/resources/stories/2025-the-year-europes-industrial-ai-started-moving-together",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spread.ai/resources/knowledge-hub/cariad-and-renumics-on-the-opportunities-of-ai-applications-and-llms-in-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spread.ai/resources/stories/risk-based-testing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spread.ai/resources/stories/ai-agents-for-engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spread.ai/resources/stories/ai-native-plm",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.spread.ai/theme/images/clients-logos/VW.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.spread.ai/theme/images/clients-logos/Mercedes.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.spread.ai/theme/images/clients-logos/BMW.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.spread.ai/theme/images/clients-logos/Ford.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mfrdx.applied-g.com/news/post-8824/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mext.go.jp/aifors_spread/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://scienceandtechnology.jp/archives/87021",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/spread",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/spread",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nebius.com/nebius-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/ai-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/spread-ai-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/spread.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/407209-87",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://techlist.ai/spread.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/luke_skywalk/n/n2be5756f9ecf?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sasaki_takahiro/n/n4ca7548e6f55?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kintsuba_ai/n/n105e374b1c9d?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/maruchi_ai/n/nfa16b968d730?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tonets/status/2051286796156457139",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/spreadonchain",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/spreads_fi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/spread-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/spread-ai_spreadai-engineeringintelligence-automotive-activity-7315289723164332032-Ia3U",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/philipp-noll-0b70a8189",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/jobs/view/strategy-operations-lead-f-m-d-at-spread-ai-4480663997",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Spread-Ai-61588426735955/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/spreadai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SpreadingAI/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "SPREAD AI 日本 導入",
+   "results": [
+    "https://mfrdx.applied-g.com/news/post-8824/",
+    "https://www.spread.ai/",
+    "https://www.mext.go.jp/aifors_spread/",
+    "http://scienceandtechnology.jp/archives/87021",
+    "http://scienceandtechnology.jp/archives/87020",
+    "https://note.com/ai_labo26/n/nb6bdbf2c36a2",
+    "https://www.ik-c.co.jp/20260330"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SPREAD AI 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "SPREAD AI Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "SPREAD AI manufacturing customer case study",
+   "results": [
+    "https://www.spread.ai/customers",
+    "https://www.casestudies.com/company/spread",
+    "https://www.featuredcustomers.com/vendor/spread",
+    "https://www.spread.ai/",
+    "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "https://www.linkedin.com/posts/spread-ai_growth-customers-activity-7142804537144258560-9FXq",
+    "https://www.sotatek.com/blogs/ai-and-machine-learning/ai-in-manufacturing-case-study/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SPREAD AI white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://nebius.com/nebius-partner-program",
+    "https://customgpt.ai/ai-reseller-program/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.nextiva.com/company/partners"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SPREAD AI founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/spread-ai-revenue",
+    "https://getlatka.com/companies/spread.ai",
+    "https://pitchbook.com/profiles/company/407209-87",
+    "https://techlist.ai/spread.ai",
+    "https://tracxn.com/d/companies/spread/__E1nM6cgPlpxd6FB8EGddykrIbcJO-tJ6dopxwOKO6X4",
+    "https://startupintros.com/orgs/spread-ai",
+    "https://fundediq.co/spread-spread-ai-funding/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com SPREAD AI",
+   "results": [
+    "https://note.com/luke_skywalk/n/n2be5756f9ecf?hl=en",
+    "https://note.com/sasaki_takahiro/n/n4ca7548e6f55?hl=en",
+    "https://note.com/kintsuba_ai/n/n105e374b1c9d?hl=en",
+    "https://note.com/maruchi_ai/n/nfa16b968d730?hl=en",
+    "https://note.com/entikemoto/n/nbcd248faaca5?hl=en",
+    "https://note.com/05181025/n/na6a2c2f48146?hl=en",
+    "https://note.com/bioinfo/n/n5a1216fdb981?hl=en"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com SPREAD AI",
+   "results": [
+    "https://x.com/tonets/status/2051286796156457139",
+    "https://x.com/spreadonchain",
+    "https://x.com/Spread_NFT",
+    "https://x.com/spreads_fi",
+    "https://x.com/osanai_meiji/status/2068427737753342348",
+    "https://x.com/inatetsuina/status/2055165980800897059",
+    "https://x.com/natolambert/status/2120187153950871798"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com SPREAD AI",
+   "results": [
+    "https://www.linkedin.com/company/spread-ai",
+    "https://www.linkedin.com/posts/spread-ai_spreadai-engineeringintelligence-automotive-activity-7315289723164332032-Ia3U",
+    "https://de.linkedin.com/in/philipp-noll-0b70a8189",
+    "https://de.linkedin.com/jobs/view/strategy-operations-lead-f-m-d-at-spread-ai-4480663997",
+    "https://es.linkedin.com/in/danielwilms",
+    "https://www.linkedin.com/posts/spread-ai_spread-engineeringintelligence-ai-activity-7373317195210100736-abTq",
+    "https://www.linkedin.com/posts/spread-ai_spread-2025-recap-activity-7406986177112707072-LzxZ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com SPREAD AI",
+   "results": [
+    "https://www.facebook.com/p/Spread-Ai-61588426735955/",
+    "https://www.facebook.com/spreadai/",
+    "https://www.facebook.com/SpreadingAI/",
+    "https://www.facebook.com/spread.company/",
+    "https://www.facebook.com/rahempireai/videos/the-purpose-is-to-spread-lovein-such-a-cruel-world/1667988734955367/",
+    "https://www.facebook.com/obiaraure/videos/the-wife-you-tried-to-break-part-2she-spread-lies-but-the-truth-had-witnesses-fa/1623582625970680/",
+    "https://www.facebook.com/wokeginger/videos/ai-can-manufacture-a-scene-that-doesnt-make-it-real-and-it-doesnt-make-it-okay-t/2118292445483643/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SPREAD AI note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.spread.ai/about",
+    "https://www.spread.ai/de/about",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.theofficialboard.com/org-chart/spread",
+    "https://note.com/swamp_ailog"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SPREAD AI X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部27頁・検索12回）"
+ }
+}

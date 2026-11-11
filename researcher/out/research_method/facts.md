@@ -1046,6 +1046,7 @@
 ## 非上場企業の売上・従業員数を推定する実務（官報・決算公告・求人）（estimate private company revenue headcount methods）
 - 文脈：凄腕・推定
 - 手順・やり方：
+  - 「職務経歴書の具体例｜簡潔に書ける見本と書き換えのコツを徹底解説」（https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/）
   - 「一般社団法人の決算公告の閲覧方法とは？官報・電子公告・掲示を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「官報・電子公告・掲示という公告方法ごとの探し方と、公益法人informationとの違いを解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -1060,7 +1061,6 @@
   - 「Learn how to build a strong market intelligence strategy that helps you track trends, understand competitors, and make smarter decisions.」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
   - 「中小企業が官報で決算公告する費用・記載項目・申込手順を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告をホームページで行うには？定款変更の要否と手順を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「決算公告をホームページで行う方法を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
 - 突き合わせ・推定：
   - 「At scale, keep reported figures and estimates clearly labeled, with their sources and dates.」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
   - 「You can look in official filings, check what the company discloses itself, or estimate it, but these sources aren't equally reliable.」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
@@ -1354,54 +1354,60 @@
 ## エキスパートや調査会社のリサーチャーが書いた調べ方のブログ（professional researcher blog research techniques）
 - 文脈：凄腕・実務
 - 手順・やり方：
-  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「さらに、情報収集や仮説づくりを効率化する方法も紹介します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「まずはこの後の6ステップで調査の軸を整えたうえで、」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「デスクリサーチの具体的な手順（6ステップ）」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「以下の6ステップで進めます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「ステップ1：調査目的・リサーチクエスチョンの設定」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「ステップ2：調査項目を具体化する」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「ステップ3：信頼できる情報ソースの選定」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「検索で情報ソースを探すときのキーワードの組み立て方や検索コマンドの使い方は、下記の記事を参照してみてください」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「ステップ4：情報の収集・整理」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「ステップ5：クロスチェック」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「1.目的設定のコツ」（https://note.com/sendamasato/n/n2aa275f51bad）
+  - 「2.調べ方のコツ」（https://note.com/sendamasato/n/n2aa275f51bad）
+  - 「調べ方のコツは無限にあると思うので、特に僕が忘れがちだったり大事にしていたことを書きます」（https://note.com/sendamasato/n/n2aa275f51bad）
+  - 「3.資料作りのコツ」（https://note.com/sendamasato/n/n2aa275f51bad）
+  - 「また、この構成を作る時は共有の方法や相手を意識して」（https://note.com/sendamasato/n/n2aa275f51bad）
+  - 「4.共有のコツ」（https://note.com/sendamasato/n/n2aa275f51bad）
+  - 「ただ、最適な手法は組織の状況や環境によって変わってくると変わってくると思いますし、僕のやり方も改善の余地はありまくりです」（https://note.com/sendamasato/n/n2aa275f51bad）
+  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「さらに、情報収集や仮説づくりを効率化する方法も紹介します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「まずはこの後の6ステップで調査の軸を整えたうえで、」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「デスクリサーチの具体的な手順（6ステップ）」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「以下の6ステップで進めます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
 - 突き合わせ・推定：
-  - 「デスクリサーチはただ単に資料を探すだけでなく、調査目的に合う情報源を選び、発行元や調査時期を確認し、複数の資料を照合する必要があります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「集めた情報を、意思決定に使える仮説やレポートにまとめることも重要です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「さらに、情報収集や仮説づくりを効率化する方法も紹介します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「そのため、デスクリサーチは初期仮説づくりに使い、公開情報で不足する論点は一次調査へ渡します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「実務では「まずデスクリサーチで市場全体の仮説を構築し、仮説を検証するためにフィールドリサーチを実施する」という順序が標準的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「リサーチクエスチョンが決まったら、「どの情報があれば答えられるか」の調査項目を逆算して情報ソースを選定します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「リサーチクエスチョンが固まったら、調査前に「おそらく〇〇ではないか」という仮説を1〜2つ立てておくことをお勧めします」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「仮説があると情報収集の優先順位がつけやすくなり、「仮説を支持するデータ」「仮説に反するデータ」の両面を意識して集められるため、解釈の精度が上がります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「仮説を検証するために、何を調べるかを具体的な調査項目へ分解します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「ステップ5：クロスチェック」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「市場規模を推定するときは、公的統計や調査会社のレポートと組み合わせて利用します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「重要な数値や主張は、異なる調査主体の情報と照合します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「デスクリサーチはただ単に資料を探すだけでなく、調査目的に合う情報源を選び、発行元や調査時期を確認し、複数の資料を照合する必要があります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「集めた情報を、意思決定に使える仮説やレポートにまとめることも重要です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「さらに、情報収集や仮説づくりを効率化する方法も紹介します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「そのため、デスクリサーチは初期仮説づくりに使い、公開情報で不足する論点は一次調査へ渡します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「実務では「まずデスクリサーチで市場全体の仮説を構築し、仮説を検証するためにフィールドリサーチを実施する」という順序が標準的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「リサーチクエスチョンが決まったら、「どの情報があれば答えられるか」の調査項目を逆算して情報ソースを選定します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「リサーチクエスチョンが固まったら、調査前に「おそらく〇〇ではないか」という仮説を1〜2つ立てておくことをお勧めします」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「仮説があると情報収集の優先順位がつけやすくなり、「仮説を支持するデータ」「仮説に反するデータ」の両面を意識して集められるため、解釈の精度が上がります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「仮説を検証するために、何を調べるかを具体的な調査項目へ分解します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「ステップ5：クロスチェック」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「市場規模を推定するときは、公的統計や調査会社のレポートと組み合わせて利用します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「重要な数値や主張は、異なる調査主体の情報と照合します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
 - 一次情報の探し方：
-  - 「：総務省統計局の人口統計、経済産業省の業種別統計など」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「収集した情報は一次情報・二次情報に分類する」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「：総務省統計局の人口統計、経済産業省の業種別統計など」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「収集した情報は一次情報・二次情報に分類する」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
 - 失敗・落とし穴：
+  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「特に注意が必要なのは、」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
   - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
   - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
   - 「ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
@@ -1411,28 +1417,22 @@
   - 「Errors in Research: 7 Common Mistakes to Avoid In Research Projects」（https://researcher.life/blog/tag/tips-for-researchers/）
   - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
   - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「特に注意が必要なのは、」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「What is Anchoring Bias? Definition and Examples」（https://researcher.life/blog/category/research-reading/）
-  - 「Key Takeaways: Anchoring bias is the tendency to weight the first number or framing you encounter too heavily, so that it pulls every judgment that」（https://researcher.life/blog/category/research-reading/）
 - 実例：
-  - 「あるいは、検索結果を一つずつ確認しているうちに、情報収集だけで何日もかかってしまうことはありませんか」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「まずは導入事例の資料ででデスクリサーチをどう効率化し、調査結果をどのように整理したか確認してみてください」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「デスクリサーチ）行動の結果記録を扱うため、「なぜそうしたか」という潜在動機や本音の把握は困難です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「デスクリサーチなしに一次調査を始めると、設問設計の前提が甘くなり、結果の解釈精度が下がります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「：既存データは行動の結果記録であり、「なぜそうしたか」という潜在動機までは追えません」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「例えば、国内の〇〇市場への参入可能性を調べる場合は、次のように分解します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「まず無料で公開されている概要や調査結果を確認し、詳細な市場区分や予測値が必要な場合に有料レポートを検討すると効率的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「：事業内容、サービス、導入事例、プレスリリース、決算説明資料などを確認できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「：企業が発表した新商品、業務提携、調査結果などのプレスリリースを検索できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「同じテーマでも、質問文や調査対象者が異なると結果は変わります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「調査結果を引用するときは、数値だけでなく調査条件も確認しましょう」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「テキストと異なり、グラフは「図版」として著作物性が認められやすいため、スクリーンショットの貼り付けや図版の模写は、出典明示だけでは不十分なケースがあります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「例えば、インティメート・マージャーが提供するサー」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
-  - 「は、独自のIDソリューションによって国内人口の約90%のWeb閲覧行動を把握したデータをもとに、チャット形式でリサーチ結果を提供するサービスです」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「あるいは、検索結果を一つずつ確認しているうちに、情報収集だけで何日もかかってしまうことはありませんか」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「まずは導入事例の資料ででデスクリサーチをどう効率化し、調査結果をどのように整理したか確認してみてください」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「デスクリサーチ）行動の結果記録を扱うため、「なぜそうしたか」という潜在動機や本音の把握は困難です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「デスクリサーチなしに一次調査を始めると、設問設計の前提が甘くなり、結果の解釈精度が下がります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「：既存データは行動の結果記録であり、「なぜそうしたか」という潜在動機までは追えません」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「例えば、国内の〇〇市場への参入可能性を調べる場合は、次のように分解します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「まず無料で公開されている概要や調査結果を確認し、詳細な市場区分や予測値が必要な場合に有料レポートを検討すると効率的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「：事業内容、サービス、導入事例、プレスリリース、決算説明資料などを確認できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「：企業が発表した新商品、業務提携、調査結果などのプレスリリースを検索できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「同じテーマでも、質問文や調査対象者が異なると結果は変わります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「調査結果を引用するときは、数値だけでなく調査条件も確認しましょう」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「テキストと異なり、グラフは「図版」として著作物性が認められやすいため、スクリーンショットの貼り付けや図版の模写は、出典明示だけでは不十分なケースがあります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「例えば、インティメート・マージャーが提供するサー」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
+  - 「は、独自のIDソリューションによって国内人口の約90%のWeb閲覧行動を把握したデータをもとに、チャット形式でリサーチ結果を提供するサービスです」（https://note.intimatemerger.com/n/n9012095e7eac?gs=dffb0df8944478b89f9c176aef82437b）
 - 検索結果の抜粋：
   - 「The 15 Best Academic Blogs for 2025 | Ex OrdoThe Researcher's Source Blog | For Researchers | Springer NatureResearcher.Life: Blog Category | Researcher.LifeBlog — Sage Research Methods Community18 Best Academic Blogs to Follow in 2026 - bloggers.feedspot.com — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger Mewburn, Associate Professor at the Univer」（https://www.exordo.com/blog/the-best-academic-blogs）
   - 「The 15 Best Academic Blogs for 2025 | Ex Ordo15 Best Academic Blogs Every Researcher Should Follow - ListeningThe Researcher's Source Blog | For Researchers | Springer NatureAcademic Writing: Blog Category | Researcher.LifeHow to conduct effective academic research: 9 key methods40 Must-read academic blogs for researchers and PhD students — “Just like the horse whisperer – but with more pages.” Th」（https://www.exordo.com/blog/the-best-academic-blogs）
@@ -7500,6 +7500,12 @@
 ## 分析の前提の点検（Key Assumptions Check）と変化の兆し（Indicators・Signposts）を企業・市場調査で使う手順（key assumptions check indicators signposts of change structured analytic techniques business research）
 - 文脈：手順・やり方
 - 手順・やり方：
+  - 「Analysis of Competing Hypotheses step by step」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「The value of SATs is that a colleague can see the assumptions and evidence behind a judgement and disagree with a specific step.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「The Tradecraft Primer describes four steps: write down the current analytic line; identify all premises, stated and unstated, it depends on; challenge each by asking whether it must be true and whether it holds in all conditions; then reduce the list to assumptions that must be true and identify what information could invalidate them. Applied to a typical incident judgement:」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「ACH is described in Chapter 8 of Heuer's book as an eight-step methodology, and the Tradecraft Primer gives a closely related sequence. In CTI form:」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「Consistent language matters as much as method. Intelligence Community Directive 203,」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「NIST: Cybersecurity Framework 2.0」（https://nhimg.org/structured-analytic-techniques-guide）
   - 「How to approach, research, and develop analytic assessments on emerging technologies and threat trends (Part 2)」（https://www.sans.org/blog/helping-cti-analysts-approach-and-report-on-emerging-technology-threats-and-trends-part-2）
   - 「Throughout the intelligence curation process, the AIMS methodology provides a useful framework to conceptualize the story we plan to tell and how we will message the analytic findings. For those unfamiliar with AIMS, it is an acronym that stands for」（https://www.sans.org/blog/helping-cti-analysts-approach-and-report-on-emerging-technology-threats-and-trends-part-2）
   - 「toryline. There are alternative storytelling frameworks beyond AIMS you might consider like」（https://www.sans.org/blog/helping-cti-analysts-approach-and-report-on-emerging-technology-threats-and-trends-part-2）
@@ -7509,12 +7515,6 @@
   - 「their use, and the need for additional analytic methodologies.」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「SATs are methods of organizing and stimulating thinking」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「about intelligence problems. These methods aim to make the」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「SATs provide analysts with clear, often step-by-step, guid-」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「also provide step-by-step guidance for designing analysis to」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「We interviewed analytic managers and analytic methodologists」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「tional analytic methodologies. We also held an analyst focus」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「IC to reinforce analytic methods that challenge long-standing」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「complex problems." One critique of the ACH method argues」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
 - 突き合わせ・推定：
   - 「Availability. Probability estimates are」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
   - 「Anchoring. Probability estimates are」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
@@ -7528,6 +7528,9 @@
   - 「His assumptions have to be mostly true for his decision not to be a life-ending one. They seem the main source of potential failure should he keep the money. But we’ve already uncovered several sources of uncertainty. Moss may overestimate himself. And we’re only halfway through our analysis.」（https://themindcollection.com/structured-analytic-techniques/）
   - 「A KAC rating is not a probability, and "Solid" is not "certain." The exercise tells you where your analytic line is exposed, not how likely it is to be right. If you need an actual probability estimate, that's Bayesian territory — see」（https://www.analysistoolbox.com/tutorials/key-assumptions-check）
 - 一次情報の探し方：
+  - 「PDF for newsletter subscribers · free to read online」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「Every section, table and checklist in one PDF, with links to the sources and related guides. Subscribe to our weekly NHI & AI Identity Journal and we’ll email you a download link.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「PDF Downloads for Newsletter Subscribers」（https://nhimg.org/structured-analytic-techniques-guide）
   - 「support to field partners, namely on profiling, and strategic advice on data; consolidates its」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「In the analysis phase of a collaborative data process, such as profiling or joint needs assessments,」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「analysed and related to the joint analysis steps in the profiling process.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
@@ -7540,10 +7543,10 @@
   - 「cognitive_biases_march_2016.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「acaps.org/sites/acaps/files/resources/files/acaps_analysis_spectrum_poster.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「apr09.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
-  - 「cb27cc09c84d056b66616b4da5c02a4d/OSS2000-01-23.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
-  - 「3rd%20Edition.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
-  - 「Academy. http://www.fao.org/elearning/Course/IPC2/en/pdf/1254_textonly1254.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
 - 失敗・落とし穴：
+  - 「Structured Analytic Techniques for CTI Guide: Reducing Bias in Threat Assessments」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「logs are missing, retention is short and telemetry is biased towards what the organisation already monitors.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「The biases that show up most often in cyber assessments, and the technique that counters each:」（https://nhimg.org/structured-analytic-techniques-guide）
   - 「employing SATs and compile lessons learned on best practices and pitfalls of their use in intelligence」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「the probability of errors caused by numerous cognitive biases」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「tive bias and reducing it. Chief among such biases often seen in」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
@@ -7556,10 +7559,14 @@
   - 「mitigating the cognitive pitfalls they are designed to address,」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「・ What are the most important best practices and pitfalls in」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「・ To what extent do SATs help overcome mindset bias, satis-」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「ficing, and other cognitive pitfalls that plague analysis?」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「In some cases, an individual might have a bias—current intel-」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「Cognitive and perceptual biases in」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
 - 実例：
+  - 「assuming the adversary values what you would value, for example that a criminal group would never sit quietly for months. Counter with Red Team Analysis.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「the case is "solved" before scoping is complete. Counter with Indicators of Change and a scheduled re-test.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「Builds the best case against the prevailing view」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「In this illustrative example H2 has no inconsistent evidence, so it leads, but it rests heavily on the "no extortion contact" item: if a demand arrives later, the assessment must be revisited. The commodity tool row does not discriminate and could be dropped. That is the kind of reasoning a reader can audit and challenge.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「many teams grade source reliability and information credibility separately, for example with the Admiralty (NATO) system of letters A to F for reliability and numbers 1 to 6 for credibility. A single vendor blog repeating an unverified claim should not be graded like a direct observation in your own logs.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「for every attribution, scoping or "are we affected?" judgement, recorded in the case notes.」（https://nhimg.org/structured-analytic-techniques-guide）
+  - 「Pilot ACH on two cases:」（https://nhimg.org/structured-analytic-techniques-guide）
   - 「Figure 2: Examples of SATs in Each Category」（https://www.sans.org/blog/helping-cti-analysts-approach-and-report-on-emerging-technology-threats-and-trends-part-2）
   - 「Let’s use a historic, well-known cyber attack as an example to illustrate the various orders of effect it had before providing a technology and a trend focused example.」（https://www.sans.org/blog/helping-cti-analysts-approach-and-report-on-emerging-technology-threats-and-trends-part-2）
   - 「Figure 4: Illustrative Example of Roles」（https://www.sans.org/blog/helping-cti-analysts-approach-and-report-on-emerging-technology-threats-and-trends-part-2）
@@ -7568,13 +7575,6 @@
   - 「reexamination of assumptions and, in some cases, height-」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「have otherwise been the case. In some cases, this may be」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「on factors other than its analytic quality. For example, whether」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「In some cases, an individual might have a bias—current intel-」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「example, the extent to which other people」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
-  - 「For example, military analysis may focus」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
-  - 「these forces actually fight?). In this case,」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
-  - 「might fluctuate. All of these examples」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
-  - 「Key Assumptions Check: The 2002 DC Sniper Case」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
-  - 「a good example of how this technique could have been applied. After the initial flurry of」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
 - 検索結果の抜粋：
   - 「Improving your Intelligence Analysis with Structured Analytic ... — Jun 22, 2023 · KEY POINTS: 🔗︎ Structured Analytic Techniques (SATs), such as the Key Assumptions Check (KAC) and Red Team Analysis (RTA), assist analysts in critically examining information and mitigating biases amid the growing challenges posed by threat actors. The effectiveness of the KAC lies in its ability to yield immediate 」（https://www.maltego.com/blog/improving-your-intelligence-analysis-with-structured-analytic-techniques/）
   - 「structured-analytic-techniques — May 20, 2026 · Key assumptions check Quality of information check Indicators or signposts of change Analysis of competing hypotheses (ach) Contrarian Techniques (Explicitly challenge current thinking) Devil’s advocacy team b High Impact low Probability analysis What if? analysis Imaginative Thinking Techniques (Develop new insights, perspectives, and ...」（https://mattdot.github.io/sats4llms/concepts/structured-analytic-techniques）
@@ -8792,9 +8792,9 @@
   - 「Primary source for Point-in-time data and vintages」（https://stochastly.com/learn/point-in-time-data-and-vintages）
 - 失敗・落とし穴：
   - 「Survivorship bias in backtesting」（https://stochastly.com/learn/point-in-time-data-and-vintages）
-- 手順・やり方：記載なし（読んだ21頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
-- 実例：記載なし（読んだ21頁・検索12回）
+- 手順・やり方：記載なし（読んだ20頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
+- 実例：記載なし（読んだ20頁・検索12回）
 
 ## 引用が実在しても主張を支えていない（根拠のずれ）を見つける点検（AI検索・RAGの誤りの評価）（misgrounded citation detection RAG hallucination evaluation legal research）
 - 文脈：検証
@@ -8882,54 +8882,58 @@
 ## 市場規模の食い違いを対象・地域・時点・取引段階・単位・推計方法で横に並べる比較表の作り方（公的統計から2経路で推計して差を検証する工程）（market sizing reconcile top-down bottom-up comparison table transaction stage definition）
 - 文脈：市場規模の推計
 - 手順・やり方：
-  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「数値を引用するときは、発表主体、調査時点、対象範囲、集計方法を記録してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「公表された市場規模を調べる5ステップ」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「Step1：市場の定義と調査目的を1文にする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「Step2：キーワードと類義語を洗い出す」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「Step4：数字の定義と調査範囲をそろえる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「トップダウンは、上位概念の市場規模に、対象地域、顧客属性、利用率などの条件を掛け合わせる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「ボトムアップは、現場に近いデータを積み上げる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「市場規模推計・TAM/SAM/SOMの実務｜市場成長率と売上計画を根拠ある数字でつなぐ方法｜ヘンザップ梅山」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「市場規模推計・TAM/SAM/SOMの実務｜市場成長率と売上計画を根拠ある数字でつなぐ方法」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「・調査対象、価格・地域・顧客・販路・期間をそろえた市場定義の方法」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「・前年比成長率、CAGR、感度分析の計算方法」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「『どの顧客に、何を、いくらで、どの方法で販売し、その市場からどの程度の売上を現実的に獲得できるか』という経営判断につなげることです」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「前回の記事：S05「5 Forces分析の進め方を徹底解説」」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「3．公開統計の正しい使い方｜実在データと推計の境界」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「調査時に確認する項目は、発表日、対象年、対象商品、販売形態、集計単位、返品・税の扱い、推計方法、資料改訂の有無です」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「トップダウンは、信頼できる大きな市場規模を起点に、顧客、価格帯、地域、用途、販路などの条件を順に適用して対象市場を求める方法です」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「実務では、①公的統計を選ぶ、②自社が扱わない範囲を除外する、③セグメント比率の根拠を集める、④集計の重複を確認する、⑤仮定値に範囲を持たせる、という手順で行います」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「ボトムアップは、実際に販売できる顧客数や訪問数、購入率、購入金額などから、売上を積み上げる方法です」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「7．実務手順｜市場規模分析の9ステップ」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「STEP 1｜意思決定を明確にする」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「STEP 2｜市場の定義を固定する」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「STEP 3｜一次資料を収集する」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
 - 突き合わせ・推定：
-  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「一次調査は、市場規模そのものを直接測るだけでなく、ボトムアップ推計に使う「対象者の割合」「利用頻度」「1回あたりの支出」などの前提を得るためにも使えます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「AIリサーチは、公開情報の探索、仮説の整理、対象者の関心の把握を効率化する選択肢です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「その場合は、計算式と仮定を明示して推計します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「上位概念の市場規模 × 対象地域比率 × 対象顧客比率 × 利用率 ＝ 対象市場の推計規模」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「対象顧客数 × 利用率 × 1回あたりの単価 × 年間利用回数 ＝ 年間市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「実際の調査では、顧客数、利用率、単価、頻度それぞれの根拠と、値が変わった場合の推計レンジを示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「出典・対象年・単位・実測値／推定値／仮定の区分」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「特定企業の売上高と市場シェアが確認できる場合は、次の考え方で市場全体を推計できます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「企業の対象事業売上高 ÷ 市場シェア ＝ 市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「仮想A社の企業情報、顧客比率、市場浸透率、売上シナリオ、推計係数はいずれも学習用の仮定です」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「1．まず市場を定義する｜市場規模推計の出発点」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「推計表には単位・定義・期間・出典を必ず添えます」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「市場規模推計では、獲得可能性の異なる3つの市場を分けます」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「3．公開統計の正しい使い方｜実在データと推計の境界」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「調査時に確認する項目は、発表日、対象年、対象商品、販売形態、集計単位、返品・税の扱い、推計方法、資料改訂の有無です」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「今回の2025年データは経産省の発表と、当該発表を報じた複数の資料を照合しています」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「4．トップダウン推計｜大きな市場から絞り込む」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「「公的統計を使っているから推計が正しい」とは言えません」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「5．ボトムアップ推計｜顧客や販売活動から積み上げる」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「この計算で重複注文、キャンセル・返品、値引き、税込・税抜、訪問数とユーザー数の違いを見落とすと過大推計になります」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「新規事業の市場規模の調べ方｜TAM・SAM・SOMを推計する8ステップ｜FREE LABO｜新規事業の市場調査・事業開発」（https://note.com/shijochosa_labo/n/n7648b1cfab60）
+  - 「新規事業の市場規模の調べ方｜TAM・SAM・SOMを推計する8ステップ」（https://note.com/shijochosa_labo/n/n7648b1cfab60）
+  - 「この記事では、顧客、支払者、提供方法がおおむね決まった段階から、公開統計を使ってTAM・SAM・SOMを推計し、GO・HOLD・STOPの判断材料へ変える手順を解説します」（https://note.com/shijochosa_labo/n/n7648b1cfab60）
+  - 「対象世帯、集計区分、品目の定義を確認し、単価の参考値や別計算との照合に使います」（https://note.com/shijochosa_labo/n/n7648b1cfab60）
 - 一次情報の探し方：
-  - 「しかし、検索して見つけた資料によって市場規模の数字が違ったり、そもそも細分化された市場の統計が見つからなかったりすることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「最初に確認したいのは、政府統計や各省庁の白書です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「: 政府統計をキーワード、分野、作成機関などから探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「: 生産、出荷、販売、サービスなどの統計を探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「公的統計は、調査対象や定義が公開されていることが多く、全体像を把握する入口になります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「業界団体の統計や企業の決算資料は、業界の売上、出荷、企業数、シェアを補う場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「一方で、業界団体の統計は加盟企業のみを対象にしていることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「民間の市場調査レポートには、官公庁統計にない細かなカテゴリー、企業シェア、チャネル別データ、将来予測が含まれる場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「その場合は、アンケートやインタビューで一次情報を集めます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「まず公的資料で市場の土台となる数字を確認し、業界団体・企業資料・民間レポートで細かなカテゴリーや企業情報を補います」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「会員企業だけの統計を業界全体の数字として扱っていないか」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「最終報告では、採用値だけを見せるのではなく、なぜその資料を採用したのかを説明します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「公的統計を使う場合は、資料名・統計表番号・対象年・URLを記録します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「ただし、統計値は丸められているため、掲載値から再計算した増減率には小さな差が生じることがあります」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「実務では、①公的統計を選ぶ、②自社が扱わない範囲を除外する、③セグメント比率の根拠を集める、④集計の重複を確認する、⑤仮定値に範囲を持たせる、という手順で行います」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「弱点は、最上位の統計が正しくても、途中で使う顧客比率や到達可能性が弱い仮定なら、結果全体が不確実になることです」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「「公的統計を使っているから推計が正しい」とは言えません」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「経産省のEC調査、政府統計、業界団体の公開資料、各社の決算資料、自社POS・ECデータなどを集め、資料名・公表日・対象期間・URL・担当者を残します」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「計算式・単位・統計の範囲、顧客セグメント重複、経営計画との整合をレビューします」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「M01｜国内衣類・服装雑貨等BtoC-EC｜2025年｜28,941億円｜経産省公表・二次資料照合｜確認済みの公開市場統計」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「失敗①：広い業界統計を自社TAMと呼んでしまう」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「失敗⑤：トップダウンとボトムアップが合わないのに都合の良い数字だけ採用する」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「この記事では、顧客、支払者、提供方法がおおむね決まった段階から、公開統計を使ってTAM・SAM・SOMを推計し、GO・HOLD・STOPの判断材料へ変える手順を解説します」（https://note.com/shijochosa_labo/n/n7648b1cfab60）
+  - 「この一文が書けなければ、統計を探す前に対象定義へ戻ります」（https://note.com/shijochosa_labo/n/n7648b1cfab60）
+  - 「地域、年齢、世帯構成、就業状態などを確認する場合は、総務省統計局の」（https://note.com/shijochosa_labo/n/n7648b1cfab60）
+  - 「業種の範囲が曖昧な場合は、e-Statの」（https://note.com/shijochosa_labo/n/n7648b1cfab60）
+  - 「ただし、統計表が作られた時点と産業分類の改定年は必ず確認します」（https://note.com/shijochosa_labo/n/n7648b1cfab60）
+  - 「現在の分類名を、そのまま過去の統計表へ当てはめられるとは限りません」（https://note.com/shijochosa_labo/n/n7648b1cfab60）
 - 失敗・落とし穴：
+  - 「TAM・SAM・SOMそれぞれの意味・違い・図解・計算方法・活用事例・注意点」（https://ozlink.co.jp/ozmedia/tam-sam-som/）
+  - 「TAMだけが大きくても意味がない？戦略設計の落とし穴」（https://ozlink.co.jp/ozmedia/tam-sam-som/）
+  - 「ブランドを立ち上げる方法とは？成功するためのステップと失敗しないためのコツ」（https://ozlink.co.jp/ozmedia/tam-sam-som/）
+  - 「実務でありがちな失敗や、注意すべきポイントを解説します」（https://ozlink.co.jp/ozmedia/tam-sam-som/）
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
   - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=55815be65594f5e62a49c83e0671c733）
@@ -8941,11 +8945,15 @@
   - 「市場規模の推計は、事業の成功を左右する重要なプロセスですが、その過程にはいくつかの落とし穴が存在します」（https://crexgroup.com/ja/data/column/data-ops/market-size-estimation-methods/）
   - 「ここでは、精度の高い市場規模推計を行うために、特に注意すべき3つのポイントを解説します」（https://crexgroup.com/ja/data/column/data-ops/market-size-estimation-methods/）
   - 「一つの統計データや調査レポートだけを鵜呑みにするのは非常に危険です」（https://crexgroup.com/ja/data/column/data-ops/market-size-estimation-methods/）
-  - 「各データの「調査概要」「注釈」「定義」などを注意深く読み込み、算出の前提条件を理解することが重要です」（https://crexgroup.com/ja/data/column/data-ops/market-size-estimation-methods/）
-  - 「一つの情報源に依存することは、その情報が持つバイアスや限界に気づかず、誤った結論を導くリスクを高めます」（https://crexgroup.com/ja/data/column/data-ops/market-size-estimation-methods/）
-  - 「本記事では、新規事業の成功と持続的な成長に不可欠な「市場規模の推計」について、その基礎知識から具体的な実践方法、そして注意点に至るまでを網羅的に解説しました」（https://crexgroup.com/ja/data/column/data-ops/market-size-estimation-methods/）
-  - 「という3つの注意点を常に念頭に置くことが、誤った結論を避けるために不可欠です」（https://crexgroup.com/ja/data/column/data-ops/market-size-estimation-methods/）
 - 実例：
+  - 「TAM・SAM・SOMそれぞれの意味・違い・図解・計算方法・活用事例・注意点」（https://ozlink.co.jp/ozmedia/tam-sam-som/）
+  - 「TAM・SAM・SOMの活用事例（Oz link支援例）」（https://ozlink.co.jp/ozmedia/tam-sam-som/）
+  - 「株式会社Oz linkの実績・事例詳細はこちら」（https://ozlink.co.jp/ozmedia/tam-sam-som/）
+  - 「特に社内意思決定や初期ピッチでは、現実的すぎて夢がない印象になるケースも」（https://ozlink.co.jp/ozmedia/tam-sam-som/）
+  - 「株式会社Oz linkの実績・事例はこちら」（https://ozlink.co.jp/ozmedia/tam-sam-som/）
+  - 「株式会社Oz linkの事例インタビュー一覧はこちら」（https://ozlink.co.jp/ozmedia/tam-sam-som/）
+  - 「『ブランディングとは何をすること？意味・目的・やり方・成功事例まで徹底解説』」（https://ozlink.co.jp/ozmedia/tam-sam-som/）
+  - 「『ブランディングの手順とは？基本ステップ・進め方・成功事例をわかりやすく解説』」（https://ozlink.co.jp/ozmedia/tam-sam-som/）
   - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
   - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
   - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
@@ -8953,14 +8961,6 @@
   - 「「企業売上高÷市場シェア」で市場規模を求める方法とは別に、ここでは別の方法で算出した結果を検算します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
   - 「そのため、出力を市場規模の根拠として使うには、情報源の確認や事実検証が必要となり、結局時間がかかってしまうというケースがよくあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
   - 「中堅企業従業員と生成AI・リスキリング関連キーワード群を掛け合わせた抽出条件と結果」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「抽出結果は、次のとおりです」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「この結果から、中堅企業従業員のセグメントでは、DMP全体と比べて生成AI・リスキリング関連キーワードの出現頻度が高い傾向が示されました」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「4. 実証結果から分かることと、追加確認が必要なこと」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「個人受講モデルと企業一括導入モデルでは、推計結果が大きく変わる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「の結果は、公開統計や実測値の代わりではありません」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「を使って市場調査を進めた活用事例を、導入事例集でご覧いただけます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「例えば、新規事業への参入を検討する際には、ターゲットとなる顧客がどの程度存在するのか、どのようなニーズを持っているのかを把握することが重要です」（https://www.rjc.co.jp/column/262）
-  - 「例えば、ターゲットとなる年代や性別、居住地域などの条件を設定し、商品・サービスの認知度、利用経験、購入意向、利用頻度、選定理由などを調査することで、市場の需要や顧客ニーズを把握することができます」（https://www.rjc.co.jp/column/262）
 
 ## 聞き方・検索語に置いた数字が答えを引き寄せるアンカリングを調査で防ぐ実務（共通の偏りは差で読む）（anchoring bias research question design avoid numeric anchors common-mode bias trust the delta）
 - 文脈：偏り
@@ -10080,11 +10080,11 @@
 
 ## 非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合（estimate private company revenue from cost structure break-even accounts receivable days）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ22頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
-- 実例：記載なし（読んだ22頁・検索12回）
+- 手順・やり方：記載なし（読んだ20頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
+- 実例：記載なし（読んだ20頁・検索12回）
 
 ## 調査の判断記録（決める問い・持ち主・見直しの日・撤回の条件）を分析の報告に付ける実務（情報機関・コンサル・投資）（decision log review date reversal trigger analysis assumptions）
 - 文脈：手順
@@ -12452,38 +12452,42 @@
 ## 企業向け・事業所向け調査の非回答バイアスの点検と補正（回収率の目安・回答した会社の偏りの向き・重み付けの実務・統計局や研究者の書き手）（nonresponse bias business establishment survey response rate weighting）
 - 文脈：手法・偏り
 - 手順・やり方：
-  - 「Federal Committee on Statistical Methodology」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Nonresponse Bias Subcommittee, Federal Committee on Statistical Methodology. June 2023.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Stephen Blumberg (Co-Chair)」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Guideline 3.1. Describe and justify all nonresponse bias evaluation methods used .................. 21」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Best Practice 7: Discuss recommendations for data collection methods and adjustment strategies」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Framework for Data Quality from the Federal Committee on Statistical Methodology (FCSM).」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「the methods, results, and conclusions from those nonresponse bias analyses.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「The literature on how to conduct nonresponse bias analyses is extensive and growing.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「The methods used for any data collection will be a function of the characteristics of that data」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「refers to various methods for conducting, and aspects of, nonresponse bias analyses. But these」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「methods are not fully described. Readers will need to refer to the many existing references for」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「more information on these methods.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「documentation of the methods and results of nonresponse bias analyses so that readers can」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「can occur when the likelihood of responding to surveys or other data collection methods (or」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「survey methods expertise should be solicited when developing the plan for the nonresponse bias」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Office of Statistical Methods and Research for Economic Programs」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「largely on nonresponse bias analysis methods for demographic surveys. Such surveys」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「methods for business surveys, including respon se rate analysis, the use of frame data,」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「method with examples from ongoing economic programs conducted by the U.S. Census」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「methods of assessing nonresponse bias, focusing on methods particularly helpful in the」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「views expressed on statistical, methodological, technical, or operational issues are those of the」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「world of business surveys. Section 4 provides illustrative examples of the methods」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「2.4 Methods of Handling Nonresponse」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「methods to account for nonresponse: follow-up, imputation, or weighting adjustments.」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「key items, direct substitution is generally preferred to model imputation: this method is」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「commonly used imputation methods in the Ce nsus Bureau’s Economic Directorate are」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「All three adjustment methods make assumpti ons about the data’s response mechanism.」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「assumptions that justify the nonresponse adjust ment method. Otherwise, these methods」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「can add bias, creating the need to reevaluate imputation and weighting methods.」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「3. Methods for Investigating Nonresponse Bias」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
 - 突き合わせ・推定：
-  - 「which population-based estimates are published .......................................................................... 15」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「reporting on nonresponse bias in estimates obtained from survey data. Nonresponse bias is one」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「The generalizability of survey estimates , a key quality indicator (FCSM, 2020), relies on」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Nonresponse bias affects both the accuracy and the reliability of population estimates.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「possible sources of error that can cause survey estimates to differ from the underlying population」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「have a large impact on the final estimate.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「quality of the estimates produced.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「survey error — the difference between a survey estimate and the true value— thus enhancing the」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「bias, to assess the potential for compounded or distorted bias estimates.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「estimates given the overall survey design. The report should describe the key aspects of the」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「the estimate given the sampling frame. According to the FCSM report, A Framework for Data」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「estimates. Descriptions of any unequal probabilities of inclusion used should be included.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「specific key estimates or outcomes. The report should provide a description of the survey’s key」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「estimates or outcomes and the set of variables used to produce them . Any other survey variables」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「however, it is not necessarily a strong predictor of the nonresponse bias in survey estimates」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「missingness is the potential for nonresponse bias. Bias in survey estimates could lead to」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「30% of estimate」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「70% of estimate」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「importance in the estimates (Tucker et al., 2007). At the U.S. Census Bureau, economic」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「improve the quality of the estimates. Analysts strive to reduce imputation rates for all」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「substantially to the estimate, followed by intensive analyst research for “large impute”」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「data to test the null hypothesis that ther e is no difference between estimates for」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「It might be useful to compare early and late respondents on key estimates. In essence this」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「3.3.2 Compare Respondent Estimates to Estimates from Administrative Data」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「Estimates of monthly sales and end-of-mont h inventories are then derived from the」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「Sampling units expected to have a large effect on the precision of the estimates are」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「The QSS provides estimates of total and change in quarterly receipts (published about 75」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「days after the end of the reference quarter) and early estimates of calendar year receipts」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「and ACE-2 samples are selected every year so that ACES estimates are based on」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「the capital expenditures estimate in a given industry is usually obtained from the certainty」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
 - 一次情報の探し方：
+  - 「http://www.census.gov/retail/mrts/www/benchmark/2010/pdf/Explanatory_Material.pdf.」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「http://www.census.gov/indicator/qss/qsstechdoc.pdf.」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「http://www.whitehouse.gov/omb/assets/omb/inforeg/pmc_survey_guidance_2006.pdf」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「http://www.census.gov/retail/mrts/www/benchmark/2010/pdf/Explanatory_Material.」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
   - 「https://aapor.org/wp-content/uploads/2023/05/Standards -Definitions-10th-edition.pdf」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
   - 「https://www.bls.gov/osmr/research -papers/2016/pdf/st160020.pdf」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
   - 「https://www.fcsm.gov/assets/files/docs/FCSM.20.04_A_Framework_for_Data_Quality.pdf」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
@@ -12495,40 +12499,38 @@
   - 「standards-apr2022.pdf. Accessed 17 Sept. 2024.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
   - 「Pietsch, L. (1995), “Profiling large business to define frame units,” Chapter 6 in Business Survey」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_COPAFS.pdf）
   - 「https://nces.ed.gov/FCSM/pdf/2009WorkshopProgram.pdf.」（https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf）
-  - 「whitehouse.archives.gov/omb/inforeg/statpolicy/standards_stat_surveys.pdf.」（https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf）
-  - 「gov/indicator/qss/qsstecdoc.pdf.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
 - 失敗・落とし穴：
-  - 「Best Practices for Nonresponse Bias Reporting」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Prepared by the Nonresponse Bias Subcommittee of the」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「SM, Fakhouri THI, Piscopo KD. 2023. Best Practices for Nonresponse Bias Reporting, FCSM-23-01」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Nonresponse Bias Subcommittee, Federal Committee on Statistical Methodology. June 2023.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Nonresponse Bias Subcommittee」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Best Practices for Nonresponse Bias Reporting June 2023 1」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「GUIDANCE FOR DEVELOPING A NONRESPONSE BIAS REPORT ..................................... 10」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Best Practice 1: Describe the survey that is the subject of the nonresponse bias analysis ............. 10」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「the nonresponse bias analysis......................................................................................................... 13」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「nonresponse bias ................................................................................................................................. 14」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Guideline 2.7. Discuss the potential for nonresponse bias given weighted response rates,」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Best Practice 3: Describe the plan for evaluating and quantifying nonresponse bias and any」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Guideline 3.1. Describe and justify all nonresponse bias evaluation methods used .................. 21」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Guideline 3.2. Describe the analysis plan for comparing and assessing nonresponse bias levels」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Best Practices for Nonresponse Bias Reporting June 2023 2」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Conducting Nonresponse Bias Analysis for Business」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「bias analysis when response rates fail to m eet target values. The literature focuses」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「largely on nonresponse bias analysis methods for demographic surveys. Such surveys」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「designs with highly skewed populations. This paper examines nonresponse bias analysis」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「Key Words: nonresponse bias analysis, response rate, business survey, response model,」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「missingness is the potential for nonresponse bias. Bias in survey estimates could lead to」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「not necessarily indicate nonresponse bias (Groves et al., 2008), they are often used as a」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「evaluate nonresponse bias when expected unit response rates are less than 80% (Graham,」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「nonresponse bias. Much of the research in this area focuses on conducting nonresponse」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「bias studies for household surveys. We need additional tools for analyzing business」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「bias studies for business or establishment surveys. It is also meant to generate discussion」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「methods of assessing nonresponse bias, focusing on methods particularly helpful in the」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「U.S. Census Bureau. The conclusion provid es nonresponse bias questions to consider for」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「For evaluating a business program’s nonresponse bias potential, the above rate computed」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「these “important” units, any nonresponse causes nonr esponse bias. It is unlikely that this」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
 - 実例：
-  - 「bias for other data sources. For example, gaps in data resulting from malfunctioning sensors in a」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「additional cases does not necessarily decrease bias (Heerwegh, Abts, & Loosveldt, 2007). Some」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「nonresponse bias. For example, if a survey i ncludes a longitudinal component, it may be useful」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「possible, any bias identified in the nonresponse bias analysis, for example by adjusting survey」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「collection procedures, including comprehensive metadata. As is the case with all guidance」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「survey and the population for which inferences will be made. For example, the target population」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「where each sample unit has a known probability of selection. For example, an address -based」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「telephone number or cell phone number. In some cases, a list of email addresses may provide a」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「students at a university). For example, t he Bureau of Labor Statistics uses unemployment」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「rely on multiple frames in which case information on each frame used and how they are used」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「about the target population” (p. 38) . For example, target household units without landline」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「The report should describe the level(s) at which data were collected. For example, the」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「For example, households without tele phones cannot participate in telephone -only surveys」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「tested during data collection to increase response rates and reduce potential bias. Examples of」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「associated with bias, there are some situations where the latter may not lead to bias. For example,」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「method with examples from ongoing economic programs conducted by the U.S. Census」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「world of business surveys. Section 4 provides illustrative examples of the methods」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「presented in Section 3, with selected anal yses from three cases studies conducted at the」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「collecting survey data. A tabulation unit is one used for estimation. For example,」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「2 For example, consider the grocery store industry, where the majority of business is conducted by」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「nonrespondents that do not improve the URR. For example, a program might require」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「Because business data tend to be highly skewed, sampled cases with large design weights」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「such small cases in computation, URRs are computed without using design weights.」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「The TQRR for a given item can be very different than the program’s URR. For example,」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「accomplished by nonresponse follow-up of large cases expected to contribute」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「cases comprised of more phone calls (targeted questions) and searches for auxiliary data」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「the case. Like household surveys, busin ess surveys often use one of the following」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「for certainty or large noncertainty units. Fo r example, a monthly survey may restrict」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「follow-up exclusively to large cases, whereas an annual survey may perform most of its」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
+  - 「follow-up on large cases, but may follow-up on smaller cases later in the processing」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
 
 ## 株主・持分の連なり（親会社・中間持株会社・議決権の割合）を有報の大株主・関係会社の状況や本国の届出で突き合わせる実務（調査報道・OSINT・与信の書き手）（ownership chain verification beneficial ownership filings subsidiaries OSINT）
 - 文脈：会社・一次
@@ -13324,6 +13326,7 @@
 ## 史料批判（外的批判と内的批判）を企業・統計の調べ物に使う実務（来歴・写しからの復元・誤りの型・出版バイアス）（source criticism external internal provenance applied to business research）
 - 文脈：突き合わせ
 - 手順・やり方：
+  - 「小型の家庭用ヒューム管製，中型の煉瓦・鉄板製，大型の鉄筋コンクリート製，また船舶用など種々あるが，ここでは工業用について説明する」（https://kotobank.jp/word/%E5%8F%B2%E6%96%99%E6%89%B9%E5%88%A4-81003）
   - 「史料批判(しりょうひはん)とは？ 意味や使い方 - コトバンク」（https://kotobank.jp/word/%E5%8F%B2%E6%96%99%E6%89%B9%E5%88%A4-81003）
   - 「…一般に歴史的認識のもととなるべき素材を史料というが，歴史研究の基礎であるこの史料について，いかなる素材が史料となりうるかを検討し，その固有の性格を究明し，収集･分類の方法を探究するのが〈史料学〉である」（https://kotobank.jp/word/%E5%8F%B2%E6%96%99%E6%89%B9%E5%88%A4-81003）
   - 「後半では、今井登志喜『歴史学研究法』が方法的作業の実例として取り上げた天文17年（1548年）の塩尻峠の合戦を素材に、実際に数値を動かした感度分析の試行を紹介する[1]」（https://note.com/reading_monkey/n/nb4523f84f3df）
@@ -13338,7 +13341,6 @@
   - 「貝組成データ等の傾向からその立地の背景を明らかにし、未知の貝塚の貝組成傾向を知る方法の確立」（https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-21K19998/21K19998seika.pdf）
   - 「method to determine the background of the location of shell middens based on trends in shell」（https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-21K19998/21K19998seika.pdf）
   - 「この史資料批判は、外的批判と内的批判に類型化さ」（https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-21K19998/21K19998seika.pdf）
-  - 「れ、後者は比較的専門分野の訓練と経験により習熟していく性質があるが、 前者を科学的に行う方法論は確立」（https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-21K19998/21K19998seika.pdf）
 - 突き合わせ・推定：
   - 「\text{史料批判} = \text{データ来歴の確認} + \text{誤差モデルの推定} + \text{バイアスの評価} + \text{独立データによる検証}」（https://note.com/reading_monkey/n/nb4523f84f3df）
   - 「そのうえで実際の戦果を推定するには、少なくとも三つを分けて考える必要がある」（https://note.com/reading_monkey/n/nb4523f84f3df）
@@ -16755,21 +16757,21 @@
 ## 専門家インタビュー（エキスパートコール）の設計と裏取り（問いの型の固定・崩す側の問い・複数人で比べる・記録の原文で確かめる・未公開情報の扱い・4-106・4-127）（expert call interview guide design triangulation investment research）
 - 文脈：手順
 - 手順・やり方：
+  - 「This is a workflow post for management consultants, private equity and venture investors, and corporate strategy teams. If you want the general methodology, see our」（https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/）
+  - 「B2B market research expert interview methods」（https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/）
+  - 「The through-line is that you are buying primary insight to reduce the risk of a specific decision. That framing should drive every later step, from who you interview to how you write up the findings.」（https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/）
+  - 「Step 1: Define the exact expert profile」（https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/）
+  - 「For example, in diligence on a B2B software target you might want three profiles: current customers, lost or churned customers, and competitors’ sales reps. That mix gives you the bull case, the bear case, and the competitive reality. Our guides on how to」（https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/）
+  - 「Step 2: Source verified experts, fast」（https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/）
+  - 「how to recruit B2B research participants」（https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/）
+  - 「Step 3: Screen for compliance before anyone joins a call」（https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/）
+  - 「This is the step that separates professional diligence from a liability. Expert interviews in an investing context sit close to sensitive information, and getting compliance wrong can turn useful research into a serious problem. The guidance below is standard practice, not legal advice, and you should confirm your own program with counsel and compliance.」（https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/）
+  - 「Step 4: Design a diligence question guide」（https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/）
+  - 「Step 5: Run the call」（https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/）
+  - 「Step 6: Synthesize into an investment or strategy view」（https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/）
+  - 「Strong expert interviews for diligence and strategy come from discipline at every step: a precise profile, fast and verified sourcing, real compliance screening, a question guide tied to decisions, a focused call, and honest synthesis. The method is not exotic, but the stakes and the timelines make execution unforgiving.」（https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/）
   - 「セミエキスパートインタビューの調査方法・調査の流れ」（https://quest-research.co.jp/research/semi-expert-interview）
   - 「Top Tierの戦略コンサル出身者が自ら実践する中で繰り返しアップデートしている手順や資料フォーマットを用い、高いクオリティーのアウトプットを納品いたします」（https://quest-research.co.jp/research/semi-expert-interview）
-  - 「STEP1 事前打ち合わせ」（https://quest-research.co.jp/research/semi-expert-interview）
-  - 「STEP2 対象者リクルーティング」（https://quest-research.co.jp/research/semi-expert-interview）
-  - 「STEP3 インタビュー実施」（https://quest-research.co.jp/research/semi-expert-interview）
-  - 「STEP4 納品」（https://quest-research.co.jp/research/semi-expert-interview）
-  - 「エキスパートインタビューのやり方｜コンサル流の設計・実施・示唆抽出を解説 | ConStep」（https://constep.jp/column/2835）
-  - 「エキスパートインタビューのやり方｜コンサル流の設計・実施・示唆抽出を解説」（https://constep.jp/column/2835）
-  - 「本記事では、エキスパートインタビューを「単なる情報収集」から「仮説検証の精密手段」に引き上げるための設計・実施・示唆抽出の方法論を、現役コンサルタント監修の視点で体系的に整理します」（https://constep.jp/column/2835）
-  - 「質問設計は仮説提示型が基本で、オープン質問の連発は避ける」（https://constep.jp/column/2835）
-  - 「どの反応であっても、仮説提示型のほうがオープン質問より圧倒的に有益な情報が得られます」（https://constep.jp/column/2835）
-  - 「エキスパートネットワークサービス（GLG、Coleman、Third Bridge等）を使う方法、業界知人からの紹介、LinkedInによる直接接触などです」（https://constep.jp/column/2835）
-  - 「ConStepを運営する株式会社Ballistaは、戦略系・大手コンサルファーム出身者が結集したプロフェッショナルファームとして、自社で中堅コンサルタント層のエキスパートインタビュー力を育成してきた経験を持ちます」（https://constep.jp/column/2835）
-  - 「ConStepの教材『リサーチ』では、エキスパートインタビューの設計・実施・示唆抽出までを、実務シナリオに沿って体系的に学べる構成にしています」（https://constep.jp/column/2835）
-  - 「仮説提示型の質問が、オープン質問より圧倒的に深い情報を引き出す」（https://constep.jp/column/2835）
 - 突き合わせ・推定：
   - 「特に、セミエキスパートインタビューとは特定企業の部門や役職を条件として対象をリクルーティングするのではなく、業界全体・職種全体を検索対象とすることでよりクイックに対象者を確保し仮説検証を行うことが可能です」（https://quest-research.co.jp/research/semi-expert-interview）
   - 「ある業界や職種のエキスパートに対して、クイックに仮説検証ができる」（https://quest-research.co.jp/research/semi-expert-interview）
@@ -16787,6 +16789,7 @@
   - 「その場合は、まず公開情報を徹底的に読み込んで粗い仮説を作り、それから初回インタビューに臨むのが正攻法です」（https://constep.jp/column/2835）
   - 「公開情報の読み込みから、現時点での仮説を言語化します」（https://constep.jp/column/2835）
 - 一次情報の探し方：
+  - 「Public data tells you what already happened. Expert interviews tell you why, what is changing, and what the numbers miss. In a deal or a strategy sprint, you reach for them when the decision is expensive, the timeline is short, and the answer lives inside someone’s operating experience rather than a filing.」（https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/）
   - 「業界レポート、有価証券報告書、IR資料、業界紙の記事、書籍、論文などを30〜50点単位で読み込み、業界の構造・主要プレイヤー・直近のトピックを把握します」（https://constep.jp/column/2835）
   - 「エキスパートインタビューとは、特定の業界や分野において豊富な知見を持つ専門家（エキスパート）から、直接ヒアリングを行うことで、質の高い一次情報を収集するリサーチ手法です」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
   - 「専門家から質の高い一次情報を得るための手法」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
@@ -16796,6 +16799,8 @@
   - 「どのような経験年数や専門スキルを持っているか？（例：「〇〇業界で10年以上のプロダクト開発経験を持つ」「〇〇という特定技術に関する特許を取得している」「海外市場の立ち上げを経験したことがある」）」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
   - 「専門家の経験に裏打ちされた一次情報に触れることで、事業の仮説を検証し、意思決定の精度を高め、組織に新たな視点をもたらすことができます」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
 - 失敗・落とし穴：
+  - 「common interview mistakes」（https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/）
+  - 「that bias answers matters even more when a deal rides on the findings.」（https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/）
   - 「書籍を1冊書いただけの著者は、書籍に書いていない情報を持っているとは限らないため、選定時には注意が必要です」（https://constep.jp/column/2835）
   - 「この記事では、エキスパートインタビューの基本的な知識から、具体的な実施ステップ、成功に導くための依頼や質問設計のコツ、さらには実践で役立つ質問例集や注意点まで、網羅的に解説します」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
   - 「エキスパートインタビューでよくある失敗と注意点」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
@@ -16809,9 +16814,9 @@
   - 「成功体験だけでなく、失敗体験を聞くことで、業界特有の落とし穴やリスクに関するリアルな情報を得られます」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
   - 「エキスパートインタビューは非常に強力な手法ですが、いくつかの落とし穴も存在します」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
   - 「事前に典型的な失敗例とその対策を理解しておくことで、貴重な機会を無駄にすることを防げます」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
-  - 「ここでは、よくある失敗とその注意点を4つ紹介します」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
-  - 「最も多く、そして最も致命的な失敗が、」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
 - 実例：
+  - 「. Here we focus only on the diligence, market, and strategy use case.」（https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/）
+  - 「For example, in diligence on a B2B software target you might want three profiles: current customers, lost or churned customers, and competitors’ sales reps. That mix gives you the bull case, the bear case, and the competitive reality. Our guides on how to」（https://cleverx.com/blog/expert-interviews-for-investment-and-consulting-research/）
   - 「専門家は多忙なケースが多いため、短時間で必要な情報を引き出す必要があります」（https://quest-research.co.jp/research/semi-expert-interview）
   - 「エキスパートであっても消費者向けのアンケートパネルに登録されているケースは多く、出現率が高そうな対象者を設定している場合には消費者パネルを通じてリクルーティングが可能です」（https://quest-research.co.jp/research/semi-expert-interview）
   - 「エキスパートが何かを発言したら、「なぜそう考えるのですか」「具体的な事例はありますか」「逆に当てはまらないケースはありますか」と、深掘り質問を3段重ねます」（https://constep.jp/column/2835）
@@ -16825,8 +16830,6 @@
   - 「例えば、あるIT企業が「建設業界向けのプロジェクト管理SaaS」という新規事業を検討しているとします」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
   - 「例えば、ある製造業の企業が、新たな技術を持つスタートアップ企業の買収（M&A）を検討しているとします」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
   - 「例えば、金融業界のセキュリティ対策の専門家に話を聞くことで、自社のECサイトの不正利用対策に応用できる新たな知見が得られるかもしれません」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
-  - 「この最初のステップが曖昧なまま進むと、インタビュー全体が散漫になり、時間とコストをかけたにもかかわらず、何の成果も得られないという最悪の結果を招きかねません」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
-  - 「例えば、「BtoB SaaSの価格戦略について知りたい」という目的であれば、自社のプロダクトマネージャーではなく、複数のSaaS企業で価格設定の意思決定に関わった経験のある事業責任者や、SaaS業界専門のコンサルタントが最適な対象者となります」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
 
 ## 統計の改定の分析（速報と確報の差の平均・平均絶対改定・改定の偏りの検定・版の付いた時系列データベース・OECD 改定分析・4-128）（revision analysis mean revision mean absolute revision bias test real-time vintage database OECD）
 - 文脈：突き合わせ・推定

@@ -1,0 +1,1664 @@
+{
+ "name": "Mind Robotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-11T05:14:28.730633+00:00",
+ "official_url": "https://www.mindrobotics.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "05-Nov-2025 $115M $115M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/1158747-31",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "8,750,000 $0.000100  $27.41 $27.41 1x $27.41 47.41%",
+    "url": "https://pitchbook.com/profiles/company/1158747-31",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "where the problems are hardest and the standards are least forgiving: the factory floor. Mind is collecting video data at industrial scale, capturing live, high-variability work as it happens on the line, starting with automotive manufacturing.",
+    "url": "https://www.mindrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our foundation models learn spatial reasoning, object dynamics, and tool manipulation across real production hours, building a scalable intelligence layer that generalizes to new tasks and environments. The hardware we design works alongside the people and systems already in place.",
+    "url": "https://www.mindrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "as our first manufacturing partner, we're building a rich dataset inside a live production facility and training on active vehicle lines. Our data pipeline is centered on learning from skilled operators as they perform highly dexterous tasks, distilling the actions, tools, context, and decisions that make each cycle successful.",
+    "url": "https://www.mindrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Locating, grasping, and placing objects that vary in angle, occlusion, and orientation, with high precision.",
+    "url": "https://www.mindrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Making a real-time call on visually similar items and routing each one correctly, under line speed pressure.",
+    "url": "https://www.mindrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "the intricate, often grueling work the world actually runs on, not the rigid, perfectly predictable motions that classical automation has already solved. By focusing on skills that require more reasoning, variability, and dexterity, Mind robots can finally help with tasks that have always depended on human hands.",
+    "url": "https://www.mindrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "At Mind, we believe that being hands on with hardware can solve the hardest problems in AI.",
+    "url": "https://www.mindrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "世界で最も危険な仕事を担うヒューマノイドロボット「Roger」を開発する\"Minerva Humanoids\"がPre-Seedで約$10Mを調達",
+    "url": "https://www.atpartners.co.jp/news/2026-05-14-mind-robotics-a-spin-off-from-rivian-to-build-an-industrial-robotics-platform-raises-400m-in-series-b",
+    "pass": 3
+   },
+   {
+    "quote": "Think Ahead The CFO Program",
+    "url": "https://toyokeizai.net/articles/-/949292?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics（Business Wire配信） – Mind Robotics Appoints Doug Field as President",
+    "url": "https://tomorrowaccess.com/news/23780",
+    "pass": 3
+   },
+   {
+    "quote": "TechCrunch – Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
+    "url": "https://tomorrowaccess.com/news/23780",
+    "pass": 3
+   },
+   {
+    "quote": "electrive – Rivian spin-off Also presents e-bike and e-quads for US and Europe",
+    "url": "https://tomorrowaccess.com/news/23780",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics uses data from industrial processes to train and improve its systems. Its approach is often described as “physical AI,” referring to the application of artificial intelligence to real-world robotic tasks.",
+    "url": "https://en.wikipedia.org/wiki/Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics’ systems are being developed and deployed within manufacturing facilities operated by Rivian, which serve as the company’s primary testing and initial deployment environment.",
+    "url": "https://en.wikipedia.org/wiki/Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Rivian’s factories also provide operational data, including inputs from production systems and factory sensors, which are used to train and refine the company’s machine learning models during deployment.",
+    "url": "https://en.wikipedia.org/wiki/Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics raised approximately $115 million in seed funding in 2025.",
+    "url": "https://en.wikipedia.org/wiki/Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "\"Eye-Brain-Hand\" Products for Robots",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Intelligent, standardized, and versatile products for diverse robots and applications",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mech-Eye 3D Laser Profilers",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mech-Viz Robot Programming Software",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Versatile deep learning software for rapid model training and demanding machine vision applications such as overlapping object recognition and complex defect detection",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Intuitive, AI-powered software for rapid, high-precision 2D/3D inspection and measurement",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The Mech-Mind 3D Vision Inline Measurement System integrates a suite of self-developed, high-performance hardware and software — including micron-level 3D cameras and AI-powered measurement software — into a production-ready solution that delivers high precision, high speed, and 100% inline inspection for automotive production.",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Boost Productivity with Mech-MSR: All-in-One 3D Inspection Powered by AI and No-Code Tools",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mech-Eye LNX Series : Ultra-High Precision 3D Laser Profilers",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mech-Eye PRO 3D Camera Series",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Embodied AI \"Eye-Brain-Hand\" for Robots: High-Precision Assembly of FPC Cables",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Embodied AI “Eye-Brain-Hand” for Robots: Adaptive Grasping & Precision Assembly of Power Cables",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Embodied AI “Eye-Brain-Hand” for Robots: Precise Handling & Assembly of Ultra-Thin Sheet Metal Parts",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "General-Purpose \"Eye + Brain\" for Robots: High-Precision Bin Picking of Sheet Metal Parts",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "General-Purpose \"Eye + Brain\" for Robots: Precise Machine-Tending of Axle Shafts (Deep Bin)",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "General-Purpose “Eye + Brain” for Robots: High-Precision Machine Tending of Reflective Gears",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "General-Purpose \"Eye + Brain\" for Robots: High-Precision Picking of Steel Billets",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "General-Purpose “Eye + Brain” for Robots: High-Precision Bin Picking of Track Links",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Vision-Guided High-Precision Battery Module Disassembly",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Vision-Guided High-Precision Rolling of Auto Door Seals",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mech-Mind at VIMF 2026 | Embodied AI “Eye-Brain-Hand” for Precision Manufacturing",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mech-Mind at AW 2026: Embodied Intelligence \"Eye-Brain-Hand\" with New Products and Applications",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Review of Mech-Mind's Impressive Exhibition at Automate Show 2025 in the U.S.",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Solving real-world problems with embodied AI: \"Eye-Brain-Hand\" for robots",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Vision-Guided Compressor Crankshaft Loading",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "50+ countries and regions (as of April 2025)",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mech-Mind focuses on the production of hardware and software products in the field of 3D vision.",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Its products are mainly used in the industries of",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "In addition, the company also offers other services, such as staff training, and deployment planning.",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "The products of Mech-Mind are primarily designed to put",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": ": CS1 maint: deprecated archival service (",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": ". April 1, 2025.",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "\"The Information's 50 Most Promising Startups of 2020\"",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "\"Japan's int'l robot exhibition highlights robust presence of Chinese firms\"",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "\"Xiong'an New Area becoming mecca for AI enterprises\"",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "\"Tech Insider: Mass-Produced Satellites, Industrial Robots, Huawei's Latest Cloud Venture\"",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "\"Mech-Mind's Shao Tianlan: A Pragmatic Idealist\"",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "from the original on April 28, 2025.",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Technology Review: New Approaches to Climate Change",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Shanghai Wanye Enterprises",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "CS1 maint: deprecated archival service",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "where the problems are hardest and the standards are least forgiving: the factory floor. Mind is collecting video data at industrial scale, capturing live, high-variability work as it happens on the line, starting with automotive manufacturing.",
+    "url": "https://www.mindrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "as our first manufacturing partner, we're building a rich dataset inside a live production facility and training on active vehicle lines. Our data pipeline is centered on learning from skilled operators as they perform highly dexterous tasks, distilling the actions, tools, context, and decisions that make each cycle successful.",
+    "url": "https://www.mindrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mind’s live dataset gives our models a deep understanding of real-world physics, variance, and material behavior. By mastering diverse automotive tasks first, we’re building capabilities that transfer across all of industrial manufacturing.",
+    "url": "https://www.mindrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our aim is to make manufacturing safer, more efficient, and more globally competitive by augmenting human capability.",
+    "url": "https://www.mindrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What you build on the bench today changes how factories run tomorrow.",
+    "url": "https://www.mindrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mind offers the agility of a startup with the resources, data, and built-in customer base of an industrial pioneer. Join us if you value ownership, humility, and want to move beyond digital intelligence to put code into motion.",
+    "url": "https://www.mindrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mind Roboticsは、Rivianの実工場を「live, high-volume manufacturing environment」と位置づけ、モデルの学習と導入を同じ現場で進める方針を示した",
+    "url": "https://ga-robotics.co.jp/news/research-development-1791934904234/",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics（Business Wire配信） – Mind Robotics Announces $400M in New Funding to Expand Industrial Robotics Deployment",
+    "url": "https://tomorrowaccess.com/news/23780",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics（Business Wire配信） – Mind Robotics Announces $500M Financing to Support Deployment of AI-Powered Robots at Industrial Scale",
+    "url": "https://tomorrowaccess.com/news/23780",
+    "pass": 3
+   },
+   {
+    "quote": "Rivian Automotive – Form 10-Q（2026年6月30日終了四半期）",
+    "url": "https://tomorrowaccess.com/news/23780",
+    "pass": 3
+   },
+   {
+    "quote": "AI-enabled industrial robotic systems",
+    "url": "https://en.wikipedia.org/wiki/Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "is an American robotics company that develops artificial intelligence–enabled robotic systems for industrial and manufacturing applications.",
+    "url": "https://en.wikipedia.org/wiki/Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": ". The company originated from internal research efforts focused on applying software and automation technologies to manufacturing.",
+    "url": "https://en.wikipedia.org/wiki/Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "The company develops robotic systems that integrate machine learning with industrial hardware. Its work focuses on automating tasks in manufacturing environments, including assembly and material handling.",
+    "url": "https://en.wikipedia.org/wiki/Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics uses data from industrial processes to train and improve its systems. Its approach is often described as “physical AI,” referring to the application of artificial intelligence to real-world robotic tasks.",
+    "url": "https://en.wikipedia.org/wiki/Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics’ systems are being developed and deployed within manufacturing facilities operated by Rivian, which serve as the company’s primary testing and initial deployment environment.",
+    "url": "https://en.wikipedia.org/wiki/Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Rivian’s factories also provide operational data, including inputs from production systems and factory sensors, which are used to train and refine the company’s machine learning models during deployment.",
+    "url": "https://en.wikipedia.org/wiki/Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "\"Rivian's Mind Robotics Has a New Recipe for Factory Robots After Finding Humanoid Robot Weaknesses\"",
+    "url": "https://en.wikipedia.org/wiki/Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "\"$500M for AI factory robots: Rivian CEO's Mind Robotics lands Accel, a16z — TFN\"",
+    "url": "https://en.wikipedia.org/wiki/Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "\"Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots\"",
+    "url": "https://en.wikipedia.org/wiki/Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial robotics companies",
+    "url": "https://en.wikipedia.org/wiki/Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mech-Eye Industrial 3D Cameras",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "4K+ resolution and scan rates up to 15 kHz deliver highly accurate 3D data of tiny features and defects at high speed for industrial measurement and inspection",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Intelligent robotic depalletizing and palletizing solutions are widely used in manufacturing, distribution, and fulfillment applications. Robots guided by the 3D vision system can automatically execute palletizing and depalletizing while maintaining excellent stability and high speed.",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The Mech-Mind 3D Vision Inline Measurement System integrates a suite of self-developed, high-performance hardware and software — including micron-level 3D cameras and AI-powered measurement software — into a production-ready solution that delivers high precision, high speed, and 100% inline inspection for automotive production.",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mech-Eye LSR Industrial 3D Camera",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mech-Eye DEEP-GL Industrial 3D Camera",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mech-Mind Case in Automotive Industry: AI+3D Vision-Guided Picking and Placing of Subframes",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mech-Mind at VIMF 2026 | Embodied AI “Eye-Brain-Hand” for Precision Manufacturing",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Review of Mech-Mind's Brilliant Showcase at Smart Factory + Automation World 2025 in South Korea",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AI + 3D Vision-Guided Picking of Automotive Components for Spot Welding",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ABB and Mech-Mind Accelerate Food & Beverage Manufacturing Automation",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mech-Mind at VIMF 2026 | Empowering Precision Manufacturing Worldwide with Robotic “Eye-Brain-Hand” Technologies",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by Worldwide Leading Companies",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial automation",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "of the company are industrial 3D cameras and AI-powered software for smart",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "\"Tech Insider: Mass-Produced Satellites, Industrial Robots, Huawei's Latest Cloud Venture\"",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "\"How Intelligent Industrial Robotics Will Shape Business in the Future\"",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial robotics companies",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Designing Industrial AI Agents",
+    "url": "https://www.automate.org/companies/mech-mind-robotics-technologies-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "Ask the Industrial AI Experts",
+    "url": "https://www.automate.org/companies/mech-mind-robotics-technologies-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "Introduction to Industrial Robotics",
+    "url": "https://www.automate.org/companies/mech-mind-robotics-technologies-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "Our general-purpose robot \"Eye-Brain-Hand\" products—including industrial 3D cameras (\"Eye\"), AI software suites (\"Brain\"), and dexterous hands (\"Hand\")—adapt to diverse robot forms, enabling precise perception, intelligent reasoning, and reliable action in complex real-world tasks.",
+    "url": "https://www.automate.org/companies/mech-mind-robotics-technologies-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "With 29,000+ units deployed across nearly 50 countries and regions, Mech-Mind's \"Eye + Brain\" solutions power industries such as logistics, F&B, and automotive — and are expanding into service and household sectors, bringing embodied intelligence to everyday life.",
+    "url": "https://www.automate.org/companies/mech-mind-robotics-technologies-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "Website Design & Development by Amplify Industrial Marketing + Guidance.",
+    "url": "https://www.automate.org/companies/mech-mind-robotics-technologies-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics raises $400M to scale AI-powered robots in manufacturing - The Robot Report",
+    "url": "https://www.therobotreport.com/mind-robotics-raises-400m-scale-ai-powered-robots-in-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Automated Warehouse Research Reports",
+    "url": "https://www.therobotreport.com/mind-robotics-raises-400m-scale-ai-powered-robots-in-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics raises $400M to scale AI-powered robots in manufacturing",
+    "url": "https://www.therobotreport.com/mind-robotics-raises-400m-scale-ai-powered-robots-in-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics Inc. yesterday said it has raised $400 million, bringing its total investment to more than $1 billion. The company said it plans to use the funding to expand deployment of its AI-powered robots in manufacturing environments.",
+    "url": "https://www.therobotreport.com/mind-robotics-raises-400m-scale-ai-powered-robots-in-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "said it is building a “full-stack platform of foundation models, purpose-built robotics, and deployment infrastructure to automate industrial and manufacturing tasks at scale.”",
+    "url": "https://www.therobotreport.com/mind-robotics-raises-400m-scale-ai-powered-robots-in-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "manufacturing. The startup added that it is combining AI, robust hardware, and infrastructure to automate dexterous, reasoning-intensive",
+    "url": "https://www.therobotreport.com/mind-robotics-raises-400m-scale-ai-powered-robots-in-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Rivian is a key partner and shareholder of Mind Robotics, providing a live, high-volume manufacturing environment for model training and deployment. This provides production data to feed Mind Robotics’ “data flywheel” for rapid iteration.",
+    "url": "https://www.therobotreport.com/mind-robotics-raises-400m-scale-ai-powered-robots-in-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "“We are not building single-task machines,” said the company on its website, which does not yet have any images of robots. “By leveraging modern progress in physical AI, we are developing a platform that generalizes across core tasks and scales across manufacturing domains.”",
+    "url": "https://www.therobotreport.com/mind-robotics-raises-400m-scale-ai-powered-robots-in-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "“Robotics is the ultimate frontier,” stated Ilya Fushman, a partner at Kleiner Perkins. “It is poised to become one of the biggest markets, and advances in models and hardware are coming together to make this possible. Mind Robotics has unique access to all the ingredients required to make general-purpose robotics work in real-world manufacturing, and we’re thrilled to lead this round.”",
+    "url": "https://www.therobotreport.com/mind-robotics-raises-400m-scale-ai-powered-robots-in-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics - Rivian's New Spin-Off Company For Industrial AI and Robotics | Rivian Forums - R1 R2 R3 R4 News, Specs, Models, RIVN Stock -- Rivianforums.com",
+    "url": "https://www.rivianforums.com/forum/threads/mind-robotics-rivians-new-spin-off-company-for-industrial-ai-and-robotics.52379/",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics - Rivian's New Spin-Off Company For Industrial AI and Robotics",
+    "url": "https://www.rivianforums.com/forum/threads/mind-robotics-rivians-new-spin-off-company-for-industrial-ai-and-robotics.52379/",
+    "pass": 3
+   },
+   {
+    "quote": "Rivian has created its second spinoff company this year: an industrial AI and robotics venture called Mind Robotics.",
+    "url": "https://www.rivianforums.com/forum/threads/mind-robotics-rivians-new-spin-off-company-for-industrial-ai-and-robotics.52379/",
+    "pass": 3
+   },
+   {
+    "quote": "The new effort will be focused around using “industrial AI to reshape how physical world businesses operate and leverage Rivian operations data as the foundation for a robotics data flywheel,” according to the company’s third-quarter shareholder letter published Tuesday.",
+    "url": "https://www.rivianforums.com/forum/threads/mind-robotics-rivians-new-spin-off-company-for-industrial-ai-and-robotics.52379/",
+    "pass": 3
+   },
+   {
+    "quote": "Robotics and industrial AI are hot areas for investment right now. There is a slew of humanoid robotics companies raising money and trying to ship products, including Tesla. General Motors is working on its own robotics and AI division, too.",
+    "url": "https://www.rivianforums.com/forum/threads/mind-robotics-rivians-new-spin-off-company-for-industrial-ai-and-robotics.52379/",
+    "pass": 3
+   },
+   {
+    "quote": "Pivoting from automotive to AI...",
+    "url": "https://www.rivianforums.com/forum/threads/mind-robotics-rivians-new-spin-off-company-for-industrial-ai-and-robotics.52379/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "新興EVメーカー･リビアンからスピンオフのロボットスタートアップに熱視線､日本企業のヒントになるテスラと真逆の戦略 | ビジネス | 東洋経済オンライン",
+    "url": "https://toyokeizai.net/articles/-/949292?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "新興EVメーカー･リビアンからスピンオフのロボットスタートアップに熱視線､日本企業のヒントになるテスラと真逆の戦略",
+    "url": "https://toyokeizai.net/articles/-/949292?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "【独自】講談社が出資を決定…｢日本のサッカーを草の根から変革する｣福岡発異色ベンチャー企業の構想力",
+    "url": "https://toyokeizai.net/articles/-/949292?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "〈座談会･後編〉ものづくり太郎たちが斬る｢フィジカルAI最前線｣━━米中メーカーの攻勢で迫る\"日本の賞味期限\"､ソフトバンクGのすごみ",
+    "url": "https://toyokeizai.net/articles/-/949292?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "〈インタビュー〉安川電機｢人型ロボット｣に本格参入､目指す勝ち筋…買収された東京ロボティクス社長｢AIロボット用モーターから共同開発する｣",
+    "url": "https://toyokeizai.net/articles/-/949292?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "創業半年で30億円調達､｢2足歩行ロボット｣を日本で量産へ､Turing共同創業者が挑む｢アトム｣の野望",
+    "url": "https://toyokeizai.net/articles/-/949292?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "2012年東京大学薬学部卒業後、渡米",
+    "url": "https://toyokeizai.net/articles/-/949292?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "未婚の中年男性が女性より187万人も多い日本…それでも｢結婚できる男｣が何度も…",
+    "url": "https://toyokeizai.net/articles/-/949292?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "損害保険代理店の契約解除問題が大炎上､金融庁と国交省が連名で損保各社に異例の｢…",
+    "url": "https://toyokeizai.net/articles/-/949292?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "ブラックサンダーはなぜ、日本で一番売れているチョコレートなのか",
+    "url": "https://toyokeizai.net/articles/-/949292?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業が見るべきなのは、技術の派手さより、現場での運用設計をどこまで詰めているかです",
+    "url": "https://ga-robotics.co.jp/news/research-development-1791934904234/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、日本の工場では通路幅、段差、安全柵、既存のPLCやMESとの接続が壁になりやすいです",
+    "url": "https://ga-robotics.co.jp/news/research-development-1791934904234/",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本での展開計画や販売時期も示されていない",
+    "url": "https://ga-robotics.co.jp/news/research-development-1791934904234/",
+    "pass": 3
+   },
+   {
+    "quote": "工場内で学習しながら広げるロボット構想は、日本の現場でもPoC設計の考え方に直結します",
+    "url": "https://ga-robotics.co.jp/news/research-development-1791934904234/",
+    "pass": 3
+   },
+   {
+    "quote": "Mech-Mind Japan Open Day | 10 Years of Mech-Mind, A New Chapter in Embodied AI",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan,",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "\"Mech-Mind Robotics Steps up Expansion in Japan\"",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "\"Japan's int'l robot exhibition highlights robust presence of Chinese firms\"",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics Valued at $11 Billion: The Home AI Robot Market Takes Off, Impacting Japan's Nursing, Housework, and Manufacturing Sectors｜しおどめ",
+    "url": "https://note.com/shiodome_098/n/n3c5cbdfa55fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics Valued at $11 Billion: The Home AI Robot Market Takes Off, Impacting Japan's Nursing, Housework, and Manufacturing Sectors",
+    "url": "https://note.com/shiodome_098/n/n3c5cbdfa55fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "# Mind Robotics Valued at $11 Billion: The Home AI Robot Market Takes Off, Impacting Japan's Nursing, Housework, and Manufacturing Sectors",
+    "url": "https://note.com/shiodome_098/n/n3c5cbdfa55fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is no coincidence. 2026, dubbed the \"First Year of Physical AI,\" marks a turning point where AI expands its domain from virtual tasks (text and code generation) to physical world tasks (cleaning, nursing, and cargo transport). For Japan, this wave is both a threat and an opportunity.",
+    "url": "https://note.com/shiodome_098/n/n3c5cbdfa55fc?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Mind Robotics が元Ford EV責任者を起用、工場学習型ロボット ... — Mind Robotics が元Ford EV責任者を起用、工場学習型ロボット ... GA Robotics https://ga-robotics.co.jp > news > research-development-1...",
+    "url": "https://ga-robotics.co.jp/news/research-development-1791934904234/",
+    "pass": 3
+   },
+   {
+    "quote": "Rivian発の Mind Robotics 、元フォードEV責任者を社長に起用 — Rivian発の Mind Robotics 、元フォードEV責任者を社長に起用 Tomorrow Access https://tomorrowaccess.com > news",
+    "url": "https://tomorrowaccess.com/news/23780",
+    "pass": 3
+   },
+   {
+    "quote": "【米Rivian支援】AI ロボティクス 新興企業 Mind Robotics — 【米Rivian支援】AI ロボティクス 新興企業 Mind Robotics BigGo ファイナンス https://finance.biggo.jp > news",
+    "url": "https://finance.biggo.jp/news/lpfu3ZwBQ45Y7dX634rb",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics - LinkedIn — Mind Robotics - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/mindrobotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics : Home — Mind Robotics : Home Mind Robotics https://www.mindrobotics.com",
+    "url": "https://www.mindrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics - Wikipedia — Mind Robotics - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Min...",
+    "url": "https://en.wikipedia.org/wiki/Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mech- Mind Robotics : Embodied AI & 3D Vision for Robots and ... — Mech- Mind Robotics : Embodied AI & 3D Vision for Robots and ... Mech-Mind https://www.mech-mind.com",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mech- Mind Robotics - LinkedIn — Mech- Mind Robotics - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/mechmindrobotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mech- Mind Robotics - Wikipedia — Mech- Mind Robotics - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Mec...",
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mech- Mind Robotics -3D Vision and Automation Solutions — Mech- Mind Robotics -3D Vision and Automation Solutions A3 Association for Advancing Automation https://www.automate.org > companies",
+    "url": "https://www.automate.org/companies/mech-mind-robotics-technologies-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics raises $400M to scale AI-powered robots in ... — Mind Robotics raises $400M to scale AI-powered robots in ... The Robot Report https://www.therobotreport.com > mi...",
+    "url": "https://www.therobotreport.com/mind-robotics-raises-400m-scale-ai-powered-robots-in-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics : AI-Native Robotics for Manufacturing — Mind Robotics : AI-Native Robotics for Manufacturing Substack https://garuda.substack.com > mindro...",
+    "url": "https://garuda.substack.com/p/mindrobotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics — Unicorn company profile | Dealroom — Mind Robotics — Unicorn company profile | Dealroom Dealroom https://dealroom.co > mind-robotics",
+    "url": "https://dealroom.co/companies/mind-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics builds AI-native manufacturing platform with ... — Mind Robotics builds AI-native manufacturing platform with ... LinkedIn https://www.linkedin.com > posts > kleinerperkins_mind-r...",
+    "url": "https://www.linkedin.com/posts/kleinerperkins_mind-robotics-starts-with-what-industrial-activity-7460365075447562240-wysG",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics raises Series A to develop AI-driven industrial ... — Mind Robotics raises Series A to develop AI-driven industrial ... The Robot Report https://www.therobotreport.com > mi...",
+    "url": "https://www.therobotreport.com/mind-robotics-raises-series-a-develop-ai-driven-industrial-automation/",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics Announces $500M Financing to Support ... — Mind Robotics Announces $500M Financing to Support ... Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/RIVNstock/comments/1rqwv1c/mind_robotics_announces_500m_financing_to_support/",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics Revenue , Valuation, Funding & Investors — Mind Robotics Revenue , Valuation, Funding & Investors Multiples.vc https://multiples.vc > Companies",
+    "url": "https://multiples.vc/private-comps/mind-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics 2026 Company Profile - PitchBook — Mind Robotics 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/1158747-31",
+    "pass": 3
+   },
+   {
+    "quote": "Rivian spinout Mind Robotics valued at $3.4 billion in new ... — Rivian spinout Mind Robotics valued at $3.4 billion in new ... Reuters https://www.reuters.com > transactional",
+    "url": "https://www.reuters.com/legal/transactional/rivian-spinout-mind-robotics-valued-34-billion-new-funding-round-2026-05-13/",
+    "pass": 3
+   },
+   {
+    "quote": "Venture Capital on Instagram: \" Mind Robotics , the industrial ... — Venture Capital on Instagram: \" Mind Robotics , the industrial ... Instagram https://www.instagram.com > ...",
+    "url": "https://www.instagram.com/p/DYXhh4dEeGq/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Explore our array of point cloud collections",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mergers & Acquisitions",
+    "url": "https://www.therobotreport.com/mind-robotics-raises-400m-scale-ai-powered-robots-in-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "It’s unclear if Rivian employees are moving over to Mind Robotics, like was the case with Also. A Rivian spokesperson declined to say. But the company hinted at the possibility in Tuesday’s letter.",
+    "url": "https://www.rivianforums.com/forum/threads/mind-robotics-rivians-new-spin-off-company-for-industrial-ai-and-robotics.52379/",
+    "pass": 3
+   },
+   {
+    "quote": "I have mixed thoughts about the bike company, but Rivian has done extensive work in manufacturing robotics and AI as part of their vehicle production vertical integration philosophy. It makes sense to leverage that IP as a separate business. Rivian has numerous patents for manufacturing technology. A few are below.",
+    "url": "https://www.rivianforums.com/forum/threads/mind-robotics-rivians-new-spin-off-company-for-industrial-ai-and-robotics.52379/",
+    "pass": 3
+   },
+   {
+    "quote": "R1: Issues, Repairs, Service, Warranty, TSB, Recalls",
+    "url": "https://www.rivianforums.com/forum/threads/mind-robotics-rivians-new-spin-off-company-for-industrial-ai-and-robotics.52379/",
+    "pass": 3
+   },
+   {
+    "quote": "Mergers & Acquisitions",
+    "url": "https://www.therobotreport.com/mind-robotics-raises-series-a-develop-ai-driven-industrial-automation/",
+    "pass": 3
+   },
+   {
+    "quote": "Industry experts discuss China blocking SoftBank acquisition of ABB Robotics",
+    "url": "https://www.therobotreport.com/mind-robotics-raises-series-a-develop-ai-driven-industrial-automation/",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics Revenue, Valuation, Funding & Investors | Multiples",
+    "url": "https://multiples.vc/private-comps/mind-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue, Valuation, Funding & Investors",
+    "url": "https://multiples.vc/private-comps/mind-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics is valued at $3.4B as of May 2026. Mind Robotics revenue was $41M, as disclosed with its March 2026 round.",
+    "url": "https://multiples.vc/private-comps/mind-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics revenue",
+    "url": "https://multiples.vc/private-comps/mind-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics Revenue",
+    "url": "https://multiples.vc/private-comps/mind-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics' latest recorded revenue is $41M, as of its Series A in March 2026. At a $2B valuation, that implies a 48.9x revenue multiple.",
+    "url": "https://multiples.vc/private-comps/mind-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics revenue by funding round",
+    "url": "https://multiples.vc/private-comps/mind-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics revenue and valuation multiple by funding round",
+    "url": "https://multiples.vc/private-comps/mind-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "* Revenue (or ARR) figures are the values recorded alongside each funding round. Typically run-rate revenue at the time of the deal, or a reported LTM (last 12 months) revenue.",
+    "url": "https://multiples.vc/private-comps/mind-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to see data on 350K+ funding rounds and disclosed revenue and EBITDA valuation multiples, from seed, through growth stage, to pre-IPO.",
+    "url": "https://multiples.vc/private-comps/mind-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics competitors include listed companies like UBtech Robotics and Arcs Co, and private ones like Sharpa, Apptronik, The Bot Company and Sineva.",
+    "url": "https://multiples.vc/private-comps/mind-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Is Mind Robotics publicly listed?",
+    "url": "https://multiples.vc/private-comps/mind-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "What is Mind Robotics' revenue?",
+    "url": "https://multiples.vc/private-comps/mind-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics' latest recorded revenue is $41M (March 2026).",
+    "url": "https://multiples.vc/private-comps/mind-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "What is Mind Robotics' revenue multiple?",
+    "url": "https://multiples.vc/private-comps/mind-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics' latest valuation implies a 48.9x revenue multiple ($2B valuation on $41M of revenue).",
+    "url": "https://multiples.vc/private-comps/mind-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/1158747-31",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics has 100 total employees.",
+    "url": "https://pitchbook.com/profiles/company/1158747-31",
+    "pass": 3
+   },
+   {
+    "quote": "What is Mind Robotics’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/1158747-31",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Mind Robotics is",
+    "url": "https://pitchbook.com/profiles/company/1158747-31",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Business：info@mech-mind.net",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Please fill out the form or send us an email at info@mech-mind.net. We guarantee a response within 24 hours.",
+    "url": "https://www.mech-mind.com/",
+    "pass": 3
+   },
+   {
+    "quote": "🤝 Become a Sponsor (Contact Us)",
+    "url": "https://www.rivianforums.com/forum/threads/mind-robotics-rivians-new-spin-off-company-for-industrial-ai-and-robotics.52379/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/1158747-31",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Mind Robotics : An AI robot that learns from real data at Rivian ... Mind Robotics : An AI robot that learns from real data at Rivian ... note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/gen_ai/n/n52011961fbba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics Valued at $11 Billion: The Home AI Robot ... Mind Robotics Valued at $11 Billion: The Home AI Robot ... note https://note.com > 科学・テクノロジー > ロボット技術",
+    "url": "https://note.com/shiodome_098/n/n3c5cbdfa55fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics : Rivian工場の実データで学習し - AI - note Mind Robotics : Rivian工場の実データで学習し - AI - note note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/gen_ai/n/n52011961fbba",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Mind Robotics: An AI robot that learns from real data at Rivian factories to automate dexterous manual tasks｜生成AI事例集",
+    "url": "https://note.com/gen_ai/n/n52011961fbba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics: An AI robot that learns from real data at Rivian factories to automate dexterous manual tasks",
+    "url": "https://note.com/gen_ai/n/n52011961fbba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics is an AI-native industrial robotics platform developed primarily for enterprise manufacturing, including the automotive sector, designed to automate dexterous, judgment-based factory tasks that traditional robots have struggled to perform.",
+    "url": "https://note.com/gen_ai/n/n52011961fbba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Starting from an internal project at electric vehicle manufacturer Rivian (internally known as \"Project Synapse\"), the company has expanded its business scope to develop an integrated suite of foundation models, specialized hardware, and deployment infrastructure for factories, with a vision ranging from implementation on Rivian's production lines to expansion into other fields such as home applia",
+    "url": "https://note.com/gen_ai/n/n52011961fbba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The greatest value of this platform lies in its strategic evolution from the stage of programming individual robots separately to continuously training models with actual production data, thereby supporting the coverage of dexterous tasks across the entire factory floor.",
+    "url": "https://note.com/gen_ai/n/n52011961fbba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As labor shortages and reliance on manual labor become increasingly severe in manufacturing sites worldwide, Mind Robotics goes beyond being a mere automation device, with its core value proposition being the introduction of \"physical intelligence\" capable of adapting to real-world fluctuations into the factory.",
+    "url": "https://note.com/gen_ai/n/n52011961fbba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the \"Generative AI Case Study Collection,\" we provide detailed explanations of successful generative AI startups in the United States under the \"Winning Horse\" series. We publish articles at a pace of two per week. Each week, one article is free, and the other is a paid article. (This article is a paid article.)",
+    "url": "https://note.com/gen_ai/n/n52011961fbba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since approximately four paid articles are published each month, a membership is more cost-effective than purchasing individual articles.",
+    "url": "https://note.com/gen_ai/n/n52011961fbba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics Valued at $11 Billion: The Home AI Robot Market Takes Off, Impacting Japan's Nursing, Housework, and Manufacturing Sectors｜しおどめ",
+    "url": "https://note.com/shiodome_098/n/n3c5cbdfa55fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics Valued at $11 Billion: The Home AI Robot Market Takes Off, Impacting Japan's Nursing, Housework, and Manufacturing Sectors",
+    "url": "https://note.com/shiodome_098/n/n3c5cbdfa55fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "# Mind Robotics Valued at $11 Billion: The Home AI Robot Market Takes Off, Impacting Japan's Nursing, Housework, and Manufacturing Sectors",
+    "url": "https://note.com/shiodome_098/n/n3c5cbdfa55fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On March 27, 2026, Mind Robotics, an AI robotics company founded by former DeepMind researchers, announced a $500M funding round, reaching a valuation of",
+    "url": "https://note.com/shiodome_098/n/n3c5cbdfa55fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "$11 billion (approximately 1.65 trillion yen)",
+    "url": "https://note.com/shiodome_098/n/n3c5cbdfa55fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". In the same week, Rhoda AI (specializing in home robots) raised $450M, Sunday (logistics AI) raised $165M, and Oxa (autonomous driving) raised $103M. In just one week,",
+    "url": "https://note.com/shiodome_098/n/n3c5cbdfa55fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "over 1.2 trillion yen in funding was concentrated in AI robotics",
+    "url": "https://note.com/shiodome_098/n/n3c5cbdfa55fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is no coincidence. 2026, dubbed the \"First Year of Physical AI,\" marks a turning point where AI expands its domain from virtual tasks (text and code generation) to physical world tasks (cleaning, nursing, and cargo transport). For Japan, this wave is both a threat and an opportunity.",
+    "url": "https://note.com/shiodome_098/n/n3c5cbdfa55fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics: Rivian工場の実データで学習し、器用な手作業を自動化するAIロボット｜生成AI事例集",
+    "url": "https://note.com/gen_ai/n/n52011961fbba",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Robotics: Rivian工場の実データで学習し、器用な手作業を自動化するAIロボット",
+    "url": "https://note.com/gen_ai/n/n52011961fbba",
+    "pass": 3
+   },
+   {
+    "quote": "Mind Roboticsは主に自動車をはじめとするエンタープライズ製造業向けに開発された、従来のロボットが苦手としてきた器用で判断を要する工場作業を自動化するための、AIネイティブな産業用ロボティクスプラットフォームです。",
+    "url": "https://note.com/gen_ai/n/n52011961fbba",
+    "pass": 3
+   },
+   {
+    "quote": "電気自動車メーカーRivianの社内プロジェクト（社内名称「Project Synapse」）を出発点に、基盤モデル・専用ハードウェア・工場への展開インフラを一体で開発する構成へと事業の幅を広げ、Rivianの生産ラインでの実装から、家電やソフトグッズといった他分野への展開までを視野に入れています。",
+    "url": "https://note.com/gen_ai/n/n52011961fbba",
+    "pass": 3
+   },
+   {
+    "quote": "このプラットフォームの最大の価値は、個々のロボットを個別にプログラムする段階から、実際の生産データでモデルを継続的に学習させ、工場全体の器用な作業を面でカバーする支援へと戦略的に進化している点にあります。",
+    "url": "https://note.com/gen_ai/n/n52011961fbba",
+    "pass": 3
+   },
+   {
+    "quote": "世界の製造現場で労働力不足と手作業への依存が深刻化する中、Mind Roboticsは単なる自動化装置という枠を超え、現実の変動に適応できる「物理的な知能」を工場に持ち込むことを中核的な提供価値としています。",
+    "url": "https://note.com/gen_ai/n/n52011961fbba",
+    "pass": 3
+   },
+   {
+    "quote": "「生成AI事例集」では、「勝ち馬」シリーズと称して、アメリカの成功している生成AIスタートアップを詳細に解説しています。週2記事のペースで記事を公開しています。毎週、1記事は無料記事、もう1記事は有料記事です。（本記事は有料記事です）",
+    "url": "https://note.com/gen_ai/n/n52011961fbba",
+    "pass": 3
+   },
+   {
+    "quote": "毎月4本程度の有料記事が公開されるため、個別記事をご購入いただくよりも、メンバーシップの方がお得です。",
+    "url": "https://note.com/gen_ai/n/n52011961fbba",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Mind Robotics (@Mind_Robotics) / X Mind Robotics (@Mind_Robotics) / X X https://x.com > Mind_Robotics",
+    "url": "https://x.com/Mind_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Sawyer Merritt on X: \"NEWS: Mind Robotics , a startup founded ... Sawyer Merritt on X: \"NEWS: Mind Robotics , a startup founded ... X https://x.com > @SawyerMerritt",
+    "url": "https://x.com/SawyerMerritt/status/2031767935149015549",
+    "pass": 3
+   },
+   {
+    "quote": "Mind with Heart Robotics (@MWHRobotics) / X Mind with Heart Robotics (@MWHRobotics) / X X https://x.com > MWHRobotics",
+    "url": "https://x.com/MWHRobotics",
+    "pass": 3
+   },
+   {
+    "quote": "Sawyer Merritt on X : \"NEWS: Mind Robotics , a startup founded ... Sawyer Merritt on X : \"NEWS: Mind Robotics , a startup founded ... X https://x.com > @SawyerMerritt",
+    "url": "https://x.com/SawyerMerritt/status/2031767935149015549",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Mind Robotics - LinkedIn Mind Robotics - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/mindrobotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mech- Mind Robotics - LinkedIn Mech- Mind Robotics - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/mechmindrobotics",
+    "pass": 3
+   },
+   {
+    "quote": "Paul McKenzie - Building @ Mind Robotics | LinkedIn Paul McKenzie - Building @ Mind Robotics | LinkedIn LinkedIn https://www.linkedin.com > paullllllllll",
+    "url": "https://www.linkedin.com/in/paullllllllll",
+    "pass": 3
+   },
+   {
+    "quote": "Sophia Ho-Sing-Loy - Building @ Mind Robotics | LinkedIn Sophia Ho-Sing-Loy - Building @ Mind Robotics | LinkedIn LinkedIn https://www.linkedin.com > sophia-h...",
+    "url": "https://www.linkedin.com/in/sophia-ho-sing-loy",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Mech- Mind Robotics | Munich - Facebook Mech- Mind Robotics | Munich - Facebook Facebook https://www.facebook.com > ... > Robotics Company",
+    "url": "https://www.facebook.com/mechmindrobotics/",
+    "pass": 3
+   },
+   {
+    "quote": "What's the point of Rivian and Mind Robotics anyway? CEO ... What's the point of Rivian and Mind Robotics anyway? CEO ... Facebook https://www.facebook.com > ... > CNET > Videos",
+    "url": "https://www.facebook.com/cnet/videos/whats-the-point-of-rivian-and-mind-robotics-anyway-ceo-rj-scaringe-tells-all-to/834813236379776/",
+    "pass": 3
+   },
+   {
+    "quote": "What's the point of Rivian and Mind Robotics anyway? CEO ... What's the point of Rivian and Mind Robotics anyway? CEO ... Facebook https://www.facebook.com > ... > CNET > Videos",
+    "url": "https://www.facebook.com/cnet/videos/whats-the-point-of-rivian-and-mind-robotics-anyway-ceo-rj-scaringe-tells-all-to-/834813236379776/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mindrobotics.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.mindrobotics.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F221981%2F1786993338-20230817_ian-ward_enduro_rotor_line_7656-4.png&w=1600&q=90",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mindrobotics.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F221981%2F1786993338-20240531_ian-ward_normal-production_sms3105-4.png&w=1600&q=90",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mindrobotics.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F221981%2F1786993338-20230823_ian-ward_inverter_line_8684-1.png&w=1600&q=90",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.atpartners.co.jp/news/2026-05-14-mind-robotics-a-spin-off-from-rivian-to-build-an-industrial-robotics-platform-raises-400m-in-series-b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toyokeizai.net/articles/-/949292?display=b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ga-robotics.co.jp/news/research-development-1791934904234/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tomorrowaccess.com/news/23780",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/mindrobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Mind_Robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpartners.co.jp/news/2026-05-14-mind-robotics-a-spin-off-from-rivian-to-build-an-industrial-robotics-platform-raises-400m-in-series-b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mech-mind.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/mechmindrobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automate.org/companies/mech-mind-robotics-technologies-ltd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.therobotreport.com/mind-robotics-raises-400m-scale-ai-powered-robots-in-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://garuda.substack.com/p/mindrobotics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rivianforums.com/forum/threads/mind-robotics-rivians-new-spin-off-company-for-industrial-ai-and-robotics.52379/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smprobotics.com/products_autonomous_ugv/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/kleinerperkins_mind-robotics-starts-with-what-industrial-activity-7460365075447562240-wysG",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.therobotreport.com/mind-robotics-raises-series-a-develop-ai-driven-industrial-automation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bluestarinc.com/en-us/manufacturers/bear-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.therobotreport.com/mind-robotics-raises-series-a-develop-ai-driven-industrial-automation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://multiples.vc/private-comps/mind-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/1158747-31",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reuters.com/legal/transactional/rivian-spinout-mind-robotics-valued-34-billion-new-funding-round-2026-05-13/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/gen_ai/n/n52011961fbba?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shiodome_098/n/n3c5cbdfa55fc?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Mind_Robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SawyerMerritt/status/2031767935149015549",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MWHRobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mindrobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mechmindrobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/paullllllllll",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/sophia-ho-sing-loy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mechmindrobotics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cnet/videos/whats-the-point-of-rivian-and-mind-robotics-anyway-ceo-rj-scaringe-tells-all-to/834813236379776/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cnet/videos/whats-the-point-of-rivian-and-mind-robotics-anyway-ceo-rj-scaringe-tells-all-to-/834813236379776/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/gen_ai/n/n52011961fbba",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SawyerMerritt/status/2031767935149015549",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mindrobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mind Robotics 日本 導入",
+   "results": [
+    "https://www.atpartners.co.jp/news/2026-05-14-mind-robotics-a-spin-off-from-rivian-to-build-an-industrial-robotics-platform-raises-400m-in-series-b",
+    "https://toyokeizai.net/articles/-/949292?display=b",
+    "https://ga-robotics.co.jp/news/research-development-1791934904234/",
+    "https://tomorrowaccess.com/news/23780",
+    "https://finance.biggo.jp/news/lpfu3ZwBQ45Y7dX634rb",
+    "https://www.napire.co.jp/insights/evolving-robotics-and-ai-strategic-next-st-mv8m4ajb0.html",
+    "https://36kr.jp/60138/",
+    "https://www.atx-research.co.jp/contents/Mind-Robotics-Announces-24500M-Financing-to-Support-Deployment-of-AI-Powered-Robots-at-Industrial-Scale",
+    "https://note.com/gen_ai/n/n52011961fbba",
+    "https://roboin-fa.com/2026/04/01/ev大手rivianのスピンアウト「mind-robotics」が5億ドル調達/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Mind Robotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.linkedin.com/company/mindrobotics",
+    "https://www.mindrobotics.com/",
+    "https://en.wikipedia.org/wiki/Mind_Robotics",
+    "https://www.atpartners.co.jp/news/2026-05-14-mind-robotics-a-spin-off-from-rivian-to-build-an-industrial-robotics-platform-raises-400m-in-series-b",
+    "https://mech-mind.co.jp/partners/",
+    "https://finance.biggo.jp/news/lpfu3ZwBQ45Y7dX634rb",
+    "https://wing-robotics.com/news/00288/",
+    "https://xelarobotics.jp/distributors/",
+    "https://36kr.jp/60138/",
+    "https://www.mech-mind.com/investor-relations"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Mind Robotics Japan",
+   "results": [
+    "https://www.mech-mind.com/",
+    "https://www.linkedin.com/company/mechmindrobotics",
+    "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
+    "https://www.automate.org/companies/mech-mind-robotics-technologies-ltd",
+    "https://www.mindrobotics.com/",
+    "https://kr-asia.com/this-chinese-robotics-firm-is-making-factory-ai-modular-global-and-scalable",
+    "https://www.youtube.com/watch?v=x_tOmvb8hME",
+    "https://www.mech-mind.com/news/mech-mind-open-tokyo-office.html",
+    "https://eclipse.capital/companies/mind-robotics",
+    "https://en.wikipedia.org/wiki/Mind_Robotics"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Mind Robotics manufacturing customer case study",
+   "results": [
+    "https://www.therobotreport.com/mind-robotics-raises-400m-scale-ai-powered-robots-in-manufacturing/",
+    "https://www.mindrobotics.com/",
+    "https://garuda.substack.com/p/mindrobotics",
+    "https://www.rivianforums.com/mind-robotics-rivians-new-spin-off-company-for-industrial-ai-and-robotics/",
+    "https://dealroom.co/companies/mind-robotics/",
+    "https://siliconvalleyinvestclub.com/ja/companies/mind-robotics/",
+    "https://www.linkedin.com/posts/robertsjeff_ai-robotics-rivian-activity-7393641354171568128-l-5K",
+    "https://note.com/gen_ai/n/n52011961fbba?hl=en",
+    "https://mobile-industrial-robots.com/cases",
+    "https://www.universal-robots.com/case-stories/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Mind Robotics white label OR reseller OR partner program",
+   "results": [
+    "https://smprobotics.com/products_autonomous_ugv/",
+    "https://www.linkedin.com/posts/kleinerperkins_mind-robotics-starts-with-what-industrial-activity-7460365075447562240-wysG",
+    "https://www.therobotreport.com/mind-robotics-raises-series-a-develop-ai-driven-industrial-automation/",
+    "https://www.bluestarinc.com/en-us/manufacturers/bear-robotics",
+    "https://www.reddit.com/r/RIVNstock/comments/1rqwv1c/mind_robotics_announces_500m_financing_to_support/",
+    "https://www.youtube.com/watch?v=fc9GB9Yz75Y&vl=ja",
+    "https://www.mindrobotics.com/",
+    "https://garuda.substack.com/p/mindrobotics",
+    "https://www.rivianforums.com/mind-robotics-rivians-new-spin-off-company-for-industrial-ai-and-robotics/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Mind Robotics founded funding employees revenue",
+   "results": [
+    "https://www.therobotreport.com/mind-robotics-raises-series-a-develop-ai-driven-industrial-automation/",
+    "https://multiples.vc/private-comps/mind-robotics",
+    "https://pitchbook.com/profiles/company/1158747-31",
+    "https://www.reuters.com/legal/transactional/rivian-spinout-mind-robotics-valued-34-billion-new-funding-round-2026-05-13/",
+    "https://www.instagram.com/p/DYXhh4dEeGq/",
+    "https://www.rivianforums.com/rivian-spinoff-mind-robotics-valued-at-3-4-billion-in-new-funding-round/",
+    "https://dealroom.co/companies/mind-robotics/",
+    "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+    "https://www.facebook.com/WSJ/posts/exclusive-mind-robotics-a-startup-founded-by-the-chief-executive-of-rivian-has-r/1300636221922972/",
+    "https://venturecapitaltracker.com/startup/mind-robotics"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Mind Robotics",
+   "results": [
+    "https://note.com/gen_ai/n/n52011961fbba?hl=en",
+    "https://note.com/gen_ai/n/n066de40542ae?hl=en",
+    "https://note.com/unityjapan/n/nb8ab92475651?hl=en",
+    "https://note.com/shiodome_098/n/n3c5cbdfa55fc?hl=en",
+    "https://note.com/yasuhitoo/n/nbe7307db960d?hl=en",
+    "https://note.com/recolon/n/nfb19a9223930?hl=en",
+    "https://note.com/startup_now0708/n/nffc32ce13f0b?hl=en",
+    "https://note.com/npaka/n/n0ef8f11dc356?hl=en",
+    "https://note.com/startuplog/n/n5ae145ff169a",
+    "https://note.com/yasuhitoo/n/n2c7494beea16"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Mind Robotics",
+   "results": [
+    "https://x.com/Mind_Robotics",
+    "https://x.com/SawyerMerritt/status/2031767935149015549",
+    "https://x.com/MWHRobotics",
+    "https://x.com/BessemerVP/status/2025996319660335141",
+    "https://x.com/Rivian_DD/status/2119978012753948694",
+    "https://x.com/theSamPadilla/status/2119986954960056502",
+    "https://x.com/itsolelehmann/status/2062155215172939984",
+    "https://x.com/a16z/status/2031755415214813372",
+    "https://x.com/EV_carba/status/2120202204753899970",
+    "https://x.com/MindRoboticsAI"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Mind Robotics",
+   "results": [
+    "https://www.linkedin.com/company/mindrobotics",
+    "https://www.linkedin.com/company/mechmindrobotics",
+    "https://www.linkedin.com/in/paullllllllll",
+    "https://www.linkedin.com/in/sophia-ho-sing-loy",
+    "https://www.linkedin.com/news/story/mind-robotics-raises-400m-as-it-scales-ai-factory-robots-8846210/",
+    "https://www.linkedin.com/in/uryzhilinsky",
+    "https://www.linkedin.com/posts/sarah-wang-59b96a7_very-few-founders-have-built-and-scaled-a-activity-7437626919094833152-W6dA",
+    "https://www.linkedin.com/company/mindrobotics/jobs",
+    "https://www.linkedin.com/posts/kleinerperkins_mind-robotics-starts-with-what-industrial-activity-7460365075447562240-wysG",
+    "https://www.linkedin.com/in/nstaparia"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Mind Robotics",
+   "results": [
+    "https://www.facebook.com/cheddar/posts/robotics-is-going-to-be-one-of-the-most-impactful-shifts-weve-seen-in-societyriv/1551950873634111/",
+    "https://www.facebook.com/mechmindrobotics/",
+    "https://www.facebook.com/cnet/videos/whats-the-point-of-rivian-and-mind-robotics-anyway-ceo-rj-scaringe-tells-all-to/834813236379776/",
+    "https://www.facebook.com/cheddar/videos/robotics-is-going-to-be-one-of-the-most-impactful-shifts-weve-seen-in-societyriv/3471776163031031/",
+    "https://www.facebook.com/bloombergbusiness/posts/meituan-backed-ai-robotics-firm-mech-mind-is-planning-an-ipo-in-hong-kong-to-rai/1214051530580938/",
+    "https://www.facebook.com/ABC11/posts/the-robot-named-codey-was-developed-by-mind-children-and-is-designed-as-a-social/1584144997080200/",
+    "https://www.facebook.com/groups/1188240098315030/posts/2345864565885905/",
+    "https://www.facebook.com/groups/concellation/posts/289351348779003/",
+    "https://www.facebook.com/UCDavisHealth/videos/meet-the-lovots-cocoa-cereal-jellybean-and-toffee-these-ai-powered-social-robots/1034647269008584/",
+    "https://www.facebook.com/mindnrobotics/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Mind Robotics note 社長",
+   "results": [
+    "https://siliconvalleyinvestclub.com/ja/companies/mind-robotics/",
+    "https://www.therobotreport.com/mind-robotics-raises-400m-scale-ai-powered-robots-in-manufacturing/",
+    "https://www.facebook.com/cnet/videos/whats-the-point-of-rivian-and-mind-robotics-anyway-ceo-rj-scaringe-tells-all-to-/834813236379776/",
+    "https://note.com/gen_ai/n/n52011961fbba",
+    "https://www.linkedin.com/in/paullllllllll",
+    "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple",
+    "https://riviantrackr.com/news/mind-robotics-hits-1b-total-funding-after-new-400m-round/",
+    "https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html",
+    "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1750134/full"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Mind Robotics X 投稿",
+   "results": [
+    "https://x.com/SawyerMerritt/status/2031767935149015549",
+    "https://www.youtube.com/watch?v=fc9GB9Yz75Y&vl=ja",
+    "https://www.mindrobotics.com/",
+    "https://www.linkedin.com/company/mindrobotics",
+    "https://www.linkedin.com/posts/kleinerperkins_mind-robotics-starts-with-what-industrial-activity-7460365075447562240-wysG",
+    "https://www.kleinerperkins.com/perspectives/mind-robotics-building-the-ai-native-robotics-platform-for-manufacturing/",
+    "https://www.therobotreport.com/mind-robotics-raises-400m-scale-ai-powered-robots-in-manufacturing/",
+    "https://www.accel.com/news/mind-robotics-bringing-ai-to-the-physical-world",
+    "https://www.pymnts.com/news/investment-tracker/2026/mind-robotics-raises-500-million-to-improve-industrial-robots/",
+    "https://x.com/Mind_Robotics"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像3件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像3件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像3件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像3件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像3件／外部37頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像3件／外部37頁・検索12回）"
+ }
+}

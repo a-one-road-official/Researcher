@@ -1,0 +1,786 @@
+{
+ "name": "Weaveos",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T05:45:17.805267+00:00",
+ "official_url": "https://weaveos.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Find what’s slowing you down, from prompt to production.",
+    "url": "https://weaveos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Weave brings AI metrics, DORA, SPACE, and developer feedback together to show where work gets stuck and where your team can improve delivery.",
+    "url": "https://weaveos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how AI usage relates to engineering output, code quality, and cost. Understand where it’s helping your team and where there’s room to improve.",
+    "url": "https://weaveos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Match every prompt to the right model.",
+    "url": "https://weaveos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Weave classifies each prompt and routes it to a model based on cost, speed, and quality. It learns from feedback across your team to improve routing over time.",
+    "url": "https://weaveos.com/",
+    "pass": 1
+   },
+   {
+    "quote": ": “deepseek-v4-pro”,",
+    "url": "https://weaveos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The installer detects your clients and points them at the router. One env var per provider, written automatically. Anthropic, OpenAI, and Google.",
+    "url": "https://weaveos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Each request is now routed to the model with the best quality-per-token. The client is unaware of the proxy.",
+    "url": "https://weaveos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Wooly looks at all of your data and suggests where and how to improve. You can call on Wooly in the app or through an MCP.",
+    "url": "https://weaveos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for teams that can’t afford compromise",
+    "url": "https://weaveos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Help your clients get more from AI and engineering. Build your practice around Weave Router and Engineering Intelligence.",
+    "url": "https://weaveos.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Looking for private equity?",
+    "url": "https://weaveos.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Build paid engagements around implementation, onboarding, and ongoing advisory. Bring Weave into the work your clients already trust you to do.",
+    "url": "https://weaveos.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Get product training, support on client conversations, and help with onboarding. Stay close to the team as the platform evolves.",
+    "url": "https://weaveos.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Start with the challenge in front of you. Partner around either product, or bring them together as your client’s needs grow.",
+    "url": "https://weaveos.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering Intelligence · illustrative product data",
+    "url": "https://weaveos.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Data integration and onboarding",
+    "url": "https://weaveos.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Get to know the products with our team, so you can spot the right opportunities and explain the value.",
+    "url": "https://weaveos.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Identify a client challenge we can solve together. We’ll help you match the opportunity to the right product.",
+    "url": "https://weaveos.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Lead onboarding and services with support from Weave, then build on the results through ongoing advisory.",
+    "url": "https://weaveos.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Who is the partnership program for?",
+    "url": "https://weaveos.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Consultancies and implementation firms that help clients with AI adoption, software delivery, or engineering performance. Whether you’re a specialist team or a larger practice, the starting point is a client problem we can solve together.",
+    "url": "https://weaveos.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Do we need to offer both products?",
+    "url": "https://weaveos.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Partners can earn revenue share on referred business and charge for their own implementation, onboarding, and advisory services. We agree the revenue-sharing terms and responsibilities directly with each partner.",
+    "url": "https://weaveos.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Who handles sales and onboarding?",
+    "url": "https://weaveos.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Your team brings the client relationship and services expertise. Weave joins discovery and sales conversations, helps with technical questions, and supports onboarding. We agree who owns each part of delivery together.",
+    "url": "https://weaveos.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us about your practice and the challenges your clients are facing. We’ll explore where Weave can help.",
+    "url": "https://weaveos.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Private Equity Partnerships | Weave",
+    "url": "https://weaveos.com/partnerships/private-equity",
+    "pass": 1
+   },
+   {
+    "quote": "For private equity and operating partners",
+    "url": "https://weaveos.com/partnerships/private-equity",
+    "pass": 1
+   },
+   {
+    "quote": "Portfolio product preview. Acme Inc. is expanded to show its organizations. Values match the supplied product screenshot.",
+    "url": "https://weaveos.com/partnerships/private-equity",
+    "pass": 1
+   },
+   {
+    "quote": "Weave for private equity.",
+    "url": "https://weaveos.com/partnerships/private-equity",
+    "pass": 1
+   },
+   {
+    "quote": "Private equity firms and operating partners who want a clearer view of engineering and AI adoption across their portfolio companies.",
+    "url": "https://weaveos.com/partnerships/private-equity",
+    "pass": 1
+   },
+   {
+    "quote": "“Our goal is to ship the highest quality product as fast as possible for our customers. We use Weave to get an objective measurement and keep ourselves honest about how we’re doing.”",
+    "url": "https://weaveos.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Bytes AI builds an AI phone assistant for restaurants. After opening Weave profiles to the whole engineering team, output rose about 30% in six weeks.",
+    "url": "https://weaveos.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Most of the companies people point to as \"AI-native engineering orgs\" are early-stage startups with no enterprise customers and no production stakes. Telnyx…",
+    "url": "https://weaveos.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Intellistack (formerly Formstack) is a private equity-backed workflow automation company founded in 2006 that serves over 32,000 organizations worldwide,…",
+    "url": "https://weaveos.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Built for teams that can’t afford compromise",
+    "url": "https://weaveos.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Weave Pricing | Free, Pro & Enterprise Plans",
+    "url": "https://weaveos.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Weave platform pricing",
+    "url": "https://weaveos.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Org level process metrics",
+    "url": "https://weaveos.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing tailored to your team",
+    "url": "https://weaveos.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "GitHub Enterprise Support",
+    "url": "https://weaveos.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The early results are incredible - teams using our platform are seeing 19% higher output with proper AI implementation.",
+    "url": "https://weaveos.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike lines of code or PR count, Weave analyzes the impact of every change — not just how much was written",
+    "url": "https://weaveos.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "We don’t take shortcuts to get to an easier version of the problem. The first product was considered impossible. Our pricing has always been monthly — no annual lock-in tricks to inflate retention. We make it hard up front because that’s the only way to actually learn fast.",
+    "url": "https://weaveos.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Weave Enterprise | Secure Engineering Analytics at Scale",
+    "url": "https://weaveos.com/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "SOC 2 Type II and AICPA SOC certified. GDPR and HIPAA compliant. Regular third party audits and industry standard security practices.",
+    "url": "https://weaveos.com/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Code, reviews, AI agents, project management, communication. Every tool, every contribution attributed.",
+    "url": "https://weaveos.com/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "We’ve analyzed more PR’s than most orgs will ever write",
+    "url": "https://weaveos.com/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "On-premise deployment",
+    "url": "https://weaveos.com/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "SSO and SCIM provisioning",
+    "url": "https://weaveos.com/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Leading engineering enterprises",
+    "url": "https://weaveos.com/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Weave Routerというツールが9月16日、Product Huntでバージョン2.0を公開した",
+    "url": "https://note.com/yamaguchi_digest/n/n6af029bc43ec?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Turn your software team into a software factory",
+    "url": "https://weaveos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 500+ engineering organizations. Startups to Fortune 100",
+    "url": "https://weaveos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading engineering teams",
+    "url": "https://weaveos.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by engineering teams that take security seriously",
+    "url": "https://weaveos.com/enterprise",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Grow your services revenue",
+    "url": "https://weaveos.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Earn revenue share on the business you refer. We’ll agree commercial terms together, based on how we work with your firm.",
+    "url": "https://weaveos.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Partners can earn revenue share on referred business and charge for their own implementation, onboarding, and advisory services. We agree the revenue-sharing terms and responsibilities directly with each partner.",
+    "url": "https://weaveos.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Your team brings the client relationship and services expertise. Weave joins discovery and sales conversations, helps with technical questions, and supports onboarding. We agree who owns each part of delivery together.",
+    "url": "https://weaveos.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "From startups to the Fortune 500.",
+    "url": "https://weaveos.com/customers",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Fleetweaver - Crunchbase Company Profile & Funding — Fleetweaver develops WeaveOS, an orchestration platform for connected and autonomous mobility. The platform connects autonomous vehicle technology providers, fleet operators, ride and delivery networks, charging infrastructure, and maintenance partners through a shared integration layer.",
+    "url": "https://www.crunchbase.com/organization/fleetweaver",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Weave Router 2.0: Astra-level precision at less than half the ... Sep 16, 2026 · The difference between the rounded figures on the official site and the reproduction data on GitHub This is the main point: the official website weaveos.com/router and the GitHub bench/README.md present the same benchmarks quite differently.",
+    "url": "https://note.com/yamaguchi_digest/n/n6af029bc43ec?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "\"Weave Router 2.0、Astra同等精度を半額以下で\"｜山口｜AI情報整理",
+    "url": "https://note.com/yamaguchi_digest/n/n6af029bc43ec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Weave Router 2.0、Astra同等精度を半額以下で\"",
+    "url": "https://note.com/yamaguchi_digest/n/n6af029bc43ec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Weave Routerというツールが9月16日、Product Huntでバージョン2.0を公開した。Claude Code・Codex・Cursorといった複数のコーディングツールに差し込むだけで、リクエストごとに「どのAIモデルへ投げるか」を自動判定してくれるルーターだ。この記事で分かるのは、2.0で新しく増えた4つの判定の中身、動かすのに何が要るか、そして公式サイトが出すベンチマーク数字とGitHubの再現用データで実際どこまで差があるのかだ。",
+    "url": "https://note.com/yamaguchi_digest/n/n6af029bc43ec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Claude Code・Codex・Cursorに差し込むだけの振り分け役",
+    "url": "https://note.com/yamaguchi_digest/n/n6af029bc43ec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Weave RouterはYC(Y Combinator) W25出身のスタートアップWeaveが作る、コーディングエージェント向けのプロキシだ。Claude Code、Codex、Cursor、opencode、piといった開発者が普段使うツールとAnthropic・OpenAI・Google Geminiなどのモデルの間に立ち、リクエストを1ターンごとに最適なモデルへ振り分ける。GitHubのREADMEはこの役割をこう表現している。",
+    "url": "https://note.com/yamaguchi_digest/n/n6af029bc43ec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"One endpoint. Every model. Always the right one.\"",
+    "url": "https://note.com/yamaguchi_digest/n/n6af029bc43ec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "(訳:エンドポイントは1つ、モデルはすべて、いつでも正しいものへ)",
+    "url": "https://note.com/yamaguchi_digest/n/n6af029bc43ec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "**やっていることは単純で、フロンティアモデル(最も高性能だが高価なモデル)を「本当にコストをかける価値がある場面」だけに限定する仕組みだ。**OpenRouter経由でDeepSeek・Kimi・GLM・Qwen・Llamaなどのオープンソースモデルにも振り分けられるため、Claude内でGPT系モデルを使う、Claude Code内で別プロバイダのモデルを併用するといった、契約ずみの複数サブスクリプションを使い分ける運用にも対応する。",
+    "url": "https://note.com/yamaguchi_digest/n/n6af029bc43ec?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Aditya kumar Singh on X: \"Merged PR #1074 into WeaveOS. Found ... Merged PR #1074 into WeaveOS. Found a fun one: the request costs $0, has a valid subscription, and the middleware still said “pay up” 💀 Fixed the spend-cap logic so subscription turns bypass caps without needing `UsageBypassEnabled`.",
+    "url": "https://x.com/Adityakuma8784/status/2107332574750318628",
+    "pass": 3
+   },
+   {
+    "quote": "Weave (@WorkWeave) / X Science & Technology San Francisco, CA weaveos.com Joined May 2024 14 Following 1,421 Followers",
+    "url": "https://x.com/WorkWeave",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Weaveos Jobs in United States (8,000+ Open Roles) | LinkedIn Today’s top 8,000+ Weaveos jobs in United States. Leverage your professional network, and get hired. New Weaveos jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/weaveos-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetweaver - LinkedIn WeaveOS dramatically reduces integration costs and complexity, improves operational efficiency, and enables participants to launch new markets faster.",
+    "url": "https://www.linkedin.com/company/fleetweaver",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Weave OS (@weaveos) • Facebook, Connect with friends Weave OS is on Facebook. Join Facebook to connect with Weave OS and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/weaveos/",
+    "pass": 3
+   },
+   {
+    "quote": "WeaveOS - Facebook WeaveOS. Website",
+    "url": "https://www.facebook.com/p/WeaveOS-100090366855542/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://weaveos.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://weaveos.com/partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://weaveos.com/partnerships/private-equity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://weaveos.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://weaveos.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://weaveos.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://weaveos.com/enterprise",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000135.000033288.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://store.minet.jp/category/_WAVES_BUN_NOM/STRVCS.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://sonicwire.com/product/D0968",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://wavesjapan.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.weave-living.com/tokyo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/weaves.japan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mingtiandi.com/real-estate/finance/weave-kkr-exit-japan-rental-venture-in-350m-recapitalisation-with-se-asian-investor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/weaves.japan/reels/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/weave-communications",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ideaweavers.com/case-study-manufacturers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/industries/customer-success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/weaveos",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/weave-weaveos-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/fleetweaver",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://app.dealroom.co/companies/weave_7",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamaguchi_digest/n/n6af029bc43ec?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Adityakuma8784/status/2107332574750318628",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/WorkWeave",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/weaveos-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/fleetweaver",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/weaveos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/WeaveOS-100090366855542/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Weaveos 日本 導入",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000135.000033288.html",
+    "https://store.minet.jp/category/_WAVES_BUN_NOM/STRVCS.html",
+    "https://sonicwire.com/product/D0968",
+    "http://wavesjapan.jp/",
+    "https://guide.jsae.or.jp/news/topics/52288/",
+    "https://prtimes.jp/main/html/rd/p/000001164.000014607.html",
+    "https://renue.co.jp/posts/toyota-autonomous-driving-woven-city-guide-2026"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Weaveos 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.weave.co.jp/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://ja.nozominetworks.com/company"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Weaveos Japan",
+   "results": [
+    "https://www.weave-living.com/tokyo",
+    "https://www.instagram.com/weaves.japan/",
+    "https://www.mingtiandi.com/real-estate/finance/weave-kkr-exit-japan-rental-venture-in-350m-recapitalisation-with-se-asian-investor/",
+    "https://www.instagram.com/weaves.japan/reels/",
+    "https://weaveos.com/company",
+    "https://weaveos.com/",
+    "https://www.weave-living.com/jp"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Weaveos manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/weave-communications",
+    "https://ideaweavers.com/case-study-manufacturers/",
+    "https://www.eos.info/industries/customer-success-stories",
+    "https://weaveos.com/customers",
+    "https://www.getweave.com/resource-center/library/case-study/",
+    "https://www.fleetweaver.com/",
+    "https://weaveos.com/company"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Weaveos white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Weaveos founded funding employees revenue",
+   "results": [
+    "https://indexed.vc/companies/weaveos",
+    "https://fundediq.co/weave-weaveos-com-funding/",
+    "https://www.crunchbase.com/organization/fleetweaver",
+    "https://app.dealroom.co/companies/weave_7",
+    "https://www.crunchbase.com/organization/weave-f27a",
+    "https://pitchbook.com/profiles/company/773227-63",
+    "https://weaveos.com/company"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Weaveos",
+   "results": [
+    "https://note.com/8owl/n/ndb0a69ee4e5d?hl=en",
+    "https://note.com/yamaguchi_digest/n/n6af029bc43ec?hl=en",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/nicehataya/n/ncc0b3e6746bb?hl=en",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/sakura____note/n/n301cfa280552"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Weaveos",
+   "results": [
+    "https://x.com/Adityakuma8784/status/2107332574750318628",
+    "https://x.com/WorkWeave",
+    "https://x.com/HealthyWeaves",
+    "https://x.com/freeprettygirls",
+    "https://x.com/WorkWeave/status/2079366600302776819",
+    "https://x.com/WorkWeave/status/2103590448509988967",
+    "https://x.com/IWeaveSteve/status/2119526174158430290"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Weaveos",
+   "results": [
+    "https://www.linkedin.com/jobs/weaveos-jobs",
+    "https://www.linkedin.com/company/fleetweaver",
+    "https://in.linkedin.com/company/getweave",
+    "https://in.linkedin.com/in/nikhil-thakur-68303920a",
+    "https://uk.linkedin.com/in/kaylin-martin-aa13b2431",
+    "https://hk.linkedin.com/in/人-闲-b0b388431",
+    "https://ca.linkedin.com/in/weaves-industries-inc-b1716047"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Weaveos",
+   "results": [
+    "https://www.facebook.com/weaveos/",
+    "https://www.facebook.com/p/WeaveOS-100090366855542/",
+    "https://www.facebook.com/twsgeorgia/",
+    "https://www.facebook.com/walkinweavesatlanta/",
+    "https://www.facebook.com/weavecomm/",
+    "https://www.facebook.com/braidsweavesandthings/",
+    "https://www.facebook.com/manweaveatlanta/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Weaveos note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://weaveos.com/company"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Weaveos X 投稿",
+   "results": [
+    "https://www.weaveos.xyz/",
+    "https://x.com/WorkWeave/status/2103590448509988967",
+    "https://weaveos.com/",
+    "https://x.com/WorkWeave",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://weaveos.com/company",
+    "https://docs.weaveos.com/introduction"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部26頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部26頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部26頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部26頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部26頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部26頁・検索12回）"
+ }
+}

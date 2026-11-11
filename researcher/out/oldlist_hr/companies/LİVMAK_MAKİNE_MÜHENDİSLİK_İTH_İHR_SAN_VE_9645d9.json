@@ -1,0 +1,582 @@
+{
+ "name": "LİVMAK MAKİNE MÜHENDİSLİK İTH. İHR. SAN. VE TİC. LTD. ŞTİ.",
+ "aliases": [],
+ "context": "旧営業リスト｜Machine Tools / Production Equipment｜未接触",
+ "researched_at": "2026-11-11T05:11:32.763701+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "BURPRES METAL SANAYİ A.Ş.",
+    "url": "https://www.meexx.com.tr/en/exhibitor-list",
+    "pass": 3
+   },
+   {
+    "quote": "DURENDUS HİDROLİK PRES İMALAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "url": "https://www.meexx.com.tr/en/exhibitor-list",
+    "pass": 3
+   },
+   {
+    "quote": "HİDROPRES MAKİNA SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+    "url": "https://www.meexx.com.tr/en/exhibitor-list",
+    "pass": 3
+   },
+   {
+    "quote": "HÜRSAN HİDROLİK PRES VE TAKIM TEZGAHLARI SANAYİ TİCARET A.Ş.",
+    "url": "https://www.meexx.com.tr/en/exhibitor-list",
+    "pass": 3
+   },
+   {
+    "quote": "MİLTAŞ PUNCH PRESS ABKANT PRES TAKIMLAR SAN. TİC. LTD. ŞTİ.",
+    "url": "https://www.meexx.com.tr/en/exhibitor-list",
+    "pass": 3
+   },
+   {
+    "quote": "NOVA PROFESYONEL MONTAJ SİSTEMLERİ – GÖKHAN CİP",
+    "url": "https://www.meexx.com.tr/en/exhibitor-list",
+    "pass": 3
+   },
+   {
+    "quote": "PKS PROFESYONEL KAYNAK SİSTEMLERİ SAN. VE TİC. LTD. ŞTİ.",
+    "url": "https://www.meexx.com.tr/en/exhibitor-list",
+    "pass": 3
+   },
+   {
+    "quote": "POVVER PNOMATİK PROSES LTD. ŞTİ.",
+    "url": "https://www.meexx.com.tr/en/exhibitor-list",
+    "pass": 3
+   },
+   {
+    "quote": "PRESTİJ YAYINCILIK BASIM HİZMETLERİ SAN. VE TİC. LTD. ŞTİ",
+    "url": "https://www.meexx.com.tr/en/exhibitor-list",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://maktekkonya.com/product-detail/brand/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livmakina.com.tr/tr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makinaturkiye.com/livmakmakina",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meexx.com.tr/en/exhibitor-list",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://maktekkonya.com/product-detail/brand/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livmakina.com.tr/tr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hashima.co.jp/license/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://leimac.co.jp/en/fa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://maktekkonya.com/product-detail/brand/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livmakina.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yandex.com.tr/maps/org/liv_mak_boru_bukme_kivirma_makinalari_kayseri/92019579287/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tubebendingmachine/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.renishaw.com/en/machine-builder-case-studies--47747?srsltid=AYCX9vIsEYwF-oONvLrqTvoL83n41zrbjrQUpt4csBibGfL3WSmI1jh8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.industrial-tool.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://us.mitsubishielectric.com/fa/en/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mceneryautomation.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://maktekkonya.com/product-detail/brand/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livmakina.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.makinaturkiye.com/livmakmakina",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/livinsoft",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.alimakgroup.com/en/alimak-group-q4-and-year-end-report-2024/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/limak-holding-inc/425320151",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://revenuebase.ai/companies/machinery-manufacturers/turkiye",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "LİVMAK MAKİNE MÜHENDİSLİK İTH. İHR. SAN. VE TİC. LTD. ŞTİ.",
+   "results": [
+    "https://www.livmakina.com.tr/tr",
+    "https://www.livmakina.com/",
+    "https://yandex.com.tr/maps/org/liv_mak_boru_bukme_kivirma_makinalari_kayseri/92019579287/",
+    "https://www.facebook.com/tubebendingmachine/",
+    "https://www.makinaturkiye.com/livmakmakina",
+    "https://tr.linkedin.com/company/livmakina",
+    "https://leasingim.com/tedarikci/livmak-makina",
+    "https://www.makinaturkiye.com/livmakmakina/hakkimizda",
+    "https://www.facebook.com/livmakina/videos/cnc-boru-b%C3%BCkme-makinesi-el-arabas%C4%B1-%C3%BCretimi-el-arabas%C4%B1-%C5%9Fase-%C3%BCretiminde-hassas-h%C4%B1z/1693880988577632/",
+    "https://www.otomotivsanayi.com/en/companies/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "株式会社LİVMAK MAKİNE MÜHENDİSLİK İTH. İHR. SAN. VE TİC. LTD. ŞTİ.",
+   "results": [
+    "https://mib.org.tr/firm/livmak/",
+    "https://www.makinaturkiye.com/livmakmakina",
+    "https://www.facebook.com/tubebendingmachine/",
+    "https://www.livmakina.com.tr/tr",
+    "https://www.makersmak.com.tr/factory-automation-m1.html",
+    "https://www.youtube.com/watch?v=sOEfgzCzfx4",
+    "https://www.livamach.com/factory",
+    "https://www.limak.com.tr/",
+    "https://www.find.com.tr/Company/livmakmakinemuhendislikithalatihracatsanayiveticaretlimitedsirketi",
+    "https://www.otomotivsanayi.com/en/companies/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "LİVMAK MAKİNE MÜHENDİSLİK İTH. İHR. SAN. VE TİC. LTD. ŞTİ. 株式会社",
+   "results": [
+    "https://www.makinaturkiye.com/livmakmakina",
+    "https://www.facebook.com/tubebendingmachine/",
+    "https://www.livmakina.com.tr/tr",
+    "https://www.livamach.com/factory",
+    "https://pipebendingmachine.net/support",
+    "https://www.limak.com.tr/",
+    "https://www.find.com.tr/Company/livmakmakinemuhendislikithalatihracatsanayiveticaretlimitedsirketi",
+    "https://leasingim.com/tedarikci/livmak-makina",
+    "https://yilmak.com.tr/",
+    "https://www.otomotivsanayi.com/en/companies/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ＬİＶＭＡＫ　ＭＡＫİＮＥ　ＭÜＨＥＮＤİＳＬİＫ　İＴＨ．　İＨＲ．　ＳＡＮ．　ＶＥ　ＴİＣ．　ＬＴＤ．　ŞＴİ．",
+   "results": [
+    "https://maktekkonya.com/product-detail/brand/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti",
+    "https://www.livmakina.com.tr/tr",
+    "https://yandex.com.tr/maps/org/liv_mak_boru_bukme_kivirma_makinalari_kayseri/92019579287/",
+    "https://www.livmakina.com/",
+    "https://www.facebook.com/tubebendingmachine/",
+    "https://www.makinaturkiye.com/livmakmakina",
+    "https://tr.linkedin.com/company/livmakina",
+    "https://leasingim.com/tedarikci/livmak-makina",
+    "https://www.meexx.com.tr/en/exhibitor-list",
+    "https://www.livmakina.com.tr/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "LİVMAKMAKİNEMÜHENDİSLİKİTH.İHR.SAN.VETİC.LTD.ŞTİ.",
+   "results": [
+    "https://www.frontale.de/en/exhibitors/unimak-muhendislik-hizm-ve-mak-san-tic-ltd-sti-2474541",
+    "https://www.livisto.global/",
+    "https://www.voith.com/corp-en/about-us/markets-locations/turkey.html",
+    "https://www.k-online.com/vis/v1/en/exhprofiles/U32gu4NGSSKxcIRC6q8MtA",
+    "https://www.interzoo.com/en/exhibitors/vetux-pharma-ilac-veterinerlik-san-tic-ltd-sti-2592620",
+    "https://www.linkedin.com/company/yamama-yem-zirai-ilac-san-ve-tic-ltd-sti",
+    "https://www.livamach.com/factory",
+    "https://www.vilsan.com.tr/en/content/production-facilities",
+    "https://www.vimakina.com/corporate-externallink",
+    "https://www.otomotivsanayi.com/tr/firmalar/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "LİVMAK MAKİNE MÜHENDİSLİK İTH. İHR. SAN. VE TİC. LTD. ŞTİ. Japan",
+   "results": [
+    "https://maktekkonya.com/product-detail/brand/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti",
+    "https://www.livmakina.com/",
+    "https://yandex.com.tr/maps/org/liv_mak_boru_bukme_kivirma_makinalari_kayseri/92019579287/",
+    "https://www.facebook.com/tubebendingmachine/",
+    "https://www.makinaturkiye.com/livmakmakina",
+    "https://docs.tuyap.online/FDOCS/28167.pdf",
+    "https://tr.linkedin.com/company/livmakina",
+    "https://www.jmtba.or.jp/english/members-directory/directory-of-products/",
+    "https://www.okuma.co.jp/english/lp202003/index.php",
+    "https://www.otomotivsanayi.com/en/companies/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "LİVMAK MAKİNE MÜHENDİSLİK İTH. İHR. SAN. VE TİC. LTD. ŞTİ. 日本",
+   "results": [
+    "https://maktekkonya.com/product-detail/brand/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti",
+    "https://www.facebook.com/tubebendingmachine/",
+    "https://www.makinaturkiye.com/livmakmakina",
+    "https://pr.mono.ipros.com/linak/",
+    "https://www.linamar.com/ja/technologies/",
+    "https://www.livmakina.com.tr/tr",
+    "https://www.litai-machinery.com/ja/",
+    "https://pipebendingmachine.net/support",
+    "https://nt-rt.ru/en/brand/4177",
+    "https://www.otomotivsanayi.com/en/companies/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "LİVMAK MAKİNE MÜHENDİSLİK İTH. İHR. SAN. VE TİC. LTD. ŞTİ. K.K.",
+   "results": [
+    "https://www.livmakina.com.tr/tr",
+    "https://maktekkonya.com/product-detail/brand/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti",
+    "https://www.facebook.com/tubebendingmachine/",
+    "https://yandex.com.tr/maps/org/liv_mak_boru_bukme_kivirma_makinalari_kayseri/92019579287/",
+    "https://www.makinaturkiye.com/livmakmakina",
+    "https://www.livmakina.com/",
+    "https://tr.linkedin.com/company/livmakina",
+    "https://leasingim.com/tedarikci/livmak-makina",
+    "https://www.otomotivsanayi.com/tr/firmalar/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti",
+    "https://www.otomotivsanayi.com/en/companies/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "LİVMAK MAKİNE MÜHENDİSLİK İTH. İHR. SAN. VE TİC. LTD. ŞTİ. 日本 導入",
+   "results": [
+    "https://maktekkonya.com/product-detail/brand/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti",
+    "https://www.livmakina.com.tr/tr",
+    "https://www.makinaturkiye.com/livmakmakina",
+    "https://www.meexx.com.tr/en/exhibitor-list",
+    "https://www.facebook.com/tubebendingmachine/",
+    "https://www.youtube.com/watch?v=sOEfgzCzfx4",
+    "https://www.akermakine.com/en_US/about-us",
+    "https://www.makersmak.com.tr/factory-automation-m1.html",
+    "https://www.livamach.com/factory",
+    "https://www.otomotivsanayi.com/en/firmalar/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "LİVMAK MAKİNE MÜHENDİSLİK İTH. İHR. SAN. VE TİC. LTD. ŞTİ. 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://maktekkonya.com/product-detail/brand/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti",
+    "https://www.livmakina.com.tr/tr",
+    "https://www.hashima.co.jp/license/",
+    "https://leimac.co.jp/en/fa/",
+    "https://www.autogrip-machinery.com/ja/sales-network",
+    "https://www.instagram.com/livamak.makina/",
+    "https://liquidinstruments.com/ja/partners/",
+    "https://www.valinux.co.jp/index.php",
+    "https://www.ablic.com/jp/semicon/support/distributors/",
+    "https://www.otomotivsanayi.com/en/companies/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "LİVMAK MAKİNE MÜHENDİSLİK İTH. İHR. SAN. VE TİC. LTD. ŞTİ. Japan",
+   "results": [
+    "https://maktekkonya.com/product-detail/brand/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti",
+    "https://www.livmakina.com/",
+    "https://yandex.com.tr/maps/org/liv_mak_boru_bukme_kivirma_makinalari_kayseri/92019579287/",
+    "https://www.facebook.com/tubebendingmachine/",
+    "https://www.makinaturkiye.com/livmakmakina",
+    "https://docs.tuyap.online/FDOCS/28167.pdf",
+    "https://tr.linkedin.com/company/livmakina",
+    "https://www.jmtba.or.jp/english/members-directory/directory-of-products/",
+    "https://www.okuma.co.jp/english/lp202003/index.php",
+    "https://www.otomotivsanayi.com/en/companies/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "LİVMAK MAKİNE MÜHENDİSLİK İTH. İHR. SAN. VE TİC. LTD. ŞTİ. manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/machine-builder-case-studies--47747?srsltid=AYCX9vIsEYwF-oONvLrqTvoL83n41zrbjrQUpt4csBibGfL3WSmI1jh8",
+    "https://www.industrial-tool.com/case-studies",
+    "https://us.mitsubishielectric.com/fa/en/resources/case-studies/",
+    "https://www.mceneryautomation.com/case-studies",
+    "https://www.okuma.com/knowledge-center/case-studies",
+    "https://www.hagerman.com/resources/success-stories",
+    "https://manufacturo.com/resources/case-studies/",
+    "https://cadtalk.com/cadtalk-case-studies-for-manufacturers/",
+    "https://www.autodesk.com/customer-stories/case-studies"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "LİVMAK MAKİNE MÜHENDİSLİK İTH. İHR. SAN. VE TİC. LTD. ŞTİ. white label OR reseller OR partner program",
+   "results": [
+    "https://maktekkonya.com/product-detail/brand/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti",
+    "https://www.livmakina.com/en",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.makinaturkiye.com/livmakmakina",
+    "https://yandex.com.tr/maps/org/liv_mak_boru_bukme_kivirma_makinalari_kayseri/92019579287/",
+    "https://www.movingimage.com/partner-program",
+    "https://partners.vertiv.com/",
+    "https://tr.linkedin.com/company/livmakina",
+    "https://almacam.com/company/partners/",
+    "https://www.otomotivsanayi.com/en/companies/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "LİVMAK MAKİNE MÜHENDİSLİK İTH. İHR. SAN. VE TİC. LTD. ŞTİ. founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/livinsoft",
+    "https://corporate.alimakgroup.com/en/alimak-group-q4-and-year-end-report-2024/",
+    "https://www.zoominfo.com/c/limak-holding-inc/425320151",
+    "https://revenuebase.ai/companies/machinery-manufacturers/turkiye",
+    "https://pitchbook.com/profiles/company/10968-13",
+    "https://en.wikipedia.org/wiki/Limak_Holding",
+    "https://www.reveliolabs.com/companies/gulermak/employees",
+    "https://www.limak.com.tr/corporate/annual-reports",
+    "https://www.weforum.org/organizations/limak-holding"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com LİVMAK MAKİNE MÜHENDİSLİK İTH. İHR. SAN. VE TİC. LTD. ŞTİ.",
+   "results": [
+    "https://note.com/cap120/n/nd766cccccade",
+    "https://note.com/narukoaiart_note/n/n137d781fd145",
+    "https://note.com/hardp",
+    "https://note.com/303geos/n/ncad510342a9a",
+    "https://note.com/osushi_yaku/n/n809dd1a32371",
+    "https://note.com/takuinsist/n/n7d2b265d707b",
+    "https://note.com/kingcobra46/n/n60b10e300b98"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com LİVMAK MAKİNE MÜHENDİSLİK İTH. İHR. SAN. VE TİC. LTD. ŞTİ.",
+   "results": [
+    "https://x.com/",
+    "https://jf.x.com/images/media-preview/2113478344947945552",
+    "https://about.x.com/en",
+    "https://x.com/BerkayIns",
+    "https://x.com/NeonMakine",
+    "https://x.com/makinacan",
+    "https://x.com/yirmiucderece/status/1716208550458818826",
+    "https://x.com/bepryor/status/2107904082316865631"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com LİVMAK MAKİNE MÜHENDİSLİK İTH. İHR. SAN. VE TİC. LTD. ŞTİ.",
+   "results": [
+    "https://tr.linkedin.com/company/livmakina",
+    "https://www.linkedin.com/company/segun-maki̇ne-mühendi̇sli̇k-danişmanlik-i̇th-i̇hr-taah-san-ve-ti̇c-ltd-şti̇/",
+    "https://www.linkedin.com/company/doğramaci-mühendi̇sli̇k-i̇th-ve-i̇hr-ti̇c-ltd-şti̇/",
+    "https://tr.linkedin.com/in/deniz-güler-58240841",
+    "https://tr.linkedin.com/company/vi̇nçmak-maki̇na-san-ti̇c-ltd-şti̇",
+    "https://www.linkedin.com/company/sistemced",
+    "https://www.linkedin.com/company/innova-mühendislik-mak.-inş.-kir.-ith.-ihr.-san.-tic.-ltd.-şti.",
+    "https://www.linkedin.com/company/iqmuhendislik"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:facebook.com LİVMAK MAKİNE MÜHENDİSLİK İTH. İHR. SAN. VE TİC. LTD. ŞTİ.",
+   "results": [
+    "https://www.facebook.com/livmakina/",
+    "https://www.facebook.com/tubebendingmachine/",
+    "https://www.facebook.com/royalcelik/",
+    "https://www.facebook.com/isikoglu.group/",
+    "https://www.facebook.com/golmar45/",
+    "https://www.facebook.com/ilmaksanhavalandirm/mentions/",
+    "https://www.facebook.com/hazermakina/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "LİVMAK MAKİNE MÜHENDİSLİK İTH. İHR. SAN. VE TİC. LTD. ŞTİ. note 社長",
+   "results": [
+    "https://maktekkonya.com/product-detail/brand/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti",
+    "https://mib.org.tr/firm/livmak/",
+    "https://www.youtube.com/watch?v=_5VOnsC62MI",
+    "https://www.iploca.com/members/vemak-insaat-taahhut-makina-sanayi-ve-ticaret-a-s/",
+    "https://www.limak.com.tr/corporate-leadership",
+    "https://www.livamach.com/about-us",
+    "https://www.makersmak.com.tr/factory-automation-m1.html",
+    "https://www.youtube.com/watch?v=sOEfgzCzfx4",
+    "https://www.limakrenewableenergy.com/corporate/shareholding-structure"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "LİVMAK MAKİNE MÜHENDİSLİK İTH. İHR. SAN. VE TİC. LTD. ŞTİ. X 投稿",
+   "results": [
+    "https://maktekkonya.com/product-detail/brand/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti",
+    "https://www.makinaturkiye.com/livmakmakina",
+    "https://www.livmakina.com.tr/katalog.pdf",
+    "https://www.meexx.com.tr/en/exhibitor-list",
+    "https://www.youtube.com/watch?v=sOEfgzCzfx4",
+    "https://www.facebook.com/tubebendingmachine/",
+    "https://www.facebook.com/livmakina/videos/plus/24941569712166650/",
+    "https://bimgallery.alimak.com/bim/division/industrial",
+    "https://www.livamach.com/about-us",
+    "https://www.otomotivsanayi.com/tr/firmalar/livmak-makine-muhendislik-ith-ihr-san-ve-tic-ltd-sti"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "料金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "連絡先": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "製造業の実績": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "日本の担い手": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "規模・親会社": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）"
+ }
+}

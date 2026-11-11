@@ -8,19 +8,19 @@
  ],
  "context": "改訂",
  "kind": "market",
- "researched_at": "2026-11-09T11:02:45.213811+00:00",
+ "researched_at": "2026-11-11T05:21:51.533729+00:00",
  "evidence": {
-  "失敗・落とし穴": [
+  "一次情報の探し方": [
    {
-    "quote": "Survivorship bias in backtesting",
+    "quote": "Primary source for Point-in-time data and vintages",
     "url": "https://stochastly.com/learn/point-in-time-data-and-vintages",
     "pass": 3,
     "first_seen": "2026-11-09"
    }
   ],
-  "一次情報の探し方": [
+  "失敗・落とし穴": [
    {
-    "quote": "Primary source for Point-in-time data and vintages",
+    "quote": "Survivorship bias in backtesting",
     "url": "https://stochastly.com/learn/point-in-time-data-and-vintages",
     "pass": 3,
     "first_seen": "2026-11-09"
@@ -31,14 +31,14 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/macria_work/n/n49126690f34f",
+    "url": "https://note.com/gigathlete_inc/n/n71dd8ab9623d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/gigathlete_inc/n/n71dd8ab9623d",
+    "url": "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://note.com/nyanco_lab/n/n3f29045de2a8",
@@ -51,12 +51,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
+    "url": "https://note.com/okmylife/n/neac9c5d6b94a",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
-    "url": "https://note.com/fuku_gyo/n/nc55eaed99939",
+    "url": "https://note.com/kimatta_kotae/n/nf8441329c1cb",
     "status": "ok",
     "method": "http"
    },
@@ -71,12 +71,12 @@
     "method": "http"
    },
    {
-    "url": "https://analytics-okinawa.jp/data-analysis/2725/",
+    "url": "https://blog.kurashiq.com/preliminary-vs-final-statistics/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://blog.kurashiq.com/preliminary-vs-final-statistics/",
+    "url": "https://analytics-okinawa.jp/data-analysis/2725/",
     "status": "ok",
     "method": "http"
    },
@@ -86,7 +86,7 @@
     "method": "http"
    },
    {
-    "url": "https://lab.main.jp/research/posts/seasonal-adjustment-statistical-revisions/",
+    "url": "https://n-trend.com/trade-stats-preliminary-final/",
     "status": "ok",
     "method": "http"
    },
@@ -99,11 +99,6 @@
     "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/dl/maikin-sokukakukeikou.pdf",
     "status": "ok",
     "method": "pdf"
-   },
-   {
-    "url": "https://n-trend.com/trade-stats-preliminary-final/",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://stochastly.com/learn/point-in-time-data-and-vintages",
@@ -121,6 +116,11 @@
     "method": "http"
    },
    {
+    "url": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/routput",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://noetrion.com/articles/economic-data-revisions-python/",
     "status": "ok",
     "method": "http"
@@ -129,11 +129,6 @@
     "url": "https://www.researchgate.net/publication/242254912_Forecasting_with_Real-Time_Data_Vintages",
     "status": "http_403",
     "method": "http"
-   },
-   {
-    "url": "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/routput",
-    "status": "ok",
-    "method": "http"
    }
   ]
  },
@@ -141,13 +136,13 @@
   {
    "query": "リアルタイムデータ（その時点の版）で過去の数字を比べる実務（速報と確報を系列の中で混ぜない） site:note.com",
    "results": [
-    "https://note.com/macria_work/n/n49126690f34f",
     "https://note.com/gigathlete_inc/n/n71dd8ab9623d",
+    "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
     "https://note.com/nyanco_lab/n/n3f29045de2a8",
     "https://note.com/porters_mktg/n/n34b33a430490",
-    "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
-    "https://note.com/fuku_gyo/n/nc55eaed99939",
-    "https://note.com/okmylife/n/neac9c5d6b94a"
+    "https://note.com/okmylife/n/neac9c5d6b94a",
+    "https://note.com/kimatta_kotae/n/nf8441329c1cb",
+    "https://note.com/fuku_gyo/n/nc55eaed99939"
    ],
    "engines": [
     "ddgs:google"
@@ -159,14 +154,14 @@
    "results": [
     "https://hukuhuku.co.jp/blog/data-fetch-recipes/fetch-27-preliminary-revised",
     "https://note.com/ai_soubashi_gin/n/n097532021b7a",
-    "https://analytics-okinawa.jp/data-analysis/2725/",
     "https://blog.kurashiq.com/preliminary-vs-final-statistics/",
+    "https://analytics-okinawa.jp/data-analysis/2725/",
     "https://www.bizstats-dashboard.com/glossary/preliminary-final-estimates/",
-    "https://lab.main.jp/research/posts/seasonal-adjustment-statistical-revisions/",
-    "https://n-trend.com/trade-stats-preliminary-final/"
+    "https://n-trend.com/trade-stats-preliminary-final/",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/dl/maikin-sokukakukeikou.pdf"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -182,7 +177,7 @@
     "https://n-trend.com/trade-stats-preliminary-final/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -191,11 +186,11 @@
    "results": [
     "https://services.connecto-data.com/media/System-Development/a60",
     "https://hukuhuku.co.jp/blog/data-fetch-recipes/fetch-27-preliminary-revised",
-    "https://analytics-okinawa.jp/data-analysis/2725/",
     "https://blog.kurashiq.com/preliminary-vs-final-statistics/",
-    "https://lab.main.jp/research/posts/seasonal-adjustment-statistical-revisions/",
+    "https://analytics-okinawa.jp/data-analysis/2725/",
     "https://www.bizstats-dashboard.com/glossary/preliminary-final-estimates/",
-    "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/dl/maikin-sokukakukeikou.pdf"
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/dl/maikin-sokukakukeikou.pdf",
+    "https://n-trend.com/trade-stats-preliminary-final/"
    ],
    "engines": [
     "ddgs:google"
@@ -208,26 +203,26 @@
     "https://stochastly.com/learn/point-in-time-data-and-vintages",
     "https://ropensci.org/blog/2026/04/13/reviser/",
     "https://finzdata.com/guides/point-in-time-fundamentals-backtesting",
+    "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/routput",
     "https://noetrion.com/articles/economic-data-revisions-python/",
     "https://www.researchgate.net/publication/242254912_Forecasting_with_Real-Time_Data_Vintages",
-    "https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/routput",
     "https://www.jstor.org/stable/3211700"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "site:note.com リアルタイムデータ（その時点の版）で過去の数字を比べる実務（速報と確報を系列の中で混ぜない）",
    "results": [
+    "https://note.com/gigathlete_inc/n/n71dd8ab9623d",
+    "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
     "https://note.com/nyanco_lab/n/n3f29045de2a8",
     "https://note.com/porters_mktg/n/n34b33a430490",
-    "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
-    "https://note.com/gigathlete_inc/n/n71dd8ab9623d",
-    "https://note.com/fuku_gyo/n/nc55eaed99939",
     "https://note.com/okmylife/n/neac9c5d6b94a",
-    "https://note.com/hollow14/n/n2388e2bd9a35"
+    "https://note.com/fuku_gyo/n/nc55eaed99939",
+    "https://note.com/kimatta_kotae/n/nf8441329c1cb"
    ],
    "engines": [
     "ddgs:google"
@@ -236,20 +231,30 @@
   },
   {
    "query": "site:x.com リアルタイムデータ（その時点の版）で過去の数字を比べる実務（速報と確報を系列の中で混ぜない）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://x.com/ncyukio/status/2103054347122995349",
+    "https://x.com/yuyawatase/status/2081070485648101771",
+    "https://x.com/sugimoto_kei/status/2043196796550463952",
+    "https://x.com/anosaka_46/status/2094714815780626664",
+    "https://x.com/MeetsDX/status/2106903972066038104",
+    "https://x.com/d_a_s_h_/status/2080085287489970645",
+    "https://x.com/ai_jitan/status/1966978726484418610"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com リアルタイムデータ（その時点の版）で過去の数字を比べる実務（速報と確報を系列の中で混ぜない）",
    "results": [
     "https://jp.linkedin.com/pulse/real-time-vs-historical-data-when-use-each-chidimma-ezeigwe-pmp-mb9wc?tl=ja",
     "https://jp.linkedin.com/pulse/comparing-model-predictions-real-time-data-using-python-rahanjani-5ampc?tl=ja",
-    "https://jp.linkedin.com/pulse/real-time-data-extraction-building-live-dashboards-applications-gegqe?tl=ja",
     "https://jp.linkedin.com/pulse/leveraging-amazon-redshift-real-time-data-analytics-hite-cissp-vrpze?tl=ja",
+    "https://jp.linkedin.com/pulse/how-real-time-data-analytics-can-boost-business-magdy-m-sc-pmp-bh48f?tl=ja",
+    "https://jp.linkedin.com/pulse/real-time-data-extraction-building-live-dashboards-applications-gegqe?tl=ja",
     "https://jp.linkedin.com/pulse/how-enterprises-use-databricks-real-time-data-insights-uswcf?tl=ja",
-    "https://jp.linkedin.com/pulse/scalable-balance-tracking-custodians-better-alternative-node-based-wiyuc?tl=ja",
-    "https://jp.linkedin.com/pulse/real-time-data-streaming-pulse-modern-data-driven-mohan-menon-mba-lko8c?tl=ja"
+    "https://jp.linkedin.com/pulse/scalable-balance-tracking-custodians-better-alternative-node-based-wiyuc?tl=ja"
    ],
    "engines": [
     "ddgs:google"
@@ -261,14 +266,14 @@
    "results": [
     "https://www.facebook.com/17841453237443689/videos/829202422485750/",
     "https://www.facebook.com/BIPROGY/videos/同じ売上データなのに数字が合わない原因はデータの意味や算出ルールの違いかもデータ活用で押さえたいポイントを解説ホワイトペーパーはこちらhttpsformbipr/2031634644162769/",
-    "https://www.facebook.com/imakarasuugaku/videos/時系列データとは時系列データとは特定の対象を複数地点にわたって観察したデータです例えばある企業の売上を2010年から2020年まで並べたようなデータです時系列デ/693265602106958/",
     "https://www.facebook.com/aika.ike/videos/その過去最高県民の暮らしに届いてますか大切なのは数字が良くなったかだけではなく-県民の暮らしは本当に良くなったのか過去最高や改善の背景を県の資料をもとに検証しま/2054571305146359/",
+    "https://www.facebook.com/imakarasuugaku/videos/時系列データとは時系列データとは特定の対象を複数地点にわたって観察したデータです例えばある企業の売上を2010年から2020年まで並べたようなデータです時系列デ/693265602106958/",
     "https://www.facebook.com/sratohokuinc/videos/いまさら聞けない数字の見える化番外編ダイジェスト版/539061076252108/",
-    "https://www.facebook.com/DagikEarth/videos/新たに過去の天気図コンテンツを公開しましたウェブ版-赤外線雲画像と天気図httpdagikorgdatatenkizudow_cloudshtml2001年から/735433467125281/",
-    "https://www.facebook.com/abashiri.kondo/photos/数字は正直だ2025年実施の国勢調査の結果速報値が公表されたので気になって調べてみたところ案の定だった過去30年の国勢調査を5年ごとに比較すると直近の佐賀県武雄/27378525575118302/"
+    "https://www.facebook.com/abashiri.kondo/photos/数字は正直だ2025年実施の国勢調査の結果速報値が公表されたので気になって調べてみたところ案の定だった過去30年の国勢調査を5年ごとに比較すると直近の佐賀県武雄/27378525575118302/",
+    "https://www.facebook.com/DagikEarth/videos/新たに過去の天気図コンテンツを公開しましたウェブ版-赤外線雲画像と天気図httpdagikorgdatatenkizudow_cloudshtml2001年から/735433467125281/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -277,14 +282,14 @@
    "results": [
     "https://hukuhuku.co.jp/blog/data-fetch-recipes/fetch-27-preliminary-revised",
     "https://note.com/nyanco_lab/n/n3f29045de2a8",
+    "https://blog.kurashiq.com/preliminary-vs-final-statistics/",
     "https://note.com/ai_soubashi_gin/n/n097532021b7a",
     "https://analytics-okinawa.jp/data-analysis/2725/",
-    "https://blog.kurashiq.com/preliminary-vs-final-statistics/",
     "https://www.bizstats-dashboard.com/glossary/preliminary-final-estimates/",
     "https://n-trend.com/trade-stats-preliminary-final/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -293,8 +298,8 @@
    "results": [
     "https://services.connecto-data.com/media/System-Development/a60",
     "https://hukuhuku.co.jp/blog/data-fetch-recipes/fetch-27-preliminary-revised",
-    "https://analytics-okinawa.jp/data-analysis/2725/",
     "https://blog.kurashiq.com/preliminary-vs-final-statistics/",
+    "https://analytics-okinawa.jp/data-analysis/2725/",
     "https://www.bizstats-dashboard.com/glossary/preliminary-final-estimates/",
     "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/dl/maikin-sokukakukeikou.pdf",
     "https://n-trend.com/trade-stats-preliminary-final/"
@@ -306,27 +311,17 @@
   },
   {
    "query": "real-time data vintage analysis first release versus latest vintage practice site:linkedin.com",
-   "results": [
-    "https://www.linkedin.com/posts/creditvigil_creditrisk-digitallending-modelmonitoring-activity-7440805015956574209-FM0Y",
-    "https://www.linkedin.com/pulse/only-vintage-analysis-guide-youll-ever-need-lessons-from-jackie-leung-elhge",
-    "https://www.linkedin.com/posts/pooja-ai_creditrisk-vintageanalysis-riskanalytics-activity-7427362253726748674-9mGw",
-    "https://www.linkedin.com/pulse/post-22-45-vintage-analysis-risk-signal-hiding-plain-sight-kotamraju-31s0c",
-    "https://www.linkedin.com/posts/md-shah-fahad_portfolioanalytics-vintageanalysis-nbfc-activity-7477322477430489088-SX5f",
-    "https://www.linkedin.com/posts/iamarjunsaud_learnsql-100daysofsql-sqllearning-activity-7428374935573676032-2P3R",
-    "https://www.linkedin.com/pulse/vintage-analysis-ecl-what-new-loan-cohorts-reveal-risk-ramachandra-fyemc"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ21頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ21頁・検索12回）",
-  "実例": "記載なし（読んだ21頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ20頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ20頁・検索12回）",
+  "実例": "記載なし（読んだ20頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 11,
+ "runs": 12,
  "first_researched_at": "2026-11-06T18:51:06.655138+00:00"
 }

@@ -1,0 +1,1211 @@
+{
+ "name": "Urbankisaan",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T05:33:00.004658+00:00",
+ "official_url": "https://www.urbankisaan.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2020",
+    "url": "https://urbankisaan.com/about",
+    "pass": 1
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2020",
+    "url": "https://urbankisaan.com/about/",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2017",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Hyderabad, India",
+    "url": "https://urbankisaan.com/about",
+    "pass": 1
+   },
+   {
+    "label": "Headquarters",
+    "value": "Hyderabad, India",
+    "url": "https://urbankisaan.com/about/",
+    "pass": 3
+   },
+   {
+    "label": "Headquarters",
+    "value": "Hyderabad",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "About $1.5 million disclosed (Y Combinator seed); other trackers list larger totals, reports differ",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Smart growing rooms and AI that reads plant DNA. Breed and grow crops faster, all year, in any climate.",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "seed varieties, including a high-protein rice",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Backed by investors, covered by the press, published by our scientists.",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our scientists publish in the same areas our products are built on: indoor growing, crop breeding, plant imaging and satellite crop mapping.",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "book chapter, CRC Press 2026",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CRC Press book chapter · Apr 2026",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Led by Dr Sairam Reddy Palicherla (27 papers, 553 citations), Dr Praveen Pankajakshan (39 papers) and Dr Mithun Chakraborty. Paper counts from ResearchGate and Semantic Scholar, September 2026.",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI reads plant DNA and picks the most promising parents and crosses. This takes seconds.",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See Aadi, our model that reads plant DNA",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven with research institutes and farmers.",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Two projects, in plain numbers.",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "High-protein rice · Kangarthi, Telangana",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "10.5% protein in the grain, already in farmers' fields.",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We bred a rice with 10.5% protein, tested by an accredited lab (NABL). It cooks and tastes like the rice people already buy, and this season farmers paid for the seed.",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "protein in the grain, against 6 to 7% in most rice",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aadi reads plant DNA. Jeeva predicts how a variety will yield in a given place.",
+    "url": "https://urbankisaan.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Led by our Chief AI Scientist, to build models that read plant DNA and predict yield.",
+    "url": "https://urbankisaan.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "High-protein rice in farmers’ fields",
+    "url": "https://urbankisaan.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our first open-field variety, with 10.5% protein in the grain, grown by farmers who paid for the seed.",
+    "url": "https://urbankisaan.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Dr Praveen Pankajakshan",
+    "url": "https://urbankisaan.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Over 12 years in growth roles at Epigamia, RAW Pressery, Captain Fresh and Poonawalla Fincorp.",
+    "url": "https://urbankisaan.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 2026",
+    "url": "https://urbankisaan.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "CRC Press book chapter",
+    "url": "https://urbankisaan.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Aadi reads plant DNA. Jeeva predicts how a variety will yield in a given place.",
+    "url": "https://urbankisaan.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Led by our Chief AI Scientist, to build models that read plant DNA and predict yield.",
+    "url": "https://urbankisaan.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "High-protein rice in farmers’ fields",
+    "url": "https://urbankisaan.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Our first open-field variety, with 10.5% protein in the grain, grown by farmers who paid for the seed.",
+    "url": "https://urbankisaan.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Dr Praveen Pankajakshan",
+    "url": "https://urbankisaan.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Over 12 years in growth roles at Epigamia, RAW Pressery, Captain Fresh and Poonawalla Fincorp.",
+    "url": "https://urbankisaan.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 2026",
+    "url": "https://urbankisaan.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "CRC Press book chapter",
+    "url": "https://urbankisaan.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Selection · prediction · validation",
+    "url": "https://urbankisaan.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Ten programmes · three-bottle system",
+    "url": "https://urbankisaan.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Reads plant DNA and predicts what a change to a gene will actually do.",
+    "url": "https://urbankisaan.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Predicts yield, flowering and height before you plant.",
+    "url": "https://urbankisaan.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Reads satellite images and tells you what a piece of land can grow.",
+    "url": "https://urbankisaan.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Improved by what every crop records",
+    "url": "https://urbankisaan.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Reads plant DNA and predicts what a gene change will do.",
+    "url": "https://urbankisaan.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Reads satellite images and tells you what land can grow.",
+    "url": "https://urbankisaan.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Select a product or subject",
+    "url": "https://urbankisaan.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Independent professionals may enter their own name.",
+    "url": "https://urbankisaan.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Breeding institute or public research programme",
+    "url": "https://urbankisaan.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Government programme or public agency",
+    "url": "https://urbankisaan.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "The country in which the project is located, or the market you serve.",
+    "url": "https://urbankisaan.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Two questions are required. The others allow the specialist who replies to come prepared.",
+    "url": "https://urbankisaan.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "A specialist who has read your answers replies, and sets out what we would need to take the project further.",
+    "url": "https://urbankisaan.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Depending on the product, a site review, a protocol review, a fit review of your crops or a demonstration of the software.",
+    "url": "https://urbankisaan.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Reach our audience of professional directory owners and boost your sales.",
+    "url": "https://indianalternatives.org/urbankisaan",
+    "pass": 3
+   },
+   {
+    "quote": "Dukaan Desk is an e-commerce and business management platform that helps businesses create online stores, manage products, track inventory, process orders, and grow their digital sales. Built for modern brands, retailers, and entrepreneurs looking to simplify online commerce operations.",
+    "url": "https://indianalternatives.org/urbankisaan",
+    "pass": 3
+   },
+   {
+    "quote": "ManyTalks is an Instagram automation platform that helps creators and businesses automate DMs, comment replies, lead capture, and customer interactions. Create no-code workflows to engage followers, send links automatically, answer FAQs, and turn Instagram engagement into leads, sales, and community growth.",
+    "url": "https://indianalternatives.org/urbankisaan",
+    "pass": 3
+   },
+   {
+    "quote": "Fliqr AI is an AI-powered automation platform for Instagram, WhatsApp, and Facebook Messenger. Automate DMs, comment replies, lead capture, customer support, and sales conversations using smart AI agents and no-code workflows. Built for creators, brands, agencies, coaches, and businesses looking to grow through social media automation.",
+    "url": "https://indianalternatives.org/urbankisaan",
+    "pass": 3
+   },
+   {
+    "quote": "The Knowledge Project Podcast",
+    "url": "https://www.youtube.com/watch?v=rO1E-WeTsuM",
+    "pass": 3
+   },
+   {
+    "quote": "The Storytelling Formula That Makes You Unforgettable in Interviews | Aspire with Emma Grede",
+    "url": "https://www.youtube.com/watch?v=rO1E-WeTsuM",
+    "pass": 3
+   },
+   {
+    "quote": "AIのために電力網はどう作り変えられているのか | Bloomberg Primer",
+    "url": "https://www.youtube.com/watch?v=rO1E-WeTsuM",
+    "pass": 3
+   },
+   {
+    "quote": "Trump Praises Hegseth’s Doozy of a Press Conference, Milks the MAGA Faithful & Melania’s New Show",
+    "url": "https://www.youtube.com/watch?v=rO1E-WeTsuM",
+    "pass": 3
+   },
+   {
+    "quote": "お金の専門家：7,11,4ハックで$1が月$10Kに変わる！- Daniel Priestley",
+    "url": "https://www.youtube.com/watch?v=rO1E-WeTsuM",
+    "pass": 3
+   },
+   {
+    "quote": "👇 GET THE HYDROPONICS BUSINESS PROJECT REPORT PDF FOR FREE:",
+    "url": "https://www.youtube.com/watch?v=rO1E-WeTsuM",
+    "pass": 3
+   },
+   {
+    "quote": "Head over to our Instagram @biz_nako and comment 'Idea4' on same video! Our automated system will DM the comprehensive PDF manual directly to you.",
+    "url": "https://www.youtube.com/watch?v=rO1E-WeTsuM",
+    "pass": 3
+   },
+   {
+    "quote": "🔮 Coming Up Next: This upcoming TUESDAY, we drop a brand new, highly calculated, ground-level powerful BizNako Business Idea and Project Report!",
+    "url": "https://www.youtube.com/watch?v=rO1E-WeTsuM",
+    "pass": 3
+   },
+   {
+    "quote": "Official Institutional Disclaimer: BizNako Global Ventures is an educational platform providing conceptual startup blueprints and corporate case studies. This framework does not constitute official financial, legal, or investment advice. Viewers must conduct their own independent due diligence before deploying commercial capital.",
+    "url": "https://www.youtube.com/watch?v=rO1E-WeTsuM",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "UrbanKisaan · AI for plant biology",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Smart growing rooms and AI that reads plant DNA. Breed and grow crops faster, all year, in any climate.",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For governments and farm operators",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our scientists publish in the same areas our products are built on: indoor growing, crop breeding, plant imaging and satellite crop mapping.",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Found okra lines that resist a major crop virus, working with India's national plant gene bank.",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI reads plant DNA and picks the most promising parents and crosses. This takes seconds.",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See Aadi, our model that reads plant DNA",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our rooms control light, heat and water, so plants go from seed to seed in 40 to 60 days.",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sensors and cameras track every plant as it grows, so the best ones stand out early.",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See FarmOS, our plant data software",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Works in any climate · 25+ sensors per plant",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "IIMR used our breeding rooms to find which millet plants cope best with drought. Every plant's response was measured as it grew.",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "UrbanKisaan is an AI company for plant biology. We build models that read plant DNA, rooms that grow and measure plants all year, and the seed that comes out of them.",
+    "url": "https://urbankisaan.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Models that read plants.",
+    "url": "https://urbankisaan.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Aadi reads plant DNA. Jeeva predicts how a variety will yield in a given place.",
+    "url": "https://urbankisaan.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our breeding rooms grow 4 to 6 crop generations a year and measure every plant, every day.",
+    "url": "https://urbankisaan.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our lights go into a national plant research institute, to breed crops faster.",
+    "url": "https://urbankisaan.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Led by our Chief AI Scientist, to build models that read plant DNA and predict yield.",
+    "url": "https://urbankisaan.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our foundation models for plant DNA and for yield, available to license.",
+    "url": "https://urbankisaan.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Plant breeders, AI scientists and engineers, with decades at seed companies, research labs and consumer businesses.",
+    "url": "https://urbankisaan.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "UrbanKisaan is an AI company for plant biology. We build models that read plant DNA, rooms that grow and measure plants all year, and the seed that comes out of them.",
+    "url": "https://urbankisaan.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Models that read plants.",
+    "url": "https://urbankisaan.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Aadi reads plant DNA. Jeeva predicts how a variety will yield in a given place.",
+    "url": "https://urbankisaan.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Our breeding rooms grow 4 to 6 crop generations a year and measure every plant, every day.",
+    "url": "https://urbankisaan.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Our lights go into a national plant research institute, to breed crops faster.",
+    "url": "https://urbankisaan.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Led by our Chief AI Scientist, to build models that read plant DNA and predict yield.",
+    "url": "https://urbankisaan.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Our foundation models for plant DNA and for yield, available to license.",
+    "url": "https://urbankisaan.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Plant breeders, AI scientists and engineers, with decades at seed companies, research labs and consumer businesses.",
+    "url": "https://urbankisaan.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Reads plant DNA and predicts what a change to a gene will actually do.",
+    "url": "https://urbankisaan.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Predicts yield, flowering and height before you plant.",
+    "url": "https://urbankisaan.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Plant genomic foundation model",
+    "url": "https://urbankisaan.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Reads plant DNA and predicts what a gene change will do.",
+    "url": "https://urbankisaan.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "UrbanKisaan: Foundation models and autonomous chambers for plant biology – Indian Alternatives",
+    "url": "https://indianalternatives.org/urbankisaan",
+    "pass": 3
+   },
+   {
+    "quote": "Success Story #4 | English | Hydroponics Framing! | UrbanKisaan Case Study | @BizNako - YouTube",
+    "url": "https://www.youtube.com/watch?v=rO1E-WeTsuM",
+    "pass": 3
+   },
+   {
+    "quote": "Success Story #4 | English | Hydroponics Framing! | UrbanKisaan Case Study | @BizNako",
+    "url": "https://www.youtube.com/watch?v=rO1E-WeTsuM",
+    "pass": 3
+   },
+   {
+    "quote": "In this episode of BizNako Success Stories, we break down how two founders disrupted traditional agriculture by setting up high-tech indoor vertical farms right inside urban warehouses.",
+    "url": "https://www.youtube.com/watch?v=rO1E-WeTsuM",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Founded in Hyderabad in 2020 and part of Y Combinator's Winter 2020 batch.",
+    "url": "https://urbankisaan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A new crop variety takes about ten years to breed in open fields, at one or two generations a year. Heat, drought and new pests arrive faster than that. We built UrbanKisaan to close the gap.",
+    "url": "https://urbankisaan.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Part of the Winter 2020 batch.",
+    "url": "https://urbankisaan.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "A new crop variety takes about ten years to breed in open fields, at one or two generations a year. Heat, drought and new pests arrive faster than that. We built UrbanKisaan to close the gap.",
+    "url": "https://urbankisaan.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Part of the Winter 2020 batch.",
+    "url": "https://urbankisaan.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Startup Deep Dive : UrbanKisaan — FY24 revenue Rs 18.79 crore with profit Rs 2.29 crore; Y Combinator-backed",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "FY23: revenue Rs 14.65 crore, net loss Rs 14.44 crore, expenses Rs 28.96 crore",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "FY24: revenue Rs 18.79 crore (up 28%), expenses Rs 16.45 crore, net profit Rs 2.29 crore",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "listed by a data provider",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "Competition: low barriers to entry and well-funded rivals can compress pricing and slow growth.",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "recurring revenue, customer retention, gross margin, customer acquisition cost and runway.",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "Recurring revenue and strong retention can compound growth.",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "Building trust through data protection and reliability is part of the product.",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "Check whether a few customers account for most of the revenue.",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "UrbanKisaan earns revenue from its Vertical farming and hydroponics products and services sold to businesses, institutions, consumers, learners and public-sector buyers. The exact revenue mix is described in the business model section and is not fully disclosed publicly.",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "Main risks include competition: low barriers to entry and well-funded rivals can compress pricing and slow growth, funding and capital needs, competition and regulation by data protection rules under the Digital Personal Data Protection Act, sector regulators, consumer protection law and IT rules. This is educational content, not investment advice.",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "Startup Deep Dive : DeHaat — FY25 revenue about Rs 3,010 crore; reported Rs 369 crore profit on non-cash gains, Rs 207 crore adjusted loss",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Distributor or channel partner",
+    "url": "https://urbankisaan.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Fliqr AI is an AI-powered automation platform for Instagram, WhatsApp, and Facebook Messenger. Automate DMs, comment replies, lead capture, customer support, and sales conversations using smart AI agents and no-code workflows. Built for creators, brands, agencies, coaches, and businesses looking to grow through social media automation.",
+    "url": "https://indianalternatives.org/urbankisaan",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "About · UrbanKisaan本社・営業所会社概要 | エーオン - AonContact · UrbanKisaanデル・テクノロジーズ株式会社 企業情報 | Dell 日本秦英之 - Wikipedia代理店とは？仕組み・販売店との違いと始め方を比較表で解説 — UrbanKisaan is an AI company for plant biology: models that read plant DNA, rooms that grow and measure plants all year, and the seed that comes out of them. 〒105-0011 東京都港区芝公園二丁目4番1号芝パークビルA館3階 本社 エーオングループジャパン株式会社 （再保険仲立人） 損害再保険、生命再保険仲立業、保険会社・共済団体の経営上のリスクマネジメントに",
+    "url": "https://urbankisaan.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact · UrbanKisaanデル・テクノロジーズ株式会社 企業情報 | Dell 日本秦英之 - Wikipedia代理店とは？仕組み・販売店との違いと始め方を比較表で解説 — Tell us what you are working on. Enquire about GrowRush, GeneRush, FarmOS, our models, seed or crop nutrition, and our team will set up a call. Mar 18, 2026 · 代表取締役社長 ジョン ロボトム（Jon Robottom） 本社（日本法人） 〒100-8159 東京都千代田区大手町一丁目2番1号 Otemachi One タワー 17階 西日本支社（大阪） 〒530-0003 大阪府大阪市北区堂島一丁目5番30号 堂島プラザビル 12階 名古屋支店",
+    "url": "https://urbankisaan.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "UrbanKisaan | LinkedIn — UrbanKisaan is redefining the future of crop breeding through its AI-first intelligence platform, accelerating plant-genome prediction and validation to strengthen food security and agricultural...",
+    "url": "https://in.linkedin.com/company/urbankisaan",
+    "pass": 3
+   },
+   {
+    "quote": "UrbanKisaan: Revolutionizing Hydroponics — UrbanKisaan is an agri-tech startup that grows crops vertically using hydroponics. It was founded by Vihari Kanukkolu, Dr. Sai Ram, and Srinivas Chaganti to address concerns around food scarcity, decreasing arable land, and water usage.",
+    "url": "https://www.scribd.com/document/432984575/04-UrbanKisaan-Agri-Startup",
+    "pass": 3
+   },
+   {
+    "quote": "UrbanKisaan: Foundation models and autonomous chambers for ... — UrbanKisaan is an AI-for-plant-biology company. We build foundation models and the physical infrastructure that trains them. Shipping a single new seed variety takes about ten+ years. Two on germplasm, three on crosses and selection, three or four on field trials, one on regulatory. Inside that decade, prediction and experiment never",
+    "url": "https://indianalternatives.org/urbankisaan",
+    "pass": 3
+   },
+   {
+    "quote": "UrbanKisaan · AI for plant biology — Founded in Hyderabad in 2020 and part of Y Combinator's Winter 2020 batch. Our science is peer reviewed. Our scientists publish in the same areas our products are built on: indoor growing, crop breeding, plant imaging and satellite crop mapping.",
+    "url": "https://urbankisaan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "UrbanKisaan - BASF — With only one tenth of the costs, the proprietary technology is significantly more efficient than conventional global standards in hydroponics cultivation.",
+    "url": "https://www.basf.com/global/en/who-we-are/organization/group-companies/BASF_Venture-Capital/portfolio/urbankisaan",
+    "pass": 3
+   },
+   {
+    "quote": "Success Story #4 | English | Hydroponics Framing ... - YouTubeSuccess Story #4 | Agrotech Startup City-Based Hydroponics ...UrbanKisaan · AI for plant biologyUrbanKisaan Startup Deep Dive: Funding, Model, RisksUrbanKisaan: Revolutionizing HydroponicsBizNako | Business • Knowledge • Entertainment | Success ...This Y Combinator-backed start-up is playing Farmville in ... — Jun 18, 2026 · No soil, 90",
+    "url": "https://www.youtube.com/watch?v=rO1E-WeTsuM",
+    "pass": 3
+   },
+   {
+    "quote": "UrbanKisaan Startup Deep Dive: Funding, Model, Risks — Aug 30, 2026 · This Startup Deep Dive explains what UrbanKisaan does, how it makes money, who backs it, how it compares with rivals and what could go wrong, using publicly available information.",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "UrbanKisaan: Revolutionizing HydroponicsBizNako | Business • Knowledge • Entertainment | Success ...This Y Combinator-backed start-up is playing Farmville in ... — UrbanKisaan is an agri-tech startup that grows crops vertically using hydroponics. It was founded by Vihari Kanukkolu, Dr. Sai Ram, and Srinivas Chaganti to address concerns around food scarcity, decreasing arable land, and water usage.",
+    "url": "https://www.scribd.com/document/432984575/04-UrbanKisaan-Agri-Startup",
+    "pass": 3
+   },
+   {
+    "quote": "UrbanKisaan · AI for plant biology — Our scientists publish in the same areas our products are built on: indoor growing, crop breeding, plant imaging and satellite crop mapping. Indoor growing Adv. Biology & Biotechnology · Aug 2026 Found LED light settings that grow more arugula and make it flower sooner indoors.",
+    "url": "https://urbankisaan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Success Story #4 | Agrotech Startup City-Based Hydroponics ... — Jun 17, 2026 · Success Story #4: How This Smart Agrotech Startup Scaled City-Based Hydroponics and Secured Global Funding! | UrbanKisaan Case Study.Shehar ke beechon-beech ...",
+    "url": "https://www.youtube.com/watch?v=MZYMjuPzZk0",
+    "pass": 3
+   },
+   {
+    "quote": "UrbanKisaan - 2026 Company Profile, Team, Funding ... - TracxnUrbanKisaan: Revenue, Worth, Valuation & Competitors 2025UrbanKisaan 2026 Company Profile: Valuation, Funding ...UrbanKisaan Startup Deep Dive: Funding, Model, RisksUrbanKisaan — Company Profile | The Company CheckUrbanKisaan: Funding, Team & Investors | Startup IntrosHow UrbanKisaan hit $8M revenue with a 53 person team in 2024. — Apr ",
+    "url": "https://tracxn.com/d/companies/urbankisaan/__KG9SJ36FzW8jDYOS2vsKLrkov-h4Y7jZ1rkgtMX9cTU",
+    "pass": 3
+   },
+   {
+    "quote": "UrbanKisaan: Revenue, Worth, Valuation & Competitors 2025 — UrbanKisaan has an estimated revenue of $12.2M, and 67 employees. Alternatives of UrbanKisaan are Schmieding Produce, Skratch Labs and MycoTechnology.",
+    "url": "https://compworth.com/company/urbankisaan",
+    "pass": 3
+   },
+   {
+    "quote": "UrbanKisaan 2026 Company Profile: Valuation, Funding ...UrbanKisaan Startup Deep Dive: Funding, Model, RisksUrbanKisaan — Company Profile | The Company CheckUrbanKisaan: Funding, Team & Investors | Startup IntrosHow UrbanKisaan hit $8M revenue with a 53 person team in 2024. — Information on valuation, funding, cap tables, investors, and executives for UrbanKisaan. Use the PitchBook Platform to exp",
+    "url": "https://pitchbook.com/profiles/company/433415-26",
+    "pass": 3
+   },
+   {
+    "quote": "UrbanKisaan Startup Deep Dive: Funding, Model, Risks — Aug 30, 2026 · Funding history shows how much outside confidence a company has attracted and how long it can operate before needing more capital. Figures below are reported and may differ between sources; valuation figures are estimates unless the company has confirmed them.",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "UrbanKisaan — Company Profile | The Company Check — UrbanKisaan has raised $139.2 thousand across 3 funding rounds from investors including BASF, Y Combinator and Lakshmanan. The company has 22 employees as of March 31, 2025.",
+    "url": "https://www.thecompanycheck.com/company/b/urbankisaan/wjax7iyr1tu7un8km",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Your email address will not be published.",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "Save my name, email, and website in this browser for the next time I comment.",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "Notify me of follow-up comments by email.",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "Notify me of new posts by email.",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "Subscribe to our newsletter and we’ll send you the emails of latest posts.",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "UrbanKisaan Care (@UrbankisaanCare) / X UrbanKisaan Care @UrbankisaanCare Official @ urbankisaan customer service account 💜 India",
+    "url": "https://x.com/UrbankisaanCare",
+    "pass": 3
+   },
+   {
+    "quote": "We're thrilled to unveil our latest collaboration with ... We're thrilled to unveil our latest collaboration with Urbankisaan FarmBowl for a promotional video featuring @samantharuthprabhuoffl, directed by the talented folks at White Thoughts & Branding in association with Red Matter Technologies.",
+    "url": "https://x.com/Whitethoughtsin/status/1765672961405497368",
+    "pass": 3
+   },
+   {
+    "quote": "Naren Baliga (@njbaliga) / Posts / X BASF Venture Capital is investing in the Indian startup @UrbanKisaan, which specializes in hydroponic cultivation of various types of vegetables, greens and herbs in tropical urban environments.",
+    "url": "https://x.com/njbaliga",
+    "pass": 3
+   },
+   {
+    "quote": "UrbanKisaan Care (@UrbankisaanCare) / X UrbanKisaan Care @UrbankisaanCare Official @ urbankisaan customer service account 💜 India urbankisaan.com Joined December 2021",
+    "url": "https://x.com/UrbankisaanCare",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "UrbanKisaan | LinkedIn UrbanKisaan | 12,844 followers on LinkedIn. Reimagining Farming | We are Reimagining Farming !",
+    "url": "https://in.linkedin.com/company/urbankisaan",
+    "pass": 3
+   },
+   {
+    "quote": "UrbanKisaan - LinkedIn UrbanKisaan | 12,818 followers on LinkedIn. Reimagining Farming | We are Reimagining Farming !",
+    "url": "https://www.linkedin.com/company/urbankisaan/",
+    "pass": 3
+   },
+   {
+    "quote": "Urban Kisaan - Marketing Director at UrbanKisaan | LinkedInWhy we started UrbanKisaan - LinkedInUrban Kisaan - Farmer at Urbankisaan | LinkedInPraveen Pankajakshan, PhD - UrbanKisaan | LinkedInDr. Narsi Reddy Malgireddy - Head Of Research And Development ... Marketing Director at UrbanKisaan · Experience: UrbanKisaan · Location: Hyderabad. View Urban Kisaan’s profile on LinkedIn, a professional co",
+    "url": "https://in.linkedin.com/in/urban-kisaan-8525081a9",
+    "pass": 3
+   },
+   {
+    "quote": "Urban Kisaan - Farmer at Urbankisaan | LinkedIn Farmer at Urbankisaan · Experience: Urbankisaan · Location: Hyderabad. View Urban Kisaan’s profile on LinkedIn, a professional community of 1 billion members.",
+    "url": "https://in.linkedin.com/in/urban-kisaan-836426162",
+    "pass": 3
+   },
+   {
+    "quote": "Vihari Kanukollu - Hyderabad, Telangana, India | Professional ...How UrbanKisaan hit $8M revenue with a 53 person team in 2024.UrbanKisaan Management Team | Org Chart - RocketReachUrbanKisaan · AI for plant biologyUrban Kisaan | Hydroponic Vertical Farming India | MIF Scale-UpVihari Kanukollu - Hyderabad Stories Location: Hyderabad · 500+ connections on LinkedIn. View Vihari Kanukollu’s profile on",
+    "url": "https://in.linkedin.com/in/kvihari",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "UrbanKisaan - Facebook May 26, 2025 · At UrbanKisaan, we believe that farming is more than just a job - it's a way of life that has the power to shape the future of our planet. That's why we are dedicated to using sustainable practices to grow fresh, healthy produce right in the heart of the city.",
+    "url": "https://www.facebook.com/beanurbankisaan/",
+    "pass": 3
+   },
+   {
+    "quote": "UrbanKisaan - Urban Kisaan - Local | Fresh | Sustainable ... Dec 27, 2019 · Urban Kisaan - Local | Fresh | Sustainable! Visit us at www.urbankisaan.com and get your hands on fresh produce like never before. . . . . . ....",
+    "url": "https://www.facebook.com/beanurbankisaan/posts/503788940245119/",
+    "pass": 3
+   },
+   {
+    "quote": "UrbanKisaan - At UrbanKisaan, we believe that farming is ... Dec 9, 2022 · At UrbanKisaan, we believe that farming is more than just a job - it's a way of life that has the power to shape the future of our planet. That's why we...",
+    "url": "https://www.facebook.com/beanurbankisaan/posts/at-urbankisaan-we-believe-that-farming-is-more-than-just-a-job-its-a-way-of-life/437975671877100/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://urbankisaan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://urbankisaan.com/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://urbankisaan.com/home/logos/ycombinator.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://urbankisaan.com/home/logos/titancapital.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://urbankisaan.com/home/logos/pioneerfund.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://urbankisaan.com/home/logos/vnvglobal.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://urbankisaan.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://urbankisaan.com/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://in.linkedin.com/company/urbankisaan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.scribd.com/document/432984575/04-UrbanKisaan-Agri-Startup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indianalternatives.org/urbankisaan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://urbankisaan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=rO1E-WeTsuM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scribd.com/document/432984575/04-UrbanKisaan-Agri-Startup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://urbankisaan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/creators/earn/youtube-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/urbankisaan/__KG9SJ36FzW8jDYOS2vsKLrkov-h4Y7jZ1rkgtMX9cTU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/urbankisaan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/433415-26",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/UrbankisaanCare",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Whitethoughtsin/status/1765672961405497368",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/njbaliga",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/urbankisaan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/urbankisaan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/urban-kisaan-8525081a9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/urban-kisaan-836426162",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/beanurbankisaan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/beanurbankisaan/posts/503788940245119/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/beanurbankisaan/posts/at-urbankisaan-we-believe-that-farming-is-more-than-just-a-job-its-a-way-of-life/437975671877100/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/kvihari",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/UrbankisaanCare",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Urbankisaan 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Urbankisaan 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://urbankisaan.com/about/",
+    "https://urbankisaan.com/contact",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Urbankisaan Japan",
+   "results": [
+    "https://in.linkedin.com/company/urbankisaan",
+    "https://www.scribd.com/document/432984575/04-UrbanKisaan-Agri-Startup",
+    "https://indianalternatives.org/urbankisaan",
+    "https://urbankisaan.com/",
+    "https://www.basf.com/global/en/who-we-are/organization/group-companies/BASF_Venture-Capital/portfolio/urbankisaan",
+    "https://www.urbankisaan.com/Index.html",
+    "https://www.forbes.com/profile/vihari-kanukollu/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Urbankisaan manufacturing customer case study",
+   "results": [
+    "https://www.youtube.com/watch?v=rO1E-WeTsuM",
+    "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "https://www.scribd.com/document/432984575/04-UrbanKisaan-Agri-Startup",
+    "https://urbankisaan.com/",
+    "https://www.youtube.com/watch?v=MZYMjuPzZk0",
+    "https://www.instagram.com/reel/DZtl3UANosl/",
+    "https://www.business-standard.com/article/companies/this-y-combinator-backed-start-up-is-playing-farmville-in-real-life-120042500842_1.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Urbankisaan white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.youtube.com/creators/earn/youtube-partner-program/",
+    "https://www.seoreseller.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.superantispyware.com/reseller-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Urbankisaan founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/urbankisaan/__KG9SJ36FzW8jDYOS2vsKLrkov-h4Y7jZ1rkgtMX9cTU",
+    "https://compworth.com/company/urbankisaan",
+    "https://pitchbook.com/profiles/company/433415-26",
+    "https://www.indianstartuptimes.com/startup-deep-dive/urbankisaan-deep-dive/",
+    "https://www.thecompanycheck.com/company/b/urbankisaan/wjax7iyr1tu7un8km",
+    "https://startupintros.com/orgs/urbankisaan",
+    "https://getlatka.com/companies/urbankisaan.com"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Urbankisaan",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/tag/ループエンジニアリング",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/johnroom/n/nde54ceb366d6",
+    "https://note.com/t_words_c/n/ndfad4f7a2a16",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Urbankisaan",
+   "results": [
+    "https://x.com/UrbankisaanCare",
+    "https://x.com/",
+    "https://x.com/Whitethoughtsin/status/1765672961405497368",
+    "https://x.com/njbaliga",
+    "https://x.com/Whitethoughtsin",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/CiaManage/status/1754830065194475711"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Urbankisaan",
+   "results": [
+    "https://in.linkedin.com/company/urbankisaan",
+    "https://www.linkedin.com/company/urbankisaan/",
+    "https://in.linkedin.com/in/urban-kisaan-8525081a9",
+    "https://in.linkedin.com/in/urban-kisaan-836426162",
+    "https://in.linkedin.com/in/praveenpankaj",
+    "https://www.linkedin.com/posts/urbankisaan_why-we-started-urbankisaan-activity-6868505778697891840-ha9D",
+    "https://in.linkedin.com/in/dr-narsi-reddy-malgireddy-8a2b1a28"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Urbankisaan",
+   "results": [
+    "https://www.facebook.com/beanurbankisaan/",
+    "https://www.facebook.com/urbankisaan/",
+    "https://www.facebook.com/beanurbankisaan/posts/503788940245119/",
+    "https://www.facebook.com/beanurbankisaan/posts/at-urbankisaan-we-believe-that-farming-is-more-than-just-a-job-its-a-way-of-life/437975671877100/",
+    "https://www.facebook.com/UrbanKissan/",
+    "https://www.facebook.com/beanurbankisaan/posts/exciting-news-from-the-bahamas-weve-just-launched-a-cutting-edge-vertical-farm-i/956192116722117/",
+    "https://www.facebook.com/100064785638366/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Urbankisaan note 社長",
+   "results": [
+    "https://www.crunchbase.com/person/vihari-kanukollu",
+    "https://in.linkedin.com/in/kvihari",
+    "https://getlatka.com/companies/urbankisaan.com/board-members",
+    "https://rocketreach.co/urbankisaan-management_b45ed819fc74d28e",
+    "https://urbankisaan.com/",
+    "https://www.hyderabadstories.com/pioneers/vihari-kanukollu/",
+    "https://www.maricoinnovationfoundation.org/scale-up/reimagining-the-future-of-food-through-urban-kisaans-advanced-hydroponic-vertical-farming-systems/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Urbankisaan X 投稿",
+   "results": [
+    "https://x.com/UrbankisaanCare",
+    "https://urbankisaan.com/",
+    "https://www.instagram.com/urbankisaan/",
+    "https://www.instagram.com/popular/urbankisaan/",
+    "https://linktr.ee/urbankisaan",
+    "https://www.urbankisaan.com/Index.html",
+    "https://x.com/widedream2517/status/2119812449885127008"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部32頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部32頁・検索12回）"
+ }
+}

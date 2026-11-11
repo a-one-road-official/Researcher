@@ -1,0 +1,721 @@
+{
+ "name": "Gather AI 🇺🇸",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜返信あり",
+ "researched_at": "2026-11-11T05:18:29.648803+00:00",
+ "official_url": "https://gather.ai/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Ranked priorities reach your team before the shift starts, reasoned across your floor data and the systems you already run.",
+    "url": "https://gather.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "5x operational productivity at NFI. Benchmark what works in one facility, replicate it across the network. One playbook, every building, no relearning the same lesson twice.",
+    "url": "https://gather.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Gather AI Prana. One platform across every facility in your network.",
+    "url": "https://gather.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Sage reasons across what Vision sees and the systems you already run, surfacing what's drifting and what's at risk before problems compound. No dashboard to interpret.",
+    "url": "https://gather.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ProMat 2027 | Chicago",
+    "url": "https://gather.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Production runs on ground truth.",
+    "url": "https://gather.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Gather AI gives production teams continuous ground truth across raw materials, WIP, and finished goods, working alongside the systems already in place. The line runs on what's actually on the floor, in real time. A misallocated pallet gets caught at the rack, on the shift it happens.",
+    "url": "https://gather.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Drone Vision captures stored inventory across every racking zone. MHE Vision tracks inventory in motion as it moves through the facility. Production teams get a continuously updated picture of what's actually on the floor.",
+    "url": "https://gather.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "PRODUCTION RISK INTELLIGENCE",
+    "url": "https://gather.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "AI reasons across inventory data continuously. Damage and location errors surface at observation. Production planning sees the pattern signatures behind line stoppage in time to act.",
+    "url": "https://gather.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Keep production moving dock-to-dock.",
+    "url": "https://gather.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Stories | Gather AI Prana in Production",
+    "url": "https://gather.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Network wide logistics orchestration demands a solution that can see every product, every movement across every warehouse.",
+    "url": "https://gather.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Bosma Enterprises deploys the Gather AI platform to expand workforce inclusion and deliver continuous inventory accuracy across its Indiana facility.",
+    "url": "https://gather.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "\"When every pair has a unique label and a high price tag, finding a misplaced item used to be like looking for a needle in a haystack. Now we have the visibility to stay ahead of it.\"",
+    "url": "https://gather.ai/customer-stories/barrett",
+    "pass": 1
+   },
+   {
+    "quote": "GEODIS Customer Story | Gather AI Prana for 3PL",
+    "url": "https://gather.ai/customer-stories/geodis",
+    "pass": 1
+   },
+   {
+    "quote": "Productivity iIncrease",
+    "url": "https://gather.ai/customer-stories/nfi",
+    "pass": 1
+   },
+   {
+    "quote": "\"The Gather AI solution seamlessly integrated into our warehouse operations, delivering swift results. Our employees engaged well with the system, leading to a notable 5x productivity increase within five months using a single drone.\"",
+    "url": "https://gather.ai/customer-stories/nfi",
+    "pass": 1
+   },
+   {
+    "quote": "Live ground truth across the full production flow. Raw materials, WIP, and finished goods, observed continuously across every facility. Your line runs on what's actually on the floor, not what the WMS recorded last shift.",
+    "url": "https://gather.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Chain of custody on every product, every move. An audit trail your network runs on, with location and condition recorded continuously across the lifecycle. The record FDA and DSCSA reviews run on.",
+    "url": "https://gather.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Gather AI gives healthcare and pharma networks an immutable, time-stamped record of every product and every move across the facility. Your operation runs on it. Your audit trail runs on the same data.",
+    "url": "https://gather.ai/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Gather AI gives healthcare and pharma networks an immutable visual record of every product and every move across the facility. Chain of custody is recorded as the operation runs, not reconstructed when an auditor asks for it.",
+    "url": "https://gather.ai/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Location and condition on every product. Continuously.",
+    "url": "https://gather.ai/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Fresh product runs on fresh data.",
+    "url": "https://gather.ai/industries/food-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "Condition and location on every product, freezer to ambient.",
+    "url": "https://gather.ai/industries/food-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "Sage reasons across inventory readiness and order priority continuously, across every facility in your F&B network. A discrepancy in one DC surfaces as it occurs, not after it has followed the product into the next facility. The load gets built right the first time.",
+    "url": "https://gather.ai/industries/food-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "Every observation produces a time-stamped visual record of product location, condition, and move. When an exception surfaces, Workflows routes the next step to the right person and logs the resolution. Observation and resolution live in the same record.",
+    "url": "https://gather.ai/industries/food-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "Drone Vision and MHE Vision continuously capture every product and location, so pickers go directly to the right spot. 3D case counts and sleeve-level vision give case-level accuracy on partial pallets, which is where most retail short-ships start.",
+    "url": "https://gather.ai/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "PEAK-PROOF FULFILLMENT",
+    "url": "https://gather.ai/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "We've raised $74 million to date and grown bookings 2.5x year over year. The companies running us aren't pilots. They're enterprise-scale operations that can't afford to be wrong.",
+    "url": "https://gather.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "With 14 years experience, Sankalp developed safety and sensor planning for the world's first safe autonomous helicopter. A project that won the Howard Hughes award, AUVSI Xcellence award and was nominated for the Collier Trophy. A recipient of the Qualcomm Innovation fellowship and Swartz Innovation fellowship. He has a PhD in Robotics from Carnegie Mellon.",
+    "url": "https://gather.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Andrew has spent his career building the autonomous robotics that move modern warehouses. A founding engineer at Kiva Systems (now Amazon Robotics) and CANVAS Technology, both later acquired by Amazon, he was a key technical leader as Amazon Robotics scaled to the fleet of 750,000+ robots running today. He joined Gather AI from Xplorer Capital, where he was an Entrepreneur in Residence.",
+    "url": "https://gather.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Hard problems. Real customers. A team that moves fast.",
+    "url": "https://gather.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We build Physical AI for the people running the warehouses that keep supply chains moving. At Gather AI, you'll work on technology that's live in production at some of the largest distribution networks in the country.",
+    "url": "https://gather.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": ", we hire people we trust and give them what they need to do great",
+    "url": "https://gather.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive medical, dental, and vision coverage, a monthly wellness benefit, and a 401K. We mean it when we say people-first.",
+    "url": "https://gather.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Principal Robotics Systems Engineer",
+    "url": "https://gather.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Principal Machine Learning Scientist",
+    "url": "https://gather.ai/careers",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Barrett Distribution Centers",
+    "url": "https://gather.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Barrett Distribution reaches near-perfect inventory accuracy across 500,000 serialized SKUs with the Gather AI platform.",
+    "url": "https://gather.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Barrett Distribution | Gather AI Customer Story",
+    "url": "https://gather.ai/customer-stories/barrett",
+    "pass": 1
+   },
+   {
+    "quote": "Barrett Distribution reaches near-perfect inventory accuracy across 500,000 serialized SKUs with the Gather AI platform.",
+    "url": "https://gather.ai/customer-stories/barrett",
+    "pass": 1
+   },
+   {
+    "quote": "— Alex Glanzer, Operations, Barrett Distribution",
+    "url": "https://gather.ai/customer-stories/barrett",
+    "pass": 1
+   },
+   {
+    "quote": "\"The Gather AI solution seamlessly integrated into our warehouse operations, delivering swift results. Our employees engaged well with the system, leading to a notable 5x productivity increase within five months using a single drone.\"",
+    "url": "https://gather.ai/customer-stories/nfi",
+    "pass": 1
+   },
+   {
+    "quote": "Sage reasons across lot codes, serialization data, and chain-of-custody documentation across your network. By the time your team logs in, Sage has flagged what needs a closer look and time-stamped the resolution path. When DEA, FDA, or state regulators arrive, the record is already there.",
+    "url": "https://gather.ai/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Andrew has spent his career building the autonomous robotics that move modern warehouses. A founding engineer at Kiva Systems (now Amazon Robotics) and CANVAS Technology, both later acquired by Amazon, he was a key technical leader as Amazon Robotics scaled to the fleet of 750,000+ robots running today. He joined Gather AI from Xplorer Capital, where he was an Entrepreneur in Residence.",
+    "url": "https://gather.ai/company",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Physical AI for Manufacturing Logistics | Gather AI",
+    "url": "https://gather.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Gather AI gives manufacturers a continuous picture of raw materials, WIP, and finished goods across the facility. The line runs on the live state of the floor.",
+    "url": "https://gather.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Network wide logistics orchestration demands a solution that can see every product, every movement across every warehouse.",
+    "url": "https://gather.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "NFI Builds Ground Truth at Scale Across 51,000 Warehouse Locations with the Gather AI Platform",
+    "url": "https://gather.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "NFI Builds Ground Truth at Scale Across 51,000 Warehouse Locations with the Gather AI Platform",
+    "url": "https://gather.ai/customer-stories/nfi",
+    "pass": 1
+   },
+   {
+    "quote": "\"The Gather AI solution seamlessly integrated into our warehouse operations, delivering swift results. Our employees engaged well with the system, leading to a notable 5x productivity increase within five months using a single drone.\"",
+    "url": "https://gather.ai/customer-stories/nfi",
+    "pass": 1
+   },
+   {
+    "quote": "WHOLE WAREHOUSE VISIBILITY",
+    "url": "https://gather.ai/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "WHOLE WAREHOUSE VISIBILITY",
+    "url": "https://gather.ai/industries/food-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "Gather AI gives retail operators a continuous picture of inventory across every facility, so every order ships against what's actually on the shelf.",
+    "url": "https://gather.ai/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Gather AI gives 3PL operators a continuously verified, client-ready picture of every facility. Accuracy is the SLA. Accuracy is the renewal.",
+    "url": "https://gather.ai/industries/3pl",
+    "pass": 1
+   },
+   {
+    "quote": "We're a team of engineers, operators, and builders who believe the physical world deserves the same intelligence as the digital one.",
+    "url": "https://gather.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Gather AI was founded in Pittsburgh by people who came from robotics, computer vision, and logistics operations. We've spent years in warehouses. We know what it costs when the data doesn't match reality.",
+    "url": "https://gather.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Today we're a Series B company trusted by some of the largest distribution networks in the world. Our team moves fast, builds carefully, and stays close to the challenges our customers actually have.",
+    "url": "https://gather.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Built in Pittsburgh. Trusted by some of the largest companies in the world.",
+    "url": "https://gather.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Andrew has spent his career building the autonomous robotics that move modern warehouses. A founding engineer at Kiva Systems (now Amazon Robotics) and CANVAS Technology, both later acquired by Amazon, he was a key technical leader as Amazon Robotics scaled to the fleet of 750,000+ robots running today. He joined Gather AI from Xplorer Capital, where he was an Entrepreneur in Residence.",
+    "url": "https://gather.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "We build Physical AI for the people running the warehouses that keep supply chains moving. At Gather AI, you'll work on technology that's live in production at some of the largest distribution networks in the country.",
+    "url": "https://gather.ai/careers",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "USA — “No Kings” Peaceful Protest Gathering with Massive ... Mar 28, 2026 · 🇺🇸 USA — “No Kings” Peaceful Protest Gathering with Massive Crowd in Open Field Area | AI Short #NoKings #USProtest #MassGathering #UnityVoices #AiShort - in United States.",
+    "url": "https://apps.facebook.com/reel/4465705830383937/?s=ifu",
+    "pass": 3
+   },
+   {
+    "quote": "Gathering with family and friends to share this amazing ... Gathering with family and friends to share this amazing business. Note: Available only in USA 🇺🇸 and CANADA 🇨🇦 #XAELAI #BusinessOpportunity #SideHustle #OnlineBusiness #SuccessJourney - in Harrisonburg.",
+    "url": "https://www.facebook.com/gina.roy.16/videos/gathering-with-family-and-friends-to-share-this-amazing-business-note-available-/2418285988701448/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://gather.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gather.ai/industries/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gather.ai/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gather.ai/customer-stories/barrett",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gather.ai/customer-stories/geodis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gather.ai/customer-stories/nfi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gather.ai/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gather.ai/industries/healthcare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gather.ai/industries/food-beverage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gather.ai/industries/retail",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gather.ai/industries/3pl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gather.ai/company-news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gather.ai/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gather.ai/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://generative-ai.co.jp/usecase/robot-automation-ai/ai-startup-usecase-gather-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global-ai.jp/20260210-dxgather-ai4000ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gate.com/ja/news/detail/18673197",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gather.town/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gather.life/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gather.co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creati.ai/ja/ai-news/2026-02-10/gather-ai-40-million-series-b-warehouse-drones/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://generative-ai.co.jp/usecase/robot-automation-ai/ai-startup-usecase-gather-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/gather-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/gather-ai/case-study/476c-how-nfi-cut-manual-hours-at-scale-with-gather-ais-autonomous-drones",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://customgpt.ai/ai-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nextiva.com/company/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/265558-15",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/gatherai/__xJN5G1tj7ftdqU3GlN7LattYqWPGit6chDuOuyuUm5M",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/gather.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/gather-ai-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.facebook.com/reel/4465705830383937/?s=ifu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/gina.roy.16/videos/gathering-with-family-and-friends-to-share-this-amazing-business-note-available-/2418285988701448/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Gather AI 🇺🇸 日本 導入",
+   "results": [
+    "https://generative-ai.co.jp/usecase/robot-automation-ai/ai-startup-usecase-gather-ai/",
+    "https://gather.ai/",
+    "https://global-ai.jp/20260210-dxgather-ai4000ai/",
+    "https://www.gate.com/ja/news/detail/18673197",
+    "https://ga-match.co.jp/ai-catalog/gather-ai/",
+    "https://note.com/lucatech/n/ne64ad7c3ea6e",
+    "https://thebridge.jp/2026/02/gather-ai-40m-series-b-warehouse-drone-inventory"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gather AI 🇺🇸 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://gather.ai/",
+    "https://www.gather.town/ja/",
+    "https://gather.life/",
+    "https://gather.co/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://jpmktg.winbond.com/",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gather AI 🇺🇸 Japan",
+   "results": [
+    "https://gather.ai/",
+    "https://gather.ai/page",
+    "https://creati.ai/ja/ai-news/2026-02-10/gather-ai-40-million-series-b-warehouse-drones/",
+    "https://generative-ai.co.jp/usecase/robot-automation-ai/ai-startup-usecase-gather-ai/",
+    "https://www.toolify.ai/ja/ai-news-jp/gather-ai在庫管理革新-1376667",
+    "https://jp.linkedin.com/products/codemancers-gather-ai/",
+    "https://gather-inc.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gather AI 🇺🇸 manufacturing customer case study",
+   "results": [
+    "https://gather.ai/customer-stories",
+    "https://gather.ai/customer-stories/nfi",
+    "https://www.casestudies.com/company/gather-ai",
+    "https://www.casestudies.com/company/gather-ai/case-study/476c-how-nfi-cut-manual-hours-at-scale-with-gather-ais-autonomous-drones",
+    "https://www.featuredcustomers.com/vendor/gather-ai/case-studies",
+    "https://www.youtube.com/watch?v=vv8bVCCWEeI",
+    "https://www.youtube.com/watch?v=06YPP91axt4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gather AI 🇺🇸 white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://customgpt.ai/ai-reseller-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.nextiva.com/company/partners",
+    "https://partner.microsoft.com/en-us/asset",
+    "https://www.seoreseller.com/",
+    "https://partner.microsoft.com/en-US/partnership/partner-benefits-guide"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gather AI 🇺🇸 founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/265558-15",
+    "https://tracxn.com/d/companies/gatherai/__xJN5G1tj7ftdqU3GlN7LattYqWPGit6chDuOuyuUm5M",
+    "https://getlatka.com/companies/gather.ai",
+    "https://prospeo.io/c/gather-ai-revenue",
+    "https://compworth.com/company/gather-ai",
+    "https://fundediq.co/gather-ai-gather-ai-funding/",
+    "https://indexed.vc/companies/gather-ai"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Gather AI 🇺🇸",
+   "results": [
+    "https://note.com/2022aaa/n/n8c6b3456a5cd?hl=en",
+    "https://note.com/trans_n_ai/n/n4853aacc81b6?hl=en",
+    "https://note.com/nice_briony5683/n/n9eb23bb1c1ae?hl=en",
+    "https://note.com/isasaito/n/n2b0c8ad84ecb?hl=en",
+    "https://note.com/oskja/n/n52e033cab18d?hl=en",
+    "https://note.com/chinanezu/n/n5d4c6e788488?hl=en",
+    "https://note.com/epic_partners/n/n90f8cffe24b3?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Gather AI 🇺🇸",
+   "results": [
+    "https://x.com/getgather_ai",
+    "https://x.com/gather_town",
+    "https://x.com/gather_town/status/2085769258982691079",
+    "https://x.com/gather_ai/status/2056984844865798326",
+    "https://x.com/gather_ai/status/2056984844475998488",
+    "https://x.com/gather_ai/status/2022505368396714027",
+    "https://x.com/MarioNawfal/status/2120105436062069106"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Gather AI 🇺🇸",
+   "results": [
+    "https://www.linkedin.com/company/gather-ai",
+    "https://www.linkedin.com/products/codemancers-gather-ai/",
+    "https://www.linkedin.com/company/gather-ai/life/7add3518-8f44-4c4f-9368-b9a891d04b95-a1cc",
+    "https://www.linkedin.com/company/gatherhq",
+    "https://www.linkedin.com/in/geetesh-dubey-6a436272",
+    "https://in.linkedin.com/company/trygather-ai",
+    "https://www.linkedin.com/company/gatheratai"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Gather AI 🇺🇸",
+   "results": [
+    "https://www.facebook.com/p/Gather-AI-100068961616463/",
+    "https://www.facebook.com/100068961616463/",
+    "https://apps.facebook.com/reel/4465705830383937/?s=ifu",
+    "https://www.facebook.com/gina.roy.16/videos/gathering-with-family-and-friends-to-share-this-amazing-business-note-available-/2418285988701448/",
+    "https://www.facebook.com/100083159037921/videos/1113700897836025/",
+    "https://www.facebook.com/timesofstartups/posts/gather-ai-a-pittsburgh-pa-based-company-providing-a-physical-ai-platform-for-log/1246873244210187/",
+    "https://www.facebook.com/gatherinsights/videos/book-a-demo-today/1016506871215228/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gather AI 🇺🇸 note 社長",
+   "results": [
+    "https://gather.ai/",
+    "https://gather.ai/news-and-insights/gather-ai-raises-40m-led-by-smith-point-capital-management-to-scale-its-physical-ai-platform-for-global-logistics",
+    "https://www.linkedin.com/in/sankalp-arora-autonomy",
+    "https://venturebeat.com/business/gather-ai-raises-40m-led-by-smith-point-capital-management-to-scale-its-physical-ai-platform-for-global-logistics",
+    "https://finance.yahoo.com/news/gather-ai-maker-curious-warehouse-140000552.html?fr=sycsrp_catchall",
+    "https://aitimejournal.com/sankalp-arora-ceo-co-founder-of-gather-ai-pioneering-ai-and-autonomous-drones-in-warehouse-management/",
+    "https://startlandnews.com/2026/07/josh-bartels-gather-ai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gather AI 🇺🇸 X 投稿",
+   "results": [
+    "https://x.com/gather_ai",
+    "https://gather.ai/",
+    "https://x.com/getgather_ai",
+    "https://gather.ai/page",
+    "https://gather.is/",
+    "https://gather.is/app/",
+    "https://digirise.ai/chaen-ai-lab/x/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）"
+ }
+}

@@ -1,0 +1,1440 @@
+{
+ "name": "トックベアリング",
+ "aliases": [],
+ "context": "東京都・資本金10000万円・東京都 ものづくり企業データベース",
+ "researched_at": "2026-11-11T05:09:07.089144+00:00",
+ "official_url": "https://tok-inc.com/",
+ "identified_by": "given",
+ "profile": {
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "１０,０００万円",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "創　業",
+    "value": "創　業：1925年（大正14）6月1日",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "label": "創　立",
+    "value": "創　立：1938年（昭和13）12月1日",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "label": "設立年月",
+    "value": "設立年月：1938年12月1日",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1938年",
+    "url": "https://shachomeikan.jp/industry_article/5666",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "メカニカルコアパーツの開発・製造・販売",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "label": "事業概要",
+    "value": "「プラスチックベアリング」「ワンウェイクラッチ」「ダンパー」をはじめとしたメカニカルコアパーツの設計、製造、販売",
+    "url": "https://shachomeikan.jp/industry_article/5666",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "174名 （単体） 395名 （連結） (2025年（令和7年）9月現在)",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "162名（平成23年6月末現在）",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "174名（単体）395名（連結）（2025年9月現在）",
+    "url": "https://shachomeikan.jp/industry_article/5666",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社 ／ 東京オフィス",
+    "value": "〒174-8501 東京都板橋区小豆沢1-17-12 [お問い合わせ専用電話番号] 050-1720-0482 受付時間は、営業日の9:00～11:50、13:00～17:00です。",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都板橋区小豆沢1-17-12 〒174-8501",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都板橋区小豆沢1-17-12",
+    "url": "https://shachomeikan.jp/industry_article/5666",
+    "pass": 3
+   },
+   {
+    "label": "住 所",
+    "value": "〒174-8501 東京都板橋区小豆沢2-21-4",
+    "url": "https://www.jbia.or.jp/industry/members/20/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 吉川 桂介（平成27年1月度より）",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "吉川 桂介",
+    "url": "https://shachomeikan.jp/industry_article/5666",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "こども食堂を運営する団体様に、本社４Fの場所を貸し出しました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞に弊社製品SR100を紹介いただきました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "板橋区SDGsプラットフォームポータルサイトに当社が紹介されました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞に弊社製品TD154を紹介いただきました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Medtec Japan 医療機器の設計・製造に関する展示会に出展いたします",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ベアリング新聞第264号に当社製品TD154を紹介頂きました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "東京カイシャハッケン伝に当社が紹介されました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "海外向けに日本の製造業を紹介するサイト「dot B」に掲載されました！",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "【メディア掲載】「ミライのお仕事」に株式会社ＴＯＫが紹介されました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社代表取締役社長、吉川桂介のコメントが紹介されました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Medtec Japan 医療機器の製造・設計に関する展示会に出展いたします",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "VRオフィス紹介『バチャナビ』で当社(本社)をご紹介いただきました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "【動画紹介】女性活躍に関するインタビューで人材育成、管理職登用、社内制度についてお話しています",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "【METI Journal】経済産業省Webマガジンで当社が紹介されました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "【新機構】トルク可変式回転制動装置のご紹介",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "【会社紹介】中小企業にどんなイメージをお持ちですか？",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Medtec Japan 医療機器の製造・設計に関する日本最大の展示会に出展いたします！",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "＜新製品＞ハンズフリードアオープナー『IP4-足鳥（あしとり）』のご紹介",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ベアリング新聞にSR2・SRXが紹介されました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Medtec Japan 医療機器の製造・設計に関するアジア最大級の展示会 に出展します",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初の上市製品である樹脂ベアリングをはじめ、当社が製造・販売しているワンウェイクラッチ、",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "山梨工場の製造現場を動画でご案内しています",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製造業登録 １３ＢＺ２０１３２６",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "こども食堂を運営する団体様に、本社４Fの場所を貸し出しました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞に弊社製品SR100を紹介いただきました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "板橋区SDGsプラットフォームポータルサイトに当社が紹介されました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞に弊社製品TD154を紹介いただきました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Medtec Japan 医療機器の設計・製造に関する展示会に出展いたします",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ベアリング新聞第264号に当社製品TD154を紹介頂きました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "東京カイシャハッケン伝に当社が紹介されました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "海外向けに日本の製造業を紹介するサイト「dot B」に掲載されました！",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "【メディア掲載】「ミライのお仕事」に株式会社ＴＯＫが紹介されました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社代表取締役社長、吉川桂介のコメントが紹介されました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Medtec Japan 医療機器の製造・設計に関する展示会に出展いたします",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "VRオフィス紹介『バチャナビ』で当社(本社)をご紹介いただきました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "【動画紹介】女性活躍に関するインタビューで人材育成、管理職登用、社内制度についてお話しています",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "【METI Journal】経済産業省Webマガジンで当社が紹介されました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "【新機構】トルク可変式回転制動装置のご紹介",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "【会社紹介】中小企業にどんなイメージをお持ちですか？",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Medtec Japan 医療機器の製造・設計に関する日本最大の展示会に出展いたします！",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "＜新製品＞ハンズフリードアオープナー『IP4-足鳥（あしとり）』のご紹介",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ベアリング新聞にSR2・SRXが紹介されました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Medtec Japan 医療機器の製造・設計に関するアジア最大級の展示会 に出展します",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "その号の一面には11月の“いたばし産業見本市“が紹介されているのも確認",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "暑さ対策で昼間は試合をしなかったり、決勝戦を午前中開始にしたり、DH制や延長タイブレイクを取り入れたり、外部環境や時代に合わせて運営やルールを柔軟に変えていくスタイルは見習うべきですね",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "そうすると製造業、野菜を作るも含め、も大事です",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "マツコさんのテレビでコーヒーゼリーにこだわっている方が、“北海道のセイコーマートで売っているコーヒーゼリーが絶品です”との紹介を見て以来、いつか食べてみたいなぁと頭にとどめていました",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "この姿を実現するための数値目標、たとえば売上高目標を定めています",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社を紹介する冊子や学校の就職課、受賞歴、Webや新聞などなんらかの媒体から当社の情報をつかみ、HPにたどり着き、かつ当社に連絡をしてきた方を対象に説明会を開催します",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "単価は同じで中身を増量ならば原価率が上がり、原材料のコストダウンを同時に実施していない限り、売上維持でも利益は減少のはず",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "売上を重視したのか、コストダウンして利益も確保しているのか、原材料を多めに仕入れたので利益を犠牲にしても使い切りたかったのか、はたまたマカロニサラダを注力商品としたかったのか",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界初のプラスチックベアリングを開発して以来この独自の技術にワンウェイクラッチ・トックダンパー・トルクリミッター等のプラスチック機能部品を開発し販売しています",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の主力商品であるダンパーの設計開発グループを率いる織田信寿さん",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/",
+    "pass": 3
+   },
+   {
+    "quote": "医療業界への進出など製造業の枠を超えた社会的意義を追求し、独自の「待つ」経営で社員の挑戦を後押しする代表取締役社長、吉川桂介氏に、同社の今後の展望や求める人材などについて話を聞いた",
+    "url": "https://shachomeikan.jp/industry_article/5666",
+    "pass": 3
+   },
+   {
+    "quote": "ーー貴社の現在の事業内容と強みについてお教えいただけますか",
+    "url": "https://shachomeikan.jp/industry_article/5666",
+    "pass": 3
+   },
+   {
+    "quote": "昔は主力のベアリングの比重が6割〜7割ありましたが、様々なお客様のニーズに応えていく中で取り扱う製品の幅が広がり、客層も大きく変化していった結果、ベアリングの比重が3割程度にまで低下していました",
+    "url": "https://shachomeikan.jp/industry_article/5666",
+    "pass": 3
+   },
+   {
+    "quote": "具体的な目標としては、設立100周年に向けて、売上高50億円の達成を掲げています",
+    "url": "https://shachomeikan.jp/industry_article/5666",
+    "pass": 3
+   },
+   {
+    "quote": "また、現在は海外売上比率が4割程度ですが、これを全体を伸ばしつつ海外比率をさらに高めていくことが今のビジョンです",
+    "url": "https://shachomeikan.jp/industry_article/5666",
+    "pass": 3
+   },
+   {
+    "quote": "「プラスチックベアリング」「ワンウェイクラッチ」「ダンパー」をはじめとしたメカニカルコアパーツの設計、製造、販売",
+    "url": "https://shachomeikan.jp/industry_article/5666",
+    "pass": 3
+   },
+   {
+    "quote": "トックベアリング株式会社 | 会員紹介 | 一般社団法人日本ベアリング工業会",
+    "url": "https://www.jbia.or.jp/industry/members/20/",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "【会社紹介】中小企業にどんなイメージをお持ちですか？",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "りそな中小企業振興財団のホームページに当社製品SRXが掲載されました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "トルク可変多回転ダンパTD115中小企業優秀新技術・新製品賞受賞",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "【会社紹介】中小企業にどんなイメージをお持ちですか？",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "りそな中小企業振興財団のホームページに当社製品SRXが掲載されました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "たとえば医療業界向けに、外科手術用のカメラをワンタッチで自在に動かし、手を離せばその位置でロックする機構の開発を進めています",
+    "url": "https://shachomeikan.jp/industry_article/5666",
+    "pass": 3
+   },
+   {
+    "quote": "開発に1年以上の歳月を要したブラインド向け無音ダンパーは、「第28回中小企業優秀新技術・新製品賞 優秀賞」を受賞しましたし、特許取得件数も国内累計で約200件、海外でも約50件に上ります",
+    "url": "https://shachomeikan.jp/industry_article/5666",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "私たちTOKは、世の中に必要とされる機械要素部品を提供する部品メーカーです",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Medtec Japan 医療機器の設計・製造に関する展示会に出展いたします",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "海外向けに日本の製造業を紹介するサイト「dot B」に掲載されました！",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "山梨日日新聞に山梨工場長のインタビュー記事が掲載されました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Medtec Japan 医療機器の製造・設計に関する展示会に出展いたします",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ロックダウンに伴うＴＯＫ上海工場稼働状況について(第5報)",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ロックダウンに伴うＴＯＫ上海工場稼働状況について(第4報)",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ロックダウンに伴うＴＯＫ上海工場稼働状況について(第3報)",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ロックダウンに伴うＴＯＫ上海工場稼働状況について(第2報)",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ロックダウンに伴うＴＯＫ上海工場稼働状況について(第1報)",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "【無料Webセミナー】医療に活かせる！ゼロから学べるロータリーダンパー",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "医療器具開発デザインコンセプトの展示を致します",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Medtec Japan 医療機器の製造・設計に関する日本最大の展示会に出展いたします！",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "韮崎工業高等学校の学生さんがインターン実習に来ました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Medtec Japan 医療機器の製造・設計に関するアジア最大級の展示会 に出展します",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役 髙橋 大輔 （経営企画室・医療事業部・総務部）",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "前身のトック精工株式会社を吸収合併し、トックベアリング山梨工場として稼動開始",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "中国上海に上海拓闊精密緩沖軸承有限公司・工場稼動開始",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "上海工場 ISO9001：2008、ISO14001：2004認証取得",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "深セン工場、現地法人化にともない拓基精密部件(深セン)有限公司と社名変更",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "山梨工場の製造現場を動画でご案内しています",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製造業登録 １３ＢＺ２０１３２６",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "これまで当社は、世の中で必要とされる機構部品メーカーとして様々な製品を作りだしてきました",
+    "url": "https://tok-inc.com/about/top-message2.html",
+    "pass": 1
+   },
+   {
+    "quote": "これまでの商売をベースとしつつも、提供先の業界、領域を新しくしており、今後は医療業界への参入および海外展開を加速してまいります",
+    "url": "https://tok-inc.com/about/top-message2.html",
+    "pass": 1
+   },
+   {
+    "quote": "４７全県で宿泊",
+    "url": "https://tok-inc.com/about/top-message2.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちTOKは、世の中に必要とされる機械要素部品を提供する部品メーカーです",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Medtec Japan 医療機器の設計・製造に関する展示会に出展いたします",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "海外向けに日本の製造業を紹介するサイト「dot B」に掲載されました！",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "山梨日日新聞に山梨工場長のインタビュー記事が掲載されました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Medtec Japan 医療機器の製造・設計に関する展示会に出展いたします",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロックダウンに伴うＴＯＫ上海工場稼働状況について(第5報)",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロックダウンに伴うＴＯＫ上海工場稼働状況について(第4報)",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロックダウンに伴うＴＯＫ上海工場稼働状況について(第3報)",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロックダウンに伴うＴＯＫ上海工場稼働状況について(第2報)",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロックダウンに伴うＴＯＫ上海工場稼働状況について(第1報)",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "【無料Webセミナー】医療に活かせる！ゼロから学べるロータリーダンパー",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療器具開発デザインコンセプトの展示を致します",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Medtec Japan 医療機器の製造・設計に関する日本最大の展示会に出展いたします！",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "韮崎工業高等学校の学生さんがインターン実習に来ました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Medtec Japan 医療機器の製造・設計に関するアジア最大級の展示会 に出展します",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "通常、コインパーキングでは値段が重視され、時間あたりや一日最大料金を魅力的に設定し顧客を呼ぶハズ",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "新聞の書評欄にて、松本清張さんの“空の城”が商社を舞台にした良質な小説と知り、手に取りました",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "20年ほど前の駐在時はお客さまを訪問し案件のフォロー、動向確認、プレゼン、工場内で立会い成型をほぼ毎日行っていました",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "商社のお仕事がよくわかる、とのことでさっそく読んでみたところ、戦後の商社の動きを理解できる内容で大感動、ありがとうございました",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "今回のソウル出張は江南（カンナム）に宿泊しました",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "山梨工場勤務者以外が対象、工場は生産効率面も考慮し8月のお盆期間に一斉に取得する",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "デジタル化、最近ではAI化が進み世の中が便利になっても、物流（モノを運ぶ）のお仕事は無くならないと思います",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、物流業も運ぶモノが無ければ成り立たない",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "そうすると製造業、野菜を作るも含め、も大事です",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社にしか作れないもの、わたしの野菜も含め、を物流会社を通じてお客さまにお届けします",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "咽頭炎は治まったものの、咳が止まらずふたたび病院へ",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "まず致知を読んでみようとネット購入完了、出張中のカイロのホテルから",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "夜には熱が38.8℃まで上がりこりゃだめだ、、と寝たら翌朝に熱は落ちつくも心配なので病院で検査したところインフル、コロナは陰性で一安心",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社を紹介する冊子や学校の就職課、受賞歴、Webや新聞などなんらかの媒体から当社の情報をつかみ、HPにたどり着き、かつ当社に連絡をしてきた方を対象に説明会を開催します",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "この後泊まった別のホテルでは26文字すべて入っていたので、写真の電話はやや古かったのかも",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "あの頃は少年ジャンプだったお話、わたしの区民農園に始まり福島のキュウリ農家のリアルなお話など楽しい時間でした",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "お忙しいもののお元気そうで、こちらもエネルギーをもらいました",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "４７全県で宿泊",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "いままで通過はしても宿泊をしたことの無い県",
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "pass": 1
+   },
+   {
+    "quote": "営業としても４年のキャリアがあるだけに、製品にかける顧客の思いやこだわりには人一倍敏感です",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "「東京都ベンチャー技術大賞」受賞決定および「産業交流展2026」出展のお知らせ",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "TOKが開発したAPOLLOCK（アポロック）が「板橋製品技術大賞 最優秀賞」および「2026年度 グッドデザイン賞」を受賞しました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "TOKYOパパ育業促進企業の認定をいただきました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「健康経営優良法人2026（中小規模優良法人）」および「東京都 家庭と仕事の両立支援推進企業」に認定されました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の製品が令和７年度関東地方発明表彰発明奨励賞を受賞しました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の製品が「2025年度グッドデザイン賞」を受賞いたしました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "令和５年度関東地方発明表彰 発明奨励賞受賞のお知らせ",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "子育てサポート企業に送られる「くるみん認定」を取得しました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "第16回 板橋青年優秀技能者・技術者に選定されました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "TLD4･TLD7(バネ摩擦式トルクリミッタ)が2022年地方発明表彰関東経済産業局長賞を受賞いたしました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "採尿コップスタンドが令和４年度板橋製品技術大賞優秀賞を受賞いたしました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "健康経営優良法人2022（中小規模法人部門（ブライト500））に本年度も認定されました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「健康優良企業 金の認定証」を取得いたしました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "福利厚生表彰・認証制度「ハタラクエール2021」福利厚生推進法人に認証されました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "健康経営優良法人2021（中小規模法人部門（ブライト500））に認定されました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "第14回 板橋青年優秀技能者・技術者に選定されました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SRXがIAUD国際デザイン賞2020 公共空間デザイン部門銅賞を受賞",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のSRXがドイツのプロダクトデザイン賞を受賞しました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "健康経営優良法人2020(中小規模法人部門)に認定されました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "当社社員が第13回 板橋青年優秀技能者・技術者に選定されました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "令和元年度関東地方発明表彰式に出席しました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "地方発明表彰 特別賞「関東経済産業局長賞」を受賞しました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SRXがGood Design賞を受賞しました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "当社相談役吉川宏が2019年春の叙勲を受賞しました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "健康経営優良法人2019(中小規模法人部門)に認定されました",
+    "url": "https://tok-inc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ワンウェイクラッチ第15回発明大賞受賞",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "トルク可変多回転ダンパTD115中小企業優秀新技術・新製品賞受賞",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブラインド用クラッチ関東地方発明表彰・東京都知事賞受賞",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "『時差Biz』推進賞・ワークスタイル部門受賞",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "いたばし good balance 会社賞受賞",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "健康経営優良法人2019（中小規模法人部門）認定",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年度グッドデザイン賞受賞 受賞対象名：着脱装置［SRX］",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "関東地方発明表彰・特別賞『関東経済産業局長賞』受賞",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "健康経営優良法人2020（中小規模法人部門）認定",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "健康優良企業 金の認定 取得（2021年5月継続取得)",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Red Dot Design Award “Innovative Products” 受賞",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "SRX IAUD国際デザイン賞 銅賞 受賞",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "健康経営優良法人2021中小規模法人部門ブライト500認定（2022年継続中)",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "福利厚生表彰・認証制度「ハタラクエール2021」福利厚生推進法人に認証",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロータリーダンパ TD73 地方発明表彰・発明奨励賞受賞",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロータリーダンパTD116 発明大賞東京都知事賞受賞",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "経済産業大臣表彰 知的財産制度活用優良企業等（特許）を受賞",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度グッドデザイン賞受賞 受賞対象名：SR100",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロータリーダンパ TD140 令和7年度関東地方発明表彰発明奨励賞受賞",
+    "url": "https://tok-inc.com/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「東京都ベンチャー技術大賞」受賞決定および「産業交流展2026」出展のお知らせ",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "TOKが開発したAPOLLOCK（アポロック）が「板橋製品技術大賞 最優秀賞」および「2026年度 グッドデザイン賞」を受賞しました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "TOKYOパパ育業促進企業の認定をいただきました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「健康経営優良法人2026（中小規模優良法人）」および「東京都 家庭と仕事の両立支援推進企業」に認定されました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の製品が令和７年度関東地方発明表彰発明奨励賞を受賞しました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の製品が「2025年度グッドデザイン賞」を受賞いたしました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和５年度関東地方発明表彰 発明奨励賞受賞のお知らせ",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "子育てサポート企業に送られる「くるみん認定」を取得しました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "第16回 板橋青年優秀技能者・技術者に選定されました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "TLD4･TLD7(バネ摩擦式トルクリミッタ)が2022年地方発明表彰関東経済産業局長賞を受賞いたしました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "採尿コップスタンドが令和４年度板橋製品技術大賞優秀賞を受賞いたしました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "健康経営優良法人2022（中小規模法人部門（ブライト500））に本年度も認定されました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「健康優良企業 金の認定証」を取得いたしました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "福利厚生表彰・認証制度「ハタラクエール2021」福利厚生推進法人に認証されました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "健康経営優良法人2021（中小規模法人部門（ブライト500））に認定されました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "第14回 板橋青年優秀技能者・技術者に選定されました",
+    "url": "https://tok-inc.com/index.html",
+    "pass": 1
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "社員、株主、取引先、地域社会のすべてのステークホルダーにおいて重要なTOKであるために、なお一層の努力を続ける所存ですので、",
+    "url": "https://tok-inc.com/about/top-message2.html",
+    "pass": 1
+   },
+   {
+    "quote": "資本金：1億円",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/",
+    "pass": 3
+   },
+   {
+    "quote": "プリントシール機トップシェア、グッズやアニメなども手掛けるプライム上場企業",
+    "url": "https://shachomeikan.jp/industry_article/5666",
+    "pass": 3
+   },
+   {
+    "quote": "学校給食用の厨房機器において国内トップクラスのシェアを誇る、スタンダード上場企業",
+    "url": "https://shachomeikan.jp/industry_article/5666",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式 会社 TOK （ トックベアリング 株式 会社 ） | 輝く技術 光る ... — 株式 会社 TOK （ トックベアリング 株式 会社 ） | 輝く技術 光る ... 東京カイシャハッケン伝 https://www.kaisyahakken.metro.tokyo.lg.jp > tokbearing",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社TOK （ トックベアリング 株式会社） | 輝く技術 光る ... — 株式会社TOK （ トックベアリング 株式会社） | 輝く技術 光る ... 東京カイシャハッケン伝 https://www.kaisyahakken.metro.tokyo.lg.jp > tokbearing",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/",
+    "pass": 3
+   },
+   {
+    "quote": "トックベアリング 株式会社様 支援事例 | 東京中小企業投資育成 ... — トックベアリング 株式会社様 支援事例 | 東京中小企業投資育成 ... 中小企業投資育成 https://www.sbic.co.jp > case > detail05",
+    "url": "https://www.sbic.co.jp/case/detail05/",
+    "pass": 3
+   },
+   {
+    "quote": "トックベアリング 株式会社 | 会員紹介 | 一般社団法人日本 ... — トックベアリング 株式会社 | 会員紹介 | 一般社団法人日本 ... 日本ベアリング工業会 https://www.jbia.or.jp > industry > members",
+    "url": "https://www.jbia.or.jp/industry/members/20/",
+    "pass": 3
+   },
+   {
+    "quote": "トックベアリング 株式会社様 支援 事例 | 東京中小企業投資育成 ... — トックベアリング 株式会社様 支援 事例 | 東京中小企業投資育成 ... 中小企業投資育成 https://www.sbic.co.jp > case > detail05",
+    "url": "https://www.sbic.co.jp/case/detail05/",
+    "pass": 3
+   },
+   {
+    "quote": "「 トックベアリング 」の代理店・取扱店 - indexPro — 「 トックベアリング 」の代理店・取扱店 - indexPro indexPro https://www.indexpro.co.jp > ... > メーカー名から探す",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=1975",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://tok-inc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tok-inc.com/about/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tok-inc.com/about/top-message2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tok-inc.com/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tok-inc.com/about/top-message-blog-detail3.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://tok-inc.com/common/img/cont/img2327f4155_1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://tok-inc.com/common/img/cont/img_com.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shachomeikan.jp/industry_article/5666",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shachomeikan.jp/industry_article/5666",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/markets/kabu/stkcomp/?scode=4891&scode2=4588&scode3=2160",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.shizuoka-fg.co.jp/pdf/ir/2026/2026_securities_report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.misumi-ec.com/vona2/maker/tok/?srsltid=AYCX9vLEdMRWAAv0ytwLAI3vbNGpbNzs__Rdd_wBlQYNM8c_J21ScoAq",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tobuseiko.com/product/tok/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jbia.or.jp/industry/members/20/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "トックベアリング 会社概要 資本金 設立",
+   "results": [
+    "https://tok-inc.com/sp/about/index.html",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/",
+    "https://shachomeikan.jp/industry_article/5666",
+    "https://toiku-shukatsu.net/search/company/TE0555/index.html",
+    "https://www.sbic.co.jp/investeecompany/detail/index.php?id=214",
+    "https://metoree.com/companies/1614/",
+    "https://www.openwork.jp/a0C10000019Yws6/analysis/",
+    "https://tobuseiko.com/company/",
+    "https://www.jbia.or.jp/industry/members/20/",
+    "https://ja.wikipedia.org/wiki/TOK"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "トックベアリング 事業内容 売上",
+   "results": [
+    "https://tok-inc.com/sp/about/index.html",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/",
+    "https://shachomeikan.jp/industry_article/5666",
+    "https://www.sbic.co.jp/case/detail05/",
+    "https://www.jbia.or.jp/industry/members/20/",
+    "https://ja.nc-net.or.jp/company/91174/",
+    "https://www.youtube.com/watch?v=2UF0P3JXX-o",
+    "https://tobuseiko.com/product/tok/",
+    "https://jp.misumi-ec.com/vona2/maker/tok/?srsltid=AYCX9vKez0bZCKvxT_LzoEg3eWdKv4wng3O-H14yh_rd_1zcynfABncK",
+    "https://ja.wikipedia.org/wiki/TOK"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "トックベアリング 資金調達 株主",
+   "results": [
+    "https://tok-inc.com/sp/products/index3.html",
+    "https://www.nikkei.com/markets/kabu/stkcomp/?scode=4891&scode2=4588&scode3=2160",
+    "https://www.shizuoka-fg.co.jp/pdf/ir/2026/2026_securities_report.pdf",
+    "https://www.nikkan.co.jp/articles/view/422842",
+    "https://www.nsk.com/content/dam/nsk/jp/ja/company/investors/library/pdf/group_report/gr201003.pdf",
+    "https://tok-inc.com/sp/products/bearing1.html",
+    "https://www.minebeamitsumi.com/corp/investors/disclosure/filings/2013/__icsFiles/afieldfile/2013/06/27/h2503_filings.pdf",
+    "https://www.stcn.com/article/detail/4223270.html",
+    "https://jp.investing.com/news/pro/article-432SI-1733030",
+    "https://ja.wikipedia.org/wiki/TOK"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "トックベアリング 導入事例",
+   "results": [
+    "https://tok-inc.com/sp/products/index3.html",
+    "https://jp.misumi-ec.com/vona2/maker/tok/?srsltid=AYCX9vLEdMRWAAv0ytwLAI3vbNGpbNzs__Rdd_wBlQYNM8c_J21ScoAq",
+    "https://tobuseiko.com/product/tok/",
+    "https://www.sbic.co.jp/case/detail05/",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/",
+    "https://www.jtekt.co.jp/products/bearing/case-study/",
+    "https://azuma-eg.com/maker/tok/",
+    "https://www.youtube.com/watch?v=2UF0P3JXX-o",
+    "https://www.fukudaco.co.jp/casestudy/bearing/",
+    "https://www.nec-nexs.com/solution/case/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "トックベアリング 主要取引先",
+   "results": [
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/",
+    "https://tok-inc.com/sp/products/index3.html",
+    "https://www.jbia.or.jp/industry/members/20/",
+    "https://shachomeikan.jp/corporations/22049/intro",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=1975",
+    "https://jp.misumi-ec.com/vona2/maker/tok/?srsltid=AYCX9vJcc8FBTgWoqH71DHHf0bb7WgztCLo33LuTEajtN-HCwfPZFt-G",
+    "https://azuma-eg.com/maker/tok/",
+    "https://tobuseiko.com/product/tok/",
+    "https://ja.nc-net.or.jp/company/91174/",
+    "https://openbizgraph.com/detail/246101"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com トックベアリング",
+   "results": [
+    "https://note.com/tok_inc",
+    "https://note.com/3n7no_tech_pr/n/nbe5b5b422dff",
+    "https://note.com/tok_inc/n/n064bdced0d70",
+    "https://note.com/tok_inc/n/n77328cf107a3",
+    "https://note.com/cute_agapan9087/n/nc8eeb0732891",
+    "https://note.com/suzukake_coffee/n/n69eb53268f49",
+    "https://note.com/rapid_laelia840/n/nf1f53012ac8b",
+    "https://note.com/wag2021/n/nd92ba8ff41ea",
+    "https://note.com/ryog_desk/n/nda74ce41d1d6",
+    "https://note.com/nykx/n/n2ff9598dd008"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com トックベアリング",
+   "results": [
+    "https://x.com/wakadoshiyori_/status/2113881240571150570",
+    "https://x.com/FHT_Hokudai",
+    "https://x.com/kao_naru/status/2104084489739903224/photo/1",
+    "https://x.com/gam_brain_com/status/2119264035598488010",
+    "https://x.com/daito_hirakata",
+    "https://x.com/dominodaosi106",
+    "https://x.com/dominodaosi106/status/2106561908551913792",
+    "https://x.com/neruco2021",
+    "https://x.com/asuko209",
+    "https://x.com/rcteam_bathtub/status/2032844392688660989"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com トックベアリング",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E5%8D%8A%E5%B0%8E%E4%BD%93%E7%94%A8peek%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E4%B8%8A%E4%BD%8D%E4%BC%81%E6%A5%AD2026-pharmasummit-analytics-eo97e",
+    "https://jp.linkedin.com/pulse/%E3%83%94%E3%83%BC%E3%82%AF%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%A7%E3%82%B7%E3%82%A7%E3%82%A2%E3%82%92%E6%8C%81%E3%81%A4%E4%B8%96%E7%95%8C%E3%81%AE%E4%BC%81%E6%A5%AD-altrionc-hvm6e",
+    "https://jp.linkedin.com/pulse/%E7%89%B9%E6%AE%8A%E6%9D%90%E6%96%99%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E4%B8%BB%E8%A6%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E4%B8%80%E8%A6%A7-medverge-intelligence-lab-jepve",
+    "https://jp.linkedin.com/pulse/%E6%A5%AD%E7%95%8C%E3%81%AE%E5%B0%82%E9%96%80%E5%AE%B6%E3%81%AF%E8%87%AA%E5%8B%95%E6%B3%A8%E6%B2%B9%E5%BC%8F%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0-market-%E3%81%AE%E6%88%90%E9%95%B7%E3%82%922026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E9%96%93%E3%81%AB118%E3%81%AEcagr%E3%81%A7%E4%BA%88%E6%B8%AC%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-wag6e",
+    "https://jp.linkedin.com/pulse/%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B8%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E4%B8%8A%E4%BD%8D%E4%BC%81%E6%A5%AD2026-escrow-edge-egmoe",
+    "https://jp.linkedin.com/pulse/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%87%AA%E5%8B%95%E6%B3%A8%E6%B2%B9%E5%BC%8F%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B42026%E5%B9%B4%E7%89%88-seismic-scale-m7zhe",
+    "https://jp.linkedin.com/pulse/%E6%9C%AA%E6%9D%A5%E3%82%92%E6%8F%8F%E3%81%8F%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%88%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8C%85%E6%8B%AC%E7%9A%84%E5%88%86%E6%9E%9020262033-futurescout-analytics-mzx9e",
+    "https://jp.linkedin.com/pulse/%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0-market-trends-insights-type-application-vttee",
+    "https://jp.linkedin.com/pulse/%E3%83%94%E3%83%BC%E3%82%AF%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4%E3%81%AE%E5%89%8D%E5%B9%B4%E6%AF%94%E6%88%90%E9%95%B7%E7%8E%87%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6cagr-111%E3%81%A8%E3%81%AA%E3%82%8A%E5%8F%8E%E7%9B%8A%E3%81%A8%E9%9C%80%E8%A6%81%E3%81%AB%E7%84%A6%E7%82%B9%E3%82%92%E5%BD%93%E3%81%A6%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-drsve",
+    "https://jp.linkedin.com/pulse/%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3%E3%83%88%E3%83%AB%E3%82%AF%E3%83%AA%E3%83%9F%E3%83%83%E3%82%BF%E3%83%BC%E5%9B%BD%E5%86%85%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%A8%E3%82%B7%E3%82%A7%E3%82%A2-tube-track-zdlwe"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com トックベアリング",
+   "results": [
+    "https://www.facebook.com/100075903879632/posts/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AE%E8%8B%B1%E8%AA%9E1%E6%97%A5%E3%81%8A%E7%96%B2%E3%82%8C%E3%81%95%E3%81%BE%E3%81%A7%E3%81%97%E3%81%9F-%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%91%A8%E9%81%8A%E6%97%85%E8%A1%8C%E3%81%AE%E7%9B%B4%E5%BE%8C%E3%81%AB%E5%B0%B1%E8%81%B7%E7%A4%BE%E4%BC%9A%E4%BA%BA%E6%95%B0%E5%B9%B4%E7%9B%AE%E3%81%AE%E6%99%82%E7%82%B9%E3%81%A7%E3%81%AF%E8%8B%B1%E8%AA%9E%E3%81%AE%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%92%E8%AA%AD%E3%82%80%E3%81%AE%E3%81%AB%E8%BE%9E%E6%9B%B8%E3%82%92%E7%89%87%E6%89%8B%E3%81%AB%E3%81%A8%E3%81%A6%E3%82%82%E6%99%82%E9%96%93%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E8%87%AA%E5%8B%95%E7%BF%BB%E8%A8%B3%E3%82%BD%E3%83%95%E3%83%88/755825383624251/",
+    "https://www.facebook.com/100075903879632/posts/%E6%9C%AC%E6%97%A5%E3%81%AE%E3%81%A7%E3%81%8D%E3%81%94%E3%81%A81%E6%97%A5%E3%81%8A%E7%96%B2%E3%82%8C%E3%81%95%E3%81%BE%E3%81%A7%E3%81%97%E3%81%9F%E4%BC%9A%E8%AD%B0%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E7%B6%99%E7%B6%9A%E8%AD%B0%E6%A1%88%E3%81%8C%E3%81%82%E3%82%8B%E5%A0%B4%E5%90%88%E3%81%AF%E6%AC%A1%E3%81%AE%E6%97%A5%E7%A8%8B%E3%82%92%E6%B1%BA%E3%82%81%E3%82%8B%E3%81%B9%E3%81%8D%E3%81%A7%E3%81%9D%E3%81%86%E3%81%A7%E3%81%AA%E3%81%84%E3%81%AA%E3%82%89%E6%83%85%E5%A0%B1%E5%85%B1%E6%9C%89%E3%81%AF%E3%81%97%E3%81%A4%E3%81%A4%E5%BF%85%E8%A6%81%E3%81%AB%E5%BF%9C%E3%81%98%E5%8F%AC%E9%9B%86%E3%82%92%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8C%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E5%AE%9A%E4%BE%8B/938876288652492/",
+    "https://www.facebook.com/100075903879632/posts/%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%83%80%E3%83%B3%E3%83%91%E3%83%BC%E3%81%AE%E9%81%B8%E5%AE%9A%E3%81%A8%E8%93%8B%E3%81%AE%E9%96%89%E3%81%BE%E3%82%8A%E6%96%B9%E5%9E%82%E7%9B%B4%E9%96%89%E6%AD%A2%E3%81%AE%E5%A0%B4%E5%90%88%E4%B8%8A%E9%96%8B%E3%81%8D%E3%81%A7%E5%9E%82%E7%9B%B4%E3%81%AB%E9%96%89%E3%81%BE%E3%82%8B%E3%82%82%E3%81%AE%E3%81%AB%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%83%80%E3%83%B3%E3%83%91%E3%83%BC%E3%82%92%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91%E3%82%8B%E3%81%A8%E6%9C%80%E5%BE%8C%E3%81%BE%E3%81%A7%E9%96%89%E3%81%BE%E3%82%8A%E3%81%AB%E3%81%8F%E3%81%8F%E3%81%AA%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E5%A4%9A%E3%81%8F%E3%81%AE%E5%A0%B4%E5%90%88%E3%83%AD/527443536462438/",
+    "https://www.facebook.com/groups/cubcubclub/posts/9918444038259124/",
+    "https://www.facebook.com/groups/236741572019105/posts/1029193836107204/",
+    "https://www.facebook.com/japanexploretravel/videos/japanese-koi-the-oldest-stone-bridge-in-asakusa-tokyo-japan-%EF%B8%8F/1647832749278804/",
+    "https://www.facebook.com/PROXincorporation/videos/%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%89%E3%83%AA%E3%83%AB%E9%9B%BB%E5%8B%95%E7%94%A8%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%83%BC/483510785592766/",
+    "https://www.facebook.com/CityLittleRock/videos/your-feedback-matters-did-you-attend-clrcapitalcon-the-citys-new-financial-liter/341231548691805/",
+    "https://www.facebook.com/groups/944107910301425/posts/1830197988359075/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "トックベアリング note 社長",
+   "results": [
+    "https://tok-inc.com/",
+    "https://note.com/tok_inc",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/",
+    "https://shachomeikan.jp/industry_article/5666",
+    "https://www.youtube.com/watch?v=2UF0P3JXX-o",
+    "https://www.youtube.com/channel/UCj88w8cIuns0hqyDMjssA6Q",
+    "https://www.jbia.or.jp/industry/members/20/",
+    "https://www.instagram.com/reel/DDqrxDWvm4B/",
+    "https://ja.wikipedia.org/wiki/TOK",
+    "https://tok-inc.com/about/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "トックベアリング X 投稿",
+   "results": [
+    "https://tok-inc.com/sp/products/index3.html",
+    "https://azuma-eg.com/maker/tok/",
+    "https://tobuseiko.com/product/tok/",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/",
+    "https://www.youtube.com/watch?v=2UF0P3JXX-o",
+    "https://jp.misumi-ec.com/vona2/maker/tok/?srsltid=AYCX9vJzUqdFuej5uj1FbYl3Fwp96HZN_JYOlvwkz6S2r_KYMh1Pq52q",
+    "https://www.youtube.com/channel/UCj88w8cIuns0hqyDMjssA6Q",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=1975",
+    "https://x.com/TKING_edit/status/1552771635178278912",
+    "https://x.com/felixrieseberg/status/2119925633564463609"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部10頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部10頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部10頁・検索11回）"
+ }
+}

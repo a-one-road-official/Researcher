@@ -1,0 +1,932 @@
+{
+ "name": "Noxmetals",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T05:16:51.497567+00:00",
+ "official_url": "https://noxmetals.co/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Aluminum plate and bar, cut to size. Get instant pricing and delivery options online.",
+    "url": "https://noxmetals.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Precipitation hardening",
+    "url": "https://noxmetals.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Factos is an industrial superintelligence built by Nox Metals. It reads every order against our full inventory and schedule to find the best cut path, and it shows in your cost and lead time.",
+    "url": "https://noxmetals.co/",
+    "pass": 1
+   },
+   {
+    "quote": "The three-man shop in Michigan. The aerospace buyer juggling ten suppliers. The production manager who lost a contract over a late shipment. We built NOX for them.",
+    "url": "https://noxmetals.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer & Commercial Product Manager",
+    "url": "https://noxmetals.co/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Operations Systems Product Manager",
+    "url": "https://noxmetals.co/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Production Supervisor (LA)",
+    "url": "https://noxmetals.co/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Business Development Representative",
+    "url": "https://noxmetals.co/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Fewer than 40 software engineers work across the entire US metals supply industry. Not 40 per company. 40 total. The industry generates roughly $300B in annual revenue and has not meaningfully changed in decades: 6,300 companies, 98% of operations processes are not automated, fewer than 10% offering online quoting, and emails dominating 99.9% of transactions.",
+    "url": "https://www.operatorcollective.com/blog-posts/the-metal-shop-that-thinks-like-a-software-company-meet-nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "The largest players in this market run on monolithic ERP systems where replicating what Nox has built would require a multi-year, eight-figure replatform. No board will greenlight that project while existing orders are still processing.",
+    "url": "https://www.operatorcollective.com/blog-posts/the-metal-shop-that-thinks-like-a-software-company-meet-nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "The margin story in metals comes down to one thing: material yield. Traditional service centers lose 30-40% of every plate to scrap. WAYNE attacks that problem from every angle at once.",
+    "url": "https://www.operatorcollective.com/blog-posts/the-metal-shop-that-thinks-like-a-software-company-meet-nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "The full platform, called NOX NEST, handles everything from quote intake to shipping: instant algorithmic pricing, AI-parsed material lists, automated work orders, four-point quality control checklists with dual signatures, real-time order tracking, and self-service certificate delivery.",
+    "url": "https://www.operatorcollective.com/blog-posts/the-metal-shop-that-thinks-like-a-software-company-meet-nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "Nox Metals is an AI-powered metals supplier powering modern American manufacturing at scale. We are building automated factories that turn raw metal into production-ready material faster, cheaper, and more reliably than legacy service centers.",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "NOX METALS: The Factory is the Product",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "Nox Metals is building the metals processing platform of the future. Our vertically integrated factories run on software and automation to deliver lightning-fast, low-cost metal to our customers. Our goal: power the next industrial era by becoming the fastest, most advanced supplier to America’s industrial base.",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "factories, we build them to be the product.",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "Shorter lead times, real-time tracking, and predictable delivery.",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "Lower overhead means better prices. Faster cycle times mean more throughput for your factory.",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "Reduced overhead on our end means better pricing for you.",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "What is the core problem you are solving? Why is this a big problem? What made you decide to work on it?",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "Express Report、Daily Express",
+    "url": "https://www.youtube.com/watch?v=qhRV1cBG2lw&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "The Knowledge Project Podcast",
+    "url": "https://www.youtube.com/watch?v=qhRV1cBG2lw&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Early life and content creation",
+    "url": "https://www.youtube.com/watch?v=qhRV1cBG2lw&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/noxmetals.co",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/noxmetals.co",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "NOX METALS Raises an $11.5M Seed Round to Reindustrialize America",
+    "url": "https://noxmetals.co/",
+    "pass": 1
+   },
+   {
+    "quote": "7050 aluminum plate for thick aerospace structures. Choose the specified temper.",
+    "url": "https://noxmetals.co/",
+    "pass": 1
+   },
+   {
+    "quote": "7075 aluminum plate for aerospace parts and tooling. Choose the specified temper.",
+    "url": "https://noxmetals.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Factos is an industrial superintelligence built by Nox Metals. It reads every order against our full inventory and schedule to find the best cut path, and it shows in your cost and lead time.",
+    "url": "https://noxmetals.co/",
+    "pass": 1
+   },
+   {
+    "quote": "We track what American manufacturing needs and have it on our floor before you need it.",
+    "url": "https://noxmetals.co/",
+    "pass": 1
+   },
+   {
+    "quote": "The three-man shop in Michigan. The aerospace buyer juggling ten suppliers. The production manager who lost a contract over a late shipment. We built NOX for them.",
+    "url": "https://noxmetals.co/",
+    "pass": 1
+   },
+   {
+    "quote": "NOX METALS Raises an $11.5M Seed Round to Reindustrialize America",
+    "url": "https://noxmetals.co/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Join Nox Metals on a mission to reindustrialize America. Explore our open roles across engineering, manufacturing, and the teams that keep us moving.",
+    "url": "https://noxmetals.co/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Engineer",
+    "url": "https://noxmetals.co/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Manufacturing",
+    "url": "https://noxmetals.co/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Factory Technician - Weekday First Shift",
+    "url": "https://noxmetals.co/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Factory Technician - Weekday Second Shift",
+    "url": "https://noxmetals.co/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Factory Technician - Weekends First Shift",
+    "url": "https://noxmetals.co/careers",
+    "pass": 1
+   },
+   {
+    "quote": "This raise funds the build-out of a 30,000 square foot facility in Detroit and expansion to Los Angeles early next year. The longer-term vision is a national network of highly automated factories supplying cut metal to every company rebuilding American industrial capacity.",
+    "url": "https://www.operatorcollective.com/blog-posts/the-metal-shop-that-thinks-like-a-software-company-meet-nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "Nox Metals: Supplying America's Industrial Base | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "Supplying America's Industrial Base",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "Nox Metals is an AI-powered metals supplier powering modern American manufacturing at scale. We are building automated factories that turn raw metal into production-ready material faster, cheaper, and more reliably than legacy service centers.",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "Supplying factories across America with the fastest and lowest-cost metals.",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "NOX METALS Raises an $11.5M Seed Round to Reindustrialize America",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "NOX METALS: The Factory is the Product",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "Vertically integrated, automated metals factories built to move at software speed.",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "Nox Metals is building the metals processing platform of the future. Our vertically integrated factories run on software and automation to deliver lightning-fast, low-cost metal to our customers. Our goal: power the next industrial era by becoming the fastest, most advanced supplier to America’s industrial base.",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "Every part, from aerospace components to automotive tooling, starts with raw metal. But the supply chain that delivers it hasn’t changed in decades:",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "This slows down factories, raises costs, and makes American manufacturing less competitive.",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "factories, we build them to be the product.",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "Lower overhead means better prices. Faster cycle times mean more throughput for your factory.",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace, Defense, and Industrial Manufacturers",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "We’re live with aluminum plate and block today, expanding into steel, tube, and sheet next. If you run a factory and need raw metal faster and cheaper, let’s talk.",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "When your factory needs metal, ours is already working.",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "Factories waste time quoting, sourcing, and cutting aluminum blocks. It's slow, manual, and adds unnecessary overhead. This inefficiency compounds across thousands of jobs, dragging down margins and throughput. We started Nox to automate this layer and unlock speed and scale for modern manufacturing.",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Operations Associate",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "Reindustrializing America: Zane Hengsperger on Building Nox Metals and the Future of Manufacturing",
+    "url": "https://www.youtube.com/watch?v=qhRV1cBG2lw&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Returning to the factory",
+    "url": "https://www.youtube.com/watch?v=qhRV1cBG2lw&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Scaling with industrial machinery",
+    "url": "https://www.youtube.com/watch?v=qhRV1cBG2lw&vl=ja",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Fewer than 40 software engineers work across the entire US metals supply industry. Not 40 per company. 40 total. The industry generates roughly $300B in annual revenue and has not meaningfully changed in decades: 6,300 companies, 98% of operations processes are not automated, fewer than 10% offering online quoting, and emails dominating 99.9% of transactions.",
+    "url": "https://www.operatorcollective.com/blog-posts/the-metal-shop-that-thinks-like-a-software-company-meet-nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "Nox Metals Revenue 2025: $330K Est.",
+    "url": "https://getlatka.com/companies/noxmetals.co",
+    "pass": 3
+   },
+   {
+    "quote": "Nox Metals has not published its revenue. GetLatka estimates it at about $330K a year (September 2025).",
+    "url": "https://getlatka.com/companies/noxmetals.co",
+    "pass": 3
+   },
+   {
+    "quote": "Nox Metals has 3 employees (September 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/noxmetals.co",
+    "pass": 3
+   },
+   {
+    "quote": "What is Nox Metals' revenue?",
+    "url": "https://getlatka.com/companies/noxmetals.co",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Nox Metals' revenue at about",
+    "url": "https://getlatka.com/companies/noxmetals.co",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Nox Metals have?",
+    "url": "https://getlatka.com/companies/noxmetals.co",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/noxmetals.co",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/noxmetals.co",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/noxmetals.co",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/noxmetals.co",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Fewer than 40 software engineers work across the entire US metals supply industry. Not 40 per company. 40 total. The industry generates roughly $300B in annual revenue and has not meaningfully changed in decades: 6,300 companies, 98% of operations processes are not automated, fewer than 10% offering online quoting, and emails dominating 99.9% of transactions.",
+    "url": "https://www.operatorcollective.com/blog-posts/the-metal-shop-that-thinks-like-a-software-company-meet-nox-metals",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "NOX METALS - LinkedIn — NOX METALS - LinkedIn LinkedIn https://www.linkedin.com > noxmetals",
+    "url": "https://www.linkedin.com/company/noxmetals",
+    "pass": 3
+   },
+   {
+    "quote": "NOX METALS | Aluminum Plate Supplier | Instant Quotes — NOX METALS | Aluminum Plate Supplier | Instant Quotes nox metals https://noxmetals.co",
+    "url": "https://noxmetals.co/",
+    "pass": 3
+   },
+   {
+    "quote": "Meet Nox Metals By Allison Allen - Operator Collective — Meet Nox Metals By Allison Allen - Operator Collective Operator Collective https://www.operatorcollective.com > ...",
+    "url": "https://www.operatorcollective.com/blog-posts/the-metal-shop-that-thinks-like-a-software-company-meet-nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "NOX METALS (@ noxmetals ) / X — NOX METALS (@ noxmetals ) / X X https://x.com > noxmetals",
+    "url": "https://x.com/noxmetals",
+    "pass": 3
+   },
+   {
+    "quote": "Nox Metals : Supplying America's Industrial Base - Y Combinator — Nox Metals : Supplying America's Industrial Base - Y Combinator Y Combinator https://www.ycombinator.com > nox-...",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "Zane Hengsperger's NOX METALS tackles metal servicing ... — Zane Hengsperger's NOX METALS tackles metal servicing ... LinkedIn https://www.linkedin.com > posts > p...",
+    "url": "https://www.linkedin.com/posts/paigedoherty_why-we-invested-in-nox-metals-activity-7435790001495269376-Xg-a",
+    "pass": 3
+   },
+   {
+    "quote": "Nox Metals opens new factory in Ferndale — Nox Metals opens new factory in Ferndale Crain's Detroit https://www.crainsdetroit.com > cdb-...",
+    "url": "https://www.crainsdetroit.com/manufacturing-logistics/cdb-nox-metals-moves-to-ferndale-20260902/",
+    "pass": 3
+   },
+   {
+    "quote": "Zane Hengsperger (Founder/CEO, Nox Metals ) - Episode 13 — Zane Hengsperger (Founder/CEO, Nox Metals ) - Episode 13 YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=qhRV1cBG2lw&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Nox Metals launches metals processing platform ... - LinkedIn — Nox Metals launches metals processing platform ... - LinkedIn LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/y-combinator_nox-metals-yc-s25-is-building-the-metals-activity-7362151149312856066-41aT",
+    "pass": 3
+   },
+   {
+    "quote": "Nox Metals Revenue 2025: $330K Est. - GetLatka — Nox Metals Revenue 2025: $330K Est. - GetLatka GetLatka https://getlatka.com > noxmetals",
+    "url": "https://getlatka.com/companies/noxmetals.co",
+    "pass": 3
+   },
+   {
+    "quote": "NOX METALS Raises $11.5M to Rebuild US Metal Production — NOX METALS Raises $11.5M to Rebuild US Metal Production LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/y-combinator_nox-metals-has-raised-115-million-in-seed-activity-7472362308975939584-v2uq",
+    "pass": 3
+   },
+   {
+    "quote": "Nox Metals — venture-backed company profile - Dealroom — Nox Metals — venture-backed company profile - Dealroom Dealroom https://dealroom.co > nox-metals",
+    "url": "https://dealroom.co/companies/nox-metals/",
+    "pass": 3
+   },
+   {
+    "quote": "Why We Invested in Nox Metals - Behind Genius - Paige Doherty — Why We Invested in Nox Metals - Behind Genius - Paige Doherty Substack https://behindgenius.substack.com > ...",
+    "url": "https://behindgenius.substack.com/p/why-we-invested-in-nox-metals",
+    "pass": 3
+   },
+   {
+    "quote": "Nox Metals raises $4.6M to supply US industry. Founder on ... — Nox Metals raises $4.6M to supply US industry. Founder on ... LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/tbpn_in-news-nox-metals-yc-s25-raises-a-46m-activity-7376389450798411776-dOdq",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "NOX METALS (@ noxmetals ) / X NOX METALS (@ noxmetals ) / X X https://x.com > noxmetals",
+    "url": "https://x.com/noxmetals",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator on X: \" Nox Metals (@ noxmetals ) builds fully ... Y Combinator on X: \" Nox Metals (@ noxmetals ) builds fully ... X https://x.com > @ycombinator",
+    "url": "https://x.com/ycombinator/status/1956385405642871254",
+    "pass": 3
+   },
+   {
+    "quote": "NOX METALS on X: \"And here we go! Congrats on the order.\" / X NOX METALS on X: \"And here we go! Congrats on the order.\" / X X https://x.com > @noxmetals",
+    "url": "https://x.com/noxmetals/status/2118658121950499037",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "NOX METALS - LinkedIn NOX METALS - LinkedIn LinkedIn https://www.linkedin.com > noxmetals",
+    "url": "https://www.linkedin.com/company/noxmetals",
+    "pass": 3
+   },
+   {
+    "quote": "Zane Hengsperger - NOX METALS - LinkedIn Zane Hengsperger - NOX METALS - LinkedIn LinkedIn https://www.linkedin.com > zanehh",
+    "url": "https://www.linkedin.com/in/zanehh",
+    "pass": 3
+   },
+   {
+    "quote": "Nox Metals launches metals processing platform ... - LinkedIn Nox Metals launches metals processing platform ... - LinkedIn LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/y-combinator_nox-metals-yc-s25-is-building-the-metals-activity-7362151149312856066-41aT",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "A startup called Nox Metals is reviving a World War II A startup called Nox Metals is reviving a World War II Facebook https://www.facebook.com > posts > a-startup-called-nox-...",
+    "url": "https://www.facebook.com/ProudAmericanToBeAnAmericanUSA/posts/a-startup-called-nox-metals-is-reviving-a-world-war-ii-era-factory-in-the-motor-/1558946492928448/",
+    "pass": 3
+   },
+   {
+    "quote": "Nox Metals Now Stocking Stainless Round Bar 1/8\" to 4-1/2 Nox Metals Now Stocking Stainless Round Bar 1/8\" to 4-1/2 Facebook https://www.facebook.com > ... > Nox Metals > Videos",
+    "url": "https://www.facebook.com/61586796136699/videos/nox-is-now-stocking-stainless-round-bar-in-17-4-ph-303-304-316316l-and-416-from-/1788764055575271/",
+    "pass": 3
+   },
+   {
+    "quote": "Nox Metals Cnc Aluminum Plate Cutting Process - Facebook Nox Metals Cnc Aluminum Plate Cutting Process - Facebook Facebook https://www.facebook.com > fb-answers > nox-metals-cnc...",
+    "url": "https://www.facebook.com/fb-answers/nox-metals-cnc-aluminum-plate-cutting-process/?locale=ps_AF",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://noxmetals.co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://noxmetals.co/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newswitch.jp/p/50724",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niterragroup.com/business/#cat=auto",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://product.torexsemi.com/ja/sample-and-purchase/distributor?_pid=217100641024_1792195200155",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/44130/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nxp.jp/support/sample-and-buy/distributor-network:DISTRIBUTORS",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=5118",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/noxmetals",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.operatorcollective.com/blog-posts/the-metal-shop-that-thinks-like-a-software-company-meet-nox-metals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/noxmetals",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLi35D2KXS43ZW3O9AmawO_T5tt0NohSZric-QMUeFDhpUocHp5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/paigedoherty_why-we-invested-in-nox-metals-activity-7435790001495269376-Xg-a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/IndustrialMaintenance/comments/1sr3ra4/machine_manufacturing_as_a_service_post_went/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crainsdetroit.com/manufacturing-logistics/cdb-nox-metals-moves-to-ferndale-20260902/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.operatorcollective.com/blog-posts/the-metal-shop-that-thinks-like-a-software-company-meet-nox-metals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=qhRV1cBG2lw&vl=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/noxmetals.co",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_nox-metals-has-raised-115-million-in-seed-activity-7472362308975939584-v2uq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dealroom.co/companies/nox-metals/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://behindgenius.substack.com/p/why-we-invested-in-nox-metals",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/noxmetals",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ycombinator/status/1956385405642871254",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/noxmetals/status/2118658121950499037",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/noxmetals",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/zanehh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_nox-metals-yc-s25-is-building-the-metals-activity-7362151149312856066-41aT",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ProudAmericanToBeAnAmericanUSA/posts/a-startup-called-nox-metals-is-reviving-a-world-war-ii-era-factory-in-the-motor-/1558946492928448/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61586796136699/videos/nox-is-now-stocking-stainless-round-bar-in-17-4-ph-303-304-316316l-and-416-from-/1788764055575271/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/nox-metals-cnc-aluminum-plate-cutting-process/?locale=ps_AF",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/noxmetals",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/noxmetals",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Noxmetals 日本 導入",
+   "results": [
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://newswitch.jp/p/50724",
+    "https://www.niterragroup.com/business/mobility/",
+    "https://www.youtube.com/watch?v=iPUNBL9n__Q",
+    "https://techtimes.dexerials.jp/optics/future-of-mobility-japan/",
+    "https://www.autocar.jp/post/177746",
+    "https://www.mlit.go.jp/jidosha/jidosha_fr1_000038.html",
+    "https://www.firstcvc.jp/global/noxmetals.co",
+    "https://en.firstcvc.jp/global/noxmetals.co"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Noxmetals 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://product.torexsemi.com/ja/sample-and-purchase/distributor?_pid=217100641024_1792195200155",
+    "https://metoree.com/companies/44130/distributors/",
+    "https://www.nxp.jp/support/sample-and-buy/distributor-network:DISTRIBUTORS",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=5118",
+    "https://www.asteal.co.jp/partner.html",
+    "https://www.hits-company.co.jp/alliance/column/oem-business/",
+    "https://www.sakata-c.jp/news/%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD%E6%97%A5%E5%A0%B1%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F/",
+    "https://www.moriroku.co.jp/business/chemicals/business_field/Japan_exclusive_distributor.html",
+    "https://www.nadex.co.jp/about/trading/",
+    "https://noxmetals.co/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 23
+  },
+  {
+   "query": "Noxmetals Japan",
+   "results": [
+    "https://www.linkedin.com/company/noxmetals",
+    "https://noxmetals.co/",
+    "https://www.operatorcollective.com/blog-posts/the-metal-shop-that-thinks-like-a-software-company-meet-nox-metals",
+    "https://x.com/noxmetals",
+    "https://www.ycombinator.com/companies/nox-metals",
+    "https://www.noxmetals.com/",
+    "https://www.linkedin.com/posts/y-combinator_nox-metals-yc-s25-is-building-the-metals-activity-7362151149312856066-41aT",
+    "https://www.crainsdetroit.com/manufacturing-logistics/cdb-nox-metals-moves-to-ferndale-20260902/",
+    "https://www.deep-tech-week.com/organizations/nox-metals",
+    "https://yanokinzoku.co.jp/en/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Noxmetals manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLi35D2KXS43ZW3O9AmawO_T5tt0NohSZric-QMUeFDhpUocHp5",
+    "https://www.linkedin.com/posts/paigedoherty_why-we-invested-in-nox-metals-activity-7435790001495269376-Xg-a",
+    "https://www.reddit.com/r/IndustrialMaintenance/comments/1sr3ra4/machine_manufacturing_as_a_service_post_went/",
+    "https://www.crainsdetroit.com/manufacturing-logistics/cdb-nox-metals-moves-to-ferndale-20260902/",
+    "https://www.ycombinator.com/companies/nox-metals",
+    "https://www.desktopmetal.com/resources/case-studies",
+    "https://www.operatorcollective.com/blog-posts/the-metal-shop-that-thinks-like-a-software-company-meet-nox-metals",
+    "https://www.practicalmachinist.com/forum/threads/nox-metals-interesting-speed-software-driven-automation-and-disrupting-legacy-metal-supply-chains.452241/",
+    "https://www.youtube.com/watch?v=dQsN6iL9P1U",
+    "https://www.linkedin.com/posts/noxmetals_we-asked-a-few-of-our-customers-what-its-activity-7496232901194297345-qSxN"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Noxmetals white label OR reseller OR partner program",
+   "results": [
+    "https://www.operatorcollective.com/blog-posts/the-metal-shop-that-thinks-like-a-software-company-meet-nox-metals",
+    "https://www.ycombinator.com/companies/nox-metals",
+    "https://www.youtube.com/watch?v=qhRV1cBG2lw&vl=ja",
+    "https://noxmetals.co/",
+    "https://www.linkedin.com/posts/y-combinator_nox-metals-yc-s25-is-building-the-metals-activity-7362151149312856066-41aT",
+    "https://www.powerspod.com/reindustrializing-america-building-nox-metals-the-future-of-manufacturing-with-zane-hengsperger/",
+    "https://dealroom.co/companies/nox-metals/",
+    "https://sendcutsend.com/podcast/video/zane-hengsperger/?srsltid=AYCX9vK92yP1nPy_XcuAq7H_yFBgbgZnOSa3_0ulZEDFnQqCM1knZMMx",
+    "https://www.linkedin.com/in/zanehh",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Noxmetals founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/noxmetals.co",
+    "https://www.linkedin.com/posts/y-combinator_nox-metals-has-raised-115-million-in-seed-activity-7472362308975939584-v2uq",
+    "https://dealroom.co/companies/nox-metals/",
+    "https://behindgenius.substack.com/p/why-we-invested-in-nox-metals",
+    "https://www.linkedin.com/posts/tbpn_in-news-nox-metals-yc-s25-raises-a-46m-activity-7376389450798411776-dOdq",
+    "https://tracxn.com/d/companies/nox-metals/__X6lOo-DIkwISDiQ-gpP9hBo4Y8axbE5riDvJCwgFGiI",
+    "https://www.operatorcollective.com/blog-posts/the-metal-shop-that-thinks-like-a-software-company-meet-nox-metals",
+    "https://www.crunchbase.com/organization/nox-metals",
+    "https://pitchbook.com/profiles/company/894413-44",
+    "https://prospeo.io/c/nox-metals-revenue"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Noxmetals",
+   "results": [
+    "https://note.com/startup_now0708/n/na6f78b9684e2?hl=en",
+    "https://note.com/lucid_lynx8370/n/n5864b404bd59?hl=ko",
+    "https://note.com/seigot/n/n61ace6667aa0",
+    "https://note.com/dashboard",
+    "https://note.com/tonox/n/nb4f96f64b476?hl=en",
+    "https://note.com/noxnote/n/nb003bd8b3a69?hl=en",
+    "https://note.com/tonexus/n/n9dc9e298d57b",
+    "https://note.com/kino9988/n/n712dab997be3",
+    "https://note.com/nge555/n/n9be457d29844",
+    "https://note.com/osirius3150/n/n164c9a6f7cf8"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com Noxmetals",
+   "results": [
+    "https://x.com/noxmetals",
+    "https://x.com/ycombinator/status/1956385405642871254",
+    "https://x.com/noxmetals/status/2118658121950499037",
+    "https://x.com/ycombinator/status/2066596605755904378",
+    "https://x.com/KellyGibb2506",
+    "https://x.com/noxmetals/status/2102484606905647207",
+    "https://x.com/zanehengsperger",
+    "https://x.com/noxmetals/status/2119992743451660430",
+    "https://x.com/noxmetals/status/1946407691355668480",
+    "https://x.com/noxmetals/status/2113286826555211897"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Noxmetals",
+   "results": [
+    "https://www.linkedin.com/company/noxmetals",
+    "https://www.linkedin.com/in/zanehh",
+    "https://www.linkedin.com/pulse/metal-shop-thinks-like-software-company-meet-nox-metals-4dytc",
+    "https://www.linkedin.com/posts/y-combinator_nox-metals-yc-s25-is-building-the-metals-activity-7362151149312856066-41aT",
+    "https://www.linkedin.com/in/joshua-darakdjian",
+    "https://www.linkedin.com/posts/noxmetals_nox-metals-aluminum-plate-supplier-instant-activity-7461022067841232896-JtN8",
+    "https://www.linkedin.com/in/mike-fincannon-972587a6",
+    "https://www.linkedin.com/posts/tbpn_in-news-nox-metals-yc-s25-raises-a-46m-activity-7376389450798411776-dOdq",
+    "https://www.linkedin.com/posts/zanehh_nox-metals-exists-so-america-can-build-100x-activity-7472298123311140864-uJRp",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7387206758714478592/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Noxmetals",
+   "results": [
+    "https://www.facebook.com/ProudAmericanToBeAnAmericanUSA/posts/a-startup-called-nox-metals-is-reviving-a-world-war-ii-era-factory-in-the-motor-/1558946492928448/",
+    "https://www.facebook.com/61586796136699/videos/nox-is-now-stocking-stainless-round-bar-in-17-4-ph-303-304-316316l-and-416-from-/1788764055575271/",
+    "https://www.facebook.com/fb-answers/nox-metals-cnc-aluminum-plate-cutting-process/?locale=ps_AF",
+    "https://www.facebook.com/61586796136699/posts/introducing-factos-our-new-factory-operating-system-built-on-the-factory-floorev/122126347887226537/",
+    "https://www.facebook.com/forgebiologics/videos/the-next-best-thing-to-seeing-it-in-person-flying-through-it-take-an-aerial-look/1124810690546034/",
+    "https://www.facebook.com/100063503232933/videos/keep-grinding-and-growing-/1119321383987446/",
+    "https://www.facebook.com/insideblueprint/videos/nova-steel/4371683329732128/",
+    "https://www.facebook.com/p/Nox-Metals-61586796136699/",
+    "https://www.facebook.com/61586796136699/photos/122103622725226537/",
+    "https://www.facebook.com/61586796136699/videos/2014168162571721/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Noxmetals note 社長",
+   "results": [
+    "https://x.com/sadaaki",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Noxmetals X 投稿",
+   "results": [
+    "https://x.com/noxmetals",
+    "https://www.instagram.com/noxmetals.co/",
+    "https://www.linkedin.com/company/noxmetals",
+    "https://www.noxmetals.com/",
+    "https://noxmetals.co/",
+    "https://www.youtube.com/watch?v=qhRV1cBG2lw&vl=ja",
+    "https://www.ycombinator.com/companies/nox-metals",
+    "https://www.instagram.com/reel/DdMR1CmE8gG/",
+    "https://x.com/noxmetals/articles",
+    "https://x.com/noxmetals/status/2114774688903672073"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

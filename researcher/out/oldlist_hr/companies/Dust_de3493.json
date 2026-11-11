@@ -1,0 +1,2318 @@
+{
+ "name": "Dust",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜送付済み",
+ "researched_at": "2026-11-11T05:37:28.583625+00:00",
+ "official_url": "https://dust.tt/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$12,000",
+    "url": "https://prospeo.io/c/dust-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$21,600,000",
+    "url": "https://prospeo.io/c/dust-revenue",
+    "pass": 3
+   },
+   {
+    "label": "Investors",
+    "value": "Sequoia Capital, XYZ, GG1, Connect Ventures, Seedcamp, Motier Ventures",
+    "url": "https://dexteragent.ai/companies/dust-1771746471",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Paris, Île-de-France, France",
+    "url": "https://prospeo.io/c/dust-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2023",
+    "url": "https://prospeo.io/c/dust-revenue",
+    "pass": 3
+   },
+   {
+    "label": "Founded year",
+    "value": "Founded year：2023",
+    "url": "https://dexteragent.ai/companies/dust-1771746471",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "label": "Pricing Strategy",
+    "value": "Subscription-based",
+    "url": "https://dexteragent.ai/companies/dust-1771746471",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Dust brings your systems, models, and teams together so agents can coordinate complex work across your company. Teams get the flexibility to build and adapt agents, with the security and control enterprise AI requires.",
+    "url": "https://dust.tt/",
+    "pass": 1
+   },
+   {
+    "quote": "Dust's dual-layer permission model separates what agents can access from who can use them. SCIM-synced groups, admin-gated overrides, zero privilege escalation, and audit logs let teams move quickly while keeping company data locked down. Granular enough for your CISO, invisible to everyone else.",
+    "url": "https://dust.tt/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom data retention policies",
+    "url": "https://dust.tt/",
+    "pass": 1
+   },
+   {
+    "quote": "Single sign-on with your identity provider",
+    "url": "https://dust.tt/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated user provisioning and deprovisioning",
+    "url": "https://dust.tt/",
+    "pass": 1
+   },
+   {
+    "quote": "Shared workspace credits and volume pricing",
+    "url": "https://dust.tt/",
+    "pass": 1
+   },
+   {
+    "quote": "Priority support with an SLA",
+    "url": "https://dust.tt/",
+    "pass": 1
+   },
+   {
+    "quote": "Score and route inbound leads with your live ICP",
+    "url": "https://dust.tt/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate tailored proposals from past wins",
+    "url": "https://dust.tt/",
+    "pass": 1
+   },
+   {
+    "quote": "How Nexio Projects reached 88% daily AI usage in 4 months with Dust",
+    "url": "https://dust.tt/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How DataValue Strategy delivers EPM projects 20% faster with Dust",
+    "url": "https://dust.tt/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Apiday cut prospect enrichment from 7 days to 2 hours with Dust and Idoption",
+    "url": "https://dust.tt/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How ContentSquare's CS team turned customer context into a competitive advantage",
+    "url": "https://dust.tt/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Alma scaled AI from personal productivity to shared company infrastructure",
+    "url": "https://dust.tt/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Instantly uncover relevant product or prospect insights to deliver personalized responses",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Turn every rep into a top performer by sharing feedback and best practices.",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Craft account overviews with key past interactions, data, or news to prepare for meetings or account handovers.",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Answer prospect questions and RFPs instantly with fresh, expert insights on products, competitors, and security.",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Dust transformed our privacy reviews. It handles compliance checks, suggests improvements, and drafts communications. It both cuts our review time and helps pressure-test our legal interpretations.",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Privacy Officer at Didomi",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "It became evident that Dust could serve as a knowledgeable buddy for all staff, enhancing productivity whether you’re newly onboarded or a veteran team member.",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Product and Technology Officer at Kyriba",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Marketing at Fleet",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "We’re managing a higher volume of tickets and have cut processing time—from an average of 6 minutes per ticket to just a few seconds.",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": ", your knowledge base, and team expertise to adapt how you approach your sales process.",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Most AI tools follow basic rules. AI sales agents access your business context and can retain information within conversations. They work within your existing sales process rather than forcing you to change how you sell.",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Product documentation",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "tasks matter. When preparing for a call, they don't just pull random data. They:",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Analyze the prospect's industry",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "for RFPs. Connect your data, adjust the template using plain language prompts to match your process, and refine them based on feedback and results.",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": ", AI sales agents research company backgrounds, analyze funding status, assess technology stacks, and score prospects against your ideal customer profile.",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "template pulls data from your CRM, support tickets, product usage analytics, and market intelligence to create",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "comprehensive account briefings in minutes",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": ". Sales teams at PayFit and Alan use this capability to prepare for meetings and account handovers faster than manual research could ever achieve.",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "See how these teams gained 20% productivity",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "for prospect requests access your product specifications, compliance documentation, and previous successful responses to generate accurate, consistent answers. Kyriba's team saves",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "from call transcripts, CRM data, and relevant product information.",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Most sales automation is built for an average company that doesn't exist. Generic tools offer basic features but miss what makes your sales process work.",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Start with proven frameworks like",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Boost team productivity",
+    "url": "https://dust.tt/home/solutions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Keep teams in sync with real-time information across all channels and cut onboarding time for new joiners.",
+    "url": "https://dust.tt/home/solutions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Convert support interactions into insights, driving data-backed product and documentation improvements.",
+    "url": "https://dust.tt/home/solutions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Convert resolved tickets into searchable articles and FAQs, capturing best practices for future use.",
+    "url": "https://dust.tt/home/solutions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "We're managing a higher volume of tickets and have cut processing time—from an average of 6 minutes per ticket to just a few seconds.",
+    "url": "https://dust.tt/home/solutions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Dust transformed our privacy reviews. It handles compliance checks, suggests improvements, and drafts communications. It both cuts our review time and helps pressure-test our legal interpretations.",
+    "url": "https://dust.tt/home/solutions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Privacy Officer at Didomi",
+    "url": "https://dust.tt/home/solutions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "It became evident that Dust could serve as a knowledgeable buddy for all staff, enhancing productivity whether you’re newly onboarded or a veteran team member.",
+    "url": "https://dust.tt/home/solutions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Product and Technology Officer at Kyriba",
+    "url": "https://dust.tt/home/solutions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Marketing at Fleet",
+    "url": "https://dust.tt/home/solutions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "AI Marketing Agents: Create On-Brand Content at Scale | Dust",
+    "url": "https://dust.tt/home/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Create On-Brand Content At Scale",
+    "url": "https://dust.tt/home/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Scale content production, maintain brand consistency, and optimize reach across channels.",
+    "url": "https://dust.tt/home/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Elevate your content strategy to new heights",
+    "url": "https://dust.tt/home/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize impact by automating content creation and optimization tasks.",
+    "url": "https://dust.tt/home/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Maintain perfect brand alignment across all content and communication channels.",
+    "url": "https://dust.tt/home/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Transform your content workflow into an efficient, brand-compliant machine.",
+    "url": "https://dust.tt/home/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Transform raw content into polished, SEO-optimized pieces that align with brand guidelines.",
+    "url": "https://dust.tt/home/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Social media cross-posting",
+    "url": "https://dust.tt/home/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Create engaging UX and social media content that consistently reflects your brand identity.",
+    "url": "https://dust.tt/home/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor market movements and competitor activities to inform your content strategy and battle cards.",
+    "url": "https://dust.tt/home/solutions/marketing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Discover how AI Operators across departments are using Dust to rewire the way their companies work.",
+    "url": "https://dust.tt/",
+    "pass": 1
+   },
+   {
+    "quote": "The platform for AI Operators",
+    "url": "https://dust.tt/",
+    "pass": 1
+   },
+   {
+    "quote": "There's a new kind of person emerging in fast-moving companies; someone who doesn't wait for an AI tool to be handed to them. They build it with judgment, deploy it, and run it for their whole team. We call them AI Operators.",
+    "url": "https://dust.tt/",
+    "pass": 1
+   },
+   {
+    "quote": "Work is being rewritten. The pen is in the hands of AI Operators.",
+    "url": "https://dust.tt/",
+    "pass": 1
+   },
+   {
+    "quote": "The platform for AI Operators",
+    "url": "https://dust.tt/home/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "There's a new kind of person emerging in fast-moving companies; someone who doesn't wait for an AI tool to be handed to them. They build it with judgment, deploy it, and run it for their whole team. We call them AI Operators.",
+    "url": "https://dust.tt/home/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Work is being rewritten. The pen is in the hands of AI Operators.",
+    "url": "https://dust.tt/home/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We sat down with Michael Yang, AI Operations Manager, to hear how Dust became the spark for that transformation and quickly grew into a company-wide tool now used by more than 80% of employees.",
+    "url": "https://dust.tt/customers/how-persona-hit-80-ai-agent-adoption-with-dust",
+    "pass": 1
+   },
+   {
+    "quote": "Vanta needed a way to connect those sources of expertise and make them accessible across teams. The ideal solution would orchestrate data and context across multiple functions, while empowering team members—including non-technical operators—to build and use AI autonomously.",
+    "url": "https://dust.tt/customers/how-vantas-gtm-team-saves-thousands-of-hours-annually-with-dust",
+    "pass": 1
+   },
+   {
+    "quote": "is an enterprise sustainability platform used by companies like Airbnb, Carlyle Group, FedEx, Visa, and Dr. Martens to manage climate and ESG data, produce audit-ready metrics for voluntary and regulatory reporting including CSRD, and drive real decarbonization.",
+    "url": "https://dust.tt/customers/how-watershed-got-90-of-its-team-to-leverage-dust-agents",
+    "pass": 1
+   },
+   {
+    "quote": "As Jonathan explains, one of Watershed's co-founders, Avi Itskovich, had signed up for Dust as one of their AI experiments. \"Even though we had never invested in any form of official implementation, Dust was already actively used by part of the employee base,\" Jonathan explains.",
+    "url": "https://dust.tt/customers/how-watershed-got-90-of-its-team-to-leverage-dust-agents",
+    "pass": 1
+   },
+   {
+    "quote": "of China, yellow dust has become a serious health problem due to the increase of industrial",
+    "url": "https://en.wikipedia.org/wiki/Asian_Dust",
+    "pass": 3
+   },
+   {
+    "quote": "to irrigate Central Asian deserts, mainly for cotton plantations.",
+    "url": "https://en.wikipedia.org/wiki/Asian_Dust",
+    "pass": 3
+   },
+   {
+    "quote": "on society. Policy choices that favor rapid industrialization and deforestation in China, Mongolia, and other Central Asian regions impose social costs on Eastern countries, such as Korea, Japan, and Russia in the Far East.",
+    "url": "https://en.wikipedia.org/wiki/Asian_Dust",
+    "pass": 3
+   },
+   {
+    "quote": "Although the major components of yellow dust are sand and materials from the Earth's crust, various industrial pollutants and their by-products, including mercury,",
+    "url": "https://en.wikipedia.org/wiki/Asian_Dust",
+    "pass": 3
+   },
+   {
+    "quote": "Ai, Ning; Polenske, Karen R. (June 2008). \"Socioeconomic Impact Analysis of Yellow-dust Storms: An Approach and Case Study for Beijing\".",
+    "url": "https://en.wikipedia.org/wiki/Asian_Dust",
+    "pass": 3
+   },
+   {
+    "quote": "Organ transplantation",
+    "url": "https://en.wikipedia.org/wiki/Asian_Dust",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies by A.C.T. Dust Collectors | Industrial Applications",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Environments",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Robotic Welding Dust Collection System for Transportation Manufacturer",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "A leading transportation manufacturer needed a reliable dust collection system for its robotic welding operation after a previous collector failed. Welding smoke, fumes, and metal particulate were affecting air quality throughout the production facility, creating concerns about employee comfort, equipment cleanliness, and operational reliability. A.C.T. Dust Collectors...",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Robotic Welding Fume Extraction System for Automotive Supplier",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "A Tier 1 automotive supplier needed a robotic welding fume extraction system after relocating a production welding line to a new facility. The project required a complete solution to be designed, delivered, and operational in less than four weeks while maintaining production schedules and ensuring clean air from day one. A.C.T. Dust Collectors leveraged its engineering...",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "A Pennsylvania industrial manufacturer installed a new plasma cutting table to expand machining capabilities and increase production capacity. Once production increased, the facility quickly encountered a serious air quality issue caused by plasma cutting fumes. The existing ventilation setup could not effectively remove airborne smoke and contaminants generated during cutting...",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "A growing manufacturer of industrial nameplates needed a dust collection solution that could support expanding laser cutting operations while improving facility efficiency. After years of adding individual dust collectors alongside each new laser, the company reached a point where a centralized system offered greater flexibility for future growth. A.C.T. Dust Collectors...",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Dust Collection Systems for New Manufacturing Facility Buildout",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "A precision metal component manufacturer required multiple dust collection systems for a new facility buildout in a large manufacturing plant. The project involved retrofitting a 250,000 square foot building to support modern metalworking operations. A.C.T. Dust Collectors worked with a local dealer to design a system that would support airflow demands, improve efficiency, and...",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "A manufacturer of specialty alloys for the aerospace, medical, and electronics industries needed to replace a severely corroded dust collection system. Moisture from its titanium cutting process was causing ongoing corrosion issues that threatened system reliability and longevity. A.C.T. Dust Collectors designed a long-term solution using corrosion-resistant materials and a...",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "A Midwest-based industrial shredder manufacturer needed an effective dust collection system for weld smoke and fume in a new facility. The application presented multiple challenges, including limited floor space and large-scale fabrication work. A.C.T. Dust Collectors worked with a local distributor to design a system that captures airborne weld fumes while maintaining...",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "A large snack food manufacturer needed a food processing dust collection system to improve air quality and meet current safety standards. Their production process generated dust from ingredients like sugar and flour, creating both air quality concerns and potential explosion risks. A.C.T. Dust Collectors provided a solution designed to capture combustible dust, support safe...",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Weld Fume Dust Collection System for Door Manufacturing Facility",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "A door manufacturing company needed a dust collection system for a welding application but faced a major challenge with limited floor space. The facility required effective weld fume capture without disrupting production or reducing available workspace. A.C.T. Dust Collectors designed a compact solution that improved air quality while maximizing usable floor space within the...",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Spray Dust Collection System for Heavy Equipment Manufacturer",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "A global manufacturer of earth moving equipment needed a more effective dust collection solution for their thermal spray booths. Their existing systems were sourced from another provider but did not offer the performance and value required for ongoing operations. A.C.T. Dust Collectors evaluated the application and delivered a system that improved performance while reducing...",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Weld Fume Extraction for a Trailer Manufacturing Facility",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "A trailer manufacturer up north needed an effective weld fume extraction system to improve air quality inside their facility. Welding operations were generating airborne smoke and particulate, while the existing ventilation approach created additional operational challenges. A.C.T. Dust Collectors provided a solution designed to capture weld fumes, improve indoor air quality,...",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "A pharmaceutical manufacturer required multiple dust collection systems for a fluidized tablet coating process. The application generated fine airborne particulate that needed to be captured to maintain clean equipment and controlled production conditions. A.C.T. Dust Collectors provided a solution designed for high-efficiency filtration and compatibility with pharmaceutical...",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Blast Machine Dust Collector Upgrade for Exercise Equipment Manufacturer",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Cybex International, a leading manufacturer of premium exercise equipment needed to replace an aging dust collection system supporting their blast machine operation. The existing unit required frequent repairs and created maintenance challenges that impacted production efficiency. A.C.T. Dust Collectors provided a solution designed to improve airflow, simplify maintenance, and...",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Sandblasting Dust Collection System for Transformer Manufacturing",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "A power transformer manufacturer needed a dust collection system to support a new in-house sandblasting operation. The company previously outsourced sandblasting, which increased costs and extended production turnaround times. A.C.T. Dust Collectors designed a high-capacity dust collection system that allowed the manufacturer to bring the blasting process into its facility...",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Blasting and Welding Dust Collection System for Manufacturing Expansion",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer $225,000",
+    "url": "https://www.cwdusttech.com/wp-content/uploads/2020/03/CW-CaseStudy-KWS-FINAL.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "KWS Manufacturing Company",
+    "url": "https://www.cwdusttech.com/wp-content/uploads/2020/03/CW-CaseStudy-KWS-FINAL.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "KWS Manufacturing Company, an industry-leading manufacturer of mechanical",
+    "url": "https://www.cwdusttech.com/wp-content/uploads/2020/03/CW-CaseStudy-KWS-FINAL.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Rubber Manufacturing Dust Collection Case Study | A.C.T. Dust Collectors",
+    "url": "https://www.actdustcollectors.com/case-studies/rubber-application-preventing-the-release-of-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Environments",
+    "url": "https://www.actdustcollectors.com/case-studies/rubber-application-preventing-the-release-of-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "Dust Collection for Rubber Manufacturing and Emissions Control",
+    "url": "https://www.actdustcollectors.com/case-studies/rubber-application-preventing-the-release-of-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "An international tire manufacturer needed to improve air quality and emissions control during a rubber production process. At a key stage in manufacturing, airborne compounds and odors were being released, creating challenges for both workplace conditions and environmental control.",
+    "url": "https://www.actdustcollectors.com/case-studies/rubber-application-preventing-the-release-of-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "Tire / rubber manufacturing",
+    "url": "https://www.actdustcollectors.com/case-studies/rubber-application-preventing-the-release-of-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "During rubber manufacturing, certain processes can release airborne compounds, particulate, and odor into the environment.",
+    "url": "https://www.actdustcollectors.com/case-studies/rubber-application-preventing-the-release-of-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "The manufacturer experienced poor air quality within the facility",
+    "url": "https://www.actdustcollectors.com/case-studies/rubber-application-preventing-the-release-of-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "If your process involves rubber manufacturing, VOC control, or emissions management, A.C.T. Dust Collectors can design a system to improve air quality and support your operation.",
+    "url": "https://www.actdustcollectors.com/case-studies/rubber-application-preventing-the-release-of-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "What types of emissions are produced during rubber manufacturing?",
+    "url": "https://www.actdustcollectors.com/case-studies/rubber-application-preventing-the-release-of-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "Rubber manufacturing processes can produce airborne particulate, compounds, and odors. These emissions may include fine dust and volatile organic compounds (VOCs), which require proper filtration and treatment to maintain air quality.",
+    "url": "https://www.actdustcollectors.com/case-studies/rubber-application-preventing-the-release-of-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "A regenerative thermal oxidizer (RTO) is a system used to remove volatile organic compounds (VOCs) and odors from industrial exhaust streams by using high temperatures to break down pollutants.",
+    "url": "https://www.actdustcollectors.com/case-studies/rubber-application-preventing-the-release-of-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "Why are cartridge dust collectors used in manufacturing applications?",
+    "url": "https://www.actdustcollectors.com/case-studies/rubber-application-preventing-the-release-of-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "are commonly used in manufacturing because they provide high-efficiency filtration for fine particulate. They are compact, effective, and suitable for applications where consistent air quality and system integration are required.",
+    "url": "https://www.actdustcollectors.com/case-studies/rubber-application-preventing-the-release-of-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study — Dust Collection Enhancement in Chemical Manufacturing at Teknor Apex - Baghouse.com",
+    "url": "https://baghouse.com/case-study-dust-collection-enhancement-in-chemical-manufacturing-at-teknor-apex/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Dust Collection Systems",
+    "url": "https://baghouse.com/case-study-dust-collection-enhancement-in-chemical-manufacturing-at-teknor-apex/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Turn campaign goals into structured briefs grounded in your brand",
+    "url": "https://dust.tt/",
+    "pass": 1
+   },
+   {
+    "quote": "Create engaging UX and social media content that consistently reflects your brand identity.",
+    "url": "https://dust.tt/home/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Bring AI agents to your clients as a Dust service partner, reseller, or implementation specialist.",
+    "url": "https://dust.tt/home/partner",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies and consultancies implementing AI solutions for clients.",
+    "url": "https://dust.tt/home/partner",
+    "pass": 1
+   },
+   {
+    "quote": "Technology resellers and VARs with B2B customer bases.",
+    "url": "https://dust.tt/home/partner",
+    "pass": 1
+   },
+   {
+    "quote": "OEM Replacement Filters",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Replacement Filters",
+    "url": "https://www.actdustcollectors.com/case-studies/rubber-application-preventing-the-release-of-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program: Types, Benefits, and How to Launch",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "The market is demanding more integrated, flexible solutions, and collaborative go-to-market strategies have become a competitive necessity. For business leaders, understanding how to build, scale, and optimize a partner program can mean the difference between stagnation and outsized success.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "What is a partner program?",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "A partner program is a strategy that helps a business connect with sales and marketing channel partners who sell the company's products and services. Partners are also known as referral partners, resellers, and marketing partners.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the most successful SaaS companies, such as Salesforce, HubSpot, and Stripe, have built massive businesses leveraging partnerships. And yet advice on how to build your own partner program is hard to come by.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "In this guide, we’ll break down what a partner program is, the major types, actionable launch steps, and critical lessons from the world’s most successful software companies — so you can unlock new growth channels and future-proof your business.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Partner programs drive SaaS growth by connecting companies with tech, channel, and strategic partners. This article covers definitions, key types (tech, channel, strategic), and actionable tips to launch your own program. Expect a long-term investment — success depends on ecosystem thinking, executive buy-in, and a clear understanding of your business goals.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Why do partner programs matter?",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "What types of partner programs are there?",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "These are the partners that sell and service your product on your behalf. These are sometimes called “resellers” or “service integrators”",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "A channel partnership occurs when a vendor – typically a SaaS company (often referred to as an independent software vendor, or ISV) – collaborates with a third party that promotes, sells, and distributes the vendor’s product. Put simply, a",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "channel partner program",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Companies use channel partners to quickly grow their reach. SaaS vendors often hit a growth ceiling with a purely direct sales motion. Enter channel partners, who can be in more places and handle the heavy lifting in exchange for a cut of the sale.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Channel partners can cover geographic areas, market segments, or types of customers your direct sales can’t serve efficiently.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Your U.S.-based company is ready to expand into Japan. Rather than staffing up an office and negotiating distribution deals with Japanese companies, you can find a channel partner there. They handle your rollout in exchange for 30% of the yearly contracts they close. You grow faster with less investment, and they can get a new revenue source. Everyone wins.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Channel partnership examples:",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Deloitte acts as a value-added reseller (VAR) to resell and implement SAP products to their clients and customers.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic partnerships can (and often do) involve elements of tech and channel partnerships, but tend to be recurring, long-term commitments. They can also include co-branding, product roadmap development, and/or public relations.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "What to keep in mind before launching a partner program",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Here’s the tricky part about building a partner program: there’s no guidebook for partnerships. Good advice is hard to come by – especially when each partnership hinges on the unique offerings, cultures, structures, and maturity of each partner company.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Starting a partner program is a commitment of one to three years and you should expect not to see any revenue until around the ninth month at minimum. If your executive team can’t give you this runway, you won’t be successful. This is why so many partnership professionals demand",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "It’s best if your C-suite understands the commitment and that the partner program may take some time to bear some fruit.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "How long does it take for a new partner program to generate revenue?",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "No matter your partnership strategy, you will be exchanging data with your partner. Channel partners exchange leads, contact lists, and opportunities. Integration partners also exchange product data via bidirectional APIs.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "A modern partnership professional uses all three of these tools in concert to scale a partner program. And in true “meta” fashion, these tools often integrate with one another ensuring your sales team can get the partnership data when they need it to help close deals and avoid conflicts. Even if you can't use all the tools, it's important to at least employ the",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "White Label SEO Agency for Resellers and Agencies | SEOReseller",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Facebook Ads",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Link Building",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SEO & PPC Reseller Program",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We staked our results in the SEO industry with unparalleled campaigns for our agency and reseller partners and now also offer PPC and Paid Social options so that we can continue generating amazing results for all of our campaigns.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our white label SEO packages are designed from the ground up to generate results for all of your client campaigns. We’re ready to help your clients!",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our white label PPC reseller services will help your clients achieve positive ROI by leveraging our weekly optimizations and industry expertise.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Facebook ads",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Facebook Ads and Instagram Ads have risen in popularity and as a result we built a custom program for our resellers that will get results.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White label Tiktok ads",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Do you have clients asking you to run TikTok Ad campaigns? We have you covered with our white label TikTok Ads services that gets results!",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Content is king in this modern age of SEO and our white label content creation services will make sure your clients have the edge in the market.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White label link building",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Looking to learn more about our white label services that can help your agency grow and scale faster? Just click below to view our pricing and packages and get in touch with us to start handling your fulfillment to free you up!",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Solutions",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "for Agencies & Freelances",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Local SEO",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SEOReseller’s white label SEO programs and offerings are designed for optimal results for your clients. Our extensive years of experience in SEO and specifically white label will be sure to elevate the client results you see in your agency so you can be free to focus on growing and scaling.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label TikTok Ads",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Clients asking for white label TikTok Ads campaigns but unsure what to do next? Our experienced team has a lot of experience and expertise with TikTok Ads and can help get your campaigns better results on one of the fastest growing social platforms.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our white label Facebook Ads services are second to none in the industry. Our team of white label Facebook Ads experts will make sure your client campaigns are being optimized weekly and within the industry best practices.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our white label PPC services offer some of the highest quality leads you can get in the paid ads spectrum. Because Google Ads is keyword based our team of experts can help craft the best strategy to achieve a positive ROI for your clients using paid search on Google.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "“We are so impressed with SEOReseller! Your team really captured the essence of our company and what we do best! The way you executed our campaign exceeded all expectations, especially for an SEO agency – thank goodness there’s finally some good ones out there :)”",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "“With the help of SEOReseller, our team is able to provide better service and higher quality products for clients. They have allowed us to grow our business as it takes care of all aspects of SEO services!”",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "“I hope this email finds its way into your inbox because I wanted to personally thank each member who has helped with our SEO! We’re seeing the results since SEOReseller has been involved and we’re finally making some great progress with our online presence! Thanks to everyone who’s helped us get this way!”",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Roll up campaign data into actionable narratives",
+    "url": "https://dust.tt/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn raw queries into ready-to-share narratives",
+    "url": "https://dust.tt/",
+    "pass": 1
+   },
+   {
+    "quote": "How Bpifrance deployed agentic AI across 500 employees with Artefact and Dust",
+    "url": "https://dust.tt/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Extract winning narratives from calls and coach teams on pitch delivery and objection response.",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "We asked ourselves for years: what if your team had 20% more time? Dust has made it possible, empowering our employees to work smarter, innovate, and push boundaries.",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "for individual reps analyze call recordings to identify successful objection handling, spot coaching opportunities, and surface winning narratives.",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "We asked ourselves for years: what if your team had 20% more time? Dust has made it possible, empowering our employees to work smarter, innovate, and push boundaries.",
+    "url": "https://dust.tt/home/solutions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "We asked ourselves for years: what if your team had 20% more time? Dust has made it possible, empowering our employees to work smarter, innovate, and push boundaries.",
+    "url": "https://dust.tt/home/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "We asked ourselves for years: what if your team had 20% more time? Dust has made it possible, empowering our employees to work smarter, innovate, and push boundaries.",
+    "url": "https://dust.tt/home/solutions/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "We asked ourselves for years: what if your team had 20% more time? Dust has made it possible, empowering our employees to work smarter, innovate, and push boundaries.",
+    "url": "https://dust.tt/home/solutions/data-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "of Kyriba employees save more than 3 hours weekly",
+    "url": "https://dust.tt/home/solutions/knowledge",
+    "pass": 1
+   },
+   {
+    "quote": "Provide comprehensive product information and documentation support to all employees.",
+    "url": "https://dust.tt/home/solutions/knowledge",
+    "pass": 1
+   },
+   {
+    "quote": "We asked ourselves for years: what if your team had 20% more time? Dust has made it possible, empowering our employees to work smarter, innovate, and push boundaries.",
+    "url": "https://dust.tt/home/solutions/knowledge",
+    "pass": 1
+   },
+   {
+    "quote": "AI IT Support Agents: Automate Support, Empower Employees | Dust",
+    "url": "https://dust.tt/home/solutions/it",
+    "pass": 1
+   },
+   {
+    "quote": "Automate Support, Empower Employees",
+    "url": "https://dust.tt/home/solutions/it",
+    "pass": 1
+   },
+   {
+    "quote": "Guide employees through procurement processes and requirements with automated assistance.",
+    "url": "https://dust.tt/home/solutions/it",
+    "pass": 1
+   },
+   {
+    "quote": "We asked ourselves for years: what if your team had 20% more time? Dust has made it possible, empowering our employees to work smarter, innovate, and push boundaries.",
+    "url": "https://dust.tt/home/solutions/it",
+    "pass": 1
+   },
+   {
+    "quote": "We asked ourselves for years: what if your team had 20% more time? Dust has made it possible, empowering our employees to work smarter, innovate, and push boundaries.",
+    "url": "https://dust.tt/home/solutions/legal",
+    "pass": 1
+   },
+   {
+    "quote": "Provide new employees with personalized guidance through company processes and culture.",
+    "url": "https://dust.tt/home/solutions/recruiting-people",
+    "pass": 1
+   },
+   {
+    "quote": "We asked ourselves for years: what if your team had 20% more time? Dust has made it possible, empowering our employees to work smarter, innovate, and push boundaries.",
+    "url": "https://dust.tt/home/solutions/recruiting-people",
+    "pass": 1
+   },
+   {
+    "quote": "of Kyriba employees save more than 3 hours weekly",
+    "url": "https://dust.tt/home/solutions/productivity",
+    "pass": 1
+   },
+   {
+    "quote": "The Dust platform is more than just a tool for post-ideation; it's a catalyst for innovation, stimulating idea generation as employees engage with it.",
+    "url": "https://dust.tt/home/solutions/productivity",
+    "pass": 1
+   },
+   {
+    "quote": "We asked ourselves for years: what if your team had 20% more time? Dust has made it possible, empowering our employees to work smarter, innovate, and push boundaries.",
+    "url": "https://dust.tt/home/solutions/productivity",
+    "pass": 1
+   },
+   {
+    "quote": "Attractive partner margins and recurring revenue from customer deployments.",
+    "url": "https://dust.tt/home/partner",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise is best for organizations that need advanced security and admin controls, dedicated support, custom terms, or more flexible usage arrangements at scale. This includes needs like SCIM, audit logs, SLAs, hands-on onboarding, and Customer Success support.",
+    "url": "https://dust.tt/home/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Since joining Clay's GTM Operations team in September 2024, her mission has been to figure out how to efficiently support the meteoric growth of the GTM engineer team—specifically with the help of AI. Her focus narrowed to two critical priorities:",
+    "url": "https://dust.tt/customers/clay-scaling-gtme-team",
+    "pass": 1
+   },
+   {
+    "quote": "But the pace of knowledge acquisition at Clay is remarkable. With 10+ integrations launching every month and countless feature updates, GTMEs must stay current with the rapidly evolving product to deliver the best customer experience. And Caren recognized that the traditional “onboarding buddy” approach wouldn't suit this fast-moving, agile team.",
+    "url": "https://dust.tt/customers/clay-scaling-gtme-team",
+    "pass": 1
+   },
+   {
+    "quote": "For any tool to succeed, it needs to fit naturally into existing workflows. Caren embedded Dust directly into Slack, where Clay employees spend most of their time. Specifically, she created a separate channel where the GTME team could ask the Dust agent their questions.",
+    "url": "https://dust.tt/customers/clay-scaling-gtme-team",
+    "pass": 1
+   },
+   {
+    "quote": "—with especially high usage among newer employees.",
+    "url": "https://dust.tt/customers/clay-scaling-gtme-team",
+    "pass": 1
+   },
+   {
+    "quote": "95% internal adoption across 120+ employees without extensive training",
+    "url": "https://dust.tt/customers/part-1-assembled-ai-operating-system",
+    "pass": 1
+   },
+   {
+    "quote": "By early 2024, the company had grown to nearly 120 employees and was evolving at a rapid pace. That growth accelerated even further when Assembled made a pivotal shift: launching",
+    "url": "https://dust.tt/customers/part-1-assembled-ai-operating-system",
+    "pass": 1
+   },
+   {
+    "quote": "Even though employees were individually strong at using AI, their approaches weren’t shared or standardized. “Everyone at Assembled is really good at using AI,” Cassandra says. “The problem was everyone was using different tools like ChatGPT, Claude, Cursor, Runway, and none of it was shared. Amazing things were happening individually, but it was all siloed.”",
+    "url": "https://dust.tt/customers/part-1-assembled-ai-operating-system",
+    "pass": 1
+   },
+   {
+    "quote": "Without a reliable way to find information, onboarding slowed, work was duplicated, and employees frequently had to ask colleagues where documents lived, which created friction and frustration across teams.",
+    "url": "https://dust.tt/customers/part-1-assembled-ai-operating-system",
+    "pass": 1
+   },
+   {
+    "quote": "The first company-wide unlock was simple but transformative: Dust gave employees one place to search across all their tools. With a single query, teams could pull information from:",
+    "url": "https://dust.tt/customers/part-1-assembled-ai-operating-system",
+    "pass": 1
+   },
+   {
+    "quote": "As employees embraced search, they began building specialized Dust agents for their own workflows:",
+    "url": "https://dust.tt/customers/part-1-assembled-ai-operating-system",
+    "pass": 1
+   },
+   {
+    "quote": "To reinforce learning across teams, Assembled created an internal AI Collective, which is a monthly gathering where employees share agents they’ve built and collaboratively troubleshoot new ideas. Hackathons, working sessions, and async sharing quickly followed",
+    "url": "https://dust.tt/customers/part-1-assembled-ai-operating-system",
+    "pass": 1
+   },
+   {
+    "quote": "Dust unified Assembled’s fragmented knowledge ecosystem. Employees no longer guess which system contains the latest information—they simply ask Dust.",
+    "url": "https://dust.tt/customers/part-1-assembled-ai-operating-system",
+    "pass": 1
+   },
+   {
+    "quote": "At the heart of Kyriba's success is a deep-rooted commitment to innovation. \"At Kyriba, our approach to innovation is centered on creating a conducive environment where employees from all departments and levels can contribute innovative ideas,\" explains",
+    "url": "https://dust.tt/customers/kyriba-accelerating-innovation-with-dust",
+    "pass": 1
+   },
+   {
+    "quote": "\"We evaluated numerous Large Language Model options to understand which tool would best serve our employees. Dust stood out because it integrates multiple LLMs into a single platform, eliminating the need to choose among them. This means we could access a variety of LLMs at the cost of one, with prices comparable to OpenAI's per-employee pricing.\"",
+    "url": "https://dust.tt/customers/kyriba-accelerating-innovation-with-dust",
+    "pass": 1
+   },
+   {
+    "quote": "Kyriba's journey with Dust began with a vision to empower employees to prototype ideas more efficiently. The company adopted a community-driven approach to AI implementation, encouraging employees to experiment freely with their ideas. This strategy has led to organic adoption and creativity across various departments.",
+    "url": "https://dust.tt/customers/kyriba-accelerating-innovation-with-dust",
+    "pass": 1
+   },
+   {
+    "quote": "\"By empowering individuals across various departments to integrate Dust into their own workflows, we witnessed organic adoption and creativity. We quickly realized that the Dust platform is more than just a tool for post-ideation; it's a catalyst for innovation, stimulating idea generation as employees engage with it.\"",
+    "url": "https://dust.tt/customers/kyriba-accelerating-innovation-with-dust",
+    "pass": 1
+   },
+   {
+    "quote": "\"It became evident that Dust could serve as a powerful \"co-pilot\" for both onboarding new employees and supporting long-term staff across various functions. From Customer Support to Software Engineering, everyone could leverage Dust as a knowledgeable buddy to enhance their productivity and efficiency.\"",
+    "url": "https://dust.tt/customers/kyriba-accelerating-innovation-with-dust",
+    "pass": 1
+   },
+   {
+    "quote": "The integration of Dust AI agents into Kyriba's daily operations has yielded significant efficiency gains across the organization. To quantify these improvements, Kyriba conducted an internal survey, asking employees to estimate their weekly time savings attributed to the use of AI agents.",
+    "url": "https://dust.tt/customers/kyriba-accelerating-innovation-with-dust",
+    "pass": 1
+   },
+   {
+    "quote": "How Bpifrance deployed agentic AI across 500 employees with Artefact and Dust",
+    "url": "https://dust.tt/customers/kyriba-accelerating-innovation-with-dust",
+    "pass": 1
+   },
+   {
+    "quote": "We sat down with Michael Yang, AI Operations Manager, to hear how Dust became the spark for that transformation and quickly grew into a company-wide tool now used by more than 80% of employees.",
+    "url": "https://dust.tt/customers/how-persona-hit-80-ai-agent-adoption-with-dust",
+    "pass": 1
+   },
+   {
+    "quote": "It worked, but only up to a point. The system was complex and brittle, with multiple agents chained together to handle narrow tasks. “It still relied on engineers to self-triage,” Michael explains. “You’d have to check the thread, see if it was yours, or just jump in because no one else had yet.” The setup provided context, but it didn’t ease the firehose of questions engineers faced every day.",
+    "url": "https://dust.tt/customers/how-persona-hit-80-ai-agent-adoption-with-dust",
+    "pass": 1
+   },
+   {
+    "quote": "The visibility of Dust in Slack lowered the barrier to experimentation. Subject-matter experts began publishing their own niche, specialized agents for their teams. Some were simple, others were more sophisticated, but together they created momentum.",
+    "url": "https://dust.tt/customers/how-persona-hit-80-ai-agent-adoption-with-dust",
+    "pass": 1
+   },
+   {
+    "quote": "“We don’t expect every agent to be perfect,” Michael explains. “Our philosophy is: let a thousand flowers bloom. Even if an agent is rough, it’s educational. And once people see how easy it is to build agents on Dust, better versions come quickly.” That philosophy wasn’t just about volume. By making it easy for anyone to try building an agent, Persona gave employees a way to learn AI by doing.",
+    "url": "https://dust.tt/customers/how-persona-hit-80-ai-agent-adoption-with-dust",
+    "pass": 1
+   },
+   {
+    "quote": "More recently, Dust added feedback capture directly inside Slack, giving employees an easy way to flag when an answer is off. While still early, that signal has become a valuable data point to spot gaps and improve the agent over time.",
+    "url": "https://dust.tt/customers/how-persona-hit-80-ai-agent-adoption-with-dust",
+    "pass": 1
+   },
+   {
+    "quote": "Finance built one for usage insights and revenue signals.",
+    "url": "https://dust.tt/customers/how-vantas-gtm-team-saves-thousands-of-hours-annually-with-dust",
+    "pass": 1
+   },
+   {
+    "quote": "And the quality of output improved in parallel. Reps now go into meetings with data-rich, narrative-ready decks that reflect the latest insights from every corner of the company.",
+    "url": "https://dust.tt/customers/how-vantas-gtm-team-saves-thousands-of-hours-annually-with-dust",
+    "pass": 1
+   },
+   {
+    "quote": "Importantly, it’s not just engineers who are building. Non-technical employees are actively creating and refining agents too, turning experimentation into everyday habit.",
+    "url": "https://dust.tt/customers/how-vantas-gtm-team-saves-thousands-of-hours-annually-with-dust",
+    "pass": 1
+   },
+   {
+    "quote": "The human response has been as striking as the metrics. Internal channels are filled with feedback like “Wow, this is awesome.” Employees who once felt intimidated by AI now see it as part of their daily workflow.",
+    "url": "https://dust.tt/customers/how-vantas-gtm-team-saves-thousands-of-hours-annually-with-dust",
+    "pass": 1
+   },
+   {
+    "quote": "But the real shift was cultural. Employees stopped asking what AI could do",
+    "url": "https://dust.tt/customers/how-vantas-gtm-team-saves-thousands-of-hours-annually-with-dust",
+    "pass": 1
+   },
+   {
+    "quote": "As Jonathan explains, one of Watershed's co-founders, Avi Itskovich, had signed up for Dust as one of their AI experiments. \"Even though we had never invested in any form of official implementation, Dust was already actively used by part of the employee base,\" Jonathan explains.",
+    "url": "https://dust.tt/customers/how-watershed-got-90-of-its-team-to-leverage-dust-agents",
+    "pass": 1
+   },
+   {
+    "quote": "To encourage more employees to use AI, Watershed launched multiple coordinated tactics to drive successful adoption:",
+    "url": "https://dust.tt/customers/how-watershed-got-90-of-its-team-to-leverage-dust-agents",
+    "pass": 1
+   },
+   {
+    "quote": "The Watershed team also focused on lowering barriers for employees. “Some people are naturally early adopters and love to tinker, but most people aren’t like that. For those employees, it helps to have someone they can ask questions to or partner with,” Jonathan says.",
+    "url": "https://dust.tt/customers/how-watershed-got-90-of-its-team-to-leverage-dust-agents",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to Dust, Watershed has unlocked AI use cases across a variety of functions. “The biggest success we’ve seen with Dust has been as a general-purpose tool that many people have been able to use across different functions. It’s been great to see so many employees get up to speed on",
+    "url": "https://dust.tt/customers/how-watershed-got-90-of-its-team-to-leverage-dust-agents",
+    "pass": 1
+   },
+   {
+    "quote": ": Watershed also built a Dust agent that acts as a performance review coach, which quickly gained widespread adoption. “About a third of the company uses this agent for reviews,” Vinjai says. The agent guides employees on how to approach and write their reviews more thoughtfully.",
+    "url": "https://dust.tt/customers/how-watershed-got-90-of-its-team-to-leverage-dust-agents",
+    "pass": 1
+   },
+   {
+    "quote": "A clear signal of success has been the rapid adoption of Dust across the organization. Watershed went from having 20% to 90% of employees actively using the platform within months, bringing them closer to their goal of making AI an embedded part of every employee’s work.",
+    "url": "https://dust.tt/customers/how-watershed-got-90-of-its-team-to-leverage-dust-agents",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Auto-log calls, emails, and next steps after every touch",
+    "url": "https://dust.tt/",
+    "pass": 1
+   },
+   {
+    "quote": "Create targeted cold emails and automated meeting follow-ups using call transcripts, CRM data and industry insights.",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "personalized follow-up emails",
+    "url": "https://dust.tt/home/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "—chat, voice, email, and a live-agent co-pilot—all at once.",
+    "url": "https://dust.tt/customers/part-1-assembled-ai-operating-system",
+    "pass": 1
+   },
+   {
+    "quote": ": Sales development reps created a Dust agent to research prospects and draft outbound emails. The agent follows a basic playbook, returning key information in a clear, digestible format that reps then use to personalize their outreach.",
+    "url": "https://dust.tt/customers/how-watershed-got-90-of-its-team-to-leverage-dust-agents",
+    "pass": 1
+   },
+   {
+    "quote": "We recently switched to a new login system. Please enter the email you registered with and follow the instructions.",
+    "url": "https://jisho.org/search/dust",
+    "pass": 3
+   },
+   {
+    "quote": "info@actdustcollectors.com",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "info@actdustcollectors.com",
+    "url": "https://www.actdustcollectors.com/case-studies/rubber-application-preventing-the-release-of-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "Years ago, software was a monolith. Your email, word processor, and payment solution were all made by the same company that likely charged your company a massive yearly bill.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "In a modern business, you can use one tool to send emails, one to close deals, and another to communicate with your teammates.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "“I hope this email finds its way into your inbox because I wanted to personally thank each member who has helped with our SEO! We’re seeing the results since SEOReseller has been involved and we’re finally making some great progress with our online presence! Thanks to everyone who’s helped us get this way!”",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/dust-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Dustとは？機能・料金・導入事例 | AI実装研究所",
+    "url": "https://ai-jisso.jp/products/dust/",
+    "pass": 3
+   },
+   {
+    "quote": "Web SaaSとして日本から利用相談可能",
+    "url": "https://ai-jisso.jp/products/dust/",
+    "pass": 3
+   },
+   {
+    "quote": "日本法人・日本語契約・国内サポートは公式公開情報で確認できない",
+    "url": "https://ai-jisso.jp/products/dust/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、日本語文書要約にはClaude-3、数値分析にはGPT-4、多言語翻訳にはGemini Proを動的に振り分け、コストパフォーマンスと精度の両立を図っている",
+    "url": "https://ai-biz-tools.com/blog/dust-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "により日本語入力・出力に完全対応しています",
+    "url": "https://ai-biz-tools.com/blog/dust-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語文書の意味解析や回答生成も、英語と同等の精度で実行可能です",
+    "url": "https://ai-biz-tools.com/blog/dust-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、テクニカルサポートは英語対応が中心で、日本語サポートは限定的です",
+    "url": "https://ai-biz-tools.com/blog/dust-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、Dustの機能や活用方法、導入事例などを詳しく解説し、その魅力に迫ります",
+    "url": "https://generative-ai.co.jp/usecase/data-analytics-ai/ai-startup-usecase-dust/",
+    "pass": 3
+   },
+   {
+    "quote": "Content in this edit is translated from the existing Japanese Wikipedia article at [[:Ja:黄砂]]; see its history for attribution.",
+    "url": "https://en.wikipedia.org/wiki/Asian_Dust",
+    "pass": 3
+   },
+   {
+    "quote": "Dust clouds leaving mainland China and traveling toward Korea and Japan",
+    "url": "https://en.wikipedia.org/wiki/Asian_Dust",
+    "pass": 3
+   },
+   {
+    "quote": "Asian dust soars in the arid regions of mainland China and rides on the wind to descend to regions such as Japan.",
+    "url": "https://en.wikipedia.org/wiki/Asian_Dust",
+    "pass": 3
+   },
+   {
+    "quote": ". Several research studies conducted in Korea and Japan focused on respiratory function performance by measuring",
+    "url": "https://en.wikipedia.org/wiki/Asian_Dust",
+    "pass": 3
+   },
+   {
+    "quote": "on society. Policy choices that favor rapid industrialization and deforestation in China, Mongolia, and other Central Asian regions impose social costs on Eastern countries, such as Korea, Japan, and Russia in the Far East.",
+    "url": "https://en.wikipedia.org/wiki/Asian_Dust",
+    "pass": 3
+   },
+   {
+    "quote": ", Japan, on April 2, 2007.",
+    "url": "https://en.wikipedia.org/wiki/Asian_Dust",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese). ceis22. 一般社団法人 環境情報科学センター:",
+    "url": "https://en.wikipedia.org/wiki/Asian_Dust",
+    "pass": 3
+   },
+   {
+    "quote": "Articles needing translation from Japanese Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Asian_Dust",
+    "pass": 3
+   },
+   {
+    "quote": "Articles containing Japanese-language text",
+    "url": "https://en.wikipedia.org/wiki/Asian_Dust",
+    "pass": 3
+   },
+   {
+    "quote": "CS1 Japanese-language sources (ja)",
+    "url": "https://en.wikipedia.org/wiki/Asian_Dust",
+    "pass": 3
+   },
+   {
+    "quote": "dust, etc. that gathers in the bottoms of sleeves (esp. in Japanese traditional clothing)",
+    "url": "https://jisho.org/search/dust",
+    "pass": 3
+   },
+   {
+    "quote": "to make a sweeping stroke (in Japanese calligraphy)",
+    "url": "https://jisho.org/search/dust",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Meteorological Agency | Aeolian Dust Information",
+    "url": "https://www.data.jma.go.jp/env/kosa/fcst/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Your U.S.-based company is ready to expand into Japan. Rather than staffing up an office and negotiating distribution deals with Japanese companies, you can find a channel partner there. They handle your rollout in exchange for 30% of the yearly contracts they close. You grow faster with less investment, and they can get a new revenue source. Everyone wins.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Dustとは？機能・料金・導入事例 | AI実装研究所 — Dustの機能、料金、日本語対応、セキュリティ、導入事例を公式情報に基づき整理。 社内ナレッジと業務ツールを接続し、用途別AIエージェントによる検索、文章作成、データ分析、業務実行を支援する企業向けAIプラットフォームです。",
+    "url": "https://ai-jisso.jp/products/dust/",
+    "pass": 3
+   },
+   {
+    "quote": "Dust とは？社内データ連携AIエージェント基盤の機能・料金・導入ガイ... — Apr 6, 2026 · Dust にアクセスし、「Get Started」から14日間トライアルを開始します。 組織設定では「Single Sign-On」を有効化し、Active DirectoryやOkta連携 を推奨します。 セキュリティ設定で二要素認証とIP制限を設定することで、エンタープライズ要件を満たせます。",
+    "url": "https://ai-biz-tools.com/blog/dust-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Dust 企業向けAIエージェント基盤 月¥4,500からの中小企業導入ガイド — Jul 18, 2026 · Slack・Notionなど100以上と連携するAIエージェント基盤 Dust を編集部が検証。 個人利用向けFree/Pro プランと要問い合わせのEnterprise プランの違い、クレジット課金の注意点、導入手順を整理しました。",
+    "url": "https://ai-keiei-lab.jp/ai/dust-tt/",
+    "pass": 3
+   },
+   {
+    "quote": "データ管理・業務自動化に最適！「Dust」が企業の生産性を向上させる... — Feb 6, 2025 · 従来の汎用AIでは難しかった「会社の業務にフィットするAI活用」が実現できます。 本記事では、Dustの機能や活用方法、導入事例などを詳しく解説し、その魅力に迫ります。 AIを使って業務を革新したい方は、ぜひ最後までお読みください。 「Dust」とは",
+    "url": "https://generative-ai.co.jp/usecase/data-analytics-ai/ai-startup-usecase-dust/",
+    "pass": 3
+   },
+   {
+    "quote": "Dustとは？評判・料金・機能 | AI PICKS — May 11, 2026 · Dustは、社内のナレッジや業務ツールとつないだAIエージェントを、チームで作って共有・運用できるプラットフォームです。 70以上のコネクタでSlackやNotion、Salesforceなどの文脈をまとめて渡せ、20以上のモデルから業務ごとに使い分けられる柔軟さが強みです。",
+    "url": "https://aipicks.jp/tool/dust",
+    "pass": 3
+   },
+   {
+    "quote": "Asian Dust - WikipediaJapan | Dust 1947 Wiki | FandomJapan Meteorological Agency | Aeolian Dust InformationYellow dust blanketing wide area of Japan through March 26 ...Air Pollution in Japan: Real-time Air Quality Index Visual MapDUST USA — Asian Dust (also yellow dust, yellow sand, yellow wind, or kosa) is a meteorological phenomenon that affects much of East Asia year-round and especially durin",
+    "url": "https://en.wikipedia.org/wiki/Asian_Dust",
+    "pass": 3
+   },
+   {
+    "quote": "dust - Jisho.org — At the end of the year, many people clean their houses of the dust that has accumulated throughout the year so that they can welcome in the New Year feeling clean and refreshed.",
+    "url": "https://jisho.org/search/dust",
+    "pass": 3
+   },
+   {
+    "quote": "Japan | Dust 1947 Wiki | Fandom — After Operation: Hellgate and the events of Paradise Lost, all of Japan's armed forces officially seceded from the Axis bloc to form a separate bloc, the Imperial Japanese Navy. With vast territories under its control, the Japanese Empire has become a major contender for world power.",
+    "url": "https://dust1947.fandom.com/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Meteorological Agency | Aeolian Dust Information — The regions of Japan (20 - 50° N, 110 - 150° E) and Asia (20 - 50° N, 80 - 150° E) can be specified using the pulldown menu, with Japan as the default setting. The chart is updated every morning at around 6 a.m. (JST). Small amounts of Aeolian dust may be observed outside colored areas.",
+    "url": "https://www.data.jma.go.jp/env/kosa/fcst/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Yellow dust blanketing wide area of Japan through March 26 ... — Mar 26, 2025 · TOKYO -- Yellow dust carried by westerly winds from mainland Asia is expected to continue spreading over a wide area of Japan, including the country's east, through March 26, potentially...",
+    "url": "https://mainichi.jp/english/articles/20250326/p2a/00m/0na/005000c",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies by A.C.T. Dust Collectors | Industrial Applications — Learn how we're able to help manufacturing environments not only clear the air but improve employee efficiency, ensure a safe working environment and lessen equipment maintenance costs.",
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study KWS Manufacturing Company - cwdusttech.com — To build the most productive dust collection system for KWS, C&W DustTech conducted a comprehensive engineering survey to gather the information needed to specify the most effective system.",
+    "url": "https://www.cwdusttech.com/wp-content/uploads/2020/03/CW-CaseStudy-KWS-FINAL.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Rubber Manufacturing Dust Collection Case Study | A.C.T. Dust ... — If your process involves rubber manufacturing, VOC control, or emissions management, A.C.T. Dust Collectors can design a system to improve air quality and support your operation.",
+    "url": "https://www.actdustcollectors.com/case-studies/rubber-application-preventing-the-release-of-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study — Dust Collection Enhancement in Chemical ... — Teknor Apex, a leading player in the chemical manufacturing industry, faced challenges associated with airborne dust and chemical fumes, posing risks to air quality, worker health, and plant safety.",
+    "url": "https://baghouse.com/case-study-dust-collection-enhancement-in-chemical-manufacturing-at-teknor-apex/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: How ABC Manufacturing Optimized Dust Collection — This case study examines how ABC Manufacturing approached this challenge, from initial assessment through implementation of a modern cartridge dust collection system, and the measurable results they’ve achieved.",
+    "url": "https://porvoo.com.cn/blog/case-study-how-abc-manufacturing-optimized-dust-collection/",
+    "pass": 3
+   },
+   {
+    "quote": "Dust Revenue, Funding & Valuation - prospeo.ioDust 2026 Company Profile: Valuation, Funding & Investors ...Dust - 2026 Company Profile, Team, Funding & Competitors - TracxnDust Profile 2026: Financials, AI Strategy & ComparisonDust: Funding, Investors & Team (Nov 2026) | FundedIQDust – Funding, Acquisitions & Key Rivals – 2026Dust Identity — Company Profile & Funding | Indexed.vc — Dust has raised",
+    "url": "https://prospeo.io/c/dust-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Dust 2026 Company Profile: Valuation, Funding & Investors ...Dust - 2026 Company Profile, Team, Funding & Competitors - TracxnDust Profile 2026: Financials, AI Strategy & ComparisonDust: Funding, Investors & Team (Nov 2026) | FundedIQDust – Funding, Acquisitions & Key Rivals – 2026Dust Identity — Company Profile & Funding | Indexed.vc — Information on valuation, funding, cap tables, investors, and",
+    "url": "https://pitchbook.com/profiles/company/517577-59",
+    "pass": 3
+   },
+   {
+    "quote": "Dust - 2026 Company Profile, Team, Funding & Competitors - TracxnDust Profile 2026: Financials, AI Strategy & ComparisonDust: Funding, Investors & Team (Nov 2026) | FundedIQDust – Funding, Acquisitions & Key Rivals – 2026Dust Identity — Company Profile & Funding | Indexed.vc — Mar 4, 2026 · Dust - About the company Dust is a series A company based in Paris (France), founded in 2022 by Stanislas Po",
+    "url": "https://tracxn.com/d/companies/dust/__WL3DGBylY_2PK478wWq02CN8h1CsgdX6Wv05s4tt1gk",
+    "pass": 3
+   },
+   {
+    "quote": "Dust Profile 2026: Financials, AI Strategy & Comparison — Dust has raised a total of $16 million in funding, with the latest round being a Series A led by Sequoia Capital in July 2024. The company has 66 employees and reported a revenue of $7.3 million in 2025.",
+    "url": "https://dexteragent.ai/companies/dust-1771746471",
+    "pass": 3
+   },
+   {
+    "quote": "Dust: Funding, Investors & Team (Nov 2026) | FundedIQ — Dust is an Artificial Intelligence company in Paris, France. Raised $61.5M across 3 rounds; latest a Series B in May 2026. Investors and funding history.",
+    "url": "https://fundediq.co/dust-dust-tt-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "The meaning of \"dust\" that even advanced English learners are ... \"the dust settles\" is an idiomatic expression meaning \"the confusion or commotion settles down and the situation becomes clear\". It originates from the image of stirred-up dust falling to the ground, allowing one to see the surroundings. Let's wait until the dust settles before making a decision.",
+    "url": "https://note.com/bakanote/n/neb9df56d0900?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Secret of Dust Dancing Quietly in the Corner of the Room Dust is made up of a collection of fabric fibers, paper scraps, and every fragment of life found within a room. At first glance, it may seem like a worthless and inorganic mass, but it is actually a grain of memory in which the time spent in that room and human activities are condensed. Depending on the angle of the light, it can shine b",
+    "url": "https://note.com/ishidadaiken/n/n7387f9524adf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "To my future self, some dust.｜ひだかたかひろ｜生きることのそばに... Dust seems to increase its presence the moment you notice it. Even though it must have been in the same place, with the same face, until yesterday. The end of the year is just around the corner. I can wait. But when I think about it, the idea of \"doing it all at the end of the year\" is a well-crafted excuse for not doing it today. \"Before the year",
+    "url": "https://note.com/hidaka_takahiro/n/n712a6995aa32?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Dust? No, it's fuzz｜販売員A - note（ノート） Dust? No, it's fuzz 販売員A May 29, 2026 21:38 April and May are the \"new tea\" season. Our shop has also received youthful tea leaves from various tea-producing regions, and our sales floor is very lively. Sometimes when you brew tea, you might see something \"fluffy\" floating on the surface.",
+    "url": "https://note.com/ocha_umeee/n/nd5a815557034?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "The meaning of \"dust\" that even advanced English learners are often surprised by｜Lexicon Forge",
+    "url": "https://note.com/bakanote/n/neb9df56d0900?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The meaning of \"dust\" that even advanced English learners are often surprised by",
+    "url": "https://note.com/bakanote/n/neb9df56d0900?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When it comes to the English word \"dust,\" the meanings of \"dirt\" or \"fine particles\" are common.",
+    "url": "https://note.com/bakanote/n/neb9df56d0900?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, in news articles and novels, it is used in various metaphorical expressions such as \"the commotion settles,\" \"to be defeated,\" \"to be left behind,\" or \"to pull away from an opponent.\"",
+    "url": "https://note.com/bakanote/n/neb9df56d0900?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Furthermore, the verb \"dust\" has two seemingly opposite meanings: \"to remove dust\" and \"to sprinkle powder.\"",
+    "url": "https://note.com/bakanote/n/neb9df56d0900?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, I will introduce them based on their practical importance.",
+    "url": "https://note.com/bakanote/n/neb9df56d0900?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. the dust settles ― the commotion settles, the situation becomes clear",
+    "url": "https://note.com/bakanote/n/neb9df56d0900?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Secret of Dust Dancing Quietly in the Corner of the Room｜石田大顕",
+    "url": "https://note.com/ishidadaiken/n/n7387f9524adf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Secret of Dust Dancing Quietly in the Corner of the Room",
+    "url": "https://note.com/ishidadaiken/n/n7387f9524adf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello! This is Hiroaki Ishida.",
+    "url": "https://note.com/ishidadaiken/n/n7387f9524adf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On a bright weekend morning, my eyes were caught by small specks of dust floating softly within a strong beam of light streaming into the room. Usually, I overlook them as something to be cleaned, but bathed in light and drifting in the air, they looked as if tiny stars were dancing according to their own gravity. What is treated as mere dirt once it falls to the floor possesses a somewhat mysteri",
+    "url": "https://note.com/ishidadaiken/n/n7387f9524adf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Dust is made up of a collection of fabric fibers, paper scraps, and every fragment of life found within a room. At first glance, it may seem like a worthless and inorganic mass, but it is actually a grain of memory in which the time spent in that room and human activities are condensed. Depending on the angle of the light, it can shine brightly in white or vanish instantly into the darkness. Even ",
+    "url": "https://note.com/ishidadaiken/n/n7387f9524adf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Observing this small phenomenon in everyday life makes me think about the layers of the world we live in. Even while we are busy with the large, visible world and our schedules, a microscopic world with an entirely different time axis exists right in front of us. Physical laws, such as air density and updrafts caused by body heat, act perfectly to complete that gentle dance. The space woven by the",
+    "url": "https://note.com/ishidadaiken/n/n7387f9524adf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "By changing your consciousness just a little, the familiar scenery of a room changes completely. Before taking out the cleaning tools, it is not a bad idea to take some time to watch those movements swaying in the light. It becomes a modest experience of stepping back from the dizzying changes of modern society and touching the complex and beautiful structure of the world. It is in the gaps of ord",
+    "url": "https://note.com/ishidadaiken/n/n7387f9524adf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As the light shifts to shadow and the air currents subside, the objects that were dancing so vividly quietly disappear. However, the lingering effect of those minute movements remains in our hearts as a tangible sensation. Perhaps the existence of a single speck dancing in the corner of the room is teaching us that what we can see is not the entirety of the world.",
+    "url": "https://note.com/ishidadaiken/n/n7387f9524adf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "To my future self, some dust.｜ひだかたかひろ｜生きることのそばに、仕事がある。",
+    "url": "https://note.com/hidaka_takahiro/n/n712a6995aa32?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "To my future self, some dust.",
+    "url": "https://note.com/hidaka_takahiro/n/n712a6995aa32?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ひだかたかひろ｜生きることのそばに、仕事がある。",
+    "url": "https://note.com/hidaka_takahiro/n/n712a6995aa32?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "There is a spot in the corner of the room that bothers me.",
+    "url": "https://note.com/hidaka_takahiro/n/n712a6995aa32?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If I don't look at it, it doesn't bother me.",
+    "url": "https://note.com/hidaka_takahiro/n/n712a6995aa32?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "No, wait. Is it already November?",
+    "url": "https://note.com/hidaka_takahiro/n/n712a6995aa32?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If I clean it now, what will happen to the year-end deep cleaning?",
+    "url": "https://note.com/hidaka_takahiro/n/n712a6995aa32?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It would be more efficient to do it all at once anyway.",
+    "url": "https://note.com/hidaka_takahiro/n/n712a6995aa32?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Dust? No, it's fuzz｜販売員Ａ",
+    "url": "https://note.com/ocha_umeee/n/nd5a815557034?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "April and May are the \"new tea\" season.",
+    "url": "https://note.com/ocha_umeee/n/nd5a815557034?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Our shop has also received youthful tea leaves from various tea-producing regions, and our sales floor is very lively.",
+    "url": "https://note.com/ocha_umeee/n/nd5a815557034?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Sometimes when you brew tea, you might see something \"fluffy\" floating on the surface.",
+    "url": "https://note.com/ocha_umeee/n/nd5a815557034?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Is that dust? Did I not wash the teacup properly...\"",
+    "url": "https://note.com/ocha_umeee/n/nd5a815557034?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You might doubt yourself, but it is not dust.",
+    "url": "https://note.com/ocha_umeee/n/nd5a815557034?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This \"fluff\" has a name called",
+    "url": "https://note.com/ocha_umeee/n/nd5a815557034?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Judging by the characters, is it ear hair...? No!!",
+    "url": "https://note.com/ocha_umeee/n/nd5a815557034?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Dust (@DustHQ) / X Transform how work gets done with custom AI agents, connected to your company knowledge and tools, powered by the best AI models. Just use Dust.",
+    "url": "https://x.com/DustHQ",
+    "pass": 3
+   },
+   {
+    "quote": "Dust (@DustLabsX) / X In 3 simple steps, Dust helps crypto traders make more of their everyday trading activity by automatically turning spare change into tokenized stocks. With consistent use, those small roundups can build into a meaningful stock portfolio over time, alongside your crypto exposure",
+    "url": "https://x.com/DustLabsX",
+    "pass": 3
+   },
+   {
+    "quote": "Dust (@HoldDust_) / X Launch your coin via $DUST and give it millions of holders. 8iPDvzdwAYNA6ec87uqY5WvXQTwGDNHPeGBhnsz4DUST",
+    "url": "https://x.com/HoldDust_",
+    "pass": 3
+   },
+   {
+    "quote": "DUST (@Dustfinger2077) / X DUST @Dustfinger2077 Visual artist Crafting cinematic worlds inspired by retro fantasy CPP • Capcut • Dreamina AI • Pollo AI •HIGGS-RP9KS Germany",
+    "url": "https://x.com/Dustfinger2077",
+    "pass": 3
+   },
+   {
+    "quote": "dust (@dustmarkets) / X UPDATE: Major improvement by adding a social layer to dust. - Thesis posts, accounts, turnkey wallet infrastructure. As well as X oAuth 2.0, adding your bubble to custom charts. This will improve; launching with FEES already directed, remove any issues with blofin on extension Show more",
+    "url": "https://x.com/dustmarkets",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Dust - LinkedIn Dust is multiplayer, multi-model AI that rewires the way companies work. It gives teams of humans and agents a shared system for coordinating complex, cross-functional work across any model and...",
+    "url": "https://www.linkedin.com/company/dust-tt",
+    "pass": 3
+   },
+   {
+    "quote": "DUST - LinkedIn Website http://dust.systems Industry Mental Health Care Company size 2-10 employees Headquarters Los Angeles, CA",
+    "url": "https://www.linkedin.com/company/dustdreaming",
+    "pass": 3
+   },
+   {
+    "quote": "Paralegal at Dust — Greater London, England, United Kingdom ... 2 days ago · Apply for Paralegal at Dust in Greater London, England, United Kingdom. Full-time Associate role. See responsibilities, qualifications, and similar jobs on LinkedIn.",
+    "url": "https://uk.linkedin.com/jobs/view/paralegal-at-dust-4487155961",
+    "pass": 3
+   },
+   {
+    "quote": "Gabriel Hubert - Dust | LinkedInDust - LinkedInFaateh Dhillon - UK Lead @Dust (Sequoia-backed) | LinkedInPT Cipta Adhyabusana (DUST) | LinkedIn Expérience : Dust · Formation : Stanford University · Lieu : Paris · 500 relations ou plus sur LinkedIn. Consultez le profil de Gabriel Hubert sur LinkedIn, une communauté professionnelle... Dust is multiplayer, multi-model AI that rewires the way companie",
+    "url": "https://fr.linkedin.com/in/gabhubert",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "DUST - FacebookDUST - The Best of DUST | Sci-Fi Short Films - FacebookOn a back street, a scrap monster makes a sudden lunge at a ...DUST 514 - FacebookDUST - FacebookSci-Fi Short Film \"NoRo\" | DUST A.I. Week - FacebookBossTek | Peoria IL - Facebook Oct 23, 2026 · Sci-Fi Short Film \"Like Us\" | DUST A lonely woman who takes care of her paralyzed husband saves an alien who cannot experience emotions",
+    "url": "https://www.facebook.com/watchdust/",
+    "pass": 3
+   },
+   {
+    "quote": "DUST - The Best of DUST | Sci-Fi Short Films - Facebook DUST presents thought-provoking science fiction stories, exploring the future of humanity through the lens of science and technology.",
+    "url": "https://www.facebook.com/watch/watchdust/1386939465056791/",
+    "pass": 3
+   },
+   {
+    "quote": "DUST 514 - FacebookDUST - FacebookSci-Fi Short Film \"NoRo\" | DUST A.I. Week - FacebookBossTek | Peoria IL - Facebook Sep 16, 2025 · It’s a look back at what DUST 514 was, what we tried to build, what worked, what didn’t, and how those lessons are shaping EVE Vanguard. EVE Vanguard isn’t a remake of DUST, but it is a spiritual successor. Aug 18, 2026 · DUST. 2,078 followers · 72 were here. Voor wie",
+    "url": "https://www.facebook.com/DUST514/",
+    "pass": 3
+   },
+   {
+    "quote": "DUST - FacebookSci-Fi Short Film \"NoRo\" | DUST A.I. Week - FacebookBossTek | Peoria IL - Facebook Aug 18, 2026 · DUST. 2,078 followers · 72 were here. Voor wie houdt van echt LIVE rock en hedendaagse covers gespeeld door gepassioneerde muzikanten A sci-fi thriller about a woman who can never get over the child she lost, watch \"Noro\" by Duncan Roe as part of our special A.I. Week event happening on",
+    "url": "https://www.facebook.com/CoverbandDust/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://dust.tt/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dust.tt/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dust.tt/home/solutions/sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dust.tt/home/solutions/customer-support",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dust.tt/home/solutions/marketing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dust.tt/home/solutions/engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dust.tt/home/solutions/data-analytics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dust.tt/home/solutions/knowledge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dust.tt/home/solutions/it",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dust.tt/home/solutions/legal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dust.tt/home/solutions/recruiting-people",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dust.tt/home/solutions/productivity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dust.tt/home/partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dust.tt/home/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dust.tt/customers/clay-scaling-gtme-team",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dust.tt/customers/part-1-assembled-ai-operating-system",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dust.tt/customers/kyriba-accelerating-innovation-with-dust",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dust.tt/customers/how-persona-hit-80-ai-agent-adoption-with-dust",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dust.tt/customers/how-vantas-gtm-team-saves-thousands-of-hours-annually-with-dust",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dust.tt/customers/how-watershed-got-90-of-its-team-to-leverage-dust-agents",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://dust.tt/_next/image?url=%2Fstatic%2Flanding%2Flogos%2Fcolor%2Fclay.png&w=256&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://dust.tt/_next/image?url=%2Fstatic%2Flanding%2Flogos%2Fcolor%2Fdidomi.png&w=256&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://dust.tt/_next/image?url=%2Fstatic%2Flanding%2Flogos%2Fcolor%2Fkyriba.png&w=256&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://dust.tt/_next/image?url=%2Fstatic%2Flanding%2Flogos%2Fcolor%2Ffleet.png&w=256&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ai-jisso.jp/products/dust/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-biz-tools.com/blog/dust-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-keiei-lab.jp/ai/dust-tt/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://generative-ai.co.jp/usecase/data-analytics-ai/ai-startup-usecase-dust/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Asian_Dust",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jisho.org/search/dust",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dust1947.fandom.com/wiki/Japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.data.jma.go.jp/env/kosa/fcst/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.actdustcollectors.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cwdusttech.com/wp-content/uploads/2020/03/CW-CaseStudy-KWS-FINAL.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.actdustcollectors.com/case-studies/rubber-application-preventing-the-release-of-emissions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baghouse.com/case-study-dust-collection-enhancement-in-chemical-manufacturing-at-teknor-apex/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/dust-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/517577-59",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/dust/__WL3DGBylY_2PK478wWq02CN8h1CsgdX6Wv05s4tt1gk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dexteragent.ai/companies/dust-1771746471",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bakanote/n/neb9df56d0900?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ishidadaiken/n/n7387f9524adf?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hidaka_takahiro/n/n712a6995aa32?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ocha_umeee/n/nd5a815557034?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/DustHQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/DustLabsX",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HoldDust_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Dustfinger2077",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/dust-tt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/dustdreaming",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/jobs/view/paralegal-at-dust-4487155961",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/in/gabhubert",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/watchdust/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/watch/watchdust/1386939465056791/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/DUST514/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CoverbandDust/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/DustLabsX",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/dustmarkets",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Dust 日本 導入",
+   "results": [
+    "https://ai-jisso.jp/products/dust/",
+    "https://ai-biz-tools.com/blog/dust-guide/",
+    "https://ai-keiei-lab.jp/ai/dust-tt/",
+    "https://generative-ai.co.jp/usecase/data-analytics-ai/ai-startup-usecase-dust/",
+    "https://aipicks.jp/tool/dust",
+    "https://earthkey.blog/global/dust/",
+    "https://bestcarweb.jp/news/entame/1669612"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dust 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dust Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Asian_Dust",
+    "https://jisho.org/search/dust",
+    "https://dust1947.fandom.com/wiki/Japan",
+    "https://www.data.jma.go.jp/env/kosa/fcst/en/",
+    "https://mainichi.jp/english/articles/20250326/p2a/00m/0na/005000c",
+    "https://www.dustusa.net/",
+    "https://aqicn.org/map/japan/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dust manufacturing customer case study",
+   "results": [
+    "https://www.actdustcollectors.com/case-studies",
+    "https://www.cwdusttech.com/wp-content/uploads/2020/03/CW-CaseStudy-KWS-FINAL.pdf",
+    "https://www.actdustcollectors.com/case-studies/rubber-application-preventing-the-release-of-emissions",
+    "https://baghouse.com/case-study-dust-collection-enhancement-in-chemical-manufacturing-at-teknor-apex/",
+    "https://porvoo.com.cn/blog/case-study-how-abc-manufacturing-optimized-dust-collection/",
+    "https://www.slyinc.com/resources/case-studies/",
+    "https://prestivac.com/case-studies/wood-dust-furniture-manufacturing"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dust white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://www.seoreseller.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.nmi.com/blog/understanding-the-reseller-model-a-complete-guide-for-payments-companies/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dust founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/dust-revenue",
+    "https://pitchbook.com/profiles/company/517577-59",
+    "https://tracxn.com/d/companies/dust/__WL3DGBylY_2PK478wWq02CN8h1CsgdX6Wv05s4tt1gk",
+    "https://dexteragent.ai/companies/dust-1771746471",
+    "https://fundediq.co/dust-dust-tt-funding/",
+    "https://compworth.com/company/dust",
+    "https://indexed.vc/companies/dust-identity"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Dust",
+   "results": [
+    "https://note.com/bakanote/n/neb9df56d0900?hl=en",
+    "https://note.com/ishidadaiken/n/n7387f9524adf?hl=en",
+    "https://note.com/hidaka_takahiro/n/n712a6995aa32?hl=en",
+    "https://note.com/ocha_umeee/n/nd5a815557034?hl=en",
+    "https://note.com/yibao/n/n50a2c184f13f",
+    "https://tales.note.com/hydra_luv2026/board/threads/taiqx6bu4ecay?from=community-board",
+    "https://tales.note.com/community-board"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Dust",
+   "results": [
+    "https://x.com/DustHQ",
+    "https://x.com/DustLabsX",
+    "https://x.com/HoldDust_",
+    "https://x.com/Dustfinger2077",
+    "https://x.com/dustmarkets",
+    "https://x.com/followdusT",
+    "https://x.com/DustonBNB"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Dust",
+   "results": [
+    "https://www.linkedin.com/company/dust-tt",
+    "https://www.linkedin.com/company/dustdreaming",
+    "https://uk.linkedin.com/jobs/view/paralegal-at-dust-4487155961",
+    "https://fr.linkedin.com/in/gabhubert",
+    "https://fr.linkedin.com/company/dust-tt",
+    "https://uk.linkedin.com/in/faatehalidhillon",
+    "https://id.linkedin.com/company/pt-cipta-adhyabusana"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Dust",
+   "results": [
+    "https://www.facebook.com/watchdust/",
+    "https://www.facebook.com/watch/watchdust/1386939465056791/",
+    "https://www.facebook.com/DUST514/",
+    "https://www.facebook.com/CoverbandDust/",
+    "https://www.facebook.com/watchdust/videos/sci-fi-short-film-noro-dust-ai-week/367446800704059/",
+    "https://www.facebook.com/DustControlTechnology/",
+    "https://www.facebook.com/watchdust/videos/sci-fi-short-film-pinki-dust/234193228060912/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dust note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.ullet.com/ｎｏｔｅ/役員",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dust X 投稿",
+   "results": [
+    "https://x.com/DustLabsX",
+    "https://x.com/dustmarkets",
+    "https://www.pixiv.net/artworks/125574863",
+    "https://booth.pm/ja/items/7435258",
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://dust13.fanbox.cc/posts",
+    "https://x-force.thinkforce.co.jp/archives/461"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部42頁・検索12回）"
+ }
+}

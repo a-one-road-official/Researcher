@@ -1,4 +1,4 @@
-# 一都三県 表彰・認定リスト起点の芋づる式リスト（資本金1億円以上・自動車除く）— 事業内容・資本金・設立・株主・取引先（事実のみ・62社）
+# 一都三県 表彰・認定リスト起点の芋づる式リスト（資本金1億円以上・自動車除く）— 事業内容・資本金・設立・株主・取引先（事実のみ・65社）
 
 ## Ashirase
 - 公式URL：https://www.ashirase.com/（given）
@@ -3111,6 +3111,86 @@ NTTエレクトロニクステクノ株式会社
 - 売上高：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部27頁・検索11回）
 - 主要取引先：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部27頁・検索11回）
 
+## トックベアリング
+- 公式URL：https://tok-inc.com/（given）
+- 事業内容：メカニカルコアパーツの開発・製造・販売（https://tok-inc.com/about/index.html・1回目）
+- 事業内容：「プラスチックベアリング」「ワンウェイクラッチ」「ダンパー」をはじめとしたメカニカルコアパーツの設計、製造、販売（https://shachomeikan.jp/industry_article/5666・3回目）
+- 資本金：１０,０００万円（https://tok-inc.com/about/index.html・1回目）
+- 資本金：1億円（https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/・3回目）
+- 創業年度：創　業：1925年（大正14）6月1日（https://tok-inc.com/about/index.html・1回目）
+- 創業年度：創　立：1938年（昭和13）12月1日（https://tok-inc.com/about/index.html・1回目）
+- 創業年度：設立年月：1938年12月1日（https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/・3回目）
+- 従業員数：174名 （単体） 395名 （連結） (2025年（令和7年）9月現在)（https://tok-inc.com/about/index.html・1回目）
+- 従業員数：162名（平成23年6月末現在）（https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/・3回目）
+- 従業員数：174名（単体）395名（連結）（2025年9月現在）（https://shachomeikan.jp/industry_article/5666・3回目）
+- 所在地：〒174-8501 東京都板橋区小豆沢1-17-12 [お問い合わせ専用電話番号] 050-1720-0482 受付時間は、営業日の9:00～11:50、13:00～17:00です。（https://tok-inc.com/about/index.html・1回目）
+- 所在地：東京都板橋区小豆沢1-17-12 〒174-8501（https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/・3回目）
+- 所在地：東京都板橋区小豆沢1-17-12（https://shachomeikan.jp/industry_article/5666・3回目）
+- 代表者：代表取締役社長 吉川 桂介（平成27年1月度より）（https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/・3回目）
+- 代表者：吉川 桂介（https://shachomeikan.jp/industry_article/5666・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「こども食堂を運営する団体様に、本社４Fの場所を貸し出しました」（https://tok-inc.com/・1回目）
+  - 「日刊工業新聞に弊社製品SR100を紹介いただきました」（https://tok-inc.com/・1回目）
+  - 「板橋区SDGsプラットフォームポータルサイトに当社が紹介されました」（https://tok-inc.com/・1回目）
+  - 「日刊工業新聞に弊社製品TD154を紹介いただきました」（https://tok-inc.com/・1回目）
+  - 「Medtec Japan 医療機器の設計・製造に関する展示会に出展いたします」（https://tok-inc.com/・1回目）
+  - 「ベアリング新聞第264号に当社製品TD154を紹介頂きました」（https://tok-inc.com/・1回目）
+  - 「東京カイシャハッケン伝に当社が紹介されました」（https://tok-inc.com/・1回目）
+  - 「海外向けに日本の製造業を紹介するサイト「dot B」に掲載されました！」（https://tok-inc.com/・1回目）
+  - 「【メディア掲載】「ミライのお仕事」に株式会社ＴＯＫが紹介されました」（https://tok-inc.com/・1回目）
+  - 「弊社代表取締役社長、吉川桂介のコメントが紹介されました」（https://tok-inc.com/・1回目）
+  - 「Medtec Japan 医療機器の製造・設計に関する展示会に出展いたします」（https://tok-inc.com/・1回目）
+  - 「VRオフィス紹介『バチャナビ』で当社(本社)をご紹介いただきました」（https://tok-inc.com/・1回目）
+- 客は誰か：
+  - 「【会社紹介】中小企業にどんなイメージをお持ちですか？」（https://tok-inc.com/・1回目）
+  - 「りそな中小企業振興財団のホームページに当社製品SRXが掲載されました」（https://tok-inc.com/・1回目）
+  - 「トルク可変多回転ダンパTD115中小企業優秀新技術・新製品賞受賞」（https://tok-inc.com/about/index.html・1回目）
+  - 「【会社紹介】中小企業にどんなイメージをお持ちですか？」（https://tok-inc.com/index.html・1回目）
+  - 「りそな中小企業振興財団のホームページに当社製品SRXが掲載されました」（https://tok-inc.com/index.html・1回目）
+  - 「たとえば医療業界向けに、外科手術用のカメラをワンタッチで自在に動かし、手を離せばその位置でロックする機構の開発を進めています」（https://shachomeikan.jp/industry_article/5666・3回目）
+  - 「開発に1年以上の歳月を要したブラインド向け無音ダンパーは、「第28回中小企業優秀新技術・新製品賞 優秀賞」を受賞しましたし、特許取得件数も国内累計で約200件、海外でも約50件に上ります」（https://shachomeikan.jp/industry_article/5666・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「私たちTOKは、世の中に必要とされる機械要素部品を提供する部品メーカーです」（https://tok-inc.com/・1回目）
+  - 「Medtec Japan 医療機器の設計・製造に関する展示会に出展いたします」（https://tok-inc.com/・1回目）
+  - 「海外向けに日本の製造業を紹介するサイト「dot B」に掲載されました！」（https://tok-inc.com/・1回目）
+  - 「山梨日日新聞に山梨工場長のインタビュー記事が掲載されました」（https://tok-inc.com/・1回目）
+  - 「Medtec Japan 医療機器の製造・設計に関する展示会に出展いたします」（https://tok-inc.com/・1回目）
+  - 「ロックダウンに伴うＴＯＫ上海工場稼働状況について(第5報)」（https://tok-inc.com/・1回目）
+  - 「ロックダウンに伴うＴＯＫ上海工場稼働状況について(第4報)」（https://tok-inc.com/・1回目）
+  - 「ロックダウンに伴うＴＯＫ上海工場稼働状況について(第3報)」（https://tok-inc.com/・1回目）
+  - 「ロックダウンに伴うＴＯＫ上海工場稼働状況について(第2報)」（https://tok-inc.com/・1回目）
+  - 「ロックダウンに伴うＴＯＫ上海工場稼働状況について(第1報)」（https://tok-inc.com/・1回目）
+  - 「【無料Webセミナー】医療に活かせる！ゼロから学べるロータリーダンパー」（https://tok-inc.com/・1回目）
+  - 「医療器具開発デザインコンセプトの展示を致します」（https://tok-inc.com/・1回目）
+- 資本金・株主：
+  - 「社員、株主、取引先、地域社会のすべてのステークホルダーにおいて重要なTOKであるために、なお一層の努力を続ける所存ですので、」（https://tok-inc.com/about/top-message2.html・1回目）
+  - 「資本金：1億円」（https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/・3回目）
+  - 「プリントシール機トップシェア、グッズやアニメなども手掛けるプライム上場企業」（https://shachomeikan.jp/industry_article/5666・3回目）
+  - 「学校給食用の厨房機器において国内トップクラスのシェアを誇る、スタンダード上場企業」（https://shachomeikan.jp/industry_article/5666・3回目）
+- 表彰・認定の記録：
+  - 「「東京都ベンチャー技術大賞」受賞決定および「産業交流展2026」出展のお知らせ」（https://tok-inc.com/・1回目）
+  - 「TOKが開発したAPOLLOCK（アポロック）が「板橋製品技術大賞 最優秀賞」および「2026年度 グッドデザイン賞」を受賞しました」（https://tok-inc.com/・1回目）
+  - 「TOKYOパパ育業促進企業の認定をいただきました」（https://tok-inc.com/・1回目）
+  - 「「健康経営優良法人2026（中小規模優良法人）」および「東京都 家庭と仕事の両立支援推進企業」に認定されました」（https://tok-inc.com/・1回目）
+  - 「当社の製品が令和７年度関東地方発明表彰発明奨励賞を受賞しました」（https://tok-inc.com/・1回目）
+  - 「当社の製品が「2025年度グッドデザイン賞」を受賞いたしました」（https://tok-inc.com/・1回目）
+  - 「令和５年度関東地方発明表彰 発明奨励賞受賞のお知らせ」（https://tok-inc.com/・1回目）
+  - 「子育てサポート企業に送られる「くるみん認定」を取得しました」（https://tok-inc.com/・1回目）
+  - 「第16回 板橋青年優秀技能者・技術者に選定されました」（https://tok-inc.com/・1回目）
+  - 「TLD4･TLD7(バネ摩擦式トルクリミッタ)が2022年地方発明表彰関東経済産業局長賞を受賞いたしました」（https://tok-inc.com/・1回目）
+  - 「採尿コップスタンドが令和４年度板橋製品技術大賞優秀賞を受賞いたしました」（https://tok-inc.com/・1回目）
+  - 「健康経営優良法人2022（中小規模法人部門（ブライト500））に本年度も認定されました」（https://tok-inc.com/・1回目）
+- 検索結果の抜粋：
+  - 「株式 会社 TOK （ トックベアリング 株式 会社 ） | 輝く技術 光る ... — 株式 会社 TOK （ トックベアリング 株式 会社 ） | 輝く技術 光る ... 東京カイシャハッケン伝 https://www.kaisyahakken.metro.tokyo.lg.jp > tokbearing」（https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/・3回目）
+  - 「株式会社TOK （ トックベアリング 株式会社） | 輝く技術 光る ... — 株式会社TOK （ トックベアリング 株式会社） | 輝く技術 光る ... 東京カイシャハッケン伝 https://www.kaisyahakken.metro.tokyo.lg.jp > tokbearing」（https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/tokbearing/・3回目）
+  - 「トックベアリング 株式会社様 支援事例 | 東京中小企業投資育成 ... — トックベアリング 株式会社様 支援事例 | 東京中小企業投資育成 ... 中小企業投資育成 https://www.sbic.co.jp > case > detail05」（https://www.sbic.co.jp/case/detail05/・3回目）
+  - 「トックベアリング 株式会社 | 会員紹介 | 一般社団法人日本 ... — トックベアリング 株式会社 | 会員紹介 | 一般社団法人日本 ... 日本ベアリング工業会 https://www.jbia.or.jp > industry > members」（https://www.jbia.or.jp/industry/members/20/・3回目）
+  - 「トックベアリング 株式会社様 支援 事例 | 東京中小企業投資育成 ... — トックベアリング 株式会社様 支援 事例 | 東京中小企業投資育成 ... 中小企業投資育成 https://www.sbic.co.jp > case > detail05」（https://www.sbic.co.jp/case/detail05/・3回目）
+  - 「「 トックベアリング 」の代理店・取扱店 - indexPro — 「 トックベアリング 」の代理店・取扱店 - indexPro indexPro https://www.indexpro.co.jp > ... > メーカー名から探す」（https://www.indexpro.co.jp/distributor/list-distributor?mcid=1975・3回目）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像2件／外部10頁・検索11回）
+- 株主：記載なし（3回確認済み：公式5頁／PDF・画像2件／外部10頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式5頁／PDF・画像2件／外部10頁・検索11回）
+
 ## ネクサス・プラウド・インベストメント
 - 公式URL：https://nexas-proud-investment.com/（given）
 - 事業内容：・働く30代の資産形成に役立つ情報発信メディア「マニマニくん」の運営 ・自社ブランドREGOLITHシリーズの開発 ・不動産コンサルティング（https://best100.v-tsushin.jp/company/nexas-proud-investment/・3回目）
@@ -3560,6 +3640,94 @@ NTTエレクトロニクステクノ株式会社
   - 「株式会社 ヤマップ - スピーダ スタートアップ情報リサーチ — 株式会社 ヤマップ - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-11928・3回目）
   - 「株式会社 ヤマップ / YAMAP | 沿革 — 株式会社 ヤマップ / YAMAP | 沿革 株式会社ヤマップ / YAMAP https://corporate.yamap.co.jp > history」（https://corporate.yamap.co.jp/history・3回目）
 - 主要取引先：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部30頁・検索11回）
+
+## ヨシモトポール
+- 公式URL：https://www.ypole.co.jp/（given）
+- 事業内容：各種スチールポールの製造・販売 コンクリート製品の製造・販売 ポールに関連する工事（https://www.ypole.co.jp/company/info/・1回目）
+- 事業内容：①照明用ポール等の製造及び販売 テーパーポール、段付・直管、 デザインポール、共架アーム、多目的柱 情報板柱、投光器柱、アルミポール、 ステンレスポール、コンクリートポール等 ②ヨシモトポール㈱各種商品の販売（https://www.yspole.co.jp/company/overview.html・3回目）
+- 事業内容：各種スチールポールの製造・販売 コンクリート製品の製造・販売 ポールに関連する工事 【当社の製品（一部）】 ・国土交通省・各地方自治体向け照明柱、標識柱、情報板柱 ・各都道府県警察向け信号柱、標識柱、情報板柱 ・地方自治体向け防災無線柱、カメラ柱 ・各電力会社向け配電柱 ・各高速道路会社向けETCガントリー、標識柱、情報板柱 ・各鉄道会社向け踏切警報機柱、架線柱 ・グラウンド用ネット柱、投光器柱　他 【製品実績】信号柱/東京駅周辺（https://job.mynavi.jp/28/pc/search/corp294464/outline.html・3回目）
+- 資本金：3億円（https://www.ypole.co.jp/company/info/・1回目）
+- 資本金：4,000万円（https://www.yspole.co.jp/company/overview.html・3回目）
+- 資本金：3億円（https://job.mynavi.jp/28/pc/search/corp294464/outline.html・3回目）
+- 創業年度：設立年月日：1961（昭和36) 年12月5日（https://www.ypole.co.jp/company/info/・1回目）
+- 創業年度：設立：2016年12月5日（https://www.yspole.co.jp/company/overview.html・3回目）
+- 創業年度：設立：1961（昭和36) 年12月5日（https://job.mynavi.jp/28/pc/search/corp294464/outline.html・3回目）
+- 従業員数：264名（単体） 416名（グループ全体）（https://www.ypole.co.jp/company/info/・1回目）
+- 従業員数：249名（単体） 418名（グループ会社含む）（https://job.mynavi.jp/28/pc/search/corp294464/outline.html・3回目）
+- 従業員数：249名（単体）
+418名（グループ会社含む）（https://job.mynavi.jp/28/pc/search/corp294464/outline.html・3回目）
+- 売上高：89億円（2026年3月期）（https://job.mynavi.jp/28/pc/search/corp294464/outline.html・3回目）
+- 売上高：89億円（2026年3月期）（https://job.mynavi.jp/27/pc/search/corp294464/outline.html・3回目）
+- 売上高：2021年3月 104億円（単独）（https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%B7%E3%83%A2%E3%83%88%E3%83%9D%E3%83%BC%E3%83%AB・3回目）
+- 株主：ヨシモトポール株式会社 55％ 日鉄建材株式会社 45％（https://www.yspole.co.jp/company/overview.html・3回目）
+- 所在地：〒100-6919 東京都千代田区丸の内2-6-1 （丸の内パークビルディング19F）（https://www.ypole.co.jp/company/info/・1回目）
+- 所在地：〒100-6919 東京都千代田区丸の内2-6-1 丸の内パークビルディング19F（https://www.yspole.co.jp/company/overview.html・3回目）
+- 所在地：100-6919（https://job.mynavi.jp/28/pc/search/corp294464/outline.html・3回目）
+- 代表者：石原 晴久（https://www.ypole.co.jp/company/info/・1回目）
+- 代表者：上椙　隆（https://www.yspole.co.jp/company/overview.html・3回目）
+- 代表者：代表取締役社長 石原晴久（https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%B7%E3%83%A2%E3%83%88%E3%83%9D%E3%83%BC%E3%83%AB・3回目）
+- 主要取引先：ヨシモトポール株式会社様（https://es-kitchen.biz/esresult/donyu_yoshimotopole・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「ヨシモトポールは技術（開発・設計・製造）を通じて、」（https://www.ypole.co.jp/・1回目）
+  - 「ヨシモトポールは技術（開発・設計・製造）を通じて、」（https://www.ypole.co.jp/company/・1回目）
+  - 「対象：YSポール株式会社から受託した鋼構造物（照明柱、配電柱、通信柱、鉄道柱、」（https://www.ypole.co.jp/company/info/・1回目）
+  - 「コンクリートポールの製造販売を目的として設立」（https://www.ypole.co.jp/company/history/・1回目）
+  - 「信越化学工業㈱との提携によりPSカラーポールの製造販売を開始」（https://www.ypole.co.jp/company/history/・1回目）
+  - 「九州支店、新潟営業所、北陸営業所の販売窓口をYSポール㈱へ移管」（https://www.ypole.co.jp/company/history/・1回目）
+  - 「東北支店、信越支店、関東支店、名古屋支店、大阪支店、札幌事務所の販売窓口をYSポール㈱へ移管」（https://www.ypole.co.jp/company/history/・1回目）
+  - 「○財務体質を強化し、安定した事業運営を支えます」（https://www.ypole.co.jp/company/vison/・1回目）
+  - 「農村向け有線放送用コンクリートポールの製造販売を開始」（https://www.ypole.co.jp/company/photo/・1回目）
+  - 「DCPの製造技術を進化させ、多種多様な製品群を開発」（https://www.ypole.co.jp/company/photo/・1回目）
+  - 「日頃お世話になる製造協力会社様につきましては、当社の品質管理基準を満たしていただけることを厳格に確認しました上で、お取引をしております」（https://www.ypole.co.jp/company/csr/・1回目）
+  - 「当社は、ポールのみならずソーラーパネルやLED照明器具、リチウムイオンバッテリーなどをアッセンブルした、再生可能エネルギーによって機能する「エコ製品」の開発・設計・販売も手掛けており、近年では、ODA（政府開発援助）事業によるご採用もいただいております」（https://www.ypole.co.jp/company/csr/・1回目）
+- 客の産業（導入事例・取引先）：
+  - 「当社が位置する「社会インフラ領域」では、約半世紀前に建設された「戦後日本を支えたインフラ」が今後一挙に耐用年数を迎えることから、「更新並びに持続可能なメンテナンス技術の構築」が官民一体となった取組みとして求められています」（https://www.ypole.co.jp/company/info/・1回目）
+  - 「藤岡工場が日本電信電話公社の指定工場となる」（https://www.ypole.co.jp/company/history/・1回目）
+  - 「藤岡工場 日本工業規格JIS表示許可（許可番号379155）」（https://www.ypole.co.jp/company/history/・1回目）
+  - 「藤岡工場 コーティング技術センターを建設（現 技術開発センター）」（https://www.ypole.co.jp/company/history/・1回目）
+  - 「藤岡工場に塗装設備「ポールコート336ライン」を設置」（https://www.ypole.co.jp/company/history/・1回目）
+  - 「藤岡工場 ISO9001認証を取得」（https://www.ypole.co.jp/company/history/・1回目）
+  - 「群馬工場 環境ISO14001認証を取得」（https://www.ypole.co.jp/company/history/・1回目）
+  - 「滋賀工場 敷地を1.8倍に拡張」（https://www.ypole.co.jp/company/history/・1回目）
+  - 「〒980-0021 仙台市青葉区中央2-2-6 三井住友銀行仙台ビル9F」（https://www.ypole.co.jp/company/office/・1回目）
+  - 「○業務品質を高め、顧客価値の最大化を追求します」（https://www.ypole.co.jp/company/vison/・1回目）
+  - 「養豚プラントの建設から内部設備まで、一式で受注」（https://www.ypole.co.jp/company/photo/・1回目）
+  - 「群馬工場・滋賀工場では、品質マネジメントシステムについての国際規格「ISO9001」を取得しています」（https://www.ypole.co.jp/company/csr/・1回目）
+- 資本金・株主：
+  - 「本社を東京都千代田区に置く 資本金1千万円」（https://www.ypole.co.jp/company/history/・1回目）
+  - 「資本金3億円に増資」（https://www.ypole.co.jp/company/history/・1回目）
+  - 「本社を東京都千代田区に置く 資本金1千万円」（https://www.ypole.co.jp/wp/wp-content/uploads/2026/08/YoshimotoPole_CompanyProfile_20260701.pdf・2回目）
+  - 「資本金3億円に増資」（https://www.ypole.co.jp/wp/wp-content/uploads/2026/08/YoshimotoPole_CompanyProfile_20260701.pdf・2回目）
+  - 「丸藤シートパイル(株)【東証スタンダード上場】」（https://job.mynavi.jp/28/pc/search/corp294464/outline.html・3回目）
+  - 「1961年 コンクリートポールの製造販売を目的として設立、本社を東京都千代田区に置く、資本金1千万円、藤岡工場を建設」（https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%B7%E3%83%A2%E3%83%88%E3%83%9D%E3%83%BC%E3%83%AB・3回目）
+  - 「1982年 資本金3億円に増資」（https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%B7%E3%83%A2%E3%83%88%E3%83%9D%E3%83%BC%E3%83%AB・3回目）
+- 表彰・認定の記録：
+  - 「ヨシモト集合ポール グッドデザイン部門別大賞を受賞（公共空間部門）」（https://www.ypole.co.jp/company/history/・1回目）
+  - 「デザインコンクリートシステムポール グッドデザイン景観賞を受賞（公共空間用設備･機器部門）」（https://www.ypole.co.jp/company/history/・1回目）
+  - 「バナーポール・フットライト グッドデザイン賞を受賞」（https://www.ypole.co.jp/company/history/・1回目）
+  - 「種々の機能性が評価され、グッドデザイン景観賞を受賞」（https://www.ypole.co.jp/company/photo/・1回目）
+  - 「スリップジョイント構造を用いた電化柱が鉄道事業者より認定される」（https://www.ypole.co.jp/company/photo/・1回目）
+  - 「当社のこれまでの取組みは、健康保険組合連合会東京連合会より認められ、平成31年3月に「銀の認定」をいただくことができました」（https://www.ypole.co.jp/company/csr/・1回目）
+  - 「これを一つの自信としながらも決して過信せず、今後は「金の認定」取得を目指してまいります」（https://www.ypole.co.jp/company/csr/・1回目）
+  - 「ヨシモト集合ポール グッドデザイン部門別大賞を」（https://www.ypole.co.jp/wp/wp-content/uploads/2026/08/YoshimotoPole_CompanyProfile_20260701.pdf・2回目）
+  - 「バナーポール・フットライト グッドデザイン賞を受賞」（https://www.ypole.co.jp/wp/wp-content/uploads/2026/08/YoshimotoPole_CompanyProfile_20260701.pdf・2回目）
+  - 「1990年 レトロポール グッドデザイン景観賞を受賞」（https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%B7%E3%83%A2%E3%83%88%E3%83%9D%E3%83%BC%E3%83%AB・3回目）
+  - 「1996年 デザインコンクリートシステムポール グッドデザイン景観賞を受賞（公共空間用設備･機器部門）」（https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%B7%E3%83%A2%E3%83%88%E3%83%9D%E3%83%BC%E3%83%AB・3回目）
+  - 「2014年 アグリ事業部が分社しヨシモトアグリ㈱として営業開始、避難誘導システム グッドデザイン賞を受賞、耐疲労型開口部トツレス」（https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%B7%E3%83%A2%E3%83%88%E3%83%9D%E3%83%BC%E3%83%AB・3回目）
+- 検索結果の抜粋：
+  - 「会社 概況 - ヨシモトポール — 会社 概況 - ヨシモトポール ヨシモトポール株式会社 PDF https://www.ypole.co.jp > uploads > 2023/09 > Yos...」（https://www.ypole.co.jp/wp/wp-content/uploads/2023/09/YoshimotoPole_CompanyProfile_230919.pdf・3回目）
+  - 「ヨシモトポール (株)の 会社概要 | マイナビ2028 — ヨシモトポール (株)の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp294464 > outline」（https://job.mynavi.jp/28/pc/search/corp294464/outline.html・3回目）
+  - 「企業 情報 | ヨシモトポール - Powered by イプロス — 企業 情報 | ヨシモトポール - Powered by イプロス 製造業向け情報検索サイト イプロスものづくり https://pr.www.ipros.com > ypole > information」（https://pr.www.ipros.com/ypole/information/・3回目）
+  - 「ヨシモトポール 株式会社の 会社概要 ・製品情報 - Metoree — ヨシモトポール 株式会社の 会社概要 ・製品情報 - Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/49030/・3回目）
+  - 「会社概況 - ヨシモトポール — 会社概況 - ヨシモトポール ヨシモトポール株式会社 PDF https://www.ypole.co.jp > uploads > 2023/09 > Yos...」（https://www.ypole.co.jp/wp/wp-content/uploads/2023/09/YoshimotoPole_CompanyProfile_230919.pdf・3回目）
+  - 「ヨシモトポール (株)の新卒採用・会社概要 | マイナビ2027 — ヨシモトポール (株)の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp294464 > outline」（https://job.mynavi.jp/27/pc/search/corp294464/outline.html・3回目）
+  - 「ヨシモトポール - Wikipedia — ヨシモトポール - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > ヨシモトポール」（https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%B7%E3%83%A2%E3%83%88%E3%83%9D%E3%83%BC%E3%83%AB・3回目）
+  - 「会社概況 - ヨシモトポール — 会社概況 - ヨシモトポール ヨシモトポール株式会社 PDF https://www.ypole.co.jp > uploads > 2025/08 > Yos...」（https://www.ypole.co.jp/wp/wp-content/uploads/2025/08/YoshimotoPole_CompanyProfile_250701.pdf・3回目）
+  - 「ヨシモトポール 販売代理店の設置について（ご案内） — ヨシモトポール 販売代理店の設置について（ご案内） YSポール株式会社 PDF https://www.yspole.co.jp > dcms_media > other > 販...」（https://www.yspole.co.jp/dcms_media/other/%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97%E8%A8%AD%E7%BD%AE%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf・3回目）
+  - 「ヨシモトポール株式 会社 — ヨシモトポール株式 会社 ヨシモトポール株式会社 https://www.ypole.co.jp」（https://www.ypole.co.jp/・3回目）
+  - 「ヨシモトポール株式 会社 の求人・中途採用情報 - doda — ヨシモトポール株式 会社 の求人・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10003745134」（https://doda.jp/DodaFront/View/CompanyJobs/j_id__10003745134/・3回目）
+  - 「ヨシモトポール株式 会社（東京都）の会社概要・役員 — ヨシモトポール株式 会社（東京都）の会社概要・役員 Compalyze https://compalyze.co.jp > 企業検索 > 鉄鋼・金属」（https://compalyze.co.jp/company/9010001031753・3回目）
+- 客は誰か：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部26頁・検索11回）
 
 ## 中央エンジニアリング
 - 公式URL：https://www.chuo-eng.co.jp/（given）
@@ -4560,6 +4728,82 @@ NTTエレクトロニクステクノ株式会社
 - 事業内容：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部18頁・検索11回）
 - 売上高：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部18頁・検索11回）
 - 客は誰か：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部18頁・検索11回）
+
+## 東特塗料
+- 公式URL：https://www.totoku-toryo.co.jp/（given）
+- 事業内容：エナメル線用ワニス・ 機能性接着剤の製造及び販売（https://www.totoku-toryo.co.jp/・1回目）
+- 事業内容：電気絶縁エナメル線用ワニス・ 機能性接着剤の設計、製造及び販売（https://www.totoku-toryo.co.jp/company・1回目）
+- 事業内容：電気絶縁エナメル線用ワニス・ 機能性接着剤の設計、製造及び販売（http://www.totoku-toryo.co.jp/company・1回目）
+- 資本金：247,500,000円（https://www.totoku-toryo.co.jp/company・1回目）
+- 資本金：247,500,000円（http://www.totoku-toryo.co.jp/company・1回目）
+- 資本金：2億4750万円（https://job.mynavi.jp/27/pc/search/corp68102/outline.html・3回目）
+- 創業年度：設立：1950年3月（https://www.totoku-toryo.co.jp/・1回目）
+- 創業年度：設　立：1950年3月（https://www.totoku-toryo.co.jp/company・1回目）
+- 創業年度：設　立：1950年3月（http://www.totoku-toryo.co.jp/company・1回目）
+- 従業員数：67名（2026年6月）（https://job.mynavi.jp/27/pc/search/corp68102/outline.html・3回目）
+- 従業員数：53名（内、女性従業員数15名）（https://www.kaisyahakken.metro.tokyo.lg.jp/old/company/totoku-toryo/・3回目）
+- 従業員数：30〜99人（https://www.openwork.jp/company.php?m_id=a0910000000G1l6・3回目）
+- 売上高：34.65億円（2024年2月）（https://job.mynavi.jp/27/pc/search/corp68102/outline.html・3回目）
+- 所在地：東京都墨田区（https://www.totoku-toryo.co.jp/・1回目）
+- 所在地：本社 〒130-0014 東京都墨田区亀沢4-5-6 TEL : 03-3621-4141（代） FAX : 03-3623-3787 本社（https://www.totoku-toryo.co.jp/company・1回目）
+- 所在地：本社 〒130-0014 東京都墨田区亀沢4-5-6 TEL : 03-3621-4141（代） FAX : 03-3623-3787 本社（http://www.totoku-toryo.co.jp/company・1回目）
+- 代表者：代表取締役　荒川　淳也（https://www.totoku-toryo.co.jp/company・1回目）
+- 代表者：代表取締役　荒川　淳也（http://www.totoku-toryo.co.jp/company・1回目）
+- 代表者：代表取締役社長 池田聡（https://www.kaisyahakken.metro.tokyo.lg.jp/old/company/totoku-toryo/・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「電気絶縁エナメル線用ワニスの製造、環境への取り組み等をご紹介する動画です！ぜひ一度ご覧ください！」（https://www.totoku-toryo.co.jp/・1回目）
+  - 「当社は1950年の創業以来、エナメル線用ワニス、機能性接着剤の開発・製造を軸に、日本のエレクトロニクス産業の発展を支えてきました」（https://www.totoku-toryo.co.jp/・1回目）
+  - 「東特塗料の絶縁塗料における国内市場占有率は約48％で、台湾のJ/Vの生産販売分を併せた世界市場占有率は約16％を占めています」（https://www.totoku-toryo.co.jp/・1回目）
+  - 「機能性接着剤の設計、製造及び販売」（https://www.totoku-toryo.co.jp/company・1回目）
+  - 「大東京塗料株式会社（代表者 稲葉豊英）として東京蒲田で創業しワニス製造を開始」（https://www.totoku-toryo.co.jp/company/history・1回目）
+  - 「ホルマール電線用ワニスの特許を取得し、製造を開始」（https://www.totoku-toryo.co.jp/company/history・1回目）
+  - 「8月 ポリエステルワニスの特許を取得し、製造を開始」（https://www.totoku-toryo.co.jp/company/history・1回目）
+  - 「2月 台湾、桃園県に合弁会社「福保化学股份有限公司」を設立し、ワニス製造を開始」（https://www.totoku-toryo.co.jp/company/history・1回目）
+  - 「新規開発製品（工業用接着剤、ラミネート関連製品）を電子機器分野へ販売開始」（https://www.totoku-toryo.co.jp/company/history・1回目）
+  - 「機能性接着剤の設計、製造及び販売」（http://www.totoku-toryo.co.jp/company・1回目）
+  - 「◆主力製品：絶縁塗料（世界中のモーターやコイルに使用され、グローバルに展開）」（https://job.mynavi.jp/27/pc/search/corp68102/outline.html・3回目）
+  - 「◆活躍分野：研究開発、製造、品質管理など」（https://job.mynavi.jp/27/pc/search/corp68102/outline.html・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「東特塗料は、電気絶縁材料に独自の技術を発揮、特にマグネットワイヤー用ワニス分野においては全グレードをラインナップするとともに、東特塗料グループとして世界第2位の実績を誇る専業メーカーです」（https://www.totoku-toryo.co.jp/・1回目）
+  - 「5月 埼玉県本庄市に合成樹脂ワニス専門工場ならびに研究所を建設し、操業を開始」（https://www.totoku-toryo.co.jp/company/history・1回目）
+  - 「本庄工場の設備拡充を図り、合成樹脂ワニスの増産体制に着手」（https://www.totoku-toryo.co.jp/company/history・1回目）
+  - 「4月 本庄工場の設備拡充を図る」（https://www.totoku-toryo.co.jp/company/history・1回目）
+  - 「11月 東京都墨田区亀沢に社屋を建設し、本社を移転」（https://www.totoku-toryo.co.jp/company/history・1回目）
+  - 「7月 本庄工場FA化完成、操業を開始」（https://www.totoku-toryo.co.jp/company/history・1回目）
+  - 「9月 本庄工場の開発棟を竣工し、新規開発品の生産強化を行う」（https://www.totoku-toryo.co.jp/company/history・1回目）
+  - 「2月 臭気対策に工場各施設に脱臭装置設置」（https://www.totoku-toryo.co.jp/company/history・1回目）
+  - 「1月 環境・省エネ対策にて工場に太陽光発電装置設置」（https://www.totoku-toryo.co.jp/company/history・1回目）
+  - 「11月 本庄工場にて事務所新設」（https://www.totoku-toryo.co.jp/company/history・1回目）
+  - 「2月 本庄工場にて電線試作室及びドラム洗浄工場等に脱臭装置設置」（https://www.totoku-toryo.co.jp/company/history・1回目）
+  - 「10月 本庄工場にて新規生産室完成」（https://www.totoku-toryo.co.jp/company/history・1回目）
+- 資本金・株主：
+  - 「東京特殊電線塗料株式会社として資本金50万円にて東京都江戸川区小松川で」（https://www.totoku-toryo.co.jp/company/history・1回目）
+  - 「資本金 2億4,750万円」（https://www.totoku-toryo.co.jp/company/group・1回目）
+  - 「資本金 9,025万ＮＴ＄」（https://www.totoku-toryo.co.jp/company/group・1回目）
+  - 「資本金 500万US$」（https://www.totoku-toryo.co.jp/company/group・1回目）
+  - 「資本金 48,8万US$」（https://www.totoku-toryo.co.jp/company/group・1回目）
+  - 「資本金 7,800万INR」（https://www.totoku-toryo.co.jp/company/group・1回目）
+  - 「東京特殊電線塗料株式会社として資本金50万円にて東京都江戸川区小松川で発足し絶縁ワニスの製造をはじめる」（https://job.mynavi.jp/27/pc/search/corp68102/outline.html・3回目）
+  - 「イチネングループ【(株)イチネンホールディングス（東証プライム上場）／(株)イチネン／(株)イチネンケミカルズ／(株)イチネンアクセス／新光硝子工業(株)／(株)イチネンパーキング】」（https://job.mynavi.jp/27/pc/search/corp68102/outline.html・3回目）
+  - 「資本金：2億4,750万円」（https://www.kaisyahakken.metro.tokyo.lg.jp/old/company/totoku-toryo/・3回目）
+- 表彰・認定の記録：
+  - 「この時、福田さんは独学でソフトウェアLinuxの技術者認定のひとつであるLPIC（エルピック）の資格を2つ取得するなど、ITの知識を身につけたという」（https://www.kaisyahakken.metro.tokyo.lg.jp/old/company/totoku-toryo/・3回目）
+- 検索結果の抜粋：
+  - 「東特塗料 (株)の新卒採用・ 会社概要 | マイナビ2027 — 東特塗料 (株)の新卒採用・ 会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp68102 > outline」（https://job.mynavi.jp/27/pc/search/corp68102/outline.html・3回目）
+  - 「東特塗料 株式会社の 会社概要 ・製品情報 - Metoree — 東特塗料 株式会社の 会社概要 ・製品情報 - Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/18515/・3回目）
+  - 「沿革 - 東特塗料株式会社 — 沿革 - 東特塗料株式会社 東特塗料株式会社 https://www.totoku-toryo.co.jp > company > history」（https://www.totoku-toryo.co.jp/company/history・3回目）
+  - 「東特塗料 株式 会社 - 東京カイシャハッケン伝 — 東特塗料 株式 会社 - 東京カイシャハッケン伝 東京カイシャハッケン伝 https://www.kaisyahakken.metro.tokyo.lg.jp > totoku-toryo」（https://www.kaisyahakken.metro.tokyo.lg.jp/old/company/totoku-toryo/・3回目）
+  - 「東特塗料 株式 会社 本庄工場 - イプロス — 東特塗料 株式 会社 本庄工場 - イプロス 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 建材・資材・什器」（https://mono.ipros.com/company/detail/2056682/・3回目）
+  - 「東特塗料 (株)の新卒採用・会社概要 | マイナビ2027 — 東特塗料 (株)の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp68102 > outline」（https://job.mynavi.jp/27/pc/search/corp68102/outline.html・3回目）
+  - 「東特塗料 株式会社 — 東特塗料 株式会社 東特塗料株式会社 https://www.totoku-toryo.co.jp」（https://www.totoku-toryo.co.jp/・3回目）
+  - 「東特塗料 株式会社 - 東京カイシャハッケン伝 — 東特塗料 株式会社 - 東京カイシャハッケン伝 東京カイシャハッケン伝 https://www.kaisyahakken.metro.tokyo.lg.jp > totoku-toryo」（https://www.kaisyahakken.metro.tokyo.lg.jp/old/company/totoku-toryo/・3回目）
+  - 「東特塗料 - Wikipedia — 東特塗料 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 東特塗料」（https://ja.wikipedia.org/wiki/%E6%9D%B1%E7%89%B9%E5%A1%97%E6%96%99・3回目）
+  - 「東特塗料 株式会社 本庄工場 - イプロス — 東特塗料 株式会社 本庄工場 - イプロス 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 建材・資材・什器」（https://mono.ipros.com/company/detail/2056682/・3回目）
+  - 「東特塗料 株式会社 の企業情報 - バフェット・コード — 東特塗料 株式会社 の企業情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company」（https://www.buffett-code.com/company/5jyvvnd8eh/・3回目）
+  - 「東特塗料 株式会社の役員経歴 - IRBANK — 東特塗料 株式会社の役員経歴 - IRBANK IRBANK https://irbank.net > 東特塗料株式会社」（https://irbank.net/%E6%9D%B1%E7%89%B9%E5%A1%97%E6%96%99%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE・3回目）
+- 株主：記載なし（3回確認済み：公式7頁／PDF・画像1件／外部12頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式7頁／PDF・画像1件／外部12頁・検索11回）
+- 客は誰か：記載なし（3回確認済み：公式7頁／PDF・画像1件／外部12頁・検索11回）
 
 ## 横浜油脂工業
 - 公式URL：https://www.yof-linda.co.jp/（given）

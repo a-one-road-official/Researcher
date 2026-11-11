@@ -1,0 +1,1354 @@
+{
+ "name": "LeydenJar",
+ "aliases": [],
+ "context": "旧営業リスト｜Materials / process technology｜AI送信済み",
+ "researched_at": "2026-11-11T05:11:52.924683+00:00",
+ "official_url": "https://leyden-jar.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2016",
+    "url": "https://leadiq.com/c/leydenjar/5a1dba7b2300005300b79523",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Are you excited to help shape the future of battery technology while leading the way to the new age of consumer electronics and mobility? Do you want to work with an ambitious and entrepreneurial team and innovate with Fortune500 companies?",
+    "url": "https://leyden-jar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "BBC Report: Can Europe Overcome High-Profile Setbacks to Rebuild Its Battery Industry?",
+    "url": "https://leyden-jar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "LeydenJar Launches Silyte™ Fast-Track Evaluation Program for Wearables",
+    "url": "https://leyden-jar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "LeydenJar Wins the Prestigious Peter Wennink Tech Award 2026",
+    "url": "https://leyden-jar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Are you excited to help shape the future of battery technology and consequently the future of consumer electronics and mobility? Do you want work with an ambitious and entrepreneurial team and with Fortune500 clients to bring LeydenJar's revolutionary product to market? Are you excited to dive in to a VC-backed deep tech scale-up company with the ambition to change the world? Then join us!",
+    "url": "https://leydenjar.recruitee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "LeydenJar creates the world’s most energy dense anode foil made of break-proof silicon. Using LeydenJar anodes, technology companies can benefit from Li-ion batteries that are extremely powerful, small and fast to charge. LeydenJar’s unique technology solves frequently occurring problems with the use of silicon, such as swelling and breaking when charged.",
+    "url": "https://leydenjar.recruitee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Can we? We sure think so. Maybe not today, maybe not tomorrow, but we’re pretty close. We strive for a bright future, filled with energy. One step at a time, big ambitions in mind.",
+    "url": "https://leydenjar.recruitee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Product & Commercialization Manager, Drone cells",
+    "url": "https://leydenjar.recruitee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Laboratory Technician - Battery Production in R&D Leiden| Full-time| On-site",
+    "url": "https://leydenjar.recruitee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "B2B Marketing Internship",
+    "url": "https://leydenjar.recruitee.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", and wearables with increased functionality and exceptional battery life, and new and improved technologies to tackle climate change.",
+    "url": "https://leyden-jar.com/about-leydenjar/",
+    "pass": 1
+   },
+   {
+    "quote": ", and a low environmental footprint, LeydenJar’s anodes are truly indispensable.",
+    "url": "https://leyden-jar.com/about-leydenjar/",
+    "pass": 1
+   },
+   {
+    "quote": "footprint with significant cost savings.",
+    "url": "https://leyden-jar.com/about-leydenjar/",
+    "pass": 1
+   },
+   {
+    "quote": "Christian Rood and Gabriel de Scheemaker founded LeydenJar in 2016. The original PECVD production process for silicon anodes was discovered at ECN, a research organization in The Netherlands. The founders recognized the great value that the silane PECVD process could have for the battery industry and launched LeydenJar as a spin-out.",
+    "url": "https://leyden-jar.com/about-leydenjar/",
+    "pass": 1
+   },
+   {
+    "quote": "LeydenJar demonstrated the highest energy density in the market of 1350Wh/L. Meanwhile, roll-to-roll manufacturability was developed in the GEN2 production tool. These results gained significant market attention, valuable for next steps to market entry.",
+    "url": "https://leyden-jar.com/about-leydenjar/",
+    "pass": 1
+   },
+   {
+    "quote": "Demonstrated high energy density and roll-to-roll production technology gained attention from investors, which resulted of closing a €22m Series A. The final step to first market entry was taken and the organization grew and developed first applications.",
+    "url": "https://leyden-jar.com/about-leydenjar/",
+    "pass": 1
+   },
+   {
+    "quote": "We introduced Silyte, the world’s first 100% silicon anode. Scaling up established technology to a product ready for the market. Silyte packs significantly more energy into the same space, giving cell manufacturers a path to batteries with a higher energy density. This was the moment LeydenJar crossed from R&D into a product the industry could actually build with.",
+    "url": "https://leyden-jar.com/about-leydenjar/",
+    "pass": 1
+   },
+   {
+    "quote": "LeydenJar will open a 70 MWh anode foil production facility in 2027: the LeydenJar Plant One. Construction is scheduled for 2025-2026, production in 2027.",
+    "url": "https://leyden-jar.com/about-leydenjar/",
+    "pass": 1
+   },
+   {
+    "quote": "Co-founded LeydenJar Technologies in April 2016. Christian has a background in high tech venturing and investments.",
+    "url": "https://leyden-jar.com/about-leydenjar/",
+    "pass": 1
+   },
+   {
+    "quote": "Evan previously worked as Director of Business Development at Sion Power and VP Sales at A123 Systems and Voltaiq.",
+    "url": "https://leyden-jar.com/about-leydenjar/",
+    "pass": 1
+   },
+   {
+    "quote": "Ewout worked at NPM Capital, a leading Dutch private equity investment firm, and holds a MSc. Applied Physics and a BA. Philosophy.",
+    "url": "https://leyden-jar.com/about-leydenjar/",
+    "pass": 1
+   },
+   {
+    "quote": "Ed is a senior leader in production environments, previously leading research and production teams at Fujifilm for more than 32 years.",
+    "url": "https://leyden-jar.com/about-leydenjar/",
+    "pass": 1
+   },
+   {
+    "quote": "VP PRODUCT DEVELOPMENT",
+    "url": "https://leyden-jar.com/about-leydenjar/",
+    "pass": 1
+   },
+   {
+    "quote": "Seasoned professional in thin film processing and coating equipment, and holds a PhD degree in plasma and solid-state physics.",
+    "url": "https://leyden-jar.com/about-leydenjar/",
+    "pass": 1
+   },
+   {
+    "quote": "Casper is an experienced system architect, previously leading high-impact multi-disciplinary projects at Demcon, TMC and Omron.",
+    "url": "https://leyden-jar.com/about-leydenjar/",
+    "pass": 1
+   },
+   {
+    "quote": "DSM, Entrepreneur, VC",
+    "url": "https://leyden-jar.com/about-leydenjar/",
+    "pass": 1
+   },
+   {
+    "quote": "Dutch battery innovator LeydenJar lands €30 million EIB quasi equity financing, backed by a European Commission guarantee, to scale up its technology and production.",
+    "url": "https://www.eib.org/en/press/all/2022-524-leydenjar-secures-eu-backing-in-financing-of-new-battery-factory",
+    "pass": 3
+   },
+   {
+    "quote": "LeydenJar will build a new factory with a production capacity of 100 MWh to produce its pure silicon anodes for a high energy density battery on an industrial scale, accelerating the energy transition.",
+    "url": "https://www.eib.org/en/press/all/2022-524-leydenjar-secures-eu-backing-in-financing-of-new-battery-factory",
+    "pass": 3
+   },
+   {
+    "quote": "The new battery technology is expected to vastly improve battery capacity, as well as open up a range of new possibilities in transportation and other applications.",
+    "url": "https://www.eib.org/en/press/all/2022-524-leydenjar-secures-eu-backing-in-financing-of-new-battery-factory",
+    "pass": 3
+   },
+   {
+    "quote": "Dutch battery innovator LeydenJar has secured the funding to build its first factory to produce silicon anode foil. The company will invest €60 million in the construction of its first production facility, called “Plant One”, of which €30 million comes from a European Investment Bank loan facility.",
+    "url": "https://www.eib.org/en/press/all/2022-524-leydenjar-secures-eu-backing-in-financing-of-new-battery-factory",
+    "pass": 3
+   },
+   {
+    "quote": "InnovFin Energy Demonstration Projects",
+    "url": "https://www.eib.org/en/press/all/2022-524-leydenjar-secures-eu-backing-in-financing-of-new-battery-factory",
+    "pass": 3
+   },
+   {
+    "quote": "of the European Commission, funded by EU’s research & innovation framework program.",
+    "url": "https://www.eib.org/en/press/all/2022-524-leydenjar-secures-eu-backing-in-financing-of-new-battery-factory",
+    "pass": 3
+   },
+   {
+    "quote": "The rest of the financing comes from LeydenJar’s client projects, earlier committed grants and the Series A investment round in 2021.The production facility is expected to be built in the province of Noord-Brabant, creating employment locally, and should be fully operational by 2026. The aim of the plant is to prepare the silicon anode foil for mass production, subsequently bringing down the cost.",
+    "url": "https://www.eib.org/en/press/all/2022-524-leydenjar-secures-eu-backing-in-financing-of-new-battery-factory",
+    "pass": 3
+   },
+   {
+    "quote": "added EIB vice-president",
+    "url": "https://www.eib.org/en/press/all/2022-524-leydenjar-secures-eu-backing-in-financing-of-new-battery-factory",
+    "pass": 3
+   },
+   {
+    "quote": "“In the fight against climate change, renewable energy and energy efficiency alone are not going to cut it. One, often overlooked, area where huge gains can still be made is innovation of critical technology. LeydenJar has taken up that gauntlet and the EIB is very proud to support this scaling up of very promising technology.”",
+    "url": "https://www.eib.org/en/press/all/2022-524-leydenjar-secures-eu-backing-in-financing-of-new-battery-factory",
+    "pass": 3
+   },
+   {
+    "quote": "emissions of anode production by 85%.",
+    "url": "https://www.eib.org/en/press/all/2022-524-leydenjar-secures-eu-backing-in-financing-of-new-battery-factory",
+    "pass": 3
+   },
+   {
+    "quote": "(EIB) is the European Union’s long-term lending institution owned by the EU Member States — the Netherlands owns a 5.2% stake. It provides long-term loans for sound investments that contribute to EU policy objectives such as employment, sustainable growth, and fighting climate change. Last year alone, the EIB made available slightly over €2 billion for",
+    "url": "https://www.eib.org/en/press/all/2022-524-leydenjar-secures-eu-backing-in-financing-of-new-battery-factory",
+    "pass": 3
+   },
+   {
+    "quote": "projects in Netherlands",
+    "url": "https://www.eib.org/en/press/all/2022-524-leydenjar-secures-eu-backing-in-financing-of-new-battery-factory",
+    "pass": 3
+   },
+   {
+    "quote": "GEN3 Production Platform (EDP)",
+    "url": "https://www.eib.org/en/press/all/2022-524-leydenjar-secures-eu-backing-in-financing-of-new-battery-factory",
+    "pass": 3
+   },
+   {
+    "quote": "The intention was to develop new thin-film solar cell technology, but the manufacturing method proved more suitable for use in batteries. Thus, a 'failed' project became a promising start-up in a relatively short period of time.",
+    "url": "https://ventures.tno.nl/portfolio/leydenjar/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2019 TNO won second prize in the Impact Delivered category of the EARTO Innovation Awards in Brussels for a prototype that increases the energy density of batteries by 50%. This prototype is being brought to market by LeydenJar. The photo shows Dr Wim Soppe being presented with the award.",
+    "url": "https://ventures.tno.nl/portfolio/leydenjar/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Printed & Flexible Electronics",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing and Additive Manufacturing",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Heat Shields & Thermal Protection Systems for Spacecraft",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Materials and Processing for Advanced Semiconductor Packaging",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Materials for Green Hydrogen Production",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Management, Fire and Explosion Protection for BESS",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Fire Protection Materials for EV Batteries",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Blue Hydrogen Production and Markets",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Green Hydrogen Production & Electrolyzer Market",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Flexible & Printed Electronics",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Printed Electronics",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Printed and Flexible Sensors",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Virtual Reality & Augmented Reality Headsets",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Printed, Flexible and Organic Electronics",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Article: External press release",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Company: Full profile interview",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Company: Update interview",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "We introduced Silyte, the world’s first 100% silicon anode. Scaling up established technology to a product ready for the market. Silyte packs significantly more energy into the same space, giving cell manufacturers a path to batteries with a higher energy density. This was the moment LeydenJar crossed from R&D into a product the industry could actually build with.",
+    "url": "https://leyden-jar.com/about-leydenjar/",
+    "pass": 1
+   },
+   {
+    "quote": "LeydenJar will open a 70 MWh anode foil production facility in 2027: the LeydenJar Plant One. Construction is scheduled for 2025-2026, production in 2027.",
+    "url": "https://leyden-jar.com/about-leydenjar/",
+    "pass": 1
+   },
+   {
+    "quote": "Netherlands: LeydenJar secures EU backing in financing of new battery factory",
+    "url": "https://www.eib.org/en/press/all/2022-524-leydenjar-secures-eu-backing-in-financing-of-new-battery-factory",
+    "pass": 3
+   },
+   {
+    "quote": "LeydenJar will build a new factory with a production capacity of 100 MWh to produce its pure silicon anodes for a high energy density battery on an industrial scale, accelerating the energy transition.",
+    "url": "https://www.eib.org/en/press/all/2022-524-leydenjar-secures-eu-backing-in-financing-of-new-battery-factory",
+    "pass": 3
+   },
+   {
+    "quote": "Dutch battery innovator LeydenJar has secured the funding to build its first factory to produce silicon anode foil. The company will invest €60 million in the construction of its first production facility, called “Plant One”, of which €30 million comes from a European Investment Bank loan facility.",
+    "url": "https://www.eib.org/en/press/all/2022-524-leydenjar-secures-eu-backing-in-financing-of-new-battery-factory",
+    "pass": 3
+   },
+   {
+    "quote": "The rest of the financing comes from LeydenJar’s client projects, earlier committed grants and the Series A investment round in 2021.The production facility is expected to be built in the province of Noord-Brabant, creating employment locally, and should be fully operational by 2026. The aim of the plant is to prepare the silicon anode foil for mass production, subsequently bringing down the cost.",
+    "url": "https://www.eib.org/en/press/all/2022-524-leydenjar-secures-eu-backing-in-financing-of-new-battery-factory",
+    "pass": 3
+   },
+   {
+    "quote": "The intention was to develop new thin-film solar cell technology, but the manufacturing method proved more suitable for use in batteries. Thus, a 'failed' project became a promising start-up in a relatively short period of time.",
+    "url": "https://ventures.tno.nl/portfolio/leydenjar/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing and Additive Manufacturing",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Additive Manufacturing",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Polymer Additive Manufacturing",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Biomanufacturing Specialty Chemicals",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Biomanufacturing",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Materials for Bone Implants",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Sustainable Plastics for Automotive",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Battery Storage for Data Centers, Commercial & Industrial Applications",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Future Automotive Technologies",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Stationary Fuel Cells for Data Centers, Commercial & Industrial Applications",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Printed Electronics",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Radar Market",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Driving Software and AI in Automotive",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Sustainable Electronics and Semiconductor Manufacturing",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechEx caught up with Leyden-Jar Technologies, a Dutch start-up working on developing a process for manufacturing pure silicon anodes for Li-ion batteries.",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Supplies and Parts",
+    "url": "https://pitchbook.com/profiles/company/226874-62",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/226874-62",
+    "pass": 3
+   },
+   {
+    "quote": "LeydenJar’s primary industry is Industrial Supplies and Parts.",
+    "url": "https://pitchbook.com/profiles/company/226874-62",
+    "pass": 3
+   },
+   {
+    "quote": "LeydenJar’s 100% silicon anode technology targets high energy density needs across consumer electronics, wearables, drones, and mobile devices, presenting sales opportunities with battery manufacturers, OEMs, and contract manufacturers seeking next-generation Li-ion solutions.",
+    "url": "https://leadiq.com/c/leydenjar/5a1dba7b2300005300b79523",
+    "pass": 3
+   },
+   {
+    "quote": "Operations in Leiden and Eindhoven with a U.S. business development presence indicate readiness to engage North American partners, suppliers, and customers, suggesting outbound BD efforts should prioritize US-based consumer electronics brands and aerospace/defense integrators.",
+    "url": "https://leadiq.com/c/leydenjar/5a1dba7b2300005300b79523",
+    "pass": 3
+   },
+   {
+    "quote": "Recent awards and recognitions from Fast Company, TIME, and Statista, plus the Peter Wennink Tech Award, bolster credibility with large industrial buyers and grant-funded programs seeking cutting-edge battery technology.",
+    "url": "https://leadiq.com/c/leydenjar/5a1dba7b2300005300b79523",
+    "pass": 3
+   },
+   {
+    "quote": "Completion of PlantOne infrastructure and planned roll-to-roll expansion in 2027 signal growing manufacturing capacity, enabling targeted pitches to OEMs and Tier-1 suppliers needing scalable silicon-anode production and supply chain reliability.",
+    "url": "https://leadiq.com/c/leydenjar/5a1dba7b2300005300b79523",
+    "pass": 3
+   },
+   {
+    "quote": "Leyden Jar completes core infrastructure at PlantOne, its production-scale anode manufacturing facility in the Netherlands, where anode roll production is underway and expanded commercial capacity comes online in 2027 as its next-generation roll-to-roll line reaches full operation.",
+    "url": "https://leadiq.com/c/leydenjar/5a1dba7b2300005300b79523",
+    "pass": 3
+   },
+   {
+    "quote": "The announcement follows the recent completion of core infrastructure at PlantOne, LeydenJar's production-scale anode manufacturing facility in Eindhoven, Netherlands.",
+    "url": "https://leadiq.com/c/leydenjar/5a1dba7b2300005300b79523",
+    "pass": 3
+   },
+   {
+    "quote": "Leyden Jar receives the Peter Wennink Tech Award 2026 at FME's 75th-anniversary celebration in The Hague, Netherlands, presented by jury chairman and former ASML CEO Peter Wennink for breakthrough battery technology and industrial scalability.",
+    "url": "https://leadiq.com/c/leydenjar/5a1dba7b2300005300b79523",
+    "pass": 3
+   },
+   {
+    "quote": "The Leyden jars of that time were legitimate industrial products that supported wireless communication, and they were also military supplies. In the British Navy, the",
+    "url": "https://note.com/kagefumimaru/n/n065ff360f368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the end, the nitric acid factory ended in failure, but his capacitor was recognized for its performance and became widely used, even being used in the broadcasting equipment of the Eiffel Tower.",
+    "url": "https://note.com/kagefumimaru/n/n065ff360f368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, just because it sounds interesting, I do not recommend installing this in your home. Generally, lightning carries as much as 300,000,000 V and 30,000 A. If you were to create such a gap in the grounding wire of a lightning rod, a massive explosion caused by discharge would be expected in the event of a lightning strike.",
+    "url": "https://note.com/kagefumimaru/n/n97e5a65b15a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Diviš was a priest in the small village of Přímětice in the current South Moravian Region of the Czech Republic, where he managed the parish's farmland and carried out tasks such as laying water pipes. However, from the late 1740s, he became devoted to experiments in electrical science, researching electrical therapy and the effects of electricity on plant growth.",
+    "url": "https://note.com/kagefumimaru/n/n78976e99035e?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "(EIB) is the European Union’s long-term lending institution owned by the EU Member States — the Netherlands owns a 5.2% stake. It provides long-term loans for sound investments that contribute to EU policy objectives such as employment, sustainable growth, and fighting climate change. Last year alone, the EIB made available slightly over €2 billion for",
+    "url": "https://www.eib.org/en/press/all/2022-524-leydenjar-secures-eu-backing-in-financing-of-new-battery-factory",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechEx Report: Daniel Parr",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechEx Report: Daniel Parr and Dr Xiaoxi He",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/226874-62",
+    "pass": 3
+   },
+   {
+    "quote": "Arrangement for plasma-assisted gas phase separation comprehensively integrated microwave wave guide",
+    "url": "https://pitchbook.com/profiles/company/226874-62",
+    "pass": 3
+   },
+   {
+    "quote": "LeydenJar has 82 total employees.",
+    "url": "https://pitchbook.com/profiles/company/226874-62",
+    "pass": 3
+   },
+   {
+    "quote": "What is LeydenJar’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/226874-62",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for LeydenJar is",
+    "url": "https://pitchbook.com/profiles/company/226874-62",
+    "pass": 3
+   },
+   {
+    "quote": "www.mycarrollcountynews.com",
+    "url": "https://leadiq.com/c/leydenjar/5a1dba7b2300005300b79523",
+    "pass": 3
+   },
+   {
+    "quote": "How much revenue does",
+    "url": "https://leadiq.com/c/leydenjar/5a1dba7b2300005300b79523",
+    "pass": 3
+   },
+   {
+    "quote": "'s annual revenue is estimated to be",
+    "url": "https://leadiq.com/c/leydenjar/5a1dba7b2300005300b79523",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does",
+    "url": "https://leadiq.com/c/leydenjar/5a1dba7b2300005300b79523",
+    "pass": 3
+   },
+   {
+    "quote": "'s revenue is estimated to be in the range of",
+    "url": "https://leadiq.com/c/leydenjar/5a1dba7b2300005300b79523",
+    "pass": 3
+   },
+   {
+    "quote": "However, just because it sounds interesting, I do not recommend installing this in your home. Generally, lightning carries as much as 300,000,000 V and 30,000 A. If you were to create such a gap in the grounding wire of a lightning rod, a massive explosion caused by discharge would be expected in the event of a lightning strike.",
+    "url": "https://note.com/kagefumimaru/n/n97e5a65b15a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Diviš was a priest in the small village of Přímětice in the current South Moravian Region of the Czech Republic, where he managed the parish's farmland and carried out tasks such as laying water pipes. However, from the late 1740s, he became devoted to experiments in electrical science, researching electrical therapy and the effects of electricity on plant growth.",
+    "url": "https://note.com/kagefumimaru/n/n78976e99035e?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "LeydenJar : Pure Silicon Anode with high energy density — LeydenJar : Pure Silicon Anode with high energy density LeydenJar https://leyden-jar.com",
+    "url": "https://leyden-jar.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Netherlands: LeydenJar secures EU backing in financing of ... — Netherlands: LeydenJar secures EU backing in financing of ... European Investment Bank https://www.eib.org > press > all > 20...",
+    "url": "https://www.eib.org/en/press/all/2022-524-leydenjar-secures-eu-backing-in-financing-of-new-battery-factory",
+    "pass": 3
+   },
+   {
+    "quote": "LeydenJar - TNO Ventures — LeydenJar - TNO Ventures TNO https://ventures.tno.nl > Portfolio",
+    "url": "https://ventures.tno.nl/portfolio/leydenjar/",
+    "pass": 3
+   },
+   {
+    "quote": "LeydenJar Technologies timeline by IDTechEx — LeydenJar Technologies timeline by IDTechEx IDTechEx https://www.idtechex.com > timeline",
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "pass": 3
+   },
+   {
+    "quote": "LeydenJar's NEXT GEN SILICON Li-Ion Batteries - YouTube — LeydenJar's NEXT GEN SILICON Li-Ion Batteries - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=69uJnEA01Kk",
+    "pass": 3
+   },
+   {
+    "quote": "LeydenJar Expands into the U.S. and Opens Virginia Office — LeydenJar Expands into the U.S. and Opens Virginia Office LeydenJar https://leyden-jar.com > leydenjar-ex...",
+    "url": "https://leyden-jar.com/leydenjar-expands-into-the-u-s-launches-silyte-for-wearables-and-opens-virginia-office/",
+    "pass": 3
+   },
+   {
+    "quote": "Rolling Out Silicon with LeydenJar - Intercalation Station — Rolling Out Silicon with LeydenJar - Intercalation Station Intercalation Station https://intercalationstation.substack.com > ...",
+    "url": "https://intercalationstation.substack.com/p/rolling-out-silicon-with-leydenjar",
+    "pass": 3
+   },
+   {
+    "quote": "LeydenJar Launches Silyte™ Fast-Track Evaluation Program ... — LeydenJar Launches Silyte™ Fast-Track Evaluation Program ... LeydenJar https://leyden-jar.com > leydenjar-sily...",
+    "url": "https://leyden-jar.com/leydenjar-silyte-fast-track-evaluation-program-for-wearables/",
+    "pass": 3
+   },
+   {
+    "quote": "LeydenJar Closes New Investment Round to Launch First 100 ... — LeydenJar Closes New Investment Round to Launch First 100 ... LeydenJar https://leyden-jar.com > leydenjar-clo...",
+    "url": "https://leyden-jar.com/leydenjar-closes-new-investment-round-to-launch-first-100-silicon-anode-production-facility/",
+    "pass": 3
+   },
+   {
+    "quote": "LeydenJar 2026 Company Profile - PitchBook — LeydenJar 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/226874-62",
+    "pass": 3
+   },
+   {
+    "quote": "LeydenJar Technologies - Crunchbase Company Profile ... — LeydenJar Technologies - Crunchbase Company Profile ... Crunchbase https://www.crunchbase.com > leyden...",
+    "url": "https://www.crunchbase.com/organization/leydenjar-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "LeydenJar Company Overview, Contact Details & Competitors — LeydenJar Company Overview, Contact Details & Competitors LeadIQ https://leadiq.com > leydenjar",
+    "url": "https://leadiq.com/c/leydenjar/5a1dba7b2300005300b79523",
+    "pass": 3
+   },
+   {
+    "quote": "LeydenJar Technologies — venture-backed company profile — LeydenJar Technologies — venture-backed company profile Dealroom https://dealroom.co > companies > ley...",
+    "url": "https://dealroom.co/companies/leydenjar-technologies/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/226874-62",
+    "pass": 3
+   },
+   {
+    "quote": "'s Email Address Formats",
+    "url": "https://leadiq.com/c/leydenjar/5a1dba7b2300005300b79523",
+    "pass": 3
+   },
+   {
+    "quote": "uses at least 2 email formats:",
+    "url": "https://leadiq.com/c/leydenjar/5a1dba7b2300005300b79523",
+    "pass": 3
+   },
+   {
+    "quote": "'s email format typically follows the pattern of FL@leyden-jar.com.",
+    "url": "https://leadiq.com/c/leydenjar/5a1dba7b2300005300b79523",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "LeydenJar’s 100% silicon anode technology targets high energy density needs across consumer electronics, wearables, drones, and mobile devices, presenting sales opportunities with battery manufacturers, OEMs, and contract manufacturers seeking next-generation Li-ion solutions.",
+    "url": "https://leadiq.com/c/leydenjar/5a1dba7b2300005300b79523",
+    "pass": 3
+   },
+   {
+    "quote": "Completion of PlantOne infrastructure and planned roll-to-roll expansion in 2027 signal growing manufacturing capacity, enabling targeted pitches to OEMs and Tier-1 suppliers needing scalable silicon-anode production and supply chain reliability.",
+    "url": "https://leadiq.com/c/leydenjar/5a1dba7b2300005300b79523",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "About the Leyden Jar , Part 2-1: Electrical Batteries and Turkeys About the Leyden Jar , Part 2-1: Electrical Batteries and Turkeys note https://note.com > ... > 科学史・科学者",
+    "url": "https://note.com/kagefumimaru/n/nb625fd1aa866?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "About the Leyden Jar , Part 6: Spark-Gap Wireless｜影踏丸 About the Leyden Jar , Part 6: Spark-Gap Wireless｜影踏丸 note https://note.com > kagefumimaru",
+    "url": "https://note.com/kagefumimaru/n/n065ff360f368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "About the Leyden Jar , Part 3: Franklin's Bells｜影踏丸 - note About the Leyden Jar , Part 3: Franklin's Bells｜影踏丸 - note note https://note.com > ... > 科学史・科学者",
+    "url": "https://note.com/kagefumimaru/n/n97e5a65b15a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "About Leyden Jars, Part 2-4: The Electric Clavecin｜影踏丸 About Leyden Jars, Part 2-4: The Electric Clavecin｜影踏丸 note https://note.com > ... > 科学史・科学者",
+    "url": "https://note.com/kagefumimaru/n/n78976e99035e?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "About the Leyden Jar, Part 2-1: Electrical Batteries and Turkeys｜影踏丸",
+    "url": "https://note.com/kagefumimaru/n/nb625fd1aa866?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "About the Leyden Jar, Part 2-1: Electrical Batteries and Turkeys",
+    "url": "https://note.com/kagefumimaru/n/nb625fd1aa866?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When the experiments of Musschenbroek and his colleagues were presented at the French Academy of Sciences in January 1746, electrical experiments using this \"Leyden jar\" caused a tremendous sensation.",
+    "url": "https://note.com/kagefumimaru/n/nb625fd1aa866?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is better to think of the Leyden jar not as a device for storing electricity, but as a booster that increases the output of an electrostatic generator. The capacitance of a typical Leyden jar is about 1000pF, but adding one increases the output of a friction generator by two orders of magnitude. The Leyden jar elevated the power of electricity, which until then had at most only produced small s",
+    "url": "https://note.com/kagefumimaru/n/nb625fd1aa866?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Bernard S. Finn, Output of Eighteenth-Century Electrostatic Machines, The British Journal for the History of Science, Vol. 5, No. 3 (Jun., 1971), pp. 289-291.",
+    "url": "https://note.com/kagefumimaru/n/nb625fd1aa866?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, Musschenbroek was ultimately just using an existing glass container as it was, and did not add any ingenuity to it. It feels a bit strange to call this the \"invention\" of the Leyden jar.",
+    "url": "https://note.com/kagefumimaru/n/nb625fd1aa866?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Improvements to the Leyden jar as a device began when",
+    "url": "https://note.com/kagefumimaru/n/nb625fd1aa866?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Johann Heinrich Winkler",
+    "url": "https://note.com/kagefumimaru/n/nb625fd1aa866?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "About the Leyden Jar, Part 6: Spark-Gap Wireless｜影踏丸",
+    "url": "https://note.com/kagefumimaru/n/n065ff360f368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "About the Leyden Jar, Part 6: Spark-Gap Wireless",
+    "url": "https://note.com/kagefumimaru/n/n065ff360f368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "With Alessandro Volta's invention of the battery in 1800, the primary form of electricity handled in the 19th century shifted from static electricity to current electricity. This accelerated the research and application of electricity, eventually leading to a transformation in human civilization.",
+    "url": "https://note.com/kagefumimaru/n/n065ff360f368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1825: William Sturgeon develops the electromagnet.",
+    "url": "https://note.com/kagefumimaru/n/n065ff360f368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1831: Michael Faraday discovers the law of electromagnetic induction.",
+    "url": "https://note.com/kagefumimaru/n/n065ff360f368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1832: Hippolyte Pixii develops the magnet-rotating generator.",
+    "url": "https://note.com/kagefumimaru/n/n065ff360f368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1837: Cooke and Wheatstone in the UK, and Morse in the US, obtain patents for the electromagnetic telegraph.",
+    "url": "https://note.com/kagefumimaru/n/n065ff360f368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1866: The transatlantic submarine telegraph cable is completed.",
+    "url": "https://note.com/kagefumimaru/n/n065ff360f368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "About the Leyden Jar, Part 3: Franklin's Bells｜影踏丸",
+    "url": "https://note.com/kagefumimaru/n/n97e5a65b15a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "About the Leyden Jar, Part 3: Franklin's Bells",
+    "url": "https://note.com/kagefumimaru/n/n97e5a65b15a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Following the success of his Philadelphia experiment, Benjamin Franklin began installing lightning rods around the autumn of 1752 at locations such as the Philadelphia Academy (now the University of Pennsylvania) and the Pennsylvania State House (now Independence Hall). During construction at Independence Hall in 1960, the original grounding conductor was discovered still in place.",
+    "url": "https://note.com/kagefumimaru/n/n97e5a65b15a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The lightning rod can be said to be the first instance that demonstrated the utility of electrical science to the public, moving beyond the realms of pure theoretical pursuit or mere entertainment.",
+    "url": "https://note.com/kagefumimaru/n/n97e5a65b15a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It has pleased God in his goodness to mankind, at length to discover to them the means of securing their habitations and other buildings from mischief by thunder and lightning. The method is this: Provide a small iron rod (which may be made of the rod iron used by the nailers) long enough to be three or four feet in the moist ground, and six or eight feet above the highest part of the building. To",
+    "url": "https://note.com/kagefumimaru/n/n97e5a65b15a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Poor Richard's Almanack, 1753.",
+    "url": "https://note.com/kagefumimaru/n/n97e5a65b15a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Prior to these, Franklin naturally installed a lightning rod at his own home first, but he added a little twist to it.",
+    "url": "https://note.com/kagefumimaru/n/n97e5a65b15a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is what is now called",
+    "url": "https://note.com/kagefumimaru/n/n97e5a65b15a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "About Leyden Jars, Part 2-4: The Electric Clavecin｜影踏丸",
+    "url": "https://note.com/kagefumimaru/n/n78976e99035e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "About Leyden Jars, Part 2-4: The Electric Clavecin",
+    "url": "https://note.com/kagefumimaru/n/n78976e99035e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In fact, the \"Franklin's bells\" were not an invention of Franklin.",
+    "url": "https://note.com/kagefumimaru/n/n78976e99035e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Bells that ring due to such static electricity existed even before the Leyden jar, and it is thought that they were likely invented in 1741 by",
+    "url": "https://note.com/kagefumimaru/n/n78976e99035e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "(1712-1751), a professor at the University of Erfurt. Gordon also invented an electrostatic generator that used a glass cylinder instead of a glass sphere, as well as a type of motor that rotated using static electricity.",
+    "url": "https://note.com/kagefumimaru/n/n78976e99035e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Franklin knew of static electricity bells by at least 1746, and Franklin's collaborator",
+    "url": "https://note.com/kagefumimaru/n/n78976e99035e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "(1711-1778) created a device that rang eight static electricity bells of different pitches around 1747.",
+    "url": "https://note.com/kagefumimaru/n/n78976e99035e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Then, in 1759, the French Jesuit scientist",
+    "url": "https://note.com/kagefumimaru/n/n78976e99035e?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "What Is Stored in a Leyden Jar ? - X What Is Stored in a Leyden Jar ? - X X https://x.com > @Slate",
+    "url": "https://x.com/Slate/status/2118296662791561343",
+    "pass": 3
+   },
+   {
+    "quote": "FD Nieuws on X: \"Eindhovense batterijmaker LeydenJar haalt ... FD Nieuws on X: \"Eindhovense batterijmaker LeydenJar haalt ... X https://x.com > @FD_Nieuws",
+    "url": "https://x.com/FD_Nieuws/status/1432651794895843333",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "LeydenJar - LinkedIn LeydenJar - LinkedIn LinkedIn https://nl.linkedin.com > leydenjar",
+    "url": "https://nl.linkedin.com/company/leydenjar",
+    "pass": 3
+   },
+   {
+    "quote": "Christian Rood - co-founder and CEO LeydenJar Technologies Christian Rood - co-founder and CEO LeydenJar Technologies LinkedIn https://nl.linkedin.com > christian-roo...",
+    "url": "https://nl.linkedin.com/in/christian-rood-819568",
+    "pass": 3
+   },
+   {
+    "quote": "Silyte - LeydenJar | Christian Rood - LinkedIn Silyte - LeydenJar | Christian Rood - LinkedIn LinkedIn https://www.linkedin.com > posts > c...",
+    "url": "https://www.linkedin.com/posts/christian-rood-819568_silyte-leydenjar-activity-7506434560503611393-2NgC",
+    "pass": 3
+   },
+   {
+    "quote": "Christian Rood's Post - LeydenJar - LinkedIn Christian Rood's Post - LeydenJar - LinkedIn LinkedIn https://www.linkedin.com > posts > c...",
+    "url": "https://www.linkedin.com/posts/christian-rood-819568_what-is-leydenjar-here-for-bonding-more-activity-7467639070240776192-vfu4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Invention and History of the Leyden Jar - Facebook Invention and History of the Leyden Jar - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/archeologyandcivilizations/posts/7724383924321731/",
+    "pass": 3
+   },
+   {
+    "quote": "The making of the 5L Leyden Jar (salt water capacitor) :) The making of the 5L Leyden Jar (salt water capacitor) :) Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/474154952616338/posts/8997346963630385/",
+    "pass": 3
+   },
+   {
+    "quote": "How it works: Charge the Leyden jar → Connect everything ... How it works: Charge the Leyden jar → Connect everything ... Facebook https://www.facebook.com > posts > how-it-workscharge-...",
+    "url": "https://www.facebook.com/100069466216614/posts/how-it-workscharge-the-leyden-jar-connect-everything-place-the-glass-between-the/1288602650131930/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://leyden-jar.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://leydenjar.recruitee.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://leyden-jar.com/about-leydenjar/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://leyden-jar.com/storage/uploads/2022/09/partnership-project-greenspeed.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.youtube.com/watch?v=sPNBAOg_L-8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://solarjournal.jp/product/62560/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=qZmyrPcImd8&vl=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.toyo.co.jp/material/elechem/detail/id=40582",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://product.torexsemi.com/ja/sample-and-purchase/distributor?_pid=1041924946432_1792886400167",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://idtechproducts.com/ja/company/distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=8677",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.te.com/ja/customer-support/authorized-distributors.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eib.org/en/press/all/2022-524-leydenjar-secures-eu-backing-in-financing-of-new-battery-factory",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ventures.tno.nl/portfolio/leydenjar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://intercalationstation.substack.com/p/rolling-out-silicon-with-leydenjar",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ventures.tno.nl/portfolio/leydenjar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLIhzgzCb3vZANJfddgnHm5RFWBD_xjS2O6yTNrPoVUJt7LbrHz",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intermedia.com/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/226874-62",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/leydenjar-technologies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://leadiq.com/c/leydenjar/5a1dba7b2300005300b79523",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kagefumimaru/n/nb625fd1aa866?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kagefumimaru/n/n065ff360f368?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kagefumimaru/n/n97e5a65b15a2?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kagefumimaru/n/n78976e99035e?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Slate/status/2118296662791561343",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/FD_Nieuws/status/1432651794895843333",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/company/leydenjar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/in/christian-rood-819568",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/christian-rood-819568_silyte-leydenjar-activity-7506434560503611393-2NgC",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/christian-rood-819568_what-is-leydenjar-here-for-bonding-more-activity-7467639070240776192-vfu4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/archeologyandcivilizations/posts/7724383924321731/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/474154952616338/posts/8997346963630385/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100069466216614/posts/how-it-workscharge-the-leyden-jar-connect-everything-place-the-glass-between-the/1288602650131930/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "LeydenJar 日本 導入",
+   "results": [
+    "https://www.youtube.com/watch?v=sPNBAOg_L-8",
+    "https://solarjournal.jp/product/62560/",
+    "https://www.youtube.com/watch?v=qZmyrPcImd8&vl=ja",
+    "https://www.toyo.co.jp/material/elechem/detail/id=40582",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000155.pdf",
+    "https://www.jetro.go.jp/ext_images/_Reports/01/8fb2500fdc0ea327/20230009rev1.pdf",
+    "https://esgjournaljapan.com/world-news/34376",
+    "https://www.technologyreview.jp/s/301149/the-researcher-is-developing-next-generation-batteries-using-only-earth-abundant-elements/",
+    "https://energy.panasonic.com/jp/business/news/new-product/20240403",
+    "https://en.wikipedia.org/wiki/Leyden_jar"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "LeydenJar 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://product.torexsemi.com/ja/sample-and-purchase/distributor?_pid=1041924946432_1792886400167",
+    "https://idtechproducts.com/ja/company/distributors/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=8677",
+    "https://www.te.com/ja/customer-support/authorized-distributors.html",
+    "https://product.tdk.com/ja/contact/distributer.html",
+    "https://www.batop.de/japanese/sales-offices_jp.html",
+    "https://smd.co.jp/dealers/",
+    "https://metoree.com/companies/3195/distributors/",
+    "https://www.iehcorp.com/ja/contact/international",
+    "https://en.wikipedia.org/wiki/Leyden_jar"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "LeydenJar Japan",
+   "results": [
+    "https://leyden-jar.com/",
+    "https://www.eib.org/en/press/all/2022-524-leydenjar-secures-eu-backing-in-financing-of-new-battery-factory",
+    "https://ventures.tno.nl/portfolio/leydenjar/",
+    "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "https://www.youtube.com/watch?v=69uJnEA01Kk",
+    "https://en.wikipedia.org/wiki/LeydenJar_Technologies",
+    "https://batterytechassociation.org/directory/leydenjar/",
+    "https://finance.yahoo.com/news/dutch-battery-startup-leydenjar-silicon-145655439.html",
+    "https://www.ifa-berlin.com/exhibitors/leydenjar-technologies"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "LeydenJar manufacturing customer case study",
+   "results": [
+    "https://leyden-jar.com/leydenjar-expands-into-the-u-s-launches-silyte-for-wearables-and-opens-virginia-office/",
+    "https://intercalationstation.substack.com/p/rolling-out-silicon-with-leydenjar",
+    "https://ventures.tno.nl/portfolio/leydenjar/",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLIhzgzCb3vZANJfddgnHm5RFWBD_xjS2O6yTNrPoVUJt7LbrHz",
+    "https://www.youtube.com/watch?v=_dZ55QfTM6Y",
+    "https://www.extantia.com/stories/powering-batteries-with-50-more-energy-why-we-invested-in-leydenjar-technologies",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://ioplus.nl/en/posts/leydenjar-teams-up-with-chinese-battery-producer-highpower",
+    "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "https://studenttheses.uu.nl/bitstreams/99397400-509d-436a-a8d7-b451161c7943/download"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "LeydenJar white label OR reseller OR partner program",
+   "results": [
+    "https://leyden-jar.com/leydenjar-silyte-fast-track-evaluation-program-for-wearables/",
+    "https://www.intermedia.com/resellers",
+    "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://leydenjar.recruitee.com/o/looking-for-internship-possibilities",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://evincedev.com/blog/a-detailed-guide-to-white-label-reseller-program-to-grow-your-existing-business/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "LeydenJar founded funding employees revenue",
+   "results": [
+    "https://leyden-jar.com/leydenjar-closes-new-investment-round-to-launch-first-100-silicon-anode-production-facility/",
+    "https://pitchbook.com/profiles/company/226874-62",
+    "https://www.crunchbase.com/organization/leydenjar-technologies",
+    "https://leadiq.com/c/leydenjar/5a1dba7b2300005300b79523",
+    "https://dealroom.co/companies/leydenjar-technologies/",
+    "https://zagdaily.com/micromobility/leydenjar-secures-e23-million-for-silicon-anode-battery-tech/",
+    "https://www.eib.org/en/press/all/2022-524-leydenjar-secures-eu-backing-in-financing-of-new-battery-factory",
+    "https://tracxn.com/d/companies/leydenjar-technologies/__CdOX0Qe10LuS09Z_XZCI-Uad-hBs_WkcIRXLjlMyzCI",
+    "https://pulse2.com/leydenjar-e23-million-raised-for-launching-first-pure-silicon-anode-production-facility/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com LeydenJar",
+   "results": [
+    "https://note.com/kagefumimaru/n/nb625fd1aa866?hl=en",
+    "https://note.com/kagefumimaru/n/n065ff360f368?hl=en",
+    "https://note.com/kagefumimaru/n/n97e5a65b15a2?hl=en",
+    "https://note.com/kagefumimaru/n/n78976e99035e?hl=en",
+    "https://note.com/manaken/n/na75479b0004f?hl=en",
+    "https://note.com/novalisnova/n/n94cf862db818?hl=en",
+    "https://note.com/brckcojp/n/nbb2ad8c633c0?hl=en",
+    "https://note.com/toubunren/n/ncfc60c3ef2d3?hl=en",
+    "https://note.com/karsm/n/n36d954f60494",
+    "https://note.com/efrontierasia/n/n798a1919b620"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com LeydenJar",
+   "results": [
+    "https://x.com/Slate/status/2118296662791561343",
+    "https://x.com/FD_Nieuws/status/1432651794895843333",
+    "https://x.com/histories_arch/status/2115080554945409186",
+    "https://x.com/materion/status/2102686947428757976",
+    "https://x.com/realTuckFrumper/status/2118297018472751425",
+    "https://x.com/rbcp/status/1332762727962578947",
+    "https://x.com/Brainport_ehv",
+    "https://x.com/as2rokion",
+    "https://x.com/1xbet_slots",
+    "https://x.com/leydenjarnl"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com LeydenJar",
+   "results": [
+    "https://nl.linkedin.com/company/leydenjar",
+    "https://nl.linkedin.com/in/christian-rood-819568",
+    "https://www.linkedin.com/posts/christian-rood-819568_silyte-leydenjar-activity-7506434560503611393-2NgC",
+    "https://www.linkedin.com/posts/christian-rood-819568_what-is-leydenjar-here-for-bonding-more-activity-7467639070240776192-vfu4",
+    "https://www.linkedin.com/posts/eu-startups-news_dutch-battery-startup-leydenjar-secures-over-activity-7502695507727761408-83RT",
+    "https://www.linkedin.com/posts/leydenjar_leydenjar-siliconanode-batterytechnology-activity-7480636899808718849-5g7k",
+    "https://nl.linkedin.com/in/ashley-cooke-a97165196",
+    "https://nl.linkedin.com/in/timaanhane",
+    "https://nl.linkedin.com/in/edvanderburg",
+    "https://www.linkedin.com/company/leydenjar"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com LeydenJar",
+   "results": [
+    "https://www.facebook.com/groups/archeologyandcivilizations/posts/7724383924321731/",
+    "https://www.facebook.com/groups/474154952616338/posts/8997346963630385/",
+    "https://www.facebook.com/100069466216614/posts/how-it-workscharge-the-leyden-jar-connect-everything-place-the-glass-between-the/1288602650131930/",
+    "https://www.facebook.com/61578305660118/posts/who-invented-the-capacitor-the-earliest-capacitor-emerged-in-17451746-with-the-i/122185054838943522/",
+    "https://www.facebook.com/TheKingOfRandom/videos/shocking-science-with-a-leyden-jar/352599095267204/",
+    "https://www.facebook.com/groups/teslaenergia/posts/3903597236631081/",
+    "https://www.facebook.com/FDMB47/videos/a-van-de-graff-generator-and-a-leyden-jar-make-for-shockingly-powerful-learning/1968840963906385/",
+    "https://www.facebook.com/officialpurephysics/posts/leyden-jar-%EF%B8%8Fit-explains-how-electricity-can-be-captured-and-stored-instead-of-di/1523331222785673/",
+    "https://www.facebook.com/FDMB47/videos/fun-with-a-leyden-jar-just-wrap-some-foil-around-the-outside-of-a-water-bottle-a/880881530759933/",
+    "https://www.facebook.com/curiosityaihub/videos/dutch-startup-leydenjar-raised-23-million-to-mass-produce-100-silicon-batteries-/1527924621683277/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "LeydenJar note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=Tsc-gPi2lw4",
+    "https://leyden-jar.com/",
+    "https://www.energystoragenl.nl/en/lid/leydenjar-technologies/",
+    "https://en.wikipedia.org/wiki/LeydenJar_Technologies",
+    "https://pitchbook.com/profiles/company/226874-62",
+    "https://ventures.tno.nl/portfolio/leydenjar/",
+    "https://batterytechassociation.org/directory/leydenjar/",
+    "https://www.youtube.com/watch?v=_dZ55QfTM6Y",
+    "https://techcrunch.com/2025/09/10/dutch-battery-startup-leydenjars-silicon-anode-tech-could-pose-a-challenge-to-china/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "LeydenJar X 投稿",
+   "results": [
+    "https://leyden-jar.com/",
+    "https://www.youtube.com/watch?v=Tsc-gPi2lw4",
+    "https://www.idtechex.com/en/timeline/leydenjar-technologies/c111531",
+    "https://intercalationstation.substack.com/p/rolling-out-silicon-with-leydenjar",
+    "https://finance.yahoo.com/news/dutch-battery-startup-leydenjar-silicon-145655439.html",
+    "https://ventures.tno.nl/portfolio/leydenjar/",
+    "https://www.ifa-berlin.com/exhibitors/leydenjar-technologies",
+    "https://leydenjar.recruitee.com/o/open-application",
+    "https://zagdaily.com/tag/leydenjar/",
+    "https://x.com/leydenjarnl"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部33頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部33頁・検索12回）"
+ }
+}

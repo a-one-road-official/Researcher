@@ -1,0 +1,772 @@
+{
+ "name": "Sievedata",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AUMS不適合",
+ "researched_at": "2026-11-11T05:47:57.677334+00:00",
+ "official_url": "https://sieve.ai/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Fit and press the black housing pieces onto the connector, rotating and seating them together with both hands",
+    "url": "https://sieve.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Video · Hand pose · Sensor data",
+    "url": "https://sieve.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom video and audio collection, with environments and capture rigs tailored to your specifications.",
+    "url": "https://sieve.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Video · Inputs · Camera · State",
+    "url": "https://sieve.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Games and simulations with synchronized video, control inputs, camera metadata, and environment state.",
+    "url": "https://sieve.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Video · Audio · At scale",
+    "url": "https://sieve.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Synchronized video and audio at scale for audiovisual understanding, generation, and multimodal learning.",
+    "url": "https://sieve.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A Tutorial on Embedding Billions of Videos",
+    "url": "https://sieve.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "An inside look at how Sieve embedded one billion videos, from frame deduplication and GPU selection to evaluation, cost tradeoffs, and querying 41 billion vectors at scale.",
+    "url": "https://sieve.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How we went from video APIs to supplying multimodal data at petabyte-scale.",
+    "url": "https://sieve.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the researchers, engineers and operators capturing the real world and turning it into training data.",
+    "url": "https://sieve.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Earn revenue by licensing content you already own, or by recording the skilled work your team already does.",
+    "url": "https://sieve.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "License existing content and data",
+    "url": "https://sieve.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Video, audio, images, archives, and the source files behind them.",
+    "url": "https://sieve.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Content libraries and archives",
+    "url": "https://sieve.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Existing content and data",
+    "url": "https://sieve.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Approve what is included.",
+    "url": "https://sieve.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Organizations that own or can license relevant content, and businesses whose teams do physical work that can be recorded. We will confirm fit after a first conversation.",
+    "url": "https://sieve.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Do we need to control AI-training rights for every title in our catalog?",
+    "url": "https://sieve.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Are raw footage and production assets also valuable along with finished content?",
+    "url": "https://sieve.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Researchers, engineers and operators capturing the real world and turning it into training data.",
+    "url": "https://sieve.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We believe creating the data to teach these systems deserves the same rigor as model development. Sieve brings together global collection operations, exabyte-scale infrastructure and multimodal research to turn real-world experience into training data.",
+    "url": "https://sieve.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our researchers work alongside our operations and infrastructure teams, translating insights from model training and evaluation into decisions about what we capture, how we curate it and how our systems evolve. We believe this close connection between data production and model development is essential to building AI that can understand and act in the world.",
+    "url": "https://sieve.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "AI coding agent for tasks, projects, and automated work",
+    "url": "https://github.com/sievedata",
+    "pass": 3
+   },
+   {
+    "quote": "Secret scanning and leak prevention",
+    "url": "https://github.com/sievedata",
+    "pass": 3
+   },
+   {
+    "quote": "Your source for the latest features, improvements, and fixes across GitHub products, all in one place.",
+    "url": "https://github.com/sievedata",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise-grade code security",
+    "url": "https://github.com/sievedata",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise-grade AI features",
+    "url": "https://github.com/sievedata",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise-grade 24/7 support",
+    "url": "https://github.com/sievedata",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/sievedata.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/sievedata.com",
+    "pass": 3
+   },
+   {
+    "quote": "By using our AI agents built specifically for financial data collection, along with expert-in-the-loop review, we provide our clients with clean, validated data at a scale and level of quality that wasn't achievable before.",
+    "url": "https://startupintros.com/orgs/sieveai",
+    "pass": 3
+   },
+   {
+    "quote": "Founders’ backgrounds in top-tier finance and consulting firms provide deep insight into client pain points and industry standards[1].",
+    "url": "https://startupintros.com/orgs/sieveai",
+    "pass": 3
+   },
+   {
+    "quote": "soverin.ai/product/sieve-data",
+    "url": "https://startupintros.com/orgs/sieveai",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Join the researchers, engineers and operators capturing the real world and turning it into training data.",
+    "url": "https://sieve.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Researchers, engineers and operators capturing the real world and turning it into training data.",
+    "url": "https://sieve.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are researchers, engineers and operators with experience from NVIDIA, Scale AI, Zoox and Niantic. Our backgrounds span multimodal AI, infrastructure and real-world systems.",
+    "url": "https://sieve.ai/about",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Earn revenue by licensing content you already own, or by recording the skilled work your team already does.",
+    "url": "https://sieve.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Do all employees need to participate if I opt in?",
+    "url": "https://sieve.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Is there a max number of employees that can participate?",
+    "url": "https://sieve.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/sievedata.com",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/sievedata.com",
+    "pass": 3
+   },
+   {
+    "quote": "This organization has no public members. You must be a member to see who’s a part of this organization.",
+    "url": "https://github.com/sievedata",
+    "pass": 3
+   },
+   {
+    "quote": "Sieve Revenue 2024: $1.8M Est.",
+    "url": "https://getlatka.com/companies/sievedata.com",
+    "pass": 3
+   },
+   {
+    "quote": "Sieve has not published its revenue. GetLatka estimates it at about $1.8M a year (December 2024).",
+    "url": "https://getlatka.com/companies/sievedata.com",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/sievedata.com",
+    "pass": 3
+   },
+   {
+    "quote": "Sieve CEO, founders & employees",
+    "url": "https://getlatka.com/companies/sievedata.com",
+    "pass": 3
+   },
+   {
+    "quote": "Mokshith Voodarla founded Sieve in 2022 and runs it as CEO. Sieve had 12 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/sievedata.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Sieve's revenue?",
+    "url": "https://getlatka.com/companies/sievedata.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Sieve's revenue at about",
+    "url": "https://getlatka.com/companies/sievedata.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Sieve have?",
+    "url": "https://getlatka.com/companies/sievedata.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/sievedata.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/sievedata.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/sievedata.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/sievedata.com",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Sieve | 海外スタートアップの事業概要・事業内容 | FIRST CVC — 本ページの企業情報は、公式サイト（https://sievedata.com）および公開情報（報道・プレスリリース等）をもとにAIが調査・要約したものです。 内容の正確性については公式サイト・出典をご確認ください。 続きの詳しい内容は、無料会員登録でご覧いただけ ...",
+    "url": "https://www.firstcvc.jp/global/sievedata.com",
+    "pass": 3
+   },
+   {
+    "quote": "Sieve — 最先端AIのためのマルチモーダルデータラボ — Sieve 製品の背景と公式リンク Sieve サポート用メールアドレス、カスタマーサービス連絡先、返金対応先など Sieve サポートメール： support@sievedata.com",
+    "url": "https://bataitools.com/ja/tools/sievedata",
+    "pass": 3
+   },
+   {
+    "quote": "Sieve (@sievedata) / X — Aug 20, 2021 · Over the past year, Sieve has built one of the largest repositories of multimodal data and evals frontier labs use to train and evaluate world models, video generation systems, and robot policies. If you are a researcher or builder working in the multimodal space, drop us a message here or at cvpr@sievedata.com — we'd love to connect at CVPR!",
+    "url": "https://x.com/sievedata",
+    "pass": 3
+   },
+   {
+    "quote": "SieveData - GitHub — GitHub is where SieveData builds software.",
+    "url": "https://github.com/sievedata",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Sieve (@sievedata) / X We @sievedata are kicking of our first ever Launch Week next Monday where we’ll be announcing something new everyday for five days straight 🚀 It’ll include exciting new video AI pipelines, partnerships, and product updates.",
+    "url": "https://x.com/sievedata",
+    "pass": 3
+   },
+   {
+    "quote": "Sieve hosted two events for the multimodal research community ... Sieve (@sievedata). 52 views. Sieve hosted two events for the multimodal research community at CVPR 2026: a researcher dinner and a happy hour bringing together students, engineers, and researchers from across the ecosystem.",
+    "url": "https://x.com/sievedata/status/2066682778058657979",
+    "pass": 3
+   },
+   {
+    "quote": "first time creating a discord server, just spent 45 mins and ... Sieve (@sievedata). 4 likes 313 views. first time creating a discord server, just spent 45 mins and clicked through like 50 different tabs... join the sieve community discord here!",
+    "url": "https://x.com/sievedata/status/1761193101375529164",
+    "pass": 3
+   },
+   {
+    "quote": "Sieve on X: \"We're excited to join @corl_conf as a Patron ... Sieve on X: \"We're excited to join @corl_conf as a Patron sponsor in Austin, Nov 9-12! We'll be sharing updates on our work in physical AI and hosting a few events during the week. DM us if you'd like to join.\" Sieve @sievedata",
+    "url": "https://x.com/sievedata/status/2109735126171287939",
+    "pass": 3
+   },
+   {
+    "quote": "Sieve (@sievedata) / X If you’re at CoRL in Austin, join Sieve and Uncork Capital on Wed, Nov 11 at 6-7:30PM CT for a Physical AI x Data Panel & Mixer on what scales, what doesn’t, and what’s missing.",
+    "url": "https://x.com/sievedata",
+    "pass": 3
+   },
+   {
+    "quote": "Sieve on X: \"High quality text recognition on video has many ... In the latest blog, we compare various approaches to doing text recognition on videos and discuss criteria for picking the right one for your use case.\" Sieve @sievedata",
+    "url": "https://x.com/sievedata/status/1878825377969348937",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Mokshith Voodarla - Sieve | LinkedInWe’re excited to be heading to CVPR 2026 next week. Over the ...Today, I’m excited to introduce our new website for Sieve ...Physical AI x Data Panel & Mixer, presented by Sieve and ... Experience: Sieve · Education: UC Berkeley College of Engineering · Location: San Francisco Bay Area · 500+ connections on LinkedIn. View Mokshith Voodarla’s profile on LinkedIn,",
+    "url": "https://www.linkedin.com/in/mokshith-voodarla",
+    "pass": 3
+   },
+   {
+    "quote": "Today, I’m excited to introduce our new website for Sieve ... We’d be happy to see how we can help. 2025, here we come 😉 Check it out here: https://www.sievedata.com | 10 comments on LinkedIn",
+    "url": "https://www.linkedin.com/posts/mokshith-voodarla_today-im-excited-to-introduce-our-new-website-activity-7290388884310364160-07No",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "AI Video Clipping API for Developers - Facebook Oct 15, 2026 · For developers, SieveData offers a simple API to process and tag videos without training models, while open-source tools like video-use and html-video...",
+    "url": "https://www.facebook.com/fb-answers/ai-video-clipping-api-for-developers/",
+    "pass": 3
+   },
+   {
+    "quote": "Computer Vision | We've been building a ton of infrastructure ... Aug 3, 2022 · We've been building a ton of infrastructure to process a lot of video data very quickly at [Sieve] (https://www.sievedata.com/), and video object...",
+    "url": "https://www.facebook.com/groups/ComputerVisionGroup/posts/2748980731912777/",
+    "pass": 3
+   },
+   {
+    "quote": "Computer Vision | ## **The easiest way to process and tag ... May 1, 2022 · We built this visual demo (https://sievedata. com/app/query?api_key=AIzaSyAfKwf0tuuNOHbYi_J X-ew_dXH6SzdxZWY) a little while back which we’d love to get feedback on. It’s ~24 hours of security footage that our API processed in <10 mins and has simple querying and export functionality enabled. We see applications in better ",
+    "url": "https://www.facebook.com/groups/ComputerVisionGroup/posts/2668459219964929/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sieve.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sieve.ai/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sieve.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sieve.ai/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.firstcvc.jp/global/sievedata.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bataitools.com/ja/tools/sievedata",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000245.000087068.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sieve.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/sievedata",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://github.com/sievedata",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sieve.ai/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://goamplifi.com/knowledge-base/case-study-6-case-studies-of-data-management-success-in-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teradata.com/customers/listing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partnerportal.fortinet.com/English/?ReturnUrl=%2FEnglish%2FNAReseller%2Fhome.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/sievedata.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/sieveai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/sievedata",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/sieve-data",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/sievedata",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sievedata/status/2066682778058657979",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sievedata/status/1761193101375529164",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sievedata/status/2109735126171287939",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/mokshith-voodarla",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/mokshith-voodarla_today-im-excited-to-introduce-our-new-website-activity-7290388884310364160-07No",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/ai-video-clipping-api-for-developers/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/ComputerVisionGroup/posts/2748980731912777/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/ComputerVisionGroup/posts/2668459219964929/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sievedata",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sievedata/status/1878825377969348937",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sievedata 日本 導入",
+   "results": [
+    "https://www.firstcvc.jp/global/sievedata.com",
+    "https://bataitools.com/ja/tools/sievedata",
+    "https://sieve.ai/",
+    "https://prtimes.jp/main/html/rd/p/000000245.000087068.html",
+    "https://aikurabe.com/stats/ai-adoption-japan/",
+    "https://www.sieve.ai/about",
+    "https://www.ycombinator.com/companies/sieve"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sievedata 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.sieve.ai/careers",
+    "https://www.linkedin.com/company/sievedata",
+    "https://www.ipsen.com/japan/会社/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sievedata Japan",
+   "results": [
+    "https://x.com/sievedata",
+    "https://github.com/sievedata",
+    "https://sieve.ai/",
+    "https://www.sieve.ai/contact",
+    "https://www.linkedin.com/company/sievedata/jobs/",
+    "https://www.linkedin.com/company/sievedata",
+    "https://bataitools.com/ja/tools/sievedata"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sievedata manufacturing customer case study",
+   "results": [
+    "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "https://goamplifi.com/knowledge-base/case-study-6-case-studies-of-data-management-success-in-manufacturing",
+    "https://www.teradata.com/customers/listing",
+    "https://www.casestudies.com/",
+    "https://www.ycombinator.com/companies/sieve",
+    "https://www.linkedin.com/company/sievedata",
+    "https://www.reddit.com/r/computervision/comments/sj3zbx/sieve_process_24_hours_of_video_in_10_mins_update/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sievedata white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.verkada.com/partners/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sievedata founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/sievedata.com",
+    "https://startupintros.com/orgs/sieveai",
+    "https://indexed.vc/companies/sievedata",
+    "https://www.crunchbase.com/organization/sieve-data",
+    "https://www.gritt.io/company/sievedata/",
+    "https://pitchbook.com/profiles/company/819016-21",
+    "https://aventure.vc/companies/sieve-san-francisco-ca-us/fundraising"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Sievedata",
+   "results": [
+    "https://note.com/neguseatama/n/nca646207d856?hl=en",
+    "https://note.com/neguseatama/n/n31866501ba42?hl=en",
+    "https://note.com/neguseatama/n/n20c99238813c?hl=en",
+    "https://note.com/neguseatama/n/n363646dca8c0?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/neguseatama/n/n777b1aab7802?hl=en",
+    "https://note.com/chika_takai/n/nbe847ef1561f?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Sievedata",
+   "results": [
+    "https://x.com/sievedata",
+    "https://x.com/sievedata/status/2066682778058657979",
+    "https://x.com/sievedata/status/1761193101375529164",
+    "https://x.com/sievedata/status/2109735126171287939",
+    "https://x.com/sievedata/status/1932495260023992435",
+    "https://x.com/sievedata/status/1928948095896940972",
+    "https://x.com/sievedata/status/1878825377969348937"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Sievedata",
+   "results": [
+    "https://www.linkedin.com/company/sievedata",
+    "https://www.linkedin.com/company/sievedata/jobs/",
+    "https://www.linkedin.com/in/mokshith-voodarla",
+    "https://www.linkedin.com/posts/mokshith-voodarla_today-im-excited-to-introduce-our-new-website-activity-7290388884310364160-07No",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7326043339785388032/",
+    "https://www.linkedin.com/posts/sievedata_were-excited-to-be-heading-to-cvpr-2026-activity-7465888393227341824-w5WD",
+    "https://www.linkedin.com/posts/sievedata_physical-ai-x-data-panel-mixer-presented-activity-7525695916960428032-FhGi"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Sievedata",
+   "results": [
+    "https://www.facebook.com/fb-answers/ai-video-clipping-api-for-developers/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/groups/ComputerVisionGroup/posts/2748980731912777/",
+    "https://www.facebook.com/groups/ComputerVisionGroup/posts/2668459219964929/",
+    "https://www.facebook.com/webthunder.io/posts/950466386890965/",
+    "https://www.facebook.com/p/Sieve-Data-61587405891825/",
+    "https://www.facebook.com/61587405891825/posts/122101401759246863/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sievedata note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.com/sadaaki",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sievedata X 投稿",
+   "results": [
+    "https://x.com/sievedata",
+    "https://x.com/sievedata/status/1878825377969348937",
+    "https://github.com/Sieve-Data",
+    "https://sieve.ai/",
+    "https://mobile-xvideos.com/?k=日本素人投稿動画&sort=relevance&datef=all",
+    "https://www.sieve.ai/?source=techstories.org",
+    "https://www.linkedin.com/company/sievedata"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

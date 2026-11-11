@@ -1,0 +1,596 @@
+{
+ "name": "Vivun",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜返信あり",
+ "researched_at": "2026-11-11T05:43:17.850353+00:00",
+ "official_url": "https://www.vivun.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Hero runs discreetly on your screen during every call. It keeps you on agenda, helps you handle objections and product questions in real time, then automates your follow-up emails and CRM updates.",
+    "url": "https://www.vivun.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", including SCIM provisioning.",
+    "url": "https://www.vivun.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Assisting Enterprise sellers at",
+    "url": "https://www.vivun.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Director, Pre-Sales, ADP",
+    "url": "https://www.vivun.com/",
+    "pass": 1
+   },
+   {
+    "quote": "It was most surprising that it really can provide complex answers to complex questions.",
+    "url": "https://www.vivun.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The customer was asking very detailed questions about things that the two primary presenters in this case did not have all of the detail for. However, I had Hero running and I was able to share with the customer the granular answers that they were looking for.",
+    "url": "https://www.vivun.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hero is great for call prep and asking technical questions. I use it often to help me understand our own workflow capabilities and enhance my product knowledge.",
+    "url": "https://www.vivun.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hero is useful to our organization because we can use it to accelerate AEs on deals and provide them with the intelligence they need to win deals.",
+    "url": "https://www.vivun.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You’ve been using AI in your sales process,",
+    "url": "https://www.vivun.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Internal productivity is going up",
+    "url": "https://www.vivun.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Account planning/research has improved",
+    "url": "https://www.vivun.com/",
+    "pass": 1
+   },
+   {
+    "quote": "team-wide prep, execution, and follow-through",
+    "url": "https://www.vivun.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. It supports SAML 2.0 and OIDC with any major identity provider.",
+    "url": "https://www.vivun.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Product knowledge · SSO and SCIM admin guide, v4.2",
+    "url": "https://www.vivun.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Using call context, deal & product knowledge",
+    "url": "https://www.vivun.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how Hero for Enterprise brings live call assistance, sales reasoning, and turnkey workflows to your whole org.",
+    "url": "https://www.vivun.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vivun specializes in one thing: taking expert knowledge and encoding it into AI systems that reason, not just respond. We extract mental models, formalize them structurally, and build agents that operate with the discipline of elite practitioners.",
+    "url": "https://www.vivun.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Most organizations assume scale will close the gap. It won't. The gap isn't in model size — it's in architecture. LLMs reconstruct a world model from scratch on every prompt. That breaks anything requiring multi-step domain logic.",
+    "url": "https://www.vivun.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Human experts don't improvise logic from scattered documents.",
+    "url": "https://www.vivun.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "They don't reconstruct their worldview on every prompt.",
+    "url": "https://www.vivun.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "They operate from internalized structure built through years of deliberate practice.",
+    "url": "https://www.vivun.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Every prompt starts cold. In high-stakes, multi-step environments, that difference compounds.",
+    "url": "https://www.vivun.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "With every inferential hop, the lack of a persistent world model compounds — producing answers that sound right but don't hold up under scrutiny.",
+    "url": "https://www.vivun.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Fluency is not comprehension",
+    "url": "https://www.vivun.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "When AI produces a fluent answer, we assume understanding.",
+    "url": "https://www.vivun.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "That means explicit ontologies, knowledge graphs, constraints, and structured memory — not prompts and prayers.",
+    "url": "https://www.vivun.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "The domain changes. The method doesn't. We've applied this discipline across music, finance, and enterprise sales — each time producing agents that reason with the discipline of elite practitioners in that field. Four steps. Applied across every domain we enter.",
+    "url": "https://www.vivun.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We begin by deeply modeling how experts in a domain actually think — not their documented processes, but the structured cause-and-effect reasoning they apply under real conditions. This step is what most AI implementations skip entirely.",
+    "url": "https://www.vivun.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Platinum Album Production",
+    "url": "https://www.vivun.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We modeled the operating principles behind running a world-class hedge fund — not just market data, but structured cause-and-effect reasoning under uncertainty.",
+    "url": "https://www.vivun.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Vivun was founded on the premise that AI would only become enterprise-grade when grounded in structured domain knowledge. The founding team brought together deep expertise in sales engineering, AI architecture, and enterprise software — and has spent the last several years turning that premise into a patented, production-grade methodology.",
+    "url": "https://www.vivun.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We work with a small number of organizations at a time — ones where the problem is real, the stakes are high, and the appetite for a fundamentally different approach is genuine.",
+    "url": "https://www.vivun.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "If that's you, we'd like to hear about the problem you're trying to solve.",
+    "url": "https://www.vivun.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "For enterprise sales teams. Centralized prep before every call, answers only you can see during it, or Hero joins as a teammate and runs a custom demo.",
+    "url": "https://www.vivun.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "For individual sellers and small teams. Prep before the call, live help on objections and product questions during it, then follow-up emails and CRM updates done for you.",
+    "url": "https://www.vivun.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The principles that guide how we build and work",
+    "url": "https://www.vivun.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Reach sales, support, or press",
+    "url": "https://www.vivun.com/careers",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Hero runs discreetly on your screen during every call. It keeps you on agenda, helps you handle objections and product questions in real time, then automates your follow-up emails and CRM updates.",
+    "url": "https://www.vivun.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For individual sellers and small teams. Prep before the call, live help on objections and product questions during it, then follow-up emails and CRM updates done for you.",
+    "url": "https://www.vivun.com/careers",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.vivun.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vivun.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vivun.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.bestproductsreviews.com/shower-soap",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://activegearreviews.com/best-shower-soap/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bestproducts.reviews/shower-soaps",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nytimes.com/wirecutter/reviews/best-bar-soap/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://github.com/Rule-34",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/rule34gay/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://github.com/kurozenzen/r34-react",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/rule34/wiki/rules/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.microsoft.com/en-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.microsoft.com/fr-be/contactus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mail.google.com/mail",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mail.google.com/mail/u/0/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/RedditNSFW/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.foodnetwork.com/recipes/food-network-kitchen/instant-pot-pot-roast-5195673",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ftbistro.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.restaurantji.com/ny/fishkill/farm-to-table-bistro-/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.opentable.com/r/farm-to-table-bistro-fishkill",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yelp.com/biz/farm-to-table-bistro-fishkill",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.snapchat.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zhihu.com/question/22785060",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.zhihu.com/question/53837126",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.zhihu.com/topic/19794146",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Vivun 日本 導入",
+   "results": [
+    "https://www.bestproductsreviews.com/shower-soap",
+    "https://activegearreviews.com/best-shower-soap/",
+    "https://www.bestproducts.reviews/shower-soaps",
+    "https://www.nytimes.com/wirecutter/reviews/best-bar-soap/",
+    "https://www.consumerreports.org/health/best-bar-soaps-a9416208144/",
+    "https://www.glamour.com/story/best-bar-soaps",
+    "https://www.nbcnews.com/select/shopping/best-bar-soaps-rcna347134",
+    "https://showerinspire.com/best-shower-soap/",
+    "https://www.instyle.com/best-bar-soaps-11867345",
+    "https://thebeautyradar.com/best-shower-soap/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Vivun 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://github.com/Rule-34",
+    "https://www.reddit.com/r/rule34gay/",
+    "https://github.com/kurozenzen/r34-react",
+    "https://www.reddit.com/r/rule34/wiki/rules/",
+    "https://www.reddit.com/r/rule34/about/",
+    "https://www.reddit.com/r/rule34/?feedViewType=cardView",
+    "https://github.com/Rule-34/App",
+    "https://www.reddit.com/r/valorantrule34/top/?t=year",
+    "https://www.reddit.com/r/rule34/top/",
+    "https://www.reddit.com/r/funpiece/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Vivun Japan",
+   "results": [
+    "https://www.microsoft.com/en-us/",
+    "https://support.microsoft.com/fr-be/contactus/",
+    "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128",
+    "https://techcommunity.microsoft.com/discussions/windowsinsiderprogram/windows-8-1-iso-download-for-64-and-32-bit/4454650",
+    "https://support.microsoft.com/en-gb/contactus",
+    "https://support.microsoft.com/es-ar/contactus/",
+    "https://support.microsoft.com/en-us/edge/",
+    "https://support.microsoft.com/en-us/accounts-billing/work-school/sign-in-to-your-work-or-school-account-using-two-step-verification",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-continues-build-the-skills-that-move-business-forward/4494139"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Vivun manufacturing customer case study",
+   "results": [
+    "https://mail.google.com/mail",
+    "https://mail.google.com/mail/u/0/",
+    "https://www.reddit.com/r/RedditNSFW/",
+    "https://www.foodnetwork.com/recipes/food-network-kitchen/instant-pot-pot-roast-5195673"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 4
+  },
+  {
+   "query": "Vivun white label OR reseller OR partner program",
+   "results": [
+    "https://www.ftbistro.com/",
+    "https://www.restaurantji.com/ny/fishkill/farm-to-table-bistro-/",
+    "https://www.opentable.com/r/farm-to-table-bistro-fishkill",
+    "https://www.yelp.com/biz/farm-to-table-bistro-fishkill",
+    "https://www.zmenu.com/farm-to-table-bistro-fishkill-online-menu/",
+    "https://restaurantguru.com/Farm-to-Table-Bistro-United-States",
+    "https://www.findglocal.com/US/Fishkill/219094278128955/Farm-to-Table-Bistro",
+    "https://www.facebook.com/ftbistro/",
+    "https://menuweb.menu/restaurants/fishkill/farm-to-table-bistro-3/menu",
+    "https://www.ftbistro.com/contact/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Vivun founded funding employees revenue",
+   "results": [
+    "https://www.snapchat.com/",
+    "https://www.zhihu.com/question/22785060",
+    "https://www.zhihu.com/question/53837126",
+    "https://www.zhihu.com/topic/19794146",
+    "https://www.zhihu.com/question/30465126",
+    "https://www.zhihu.com/question/22785060/answers/updated",
+    "https://www.zhihu.com/question/24684378",
+    "https://www.zhihu.com/question/22111810?sort=created",
+    "https://www.zhihu.com/question/34683930",
+    "https://www.zhihu.com/question/52548724"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:note.com Vivun",
+   "results": [
+    "http://www.bbc.com/news",
+    "https://www.bbc.com/news/uk",
+    "https://www.bbc.com/news/england/hampshire",
+    "https://www.bbc.com/news/world/asia",
+    "https://www.bbc.com/news/articles/cmn06w5x9g25o",
+    "https://www.bbc.com/news/england/birmingham_and_black_country",
+    "https://www.bbc.com/news/england/west_yorkshire",
+    "https://www.bbc.com/news/articles/cvgvyz8e27zo",
+    "https://www.bbc.com/news/england/cambridgeshire",
+    "https://www.bbc.com/news/england/coventry_and_warwickshire"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:x.com Vivun",
+   "results": [
+    "https://en.wikipedia.org/wiki/Hyperallergic",
+    "https://hyperallergic.com/welcome/",
+    "https://hyperallergic.com/",
+    "https://hyperallergic.com/latest/",
+    "https://hyperallergic.com/about/",
+    "https://hyperallergic.com/hyperallergics-20-most-read-stories-of-2025/",
+    "https://hyperallergic.com/tag/news/",
+    "https://podcast.hyperallergic.com/",
+    "https://www.youtube.com/@hyperallergic",
+    "https://www.instagram.com/hyperallergic/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com Vivun",
+   "results": [
+    "https://www.freeconvert.com/time/est-to-ist",
+    "https://savvytime.com/converter/est-to-ist",
+    "https://timezonecalc.net/est-to-ist/",
+    "https://www.worldtimebuddy.com/est-to-ist-converter",
+    "https://www.worldtimebuddy.com/ist-to-est-converter",
+    "https://time.now/tool/est-to-ist-converter/",
+    "https://datetimetrack.com/time/est-to-ist",
+    "https://www.thetimenow.com/timezones/convert/est/ist",
+    "https://livetimetools.com/timezone/est-to-ist.html",
+    "https://www.codeitbro.com/tool/est-to-ist-converter"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com Vivun",
+   "results": [
+    "https://www.foxnews.com/",
+    "https://www.youtube.com/channel/UCXIJgqnII2ZOINSWNOGFThA",
+    "https://nation.foxnews.com/channel/live-now/",
+    "https://www.foxnews.com/us",
+    "https://www.fox.com/news",
+    "https://www.foxnews.com/fox-news",
+    "https://www.foxnews.com/world",
+    "https://staffinghub.com/press-releases/hirequest-announces-ownership-structure-change-of-mrinetwork-to-a-new-leadership-group-of-franchise-owners/",
+    "https://www.streetinsider.com/PRNewswire/HireQuest+Announces+Ownership+Structure+Change+of+MRINetwork+to+a+New+Leadership+Group+of+Franchise+Owners/25682749.html",
+    "https://intellectia.ai/news/stock/hirequest-transfers-majority-ownership-of-mrinetwork-to-new-leadership-group"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Vivun note 社長",
+   "results": [
+    "https://www.aapc.com/codes/cpt-codes/58940",
+    "https://billingfreedom.com/cpt-code-58940/",
+    "https://www.findacode.com/cpt/58940-cpt-code.html",
+    "https://www.codingahead.com/cpt/codes/58940",
+    "https://www.mdclarity.com/cpt-code/58940",
+    "https://www.gomedicalbilling.com/codes/cpt/58940",
+    "https://www.openpayer.com/billing-codes/cpt-58940-oophorectomy-open-abdominal",
+    "https://www.med-reveal.com/rates/58940-cpt-fee-schedule",
+    "https://www.aapc.com/codes/cpt-codes-range/58900-58960",
+    "https://www.medfeeschedule.com/code/58940"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Vivun X 投稿",
+   "results": [
+    "https://en.wikipedia.org/wiki/United_States_Electoral_College",
+    "https://www.electoral-vote.com/",
+    "https://www.270towin.com/",
+    "https://vt.ncsbe.gov/RegLkup",
+    "https://worldpopulationreview.com/state-rankings/electoral-votes-by-state",
+    "https://ncvoterguide.org/",
+    "https://www.usa.gov/electoral-college",
+    "https://www.ncsbe.gov/voting/voter-lookup",
+    "https://www.waynegov.com/783/Board-of-Elections",
+    "https://www.ncsbe.gov/registering/checking-your-registration"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

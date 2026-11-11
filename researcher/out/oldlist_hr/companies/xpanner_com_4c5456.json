@@ -1,0 +1,915 @@
+{
+ "name": "xpanner.com",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜育成",
+ "researched_at": "2026-11-11T05:45:03.797893+00:00",
+ "official_url": "https://xpanner.com",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Email",
+    "value": "hello@xpanner.com",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "label": "Email",
+    "value": "hello@xpanner.com",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "label": "Email",
+    "value": "hello@xpanner.com",
+    "url": "https://xpanner.com/about/career/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Address",
+    "value": "9825 Pioneer Blvd, Santa Fe Springs, CA 90670",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "label": "Address",
+    "value": "9825 Pioneer Blvd, Santa Fe Springs, CA 90670",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "label": "Address",
+    "value": "9825 Pioneer Blvd, Santa Fe Springs, CA 90670",
+    "url": "https://xpanner.com/about/career/",
+    "pass": 1
+   },
+   {
+    "label": "Headquarters",
+    "value": "9825 Pioneer Blvd, Santa Fe Springs, California 90670, US",
+    "url": "https://prospeo.io/c/xpanner-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/xpanner-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$10,800,000",
+    "url": "https://prospeo.io/c/xpanner-revenue",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "01-Jan-2020    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/512557-84",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2020",
+    "url": "https://prospeo.io/c/xpanner-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Delivering market-proven solutions to solve labor",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "shortages and dramatically increase jobsite productivity",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Delivering market-proven solutions",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "dramatically increase jobsite productivity",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The construction industry is facing a workforce crisis,",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The construction industry is facing a workforce crisis, with fewer skilled workers and more repetitive low value work.",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "pre equipped for deployment",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automation ready machines powered by X1 Tech, pre equipped for deployment and built for immediate use on real job sites.",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Xpanner Launches One-Touch Automated Pile-Driving System for Solar, Battery Projects",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "and training for day-one",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "before they become problems.",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I agree to the Privacy Policy",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "9825 Pioneer Blvd, Santa Fe Springs, CA 90670, United States",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Santa Fe Springs, CA 90670, United States",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Xpanner Inc. (“we,” “our,” or “us”) respects your privacy and is committed to protecting your personal information.",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This Privacy Policy explains how we collect, use, and safeguard the information you provide through our website.",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Any other information you voluntarily provide",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Provide information about our products and services",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve our website and customer support",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With service providers who support our operations (e.g., hosting or email services)",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "When required by law or to protect our legal rights",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "4. Data Retention",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "this Policy, unless a longer retention period is required by law.",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We take reasonable measures to protect your personal information from unauthorized access, use, or",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "If you have any questions about this Privacy Policy, please contact us at:",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Solving real-world challenges with market-proven innovation,",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Xpanner tackles the construction industry's core challenges of safety and productivity with intelligent automation solutions powered by Physical AI.",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "What sets our team apart is our ability to work directly on-site— analyzing existing workflows, simplifying and automating processes, and rapidly implementing solutions that reduce manpower requirements.",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "With proven automation experience across several job sites in the US and abroad, we lower the barriers to adopting new technologies and minimize downtime during deployment.",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "enabling us to establish the industry's largest proprietary physical dataset.",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Market-Proven AI Solution",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We are the only player with significant revenue growth and proven profitability in the conservative construction market.",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Our solution isn't a concept; it's a proven, value-generating engine.",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Profitability in 20 months",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Led New Business Development, Strategy & Product Planning, and After Sales & Genuine Parts business.",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Skilled in Product Development, working across hydraulics, mechanics, electrical, and electronics.",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "10+ years of strategic finance and investment experience at Doosan Group and Shinhan, leading global M&A and PMI projects.",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Led global investment portfolio, M&A, and PMI projects.",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Incomparable experience in HardTech domains with proven track record",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Extensive back-end expertise spanning production, development, and operations",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Solutions designed to maximize client profitability through convenience",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven ability to deliver measurable financial impact for customers",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Our global footprint is more than just locations on a map; it's a strategic network of innovation hubs, manufacturing centers, and on-the-ground support teams.",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Xpanner Launches One-Touch Automated Pile-Driving System for Solar, Battery Projects",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "I agree to the Privacy Policy",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "9825 Pioneer Blvd, Santa Fe Springs, CA 90670, United States",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Santa Fe Springs, CA 90670, United States",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Xpanner Inc. (“we,” “our,” or “us”) respects your privacy and is committed to protecting your personal information.",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "This Privacy Policy explains how we collect, use, and safeguard the information you provide through our website.",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Any other information you voluntarily provide",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We are actively hiring talented individuals who share our vision for innovation and our commitment to delivering exceptional results. Explore our current open positions below and discover how you can be part of our journey to revolutionize construction—where efficiency, safety, and profitability go hand in hand.",
+    "url": "https://xpanner.com/about/career/",
+    "pass": 1
+   },
+   {
+    "quote": "Santa Fe Springs, CA",
+    "url": "https://xpanner.com/about/career/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Manager, Software & Data Platforms",
+    "url": "https://xpanner.com/about/career/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Manager, Hardware",
+    "url": "https://xpanner.com/about/career/",
+    "pass": 1
+   },
+   {
+    "quote": "Santa Fe Springs, CA or Remote-US",
+    "url": "https://xpanner.com/about/career/",
+    "pass": 1
+   },
+   {
+    "quote": "9825 Pioneer Blvd, Santa Fe Springs, CA 90670, United States",
+    "url": "https://xpanner.com/about/career/",
+    "pass": 1
+   },
+   {
+    "quote": "Santa Fe Springs, CA 90670, United States",
+    "url": "https://xpanner.com/about/career/",
+    "pass": 1
+   },
+   {
+    "quote": "Xpanner Inc. (“we,” “our,” or “us”) respects your privacy and is committed to protecting your personal information.",
+    "url": "https://xpanner.com/about/career/",
+    "pass": 1
+   },
+   {
+    "quote": "This Privacy Policy explains how we collect, use, and safeguard the information you provide through our website.",
+    "url": "https://xpanner.com/about/career/",
+    "pass": 1
+   },
+   {
+    "quote": "Any other information you voluntarily provide",
+    "url": "https://xpanner.com/about/career/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "With service providers who support our operations (e.g., hosting or email services)",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "personal information. Please contact us for such requests.",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "7. Contact Us",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "If you have any questions about this Privacy Policy, please contact us at:",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Email: hello@xpanner.com",
+    "url": "https://xpanner.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With service providers who support our operations (e.g., hosting or email services)",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "personal information. Please contact us for such requests.",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "7. Contact Us",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "If you have any questions about this Privacy Policy, please contact us at:",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Email: hello@xpanner.com",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "With service providers who support our operations (e.g., hosting or email services)",
+    "url": "https://xpanner.com/about/career/",
+    "pass": 1
+   },
+   {
+    "quote": "personal information. Please contact us for such requests.",
+    "url": "https://xpanner.com/about/career/",
+    "pass": 1
+   },
+   {
+    "quote": "7. Contact Us",
+    "url": "https://xpanner.com/about/career/",
+    "pass": 1
+   },
+   {
+    "quote": "If you have any questions about this Privacy Policy, please contact us at:",
+    "url": "https://xpanner.com/about/career/",
+    "pass": 1
+   },
+   {
+    "quote": "Email: hello@xpanner.com",
+    "url": "https://xpanner.com/about/career/",
+    "pass": 1
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/xpanner-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/512557-84",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Our global footprint is more than just locations on a map; it's a strategic network of innovation hubs, manufacturing centers, and on-the-ground support teams.",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "With proven automation experience across several job sites in the US and abroad, we lower the barriers to adopting new technologies and minimize downtime during deployment.",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We are the only player with significant revenue growth and proven profitability in the conservative construction market.",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2-Year Revenue Growth",
+    "url": "https://xpanner.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We are actively hiring talented individuals who share our vision for innovation and our commitment to delivering exceptional results. Explore our current open positions below and discover how you can be part of our journey to revolutionize construction—where efficiency, safety, and profitability go hand in hand.",
+    "url": "https://xpanner.com/about/career/",
+    "pass": 1
+   },
+   {
+    "quote": "Xpanner Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/xpanner-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Xpanner",
+    "url": "https://prospeo.io/c/xpanner-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/xpanner-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/xpanner-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/xpanner-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Xpanner?",
+    "url": "https://prospeo.io/c/xpanner-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Xpanner generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/xpanner-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/xpanner-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/xpanner-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Xpanner have?",
+    "url": "https://prospeo.io/c/xpanner-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/xpanner-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/512557-84",
+    "pass": 3
+   },
+   {
+    "quote": "Xpanner has 57 total employees.",
+    "url": "https://pitchbook.com/profiles/company/512557-84",
+    "pass": 3
+   },
+   {
+    "quote": "What is Xpanner’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/512557-84",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Xpanner is",
+    "url": "https://pitchbook.com/profiles/company/512557-84",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Xpanner 2026 Company Profile: Valuation, Funding & Investors ...Xpanner - 2025 Company Profile, Team, Funding & Competitors ...Xpanner - Overview, News & Similar companies | ZoomInfo.comXpanner: Funding, Investors & Team (Nov 2026) | FundedIQXpanner - Products, Competitors, Financials, Employees ...Xpanner — venture-backed company profile | Dealroom — Xpanner FAQs When was Xpanner founded? Xpanner",
+    "url": "https://pitchbook.com/profiles/company/512557-84",
+    "pass": 3
+   },
+   {
+    "quote": "Xpanner - 2025 Company Profile, Team, Funding & Competitors ...Xpanner - Overview, News & Similar companies | ZoomInfo.comXpanner: Funding, Investors & Team (Nov 2026) | FundedIQXpanner - Products, Competitors, Financials, Employees ...Xpanner — venture-backed company profile | Dealroom — Sep 26, 2025 · Xpanner is a series A company based in Seoul (South Korea), founded in 2020 by Henri Lee. It op",
+    "url": "https://tracxn.com/d/companies/xpanner/__6eqY_4ogOugK-dZenmAfPbV1VZKcuMVQDaMznFjJJxk",
+    "pass": 3
+   },
+   {
+    "quote": "Xpanner - Overview, News & Similar companies | ZoomInfo.com — View Xpanner (www.xpanner.com) location in California, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/xpanner/561321081",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://xpanner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xpanner.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xpanner.com/about/career/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://xpanner.com/wp-content/uploads/2026/10/Partners_202610EN.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://xpanner.com/wp-content/uploads/2025/08/05_Partners-mo.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/fudousan_biz/n/n3c0f343eba87",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://physicalainews.jp/news/xpanner-taiyoukou-chikudenchi-muke-jidou-kui-uchi-ki-x1-pili-0e095f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jomon.group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taimen-eigyo.com/words/so-dairiten/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/purplos",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.solarpowerworldonline.com/2026/07/xpanner-sets-up-excavator-based-solar-panel-installation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.livechat.com/blog/best-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exagrid.com/reseller-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insighto.ai/blog/white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/xpanner-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/512557-84",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/xpanner/__6eqY_4ogOugK-dZenmAfPbV1VZKcuMVQDaMznFjJJxk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.zoominfo.com/c/xpanner/561321081",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "xpanner.com 日本 導入",
+   "results": [
+    "https://note.com/fudousan_biz/n/n3c0f343eba87",
+    "https://xpanner.com/",
+    "https://physicalainews.jp/news/xpanner-taiyoukou-chikudenchi-muke-jidou-kui-uchi-ki-x1-pili-0e095f",
+    "https://xpanner.com/kr/xpanner/",
+    "https://robo-ken.jp/media/news/xpanner-x1-piling-r6-solar-pile-driver/",
+    "https://media.huroc.org/articles/xpanner-x1-piling-r6-solar-pile-driver/",
+    "https://note.com/genial_hornet377/n/ne1b3d0a25032"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "xpanner.com 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://jomon.group/",
+    "https://taimen-eigyo.com/words/so-dairiten/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://www.bgent.net/plus/article/7044",
+    "https://ja.wikipedia.org/wiki/クランチロール_(企業)",
+    "https://www.jabra.com/ja-jp/where-to-buy/authorized-distributors",
+    "https://www.jac-recruitment.jp/market/multi-national-company/gaishi-japanese-corporation/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "xpanner.com Japan",
+   "results": [
+    "https://xpanner.com/",
+    "https://xpanner.com/about/",
+    "https://xpanner.com/xpanner-and-obayashi-host-construction-automation-demonstration-in-busan-korea/",
+    "https://xpanner.com/solution/x1-piling/",
+    "https://xpanner.com/about/career/",
+    "https://www.linkedin.com/in/purplos",
+    "https://www.linkedin.com/posts/xpanner_cspi2026-xpanner-physicalai-activity-7470807088328294400-iZC0"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "xpanner.com manufacturing customer case study",
+   "results": [
+    "https://xpanner.com/",
+    "https://xpanner.com/demo/",
+    "https://www.linkedin.com/in/purplos",
+    "https://www.solarpowerworldonline.com/2026/07/xpanner-sets-up-excavator-based-solar-panel-installation/",
+    "https://pv-magazine-usa.com/2026/10/26/xpanner-launches-automated-pile-driver-to-speed-up-utility-scale-solar-energy-storage-installation/",
+    "https://news.crunchbase.com/real-estate-property-tech/xpanner-automation-as-a-service-for-construction-sites-startup-funding-physical-ai-robotics/",
+    "https://roboticsbusinessnews.com/interaction/1/3036/xpanners-ryan-park-physical-ai-will-become-the-operating-system-for-the-next-generation-of-infrastructure-construction.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "xpanner.com white label OR reseller OR partner program",
+   "results": [
+    "https://partners.livechat.com/blog/best-reseller-programs/",
+    "https://www.exagrid.com/reseller-partner-program/",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://insighto.ai/blog/white-label-reseller-programs/",
+    "https://www.text.com/blog/saas-reseller-programs/",
+    "https://www.cpanel.net/partners/",
+    "https://botpenguin.com/blogs/best-saas-reseller-programs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "xpanner.com founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/xpanner-revenue",
+    "https://pitchbook.com/profiles/company/512557-84",
+    "https://tracxn.com/d/companies/xpanner/__6eqY_4ogOugK-dZenmAfPbV1VZKcuMVQDaMznFjJJxk",
+    "https://www.zoominfo.com/c/xpanner/561321081",
+    "https://fundediq.co/xpanner-xpanner-com-funding/",
+    "https://www.cbinsights.com/company/xpanner",
+    "https://dealroom.co/companies/xpanner/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com xpanner.com",
+   "results": [
+    "https://note.com/yushi88/n/n0670dad0de07",
+    "https://note.com/fudousan_biz/n/n3c0f343eba87",
+    "https://note.com/genial_hornet377/n/ne1b3d0a25032?hl=en",
+    "https://note.com/fudousan_biz/n/n3c0f343eba87?hl=en",
+    "https://note.com/china_case/n/n9257d70dc2d7?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com xpanner.com",
+   "results": [
+    "https://x.com/XpannerUSA",
+    "https://x.com/crunchbasenews/status/2055335989220974772",
+    "https://x.com/GrishinRobotics/status/2056655914728317220",
+    "https://x.com/FembotElectric/status/2119086785967919128",
+    "https://x.com/pvmagazine/status/2077983319921422792",
+    "https://x.com/xpanner",
+    "https://x.com/XPlannerPlus"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com xpanner.com",
+   "results": [
+    "https://www.linkedin.com/company/xpanner",
+    "https://www.linkedin.com/in/purplos",
+    "https://kr.linkedin.com/in/ryan-joohan-park-821a12299",
+    "https://www.linkedin.com/in/leannasiu",
+    "https://www.linkedin.com/in/connorogans",
+    "https://www.linkedin.com/jobs/xpanner-inc-profile-jobs",
+    "https://www.linkedin.com/in/chaojnc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com xpanner.com",
+   "results": [
+    "https://www.facebook.com/xpanner.usa/",
+    "https://www.facebook.com/xpanner.usa/videos/introducing-the-all-new-xpanner-x1-piling-r6-purpose-built-for-automated-solar-p/28154683694211070/",
+    "https://www.facebook.com/xpanner.usa/videos/-introducing-the-xpanner-demo-site-in-kingston-georgia-our-brand-new-xpanner-dem/1307873740282160/",
+    "https://www.facebook.com/xpanner.usa/posts/-xpanner-has-been-officially-named-one-of-koreas-15-pre-unicorn-startups-for-202/122277297368021823/",
+    "https://www.facebook.com/xpanner/",
+    "https://www.facebook.com/xpanner.usa/posts/as-many-of-you-know-xpanner-has-grown-significantly-over-the-last-12-months-we-a/122171228432021823/",
+    "https://www.facebook.com/xpanner.usa/videos/how-field-automation-really-works-xpanner-field-opsxpanner-field-team-brings-aut/896380322744488/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "xpanner.com note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://xpanner.com/",
+    "https://www.linkedin.com/in/purplos",
+    "https://xpanner.com/about/",
+    "https://fundediq.co/xpanner-xpanner-com-funding/",
+    "https://www.insideorg.com/org/xpanner",
+    "https://xpanner.com/about/career/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "xpanner.com X 投稿",
+   "results": [
+    "https://x.com/XpannerUSA",
+    "https://xpanner.com/",
+    "https://connect.xpanner.com/",
+    "https://xpanner.com/solution/x1-piling/",
+    "https://mobile-xvideos.com/?k=個人撮影投稿素人&related",
+    "https://www.xvideos.com/?k=素人投稿++無修正",
+    "https://twiranking.net/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像2件／外部16頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像2件／外部16頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像2件／外部16頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像2件／外部16頁・検索12回）"
+ }
+}

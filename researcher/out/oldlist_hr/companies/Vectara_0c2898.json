@@ -1,0 +1,1269 @@
+{
+ "name": "Vectara",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T05:23:46.035737+00:00",
+ "official_url": "https://www.vectara.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "30-May-2023 $28.5M $28.5M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/491089-60",
+    "pass": 3
+   },
+   {
+    "label": "Seed-2",
+    "value": "441,592 $0.000010  $5.1 $5.1 1x $5.1 1.59%",
+    "url": "https://pitchbook.com/profiles/company/491089-60",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "4,736,814 $0.000010  $5.36 $5.36 1x $5.36 17%",
+    "url": "https://pitchbook.com/profiles/company/491089-60",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Enterprise AI Platform for Semiconductor",
+    "url": "https://www.vectara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vectara is an enterprise AI platform powering intelligent, managed AI agents used in multiple semiconductor use cases.",
+    "url": "https://www.vectara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Obtain answers backed by traceable citations, giving design engineers the insights and trust needed to streamline and improve chip development.",
+    "url": "https://www.vectara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unify machine logs, tool manuals, and process data into a single source of truth, helping fab engineers pinpoint excursions faster and keep lines running at peak yield.",
+    "url": "https://www.vectara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From POC to production for multiple agents: search, chat, and AI SDR",
+    "url": "https://www.vectara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vectara is named a Representative Vendor in Enterprise AI Search",
+    "url": "https://www.vectara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Broadcom standardized on Vectara as its enterprise Agentic AI platform",
+    "url": "https://www.vectara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why Enterprises need a unified Agentic AI Platform",
+    "url": "https://www.vectara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Understands and enforces each source’s own data access control protocol",
+    "url": "https://www.vectara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One platform for every agentic use case, any environment (on-prem, private, and public cloud)",
+    "url": "https://www.vectara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Higher accuracy, lower hallucinations provable via evaluation metrics",
+    "url": "https://www.vectara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy your way, without compromising security",
+    "url": "https://www.vectara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vectara is the only agentic AI platform you can deploy as SaaS, in your VPC, or on-premises, with the same enterprise-grade security everywhere.",
+    "url": "https://www.vectara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get our content in your inbox every week.",
+    "url": "https://www.vectara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize your production line with AI agents",
+    "url": "https://www.vectara.com/business/solutions/verticals/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Use Ai agents to upskill and reskill the labor force and streamline processes to cut costs for a hostile economic and regulatory environment.",
+    "url": "https://www.vectara.com/business/solutions/verticals/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Grounded AI agents can unlock the real potential of your data and workforce knowledge with a powerful conversational interface suited for use on the factory floor. Find new opportunities for innovation, efficiency, and safety.",
+    "url": "https://www.vectara.com/business/solutions/verticals/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Generative AI is expected to hold immense potential in areas such as product design, aftermarket services, and supply chain management. It could lead to reduced costs across manufacturing organizations and could serve as another tool for navigating a challenging labor market.",
+    "url": "https://www.vectara.com/business/solutions/verticals/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Configurable data retention and fine-grained access controls",
+    "url": "https://www.vectara.com/business/solutions/verticals/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "with world-class enterprise controls and security.",
+    "url": "https://www.vectara.com/business/solutions/verticals/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Vectara supports client-configurable data retention and access control.",
+    "url": "https://www.vectara.com/business/solutions/verticals/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Vectara respects that your IP is yours alone and never trains on customer data. We designed our platform with regulated industries’ security and IP protection needs in mind.",
+    "url": "https://www.vectara.com/business/solutions/verticals/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "allow for unprecedented relevance and accuracy.",
+    "url": "https://www.vectara.com/business/solutions/verticals/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Your workforce spans languages",
+    "url": "https://www.vectara.com/business/solutions/verticals/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "AI assistants blend company data with expert insights for upskilling in any location or language",
+    "url": "https://www.vectara.com/business/solutions/verticals/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "We believe AI will transform how people and organizations work, solve problems, and make decisions. We're bringing together exceptional talent and deep technical expertise to make that future a reality.",
+    "url": "https://www.vectara.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We’re focused on realizing the promise of AI with meaningful, real-world impact for organizations.",
+    "url": "https://www.vectara.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We thrive on problems",
+    "url": "https://www.vectara.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We don’t take criticism personally. We strive for progress over perfection. We share credit, and claim responsibility.",
+    "url": "https://www.vectara.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Great ambitions require exceptional leadership. At Vectara, our leadership team brings together deep technical expertise, entrepreneurial vision, and experience building and scaling successful technology companies.",
+    "url": "https://www.vectara.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "There are specific challenges unique to enterprises when it comes to implementing LLMs that I saw first-hand as a former CIO. Vectara is uniquely positioned to solve this, giving enterprises grounded AI agents and the confidence that every answer can be trusted.",
+    "url": "https://www.vectara.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Vectara is a pioneer in agentic AI and continuously innovates new solutions to help enterprises apply agents to problems at scale.",
+    "url": "https://www.vectara.com/company/careers-and-culture",
+    "pass": 1
+   },
+   {
+    "quote": "Today, 50+ \"Vectarans\" build innovative products and foster a diverse, collaborative culture. Our global team values diverse perspectives and embraces cross-time zone collaboration. We demonstrate our commitment to excellence through comprehensive benefits, company values, and employee engagement.",
+    "url": "https://www.vectara.com/company/careers-and-culture",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive benefits and perks",
+    "url": "https://www.vectara.com/company/careers-and-culture",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive medical insurance",
+    "url": "https://www.vectara.com/company/careers-and-culture",
+    "pass": 1
+   },
+   {
+    "quote": "Employee assistance program",
+    "url": "https://www.vectara.com/company/careers-and-culture",
+    "pass": 1
+   },
+   {
+    "quote": "Vectara's mission is build AI for doing. Enterprises depend on our products to apply AI to mission-critical workloads. We're building a world-class team to achieve this.",
+    "url": "https://www.vectara.com/company/careers-and-culture",
+    "pass": 1
+   },
+   {
+    "quote": "We thrive on problems.",
+    "url": "https://www.vectara.com/company/careers-and-culture",
+    "pass": 1
+   },
+   {
+    "quote": "We strive for progress over perfection. We share credit, and claim responsibility.",
+    "url": "https://www.vectara.com/company/careers-and-culture",
+    "pass": 1
+   },
+   {
+    "quote": "We are engineers, scientists, and problem-solvers on a mission to help the world find meaning with GenAI.",
+    "url": "https://www.vectara.com/company/careers-and-culture",
+    "pass": 1
+   },
+   {
+    "quote": "Vectara for On-premise AI",
+    "url": "https://www.vectara.com/business/solutions/use-cases/vectara-for-on-prem-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy agents grounded in your enterprise data with full isolation and control.",
+    "url": "https://www.vectara.com/business/solutions/use-cases/vectara-for-on-prem-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Agent and Agentic RAG hosted service in your environment on-prem, fully supported by Vectara engineers.",
+    "url": "https://www.vectara.com/business/solutions/use-cases/vectara-for-on-prem-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Vectara leverages an event-driven architecture to ingest streaming data in real time. As new content arrives or existing content changes, events trigger immediate processing and indexing, so user corpora stay continuously up to date.",
+    "url": "https://www.vectara.com/business/solutions/use-cases/vectara-for-on-prem-ai",
+    "pass": 1
+   },
+   {
+    "quote": "This architecture allows indexing pipelines to scale independently and respond instantly without batch delays. The result is near-real-time search and retrieval, with users seeing fresh documents and updates almost as soon as they’re produced.",
+    "url": "https://www.vectara.com/business/solutions/use-cases/vectara-for-on-prem-ai",
+    "pass": 1
+   },
+   {
+    "quote": "A private on-prem deployment of Vectara is designed to work with your existing infrastructure choices, offering flexible deployment models to match your organization's specific requirements.",
+    "url": "https://www.vectara.com/business/solutions/use-cases/vectara-for-on-prem-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Container-based deployment on your cluster, including support for enterprise distributions, managed services like EKS, GKE, and AKS.",
+    "url": "https://www.vectara.com/business/solutions/use-cases/vectara-for-on-prem-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Deployed as infrastructure as code with version-controlled configurations. Fully integrated into your Git, your process in staging, and when promoted to production.",
+    "url": "https://www.vectara.com/business/solutions/use-cases/vectara-for-on-prem-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Vectara operates as the AI application and trust layer, while VMware Cloud Foundation provides the resilient, GPU-optimized private cloud foundation.",
+    "url": "https://www.vectara.com/business/solutions/use-cases/vectara-for-on-prem-ai",
+    "pass": 1
+   },
+   {
+    "quote": "OpenTelemetry provides a high-level health view of the platform while allowing drill-down into trace-level details.",
+    "url": "https://www.vectara.com/business/solutions/use-cases/vectara-for-on-prem-ai",
+    "pass": 1
+   },
+   {
+    "quote": "This view can be easily accessed by API operation and provides enhanced control of the Vectara environment.",
+    "url": "https://www.vectara.com/business/solutions/use-cases/vectara-for-on-prem-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Product IP Internal Chatbot",
+    "url": "https://www.vectara.com/business/solutions/use-cases/vectara-for-on-prem-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Develop self-service chatbots for employees without exposing the IP of product designs.",
+    "url": "https://www.vectara.com/business/solutions/use-cases/vectara-for-on-prem-ai",
+    "pass": 1
+   },
+   {
+    "quote": "QA processes without human intervention leveraging complex chip design and technical documentation",
+    "url": "https://www.vectara.com/business/solutions/use-cases/vectara-for-on-prem-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how large enterprises are running their AI strategy on-prem.",
+    "url": "https://www.vectara.com/business/solutions/use-cases/vectara-for-on-prem-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Vectara Pricing Plans",
+    "url": "https://www.vectara.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Upgrade for premium support and advanced features. Add on optional capabilities as you need them.",
+    "url": "https://www.vectara.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Vectara pricing plans",
+    "url": "https://www.vectara.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "1 on-premise deployment",
+    "url": "https://www.vectara.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The Context Storage Utilization metric captures the size of the data that is stored within the Vectara platform, to be used for retrieval and agent execution. This data represents the value of the ingest processing and the sophisticated storage engine, which collectively turn raw data into useful agent context.",
+    "url": "https://www.vectara.com/pricing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by leading semiconductor organizations",
+    "url": "https://www.vectara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vectara for Manufacturing",
+    "url": "https://www.vectara.com/business/solutions/verticals/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize your production line with AI agents",
+    "url": "https://www.vectara.com/business/solutions/verticals/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Factories can generate petabytes of data per week",
+    "url": "https://www.vectara.com/business/solutions/verticals/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Grounded AI agents can unlock the real potential of your data and workforce knowledge with a powerful conversational interface suited for use on the factory floor. Find new opportunities for innovation, efficiency, and safety.",
+    "url": "https://www.vectara.com/business/solutions/verticals/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Generative AI is expected to hold immense potential in areas such as product design, aftermarket services, and supply chain management. It could lead to reduced costs across manufacturing organizations and could serve as another tool for navigating a challenging labor market.",
+    "url": "https://www.vectara.com/business/solutions/verticals/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "2024 Manufacturing Industry Outlook, Deloitte Research Center for Energy & Industrials",
+    "url": "https://www.vectara.com/business/solutions/verticals/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Vectara uses RAG to ground agents in SPC findings, maintenance SOPs, and vendor documentation, including multimodal data. Linked citations, factual consistency scores, and verified tool execution let technicians confirm each answer before acting. Isolated VPC or on-premises deployment keeps process IP inside your walls, and Vectara never trains on it.",
+    "url": "https://www.vectara.com/business/solutions/verticals/semiconductors",
+    "pass": 1
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/vectara/case-studies",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Fortune 500 Semiconductor Technology Company",
+    "url": "https://www.vectara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Work through language barriers",
+    "url": "https://www.vectara.com/business/solutions/verticals/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Our benefits vary by region to optimize our support for employees.",
+    "url": "https://www.vectara.com/company/careers-and-culture",
+    "pass": 1
+   },
+   {
+    "quote": "Home office stipend for remote employees",
+    "url": "https://www.vectara.com/company/careers-and-culture",
+    "pass": 1
+   },
+   {
+    "quote": "Vectara leverages an event-driven architecture to ingest streaming data in real time. As new content arrives or existing content changes, events trigger immediate processing and indexing, so user corpora stay continuously up to date.",
+    "url": "https://www.vectara.com/business/solutions/use-cases/vectara-for-on-prem-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Develop self-service chatbots for employees without exposing the IP of product designs.",
+    "url": "https://www.vectara.com/business/solutions/use-cases/vectara-for-on-prem-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Vectara grounds agents in your specs, design documents, review notes, and tool logs. Every response carries linked citations and a factual consistency score, while verified tool execution and an audit trail make actions reviewable before engineers act. Deploy on-premises or in an isolated VPC; it never trains on your data.",
+    "url": "https://www.vectara.com/business/solutions/verticals/semiconductors",
+    "pass": 1
+   },
+   {
+    "quote": "Vectara indexes design guidelines, supplier datasheets, contracts, and qualification reports, so answers reflect the latest approved data. Every response links to its sources and carries a factual consistency score. Enterprise-grade access controls protect supplier and package IP, and teams can compare specifications and contract terms across vendors in one conversation.",
+    "url": "https://www.vectara.com/business/solutions/verticals/semiconductors",
+    "pass": 1
+   },
+   {
+    "quote": "Multiple specialized sub-agents can each focus on a specific part of a claims report, such as policy coverage analysis, damage assessment, and fraud detection.",
+    "url": "https://www.vectara.com/business/solutions/verticals/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社セゾンテクノロジーの米国子会社であるSaison Technology International と、エージェント型の検索拡張生成（RAG）分野で信頼性の高いプラットフォームを提供する Vectara は、戦略的パートナーシップを締結したことを発表しました",
+    "url": "https://www.saison-technology.com/company/news/20251010_Inc_Vectra_partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "Saison Technology Internationalは、1万社以上の企業に対してミッションクリティカルなデータ連携や統合、データフローの最適化、業務プロセスの自動化を支援してきたセゾンテクノロジー（東証：9640）の米国子会社です",
+    "url": "https://www.saison-technology.com/company/news/20251010_Inc_Vectra_partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/vectara/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Vectara — Funding, Revenue & Fractional Roles | Go Fractional",
+    "url": "https://www.gofractional.com/companies/vectara",
+    "pass": 3
+   },
+   {
+    "quote": "Funding & revenue at Vectara",
+    "url": "https://www.gofractional.com/companies/vectara",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated annual revenue",
+    "url": "https://www.gofractional.com/companies/vectara",
+    "pass": 3
+   },
+   {
+    "quote": "What the business focuses on, where it operates, and how employees rate it.",
+    "url": "https://www.gofractional.com/companies/vectara",
+    "pass": 3
+   },
+   {
+    "quote": "Vectara Reports Record First-Half Momentum with Surging Revenue and Marquee Enterprise Wins",
+    "url": "https://www.gofractional.com/companies/vectara",
+    "pass": 3
+   },
+   {
+    "quote": "Funding, revenue, headcount, and hiring figures are third-party estimates from public sources and are not confirmed by the company",
+    "url": "https://www.gofractional.com/companies/vectara",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/491089-60",
+    "pass": 3
+   },
+   {
+    "quote": "Vectara has 60 total employees.",
+    "url": "https://pitchbook.com/profiles/company/491089-60",
+    "pass": 3
+   },
+   {
+    "quote": "What is Vectara’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/491089-60",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Vectara is",
+    "url": "https://pitchbook.com/profiles/company/491089-60",
+    "pass": 3
+   },
+   {
+    "quote": "\\def\\arraystretch{1.5}",
+    "url": "https://note.com/soyokaze2/n/n87f692d53b7e",
+    "pass": 3
+   },
+   {
+    "quote": "\\begin{array}{|l|l|l|l|l|}",
+    "url": "https://note.com/soyokaze2/n/n87f692d53b7e",
+    "pass": 3
+   },
+   {
+    "quote": "\\begin{array}{|l|l|l|l|}",
+    "url": "https://note.com/soyokaze2/n/n87f692d53b7e",
+    "pass": 3
+   },
+   {
+    "quote": "\\begin{array}{|l|l|l|}",
+    "url": "https://note.com/soyokaze2/n/n87f692d53b7e",
+    "pass": 3
+   },
+   {
+    "quote": "\\begin{array}{|l|l|l|l|l|l|l|}",
+    "url": "https://note.com/soyokaze2/n/n87f692d53b7e",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "covers multilingual retrieval in 9 languages: Arabic, Bengali, Chinese, Hindi, Japanese, Korean, Swahili, Telugu, and Thai. In each case, the query and the documents are in the same non-English language.",
+    "url": "https://www.vectara.com/blog/boomerang-v2-next-generation-of-multimodal-enterprise-search",
+    "pass": 1
+   },
+   {
+    "quote": "Saison Technology InternationalとVectaraが業務提携 対話型AIソリューションの提供を強化｜ニュース｜データ連携 データ活用の株式会社セゾンテクノロジー",
+    "url": "https://www.saison-technology.com/company/news/20251010_Inc_Vectra_partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "※本報道資料は、現地時間2025年9月25日に米国のSaison Technology International, Inc.とVectara, Inc.が発表したニュースリリースの日本語抄訳版です",
+    "url": "https://www.saison-technology.com/company/news/20251010_Inc_Vectra_partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社セゾンテクノロジーの米国子会社であるSaison Technology International と、エージェント型の検索拡張生成（RAG）分野で信頼性の高いプラットフォームを提供する Vectara は、戦略的パートナーシップを締結したことを発表しました",
+    "url": "https://www.saison-technology.com/company/news/20251010_Inc_Vectra_partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "ハルシネーションにもう悩まない？事実重視のLLM選び｜桃生篤（株式会社Toumu）",
+    "url": "https://note.com/toumu0208/n/n1aa68d97c5fa",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、そのリーダーボードの内容を日本語でまとめつつ、「なぜこんなことをするのか」「僕が興味を持った背景」「どんなメリットがあるのか」などを、僕自身の視点から深掘りしてみたいと思います",
+    "url": "https://note.com/toumu0208/n/n1aa68d97c5fa",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、「自分が理解したことを整理して、日本語でも共有しよう」というのが、この記事を書く動機です",
+    "url": "https://note.com/toumu0208/n/n1aa68d97c5fa",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Contact us - Vectara — Contact Us We take our corpora, which we have a high degree of trust in, and everything is optimally authored by Vectara. Then we offer it up to our users, which creates many paths on their journey.",
+    "url": "https://www.vectara.com/contact-us",
+    "pass": 3
+   },
+   {
+    "quote": "Saison Technology InternationalとVectaraが業務提携 対話型AIソリュ... — 報道関係各位 2025年10月10日 株式会社セゾンテクノロジー ※本報道資料は、現地時間2025年9月25日に米国のSaison Technology International, Inc.とVectara, Inc.が発表したニュースリリースの日本語抄訳版です。 株式会社セゾンテクノロジーの米国子会社であるSaison Technology International と、エージェント型の ...",
+    "url": "https://www.saison-technology.com/company/news/20251010_Inc_Vectra_partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "Unify data. Deliver context. Trust every answer. — Vectara turns complex, multimodal data into actionable intelligence that drives better business outcomes. Vectara is an enterprise agent platform that powers intelligent, managed AI agents used by global companies in multiple industries.",
+    "url": "https://www.vectara.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Vectara — Vectara is an enterprise AI platform powering intelligent, managed AI agents used in multiple semiconductor use cases. Obtain answers backed by traceable citations, giving design engineers the insights and trust needed to streamline and improve chip development.",
+    "url": "https://www.vectara.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Newsroom — Vectara — Read the latest news, announcements, and press coverage about Vectara.",
+    "url": "https://www.vectara.com/company/newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories - vectara.com — Aug 21, 2026 · See how enterprises use Vectara's platform to build mission-critical AI agents.",
+    "url": "https://www.vectara.com/business/resources/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Success Story - Customer Stories - vectara.com — Aug 21, 2026 · See how enterprises use Vectara's platform to build mission-critical AI agents.",
+    "url": "https://www.vectara.com/business/resources/customer-stories/category/success-story",
+    "pass": 3
+   },
+   {
+    "quote": "4 Vectara Case Studies, Success Stories, & Customer StoriesCase Study: Large Manufacturing Company achieves faster ...Case StudyList of Vectara Customers - Apps Run The World — Narrow down 4 case studies by company size & industry to find out how Vectara works for a business like yours. Large Manufacturing Company (Manufacturing) partnered with Vectra AI (Computer & Network Security) to solve key ",
+    "url": "https://www.featuredcustomers.com/vendor/vectara/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Vectara - 2026 Company Profile, Team, Funding & Competitors ...Vectara — Funding, Revenue & Fractional Roles | Go FractionalVectara 2026 Company Profile: Valuation, Funding & Investors ...Vectara — Company Profile | The Company CheckVectara: Funding, Team & Investors | Startup IntrosVectara - Crunchbase Company Profile & FundingVectara Funding & Investor Information: Rounds, Investors ... — Sep 22",
+    "url": "https://tracxn.com/d/companies/vectara/__B2HorZ0b9oeKtrr4S1EDjqD-0h8QipBkMx5sL3VtgNk",
+    "pass": 3
+   },
+   {
+    "quote": "Vectara — Funding, Revenue & Fractional Roles | Go Fractional — Funding, revenue, headcount, and hiring figures are third-party estimates from public sources and are not confirmed by the company. Last refreshed September 29, 2026.",
+    "url": "https://www.gofractional.com/companies/vectara",
+    "pass": 3
+   },
+   {
+    "quote": "Vectara 2026 Company Profile: Valuation, Funding & Investors ...Vectara — Company Profile | The Company CheckVectara: Funding, Team & Investors | Startup IntrosVectara - Crunchbase Company Profile & FundingVectara Funding & Investor Information: Rounds, Investors ... — Information on valuation, funding, cap tables, investors, and executives for Vectara. Use the PitchBook Platform to explore the fu",
+    "url": "https://pitchbook.com/profiles/company/491089-60",
+    "pass": 3
+   },
+   {
+    "quote": "Vectara — Company Profile | The Company Check — Vectara is a company based in Palo Alto (United States) founded in 2020 by Amr Awadallah and Tallat M Shafaat.. Vectara has raised $73.5 million across 3 funding rounds from investors including Race Capital, Emad Mostaque and FPV Ventures.",
+    "url": "https://www.thecompanycheck.com/company/b/vectara/b26n3zlyeoodl2n80",
+    "pass": 3
+   },
+   {
+    "quote": "Vectara: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Frequently Asked Questions Who founded Vectara? Vectara was founded in 2022 by Amr Awadallah (Founder and CEO). How much funding has Vectara raised? Vectara has raised $74.0M in total across 3 funding rounds.",
+    "url": "https://startupintros.com/orgs/vectara",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/vectara/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/vectara/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/491089-60",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ハルシネーションにもう悩まない？事実重視のLLM選び May 14, 2025 · VectaraのHHEMモデルでは、1000本の短いドキュメントを各LLMに要約させ、その正確度をスコアリングするという手法を使っています。 これを知ることで、「自分が開発に関わるときも、似たような評価フローを導入できるかもしれない」と参考にできるはずです。",
+    "url": "https://note.com/toumu0208/n/n1aa68d97c5fa",
+    "pass": 3
+   },
+   {
+    "quote": "AIのウソ度ランキング！幻覚率0.7%の最強モデルはどれ？ May 19, 2025 · こうした背景のもと、 2025年4月にVectara社が公開した「Hallucination Leaderboard」 が公表されました。 「どのAIがどれくらい幻覚（ハルシネーション）を起こすのか？ 」 その頻度＝“幻覚率”を、主要AIモデルごとに 実データでランキング したんです。",
+    "url": "https://note.com/hoboai/n/n15fc4fa11036",
+    "pass": 3
+   },
+   {
+    "quote": "[2026年版]生成AIハルシネーション率・事実性スコア完全比較：GPT-5/G... Feb 5, 2026 · 汎用ベンチマークにおけるハルシネーション率比較 Vectara HHEMによる要約タスク評価 RAGシステムにおける要約タスクのハルシネーション率を測定するHHEM-2.1/2.3の評価結果を示す。 数値が低いほど優秀である。",
+    "url": "https://note.com/soyokaze2/n/n87f692d53b7e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ハルシネーションにもう悩まない？事実重視のLLM選び｜桃生篤（株式会社Toumu）",
+    "url": "https://note.com/toumu0208/n/n1aa68d97c5fa",
+    "pass": 3
+   },
+   {
+    "quote": "ハルシネーションにもう悩まない？事実重視のLLM選び",
+    "url": "https://note.com/toumu0208/n/n1aa68d97c5fa",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは！今回は「ハルシネーション（幻覚）をどれだけ起こさずに、正確な要約を生成できるか」を計測するユニークなリーダーボードを紹介します。英語圏では以前から「生成AIの応答の中に事実誤認がないか」「真面目そうに見えて曖昧なデタラメを言っていないか」を評価する研究が進んでいますが、その動きがさらに本格化してきました。ここで取り上げるのは、Vectara社が公開している「Hughes Hallucination Evaluation Model（HHEM）」によるLLM（大規模言語モデル）の評価結果です。英語原文ではGitHub上で「hallucination-leaderboard」という名称で、各モデルの“事実に忠実な要約”の度合いをランク付けしています。この記事では、そのリーダーボードの内容を日本語でまとめつつ、「なぜこんなことをするのか」「僕が興味を持った背景」「どんなメリットがある",
+    "url": "https://note.com/toumu0208/n/n1aa68d97c5fa",
+    "pass": 3
+   },
+   {
+    "quote": "https://github.com/vectara/hallucination-leaderboard",
+    "url": "https://note.com/toumu0208/n/n1aa68d97c5fa",
+    "pass": 3
+   },
+   {
+    "quote": "まず、僕自身が生成AIをいろいろと触るようになったとき、やはり一番気になったのは「まったく違う情報をそれっぽく言ってくる」という“ハルシネーション”問題でした。特に、要約タスクやRAG（Retrieval Augmented Generation）みたいに「参照元があるはずなのに、それと食い違う情報を出してくる」ケースを何度か目にして、「AIはすごいけど、嘘をつくときもあるんだな……」と痛感したんです。",
+    "url": "https://note.com/toumu0208/n/n1aa68d97c5fa",
+    "pass": 3
+   },
+   {
+    "quote": "そんなとき、このリーダーボードを知って「実際にどのモデルがどれくらいハルシネーションしにくいのか、ちゃんと評価してくれている場所があるんだ」と興味を持ちました。さらに、この評価プロセスは僕たちが生成AIを選ぶときの指標になりそうだし、新しいモデルが出たときのチェックリストにもなる。そこで、「自分が理解したことを整理して、日本語でも共有しよう」というのが、この記事を書く動機です。",
+    "url": "https://note.com/toumu0208/n/n1aa68d97c5fa",
+    "pass": 3
+   },
+   {
+    "quote": "リーダーボードの内容を知ることで、次のようなメリットがあると僕は考えています。",
+    "url": "https://note.com/toumu0208/n/n1aa68d97c5fa",
+    "pass": 3
+   },
+   {
+    "quote": "AIを導入したい場面やプロジェクトがあるとき、どのモデルが“事実に忠実”なアウトプットをしやすいのかを比較・検討できる。特に要約やカスタマーサポートの自動化など、間違った情報が大きなリスクにつながるケースで役立ちそうです。",
+    "url": "https://note.com/toumu0208/n/n1aa68d97c5fa",
+    "pass": 3
+   },
+   {
+    "quote": "AIのウソ度ランキング！幻覚率0.7%の最強モデルはどれ？｜ほぼほぼAIで",
+    "url": "https://note.com/hoboai/n/n15fc4fa11036",
+    "pass": 3
+   },
+   {
+    "quote": "AIのウソ度ランキング！幻覚率0.7%の最強モデルはどれ？",
+    "url": "https://note.com/hoboai/n/n15fc4fa11036",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPTやGeminiなど、今や誰もが当たり前に使うようになった生成AIですが、便利な反面、“堂々と事実じゃないこと”を教えてくること、ありますよね。",
+    "url": "https://note.com/hoboai/n/n15fc4fa11036",
+    "pass": 3
+   },
+   {
+    "quote": "SNSでも「AIが全然違う情報をもっともらしく語ってきた」といった体験談が絶えないですよね。",
+    "url": "https://note.com/hoboai/n/n15fc4fa11036",
+    "pass": 3
+   },
+   {
+    "quote": "AIが自信満々にウソをつく現象・・・これが「ハルシネーション（幻覚）」と呼ばれる問題なんです。",
+    "url": "https://note.com/hoboai/n/n15fc4fa11036",
+    "pass": 3
+   },
+   {
+    "quote": "2023年から2025年にかけて、このAI幻覚問題は一気に“社会課題”のひとつになりました。",
+    "url": "https://note.com/hoboai/n/n15fc4fa11036",
+    "pass": 3
+   },
+   {
+    "quote": "ITエンジニアやAIユーザーだけじゃなくて、普通のユーザーからも「どのAIがウソをつきやすいのか？」「本当に信用できるのか？」といった疑問が強くなってきました。",
+    "url": "https://note.com/hoboai/n/n15fc4fa11036",
+    "pass": 3
+   },
+   {
+    "quote": "背景には、AIが“会話を成立させること”や“自然なやりとり”を最優先する設計がどんどん進んで、「正確性」より「流暢さ」や「人間らしさ」を重視する流れが強まってきたことがあるんですよ。",
+    "url": "https://note.com/hoboai/n/n15fc4fa11036",
+    "pass": 3
+   },
+   {
+    "quote": "[2026年版]生成AIハルシネーション率・事実性スコア完全比較：GPT-5/Gemini 3/Claude Opus分野別信頼性評価｜そよ風",
+    "url": "https://note.com/soyokaze2/n/n87f692d53b7e",
+    "pass": 3
+   },
+   {
+    "quote": "[2026年版]生成AIハルシネーション率・事実性スコア完全比較：GPT-5/Gemini 3/Claude Opus分野別信頼性評価",
+    "url": "https://note.com/soyokaze2/n/n87f692d53b7e",
+    "pass": 3
+   },
+   {
+    "quote": "エグゼクティブサマリー：2026年AI信頼性評価の結論",
+    "url": "https://note.com/soyokaze2/n/n87f692d53b7e",
+    "pass": 3
+   },
+   {
+    "quote": "2026年第1四半期における生成AIの評価軸は、テキスト生成能力から「信頼性（Reliability）」と「事実性（Factuality）」へ完全に移行した。最新ベンチマークにおける主要モデルの評価結果は以下の通りである。",
+    "url": "https://note.com/soyokaze2/n/n87f692d53b7e",
+    "pass": 3
+   },
+   {
+    "quote": "。SimpleQAベンチマークで72.1%を記録し、事実想起能力で他モデルを圧倒。",
+    "url": "https://note.com/soyokaze2/n/n87f692d53b7e",
+    "pass": 3
+   },
+   {
+    "quote": "。SWE-bench Verifiedで80.9%の解決率を達成し、ライブラリ捏造リスクが最小。",
+    "url": "https://note.com/soyokaze2/n/n87f692d53b7e",
+    "pass": 3
+   },
+   {
+    "quote": "推論と事実性のトレードオフ（Reasoning Gap）",
+    "url": "https://note.com/soyokaze2/n/n87f692d53b7e",
+    "pass": 3
+   },
+   {
+    "quote": "等の推論特化モデルは、要約・検索タスクにおいて汎用モデルより高いハルシネーション率を示す傾向がある。",
+    "url": "https://note.com/soyokaze2/n/n87f692d53b7e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Vectara (@vectara) / X With Vectara’s Document Generation, teams can create grounded, audit-ready documents governed in real time for accuracy and compliance, giving you confidence in every result.",
+    "url": "https://x.com/vectara",
+    "pass": 3
+   },
+   {
+    "quote": "Vectara on X Raising our virtual teacups to the trailblazing women who sparked the flame at Vectara☕ Happy National Women's Day to our amazing pioneers who continue to redefine the workplace.",
+    "url": "https://x.com/vectara/status/1766193390327050691",
+    "pass": 3
+   },
+   {
+    "quote": "Vectara on X: \"Vectara’s hallucination testing and HHEM ... Vectara’s hallucination testing and HHEM leaderboard are becoming the gold standards for gauging hallucination performance in major new model releases across the AI industry.",
+    "url": "https://x.com/vectara/status/1955707019798667276",
+    "pass": 3
+   },
+   {
+    "quote": "Vectara on X: \"With this funding, we're launching Mockingbird ... Vectara has secured $25M in Series A funding, bringing our total to $53.5M! 🎉 Thanks to our lead investors @ FPVventures & @ RaceCapital, and also @ alumniventures, WVV Capital, @ SamsungNext, @ FusionFundVC, @ GreenSandsE , & Jason Mack.",
+    "url": "https://x.com/vectara/status/1813215067615469618",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Vectara - LinkedIn Vectara is an enterprise AI platform powering intelligent, managed AI agents used in multiple semiconductor use cases, from design and fab to test, packaging, and quality.",
+    "url": "https://www.linkedin.com/company/vectara",
+    "pass": 3
+   },
+   {
+    "quote": "Vectara Systems - LinkedIn About us Vectara Systems is a deep-tech aerospace company focused on autonomous systems, artificial intelligence, and resilient mission software for unmanned platforms.",
+    "url": "https://www.linkedin.com/company/vectara-systems",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Vectara | Palo Alto CA - FacebookVectra AI - FacebookAt Vectara, our mission is clear: empower enterprises ...Vectara - The team has officially landed at # ... - FacebookVectara - 2 Million Downloads on Hugging Face ... - FacebookVectara Inc - FacebookVectara - Highlights from The AI Conference ... - Facebook Nov 12, 2025 · Take a tour of Vectara’s NLP-powered search platform and learn more about ",
+    "url": "https://www.facebook.com/vectara/",
+    "pass": 3
+   },
+   {
+    "quote": "Vectra AI - FacebookAt Vectara, our mission is clear: empower enterprises ...Vectara - The team has officially landed at # ... - FacebookVectara - 2 Million Downloads on Hugging Face ... - FacebookVectara Inc - FacebookVectara - Highlights from The AI Conference ... - Facebook Aug 14, 2026 · Vectra AI. 954 likes · 5 talking about this · 35 were here. Vectra AI, the cybersecurity AI company that pr",
+    "url": "https://www.facebook.com/VectraAI/",
+    "pass": 3
+   },
+   {
+    "quote": "At Vectara, our mission is clear: empower enterprises ...Vectara - The team has officially landed at # ... - FacebookVectara - 2 Million Downloads on Hugging Face ... - FacebookVectara Inc - FacebookVectara - Highlights from The AI Conference ... - Facebook Jan 12, 2025 · In industries where trust and compliance are non- negotiable, these principles aren’t optional—they’re essential. Ready to buil",
+    "url": "https://www.facebook.com/vectara/videos/at-vectara-our-mission-is-clear-empower-enterprises-businesses-and-governments-t/1270936664192153/",
+    "pass": 3
+   },
+   {
+    "quote": "Vectara - The team has officially landed at # ... - Facebook Jun 12, 2025 · We’re ready to dive into all things #GenAI, RAG, and what it really takes to build AI that’s grounded, secure, and enterprise-ready. If you're in Paris and curious about how Retrieval- Augmented Generation is evolving from buzzword to business-critical, let's connect. 👋 #AI #ConversationalAI #RAGstack #LLM #EnterpriseAI #V",
+    "url": "https://www.facebook.com/vectara/posts/-the-team-has-officially-landed-at-vivatech-2025were-ready-to-dive-into-all-thin/685272707658396/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.vectara.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vectara.com/business/solutions/verticals/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vectara.com/company/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vectara.com/company/careers-and-culture",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vectara.com/business/solutions/use-cases/vectara-for-on-prem-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vectara.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vectara.com/business/solutions/verticals/semiconductors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vectara.com/business/solutions/verticals/telco",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vectara.com/business/solutions/verticals/insurance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vectara.com/business/solutions/verticals/finserv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vectara.com/business/resources/customer-stories/broadcom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vectara.com/business/resources/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vectara.com/company/newsroom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vectara.com/blog/boomerang-v2-next-generation-of-multimodal-enterprise-search",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.vectara.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fp0pvmro2%2Fproduction%2Fe78dac19a2702b1e4ca365765eba3555afb26fdb-2816x1592.png%3Fw%3D1408%26h%3D796%26q%3D90%26fit%3Dcrop%26auto%3Dformat&w=3840&q=90",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.itreview.jp/products/vectraaiplatform/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.vectra.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car-me.jp/articles/55313",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saison-technology.com/company/news/20251010_Inc_Vectra_partnership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vector.com/en/company/get-info/contact/vector-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://vectorjapan.com/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/vectra-ai/case-study/large-manufacturing-company-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/vectara/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vectra.ai/partners/overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verkada.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/vectara/__B2HorZ0b9oeKtrr4S1EDjqD-0h8QipBkMx5sL3VtgNk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.gofractional.com/companies/vectara",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/491089-60",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/vectara/b26n3zlyeoodl2n80",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/toumu0208/n/n1aa68d97c5fa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hoboai/n/n15fc4fa11036",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/soyokaze2/n/n87f692d53b7e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/vectara",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/vectara/status/1766193390327050691",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/vectara/status/1955707019798667276",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/vectara/status/1813215067615469618",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/vectara",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/vectara-systems",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/vectara/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VectraAI/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/vectara/videos/at-vectara-our-mission-is-clear-empower-enterprises-businesses-and-governments-t/1270936664192153/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/vectara/posts/-the-team-has-officially-landed-at-vivatech-2025were-ready-to-dive-into-all-thin/685272707658396/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Vectara 日本 導入",
+   "results": [
+    "https://www.itreview.jp/products/vectraaiplatform/profile",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://ja.vectra.ai/",
+    "https://car-me.jp/articles/55313",
+    "https://prtimes.jp/main/html/rd/p/000000003.000108014.html",
+    "https://www.macnica.co.jp/business/security/manufacturers/vectraai/",
+    "https://ja.vectra.ai/platform"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Vectara 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.vectara.com/contact-us",
+    "https://www.saison-technology.com/company/news/20251010_Inc_Vectra_partnership/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.vectara.com/",
+    "https://www.macnica.co.jp/public-relations/news/2022/142672/",
+    "https://www.macnica.co.jp/business/security/manufacturers/vectraai/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Vectara Japan",
+   "results": [
+    "https://www.vectara.com/",
+    "https://www.vector.com/en/company/get-info/contact/vector-japan/",
+    "https://www.vectara.com/company/newsroom",
+    "http://vectorjapan.com/profile.html",
+    "http://vectorjapan.com/",
+    "https://www.vector.com/ja/company/get-info/contact/vector-japan/",
+    "https://ja.vectra.ai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Vectara manufacturing customer case study",
+   "results": [
+    "https://www.vectara.com/business/resources/customer-stories",
+    "https://www.vectara.com/business/resources/customer-stories/category/success-story",
+    "https://www.casestudies.com/company/vectra-ai/case-study/large-manufacturing-company-customer-case-study",
+    "https://www.featuredcustomers.com/vendor/vectara/case-studies",
+    "https://www.casestudies.com/company/vectra-ai/case-study/manufacturing-company-identifies-true-cause-of-events-in-two-hours-with-vectra",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/vectra-ai_large-manufacturing-company57_662855.pdf",
+    "https://www.appsruntheworld.com/customers-database/products/view/vectara"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Vectara white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vectra.ai/partners/overview",
+    "https://www.verkada.com/partners/",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Vectara founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/vectara/__B2HorZ0b9oeKtrr4S1EDjqD-0h8QipBkMx5sL3VtgNk",
+    "https://www.gofractional.com/companies/vectara",
+    "https://pitchbook.com/profiles/company/491089-60",
+    "https://www.thecompanycheck.com/company/b/vectara/b26n3zlyeoodl2n80",
+    "https://startupintros.com/orgs/vectara",
+    "https://www.crunchbase.com/organization/vectara",
+    "https://exa.ai/websets/directory/vectara-funding"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Vectara",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/toumu0208/n/n1aa68d97c5fa",
+    "https://note.com/hoboai/n/n15fc4fa11036",
+    "https://note.com/soyokaze2/n/n87f692d53b7e",
+    "https://note.com/vectra_ai_japan/n/n287903c5845c?hl=en",
+    "https://note.com/atolls_note/n/n69ba3d1c9e77",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Vectara",
+   "results": [
+    "https://x.com/vectara",
+    "https://x.com/vectara/status/1766193390327050691",
+    "https://x.com/vectara/status/1955707019798667276",
+    "https://x.com/vectara/status/1813215067615469618",
+    "https://x.com/vectara/status/1806328196318560666",
+    "https://x.com/vectara/status/1984259092794470910",
+    "https://x.com/Vectra_official"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Vectara",
+   "results": [
+    "https://www.linkedin.com/company/vectara",
+    "https://www.linkedin.com/company/vectara-systems",
+    "https://ca.linkedin.com/company/vectra_ai",
+    "https://ie.linkedin.com/company/vectra_ai",
+    "https://uk.linkedin.com/company/vectra_ai",
+    "https://www.linkedin.com/company/vectara/jobs",
+    "https://www.linkedin.com/in/ofermend"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Vectara",
+   "results": [
+    "https://www.facebook.com/vectara/",
+    "https://www.facebook.com/VectraAI/",
+    "https://www.facebook.com/vectara/videos/at-vectara-our-mission-is-clear-empower-enterprises-businesses-and-governments-t/1270936664192153/",
+    "https://www.facebook.com/vectara/posts/-the-team-has-officially-landed-at-vivatech-2025were-ready-to-dive-into-all-thin/685272707658396/",
+    "https://www.facebook.com/vectara/posts/-2-million-downloads-on-hugging-face-were-beyond-excited-to-share-that-our-hughe/508991325286536/",
+    "https://www.facebook.com/Vectara-Inc-109634388596679/",
+    "https://www.facebook.com/vectara/posts/-highlights-from-the-ai-conference-2024-in-san-francisco-our-team-had-an-incredi/487390097446659/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Vectara note 社長",
+   "results": [
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://siliconvalleyinvestclub.com/id/companies/vectara/team/tallat-shafaat/",
+    "https://www.vectara.com/company/about-us",
+    "https://siliconvalleyinvestclub.com/id/companies/vectara/",
+    "https://exa.ai/websets/directory/vectara-executives",
+    "https://tracxn.com/d/companies/vectara/__B2HorZ0b9oeKtrr4S1EDjqD-0h8QipBkMx5sL3VtgNk",
+    "https://pitchbook.com/profiles/company/491089-60"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Vectara X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部32頁・検索12回）"
+ }
+}

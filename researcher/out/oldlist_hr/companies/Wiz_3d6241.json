@@ -1,0 +1,1933 @@
+{
+ "name": "Wiz",
+ "aliases": [],
+ "context": "旧営業リスト｜Cloud Security｜商談中",
+ "researched_at": "2026-11-11T05:39:59.751235+00:00",
+ "official_url": "https://www.wiz.io",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都港区虎ノ門4丁目3番1号\n城山トラストタワー9階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000189980.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都港区虎ノ門4丁目3番1号\n城山トラストタワー9階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000189980.html",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$1.8B",
+    "url": "https://getlatka.com/companies/wiz",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Wiz connects code, cloud, and runtime into a single security graph that provides the end-to-end context required to automate risk reduction and threat response, enabling security teams to operate at AI speed. AI alone doesn't make security faster.",
+    "url": "https://www.wiz.io/",
+    "pass": 1
+   },
+   {
+    "quote": "without sacrificing precision or slowing innovation.",
+    "url": "https://www.wiz.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent Cloud and AI Risks",
+    "url": "https://www.wiz.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Runtime protection and threat detection, built for the cloud and AI era.",
+    "url": "https://www.wiz.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically turns risks into code fixes - opening PRs to fix issues at the source and helps write secure code from the start.",
+    "url": "https://www.wiz.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Automates SecOps threat hunting and investigation to validate and prioritize real threats.",
+    "url": "https://www.wiz.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Continuously simulate real attack paths across your cloud and AI stack to prove what's actually exploitable. By eliminating theoretical noise, you can instantly surface the high-priority risks that matter most in the AI era.",
+    "url": "https://www.wiz.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Remediation",
+    "url": "https://www.wiz.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Red Agent finds what humans miss. It caught critical authorization flaws across services where traditional testing and our bug bounty program came up short.",
+    "url": "https://www.wiz.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Product Security",
+    "url": "https://www.wiz.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Security Engineer",
+    "url": "https://www.wiz.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to protect your cloud?",
+    "url": "https://www.wiz.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Block lateral movement in progress",
+    "url": "https://www.wiz.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Most frontier AI labs rely on Wiz to secure their cloud, AI workloads, and the data powering next-generation innovation.",
+    "url": "https://www.wiz.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud Native Application Protection Solutions, Q1 2026",
+    "url": "https://www.wiz.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Worldwide Cloud-Native Application Protection Platforms 2025",
+    "url": "https://www.wiz.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Red Agent autonomously chains multi-step attacks by reasoning about the application behavior and leveraging context to uncover complex logic flaws. It validates exploitability and provides concrete proof with reproduction steps.",
+    "url": "https://www.wiz.io/solutions/red-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Find non-deterministic, complex logic flaws, OWASP API Top 10 vulnerabilities, authorization bypasses, data and secret exposure, and injection vulnerabilities, and get exact reproduction commands to test the exploit.",
+    "url": "https://www.wiz.io/solutions/red-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Prioritize exploitable risk with context",
+    "url": "https://www.wiz.io/solutions/red-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Link every Red Agent finding to the Wiz Security Graph to see the full impact of the risk on your environment and prioritize using context.",
+    "url": "https://www.wiz.io/solutions/red-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Battle -Tested at Enterprise Scale",
+    "url": "https://www.wiz.io/solutions/red-agent",
+    "pass": 1
+   },
+   {
+    "quote": ". It caught critical authorization flaws across services where traditional testing and our bug bounty program came up short. We had continuous AI-powered attack surface testing on our roadmap. Wiz got there first, and did it better than we would have.",
+    "url": "https://www.wiz.io/solutions/red-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Product Security",
+    "url": "https://www.wiz.io/solutions/red-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Principal DevSecOps Expert",
+    "url": "https://www.wiz.io/solutions/red-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Reasoning engine built by the Wiz Research team, encoding expert threat intelligence and proven vulnerability research directly into the agent’s DNA.",
+    "url": "https://www.wiz.io/solutions/red-agent",
+    "pass": 1
+   },
+   {
+    "quote": "“ There was no technology in the industry that could provide the level of detail that Wiz does. ”",
+    "url": "https://www.wiz.io/solutions/red-agent",
+    "pass": 1
+   },
+   {
+    "quote": "“ Because of Wiz, we’ve been able to democratize our approach to cybersecurity. Protecting our infrastructure is no longer concentrated in one team; the responsibility is distributed across the organization. ”",
+    "url": "https://www.wiz.io/solutions/red-agent",
+    "pass": 1
+   },
+   {
+    "quote": "“ I'm a doctor, I take care of people, I was trained in preventative medicine. Wiz is like preventative medicine for us. ”",
+    "url": "https://www.wiz.io/solutions/red-agent",
+    "pass": 1
+   },
+   {
+    "quote": "\"Best User Experience I have ever seen, provides full visibility to cloud workloads.\"",
+    "url": "https://www.wiz.io/solutions/red-agent",
+    "pass": 1
+   },
+   {
+    "quote": "\"Wiz provides a single pane of glass to see what is going on in our cloud environments.\"",
+    "url": "https://www.wiz.io/solutions/red-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Product Security",
+    "url": "https://www.wiz.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "project44 Accelerates Cloud Remediation and Security Operations with Wiz AI Agents",
+    "url": "https://www.wiz.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Nipro Digital Technologies Europe Unifies Code-to-Cloud Security and Reaches Zero Critical Open Issues with Wiz",
+    "url": "https://www.wiz.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Owkin's lean Security Team Protects AI-Driven Biotech Research at Scale",
+    "url": "https://www.wiz.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Best User Experience I have ever seen, provides full visibility to cloud workloads.\"",
+    "url": "https://www.wiz.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Wiz provides a single pane of glass to see what is going on in our cloud environments.\"",
+    "url": "https://www.wiz.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Wiz pricing - get a custom quote | Wiz",
+    "url": "https://www.wiz.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Wiz licensing is designed to be simple and flexible while providing complete cloud and AI security from code to runtime. Unified offerings meet customers wherever they are on their cloud security journey while enabling teams to shift usage between capabilities as needs evolve. Customers also have the flexibility to tailor to their exact needs with à la carte options.",
+    "url": "https://www.wiz.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The Blue Agent provides a transparent investigation process, so analysts can see the questions asked, the data retrieved, and how each signal shaped the final verdict. No black boxes, just clear, explainable reasoning.",
+    "url": "https://www.wiz.io/blog/wiz-blue-agent-generally-available",
+    "pass": 1
+   },
+   {
+    "quote": "Product & Company News",
+    "url": "https://www.wiz.io/blog/wiz-blue-agent-generally-available",
+    "pass": 1
+   },
+   {
+    "quote": "\"Best User Experience I have ever seen, provides full visibility to cloud workloads.\"",
+    "url": "https://www.wiz.io/blog/wiz-blue-agent-generally-available",
+    "pass": 1
+   },
+   {
+    "quote": "\"Wiz provides a single pane of glass to see what is going on in our cloud environments.\"",
+    "url": "https://www.wiz.io/blog/wiz-blue-agent-generally-available",
+    "pass": 1
+   },
+   {
+    "quote": ", code-to-cloud tracing, deep ownership context from across the environment, and historical patterns of remediation. To synthesize that context and turn it into action, this week we introduced the Wiz Green Agent. The Green Agent proactively investigates the top risks in your environment, automatically uncovering root causes and suggesting the most effective remediation plan.",
+    "url": "https://www.wiz.io/blog/introducing-wiz-green-agent",
+    "pass": 1
+   },
+   {
+    "quote": "To tackle complex cloud risks at AI speed, the Wiz Green Agent acts as a digital security investigator and remediation engine, combining prescribed security best practices with dynamic AI reasoning. It follows domain-specific investigation across risk domains in Wiz, like",
+    "url": "https://www.wiz.io/blog/introducing-wiz-green-agent",
+    "pass": 1
+   },
+   {
+    "quote": ", and analyzes every Issue against proven methodologies, such as containing risks before applying fixes or selecting layer-appropriate remediations. For example, it may recommend updating source code before rebuilding a container or enforcing least-privilege access while validating the fix.",
+    "url": "https://www.wiz.io/blog/introducing-wiz-green-agent",
+    "pass": 1
+   },
+   {
+    "quote": "The Green Agent is your security team’s force multiplier. It makes its reasoning visible and actionable, surfacing each Issue with clear prioritization, investigation, and next steps - so every hour spent on remediation drives the highest-impact fix. Here’s how that shows up in practice:",
+    "url": "https://www.wiz.io/blog/introducing-wiz-green-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically traces high-priority Issues across cloud resources, IAM policies, network paths, and code commits to find the root cause. Teams can follow this analysis directly in the Investigation tab, where each step in the Green Agent’s analysis is laid out. As a result, teams can verify and understand exactly how the recommendation from Green Agent was derived.",
+    "url": "https://www.wiz.io/blog/introducing-wiz-green-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Now in Public Preview, learn more about the",
+    "url": "https://www.wiz.io/blog/introducing-wiz-green-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Product & Company News",
+    "url": "https://www.wiz.io/blog/introducing-wiz-green-agent",
+    "pass": 1
+   },
+   {
+    "quote": "LiteLLM is the latest victim of TeamPCP’s open-source attack spree. Malicious versions 1.82.7 and 1.82.8 abuse Python’s .pth mechanism for stealthy persistence. The malware exfiltrates cloud credentials, CI/CD secrets, and keys to attacker-controlled domains.",
+    "url": "https://www.wiz.io/blog/introducing-wiz-green-agent",
+    "pass": 1
+   },
+   {
+    "quote": "KICS GitHub Action Compromised: TeamPCP Strikes Again in Supply Chain Attack",
+    "url": "https://www.wiz.io/blog/introducing-wiz-green-agent",
+    "pass": 1
+   },
+   {
+    "quote": "\"Best User Experience I have ever seen, provides full visibility to cloud workloads.\"",
+    "url": "https://www.wiz.io/blog/introducing-wiz-green-agent",
+    "pass": 1
+   },
+   {
+    "quote": "\"Wiz provides a single pane of glass to see what is going on in our cloud environments.\"",
+    "url": "https://www.wiz.io/blog/introducing-wiz-green-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Managing a rapidly growing multi-cloud environment made it difficult for Redis to maintain clear, real-time visibility into their cloud footprint and the relationships between their cloud resources.",
+    "url": "https://www.wiz.io/customers/redis-unified-cloud-security",
+    "pass": 1
+   },
+   {
+    "quote": "Fragmented security tools across clouds created blind spots, limiting consistent detection and a unified security approach.",
+    "url": "https://www.wiz.io/customers/redis-unified-cloud-security",
+    "pass": 1
+   },
+   {
+    "quote": "Redis started as an open-source project with a simple but uncompromising mission: make technology fast. More than a decade later, that philosophy still defines the company, now as the world’s most loved real-time data platform, powering applications and games that process massive volumes of data across industries, from global enterprises to fast-moving crypto companies.",
+    "url": "https://www.wiz.io/customers/redis-unified-cloud-security",
+    "pass": 1
+   },
+   {
+    "quote": "That same mindset shapes how Redis approaches security. For Justin Lachesky, Director of Cyber Resilience at Redis, security must scale at the speed of the business or it becomes a liability.",
+    "url": "https://www.wiz.io/customers/redis-unified-cloud-security",
+    "pass": 1
+   },
+   {
+    "quote": "As Redis’s cloud footprint expanded, the security team needed a platform that could move just as fast as their engineers.",
+    "url": "https://www.wiz.io/customers/redis-unified-cloud-security",
+    "pass": 1
+   },
+   {
+    "quote": "Redis’s growth brought scale and with it complexity. Hundreds to thousands of cloud accounts across multiple providers made it increasingly difficult for the security team to answer basic questions. What is running? How is it configured? And how does it all connect?",
+    "url": "https://www.wiz.io/customers/redis-unified-cloud-security",
+    "pass": 1
+   },
+   {
+    "quote": "That complexity did not just affect the SOC. Product teams wanted to move fast, spin up new environments, and launch new services. Security needed visibility and detection before they could feel confident, but traditional approaches could not keep up with Redis’s pace.",
+    "url": "https://www.wiz.io/customers/redis-unified-cloud-security",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by more than 65% of Fortune 100 companies",
+    "url": "https://www.wiz.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by security teams all over the world",
+    "url": "https://www.wiz.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by security teams all over the world",
+    "url": "https://www.wiz.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Redis case study | Wiz",
+    "url": "https://www.wiz.io/customers/redis-unified-cloud-security",
+    "pass": 1
+   },
+   {
+    "quote": "ZS Associates case study | Wiz",
+    "url": "https://www.wiz.io/customers/zs-blue-agent",
+    "pass": 1
+   },
+   {
+    "quote": "As one of France’s most recognized digital automotive marketplaces, La Centrale attracts over 16 million unique monthly visitors and handles 30 million vehicle valuations a year. Powering this massive operation is a cutting-edge, fully serverless AWS environment consisting of more than 2,000 Lambda functions driven by autonomous feature teams.",
+    "url": "https://www.wiz.io/customers/lacentrale",
+    "pass": 1
+   },
+   {
+    "quote": "Rogo.ai case study | Wiz",
+    "url": "https://www.wiz.io/customers/rogo",
+    "pass": 1
+   },
+   {
+    "quote": "Fireblocks, Ltd. case study | Wiz",
+    "url": "https://www.wiz.io/customers/fireblocks",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by security teams all over the world",
+    "url": "https://www.wiz.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by industry leaders",
+    "url": "https://www.wiz.io/partner-alliance",
+    "pass": 1
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/wiz/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Google, Inc. v. American Blind & Wallpaper Factory, Inc.",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Please enter work email below",
+    "url": "https://www.wiz.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Scammers may create e-mail addresses or web sites to impersonate Wiz employees. Communications from our Talent Acquisition wizards will only originate from Wiz employees with @wiz.io email addresses.",
+    "url": "https://www.wiz.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You can report suspicious recruiting related messages by forwarding the email to",
+    "url": "https://www.wiz.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Username or Email Address",
+    "url": "https://itbusinesstoday.com/tech/cybersecurity/cloud-security-firm-wiz-expands-fully-into-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/wiz/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/wiz/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Existing Users: Login using your corporate email address for access to the Partner Portal.",
+    "url": "https://partners.wiz.io/Japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "Enter your email address or username below and we will send you a link to reset your password.",
+    "url": "https://partners.wiz.io/Japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "E-Mail Address or Username",
+    "url": "https://partners.wiz.io/Japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "Enter your email address below and we will email you a list of associated users.",
+    "url": "https://partners.wiz.io/Japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "reached out to Rappaport via email to express interest in a potential bid to acquire the company. Rappaport initially missed the email until May, when he met with Pichai and",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": "BingBang – A misconfiguration in Azure Active Directory (AAD) that allowed Wiz researchers to modify Bing.com search results in a way that malicious actors could use to steal Office 365 credentials granting access to countless users' private emails and documents.",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The Green Agent becomes a strategic asset, transforming how organizations map ownership and manage risk in an AI-first era - turning the toughest part of security, remediation, into a machine-speed resolution engine.",
+    "url": "https://www.wiz.io/blog/introducing-wiz-green-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Over three months, the team built an internal framework for measuring Blue Agent performance, comparing its investigations against analyst findings and tracking confidence over time. The result was a self-validated accuracy rate of 95%—giving the team the confidence to operationalize Blue Agent as part of their day-to-day security operations workflow.",
+    "url": "https://www.wiz.io/customers/zs-blue-agent",
+    "pass": 1
+   },
+   {
+    "quote": "As Rogo rapidly scaled from startup to 150+ employees, the company faced a unique challenge: balancing the speed of an AI-native organization with the security expectations of highly regulated financial institutions.",
+    "url": "https://www.wiz.io/customers/rogo",
+    "pass": 1
+   },
+   {
+    "quote": "The biggest challenges Aon faced prior to its partnership with Wiz were linked to the company’s complex organizational structure. For many years, Aon has grown through merger and acquisition (M&A) activity. The result is a highly distributed business supported by a convoluted cloud landscape (spanning AWS, Azure, and Google Cloud).",
+    "url": "https://www.wiz.io/customers/aon",
+    "pass": 1
+   },
+   {
+    "quote": "Swift and seamless deployment has also transformed the security team’s involvement in M&A activity. Aon can now deploy Wiz to a potential acquisition’s cloud environment before a deal has been completed, generating immediate, trusted data on the acquisition’s security posture and flagging any remediation action that may be necessary.",
+    "url": "https://www.wiz.io/customers/aon",
+    "pass": 1
+   },
+   {
+    "quote": "“We don’t need to share questionnaires and spreadsheets with stakeholders any more,” explains Martinez. “Wiz allows us to integrate really quickly, giving us a really transparent understanding of the risk posture of a potential acquisition.”",
+    "url": "https://www.wiz.io/customers/aon",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerating our cloud migration wouldn’t have been possible without the help of Wiz, which provides a collective view of our exposures, identities, and vulnerabilities, both for corporate cloud environment and our acquisitions.",
+    "url": "https://www.wiz.io/customers/genpact",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 financial management company unites developers and security engineers towards a collaborative security strategy",
+    "url": "https://www.wiz.io/customers/genpact",
+    "pass": 1
+   },
+   {
+    "quote": "Previously, Bridgewater compiled inventory and security reports manually, but as the company acquired more cloud resources, the task took its toll on the team.",
+    "url": "https://www.wiz.io/customers/bridgewater",
+    "pass": 1
+   },
+   {
+    "quote": "As a global enterprise with more than 20 in-house patents and hundreds of industry-leading customers, PROS is committed to security excellence. As part of its cloud security transformation, PROS turned to Wiz to consolidate its security tooling, improve its risk remediation processes, and enhance cloud threat detection in real-time.",
+    "url": "https://www.wiz.io/customers/pros",
+    "pass": 1
+   },
+   {
+    "quote": "Part of my role is about evangelizing security across the organization. Since I don't actually own most of the controls directly, I have to work to get everybody on board, and Wiz gives us a shared frame of reference to help us all work together.",
+    "url": "https://www.wiz.io/customers/pros",
+    "pass": 1
+   },
+   {
+    "quote": "Now part of Google Cloud",
+    "url": "https://www.wiz.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Employees can choose to work from one of our global offices, fully remote, or a mix of the two.",
+    "url": "https://www.wiz.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Scammers may create e-mail addresses or web sites to impersonate Wiz employees. Communications from our Talent Acquisition wizards will only originate from Wiz employees with @wiz.io email addresses.",
+    "url": "https://www.wiz.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "2022年8月には、ソフトウェア企業最速というAnnual Recurring Revenue（ARR、年間経常収益）の1億ドルを達成し、2024年5月には時価総額120億ドルの「サイバーセキュリティユニコーン」とも評価された",
+    "url": "https://japan.zdnet.com/article/35233383/",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/wiz/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisition by Alphabet Inc.",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": ", that has been part of",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": "annual recurring revenue",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": "(ARR), from February 2021 to approximately July 2022.",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2024, the company claimed to have reached $350M in ARR, with a 45% market share of Fortune 100 companies.",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": "acquired Wiz in a $32 billion deal.",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": "In April 2024, the company acquired cloud detection and response startup, Gem Security, for around $350",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": "In November 2024, the company acquired security remediation and risk management startup Dazz for a cash-and-share deal valued at $450 million.",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": "However, the deal was revived due to weakness in the IPO market and a more",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": "mergers and acquisitions",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": ", and on March 18, 2025, Google announced an all-cash acquisition of Wiz for $32",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": "The deal \"represent[ed] the largest cybersecurity acquisition of all time [and] the most expensive acquisition Google has ever made in any sector\".",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": "On March 11, 2026, the acquisition was completed.",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": "\"Cloud security startup Wiz reaches $100M ARR in just 18 months\"",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": "\"Wiz reports $350m revenue in 2023, hiring 400 in 2024\"",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": "\"Google completes acquisition of Wiz\"",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": "\"Google Close to Its Biggest Acquisition Ever, Despite Antitrust Scrutiny\"",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": "\"Wiz Rejects Google's $23 Billion Offer, Seeks IPO Instead\"",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": "Google secures EU antitrust approval for $32 billion Wiz acquisition",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": "\"Cyber Startup Wiz Raises $1 Billion on Path to IPO\"",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": "Mergers and acquisitions",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": "2026 mergers and acquisitions",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz Revenue 2025: $750M, $32B Valuation",
+    "url": "https://getlatka.com/companies/wiz",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/wiz",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz's annual revenue was $750M in March 2025 (theguardian.com), the most recent figure on record.",
+    "url": "https://getlatka.com/companies/wiz",
+    "pass": 3
+   },
+   {
+    "quote": "All 4 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/wiz",
+    "pass": 3
+   },
+   {
+    "quote": "last confirmed pre-acquisition milestone",
+    "url": "https://getlatka.com/companies/wiz",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz competes most directly with Lacework and Sysdig. It is the largest of the three by revenue.",
+    "url": "https://getlatka.com/companies/wiz",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz CEO, founders & employees",
+    "url": "https://getlatka.com/companies/wiz",
+    "pass": 3
+   },
+   {
+    "quote": "Assaf Rappaport founded Wiz in 2020 with Yinon Costica, Roy Reznik and Ami Luttwak and runs it as CEO. Wiz has 2,910 employees (August 2025, LinkedIn), up from 1,896 a year earlier.",
+    "url": "https://getlatka.com/companies/wiz",
+    "pass": 3
+   },
+   {
+    "quote": "What is Wiz's revenue?",
+    "url": "https://getlatka.com/companies/wiz",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz's annual revenue was",
+    "url": "https://getlatka.com/companies/wiz",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Wiz have?",
+    "url": "https://getlatka.com/companies/wiz",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of August 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/wiz",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/wiz",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/wiz",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/wiz",
+    "pass": 3
+   },
+   {
+    "quote": "Looking Beyond The Google & Wiz Acquisition: The Future Of Cloud Security",
+    "url": "https://note.com/no_cato_no_sase/n/n8b4ea6b7c5e8",
+    "pass": 3
+   },
+   {
+    "quote": "WizはARR（年間経常収益）1億ドル（150億円）、その後3億ドル（300億円）、そして5億ドル（750億円）を達成した急成長企業です",
+    "url": "https://note.com/no_cato_no_sase/n/n8b4ea6b7c5e8",
+    "pass": 3
+   },
+   {
+    "quote": "噂されている指標によると、今年初めの時点で、Wiz のARRは約7億ドル（1,000億円）でした",
+    "url": "https://note.com/no_cato_no_sase/n/n8b4ea6b7c5e8",
+    "pass": 3
+   },
+   {
+    "quote": "全体的なARRの伸びは鈍化しており、勢いを取り戻すには何か大きなものが必要でした",
+    "url": "https://note.com/no_cato_no_sase/n/n8b4ea6b7c5e8",
+    "pass": 3
+   },
+   {
+    "quote": "ARR1億ドルから2億ドル程度で、CrowdStrikeは急速に成長している",
+    "url": "https://note.com/no_cato_no_sase/n/n8b4ea6b7c5e8",
+    "pass": 3
+   },
+   {
+    "quote": "この記事は4年余りでARR（年間経常収益）5 億ドルを達成し、史上最速の成長スピードの企業となった伝説のスタートアップ、Wizの成長戦略について考察する記事です",
+    "url": "https://note.com/uxbamboo/n/n6067398ee825",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、Wizはわずか数年でARR（年間経常収益）5億ドルに到達しました",
+    "url": "https://note.com/uxbamboo/n/n6067398ee825",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Tokyo, Japan",
+    "url": "https://www.wiz.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Wiz調査：日本企業の「AI導入加速」はクラウド移行を上回る 同時に8割以上がAIによるサイバー攻撃への備えに遅れ | Wiz Cloud Japan株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz調査：日本企業の「AI導入加速」はクラウド移行を上回る 同時に8割以上がAIによるサイバー攻撃への備えに遅れ",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "〜 日本の企業の60％が、マシンスピードに対応した防御を実現するため、AIセキュリティへの投資を計画 〜",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドセキュリティプラットフォームのリーディングカンパニーであるWiz, Inc.（本社：米国ニューヨーク州、以下Wiz）の日本法人Wiz Cloud Japan株式会社は、日本国内のビジネスパーソン1,626名を対象に実施した「クラウドおよびAIセキュリティに関する国内最新市場調査（2026年7月実施）」、および世界各国のCISO（最高情報セキュリティ責任者）等を対象としたグローバル調査レポート（計3編）の結果をクロス分析した最新の市場動向を発表しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "本調査から、日本企業におけるAI導入と関連投資が、かつての「クラウド移行」を上回るスピードで進展していることが明らかになりました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に、自律的にサイバー攻撃を行う「フロンティアAI」の脅威に対し、国内企業の85.7%が「対応できない可能性がある」、「対応が極めて困難である」または「未対応」と回答しており、日本企業の不安が露呈する結果となりました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした「AI駆動型の高度なサイバー攻撃」に対し、日本企業の85.7%が防衛に不安を抱えている（または未対応である）ことが明らかになりました（内訳：一部の高度な攻撃には対応できない可能性がある：51.2%、現行の防御体制では対応が極めて困難である：20.2%、新しい脅威に対する評価や対策の検討自体が進んでいない：14.3%）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "4. 【投資】「セキュリティ投資」を進める世界（85%が増額）から遅れる日本（増額は56%）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらの結果から、日本企業においてAIへの投資シフトが極めて速い速度で進行していることが分かります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、グローバル調査では、85%の組織が前年比でセキュリティ予算を増額2しているのに対し、日本国内の調査では予算を増額した組織は56.4%にとどまりました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の44.3%が「クラウド環境におけるセキュリティ侵害や設定ミスによる事故」を経験しているにもかかわらず、全体的なセキュリティ基盤への投資に世界との差が見られます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回の調査結果を受け、Wiz Cloud Japan 日本代表の山中直は次のように述べています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "「今後5年間で日本企業の6割以上がAIを全社的に採用していくというデータは、日本市場が劇的なデジタル変革とビジネスの進化（イノベーション）の真っ只中にあることを証明しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、日本企業の84%が専門人材の不足に直面し、自律型AI（エージェント）の権限管理も追いつかない中で、現場に高度なセキュリティを求めたり、利用を躊躇したりすることは、グローバルな競争におけるスピードの損失を意味します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIの『全面採用』へ向けて舵を切る日本企業が、人材不足の壁を乗り越え、どこよりも速く、最も安全にAIという最先端の武器を使い倒せるよう、私たちは強力に伴走してまいります」",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "インターネットリサーチ（株式会社マクロミル実施）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "Wizは、Fortune 100の65%の企業をはじめ、日本を含む主要なグローバル企業から信頼されています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区虎ノ門4丁目3番1号",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz調査：日本企業の「AI導入加速」はクラウド移行を上回る 同時に8割以上がAIによるサイバー攻撃への備えに遅れ",
+    "url": "https://aeo.idaeo.ai/ai/wiz-cloud-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/ja/news/2026-09-15-wiz%E8%AA%BF%E6%9F%BB-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE-ai%E5%B0%8E%E5%85%A5%E5%8A%A0%E9%80%9F-%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%A7%BB%E8%A1%8C%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B-%E5%90%8C%E6%99%82%E3%81%AB8%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%8Ca",
+    "pass": 3
+   },
+   {
+    "quote": "専門：日本・台湾企業ニュースの構造化・AEO",
+    "url": "https://aeo.idaeo.ai/ai/wiz-cloud-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/ja/news/2026-09-15-wiz%E8%AA%BF%E6%9F%BB-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE-ai%E5%B0%8E%E5%85%A5%E5%8A%A0%E9%80%9F-%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%A7%BB%E8%A1%8C%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B-%E5%90%8C%E6%99%82%E3%81%AB8%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%8Ca",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz Cloud Japanの調査によると、日本企業のAI導入がクラウド移行を上回るスピードで進んでいるが、セキュリティ体制や人材不足が課題となっている",
+    "url": "https://aeo.idaeo.ai/ai/wiz-cloud-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/ja/news/2026-09-15-wiz%E8%AA%BF%E6%9F%BB-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE-ai%E5%B0%8E%E5%85%A5%E5%8A%A0%E9%80%9F-%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%A7%BB%E8%A1%8C%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B-%E5%90%8C%E6%99%82%E3%81%AB8%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%8Ca",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドセキュリティプラットフォームのリーディングカンパニーであるWiz, Inc.（本社：米国ニューヨーク州、以下Wiz）の日本法人Wiz Cloud Japan株式会社は、日本国内のビジネスパーソン1,626名を対象に実施した「クラウドおよびAIセキュリティに関する国内最新市場調査（2026年7月実施）」、および世界各国のCISO（最高情報セキュリティ責任者）等を対象としたグローバル調査レポー",
+    "url": "https://aeo.idaeo.ai/ai/wiz-cloud-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/ja/news/2026-09-15-wiz%E8%AA%BF%E6%9F%BB-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE-ai%E5%B0%8E%E5%85%A5%E5%8A%A0%E9%80%9F-%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%A7%BB%E8%A1%8C%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B-%E5%90%8C%E6%99%82%E3%81%AB8%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%8Ca",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドセキュリティプラットフォームのリーディングカンパニーであるWiz, Inc.（本社：米国ニューヨーク州、以下Wiz）の日本法人Wiz Cloud Japan株式会社は、日本国内のビジネスパーソン",
+    "url": "https://aeo.idaeo.ai/ai/wiz-cloud-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/ja/news/2026-09-15-wiz%E8%AA%BF%E6%9F%BB-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE-ai%E5%B0%8E%E5%85%A5%E5%8A%A0%E9%80%9F-%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%A7%BB%E8%A1%8C%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B-%E5%90%8C%E6%99%82%E3%81%AB8%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%8Ca",
+    "pass": 3
+   },
+   {
+    "quote": "本調査から、日本企業におけるAI導入と関連投資が、かつての「クラウド移行」を上回るスピードで進展していることが明らかになりました",
+    "url": "https://aeo.idaeo.ai/ai/wiz-cloud-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/ja/news/2026-09-15-wiz%E8%AA%BF%E6%9F%BB-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE-ai%E5%B0%8E%E5%85%A5%E5%8A%A0%E9%80%9F-%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%A7%BB%E8%A1%8C%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B-%E5%90%8C%E6%99%82%E3%81%AB8%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%8Ca",
+    "pass": 3
+   },
+   {
+    "quote": "が「対応できない可能性がある」、「対応が極めて困難である」または「未対応」と回答しており、日本企業の不安が露呈する結果となりました",
+    "url": "https://aeo.idaeo.ai/ai/wiz-cloud-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/ja/news/2026-09-15-wiz%E8%AA%BF%E6%9F%BB-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE-ai%E5%B0%8E%E5%85%A5%E5%8A%A0%E9%80%9F-%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%A7%BB%E8%A1%8C%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B-%E5%90%8C%E6%99%82%E3%81%AB8%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%8Ca",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内のビジネスパーソン1,626名",
+    "url": "https://aeo.idaeo.ai/ai/wiz-cloud-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/ja/news/2026-09-15-wiz%E8%AA%BF%E6%9F%BB-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE-ai%E5%B0%8E%E5%85%A5%E5%8A%A0%E9%80%9F-%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%A7%BB%E8%A1%8C%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B-%E5%90%8C%E6%99%82%E3%81%AB8%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%8Ca",
+    "pass": 3
+   },
+   {
+    "quote": "こうした「AI駆動型の高度なサイバー攻撃」に対し、日本企業の",
+    "url": "https://aeo.idaeo.ai/ai/wiz-cloud-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/ja/news/2026-09-15-wiz%E8%AA%BF%E6%9F%BB-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE-ai%E5%B0%8E%E5%85%A5%E5%8A%A0%E9%80%9F-%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%A7%BB%E8%A1%8C%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B-%E5%90%8C%E6%99%82%E3%81%AB8%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%8Ca",
+    "pass": 3
+   },
+   {
+    "quote": "これらの結果から、日本企業においてAIへの投資シフトが極めて速い速度で進行していることが分かります",
+    "url": "https://aeo.idaeo.ai/ai/wiz-cloud-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/ja/news/2026-09-15-wiz%E8%AA%BF%E6%9F%BB-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE-ai%E5%B0%8E%E5%85%A5%E5%8A%A0%E9%80%9F-%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%A7%BB%E8%A1%8C%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B-%E5%90%8C%E6%99%82%E3%81%AB8%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%8Ca",
+    "pass": 3
+   },
+   {
+    "quote": "の組織が前年比でセキュリティ予算を増額2しているのに対し、日本国内の調査では予算を増額した組織は",
+    "url": "https://aeo.idaeo.ai/ai/wiz-cloud-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/ja/news/2026-09-15-wiz%E8%AA%BF%E6%9F%BB-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE-ai%E5%B0%8E%E5%85%A5%E5%8A%A0%E9%80%9F-%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%A7%BB%E8%A1%8C%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B-%E5%90%8C%E6%99%82%E3%81%AB8%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%8Ca",
+    "pass": 3
+   },
+   {
+    "quote": "今回の調査結果を受け、Wiz Cloud Japan 日本代表の山中直は次のように述べています",
+    "url": "https://aeo.idaeo.ai/ai/wiz-cloud-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/ja/news/2026-09-15-wiz%E8%AA%BF%E6%9F%BB-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE-ai%E5%B0%8E%E5%85%A5%E5%8A%A0%E9%80%9F-%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%A7%BB%E8%A1%8C%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B-%E5%90%8C%E6%99%82%E3%81%AB8%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%8Ca",
+    "pass": 3
+   },
+   {
+    "quote": "以上がAIを全社的に採用していくというデータは、日本市場が劇的なデジタル変革とビジネスの進化（イノベーション）の真っ只中にあることを証明しています",
+    "url": "https://aeo.idaeo.ai/ai/wiz-cloud-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/ja/news/2026-09-15-wiz%E8%AA%BF%E6%9F%BB-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE-ai%E5%B0%8E%E5%85%A5%E5%8A%A0%E9%80%9F-%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%A7%BB%E8%A1%8C%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B-%E5%90%8C%E6%99%82%E3%81%AB8%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%8Ca",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、日本企業の",
+    "url": "https://aeo.idaeo.ai/ai/wiz-cloud-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/ja/news/2026-09-15-wiz%E8%AA%BF%E6%9F%BB-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE-ai%E5%B0%8E%E5%85%A5%E5%8A%A0%E9%80%9F-%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%A7%BB%E8%A1%8C%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B-%E5%90%8C%E6%99%82%E3%81%AB8%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%8Ca",
+    "pass": 3
+   },
+   {
+    "quote": "AIの『全面採用』へ向けて舵を切る日本企業が、人材不足の壁を乗り越え、どこよりも速く、最も安全にAIという最先端の武器を使い倒せるよう、私たちは強力に伴走してまいります」",
+    "url": "https://aeo.idaeo.ai/ai/wiz-cloud-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/ja/news/2026-09-15-wiz%E8%AA%BF%E6%9F%BB-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE-ai%E5%B0%8E%E5%85%A5%E5%8A%A0%E9%80%9F-%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%A7%BB%E8%A1%8C%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B-%E5%90%8C%E6%99%82%E3%81%AB8%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%8Ca",
+    "pass": 3
+   },
+   {
+    "quote": "調査方法：インターネットリサーチ（株式会社マクロミル実施）",
+    "url": "https://aeo.idaeo.ai/ai/wiz-cloud-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/ja/news/2026-09-15-wiz%E8%AA%BF%E6%9F%BB-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE-ai%E5%B0%8E%E5%85%A5%E5%8A%A0%E9%80%9F-%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%A7%BB%E8%A1%8C%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B-%E5%90%8C%E6%99%82%E3%81%AB8%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%8Ca",
+    "pass": 3
+   },
+   {
+    "quote": "の企業をはじめ、日本を含む主要なグローバル企業から信頼されています",
+    "url": "https://aeo.idaeo.ai/ai/wiz-cloud-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/ja/news/2026-09-15-wiz%E8%AA%BF%E6%9F%BB-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE-ai%E5%B0%8E%E5%85%A5%E5%8A%A0%E9%80%9F-%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%A7%BB%E8%A1%8C%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B-%E5%90%8C%E6%99%82%E3%81%AB8%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%8Ca",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドセキュリティプラットフォームのリーディングカンパニーであるWiz, Inc.（本社：米国ニューヨーク州、以下Wiz）の日本法人Wiz Cloud Japan株式会社は、日本国内のビジネスパーソン1,626名を対象に実施した「クラウドおよびAIセキュリティに関する国内最新市場調査（2026年7月実施）」、および世界各国のCISO（最高情報セキュリティ責任者）等を対象としたグローバル調査レポート（計3編）の結果をクロス分析した最新の市場動向を発表しました",
+    "url": "https://aeo.idaeo.ai/ai/wiz-cloud-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/ja/news/2026-09-15-wiz%E8%AA%BF%E6%9F%BB-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE-ai%E5%B0%8E%E5%85%A5%E5%8A%A0%E9%80%9F-%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%A7%BB%E8%A1%8C%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B-%E5%90%8C%E6%99%82%E3%81%AB8%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%8Ca",
+    "pass": 3
+   },
+   {
+    "quote": "和心村 AI ニュース編集部「Wiz調査：日本企業の「AI導入加速」はクラウド移行を上回る 同時に8割以上がAIによるサイバー攻撃への備えに遅れ」AI News by Washin Village（和心村）、2026年9月15日（火）",
+    "url": "https://aeo.idaeo.ai/ai/wiz-cloud-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/ja/news/2026-09-15-wiz%E8%AA%BF%E6%9F%BB-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE-ai%E5%B0%8E%E5%85%A5%E5%8A%A0%E9%80%9F-%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%A7%BB%E8%A1%8C%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B-%E5%90%8C%E6%99%82%E3%81%AB8%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%8Ca",
+    "pass": 3
+   },
+   {
+    "quote": "https://aeo.idaeo.ai/ai/wiz-cloud-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/ja/news/2026-09-15-wiz%E8%AA%BF%E6%9F%BB-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE-ai%E5%B0%8E%E5%85%A5%E5%8A%A0%E9%80%9F-%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%A7%BB%E8%A1%8C%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B-%E5%90%8C%E6%99%82%E3%81%AB8%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%8Ca",
+    "url": "https://aeo.idaeo.ai/ai/wiz-cloud-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/ja/news/2026-09-15-wiz%E8%AA%BF%E6%9F%BB-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE-ai%E5%B0%8E%E5%85%A5%E5%8A%A0%E9%80%9F-%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%A7%BB%E8%A1%8C%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B-%E5%90%8C%E6%99%82%E3%81%AB8%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%8Ca",
+    "pass": 3
+   },
+   {
+    "quote": "日本・台湾企業の公式発表を構造化し、AI が正確に引用・導出できる形で提供する AEO 報道メディア",
+    "url": "https://aeo.idaeo.ai/ai/wiz-cloud-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/ja/news/2026-09-15-wiz%E8%AA%BF%E6%9F%BB-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE-ai%E5%B0%8E%E5%85%A5%E5%8A%A0%E9%80%9F-%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%A7%BB%E8%A1%8C%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B-%E5%90%8C%E6%99%82%E3%81%AB8%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%8Ca",
+    "pass": 3
+   },
+   {
+    "quote": "← wiz-cloud-japan株式会社 ニュースルーム一覧 (2)",
+    "url": "https://aeo.idaeo.ai/ai/wiz-cloud-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/ja/news/2026-09-15-wiz%E8%AA%BF%E6%9F%BB-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE-ai%E5%B0%8E%E5%85%A5%E5%8A%A0%E9%80%9F-%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%A7%BB%E8%A1%8C%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B-%E5%90%8C%E6%99%82%E3%81%AB8%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%8Ca",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz Cloud Japan、日本の「サイバー空間における非常事態」に対し、日本向け「Scan for Good」イニシアチブを発足 | Wiz Cloud Japan株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz Cloud Japan、日本の「サイバー空間における非常事態」に対し、日本向け「Scan for Good�」イニシアチブを発足",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "～AIを活用した脆弱性診断および「Wiz Red Agent」アセスメント環境を提供し、日本の重要インフラ・企業の防御力を緊急強化～",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドセキュリティのリーダーであるWiz Cloud Japanは、2026年10月現在、日本国内で相次ぐ不正アクセスやサイバーセキュリティインシデントに対する特別支援プログラム「日本向け Scan for Good」を開始することを発表いたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、サイバーの脅威に晒される日本の重要インフラとデジタル社会を何としても守り抜くという強い決意のもと、日本全体を見守るForce for Good となるべく本取り組みを推進します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "本イニシアチブでは、攻撃者に先んじて脆弱性を発見・修正できるよう、Wiz ResearchとGoogle DeepMindが共同推進するAI技術等を駆使し、非破壊的かつ最小限の負荷で日本の安全なデジタル環境構築を支援します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内において企業や行政機関を狙った不正アクセスが急増しており、組織の防御能力強化は一刻を争う課題となっています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz Cloud Japanはこのような非常事態を受け、日本企業の重要システムや各種Webサイトの露出面を安全に保護するための特別プログラムの立ち上げを決定いたしました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本向け「Scan for Good」プログラム概要",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内に本社を持つ企業・組織（※公共サービス・重要インフラ事業者、およびすでに攻撃被害を受けている企業様を優先的にご支援いたします）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本向け「Scan for Good」イニシアチブに関するお問い合わせ先",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz Cloud Japan お問い合わせ・申し込みフォーム",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.wiz.io/ja-jp/blog/scan-for-good-for-japan",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区虎ノ門4丁目3番1号",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz, Inc. | 東京エレクトロンデバイス株式会社",
+    "url": "https://cn.teldevice.co.jp/maker/wiz-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz（ウィズ）の国内代理店 | 東京エレクトロンデバイス",
+    "url": "https://cn.teldevice.co.jp/maker/wiz-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "東京エレクトロンデバイスはWiz社の国内販売代理店であり、お客様の導入前の課題ヒアリングから事前検証、導入支援、導入後のサポートまで幅広くご支援します",
+    "url": "https://cn.teldevice.co.jp/maker/wiz-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Preferred Networks",
+    "url": "https://cn.teldevice.co.jp/maker/wiz-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "「Google Cloud Next Tokyo 26 」へ出展します",
+    "url": "https://cn.teldevice.co.jp/maker/wiz-inc/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Amplify your brand and showcase your success with Wiz’s cloud security platform, leveraging co-marketing tools, funding opportunities, and campaign kits.",
+    "url": "https://www.wiz.io/partner-alliance",
+    "pass": 1
+   },
+   {
+    "quote": "What are the changes to the Wiz Partner Program?",
+    "url": "https://www.wiz.io/partner-alliance",
+    "pass": 1
+   },
+   {
+    "quote": "There are exclusive benefits available when joining our partner program.",
+    "url": "https://partners.wiz.io/Japanese/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Wiz調査：日本企業の「AI導入加速」はクラウド移行を上回る 同時に8割... — Sep 15, 2026 · Wiz Cloud Japan株式会社のプレスリリース（2026年9月15日 11時00分）Wiz調査：日本企業の「AI導入加速」はクラウド移行を上回る 同時に8割以上がAIに ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz:すべてのクラウドおよびAIアプリケーションのためのAIサイバーセ... — Wizはコード、クラウド、ランタイムを一つのエージェント型サイバーセキュリティプラットフォームに結びつけます。 リスクを防ぎ、脅威を検出し、すべてのクラウド層とAI層で安全にスタートしましょう。",
+    "url": "https://www.wiz.io/ja-jp",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz調査：日本企業の「AI導入加速」はクラウド移行を上回る 同時に8割... — Sep 15, 2026 · ⚡ 3行で分かる（要点） Wiz Cloud Japanの調査によると、日本企業のAI導入がクラウド移行を上回るスピードで進んでいるが、セキュリティ体制や人材不足が課題となっている。 特に、自律型AIによるサイバー攻撃への備えが不十分であることが明らかになった。",
+    "url": "https://aeo.idaeo.ai/ai/wiz-cloud-japan株式会社/ja/news/2026-09-15-wiz調査-日本企業の-ai導入加速-はクラウド移行を上回る-同時に8割以上がa",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz Cloud Japan、日本の「サイバー空間における非常事態」に対し、日... — Oct 30, 2026 · Wiz Cloud Japanはこのような非常事態を受け、日本企業の重要システムや各種Webサイトの露出面を安全に保護するための特別プログラムの立ち上げを ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000189980.html",
+    "pass": 3
+   },
+   {
+    "quote": "急成長するWizが日本法人を設立、企業が抱えるクラウドセキュリティの... — May 23, 2025 · だからこそ、Wizではパートナー企業を含めた形でサポートしていくとする。 Wizが提供するのは、クラウドセキュリティの運用を支援するための統合プラットフォーム。 「Wiz Code」「Wiz Cloud」「Wiz Defend」という、3つの機能を核としている。",
+    "url": "https://enterprisezine.jp/news/detail/22028",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz, Inc. | 東京エレクトロンデバイス株式会社 — 【東京エレクトロンデバイス】Wiz製品の日本国内の販売代理店です。高度なインテグレーションスキルを保有するパートナーとして、導入支援から導入後の保守・運用・技術サポートまで幅広くご支援しています。Wiz（ウィズ）社は、企業が利用するマルチクラウド基盤や仮想化基盤を可視化し ...",
+    "url": "https://cn.teldevice.co.jp/maker/wiz-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz | Wiz CNAPP | 東京エレクトロンデバイス株式会社 — 東京エレクトロンデバイスはWiz, Inc. （ウィズ）の国内代理店です。Wiz（ウィズ）社は、企業が利用するマルチクラウド基盤や仮想化基盤を可視化して一元的に管理することで、継続的にセキュアな環境を実現されたいお客様の支援をミッションとしたセキュリティベンダーです。",
+    "url": "https://cn.teldevice.co.jp/product/wiz_cnapp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Wiz — 株式会社Wiz（ワイズ）は、個人、法人、マンション、地域に対して、時流にあうサービスを提供するITの総合商社です。「販売網」と「商品群」を強みに、 人と企業の課題を解決、価値提供し、日本をアップデートしていきます。",
+    "url": "https://012grp.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ドコモ光の代理店Wiz（ワイズ）は悪質って本当？無料キャンセル方法も...ドコモ光×代理店Wizの評判を徹底解説！特典内容と申し込み前の注意点株式会社Wiz - SoftBank光代理店比較ナビ — Sep 10, 2026 · 「ドコモ光のWizってどうなの？」「最悪っていう評判があるけど本当？」など、Wizについて疑問や心配事がある方も多いのではないでしょうか。 Wizはドコモ光の正規代理店ですが、それほど良くない評判があるのも事実です。 そこで今回は、ドコモ光をWizで契約する際のメリットやデメリット ... Feb 6, 2025 · ドコモ光の代理店選びで悩んでいませんか？数ある代理店の中でも、正規代理店「Wiz（ワイズ）」が注目を集めています。 しかし、キャッシュバックの手続きが複雑という評判もあり、「本当に申し込んで大丈夫なのか」と不安に感じる方も多いでしょう。こ Apr 2",
+    "url": "https://cracierge.co.jp/articles/internet/docomohikari-wiz/",
+    "pass": 3
+   },
+   {
+    "quote": "ドコモ光×代理店Wizの評判を徹底解説！特典内容と申し込み前の注意点 — Feb 6, 2025 · ドコモ光の代理店選びで悩んでいませんか？数ある代理店の中でも、正規代理店「Wiz（ワイズ）」が注目を集めています。 しかし、キャッシュバックの手続きが複雑という評判もあり、「本当に申し込んで大丈夫なのか」と不安に感じる方も多いでしょう。こ",
+    "url": "https://h-docomo.com/article/docomohikari-wiz/",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz Cloud and AI Security Platform | Wiz - Cool — クラウドでの初歩から革新的なAIアプリケーションの構築まで、Wizはあなたのセキュリティプログラムを成熟させるパートナーです。 Wizは、あらゆる規模と規模の組織がクラウド上で構築・運用するすべてを安全に守るのを支援します。",
+    "url": "https://www.wiz.io/ja-jp/platform",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz Expands Cloud Security Business in Japan — Feb 27, 2026 · US cloud security company Wiz held a press conference in Tokyo and announced that it would begin full-scale business expansion in Japan. In March, Google announced that it would acquire the company for $32 billion, and its rapid growth has attracted attention.",
+    "url": "https://itbusinesstoday.com/tech/cybersecurity/cloud-security-firm-wiz-expands-fully-into-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドセキュリティのWiz、日本での事業展開を本格始動 - ZDNET Jap... — May 23, 2025 · 2024年11月に日本法人のWiz Cloud Japanを設立し、代表にVMware日本法人社長などを務めた山中直氏を起用した。 説明会に登壇したプレジデント 最高執行責任者（COO）のDali Rajic氏は、「われわれは『Fortune...",
+    "url": "https://japan.zdnet.com/article/35233383/",
+    "pass": 3
+   },
+   {
+    "quote": "WIZZ JAPAN 株式会社 | オリジナルグッズの企画・製造 — WIZZ JAPANではオリジナルグッズの企画から納品まで一括サポート。 ブランド価値を最大限に伝える商品を提案し、生産・効率化まで徹底支援します。 海外自社工場を運営し、WIZZホールディングスとしてグローバルな一貫生産調達機能を展開しています。",
+    "url": "https://wizz.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers | Wiz - Cool — We're building a platform for ambitious companies around the world to enable building cloud systems as secure, simple, and efficient as possible. We help customers of every size of business—from startups to Fortune 100s. For information about how Wiz handles your personal data, please see our Privacy Policy.",
+    "url": "https://www.wiz.io/customers",
+    "pass": 3
+   },
+   {
+    "quote": "B2B/Software Company case study | Wiz — We are delighted to have Wiz Cloud revealing our cloud security posture across our development, QA and production systems for both Azure and AWS. We share access to the results widely with our technical staff. It's great that Wiz permits unlimited user accounts.",
+    "url": "https://www.wiz.io/customers/b2bsoftwarecompany",
+    "pass": 3
+   },
+   {
+    "quote": "24 Wiz Case Studies, Success Stories, & Customer Stories — Narrow down 24 case studies by company size & industry to find out how Wiz works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/wiz/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "FactoryWiz Machine Monitoring | Industry 4.0 IIOT | Smart MFG — We understand your manufacturing needs, enabling us to offer tailored support that builds lasting partnerships. With a focus on honesty, loyalty, and comprehensive product knowledge, we’re not just supporting your operations; we’re committed to your success.",
+    "url": "https://www.factorywiz.com/home/machine-monitoring-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz Partner Program | Home — Aligning Together to Secure Your Customer The Wiz Partner Program is set up to bring our Channel Partners together with our Cloud Service Providers to ensure our mutual customers get a comprehensive approach to securing their Cloud environments.",
+    "url": "https://partners.wiz.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz, Inc. - Wikipedia — Wiz was founded in January 2020 by Assaf Rappaport, Yinon Costica, Roy Reznik, and Ami Luttwak, all of whom previously founded Adallom. [4][5] Rappaport is CEO, Costica is VP of Product, Reznik is VP of Engineering, and Luttwak is CTO.",
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz – Valuation, Revenue & Market Scope – 2026 – Enterprise — Wiz has completed 2 funding rounds, raising $1.9B in total. With 2,742 employees generating $273.5K in revenue per person, the company shows strong productivity metrics.",
+    "url": "https://compworth.com/company/wiz",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz Revenue 2025: $750M, $32B Valuation - LATKA — Oct 12, 2026 · Assaf Rappaport founded Wiz in 2020 with Yinon Costica, Roy Reznik and Ami Luttwak and runs it as CEO. Wiz has 2,910 employees (August 2025, LinkedIn), up from 1,896 a year earlier.",
+    "url": "https://getlatka.com/companies/wiz",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz - 2026 Company Profile, Funding & Investors | The Company ... — Oct 17, 2026 · Wiz is a Technology company based in New York (United States) founded in 2020 by Roy Reznik, Yinon C, Assaf Rappaport, Ami Luttwak, and Arie Zilberstein, and was acquired by Google in March 2025.",
+    "url": "https://www.thecompanycheck.com/company/b/wiz/pqdq5pnn39lvfqh49",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz Financials: $1B ARR Run-Rate & $12B Valuation — Wiz's latest revenue figure is $1B (2025, annualized run-rate). See the full figure history with a source for each entry.",
+    "url": "https://corpdigest.com/company/wiz/financials",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "GoogleとWizの買収を見据えた今後のクラウドセキュリティ｜IMHO Mar 22, 2025 · Wizは2020年に発売されたが、これはちょうど企業がパンデミックによってクラウドの採用を加速させ、スケーラブルでクラウドネイティブなセキュリティ・ソリューションに対する大規模な需要を生み出していた時期であった。",
+    "url": "https://note.com/no_cato_no_sase/n/n8b4ea6b7c5e8",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz - Googleに4.6兆円で買収されたクラウドセキュリティスタートアッ... Oct 4, 2025 · Wizの進化は、Wiz1.0からの進化としてセキュリティグラフを核とした 包括的プラットフォーム 構築へと続きました。 Wiz1.0ではクラウド可視化支援に注力していた同社は、その能力を クラウド基盤の開発プロセスの前後 に広げることで成長の土台を固めました。",
+    "url": "https://note.com/uxbamboo/n/n6067398ee825",
+    "pass": 3
+   },
+   {
+    "quote": "世界最大級のゲームの祭典「東京ゲームショウ2026」にWiZゲーム分野が... Sep 16, 2026 · 🚀 学生たちの渾身のオリジナル作品を体験しよう！ WiZブースでは、ゲーム分野の学生たちが企画・プログラム・グラフィックまでを手掛けた オリジナルゲーム作品 を多数展示・試遊出展します！",
+    "url": "https://note.com/wiz_fsg/n/na2d858d2dda4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "GoogleとWizの買収を見据えた今後のクラウドセキュリティ｜IMHO",
+    "url": "https://note.com/no_cato_no_sase/n/n8b4ea6b7c5e8",
+    "pass": 3
+   },
+   {
+    "quote": "GoogleとWizの買収を見据えた今後のクラウドセキュリティ",
+    "url": "https://note.com/no_cato_no_sase/n/n8b4ea6b7c5e8",
+    "pass": 3
+   },
+   {
+    "quote": "またしても、GoogleのWiz買収の記事ですが、2025年3月22日の",
+    "url": "https://note.com/no_cato_no_sase/n/n8b4ea6b7c5e8",
+    "pass": 3
+   },
+   {
+    "quote": "Software Analyst Cybersecurity Research",
+    "url": "https://note.com/no_cato_no_sase/n/n8b4ea6b7c5e8",
+    "pass": 3
+   },
+   {
+    "quote": "に掲載された以下の記事を日本語へ意訳したものです（2万字の長文です）。元の記事については、ぜひ以下より参照ください。",
+    "url": "https://note.com/no_cato_no_sase/n/n8b4ea6b7c5e8",
+    "pass": 3
+   },
+   {
+    "quote": "Looking Beyond The Google & Wiz Acquisition: The Future Of Cloud Security",
+    "url": "https://note.com/no_cato_no_sase/n/n8b4ea6b7c5e8",
+    "pass": 3
+   },
+   {
+    "quote": "Google と Wiz の買収の先を見据えて: クラウドセキュリティの未来",
+    "url": "https://note.com/no_cato_no_sase/n/n8b4ea6b7c5e8",
+    "pass": 3
+   },
+   {
+    "quote": "WizとGoogleの買収がもたらす影響と、クラウドセキュリティの未来をどのように変えるのか",
+    "url": "https://note.com/no_cato_no_sase/n/n8b4ea6b7c5e8",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz - Googleに4.6兆円で買収されたクラウドセキュリティスタートアップの急成長の戦略を考察③｜Ryo",
+    "url": "https://note.com/uxbamboo/n/n6067398ee825",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz - Googleに4.6兆円で買収されたクラウドセキュリティスタートアップの急成長の戦略を考察③",
+    "url": "https://note.com/uxbamboo/n/n6067398ee825",
+    "pass": 3
+   },
+   {
+    "quote": "この記事は4年余りでARR（年間経常収益）5 億ドルを達成し、史上最速の成長スピードの企業となった伝説のスタートアップ、Wizの成長戦略について考察する記事です。",
+    "url": "https://note.com/uxbamboo/n/n6067398ee825",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz2.0:2022–2024—クラウドプラットフォームへの進化",
+    "url": "https://note.com/uxbamboo/n/n6067398ee825",
+    "pass": 3
+   },
+   {
+    "quote": "Wizの進化は、Wiz1.0からの進化としてセキュリティグラフを核とした",
+    "url": "https://note.com/uxbamboo/n/n6067398ee825",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz1.0ではクラウド可視化支援に注力していた同社は、その能力を",
+    "url": "https://note.com/uxbamboo/n/n6067398ee825",
+    "pass": 3
+   },
+   {
+    "quote": "に広げることで成長の土台を固めました。まずアプリケーションコード自体のリスク（シフトレフト）を扱い始め、やがてアプリがランタイム（シフトライト）で直面する脅威にも対応する必要性を認識したのです。",
+    "url": "https://note.com/uxbamboo/n/n6067398ee825",
+    "pass": 3
+   },
+   {
+    "quote": "Wizはこれまで2件のみの買収（RafftとGem）を実施しており、いずれも「コードを守り、クラウドを防御する」というプラットフォーム目標と完全に合致しています。これらの買収は、クラウドセキュリティが変貌を遂げる2022–2024年という重要期間に、Wizが先を見据えていたことを示しています。以下、それぞれを詳しく見ていきましょう。",
+    "url": "https://note.com/uxbamboo/n/n6067398ee825",
+    "pass": 3
+   },
+   {
+    "quote": "世界最大級のゲームの祭典「東京ゲームショウ2026」にWiZゲーム分野が出展します！🎮✨｜WiZ 国際情報工科自動車大学校",
+    "url": "https://note.com/wiz_fsg/n/na2d858d2dda4",
+    "pass": 3
+   },
+   {
+    "quote": "世界最大級のゲームの祭典「東京ゲームショウ2026」にWiZゲーム分野が出展します！🎮✨",
+    "url": "https://note.com/wiz_fsg/n/na2d858d2dda4",
+    "pass": 3
+   },
+   {
+    "quote": "🚀 学生たちの渾身のオリジナル作品を体験しよう！",
+    "url": "https://note.com/wiz_fsg/n/na2d858d2dda4",
+    "pass": 3
+   },
+   {
+    "quote": "WiZブースでは、ゲーム分野の学生たちが企画・プログラム・グラフィックまでを手掛けた",
+    "url": "https://note.com/wiz_fsg/n/na2d858d2dda4",
+    "pass": 3
+   },
+   {
+    "quote": "プロの業界関係者や世界中のゲームファンに直接作品をプレイしてもらえる大舞台に向けて、学生たちも、鋭意制作・ブラッシュアップを重ねました🔥",
+    "url": "https://note.com/wiz_fsg/n/na2d858d2dda4",
+    "pass": 3
+   },
+   {
+    "quote": "🎮 東京ゲームショウ2026（TGS2026）開催概要",
+    "url": "https://note.com/wiz_fsg/n/na2d858d2dda4",
+    "pass": 3
+   },
+   {
+    "quote": "会期：2026年9月17日（木）〜 9月21日（月・祝）",
+    "url": "https://note.com/wiz_fsg/n/na2d858d2dda4",
+    "pass": 3
+   },
+   {
+    "quote": "会場：幕張メッセ（展示ホール1-11、国際会議場）/ TKP東京ベイ幕張ホール",
+    "url": "https://note.com/wiz_fsg/n/na2d858d2dda4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Wiz (@wiz_io) / X Wiz research has been monitoring PHP2Shell exploitation attempts, but none have succeeded so far. We examine the techniques used, what prevented the attacks from completing and how observed exposure has changed since disclosure.",
+    "url": "https://x.com/wiz_io",
+    "pass": 3
+   },
+   {
+    "quote": "wiz (@wiz) / X Wiz & Associates has contributed for years as a network operator, providing DNS and other critical infrastructure for the community. We now propose to extend that operational role to the top-level of the Domain Name System 🚀",
+    "url": "https://x.com/wiz",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz (@WizLand_) / X 4 51 554 Wiz @WizLand_ Nov 4 Why one would say Elon is completely wrong on this matter is beyond me, there’s literally not one person with better understanding of how space works than Elon Musk 😂",
+    "url": "https://x.com/WizLand_",
+    "pass": 3
+   },
+   {
+    "quote": "Mubbu (@wizofecom) / X So true. I've spent 6 years building my personal brand on 𝕏. This platform has single-handedly generated millions of dollars for me, and I've never had to RELY on any sort of creator payout. I mastered a high-income skill, built an offer around it, delivered on it, and used Show more",
+    "url": "https://x.com/wizofecom",
+    "pass": 3
+   },
+   {
+    "quote": "wiz (@wiz) / X Today, ICANN just published the 2026 new gTLD applications! Wiz & Associates filed a community priority application for the .bitcoin TLD, on behalf of the people and organizations that run, build, and provide the infrastructure, software, and services of the Bitcoin network. 🧵",
+    "url": "https://x.com/wiz",
+    "pass": 3
+   },
+   {
+    "quote": "yayA on X: \"wizの「毎日投稿100日チャレンジ」は、12/5に記念すべき1... Oct 9, 2026 · wizの「毎日投稿100日チャレンジ」は、12/5に記念すべき100日を迎えます💯 いつも応援してくださる皆様への感謝を込めて、2026年12月4日（金）に赤坂STRUMにて\"100日チャレンジ達成\"前夜祭の開催が決定🏮🧨 早速予約開始っ‼️ 公式LINE@又は ️ huglight88@gmail.com ...",
+    "url": "https://x.com/yayA_singer/status/2108425684444201090",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Wiz - LinkedIn Wiz | 432,823 followers on LinkedIn. Protect everything you build and run | Wiz, now part of Google Cloud, protects everything you build and run.",
+    "url": "https://www.linkedin.com/company/wizsecurity",
+    "pass": 3
+   },
+   {
+    "quote": "Assaf Rappaport - Co-Founder & CEO at Wiz | LinkedInThreat Intelligence Researcher (Cloud) at Wiz — London ...Andy Ritchie - Vice President Worldwide Channels and ...Wiz: Jobs | LinkedInWiz - LinkedInGoogle Completes Historic $32 Billion Acquisition of Wiz ... Oct 14, 2013 · Co-Founder & CEO at Wiz · Experience: Wiz · Education: Technion-Machon Technologi Le' Israel · Location: New York · 500+ con",
+    "url": "https://www.linkedin.com/in/assafrappaport",
+    "pass": 3
+   },
+   {
+    "quote": "Threat Intelligence Researcher (Cloud) at Wiz — London ... Nov 2, 2026 · Apply for Threat Intelligence Researcher (Cloud) at Wiz in London, England, United Kingdom. Full-time Mid-Senior level role. See responsibilities, qualifications, and similar jobs on LinkedIn.",
+    "url": "https://uk.linkedin.com/jobs/view/threat-intelligence-researcher-cloud-at-wiz-4484399701",
+    "pass": 3
+   },
+   {
+    "quote": "Andy Ritchie - Vice President Worldwide Channels and ...Wiz: Jobs | LinkedInWiz - LinkedInGoogle Completes Historic $32 Billion Acquisition of Wiz ... Vice President Worldwide Channels and Alliances @ Wiz | MBA | 2026 CRN Channel Chief · Experience: Wiz · Education: Cranfield University · Location: United Kingdom · 500+ connections on... Wiz | 432,952 followers on LinkedIn. Protect everything you ",
+    "url": "https://uk.linkedin.com/in/andy-ritchie-59aa4a7",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Wiz Khalifa - FacebookWiZ - Facebook101.1 WIZ NATION - FacebookWiz's Eatery 2.0 | Batesburg-Leesville SC - FacebookThe Wiz Broadway - FacebookWiz | Greenville TX - FacebookThe Wizz Computers Ltd. | Port of Spain - Facebook 4 days ago · Wiz Khalifa’s music has crossed borders in ways even longtime fans might not expect. 🌍🔥 From British rap connections to Norwegian production, Italian reggae, and Au",
+    "url": "https://www.facebook.com/wizkhalifa/",
+    "pass": 3
+   },
+   {
+    "quote": "WiZ - Facebook101.1 WIZ NATION - FacebookWiz's Eatery 2.0 | Batesburg-Leesville SC - FacebookThe Wiz Broadway - FacebookWiz | Greenville TX - FacebookThe Wizz Computers Ltd. | Port of Spain - Facebook Oct 30, 2025 · WiZ. 15,404 followers · 752 talking about this · 34 were here. Home. It‘s a place with a powerful emotional bond. A place where life‘s biggest milestones... Oct 18, 2026 · 101.1 WIZ NA",
+    "url": "https://www.facebook.com/WiZlighting/",
+    "pass": 3
+   },
+   {
+    "quote": "101.1 WIZ NATION - FacebookWiz's Eatery 2.0 | Batesburg-Leesville SC - FacebookThe Wiz Broadway - FacebookWiz | Greenville TX - FacebookThe Wizz Computers Ltd. | Port of Spain - Facebook Oct 18, 2026 · 101.1 WIZ NATION. 36,610 followers · 1,476 talking about this. Cincinnati's #1 for Hip Hop and R&B stream us live at WIZNATION.com or listen on your... 4 days ago · LOOKY LOOKY COME ON BY ENJOY THE ",
+    "url": "https://www.facebook.com/1011WIZF/",
+    "pass": 3
+   },
+   {
+    "quote": "Wiz's Eatery 2.0 | Batesburg-Leesville SC - Facebook 4 days ago · LOOKY LOOKY COME ON BY ENJOY THE ENTERTAINMENT ON THE PATIO WITH BART & STEVE AND GRAB A BITE OF ONE OF OUR NIGHTLY SPECIALS - with Cheryl Wiz and Wiz's Eatery 2.0 .",
+    "url": "https://www.facebook.com/p/Wizs-Eatery-20-61552429232610/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.wiz.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiz.io/solutions/red-agent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiz.io/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiz.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiz.io/blog/wiz-blue-agent-generally-available",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiz.io/blog/introducing-wiz-green-agent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiz.io/customers/redis-unified-cloud-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiz.io/customers/zs-blue-agent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiz.io/customers/lacentrale",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiz.io/customers/rogo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiz.io/customers/aon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiz.io/customers/genpact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiz.io/customers/bridgewater",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiz.io/customers/fox",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiz.io/customers/niwc-pac-sbs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiz.io/customers/pros",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiz.io/customers/fireblocks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiz.io/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiz.io/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiz.io/partner-alliance",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.wiz.io/_next/image?url=%2Fimages%2Fhome%2Fagents-section%2Flogos%2Fvend.webp&w=384&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.wiz.io/_next/image?url=%2Fimages%2Fhome%2Fagents-section%2Flogos%2Fredis.webp&w=384&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.wiz.io/_next/image?url=%2Fimages%2Fhome%2Fagents-section%2Flogos%2Fzs.webp&w=384&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.wiz.io/_next/image?url=%2Fimages%2Fhome%2Fagents-section%2Flogos%2Flacentrale.webp&w=384&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000189980.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeo.idaeo.ai/ai/wiz-cloud-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/ja/news/2026-09-15-wiz%E8%AA%BF%E6%9F%BB-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%AE-ai%E5%B0%8E%E5%85%A5%E5%8A%A0%E9%80%9F-%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%A7%BB%E8%A1%8C%E3%82%92%E4%B8%8A%E5%9B%9E%E3%82%8B-%E5%90%8C%E6%99%82%E3%81%AB8%E5%89%B2%E4%BB%A5%E4%B8%8A%E3%81%8Ca",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000189980.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cn.teldevice.co.jp/maker/wiz-inc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cn.teldevice.co.jp/product/wiz_cnapp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://012grp.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cracierge.co.jp/articles/internet/docomohikari-wiz/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://itbusinesstoday.com/tech/cybersecurity/cloud-security-firm-wiz-expands-fully-into-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.zdnet.com/article/35233383/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scribd.com/document/936803602/CASE-Wiz-TCS-Business-Case-Study-Contest",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/wiz/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.wiz.io/Japanese/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wix.com/studio/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/wiz",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/wiz",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/wiz/pqdq5pnn39lvfqh49",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/no_cato_no_sase/n/n8b4ea6b7c5e8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/uxbamboo/n/n6067398ee825",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wiz_fsg/n/na2d858d2dda4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/wiz_io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/wiz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/WizLand_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/wizofecom",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/wizsecurity",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/assafrappaport",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/jobs/view/threat-intelligence-researcher-cloud-at-wiz-4484399701",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/andy-ritchie-59aa4a7",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/wizkhalifa/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/WiZlighting/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/1011WIZF/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Wizs-Eatery-20-61552429232610/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/wiz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/wiz_io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yayA_singer/status/2108425684444201090",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Wiz 日本 導入",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000001.000189980.html",
+    "https://www.wiz.io/ja-jp",
+    "https://aeo.idaeo.ai/ai/wiz-cloud-japan株式会社/ja/news/2026-09-15-wiz調査-日本企業の-ai導入加速-はクラウド移行を上回る-同時に8割以上がa",
+    "https://prtimes.jp/main/html/rd/p/000000002.000189980.html",
+    "https://enterprisezine.jp/news/detail/22028",
+    "https://www.wiz.io/ja-jp/blog/japan-business-leaders-survey-2026",
+    "https://www.jiji.com/jc/article?k=000000001.000189980&g=prt"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wiz 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://cn.teldevice.co.jp/maker/wiz-inc/",
+    "https://cn.teldevice.co.jp/product/wiz_cnapp/",
+    "https://012grp.co.jp/",
+    "https://cracierge.co.jp/articles/internet/docomohikari-wiz/",
+    "https://h-docomo.com/article/docomohikari-wiz/",
+    "https://softbankhikari-navi.com/category/wiz/",
+    "https://www.wiz.io/contact"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wiz Japan",
+   "results": [
+    "https://www.wiz.io/ja-jp",
+    "https://www.wiz.io/ja-jp/platform",
+    "https://itbusinesstoday.com/tech/cybersecurity/cloud-security-firm-wiz-expands-fully-into-japan/",
+    "https://japan.zdnet.com/article/35233383/",
+    "https://wizz.jp/",
+    "https://enterprisezine.jp/news/detail/22028",
+    "https://012grp.co.jp/company/group/wizcloud",
+    "https://ja.wikipedia.org/wiki/WEC-JAPAN"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Wiz manufacturing customer case study",
+   "results": [
+    "https://www.wiz.io/customers",
+    "https://www.wiz.io/customers/b2bsoftwarecompany",
+    "https://www.scribd.com/document/936803602/CASE-Wiz-TCS-Business-Case-Study-Contest",
+    "https://www.featuredcustomers.com/vendor/wiz/case-studies",
+    "https://www.factorywiz.com/home/machine-monitoring-overview/",
+    "https://www.casestudies.com/customer/wiz2",
+    "https://www.casestudies.com/company/wiz"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wiz white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partners.wiz.io/",
+    "https://partner.vw.com/",
+    "https://www.wix.com/studio/partner-program",
+    "https://www.vizrt.com/partner-program/",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wiz founded funding employees revenue",
+   "results": [
+    "https://en.wikipedia.org/wiki/Wiz,_Inc.",
+    "https://compworth.com/company/wiz",
+    "https://getlatka.com/companies/wiz",
+    "https://www.thecompanycheck.com/company/b/wiz/pqdq5pnn39lvfqh49",
+    "https://corpdigest.com/company/wiz/financials",
+    "https://ai.lounge.ai/arr/wiz",
+    "https://thebrandhopper.com/featured-startups/wiz-founders-business-model-funding-competitors/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Wiz",
+   "results": [
+    "https://note.com/no_cato_no_sase/n/n8b4ea6b7c5e8",
+    "https://money.note.com/rankings/AI/market_cap_desc",
+    "https://note.com/uxbamboo/n/n6067398ee825",
+    "https://note.com/wiz_fsg/n/na2d858d2dda4",
+    "https://note.com/kabutom/n/n0eacb84aaa3b?hl=en",
+    "https://note.com/ash_wizdaphne/n/n3cccc168a862",
+    "https://note.com/wiz_fsg/n/nb90d805765ae?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Wiz",
+   "results": [
+    "https://x.com/wiz_io",
+    "https://x.com/wiz",
+    "https://x.com/WizLand_",
+    "https://x.com/wizofecom",
+    "https://x.com/ItzWizlol",
+    "https://x.com/wiz/status/2087578462416687435",
+    "https://x.com/WizLikeWizard"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Wiz",
+   "results": [
+    "https://www.linkedin.com/company/wizsecurity",
+    "https://www.linkedin.com/in/assafrappaport",
+    "https://uk.linkedin.com/jobs/view/threat-intelligence-researcher-cloud-at-wiz-4484399701",
+    "https://uk.linkedin.com/in/andy-ritchie-59aa4a7",
+    "https://www.linkedin.com/company/wizsecurity/jobs/",
+    "https://www.linkedin.com/products/wizsecurity-wiz",
+    "https://www.linkedin.com/pulse/google-completes-historic-32-billion-acquisition-gejbe"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Wiz",
+   "results": [
+    "https://www.facebook.com/wizkhalifa/",
+    "https://www.facebook.com/WiZlighting/",
+    "https://www.facebook.com/1011WIZF/",
+    "https://www.facebook.com/p/Wizs-Eatery-20-61552429232610/",
+    "https://www.facebook.com/thewizbway/",
+    "https://www.facebook.com/wizfuel/",
+    "https://www.facebook.com/TheWizzComputersLtd/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wiz note 社長",
+   "results": [
+    "https://012grp.co.jp/news/corporate/250414",
+    "https://www.wiz.cn/",
+    "https://prtimes.jp/main/html/rd/p/000000684.000016549.html",
+    "https://012grp.co.jp/company/executive",
+    "https://note.com/wizkouhoupr/n/n905b57a50221",
+    "https://note.com/wizkouhoupr/n/n3fa883dfe65f",
+    "https://startup-db.com/officers/Rx5ZQB0TboqYrBjy"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wiz X 投稿",
+   "results": [
+    "https://x.com/wiz",
+    "https://x.com/wiz_io",
+    "https://www.instagram.com/wizxop/",
+    "https://x.com/yayA_singer/status/2108425684444201090",
+    "https://x.com/Wizdesu4/status/1919409413405684176",
+    "https://x.com/wizgeneration",
+    "https://x.com/twitcasting_jp/status/2100831269575868441"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部37頁・検索12回）"
+ }
+}

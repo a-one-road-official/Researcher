@@ -1,0 +1,1365 @@
+{
+ "name": "Veryfi",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜AI送信済み",
+ "researched_at": "2026-11-11T05:47:24.629513+00:00",
+ "official_url": "https://www.veryfi.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "01-Jan-2017 $700K $700K  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/113363-11",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "$12,000,000",
+    "url": "https://prospeo.io/c/veryfi-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$38,000",
+    "url": "https://prospeo.io/c/veryfi-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "28 E 3rd Ave, Suite 201, San Mateo, California 94401, US",
+    "url": "https://prospeo.io/c/veryfi-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2017",
+    "url": "https://prospeo.io/c/veryfi-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "AI that reads documents and knows when they're lying.",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The total was retyped. The 5 doesn’t match the print.",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How Veryfi reads the layers inside a PDF to detect fraud",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Drawn on top of the page content",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "obj 4 · content stream · BT … ET",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Text a machine reads · via /ToUnicode",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A preview image of page 1, saved with the file.",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "rev 1 preview",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "pdf:Producer Online PDF Editor",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "4 0 obj · Content rev 1 · ($1,240.18)",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "4 0 obj · Content rev 2",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "xref · trailer /Prev · %%EOF",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What a person sees on screen or on paper. The rows line up, the logo is right, and the ending balance reads $8,240.18.",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Looks normal. A reviewer would approve it. The other nine layers tell a different story.",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Comments, links, form fields, and stamps sit on top of the page content. Viewers draw them last.",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Layer 3 of 10 · Content stream",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every word is drawn by an operator in the content stream, with its own font, size, and x,y position on the page.",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What software reads, not what it shows. Each font's ToUnicode map turns glyphs back into characters for search, copy, and data extraction.",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Some PDFs carry a small preview image of each page, made when the file was written.",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The thumbnail still shows $1,240.18. The editor changed the page but never redrew its preview.",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "/Producer (Online PDF Editor 2.1)",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "An update after the first %%EOF adds new content, the ArialMT font, and the white box. The old content stream is still in the file, $1,240.18 and all.",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "trailer << /Prev 58640 >>",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The camera for your iOS or Android app. It finds the document, corrects perspective and glare, and reads it with on-device OCR, even with no signal.",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One parsing call turns scans, photos, spreadsheets, emails, and multi-document PDFs into clean Markdown, with tables, checkboxes, and handwriting intact.",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Expand Your Revenue with AI-Powered Document Processing. Join our partner network and offer industry-leading multi-modal AI OCR APIs and document capture solutions to your clients.",
+    "url": "https://www.veryfi.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate substantial recurring revenue with our SaaS model and 25% commission structure. Partners typically see $50K+ in first-year revenue with enterprise clients. The document processing market is growing 15% annually, providing long-term income stability and expansion opportunities across multiple industry verticals.",
+    "url": "https://www.veryfi.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Offer clients industry-leading 99%+ accuracy OCR and document processing with sub-3-second response times. Support for 150+ document types gives you competitive advantage in any vertical. Award-winning technology with enterprise-grade security and compliance ensures client confidence and deal closure success.",
+    "url": "https://www.veryfi.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive Partner Support",
+    "url": "https://www.veryfi.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Get dedicated partner manager, complete technical documentation, sales enablement materials, and 24/7 technical support. Our 98% partner success rate comes from hands-on training, co-selling opportunities, and marketing development funds. We invest in your success with ongoing support and resources.",
+    "url": "https://www.veryfi.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Tap into the $12 billion document processing market growing 15% annually. Digital transformation initiatives across finance, healthcare, logistics, legal, and government sectors create unprecedented demand. Low competition in many verticals means first-mover advantage for partners entering new markets.",
+    "url": "https://www.veryfi.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy client solutions in under 24 hours with our RESTful APIs, SDKs, and pre-built integrations. No-code options through Zapier and webhooks enable rapid deployment. Partners typically close their first deal within 30 days and see immediate ROI with minimal technical complexity or development time.",
+    "url": "https://www.veryfi.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Outperform competitors with superior accuracy, speed, and feature set that wins deals. Our technology leadership, proven ROI, and 97% customer satisfaction rate give you the edge in competitive situations. Position yourself as the premium solution provider with industry-leading capabilities that justify higher margins.",
+    "url": "https://www.veryfi.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical Prescription List",
+    "url": "https://www.veryfi.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Prescription Medication Label",
+    "url": "https://www.veryfi.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Nutrition Facts",
+    "url": "https://www.veryfi.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Create next-generation applications that intelligently extract, analyze, and automate document workflows with cutting-edge AI technology. From expense automation to invoice processing, our APIs handle the heavy lifting so you can focus on delivering exceptional customer experiences.",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to make a real impact? Here are inspiring project ideas that can truly change how businesses operate. Whether you’re a developer who can integrate",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "directly, or you prefer a visual approach using Veryfi’s No-Code",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": ", you can unleash Veryfi’s proprietary AI to crush your repetitive business processes – from document processing and data entry (powered by our battle-tested multimodal APIs) to approvals, notifications and seamless system integrations. Build with developer-grade precision or drag-and-drop simplicity.",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Auto-sort mixed client uploads, match every transaction to its source document, and close the books faster.",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Extract invoice line items, run 3-way matching against POs and receipts of goods, and route only exceptions for approval.",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Let users snap a bill to pre-fill payee, amount, and due date, while altered bills are flagged before payment.",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Document Fraud Prevention",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture BOLs and labels at pickup and delivery to log shipper, consignee, carrier, and proof of delivery without rekeying",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Procurement & Supplier Pricing",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Load supplier price sheets into your catalog, then check every PO and invoice against the agreed price and quantity breaks",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Onboarding & KYC",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture an ID in your app, pre-fill name, date of birth, and document number, and stop altered or AI-generated IDs before the account opens.",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Contractor & Vendor Onboarding",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Verify identity, education credentials, and prior employment and wages without typing them off scans",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Snap the insurance card and ID at check-in to pre-fill payer, member ID, group number, and patient demographics.",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Prescription Medication Labels",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical Prescription Lists",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Read drug name, strength, dose, and directions from pill bottles and handwritten prescriptions to build an accurate medication list",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Extract patient, ordering provider, and tests from paper requisitions so orders reach the lab system with insurance attached",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Split and classify incoming faxes, extract patient, payer, provider, and procedure data, flag altered or fake documents, and validate it all against insurance requirements before it reaches your ERP, so claims go out clean the first time",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn paper charts, referrals, and billing archives into searchable PDFs, Markdown, and JSON, processed under",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Property Expense Tracking",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture repair, utility, and supplier bills per property for owner statements and tax-time reporting.",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Some PDFs carry a small preview image of each page, made when the file was written.",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Taxes and carrier fees",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Expand Your Revenue with AI-Powered Document Processing. Join our partner network and offer industry-leading multi-modal AI OCR APIs and document capture solutions to your clients.",
+    "url": "https://www.veryfi.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Recurring Revenue Opportunity",
+    "url": "https://www.veryfi.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate substantial recurring revenue with our SaaS model and 25% commission structure. Partners typically see $50K+ in first-year revenue with enterprise clients. The document processing market is growing 15% annually, providing long-term income stability and expansion opportunities across multiple industry verticals.",
+    "url": "https://www.veryfi.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Reconciliation",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture BOLs and labels at pickup and delivery to log shipper, consignee, carrier, and proof of delivery without rekeying",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Match carrier invoices to BOLs to catch overcharges, wrong accessorials, and duplicate bills before you pay",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Scan labels at the dock to sort inbound packages, and reconcile what arrived against what was ordered",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn boxes of BOLs, delivery receipts, and carrier files into searchable PDFs, Markdown, and JSON, with every page quality-checked.",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Check delivery tickets against the PO on site, so short or wrong deliveries are caught before the invoice arrives",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate freight billing and optimize supply chain costs. Extract transportation fees, cargo handling charges, and shipping costs to streamline accounts payable and reconcile carrier charges efficiently.",
+    "url": "https://www.veryfi.com/solutions/accounts-payable-automation/",
+    "pass": 1
+   },
+   {
+    "quote": "Straightens barrel and pincushion warping",
+    "url": "https://www.veryfi.com/solutions/back-office-digitization/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate hospitality workflows from invoicing to revenue management. Extract guest information, room charges, service fees, taxes, and payment details to streamline hotel billing processes and improve guest experience management.",
+    "url": "https://www.veryfi.com/solutions/expense-management-automation/",
+    "pass": 1
+   },
+   {
+    "quote": "Prove the business is registered, in good standing, and owned by real people — and name who is allowed to sign.",
+    "url": "https://www.veryfi.com/solutions/kyc-kyb-automation/",
+    "pass": 1
+   },
+   {
+    "quote": "Stop losing check deposit revenue to fraud, failed IQA, and manual exceptions. Veryfi's RDC platform — Camera SDK, Check OCR API, and real-time fraud detection — gives fintechs, banks, and B2B payment platforms a complete deposit automation stack with Check 21 compliance built in.",
+    "url": "https://www.veryfi.com/solutions/remote-deposit-capture/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate freight billing and optimize supply chain costs. Extract transportation fees, cargo handling charges, and shipping costs to streamline accounts payable and reconcile carrier charges efficiently.",
+    "url": "https://www.veryfi.com/solutions/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "Veryfi gives you 3 Toolkits to instantly validate purchases and unlock cross-basket insights to fuel your loyalty marketing programs. Designed to serve loyalty marketing & retention marketing programs, CPG brands and FMCG brands use Veryfi to drive user bases and revenue.",
+    "url": "https://www.veryfi.com/solutions/cpg-loyalty-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Extract data to do invoicing, inventory management, and revenue collection.",
+    "url": "https://www.veryfi.com/solutions/fintech/",
+    "pass": 1
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/veryfi/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/113363-11",
+    "pass": 3
+   },
+   {
+    "quote": "Veryfi has 58 total employees.",
+    "url": "https://pitchbook.com/profiles/company/113363-11",
+    "pass": 3
+   },
+   {
+    "quote": "What is Veryfi’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/113363-11",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Veryfi is",
+    "url": "https://pitchbook.com/profiles/company/113363-11",
+    "pass": 3
+   },
+   {
+    "quote": "Veryfi Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/veryfi-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Veryfi",
+    "url": "https://prospeo.io/c/veryfi-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/veryfi-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/veryfi-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/veryfi-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Veryfi?",
+    "url": "https://prospeo.io/c/veryfi-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Veryfi generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/veryfi-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/veryfi-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/veryfi-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Veryfi have?",
+    "url": "https://prospeo.io/c/veryfi-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/veryfi-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "One parsing call turns scans, photos, spreadsheets, emails, and multi-document PDFs into clean Markdown, with tables, checkboxes, and handwriting intact.",
+    "url": "https://www.veryfi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Convert emails saved as .eml or HTML into Markdown, then classify and route them by document type without anyone opening the inbox",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Launch your photos, scans, spreadsheets, emails, and combined PDFs into clean, LLM-ready markdown with bounding boxes, decoded barcodes, and fraud checks. Speak to our friendly team of experts based in Silicon Valley.",
+    "url": "https://www.veryfi.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "There is no limit to what industry or use case you can automate. Reach out to us hello@veryfi.com and say G’Day and we can brain storm best solutions with you.",
+    "url": "https://www.veryfi.com/solutions/kyc-kyb-automation/",
+    "pass": 1
+   },
+   {
+    "quote": "Use Get Started for Free for a 14-day trial. No credit card. Upload a sample ID or business document, or call the Any Document endpoint. For a workflow review, email sales@veryfi.com. For product questions, email support@veryfi.com.",
+    "url": "https://www.veryfi.com/solutions/kyc-kyb-automation/",
+    "pass": 1
+   },
+   {
+    "quote": "No worries. You can email our support on support@veryfi.com or contact our industry experts on sales@veryfi.com and they can guide you through all the available features.",
+    "url": "https://www.veryfi.com/solutions/remote-deposit-capture/",
+    "pass": 1
+   },
+   {
+    "quote": "Email sales@veryfi.com and a Veryfi expert will follow up shortly.",
+    "url": "https://www.veryfi.com/solutions/banking/",
+    "pass": 1
+   },
+   {
+    "quote": "Email us on sales@veryfi.com or use this",
+    "url": "https://www.veryfi.com/talk-to-expert/?ref=menu",
+    "pass": 1
+   },
+   {
+    "quote": "Have questions about Veryfi security? Contact us at cso@veryfi.com",
+    "url": "https://www.veryfi.com/why-veryfi/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/veryfi/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/veryfi/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/113363-11",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/veryfi-revenue",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Easy White-Label Integrations",
+    "url": "https://www.veryfi.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Create custom client portals and forms with built-in document capture and AI extraction—no coding required. Deploy expense submission forms, month-end file collection, or time tracking with facial recognition across any platform. Your brand, your rules.",
+    "url": "https://www.veryfi.com/solutions/accountants/",
+    "pass": 1
+   },
+   {
+    "quote": "so the experience would be unique to your brand.",
+    "url": "https://www.veryfi.com/solutions/cpg-loyalty-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate your time-to-market with AI-powered expense automation, bill pay, and AP/ERP capabilities. Veryfi's white-labeled document capture (Lens), intelligent data extraction APIs, and fraud prevention software enable you to deliver superior customer experiences—today.",
+    "url": "https://www.veryfi.com/solutions/fintech/",
+    "pass": 1
+   },
+   {
+    "quote": "✔ White-label solutions available for enterprise clients",
+    "url": "https://www.veryfi.com/solutions/real-estate/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Director of Fintech, Strategic, and Channel Partnerships at Navan",
+    "url": "https://www.casestudies.com/company/veryfi",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by the world's leading organizations ↘",
+    "url": "https://www.veryfi.com/solutions/accounts-payable-automation/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's leading organizations ↘",
+    "url": "https://www.veryfi.com/solutions/billpay-automation/",
+    "pass": 1
+   },
+   {
+    "quote": "01 · Industrial scanners",
+    "url": "https://www.veryfi.com/solutions/back-office-digitization/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Veryfi compiles a custom driver for your multifunction printers and industrial scanners, so Veryfi runs the scanner directly. Pages are straightened, blank pages are dropped, and blurry pages are re-fed before they’re filed.",
+    "url": "https://www.veryfi.com/solutions/back-office-digitization/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Documents can stay in the Veryfi Vault or be sent to your ERP, AP, CRM, data warehouse, cloud storage or AI agents through the Veryfi API, webhooks or connectors. A custom solution can also be developed for your specialized systems.",
+    "url": "https://www.veryfi.com/solutions/back-office-digitization/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's leading organizations ↘",
+    "url": "https://www.veryfi.com/solutions/expense-management-automation/",
+    "pass": 1
+   },
+   {
+    "quote": "Veryfi Drives ROI for Navan (Case Study)",
+    "url": "https://www.veryfi.com/solutions/expense-management-automation/",
+    "pass": 1
+   },
+   {
+    "quote": "Verify vehicle specifications and ownership history instantly. Extract registration details to help automotive dealerships, insurers, and fleet managers ensure DVLA compliance and streamline operations.",
+    "url": "https://www.veryfi.com/solutions/kyc-kyb-automation/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's leading organizations ↘",
+    "url": "https://www.veryfi.com/solutions/accountants/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's leading organizations ↘",
+    "url": "https://www.veryfi.com/solutions/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by companies from seed → scale",
+    "url": "https://www.veryfi.com/solutions/cpg-loyalty-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by companies from seed → scale",
+    "url": "https://www.veryfi.com/solutions/fintech/",
+    "pass": 1
+   },
+   {
+    "quote": "Veryfi Drives ROI for Navan (Case Study)",
+    "url": "https://www.veryfi.com/solutions/fintech/",
+    "pass": 1
+   },
+   {
+    "quote": "\"manufacturer\": \"Mylan Pharmaceuticals Inc.\",",
+    "url": "https://www.veryfi.com/solutions/healthcare/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's leading organizations ↘",
+    "url": "https://www.veryfi.com/solutions/real-estate/",
+    "pass": 1
+   },
+   {
+    "quote": "How AI is kickstarting the 4th Industrial Revolution.",
+    "url": "https://www.veryfi.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Customers Worldwide",
+    "url": "https://www.veryfi.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Buried in Receipts? Mahogany Builders Case Study",
+    "url": "https://www.veryfi.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "1. We are Trusted by Customers Worldwide",
+    "url": "https://www.veryfi.com/why-veryfi/",
+    "pass": 1
+   },
+   {
+    "quote": "Buried in Receipts? Mahogany Builders Case Study",
+    "url": "https://www.veryfi.com/why-veryfi/",
+    "pass": 1
+   },
+   {
+    "quote": "Appliances, Electrical, and Electronics Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/veryfi/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Food and Beverage Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/veryfi/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Machinery Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/veryfi/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Beverage Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/veryfi/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/veryfi/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Appliances, Electrical, and Electronics Manufacturing",
+    "url": "https://www.casestudies.com/company/veryfi",
+    "pass": 3
+   },
+   {
+    "quote": "Beverage Manufacturing",
+    "url": "https://www.casestudies.com/company/veryfi",
+    "pass": 3
+   },
+   {
+    "quote": "Food and Beverage Manufacturing",
+    "url": "https://www.casestudies.com/company/veryfi",
+    "pass": 3
+   },
+   {
+    "quote": "Machinery Manufacturing",
+    "url": "https://www.casestudies.com/company/veryfi",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Veryfi : Trust but Veryfi — Veryfi is AI APIs that read documents (OCR APIs) and knows when they're lying (Fraud Detection). Extract Data. Catch Fraud. One API. Trust but Veryfi.",
+    "url": "https://www.veryfi.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Veryfi : Trust but Veryfi — Veryfi Lens vs Doxis (formerly Klippa) Scanner SDK: Which is Better for Mobile Document Capture? From finance and insurance to healthcare and education, data shapes our world. Veryfi exists to liberate human potential by making data available and actionable.",
+    "url": "https://www.veryfi.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About Veryfi | Veryfi — Discover why Veryfi is the preferred choice for forward-thinking companies integrating AI into their workflows and business processes. Our comprehensive platform transforms unstructured documents into actionable insights, empowering your organization to achieve greater efficiency and accuracy at scale.",
+    "url": "https://www.veryfi.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Kakeibo Method: Japan Expense Management via Veryfi LensDoes Veryfi work for international businesses? | Veryfi, Inc ...Veryfi - LinkedInWhat is Veryfi? | Veryfi, Inc. Help CenterVeryfi - YouTube — Jan 2, 2023 · Watch the power of Veryfi Lens in capture Japanese expenses and financial documents (invoices, receipts, cpg receipts, bills, credit cards etc) on any surfac... Jul 19, 2026 · Yes, Veryfi ",
+    "url": "https://www.youtube.com/watch?v=TUV5SXpKN48",
+    "pass": 3
+   },
+   {
+    "quote": "Does Veryfi work for international businesses? | Veryfi, Inc ... — Jul 19, 2026 · Yes, Veryfi can work for international businesses that need to process documents across different countries, currencies, languages, vendors, tax systems, and document formats.",
+    "url": "https://faq.veryfi.com/en/articles/15257004-does-veryfi-work-for-international-businesses",
+    "pass": 3
+   },
+   {
+    "quote": "Veryfi - LinkedIn — Veryfi | 4,980 followers on LinkedIn. Turn Any Document Into Data Using AI. | At Veryfi, we're revolutionizing data extraction and document capture with our LLMs that we’ve spent almost a ...",
+    "url": "https://www.linkedin.com/company/veryfi-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Our Customers | Veryfi — Global companies across countless industries use Veryfi for amazing data extraction and insights. Read our case studies and news to learn about the ROI that Veryfi is achieving for customers.",
+    "url": "https://www.veryfi.com/customers/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories Category | Veryfi — This case study looks at how Bybe, a cashback rebate app for beer, wine, and spirits, used Veryfi to process nearly 800,000 receipts with a 99.44% accuracy rate.",
+    "url": "https://www.veryfi.com/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "24 Veryfi Case Studies, Success Stories, & Customer Stories — Discover how other companies use Veryfi, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/veryfi/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Veryfi B2B Case Studies & Customer Successes — See how Veryfi solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/veryfi",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Stahls eliminates expense management busy work ... — With Veryfi, the company reduced waste, cut down on data entry busy work, eliminated many paper records, and improved organization and productivity; Jennifer J., Vice President of Sales Operations NA, said the team could focus on other priorities instead of manual expense processing. Open case study document...",
+    "url": "https://www.casestudies.com/company/veryfi/case-study/stahls-adopts-veryfi-stops-spilling-ink",
+    "pass": 3
+   },
+   {
+    "quote": "Veryfi – Funding, Acquisitions & Key Rivals – 2026 — According to data, Veryfi has estimated revenue of $12.9M, team of around 90+ employees, centered in San Mateo, with ongoing milestones reached.",
+    "url": "https://compworth.com/company/veryfi",
+    "pass": 3
+   },
+   {
+    "quote": "Veryfi - 2026 Company Profile, Team, Funding & Competitors ... — Feb 1, 2026 · Veryfi is a series A company based in San Mateo (United States), founded in 2017 by Ernest Semerda and Dmitry Birulia. It operates as an AI-powered platform for document data extraction and analysis. Veryfi has raised $18.9M in funding from Zillionize and NewView Capital. The company has 201 active competitors, includin",
+    "url": "https://tracxn.com/d/companies/veryfi/__Whz7Ph59EMr43m3_zg2oplZmp-nXuERvvoHdig4fDkw",
+    "pass": 3
+   },
+   {
+    "quote": "Veryfi 2026 Company Profile: Valuation, Funding & Investors ...Veryfi Revenue, Funding & Valuation - prospeo.ioVeryfi - Overview, News & Similar companies | ZoomInfo.comHow Veryfi, Inc. hit $4.3M revenue with a 54 person team in 2024.Veryfi Revenue 2025: $6.1M Est. - getlatka.com — Veryfi FAQs When was Veryfi founded? Veryfi was founded in 2016. Where is Veryfi headquartered? Veryfi is headquarter",
+    "url": "https://pitchbook.com/profiles/company/113363-11",
+    "pass": 3
+   },
+   {
+    "quote": "Veryfi Revenue, Funding & Valuation - prospeo.io — Veryfi has revenue of $2,000,000, estimated valuation of $6,400,000, $12,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/veryfi-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Veryfi - Overview, News & Similar companies | ZoomInfo.com — View Veryfi (www.veryfi.com) location in California, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/veryfi-inc/443426858",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Veryfi (@Veryfi) / Posts / X Veryfi’s Business Rules with LLM Prompt Mode lets you define custom extraction logic using plain English instructions. It runs on top of Veryfi’s powerful OCR and works exclusively with extracted text ideal when document layouts vary wildly.",
+    "url": "https://x.com/veryfi",
+    "pass": 3
+   },
+   {
+    "quote": "veryfi (@veryfi_com) / Posts / X Veryfi eliminates manual data entry with its fast, accurate, and secure AI-driven data extraction platform, enhancing productivity and efficiency for businesses",
+    "url": "https://x.com/veryfi_com",
+    "pass": 3
+   },
+   {
+    "quote": "Transform Your Expense Management with Veryfi in 3 Simple Steps Veryfi (@Veryfi). 173 likes. Transform Your Expense Management with Veryfi in 3 Simple Steps 🚀",
+    "url": "https://x.com/Veryfi/status/2039483263295901852",
+    "pass": 3
+   },
+   {
+    "quote": "Tired of manually processing insurance cards, claims, and ... Veryfi (@Veryfi). 65 likes. Tired of manually processing insurance cards, claims, and superbills? Veryfi’s AI delivers instant document processing with 99%+ accurate OCR. Automate verification, reduce errors, and reclaim hours for actual patient care. Perfect for clinics, EHRs, and healthtech teams.",
+    "url": "https://x.com/Veryfi/status/2039830146686103873",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Veryfi - LinkedIn Veryfi | 4,980 followers on LinkedIn. Turn Any Document Into Data Using AI. | At Veryfi, we're revolutionizing data extraction and document capture with our LLMs that we’ve spent almost a ...",
+    "url": "https://www.linkedin.com/company/veryfi-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Veryfi - LinkedIn Veryfi is an information architecture facilitating a more nimble dissemination of reliable, verified, referenced, curated information in a variety of Subject Matter Domains (SMDs). Beginning with ...",
+    "url": "https://www.linkedin.com/company/veryfi",
+    "pass": 3
+   },
+   {
+    "quote": "Veryfi - LinkedIn Veryfi | 4,962 followers on LinkedIn. Turn Any Document Into Data Using AI. | At Veryfi, we're revolutionizing data extraction and document capture with our LLMs that we’ve spent almost a decade creating. Our fine-tuned LLMs with vision models are unmatched in comprehending and discerning data from any document—no matter the document’s structure. Create your free trial to experie",
+    "url": "https://au.linkedin.com/company/veryfi-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Ernest S. - Veryfi | LinkedInJustin Perlman - Veryfi | LinkedInVeryfi On-Device Field Detection for Clean Receipt Data ...Marianna Babayan - Marketing Ops @ Veryfi | LinkedIn 🚀 Cowabunga! Co-captaining Veryfi with my partner-in-crime Dmitry Birulia. 💪 THE… · Experience: Veryfi · Education: Y Combinator · Location: San Francisco Bay Area · 500+ connections ... Experience: Veryfi · Location: Los Ang",
+    "url": "https://www.linkedin.com/in/semerda",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Veryfi | San Mateo CA - FacebookVeryfi - FacebookEmail Receipts, Bills & Invoices to Veryfi [How to] - FacebookVeryfi - Say goodbye to manual data entry! ... - FacebookVeryfi AI Document Processing for Digital Transformation ...Say goodbye to manual data entry! Veryfi ... - FacebookVeryfi - #multipage #receipt #ocr Upload an a page with ... Apr 3, 2026 · Veryfi, San Mateo. 507 followers · 1 talkin",
+    "url": "https://www.facebook.com/getveryfi/",
+    "pass": 3
+   },
+   {
+    "quote": "Veryfi - Facebook Veryfi. 329 likes. A food and drugs verification service",
+    "url": "https://www.facebook.com/vryfi/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Email Receipts, Bills & Invoices to Veryfi [How to] - Facebook Jun 11, 2019 · This is your email address for collecting receipts, bill, invoices and statements directly into Veryfi. E-receipts are not only good for the environment, they are also much easier to account for...",
+    "url": "https://www.facebook.com/getveryfi/videos/email-receipts-bills-invoices-to-veryfi-how-to/318321082438631/",
+    "pass": 3
+   },
+   {
+    "quote": "Veryfi - Say goodbye to manual data entry! ... - Facebook Aug 21, 2025 · Say goodbye to manual data entry! 📱 Veryfi makes document processing effortless - just scan and extract everything you need in seconds 🚀 #Veryfi...",
+    "url": "https://www.facebook.com/getveryfi/posts/say-goodbye-to-manual-data-entry-veryfi-makes-document-processing-effortless-jus/1360677135845594/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.veryfi.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.veryfi.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.veryfi.com/use-cases/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.veryfi.com/solutions/accounts-payable-automation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.veryfi.com/solutions/billpay-automation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.veryfi.com/solutions/back-office-digitization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.veryfi.com/solutions/expense-management-automation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.veryfi.com/solutions/kyc-kyb-automation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.veryfi.com/solutions/remote-deposit-capture/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.veryfi.com/solutions/accountants/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.veryfi.com/solutions/banking/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.veryfi.com/solutions/construction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.veryfi.com/solutions/cpg-loyalty-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.veryfi.com/solutions/fintech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.veryfi.com/solutions/healthcare/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.veryfi.com/solutions/real-estate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.veryfi.com/talk-to-expert/?ref=menu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.veryfi.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.veryfi.com/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.veryfi.com/why-veryfi/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.veryfi.com/wp-content/themes/veryfi_2.0/assets/menu_icons/happyVeryfiCustomers.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.veryfi.com/wp-content/themes/veryfi_2.0/assets/logos/Logo_ChatGPT.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.veryfi.com/wp-content/themes/veryfi_2.0/assets/logos/Logo_Claude.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.veryfi.com/wp-content/themes/veryfi_2.0/assets/logos/Logo_Gemini.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/MTG_(%E4%BC%81%E6%A5%AD)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=TUV5SXpKN48",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://faq.veryfi.com/en/articles/15257004-does-veryfi-work-for-international-businesses",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/veryfi/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/veryfi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verkada.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/veryfi",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/veryfi/__Whz7Ph59EMr43m3_zg2oplZmp-nXuERvvoHdig4fDkw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/113363-11",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/veryfi-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/veryfi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/veryfi_com",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Veryfi/status/2039483263295901852",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Veryfi/status/2039830146686103873",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/veryfi-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/veryfi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/company/veryfi-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/semerda",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/getveryfi/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/vryfi/about/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/getveryfi/videos/email-receipts-bills-invoices-to-veryfi-how-to/318321082438631/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/getveryfi/posts/say-goodbye-to-manual-data-entry-veryfi-makes-document-processing-effortless-jus/1360677135845594/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Veryfi 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Veryfi 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/MTG_(企業)",
+    "https://www.veryfi.com/",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Veryfi Japan",
+   "results": [
+    "https://www.veryfi.com/",
+    "https://www.veryfi.com/about/",
+    "https://www.youtube.com/watch?v=TUV5SXpKN48",
+    "https://faq.veryfi.com/en/articles/15257004-does-veryfi-work-for-international-businesses",
+    "https://www.linkedin.com/company/veryfi-inc",
+    "https://faq.veryfi.com/en/articles/15216985-what-is-veryfi",
+    "https://www.youtube.com/@Veryfi"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Veryfi manufacturing customer case study",
+   "results": [
+    "https://www.veryfi.com/customers/",
+    "https://www.veryfi.com/customer-stories/",
+    "https://www.featuredcustomers.com/vendor/veryfi/case-studies",
+    "https://www.casestudies.com/company/veryfi",
+    "https://www.casestudies.com/company/veryfi/case-study/stahls-adopts-veryfi-stops-spilling-ink",
+    "https://www.cbinsights.com/company/veryfi/customers",
+    "https://faq.veryfi.com/en/articles/15256925-what-are-the-main-use-cases-for-veryfi"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Veryfi white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.verkada.com/partners/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Veryfi founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/veryfi",
+    "https://tracxn.com/d/companies/veryfi/__Whz7Ph59EMr43m3_zg2oplZmp-nXuERvvoHdig4fDkw",
+    "https://pitchbook.com/profiles/company/113363-11",
+    "https://prospeo.io/c/veryfi-revenue",
+    "https://www.zoominfo.com/c/veryfi-inc/443426858",
+    "https://getlatka.com/companies/veryfi-inc/customers",
+    "https://getlatka.com/companies/veryfi.com"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Veryfi",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/rikaitechnology/n/na5c05821d4e6",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/webtestkoryaku/n/n5557707d7cd1?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Veryfi",
+   "results": [
+    "https://x.com/veryfi",
+    "https://x.com/veryfi_com",
+    "https://x.com/Veryfi/status/2039483263295901852",
+    "https://x.com/Veryfi/status/2039830146686103873",
+    "https://x.com/Veryfi/status/2039120590611812628",
+    "https://x.com/Veryfi/status/2039495391146864802",
+    "https://x.com/Veryfi/status/2039485817765417233"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Veryfi",
+   "results": [
+    "https://www.linkedin.com/company/veryfi-inc",
+    "https://www.linkedin.com/company/veryfi",
+    "https://au.linkedin.com/company/veryfi-inc",
+    "https://www.linkedin.com/in/semerda",
+    "https://www.linkedin.com/in/jperlman",
+    "https://www.linkedin.com/posts/veryfi-inc_productlaunch-receiptextraction-ocr-activity-7480382765348106240-VcPf",
+    "https://www.linkedin.com/in/mariannababayan"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Veryfi",
+   "results": [
+    "https://www.facebook.com/getveryfi/",
+    "https://www.facebook.com/vryfi/about/",
+    "https://www.facebook.com/getveryfi/videos/email-receipts-bills-invoices-to-veryfi-how-to/318321082438631/",
+    "https://www.facebook.com/getveryfi/posts/say-goodbye-to-manual-data-entry-veryfi-makes-document-processing-effortless-jus/1360677135845594/",
+    "https://www.facebook.com/fb-answers/evaluate-the-ai-powered-document-processing-company-veryfi-on-digital-transformation/",
+    "https://www.facebook.com/getveryfi/videos/say-goodbye-to-manual-data-entry-veryfi-makes-document-processing-effortless-jus/645268158167510/",
+    "https://www.facebook.com/getveryfi/posts/multipage-receipt-ocrupload-an-a-page-with-multiple-receipts-for-data-extraction/1068867716833461/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Veryfi note 社長",
+   "results": [
+    "https://www.veryfi.com/about/",
+    "https://tracxn.com/d/companies/veryfi/__Whz7Ph59EMr43m3_zg2oplZmp-nXuERvvoHdig4fDkw",
+    "https://www.veryfi.com/",
+    "https://www.cbinsights.com/company/veryfi/people",
+    "https://www.ycombinator.com/companies/veryfi-inc",
+    "https://jp.linkedin.com/company/veryfi-inc",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Veryfi X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部27頁・検索12回）"
+ }
+}

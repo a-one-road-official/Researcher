@@ -1,0 +1,1819 @@
+{
+ "name": "Zonos",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T05:29:51.976621+00:00",
+ "official_url": "https://www.zonos.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$112,000",
+    "url": "https://prospeo.io/c/zonos-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$69,000,000",
+    "url": "https://prospeo.io/c/zonos-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "975 s Tech Ridge Dr, St George, Utah 84770, US",
+    "url": "https://prospeo.io/c/zonos-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2009",
+    "url": "https://prospeo.io/c/zonos-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Trained on billions of tokens and millions of classified goods. It doesn't just look up HS codes. It reads product images, predicts country of origin, detects undervalued shipments, and generates compliant customs data from a single photo.",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"With Zonos, we took full control of our international shipping—using our preferred carriers, optimized tracking, and providing upfront duties & taxes.",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter a product description and watch",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Describe your product",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're on Shopify or running a custom stack, Zonos plugs into your existing platform and handles every cross-border headache: duty and tax calculation, localized checkout in 30+ currencies and 15+ languages, fraud protection, HS code classification, shipping labels, and commercial invoices. One integration replaces a patchwork of tools.",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Instantly classify products across global markets while our seamless integration options eliminate manual data entry.",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect without compromise",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zonos was a game-changer from the moment of implementation. It literally opened the world up to the availability of our products, creating a great experience for our customers with no surprises, and protecting us from fraud globally. Zonos is a no brainer.",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With Zonos, we took full control of our international shipping using our preferred carriers, optimized tracking, and providing upfront duties & taxes. Since implementing Zonos, our customer service complaints have dropped by 70%. Plus, we are shipping to more countries than ever.",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales have grown, and our warehouse and manual processes have been drastically reduced. Additionally, we don't receive nearly as many customer service emails or calls complaining about where a package is. Zonos has lowered the cost of the manual processes within the sales team and in the warehouse.",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "They have been so helpful setting up the zones for shipping and super fast. I was up and running in 3 days. The dashboard is so easy to use and print labels. I would recommend this app for anyone doing international shipping.",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We have swapped from Global-E to Zonos and I can say that from the start the finish on the on-boarding process has been simple, fast, and painless. I have felt supported and listened to throughout while having everything explained clearly.",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Quite literally the best onboarding/integration process I have had with any partner in my ecomm experience. The app, the people, the functionality is all just fantastic for anyone trying to help overseas customers get access to their product.",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We've had a great experience using Zonos Duty and Tax. Their guidance made the setup process smooth and helped us get the most out of the app. I highly recommend Zonos to any business looking for a reliable solution to manage duties and taxes for international shipping.",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Save development time with our comprehensive cross-border APIs. We handle the complexities of international duties, taxes, and compliance so your engineering team can focus on building exceptional customer experiences. One simple integration gives you access to our entire global commerce infrastructure.",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Future-proof architecture",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One customer visit became the catalyst. The retailer flat-out refused to sell to international buyers. Not because they didn't want to, but because they had no way to handle the complexity. Clint realized the primary barrier to global commerce wasn't logistics — it was technology.",
+    "url": "https://zonos.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "What followed was 12 years of bootstrapped persistence. No outside capital. No shortcuts. Just relentless focus on solving the hardest problems in cross-border trade.",
+    "url": "https://zonos.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "U.S. Customs and Border Protection",
+    "url": "https://zonos.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Selected by U.S. Customs and Border Protection and 50 of the top 60 posts around the world",
+    "url": "https://zonos.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "President. Former COO of Global Sales at Qualtrics. Helped scale from $100M to an $8B acquisition. Utah 40 Under 40.",
+    "url": "https://zonos.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Technology Officer. Leads Zonos engineering. Deep technical expertise from Skullcandy, Backcountry.com, and Blastscale.",
+    "url": "https://zonos.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Data Scientist. Formerly VP of Data Science at Nielsen. Leads AI initiatives powering trade compliance.",
+    "url": "https://zonos.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Innovate and push boundaries. We solve hard problems that others avoid — building technology that didn't exist before.",
+    "url": "https://zonos.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Persistence through challenges. We bootstrapped for 12 years because hard problems don't get solved overnight.",
+    "url": "https://zonos.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Trade policy will keep shifting. Our commitment is that when it does, the people with the least power to absorb the disruption (small businesses, families, individual shippers) are the ones our technology protects first.",
+    "url": "https://zonos.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": ", Zonos dedicated the Zonos Business Classroom and Zonos Graduate Studies Lab, and we sponsor STEM programs for local youth.",
+    "url": "https://zonos.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "For press inquiries, email",
+    "url": "https://zonos.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Under new U.S. requirements, postal shipments valued under $2,500 USD (excluding documents and personal gifts valued under $100 USD) must have customs duties prepaid",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "they can be imported into the United States. Additionally, as of July 1, 2026, many countries in the EU require shipments to be sent with duties prepaid. Japan Post has partnered with Zonos to offer solutions for both individual shippers and businesses, now including select EU destinations starting October 1, 2026 (JST).",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Japan Post has worked with Zonos to offer the Zonos app as a fast, easy way for casual shippers to keep shipping to the U.S. and select EU destinations while meeting the new requirements. Using the app, you'll pay duties upfront, generate your shipping label, and print it — all before arriving at the post office.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Japan Post is available in the Zonos app for U.S. shipments as of April 14, 2026, and for select EU destinations starting October 1, 2026 (JST).",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Print your shipping label and documentation from the app before heading to the post office.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "charged per shipment, which is clearly calculated and shown alongside the duty calculation in the app. Payment is processed in Japanese yen (JPY).",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Watch the video tutorial",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Download the Zonos app to use when shipping to the U.S. and select EU destinations. There are no subscription costs—just pay as you go. The app will only prompt for duty payment (and include a clearance/processing fee) when you use it to ship an item.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Zonos' patent-pending AI tools automatically suggest required customs information from your photo, saving everyone time and streamlining processes. Shippers should review the suggested information and click Edit to make any adjustments needed.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "The app will automatically calculate the applicable duties and postal clearance fees, and prompt for payment. Payment can be made directly in the app in Japanese yen (JPY). Duty payments made via the Zonos app are guaranteed—no additional duties will be charged to you or the recipient.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Print your label and drop off at the post office",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "After paying duties, create and print your shipping label directly from the app. You must create the label within 5 days of paying duties — if you don't, the card authorization expires (you won't be charged) and you'll need to start the process over. Bring your printed label to the post office and pay for postage.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Print Japan Post labels the way that fits your workflow — through the Ship&co App and API, the Zonos Dashboard, or the Zonos API, all available now.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Item Quoter: a free tool to calculate U.S. duties and get HTS codes for your products.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Enter your Japan Post Later Pay Number to link your Zonos Verified Account to Japan Post, enabling duty-prepaid label creation.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Print labels your way",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Once your Verified Account is set up, you can create and print Japan Post labels through any of these three options:",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Use your existing shipping platform to create and print Japan Post labels for U.S.-bound shipments. Supported platforms: Ship&co, with more coming soon.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Upload orders via CSV, create labels in bulk or individually, attach labels to consolidation groups, and close and print manifests — all directly in the Zonos Dashboard.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Build a custom label integration using the Zonos Labels API to create, manage, and void Japan Post labels programmatically.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "in your Zonos Dashboard to calculate U.S. duties and HTS codes for your products before you ship — so you can factor duty costs into your pricing ahead of time.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "For more than 16 years, we've been powering international commerce by classifying products with HS codes and calculating duties and taxes with accuracy and reliability. Today, our technology supports some of the world's largest brands, logistics providers, and thousands of ecommerce businesses.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission has always been to increase trust in cross-border trade by making cross-border simple, transparent, and compliant. From APIs that integrate directly with custom setups to checkout experiences that make duty and tax collection easy for anyone, Zonos ensures international customers have good delivery experiences, building your brand in the process.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Starting October 1, 2026 (JST), you can ship duty-prepaid to:",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "No. IOSS only applies to EU shipments with goods valued at €150 or less. Above €150, whether a shipment can be sent duty-prepaid (DDP) depends on the destination country, and some countries also set a maximum goods value. See",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Zonos is the AI operating system for cross-border trade, helping merchants, marketplaces, carriers and postal operators sell and ship across borders. We calculate duties and taxes at checkout, classify products and handle customs compliance so international orders arrive without surprise fees or delays.",
+    "url": "https://zonos.com/solutions-architect-99a76969-a9b7-4d63-8908-fd9187d0d53e.html",
+    "pass": 1
+   },
+   {
+    "quote": "You'll be the technical and commercial bridge between Zonos and our prospects, customers and partners across Europe. You'll work to understand how merchants, marketplaces and postal operators handle checkout, shipping and customs today, identify opportunities for Zonos to help, and design solutions that fit their business and technical requirements.",
+    "url": "https://zonos.com/solutions-architect-99a76969-a9b7-4d63-8908-fd9187d0d53e.html",
+    "pass": 1
+   },
+   {
+    "quote": "This is a customer-facing role. You'll lead technical discovery, participate in commercial discussions, demonstrate our products and guide customers through implementation. You'll work closely with our GM of EMEA and Head of EMEA Sales to support opportunities across the region, while collaborating with our product and engineering teams in the US.",
+    "url": "https://zonos.com/solutions-architect-99a76969-a9b7-4d63-8908-fd9187d0d53e.html",
+    "pass": 1
+   },
+   {
+    "quote": "You'll have significant ownership from the beginning, helping establish how we approach technical discovery, solution design and customer implementations across EMEA.",
+    "url": "https://zonos.com/solutions-architect-99a76969-a9b7-4d63-8908-fd9187d0d53e.html",
+    "pass": 1
+   },
+   {
+    "quote": "You'll start with three weeks at our headquarters in St. George, Utah. There you'll learn our products, APIs and data flows alongside the US team. After that, you'll lead technical engagements across Europe, both independently and alongside our commercial team.",
+    "url": "https://zonos.com/solutions-architect-99a76969-a9b7-4d63-8908-fd9187d0d53e.html",
+    "pass": 1
+   },
+   {
+    "quote": "Lead technical discovery with prospects and customers to understand their business objectives, existing systems, workflows and integration requirements",
+    "url": "https://zonos.com/solutions-architect-99a76969-a9b7-4d63-8908-fd9187d0d53e.html",
+    "pass": 1
+   },
+   {
+    "quote": "Design solutions that connect Zonos to checkout, shipping and customs processes, balancing technical requirements with commercial objectives",
+    "url": "https://zonos.com/solutions-architect-99a76969-a9b7-4d63-8908-fd9187d0d53e.html",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Sales have grown, and our warehouse and manual processes have been drastically reduced. Additionally, we don't receive nearly as many customer service emails or calls complaining about where a package is. Zonos has lowered the cost of the manual processes within the sales team and in the warehouse.",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zonos is the AI operating system for cross-border trade, helping merchants, marketplaces, carriers and postal operators sell and ship across borders. We calculate duties and taxes at checkout, classify products and handle customs compliance so international orders arrive without surprise fees or delays.",
+    "url": "https://zonos.com/solutions-architect-99a76969-a9b7-4d63-8908-fd9187d0d53e.html",
+    "pass": 1
+   },
+   {
+    "quote": "We support more than 50,000 e-commerce merchants and 70+ postal operators across 200+ countries. We're building our European team in Utrecht, and you'll be one of its first members.",
+    "url": "https://zonos.com/solutions-architect-99a76969-a9b7-4d63-8908-fd9187d0d53e.html",
+    "pass": 1
+   },
+   {
+    "quote": "You'll be the technical and commercial bridge between Zonos and our prospects, customers and partners across Europe. You'll work to understand how merchants, marketplaces and postal operators handle checkout, shipping and customs today, identify opportunities for Zonos to help, and design solutions that fit their business and technical requirements.",
+    "url": "https://zonos.com/solutions-architect-99a76969-a9b7-4d63-8908-fd9187d0d53e.html",
+    "pass": 1
+   },
+   {
+    "quote": "Zonos offers a white-label solution that enables carriers, postal operators, and other partners to provide branded checkout experiences powered by Zonos technology. This solution provides international shipping, duty calculation, and compliance solutions to your merchants under your own brand.",
+    "url": "https://zonos.com/docs/global-ecommerce/integration/integrating-new-checkout/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "For postal operators, Zonos receives data from the Universal Postal Union (UPU) and works with you to ensure accurate service offerings and delivery expectations are reflected in the checkout experience.",
+    "url": "https://zonos.com/docs/global-ecommerce/integration/integrating-new-checkout/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Cortec Precision Manufacturing",
+    "url": "https://prospeo.io/c/zonos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SendCutSend is an online custom manufacturing service specializing in rapid, high-precision sheet metal…",
+    "url": "https://fundediq.co/zonos-zonos-com-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Japan Post business accounts can now ship to the U.S.",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Japan Post + Zonos - App & Verified Accounts | Zonos",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Keep shipping to the U.S. and select EU destinations with Japan Post + Zonos",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "they can be imported into the United States. Additionally, as of July 1, 2026, many countries in the EU require shipments to be sent with duties prepaid. Japan Post has partnered with Zonos to offer solutions for both individual shippers and businesses, now including select EU destinations starting October 1, 2026 (JST).",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Japan Post + Zonos solutions",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "if you ship with a Japan Post Later Pay Number.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Ship at scale with a Verified Account linked to your Japan Post business account.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Japan Post has worked with Zonos to offer the Zonos app as a fast, easy way for casual shippers to keep shipping to the U.S. and select EU destinations while meeting the new requirements. Using the app, you'll pay duties upfront, generate your shipping label, and print it — all before arriving at the post office.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Japan Post is available in the Zonos app for U.S. shipments as of April 14, 2026, and for select EU destinations starting October 1, 2026 (JST).",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Anytime you ship something under $2,500 USD to the U.S., or ship to a supported EU destination, via Japan Post, use the Zonos app to pay duties upfront and generate your shipping label. U.S.-bound documents do not require the app. Personal gifts under $100 USD are not charged duty, and starting October 15, 2026, they also go through the app.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "charged per shipment, which is clearly calculated and shown alongside the duty calculation in the app. Payment is processed in Japanese yen (JPY).",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Select your package type, select Japan Post, and click 'Continue'. Then snap a photo of the items you are shipping. A photo is required for Japan Post shipments; manual item entry is not available.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "The app will automatically calculate the applicable duties and postal clearance fees, and prompt for payment. Payment can be made directly in the app in Japanese yen (JPY). Duty payments made via the Zonos app are guaranteed—no additional duties will be charged to you or the recipient.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "main purpose is to let your business keep shipping to the U.S. and select EU destinations via Japan Post.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "You link it to your Japan Post business account with your Later Pay Number, and Zonos bills you directly for the duties and clearance fees on those shipments, so your recipients are never charged at delivery.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Ship to the U.S. and select EU destinations via your Japan Post business account, tied to your Later Pay Number — after the shipment, Zonos invoices you directly for the duties and clearance fees.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Print Japan Post labels the way that fits your workflow — through the Ship&co App and API, the Zonos Dashboard, or the Zonos API, all available now.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Enter your Japan Post Later Pay Number",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Enter your Japan Post Later Pay Number to link your Zonos Verified Account to Japan Post, enabling duty-prepaid label creation.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Once your Verified Account is set up, you can create and print Japan Post labels through any of these three options:",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Use your existing shipping platform to create and print Japan Post labels for U.S.-bound shipments. Supported platforms: Ship&co, with more coming soon.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Build a custom label integration using the Zonos Labels API to create, manage, and void Japan Post labels programmatically.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Zonos will bill you daily for the duty (and associated postal clearance fees) on shipments associated with your Zonos Verified Account. For EU shipments that use Zonos' IOSS number, the bill also includes the taxes (VAT). Zonos bills you within 24 hours of getting the shipment data from Japan Post (note that this can be several days after you ship). You can view these invoices in your",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Zonos app user guide for Japan Post",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "How do I create and print Japan Post labels as a Verified Account?",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "You can create and print Japan Post labels three ways, all available now:",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "日本郵便 + Zonos - アプリ & Verified Accounts",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵便 + Zonosで米国および一部のEU仕向地への発送を継続",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵便はZonosと提携し、個人の発送者と法人企業の両方に向けたソリューションを提供しています",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月1日(日本時間)からは、一部のEU仕向地にも対応します",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "を、日本郵便の後払い番号を使って発送する場合は",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月1日(日本時間)から、どちらのソリューションも以下の仕向地への発送に対応します",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵便の事業者アカウントに連携したVerified Accountで、まとめて発送",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵便はZonosと協力し、個人の発送者が新しい要件を満たしながら米国および一部のEU仕向地への発送を続けられるよう、Zonosアプリという速く簡単な方法を提供しています",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵便は、米国向けの発送では2026年4月14日から、一部のEU仕向地向けの発送では2026年10月1日(日本時間)からZonosアプリでご利用いただけます",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵便で2,500米ドル未満の荷物を米国へ発送する際、または対応するEU仕向地へ発送する際は、必ずZonosアプリを使って関税を前払いし、配送ラベルを作成してください",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "荷物の種類を選択し、日本郵便を選択して「続ける」をクリックします",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵便での発送には写真が必須で、手動での商品情報入力はできません",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "お支払いはアプリ内で日本円(JPY)にて直接行えます",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "最大の目的は、日本郵便を通じて米国および一部のEU仕向地への発送を継続できるようにすることです",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "後払い番号を使って日本郵便の事業者アカウントと連携すると、Zonosがそれらの荷物の関税とクリアランス料金を直接請求するため、受取人が配達時に請求されることはありません",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "後払い番号に連携した日本郵便の事業者アカウントを通じて米国および一部のEU仕向地へ発送",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "ワークフローに合った方法で日本郵便のラベルを印刷できます",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵便の後払い番号を入力し、Zonos Verified Accountを日本郵便に連携すると、関税前払いのラベルを作成できるようになります",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "Verified Accountの設定が完了すると、以下の3つの方法のいずれかで日本郵便のラベルを作成・印刷できます",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "既存の配送プラットフォームを使って、米国向け荷物の日本郵便ラベルを作成・印刷できます",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "Zonos Labels APIを使ってカスタムのラベル連携を構築し、日本郵便ラベルの作成・管理・無効化をプログラムで行えます",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "Zonosは日本郵便から荷物データを受け取ってから24時間以内に請求します(発送から数日後になる場合があります)",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵便向けZonosアプリユーザーガイド",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月1日(日本時間)から、以下の仕向地へ関税を前払いして発送できます",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "Verified Accountで日本郵便のラベルを作成・印刷する方法は?",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵便の法人アカウントで、米国への発送が可能になりました",
+    "url": "https://zonos.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、Zonosとは何か、その6つの主要製品や導入メリット、そして2026年の日本郵便における米国向けDDP発送の最新動向までを徹底解説します",
+    "url": "https://solutions.neologi.jp/info/what_is_zonos/",
+    "pass": 3
+   },
+   {
+    "quote": "Zonos×日本郵便：米国向けDDP発送の仕組み",
+    "url": "https://solutions.neologi.jp/info/what_is_zonos/",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵便とZonosを組み合わせたDDP発送の方法",
+    "url": "https://solutions.neologi.jp/info/what_is_zonos/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、Zonosの基本的な定義と、近年日本の越境EC事業者から急激に注目を集めている背景について解説します",
+    "url": "https://solutions.neologi.jp/info/what_is_zonos/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年以降、Zonosが日本の越境EC事業者から急速に不可欠な存在として注目を集めている最大の理由は、",
+    "url": "https://solutions.neologi.jp/info/what_is_zonos/",
+    "pass": 3
+   },
+   {
+    "quote": "この制度変更により、日本からの輸出者は米国税関・国境警備局（CBP）の認定事業者を通じて、事前に関税を納付（DDP方式）することがルール化されました",
+    "url": "https://solutions.neologi.jp/info/what_is_zonos/",
+    "pass": 3
+   },
+   {
+    "quote": "これに対応するため、日本郵便はCBP認定事業者であるZonosと連携",
+    "url": "https://solutions.neologi.jp/info/what_is_zonos/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の越境EC事業者にとって、現在Zonosが最も身近な存在となっているのが「日本郵便を利用した米国向け発送」です",
+    "url": "https://solutions.neologi.jp/info/what_is_zonos/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "\"With Zonos, we took full control of our international shipping—using our preferred carriers, optimized tracking, and providing upfront duties & taxes.",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Easily integrate your favorite platforms and carriers",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "At Zonos, we understand that your business relies on a complex ecosystem of ecommerce platforms, marketplaces, and shipping carriers. That's why we've built",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your own carriers",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring your own carrier accounts and access global shipping through one simple",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Add new carriers or expand into new markets without overhauling your entire",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With Zonos, we took full control of our international shipping using our preferred carriers, optimized tracking, and providing upfront duties & taxes. Since implementing Zonos, our customer service complaints have dropped by 70%. Plus, we are shipping to more countries than ever.",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Let Zonos handle the complexity of global ecommerce—from taxes and duties to carrier coordination—so you can focus on scaling your business.",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One customer visit became the catalyst. The retailer flat-out refused to sell to international buyers. Not because they didn't want to, but because they had no way to handle the complexity. Clint realized the primary barrier to global commerce wasn't logistics — it was technology.",
+    "url": "https://zonos.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "President. Former COO of Global Sales at Qualtrics. Helped scale from $100M to an $8B acquisition. Utah 40 Under 40.",
+    "url": "https://zonos.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Japan Post has worked with Zonos to offer the Zonos app as a fast, easy way for casual shippers to keep shipping to the U.S. and select EU destinations while meeting the new requirements. Using the app, you'll pay duties upfront, generate your shipping label, and print it — all before arriving at the post office.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "Zonos is the AI operating system for cross-border trade, helping merchants, marketplaces, carriers and postal operators sell and ship across borders. We calculate duties and taxes at checkout, classify products and handle customs compliance so international orders arrive without surprise fees or delays.",
+    "url": "https://zonos.com/solutions-architect-99a76969-a9b7-4d63-8908-fd9187d0d53e.html",
+    "pass": 1
+   },
+   {
+    "quote": "Familiarity with e-commerce platforms, checkout flows or carrier integrations",
+    "url": "https://zonos.com/solutions-architect-99a76969-a9b7-4d63-8908-fd9187d0d53e.html",
+    "pass": 1
+   },
+   {
+    "quote": "Zonos offers a white-label solution that enables carriers, postal operators, and other partners to provide branded checkout experiences powered by Zonos technology. This solution provides international shipping, duty calculation, and compliance solutions to your merchants under your own brand.",
+    "url": "https://zonos.com/docs/global-ecommerce/integration/integrating-new-checkout/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "– Configure delivery timelines, carrier names, and shipping notifications that display to shoppers",
+    "url": "https://zonos.com/docs/global-ecommerce/integration/integrating-new-checkout/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "– Set up merchant shipping profiles including origin locations, preferred carriers, and default handling preferences",
+    "url": "https://zonos.com/docs/global-ecommerce/integration/integrating-new-checkout/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "—real-time carrier rate calculation at checkout when using Zonos rating services. If you don't use Zonos live rating, you'll need to implement your own rating API or provide rate charts.",
+    "url": "https://zonos.com/docs/global-ecommerce/integration/integrating-new-checkout/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Third-party billing of duties and taxes to Zonos configured at the carrier level",
+    "url": "https://zonos.com/docs/global-ecommerce/integration/integrating-new-checkout/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a cross-border e-commerce platform designed to offer end-to-end logistics for online retailers. The company's platform calculates accurate landed costs, manages restricted items, localizes checkout pages, sets in foreign currencies, mitigates fraud risk, and increases conversions and revenue, enabling online retailers to globalize their web stores easily and cost-effectively.",
+    "url": "https://pitchbook.com/profiles/company/141105-07",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/141105-07",
+    "pass": 3
+   },
+   {
+    "quote": "Zonos’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/141105-07",
+    "pass": 3
+   },
+   {
+    "quote": "To view Zonos’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/141105-07",
+    "pass": 3
+   },
+   {
+    "quote": "Zonos has 114 total employees.",
+    "url": "https://pitchbook.com/profiles/company/141105-07",
+    "pass": 3
+   },
+   {
+    "quote": "What is Zonos’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/141105-07",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Zonos is",
+    "url": "https://pitchbook.com/profiles/company/141105-07",
+    "pass": 3
+   },
+   {
+    "quote": "Zonos Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/zonos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Zonos",
+    "url": "https://prospeo.io/c/zonos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/zonos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/zonos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/zonos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Zonos?",
+    "url": "https://prospeo.io/c/zonos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Zonos generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/zonos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/zonos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/zonos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Zonos have?",
+    "url": "https://prospeo.io/c/zonos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/zonos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Clint Reid is listed as CEO at Zonos.",
+    "url": "https://fundediq.co/zonos-zonos-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Zonos have?",
+    "url": "https://fundediq.co/zonos-zonos-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/zonos-zonos-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/zonos-zonos-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "The procedures and figures in this article are based solely on official pages (Japan Post, Zonos, SafePackage, eBay, eBay Japan, and US Customs) accessed on October 21, 2026. All sources are listed at the end.",
+    "url": "https://note.com/sanukitrading/n/n4d4e7394abec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I, the author of this article, quit my previous job due to autonomic ataxia and started eBay for my family. I now delegate part of my daily work to AI. I have written about that journey for free.",
+    "url": "https://note.com/sanukitrading/n/n4d4e7394abec?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Sales have grown, and our warehouse and manual processes have been drastically reduced. Additionally, we don't receive nearly as many customer service emails or calls complaining about where a package is. Zonos has lowered the cost of the manual processes within the sales team and in the warehouse.",
+    "url": "https://zonos.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For press inquiries, email",
+    "url": "https://zonos.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/141105-07",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/zonos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Zonos team: 1 of 1 has an email address on file.",
+    "url": "https://fundediq.co/zonos-zonos-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/zonos-zonos-com-funding/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "in 2014. Rebranded from iGlobal Stores to",
+    "url": "https://zonos.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Rebranded from iGlobal Stores to Zonos",
+    "url": "https://zonos.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission has always been to increase trust in cross-border trade by making cross-border simple, transparent, and compliant. From APIs that integrate directly with custom setups to checkout experiences that make duty and tax collection easy for anyone, Zonos ensures international customers have good delivery experiences, building your brand in the process.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 1
+   },
+   {
+    "quote": "White-label Checkout offering for partners | Zonos Docs",
+    "url": "https://zonos.com/docs/global-ecommerce/integration/integrating-new-checkout/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Zonos offers a white-label solution that enables carriers, postal operators, and other partners to provide branded checkout experiences powered by Zonos technology. This solution provides international shipping, duty calculation, and compliance solutions to your merchants under your own brand.",
+    "url": "https://zonos.com/docs/global-ecommerce/integration/integrating-new-checkout/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "The Zonos white-label checkout offering is available on",
+    "url": "https://zonos.com/docs/global-ecommerce/integration/integrating-new-checkout/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "How white-label works",
+    "url": "https://zonos.com/docs/global-ecommerce/integration/integrating-new-checkout/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "All white-label implementations include the following features:",
+    "url": "https://zonos.com/docs/global-ecommerce/integration/integrating-new-checkout/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "The following features are not available in white-label implementations:",
+    "url": "https://zonos.com/docs/global-ecommerce/integration/integrating-new-checkout/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "The white-label solution is built using the Shopify design library for seamless integration within the Shopify admin.",
+    "url": "https://zonos.com/docs/global-ecommerce/integration/integrating-new-checkout/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "WooCommerce and BigCommerce white-label solutions include all standard features. Rating functionality is not available—partners must implement their own rating API or provide rate charts.",
+    "url": "https://zonos.com/docs/global-ecommerce/integration/integrating-new-checkout/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White-label partners typically print labels within their own branded systems rather than Zonos Dashboard. To support this, partners must complete Zonos certification to ensure labels and customs documentation meet compliance specifications.",
+    "url": "https://zonos.com/docs/global-ecommerce/integration/integrating-new-checkout/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "You'll need to implement an OAuth authentication flow to connect merchants to your white-labeled solution. This ensures secure validation that the merchant installing the app is authorized to use your services.",
+    "url": "https://zonos.com/docs/global-ecommerce/integration/integrating-new-checkout/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Define your branding requirements (colors, logos, language)",
+    "url": "https://zonos.com/docs/global-ecommerce/integration/integrating-new-checkout/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Interested in becoming a Zonos white-label partner?",
+    "url": "https://zonos.com/docs/global-ecommerce/integration/integrating-new-checkout/white-label",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本郵便 + Zonos - アプリ & Verified Accounts — Oct 1, 2026 · 日本郵便は米国および一部のEU仕向地への関税前払いに対応するためZonosと提携しました。 個人の発送者はZonosアプリを、法人はVerified Accountsを利用してラベルを作成できます。",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "クロスボーダーEコマースソリューション - Zonos — Zonosはクロスボーダー取引を支えるオペレーティングシステムです。 Shopifyストアから郵便事業者、米国税関まで、関税計算・関税分類・コンプライアンス基盤を提供します。",
+    "url": "https://zonos.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "Zonosとは？越境EC事業者が知るべき6つの機能を解説 | NEOlogi | 初期... — Aug 21, 2026 · この制度変更により、日本からの輸出者は米国税関・国境警備局（CBP）の認定事業者を通じて、事前に関税を納付（DDP方式）することがルール化されました。 これに対応するため、日本郵便はCBP認定事業者であるZonosと連携。",
+    "url": "https://solutions.neologi.jp/info/what_is_zonos/",
+    "pass": 3
+   },
+   {
+    "quote": "Zonos | FedEx 日本 — お得な運送料金で事業の変革を促進！ Zonosの越境テクノロジーは、簡単に既存のショッピングカートに追加できるプラグインによって越境販売の複雑さを取り除き、手続きを簡素化し、自動的にコンプライアンスを遵守します。",
+    "url": "https://www.fedex.com/ja-jp/shipping/industry-solutions/ecommerce/compatible/zonos.html",
+    "pass": 3
+   },
+   {
+    "quote": "Zonosドキュメント | クロスボーダーコマースAPI・連携 — Zonosドキュメント—AI駆動のHS分類、保証されたlanded cost、関税前払い、輸出対応、取引制限対象者スクリーニング、API・プラグイン・Dashboardによる法令準拠のクロスボーダー配送。",
+    "url": "https://zonos.com/ja/docs",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵便 + Zonos - アプリ & Verified Accounts — Oct 1, 2026 · 日本郵便は米国および一部のEU仕向地への関税前払いに対応するためZonosと提携しました。個人の発送者はZonosアプリを、法人はVerified Accountsを利用してラベルを作成できます。",
+    "url": "https://zonos.com/ja/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Post + Zonos - App & Verified Accounts | Zonos — Japan Post has partnered with Zonos for duty prepayment to the U.S. and select EU destinations. Individual shippers use the Zonos app; businesses use Verified Accounts to create labels.",
+    "url": "https://zonos.com/japan-post",
+    "pass": 3
+   },
+   {
+    "quote": "News - Japan Post — Jul 17, 2026 · The \"Zonos Dashboard\" allows users to create shipping labels via CSV upload or API integration, prepay duties, and create and print waybills for postal items sent with postage to be paid subsequently.",
+    "url": "https://www.post.japanpost.jp/service/send/oversea/information/2026/0717_01_en.html",
+    "pass": 3
+   },
+   {
+    "quote": "Zonos | FedEx Japan — Cross-border selling can be daunting, but Zonos makes it easy. Zonos is a technology solution that simplifies cross-border selling while you maintain control of your business, data, and packages.",
+    "url": "https://www.fedex.com/en-jp/shipping/industry-solutions/ecommerce/compatible/zonos.html",
+    "pass": 3
+   },
+   {
+    "quote": "How to add your Zonos account to Ship&co (Japan Post DDP) — Oct 7, 2026 · When creating a shipping label for an order from Japan to the US or to a supported EU destination, select Zonos as the carrier to create a Japan Post DDP shipment.",
+    "url": "https://support.shipandco.com/hc/en-us/articles/58810470814361-How-to-add-your-Zonos-account-to-Ship-co-Japan-Post-DDP",
+    "pass": 3
+   },
+   {
+    "quote": "White-label Checkout offering for partners | Zonos Docs — This solution provides international shipping, duty calculation, and compliance solutions to your merchants under your own brand. The Zonos white-label checkout offering is available on Shopify, WooCommerce, and BigCommerce.",
+    "url": "https://zonos.com/docs/global-ecommerce/integration/integrating-new-checkout/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Zonos 2026 Company Profile: Valuation, Funding & Investors ...Zonos – Company Insights & Financial Strength – 2026Zonos Revenue, Funding & ValuationZonos: Funding, Investors & Team (Nov 2026) | FundedIQZonos: Funding, Team & Investors | Startup IntrosZonos — Funding, Investors & Signals 2026 - Bounce WatchZonos — venture-backed company profile | Dealroom — Information on valuation, funding, cap ta",
+    "url": "https://pitchbook.com/profiles/company/141105-07",
+    "pass": 3
+   },
+   {
+    "quote": "Zonos – Company Insights & Financial Strength – 2026 — Revenue, valuation, and funding figures for Zonos are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods. Employee counts are derived from professional networks and company disclosures.",
+    "url": "https://compworth.com/company/zonos",
+    "pass": 3
+   },
+   {
+    "quote": "Zonos Revenue, Funding & Valuation — Zonos has revenue of $12,500,000, estimated valuation of $39,800,000, $69,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/zonos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Zonos: Funding, Investors & Team (Nov 2026) | FundedIQ — Zonos has raised $69.0M across 1 funding round on record, the most recent a Series A of $69.0M announced in Sep 2021. That round is above the $3.9M median round size for Commerce and Shopping companies tracked on FundedIQ over the last two years.",
+    "url": "https://fundediq.co/zonos-zonos-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Zonos: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Clint Reid founded Zonos in 2009, driven by the insight that international online sales were unnecessarily complicated by varying duties, taxes, and trade regulations.",
+    "url": "https://startupintros.com/orgs/zonos",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[October 2026 Edition] Complete Procedure for Shipping to the ... In this article, I have read the official pages and operation manuals of Japan Post and Zonos, and summarized the procedures for shipping to the U.S., how to calculate costs, and settings on eBay in order.",
+    "url": "https://note.com/sanukitrading/n/n4d4e7394abec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵便がアメリカ向け貨物の引き受け再開！新制度「Zonos」と関税ル... Apr 14, 2026 · 本記事では、アメリカ輸出における最新の発送ルールや、新たに導入されたアプリ「Zonos Prepay」の仕組み、そして今後の運用上の注意点について詳しくまとめました。",
+    "url": "https://note.com/ebayshopify/n/n3f39ecac3e7b",
+    "pass": 3
+   },
+   {
+    "quote": "eBay100ドル超のアメリカ発送｜Zonos・DDPの実体験 Jun 21, 2026 · Zonosで関税等を事前支払いし、DDP表示付きラベルを作成し、指定郵便局へ持ち込む必要があります。 この記事は2026年6月時点の実体験です。 日本郵便・Zonos・米国税関のルールは変更される可能性があるため、発送前には必ず公式情報を確認してください。",
+    "url": "https://note.com/sumobiz/n/n5c7a80d52ca4",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年8月版】日本郵便でのアメリカへのZonosアプリでの発送の仕方... Aug 2, 2026 · 日本郵便でアメリカに販売した品物を発送が再開されましたが、新たにアプリを使用して伝票を発行し、DDP（関税の先払い）が必要になりました。 （ただし、 ・100USD以下の書状、はがき、印刷物、EMS（書類）個人間の贈答品 ・2,500USD超の販売品 はDDP対象外） 今回実際に発送してみましたので ...",
+    "url": "https://note.com/long_hare2578/n/n2a4e6ef50e68",
+    "pass": 3
+   },
+   {
+    "quote": "ZONOS2とは？無料で使える高品質日本語音声クローンAIの使い方ガイド 【要約】 ZONOS2はZyphraが2026年6月に公開したオープンソース音声生成AI。600万時間超のデータで訓練されたMoEモデル（総80億パラメータ、アクティブ9億）で、10-30秒の音声サンプルから高精度ゼロショットクローニングが可能。43言語対応し、日本語はTier1（最上位）で自然な発音を実現。CD品質（44 ...",
+    "url": "https://note.com/aki_moonfuyusun/n/n0c26b367717b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Japan Post Shipping to the US [Changes effective October 15, 2026] Acceptance at post offices nationwide, advance declaration required for items under $100, Zonos/SafePackage procedures | Latest version for eBay sellers｜sanuki",
+    "url": "https://note.com/sanukitrading/n/n4d4e7394abec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Post Shipping to the US [Changes effective October 15, 2026] Acceptance at post offices nationwide, advance declaration required for items under $100, Zonos/SafePackage procedures | Latest version for eBay sellers",
+    "url": "https://note.com/sanukitrading/n/n4d4e7394abec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Updated November 8, 2026] Reflected the follow-up report from Japan Post on October 23 (advance declaration for documents and personal gifts under $100 is optional until January 19, 2027; items cannot be sent as printed matter).",
+    "url": "https://note.com/sanukitrading/n/n4d4e7394abec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I want to send items to the US via Japan Post. But which post office should I take them to? What do I need to do first? The information changes every time I look it up.",
+    "url": "https://note.com/sanukitrading/n/n4d4e7394abec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The reason for this confusion is clear. It is because Japan Post's rules for shipments to the US changed on October 15, 2026. Information written before that date is now outdated.",
+    "url": "https://note.com/sanukitrading/n/n4d4e7394abec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I will start with the conclusion. Since October 15, the following three things have changed.",
+    "url": "https://note.com/sanukitrading/n/n4d4e7394abec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In principle, all post offices now accept shipments to the US",
+    "url": "https://note.com/sanukitrading/n/n4d4e7394abec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Advance declaration is now required for all items valued at $2,500 or less (for documents and personal gifts under $100, this became optional until January 19, 2027, per the October 23 follow-up report)",
+    "url": "https://note.com/sanukitrading/n/n4d4e7394abec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵便がアメリカ向け貨物の引き受け再開！新制度「Zonos」と関税ルールを徹底解説｜Anna｜越境EC・トレカアナリスト",
+    "url": "https://note.com/ebayshopify/n/n3f39ecac3e7b",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵便がアメリカ向け貨物の引き受け再開！新制度「Zonos」と関税ルールを徹底解説",
+    "url": "https://note.com/ebayshopify/n/n3f39ecac3e7b",
+    "pass": 3
+   },
+   {
+    "quote": "越境ECセラーの皆様に待望のニュースが入ってきました。",
+    "url": "https://note.com/ebayshopify/n/n3f39ecac3e7b",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵便がアメリカ向け全ての郵便物の引き受けを再開しました",
+    "url": "https://note.com/ebayshopify/n/n3f39ecac3e7b",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、今回の再開にはこれまでになかった「新しい関税支払い制度」の導入が条件となっています。",
+    "url": "https://note.com/ebayshopify/n/n3f39ecac3e7b",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、アメリカ輸出における最新の発送ルールや、新たに導入されたアプリ「Zonos Prepay」の仕組み、そして今後の運用上の注意点について詳しくまとめました。ニュースなどの公式発表だけでは不透明な点も多かったため、私自身が日本郵便へ直接問い合わせて詳細を確認しました。",
+    "url": "https://note.com/ebayshopify/n/n3f39ecac3e7b",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは。中上級者向けの越境物販スクール「NEXT STAGE」を運営しているAnnaです。Shopifyコンサルタント・海外マーケターとして、越境ECや海外向け販売の支援を行っています。",
+    "url": "https://note.com/ebayshopify/n/n3f39ecac3e7b",
+    "pass": 3
+   },
+   {
+    "quote": "このnoteでは、越境ECセラーの皆さんに向けて、実践に役立つ情報や最新ニュース、マーケティング・経営に関する私自身の考えを発信しています。少しでも海外取引がある方々の参考になれば幸いです。",
+    "url": "https://note.com/ebayshopify/n/n3f39ecac3e7b",
+    "pass": 3
+   },
+   {
+    "quote": "eBay100ドル超のアメリカ発送｜Zonos・DDPの実体験｜スモビジ＠福業カウンセラー",
+    "url": "https://note.com/sumobiz/n/n5c7a80d52ca4",
+    "pass": 3
+   },
+   {
+    "quote": "eBay100ドル超のアメリカ発送｜Zonos・DDPの実体験",
+    "url": "https://note.com/sumobiz/n/n5c7a80d52ca4",
+    "pass": 3
+   },
+   {
+    "quote": "米国宛てに100USドル超の販売品を日本郵便で送る場合、近所の郵便局へラベルを持ち込むだけでは完了しません。",
+    "url": "https://note.com/sumobiz/n/n5c7a80d52ca4",
+    "pass": 3
+   },
+   {
+    "quote": "Zonosで関税等を事前支払いし、DDP表示付きラベルを作成し、指定郵便局へ持ち込む必要があります。",
+    "url": "https://note.com/sumobiz/n/n5c7a80d52ca4",
+    "pass": 3
+   },
+   {
+    "quote": "この記事は2026年6月時点の実体験です。日本郵便・Zonos・米国税関のルールは変更される可能性があるため、発送前には必ず公式情報を確認してください。",
+    "url": "https://note.com/sumobiz/n/n5c7a80d52ca4",
+    "pass": 3
+   },
+   {
+    "quote": "・内容品名 Four plastic toy figures",
+    "url": "https://note.com/sumobiz/n/n5c7a80d52ca4",
+    "pass": 3
+   },
+   {
+    "quote": "米国宛て郵便物のうち、100USドル超から800USドル以下の区分では、関税等の事前支払いとDDP表示が条件になります。日本郵便は、CBP認証を受けた事業者のアプリを使い、利用者自身が米国税関へ事前に支払う仕組みを案内しています。",
+    "url": "https://note.com/sumobiz/n/n5c7a80d52ca4",
+    "pass": 3
+   },
+   {
+    "quote": "※この区分の金額や条件は2026年6月時点のものです。実際の発送前に最新の案内を確認してください。",
+    "url": "https://note.com/sumobiz/n/n5c7a80d52ca4",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年8月版】日本郵便でのアメリカへのZonosアプリでの発送の仕方【EMS・ebay等】｜くろねこぜ",
+    "url": "https://note.com/long_hare2578/n/n2a4e6ef50e68",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年8月版】日本郵便でのアメリカへのZonosアプリでの発送の仕方【EMS・ebay等】",
+    "url": "https://note.com/long_hare2578/n/n2a4e6ef50e68",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵便でアメリカに販売した品物を発送が再開されましたが、新たにアプリを使用して伝票を発行し、DDP（関税の先払い）が必要になりました。",
+    "url": "https://note.com/long_hare2578/n/n2a4e6ef50e68",
+    "pass": 3
+   },
+   {
+    "quote": "・100USD以下の書状、はがき、印刷物、EMS（書類）個人間の贈答品",
+    "url": "https://note.com/long_hare2578/n/n2a4e6ef50e68",
+    "pass": 3
+   },
+   {
+    "quote": "今回実際に発送してみましたのでやり方を記していきます。",
+    "url": "https://note.com/long_hare2578/n/n2a4e6ef50e68",
+    "pass": 3
+   },
+   {
+    "quote": "郵便局の公式サイトにダウンロード方法が載っています。",
+    "url": "https://note.com/long_hare2578/n/n2a4e6ef50e68",
+    "pass": 3
+   },
+   {
+    "quote": "と生産国を選択し、「次へ」をクリックします。",
+    "url": "https://note.com/long_hare2578/n/n2a4e6ef50e68",
+    "pass": 3
+   },
+   {
+    "quote": "そして、次の「写真で追加」をクリックして送る品物の写真を撮影します。",
+    "url": "https://note.com/long_hare2578/n/n2a4e6ef50e68",
+    "pass": 3
+   },
+   {
+    "quote": "ZONOS2とは？無料で使える高品質日本語音声クローンAIの使い方ガイド｜秋月冬陽",
+    "url": "https://note.com/aki_moonfuyusun/n/n0c26b367717b",
+    "pass": 3
+   },
+   {
+    "quote": "ZONOS2とは？無料で使える高品質日本語音声クローンAIの使い方ガイド",
+    "url": "https://note.com/aki_moonfuyusun/n/n0c26b367717b",
+    "pass": 3
+   },
+   {
+    "quote": "ZONOS2はZyphraが2026年6月に公開したオープンソース音声生成AI。600万時間超のデータで訓練されたMoEモデル（総80億パラメータ、アクティブ9億）で、10-30秒の音声サンプルから高精度ゼロショットクローニングが可能。43言語対応し、日本語はTier1（最上位）で自然な発音を実現。CD品質（44.1kHz）、感情制御、コードスイッチング、非定型発話にも強い。最大の魅力は完全無料（Apache 2.0）で商用利用可。NVIDIA GPU（推奨VRAM16GB以上、RTX 4060 Tiクラス）搭載PCでローカル実行でき、ランニングコストほぼゼロ。有料TTSの代替として長期的にコスト削減効果大。インストールはGitHubからuv使用、Web UI（ポート1919）やPython APIで利用可能。WindowsはWSL2推奨。活用例はYouTubeナレーション、ポッドキャスト",
+    "url": "https://note.com/aki_moonfuyusun/n/n0c26b367717b",
+    "pass": 3
+   },
+   {
+    "quote": "ZONOS2（Zyphra製、2026年6月公開）は実在。MoEアーキテクチャ（総パラメータ80億、アクティブ9億）、600万時間超の学習データ、43言語対応、44.1kHz出力、日本語Tier1（英語・中国語と同等）は公式HF/Githubで確認。ゼロショットクローニング（10-30秒サンプル）、感情制御、UTF-8バイト入力、Apache 2.0商用無料も正確。NVIDIA GPU必須（推奨16GB VRAM）、インストール手順・コマンドも公式通り。AMD協力の記述は一部強調過多だが全体的に事実ベース。重大な誤りなし。",
+    "url": "https://note.com/aki_moonfuyusun/n/n0c26b367717b",
+    "pass": 3
+   },
+   {
+    "quote": "ZONOS2は、2026年6月に公開された無料の音声生成AIです。たった数秒の音声サンプルから、その人の声を再現して任意の文章を読み上げます。日本語は英語や中国語と同じ最高品質に対応しており、商用利用も完全無料という画期的な特徴があります。",
+    "url": "https://note.com/aki_moonfuyusun/n/n0c26b367717b",
+    "pass": 3
+   },
+   {
+    "quote": "このAIを使えば、有料サービスと同等の品質を、初期費用のみで実現できます。ただし、NVIDIA製GPUを搭載したパソコンが必要で、技術的なハードルは中級者レベルです。長期的にコンテンツ制作コストを削減したい方、プライバシーを重視する方に最適な選択肢となります。",
+    "url": "https://note.com/aki_moonfuyusun/n/n0c26b367717b",
+    "pass": 3
+   },
+   {
+    "quote": "ZONOS2は米国AI企業Zyphraが開発した最新モデルで、AMDとの協力により実現しました。前作から大幅に進化し、総パラメータ数は約80億、そのうち実際に動作するアクティブパラメータは約9億です。この設計をMoE（Mixture of Experts：専門家混合）アーキテクチャと呼び、効率的な処理を可能にしています。",
+    "url": "https://note.com/aki_moonfuyusun/n/n0c26b367717b",
+    "pass": 3
+   },
+   {
+    "quote": "学習に使用された音声データは600万時間を超え、前作の約30倍の規模になります。この膨大なデータにより、43言語に対応し、出力音質はCD品質の44.1kHzを実現しました。処理速度は前作の4倍に高速化され、リアルタイムに近い応答が可能です。",
+    "url": "https://note.com/aki_moonfuyusun/n/n0c26b367717b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Zonos (@zonos) / X Zonos SaaS solutions simplify cross-border commerce with APIs and software that provide businesses with the tools and data they need to scale globally.",
+    "url": "https://x.com/Zonos",
+    "pass": 3
+   },
+   {
+    "quote": "zonos (@__Carnage) / X Aug 11 Need to do two more shipments then Japan trip cover 62 zonos @__Carnage Aug 11 I'm more ready to move than my birthday coming up",
+    "url": "https://x.com/__Carnage",
+    "pass": 3
+   },
+   {
+    "quote": "Big news: Zonos has acquired Evolve Trade Services, a ... We're launching Zonos Brokerage Services: clearance built into the compliance infrastructure 50,000+ merchants and 70+ postal operators already trust. When new U.S. postal entry requirements land, brokerage will already be built in.",
+    "url": "https://x.com/zonos/status/2049844982689804706",
+    "pass": 3
+   },
+   {
+    "quote": "Zyphra on X: \"How does it sound? ZONOS3-Mini ranks #1 among ... Meet ZONOS3-Mini: open-source text-to-speech with voice cloning and word-level control. All on-device and super fast. Every voice in this video is from a TTS model that can run real-time on a phone. Comment “ZONOS” within 2 days for 20 hours of free audio. Sound on 🔊 00:00 Made with AI 17 24 77 11K Zyphra @ZyphraAI 1h",
+    "url": "https://x.com/ZyphraAI/status/2119914906938232981",
+    "pass": 3
+   },
+   {
+    "quote": "Zonos (@zonos) / X Learn how the Universal Postal Union and Zonos are building DDP into the U.S. and the world in episode 66 of Decoding Cross-Border Ecommerce with hosts @clintreid & @AaronBezzant, joined by David Avsec from the UPU.",
+    "url": "https://x.com/Zonos",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Zonos - LinkedIn Zonos creates products that allow businesses to take complete control of their cross-border trade experience. Our SaaS solutions alleviate the headaches of cross-border trade.",
+    "url": "https://www.linkedin.com/company/zonos",
+    "pass": 3
+   },
+   {
+    "quote": "Clint Reid - Zonos | LinkedInSonos, Inc. | LinkedInCody Guymon - President @ Zonos | LinkedInAaron Bezzant - Zonos | LinkedInZyphra Unveils the Beta Release of Zonos: A Cutting-Edge ...IEEPA enforcement changes: What you need to know | Zonos ... Experience: Zonos · Education: University of Utah · Location: St George · 500+ connections on LinkedIn. View Clint Reid’s profile on LinkedIn, a professio",
+    "url": "https://www.linkedin.com/in/clintjreid",
+    "pass": 3
+   },
+   {
+    "quote": "Cody Guymon - President @ Zonos | LinkedInAaron Bezzant - Zonos | LinkedInZyphra Unveils the Beta Release of Zonos: A Cutting-Edge ...IEEPA enforcement changes: What you need to know | Zonos ... Over the past decade+, I have been a strategic GTM leader- for Vivint, Qualtrics, Workato, and now Zonos. I currently lead Sales, CS, Operations, and Marketing. · Experience: Zonos · Education: Utah State ",
+    "url": "https://www.linkedin.com/in/codyguymon",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Zonos - FacebookSonos - FacebookZonos - FacebookZonos - FacebookZonos - FacebookWhen your speakers sync up, it’s not magic. But it’s not -not ...I finally upgraded my apartment to my dream Sonos home ... Sep 5, 2025 · Here's what he has to say: \"I love being at Zonos! We work hard to understand cross-border inside and out so our customers can stay focused on their products and growth.\" Sep 1, 2026",
+    "url": "https://www.facebook.com/zonos.crossborder/",
+    "pass": 3
+   },
+   {
+    "quote": "Sonos - FacebookZonos - FacebookZonos - FacebookZonos - FacebookWhen your speakers sync up, it’s not magic. But it’s not -not ...I finally upgraded my apartment to my dream Sonos home ... Sep 1, 2026 · Sonos. 912,592 followers · 11,786 talking about this. Love the sound. Feel the system. Build yours at sonos.com. Jan 19, 2017 · Saludos! Somos una banda de Rock Alternativo en español y estamos muy ",
+    "url": "https://www.facebook.com/sonos/",
+    "pass": 3
+   },
+   {
+    "quote": "Zonos - Facebook Jan 19, 2017 · Saludos! Somos una banda de Rock Alternativo en español y estamos muy emocionados por la salida de nuestro EP \"Indicios\". Pueden pegarle la revisada por acá https://zonos.bandcamp.com/releases Nos gustaría que dejaran sus comentarios y opiniones. Gracias por escuchar y compartir nuestra música.",
+    "url": "https://www.facebook.com/zonoscr/",
+    "pass": 3
+   },
+   {
+    "quote": "Zonos - Facebook Sep 26, 2024 · Promotional video for new album. Details below YOUTUBE.COM Zonos - Live at ze Meadows",
+    "url": "https://www.facebook.com/p/Zonos-100063900159713/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://zonos.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zonos.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zonos.com/japan-post",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zonos.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zonos.com/solutions-architect-99a76969-a9b7-4d63-8908-fd9187d0d53e.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zonos.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://zonos.com/images/customers/funko.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://zonos.com/images/customers/jaxxon.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://zonos.com/images/customers/spier_mackay.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://zonos.com/images/customers/traxxas.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://zonos.com/ja/japan-post",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zonos.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://solutions.neologi.jp/info/what_is_zonos/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fedex.com/ja-jp/shipping/industry-solutions/ecommerce/compatible/zonos.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zonos.com/ja/japan-post",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://context.reverso.net/%E7%BF%BB%E8%A8%B3/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E8%8B%B1%E8%AA%9E/%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://zonos.com/ja/japan-post",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zonos.com/japan-post",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.post.japanpost.jp/service/send/oversea/information/2026/0717_01_en.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fedex.com/en-jp/shipping/industry-solutions/ecommerce/compatible/zonos.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zonos.com/docs/global-ecommerce/integration/integrating-new-checkout/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/141105-07",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/zonos",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/zonos-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/zonos-zonos-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sanukitrading/n/n4d4e7394abec?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ebayshopify/n/n3f39ecac3e7b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sumobiz/n/n5c7a80d52ca4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/long_hare2578/n/n2a4e6ef50e68",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Zonos",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/__Carnage",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/zonos/status/2049844982689804706",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ZyphraAI/status/2119914906938232981",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/zonos",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/clintjreid",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/codyguymon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zonos.crossborder/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sonos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zonoscr/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Zonos-100063900159713/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Zonos",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/aki_moonfuyusun/n/n0c26b367717b",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Zonos 日本 導入",
+   "results": [
+    "https://zonos.com/ja/japan-post",
+    "https://zonos.com/ja",
+    "https://solutions.neologi.jp/info/what_is_zonos/",
+    "https://www.fedex.com/ja-jp/shipping/industry-solutions/ecommerce/compatible/zonos.html",
+    "https://zonos.com/ja/docs",
+    "https://note.com/ebayshopify/n/n3f39ecac3e7b",
+    "https://journal.zen.one/japan-post-eu-ddp-dap-customs-update/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zonos 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://zonos.com/ja/japan-post",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.sidebizz.net/blog/agent/general-agency/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zonos Japan",
+   "results": [
+    "https://zonos.com/ja/japan-post",
+    "https://zonos.com/japan-post",
+    "https://www.post.japanpost.jp/service/send/oversea/information/2026/0717_01_en.html",
+    "https://www.fedex.com/en-jp/shipping/industry-solutions/ecommerce/compatible/zonos.html",
+    "https://support.shipandco.com/hc/en-us/articles/58810470814361-How-to-add-your-Zonos-account-to-Ship-co-Japan-Post-DDP",
+    "https://note.com/long_hare2578/n/n2a4e6ef50e68",
+    "https://www.post.japanpost.jp/service/send/oversea/information/2026/0717_01.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zonos manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Zonos white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://zonos.com/docs/global-ecommerce/integration/integrating-new-checkout/white-label",
+    "https://partner.vw.com/",
+    "https://partners.spectrum.com/",
+    "https://upcloud.com/partner-program/",
+    "https://www.reseller.co.nz/",
+    "https://www.zoho.com/partners/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zonos founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/141105-07",
+    "https://compworth.com/company/zonos",
+    "https://prospeo.io/c/zonos-revenue",
+    "https://fundediq.co/zonos-zonos-com-funding/",
+    "https://startupintros.com/orgs/zonos",
+    "https://bouncewatch.com/company/zonos",
+    "https://dealroom.co/companies/zonos/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Zonos",
+   "results": [
+    "https://note.com/sanukitrading/n/n4d4e7394abec?hl=en",
+    "https://note.com/ebayshopify/n/n3f39ecac3e7b",
+    "https://note.com/sumobiz/n/n5c7a80d52ca4",
+    "https://note.com/long_hare2578/n/n2a4e6ef50e68",
+    "https://note.com/sanukitrading/n/n4d4e7394abec",
+    "https://note.com/sumobiz/n/n5c7a80d52ca4?hl=en",
+    "https://note.com/long_hare2578/n/n2a4e6ef50e68?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Zonos",
+   "results": [
+    "https://x.com/Zonos",
+    "https://x.com/__Carnage",
+    "https://x.com/zonos/status/2049844982689804706",
+    "https://x.com/ZyphraAI/status/2119914906938232981",
+    "https://x.com/ZyphraAI/status/2119914895861076151",
+    "https://x.com/NVIDIAAIInfra/status/2119923000158065066",
+    "https://x.com/zonos/status/2050319575510888840"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Zonos",
+   "results": [
+    "https://www.linkedin.com/company/zonos",
+    "https://www.linkedin.com/in/clintjreid",
+    "https://www.linkedin.com/company/sonos-inc-/",
+    "https://www.linkedin.com/in/codyguymon",
+    "https://www.linkedin.com/in/aaronbezzant",
+    "https://www.linkedin.com/pulse/zyphra-unveils-beta-release-zonos-cutting-edge-expressive-mungi-b0jjc",
+    "https://www.linkedin.com/posts/zonos_de-minimis-is-gone-what-does-it-mean-activity-7359017290438221824-awOA"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Zonos",
+   "results": [
+    "https://www.facebook.com/zonos.crossborder/",
+    "https://www.facebook.com/sonos/",
+    "https://www.facebook.com/zonoscr/",
+    "https://www.facebook.com/p/Zonos-100063900159713/",
+    "https://www.facebook.com/100063900159713/",
+    "https://www.facebook.com/sonos/videos/better-together/1405933241756038/",
+    "https://www.facebook.com/sonos/videos/sonos-home-theater/1988420375475262/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zonos note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://zonos.com/about-us",
+    "https://www.zaikai.jp/articles/detail/2552",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zonos X 投稿",
+   "results": [
+    "https://x.com/Zonos",
+    "https://zonos.com/ja/japan-post",
+    "https://zonos.com/",
+    "https://note.com/aki_moonfuyusun/n/n0c26b367717b",
+    "https://imellom.hatenablog.com/entry/2026/09/11/092519",
+    "https://note.com/long_hare2578/n/n2a4e6ef50e68",
+    "https://x.com/shipandco/status/2070058310200660121"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部37頁・検索12回）"
+ }
+}

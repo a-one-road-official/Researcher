@@ -1,0 +1,1211 @@
+{
+ "name": "Snapmagic",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜送付済み",
+ "researched_at": "2026-11-11T05:35:45.922045+00:00",
+ "official_url": "https://www.snapmagic.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "6. Seed Round",
+    "value": "10-Oct-2023 $4.11M   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/96724-36",
+    "pass": 3
+   },
+   {
+    "label": "5. Seed Round",
+    "value": "11-Mar-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/96724-36",
+    "pass": 3
+   },
+   {
+    "label": "Seed-2",
+    "value": "1,885 $0.000010 5% $7.95 $7.95 1x $7.95 0.12%",
+    "url": "https://pitchbook.com/profiles/company/96724-36",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "163,433 $0.000010 5% $3.18 $3.18 1x $3.18 10.04%",
+    "url": "https://pitchbook.com/profiles/company/96724-36",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2013",
+    "url": "https://startupintros.com/orgs/snapmagic",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "San Francisco, CA, USA",
+    "url": "https://startupintros.com/orgs/snapmagic",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "With SnapMagic, take your entire bill of materials (BOM) and streamline it effortlessly. Prioritize factors like cost or power and SnapMagic will suggest optimizations, including new components, to you.",
+    "url": "https://www.snapmagic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The industry was desperately seeking a solution - a platform where engineers could instantly access digital models for millions of electronic components. A platform that would help them innovate better products...",
+    "url": "https://www.snapmagic.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Today, we proudly serve",
+    "url": "https://www.snapmagic.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "But it's more than just a tool. Born from a simple yet profound problem, SnapMagic is a revolution. It's our response to complexity, transforming intricate tasks into beautifully simple processes.",
+    "url": "https://www.snapmagic.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "PROMPT48",
+    "url": "https://powergpt.info/poweredgpt-blog/f/%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%B3%E3%83%90%E3%83%AC%E3%83%BC-ai-%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E6%8E%A2%E8%A8%AA-055-snapmagic",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic Videos on YouTube",
+    "url": "https://www.toolmage.com/ja/tool/snapmagic/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Circuit Design #ai #aivideo #viral #tech #motivation",
+    "url": "https://www.toolmage.com/ja/tool/snapmagic/",
+    "pass": 3
+   },
+   {
+    "quote": "Allegro (V16 & Prior)",
+    "url": "https://www.snapeda.com/jp/about/import/",
+    "pass": 3
+   },
+   {
+    "quote": "ファイルをあなたのpadstackパスに追加する(",
+    "url": "https://www.snapeda.com/jp/about/import/",
+    "pass": 3
+   },
+   {
+    "quote": "1. ファイルをpadstackパスに追加する",
+    "url": "https://www.snapeda.com/jp/about/import/",
+    "pass": 3
+   },
+   {
+    "quote": "Product Utilities > PCB Editor Utilities > Padstack Editor...",
+    "url": "https://www.snapeda.com/jp/about/import/",
+    "pass": 3
+   },
+   {
+    "quote": "Setup > User Preferences",
+    "url": "https://www.snapeda.com/jp/about/import/",
+    "pass": 3
+   },
+   {
+    "quote": "Preferences > Component Libraries",
+    "url": "https://www.snapeda.com/jp/about/import/",
+    "pass": 3
+   },
+   {
+    "quote": "Preferences > Footprint Libraries Wizard",
+    "url": "https://www.snapeda.com/jp/about/import/",
+    "pass": 3
+   },
+   {
+    "quote": "Preferences > Library.",
+    "url": "https://www.snapeda.com/jp/about/import/",
+    "pass": 3
+   },
+   {
+    "quote": "Preferences > Library",
+    "url": "https://www.snapeda.com/jp/about/import/",
+    "pass": 3
+   },
+   {
+    "quote": "3D STEPファイルをPADS layoutフットプリントにリンクする方法",
+    "url": "https://www.snapeda.com/jp/about/import/",
+    "pass": 3
+   },
+   {
+    "quote": "View > PADS 3D",
+    "url": "https://www.snapeda.com/jp/about/import/",
+    "pass": 3
+   },
+   {
+    "quote": "File > Import > PADS Logic",
+    "url": "https://www.snapeda.com/jp/about/import/",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic Search | Free PCB Footprints and Schematic Symbols",
+    "url": "https://www.snapeda.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Download millions of free symbols & footprints instantly to design better products faster.",
+    "url": "https://www.snapeda.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Find the best components for your designs, complete with datasheets, specs, pricing, & more.",
+    "url": "https://www.snapeda.com/",
+    "pass": 3
+   },
+   {
+    "quote": "See whether a footprint is manufacturable with real-time automated checks. Our patented verification technology will give you instant transparency.",
+    "url": "https://www.snapeda.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Products built with SnapMagic Search Parts",
+    "url": "https://www.snapeda.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We break down barriers so they can bring new products to life faster.",
+    "url": "https://www.snapeda.com/",
+    "pass": 3
+   },
+   {
+    "quote": "By providing the building blocks needed to design new products, we aim to help improve the world with more impactful products.",
+    "url": "https://www.snapeda.com/",
+    "pass": 3
+   },
+   {
+    "quote": "“I used SnapMagic Search while working in Samsung Research America. I had to switch from one design tool to another and I used SnapMagic Search to get most of the footprints for my design. It helped save a lot of time before starting the real PCB design. I would highly recommend trying SnapMagic Search not only for footprints but also to find other product information.”",
+    "url": "https://www.snapeda.com/",
+    "pass": 3
+   },
+   {
+    "quote": "“I've used SnapMagic Search for footprints and symbols for complex microcontrollers and saved myself hours of CAD time per part. At Screaming Circuits, we build dozens of different board designs each day, and footprint errors are one of the most common design problems we see. I've started recommending SnapMagic Search to our customers to help them avoid those problems.”",
+    "url": "https://www.snapeda.com/",
+    "pass": 3
+   },
+   {
+    "quote": ", Chief Technology Champion/Marketing Manager,",
+    "url": "https://www.snapeda.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic is the leading platform for electrical engineers, helping more than 2 million engineers design products like drones, electric vehicles, robotics systems, and VR headsets faster.",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "With strong revenue growth, proven product-market fit, and recent backing from leading Silicon Valley investors, we're entering our next phase of growth.",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "We don't think of Customer Success as a support function—we think of it as the team responsible for protecting and growing one of our most valuable assets: long-term customer relationships.",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "Many of our customers have partnered with us for years. They've built critical workflows around SnapMagic, trust our team, and rely on us as a strategic partner. As we continue to grow, preserving and strengthening those relationships becomes even more important.",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "That's why we're hiring our first",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "You'll own the entire customer experience, retention strategy, expansion revenue, and the systems that power Customer Success. You'll also partner closely with the founders to shape customer strategy, influence product direction, and help guide the company's next stage of growth.",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "Own renewals, retention, and account expansion. Build ROI-driven business cases, identify upsell opportunities, and partner with customers to grow their investment in SnapMagic over time.",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "Build trusted relationships with key customer stakeholders. Lead business reviews, understand evolving customer goals, proactively identify risks, and guide customers toward successful outcomes.",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Operations & Process Support:",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "Build and improve the systems, processes, and playbooks that power Customer Success. Develop scalable approaches to onboarding, customer health monitoring, renewals, reporting, and account planning as the company grows.",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "Become an expert in SnapMagic's products and customer workflows. Help customers navigate technical challenges, diagnose issues, and drive resolution in partnership with Product and Engineering.",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "This is a hands-on leadership role. Today, you'll personally own onboarding, customer success, renewals, expansion, and customer advocacy. Over time, you'll build the function and team—but first, you'll lead by doing.",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "at an early stage B2B SaaS company where you created the processes",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "and customer retention metrics",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "and passion for delighting customers and driving their success. Proactive, empathetic, and dedicated to delivering exceptional customer experiences.",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "with a track record of improving processes and building scalable systems",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "and solving problems independently",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "to identify trends, track customer health, and drive insights for continuous improvement.",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "Prefer creating systems from scratch rather than working around broken ones",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "Can move seamlessly between customer conversations and spreadsheet analysis",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "Know when to advise, when to sell, and when to jump in and solve the problem yourself.",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "At SnapMagic, we believe in fostering an environment where your career thrives, and your well-being is prioritized. Join us and enjoy the following perks and benefits!",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive Medical, Dental and Vision coverage + dependent coverage",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "The expected salary range for this role is $170-$220,000, with the opportunity for significant variable incentive, along with equity. Job level and salary opportunities are evaluated through our interview process.",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic is the leading platform for electrical engineers, helping more than 1.5 million engineers design products like drones, electric vehicles, robotics systems, and VR headsets faster.",
+    "url": "https://www.ycombinator.com/companies/snapmagic/jobs/eriIncs-head-of-customer-success",
+    "pass": 3
+   },
+   {
+    "quote": "With strong revenue growth, proven product-market fit, and recent backing from leading Silicon Valley investors, we're entering our next phase of growth.",
+    "url": "https://www.ycombinator.com/companies/snapmagic/jobs/eriIncs-head-of-customer-success",
+    "pass": 3
+   },
+   {
+    "quote": "We don't think of Customer Success as a support function—we think of it as the team responsible for protecting and growing one of our most valuable assets: long-term customer relationships.",
+    "url": "https://www.ycombinator.com/companies/snapmagic/jobs/eriIncs-head-of-customer-success",
+    "pass": 3
+   },
+   {
+    "quote": "Many of our customers have partnered with us for years. They've built critical workflows around SnapMagic, trust our team, and rely on us as a strategic partner. As we continue to grow, preserving and strengthening those relationships becomes even more important.",
+    "url": "https://www.ycombinator.com/companies/snapmagic/jobs/eriIncs-head-of-customer-success",
+    "pass": 3
+   },
+   {
+    "quote": "That's why we're hiring our first",
+    "url": "https://www.ycombinator.com/companies/snapmagic/jobs/eriIncs-head-of-customer-success",
+    "pass": 3
+   },
+   {
+    "quote": "You'll own the entire customer experience, retention strategy, expansion revenue, and the systems that power Customer Success. You'll also partner closely with the founders to shape customer strategy, influence product direction, and help guide the company's next stage of growth.",
+    "url": "https://www.ycombinator.com/companies/snapmagic/jobs/eriIncs-head-of-customer-success",
+    "pass": 3
+   },
+   {
+    "quote": "Own renewals, retention, and account expansion. Build ROI-driven business cases, identify upsell opportunities, and partner with customers to grow their investment in SnapMagic over time.",
+    "url": "https://www.ycombinator.com/companies/snapmagic/jobs/eriIncs-head-of-customer-success",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "When your design is ready for manufacturing, check out your bill-of-materials from our distributor partners with just one click.",
+    "url": "https://www.snapmagic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SnapEDA helps manufacturers find alternate chips in the semiconductor shortage",
+    "url": "https://www.snapmagic.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by over 2 million engineers at these companies & more",
+    "url": "https://www.snapeda.com/",
+    "pass": 3
+   },
+   {
+    "quote": "2,500 manufacturers",
+    "url": "https://www.snapeda.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic is already the default discovery layer for electronic components, used by over 2M engineers at many of the world’s largest hardware companies. Since our seed round, we’ve doubled revenue with a small team operating at a high bar.",
+    "url": "https://www.ycombinator.com/companies/snapmagic/jobs/eriIncs-head-of-customer-success",
+    "pass": 3
+   },
+   {
+    "quote": "Built by electrical engineers for electrical engineers, SnapMagic removes monotony so that engineers can do their best work. SnapMagic’s electronic component data is used by over 1.5 million engineers across the world’s largest organizations. Its new AI Copilot will change the way that every engineer designs electronics. Join at www.snapmagic.com.",
+    "url": "https://startupintros.com/orgs/snapmagic",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Raspberry PiやNVIDIA Jetsonを使ったプロトタイピングから、スケーラブルな製造サービス（OEM/ODM）まで、Seeed Studioは革新者がスマート農業、産業、都市向けの実世界IoTおよびエッジAIソリューションを構築・展開するのを支援します",
+    "url": "https://www.toolmage.com/ja/tool/snapmagic/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "「逆極性保護付きの5V電源を追加」や「このICに適したバイパスコンデンサを見つけて」といった平易な日本語でコマンドを入力すると、SnapMagicがタスクを実行します",
+    "url": "https://www.toolmage.com/ja/tool/snapmagic/",
+    "pass": 3
+   },
+   {
+    "quote": "このツールは、主要な販売代理店からのリアルタイムのサプライチェーンデータと設計を継続的に照合します",
+    "url": "https://www.toolmage.com/ja/tool/snapmagic/",
+    "pass": 3
+   },
+   {
+    "quote": "設計が最終決定され、検証されたら、ワンクリック購入機能を使用して、提携販売代理店からBOM全体を直接注文し、設計から製造への移行を効率化します",
+    "url": "https://www.toolmage.com/ja/tool/snapmagic/",
+    "pass": 3
+   },
+   {
+    "quote": "主要な電子部品販売代理店と直接接続し、リアルタイムの在庫データ、リードタイム、価格情報を提供します",
+    "url": "https://www.toolmage.com/ja/tool/snapmagic/",
+    "pass": 3
+   },
+   {
+    "quote": "ワンクリックで提携販売代理店からBOM全体を購入できるようにすることで、調達プロセスを簡素化します",
+    "url": "https://www.toolmage.com/ja/tool/snapmagic/",
+    "pass": 3
+   },
+   {
+    "quote": "主要販売代理店と連携し、リアルタイムのサプライチェーン情報を提供します",
+    "url": "https://huntscreens.com/ja/products/snapmagic",
+    "pass": 3
+   },
+   {
+    "quote": "主要販売代理店からワンクリックで部品を発注できます",
+    "url": "https://huntscreens.com/ja/products/snapmagic",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "シリコンバレー AI ベンチャー探訪: [055] SnapMagic — Oct 7, 2024 · 電子回路設計の世界を変えつつある注目のスタートアップ SnapMagic（スナップマジック）をご紹介します。元々は「SnapEDA」という名称で電子部品の CAD データを提供していた同社が、AI コパイロット という新しいコンセプトを引っ提げて再出発し、回路設計者たちの絶大な支持を集めています。",
+    "url": "https://powergpt.info/poweredgpt-blog/f/シリコンバレー-ai-ベンチャー探訪-055-snapmagic",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic：電子・回路基板設計のためのAIコパイロット - ToolMage — Sep 4, 2025 · SnapMagicで電子設計を加速させましょう。このAIコパイロットは、回路図を自動化し、BOMをコストと電力に合わせて最適化し、リアルタイムのサプライチェーンデータを統合します。",
+    "url": "https://www.toolmage.com/ja/tool/snapmagic/",
+    "pass": 3
+   },
+   {
+    "quote": "Import Guide | SnapMagic Search — SnapMagic Searchに最初のパーツをダウンロードした後に、Allegro V17が実行可能かを確認するためウィンドウズのPATH環境変数を更新する必要があります。 注: このステップにはコンピュータへの管理者アクセスを必要とします。",
+    "url": "https://www.snapeda.com/jp/about/import/",
+    "pass": 3
+   },
+   {
+    "quote": "電源設計ツール「PI Expert」 + SnapMagic - CADツールへの電源設計を... — Jun 18, 2024 · 本記事は、Power Integrations社が作成した動画を掲載しています。高性能なオンライン電源設計ツール「PI Expert」は、SnapMagicにより回路図とネットリストのエクスポート機能が追加され、その機能について紹介した動画です。本機能により、PI Expertで作成した電源設計を、数分でお好みのCADツールに ...",
+    "url": "https://www.macnica.co.jp/business/semiconductor/articles/power_in/145470/",
+    "pass": 3
+   },
+   {
+    "quote": "Power Integrations と SnapMagic、電源設計の自動化促進で連携 — Oct 5, 2023 · 」 SnapMagic の CEO 兼創設者である Natasha Baker は次のように付け加えました。 「Power Integrations は、並外れた電源設計ツールを構築しました。",
+    "url": "https://www.businesswire.com/news/home/20231005900801/ja",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic Search | Free PCB Footprints and Schematic Symbols — Design faster with SnapMagic Search. Download CAD models for millions of electronic components, including schematic symbols, PCB footprints, Eagle library, OrCAD library, KiCAD library and 3D models.",
+    "url": "https://www.snapeda.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic - Design electronics at the speed of AI — Meet SnapMagic Engineer: agentic circuit design built on trusted CAD models to help engineers create electronics faster in their existing workflows.",
+    "url": "https://www.snapmagic.com/?trk=public_post-text",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic：電子機器設計のAIコパイロット — 電気エンジニアのためのAIコパイロット、SnapMagic。単調な作業を排除し、最高の設計を支援します。世界中の150万人以上のエンジニアが利用する部品データで、設計プロセスを革新しましょう。",
+    "url": "https://huntscreens.com/ja/products/snapmagic",
+    "pass": 3
+   },
+   {
+    "quote": "ライブラリダウンロードサービス「SnapMagic」をDSPCB上から直接使う... — Oct 3, 2024 · DesignSparkはSnapMagicとコラボレーションしており、DSPCBのソフト上から同社の部品ライブラリを検索・ダウンロードする機能がついています。 (有料のCreatorまたはEngineerプランで利用可能)。 以下のデモ動画をご覧ください。",
+    "url": "https://www.rs-online.com/designspark/how-do-i-use-the-snapeda-library-integration-in-dspcb-jp",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic - Design electronics at the speed of AI — Meet SnapMagic Engineer: agentic circuit design built on trusted CAD models to help engineers create electronics faster in their existing workflows.",
+    "url": "https://www.snapmagic.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Head of Customer Success @ SnapMagic - jobs.ashbyhq.com — Build ROI-driven business cases, identify upsell opportunities, and partner with customers to grow their investment in SnapMagic over time. - Building the Customer Success Function: Design the playbooks, systems, metrics, and customer operating rhythm that will become the foundation of Customer Success as SnapMagic scales.",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "Head of Customer Success at SnapMagic | Y Combinator — Build ROI-driven business cases, identify upsell opportunities, and partner with customers to grow their investment in SnapMagic over time. - Building the Customer Success Function: Design the playbooks, systems, metrics, and customer operating rhythm that will become the foundation of Customer Success as SnapMagic scales.",
+    "url": "https://www.ycombinator.com/companies/snapmagic/jobs/eriIncs-head-of-customer-success",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic 2026 Company Profile: Valuation, Funding ...SnapMagic - 2026 Company Profile, Team, Funding & Competitors ...SnapMagic Revenue 2024: $4.5M Est. - getlatka.comSnapMagic: Funding, Team & Investors | Startup IntrosSnapMagic - Crunchbase Company Profile & FundingSnapMagic Funding History, Valuation and Investors - aVentureSnapMagic - Products, Competitors, Financials, Employees ... — Informa",
+    "url": "https://pitchbook.com/profiles/company/96724-36",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic - 2026 Company Profile, Team, Funding & Competitors ...SnapMagic Revenue 2024: $4.5M Est. - getlatka.comSnapMagic: Funding, Team & Investors | Startup IntrosSnapMagic - Crunchbase Company Profile & FundingSnapMagic Funding History, Valuation and Investors - aVentureSnapMagic - Products, Competitors, Financials, Employees ... — Feb 10, 2026 · SnapMagic is a seed company based in San Franc",
+    "url": "https://tracxn.com/d/companies/snapmagic/__HpyuK_NH2-0fBiLVt4w0CEHoINk_qj40JTHA4QgLmMk",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic Revenue 2024: $4.5M Est. - getlatka.com — Oct 30, 2026 · SnapMagic 2024 estimated revenue: $4.5M. 30 employees. Industry: Electronic Design Automation (EDA) Software. Founded 2013. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/snapmagic.com",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · SnapMagic was originally founded as SnapEDA in 2013 by electrical engineer Natasha Baker, who was frustrated by the slow, inefficient process of creating digital models for circuit board components. After joining Y Combinator in 2015, the company initially focused on providing a third-party digital model database for electronic",
+    "url": "https://startupintros.com/orgs/snapmagic",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic - Crunchbase Company Profile & FundingSnapMagic Funding History, Valuation and Investors - aVentureSnapMagic - Products, Competitors, Financials, Employees ... — SnapMagic offers AI-driven tools for automating circuit board design and provides CAD models for electronic components. Oct 14, 2026 · Funding rounds, valuation history, and investor coverage across 9 investors for SnapMagic. Sn",
+    "url": "https://www.crunchbase.com/organization/snapmagic",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "We break down barriers so they can bring new products to life faster.",
+    "url": "https://www.snapeda.com/",
+    "pass": 3
+   },
+   {
+    "quote": "With strong revenue growth, proven product-market fit, and recent backing from leading Silicon Valley investors, we're entering our next phase of growth.",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "You'll own the entire customer experience, retention strategy, expansion revenue, and the systems that power Customer Success. You'll also partner closely with the founders to shape customer strategy, influence product direction, and help guide the company's next stage of growth.",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "in Customer Success, Account Management, Revenue Operations, or a related customer-facing role in an early stage start up environment",
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "pass": 3
+   },
+   {
+    "quote": "With strong revenue growth, proven product-market fit, and recent backing from leading Silicon Valley investors, we're entering our next phase of growth.",
+    "url": "https://www.ycombinator.com/companies/snapmagic/jobs/eriIncs-head-of-customer-success",
+    "pass": 3
+   },
+   {
+    "quote": "You'll own the entire customer experience, retention strategy, expansion revenue, and the systems that power Customer Success. You'll also partner closely with the founders to shape customer strategy, influence product direction, and help guide the company's next stage of growth.",
+    "url": "https://www.ycombinator.com/companies/snapmagic/jobs/eriIncs-head-of-customer-success",
+    "pass": 3
+   },
+   {
+    "quote": "in Customer Success, Account Management, Revenue Operations, or a related customer-facing role in an early stage start up environment",
+    "url": "https://www.ycombinator.com/companies/snapmagic/jobs/eriIncs-head-of-customer-success",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic is already the default discovery layer for electronic components, used by over 2M engineers at many of the world’s largest hardware companies. Since our seed round, we’ve doubled revenue with a small team operating at a high bar.",
+    "url": "https://www.ycombinator.com/companies/snapmagic/jobs/eriIncs-head-of-customer-success",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/96724-36",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic has 33 total employees.",
+    "url": "https://pitchbook.com/profiles/company/96724-36",
+    "pass": 3
+   },
+   {
+    "quote": "What is SnapMagic’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/96724-36",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for SnapMagic is",
+    "url": "https://pitchbook.com/profiles/company/96724-36",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic Revenue 2024: $4.5M Est.",
+    "url": "https://getlatka.com/companies/snapmagic.com",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic has not published its revenue. GetLatka estimates it at about $4.5M a year (June 2024).",
+    "url": "https://getlatka.com/companies/snapmagic.com",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic CEO, founders & employees",
+    "url": "https://getlatka.com/companies/snapmagic.com",
+    "pass": 3
+   },
+   {
+    "quote": "Natasha Baker founded SnapMagic in 2013 and runs it as CEO. SnapMagic had 30 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/snapmagic.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is SnapMagic's revenue?",
+    "url": "https://getlatka.com/companies/snapmagic.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates SnapMagic's revenue at about",
+    "url": "https://getlatka.com/companies/snapmagic.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does SnapMagic have?",
+    "url": "https://getlatka.com/companies/snapmagic.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/snapmagic.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/snapmagic.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/snapmagic.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/snapmagic.com",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/96724-36",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "KiCad に外部の部品データを取り込む - Ultra Librarian と SnapMagic Sep 24, 2026 · どちらもメーカーが自社部品のデータを登録しているサービスで、KiCad を含む各種 EDA 向けに出力してくれる。 今回は部品によって分かれた。 ... DCジャックは両方にあったので SnapMagic を使い、残り2つは Ultra Librarian にしかなかった。",
+    "url": "https://note.com/junpei_0424/n/n5183b87b53b6",
+    "pass": 3
+   },
+   {
+    "quote": "【2026令和最新版（個人的）】自分がよく使うフットプリント・シンボ... May 8, 2026 · Explore SnapMagic Search's Symbol & Footprint Libraries | SnapMagic Search Design faster with SnapMagic Search. Download CAD models for www.snapeda.com このサイトは様々なフットプリント、シンボル、3Dデータを取り揃えており、結構な確率でほしいデータがあると思います。",
+    "url": "https://note.com/2027hantyodenso/n/nb513d92363aa",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "KiCad に外部の部品データを取り込む - Ultra Librarian と SnapMagic｜Junpe",
+    "url": "https://note.com/junpei_0424/n/n5183b87b53b6",
+    "pass": 3
+   },
+   {
+    "quote": "KiCad に外部の部品データを取り込む - Ultra Librarian と SnapMagic",
+    "url": "https://note.com/junpei_0424/n/n5183b87b53b6",
+    "pass": 3
+   },
+   {
+    "quote": "回路図を描くとき、標準ライブラリで済ませなかった部品が3つある。",
+    "url": "https://note.com/junpei_0424/n/n5183b87b53b6",
+    "pass": 3
+   },
+   {
+    "quote": "J1   54-00129              DCジャック(Tensility)",
+    "url": "https://note.com/junpei_0424/n/n5183b87b53b6",
+    "pass": 3
+   },
+   {
+    "quote": "C1   UCM1V470MCL1GS        アルミ電解コンデンサ(ニチコン)",
+    "url": "https://note.com/junpei_0424/n/n5183b87b53b6",
+    "pass": 3
+   },
+   {
+    "quote": "L1   IHLP2525EZER8R2M01    インダクタ(Vishay)",
+    "url": "https://note.com/junpei_0424/n/n5183b87b53b6",
+    "pass": 3
+   },
+   {
+    "quote": "どれも寸法がその品種固有になる。チップ抵抗の 0603 なら誰が作っても 1.6 × 0.8mm だが、この3つにはそういう共通規格がない。汎用のフットプリントで代用すると実物のランドと合わない。",
+    "url": "https://note.com/junpei_0424/n/n5183b87b53b6",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーが CAD データを公開しているので、それを取り込んだ。",
+    "url": "https://note.com/junpei_0424/n/n5183b87b53b6",
+    "pass": 3
+   },
+   {
+    "quote": "【2026令和最新版（個人的）】自分がよく使うフットプリント・シンボルデータをゲットできるサイト｜東海2027電装班長君",
+    "url": "https://note.com/2027hantyodenso/n/nb513d92363aa",
+    "pass": 3
+   },
+   {
+    "quote": "【2026令和最新版（個人的）】自分がよく使うフットプリント・シンボルデータをゲットできるサイト",
+    "url": "https://note.com/2027hantyodenso/n/nb513d92363aa",
+    "pass": 3
+   },
+   {
+    "quote": "どうもこんにちは皆さんKicadでお困りなことないでしょうか。",
+    "url": "https://note.com/2027hantyodenso/n/nb513d92363aa",
+    "pass": 3
+   },
+   {
+    "quote": "下の画像のように使いたいシンボルやフットプリントがKicad内に存在しないなんてことよくありますよね。",
+    "url": "https://note.com/2027hantyodenso/n/nb513d92363aa",
+    "pass": 3
+   },
+   {
+    "quote": "tlp2355というフォトカプラがないときのスクショ",
+    "url": "https://note.com/2027hantyodenso/n/nb513d92363aa",
+    "pass": 3
+   },
+   {
+    "quote": "そんな時は自分は欲しいデータがゲットできるサイトを利用してフットプリントやらシンボルやらをダウンロードしています。",
+    "url": "https://note.com/2027hantyodenso/n/nb513d92363aa",
+    "pass": 3
+   },
+   {
+    "quote": "では、どんなサイトがいいのか。というかほしいデータが転がっていやすいかですが、",
+    "url": "https://note.com/2027hantyodenso/n/nb513d92363aa",
+    "pass": 3
+   },
+   {
+    "quote": "自分は「SnapMagic」に大体置いてあると思っています。",
+    "url": "https://note.com/2027hantyodenso/n/nb513d92363aa",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "David Nims (@Snapmagic) / X David Nims @Snapmagic Aug 10, 2011 Bastion may be my new favorite game ever made and I always thought indie stood for \"in over our heads development\" 1",
+    "url": "https://x.com/Snapmagic",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic CAD models are now available on @FutureElec ... SnapMagic (@SnapEDA). 729 views. SnapMagic CAD models are now available on @FutureElec 🔥 Engineers can now download millions of verified symbols, footprints, and 3D models, right from the product pages.",
+    "url": "https://x.com/SnapEDA/status/2033457253722808722",
+    "pass": 3
+   },
+   {
+    "quote": "Gingersnap It (@GSnapMagic) / X Gingersnaps is a customizable drawer organizing system. It allows you complete adaptability to configure your drawer space to fit the dimensions of your drawer and whaterver you put in that drawer....",
+    "url": "https://x.com/GSnapMagic",
+    "pass": 3
+   },
+   {
+    "quote": "Natasha Baker (@NatashaABaker) / X Founder @ SnapMagic (@SnapEDA), making electronics faster for over 2 million electrical engineers and PCB designers. AI-pilled, cracked engineer/ceo.",
+    "url": "https://x.com/natashaabaker",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SnapMagic - LinkedIn SnapMagic | 8,796 followers on LinkedIn. Creators of SnapMagic Search, your source of component libraries, and SnapMagic Copilot, your AI copilot for circuit board designers. Built by electrical ...",
+    "url": "https://www.linkedin.com/company/snapmagic",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic - LinkedIn SnapMagic | Built by electrical engineers for electrical engineers, SnapMagic removes monotony so that engineers can do their best work. SnapMagic’s electronic component data is used by over 1.5 ...",
+    "url": "https://www.linkedin.com/products/snapeda-snapmagic/",
+    "pass": 3
+   },
+   {
+    "quote": "Viktorrine Ira - Component Engineer | ECAD/PCB Design - LinkedIn I like having both sides of my brain involved, building things logically and creating things visually. · Experience: SnapMagic · Education: University of San Carlos · Location: Brisbane · 208 connections on LinkedIn. View Viktorrine Ira’s profile on LinkedIn, a professional community of 1 billion members.",
+    "url": "https://au.linkedin.com/in/iraviktorrine",
+    "pass": 3
+   },
+   {
+    "quote": "Natasha Baker - SnapMagic | LinkedInFounder's Associate at SnapMagic — San Francisco, CA ...Designing with SnapMagic: Infineon and ESP32-S3 SuperMiniSnapMagic is at EDS in Las Vegas! At SnapMagic, we believe ... Feb 4, 2013 · I’m the founder and CEO of SnapMagic, where we’re building the AI-native platform for… · Experience: SnapMagic · Education: University of Toronto · Location: San Francisco Ba",
+    "url": "https://www.linkedin.com/in/natashaabaker",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "SnapMagic - FacebookSnapMagic - FacebookSnap Magic Photobooths - FacebookSnapMagic | DeBary FL - FacebookSnapMagic - Welcome to the team, Cole Eberwein! As the ...SnapMagic - We’re heading to PCB West 2025! ... - FacebookSnap - Can't wait to work more with @thehardimangalway in ... The SnapMagic team is looking forward to seeing old friends and new at our Booth 430 in Hall B4. Come and test drive ",
+    "url": "https://www.facebook.com/SnapEDA.Inc/",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic - Facebook SnapMagic. www.snapmagic.io • Magically restore old photos • Transform photos across iconic eras • Animate photos and bring them to life",
+    "url": "https://www.facebook.com/snapmagicapp/",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic | DeBary FL - Facebook Nov 20, 2025 · SnapMagic , DeBary. 38 likes. We are a mother and daughter trio working together to bring magic to your snapshots!",
+    "url": "https://www.facebook.com/61573023899200/",
+    "pass": 3
+   },
+   {
+    "quote": "SnapMagic - Welcome to the team, Cole Eberwein! As the ... Aug 29, 2024 · Welcome to the team, Cole Eberwein! 🎉 As the newest member of our Go To Market team, Cole applies his strong background in digital marketing to help component suppliers. Fun fact - he’s also an Ironman- in-training, a triathlon enthusiast, and a dedicated SF Giants fan, having attended 22 games last year. Join us in creating",
+    "url": "https://www.facebook.com/SnapEDA.Inc/photos/welcome-to-the-team-cole-eberwein-as-the-newest-member-of-our-go-to-market-team-/1234057594233493/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.snapmagic.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snapmagic.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snapmagic.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://powergpt.info/poweredgpt-blog/f/%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%B3%E3%83%90%E3%83%AC%E3%83%BC-ai-%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E6%8E%A2%E8%A8%AA-055-snapmagic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toolmage.com/ja/tool/snapmagic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snapeda.com/jp/about/import/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/business/semiconductor/articles/power_in/145470/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snapeda.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snapeda.com/jp/about/import/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://huntscreens.com/ja/products/snapmagic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snapeda.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/snapmagic/jobs/eriIncs-head-of-customer-success",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/96724-36",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/snapmagic/__HpyuK_NH2-0fBiLVt4w0CEHoINk_qj40JTHA4QgLmMk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/snapmagic.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/snapmagic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/junpei_0424/n/n5183b87b53b6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/2027hantyodenso/n/nb513d92363aa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Snapmagic",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SnapEDA/status/2033457253722808722",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/GSnapMagic",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/natashaabaker",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/snapmagic",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/snapeda-snapmagic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/in/iraviktorrine",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/natashaabaker",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SnapEDA.Inc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/snapmagicapp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61573023899200/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SnapEDA.Inc/photos/welcome-to-the-team-cole-eberwein-as-the-newest-member-of-our-go-to-market-team-/1234057594233493/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Snapmagic",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Snapmagic 日本 導入",
+   "results": [
+    "https://powergpt.info/poweredgpt-blog/f/シリコンバレー-ai-ベンチャー探訪-055-snapmagic",
+    "https://www.toolmage.com/ja/tool/snapmagic/",
+    "https://www.snapeda.com/jp/about/import/",
+    "https://www.macnica.co.jp/business/semiconductor/articles/power_in/145470/",
+    "https://www.businesswire.com/news/home/20231005900801/ja",
+    "https://eletsu.jp/5962/",
+    "https://reinforz.co.jp/bizmedia/44528/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Snapmagic 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.indexpro.co.jp/distributor/search-maker"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Snapmagic Japan",
+   "results": [
+    "https://www.snapeda.com/",
+    "https://www.snapmagic.com/?trk=public_post-text",
+    "https://www.snapeda.com/jp/about/import/",
+    "https://huntscreens.com/ja/products/snapmagic",
+    "https://www.rs-online.com/designspark/how-do-i-use-the-snapeda-library-integration-in-dspcb-jp",
+    "https://changelog.snapmagic.com/",
+    "https://www.snapmagic.com/contact-us"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Snapmagic manufacturing customer case study",
+   "results": [
+    "https://www.snapeda.com/",
+    "https://www.snapmagic.com/",
+    "https://jobs.ashbyhq.com/snapmagic/2d3b9362-ddfa-4a7a-a595-72ca28752961",
+    "https://www.ycombinator.com/companies/snapmagic/jobs/eriIncs-head-of-customer-success",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.snapeda.com/instabuild/",
+    "https://www.youtube.com/watch?v=Ty1o3Us-jpM"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Snapmagic white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://upcloud.com/partner-program/",
+    "https://www.ninjaone.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Snapmagic founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/96724-36",
+    "https://tracxn.com/d/companies/snapmagic/__HpyuK_NH2-0fBiLVt4w0CEHoINk_qj40JTHA4QgLmMk",
+    "https://getlatka.com/companies/snapmagic.com",
+    "https://startupintros.com/orgs/snapmagic",
+    "https://www.crunchbase.com/organization/snapmagic",
+    "https://aventure.vc/companies/snapmagic/fundraising",
+    "https://www.cbinsights.com/company/snapmagic",
+    "https://indexed.vc/companies/snapmagic"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:note.com Snapmagic",
+   "results": [
+    "https://note.com/junpei_0424/n/n5183b87b53b6",
+    "https://note.com/2027hantyodenso/n/nb513d92363aa",
+    "https://note.com/magic_iris5406/n/n8c98d1a8c67f?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/magic_plover3066/n/n734523396625?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/konoha_inc/n/n328c1d7641ae?hl=en"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Snapmagic",
+   "results": [
+    "https://x.com/Snapmagic",
+    "https://x.com/SnapEDA/status/2033457253722808722",
+    "https://x.com/GSnapMagic",
+    "https://x.com/natashaabaker",
+    "https://x.com/NatashaABaker/status/2033461490242744675",
+    "https://x.com/SnapMagicMedia/status/2098481782228127767",
+    "https://x.com/magicsnapai"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Snapmagic",
+   "results": [
+    "https://www.linkedin.com/company/snapmagic",
+    "https://www.linkedin.com/products/snapeda-snapmagic/",
+    "https://au.linkedin.com/in/iraviktorrine",
+    "https://www.linkedin.com/in/natashaabaker",
+    "https://www.linkedin.com/jobs/view/founder-s-associate-at-snapmagic-4472231696",
+    "https://www.linkedin.com/posts/snapmagic_every-6-seconds-an-engineer-designs-a-component-activity-7488655294302973952-AaYe",
+    "https://www.linkedin.com/posts/snapmagic_snapmagic-is-at-eds-in-las-vegas-at-snapmagic-activity-7462942531459260416-bWps"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Snapmagic",
+   "results": [
+    "https://www.facebook.com/SnapEDA.Inc/",
+    "https://www.facebook.com/snapmagicapp/",
+    "https://www.facebook.com/61573023899200/",
+    "https://www.facebook.com/SnapEDA.Inc/photos/welcome-to-the-team-cole-eberwein-as-the-newest-member-of-our-go-to-market-team-/1234057594233493/",
+    "https://www.facebook.com/SnapEDA.Inc/posts/were-heading-to-pcb-west-2025-visit-snapmagic-at-booth-612-to-see-how-our-new-ai/1543138593325390/",
+    "https://www.facebook.com/SnapMagic/",
+    "https://www.facebook.com/SnapMagic/photos/cant-wait-to-work-more-with-thehardimangalway-in-2026-with-our-mayo-unit-just-an/1352337453598618/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Snapmagic note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://voice.php.co.jp/detail/8712",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Snapmagic X 投稿",
+   "results": [
+    "https://x.com/Snapmagic",
+    "https://www.instagram.com/snapmagic_/",
+    "https://www.snapeda.com/",
+    "https://shuno26-blog.com/twtr-pstpcsp/",
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://nakamayu2.com/twitterx/",
+    "https://www.witha.jp/sns・マーケティング/x-posting-guide-beginners/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部37頁・検索12回）"
+ }
+}

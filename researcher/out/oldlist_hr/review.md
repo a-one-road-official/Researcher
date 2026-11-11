@@ -1257,6 +1257,12 @@
 - 「Tablighi Jamaat first arrived in Japan from Pakistan in」（https://tablighi-jamaat.com/en/tablighi-jamaat-japan/）
 - 「, but remained largely dormant until the late 1980s when Muslim immigrant workers transformed the movement. Tablighi Jamaat has adapted to Japanese society’s unique cultural constraints, evolving from a small immigrant religious group into an established religious organization serving an estimated」（https://tablighi-jamaat.com/en/tablighi-jamaat-japan/）
 
+## Merlinai（https://www.merlinai.co）
+- 「言語設定：日本語を選択（インターフェースは英語ですが、AI応答は日本語対応）」（https://ai-tsu-ru.com/merlin-complete-guide/）
+- 「：英語の技術動画でも日本語で要約されるため、言語の壁がなくなります」（https://ai-tsu-ru.com/merlin-complete-guide/）
+- 「7. 日本語対応状況と最適な設定方法」（https://ai-tsu-ru.com/merlin-complete-guide/）
+- 「未上場スタートアップからS&amp;P500クラスの成熟企業まで、世界の成長企業を複数の視点から整理し、」（https://note.com/startup_now0708/n/n0d934e91b183）
+
 ## Mintlify（https://mintlify.com）
 - 「ネット上の日本語情報はほぼ全部古いままです」（https://aipicks.jp/mag/mintlify-guide-2026）
 - 「日本語にも対応し、Mac・Windowsのどの入力欄でも使える（無料は1,000語まで）」（https://aipicks.jp/mag/mintlify-guide-2026）
@@ -1285,6 +1291,11 @@
 - 「プロキシサーバー日本で活用する最適解は？2026最新解説 - KUJO Proxy」（https://www.kujoproxy.jp/japan-proxy-server/）
 - 「プロキシサーバー日本で活用する最適解は？2026最新解説」（https://www.kujoproxy.jp/japan-proxy-server/）
 - 「プロキシサーバー日本国内での利用は、単なる通信の中継という枠を超え、データ収集、セキュリティ強化、そしてマーケティングの精度向上に欠かせないインフラとなっています」（https://www.kujoproxy.jp/japan-proxy-server/）
+
+## Rabbet（https://www.rabbet.com）
+- 「rabbet 日本語 | Goong.com - 新世代の辞書」（https://goong.com/ja/word/rabbet_%E6%97%A5%E6%9C%AC%E8%AA%9E/）
+- 「rabbeted とは 日本語訳と意味 | Goong.com - 新世代の辞書」（https://goong.com/ja/word/rabbeted-%E3%81%A8%E3%81%AF-%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3%E3%81%A8%E6%84%8F%E5%91%B3/）
+- 「Rabbet Planes – Honmamon-Japan」（https://honmamon-japan.com/collections/rabbet-planes）
 
 ## Rainforestqa（https://www.rainforestqa.com）
 - 「Rainforest QAの求人・カルチャー｜Japan Dev」（https://japan-dev.com/companies/rainforest-qa?lang=jp）
@@ -1550,6 +1561,12 @@
 - 「They aren't the only ones bringing colour to the club. They're joined by Seiji, Ken, Great, DJ James and sunny waiter Japan.」（https://mydramalist.com/750883-deep-night）
 - 「Tenjutsu is set in a sprawling open Japanese city where you punch and kick your way through gangs in any order. But it wasn’t always like that. It began life as a small, focused brawler. An extended version of my」（https://deepnight.net/blog/tenjutsu-devlog-2-from-beat-em-up-to-roguelite/）
 
+## Hprobe（https://hprobe.com/）
+- 「マスク氏、日本の半導体製造装置メーカーに接近 「Terafab」向け大型設備調達を計画」（https://aait.co.jp/archives/69273）
+- 「米国とオーストラリアに進出した後、同社はカナダ、日本、台湾地域、タイ、インド、東南アジア、ヨーロッパ、中東、南米に輸出しています」（https://aait.co.jp/archives/69273）
+- 「ISO EV ISO EV 2023年以降、販売パートナーシップを拡大し、EVOLTのオーストラリア本社および米国法人との協力を強化するとともに、日本、フィリピン、ベトナム、台湾地域、UAE、サウジアラビア、英国でマスターフランチャイズパートナーを確保しました」（https://aait.co.jp/archives/69273）
+- 「part of the Mycronic Group」（https://www.hprobe.com/）
+
 ## SweGaN（https://swegan.se/）
 - 「受注総額は日本円で約4.3億円に相当し、データセンター向けパワーデバイス、防衛・航空宇宙・通信分野向けRFデバイスなどに活用される予定です」（https://ceramicforum.co.jp/news/swegan%E3%80%81%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E9%A1%A7%E5%AE%A2%E3%81%8B%E3%82%89%E7%B4%844-3%E5%84%84%E5%86%86%E3%81%AE%E5%95%86%E6%A5%AD%E5%8F%97%E6%B3%A8%E3%82%92%E7%8D%B2%E5%BE%97/）
 
@@ -1566,6 +1583,11 @@
 - 「Japanese anime television series」（https://en.wikipedia.org/wiki/Backflip!!）
 - 「is an original Japanese」（https://en.wikipedia.org/wiki/Backflip!!）
 - 「It premiered in Japan on July 2, 2022, with returning staff and cast.」（https://en.wikipedia.org/wiki/Backflip!!）
+
+## Bakool（https://www.bakool.id）
+- 「Final Fantasy 14 fans in Japan are getting horny for Bakool Ja Ja too - AUTOMATON WEST」（https://automaton-media.com/en/news/final-fantasy-14-fans-in-japan-are-getting-horny-for-bakool-ja-ja-too/）
+- 「Final Fantasy 14 fans in Japan are getting horny for Bakool Ja Ja too」（https://automaton-media.com/en/news/final-fantasy-14-fans-in-japan-are-getting-horny-for-bakool-ja-ja-too/）
+- 「Final Fantasy 14 Dawntrail's new character Bakool Ja Ja has some thirsty Japanese fans too, with his "ugly erotic" charm and "kitty" comments...」（https://automaton-media.com/en/news/final-fantasy-14-fans-in-japan-are-getting-horny-for-bakool-ja-ja-too/）
 
 ## Cybus（https://www.cybus.io）
 - 「サイバーセキュリティクラウド[4493]：大学生に向けた新たなサイバーセキュリティ理解促進企画「Cybus（サイバス）」始動！～「学ぶ」を「体験」に変えるキャリア発見プロジェクト新企画～ 2025年2月4日(適時開示) ：日経会社情報DIGITAL：日本経済新聞」（https://www.nikkei.com/nkd/disclosure/tdnr/20250204562733/）
@@ -1604,11 +1626,85 @@
 - 「今回のピッチイベントには、そうしたシリコンバレー以外の都市・地域から、日本企業との協業を検討する、または将来、日本への進出を検討する企業9社が参加」（https://www.jetro.go.jp/biznews/2020/10/2fb738364b992955.html）
 - 「UAE最大の石油・ガス企業Abu Dhabi National Oil Company（ADNOC）の子会社ADNOC Gasとの複数年契約」（https://www.jdti.jp/blog-us-defense-tech-list/blog-gecko-robotics）
 
+## Isembard（https://isembard.com）
+- 「Following ratification of the Kensington Treaty in October, Astroscale and OHB have signed an MoU to enhance cooperation between the UK, Germany and Japan towards protecting critical infrastructure in space, whilst supporting the safe, sustainable and responsible use of the orbital environment.」（https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/）
+- 「そして、Isembardが解こうとしている問題は、日本の製造業が抱える「後継者危機」と驚くほど重なっている」（https://note.com/yushi88/n/n81561995fa47）
+- 「日本で製造業の後継者問題が深刻化していることは、業界関係者なら周知の事実だ」（https://note.com/yushi88/n/n81561995fa47）
+
 ## LOHUM（https://lohum.com/）
 - 「Fast-growing India is the next North America for Japan's Marubeni: CEO」（https://asia.nikkei.com/editor-s-picks/interview/india-s-lohum-targets-ev-batteries-after-opening-zimbabwe-lithium-mine）
 
+## Mind Robotics（https://www.mindrobotics.com/）
+- 「新興EVメーカー･リビアンからスピンオフのロボットスタートアップに熱視線､日本企業のヒントになるテスラと真逆の戦略 | ビジネス | 東洋経済オンライン」（https://toyokeizai.net/articles/-/949292?display=b）
+- 「新興EVメーカー･リビアンからスピンオフのロボットスタートアップに熱視線､日本企業のヒントになるテスラと真逆の戦略」（https://toyokeizai.net/articles/-/949292?display=b）
+- 「【独自】講談社が出資を決定…｢日本のサッカーを草の根から変革する｣福岡発異色ベンチャー企業の構想力」（https://toyokeizai.net/articles/-/949292?display=b）
+
+## Nologo（https://www.nologo.com）
+- 「据了解，截至目前nologo商标已经在美国、欧盟、日本在不同类目下被注册成功：美国有3个商标注册，注册类目包括25类服装、9类眼镜；欧盟已有2个商标注册成功，注册类目包括3类化妆品、16类办公文具纸类制品、31类蔬果/园艺林业、25类服装、28类玩具/户外体育用品；日本已有2个商标注册成功，注册类目有25类服装、31类蔬果/园艺林业」（https://www.wearesellers.com/question/22394）
+- 「exclusive distributor in the USA and Japan,」（https://www.nologoracing.com/en/nologo/）
+
+## Pando（https://pando.ai/）
+- 「[Pando] Introduction to Pando Bridge｜Mixin Japan」（https://note.com/mixinjapan/n/ne8ccc862f034?hl=en）
+- 「Pando is now part of the Fleetx.ai group」（https://pando.ai/about-us）
+
+## Prototyping.io（https://www.prototyping.io）
+- 「YC の会社ページに本人が掲載している情報（日本語訳は AI 翻訳」（https://ycpedia.com/companies/prototypingio）
+
+## Smartex（https://www.smartex.ai/）
+- 「. It does not cover every bullet train in Japan. Use this table before opening an account.」（https://thejapanode.com/guides/shinkansen-booking-guide）
+- 「Tokyo → Kanazawa, Nagano, Niigata, Sendai or northern Japan」（https://thejapanode.com/guides/shinkansen-booking-guide）
+- 「Japan train system guide」（https://thejapanode.com/guides/shinkansen-booking-guide）
+
+## Snapmagic（https://www.snapmagic.com）
+- 「「逆極性保護付きの5V電源を追加」や「このICに適したバイパスコンデンサを見つけて」といった平易な日本語でコマンドを入力すると、SnapMagicがタスクを実行します」（https://www.toolmage.com/ja/tool/snapmagic/）
+
+## MARK Metallwarenfabrik GmbH（https://www.mark.at）
+- 「Austrian products in Japan (online stores)」（https://www.advantageaustria.org/jp/company/en/mark-metallwarenfabrik-gmbh-2）
+- 「Enjoy Austrian products available in Japan for your daily life.」（https://www.advantageaustria.org/jp/company/en/mark-metallwarenfabrik-gmbh-2）
+
 ## Zoovu（https://www.zoovu.com）
 - 「Tokyo, Japan」（https://www.cuspera.com/products/zoovu-x-6297/customer-story）
+
+## Zonos（https://www.zonos.com）
+- 「Japan Post business accounts can now ship to the U.S.」（https://zonos.com/）
+- 「Japan Post + Zonos - App & Verified Accounts | Zonos」（https://zonos.com/japan-post）
+- 「Keep shipping to the U.S. and select EU destinations with Japan Post + Zonos」（https://zonos.com/japan-post）
+
+## Yhangry（https://www.yhangry.com）
+- 「Japanese Catering Near You - yhangry」（https://yhangry.com/f/catering/japanese）
+- 「Sam was fab. He was flexible with his menu, and even came up with a Japanese style of tiramisu for us which was utterly delicious, as was everything else. He was easy company, great to chat to but equ...」（https://yhangry.com/f/catering/japanese）
+- 「From casual dining to Michelin-Starred fine dining menus, browse our vetted and rated caterers for Japanese food.」（https://yhangry.com/f/catering/japanese）
+- 「Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...」（https://www.firstcvc.jp/global/yhangry.com）
+
+## Yalo（https://www.yalo.ai）
+- 「messenger, popular in Japan, Korea and Thailand.」（https://en.wikipedia.org/wiki/Yalo_(company)）
+
+## Wordware（https://wordware.ai/）
+- 「Wordware公式（@wordware_ai・現Sauna by Wordware）2024年8月の投稿より（日本語訳）」（https://aboutus.media/article/world_20_wordware）
+- 「共同創業者フィリップ・コゼラ（@kozerafilip）2024年11月の投稿より（日本語訳）」（https://aboutus.media/article/world_20_wordware）
+- 「Wordware公式（@wordware_ai・現Sauna by Wordware）2024年11月の投稿より（日本語訳）」（https://aboutus.media/article/world_20_wordware）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/wordware/case-studies）
+
+## Wefunder（https://wefunder.com）
+- 「Our cuisine is known for being creative, fresh, and colorful, while highlighting local and seasonal ingredients. Kris brings his unique perspective as a Filipino American chef with culinary experience in Mexican, Middle Eastern, Indian, French, Italian, and Japanese cuisines.」（https://wefunder.com/case-studies/cassava）
+- 「I bring my perspective as someone who grew up in Japan—one of our most popular meals (sometimes drawing 80% of our customers) is our Japanese Breakfast.」（https://wefunder.com/case-studies/cassava）
+- 「“My wife and I love food, and Cassava is a unique gem in the San Francisco food scene. We especially love getting early morning breakfast and Cassava's Japanese Breakfast is a cherished spot for us.”」（https://wefunder.com/case-studies/cassava）
+
+## Virtueai（https://www.virtueai.com/）
+- 「自律型AI時代における倫理とガバナンスの行方――グローバルな警告と日本企業への示唆」（https://global-ai.jp/20260318-aivirtue-ai/）
+- 「自律型AIの台頭が迫る「組織の権限モデル」の再設計と日本企業への示唆」（https://global-ai.jp/20260318-aivirtue-ai/）
+- 「「AI賛美へのブーイング」から学ぶ、日本企業におけるAI導入と組織の温度差」（https://global-ai.jp/20260318-aivirtue-ai/）
+
+## Vetrec（https://vetrec.io）
+- 「VetRec ベットレックとは 診察後のカルテ作成のAI｜使い方・料金・日本語対応」（https://eeai.tv/tools/vetrec）
+- 「VetRecの日本語対応は確認できていません」（https://eeai.tv/tools/vetrec）
+- 「Japan Society of Northern California」（https://prospeo.io/c/vetrec-revenue）
+
+## Undermind（https://www.undermind.ai）
+- 「2018年以降に発表された、日本語の大規模言語モデルの性能を測る評価用のデータセット（ベンチマーク）を提案した論文を探しています」（https://aiteller.jp/blog/undermind-tsukaikata）
+- 「：日本語で研究テーマを説明した場合の精度や、日本語の論文を対象にするかどうかは、公式サイトに記載がありません」（https://aiteller.jp/blog/undermind-tsukaikata）
+- 「2025年10月の新しい版の画面での始め方、シード論文の入れ方、Grow で地図を広げる手順と点の読み方、旧版の Similar・Earlier・Later Work の新しい場所、Rabbit-hole と著者の探し方、コレクションと読書リスト、Zotero との連携、BibTeX・RIS・CSV の書き出し、日本語での使い方、無料版と RR+ の違いと料金、解約までまとめます」（https://aiteller.jp/blog/undermind-tsukaikata）
+- 「論文が後の研究でどう引用されたかを「支持・反論・言及」に分けて示す scite の使い方を、運営元 Scite, LLC（Research Solutions の子会社）の料金ページ・ヘルプ・公式ブログで整理」（https://aiteller.jp/blog/undermind-tsukaikata）
 
 ## Metalpine GmbH（https://www.metalpine.at）
 - 「METALPINE is part of the internationally represented htm Group (hightech metal invest) with locations in Germany, Austria, Bahrain and Japan.」（https://metalpine.at/）

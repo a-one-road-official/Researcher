@@ -1,0 +1,1548 @@
+{
+ "name": "Lumari",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜返信あり",
+ "researched_at": "2026-11-11T05:13:41.023751+00:00",
+ "official_url": "https://www.lumari.ai/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "1,200 connectors on backorder. 400 ship Friday, rest split to Apr 12.",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Container held for engine repair. New ETA Apr 18, plan updated.",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Invoice price 12% above the PO. Held before payment.",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Held at Suez. Promise dates moved and production checked.",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Direct procurement, automated.",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Agents monitor all open POs for delivery risks like delays and pricing issues to flag problems early.",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligent Email Processing",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your process, your rules.",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Approvals for Every Action",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every action is logged and searchable so your team always has full visibility.Every action from sending emails to updating the ERP can require team approval. You decide what runs autonomously and what needs a sign-off.",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Approval Required: RFQ - Industrial Valve Assembly",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hey, we're reviewing your RFQ for the industrial valve assembly. Could you confirm the material specification for the valve body? We want to make sure we're quoting the correct grade before finalizing pricing.",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“We implemented our processes into Lumari agents, and it turned all the manual work into automated work. It reduced our processing time tenfold.”",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“From the MRP until I get that item in the mail, it is 100% automated. What literally took us weeks happens instantly. It took multiple weeks, sometimes more than a month, to go through that process. Now it happens on the side. We don’t even think about it.”",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A platform built for how supply chain teams actually work, with hands-on support, fast onboarding, and AI that gets smarter the more you use it.",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Fast, structured onboarding that maps to your existing processes. We handle the integration work so your team can focus on results.",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your SOPs and approvals",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Lumari follows your approval chains, naming conventions, and escalation paths, not the other way around.",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Continuously improving",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“A late PO isn’t urgent if stock covers production.”",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Check stock and production needs before escalating a delay.",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade infrastructure.",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for enterprise operations.",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your data stays protected with enterprise-grade controls and governance.",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Encryption at rest and in transit helps protect your company’s data.",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Procurement Automation for Advanced Manufacturing | Lumari",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Procurement that keeps pace with the factory.",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Lumari keeps sourcing and order work moving through engineering changes, new programs, and production ramps—across email, spreadsheets, PLM, and ERP.",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "High-mix production depends on decisions moving as quickly as the build.",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "From procurement leaders",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Procurement",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "New programs create drawings, line items, supplier questions, and quote formats for buyers to reconcile.",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Fewer surprises from stale supplier commitments",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Execution spread across systems",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "ERP records transactions; production-critical commitments still live in supplier email and spreadsheets.",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Normalize pricing, lead time, MOQ, freight, tariffs, and terms in one decision-ready view.",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "One record of decisions, approvals, and supplier communication",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "No. Lumari operates across the systems your team already uses and keeps the relevant procurement records current. Your ERP and PLM remain the systems of record.",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Can Lumari support new product introduction?",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Lumari can coordinate multi-supplier sourcing, revision context, quote analysis, approvals, and purchase-order execution for fast-moving NPI programs.",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What direct procurement work can Lumari automate?",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Lumari can coordinate RFQs, supplier follow-up, quote normalization, approvals, purchase-order execution, acknowledgements, delivery updates, and exception escalation according to the team’s operating rules.",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Procedures, approval paths, supplier communication, and escalation rules can reflect the operating model of each plant, category, program, or business unit.",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Explore how companies use Lumari to expand their capacity and move their teams from reactive firefighting to proactive strategy.",
+    "url": "https://lumari.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "What procurement teams say",
+    "url": "https://lumari.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Procurement",
+    "url": "https://lumari.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The partnership with Lumari has reinforced our approach to continuous improvement.",
+    "url": "https://lumari.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Getting the quote comparison all the way to landed cost has made the process twice as fast.",
+    "url": "https://lumari.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "OFS made RFQ processing 10× faster without changing how suppliers work.",
+    "url": "https://lumari.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Ultima Genomics automated procurement from planning to delivery",
+    "url": "https://lumari.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Ultima Genomics uses Lumari to automate procurement execution from demand through delivery.",
+    "url": "https://lumari.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Industries | AI Procurement for Manufacturers | Lumari",
+    "url": "https://lumari.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Built for the supply chains behind physical products.",
+    "url": "https://lumari.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Lumari automates direct procurement across complex manufacturing environments, adapting to the systems, supplier relationships, and operating rules that make every industry unique.",
+    "url": "https://lumari.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "The details change by market, but the work still moves between requirements, supplier communication, approvals, purchase orders, and delivery commitments. Lumari keeps those handoffs running.",
+    "url": "https://lumari.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "High-mix operations moving from prototype to scale.",
+    "url": "https://lumari.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Controlled programs where every commitment matters.",
+    "url": "https://lumari.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Program sourcing across volatile, multi-tier supply networks.",
+    "url": "https://lumari.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Long-lead projects with expensive schedule risk.",
+    "url": "https://lumari.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Email, spreadsheets, PDFs, and existing relationships continue to work as they do today.",
+    "url": "https://lumari.ai/industries",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by supply chain teams at",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Approval Required: RFQ - Industrial Valve Assembly",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "RFQ - Industrial Valve Assembly",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hey, we're reviewing your RFQ for the industrial valve assembly. Could you confirm the material specification for the valve body? We want to make sure we're quoting the correct grade before finalizing pricing.",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Procurement Automation for Advanced Manufacturing | Lumari",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Lumari for Advanced Manufacturing",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Procurement that keeps pace with the factory.",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How Lumari works in advanced manufacturing",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Can workflows differ by plant or business unit?",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Procedures, approval paths, supplier communication, and escalation rules can reflect the operating model of each plant, category, program, or business unit.",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Furniture Manufacturing",
+    "url": "https://lumari.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Robotics Manufacturing",
+    "url": "https://lumari.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Life Sciences Manufacturing",
+    "url": "https://lumari.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Electronics Manufacturing",
+    "url": "https://lumari.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://lumari.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Industries | AI Procurement for Manufacturers | Lumari",
+    "url": "https://lumari.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Lumari automates direct procurement across complex manufacturing environments, adapting to the systems, supplier relationships, and operating rules that make every industry unique.",
+    "url": "https://lumari.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://lumari.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive & Mobility",
+    "url": "https://lumari.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "AI Procurement for Aerospace & Defense | Lumari",
+    "url": "https://lumari.ai/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Lumari for Aerospace & Defense",
+    "url": "https://lumari.ai/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "How Lumari works in aerospace & defense",
+    "url": "https://lumari.ai/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Direct Procurement for Automotive & Mobility | Lumari",
+    "url": "https://lumari.ai/industries/automotive-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "Lumari for Automotive & Mobility",
+    "url": "https://lumari.ai/industries/automotive-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "How Lumari works in automotive & mobility",
+    "url": "https://lumari.ai/industries/automotive-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "Does Lumari replace the automotive ERP or PLM?",
+    "url": "https://lumari.ai/industries/automotive-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "Run structured requests across manufacturers and distributors while preserving part and program context.",
+    "url": "https://lumari.ai/industries/semiconductors-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Capture price, quantity, date, validity, manufacturer part number, and alternate information from varied formats.",
+    "url": "https://lumari.ai/industries/semiconductors-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Can quote comparisons include manufacturer part numbers and validity dates?",
+    "url": "https://lumari.ai/industries/semiconductors-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Quote analysis can be configured to capture the commercial and part-level fields the team needs, including manufacturer part number, quoted quantity, price, date, and validity.",
+    "url": "https://lumari.ai/industries/semiconductors-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "No. Manufacturers and distributors can continue responding through familiar email and document workflows while Lumari structures the information for the internal team.",
+    "url": "https://lumari.ai/industries/chemicals-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Ultima Genomics Case Study: Automated Procurement | Lumari",
+    "url": "https://lumari.ai/case-studies/ultima-genomics",
+    "pass": 1
+   },
+   {
+    "quote": "OFS Case Study: 10× Faster RFQ Processing | Lumari",
+    "url": "https://lumari.ai/case-studies/ofs",
+    "pass": 1
+   },
+   {
+    "quote": "is a global furniture manufacturer founded in 1937 and based in Huntingburg, Indiana. It designs and manufactures furniture for workplace, healthcare, education, hospitality, government, and other environments.",
+    "url": "https://lumari.ai/case-studies/ofs",
+    "pass": 1
+   },
+   {
+    "quote": "Carbon Robotics Case Study: Proactive PO Management | Lumari",
+    "url": "https://lumari.ai/case-studies/carbon-robotics",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Parts & Accessories",
+    "url": "https://www.amazon.com/stores/Lumari/author/B00J251VMU?ref=ap_rdr&shoppingPortalEnabled=true",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial & Scientific",
+    "url": "https://www.amazon.com/stores/Lumari/author/B00J251VMU?ref=ap_rdr&shoppingPortalEnabled=true",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Customs docs filed before the vessel arrives.",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Award carried into a new PO with the quote terms attached.",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mechanical, electrical, optical, and computing parts all have to arrive for the same build.",
+    "url": "https://lumari.ai/industries/robotics-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Availability, pricing, alternates, lifecycle status, and shipment updates arrive across distributor portals, email, PDFs, and spreadsheets.",
+    "url": "https://lumari.ai/industries/semiconductors-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Procurement, engineering, project teams, sites, and suppliers each hold a different part of the context needed to resolve a delay.",
+    "url": "https://lumari.ai/industries/energy-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Progress updates, documentation, revised dates, and shipping details arrive across months of supplier follow-up.",
+    "url": "https://lumari.ai/industries/energy-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Carry the decision into the PO",
+    "url": "https://lumari.ai/industries/life-sciences-medical-devices",
+    "pass": 1
+   },
+   {
+    "quote": "Purity, composition, form, packaging, and site requirements narrow the acceptable supply base and make substitutions consequential.",
+    "url": "https://lumari.ai/industries/chemicals-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Carry grade, composition, packaging, quantity, site, and supplier requirements into every request.",
+    "url": "https://lumari.ai/industries/chemicals-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Certificates of analysis, safety data, compliance records, shelf life, and lot details often arrive outside the purchasing record.",
+    "url": "https://lumari.ai/industries/chemicals-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Lumari can carry customer-provided specifications, packaging needs, approved suppliers, quantities, sites, and dates into sourcing and order workflows.",
+    "url": "https://lumari.ai/industries/chemicals-materials",
+    "pass": 1
+   },
+   {
+    "quote": "That product complexity carries directly into supply chain operations. Ultima is a high-mix business managing BOMs with over 3,000 parts. Individual systems can contain hundreds of components sourced across a broad supplier base. Because many buys require a fresh quote rather than drawing from a long-running open order, the team must manage literally thousands of RFQs and POs at once.",
+    "url": "https://lumari.ai/case-studies/ultima-genomics",
+    "pass": 1
+   },
+   {
+    "quote": "Move from award to PO. Lumari carries awarded items and quote context into a new purchase order directly in NetSuite, from where approval workflows are kicked off.",
+    "url": "https://lumari.ai/case-studies/ultima-genomics",
+    "pass": 1
+   },
+   {
+    "quote": "Carry award context into NetSuite",
+    "url": "https://lumari.ai/case-studies/ultima-genomics",
+    "pass": 1
+   },
+   {
+    "quote": "When responses come back, the team can review the quote screen to confirm that required commercial and delivery terms are present before the award becomes a PO. The same item, supplier, quantity, drawing, revision, and quote context then carries forward into the PO instead of needing re-entry.",
+    "url": "https://lumari.ai/case-studies/ultima-genomics",
+    "pass": 1
+   },
+   {
+    "quote": "OFS transformed RFQ execution from a chain of manual handoffs into a scalable operating model where supplier information becomes decision-ready as it arrives. Instead of typing hundreds of cells, the sourcing team reviews the extracted data, resolves exceptions, and moves to analysis.",
+    "url": "https://lumari.ai/case-studies/ofs",
+    "pass": 1
+   },
+   {
+    "quote": "As replies arrive, Lumari extracts confirmed and revised dates, quantities, tracking numbers, and other order details.",
+    "url": "https://lumari.ai/case-studies/carbon-robotics",
+    "pass": 1
+   },
+   {
+    "quote": "Approvals and alerts arrive in Slack and are assigned to the relevant team member. Buyers can see which messages need review, which dates have changed, and what remains unresolved without having to build the context themselves from multiple systems and email threads.",
+    "url": "https://lumari.ai/case-studies/carbon-robotics",
+    "pass": 1
+   },
+   {
+    "quote": "To move between items, use your keyboard's up or down arrows.",
+    "url": "https://www.amazon.com/stores/Lumari/author/B00J251VMU?ref=ap_rdr&shoppingPortalEnabled=true",
+    "pass": 3
+   },
+   {
+    "quote": "Lumari Revenue 2025: $660K Est.",
+    "url": "https://getlatka.com/companies/lumari.io",
+    "pass": 3
+   },
+   {
+    "quote": "Lumari has not published its revenue. GetLatka estimates it at about $660K a year (September 2025).",
+    "url": "https://getlatka.com/companies/lumari.io",
+    "pass": 3
+   },
+   {
+    "quote": "Lumari has 6 employees (September 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/lumari.io",
+    "pass": 3
+   },
+   {
+    "quote": "What is Lumari's revenue?",
+    "url": "https://getlatka.com/companies/lumari.io",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Lumari's revenue at about",
+    "url": "https://getlatka.com/companies/lumari.io",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Lumari have?",
+    "url": "https://getlatka.com/companies/lumari.io",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/lumari.io",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/lumari.io",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/lumari.io",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/lumari.io",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/863158-42",
+    "pass": 3
+   },
+   {
+    "quote": "Lumari has 5 total employees.",
+    "url": "https://pitchbook.com/profiles/company/863158-42",
+    "pass": 3
+   },
+   {
+    "quote": "What is Lumari’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/863158-42",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Lumari is",
+    "url": "https://pitchbook.com/profiles/company/863158-42",
+    "pass": 3
+   },
+   {
+    "quote": "Lumari helps companies from Fortune 500s to fast-growing startups automate work from sourcing to delivery, streamline supplier communication and order management, and bring full visibility to their procurement operations.",
+    "url": "https://www.ycombinator.com/companies/lumari",
+    "pass": 3
+   },
+   {
+    "quote": "Missed delivery dates and poor visibility lead to expediting costs, production delays, and revenue risk",
+    "url": "https://www.ycombinator.com/companies/lumari",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune 500s",
+    "url": "https://www.ycombinator.com/companies/lumari",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Parses and acts on supplier emails automatically, from quotes to shipping delays, without changing your workflow.",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligent Email Processing",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Agents read and acts on supplier emails, from quotes to delays, directly in email",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Lumari is scanning a supplier email and its attachment for order and shipment changes.",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every action is logged and searchable so your team always has full visibility.Every action from sending emails to updating the ERP can require team approval. You decide what runs autonomously and what needs a sign-off.",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring your company knowledge together from ERPs, Microsoft Suite, Google Workspace, emails, communication tools, and more.",
+    "url": "https://lumari.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Lumari keeps sourcing and order work moving through engineering changes, new programs, and production ramps—across email, spreadsheets, PLM, and ERP.",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Send consistent RFQs, track replies, and follow up automatically while suppliers keep using email, PDF, or Excel.",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "ERP records transactions; production-critical commitments still live in supplier email and spreadsheets.",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "No. Suppliers can continue responding through email and the file formats they already use. Lumari extracts and organizes the information behind the scenes.",
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Email, spreadsheets, PDFs, and existing relationships continue to work as they do today.",
+    "url": "https://lumari.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Lumari connects the execution between ERP, PLM, email, and collaboration tools.",
+    "url": "https://lumari.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "No. Suppliers can continue working through familiar channels such as email and common document formats while Lumari structures the information for the internal team.",
+    "url": "https://lumari.ai/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Connect requirements and open orders across ERP, PLM, email, and collaboration tools.",
+    "url": "https://lumari.ai/industries/robotics-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Can Lumari update NetSuite from supplier email?",
+    "url": "https://lumari.ai/industries/robotics-automation",
+    "pass": 1
+   },
+   {
+    "quote": "No. Suppliers can continue using email, PDFs, and spreadsheets. Lumari works through the communication patterns they already follow.",
+    "url": "https://lumari.ai/industries/robotics-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Availability, pricing, alternates, lifecycle status, and shipment updates arrive across distributor portals, email, PDFs, and spreadsheets.",
+    "url": "https://lumari.ai/industries/semiconductors-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Lumari is designed to extract and normalize supplier responses from email, spreadsheets, PDFs, images, and other common procurement formats.",
+    "url": "https://lumari.ai/industries/semiconductors-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "No. Suppliers and distributors can continue responding through their existing email and document workflows while Lumari organizes the response for the procurement team.",
+    "url": "https://lumari.ai/industries/semiconductors-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Cleaner handoffs between PLM, ERP, email, and the supply base",
+    "url": "https://lumari.ai/industries/life-sciences-medical-devices",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Lumari can use connected PLM, ERP, email, and collaboration context to coordinate workflows while those systems remain the approved sources of record.",
+    "url": "https://lumari.ai/industries/life-sciences-medical-devices",
+    "pass": 1
+   },
+   {
+    "quote": "No. Suppliers can continue using email, PDFs, spreadsheets, and other common formats while Lumari structures the information behind the scenes.",
+    "url": "https://lumari.ai/industries/life-sciences-medical-devices",
+    "pass": 1
+   },
+   {
+    "quote": "No. Manufacturers and distributors can continue responding through familiar email and document workflows while Lumari structures the information for the internal team.",
+    "url": "https://lumari.ai/industries/chemicals-materials",
+    "pass": 1
+   },
+   {
+    "quote": "NetSuite held purchasing and order data. Arena held product, revision, sourcing, and change-order context. Supplier conversations lived in email. Internal coordination happened in Microsoft Teams. Buyers and external support staff had to connect that information by hand as they:",
+    "url": "https://lumari.ai/case-studies/ultima-genomics",
+    "pass": 1
+   },
+   {
+    "quote": "Structure supplier responses. Quotes and supplier emails are linked to the sourcing event and quote data is structured in an apples-to-apples comparison table with all required context for an award decision.",
+    "url": "https://lumari.ai/case-studies/ultima-genomics",
+    "pass": 1
+   },
+   {
+    "quote": "NetSuite remains the ERP, Arena remains the PLM, and suppliers continue working through email as usual. Lumari operates across those systems and closes the gaps between them.",
+    "url": "https://lumari.ai/case-studies/ultima-genomics",
+    "pass": 1
+   },
+   {
+    "quote": "NetSuite is more accurate because supplier updates do not stop in email",
+    "url": "https://lumari.ai/case-studies/ultima-genomics",
+    "pass": 1
+   },
+   {
+    "quote": "Each risk is connected to the relevant part, supplier, PO, and communication history, then surfaced to the team for action. Ultima can work from a prioritized set of exceptions instead of relying on someone to notice the right email, reconcile conflicting information across systems, or discover a stale commitment after it has already become a problem.",
+    "url": "https://lumari.ai/case-studies/ultima-genomics",
+    "pass": 1
+   },
+   {
+    "quote": "Supplier visibility is no longer trapped in email",
+    "url": "https://lumari.ai/case-studies/ultima-genomics",
+    "pass": 1
+   },
+   {
+    "quote": "Critical supplier context no longer depends on who happened to be included on an email.",
+    "url": "https://lumari.ai/case-studies/ultima-genomics",
+    "pass": 1
+   },
+   {
+    "quote": "Everybody has visibility into supplier responses, not just the person who is in that email chain. I just ask Lumari. I can see conversations with suppliers even though I wasn’t the one having those conversations.",
+    "url": "https://lumari.ai/case-studies/ultima-genomics",
+    "pass": 1
+   },
+   {
+    "quote": "Before Lumari, OFS managed RFQs across email, spreadsheets, PDFs, shared drives, and disconnected internal systems. There was no single place to see every open request, which suppliers had responded, what information was missing, or whether the team had followed up. Maintaining visibility depended on buyers keeping spreadsheets, folders, and inboxes synchronized by hand.",
+    "url": "https://lumari.ai/case-studies/ofs",
+    "pass": 1
+   },
+   {
+    "quote": "OFS wanted to automate work without requiring suppliers to adopt a new portal or rigid process. A portal based system relied on supplier adoption and still left the majority of the work fragmented across emails and other systems.",
+    "url": "https://lumari.ai/case-studies/ofs",
+    "pass": 1
+   },
+   {
+    "quote": "The team sends to multiple suppliers with one click, then suppliers continue responding through their normal email, spreadsheet, or PDF process.",
+    "url": "https://lumari.ai/case-studies/ofs",
+    "pass": 1
+   },
+   {
+    "quote": "The first live RFQ made the impact concrete: more than 20 steel components quoted across 5+ suppliers. Instead of rebuilding the event in a spreadsheet and drafting five emails, OFS imported the items and the agents handled the rest.",
+    "url": "https://lumari.ai/case-studies/ofs",
+    "pass": 1
+   },
+   {
+    "quote": "In practice, supplier follow-ups and coordination competed with everything else on the team’s plate. Some suppliers replied in the original email thread; others started new threads, sent PDFs, maintained spreadsheets, or required phone calls. The necessary process was too manual to execute consistently across hundreds of orders.",
+    "url": "https://lumari.ai/case-studies/carbon-robotics",
+    "pass": 1
+   },
+   {
+    "quote": "The approval layer allowed Carbon to introduce automation without giving up control. Lumari’s hands-on implementation approach accommodated those realities while allowing suppliers to continue using email, PDFs, and spreadsheets without adopting a new portal or process.",
+    "url": "https://lumari.ai/case-studies/carbon-robotics",
+    "pass": 1
+   },
+   {
+    "quote": "Approvals and alerts arrive in Slack and are assigned to the relevant team member. Buyers can see which messages need review, which dates have changed, and what remains unresolved without having to build the context themselves from multiple systems and email threads.",
+    "url": "https://lumari.ai/case-studies/carbon-robotics",
+    "pass": 1
+   },
+   {
+    "quote": "We've sent you an email with a link to update your password.",
+    "url": "https://lumaricoffee.com/pages/contact?srsltid=AYCX9vI9i0ileJSskjXb5wF3yRCj7E3960rx6EJqAHiquhmo62nmzzP-",
+    "pass": 3
+   },
+   {
+    "quote": "Please enter your e-mail and password:",
+    "url": "https://lumaricoffee.com/pages/contact?srsltid=AYCX9vI9i0ileJSskjXb5wF3yRCj7E3960rx6EJqAHiquhmo62nmzzP-",
+    "pass": 3
+   },
+   {
+    "quote": "We will send you an email to reset your password.",
+    "url": "https://lumaricoffee.com/pages/contact?srsltid=AYCX9vI9i0ileJSskjXb5wF3yRCj7E3960rx6EJqAHiquhmo62nmzzP-",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/863158-42",
+    "pass": 3
+   },
+   {
+    "quote": "Buyers spend their days copy-pasting between email, spreadsheets, and ERPs, chasing supplier quotes, following up on late POs, and manually entering delivery updates",
+    "url": "https://www.ycombinator.com/companies/lumari",
+    "pass": 3
+   },
+   {
+    "quote": "(ERP, email, Slack, Excel) with no rip-and-replace and no supplier onboarding",
+    "url": "https://www.ycombinator.com/companies/lumari",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Lumari | LinkedIn — Lumari | LinkedIn LinkedIn https://www.linkedin.com > lumari-io",
+    "url": "https://www.linkedin.com/company/lumari-io",
+    "pass": 3
+   },
+   {
+    "quote": "Lumari — Lumari playlumari.com https://www.playlumari.com",
+    "url": "https://www.playlumari.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Lumari : books, biography, latest update - Amazon.com — Lumari : books, biography, latest update - Amazon.com Amazon.com https://www.amazon.com > Lumari",
+    "url": "https://www.amazon.com/Lumari/e/B00J251VMU",
+    "pass": 3
+   },
+   {
+    "quote": "Lumari Coffee Contact – Get Support & Inquiries — Lumari Coffee Contact – Get Support & Inquiries Lumari Coffee https://lumaricoffee.com > contact",
+    "url": "https://lumaricoffee.com/pages/contact?srsltid=AYCX9vI9i0ileJSskjXb5wF3yRCj7E3960rx6EJqAHiquhmo62nmzzP-",
+    "pass": 3
+   },
+   {
+    "quote": "Listen to Lumari Songs - Spotify — Listen to Lumari Songs - Spotify Spotify https://open.spotify.com > artist",
+    "url": "https://open.spotify.com/artist/2BH1PtseivET78kcvisk5o",
+    "pass": 3
+   },
+   {
+    "quote": "Customers - Lumari AI — Customers - Lumari AI lumari.ai https://lumari.ai > case-studies",
+    "url": "https://lumari.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Lumari Revenue 2025: $660K Est. - GetLatka — Lumari Revenue 2025: $660K Est. - GetLatka GetLatka https://getlatka.com > lumari",
+    "url": "https://getlatka.com/companies/lumari.io",
+    "pass": 3
+   },
+   {
+    "quote": "Lumari 2026 Company Profile: Valuation, Funding & Investors — Lumari 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/863158-42",
+    "pass": 3
+   },
+   {
+    "quote": "Lumari : AI Digital Workers for Supply Chain | Y Combinator — Lumari : AI Digital Workers for Supply Chain | Y Combinator Y Combinator https://www.ycombinator.com > lumari",
+    "url": "https://www.ycombinator.com/companies/lumari",
+    "pass": 3
+   },
+   {
+    "quote": "Lumari - Crunchbase Company Profile & Funding — Lumari - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > lumari",
+    "url": "https://www.crunchbase.com/organization/lumari",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Lumari (@lurima_pi) / X Lumari (@lurima_pi) / X X https://x.com > lurima_pi",
+    "url": "https://x.com/lurima_pi",
+    "pass": 3
+   },
+   {
+    "quote": "Lumari on X: \"         GLOBAL PI-GCV PEACE ALLIANCE ... Lumari on X: \"         GLOBAL PI-GCV PEACE ALLIANCE ... X https://x.com > @lurima_pi",
+    "url": "https://x.com/lurima_pi/status/2119793718844936572",
+    "pass": 3
+   },
+   {
+    "quote": "Lumari on X: \"     GLOBAL PI-GCV PEACE ALLIANCE ... Lumari on X: \"     GLOBAL PI-GCV PEACE ALLIANCE ... X https://x.com > @lurima_pi",
+    "url": "https://x.com/lurima_pi/status/2119805337230610772/photo/1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Lumari | LinkedIn Lumari | LinkedIn LinkedIn https://www.linkedin.com > lumari-io",
+    "url": "https://www.linkedin.com/company/lumari-io",
+    "pass": 3
+   },
+   {
+    "quote": "Lumari Capital - LinkedIn Lumari Capital - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/lumari-capital",
+    "pass": 3
+   },
+   {
+    "quote": "Eshani Mehta - Lumari - LinkedIn Eshani Mehta - Lumari - LinkedIn LinkedIn https://www.linkedin.com > eshanime...",
+    "url": "https://www.linkedin.com/in/eshanimehta",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Lumari (@LumariMusic) - Facebook Lumari (@LumariMusic) - Facebook Facebook https://www.facebook.com > ... > Musician/band",
+    "url": "https://www.facebook.com/LumariMusic/",
+    "pass": 3
+   },
+   {
+    "quote": "Lumari Salon and Spa | Wilmington MA - Facebook Lumari Salon and Spa | Wilmington MA - Facebook Facebook https://www.facebook.com > ... > Spa",
+    "url": "https://www.facebook.com/Lumarisalonandspa/",
+    "pass": 3
+   },
+   {
+    "quote": "Stylist-Owner Nina at Lumari Salon and Spa - Facebook Stylist-Owner Nina at Lumari Salon and Spa - Facebook Facebook https://www.facebook.com > Pages > Interest",
+    "url": "https://www.facebook.com/ninaatlumarisalon/",
+    "pass": 3
+   },
+   {
+    "quote": "Tanya Napoli Owner/Stylist Lumari Salon and Spa - Facebook Tanya Napoli Owner/Stylist Lumari Salon and Spa - Facebook Facebook https://www.facebook.com > ... > Beauty Salon > Hair Salon",
+    "url": "https://www.facebook.com/tanyanapoli.lumarisalon/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://lumari.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lumari.ai/industries/advanced-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lumari.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lumari.ai/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lumari.ai/industries/aerospace-defense",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lumari.ai/industries/robotics-automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lumari.ai/industries/automotive-mobility",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lumari.ai/industries/semiconductors-electronics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lumari.ai/industries/energy-infrastructure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lumari.ai/industries/life-sciences-medical-devices",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lumari.ai/industries/chemicals-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lumari.ai/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lumari.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lumari.ai/case-studies/ultima-genomics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lumari.ai/case-studies/ofs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lumari.ai/case-studies/carbon-robotics",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://lumari.ai/assets/generated/advanced-manufacturing-floor.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://lumari.ai/assets/self-hosted/images/electronics-coming-soon-1920-d0d4eeba4a2a.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://lumari.ai/assets/self-hosted/images/industrial-coming-soon-1920-8831fca5b16e.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://lumari.ai/assets/generated/industry-life-sciences-medical-devices.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amesha-world.com/info/detail.php?id=4277",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trafficnews.jp/post/725198",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lumiere.bz/agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/10801/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://alpc.tokyo/pages/business-d2c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/lumari-io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.playlumari.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.com/stores/Lumari/author/B00J251VMU?ref=ap_rdr&shoppingPortalEnabled=true",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lumaricoffee.com/pages/contact?srsltid=AYCX9vI9i0ileJSskjXb5wF3yRCj7E3960rx6EJqAHiquhmo62nmzzP-",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lumari.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJ7jnfRGIvBt9NHB5vSTdQv-Ajk188JiEuOhqVA0pjx61oKTj27",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumafield.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webinone.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://omc.cloud/partners-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/lumari.io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/863158-42",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/lumari",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/lumari",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/lurima_pi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lurima_pi/status/2119793718844936572",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lurima_pi/status/2119805337230610772/photo/1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/lumari-io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/lumari-capital",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/eshanimehta",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/LumariMusic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Lumarisalonandspa/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ninaatlumarisalon/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tanyanapoli.lumarisalon/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lurima_pi",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Lumari 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://amesha-world.com/info/detail.php?id=4277",
+    "https://www.stellantis.jp/",
+    "https://trafficnews.jp/post/725198",
+    "https://www.webcg.net/articles/-/54501",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=160111/",
+    "https://www.instagram.com/reel/DfTb76WgVjx/",
+    "https://lumari.ai/",
+    "https://lumari.ai/about-us"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Lumari 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://lumiere.bz/agency/",
+    "https://metoree.com/companies/10801/distributors/",
+    "https://alpc.tokyo/pages/business-d2c",
+    "https://www.biz.ne.jp/list/corporate-agency/",
+    "https://dairitenboshu.com/company/758",
+    "https://www.novari.co.jp/for_agency",
+    "https://www.allbookers.com/hotel/AL/lumari-living.ja.html?id=90939",
+    "https://www.tamuracorp.com/products/agency/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Lumari Japan",
+   "results": [
+    "https://www.linkedin.com/company/lumari-io",
+    "https://www.playlumari.com/",
+    "https://www.amazon.com/Lumari/e/B00J251VMU",
+    "https://lumaricoffee.com/pages/contact?srsltid=AYCX9vI9i0ileJSskjXb5wF3yRCj7E3960rx6EJqAHiquhmo62nmzzP-",
+    "https://open.spotify.com/artist/2BH1PtseivET78kcvisk5o",
+    "https://lumari-care.com/search",
+    "https://www.santafe.org/listing/lumari-psychic-consultant/139/",
+    "https://www.names.org/n/lumari/about",
+    "https://lumari.ai/",
+    "https://lumari.ai/about-us"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Lumari manufacturing customer case study",
+   "results": [
+    "https://lumari.ai/case-studies",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJ7jnfRGIvBt9NHB5vSTdQv-Ajk188JiEuOhqVA0pjx61oKTj27",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.lumafield.com/case-studies",
+    "https://www.athenaswc.com/case-studies/",
+    "https://www.madcapsoftware.com/case-studies/",
+    "https://lumendata.com/resource/case-studies/",
+    "https://aws.amazon.com/manufacturing/case-studies/",
+    "https://www.darlingltd.com/case-studies/manufacturing-case-study/",
+    "https://lumari.ai/case-studies/ofs"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Lumari white label OR reseller OR partner program",
+   "results": [
+    "https://webinone.com/reseller-program",
+    "https://suitedash.com/white-label-software-to-resell/",
+    "https://omc.cloud/partners-program",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://www.overflowlocal.com/whitelabel",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://sales-label.com/blog/white-label-saas-reseller"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Lumari founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/lumari.io",
+    "https://pitchbook.com/profiles/company/863158-42",
+    "https://www.ycombinator.com/companies/lumari",
+    "https://www.crunchbase.com/organization/lumari",
+    "https://growjo.com/company/Lumi",
+    "https://techcrunch.com/2023/06/02/lumari-social-sandbox-game-proxima/",
+    "https://multiples.vc/private-comps/luma-ai",
+    "https://dealroom.co/news/150022-luminary-raises-22m-to-bring-ai-to-wealth-transfer-planning/",
+    "https://sacra.com/c/luma-ai/",
+    "https://startupintros.com/orgs/lumari"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Lumari",
+   "results": [
+    "https://note.com/siroao/n/n836ea9679124",
+    "https://note.com/shiga_tsubota/n/nad65b48d9ef4",
+    "https://note.com/nekonosara/n/ncaf841ad9bc3",
+    "https://note.com/kitakamix/n/n08fb2d5292a4",
+    "https://note.com/lunarimessage/m/m6c9dcc1a4485",
+    "https://note.com/tag/Claude+Design",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:x.com Lumari",
+   "results": [
+    "https://x.com/lurima_pi",
+    "https://x.com/lurima_pi/status/2117975103036383560",
+    "https://x.com/lurima_pi/status/2119793718844936572",
+    "https://x.com/lurima_pi/status/2119805337230610772/photo/1",
+    "https://x.com/lurima_pi/status/2119333307129475377",
+    "https://x.com/lurima_pi/status/2119076851947827399",
+    "https://x.com/jojo102102/status/2119359749322129563",
+    "https://x.com/lurima_pi/status/2119823231716847944/photo/1",
+    "https://x.com/lurima_pi/status/2118349546166374751",
+    "https://x.com/lurima_pi/status/2118700308817916195"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Lumari",
+   "results": [
+    "https://www.linkedin.com/company/lumari-io",
+    "https://www.linkedin.com/in/samarthlamba",
+    "https://www.linkedin.com/company/lumari-capital",
+    "https://www.linkedin.com/in/eshanimehta",
+    "https://www.linkedin.com/in/lumari-perez",
+    "https://www.linkedin.com/in/terry-kavanaugh-0275492",
+    "https://www.linkedin.com/in/rahulmalpani",
+    "https://www.linkedin.com/posts/lumari-io_the-version-of-lumari-a-team-is-running-in-activity-7513661621936848896-lahL",
+    "https://www.linkedin.com/in/lumari-thompson-49559310",
+    "https://www.linkedin.com/in/lumari"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Lumari",
+   "results": [
+    "https://www.facebook.com/LumariMusic/",
+    "https://www.facebook.com/Lumarisalonandspa/",
+    "https://www.facebook.com/ninaatlumarisalon/",
+    "https://www.facebook.com/tanyanapoli.lumarisalon/",
+    "https://www.facebook.com/groups/132728896890594/posts/3457844004379050/",
+    "https://www.facebook.com/LumariMusic/posts/new-show-alert-we-hope-to-see-you-on-friday-november-6-at-zhora-darling-here-in-/1995409964728646/",
+    "https://www.facebook.com/lumari.nortje/",
+    "https://www.facebook.com/SriShuvro.Bhattacharya22/posts/lumari-ajima-she-who-turned-bread-into-goldnewar-oral-tradition-tells-that-the-f/26049044004779233/",
+    "https://www.facebook.com/dreammiler/posts/big-pb-tonightlumari-de-beer-became-the-3rd-fastest-u15-dogsquad-athlete-over-30/10236089651846655/",
+    "https://www.facebook.com/lumari13/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Lumari note 社長",
+   "results": [
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/sadaaki",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://diamond.jp/articles/-/388572",
+    "https://x.com/sadaaki",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.com/maru10/m/mb4392601a6d9/hashtag/%E8%A6%96%E8%A6%9A%E5%8C%96",
+    "https://note.com/curama/m/mbf8fdad4aa6b",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Lumari X 投稿",
+   "results": [
+    "https://x.com/lurima_pi",
+    "https://lumarisx.com/en",
+    "https://x.com/Lumituber",
+    "https://gamemarket.jp/booth/1539",
+    "https://www.instagram.com/luminari/",
+    "https://lumarix.app/",
+    "https://www.lumaryx.com/",
+    "https://x.com/lumariart",
+    "https://x.com/playlumari",
+    "https://www.instagram.com/lumari.official/reels/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部35頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部35頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部35頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部35頁・検索12回）"
+ }
+}

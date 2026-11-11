@@ -1,0 +1,896 @@
+{
+ "name": "Waydev",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T05:38:38.440590+00:00",
+ "official_url": "https://waydev.co/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2017",
+    "url": "https://waydev.co/about-us/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "(G2 Crowd’s Summer & Spring 2026)",
+    "url": "https://waydev.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Understand the impact and ROI of AI across your organization. Powered by DORA, SPACE, DX, and CAFE(S) to measure the productivity of agents and builders.",
+    "url": "https://waydev.co/",
+    "pass": 1
+   },
+   {
+    "quote": "WAYDEV BRAIN · PRIVATE AI FOR ENGINEERING",
+    "url": "https://waydev.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet Waydev Brain: private AI that helps engineering leaders explore delivery performance, AI adoption, and engineering investment through natural-language questions.",
+    "url": "https://waydev.co/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODUCT DIRECTION · EXPLORING",
+    "url": "https://waydev.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Request an enterprise demo",
+    "url": "https://waydev.co/",
+    "pass": 1
+   },
+   {
+    "quote": "“By 2027, the use of developer productivity insight platforms by software engineering organizations to increase developer productivity will rise to 50%.” – Market Guide to Software Engineering Intelligence Platforms",
+    "url": "https://waydev.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Use data to improve your product strategy",
+    "url": "https://waydev.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve efficiencies, speed up product development and drive up productivity.",
+    "url": "https://waydev.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify how scope creep and bug fixes impact your delivery. Optimize how resources are allocated and improve your velocity.",
+    "url": "https://waydev.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor the status and costs of deliverables. Help engineering teams ship on schedule and communicate progress to stakeholders.",
+    "url": "https://waydev.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Complete visibility of your team with a data-driven story of how everyone is progressing",
+    "url": "https://waydev.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Enhances your ability to comprehensively assess team and individual performance. Now, visualize data effectively using cards, tables, scatter plots, and radar charts.",
+    "url": "https://waydev.co/",
+    "pass": 1
+   },
+   {
+    "quote": "The Insights dashboard provides a comprehensive summary of your company and projects’ recent activities, enabling you to understand progress better.",
+    "url": "https://waydev.co/",
+    "pass": 1
+   },
+   {
+    "quote": "The new way to improve your engineering performance",
+    "url": "https://waydev.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Sprints and manual reports",
+    "url": "https://waydev.co/",
+    "pass": 1
+   },
+   {
+    "quote": "“Waydev helped us identify the output of our teams. It improved the overall efficiency of our engineering teams.”",
+    "url": "https://waydev.co/",
+    "pass": 1
+   },
+   {
+    "quote": "“We’re already seeing that productive throughput has almost doubled, and the commits per day and active days have gone up – 20%, 30% each.”",
+    "url": "https://waydev.co/",
+    "pass": 1
+   },
+   {
+    "quote": "“It’s easy to use, and provides helpful insights on how to support our engineering teams. Their support is VERY fast, which I love.”",
+    "url": "https://waydev.co/",
+    "pass": 1
+   },
+   {
+    "quote": "“Thanks to Waydev, we have a lot of insight into the whole development process and a more data-driven approach.”",
+    "url": "https://waydev.co/",
+    "pass": 1
+   },
+   {
+    "quote": "READY TO ADOPT A DEVELOPER PRODUCTIVITY INSIGHT PLATFORM?",
+    "url": "https://waydev.co/",
+    "pass": 1
+   },
+   {
+    "quote": "(G2 Crowd’s Summer & Spring 2026)",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver reliably and predictably",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve change quality",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Measure progress against goals",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Practical resources for engineering leaders.",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Calculate the value of engineering improvements",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "A practical guide to measuring AI agent impact",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Private engineering AI",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Code-to-production outcomes",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve speed and reliability",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Profitable Engineering",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Use data to improve your product strategy",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Waydev’s product and feature set",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "\"I like that Waydev gives me a bird’s eye view of my engineering team’s efficiency and productivity.\"",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We’re already seeing that in the past three months productive have gone up 30%\"",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise engineering analytics",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Code Production Survival: Research Design and Measurement Specification",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how the engineering leaders at Sovos doubled the productive throughput using Waydev",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how engineering managers at Appjobs improved their PR resolution time with Waydev",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how the Engineering Leaders at WOM improved team efficiency with Waydev",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how the Engineering Leaders at ChargeNode improved team efficiency using Waydev",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how the Engineering Leaders at Yellowbrick identified the areas of slow progress using Waydev",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Read how engineering executives at Retreat Guru started delivering better products faster using Waydev",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Scalability",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Visibility and Predictability",
+    "url": "https://waydev.co/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "(G2 Crowd’s Summer & Spring 2026)",
+    "url": "https://waydev.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver reliably and predictably",
+    "url": "https://waydev.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve change quality",
+    "url": "https://waydev.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Measure progress against goals",
+    "url": "https://waydev.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Practical resources for engineering leaders.",
+    "url": "https://waydev.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Calculate the value of engineering improvements",
+    "url": "https://waydev.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "A practical guide to measuring AI agent impact",
+    "url": "https://waydev.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Private engineering AI",
+    "url": "https://waydev.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Code-to-production outcomes",
+    "url": "https://waydev.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve speed and reliability",
+    "url": "https://waydev.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Profitable Engineering",
+    "url": "https://waydev.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Use data to improve your product strategy",
+    "url": "https://waydev.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Waydev’s product and feature set",
+    "url": "https://waydev.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "\"I like that Waydev gives me a bird’s eye view of my engineering team’s efficiency and productivity.\"",
+    "url": "https://waydev.co/partners/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 300+ companies around the world",
+    "url": "https://waydev.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: How TATA Health is Driving Conversations with Data - Waydev",
+    "url": "https://waydev.co/tata-health-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Tata Health Case Study",
+    "url": "https://waydev.co/tata-health-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Citi Ventures Case Study | Waydev",
+    "url": "https://waydev.co/citi-ventures-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Citi Ventures Case Study",
+    "url": "https://waydev.co/citi-ventures-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Sovos Case Study | Waydev",
+    "url": "https://waydev.co/sovos-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 300+ companies around the world",
+    "url": "https://waydev.co/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "About Waydev, and the model and agent that will fly your software factory.",
+    "url": "https://waydev.co/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by engineering teams at",
+    "url": "https://waydev.co/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "trusted by Fortune 500 companies including",
+    "url": "https://waydev.co/about-alex-circei/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by engineering leaders at",
+    "url": "https://waydev.co/about-alex-circei/",
+    "pass": 1
+   },
+   {
+    "quote": "Waydev is a software engineering intelligence platform that helps engineering leaders measure AI adoption, impact, and ROI. It is used by Fortune 500 companies including American Express, Dropbox, Caterpillar, and PwC, and is associated with a",
+    "url": "https://waydev.co/about-alex-circei/",
+    "pass": 1
+   },
+   {
+    "quote": "Worldwide Oilfield Machine (WOM) Case Study | Waydev",
+    "url": "https://waydev.co/wom-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Yellowbrick Case Study | Waydev",
+    "url": "https://waydev.co/yellowbrick-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Yellowbrick Case Study",
+    "url": "https://waydev.co/yellowbrick-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Yellowbrick data is a modern data warehouse founded in 2014 to help enterprises make faster decisions while reducing risk and predicting and controlling costs. After using Waydev, their director of engineering decided to review the platform and share how is Waydev benefiting the company.",
+    "url": "https://waydev.co/yellowbrick-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by engineering teams at global enterprises",
+    "url": "https://waydev.co/demo/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 300+ companies around the world",
+    "url": "https://waydev.co/demo/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "FORTUNE 500",
+    "url": "https://waydev.co/",
+    "pass": 1
+   },
+   {
+    "quote": "FORTUNE 500",
+    "url": "https://waydev.co/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Harrison’s H4 timekeeper, from",
+    "url": "https://waydev.co/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The Principles of Mr Harrison’s Time-keeper",
+    "url": "https://waydev.co/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Harrison’s clock watched the sea, not the sailors. We hold the same line. We measure systems, teams, tools, and agents so engineers get better conditions and a better co-pilot, never a ranking of keystrokes.",
+    "url": "https://waydev.co/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "H4’s trial voyage to Jamaica was overseen by Harrison’s son, William.",
+    "url": "https://waydev.co/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "trusted by Fortune 500 companies including",
+    "url": "https://waydev.co/about-alex-circei/",
+    "pass": 1
+   },
+   {
+    "quote": "that Fortune 500 engineering",
+    "url": "https://waydev.co/about-alex-circei/",
+    "pass": 1
+   },
+   {
+    "quote": "Waydev is a software engineering intelligence platform that helps engineering leaders measure AI adoption, impact, and ROI. It is used by Fortune 500 companies including American Express, Dropbox, Caterpillar, and PwC, and is associated with a",
+    "url": "https://waydev.co/about-alex-circei/",
+    "pass": 1
+   },
+   {
+    "quote": "Part of Winter Batch, 2021",
+    "url": "https://waydev.co/demo/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Join the Waydev Partner Program",
+    "url": "https://waydev.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Seize the opportunity to join the Waydev Partner Program, to help your customers deliver better products faster, capture a hyper-growth/untapped market, deliver customer success and earn money!",
+    "url": "https://waydev.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Apply for our Partner Program today",
+    "url": "https://waydev.co/partners/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Our support team will answer your questions via email or in-app live chat.",
+    "url": "https://waydev.co/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "All plans are billed annually per active contributor. Contact us for pricing.",
+    "url": "https://waydev.co/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Billing happens on the anniversary on an annual basis. Please contact us if you need other options.",
+    "url": "https://waydev.co/pricing/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://waydev.co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://waydev.co/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://waydev.co/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://waydev.co/software-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://waydev.co/glossary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://waydev.co/tata-health-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://waydev.co/citi-ventures-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://waydev.co/sovos-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://waydev.co/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://waydev.co/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://waydev.co/about-alex-circei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://waydev.co/wom-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://waydev.co/yellowbrick-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://waydev.co/demo/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.reddit.com/r/FASCAmazon/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/2007scape/comments/8yvq9d/can_i_use_the_amazon_fire_hd_tablet_for_osrs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/amazon/about/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/hometheater/comments/8mrmob/anyone_ever_order_their_tv_through_amazon_howd_it/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://us.forums.blizzard.com/en/blizzard/t/cannot-download-any-games-from-battlenet/33077",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://us.forums.blizzard.com/en/warcraft3/t/download-just-warcraft-3-not-reforged/22017",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://eu.forums.blizzard.com/en/blizzard/t/cant-update-diablo-2-to-version-114d/4926",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://eu.forums.blizzard.com/en/wow/t/my-battlenet-app-is-downloading-some-beta-and-its-hogging-all-of-my-bandwidth-cant-turn-it-off-cant-stop-it/502412",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ticketmaster.com/discover/sports",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ticketmaster.com/discover/concerts",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://blog.ticketmaster.com/things-to-do-near-state-farm-stadium/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.ticketmaster.com/discover-concerts-ai-platforms/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pizza.dominos.com/texas/texarkana",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pizza.dominos.com/texas/rosenberg/5405-ave-i",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pizza.dominos.com/texas/richmond/1858-fm-359",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pizza.dominos.com/texas/richmond/18502-w-bellfort-st",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fedex.com/en-us/tracking.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fedex.com/en-gb/tracking.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fedex.com/en-in/tracking.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fedex.com/en-au/tracking.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Waydev 日本 導入",
+   "results": [
+    "https://www.reddit.com/r/FASCAmazon/",
+    "https://www.reddit.com/r/2007scape/comments/8yvq9d/can_i_use_the_amazon_fire_hd_tablet_for_osrs/",
+    "https://www.reddit.com/r/amazon/about/",
+    "https://www.reddit.com/r/hometheater/comments/8mrmob/anyone_ever_order_their_tv_through_amazon_howd_it/",
+    "https://www.reddit.com/r/amazon/comments/3hiaq1/is_it_reliable_to_buy_used_book_from_amazon/",
+    "https://www.reddit.com/r/amazon/comments/3xochc/is_amazon_packaging_discreet/",
+    "https://www.reddit.com/r/amazonprime/comments/128otcb/scary_mail_from_ofmamazoncom/",
+    "https://www.reddit.com/r/amazon/comments/4p4rxa/unknown_gift_card_applied_to_my_account/",
+    "https://www.reddit.com/r/AmazonLunaHub/wiki/index/",
+    "https://www.reddit.com/r/kindlefire/comments/wrj37k/amazon_store_app_no_longer_supported_on_my_fire/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Waydev 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Waydev Japan",
+   "results": [
+    "https://us.forums.blizzard.com/en/blizzard/t/cannot-download-any-games-from-battlenet/33077",
+    "https://us.forums.blizzard.com/en/warcraft3/t/download-just-warcraft-3-not-reforged/22017",
+    "https://eu.forums.blizzard.com/en/blizzard/t/cant-update-diablo-2-to-version-114d/4926",
+    "https://eu.forums.blizzard.com/en/wow/t/my-battlenet-app-is-downloading-some-beta-and-its-hogging-all-of-my-bandwidth-cant-turn-it-off-cant-stop-it/502412",
+    "https://us.forums.blizzard.com/en/blizzard/t/battle-net-wont-install-stuck-at-downloading-new-files/11809",
+    "https://eu.forums.blizzard.com/en/overwatch/t/game-stuck-on-calculating-size/25105",
+    "https://eu.forums.blizzard.com/en/warcraft3/t/where-can-i-download-my-reign-of-chaos/71",
+    "https://eu.forums.blizzard.com/en/wow/t/extremely-slow-patch-downloading/603988",
+    "https://eu.forums.blizzard.com/en/wow/t/my-battle-net-wont-install-it-gets-stuck-at-88/425035",
+    "https://eu.forums.blizzard.com/en/d4/t/battlenet-downloadsupdates-crashes-my-entire-connect-fibre-1gb-internet-plz-help-read-for-more-info/13574"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Waydev manufacturing customer case study",
+   "results": [
+    "https://www.ticketmaster.com/discover/sports",
+    "https://www.ticketmaster.com/discover/concerts",
+    "https://blog.ticketmaster.com/things-to-do-near-state-farm-stadium/",
+    "https://blog.ticketmaster.com/discover-concerts-ai-platforms/",
+    "https://help.ticketmaster.com/hc/en-us/categories/13919047702033-Event-Updates",
+    "https://business.ticketmaster.com/gemini-and-ticketmaster-bring-live-event-discovery-to-ai/",
+    "https://www.ticketmaster.com/discover/basketball-KnvZfZ7vAde/dallas",
+    "https://www.ticketmaster.com/discover/los-angeles?categoryId=KZFzniwnSyZfZ7v7nE",
+    "https://www.ticketmaster.com/discover/soccer-KnvZfZ7vA7E/chicago",
+    "https://www.ticketmaster.com/discover/sports/pittsburgh"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Waydev white label OR reseller OR partner program",
+   "results": [
+    "https://pizza.dominos.com/texas/texarkana",
+    "https://pizza.dominos.com/texas/rosenberg/5405-ave-i",
+    "https://pizza.dominos.com/texas/richmond/1858-fm-359",
+    "https://pizza.dominos.com/texas/richmond/18502-w-bellfort-st",
+    "https://pizza.dominos.com/texas/texarkana/2730-richmond-road",
+    "https://pizza.dominos.com/texas/rosenberg/1636-fm-2977-rd",
+    "https://pizza.dominos.com/",
+    "https://pizza.dominos.com/new-york/staten-island",
+    "https://pizza.dominos.com/new-york/staten-island/1430-richmond-ave",
+    "https://pizza.dominos.com/virginia/alexandria"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Waydev founded funding employees revenue",
+   "results": [
+    "https://www.fedex.com/en-us/tracking.html",
+    "https://www.fedex.com/en-gb/tracking.html",
+    "https://www.fedex.com/en-in/tracking.html",
+    "https://www.fedex.com/en-au/tracking.html",
+    "https://www.fedex.com/en-us/tracking/advanced.html",
+    "https://www.fedex.com/zh-tw/tracking.html",
+    "https://www.fedex.com/en-be/tracking.html",
+    "https://www.fedex.com/en-tt/tracking.html",
+    "https://www.fedex.com/es-es/tracking.html",
+    "https://www.fedex.com/en-sg/home.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:note.com Waydev",
+   "results": [
+    "https://en.wikipedia.org/wiki/Microsoft",
+    "https://www.microsoft.com/en-us",
+    "https://account.microsoft.com/account-checkup",
+    "https://myaccount.microsoft.com/login",
+    "https://m365.cloud.microsoft/?origindomain=Office",
+    "https://account.microsoft.com/account",
+    "https://myaccount.microsoft.com/",
+    "https://www.microsoft.com/en-us/download",
+    "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365",
+    "https://apps.microsoft.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:x.com Waydev",
+   "results": [
+    "https://techcommunity.microsoft.com/discussions/windowsinsiderprogram/windows-8-1-iso-download-for-64-and-32-bit/4454650",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-continues-build-the-skills-that-move-business-forward/4494139",
+    "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128",
+    "https://support.microsoft.com/en-gb/contactus",
+    "https://support.microsoft.com/es-ar/contactus/",
+    "https://www.microsoft.com/en-us/",
+    "https://support.microsoft.com/fr-be/contactus/",
+    "https://support.microsoft.com/en-us/edge/",
+    "https://support.microsoft.com/en-us/accounts-billing/work-school/sign-in-to-your-work-or-school-account-using-two-step-verification"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com Waydev",
+   "results": [
+    "https://answers.microsoft.com/?dg=microsoft.public.office.developer.com.add_ins&tid=a2b03383-8be8-40b8-98b2-192a3192f888&cat=en_US_fd2c131b-df16-48e2-99f7-c5bc7172f2d7&lang=en&cr=US",
+    "https://www.answers.microsoft.com/ja-jp/windows/forum/all/ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â«ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¨ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¨ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â­ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¥ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â®ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡/9804990c-60c8-440c-b1ab-2a0a01c8a749",
+    "https://www.answers.microsoft.com/ja-jp/windows/forum/all/ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¹ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¿ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Â¹ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡/023f32f5-479b-465f-ab1f-813cec5f4efd",
+    "https://www.answers.microsoft.com/ja-jp/windows/forum/windows_7-windows_install/windows7のdsp版をfddと/63d82597-a57c-4ced-a95d-16464a599639こういう質疑例がMicrosoftのサイトにあって、厳密にはアウトということになります。DSP版は、もともとパソコンを作るための付属品ではなくそのパーツを稼働させるための付属品という位置づけで特別に低価格で提供されたものです。そのパーツなくして、その付属品だけが使い続けられるのは不自然きわまりありません。それを、Windowsに依存しながらWindowsを通常価格に見合う価値が無いと考える人が…制限付きで安く買ったものを、パーツがだめになっても使い続けるためにパーツが稼働できなくても、貼り付けておけばいいという主張を広めてきたようです。もともと、DSP版には販売する業者が運用についての条件を決められる側面があり「テープで貼っておいてもダメです」といった警告が出されることは無かったようです。ところが、2011年のWindows",
+    "https://www.answers.microsoft.com/ja-jp/windows/forum/all/ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¹ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â®ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£/b45f8dde-aa4a-4598-ab6e-21a67f8b6ec2",
+    "https://www.answers.microsoft.com/ja-jp/windows/forum/all/ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡/55dd8522-1caa-4ae4-80b4-3d0fe4944f22",
+    "https://www.answers.microsoft.com/en-us/windows/forum/all/windows-10-reset-and-fully-clean-the-drive-on-ssd/6a1b2a43-7aed-41da-a768-7425c6143226answers.microsoft.comやsocial.technet.microsoft.comにはさまざまな英語資料を速やかに読める英語話者達が多く参加し平均的な日本語話者が探し出すことが難しい情報を早い時期に話題にしていることがよくあります。日本で「高速起動によるUSB-HDDのトラブル」が話題になる半年前にMicrosoftのサイトには、英語でその質疑が残されていたくらいです。日本は、そもそも日本マイクロソフトがMicrosoftと充分な情報共有を与えられておらず必然的に、わかりにくい問題や難しい問題は英語の資料にあたらざるを得ない状況があります。ところが、前述のリンク先では、SSDの場合の抹消の有効性についてはっきりしたことがわからないままになっているようで「どうもMicrosoftはこの質問に答えたくないようだ」と疑われているようです。検証手段はあって、cipherで行われる米国防総省水準の時間がかかる抹消処理とfully",
+    "https://www.answers.microsoft.com/ja-jp/msteams/forum/all/teamsÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¾ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¹ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¯ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©/4850be98-e651-4d92-8a05-d1489edbf168",
+    "https://www.answers.microsoft.com/ja-jp/windows/forum/apps_windows_10-msedge/microsoft-edge/252f30fb-a46d-48f1-9dff-46f1ebf7ddc1↑少し違うかもですが、マイクロソフトのコミュニティに書いてある方法を試して下さい。&gt;アプリのトラブルシューティングを実行してみると良さそうです。手順:[コントロールパネル]→[システムとセキュリティ]→[セキュリティとメンテナンス]→[トラブルシューティング]の順に開き、[すべて表示]を選択して&quot;Windowsストアアプリ&quot;の診断を行ってみてください。もし、上記の対処法を試してみてもうまくいかない場合は、ひとまず、有効な対処法が見つかるまではIEをかわりに使用されると良いと思います。",
+    "https://www.answers.microsoft.com/zh-hans/windows/forum/all/ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¥ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â½ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â»ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â½win8ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂºÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â´ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°/d8c51abf-b863-4da3-9596-797deace59f7"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com Waydev",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Waydev note 社長",
+   "results": [
+    "https://www.metasrc.com/lol/mayhem/champions/thresh/build",
+    "https://u.gg/lol/champions/aram-mayhem/thresh-aram-mayhem",
+    "https://blitz.gg/lol/champions/Thresh/aram-mayhem",
+    "https://www.op.gg/lol/modes/aram-mayhem/thresh/build",
+    "https://u.gg/lol/champions/aram/thresh-aram",
+    "https://arammayhem.com/build/thresh/",
+    "https://mobalytics.gg/lol/champions/thresh/mayhem-builds",
+    "https://www.metasrc.com/lol/aram/champions/thresh/build",
+    "https://playaram.gg/en/tuong/thresh",
+    "https://mayhemmeta.com/champions/thresh"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Waydev X 投稿",
+   "results": [
+    "https://support.microsoft.com/en-us/support/get-help/about-get-help",
+    "https://support.microsoft.com/en-us/windows/how-to-get-help-in-windows-711b6492-0435-0038-8706-7c6b0feb200a",
+    "https://www.reddit.com/r/Windows11/comments/q1ukzk/where_to_get_realtek_audio_driver_for_windows_11/",
+    "https://www.reddit.com/r/techsupport/comments/4zxckp/how_do_i_disable_windows_10_how_do_i_get_help/",
+    "https://support.microsoft.com/de-de/support/get-help/about-get-help",
+    "https://support.microsoft.com/ja-jp/support/get-help/about-get-help",
+    "https://support.microsoft.com/pt-br/windows/como-obter-ajuda-no-windows-711b6492-0435-0038-8706-7c6b0feb200a",
+    "https://support.microsoft.com/it-it/windows/come-ottenere-assistenza-in-windows-711b6492-0435-0038-8706-7c6b0feb200a",
+    "https://www.reddit.com/r/Windows11/comments/12pfepi/why_is_win_11_hated_so_much_compared_to_win_10/",
+    "https://support.microsoft.com/nl-nl/windows/hulp-vragen-in-windows-711b6492-0435-0038-8706-7c6b0feb200a"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）"
+ }
+}

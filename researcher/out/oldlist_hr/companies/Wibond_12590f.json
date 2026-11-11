@@ -1,0 +1,897 @@
+{
+ "name": "Wibond",
+ "aliases": [],
+ "context": "旧営業リスト｜Payments｜未接触",
+ "researched_at": "2026-11-11T05:49:35.547368+00:00",
+ "official_url": "https://www.wibond.co/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "15-Sep-2021    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/435782-44",
+    "pass": 3
+   },
+   {
+    "label": "Total equity funding",
+    "value": "$6M",
+    "url": "https://dureach.com/company/wibond",
+    "pass": 3
+   },
+   {
+    "label": "Last funding",
+    "value": "Seed / 2022-12-16",
+    "url": "https://dureach.com/company/wibond",
+    "pass": 3
+   },
+   {
+    "label": "Last equity funding",
+    "value": "Seed",
+    "url": "https://dureach.com/company/wibond",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "label": "Contact email",
+    "value": "[email protected]",
+    "url": "https://dureach.com/company/wibond",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue range",
+    "value": "$1K+",
+    "url": "https://dureach.com/company/wibond",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2020-01-01",
+    "url": "https://dureach.com/company/wibond",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Córdoba, Cordoba, Argentina",
+    "url": "https://dureach.com/company/wibond",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Nuestros productos módulares",
+    "url": "https://www.wibond.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Pon en marcha tu ecosistema financiero en días, sin desarrollos propios.",
+    "url": "https://www.wibond.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Elige los módulos que necesitas y expande tu propuesta sin desarollar tecnología propia.",
+    "url": "https://www.wibond.co/",
+    "pass": 1
+   },
+   {
+    "quote": "tu propio ecosistema financiero",
+    "url": "https://www.wibond.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Con el Módulo Wallet de Wibond, puedes lanzar cuentas digitales con CVU, habilitar pagos, recargas y transferencias, y emitir tarjetas prepagas físicas o virtuales. Todo con conciliaciones en tiempo real, rendimientos automáticos e interoperabilidad con bancos y otras billeteras.",
+    "url": "https://www.wibond.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Tarjetas prepagas físicas y virtuales para compras online o en tiendas.",
+    "url": "https://www.wibond.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Activa cobros digitales y presenciales con tu marca, sin fricciones ni desarrollos",
+    "url": "https://www.wibond.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Con el Módulo Payments de Wibond, tu empresa puede ofrecer todos los métodos de cobro que necesita tu red, desde una sola plataforma y bajo tu propia marca, sin desarrollos complejos ni múltiples integraciones.",
+    "url": "https://www.wibond.co/",
+    "pass": 1
+   },
+   {
+    "quote": "SmartPOS para ventas presenciales y terminales integradas.",
+    "url": "https://www.wibond.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Con el Módulo Lending de Wibond, habilita préstamos y adelantos sobre cuentas por cobrar de forma automática. Wibond se encarga del scoring, capital, riesgo y cobranzas, para que tu red acceda a liquidez en minutos.",
+    "url": "https://www.wibond.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Préstamos automatizados y adelantos inmediatos.",
+    "url": "https://www.wibond.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Escalá tu propuesta financiera sin construirla desde cero.",
+    "url": "https://www.wibond.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Wibond es una plataforma marca blanca de servicios financieros que permite a las empresas integrar wallets, pagos y soluciones de crédito en su propio ecosistema digital, de forma rápida y escalable. Ayudamos a monetizar usuarios, optimizar flujos de dinero y lanzar productos financieros sin fricción operativa ni regulatoria.",
+    "url": "https://www.wibond.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Política de privacidad de datos",
+    "url": "https://www.wibond.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Wibond SAS se encuentra inscripta en el Registro de Proveedores de Servicios de Pago del BCRA bajo el N° 33.551. La inscripción en dicho registro no implica autorización para operar como entidad financiera ni certifica el correcto funcionamiento de la empresa.",
+    "url": "https://www.wibond.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Wibond opera además con las funciones de aceptación y subadquirencia/agregación bajo la misma inscripción PSP N° 33.551, y como Proveedor No Financiero de Crédito (Registro PNFC N° 55386).",
+    "url": "https://www.wibond.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Wibond, an Argentine fintech company, needed to build a secure and scalable omnichannel platform for its all-in-one virtual wallet. They partnered with Santex to develop a flexible backend capable of supporting payments, transfers, and fund management while integrating with web and mobile environments and maintaining strict security protocols.",
+    "url": "https://www.casestudies.com/company/santex/case-study/wibond-launches-a-secure-fee-free-digital-wallet-in-just-a-few-weeks-with-santex",
+    "pass": 3
+   },
+   {
+    "quote": "With Simetrik, every new provider integrates easily.",
+    "url": "https://simetrik.com/simetrik-wibond/",
+    "pass": 3
+   },
+   {
+    "quote": "Providers reconciled (BIND, Pomelo, TAPI)",
+    "url": "https://simetrik.com/simetrik-wibond/",
+    "pass": 3
+   },
+   {
+    "quote": "Wibond is a Fintech-as-a-Service (FaaS) platform born in Argentina that enables B2B companies to integrate financial services under their own brand: digital wallets, payments, financing, and prepaid cards. It operates as a Payment Service Provider registered with the BCRA, integrating providers such as Bind, Mastercard, VISA, Pomelo, and TAPI.",
+    "url": "https://simetrik.com/simetrik-wibond/",
+    "pass": 3
+   },
+   {
+    "quote": "As a FaaS platform integrating multiple payment providers, Wibond needed to ensure every processed transaction was accurately reflected in its backend. Without a structured reconciliation model, it faced operational opacity and growing risk.",
+    "url": "https://simetrik.com/simetrik-wibond/",
+    "pass": 3
+   },
+   {
+    "quote": "No unified model per provider",
+    "url": "https://simetrik.com/simetrik-wibond/",
+    "pass": 3
+   },
+   {
+    "quote": "Each provider with its own reporting format, without a unified comparison model.",
+    "url": "https://simetrik.com/simetrik-wibond/",
+    "pass": 3
+   },
+   {
+    "quote": "New providers joining (Payway) without a foundation to absorb new data sources.",
+    "url": "https://simetrik.com/simetrik-wibond/",
+    "pass": 3
+   },
+   {
+    "quote": "No automated reconciliation between backend and providers",
+    "url": "https://simetrik.com/simetrik-wibond/",
+    "pass": 3
+   },
+   {
+    "quote": "No structured visibility into transaction status by provider",
+    "url": "https://simetrik.com/simetrik-wibond/",
+    "pass": 3
+   },
+   {
+    "quote": "No infrastructure to scale to new providers",
+    "url": "https://simetrik.com/simetrik-wibond/",
+    "pass": 3
+   },
+   {
+    "quote": "Architecture ready to onboard Payway and future providers with minimal friction",
+    "url": "https://simetrik.com/simetrik-wibond/",
+    "pass": 3
+   },
+   {
+    "quote": "Wibond needed certainty on every transaction flowing through its platform. With Simetrik, it implemented an automated reconciliation model that matches its backend against each provider’s reports by unique identifier—traceable, scalable, and operational from day one.",
+    "url": "https://simetrik.com/simetrik-wibond/",
+    "pass": 3
+   },
+   {
+    "quote": "Wibond operates with multiple providers and distinct flows. Simetrik structured control across 3 domains, without complex logic or manual processes.",
+    "url": "https://simetrik.com/simetrik-wibond/",
+    "pass": 3
+   },
+   {
+    "quote": "Reconciled vs unreconciled dashboards by provider, with daily views and instant download.",
+    "url": "https://simetrik.com/simetrik-wibond/",
+    "pass": 3
+   },
+   {
+    "quote": "as a development site. Switch to a production site key to",
+    "url": "https://simetrik.com/simetrik-wibond/",
+    "pass": 3
+   },
+   {
+    "quote": "Wibond is an Argentine fintech that provides a virtual wallet for individuals and businesses to make payments, transfers, collections, and withdrawals in a simple, fast, and secure way—with no hidden fees. The company’s mission is to democratize access to financial services, promoting inclusion and autonomy through an intuitive digital experience.",
+    "url": "https://santexgroup.com/stories-of-impact/wibond-the-all-in-one-virtual-wallet-for-secure-and-efficient-transactions",
+    "pass": 3
+   },
+   {
+    "quote": "To fulfill this vision, Wibond needed a truly omnichannel platform—spanning mobile apps, web paywalls, QR codes, and payment buttons. Because their value proposition includes zero commissions, the development had to focus on offering seamless access to core features for both consumers and businesses, enabling them to operate through traditional or emerging payment methods.",
+    "url": "https://santexgroup.com/stories-of-impact/wibond-the-all-in-one-virtual-wallet-for-secure-and-efficient-transactions",
+    "pass": 3
+   },
+   {
+    "quote": "Following a detailed requirements analysis, Santex partnered with Wibond to design a robust backend capable of supporting multiple key modules: payments, transfers, withdrawals, and fund management—all while maintaining strict security protocols to protect sensitive data (such as KYC, credentials, and tokens).",
+    "url": "https://santexgroup.com/stories-of-impact/wibond-the-all-in-one-virtual-wallet-for-secure-and-efficient-transactions",
+    "pass": 3
+   },
+   {
+    "quote": "Additionally, Wibond’s business roadmap demanded a platform that could scale efficiently in terms of users and operations without compromising performance. Seamless integration with web environments (widgets, embedded payments), mobile apps, and management dashboards was also critical for success.",
+    "url": "https://santexgroup.com/stories-of-impact/wibond-the-all-in-one-virtual-wallet-for-secure-and-efficient-transactions",
+    "pass": 3
+   },
+   {
+    "quote": "A web-based interface (with QR, widgets, and payment buttons) connected to a real-time backend that processes transactions securely.",
+    "url": "https://santexgroup.com/stories-of-impact/wibond-the-all-in-one-virtual-wallet-for-secure-and-efficient-transactions",
+    "pass": 3
+   },
+   {
+    "quote": "Supports user onboarding, identity verification (KYC), dashboards, transaction history, and overall account administration.",
+    "url": "https://santexgroup.com/stories-of-impact/wibond-the-all-in-one-virtual-wallet-for-secure-and-efficient-transactions",
+    "pass": 3
+   },
+   {
+    "quote": "Industry-standard protocols (HTTPS, encryption, secure tokens) ensure data protection.",
+    "url": "https://santexgroup.com/stories-of-impact/wibond-the-all-in-one-virtual-wallet-for-secure-and-efficient-transactions",
+    "pass": 3
+   },
+   {
+    "quote": "A modular architecture enables sustainable growth without compromising performance.",
+    "url": "https://santexgroup.com/stories-of-impact/wibond-the-all-in-one-virtual-wallet-for-secure-and-efficient-transactions",
+    "pass": 3
+   },
+   {
+    "quote": "Wibond 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/435782-44",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/435782-44",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/435782-44",
+    "pass": 3
+   },
+   {
+    "quote": "5. Secondary Transaction - Private",
+    "url": "https://pitchbook.com/profiles/company/435782-44",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/435782-44",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/435782-44",
+    "pass": 3
+   },
+   {
+    "quote": ", a Private Equity-Backed company based in Toronto, Canada.",
+    "url": "https://pitchbook.com/profiles/company/435782-44",
+    "pass": 3
+   },
+   {
+    "quote": "Private Equity-Backed",
+    "url": "https://pitchbook.com/profiles/company/435782-44",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/435782-44",
+    "pass": 3
+   },
+   {
+    "quote": "Wibond’s primary industry is Financial Software.",
+    "url": "https://pitchbook.com/profiles/company/435782-44",
+    "pass": 3
+   },
+   {
+    "quote": "Is Wibond a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/435782-44",
+    "pass": 3
+   },
+   {
+    "quote": "Wibond is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/435782-44",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/435782-44",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/435782-44",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/435782-44",
+    "pass": 3
+   },
+   {
+    "quote": "Wibond company profile | Dureach",
+    "url": "https://dureach.com/company/wibond",
+    "pass": 3
+   },
+   {
+    "quote": "Enter a topic, product, or task to search.",
+    "url": "https://dureach.com/company/wibond",
+    "pass": 3
+   },
+   {
+    "quote": "Wibond company profile",
+    "url": "https://dureach.com/company/wibond",
+    "pass": 3
+   },
+   {
+    "quote": "Preview only. Contact details are available after you sign in.",
+    "url": "https://dureach.com/company/wibond",
+    "pass": 3
+   },
+   {
+    "quote": "Sign in to view shipment history, products, suppliers, and trade lanes for this company.",
+    "url": "https://dureach.com/company/wibond",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Incorpora soluciones fintech a tu ecosistema, sin necesidad de desarrollo y en pocas semanas.",
+    "url": "https://www.wibond.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Pon en marcha tu ecosistema financiero en días, sin desarrollos propios.",
+    "url": "https://www.wibond.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Activa cobros digitales y presenciales con tu marca, sin fricciones ni desarrollos",
+    "url": "https://www.wibond.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Con el Módulo Payments de Wibond, tu empresa puede ofrecer todos los métodos de cobro que necesita tu red, desde una sola plataforma y bajo tu propia marca, sin desarrollos complejos ni múltiples integraciones.",
+    "url": "https://www.wibond.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Ofrece financiamiento directo desde tu plataforma, con tu marca y sin desarrollos complejos",
+    "url": "https://www.wibond.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue from Bind, TAPI, and Pomelo was verified without automation, requiring individual reviews.",
+    "url": "https://simetrik.com/simetrik-wibond/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/435782-44",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/435782-44",
+    "pass": 3
+   },
+   {
+    "quote": "Wibond has 28 total employees.",
+    "url": "https://pitchbook.com/profiles/company/435782-44",
+    "pass": 3
+   },
+   {
+    "quote": "What is Wibond’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/435782-44",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Wibond is",
+    "url": "https://pitchbook.com/profiles/company/435782-44",
+    "pass": 3
+   },
+   {
+    "quote": "It adapts to each client’s needs to optimize cash flow and generate additional revenue.",
+    "url": "https://dureach.com/company/wibond",
+    "pass": 3
+   },
+   {
+    "quote": "Wibond was founded in Argentina in 2020 by Ezequiel Bucai and Alejandro Silvestre. In 2013 they created a platform where users accessed a network of more than 2,500 gyms and sports centers located in 30 cities in Argentina, Mexico and Chile. Then Classpass, the US Unicorn, acquired Clickypass.",
+    "url": "https://dureach.com/company/wibond",
+    "pass": 3
+   },
+   {
+    "quote": "00011-00050 employees",
+    "url": "https://dureach.com/company/wibond",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Home Wibond ENG — Wibond powers companies, marketplaces, and platforms with the fintech infrastructure they need to integrate payments, lending, bill pay, and digital accounts — easily and at scale.We remove friction from money management and simplify service implementation through ready-to-use technology, backed by trusted partnerships for fast and secure ...",
+    "url": "https://www.wibond.co/wibond-eng",
+    "pass": 3
+   },
+   {
+    "quote": "Wibond: Infraestructura Fintech — Paga a tu red de clientes en una wallet marca blanca y habilita servicios financieros integrados al momento.",
+    "url": "https://www.wibond.co/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Wibond achieves secure, fee-free omnichannel ... — Wibond, an Argentine fintech company, needed to build a secure and scalable omnichannel platform for its all-in-one virtual wallet. They partnered with Santex to develop a flexible backend capable of supporting payments, transfers, and fund management while integrating with web and mobile environments and maintaining strict security pr",
+    "url": "https://www.casestudies.com/company/santex/case-study/wibond-launches-a-secure-fee-free-digital-wallet-in-just-a-few-weeks-with-santex",
+    "pass": 3
+   },
+   {
+    "quote": "How Wibond shifted from manual to automated validations — See how Wibond moved from manual validations to automated reconciliation with Simetrik, connecting providers and records across its financial operation.",
+    "url": "https://simetrik.com/simetrik-wibond/",
+    "pass": 3
+   },
+   {
+    "quote": "Home Wibond ENG — About Wibond Wibond powers companies, marketplaces, and platforms with the fintech infrastructure they need to integrate payments, lending, bill pay, and digital accounts — easily and at scale.We remove friction from money management and simplify service implementation through ready-to-use technology, backed by trusted partnerships for fast ...",
+    "url": "https://www.wibond.co/wibond-eng",
+    "pass": 3
+   },
+   {
+    "quote": "Wibond: The All-in-One Virtual Wallet for Secure and ... — Wibond is an Argentine fintech that provides a virtual wallet for individuals and businesses to make payments, transfers, collections, and withdrawals in a simple, fast, and secure way—with no hidden fees.",
+    "url": "https://santexgroup.com/stories-of-impact/wibond-the-all-in-one-virtual-wallet-for-secure-and-efficient-transactions",
+    "pass": 3
+   },
+   {
+    "quote": "Wibond 2026 Company Profile: Valuation, Funding & Investors ...Wibond - Crunchbase Company Profile & FundingWibond — Company Profile & Funding | Indexed.vcWibond company profile | DureachWibond Revenue & Market Share 2026 | Financial ServicesHow Wibond hit $4.5M revenue with a 30 person team in 2024.Wibond Revenue 2024: $4.5M Est. - getlatka.com — Wibond has 28 total employees. What industry is Wi",
+    "url": "https://pitchbook.com/profiles/company/435782-44",
+    "pass": 3
+   },
+   {
+    "quote": "Wibond - Crunchbase Company Profile & Funding — Wibond is a white-label fintech platform, ready to operate, that enables any company to offer financial services like payments, wallets, and loans. It adapts to each client’s needs to optimize cash flow and generate additional revenue. Wibond was founded in Argentina in 2020 by Ezequiel Bucai and Alejandro Silvestre. In 2013 they created a ...",
+    "url": "https://www.crunchbase.com/organization/wibond",
+    "pass": 3
+   },
+   {
+    "quote": "Wibond — Company Profile & Funding | Indexed.vc — Sep 23, 2026 · Wibond enables companies to offer white-label wallets, lending, and payments… Founded 2020. 11–50 employees. Córdoba, Argentina. $12.0M raised across 3 rounds.",
+    "url": "https://indexed.vc/companies/wibond",
+    "pass": 3
+   },
+   {
+    "quote": "Wibond company profile | Dureach — Wibond company profile Wibond is a white-label fintech platform, ready to operate, that enables any company to offer financial services like payments, wallets, and loans. It adapts to each client’s needs to optimize cash flow and generate additional revenue. Wibond was founded in Argentina in 2020 by Ezequiel Bucai and Alejandro Silvestre.",
+    "url": "https://dureach.com/company/wibond",
+    "pass": 3
+   },
+   {
+    "quote": "Wibond Revenue & Market Share 2026 | Financial Services — Founded in 2020 in Córdoba, Argentina, Wibond raised $8.5 million in funding and reached $4.5 million in revenue by June 2024, integrated with 500+ merchants including Samsung and Musimundo.",
+    "url": "https://geo.sig.ai/brands/wibond",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Case Study: Wibond achieves secure, fee-free omnichannel payments with Santex | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/santex/case-study/wibond-launches-a-secure-fee-free-digital-wallet-in-just-a-few-weeks-with-santex",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Wibond achieves secure, fee-free omnichannel payments with Santex",
+    "url": "https://www.casestudies.com/company/santex/case-study/wibond-launches-a-secure-fee-free-digital-wallet-in-just-a-few-weeks-with-santex",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/santex/case-study/wibond-launches-a-secure-fee-free-digital-wallet-in-just-a-few-weeks-with-santex",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/santex/case-study/wibond-launches-a-secure-fee-free-digital-wallet-in-just-a-few-weeks-with-santex",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/435782-44",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Wibond is a white-label fintech platform, ready to operate, that enables any company to offer financial services like payments, wallets, and loans.",
+    "url": "https://dureach.com/company/wibond",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Wibond - LinkedIn Wibond is a white-label fintech platform, ready to operate, that enables any company to offer financial services like payments, wallets, and loans. It adapts to each client’s needs to optimize ...",
+    "url": "https://www.linkedin.com/company/wibond/",
+    "pass": 3
+   },
+   {
+    "quote": "Ezequiel Bucai - CoFounder - CEO at Wibond (YC W22) | LinkedInWinbond - LinkedInWinbond - LinkedInWinbond: Culture | LinkedInWinbond Career - LinkedIn CoFounder - CEO at Wibond (YC W22) · CEO at Wibond We provide white-label fintech infrastructure so platforms and marketplaces can launch their own branded financial services — without building technology in-house. Our modular SaaS includes instant ",
+    "url": "https://ar.linkedin.com/in/ezequiel-bucai-2942a328",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Wibond - FacebookWinbond Electronics Corporation | Taichung - FacebookFacebookWibond Chile - FacebookDwiBond - FacebookWibond - ¡SONY LLEGÓ A WIBOND! Todo el sitio web ... | FacebookWibond - Ingresá a wibond.co/shops y mirá todas las... Apr 22, 2024 · Wibond. 13,949 followers · 1 talking about this. Somos una plataforma para comprar en tiendas adheridas en cuotas, sin tarjeta de crédito. Winbond E",
+    "url": "https://www.facebook.com/wibond.co/",
+    "pass": 3
+   },
+   {
+    "quote": "Winbond Electronics Corporation | Taichung - FacebookFacebookWibond Chile - FacebookDwiBond - FacebookWibond - ¡SONY LLEGÓ A WIBOND! Todo el sitio web ... | FacebookWibond - Ingresá a wibond.co/shops y mirá todas las... Winbond Electronics Corporation, Taichung. 4,706 followers · 70 talking about this · 84 were here. Winbond is a leading global supplier of semiconductor memory solutions, headquart",
+    "url": "https://www.facebook.com/winbondcorp/",
+    "pass": 3
+   },
+   {
+    "quote": "Wibond Chile - FacebookDwiBond - FacebookWibond - ¡SONY LLEGÓ A WIBOND! Todo el sitio web ... | FacebookWibond - Ingresá a wibond.co/shops y mirá todas las... Dec 23, 2024 · Wibond Chile. 1,183 likes. Somos una plataforma para que puedas comprar en cuotas diferentes productos SIN TARJETA DE CRÉDITO. Es límite para comprar en tiendas adheridas de forma online. DwiBond is on Facebook. Join Facebook ",
+    "url": "https://www.facebook.com/wibondchile/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.wibond.co/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.winbond.com/hq/?__locale=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infineon.com/ja/press-release/2026/infpr202609-140",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpmktg.winbond.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/17/news050.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp77451/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.winbond.com/hq/about-winbond/locations/?__locale=en&type=3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://careers.winbond.com/content/Japan/?locale=en_US",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/santex/case-study/wibond-launches-a-secure-fee-free-digital-wallet-in-just-a-few-weeks-with-santex",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simetrik.com/simetrik-wibond/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://santexgroup.com/stories-of-impact/wibond-the-all-in-one-virtual-wallet-for-secure-and-efficient-transactions",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/435782-44",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/wibond",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/wibond",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dureach.com/company/wibond",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/wibond/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ar.linkedin.com/in/ezequiel-bucai-2942a328",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/wibond.co/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/winbondcorp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/wibondchile/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Wibond 日本 導入",
+   "results": [
+    "https://www.winbond.com/hq/?__locale=ja",
+    "https://www.infineon.com/ja/press-release/2026/infpr202609-140",
+    "https://jpmktg.winbond.com/",
+    "https://eetimes.itmedia.co.jp/ee/articles/2609/17/news050.html",
+    "https://www.winbond.com/hq/about-winbond/news-and-events/news/?__locale=ja",
+    "https://special.nikkeibp.co.jp/atclh/NXT/24/winbond1218/",
+    "https://monoist.itmedia.co.jp/mn/articles/2609/29/news066.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wibond 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://job.mynavi.jp/28/pc/search/corp77451/outline.html",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://jpmktg.winbond.com/",
+    "https://www.winbond.com/hq/?__locale=ja",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wibond Japan",
+   "results": [
+    "https://www.winbond.com/hq/about-winbond/locations/?__locale=en&type=3",
+    "https://www.wibond.co/wibond-eng",
+    "https://careers.winbond.com/content/Japan/?locale=en_US",
+    "https://www.wibond.co/",
+    "https://pr.mono.ipros.com/winbond/information/",
+    "https://jpmktg.winbond.com/",
+    "https://www.winbond.com/hq/?__locale=ja"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wibond manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/santex/case-study/wibond-launches-a-secure-fee-free-digital-wallet-in-just-a-few-weeks-with-santex",
+    "https://simetrik.com/simetrik-wibond/",
+    "https://www.wibond.co/wibond-eng",
+    "https://santexgroup.com/stories-of-impact/wibond-the-all-in-one-virtual-wallet-for-secure-and-efficient-transactions",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.veeam.com/resources/customer-stories.html",
+    "https://simetrik.com/wp-content/uploads/2026/04/Wibond-Success-Case-EN.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wibond white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wibond founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/435782-44",
+    "https://www.crunchbase.com/organization/wibond",
+    "https://indexed.vc/companies/wibond",
+    "https://dureach.com/company/wibond",
+    "https://geo.sig.ai/brands/wibond",
+    "https://getlatka.com/companies/wibond.co/customers",
+    "https://getlatka.com/companies/wibond.co"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Wibond",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/ma_strategynews/n/n062a6d09c266?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/ma_strategynews/n/n062a6d09c266",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Wibond",
+   "results": [
+    "https://x.com:2096/WibondArg",
+    "https://x.com/AIQuanting/status/2120011995244384654",
+    "https://x.com/NEWS2082680/status/2120316985464811940",
+    "https://x.com/skylabintel/status/2119705376736395426",
+    "https://x.com/skylabintel/status/2120068933072142631",
+    "https://x.com/winbond_japan",
+    "https://x.com/jukan05/status/2067376339691434198"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Wibond",
+   "results": [
+    "https://www.linkedin.com/company/wibond/",
+    "https://www.linkedin.com/company/winbond-electronics-corporation-america",
+    "https://ar.linkedin.com/in/ezequiel-bucai-2942a328",
+    "https://il.linkedin.com/company/winbond",
+    "https://www.linkedin.com/company/winbond",
+    "https://www.linkedin.com/company/winbond/life",
+    "https://www.linkedin.com/company/winbondcareers/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Wibond",
+   "results": [
+    "https://www.facebook.com/wibond.co/",
+    "https://www.facebook.com/winbondcorp/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/wibondchile/",
+    "https://www.facebook.com/wibond/",
+    "https://www.facebook.com/wibond.co/posts/sony-llegó-a-wibondtodo-el-sitio-web-en-hasta-6-cuotas-fijas-cámaras-auriculares/794528422684036/",
+    "https://www.facebook.com/wibond.co/posts/ingresá-a-wibondcoshops-y-mirá-todas-las-tiendas-en-las-que-podés-comprar-en-cuo/1000891760592736/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wibond note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.buffett-code.com/company/5243/governance",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://www.winbond.com/hq/about-winbond/company-profile/corporate-officers/?__locale=ja"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wibond X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）"
+ }
+}

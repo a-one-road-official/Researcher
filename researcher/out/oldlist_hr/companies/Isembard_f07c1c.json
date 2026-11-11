@@ -1,0 +1,1383 @@
+{
+ "name": "Isembard",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T05:11:39.572508+00:00",
+ "official_url": "https://isembard.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "23-Apr-2025    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/713168-47",
+    "pass": 3
+   },
+   {
+    "label": "Seed Preferred",
+    "value": "351,059 $0.000001  $13.37 $13.37 1x $13.37",
+    "url": "https://pitchbook.com/profiles/company/713168-47",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Mass production began",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "“Isembard represents the best of British engineering: fast, precise, and focused on outcomes.”",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "“With Isembard, we can scale production of our robots quickly and reliably to meet growing global demand, while maintaining the quality and consistency our customers depend on.”",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "“Their team rapidly understood our technical requirements, iterated on solutions with pace, and delivered complex precision products to a standard we could trust.”",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Priced and checked by an engineer",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "More machines. More processes. More ways to make.",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "We answer to three principles",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Business Development Representative",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Opérateur CNC / Programmeur FAO - Usine de Paris",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Programmeur MMT / Controleur Qualité - Usine de Wissous",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Stage – Ingénieur(e) Production & Industrialisation",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "CMM Programmer (m/w/d)",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "CMM-Programmierer (m/w/d)",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Business Development Representative",
+    "url": "https://isembard.com/us/mission/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Opérateur CNC / Programmeur FAO - Usine de Paris",
+    "url": "https://isembard.com/us/mission/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Programmeur MMT / Controleur Qualité - Usine de Wissous",
+    "url": "https://isembard.com/us/mission/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Stage – Ingénieur(e) Production & Industrialisation",
+    "url": "https://isembard.com/us/mission/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "CMM Programmer (m/w/d)",
+    "url": "https://isembard.com/us/mission/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "CMM-Programmierer (m/w/d)",
+    "url": "https://isembard.com/us/mission/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Isembard is building a network of high-performance factories for critical industries. We combine advanced machine tools, robotics and our own software, MasonOS, to make precision components for aerospace, defence, energy and frontier technology companies, with factories across the UK, US, Germany and France. Our mission is to forge industrial acceleration.",
+    "url": "https://isembard.com/us/work/finance-business-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "We are building Isembard's finance function from the ground up, and this role works directly alongside our Finance Director to do it. It is not a traditional business partnering role with settled processes and a large team.",
+    "url": "https://isembard.com/us/work/finance-business-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "From supplier payments and payroll to month-end, budgeting, cash flow and management reporting, you will run day-to-day finance while building the processes and systems that support our growth. One day you design a payment approval process; the next you run the payment cycle yourself.",
+    "url": "https://isembard.com/us/work/finance-business-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Own and improve supplier payments, invoice approvals, accounts payable and purchasing workflows.",
+    "url": "https://isembard.com/us/work/finance-business-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Set up processes for expenses, reimbursements, supplier onboarding and payment terms.",
+    "url": "https://isembard.com/us/work/finance-business-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Work with the Financial Controller on month-end: accruals, prepayments and reconciliations.",
+    "url": "https://isembard.com/us/work/finance-business-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "A solid grasp of accounting fundamentals and month-end processes, and excellent Excel skills.",
+    "url": "https://isembard.com/us/work/finance-business-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Inventory, production costing or unit economics.",
+    "url": "https://isembard.com/us/work/finance-business-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Build processes and systems rather than maintain them.",
+    "url": "https://isembard.com/us/work/finance-business-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Isembard is building a network of high-performance factories for critical industries. We combine advanced machine tools, robotics and our own software, MasonOS, to make precision components for aerospace, defence, energy and frontier technology companies, with factories across the UK, US, Germany and France. Our mission is to forge industrial acceleration.",
+    "url": "https://isembard.com/us/work/manufacturing-engineer-m-w-d/",
+    "pass": 1
+   },
+   {
+    "quote": "Own manufacturing processes for high-precision CNC components from feasibility to series production: new part introduction, process validation, quality and continuous improvement.",
+    "url": "https://isembard.com/us/work/manufacturing-engineer-m-w-d/",
+    "pass": 1
+   },
+   {
+    "quote": "You sit between engineering, production and the customer. In a young factory that also means commissioning machines, sourcing inspection equipment and helping build our quality system.",
+    "url": "https://isembard.com/us/work/manufacturing-engineer-m-w-d/",
+    "pass": 1
+   },
+   {
+    "quote": "Lead new part introductions from feasibility and process planning to series readiness.",
+    "url": "https://isembard.com/us/work/manufacturing-engineer-m-w-d/",
+    "pass": 1
+   },
+   {
+    "quote": "Run process FMEAs and root cause analysis, and work with CAM programmers to cut cycle times and raise first-time-right rates.",
+    "url": "https://isembard.com/us/work/manufacturing-engineer-m-w-d/",
+    "pass": 1
+   },
+   {
+    "quote": "A strong understanding of machining processes, materials and tolerances.",
+    "url": "https://isembard.com/us/work/manufacturing-engineer-m-w-d/",
+    "pass": 1
+   },
+   {
+    "quote": "Shape processes that will scale across our factory network.",
+    "url": "https://isembard.com/us/work/manufacturing-engineer-m-w-d/",
+    "pass": 1
+   },
+   {
+    "quote": "(London, May 5, 2026) Isembard, the manufacturing company for critical industries, today announces a strategic partnership with Dexory to manufacture components for its autonomous warehouse robots and support production scaling across the United Kingdom and the United States.",
+    "url": "https://isembard.com/us/newsroom/dexory/",
+    "pass": 1
+   },
+   {
+    "quote": "Demand for autonomous robotics is accelerating across logistics, defense, and industrial sectors at an incredible pace, placing increasing pressure on manufacturing capacity. Isembard's model, combining advanced machine tools, robotics, and software across owned and franchise factories, is designed to meet this demand with speed, precision, and resilience.",
+    "url": "https://isembard.com/us/newsroom/dexory/",
+    "pass": 1
+   },
+   {
+    "quote": "Together, the companies will scale production to a run rate of thousands of units per year by the end of 2027, supporting global demand for Dexory's platform while strengthening sovereign manufacturing capability across both regions.",
+    "url": "https://isembard.com/us/newsroom/dexory/",
+    "pass": 1
+   },
+   {
+    "quote": "Alexander Fitzgerald, Founder and CEO of Isembard, said: \"Dexory is building one of the most important robotics platforms from Europe. By combining their product with our manufacturing system, we can move faster from design to scaled production than traditional supply chains allow. This is exactly the kind of partnership we are building Isembard for.\"",
+    "url": "https://isembard.com/us/newsroom/dexory/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in London in 2024, Isembard is rebuilding the industrial base the West needs. We do this through building, software-first factories that produce components for the critical industries that will define the next century – defense, aerospace, energy, and more.",
+    "url": "https://isembard.com/us/newsroom/dexory/",
+    "pass": 1
+   },
+   {
+    "quote": "We are uniquely operating a manufacturing franchise model – it enables new and existing factory owners to join a high-performance manufacturing company supported by MasonOS, Isembard's proprietary operating system for quoting, scheduling, production, and quality control.",
+    "url": "https://isembard.com/us/newsroom/dexory/",
+    "pass": 1
+   },
+   {
+    "quote": "To deliver this, Dexory designs, builds, and deploys its hardware and software end-to-end, ensuring full control over data quality, system performance, and reliability. The platform integrates seamlessly into existing operations, improving inventory accuracy, reducing errors, and unlocking significant operational efficiency at scale.",
+    "url": "https://isembard.com/us/newsroom/dexory/",
+    "pass": 1
+   },
+   {
+    "quote": "Dexory's technology is deployed by leading global logistics providers including GXO, DHL, and NFI, as well as manufacturers such as Stellantis, Samsung, and GE Appliances, across sectors including retail, pharmaceuticals, and eCommerce.",
+    "url": "https://isembard.com/us/newsroom/dexory/",
+    "pass": 1
+   },
+   {
+    "quote": "Isembard opens London's largest factory since WWII - ADS Advance",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "Component manufacturing is a market worth $1.8 trillion a year, yet small businesses account for 95% of production and are rapidly disappearing: the average owner is over 65 and 40% plan to retire within five years.",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "Isembard’s model, combining owned and franchisee factories with its proprietary agentic operating system, MasonOS, is built to close that gap, giving operators the technology, brand, engineering standards and customer demand to run high-performance manufacturing businesses from day one.",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "The Southwark site spans 160,000 sq ft and will serve as Isembard’s global head office alongside a working precision factory, producing components for aerospace, defence and robotics customers, including",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "The purpose behind the location and scale of the manufacturing operation is to tap into London’s vast technology talent pool combined with daily proximity to the operational reality of running a large-scale production site.",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "Isembard expects headcount at the Southwark HQ to grow from 35 today to 200 by the end of 2027, spanning production, software, manufacturing and robotics automation engineering alongside wider support functions for the group’s factory network.",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "The opening caps Isembard’s fastest year of growth to date. The company has gone from four factories at the start of 2026 to 15 today, opening its first sites in continental Europe, in France and Germany and onboarding 10 new franchise operators.",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "Isembard is targeting 100 owned and franchisee factories across the UK alone by the end of 2028, a programme expected to create 2,200 high-skilled jobs.",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "Alexander Fitzgerald (above), Founder and CEO of Isembard, said: “Manufacturing is the origin of our security, prosperity and sense of purpose as nations. No one has opened a factory like this in London since the Second World War and that tells you how far our industrial base has been allowed to shrink.",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "“Bringing production back onshore is the work of the next decade. What we need now are the brightest engineering minds of our generation to join us. Engineers, you have nothing to lose but your chains.”",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up for our newsletter and get our latest content in your inbox.",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon makes aviation history with world’s first SAIL 4 drone approval",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "CAA proposes 6.1% fee rise as regulatory responsibilities expand",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "Through its acquisition of US-based Founders Logistics, B&H Worldwide has added specialist expertise in the transportation of aircraft engines to its comprehensive range of responsive global logistics operations.",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "The approval follows years of engineering development and what is described as the most thorough safety assessment of any drone system in the UK.",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "The UK aviation regulator is consulting on 2027/28 charges, with most fees rising 6.1% to fund new consumer protection, safety and oversight responsibilities.",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "Following delivery of its education and outreach initiatives across the UK to inspire the next generation of scientists, engineers and space explorers, the National Space Centre's Discovery Team has gained national recognition by winning a prestigious Sir Arthur Clarke Award.",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Manufacturing became something done by others, somewhere far off.",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "“Fast, capable, and mission-focused. Isembard has been an outstanding manufacturing partner.”",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Every factory runs on it.",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Matched to the best-placed factories",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Factory 04 · UK",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Factory 11 · DE",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Factory 07 · US",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "New factories keep opening",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "17 Factories",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Select a factory row to focus the globe. Escape, Reset or selecting the same row unlocks. With a mouse, drag to rotate; arrow keys rotate; + and − zoom; Home resets. Shift + wheel zooms. Touch scrolling and pinch zoom stay native.",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Factory network — United States",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Factory network — United Kingdom",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Factory network — Germany",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Factory network — France",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Years in the Navy. Air ambulance pilot. Now building a factory.",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "From venture capital to running a factory.",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "A growing industrial network, built factory by factory.",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re assembling the world’s best engineers and operators",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Factory Advisor (Deployed Factory Engineer)",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Engineer (m/w/d)",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Stage – Ingénieur(e) Production & Industrialisation",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Isembard Opens London's Largest Factory Since the Second World War",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Dexory and Isembard partner to scale robotics manufacturing across the UK and USA",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Isembard Raises $50M Series A to Open 25 AI-Powered Factories Serving Aerospace and Defense",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Inside the London startup turning veterans, Amazon alumni and an ex-VC into factory owners",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re assembling the world’s best engineers and operators",
+    "url": "https://isembard.com/us/mission/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Factory Advisor (Deployed Factory Engineer)",
+    "url": "https://isembard.com/us/mission/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Engineer (m/w/d)",
+    "url": "https://isembard.com/us/mission/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Stage – Ingénieur(e) Production & Industrialisation",
+    "url": "https://isembard.com/us/mission/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Isembard is building a network of high-performance factories for critical industries. We combine advanced machine tools, robotics and our own software, MasonOS, to make precision components for aerospace, defence, energy and frontier technology companies, with factories across the UK, US, Germany and France. Our mission is to forge industrial acceleration.",
+    "url": "https://isembard.com/us/work/finance-business-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing or another operationally complex environment.",
+    "url": "https://isembard.com/us/work/finance-business-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Breadth: from payments and payroll to manufacturing economics and international expansion.",
+    "url": "https://isembard.com/us/work/finance-business-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "On-site at our Southwark factory in London.",
+    "url": "https://isembard.com/us/work/finance-business-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Isembard – Manufacturing Engineer (m/w/d)",
+    "url": "https://isembard.com/us/work/manufacturing-engineer-m-w-d/",
+    "pass": 1
+   },
+   {
+    "quote": "Isembard is building a network of high-performance factories for critical industries. We combine advanced machine tools, robotics and our own software, MasonOS, to make precision components for aerospace, defence, energy and frontier technology companies, with factories across the UK, US, Germany and France. Our mission is to forge industrial acceleration.",
+    "url": "https://isembard.com/us/work/manufacturing-engineer-m-w-d/",
+    "pass": 1
+   },
+   {
+    "quote": "Own manufacturing processes for high-precision CNC components from feasibility to series production: new part introduction, process validation, quality and continuous improvement.",
+    "url": "https://isembard.com/us/work/manufacturing-engineer-m-w-d/",
+    "pass": 1
+   },
+   {
+    "quote": "You sit between engineering, production and the customer. In a young factory that also means commissioning machines, sourcing inspection equipment and helping build our quality system.",
+    "url": "https://isembard.com/us/work/manufacturing-engineer-m-w-d/",
+    "pass": 1
+   },
+   {
+    "quote": "Be the technical contact for customers on manufacturing questions and DFM feedback.",
+    "url": "https://isembard.com/us/work/manufacturing-engineer-m-w-d/",
+    "pass": 1
+   },
+   {
+    "quote": "A degree in mechanical or manufacturing engineering, or equivalent.",
+    "url": "https://isembard.com/us/work/manufacturing-engineer-m-w-d/",
+    "pass": 1
+   },
+   {
+    "quote": "Experience in CNC machining or manufacturing planning.",
+    "url": "https://isembard.com/us/work/manufacturing-engineer-m-w-d/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace or defence manufacturing.",
+    "url": "https://isembard.com/us/work/manufacturing-engineer-m-w-d/",
+    "pass": 1
+   },
+   {
+    "quote": "MES or digital manufacturing systems.",
+    "url": "https://isembard.com/us/work/manufacturing-engineer-m-w-d/",
+    "pass": 1
+   },
+   {
+    "quote": "An interest in robotics, automation and data-driven manufacturing.",
+    "url": "https://isembard.com/us/work/manufacturing-engineer-m-w-d/",
+    "pass": 1
+   },
+   {
+    "quote": "Shape processes that will scale across our factory network.",
+    "url": "https://isembard.com/us/work/manufacturing-engineer-m-w-d/",
+    "pass": 1
+   },
+   {
+    "quote": "Work on mission-critical aerospace and defence components.",
+    "url": "https://isembard.com/us/work/manufacturing-engineer-m-w-d/",
+    "pass": 1
+   },
+   {
+    "quote": "Location: On-site at our Hamburg factory.",
+    "url": "https://isembard.com/us/work/manufacturing-engineer-m-w-d/",
+    "pass": 1
+   },
+   {
+    "quote": "Isembard – Dexory and Isembard partner to scale robotics manufacturing across the UK and USA",
+    "url": "https://isembard.com/us/newsroom/dexory/",
+    "pass": 1
+   },
+   {
+    "quote": "(London, May 5, 2026) Isembard, the manufacturing company for critical industries, today announces a strategic partnership with Dexory to manufacture components for its autonomous warehouse robots and support production scaling across the United Kingdom and the United States.",
+    "url": "https://isembard.com/us/newsroom/dexory/",
+    "pass": 1
+   },
+   {
+    "quote": "Demand for autonomous robotics is accelerating across logistics, defense, and industrial sectors at an incredible pace, placing increasing pressure on manufacturing capacity. Isembard's model, combining advanced machine tools, robotics, and software across owned and franchise factories, is designed to meet this demand with speed, precision, and resilience.",
+    "url": "https://isembard.com/us/newsroom/dexory/",
+    "pass": 1
+   },
+   {
+    "quote": "Together, the companies will scale production to a run rate of thousands of units per year by the end of 2027, supporting global demand for Dexory's platform while strengthening sovereign manufacturing capability across both regions.",
+    "url": "https://isembard.com/us/newsroom/dexory/",
+    "pass": 1
+   },
+   {
+    "quote": "This partnership builds on Isembard's mission to rebuild industrial capacity in the West through distributed, high-performance factories, at a time when demand for advanced manufacturing is rising sharply across robotics and critical industries.",
+    "url": "https://isembard.com/us/newsroom/dexory/",
+    "pass": 1
+   },
+   {
+    "quote": "Alexander Fitzgerald, Founder and CEO of Isembard, said: \"Dexory is building one of the most important robotics platforms from Europe. By combining their product with our manufacturing system, we can move faster from design to scaled production than traditional supply chains allow. This is exactly the kind of partnership we are building Isembard for.\"",
+    "url": "https://isembard.com/us/newsroom/dexory/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in London in 2024, Isembard is rebuilding the industrial base the West needs. We do this through building, software-first factories that produce components for the critical industries that will define the next century – defense, aerospace, energy, and more.",
+    "url": "https://isembard.com/us/newsroom/dexory/",
+    "pass": 1
+   },
+   {
+    "quote": "We are uniquely operating a manufacturing franchise model – it enables new and existing factory owners to join a high-performance manufacturing company supported by MasonOS, Isembard's proprietary operating system for quoting, scheduling, production, and quality control.",
+    "url": "https://isembard.com/us/newsroom/dexory/",
+    "pass": 1
+   },
+   {
+    "quote": "Dexory is building the real-time intelligence layer for warehouse operations. Its full stack platform, DexoryView, combines autonomous robots and digital twin technology with AI to continuously capture and structure operational data from physical environments.",
+    "url": "https://isembard.com/us/newsroom/dexory/",
+    "pass": 1
+   },
+   {
+    "quote": "Rather than periodic snapshots, Dexory turns warehouses into live, data-driven systems. This enables operators to move from reactive decision-making to continuous, real-time optimization of every part of the operation.",
+    "url": "https://isembard.com/us/newsroom/dexory/",
+    "pass": 1
+   },
+   {
+    "quote": "Dexory's technology is deployed by leading global logistics providers including GXO, DHL, and NFI, as well as manufacturers such as Stellantis, Samsung, and GE Appliances, across sectors including retail, pharmaceuticals, and eCommerce.",
+    "url": "https://isembard.com/us/newsroom/dexory/",
+    "pass": 1
+   },
+   {
+    "quote": "Isembard opens London's largest factory since WWII - ADS Advance",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "today announced the opening of its new global headquarters and factory in Southwark, central London – the largest factory to open in the capital since the Second World War. This announcement comes as the company expects to raise significant additional funding to support its ambitious expansion plans on a global scale, having grown revenue by 10 times year over year in the last 12 months.",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "Component manufacturing is a market worth $1.8 trillion a year, yet small businesses account for 95% of production and are rapidly disappearing: the average owner is over 65 and 40% plan to retire within five years.",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Select a factory row to focus the globe. Escape, Reset or selecting the same row unlocks. With a mouse, drag to rotate; arrow keys rotate; + and − zoom; Home resets. Shift + wheel zooms. Touch scrolling and pinch zoom stay native.",
+    "url": "https://isembard.com/us/",
+    "pass": 1
+   },
+   {
+    "quote": "Andrei Danescu, Founder and CEO of Dexory, said: \"Most robotics companies struggle to scale globally. With Isembard, we remove that barrier and enable higher operational speed. This partnership enables us to scale Dexory's robots quickly and reliably to meet growing global demand, while maintaining the quality and consistency our customers depend on to run their operations with confidence.\"",
+    "url": "https://isembard.com/us/newsroom/dexory/",
+    "pass": 1
+   },
+   {
+    "quote": "Rather than periodic snapshots, Dexory turns warehouses into live, data-driven systems. This enables operators to move from reactive decision-making to continuous, real-time optimization of every part of the operation.",
+    "url": "https://isembard.com/us/newsroom/dexory/",
+    "pass": 1
+   },
+   {
+    "quote": "today announced the opening of its new global headquarters and factory in Southwark, central London – the largest factory to open in the capital since the Second World War. This announcement comes as the company expects to raise significant additional funding to support its ambitious expansion plans on a global scale, having grown revenue by 10 times year over year in the last 12 months.",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "Carrollton Factory — Carrollton, TX, USA",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "Through its acquisition of US-based Founders Logistics, B&H Worldwide has added specialist expertise in the transportation of aircraft engines to its comprehensive range of responsive global logistics operations.",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "Major upgrades at Beacon Barracks get underway",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "Work has begun on additional infrastructure at Beacon Barracks in Stafford for Army personnel relocating there from 2029, consisting of two new Single Living Accommodation blocks, new workspaces for the Royal Engineers, Intelligence Corps and Joint Military Command - Centre and a new Police Station for the Royal Military Police.",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "Orbital Matter 3D Prints a Solar Array Boom in the Open Vacuum of Space",
+    "url": "https://3dprintingindustry.com/news/isembard-launches-its-largest-factory-feeding-into-alloyeds-metal-am-pipeline-254952/",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/isembard-launches-its-largest-factory-feeding-into-alloyeds-metal-am-pipeline-254952/",
+    "pass": 3
+   },
+   {
+    "quote": "The location itself carries some intentional symbolism: Southwark was historically one of London’s manufacturing centres, home to foundries, engineering works, printworks, and tanneries, and is where Isambard Kingdom Brunel, the company’s namesake, worked early in his career driving the Thames Tunnel out from Rotherhithe.",
+    "url": "https://3dprintingindustry.com/news/isembard-launches-its-largest-factory-feeding-into-alloyeds-metal-am-pipeline-254952/",
+    "pass": 3
+   },
+   {
+    "quote": "Part of a wider UK reindustrialisation push",
+    "url": "https://3dprintingindustry.com/news/isembard-launches-its-largest-factory-feeding-into-alloyeds-metal-am-pipeline-254952/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/713168-47",
+    "pass": 3
+   },
+   {
+    "quote": "Isembard has 66 total employees.",
+    "url": "https://pitchbook.com/profiles/company/713168-47",
+    "pass": 3
+   },
+   {
+    "quote": "What is Isembard’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/713168-47",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Isembard is",
+    "url": "https://pitchbook.com/profiles/company/713168-47",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Following ratification of the Kensington Treaty in October, Astroscale and OHB have signed an MoU to enhance cooperation between the UK, Germany and Japan towards protecting critical infrastructure in space, whilst supporting the safe, sustainable and responsible use of the orbital environment.",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、Isembardが解こうとしている問題は、日本の製造業が抱える「後継者危機」と驚くほど重なっている",
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "pass": 3
+   },
+   {
+    "quote": "日本で製造業の後継者問題が深刻化していることは、業界関係者なら周知の事実だ",
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "pass": 3
+   },
+   {
+    "quote": "英国・日本・イタリアが共同開発する第6世代戦闘機で、2035年の配備を目指す",
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "pass": 3
+   },
+   {
+    "quote": "日本への示唆──「後継者問題×防衛増額×フランチャイズ」の交差点",
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "pass": 3
+   },
+   {
+    "quote": "日本にとってIsembardのモデルは、少なくとも3つの観点から示唆に富む",
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "pass": 3
+   },
+   {
+    "quote": "日本では年間8万社近くが廃業・倒産し、製造業の後継者難倒産が急増している",
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "pass": 3
+   },
+   {
+    "quote": "Isembardが採用した「フランチャイズ+AI OSで若い技術者が工場を起業できる仕組み」は、日本の中小工場の技術継承問題への有力な処方箋だ",
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "pass": 3
+   },
+   {
+    "quote": "日本の防衛費はFY2026に9.04兆円（約580億ドル）に達し、5カ年で43兆円（2750億ドル）の防衛増強プログラムが走っている",
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "pass": 3
+   },
+   {
+    "quote": "GCAPにおいて日本は三菱重工業を通じた主要パートナーであり、高精度部品の国内調達能力強化は急務だ",
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "pass": 3
+   },
+   {
+    "quote": "Isembardモデルの日本版は、この問題への直接的な回答になりうる",
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "pass": 3
+   },
+   {
+    "quote": "「工場全体を自律的にオーケストレーションするAIエージェントOS」という発想は、日本の製造業DXに欠けていた視点だ",
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "pass": 3
+   },
+   {
+    "quote": "JIS・JISQ 9100などの国内認証体系との整合、日本語対応のMasonOS、「顔の見える取引関係」を重視する日本の商習慣への対応は、Isembardが直接日本展開する際の障壁だ",
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "pass": 3
+   },
+   {
+    "quote": "日本版Isembardを実現するには、これらを内包した設計が必要になる",
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "pass": 3
+   },
+   {
+    "quote": "「工場をどう引き継ぐか」という問いは、英国でも日本でも同じだ",
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "pass": 3
+   },
+   {
+    "quote": "違いは、Isembardのような発想が日本から生まれていないことだ",
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Isembard | LinkedIn — Isembard | LinkedIn LinkedIn https://www.linkedin.com > isembard",
+    "url": "https://www.linkedin.com/company/isembard",
+    "pass": 3
+   },
+   {
+    "quote": "Isembard Raises $50m Series A to Open 25 AI-Powered ... — Isembard Raises $50m Series A to Open 25 AI-Powered ... Isembard https://isembard.com > series-a",
+    "url": "https://isembard.com/uk/newsroom/series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Isembard opens London's largest factory since WWII — Isembard opens London's largest factory since WWII ADS Advance https://www.adsadvance.co.uk > isem...",
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "pass": 3
+   },
+   {
+    "quote": "Ready to own a factory? Meet an Isembard franchisee — Ready to own a factory? Meet an Isembard franchisee YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=SEMxHbVJOow",
+    "pass": 3
+   },
+   {
+    "quote": "Isembard raises $50M, plans to open 25 'AI-powered factories' — Isembard raises $50M, plans to open 25 'AI-powered factories' Resilience Media https://resiliencemedia.co > isembard-...",
+    "url": "https://resiliencemedia.co/isembard-raises-50m-plans-to-open-25-ai-powered-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "Isembard Launches Its Largest Factory, Feeding Into Alloyed's ... — Isembard Launches Its Largest Factory, Feeding Into Alloyed's ... 3D Printing Industry https://3dprintingindustry.com > news",
+    "url": "https://3dprintingindustry.com/news/isembard-launches-its-largest-factory-feeding-into-alloyeds-metal-am-pipeline-254952/",
+    "pass": 3
+   },
+   {
+    "quote": "Isembard Drives West Reindustrialization with Software First ... — Isembard Drives West Reindustrialization with Software First ... LinkedIn https://www.linkedin.com > posts > jo...",
+    "url": "https://www.linkedin.com/posts/joscwhite_manufacturing-is-the-theory-of-everything-activity-7508852376561287168-jHOJ",
+    "pass": 3
+   },
+   {
+    "quote": "Isembard raises $50m to open 25 AI-powered factories — Isembard raises $50m to open 25 AI-powered factories The Manufacturer https://www.themanufacturer.com > is...",
+    "url": "https://www.themanufacturer.com/articles/isembard-raises-50m-to-open-25-ai-powered-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "Account Manager - Isembard — Account Manager - Isembard Isembard https://isembard.com > work > accou...",
+    "url": "https://isembard.com/us/work/account-manager/",
+    "pass": 3
+   },
+   {
+    "quote": "Isembard - Crunchbase Company Profile & Funding — Isembard - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > isemb...",
+    "url": "https://www.crunchbase.com/organization/isembard",
+    "pass": 3
+   },
+   {
+    "quote": "Isembard 2026 Company Profile: Valuation, Funding & Investors — Isembard 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/713168-47",
+    "pass": 3
+   },
+   {
+    "quote": "London's industrial firm Isembard raises $50M to accelerate ... — London's industrial firm Isembard raises $50M to accelerate ... Vestbee https://vestbee.com > insights > articles",
+    "url": "https://vestbee.com/insights/articles/isembard-raises-50-m",
+    "pass": 3
+   },
+   {
+    "quote": "Isembard Raises $50m Series A to Open 25 Factories in the ... — Isembard Raises $50m Series A to Open 25 Factories in the ... LinkedIn https://www.linkedin.com > posts > se...",
+    "url": "https://www.linkedin.com/posts/seb-johnson_breaking-isembard-has-raised-a-whopping-activity-7436687674519932928--pU9",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/713168-47",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "工場をフランチャイズする──英国Isembardが挑む製造業「AIシフト」の... May 9, 2026 · 英国 Isembard （イゼンバード）は、Union Square Ventures主導のシリーズAで 5000万ドル（約73億円） を調達し、2026年末までに25の「AIで動く工場」をネットワーク化する計画を明らかにした。",
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "工場をフランチャイズする──英国Isembardが挑む製造業「AIシフト」の核心｜Yushi88｜AIスタートアップ最前線",
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "pass": 3
+   },
+   {
+    "quote": "工場をフランチャイズする──英国Isembardが挑む製造業「AIシフト」の核心",
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月、ロンドンを拠点とするスタートアップが、製造業の常識を覆す資金調達を発表した。英国",
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "pass": 3
+   },
+   {
+    "quote": "（イゼンバード）は、Union Square Ventures主導のシリーズAで",
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "pass": 3
+   },
+   {
+    "quote": "を調達し、2026年末までに25の「AIで動く工場」をネットワーク化する計画を明らかにした。そのビジネスモデルは「製造業のマクドナルド」とも呼ぶべき前例のない発想にもとづく。そして、Isembardが解こうとしている問題は、日本の製造業が抱える「後継者危機」と驚くほど重なっている。",
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "pass": 3
+   },
+   {
+    "quote": "は2024年設立。創業者でCEOのアレックス・フィッツジェラルド（Alex Fitzgerald）は、英ノッティンガム大学で生化学を学んだ後、英財務省（HM Treasury）の官僚として働き、のちに挑戦者通信会社「Cuckoo」を共同創業してOctopusグループに売却した変わり種の起業家だ。陸軍予備役としても勤務し、そこで目の当たりにしたのは防衛・航空宇宙部品の調達の非効率さだった。「部品1点の見積もりに6〜8週間、受け取りはさらにその後」という現実が、Isembard創業の直接の動機になった。",
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "pass": 3
+   },
+   {
+    "quote": "現在の拠点は英国3工場、テキサス2工場、ミズーリ1工場の計6カ所。顧客は航空宇宙・防衛・エネルギー・ロボティクス産業に特化している。シリーズAの主要投資家はUnion Square Ventures（USV）で、Notion Capital、IQ Capital、Tamarack Globalが参加。シード（9百万ドル、2025年4月）からシリーズAまでを含む累計調達額は約6000万ドルに達する。",
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "pass": 3
+   },
+   {
+    "quote": "日本で製造業の後継者問題が深刻化していることは、業界関係者なら周知の事実だ。中小企業庁の2025年版中小企業白書によれば、経営者が70歳以上の中小企業は約245万社に達し、そのうち",
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Isembard (@IsembardGroup) / X Isembard (@IsembardGroup) / X X https://x.com > IsembardGroup",
+    "url": "https://x.com/IsembardGroup",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Isembard | LinkedIn Isembard | LinkedIn LinkedIn https://www.linkedin.com > isembard",
+    "url": "https://www.linkedin.com/company/isembard",
+    "pass": 3
+   },
+   {
+    "quote": "Alexander Fitzgerald - Isembard - LinkedIn Alexander Fitzgerald - Isembard - LinkedIn LinkedIn https://uk.linkedin.com > alexanderjo...",
+    "url": "https://uk.linkedin.com/in/alexanderjohnfitzgerald",
+    "pass": 3
+   },
+   {
+    "quote": "Justin Baucum - Manufacturing @ Isembard USA - LinkedIn Justin Baucum - Manufacturing @ Isembard USA - LinkedIn LinkedIn https://www.linkedin.com > justin-ba...",
+    "url": "https://www.linkedin.com/in/justin-baucum23",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Isembard's Alexander Fitzgerald is on a mission to revitalise ... Isembard's Alexander Fitzgerald is on a mission to revitalise ... Facebook https://www.facebook.com > cityam > posts > isembards-a...",
+    "url": "https://www.facebook.com/cityam/posts/isembards-alexander-fitzgerald-is-on-a-mission-to-revitalise-britains-high-preci/1943153070433670/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://isembard.com/us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isembard.com/us/mission/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isembard.com/us/work/finance-business-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isembard.com/us/work/manufacturing-engineer-m-w-d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isembard.com/us/newsroom/dexory/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://isembard.com/assets/newsroom/logos/sifted.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://isembard.com/assets/newsroom/logos/iiss.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://isembard.com/assets/newsroom/logos/ft.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trafficnews.jp/post/725198",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webcg.net/articles/-/54501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/topics/keywords/%E6%97%A5%E6%9C%AC%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Gcr01pLRick",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://alpc.tokyo/pages/business-d2c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.famictech.com/ja/%E4%BC%9A%E7%A4%BE/%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%BE%E3%81%9F%E3%81%AF%E5%86%8D%E8%B2%A9%E6%A5%AD%E8%80%85",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/isembard",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=SEMxHbVJOow",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJp1qOP5oz7WiLWEcD9Ir-y1OV5c8ClxxZ8W4g_8w0ZAnoHbJOX",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/isembard-launches-its-largest-factory-feeding-into-alloyeds-metal-am-pipeline-254952/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/joscwhite_manufacturing-is-the-theory-of-everything-activity-7508852376561287168-jHOJ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.flexwareinnovation.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webinone.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/joscwhite_manufacturing-is-the-theory-of-everything-activity-7508852376561287168-jHOJ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/isembard",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/713168-47",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vestbee.com/insights/articles/isembard-raises-50-m",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yushi88/n/n81561995fa47",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/IsembardGroup",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/isembard",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/alexanderjohnfitzgerald",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/justin-baucum23",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cityam/posts/isembards-alexander-fitzgerald-is-on-a-mission-to-revitalise-britains-high-preci/1943153070433670/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Isembard 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.stellantis.jp/",
+    "https://trafficnews.jp/post/725198",
+    "https://www.webcg.net/articles/-/54501",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://response.jp/article/2026/11/09/418790.html",
+    "https://www.autocar.jp/post/1292024",
+    "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "https://note.com/yushi88/n/n81561995fa47",
+    "https://seisan-navi.com/20260314-isembard/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Isembard 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://prtimes.jp/topics/keywords/%E6%97%A5%E6%9C%AC%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "https://www.youtube.com/watch?v=Gcr01pLRick",
+    "https://alpc.tokyo/pages/business-d2c",
+    "https://www.famictech.com/ja/%E4%BC%9A%E7%A4%BE/%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%BE%E3%81%9F%E3%81%AF%E5%86%8D%E8%B2%A9%E6%A5%AD%E8%80%85",
+    "https://ecnomikata.com/blog/51120/",
+    "https://www.iba-ns.com/ma/",
+    "https://www.asteal.co.jp/partner.html",
+    "https://www.deex.co.jp/media/8uGKOPAJ",
+    "https://usen.com/portal/partner/column/successful-agency-business/",
+    "https://www.issi.com/JP/japan-disti.shtml"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Isembard Japan",
+   "results": [
+    "https://www.linkedin.com/company/isembard",
+    "https://isembard.com/uk/newsroom/series-a/",
+    "https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/",
+    "https://www.youtube.com/watch?v=SEMxHbVJOow",
+    "https://resiliencemedia.co/isembard-raises-50m-plans-to-open-25-ai-powered-factories/",
+    "https://www.reddit.com/r/unitedkingdom/comments/1wmbe8g/london_gains_largest_factory_since_second_world/",
+    "https://baike.baidu.com/en/item/Isembard/6010396",
+    "https://www.eu-startups.com/2026/03/industrial-startup-isembard-bags-e43-million-to-scale-software-powered-factories-for-aerospace-and-energy-sectors/",
+    "https://www.linkedin.com/posts/eutncom_isembard-founder-ceo-alexander-fitzgerald-activity-7505536311802363904-YDDZ",
+    "https://www.themanufacturer.com/articles/isembard-a-new-software-first-vision-for-manufacturing/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Isembard manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJp1qOP5oz7WiLWEcD9Ir-y1OV5c8ClxxZ8W4g_8w0ZAnoHbJOX",
+    "https://3dprintingindustry.com/news/isembard-launches-its-largest-factory-feeding-into-alloyeds-metal-am-pipeline-254952/",
+    "https://www.linkedin.com/posts/joscwhite_manufacturing-is-the-theory-of-everything-activity-7508852376561287168-jHOJ",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://www.themanufacturer.com/articles/isembard-raises-50m-to-open-25-ai-powered-factories/",
+    "https://www.madebyduo.com/work/isembard-website-strategy-design-and-framer-development/",
+    "https://archive.epa.gov/sustainablemanufacturing/web/html/case-studies.html",
+    "https://www.factbird.com/resources/case-studies",
+    "https://www.greaterlondon.co/p/how-to-build-a-factory-in-london",
+    "https://isembard.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Isembard white label OR reseller OR partner program",
+   "results": [
+    "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://webinone.com/reseller-program",
+    "https://www.linkedin.com/posts/joscwhite_manufacturing-is-the-theory-of-everything-activity-7508852376561287168-jHOJ",
+    "https://isembard.com/us/work/account-manager/",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://evincedev.com/blog/a-detailed-guide-to-white-label-reseller-program-to-grow-your-existing-business/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://seedlycrm.com/blog/white-label-crm-playbook",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Isembard founded funding employees revenue",
+   "results": [
+    "https://isembard.com/uk/newsroom/series-a/",
+    "https://www.crunchbase.com/organization/isembard",
+    "https://pitchbook.com/profiles/company/713168-47",
+    "https://vestbee.com/insights/articles/isembard-raises-50-m",
+    "https://www.linkedin.com/posts/seb-johnson_breaking-isembard-has-raised-a-whopping-activity-7436687674519932928--pU9",
+    "https://sifted.eu/articles/isembard-funding-round-ai-deeptech",
+    "https://resiliencemedia.co/isembard-raises-50m-plans-to-open-25-ai-powered-factories/",
+    "https://www.tectonicdefense.com/isembard-raises-50m-series-a/",
+    "https://seedtable.com/companies/isembard",
+    "https://prospeo.io/c/isembard-revenue"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Isembard",
+   "results": [
+    "https://note.com/yushi88/n/n81561995fa47",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/238193_/n/n258f4f8c0dd4?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/natty_toucan386/n/nf4936ae22459",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/yaandyu0423/n/n6db165af8b8f"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Isembard",
+   "results": [
+    "https://x.com/IsembardGroup",
+    "https://x.com/Telegraph/status/2115028291471982694",
+    "https://x.com/AFitzgerald1992",
+    "https://x.com/mattcynamon/status/2117632903777485263",
+    "https://x.com/rebeccakaden/status/2117646647995908156",
+    "https://x.com/DrMichaelBonner/status/2115037812646899872",
+    "https://x.com/AFitzgerald1992/status/2115090086836466070",
+    "https://x.com/usv/status/2117654378500837413",
+    "https://x.com/mattcynamon/status/2117966979172553198/video/1",
+    "https://x.com/AFitzgerald1992/status/2099398122774438391"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com Isembard",
+   "results": [
+    "https://www.linkedin.com/company/isembard",
+    "https://uk.linkedin.com/in/alexanderjohnfitzgerald",
+    "https://www.linkedin.com/in/justin-baucum23",
+    "https://www.linkedin.com/posts/alexanderjohnfitzgerald_isembard-has-raised-50m-in-series-a-funding-activity-7436683113839263744-cgd3",
+    "https://uk.linkedin.com/in/maximilianeichler",
+    "https://www.linkedin.com/posts/tech-funding-news_isembard-raises-375m-to-rebuild-europes-activity-7436819274041610240-pCmO",
+    "https://www.linkedin.com/posts/seb-johnson_breaking-uk-startup-isembard-is-opening-activity-7505180522029993985-HimD",
+    "https://www.linkedin.com/posts/joscwhite_manufacturing-is-the-theory-of-everything-activity-7508852376561287168-jHOJ",
+    "https://uk.linkedin.com/company/isembard",
+    "https://uk.linkedin.com/in/jonathon-griffiths"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:facebook.com Isembard",
+   "results": [
+    "https://www.facebook.com/cityam/posts/isembards-alexander-fitzgerald-is-on-a-mission-to-revitalise-britains-high-preci/1943153070433670/",
+    "https://www.facebook.com/TELEGRAPH.CO.UK/posts/britains-defence-industry-is-undergoing-a-revolution-and-33-year-old-entrepreneu/1585516970289596/",
+    "https://www.facebook.com/StartupSelfieOfficial/posts/advanced-manufacturing-is-returning-to-central-londonbritish-startup-isembard-ha/1542590791232699/",
+    "https://www.facebook.com/campaignagainstarmstrade/posts/this-is-the-largest-weapons-factory-in-london-since-world-war-2isembard-a-new-we/1565825468914951/",
+    "https://www.facebook.com/isembardswheel/?locale=en_GB",
+    "https://www.facebook.com/WillStoneMP/posts/more-fantastic-news-for-swindon-another-factory-opensi-am-proud-to-announce-the-/1435760648706227/",
+    "https://www.facebook.com/groups/genconindy/posts/10160160871196902/",
+    "https://www.facebook.com/dane.isembard.9/",
+    "https://www.facebook.com/carl.isembard/",
+    "https://www.facebook.com/techcrunch/posts/a-defense-startup-just-raised-82-million-to-put-drone-factories-inside-shipping/1316958936964637/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Isembard note 社長",
+   "results": [
+    "https://note.com/nec_iise/m/m61341f0c51c4",
+    "https://note.com/ine_pr/m/m9f603fabbde1",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/standage/n/n1ec9248b11b2",
+    "https://note.com/wooway",
+    "https://www.nikkei.com/article/DGXZQOUC216PZ0R21C22A2000000/",
+    "https://note.com/trex_ai",
+    "https://www3.to/%E8%8B%B1%E5%9B%BD%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97-isembard-%E3%81%8C-5000-%E4%B8%87%E3%83%89%E3%83%AB%E3%82%92%E7%A2%BA%E4%BF%9D/",
+    "https://www.fastgrow.jp/articles/weeklynews-240719",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Isembard X 投稿",
+   "results": [
+    "https://isembard.com/uk/newsroom/series-a/",
+    "https://resiliencemedia.co/isembard-raises-50m-plans-to-open-25-ai-powered-factories/",
+    "https://news.sky.com/video/inside-the-british-company-creating-software-to-make-modern-weapons-in-uk-13472929",
+    "https://www.themanufacturer.com/articles/isembard-a-new-software-first-vision-for-manufacturing/",
+    "https://publish.x.com/",
+    "https://app.the-trackr.com/company/isembard",
+    "https://www.linkedin.com/posts/industrial-news-magazine_isembard-opens-750000-milton-keynes-manufacturing-activity-7516852356509024256-d-NL",
+    "https://smebusinessreview.com/environmental-sustainability/isembard-aims-to-revolutionize-reshoring-with-precision-manufacturing-and-distributed-factory-model",
+    "https://www.ukri.org/opportunity/access-to-isambard-ai-and-zenith-airr-supercomputers-gateway-route/",
+    "https://x.com/IsembardGroup"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部28頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部28頁・検索12回）"
+ }
+}

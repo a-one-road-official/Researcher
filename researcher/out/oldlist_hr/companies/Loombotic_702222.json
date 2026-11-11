@@ -1,0 +1,809 @@
+{
+ "name": "Loombotic",
+ "aliases": [],
+ "context": "旧営業リスト｜Manufacturing / production systems｜AI送信済み",
+ "researched_at": "2026-11-11T05:09:07.350781+00:00",
+ "official_url": "https://www.loombotic.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Upload your drawing. Get instant pricing with no callbacks and no waiting. IPC-certified harnesses on your doorstep in as little as a week.",
+    "url": "https://loombotic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Long quote times. Longer lead times. Rigid manufacturing. Unresponsive suppliers. You send a drawing into a black box and wait. Meanwhile, your prototype timeline slips.",
+    "url": "https://loombotic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Drop a PDF, image, or schematic. Our AI reads it in seconds, including connector types, wire gauges, and pin assignments.",
+    "url": "https://loombotic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No waiting for a sales rep to call back. Pricing is calculated live.",
+    "url": "https://loombotic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From single-unit prototypes to runs exceeding 10,000 units with consistent quality. We handle the full range of complexity, from multi-branch harnesses and shielded cables to overmolded assemblies, and everything in between.",
+    "url": "https://loombotic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From first prototype to",
+    "url": "https://loombotic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From single-unit prototypes to runs exceeding 10,000 units with consistent quality.",
+    "url": "https://loombotic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "*Express orders dependent on part availability",
+    "url": "https://loombotic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Wire harnesses connect every robot, vehicle, and machine, yet their production remains labor-intensive and slow. Loombotic combines multimodal drawing interpretation, quoting software, factory systems, robotic automation, and electrical testing in one closed production loop.",
+    "url": "https://www.essentia.vc/portfolio/loombotic/",
+    "pass": 3
+   },
+   {
+    "quote": "Loombotic describes a system that reads wire-harness drawings into production data, generates quotes, and delivers electrically tested custom assemblies in about seven days.",
+    "url": "https://www.essentia.vc/portfolio/loombotic/",
+    "pass": 3
+   },
+   {
+    "quote": "Loombotic product website",
+    "url": "https://www.essentia.vc/portfolio/loombotic/",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator identifies Loombotic as a wire-harness manufacturer using AI and robotics to automate engineering and production workflows.",
+    "url": "https://www.essentia.vc/portfolio/loombotic/",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator company profile",
+    "url": "https://www.essentia.vc/portfolio/loombotic/",
+    "pass": 3
+   },
+   {
+    "quote": "The accelerator profile is third-party published but may rely on company-supplied information. It does not independently verify operating results.",
+    "url": "https://www.essentia.vc/portfolio/loombotic/",
+    "pass": 3
+   },
+   {
+    "quote": "Engineering drawings are required for every manufactured part, but creating them is tedious and time-consuming. For large industrial projects with",
+    "url": "https://www.ycombinator.com/companies/loombotic",
+    "pass": 3
+   },
+   {
+    "quote": "of parts, engineers spend countless valuable hours on drawings instead of designing new parts. This bottleneck delays production and",
+    "url": "https://www.ycombinator.com/companies/loombotic",
+    "pass": 3
+   },
+   {
+    "quote": "Ethan has been programming since he was 8; most recently worked at Ericsson, a job he was offered for developing an embedded OS on his own at school.",
+    "url": "https://www.ycombinator.com/companies/loombotic",
+    "pass": 3
+   },
+   {
+    "quote": "Loombotic 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/711469-45",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/711469-45",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/711469-45",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/711469-45",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/711469-45",
+    "pass": 3
+   },
+   {
+    "quote": "Loombotic’s primary industry is Electrical Equipment.",
+    "url": "https://pitchbook.com/profiles/company/711469-45",
+    "pass": 3
+   },
+   {
+    "quote": "Is Loombotic a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/711469-45",
+    "pass": 3
+   },
+   {
+    "quote": "Loombotic is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/711469-45",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/711469-45",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/711469-45",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/711469-45",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/www.loombotic.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/www.loombotic.com",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Loombotic | Fast Wire Harness Manufacturing – Instant Quotes & Online Harness Editor",
+    "url": "https://loombotic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams building",
+    "url": "https://loombotic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "manufacturing is broken.",
+    "url": "https://loombotic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Long quote times. Longer lead times. Rigid manufacturing. Unresponsive suppliers. You send a drawing into a black box and wait. Meanwhile, your prototype timeline slips.",
+    "url": "https://loombotic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We assemble to IPC/WHMA-A-620 standards, the same spec used in aerospace and defense. Every single harness undergoes full electrical continuity testing before it ships. No sampling. No shortcuts.",
+    "url": "https://loombotic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "certified technicians ensure compliance with industry standards.",
+    "url": "https://loombotic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From engineering drawing to factory execution.",
+    "url": "https://www.essentia.vc/portfolio/loombotic/",
+    "pass": 3
+   },
+   {
+    "quote": "Wire harnesses connect every robot, vehicle, and machine, yet their production remains labor-intensive and slow. Loombotic combines multimodal drawing interpretation, quoting software, factory systems, robotic automation, and electrical testing in one closed production loop.",
+    "url": "https://www.essentia.vc/portfolio/loombotic/",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator identifies Loombotic as a wire-harness manufacturer using AI and robotics to automate engineering and production workflows.",
+    "url": "https://www.essentia.vc/portfolio/loombotic/",
+    "pass": 3
+   },
+   {
+    "quote": "How we evaluate Industrial AI",
+    "url": "https://www.essentia.vc/portfolio/loombotic/",
+    "pass": 3
+   },
+   {
+    "quote": "Loombotic is automating wire harness manufacturing.",
+    "url": "https://www.ycombinator.com/companies/loombotic",
+    "pass": 3
+   },
+   {
+    "quote": "Engineering drawings are required for every manufactured part, but creating them is tedious and time-consuming. For large industrial projects with",
+    "url": "https://www.ycombinator.com/companies/loombotic",
+    "pass": 3
+   },
+   {
+    "quote": "Fabricate analyzes your existing drawings and automatically generates new ones matching your exact standards - from dimensions and annotations to views and formatting. It integrates directly with existing CAD software and maintains consistency across all drawings and manufacturing methods.",
+    "url": "https://www.ycombinator.com/companies/loombotic",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of wire harnesses intended to reduce lead times and labor costs through robotics, continuous quality assurance, and software-guided assembly.",
+    "url": "https://pitchbook.com/profiles/company/711469-45",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/711469-45",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Want to email us instead?",
+    "url": "https://loombotic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "If you're making engineering drawings or know someone who is, we'd love to get you started. Email",
+    "url": "https://www.ycombinator.com/companies/loombotic",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/711469-45",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Loombotic | Fast Wire Harness Manufacturing – Instant Quotes ... — Loombotic | Fast Wire Harness Manufacturing – Instant Quotes ... Loombotic https://loombotic.com",
+    "url": "https://loombotic.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Loombotic - LinkedIn — Loombotic - LinkedIn LinkedIn https://www.linkedin.com > loombotic",
+    "url": "https://www.linkedin.com/company/loombotic",
+    "pass": 3
+   },
+   {
+    "quote": "Loombotic Launches Automated Wire Harness Production ... — Loombotic Launches Automated Wire Harness Production ... LinkedIn https://www.linkedin.com > posts > lucascrupi_today-wer...",
+    "url": "https://www.linkedin.com/posts/lucascrupi_today-were-launching-loombotic-publicly-activity-7459662257862606848-PkS3",
+    "pass": 3
+   },
+   {
+    "quote": "Loombotic | Essentia Ventures portfolio — Loombotic | Essentia Ventures portfolio Essentia Ventures https://www.essentia.vc > Portfolio",
+    "url": "https://www.essentia.vc/portfolio/loombotic/",
+    "pass": 3
+   },
+   {
+    "quote": "Jobs at Loombotic (F24) | Y Combinator's Work at a Startup — Jobs at Loombotic (F24) | Y Combinator's Work at a Startup Y Combinator's Work at a Startup https://www.workatastartup.com > loo...",
+    "url": "https://www.workatastartup.com/companies/loombotic",
+    "pass": 3
+   },
+   {
+    "quote": "Wire Harness Technician at Loombotic - Dover — Wire Harness Technician at Loombotic - Dover app.dover.com https://app.dover.com > loombotic",
+    "url": "https://app.dover.com/apply/loombotic/e51037c9-6515-4bc2-9a1a-f21454ce5ccb",
+    "pass": 3
+   },
+   {
+    "quote": "Loombotic : Wire Harnesses in as little as 7 days - Y Combinator — Loombotic : Wire Harnesses in as little as 7 days - Y Combinator Y Combinator https://www.ycombinator.com > loom...",
+    "url": "https://www.ycombinator.com/companies/loombotic",
+    "pass": 3
+   },
+   {
+    "quote": "Loombotic 2026 Company Profile - PitchBook — Loombotic 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/711469-45",
+    "pass": 3
+   },
+   {
+    "quote": "Loombotic Revenue 2025: $330K Est. - GetLatka — Loombotic Revenue 2025: $330K Est. - GetLatka GetLatka https://getlatka.com > companies > w...",
+    "url": "https://getlatka.com/companies/www.loombotic.com",
+    "pass": 3
+   },
+   {
+    "quote": "Lucas Crupi - Loombotic (YC F24) - LinkedIn — Lucas Crupi - Loombotic (YC F24) - LinkedIn LinkedIn https://ca.linkedin.com > lucascrupi",
+    "url": "https://ca.linkedin.com/in/lucascrupi",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Loombotic has 14 total employees.",
+    "url": "https://pitchbook.com/profiles/company/711469-45",
+    "pass": 3
+   },
+   {
+    "quote": "What is Loombotic’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/711469-45",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Loombotic is",
+    "url": "https://pitchbook.com/profiles/company/711469-45",
+    "pass": 3
+   },
+   {
+    "quote": "Loombotic Revenue 2025: $330K Est.",
+    "url": "https://getlatka.com/companies/www.loombotic.com",
+    "pass": 3
+   },
+   {
+    "quote": "Loombotic has not published its revenue. GetLatka estimates it at about $330K a year (September 2025).",
+    "url": "https://getlatka.com/companies/www.loombotic.com",
+    "pass": 3
+   },
+   {
+    "quote": "Loombotic has 3 employees (September 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/www.loombotic.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Loombotic's revenue?",
+    "url": "https://getlatka.com/companies/www.loombotic.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Loombotic's revenue at about",
+    "url": "https://getlatka.com/companies/www.loombotic.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Loombotic have?",
+    "url": "https://getlatka.com/companies/www.loombotic.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/www.loombotic.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/www.loombotic.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/www.loombotic.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/www.loombotic.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Loombotic - LinkedIn Loombotic - LinkedIn LinkedIn https://www.linkedin.com > loombotic",
+    "url": "https://www.linkedin.com/company/loombotic",
+    "pass": 3
+   },
+   {
+    "quote": "Loombotic Launches Automated Wire Harness Production ... Loombotic Launches Automated Wire Harness Production ... LinkedIn https://www.linkedin.com > posts > lucascrupi_today-wer...",
+    "url": "https://www.linkedin.com/posts/lucascrupi_today-were-launching-loombotic-publicly-activity-7459662257862606848-PkS3",
+    "pass": 3
+   },
+   {
+    "quote": "Lucas Crupi - Loombotic (YC F24) - LinkedIn Lucas Crupi - Loombotic (YC F24) - LinkedIn LinkedIn https://ca.linkedin.com > lucascrupi",
+    "url": "https://ca.linkedin.com/in/lucascrupi",
+    "pass": 3
+   },
+   {
+    "quote": "Founding GTM at Loombotic — Austin, TX | LinkedIn Jobs Founding GTM at Loombotic — Austin, TX | LinkedIn Jobs LinkedIn https://www.linkedin.com > jobs > view",
+    "url": "https://www.linkedin.com/jobs/view/founding-gtm-at-loombotic-4423535026",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://loombotic.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://loombotic.com/assets/logos/Loombotic%20Logo%20Orange%20Text.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://loombotic.com/assets/logos/y-combinator-logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://loombotic.com/assets/logos/Loombotic%20Icon.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://loombotic.com/assets/images/manufacturing/ai_wire_harness.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amesha-world.com/info/detail.php?id=4277",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://response.jp/article/2026/11/07/418712.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webcg.net/articles/-/54501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robertleelawoffices.com/ja/services/corporate-commercial/distribution-agency-agreements",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-dx.com/column/agency_dealer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://loombotic.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/loombotic",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/lucascrupi_today-were-launching-loombotic-publicly-activity-7459662257862606848-PkS3",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.essentia.vc/portfolio/loombotic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://loombotic.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.athenaswc.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rhombus.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factbird.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jobs.dover.com/loombotic/e51037c9-6515-4bc2-9a1a-f21454ce5ccb?src=app",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://loombotic.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/loombotic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/711469-45",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/www.loombotic.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/in/lucascrupi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://bullfincher.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/loombotic",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/lucascrupi_today-were-launching-loombotic-publicly-activity-7459662257862606848-PkS3",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/lucascrupi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/view/founding-gtm-at-loombotic-4423535026",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Loombotic 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://amesha-world.com/info/detail.php?id=4277",
+    "https://response.jp/article/2026/11/07/418712.html",
+    "https://www.webcg.net/articles/-/54501",
+    "https://www.instagram.com/reel/DfTb76WgVjx/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://trafficnews.jp/post/725198",
+    "https://kuruma-news.jp/post/1135272",
+    "https://pitchbook.com/profiles/company/711469-45",
+    "https://loombotic.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Loombotic 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.robertleelawoffices.com/ja/services/corporate-commercial/distribution-agency-agreements",
+    "https://growth-dx.com/column/agency_dealer/",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://dairitenboshu.com/",
+    "https://www.deex.co.jp/media/8uGKOPAJ",
+    "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97%E7%89%B9%E7%B4%84%E5%BA%97%E3%83%95%E3%83%A9%E3%83%B3%E3%83%81%E3%83%A3%E3%82%A4%E3%82%BA%E5%A5%91%E7%B4%84/%E7%89%B9%E7%B4%84%E5%BA%97%E4%BB%A3%E7%90%86%E5%95%86%E3%81%AE%E9%81%95%E3%81%84/%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97%E3%83%BB%E7%89%B9%E7%B4%84%E5%BA%97%E3%83%BB%E4%BB%A3%E7%90%86%E5%95%86%E3%83%BB%E8%B2%A9%E5%A3%B2%E5%BA%97%E3%81%AE%E6%B3%95%E7%9A%84%E9%81%95%E3%81%84/",
+    "https://alpc.tokyo/pages/business-d2c",
+    "https://partner-prop.com/lab/partner-business/agency/3216/",
+    "https://ja.wikipedia.org/wiki/秦英之"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Loombotic Japan",
+   "results": [
+    "https://loombotic.com/",
+    "https://www.linkedin.com/company/loombotic",
+    "https://www.linkedin.com/posts/lucascrupi_today-were-launching-loombotic-publicly-activity-7459662257862606848-PkS3",
+    "https://www.essentia.vc/portfolio/loombotic/",
+    "https://www.workatastartup.com/companies/loombotic",
+    "https://www.instagram.com/popular/loombotic/",
+    "https://loombotic.com/terms-of-service",
+    "https://www.promptloop.com/directory/what-does-loombotic-com-do",
+    "https://pitchbook.com/profiles/company/711469-45",
+    "https://www.youtube.com/watch?v=Xs2oke7SGDk"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Loombotic manufacturing customer case study",
+   "results": [
+    "https://loombotic.com/",
+    "https://www.athenaswc.com/case-studies/",
+    "https://www.rhombus.com/case-studies/",
+    "https://www.factbird.com/resources/case-studies",
+    "https://business.bt.com/insights/case-studies/manufacturing/",
+    "https://www.factory-twin.com/casestudies",
+    "https://663810.fs1.hubspotusercontent-na1.net/hubfs/663810/2022%20-%20CLEVR%20Success%20Stories%20EBooks/CLEVR%20Success%20Stories%20-%20Manufacturing%20-%20ENG.pdf",
+    "https://prototypingsolutions.com/case-studies/",
+    "https://www.harness.io/customers",
+    "https://www.linkedin.com/company/loombotic"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Loombotic white label OR reseller OR partner program",
+   "results": [
+    "https://app.dover.com/apply/loombotic/e51037c9-6515-4bc2-9a1a-f21454ce5ccb",
+    "https://loombotic.com/",
+    "https://www.ycombinator.com/companies/loombotic",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://webinone.com/reseller-program",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://suitedash.com/reseller-program/",
+    "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "https://ca.linkedin.com/in/lucascrupi",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Loombotic founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/711469-45",
+    "https://getlatka.com/companies/www.loombotic.com",
+    "https://ca.linkedin.com/in/lucascrupi",
+    "https://bullfincher.io/",
+    "https://www.reveliolabs.com/companies/funding-options/employees",
+    "https://burklandassociates.com/client-news/",
+    "https://gaps.com/finance/",
+    "https://growjo.com/company/Lumu_Technologies",
+    "https://www.founded.com/category/business/fundraising-investments/",
+    "https://prospeo.io/c/loombotic-revenue"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Loombotic",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/mio_adviser_8888/n/n7d3f9597f090",
+    "https://note.com/end_hamaokanp/n/n86a8ede22413",
+    "https://note.com/guaran/n/ne1da1b216a7a",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/kzstock/n/n8464ba129797"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Loombotic",
+   "results": [
+    "https://x.com/lucas_crupi",
+    "https://x.com/SeanKD_Photos",
+    "https://x.com/kul",
+    "https://x.com/ilaffey2",
+    "https://x.com/JLHenriod",
+    "https://x.com/lukebayes",
+    "https://x.com/kevinbai0",
+    "https://x.com/AnneliesGamble",
+    "https://x.com/alex_ruber",
+    "https://x.com/loombotic"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Loombotic",
+   "results": [
+    "https://www.linkedin.com/company/loombotic",
+    "https://www.linkedin.com/posts/lucascrupi_today-were-launching-loombotic-publicly-activity-7459662257862606848-PkS3",
+    "https://ca.linkedin.com/in/lucascrupi",
+    "https://www.linkedin.com/jobs/view/founding-gtm-at-loombotic-4423535026",
+    "https://www.linkedin.com/jobs/view/wire-harness-technician-at-loombotic-4478466298",
+    "https://ca.linkedin.com/in/ethan-breit-a7ba81180",
+    "https://ca.linkedin.com/in/alexander-magrath-76aa37132",
+    "https://ca.linkedin.com/in/joshua-m-stevens",
+    "https://www.linkedin.com/in/kian-abrishami",
+    "https://www.linkedin.com/jobs/view/wire-harness-technician-at-loombotic-4465110853"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com Loombotic",
+   "results": [
+    "https://www.facebook.com/southloom/posts/thank-you-drnila_jyothibhas-looking-absolutely-gorgeous-in-this-southloom-mul-co/1373372958161335/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "Loombotic note 社長",
+   "results": [
+    "https://note.com/tag/%E7%A4%BE%E9%95%B7%E3%83%96%E3%83%AD%E3%82%B0",
+    "https://x.com/sadaaki",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.com/kayokamoto/n/n011cc09328af",
+    "https://online.nikkei-cnbc.co.jp/vod/58940",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/kazuyuki_tachi/n/n2915e4f702c6",
+    "https://hutzper.com/news/notice/n261025/",
+    "https://www.gogyofuku.co.jp/kan/2020/08/note.html",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Loombotic X 投稿",
+   "results": [
+    "https://loombotic.com/",
+    "https://www.instagram.com/popular/loombotic/",
+    "https://www.essentia.vc/portfolio/loombotic/",
+    "https://x.com/DavidLat/status/761329606624436225",
+    "https://github.com/LOBOT-ROBOT",
+    "https://www.loganbotica.com/cleints",
+    "https://lobobot.com/auth/login",
+    "https://www.youtube.com/watch?v=Yghc7Ml4VRY",
+    "https://lobot.chat/",
+    "https://t.me/Lolabobot"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）"
+ }
+}

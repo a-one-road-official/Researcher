@@ -1,0 +1,418 @@
+{
+ "name": "⭐️Prometheusfuels",
+ "aliases": [],
+ "context": "旧営業リスト｜Materials / process technology｜AI送信済み",
+ "researched_at": "2026-11-11T05:31:24.964338+00:00",
+ "official_url": "https://www.prometheusfuels.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Prometheus Fuels — Carbon-Neutral Liquid Fuels",
+    "url": "https://prometheusfuels.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Prometheus stores electricity as low cost clean diesel, jet fuel, and methanol through direct air capture and advanced electrochemistry.",
+    "url": "https://prometheusfuels.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Prometheus fuels has developed a breakthrough new way to store electricity as fuels:",
+    "url": "https://prometheusfuels.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "synthesizing kerosene through direct air capture and a 100% electrochemical process.",
+    "url": "https://prometheusfuels.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Though this process can utilize any source of electricity:",
+    "url": "https://prometheusfuels.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "when utilizing low-cost, off grid solar, our zero-net-carbon fuels are competitive with commodity fossil fuel prices.",
+    "url": "https://prometheusfuels.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "One process,",
+    "url": "https://prometheusfuels.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Ultra Long Duration Energy Storage (ULDES) systems can shape and firm renewable energy seasonally, by storing it as liquid fuels when renewables are abundant, for months at a time, and using them when needed to provide firm, dispatchable power.",
+    "url": "https://prometheusfuels.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Market-Matched Prices.",
+    "url": "https://prometheusfuels.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Utilizing low cost off-grid solar energy, we can create carbon neutral fuels at prices competitive with commodity fossil fuel prices. This enables energy security, by ensuring the availability of fuels to power aviation, shipping, and anything else the economy needs.",
+    "url": "https://prometheusfuels.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "One technology platform, no infrastructure prerequisites.",
+    "url": "https://prometheusfuels.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with Prometheus",
+    "url": "https://prometheusfuels.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "info@prometheusfuels.com",
+    "url": "https://prometheusfuels.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you’re an investor, operator, or industry partner — we want to hear from you. Prometheus Fuels is actively seeking collaborators at the frontier of clean energy.",
+    "url": "https://prometheusfuels.ai/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "info@prometheusfuels.com",
+    "url": "https://prometheusfuels.ai/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://prometheusfuels.ai/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/enecho/shigen_nenryo/nenryo_seisaku/pdf/023_04_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_04_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://grainsjp.org/us-bioethanol/article/introduction_goals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kimini.online/blog/archives/39927",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://d-hub.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.msh-systems.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/prometheusfuels/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prometheusfuels.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://beta.prometheusfuels.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prometheusfuels.ai/technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prometheusgroup.com/customer-showcase/all-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prometheusgroup.com/resources/10-proof-points-25-years-empowering-oil-gas-organizations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prometheusfuels.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prometheusfuels.ai/technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.livechat.com/blog/best-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.learnworlds.com/blog/market-sell/white-label-courses-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insighto.ai/blog/white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catproxies.com/become-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/prometheus/__hsv0xxENEbsksbzJSZzzm6AY-72AlVxjYxON1NxlnII",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/266440-69",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://indexed.vc/companies/prometheusfuels",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/prometheusfuels.com",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "⭐️Prometheusfuels 日本 導入",
+   "results": [
+    "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "https://www.meti.go.jp/shingikai/enecho/shigen_nenryo/nenryo_seisaku/pdf/023_04_00.pdf",
+    "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/shoyoka_wg/pdf/008_04_02.pdf",
+    "https://grainsjp.org/us-bioethanol/article/introduction_goals/",
+    "https://www.itmedia.co.jp/smartjapan/articles/2606/26/news031.html",
+    "https://www.enecho.meti.go.jp/about/special/johoteikyo/bioethanol_02.html",
+    "https://www.nikkei.com/article/DGXZQOUA194DP0Z10C25A5000000/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️Prometheusfuels 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kimini.online/blog/archives/39927",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://d-hub.jp/",
+    "https://www.msh-systems.com/partners/",
+    "https://www.houjin-bangou.nta.go.jp/en/index.html",
+    "https://japan-company.net/",
+    "https://www.ontrium.com/ja/japan/ブランド"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️Prometheusfuels Japan",
+   "results": [
+    "https://www.instagram.com/prometheusfuels/",
+    "https://prometheusfuels.ai/",
+    "https://beta.prometheusfuels.com/",
+    "https://prometheusfuels.ai/technology/",
+    "https://jp.linkedin.com/pulse/prometheus-just-changed-energy-fuels-forever-rob-mcginnis-khdsc?tl=ja",
+    "https://www.businesswire.com/news/home/20250710099048/en/Prometheus-Fuels-Hits-Major-Commercial-Milestone",
+    "https://carboncredits.jp/global/prometheus-dac-efuel-commercial-launch/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️Prometheusfuels manufacturing customer case study",
+   "results": [
+    "https://www.prometheusgroup.com/customer-showcase/all-stories",
+    "https://www.prometheusgroup.com/resources/10-proof-points-25-years-empowering-oil-gas-organizations",
+    "https://prometheusfuels.ai/",
+    "https://prometheusfuels.ai/technology/",
+    "https://beta.prometheusfuels.com/",
+    "https://enkiai.com/prometheus/prometheus-fuels-2025-pivot-e-fuel-to-data-center-power/",
+    "https://esgnews.com/prometheus-fuels-reaches-trl-9-with-worlds-first-off-grid-carbon-neutral-e-fuel-from-air/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️Prometheusfuels white label OR reseller OR partner program",
+   "results": [
+    "https://partners.livechat.com/blog/best-reseller-programs/",
+    "https://www.learnworlds.com/blog/market-sell/white-label-courses-to-resell/",
+    "https://insighto.ai/blog/white-label-reseller-programs/",
+    "https://catproxies.com/become-reseller",
+    "https://dataimpulse.com/blog/best-proxy-reseller-programs/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.text.com/blog/saas-reseller-programs/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️Prometheusfuels founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/prometheus/__hsv0xxENEbsksbzJSZzzm6AY-72AlVxjYxON1NxlnII",
+    "https://pitchbook.com/profiles/company/266440-69",
+    "https://indexed.vc/companies/prometheusfuels",
+    "https://getlatka.com/companies/prometheusfuels.com",
+    "https://www.gritt.io/company/prometheusfuels/",
+    "https://compworth.com/company/prometheus-fuels",
+    "https://www.zoominfo.com/c/prometheus-fuels/482653846"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ⭐️Prometheusfuels",
+   "results": [
+    "https://note.com/tag/我々は宇宙人",
+    "https://tales.note.com/heihachiro555",
+    "https://note.com/yuu_boat_race/n/nfb0f6f9d3884",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://tales.note.com/heihachiro555/w93uefuqjujn7",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/clare_millandone/n/ncb2152c923d6?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ⭐️Prometheusfuels",
+   "results": [
+    "https://x.com/C6ix_official/status/2120082798036107520",
+    "https://x.com/PrometheusFuels/status/1416054623568236545",
+    "https://x.com/PrometheusFuels/status/1377983302322241536",
+    "https://x.com/AmjMurray",
+    "https://x.com/timstillman_/status/2120237984133898479",
+    "https://x.com/noasempai_yj/status/2069800218217091474",
+    "https://x.com/CreoleCockpit_9/status/2114703012320940216"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ⭐️Prometheusfuels",
+   "results": [
+    "https://www.linkedin.com/company/prometheusfuels/",
+    "https://www.linkedin.com/pulse/we-made-history-prometheusfuels-pjnic",
+    "https://il.linkedin.com/in/hilamiller",
+    "https://www.linkedin.com/pulse/prometheus-just-changed-energy-fuels-forever-rob-mcginnis-khdsc/",
+    "https://www.linkedin.com/posts/prometheusfuels_prometheus-powers-ai-activity-7371603773724680192-tChp",
+    "https://www.linkedin.com/posts/prometheusfuels_prometheus-just-changed-energy-and-fuels-activity-7368750286506504192-jiSa",
+    "https://www.linkedin.com/posts/maritime-carbon-intelligence_maersk-backed-prometheus-claims-world-first-activity-7351550495674540033-2Ikh"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ⭐️Prometheusfuels",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "⭐️Prometheusfuels note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://prometheusfuels.ai/",
+    "https://www.theofficialboard.com/org-chart/prometheus-2",
+    "https://www.linkedin.com/pulse/prometheus-just-changed-energy-fuels-forever-rob-mcginnis-khdsc/",
+    "https://www.podparadise.com/episodes/15808561/",
+    "https://tracxn.com/d/companies/prometheus/__hsv0xxENEbsksbzJSZzzm6AY-72AlVxjYxON1NxlnII",
+    "https://contactout.com/Rob-McGinnis-1301475"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️Prometheusfuels X 投稿",
+   "results": [
+    "https://x.com/prometheusfuels",
+    "https://www.instagram.com/prometheusfuels/",
+    "https://www.instagram.com/prometheusfuels/reels/",
+    "https://www.instagram.com/p/DIhC4Y0Tvkm/",
+    "https://prometheusfuels.ai/",
+    "https://x.com/osanpo_icochan/status/2118630405637361720",
+    "https://beta.prometheusfuels.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

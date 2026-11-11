@@ -1,0 +1,1655 @@
+{
+ "name": "Roboze",
+ "aliases": [],
+ "context": "旧営業リスト｜AM / Additive Manufacturing｜日本進出済",
+ "researched_at": "2026-11-11T05:14:16.126454+00:00",
+ "official_url": "https://www.roboze.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都千代田区三番町6番3号\n三番町UFビル3F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000113615.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1990年07月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000113615.html",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "13-Dec-2018 $3.41M $3.41M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/310792-24",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Product first, Mission Focused",
+    "url": "https://www.roboze.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "autonomous production systems",
+    "url": "https://www.roboze.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "「ARGO 500 HYPERSPEED」のほか、小規模生産に対応した小型モデル「Plus PRO」、1m角サイズが造形可能な大型モデル「ARGO 1000 HYPERMELT」がラインアップしており、お客さまの製品に合わせてご提案します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000113615.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sermoon D3/Pro［Creality］",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "XiP Pro[Nexa3D]",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "TruPrint 2000[TRUMPF]",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "Infinity X2 Pro［Microboards Technology Inc］",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "X1 25PRO",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "UltiMaker S7 Pro Bundle[UltiMaker]",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "MfgPro230 xS［XYZプリンティング］",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "PartProシリーズ【XYZプリンティング】",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "ProJet1200［3D Systems］",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "ProJet2500/2500W［3D Systems］",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "ProJet3500［3D Systems］",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "Raise3D pro2［RAISE3D］",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "uPrint SE Plus[Stratasys]",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.keyence.co.jp/products/3d-printers/3d-printers/",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "https://markforged.com/jp/3d-printers",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "ProX SLS 6100",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "https://canon.jp/biz/product/indtech/3dpsolution/3dsystems/lineup/resin-powder/sls6100",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "無断転用禁止（Unauthorized copying prohibited.）",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "Forget Metal: Roboze and SOLIZE Bring Hyperspeed Super Polymer 3D Printing to Japan - 3DPrint.com | Additive Manufacturing Business",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Forget Metal: Roboze and SOLIZE Bring Hyperspeed Super Polymer 3D Printing to Japan",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printers",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Events",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Materials",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "is rolling out a 3D printer that could reshape how manufacturers work with high-performance polymers. A veteran in the additive manufacturing (AM) space, SOLIZE is bringing the high-powered",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "3D printer from Italian firm",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "to the Japanese market. This 3D printer is a serious contender in the race to replace metal parts with",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": ", a shift that could transform how industries like aerospace, automotive, and energy approach production.",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing engineer. Image Courtesy of Solize.",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan has long been a leader in advanced manufacturing, but it has been slower to adopt high-end polymer 3D printing compared to Europe and the U.S. However, SOLIZE is betting big on this technology and will become the sole distributor of Roboze in Japan. The company plans to install the ARGO 500 Hyperspeed at its facility in Toyota City, Japan.",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Starting in March 2025, SOLIZE will offer benchmarking services to help businesses determine whether the ARGO 500 Hyperspeed fits their production needs. The goal is to show Japanese manufacturers that high-speed polymer 3D printing is a practical solution for reducing costs, increasing efficiency, and replacing expensive metal parts with durable, high-performance alternatives.",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": ", a large-format pellet-based extrusion 3D printer that can print parts as large as one cubic meter. This makes it a game-changer for industries needing massive components. The Plus PRO is geared toward low-volume production for smaller-scale needs, providing flexibility for companies testing out AM.",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Stay up-to-date on all the latest news from the 3D printing industry and receive information and offers from third party vendors.",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "3d printed polymers",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "3d printer reseller",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "3d printing partnership",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Upload your 3D Models and get them printed quickly and efficiently.",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "3DPrinting Business Directory",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal 3D Printing",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Financials: Tekna’s Revenue Up 61 Percent YOY",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "As my recent post about tungsten demonstrates, critical materials are like an avatar for the current dynamics shaping the global economy. This presents an opaque mix of challenges and opportunities...",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical 3D Printing",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "The Nannen-sei validation should facilitate increased integration of Roboze additive manufacturing technology into the production workflows of Japanese railway manufacturers.",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "Škoda Auto invites drivers to customise their cars with 3D-printable accessories",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "BMW to launch car with WAAM 3D printed component in 2027",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasys launches new F870 FDM 3D printer; Toyota & Rivian among first users",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyundai installs two ExOne VX1000 HSS polymer 3D printers",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "The automotive company has adopted ExOne's High Speed Sintering technology to produce large parts quickly, reducing assembly effort and tolerance stack-up errors.",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "The company, which uses 3D printing to produce passive radiating front ends, is developing two active antennas for UNIVITY.",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "OSSTEC raises $8m to fund in-human surgical cases of 3D printing-enabled ASCENT knee implant",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "The capital will take ASCENT and its CLARITY instrumentation through FDA clearance to first-in-human procedures in the U.S., planned for the first half of 2027.",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "The next phase of AM will not be defined simply by faster 3D printers or larger build volumes, writes 3D Systems' Colin Blain, it will be defined by the maturation of additive into a repeatable, validated and increasingly autonomous production methodology.",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabs increases Multi Jet Fusion capacity by 50%",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "The increased capacity, Protolabs says, will allow it to better serve those using the technology for lightweight, complex prototyping and production parts.",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon sets new benchmark for depowdering large metal 3D-printed parts with SFM-AT850",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "Rigaku on the practical value of CT for additive manufacturing.",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Roboze - Advanced Additive Manufacturing",
+    "url": "https://www.roboze.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing is Power",
+    "url": "https://www.roboze.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Building the foundational layer of next-gen decentralized manufacturing for the world’s most strategic sectors.",
+    "url": "https://www.roboze.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "From vision to industrial reality",
+    "url": "https://www.roboze.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "We integrate industrial robotics,",
+    "url": "https://www.roboze.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": ", and Industrial AI to create",
+    "url": "https://www.roboze.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "capable of manufacturing mission-critical components at scale.",
+    "url": "https://www.roboze.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "We design and invest with a long-term horizon, ensuring enduring industrial resilience and strategic capability for the nations we serve.",
+    "url": "https://www.roboze.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Bold Engineering with Industrial Discipline",
+    "url": "https://www.roboze.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "The world is moving fast, but foundational systems cannot be rushed. We combine bold engineering with rigorous industrial discipline to ensure superior performance and reliability.",
+    "url": "https://www.roboze.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing where failure is not an option",
+    "url": "https://www.roboze.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "INDUSTRIAL X3/X5/X7［Markforged］",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "Forget Metal: Roboze and SOLIZE Bring Hyperspeed Super Polymer 3D Printing to Japan - 3DPrint.com | Additive Manufacturing Business",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "is rolling out a 3D printer that could reshape how manufacturers work with high-performance polymers. A veteran in the additive manufacturing (AM) space, SOLIZE is bringing the high-powered",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": ", a shift that could transform how industries like aerospace, automotive, and energy approach production.",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan has long been a leader in advanced manufacturing, but it has been slower to adopt high-end polymer 3D printing compared to Europe and the U.S. However, SOLIZE is betting big on this technology and will become the sole distributor of Roboze in Japan. The company plans to install the ARGO 500 Hyperspeed at its facility in Toyota City, Japan.",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Starting in March 2025, SOLIZE will offer benchmarking services to help businesses determine whether the ARGO 500 Hyperspeed fits their production needs. The goal is to show Japanese manufacturers that high-speed polymer 3D printing is a practical solution for reducing costs, increasing efficiency, and replacing expensive metal parts with durable, high-performance alternatives.",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Lorusso also notes that: “After several months of increasing demand from the Japanese market to adopt our technology, we’ve agreed with who I think is the best possible partner to support Japanese aerospace, defense and transportation customers in adopting our advanced manufacturing ecosystem to build the backbone of these strategic sectors for the next decades.”",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "With SOLIZE’s deep experience in additive manufacturing and Roboze’s cutting-edge technology, this collaboration could help push Japanese industries. For companies looking to stay ahead, now might be the time to start paying attention.",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Financials: Nikon’s Digital Manufacturing Revenue Grows 77% as Sam O’Leary Moves to Supervisory Board",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Nikon (TYO: 7731) just announced its earnings for Q2 (fiscal year ending March ’27), and we learned that the digital manufacturing business grew revenue by 77 percent to ¥17.4 billion...",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing (AM) has become very good at proving what is possible. Companies can print complex metal parts, reduce weight, combine multiple components into one, and produce designs that are...",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "The Nannen-sei validation should facilitate increased integration of Roboze additive manufacturing technology into the production workflows of Japanese railway manufacturers.",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "#219 Roboze CEO Alessio Lorusso: “We are on a mission to build the largest AM factory in the world.”",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "The automotive company has adopted ExOne's High Speed Sintering technology to produce large parts quickly, reducing assembly effort and tolerance stack-up errors.",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "OSSTEC raises $8m to fund in-human surgical cases of 3D printing-enabled ASCENT knee implant",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "From Invention to Industrialization: The Next Era of Additive Manufacturing",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal additive manufacturing has grown quickly in the large-format segment. The SFM-AT850 responds with a clear increase in capacity.",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "What additive manufacturing engineers should know about X-ray CT",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "Rigaku on the practical value of CT for additive manufacturing.",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing's $110 Billion Question: Is Your Supply Chain Ready?",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry's Nikolaus Mroncz details the three tests that engineering and procurement teams should carry out before proceeding with additive manufacturing.",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze, SLB to collaborate on local manufacturing in Saudi Arabia | Offshore Magazine",
+    "url": "https://www.offshore-mag.com/equipment-engineering/news/55263831/roboze-roboze-slb-to-collaborate-on-local-manufacturing-in-saudi-arabia",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze, SLB to collaborate on local manufacturing in Saudi Arabia",
+    "url": "https://www.offshore-mag.com/equipment-engineering/news/55263831/roboze-roboze-slb-to-collaborate-on-local-manufacturing-in-saudi-arabia",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze, a manufacturer of industrial non-metallic additive products, has announced that it has signed a memorandum of understanding (MoU) to collaborate with SLB on local manufacturing in Saudi Arabia.",
+    "url": "https://www.offshore-mag.com/equipment-engineering/news/55263831/roboze-roboze-slb-to-collaborate-on-local-manufacturing-in-saudi-arabia",
+    "pass": 3
+   },
+   {
+    "quote": "The MoU focuses on expanding Roboze’s manufacturing capabilities in Saudi Arabia to produce SLB-qualified components on demand. The agreement will support Saudi Arabia’s Vision 2030 program by fostering sustainability and economic diversification through in-country manufacturing.",
+    "url": "https://www.offshore-mag.com/equipment-engineering/news/55263831/roboze-roboze-slb-to-collaborate-on-local-manufacturing-in-saudi-arabia",
+    "pass": 3
+   },
+   {
+    "quote": "Huisman and RAMLAB are looking to produce a large offshore crane hook using the 3D printing technique ‘Wire & Arc Additive Manufacturing.’",
+    "url": "https://www.offshore-mag.com/equipment-engineering/news/55263831/roboze-roboze-slb-to-collaborate-on-local-manufacturing-in-saudi-arabia",
+    "pass": 3
+   },
+   {
+    "quote": "ROBOZE is a leading company in the development and production of advanced solutions in the field of industrial 3D printing",
+    "url": "https://www.visacashapprb.com/int-en/partners/vcarb-roboze-partner",
+    "pass": 3
+   },
+   {
+    "quote": "aerospace,",
+    "url": "https://www.visacashapprb.com/int-en/partners/vcarb-roboze-partner",
+    "pass": 3
+   },
+   {
+    "quote": "As an official partner, ROBOZE supports the team with high-performance manufacturing solutions built for the demands of elite motorsport.",
+    "url": "https://www.visacashapprb.com/int-en/partners/vcarb-roboze-partner",
+    "pass": 3
+   },
+   {
+    "quote": "The Roboze Argo 500 industrial 3D printer [Source: Fabbaloo]",
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze announced yet more resellers for their products, illustrating the critical importance of resellers to manufacturers.",
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze is an Italian firm producing industrial high-temperature 3D printers that can print quality parts in materials like PEEK or PEKK. They’ve been quite successful in recent years, and part of that is due to their reseller strategy.",
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "A reseller is of critical importance to a manufacturer. That’s because manufacturers tend to be good at making machines, but not as specialized in selling products themselves.",
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "That’s where resellers step in. They typically sell a variety of products from many manufacturers, allowing them to make a profit even though they may not sell very many units from a specific manufacturer.",
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "The same could be said for support and service as well as sales: the reseller is physically present and can therefore provide far better service than a distant manufacturer.",
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "These are all things that a manufacturer doesn’t have to do when making the decision to enter a territory: they just strike a deal with an already-established local reseller.",
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "By continually adding resellers, Roboze — and any 3D printer manufacturer — can quite rapidly expand their sales presence. There are resellers everywhere, and it’s simply a matter of signing them up and providing them with product.",
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze raises €3M in funding round, targets 500% growth in coming year | VoxelMatters - The heart of additive manufacturing",
+    "url": "https://www.voxelmatters.com/roboze-3m-funding-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Additive Manufacturing",
+    "url": "https://www.voxelmatters.com/roboze-3m-funding-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "The Italian 3D printer manufacturer successfully closed its first funding round, led by Equiter SPA",
+    "url": "https://www.voxelmatters.com/roboze-3m-funding-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "Italian 3D printer manufacturer",
+    "url": "https://www.voxelmatters.com/roboze-3m-funding-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "The successful funding round is not without precedent, as Roboze has experienced steady growth (100% year over year) since its founding. The 3D printer manufacturer, which last year released its first industrial production system, the",
+    "url": "https://www.voxelmatters.com/roboze-3m-funding-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive AM 2025",
+    "url": "https://www.voxelmatters.com/roboze-3m-funding-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Additive Manufacturing",
+    "url": "https://www.voxelmatters.com/roboze-3m-funding-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.",
+    "url": "https://www.voxelmatters.com/roboze-3m-funding-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of additive manufacturing technologies designed to support production in demanding industrial sectors.",
+    "url": "https://pitchbook.com/profiles/company/310792-24",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/310792-24",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of additive manufacturing technologies designed to support production in demanding industrial sectors. The",
+    "url": "https://pitchbook.com/profiles/company/310792-24",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Building Roboze will demand decades of commitment and ingenuity. We are humbled by our mission but remain optimistic, confident that persistence, execution, and creativity will carry us through challenges.",
+    "url": "https://www.roboze.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "※3DEXPERIENCE、Compass アイコン、3DS ロゴ、CATIA、BIOVIA、GEOVIA、SOLIDWORKS、3DVIA、ENOVIA、EXALEAD、NETVIBES、MEDIDATA、CENTRIC PLM、3DEXCITE、SIMULIA、DELMIA およびIFWE は、アメリカ合衆国、またはその他の国における、ダッソー・システムズ (ヴェルサイユ商業登記所に登記番号B 322 306 440 で登録された、フランスにおける欧州会社) またはその子会社の登録商標または商標です",
+    "url": "https://partners.solize.com/3dp-sales/roboze",
+    "pass": 3
+   },
+   {
+    "quote": "※Ansys®、及びその他すべてのANSYS, Inc.の製品名は、ANSYS, Inc.またはその子会社の米国およびその他の国における商標または登録商標です",
+    "url": "https://partners.solize.com/3dp-sales/roboze",
+    "pass": 3
+   },
+   {
+    "quote": "Solizeは東商スタンダート市場に上場している",
+    "url": "https://sekapri.com/business/20250119-18779/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Financials: Tekna’s Revenue Up 61 Percent YOY",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Financials: Nikon’s Digital Manufacturing Revenue Grows 77% as Sam O’Leary Moves to Supervisory Board",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Nikon (TYO: 7731) just announced its earnings for Q2 (fiscal year ending March ’27), and we learned that the digital manufacturing business grew revenue by 77 percent to ¥17.4 billion...",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "The qualification tests were carried out at the",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "SWISSto12 passes CDR for UNIVITY’s 5G non-terrestrial network demonstration satellite phased array antennas",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry's Nikolaus Mroncz details the three tests that engineering and procurement teams should carry out before proceeding with additive manufacturing.",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "Woodside has installed and put into service a 3D printed valve on its Goodwyn A platform, part of the North West Shelf (NWS) project offshore Western Australia.",
+    "url": "https://www.offshore-mag.com/equipment-engineering/news/55263831/roboze-roboze-slb-to-collaborate-on-local-manufacturing-in-saudi-arabia",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze is an Italian firm producing industrial high-temperature 3D printers that can print quality parts in materials like PEEK or PEKK. They’ve been quite successful in recent years, and part of that is due to their reseller strategy.",
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "In fact, Roboze has reported that it is aiming to grow its business by 500% in the next year and has announced its plans to scale its operations up to 80 employees.",
+    "url": "https://www.voxelmatters.com/roboze-3m-funding-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry posts record Q3 revenue of $252 million and raises 2026 outlook",
+    "url": "https://www.voxelmatters.com/roboze-3m-funding-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "Tripo CMO Sienna Hwang on the…",
+    "url": "https://www.voxelmatters.com/roboze-3m-funding-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://www.voxelmatters.com/roboze-3m-funding-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.com/roboze-3m-funding-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/310792-24",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze has 111 total employees.",
+    "url": "https://pitchbook.com/profiles/company/310792-24",
+    "pass": 3
+   },
+   {
+    "quote": "What is Roboze’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/310792-24",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Roboze is",
+    "url": "https://pitchbook.com/profiles/company/310792-24",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "スーパーエンプラ対応3Dプリンター Roboze社の国内唯一の代理店",
+    "url": "https://partners.solize.com/3dp-sales/roboze",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE PARTNERSは、造形受託と3Dプリンター販売の両方を扱う、世界でも数少ない販売代理店です",
+    "url": "https://partners.solize.com/3dp-sales/roboze",
+    "pass": 3
+   },
+   {
+    "quote": "装置の導入に際しては、スペックや機能に目が奪われがちですが、確かなサポートができる販売代理店かどうか、保守サービスは装置の性能と同じくらい重要なファクターです",
+    "url": "https://partners.solize.com/3dp-sales/roboze",
+    "pass": 3
+   },
+   {
+    "quote": "Robozeのスーパーエンプラ対応3Dプリンター「ARGO 500 HYPERSPEED」を導入し、装置販売・導入サポート、装置検討用ベンチマークの受け付けを開始 | SOLIZE Holdings株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000113615.html",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE株式会社（本社：東京都千代田区、代表取締役社長CEO：宮藤 康聡）は、Roboze S.p.A.（本社：イタリア・バリ、CEO：Alessio Lorusso）の国内唯一の代理店として、3Dプリンター「ARGO 500 HYPERSPEED」の販売および装置導入サポートを開始します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000113615.html",
+    "pass": 3
+   },
+   {
+    "quote": "「TCT Japan 2025 -3Dプリンティング & AM技術の総合展-」出展者セミナー",
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000113615.html",
+    "pass": 3
+   },
+   {
+    "quote": "会場：東京ビッグサイト TCT Introducing stage（東3ホール）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000113615.html",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.tctjapan.jp/",
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000113615.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都千代田区三番町6番3号",
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000113615.html",
+    "pass": 3
+   },
+   {
+    "quote": "[株式会社スリーディー・システムズ・ジャパン]",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "Lasermeister 100Aシリーズ [株式会社ニコン]",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "JAM-5200EBM[日本電子株式会社]",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "S3DPシリーズ／GEMシリーズ[エス.ラボ株式会社]",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "REP-BOX Ⅱ[株式会社ルナクラフト]",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "FS-190LCD[株式会社エフティ・ファインテックプロダクト]",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "L-DEVO® [株式会社フュージョンテクノロジー]",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "G-ZERO L1[株式会社グーテンベルク]",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "SILICOM（シリコム）[ホッティーポリマー株式会社]",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "Creality K1 MAX FDM［株式会社サンステラ］",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "LAMDAシリーズ［日本電産マシンツール］",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "【業種別】3Dプリンターの導入事例と今後の展望",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "【業種別】3Dプリンターの導入事例と今後の展望_TOP",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業用3Dプリンターを長期間にわたり安定して稼働させるには、販売代理店によるサポート体制が欠かせません",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内での代理店を務める株式会社イリスでは、導入前の技術的なご相談から、実際の機械設置、そして初期設定まで幅広く対応しています",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都品川区上大崎3-12-18 イリスビル",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "本サイトは、Zenken株式会社が2020年11月調査時点での情報をもとに制作・運営しています",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "RobozeがSolizeと日本での販売代理店契約を締結 ｜ 世界の3Dプリンターニュース「セカプリ」",
+    "url": "https://sekapri.com/business/20250119-18779/",
+    "pass": 3
+   },
+   {
+    "quote": "RobozeがSolizeと日本での販売代理店契約を締結",
+    "url": "https://sekapri.com/business/20250119-18779/",
+    "pass": 3
+   },
+   {
+    "quote": "イタリアの3DプリンターメーカーのRobozeが、日本の3DエンジニアリングサービスプロバイダーのSolizeと、日本での販売代理店契約を締結した",
+    "url": "https://sekapri.com/business/20250119-18779/",
+    "pass": 3
+   },
+   {
+    "quote": "報道によるとSolizeはRobozeのフラッグシップモデル「ARGO500ハイパースピード」の日本での独占販売権を取得し、同製品の販売とサポートなどを行う",
+    "url": "https://sekapri.com/business/20250119-18779/",
+    "pass": 3
+   },
+   {
+    "quote": "Solize（ソライズ）は、1990年に山田眞次郎により株式会社インクスとして設立された3Dエンジニアリングサービスプロバイダー",
+    "url": "https://sekapri.com/business/20250119-18779/",
+    "pass": 3
+   },
+   {
+    "quote": "設立当初よりスリーディーシステムズのSLA3Dプリンターを活用した試作品製造サービスを提供するなど、日本の3Dプリンティングサービスビューローとしての歴史を誇っている",
+    "url": "https://sekapri.com/business/20250119-18779/",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE株式会社が3Dプリンターでトヨタの旧型モデルのパーツを製造",
+    "url": "https://sekapri.com/business/20250119-18779/",
+    "pass": 3
+   },
+   {
+    "quote": "JSR株式会社がカーボンとの業務提携を解消へ",
+    "url": "https://sekapri.com/business/20250119-18779/",
+    "pass": 3
+   },
+   {
+    "quote": "日本製紙が開発したCNF強化樹脂がアスペクトの3Dプリンター用粉末樹…",
+    "url": "https://sekapri.com/business/20250119-18779/",
+    "pass": 3
+   },
+   {
+    "quote": "日本製紙が開発したCNF強化樹脂がアスペクトの3Dプリンター用粉…",
+    "url": "https://sekapri.com/business/20250119-18779/",
+    "pass": 3
+   },
+   {
+    "quote": "Forget Metal: Roboze and SOLIZE Bring Hyperspeed Super Polymer 3D Printing to Japan - 3DPrint.com | Additive Manufacturing Business",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Forget Metal: Roboze and SOLIZE Bring Hyperspeed Super Polymer 3D Printing to Japan",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "to the Japanese market. This 3D printer is a serious contender in the race to replace metal parts with",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan has long been a leader in advanced manufacturing, but it has been slower to adopt high-end polymer 3D printing compared to Europe and the U.S. However, SOLIZE is betting big on this technology and will become the sole distributor of Roboze in Japan. The company plans to install the ARGO 500 Hyperspeed at its facility in Toyota City, Japan.",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Starting in March 2025, SOLIZE will offer benchmarking services to help businesses determine whether the ARGO 500 Hyperspeed fits their production needs. The goal is to show Japanese manufacturers that high-speed polymer 3D printing is a practical solution for reducing costs, increasing efficiency, and replacing expensive metal parts with durable, high-performance alternatives.",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "TCT Japan 2025",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Solize’s booth at TCT Japan 2025. Image courtesy of Solize.",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Lorusso also notes that: “After several months of increasing demand from the Japanese market to adopt our technology, we’ve agreed with who I think is the best possible partner to support Japanese aerospace, defense and transportation customers in adopting our advanced manufacturing ecosystem to build the backbone of these strategic sectors for the next decades.”",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "With SOLIZE’s deep experience in additive manufacturing and Roboze’s cutting-edge technology, this collaboration could help push Japanese industries. For companies looking to stay ahead, now might be the time to start paying attention.",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze obtains Japan's Nannen-sei certification for filament and pellet extrusion of ULTEM 9085",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "The validation should open up application opportunities in the Japanese rail sector.",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "ARGO 500 HYPERSPEED and ARGO 1000 HYPERMELT platforms have obtained Japan’s Nannen-sei certification for ULTEM 9085, in full compliance with the requirements set forth by the Ministerial Ordinance Technical Standards for Railways issued by the MLIT (Article 83).",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Railway Rolling Stock Machinery Association",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze’s key technology partner in Japan",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "The Nannen-sei validation should facilitate increased integration of Roboze additive manufacturing technology into the production workflows of Japanese railway manufacturers.",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Roboze 社製 3Dプリンター - SOLIZE PARTNERS — Roboze 社製 3Dプリンター - SOLIZE PARTNERS SOLIZE PARTNERS株式会社 https://partners.solize.com > ... > 3Dプリンター 販売・保守",
+    "url": "https://partners.solize.com/3dp-sales/roboze",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze - Advanced Additive Manufacturing — Roboze - Advanced Additive Manufacturing Roboze https://www.roboze.com > ...",
+    "url": "https://www.roboze.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze のスーパーエンプラ対応3Dプリンター「ARGO 500 ... — Roboze のスーパーエンプラ対応3Dプリンター「ARGO 500 ... PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000113615.html",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze ARGO 500［ Roboze ］ - 業務用 3Dプリンターとは — Roboze ARGO 500［ Roboze ］ - 業務用 3Dプリンターとは recmbus-3dprint.com https://www.recmbus-3dprint.com > list > roboze",
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze がSolizeと 日本 での販売代理店契約を締結 - セカプリ — Roboze がSolizeと 日本 での販売代理店契約を締結 - セカプリ セカプリ https://sekapri.com > business",
+    "url": "https://sekapri.com/business/20250119-18779/",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze がSolizeと日本での販売 代理店 契約を締結 - セカプリ — Roboze がSolizeと日本での販売 代理店 契約を締結 - セカプリ セカプリ https://sekapri.com > business",
+    "url": "https://sekapri.com/business/20250119-18779/",
+    "pass": 3
+   },
+   {
+    "quote": "Forget Metal: Roboze and SOLIZE Bring Hyperspeed Super ... — Forget Metal: Roboze and SOLIZE Bring Hyperspeed Super ... 3DPrint.com https://3dprint.com > forget-metal-ro...",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE社が Roboze 社のスーパーエンプラ対応3Dプリンター ... — SOLIZE社が Roboze 社のスーパーエンプラ対応3Dプリンター ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > 樹脂3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/solize-roboze-250129/",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze and SOLIZE Corporation: a new collaboration to ... — Roboze and SOLIZE Corporation: a new collaboration to ... Roboze https://www.roboze.com > press > rob...",
+    "url": "https://www.roboze.com/en/press/roboze-and-solize-corporation-a-new-collaboration-to-redefine-advanced-manufacturing-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze obtains Japan's Nannen-sei certification for filament ... — Roboze obtains Japan's Nannen-sei certification for filament ... TCT Magazine https://www.tctmagazine.com > roboz...",
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze | LinkedIn — Roboze | LinkedIn LinkedIn https://www.linkedin.com > roboze",
+    "url": "https://www.linkedin.com/company/roboze",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Approves Roboze 3D Printers for Onboard Railway ... — Japan Approves Roboze 3D Printers for Onboard Railway ... 3Dnatives https://www.3dnatives.com > addition...",
+    "url": "https://www.3dnatives.com/en/additional-certification-japanese-railway-sector-20012026/",
+    "pass": 3
+   },
+   {
+    "quote": "Case studies - Roboze — Case studies - Roboze Roboze https://www.roboze.com > case-studies",
+    "url": "https://www.roboze.com/en/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze , SLB to collaborate on local manufacturing in Saudi ... — Roboze , SLB to collaborate on local manufacturing in Saudi ... Offshore Magazine https://www.offshore-mag.com > news",
+    "url": "https://www.offshore-mag.com/business-briefs/equipment-engineering/news/55263831/roboze-roboze-slb-to-collaborate-on-local-manufacturing-in-saudi-arabia",
+    "pass": 3
+   },
+   {
+    "quote": "ROBOZE expands globally with three new resellers — ROBOZE expands globally with three new resellers Roboze https://www.roboze.com > news > rob...",
+    "url": "https://www.roboze.com/en/news-events/news/roboze-expands-globally-with-three-new-resellers",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze - Team Partner - Racing Bulls — Roboze - Team Partner - Racing Bulls Visa Cash App Racing Bulls Formula One Team https://www.visacashapprb.com > int-en",
+    "url": "https://www.visacashapprb.com/int-en/partners/vcarb-roboze-partner",
+    "pass": 3
+   },
+   {
+    "quote": "From Italy to Everywhere: Roboze's Reseller Network ... — From Italy to Everywhere: Roboze's Reseller Network ... Fabbaloo https://www.fabbaloo.com > News",
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze Signs With YES01 for Distribution of Its 3D Printing ... — Roboze Signs With YES01 for Distribution of Its 3D Printing ... VoxelMatters https://www.voxelmatters.com > robo...",
+    "url": "https://www.voxelmatters.com/roboze-goes-asia-announce-distribution-agreement-yes01-leading-korean-reseller-3d-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze raises €3M in funding round, targets 500% growth in ... — Roboze raises €3M in funding round, targets 500% growth in ... VoxelMatters https://www.voxelmatters.com > robo...",
+    "url": "https://www.voxelmatters.com/roboze-3m-funding-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze - 2026 Company Profile, Team, Funding & Competitors — Roboze - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/roboze/__-oT2cReJFQlRixom5Z81UOE2qQDjfvimXJ58vWAjxW0",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze 2026 Company Profile: Valuation, Funding & Investors — Roboze 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/310792-24",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze Secures Investment from Rule 1 Ventures to ... — Roboze Secures Investment from Rule 1 Ventures to ... Roboze https://www.roboze.com > press > rob...",
+    "url": "https://www.roboze.com/en/press/roboze-secures-investment-from-rule-1-ventures-to-accelerate-ai-driven-distributed-manufacturing-for-defense-and-critical-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze : Revenue , Competitors, Alternatives - Growjo — Roboze : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Roboze",
+    "url": "https://growjo.com/company/Roboze",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "3d printer reseller",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "From Italy to Everywhere: Roboze's Reseller Network Expands Worldwide « Fabbaloo",
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze announced yet more resellers for their products, illustrating the critical importance of resellers to manufacturers.",
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze is an Italian firm producing industrial high-temperature 3D printers that can print quality parts in materials like PEEK or PEKK. They’ve been quite successful in recent years, and part of that is due to their reseller strategy.",
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "A reseller is of critical importance to a manufacturer. That’s because manufacturers tend to be good at making machines, but not as specialized in selling products themselves.",
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers, on the other hand, are terrible at making machines, but specializing in selling.",
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers also have the major advantage of local reach. Roboze, for example, is based in Bari, Italy. That’s quite far from Oslo, Pittsburgh, Buenos Aires and Adelaide. Roboze can’t be in all those places and many more; it would cost far too much to set up a sales operation in each country and region.",
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "That’s where resellers step in. They typically sell a variety of products from many manufacturers, allowing them to make a profit even though they may not sell very many units from a specific manufacturer.",
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "The same could be said for support and service as well as sales: the reseller is physically present and can therefore provide far better service than a distant manufacturer.",
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "The local resellers also have the bonus of being “connected”. That means they:",
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "These are all things that a manufacturer doesn’t have to do when making the decision to enter a territory: they just strike a deal with an already-established local reseller.",
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "This is precisely what Roboze is doing with their announcement this week of these three new resellers:",
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "By continually adding resellers, Roboze — and any 3D printer manufacturer — can quite rapidly expand their sales presence. There are resellers everywhere, and it’s simply a matter of signing them up and providing them with product.",
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "This is a very smart strategy by Roboze, as the customers of resellers tend to be quite loyal. This means repeat and expanded sales over time in each region.",
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "The biggest players in the 3D print space all have large reseller networks, and it seems that Roboze wants to join them.",
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": ", has a number of notable customers, including GE, Airbus, Iveco and Dallara. Globally, the company has sold its 3D printers in 24 countries and has established a broad reseller network.",
+    "url": "https://www.voxelmatters.com/roboze-3m-funding-growth/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Subscribe to Our Email Newsletter",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "info@3dprint.com",
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Your email address will not be published.",
+    "url": "https://www.voxelmatters.com/roboze-3m-funding-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/310792-24",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "F1-Gate.com on X: \"レーシングブルズF1チーム Roboze との ... F1-Gate.com on X: \"レーシングブルズF1チーム Roboze との ... X https://x.com > @F1Gate",
+    "url": "https://x.com/F1Gate/status/1898658462864916687",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Roboze | LinkedIn Roboze | LinkedIn LinkedIn https://www.linkedin.com > roboze",
+    "url": "https://www.linkedin.com/company/roboze",
+    "pass": 3
+   },
+   {
+    "quote": "Alessio Lorusso - Founder and CEO at Roboze - LinkedIn Alessio Lorusso - Founder and CEO at Roboze - LinkedIn LinkedIn https://www.linkedin.com > lorussoro...",
+    "url": "https://www.linkedin.com/in/lorussoroboze/en",
+    "pass": 3
+   },
+   {
+    "quote": "Matilde Volante - Roboze | Additive Manufacturing - LinkedIn Matilde Volante - Roboze | Additive Manufacturing - LinkedIn LinkedIn https://www.linkedin.com > matildev...",
+    "url": "https://www.linkedin.com/in/matildevolante",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze Secures Investment for Aerospace and Defence ... Roboze Secures Investment for Aerospace and Defence ... LinkedIn https://www.linkedin.com > posts > tv...",
+    "url": "https://www.linkedin.com/posts/tviguier_roboze-defencetech-manufacturing-activity-7435629656034361344-QXI8",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Roboze has joined SABIC's Home of Innovation to support ... Roboze has joined SABIC's Home of Innovation to support ... Facebook https://www.facebook.com > oilandgasmiddleeast > posts",
+    "url": "https://www.facebook.com/oilandgasmiddleeast/posts/roboze-has-joined-sabics-home-of-innovation-to-support-advanced-manufacturing-lo/1615281890491252/",
+    "pass": 3
+   },
+   {
+    "quote": "Roboze (@roboze3dfr) - Facebook Roboze (@roboze3dfr) - Facebook Facebook https://www.facebook.com > ... > Компанија за роботика",
+    "url": "https://www.facebook.com/roboze3dfr/?locale=mk_MK",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.roboze.com/en/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://partners.solize.com/3dp-sales/roboze",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000113615.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recmbus-3dprint.com/list/roboze.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.solize.com/3dp-sales/roboze",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sekapri.com/business/20250119-18779/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.solize.com/3dp-sales/roboze",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/roboze",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKUMv4ZJ9jC-QHGMYOh82pmQEDN1jsO_xs3mfLVXcO3K1i_3xf1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.offshore-mag.com/equipment-engineering/news/55263831/roboze-roboze-slb-to-collaborate-on-local-manufacturing-in-saudi-arabia",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visacashapprb.com/int-en/partners/vcarb-roboze-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/roboze",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/roboze-3m-funding-growth/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/roboze/__-oT2cReJFQlRixom5Z81UOE2qQDjfvimXJ58vWAjxW0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/310792-24",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/F1Gate/status/1898658462864916687",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/roboze",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/lorussoroboze/en",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/matildevolante",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/tviguier_roboze-defencetech-manufacturing-activity-7435629656034361344-QXI8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/oilandgasmiddleeast/posts/roboze-has-joined-sabics-home-of-innovation-to-support-advanced-manufacturing-lo/1615281890491252/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/roboze3dfr/?locale=mk_MK",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Roboze 日本 導入",
+   "results": [
+    "https://partners.solize.com/3dp-sales/roboze",
+    "https://www.roboze.com/en/",
+    "https://prtimes.jp/main/html/rd/p/000000028.000113615.html",
+    "https://www.recmbus-3dprint.com/list/roboze.html",
+    "https://sekapri.com/business/20250119-18779/",
+    "https://news.sharelab.jp/3dp-news/plastics-3dprinter/solize-roboze-250129/",
+    "https://www.cadjapan.com/news/2022/d20221206_03.html",
+    "https://partners.solize.com/news/2025/1028",
+    "https://monoist.itmedia.co.jp/mn/articles/2501/30/news081.html",
+    "https://www.solize.com/news/2025/0116/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Roboze 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://partners.solize.com/3dp-sales/roboze",
+    "https://www.roboze.com/en/",
+    "https://sekapri.com/business/20250119-18779/",
+    "https://3dprint.com/316058/forget-metal-roboze-and-solize-bring-hyperspeed-super-polymer-3d-printing-to-japan/",
+    "https://news.sharelab.jp/3dp-news/plastics-3dprinter/solize-roboze-250129/",
+    "https://monoist.itmedia.co.jp/mn/articles/2501/30/news081.html",
+    "https://www.roboze.com/en/news-events/news/roboze-expands-globally-with-three-new-resellers",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/roboze-3d%E3%83%91%E3%83%BC%E3%83%84-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC-roboze-%E8%A3%BD%E9%80%A0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E5%A7%8B/",
+    "https://prtimes.jp/main/html/rd/p/000000028.000113615.html",
+    "https://ja.wikipedia.org/wiki/日本サムスン"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Roboze Japan",
+   "results": [
+    "https://www.roboze.com/en/press/roboze-and-solize-corporation-a-new-collaboration-to-redefine-advanced-manufacturing-in-japan",
+    "https://www.tctmagazine.com/roboze-obtains-japans-nannen-sei-certification-for-filament-and-pellet-extrusion-of-ultem-9085/",
+    "https://partners.solize.com/3dp-sales/roboze",
+    "https://www.linkedin.com/company/roboze",
+    "https://www.3dnatives.com/en/additional-certification-japanese-railway-sector-20012026/",
+    "https://www.weforum.org/organizations/roboze",
+    "https://www.roboze.com/en/resources/white-paper",
+    "https://3dprintingindustry.com/news/roboze-raises-10m-for-u-s-expansion-and-cmc-development-255867/",
+    "https://www.youtube.com/watch?v=k3znV3nOymY",
+    "https://www.compositesportal.com/news/solize-will-be-the-distributor-of-roboze-in-japan-13688.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Roboze manufacturing customer case study",
+   "results": [
+    "https://www.roboze.com/en/resources/case-studies",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKUMv4ZJ9jC-QHGMYOh82pmQEDN1jsO_xs3mfLVXcO3K1i_3xf1",
+    "https://www.offshore-mag.com/business-briefs/equipment-engineering/news/55263831/roboze-roboze-slb-to-collaborate-on-local-manufacturing-in-saudi-arabia",
+    "https://markforged.com/resources/case-studies",
+    "https://proto3000.com/resources/case_studies/",
+    "https://www.voxelmatters.com/roboze-to-enable-return-of-waste-and-used-3d-printed-parts-for-recycling/",
+    "https://www.roboze.com/en/company/careers/274104",
+    "https://www.youtube.com/watch?v=AAvp-nwoIEQ&vl=ja",
+    "https://www.protolabs.com/en-gb/resources/case-studies/",
+    "https://www.roboze.com/en/resources/case-studies/fast-billet-production-in-any-size-and-shape-at-no-extra-cost"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Roboze white label OR reseller OR partner program",
+   "results": [
+    "https://www.roboze.com/en/news-events/news/roboze-expands-globally-with-three-new-resellers",
+    "https://www.visacashapprb.com/int-en/partners/vcarb-roboze-partner",
+    "https://www.linkedin.com/company/roboze",
+    "https://www.fabbaloo.com/news/from-italy-to-everywhere-robozes-reseller-network-expands-worldwide",
+    "https://www.voxelmatters.com/roboze-goes-asia-announce-distribution-agreement-yes01-leading-korean-reseller-3d-solutions/",
+    "https://www.youtube.com/watch?v=k3znV3nOymY",
+    "https://www.brainpull.com/en/portfolio/roboze.html",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://www.roboze.com/en/academy",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Roboze founded funding employees revenue",
+   "results": [
+    "https://www.voxelmatters.com/roboze-3m-funding-growth/",
+    "https://tracxn.com/d/companies/roboze/__-oT2cReJFQlRixom5Z81UOE2qQDjfvimXJ58vWAjxW0",
+    "https://pitchbook.com/profiles/company/310792-24",
+    "https://www.roboze.com/en/press/roboze-secures-investment-from-rule-1-ventures-to-accelerate-ai-driven-distributed-manufacturing-for-defense-and-critical-infrastructure",
+    "https://growjo.com/company/Roboze",
+    "https://houston.innovationmap.com/roboze-3d-printing-funding-2022-2656470349.html",
+    "https://www.linkedin.com/posts/lorussoroboze_manufacturing-is-power-and-the-ability-activity-7518990447336378368-dm5E",
+    "https://www.prnewswire.com/news-releases/roboze-secures-investment-from-rule-1-ventures-to-accelerate-ai-driven-distributed-manufacturing-for-defense-and-critical-infrastructure-302705680.html",
+    "https://www.cbinsights.com/company/roboze/financials",
+    "https://compworth.com/company/roboze"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Roboze",
+   "results": [
+    "https://note.com/eriito_gpjournal/n/naf1dfb9c96f1?hl=en",
+    "https://note.com/seizo_japan/n/n3e1894d0551a",
+    "https://note.com/eriito_gpjournal/n/n507a15aae4f5?hl=en",
+    "https://note.com/eriito_gpjournal/m/md292c24f375d/hashtag/motogp",
+    "https://note.com/eriito_gpjournal/n/n3f2e799e496c/comments",
+    "https://note.com/eriito_gpjournal/n/n317f5abcc80b",
+    "https://note.com/eriito_gpjournal/n/n2fefbb62aa96?hl=en",
+    "https://note.com/eriito_gpjournal/n/n008cbb2bdd3b",
+    "https://note.com/eriito_gpjournal/n/n1780658f92a6",
+    "https://note.com/eriito_gpjournal/n/nf1f60467aecb"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com Roboze",
+   "results": [
+    "https://x.com/F1Gate/status/1898658462864916687",
+    "https://x.com/Rins42/status/2116121444279271634",
+    "https://x.com/BremboBrakes",
+    "https://x.com/adamwheeler_R19",
+    "https://x.com/mhillofficial/status/2119358539160498224",
+    "https://x.com/yamaharacingcom/status/2106469820732453360",
+    "https://x.com/Rins42",
+    "https://x.com/visacashapprb/status/2118726031494316035",
+    "https://x.com/bikesontnt/status/2116840337117188299",
+    "https://x.com/Tesla_App_iOS/status/2118897097369878780"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com Roboze",
+   "results": [
+    "https://www.linkedin.com/company/roboze",
+    "https://www.linkedin.com/in/lorussoroboze/en",
+    "https://www.linkedin.com/in/matildevolante",
+    "https://www.linkedin.com/posts/tviguier_roboze-defencetech-manufacturing-activity-7435629656034361344-QXI8",
+    "https://www.linkedin.com/posts/lorussoroboze_roboze-raises-10m-to-support-us-expansion-activity-7518990447336378368-DSg9",
+    "https://www.linkedin.com/posts/lorussoroboze_we-are-entering-a-new-era-of-manufacturing-activity-7458085741542178820-mkKT",
+    "https://www.linkedin.com/posts/anna-di-vittorio_packaging-activity-7369315297679396864-6XMQ",
+    "https://www.linkedin.com/posts/lorussoroboze_visa-cash-app-rb-f1-team-selected-roboze-activity-7302281967780139009-STxa",
+    "https://www.linkedin.com/posts/roboze_roboze-and-universit%C3%A0-di-roma-tor-vergata-activity-7498680741694795776-X0TX",
+    "https://www.linkedin.com/posts/lorussoroboze_roboze-center-of-excellence-houston-texas-activity-7521545598387523584-vNOb"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Roboze",
+   "results": [
+    "https://www.facebook.com/oilandgasmiddleeast/posts/roboze-has-joined-sabics-home-of-innovation-to-support-advanced-manufacturing-lo/1615281890491252/",
+    "https://www.facebook.com/roboze3dfr/?locale=mk_MK",
+    "https://www.facebook.com/MotoGP/videos/alex-rins-riding-with-a-helmet-designed-by-kids-from-a-local-school-with-recycle/680088761487419/",
+    "https://www.facebook.com/stationdesignid/videos/this-is-why-liam-lawson-will-keep-his-2027-f1-seathe-posseses-an-agressive-style/1157505096806939/",
+    "https://www.facebook.com/MotoGP/videos/a-nod-all-the-way-from-motegi-fabio-quartararo-ousmane-demb%C3%A9l%C3%A9-japanesegp-motogp/1185182936769291/",
+    "https://www.facebook.com/inchiostrodipuglia/posts/vi-abbiamo-gi%C3%A0-raccontato-di-roboze-azienda-nata-dal-sogno-di-alessio-che-oggi-p/2723995557699631/",
+    "https://www.facebook.com/groups/799698910861557/posts/2191167985047969/",
+    "https://www.facebook.com/MimakiUSA/posts/matthew-stark-manager-of-3d-at-mimaki-usa-will-take-the-stage-at-mitnanos-photop/1315883507220642/",
+    "https://www.facebook.com/brent.goudie/posts/this-weeks-3d-printing-news-a-resin-printer-that-washes-and-dries-itself-1-milli/10244741739383633/",
+    "https://www.facebook.com/Ben.Simm0ns/videos/look-very-closely-what-do-you-see-i-see-a-talented-young-racer-who-is-consistent/4454600688203073/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Roboze note 社長",
+   "results": [
+    "https://www.roboze.com/en/",
+    "https://partners.solize.com/3dp-sales/roboze",
+    "https://3dprintingindustry.com/news/roboze-raises-10m-for-u-s-expansion-and-cmc-development-255867/",
+    "https://www.tctmagazine.com/roboze-raises-10m-to-support-us-expansion/",
+    "https://www.youtube.com/watch?v=dEb1YGLo-xY",
+    "https://www.weforum.org/organizations/roboze",
+    "https://note.com/kasatatekingyo/n/n2b8e235de630",
+    "https://www.crunchbase.com/organization/roboze-srl",
+    "https://pitchbook.com/profiles/company/310792-24",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Roboze X 投稿",
+   "results": [
+    "https://www.roboze.com/en/resources/white-paper",
+    "https://www.youtube.com/watch?v=k3znV3nOymY",
+    "https://www.art-grandprix.com/en/art-grand-prix-x-roboze/",
+    "https://www.youtube.com/watch?v=R7sxykzGCVQ",
+    "https://indicatetechnologies.com/pages/about-roboze?srsltid=AYCX9vKWztkwesXE8oMU31ORJ6DzWaxcwQlIdqCWHZORxN-Ipp2l2F6J",
+    "https://www.irisu.jp/fileadmin/pdf/3d_solutions/Roboze_Catalog_eng_Print.pdf",
+    "https://www.linkedin.com/company/roboze",
+    "https://www.tctmagazine.com/roboze-announces-us-hq-to-support-reshoring-of-manufacturing/",
+    "https://www.roboze.com/en",
+    "https://www.youtube.com/channel/UCFCmyzNOZWkWS62T6cXPmmQ"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）"
+ }
+}

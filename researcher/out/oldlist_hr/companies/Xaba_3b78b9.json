@@ -1,0 +1,1219 @@
+{
+ "name": "Xaba",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-11T05:33:23.354570+00:00",
+ "official_url": "https://www.xaba.ai/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/xaba-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$8,000,000",
+    "url": "https://prospeo.io/c/xaba-revenue",
+    "pass": 3
+   },
+   {
+    "label": "3. Seed Round",
+    "value": "14-Apr-2025 $6M   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/520034-68",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "16-Feb-2023    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/520034-68",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Toronto, Ontario, Canada",
+    "url": "https://prospeo.io/c/xaba-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2022",
+    "url": "https://prospeo.io/c/xaba-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": ", we empower factories to achieve unparalleled efficiency, precision, and flexibility by automating complex manufacturing processes across industries. Whether you’re in automotive, transportation, aerospace, or fabrication, Xaba has the solution to elevate your production capabilities.",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Boost in production throughput via multi-robot collaboration",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Xaba brings generative AI to the factory floor—allowing robots, CNCs, and industrial systems to self-program, self-adjust, and run production without a single line of code. Meet xCognition Cognitive Control: A single platform to deploy automation faster, eliminate manual programming, and scale intelligent manufacturing.",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Let machines do the programming",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Adapts instantly to production shifts, minimizing downtime and manual intervention.",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From setup to production—faster than ever",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Slash deployment time with fully automated, end-to-end programming.",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate industrial robotics programming generation.",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Reconfigure and scale production in hours—not weeks",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimized for any production style",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Consistent, precise logic execution across every machine.",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Programming is labor intensive and manual",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous programming, no code required",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Learns and improves across deployments",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": ". These obstacles prevent companies from fully unlocking its potential for innovation, scalability, and efficiency.",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": ": Traditional solutions struggle to adapt to evolving production demands.",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": ": A skilled workforce for advanced automation is in short supply.",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": ": Lengthy PLC programming cycles delay adoption, deployment and scaling.",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore how Xaba can redefine manufacturing automation for your business. Unlock new levels of productivity and innovation with",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Design & 3D Print Process",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize energy consumption, reduce production waste, and improve scalability.",
+    "url": "https://www.xaba.ai/industrial-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure precision and consistency with adaptive learning for robotics.",
+    "url": "https://www.xaba.ai/industrial-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Enhance production workflows for trains, ships, and public transit systems.",
+    "url": "https://www.xaba.ai/industrial-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline manufacturing processes with real-time decision-making capabilities.",
+    "url": "https://www.xaba.ai/industrial-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce downtime with predictive maintenance powered by advanced AI algorithms.",
+    "url": "https://www.xaba.ai/industrial-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Automate the fabrication of high-precision components for aircraft and spacecraft.",
+    "url": "https://www.xaba.ai/industrial-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Maintain the highest safety and quality standards while scaling production.",
+    "url": "https://www.xaba.ai/industrial-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Automate cutting, welding, grinding, and other fabrication tasks with unmatched precision.",
+    "url": "https://www.xaba.ai/industrial-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Enable flexible manufacturing systems that adapt to changing product designs.",
+    "url": "https://www.xaba.ai/industrial-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Improve productivity by integrating multi-machine coordination through cognitive control.",
+    "url": "https://www.xaba.ai/industrial-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Explore how Xaba can redefine manufacturing automation for your business. Unlock new levels of productivity and innovation with",
+    "url": "https://www.xaba.ai/industrial-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Design & 3D print Process",
+    "url": "https://www.xaba.ai/industrial-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "self-programming robots",
+    "url": "https://www.xaba.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Our flagship product,",
+    "url": "https://www.xaba.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": ", represents a groundbreaking leap in",
+    "url": "https://www.xaba.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "platform integrates proprietary Artificial Neural Networks, Machine Learning, Data Ontology, and R-based LLM (Language Model) algorithms to empower machines to",
+    "url": "https://www.xaba.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "self-program and self-optimize",
+    "url": "https://www.xaba.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": ". xCognition’s capabilities allow it to automatically generate programs for any industrial robotics systems, machines or industrial equipment (e.g., robotics, industrial cranes, oil & gas machinery, CNC systems, mining equipment), not only defining the task but also generating the necessary",
+    "url": "https://www.xaba.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Design & 3D print Process",
+    "url": "https://www.xaba.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Having an accurate and repeatable robotics system is paramount in order to improve upon current robotics applications and to enable industrial robotics to penetrate into new applications currently dominated by custom and expensive CNC machine tools.",
+    "url": "https://www.xaba.ai/new-page",
+    "pass": 1
+   },
+   {
+    "quote": "In the first part of this case study, we integrated a compacted industrial controller (NI CRIO), containing our proprietary xCognition machine learning algorithm into the standard control cabinet of a commercial",
+    "url": "https://www.xaba.ai/new-page",
+    "pass": 1
+   },
+   {
+    "quote": "In the second part of this case study, we trained the xCognition controller by collecting a “quasi-stochastic” dataset of points using our proprietary algorithm and toolsets for industrial robots data collection and machine learning model training.",
+    "url": "https://www.xaba.ai/new-page",
+    "pass": 1
+   },
+   {
+    "quote": "The ISO 9283 test has been performed comparing the accuracies of the standard ABB rigid model and Xaba’s Machine Learning (ML) model. The volume covered by the TCP is represented as a red cube in the following picture, where the measured points are also reported (on the diagonal plane of the cube).",
+    "url": "https://www.xaba.ai/new-page",
+    "pass": 1
+   },
+   {
+    "quote": "As a representation of performance in a realistic manufacturing scenario, drilling tests have also been performed by drilling an actual metal workpiece. During these tests, a Laser SMR target was continuously tracked in order to capture the trajectory followed by the drill spindle.",
+    "url": "https://www.xaba.ai/new-page",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock new levels of productivity and innovation with",
+    "url": "https://www.xaba.ai/new-page",
+    "pass": 1
+   },
+   {
+    "quote": "Design & 3D print Process",
+    "url": "https://www.xaba.ai/new-page",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 15, 2025",
+    "url": "https://news.aibase.com/ja/news/17141",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/xaba-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Xaba has approximately",
+    "url": "https://prospeo.io/c/xaba-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/xaba-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/xaba-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/xaba-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Xaba 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/520034-68",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/520034-68",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of automated technology designed for sustainable manufacturing. The company develops new processes, control systems, and materials that automate and enable sustainable manufacturing and AI-driven control systems, providing industries and manufacturers with safe as well as convenient options for manufacturing and improving the performance and quality of produced goods.",
+    "url": "https://pitchbook.com/profiles/company/520034-68",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/520034-68",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/520034-68",
+    "pass": 3
+   },
+   {
+    "quote": "14-Apr-2025",
+    "url": "https://pitchbook.com/profiles/company/520034-68",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/520034-68",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/520034-68",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Transforming Manufacturing Automation",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "At Xaba, we are revolutionizing the way manufacturing industries operate. With our groundbreaking",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": ", we empower factories to achieve unparalleled efficiency, precision, and flexibility by automating complex manufacturing processes across industries. Whether you’re in automotive, transportation, aerospace, or fabrication, Xaba has the solution to elevate your production capabilities.",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Robotics and General Industrial Automation",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Xaba brings generative AI to the factory floor—allowing robots, CNCs, and industrial systems to self-program, self-adjust, and run production without a single line of code. Meet xCognition Cognitive Control: A single platform to deploy automation faster, eliminate manual programming, and scale intelligent manufacturing.",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate industrial robotics programming generation.",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate Industrial PLC code generation",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Smarter Manufacturing Control",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From a single cell to global factories—xCognition grows with you.",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Connected from shop floor to supply chain",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial automation is at a crossroad dealing with",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "outdated industrial controllers, high integration costs",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": ": Industrial automation requires substantial investments in hardware, software, and specialized engineering expertise.",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": ": Traditional industrial controllers are outdated and unable to harness the transformative power of Industrial AI.",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover our Industrial Solutions",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore how Xaba can redefine manufacturing automation for your business. Unlock new levels of productivity and innovation with",
+    "url": "https://www.xaba.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Solutions — Xaba 2025",
+    "url": "https://www.xaba.ai/industrial-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Manufacturing",
+    "url": "https://www.xaba.ai/industrial-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline manufacturing processes with real-time decision-making capabilities.",
+    "url": "https://www.xaba.ai/industrial-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Fabrication and General Manufacturing",
+    "url": "https://www.xaba.ai/industrial-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Enable flexible manufacturing systems that adapt to changing product designs.",
+    "url": "https://www.xaba.ai/industrial-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Explore how Xaba can redefine manufacturing automation for your business. Unlock new levels of productivity and innovation with",
+    "url": "https://www.xaba.ai/industrial-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "We started Xaba to bring actual intelligence to machines real-time adaptability, no-code deployment, and control systems that don’t require a PhD to operate. Our mission? Make industrial automation faster, smarter, and scalable without the pain. We’re based in Toronto, building with global partners, and powered by the belief that the future of automation thinks for itself.",
+    "url": "https://www.xaba.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": ". xCognition’s capabilities allow it to automatically generate programs for any industrial robotics systems, machines or industrial equipment (e.g., robotics, industrial cranes, oil & gas machinery, CNC systems, mining equipment), not only defining the task but also generating the necessary",
+    "url": "https://www.xaba.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": ". This greatly simplifies the building, deployment, and integration of industrial equipment, significantly increasing their",
+    "url": "https://www.xaba.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Robotics — Xaba 2025",
+    "url": "https://www.xaba.ai/new-page",
+    "pass": 1
+   },
+   {
+    "quote": "Having an accurate and repeatable robotics system is paramount in order to improve upon current robotics applications and to enable industrial robotics to penetrate into new applications currently dominated by custom and expensive CNC machine tools.",
+    "url": "https://www.xaba.ai/new-page",
+    "pass": 1
+   },
+   {
+    "quote": "The aim of this case study is to demonstrate how Xaba’s",
+    "url": "https://www.xaba.ai/new-page",
+    "pass": 1
+   },
+   {
+    "quote": "can augment accuracy, repeatability, consistency and consequently job execution quality of any standard commercial industrial robot.",
+    "url": "https://www.xaba.ai/new-page",
+    "pass": 1
+   },
+   {
+    "quote": "In the first part of this case study, we integrated a compacted industrial controller (NI CRIO), containing our proprietary xCognition machine learning algorithm into the standard control cabinet of a commercial",
+    "url": "https://www.xaba.ai/new-page",
+    "pass": 1
+   },
+   {
+    "quote": "In the second part of this case study, we trained the xCognition controller by collecting a “quasi-stochastic” dataset of points using our proprietary algorithm and toolsets for industrial robots data collection and machine learning model training.",
+    "url": "https://www.xaba.ai/new-page",
+    "pass": 1
+   },
+   {
+    "quote": "In the third part of this case study we have run the ISO 9283 tests and compared position accuracy results for an ABB IRB4600 with and without our xCognition controller.",
+    "url": "https://www.xaba.ai/new-page",
+    "pass": 1
+   },
+   {
+    "quote": "The FARO Vantage laser tracker has been used to acquire and validate the data reported in this case study.",
+    "url": "https://www.xaba.ai/new-page",
+    "pass": 1
+   },
+   {
+    "quote": "As a representation of performance in a realistic manufacturing scenario, drilling tests have also been performed by drilling an actual metal workpiece. During these tests, a Laser SMR target was continuously tracked in order to capture the trajectory followed by the drill spindle.",
+    "url": "https://www.xaba.ai/new-page",
+    "pass": 1
+   },
+   {
+    "quote": "Explore how Xaba can redefine manufacturing automation for your business.",
+    "url": "https://www.xaba.ai/new-page",
+    "pass": 1
+   },
+   {
+    "quote": "Xaba Case Study 2025 - Hazelview Ventures",
+    "url": "https://www.hazelviewventures.com/xaba-case-study-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Xaba Case Study 2025",
+    "url": "https://www.hazelviewventures.com/xaba-case-study-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Hazelview Ventures – Xaba Case Study 2025",
+    "url": "https://www.hazelviewventures.com/xaba-case-study-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Sustainability, Automation, Robotics, Artificial Intelligence, Advanced Manufacturing",
+    "url": "https://prospeo.io/c/xaba-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of automated technology designed for sustainable manufacturing.",
+    "url": "https://pitchbook.com/profiles/company/520034-68",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of automated technology designed for sustainable manufacturing. The company develops new processes, control systems, and materials that automate and enable sustainable manufacturing and AI-driven control systems, providing industries and manufacturers with safe as well as convenient options for manufacturing and improving the performance and quality of produced goods.",
+    "url": "https://pitchbook.com/profiles/company/520034-68",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/520034-68",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "In the first part of this case study, we integrated a compacted industrial controller (NI CRIO), containing our proprietary xCognition machine learning algorithm into the standard control cabinet of a commercial",
+    "url": "https://www.xaba.ai/new-page",
+    "pass": 1
+   },
+   {
+    "quote": "In the second part of this case study, we trained the xCognition controller by collecting a “quasi-stochastic” dataset of points using our proprietary algorithm and toolsets for industrial robots data collection and machine learning model training.",
+    "url": "https://www.xaba.ai/new-page",
+    "pass": 1
+   },
+   {
+    "quote": "In the third part of this case study we have run the ISO 9283 tests and compared position accuracy results for an ABB IRB4600 with and without our xCognition controller.",
+    "url": "https://www.xaba.ai/new-page",
+    "pass": 1
+   },
+   {
+    "quote": "Xaba Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/xaba-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Xaba",
+    "url": "https://prospeo.io/c/xaba-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/xaba-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/xaba-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/xaba-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Xaba?",
+    "url": "https://prospeo.io/c/xaba-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Xaba generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/xaba-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/xaba-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/xaba-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Xaba have?",
+    "url": "https://prospeo.io/c/xaba-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/xaba-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/520034-68",
+    "pass": 3
+   },
+   {
+    "quote": "Xaba has 24 total employees.",
+    "url": "https://pitchbook.com/profiles/company/520034-68",
+    "pass": 3
+   },
+   {
+    "quote": "What is Xaba’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/520034-68",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Xaba is",
+    "url": "https://pitchbook.com/profiles/company/520034-68",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Xaba 2025 — Xaba brings generative AI to the factory floor—allowing robots, CNCs, and industrial systems to self-program, self-adjust, and run production without a single line of code.",
+    "url": "https://www.xaba.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Xaba、産業用ロボットの「合成脳」開発で600万ドルを調達 — Apr 15, 2025 · Xabaの技術は、航空宇宙、自動車、高精度製造などの分野で重要な役割を果たしており、高コストなやり直し作業や手動調整を排除することで、製造業者の生産性を向上させています。",
+    "url": "https://news.aibase.com/ja/news/17141",
+    "pass": 3
+   },
+   {
+    "quote": "マッシミリアーノ・モルッツィ、Xabaの創設者兼CEO – インタビュー・... — May 19, 2026 · Xabaのアイデアは何から生まれたのか、それが産業用ロボットに根本的に異なるアプローチ、つまり「合成脳」ではなく、単にコードを追加するのではなく、どのようなプロセスだったのか。",
+    "url": "https://www.unite.ai/ja/massimiliano-moruzzi-founder-and-ceo-of-xaba-interview-series/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Robotics — Xaba 2025 — The aim of this case study is to demonstrate how Xaba’s xCognition can augment accuracy, repeatability, consistency and consequently job execution quality of any standard commercial industrial robot.",
+    "url": "https://www.xaba.ai/new-page",
+    "pass": 3
+   },
+   {
+    "quote": "Company — Xaba 2025 — Xaba is a team of engineers who’ve designed for Lamborghini, Boeing, Airbus, and Lockheed Martin. We've built everything from AI-driven satellites to robotic assembly lines.",
+    "url": "https://www.xaba.ai/company",
+    "pass": 3
+   },
+   {
+    "quote": "Xaba 2025 — At Xaba, we are revolutionizing the way manufacturing industries operate. With our groundbreaking xCognition Cognitive Control, we empower factories to achieve unparalleled efficiency, precision, and flexibility by automating complex manufacturing processes across industries.",
+    "url": "https://www.xaba.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Design & 3D print Process — Xaba 2025 — The combination of polymer materials and large-scale additive manufacturing as indicated in our proprietary manufacturing process flow enables car body frames to be customized on demand, as each individual manufactured body can be made unique by simply modifying the digital machine program.",
+    "url": "https://www.xaba.ai/design-3d-print-process",
+    "pass": 3
+   },
+   {
+    "quote": "Xaba Case Study 2025 - Hazelview Ventures — Hazelview Ventures – Xaba Case Study 2025 Stephanie McCahery 2025-09-03T14:33:00+00:00",
+    "url": "https://www.hazelviewventures.com/xaba-case-study-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Xaba wants to 3D print chassis for the automotive industry — Jan 4, 2023 · The following case study illustrates the process developed by Xaba, which consists of a new design for manufacturing tools and a large-scale AI-driven 3D printer.",
+    "url": "https://3druck.com/en/case-studies/xaba-wants-to-3d-print-chassis-for-the-automotive-industry-26114783/",
+    "pass": 3
+   },
+   {
+    "quote": "Case study: Industrial Robotics — Xaba — The aim of this case study is to demonstrate how Xaba’s xCognition can augment accuracy, repeatability, consistency and consequently job execution quality of any standard commercial industrial robot.",
+    "url": "https://mackerel-dinosaur-z8rg.squarespace.com/case-study-industrial-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Xaba Revenue, Funding & Valuation - prospeo.io — How much funding has Xaba raised? Xaba has raised a total of $8,000,000 across 3 funding rounds. This investment has helped the company grow and expand its operations. Xaba has revenue of $1,882,210, estimated valuation of $6,100,000, $8,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/xaba-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Xaba 2026 Company Profile: Valuation, Funding & Investors ...Xaba – Growth Analysis & Alternative Companies – 2026Xaba: Funding, Team & Investors | Startup IntrosXaba Inc. Revenue 2025: $2.3M Est. ARR (Bootstrapped)Xaba - 2026 Company Profile, Team, Funding & Competitors - TracxnXaba — Company Profile | The Company Check — Information on valuation, funding, cap tables, investors, and executives fo",
+    "url": "https://pitchbook.com/profiles/company/520034-68",
+    "pass": 3
+   },
+   {
+    "quote": "Xaba – Growth Analysis & Alternative Companies – 2026 — Discover Xaba's estimated revenue, valuation, funding history, employee data, and top competitors. Xaba is at the forefront of industrial robotics, pioneering an AI-driven operating system designed to unlock true automation.",
+    "url": "https://compworth.com/company/xaba",
+    "pass": 3
+   },
+   {
+    "quote": "Xaba: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · How much funding has Xaba raised? Xaba has raised $8.0M in total across 2 funding rounds. Who are Xaba's investors? Xaba's investors include Hitachi Ventures, BDC Capital. Industrial AI-driven control system provider.",
+    "url": "https://startupintros.com/orgs/xaba",
+    "pass": 3
+   },
+   {
+    "quote": "Xaba Inc. Revenue 2025: $2.3M Est. ARR (Bootstrapped) — Aug 10, 2026 · Xaba Inc. Valuation, Funding Rounds Xaba Inc. is a bootstrapped SaaS startup. Founded in 2022, Xaba Inc. has grown to $2.3M in revenue without raising any venture capital or outside funding. As a self-funded SaaS company, Xaba Inc. has built its business with no outside investment.",
+    "url": "https://getlatka.com/companies/xaba.ai",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/xaba-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/520034-68",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Xaba (@_mziii_) / X Xaba @_mziii_ Football enthusiast⚽ One program at a time👨💻 Cars⛽ FC Barcelona||Orlando Pirates||Manchester United 🇿🇦 Born August 17",
+    "url": "https://x.com/_mziii_",
+    "pass": 3
+   },
+   {
+    "quote": "𝟚𝟘𝟚𝟝/𝟚𝟞 𝕋𝕣𝕖𝕓𝕝𝕖 ℂ𝕙𝕒𝕞𝕡𝕚𝕠𝕟𝕤 (@Phiwe_Xaba) / X 𝟚𝟘𝟚𝟝/𝟚𝟞 𝕋𝕣𝕖𝕓𝕝𝕖 ℂ𝕙𝕒𝕞𝕡𝕚𝕠𝕟𝕤 @Phiwe_Xaba I'm motivated by the need and hunger to be successful.🦁👣🌻💯🌈💥 @ LFC ️ @ orlandopirates 🖤 @ realmadrid 🤍 Johannesburg, South Africa",
+    "url": "https://x.com/Phiwe_Xaba",
+    "pass": 3
+   },
+   {
+    "quote": "THABO XABA. (@thabox_) / X THABO XABA. @thabox_ Sports Anchor on @ MorningLiveSABC on SABC 2 & SABC News Channel ⚽️ 🏏 | SUPREME SATURDAYS on @ Yfm Host 2pm-5pm & Savage Nights between 10pm-12am on Mon-Wed South Africa linktr.ee/thabox_",
+    "url": "https://x.com/thabox_",
+    "pass": 3
+   },
+   {
+    "quote": "SG Xaba (@sg_xaba) / X Happy Belated Birthday Sabelo Graham Xaba. As you grow older, develop the confidence to stand alone, the courage to make tough decisions, and the compassion to listen to the needs of others.",
+    "url": "https://x.com/sg_xaba",
+    "pass": 3
+   },
+   {
+    "quote": "siyabonga xaba (@ZabaWorldWide) / X Mention Follow Posts Posts RepliesReplies RepostsReposts MediaMedia siyabonga xaba 🎱 @ZabaWorldWide Jun 25",
+    "url": "https://x.com/ZabaWorldWide",
+    "pass": 3
+   },
+   {
+    "quote": "XABA on X: \"なんか一昔前のtiktokで ←女が好きな男 (kpopやジャニー... なんか一昔前のtiktokで ←女が好きな男 (kpopやジャニーズの写真) 男が好きな漢 (海外サッカー選手など)→ みたいな投稿流行ってたの思い出した そんでコメントで (右の写真の)漢しか勝たん 男は努力で何かを成し遂げた姿に惚れる。",
+    "url": "https://x.com/xabaesrs/status/2111440185888329843",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Xaba Inc. - LinkedIn Xaba Inc. Software Development The future of intelligent automation. About us Xaba is building the future of intelligent and sustainable automation.",
+    "url": "https://www.linkedin.com/company/xaba-inc",
+    "pass": 3
+   },
+   {
+    "quote": "XABA - LinkedIn At the heart of XABA lies a creative discipline rooted not in excess but in origin, where material, form, and imagination engage in quiet dialogue and every creation begins with intention.",
+    "url": "https://www.linkedin.com/company/xabaatelier",
+    "pass": 3
+   },
+   {
+    "quote": "Nqobile Pamela Xaba - COMENSA Coaches & Mentors of South ... Experience: COMENSA Coaches & Mentors of South Africa · Education: GIBS Business School (Gordon Institute of Business Science) · Location: South Africa · 500+ connections on LinkedIn. View...",
+    "url": "https://za.linkedin.com/in/nqobile-pamela-xaba-608a5813",
+    "pass": 3
+   },
+   {
+    "quote": "Xaba Inc.: Jobs | LinkedIn Xaba Inc. | 2,298 followers on LinkedIn. The future of intelligent automation. | Xaba is building the future of intelligent and sustainable automation.",
+    "url": "https://ca.linkedin.com/company/xaba-inc/jobs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "XABA - Facebook Jun 17, 2026 · The story begins here. Home. Step into the world of XABA as the House unveils its Spring–Summer 26/27 runway collection, where structure, sentiment, and silhouette converge to form a distinct design language.",
+    "url": "https://www.facebook.com/xabaatelier/",
+    "pass": 3
+   },
+   {
+    "quote": "Xaba Profiles - Facebook View the profiles of people named Xaba. Join Facebook to connect with Xaba and others you may know. Facebook gives people the power to share and makes...",
+    "url": "https://www.facebook.com/public/Xaba/",
+    "pass": 3
+   },
+   {
+    "quote": "Xaba Boxing Promotions | East London - FacebookXaBa.vn | Ho Chi Minh City - FacebookGlenrose Xaba - FacebookSandile Xaba Clothing | Pretoria - FacebookBoni Xaba - Facebook Oct 12, 2026 · Xaba Boxing Promotions, East London. 24,250 followers · 91 talking about this · 40 were here. Xaba Promotions, a boxing promotion based in the city of... XaBa.vn, Ho Chi Minh City. 10,617 followers · 4 talking abo",
+    "url": "https://www.facebook.com/XabaBoxingPromotions/",
+    "pass": 3
+   },
+   {
+    "quote": "XaBa.vn | Ho Chi Minh City - FacebookGlenrose Xaba - FacebookSandile Xaba Clothing | Pretoria - FacebookBoni Xaba - Facebook XaBa.vn, Ho Chi Minh City. 10,617 followers · 4 talking about this. XaBa.vn là trang web mua hàng quốc tế cung cấp hàng triệu sản phẩm từ khắp nơi trên... Jan 10, 2026 · Xaba also made history by ending an eight-year drought for South African women at the RUN YOUR CITY event",
+    "url": "https://www.facebook.com/xabavn/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.xaba.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xaba.ai/industrial-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xaba.ai/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xaba.ai/new-page",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xaba.ai/company",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://news.aibase.com/ja/news/17141",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unite.ai/ja/massimiliano-moruzzi-founder-and-ceo-of-xaba-interview-series/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/X_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/X_JAPAN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hazelviewventures.com/xaba-case-study-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/en/case-studies/xaba-wants-to-3d-print-chassis-for-the-automotive-industry-26114783/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/xaba-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/520034-68",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/xaba",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/xaba",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/_mziii_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Phiwe_Xaba",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/thabox_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sg_xaba",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/xaba-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/xabaatelier",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://za.linkedin.com/in/nqobile-pamela-xaba-608a5813",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/xaba-inc/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/xabaatelier/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/public/Xaba/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/XabaBoxingPromotions/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/xabavn/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ZabaWorldWide",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/xabaesrs/status/2111440185888329843",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Xaba 日本 導入",
+   "results": [
+    "https://www.xaba.ai/",
+    "https://news.aibase.com/ja/news/17141",
+    "https://www.unite.ai/ja/massimiliano-moruzzi-founder-and-ceo-of-xaba-interview-series/",
+    "https://www.xaba.ai/new-page",
+    "https://www.xaba.ai/company",
+    "https://www.hitachi-ventures.com/portfolio/xaba/",
+    "https://jp.linkedin.com/pulse/xaba-inc-rolleri-partner-develop-cognitive-autonomous?tl=ja"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Xaba 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "https://www.jetro.go.jp/invest/setting_up/section1/page1.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Xaba Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/X_Japan",
+    "https://ja.wikipedia.org/wiki/X_JAPAN",
+    "https://www.xaba.ai/",
+    "https://www.xaba.ai/company",
+    "https://www.xjapan.com/",
+    "https://www.gabateachinginjapan.com/",
+    "https://www.hitachi-ventures.com/portfolio/xaba/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Xaba manufacturing customer case study",
+   "results": [
+    "https://www.xaba.ai/design-3d-print-process",
+    "https://www.hazelviewventures.com/xaba-case-study-2025/",
+    "https://www.xaba.ai/",
+    "https://3druck.com/en/case-studies/xaba-wants-to-3d-print-chassis-for-the-automotive-industry-26114783/",
+    "https://mackerel-dinosaur-z8rg.squarespace.com/case-study-industrial-robotics",
+    "https://www.hazelviewventures.com/wp-content/uploads/2025/09/Hazelview-Ventures-Xaba-Case-Study-2025.pdf",
+    "https://www.machinedesign.com/automation-iiot/article/55308098/xaba-generative-ai-catalyzes-growth-in-industrial-robotics-cnc-machining"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Xaba white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Xaba founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/xaba-revenue",
+    "https://pitchbook.com/profiles/company/520034-68",
+    "https://compworth.com/company/xaba",
+    "https://startupintros.com/orgs/xaba",
+    "https://getlatka.com/companies/xaba.ai",
+    "https://tracxn.com/d/companies/xaba/__gMYB9kitOc7lS_t0UINs0NcpRuTHYG92Ge9819n9lC4",
+    "https://www.thecompanycheck.com/company/b/xaba/8bbb3y30m9dw5v0r3"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Xaba",
+   "results": [
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/liz_you_27/n/na34bb2f4072c",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/spaceygoblin/n/n0f0677188638",
+    "https://note.com/royalcreative_/n/na81d71411e42",
+    "https://note.com/ipusiro/n/nc92ad555b463",
+    "https://note.com/tori_1980/n/n21037c205ade"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Xaba",
+   "results": [
+    "https://x.com/_mziii_",
+    "https://x.com/Phiwe_Xaba",
+    "https://x.com/thabox_",
+    "https://x.com/sg_xaba",
+    "https://x.com/xabasst/",
+    "https://help.x.com/en",
+    "https://x.com/thabox_/status/2038951693035929911"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Xaba",
+   "results": [
+    "https://www.linkedin.com/company/xaba-inc",
+    "https://www.linkedin.com/company/xabaatelier",
+    "https://za.linkedin.com/in/nqobile-pamela-xaba-608a5813",
+    "https://ca.linkedin.com/company/xaba-inc/jobs",
+    "https://za.linkedin.com/in/gugulethu-givenson-xaba-a2552656",
+    "https://zw.linkedin.com/in/lindiwe-xaba-765702183",
+    "https://fr.linkedin.com/company/xaba"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Xaba",
+   "results": [
+    "https://www.facebook.com/xabaatelier/",
+    "https://www.facebook.com/public/Xaba/",
+    "https://www.facebook.com/XabaBoxingPromotions/",
+    "https://www.facebook.com/xabavn/",
+    "https://www.facebook.com/Glenrose.Xaba1/",
+    "https://www.facebook.com/SandileXabaSA/",
+    "https://www.facebook.com/Liferesetwithboni/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Xaba note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://note.com/genba_shacho_jp"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Xaba X 投稿",
+   "results": [
+    "https://x.com/ZabaWorldWide",
+    "https://www.xaba.ai/",
+    "https://x.com/xabaesrs/status/2111440185888329843",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://github.com/xingba-official/xingba",
+    "https://help.x.com/ja/rules-and-policies/adult-content"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

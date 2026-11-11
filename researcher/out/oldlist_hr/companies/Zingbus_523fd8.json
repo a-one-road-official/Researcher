@@ -1,0 +1,424 @@
+{
+ "name": "Zingbus",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T05:27:02.183356+00:00",
+ "official_url": "https://www.zingbus.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Get FREE travel protection with ₹7.5L coverage on every booking.",
+    "url": "https://www.zingbus.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lowest-price AC buses",
+    "url": "https://www.zingbus.com/",
+    "pass": 1
+   },
+   {
+    "quote": "zingbus is a prominent bus service that has a vast network covering over",
+    "url": "https://www.zingbus.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your safety and convenience are of utmost importance to zingbus. That's why they provide travel insurance coverage up to ₹7.5 Lac for added peace of mind. Moreover, they offer zero cancellation charges with",
+    "url": "https://www.zingbus.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By choosing zingbus, you also contribute to a sustainable environment as they offer carbon-neutral rides. Their commitment to eco-friendliness aligns with their premium services, which include access to",
+    "url": "https://www.zingbus.com/",
+    "pass": 1
+   },
+   {
+    "quote": "zingbus Premium Lounges",
+    "url": "https://www.zingbus.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer satisfaction is a top priority for zingbus. Hence, they offer 24/7 WhatsApp support for any queries or assistance during your travel. Additionally, zingbus prioritizes the safety and comfort of female passengers, providing female-friendly",
+    "url": "https://www.zingbus.com/",
+    "pass": 1
+   },
+   {
+    "quote": "6th Floor, Incuspaze, M3M Urbana Premium, Golf Course Extension Road, Sector 67, Gurugram, Haryana 122101",
+    "url": "https://www.zingbus.com/",
+    "pass": 1
+   },
+   {
+    "quote": "provide safe, reliable, and affordable travel options that make every",
+    "url": "https://www.zingbus.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "ride feel like a premium experience.",
+    "url": "https://www.zingbus.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "6th Floor, Incuspaze, M3M Urbana Premium, Golf Course Extension Road, Sector 67, Gurugram, Haryana 122101",
+    "url": "https://www.zingbus.com/about",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Associate with Zingbus and grow your revenue",
+    "url": "https://www.zingbus.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Associate with Zingbus and grow your revenue",
+    "url": "https://www.zingbus.com/about",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.zingbus.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zingbus.com/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.snapchat.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zhihu.com/question/22785060",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.zhihu.com/question/53837126",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.zhihu.com/question/443114151",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://login.suno.ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.weareteachers.com/persuasive-essay-worksheet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ereadingworksheets.com/writing/persuasive-essay-worksheets/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paperdue.com/writing-guides/persuasive-essay",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://myperfectwords.com/blog/persuasive-essay-guide/persuasive-essay-examples",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.subway.com/en-us",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/daveblankenship32",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/barb-millette",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/courtney-hindorff-0940651a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.homedepot.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Lowes/comments/8agyzl/home_depot_or_lowes_who_pays_better/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/DIY/comments/1kn943/does_home_depot_cut_wood/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/HomeDepot/comments/12b0sn5/applying_without_experience/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://amerisleep.com/blog/mattress-sizes-and-dimensions-chart/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dimensionsencyclopedia.com/mattress-sizes/queen/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dimensionsflow.com/queen-size-bed-dimensions-in-cm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://accurateonlineruler.com/guides/mattress-sizes-chart/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Zingbus 日本 導入",
+   "results": [
+    "https://www.snapchat.com/",
+    "https://www.zhihu.com/question/22785060",
+    "https://www.zhihu.com/question/53837126",
+    "https://www.zhihu.com/question/443114151",
+    "https://www.zhihu.com/question/22785060/answers/updated",
+    "https://www.zhihu.com/question/24684378",
+    "https://www.zhihu.com/question/22111810?sort=created",
+    "https://www.zhihu.com/question/564939700",
+    "https://www.zhihu.com/question/34683930",
+    "https://www.zhihu.com/question/52548724"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Zingbus 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://login.suno.ai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "Zingbus Japan",
+   "results": [
+    "https://www.weareteachers.com/persuasive-essay-worksheet/",
+    "https://www.ereadingworksheets.com/writing/persuasive-essay-worksheets/",
+    "https://www.paperdue.com/writing-guides/persuasive-essay",
+    "https://myperfectwords.com/blog/persuasive-essay-guide/persuasive-essay-examples",
+    "https://custom-writing.org/blog/persuasive-essay",
+    "https://www.readwritethink.org/professional-development/strategy-guides/developing-persuasive-writing-strategies",
+    "https://www.myenglishpages.com/how-to-write-a-persuasive-essay/",
+    "https://myspeechclass.com/persuasive-essay-outline.html",
+    "https://www.wikihow.com/Write-a-Persuasive-Essay",
+    "https://www.mrsedgar.com.au/blogs/blog/10-fun-ways-to-make-persuasive-writing-exciting-for-students"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 30
+  },
+  {
+   "query": "Zingbus manufacturing customer case study",
+   "results": [
+    "http://www.subway.com/en-us",
+    "https://www.linkedin.com/in/daveblankenship32",
+    "https://www.linkedin.com/in/barb-millette",
+    "https://ca.linkedin.com/in/courtney-hindorff-0940651a",
+    "https://ca.linkedin.com/in/shalinironcato",
+    "https://il.linkedin.com/in/yasin-bahmanzade-b0b32518a",
+    "https://uk.linkedin.com/in/ahmed-rawi-7286257a"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zingbus white label OR reseller OR partner program",
+   "results": [
+    "https://www.homedepot.com/",
+    "https://www.reddit.com/r/Lowes/comments/8agyzl/home_depot_or_lowes_who_pays_better/",
+    "https://www.reddit.com/r/DIY/comments/1kn943/does_home_depot_cut_wood/",
+    "https://www.reddit.com/r/HomeDepot/comments/12b0sn5/applying_without_experience/",
+    "https://www.reddit.com/r/HomeImprovement/comments/6c4fwz/home_depot_vs_lowes_who_do_you_prefer_and_why/",
+    "https://www.reddit.com/r/Tools/comments/81xmvo/when_does_home_depot_put_their_husky_tool_chests/",
+    "https://www.reddit.com/r/HomeDepot/comments/k5s4h6/list_of_all_department_numbers/",
+    "https://www.reddit.com/r/Tools/comments/3w3ecy/why_are_dewalt_tools_from_home_depot_so_cheap/",
+    "https://www.reddit.com/r/FirstTimeHomeBuyer/comments/17owz0j/moving_trucks_home_depot_or_uhaul/",
+    "https://www.reddit.com/r/lightsabers/comments/f2gw2p/updated_home_depot_saber/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Zingbus founded funding employees revenue",
+   "results": [
+    "https://amerisleep.com/blog/mattress-sizes-and-dimensions-chart/",
+    "https://dimensionsencyclopedia.com/mattress-sizes/queen/",
+    "https://dimensionsflow.com/queen-size-bed-dimensions-in-cm/",
+    "https://accurateonlineruler.com/guides/mattress-sizes-chart/",
+    "https://bedsizes.us/queen-bed-dimensions/",
+    "https://dimenowa.com/complete-bed-and-mattress-size-guide-with-size-chartinches-cm-mm/",
+    "https://www.biltritefurniture.com/queen-mattress-dimensions/",
+    "https://community.whattoexpect.com/forums/june-2023-babies/topic/i-dont-want-to-name-my-child-after-another-family-member-151188820.html",
+    "https://community.whattoexpect.com/forums/october-2018-babies/topic/spiritual-meaning-of-the-sex-of-the-baby-69503164.html",
+    "https://community.whattoexpect.com/forums/what-to-expect-general-message-board/topic/hcg-results-tripled-in-48-hrs-twins-feedback-please.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 27
+  },
+  {
+   "query": "site:note.com Zingbus",
+   "results": [
+    "http://www.bbc.com/news",
+    "https://www.bbc.com/news/uk",
+    "https://www.bbc.com/news/england/hampshire",
+    "https://www.bbc.com/news/world/asia",
+    "https://www.bbc.com/news/articles/cmn06w5x9g25o",
+    "https://www.bbc.com/news/england/birmingham_and_black_country",
+    "https://www.bbc.com/news/england/west_yorkshire",
+    "https://www.bbc.com/news/articles/cvgvyz8e27zo",
+    "https://www.bbc.com/news/england/cambridgeshire",
+    "https://www.bbc.com/news/england/coventry_and_warwickshire"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com Zingbus",
+   "results": [
+    "https://techcommunity.microsoft.com/discussions/windowsinsiderprogram/windows-8-1-iso-download-for-64-and-32-bit/4454650",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-continues-build-the-skills-that-move-business-forward/4494139",
+    "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128",
+    "https://support.microsoft.com/en-gb/contactus",
+    "https://support.microsoft.com/es-ar/contactus/",
+    "https://www.microsoft.com/en-us/",
+    "https://support.microsoft.com/fr-be/contactus/",
+    "https://support.microsoft.com/en-us/edge/",
+    "https://support.microsoft.com/en-us/accounts-billing/work-school/sign-in-to-your-work-or-school-account-using-two-step-verification"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com Zingbus",
+   "results": [
+    "https://www.nytimes.com/games/connections",
+    "https://connectionshintapp.com/",
+    "https://word.tips/connections-hints-today/",
+    "https://www.wordhint.net/connections/hint/today/",
+    "https://www.tomsguide.com/news/todays-connections-answer",
+    "https://www.nytgamehint.com/connections",
+    "https://connectionssports.com/connections-hints-today",
+    "https://www.reddit.com/r/amazon/comments/6o1z3x/how_to_transfer_amazoncom_card_to_amazonca/",
+    "https://www.reddit.com/r/techsupport/comments/oh3tep/for_some_reason_i_cant_load_amazoncom_in_any/",
+    "https://www.reddit.com/r/amazonprime/comments/1d9pwxs/sent_this_afternoon_to_jeffamazoncom/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com Zingbus",
+   "results": [
+    "https://en.wikipedia.org/wiki/Microsoft",
+    "https://www.microsoft.com/en-us",
+    "https://account.microsoft.com/account-checkup",
+    "https://myaccount.microsoft.com/login",
+    "https://m365.cloud.microsoft/?origindomain=Office",
+    "https://account.microsoft.com/account",
+    "https://myaccount.microsoft.com/",
+    "https://www.microsoft.com/en-us/download",
+    "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365",
+    "https://apps.microsoft.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "Zingbus note 社長",
+   "results": [
+    "https://hankamer.baylor.edu/mba/healthcare",
+    "https://www.mbaschools.org/degree/healthcare-management/",
+    "https://www.mbaandbeyond.com/blog/top-10-mba-programs-in-healthcare-management",
+    "https://www.stonybrook.edu/business/graduate/mba-programs/hcm.html",
+    "https://research.com/online-mba/best-online-mba-programs-for-healthcare-professionals",
+    "https://hcmg.wharton.upenn.edu/programs/mba/curriculum/",
+    "https://www.wgu.edu/online-business-degrees/mba-masters-business-administration-healthcare-administration-program.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zingbus X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部21頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部21頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部21頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部21頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部21頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部21頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部21頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部21頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部21頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部21頁・検索12回）"
+ }
+}

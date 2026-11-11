@@ -1,0 +1,1232 @@
+{
+ "name": "Testrigor",
+ "aliases": [],
+ "context": "旧営業リスト｜Quality / Inspection｜AUMS不適合",
+ "researched_at": "2026-11-11T05:51:54.857824+00:00",
+ "official_url": "https://testrigor.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "7. Seed Round",
+    "value": "01-Dec-2023    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/251500-69",
+    "pass": 3
+   },
+   {
+    "label": "6. Seed Round",
+    "value": "24-Aug-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/251500-69",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "01-Jan-2019 $700K $700K  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/251500-69",
+    "pass": 3
+   },
+   {
+    "label": "Seed-5",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/251500-69",
+    "pass": 3
+   },
+   {
+    "label": "Seed-2",
+    "value": "2,456,132 $0.000010  $0.51 $0.51 1x $0.51 7.17%",
+    "url": "https://pitchbook.com/profiles/company/251500-69",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "1,051,337 $0.000010  $0.45 $0.45 1x $0.45 3.07%",
+    "url": "https://pitchbook.com/profiles/company/251500-69",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Write a plain-English test representing what new functionality is supposed to do.",
+    "url": "https://testrigor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Manual QA and QA Engineers together on one platform and be 20x more productive",
+    "url": "https://testrigor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "in Software Engineering: Improving Digital Resilience in 2023.",
+    "url": "https://testrigor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re proud to share that testRigor has been named as a Cool Vendor in the 2023 Gartner Cool Vendors™ in Software Engineering: Improving Digital Resilience report.",
+    "url": "https://testrigor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "At testRigor, we strive to make engineering organizations significantly more productive using AI. Today, we are very proud of a milestone that exemplifies our vision – made possible only through the trust and support of our customers, partners, and community. testRigor has officially earned a place on the 2025 Inc. 5000 list and is among the fastest-growing private companies in the U.S.",
+    "url": "https://testrigor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The manual team does not need to be sidelined and I don’t need to hire separate experts for automating scenarios.”",
+    "url": "https://testrigor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "testRigor protects you by adhering to the highest security standards and regulations, including ISO/IEC 27001:2022, SOC 2, HIPAA, and GDPR, among others. Want to learn more? Visit our",
+    "url": "https://testrigor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Access controls prevent potential system abuse, theft or unauthorized removal of data, misuse of software, and improper alteration or disclosure of information.",
+    "url": "https://testrigor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Processing integrity addresses whether or not a system achieves its purpose. We ensure our data processing is complete, valid, accurate, timely, and authorized.",
+    "url": "https://testrigor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We ensure all PII remains private. We never record or store your users' or your company's private data.",
+    "url": "https://testrigor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You can think of testRigor as Cucumber already implemented for your project. We have eliminated the need to write and maintain any underlying Selenium code, as our system uses an NLP-based parser to parse plain English and executes your specifications in place.",
+    "url": "https://testrigor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Acceptance-level functional UI-level regression tests. We test that functionality works via UI. For example, for Amazon we would test that a person can successfully purchase a product from log in to purchase confirmation.",
+    "url": "https://testrigor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get to production in hours instead of weeks.",
+    "url": "https://testrigor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "That is a surprisingly manual way to use a coding agent.",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "LLMs do not work the same way as your brain if you use off-the-shelf models like Fable or GPT-6. They are certainly capable. But they just don’t know your project the way YOU know it.",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "They didn’t talk to the project manager who described to you their vision and how things are supposed to work and why your code is not what they intended.",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "They didn’t have conversations with the lead engineer on the project.",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "They don’t know the challenges of your architecture in production.",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "They probably haven’t read ALL of the project’s documentation either.",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "And they definitely didn’t receive the detailed code reviews that shaped your understanding of the project.",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "Can LLM read your project or documentation – surely it can. But when you deal with it for a long period of time your understanding is deeper and you can see some consequences that can’t be predicted by just looking into the code the first time. Since you learned. And LLM just accessing the information at hand, it can’t fit it ALL in the context window.",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "The result? LLMs don’t have intuition and clear understanding how things SHOULD work in your particular project.",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "If you think human language is precise, you have no idea how far from reality you are. Even in the most precise area in the banking industry the ambiguity of specifications lead to",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "A requirement can feel completely precise to the person writing it while still leaving several reasonable ways to implement it.",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "This happens between product managers and engineers. It happens between engineers. And it happens when we ask a coding agent to build something.",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "For example, imagine a product manager creates a ticket:",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "To the product manager, this may seem perfectly clear because they already have a mental model of the feature. They may assume everyone knows that a “retry” means",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "But an engineer reading the ticket may reasonably interpret it in several different ways:",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": ": the author believes the requirement is precise because the missing information already exists in their head, while the reader has to fill those gaps with their own assumptions.",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "which cites Opus 5 on Max setting hallucination at 23% of the time! That means that even if everything is perfect and you spent a month building a perfect prompt there is still no guarantee that you’ll get a working result in return.",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "As you have probably already guessed, I’m talking about tests.",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "Depending on the feature’s complexity, these could be unit, integration, or end-to-end tests. And I firmly believe that if it touches the UI and is complex enough it probably should be end-to-end.",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "The improved workflow",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "You are not replacing manual coding with manual test writing. The agent can generate both. The team contributes the product context and judgment, while the test results provide feedback during implementation.",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": ", including a video demonstration.",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "From Automated Test Maintenance and Fewer Bugs in Production",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the programs below to see how we can grow together.",
+    "url": "https://testrigor.com/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase product value",
+    "url": "https://testrigor.com/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep your product central",
+    "url": "https://testrigor.com/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Create useful content and earn on eligible closed deals.",
+    "url": "https://testrigor.com/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Content with practical value",
+    "url": "https://testrigor.com/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "How 7T Scaled Test Automation, Involved Their Entire QA Team in the Process, and Cut Down on Test Maintenance.",
+    "url": "https://testrigor.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "How Disprz slashed their test creation time by ½ and achieved near-zero test and infrastructure maintenance costs with the click of a button.",
+    "url": "https://testrigor.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Property Management Software",
+    "url": "https://testrigor.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Services",
+    "url": "https://testrigor.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "How RealTech Saved 2 Days per Project with 14 Automated Tests Across 2 SaaS Suites.",
+    "url": "https://testrigor.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "According to Kristoph Gustovich, CIO of Enumerate, within six months of using testRigor, effort in fixing production issues reduced to 23% from 43%. They went from ZERO test automation to 1000+ automated tests in just six months. Enumerate saved around $180,000 of their budget on Selenium setup and new hires as testRigor performs all tasks single-handedly.",
+    "url": "https://testrigor.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "“The manual team does not need to be sidelined and I don’t need to hire separate experts for automating scenarios.”",
+    "url": "https://testrigor.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "“The manual team does not need to be sidelined and I don't need to hire separate experts for automating scenarios.”",
+    "url": "https://testrigor.com/sign-up/",
+    "pass": 1
+   },
+   {
+    "quote": "Get access to all AI capabilities and run tests across Ubuntu, Windows, Mac, Android, iOS, and Windows Native. Scale your testing as needed with flexible pay-as-you-go pricing.",
+    "url": "https://testrigor.com/sign-up/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us for personalized enterprise offers.",
+    "url": "https://testrigor.com/sign-up/",
+    "pass": 1
+   },
+   {
+    "quote": "to solve problems that prevent people from being able to achieve 100% test automation.",
+    "url": "https://testrigor.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Your apps work perfectly in production. Your team works only on what matters most.",
+    "url": "https://testrigor.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "From Automated Test Maintenance and Fewer Bugs in Production",
+    "url": "https://testrigor.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "TECHNOLOGY AND INTEGRATION PARTNER PROGRAM",
+    "url": "https://testrigor.com/partner-integration-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "CREATOR AND REFERRAL PARTNER PROGRAM",
+    "url": "https://testrigor.com/partner-creator-and-referral-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn Useful QA Content into",
+    "url": "https://testrigor.com/partner-creator-and-referral-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Teach, demonstrate, compare or explain a real QA problem.",
+    "url": "https://testrigor.com/partner-creator-and-referral-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Track partner income associated with qualified referrals under the program terms.",
+    "url": "https://testrigor.com/partner-creator-and-referral-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "IDT’s QA automation team was stuck at low test coverage. They had a goal of reaching 90% test coverage. They spent 32 man-years of QA Engineers building automated tests. After that, they were not making any progress towards their 90% automation goal and were stuck at around 33-34% automation because all of their QA Engineers were 100% busy maintaining existing tests instead of building new ones.",
+    "url": "https://testrigor.com/case-study-idt/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Send emails using a simple \"send email\" command, include attachments, and verify deliverability.",
+    "url": "https://testrigor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cover two-factor authentication (2FA) logins with Authenticator Apps, SMS, or emails.",
+    "url": "https://testrigor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Web, mobile, desktop, APIs, email, SMS, 2FA and more.",
+    "url": "https://testrigor.com/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us for personalized enterprise offers.",
+    "url": "https://testrigor.com/sign-up/",
+    "pass": 1
+   },
+   {
+    "quote": "Web, mobile, desktop, APIs, email, SMS, 2FA and more.",
+    "url": "https://testrigor.com/partner-integration-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Web, mobile, desktop, APIs, email, SMS, 2FA and more.",
+    "url": "https://testrigor.com/partner-creator-and-referral-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/testrigor/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/testrigor/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/251500-69",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "missing information and ambiguity caused by assumed context",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted By The Best In Business",
+    "url": "https://testrigor.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: IDT - testRigor AI-Based Automated Testing Tool",
+    "url": "https://testrigor.com/case-study-idt/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Medrio - testRigor AI-Based Automated Testing Tool",
+    "url": "https://testrigor.com/case-study-medrio/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Tembici - testRigor AI-Based Automated Testing Tool",
+    "url": "https://testrigor.com/case-study-tembici/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Wine Access - testRigor AI-Based Automated Testing Tool",
+    "url": "https://testrigor.com/case-study-wine-access/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: 7T - testRigor AI-Based Automated Testing Tool",
+    "url": "https://testrigor.com/case-study-7t/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Disprz - testRigor AI-Based Automated Testing Tool",
+    "url": "https://testrigor.com/case-study-disprz/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: SafelyYou - testRigor AI-Based Automated Testing Tool",
+    "url": "https://testrigor.com/case-study-safelyyou/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: PeerIslands - testRigor AI-Based Automated Testing Tool",
+    "url": "https://testrigor.com/case-study-peerislands/",
+    "pass": 1
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/testrigor/case-studies",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Once those scenarios reflect what we want, they become part of the agent’s /goal workflow. It implements the feature, runs the tests, inspects the failures, adjusts the code, and tries again.",
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "Manual QA could now automate and create complex automation with plain English. This allowed part of the manual QA team to participate in test automation creation for their applications. Furthermore, they were able to increase the speed at which manual testing was done when executed in parallel with testRigor – a best of both worlds situation.",
+    "url": "https://testrigor.com/case-study-disprz/",
+    "pass": 1
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/testrigor/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/251500-69",
+    "pass": 3
+   },
+   {
+    "quote": "testRigor has 117 total employees.",
+    "url": "https://pitchbook.com/profiles/company/251500-69",
+    "pass": 3
+   },
+   {
+    "quote": "What is testRigor’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/251500-69",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for testRigor is",
+    "url": "https://pitchbook.com/profiles/company/251500-69",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Become a Partner - testRigor AI-Based Automated Testing Tool",
+    "url": "https://testrigor.com/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "TECHNOLOGY AND INTEGRATION PARTNER PROGRAM",
+    "url": "https://testrigor.com/partner-integration-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "CREATOR AND REFERRAL PARTNER PROGRAM",
+    "url": "https://testrigor.com/partner-creator-and-referral-partners/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Q2: 日本語の指示に対応していますか？ A: 2025年10月現在、テストの記述はプレーンイングリッシュが基本です",
+    "url": "https://skywork.ai/skypage/ja/ai-test-automation-tools/1984174571386753024",
+    "pass": 3
+   },
+   {
+    "quote": "UI上の日本語テキスト（例：click &#34;ログイン&#34;）を操作することは可能ですが、コマンド自体は英語で記述します",
+    "url": "https://skywork.ai/skypage/ja/ai-test-automation-tools/1984174571386753024",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、生成AI技術の進化は著しく、将来的には日本語を含む多言語での指示に対応することが強く期待されます",
+    "url": "https://skywork.ai/skypage/ja/ai-test-automation-tools/1984174571386753024",
+    "pass": 3
+   },
+   {
+    "quote": "AI が検証ボトルネックを生む時代、QA は最後まで残る｜佐藤 裕介（Engineers Hub 株式会社 代表）",
+    "url": "https://note.com/engineers_hub/n/ndd33f1753af2",
+    "pass": 3
+   },
+   {
+    "quote": "佐藤 裕介（Engineers Hub 株式会社 代表）",
+    "url": "https://note.com/engineers_hub/n/ndd33f1753af2",
+    "pass": 3
+   },
+   {
+    "quote": "testRigor は「自然言語でテストケースを書ける」AI ツールで、QA 担当者が日本語や英語で「ログインボタンを押して、メールアドレスとパスワードを入力して、ホーム画面に遷移すること」と書くだけで、Selenium や Playwright のテストコードが自動生成されます",
+    "url": "https://note.com/engineers_hub/n/ndd33f1753af2",
+    "pass": 3
+   },
+   {
+    "quote": "日本のフリーランスエンジニアにとっても、AI Quality Engineer は参入の余地がある領域です",
+    "url": "https://note.com/engineers_hub/n/ndd33f1753af2",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業も AI を入れる際に「AI の出力の品質をどう担保するか」という課題にぶつかっていて、AI Quality Engineer の月額アドバイザリー契約（月 80 万〜200 万円）は今後増える見込みです",
+    "url": "https://note.com/engineers_hub/n/ndd33f1753af2",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "testRigor徹底解説：AIテスト自動化の未来を拓く革新ツール — Nov 3, 2025 · testRigorでAIテスト自動化を簡単に実現！シンプルな英語でテストケースを作成でき、メンテナンスも不要。今すぐ導入を！",
+    "url": "https://skywork.ai/skypage/ja/ai-test-automation-tools/1984174571386753024",
+    "pass": 3
+   },
+   {
+    "quote": "testRigor（AIを活用したテスト自動化ツール）_百度百科 — testRigorは、TestRigor, Inc.が開発した 生成型人工知能 を基盤とするノーコードテスト自動化ツールであり、ユーザーがコーディング知識なしに自然言語または平易な英語の指示を用いてテストケースを作成できることを可能にします。",
+    "url": "https://baike.baidu.com/ja/item/testRigor/2327836",
+    "pass": 3
+   },
+   {
+    "quote": "testRigor：基于人工智能的自动化测试工具-CSDN博客 — Aug 22, 2024 · 文章浏览阅读6.6k次，点赞5次，收藏19次。 testRigor是一款基于AI的无代码自动化测试平台，支持多种测试类型，包括API、端对端及视觉检测等。 它能自动生成测试用例，适用于Web、移动及桌面应用，通过持续集成确保软件质量。",
+    "url": "https://blog.csdn.net/weixin_48321392/article/details/139946079",
+    "pass": 3
+   },
+   {
+    "quote": "AI-Based Test Automation Tool [2026] - testRigor Software Testing — You can think of testRigor as Cucumber already implemented for your project. We have eliminated the need to write and maintain any underlying Selenium code, as our system uses an NLP-based parser to parse plain English and executes your specifications in place.",
+    "url": "https://testrigor.com/",
+    "pass": 3
+   },
+   {
+    "quote": "testRigor | 平易な英語によるAI搭載テスト自動化 - ToolMage — Aug 5, 2025 · testRigorでWeb、モバイル、APIテストを100倍速く自動化。 生成AIと平易な英語で、安定してメンテナンスの少ないテストを作成。 QAからPMまで、チーム全体の能力を向上させます。",
+    "url": "https://www.toolmage.com/ja/tool/testrigor/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-Based Test Automation Tool [2026] - testRigor Software Testing — Test automation tool - testRigor. Automated software testing for end-to-end test cases using plain English. Looking for software testing tools? Contact us now!",
+    "url": "https://testrigor.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About testRigor Intelligent Test Automation Tool — We built testRigor to solve problems that prevent people from being able to achieve 100% test automation. We believe that technology can do MUCH more for testing compared to what is available on the market today.",
+    "url": "https://testrigor.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "testRigor - LinkedIn — testRigor | 131,993 followers on LinkedIn. The #1 Generative AI-based test automation tool.",
+    "url": "https://www.linkedin.com/company/testrigor/",
+    "pass": 3
+   },
+   {
+    "quote": "testRigor Software Testing: レビュー、機能、価格、ガイド、代替品 — Jul 15, 2025 · testRigorは、人工知能を活用して、ほぼすべての人がウェブ、モバイル、ネイティブデスクトップアプリケーションの自動テストを作成できる最新のソフトウェアテストプラットフォームです。 従来のテストツールとは異なり、testRigorは複雑なフレームワークのセットアップやコーディングスキルを必要としません。 ユーザーは平易な英語でテストケースを書くことができ、実際のユーザーの行動を模倣します。 このプラットフォームは、複数のプラットフォームでのエンドツーエンドテストをサポートし、人気のCI/CDツールやその他のソフトウェア開発エコシステムとシームレスに統合されます。",
+    "url": "https://aipure.ai/jp/products/testrigor-com",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - testRigor Test Automation Tool — According to Keith Powe, VP of Engineering at IDT Corporation, his team could automate only four test cases a week per person, but with testRigor, they have increased their testing coverage from less than 34-33% to more than 91% in under 9 months.",
+    "url": "https://testrigor.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: IDT - testRigor AI-Based Automated Testing Tool — Discover how IDT increased automation from 34% to 91% in 9 months using testRigor, saving $576K in the first year.",
+    "url": "https://testrigor.com/case-study-idt/",
+    "pass": 3
+   },
+   {
+    "quote": "testRigor B2B Case Studies & Customer Successes — See how testRigor solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/testrigor",
+    "pass": 3
+   },
+   {
+    "quote": "13 testRigor Case Studies, Success Stories, & Customer ... — testRigor has a 4.8/5 star rating. Learn what their customers think, get 13 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/testrigor/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: IDT Corporation achieves 91% automation in under ... — This solution enabled them to increase coverage to 91% in under nine months while reducing test maintenance time to nearly zero. The results for testRigor's customer included saving an estimated $576,000 in the first year and achieving a 90% reduction in recurring bugs. Open case study document...",
+    "url": "https://www.casestudies.com/company/testrigor/case-study/a-fortune-1000-company-went-from-34-automation-to-91-automation-in-under-9-months-with-only-manual-qa",
+    "pass": 3
+   },
+   {
+    "quote": "TestRigor – Financial Footprint & Growth Factors – 2026 — Discover TestRigor's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/testrigorai",
+    "pass": 3
+   },
+   {
+    "quote": "testRigor 2026 Company Profile: Valuation, Funding ...testRigor - Overview, News & Similar companies | ZoomInfo.comTestRigor - 2026 Company Profile, Team, Funding & Competitors ...TestRigor – Growth Analysis & Alternative Companies – 2026testRigor Revenue 2024: $15M Est. - LATKAtestRigor: Funding, Team & Investors | Startup Intros — Information on valuation, funding, cap tables, investors, and exe",
+    "url": "https://pitchbook.com/profiles/company/251500-69",
+    "pass": 3
+   },
+   {
+    "quote": "testRigor - Overview, News & Similar companies | ZoomInfo.com — TestRigor is AI-based system which detects all objects on every screen automatically, recognizes the meaning, and prioritizes tests. The company was founded in 2015 and it headquartered in San Francisco, California.",
+    "url": "https://www.zoominfo.com/c/testrigor-inc/429649133",
+    "pass": 3
+   },
+   {
+    "quote": "TestRigor - 2026 Company Profile, Team, Funding & Competitors ...TestRigor – Growth Analysis & Alternative Companies – 2026testRigor Revenue 2024: $15M Est. - LATKAtestRigor: Funding, Team & Investors | Startup Intros — Mar 17, 2026 · TestRigor is a seed company based in San Francisco (United States), founded in 2015 by Enrique Biancato and Artem Golubev. It operates as a Platform offering softwar",
+    "url": "https://tracxn.com/d/companies/testrigor/__UITMIEFNu7PVzEXG3dCTC6becauOFUFkO1umNqRLALo",
+    "pass": 3
+   },
+   {
+    "quote": "TestRigor – Growth Analysis & Alternative Companies – 2026 — TestRigor's foundation includes estimated revenue of $60.6M, team of around 100+ employees, located in San Francisco, ensuring a stable trajectory.",
+    "url": "https://compworth.com/company/testrigor",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "AI が検証ボトルネックを生む時代、QA は最後まで残る May 31, 2026 · testRigor は「自然言語でテストケースを書ける」AI ツールで、QA 担当者が日本語や英語で「ログインボタンを押して、メールアドレスとパスワードを入力して、ホーム画面に遷移すること」と書くだけで、Selenium や Playwright のテストコードが自動生成されます。",
+    "url": "https://note.com/engineers_hub/n/ndd33f1753af2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "AI が検証ボトルネックを生む時代、QA は最後まで残る｜佐藤 裕介（Engineers Hub 株式会社 代表）",
+    "url": "https://note.com/engineers_hub/n/ndd33f1753af2",
+    "pass": 3
+   },
+   {
+    "quote": "AI が検証ボトルネックを生む時代、QA は最後まで残る",
+    "url": "https://note.com/engineers_hub/n/ndd33f1753af2",
+    "pass": 3
+   },
+   {
+    "quote": "佐藤 裕介（Engineers Hub 株式会社 代表）",
+    "url": "https://note.com/engineers_hub/n/ndd33f1753af2",
+    "pass": 3
+   },
+   {
+    "quote": "シリーズ - 消えるエンジニアと、伸びるエンジニア ─ 2026 年版 #18",
+    "url": "https://note.com/engineers_hub/n/ndd33f1753af2",
+    "pass": 3
+   },
+   {
+    "quote": "第 18 回は、手動 QA テスター。AI 時代に最も劇的に圧縮された職域の 1 つです。",
+    "url": "https://note.com/engineers_hub/n/ndd33f1753af2",
+    "pass": 3
+   },
+   {
+    "quote": "具体的な数字。米国の AI テスト自動化ツール testRigor の事例で、ある企業では手動 QA が以前の自動化エンジニアの 2 倍のテストを作れるようになり、テスト保守時間が 0.1% 以下に圧縮されました。",
+    "url": "https://note.com/engineers_hub/n/ndd33f1753af2",
+    "pass": 3
+   },
+   {
+    "quote": "testRigor は「自然言語でテストケースを書ける」AI ツールで、QA 担当者が日本語や英語で「ログインボタンを押して、メールアドレスとパスワードを入力して、ホーム画面に遷移すること」と書くだけで、Selenium や Playwright のテストコードが自動生成されます。",
+    "url": "https://note.com/engineers_hub/n/ndd33f1753af2",
+    "pass": 3
+   },
+   {
+    "quote": "似たツールに Mabl、Functionize、Reflect、Katalon Studio AI があり、どれも「QA 担当者が自然言語で書いた指示から、テストを自動で作り、自動で走らせ、自動でメンテナンスする」ことを実現しています。",
+    "url": "https://note.com/engineers_hub/n/ndd33f1753af2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "How to do End-to-end Testing with testRigor Master end-to-end ... testRigor (@testrigor). 49 views. How to do End-to-end Testing with testRigor Master end-to-end testing with testRigor: Step-by-step guide for testing e-commerce websites.",
+    "url": "https://x.com/testrigor/status/1747083365956653164",
+    "pass": 3
+   },
+   {
+    "quote": "Self-healing Tests What is self-healing in test automation ... testRigor (@testrigor). 25 views. Self-healing Tests What is self-healing in test automation? Learn about advantages of self-healing, review the process, and see examples (Web, Mobile, API, and Database testing). 🔗 https://t.co/rSfFS34bv8 💬 Share your thoughts with us in the comments below!",
+    "url": "https://x.com/testrigor/status/2021994144952975850",
+    "pass": 3
+   },
+   {
+    "quote": "Top 25 API Testing Interview Questions Prepare for your next ... Top 25 API Testing Interview Questions - testRigor AI-Based Automated Testing Tool testrigor.com 💬0 🔄0 🤍0 📊41 📎",
+    "url": "https://x.com/testrigor/status/1933222765353422892",
+    "pass": 3
+   },
+   {
+    "quote": "@testrigor | X The latest posts from @testrigor",
+    "url": "https://x.com/testrigor",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "testRigor - LinkedIn Create and execute QA tests in plain English. | testRigor is a Generative AI-based codeless test automation tool helping companies empower manual testers to build test automation via executable...",
+    "url": "https://www.linkedin.com/company/testrigor/",
+    "pass": 3
+   },
+   {
+    "quote": "testRigor - LinkedIn testRigor | Behavior-based regression end-to-end test generation. Move faster and scale better as an organization.",
+    "url": "https://www.linkedin.com/products/testrigor/",
+    "pass": 3
+   },
+   {
+    "quote": "Enzo Carlos Biancato - Co-founder and CTO at testRigor | LinkedInArtem Golubev - Co-Founder and CEO of testRigor, the #1 ...TestRigor: AI Software Testing - LinkedInVision AI and how testRigor uses it - LinkedInData-driven Testing: How to Bring Your QA Process ... - LinkedIn Co-founder and CTO at testRigor · testRigor allows you to use plain English to write automated tests. It enables non-technic",
+    "url": "https://ar.linkedin.com/in/enzobiancato",
+    "pass": 3
+   },
+   {
+    "quote": "Artem Golubev - Co-Founder and CEO of testRigor, the #1 ...TestRigor: AI Software Testing - LinkedInVision AI and how testRigor uses it - LinkedInData-driven Testing: How to Bring Your QA Process ... - LinkedIn testRigor is a #1 Generative-AI-based automated testing tool that revolutionizes the way testing is done in the software industry. You can now use your specifications as tests without ANY c",
+    "url": "https://www.linkedin.com/in/agolubev",
+    "pass": 3
+   },
+   {
+    "quote": "Artem Golubev - Co-Founder and CEO of testRigor, the #1 ...testRigor Org Chart, Leadership & Team (2026) | InsideOrgArtem Golubev - Co-Founder & CEO @ testRigor - CrunchbaseEnrique Biancato - Entrepreneur with an enthusiasm for ...testRigor Management Team | Org Chart - RocketReachtestRigor CEO, Founder, Key Executive Team, Board of ...Artem Golubev - The Test Tribe testRigor is a #1 Generative-AI",
+    "url": "https://www.linkedin.com/in/agolubev",
+    "pass": 3
+   },
+   {
+    "quote": "Enrique Biancato - Entrepreneur with an enthusiasm for ...testRigor Management Team | Org Chart - RocketReachtestRigor CEO, Founder, Key Executive Team, Board of ...Artem Golubev - The Test Tribe · Building next generation autonomous data and behavior-driven software testing · Experience: testRigor · Education: University of California, Berkeley · Location: San Francisco Bay Area ... The testRigor",
+    "url": "https://www.linkedin.com/in/enrique-biancato",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "TestRigor - FacebookTestRigor - What Is Right-Sized AI in Test Automation ...TestRigor - Calling all testing professionals ... - FacebookTestRigor - How To Test for SQL Injections – 2026 Guide ...TestRigor - All-Inclusive Guide to Test Case Creation in ...TestRigor - API Contract Testing: A Step-by-Step Guide to ...TestRigor - AI Model Bias: How to Detect and Mitigate ... Oct 13, 2026 · TestRigor.",
+    "url": "https://www.facebook.com/testRigor/",
+    "pass": 3
+   },
+   {
+    "quote": "TestRigor - What Is Right-Sized AI in Test Automation ... Aug 25, 2026 · Learn Agile software testing principles, methodologies, tools, and best practices to improve software quality, accelerate releases, and enhance collaboration.https://hubs.la/Q04z6n4q0💬 Share your thoughts with us in the comments...#QA#AITestingTools#QualityEngineering#SoftwareTesting Agile Software Testing - testRigor Softwar",
+    "url": "https://www.facebook.com/testRigor/posts/what-is-right-sized-ai-in-test-automationdiscover-what-right-sized-ai-in-test-au/1597967655453325/",
+    "pass": 3
+   },
+   {
+    "quote": "TestRigor - Calling all testing professionals ... - Facebook Jul 20, 2023 · for Testing Professionals - testRigor AI-Based Aut... Testing is a critical phase in software development t...",
+    "url": "https://www.facebook.com/testRigor/posts/-calling-all-testing-professionals-looking-to-expand-your-testing-knowledge-weve/787574919825940/",
+    "pass": 3
+   },
+   {
+    "quote": "TestRigor - How To Test for SQL Injections – 2026 Guide ... Feb 26, 2026 · TestRigor Feb 26 How To Test for SQL Injections – 2026 Guide Learn how to test for SQL Injection, one of the most critical web security threats, and protect your applications from data breaches and unauthorized",
+    "url": "https://www.facebook.com/testRigor/posts/how-to-test-for-sql-injections-2026-guidelearn-how-to-test-for-sql-injection-one/1445695104013915/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://testrigor.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://testrigor.com/blog/what-everyone-gets-wrong-about-ai-code-generation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://testrigor.com/become-a-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://testrigor.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://testrigor.com/sign-up/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://testrigor.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://testrigor.com/partner-integration-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://testrigor.com/partner-creator-and-referral-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://testrigor.com/case-study-idt/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://testrigor.com/case-study-medrio/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://testrigor.com/case-study-tembici/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://testrigor.com/case-study-wine-access/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://testrigor.com/case-study-7t/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://testrigor.com/case-study-disprz/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://testrigor.com/case-study-safelyyou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://testrigor.com/case-study-peerislands/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://skywork.ai/skypage/ja/ai-test-automation-tools/1984174571386753024",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baike.baidu.com/ja/item/testRigor/2327836",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://blog.csdn.net/weixin_48321392/article/details/139946079",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://baike.baidu.com/ja/item/testRigor/2327836",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/testrigor/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/testrigor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/testrigor/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/testrigorai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/251500-69",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/testrigor-inc/429649133",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/testrigor/__UITMIEFNu7PVzEXG3dCTC6becauOFUFkO1umNqRLALo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/engineers_hub/n/ndd33f1753af2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/testrigor/status/1747083365956653164",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/testrigor/status/2021994144952975850",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/testrigor/status/1933222765353422892",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/testrigor/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/testrigor/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ar.linkedin.com/in/enzobiancato",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/agolubev",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/testRigor/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/testRigor/posts/what-is-right-sized-ai-in-test-automationdiscover-what-right-sized-ai-in-test-au/1597967655453325/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/testRigor/posts/-calling-all-testing-professionals-looking-to-expand-your-testing-knowledge-weve/787574919825940/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/testRigor/posts/how-to-test-for-sql-injections-2026-guidelearn-how-to-test-for-sql-injection-one/1445695104013915/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/agolubev",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/enrique-biancato",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/testrigor",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Testrigor 日本 導入",
+   "results": [
+    "https://skywork.ai/skypage/ja/ai-test-automation-tools/1984174571386753024",
+    "https://baike.baidu.com/ja/item/testRigor/2327836",
+    "https://blog.csdn.net/weixin_48321392/article/details/139946079",
+    "https://testrigor.com/",
+    "https://www.toolmage.com/ja/tool/testrigor/",
+    "https://ai-pedias.com/blog/ai-software-testing-qa-2026",
+    "https://note.com/engineers_hub/n/ndd33f1753af2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Testrigor 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Testrigor Japan",
+   "results": [
+    "https://testrigor.com/",
+    "https://testrigor.com/about/",
+    "https://baike.baidu.com/ja/item/testRigor/2327836",
+    "https://www.linkedin.com/company/testrigor/",
+    "https://aipure.ai/jp/products/testrigor-com",
+    "https://techcrunchjapan.com/2021/08/26/2021-08-24-testrigor-scores-4m-seed-to-turn-a-list-of-actions-into-a-qa-testing-script/",
+    "https://www.linkedin.com/pulse/has-future-testing-already-arrived-curious-case-testrigors-frye-6t8lc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Testrigor manufacturing customer case study",
+   "results": [
+    "https://testrigor.com/case-studies/",
+    "https://testrigor.com/case-study-idt/",
+    "https://www.casestudies.com/company/testrigor",
+    "https://www.featuredcustomers.com/vendor/testrigor/case-studies",
+    "https://www.casestudies.com/company/testrigor/case-study/a-fortune-1000-company-went-from-34-automation-to-91-automation-in-under-9-months-with-only-manual-qa",
+    "https://www.slideshare.net/ArtemGolubev/idt-case-study-with-testrigor",
+    "https://www.linkedin.com/pulse/has-future-testing-already-arrived-curious-case-testrigors-frye-6t8lc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Testrigor white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://reseller.amazon.com/",
+    "https://www.namesilo.com/reseller"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Testrigor founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/testrigorai",
+    "https://pitchbook.com/profiles/company/251500-69",
+    "https://www.zoominfo.com/c/testrigor-inc/429649133",
+    "https://tracxn.com/d/companies/testrigor/__UITMIEFNu7PVzEXG3dCTC6becauOFUFkO1umNqRLALo",
+    "https://compworth.com/company/testrigor",
+    "https://getlatka.com/companies/testrigor",
+    "https://startupintros.com/orgs/testrigor"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Testrigor",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/akira_umapro",
+    "https://note.com/engineers_hub/n/ndd33f1753af2",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/akatsuka_loveu/n/n508ace99fa19?hl=en",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Testrigor",
+   "results": [
+    "https://x.com/testrigor/status/1747083365956653164",
+    "https://x.com/nothxern/status/2119679558345695714",
+    "https://x.com/testrigor/status/2021994144952975850",
+    "https://x.com/testrigor/status/1933222765353422892",
+    "https://x.com/GrigoriHeinz/status/2120012825036718161",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Testrigor",
+   "results": [
+    "https://www.linkedin.com/company/testrigor/",
+    "https://www.linkedin.com/products/testrigor/",
+    "https://ar.linkedin.com/in/enzobiancato",
+    "https://www.linkedin.com/in/agolubev",
+    "https://www.linkedin.com/pulse/testrigor-ai-software-testing-nadir-riyani",
+    "https://www.linkedin.com/pulse/vision-ai-how-testrigor-uses-testrigor-scike",
+    "https://www.linkedin.com/pulse/data-driven-testing-how-bring-your-qa-process-next-level-testrigor-cthze"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Testrigor",
+   "results": [
+    "https://www.facebook.com/testRigor/",
+    "https://www.facebook.com/testRigor/posts/what-is-right-sized-ai-in-test-automationdiscover-what-right-sized-ai-in-test-au/1597967655453325/",
+    "https://www.facebook.com/testRigor/posts/-calling-all-testing-professionals-looking-to-expand-your-testing-knowledge-weve/787574919825940/",
+    "https://www.facebook.com/testRigor/posts/how-to-test-for-sql-injections-2026-guidelearn-how-to-test-for-sql-injection-one/1445695104013915/",
+    "https://www.facebook.com/testRigor/posts/all-inclusive-guide-to-test-case-creation-in-testrigorexplore-how-testrigors-ai-/1139266101323485/",
+    "https://www.facebook.com/testRigor/posts/api-contract-testing-a-step-by-step-guide-to-automationlearn-about-api-contract-/1565244208725670/",
+    "https://www.facebook.com/testRigor/posts/ai-model-bias-how-to-detect-and-mitigatelearn-how-to-detect-and-mitigate-ai-mode/1207494801167281/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Testrigor note 社長",
+   "results": [
+    "https://www.linkedin.com/in/agolubev",
+    "https://www.insideorg.com/org/testrigor",
+    "https://www.crunchbase.com/person/artem-golubev",
+    "https://www.linkedin.com/in/enrique-biancato",
+    "https://rocketreach.co/testrigor-management_b5bf95f7f61f2691",
+    "https://www.cbinsights.com/company/testrigor/people",
+    "https://www.thetesttribe.com/author/artemgolubev/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Testrigor X 投稿",
+   "results": [
+    "https://x.com/testrigor",
+    "https://testrigor.com/",
+    "https://blog.csdn.net/weixin_48321392/article/details/139946079",
+    "https://zhuanlan.zhihu.com/p/2019765759396574547",
+    "https://testrigor.com/sign-up/",
+    "https://cloud.tencent.com/developer/article/2431959",
+    "https://app.testrigor.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

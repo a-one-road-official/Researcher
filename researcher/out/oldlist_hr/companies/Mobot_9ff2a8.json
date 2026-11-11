@@ -1,0 +1,1326 @@
+{
+ "name": "Mobot",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial QA robotics｜送付済み",
+ "researched_at": "2026-11-11T05:11:38.860187+00:00",
+ "official_url": "https://www.mobot.io/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Mobot testing robots run your Mobot test cases on real iPhones and Android phones, and a QA analyst verifies every failure before it reaches your team. Your engineers get real, reproducible defects, with no scripts to write or maintain.",
+    "url": "https://www.mobot.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for mobile-first teams whose product depends on the phone: payments, scanning, pairing, notifications.",
+    "url": "https://www.mobot.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven in production with mobile teams",
+    "url": "https://www.mobot.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Scripted frameworks—wherever they run—produce flaky false failures from timing issues, brittle selectors, and environment drift. Teams burn engineering hours triaging failures that aren't bugs.",
+    "url": "https://www.mobot.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Robots execute tests on actual phones and tablets—real taps, real swipes, real sensors—not simulated input events. Hardware-dependent defects are invisible to emulators, and they’re the ones that hit production.",
+    "url": "https://www.mobot.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Every defect is triaged and verified by a Mobot QA analyst before it reaches your team. You only ever see verified, reproducible defects with forensic evidence attached—the noise never makes it to your backlog.",
+    "url": "https://www.mobot.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Every defect comes back verified by a QA analyst, with screenshots from the device, logs and reproduction steps, structured for your engineers and the agents working alongside them.",
+    "url": "https://www.mobot.io/",
+    "pass": 1
+   },
+   {
+    "quote": "A QA analyst verifies every failure before it reaches you—with screenshots from the device, logs, and reproduction steps.",
+    "url": "https://www.mobot.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Mobot connects engineering, QA, and product around a single source of truth: verified defects on real devices. Choose your role to see what changes.",
+    "url": "https://www.mobot.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering teams bogged down by manual processes and script maintenance can’t focus on innovation, leading to slow releases and technical debt.",
+    "url": "https://www.mobot.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Catch issues before they reach users so engineers can prioritize building new features.",
+    "url": "https://www.mobot.io/",
+    "pass": 1
+   },
+   {
+    "quote": "iPhone 18 Pro · iOS 27",
+    "url": "https://www.mobot.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're in engineering, QA, product, or marketing, Mobot drives the outcomes that matter most—faster releases, fewer bugs, reduced costs, and more.",
+    "url": "https://www.mobot.io/",
+    "pass": 1
+   },
+   {
+    "quote": "20M+ Users · Increased device coverage by 2100% · Streamlined test processes",
+    "url": "https://www.mobot.io/",
+    "pass": 1
+   },
+   {
+    "quote": "35M+ Monthly Active Users · Prevented losses from failed marketing flows",
+    "url": "https://www.mobot.io/",
+    "pass": 1
+   },
+   {
+    "quote": "3M+ Global Users · Improved app experience · Enhanced user retention",
+    "url": "https://www.mobot.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Mobot helped MySwimPro reduce our Change Failure Rate by 65% — going from 34% to 12%. With less time spent on triaging and reacting to production defects, we spend more time proactively delivering new features for our members.",
+    "url": "https://www.mobot.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Buy testing actions, point us at your app, see the defect report. Low-friction to start, procurement-friendly.",
+    "url": "https://www.mobot.io/",
+    "pass": 1
+   },
+   {
+    "quote": "See Pricing Structure",
+    "url": "https://www.mobot.io/",
+    "pass": 1
+   },
+   {
+    "quote": "A year of Mobot testing (Q3 2025 – Q2 2026) produced 6,372 unique defects across 83 mobile apps in 11 industries. Here's what the platform actually catches — and where the traps are hiding in your vertical.",
+    "url": "https://www.mobot.io/resources/annual-defect-report",
+    "pass": 1
+   },
+   {
+    "quote": "Broken navigation, missing or blank content, login and authentication failures, payment issues, and crashes account for 57% of every defect Mobot surfaced.",
+    "url": "https://www.mobot.io/resources/annual-defect-report",
+    "pass": 1
+   },
+   {
+    "quote": "Most mobile teams run a patchwork: unit tests in CI, a scripted UI suite on emulators or a device cloud, and a manual pass before release. Each layer is reasonable on its own. Together they leave the same gap, the hardware-dependent scenarios that reach production broken. That is the gap this report measures.",
+    "url": "https://www.mobot.io/resources/annual-defect-report",
+    "pass": 1
+   },
+   {
+    "quote": "Prove the push arrived and the link landed — on a real phone",
+    "url": "https://www.mobot.io/solutions/push-notifications-deep-linking",
+    "pass": 1
+   },
+   {
+    "quote": "Push delivery depends on a real device registered with a real carrier network and an OS-level notification service. Simulators can receive sandbox pushes, but not on a real phone with a real carrier network and production delivery, so arrival on your users’ devices is never proven. Deep links are resolved by the real OS handoff, which a scripted framework can only approximate.",
+    "url": "https://www.mobot.io/solutions/push-notifications-deep-linking",
+    "pass": 1
+   },
+   {
+    "quote": "Links that 404, open a webview login, or land on the home screen instead of the promotion",
+    "url": "https://www.mobot.io/solutions/push-notifications-deep-linking",
+    "pass": 1
+   },
+   {
+    "quote": "Growth and marketing teams running paid campaigns, product teams shipping re-engagement flows, and engineering teams tired of “works on my simulator.”",
+    "url": "https://www.mobot.io/solutions/push-notifications-deep-linking",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how to test multi-device messaging on iOS effectively with this comprehensive guide on setup, scenarios, automated and manual testing techniques.",
+    "url": "https://www.mobot.io/solutions/push-notifications-deep-linking",
+    "pass": 1
+   },
+   {
+    "quote": "OS pairing prompt handled on the device — simulators have no radio to pair with.",
+    "url": "https://www.mobot.io/solutions/bluetooth-connected-devices",
+    "pass": 1
+   },
+   {
+    "quote": "Health and fitness, fintech and payments hardware, automotive, smart home, and any team whose app is only half the product — this is Mobot’s most uncontested ground.",
+    "url": "https://www.mobot.io/solutions/bluetooth-connected-devices",
+    "pass": 1
+   },
+   {
+    "quote": "Face ID, Touch ID, 2FA, and checkout — verified on the secure enclave, not auto-approved",
+    "url": "https://www.mobot.io/solutions/biometrics-payments",
+    "pass": 1
+   },
+   {
+    "quote": "The moment money moves is the moment users judge your app. Simulators auto-approve the biometric prompt and stub the payment sheet, so the flows with the highest stakes get the least real coverage. Mobot exercises them on real hardware, end to end.",
+    "url": "https://www.mobot.io/solutions/biometrics-payments",
+    "pass": 1
+   },
+   {
+    "quote": "Real taps through the real product flow.",
+    "url": "https://www.mobot.io/solutions/biometrics-payments",
+    "pass": 1
+   },
+   {
+    "quote": "Face ID / Touch ID on the secure enclave — simulators auto-approve and verify nothing.",
+    "url": "https://www.mobot.io/solutions/biometrics-payments",
+    "pass": 1
+   },
+   {
+    "quote": "A simulator’s biometric prompt is fiction: it auto-approves without a secure enclave. Payment sheets, 2FA codes, and third-party auth handoffs are stubbed or skipped, and a scripted framework has no way to present a real face or a real card.",
+    "url": "https://www.mobot.io/solutions/biometrics-payments",
+    "pass": 1
+   },
+   {
+    "quote": "Face ID and Touch ID exercised on the secure enclave, not auto-approved.",
+    "url": "https://www.mobot.io/solutions/biometrics-payments",
+    "pass": 1
+   },
+   {
+    "quote": "How to Use Charles Proxy for Network Logging and Network Throttling on iOS and Android",
+    "url": "https://www.mobot.io/solutions/biometrics-payments",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how to capture and analyze network logs on iOS and Android with Charles Proxy to debug APIs, troubleshoot connectivity issues, and optimize app performance.",
+    "url": "https://www.mobot.io/solutions/biometrics-payments",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Test plans can exercise in-app purchases and checkout with real cards on real devices, against your sandbox or production endpoints as you prefer.",
+    "url": "https://www.mobot.io/solutions/biometrics-payments",
+    "pass": 1
+   },
+   {
+    "quote": "Biometric flows run on the real secure enclave with strategic human intervention where the OS requires a live person — the prompt, the enclave, and the app’s response are all real.",
+    "url": "https://www.mobot.io/solutions/biometrics-payments",
+    "pass": 1
+   },
+   {
+    "quote": "Robots present real barcodes, documents, and scenes to the real camera; move between Wi-Fi and LTE; and run flows under real locations and locales. Analysts verify capture, decode, upload, and the app’s behavior when conditions change mid-flow.",
+    "url": "https://www.mobot.io/solutions/camera-sensors-location",
+    "pass": 1
+   },
+   {
+    "quote": "Uploads that stall when the device moves from Wi-Fi to LTE",
+    "url": "https://www.mobot.io/solutions/camera-sensors-location",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Real checks are presented to the real camera, and the capture, quality checks, and submission are verified end to end.",
+    "url": "https://www.mobot.io/solutions/camera-sensors-location",
+    "pass": 1
+   },
+   {
+    "quote": "Devices move between Wi-Fi and LTE, and into low-signal conditions, while a flow is in progress. Analysts verify what the app does when the connection changes.",
+    "url": "https://www.mobot.io/solutions/camera-sensors-location",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Test plans can run under different locations and locales to verify location-gated features and localized content.",
+    "url": "https://www.mobot.io/solutions/camera-sensors-location",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile teams on weekly or faster release cadence, QA leads rationing coverage, and engineering leaders who want the pre-release week back.",
+    "url": "https://www.mobot.io/solutions/release-regression-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Video and audio behavior when a real call interrupts the app.",
+    "url": "https://www.mobot.io/solutions/release-regression-testing",
+    "pass": 1
+   },
+   {
+    "quote": "How to Use Charles Proxy for Network Logging and Network Throttling on iOS and Android",
+    "url": "https://www.mobot.io/solutions/release-regression-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how to capture and analyze network logs on iOS and Android with Charles Proxy to debug APIs, troubleshoot connectivity issues, and optimize app performance.",
+    "url": "https://www.mobot.io/solutions/release-regression-testing",
+    "pass": 1
+   },
+   {
+    "quote": "They stop at the analyst. Every failure is reviewed and reproduced before it is reported; a result that isn’t a real defect is never forwarded to your team.",
+    "url": "https://www.mobot.io/solutions/release-regression-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Mobot Unlimited removes the per-run meter entirely, so teams run every release candidate and every nightly build across the full matrix.",
+    "url": "https://www.mobot.io/solutions/release-regression-testing",
+    "pass": 1
+   },
+   {
+    "quote": "The moment money moves is the moment users judge your app. Simulators auto-approve the biometric prompt and stub the payment sheet, so the flows with the highest stakes get the least real coverage. Mobot exercises them on real hardware, end to end.",
+    "url": "https://www.mobot.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Sim: biometric prompt auto-approved. Fiction.",
+    "url": "https://www.mobot.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Sim: delivery stubbed. Arrival never proven.",
+    "url": "https://www.mobot.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Face ID and Touch ID exercised on the secure enclave, not auto-approved.",
+    "url": "https://www.mobot.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Video and audio behavior when a real call interrupts the app.",
+    "url": "https://www.mobot.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "See how teams are using Mobot to deliver world-class products under budget and on time — with defects caught on real devices before they reach users.",
+    "url": "https://www.mobot.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Streamlined test processes",
+    "url": "https://www.mobot.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Rappi partnered with Mobot to streamline testing for hundreds of marketing workflows, including complex handoffs between websites, ads, and the Rappi app. By using robotic testing and computer vision, they resolved \"silent\" conversion drops, boosting app performance and conversion rates, turning QA into a revenue driver.",
+    "url": "https://www.mobot.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Prevented losses from failed marketing flows",
+    "url": "https://www.mobot.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Optimized marketing processes",
+    "url": "https://www.mobot.io/customers",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by Leading Mobile Teams",
+    "url": "https://www.mobot.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready for the agentic software factory",
+    "url": "https://www.mobot.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Leading Mobile Teams",
+    "url": "https://www.mobot.io/resources/annual-defect-report",
+    "pass": 1
+   },
+   {
+    "quote": "Health and fitness, fintech and payments hardware, automotive, smart home, and any team whose app is only half the product — this is Mobot’s most uncontested ground.",
+    "url": "https://www.mobot.io/solutions/bluetooth-connected-devices",
+    "pass": 1
+   },
+   {
+    "quote": "This case study is sourced from",
+    "url": "https://www.mobot.io/customers/how-rappi-scaled-martech-qa-with-computer-vision-and-robots",
+    "pass": 1
+   },
+   {
+    "quote": "Welcome to our very first TMW case study!",
+    "url": "https://www.mobot.io/customers/how-rappi-scaled-martech-qa-with-computer-vision-and-robots",
+    "pass": 1
+   },
+   {
+    "quote": "In this case study, we’ll walk through how Satya not only scaled the Martech QA process using computer vision and robots, but turned QA into a profit-driving initiative with champions throughout the business, rather than just a cost center.",
+    "url": "https://www.mobot.io/customers/how-rappi-scaled-martech-qa-with-computer-vision-and-robots",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by mobile teams",
+    "url": "https://www.mobot.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "また、2024年1月24日から2024年1月26日にかけて東京ビッグサイトで行われる、Factory Innovation Week 2024の第8回スマート工場EXPOにIPLUS MOBOT社が出展いたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000076807.html",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Emulators and simulators structurally cannot exercise push notifications, Bluetooth, biometrics, camera hardware, or carrier network transitions—so they pass tests that fail in the real world.",
+    "url": "https://www.mobot.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Within 3 months of working with Mobot, Sandboxx's App Store rating increased from 4.2 to 4.8. Can't say enough about how much better I feel with each release now that Mobot is part of the pipeline. Our stability rating for iOS is now at 99.9%.",
+    "url": "https://www.mobot.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Mobot’s earlier Mobile Pass/Fail Feature Report looked at which feature classes fail most often on real devices: camera, payments, biometrics, push, deep links, Bluetooth and backgrounding. These fail in ways that only appear on real hardware, and they are the features users notice first when they break. The Annual Defect Report carries that feature-level view forward.",
+    "url": "https://www.mobot.io/resources/annual-defect-report",
+    "pass": 1
+   },
+   {
+    "quote": "Prove the push arrived and the link landed — on a real phone",
+    "url": "https://www.mobot.io/solutions/push-notifications-deep-linking",
+    "pass": 1
+   },
+   {
+    "quote": "A push that never arrives, or a deep link that opens the wrong screen, quietly breaks the moment that was supposed to bring a user back into your app. Mobot verifies the entire path — server, APNs/FCM, device, tap, destination — on real hardware.",
+    "url": "https://www.mobot.io/solutions/push-notifications-deep-linking",
+    "pass": 1
+   },
+   {
+    "quote": "Push delivery depends on a real device registered with a real carrier network and an OS-level notification service. Simulators can receive sandbox pushes, but not on a real phone with a real carrier network and production delivery, so arrival on your users’ devices is never proven. Deep links are resolved by the real OS handoff, which a scripted framework can only approximate.",
+    "url": "https://www.mobot.io/solutions/push-notifications-deep-linking",
+    "pass": 1
+   },
+   {
+    "quote": "Data that arrives out of order or not at all under real interference",
+    "url": "https://www.mobot.io/solutions/bluetooth-connected-devices",
+    "pass": 1
+   },
+   {
+    "quote": "A push that never arrives, a link that opens the wrong screen",
+    "url": "https://www.mobot.io/solutions/bluetooth-connected-devices",
+    "pass": 1
+   },
+   {
+    "quote": "2FA codes that arrive but never auto-fill, stranding users at the gate",
+    "url": "https://www.mobot.io/solutions/biometrics-payments",
+    "pass": 1
+   },
+   {
+    "quote": "A push that never arrives, a link that opens the wrong screen",
+    "url": "https://www.mobot.io/solutions/biometrics-payments",
+    "pass": 1
+   },
+   {
+    "quote": "Check deposit, barcode and QR scanning, document capture, AR, geolocation, and carrier handoffs all depend on hardware a simulator replaces with a mock. Mobot puts real inputs in front of real sensors and verifies what the app does with them.",
+    "url": "https://www.mobot.io/solutions/camera-sensors-location",
+    "pass": 1
+   },
+   {
+    "quote": "Location, carrier handoffs, Wi-Fi ↔ LTE, and dead zones.",
+    "url": "https://www.mobot.io/solutions/camera-sensors-location",
+    "pass": 1
+   },
+   {
+    "quote": "A push that never arrives, a link that opens the wrong screen",
+    "url": "https://www.mobot.io/solutions/camera-sensors-location",
+    "pass": 1
+   },
+   {
+    "quote": "A push that never arrives, a link that opens the wrong screen",
+    "url": "https://www.mobot.io/solutions/release-regression-testing",
+    "pass": 1
+   },
+   {
+    "quote": "A push that never arrives, a link that opens the wrong screen",
+    "url": "https://www.mobot.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "A push that never arrives, or a deep link that opens the wrong screen, quietly breaks the moment that was supposed to bring a user back into your app. Mobot verifies the entire path — server, APNs/FCM, device, tap, destination — on real hardware.",
+    "url": "https://www.mobot.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Check deposit, barcode and QR scanning, document capture, AR, geolocation, and carrier handoffs all depend on hardware a simulator replaces with a mock. Mobot puts real inputs in front of real sensors and verifies what the app does with them.",
+    "url": "https://www.mobot.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "APNs/FCM → carrier → device → tap → deep link.",
+    "url": "https://www.mobot.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Sim: delivery stubbed. Arrival never proven.",
+    "url": "https://www.mobot.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Carrier handoffs, wifi↔LTE, dead zones.",
+    "url": "https://www.mobot.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Location, carrier handoffs, Wi-Fi ↔ LTE, and dead zones.",
+    "url": "https://www.mobot.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Rappi partnered with Mobot to streamline testing for hundreds of marketing workflows, including complex handoffs between websites, ads, and the Rappi app. By using robotic testing and computer vision, they resolved \"silent\" conversion drops, boosting app performance and conversion rates, turning QA into a revenue driver.",
+    "url": "https://www.mobot.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“Can’t say enough about how much better I feel with each release now that Mobot is part of the pipeline. Our stability rating for iOS is now at 99.9%!!!”",
+    "url": "https://www.mobot.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Within 3 months of working with Mobot, Sandboxx's App Store rating increased from 4.2 to 4.8. Can't say enough about how much better I feel with each release now that Mobot is part of the pipeline. Our stability rating for iOS is now at 99.9%.",
+    "url": "https://www.mobot.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "It's the cost of one escaped defect — a payment that fails on Face ID, a push that never arrives, a Bluetooth pairing that hangs — plus the engineering hours a scripted suite quietly consumes, against a program that catches the defect first and asks nothing of your engineers.",
+    "url": "https://www.mobot.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "With the scale of Homebase’s platform, given their unique user roles between owners and employees, web and mobile platforms, and multiple feature sets across HR, payroll, scheduling, and time-tracking, Homebase had created an expansive platform that required wide testing efforts across different operating systems.",
+    "url": "https://www.mobot.io/customers/homebase-mobile-qa-automation-with-mobot",
+    "pass": 1
+   },
+   {
+    "quote": "12 million users are spread across a large array of device and OS combinations",
+    "url": "https://www.mobot.io/customers/how-the-1-neobank-used-mobot-to-eliminate-manual-testing",
+    "pass": 1
+   },
+   {
+    "quote": "QA as a revenue driver.",
+    "url": "https://www.mobot.io/customers/how-rappi-scaled-martech-qa-with-computer-vision-and-robots",
+    "pass": 1
+   },
+   {
+    "quote": "The most painful part of the process.",
+    "url": "https://www.mobot.io/customers/how-rappi-scaled-martech-qa-with-computer-vision-and-robots",
+    "pass": 1
+   },
+   {
+    "quote": "Over the course of just 4 months, Mobot discovered over 600 links with abnormalities, providing full documentation of each P0 and P1 issue with screenshots linked to each action. This allowed our customer to easily prioritize issues critical in nature that were impacting user engagement and revenue growth.",
+    "url": "https://www.mobot.io/customers/how-a-top-10-social-network-bolstered-user-activations-with-deep-link-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "We built Mobot because push notifications, Bluetooth, biometrics, deep links, and IoT integrations are where user trust is won or lost — and they're the part of the stack that scripted automation and simulators structurally can't cover. Every defect we report is real, and we find the ones nobody else can.",
+    "url": "https://www.mobot.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "A push that never arrives, a link that opens the wrong screen",
+    "url": "https://www.mobot.io/schedule-demo",
+    "pass": 1
+   },
+   {
+    "quote": "A push that never arrives, a link that opens the wrong screen",
+    "url": "https://www.mobot.io/customers/batch-partners-with-mobot-to-eliminate-manual-testing-across-thousands-of-mobile-test-cases",
+    "pass": 1
+   },
+   {
+    "quote": "When we introduced the first iteration of Mobot, it transformed how our users interacted with their data. By translating natural language into precise queries, it broke down technical barriers and proved that AI could radically accelerate search workflows. It was a massive step forward, but it was just the start.",
+    "url": "https://www.sumologic.com/blog/mobot-your-log-analysis-partner",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "6,372 real bugs across 83 apps and 11 industries. See what actually breaks in your vertical — free, gated with a work email.",
+    "url": "https://www.mobot.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock the full report with your work email.",
+    "url": "https://www.mobot.io/resources/annual-defect-report",
+    "pass": 1
+   },
+   {
+    "quote": "ADB deep link command examples for Android: open a URI with am start, verify App Links, and test email, SMS and push on real devices.",
+    "url": "https://www.mobot.io/solutions/push-notifications-deep-linking",
+    "pass": 1
+   },
+   {
+    "quote": "Yes — search, social, email, SMS, QR, and in-app. Links are opened the way a user opens them, from the real source app or message, on a real device.",
+    "url": "https://www.mobot.io/solutions/push-notifications-deep-linking",
+    "pass": 1
+   },
+   {
+    "quote": "Deep link bugs documented across email & push",
+    "url": "https://www.mobot.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": ". Work email required on the form below.",
+    "url": "https://www.mobot.io/schedule-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Or email us directly at sales@teammobot.com",
+    "url": "https://www.mobot.io/schedule-demo",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本では松下記念病院がパナソニックと共同で、病院内の薬剤部から各病棟や救急外来に薬剤を無人運搬する自律搬送ロボット「ホスピー」を開発",
+    "url": "http://bkup-global-hr-online.r-cms.jp/manage/detail/id=311",
+    "pass": 3
+   },
+   {
+    "quote": "日本型「同一労働・同一賃金」のスタンダードな位置づけは？",
+    "url": "http://bkup-global-hr-online.r-cms.jp/manage/detail/id=311",
+    "pass": 3
+   },
+   {
+    "quote": "アジアに進出する日本企業が直面する人事における3つの課題とは？",
+    "url": "http://bkup-global-hr-online.r-cms.jp/manage/detail/id=311",
+    "pass": 3
+   },
+   {
+    "quote": "東京海上日動／「AIロボット保険」提供へ、機体損害や稼働停止等のリスク補償",
+    "url": "https://www.lnews.jp/2024/01/q0124505.html",
+    "pass": 3
+   },
+   {
+    "quote": "ギークプラス／ミスミの西日本流通センターに「PopPick」導入、自動化を支援",
+    "url": "https://www.lnews.jp/2024/01/q0124505.html",
+    "pass": 3
+   },
+   {
+    "quote": "ラピュタロボティクス／日本通運の静岡支店・沼津物流センターで「ラピュタPA-AMR」が稼働",
+    "url": "https://www.lnews.jp/2024/01/q0124505.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本AIセンターHD／カゴ車に自動ドッキング、新開発の搬送ロボ「Noruno Atlas」を公開",
+    "url": "https://www.lnews.jp/2024/01/q0124505.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ロジファクトリー／埼玉県草加市に医療材料の物流機能担う新拠点を稼働",
+    "url": "https://www.lnews.jp/2024/01/q0124505.html",
+    "pass": 3
+   },
+   {
+    "quote": "イー・ロジット、IPLUS MOBOTと業務提携契約を締結 | 株式会社イー・ロジットのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000076807.html",
+    "pass": 3
+   },
+   {
+    "quote": "Eコマース領域におけるBPOサービス及びコンサルティングサービスを提供する株式会社イー・ロジット（本社：東京都千代田区、代表取締役社長CEO：谷辻昌也）は、生産性の向上・DX推進施策の一環として、自律走行搬送ロボット（Autonomous Mobile Robot、以下「AMR」とする",
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000076807.html",
+    "pass": 3
+   },
+   {
+    "quote": "昨今、EC市場の拡大による物流量の増加と人手不足の深刻化により、日本に限らず世界的に、物流搬送の自動化需要が高まっております",
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000076807.html",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、品質面の要求が最も高い市場の一つである日本市場を重視されており、2023年6月に日本法人を立ち上げ、Japan Qualityを意識した商品開発を行っております",
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000076807.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、2024年1月24日から2024年1月26日にかけて東京ビッグサイトで行われる、Factory Innovation Week 2024の第8回スマート工場EXPOにIPLUS MOBOT社が出展いたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000076807.html",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.fiweek.jp/tokyo/ja-jp/lp/visit/sfe/ad.html?utm_source=google&utm_medium=cpc&utm_content=8975929658_20794616800_164394658708_685813230176_kwd-583838055023&utm_campaign=&utm_term=p_%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%20%E5%B7%A5%E5%A0%B4%20expo&gad_source=1&gclid=CjwKCAiA5L2tBhBTEiwAdSxJX9iMSUr3wchKIcj2IeFuqoPqabQAKtuNaGE1joi4G9cT37ws1tbSHBoCLoYQAvD_BwE",
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000076807.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社イー・ロジットはECフルフィルメントのBPOサービス事業者として、2000年の創業以来、累計1,700社を超えるクライアント企業と取引してまいりました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000076807.html",
+    "pass": 3
+   },
+   {
+    "quote": "所在地 東京都千代田区外神田3丁目11番11号 CIRCLES秋葉原６階および７階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000076807.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都千代田区外神田3丁目11番11号",
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000076807.html",
+    "pass": 3
+   },
+   {
+    "quote": "IPLUSMOBOTアイプラスモボット株式会社",
+    "url": "https://www.iplusmobot.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "100年前に日本で設立され、現在は年間6318億円の売上を誇るお客様が世界中に有名な事務機器メーカーであります",
+    "url": "https://www.iplusmobot.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカ、ドイツ、イギリス、イタリア、日本と韓国などではトップ一位の市場シェアが持っています",
+    "url": "https://www.iplusmobot.jp/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "新しい Mobot をご紹介します：ログ分析のパートナー — 新しい Mobot をご紹介します：ログ分析のパートナー Sumo Logic https://www.sumologic.com > blog > mobot-your-log-ana...",
+    "url": "https://www.sumologic.com/ja/blog/mobot-your-log-analysis-partner",
+    "pass": 3
+   },
+   {
+    "quote": "未来の同僚は自律型移動ロボット？「モボット（ Mobot ）」 — 未来の同僚は自律型移動ロボット？「モボット（ Mobot ）」 bkup-global-hr-online.r-cms.jp http://bkup-global-hr-online.r-cms.jp > manage > detail",
+    "url": "http://bkup-global-hr-online.r-cms.jp/manage/detail/id=311",
+    "pass": 3
+   },
+   {
+    "quote": "イー・ロジット／AMRの運用等でIPLUS MOBOT と業務提携 — イー・ロジット／AMRの運用等でIPLUS MOBOT と業務提携 物流ニュースのLNEWS https://www.lnews.jp > 2024/01",
+    "url": "https://www.lnews.jp/2024/01/q0124505.html",
+    "pass": 3
+   },
+   {
+    "quote": "IPLUSMOBOTアイプラスモボット株式会社 — IPLUSMOBOTアイプラスモボット株式会社 アイプラスモボット株式会社 https://www.iplusmobot.jp",
+    "url": "https://www.iplusmobot.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "イー・ロジット、IPLUS MOBOT と業務提携契約を締結 — イー・ロジット、IPLUS MOBOT と業務提携契約を締結 PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000076807.html",
+    "pass": 3
+   },
+   {
+    "quote": "MOBOT | Leader in Personal Mobility — MOBOT | Leader in Personal Mobility mobot.sg https://www.mobot.sg",
+    "url": "https://www.mobot.sg/",
+    "pass": 3
+   },
+   {
+    "quote": "MOBOT - YouTube — MOBOT - YouTube YouTube https://www.youtube.com > @MobotSg",
+    "url": "https://www.youtube.com/@MobotSg",
+    "pass": 3
+   },
+   {
+    "quote": "MOBOT (@mobotnation) • Instagram photos and videos — MOBOT (@mobotnation) • Instagram photos and videos Instagram https://www.instagram.com > mobotn...",
+    "url": "https://www.instagram.com/mobotnation/",
+    "pass": 3
+   },
+   {
+    "quote": "Mobot : Mobile App Testing on Real iOS and Android Devices — Mobot : Mobile App Testing on Real iOS and Android Devices mobot.io https://www.mobot.io",
+    "url": "https://www.mobot.io/",
+    "pass": 3
+   },
+   {
+    "quote": "MOBOT （モボット） — MOBOT （モボット） fine-produce.jp https://fine-produce.jp > 商品情報",
+    "url": "https://fine-produce.jp/product/mobot/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers & Case Studies | Mobot — Customers & Case Studies | Mobot mobot.io https://www.mobot.io > customers",
+    "url": "https://www.mobot.io/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Meet the new Mobot : Your log analysis partner - Sumo Logic — Meet the new Mobot : Your log analysis partner - Sumo Logic Sumo Logic https://www.sumologic.com > blog",
+    "url": "https://www.sumologic.com/blog/mobot-your-log-analysis-partner",
+    "pass": 3
+   },
+   {
+    "quote": "MOBOT - LinkedIn Singapore — MOBOT - LinkedIn Singapore LinkedIn Singapore https://sg.linkedin.com > mobotsg",
+    "url": "https://sg.linkedin.com/company/mobotsg",
+    "pass": 3
+   },
+   {
+    "quote": "An Illustrated History of the Missouri Botanical Garden — An Illustrated History of the Missouri Botanical Garden Missouri Botanical Garden https://www.mobot.org > archives > f...",
+    "url": "https://www.mobot.org/mobot/archives/fulltext_images.asp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "MO Botanical Garden (@mobotgarden) / X MO Botanical Garden (@mobotgarden) / X X https://x.com > mobotgarden",
+    "url": "https://x.com/mobotgarden",
+    "pass": 3
+   },
+   {
+    "quote": "Sachs Museum at Missouri Botanical Garden - X Sachs Museum at Missouri Botanical Garden - X X https://x.com > MobotMuseum",
+    "url": "https://x.com/MobotMuseum",
+    "pass": 3
+   },
+   {
+    "quote": "DealBee Lifestyle Deals on X: \"Portronics Mobot 4 Universal ... DealBee Lifestyle Deals on X: \"Portronics Mobot 4 Universal ... X https://x.com > @Deal_Bee",
+    "url": "https://x.com/Deal_Bee/status/2119405074959175739",
+    "pass": 3
+   },
+   {
+    "quote": "MO Botanical Garden - X MO Botanical Garden - X X https://x.com > @mobotgarden",
+    "url": "https://x.com/mobotgarden/status/2103877262361698512",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Mobot | LinkedIn Mobot | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/team-mobot",
+    "pass": 3
+   },
+   {
+    "quote": "MOBOT - LinkedIn MOBOT - LinkedIn LinkedIn https://www.linkedin.com > mobot-inc",
+    "url": "https://www.linkedin.com/company/mobot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Eden Full Goh - Founder & Chief Product Officer at Mobot Eden Full Goh - Founder & Chief Product Officer at Mobot LinkedIn https://www.linkedin.com > edenfull",
+    "url": "https://www.linkedin.com/in/edenfull",
+    "pass": 3
+   },
+   {
+    "quote": "MOBOT - LinkedIn Singapore MOBOT - LinkedIn Singapore LinkedIn Singapore https://sg.linkedin.com > mobotsg",
+    "url": "https://sg.linkedin.com/company/mobotsg",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Mobot | Singapore Singapore - Facebook Mobot | Singapore Singapore - Facebook Facebook https://www.facebook.com > ... > Sports & recreation",
+    "url": "https://www.facebook.com/MobotSG/",
+    "pass": 3
+   },
+   {
+    "quote": "Mobot on Reels - Facebook Mobot on Reels - Facebook Facebook https://www.facebook.com > ... > Mobot > Videos",
+    "url": "https://www.facebook.com/MobotSG/videos/httpswwwmobotsg/1618137556672979/",
+    "pass": 3
+   },
+   {
+    "quote": "Wear Your MOBOT Exoskeleton in 4 Simple Steps Tutorial ... Wear Your MOBOT Exoskeleton in 4 Simple Steps Tutorial ... Facebook https://www.facebook.com > Mobot > Videos",
+    "url": "https://www.facebook.com/MobotSG/videos/-%F0%9D%97%AA%F0%9D%97%98%F0%9D%97%94%F0%9D%97%A5-%F0%9D%97%AC%F0%9D%97%A2%F0%9D%97%A8%F0%9D%97%A5-%F0%9D%97%A0%F0%9D%97%A2%F0%9D%97%95%F0%9D%97%A2%F0%9D%97%A7-%F0%9D%97%98%F0%9D%97%AB%F0%9D%97%A2%F0%9D%97%A6%F0%9D%97%9E%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%98%F0%9D%97%A7%F0%9D%97%A2%F0%9D%97%A1-%F0%9D%97%9C%F0%9D%97%A1-%F0%9D%9F%B0-%F0%9D%97%A6%F0%9D%97%9C%F0%9D%97%A0%F0%9D%97%A3%F0%9D%97%9F%F0%9D%97%98-%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%A3%F0%9D%97%A6-think-putting-on-an-exoskeleton-i/2006748019982574/",
+    "pass": 3
+   },
+   {
+    "quote": "3 Levels of Motorised Mobility Aids for Seniors by MOBOT 3 Levels of Motorised Mobility Aids for Seniors by MOBOT Facebook https://www.facebook.com > ... > Mobot > Videos",
+    "url": "https://www.facebook.com/MobotSG/videos/-%F0%9D%97%AA%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%96%F0%9D%97%9B-%F0%9D%97%A0%F0%9D%97%A2%F0%9D%97%95%F0%9D%97%9C%F0%9D%97%9F%F0%9D%97%9C%F0%9D%97%A7%F0%9D%97%AC-%F0%9D%97%94%F0%9D%97%9C%F0%9D%97%97-%F0%9D%97%9C%F0%9D%97%A6-%F0%9D%97%A5%F0%9D%97%9C%F0%9D%97%9A%F0%9D%97%9B%F0%9D%97%A7-%F0%9D%97%99%F0%9D%97%A2%F0%9D%97%A5-%F0%9D%97%AC%F0%9D%97%A2%F0%9D%97%A8%F0%9D%97%A5-%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%9F%F0%9D%97%AC-%F0%9D%97%9F%F0%9D%97%A2%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%97-%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%A6not-all-seniors-have-the/1786177295993427/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mobot.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobot.io/resources/annual-defect-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobot.io/solutions/push-notifications-deep-linking",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobot.io/solutions/bluetooth-connected-devices",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobot.io/solutions/biometrics-payments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobot.io/solutions/camera-sensors-location",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobot.io/solutions/release-regression-testing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobot.io/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobot.io/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobot.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobot.io/customers/homebase-mobile-qa-automation-with-mobot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobot.io/customers/how-the-1-neobank-used-mobot-to-eliminate-manual-testing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobot.io/customers/how-rappi-scaled-martech-qa-with-computer-vision-and-robots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobot.io/customers/how-a-top-10-social-network-bolstered-user-activations-with-deep-link-monitoring",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobot.io/customers/how-sandboxx-maintains-a-99-9-crash-free-rate-with-mobot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobot.io/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobot.io/schedule-demo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobot.io/customers/batch-partners-with-mobot-to-eliminate-manual-testing-across-thousands-of-mobile-test-cases",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.sumologic.com/ja/blog/mobot-your-log-analysis-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://bkup-global-hr-online.r-cms.jp/manage/detail/id=311",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://waymo.com/intl/jp/waymo-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lnews.jp/2024/01/q0124505.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000076807.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iplusmobot.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-app.jp/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobot.sg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/@MobotSg",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/mobotnation/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.sumologic.com/blog/mobot-your-log-analysis-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.motoman.com/en-us/about/media-center/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sg.linkedin.com/company/mobotsg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://webinone.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/missouri-botanical-garden",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reveliolabs.com/companies/missouri-botanical-garden/employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobot.org/mobot/archives/fulltext_images.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/missouri-botanical-garden/24134224",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mobotgarden",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MobotMuseum",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Deal_Bee/status/2119405074959175739",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mobotgarden/status/2103877262361698512",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/team-mobot",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mobot-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/edenfull",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/company/mobotsg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MobotSG/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MobotSG/videos/httpswwwmobotsg/1618137556672979/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MobotSG/videos/-%F0%9D%97%AA%F0%9D%97%98%F0%9D%97%94%F0%9D%97%A5-%F0%9D%97%AC%F0%9D%97%A2%F0%9D%97%A8%F0%9D%97%A5-%F0%9D%97%A0%F0%9D%97%A2%F0%9D%97%95%F0%9D%97%A2%F0%9D%97%A7-%F0%9D%97%98%F0%9D%97%AB%F0%9D%97%A2%F0%9D%97%A6%F0%9D%97%9E%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%98%F0%9D%97%A7%F0%9D%97%A2%F0%9D%97%A1-%F0%9D%97%9C%F0%9D%97%A1-%F0%9D%9F%B0-%F0%9D%97%A6%F0%9D%97%9C%F0%9D%97%A0%F0%9D%97%A3%F0%9D%97%9F%F0%9D%97%98-%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%A3%F0%9D%97%A6-think-putting-on-an-exoskeleton-i/2006748019982574/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MobotSG/videos/-%F0%9D%97%AA%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%96%F0%9D%97%9B-%F0%9D%97%A0%F0%9D%97%A2%F0%9D%97%95%F0%9D%97%9C%F0%9D%97%9F%F0%9D%97%9C%F0%9D%97%A7%F0%9D%97%AC-%F0%9D%97%94%F0%9D%97%9C%F0%9D%97%97-%F0%9D%97%9C%F0%9D%97%A6-%F0%9D%97%A5%F0%9D%97%9C%F0%9D%97%9A%F0%9D%97%9B%F0%9D%97%A7-%F0%9D%97%99%F0%9D%97%A2%F0%9D%97%A5-%F0%9D%97%AC%F0%9D%97%A2%F0%9D%97%A8%F0%9D%97%A5-%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%9F%F0%9D%97%AC-%F0%9D%97%9F%F0%9D%97%A2%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%97-%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%A6not-all-seniors-have-the/1786177295993427/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mobot 日本 導入",
+   "results": [
+    "https://www.sumologic.com/ja/blog/mobot-your-log-analysis-partner",
+    "http://bkup-global-hr-online.r-cms.jp/manage/detail/id=311",
+    "https://waymo.com/intl/jp/waymo-in-japan/",
+    "https://www.lnews.jp/2024/01/q0124505.html",
+    "https://www.iplusmobot.jp/",
+    "https://prtimes.jp/main/html/rd/p/000000028.000076807.html",
+    "https://www.youtube.com/watch?v=x3tb7Fonizc",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://markezine.jp/news/detail/73093",
+    "https://ec-bpo.e-logit.com/file/イー・ロジット、IPLUS-MOBOTと業務提携契約を締結.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Mobot 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000028.000076807.html",
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.iplusmobot.jp/",
+    "https://gmo-app.jp/partner/",
+    "https://www.marubeni-automotive.co.jp/business/import/",
+    "https://mjtrike.com/retailer-agent/",
+    "https://ictr.co.jp/report/%E3%80%90%E6%A5%AD%E7%95%8C%E3%83%88%E3%83%94%E3%83%83%E3%82%AF%E3%82%B9%E3%80%91gmo-air%E3%80%81unitree%E3%81%A8%E4%BB%A3%E7%90%86%E5%BA%97%E5%A5%91%E7%B4%84%E3%80%82%E8%B2%A9%E5%A3%B2%E3%81%8B.html/",
+    "https://www.kaking.jp/agent/",
+    "https://ecnomikata.com/blog/51120/",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Mobot Japan",
+   "results": [
+    "https://www.mobot.sg/",
+    "https://www.youtube.com/@MobotSg",
+    "https://www.instagram.com/mobotnation/",
+    "https://www.mobot.io/",
+    "https://fine-produce.jp/product/mobot/",
+    "https://www.facebook.com/MobotSG/about/",
+    "https://www.decathlon.sg/c/mobot.html?srsltid=AYCX9vL7kdnNSU9nfFRn__5MTXQ10oRzaoYnE4gXgc3ha8rIQgeIzK23",
+    "https://x.com/mobotnation",
+    "https://www.missouribotanicalgarden.org/events-classes/signature-events/japanese-festival",
+    "https://www.mobot.io/about"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Mobot manufacturing customer case study",
+   "results": [
+    "https://www.mobot.io/customers",
+    "https://www.sumologic.com/blog/mobot-your-log-analysis-partner",
+    "https://www.motoman.com/en-us/about/media-center/case-studies",
+    "https://sg.linkedin.com/company/mobotsg",
+    "https://motioncontrolsrobotics.com/about/case-studies/",
+    "https://www.mobot.sg/pages/about-us",
+    "https://techcrunch.com/2022/08/15/mobot-secures-capital-to-grow-its-fleet-of-robots-that-bug-test-mobile-apps/",
+    "https://kawasakirobotics.com/case-studies/",
+    "https://www.productiverobotics.com/case-studies",
+    "https://www.casestudies.com/company/mobot"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Mobot white label OR reseller OR partner program",
+   "results": [
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://webinone.com/reseller-program",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://seedlycrm.com/blog/white-label-crm-playbook",
+    "https://www.missouribotanicalgarden.org/donate/corporate-partners/benefits",
+    "https://help.socialintents.com/article/245-chatbot-white-label-reseller-program-setup",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Mobot founded funding employees revenue",
+   "results": [
+    "https://www.linkedin.com/company/missouri-botanical-garden",
+    "https://www.reveliolabs.com/companies/missouri-botanical-garden/employees",
+    "https://www.mobot.org/mobot/archives/fulltext_images.asp",
+    "https://www.zoominfo.com/c/missouri-botanical-garden/24134224",
+    "https://www.missouribotanicalgarden.org/about/additional-information/annual-strategic-reports.aspx",
+    "https://tracxn.com/d/companies/mobot/__QfTL3D3daz4dOr2XJ_QnevKBGiUUjad5QwRoZgqOCdo",
+    "https://en.wikipedia.org/wiki/Missouri_Botanical_Garden",
+    "https://botany.org/home/governance/procedures.html",
+    "https://projects.propublica.org/nonprofits/organizations/430666759",
+    "https://prospeo.io/c/mobot-revenue"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Mobot",
+   "results": [
+    "https://note.com/tears_in_rain/n/n9d6ef967c456",
+    "https://note.com/junsakamoto",
+    "https://note.com/carlife416/n/ne28a38e6753b",
+    "https://note.com/funteractive_inc/n/nda0e6f1aa746",
+    "https://note.com/mabuhayhappily/n/n9e9981cba2d3?hl=en",
+    "https://note.com/shizuko_fujii/n/n43cd547bcf72",
+    "https://note.com/alive_poppy9910/n/n9bf50e352f38",
+    "https://note.com/clever_broom28/n/n3a548a51f85f?hl=ko",
+    "https://note.com/nyalra2/n/n0ff7f11ab564",
+    "https://note.com/morethanwords/n/ncd1e715a2a85"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com Mobot",
+   "results": [
+    "https://x.com/mobotgarden",
+    "https://x.com/MobotMuseum",
+    "https://x.com/Deal_Bee/status/2119405074959175739",
+    "https://x.com/mobotgarden/status/2103877262361698512",
+    "https://x.com/xmedardc/status/2117881570618966279",
+    "https://x.com/Mo_Farah/status/900351641458622464",
+    "https://x.com/areasvellas/status/1125133078085685255",
+    "https://x.com/SumoLogic",
+    "https://x.com/ButterflyHse/status/1422210916561661955/photo/1",
+    "https://x.com/teammobot"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Mobot",
+   "results": [
+    "https://www.linkedin.com/company/team-mobot",
+    "https://www.linkedin.com/company/mobot-inc",
+    "https://www.linkedin.com/in/edenfull",
+    "https://sg.linkedin.com/company/mobotsg",
+    "https://www.linkedin.com/in/lani-cooper-aa8621118",
+    "https://www.linkedin.com/in/sam-friedman-54a749b2",
+    "https://www.linkedin.com/posts/team-mobot_women-in-tech-statistics-the-latest-research-activity-7198392819177136128-5O6z",
+    "https://jo.linkedin.com/company/mobot-inc",
+    "https://www.linkedin.com/in/callmelewis",
+    "https://www.linkedin.com/company/mobot-hk/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Mobot",
+   "results": [
+    "https://www.facebook.com/MobotSG/",
+    "https://www.facebook.com/MobotSG/videos/httpswwwmobotsg/1618137556672979/",
+    "https://www.facebook.com/MobotSG/videos/-%F0%9D%97%AA%F0%9D%97%98%F0%9D%97%94%F0%9D%97%A5-%F0%9D%97%AC%F0%9D%97%A2%F0%9D%97%A8%F0%9D%97%A5-%F0%9D%97%A0%F0%9D%97%A2%F0%9D%97%95%F0%9D%97%A2%F0%9D%97%A7-%F0%9D%97%98%F0%9D%97%AB%F0%9D%97%A2%F0%9D%97%A6%F0%9D%97%9E%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%98%F0%9D%97%A7%F0%9D%97%A2%F0%9D%97%A1-%F0%9D%97%9C%F0%9D%97%A1-%F0%9D%9F%B0-%F0%9D%97%A6%F0%9D%97%9C%F0%9D%97%A0%F0%9D%97%A3%F0%9D%97%9F%F0%9D%97%98-%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%A3%F0%9D%97%A6-think-putting-on-an-exoskeleton-i/2006748019982574/",
+    "https://www.facebook.com/MobotSG/videos/-%F0%9D%97%AA%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%96%F0%9D%97%9B-%F0%9D%97%A0%F0%9D%97%A2%F0%9D%97%95%F0%9D%97%9C%F0%9D%97%9F%F0%9D%97%9C%F0%9D%97%A7%F0%9D%97%AC-%F0%9D%97%94%F0%9D%97%9C%F0%9D%97%97-%F0%9D%97%9C%F0%9D%97%A6-%F0%9D%97%A5%F0%9D%97%9C%F0%9D%97%9A%F0%9D%97%9B%F0%9D%97%A7-%F0%9D%97%99%F0%9D%97%A2%F0%9D%97%A5-%F0%9D%97%AC%F0%9D%97%A2%F0%9D%97%A8%F0%9D%97%A5-%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%9F%F0%9D%97%AC-%F0%9D%97%9F%F0%9D%97%A2%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%97-%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%A6not-all-seniors-have-the/1786177295993427/",
+    "https://www.facebook.com/MobotSG/videos/-%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%8C%F0%9D%90%84%F0%9D%90%93%F0%9D%90%87%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%86-%F0%9D%90%86%F0%9D%90%91%F0%9D%90%8E%F0%9D%90%94%F0%9D%90%8D%F0%9D%90%83%F0%9D%90%81%F0%9D%90%91%F0%9D%90%84%F0%9D%90%80%F0%9D%90%8A%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%86-%F0%9D%90%87%F0%9D%90%80%F0%9D%90%92-%F0%9D%90%89%F0%9D%90%94%F0%9D%90%92%F0%9D%90%93-%F0%9D%90%80%F0%9D%90%91%F0%9D%90%91%F0%9D%90%88%F0%9D%90%95%F0%9D%90%84%F0%9D%90%83-%F0%9D%90%80%F0%9D%90%93-%F0%9D%90%8C%F0%9D%90%8E%F0%9D%90%81%F0%9D%90%8E%F0%9D%90%93introducing-a-whole-new-categ/2152019285671491/",
+    "https://www.facebook.com/MobotSG/videos/-%F0%9D%90%8C%F0%9D%90%8E%F0%9D%90%81%F0%9D%90%8E%F0%9D%90%93-%F0%9D%90%91%F0%9D%90%8E%F0%9D%90%95%F0%9D%90%80-%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%93%F0%9D%90%84-%F0%9D%90%82%F0%9D%90%8E%F0%9D%90%8C%F0%9D%90%8F%F0%9D%90%80%F0%9D%90%82%F0%9D%90%93-%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%86%F0%9D%90%87%F0%9D%90%93%F0%9D%90%96%F0%9D%90%84%F0%9D%90%88%F0%9D%90%86%F0%9D%90%87%F0%9D%90%93-%F0%9D%90%8B%F0%9D%90%93%F0%9D%90%80-%F0%9D%90%80%F0%9D%90%8F%F0%9D%90%8F%F0%9D%90%91%F0%9D%90%8E%F0%9D%90%95%F0%9D%90%84%F0%9D%90%83looking-for-a-mobility-scooter-/1029546519536537/",
+    "https://www.facebook.com/MobotSG/posts/%F0%9D%97%A0%F0%9D%97%A2%F0%9D%97%95%F0%9D%97%A2%F0%9D%97%A7-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%97%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%83%F0%9D%97%B2-%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%AF%F0%9D%97%BC%F0%9D%97%BB-lightweight-ai-electric-wheelchair-with-lidar-obstacle-avo/1125801133341142/",
+    "https://www.facebook.com/MobotSG/videos/httpswwwmobotsg/2352252352395234/",
+    "https://www.facebook.com/mobotwoodlands/",
+    "https://www.facebook.com/MobotSG/videos/-%F0%9D%90%8C%F0%9D%90%8E%F0%9D%90%81%F0%9D%90%8E%F0%9D%90%93-%F0%9D%90%92%F0%9D%9F%91-%F0%9D%90%84-%F0%9D%90%81%F0%9D%90%88%F0%9D%90%8A%F0%9D%90%84-%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%8B%F0%9D%90%98-%F0%9D%9F%8F%F0%9D%9F%91%F0%9D%9F%97%F0%9D%9F%97-looking-for-a-stylish-powerful-and-foldable-e-bike-fo/40012887218357440/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Mobot note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://www.sumologic.com/ja/infographic/mobot",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://x.com/sadaaki",
+    "https://diamond.jp/articles/-/388572",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://note.com/monovate/m/ma3a154c406f5",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Mobot X 投稿",
+   "results": [
+    "https://www.youtube.com/@MobotSg",
+    "https://www.tiktok.com/@mobot.sg",
+    "https://www.youtube.com/shorts/xTVmRh4NSdY",
+    "https://www.instagram.com/mobotsg/",
+    "https://www.mobot.io/terms",
+    "https://www.facebook.com/MobotSG/videos/httpswwwmobotsgcollectionsai-exoskeleton/1787422505906129/",
+    "https://www.youtube.com/shorts/7HLz8RNUC3M",
+    "https://www.mobot.pl/en/",
+    "https://x.com/MObot12135",
+    "https://x.com/Mobot__"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部34頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部34頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

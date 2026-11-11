@@ -1,0 +1,1298 @@
+{
+ "name": "Labdoor",
+ "aliases": [],
+ "context": "旧営業リスト｜Quality Control / Inspection｜AUMS不適合",
+ "researched_at": "2026-11-11T05:19:05.320281+00:00",
+ "official_url": "https://labdoor.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒455-0863 名古屋市港区新茶屋3-318",
+    "url": "https://wp.standage.co.jp/2025/05/22/recognised20250519/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都港区",
+    "url": "https://wp.standage.co.jp/2025/05/22/recognised20250519/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：明治15年",
+    "url": "https://wp.standage.co.jp/2025/05/22/recognised20250519/",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "8. Equity Crowdfunding",
+    "value": "01-Oct-2022    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/54701-38",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Find quality supplements with minimal effort. Our experts test products and give you the results for free.",
+    "url": "https://labdoor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Know which products are effective and safe. Then, confidently buy what's best for you.",
+    "url": "https://labdoor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "More science, less marketing.",
+    "url": "https://labdoor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We independently buy supplements from retail stores and test them in chemistry labs. Then we publish the results and expert reviews for free, so you can buy the right products for you.",
+    "url": "https://labdoor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturer Partners - Labdoor for Business Enterprise.",
+    "url": "https://labdoor.com/enterprise/manufacturer-partners",
+    "pass": 1
+   },
+   {
+    "quote": "- Your Premier Private Label Supplement Manufacturer.",
+    "url": "https://labdoor.com/enterprise/manufacturer-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Proprietary laboratories with cGMP-mandated raw material testing, label analysis and final product quality assurance.",
+    "url": "https://labdoor.com/enterprise/manufacturer-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you have a starting project or multiple products with large needs, you can expect to be treated as a partner at SMP Nutra.",
+    "url": "https://labdoor.com/enterprise/manufacturer-partners",
+    "pass": 1
+   },
+   {
+    "quote": "How to get Labdoor’s special pricing.",
+    "url": "https://labdoor.com/enterprise/manufacturer-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Get started today and take advantage of our partnership discounts. Click on the “Get Started” button below and fill out the form so one of our representatives can get in touch with you.",
+    "url": "https://labdoor.com/enterprise/manufacturer-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Labdoor is an independent company that tests supplements. We find out whether products have what they claim and if they have any harmful ingredients or contaminants. Then, we grade and rank those products, write reports, and publish that information for free, so consumers can confidently buy the best supplements for their health.",
+    "url": "https://labdoor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "How does Labdoor test products?",
+    "url": "https://labdoor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We buy products off retail shelves and online sites. Then, we send a sample of each product to an FDA-registered laboratory for a detailed chemical analysis, which includes measurements of active ingredients and potential contaminants.",
+    "url": "https://labdoor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "How does Labdoor grade products?",
+    "url": "https://labdoor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We calculate a Quality score for each product using their label claims and laboratory testing results. Quality scores are comprised of individual scores for Label Accuracy, Product Purity, Nutritional Value, Ingredient Safety, and Projected Efficacy.",
+    "url": "https://labdoor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We're open to science-based conversations with all manufacturers. If you'd like to learn more about a specific product review or have additional data to support a product’s claims, please send us a message at",
+    "url": "https://labdoor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "How often does Labdoor test products?",
+    "url": "https://labdoor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We strive to add at least one new product category to our site every month and update existing categories at least once every 24 months.",
+    "url": "https://labdoor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "How does Labdoor decide what products to test?",
+    "url": "https://labdoor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "First, we prioritize new product categories based on the number of people following each of our",
+    "url": "https://labdoor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Then, we select products based on market research of popular supplements plus a tally of votes for specific products whenever we receive direct suggestions from consumers. To request a product for testing, please email",
+    "url": "https://labdoor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Is Labdoor a non-profit or for-profit organization?",
+    "url": "https://labdoor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Labdoor is a mission-driven, for-profit company. We are dedicated to helping consumers better understand the products they entrust with their health. In service of this mission, we believe that a for-profit model built, first and foremost, for the consumer helps us best achieve this goal.",
+    "url": "https://labdoor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We do not accept contributions or donations of any kind from manufacturers to rank products on our site.",
+    "url": "https://labdoor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Labdoor makes money in two ways. First, we receive a portion of every dollar spent by consumers who purchase products directly from our site. Second, we offer",
+    "url": "https://labdoor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "for companies that need independent validation of their product quality",
+    "url": "https://labdoor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Why does Labdoor sell products? How does it stay unbiased?",
+    "url": "https://labdoor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "This business model aligns our interests with consumers and allows us to provide more services for free to you. We add “Buy it now\" links to products on our site whenever possible, regardless of their grades, to maximize your purchasing options. More than 15 million people have shopped on our site, supporting the testing of hundreds of new products.",
+    "url": "https://labdoor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Does Labdoor provide professional medical advice?",
+    "url": "https://labdoor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "No. Labdoor is not intended to be a substitute for professional medical advice from licensed health professionals. Always consult your physician or other qualified health provider with any questions you may have regarding specific products, diagnoses, or treatments.",
+    "url": "https://labdoor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Why does Labdoor sell products?",
+    "url": "https://labdoor.com/about/business-model",
+    "pass": 1
+   },
+   {
+    "quote": "We launched our first \"verified commerce\" experiment in November 2013, and it quickly became the most popular feature on our site. More than 15 million people have since shopped on our site, supporting the testing of hundreds of new products.",
+    "url": "https://labdoor.com/about/business-model",
+    "pass": 1
+   },
+   {
+    "quote": "Our promise to consumers",
+    "url": "https://labdoor.com/about/business-model",
+    "pass": 1
+   },
+   {
+    "quote": "We will never sell a product we have not tested.",
+    "url": "https://labdoor.com/about/business-model",
+    "pass": 1
+   },
+   {
+    "quote": "We always prioritize data quality over product quantity.",
+    "url": "https://labdoor.com/about/business-model",
+    "pass": 1
+   },
+   {
+    "quote": "We will never favor a specific product.",
+    "url": "https://labdoor.com/about/business-model",
+    "pass": 1
+   },
+   {
+    "quote": "Every product in each category is chosen, tested, and graded using the same criteria. We test. You decide.",
+    "url": "https://labdoor.com/about/business-model",
+    "pass": 1
+   },
+   {
+    "quote": "We work for you, and we take that responsibility seriously. No threats of lawsuits or offers of cash can change our principles.",
+    "url": "https://labdoor.com/about/business-model",
+    "pass": 1
+   },
+   {
+    "quote": "You ensure more products are tested.",
+    "url": "https://labdoor.com/about/business-model",
+    "pass": 1
+   },
+   {
+    "quote": "We will have to earn your trust with every new purchase. Labdoor will only survive as long as it is the best, most trusted source of product data and rankings.",
+    "url": "https://labdoor.com/about/business-model",
+    "pass": 1
+   },
+   {
+    "quote": "Our testing process - Labdoor",
+    "url": "https://labdoor.com/about/testing",
+    "pass": 1
+   },
+   {
+    "quote": "We select products for testing.",
+    "url": "https://labdoor.com/about/testing",
+    "pass": 1
+   },
+   {
+    "quote": "We select products based on market research of popular supplements plus a tally of votes for specific products whenever we receive direct suggestions from consumers.",
+    "url": "https://labdoor.com/about/testing",
+    "pass": 1
+   },
+   {
+    "quote": "We purchase those products.",
+    "url": "https://labdoor.com/about/testing",
+    "pass": 1
+   },
+   {
+    "quote": "We buy products through major retail stores and online sites, just like the everyday consumer. Labdoor does not accept samples from manufacturers for grading or ranking purposes.",
+    "url": "https://labdoor.com/about/testing",
+    "pass": 1
+   },
+   {
+    "quote": "Analytical chemistry assays are performed on samples of each product at an FDA-registered lab. Default analyses include measurements of active ingredients and potential contaminants.",
+    "url": "https://labdoor.com/about/testing",
+    "pass": 1
+   },
+   {
+    "quote": "We calculate a Quality score using laboratory results and label claims from each product. Quality scores are comprised of individual scores for Label Accuracy, Product Purity, Nutritional Value, Ingredient Safety, and Projected Efficacy.",
+    "url": "https://labdoor.com/about/testing",
+    "pass": 1
+   },
+   {
+    "quote": "Products are ranked by overall Quality and by Value through a paired matching of Quality scores and price.",
+    "url": "https://labdoor.com/about/testing",
+    "pass": 1
+   },
+   {
+    "quote": "Our scoring process - Labdoor",
+    "url": "https://labdoor.com/about/scores",
+    "pass": 1
+   },
+   {
+    "quote": "Labdoor's Label Accuracy score is based on a product’s measured levels of active ingredients vs. its label claims.",
+    "url": "https://labdoor.com/about/scores",
+    "pass": 1
+   },
+   {
+    "quote": "Labdoor's Product Purity score is based on a product's contaminant levels.",
+    "url": "https://labdoor.com/about/scores",
+    "pass": 1
+   },
+   {
+    "quote": "Proposition 65 FAQs",
+    "url": "https://labdoor.com/about/scores",
+    "pass": 1
+   },
+   {
+    "quote": "Labdoor's Nutritional Value score is based on levels of a product's macronutrients and other supporting nutrients.",
+    "url": "https://labdoor.com/about/scores",
+    "pass": 1
+   },
+   {
+    "quote": "Labdoor's Ingredient Safety score is based on whether a product has: 1) active ingredients at unsafe levels and/or 2) additives with potential health risk.",
+    "url": "https://labdoor.com/about/scores",
+    "pass": 1
+   },
+   {
+    "quote": "Each product's additives, or excipients, are also evaluated for their potential effects on human health. These ingredients are assigned weights based on FDA \"Generally Recognized As Safe\" (GRAS) status, research surrounding their safety, and the severity of their potential risks. Related penalties are then applied to final Ingredient Safety scores.",
+    "url": "https://labdoor.com/about/scores",
+    "pass": 1
+   },
+   {
+    "quote": "Labdoor's Projected Efficacy score is based on a product's active ingredients, their levels, and their specific biochemical properties.",
+    "url": "https://labdoor.com/about/scores",
+    "pass": 1
+   },
+   {
+    "quote": "*Because research evolves, we actively adopt new testing and scoring methods to ensure that our information is up-to-date. We also regularly re-test existing products and test new ones. As such, we retain the right to update our scoring algorithms, product data, and rankings at any time. Updates are published",
+    "url": "https://labdoor.com/about/scores",
+    "pass": 1
+   },
+   {
+    "quote": "Press Inquiries - Labdoor",
+    "url": "https://labdoor.com/about/press",
+    "pass": 1
+   },
+   {
+    "quote": "Press Releases & Announcements",
+    "url": "https://labdoor.com/about/press",
+    "pass": 1
+   },
+   {
+    "quote": "For Labdoor's most recent press releases and announcements, please visit our Announcements page:",
+    "url": "https://labdoor.com/about/press",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Count on us to be on your side. Our testing is free from manufacturer bias and always will be.",
+    "url": "https://labdoor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturer Partners - Labdoor for Business Enterprise.",
+    "url": "https://labdoor.com/enterprise/manufacturer-partners",
+    "pass": 1
+   },
+   {
+    "quote": "- Your Premier Private Label Supplement Manufacturer.",
+    "url": "https://labdoor.com/enterprise/manufacturer-partners",
+    "pass": 1
+   },
+   {
+    "quote": "State of the art industrial HVAC systems keeping air filtered, clean, humidity and temperature controlled.",
+    "url": "https://labdoor.com/enterprise/manufacturer-partners",
+    "pass": 1
+   },
+   {
+    "quote": "We're open to science-based conversations with all manufacturers. If you'd like to learn more about a specific product review or have additional data to support a product’s claims, please send us a message at",
+    "url": "https://labdoor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We do not accept contributions or donations of any kind from manufacturers to rank products on our site.",
+    "url": "https://labdoor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We will never allow manufacturers to influence our ratings.",
+    "url": "https://labdoor.com/about/business-model",
+    "pass": 1
+   },
+   {
+    "quote": "We buy products through major retail stores and online sites, just like the everyday consumer. Labdoor does not accept samples from manufacturers for grading or ranking purposes.",
+    "url": "https://labdoor.com/about/testing",
+    "pass": 1
+   },
+   {
+    "quote": "Labdoor also offers testing services to supplement manufacturers, assessing \"accuracy\", \"purity\", and \"sport\".",
+    "url": "https://en.wikipedia.org/wiki/Labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "As of August 2016, Labdoor allows manufacturers to challenge a report of a product by re-testing the product, or opt-out of having any reports of the manufacturer's products published on Labdoor's website.",
+    "url": "https://en.wikipedia.org/wiki/Labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Commission",
+    "url": "https://en.wikipedia.org/wiki/Labdoor",
+    "pass": 3
+   },
+   {
+    "quote": ". It buys products through retail stores and online sites rather than accepting manufacturer samples for consumer rankings, then sends samples to an FDA-registered lab for analytical chemistry assays measuring active ingredients and potential contaminants",
+    "url": "https://biobase.whitefordresearch.com/companies/labdoor",
+    "pass": 3
+   },
+   {
+    "quote": ". The company states that it does not accept manufacturer contributions or donations to rank products and says every product in a category is chosen, tested, and graded using the same criteria",
+    "url": "https://biobase.whitefordresearch.com/companies/labdoor",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "- Your Premier Private Label Supplement Manufacturer.",
+    "url": "https://labdoor.com/enterprise/manufacturer-partners",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Yes. Labdoor is an independent company funded by revenue generated through our website and by investments from a group of angel investors and venture capitalists, led by Rock Health, Mark Cuban, Y Combinator, and Floodgate.",
+    "url": "https://labdoor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We don't need to rely on subscriptions for our revenue, so we can offer you much more information for free.",
+    "url": "https://labdoor.com/about/business-model",
+    "pass": 1
+   },
+   {
+    "quote": "The materials appearing on Labdoor's Site could include technical, typographical, or photographic errors. Labdoor does not warrant that any of the materials on its Site are accurate, complete, or current. Labdoor may make changes to the materials contained on its Site at any time without notice. Labdoor does not, however, make any commitment to update the materials.",
+    "url": "https://labdoor.com/about/legal/terms-of-use",
+    "pass": 1
+   },
+   {
+    "quote": "企業向けクラウドで15年に上場したBOXは提携先でありながら、投資家として前回ラウンドに参加していたりします",
+    "url": "https://note.com/noxomi/n/ncc32b4f90329",
+    "pass": 3
+   },
+   {
+    "quote": "\"Ann Arbor CEO surprises employees with $1.5 million in holiday bonuses\"",
+    "url": "https://en.wikipedia.org/wiki/Labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "Chamber for Workers and Employees",
+    "url": "https://en.wikipedia.org/wiki/Labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "Labdoor says it is a mission-driven, for-profit company whose consumer reports are funded by commerce revenue and testing services",
+    "url": "https://biobase.whitefordresearch.com/companies/labdoor",
+    "pass": 3
+   },
+   {
+    "quote": ". Its \"verified commerce\" model lets consumers buy tested products through Labdoor, with revenue used to support additional product testing and free publication of rankings",
+    "url": "https://biobase.whitefordresearch.com/companies/labdoor",
+    "pass": 3
+   },
+   {
+    "quote": ". Labdoor states that it is funded by website-generated revenue and investments from angel investors and venture capitalists led by Rock Health, Mark Cuban, Y Combinator, and Floodgate",
+    "url": "https://biobase.whitefordresearch.com/companies/labdoor",
+    "pass": 3
+   },
+   {
+    "quote": ". Public financing sources identify Seed rounds in 2013 and 2015, a Series A in 2016, and a small Wefunder community round in 2022. No Series B, Series C, IPO, acquisition, or disclosed valuation was found in the reviewed sources; Wellfound displays \"$0 valuation\" for the listed rounds, which appears to mean valuation undisclosed rather than a literal company valuation",
+    "url": "https://biobase.whitefordresearch.com/companies/labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "Labdoor remains listed as active by Y Combinator, and the Labdoor website continues to present consumer supplement rankings and enterprise testing services",
+    "url": "https://biobase.whitefordresearch.com/companies/labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/54701-38",
+    "pass": 3
+   },
+   {
+    "quote": "Labdoor has 5 total employees.",
+    "url": "https://pitchbook.com/profiles/company/54701-38",
+    "pass": 3
+   },
+   {
+    "quote": "What is Labdoor’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/54701-38",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Labdoor is",
+    "url": "https://pitchbook.com/profiles/company/54701-38",
+    "pass": 3
+   },
+   {
+    "quote": "Labdoor Revenue 2024: $532.7K Est.",
+    "url": "https://getlatka.com/companies/labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "Labdoor has not published its revenue. GetLatka estimates it at about $532.7K a year (October 2024).",
+    "url": "https://getlatka.com/companies/labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "Labdoor CEO, founders & employees",
+    "url": "https://getlatka.com/companies/labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "Niel Thanedar founded Labdoor in 2012 and runs it as CEO. Labdoor had 10 employees (October 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "What is Labdoor's revenue?",
+    "url": "https://getlatka.com/companies/labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Labdoor's revenue at about",
+    "url": "https://getlatka.com/companies/labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Labdoor have?",
+    "url": "https://getlatka.com/companies/labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "Labdoor's investors include Floodgate, 8-Bit Capital, Creandum, Harrison Metal, Ligature, Otherwise Fund, Sherpalo Ventures, Zetta Venture Partners, Alexander Ljung, Eric Quidenus-Wahlforss, Eric Ries, Jason Lemkin.",
+    "url": "https://startupintros.com/orgs/labdoor",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Then, we select products based on market research of popular supplements plus a tally of votes for specific products whenever we receive direct suggestions from consumers. To request a product for testing, please email",
+    "url": "https://labdoor.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Members of media are invited to contact us by email:",
+    "url": "https://labdoor.com/about/press",
+    "pass": 1
+   },
+   {
+    "quote": "If you have any questions about this Terms of Use, please email",
+    "url": "https://labdoor.com/about/legal/terms-of-use",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/54701-38",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本からアメリカへ戻る人も要注意、渡航歴に関係なく「宣誓書」の提出が必須に",
+    "url": "https://www.dailysunny.com/2023/08/31/otoku230831/",
+    "pass": 3
+   },
+   {
+    "quote": "このあたりは日本でも同じような現象がありそうですね",
+    "url": "https://note.com/noxomi/n/ncc32b4f90329",
+    "pass": 3
+   },
+   {
+    "quote": "日本でも、トレーニング系Youtuberの方が同サービスを紹介していたり",
+    "url": "https://note.com/noxomi/n/ncc32b4f90329",
+    "pass": 3
+   },
+   {
+    "quote": "オンラインコーチングのサービスが日本でもボコボコ出てきているので、認知行動療法にフォーカスしたこのスタートアップにも合わせてご注目あれ、という感じです！",
+    "url": "https://note.com/noxomi/n/ncc32b4f90329",
+    "pass": 3
+   },
+   {
+    "quote": "「おまかせ貿易」顧客のサプリメントが、アメリカの独立機関からA評価を獲得 | 株式会社STANDAGEのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000122.000033629.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社STANDAGE（東京都港区、代表取締役：足立彰紀、以下スタンデージ）が提供する「おまかせ貿易」を利用し海外展開に取り組む森川健康堂株式会社（熊本県上益城郡、代表取締役：森川俊美、以下森川健康堂）の製品が、アメリカの独立機関Labdoor（米サンフランシスコ）からA評価を獲得しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000122.000033629.html",
+    "pass": 3
+   },
+   {
+    "quote": "森川健康堂は健康補助食品の製造および販売を行う日本の企業であり、今回、子ども向けサプリメント「KIDS IQ サプリ」で高評価を受けました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000122.000033629.html",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカ進出への一歩として大きなメリットがありますが、日本国内ではLabdoorの認知度が高くなく、また申請の難易度も高いという理由で、日本製品の掲載はあまり多くありません",
+    "url": "https://prtimes.jp/main/html/rd/p/000000122.000033629.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後、海外への販路開拓が日本での売り上げにもいい影響をもたらしてくれることを願っています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000122.000033629.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区芝公園1-6-7",
+    "url": "https://prtimes.jp/main/html/rd/p/000000122.000033629.html",
+    "pass": 3
+   },
+   {
+    "quote": "「おまかせ貿易」導入企業・株式会社かわばたが食品安全規格JFS-Bの適合証明を取得 | STANDAGE（スタンデージ）",
+    "url": "https://wp.standage.co.jp/2025/05/22/recognised20250519/",
+    "pass": 3
+   },
+   {
+    "quote": "「おまかせ貿易」導入企業・株式会社かわばたが食品安全規格JFS-Bの適合証明を取得",
+    "url": "https://wp.standage.co.jp/2025/05/22/recognised20250519/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社STANDAGE（東京都港区、代表取締役：足立彰紀、以下スタンデージ）が提供する中小企業向け輸出支援サービス「おまかせ貿易」の導入企業である株式会社かわばた（愛知県名古屋市、代表取締役：川端安利、以下かわばた）は、2025年5月、一般財団法人食品安全マネジメント協会が開発・運営する「JFS-B規格」（JFSM 登録番号:JFS-B25003212-00）の適合証明を取得しました",
+    "url": "https://wp.standage.co.jp/2025/05/22/recognised20250519/",
+    "pass": 3
+   },
+   {
+    "quote": "JFS-B規格は、日本初の食品安全マネジメント規格で、HACCP（危害要因分析・重要管理点）の考え方に加え、FMS（食品安全マネジメントシステム）やGMP（適正製造規格）といった概念も取り入れた衛生管理体制を評価するものです",
+    "url": "https://wp.standage.co.jp/2025/05/22/recognised20250519/",
+    "pass": 3
+   },
+   {
+    "quote": "スタンデージは2022年より日本企業の海外販路開拓を一気通貫で支援するサービス「おまかせ貿易」の提供を通じ、顧客のニーズに応じて海外営業代行、海外マーケティング、EC運用代行など、マーケティングと営業の両面から多角的に支援し、国内300社近くの海外進出をサポートしています",
+    "url": "https://wp.standage.co.jp/2025/05/22/recognised20250519/",
+    "pass": 3
+   },
+   {
+    "quote": "■大手も取得する日本発の食品安全規格「JFS-B規格」取得の背景",
+    "url": "https://wp.standage.co.jp/2025/05/22/recognised20250519/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "神戸からのデジタルヘルスレポート #5 (DrChrono/ Labdoor ... — 神戸からのデジタルヘルスレポート #5 (DrChrono/ Labdoor ... note https://note.com > 健康・医療 > 医療関連科学・技術",
+    "url": "https://note.com/noxomi/n/ncc32b4f90329",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer Partners - Labdoor for Business Enterprise. — Manufacturer Partners - Labdoor for Business Enterprise. Labdoor https://labdoor.com > enterprise > ma...",
+    "url": "https://labdoor.com/enterprise/manufacturer-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Labdoor for Business Enterprise — Labdoor for Business Enterprise Labdoor https://labdoor.com > enterprise",
+    "url": "https://labdoor.com/enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "Labdoor : Supplement Ratings and Reviews — Labdoor : Supplement Ratings and Reviews Labdoor https://labdoor.com",
+    "url": "https://labdoor.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Labdoor - LinkedIn — Labdoor - LinkedIn LinkedIn https://www.linkedin.com > labdoor",
+    "url": "https://www.linkedin.com/company/labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "Labdoor - Wikipedia — Labdoor - Wikipedia Wikipedia https://en.wikipedia.org > Labdoor",
+    "url": "https://en.wikipedia.org/wiki/Labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "Labdoor Certification Standards — Labdoor Certification Standards Labdoor https://labdoor.com > standards",
+    "url": "https://labdoor.com/enterprise/certifications/standards",
+    "pass": 3
+   },
+   {
+    "quote": "Labdoor (@ labdoor ) • Instagram photos and videos — Labdoor (@ labdoor ) • Instagram photos and videos Instagram https://www.instagram.com > labdoor",
+    "url": "https://www.instagram.com/labdoor/?hl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Labdoor — Whiteford Research Biobase — Labdoor Overview Labdoor is a consumer health company focused on independent testing and ranking of dietary supplements. The company describes itself as an independent supplement-testing organization that checks whether products contain what their labels claim and whether they include harmful ingredients or contaminants, then publishes grades, rankings, and r",
+    "url": "https://biobase.whitefordresearch.com/companies/labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "Labdoor - 2025 Company Profile, Team, Funding & Competitors ...Labdoor 2026 Company Profile: Valuation, Funding & Investors ...Labdoor Revenue 2024: $532.7K Est. - LATKALabdoor: Funding, Team & Investors | Startup IntrosLabdoor — Whiteford Research BiobaseLabdoor, Inc. Company Profile: Financials, Valuation, and ...About us - Labdoor — Jul 29, 2025 · Labdoor - About the company Labdoor is a series",
+    "url": "https://tracxn.com/d/companies/labdoor/__Srl70RqPO1shekhXofdrUoryqWlemH765ytYMY0xV14",
+    "pass": 3
+   },
+   {
+    "quote": "Labdoor 2026 Company Profile: Valuation, Funding & Investors ...Labdoor Revenue 2024: $532.7K Est. - LATKALabdoor: Funding, Team & Investors | Startup IntrosLabdoor — Whiteford Research BiobaseLabdoor, Inc. Company Profile: Financials, Valuation, and ...About us - Labdoor — Information on valuation, funding, cap tables, investors, and executives for Labdoor. Use the PitchBook Platform to explore t",
+    "url": "https://pitchbook.com/profiles/company/54701-38",
+    "pass": 3
+   },
+   {
+    "quote": "Labdoor Revenue 2024: $532.7K Est. - LATKA — Aug 10, 2026 · Who is the CEO of Labdoor? Niel Thanedar is the CEO of Labdoor and founded the company in 2012.",
+    "url": "https://getlatka.com/companies/labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "Labdoor: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Labdoor has raised a total of $6.75 million in capital, including a Wefunder SAFE round in late 2022 at a $20 million valuation, and previously participated in the Rock Health incubator. As of 2022, the company reported $412,000 in revenue and maintains a team of 11 employees.",
+    "url": "https://startupintros.com/orgs/labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "Labdoor — Whiteford Research Biobase — Labdoor states that it is funded by website-generated revenue and investments from angel investors and venture capitalists led by Rock Health, Mark Cuban, Y Combinator, and Floodgate [1].",
+    "url": "https://biobase.whitefordresearch.com/companies/labdoor",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "神戸からのデジタルヘルスレポート #5 (DrChrono/Labdoor/Naluri Hidu... Jul 7, 2019 · Labdoorは2012年にRock Healthを、2015年にY Combinatorを卒業しています。 Labdoorが検証した製品のみのマーケットプレイスも運営しており、もともとは送客・アフィリエイトが収益の中心でしたが、近年は自社で在庫を抱えて直販を始めています。",
+    "url": "https://note.com/noxomi/n/ncc32b4f90329",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "神戸からのデジタルヘルスレポート #5 (DrChrono/Labdoor/Naluri Hidup/Alodokter/Reify Health)｜田中志",
+    "url": "https://note.com/noxomi/n/ncc32b4f90329",
+    "pass": 3
+   },
+   {
+    "quote": "神戸からのデジタルヘルスレポート #5 (DrChrono/Labdoor/Naluri Hidup/Alodokter/Reify Health)",
+    "url": "https://note.com/noxomi/n/ncc32b4f90329",
+    "pass": 3
+   },
+   {
+    "quote": "ひっそりエイベックス社の新規事業コンテストで賞を頂いたりしました。ありがたいです。",
+    "url": "https://note.com/noxomi/n/ncc32b4f90329",
+    "pass": 3
+   },
+   {
+    "quote": "先週は第4回とイスラエルデジタルヘルススタートアップの紹介と大忙しでしたが、今回は通常営業で区切りの第5回です！",
+    "url": "https://note.com/noxomi/n/ncc32b4f90329",
+    "pass": 3
+   },
+   {
+    "quote": "今回も元気にデジタルヘルススタートアップを紹介していきます！",
+    "url": "https://note.com/noxomi/n/ncc32b4f90329",
+    "pass": 3
+   },
+   {
+    "quote": "1. DrChrono：4千万人以上参加のEHRプラットフォーム",
+    "url": "https://note.com/noxomi/n/ncc32b4f90329",
+    "pass": 3
+   },
+   {
+    "quote": "Debt Financing（$10m、2018年12月）",
+    "url": "https://note.com/noxomi/n/ncc32b4f90329",
+    "pass": 3
+   },
+   {
+    "quote": "EHR。Electronic Health Record。電子健康記録。普段生活をしていると聞き慣れない言葉ですが、デジタルヘルスの領域ではここ何年も取り組まれているテーマです。",
+    "url": "https://note.com/noxomi/n/ncc32b4f90329",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Labdoor (@Labdoor) / X Labdoor independently tests and ranks supplements, so consumers can research, find, and buy the best supplements.",
+    "url": "https://x.com/Labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "Labdoor Date (@LabdoorD) / X 6 143 Labdoor Date @LabdoorD Mar 26 เพลงมันคงไม่เหี้ยเท่าเมนมึงและมึง mollie @mollyjinji Mar 26 Fan account Replying to @mollyjinji",
+    "url": "https://x.com/LabdoorD",
+    "pass": 3
+   },
+   {
+    "quote": "Neil Thanedar - Founder at Labdoor and Positive Politics Neil Thanedar - Founder at Labdoor and Positive Politics REPLAY Charles Cormier, CEO @ gtm.ventures @charlescormier0 Neil Thanedar - Founder at Labdoor and Positive Politics",
+    "url": "https://x.com/i/broadcasts/1MJgNbPXVRMGL",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by Labdoor Date (@LabdoorD) / X Tarantino. Out Oct 23. Pre-order ️ lnk.to/LisaStore Pre-save ⏯️ lisa.lnk.to/PRESSPLAY #LISA #Tarantino #LISA_Tarantino #PRESSPLAY #LISA_PRESSPLAY 202 8.1K 18K 299K Labdoor Date reposted b. 🎥 @btf0327 Oct 14 Quentin Tarantino's Inglourious Basterds (2009) 14 1.2K 4.4K 70K Labdoor Date @LabdoorD Oct 14",
+    "url": "https://x.com/LabdoorD/reposts",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by Labdoor Date (@LabdoorD) / X 4.1K 35K Labdoor Date reposted LLOUD @wearelloud 11h Tarantino World Premiere ⏳ LISA.lnk.to/tarantino #LISA #Tarantino #LISA_Tarantino #PRESSPLAY #LISA_PRESSPLAY 118 10K 22K 166K Labdoor Date reposted Genius @Genius Oct 21 LISA unveils the music video teaser for her upcoming song “tarantino” 👀🎬🔥 LLOUD 00:00 LLOUD 5 914 2.7K 44K ...",
+    "url": "https://x.com/LabdoorD/reposts",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Labdoor - LinkedIn Labdoor | 798 followers on LinkedIn. We test. You decide. | Labdoor is a marketplace where consumers research, find and buy the best supplements.",
+    "url": "https://www.linkedin.com/company/labdoor",
+    "pass": 3
+   },
+   {
+    "quote": "Neil Thanedar - Executive Director - MCFN. Author - LinkedInLabDoor Diagnostics - Online platform to search pathology ...LabDoor Diagnostics - LinkedInHelton Souza - LabDoor | LinkedInConsumerLab vs. Labdoor: Rating the Supplement Rating SitesRafael Ferreira - Labdoor | LinkedIn Labdoor is a consumer watchdog that independently tests and ranks supplements and other health products. Our grades, ran",
+    "url": "https://www.linkedin.com/in/thanedar",
+    "pass": 3
+   },
+   {
+    "quote": "LabDoor Diagnostics - Online platform to search pathology ...LabDoor Diagnostics - LinkedInHelton Souza - LabDoor | LinkedInConsumerLab vs. Labdoor: Rating the Supplement Rating SitesRafael Ferreira - Labdoor | LinkedIn We focus on providing patients quality diagnostic healthcare services in India. · Experience: AR LABDOOR · Location: Nashik · 500+ connections on LinkedIn. View LabDoor Diagnostics",
+    "url": "https://in.linkedin.com/in/labdoor-diagnostics-9bb2321b9",
+    "pass": 3
+   },
+   {
+    "quote": "LabDoor Diagnostics - LinkedIn LabDoor Diagnostics | 193 followers on LinkedIn. Good Health Begins with Insights | A leading blood test laboratory, AR Lab Door now makes it easy and convenient for patients to check their...",
+    "url": "https://in.linkedin.com/company/ar-lab-door",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Labdoor | South San Francisco CA - FacebookGo to labdoor.com for more. | Labdoor - FacebookLabdoor - Go to labdoor.com and find safe and accurate ...Labdoor - Always check labdoor.com before buying any ...Always check labdoor.com before buying any supplements ...Still don't know how TEST works? Here's a quick 3-minute ...LABDOOR.COM - Facebook Aug 27, 2025 · Labdoor, South San Francisco. 18,312 fo",
+    "url": "https://www.facebook.com/Labdoor/",
+    "pass": 3
+   },
+   {
+    "quote": "Go to labdoor.com for more. | Labdoor - Facebook May 19, 2025 · Go to labdoor.com for more. Neil Thanedar and 3 others 4 1 Last viewed on: Jul 24, 2026",
+    "url": "https://www.facebook.com/Labdoor/videos/go-to-labdoorcom-for-more/1040170544251284/",
+    "pass": 3
+   },
+   {
+    "quote": "Labdoor - Go to labdoor.com and find safe and accurate ... Aug 12, 2025 · Labdoor Aug 12, 2025 Go to labdoor.com and find safe and accurate products. Kathi La Voie Wyatt and 3 others 4 1",
+    "url": "https://www.facebook.com/Labdoor/posts/go-to-labdoorcom-and-find-safe-and-accurate-products/1058202533144198/",
+    "pass": 3
+   },
+   {
+    "quote": "Labdoor - Always check labdoor.com before buying any ... Jul 22, 2025 · Not all supplements are created equal. Always check labdoor.com before buying any supplements. Michael Crafton and 4 others 5",
+    "url": "https://www.facebook.com/Labdoor/posts/always-check-labdoorcom-before-buying-any-supplements/1041957691435349/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://labdoor.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://labdoor.com/enterprise/manufacturer-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://labdoor.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://labdoor.com/about/business-model",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://labdoor.com/about/testing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://labdoor.com/about/scores",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://labdoor.com/about/press",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://labdoor.com/about/legal/terms-of-use",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.dailysunny.com/2023/08/31/otoku230831/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/noxomi/n/ncc32b4f90329",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000122.000033629.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wp.standage.co.jp/2025/05/22/recognised20250519/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thorlabs.co.jp/ja/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bioproscientific.io/ja/distributors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/labdoor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Labdoor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vI1eAlwGVfDPlZJkqVpw6LHZ6dre_Qxt0TW41NthmHPZ1ayf4Kz",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3deo.co/metal-3d-printing-applications-customer-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.com/en/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flexwareinnovation.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://biobase.whitefordresearch.com/companies/labdoor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dropifyresellerbd.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/labdoor/__Srl70RqPO1shekhXofdrUoryqWlemH765ytYMY0xV14",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/54701-38",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/labdoor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/labdoor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/noxomi/n/ncc32b4f90329",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Labdoor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LabdoorD",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/i/broadcasts/1MJgNbPXVRMGL",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LabdoorD/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/labdoor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/thanedar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/labdoor-diagnostics-9bb2321b9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/ar-lab-door",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Labdoor/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Labdoor/videos/go-to-labdoorcom-for-more/1040170544251284/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Labdoor/posts/go-to-labdoorcom-and-find-safe-and-accurate-products/1058202533144198/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Labdoor/posts/always-check-labdoorcom-before-buying-any-supplements/1041957691435349/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Labdoor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LabdoorD",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LabdoorD/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Labdoor 日本 導入",
+   "results": [
+    "https://www.dailysunny.com/2023/08/31/otoku230831/",
+    "https://note.com/noxomi/n/ncc32b4f90329",
+    "https://prtimes.jp/main/html/rd/p/000000122.000033629.html",
+    "https://wp.standage.co.jp/2025/05/22/recognised20250519/",
+    "https://www.labcorp.com/jp/biopharma/locations/asia-pacific/japan",
+    "https://www.kualoa.jp/Default.aspx",
+    "https://press.plaion.com/ja-JP/Cat/Items/122",
+    "https://ivexl.com/details_news.html?id=11832",
+    "https://wellness-news.co.jp/posts/%E8%8B%B1%E5%9B%BDlgc%E7%A4%BE%E3%80%81%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%89%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E8%AA%8D%E8%A8%BC%E3%82%92%E6%97%A5%E6%9C%AC%E3%81%B8/",
+    "https://labdoor.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Labdoor 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://labdoor.com/enterprise/manufacturer-partners",
+    "https://labdoor.com/enterprise",
+    "https://www.thorlabs.co.jp/ja/distributors",
+    "https://www.bioproscientific.io/ja/distributors",
+    "https://productregistrationindonesia.com/ja/services/local-distributor-selection-indonesia/",
+    "https://resources.altium.com/jp/p/authorized-vs-unauthorized-distributors-electronic-components-supply-chain",
+    "https://www.cardiovascular.abbott/jp/ja/customer-service.html",
+    "https://www.abnova.com/ja-jp/reserved/distributors/index/jp",
+    "https://www.saibou.jp/agency/",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Labdoor Japan",
+   "results": [
+    "https://labdoor.com/",
+    "https://www.linkedin.com/company/labdoor",
+    "https://en.wikipedia.org/wiki/Labdoor",
+    "https://labdoor.com/enterprise/certifications/standards",
+    "https://www.instagram.com/labdoor/?hl=ja",
+    "https://www.facebook.com/Labdoor/",
+    "https://labdoor.en.uptodown.com/android",
+    "https://illuminatelabs.org/blogs/health/labdoor-review?srsltid=AYCX9vLB-ZnYoq6RUgTg6YpOYfpBBDyE5cN-2Eb1j0AMXJSHyPvKiZQV",
+    "https://markcubancompanies.com/companies/labdoor/",
+    "https://labdoor.com/rankings/fish-oil"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Labdoor manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vI1eAlwGVfDPlZJkqVpw6LHZ6dre_Qxt0TW41NthmHPZ1ayf4Kz",
+    "https://www.3deo.co/metal-3d-printing-applications-customer-case-studies/",
+    "https://www.stratasys.com/en/resources/case-studies/",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://www.prodways.com/resource-center/case-studies/",
+    "https://www.kdimfg.com/projects/case-studies/",
+    "https://www.hubspot.com/case-studies/directory/manufacturing",
+    "https://thevirtualfoundry.com/manufacturing-using-3d-printing/",
+    "https://www.tth.com/resources/case-studies",
+    "https://labdoor.com/about/business-model"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Labdoor white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://biobase.whitefordresearch.com/companies/labdoor",
+    "https://dropifyresellerbd.com/",
+    "https://partners.spectrum.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://resellervendors.mysellauth.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Labdoor founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/labdoor/__Srl70RqPO1shekhXofdrUoryqWlemH765ytYMY0xV14",
+    "https://pitchbook.com/profiles/company/54701-38",
+    "https://getlatka.com/companies/labdoor",
+    "https://startupintros.com/orgs/labdoor",
+    "https://biobase.whitefordresearch.com/companies/labdoor",
+    "https://www.privco.com/company/labrdr-inc",
+    "https://labdoor.com/about"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Labdoor",
+   "results": [
+    "https://note.com/noxomi/n/ncc32b4f90329",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/powerpoint_jp/n/nef4eb14dc50f",
+    "https://note.com/arafune/n/n46ff1958407e",
+    "https://note.com/selvanakayama/n/na106830ef8c9",
+    "https://note.com/rm131429/n/n97e57ea0bb41"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Labdoor",
+   "results": [
+    "https://x.com/Labdoor",
+    "https://x.com/LabdoorD",
+    "https://x.com/i/broadcasts/1MJgNbPXVRMGL",
+    "https://x.com/LabdoorD/reposts",
+    "https://x.com/neilthanedar",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/CogitoEdu/status/2117911840973861028"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Labdoor",
+   "results": [
+    "https://www.linkedin.com/company/labdoor",
+    "https://www.linkedin.com/in/thanedar",
+    "https://in.linkedin.com/in/labdoor-diagnostics-9bb2321b9",
+    "https://in.linkedin.com/company/ar-lab-door",
+    "https://www.linkedin.com/in/heltonsouza",
+    "https://www.linkedin.com/pulse/consumerlab-vs-labdoor-rating-supplement-sites-dr-monya-de",
+    "https://www.linkedin.com/in/rafafferreira"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Labdoor",
+   "results": [
+    "https://www.facebook.com/Labdoor/",
+    "https://www.facebook.com/Labdoor/videos/go-to-labdoorcom-for-more/1040170544251284/",
+    "https://www.facebook.com/Labdoor/posts/go-to-labdoorcom-and-find-safe-and-accurate-products/1058202533144198/",
+    "https://www.facebook.com/Labdoor/posts/always-check-labdoorcom-before-buying-any-supplements/1041957691435349/",
+    "https://www.facebook.com/Labdoor/videos/always-check-labdoorcom-before-buying-any-supplements/778996741155817/",
+    "https://www.facebook.com/reel/2067765427043376/",
+    "https://www.facebook.com/Labdoor/videos/1774848999267546/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Labdoor note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Labdoor X 投稿",
+   "results": [
+    "https://x.com/Labdoor",
+    "https://x.com/LabdoorD",
+    "https://labdoor.com/",
+    "https://x.com/LabdoorD/reposts",
+    "https://x.com/theoceanblooms/status/2117992528360120611",
+    "https://news.livedoor.com/article/detail/32710275/",
+    "https://x.com/hashtag/投稿"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

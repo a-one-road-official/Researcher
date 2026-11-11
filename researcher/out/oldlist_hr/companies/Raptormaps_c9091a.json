@@ -1,0 +1,1142 @@
+{
+ "name": "Raptormaps",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜送付済み",
+ "researched_at": "2026-11-11T05:18:44.685475+00:00",
+ "official_url": "https://www.raptormaps.com/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "3000 Clearview Way, San Mateo, CA 94402",
+    "url": "https://www.skydio.com/ja-jp/integrations-catalog/raptormaps",
+    "pass": 3
+   },
+   {
+    "label": "Headquarters",
+    "value": "444 Somerville Ave, Somerville, Massachusetts 02143, US",
+    "url": "https://prospeo.io/c/raptor-maps-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "6. Seed Round",
+    "value": "07-Jun-2019    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "585,137 $0.000100  $0.68 $0.68 1x $0.68 1.15%",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "3,695,484 $0.000100  $0.7 $0.7 1x $0.7 7.28%",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "$22,000,000",
+    "url": "https://prospeo.io/c/raptor-maps-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/raptor-maps-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://prospeo.io/c/raptor-maps-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "\"Having oversight during the construction and close-out process is of critical importance to the success of any solar project, and Sentry has been a great partner in providing us the analysis and data we need to ensure problems are caught and addressed early.\"",
+    "url": "https://raptormaps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Working with automation solutions like Raptor Maps helps us get the consistent, actionable data we need to operate efficiently and maximize energy production as we meet the growing demand for clean energy.\"",
+    "url": "https://raptormaps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Consistent robotic data capture provides a reliable time-series of inspection analytics, providing an evolving view on ground truth and asset conditions.",
+    "url": "https://raptormaps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Subscribe to our newsletter and stay informed about innovations in solar asset optimization, deploying robotics for solar, our research and testing with OEMs, the latest in our product development, and more.",
+    "url": "https://raptormaps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Construction Site Progress",
+    "url": "https://www.skydio.com/ja-jp/integrations-catalog/raptormaps",
+    "pass": 3
+   },
+   {
+    "quote": "See how DFR improves outcomes",
+    "url": "https://www.skydio.com/ja-jp/integrations-catalog/raptormaps",
+    "pass": 3
+   },
+   {
+    "quote": "Through a pre-built integration between the systems, joint customers can easily use Skydio and RaptorMaps for a range of solar farm use cases, ranging from drone inspections to security ops.",
+    "url": "https://www.skydio.com/ja-jp/integrations-catalog/raptormaps",
+    "pass": 3
+   },
+   {
+    "quote": "Roads, fences, inverter pads, and vegetation activities can also be monitored, giving you a 360 view of your entire site.",
+    "url": "https://www.skydio.com/ja-jp/integrations-catalog/raptormaps",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps is an operating system for end-to-end solar management that provides the tools and system of record for a variety of stakeholders to build, manage, and operate their solar sites. They specialize in module and equipment anomaly detection, robotics deployment on solar site, and asset management best practices",
+    "url": "https://www.skydio.com/ja-jp/integrations-catalog/raptormaps",
+    "pass": 3
+   },
+   {
+    "quote": "Webinar (Drone-based Construction Monitoring for Solar Projects)",
+    "url": "https://www.skydio.com/ja-jp/integrations-catalog/raptormaps",
+    "pass": 3
+   },
+   {
+    "quote": "Proudly designed, assembled, and supported in the USA",
+    "url": "https://www.skydio.com/ja-jp/integrations-catalog/raptormaps",
+    "pass": 3
+   },
+   {
+    "quote": "Drawing from learnings and data from over 3GW of installed autonomous docked drone capacity, this eBook provides a comprehensive summary of top use cases of autonomous drones, case studies with ROI, and the checklist for successful integration and operationalization.",
+    "url": "https://raptormaps.com/resources/reports",
+    "pass": 3
+   },
+   {
+    "quote": "Maximizing Technician Success with In-House Drone Team Training",
+    "url": "https://raptormaps.com/resources/reports",
+    "pass": 3
+   },
+   {
+    "quote": "Using drones to collect imagery data has gained widespread traction as an efficient, scalable, and safe method of collecting data, and in-house drone teams improve mobilization flexibility, better equip technicians, and reduce costs.",
+    "url": "https://raptormaps.com/resources/reports",
+    "pass": 3
+   },
+   {
+    "quote": "Equipment-driven underperformance has resulted in losses of $82M for the 24.5GW analyzed in 2022 – scaled up to the entire solar industry, that translates to $2.5B in losses annually. Download the report below to learn more about the main equipment-related drivers of asset underperformance, benchmarks for power production loss by site size, and more – derived from our 80GW+ dataset of PV systems.",
+    "url": "https://raptormaps.com/resources/reports",
+    "pass": 3
+   },
+   {
+    "quote": "Quantitative Insights from the Industry Experts The Solar Risk Assessment Report is a clear, thorough, and data-driven analysis of the risks involved in the solar industry. The report is compiled of articles from industry experts in their respective fields, each with in-depth data on a specific element of solar PV production risk.",
+    "url": "https://raptormaps.com/resources/reports",
+    "pass": 3
+   },
+   {
+    "quote": "California is the largest solar market in the United States in installed capacity and number of solar projects, with 15,967 megawatts of utility-scale installations at the beginning of 2023. California also leads the nation in lost revenue from asset underperformance, with an estimated $90.5 in revenue anticipated to be lost by the state’s utility-scale solar installations through the end of 2023.",
+    "url": "https://raptormaps.com/resources/reports",
+    "pass": 3
+   },
+   {
+    "quote": "Equipment, Steps & Practices for Manned Aircraft PV Inspections Step-by-step info for collecting reliable solar site performance data with airplanes and helicopters. Great for solar asset owners and managers, O&M, engineers, EPCs, energy financiers as well as pilots and aviation companies seeking new revenue sources.",
+    "url": "https://raptormaps.com/resources/reports",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps, the global leader in solar lifecycle management software, released its annual report on factors affecting production in PV systems. The company leveraged a subset of its data repository of PV system “digital twins” to query 22 GW across 27 countries and 6 continents to help PV system owners and operators benchmark and improve their portfolios.",
+    "url": "https://raptormaps.com/resources/reports",
+    "pass": 3
+   },
+   {
+    "quote": "Aerial thermography has become a standard practice for PV inspection in the solar industry and is increasingly getting scoped into requests for proposals (RFPs). To enable the solar industry to scale, Raptor Maps provides aerial thermography contract language in a downloadable format.",
+    "url": "https://raptormaps.com/resources/reports",
+    "pass": 3
+   },
+   {
+    "quote": "Subscribe to our newsletter and stay informed about innovations in solar asset optimization, deploying robotics for solar, our research and testing with OEMs, the latest in our product development, and more.",
+    "url": "https://raptormaps.com/resources/reports",
+    "pass": 3
+   },
+   {
+    "quote": "Climate Product Leaders | Raptor Maps",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps - Climate Product Leaders",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "As a result, in late 2023, many of the features across Raptor Solar were under strain. The amount of networked data had spiked, increasing emissions across the product suite (see",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "implemented pagination that matched the user's mental model. Instead of loading all raw data, Raptor Maps aggregated data to provide summaries, allowing users to load more information as they explored the map.",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "Before these improvements, on a conservative estimate, loading the data on a 100 MW solar farm used 0.004 kWh of energy, equating to $0.17 in cloud computing costs, and 0.007 kWh of energy equating to $0.003 in device costs for our users on a daily basis.",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "After this initiative, Raptor Solar loads only 0.75% of data by default, which saves 99.25% of energy costs each time a solar site is rendered in our web app - once per day on average.",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "Performance Improvements:",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "Improved load speeds by 133x, making it possible to quickly load even the largest solar farms.",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "Mobile app users can now use the product in areas without cell coverage.",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "Dramatically reduced the number of API calls needed to use web and mobile products.",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "Higher engagement with map products led to the discovery of more use cases.",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "simplifying UX with larger building blocks proved that \"less is more.\" The decrease in granularity prevented users from getting overwhelmed by data while allowing better performance.",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "grouping data provides more actionable and valuable information to customers while reducing networking costs, allowing users to pull more relevant granular data when needed.",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "The team had to be sensitive to any added friction and validate through discovery that sustainability improvements did not degrade usability.",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "Sustainability aligns with best practices:",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps proved that climate-conscious product management and engineering are synonymous with best practices and drive great results for both business and customers.",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "Continue to apply these principles across our products as Raptor Maps scales.",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "Compress all images taken in the mobile app to reduce networked data further.",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "Choose a sustainable hosting provider",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "Have you tried implementing this best practice?",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "This four-week async online course outlines techniques that digital product managers and builders can take to measure and reduce emissions from their products.",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "Are you passionate about climate solutions and digital innovation? Help us shape the future of sustainable digital product management and join our team of volunteers.",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "quote": "28-Apr-2020",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "quote": "5. Secondary Transaction - Private",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "quote": "Propeller (Business/Productivity Software)",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "quote": "Private Equity-Backed",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "quote": "Wexus (Business/Productivity Software)",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "quote": "Maverix Private Equity",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "quote": "Is Raptor Maps a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "New Case Study: What Does Rapid Response Look Like When Every Minute Matters?",
+    "url": "https://raptormaps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "into what needs your attention at each solar plant.",
+    "url": "https://raptormaps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading IPPs, O&Ms, and EPCs around the world",
+    "url": "https://raptormaps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Because of Sentry, we were able to begin our remediation efforts 25% faster than we otherwise would have been able to do. Most importantly, Sentry helped keep our technicians out of harm's way by giving us the intelligence that we needed remotely, across our whole site.”",
+    "url": "https://raptormaps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "way to understand your solar plants",
+    "url": "https://raptormaps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your solar plants are",
+    "url": "https://raptormaps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Technicians can use the",
+    "url": "https://raptormaps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how you can automate work on your solar plants",
+    "url": "https://raptormaps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Using drones to collect imagery data has gained widespread traction as an efficient, scalable, and safe method of collecting data, and in-house drone teams improve mobilization flexibility, better equip technicians, and reduce costs.",
+    "url": "https://raptormaps.com/resources/reports",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps, the global leader in solar lifecycle management software, released its annual report on factors affecting production in PV systems. The company leveraged a subset of its data repository of PV system “digital twins” to query 22 GW across 27 countries and 6 continents to help PV system owners and operators benchmark and improve their portfolios.",
+    "url": "https://raptormaps.com/resources/reports",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Raptor Maps",
+    "url": "https://www.casestudies.com/customer/raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps Case Study: First Solar – Raptor Maps and First Solar Transform Detection of Glass Cracks in Thin-Film Solar Panels, Boosting Efficiency and Safety | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/raptor-maps/case-study/raptor-maps-and-first-solar-transform-detection-of-glass-cracks-in-thin-film-solar-panels-boosting-efficiency-and-safety",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how First Solar used Raptor Maps",
+    "url": "https://www.casestudies.com/company/raptor-maps/case-study/raptor-maps-and-first-solar-transform-detection-of-glass-cracks-in-thin-film-solar-panels-boosting-efficiency-and-safety",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/raptor-maps/case-study/raptor-maps-and-first-solar-transform-detection-of-glass-cracks-in-thin-film-solar-panels-boosting-efficiency-and-safety",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/raptor-maps/case-study/raptor-maps-and-first-solar-transform-detection-of-glass-cracks-in-thin-film-solar-panels-boosting-efficiency-and-safety",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Raptor Maps",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps had to ensure that its digital twin could continue to scale with the industry from a performance and UX perspective. This case study explores how Raptor Maps achieved that, benefiting the environment, customers, and the bottom line.",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by some of the world’s largest and most innovative solar owners, operators, and EPCs, Raptor Maps has digitized and optimized over 150 GW of solar capacity across 50+ countries.",
+    "url": "https://prospeo.io/c/raptor-maps-revenue",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Subscribe to our newsletter and stay informed about innovations in solar asset optimization, deploying robotics for solar, our research and testing with OEMs, the latest in our product development, and more.",
+    "url": "https://raptormaps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Subscribe to our newsletter and stay informed about innovations in solar asset optimization, deploying robotics for solar, our research and testing with OEMs, the latest in our product development, and more.",
+    "url": "https://raptormaps.com/resources/reports",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "California is the largest solar market in the United States in installed capacity and number of solar projects, with 15,967 megawatts of utility-scale installations at the beginning of 2023. California also leads the nation in lost revenue from asset underperformance, with an estimated $90.5 in revenue anticipated to be lost by the state’s utility-scale solar installations through the end of 2023.",
+    "url": "https://raptormaps.com/resources/reports",
+    "pass": 3
+   },
+   {
+    "quote": "Equipment, Steps & Practices for Manned Aircraft PV Inspections Step-by-step info for collecting reliable solar site performance data with airplanes and helicopters. Great for solar asset owners and managers, O&M, engineers, EPCs, energy financiers as well as pilots and aviation companies seeking new revenue sources.",
+    "url": "https://raptormaps.com/resources/reports",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps has 117 total employees.",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "quote": "What is Raptor Maps’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Raptor Maps is",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/raptor-maps-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Raptor Maps",
+    "url": "https://prospeo.io/c/raptor-maps-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/raptor-maps-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/raptor-maps-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/raptor-maps-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Raptor Maps?",
+    "url": "https://prospeo.io/c/raptor-maps-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/raptor-maps-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/raptor-maps-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/raptor-maps-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Raptor Maps have?",
+    "url": "https://prospeo.io/c/raptor-maps-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/raptor-maps-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "RaptorMaps | Skydio — About RaptorMaps Raptor Maps is an operating system for end-to-end solar management that provides the tools and system of record for a variety of stakeholders to build, manage, and operate their solar sites.",
+    "url": "https://www.skydio.com/ja-jp/integrations-catalog/raptormaps",
+    "pass": 3
+   },
+   {
+    "quote": "We lower risks, costs, and losses for solar | Raptor Maps — Raptor Maps automates in-field O&M tasks, optimizing resources and boosting solar asset uptime through analytics, issue prioritization, and robotics.",
+    "url": "https://raptormaps.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps - Resources - Reports — White Papers and Reports Download the latest thought leadership, contract specs, research, and industry benchmarks from the Raptor Maps team.",
+    "url": "https://raptormaps.com/resources/reports",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps が世界規模のソーラーレポートで驚くべき発見を明らかに — Mar 18, 2024 · 太陽光発電資産管理の主要プラットフォームである Raptor Maps は、待望の Global Solar Report の第 6 版をリリースしました。この包括的なレポートは、太陽光発電資産のパフォーマンス不足に関する貴重な洞察を提供し、世界の太陽光発電産業における年間 46 億ドルという驚異的な収益損失を明らか ...",
+    "url": "https://ja.acebattery.com/blogs/raptor-maps-unveils-startling-findings-in-global-solar-report",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Mapsのレビュー、機能、価格、メリット・デメリット — Raptor Mapsの主な制限事項は何ですか？ 主な制限事項としては、高品質な航空データの必要性、ドローン運用における導入の複雑さ、および透明性のある公開価格設定の欠如などが挙げられます。 Raptor Mapsに代わる最適な代替ツールは何ですか？",
+    "url": "https://apps.list.solar/ja/tools/raptor-maps/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Raptor Maps Uses Software & Services — B2B Case Studies Featuring Raptor Maps as the Customer Explore case studies featuring Raptor Maps as the customer — learn how vendors and partners helped Raptor Maps solve real business challenges. Raptor Maps offers an advanced software platform to standardize data, analyze insights and collaborate across solar.",
+    "url": "https://www.casestudies.com/customer/raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps Case Study: First Solar – Raptor Maps and First ... — First Solar (Renewable Energy Equipment Manufacturing) partnered with Raptor Maps (Software Development) to solve key challenges. \"Raptor Maps and First Solar Transform Detection of Glass Cracks in Thin-Film Solar Panels, Boosting Efficiency and Safety\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/raptor-maps/case-study/raptor-maps-and-first-solar-transform-detection-of-glass-cracks-in-thin-film-solar-panels-boosting-efficiency-and-safety",
+    "pass": 3
+   },
+   {
+    "quote": "Solar PV Asset Management Case Study — The document summarizes case studies of aerial inspections using Raptor Maps services on several large solar PV portfolios totaling over 410 MW across the US. Key challenges addressed were increasing O&M costs, efficiently scaling operations, and standardizing data from multiple subcontractors. Sites ranging from 5.9 MW to 79 MW uncovered thousands of anomali",
+    "url": "https://www.scribd.com/document/489914896/Raptor-Maps",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Raptor Maps - Climate Product Leaders — Raptor Maps had to ensure that its digital twin could continue to scale with the industry from a performance and UX perspective. This case study explores how Raptor Maps achieved that, benefiting the environment, customers, and the bottom line.",
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Raptor Maps — Raptor Maps automates in-field O&M tasks, optimizing resources and boosting solar asset uptime through analytics, issue prioritization, and robotics.",
+    "url": "https://raptormaps.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps 2026 Company Profile: Valuation, Funding ...Raptor Maps Revenue, Funding & Valuation - prospeo.ioRaptor Maps — Founded 2015 | Indexed.vcRaptor Maps - 2026 Company Profile, Team, Funding ... - TracxnRaptor Maps — investors & funding | gritt.ioRaptor Maps — Company Profile, Funding & InvestorsRaptor Maps, Inc.: Funding, Team & Investors | Startup Intros — Information on valuation, fundin",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps Revenue, Funding & Valuation - prospeo.ioRaptor Maps — Founded 2015 | Indexed.vcRaptor Maps - 2026 Company Profile, Team, Funding ... - TracxnRaptor Maps — investors & funding | gritt.ioRaptor Maps — Company Profile, Funding & InvestorsRaptor Maps, Inc.: Funding, Team & Investors | Startup Intros — Raptor Maps has revenue of $10,100,000, estimated valuation of $32,400,000, $22,000,000 ",
+    "url": "https://prospeo.io/c/raptor-maps-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps — Founded 2015 | Indexed.vc — Sep 18, 2026 · Raptor Maps is a climate tech company in Somerville, United States, founded in 2015. It has 4 recorded funding rounds, most recently a Series C in December 2024.",
+    "url": "https://indexed.vc/companies/raptormaps",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps - 2026 Company Profile, Team, Funding ... - Tracxn — Mar 22, 2026 · Raptor Maps is a series C company based in Cambridge (United States), founded in 2015 by Forrest Meyen and Edward Obropta. It operates as a Provider of solar asset management platform using aerial and sensor data. Raptor Maps has raised $62.2M in funding from investors like Blue Bear Capital, Data Point Capital and Mas",
+    "url": "https://tracxn.com/d/companies/raptormaps/__8yjmHBGp06FfRJit4t1ecT7M1O62KPdYf9R5Byhe9Co",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps — investors & funding | gritt.io — Trusted by some of the world’s largest and most innovative solar owners, operators, and EPCs, Raptor Maps has digitized and optimized over 150 GW of solar capacity across 50+ countries. Founded by MIT engineers, Raptor Maps is dedicated to creating technology that empowers the industry to unlock its full potential.",
+    "url": "https://www.gritt.io/company/raptormaps/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/raptor-maps-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Download @RaptorMaps’ 2025 Global Solar Report to see how ... Download @RaptorMaps ’ 2025 Global Solar Report to see how operators are closing the performance gap and setting the standard for what comes next: ow.ly/UKpO50VCmwa #sponsor",
+    "url": "https://x.com/CanaryMediaInc/status/1912930393537249523",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps (@RaptorMaps) / Posts / X Raptor Maps is the leading software solution for managing PV assets with drones. Built by @MIT engineers and artificial intelligence experts.",
+    "url": "https://x.com/raptormaps",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps on X: \"Want to learn how your team can avoid ... Want to learn how your team can avoid common data collection errors in PV aerial inspections? Sign up for our webinar this Wednesday: https://t.co/2PhlhTMBch",
+    "url": "https://x.com/RaptorMaps/status/1549068721884467200",
+    "pass": 3
+   },
+   {
+    "quote": "Mohit Talwar (@motalwar) / Posts / X Thrilled to unveil our investment in Raptor Maps! Discover why we’re so enthusiastic about the company and the solar industry, and learn about its significance to our Smart Cities thesis.",
+    "url": "https://x.com/motalwar",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps (@RaptorMaps) / Posts / X May 2, 2015 · Raptor Maps (@RaptorMaps) - Posts - Raptor Maps is the leading software solution for managing PV assets with drones. Built by @MIT eng... | X (formerly Twitter)",
+    "url": "https://x.com/raptormaps",
+    "pass": 3
+   },
+   {
+    "quote": "Download @RaptorMaps’ 2025 Global Solar Report to see how ... Apr 17, 2025 · Download @RaptorMaps ’ 2025 Global Solar Report to see how operators are closing the performance gap and setting the standard for what comes next: ow.ly/UKpO50VCmwa #sponsor",
+    "url": "https://x.com/CanaryMediaInc/status/1912930393537249523",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Raptor Maps - LinkedIn Raptor Maps | 13,992 followers on LinkedIn. We lower risks, costs, and losses for solar through software and robotics. | Raptor Maps is on a mission to make solar energy the smartest, most ...",
+    "url": "https://www.linkedin.com/company/raptormaps",
+    "pass": 3
+   },
+   {
+    "quote": "Eddie Obropta - Co-Founder at Raptor Maps Inc. | LinkedInNicholas Lyos - APAC Market Director | Cleantech | LinkedIn1,000+ Raptormaps jobs in United States - LinkedIn2026 Global Solar Report: Solar Performance Trends and Risk ...Nikhil Vadhavkar - Raptor Maps, Inc. | LinkedInLeo Kim - VP, Marketing & Growth @ Raptor Maps | Ex ... Co-Founder at Raptor Maps Inc. · Did you know software is also eatin",
+    "url": "https://www.linkedin.com/in/eobropta",
+    "pass": 3
+   },
+   {
+    "quote": "1,000+ Raptormaps jobs in United States - LinkedIn Today's top 1,000+ Raptormaps jobs in United States. Leverage your professional network, and get hired. New Raptormaps jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/raptormaps-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Nikhil Vadhavkar - Raptor Maps, Inc. | LinkedIn An engineer by training, the solar industry found me and Eddie nearly a decade ago. I… · Experience: Raptor Maps, Inc. · Location: San Francisco Bay Area · 500+ connections on LinkedIn. View ...",
+    "url": "https://www.linkedin.com/in/nvadhavkar",
+    "pass": 3
+   },
+   {
+    "quote": "Eddie Obropta - Co-Founder at Raptor Maps Inc. | LinkedIn加藤貞顕 - WikipediaNikhil Vadhavkar - Co-Founder & CEO at Raptor Maps | The Org Co-Founder at Raptor Maps Inc. · Did you know software is also eating the energy world? And recursively, software needs to eat a lot of energy? Let’s make sure it’s clean energy. Come join ... 加藤 貞顕 （かとう さだあき、 1973年 6月11日 [1] - ）は、日本の 編集者 、 実業家。 note株式会社 代表取締役CEO。（2",
+    "url": "https://www.linkedin.com/in/eobropta",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Raptor Maps - FacebookRaptor Maps - We're providing free Slap Map services for ...Raptor Maps - We're proud to support Cypress Creek... | FacebookRaptor Maps - Raptor Maps is proud to be a member of the ...Raptor Maps - Raptor Maps is hiring full time software ...Raptor - CASE STUDY: \"Which soils are boosting your profits ...Raptor Maps - Watch below to see how Raptor Maps + Enel ... Jun 6, 2022 ·",
+    "url": "https://www.facebook.com/raptormaps/",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps - We're proud to support Cypress Creek... | Facebook Jun 6, 2022 · We're proud to support Cypress Creek Renewables across their entire portfolio. Our new insights and analytics platform, Raptor Solar, will enable them to maximize power output and returns from their...",
+    "url": "https://www.facebook.com/raptormaps/posts/were-proud-to-support-cypress-creek-renewables-across-their-entire-portfolio-our/2222088594620285/",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps - We're providing free Slap Map services for ... Aug 30, 2017 · Recent Posts Raptor Maps Jun 6, 2022 We're proud to support Cypress Creek Renewables across their entire portfolio. Our new insights and analytics platform, Raptor Solar, will enable them to maximize power output and returns from their extensive 3.9 GW portfolio. Raptor Solar provides a suite of powerful features,",
+    "url": "https://www.facebook.com/raptormaps/posts/893774537451704/",
+    "pass": 3
+   },
+   {
+    "quote": "Raptor Maps - Raptor Maps is proud to be a member of the ... Jan 9, 2018 · Raptor Maps is proud to be a member of the NJ Team on the FAA/DOT/White House UAS Integration Pilot Program, led by UAS Hub Cape May County, N.J. We submitted our application …. Wait ‘til you hear...",
+    "url": "https://www.facebook.com/raptormaps/posts/raptor-maps-is-proud-to-be-a-member-of-the-nj-team-on-the-faadotwhite-house-uas-/958124721016685/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://raptormaps.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.skydio.com/ja-jp/integrations-catalog/raptormaps",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://raptormaps.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://raptormaps.com/resources/reports",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.acebattery.com/blogs/raptor-maps-unveils-startling-findings-in-global-solar-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livetyphoontracker.com/japan-typhoon-tracker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rainviewer.com/storm-tracker/japan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.easeweather.com/asia/japan/radar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accuweather.com/en/jp/national/weather-radar",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/raptor-maps",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/raptor-maps/case-study/raptor-maps-and-first-solar-transform-detection-of-glass-cracks-in-thin-film-solar-panels-boosting-efficiency-and-safety",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scribd.com/document/489914896/Raptor-Maps",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/154645-39",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/raptor-maps-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/raptormaps",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/raptormaps/__8yjmHBGp06FfRJit4t1ecT7M1O62KPdYf9R5Byhe9Co",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CanaryMediaInc/status/1912930393537249523",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/raptormaps",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RaptorMaps/status/1549068721884467200",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/motalwar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/raptormaps",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/eobropta",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/raptormaps-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/nvadhavkar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/raptormaps/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/raptormaps/posts/were-proud-to-support-cypress-creek-renewables-across-their-entire-portfolio-our/2222088594620285/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/raptormaps/posts/893774537451704/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/raptormaps/posts/raptor-maps-is-proud-to-be-a-member-of-the-nj-team-on-the-faadotwhite-house-uas-/958124721016685/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/eobropta",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/raptormaps",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CanaryMediaInc/status/1912930393537249523",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Raptormaps 日本 導入",
+   "results": [
+    "https://www.skydio.com/ja-jp/integrations-catalog/raptormaps",
+    "https://raptormaps.com/",
+    "https://raptormaps.com/resources/reports",
+    "https://ja.acebattery.com/blogs/raptor-maps-unveils-startling-findings-in-global-solar-report",
+    "https://apps.list.solar/ja/tools/raptor-maps/",
+    "https://raptormaps.com/about/impact",
+    "https://raptormaps.com/resources/2026-global-solar-report"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Raptormaps 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Raptormaps Japan",
+   "results": [
+    "https://www.livetyphoontracker.com/japan-typhoon-tracker/",
+    "https://www.rainviewer.com/storm-tracker/japan.html",
+    "https://www.easeweather.com/asia/japan/radar",
+    "https://www.accuweather.com/en/jp/national/weather-radar",
+    "https://zoom.earth/places/japan/",
+    "https://www.jma.go.jp/jma/jma-eng/jma-center/rsmc-hp-pub-eg/RSMC_HP.htm",
+    "https://shindo.red/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Raptormaps manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/raptor-maps",
+    "https://www.casestudies.com/company/raptor-maps/case-study/raptor-maps-and-first-solar-transform-detection-of-glass-cracks-in-thin-film-solar-panels-boosting-efficiency-and-safety",
+    "https://www.scribd.com/document/489914896/Raptor-Maps",
+    "https://climateproductleaders.org/playbook/design-frugally/case-study-raptor-maps",
+    "https://raptormaps.com/case-studies",
+    "https://www.v7labs.com/customer-stories/raptor-maps",
+    "https://raptormaps.com/blog-posts/raptormaps-mei-casestudy"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Raptormaps white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.viewsonic.com/s/?language=en_US",
+    "https://upcloud.com/partner-program/",
+    "https://www.ninjaone.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Raptormaps founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/154645-39",
+    "https://prospeo.io/c/raptor-maps-revenue",
+    "https://indexed.vc/companies/raptormaps",
+    "https://tracxn.com/d/companies/raptormaps/__8yjmHBGp06FfRJit4t1ecT7M1O62KPdYf9R5Byhe9Co",
+    "https://www.gritt.io/company/raptormaps/",
+    "https://acquirezy.com/organization/raptor-maps",
+    "https://startupintros.com/orgs/raptor-maps-inc"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Raptormaps",
+   "results": [
+    "https://note.com/krevol7/n/n4201efd08007?hl=en",
+    "https://note.com/eureka_lol/n/nd9dd708f213c?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/choo/n/nf2a81eced17b",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/glossy_pika3109/n/n85e1eafab62a",
+    "https://note.com/hasufav_lotus/n/n02a8b5783f4f"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Raptormaps",
+   "results": [
+    "https://x.com/CanaryMediaInc/status/1912930393537249523",
+    "https://x.com/raptormaps",
+    "https://x.com/RaptorMaps/status/1549068721884467200",
+    "https://x.com/motalwar",
+    "https://x.com/DorianMorones",
+    "https://x.com/GreentownLabs/status/1057391918240464896",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Raptormaps",
+   "results": [
+    "https://www.linkedin.com/company/raptormaps",
+    "https://www.linkedin.com/in/eobropta",
+    "https://www.linkedin.com/jobs/raptormaps-jobs",
+    "https://www.linkedin.com/in/nvadhavkar",
+    "https://au.linkedin.com/in/nicholaslyos",
+    "https://www.linkedin.com/in/sungleokim",
+    "https://www.linkedin.com/posts/raptormaps_raptor-maps-2026-global-solar-report-is-activity-7432080648070201344-2qzQ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Raptormaps",
+   "results": [
+    "https://www.facebook.com/raptormaps/",
+    "https://www.facebook.com/raptormaps/posts/were-proud-to-support-cypress-creek-renewables-across-their-entire-portfolio-our/2222088594620285/",
+    "https://www.facebook.com/raptormaps/posts/893774537451704/",
+    "https://www.facebook.com/raptormaps/posts/raptor-maps-is-proud-to-be-a-member-of-the-nj-team-on-the-faadotwhite-house-uas-/958124721016685/",
+    "https://www.facebook.com/raptormaps/posts/raptor-maps-is-hiring-full-time-software-developers-marketing-roles-and-quality-/966451056850718/",
+    "https://www.facebook.com/raptormaps/photos/case-study-which-soils-are-boosting-your-profits-does-018-inches-make-a-differen/724396927722800/",
+    "https://www.facebook.com/raptormaps/posts/watch-below-to-see-how-raptor-maps-enel-green-power-are-revolutionizing-solar-as/1095429883952834/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Raptormaps note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.crunchbase.com/person/nikhil-vadhavkar",
+    "https://www.linkedin.com/in/eobropta",
+    "https://www.cleanai.com/speakers-2024/nikhil-vadhavkar",
+    "https://raptormaps.com/about/about-raptor-maps",
+    "https://raptormaps.com/resources/reports",
+    "https://theorg.com/org/raptor-maps/org-chart/nikhil-vadhavkar"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Raptormaps X 投稿",
+   "results": [
+    "https://x.com/raptormaps",
+    "https://x.com/CanaryMediaInc/status/1912930393537249523",
+    "https://x.com/raptor0761/status/2119594250002366818",
+    "https://raptormaps.com/",
+    "https://flight.raptormaps.com/",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://apm.raptormaps.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索12回）"
+ }
+}

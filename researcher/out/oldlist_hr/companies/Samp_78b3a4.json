@@ -1,0 +1,1573 @@
+{
+ "name": "Samp",
+ "aliases": [],
+ "context": "旧営業リスト｜Factory data / production ops｜送付済み",
+ "researched_at": "2026-11-11T05:24:44.602686+00:00",
+ "official_url": "https://www.samp.ai/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2019",
+    "url": "https://startupintros.com/orgs/samp",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "61 rue de Douai 75009 Paris, France",
+    "url": "https://startupintros.com/orgs/samp",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "From engineering or hazard studies to procurement or modification projects, your staff and contractors are on the same page, with full transparency.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Training, permitting, isolation, maintenance or management of change have never been safer or more effective, for blue collar & white collar workers alike.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The result is better quotes, faster execution, increased plant uptime, reduced travel and risk exposure. Overall, this means improved safety and auditability, with better financial predictability, and a longer-term business outlook.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "As part of its digital transition, Teréga’s objectives are to facilitate access to information and improve the quality of the data made available to operational and project teams.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our surface and underground industrial assets evolve regularly for safety and process optimization reasons. We need a solution that allows us to host and share the data collected in the field, while enriching it with information from our existing systems of record.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We chose Shared Reality because it will allow employees to interact with a faithful as-built model in their daily maintenance, inspection, or project activities. This portal should become the gateway to engineering and operations data.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Twin Product Owner",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The as-built digital twins of the operated sites, an up-to-date representation of the actual infrastructure, improve our technical performance and reduce our risks thanks to easier access to information, continuous data cleansing, optimized preparation of studies and works.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "As a result, trust is improved between all stakeholders involved on site, from our operators to our subcontractors, without forgetting our customers, who benefit from greater transparency in our activity.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "As a surveying and engineering company, SURVEY's mission is to address our clients' issues by providing a better understanding of their assets in their environment.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Being able to provide our topology, surveying and engineering services through a single digital twin brings more value to our clients.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "As a pipeline operator and service provider, TRAPIL has always strived to find the best solution to its own issues and those of its clients.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "TRAPIL supports and promotes the partnership between its subsidiary SURVEY and Samp to provide its customers with the most pragmatic digital twin solution.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "As Storengy does not have a 3D CAD model of its facilities, Shared Reality allowed us to quickly establish a functionally rich digital twin without a CAD model, and the 3D scans are a very accurate representation of the reality on the ground.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The digital twin is a great solution that offers a 1D/2D/3D context to all our data, whether for operations, maintenance, engineering, remote expertise, training or communication.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We wanted to create a GIS equivalent for our production facilities.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We were impressed by this product, which is practical, fast, and allows our teams to build BIM models that can be interfaced with our operating tools.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We have synthesised the information to facilitate work preparation, search for technical data, train new employees, and more. Shared Reality provides connectors to our data sources, which greatly simplifies the maintenance of these sources in operational conditions.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "It is also extremely useful to us because we are a site that has decided to completely renovate and decarbonize its activity with very large projects.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The digital twin allows us to both manage co-activity on the various sites and to better prepare these sites using this tool.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "This is VEOLIA's largest contract in France. Including outdoor areas, we cover a surface area of 1,700,000 square meters. We provide operators and contractors with access to a fluid interface so they can directly search for CMMS information on equipment, technical documents, or historical data.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "One of our ambitions is to use the 3D reality models produced with Shared Reality as the backbone of the digital twin.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Personal data may be processed (e.g. recognition features, IP addresses), for example for personalized ads and content or ad and content measurement.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Shared Reality for the process industry | Sectors overview",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "They are facing unprecedented challenges to reduce their emissions (CO2, methane…) and losses (water, energy…) while remaining safe and efficient",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "They are intrinsically multi-disciplinary and involve numerous stakeholders, at a key moment in the workforce’s generational shift",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Shared Reality helps industrial operators meet these challenges with a disruptive and pragmatic approach: providing everyone with an interactive, up-to-date representation of sites, based on the only source of truth: reality.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Personal data may be processed (e.g. recognition features, IP addresses), for example for personalized ads and content or ad and content measurement.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "The growth of the world’s population, GDP and cities is putting pressure on freshwater supply and wastewater treatment. McKinsey estimates that by 2030, the global gap between water supply and demand could reach 40%.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "The chemical industry, a key enabler of circularity, is adapting many of its processes, and therefore its plants, to accommodate new recycled feedstocks, while adapting its facilities to reduce carbon footprint.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial gases are also set for a major transformation, with a significant change in the way hydrogen is produced, which will fuel many chemical and metallurgical processes. This will lead to a transformation of large integrated industrial complexes on a massive scale, while they remain in operation.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Samp is there to help meet this challenge, and to provide a constantly updated view of the facilities as they are upgraded year after year, allowing the production, maintenance and engineering team to work together with maximum plant uptime.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Pulp mills must both meet the most stringent environmental standards and produce new products to partially replace single-use plastic.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Breweries, dairy, sugar, starch or grain processing plants are often landmarks linked to local agricultural practices. Unlike many other sectors where plants have been replaced by entirely new facilities, these plants are among the most time-honored, and have rarely benefited from ambitious upgrades.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Samp helps site teams collaborate with external partners to ensure that adaptation can be achieved in the most appropriate manner.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Epidemiological shifts, as well as a growing and aging population, drive global healthcare demand. The quest for improved medications, personalized treatments, and the adoption of biopharma technologies keeps the industry at breathtaking pace.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Challenges such as regulatory complexity, stringent quality standards, and heterogeneous production facilities present hurdles, requiring a delicate balance between innovation and compliance. Efficient technological leverage on existing manufacturing sites is crucial to overcoming these challenges and ensuring economic equilibrium.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Samp helps to continuously optimize the flexibility of existing manufacturing facilities, thanks to a perfect knowledge of site utilities, to adapt production lines faster and industrialize at scale.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Battery and semiconductor manufacturing places high demands on fluid management, from gas handling to ultra-pure water production.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "The growing battery and electronics recycling sector relies on energy-efficient hydrometallurgical processes to recover valuable materials and improve industry circularity. The rapid evolution of production processes and equipment requires good monitoring of site utilities to ensure efficient adaptation of industrial assets to the latest available technologies, and to remain competitive.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Samp helps to continuously reduce the environmental impact of these capital-intensive facilities by adapting production lines at an accelerated pace, in order to take advantage of the latest processes and deliver products with the smallest environmental footprint.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how operators of complex facilities make modifications projects and field operations simpler and safer with Shared Reality",
+    "url": "https://samp.ai/client-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Personal data may be processed (e.g. recognition features, IP addresses), for example for personalized ads and content or ad and content measurement.",
+    "url": "https://samp.ai/client-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+    "url": "https://samp.ai/client-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://samp.ai/client-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.",
+    "url": "https://samp.ai/client-stories/",
+    "pass": 1
+   },
+   {
+    "quote": ". Environmental impact, safety and the increasing scarcity of field workers are putting industrial sites under unprecedented pressure to transform fast. Every day counts! Samp uses patented Artificial Intelligence as the digital catalyst that enables facilities to transform 10x faster.",
+    "url": "https://samp.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "reduces to a few days – instead of months – the time needed to prepare, execute and capture any modification on site. With Samp, all teams collaborate seamlessly around the same context, consolidating all technical work around an always up-to-date 3D reality model of equipment and systems.",
+    "url": "https://samp.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "and Laurent Bourgouin (CEO) had a coffee at the world’s biggest Startup campus STATION F as part of the Entrepreneur First program.",
+    "url": "https://samp.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "had a unique tech in her hands and amazing skills in State-of-the-art Artificial Intelligence applied to very big data. She was now looking for a real-life problem to apply it to, with a strong desire to have a positive impact on the world.",
+    "url": "https://samp.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Shivani and Laurent met to discuss their visions. Laurent told everything he knew about how aging industrial facilities are struggling with their technical data and documentation, preventing them from accelerating their transformation. Shivani demoed the huge potential of development in the latest AI Research and how it could be applied.",
+    "url": "https://samp.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "It was obvious: there was a perfect match between a “hair-on-fire problem” and an amazing DeepTech to solve it! The common vision was born: Automatically generating a fully intelligent 3D virtual replica of Industrial sites from a simple 3D scan!",
+    "url": "https://samp.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "“Industrial facilities have been struggling with technical debt for decades. Combining the latest development in Artificial Intelligence with fully democratized 3D reality capture finally brings a simple yet disruptive way to solve this old problem. Samp’s Shared Reality is on an incredible journey to adapt facilities to modern challenges 10x faster.”",
+    "url": "https://samp.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Personal data may be processed (e.g. recognition features, IP addresses), for example for personalized ads and content or ad and content measurement.",
+    "url": "https://samp.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+    "url": "https://samp.ai/company/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Shared Reality | Scale your industrial digital twin faster",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Shared Reality is a secure online workspace that helps distributed teams collaborate seamlessly across physical & digital industrial environments.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Training, permitting, isolation, maintenance or management of change have never been safer or more effective, for blue collar & white collar workers alike.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Whatever stage of the industrial asset lifecycle you are involved in, with Shared Reality you can get closer to reality: speed up and secure collaboration, identify orphan equipment, update technical information as fast as sites change.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The result is better quotes, faster execution, increased plant uptime, reduced travel and risk exposure. Overall, this means improved safety and auditability, with better financial predictability, and a longer-term business outlook.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our surface and underground industrial assets evolve regularly for safety and process optimization reasons. We need a solution that allows us to host and share the data collected in the field, while enriching it with information from our existing systems of record.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "As a result, trust is improved between all stakeholders involved on site, from our operators to our subcontractors, without forgetting our customers, who benefit from greater transparency in our activity.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of data and industrial digital division",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Franciliane is transforming the water utility asset management system used by the 'Syndicat des Eaux d'Ile de France', which serves 133 municipalities and 4 million users.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "This is VEOLIA's largest contract in France. Including outdoor areas, we cover a surface area of 1,700,000 square meters. We provide operators and contractors with access to a fluid interface so they can directly search for CMMS information on equipment, technical documents, or historical data.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Shared Reality helps industrial operators meet these challenges with a disruptive and pragmatic approach: providing everyone with an interactive, up-to-date representation of sites, based on the only source of truth: reality.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Chemicals & industrial gases",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "The chemical industry, a key enabler of circularity, is adapting many of its processes, and therefore its plants, to accommodate new recycled feedstocks, while adapting its facilities to reduce carbon footprint.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial gases are also set for a major transformation, with a significant change in the way hydrogen is produced, which will fuel many chemical and metallurgical processes. This will lead to a transformation of large integrated industrial complexes on a massive scale, while they remain in operation.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Samp is there to help meet this challenge, and to provide a constantly updated view of the facilities as they are upgraded year after year, allowing the production, maintenance and engineering team to work together with maximum plant uptime.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Breweries, dairy, sugar, starch or grain processing plants are often landmarks linked to local agricultural practices. Unlike many other sectors where plants have been replaced by entirely new facilities, these plants are among the most time-honored, and have rarely benefited from ambitious upgrades.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Challenges such as regulatory complexity, stringent quality standards, and heterogeneous production facilities present hurdles, requiring a delicate balance between innovation and compliance. Efficient technological leverage on existing manufacturing sites is crucial to overcoming these challenges and ensuring economic equilibrium.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Samp helps to continuously optimize the flexibility of existing manufacturing facilities, thanks to a perfect knowledge of site utilities, to adapt production lines faster and industrialize at scale.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Battery and semiconductor manufacturing places high demands on fluid management, from gas handling to ultra-pure water production.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "The growing battery and electronics recycling sector relies on energy-efficient hydrometallurgical processes to recover valuable materials and improve industry circularity. The rapid evolution of production processes and equipment requires good monitoring of site utilities to ensure efficient adaptation of industrial assets to the latest available technologies, and to remain competitive.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Samp helps to continuously reduce the environmental impact of these capital-intensive facilities by adapting production lines at an accelerated pace, in order to take advantage of the latest processes and deliver products with the smallest environmental footprint.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Why industrial operators are adopting",
+    "url": "https://samp.ai/client-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how operators of complex facilities make modifications projects and field operations simpler and safer with Shared Reality",
+    "url": "https://samp.ai/client-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-empowered industrial facilities adapting efficiently to the sustainability imperative",
+    "url": "https://samp.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": ". Environmental impact, safety and the increasing scarcity of field workers are putting industrial sites under unprecedented pressure to transform fast. Every day counts! Samp uses patented Artificial Intelligence as the digital catalyst that enables facilities to transform 10x faster.",
+    "url": "https://samp.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "After 15 years spent in the Water & Energy industry, witnessing and suffering from the technical debt accumulated over the years by these industrial facilities, Laurent had decided it was time to do his part. Every day counts in dealing with the environmental urgency!",
+    "url": "https://samp.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Shivani and Laurent met to discuss their visions. Laurent told everything he knew about how aging industrial facilities are struggling with their technical data and documentation, preventing them from accelerating their transformation. Shivani demoed the huge potential of development in the latest AI Research and how it could be applied.",
+    "url": "https://samp.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "It was obvious: there was a perfect match between a “hair-on-fire problem” and an amazing DeepTech to solve it! The common vision was born: Automatically generating a fully intelligent 3D virtual replica of Industrial sites from a simple 3D scan!",
+    "url": "https://samp.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "“Industrial facilities have been struggling with technical debt for decades. Combining the latest development in Artificial Intelligence with fully democratized 3D reality capture finally brings a simple yet disruptive way to solve this old problem. Samp’s Shared Reality is on an incredible journey to adapt facilities to modern challenges 10x faster.”",
+    "url": "https://samp.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Storengy Shared Reality case study",
+    "url": "https://samp.ai/client-case-study-storengy/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Digital Industrial Project | Storengy",
+    "url": "https://samp.ai/client-case-study-storengy/",
+    "pass": 1
+   },
+   {
+    "quote": "Client Case Study: Suez - Samp",
+    "url": "https://samp.ai/client-case-study-suez/",
+    "pass": 1
+   },
+   {
+    "quote": "As a global leader in water and waste management, SUEZ operates complex water and wastewater treatment plants. However, poor asset knowledge and fragmented documentation made operations and upgrades challenging. Incomplete or outdated information slowed decision-making, increased risks, and made it difficult to optimize plant performance.",
+    "url": "https://samp.ai/client-case-study-suez/",
+    "pass": 1
+   },
+   {
+    "quote": ", they are transforming asset management with a dynamic digital twin environment that allows maintenance teams to access up-to-date site information, reduce downtime, and improve plant performance.",
+    "url": "https://samp.ai/client-case-study-suez/",
+    "pass": 1
+   },
+   {
+    "quote": "Client Case Study: Trapil - Samp",
+    "url": "https://samp.ai/client-case-study-trapil/",
+    "pass": 1
+   },
+   {
+    "quote": "Client Case Study: Elengy - Samp",
+    "url": "https://samp.ai/client-case-study-elengy/",
+    "pass": 1
+   },
+   {
+    "quote": "Elengy, a leading LNG terminal operator, is advancing ambitious modernization and decarbonization efforts at Montoir-de-Bretagne. To succeed, they needed more than data, they needed clarity, collaboration and a shared understanding of their complex industrial site.",
+    "url": "https://samp.ai/client-case-study-elengy/",
+    "pass": 1
+   },
+   {
+    "quote": "Like many operators managing decades of documentation and evolving infrastructure, Elengy needed a better way to understand and visualize their plant, ensure reliable information was always at hand, and drive data-driven decisions across teams.",
+    "url": "https://samp.ai/client-case-study-elengy/",
+    "pass": 1
+   },
+   {
+    "quote": "Client Case Study: Terega - Samp",
+    "url": "https://samp.ai/client-case-study-terega/",
+    "pass": 1
+   },
+   {
+    "quote": "BRL oversees more than a hundred technical sites – pumping stations, drinking-water facilities, wastewater treatment plant, dams, and irrigation infrastructure – spread across a vast and varied territory.",
+    "url": "https://samp.ai/client-case-study-brl/",
+    "pass": 1
+   },
+   {
+    "quote": "Samp brings simplicity to industrial revamping & maintenance. Their AI helps connect your outdated technical drawings with up-to-date 3D reality capture of your facilities. Identify discrepancies and easily find your equipment in full context, on their 3D streaming web portal.",
+    "url": "https://www.casestudies.com/company/samp",
+    "pass": 3
+   },
+   {
+    "quote": "Head of Digital Industrial Project",
+    "url": "https://www.casestudies.com/company/samp",
+    "pass": 3
+   },
+   {
+    "quote": "Samp brings simplicity to industrial revamping & maintenance. Their AI helps connect your outdated technical drawings with up-to-date 3D reality capture of your facilities. Identify discrepancies and easily find your equipment in full context, on their 3D streaming web portal.",
+    "url": "https://www.casestudies.com/customer/samp",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Samp",
+    "url": "https://www.casestudies.com/customer/samp",
+    "pass": 3
+   },
+   {
+    "quote": "Hexagon is a global leader in digital reality solutions. They are putting data to work to boost efficiency, productivity, quality and safety across industrial, manufacturing, infrastructure, public sector, and mobility …",
+    "url": "https://www.featuredcustomers.com/vendor/samp/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/samp/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of AI-powered industrial digital twin software designed to accelerate the modernization, maintenance, and safe operation of complex industrial facilities.",
+    "url": "https://pitchbook.com/profiles/company/455219-56",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of AI-powered industrial digital twin software designed to accelerate the modernization, maintenance, and safe",
+    "url": "https://pitchbook.com/profiles/company/455219-56",
+    "pass": 3
+   },
+   {
+    "quote": "Samp brings simplicity to industrial revamping & maintenance.",
+    "url": "https://getlatka.com/companies/samp.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial AR Platforms",
+    "url": "https://getlatka.com/companies/samp.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Samp is a deep‑tech SaaS company that builds AI‑generated 3D workspaces (industrial digital twins) to help operators manage, maintain and modernize complex industrial sites faster and safer. [2][1]",
+    "url": "https://startupintros.com/orgs/samp",
+    "pass": 3
+   },
+   {
+    "quote": "Concise summary: Samp provides an AI-powered digital twin and asset-management workspace that converts 3D scans and engineering data into an always‑up‑to‑date, collaborative 3D model for industrial facilities, shortening planning and execution cycles for maintenance and revamps from months to days according to the company’s claims.[2][1]",
+    "url": "https://startupintros.com/orgs/samp",
+    "pass": 3
+   },
+   {
+    "quote": "Product it builds: An AI-driven 3D workspace / digital twin platform that ingests reality capture (3D scans) plus engineering documents to create an intelligent, navigable model of industrial sites.[2][1]",
+    "url": "https://startupintros.com/orgs/samp",
+    "pass": 3
+   },
+   {
+    "quote": "Who it serves: Owner‑operators, contract operators, engineering service firms and scanning services across heavy industries (water, energy, manufacturing and other asset‑intensive sectors).[1][2]",
+    "url": "https://startupintros.com/orgs/samp",
+    "pass": 3
+   },
+   {
+    "quote": "Growth momentum: Founded circa 2019–2020 and deployed across “several dozens” of sites in Europe with notable investor backing (e.g., High‑Tech Gründerfonds listed as an investor), Samp reports customer deployments and rapid commercial adoption in industrial customers since its early product launches.[2][3][1]",
+    "url": "https://startupintros.com/orgs/samp",
+    "pass": 3
+   },
+   {
+    "quote": "Founders’ background & how idea emerged: Bourgouin and Shah combined deep industrial domain experience (CEO with ~15 years in water & energy sectors) and deep‑learning/3D expertise to address persistent technical‑debt and documentation problems on industrial sites; the idea was to automatically generate intelligent 3D replicas of sites from scans to accelerate modernization and maintenance.[2][3]",
+    "url": "https://startupintros.com/orgs/samp",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial domain focus: Built by founders with long industrial operator experience—product tailored to owner‑operators and service firms rather than general‑purpose visualization tools.[2][3]",
+    "url": "https://startupintros.com/orgs/samp",
+    "pass": 3
+   },
+   {
+    "quote": "Trend alignment: Samp rides the convergence of reality capture, digital twins, AI/ML (for automated semantic understanding of scans) and the push for industrial decarbonization and efficiency—areas attracting investment and operator urgency.[2][1]",
+    "url": "https://startupintros.com/orgs/samp",
+    "pass": 3
+   },
+   {
+    "quote": "Why timing matters: Aging industrial infrastructure, scarce field labor, and sustainability/regulatory pressures are driving sites to accelerate modernization and reduce on‑site disruption; automated digital twins reduce planning time and on‑site iterations.[2][1]",
+    "url": "https://startupintros.com/orgs/samp",
+    "pass": 3
+   },
+   {
+    "quote": "What’s next: Expect continued customer deployments across European industrial operators, deeper integrations with engineering and asset‑management software, and expanded features around lifecycle workflows (maintenance, safety, sustainability reporting) as Samp matures.[2][1]",
+    "url": "https://startupintros.com/orgs/samp",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "As part of its digital transition, Teréga’s objectives are to facilitate access to information and improve the quality of the data made available to operational and project teams.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We chose Shared Reality because it will allow employees to interact with a faithful as-built model in their daily maintenance, inspection, or project activities. This portal should become the gateway to engineering and operations data.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We have synthesised the information to facilitate work preparation, search for technical data, train new employees, and more. Shared Reality provides connectors to our data sources, which greatly simplifies the maintenance of these sources in operational conditions.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://samp.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://samp.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://samp.ai/client-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://samp.ai/client-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "and Laurent Bourgouin (CEO) had a coffee at the world’s biggest Startup campus STATION F as part of the Entrepreneur First program.",
+    "url": "https://samp.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://samp.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://samp.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://samp.ai/client-case-study-storengy/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://samp.ai/client-case-study-storengy/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://samp.ai/client-case-study-suez/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://samp.ai/client-case-study-suez/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://samp.ai/client-case-study-trapil/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://samp.ai/client-case-study-trapil/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://samp.ai/client-case-study-elengy/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://samp.ai/client-case-study-elengy/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://samp.ai/client-case-study-terega/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://samp.ai/client-case-study-terega/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://samp.ai/client-case-study-brl/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://samp.ai/client-case-study-brl/",
+    "pass": 1
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/samp/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Samp 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/455219-56",
+    "pass": 3
+   },
+   {
+    "quote": "11. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/455219-56",
+    "pass": 3
+   },
+   {
+    "quote": "Samp has 57 total employees.",
+    "url": "https://pitchbook.com/profiles/company/455219-56",
+    "pass": 3
+   },
+   {
+    "quote": "What is Samp’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/455219-56",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Samp is",
+    "url": "https://pitchbook.com/profiles/company/455219-56",
+    "pass": 3
+   },
+   {
+    "quote": "When was Samp acquired?",
+    "url": "https://pitchbook.com/profiles/company/455219-56",
+    "pass": 3
+   },
+   {
+    "quote": "Samp was acquired on 02-Sep-2026.",
+    "url": "https://pitchbook.com/profiles/company/455219-56",
+    "pass": 3
+   },
+   {
+    "quote": "Laurent Bourgouin is listed as CEO at Samp.",
+    "url": "https://fundediq.co/samp-samp-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Samp have?",
+    "url": "https://fundediq.co/samp-samp-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/samp-samp-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/samp-samp-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Samp Revenue 2025: $5.8M Est.",
+    "url": "https://getlatka.com/companies/samp.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Samp has not published its revenue. Growjo puts it at about $5.8M a year (September 2025).",
+    "url": "https://getlatka.com/companies/samp.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Jeff Glueck is CEO of Samp. Samp has 46 employees (September 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/samp.ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is Samp's revenue?",
+    "url": "https://getlatka.com/companies/samp.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Growjo estimates Samp's revenue at about",
+    "url": "https://getlatka.com/companies/samp.ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Samp have?",
+    "url": "https://getlatka.com/companies/samp.ai",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/samp.ai",
+    "pass": 3
+   },
+   {
+    "quote": "RARR Technologies Pvt. Ltd.",
+    "url": "https://getlatka.com/companies/samp.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/samp.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/samp.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/samp.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Growth momentum: Founded circa 2019–2020 and deployed across “several dozens” of sites in Europe with notable investor backing (e.g., High‑Tech Gründerfonds listed as an investor), Samp reports customer deployments and rapid commercial adoption in industrial customers since its early product launches.[2][3][1]",
+    "url": "https://startupintros.com/orgs/samp",
+    "pass": 3
+   },
+   {
+    "quote": "Early traction/pivotal moments: Samp progressed from the Entrepreneur First origin to deploy its AI digital twin on multiple European sites and secure investment from European tech funds (e.g., High‑Tech Gründerfonds listed Samp in its portfolio), indicating early commercial validation.[2][3][1]",
+    "url": "https://startupintros.com/orgs/samp",
+    "pass": 3
+   },
+   {
+    "quote": "Influence on ecosystem: By lowering the barrier to usable digital twins, Samp can accelerate digital transformation at operator level, improve productivity for engineering services, and expand the market for downstream analytics and simulation tools that require reliable 3D context.[2][1]",
+    "url": "https://startupintros.com/orgs/samp",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Samp 日本 服务器列表 - 服务器监控与排行 — Samp 日本 服务器列表 最佳 Samp 服务器监控。 Samp 服务器和项目的评分与 TOP 排行，附带描述和帖子, 地区 日本。 列表按评分排序（投票、在线人数、帖子和状态）。",
+    "url": "https://gamemonitoring.cn/samp/servers/country/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Samp japan Server List - monitoring and rating of servers — Rating and TOP of Samp servers and projects with description and posts, map japan. The list is sorted by rating (votes, online, posts and status).",
+    "url": "https://gamemonitoring.net/samp/servers/map/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Samp B2B Case Studies & Customer Successes — See how Samp solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/samp",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Samp Uses Software & Services — Explore case studies featuring Samp as the customer — learn how vendors and partners helped Samp solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/samp",
+    "pass": 3
+   },
+   {
+    "quote": "5 Samp Case Studies, Success Stories, & Customer Stories — Discover how other companies use Samp, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/samp/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Client Case Study: Terega - Samp — Inaccurate or scattered information led to inefficiencies, complicating operations for both internal teams and external contractors. Teréga needed a solution to provide easy access to detailed asset information across their storage sites. That’s why they collaborated with Samp.",
+    "url": "https://samp.ai/client-case-study-terega/",
+    "pass": 3
+   },
+   {
+    "quote": "SAMP: Creating a Cleaning Products Brand from Scratch ... — How to build a household chemicals brand for both retail and corporate procurement. Naming, modular packaging system for 6 lines, and brand book for manufacturer Arnest. Case study by Sichkar Group.",
+    "url": "https://sichkargroup.com/samp-eng",
+    "pass": 3
+   },
+   {
+    "quote": "Samp 2026 Company Profile: Valuation, Investors, Acquisition ...Samp: Funding, Investors & Team (Nov 2026) - FundedIQSamp Revenue 2025: $5.8M Est. - getlatka.comSamp: Funding, Team & Investors | Startup IntrosSamp — Funding, Investors & Team | SeedtableSamp – Valuation, Revenue & Market Scope – 2026 – ParisHow Samp hit $5.8M revenue with a 46 person team in 2025. — Information on acquisition, fund",
+    "url": "https://pitchbook.com/profiles/company/455219-56",
+    "pass": 3
+   },
+   {
+    "quote": "Samp: Funding, Investors & Team (Nov 2026) - FundedIQ — Samp is an Artificial Intelligence company in Paris, France. Raised $10.6M across 2 rounds; latest round Sep 2024. Investors, founders and funding history.",
+    "url": "https://fundediq.co/samp-samp-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Samp Revenue 2025: $5.8M Est. - getlatka.com — Sep 10, 2026 · How many employees does Samp have? Samp has 46 employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/samp.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Samp: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Early traction/pivotal moments: Samp progressed from the Entrepreneur First origin to deploy its AI digital twin on multiple European sites and secure investment from European tech funds (e.g., High‑Tech Gründerfonds listed Samp in its portfolio), indicating early commercial validation.",
+    "url": "https://startupintros.com/orgs/samp",
+    "pass": 3
+   },
+   {
+    "quote": "Samp — Funding, Investors & Team | Seedtable — Jul 28, 2026 · Samp: Samp is an AI-driven industrial digital twin solutions provider founded in 2019 by Laurent Bourgouin.. View funding, investors, and team on Seedtable.",
+    "url": "https://seedtable.com/companies/samp",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/samp/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/samp/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/455219-56",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Samp team: 1 of 2 have an email address on file.",
+    "url": "https://fundediq.co/samp-samp-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/samp-samp-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "母の句集 花菜｜samp - note（ノート） Oct 23, 2026 · 今、お勤めの会社に、おしゃれ番長不在。 約5年前にオフィスワークやめっ！ 都会生活もやめっ！ と思い、一年半ほど農業に携わる仕事をしたが、結局、帰郷し、現在まさかのオフィスワーク。 やめっ！となった時、断捨離してたくさんのお洋服を手放した。故に服がない。 デニムのワイド ...",
+    "url": "https://note.com/samp13/n/nabc05f5c77c1",
+    "pass": 3
+   },
+   {
+    "quote": "母の句集 花菜｜samp - note（ノート） Nov 3, 2026 · 今朝は外からパチン、パチンと音が聞こえる。年に2回庭師さんが来る、その日。 AMラジオの音も心地よい。親子で営む、昔からの庭師さん。 お庭は四季を教えてくれる。今は紅葉が色づきはじめている。が、パチンパチン。 ただいま10時のおやつタイム 花だけは欲も打算もなくひらく 私は庭 ...",
+    "url": "https://note.com/samp13/n/n3a8c73237d25",
+    "pass": 3
+   },
+   {
+    "quote": "母の句集 花菜｜samp - note（ノート） Oct 26, 2026 · 墓じまいに伴い、父の戒名が決まった。 以前、母の戒名が好きと紹介しましたが、 昨日、父のをお寺さんが持ってきてくれた。 誠 うん。確かに。超真面目やしね。 直 これは間違いない。直角な人。 信 信仰心か厚い 武 名前から一文字 母のそれら「詩」「優」「音」「美」とは対照的な文字 ...",
+    "url": "https://note.com/samp13/n/n43dba83a7427",
+    "pass": 3
+   },
+   {
+    "quote": "母の句集 花菜｜samp - note（ノート） Nov 4, 2026 · 夏から毎日毎日おナス炊いたんが食卓に並ぶ。父が好きで、テッパンの一品。 私はもう、作るん飽きてきました。 それでもまだ秋なすは実っている。 お天気をいっぱい吸うて秋なすひ ほら、まだたくさんあるのです。 美味しいのは確かなのですが、私は麻婆茄子か食べたい。残念ながら父は ...",
+    "url": "https://note.com/samp13/n/n2fce463d3ace",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "と思い、一年半ほど農業に携わる仕事をしたが、結局、帰郷し、現在まさかのオフィスワーク。",
+    "url": "https://note.com/samp13/n/nabc05f5c77c1",
+    "pass": 3
+   },
+   {
+    "quote": "やめっ！となった時、断捨離してたくさんのお洋服を手放した。故に服がない。",
+    "url": "https://note.com/samp13/n/nabc05f5c77c1",
+    "pass": 3
+   },
+   {
+    "quote": "かつての職場は、京都のちっちゃいアパレルだったので、おしゃれさんが多かった。",
+    "url": "https://note.com/samp13/n/nabc05f5c77c1",
+    "pass": 3
+   },
+   {
+    "quote": "今は田舎の会社なので、飛び抜けておしゃれな人はそうそう見当たらない。",
+    "url": "https://note.com/samp13/n/nabc05f5c77c1",
+    "pass": 3
+   },
+   {
+    "quote": "昨日、仕方なく革ジャン羽織って出勤したら、朝からいきなり「かっこいいですね」と３人の人から声をかけられてしまった。（ありがとう）",
+    "url": "https://note.com/samp13/n/nabc05f5c77c1",
+    "pass": 3
+   },
+   {
+    "quote": "おしゃれして出勤する必要もないので、それはそれで良しとしても、お洋服を買いに行く場所かないのがさみしい。",
+    "url": "https://note.com/samp13/n/nabc05f5c77c1",
+    "pass": 3
+   },
+   {
+    "quote": "今朝は外からパチン、パチンと音が聞こえる。年に2回庭師さんが来る、その日。",
+    "url": "https://note.com/samp13/n/n3a8c73237d25",
+    "pass": 3
+   },
+   {
+    "quote": "AMラジオの音も心地よい。親子で営む、昔からの庭師さん。",
+    "url": "https://note.com/samp13/n/n3a8c73237d25",
+    "pass": 3
+   },
+   {
+    "quote": "お庭は四季を教えてくれる。今は紅葉が色づきはじめている。が、パチンパチン。",
+    "url": "https://note.com/samp13/n/n3a8c73237d25",
+    "pass": 3
+   },
+   {
+    "quote": "※バナーは母屋から私の部屋へ続く雪の日のお庭",
+    "url": "https://note.com/samp13/n/n3a8c73237d25",
+    "pass": 3
+   },
+   {
+    "quote": "母のそれら「詩」「優」「音」「美」とは対照的な文字が並んだ。",
+    "url": "https://note.com/samp13/n/n43dba83a7427",
+    "pass": 3
+   },
+   {
+    "quote": "ちょっと泣きそうになったけど、父の前で、ポーカーフェイスを貫いた。",
+    "url": "https://note.com/samp13/n/n43dba83a7427",
+    "pass": 3
+   },
+   {
+    "quote": "夏から毎日毎日おナス炊いたんが食卓に並ぶ。父が好きで、テッパンの一品。",
+    "url": "https://note.com/samp13/n/n2fce463d3ace",
+    "pass": 3
+   },
+   {
+    "quote": "美味しいのは確かなのですが、私は麻婆茄子か食べたい。残念ながら父は好まない。",
+    "url": "https://note.com/samp13/n/n2fce463d3ace",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "sam p (@samp_mtg) / X sam p @samp_mtg Chicago-based MtG limited junkie + cube enthusiast Host of Rough Drafts, a Magic limited podcast: linktr.ee/roughdrafts twitch.tv/samp_mtg Chicago, IL Joined June 2022",
+    "url": "https://x.com/samp_mtg",
+    "pass": 3
+   },
+   {
+    "quote": "Sampo SP Updates (@Samp0_Updates) / X An account dedicated to bringing updates about 5* #Sampo from HSR This acc will include leaks BUT story related leaks will not be posted, sampo haters dni",
+    "url": "https://x.com/Samp0_Updates",
+    "pass": 3
+   },
+   {
+    "quote": "samp on X: \"they didn’t go the cliche way of the the man ... 2 days ago · they didn’t go the cliche way of the the man slipping into disbelief that the love of his life is dead and this completely exposes mahid abandonment issues, his fears, making it 10x more disturbing and haunting 😭😭 #seherhonekohai",
+    "url": "https://x.com/lazing_around/status/2119684708762353852",
+    "pass": 3
+   },
+   {
+    "quote": "SAMP Group (@SAMPsrl) / Posts / X Sep 19, 2014 · SAMP Group (@SAMPsrl) - Posts - Wiring the world since 1936. Global provider of solutions for #wire and #cable production. | X (formerly Twitter)",
+    "url": "https://x.com/SAMPsrl",
+    "pass": 3
+   },
+   {
+    "quote": "さんぷる on X: \"RT @Samp1e_vd7: 始めたばかりですが曲を作ってみま... 始めたばかりですが曲を作ってみました。 よかったら聞いてみてください。 これからどんどん作って投稿してみます。 soundcloud.com/samp1e-8963176…",
+    "url": "https://x.com/Samp1e_vd7/status/2101813944558243973",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SAMP Group - LinkedIn SAMP Group | 13,813 followers on LinkedIn. SAMP Group is headquartered in Bologna, Italy, where for 90 years we have crafted and maintained the world’s finest wire and cable machines.",
+    "url": "https://www.linkedin.com/company/samp-s-r-l",
+    "pass": 3
+   },
+   {
+    "quote": "Samp - LinkedIn Samp is the software company that provides Shared Reality, an online workspace for the automatic generation, sharing and update of 3D digital twins of existing industrial sites.",
+    "url": "https://www.linkedin.com/company/samp-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "SAMP Group | LinkedIn SAMP Group | 13.870 follower su LinkedIn. SAMP Group is headquartered in Bologna, Italy, where for more than 85 years we have crafted and maintained the world’s finest wire and cable machines.",
+    "url": "https://it.linkedin.com/company/samp-s-r-l",
+    "pass": 3
+   },
+   {
+    "quote": "SAMP Group | LinkedIn SAMP offers global coverage with production sites in Italy, China, and Brazil and a sales and service unit in the USA, allowing us to provide sales, service, and expert support to our clients...",
+    "url": "https://br.linkedin.com/company/samp-s-r-l",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "open.mp - San Andreas multiplayer community - FacebookPhilippine Reality RP | Manila - FacebookFacebookSA-MP VIỆT NAM - FacebookSAMP COMMUNITY - FacebookSAMP | Pousos - FacebookGTA SAMP (ANY PH SERVER) - Facebook Jan 9, 2023 · OTHER WAYS TO HELP: - SHARE our social media posts - INVITE other SA players to our Discord (discord. gg/samp) - ENGAGE in our community on Discord - HELP other players on D",
+    "url": "https://www.facebook.com/openmultiplayer/",
+    "pass": 3
+   },
+   {
+    "quote": "Philippine Reality RP | Manila - FacebookFacebookSA-MP VIỆT NAM - FacebookSAMP COMMUNITY - FacebookSAMP | Pousos - FacebookGTA SAMP (ANY PH SERVER) - Facebook Oct 27, 2026 · Thank you to everyone who has been part of this journey. Whether you've been with us since the beginning or recently joined the community, we truly appreciate your support. Here's to another year of growth, memories, and quali",
+    "url": "https://www.facebook.com/PHRRP/",
+    "pass": 3
+   },
+   {
+    "quote": "SA-MP VIỆT NAM - Facebook AI Muốn thử sức không? 🏎️💨 ---------------------------------------------------------------------- IP : SA-MP.VN:7777 Trang chủ : https://web.sa-mp.network/ Shop Coin : https://sa-mp.network/ Discord : https://discord.gg/sampvn/ #SAMP #GTA #SA_MP_VN #LSPD #Roleplay #Gaming",
+    "url": "https://www.facebook.com/sampvn2026/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://samp.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samp.ai/industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samp.ai/client-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samp.ai/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samp.ai/client-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samp.ai/client-case-study-storengy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samp.ai/client-case-study-suez/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samp.ai/client-case-study-trapil/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samp.ai/client-case-study-elengy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samp.ai/client-case-study-terega/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samp.ai/client-case-study-brl/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samp.ai/wp-content/uploads/2026/01/Product-update-4.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://gamemonitoring.cn/samp/servers/country/japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://autoprove.net/imported-car/jeep/wrangler/258778/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://carview.yahoo.co.jp/news/detail/47e6455a7095c54bc0ec0f739549cf4f3c6fa475/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/werty1tym/n/n8a25071b0efa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkhashi.com/blogs/detail/145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/SAVE_JAPAN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gamemonitoring.net/samp/servers/map/japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tinytotintokyo.com/japan-stamp-collecting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miastravelmemoirs.com/the-ultimate-guide-to-collecting-eki-stamps-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/samp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/samp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/samp/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samp.ai/client-case-study-terega/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/455219-56",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/samp-samp-ai-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/samp.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/samp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/samp13/n/nabc05f5c77c1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/samp13/n/n3a8c73237d25",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/samp13/n/n43dba83a7427",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/samp13/n/n2fce463d3ace",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/samp_mtg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Samp0_Updates",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lazing_around/status/2119684708762353852",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SAMPsrl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/samp-s-r-l",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/samp-ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://it.linkedin.com/company/samp-s-r-l",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://br.linkedin.com/company/samp-s-r-l",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/openmultiplayer/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PHRRP/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sampvn2026/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Samp1e_vd7/status/2101813944558243973",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Samp 日本 導入",
+   "results": [
+    "https://gamemonitoring.cn/samp/servers/country/japan",
+    "https://autoprove.net/imported-car/jeep/wrangler/258778/",
+    "https://carview.yahoo.co.jp/news/detail/47e6455a7095c54bc0ec0f739549cf4f3c6fa475/",
+    "https://note.com/werty1tym/n/n8a25071b0efa",
+    "https://www.zjk.or.jp/kidney-disease/cure/peritoneal-dialysis/introduction/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://bestcarweb.jp/news/entame/1669612"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Samp 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "http://www.samsungcntjapan.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Samp Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/SAVE_JAPAN",
+    "https://gamemonitoring.net/samp/servers/map/japan",
+    "https://tinytotintokyo.com/japan-stamp-collecting",
+    "https://miastravelmemoirs.com/the-ultimate-guide-to-collecting-eki-stamps-in-japan/",
+    "https://justgonewandering.com/how-to-find-eki-stamps-japan/",
+    "https://www.sampejapan.gr.jp/japanese_site.html",
+    "https://sampcenter.com/server/?flag=114",
+    "https://biz.nikkan.co.jp/eve/sampe/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Samp manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/samp",
+    "https://www.casestudies.com/customer/samp",
+    "https://www.featuredcustomers.com/vendor/samp/case-studies",
+    "https://samp.ai/client-case-study-terega/",
+    "https://sichkargroup.com/samp-eng",
+    "https://samp.ai/client-case-study-trapil/",
+    "https://www.palantir.com/docs/foundry/use-case-examples/optimizing-production-with-erp-data-across-the-supply-chain"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Samp white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Samp founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/455219-56",
+    "https://fundediq.co/samp-samp-ai-funding/",
+    "https://getlatka.com/companies/samp.ai",
+    "https://startupintros.com/orgs/samp",
+    "https://seedtable.com/companies/samp",
+    "https://compworth.com/company/samp",
+    "https://getlatka.com/companies/samp.ai/vs/lifestreet.com"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Samp",
+   "results": [
+    "https://note.com/samp13/n/nabc05f5c77c1",
+    "https://note.com/samp13/n/n3a8c73237d25",
+    "https://note.com/samp13/n/n43dba83a7427",
+    "https://note.com/samp13/n/n2fce463d3ace",
+    "https://note.com/samp13/n/n224720c87e61",
+    "https://note.com/samp13/n/n1a503c9a6dd2",
+    "https://note.com/samp13/n/n84574c732cfe"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Samp",
+   "results": [
+    "https://x.com/samp_mtg",
+    "https://x.com/Samp0_Updates",
+    "https://x.com/lazing_around/status/2119684708762353852",
+    "https://x.com/SAMPsrl",
+    "https://x.com/Samp0_Updates/status/2116323369247469973",
+    "https://x.com/LVPlayground",
+    "https://x.com/Samp17d_8/status/2116020692902727736"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Samp",
+   "results": [
+    "https://www.linkedin.com/company/samp-s-r-l",
+    "https://www.linkedin.com/company/samp-ai/",
+    "https://it.linkedin.com/company/samp-s-r-l",
+    "https://br.linkedin.com/company/samp-s-r-l",
+    "https://in.linkedin.com/company/samp-technologies",
+    "https://sg.linkedin.com/in/realjeffreytan",
+    "https://it.linkedin.com/in/alberto-garraffa"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Samp",
+   "results": [
+    "https://www.facebook.com/openmultiplayer/",
+    "https://www.facebook.com/PHRRP/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/sampvn2026/",
+    "https://www.facebook.com/groups/officialsampcommunity/",
+    "https://www.facebook.com/samp.pousos.1/",
+    "https://www.facebook.com/groups/1139877159700767/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Samp note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/sadaaki",
+    "https://note.com/saiyou_dekirukun/all",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Samp X 投稿",
+   "results": [
+    "https://x.com/Samp1e_vd7/status/2101813944558243973",
+    "https://tieba.baidu.com/f?kw=samp&tpl=5",
+    "https://rn.samp.fun/",
+    "https://www.bilibili.com/video/BV1SK4y1n7tT/",
+    "https://www.acfun.cn/v/ac1773757",
+    "https://x.com/Samp1e_vd7/status/2117564153196122320",
+    "https://dojin.dmm.co.jp/help/twitter"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部36頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部36頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

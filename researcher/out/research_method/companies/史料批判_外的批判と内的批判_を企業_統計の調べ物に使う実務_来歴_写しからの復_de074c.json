@@ -8,9 +8,169 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-09T10:59:02.813725+00:00",
+ "researched_at": "2026-11-11T05:09:12.628292+00:00",
  "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "\\text{史料批判} = \\text{データ来歴の確認} + \\text{誤差モデルの推定} + \\text{バイアスの評価} + \\text{独立データによる検証}",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これは測定精度・バイアス・モデルの妥当性の評価に対応する",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "さらに、書き手のバイアスは除去すべきノイズであると同時に、史料を生み出した社会についての信号でもある",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第三に共通の制度的バイアス（別々に観察したが、同じ宣伝方針・検閲・報告様式に従った）",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "写本の系統関係を、共有される誤り（共通の書き間違い）を手がかりに樹形図（ステンマ）として復元するラハマン法は、系統推定のアルゴリズムそのものだった",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "そしてこの問題は、生物の系統推定と、誤りを伴う複製から系統を推定するという点でよく似ている",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "遺伝子は誤りを伴う複製によって伝わり、その変異から系統樹を復元できる",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "写本も筆写者による誤りを伴う複製によって伝わる",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これは、撃墜されずに帰還した機体の被弾箇所だけを見て装甲を決めてはいけない、という生存者バイアスの問題と同じ形をしている",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "われわれは原理的に「生き残った史料」に条件づけて推論しており、保存機構が史料内容にも依存するなら、この条件付けは見かけ上の相関やバイアスを生む",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "別の日付、複数の戦闘、文書同定の誤りといった可能性を含む仮説空間全体についての確率ではない",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "今井の言う感状の「絶対的」証拠力は、ベイズ的には強すぎる表現で、年月日の書き誤りや文書同定の誤りの確率を論理的にゼロにはできない以上、「大きいが有限なベイズ因子」に置き換えるのが適切である",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここで「実効」ベイズ因子には、文書の真正性、「不起合体」の語義解釈、その陣が小笠原方のどの範囲を指すか、作成者の情報アクセス、写本上の誤りの可能性がすべて畳み込まれている",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "しかし第5節で区別した第三の依存型、共通の制度的・社会的バイアスがここで効いてくる",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "両家記が互いを写していなくても、名門主家の敗北を指揮の失敗ではなく家臣の裏切りで説明する、という",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "＞注意：年号だけを置き換え、月日をそのままにしておくことが間違い",
+    "url": "https://www.nijl.ac.jp/pages/cijproject/sougoushomotsu.web/text/nichibun_13_cryns.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "• ビネガーシンドロームでダメになってしまうことも",
+    "url": "https://ocw.u-tokyo.ac.jp/lecture_files/11407/3/notes/ja/03nagasaki20180423_final.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "理系にも分かる史料批判――ベイズ推論と情報生成モデルによる再構成｜Reading Monkey",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "理系にも分かる史料批判――ベイズ推論と情報生成モデルによる再構成",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "史料批判と聞くと、古文書の真贋を見抜く職人芸や、歴史家が文書を疑ってかかる態度を思い浮かべるかもしれない。しかし史料批判の本質は、疑うことそのものではない。史料を",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "として扱い、そのデータの生成・伝達・保存の全過程を推論の対象に含めることである。",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "\\text{史料批判} = \\text{データ来歴の確認} + \\text{誤差モデルの推定} + \\text{バイアスの評価} + \\text{独立データによる検証}",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これは計測の世界で、センサーの表示値をそのまま真値とせず、校正・測定環境・ノイズ・サンプリング・データ処理・測定者の選択を確認する作業と、似た構造をもつ。本稿では、19世紀以来の古典的史料批判の骨格を確認したうえで、それがベイズ推論・グラフィカルモデル・欠損データ理論といった現代の統計的道具立てでどこまで形式化できるか、そして形式化の限界はどこにあるかを論じる。後半では、今井登志喜『歴史学研究法』が方法的作業の実例として取り上げた天文17年（1548年）の塩尻峠の合戦を素材に、実際に数値を動かした感度分析の試行を紹介する[1]。",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本稿に登場する数値は、史実についての客観的確率でも専門家の合意でもない。前提を明示し、前提を動かしたときに結論がどれだけ動くかを見るための、感度分析用の仮定値である。ベイズ的史料批判の価値は、歴史的真実を機械的に算出できることにあるのではない。どの結論が、どの仮定に依存しているかを可視化できることにある。",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "1. 史料は「答え」ではなく「観測データ」である",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
   "手順・やり方": [
+   {
+    "quote": "小型の家庭用ヒューム管製，中型の煉瓦・鉄板製，大型の鉄筋コンクリート製，また船舶用など種々あるが，ここでは工業用について説明する",
+    "url": "https://kotobank.jp/word/%E5%8F%B2%E6%96%99%E6%89%B9%E5%88%A4-81003",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
    {
     "quote": "史料批判(しりょうひはん)とは？ 意味や使い方 - コトバンク",
     "url": "https://kotobank.jp/word/%E5%8F%B2%E6%96%99%E6%89%B9%E5%88%A4-81003",
@@ -216,92 +376,6 @@
     "first_seen": "2026-11-08"
    }
   ],
-  "実例": [
-   {
-    "quote": "後半では、今井登志喜『歴史学研究法』が方法的作業の実例として取り上げた天文17年（1548年）の塩尻峠の合戦を素材に、実際に数値を動かした感度分析の試行を紹介する[1]",
-    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "9. 実例：塩尻峠の合戦",
-    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "以上の枠組みを、具体的な史料批判の古典的な実例に当ててみよう",
-    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "本稿では、この事例の条件付き確率を経験的に推定できる校正データを用意していない",
-    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "前節の独立性の原理が、この事例では結論の反転として現れる",
-    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "後者を扱うには、内応がなければ戦闘結果が変わったか、内応が敗北確率をどれだけ上げたかという反実仮想の評価、たとえば",
-    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "[7] Adrian C. Barbrook, Christopher J. Howe, Norman Blake and Peter Robinson, \"The phylogeny of The Canterbury Tales\", Nature, vol. 394, 1998, p. 839. 進化生物学の系統解析手法を『カンタベリー物語』中「バースの女房の序」の15世紀写本58点に適用し、分岐ネットワーク（split decomposition）による解析結果を示した",
-    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この結果、モデルにとって重要な変数は、対象クラスターを説明する通説と違和感はなく機械学習モデ",
-    "url": "https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-21K19998/21K19998seika.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "それぞれのシミュレーション結果最終世代の遺構情報を実際",
-    "url": "https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-21K19998/21K19998seika.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "の 9期遺構データと比較した結果、設定値 2が要素が一致する件数は多い結果となった",
-    "url": "https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-21K19998/21K19998seika.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "実験結果の比較のため、二種類のア",
-    "url": "https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-21K19998/21K19998seika.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この結果は、対象クラスター",
-    "url": "https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-21K19998/21K19998seika.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この結果、モデルにとって重要な変数は、対象クラスターを説明する通説と違和感はなく機械学習モデルの有用性が示唆された",
-    "url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21K19998/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "のリポジトリに掲載して公開する事例が増えて",
-    "url": "https://ocw.u-tokyo.ac.jp/lecture_files/11407/3/notes/ja/03nagasaki20180423_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
   "SNS・note（note・検索結果の抜粋）": [
    {
     "quote": "理系にも分かる史料批判――ベイズ推論と情報生成モデルによる再構成 Oct 18, 2026 · 2. 古典的史料批判の骨格：外的批判と内的批判 この方法論は19世紀ドイツで体系化された。ランケ（Leopold von Ranke, 1795–1886）は、1824年の著作に付した『近世歴史家批判』で先行する歴史著述の情報源と信頼性を詳細に吟味し、史料批判の基準を大きく引き上げた。後世、近代的史料批判を代表 ...",
@@ -326,110 +400,6 @@
    {
     "quote": "KAKEN — 研究課題をさがす | 機械学習による外的史資料批判モデルの検... — Aug 30, 2021 · 人文社会学研究では、特に史資料批判が研究の根幹をなす。この史資料批判は、外的批判と内的批判に類型化され、外的批判を科学的に行う方法論は確立されていない。考古学分野でおきた様々な捏造や偽造事件はその方法論の確立が急務だといえる。本申請では、外的批判を科学的に行う方法 ...",
     "url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21K19998/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "\\text{史料批判} = \\text{データ来歴の確認} + \\text{誤差モデルの推定} + \\text{バイアスの評価} + \\text{独立データによる検証}",
-    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "これは測定精度・バイアス・モデルの妥当性の評価に対応する",
-    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "さらに、書き手のバイアスは除去すべきノイズであると同時に、史料を生み出した社会についての信号でもある",
-    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "第三に共通の制度的バイアス（別々に観察したが、同じ宣伝方針・検閲・報告様式に従った）",
-    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "写本の系統関係を、共有される誤り（共通の書き間違い）を手がかりに樹形図（ステンマ）として復元するラハマン法は、系統推定のアルゴリズムそのものだった",
-    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "そしてこの問題は、生物の系統推定と、誤りを伴う複製から系統を推定するという点でよく似ている",
-    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "遺伝子は誤りを伴う複製によって伝わり、その変異から系統樹を復元できる",
-    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "写本も筆写者による誤りを伴う複製によって伝わる",
-    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "これは、撃墜されずに帰還した機体の被弾箇所だけを見て装甲を決めてはいけない、という生存者バイアスの問題と同じ形をしている",
-    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "われわれは原理的に「生き残った史料」に条件づけて推論しており、保存機構が史料内容にも依存するなら、この条件付けは見かけ上の相関やバイアスを生む",
-    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "別の日付、複数の戦闘、文書同定の誤りといった可能性を含む仮説空間全体についての確率ではない",
-    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "今井の言う感状の「絶対的」証拠力は、ベイズ的には強すぎる表現で、年月日の書き誤りや文書同定の誤りの確率を論理的にゼロにはできない以上、「大きいが有限なベイズ因子」に置き換えるのが適切である",
-    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ここで「実効」ベイズ因子には、文書の真正性、「不起合体」の語義解釈、その陣が小笠原方のどの範囲を指すか、作成者の情報アクセス、写本上の誤りの可能性がすべて畳み込まれている",
-    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "しかし第5節で区別した第三の依存型、共通の制度的・社会的バイアスがここで効いてくる",
-    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "両家記が互いを写していなくても、名門主家の敗北を指揮の失敗ではなく家臣の裏切りで説明する、という",
-    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "＞注意：年号だけを置き換え、月日をそのままにしておくことが間違い",
-    "url": "https://www.nijl.ac.jp/pages/cijproject/sougoushomotsu.web/text/nichibun_13_cryns.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "• ビネガーシンドロームでダメになってしまうことも",
-    "url": "https://ocw.u-tokyo.ac.jp/lecture_files/11407/3/notes/ja/03nagasaki20180423_final.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    }
@@ -606,52 +576,88 @@
     "first_seen": "2026-11-08"
    }
   ],
-  "SNS・note（note・本文）": [
+  "実例": [
    {
-    "quote": "理系にも分かる史料批判――ベイズ推論と情報生成モデルによる再構成｜Reading Monkey",
+    "quote": "後半では、今井登志喜『歴史学研究法』が方法的作業の実例として取り上げた天文17年（1548年）の塩尻峠の合戦を素材に、実際に数値を動かした感度分析の試行を紹介する[1]",
     "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "理系にも分かる史料批判――ベイズ推論と情報生成モデルによる再構成",
+    "quote": "9. 実例：塩尻峠の合戦",
     "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "史料批判と聞くと、古文書の真贋を見抜く職人芸や、歴史家が文書を疑ってかかる態度を思い浮かべるかもしれない。しかし史料批判の本質は、疑うことそのものではない。史料を",
+    "quote": "以上の枠組みを、具体的な史料批判の古典的な実例に当ててみよう",
     "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "として扱い、そのデータの生成・伝達・保存の全過程を推論の対象に含めることである。",
+    "quote": "本稿では、この事例の条件付き確率を経験的に推定できる校正データを用意していない",
     "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "\\text{史料批判} = \\text{データ来歴の確認} + \\text{誤差モデルの推定} + \\text{バイアスの評価} + \\text{独立データによる検証}",
+    "quote": "前節の独立性の原理が、この事例では結論の反転として現れる",
     "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "これは計測の世界で、センサーの表示値をそのまま真値とせず、校正・測定環境・ノイズ・サンプリング・データ処理・測定者の選択を確認する作業と、似た構造をもつ。本稿では、19世紀以来の古典的史料批判の骨格を確認したうえで、それがベイズ推論・グラフィカルモデル・欠損データ理論といった現代の統計的道具立てでどこまで形式化できるか、そして形式化の限界はどこにあるかを論じる。後半では、今井登志喜『歴史学研究法』が方法的作業の実例として取り上げた天文17年（1548年）の塩尻峠の合戦を素材に、実際に数値を動かした感度分析の試行を紹介する[1]。",
+    "quote": "後者を扱うには、内応がなければ戦闘結果が変わったか、内応が敗北確率をどれだけ上げたかという反実仮想の評価、たとえば",
     "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "本稿に登場する数値は、史実についての客観的確率でも専門家の合意でもない。前提を明示し、前提を動かしたときに結論がどれだけ動くかを見るための、感度分析用の仮定値である。ベイズ的史料批判の価値は、歴史的真実を機械的に算出できることにあるのではない。どの結論が、どの仮定に依存しているかを可視化できることにある。",
+    "quote": "[7] Adrian C. Barbrook, Christopher J. Howe, Norman Blake and Peter Robinson, \"The phylogeny of The Canterbury Tales\", Nature, vol. 394, 1998, p. 839. 進化生物学の系統解析手法を『カンタベリー物語』中「バースの女房の序」の15世紀写本58点に適用し、分岐ネットワーク（split decomposition）による解析結果を示した",
     "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "1. 史料は「答え」ではなく「観測データ」である",
-    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "quote": "この結果、モデルにとって重要な変数は、対象クラスターを説明する通説と違和感はなく機械学習モデ",
+    "url": "https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-21K19998/21K19998seika.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "それぞれのシミュレーション結果最終世代の遺構情報を実際",
+    "url": "https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-21K19998/21K19998seika.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "の 9期遺構データと比較した結果、設定値 2が要素が一致する件数は多い結果となった",
+    "url": "https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-21K19998/21K19998seika.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "実験結果の比較のため、二種類のア",
+    "url": "https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-21K19998/21K19998seika.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この結果は、対象クラスター",
+    "url": "https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-21K19998/21K19998seika.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この結果、モデルにとって重要な変数は、対象クラスターを説明する通説と違和感はなく機械学習モデルの有用性が示唆された",
+    "url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21K19998/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "のリポジトリに掲載して公開する事例が増えて",
+    "url": "https://ocw.u-tokyo.ac.jp/lecture_files/11407/3/notes/ja/03nagasaki20180423_final.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
    }
@@ -671,9 +677,9 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/jack4manastalk/n/neeebe40afbde",
+    "url": "https://note.com/to_maechan/n/n57bd84c50747",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
     "url": "https://note.com/jack4manastalk/n/n1bdb80a03e67",
@@ -681,17 +687,22 @@
     "method": "browser"
    },
    {
-    "url": "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "url": "https://note.com/jack4manastalk/n/neeebe40afbde",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://note.com/jack4manastalk/n/n8bdaa740d64c",
+    "url": "https://note.com/firm_yarrow4967/n/ne350cdd4f22c",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
     "url": "https://ja.wikipedia.org/wiki/%E5%8F%B2%E6%96%99%E6%89%B9%E5%88%A4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/reading_monkey/n/nd296c3a4db64",
     "status": "ok",
     "method": "http"
    },
@@ -701,22 +712,17 @@
     "method": "http"
    },
    {
-    "url": "https://tsukuba.repo.nii.ac.jp/records/2021236",
+    "url": "https://kakuyomu.jp/users/hepoan/news/11054822665752292694",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsukuba.repo.nii.ac.jp/records/2019212",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://researchmap.jp/blogs/blog_entries/view/109782/4db5d2112d2d281da801bbf87302aa47",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://library.naist.jp/opac/article/100513989?locale=ja",
+    "url": "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/28626",
     "status": "robots_disallowed",
     "method": ""
    },
@@ -728,11 +734,6 @@
    {
     "url": "https://jp.edanz.com/blog/thorough-explanation-how-to-write-a-systematic-review-bias-and-how-to-deal-with-it",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://tsukuba.repo.nii.ac.jp/records/2019138",
-    "status": "ok",
     "method": "browser"
    },
    {
@@ -741,17 +742,22 @@
     "method": ""
    },
    {
-    "url": "https://libwww2.kyusan-u.ac.jp/archive/002584.html",
-    "status": "network_error:ConnectTimeout",
+    "url": "https://researchmap.jp/blogs/blog_entries/view/109782/4db5d2112d2d281da801bbf87302aa47",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tsuji.ac.jp/about/publication/?2009%2C09%2C09=",
+    "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/76789",
-    "status": "robots_disallowed",
-    "method": ""
+    "url": "https://ja.wikipedia.org/wiki/%E5%8F%B2%E6%96%99%E6%89%B9%E5%88%A4",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "url": "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
+    "url": "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -761,12 +767,17 @@
     "method": "pdf"
    },
    {
-    "url": "https://sitereports.nabunken.go.jp/ja/search-article/item/123740?academic_category%5B%5D=%E6%96%87%E7%8C%AE%E5%8F%B2%E5%AD%A6&sort=id%3Ar",
+    "url": "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
     "status": "ok",
-    "method": "browser"
+    "method": "pdf"
    },
    {
-    "url": "http://journal.takushoku-u.ac.jp/bri/bri_092.pdf",
+    "url": "https://www.mext.go.jp/content/20260704-mxt_syogai01-000046146_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://iris.unive.it/retrieve/e4239dde-9fd6-7180-e053-3705fe0a3322/kosh_053_all.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -774,11 +785,6 @@
     "url": "https://www.rieti.go.jp/jp/about/Highlight_44/Highlight_44.pdf",
     "status": "ok",
     "method": "pdf"
-   },
-   {
-    "url": "https://ja.wikipedia.org/wiki/%E5%8F%B2%E6%96%99%E6%89%B9%E5%88%A4",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://journalofdigitalhumanities.org/3-2/provenance-meets-source-criticism/",
@@ -791,16 +797,6 @@
     "method": ""
    },
    {
-    "url": "https://quizlet.com/study-guides/historical-source-criticism-external-and-internal-analysis-t-4b5b3be5-8748-4f71-b314-8090530fe3b5",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.scribd.com/document/501458956/MODULE-3",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://researchbasics.education.uconn.edu/historical_research/",
     "status": "ok",
     "method": "http"
@@ -809,6 +805,16 @@
     "url": "https://www.slideshare.net/slideshow/ic-external-and-internal-criticism-repositories-of-primary-sources-and-different-kinds-of-primary-sourcespptx/266346495",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.scribd.com/presentation/607871680/External-and-Internal-Criticism-on-the-Readings-in-Philippine-History-1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thomasleibundgut.com/wp-content/uploads/Romans_Handout_Source-Criticism.pdf",
+    "status": "ok",
+    "method": "pdf"
    }
   ]
  },
@@ -818,14 +824,14 @@
    "results": [
     "https://note.com/tsunobuchi/n/n8a38e368c99c",
     "https://note.com/kagawatomo/n/n802f5e82b9d1",
-    "https://note.com/jack4manastalk/n/neeebe40afbde",
-    "https://note.com/jack4manastalk/n/n1bdb80a03e67",
-    "https://note.com/jack4manastalk/n/n81f611b08ce5",
-    "https://note.com/jack4manastalk/n/n8bdaa740d64c",
-    "https://note.com/suzacque/n/n24733c14397e",
     "https://note.com/to_maechan/n/n57bd84c50747",
-    "https://note.com/create_agent/n/n95e8abc4d8fe",
-    "https://note.com/kamoshika_en/n/nc1ddb6d00c56"
+    "https://note.com/jack4manastalk/n/n1bdb80a03e67",
+    "https://note.com/jack4manastalk/n/neeebe40afbde",
+    "https://note.com/firm_yarrow4967/n/ne350cdd4f22c",
+    "https://note.com/jack4manastalk/n/n81f611b08ce5",
+    "https://note.com/suzacque/n/n24733c14397e",
+    "https://note.com/kamoshika_en/n/nc1ddb6d00c56",
+    "https://note.com/jack4manastalk/n/n8bdaa740d64c"
    ],
    "engines": [
     "ddgs:google",
@@ -837,18 +843,18 @@
    "query": "史料批判（外的批判と内的批判）を企業・統計の調べ物に使う実務（来歴・写しからの復元・誤りの型・出版バイアス） note",
    "results": [
     "https://ja.wikipedia.org/wiki/%E5%8F%B2%E6%96%99%E6%89%B9%E5%88%A4",
+    "https://note.com/reading_monkey/n/nd296c3a4db64",
     "https://kotobank.jp/word/%E5%8F%B2%E6%96%99%E6%89%B9%E5%88%A4-81003",
-    "https://tsukuba.repo.nii.ac.jp/records/2021236",
-    "https://researchmap.jp/blogs/blog_entries/view/109782/4db5d2112d2d281da801bbf87302aa47",
+    "https://kakuyomu.jp/users/hepoan/news/11054822665752292694",
+    "https://tsukuba.repo.nii.ac.jp/records/2019212",
+    "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/28626",
+    "https://researchmap.jp/read0153103/works/7763885?lang=ja",
     "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
-    "https://note.com/tsunobuchi/n/n8a38e368c99c",
     "https://library.naist.jp/opac/article/100513989?locale=ja",
-    "https://iris.unive.it/retrieve/e4239dde-9fd6-7180-e053-3705fe0a3322/kosh_053_all.pdf",
-    "https://sitereports.nabunken.go.jp/ja/search-article/item/123740?academic_category%5B%5D=%E6%96%87%E7%8C%AE%E5%8F%B2%E5%AD%A6&sort=id%3Ar",
-    "https://ja.wikipedia.org/wiki/史料批判"
+    "https://note.com/reading_monkey/n/nb4523f84f3df"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -858,17 +864,17 @@
    "results": [
     "https://ja.wikipedia.org/wiki/%E5%8F%B2%E6%96%99%E6%89%B9%E5%88%A4",
     "https://kotobank.jp/word/%E5%8F%B2%E6%96%99%E6%89%B9%E5%88%A4-81003",
+    "https://note.com/reading_monkey/n/nd296c3a4db64",
     "http://houki.yonago-kodaisi.com/F-M-Siryouhihan.html",
     "https://jp.edanz.com/blog/thorough-explanation-how-to-write-a-systematic-review-bias-and-how-to-deal-with-it",
-    "https://tsukuba.repo.nii.ac.jp/records/2019138",
+    "https://tsukuba.repo.nii.ac.jp/records/2019212",
     "https://www.library.tachikawa.tokyo.jp/themacontents?pid=124&listid=344",
     "https://researchmap.jp/blogs/blog_entries/view/109782/4db5d2112d2d281da801bbf87302aa47",
-    "https://libwww2.kyusan-u.ac.jp/archive/002584.html",
-    "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/76789",
+    "https://www.tsuji.ac.jp/about/publication/?2009%2C09%2C09=",
     "https://ja.wikipedia.org/wiki/史料批判"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -877,15 +883,15 @@
    "query": "史料批判（外的批判と内的批判）を企業・統計の調べ物に使う実務（来歴・写しからの復元・誤りの型・出版バイアス） 事例",
    "results": [
     "https://ja.wikipedia.org/wiki/%E5%8F%B2%E6%96%99%E6%89%B9%E5%88%A4",
-    "https://tsukuba.repo.nii.ac.jp/records/2019138",
-    "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/76789",
-    "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
+    "https://tsukuba.repo.nii.ac.jp/records/2019212",
+    "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/28626",
     "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
     "https://www.ism.ac.jp/editsec/toukei/pdf/74-1-all.pdf",
-    "https://sitereports.nabunken.go.jp/ja/search-article/item/123740?academic_category%5B%5D=%E6%96%87%E7%8C%AE%E5%8F%B2%E5%AD%A6&sort=id%3Ar",
-    "http://journal.takushoku-u.ac.jp/bri/bri_092.pdf",
+    "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
+    "https://www.mext.go.jp/content/20260704-mxt_syogai01-000046146_2.pdf",
+    "https://iris.unive.it/retrieve/e4239dde-9fd6-7180-e053-3705fe0a3322/kosh_053_all.pdf",
     "https://www.rieti.go.jp/jp/about/Highlight_44/Highlight_44.pdf",
-    "https://ja.wikipedia.org/wiki/史料批判"
+    "https://note.com/reading_monkey/n/nb4523f84f3df"
    ],
    "engines": [
     "ddgs:google",
@@ -898,20 +904,20 @@
    "results": [
     "https://journalofdigitalhumanities.org/3-2/provenance-meets-source-criticism/",
     "https://www.quora.com/How-do-you-apply-external-and-internal-criticism-to-make-your-research-more-authentic-and-reliable-in-historical-research",
-    "https://quizlet.com/study-guides/historical-source-criticism-external-and-internal-analysis-t-4b5b3be5-8748-4f71-b314-8090530fe3b5",
-    "https://www.scribd.com/document/501458956/MODULE-3",
     "https://researchbasics.education.uconn.edu/historical_research/",
     "https://www.slideshare.net/slideshow/ic-external-and-internal-criticism-repositories-of-primary-sources-and-different-kinds-of-primary-sourcespptx/266346495",
+    "https://www.scribd.com/presentation/607871680/External-and-Internal-Criticism-on-the-Readings-in-Philippine-History-1",
     "https://thomasleibundgut.com/wp-content/uploads/Romans_Handout_Source-Criticism.pdf",
+    "https://quizlet.com/study-guides/historical-source-criticism-external-and-internal-analysis-t-4b5b3be5-8748-4f71-b314-8090530fe3b5",
     "https://www.researchgate.net/figure/nternal-and-External-Criticism-from-Neuman-2003-p421_fig1_279943052",
-    "https://www.facebook.com/groups/716721052041720/posts/1846503685730112/",
+    "https://www.facebook.com/fb-answers/external-criticism-in-historical-research/",
     "https://distancelearning.institute/research/validating-research-documents-criticism-explained/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 13
   },
   {
    "query": "site:note.com 史料批判（外的批判と内的批判）を企業・統計の調べ物に使う実務（来歴・写しからの復元・誤りの型・出版バイアス）",
@@ -928,7 +934,7 @@
     "https://note.com/create_agent/n/n95e8abc4d8fe"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -936,12 +942,12 @@
   {
    "query": "site:x.com 史料批判（外的批判と内的批判）を企業・統計の調べ物に使う実務（来歴・写しからの復元・誤りの型・出版バイアス）",
    "results": [
-    "https://x.com/dimyauwin/status/2097561020936126661",
+    "https://x.com/Clunio/status/2059261776748007625",
     "https://x.com/i/status/2097559675172724859",
     "https://x.com/soubi422/status/2101289615789539789",
-    "https://x.com/Clunio/status/2059261776748007625",
-    "https://x.com/urakkun26/status/2100125874540720214",
     "https://x.com/adamtakahashi/status/2073254462647607434",
+    "https://x.com/urakkun26/status/2100125874540720214",
+    "https://x.com/machi82175302/status/2067568230705906038",
     "https://x.com/002Quantum/status/2097176737046306862"
    ],
    "engines": [
@@ -952,13 +958,13 @@
   {
    "query": "site:linkedin.com 史料批判（外的批判と内的批判）を企業・統計の調べ物に使う実務（来歴・写しからの復元・誤りの型・出版バイアス）",
    "results": [
-    "https://www.linkedin.com/in/eeshaanc",
-    "https://in.linkedin.com/company/indiumsoftware",
     "https://az.linkedin.com/company/queensite?trk=ppro_cprof",
-    "https://www.linkedin.com/company/benchmark-vc",
-    "https://in.linkedin.com/in/sehrul-nissa-981b44223",
+    "https://in.linkedin.com/company/abc-consultants",
+    "https://sa.linkedin.com/company/satorp-saudi-aramco-refining-petrolchemical-&-co.",
+    "https://www.linkedin.com/pulse/245-aiとの共創を支える内的宇宙-陽-佐藤-gfpfc",
     "https://jp.linkedin.com/pulse/navigating-ethical-challenges-academic-statistical-awe-ph-d-mba-dazqf?tl=ja",
-    "https://jp.linkedin.com/pulse/case-study-critical-thinking-corporate-failures-netish-sharma-q84wc?tl=ja"
+    "https://jp.linkedin.com/pulse/case-study-critical-thinking-corporate-failures-netish-sharma-q84wc?tl=ja",
+    "https://www.linkedin.com/posts/norikazu68_外的妥当性分析知見の応用範囲を広げるためのデザインと評価の指針-activity-7184348189158699008-eAQd"
    ],
    "engines": [
     "ddgs:bing"
@@ -968,13 +974,13 @@
   {
    "query": "site:facebook.com 史料批判（外的批判と内的批判）を企業・統計の調べ物に使う実務（来歴・写しからの復元・誤りの型・出版バイアス）",
    "results": [
-    "https://www.facebook.com/kigyoushiryou/posts/資料紹介ワーキングペーパー社風に応じた企業アーカイブを歴史資料を現在と将来に活かす佐藤政則麗澤大学教授本協議会主催ビジネスアーキビスト研修講座講師本協議会主催ビ/517693021686538/",
     "https://www.facebook.com/kigyoushiryou/",
-    "https://www.facebook.com/kigyoushiryou/posts/-企業アーカイブズの理論と実践反響-その３-当協議会編企業アーカイブズの理論と実践が全国歴史資料保存利用機関連絡協議会全史料協の会誌記録と史料24号2014年3/514910088631498/",
+    "https://www.facebook.com/kigyoushiryou/posts/資料紹介ワーキングペーパー社風に応じた企業アーカイブを歴史資料を現在と将来に活かす佐藤政則麗澤大学教授本協議会主催ビジネスアーキビスト研修講座講師本協議会主催ビ/517693021686538/",
+    "https://www.facebook.com/tdbshiryokan3333/posts/学芸員室の雑記帳企業が経験したそのときの記録を掲載しています2026年ではなく2036年完成が楽しみですねhttpswwwtdb-musejpblog2226/808440617751604/",
     "https://bs-ba.facebook.com/businessarchiveslab/videos/ビジネスアーカイブズ事業とは企業団体の足跡を記録した文書画像その他史料を適切に整理保存記録活用する方法を提案しその作業の代行をはじめ企業アーカイブズ全般にかかわ/116347095699764/",
-    "https://www.facebook.com/kigyoushiryou/posts/-企業アーカイブズの理論と実践反響-その２-企業アーカイブズの理論と実践が専門図書館協議会機関誌専門図書館264号2014年1月の資料紹介の欄同号63-64ペー/514909415298232/",
+    "https://www.facebook.com/kigyoushiryou/posts/-企業アーカイブズの理論と実践反響-その３-当協議会編企業アーカイブズの理論と実践が全国歴史資料保存利用機関連絡協議会全史料協の会誌記録と史料24号2014年3/514910088631498/",
     "https://www.facebook.com/kigyoushiryou/photos/企業と史料-第8集-拡がるアーカイブズの世界目次ご挨拶-企業史料協議会会長-歌田勝弘味の素株式会社-特別顧問3企業史料協議会平成24年度の活動概況-5企業史料協/356042507851591/",
-    "https://www.facebook.com/tdbshiryokan3333/posts/学芸員雑記帳企業データブックを更新しました日々言葉との闘いですhttpwwwtdb-musejpwebmagazine202007post-1052html/2630084510643311/"
+    "https://www.facebook.com/kigyoushiryou/posts/-企業アーカイブズの理論と実践反響-その２-企業アーカイブズの理論と実践が専門図書館協議会機関誌専門図書館264号2014年1月の資料紹介の欄同号63-64ペー/514909415298232/"
    ],
    "engines": [
     "ddgs:google"
@@ -985,18 +991,18 @@
    "query": "史料批判（外的批判と内的批判）を企業・統計の調べ物に使う実務（来歴・写しからの復元・誤りの型・出版バイアス） note 社長",
    "results": [
     "https://ja.wikipedia.org/wiki/%E5%8F%B2%E6%96%99%E6%89%B9%E5%88%A4",
+    "https://note.com/reading_monkey/n/nd296c3a4db64",
     "https://kotobank.jp/word/%E5%8F%B2%E6%96%99%E6%89%B9%E5%88%A4-81003",
-    "https://tsukuba.repo.nii.ac.jp/records/2019138",
+    "https://kakuyomu.jp/users/hepoan/news/11054822665752292694",
+    "http://houki.yonago-kodaisi.com/F-M-Siryouhihan.html",
+    "https://tsukuba.repo.nii.ac.jp/records/2019212",
+    "https://honsuki.jp/pickup/9219/index.html",
+    "https://note.com/kamokita/n/n09b053ec0a9c",
     "https://sitereports.nabunken.go.jp/ja/search-article/item/123740?academic_category%5B%5D=%E6%96%87%E7%8C%AE%E5%8F%B2%E5%AD%A6&sort=id%3Ar",
-    "https://iris.unive.it/retrieve/e4239dde-9fd6-7180-e053-3705fe0a3322/kosh_053_all.pdf",
-    "https://opac002.libcloud.jp/lib_fussa_tokyo/item-details?id=02734062",
-    "https://www.rieti.go.jp/jp/about/Highlight_61/Highlight_61.pdf",
-    "http://journal.takushoku-u.ac.jp/bri/bri_092.pdf",
-    "https://www.soumu.go.jp/johotsusintokei/linkdata/r07_03_houkoku.pdf",
     "https://ja.wikipedia.org/wiki/史料批判"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -1007,16 +1013,16 @@
     "https://note.com/reading_monkey/n/nb4523f84f3df",
     "https://ja.wikipedia.org/wiki/%E5%8F%B2%E6%96%99%E6%89%B9%E5%88%A4",
     "https://kotobank.jp/word/%E5%8F%B2%E6%96%99%E6%89%B9%E5%88%A4-81003",
+    "https://kakuyomu.jp/users/hepoan/news/11054822665752292694",
+    "http://houki.yonago-kodaisi.com/F-M-Siryouhihan.html",
     "https://waseda-jp.libguides.com/47317002",
-    "https://tsukuba.repo.nii.ac.jp/records/2019138",
+    "https://tsukuba.repo.nii.ac.jp/records/2019212",
     "https://researchmap.jp/rmzn/research_interests/54327641",
     "https://www.ism.ac.jp/editsec/toukei/pdf/74-1-all.pdf",
-    "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
-    "https://sitereports.nabunken.go.jp/ja/search-article/item/123740?academic_category%5B%5D=%E6%96%87%E7%8C%AE%E5%8F%B2%E5%AD%A6&sort=id%3Ar",
-    "https://ja.wikipedia.org/wiki/史料批判"
+    "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21K19998/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -1027,13 +1033,13 @@
     "https://www.linkedin.com/posts/chriseastlandjones_niso-to-develop-metadata-model-for-provenance-activity-7518972203590287360-Uuio",
     "https://www.linkedin.com/pulse/ultimate-guide-swot-analysis-using-generative-ai-hacking-hr-9xroc",
     "https://www.linkedin.com/in/llakata",
+    "https://uk.linkedin.com/company/thebusinessresearchcompany",
+    "https://www.linkedin.com/posts/daniel-w-hook_is-up-to-80-of-the-content-of-the-research-activity-7513249255596158976-vvhl",
     "https://uk.linkedin.com/in/mnksaunders",
-    "https://www.linkedin.com/top-content/artificial-intelligence/ai-model-development/ai-model-origin-transparency-issues/",
+    "https://ch.linkedin.com/in/stephanieegli/en",
     "https://in.linkedin.com/company/brainyplus",
     "https://www.linkedin.com/in/chelseaforgenie",
-    "https://ch.linkedin.com/in/stephanieegli/en",
-    "https://www.linkedin.com/in/matthewjeans",
-    "https://www.linkedin.com/pulse/updated-pt-2-interview-unusual-people-analytics-expert-rosenow-ezu0e"
+    "https://in.linkedin.com/in/mohit-dhar-a944134"
    ],
    "engines": [
     "ddgs:google",
@@ -1043,7 +1049,16 @@
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 5,
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "小型の家庭用ヒューム管製，中型の煉瓦・鉄板製，大型の鉄筋コンクリート製，また船舶用など種々あるが，ここでは工業用について説明する",
+    "url": "https://kotobank.jp/word/%E5%8F%B2%E6%96%99%E6%89%B9%E5%88%A4-81003",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   }
+  ]
+ },
+ "runs": 6,
  "first_researched_at": "2026-11-08T02:03:16.649570+00:00"
 }

@@ -636,7 +636,7 @@
   - syusodo.co.jp と note.com：品目の重なり 1/3（33%）
   - syusodo.co.jp と ichidokiri.co.jp：品目の重なり 1/3（33%）
   - note.com と ichidokiri.co.jp：品目の重なり 1/3（33%）
-  - ichidokiri.co.jp と hojyokin-concierge.com：品目の重なり 1/3（33%）
+  - hojyokin-concierge.com と ichidokiri.co.jp：品目の重なり 1/3（33%）
   - syusodo.co.jp と hojyokin-concierge.com：品目の重なり 0/4（0%）
 
 ## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）

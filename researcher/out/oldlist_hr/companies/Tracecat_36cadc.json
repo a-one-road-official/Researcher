@@ -1,0 +1,1068 @@
+{
+ "name": "Tracecat",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Cybersecurity / Automation｜未接触",
+ "researched_at": "2026-11-11T05:47:26.943996+00:00",
+ "official_url": "https://tracecat.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "27-Mar-2024 $1.5M   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/551668-33",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2024",
+    "url": "https://startupintros.com/orgs/tracecat",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "San Francisco, CA, USA",
+    "url": "https://startupintros.com/orgs/tracecat",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Triage this Wiz finding: privilege escalation on a prod IAM role.",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I can route this through the SOC analyst agent — it will tune the finding into an actionable case, correlate EDR telemetry, and propose containment.",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes — open a case and prepare containment.",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Isolate host on approval",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": ". Approve to proceed.",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale your security workforce with agents you own.",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate security work with prompts",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect agents to 50+ pre-built MCP servers without writing integration code.",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy in your own VPC, on-prem, or on Tracecat's cloud. Your prompts and detections stay yours.",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Human approvals on sensitive actions",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pause workflows for explicit approval before sensitive actions. Every approval is logged.",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud agent applied STS deny on prod-deployer-role",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Open source audit logs of every prompt, tool call, and decision your agents make.",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn prompts into deterministic workflows.",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise connectors",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your coding agent to Tracecat. Turn prompts into workflows.",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Run agents in workflows with human-in-the-loop agent approvals.",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce time-to-resolve with agents that collect evidence, summarize findings, and prepare the next action.",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Compromised npm package ran a post-install script and read npm and GitHub tokens.",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Worm-style self-propagation through npm publish with stolen tokens.",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Push and pull prompts, workflows, skills, and integrations between Tracecat and your own Git repo. Your repo stays the source of truth.",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Diff, review, and roll back every change to agent prompts and skills, with full audit history.",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited workspaces in Enterprise",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Separate staging from prod. Give each team its own workspace.",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about the Enterprise Edition →",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Approvals and agent inbox",
+    "url": "https://www.tracecat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Private network tunnels",
+    "url": "https://www.tracecat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "On-prem and air-gapped deployments",
+    "url": "https://www.tracecat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Team and Enterprise only",
+    "url": "https://www.tracecat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Infrastructure to build and scale 24/7 security agents with custom VMs, memory, and self-learning. Priced by concurrency and agent minutes.",
+    "url": "https://www.tracecat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Self-improving skills",
+    "url": "https://www.tracecat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "for pricing on additional executions.",
+    "url": "https://www.tracecat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Use agents to collect evidence, summarize findings, and prepare next actions.",
+    "url": "https://www.tracecat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Add approval gates where a human needs to decide.",
+    "url": "https://www.tracecat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Grow your agents in production",
+    "url": "https://www.tracecat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Review tool calls, approvals, decisions, and run history.",
+    "url": "https://www.tracecat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Tune prompts, tool use, and policies from analyst feedback.",
+    "url": "https://www.tracecat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How does usage pricing work?",
+    "url": "https://www.tracecat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What's the difference between Team and Enterprise?",
+    "url": "https://www.tracecat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Team pricing is a $50,000 platform fee per year, including 150k executions per month. Enterprise pricing is custom and depends on deployment. Contact sales for pricing on additional executions. Executions above 150k are never throttled. Agent computers are an add-on for Team and Enterprise, priced by concurrency and agent minutes. Open Source runs self-hosted without an SLA.",
+    "url": "https://www.tracecat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A genuine thank you to the team. I built an end-to-end IoC enrichment pipeline with Claude and Tracecat MCP and created more value for our SOC in a day than I probably would have in weeks on my own. You're making my one-man SOC assignment possible.",
+    "url": "https://www.tracecat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Principal Threat Researcher @ Saronic",
+    "url": "https://www.tracecat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": ": AGPL-3.0（オープンソース）※一部Enterprise Edition機能は別途ライセンス",
+    "url": "https://opensourcelab.jp/articles/tracecat-guide",
+    "pass": 3
+   },
+   {
+    "quote": "カスタムプロンプト、ツール、MCP（Model Context Protocol）、スキルを組み合わせてAIエージェントを構築できます",
+    "url": "https://opensourcelab.jp/articles/tracecat-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Edition（EE）の制限",
+    "url": "https://opensourcelab.jp/articles/tracecat-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Edition の主な追加機能は以下の通りです",
+    "url": "https://opensourcelab.jp/articles/tracecat-guide",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ設定や企業固有のロジックを非公開にしたい場合は、Enterprise Editionの検討が必要です",
+    "url": "https://opensourcelab.jp/articles/tracecat-guide",
+    "pass": 3
+   },
+   {
+    "quote": "オープンソース版とEnterprise版の主な違いは何ですか？",
+    "url": "https://opensourcelab.jp/articles/tracecat-guide",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド版（Tracecat Cloud）は運用手間が最小で、Enterprise Edition機能を即座に利用できます",
+    "url": "https://opensourcelab.jp/articles/tracecat-guide",
+    "pass": 3
+   },
+   {
+    "quote": ": シングルテナント（オープンソース版）か マルチテナント（Enterprise版）か",
+    "url": "https://opensourcelab.jp/articles/tracecat-guide",
+    "pass": 3
+   },
+   {
+    "quote": "💫 Toolkit to help you get started with SDD or any other process!",
+    "url": "https://opensourcelab.jp/tools/tracecat",
+    "pass": 3
+   },
+   {
+    "quote": "公式はmacOS専用→当社がLinux対応(systemdユーザータイマー)を実装し本家PR #73として提出済み",
+    "url": "https://kurage.exbridge.jp/oss/tracecat/",
+    "pass": 3
+   },
+   {
+    "quote": "Chat across your workspace with tools, MCP servers, and preset agents.",
+    "url": "https://docs.tracecat.com/overview/introduction",
+    "pass": 3
+   },
+   {
+    "quote": "Configure prebuilt credentials for Tracecat’s built-in integrations.",
+    "url": "https://docs.tracecat.com/overview/introduction",
+    "pass": 3
+   },
+   {
+    "quote": "Automation examples and starter prompts",
+    "url": "https://www.tracecat.com/security-automation-examples/incident-response-reporting-and-communication",
+    "pass": 3
+   },
+   {
+    "quote": "Paste a prompt into Claude Code, Microsoft Copilot, or Codex connected to Tracecat MCP. Adapt it to your tools and test before deployment. Advanced case features require Enterprise.",
+    "url": "https://www.tracecat.com/security-automation-examples/incident-response-reporting-and-communication",
+    "pass": 3
+   },
+   {
+    "quote": "Build me a notification automation in Tracecat. When an incident is declared, notify by a severity matrix: the response channel always, engineering leads at high severity, and executives at critical. Send through Slack and Teams, page named roles through PagerDuty, track who acknowledged, and re-ping non-responders on a timer.",
+    "url": "https://www.tracecat.com/security-automation-examples/incident-response-reporting-and-communication",
+    "pass": 3
+   },
+   {
+    "quote": "First help me understand how this maps to RS.CO-02 and why notification matrices should be agreed before incidents, not improvised during them. Ask me who must know at each severity, including any external parties with contractual notice rights. Talk me through keeping the matrix current as people change roles.",
+    "url": "https://www.tracecat.com/security-automation-examples/incident-response-reporting-and-communication",
+    "pass": 3
+   },
+   {
+    "quote": "Build me a notification drafting workflow in Tracecat. When an incident is flagged as reportable, start the regulatory clock, and have an AI agent draft the notices from confirmed case facts only: regulator format from our Notion templates, plus the customer version in plain language. Hold every draft for legal approval in the case before anything sends through Gmail.",
+    "url": "https://www.tracecat.com/security-automation-examples/incident-response-reporting-and-communication",
+    "pass": 3
+   },
+   {
+    "quote": "The controls and implementation examples below are NIST source material. The automation prompts above are Tracecat-authored starting points, not evidence of compliance or full control coverage.",
+    "url": "https://www.tracecat.com/security-automation-examples/incident-response-reporting-and-communication",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by security builders replacing legacy SOAR",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Triage user-reported emails and contain credential harvest before more users click.",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Liam in Finance reported an Okta password reset email that looks off.",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Block sender domain at the email gateway and Falcon DNS",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "triage_phishing_email",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agents can use the security and IT tools your team already depends on. Connect SIEM, EDR, MDM, CSPM, CNAPP, ticketing, email, and cloud systems. Use tool policies to decide which actions agents can take and which actions need approval.",
+    "url": "https://www.tracecat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect SIEM, EDR, MDM, CSPM, CNAPP, ticketing, email, and cloud systems.",
+    "url": "https://www.tracecat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/551668-33",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "セキュリティ・脆弱性対応のオープンソースを実測で比較（ライセンス・日本語対応・更新）",
+    "url": "https://exbridge.jp/ai-system/tracecat/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、この土台に対して日本語化、画面や項目の変更、権限、帳票、既存システムとの連携を加えて、御社の業務に合う状態にします",
+    "url": "https://exbridge.jp/ai-system/tracecat/",
+    "pass": 3
+   },
+   {
+    "quote": "tracecatには日本語のファイルがありません",
+    "url": "https://exbridge.jp/ai-system/tracecat/",
+    "pass": 3
+   },
+   {
+    "quote": "機能の一覧、日本語ファイルの実測、同じ分類のOSSとの比べ方など、技術者向けの情報は",
+    "url": "https://exbridge.jp/ai-system/tracecat/",
+    "pass": 3
+   },
+   {
+    "quote": "tracecatの日本語化・改修・導入（バイブOSS）を、御社のお客様に販売できます",
+    "url": "https://exbridge.jp/ai-system/tracecat/",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス、日本語対応、規模を比べて選べます",
+    "url": "https://exbridge.jp/ai-system/tracecat/",
+    "pass": 3
+   },
+   {
+    "quote": "かかるのはサーバー代と、日本語化や自社向けの変更にかかる費用です",
+    "url": "https://exbridge.jp/ai-system/tracecat/",
+    "pass": 3
+   },
+   {
+    "quote": "判定は、GitHubの公開ファイル一覧から日本語ロケールの実ファイルを数えた結果です（配布用のビルド成果物は除外）",
+    "url": "https://exbridge.jp/ai-system/tracecat/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語化が必要な場合は、当社がその作業を含めて導入します",
+    "url": "https://exbridge.jp/ai-system/tracecat/",
+    "pass": 3
+   },
+   {
+    "quote": "この用途に使えるオープンソースとして公開されており、当社ではこれを土台に日本語化と自社向けの変更を行って導入します",
+    "url": "https://exbridge.jp/ai-system/tracecat/",
+    "pass": 3
+   },
+   {
+    "quote": "tracecatでできること・日本語ガイド | Kurage",
+    "url": "https://kurage.exbridge.jp/oss/tracecat/",
+    "pass": 3
+   },
+   {
+    "quote": "tracecatのリポジトリに日本語ロケールのファイルは見つかりませんでした",
+    "url": "https://kurage.exbridge.jp/oss/tracecat/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語で運用するには日本語化から着手する必要があります",
+    "url": "https://kurage.exbridge.jp/oss/tracecat/",
+    "pass": 3
+   },
+   {
+    "quote": "GitHubの公開ファイル一覧から、日本語ロケールに当たるファイルを数えた結果です",
+    "url": "https://kurage.exbridge.jp/oss/tracecat/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語ファイルなし（0ファイル）",
+    "url": "https://kurage.exbridge.jp/oss/tracecat/",
+    "pass": 3
+   },
+   {
+    "quote": "同じカテゴリから、スター数・ライセンス・日本語対応を並べました",
+    "url": "https://kurage.exbridge.jp/oss/tracecat/",
+    "pass": 3
+   },
+   {
+    "quote": "このページは、名古屋のシステム開発会社・株式会社エクスブリッジが運営しています",
+    "url": "https://kurage.exbridge.jp/oss/tracecat/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社エクスブリッジ（EXBRIDGE, Inc.）",
+    "url": "https://kurage.exbridge.jp/oss/tracecat/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "tracecatでセキュリティ・脆弱性対応｜業務での使い方と導入 — 4 days ago · tracecatをセキュリティ・脆弱性対応の業務にどう使うかと、導入の進め方をまとめました。 AIエージェントやチーム向けのオープンソース・セキュリティ自動化プラットフォームです。 名古屋のシステム開発会社が日本語化から導入まで行います。",
+    "url": "https://exbridge.jp/ai-system/tracecat/",
+    "pass": 3
+   },
+   {
+    "quote": "tracecatとは？AIネイティブなセキュリティ自動化基盤の使い方・ライ... — Oct 6, 2026 · tracecatはAIエージェント向けの自動化基盤に特化しており、従来のSIEM（ログ集約）やSOAR（ワークフロー）とは役割が異なります。 既存SIEM からアラートを取得し、tracecatで自動調査→判定、結果をSIEMへ返すという組み合わせが一般的な使用パターンです。",
+    "url": "https://opensourcelab.jp/articles/tracecat-guide",
+    "pass": 3
+   },
+   {
+    "quote": "tracecatとは？特徴・ライセンス・代替情報 | オープンソースラボ — tracecatはAIエージェント向けのオープンソース・セキュリティ自動化基盤。 エージェント構築、ケース管理、ワークフロー自動化の特徴と導入方法を解説します。 オープンソースラボ編集部",
+    "url": "https://opensourcelab.jp/tools/tracecat",
+    "pass": 3
+   },
+   {
+    "quote": "tracecatでできること・日本語ガイド | Kurage — AIエージェントやチーム向けのオープンソース・セキュリティ自動化プラットフォームです。 ライセンスと日本語情報に加え、tracecatを使ったバイブコーディングによる自社向けシステム開発を案内します。",
+    "url": "https://kurage.exbridge.jp/oss/tracecat/",
+    "pass": 3
+   },
+   {
+    "quote": "Tracecat - オープンソースのセキュリティ自動化プラットフォーム — Tracecatは、AIエージェントとチーム向けのオープンソースセキュリティ自動化プラットフォームです。 プロンプトから自動化を構築し、ワークフロー、ケース管理、100以上の統合を提供します。 データは GitHub 由来です。",
+    "url": "https://reporank.net/ja/repo/tracecathq-tracecat.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tracecat | Open source SOAR for AI-native security teams — Tracecat is the open source security automation platform for teams and AI agents. Build workflows, manage cases, and automate cyber defense.",
+    "url": "https://www.tracecat.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Welcome to Tracecat - Tracecat Docs — The recommended way to start is to connect your coding agent to the Tracecat MCP server. Your agent then builds and runs workflows, agents, tables, and cases for you.",
+    "url": "https://docs.tracecat.com/overview/introduction",
+    "pass": 3
+   },
+   {
+    "quote": "tracecatとは？AIネイティブなセキュリティ自動化基盤の使い方・ライ... — Oct 6, 2026 · まとめ tracecatはAIエージェントをセキュリティ運用の中核に据える新しいアプローチを提供するオープンソース基盤です。 アラート対応やインシデント調査の自動化により、限られたセキュリティ人材をより戦略的な業務へシフトさせることができます。",
+    "url": "https://opensourcelab.jp/articles/tracecat-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Tracecat | Open source SOAR for AI-native security teams — Our use-case collection includes starter prompts for alert triage, threat hunting, incident response, access reviews, and other security work. Explore AI agents and workflows built around your tools, with each example linked to relevant NIST CSF 2.0 controls.",
+    "url": "https://www.tracecat.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Coordinate incident notifications and reports | Tracecat — Draft regulator and customer notices from confirmed case facts, notify stakeholders by severity, and prepare indicators for sharing. Keep external drafts with the people authorized to approve them.",
+    "url": "https://www.tracecat.com/security-automation-examples/incident-response-reporting-and-communication",
+    "pass": 3
+   },
+   {
+    "quote": "Use case examples • Consumer products • Optimize production ...Overview - Tracecat DocsCases - Tracecat DocsManufacturing Case Studies You Can Learn From - FactbirdCase study - MITSUBISHI ELECTRIC Global website — While profitability is a metric commonly reported at an aggregate company level, our customer was seeking the ability to compute it with more granularity to optimize COGS, improve output",
+    "url": "https://www.palantir.com/docs/foundry/use-case-examples/optimizing-production-with-erp-data-across-the-supply-chain",
+    "pass": 3
+   },
+   {
+    "quote": "Overview - Tracecat Docs — Track and resolve Tracecat cases: triage alerts, run agents and workflows on case events, manage tasks and comments, and report on outcomes.",
+    "url": "https://docs.tracecat.com/automations/cases",
+    "pass": 3
+   },
+   {
+    "quote": "Cases - Tracecat Docs — Each item contains a priority, a date, and a case count. If ACTIONS.cases_by_priority_per_day.result.truncated is true, the result reached the group limit and omitted some groups.",
+    "url": "https://docs.tracecat.com/automations/core-actions/case-actions/cases",
+    "pass": 3
+   },
+   {
+    "quote": "Tracecat 2026 Company Profile: Valuation, Funding & Investors ...Tracecat: Funding, Team & Investors | Startup IntrosTracecat - 2025 Company Profile, Team, Funding & Competitors ...Tracecat - Crunchbase Company Profile & FundingTracecat — Company Profile | The Company CheckTracecat - Products, Competitors, Financials, Employees ...TRacecat (YC W24) Profile, Investors, Funding, Competitors ... — In",
+    "url": "https://pitchbook.com/profiles/company/551668-33",
+    "pass": 3
+   },
+   {
+    "quote": "Tracecat: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Tracecat was founded in 2024 by Chris Lo and Daryl Lim, childhood friends and experienced engineers. Chris Lo, previously an ML engineer at PwC working on security and fraud detection tools, serves as CEO.",
+    "url": "https://startupintros.com/orgs/tracecat",
+    "pass": 3
+   },
+   {
+    "quote": "Tracecat - 2025 Company Profile, Team, Funding & Competitors ...Tracecat - Crunchbase Company Profile & FundingTracecat — Company Profile | The Company CheckTracecat - Products, Competitors, Financials, Employees ...TRacecat (YC W24) Profile, Investors, Funding, Competitors ... — Sep 30, 2025 · Tracecat is a seed company based in San Francisco (United States), founded in 2024 by Chris L and Daryl ",
+    "url": "https://tracxn.com/d/companies/tracecat/__4_PlBve_HwGpYo82arUJsLFIGnd5y7oojy9JhX56jyU",
+    "pass": 3
+   },
+   {
+    "quote": "Tracecat - Crunchbase Company Profile & FundingTracecat — Company Profile | The Company CheckTracecat - Products, Competitors, Financials, Employees ...TRacecat (YC W24) Profile, Investors, Funding, Competitors ... — Tracecat is the open source security automation platform for teams and AI agents. Tracecat is a company based in San Francisco (United States) founded in 2024 by Chris L and Daryl Lim",
+    "url": "https://www.crunchbase.com/organization/tracecat",
+    "pass": 3
+   },
+   {
+    "quote": "Tracecat — Company Profile | The Company Check — Tracecat is a company based in San Francisco (United States) founded in 2024 by Chris L and Daryl Lim.. Tracecat has raised $500 thousand across 1 funding round from investors including Y Combinator.",
+    "url": "https://www.thecompanycheck.com/company/b/tracecat/ex0mzpn4mtl3y0460",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Notify law enforcement agencies and regulatory bodies of incidents based on criteria in the incident response plan and management approval",
+    "url": "https://www.tracecat.com/security-automation-examples/incident-response-reporting-and-communication",
+    "pass": 3
+   },
+   {
+    "quote": "Built open source on open source (Temporal, Pydantic AI, Postgres, Clickhouse). Founded in 2024, deployed by more than 200 organizations from startups to Fortune 500 and federal agencies.",
+    "url": "https://startupintros.com/orgs/tracecat",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Your workflows can create or update a case, attach evidence, add comments, and move the case forward as new context arrives.",
+    "url": "https://docs.tracecat.com/automations/cases",
+    "pass": 3
+   },
+   {
+    "quote": "Tracecat has 8 total employees.",
+    "url": "https://pitchbook.com/profiles/company/551668-33",
+    "pass": 3
+   },
+   {
+    "quote": "What is Tracecat’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/551668-33",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Tracecat is",
+    "url": "https://pitchbook.com/profiles/company/551668-33",
+    "pass": 3
+   },
+   {
+    "quote": "Built open source on open source (Temporal, Pydantic AI, Postgres, Clickhouse). Founded in 2024, deployed by more than 200 organizations from startups to Fortune 500 and federal agencies.",
+    "url": "https://startupintros.com/orgs/tracecat",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Tracecat on X: \"Introducing Tracecat 1.0. The open source ... Introducing Tracecat 1.0. The open source security automation platform for teams and AI agents. Build, run, and self-host your own agentic SOC. Launch blog ↓ https://t.co/uJZXn1xpOJ",
+    "url": "https://x.com/tracecathq/status/2102844707332350073",
+    "pass": 3
+   },
+   {
+    "quote": "Tracecat on X: \"we get security alerts every day, but I haven ... Tracecat on X: \"we get security alerts every day, but I haven't logged into Splunk / AWS security hub since august. my agent Socky handles triage through Slack. whenever an alert comes in, it: - investigates what happened - uses skills to run drilldown queries and find the owner - pulls context from our inventory tables - asks \"was ",
+    "url": "https://x.com/tracecathq/status/2107869917655572939",
+    "pass": 3
+   },
+   {
+    "quote": "Tracecat (@Tracefog) / X Tracecat @Tracefog Mar 26, 2014 Der Postillon: G1-Gipfel: Putin wirft übrige sieben Staaten aus G8-Gruppe: der-postillon.com/2014/03/g1-gip…",
+    "url": "https://x.com/Tracefog",
+    "pass": 3
+   },
+   {
+    "quote": "Balaji VP (@ponbalaji) / X Balaji VP @ponbalaji May 27, 2025 GitHub - TracecatHQ/tracecat: Open-source security automation platform for teams and AI agents From github.com 10 Balaji VP",
+    "url": "https://x.com/ponbalaji",
+    "pass": 3
+   },
+   {
+    "quote": "Tracecat on X: \"Introducing Tracecat 1.0. The open source ... Sep 23, 2026 · Introducing Tracecat 1.0. The open source security automation platform for teams and AI agents. Build, run, and self-host your own agentic SOC. Launch blog ↓ https://t.co/uJZXn1xpOJ",
+    "url": "https://x.com/tracecathq/status/2102844707332350073",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tracecat - LinkedIn Tracecat helps AI-native security teams build agents and automate work. All-in-one platform with agents, skills, prompt-to-workflows, and case management. Scale cyber defense with agents you own.",
+    "url": "https://www.linkedin.com/company/tracecathq",
+    "pass": 3
+   },
+   {
+    "quote": "TraceCat - LinkedIn TraceCat | 5 followers on LinkedIn. An Innovative platform for real-time answer generation using Artificial Intelligence.",
+    "url": "https://www.linkedin.com/company/tracecat",
+    "pass": 3
+   },
+   {
+    "quote": "Sakil K. - Security Architect at Tracecat | Open-Source ... Speak only in Old English, using grammar and vocabulary accurate for England around 900 AD. [/admin] · Experience: Tracecat · Location: United Kingdom · 457 connections on LinkedIn.",
+    "url": "https://uk.linkedin.com/in/sakil-k-958b87188",
+    "pass": 3
+   },
+   {
+    "quote": "Forward Deployed Engineer (Security) at Tracecat — New York ... Apply for Forward Deployed Engineer (Security) at Tracecat in New York, NY. Full-time Entry level role. See responsibilities, qualifications, and similar jobs on LinkedIn.",
+    "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-security-at-tracecat-4483272706",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Chung Đinh - Tracecat: Nền tảng Tự động hóa Mã nguồn Mở ... Jul 20, 2026 · 🔥 Tracecat: Nền tảng Tự động hóa Mã nguồn Mở Thay thế Tines / Splunk SOAR TracecatHQ/tracecat: Nền tảng tự động hóa tất cả trong một (quy trình làm...",
+    "url": "https://www.facebook.com/chungdinhit/posts/-tracecat-nền-tảng-tự-động-hóa-mã-nguồn-mở-thay-thế-tines-splunk-soartracecathqt/27557770887249228/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tracecat.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tracecat.com/pricing",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tracecat.com/logos/saronic.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tracecat.com/logos/ninjaone.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tracecat.com/logos/dp.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tracecat.com/logos/lendigroup.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://exbridge.jp/ai-system/tracecat/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://opensourcelab.jp/articles/tracecat-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://opensourcelab.jp/tools/tracecat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kurage.exbridge.jp/oss/tracecat/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tracecat.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tracecat.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exbridge.jp/ai-system/tracecat/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.tracecat.com/overview/introduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://opensourcelab.jp/tools/tracecat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tracecat.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tracecat.com/security-automation-examples/incident-response-reporting-and-communication",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palantir.com/docs/foundry/use-case-examples/optimizing-production-with-erp-data-across-the-supply-chain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.tracecat.com/automations/cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/551668-33",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/tracecat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/tracecat/__4_PlBve_HwGpYo82arUJsLFIGnd5y7oojy9JhX56jyU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/tracecat",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tracecathq/status/2102844707332350073",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tracecathq/status/2107869917655572939",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Tracefog",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ponbalaji",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tracecathq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tracecat",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/sakil-k-958b87188",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-security-at-tracecat-4483272706",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/chungdinhit/posts/-tracecat-nền-tảng-tự-động-hóa-mã-nguồn-mở-thay-thế-tines-splunk-soartracecathqt/27557770887249228/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tracecathq/status/2102844707332350073",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tracecat 日本 導入",
+   "results": [
+    "https://exbridge.jp/ai-system/tracecat/",
+    "https://opensourcelab.jp/articles/tracecat-guide",
+    "https://opensourcelab.jp/tools/tracecat",
+    "https://kurage.exbridge.jp/oss/tracecat/",
+    "https://reporank.net/ja/repo/tracecathq-tracecat.html",
+    "https://www.sofarbot.com/ja/opensource/iyKNZGTSsdOk",
+    "https://korben.info/ja/tracecat-open-source-security-automation.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tracecat 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.tracecat.com/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://ja.nozominetworks.com/company"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tracecat Japan",
+   "results": [
+    "https://www.tracecat.com/",
+    "https://exbridge.jp/ai-system/tracecat/",
+    "https://docs.tracecat.com/overview/introduction",
+    "https://opensourcelab.jp/tools/tracecat",
+    "https://opensourcelab.jp/articles/tracecat-guide",
+    "https://www.linkedin.com/company/tracecathq",
+    "https://www.tracecat.com/contact"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tracecat manufacturing customer case study",
+   "results": [
+    "https://www.tracecat.com/",
+    "https://www.tracecat.com/security-automation-examples/incident-response-reporting-and-communication",
+    "https://www.palantir.com/docs/foundry/use-case-examples/optimizing-production-with-erp-data-across-the-supply-chain",
+    "https://docs.tracecat.com/automations/cases",
+    "https://docs.tracecat.com/automations/core-actions/case-actions/cases",
+    "https://www.mitsubishielectric.com/fa/solutions/digital-manufacturing/en/casestudy/5/index.html",
+    "https://www.factbird.com/resources/case-studies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tracecat white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://partners.spectrum.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tracecat founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/551668-33",
+    "https://startupintros.com/orgs/tracecat",
+    "https://tracxn.com/d/companies/tracecat/__4_PlBve_HwGpYo82arUJsLFIGnd5y7oojy9JhX56jyU",
+    "https://www.crunchbase.com/organization/tracecat",
+    "https://www.thecompanycheck.com/company/b/tracecat/ex0mzpn4mtl3y0460",
+    "https://www.cbinsights.com/company/tracecat",
+    "https://crustdata.com/profiles/company/tracecat-yc-w24"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Tracecat",
+   "results": [
+    "https://note.com/contest/創作大賞2026",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatsumuradesu/n/n6c669815ff19",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/bestgoods/n/nbb97e55e8420"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tracecat",
+   "results": [
+    "https://x.com/tracecathq/status/2102844707332350073",
+    "https://x.com/tracecathq/status/2107869917655572939",
+    "https://x.com/Tracefog",
+    "https://x.com/ponbalaji",
+    "https://x.com/aukfood",
+    "https://x.com/shortxstack",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Tracecat",
+   "results": [
+    "https://www.linkedin.com/company/tracecathq",
+    "https://www.linkedin.com/company/tracecat",
+    "https://uk.linkedin.com/in/sakil-k-958b87188",
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-security-at-tracecat-4483272706",
+    "https://www.linkedin.com/in/chris-tracecat",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7332663344492961792/",
+    "https://www.linkedin.com/in/jordan-umusu"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tracecat",
+   "results": [
+    "https://www.facebook.com/chungdinhit/posts/-tracecat-nền-tảng-tự-động-hóa-mã-nguồn-mở-thay-thế-tines-splunk-soartracecathqt/27557770887249228/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://business.facebook.com/latest/home/",
+    "https://www.facebook.com/chungdinhit/posts/-hacklabs-nền-tảng-thực-hành-ethical-hacking-hiện-đại-với-43-thử-thách-thực-chiế/27163731139986540/",
+    "https://www.facebook.com/kidschant/posts/alphabet-tracing-flash-cards-for-kids-learning-learn-and-rock/1572678344868403/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tracecat note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tracecat X 投稿",
+   "results": [
+    "https://docs.tracecat.com/tools/x",
+    "https://github.com/TracecatHQ/tracecat",
+    "https://x.com/tracecathq/status/2102844707332350073",
+    "https://www.tracecat.com/",
+    "https://www.tracecat.com/security-automation-examples/incident-response-reporting-and-communication",
+    "https://blog.csdn.net/gitblog_00795/article/details/157378349",
+    "https://docs.tracecat.com/api-reference/forms/submit-form"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部34頁・検索12回）"
+ }
+}

@@ -1,0 +1,1128 @@
+{
+ "name": "Undermind",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜未接触",
+ "researched_at": "2026-11-11T05:37:59.246350+00:00",
+ "official_url": "https://www.undermind.ai",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金タイプ",
+    "value": "フリーミアム（無料〜$16/月（年払い）） 無料枠 あり（高性能AIモデル・共有ワークスペース）",
+    "url": "https://aipicks.jp/tool/undermind#japanese",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/undermind-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$500,000",
+    "url": "https://prospeo.io/c/undermind-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "United States",
+    "url": "https://prospeo.io/c/undermind-revenue",
+    "pass": 3
+   },
+   {
+    "label": "HQ",
+    "value": "San Francisco, CA, USA",
+    "url": "https://startupintros.com/orgs/undermind",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2023",
+    "url": "https://prospeo.io/c/undermind-revenue",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2023",
+    "url": "https://startupintros.com/orgs/undermind",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Your agent reads figures the way a researcher does, with precise",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "score reaches the rubric's threshold for precise relevance.",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "high budgets to aggregate a comprehensive set of candidates.",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "can reach public web APIs. Undermind runs the production deep search",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "production search stops on its own after about 2.5 minutes on average.",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "retrieval system's returned list, and precision is measured over that",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "they find it. We interpolate recall and precision linearly between",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision,",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "averaged over the 23 research goals. Precision is measured over each",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I've had our whole R&D team at Actipulse subscribed to Pro and we are thrilled with it! It's amazing how it can dig up obscure papers that would take days or weeks to try to find otherwise.",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Applied Physics PhD, hard-tech entrepreneur, and startup advisor",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I have used this for extensive literature review into very nuanced drug delivery topics and have been very impressed. From chemistry to clinical trial data, this has been a very helpful tool.",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I am always impressed with Undermind's capabilities. It's often surfaced critical information I would have otherwise missed. Our whole research group is paying for Pro.",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "MIT PhD and Professor of Electrical Engineering, Northeastern University",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "All features in Pro, plus:",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Priority customer support",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "For enterprises: the security and scale you expect",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our enterprise agreements are tailored to your organization's needs, and your IP and research data stay under your control. We never compromise on privacy.",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your company's proprietary R&D data stays isolated and is never used to train AI models.",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "You own your inputs and outputs, we provide the software. Request complete removal of your organization's data at any time.",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Questions? Our team can walk you through our security practices and documentation.",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "GSK is driving an enterprise-wide AI transformation, with capabilities spanning",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "approach—where data, models, agents, and evidence systems work together to accelerate science and support better-informed decisions. This stack includes capabilities built in-house at GSK, complemented by collaborations with strategic partners.",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "Scientists face an exponentially growing literature base that makes comprehensive searches impractical. Finding the information scientists need, frequently on niche and complex topics, takes days or weeks of effort and often requires consulting with an external expert in a narrow field.",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "To address this, GSK scientists use Undermind like an AI expert colleague or librarian assistant – they outline a problem statement or frontier topic, then the AI carefully assesses vast quantities of scientific literature and reports back its findings,",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "Additionally, Undermind continues to monitor the web for new research and proactively alerts users to anything new that comes out related to their topics of interest.",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "Programmatic access to Undermind — part of GSK’s AI Scientist effort",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "GSK’s internal AI platform also connects programmatically to Undermind via a custom API—incorporating a research-evidence layer into their other tools and information flows. Undermind serves as a pillar in GSK’s “AI Scientist” stack, used by both AI agents and human researchers as a key part of longer and more complex workflows.",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "accelerated timelines, higher quality solutions to problems they face,",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "that align decisions and directly impact presentations and portfolio decisions. A few example use cases include:",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "to support prioritization",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "identification of candidates",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "Providing information on potential preclinical models and assessing outcome measures (e.g. specific imaging metrics)",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "with linked precedent and citations",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "toxicology reviews and safety profiling",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "GSK’s survey reported a net promoter score (NPS) of 63, well above published benchmarks for enterprise end-user software (where scores for similar tools measured in a workplace setting typically range from around 0 up to the mid-20s), placing Undermind in the top few percent of comparable software.",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "in my project and in particular how to",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "Undermind’s platform has provided a huge value.",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "Undermind's platform has provided a huge value. Work which would take",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "By eliminating time-consuming literature review and ensuring access to the best insights, Undermind allows GSK scientists to focus on the most interesting work: solving complex scientific problems and pursuing the ambitious research that leads to new therapeutic breakthroughs.",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "As the volume of scientific data continues to grow, sophisticated approaches to navigate information at scale will become increasingly critical. As GSK continues building their AI capabilities to address this,",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": ", positioning our research teams to explore novel solutions and identify the most promising research directions.",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "process. We benchmark Undermind’s performance compared to Google Scholar, showing drastic",
+    "url": "https://www.undermind.ai/whitepaper.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "improvements including a 10 × higher concentration of truly relevant results within the top hits.",
+    "url": "https://www.undermind.ai/whitepaper.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Figure 1: Undermind is accurate and comprehensive. We systematically compared the quality",
+    "url": "https://www.undermind.ai/whitepaper.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "highly relevant). Moreover, Undermind is comprehensive, missing < 3% of Google Scholar’s highly",
+    "url": "https://www.undermind.ai/whitepaper.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "goals, and then carefully and systematically search an entire literature database to find all precisely rel-",
+    "url": "https://www.undermind.ai/whitepaper.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "evant results for you. It should explain these results, individually and in aggregate, in a comprehensive",
+    "url": "https://www.undermind.ai/whitepaper.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(GPT-4) as a reasoning engine at key steps in a structured exploration process. Its search algorithm",
+    "url": "https://www.undermind.ai/whitepaper.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "reflecting on progress so far to decide next steps. Ultimately, Undermind delivers a precise set of final",
+    "url": "https://www.undermind.ai/whitepaper.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1. Basic search: We identify promising candidate papers using a custom algorithm that combines",
+    "url": "https://www.undermind.ai/whitepaper.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "accurately classifies each candidate paper based on its full text into 3 categories: highly relevant,",
+    "url": "https://www.undermind.ai/whitepaper.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "content it has discovered. This adaptation, which mimics a human’s discovery process, makes it",
+    "url": "https://www.undermind.ai/whitepaper.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "4. Estimating comprehensiveness: Undermind tracks how frequently it discovers relevant pa-",
+    "url": "https://www.undermind.ai/whitepaper.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Fig. 1(b)). Modeling this process allows us to determine when Undermind has found nearly all",
+    "url": "https://www.undermind.ai/whitepaper.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Here we provide quantitative benchmarks of the quality of Undermind compared to Google Scholar, an",
+    "url": "https://www.undermind.ai/whitepaper.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "The main results are presented in Fig. 2, showing the number of relevant papers Undermind au-",
+    "url": "https://www.undermind.ai/whitepaper.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Scholar.3 As a proxy for reasonable human effort on Google, we gather the first page of Google Scholar",
+    "url": "https://www.undermind.ai/whitepaper.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Undermind predicted total",
+    "url": "https://www.undermind.ai/whitepaper.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "papers is relevant to the topic, with probability greater than 92% (see Table 2). In contrast,",
+    "url": "https://www.undermind.ai/whitepaper.pdf",
+    "pass": 2
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by scientists from thousands of research institutions",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Encryption in transit and at rest, with strict access controls. Trusted by dozens of leading research companies and verified by independent penetration testing.",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "GSK’s internal AI platform also connects programmatically to Undermind via a custom API—incorporating a research-evidence layer into their other tools and information flows. Undermind serves as a pillar in GSK’s “AI Scientist” stack, used by both AI agents and human researchers as a key part of longer and more complex workflows.",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "models developed by academic and industrial labs and their contributions, for example (a",
+    "url": "https://www.undermind.ai/whitepaper.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "papers on this topic. Do not use boolean operators. Make sure not to repeat searches without",
+    "url": "https://www.undermind.ai/whitepaper.pdf",
+    "pass": 2
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Acquired resistance to KRAS G12C inhibitors",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Genomic landscape of clinically acquired resistance alterations in patients treated with KRASG12C inhibitors",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Acquired Resistance to KRASG12C Inhibition in Cancer",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Molecular characterization of acquired resistance to KRAS G12C-EGFR inhibition in colorectal cancer",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Acquired resistance to KRAS G12C inhibition in cancer",
+    "url": "https://www.undermind.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "a key part of our AI strategy",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "As part of this strategy, GSK partnered with Undermind to bring literature-grounded AI research agents, and AI-powered alert systems about new research, into scientists’ workflows.",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "Scientists face an exponentially growing literature base that makes comprehensive searches impractical. Finding the information scientists need, frequently on niche and complex topics, takes days or weeks of effort and often requires consulting with an external expert in a narrow field.",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "Programmatic access to Undermind — part of GSK’s AI Scientist effort",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "GSK’s internal AI platform also connects programmatically to Undermind via a custom API—incorporating a research-evidence layer into their other tools and information flows. Undermind serves as a pillar in GSK’s “AI Scientist” stack, used by both AI agents and human researchers as a key part of longer and more complex workflows.",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "Enabling rapid knowledge acquisition in",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "a key part of our AI strategy.",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 1
+   },
+   {
+    "quote": "computing with Rydberg atoms or arrays of Rydberg atoms.",
+    "url": "https://www.undermind.ai/whitepaper.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "changing the keywords. Make some searches broad and some narrow, some very short, and",
+    "url": "https://www.undermind.ai/whitepaper.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "論文が後の研究でどう引用されたかを「支持・反論・言及」に分けて示す scite の使い方を、運営元 Scite, LLC（Research Solutions の子会社）の料金ページ・ヘルプ・公式ブログで整理",
+    "url": "https://aiteller.jp/blog/undermind-tsukaikata",
+    "pass": 3
+   },
+   {
+    "quote": "AnySearchとは？AIエージェント向け検索APIの料金と使い方 (2026年版)",
+    "url": "https://aipicks.jp/mag/undermind-ai-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Wooming - Arrangement, Drum Programming, Guitars, Bass, Synthesizers, Mixing, Mastering",
+    "url": "https://www.youtube.com/watch?v=TUHA4z4w6H8",
+    "pass": 3
+   },
+   {
+    "quote": "DS吉村 - Arrangement (track 8)",
+    "url": "https://www.youtube.com/watch?v=TUHA4z4w6H8",
+    "pass": 3
+   },
+   {
+    "quote": "Undermind Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/undermind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Undermind",
+    "url": "https://prospeo.io/c/undermind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/undermind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/undermind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/undermind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Undermind?",
+    "url": "https://prospeo.io/c/undermind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Undermind generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/undermind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/undermind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/undermind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Undermind have?",
+    "url": "https://prospeo.io/c/undermind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/undermind-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "2018年以降に発表された、日本語の大規模言語モデルの性能を測る評価用のデータセット（ベンチマーク）を提案した論文を探しています",
+    "url": "https://aiteller.jp/blog/undermind-tsukaikata",
+    "pass": 3
+   },
+   {
+    "quote": "：日本語で研究テーマを説明した場合の精度や、日本語の論文を対象にするかどうかは、公式サイトに記載がありません",
+    "url": "https://aiteller.jp/blog/undermind-tsukaikata",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月の新しい版の画面での始め方、シード論文の入れ方、Grow で地図を広げる手順と点の読み方、旧版の Similar・Earlier・Later Work の新しい場所、Rabbit-hole と著者の探し方、コレクションと読書リスト、Zotero との連携、BibTeX・RIS・CSV の書き出し、日本語での使い方、無料版と RR+ の違いと料金、解約までまとめます",
+    "url": "https://aiteller.jp/blog/undermind-tsukaikata",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の国内文献を主に扱う調査では効果が限られる",
+    "url": "https://aipicks.jp/tool/undermind#japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Undermindは英語UIが中心の学術論文リサーチツールで、日本語UIや日本語サポートの公式案内は限定的です",
+    "url": "https://aipicks.jp/tool/undermind#japanese",
+    "pass": 3
+   },
+   {
+    "quote": "日本語で質問を投げても、対象論文は英語学術文献が主となる点に留意が必要です",
+    "url": "https://aipicks.jp/tool/undermind#japanese",
+    "pass": 3
+   },
+   {
+    "quote": "英語のメニューに抵抗がなければ問題なく使えますが、「すべて日本語で完結させたい」人にはひと手間かかります",
+    "url": "https://aipicks.jp/mag/undermind-ai-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "返ってきた英語論文の要旨を日本語で整理したいなら、",
+    "url": "https://aipicks.jp/mag/undermind-ai-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本語で問い、英語で読みます",
+    "url": "https://aipicks.jp/mag/undermind-ai-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "この前提を受け入れられるかが、日本人ユーザーの分かれ目です",
+    "url": "https://aipicks.jp/mag/undermind-ai-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本語で完結させたい場合はひと手間かかります",
+    "url": "https://aipicks.jp/mag/undermind-ai-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Elicit 代替ツール9選｜無料・日本語・オープンソースで論文検索 (2026年版)",
+    "url": "https://aipicks.jp/mag/undermind-ai-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Felo 代替8選｜無料・日本語・オープンソースで選ぶ乗り換え先 (2026年版)",
+    "url": "https://aipicks.jp/mag/undermind-ai-guide-2026",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Undermind 使い方｜論文検索AIの検索の流れ・無料とProの違い・利用規... — Sep 28, 2026 · 論文検索AI「Undermind」の使い方を、公式サイト・料金ページ・2026年7月31日改定の利用規約で整理。 調べたいことを文章で伝えて深い検索を走らせる流れ、無料・Pro・Team・Enterpriseの料金と違い、入力の扱い、商用の研究での利用条件をまとめます。",
+    "url": "https://aiteller.jp/blog/undermind-tsukaikata",
+    "pass": 3
+   },
+   {
+    "quote": "Undermindは日本語対応してる?UI・出力・サポートを検証 (2026) | AI ... — UndermindはUIまで日本語対応。 UI表示・入出力・サポートの日本語対応を、公式サイトの表示言語と編集部の評価をもとに整理しました。 日本語で業務に使えるかの判断材料と、同カテゴリの代替候補も確認できます。",
+    "url": "https://aipicks.jp/tool/undermind/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Undermind AIとは？論文検索の使い方と料金 (2026年版) — Jul 22, 2026 · Undermind AIは、キーワード一致ではなく研究の文脈を読んで関連論文を探すAI検索です。 通常のキーワード検索で漏れる文献を拾えるのが強み。 検索の使い方、無料で試せる範囲、有料プランの料金、Consensusなど他の論文検索AIとの違いを整理しました。",
+    "url": "https://aipicks.jp/mag/undermind-ai-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Undermind: your AI co-researcher for the literature — Undermind finds the papers others miss, reading full texts and figures, citing every source. Build command of your field with a living library as you research.",
+    "url": "https://www.undermind.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Undermind - 研究と発見を根本から向上させる | Aimyflow — Mar 28, 2026 · Undermindは、論文や引用ネットワークを探索し、研究者やR&Dチームが関連するエビデンスを迅速に見つけ、新規性を評価し、複雑なトピックを理解するのを支援する、AI搭載の科学文献調査アシスタントです。",
+    "url": "https://www.aimyflow.com/ja/ai/undermind-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Undermind: your AI co-researcher for the literature — We evaluate paper retrieval on 23 complex queries submitted to Undermind, specified as natural language research goals. We sample randomly from non-sensitive anonymized queries, stratifying for diverse research fields.",
+    "url": "https://www.undermind.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "アンダーマインド (undermind) - Vocaloid Lyrics Wiki — undermind (アンダーマインド) is a song by toAnga featuring Chis-A and Ui.",
+    "url": "https://vocaloidlyrics.miraheze.org/wiki/アンダーマインド_(undermind)",
+    "pass": 3
+   },
+   {
+    "quote": "UNDERMIND - Touhou Wiki - Characters, games, locations, and more — UNDERMIND is a doujin album by Kissing the Mirror released on 2011-10-16 (Touhou Kouroumu 7). It features vocal arrangements of themes from Embodiment of Scarlet Devil, Perfect Cherry Blossom, Mountain of Faith, Subterranean Animism and Uwabami Breakers.",
+    "url": "https://en.touhouwiki.net/wiki/UNDERMIND",
+    "pass": 3
+   },
+   {
+    "quote": "Kissing the Mirror - UNDERMIND (Full album) - YouTubePhish - Undermind (CD, Japan, 2004) For Sale | DiscogsUNDERMIND (Japan Version) - YesAsiaAOD020 | UNDERMIND - VGMdb — Feb 9, 2026 · Scarlet Swells 29:22 Country: Japan Release date: October 16, 2011 Illustration: 裸見える Design: Akira Natsuki Genre: Melodic Death Metal/Metalcore Wooming - Arrangement, Drum Programming ... Media Condition: Media: Ne",
+    "url": "https://www.youtube.com/watch?v=TUHA4z4w6H8",
+    "pass": 3
+   },
+   {
+    "quote": "Phish - Undermind (CD, Japan, 2004) For Sale | Discogs — Media Condition: Media: Near Mint (NM or M-) A nearly perfect disc. It should show no obvious signs of wear. Sleeve Condition:Sleeve:Near Mint (NM or M-) with obi and japanese liner notes View Release Page Seller: Gzcollect 99.0%, 1,733 ratings Ships From: Japan ¥2,500 +¥1,500 shipping about $27.05 total",
+    "url": "https://www.discogs.com/sell/release/10387813",
+    "pass": 3
+   },
+   {
+    "quote": "GSK deploys Undermind to power AI research agents grounded in ... — Over 1,000 GSK scientists use Undermind to accelerate drug discovery. Learn how this AI-powered literature search platform is transforming pharmaceutical research.",
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise | Undermind — We evaluate paper retrieval on 23 complex queries submitted to Undermind, specified as natural language research goals. We sample randomly from non-sensitive anonymized queries, stratifying for diverse research fields.",
+    "url": "https://www.undermind.ai/enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "Undermind Revenue, Funding & Valuation - prospeo.io — Undermind has revenue of $427,775, estimated valuation of $1,400,000, $500,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/undermind-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Undermind 2026 Company Profile: Valuation, Funding ...Undermind - 2026 Company Profile, Team, Funding & Competitors ...Undermind: Funding, Team & Investors | Startup IntrosUndermind — Company Profile, Funding & InvestorsUndermind — Company Profile & Funding | Indexed.vcUndermind Revenue 2025: $440K Est. - getlatka.com — Information on valuation, funding, cap tables, investors, and executives for U",
+    "url": "https://pitchbook.com/profiles/company/606847-87",
+    "pass": 3
+   },
+   {
+    "quote": "Undermind - 2026 Company Profile, Team, Funding & Competitors ...Undermind: Funding, Team & Investors | Startup IntrosUndermind — Company Profile, Funding & InvestorsUndermind — Company Profile & Funding | Indexed.vcUndermind Revenue 2025: $440K Est. - getlatka.com — Feb 21, 2026 · Undermind - About the company Undermind is a seed company based in Sacramento (United States), founded in 2023 by Tho",
+    "url": "https://tracxn.com/d/companies/undermind/__7eJtlAIMa2Gh9P2fygPM-HNRsiYugjGRGeLblaEHKJg",
+    "pass": 3
+   },
+   {
+    "quote": "Undermind: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Frequently Asked Questions Who founded Undermind? Undermind was founded in 2023 by Tom Hartke (Founder) and Joshua Ramette (Founder). How much funding has Undermind raised? Undermind has raised $500K in total across 1 funding round.",
+    "url": "https://startupintros.com/orgs/undermind",
+    "pass": 3
+   },
+   {
+    "quote": "Undermind — Company Profile, Funding & Investors — Undermind company profile — acquisitions, funding rounds, investments, investors, key people and contacts. Undermind is a research based firm that is creating an optimised search engine through AI.",
+    "url": "https://acquirezy.com/organization/undermind",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/undermind-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "undermind (@soupmind) / X undermind @soupmind Apr 6, 2018 telegram.veesecurity.com очень полезная ссылка в свете последних событий vk.cc/7V6qvo",
+    "url": "https://x.com/soupmind",
+    "pass": 3
+   },
+   {
+    "quote": "undermind (@undermindwhoami) / X founder @overmindwhoami @undermindwhoami hasn’t posted When they do, their posts will show up here.",
+    "url": "https://x.com/undermindwhoami",
+    "pass": 3
+   },
+   {
+    "quote": "Scarred for Life on X: \"UNDERMIND (1965): A proper gem from ... UNDERMIND (1965): A proper gem from the first stirrings of the Scarred For Life era. Denis Quilley, Jeremy Wilkin and Rosemary Nicols star in this subtle, cerebral alien invasion serial.",
+    "url": "https://x.com/ScarredForLife2/status/2107085702655549936",
+    "pass": 3
+   },
+   {
+    "quote": "The later voice of Virgil Tracy and Arthur Fowler in Undermind steve brown (@stevebrown84006). 12 views. @woodg31 The later voice of Virgil Tracy and Arthur Fowler in Undermind",
+    "url": "https://x.com/stevebrown84006/status/2055327211511542042",
+    "pass": 3
+   },
+   {
+    "quote": "UnderMınd (@UnderMind) / X 0 followers · 0 following. Joined Apr 2022. See the latest conversations with @UnderMind",
+    "url": "https://x.com/undermind",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by UnderMınd (@UnderMind) / X 0 followers · 0 following. Joined Apr 2022. See the latest conversations with @UnderMind",
+    "url": "https://x.com/UnderMind/reposts",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Undermind - LinkedIn Undermind is the AI literature layer for R&D. Start today in our app, or connect it to ChatGPT, Claude, Copilot or your company's internal AI agents. R&D programs get funded on what the...",
+    "url": "https://www.linkedin.com/company/undermind-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Joshua Ramette - CEO at Undermind: The AI literature layer ... Undermind is the AI literature layer for R&D. It does the careful search an expert would. Used by thousands of institutions like Novartis, Mayo Clinic, Harvard Medical School and the NIH.",
+    "url": "https://www.linkedin.com/in/joshua-ramette",
+    "pass": 3
+   },
+   {
+    "quote": "AI Literature Review Tools: Elicit, Scite, Undermind ... Here's what each one is actually good at: → Elicit - quick scan of the literature + reports → Scite - citation analysis + flagging contradicting evidence → Undermind - search + summaries → ...",
+    "url": "https://www.linkedin.com/posts/jfrechette_getting-up-to-speed-on-a-new-software-category-activity-7452724699769425921-ELGN",
+    "pass": 3
+   },
+   {
+    "quote": "Thomas Hartke - Co-Founder & CTO, Undermind (YC S24 ...Undermind search assistant intro | Undermind - LinkedInUndermind - Radically better research and discovery | UndermindÅsmund Folkestad - AI Research Engineer @ Undermind | MIT ... Co-Founder & CTO, Undermind (YC S24) | MIT Physics PhD · Experience: Undermind · Education: Massachusetts Institute of Technology · Location: San Francisco · 500+ co",
+    "url": "https://www.linkedin.com/in/thomas-hartke-229a0679",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Undermind - FacebookUndermind - FacebookFacebookUndermind | Hot Springs AR - FacebookunderMind - FacebookUndermind - FacebookUndermind - Facebook May 9, 2026 · Undermind. 846 likes. Undermind - MC / Lyricist - Electronic Music Live Performer / DJ - based out of Eugene, Oregon. Undermind. 1,024 followers · 1 talking about this. Undermind is pushing the boundaries of electronic music and nightlife i",
+    "url": "https://www.facebook.com/undermindmusic/",
+    "pass": 3
+   },
+   {
+    "quote": "Undermind - Facebook Undermind. 1,024 followers · 1 talking about this. Undermind is pushing the boundaries of electronic music and nightlife in New York.",
+    "url": "https://www.facebook.com/undermindnyc/",
+    "pass": 3
+   },
+   {
+    "quote": "Undermind | Hot Springs AR - Facebook Undermind, Hot Springs. 497 followers · 13 talking about this. We are a high energy Party band from Hot Springs Arkansas. We play 90s.00s ROCK and...",
+    "url": "https://www.facebook.com/p/Undermind-61572334033308/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.undermind.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.undermind.ai/case-studies/gsk",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.undermind.ai/whitepaper.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://aiteller.jp/blog/undermind-tsukaikata",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aipicks.jp/tool/undermind#japanese",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aipicks.jp/mag/undermind-ai-guide-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vocaloidlyrics.miraheze.org/wiki/%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89_(undermind)",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.touhouwiki.net/wiki/UNDERMIND",
+    "status": "http_418",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=TUHA4z4w6H8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.wiz.io/Japanese/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/undermind-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/606847-87",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/undermind/__7eJtlAIMa2Gh9P2fygPM-HNRsiYugjGRGeLblaEHKJg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/undermind",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/soupmind",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/undermindwhoami",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ScarredForLife2/status/2107085702655549936",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/stevebrown84006/status/2055327211511542042",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/undermind-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/joshua-ramette",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/jfrechette_getting-up-to-speed-on-a-new-software-category-activity-7452724699769425921-ELGN",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/thomas-hartke-229a0679",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/undermindmusic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/undermindnyc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Undermind-61572334033308/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/undermind",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/UnderMind/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Undermind 日本 導入",
+   "results": [
+    "https://aiteller.jp/blog/undermind-tsukaikata",
+    "https://aipicks.jp/tool/undermind/japanese",
+    "https://aipicks.jp/mag/undermind-ai-guide-2026",
+    "https://www.undermind.ai/",
+    "https://www.aimyflow.com/ja/ai/undermind-ai",
+    "https://note.com/ai_labo26/n/nb6bdbf2c36a2",
+    "https://www.itmedia.co.jp/business/articles/2610/08/news016.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Undermind 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Undermind Japan",
+   "results": [
+    "https://www.undermind.ai/",
+    "https://vocaloidlyrics.miraheze.org/wiki/アンダーマインド_(undermind)",
+    "https://en.touhouwiki.net/wiki/UNDERMIND",
+    "https://www.youtube.com/watch?v=TUHA4z4w6H8",
+    "https://www.discogs.com/sell/release/10387813",
+    "https://www.yesasia.com/us/undermind-japan-version/1068207554-0-0-0-en/info.html",
+    "https://vgmdb.net/album/29575"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Undermind manufacturing customer case study",
+   "results": [
+    "https://www.undermind.ai/case-studies/gsk",
+    "https://www.undermind.ai/enterprise/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "https://www.renascence.io/journal/customer-experience-cx-design-in-manufacturing-examples-case-studies",
+    "https://www.renascence.io/journal/customer-experience-cx-outcomes-case-studies-in-success"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Undermind white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.wiz.io/",
+    "https://www.seoreseller.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Undermind founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/undermind-revenue",
+    "https://pitchbook.com/profiles/company/606847-87",
+    "https://tracxn.com/d/companies/undermind/__7eJtlAIMa2Gh9P2fygPM-HNRsiYugjGRGeLblaEHKJg",
+    "https://startupintros.com/orgs/undermind",
+    "https://acquirezy.com/organization/undermind",
+    "https://indexed.vc/companies/undermind-ai",
+    "https://getlatka.com/companies/undermind.ai"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Undermind",
+   "results": [
+    "https://note.com/canserstudent",
+    "https://note.com/tag/日付シート",
+    "https://note.com/hide_pun/n/n8c200b4c0c55",
+    "https://note.com/hana_english/n/n7c15b6957e15",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/sj_2020/n/n494c87da7182"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Undermind",
+   "results": [
+    "https://x.com/soupmind",
+    "https://x.com/undermindwhoami",
+    "https://x.com/ScarredForLife2/status/2107085702655549936",
+    "https://x.com/stevebrown84006/status/2055327211511542042",
+    "https://x.com/Irna73007171756/status/2119463634996998172",
+    "https://x.com/tom_hartke",
+    "https://x.com/UndermineJrnl"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Undermind",
+   "results": [
+    "https://www.linkedin.com/company/undermind-ai",
+    "https://www.linkedin.com/in/joshua-ramette",
+    "https://www.linkedin.com/posts/jfrechette_getting-up-to-speed-on-a-new-software-category-activity-7452724699769425921-ELGN",
+    "https://www.linkedin.com/in/thomas-hartke-229a0679",
+    "https://www.linkedin.com/posts/undermind-ai_undermind-search-assistant-intro-activity-7116461763939721216-jRBR",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7173119467546230784/",
+    "https://www.linkedin.com/in/åsmund-folkestad-208a8b110"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Undermind",
+   "results": [
+    "https://www.facebook.com/undermindmusic/",
+    "https://www.facebook.com/undermindnyc/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/p/Undermind-61572334033308/",
+    "https://www.facebook.com/undermindhardcore/",
+    "https://www.facebook.com/UNDERMINDPAGE/",
+    "https://www.facebook.com/useundermind/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Undermind note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.undermind.ai/",
+    "https://note.com/sadaaki",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.com/underground_ceo/all"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Undermind X 投稿",
+   "results": [
+    "https://x.com/undermind",
+    "https://www.undermind.ai/",
+    "https://x.com/UnderMind/reposts",
+    "https://aiteller.jp/blog/undermind-tsukaikata",
+    "https://undermind.aiproducthub.cn/",
+    "https://x.com/_undermind_",
+    "https://x.com/i/trending/2103962764280553838"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部29頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部29頁・検索12回）"
+ }
+}

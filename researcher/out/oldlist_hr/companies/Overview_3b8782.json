@@ -1,0 +1,2310 @@
+{
+ "name": "Overview",
+ "aliases": [],
+ "context": "旧営業リスト｜Quality / inspection｜返信あり",
+ "researched_at": "2026-11-11T05:14:19.771692+00:00",
+ "official_url": "https://overview.ai",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2019 · Y Combinator W19",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, California, USA",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   }
+  ],
+  "料金": [
+   {
+    "label": "Pricing",
+    "value": "Camera unit prices: OV10i $ 4,450 , OV20i $ 9,450 , OV80i $ 13,450 USD. Configuration and accessories affect the total. View current pricing .",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "AI vision systems (software pre-loaded)",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Vision transformer-based models deliver superior accuracy with less training data.",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "On-device AI training and inference with no external compute needed.",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your production data never leaves the factory floor.",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Open Platform - Every PLC, Every Protocol",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "200K+ Production Images On-Device",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Faster root cause analysis and model retraining with minimal downtime.",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From individual inspection stations to production lines, Overview cameras inspect real parts in working factories. See the systems in place.",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Spring order and rivet presence",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Check component presence, placement and assembly completeness across your parts, from connectors to complex assemblies.",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate scratch and dent training data across 300+ connector SKUs without damaging the physical parts.",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Build training data for every variant.",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Retarget a labeled defect across your catalog to train inspection for changing production runs.",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Where AI Adds Value: SKF Uses AI For Smart Product Defect Detection",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Overview Unveils Generative AI Studio to Accelerate AI Vision Training",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven on Your Toughest Applications",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From micro defects to fast-moving production lines with variable conditions, deep learning vision adapts where rule-based systems fail.",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy production systems in hours. Train models in minutes. Achieve ROI in weeks, not quarters.",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Train production-grade models in under one hour with as few as five images.",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Edge computing runs deep learning inference directly on camera hardware for real-time processing, complete data sovereignty, and zero vendor dependency.",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated AI compute runs production inspection on the device, without cloud processing",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "100% on-premise processing keeps sensitive manufacturing data inside your facility",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Customizable dashboards built with HTML, CSS, and JavaScript with no proprietary tools",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Native industrial protocols including Ethernet/IP, Profinet, Modbus TCP, and Node-RED",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Adapts As Your Production Evolves",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We move at startup speed with manufacturing rigor. Small teams, big ownership, direct customer impact. You'll see your work in production, not PowerPoints.",
+    "url": "https://www.overview.ai/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Competitive salary, equity, comprehensive health insurance, 401(k), and generous PTO. We invest in our people as much as our technology.",
+    "url": "https://www.overview.ai/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Your code runs on real production lines catching real defects. Reducing waste, improving safety, and helping manufacturers compete globally.",
+    "url": "https://www.overview.ai/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Find your next role. We're looking for talented people who thrive on hard problems and want their work to matter.",
+    "url": "https://www.overview.ai/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We're always interested in exceptional talent. If you're passionate about AI, manufacturing, or building products that work in the real world, we'd love to hear from you.",
+    "url": "https://www.overview.ai/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "You know the customer and the production line. We bring the cameras, inspection software and engineers to help you take on more of their quality challenges.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Factories in production",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers running Overview AI in production",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Overview builds AI vision cameras and software for manufacturing quality inspection. You bring the line expertise and customer relationship. We support the imaging, inspection and connection to production.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Own the application, integration and service relationship. Bring our AI vision into the production lines you already build and support.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Help manufacturers find the right inspection platform, with product guidance and application support from our team.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Schools & training programs",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Talk with us about bringing practical AI inspection into your teaching, lab or training program.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore jobs you would otherwise pass on: cosmetic defects, changing product variants and checks that are difficult to maintain with rule-based vision.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Access partner pricing with incentives that grow with deal size. Work through the commercial details directly with our team. Your application engineering, integration and service work stays with your business.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Start with the camera, inspection software and application guidance together. Test the approach on customer parts before committing to the installation.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepare the plant team to run the inspection, check for drift and retrain when production changes. Plan ongoing service around the actual application.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The inspection software is included with the camera, with software updates provided. Keep the conversation focused on the customer’s inspection.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring application engineering into your first builds and take product questions back to the people who develop the platform.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "To your first project.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepare for customer applications.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Plan product training and demonstrations with our team. For integrators, work through camera selection, imaging and inspection recipes using real customer parts.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Build the first project together.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "For an integration project, define the pass/fail checks, validate real parts, connect the result to the line and prepare the operator handover with our engineering team.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring the Overview lineup to your customers. Choose around the part, the detail that matters and the production line.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "AI vision systems for production inspection. Match the required image detail, coverage and capture approach to your customer’s parts.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Describe your customer's inspection. Explore a preliminary camera and lighting setup, with assumptions made clear, then review it with our engineers.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring questions and requests from the factory floor to the people developing the product.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Plan operator training, drift checks and retraining so the plant can maintain the inspection as production changes.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrators delivering manufacturing quality and automation projects.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Overview is an AI vision systems company that helps manufacturing teams detect defects, verify assembly, and improve production quality.",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "We build camera systems including the OV10i, OV20i, and OV80i, combining image capture and onboard processing. They help production teams check parts and assemblies at the inspection points that matter.",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Our applications team helps scope inspections, select cameras and optics, and validate setups in pilots. Training and integration support help manufacturers, integrators, and machine builders move toward repeatable production deployments.",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "The OV20i and OV80i product specifications list no required software key or subscription. That lets teams plan around the inspection hardware purchase; the configuration, services, and commercial terms are set out in the order.",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "View product specifications",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "AI Vision for Manufacturing Quality Control | Overview",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The first Agentic Camera on the factory floor.",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Vision Leader in Manufacturing",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI machine vision systems for connector manufacturing, semiconductor manufacturing, packaging manufacturing, automotive manufacturing, pharmaceutical manufacturing, aerospace manufacturing, renewable energy manufacturing, food manufacturing, and textile manufacturing.",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your production data never leaves the factory floor.",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by manufacturing industry leaders",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "In Hundreds of Factories",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From individual inspection stations to production lines, Overview cameras inspect real parts in working factories. See the systems in place.",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Factory image 1 of 12",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for real manufacturing.",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and automotive stampings",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From micro defects to fast-moving production lines with variable conditions, deep learning vision adapts where rule-based systems fail.",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "100% on-premise processing keeps sensitive manufacturing data inside your facility",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing engineers configure systems. Operators execute inspections. No computer vision specialists required.",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Native industrial protocols including Ethernet/IP, Profinet, Modbus TCP, and Node-RED",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "On-site deployment by engineers with manufacturing inspection expertise",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hands-on training for operators, engineers, and management",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading manufacturers worldwide for mission-critical quality inspection",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Join manufacturers worldwide using Overview AI vision systems",
+    "url": "https://www.overview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The first Agentic Camera on the factory floor.",
+    "url": "https://www.overview.ai/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Join a world-class team of engineers, scientists, and builders shipping AI vision systems that catch defects humans can't, deployed in factories across 5 continents.",
+    "url": "https://www.overview.ai/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We're not just another AI startup. We ship real hardware + software that runs 24/7 in demanding factory environments.",
+    "url": "https://www.overview.ai/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Work on real-time AI inference, edge computing, and multi-camera systems that inspect thousands of parts per minute in noisy, vibrating factory environments.",
+    "url": "https://www.overview.ai/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We move at startup speed with manufacturing rigor. Small teams, big ownership, direct customer impact. You'll see your work in production, not PowerPoints.",
+    "url": "https://www.overview.ai/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Work alongside former Tesla, Apple, and top-tier manufacturing engineers. We sponsor conferences, courses, and certifications.",
+    "url": "https://www.overview.ai/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Your code runs on real production lines catching real defects. Reducing waste, improving safety, and helping manufacturers compete globally.",
+    "url": "https://www.overview.ai/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We're always interested in exceptional talent. If you're passionate about AI, manufacturing, or building products that work in the real world, we'd love to hear from you.",
+    "url": "https://www.overview.ai/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "The first Agentic Camera on the factory floor.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "You know the customer and the production line. We bring the cameras, inspection software and engineers to help you take on more of their quality challenges.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Factories in production",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers running Overview AI in production",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our engineers keep meeting integrators at the same plants. A manufacturer chooses Overview for inspection and brings in an automation partner for the line. We would rather build the solution together.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Overview builds AI vision cameras and software for manufacturing quality inspection. You bring the line expertise and customer relationship. We support the imaging, inspection and connection to production.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Own the application, integration and service relationship. Bring our AI vision into the production lines you already build and support.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Help manufacturers find the right inspection platform, with product guidance and application support from our team.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepare the plant team to run the inspection, check for drift and retrain when production changes. Plan ongoing service around the actual application.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us where you work, the manufacturers you serve and the systems you build or support. Bring a customer application if you have one.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring the Overview lineup to your customers. Choose around the part, the detail that matters and the production line.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Across manufacturing.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring questions and requests from the factory floor to the people developing the product.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Plan operator training, drift checks and retraining so the plant can maintain the inspection as production changes.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrators delivering manufacturing quality and automation projects.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Distributors with technical staff and manufacturer relationships.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us the regions you serve and the customers you work with. Our cameras are used across manufacturing industries; we assess the application and local support requirements together rather than limiting the conversation to the examples on this page.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "About Overview | Built for the Factory Floor",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "The first Agentic Camera on the factory floor.",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Overview is an AI vision systems company that helps manufacturing teams detect defects, verify assembly, and improve production quality.",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial AI cameras",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Our applications team helps scope inspections, select cameras and optics, and validate setups in pilots. Training and integration support help manufacturers, integrators, and machine builders move toward repeatable production deployments.",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "The OV20i provides two digital inputs and two digital outputs, with EtherNet/IP, PROFINET, and OPC UA listed in its specifications. Those interfaces help connect inspection results to plant controls, with integration scoped to the application.",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive and component quality teams",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Checking assemblies, welds, connectors, and part condition on production lines.",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Electronics manufacturing and automation engineers",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "In practice / Electronics manufacturing",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "See how an electronics manufacturer approached bent-pin and debris inspection with Overview.",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "When you’ve worked on a production line, quality isn’t an abstract problem.",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Our founding team brought together experience in Tesla manufacturing and large-scale software infrastructure. Overview grew out of a simple conviction: the people responsible for quality deserve better tools.",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "We joined Y Combinator in 2019 to build a company around that problem. Today, we bring cameras, AI, and inspection software together in systems built for manufacturing.",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "The focus is still the factory floor.",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to catch every manufacturing defect in the world. We’re working toward it one application, one production line, and one customer partnership at a time.",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Distributors & resellers",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Machine builders & OEMs",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase first pass yield (FPY), reduce costly rework, and protect your brand from the fallout of device failures. Solve complex inspection challenges in hours, not weeks, and get actionable data to fine-tune your SMT line and upstream processes.",
+    "url": "https://www.overview.ai/industries/electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Overview.ai is built for speed and accuracy. Increase first pass yield (FPY), reduce costly rework, and protect your brand from the fallout of device failures. Solve complex inspection challenges in hours, not weeks, and get actionable data to fine-tune your SMT line and upstream processes.",
+    "url": "https://www.overview.ai/industries/connectors/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect Your Brand, Ensure Perfect Quality in Every Package",
+    "url": "https://www.overview.ai/industries/food-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Your brand's reputation is built on consistency and the trust of your customers. But inspecting labels, seals, and containers at production speed is a massive challenge. Defects are unpredictable-a skewed label, a faulty seal, a tiny foreign object-and rule-based vision systems are too rigid to adapt.",
+    "url": "https://www.overview.ai/industries/food-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Overview.ai's cameras learn on the fly. It can spot a bubble in a label, verify the integrity of a safety seal, or find a foreign object, all without complex programming. Your team can train the system on a new defect in minutes, protecting your customers, your brand, and your bottom line.",
+    "url": "https://www.overview.ai/industries/food-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "OCR verification of production dates, best-before dates, and product codes on a multi-SKU coffee packaging line for a global packaging OEM. An OV80i with dark-field ring lighting read every SKU with no training images, configured by parameter tuning in 45 minutes across roughly 8 package sizes and shapes.",
+    "url": "https://www.overview.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "One labeled wrinkle authored on a real leather seat, then retargeted across 14 OEM-spec fabric and color variants via Style Transfer. New trim specs onboard ~12.4× faster with no real seats damaged.",
+    "url": "https://www.overview.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "An automotive OEM was dealing with issues detecting loose bolts in their engine kits.",
+    "url": "https://www.overview.ai/resources/defect-library/",
+    "pass": 1
+   },
+   {
+    "quote": "An automotive OEM had a challenging inspection problem where they had to detect a soft-set condition in half shafts.",
+    "url": "https://www.overview.ai/resources/defect-library/",
+    "pass": 1
+   },
+   {
+    "quote": "An automotive OEM was conducting a PCB inspection where loose bolts and other foreign objects were present across the board.",
+    "url": "https://www.overview.ai/resources/defect-library/",
+    "pass": 1
+   },
+   {
+    "quote": "A seating and restraint systems manufacturer produces seats and belts for automotive OEMs.",
+    "url": "https://www.overview.ai/resources/defect-library/",
+    "pass": 1
+   },
+   {
+    "quote": "A seating and restraint systems supplier manufactures seats and belts for automotive OEMs.",
+    "url": "https://www.overview.ai/resources/defect-library/",
+    "pass": 1
+   },
+   {
+    "quote": "An automotive OEM was assembling a part with multiple springs and rivets.",
+    "url": "https://www.overview.ai/resources/defect-library/",
+    "pass": 1
+   },
+   {
+    "quote": "An automotive OEM struggles to consistently detect underbody overspray, particularly around mounting holes.",
+    "url": "https://www.overview.ai/resources/defect-library/",
+    "pass": 1
+   },
+   {
+    "quote": "An automotive OEM faced a near impossible quality control challenge in their general assembly area.",
+    "url": "https://www.overview.ai/resources/defect-library/",
+    "pass": 1
+   },
+   {
+    "quote": "An automotive OEM needed to ensure that critical electrical connectors were properly seated and secured in a complex assembly.",
+    "url": "https://www.overview.ai/resources/defect-library/",
+    "pass": 1
+   },
+   {
+    "quote": "An automotive OEM was facing significant quality challenges with the metal casting process for their engine blocks.",
+    "url": "https://www.overview.ai/resources/defect-library/",
+    "pass": 1
+   },
+   {
+    "quote": "global information on suppliers and experiences of other buyers with these channel partners",
+    "url": "https://www.diva-portal.org/smash/get/diva2:1779357/FULLTEXT01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "to creating product information needed by end users and channel partners. as stated by",
+    "url": "https://www.diva-portal.org/smash/get/diva2:1779357/FULLTEXT01.pdf",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Review the right partnership path, commercial arrangements and how customer opportunities are handled. Confirm the details in your agreement.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We work through opportunity registration, direct-purchase situations and customer responsibilities during onboarding. Your signed agreement defines the arrangements that apply to your partnership.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our integrator program does not require camera inventory. Discuss demo equipment, ordering and support with our team. Arrangements for distributors and other partner types are agreed separately.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Program arrangements are governed by the signed partner agreement.",
+    "url": "https://www.overview.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The OV20i provides two digital inputs and two digital outputs, with EtherNet/IP, PROFINET, and OPC UA listed in its specifications. Those interfaces help connect inspection results to plant controls, with integration scoped to the application.",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Mitigate recall risk, reduce scrap and warranty claims by over 90%, and unlock hidden production capacity by eliminating inspection bottlenecks. Automate inspections you thought were impossible, handle complex surface textures without constant reprogramming, and integrate results directly with your PLC and MES for true process control.",
+    "url": "https://www.overview.ai/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "In-line AI inspection for optical transceivers, fiber arrays, waveguides and fiber ribbon. Fixed over the process, triggered by the line, deciding on every part.",
+    "url": "https://www.overview.ai/industries/photonics/",
+    "pass": 1
+   },
+   {
+    "quote": "Fiber array bonding and epoxy tilt",
+    "url": "https://www.overview.ai/industries/photonics/",
+    "pass": 1
+   },
+   {
+    "quote": "Epoxy tilt, voids and misalignment where a fiber array is bonded into an optical engine. Epoxy never spreads the same way twice, which is precisely why a programmed rule struggles and a trained model does not.",
+    "url": "https://www.overview.ai/industries/photonics/",
+    "pass": 1
+   },
+   {
+    "quote": "A defect no model can find is usually a defect the camera never captured. Transparent and specular surfaces need lighting geometry rather than brightness, and features compared across a frame, like fiber pitch in an array, may need perspective removed from the optics rather than corrected in software.",
+    "url": "https://www.overview.ai/industries/photonics/",
+    "pass": 1
+   },
+   {
+    "quote": ", for when array pitch has to be measured rather than merely seen.",
+    "url": "https://www.overview.ai/industries/photonics/",
+    "pass": 1
+   },
+   {
+    "quote": "Do fiber arrays need telecentric optics?",
+    "url": "https://www.overview.ai/industries/photonics/",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize energy output over product lifetime, reduce warranty claims, and ensure long-term reliability. Protect your reputation in a market where performance degradation becomes apparent only after years of operation.",
+    "url": "https://www.overview.ai/industries/renewable-energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Each camera stores 100K+ captures on device, and Haystack searches them: filter by date, inspection region, and confidence, cluster similar failures, and pull the exact frames a question is about. When a damage claim or a carrier dispute comes back weeks later, the photographic record of that shipment is a query away, not a shrug.",
+    "url": "https://www.overview.ai/industries/packaging-logistics/",
+    "pass": 1
+   },
+   {
+    "quote": "Electronics High Speed Array Connector Pin Defects and Dust Detection",
+    "url": "https://www.overview.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": ", enforced by warrior nobility named",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "a century of warring states",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Modern humans arrived in Japan around 38,000 years ago (~36,000 BC), marking the beginning of the",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's feudal era was characterized by the emergence and dominance of a ruling class of warriors, the",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "to force the opening of Japan to the outside world. Arriving at",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "On December 7–8, 1941, Japanese forces carried out surprise",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "not allowing same-sex marriages",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "market by revenue, behind",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "listed as among the largest in the world.",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan has the second highest number of researchers in science and technology per capita in the world with 14 per 1000 employees.",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "As a growing number of younger Japanese are not marrying or remaining childless,",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "), part of the",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "is considered the oldest extant Japanese narrative.",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Western classical music, introduced in the late 19th century, forms an integral part of Japanese culture.",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese cuisine offers a vast array of",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "are taught as part of the compulsory junior high school curriculum.",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Spafford, David (2014). \"Emperor and Shogun, Pope and King: The Development of Japan's Warrior Aristocracy\".",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Carr, Michael (March 1992).",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Travel Narratives from the Age of Discovery: an anthology",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "\"Of Courtiers and Warriors: Early and Medieval History (710–1600)\"",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "\"Japan same-sex marriage ban ruled unconstitutional again by courts\"",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "\"Trends in the Visitor Arrivals to Japan by Year\"",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "\"PC games revenue to hit $42 billion in 2020 – DFC\"",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Takki, Karri (September 25, 2024).",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Arrowsmith, Rupert Richard (2010).",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Buddhism arrived in Japan from India via China and Korea. Prince Shotoku (574–622) played a key role in its spread, using the Buddhist principles of peace and salvation for all beings as the ideal underlying his government. He traveled across the country to promote the religion, overseeing the construction of important sites of worship, such as",
+    "url": "https://www.japan.travel/en/responsible-travel-guide/features/overview-japanese-history/",
+    "pass": 3
+   },
+   {
+    "quote": "The Warring States period",
+    "url": "https://www.japan.travel/en/responsible-travel-guide/features/overview-japanese-history/",
+    "pass": 3
+   },
+   {
+    "quote": "the products are commonly used to enable production without necessarily being a part of the",
+    "url": "https://www.diva-portal.org/smash/get/diva2:1779357/FULLTEXT01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "part of the end-product.",
+    "url": "https://www.diva-portal.org/smash/get/diva2:1779357/FULLTEXT01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "have led to a clear narrative of how the purchasing processes of organizations have evolved both",
+    "url": "https://www.diva-portal.org/smash/get/diva2:1779357/FULLTEXT01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "directly or indirectly involved in the purchasing process are part of the decision unit or the",
+    "url": "https://www.diva-portal.org/smash/get/diva2:1779357/FULLTEXT01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "described that individuals as part of any group have different patterns of communication and",
+    "url": "https://www.diva-portal.org/smash/get/diva2:1779357/FULLTEXT01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "the respondents were 2-50 employees. The interviews conducted can be summarized as follow:",
+    "url": "https://www.diva-portal.org/smash/get/diva2:1779357/FULLTEXT01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "the population having the most information on the thesis topic (Guarte & Barrios, 2006). As",
+    "url": "https://www.diva-portal.org/smash/get/diva2:1779357/FULLTEXT01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "can complement interview data (Harris & Brown, 2010). This approach can provide a more",
+    "url": "https://www.diva-portal.org/smash/get/diva2:1779357/FULLTEXT01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Support which are all part of the Physical Touchpoints. While it is true that it is different from",
+    "url": "https://www.diva-portal.org/smash/get/diva2:1779357/FULLTEXT01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "the other hand, almost all of the touchpoints listed Web Shop as the weakest with the exception",
+    "url": "https://www.diva-portal.org/smash/get/diva2:1779357/FULLTEXT01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1987; Håkansson and Johansson 1992; Gerwal 2015). Lastly, we arrive at the point at which we",
+    "url": "https://www.diva-portal.org/smash/get/diva2:1779357/FULLTEXT01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Harris, L. R., & Brown, G. T. (2010). Mixing interview and questionnaire methods:",
+    "url": "https://www.diva-portal.org/smash/get/diva2:1779357/FULLTEXT01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ο 1-5 employees",
+    "url": "https://www.diva-portal.org/smash/get/diva2:1779357/FULLTEXT01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ο 5-25 employees",
+    "url": "https://www.diva-portal.org/smash/get/diva2:1779357/FULLTEXT01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ο 25-100 employees",
+    "url": "https://www.diva-portal.org/smash/get/diva2:1779357/FULLTEXT01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ο 100-500 employees",
+    "url": "https://www.diva-portal.org/smash/get/diva2:1779357/FULLTEXT01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ο 500-2000 employees",
+    "url": "https://www.diva-portal.org/smash/get/diva2:1779357/FULLTEXT01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ο 2000+ employees",
+    "url": "https://www.diva-portal.org/smash/get/diva2:1779357/FULLTEXT01.pdf",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us by form, email, or phone with your part, defects, line speed, and integration needs. A vision engineer responds to new inquiries within one business day.",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Get help with setup, training, and integration as you move into production. Your sales contact can connect you with an applications engineer; technical support is available by email Monday–Friday, 9 a.m.–5 p.m. Pacific.",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Email, phone, and contact form; technical support at",
+    "url": "https://www.overview.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "・Summarize To-Dos from Slack, email, and calendar information.",
+    "url": "https://note.com/npaka/n/nda332c9113a4?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本をはじめとした世界中のより多くの人々が、より簡単な方法で必要な情報を探して、ウェブ上のあらゆるものを発見できるようになります",
+    "url": "https://blog.google/intl/ja-jp/products/explore-get-answers/ai-overviews/",
+    "pass": 3
+   },
+   {
+    "quote": "AI による概要を 日本などより多くの国で提供開始",
+    "url": "https://blog.google/intl/ja-jp/products/explore-get-answers/ai-overviews/",
+    "pass": 3
+   },
+   {
+    "quote": "米国および世界の Search Labs での広範なテストと肯定的なフィードバックに基づき、AI による概要の利便性を日本を含む英国、インド、インドネシア、メキシコ、ブラジルの 6 か国へと拡大し、各国の言語への対応も開始します",
+    "url": "https://blog.google/intl/ja-jp/products/explore-get-answers/ai-overviews/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Overviewとは？SEOへの影響とCTR低下の実態・引用される5つの対策 | 株式会社Bridge",
+    "url": "https://www.bridge-world.jp/seo/column/ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Overviewは2024年8月に日本へ導入され、いまや検索結果の見え方を大きく変えています",
+    "url": "https://www.bridge-world.jp/seo/column/ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "その後、日本でも2024年8月から導入が始まっています",
+    "url": "https://www.bridge-world.jp/seo/column/ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに日本市場に絞った同じ調査でも、AI Overviewの表示によってクリック率が約38%（予測2.9%→実績1.8%）低下したと示されています（出典: PR TIMES掲載のAhrefs調査）",
+    "url": "https://www.bridge-world.jp/seo/column/ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "「58%」と「38%」は算出の基準が異なる指標ですが、いずれも日本を含めクリック率が大きく落ちていることを示しています",
+    "url": "https://www.bridge-world.jp/seo/column/ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語のキーワードを狙っている企業にとっても、無視できない変化です",
+    "url": "https://www.bridge-world.jp/seo/column/ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "数字の出典について： CTR低下はAhrefsの調査（日本市場の約38%減はPR TIMES掲載）、引用ブランドのクリック増加はSeer Interactiveの調査、表示割合はSemrushの2025年調査を参照しています",
+    "url": "https://www.bridge-world.jp/seo/column/ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "AIモードは複数の国・地域で提供が拡大しており、日本語には2025年9月から対応しています",
+    "url": "https://www.bridge-world.jp/seo/column/ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Overviewsとは？SGEがAI Overviewへ名称変更！何が変わった？ | 東京SEOメーカーAIO戦略室｜AI検索最適化（LLMO/AIO/GEO/AEO/SEO）専門会社［国内・海外］アドマノ株式会社",
+    "url": "https://www.switchitmaker2.com/ai/sge-ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "監修者：アドマノ株式会社 代表取締役 天野剛志",
+    "url": "https://www.switchitmaker2.com/ai/sge-ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "広告代理店で営業を12年経験",
+    "url": "https://www.switchitmaker2.com/ai/sge-ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "AI検索最適化（LLMO/AIO/GEO/AEO/SEO）専門会社［国内・海外］アドマノ株式会社",
+    "url": "https://www.switchitmaker2.com/ai/sge-ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "「Breaking into JAPAN SEO」",
+    "url": "https://www.switchitmaker2.com/ai/sge-ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "「東京SEOメーカー2023年最新SEO対策完全ガイド」",
+    "url": "https://www.switchitmaker2.com/ai/sge-ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "東京SEOメーカーAIO戦略室【世界基準でSEO / LLMOを設計するプロ集団】",
+    "url": "https://www.switchitmaker2.com/ai/sge-ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "東京SEOメーカーのブログでは、SEOとその他webマーケティングを中心に発信しています",
+    "url": "https://www.switchitmaker2.com/ai/sge-ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "Q:AI Overviewは、日本語でどのように訳されますか？",
+    "url": "https://www.switchitmaker2.com/ai/sge-ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "記事が参考になりましたら、Google検索やAI検索で東京SEOメーカーを見つけやすくなる「優先ソースへの追加」をお願いします",
+    "url": "https://www.switchitmaker2.com/ai/sge-ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年6月20日現在では、日本国内でAI Overviewの一般公開は開始されていません",
+    "url": "https://www.switchitmaker2.com/ai/sge-ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の検索エンジンにAI Overviewが導入されるまでは、このテスト環境を利用してください",
+    "url": "https://www.switchitmaker2.com/ai/sge-ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "Answer）日本語版のSearch Labsでは、「AIによる概要」と表記されています",
+    "url": "https://www.switchitmaker2.com/ai/sge-ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス提供者である、Google社は、本サービスの日本語訳を明確に公表していません",
+    "url": "https://www.switchitmaker2.com/ai/sge-ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "SEOとWEBマーケティングの専門メディア｜東京SEOメーカーTOPへ戻る",
+    "url": "https://www.switchitmaker2.com/ai/sge-ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "日本大学法学部卒業、広告代理店で12年間働いている間、SEOと出会い、SEO草創期からSEO研究を始める",
+    "url": "https://www.switchitmaker2.com/ai/sge-ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Overview（AIO）は、2024年8月から日本でも段階的に表示され始めました",
+    "url": "https://www.gyro-n.com/seo/aio/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan (disambiguation)",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": ". Japan is divided into",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", Japan was unified in 1600 by the",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "saw Japan pursue rapid",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "in 1910. In 1937, Japan",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", Japan",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese asset price bubble",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The name for Japan in",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", changed in Japan around 757 to",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": ") and in Japan by the",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Sino-Japanese reading",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The name \"Japan\" is based on",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "name for Japan,",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Timeline of Japanese history",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Modern humans arrived in Japan around 38,000 years ago (~36,000 BC), marking the beginning of the",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": ") founded a kingdom in central Japan in 660 BC, beginning",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan first appears in written history in the Chinese",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "was introduced to Japan from",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "It nationalized all land in Japan, to be",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "(710–784) marked the emergence of a Japanese state centered on the Imperial Court in",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "is believed to have killed as much as one-third of Japan's population.",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "(794–1185), during which a distinctly indigenous Japanese culture emerged.",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "and the lyrics of Japan's national anthem \"",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Mongol invasions of Japan",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Three unifiers of Japan. Left to right:",
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "An Overview of Japanese History",
+    "url": "https://www.japan.travel/en/responsible-travel-guide/features/overview-japanese-history/",
+    "pass": 3
+   },
+   {
+    "quote": "Planning a Trip to Japan?",
+    "url": "https://www.japan.travel/en/responsible-travel-guide/features/overview-japanese-history/",
+    "pass": 3
+   },
+   {
+    "quote": "Share your travel photos with us by hashtagging your images with #visitjapanjp",
+    "url": "https://www.japan.travel/en/responsible-travel-guide/features/overview-japanese-history/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's Neolithic era is known as the Jomon period (ca. 14,500 BCE–900 BCE), named for pottery decorated with cord-pattern (jomon) impressions or reliefs. Many distinctive vessels (doki) and earthenware figurines (dogu) from this period have been discovered across the country and are displayed in museums such as the",
+    "url": "https://www.japan.travel/en/responsible-travel-guide/features/overview-japanese-history/",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo National Museum",
+    "url": "https://www.japan.travel/en/responsible-travel-guide/features/overview-japanese-history/",
+    "pass": 3
+   },
+   {
+    "quote": "Buddhism arrived in Japan from India via China and Korea. Prince Shotoku (574–622) played a key role in its spread, using the Buddhist principles of peace and salvation for all beings as the ideal underlying his government. He traveled across the country to promote the religion, overseeing the construction of important sites of worship, such as",
+    "url": "https://www.japan.travel/en/responsible-travel-guide/features/overview-japanese-history/",
+    "pass": 3
+   },
+   {
+    "quote": "Blossoming of Japanese culture",
+    "url": "https://www.japan.travel/en/responsible-travel-guide/features/overview-japanese-history/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AI による概要 : ウェブにつながる新しい方法 - Google Blog — AI による概要 : ウェブにつながる新しい方法 - Google Blog blog.google https://blog.google > explore-get-answers > ai-overviews",
+    "url": "https://blog.google/intl/ja-jp/products/explore-get-answers/ai-overviews/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Overview とは？SEOへの影響とCTR低下の実態・引用され ... — AI Overview とは？SEOへの影響とCTR低下の実態・引用され ... 株式会社Bridge https://www.bridge-world.jp > ... > SEOナレッジ",
+    "url": "https://www.bridge-world.jp/seo/column/ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Overviewsとは？SGEがAI Overview へ名称変更！何が ... — AI Overviewsとは？SGEがAI Overview へ名称変更！何が ... switchitmaker2.com https://www.switchitmaker2.com > 投稿 > AI関連",
+    "url": "https://www.switchitmaker2.com/ai/sge-ai-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Overview （AIによる概要）計測ツールならGyro-n SEO — AI Overview （AIによる概要）計測ツールならGyro-n SEO gyro-n.com https://www.gyro-n.com > SEO",
+    "url": "https://www.gyro-n.com/seo/aio/",
+    "pass": 3
+   },
+   {
+    "quote": "Googleの新機能「AI Overviews」とは？SGEとの違い — Googleの新機能「AI Overviews」とは？SGEとの違い 株式会社デジタルアイデンティティ https://digitalidentity.co.jp > HOME > LLMO",
+    "url": "https://digitalidentity.co.jp/blog/seo/ai-overview.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本法人 会社概要 - Neuberger Berman — 日本法人 会社概要 - Neuberger Berman Neuberger Berman https://www.nb.com > who-we-are > japan-overview",
+    "url": "https://www.nb.com/who-we-are/japan-overview",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | エーオン - Aon — 会社概要 | エーオン - Aon aon.com https://www.aon.com > japan > company-overview",
+    "url": "https://www.aon.com/japan/company-overview",
+    "pass": 3
+   },
+   {
+    "quote": "日本 | McKinsey & Company — 日本 | McKinsey & Company McKinsey & Company https://www.mckinsey.com > overview",
+    "url": "https://www.mckinsey.com/jp/overview",
+    "pass": 3
+   },
+   {
+    "quote": "日本法人 概要 - ICU Medical — 日本法人 概要 - ICU Medical ICU Medical https://www.icumed.com > ja-jp > japan-overview",
+    "url": "https://www.icumed.com/ja-jp/japan-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "An Overview of Japanese History — An Overview of Japanese History Japan National Tourism Organization (JNTO) https://www.japan.travel > features",
+    "url": "https://www.japan.travel/en/responsible-travel-guide/features/overview-japanese-history/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Overview of GPT-5.4｜npaka - note Overview of GPT-5.4｜npaka - note note https://note.com > ... > AI・機械学習",
+    "url": "https://note.com/npaka/n/nb8d78062e804?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Overview of NVIDIA 'Flora' - A Suite of Open Models for ... - note Overview of NVIDIA 'Flora' - A Suite of Open Models for ... - note note https://note.com > ... > ロボット技術",
+    "url": "https://note.com/npaka/n/na4c559384b64?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Overview of ChatGPT Space｜npaka - note Overview of ChatGPT Space｜npaka - note note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/npaka/n/nda332c9113a4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Overview of Antigravity 2.0, Antigravity CLI, Antigravity SDK ... Overview of Antigravity 2.0, Antigravity CLI, Antigravity SDK ... note https://note.com > ... > AI・機械学習",
+    "url": "https://note.com/npaka/n/n684187248936?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Overview of GPT-5.4｜npaka",
+    "url": "https://note.com/npaka/n/nb8d78062e804?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I found the following article interesting, so I have summarized it briefly.",
+    "url": "https://note.com/npaka/n/nb8d78062e804?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In March 2026, OpenAI released \"",
+    "url": "https://note.com/npaka/n/nb8d78062e804?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\" for ChatGPT, API, and Codex.",
+    "url": "https://note.com/npaka/n/nb8d78062e804?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "high-performance AI that integrates reasoning, coding, and agent capabilities",
+    "url": "https://note.com/npaka/n/nb8d78062e804?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", designed for professional tasks. For use cases requiring even more advanced reasoning, \"",
+    "url": "https://note.com/npaka/n/nb8d78062e804?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "integrates the coding capabilities of \"GPT-5.3-Codex\"",
+    "url": "https://note.com/npaka/n/nb8d78062e804?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "and enhances tool use and document work. Additionally, with",
+    "url": "https://note.com/npaka/n/nb8d78062e804?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Overview of NVIDIA 'Flora' - A Suite of Open Models for Automatically Generating Robot Learning Data｜npaka",
+    "url": "https://note.com/npaka/n/na4c559384b64?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Overview of NVIDIA 'Flora' - A Suite of Open Models for Automatically Generating Robot Learning Data",
+    "url": "https://note.com/npaka/n/na4c559384b64?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have summarized the overview of NVIDIA's 'Flora'.",
+    "url": "https://note.com/npaka/n/na4c559384b64?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In October 2026, NVIDIA released",
+    "url": "https://note.com/npaka/n/na4c559384b64?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "a suite of AI models that automatically label robot learning data",
+    "url": "https://note.com/npaka/n/na4c559384b64?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\" that analyzes videos of human or robot tasks to generate timestamped action descriptions and evaluate the success and quality of the work.",
+    "url": "https://note.com/npaka/n/na4c559384b64?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Training robot foundation models requires a massive amount of task data, but simply collecting videos is not enough. Label information such as \"",
+    "url": "https://note.com/npaka/n/na4c559384b64?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "when and what action was performed",
+    "url": "https://note.com/npaka/n/na4c559384b64?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Overview of ChatGPT Space｜npaka",
+    "url": "https://note.com/npaka/n/nda332c9113a4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Overview of ChatGPT Space",
+    "url": "https://note.com/npaka/n/nda332c9113a4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have summarized the overview of \"ChatGPT Space\".",
+    "url": "https://note.com/npaka/n/nda332c9113a4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On September 29, 2026, OpenAI announced \"ChatGPT Space\" at DevDay 2026. ChatGPT Space is a",
+    "url": "https://note.com/npaka/n/nda332c9113a4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "place to organize, edit, share, and reuse content created through conversations with ChatGPT, as well as uploaded materials",
+    "url": "https://note.com/npaka/n/nda332c9113a4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You can collect Pages, Sites, images, and more, and continue working on them with people and AI. It can be understood as a workspace where you can develop the content discussed in conversations into materials for ongoing use.",
+    "url": "https://note.com/npaka/n/nda332c9113a4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2. What is collected in Space",
+    "url": "https://note.com/npaka/n/nda332c9113a4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2-1. Pages, Sites, images, and files",
+    "url": "https://note.com/npaka/n/nda332c9113a4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Overview of Antigravity 2.0, Antigravity CLI, Antigravity SDK, and Antigravity IDE｜npaka",
+    "url": "https://note.com/npaka/n/n684187248936?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Overview of Antigravity 2.0, Antigravity CLI, Antigravity SDK, and Antigravity IDE",
+    "url": "https://note.com/npaka/n/n684187248936?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have summarized the overview of \"Antigravity 2.0,\" \"Antigravity CLI,\" \"Antigravity SDK,\" and \"Antigravity IDE.\"",
+    "url": "https://note.com/npaka/n/n684187248936?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Google's AI development tool, \"",
+    "url": "https://note.com/npaka/n/n684187248936?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\", initially gained attention as an AI IDE. This is because it emerged as an environment that integrated an editor, terminal, browser, and AI agents, allowing developers to delegate tasks to AI while writing code.",
+    "url": "https://note.com/npaka/n/n684187248936?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, the current \"Antigravity\" is organized not so much as a single IDE, but as an",
+    "url": "https://note.com/npaka/n/n684187248936?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "agent-based development platform",
+    "url": "https://note.com/npaka/n/n684187248936?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "composed of desktop apps, CLI, SDK, and IDEs.",
+    "url": "https://note.com/npaka/n/n684187248936?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Overview - X - X Developer Platform Overview - X - X Developer Platform X https://docs.x.com > x-api > overview",
+    "url": "https://docs.x.com/x-api/migrate/overview",
+    "pass": 3
+   },
+   {
+    "quote": "UKMTO Voluntary Reporting Area Overview - X UKMTO Voluntary Reporting Area Overview - X X https://x.com > @UK_MTO",
+    "url": "https://x.com/UK_MTO/status/2103440896226161112/photo/1",
+    "pass": 3
+   },
+   {
+    "quote": "Lance Martin on X: \"see the Claude API features overview ... Lance Martin on X: \"see the Claude API features overview ... X https://x.com > @RLanceMartin",
+    "url": "https://x.com/RLanceMartin/status/2031429959424889332",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・本文）": [
+   {
+    "quote": "Fetch the complete documentation index at:",
+    "url": "https://docs.x.com/x-api/migrate/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Use this file to discover all available pages before exploring further.",
+    "url": "https://docs.x.com/x-api/migrate/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Community Notes API for X API v2",
+    "url": "https://docs.x.com/x-api/migrate/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Search for Posts Eligible for Community Notes",
+    "url": "https://docs.x.com/x-api/migrate/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Search for Community Notes Written",
+    "url": "https://docs.x.com/x-api/migrate/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Create a Community Note",
+    "url": "https://docs.x.com/x-api/migrate/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Delete a Community Note",
+    "url": "https://docs.x.com/x-api/migrate/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Evaluate a Community Note",
+    "url": "https://docs.x.com/x-api/migrate/overview",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Overview Ltd. - LinkedIn Overview Ltd. - LinkedIn LinkedIn https://uk.linkedin.com > overview-ltd-",
+    "url": "https://uk.linkedin.com/company/overview-ltd-",
+    "pass": 3
+   },
+   {
+    "quote": "Overview AI | LinkedIn Overview AI | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/overview-ai",
+    "pass": 3
+   },
+   {
+    "quote": "LinkedIn Learning: Product Overview LinkedIn Learning: Product Overview LinkedIn https://business.linkedin.com > learn",
+    "url": "https://business.linkedin.com/learn/product-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Recruiter Lite overview | Recruiter Help - LinkedIn Recruiter Lite overview | Recruiter Help - LinkedIn LinkedIn https://www.linkedin.com > answer",
+    "url": "https://www.linkedin.com/help/recruiter/answer/a1673989",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・本文）": [
+   {
+    "quote": "Chat with a sales consultant",
+    "url": "https://business.linkedin.com/learn/product-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Certification Programs",
+    "url": "https://business.linkedin.com/learn/product-overview",
+    "pass": 3
+   },
+   {
+    "quote": "2026 LinkedIn Talent Report",
+    "url": "https://business.linkedin.com/learn/product-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Success Center",
+    "url": "https://business.linkedin.com/learn/product-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Grow your people for what's next",
+    "url": "https://business.linkedin.com/learn/product-overview",
+    "pass": 3
+   },
+   {
+    "quote": "You can't build the future of work without the network that powers it.​",
+    "url": "https://business.linkedin.com/learn/product-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Built on the career journeys of over 1 billion members, LinkedIn Learning taps LinkedIn’s unmatched network to reveal how careers grow—so you can guide your workforce with insight you can trust.",
+    "url": "https://business.linkedin.com/learn/product-overview",
+    "pass": 3
+   },
+   {
+    "quote": "See what sets us apart:",
+    "url": "https://business.linkedin.com/learn/product-overview",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Designer Hajo Müller explains how 'The Overview ' artwork ... Designer Hajo Müller explains how 'The Overview ' artwork ... Facebook https://www.facebook.com > ... > Steven Wilson > Videos",
+    "url": "https://www.facebook.com/StevenWilsonHQ/videos/designer-hajo-m%C3%BCller-explains-how-the-overview-artwork-came-to-life-in-a-new-thr/1316851242871352/",
+    "pass": 3
+   },
+   {
+    "quote": "Instagram Platform overview | Meta for Developers - Facebook Instagram Platform overview | Meta for Developers - Facebook Meta for Developers https://developers.facebook.com > ov...",
+    "url": "https://developers.facebook.com/documentation/instagram-platform/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Daily Overview (@doverview) - Facebook Daily Overview (@doverview) - Facebook Facebook https://www.facebook.com > doverview",
+    "url": "https://www.facebook.com/doverview/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.overview.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.overview.ai/company/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.overview.ai/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.overview.ai/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.overview.ai/company/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.overview.ai/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.overview.ai/industries/electronics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.overview.ai/industries/automotive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.overview.ai/industries/aerospace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.overview.ai/industries/connectors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.overview.ai/industries/photonics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.overview.ai/industries/pharma-medical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.overview.ai/industries/food-beverage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.overview.ai/industries/renewable-energy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.overview.ai/industries/packaging-logistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.overview.ai/industries/textiles/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.overview.ai/resources/case-studies/connector-bent-pins/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.overview.ai/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.overview.ai/resources/defect-library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.overview.ai/solutions/npi/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.overview.ai/images/logos/Toyota-Logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.overview.ai/images/logos/honda_logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.overview.ai/images/logos/mitsubishi-logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.overview.ai/images/logos/Tyson-Logo.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://blog.google/intl/ja-jp/products/explore-get-answers/ai-overviews/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bridge-world.jp/seo/column/ai-overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.switchitmaker2.com/ai/sge-ai-overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gyro-n.com/seo/aio/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.google.com/business/answer/9199701?hl=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nb.com/who-we-are/japan-overview",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aon.com/japan/company-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mckinsey.com/jp/overview",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.britannica.com/place/Japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan.go.jp/japan/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan.travel/en/responsible-travel-guide/features/overview-japanese-history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketveep.com/blog/understanding-manufacturing-case-studies-definition-importance-and-more",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.conveyormg.com/resources/blogs/creating-manufacturing-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.diva-portal.org/smash/get/diva2:1779357/FULLTEXT01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reveliolabs.com/companies/funding-circle/employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/nholmesacourt_how-much-revenue-does-the-average-startup-activity-7410518895192838144-vH7m",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=JnQudRwwR98",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fi.co/benchmarks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/npaka/n/nb8d78062e804?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/npaka/n/na4c559384b64?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/npaka/n/nda332c9113a4?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/npaka/n/n684187248936?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.x.com/x-api/migrate/overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/UK_MTO/status/2103440896226161112/photo/1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RLanceMartin/status/2031429959424889332",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/overview-ltd-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/overview-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.linkedin.com/learn/product-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/help/recruiter/answer/a1673989",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/StevenWilsonHQ/videos/designer-hajo-m%C3%BCller-explains-how-the-overview-artwork-came-to-life-in-a-new-thr/1316851242871352/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://developers.facebook.com/documentation/instagram-platform/overview",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/doverview/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Overview 日本 導入",
+   "results": [
+    "https://blog.google/intl/ja-jp/products/explore-get-answers/ai-overviews/",
+    "https://www.bridge-world.jp/seo/column/ai-overview/",
+    "https://www.switchitmaker2.com/ai/sge-ai-overview/",
+    "https://www.gyro-n.com/seo/aio/",
+    "https://digitalidentity.co.jp/blog/seo/ai-overview.html",
+    "https://www.suzukikenichi.com/blog/googles-ai-overview-arrives-in-japan-within-the-year/",
+    "https://www.youtube.com/watch?v=2el2B6NCkZI",
+    "https://wk-partners.co.jp/homepage/blog/seo/ai-overview-arrives-in-japan/",
+    "https://sitest.jp/blog/?p=31435",
+    "https://profab.co.jp/googleai-overview-release-6countries/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Overview 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://support.google.com/business/answer/9199701?hl=ja",
+    "https://www.nb.com/who-we-are/japan-overview",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.mckinsey.com/jp/overview",
+    "https://www.icumed.com/ja-jp/japan-overview/",
+    "https://www.jnj.co.jp/jnj-group/company/overview",
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.tdm-j.com/about/overview-salesagent/",
+    "https://www.organon.com/japan/home/about_organon/company-overview/",
+    "https://kathalo.com/kathalog/import-business/1027/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Overview Japan",
+   "results": [
+    "https://www.britannica.com/place/Japan",
+    "https://en.wikipedia.org/wiki/Japan",
+    "https://www.japan.go.jp/japan/",
+    "https://www.japan.travel/en/responsible-travel-guide/features/overview-japanese-history/",
+    "https://globaledge.msu.edu/countries/japan",
+    "https://www.trade.gov/country-commercial-guides/japan-market-overview",
+    "https://www.worldbank.org/ext/en/country/japan",
+    "https://www.japan-guide.com/",
+    "https://en.wikipedia.org/wiki/Geography_of_Japan",
+    "https://theworldfactbook.org/country/japan.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Overview manufacturing customer case study",
+   "results": [
+    "https://www.marketveep.com/blog/understanding-manufacturing-case-studies-definition-importance-and-more",
+    "https://www.conveyormg.com/resources/blogs/creating-manufacturing-case-studies",
+    "https://www.diva-portal.org/smash/get/diva2:1779357/FULLTEXT01.pdf",
+    "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://goamplifi.com/knowledge-base/case-study-6-case-studies-of-data-management-success-in-manufacturing",
+    "https://manufacturingleadershipcouncil.com/case-studies-for-success-in-the-factory/",
+    "https://aws.amazon.com/manufacturing/case-studies/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Overview white label OR reseller OR partner program",
+   "results": [
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://suitedash.com/reseller-program/",
+    "https://www.lmsportals.com/post/white-label-saas-reseller-programs",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.cloudblue.com/glossary/white-label-reseller/",
+    "https://v2cloud.com/blog/white-label-saas-software-to-resell",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Overview founded funding employees revenue",
+   "results": [
+    "https://www.reveliolabs.com/companies/funding-circle/employees",
+    "https://www.linkedin.com/posts/nholmesacourt_how-much-revenue-does-the-average-startup-activity-7410518895192838144-vH7m",
+    "https://www.youtube.com/watch?v=JnQudRwwR98",
+    "https://fi.co/benchmarks",
+    "https://gaps.com/finance/",
+    "https://www.hrbench.com/resource/learn/revenue-per-employee",
+    "https://newvoicesfoundation.org/know-your-numbers-a-financial-and-funding-glossary-for-founders/",
+    "https://www.flowcap.com/resources/founders-guide-to-rbf",
+    "https://www.revenue.io/revenue-investors",
+    "https://compworth.com/company/founded"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Overview",
+   "results": [
+    "https://note.com/npaka/n/nb8d78062e804?hl=en",
+    "https://note.com/npaka/n/na4c559384b64?hl=en",
+    "https://note.com/npaka/n/nda332c9113a4?hl=en",
+    "https://note.com/npaka/n/n684187248936?hl=en",
+    "https://note.com/npaka/n/ne3d8be028c00?hl=en",
+    "https://note.com/npaka/n/n242bb3fc6e91?hl=en",
+    "https://note.com/npaka/n/n7560f7f223b2?hl=en",
+    "https://note.com/npaka/n/n994424ed9ef5?hl=en",
+    "https://note.com/npaka/n/neb33d6cbfee2?hl=en",
+    "https://note.com/npaka/n/n4d455116fc10?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com Overview",
+   "results": [
+    "https://docs.x.com/x-api/migrate/overview",
+    "https://x.com/UK_MTO/status/2103440896226161112/photo/1",
+    "https://business.x.com/en/advertising",
+    "https://x.com/RLanceMartin/status/2031429959424889332",
+    "https://docs.x.com/x-api/posts/counts/integrate/overview",
+    "https://x.com/JeffBezos/status/1989358416532488406",
+    "https://communitynotes.x.com/guide/en/api/overview",
+    "https://docs.x.com/overview",
+    "https://money.x.com/en",
+    "https://blog.x.com/engineering/en_us/a/2015/twitter-experimentation-technical-overview"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com Overview",
+   "results": [
+    "https://uk.linkedin.com/company/overview-ltd-",
+    "https://www.linkedin.com/company/overview-ai",
+    "https://business.linkedin.com/learn/product-overview",
+    "https://www.linkedin.com/help/recruiter/answer/a1673989",
+    "https://www.linkedin.com/products/oversoc-overview/",
+    "https://www.linkedin.com/company/overviewcapital",
+    "https://www.linkedin.com/in/russellnibbelink",
+    "https://www.linkedin.com/company/global-overview",
+    "https://business.linkedin.com/hire/product-overview",
+    "https://www.linkedin.com/help/recruiter/answer/a1637634"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Overview",
+   "results": [
+    "https://www.facebook.com/StevenWilsonHQ/videos/designer-hajo-m%C3%BCller-explains-how-the-overview-artwork-came-to-life-in-a-new-thr/1316851242871352/",
+    "https://developers.facebook.com/documentation/instagram-platform/overview",
+    "https://developers.facebook.com/documentation/ads-commerce/ads-ai-connectors/ads-mcp-server/ads-mcp-server-overview",
+    "https://www.facebook.com/doverview/",
+    "https://developers.facebook.com/documentation/meta-business-agent/overview",
+    "https://www.facebook.com/OverviewInc/",
+    "https://www.facebook.com/brand/resources/threads/",
+    "https://ai.facebook.com/about/",
+    "https://ai.facebook.com/resources/models-and-libraries/",
+    "https://developers.facebook.com/documentation/threads/overview"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Overview note 社長",
+   "results": [
+    "https://xtrend.nikkei.com/atcl/contents/18/00921/00045/",
+    "https://note.com/ai_shacho",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.com/isao_lab/all",
+    "https://x.com/sadaaki",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://shachomeikan.jp/industry_article/5902",
+    "https://ja.wikipedia.org/wiki/Note_(%E4%BC%81%E6%A5%AD)",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Overview X 投稿",
+   "results": [
+    "https://business.x.com/",
+    "https://docs.x.com/x-api/posts/search/introduction",
+    "https://dxpo.jp/college/front/digitalmarketing/x-algorithm.html",
+    "https://www.youtube.com/watch?v=qehpL4nW7g8",
+    "https://www.ajsa.or.jp/kentei/sns/x/x-get-recommended.html",
+    "https://kuroco.app/ja/docs/tutorials/setting-up-twitter-integration/",
+    "https://oomol.com/ja/tools/x-post-viewer/",
+    "https://note.com/socialselling/n/n80449faef8e2",
+    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vJElUJ-xORipNjxgfp45e_cZU0jYm7_6Zsq9y5tF3l2VR4iGOqf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部38頁・検索12回）"
+ }
+}

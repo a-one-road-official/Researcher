@@ -1,0 +1,457 @@
+{
+ "name": "Polymathrobotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜送付済み",
+ "researched_at": "2026-11-11T05:17:22.633695+00:00",
+ "official_url": "https://www.polymathrobotics.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Superpowering off-highway autonomy programs",
+    "url": "https://www.polymathrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "streamlined, software-first approach",
+    "url": "https://www.polymathrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The building blocks for next-gen autonomy programs",
+    "url": "https://www.polymathrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use only the autonomy features you need, when you need them. Our modular approach ensures flexibility and seamless integration.",
+    "url": "https://www.polymathrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform helps robotics programs move faster by handling the hardest parts of autonomy.",
+    "url": "https://www.polymathrobotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Polymath software runs across dozens of platforms and is trusted by top OEMs, billion-dollar fleet operators, and government programs. Our modular planning stack, safety system, and infrastructure tooling make it easier to build",
+    "url": "https://www.polymathrobotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "reliable, production-ready autonomy",
+    "url": "https://www.polymathrobotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Ilia is a UWaterloo-trained roboticist & engineer who's led teams at Amazon Lab 126 and Clearpath Robotics, and owned the PR2 ROS repo after Willow Garage shut down.",
+    "url": "https://www.polymathrobotics.com/about",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Polymath software runs across dozens of platforms and is trusted by top OEMs, billion-dollar fleet operators, and government programs. Our modular planning stack, safety system, and infrastructure tooling make it easier to build",
+    "url": "https://www.polymathrobotics.com/about",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Polymath software runs across dozens of platforms and is trusted by top OEMs, billion-dollar fleet operators, and government programs. Our modular planning stack, safety system, and infrastructure tooling make it easier to build",
+    "url": "https://www.polymathrobotics.com/about",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.polymathrobotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polymathrobotics.com/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/62c8ad6737aca1ee35a094f3/67ec5cabac817605483f7b5e_Logos%20for%20website-05.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/62c8ad6737aca1ee35a094f3/67ec5cab52d731ccf6590d9b_Logos%20for%20website-04.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/62c8ad6737aca1ee35a094f3/67ec5cabe1e09a31371130c3_Logos%20for%20website-02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/62c8ad6737aca1ee35a094f3/67ec5cab9e187489ce8dcb5a_Logos%20for%20website-01.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.meetboston.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boston.gov/visiting-boston",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newenglandandbeyond.com/ultimate-guide-to-boston-for-first-time-visitors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://travel.usnews.com/Boston_MA/Things_To_Do/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zillow.com/homedetails/1928-26th-Ave-E-Seattle-WA-98112/49098248_zpid/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realtor.com/realestateandhomes-detail/1928-26th-Ave-E_Seattle_WA_98112_M19152-96492",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://www.countyoffice.org/property-record-1928-26th-ave-e-seattle-wa-98112-1a6/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.redfin.com/WA/Seattle/1928-26th-Ave-E-98112/home/137993",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nissanforums.com/",
+    "status": "http_202",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanforums.com/threads/compression-test-results-when-is-low-too-low.136815/",
+    "status": "http_202",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/whatcarshouldIbuy/comments/7g75xm/nissan_versa_reliability/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/whatcarshouldIbuy/comments/x0c9ji/should_i_avoid_nissan_used_cars_at_all_costs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/en-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.microsoft.com/fr-be/contactus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/siva-s-a5282a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/davidjcollettijr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/malahar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/yadavdurgesh711",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cruisedeals.com/symphony-of-the-seas-cruise-deals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cruisedeals.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cruisedeals.com/carnival-cruise-deals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cruisedeals.com/cruise-deals-from-san-diego/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Polymathrobotics 日本 導入",
+   "results": [
+    "https://www.meetboston.com/",
+    "https://www.boston.gov/visiting-boston",
+    "https://newenglandandbeyond.com/ultimate-guide-to-boston-for-first-time-visitors/",
+    "https://travel.usnews.com/Boston_MA/Things_To_Do/",
+    "https://visitboston.com/",
+    "https://content.boston.gov/visiting-boston",
+    "https://www.boston.com/tag/visiting-boston/",
+    "https://www.boston.com/community/readers-say/best-tips-visiting-boston-first-time/",
+    "https://www.earthtrekkers.com/big-list-best-things-to-do-boston/",
+    "https://www.bostontourism.org/things-to-do-in-boston/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 30
+  },
+  {
+   "query": "Polymathrobotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.zillow.com/homedetails/1928-26th-Ave-E-Seattle-WA-98112/49098248_zpid/",
+    "https://www.realtor.com/realestateandhomes-detail/1928-26th-Ave-E_Seattle_WA_98112_M19152-96492",
+    "https://www.countyoffice.org/property-record-1928-26th-ave-e-seattle-wa-98112-1a6/",
+    "https://www.redfin.com/WA/Seattle/1928-26th-Ave-E-98112/home/137993",
+    "https://www.homes.com/property/1928-26th-ave-e-seattle-wa/zlzxrjb80q0bw/",
+    "https://www.spokeo.com/WA/Seattle/1928-26th-Ave-E",
+    "https://www.trulia.com/home/1928-26th-ave-e-seattle-wa-98112-49098248",
+    "https://maps.google.com/",
+    "https://www.windermere.com/listing/WA/Seattle/1928-26th-Ave-E-98112/17480230",
+    "https://kingcounty.gov/en/dept/executive-services/data-information-services/archives/find-it-in-archives"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Polymathrobotics Japan",
+   "results": [
+    "https://www.nissanforums.com/",
+    "https://www.nissanforums.com/threads/compression-test-results-when-is-low-too-low.136815/",
+    "https://www.reddit.com/r/whatcarshouldIbuy/comments/7g75xm/nissan_versa_reliability/",
+    "https://www.reddit.com/r/whatcarshouldIbuy/comments/x0c9ji/should_i_avoid_nissan_used_cars_at_all_costs/",
+    "https://www.gtrforums.com/forums/",
+    "https://www.gtrforums.com/forums/r32-|-r33-|-r34-17/",
+    "https://www.reddit.com/r/nissansentra/",
+    "https://www.nissanforums.com/threads/pcv-valve-location.17902/",
+    "https://www.reddit.com/r/nissanpathfinder/",
+    "https://www.reddit.com/r/NissanDrivers/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Polymathrobotics manufacturing customer case study",
+   "results": [
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128",
+    "https://www.microsoft.com/en-us/",
+    "https://support.microsoft.com/fr-be/contactus/",
+    "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "https://techcommunity.microsoft.com/discussions/windowsinsiderprogram/windows-8-1-iso-download-for-64-and-32-bit/4454650",
+    "https://support.microsoft.com/en-gb/contactus",
+    "https://support.microsoft.com/es-ar/contactus/",
+    "https://support.microsoft.com/en-us/edge/",
+    "https://support.microsoft.com/en-us/accounts-billing/work-school/sign-in-to-your-work-or-school-account-using-two-step-verification",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-continues-build-the-skills-that-move-business-forward/4494139"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Polymathrobotics white label OR reseller OR partner program",
+   "results": [
+    "https://www.linkedin.com/in/siva-s-a5282a",
+    "https://www.linkedin.com/in/davidjcollettijr",
+    "https://in.linkedin.com/in/malahar",
+    "https://in.linkedin.com/in/yadavdurgesh711",
+    "https://ca.linkedin.com/in/gautam-khurana",
+    "https://mx.linkedin.com/in/itza-terrazas/en",
+    "https://mx.linkedin.com/in/gcecenas",
+    "https://www.city-data.com/locations/TraderJoes/Riverside-County-CA.html",
+    "https://www.city-data.com/forum/columbia-area/3507155-columbia-area-2nd-trader-joe-s.html",
+    "https://www.neighborhoodlink.com/login"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Polymathrobotics founded funding employees revenue",
+   "results": [
+    "https://www.cruisedeals.com/symphony-of-the-seas-cruise-deals/",
+    "https://www.cruisedeals.com/",
+    "https://www.cruisedeals.com/carnival-cruise-deals/",
+    "https://www.cruisedeals.com/cruise-deals-from-san-diego/",
+    "https://www.cruisedeals.com/enchantment-of-the-seas-cruises/",
+    "https://www.cruisedeals.com/results.php",
+    "https://www.cruisedeals.com/carnival-miracle-cruises/",
+    "https://www.cruisedeals.com/royal-caribbean-cruise-deals/",
+    "https://www.cruisedeals.com/disney-wonder-cruise-deals/",
+    "https://www.cruisedeals.com/norwegian-cruise-line/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:note.com Polymathrobotics",
+   "results": [
+    "https://www.allamericancanner.com/All-American-Pressure-Canners-Comparison-Chart.htm",
+    "https://www.allamericancanner.com/All-American-15-Quart-Pressure-Canner.htm",
+    "https://www.allamericancanner.com/All-American-10-Quart-Pressure-Canner.htm",
+    "https://www.allamericancanner.com/21-Quart-Pressure-Canning-Kit.htm",
+    "https://www.allamericancanner.com/",
+    "https://www.allamericancanner.com/All-American-41-Quart-Pressure-Canner.htm",
+    "https://www.allamericancanner.com/All-American-Pressure-Canners.htm",
+    "https://www.allamericancanner.com/Camp-Chef-Double-Burner.htm",
+    "https://www.allamericancanner.com/All-American-25-Quart-Pressure-Canner.htm",
+    "https://www.allamericancanner.com/All-American-21-Quart-Pressure-Canner.htm"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com Polymathrobotics",
+   "results": [
+    "https://en.wikipedia.org/wiki/YouTube",
+    "https://en.wikipedia.org/wiki/You_(TV_series)",
+    "https://you.com/",
+    "https://www.netflix.com/title/80211991",
+    "https://tv.youtube.com/welcome/",
+    "https://www.youtube.com/",
+    "https://www.youtube.com/feed",
+    "https://www.youtube.com/watch?v=v99ooSjCVhg",
+    "https://www.youtube.com/watch?v=kQdEHQLHDAI",
+    "https://www.imdb.com/title/tt7335184/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:linkedin.com Polymathrobotics",
+   "results": [
+    "https://johnlegend.com/",
+    "https://store.johnlegend.com/",
+    "https://store.johnlegend.com/collections/music",
+    "https://store.johnlegend.com/collections/frontpage",
+    "https://store.johnlegend.com/collections/apparel",
+    "https://johnlegend.com/museum",
+    "https://store.johnlegend.com/products/my-favorite-dream-cd-signed",
+    "https://store.johnlegend.com/collections/all",
+    "https://store.johnlegend.com/products/pre-order-muse-signed-vinyl",
+    "https://store.johnlegend.com/products/a-legendary-christmas-deluxe-vinyl-digital-album"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com Polymathrobotics",
+   "results": [
+    "https://www.booking.com/hotel/au/oaks-embassy.html",
+    "https://www.oakshotels.com/en/oaks-embassy",
+    "https://www.rome2rio.com/s/Adelaide/Oaks-Adelaide-Embassy-Suites",
+    "https://www.adelaidemetro.com.au/plan-a-trip/plan-my-journey",
+    "https://www.tripadvisor.com/Hotel_Review-g255093-d295199-Reviews-Oaks_Adelaide_Embassy_Suites-Adelaide_Greater_Adelaide_South_Australia.html",
+    "https://www.cityofadelaide.com.au/transport-parking/public-transport/trains-trams-buses/",
+    "https://www.rome2rio.com/s/Oaks-Adelaide-Embassy-Suites/Adelaide"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Polymathrobotics note 社長",
+   "results": [
+    "https://www.microsoft.com/en-us/",
+    "https://support.microsoft.com/fr-be/contactus/",
+    "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128",
+    "https://techcommunity.microsoft.com/discussions/windowsinsiderprogram/windows-8-1-iso-download-for-64-and-32-bit/4454650",
+    "https://support.microsoft.com/en-gb/contactus",
+    "https://support.microsoft.com/es-ar/contactus/",
+    "https://support.microsoft.com/en-us/edge/",
+    "https://support.microsoft.com/en-us/accounts-billing/work-school/sign-in-to-your-work-or-school-account-using-two-step-verification",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-continues-build-the-skills-that-move-business-forward/4494139"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Polymathrobotics X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部24頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部24頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部24頁・検索12回）"
+ }
+}

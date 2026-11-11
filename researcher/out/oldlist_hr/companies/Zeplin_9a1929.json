@@ -1,0 +1,1255 @@
+{
+ "name": "Zeplin",
+ "aliases": [],
+ "context": "旧営業リスト｜Design & Engineering Software｜未接触",
+ "researched_at": "2026-11-11T05:29:05.602239+00:00",
+ "official_url": "https://zeplin.io",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$1.2M",
+    "url": "https://getlatka.com/companies/zeplin",
+    "pass": 3
+   },
+   {
+    "label": "5. Seed Round",
+    "value": "24-Nov-2015    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/104834-44",
+    "pass": 3
+   },
+   {
+    "label": "3. Seed Round",
+    "value": "01-Oct-2014    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/104834-44",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "01-May-2014 $15K $15K  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/104834-44",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Separate ready-for-dev designs from in-progress work",
+    "url": "https://zeplin.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep every project structured",
+    "url": "https://zeplin.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Review and approve designs with clarity",
+    "url": "https://zeplin.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your design system to real product work",
+    "url": "https://zeplin.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Once designs are ready for dev, select and publish frames from any design tool. Zeplin becomes your stage for presenting final designs—without the distraction of ongoing design changes.",
+    "url": "https://zeplin.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Use Zeplin's built-in review categories or write your own prompt—so AI checks designs against your team's specific guidelines.",
+    "url": "https://zeplin.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Request reviews when screens are ready, track decisions, and keep discussions organized. Build alignment without confusing comment threads.",
+    "url": "https://zeplin.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Share and maintain your design system components and token in Styleguides, linked to day-to-day projects. Devs can see exactly which components and tokens to use, promoting adoption.",
+    "url": "https://zeplin.io/",
+    "pass": 1
+   },
+   {
+    "quote": "I can now pin product requirements to each screen so our",
+    "url": "https://zeplin.io/",
+    "pass": 1
+   },
+   {
+    "quote": ", no more clicking through endless comment threads.",
+    "url": "https://zeplin.io/",
+    "pass": 1
+   },
+   {
+    "quote": "that helps streamline our design process.",
+    "url": "https://zeplin.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Principal UX Designer",
+    "url": "https://zeplin.io/",
+    "pass": 1
+   },
+   {
+    "quote": "— with transparent pricing",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "1 project",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Practically unlimited screens (1,000 per project)",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "50 projects",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage all your projects and members in one central place.",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "that build the products you love",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "User provisioning controls (SAML)",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Priority Support (24 hr SLA)",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Group training sessions",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "All Members can edit projects",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Annotations, Flows, and Approvals",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Integration with on-prem Jira Server available only on Advanced Plan and up.",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "None — all Members can edit projects",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Project Organization - no",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "User provisioning controls (SAML) - no",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Priority Support (24 hr SLA) - no",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Group training sessions - yes",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "One flat rate per project",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Choose from 1, 3, 6, 9, or 12 projects",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Practically unlimited (1,000)",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited Members per project",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Project Organization:",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "User provisioning controls (SAML) - yes",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Priority Support (24 hr SLA) - yes",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Zeplin offers two types of paid plans – pay per project or seat.",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Zeplin unites thousands of design, development, and product teams. We make your workflows work like magic.",
+    "url": "https://zeplin.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "“Zeplin has become an indispensable tool that helps us streamline our design process and eliminate the never-ending cycle of back-and-forth emails. It allows us to stay connected with our developers and ensures efficient communication, making our work easier and more productive.”",
+    "url": "https://zeplin.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Figma allows us to work really fast, but doesn’t allow a space for engineers to contribute. Likewise, engineers work in code and GitHub, but designers are not in that space. Zeplin provides an equal, shared space to talk about designs and development.",
+    "url": "https://zeplin.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Uplift in production speed",
+    "url": "https://zeplin.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Improvement in team alignment",
+    "url": "https://zeplin.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "with one source of product truth",
+    "url": "https://zeplin.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Got something your team always checks for? Write your own prompt, and AI will look out for it to,like localization or your brand's tone of voice. Save it as a category to reuse anytime.",
+    "url": "https://zeplin.io/features/ai-in-zeplin/",
+    "pass": 1
+   },
+   {
+    "quote": "Just exported a bunch of screens? AI reads them and suggests a clean structure using sections, subsections, and variants. You can reorder everything before you commit.",
+    "url": "https://zeplin.io/features/ai-in-zeplin/",
+    "pass": 1
+   },
+   {
+    "quote": "AI looks at what's inside each section and writes a short, clear description for it, so your projects stay easy to navigate for everyone.",
+    "url": "https://zeplin.io/features/ai-in-zeplin/",
+    "pass": 1
+   },
+   {
+    "quote": "Picking a name is tough. Zeplin started in Turkey. First up, we built a script that lists Turkish words that resemble English words. We wanted everyone (especially our moms) to understand and pronounce it…and we just liked the word Zeplin!",
+    "url": "https://zeplin.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "At Zeplin, we help teams build beautiful products",
+    "url": "https://zeplin.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Take proactive ownership",
+    "url": "https://zeplin.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Hired first Zepliner from UK",
+    "url": "https://zeplin.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Hired 100th Zepliner",
+    "url": "https://zeplin.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We have Zepliners from all over world, in 7 timezones to be precise.",
+    "url": "https://zeplin.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "At Zeplin, your work matters. From writing code to creating content for our millions of users, you’ll be doing it with a crew that encourages creativity and growth. With offices in the USA, UK, and Turkey, Zeplin is a global company, working from places all around the world.",
+    "url": "https://zeplin.io/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "At Zeplin, we help teams build beautiful products. Come join the crew and we’ll build the next generation tools for product teams together.",
+    "url": "https://zeplin.io/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Take proactive ownership",
+    "url": "https://zeplin.io/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "ci: PR template, publish action",
+    "url": "https://zeplin.io/integrations/mcp/",
+    "pass": 1
+   },
+   {
+    "quote": "refactor: improve code organization and add ESLint",
+    "url": "https://zeplin.io/integrations/mcp/",
+    "pass": 1
+   },
+   {
+    "quote": "Annotations added to screens that provide extra context, like how things should behave or tips for implementation — letting the agent go beyond static visuals and build real interactions.",
+    "url": "https://zeplin.io/integrations/mcp/",
+    "pass": 1
+   },
+   {
+    "quote": "Colors, typography, spacing, and other design variables used across the project, so your agent can reuse existing tokens where possible.",
+    "url": "https://zeplin.io/integrations/mcp/",
+    "pass": 1
+   },
+   {
+    "quote": "Crafting Effective Prompts",
+    "url": "https://zeplin.io/integrations/mcp/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "We’ve seen this mess play out over and over again—at startups, agencies, Fortune 500 teams. Design tools just let it happen.",
+    "url": "https://zeplin.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Got something your team always checks for? Write your own prompt, and AI will look out for it to,like localization or your brand's tone of voice. Save it as a category to reuse anytime.",
+    "url": "https://zeplin.io/features/ai-in-zeplin/",
+    "pass": 1
+   },
+   {
+    "quote": "Design workflow management for rebranding",
+    "url": "https://www.cuspera.com/products/zeplin-x-10061/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Organic used Zeplin to rebrand National Instruments, a large automated testing manufacturer. The team scaled the design system from 33",
+    "url": "https://www.cuspera.com/products/zeplin-x-10061/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin helped STARZ rebrand its streaming platform and launch a new design system. The STARZ team used Zeplin to update",
+    "url": "https://www.cuspera.com/products/zeplin-x-10061/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "the user interface across iOS, Android, FireTV, WebTV, and Roku. Zeplin made it easy for designers and developers to work together and keep design details clear. After the rebrand, STARZ saw a 50% increase in new subscribers. The project improved teamwork and gave STARZ a modern, unified look.",
+    "url": "https://www.cuspera.com/products/zeplin-x-10061/customer-story",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "We’ve seen this mess play out over and over again—at startups, agencies, Fortune 500 teams. Design tools just let it happen.",
+    "url": "https://zeplin.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Narrows down the scope of work.",
+    "url": "https://zeplin.io/integrations/mcp/",
+    "pass": 1
+   },
+   {
+    "quote": "When your task involves a specific part of a larger screen, like a single button, an icon, or a text block.",
+    "url": "https://zeplin.io/integrations/mcp/",
+    "pass": 1
+   },
+   {
+    "quote": "Zeplin helps Speck Studio deliver accessible product experiences for Fortune 500 clients. Becky Specking uses Zeplin to document and share",
+    "url": "https://www.cuspera.com/products/zeplin-x-10061/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "design specs, making accessibility a core part of every project. The platform bridges communication between designers and developers, ensuring accessibility features are implemented from the start. Zeplin's shared workspace keeps teams aligned and supports ethical, user-centered design.",
+    "url": "https://www.cuspera.com/products/zeplin-x-10061/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin Revenue 2024: $51.9M Est., $1.2M Raised",
+    "url": "https://getlatka.com/companies/zeplin",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin has not published its revenue. GetLatka estimates it at about $51.9M a year (October 2024).",
+    "url": "https://getlatka.com/companies/zeplin",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/zeplin",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin CEO, founders & employees",
+    "url": "https://getlatka.com/companies/zeplin",
+    "pass": 3
+   },
+   {
+    "quote": "Pelin Kenez founded Zeplin in 2014 and runs it as CEO. Zeplin had 91 employees (December 2024, LinkedIn), down from 135 a year earlier.",
+    "url": "https://getlatka.com/companies/zeplin",
+    "pass": 3
+   },
+   {
+    "quote": "What is Zeplin's revenue?",
+    "url": "https://getlatka.com/companies/zeplin",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Zeplin's revenue at about",
+    "url": "https://getlatka.com/companies/zeplin",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Zeplin have?",
+    "url": "https://getlatka.com/companies/zeplin",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/zeplin",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/zeplin",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/zeplin",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/zeplin",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/104834-44",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin has 75 total employees.",
+    "url": "https://pitchbook.com/profiles/company/104834-44",
+    "pass": 3
+   },
+   {
+    "quote": "What is Zeplin’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/104834-44",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Zeplin is",
+    "url": "https://pitchbook.com/profiles/company/104834-44",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Zeplin is trusted by teams",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by leaders in design-first organizations",
+    "url": "https://zeplin.io/features/ai-in-zeplin/",
+    "pass": 1
+   },
+   {
+    "quote": "across teams in different time zones. The integration with Sketch and Zeplin made design handoffs faster and more accurate. Teams used Zeplin’s Global Styleguides to ensure consistency and speed up development. The new system launched in May 2020 and is now used by teams in Germany and North America.",
+    "url": "https://www.cuspera.com/products/zeplin-x-10061/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Organic used Zeplin to rebrand National Instruments, a large automated testing manufacturer. The team scaled the design system from 33",
+    "url": "https://www.cuspera.com/products/zeplin-x-10061/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Zeplin",
+    "url": "https://www.casestudies.com/customer/zeplin",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Chat & email support - yes",
+    "url": "https://zeplin.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "“Zeplin has become an indispensable tool that helps us streamline our design process and eliminate the never-ending cycle of back-and-forth emails. It allows us to stay connected with our developers and ensures efficient communication, making our work easier and more productive.”",
+    "url": "https://zeplin.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/104834-44",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Zeplinとは？ 使い方から導入メリット、類似ツールとの比較まで、現役デザイナーがやさしく解説 | 株式会社ニジボックス",
+    "url": "https://blog.nijibox.jp/article/whatiszeplin/",
+    "pass": 3
+   },
+   {
+    "quote": "※公式サイトの価格表より抜粋し、日本語訳しております",
+    "url": "https://blog.nijibox.jp/article/whatiszeplin/",
+    "pass": 3
+   },
+   {
+    "quote": "元ニジボックス 執行役員、TRTL Studio株式会社 CEO、その他顧問やエンジェル投資家として活動",
+    "url": "https://blog.nijibox.jp/article/whatiszeplin/",
+    "pass": 3
+   },
+   {
+    "quote": "現在TRTL Venturesでインド投資・アジアのユニコーン企業の日本進出支援、その他新規事業・DX・UX・経営などの顧問や投資家として活動中",
+    "url": "https://blog.nijibox.jp/article/whatiszeplin/",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplinの特徴・導入事例など製品情報を紹介！【ITreview】IT製品のレビュー・比較サイト",
+    "url": "https://www.itreview.jp/products/zeplin/profile",
+    "pass": 3
+   },
+   {
+    "quote": "無料のUIキットには、日本で馴染みのあるUIが揃っているので、サイトの完成図を想像しやすいです",
+    "url": "https://www.itreview.jp/products/zeplin/profile",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社POL｜情報通信・インターネット｜プログラミング・テスト｜20人未満｜ユーザー（利用者）",
+    "url": "https://www.itreview.jp/products/zeplin/profile",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin Webデザインツールの導入事例一覧｜ITトレンド",
+    "url": "https://it-trend.jp/web_design_tool/21017/case",
+    "pass": 3
+   },
+   {
+    "quote": "1. 日本語フォントのテキストボックスの余白が変",
+    "url": "https://note.com/obashige/n/n03e8b98e0c91",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Zeplinとは？ 使い方から導入メリット、類似ツールとの比較まで、現役... — Nov 18, 2024 · Zeplinとは？ Zeplinとは、デザイナーが作成したデザインカンプをコーダーに共有するためのツールです。 デザイナーはSketchやAdobe XDなどのデザインツールでデザインを作成し、デザインデータをZeplinにエクスポート (アップロード)します。",
+    "url": "https://blog.nijibox.jp/article/whatiszeplin/",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplinの製品情報（特徴・導入事例） - ITreviewZEPPELINが電通デジタル、KDDIと業務提携、“東京中のビルが広告塔に変...Zeplin Webデザインツールの導入事例一覧｜ITトレンドZEPPELINが電通デジタル、KDDIと業務提携。ARプラットフォーム「ARadd...Zeplin - marketplace.microsoft.comホーム | Zeplin Electronics — Jun 20, 2019 · Zeplinの特徴や導入事例、メリットや解決できた課題など製品情報を掲載中！ 製品担当者のイチオシのポイントや特徴的な機能といったベンダーからの製品紹介のほか、動画の閲覧や資料請求、トライアルも含めたお問い合わせも可能。 Nov 27, 2019 · ZEPPELIN代表取締役社長の鳥越康平氏は、『まずは「ARaddin」によって、東京を世界でも類",
+    "url": "https://www.itreview.jp/products/zeplin/profile",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin Webデザインツールの導入事例一覧｜ITトレンド — Zeplin Webデザインツールの導入事例の一覧を紹介します。 導入企業による成功事例や導入効果、選定ポイントのインタビューを紹介します。 業界や従業員規模など自社に合う事例を見てみましょう。",
+    "url": "https://it-trend.jp/web_design_tool/21017/case",
+    "pass": 3
+   },
+   {
+    "quote": "ZEPPELINが電通デジタル、KDDIと業務提携。ARプラットフォーム「ARadd...Zeplin - marketplace.microsoft.comホーム | Zeplin Electronics — Nov 26, 2019 · 株式会社ZEPPELINのプレスリリース（2019年11月26日 10時02分）ZEPPELINが電通デジタル、KDDIと業務提携。ARプラットフォーム「ARaddin」提供開始。 Zeplin is also the place where the team communicates over the designs. You can add notes to a specific area of a design to ask questions, suggest changes and so on. SSDパフォーマンスでノートパソコンに新しい命",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000036631.html",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin - marketplace.microsoft.com — Zeplin is also the place where the team communicates over the designs. You can add notes to a specific area of a design to ask questions, suggest changes and so on.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/office/wa200002201?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin · Bring harmony to design delivery — Document designs, map user flows, track version changes — deliver with confidence without changing how you design.",
+    "url": "https://zeplin.io/",
+    "pass": 3
+   },
+   {
+    "quote": "About us · Zeplin — Zeplin started in Turkey. First up, we built a script that lists Turkish words that resemble English words. We wanted everyone (especially our moms) to understand and pronounce it…and we just liked the word Zeplin! We do our best to understand our users well and we put ourselves in their shoes.",
+    "url": "https://zeplin.io/about/",
+    "pass": 3
+   },
+   {
+    "quote": "ホーム | Zeplin Electronics — 信頼できる技術！",
+    "url": "https://ja.zeplinelectronics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin - Login — You can login to access your workspace. Forgot password? No account yet? Sign up.",
+    "url": "https://app.zeplin.io/login",
+    "pass": 3
+   },
+   {
+    "quote": "Customer stories · Zeplin — “By using Zeplin as a separate space for our finalized designs, we're able to avoid the confusion that was happening when we had everything in the same design files before. It really gives our devs everything they need in a very organized and systematic way.”",
+    "url": "https://zeplin.io/customers/",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin Case Studies & Customer Success | CusperaZeplin B2B Case Studies & Customer SuccessesB2B Case Studies: How Zeplin Uses Software & Services4 Zeplin Case Studies, Success Stories, & Customer StoriesSplunk Case Study: Zeppelin reduces downtime with predictive ...User Stories · Zeplin Gazette — Zeplin enabled better communication, design clarity, and easier organization of screens. The team sav",
+    "url": "https://www.cuspera.com/products/zeplin-x-10061/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin B2B Case Studies & Customer Successes — See how Zeplin solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/zeplin",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Zeplin Uses Software & Services — Explore case studies featuring Zeplin as the customer — learn how vendors and partners helped Zeplin solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/zeplin",
+    "pass": 3
+   },
+   {
+    "quote": "4 Zeplin Case Studies, Success Stories, & Customer StoriesSplunk Case Study: Zeppelin reduces downtime with predictive ...User Stories · Zeplin Gazette — Narrow down 4 case studies by company size & industry to find out how Zeplin works for a business like yours. With Splunk, Zeppelin has optimized its IT systems, using predictive maintenance and analytics to accelerate troubleshooting and increas",
+    "url": "https://www.featuredcustomers.com/vendor/zeplin/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin Revenue 2024: $51.9M Est., $1.2M Raised - LATKA — Oct 30, 2026 · Zeplin 2024 estimated revenue: $51.9M (up from $32.5M in 2023). Total funding: $1.2M across 1 round. 5M customers, 91 employees. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/zeplin",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin 2026 Company Profile: Valuation, Funding & Investors ...Zeplin – Market Position & Workforce Comparison – 2026Zeplin - 2026 Company Profile, Team, Funding & Competitors ...Zeplin Pty Revenue, Funding & Valuation - prospeo.ioZeplin, Inc. Company Profile: Financials, Valuation, and ...Zeplin - Products, Competitors, Financials, Employees ... — Information on valuation, funding, cap tables, in",
+    "url": "https://pitchbook.com/profiles/company/104834-44",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin – Market Position & Workforce Comparison – 2026 — With growing operations, Zeplin reportedly earns $25.6M per year. The revenue per employee estimate for Zeplin is $150.5K. Cumulative funding for Zeplin currently stands at $1.4M. As of now, Zeplin employs over 100+ people. Over the past year, Zeplin saw a 7% decline in headcount.",
+    "url": "https://compworth.com/company/zeplin",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin - 2026 Company Profile, Team, Funding & Competitors ...Zeplin Pty Revenue, Funding & Valuation - prospeo.ioZeplin, Inc. Company Profile: Financials, Valuation, and ...Zeplin - Products, Competitors, Financials, Employees ... — Mar 7, 2026 · Zeplin is a seed company based in San Francisco (United States), founded in 2014 by Pelin Kenez, Merih AKAR, Ismail Ceylan and Berk Çebi. It operates as",
+    "url": "https://tracxn.com/d/companies/zeplin/__2pfp7VIU1iHIH8AQQfmWbyb_dJX7-ckuHFBoczhd14g",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin Pty Revenue, Funding & Valuation - prospeo.io — Zeplin Pty has revenue of $85,555, estimated valuation of $273,776. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/zeplin-pty-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Zeplin まとめ｜高橋悠太 / Yuta Takahashi｜note Jul 17, 2018 · デザイナーさんが動きの部分を説明したり、エンジニアが気になった部分を質問したりと、Zeplin上でコミュニケーションを完結することができます。 ③カラーとフォントのガイドラインの設定 ガイドラインを自動で作成してくれます。",
+    "url": "https://note.com/cfbif/n/n76775c20072c",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplinの何が悪いの？｜R - note（ノート） Feb 23, 2021 · Zeplinとはデザイナーが作成したデザインをチームに共有するためのツールです。 最近はFigmaを使ってデザインをチームに共有する方も多いと思いますが、私自身は未だにZeplinには大変お世話になっています。",
+    "url": "https://note.com/ryo1117/n/n0cd5b3daabff",
+    "pass": 3
+   },
+   {
+    "quote": "Adobe XD とZeplinを連携してコーディングを楽する方法 Dec 11, 2018 · それではAdobe XDとZeplinを連携します。 Adobe XDのメニューより、「ファイル」→「書き出し」→「Zeplin」を選択します。 するとZeplinの画面が開きます。 先ほど作成したプロジェクトが表示されますので、選択した状態で「Import」をクリックします。",
+    "url": "https://note.com/koushikagawa/n/n8929da789802",
+    "pass": 3
+   },
+   {
+    "quote": "Sketch + Zeplin から Figma に移行したら快適だった！！ Sep 20, 2018 · デザインツールをSketch + ZeplinからFigmaに移行しました。 Figmaへの移行を迷われている方も多いのではないかと思い、「なぜ移行したのか、移行する際にどのような負担が発生したか、移行して何が良かったか」などをシェアしたいと思います。",
+    "url": "https://note.com/obashige/n/n03e8b98e0c91",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Adobe XD とZeplinを連携してコーディングを楽する方法｜Koshi Kagawa",
+    "url": "https://note.com/koushikagawa/n/n8929da789802",
+    "pass": 3
+   },
+   {
+    "quote": "Adobe XD とZeplinを連携してコーディングを楽する方法",
+    "url": "https://note.com/koushikagawa/n/n8929da789802",
+    "pass": 3
+   },
+   {
+    "quote": "・はじめに （コーディングすることになったわけ）",
+    "url": "https://note.com/koushikagawa/n/n8929da789802",
+    "pass": 3
+   },
+   {
+    "quote": "今弊社で開発しているプロジェクトで、コーディングをする機会がやってきました。",
+    "url": "https://note.com/koushikagawa/n/n8929da789802",
+    "pass": 3
+   },
+   {
+    "quote": "現在デザイナーさんにAdobe XDでデザインを作ってもらっており、本来であればそのデータをもとにエンジニアさんにコーディングからお願いするように依頼していたのですが、",
+    "url": "https://note.com/koushikagawa/n/n8929da789802",
+    "pass": 3
+   },
+   {
+    "quote": "コーディングまで対応するとスケジュール間に合わないかも！（泣）",
+    "url": "https://note.com/koushikagawa/n/n8929da789802",
+    "pass": 3
+   },
+   {
+    "quote": "と言われたため、それならこちらでやってみるかということで対応することに。",
+    "url": "https://note.com/koushikagawa/n/n8929da789802",
+    "pass": 3
+   },
+   {
+    "quote": "こういう時にあまりディレクターが手を動かして対応するというのは良くないのかもしれないのですが、私の場合は色々やって見たいタイプなのでチャレンジすることに。あとはたまたま時間取れそうだったと言うのもあります。ある意味運が良かった。トラブルには結構柔軟に対応する弊社です。",
+    "url": "https://note.com/koushikagawa/n/n8929da789802",
+    "pass": 3
+   },
+   {
+    "quote": "Sketch + Zeplin から Figma に移行したら快適だった！！｜尾花政篤 / Sansan",
+    "url": "https://note.com/obashige/n/n03e8b98e0c91",
+    "pass": 3
+   },
+   {
+    "quote": "Sketch + Zeplin から Figma に移行したら快適だった！！",
+    "url": "https://note.com/obashige/n/n03e8b98e0c91",
+    "pass": 3
+   },
+   {
+    "quote": "デザインツールをSketch + ZeplinからFigmaに移行しました。",
+    "url": "https://note.com/obashige/n/n03e8b98e0c91",
+    "pass": 3
+   },
+   {
+    "quote": "Figmaへの移行を迷われている方も多いのではないかと思い、「なぜ移行したのか、移行する際にどのような負担が発生したか、移行して何が良かったか」などをシェアしたいと思います。",
+    "url": "https://note.com/obashige/n/n03e8b98e0c91",
+    "pass": 3
+   },
+   {
+    "quote": "「Figma絶対にイイですよ！導入しましょう！！」",
+    "url": "https://note.com/obashige/n/n03e8b98e0c91",
+    "pass": 3
+   },
+   {
+    "quote": "とある大手EC事業者では、最近Figmaを全社導入した、というような話も聞いており、Figmaに注目が集まっていることは知っていました。",
+    "url": "https://note.com/obashige/n/n03e8b98e0c91",
+    "pass": 3
+   },
+   {
+    "quote": "その後、実際にFigmaをつかって業務をしたことがあるPM/デザイナーの方にFigmaの使い勝手を聞きました。",
+    "url": "https://note.com/obashige/n/n03e8b98e0c91",
+    "pass": 3
+   },
+   {
+    "quote": "「めっちゃ使いやすいです」「Figma良すぎて、Sketchの使い方忘れつつあります」",
+    "url": "https://note.com/obashige/n/n03e8b98e0c91",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Zeplin Love (@ZeplinLove) / Posts / X Zeplin Love (@ZeplinLove) - Posts - Sharing the Zeplin love on our website! | X (formerly Twitter)",
+    "url": "https://x.com/zeplinlove",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by Zeplin (@zeplin) / X We went digging through usage data recently and saw how many of you are documenting accessibility in Zeplin. Then we got on some calls, and the story was always the same: there's a guidance doc somewhere, and designers retype their own version of it into every single screen.",
+    "url": "https://x.com/zeplin/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "zeplin (@Szepa1) / Posts / X 🤍 38113 0 📎 🔁 Reposted by zeplin Perfectly Paused SpongeBob Frames PausedSponge Dec 11",
+    "url": "https://x.com/Szepa1",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin on X: \"Right now, you can get Zeplin for about 50% ... Right now, you can get Zeplin for about 50% less than Figma's Dev Mode. 💰 But that's not all—we go beyond a \"mode\" and provide you a full suite of design-to-dev tools to help you with: ️ Documentation 📂 Organization 💁♀️ Workflow Management 🎨 Styleguides",
+    "url": "https://x.com/zeplin/status/1752348798448218499",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by Zeplin (@zeplin) / X - x.com We went digging through usage data recently and saw how many of you are documenting accessibility in Zeplin. Then we got on some calls, and the story was always the same: there's a guidance doc somewhere, and designers retype their own version of it into every single screen.",
+    "url": "https://x.com/zeplin/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin ZİYAGİL®️ (@eskizzeplin) / X Zeplin ZİYAGİL®️ 296.3K posts Zeplin ZİYAGİL®️ @eskizzeplin Parody account Show translation",
+    "url": "https://x.com/eskizzeplin",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Zeplin - LinkedIn (YC S15) Zeplin is an organized workspace to publish finalized designs, where the entire team can collaborate to ship beautiful products together.",
+    "url": "https://www.linkedin.com/company/zeplin-io",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin - LinkedIn About Zeplin is an organized workspace to publish finalized designs, where the entire team can collaborate to ship beautiful products together.",
+    "url": "https://www.linkedin.com/products/zeplin-io-zeplin/",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin Engineering Solutions | LinkedIn Zeplin Engineering Solutions | 12.791 seguidores no LinkedIn. Construa o extraordinário com a gente! | A Zeplin nasceu com um propósito claro: transformar a maneira como projetos são pensados e...",
+    "url": "https://br.linkedin.com/company/zeplineng",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin - LinkedIn (YC S15) Zeplin is an organized workspace to publish finalized designs, where the entire team can collaborate to ship beautiful products together. We were founded in 2014 and today we are honored...",
+    "url": "https://uk.linkedin.com/company/zeplin-io",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Zeplin - FacebookZeplin - FacebookZeplin - FacebookZeplin - FacebookJoe Zeplin - FacebookZeplin | Antwerp - FacebookZeplin Car Rental - Facebook Dec 8, 2025 · Did an amazing idea come to you during a fika? ☕💡 You can stay in design flow in Figma by publishing finalized designs to Zeplin — this way, developers have what they need to start building and you can keep iterating. Jan 26, 2023 · Zeplin. ",
+    "url": "https://www.facebook.com/zeplin.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin - FacebookZeplin - FacebookZeplin - FacebookJoe Zeplin - FacebookZeplin | Antwerp - FacebookZeplin Car Rental - Facebook Jan 26, 2023 · Zeplin. 1,657 likes. soundcloud.com/zeplinproject twitter.com/zeplinproject instagram.com/zeplinproject Jun 11, 2019 · Zeplin. 35 likes. Zeplin provides software solutions for Meeting Room Management, Resource Booking and Visitor Managem Approvals in Zeplin",
+    "url": "https://www.facebook.com/ZeplinProject/",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin - FacebookZeplin - FacebookJoe Zeplin - FacebookZeplin | Antwerp - FacebookZeplin Car Rental - Facebook Jun 11, 2019 · Zeplin. 35 likes. Zeplin provides software solutions for Meeting Room Management, Resource Booking and Visitor Managem Approvals in Zeplin simplify the process of obtaining sign-offs for product development and launches. It allows you to assign screens for review, collabora",
+    "url": "https://www.facebook.com/zeplinsolutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Zeplin - Facebook Approvals in Zeplin simplify the process of obtaining sign-offs for product development and launches. It allows you to assign screens for review, collaborate with stakeholders, and track approval progress.",
+    "url": "https://www.facebook.com/groups/zeplin.io/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://zeplin.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zeplin.io/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zeplin.io/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zeplin.io/features/ai-in-zeplin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zeplin.io/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zeplin.io/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zeplin.io/integrations/mcp/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://blog.nijibox.jp/article/whatiszeplin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/products/zeplin/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it-trend.jp/web_design_tool/21017/case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000036631.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%88%E3%83%BB%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.atlassian.com/ja/blog/atlassian-japan-launched",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Zeppelin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/LZ_127_Graf_Zeppelin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.zeplinelectronics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cuspera.com/products/zeplin-x-10061/customer-story",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/zeplin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/zeplin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/zeplin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/104834-44",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/zeplin",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/zeplin/__2pfp7VIU1iHIH8AQQfmWbyb_dJX7-ckuHFBoczhd14g",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/cfbif/n/n76775c20072c",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/ryo1117/n/n0cd5b3daabff",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/koushikagawa/n/n8929da789802",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/obashige/n/n03e8b98e0c91",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/zeplinlove",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/zeplin/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Szepa1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/zeplin/status/1752348798448218499",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/zeplin-io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/zeplin-io-zeplin/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://br.linkedin.com/company/zeplineng",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/zeplin-io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zeplin.io/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ZeplinProject/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zeplinsolutions/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/zeplin.io/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/zeplin/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/eskizzeplin",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Zeplin 日本 導入",
+   "results": [
+    "https://blog.nijibox.jp/article/whatiszeplin/",
+    "https://www.itreview.jp/products/zeplin/profile",
+    "https://it-trend.jp/web_design_tool/21017/case",
+    "https://prtimes.jp/main/html/rd/p/000000010.000036631.html",
+    "https://marketplace.microsoft.com/ja-jp/product/office/wa200002201?tab=overview",
+    "https://ja.zeplinelectronics.com/",
+    "https://signs-d.ne.jp/article/release-20191127/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zeplin 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/キーサイト・テクノロジー",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.atlassian.com/ja/blog/atlassian-japan-launched",
+    "https://zeplin.io/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zeplin Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Zeppelin",
+    "https://en.wikipedia.org/wiki/LZ_127_Graf_Zeppelin",
+    "https://zeplin.io/about/",
+    "https://ja.zeplinelectronics.com/",
+    "https://app.zeplin.io/login",
+    "https://ja.zeplinelectronics.com/products",
+    "https://zeppelinwatch.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zeplin manufacturing customer case study",
+   "results": [
+    "https://zeplin.io/customers/",
+    "https://www.cuspera.com/products/zeplin-x-10061/customer-story",
+    "https://www.casestudies.com/company/zeplin",
+    "https://www.casestudies.com/customer/zeplin",
+    "https://www.featuredcustomers.com/vendor/zeplin/case-studies",
+    "https://www.splunk.com/en_us/pdfs/customer-success-stories/zeppelin.pdf",
+    "https://blog.zeplin.io/customer-stories/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zeplin white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Zeplin founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/zeplin",
+    "https://pitchbook.com/profiles/company/104834-44",
+    "https://compworth.com/company/zeplin",
+    "https://tracxn.com/d/companies/zeplin/__2pfp7VIU1iHIH8AQQfmWbyb_dJX7-ckuHFBoczhd14g",
+    "https://prospeo.io/c/zeplin-pty-revenue",
+    "https://www.privco.com/company/zeplin",
+    "https://www.cbinsights.com/company/zeplin"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Zeplin",
+   "results": [
+    "https://note.com/cfbif/n/n76775c20072c",
+    "https://note.com/ryo1117/n/n0cd5b3daabff",
+    "https://note.com/koushikagawa/n/n8929da789802",
+    "https://note.com/obashige/n/n03e8b98e0c91",
+    "https://note.com/kojifukuoka/n/n6512d8df4b75",
+    "https://note.com/aki_aoba/n/n9479f4d663fb",
+    "https://note.com/para7mii/n/n036af9e505b2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Zeplin",
+   "results": [
+    "https://x.com/zeplinlove",
+    "https://x.com/zeplin/with_replies",
+    "https://x.com/Szepa1",
+    "https://x.com/zeplin/status/1752348798448218499",
+    "https://x.com/eskizzeplin/status/2118103543899148693",
+    "https://x.com/zeplin_michael",
+    "https://help.x.com/en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Zeplin",
+   "results": [
+    "https://www.linkedin.com/company/zeplin-io",
+    "https://www.linkedin.com/products/zeplin-io-zeplin/",
+    "https://br.linkedin.com/company/zeplineng",
+    "https://uk.linkedin.com/company/zeplin-io",
+    "https://in.linkedin.com/company/zeplinmedia",
+    "https://ng.linkedin.com/company/zeplin-engineering-limited",
+    "https://de.linkedin.com/in/dr-sabrina-zeplin-9376863"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Zeplin",
+   "results": [
+    "https://www.facebook.com/zeplin.io/",
+    "https://www.facebook.com/ZeplinProject/",
+    "https://www.facebook.com/zeplinsolutions/",
+    "https://www.facebook.com/groups/zeplin.io/",
+    "https://www.facebook.com/joey.zeplin/",
+    "https://www.facebook.com/zeplinevents/",
+    "https://www.facebook.com/zeplincartr/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zeplin note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://note.com/sadaaki",
+    "https://diamond.jp/articles/-/388572"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zeplin X 投稿",
+   "results": [
+    "https://x.com/zeplin/with_replies",
+    "https://x.com/eskizzeplin",
+    "https://zeplin.io/",
+    "https://www.instagram.com/zeplinx/",
+    "http://www.zeplinapp.com.cn/",
+    "https://zeplin.io/home-2024/",
+    "http://www.zeplinapp.com.cn/Document-Designs.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

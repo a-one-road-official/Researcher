@@ -1,0 +1,935 @@
+{
+ "name": "Zestsecurity",
+ "aliases": [],
+ "context": "旧営業リスト｜Cybersecurity / Cloud Security｜AI送信済み",
+ "researched_at": "2026-11-11T05:39:54.975555+00:00",
+ "official_url": "https://www.zestsecurity.io/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "24-Jul-2024 $5M   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/571509-64",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "10-Aug-2023    Completed Stealth",
+    "url": "https://pitchbook.com/profiles/company/571509-64",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/571509-64",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "$5,000,000",
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "250 Greenwich St, New York City, NY 10007, US",
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2023",
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "For more information about how ZEST processes personal data, check out our",
+    "url": "https://www.zestsecurity.io/",
+    "pass": 1
+   },
+   {
+    "quote": "ZEST is a uniquely proactive cloud security platform that actually solves problems instead of just flagging them. ZEST allows enterprises to bridge the remediation gap between DevOps and Security, thereby ensuring smoother operations and improving the organization's security posture.",
+    "url": "https://www.zestsecurity.io/",
+    "pass": 1
+   },
+   {
+    "quote": "ZEST has helped us navigate top compliance challenges by aligning various requirements to our vulnerability management and risk remediation programs. With ZEST, remediation time has significantly reduced. Our teams are now able to proactively resolve attack paths and quickly address vulnerabilities and cloud misconfigurations with both remediation and mitigation.",
+    "url": "https://www.zestsecurity.io/",
+    "pass": 1
+   },
+   {
+    "quote": "What’s cool about ZEST is that it actually generates Terraform fixes for you. So instead of just telling DevOps what the issue is, you’re giving them the resolution. All they have to do is review it, say it looks good, and approve it. ZEST makes remediation fast and easy.",
+    "url": "https://www.zestsecurity.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Not only does ZEST help us remediate GCP misconfigurations fast, it also helps us identify unmanaged cloud infrastructure outside of our Terraform deployments. ZEST has been incredibly useful in helping us prioritize drift based on contextual risks and exploitability.",
+    "url": "https://www.zestsecurity.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Disregard vulnerabilities that are not a risk based on our proprietary analysis, threat intelligence, and your business context.",
+    "url": "https://www.zestsecurity.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Many vulnerabilities cannot be exploited based on your unique technical DNA. Deprioritize those and focus on what really matters.",
+    "url": "https://www.zestsecurity.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Prioritize what's risky to",
+    "url": "https://www.zestsecurity.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Prioritize what truly matters based on your environment’s unique technical DNA, and what's actually reachable and exploitable.",
+    "url": "https://www.zestsecurity.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven by Results, Validated by Experts",
+    "url": "https://www.zestsecurity.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Comprehensive security must go beyond simple remediation. ZEST exemplifies this”",
+    "url": "https://www.zestsecurity.io/",
+    "pass": 1
+   },
+   {
+    "quote": "ZEST named a sample vendor offering Preemptive Exposure Management",
+    "url": "https://www.zestsecurity.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"With ZEST, we can proactively resolve attack paths and quickly address cloud vulnerabilities\"",
+    "url": "https://www.zestsecurity.io/",
+    "pass": 1
+   },
+   {
+    "quote": "“ZEST named a sample vendor offering Preemptive Exposure Management”",
+    "url": "https://www.zestsecurity.io/",
+    "pass": 1
+   },
+   {
+    "quote": "For more information about how ZEST processes personal data, check out our",
+    "url": "https://www.zestsecurity.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Work with a team that values shared success. Enjoy clear incentives and a partner program built for speed, not paperwork.",
+    "url": "https://www.zestsecurity.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Help your customers evolve their cloud, application, and exposure management programs with intelligent remediation. Ideal for resellers, VARs, MSSPs, and distributors driving innovation in their portfolios.",
+    "url": "https://www.zestsecurity.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Join forces with ZEST to build integrations that deliver even greater security outcomes for our joint customers. Together, we’ll strengthen enterprise defences worldwide against emerging threats.",
+    "url": "https://www.zestsecurity.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "\"With ZEST, we can proactively resolve attack paths and quickly address cloud vulnerabilities\"",
+    "url": "https://www.zestsecurity.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "ZEST Security | Pricing and Packages",
+    "url": "https://www.zestsecurity.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For more information about how ZEST processes personal data, check out our",
+    "url": "https://www.zestsecurity.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "1 cloud project / account",
+    "url": "https://www.zestsecurity.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "100 cloud projects / accounts",
+    "url": "https://www.zestsecurity.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "300 cloud projects / accounts",
+    "url": "https://www.zestsecurity.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI prioritization agents",
+    "url": "https://www.zestsecurity.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud Service Provider (CSP)",
+    "url": "https://www.zestsecurity.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Single Cloud Provider (AWS, Azure, or GCP)",
+    "url": "https://www.zestsecurity.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "\"With ZEST, we can proactively resolve attack paths and quickly address cloud vulnerabilities\"",
+    "url": "https://www.zestsecurity.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For more information about how ZEST processes personal data, check out our",
+    "url": "https://www.zestsecurity.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Organizations have invested millions in tools, teams, and processes to manage risk.",
+    "url": "https://www.zestsecurity.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "but actually applying remediation and prevention remains the biggest barrier to organizations becoming resilient and secure.",
+    "url": "https://www.zestsecurity.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Ex Israeli intelligence with over a decade in cyber security specializing in both offensive and defensive practices and operations and cloud and product security for large organizations. Uri led the security architecture activities at Akamai where he oversaw global vulnerability management, product security and the company’s cloud security risk remediation strategy.",
+    "url": "https://www.zestsecurity.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President, R&D",
+    "url": "https://www.zestsecurity.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "SecurityWeek highlights ZEST for introducing new Agentic capabilities that eliminate more than 90% of vulnerabilities across AWS accounts, services, and product",
+    "url": "https://www.zestsecurity.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "ZEST Security Named Among October's Leading Infosec Products",
+    "url": "https://www.zestsecurity.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "ZEST Security's free remediation assessment among October's top Infosec products.",
+    "url": "https://www.zestsecurity.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "For more information about how ZEST processes personal data, check out our",
+    "url": "https://www.zestsecurity.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "hiring@zestsecurity.io",
+    "url": "https://www.zestsecurity.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Business Development Representative (BDR)",
+    "url": "https://www.zestsecurity.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Speedataは、ビッグデータ分析、バッチETL処理、およびAIデータ前処理（AI Data Preparation）に特化した専用プロセッサ「APU（...",
+    "url": "https://en.firstcvc.jp/global/zestsecurity.io",
+    "pass": 3
+   },
+   {
+    "quote": "Zest Security 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/571509-64",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an artificial intelligence-powered risk resolution platform designed to simplify cloud risk remediation. The company's platform provides both mitigation and remediation using code and existing controls to eliminate cloud vulnerabilities and misconfiguration, enabling security and development operations teams to save time and fix open security issues.",
+    "url": "https://pitchbook.com/profiles/company/571509-64",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/571509-64",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/571509-64",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/571509-64",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/571509-64",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/571509-64",
+    "pass": 3
+   },
+   {
+    "quote": "Zest Security’s primary industry is Network Management Software.",
+    "url": "https://pitchbook.com/profiles/company/571509-64",
+    "pass": 3
+   },
+   {
+    "quote": "Is Zest Security a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/571509-64",
+    "pass": 3
+   },
+   {
+    "quote": "Zest Security is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/571509-64",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/571509-64",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/571509-64",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/571509-64",
+    "pass": 3
+   },
+   {
+    "quote": "ZEST offers an Agentic AI-powered risk resolution platform that redefines how security teams resolve cloud vulnerabilities and misconfigurations. The platform leverages AI Agents to automatically map risks to high-impact resolution pathways that remediate, mitigate, and prevent exposure at a scale and speed not previously possible.",
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "ZEST Security has approximately",
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Work with a team that values shared success. Enjoy clear incentives and a partner program built for speed, not paperwork.",
+    "url": "https://www.zestsecurity.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Help your customers evolve their cloud, application, and exposure management programs with intelligent remediation. Ideal for resellers, VARs, MSSPs, and distributors driving innovation in their portfolios.",
+    "url": "https://www.zestsecurity.io/partners",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "but actually applying remediation and prevention remains the biggest barrier to organizations becoming resilient and secure.",
+    "url": "https://www.zestsecurity.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Joining ZEST means becoming part of a dynamic team driven by innovation and a passion for redefining boundaries. At ZEST, we understand that our greatest asset is our people. We believe in the power of collaboration and the strength of a united team.",
+    "url": "https://www.zestsecurity.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/571509-64",
+    "pass": 3
+   },
+   {
+    "quote": "Zest Security has 21 total employees.",
+    "url": "https://pitchbook.com/profiles/company/571509-64",
+    "pass": 3
+   },
+   {
+    "quote": "What is Zest Security’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/571509-64",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Zest Security is",
+    "url": "https://pitchbook.com/profiles/company/571509-64",
+    "pass": 3
+   },
+   {
+    "quote": "ZEST Security Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "ZEST Security Revenue",
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At ZEST Security",
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of ZEST Security?",
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "ZEST Security generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does ZEST Security have?",
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "If you can’t find what you’re looking for, send us an email at",
+    "url": "https://www.zestsecurity.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/571509-64",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ZEST Security | Agentic Exposure Management & Remediation — ZEST is the leading agentic exposure management that remediates, mitigates, and prevents cloud vulnerabilities, misconfigurations, and other exposures.",
+    "url": "https://www.zestsecurity.io/",
+    "pass": 3
+   },
+   {
+    "quote": "ZEST Security | Partners — Whether you're helping clients drive better security outcomes or building the future of tech, partner with ZEST Security to amplify your impact.",
+    "url": "https://www.zestsecurity.io/partners",
+    "pass": 3
+   },
+   {
+    "quote": "ZEST Security | Funding Rounds & Investor Information (Global ... — Company profile of ZEST Security, a global startup backed by Hanaco Ventures. ZEST Securityは、エージェンティックAIを活用したクラウドリスク解決プラットフォームを提供する企業です。「チケットを開くことではなく、閉じること」...",
+    "url": "https://en.firstcvc.jp/global/zestsecurity.io",
+    "pass": 3
+   },
+   {
+    "quote": "ZEST INC. Company Profile | TOSHIMA-KU, TOKYO | Competitors ...ZEST Securityの資金調達・投資家情報 | 海外スタートアップ | FIRST ...ZEST Security - LinkedIn — Find company research, competitor information, contact details & financial data for ZEST INC. of TOSHIMA-KU, TOKYO. Get the latest business insights from Dun & Bradstreet. Hanaco Venturesのポートフォリオに掲載される海外スタートアップZEST Securityの企業プロフィール。ZEST Securityは、エージェンティックAIを活用",
+    "url": "https://www.dnb.com/business-directory/company-profiles.zest_inc.48b88406f649ab5641c104d6c7116898.html",
+    "pass": 3
+   },
+   {
+    "quote": "ZEST case study: rebrand and website by Yaya — How Yaya launched ZEST Security out of stealth and later repositioned the brand against a Black Hat deadline, with a system the in-house team runs.",
+    "url": "https://yaya.co/our-work/zest",
+    "pass": 3
+   },
+   {
+    "quote": "Zest Security 2026 Company Profile: Valuation, Funding ...ZEST Security Revenue, Funding & Valuation - prospeo.ioZEST Security: $5M Funding, 18 Employees & Latest News | MandosZEST Security – Valuation, Revenue & Market Scope – 2026ZEST Security: Funding, Investors & Team (Nov 2026) - FundedIQZEST Security: Funding, Team & Investors | Startup IntrosZest: Funding, Team & Investors | Startup Intros ",
+    "url": "https://pitchbook.com/profiles/company/571509-64",
+    "pass": 3
+   },
+   {
+    "quote": "ZEST Security Revenue, Funding & Valuation - prospeo.io — ZEST Security has revenue of $1,625,545, estimated valuation of $5,300,000, $5,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "ZEST Security: $5M Funding, 18 Employees & Latest News | Mandos — Oct 11, 2026 · ZEST Security has raised $5M in equity and has about 18 employees. See recent company activity, products, competitors, latest funding, hiring and Mandos Momentum data.",
+    "url": "https://mandos.io/data/companies/zest-security",
+    "pass": 3
+   },
+   {
+    "quote": "ZEST Security – Valuation, Revenue & Market Scope – 2026 — Discover ZEST Security's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/zest-security",
+    "pass": 3
+   },
+   {
+    "quote": "ZEST Security: Funding, Investors & Team (Nov 2026) - FundedIQ — ZEST Security: Funding, Investors & Team (Nov 2026) ZEST was founded to bridge the gap that exists between identifying security risks and efficiently remediating them. There is a pressing need for technology that shifts the industry’s focus from identifying problems to resolving them.",
+    "url": "https://fundediq.co/zest-security-zestsecurity-io-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ZEST Security launches free AI-based remediation risk ... ZEST Security launches free AI-based remediation risk assessment for security teams - Help Net... www.helpnetsecurity.com",
+    "url": "https://x.com/helpnetsecurity/status/1983851374959063182",
+    "pass": 3
+   },
+   {
+    "quote": "DevOpsDays Boston (@devopsdaysbos) / Posts / X 🎉Very excited to have ZEST Security as a Startup Alley sponsor for #DevOpsDaysBoston! Their aim is to bridge the gap b/w identifying security risks + efficiently remediating them. 👉 zestsecurity.io 🗓️Oct 21-22, 2024 🔗 ti.to/devopsdaysbos/… TY Zest for your support!🙌",
+    "url": "https://x.com/devopsdaysbos",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ZEST Security - LinkedIn ZEST Security | 2,170 followers on LinkedIn. Agentic AI-powered cloud risk resolution | With ZEST, it’s not about opening tickets; it’s about closing them. ZEST offers an Agentic Exposure ...",
+    "url": "https://www.linkedin.com/company/zest-cyber",
+    "pass": 3
+   },
+   {
+    "quote": "Amit Etrogy - Software Engineer @ ZEST security | LinkedInSnir Ben Shimol - ZEST Security | LinkedInIntroducing ZEST’s Multi-Agent AI system - LinkedIn#ctem #exposuremanagement #vulnerabilitymanagement - LinkedIn Software Engineer @ ZEST security · Software Engineer at ZEST Security. B.Sc. in Computer Science. Previously served as a Full Stack Team Leader and Developer in a classified IDF Intellig",
+    "url": "https://il.linkedin.com/in/amit-etrogy-251512224",
+    "pass": 3
+   },
+   {
+    "quote": "Snir Ben Shimol - ZEST Security | LinkedInIntroducing ZEST’s Multi-Agent AI system - LinkedIn#ctem #exposuremanagement #vulnerabilitymanagement - LinkedIn Feb 20, 2020 · Israeli intelligence Alumni, with over 15 years of security research, product management… · Experience: ZEST Security · Education: The college of Management- Academic Studies · Location: New ... 🔥 📢 Product announcement! Today we’",
+    "url": "https://www.linkedin.com/in/snirsbs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Zest Security - Facebook Zest Security - Facebook ... Zest Security",
+    "url": "https://www.facebook.com/Zest-Security-106354992509761/",
+    "pass": 3
+   },
+   {
+    "quote": "Zest Security and Manpower Services - Facebook Aug 24, 2025 · Zest Security and Manpower Services. 32 followers. Zest Security and Manpower Services Pvt Ltd Jaipur is a licensed company and provides Trained Armed/",
+    "url": "https://www.facebook.com/profile.php/?id=100064129054287",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.zestsecurity.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zestsecurity.io/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zestsecurity.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zestsecurity.io/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zestsecurity.io/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://japan.ajunews.com/view/20261020163670288",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.proofpoint.com/jp/blog/cyberthreats/dmarc-adoption-industry-japan-us-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.proofpoint.com/jp/newsroom/press-releases/Jp-ranks-last-18-countries-effective-settings-prevent-scam-emails",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.firstcvc.jp/global/zestsecurity.io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dnb.com/business-directory/company-profiles.zest_co_ltd.028f6bed88f5b269d59f6c23f248e2fe.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/designers-anonymous/case-study/zest-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-cybersecurity-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futurismtechnologies.com/cyber-security-casestudy/manufracturing/",
+    "status": "http_500",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partnerportal.fortinet.com/English/?ReturnUrl=%2FEnglish%2FNAReseller%2Fhome.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/571509-64",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/zest-security-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mandos.io/data/companies/zest-security",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/zest-security",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/helpnetsecurity/status/1983851374959063182",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/devopsdaysbos",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/zest-cyber",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/in/amit-etrogy-251512224",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/snirsbs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Zest-Security-106354992509761/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/profile.php/?id=100064129054287",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Zestsecurity 日本 導入",
+   "results": [
+    "https://www.zestsecurity.io/",
+    "https://japan.ajunews.com/view/20261020163670288",
+    "https://www.proofpoint.com/jp/blog/cyberthreats/dmarc-adoption-industry-japan-us-2026",
+    "https://www.proofpoint.com/jp/newsroom/press-releases/Jp-ranks-last-18-countries-effective-settings-prevent-scam-emails",
+    "https://www.ntt-west.co.jp/news/2610/261029a.html",
+    "https://www.zestsecurity.io/resources/news",
+    "https://note.com/daikidomon/n/n72eaa3f8113c"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zestsecurity 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.zestsecurity.io/",
+    "https://securityz.jp/",
+    "https://ja.nozominetworks.com/company",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zestsecurity Japan",
+   "results": [
+    "https://www.zestsecurity.io/",
+    "https://www.zestsecurity.io/partners",
+    "https://en.firstcvc.jp/global/zestsecurity.io",
+    "https://www.dnb.com/business-directory/company-profiles.zest_co_ltd.028f6bed88f5b269d59f6c23f248e2fe.html",
+    "https://www.dnb.com/business-directory/company-profiles.zest_inc.48b88406f649ab5641c104d6c7116898.html",
+    "https://www.firstcvc.jp/global/zestsecurity.io",
+    "https://www.linkedin.com/company/zest-cyber"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zestsecurity manufacturing customer case study",
+   "results": [
+    "https://www.zestsecurity.io/resources/content/customer-wins-with-agentic-exposure-management-in-numbers",
+    "https://www.casestudies.com/company/designers-anonymous/case-study/zest-customer-case-study",
+    "https://digitaldefynd.com/IQ/manufacturing-cybersecurity-case-studies/",
+    "https://www.futurismtechnologies.com/cyber-security-casestudy/manufracturing/",
+    "https://yaya.co/our-work/zest",
+    "https://optex.imgix.net/downloads/OPTEX-LiDAR-redscan-call-centre-zest-security-case-study-en.pdf",
+    "https://www.zestsecurity.io/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zestsecurity white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.superantispyware.com/reseller-program",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zestsecurity founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/571509-64",
+    "https://prospeo.io/c/zest-security-revenue",
+    "https://mandos.io/data/companies/zest-security",
+    "https://compworth.com/company/zest-security",
+    "https://fundediq.co/zest-security-zestsecurity-io-funding/",
+    "https://startupintros.com/orgs/zest",
+    "https://startupintros.com/orgs/zest-security"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Zestsecurity",
+   "results": [
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/plumegane/n/n7923eb399457?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/zestaxconsult/n/nf025bce08ca0?hl=en",
+    "https://tales.note.com/",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/no_mad_were_here/n/n912039b8c4aa"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Zestsecurity",
+   "results": [
+    "https://blog.x.com/en/product/introducing-a-new-twitter-dot-com",
+    "https://x.com/helpnetsecurity/status/1983851374959063182",
+    "https://x.com/devopsdaysbos",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://help.x.com/en/using-x/about-grok",
+    "https://x.com/Zest328117/status/2103102626737127786",
+    "https://x.com/Day169/status/2107029297877922173"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Zestsecurity",
+   "results": [
+    "https://www.linkedin.com/company/zest-cyber",
+    "https://il.linkedin.com/in/amit-etrogy-251512224",
+    "https://www.linkedin.com/in/snirsbs",
+    "https://www.linkedin.com/posts/zest-cyber_introducing-zests-multi-agent-ai-system-activity-7320431296617320448-AHfA",
+    "https://il.linkedin.com/company/zest-cyber",
+    "https://www.linkedin.com/posts/activity-7525634807112921088--YZ7",
+    "https://www.linkedin.com/posts/zest-cyber_cloudsecurity-remediation-mitigation-activity-7221857673380532224-yz90"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Zestsecurity",
+   "results": [
+    "https://www.facebook.com/Zest-Security-106354992509761/",
+    "https://www.facebook.com/profile.php/?id=100064129054287",
+    "https://lite.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/zestmanpower/",
+    "https://www.facebook.com/zestfireprotection/",
+    "https://www.facebook.com/zest/posts/i-caught-my-daughter-in-law-on-my-security-camera-secretly-planning-to-move-her-/1111807357836952/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zestsecurity note 社長",
+   "results": [
+    "https://note.com/zsecurity",
+    "https://www.zestsecurity.io/resources/news/zest-security-interview-with-ceo-snir-ben-shimol",
+    "https://www.zestsecurity.io/",
+    "https://japan.cnet.com/article/35254620/",
+    "https://fundediq.co/zest-security-zestsecurity-io-funding/",
+    "https://mandos.io/data/companies/zest-security",
+    "https://pitchbook.com/profiles/company/571509-64"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zestsecurity X 投稿",
+   "results": [
+    "https://x.com/zestexposed",
+    "https://www.zestsecurity.io/",
+    "https://x.com/SecurityZ9999/status/2106223160588959812",
+    "https://x.com/ZEST2007mini/status/2110184442962821225",
+    "https://x.com/Zest328117/status/2103102626737127786",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://x.com/OpenAI/status/2119913172039868579"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部26頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部26頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部26頁・検索12回）"
+ }
+}

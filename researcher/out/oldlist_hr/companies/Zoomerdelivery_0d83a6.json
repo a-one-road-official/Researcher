@@ -1,0 +1,817 @@
+{
+ "name": "Zoomerdelivery",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T05:22:39.293137+00:00",
+ "official_url": "https://www.medzoomer.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Medzoomer | Your On-Demand Prescription Delivery Service",
+    "url": "https://www.medzoomer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Helping Partners Provide",
+    "url": "https://www.medzoomer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We help our Partners provide safe and secure delivery to Patients, allowing them to get their medications on their terms.",
+    "url": "https://www.medzoomer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our secure delivery process makes it easy for patients to receive their prescriptions quickly and without unnecessary hassle.",
+    "url": "https://www.medzoomer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Patient places a prescription delivery order through the provider’s platform.",
+    "url": "https://www.medzoomer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Pharmacy prepares the prescription to be sent out to the Patient.",
+    "url": "https://www.medzoomer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The prescriptions are picked up for delivery by a HIPAA certified courier.",
+    "url": "https://www.medzoomer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The prescriptions are delivered successfully to the patient’s door.",
+    "url": "https://www.medzoomer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "in Prescription Delivery",
+    "url": "https://www.medzoomer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "MEDZOOMER connects pharmacies, providers, and patients through a secure, compliant delivery network built specifically for healthcare.",
+    "url": "https://www.medzoomer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prescriptions Delivered",
+    "url": "https://www.medzoomer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How Prescription Delivery Works with",
+    "url": "https://www.medzoomer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This video walks you through how MEDZOOMER streamlines prescription delivery by securely connecting patients, pharmacies, and couriers on a single platform. From order placement to final delivery, every step is designed to meet healthcare compliance requirements while ensuring a smooth and reliable experience for patients.",
+    "url": "https://www.medzoomer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Medication is safely transported in tamper-evident and insulated FDA/TSA approved envelopes.",
+    "url": "https://www.medzoomer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Verified handoffs, real time tracking, and QR code chain of custody features to help prevent loss and theft throughout the delivery.",
+    "url": "https://www.medzoomer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Work with MEDZOOMER to streamline prescription delivery through a secure and HIPAA compliant platform. We help pharmacies and couriers operate more efficiently while maintaining the highest standards of patient care.",
+    "url": "https://www.medzoomer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "MEDZOOMER provides safe and secure medication delivery to your patients. Don’t get left behind, Zoom past the competition.",
+    "url": "https://www.medzoomer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet the team dedicated to building secure, reliable prescription delivery solutions for patients, pharmacies, and partners.",
+    "url": "https://www.medzoomer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our work is guided by clear principles that shape how we build, operate, and support prescription delivery across our platform.",
+    "url": "https://www.medzoomer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We design every solution with patient safety, privacy, and compliance at the center of our decision making.",
+    "url": "https://www.medzoomer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Marvin was born in Frankfurt, Germany, and is a former Division I All-American and professional football player. After his career ended due to back injuries, he worked as a financial advisor at Merrill Lynch in Tampa, specializing in high-net-worth athletes, agents, and coaches.",
+    "url": "https://www.medzoomer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "In early 2019, following another back surgery, Marvin struggled to access his prescribed medication and was forced to take multiple Uber rides just to visit the pharmacy. Frustrated by the lack of innovation in the pharmacy industry, he founded MEDZOOMER. In August 2019, Marvin left corporate America to pursue his entrepreneurial vision and provide on-demand access to prescriptions.",
+    "url": "https://www.medzoomer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Mark Hammonds is the Chief Technology Officer of MEDZOOMER with nearly 20 years of experience building and leading complex software systems across government and enterprise environments. He brings deep expertise in software architecture, cybersecurity, and applied AI, including work as a core contributor to the Department of Defense’s Project Maven.",
+    "url": "https://www.medzoomer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Before MEDZOOMER, Mark founded and led Bitmotive, LLC for over a decade, delivering custom software and cloud solutions for enterprise, government, and nonprofit clients. He holds a degree in Computer Networking & Security from the University of Maryland Global Campus.",
+    "url": "https://www.medzoomer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Ilirian Ameti is a Managing Partner at Profitability Partners with over seven years of experience in private equity and corporate finance. He has served as a fractional CFO for more than 16 companies across multiple industries, overseeing $48.2M in assets under management and supporting annual revenues exceeding $27M.",
+    "url": "https://www.medzoomer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Ilirian has helped raise over $12M in debt and equity capital and driven triple-digit revenue growth for several clients. Previously, he held finance roles at LMM Capital, Third Lake Capital, Amazon, and Robert W. Baird. He earned his BBA in Finance from the University of Wisconsin–Madison, graduating with honors.",
+    "url": "https://www.medzoomer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Justin brings over nine years of experience driving revenue growth and enterprise partnerships across healthcare and technology. As Vice President of Sales at MEDZOOMER, he leads national expansion by building strategic relationships with pharmacy partners, health systems, and enterprise clients.",
+    "url": "https://www.medzoomer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Prior to MEDZOOMER, Justin held leadership roles at NimbleRx, PrescribeWellness, and KoaHealth, where he supported retail partnerships and enterprise software deployments. His expertise includes go-to-market strategy, complex deal execution, and scaling sales operations in regulated healthcare environments.",
+    "url": "https://www.medzoomer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Prescription Delivery for Pharmacies | Medzoomer",
+    "url": "https://www.medzoomer.com/pharmacies",
+    "pass": 1
+   },
+   {
+    "quote": "Helping Pharmacies Provide",
+    "url": "https://www.medzoomer.com/pharmacies",
+    "pass": 1
+   },
+   {
+    "quote": "Enable your Pharmacy with the power to provide better care for your patients by partnering with MEDZOOMER. HIPAA certified couriers take care of your patients by delivering their prescriptions directly to their door.",
+    "url": "https://www.medzoomer.com/pharmacies",
+    "pass": 1
+   },
+   {
+    "quote": "MEDZOOMER provides a secure and scalable prescription delivery solution built specifically for healthcare. We help pharmacies streamline fulfillment by connecting them with a trusted network of verified couriers and a platform designed to support compliance, visibility, and operational efficiency.",
+    "url": "https://www.medzoomer.com/pharmacies",
+    "pass": 1
+   },
+   {
+    "quote": "Tamper-Proof Packaging",
+    "url": "https://www.medzoomer.com/pharmacies",
+    "pass": 1
+   },
+   {
+    "quote": "Medication is safely transported in tamper-evident and insulated FDA/TSA approved envelopes.",
+    "url": "https://www.medzoomer.com/pharmacies",
+    "pass": 1
+   },
+   {
+    "quote": "A secure, compliant delivery platform designed to help pharmacies improve efficiency and patient satisfaction.",
+    "url": "https://www.medzoomer.com/pharmacies",
+    "pass": 1
+   },
+   {
+    "quote": "Easily track and optimize your platforms performance with our proprietary tracking software.",
+    "url": "https://www.medzoomer.com/pharmacies",
+    "pass": 1
+   },
+   {
+    "quote": "We provide our partners with revenue sharing capabilities from every delivery that comes through their network.",
+    "url": "https://www.medzoomer.com/pharmacies",
+    "pass": 1
+   },
+   {
+    "quote": "MEDZOOMER helps pharmacies and delivery partners simplify prescription delivery through a secure, compliant platform. Our partners share how reliable pickups, clear workflows, and trusted couriers help improve daily operations and patient satisfaction.",
+    "url": "https://www.medzoomer.com/pharmacies",
+    "pass": 1
+   },
+   {
+    "quote": "We have been able to provide so much value to our pharmacy network and their customers since partnering with MEDZOOMER 6 months ago. The feedback we have received from our pharmacists regarding the platform and the unique MEDZOOMER workflow has been amazing. We are excited to bring this delivery service to the rest of our locations over the next couple of months.",
+    "url": "https://www.medzoomer.com/pharmacies",
+    "pass": 1
+   },
+   {
+    "quote": "Work with MEDZOOMER to streamline prescription delivery through a secure and HIPAA compliant platform. We help pharmacies and couriers operate more efficiently while maintaining the highest standards of patient care.",
+    "url": "https://www.medzoomer.com/pharmacies",
+    "pass": 1
+   },
+   {
+    "quote": "MEDZOOMER provides safe and secure medication delivery to your patients. Don’t get left behind, Zoom past the competition.",
+    "url": "https://www.medzoomer.com/pharmacies",
+    "pass": 1
+   },
+   {
+    "quote": "This is your opportunity to get in on the ground-floor. You’ll have a ton of impact – lots of freedom to evolve our processes, systems, partners, platform, stack and apps. We’re currently hiring across a number of teams, there’s a full listing of our open roles at www.zoomerdelivery.com",
+    "url": "https://www.techstartupslist.com/startup/zoomer",
+    "pass": 3
+   },
+   {
+    "quote": "Zoomer 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/103744-72",
+    "pass": 3
+   },
+   {
+    "quote": "Provider of B2B food delivery services designed to offer unique approach to changing the food delivery space.The company's food delivery services offers a volume of concurrent deliveries from high-volume restaurants, enabling them to delivers pizza, wings, sandwiches and other food stuffs.",
+    "url": "https://pitchbook.com/profiles/company/103744-72",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/103744-72",
+    "pass": 3
+   },
+   {
+    "quote": "Provider of B2B food delivery services designed to offer unique approach to changing the food delivery space.The company",
+    "url": "https://pitchbook.com/profiles/company/103744-72",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/103744-72",
+    "pass": 3
+   },
+   {
+    "quote": "Zoomer’s primary industry is Other Commercial Services.",
+    "url": "https://pitchbook.com/profiles/company/103744-72",
+    "pass": 3
+   },
+   {
+    "quote": "Is Zoomer a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/103744-72",
+    "pass": 3
+   },
+   {
+    "quote": "Zoomer is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/103744-72",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/103744-72",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/103744-72",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/103744-72",
+    "pass": 3
+   },
+   {
+    "quote": "This is your opportunity to get in on the ground-floor. You’ll have a ton of impact – lots of freedom to evolve our processes, systems, partners, platform, stack and apps. We’re currently hiring across a number of teams, there’s a full listing of our open roles at www.zoomerdelivery.com",
+    "url": "https://startupintros.com/orgs/zoomer",
+    "pass": 3
+   },
+   {
+    "quote": "Product Differentiators:",
+    "url": "https://startupintros.com/orgs/zoomer",
+    "pass": 3
+   },
+   {
+    "quote": "Drivers were independent contractors who could create their own schedules and optimize earnings, improving driver satisfaction and retention.",
+    "url": "https://startupintros.com/orgs/zoomer",
+    "pass": 3
+   },
+   {
+    "quote": "Zoomer relieved restaurants from the complexities of managing delivery logistics, enabling them to focus on food preparation and customer experience.",
+    "url": "https://startupintros.com/orgs/zoomer",
+    "pass": 3
+   },
+   {
+    "quote": "Despite being relatively low-profile publicly, Zoomer grew rapidly in several markets and was recognized for its innovative approach before shutting down[1][2][5].",
+    "url": "https://startupintros.com/orgs/zoomer",
+    "pass": 3
+   },
+   {
+    "quote": "bloomberg.com/profile/company/1486845D:US",
+    "url": "https://startupintros.com/orgs/zoomer",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Ilirian Ameti is a Managing Partner at Profitability Partners with over seven years of experience in private equity and corporate finance. He has served as a fractional CFO for more than 16 companies across multiple industries, overseeing $48.2M in assets under management and supporting annual revenues exceeding $27M.",
+    "url": "https://www.medzoomer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Ilirian has helped raise over $12M in debt and equity capital and driven triple-digit revenue growth for several clients. Previously, he held finance roles at LMM Capital, Third Lake Capital, Amazon, and Robert W. Baird. He earned his BBA in Finance from the University of Wisconsin–Madison, graduating with honors.",
+    "url": "https://www.medzoomer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Justin brings over nine years of experience driving revenue growth and enterprise partnerships across healthcare and technology. As Vice President of Sales at MEDZOOMER, he leads national expansion by building strategic relationships with pharmacy partners, health systems, and enterprise clients.",
+    "url": "https://www.medzoomer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "MEDZOOMER helps you differentiate yourselves from the competition to drive in new revenue.",
+    "url": "https://www.medzoomer.com/pharmacies",
+    "pass": 1
+   },
+   {
+    "quote": "Pharmacy Revenue Share",
+    "url": "https://www.medzoomer.com/pharmacies",
+    "pass": 1
+   },
+   {
+    "quote": "We provide our partners with revenue sharing capabilities from every delivery that comes through their network.",
+    "url": "https://www.medzoomer.com/pharmacies",
+    "pass": 1
+   },
+   {
+    "quote": "51 employees",
+    "url": "https://www.techstartupslist.com/startup/zoomer",
+    "pass": 3
+   },
+   {
+    "quote": "Zoomer 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/103744-72",
+    "pass": 3
+   },
+   {
+    "quote": "4. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/103744-72",
+    "pass": 3
+   },
+   {
+    "quote": "Zoomer has 76 total employees.",
+    "url": "https://pitchbook.com/profiles/company/103744-72",
+    "pass": 3
+   },
+   {
+    "quote": "What is Zoomer’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/103744-72",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Zoomer is",
+    "url": "https://pitchbook.com/profiles/company/103744-72",
+    "pass": 3
+   },
+   {
+    "quote": "When was Zoomer acquired?",
+    "url": "https://pitchbook.com/profiles/company/103744-72",
+    "pass": 3
+   },
+   {
+    "quote": "Zoomer was acquired on 03-Feb-2017.",
+    "url": "https://pitchbook.com/profiles/company/103744-72",
+    "pass": 3
+   },
+   {
+    "quote": "Zoomer was acquired by",
+    "url": "https://pitchbook.com/profiles/company/103744-72",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Insurance for commercial vehicle operators.",
+    "url": "https://www.medzoomer.com/pharmacies",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Zoomer (@ZoomerDelivery) / Posts / X — Super excited to say that I'm joining @ZoomerDelivery (YC S14) as Product Designer. Great way to kick off 2015! angel.co/zoomer 💬0 🔄4 🤍7 0 📎 🔁Reposted by Zoomer Roy Kroycoding Oct 15",
+    "url": "https://x.com/zoomerdelivery",
+    "pass": 3
+   },
+   {
+    "quote": "Zoomer 2026 Company Profile: Valuation, Investors ... - PitchBookZoomer: Funding, Team & Investors | Startup IntrosZoomer - Products, Competitors, Financials, Employees ...Zoomer Information - RocketReachZoomer - Overview, News & Similar companies | ZoomInfo.comZoomer — Company Profile & Funding (2026) | Indexed.vc — Zoomer has 76 total employees. What industry is Zoomer in? Zoomer’s primary indus",
+    "url": "https://pitchbook.com/profiles/company/103744-72",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "We track 2,877 open engineering roles on startup careers boards right now. Get one email a week with the new ones. No login, unsubscribe anytime.",
+    "url": "https://www.techstartupslist.com/startup/zoomer",
+    "pass": 3
+   },
+   {
+    "quote": "Double opt-in. One email a week, only when there's something new.",
+    "url": "https://www.techstartupslist.com/startup/zoomer",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/103744-72",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Zoomer (@ZoomerDelivery) / Posts / X Super excited to say that I'm joining @ZoomerDelivery (YC S14) as Product Designer. Great way to kick off 2015! angel.co/zoomer 💬0 🔄4 🤍7 0 📎 🔁Reposted by Zoomer Roy Kroycoding Oct 15",
+    "url": "https://x.com/zoomerdelivery",
+    "pass": 3
+   },
+   {
+    "quote": ".@ZoomerDelivery exec talked hacking v. building ... Technical.lyTechnical_ly Dec 12 @ZoomerDelivery exec talked hacking v. building @StartupLeaders ' #FounderFactory16 bit.ly/2hfkt42 💬0 🔄0 🤍0 0 📎",
+    "url": "https://x.com/Technical_ly/status/808379696324952064",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Zoomer Delivery - Facebook Zoomer Delivery - Facebook ... Zoomer Delivery",
+    "url": "https://www.facebook.com/Zoomer-Delivery-381810918688691/",
+    "pass": 3
+   },
+   {
+    "quote": "Zoomer Delivery - Facebook Zoomer Delivery is on Facebook. Join Facebook to connect with Zoomer Delivery and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/people/Zoomer-Delivery/100052124585748/",
+    "pass": 3
+   },
+   {
+    "quote": "Zoomer Delivery - Facebook Facebook is showing information to help you better understand the purpose of a Page. See actions taken by the people who manage and post content.",
+    "url": "https://www.facebook.com/Zoomer-Delivery-1614689505445423/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.medzoomer.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medzoomer.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medzoomer.com/pharmacies",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.medzoomer.com/images/pharmacies/why-partner-pharmacy.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://jbpress.ismedia.jp/articles/-/97627",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iideli.com/archives/8029",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://1-president.com/services-japan-absence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.proofpoint.com/jp/blog/cyberthreats/dmarc-adoption-industry-japan-us-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.superdelivery.com/en/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/zoomerdelivery",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://zoomerdelivery.com/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/zoomer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/customer/zoomer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoom.com/ja/customer-stories/all/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loot-drop.io/startup/1516-zoomer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techstartupslist.com/startup/zoomer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/zoomer",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/103744-72",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/zoomer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/zoomer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/zoomerdelivery",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Technical_ly/status/808379696324952064",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Zoomer-Delivery-381810918688691/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/Zoomer-Delivery/100052124585748/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Zoomer-Delivery-1614689505445423/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Zoomerdelivery 日本 導入",
+   "results": [
+    "https://jbpress.ismedia.jp/articles/-/97627",
+    "https://iideli.com/archives/8029",
+    "https://1-president.com/services-japan-absence/",
+    "https://www.proofpoint.com/jp/blog/cyberthreats/dmarc-adoption-industry-japan-us-2026",
+    "https://36kr.jp/502580/",
+    "https://jp.linkedin.com/company/zoomer",
+    "https://zoomerdelivery.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zoomerdelivery 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zoomerdelivery Japan",
+   "results": [
+    "https://www.superdelivery.com/en/",
+    "https://x.com/zoomerdelivery",
+    "https://zoomerdelivery.com/",
+    "https://www.linkedin.com/company/zoomer",
+    "https://www.patreon.com/oni28/posts/zoomers-delivery-87170367",
+    "https://www.techstartupslist.com/startup/zoomer/",
+    "https://www.instagram.com/zoomer_delivery/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zoomerdelivery manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/zoomer",
+    "https://www.zoom.com/en/customer-stories/all/",
+    "https://www.loot-drop.io/startup/1516-zoomer",
+    "https://www.techstartupslist.com/startup/zoomer/",
+    "https://www.startupautopsy.com/case/zoomer",
+    "https://reforgers.com/startups/zoomer",
+    "https://zeorouteplanner.com/delivery-optimization-success-stories-real-proof-for-2026/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zoomerdelivery white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partners.spectrum.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zoomerdelivery founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/zoomer",
+    "https://pitchbook.com/profiles/company/103744-72",
+    "https://startupintros.com/orgs/zoomer",
+    "https://www.cbinsights.com/company/zoomer",
+    "https://indexed.vc/companies/zoomer",
+    "https://rocketreach.co/zoomer-profile_b58f5ac7f710103a",
+    "https://www.zoominfo.com/c/zoomer-inc/369368610"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Zoomerdelivery",
+   "results": [
+    "https://note.com/tag/我々は宇宙人",
+    "https://note.com/habibee/n/na96cdca5fc80",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/ogikubo/n/nf616c0b6685a",
+    "https://note.com/fukuso_sutaro/n/nf365aa7a3733",
+    "https://note.com/bonustrack/n/n4da55d43b918",
+    "https://note.com/royalcreative_/n/na81d71411e42"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Zoomerdelivery",
+   "results": [
+    "https://x.com/zoomerdelivery",
+    "https://x.com/Technical_ly/status/808379696324952064",
+    "https://x.com/zoomerfied",
+    "https://x.com/zoomer",
+    "https://x.com/Zoomer_Doomer_",
+    "https://x.com/zoomer_flywheel/status/2112150770523177148",
+    "https://x.com/IcyArt_/status/2118868511237853521"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Zoomerdelivery",
+   "results": [
+    "https://www.linkedin.com/in/zoomer-zoomer-7864b122a",
+    "https://www.linkedin.com/in/thaddus-menter-3b2263127",
+    "https://in.linkedin.com/pub/dir/Zoomer/In",
+    "https://ca.linkedin.com/in/leanne-h-wright-1743b01b",
+    "https://www.linkedin.com/company/zoomer",
+    "https://es.linkedin.com/pulse/el-uso-y-abuso-del-prefijo-neuro-en-la-ciencia-lidera-psicología-uitrf",
+    "https://www.linkedin.com/jobs/view/delivery-driver-independent-contractor-at-zoomer-145817293"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Zoomerdelivery",
+   "results": [
+    "https://www.facebook.com/Zoomer-Delivery-381810918688691/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/people/Zoomer-Delivery/100052124585748/",
+    "https://www.facebook.com/Zoomer-Delivery-1614689505445423/",
+    "https://www.facebook.com/p/zoomer_delivery-100065385403469/",
+    "https://www.facebook.com/profile.php/?id=100067025594152",
+    "https://www.facebook.com/p/Zoomer-Delivery-Services-100064281722203/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zoomerdelivery note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://yokotablog.com/sadaaki-kato-profile/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://japan.cnet.com/article/35243781/",
+    "https://zoomerdelivery.com/",
+    "https://founders-directory.vercel.app/company/zoomer"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zoomerdelivery X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部29頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部29頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部29頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部29頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部29頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部29頁・検索12回）"
+ }
+}

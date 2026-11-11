@@ -1,0 +1,1464 @@
+{
+ "name": "Wefunder",
+ "aliases": [],
+ "context": "旧営業リスト｜Crowdfunding｜未接触",
+ "researched_at": "2026-11-11T05:36:56.617159+00:00",
+ "official_url": "https://wefunder.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$9.1M",
+    "url": "https://getlatka.com/companies/wefunder",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Executive Immunologist, Biotech Entrepreneur.",
+    "url": "https://wefunder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Product lead at a Series B fintech startup.",
+    "url": "https://wefunder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ran my first business at age 13. Serial entrepreneur.",
+    "url": "https://wefunder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"From our investors, we hired 5 new full-time employees, which is about 8% of our workforce. We also hired 92 teachers, which is about 25% of that team.\"",
+    "url": "https://wefunder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "— opt in or keep it private, any time",
+    "url": "https://wefunder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your AI agent knows your investors, their networks, and their portfolios. Ask it anything — find warm intros, surface hidden connections, or prep for your next meeting.",
+    "url": "https://wefunder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Searches across LP profiles,",
+    "url": "https://wefunder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Expose investment primitives to AI agents.",
+    "url": "https://wefunder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "// Process a $50k investment",
+    "url": "https://wefunder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "After raising our seed round at the end of 2017 from Andreessen Horowitz, we built our basic product, launched in April 2019, and raised a Series A from CRV. A year and a half later in July 2021, we raised a $120 million Series B led by Coatue—and we allocated $5 million of the Series B to a Community Round with Wefunder.",
+    "url": "https://wefunder.com/case-studies/mercury",
+    "pass": 1
+   },
+   {
+    "quote": "I've always liked having a lot of investors at Mercury, especially because our investors and customers are entrepreneurs, too. I had 60 investors in my seed round, while most seed rounds have fewer than 10 investors. This community round, we were able to add 2,500 additional investors, which is incredible if you think about it!",
+    "url": "https://wefunder.com/case-studies/mercury",
+    "pass": 1
+   },
+   {
+    "quote": "Personally, it's unnatural for me to think, \"I'm trying to do community.\" I think of it more as, \"I'm trying to be helpful,\" and one of Mercury's company values is to \"Be Super Helpful.\" We try to do genuinely useful things for entrepreneurs, and community arises organically.",
+    "url": "https://wefunder.com/case-studies/mercury",
+    "pass": 1
+   },
+   {
+    "quote": "On a personal level, I try to help entrepreneurs as much as possible by tweeting often, giving advice, and being an active seed-stage investor. At Mercury, we create educational content for entrepreneurs, build interconnective tissue for entrepreneurs through programs and events, and involve our investors to participate in our community, even if they're not active Mercury users.",
+    "url": "https://wefunder.com/case-studies/mercury",
+    "pass": 1
+   },
+   {
+    "quote": "“I am a happy customer of Mercury. The bank enabled me to get our proudly South African made boot brand launched and running in the USA.”",
+    "url": "https://wefunder.com/case-studies/mercury",
+    "pass": 1
+   },
+   {
+    "quote": "“I am a huge Mercury stan! All my companies use it. I want to invest in Mercury, because it's the easiest product I have ever seen to onboard a stranger on to.”",
+    "url": "https://wefunder.com/case-studies/mercury",
+    "pass": 1
+   },
+   {
+    "quote": "“We have been using Mercury since we launched our startup. Very happy with the product so far! Excited to be a part of your journey.”",
+    "url": "https://wefunder.com/case-studies/mercury",
+    "pass": 1
+   },
+   {
+    "quote": "...and got a fresh set of eyes for product feedback.",
+    "url": "https://wefunder.com/case-studies/mercury",
+    "pass": 1
+   },
+   {
+    "quote": "Because I also work on the product side, I'm always trying to figure out what we should build next; what are the pain points people have? After the raise, I decided to go straight to the top of this list of investor-customers for feedback. These are some of the busiest people—the co-founders — and the response rates were phenomenal.",
+    "url": "https://wefunder.com/case-studies/mercury",
+    "pass": 1
+   },
+   {
+    "quote": "praises from their community",
+    "url": "https://wefunder.com/case-studies/mercury",
+    "pass": 1
+   },
+   {
+    "quote": "In April 2022...",
+    "url": "https://wefunder.com/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "It was April 2022. A few months after raising an $80M Series B from Coatue, a16z, Paul Graham, and many more, Replit invited its community to invest in a $5 million Community Round.",
+    "url": "https://wefunder.com/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Replit takes that entire process and collapses it into your browser, similar to Figma and Canva for design, Runway for video, and Google Docs for editing.",
+    "url": "https://wefunder.com/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Basically, every desktop app is becoming a linkable browser app. Programming is one of the hardest, because you need to share an entire computer via a link. It is exceedingly difficult, but that's what makes Replit successful: we try to turn the impossible into a good user experience.",
+    "url": "https://wefunder.com/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "I am an engineer, and I like hard problems. A lot of companies pivot until they find the easiest market they can serve, but for us, it's bulldoze, not pivot: find the hardest thing and really go through it and solve it.",
+    "url": "https://wefunder.com/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Today we're bombarded by an endless amount of entertainment. You can learn anything on YouTube. You can lose so many hours on TikTok. Netflix is the Library of Babel for movies and shows, and video games are becoming so, so interesting. So, these days, when someone dedicates time to using your product, I think that's a huge achievement, especially if your product requires upfront time investment.",
+    "url": "https://wefunder.com/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "We also noticed that people would share their apps and their programs onto our support forums to get feedback, so we created the Community space. There, Replit users can share their code in real-time, publish their apps, and even get their initial users.",
+    "url": "https://wefunder.com/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "The second part is that I believe it will create a much stronger community. People who are incentive-aligned with us today will help us grow. We're already seeing this with our Wefunder investors: they continue to send us referrals, potential deals, and candidates all the time.",
+    "url": "https://wefunder.com/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "“I deeply believe in the mission of making programming accessible, that there's a lot to do and that this is a great team to execute towards it”",
+    "url": "https://wefunder.com/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "“Love the product. Love the team. Love the mission. Grateful for the opportunity. Let's go!”",
+    "url": "https://wefunder.com/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "“I'm excited to be a part of the future of development! I'm a hobbyist programmer and setting up the environment is a huge obstacle and I love how much repl.it frees me to try new things.”",
+    "url": "https://wefunder.com/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "“As a programming lover, it is an honor to support you to give people an incredible tool to program!”",
+    "url": "https://wefunder.com/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "“Repl is amazing, I started using it a few years ago while teaching high school students to code and saw how great it was for collaboration and for helping new students get into programming. It's only got better since, and you're building something wonderful!”",
+    "url": "https://wefunder.com/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "2. Treat your social media like you're talking to potential investors.",
+    "url": "https://wefunder.com/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "In April 2023...",
+    "url": "https://wefunder.com/case-studies/substack",
+    "pass": 1
+   },
+   {
+    "quote": "To us, the economics of writing, media, and the internet are not laws of physics—it's not written in the stars that we'll always have giant advertising engines selling off our attention as a commodity. Great writing and great culture are valuable. They're worth paying for.",
+    "url": "https://wefunder.com/case-studies/substack",
+    "pass": 1
+   },
+   {
+    "quote": "Yet, there were rare writers who made it work, like Ben Thompson of Stratechery and Andrew Sullivan of The Dish. I often thought of them as double unicorns, where they both had something valuable to say, and they'd figured out how to wrangle this tech stack and business model into a product with great success.",
+    "url": "https://wefunder.com/case-studies/substack",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you raise funding from VCs or your community, you get valuable feedback in both cases. From professional VCs, you get feedback that comes from pattern matching and asking, \"does the economic case for this make sense?\"",
+    "url": "https://wefunder.com/case-studies/substack",
+    "pass": 1
+   },
+   {
+    "quote": "The cool thing about the community round is that you get the same kind of feedback, but from people who actually use the product. Almost everyone who invested in our community round was a Substack writer or a Substack reader, split about half and half. Getting feedback from people who actually spend a portion of their lives in our product is extremely meaningful and valuable.",
+    "url": "https://wefunder.com/case-studies/substack",
+    "pass": 1
+   },
+   {
+    "quote": "“I believe Substack's success is critical for our culture to recover from our current polarized and propaganda driven times.”",
+    "url": "https://wefunder.com/case-studies/substack",
+    "pass": 1
+   },
+   {
+    "quote": "“I want substack to flourish so that ideas can be shared meaningfully and so that content creators have a place to own their content. I want depth over quantity.”",
+    "url": "https://wefunder.com/case-studies/substack",
+    "pass": 1
+   },
+   {
+    "quote": "“I simply love what Substack does and what they are about. Proud to be a part of it.”",
+    "url": "https://wefunder.com/case-studies/substack",
+    "pass": 1
+   },
+   {
+    "quote": "“Love your ethos and product. I am going to start using the platform more actively as I am now an owner!”",
+    "url": "https://wefunder.com/case-studies/substack",
+    "pass": 1
+   },
+   {
+    "quote": "Raise duration (April 2023)",
+    "url": "https://wefunder.com/case-studies/substack",
+    "pass": 1
+   },
+   {
+    "quote": "For one, the Levels team gets work done across multiple countries and continents with nearly zero meetings, thanks to a company culture that relentlessly protects the team's deep work. When meetings do occur, they are recorded and published retroactively on the Levels website, along with monthly investor updates, strategy docs, and memos.",
+    "url": "https://wefunder.com/case-studies/levels",
+    "pass": 1
+   },
+   {
+    "quote": "Poor metabolic health is having a drastic effect on people globally. In the US alone, 88 million American adults are prediabetic, and 84% of those people aren't aware of it. By 2030, the medical costs & losses in productivity associated with diabetes are expected to exceed $600B.",
+    "url": "https://wefunder.com/case-studies/levels",
+    "pass": 1
+   },
+   {
+    "quote": "The Levels app addresses that problem by giving members personalized data that allows them to experiment with and discover the optimal foods and behaviors that work best for them. Because many people haven't been able to learn this information about their bodies anywhere else, a special relationship forms between Levels and our members.",
+    "url": "https://wefunder.com/case-studies/levels",
+    "pass": 1
+   },
+   {
+    "quote": "Our team stays in active dialogue with our members all the time, both in public and in private. We have robust open channels where members can communicate their experiences in the app and ask questions, and we even give them a chance to join our Friday Forum—an internal team meeting where each of us shares our work, achievements, and challenges for the week.",
+    "url": "https://wefunder.com/case-studies/levels",
+    "pass": 1
+   },
+   {
+    "quote": "We've always had people telling us they were interested in investing in Levels, but up until very recently, it was extremely difficult for everyday people to invest in private companies at all. A lot of that is for good reason—there are plenty of companies that will unfortunately take anybody's money and run, so there are important protections that the SEC has put in place.",
+    "url": "https://wefunder.com/case-studies/levels",
+    "pass": 1
+   },
+   {
+    "quote": "We started off with a cap of $2.5 million. The general consensus across our team was, \"That $2.5 million will probably fill up, but it will take a while.\"",
+    "url": "https://wefunder.com/case-studies/levels",
+    "pass": 1
+   },
+   {
+    "quote": "We opened our community round up in \"Testing the Waters,\" a process through which the SEC allows companies to test investment interest and accept non-binding investment reservations before the fundraising round formally begins.",
+    "url": "https://wefunder.com/case-studies/levels",
+    "pass": 1
+   },
+   {
+    "quote": "“Super impressed by the team's execution and how thoughtful Sam is as a CEO”",
+    "url": "https://wefunder.com/case-studies/levels",
+    "pass": 1
+   },
+   {
+    "quote": "“I have used Levels and highly recommend it to all my friends. My family is prone to diabetes and having this tool has helped me become more aware of the foods that I consume. I have no doubt that this technology will help others in the future.”",
+    "url": "https://wefunder.com/case-studies/levels",
+    "pass": 1
+   },
+   {
+    "quote": "“Love the product, customer service and leadership. The space is going to be so important. Really enjoyed my beta test.”",
+    "url": "https://wefunder.com/case-studies/levels",
+    "pass": 1
+   },
+   {
+    "quote": "“Making this humble investment not only because I believe valuation will exceed 300M, but because I want Levels to exceed that number. Mainly, because that means you'll have taken a large step in succeeding in your mission of improving metabolic health.”",
+    "url": "https://wefunder.com/case-studies/levels",
+    "pass": 1
+   },
+   {
+    "quote": "“I use the product and I love it.”",
+    "url": "https://wefunder.com/case-studies/levels",
+    "pass": 1
+   },
+   {
+    "quote": "“Early levels user and believer in the value of using CGM to improve behaviors”",
+    "url": "https://wefunder.com/case-studies/levels",
+    "pass": 1
+   },
+   {
+    "quote": "In April 2022…",
+    "url": "https://wefunder.com/case-studies/synthesis",
+    "pass": 1
+   },
+   {
+    "quote": "In April 2022, on top of a $12M financing round led by investor Balaji Srinivasan and Amjad Masad, CEO of Replit…",
+    "url": "https://wefunder.com/case-studies/synthesis",
+    "pass": 1
+   },
+   {
+    "quote": "Synthesis is a novel online learning experience where students ages 8 to 14 compete in complex, team-based games and simulations. Kids from across the globe collaborate to practice what Synthesis founders Joshua Dahn and Chrisman Frank consider the world's most valuable skill: solving problems with a team.",
+    "url": "https://wefunder.com/case-studies/synthesis",
+    "pass": 1
+   },
+   {
+    "quote": "Synthesis originated from Ad Astra, the experimental school that Elon Musk hired Josh Dahn to create for the children of SpaceX engineers. In 2020, Josh partnered with our CEO Chrisman Frank to turn the best ideas from Ad Astra into a program for kids around the world.",
+    "url": "https://wefunder.com/case-studies/synthesis",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "The syndicate & fund platform built for operators with deal flow.",
+    "url": "https://wefunder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The fund platform built for operators with deal flow.",
+    "url": "https://wefunder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Supply Chain for electronics manufacturing.",
+    "url": "https://wefunder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "If we want to renew the American dream, we need a country that says to ambitious people: yes, go for it. Start the company. Open the shop. Build the factory. Invent the technology. Rally your community. Take the shot.",
+    "url": "https://wefunder.com/pbc",
+    "pass": 1
+   },
+   {
+    "quote": "MIT PhD Carl Dietrich spent over a decade of his life building a practical flying car. Big aerospace companies and VC firms wouldn't take the risk to back his vision. So we did.",
+    "url": "https://wefunder.com/pbc",
+    "pass": 1
+   },
+   {
+    "quote": "Fueling a Generation of Plant-Driven Athletes",
+    "url": "https://wefunder.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How REJOY raised $565K+ from 300+ investors for their CBD-infused plant-based sports drink.",
+    "url": "https://wefunder.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": ", signaling strong IP protection in industrial robotics.",
+    "url": "https://growthturbine.com/blogs/25-biggest-wefunder-success-stories-updated-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Factory-built, AI-integrated modular homes drastically reducing construction time and cost.",
+    "url": "https://growthturbine.com/blogs/25-biggest-wefunder-success-stories-updated-2025",
+    "pass": 3
+   },
+   {
+    "quote": "in grants from the Navajo Nation to expand manufacturing capacity.",
+    "url": "https://growthturbine.com/blogs/25-biggest-wefunder-success-stories-updated-2025",
+    "pass": 3
+   },
+   {
+    "quote": "48 reactions. 5 reposts. When leadership shares results like this unprompted, it speaks louder than any case study.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "\"From our investors, we hired 5 new full-time employees, which is about 8% of our workforce. We also hired 92 teachers, which is about 25% of that team.\"",
+    "url": "https://wefunder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We've always had people asking us if they could invest, and we had thousands of customers by the time we raised. Opening our Series B to the community made sense. It was cool to actually have our customers be part of the news rather than just watch it happen from the sidelines.",
+    "url": "https://wefunder.com/case-studies/mercury",
+    "pass": 1
+   },
+   {
+    "quote": "“Former Mercury customer. Hopefully a customer again soon. Excited to be a small part of your future!”",
+    "url": "https://wefunder.com/case-studies/mercury",
+    "pass": 1
+   },
+   {
+    "quote": "“We have been using Mercury since we launched our startup. Very happy with the product so far! Excited to be a part of your journey.”",
+    "url": "https://wefunder.com/case-studies/mercury",
+    "pass": 1
+   },
+   {
+    "quote": "“I'm excited to be a part of the future of development! I'm a hobbyist programmer and setting up the environment is a huge obstacle and I love how much repl.it frees me to try new things.”",
+    "url": "https://wefunder.com/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "“I discovered Replit at Lambda School and it's been essential for me in my path to being an engineer. Excited to officially be a part of the journey via cap table. Cheers!”",
+    "url": "https://wefunder.com/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Give people updates on what you're working on. As you're talking to customers, get an idea of whether they're really excited about what you're doing and whether they want to be part of the community.",
+    "url": "https://wefunder.com/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "How Substack raised $7,809,219 and welcomed 6,688 writers and readers to become part of the company",
+    "url": "https://wefunder.com/case-studies/substack",
+    "pass": 1
+   },
+   {
+    "quote": "It was a long-awaited move by Substack to invite the writers and readers on the platform to become part of the company in a more formal way—as investors...",
+    "url": "https://wefunder.com/case-studies/substack",
+    "pass": 1
+   },
+   {
+    "quote": "In my opinion, there's no singular \"Substack community\"—there are thousands of communities across a massive array of people, opinions, vibes, subject areas, geographies, languages, and cultures. Writers create their own communities, and readers choose which communities to be a part of.",
+    "url": "https://wefunder.com/case-studies/substack",
+    "pass": 1
+   },
+   {
+    "quote": "In particular, the limitation of only being able to allow accredited investors felt too exclusive for us. We would have had to say to this community of writers, \"You can be a part of Substack, but only if you're already really rich. The rest of you don't need to worry about it.\" That was definitely the wrong message and the wrong idea.",
+    "url": "https://wefunder.com/case-studies/substack",
+    "pass": 1
+   },
+   {
+    "quote": "“I simply love what Substack does and what they are about. Proud to be a part of it.”",
+    "url": "https://wefunder.com/case-studies/substack",
+    "pass": 1
+   },
+   {
+    "quote": "“I'm a Substack writer and already generating revenue for the first time ever from my online publishing. Substack is unleashing a wave of creators that will flourish in the future.”",
+    "url": "https://wefunder.com/case-studies/substack",
+    "pass": 1
+   },
+   {
+    "quote": "“I invested in Substack because it's for us - the writers. I couldn't be happier being a part of this wonderful place that let's us do what we do…”",
+    "url": "https://wefunder.com/case-studies/substack",
+    "pass": 1
+   },
+   {
+    "quote": "It's a fantastic way to bring us all together, and a unique one too, given our asynchronous and remote culture. As a part of that Friday Forum, we almost always have a special guest—and lately it's been a real treat to make members, and now member-investors, our special guests of the week.",
+    "url": "https://wefunder.com/case-studies/levels",
+    "pass": 1
+   },
+   {
+    "quote": "“I believe in the work that Level is doing! I am a Level's client/fan and Im in love with the mission of the company. I'm sure Levels will make a great impact in the health industry! Happy to be part of this movement and startup company! Exito from Puerto Rico!”",
+    "url": "https://wefunder.com/case-studies/levels",
+    "pass": 1
+   },
+   {
+    "quote": "“My seven-year-old daughter just started with her cohort this month of April, and she has completed her third foundation session. I am confident that she will excel beyond my expectations, being part of this innovative educational program.”",
+    "url": "https://wefunder.com/case-studies/synthesis",
+    "pass": 1
+   },
+   {
+    "quote": "Phani Chandrika Varre",
+    "url": "https://wefunder.com/case-studies/synthesis",
+    "pass": 1
+   },
+   {
+    "quote": "“I have been working with Synthesis from January of 2022 as a facilitator and the Talent Acquisition specialist for new Facilitators. I believe in the mission. I want to see Synthesis scale, and I hope to be a permanent fixture in this great team.”",
+    "url": "https://wefunder.com/case-studies/synthesis",
+    "pass": 1
+   },
+   {
+    "quote": "“I recently joined Synthesis as a facilitator and absolutely love everything the company is doing and am excited to be a part of it. I believe in the mission and want to be a part of it long term”",
+    "url": "https://wefunder.com/case-studies/synthesis",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring and Acquisition",
+    "url": "https://wefunder.com/case-studies/synthesis",
+    "pass": 1
+   },
+   {
+    "quote": "We hired 5 new full-time employees (about 8% of our workforce), and we hired 92 teachers (about 25% of that team). Due to the surge in applications and referrals, we've gotten fantastic team members out of the Community Round.",
+    "url": "https://wefunder.com/case-studies/synthesis",
+    "pass": 1
+   },
+   {
+    "quote": "How Arrived oversubscribed their round by 20x, and welcomed 3,018 new owners from their community",
+    "url": "https://wefunder.com/case-studies/arrived",
+    "pass": 1
+   },
+   {
+    "quote": "Arrived raised $2,329,410 from 3,018 investors",
+    "url": "https://wefunder.com/case-studies/arrived",
+    "pass": 1
+   },
+   {
+    "quote": "For years, Arrived received requests from their clients to invest in their company…",
+    "url": "https://wefunder.com/case-studies/arrived",
+    "pass": 1
+   },
+   {
+    "quote": "We'll have Arrived Co-Founder & COO",
+    "url": "https://wefunder.com/case-studies/arrived",
+    "pass": 1
+   },
+   {
+    "quote": "What is Arrived & why did you start it?",
+    "url": "https://wefunder.com/case-studies/arrived",
+    "pass": 1
+   },
+   {
+    "quote": "Ryan, Kenny, and myself started Arrived back in 2019.",
+    "url": "https://wefunder.com/case-studies/arrived",
+    "pass": 1
+   },
+   {
+    "quote": "COO, Arrived",
+    "url": "https://wefunder.com/case-studies/arrived",
+    "pass": 1
+   },
+   {
+    "quote": "So, although we had years of runway and ample funding, in 2023 we announced that we're going to do an extension to our Series A and open a small allocation to clients to invest in Arrived itself.",
+    "url": "https://wefunder.com/case-studies/arrived",
+    "pass": 1
+   },
+   {
+    "quote": "Again, we had heard a lot of folks say that they wanted to invest in Arrived over the years. But when you see people start to actually put a number next to that, we were blown away!",
+    "url": "https://wefunder.com/case-studies/arrived",
+    "pass": 1
+   },
+   {
+    "quote": "How did you build such a passionate community for Arrived?",
+    "url": "https://wefunder.com/case-studies/arrived",
+    "pass": 1
+   },
+   {
+    "quote": "“This is the ideal platform for me. It has all the features I was looking for with regard to buying real estate, while avoiding the time involved in being a property manager. I love what Arrived is doing and want to be part of the success.”",
+    "url": "https://wefunder.com/case-studies/arrived",
+    "pass": 1
+   },
+   {
+    "quote": "“Invested in my first Arrived property in January 2022 because I really believed in the idea of making rental properties accessible to all. Since then, I've only grown to appreciate Arrived's smart and careful growth in undervalued and in some cases unappreciated markets.”",
+    "url": "https://wefunder.com/case-studies/arrived",
+    "pass": 1
+   },
+   {
+    "quote": "“I support companies like Arrived because they make investing in real estate an attainable reality for the average investor.”",
+    "url": "https://wefunder.com/case-studies/arrived",
+    "pass": 1
+   },
+   {
+    "quote": "About 65% of our Community Round investors were also active Arrived users. Following the Community Round, these investors have invested, on average,",
+    "url": "https://wefunder.com/case-studies/arrived",
+    "pass": 1
+   },
+   {
+    "quote": "on the Arrived platform compared to those who did not participate.",
+    "url": "https://wefunder.com/case-studies/arrived",
+    "pass": 1
+   },
+   {
+    "quote": "What has been the feedback from Arrived's team and other investors?",
+    "url": "https://wefunder.com/case-studies/arrived",
+    "pass": 1
+   },
+   {
+    "quote": "Snapshot of Arrived's Community Round (source:",
+    "url": "https://wefunder.com/case-studies/arrived",
+    "pass": 1
+   },
+   {
+    "quote": "Were active Arrived users",
+    "url": "https://wefunder.com/case-studies/arrived",
+    "pass": 1
+   },
+   {
+    "quote": "\"In year 1, we put up merchandise sales of almost $750,000. Our community owners want all of our merch so that they can go out and say, This is something I'm a part of.\"",
+    "url": "https://wefunder.com/community-round",
+    "pass": 1
+   },
+   {
+    "quote": "\"From our investors, we hired 5 new full-time employees, which is about 8% of our workforce. We also hired 92 teachers, which is about 25% of that team.\"",
+    "url": "https://wefunder.com/community-round",
+    "pass": 1
+   },
+   {
+    "quote": "Any private companies from pre-seed until IPO.",
+    "url": "https://wefunder.com/community-round",
+    "pass": 1
+   },
+   {
+    "quote": "Everything, including SAFEs, Convertible Notes, Priced Rounds, Revenue Shares, and custom contracts.",
+    "url": "https://wefunder.com/community-round",
+    "pass": 1
+   },
+   {
+    "quote": "Wefunder (YC W13) helped change the law to allow unaccredited investors to invest in pre-IPO startups.",
+    "url": "https://wefunder.com/community-round",
+    "pass": 1
+   },
+   {
+    "quote": "I still care about that. But over time, I've come to see it as part of something even bigger: the spirit of America itself.",
+    "url": "https://wefunder.com/pbc",
+    "pass": 1
+   },
+   {
+    "quote": "\"...that's more or less why I did it, to be a part of something bigger and something really cool.\"",
+    "url": "https://wefunder.com/pbc",
+    "pass": 1
+   },
+   {
+    "quote": "Tanka's employees share ownership, creating livelihoods on Pine Ridge.",
+    "url": "https://wefunder.com/pbc",
+    "pass": 1
+   },
+   {
+    "quote": "Funded in 2013. Acquired in 2017.",
+    "url": "https://wefunder.com/pbc",
+    "pass": 1
+   },
+   {
+    "quote": "0% fee, 0% carry",
+    "url": "https://wefunder.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "5% fee + 10% carry",
+    "url": "https://wefunder.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "If you opt in, Wefunder can share your round with its network of accredited investors to help you raise more. For Private Rounds, those investors pay 5% management fees (0.5% for 10 years) and 10% carried interest. Your own invites pay nothing if they invest directly on your cap table, and the same fees if they invest through the SPV.",
+    "url": "https://wefunder.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How Substack raised $7,809,219 and welcomed 6,688 writers and readers to become part of the company.",
+    "url": "https://wefunder.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Arrived oversubscribed their round by 20x, and welcomed 3,018 new owners from their community.",
+    "url": "https://wefunder.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Cornbread Hemp raised $725,000 from customers and multiplied revenue by 3x–10x every year since 2019.",
+    "url": "https://wefunder.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "We're currently a small team of ~30 looking to soon reach $1m/revenue per person.",
+    "url": "https://wefunder.com/jobs",
+    "pass": 1
+   },
+   {
+    "quote": "Here we all are in Gun Barrel City, Texas!",
+    "url": "https://wefunder.com/jobs",
+    "pass": 1
+   },
+   {
+    "quote": "The best part of the job is the founders we get to meet that inspire us. We often invite founders to our office home for dinner. It's a chance to make new friends and learn from those in the trenches building their own startup.",
+    "url": "https://wefunder.com/jobs",
+    "pass": 1
+   },
+   {
+    "quote": "In urban Californian cities, this wage disparity disproportionately affects minority communities and newly-arrived immigrants. It's seen as normal, but it shouldn't be. Each team member is instrumental to creating a great restaurant experience.",
+    "url": "https://wefunder.com/case-studies/cassava",
+    "pass": 1
+   },
+   {
+    "quote": "I want to make regulars feel like part of the restaurant. Maybe I remember their favorite wine and suggest it in a great pairing. Or I have a new champagne and I want to give them the first taste for feedback.",
+    "url": "https://wefunder.com/case-studies/cassava",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "The small idea was letting writers do a paid email newsletter. Before we founded Substack in 2017, tools existed for people to send emails, charge subscriptions, host a website, and create a community. But it was really hard to pull all those things together in a cohesive package for readers.",
+    "url": "https://wefunder.com/case-studies/substack",
+    "pass": 1
+   },
+   {
+    "quote": "How Levels maxed out its Community Round with just one email to its members",
+    "url": "https://wefunder.com/case-studies/levels",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in late 2019, Levels has had more than 20,000 paying customers through their beta, and over 77 minutes of sending their launch email.",
+    "url": "https://wefunder.com/case-studies/levels",
+    "pass": 1
+   },
+   {
+    "quote": "On the day of our launch, we opened the round by sending one email to just over 14,000 current and former Levels users—not to our broader waitlist, not Twitter, not anywhere else—and the round was full within 77 minutes.",
+    "url": "https://wefunder.com/case-studies/levels",
+    "pass": 1
+   },
+   {
+    "quote": "1 email",
+    "url": "https://wefunder.com/case-studies/levels",
+    "pass": 1
+   },
+   {
+    "quote": "Marketed the round with 1 email to members",
+    "url": "https://wefunder.com/case-studies/levels",
+    "pass": 1
+   },
+   {
+    "quote": "How Synthesis filled up its $3M Community Round with a single email",
+    "url": "https://wefunder.com/case-studies/synthesis",
+    "pass": 1
+   },
+   {
+    "quote": "With a single email, they filled up their Community Round within 3 days…",
+    "url": "https://wefunder.com/case-studies/synthesis",
+    "pass": 1
+   },
+   {
+    "quote": "At the end of a long day, we launched by sending an email to our customers and teachers. Then we were like, \"Okay, it's done. Let's close up our laptops and get dinner.\" We got to the dinner table, just talking and hanging out, and then I looked at my phone. In the time it had taken to drive to the restaurant, we had blown past $1 million of interest.",
+    "url": "https://wefunder.com/case-studies/synthesis",
+    "pass": 1
+   },
+   {
+    "quote": "In the end, the response from parents and teachers was overwhelming. We were flooded with emails, flooded with interest. We wish we could have done the whole $15 million round all on crowdfunding because of how easy it was, and how exciting it was for everybody.",
+    "url": "https://wefunder.com/case-studies/synthesis",
+    "pass": 1
+   },
+   {
+    "quote": "When we announced it, we emailed our community of users, which was in the hundreds of thousands of folks, and very quickly we saw a lot of attention. We had over $10M in reservations and decided early on that we would have to increase our original allocation to maximize the number of investors who could participate.",
+    "url": "https://wefunder.com/case-studies/arrived",
+    "pass": 1
+   },
+   {
+    "quote": "We started getting emails from those folks that had previously requested to invest saying \"I've been asking you about a community round for a while. Thank you for listening to me.\" It was very nice to see that go from words to action. So yeah, we were thrilled.",
+    "url": "https://wefunder.com/case-studies/arrived",
+    "pass": 1
+   },
+   {
+    "quote": "How Synthesis filled up its $3M Community Round with a single email.",
+    "url": "https://wefunder.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Levels raised $5M from its members with a single email.",
+    "url": "https://wefunder.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "To apply, email",
+    "url": "https://wefunder.com/jobs/lead-designer",
+    "pass": 1
+   },
+   {
+    "quote": "How Wefunder cut response times from 7 hours to 15 minutes while handling 2x the email volume, without adding headcount.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Wefunder, the equity crowdfunding platform, connected Fini to its Front help desk to handle investor and founder support, including password resets, 2FA fixes and withdrawal questions. In the first two weeks live, Fini answered roughly 2,000 emails, took over 80% of outbound messages, and cut average response time from more than 7 hours to minutes.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "1k+ support emails per week, 7 hour average response time, no capacity for higher-impact work",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Wefunder’s Success team was receiving 1,000+ emails per week. Questions ranged from routine how-tos to complex account actions: password resets, email unsubscribes, 2FA fixes, withdrawal inquiries. The kind of work that demands accuracy but consumes disproportionate time. The kind of work that’s necessary but repetitive.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Response times averaged around 7 hours. The team was maxing out at roughly 600 emails per week. There was zero capacity left for higher-value work: improving processes, building better experiences, or tackling the complex cases that actually needed a human.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Before Fini, Wefunder only had email support. If an investor had a question mid-investment or a founder needed help with their campaign, they’d send an email and wait, often ~7 hours for a reply.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "First, Fini plugged an AI agent into Front, Wefunder’s help desk. It reads incoming emails, pulls answers from Wefunder’s knowledge base, and either handles it or passes it to the team. Most routine stuff never needs a human.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Before Fini, the team maxed out at ~600 emails per week with 7+ hour response times. Here’s what happened when they flipped the switch:",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "In total, Fini answered roughly 2,000 emails in the first two weeks.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "These are the projects that improve the platform for everyone, and they weren’t getting done when the team was buried in routine email.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "best AI email responders for fintech support",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Wefunder's Success team was receiving 1,000+ emails per week. Response times averaged around 7 hours. The team was maxing out at roughly 600 emails per week. There was zero capacity left for higher-value work: improving processes, building better experiences, or tackling the complex cases that actually needed a human.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "A structured rollout runs across three stages: Day 1 deploys the Knowledge Agent with no code; Day 14 connects billing, CRM, and internal tools with real actions and a full audit trail; Day 30 reaches full autonomy with voice, chat, and email unified at Resolution Rate 90%.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy an autonomous agent that scales with volume rather than with hiring. Wefunder went from a ceiling of roughly 600 emails per week to handling 1,400 to 1,500 messages in a single week, at the same team size, after going live with Fini.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "How do you add live chat to a platform that only had email support before?",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "You deploy an AI widget alongside your existing helpdesk integration, giving users a real-time channel without rebuilding your support stack. Wefunder launched live chat for founders through the Fini widget and, for the first time, users could get answers in seconds rather than waiting hours for an email reply.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Our cuisine is known for being creative, fresh, and colorful, while highlighting local and seasonal ingredients. Kris brings his unique perspective as a Filipino American chef with culinary experience in Mexican, Middle Eastern, Indian, French, Italian, and Japanese cuisines.",
+    "url": "https://wefunder.com/case-studies/cassava",
+    "pass": 1
+   },
+   {
+    "quote": "I bring my perspective as someone who grew up in Japan—one of our most popular meals (sometimes drawing 80% of our customers) is our Japanese Breakfast.",
+    "url": "https://wefunder.com/case-studies/cassava",
+    "pass": 1
+   },
+   {
+    "quote": "“My wife and I love food, and Cassava is a unique gem in the San Francisco food scene. We especially love getting early morning breakfast and Cassava's Japanese Breakfast is a cherished spot for us.”",
+    "url": "https://wefunder.com/case-studies/cassava",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "A rebrand from Earnest Capital to Calm Company Fund",
+    "url": "https://wefunder.com/case-studies/calm-fund",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Case Studies — Wefunder — Real stories from real founders who raised on Wefunder.",
+    "url": "https://wefunder.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Wefunder — Raise Capital from Your Community — Raise capital from your community with Wefunder. Community rounds, private rounds, SPVs, syndicates, and funds — all on one platform.",
+    "url": "https://wefunder.com/",
+    "pass": 3
+   },
+   {
+    "quote": "少額投資可能な投資プラットフォームWefunder | earthkeylab — Mar 3, 2025 · サービス名 Wefunder サービス概要 Wefunderはスタートアップや中小企業への投資プラットフォームです。 投資家は企業に資金を提供する代わりに株式を取得できます。従来のクラウドファンディングと異なり、企業の成長と共に利益を得られる仕組みです。 プラットフォームでは多様な業界・段階 ...",
+    "url": "https://earthkey.blog/global/少額投資可能な投資プラットフォームwefunder/",
+    "pass": 3
+   },
+   {
+    "quote": "WeFunder クラウドファンディングプラットフォーム、欧州市場へ進出 –... — Feb 17, 2023 · WeFunderは、スタートアップへの投資を可能にする主要なクラウドファンディングプラットフォームで、欧州市場への拡大を発表しました。 「WeFunderが欧州で利用可能になったことを発表できて興奮しています」と、WeFunderの創設者兼CEOであるNick Tommarelloは木曜日に述べました。 この動きにより ...",
+    "url": "https://www.securities.io/ja/wefunder-crowdfunding-platform-penetrates-european-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Wefunder Updates, Team, and Funding Progress | Wefunder, Home ... — To help correct these issues from recurring, Wefunder changed its policies and process related to roles and responsibilities, marketing, disclosure, training, and payment and closing systems.",
+    "url": "https://wefunder.com/wefunder",
+    "pass": 3
+   },
+   {
+    "quote": "Invest in Startups — Wefunder — Invest in startups you believe in on Wefunder. Browse companies raising capital from their community.",
+    "url": "https://wefunder.com/invest",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Airlines's Startup Investments and Updates | Wefunder — See Japan Airlines's recent startup investments, sectors of interest, and updates. Follow their activity and discover companies on Wefunder.",
+    "url": "https://wefunder.com/japan.airlines",
+    "pass": 3
+   },
+   {
+    "quote": "WeFunder - Invest in Startups — PopCultivator Comics: Own Shares in a New Comic Book Studio Developing books, NFTs, Film/TV and More | Wefunder View Software Invest in Qube Money: Cash envelope banking—giving the control of spending back to the people. | Wefunder View Software Invest in URB Sciences : URB is a \"picks and shovels\" supplier to the cannabis industry | Wefunder ...",
+    "url": "https://wefunder.me/",
+    "pass": 3
+   },
+   {
+    "quote": "Wefunder」をApp StoreでWefunder | LinkedIn少額投資可能な投資プラットフォームWefunder | earthkeylabWefunder 202107194080 with CAS - FINRA.org — 「Wefunder」のレビューをチェック、カスタマー評価を比較、スクリーンショットと詳細情報を確認することができます。「Wefunder」をダウンロードしてiPhone、iPad、iPod touchでお楽しみください。 Wefunder | LinkedInのフォロワー数24,136人。Invest in startups you love. | Wefunder (W13) is a Public Benefit Corporation on a mission to fix capitalism. We help ambitious foun",
+    "url": "https://apps.apple.com/jp/app/wefunder/id1534355560",
+    "pass": 3
+   },
+   {
+    "quote": "Wefunder | LinkedIn — Wefunder | LinkedInのフォロワー数24,136人。Invest in startups you love. | Wefunder (W13) is a Public Benefit Corporation on a mission to fix capitalism. We help ambitious founders raise the capital they need to grow. And enable more people to invest in startups they love.",
+    "url": "https://jp.linkedin.com/company/wefunder/",
+    "pass": 3
+   },
+   {
+    "quote": "Wefunder: Investing in Our Own Mission — Wefunder Case Study — How Wefunder raised from its own community to fund the mission of democratizing startup investing.",
+    "url": "https://wefunder.com/case-studies/wefunder",
+    "pass": 3
+   },
+   {
+    "quote": "25+ Biggest Wefunder Success Stories (Up... | Growth TurbineWefunder: Response Time Cut to 15 Minutes - usefini.com15+ Wefunder Success Stories - Boring Business NerdB2B Case Studies: How Wefunder Uses Software & ServicesTucktec Wefunder Case Study | Capital Raising Success — The definitive guide to 25+ of the most successful Wefunder campaigns — from RISE Robotics to Boxabl. See funding details, ",
+    "url": "https://growthturbine.com/blogs/25-biggest-wefunder-success-stories-updated-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Wefunder: Response Time Cut to 15 Minutes - usefini.com — Oct 29, 2026 · Wefunder cut response time from 7 hours to 15 minutes with Fini, handling 2x email volume at the same team size.",
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "15+ Wefunder Success Stories - Boring Business Nerd — Learn more about the success stories of companies like Mercury, Replit, and Substack that raised on Wefunder, a leading equity crowdfunding platform.",
+    "url": "https://www.boringbusinessnerd.com/post/wefunder-success-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Wefunder – Financials, Industry Trends & Funding Info – 2026 — Financial stats for Wefunder include estimated revenue of $20M, team of around 100+ employees, operating from San Francisco, suggesting steady progress.",
+    "url": "https://compworth.com/company/wefunder",
+    "pass": 3
+   },
+   {
+    "quote": "Wefunder - 2026 Company Profile, Team, Funding & Competitors ...Wefunder Revenue 2024: $5.2M, $9.1M Raised - LATKAWefunder - Overview, News & Similar companies | ZoomInfo.comWefunder Information - RocketReachWefunder company profile: firmographics, business model ...Wefunder: Funding, Team & Investors | Startup Intros — Mar 9, 2026 · Wefunder is a series C company based in San Francisco (United St",
+    "url": "https://tracxn.com/d/companies/wefunder/__hhUZE9dNUIlJ0T3V2j-gH4vpT-uTrxNT_0wAoq0GA88",
+    "pass": 3
+   },
+   {
+    "quote": "Wefunder Revenue 2024: $5.2M, $9.1M Raised - LATKA — Dec 23, 2024 · Wefunder 2024 revenue: $5.2M (up from $1.4M in 2021). Total funding: $9.1M across 4 rounds. 1.9M customers, 129 employees. Updated Dec 23, 2024.",
+    "url": "https://getlatka.com/companies/wefunder",
+    "pass": 3
+   },
+   {
+    "quote": "Wefunder - Overview, News & Similar companies | ZoomInfo.com — View Wefunder (www.wefunder.com) location in California, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/wefunder-inc/348847052",
+    "pass": 3
+   },
+   {
+    "quote": "Wefunder Information - RocketReachWefunder company profile: firmographics, business model ...Wefunder: Funding, Team & Investors | Startup Intros — Wefunder is a Finance, Technology, Information and Internet, and Investment Banking company located in Gun Barrel City, Texas with $18.4 million in revenue and 139 employees. Find top employees, contact details and business statistics at RocketReach. W",
+    "url": "https://rocketreach.co/wefunder-profile_b5f75fe4f42e88a7",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Wefunder (@Wefunder) / X In nearly every community round on @Wefunder, a founder’s most memorable takeaway is the community’s outpouring of support—captured in comments left by each investor.",
+    "url": "https://x.com/wefunder",
+    "pass": 3
+   },
+   {
+    "quote": "Wefunder on X: \"Apply to Wefunder's Best of America to ... Apply to Wefunder's Best of America to receive up to $5M. We have facilitated over $1B into 4000+ companies. Now we’re hitting the road to fund the best founders ...",
+    "url": "https://x.com/Wefunder/status/2102443285470163274",
+    "pass": 3
+   },
+   {
+    "quote": "\"#wefunder\" - Results on X | Live Posts & Updates Results for \"#wefunder\" on X (Twitter). Find the latest posts, discussions, and updates about #wefunder. 20 results found.",
+    "url": "https://x.com/hashtag/wefunder",
+    "pass": 3
+   },
+   {
+    "quote": "Wefunder on X: \"Just crossed 1000 startup applications. We're ... Just crossed 1000 startup applications. We're going to fund a lot of companies this quarter 👀 Apply for our demo days by Oct 5: https://t.co/aq66zRjV8K",
+    "url": "https://x.com/Wefunder/status/2106160411972370557",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Wefunder - LinkedIn Wefunder (W13) is a Public Benefit Corporation on a mission to fix capitalism. We help ambitious founders raise the capital they need to grow. And enable more people to invest in startups they love.",
+    "url": "https://www.linkedin.com/company/wefunder/",
+    "pass": 3
+   },
+   {
+    "quote": "Nicholas Tommarello - Founder & CEO at Wefunder | LinkedInRead Ezell - Syndicates and Funds @ Wefunder | LinkedInJonny Price - Wefunder | LinkedInAhmed Ahmed - Wefunder | LinkedInGreg Belote - Cofounder / CTO at Wefunder | LinkedInHaley Rosenberg - Head of Fundraising @ Wefunder | LinkedIn Nicholas Tommarello Founder & CEO at Wefunder Dallas-Fort Worth Metroplex 2K followers 500+ connections See y",
+    "url": "https://www.linkedin.com/in/nicktommarello",
+    "pass": 3
+   },
+   {
+    "quote": "Read Ezell - Syndicates and Funds @ Wefunder | LinkedInJonny Price - Wefunder | LinkedInAhmed Ahmed - Wefunder | LinkedInGreg Belote - Cofounder / CTO at Wefunder | LinkedInHaley Rosenberg - Head of Fundraising @ Wefunder | LinkedIn Syndicates and Funds @ Wefunder · I am focused on making the platform the premier destination for launching, growing, and operating investment syndicates and venture f",
+    "url": "https://www.linkedin.com/in/readezell",
+    "pass": 3
+   },
+   {
+    "quote": "Jonny Price - Wefunder | LinkedInAhmed Ahmed - Wefunder | LinkedInGreg Belote - Cofounder / CTO at Wefunder | LinkedInHaley Rosenberg - Head of Fundraising @ Wefunder | LinkedIn I lead the fundraising team at Wefunder. We help founders raise capital from their… · Experience: Wefunder · Education: University of Cambridge · Location: Nashville Metropolitan Area · 500 ... Experience: Wefunder · Educa",
+    "url": "https://www.linkedin.com/in/jonnyprice",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Wefunder - FacebookEquity Crowdfunding | Wefunder | StartEngine | Founders ...Wefunder Investing - FacebookWefunder - Reminder: 5k users investing in your startup is ...Wefunder - In the past 10 years, 1,200+ startups have ...It's official. Tarpestry is now open for investment. We ...Calling every single investor in the people’s airline - Part ... Jul 8, 2024 · Wefunder. 21,509 followers · 11 talk",
+    "url": "https://www.facebook.com/wefunder/",
+    "pass": 3
+   },
+   {
+    "quote": "Equity Crowdfunding | Wefunder | StartEngine | Founders ... Wefunder typically has a set 7.5% charged to the company. Startengine charges around 7% but also get 2% equity which seems like a much better business model. Still publishing on Medium (first) if you're following me, but here's a different, free platform to read on that I'm trying out! Check it out!",
+    "url": "https://www.facebook.com/groups/regcf/",
+    "pass": 3
+   },
+   {
+    "quote": "Wefunder Investing - Facebook Group for retail startup investors to talk about investing in startups, startups on Wefunder, equity crowdfunding, and more.",
+    "url": "https://www.facebook.com/groups/wefunder/",
+    "pass": 3
+   },
+   {
+    "quote": "Wefunder - In the past 10 years, 1,200+ startups have ... Sep 24, 2023 · In the past 10 years, 1,200+ startups have raised over $600M on Wefunder. They did it because a community round is much more than raising capital. Here is what founders who did a Wefunder think...",
+    "url": "https://www.facebook.com/wefunder/posts/in-the-past-10-years-1200-startups-have-raised-over-600m-on-wefunderthey-did-it-/635733385339573/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://wefunder.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wefunder.com/case-studies/mercury",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wefunder.com/case-studies/replit",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wefunder.com/case-studies/substack",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wefunder.com/case-studies/levels",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wefunder.com/case-studies/synthesis",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wefunder.com/case-studies/arrived",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wefunder.com/community-round",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wefunder.com/pbc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wefunder.com/pricing",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wefunder.com/case-studies",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wefunder.com/jobs",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wefunder.com/case-studies/cassava",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wefunder.com/case-studies/calm-fund",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wefunder.com/jobs/lead-designer",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://d15x9o2s21h0y8.cloudfront.net/case-studies/mercury_card_photo.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://d15x9o2s21h0y8.cloudfront.net/case-studies/levels_card_photo.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://bookface-images.s3.amazonaws.com/small_logos/b139123800489407f058e0b228890ae6c0af4d3a.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://earthkey.blog/global/%E5%B0%91%E9%A1%8D%E6%8A%95%E8%B3%87%E5%8F%AF%E8%83%BD%E3%81%AA%E6%8A%95%E8%B3%87%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0wefunder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.securities.io/ja/wefunder-crowdfunding-platform-penetrates-european-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wefunder.me/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.apple.com/jp/app/wefunder/id1534355560",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/wefunder/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://growthturbine.com/blogs/25-biggest-wefunder-success-stories-updated-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usefini.com/blog/wefunder-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/wefunder",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/wefunder/__hhUZE9dNUIlJ0T3V2j-gH4vpT-uTrxNT_0wAoq0GA88",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/wefunder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/wefunder-inc/348847052",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/wefunder",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Wefunder/status/2102443285470163274",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/wefunder",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Wefunder/status/2106160411972370557",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/wefunder/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/nicktommarello",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/readezell",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jonnyprice",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/wefunder/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/regcf/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/wefunder/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/wefunder/posts/in-the-past-10-years-1200-startups-have-raised-over-600m-on-wefunderthey-did-it-/635733385339573/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Wefunder 日本 導入",
+   "results": [
+    "https://wefunder.com/case-studies",
+    "https://wefunder.com/",
+    "https://earthkey.blog/global/少額投資可能な投資プラットフォームwefunder/",
+    "https://www.securities.io/ja/wefunder-crowdfunding-platform-penetrates-european-market/",
+    "https://wefunder.com/wefunder",
+    "https://wefunder.com/explore/home",
+    "https://biz-journal.jp/company/post_395463.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wefunder 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://wefunder.com/invest",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://kathalo.com/kathalog/import-business/1027/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wefunder Japan",
+   "results": [
+    "https://wefunder.com/japan.airlines",
+    "https://wefunder.me/",
+    "https://apps.apple.com/jp/app/wefunder/id1534355560",
+    "https://jp.linkedin.com/company/wefunder/",
+    "https://earthkey.blog/global/少額投資可能な投資プラットフォームwefunder/",
+    "https://www.finra.org/sites/default/files/2022-05/Wefunder-2021071940801.pdf",
+    "https://wefunder.com/explore/home"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wefunder manufacturing customer case study",
+   "results": [
+    "https://wefunder.com/case-studies",
+    "https://wefunder.com/case-studies/wefunder",
+    "https://growthturbine.com/blogs/25-biggest-wefunder-success-stories-updated-2025",
+    "https://www.usefini.com/blog/wefunder-case-study",
+    "https://www.boringbusinessnerd.com/post/wefunder-success-stories",
+    "https://www.casestudies.com/customer/wefunder1",
+    "https://aebligroup.com/work/tucktec-wefunder/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wefunder white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.youtube.com/creators/earn/youtube-partner-program/",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wefunder founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/wefunder",
+    "https://tracxn.com/d/companies/wefunder/__hhUZE9dNUIlJ0T3V2j-gH4vpT-uTrxNT_0wAoq0GA88",
+    "https://getlatka.com/companies/wefunder",
+    "https://www.zoominfo.com/c/wefunder-inc/348847052",
+    "https://rocketreach.co/wefunder-profile_b5f75fe4f42e88a7",
+    "https://akta.pro/company-profiles/00004on/wefunder",
+    "https://startupintros.com/orgs/wefunder"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Wefunder",
+   "results": [
+    "https://note.com/tag/張本勲",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/mura660527",
+    "https://note.com/nanjoki",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Wefunder",
+   "results": [
+    "https://x.com/wefunder",
+    "https://x.com/Wefunder/status/2102443285470163274",
+    "https://x.com/hashtag/wefunder",
+    "https://x.com/Wefunder/status/2106160411972370557",
+    "https://x.com/thebu11runner/status/2076049650281508895",
+    "https://x.com/Jetoptera/status/2044893700665590062",
+    "https://x.com/Wefunder/status/2057566807083438436"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Wefunder",
+   "results": [
+    "https://www.linkedin.com/company/wefunder/",
+    "https://www.linkedin.com/in/nicktommarello",
+    "https://www.linkedin.com/in/readezell",
+    "https://www.linkedin.com/in/jonnyprice",
+    "https://www.linkedin.com/in/ahmed-ahmed-bbb077228",
+    "https://www.linkedin.com/in/gregbelote",
+    "https://www.linkedin.com/in/haley-rosenberg-867b74152"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Wefunder",
+   "results": [
+    "https://www.facebook.com/wefunder/",
+    "https://www.facebook.com/groups/regcf/",
+    "https://www.facebook.com/groups/wefunder/",
+    "https://www.facebook.com/wefunder/posts/in-the-past-10-years-1200-startups-have-raised-over-600m-on-wefunderthey-did-it-/635733385339573/",
+    "https://www.facebook.com/wefunder/posts/reminder-5k-users-investing-in-your-startup-is-the-best-positive-signalit-means-/635180082061570/",
+    "https://www.facebook.com/TheTarpestry/videos/its-official-tarpestry-is-now-open-for-investment-we-just-launched-on-wefunder-a/1100661672906238/",
+    "https://www.facebook.com/hitherehunter/videos/calling-every-single-investor-in-the-peoples-airline-part-4-of-8100convert-your-/2225742871488249/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wefunder note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://wefunder.com/case-studies",
+    "https://note.com/fp_rich_note/n/nf0bcf8b65bca",
+    "https://wefunder.com/press",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://medium.com/nick-tommarello/about"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wefunder X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式15頁／PDF・画像3件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式15頁／PDF・画像3件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式15頁／PDF・画像3件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式15頁／PDF・画像3件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式15頁／PDF・画像3件／外部30頁・検索12回）"
+ }
+}

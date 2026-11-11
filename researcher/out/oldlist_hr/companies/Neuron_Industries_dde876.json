@@ -1,0 +1,1156 @@
+{
+ "name": "Neuron Industries",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial control / test｜AI送信済み",
+ "researched_at": "2026-11-11T05:14:39.623959+00:00",
+ "official_url": "https://neuronindustries.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "01-Sep-2026 $10M   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/1405650-70",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Proof, not promises.",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real machines, real commissioning clocks. How teams run Cortex in production.",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "stations, cleanup and trim saws, a hydraulic press, a dozen motors and VFDs,",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "and prompts you to resolve them: a safety pass over the edge",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": ": printed terminal numbers, live state on",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Commissioning without the spreadsheet: the drawing on screen matches the panel in front of you.",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tag names become the vocabulary the AI programs with. Label the plant once, use it everywhere.",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Robot motion and process logic live",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "in one program, one test bench.",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Arm and process share one program, one I/O namespace, and one test bench, so interlocks live in one place, not across a fieldbus bridge.",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prove the behavior before the line ever runs it.",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "preconditions, and runs",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Process structure is explicit, reviewable, and testable, not implied by scattered bits.",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "per-cycle program signals, and system state",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No third-party historian license, no per-tag pricing. On-prem by default, on hardware you own.",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "native forwarding · on-prem or cloud",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No protocol-gateway boxes, no \"unlock OPC UA\" upcharge. Open egress is the default.",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "✓ 1 · Prompt",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Illustration: prompt in, HMI drawn, live elements pinned on the real P&ID",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-order · $50 deposit",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A $50 deposit per controller reserves your pre-order and counts toward the hardware price. The remaining balance is due before shipping. Launch windows are estimates. Want to try Cortex first?",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Product specifications.",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Specifications reflect current production targets and are subject to change.",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "in-house PLC-replacement I/O for an autonomous metal 3D-printing factory.",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Before that, Apple's Vision Pro founding System EE team, Amazon Go, and",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CureWood Engineered Building Products makes finger-jointed lumber in Surrey, British",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "stations mill interlocking joint profiles, one for each end of the board, each with its",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "pieces into a hydraulic press. One controller choreographs all of it through 98 sensors,",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "23 seconds and the press ejects a finished charge every couple of minutes.",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "Siemens SIMATIC S5, programmed in May 1991",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "modified by hand in November 1994. Ben had to recover the original program from the",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "machine builder in Germany. The rest of the documentation is paper: the ladder printout",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "sensors and things are supposed to all work together to function properly. It is really",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "Ben McKinnon · President, CureWood Engineered Building Products",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "Before we priced our own work, we tried to get a market baseline. Our research suggests",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "similar projects typically run",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "pulling competing quotes, and what he said is the reason this genre of project stalls",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "We believe in price transparency. We built the quote bottom-up from fundamentals, and we",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "Step one was reading a program nothing modern can open",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "The S5's program lived in two places: on that paper, and as MC5 machine code inside the",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "decoder we could prove correct two ways. Re-assembling our decode reproduced all 2,420",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "printed contact readings the machine physically could not run under, and all five were",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "Then Ben sent us the program actually running in his rack, with a note that it was the",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "1991 program “with our small little edits.” Those edits mattered. The running",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "program differed from every document we had in 15 places, including six timer presets",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "The record: the tabbed printout, hand-drawn rungs, and edits that never made it back into the paperwork",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "We proved the port before we touched the machine",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "We translated the program, network by network, into real-time Python on our controller,",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "the magazine, both cutters, the transfer, the saw, the press. Then we ran the ported",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "program against it until the simulated line made lumber the same way the real one",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "Try Cortex on your process",
+    "url": "https://neuronindustries.com/learn-more",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us a little about your company and what you want to control so we can prepare for your call. Applying is free and takes about a minute.",
+    "url": "https://neuronindustries.com/learn-more",
+    "pass": 1
+   },
+   {
+    "quote": "Robotic Process Automation",
+    "url": "https://www.ycombinator.com/companies/neuron-industries",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron is crafting the world’s first purpose-built industrial controller for AI, replacing the antiquated PLCs running every machine and factory. We help customers from chemical processing to nuclear reactors compress controls projects from weeks to hours.",
+    "url": "https://www.ycombinator.com/companies/neuron-industries",
+    "pass": 3
+   },
+   {
+    "quote": "CEO and Co-Founder at Neuron Industries. Previously founding EE at Freeform, built its hardware tech stack from the ground up and scaled the world's most advanced metal 3D printing factory to production. Vision Pro System EE at Apple, owned eye tracking and Optic ID subsystems form factor system and board design. Ex-Tesla (Fremont) , Amazon (Go), Apple (iPad Pro, Pencil). UCSD BSEE.",
+    "url": "https://www.ycombinator.com/companies/neuron-industries",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron is building the world's first purpose built industrial controller for AI, replacing the antiquated PLCs running every machine and factory. We compress controls projects from weeks to hours, from chemical processing to nuclear reactors.",
+    "url": "https://www.ycombinator.com/companies/neuron-industries",
+    "pass": 3
+   },
+   {
+    "quote": "We're rebuilding the controller from first principles: state-of-the-art hardware, an AI-native stack, one ecosystem unifying PLC, HMI, SCADA, and Historian. Our agent contextualizes your requirements and hardware, then lets anyone program production applications in plain English, with test and verification guardrails and first-class data observability.",
+    "url": "https://www.ycombinator.com/companies/neuron-industries",
+    "pass": 3
+   },
+   {
+    "quote": "Our tech is in customers' plants today: pilots in chemical processing, electronics manufacturing, wastewater treatment, and small modular reactors.",
+    "url": "https://www.ycombinator.com/companies/neuron-industries",
+    "pass": 3
+   },
+   {
+    "quote": "Dennis Ren (CEO): founding EE at Freeform, built the hardware stack for the world's most advanced metal 3D-printing factory. Apple Vision Pro founding team, Amazon Go, Tesla Fremont.",
+    "url": "https://www.ycombinator.com/companies/neuron-industries",
+    "pass": 3
+   },
+   {
+    "quote": "YC-backed Neuron Industries Launches to Build a New Industrial Controller as the Engineers Who Program the Old Ones Retire",
+    "url": "https://finance.yahoo.com/technology/articles/yc-backed-neuron-industries-launches-165200252.html",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Cortex AIC: AI Industrial Controller | Neuron Industries",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "rebuild of the industrial control stack, from the hardware to the AI.",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Case study · 001",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tag names become the vocabulary the AI programs with. Label the plant once, use it everywhere.",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Commissioning, tuning, and incident forensics use the same tool operators already have open.",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Operator screens without an HMI-package license, or redrawing your plant in a vendor editor.",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The P&ID your engineers stamped is the interface your operators touch.",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "in-house PLC-replacement I/O for an autonomous metal 3D-printing factory.",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "industrial clients. Before that, Amazon (Elastic Block Store, Silk",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Cortex AIC is an AI-native industrial controller made by Neuron Industries",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Neuron Industries: Industrial Controllers built for AI | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/neuron-industries",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Controllers built for AI",
+    "url": "https://www.ycombinator.com/companies/neuron-industries",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron is crafting the world’s first purpose-built industrial controller for AI, replacing the antiquated PLCs running every machine and factory. We help customers from chemical processing to nuclear reactors compress controls projects from weeks to hours.",
+    "url": "https://www.ycombinator.com/companies/neuron-industries",
+    "pass": 3
+   },
+   {
+    "quote": "CEO and Co-Founder at Neuron Industries. Previously founding EE at Freeform, built its hardware tech stack from the ground up and scaled the world's most advanced metal 3D printing factory to production. Vision Pro System EE at Apple, owned eye tracking and Optic ID subsystems form factor system and board design. Ex-Tesla (Fremont) , Amazon (Go), Apple (iPad Pro, Pencil). UCSD BSEE.",
+    "url": "https://www.ycombinator.com/companies/neuron-industries",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron Industries: The world's first purpose built industrial controller for AI",
+    "url": "https://www.ycombinator.com/companies/neuron-industries",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron is building the world's first purpose built industrial controller for AI, replacing the antiquated PLCs running every machine and factory. We compress controls projects from weeks to hours, from chemical processing to nuclear reactors.",
+    "url": "https://www.ycombinator.com/companies/neuron-industries",
+    "pass": 3
+   },
+   {
+    "quote": "Our tech is in customers' plants today: pilots in chemical processing, electronics manufacturing, wastewater treatment, and small modular reactors.",
+    "url": "https://www.ycombinator.com/companies/neuron-industries",
+    "pass": 3
+   },
+   {
+    "quote": "Dennis Ren (CEO): founding EE at Freeform, built the hardware stack for the world's most advanced metal 3D-printing factory. Apple Vision Pro founding team, Amazon Go, Tesla Fremont.",
+    "url": "https://www.ycombinator.com/companies/neuron-industries",
+    "pass": 3
+   },
+   {
+    "quote": "If you — or someone you know — build machines or factories that run on PLCs and HMIs, we'd love to talk:",
+    "url": "https://www.ycombinator.com/companies/neuron-industries",
+    "pass": 3
+   },
+   {
+    "quote": "YC-backed Neuron Industries Launches to Build a New Industrial Controller as the Engineers Who Program the Old Ones Retire",
+    "url": "https://finance.yahoo.com/technology/articles/yc-backed-neuron-industries-launches-165200252.html",
+    "pass": 3
+   },
+   {
+    "quote": "The AI-native industrial controller lets engineers without controls training retrofit legacy machines and program new automation in plain English, as the workforce that maintains today's PLCs retires",
+    "url": "https://finance.yahoo.com/technology/articles/yc-backed-neuron-industries-launches-165200252.html",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron Industries is introducing an industrial controller built for the AI era, using plain English to generate production control logic while helping manufacturers reduce controls projects from weeks to hours.",
+    "url": "https://finance.yahoo.com/technology/articles/yc-backed-neuron-industries-launches-165200252.html",
+    "pass": 3
+   },
+   {
+    "quote": ", a Y Combinator-backed industrial hardware technology company, today announced their public launch. Neuron Industries builds the controller that runs automated machinery, along with the software stack that covers its real-time runtime to cloud connectivity.",
+    "url": "https://finance.yahoo.com/technology/articles/yc-backed-neuron-industries-launches-165200252.html",
+    "pass": 3
+   },
+   {
+    "quote": "The goal is straightforward: to let engineers, without any prior control engineering training, write, verify, and change the logic themselves for the machines and factories they build. The company's first product, an industrial controller called the Cortex AIC, is in paid customer pilots.",
+    "url": "https://finance.yahoo.com/technology/articles/yc-backed-neuron-industries-launches-165200252.html",
+    "pass": 3
+   },
+   {
+    "quote": "The timing is poor. Reindustrialization and the data center buildout are both pushing demand for additional industrial capacity up while the pool of engineers qualified to commission and maintain it thins out. The usual response is to send existing staff out for training, which takes a considerable amount of time to convert into working competence.",
+    "url": "https://finance.yahoo.com/technology/articles/yc-backed-neuron-industries-launches-165200252.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"Neuron's mission is to drop the barrier to entry for industrial automation to the floor,\" said Dennis Ren, co-founder and CEO of Neuron Industries. \"We want to enable not only faster and cheaper implementation of automation with existing factories, but also onboard a new wave of under-automated manufacturers to help re-industrialize America one machine at a time.\"",
+    "url": "https://finance.yahoo.com/technology/articles/yc-backed-neuron-industries-launches-165200252.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"Software engineering got 30 years of continuous innovation: version control, testing, code review, and fast feedback,\" said Kenneth Rhee, co-founder and CTO. \"Controls engineering got almost none of it, and it is running the physical world. The goal is to enable engineers to develop industrial hardware at the speed of software.\"",
+    "url": "https://finance.yahoo.com/technology/articles/yc-backed-neuron-industries-launches-165200252.html",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron Industries is based in El Segundo, California, and is part of Y Combinator's S26 batch. Organizations that build machines or factories can reach the company at hello@neuronindustries.com.",
+    "url": "https://finance.yahoo.com/technology/articles/yc-backed-neuron-industries-launches-165200252.html",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron Industries is an industrial hardware technology company based in El Segundo, California. It builds the Cortex AIC controller hardware and the software that runs on it: the Synapse development environment and Hippocampus, a local process-data viewer. The company was founded in 2026 and is a Y Combinator S26 company.",
+    "url": "https://finance.yahoo.com/technology/articles/yc-backed-neuron-industries-launches-165200252.html",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an AI-programmable industrial controller device designed to simplify industrial automation and machine control.",
+    "url": "https://pitchbook.com/profiles/company/1405650-70",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an AI-programmable industrial controller device designed to simplify industrial automation and machine control. The company's platform offers integrated control software, built-in development tools, real-time code generation, and native data management, enabling industrial automation engineers and clients to develop, deploy, and manage control systems through a unified environment.",
+    "url": "https://pitchbook.com/profiles/company/1405650-70",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron Industries Raises $10M Seed for AI Industrial Control - Los Angeles Times",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-10-29/neuron-industries-10-million-seed-round",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron Industries Raises $10 Million Seed Round to Accelerate Industrial Automation",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-10-29/neuron-industries-10-million-seed-round",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron Industries, an industrial hardware and software company building an AI-native industrial controller, announced a $10 million seed round following its public launch in August. The oversubscribed round was co-led by FCVC and Obvious Ventures, with participation from Y Combinator, Thin Line Capital, Zee Prime Capital and Founder Factor.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-10-29/neuron-industries-10-million-seed-round",
+    "pass": 3
+   },
+   {
+    "quote": "As America rebuilds its industrial capacity, Gardena-based Neuron puts AI-native controls in the hands of engineers designing new factories and production equipment. It is rebuilding the industrial control stack to help engineers develop, test and",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-10-29/neuron-industries-10-million-seed-round",
+    "pass": 3
+   },
+   {
+    "quote": ", production lines and factories. Traditionally, this development has been handled by engineers using outdated programming language, because there hasn’t been any improvement in the technology for decades.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-10-29/neuron-industries-10-million-seed-round",
+    "pass": 3
+   },
+   {
+    "quote": "Ren was the founding electrical engineer at Hawthorne-based Freeform where he built the control stack behind an autonomous metal 3D-printing factory. He found that off-the-shelf controllers failed to deliver the performance and flexibility demanded by the application.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-10-29/neuron-industries-10-million-seed-round",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron’s Cortex AI Controller and Synapse development environment let engineers describe machine behavior and build user interfaces, generate readable control code and test it before deployment. It is focused on companies that are building new production plants, factories and machines, helping teams establish their controls platform from the earliest stages of design.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-10-29/neuron-industries-10-million-seed-round",
+    "pass": 3
+   },
+   {
+    "quote": "industrial automation",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-10-29/neuron-industries-10-million-seed-round",
+    "pass": 3
+   },
+   {
+    "quote": "rising manufacturing startups",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-10-29/neuron-industries-10-million-seed-round",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Founded and bootstrapped WorkIPO, which built ERP and MES systems for",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "at Amazon and GOAT Group and founder of WorkIPO. The company is based in",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "El Segundo, California, and is part of Y Combinator's Summer 2026 batch.",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The program pulled from the installed S5 arrives",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "Wiring schematic arrives",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "We arrived on site, Cortex in hand, with the new EtherCAT I/O terminal.",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "circuits and motor starters was never part of the PLC program and stayed exactly as it",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "sensor that confirms one of the moving carriages is in position started reading marginal.",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "The first adds carriage position feedback and patterned glue dispensing on the finger",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "for our employees. There have always been things like that we wanted to implement, but",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "Kenneth Rhee (CTO): second-time founder, bootstrapped and exited WorkIPO. Custom ERP, MES, and CRM systems; ex-Amazon and GOAT Group (YC W11).",
+    "url": "https://www.ycombinator.com/companies/neuron-industries",
+    "pass": 3
+   },
+   {
+    "quote": "\"Neuron's mission is to drop the barrier to entry for industrial automation to the floor,\" said Dennis Ren, co-founder and CEO of Neuron Industries. \"We want to enable not only faster and cheaper implementation of automation with existing factories, but also onboard a new wave of under-automated manufacturers to help re-industrialize America one machine at a time.\"",
+    "url": "https://finance.yahoo.com/technology/articles/yc-backed-neuron-industries-launches-165200252.html",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron Industries is based in El Segundo, California, and is part of Y Combinator's S26 batch. Organizations that build machines or factories can reach the company at hello@neuronindustries.com.",
+    "url": "https://finance.yahoo.com/technology/articles/yc-backed-neuron-industries-launches-165200252.html",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron Industries has 5 total employees.",
+    "url": "https://pitchbook.com/profiles/company/1405650-70",
+    "pass": 3
+   },
+   {
+    "quote": "What is Neuron Industries’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/1405650-70",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Neuron Industries is",
+    "url": "https://pitchbook.com/profiles/company/1405650-70",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Each subscription is assigned to one controller. Contact us for additional storage or compute.",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "hello@neuronindustries.com",
+    "url": "https://neuronindustries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "emailed over in two parts. This is normal for how CureWood grew.",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "one. We were willing to put it in an email first.",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "Ben emails the recovered program and the ladder printout. We start digesting them the same afternoon.",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "One shot, exactly as we called in the email.",
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "pass": 1
+   },
+   {
+    "quote": "hello@neuronindustries.com",
+    "url": "https://www.ycombinator.com/companies/neuron-industries",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron Industries is based in El Segundo, California, and is part of Y Combinator's S26 batch. Organizations that build machines or factories can reach the company at hello@neuronindustries.com.",
+    "url": "https://finance.yahoo.com/technology/articles/yc-backed-neuron-industries-launches-165200252.html",
+    "pass": 3
+   },
+   {
+    "quote": "hello@neuronindustries.com",
+    "url": "https://finance.yahoo.com/technology/articles/yc-backed-neuron-industries-launches-165200252.html",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/1405650-70",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Neuron Industries (YC S26) - LinkedIn — Neuron Industries (YC S26) - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/neuronindustries",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron Industries : Industrial Controllers built for AI — Neuron Industries : Industrial Controllers built for AI Y Combinator https://www.ycombinator.com > neur...",
+    "url": "https://www.ycombinator.com/companies/neuron-industries",
+    "pass": 3
+   },
+   {
+    "quote": "YC-backed Neuron Industries Launches to Build a New ... — YC-backed Neuron Industries Launches to Build a New ... Yahoo Finance https://finance.yahoo.com > articles",
+    "url": "https://finance.yahoo.com/technology/articles/yc-backed-neuron-industries-launches-165200252.html",
+    "pass": 3
+   },
+   {
+    "quote": "Cortex AIC: AI Industrial Controller | Neuron Industries — Cortex AIC: AI Industrial Controller | Neuron Industries neuronindustries.com https://neuronindustries.com",
+    "url": "https://neuronindustries.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Problem Solvers: Inside the Stack w/ Neuron Industries — Problem Solvers: Inside the Stack w/ Neuron Industries YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=kTfjWoupJkk",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron Industries 2026 Company Profile - PitchBook — Neuron Industries 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/1405650-70",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron Industries - Crunchbase Company Profile & Funding — Neuron Industries - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > neuro...",
+    "url": "https://www.crunchbase.com/organization/neuron-industries-251f",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron Industries Raises $10 Million Seed Round ... - LA Times — Neuron Industries Raises $10 Million Seed Round ... - LA Times Los Angeles Times https://www.latimes.com > story > ne...",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-10-29/neuron-industries-10-million-seed-round",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron Industries raises $10M to replace factory controllers ... — Neuron Industries raises $10M to replace factory controllers ... Dealroom https://dealroom.co > news > 168052-...",
+    "url": "https://dealroom.co/news/168052-neuron-industries-raises-10m-to-replace-factory-controllers-with-ai/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "The SaaS News on X: \" Neuron Industries Raises $10M Seed ... The SaaS News on X: \" Neuron Industries Raises $10M Seed ... X https://x.com > @TheSaaSNews",
+    "url": "https://x.com/TheSaaSNews/status/2117151787086143671",
+    "pass": 3
+   },
+   {
+    "quote": "#NeuronIndustries - Search / X #NeuronIndustries - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/NeuronIndustries",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Neuron Industries (YC S26) - LinkedIn Neuron Industries (YC S26) - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/neuronindustries",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron Industries Joins Y Combinator S26 Batch - LinkedIn Neuron Industries Joins Y Combinator S26 Batch - LinkedIn LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/dennisren_founders-ycombinator-industrialautomation-activity-7475415950167810048-3uyQ",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Neuron Industries Inc. | Santa Monica CA - Facebook Neuron Industries Inc. | Santa Monica CA - Facebook Facebook https://www.facebook.com > neuronindustries",
+    "url": "https://www.facebook.com/neuronindustries/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://neuronindustries.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://neuronindustries.com/case-studies/curewood-s5-retrofit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://neuronindustries.com/learn-more",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.neuron.ne.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brains-tech.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uncrate.com/jp/article/neuron-ev-modular-trucks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=yujoea9CVOs",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.brains-tech.co.jp/neuron/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scsk.jp/news/2019/press/product/20190725.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neuron.ne.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXLRSP515262_V20C19A7000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/neuronindustries",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_picture-a-5000-computer-with-5mb-of-memory-activity-7486487873089712128-J2ZT",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/neuron-industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/technology/articles/yc-backed-neuron-industries-launches-165200252.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neuronsw.com/case-studies-success-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neuroncloud.ai/case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=kTfjWoupJkk",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agentz.ai/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Y-l_-CAmJ2c",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/1405650-70",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/neuron-industries-251f",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-10-29/neuron-industries-10-million-seed-round",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/news/168052-neuron-industries-raises-10m-to-replace-factory-controllers-with-ai/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TheSaaSNews/status/2117151787086143671",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/NeuronIndustries",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/neuronindustries",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/dennisren_founders-ycombinator-industrialautomation-activity-7475415950167810048-3uyQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/neuronindustries/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/neuronindustries",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Neuron Industries 日本 導入",
+   "results": [
+    "https://www.neuron.ne.jp/",
+    "https://www.brains-tech.co.jp/news/",
+    "https://uncrate.com/jp/article/neuron-ev-modular-trucks/",
+    "https://www.youtube.com/watch?v=yujoea9CVOs",
+    "https://news.panasonic.com/jp/press/jn240109-6",
+    "https://autoc-one.jp/news/5023760/",
+    "https://neuron-inc.com/home",
+    "https://car.watch.impress.co.jp/docs/news/1559298.html",
+    "https://www.ctcsp.co.jp/itspice/topic/202406-1",
+    "https://en.m.wikipedia.org/wiki/Neuron"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Neuron Industries 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.brains-tech.co.jp/neuron/partner/",
+    "https://www.scsk.jp/news/2019/press/product/20190725.html",
+    "https://www.neuron.ne.jp/",
+    "https://www.nikkei.com/article/DGXLRSP515262_V20C19A7000000/",
+    "https://neuron-inc.com/home",
+    "http://www.neuron-net.co.jp/neuron/index.html",
+    "https://www.brains-tech.co.jp/neuron/partner-information-page/",
+    "https://neuron-ct.jp/",
+    "https://www.nouryon.com/",
+    "https://en.m.wikipedia.org/wiki/Neuron"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Neuron Industries Japan",
+   "results": [
+    "https://www.linkedin.com/company/neuronindustries",
+    "https://www.linkedin.com/posts/y-combinator_picture-a-5000-computer-with-5mb-of-memory-activity-7486487873089712128-J2ZT",
+    "https://www.ycombinator.com/companies/neuron-industries",
+    "https://finance.yahoo.com/technology/articles/yc-backed-neuron-industries-launches-165200252.html",
+    "https://neuronindustries.com/",
+    "https://pitchbook.com/profiles/company/1405650-70",
+    "https://markets.businessinsider.com/news/stocks/neuron-industries-raises-an-oversubscribed-10-million-seed-round-to-cut-industrial-automation-development-from-months-to-days-1036687624",
+    "https://builtin.com/company/neuron-industries",
+    "https://dealroom.co/news/168052-neuron-industries-raises-10m-to-replace-factory-controllers-with-ai/",
+    "https://en.m.wikipedia.org/wiki/Neuron"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Neuron Industries manufacturing customer case study",
+   "results": [
+    "https://www.neuronsw.com/case-studies-success-stories/",
+    "https://www.neuroncloud.ai/case-study/",
+    "https://www.youtube.com/watch?v=kTfjWoupJkk",
+    "https://c3.ai/customers",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://finance.yahoo.com/technology/articles/yc-backed-neuron-industries-launches-165200252.html",
+    "https://neuronindustries.com/",
+    "https://www.infor.com/customer-stories",
+    "https://www.thoughtindustries.com/resources/case-study/",
+    "https://en.m.wikipedia.org/wiki/Neuron"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Neuron Industries white label OR reseller OR partner program",
+   "results": [
+    "https://www.agentz.ai/partners",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.youtube.com/watch?v=Y-l_-CAmJ2c",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://v2cloud.com/blog/white-label-saas-software-to-resell",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://en.m.wikipedia.org/wiki/Neuron"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Neuron Industries founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/1405650-70",
+    "https://www.crunchbase.com/organization/neuron-industries-251f",
+    "https://www.latimes.com/b2b/ai-technology/story/2026-10-29/neuron-industries-10-million-seed-round",
+    "https://dealroom.co/news/168052-neuron-industries-raises-10m-to-replace-factory-controllers-with-ai/",
+    "https://www.linkedin.com/posts/grishinrobotics_neuron-industries-yc-s26-raised-10m-in-activity-7521922282303377408-VduN",
+    "https://www.ycombinator.com/companies/neuron-industries",
+    "https://tracxn.com/d/companies/neurons/__Nr_HjTbCED8D_GXUhROsAYkByqfZCTCCZQW_ZwDVJWA",
+    "https://finance.yahoo.com/technology/ai/articles/neuron-industries-raises-oversubscribed-10-195300280.html",
+    "https://www.zoominfo.com/c/neuron/395938610"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com Neuron Industries",
+   "results": [
+    "https://note.com/discover21/n/n6f7ce4d90b99?hl=en",
+    "https://note.com/bunsekiya_tech/n/ncdda2fd3d881?hl=en",
+    "https://note.com/lush_macaw9968/n/n78dde049184f?hl=en",
+    "https://note.com/shi3zblog/n/n1576e38cbd78?hl=en",
+    "https://note.com/hirokimiyano/n/nbdfe927cc10a?hl=en",
+    "https://note.com/pelicanbomber/n/nc62572b0c14c?hl=en",
+    "https://note.com/tag/Gucci",
+    "https://note.com/hirokimiyano/n/nd1650e64876a?hl=en",
+    "https://note.com/kagawatomo/n/n59541f09fc58?hl=en",
+    "https://en.m.wikipedia.org/wiki/Neuron"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:x.com Neuron Industries",
+   "results": [
+    "https://x.com/pulse2news/status/2117115227489894593",
+    "https://x.com/TheSaaSNews/status/2117151787086143671",
+    "https://x.com/AtomsNotBits/status/2115961612435951859",
+    "https://x.com/hashtag/NeuronIndustries",
+    "https://x.com/the_dennis_ren/status/2115845508996714776",
+    "https://x.com/hashtag/AIControllers",
+    "https://x.com/erik_stiebel/status/2107515371540398372",
+    "https://x.com/AtomsNotBits/status/2115961615464198599",
+    "https://x.com/davj/status/2118056682911584435",
+    "https://en.m.wikipedia.org/wiki/Neuron"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:linkedin.com Neuron Industries",
+   "results": [
+    "https://www.linkedin.com/company/neuronindustries",
+    "https://www.linkedin.com/posts/y-combinator_picture-a-5000-computer-with-5mb-of-memory-activity-7486487873089712128-J2ZT",
+    "https://www.linkedin.com/in/dennisren",
+    "https://www.linkedin.com/posts/dennisren_founders-ycombinator-industrialautomation-activity-7475415950167810048-3uyQ",
+    "https://www.linkedin.com/company/neuronindustries/life",
+    "https://www.linkedin.com/posts/dennisren_reindustrialize-americandynamism-manufacturing-activity-7495853619418681344-d3gr",
+    "https://www.linkedin.com/posts/devcuration_neuron-industries-raises-10m-seed-for-industrial-activity-7522145341308280832-jPKb",
+    "https://www.linkedin.com/posts/neuronindustries_httpslnkdinpg5p-xwxc-activity-7521601896567091200-JlZ2",
+    "https://www.linkedin.com/posts/grishinrobotics_neuron-industries-yc-s26-raised-10m-in-activity-7521922282303377408-VduN",
+    "https://www.linkedin.com/posts/mo-islam-66082332_neuron-industries-raises-10-million-seed-activity-7521619953435729921-MshM"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:facebook.com Neuron Industries",
+   "results": [
+    "https://www.facebook.com/neuronindustries/",
+    "https://www.facebook.com/NeuronSyndicate/",
+    "https://www.facebook.com/elgiaircompressors/videos/maximizing-compressor-performance-starts-with-smarter-control-the-neuron-4-contr/1832707137403187/",
+    "https://www.facebook.com/BeijingFocus/posts/absorbing-the-view-of-a-neuron-shaped-pavilion-visitors-can-learn-more-about-dig/627068442784679/",
+    "https://www.facebook.com/MeijerGardens/posts/neuron-by-roxy-paine-is-a-41-foot-large-scale-sculpture-composed-of-3500-stainle/10160640124838653/",
+    "https://www.facebook.com/ADNOCGroupOfficial/videos/neuron-5/1793645948191997/",
+    "https://www.facebook.com/neuronexpert/posts/your-phone-rings-while-youre-under-a-sink-neuron-answers-itneuron-is-the-ai-fron/927543760378649/",
+    "https://www.facebook.com/thegreentimenews/posts/neura-robotics-aims-to-raise-up-to-14-billion-in-series-c-funding-to-advance-its/949457451470354/",
+    "https://www.facebook.com/HobbyLinkJapan/posts/%EF%B8%8F-preorder-now-cre-series-neuron-tech-manikin-bioroid-troy-020/1402106438626064/",
+    "https://en.m.wikipedia.org/wiki/Neuron"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Neuron Industries note 社長",
+   "results": [
+    "https://www.linkedin.com/company/neuronindustries",
+    "https://app.dealroom.co/news/note/neuron-industries-raises-10m-to-replace-factory-controllers-with-ai",
+    "https://www.youtube.com/watch?v=kTfjWoupJkk",
+    "https://finance.yahoo.com/technology/articles/yc-backed-neuron-industries-launches-165200252.html",
+    "https://www.ycombinator.com/companies/neuron-industries",
+    "https://markets.businessinsider.com/news/stocks/neuron-industries-raises-an-oversubscribed-10-million-seed-round-to-cut-industrial-automation-development-from-months-to-days-1036687624",
+    "https://neuronindustries.com/",
+    "https://pulse2.com/neuron-industries-raises-10-million-seed-round-to-build-ai-native-industrial-automation-platform/",
+    "https://en.m.wikipedia.org/wiki/Neuron",
+    "https://simple.m.wikipedia.org/wiki/Neuron"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "Neuron Industries X 投稿",
+   "results": [
+    "https://en.m.wikipedia.org/wiki/Neuron",
+    "https://simple.m.wikipedia.org/wiki/Neuron",
+    "https://www.cell.com/neuron/home",
+    "https://www.simplypsychology.org/neuron.html",
+    "https://www.britannica.com/science/neuron",
+    "https://biologyease.com/neurons/",
+    "https://www.db.yugioh-card.com/yugiohdb/",
+    "https://www.healthline.com/health/neurons",
+    "https://openbooks.lib.msu.edu/neuroscience/chapter/the-neuron/",
+    "https://www.medicalnewstoday.com/articles/320289"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

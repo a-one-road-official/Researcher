@@ -1,0 +1,1477 @@
+{
+ "name": "Guidewheel",
+ "aliases": [],
+ "context": "旧営業リスト｜Factory data / production ops｜AI送信済み",
+ "researched_at": "2026-11-11T05:09:15.526671+00:00",
+ "official_url": "https://www.guidewheel.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$8M",
+    "url": "https://getlatka.com/companies/guidewheel",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The practical operating platform for manufacturing",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See when and where production stops, add the context behind each event, and focus your team on the causes that cost the most time.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Weatherables reported a 12% improvement in OEE.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase production from your existing assets",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find capacity lost to late starts, changeovers, and inconsistent cycles. Use the evidence to decide whether the next step is a process change, targeted maintenance, or a different staffing plan.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give operators, supervisors, and plant leaders a shared view of performance, so daily reviews lead to a clear priority, an owner, and a next action.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pretium uses Guidewheel across 25+ locations to compare performance and guide energy decisions.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Read the Pretium case study",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn a successful change at one site into a practice other teams can use. Compare performance across your operation to guide capacity, capital, staffing, and energy decisions.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "THE PRACTICAL OPERATING PLATFORM FOR MANUFACTURING",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Guidewheel connects machine signals with the context your people add, giving everyone a trusted view of the operation. AI-powered software and experienced manufacturing experts help your team identify opportunities and choose the next high-value action. As improvements take hold, you can apply what works across plants and use that shared operating record to make better business decisions.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Track machine stops and team-entered reasons to understand where production time is being lost and which causes deserve attention.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Follow OEE by machine and plant, then use the trends to focus improvement work on the losses that matter.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Compare planned and actual production to see where output is falling short and what your team needs to investigate.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Understand machine-level energy use alongside production, so teams can investigate waste and evaluate the cost of each run.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Add measurements such as temperature, flow, humidity, and pressure where the application calls for them.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give your teams the tools to see performance, add context, and follow through on the decisions that improve it.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive Alerts & Reporting",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Guidewheel gave us visibility into what was driving downtime and impacting efficiency, almost overnight. From there, we could quickly start attacking downtime causes and dial things in to improve efficiency.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Review downtime patterns, set alerts for the people who can respond, and use the evidence to prioritize improvements in your daily and weekly reviews.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The reporting in Guidewheel is better than anything we've ever had. Now we can look back at issues and downtime, know what went wrong, and know what actions we need to take to improve.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Compare energy intensity and consumption across machines, then consider the production context when evaluating efficiency and cost.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Before Guidewheel, we didn’t know which production process was consuming the most energy, so we didn’t have control over energy usage. We were able to install Guidewheel in 2 days and it gave me visibility into the press operation and our energy usage, from anywhere.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Start with your machines. Build from the first useful improvement.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Make each improvement a foundation for the next",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Guidewheel | About Us: Practical Manufacturing Performance",
+    "url": "https://www.guidewheel.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "So we built the practical operating platform for manufacturing. Guidewheel connects machine data, guides your team to the next high-value action through AI-powered software and manufacturing expertise, and helps apply what works across your plants. The goal is to help you get more from the equipment and people you already have.",
+    "url": "https://www.guidewheel.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We started with energy management. Customers began using Guidewheel to track downtime, manage machines and run better shifts, and we listened. That feedback shaped the practical operating platform for manufacturing we run today: connect every machine, guide the highest-value next action, and amplify what works across plants.",
+    "url": "https://www.guidewheel.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Guidewheel was born from firsthand experience. Before founding the company, CEO Lauren Dunford worked in food production, seeing the real-world challenges faced by those in manufacturing.",
+    "url": "https://www.guidewheel.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We're proud to be backed by investors who share our vision for a more efficient, sustainable future in manufacturing.",
+    "url": "https://www.guidewheel.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We’re building technology that empowers the people who power our economy, and we’re just getting started. If you’re excited to solve real problems, move fast, and make a global impact, we’d love to meet you.",
+    "url": "https://www.guidewheel.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Guidewheel | Careers: Build Practical Manufacturing Technology",
+    "url": "https://www.guidewheel.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Do work that powers progress",
+    "url": "https://www.guidewheel.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We're building the practical operating platform for manufacturing. It helps plant teams make more money with the equipment and people they already have. Come build it with us.",
+    "url": "https://www.guidewheel.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "At Guidewheel, you'll join a growing team that works alongside manufacturers to solve practical operating problems. We care about our customers, our mission, and each other, and we bring curiosity and a willingness to learn to that work.",
+    "url": "https://www.guidewheel.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "If you enjoy solving real problems with people who care about their work, we'd love to meet you.",
+    "url": "https://www.guidewheel.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Manager, Enterprise Solutions Engineering",
+    "url": "https://www.guidewheel.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We invest in our people with benefits that reflect our commitment to their well-being, both personally and professionally.",
+    "url": "https://www.guidewheel.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Business Development Representative",
+    "url": "https://www.guidewheel.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Marketing Analyst (Contract – Paid Media Focus)",
+    "url": "https://www.guidewheel.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Guidewheel | Partners: Private Equity, Integrators, Resellers & Ambassadors",
+    "url": "https://www.guidewheel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "More output from the plants you already own. We help PE firms find hidden capacity across their manufacturing portcos. Start with one plant, prove the result, then roll it out across the portfolio.",
+    "url": "https://www.guidewheel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "\"Guidewheel gave us visibility into what was driving downtime and impacting efficiency, almost overnight. From there, we could quickly start attacking downtime causes and dial things in to improve efficiency.\"",
+    "url": "https://www.guidewheel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The practical operating platform for manufacturing",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Guidewheel connects your machines and operating context, while our AI-powered platform and team help you choose the next high-value action. From daily production decisions to improvements across plants, you can get more from the equipment and people you already have.",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Between the production plan and the financial result, your teams make the decisions that shape performance. When machine activity and operating knowledge are scattered across systems and shifts, it can be hard to see which change will make the biggest difference. Guidewheel brings that context together so your team can act while there is still time to improve the result.",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Apply a successful change across more machines and plants. A shared operating record helps leaders compare capacity and make informed capital, staffing, and production decisions.",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "See recurring stops and the context behind them, then use alerts and shared priorities to coordinate the next response.",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Increase production from your existing assets",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Find production time lost to late starts, slow changeovers, and inconsistent cycles. Use the evidence to evaluate process, maintenance, staffing, and equipment decisions.",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Guidewheel has changed the way we operate by providing a single source of the truth. Having universal data allows for easier communication, meetings, reporting, and most importantly quick action.",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Guidewheel has made our operations more efficient and sharpens our long-term planning. It's at the heart of our continuous improvement.",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "improvement in OEE reported by Weatherables.",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "When every plant runs a little differently and data isn’t always aligned, hitting AOP becomes a real challenge. Guidewheel gives you real-time visibility across every site, so you can lead with confidence, uncover hidden losses, and better achieve your production and profitability goals.",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Managing a plant is hard enough without having to guess what’s actually happening on the floor. Guidewheel provides the visibility you need to focus where it matters, so you can prioritize the issues affecting your production targets.",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "With so many moving parts and people to support, it’s tough to know where to focus first. Guidewheel surfaces the right information at the right moment, so you can keep production moving and lead your team with clarity.",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "When you’re buried in work orders and chasing last-minute fixes, it’s tough to stay proactive. Guidewheel helps you catch issues early, so you can prioritize smarter, plan a response, and review recurring causes of downtime.",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous Improvement",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "It’s hard to improve when you don’t know how things are going. Guidewheel gives you clear, real-time visibility into your machines so you can take action, reduce downtime, and feel more in control of your shift.",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "So when a recurring stop begins to affect output, your team can see the pattern, understand what happened, and decide what to address next. Guidewheel connects machine signals with operating context, while its AI-powered platform and team help you prioritize improvements and review the results.",
+    "url": "https://www.guidewheel.com/solutions/reduce-downtime",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Guidewheel | AI-Powered Operating Platform for Manufacturing",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The practical operating platform for manufacturing",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Guidewheel connects your machines and pairs AI-powered software with manufacturing experts to help your team find the next high-value action. Trusted machine data becomes the starting point for reducing downtime, increasing output, and making better decisions across your plants.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Powering 500+ leading manufacturers, from mid-sized plants to Fortune 500 operators",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Read the Fibrix case study",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Read the Weatherables case study",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give operators, supervisors, and plant leaders a shared view of performance, so daily reviews lead to a clear priority, an owner, and a next action.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Penn Color reported 30–35% higher equipment utilization across its U.S. plants.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Read the Penn Color case study",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Read the Pretium case study",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Apply what works across your plants",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "THE PRACTICAL OPERATING PLATFORM FOR MANUFACTURING",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Guidewheel connects machine signals with the context your people add, giving everyone a trusted view of the operation. AI-powered software and experienced manufacturing experts help your team identify opportunities and choose the next high-value action. As improvements take hold, you can apply what works across plants and use that shared operating record to make better business decisions.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Follow OEE by machine and plant, then use the trends to focus improvement work on the losses that matter.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring machine and plant performance into a shared view, whether your team is reviewing OEE on the floor or comparing results across sites.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give operators a simple way to request support, log downtime reasons, and record scrap at the line. Their context helps the wider team understand what happened and agree on the next action.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Work with experienced people who understand factory operations and help your team turn insight into action.",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Guidewheel | About Us: Practical Manufacturing Performance",
+    "url": "https://www.guidewheel.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Unlocking performance for every factory",
+    "url": "https://www.guidewheel.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to help the world’s 10 million factories reach sustainable peak performance, with the equipment and people they already have.",
+    "url": "https://www.guidewheel.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "At Guidewheel, we believe every factory deserves tools to perform at its best.",
+    "url": "https://www.guidewheel.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "So we built the practical operating platform for manufacturing. Guidewheel connects machine data, guides your team to the next high-value action through AI-powered software and manufacturing expertise, and helps apply what works across your plants. The goal is to help you get more from the equipment and people you already have.",
+    "url": "https://www.guidewheel.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We started with energy management. Customers began using Guidewheel to track downtime, manage machines and run better shifts, and we listened. That feedback shaped the practical operating platform for manufacturing we run today: connect every machine, guide the highest-value next action, and amplify what works across plants.",
+    "url": "https://www.guidewheel.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Everything we rely on, food, medicine, infrastructure, and more, starts in a factory. The people who keep those factories running deserve technology that helps them thrive. That’s who Guidewheel serves.",
+    "url": "https://www.guidewheel.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Started on the factory floor",
+    "url": "https://www.guidewheel.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Guidewheel was born from firsthand experience. Before founding the company, CEO Lauren Dunford worked in food production, seeing the real-world challenges faced by those in manufacturing.",
+    "url": "https://www.guidewheel.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We're proud to be backed by investors who share our vision for a more efficient, sustainable future in manufacturing.",
+    "url": "https://www.guidewheel.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Guidewheel | Careers: Build Practical Manufacturing Technology",
+    "url": "https://www.guidewheel.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We're building the practical operating platform for manufacturing. It helps plant teams make more money with the equipment and people they already have. Come build it with us.",
+    "url": "https://www.guidewheel.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "At Guidewheel, you'll join a growing team that works alongside manufacturers to solve practical operating problems. We care about our customers, our mission, and each other, and we bring curiosity and a willingness to learn to that work.",
+    "url": "https://www.guidewheel.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "At Guidewheel, we’re not just building software, we’re helping the world’s factories run more efficiently and sustainably. It’s incredibly rewarding to see our impact on the plant floor and know we’re powering the future of manufacturing.",
+    "url": "https://www.guidewheel.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "At Guidewheel, I work with the sharpest, kindest, most driven teammates. We’re all pushing toward something that matters. There’s nothing more energizing than seeing our impact on real factories, real teams, and real results.",
+    "url": "https://www.guidewheel.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Build the next era of manufacturing with us",
+    "url": "https://www.guidewheel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Guidewheel is the data and intelligence layer for 500+ manufacturers. Technology partners connect to it. Channel partners bring it to more plants.",
+    "url": "https://www.guidewheel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you invest in manufacturers, serve them, or know them well, there's a way to bring Guidewheel to the plants you work with.",
+    "url": "https://www.guidewheel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "More output from the plants you already own. We help PE firms find hidden capacity across their manufacturing portcos. Start with one plant, prove the result, then roll it out across the portfolio.",
+    "url": "https://www.guidewheel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A good fit: Funds that own manufacturers, and operating partners who spend time in their plants.",
+    "url": "https://www.guidewheel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Guidewheel into the plants you already serve. Integrators introduce Guidewheel to their manufacturing customers and support them through installation and beyond, alongside our team.",
+    "url": "https://www.guidewheel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A good fit: Integrators working with multi-plant discrete manufacturers who can support customers before, during and after installation.",
+    "url": "https://www.guidewheel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Open doors. Earn rewards. Ambassadors are people who know manufacturing and introduce Guidewheel to the plants and leaders in their network. Low lift, and we reward every referral that closes.",
+    "url": "https://www.guidewheel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A good fit: People who have worked in or with manufacturing and have live relationships with multi-site manufacturers ready to talk about machine monitoring.",
+    "url": "https://www.guidewheel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Guidewheel | Manufacturing Operating Platform",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "The practical operating platform for manufacturing",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Guidewheel connects your machines and operating context, while our AI-powered platform and team help you choose the next high-value action. From daily production decisions to improvements across plants, you can get more from the equipment and people you already have.",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Powering 500+ leading manufacturers",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Apply a successful change across more machines and plants. A shared operating record helps leaders compare capacity and make informed capital, staffing, and production decisions.",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Give operators, supervisors, plant managers, and leaders a shared view of performance, with the context each person needs to act in their role.",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Keep a record of machine events, team context, actions, and outcomes. Apply what worked at one site across other plants and use the shared evidence to guide the next decision.",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Most manufacturers on Guidewheel see payback in months.",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Read the Fibrix Case Study",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Read the Weatherables Case Study",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "higher equipment utilization reported by Penn Color across its U.S. plants.",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Read the Penn Color Case Study",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "FactoryOps for your industry",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Guidewheel helps teams reduce downtime, boost output, and run more efficient factories.",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "When every plant runs a little differently and data isn’t always aligned, hitting AOP becomes a real challenge. Guidewheel gives you real-time visibility across every site, so you can lead with confidence, uncover hidden losses, and better achieve your production and profitability goals.",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Managing a plant is hard enough without having to guess what’s actually happening on the floor. Guidewheel provides the visibility you need to focus where it matters, so you can prioritize the issues affecting your production targets.",
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Guidewheel brings live machine data, AI-powered software, and manufacturing expertise together to help your team understand downtime and choose the next action. See where time is being lost, respond to the issues that matter, and apply what works across shifts and plants.",
+    "url": "https://www.guidewheel.com/solutions/reduce-downtime",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 500+ leading manufacturers",
+    "url": "https://www.guidewheel.com/solutions/reduce-downtime",
+    "pass": 1
+   },
+   {
+    "quote": "Bring machine events, team-entered reasons, and the actions taken into a shared operating record. Guidewheel's AI-powered software and experts help your team choose the next priority, review whether the change worked, and apply the lesson across plants.",
+    "url": "https://www.guidewheel.com/solutions/reduce-downtime",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Powering 500+ leading manufacturers, from mid-sized plants to Fortune 500 operators",
+    "url": "https://www.guidewheel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re a fully remote team with employees located around the globe.",
+    "url": "https://www.guidewheel.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Employees can take the time off they need, whenever they need it.",
+    "url": "https://www.guidewheel.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Weatherables implemented Guidewheel in less than a day. Sensors connect to capture machine activity, while our team works with yours to confirm the setup, find the first useful improvement, and make the data part of daily decisions. Broader rollout and integrations depend on your requirements.",
+    "url": "https://www.guidewheel.com/solutions/increase-production",
+    "pass": 1
+   },
+   {
+    "quote": "Let’s talk about your plants. Our team works alongside yours to find early wins, guide the highest-value next action, and carry what works across every line, shift, and site.",
+    "url": "https://www.guidewheel.com/industries/industry-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Deployment timing depends on equipment, safe access, connectivity and the agreed scope. Our team helps plan installation, validate the signals and make the first useful data part of daily decisions. One steel customer brought 30 machines online in under a month.",
+    "url": "https://www.guidewheel.com/industries/steel-and-metals",
+    "pass": 1
+   },
+   {
+    "quote": "Timing depends on your machines, site access, connectivity and agreed scope. Our team helps plan installation, validate the setup and make the first useful data part of daily decisions.",
+    "url": "https://www.guidewheel.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Connect old and new equipment, and see value after the setup and required data inputs are validated. Guidewheel's AI and expert team then point your crews to the highest-value next action, and the wins carry across every plant.",
+    "url": "https://www.guidewheel.com/industries/construction-and-building-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Give crews in the quarry, plant, and yard a shared, real-time view of performance so they can adjust fast and keep production flowing.",
+    "url": "https://www.guidewheel.com/industries/construction-and-building-materials",
+    "pass": 1
+   },
+   {
+    "quote": "See how leading manufacturers are improving their operations and shaping the future of manufacturing. These stories show how teams use Guidewheel, the practical operating platform for manufacturing, to connect machine data, act on production losses, and carry improvements across shifts and plants.",
+    "url": "https://www.guidewheel.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "With one shared view of every site, Pretium's teams act on what is happening now and carry what works from plant to plant.",
+    "url": "https://www.guidewheel.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Overcoming traditional barriers to manufacturing digitization by avoiding complex PLC integration and focusing on practical solutions.",
+    "url": "https://www.epicor.com/en/resources/manufacturing-the-future-podcast/guidewheels-transforming-factory-ops-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Guidewheel Revenue 2024: $3.5M Est., $8M Raised",
+    "url": "https://getlatka.com/companies/guidewheel",
+    "pass": 3
+   },
+   {
+    "quote": "Guidewheel has not published its revenue. GetLatka estimates it at about $3.5M a year (October 2024).",
+    "url": "https://getlatka.com/companies/guidewheel",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/guidewheel",
+    "pass": 3
+   },
+   {
+    "quote": "Guidewheel CEO, founders & employees",
+    "url": "https://getlatka.com/companies/guidewheel",
+    "pass": 3
+   },
+   {
+    "quote": "Lauren Dunford founded Guidewheel in 2018 and runs it as CEO. Guidewheel had 53 employees (October 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/guidewheel",
+    "pass": 3
+   },
+   {
+    "quote": "What is Guidewheel's revenue?",
+    "url": "https://getlatka.com/companies/guidewheel",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Guidewheel's revenue at about",
+    "url": "https://getlatka.com/companies/guidewheel",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Guidewheel have?",
+    "url": "https://getlatka.com/companies/guidewheel",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/guidewheel",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/guidewheel",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/guidewheel",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/guidewheel",
+    "pass": 3
+   },
+   {
+    "quote": "Guidewheel Software: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Guidewheel_Software",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Guidewheel_Software",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Guidewheel_Software",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Guidewheel_Software",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Guidewheel_Software",
+    "pass": 3
+   },
+   {
+    "quote": "Head Revenue Operations",
+    "url": "https://growjo.com/company/Guidewheel_Software",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/265273-21",
+    "pass": 3
+   },
+   {
+    "quote": "Guidewheel has 102 total employees.",
+    "url": "https://pitchbook.com/profiles/company/265273-21",
+    "pass": 3
+   },
+   {
+    "quote": "What is Guidewheel’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/265273-21",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Guidewheel is",
+    "url": "https://pitchbook.com/profiles/company/265273-21",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Guidewheel | Partners: Private Equity, Integrators, Resellers & Ambassadors",
+    "url": "https://www.guidewheel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Guidewheel is the data and intelligence layer for 500+ manufacturers. Technology partners connect to it. Channel partners bring it to more plants.",
+    "url": "https://www.guidewheel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Take Guidewheel to your market. Resellers sell, install and support Guidewheel in the markets and customers they know best, and run the customer relationship end to end.",
+    "url": "https://www.guidewheel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Partner as a reseller",
+    "url": "https://www.guidewheel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Brakes, tires, precision parts or stampings: Guidewheel connects machine data, helps guide your team to the highest-value next action, and amplifies what works across shifts and plants. Meet OEM demand with the equipment and people you already have.",
+    "url": "https://www.guidewheel.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "How does it help meet OEM throughput and quality targets?",
+    "url": "https://www.guidewheel.com/industries/automotive",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Receive and share email performance summaries automatically",
+    "url": "https://www.guidewheel.com/solutions/equip-teams",
+    "pass": 1
+   },
+   {
+    "quote": "You can contact or verify outreach from Tim by emailing",
+    "url": "https://techcrunch.com/2022/12/14/guidewheel-lands-9m-series-a-1-for-saas-that-boosts-manufacturing-and-trims-carbon-emissions/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/Guidewheel_Software",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/Guidewheel_Software",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/265273-21",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Guidewheel - LinkedIn — Guidewheel - LinkedIn LinkedIn https://www.linkedin.com > guidewheel",
+    "url": "https://www.linkedin.com/company/guidewheel",
+    "pass": 3
+   },
+   {
+    "quote": "FactoryOps for Every Manufacturing Industry - Guidewheel — FactoryOps for Every Manufacturing Industry - Guidewheel Guidewheel https://www.guidewheel.com > indust...",
+    "url": "https://www.guidewheel.com/industries/industry-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Guidewheel lands $9M Series A-1 for SaaS that boosts ... — Guidewheel lands $9M Series A-1 for SaaS that boosts ... TechCrunch https://techcrunch.com > 2022/12/14",
+    "url": "https://techcrunch.com/2022/12/14/guidewheel-lands-9m-series-a-1-for-saas-that-boosts-manufacturing-and-trims-carbon-emissions/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-first tech for factories\" | Guidewheel posted on the topic — AI-first tech for factories\" | Guidewheel posted on the topic LinkedIn https://www.linkedin.com > posts > guidewheel_every-fac...",
+    "url": "https://www.linkedin.com/posts/guidewheel_every-factory-team-on-earth-can-get-to-peak-activity-7334247251583643648-_WgM",
+    "pass": 3
+   },
+   {
+    "quote": "Guidewheel | World Economic Forum - 世界経済フォーラム — Guidewheel | World Economic Forum - 世界経済フォーラム World Economic Forum https://jp.weforum.org > organizations > guidewheel",
+    "url": "https://jp.weforum.org/organizations/guidewheel",
+    "pass": 3
+   },
+   {
+    "quote": "Guidewheel Case Studies : Real Results from Leading ... — Guidewheel Case Studies : Real Results from Leading ... Guidewheel https://www.guidewheel.com > case-st...",
+    "url": "https://www.guidewheel.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Guidewheel : Finding Product-Market Fit on the Factory Floor — Guidewheel : Finding Product-Market Fit on the Factory Floor Stanford Graduate School of Business https://www.gsb.stanford.edu > guide...",
+    "url": "https://www.gsb.stanford.edu/faculty-research/case-studies/guidewheel-finding-product-market-fit-factory-floor",
+    "pass": 3
+   },
+   {
+    "quote": "Guidewheel | AI-Powered Operating Platform for Manufacturing — Guidewheel | AI-Powered Operating Platform for Manufacturing Guidewheel https://www.guidewheel.com",
+    "url": "https://www.guidewheel.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Episode 52: Guidewheel's Lauren Dunford on Transforming ... — Episode 52: Guidewheel's Lauren Dunford on Transforming ... Epicor https://www.epicor.com > resources",
+    "url": "https://www.epicor.com/en/resources/manufacturing-the-future-podcast/guidewheels-transforming-factory-ops-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "26 Guidewheel Customer Reviews & References — 26 Guidewheel Customer Reviews & References Featured Customers https://www.featuredcustomers.com > ...",
+    "url": "https://www.featuredcustomers.com/vendor/guidewheel",
+    "pass": 3
+   },
+   {
+    "quote": "Guidewheel Revenue 2024: $3.5M Est., $8M Raised - GetLatka — Guidewheel Revenue 2024: $3.5M Est., $8M Raised - GetLatka GetLatka https://getlatka.com > guidewheel",
+    "url": "https://getlatka.com/companies/guidewheel",
+    "pass": 3
+   },
+   {
+    "quote": "Guidewheel Software Revenue and Competitors - Growjo — Guidewheel Software Revenue and Competitors - Growjo Growjo https://growjo.com > company > Gui...",
+    "url": "https://growjo.com/company/Guidewheel_Software",
+    "pass": 3
+   },
+   {
+    "quote": "Guidewheel 2026 Company Profile - PitchBook — Guidewheel 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/265273-21",
+    "pass": 3
+   },
+   {
+    "quote": "Announcing our $31M Series B, led by BlackRock and ... — Announcing our $31M Series B, led by BlackRock and ... Guidewheel https://www.guidewheel.com > blog",
+    "url": "https://www.guidewheel.com/blog/announcing-our-31m-series-b-led-by-blackrock-and-temaseks-decarbonization-partners-fund",
+    "pass": 3
+   },
+   {
+    "quote": "Guidewheel - Crunchbase Company Profile & Funding — Guidewheel - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > guide...",
+    "url": "https://www.crunchbase.com/organization/guidewheel",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Guidewheel - LinkedIn Guidewheel - LinkedIn LinkedIn https://www.linkedin.com > guidewheel",
+    "url": "https://www.linkedin.com/company/guidewheel",
+    "pass": 3
+   },
+   {
+    "quote": "Lauren Dunford - CEO and Co-Founder, Guidewheel | LinkedIn Lauren Dunford - CEO and Co-Founder, Guidewheel | LinkedIn LinkedIn https://www.linkedin.com > ...",
+    "url": "https://www.linkedin.com/in/lauren-dunford-6887ab7",
+    "pass": 3
+   },
+   {
+    "quote": "Weston McBride - Co-Founder at Guidewheel - LinkedIn Weston McBride - Co-Founder at Guidewheel - LinkedIn LinkedIn https://www.linkedin.com > westonm...",
+    "url": "https://www.linkedin.com/in/westonmcbride",
+    "pass": 3
+   },
+   {
+    "quote": "Charlotte (Ward) Brodey - Guidewheel - LinkedIn Charlotte (Ward) Brodey - Guidewheel - LinkedIn LinkedIn https://www.linkedin.com > charlotte-...",
+    "url": "https://www.linkedin.com/in/charlotte-ward-brodey-96010390",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Guidewheel (@guidewheelsoftware) - Facebook Guidewheel (@guidewheelsoftware) - Facebook Facebook https://www.facebook.com > ... > Software Company",
+    "url": "https://www.facebook.com/guidewheelsoftware/",
+    "pass": 3
+   },
+   {
+    "quote": "Guidewheel - Facebook Guidewheel - Facebook Facebook https://www.facebook.com > guidewheelsoftware > posts",
+    "url": "https://www.facebook.com/guidewheelsoftware/posts/since-implementing-guidewheel-our-goal-has-been-90-or-better-uptime-and-we-have-/1312280800904938/",
+    "pass": 3
+   },
+   {
+    "quote": "Guide Wheel with Bearing Assembly Showcase | Blade Wang Guide Wheel with Bearing Assembly Showcase | Blade Wang Facebook https://www.facebook.com > videos > guide-wheel",
+    "url": "https://www.facebook.com/blade.wang.2025/videos/guide-wheel/1617967569937123/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.guidewheel.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.guidewheel.com/company/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.guidewheel.com/company/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.guidewheel.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.guidewheel.com/solutions/factoryops-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.guidewheel.com/solutions/reduce-downtime",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.guidewheel.com/solutions/increase-production",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.guidewheel.com/solutions/equip-teams",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.guidewheel.com/solutions/continuously-improve",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.guidewheel.com/industries/industry-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.guidewheel.com/industries/plastics-and-packaging",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.guidewheel.com/industries/food-and-beverage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.guidewheel.com/industries/steel-and-metals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.guidewheel.com/industries/automotive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.guidewheel.com/industries/construction-and-building-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.guidewheel.com/industries/consumer-goods",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.guidewheel.com/case-studies/pack-labs-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.guidewheel.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.guidewheel.com/pricing",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/680ab1b52d269fa62a84d433/68e68d1ce2b9a734cc8e2eba_decarb%20partners.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/680ab1b52d269fa62a84d433/68951b4299d6152395058f88_private-equity-partners.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/680ab1b52d269fa62a84d433/68951b4299d6152395058f88_private-equity-partners.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/680ab1b52d269fa62a84d433/691e1b322999dc48b7479c28_4e1364a940cd6154661a09d7d587de4a_guidewheel%20employee%20with%20customers.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://esgjournaljapan.com/world-news/41134",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webcg.net/articles/-/54501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manageengine.jp/pace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Gcr01pLRick",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.engeniustech.com/jp/where-to-buy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digima-japan.com/knowhow/united_states/d-globalbusiness-250205.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/guidewheel",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://techcrunch.com/2022/12/14/guidewheel-lands-9m-series-a-1-for-saas-that-boosts-manufacturing-and-trims-carbon-emissions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/guidewheel_every-factory-team-on-earth-can-get-to-peak-activity-7334247251583643648-_WgM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.gsb.stanford.edu/faculty-research/case-studies/guidewheel-finding-product-market-fit-factory-floor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.epicor.com/en/resources/manufacturing-the-future-podcast/guidewheels-transforming-factory-ops-with-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/guidewheel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Guidewheel_Software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/265273-21",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/guidewheel",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/lauren-dunford-6887ab7",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/westonmcbride",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/charlotte-ward-brodey-96010390",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/guidewheelsoftware/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/guidewheelsoftware/posts/since-implementing-guidewheel-our-goal-has-been-90-or-better-uptime-and-we-have-/1312280800904938/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/blade.wang.2025/videos/guide-wheel/1617967569937123/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Guidewheel 日本 導入",
+   "results": [
+    "https://www.stellantis.jp/",
+    "https://esgjournaljapan.com/world-news/41134",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.webcg.net/articles/-/54501",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://cartune.co.jp/magazine/topics/3063",
+    "https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=160144/",
+    "https://www.netdenjd.com/archives/708202",
+    "https://www.atx-research.co.jp/contents/Guidewheel",
+    "https://mes-dx.com/vendors/guidewheel"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Guidewheel 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.manageengine.jp/pace/",
+    "https://www.youtube.com/watch?v=Gcr01pLRick",
+    "https://www.engeniustech.com/jp/where-to-buy/",
+    "https://www.digima-japan.com/knowhow/united_states/d-globalbusiness-250205.php",
+    "https://prtimes.jp/main/html/rd/p/000000207.000004876.html",
+    "https://www.guidewire.com/ja",
+    "https://www.componentsource.co.jp/resellers",
+    "https://www.youtube.com/watch?v=RJgCqiSOwgs",
+    "https://www.elysium-global.com/ja/about/resellers/",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Guidewheel Japan",
+   "results": [
+    "https://www.linkedin.com/company/guidewheel",
+    "https://www.guidewheel.com/industries/industry-overview",
+    "https://techcrunch.com/2022/12/14/guidewheel-lands-9m-series-a-1-for-saas-that-boosts-manufacturing-and-trims-carbon-emissions/",
+    "https://www.linkedin.com/posts/guidewheel_every-factory-team-on-earth-can-get-to-peak-activity-7334247251583643648-_WgM",
+    "https://jp.weforum.org/organizations/guidewheel",
+    "https://kaizenflow.us/compare/guidewheel/",
+    "https://esgjournaljapan.com/world-news/41134",
+    "https://www.linkedin.com/in/lauren-dunford-6887ab7",
+    "https://www.guidewheel.com/",
+    "https://www.sap.com/japan/products/scm/partners/guidewheel-guidewheel-aipowered-factoryops.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Guidewheel manufacturing customer case study",
+   "results": [
+    "https://www.guidewheel.com/case-studies",
+    "https://www.gsb.stanford.edu/faculty-research/case-studies/guidewheel-finding-product-market-fit-factory-floor",
+    "https://www.guidewheel.com/",
+    "https://www.epicor.com/en/resources/manufacturing-the-future-podcast/guidewheels-transforming-factory-ops-with-ai/",
+    "https://www.featuredcustomers.com/vendor/guidewheel",
+    "https://www.youtube.com/watch?v=kSCldQPqgQE",
+    "https://www.businesswire.com/news/home/20250819247395/en/Guidewheel-Appoints-Charles-Lawson-as-Chief-Revenue-Officer-to-Expand-AIpowered-FactoryOps-Worldwide",
+    "https://pike-puma-p4d9.squarespace.com/",
+    "https://www.sap.com/products/scm/partners/guidewheel-guidewheel-aipowered-factoryops.html",
+    "https://www.guidewheel.com/case-studies/plastics-manufacturer-improves-quality-and-oee-using-guidewheel"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Guidewheel white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.hiringthing.com/blog/guide-to-white-label-saas-partnerships",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://www.guidewheel.com/",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Guidewheel founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/guidewheel",
+    "https://growjo.com/company/Guidewheel_Software",
+    "https://pitchbook.com/profiles/company/265273-21",
+    "https://www.guidewheel.com/blog/announcing-our-31m-series-b-led-by-blackrock-and-temaseks-decarbonization-partners-fund",
+    "https://www.crunchbase.com/organization/guidewheel",
+    "https://forgeglobal.com/guidewheel_ipo/",
+    "https://www.zoominfo.com/c/guidewheel/552701889",
+    "https://www.businesswire.com/news/home/20240813639025/en/Guidewheel-raises-%2431M-Series-B-to-scale-AI-powered-FactoryOps-across-factory-floors-globally",
+    "https://techcrunch.com/2022/12/14/guidewheel-lands-9m-series-a-1-for-saas-that-boosts-manufacturing-and-trims-carbon-emissions/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com Guidewheel",
+   "results": [
+    "https://note.com/ted_curator/n/nfb92391021ba",
+    "https://note.com/kamen_a/n/na7b5fbfd51ca?hl=en",
+    "https://note.com/data_engineer_bi/n/n93a877c5b95a",
+    "https://note.com/igariryo/n/n7a65e185b2d3",
+    "https://note.com/skrappress/n/n1f46fbe4fe93",
+    "https://note.com/machimeguri/n/n331ab814177c",
+    "https://note.com/data_engineer_bi/n/n93a877c5b95a?hl=ko",
+    "https://note.com/qa",
+    "https://note.com/tag/我々は宇宙人",
+    "https://note.com/tag/ポケカ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com Guidewheel",
+   "results": [
+    "https://x.com/moza_racing/status/2031355138372465109",
+    "https://x.com/brigidmccaw",
+    "https://x.com/UncleWalt1971/status/2042596963720245300",
+    "https://x.com/greycroftvc",
+    "https://x.com/weston_mcbride/status/762813182637379584",
+    "https://x.com/BWCnews",
+    "https://x.com/s_tompki/status/2112681492803649788/photo/1",
+    "https://x.com/digi_chinchilla/status/2101641960759140848",
+    "https://x.com/zangief_sf",
+    "https://x.com/s_tompki/status/2113183645615980766"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com Guidewheel",
+   "results": [
+    "https://www.linkedin.com/company/guidewheel",
+    "https://www.linkedin.com/in/lauren-dunford-6887ab7",
+    "https://www.linkedin.com/in/westonmcbride",
+    "https://www.linkedin.com/in/charlotte-ward-brodey-96010390",
+    "https://www.linkedin.com/posts/lauren-dunford-6887ab7_guidewheel-ai-powered-operating-platform-activity-7521179571937935361-Sldh",
+    "https://www.linkedin.com/in/lawrencehan",
+    "https://www.linkedin.com/posts/guidewheel_every-factory-team-on-earth-can-get-to-peak-activity-7334247251583643648-_WgM",
+    "https://www.linkedin.com/posts/guidewheel_guidewheel-running-on-reality-closing-activity-7524470953100124161-ibv-",
+    "https://www.linkedin.com/in/georg-liechtenstein",
+    "https://www.linkedin.com/in/jacquelineberg"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Guidewheel",
+   "results": [
+    "https://www.facebook.com/guidewheelsoftware/",
+    "https://www.facebook.com/MSCIpage/posts/msci-added-two-new-members-in-augustplease-join-us-in-welcoming-guidewheel-for-t/1325881312763680/",
+    "https://www.facebook.com/guidewheelsoftware/posts/since-implementing-guidewheel-our-goal-has-been-90-or-better-uptime-and-we-have-/1312280800904938/",
+    "https://www.facebook.com/blade.wang.2025/videos/guide-wheel/1617967569937123/",
+    "https://www.facebook.com/MechanicSteve92/videos/highway-emergency-rescue-guide-wheel-replacement/1510806060722383/",
+    "https://www.facebook.com/61553111605055/posts/understanding-wheel-hubs-a-visual-guidewheel-hubs-are-essential-components-of-an/122180826350103720/",
+    "https://www.facebook.com/MechanicSteve92/videos/replace-of-lonking-excavator-chain-guide-wheel-and-tightening-cylinder-grease-ni/462251286524972/",
+    "https://www.facebook.com/gilbert.nyamberi.5/photos/understanding-wheel-alignment-a-visual-guidewheel-alignment-also-known-as-wheel-/1509907977536430/",
+    "https://www.facebook.com/HeritagesChicken88/posts/chicken-feeding-guide-wheel/1375366757931293/",
+    "https://www.facebook.com/guidewheelsoftware/videos/guidewheel-is-transforming-factory-operations-by-empowering-manufacturers-to-opt/488758396919123/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Guidewheel note 社長",
+   "results": [
+    "https://note.com/ai_shacho/n/n4f9f55532375",
+    "https://note.com/ai_shacho",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://note.flywheel.jp/",
+    "https://note.com/ai_shacho/m/m34d8af9f2cbb",
+    "https://dimension-note.jp/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://x.com/flywheel_jp/status/2112378317475062028",
+    "https://note.findy.co.jp/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Guidewheel X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=CyWZE7EhZcI&vl=ja",
+    "https://tech-lab.sios.jp/archives/54667",
+    "https://youmind.com/ja-JP/x",
+    "https://x.com/munou_ac/article/2061029516869501214",
+    "https://www.youtube.com/watch?v=PZ9qNyvHZTs",
+    "https://note.com/munou_ac/n/n56e39872c7a1",
+    "https://lp.yoom.fun/fb-templates/358709",
+    "https://felo.ai/ja/tools/x-research",
+    "https://www.ichiyajo.jp/notes/2026-05-18-x-auto-post-guide-2026/",
+    "https://x.com/guidewheel1"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部27頁・検索12回）"
+ }
+}

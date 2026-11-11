@@ -1,0 +1,2006 @@
+{
+ "name": "Workato",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜NG",
+ "researched_at": "2026-11-11T05:11:31.636641+00:00",
+ "official_url": "https://www.workato.com",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Contact",
+    "value": "(844) 469-6752",
+    "url": "https://www.workato.com/ja-JP/partners",
+    "pass": 1
+   },
+   {
+    "label": "Contact",
+    "value": "(844) 469-6752",
+    "url": "https://www.workato.com/ja-JP/partners/system_integrators",
+    "pass": 1
+   },
+   {
+    "label": "Contact",
+    "value": "(844) 469-6752",
+    "url": "https://www.workato.com/ja-JP/customers",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$415M",
+    "url": "https://getlatka.com/companies/workato",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "[PR] 11/18-19日 WOW Tokyo 2026 でAgentic AIの最新事例を共有",
+    "url": "https://www.workato.com/ja-JP",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise SkillsやEnterprise MCPを活用し、AIエージェントの利用コストを最適化",
+    "url": "https://www.workato.com/ja-JP",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise MCPにより、AIエージェントを1,400以上の業務アプリと安全に接続",
+    "url": "https://www.workato.com/ja-JP",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise MCP+オーケストレーション",
+    "url": "https://www.workato.com/ja-JP/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise MCP for SaaS",
+    "url": "https://www.workato.com/ja-JP/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Workato is trusted by 25,000+ organizations — including 50% of the Fortune 500. Our Enterprise MCP sits between your AI investments and your enterprise systems, providing the stable, reusable foundation that turns experimental AI into operational AI.",
+    "url": "https://www.workato.com/ja-JP/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with Workato to design, implement, and scale the Control and Execution Platform for Enterprise AI for your clients, from governed orchestration to agentic AI rollouts. Build a certified practice backed by technical enablement, deal support, and a platform enterprises are standardizing on.",
+    "url": "https://www.workato.com/ja-JP/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate your product with Workato's execution and governance layer so your customers can connect, orchestrate, and run AI agents across every system they own. Grow your reach through co-selling, referral revenue, and a deeper foothold in how enterprises govern and run AI.",
+    "url": "https://www.workato.com/ja-JP/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprises powered by Workato and our Partners",
+    "url": "https://www.workato.com/ja-JP/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise MCP+オーケストレーション",
+    "url": "https://www.workato.com/ja-JP/partners/system_integrators",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise MCP for SaaS",
+    "url": "https://www.workato.com/ja-JP/partners/system_integrators",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Workbot x10",
+    "url": "https://www.workato.com/ja-JP/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise MCPのすべての機能に加えて",
+    "url": "https://www.workato.com/ja-JP/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "※Free/Proプランは米国データセンターで提供されます",
+    "url": "https://www.workato.com/ja-JP/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Virtual Private Workato(VPW)",
+    "url": "https://www.workato.com/ja-JP/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise MCP+オーケストレーション",
+    "url": "https://www.workato.com/ja-JP/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise MCP for SaaS",
+    "url": "https://www.workato.com/ja-JP/customers",
+    "pass": 1
+   },
+   {
+    "quote": "WeWork Prestige Cube, Cabin No. GRA 113, Site No. 26 Laskar, Hosur Rd, Bengaluru, Karnataka",
+    "url": "https://www.workato.com/ja-JP/about_us",
+    "pass": 1
+   },
+   {
+    "quote": "WeWork Prestige Cube, Cabin No. GRA 113, Site No. 26 Laskar, Hosur Rd, Bengaluru, Karnataka",
+    "url": "https://www.workato.com/ja-JP/careers",
+    "pass": 1
+   },
+   {
+    "quote": "特にWorkatoのEnterprise MCPは、グループ単位でアクセススコープを絞り、該当するエンドユーザーのみが利用できる認証の仕組みを備えていました",
+    "url": "https://www.workato.com/ja-JP/customers/caddi-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Workato Enterprise MCPとは、既存のアプリやプロセスを、安全でガバナンスの効いたMCPサーバーに変え、AIエージェントが企業システム上で実際の業務を実行できるようにするWorkatoのプラットフォームです",
+    "url": "https://www.workato.com/ja-JP/customers/caddi-2026",
+    "pass": 1
+   },
+   {
+    "quote": "SHIFT、Enterprise MCP基盤でAIエージェント活用を推進",
+    "url": "https://www.workato.com/ja-JP/customers/shift",
+    "pass": 1
+   },
+   {
+    "quote": "現在はEnterprise MCP基盤として、受注登録や請求処理などの基幹業務にAIエージェントを組み込み、業務によっては40%の効率化を実現",
+    "url": "https://www.workato.com/ja-JP/customers/shift",
+    "pass": 1
+   },
+   {
+    "quote": "現在最も注力が進んでいるのが、AIエージェントと基幹システムを接続するEnterprise MCP基盤としての活用です",
+    "url": "https://www.workato.com/ja-JP/customers/shift",
+    "pass": 1
+   },
+   {
+    "quote": "「当初はChatGPT EnterpriseをはじめとするチャットベースのAI活用が中心でしたが、真の業務効率化を実現するためには、社員が日常的に使う業務システムとAIをシームレスに連携させることが不可欠でした",
+    "url": "https://www.workato.com/ja-JP/customers/coincheck",
+    "pass": 1
+   },
+   {
+    "quote": "IT, Digital Networks, Enterprise Architecture, Product Management",
+    "url": "https://www.workato.com/ja-JP/customers/vodafone",
+    "pass": 1
+   },
+   {
+    "quote": "Vodafone is one of the world’s largest telecommunications companies, operating in over 20 markets. The company’s mission is to connect for a better future. Empowering people, protecting the planet, and building trust through technology and innovation.",
+    "url": "https://www.workato.com/ja-JP/customers/vodafone",
+    "pass": 1
+   },
+   {
+    "quote": "“Our mission is to enable and empower people while protecting the planet and maintaining trust,” said Heather Gilbert, Principal Product Manager in Vodafone’s IT4IT Platform Engineering team. “We focus on customer relationships, simplicity, and growth, all underpinned by giving our people the tools they need to succeed.”",
+    "url": "https://www.workato.com/ja-JP/customers/vodafone",
+    "pass": 1
+   },
+   {
+    "quote": "Vodafone’s digital transformation spans its entire ecosystem — from core networks to enterprise IT — uniting teams, platforms, and processes to deliver a consistent experience for customers and employees alike.",
+    "url": "https://www.workato.com/ja-JP/customers/vodafone",
+    "pass": 1
+   },
+   {
+    "quote": "\"Workato is the glue that connects VOIS systems, processes and people across Digital & IT as we drive the next chapter in Vodafone’s transformation.\"",
+    "url": "https://www.workato.com/ja-JP/customers/vodafone",
+    "pass": 1
+   },
+   {
+    "quote": "Challenge 2: Manual processes and slow delivery cycles",
+    "url": "https://www.workato.com/ja-JP/customers/vodafone",
+    "pass": 1
+   },
+   {
+    "quote": "Vodafone’s global scale brought complexity. Years of growth and acquisitions resulted in multiple legacy systems, disconnected platforms, and manual workflows that slowed progress and frustrated teams.",
+    "url": "https://www.workato.com/ja-JP/customers/vodafone",
+    "pass": 1
+   },
+   {
+    "quote": "“Vodafone operates across more than 20 markets, each with its own technology stack,” said Florin Creangă, Principal Enterprise Architect. “Our biggest challenge was modernizing and unifying these platforms so we could deliver seamless customer experiences and drive growth.”",
+    "url": "https://www.workato.com/ja-JP/customers/vodafone",
+    "pass": 1
+   },
+   {
+    "quote": "Principal Product Manager Service Operations in IT4IT Platform Engineering, Vodafone",
+    "url": "https://www.workato.com/ja-JP/customers/vodafone",
+    "pass": 1
+   },
+   {
+    "quote": "Vodafone adopted Workato’s cloud-native orchestration platform to unify systems, simplify operations, and empower teams across global markets. Replacing multiple legacy systems, Workato provided a single integration layer that connected data and workflows through pre-built connectors and low-code tools, cutting development time and improving governance.",
+    "url": "https://www.workato.com/ja-JP/customers/vodafone",
+    "pass": 1
+   },
+   {
+    "quote": "The shift enabled Vodafone to build a modular, API-first architecture, creating a foundation for scalable growth and faster delivery. With Workato’s Automation HQ, central control and governance plane, business teams were provided with self-service capabilities while IT maintained oversight, ensuring secure and scalable collaboration.",
+    "url": "https://www.workato.com/ja-JP/customers/vodafone",
+    "pass": 1
+   },
+   {
+    "quote": "The result is a faster, more connected enterprise where teams innovate confidently, developers focus on outcomes, and Vodafone continues to scale global automation with efficiency and control.",
+    "url": "https://www.workato.com/ja-JP/customers/vodafone",
+    "pass": 1
+   },
+   {
+    "quote": "8+ engineers freed for higher-value projects",
+    "url": "https://www.workato.com/ja-JP/customers/vodafone",
+    "pass": 1
+   },
+   {
+    "quote": "Principal Enterprise Architect, Vodafone",
+    "url": "https://www.workato.com/ja-JP/customers/vodafone",
+    "pass": 1
+   },
+   {
+    "quote": "Vodafone’s transformation of VOIS from a traditional shared services function into a commercial, profit-generating business significantly raised the bar for agility, efficiency, and competitiveness at scale. To support this shift, Vodafone needed technology that could deliver consistency across the enterprise while enabling teams to move faster and operate more independently.",
+    "url": "https://www.workato.com/ja-JP/customers/vodafone",
+    "pass": 1
+   },
+   {
+    "quote": "Supporting a global footprint that spans 15 countries, 40+ partner markets, and multiple lines of business requires a highly governed yet flexible operating model.",
+    "url": "https://www.workato.com/ja-JP/customers/vodafone",
+    "pass": 1
+   },
+   {
+    "quote": "“The game changer for us has been Automation HQ,” said Heather Gilbert. “It gives our business areas their own managed workspaces — secure, scalable, and supported by IT.” This approach has reduced manual workarounds and helped teams deliver change faster across Vodafone’s Digital & IT landscape.",
+    "url": "https://www.workato.com/ja-JP/customers/vodafone",
+    "pass": 1
+   },
+   {
+    "quote": "VOIS and Vodafone see enormous potential in Workato to safely exploit Model Context Protocol (MCP) for agentic integrations at Enterprise scale. In parallel, Vodafone and Workato are co-building an AI Lab as part of the VOIS Re-wired initiative, accelerating experimentation and the deployment of AI-powered use cases across the business.",
+    "url": "https://www.workato.com/ja-JP/customers/vodafone",
+    "pass": 1
+   },
+   {
+    "quote": "Certification Programs",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Every employee invests in upskilling, companywide",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "led a company-wide push for every employee to spend 5% of their time upskilling — about 2 hours per week, 2.5 workweeks each year.",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "To bring that vision to life, Workato embedded LinkedIn Learning directly into onboarding, so new hires start their learning journey with a personalized plan from day one. They also connected learning to the performance review cycle, giving employees a",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": ", tech and leadership & management upskilling content.",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "both their talent architecture and employees’ upskilling experiences",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Workato’s deciding factor was not just the quality and relevance of upskilling content — it was the ability to house their talent architecture and their employees' learning experience in the same place, updated by real-time skills intelligence from LinkedIn's 1 billion+ member network.",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "More productive one-on-ones",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Managers and employees enter career conversations more prepared, with a",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Compared to Workato’s previous learning platform, LinkedIn Learning drove:",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Workato is a cloud-based platform for automation, integration, and AI orchestration trusted by more than 50% of the Fortune 500 to connect every application, data source, and process at scale. Workato helps businesses realize the true potential of agents by bringing them from the edge of each business to the core.",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how LinkedIn products can help you",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "White-label integrations let SaaS companies offer branded, native integrations inside their product without building connectors from scratch.",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Key evaluation criteria include connector depth, white-labeling options, pricing model, deployment speed, and security certifications (SOC 2, GDPR).",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Albato Embedded offers 1,000+ connectors, full white-labeling, published plan pricing, and a typical go-live of 30 to 45 days.",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "A white-label SaaS platform lets you sell software under your own brand, from marketing tools to CRMs to chatbots. This guide focuses on one high-impact type: a",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "White-label integrations allow SaaS companies to embed pre-built connectors directly into their products under their own brand. Instead of building API integrations in-house or sending users to external tools, you can deploy a fully branded integration hub that feels native to your application.",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "[PR] 11/18-19日 WOW Tokyo 2026 でAgentic AIの最新事例を共有",
+    "url": "https://www.workato.com/ja-JP",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社Ｌｏｏｏｐ、Workatoを導入し業務プロセスの自動化を推進",
+    "url": "https://www.workato.com/ja-JP",
+    "pass": 1
+   },
+   {
+    "quote": "キャディ株式会社様 導入事例｜社内申請対応の80％を自動化、月20時間の定型業務を削減",
+    "url": "https://www.workato.com/ja-JP",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社出前館様 導入事例｜アカウント削除業務を自動化し92％の工数削減を達成",
+    "url": "https://www.workato.com/ja-JP",
+    "pass": 1
+   },
+   {
+    "quote": "Workatoと連携する日本のパートナー企業をご紹介します",
+    "url": "https://www.workato.com/ja-JP/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Workato導入事例｜企業の自動化・DX活用成功ストーリー | Workato",
+    "url": "https://www.workato.com/ja-JP/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Workato株式会社（法人番号：0104-01-162655）",
+    "url": "https://www.workato.com/ja-JP/about_us",
+    "pass": 1
+   },
+   {
+    "quote": "〒100-6609 東京都千代田区丸の内1-9-2 グラントウキョウサウスタワー9階",
+    "url": "https://www.workato.com/ja-JP/about_us",
+    "pass": 1
+   },
+   {
+    "quote": "THE COLLECTIVE Grand Tokyo South Tower 9F, 1 Chome-9-2 Marunouchi,",
+    "url": "https://www.workato.com/ja-JP/about_us",
+    "pass": 1
+   },
+   {
+    "quote": "Chiyoda City, Tokyo",
+    "url": "https://www.workato.com/ja-JP/about_us",
+    "pass": 1
+   },
+   {
+    "quote": "Gran Tokyo South Tower 9F, 1-9-2 Marunouchi, Chiyoda, Tokyo",
+    "url": "https://www.workato.com/ja-JP/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Workato Japanの募集中ポジションをご覧ください",
+    "url": "https://www.workato.com/ja-JP/careers",
+    "pass": 1
+   },
+   {
+    "quote": "東京都、日本",
+    "url": "https://www.workato.com/ja-JP/customers/caddi-2026",
+    "pass": 1
+   },
+   {
+    "quote": "「モノづくり産業のポテンシャルを解放する」をミッションに2017年に設立されたキャディ株式会社は、製造業に特化したバーティカルAIプラットフォームを提供する企業です",
+    "url": "https://www.workato.com/ja-JP/customers/caddi-2026",
+    "pass": 1
+   },
+   {
+    "quote": "東京の本社に加え、関西・名古屋・福岡、さらに米国・ベトナム・タイにも拠点を構え、グローバルで従業員900名超の規模に成長しています",
+    "url": "https://www.workato.com/ja-JP/customers/caddi-2026",
+    "pass": 1
+   },
+   {
+    "quote": "東京都、日本",
+    "url": "https://www.workato.com/ja-JP/customers/orixbank",
+    "pass": 1
+   },
+   {
+    "quote": "東京都、日本",
+    "url": "https://www.workato.com/ja-JP/customers/shift",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社SHIFTは、ソフトウェアテストを起点とした品質保証サービスを核に、DXの総合サービス企業として急成長を続けてきました",
+    "url": "https://www.workato.com/ja-JP/customers/shift",
+    "pass": 1
+   },
+   {
+    "quote": "東京都、日本",
+    "url": "https://www.workato.com/ja-JP/customers/coincheck",
+    "pass": 1
+   },
+   {
+    "quote": "コインチェック株式会社は、2027年に施行が見込まれる金融商品取引法改正を見据え、今後の市場環境の変化に柔軟に対応できる組織体制の構築に着手しました",
+    "url": "https://www.workato.com/ja-JP/customers/coincheck",
+    "pass": 1
+   },
+   {
+    "quote": "2027年度に施行が見込まれる金融商品取引法改正を見据え、コインチェック株式会社が選んだ答えは\"人を増やす\"ことではなく、\"一人ひとりの生産性をAIで最大化する\"ことでした",
+    "url": "https://www.workato.com/ja-JP/customers/coincheck",
+    "pass": 1
+   },
+   {
+    "quote": "メルカリ、Workatoで年間250人日を削減 | AIガバナンスと全社自動化基盤の導入事例 | Workato",
+    "url": "https://www.workato.com/ja-JP/customers/mercari",
+    "pass": 1
+   },
+   {
+    "quote": "東京都、日本",
+    "url": "https://www.workato.com/ja-JP/customers/mercari",
+    "pass": 1
+   },
+   {
+    "quote": "東京都、日本",
+    "url": "https://www.workato.com/ja-jp/customers/demaecan",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社出前館は1999年に設立され、アプリやサイトから簡単に注文できる国内最大級のデリバリーサービスを全国47都道府県に展開しています",
+    "url": "https://www.workato.com/ja-jp/customers/demaecan",
+    "pass": 1
+   },
+   {
+    "quote": "導入背景、活用方法、得られた成果など、実際の取り組みをまとめた導入事例資料をご覧いただけます",
+    "url": "https://www.workato.com/ja-jp/customers/demaecan",
+    "pass": 1
+   },
+   {
+    "quote": "第19回 JWUG (Japan Workato User Group) Meetup @ WeWork 御堂筋フロンティア (大阪開催)",
+    "url": "https://note.com/workato",
+    "pass": 3
+   },
+   {
+    "quote": "World of Workato Tokyo 2026での見どころを紹介! (お客様セッション編)",
+    "url": "https://note.com/workato",
+    "pass": 3
+   },
+   {
+    "quote": "第18回 JWUG (Japan Workato User Group) Meetup @清水建設NOVARE",
+    "url": "https://note.com/workato",
+    "pass": 3
+   },
+   {
+    "quote": "第17回 JWUG (Japan Workato User Group) Meetup @SHIFT社オフィス",
+    "url": "https://note.com/workato",
+    "pass": 3
+   },
+   {
+    "quote": "WOW Tokyo 2026 開催決定！AIで再構築する企業の未来を、2日間で体感する",
+    "url": "https://note.com/workato",
+    "pass": 3
+   },
+   {
+    "quote": "[Tried it] Automating newsletter operations with Workato × Gemini × Marketo｜アンダーワークス株式会社",
+    "url": "https://note.com/underworks_dmj/n/nee2c93559bdd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AIROからOttoまでーーWorkato: 2026年5～7月の製品アナウンス｜Workato Japan",
+    "url": "https://note.com/workato/n/n7325f9c6342a",
+    "pass": 3
+   },
+   {
+    "quote": "Workato AI Marketplace日本語版とWorkato Docs最新日本語版の公開",
+    "url": "https://note.com/workato/n/n7325f9c6342a",
+    "pass": 3
+   },
+   {
+    "quote": "の日本語版が登場し、製品マニュアルである",
+    "url": "https://note.com/workato/n/n7325f9c6342a",
+    "pass": 3
+   },
+   {
+    "quote": "第19回 JWUG (Japan Workato User Group) Meetup @ WeWork 御堂筋フロンティア (大阪開催)",
+    "url": "https://note.com/hashtag/workato",
+    "pass": 3
+   },
+   {
+    "quote": "第18回 JWUG (Japan Workato User Group) Meetup @清水建設NOVARE",
+    "url": "https://note.com/hashtag/workato",
+    "pass": 3
+   },
+   {
+    "quote": "World of Workato Tokyo 2026での見どころを紹介! (お客様セッション編)",
+    "url": "https://note.com/hashtag/workato",
+    "pass": 3
+   },
+   {
+    "quote": "WOW Tokyo 2026 開催決定！AIで再構築する企業の未来を、2日間で体感する",
+    "url": "https://note.com/hashtag/workato",
+    "pass": 3
+   },
+   {
+    "quote": "第17回 JWUG (Japan Workato User Group) Meetup @SHIFT社オフィス",
+    "url": "https://note.com/hashtag/workato",
+    "pass": 3
+   },
+   {
+    "quote": "第16回 JWUG (Japan Workato User Group) Meetup @メルカリ社オフィス",
+    "url": "https://note.com/hashtag/workato",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Workato is trusted by 25,000+ organizations — including 50% of the Fortune 500. Our Enterprise MCP sits between your AI investments and your enterprise systems, providing the stable, reusable foundation that turns experimental AI into operational AI.",
+    "url": "https://www.workato.com/ja-JP/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Workato Case Study | LinkedIn",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Workato is a cloud-based platform for automation, integration, and AI orchestration trusted by more than 50% of the Fortune 500 to connect every application, data source, and process at scale. Workato helps businesses realize the true potential of agents by bringing them from the edge of each business to the core.",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Additionally, Workato enables Reverse ETL, allowing data from cloud warehouses to be pushed into operational tools like CRMs or marketing platforms. Event-based triggers and schema introspection simplify change data capture and reduce manual configuration. The platform also supports querying and transforming data stored in CSV, JSON, or Excel files within Workato",
+    "url": "https://research.contrary.com/company/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Workato sells to IT, Marketing, HR, Finance, Sales, Success/Support, and Product functions across Manufacturing, Retail, Logistics, Healthcare, Media, BPO, and Non-profit industries. As of June 2025, customers include",
+    "url": "https://research.contrary.com/company/workato",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Workato is trusted by 25,000+ organizations — including 50% of the Fortune 500. Our Enterprise MCP sits between your AI investments and your enterprise systems, providing the stable, reusable foundation that turns experimental AI into operational AI.",
+    "url": "https://www.workato.com/ja-JP/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate your product with Workato's execution and governance layer so your customers can connect, orchestrate, and run AI agents across every system they own. Grow your reach through co-selling, referral revenue, and a deeper foothold in how enterprises govern and run AI.",
+    "url": "https://www.workato.com/ja-JP/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Plot No 30/C part of Sy. No. 83/1 Hyderabad Knowledge City, Aurobindo Orbit, Tower 1 Hyderabad",
+    "url": "https://www.workato.com/ja-JP/about_us",
+    "pass": 1
+   },
+   {
+    "quote": "Plot No 30/C part of Sy. No. 83/1 Hyderabad Knowledge City, Aurobindo Orbit, Tower 1",
+    "url": "https://www.workato.com/ja-JP/careers",
+    "pass": 1
+   },
+   {
+    "quote": "国産SaaSや社内固有のシステムを含めると、公式のMCPを提供していないサービスも多く、また、「誰が操作したか」を明確に管理できるガバナンス基盤が整っていないままAI活用を拡大することは、親会社の上場に伴う米国SOX監査対応の観点からも許容できませんでした",
+    "url": "https://www.workato.com/ja-JP/customers/coincheck",
+    "pass": 1
+   },
+   {
+    "quote": "Vodafone’s digital transformation spans its entire ecosystem — from core networks to enterprise IT — uniting teams, platforms, and processes to deliver a consistent experience for customers and employees alike.",
+    "url": "https://www.workato.com/ja-JP/customers/vodafone",
+    "pass": 1
+   },
+   {
+    "quote": "Vodafone’s global scale brought complexity. Years of growth and acquisitions resulted in multiple legacy systems, disconnected platforms, and manual workflows that slowed progress and frustrated teams.",
+    "url": "https://www.workato.com/ja-JP/customers/vodafone",
+    "pass": 1
+   },
+   {
+    "quote": "VOIS and Vodafone see enormous potential in Workato to safely exploit Model Context Protocol (MCP) for agentic integrations at Enterprise scale. In parallel, Vodafone and Workato are co-building an AI Lab as part of the VOIS Re-wired initiative, accelerating experimentation and the deployment of AI-powered use cases across the business.",
+    "url": "https://www.workato.com/ja-JP/customers/vodafone",
+    "pass": 1
+   },
+   {
+    "quote": "YoY increase in employees engaging",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "to deliver learning in the flow of work, in the moments employees need it. LinkedIn Learning Career Hub made it possible.",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Workato scaled from 250 to 1,000 employees in just five years, and today they serve",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "more than 50% of the Fortune 500",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "employees wanted direction, and managers wanted the tools",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "To bring that vision to life, Workato embedded LinkedIn Learning directly into onboarding, so new hires start their learning journey with a personalized plan from day one. They also connected learning to the performance review cycle, giving employees a",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "both their talent architecture and employees’ upskilling experiences",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Workato’s deciding factor was not just the quality and relevance of upskilling content — it was the ability to house their talent architecture and their employees' learning experience in the same place, updated by real-time skills intelligence from LinkedIn's 1 billion+ member network.",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Workato's new talent architecture and internal MCP let employees ask what skills they need for a specific role and get",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Less than a year in, employees are already",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Managers and employees enter career conversations more prepared, with a",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "on a platform employees actually use.\"",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Workato is a cloud-based platform for automation, integration, and AI orchestration trusted by more than 50% of the Fortune 500 to connect every application, data source, and process at scale. Workato helps businesses realize the true potential of agents by bringing them from the edge of each business to the core.",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Three pieces carry the load. Agents need permission to call apps and finish a task end to end, which is the job of",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Not listed on the Embedded page (see Workato Trust Center)",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "The Embed Partner Program helps you support mature customers as they transition from basic integrations to full process orchestration. You can meet their growing demands, avoid extra support overhead, and maintain focus on your core product. At the same time, you unlock new revenue opportunities.",
+    "url": "https://docs.workato.com/en/oem/partner-program.html",
+    "pass": 3
+   },
+   {
+    "quote": "The program provides a clear referral path and contract incentives when your customers choose Workato as their orchestration platform. You can earn 10% of your customer's first-year ARR as credit toward your Embed contract for the full duration of their Workato contract.",
+    "url": "https://docs.workato.com/en/oem/partner-program.html",
+    "pass": 3
+   },
+   {
+    "quote": ": Receive 10% of your customer's first-year ARR as credit toward your Embed contract for each successful referral.",
+    "url": "https://docs.workato.com/en/oem/partner-program.html",
+    "pass": 3
+   },
+   {
+    "quote": "Workato Revenue 2024: $150M Est., $415M Raised",
+    "url": "https://getlatka.com/companies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Workato has not published its revenue. GetLatka estimates it at about $150M a year (October 2024).",
+    "url": "https://getlatka.com/companies/workato",
+    "pass": 3
+   },
+   {
+    "quote": ", level with two others. The list ranks the 1,301 companies Nathan Latka has interviewed by revenue.",
+    "url": "https://getlatka.com/companies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "All 6 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Workato CEO, founders & employees",
+    "url": "https://getlatka.com/companies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Vijay Tella founded Workato in 2013 and runs it as CEO. Workato has 1,350 employees (April 2026, PitchBook estimate), up from 1,000 a year earlier.",
+    "url": "https://getlatka.com/companies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "What is Workato's revenue?",
+    "url": "https://getlatka.com/companies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Workato's revenue at about",
+    "url": "https://getlatka.com/companies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Workato have?",
+    "url": "https://getlatka.com/companies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "The Latka List ranks the private, operating companies Nathan Latka has interviewed by the latest revenue figure on each profile, reported or estimated; equal figures share a rank.",
+    "url": "https://getlatka.com/companies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "in revenue, and is projected to grow at a",
+    "url": "https://research.contrary.com/company/workato",
+    "pass": 3
+   },
+   {
+    "quote": ", he became CEO of consumer video company Qik, which was acquired by Skype in",
+    "url": "https://research.contrary.com/company/workato",
+    "pass": 3
+   },
+   {
+    "quote": ", with Shetty following in 2011. iProfile was subsequently acquired by",
+    "url": "https://research.contrary.com/company/workato",
+    "pass": 3
+   },
+   {
+    "quote": "\" — Workato's low-code / no-code foundation that provides an accessible integration canvas. Viswanathan and Tella saw space for a new approach marrying consumer-grade ease of use with enterprise capabilities.",
+    "url": "https://research.contrary.com/company/workato",
+    "pass": 3
+   },
+   {
+    "quote": "offerings (e.g., AgentX IT, Sales, and Support) use large language models and proprietary orchestration logic to carry out",
+    "url": "https://research.contrary.com/company/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Workato's focus on the enterprise means that top-down sales are a big part of their business model, likely targeting Chief Information Officers (CIOs), Directors of IT, heads of Digital Transformation, Chief Technology Officers (CTOs), and others responsible for organization-wide purchases of tools for streamlining operations and improving connectivity between tools.",
+    "url": "https://research.contrary.com/company/workato",
+    "pass": 3
+   },
+   {
+    "quote": "employees. In addition, a significant portion of Workato's customers are mid-sized organizations. Specifically, Workato has around",
+    "url": "https://research.contrary.com/company/workato",
+    "pass": 3
+   },
+   {
+    "quote": "customers with between 1K to 5K employees and",
+    "url": "https://research.contrary.com/company/workato",
+    "pass": 3
+   },
+   {
+    "quote": "customers with between 500 to 999 employees in 2025.",
+    "url": "https://research.contrary.com/company/workato",
+    "pass": 3
+   },
+   {
+    "quote": "and acquired by Salesforce in",
+    "url": "https://research.contrary.com/company/workato",
+    "pass": 3
+   },
+   {
+    "quote": "is a Dell Technologies spinout that offers a cloud-native iPaaS that facilitates quick integration across various applications and data sources and automation with a vast array of connectors and low-code tools. Its platform includes Boomi Integration, Boomi Flow, and Boomi Event Streams. Boomi introduced new AI-powered services and event-driven features in",
+    "url": "https://research.contrary.com/company/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Major enterprise software vendors offer native integration tools as part of their broader suites, which pose a threat to Workato through vendor lock-in and bundled pricing.",
+    "url": "https://research.contrary.com/company/workato",
+    "pass": 3
+   },
+   {
+    "quote": ", part of the Cloud Pak for Integration, supports both hybrid and multi-cloud integration environments. It appeals to large enterprises with existing IBM infrastructure and offers advanced transformation and mapping tools.",
+    "url": "https://research.contrary.com/company/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Workato's revenue reportedly increased by",
+    "url": "https://research.contrary.com/company/workato",
+    "pass": 3
+   },
+   {
+    "quote": "from the fiscal year 2020 to 2023. According to one unverified source, the company’s ARR reached",
+    "url": "https://research.contrary.com/company/workato",
+    "pass": 3
+   },
+   {
+    "quote": "In late 2021, Workato announced the acquisition of",
+    "url": "https://research.contrary.com/company/workato",
+    "pass": 3
+   },
+   {
+    "quote": "of business leaders expect to use AI to replace or augment jobs, especially those with repetitive, rules-based tasks. Workato’s low-code approach could lower the barrier to automation adoption and become the platform of choice for distributed teams seeking to scale productivity without scaling headcount.",
+    "url": "https://research.contrary.com/company/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Defines fields for passing data between nodes. Necessary for carrying data to the Output node.",
+    "url": "https://note.com/krhtj/n/n1b927c5e5a45?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In addition to direct employees, there are contractors, and determining which system accounts to create is fluid depending on the work location and employment period.",
+    "url": "https://note.com/krhtj/n/n1b927c5e5a45?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, this is a question of \"how much to build it out\" rather than \"whether it can be done,\" and there are no technical barriers.",
+    "url": "https://note.com/underworks_dmj/n/nee2c93559bdd?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Workato 、 日本 での事業拡大へ向け 日本 法人を設立 — Workato 、 日本 での事業拡大へ向け 日本 法人を設立 Workato https://www.workato.com > Home > Blog",
+    "url": "https://www.workato.com/the-connector/ja/japan-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "Workato導入 事例｜企業の自動化・DX活用成功ストーリー — Workato導入 事例｜企業の自動化・DX活用成功ストーリー Workato https://www.workato.com > ja-JP > customers",
+    "url": "https://www.workato.com/ja-JP/customers",
+    "pass": 3
+   },
+   {
+    "quote": "エンタープライズAIのための制御・実行 ... - Workato — エンタープライズAIのための制御・実行 ... - Workato Workato https://www.workato.com > ja-JP",
+    "url": "https://www.workato.com/ja-JP",
+    "pass": 3
+   },
+   {
+    "quote": "Workato Japan - LinkedIn — Workato Japan - LinkedIn LinkedIn https://jp.linkedin.com > showcase > workato-japan",
+    "url": "https://jp.linkedin.com/showcase/workato-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Workato Blog | Content for the New Era of AI and Automation — Workato Blog | Content for the New Era of AI and Automation Workato https://www.workato.com > the-connector",
+    "url": "https://www.workato.com/the-connector/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Workato 、日本での事業拡大へ向け 日本法人 を設立 — Workato 、日本での事業拡大へ向け 日本法人 を設立 Workato https://www.workato.com > Home > Blog",
+    "url": "https://www.workato.com/the-connector/ja/japan-launch/",
+    "pass": 3
+   },
+   {
+    "quote": "Workato パートナープログラム | SI・テクノロジー連携 — Workato パートナープログラム | SI・テクノロジー連携 Workato https://www.workato.com > ja-JP > partners",
+    "url": "https://www.workato.com/ja-JP/partners",
+    "pass": 3
+   },
+   {
+    "quote": "About Us - Workato — About Us - Workato Workato https://www.workato.com > ja-JP > about_us",
+    "url": "https://www.workato.com/ja-JP/about_us",
+    "pass": 3
+   },
+   {
+    "quote": "Workato Japan - note — Workato Japan - note note https://note.com > workato",
+    "url": "https://note.com/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories and Testimonials - Workato — Customer Stories and Testimonials - Workato Workato https://www.workato.com > customers",
+    "url": "https://www.workato.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories Archives - Page 3 of 35 - Workato — Customer Stories Archives - Page 3 of 35 - Workato Workato https://www.workato.com > page",
+    "url": "https://www.workato.com/the-connector/category/customer-stories/page/3/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories Archives - Workato — Customer Stories Archives - Workato Workato https://www.workato.com > category",
+    "url": "https://www.workato.com/the-connector/category/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Workato Case Study - LinkedIn Business Solutions — Workato Case Study - LinkedIn Business Solutions LinkedIn https://business.linkedin.com > workato",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Powering the Future of Manufacturing - Workato — Powering the Future of Manufacturing - Workato Workato https://www.workato.com > Blog",
+    "url": "https://www.workato.com/the-connector/manufacturing-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "How to Create a Seamless White - Label Integration Experience — How to Create a Seamless White - Label Integration Experience Workato https://www.workato.com > Blog",
+    "url": "https://www.workato.com/the-connector/white-label-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded Integration Platform for SaaS - Workato — Embedded Integration Platform for SaaS - Workato Workato https://www.workato.com > embed-sa...",
+    "url": "https://www.workato.com/embed-saas-integrations",
+    "pass": 3
+   },
+   {
+    "quote": "Embed Partner Program - Workato docs — Embed Partner Program - Workato docs Workato docs https://docs.workato.com > oem > par...",
+    "url": "https://docs.workato.com/en/oem/partner-program.html",
+    "pass": 3
+   },
+   {
+    "quote": "Workato Revenue 2024: $150M Est., $415M Raised - GetLatka — Workato Revenue 2024: $150M Est., $415M Raised - GetLatka GetLatka https://getlatka.com > workato",
+    "url": "https://getlatka.com/companies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Workato's Competitors, Revenue , Number of Employees ... — Workato's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > workato",
+    "url": "https://www.owler.com/company/workato",
+    "pass": 3
+   },
+   {
+    "quote": "About Us - Workato — About Us - Workato Workato https://www.workato.com > about_us",
+    "url": "https://www.workato.com/about_us",
+    "pass": 3
+   },
+   {
+    "quote": "Report: Workato Business Breakdown & Founding Story — Report: Workato Business Breakdown & Founding Story contrary.com https://research.contrary.com > workato",
+    "url": "https://research.contrary.com/company/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Workato - Crunchbase Company Profile & Funding — Workato - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > workato",
+    "url": "https://www.crunchbase.com/organization/workato",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "White-Label SaaS Integration Platform: Guide (2026)",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label SaaS Integration Platform: From A to Z",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "White-label integrations let SaaS companies offer branded, native integrations inside their product without building connectors from scratch.",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "A white-label iPaaS handles the backend infrastructure (API connections, data transformation, error handling) while your users see only your branding.",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Key evaluation criteria include connector depth, white-labeling options, pricing model, deployment speed, and security certifications (SOC 2, GDPR).",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Albato Embedded offers 1,000+ connectors, full white-labeling, published plan pricing, and a typical go-live of 30 to 45 days.",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "A white-label SaaS platform lets you sell software under your own brand, from marketing tools to CRMs to chatbots. This guide focuses on one high-impact type: a",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "white-label integration platform",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "White-label integrations allow SaaS companies to embed pre-built connectors directly into their products under their own brand. Instead of building API integrations in-house or sending users to external tools, you can deploy a fully branded integration hub that feels native to your application.",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "What is a white-label SaaS platform (and where integrations fit)",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "White-label SaaS and a white-label integration platform are not the same thing. The first means reselling a whole product under your own brand. The second adds branded, native integrations to the SaaS you already run, so your users get the connections they need without leaving your product.",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "White-label integrations in SaaS: The basics",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "A white-label integration",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "How white-label SaaS integrations work",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "A white-label iPaaS uses API connections, data transformation tools, and cloud infrastructure to let data flow between your SaaS and other applications.",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "is white-labeled or not doesn't change how data flows. If a user connects HubSpot with Google Docs, their updates will sync between both systems just as expected. But where and how they set up that integration is where white-labeling makes all the difference.",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Instead of sending users off to an external iPaaS provider, a white-label solution lets them configure everything directly within your platform. The result is a user experience that keeps people engaged with your product while giving them the integrations they need, without a second login or a separate tool to learn.",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Albato Embedded is a white-label integration platform with 1,000+ apps. It's designed for SaaS companies looking to connect their platforms with hundreds of third-party apps. Read this article to learn more about",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label iPaaS: What It Is and Why You Need One",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Here's what makes white-label iPaaS different from other approaches:",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Developing integrations internally requires dedicated engineers, ongoing API maintenance, and months of work per connector. A white-label iPaaS gives you hundreds of connectors out of the box, with go-live typically counted in weeks. For a detailed breakdown, see our comparison of",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "A unified API gives you a single endpoint to access multiple apps in one category (e.g., all CRMs). It's elegant but limited, typically covering only one vertical at a time, with minimal workflow logic. A white-label iPaaS offers broader cross-category automation, visual builders, and end-user configuration.",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Albato Embedded offers 1,000+ pre-built connectors with full white-label customization. A typical go-live for branded integrations in your SaaS product is 30 to 45 days.",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Pros and cons of white-label integration",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "With multiple iPaaS vendors selling similar white-label products, standing out can be challenging.",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Embed Partner Program | Workato docs",
+    "url": "https://docs.workato.com/en/oem/partner-program.html",
+    "pass": 3
+   },
+   {
+    "quote": "Are you an LLM? You can read better optimized documentation at /en/oem/partner-program.md for this page in Markdown format",
+    "url": "https://docs.workato.com/en/oem/partner-program.html",
+    "pass": 3
+   },
+   {
+    "quote": "Embed Partner Program",
+    "url": "https://docs.workato.com/en/oem/partner-program.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Embed Partner Program helps you support mature customers as they transition from basic integrations to full process orchestration. You can meet their growing demands, avoid extra support overhead, and maintain focus on your core product. At the same time, you unlock new revenue opportunities.",
+    "url": "https://docs.workato.com/en/oem/partner-program.html",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "\"White-label\" means different things to different vendors. Some only let you hide their logo. Others offer full customization: custom domain, color themes, email notifications from your domain, embeddable UI components with your CSS, and zero mention of the provider anywhere in the user-facing experience. The deeper the white-labeling, the more native the integration feels.",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Full (UI, domain, branding, emails)",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Google Maps Scraper: 10 Tools That Find Emails, Compared",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "Compare 10 Google Maps scrapers that also find emails: Outscraper, Apify, SocLeads, Octoparse, Lobstr.io and more, by email method, free tier and price.",
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "pass": 3
+   },
+   {
+    "quote": "First, input the information that serves as the starting point for newsletter production from Google Forms. The input items are simple: the purpose of the email, the target, and the URL of the content you want to promote in this newsletter.",
+    "url": "https://note.com/underworks_dmj/n/nee2c93559bdd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The prompt contains detailed rules for the newsletter draft. For example, it includes marketing-perspective instructions such as \"induce the next action by having the user click a link in the email\" and \"the body text should be around 300-500 characters,\" as well as estimates for token consumption.",
+    "url": "https://note.com/underworks_dmj/n/nee2c93559bdd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is also an important point confirmed in this verification. Marketo has a mechanism called \"tokens,\" which allows you to embed variables within email templates. By feeding text into these tokens using an API, you can reflect the AI-generated draft in the email without opening the MA management screen and editing it manually.",
+    "url": "https://note.com/underworks_dmj/n/nee2c93559bdd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Furthermore, since operations such as sending sample emails and approving email programs are also supported by the Marketo API, it was confirmed that everything from draft creation to test delivery settings can basically be completed within this Workato recipe.",
+    "url": "https://note.com/underworks_dmj/n/nee2c93559bdd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If you are interested in automating marketing operations using iPaaS or Workato, please feel free to contact us.",
+    "url": "https://note.com/underworks_dmj/n/nee2c93559bdd?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Workato Japan - note Workato Japan - note note https://note.com > workato",
+    "url": "https://note.com/workato",
+    "pass": 3
+   },
+   {
+    "quote": "What are Workato Decision models?｜くろひつじ - note What are Workato Decision models?｜くろひつじ - note note https://note.com > ... > アプリケーション",
+    "url": "https://note.com/krhtj/n/n1b927c5e5a45?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Tried it] Automating newsletter operations with Workato ... - note [Tried it] Automating newsletter operations with Workato ... - note note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/underworks_dmj/n/nee2c93559bdd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AIROからOttoまでーー Workato : 2026年5～7月の製品アナウンス AIROからOttoまでーー Workato : 2026年5～7月の製品アナウンス note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/workato/n/n7325f9c6342a",
+    "pass": 3
+   },
+   {
+    "quote": "「# workato 」の人気タグ記事一覧 - note 「# workato 」の人気タグ記事一覧 - note note https://note.com > hashtag > workato",
+    "url": "https://note.com/hashtag/workato",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "第19回 JWUG (Japan Workato User Group) Meetup @ WeWork 御堂筋フロンティア (大阪開催)",
+    "url": "https://note.com/workato",
+    "pass": 3
+   },
+   {
+    "quote": "MCP Serverを「作る」から「本番で使う」へ ― 全社展開と監査を阻む3つの壁",
+    "url": "https://note.com/workato",
+    "pass": 3
+   },
+   {
+    "quote": "最近のSalesforce社「SaaSの死」広告から、AI時代の勝負どころを考えてみた",
+    "url": "https://note.com/workato",
+    "pass": 3
+   },
+   {
+    "quote": "World of Workato Tokyo 2026での見どころを紹介! (お客様セッション編)",
+    "url": "https://note.com/workato",
+    "pass": 3
+   },
+   {
+    "quote": "World of Workato Las Vegas 2026参加レポート: Workatoの実現するAI統制基盤の姿",
+    "url": "https://note.com/workato",
+    "pass": 3
+   },
+   {
+    "quote": "第18回 JWUG (Japan Workato User Group) Meetup @清水建設NOVARE",
+    "url": "https://note.com/workato",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクトを最初から最後まで遂行するWorkatoのAIスーパーエージェント「Otto」が一般提供開始",
+    "url": "https://note.com/workato",
+    "pass": 3
+   },
+   {
+    "quote": "July 2026: Product Scoop",
+    "url": "https://note.com/workato",
+    "pass": 3
+   },
+   {
+    "quote": "What are Workato Decision models?｜くろひつじ",
+    "url": "https://note.com/krhtj/n/n1b927c5e5a45?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What are Workato Decision models?",
+    "url": "https://note.com/krhtj/n/n1b927c5e5a45?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While looking at Workato's Product Scoop, I came across something called Decision models.",
+    "url": "https://note.com/krhtj/n/n1b927c5e5a45?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It claims to simplify complex conditional branching? So, I decided to try it out a bit.",
+    "url": "https://note.com/krhtj/n/n1b927c5e5a45?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What are Decision models?",
+    "url": "https://note.com/krhtj/n/n1b927c5e5a45?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "They are a Workato feature that centralizes and makes complex conditional business logic reusable. Once you create the logic, you can reuse it across multiple recipes and projects, improving consistency and reducing maintenance.",
+    "url": "https://note.com/krhtj/n/n1b927c5e5a45?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Defines rules that evaluate data using Condition fields and output Outcome fields based on business logic.",
+    "url": "https://note.com/krhtj/n/n1b927c5e5a45?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Defines the input schema for the Decision model. Data provided from the calling recipe becomes available to each node within the model.",
+    "url": "https://note.com/krhtj/n/n1b927c5e5a45?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Tried it] Automating newsletter operations with Workato × Gemini × Marketo｜アンダーワークス株式会社",
+    "url": "https://note.com/underworks_dmj/n/nee2c93559bdd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Tried it] Automating newsletter operations with Workato × Gemini × Marketo",
+    "url": "https://note.com/underworks_dmj/n/nee2c93559bdd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Have you been hearing the term \"iPaaS\" more often lately?",
+    "url": "https://note.com/underworks_dmj/n/nee2c93559bdd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "iPaaS (Integration Platform as a Service) is a platform for automating business processes by connecting different cloud services and applications via APIs. A key feature of iPaaS is the ability to build workflows without writing code, such as a sequence where \"when data is entered into Google Forms, automatically notify Slack and register the data in another system.\"",
+    "url": "https://note.com/underworks_dmj/n/nee2c93559bdd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "And now that AI-powered business automation is gaining attention in the marketing world, there is significant potential in combining iPaaS with AI. Many marketers use ChatGPT or Gemini manually to create website content, but have you ever thought, \"Wouldn't it be easier if I could incorporate that into a workflow and automate the posting process as well?\"",
+    "url": "https://note.com/underworks_dmj/n/nee2c93559bdd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, I actually tested how much newsletter operation can be automated using",
+    "url": "https://note.com/underworks_dmj/n/nee2c93559bdd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", one of the leading iPaaS services. Workato is an enterprise-grade iPaaS that supports connections with over 1,000 applications and allows you to build workflows called \"recipes\" without code.",
+    "url": "https://note.com/underworks_dmj/n/nee2c93559bdd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "View Underworks' Workato introduction page",
+    "url": "https://note.com/underworks_dmj/n/nee2c93559bdd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AIROからOttoまでーーWorkato: 2026年5～7月の製品アナウンス｜Workato Japan",
+    "url": "https://note.com/workato/n/n7325f9c6342a",
+    "pass": 3
+   },
+   {
+    "quote": "AIROからOttoまでーーWorkato: 2026年5～7月の製品アナウンス",
+    "url": "https://note.com/workato/n/n7325f9c6342a",
+    "pass": 3
+   },
+   {
+    "quote": "みなさん、こんにちは。Workatoマーケティングの米田です。",
+    "url": "https://note.com/workato/n/n7325f9c6342a",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月から7月末にかけて、Workatoではわずか3ヶ月の間に6つの重要な発表を行いました。自律型AIチームメイト「Otto」の登場から、AWSとの戦略提携強化、オープンソースの開発者ツール、AIエージェントをあらゆる場所に組み込む新機能、MCP(Model Context Protocol)のガバナンス基盤、そしてノーコードでもエンタープライズ規模のAI活用を実現する「AIRO」のグローバル提供開始まで、一連の発表は当社が掲げる",
+    "url": "https://note.com/workato/n/n7325f9c6342a",
+    "pass": 3
+   },
+   {
+    "quote": "「エンタープライズAIのための制御・実行プレーン」",
+    "url": "https://note.com/workato/n/n7325f9c6342a",
+    "pass": 3
+   },
+   {
+    "quote": "本記事ではこれら6本の発表を時系列で整理し、全体像を解説します。",
+    "url": "https://note.com/workato/n/n7325f9c6342a",
+    "pass": 3
+   },
+   {
+    "quote": "1. 自律型AIチームメイト「Otto」を発表（5月6日）",
+    "url": "https://note.com/workato/n/n7325f9c6342a",
+    "pass": 3
+   },
+   {
+    "quote": "まず5月6日、WorkatoはIT部門によって統制される企業向け自律型AIエージェント",
+    "url": "https://note.com/workato/n/n7325f9c6342a",
+    "pass": 3
+   },
+   {
+    "quote": "「#workato」の人気タグ記事一覧｜note",
+    "url": "https://note.com/hashtag/workato",
+    "pass": 3
+   },
+   {
+    "quote": "MCP Serverを「作る」から「本番で使う」へ ― 全社展開と監査を阻む3つの壁",
+    "url": "https://note.com/hashtag/workato",
+    "pass": 3
+   },
+   {
+    "quote": "第19回 JWUG (Japan Workato User Group) Meetup @ WeWork 御堂筋フロンティア (大阪開催)",
+    "url": "https://note.com/hashtag/workato",
+    "pass": 3
+   },
+   {
+    "quote": "最近のSalesforce社「SaaSの死」広告から、AI時代の勝負どころを考えてみた",
+    "url": "https://note.com/hashtag/workato",
+    "pass": 3
+   },
+   {
+    "quote": "第18回 JWUG (Japan Workato User Group) Meetup @清水建設NOVARE",
+    "url": "https://note.com/hashtag/workato",
+    "pass": 3
+   },
+   {
+    "quote": "World of Workato Las Vegas 2026参加レポート: Workatoの実現するAI統制基盤の姿",
+    "url": "https://note.com/hashtag/workato",
+    "pass": 3
+   },
+   {
+    "quote": "「作る」より「育てる」だった。総務の1次回答botを運用してわかったこと",
+    "url": "https://note.com/hashtag/workato",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクトを最初から最後まで遂行するWorkatoのAIスーパーエージェント「Otto」が一般提供開始",
+    "url": "https://note.com/hashtag/workato",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Workato - X Workato - X X https://x.com > Workato",
+    "url": "https://x.com/Workato",
+    "pass": 3
+   },
+   {
+    "quote": "Workato on X Workato on X X https://x.com > @Workato",
+    "url": "https://x.com/Workato/status/2119852280782496105",
+    "pass": 3
+   },
+   {
+    "quote": "How to Ship Working AI at Speed and Scale.\" A majority of AI ... How to Ship Working AI at Speed and Scale.\" A majority of AI ... X https://x.com > @Workato",
+    "url": "https://x.com/Workato/status/2118012662936215730",
+    "pass": 3
+   },
+   {
+    "quote": "Workato Japan (@workato_jp) / X Workato Japan (@workato_jp) / X X https://x.com > workato_jp",
+    "url": "https://x.com/workato_jp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Workato - LinkedIn Workato - LinkedIn LinkedIn https://www.linkedin.com > workato",
+    "url": "https://www.linkedin.com/company/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Vijay Tella - Co-founder and CEO, Workato | LinkedIn Vijay Tella - Co-founder and CEO, Workato | LinkedIn LinkedIn https://www.linkedin.com > ...",
+    "url": "https://www.linkedin.com/in/vijay-tella-1a410a8",
+    "pass": 3
+   },
+   {
+    "quote": "Workato : Jobs - LinkedIn Workato : Jobs - LinkedIn LinkedIn https://www.linkedin.com > jobs",
+    "url": "https://www.linkedin.com/company/workato/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Workato Case Study - LinkedIn Business Solutions Workato Case Study - LinkedIn Business Solutions LinkedIn https://business.linkedin.com > workato",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・本文）": [
+   {
+    "quote": "Workato Case Study | LinkedIn",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Chat with a sales consultant",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Certification Programs",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "2026 LinkedIn Talent Report",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Success Center",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "How Workato scaled career clarity as fast as its headcount",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "Every employee invests in upskilling, companywide",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   },
+   {
+    "quote": "YoY increase in employees engaging",
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Workato | Palo Alto CA - Facebook Workato | Palo Alto CA - Facebook Facebook https://www.facebook.com > ... > Internet company",
+    "url": "https://www.facebook.com/workato/",
+    "pass": 3
+   },
+   {
+    "quote": "Workato (@ workato ) - Photos - Facebook Workato (@ workato ) - Photos - Facebook Facebook https://www.facebook.com > ... > Workato",
+    "url": "https://www.facebook.com/workato/photos/",
+    "pass": 3
+   },
+   {
+    "quote": "Workato Japan | Chiyoda-ku Tokyo - Facebook Workato Japan | Chiyoda-ku Tokyo - Facebook Facebook https://www.facebook.com > ... > Automation Service",
+    "url": "https://www.facebook.com/workato.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Workato APJ - Facebook Workato APJ - Facebook Facebook https://www.facebook.com > ... > Software Company",
+    "url": "https://www.facebook.com/workatoapj/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.workato.com/ja-JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workato.com/ja-JP/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workato.com/ja-JP/partners/system_integrators",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workato.com/ja-JP/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workato.com/ja-JP/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workato.com/ja-JP/about_us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workato.com/ja-JP/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workato.com/ja-JP/customers/caddi-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workato.com/ja-JP/customers/orixbank",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workato.com/ja-JP/customers/shift",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workato.com/ja-JP/customers/coincheck",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workato.com/ja-JP/customers/mercari",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workato.com/ja-jp/customers/demaecan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workato.com/ja-JP/customers/vodafone",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://images.ctfassets.net/khy5qy7zbpmq/2065717023/0a30974cb846088f0cc6cbd8602bb932/si-partnership.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://images.ctfassets.net/khy5qy7zbpmq/2507207328/106cb7abaebd089731ceaf8ced384c7d/about-us_investors_insight-partners_2x.png?w=1536&h=527&fm=webp&q=100",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://images.ctfassets.net/khy5qy7zbpmq/559675319/286993161c63991d9d53f83034c2c65a/about-us_investors_norwest-ventures_2x.png?w=1536&h=239&fm=webp&q=100",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://images.ctfassets.net/khy5qy7zbpmq/1919901089/7e03ce21a5f6b007fd3ca95b9663dba2/career_tabs_prioritize_customers.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://jp.linkedin.com/showcase/workato-japan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/showcase/workato-japan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/showcase/workato-japan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://albato.com/blog/publications/embedded-white-label-saas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.workato.com/en/oem/partner-program.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/workato",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/workato",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://research.contrary.com/company/workato",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/workato",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/krhtj/n/n1b927c5e5a45?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/underworks_dmj/n/nee2c93559bdd?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/workato/n/n7325f9c6342a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Workato",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Workato/status/2119852280782496105",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Workato/status/2118012662936215730",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/workato",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/vijay-tella-1a410a8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/workato/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/workato/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/workato/photos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/workato.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/workatoapj/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/workato",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hashtag/workato",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/workato_jp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Workato",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Workato 日本 導入",
+   "results": [
+    "https://www.workato.com/the-connector/ja/japan-launch/",
+    "https://www.workato.com/ja-JP/customers",
+    "https://www.workato.com/ja-JP",
+    "https://jp.linkedin.com/showcase/workato-japan/",
+    "https://www.workato.com/the-connector/ja/",
+    "https://www.ricksoft.jp/blog/articles/001479.html",
+    "https://www.facebook.com/workato.jp/",
+    "https://www.hireplanner.com/jobs/companies/549",
+    "https://www.workato.com/ja-JP/events",
+    "https://www.hitachi-solutions.co.jp/rpa/products/workato/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Workato 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.workato.com/the-connector/ja/japan-launch/",
+    "https://www.workato.com/ja-JP/partners",
+    "https://jp.linkedin.com/showcase/workato-japan/",
+    "https://www.workato.com/ja-JP/about_us",
+    "https://www.workato.com/ja-JP",
+    "https://www.intellilink.co.jp/topics/news_release/2022/101200.aspx",
+    "https://workato.ricksoft.jp/",
+    "https://www.hireplanner.com/jobs/companies/549",
+    "https://www.workato.com/the-connector/ja/",
+    "https://ja.wikipedia.org/wiki/黒田武志"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Workato Japan",
+   "results": [
+    "https://www.workato.com/the-connector/ja/japan-launch/",
+    "https://www.workato.com/ja-JP/about_us",
+    "https://www.workato.com/ja-JP",
+    "https://jp.linkedin.com/showcase/workato-japan/",
+    "https://note.com/workato",
+    "https://www.workato.com/ja-JP/careers",
+    "https://www.youtube.com/channel/UCRROyP6x8tsjiidfraCLxCw",
+    "https://www.hireplanner.com/jobs/companies/549",
+    "https://www.workato.com/the-connector/ja/",
+    "https://resources.workato.com/ja-jp/workato-one-agentic-launch-japan/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Workato manufacturing customer case study",
+   "results": [
+    "https://www.workato.com/customers",
+    "https://www.workato.com/the-connector/category/customer-stories/page/3/",
+    "https://www.workato.com/the-connector/category/customer-stories/",
+    "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "https://www.workato.com/the-connector/manufacturing-integration/",
+    "https://community.latenode.com/t/pros-and-cons-of-using-workato-platform-your-experiences/35662",
+    "https://www.criticalriver.com/case-study/contact-center-ebonding/",
+    "https://www.appsruntheworld.com/customers-database/products/view/workato",
+    "https://www.youtube.com/watch?v=RoLQhhNcga0"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Workato white label OR reseller OR partner program",
+   "results": [
+    "https://www.workato.com/the-connector/white-label-integration/",
+    "https://www.workato.com/embed-saas-integrations",
+    "https://albato.com/blog/publications/embedded-white-label-saas",
+    "https://docs.workato.com/en/oem/partner-program.html",
+    "https://viasocket.com/discovery/blog/e1oiur/7-white-label-automation-platforms-agencies-trust",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.workato.com/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://www.creatio.com/partners/workato",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Workato founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/workato",
+    "https://www.owler.com/company/workato",
+    "https://www.workato.com/about_us",
+    "https://research.contrary.com/company/workato",
+    "https://www.crunchbase.com/organization/workato",
+    "https://thebrandhopper.com/featured-startups/workato-founders-features-business-model-funding/",
+    "https://www.youtube.com/watch?v=oeEpVhWkpRk",
+    "https://www.builtinsf.com/articles/workato-raises-110m-workflow-automation-platform",
+    "https://tracxn.com/d/companies/workato/__OtQBgvGNY2vOc7gmJydkZ3zQ6CHQGUY1_fzhOK4C3xU",
+    "https://compworth.com/company/workato"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Workato",
+   "results": [
+    "https://note.com/workato",
+    "https://note.com/krhtj/n/n1b927c5e5a45?hl=en",
+    "https://note.com/underworks_dmj/n/nee2c93559bdd?hl=en",
+    "https://note.com/workato/n/n7325f9c6342a",
+    "https://note.com/workato/n/n81f64eae9cd0",
+    "https://note.com/workato/n/n5bf2d4fce602",
+    "https://note.com/workato/n/n0b235ac10109",
+    "https://note.com/workato/n/n0c200c913d54",
+    "https://note.com/workato/n/n3a2dba207f9b",
+    "https://note.com/workato/n/n709d7cea99b7"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com Workato",
+   "results": [
+    "https://x.com/Workato",
+    "https://x.com/Workato/status/2119852280782496105",
+    "https://x.com/adamse",
+    "https://x.com/Workato/status/2118012662936215730",
+    "https://x.com/workato_jp",
+    "https://x.com/Workato/status/2120264491916992671",
+    "https://x.com/mouritech/status/2117511425438675308",
+    "https://x.com/Workato/status/1445060917545295872",
+    "https://x.com/Workato/status/2119960486657552826",
+    "https://x.com/Workato/status/2107119397097623614"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com Workato",
+   "results": [
+    "https://www.linkedin.com/company/workato",
+    "https://www.linkedin.com/in/vijay-tella-1a410a8",
+    "https://www.linkedin.com/company/workato/jobs",
+    "https://business.linkedin.com/learn/elearning-case-studies/workato",
+    "https://sg.linkedin.com/jobs/view/intern-data-engineering-at-workato-4362782114",
+    "https://www.linkedin.com/products/workato/",
+    "https://www.linkedin.com/jobs/workato-jobs",
+    "https://www.linkedin.com/posts/vijay-tella-1a410a8_one-of-the-sharper-takes-ive-seen-on-the-activity-7331899857747501057-meOC",
+    "https://ie.linkedin.com/jobs/view/enterprise-development-representative-at-workato-4482012096",
+    "https://www.linkedin.com/in/bhaskarroy"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Workato",
+   "results": [
+    "https://www.facebook.com/workato/",
+    "https://www.facebook.com/workato/photos/",
+    "https://www.facebook.com/workato.jp/",
+    "https://www.facebook.com/workatoapj/",
+    "https://www.facebook.com/workato/posts/stop-rebuilding-what-already-works-meet-workato-xchange-enterprise-distribution/1601388685336255/",
+    "https://www.facebook.com/workato/photos/1609654921176298/",
+    "https://www.facebook.com/workato/photos/1583870947088029/",
+    "https://www.facebook.com/workato/videos/ben-israelite-sr-director-of-strategic-alliances-spoke-with-brian-m-westbrook-fr/2111693436404474/",
+    "https://www.facebook.com/workato/photos/1562616425880148/",
+    "https://www.facebook.com/workato/posts/the-countdown-is-on️-tune-in-tomorrow-for-workai-intent-to-outcome-how-to-ship-w/1603586491783141/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Workato note 社長",
+   "results": [
+    "https://note.com/workato",
+    "https://note.com/hashtag/workato",
+    "https://x.com/workato_jp",
+    "https://www.workato.com/ja-JP/about_us",
+    "https://note.com/workato/n/n01467ede4e0b",
+    "https://www.workato.com/the-connector/ja/japan-launch/",
+    "https://note.com/workato/n/n85b01d9b5636",
+    "https://japan.zdnet.com/article/35247586/",
+    "https://note.shiftinc.jp/n/naa70a826cc7a",
+    "https://www.workato.com/the-connector/enterprise-digital-transformation/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Workato X 投稿",
+   "results": [
+    "https://x.com/Workato",
+    "https://www.workato.com/ja-JP",
+    "https://docs.workato.com/ja/connectors/slack/actions.html",
+    "https://www.workato.com/ja-JP/developers",
+    "https://www.workato.com/ko-KR/mcp/x-twitter",
+    "https://blog.cloudnative.co.jp/9512/",
+    "https://note.com/workato/n/n0c200c913d54",
+    "https://x.com/workato_jp",
+    "https://lifrell-tech.com/950/",
+    "https://x.com/workato"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部28頁・検索12回）"
+ }
+}

@@ -1,0 +1,1227 @@
+{
+ "name": "Wandelbots",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T05:42:05.046191+00:00",
+ "official_url": "https://www.wandelbots.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "01-Dec-2017    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/225802-72",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "From digital twin to live production.",
+    "url": "https://www.wandelbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One system that enables your robot fleet to solve complex problems reliably, across every site and operation you run.",
+    "url": "https://www.wandelbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your Production Beyond Limits",
+    "url": "https://www.wandelbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Simulation and reality, running as one. This is what Physical AI looks like in production.",
+    "url": "https://www.wandelbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Schaeffler runs simulation and live production in sync For faster go-live and reduced re-work.",
+    "url": "https://www.wandelbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sense. Think. Act. Improve.",
+    "url": "https://www.wandelbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Picture that. Your robot fleet picks up a new task in simulation and runs it productively at the same day. A new site comes online in days, built on workflows your teams have already validated elsewhere. Every machine is connected. Every decision is backed by real data.",
+    "url": "https://www.wandelbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You move from isolated automation projects to intelligent operations that scale. Find out if you’re ready with",
+    "url": "https://www.wandelbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With the Physical AI platform, companies move from isolated automation projects to intelligent operations that scale.",
+    "url": "https://www.wandelbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven Impact in Real-World Applications",
+    "url": "https://www.wandelbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automation becomes a capability, not a project.",
+    "url": "https://www.wandelbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build on an ecosystem of proven technologies and partners",
+    "url": "https://www.wandelbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Creating the foundation for a world where Physical AI powers every industrial process.",
+    "url": "https://www.wandelbots.com/partner-ecosystem",
+    "pass": 1
+   },
+   {
+    "quote": "A strong ecosystem brings these capabilities together to create solutions that can adapt to real-world production environments and scale across them.",
+    "url": "https://www.wandelbots.com/partner-ecosystem",
+    "pass": 1
+   },
+   {
+    "quote": "Software, AI, vision, simulation, and technology providers that extend NOVA with specialized capabilities and applications.",
+    "url": "https://www.wandelbots.com/partner-ecosystem",
+    "pass": 1
+   },
+   {
+    "quote": "Consultants & IT Service Providers",
+    "url": "https://www.wandelbots.com/partner-ecosystem",
+    "pass": 1
+   },
+   {
+    "quote": "Every month spent repeating engineering work is capacity you cannot use to improve production. Build a connected software foundation now to shorten development, improve asset performance and carry proven work into the next project. The advantage grows as more of your operations can build on it.",
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "pass": 1
+   },
+   {
+    "quote": "cycle-time improvement through software optimization.",
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "pass": 1
+   },
+   {
+    "quote": "Every project starts at Level 0: robots connected and mirrored in a digital twin. Level up step by step and start using AI to speed up the creation of more flexible and more complex automations.",
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike traditional robot simulation solutions, ultrarealistic digital twins run on real physics and mirror the behaviour and data of your robots, cells and lines. Wandelbots offers integrations such as Nvidia Omniverse to enable you to build your simulation realistically. Your teams validate changes before they reach production and build the reliable context AI models need later.",
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "pass": 1
+   },
+   {
+    "quote": "Lower investment risk, shorter commissioning and a data foundation that improves after go-live.",
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "pass": 1
+   },
+   {
+    "quote": "Turn process intent into maintainable automation software with AI-assisted development, validated in the digital twin before it runs. Expertise becomes easier to access, review and reuse beyond a small group of robot specialists.",
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "pass": 1
+   },
+   {
+    "quote": "Faster engineering cycles and more capacity to adapt automation when products or processes change.",
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "pass": 1
+   },
+   {
+    "quote": "Give robots the context to recognise parts, positions and changing conditions, using the vision system and AI models of your choice. Processes respond to variation instead of depending on a perfectly controlled environment.",
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "pass": 1
+   },
+   {
+    "quote": "Automate more complex use cases while reducing fixtures, manual intervention and rigid process assumptions.",
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "pass": 1
+   },
+   {
+    "quote": "Combine learned behaviour with reliable industrial execution. Policies from your teams or partners are validated in the digital twin, production data improves the next generation, and deterministic control remains where repeatability matters.",
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "pass": 1
+   },
+   {
+    "quote": "Robots that adapt to variation, with the reliability production demands.",
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "pass": 1
+   },
+   {
+    "quote": "Extend common software, data and governance principles from industrial arms to mobile robots and humanoids. The task determines the robot, not",
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "pass": 1
+   },
+   {
+    "quote": "Build a foundation that keeps improving as your operations evolve.",
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "pass": 1
+   },
+   {
+    "quote": "Physical AI becomes strategically valuable when machinery data, applications and learned intelligence remain governed by your organisation. Wandelbots NOVA Cloud offers SaaS, on-premises and self-hosted deployment options, giving you flexibility to align hosting and governance with your GDPR obligations, European data-residency needs and responsibilities under the EU AI Act.",
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "pass": 1
+   },
+   {
+    "quote": "Align on-premise, private-cloud and edge deployment with your IT strategy.",
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to turn the levels into a practical adoption plan?",
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "pass": 1
+   },
+   {
+    "quote": "We bring intelligence to production, enabling AI to govern the physical world. Connecting what doesn't communicate.",
+    "url": "https://www.wandelbots.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We work with a network of partners that is second to none, because we know that Physical AI is not just a product. It's infrastructure. We scale capability, without scaling effort. Those who move with us don't just automate, they transform.",
+    "url": "https://www.wandelbots.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Mental health support, cultural training, language courses, Rocket Science Day, and 1-on-1 and team coaching.",
+    "url": "https://www.wandelbots.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Trust generates a feeling of both safety and responsibility. You will experience all the freedom to do the best work of your life. You will get the credit, feel the sense of accomplishment, and get the praise you deserve. From intern to CEO, everyone here is a piece of a much bigger puzzle contributing to complete the big picture.",
+    "url": "https://www.wandelbots.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We offer the highest flexibility when it comes to where you work, when you work, tools, family time, vacation and parental leave. Only if your private life is running well, will you be able to contribute outstanding work for Wandelbots.",
+    "url": "https://www.wandelbots.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Please check out our open positions on this career page. Once you've spotted the right job opportunity for you, please send us your application directly via our online application process.",
+    "url": "https://www.wandelbots.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Please contact us via the form at the bottom of this page. Our Talent Acquisition Manager will get back to you as soon as possible.",
+    "url": "https://www.wandelbots.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "How can I prepare for my job interview?",
+    "url": "https://www.wandelbots.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Please check out our homepage and our social media channels to learn more about Wandelbots - our stories, our culture and what drives us. You can also find an overview of our recruitment process on this career page, and our Talent Acquisition Manager will keep you updated during the entire application process.",
+    "url": "https://www.wandelbots.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A short and informal 30-minute conversation with our People and Culture Team. The focus is on getting a first impression of each other and answering your initial questions about Wandelbots.",
+    "url": "https://www.wandelbots.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "In this conversation with the hiring manager, we’ll explore how well your experience, skills, and approach align with the role and the team.",
+    "url": "https://www.wandelbots.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "🎯🎯🎯 Xpert.Digitalの5つの専門知識を1つの包括的なサービスパッケージで活用しましょう | BD、R&D、XR、PR、デジタル可視性の最適化",
+    "url": "https://xpert.digital/ja/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B7%A5%E5%AD%A6%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97/",
+    "pass": 3
+   },
+   {
+    "quote": "Xpert.Digitalの5つの専門知識を包括的サービスパッケージで活用 | R&D、XR、PR、デジタル可視性の最適化 - 画像: Xpert.Digital",
+    "url": "https://xpert.digital/ja/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B7%A5%E5%AD%A6%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97/",
+    "pass": 3
+   },
+   {
+    "quote": "市場情報、マーケティング、マーケティング自動化、コンテンツ開発、PR、メールキャンペーン、パーソナライズされたソーシャルメディア、リード育成は、当社のデジタルツールの一部です",
+    "url": "https://xpert.digital/ja/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B7%A5%E5%AD%A6%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97/",
+    "pass": 3
+   },
+   {
+    "quote": "Get direct access to the people, products, and expertise behind Microsoft technology, with opportunities to ask questions, build skills, and learn alongside the community.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wandelbotsgmbh1587129858282.wandelbots-nova-platform?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "enterprises seeking greater efficiency, flexibility, and adaptability across",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wandelbotsgmbh1587129858282.wandelbots-nova-platform?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "their automation landscape through a software-first approach built on modern",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wandelbotsgmbh1587129858282.wandelbots-nova-platform?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "Together, these components provide enterprises with the",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wandelbotsgmbh1587129858282.wandelbots-nova-platform?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "foundation to scale automation from proof of value to global rollout — ensuring",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wandelbotsgmbh1587129858282.wandelbots-nova-platform?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "provides everything you need to get started.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wandelbotsgmbh1587129858282.wandelbots-nova-platform?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "production, an additional runtime license is required.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wandelbotsgmbh1587129858282.wandelbots-nova-platform?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "Product Description Wandelbots NOVA | Wandelbots",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wandelbotsgmbh1587129858282.wandelbots-nova-platform?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "/staticstorage/20261105.2/assets/videoOverlay_62a424ca921ff733.png",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wandelbotsgmbh1587129858282.wandelbots-nova-platform?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "Wandelbots 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/225802-72",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of industrial robotics designed to program any robot via smart input devices and example-based teaching.",
+    "url": "https://pitchbook.com/profiles/company/225802-72",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/225802-72",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/225802-72",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/225802-72",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Wandelbots – Bringing Physical AI to the Shop Floor",
+    "url": "https://www.wandelbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your robots, systems, and workflows connected into one intelligent layer. NOVA bridges your digital twin and your shop floor, connects IT and OT, and gives your teams the Physical AI platform to simulate, deploy, and scale automation across your entire operation.",
+    "url": "https://www.wandelbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build a flexible, industrial robot automation environment with Wandelbots. Software-first, scalable, and built for change.",
+    "url": "https://www.wandelbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Creating the foundation for a world where Physical AI powers every industrial process.",
+    "url": "https://www.wandelbots.com/partner-ecosystem",
+    "pass": 1
+   },
+   {
+    "quote": "Validate new concepts in industrial settings, learn from real-world data, and accelerate innovation.",
+    "url": "https://www.wandelbots.com/partner-ecosystem",
+    "pass": 1
+   },
+   {
+    "quote": "Original Equipment Manufacturers",
+    "url": "https://www.wandelbots.com/partner-ecosystem",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers of robots, sensors, controllers, and automation equipment that bring Physical AI-ready hardware to the ecosystem.",
+    "url": "https://www.wandelbots.com/partner-ecosystem",
+    "pass": 1
+   },
+   {
+    "quote": "Automation and engineering experts that design, deploy, and scale Physical AI solutions across industrial environments.",
+    "url": "https://www.wandelbots.com/partner-ecosystem",
+    "pass": 1
+   },
+   {
+    "quote": "“Our partnership with Wandelbots brings sovereign AI infrastructure and Physical AI together—leveraging the Industrial AI Cloud to enable secure, scalable, and intelligent robotics for European industry.”",
+    "url": "https://www.wandelbots.com/partner-ecosystem",
+    "pass": 1
+   },
+   {
+    "quote": "Physical AI for Manufacturing | Wandelbots",
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "pass": 1
+   },
+   {
+    "quote": "Build your advantage on the factory floor now",
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "pass": 1
+   },
+   {
+    "quote": "Combine learned behaviour with reliable industrial execution. Policies from your teams or partners are validated in the digital twin, production data improves the next generation, and deterministic control remains where repeatability matters.",
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "pass": 1
+   },
+   {
+    "quote": "Extend common software, data and governance principles from industrial arms to mobile robots and humanoids. The task determines the robot, not",
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "pass": 1
+   },
+   {
+    "quote": "No. Reliable industrial systems combine deterministic logic with AI-based perception or learned behaviour where it adds value.",
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "pass": 1
+   },
+   {
+    "quote": "No. Choose the right robot for each task, from industrial arms to mobile robots and humanoids.",
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "pass": 1
+   },
+   {
+    "quote": "Wandelbots NOVA enables truly software-defined automation in the field of industrial robotic arms",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wandelbotsgmbh1587129858282.wandelbots-nova-platform?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "With NOVA, manufacturers can plan, build, and operate",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wandelbotsgmbh1587129858282.wandelbots-nova-platform?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of industrial robotics designed to program any robot via smart input devices and example-based teaching.",
+    "url": "https://pitchbook.com/profiles/company/225802-72",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of industrial robotics designed to program any robot via smart input devices and example-based teaching. The c",
+    "url": "https://pitchbook.com/profiles/company/225802-72",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Every month spent repeating engineering work is capacity you cannot use to improve production. Build a connected software foundation now to shorten development, improve asset performance and carry proven work into the next project. The advantage grows as more of your operations can build on it.",
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "pass": 1
+   },
+   {
+    "quote": "Carry intelligence across form factors",
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "pass": 1
+   },
+   {
+    "quote": "Building bridges over barriers.",
+    "url": "https://www.wandelbots.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Barriers will always exist. We move forward anyway.",
+    "url": "https://www.wandelbots.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://www.wandelbots.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Please contact us via the form at the bottom of this page. Our Talent Acquisition Manager will get back to you as soon as possible.",
+    "url": "https://www.wandelbots.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Please check out our homepage and our social media channels to learn more about Wandelbots - our stories, our culture and what drives us. You can also find an overview of our recruitment process on this career page, and our Talent Acquisition Manager will keep you updated during the entire application process.",
+    "url": "https://www.wandelbots.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Get to know the people you’ll be working with. Learn more about the team, our culture, and what it’s like to be part of Wandelbots.",
+    "url": "https://www.wandelbots.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "「目-脳-手」の構成で、2026年9月に香港上場",
+    "url": "https://mfg-ai.com/vendors/wandelbots-nova",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/225802-72",
+    "pass": 3
+   },
+   {
+    "quote": "Wandelbots has 111 total employees.",
+    "url": "https://pitchbook.com/profiles/company/225802-72",
+    "pass": 3
+   },
+   {
+    "quote": "What is Wandelbots’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/225802-72",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Wandelbots is",
+    "url": "https://pitchbook.com/profiles/company/225802-72",
+    "pass": 3
+   },
+   {
+    "quote": "それが上場企業であろうと非上場企業であろうと変わりません",
+    "url": "https://note.com/lakesidev/n/n9fdba7450ee5",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Please contact us via the form at the bottom of this page. Our Talent Acquisition Manager will get back to you as soon as possible.",
+    "url": "https://www.wandelbots.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/225802-72",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Wandelbots NOVA（Wandelbots）の特徴・用途・日本での提供状況 | MFG-AI",
+    "url": "https://mfg-ai.com/vendors/wandelbots-nova",
+    "pass": 3
+   },
+   {
+    "quote": "日本のロボットメーカーにとって、こうした非依存のソフトは補完と競合の両面を持ちます",
+    "url": "https://mfg-ai.com/vendors/wandelbots-nova",
+    "pass": 3
+   },
+   {
+    "quote": "日本製ロボットを導入済みの工場が他社製ロボットと一緒にAIで制御したいとき、橋渡しになる一方、ロボットの価値が上に乗るソフトウェアに移るほど、ロボット本体は交換可能な部品に近づきます",
+    "url": "https://mfg-ai.com/vendors/wandelbots-nova",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達・顧客数・日本での提供状況は公表資料で確認できない",
+    "url": "https://mfg-ai.com/vendors/wandelbots-nova",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サオスの実務者が、貴社の現場とデータに合わせた進め方をご提案します",
+    "url": "https://mfg-ai.com/vendors/wandelbots-nova",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Wandelbots NOVA（Wandelbots）の特徴・用途・日本での提供状況 | MFG... — Wandelbots NOVA（Wandelbots／ドイツ（ドレスデン））はフィジカルAI・ロボットに分類される製造業向けAIの製品・サービスです。 用途、提供形態、対応業種、価格の公開状況、日本での提供体制を一次情報にもとづき整理しました。",
+    "url": "https://mfg-ai.com/vendors/wandelbots-nova",
+    "pass": 3
+   },
+   {
+    "quote": "Wandelbots – Bringing Physical AI to the Shop Floor — Take Control of Your Automation Strategy. Build a flexible, industrial robot automation environment with Wandelbots. Software-first, scalable, and built for change.",
+    "url": "https://www.wandelbots.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Wandelbots のロボット工学スタートアップとそのノーコードアプローチ... — Jul 23, 2025 · Wandelbots と従来のロボットメーカーの違いは何ですか? KUKA や ABB などの従来のプロバイダーは独自のコントローラーに大きく依存していますが、Wandelbots は、共通のインターフェースを介してさまざまなロボット ブランドを統合する、メーカーに依存しない ...",
+    "url": "https://xpert.digital/ja/ロボット工学のスタートアップ/",
+    "pass": 3
+   },
+   {
+    "quote": "Wandelbots NOVA Platform | Microsoft Marketplace — To develop, test, and validate robotic applications in a virtual environment, you can use the Wandelbots NOVA Developer License, available through this offer. It allows you to work with virtual robots and perform early assessments before physical deployment.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/saas/wandelbotsgmbh1587129858282.wandelbots-nova-platform?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のフィジカルAI勢：Wandelbots・NEURA・Sereactのベンダー非依存... — Oct 12, 2026 · ドイツ発のWandelbots（NOVA）、NEURA Robotics、Sereactは、特定のロボットメーカーに依存しないソフトウェア基盤を掲げています。 米国勢との違い、日本のロボットメーカーとの補完と競合の関係、日本の工場が評価するときの観点を整理します。",
+    "url": "https://mfg-ai.com/global/european-physical-ai-startups",
+    "pass": 3
+   },
+   {
+    "quote": "Wandelbots – Bringing Physical AI to the Shop Floor — Wandelbots develops the physical AI platform for industrial automation connecting data, AI and digital twins with industrial robots and machines.",
+    "url": "https://www.wandelbots.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About Wandelbots | Shaping the Future of Robotics — Meet Wandelbots and discover our mission, culture, and journey to make robotics more accessible, flexible, and scalable for everyone.",
+    "url": "https://www.wandelbots.com/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Wandelbots のロボット工学スタートアップとそのノーコードアプローチ... — Jul 23, 2025 · Wandelbotsは、従来のプログラミングスキルを必要とせず、専門家でなくても産業用ロボットを操作できるノーコードアプローチを開発したことから、ドイツで最も有名なロボット工学スタートアップの一つとされています。 ドレスデンに拠点を置く同社は、製造業におけるコスト削減だけでなく、多くの業界における労働力不足への対応も約束しています。 Wandelbots を設立したのは誰ですか? この会社の設立に関わった人々は誰ですか？",
+    "url": "https://xpert.digital/ja/ロボット工学のスタートアップ/",
+    "pass": 3
+   },
+   {
+    "quote": "Wandelbots - LinkedIn — Wandelbots connects AI, digital twins, and robots in a unified execution environment. With Wandelbots NOVA, companies can plan, simulate, validate, deploy, and optimize robotic operations...",
+    "url": "https://jp.linkedin.com/company/wandelbots",
+    "pass": 3
+   },
+   {
+    "quote": "Wandelbots - LinkedIn — This requires digital intelligence, digital twins, and robotic systems to work together seamlessly. Wandelbots connects AI, digital twins, and robots in a unified execution environment.",
+    "url": "https://www.linkedin.com/company/wandelbots/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Wandelbots 2026 Company Profile: Valuation, Funding ...Wandelbots – Performance Metrics & Competitor Intelligence – 2026Wandelbots - 2026 Company Profile, Team, Funding ... - TracxnWandelbots Funding History: $121.9M | Indexed.vcWandelbots: Funding, Team & Investors | Startup IntrosWandelbots - Products, Competitors, Financials, Employees ...Wandelbots Funding: How Much Did They Raise & Key Invest",
+    "url": "https://pitchbook.com/profiles/company/225802-72",
+    "pass": 3
+   },
+   {
+    "quote": "Wandelbots – Performance Metrics & Competitor Intelligence – 2026 — Wandelbots reports $57.5M in revenue, more than 100 employees (listed as 100+), and 3.5% employee growth; the company was founded in 2017 and is based in Dresden.",
+    "url": "https://compworth.com/company/wandelbots",
+    "pass": 3
+   },
+   {
+    "quote": "Wandelbots - 2026 Company Profile, Team, Funding ... - TracxnWandelbots Funding History: $121.9M | Indexed.vcWandelbots: Funding, Team & Investors | Startup IntrosWandelbots - Products, Competitors, Financials, Employees ...Wandelbots Funding: How Much Did They Raise & Key Investors — Mar 7, 2026 · Wandelbots has raised $126M in funding from investors like Insight Partners, German Accelerator and ",
+    "url": "https://tracxn.com/d/companies/wandelbots/__kRRM8edQBtTtXnagC1Jcd5nSwuojBea4Sd3e0jFJ2B0",
+    "pass": 3
+   },
+   {
+    "quote": "Wandelbots Funding History: $121.9M | Indexed.vc — Oct 27, 2026 · Wandelbots is an artificial intelligence company in Dresden, Germany, founded in 2017. It has raised $121.9M across 4 rounds, most recently an $84.0M Series C in January 2022.",
+    "url": "https://indexed.vc/companies/wandelbots",
+    "pass": 3
+   },
+   {
+    "quote": "Wandelbots: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Wandelbots has raised $121.0M in total across 3 funding rounds. Wandelbots is a Dresden-based robotics software company founded in 2017 as a TU Dresden spin-off, specializing in a vendor-agnostic platform called Wandelbots NOVA that simplifies industrial robot programming and automation.",
+    "url": "https://startupintros.com/orgs/wandelbots",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "マイクロソフトのベンチャー・ファンド：新興企業に求められる4つの「... Oct 10, 2024 · Applied Intuition、ARMADA、BOLSTER、bonsai、builder.io、Cerebri、datologyai、Evisort、figure eight、Guardrails AI、AWI ROBOTICS、NEON、netradyne、NOBLEAI、PAXAFE、synthlabs、Typeface、unify、VOLLEY、wandelbots M12 - Microsoft's Venture Capital Fund M12 is Microsoft's venture capital fund. We invest in early-s m12.vc",
+    "url": "https://note.com/lakesidev/n/n9fdba7450ee5",
+    "pass": 3
+   },
+   {
+    "quote": "Omniverseへ：OpenUSDベースのシミュレーションと合成データ生成がロ... Dec 17, 2024 · * Wandelbots は、そのNOVAプラットフォームをIsaac Simと統合して、物理ベースのデジタルツインと直感的なトレーニング環境を作成し、ロボットの相互作用を簡素化し、現実世界のシナリオでのロボットシステムのシームレスなテスト、検証、展開を可能にして ...",
+    "url": "https://note.com/kawamura_akihiro/n/n462812e5e343",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA解説：ロボティクス・シミュレーションとは｜Kawamura Akihiro Dec 30, 2024 · ディープテックのスタートアップであるWandelbots社は、Isaac Simを自社のアプリケーションに統合することでカスタムシミュレータを構築し、エンドユーザーがシミュレーションでロボットのワークセルを簡単にプログラムし、モデルを実際のロボットに ...",
+    "url": "https://note.com/kawamura_akihiro/n/n21ef8ccc1988",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "マイクロソフトのベンチャー・ファンド：新興企業に求められる4つの「D」｜だうじょん",
+    "url": "https://note.com/lakesidev/n/n9fdba7450ee5",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロソフトのベンチャー・ファンド：新興企業に求められる4つの「D」",
+    "url": "https://note.com/lakesidev/n/n9fdba7450ee5",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロソフトの株価見通しが「アウトパフォーム」から「パフォーム」に引き下げ",
+    "url": "https://note.com/lakesidev/n/n9fdba7450ee5",
+    "pass": 3
+   },
+   {
+    "quote": "られました。この背景には、OpenAIへの投資に伴う損失リスクや、AI導入の遅れに対する懸念があります。特に2025年度にかけて、",
+    "url": "https://note.com/lakesidev/n/n9fdba7450ee5",
+    "pass": 3
+   },
+   {
+    "quote": "OpenAIへの投資による損失が20億〜30億ドルに達する可能性",
+    "url": "https://note.com/lakesidev/n/n9fdba7450ee5",
+    "pass": 3
+   },
+   {
+    "quote": "が指摘されており、短期的な投資利益に対する期待が過度であったとの見方が強まっています。",
+    "url": "https://note.com/lakesidev/n/n9fdba7450ee5",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロソフトのインベストメント・アームとしてベンチャー・ファンドを運用する「M12」",
+    "url": "https://note.com/lakesidev/n/n9fdba7450ee5",
+    "pass": 3
+   },
+   {
+    "quote": "は、引き続き、次世代のAI企業への積極的な投資を続けています。投資先候補を評価する際には、",
+    "url": "https://note.com/lakesidev/n/n9fdba7450ee5",
+    "pass": 3
+   },
+   {
+    "quote": "Omniverseへ：OpenUSDベースのシミュレーションと合成データ生成がロボット学習をどのように進歩させるか｜Kawamura Akihiro",
+    "url": "https://note.com/kawamura_akihiro/n/n462812e5e343",
+    "pass": 3
+   },
+   {
+    "quote": "Omniverseへ：OpenUSDベースのシミュレーションと合成データ生成がロボット学習をどのように進歩させるか",
+    "url": "https://note.com/kawamura_akihiro/n/n462812e5e343",
+    "pass": 3
+   },
+   {
+    "quote": "産業界では、フィジカルAIが物理的な業務を自動化しています。フィジカルAIは、現実世界を安全にナビゲートする自動運転車、複雑な産業タスクを実行するマニピュレーター、そして私たちと協力して働くヒューマノイドロボットなどの形で具現化されます。工場やプラントは、フィジカルAIを活用して業務を監視・調整したり、私たちと対話したりできるようになるでしょう。",
+    "url": "https://note.com/kawamura_akihiro/n/n462812e5e343",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIAは、フィジカルAIの開発者を支えるために3つのコンピュータを提供しています。まず、モデルはDGXでトレーニングされます。次に、Omniverse上で強化学習と物理フィードバックを用いてAIが微調整・テストされます。そして、学習済みのAIはNVIDIA Jetson AGXロボットコンピュータ上で動作します。NVIDIA Omniverseは、フィジカルAIシミュレーションのための物理ベースのオペレーティングシステムです。",
+    "url": "https://note.com/kawamura_akihiro/n/n462812e5e343",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットは、Omniverse上に構築されたロボットジム「Isaac Lab」でスキルを学習し、微調整を行います。これは1台のロボットの例ですが、将来の工場は、ロボットチームをオーケストレーションし、数千のセンサーを通じて工場全体のオペレーションを監視するようになります。工場のデジタルツインには「Mega」というOmniverseのブループリントが使用されます。Megaを活用すれば、工場のデジタルツインには仮想ロボットとそのAIモデル（ロボットの頭脳）が組み込まれます。",
+    "url": "https://note.com/kawamura_akihiro/n/n462812e5e343",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットは、環境を認識し、推論し、次の動きを計画し、最終的にそれをアクションに変換してタスクを実行します。これらのアクションはOmniverseのワールドシミュレータによって環境内でシミュレートされ、その結果はOmniverseセンサーシミュレーションを通じてロボットの頭脳にフィードバックされます。このセンサーシミュレーションに基づき、ロボットの頭脳は次のアクションを決定し、そのサイクルが繰り返されます。Megaは、工場デジタルツイン内のすべての状態と位置を正確に追跡します。",
+    "url": "https://note.com/kawamura_akihiro/n/n462812e5e343",
+    "pass": 3
+   },
+   {
+    "quote": "このソフトウェアインザループのテストにより、ソフトウェア定義のプロセス、物理空間、具現化が実現し、産業界はOmniverseデジタルツイン内で変更をシミュレーション・検証した後、物理世界に展開することができます。これにより、大幅なリスクとコストの削減が可能になります。",
+    "url": "https://note.com/kawamura_akihiro/n/n462812e5e343",
+    "pass": 3
+   },
+   {
+    "quote": "フィジカルAIの時代が到来し、世界の重工業とロボティクスを変革しています。",
+    "url": "https://note.com/kawamura_akihiro/n/n462812e5e343",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA解説：ロボティクス・シミュレーションとは｜Kawamura Akihiro",
+    "url": "https://note.com/kawamura_akihiro/n/n21ef8ccc1988",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA解説：ロボティクス・シミュレーションとは",
+    "url": "https://note.com/kawamura_akihiro/n/n21ef8ccc1988",
+    "pass": 3
+   },
+   {
+    "quote": "ロボティクス・シミュレーションによって、開発者は現実世界を物理ベースでデジタル表現したロボットを仮想的に訓練、テスト、検証することができる。",
+    "url": "https://note.com/kawamura_akihiro/n/n21ef8ccc1988",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットは倉庫で商品を移動させたり、食品を包装したり、自動車の組み立てを手伝ったりしている。",
+    "url": "https://note.com/kawamura_akihiro/n/n21ef8ccc1988",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicalAIとロボティクス・シミュレーションだ。",
+    "url": "https://note.com/kawamura_akihiro/n/n21ef8ccc1988",
+    "pass": 3
+   },
+   {
+    "quote": "物理的な世界を理解し、相互作用できるAIモデルのことである。PhysicalAIは、自動運転車、産業用マニピュレーター、モバイルロボット、ヒューマノイド、さらには工場や倉庫のようなロボットが運営するインフラなど、自律的な機械やロボットの次の波を具現化する。",
+    "url": "https://note.com/kawamura_akihiro/n/n21ef8ccc1988",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル世界におけるロボットの仮想試運転では、ロボットはまずロボット・シミュレーション・ソフトウェアを使って訓練されてから、実世界のユースケースに配備される。",
+    "url": "https://note.com/kawamura_akihiro/n/n21ef8ccc1988",
+    "pass": 3
+   },
+   {
+    "quote": "高度なロボット工学シミュレータは、物理的なロボットを必要とせずに、仮想ロボットのロボット学習とテストを容易にする。物理学の原理を適用し、実世界の状況を再現することで、これらのシミュレータは、物理的なロボットに配備する機械学習モデルを訓練するための合成データセットを生成する。",
+    "url": "https://note.com/kawamura_akihiro/n/n21ef8ccc1988",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "#Wandelbots - Search / X See posts about #Wandelbots on X. See what people are saying and join the conversation.",
+    "url": "https://x.com/hashtag/Wandelbots",
+    "pass": 3
+   },
+   {
+    "quote": "#Wandelbots introduces #FANUC integration! After Universal ... #Wandelbots introduces #FANUC integration! 🤖🚀 After Universal Robots and Yaskawa, the Dresden-based robotics #software company has now added a third #robotics manufacturer to its portfolio: Market leader FANUC will be integrated next.",
+    "url": "https://x.com/wandelbots/status/1600874794194542592",
+    "pass": 3
+   },
+   {
+    "quote": "Schaeffler Group on X: \" Physical AI for industrial ... Together, we will further develop the open Wandelbots NOVA platform for industrial and humanoid robotics. ️ Press release: https://t.co/is9DyGRtGd Photo: Wandelbots",
+    "url": "https://x.com/SchaefflerGroup/status/2113166479415767191",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on the opportunity to discover the future ... 🇺🇸 Don't miss out on the opportunity to discover the future of 🤖 at @AutomateShow! Visit us at #Wandelbots booth 2240 with @Gennflex_Inc and @Yaskawa_Motoman booth 3223 to witness the cutting-edge innovations and advancements that are revolutionizing the world of #automation! https://t.co/vDsl6eRTXP",
+    "url": "https://x.com/wandelbots/status/1660559527459135489",
+    "pass": 3
+   },
+   {
+    "quote": "@wandelbots | X The latest posts from @wandelbots",
+    "url": "https://x.com/wandelbots",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Wandelbots - LinkedIn This requires digital intelligence, digital twins, and robotic systems to work together seamlessly. Wandelbots connects AI, digital twins, and robots in a unified execution environment.",
+    "url": "https://www.linkedin.com/company/wandelbots/",
+    "pass": 3
+   },
+   {
+    "quote": "Wandelbots | LinkedIn Wandelbots connects AI, digital twins, and robots in a unified execution environment. With Wandelbots NOVA, companies can plan, simulate, validate, deploy, and optimize robotic operations...",
+    "url": "https://in.linkedin.com/company/wandelbots",
+    "pass": 3
+   },
+   {
+    "quote": "Christian Piechnick – Wandelbots | LinkedInWandelbots Jobs in Worldwide (17,000+ Open Roles) | LinkedInKatharina Jessa – Wandelbots | LinkedInWe are looking forward to GTC Berlin! It’s great to see the ...#wandelbots #robotics #innovation #automation | Wandelbots Berufserfahrung: Wandelbots · Ausbildung: Technische Universität Dresden · Ort: Dresden und Umgebung · 500+ Kontakte auf LinkedIn. Sehen",
+    "url": "https://de.linkedin.com/in/christian-piechnick",
+    "pass": 3
+   },
+   {
+    "quote": "Wandelbots Jobs in Worldwide (17,000+ Open Roles) | LinkedIn Today’s top 17,000+ Wandelbots jobs in Worldwide. Leverage your professional network, and get hired. New Wandelbots jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/wandelbots-jobs-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "Christian Piechnick – Wandelbots | LinkedInAbout Wandelbots | Shaping the Future of RoboticsWandelbots Management Team | Org Chart - RocketReach加藤貞顕 - WikipediaWandelbots - LinkedInChristian Piechnick – Rise of AI | Europe’s AI Ecosystem Berufserfahrung: Wandelbots · Ausbildung: Technische Universität Dresden · Ort: Dresden und Umgebung · 500+ Kontakte auf LinkedIn. Sehen Sie sich das Profil von C",
+    "url": "https://de.linkedin.com/in/christian-piechnick",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Wandelbots | Dresden - FacebookErik is a #robotics engineer, and this is his #Wandelbots ...Wandelbots - Tadaaa! ♀️ Here it is! We are proud to ...Wandelbots | design, innovation, engineer, STEM fields ...Wandelbots - Wandelbots’ strong partnerships, including ...Wandelbots makes it easy for everyone to teach new skills to ...Wandelbots - Erik is a #robotics engineer, and this is his ... Jun 21, 2",
+    "url": "https://www.facebook.com/wandelbots/",
+    "pass": 3
+   },
+   {
+    "quote": "Erik is a #robotics engineer, and this is his #Wandelbots ... Apr 14, 2023 · Erik is a #robotics engineer, and this is his #Wandelbots story! ️ “I write software, to make robots more capable of complex tasks.” Watch the full...",
+    "url": "https://www.facebook.com/wandelbots/videos/erik-is-a-robotics-engineer-and-this-is-his-wandelbots-story-️-i-write-software-/236595652260822/",
+    "pass": 3
+   },
+   {
+    "quote": "Wandelbots - Tadaaa! ♀️ Here it is! We are proud to ... Apr 4, 2023 · Das Wandelbots Operating System kombiniert virtuelle und physische Roboterumgebungen miteinander und ermöglicht Anwendern, Prozesse in ihren Unternehmen zu automatisieren – unabhängig vom bestehenden Hardware-Setup. „2023 ist ein entscheidendes Jahr für uns, denn es markiert den Beginn einer ausschließlich",
+    "url": "https://www.facebook.com/wandelbots/posts/-tadaaa-️-here-it-is-we-are-proud-to-announce-the-launch-of-our-new-website-http/952127169547951/",
+    "pass": 3
+   },
+   {
+    "quote": "Wandelbots | design, innovation, engineer, STEM fields ...Wandelbots - Wandelbots’ strong partnerships, including ...Wandelbots makes it easy for everyone to teach new skills to ...Wandelbots - Erik is a #robotics engineer, and this is his ... 2. Design - The intuitive user interface of the Wandelbots app makes the path and the process editable, so you can adjust keyframes and control I/Os. 3. Don",
+    "url": "https://www.facebook.com/WevolverApp/videos/wandelbots/671372651595189/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.wandelbots.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wandelbots.com/partner-ecosystem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wandelbots.com/physical-ai-for-manufacturing-wandelbots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wandelbots.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wandelbots.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.wandelbots.com/hubfs/Partners%20page/Ecosystem.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.wandelbots.com/hubfs/Partners%20page/Partner%20logos/Microsoft.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.wandelbots.com/hubfs/Partners%20page/Partner%20logos/Partners_nvidia.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.wandelbots.com/hubfs/Partners%20page/Partner%20logos/SAP.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mfg-ai.com/vendors/wandelbots-nova",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xpert.digital/ja/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B7%A5%E5%AD%A6%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wandelbotsgmbh1587129858282.wandelbots-nova-platform?tab=overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%BF%E3%82%BF%E3%83%BB%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B7%E3%82%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xpert.digital/ja/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B7%A5%E5%AD%A6%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/wandelbots",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/225802-72",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/wandelbots",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/wandelbots/__kRRM8edQBtTtXnagC1Jcd5nSwuojBea4Sd3e0jFJ2B0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://indexed.vc/companies/wandelbots",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/lakesidev/n/n9fdba7450ee5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kawamura_akihiro/n/n462812e5e343",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kawamura_akihiro/n/n21ef8ccc1988",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/Wandelbots",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/wandelbots/status/1600874794194542592",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SchaefflerGroup/status/2113166479415767191",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/wandelbots/status/1660559527459135489",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/wandelbots/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/wandelbots",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/christian-piechnick",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/wandelbots-jobs-worldwide",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/wandelbots/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/wandelbots/videos/erik-is-a-robotics-engineer-and-this-is-his-wandelbots-story-️-i-write-software-/236595652260822/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/wandelbots/posts/-tadaaa-️-here-it-is-we-are-proud-to-announce-the-launch-of-our-new-website-http/952127169547951/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/WevolverApp/videos/wandelbots/671372651595189/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/christian-piechnick",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/wandelbots",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Wandelbots 日本 導入",
+   "results": [
+    "https://mfg-ai.com/vendors/wandelbots-nova",
+    "https://www.wandelbots.com/",
+    "https://xpert.digital/ja/ロボット工学のスタートアップ/",
+    "https://marketplace.microsoft.com/ja-jp/product/saas/wandelbotsgmbh1587129858282.wandelbots-nova-platform?tab=overview",
+    "https://mfg-ai.com/global/european-physical-ai-startups",
+    "https://japan.zdnet.com/article/35130748/",
+    "https://www.itmedia.co.jp/mobile/articles/2611/10/news079.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wandelbots 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本タタ・コンサルタンシー・サービシズ",
+    "https://www.wandelbots.com/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.atlassian.com/ja/blog/atlassian-japan-launched",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://jpmktg.winbond.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wandelbots Japan",
+   "results": [
+    "https://www.wandelbots.com/",
+    "https://www.wandelbots.com/about-us",
+    "https://xpert.digital/ja/ロボット工学のスタートアップ/",
+    "https://jp.linkedin.com/company/wandelbots",
+    "https://www.linkedin.com/company/wandelbots/home/",
+    "https://36kr.jp/83093/",
+    "https://japan.zdnet.com/article/35130748/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wandelbots manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Wandelbots white label OR reseller OR partner program",
+   "results": [
+    "https://www.wandelbots.com/",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.wandelbots.com/wandelbots-nova",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wandelbots founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/225802-72",
+    "https://compworth.com/company/wandelbots",
+    "https://tracxn.com/d/companies/wandelbots/__kRRM8edQBtTtXnagC1Jcd5nSwuojBea4Sd3e0jFJ2B0",
+    "https://indexed.vc/companies/wandelbots",
+    "https://startupintros.com/orgs/wandelbots",
+    "https://www.cbinsights.com/company/wandelbots",
+    "https://www.zoominfo.com/financial/wandelbots-gmbh/453052404"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Wandelbots",
+   "results": [
+    "https://note.com/tag/未確認飛行パンプキン",
+    "https://note.com/lakesidev/n/n9fdba7450ee5",
+    "https://note.com/kawamura_akihiro/n/n462812e5e343",
+    "https://note.com/kawamura_akihiro/n/n21ef8ccc1988",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/cute_willet990/n/n9529041a97d7",
+    "https://note.com/lofty_coot5348/n/ndaaba4062889"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Wandelbots",
+   "results": [
+    "https://x.com/hashtag/Wandelbots",
+    "https://x.com/wandelbots/status/1600874794194542592",
+    "https://x.com/SchaefflerGroup/status/2113166479415767191",
+    "https://x.com/wandelbots/status/1660559527459135489",
+    "https://x.com/wanderbots",
+    "https://x.com/hashtag/Wanderbots",
+    "https://x.com/Wanderbots/status/1598862510165303297"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Wandelbots",
+   "results": [
+    "https://www.linkedin.com/company/wandelbots/",
+    "https://in.linkedin.com/company/wandelbots",
+    "https://de.linkedin.com/in/christian-piechnick",
+    "https://www.linkedin.com/jobs/wandelbots-jobs-worldwide",
+    "https://de.linkedin.com/in/katharinajessa",
+    "https://www.linkedin.com/posts/wandelbots_wandelbots-robotics-innovation-activity-7234454730880565248-5VrG",
+    "https://www.linkedin.com/posts/wandelbots_we-are-looking-forward-to-gtc-berlin-it-activity-7492487608145522688-rvOZ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Wandelbots",
+   "results": [
+    "https://www.facebook.com/wandelbots/",
+    "https://www.facebook.com/wandelbots/videos/erik-is-a-robotics-engineer-and-this-is-his-wandelbots-story-️-i-write-software-/236595652260822/",
+    "https://www.facebook.com/wandelbots/posts/-tadaaa-️-here-it-is-we-are-proud-to-announce-the-launch-of-our-new-website-http/952127169547951/",
+    "https://www.facebook.com/WevolverApp/videos/wandelbots/671372651595189/",
+    "https://www.facebook.com/wandelbots/posts/-wandelbots-strong-partnerships-including-yaskawamotoman-have-been-an-integral-p/909497603810908/",
+    "https://www.facebook.com/WevolverApp/videos/wandelbots-makes-it-easy-for-everyone-to-teach-new-skills-to-a-robot/444348804302195/",
+    "https://www.facebook.com/wandelbots/posts/erik-is-a-robotics-engineer-and-this-is-his-wandelbots-story-️-i-write-software-/958999335527401/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wandelbots note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.wandelbots.com/",
+    "https://de.linkedin.com/in/christian-piechnick",
+    "https://www.wandelbots.com/about-us",
+    "https://rocketreach.co/wandelbots-management_b456b3f7fca0a779",
+    "https://www.linkedin.com/company/wandelbots/home/",
+    "https://riseof.ai/speaker/christian-piechnick/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Wandelbots X 投稿",
+   "results": [
+    "https://x.com/wandelbots",
+    "https://www.wandelbots.com/",
+    "https://docs.wandelbots.io/25.5/pathplanning-introduction",
+    "https://docs.wandelbots.io/developer/quickstart",
+    "https://xpert.digital/ja/ロボット工学のスタートアップ/",
+    "https://www.wandelbots.com/nova-platform",
+    "https://x.com/wandelbots/status/1660559527459135489"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部32頁・検索12回）"
+ }
+}
