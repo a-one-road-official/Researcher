@@ -1,0 +1,1743 @@
+{
+ "name": "IOTFlows",
+ "aliases": [],
+ "context": "旧営業リスト｜Factory data / production ops｜送付済み",
+ "researched_at": "2026-11-11T04:43:44.161674+00:00",
+ "official_url": "https://www.iotflows.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "10-Feb-2022 $710K   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/463247-29",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Slack, Teams, Discord, webhooks, ERP import, the REST API, and custom connectors for Enterprise.",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom integrations (Enterprise)",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Machine health monitoring with vibration analysis, bearing fault detection and predictive diagnostics.",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production Monitoring",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stamping press monitoring",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How to use IoTFlows Products and Services",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How machine data is protected",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Per-device plans, hardware, Enterprise and the Scheduler and Maintain modules in one place.",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "IoTFlows is a manufacturing intelligence platform that monitors machines with plug-and-play sensors or custom integrations to any PLC, robot or sensor, and turns the data into utilization, downtime, OEE, production scheduling and maintenance workflows.",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Where was downtime actually coming from? We had no idea until we started using IoTFlows SenseAi. By tracking downtime categorization week to week and month to month, we could see exactly where our biggest problems were and track whether our fixes actually worked.",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SenseAi gave us eyes we never had before. Our team leaders can instantly see which machines are running, which are down, and identify issues immediately instead of discovering them hours later. That visibility transformed our ability to manage production.",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The speed of implementation was remarkable. We went from limited visibility to complete operational transparency in less than a week. We're now identifying inefficiencies we didn't even know existed. IoTFlows has fundamentally changed how we approach manufacturing optimization.",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Press 12",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Who runs what, on which machine, by when. Gantt, Kanban, an optimizer that proposes before it writes, and simulation.",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Press 12 stopped",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Any PLC, robot, sensor or ERP through the IoTFlows edge device and connectors built for your plant, as a scoped project.",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Press 4",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "REAL-TIME PERFORMANCE & PRODUCTION TRACKING",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See Every Second of Production. Hit Every Target.",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time production tracking",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production variance alerts and target tracking",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Job progress visibility across all teams and production lines",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stop digging through spreadsheets. Get reports customized to your shift schedules, operators, and departments. Track utilization, downtime patterns, and OEE metrics across all machines.",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Exportable data for stakeholder presentations",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Slack, Teams, Discord, webhooks, ERP import, the REST API, and custom connectors for Enterprise.",
+    "url": "https://www.iotflows.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Custom integrations (Enterprise)",
+    "url": "https://www.iotflows.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance",
+    "url": "https://www.iotflows.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Machine health monitoring with vibration analysis, bearing fault detection and predictive diagnostics.",
+    "url": "https://www.iotflows.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Production Monitoring",
+    "url": "https://www.iotflows.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Stamping press monitoring",
+    "url": "https://www.iotflows.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "How to use IoTFlows Products and Services",
+    "url": "https://www.iotflows.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "How machine data is protected",
+    "url": "https://www.iotflows.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Per-device plans, hardware, Enterprise and the Scheduler and Maintain modules in one place.",
+    "url": "https://www.iotflows.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "From a family factory to a global manufacturer, we kept seeing the same thing. The machines held the answers, and almost no one could get them out. Most were never built to report. The largest plants paid for long integration projects; everyone else ran on clipboards.",
+    "url": "https://www.iotflows.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "go on in minutes, with no PLC and no rewiring, on a 1985 press or last year’s mill. Where machines already speak, our engineers",
+    "url": "https://www.iotflows.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Slack, Teams, Discord, webhooks, ERP import, the REST API, and custom connectors for Enterprise.",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Custom integrations (Enterprise)",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Machine health monitoring with vibration analysis, bearing fault detection and predictive diagnostics.",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Production Monitoring",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Stamping press monitoring",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How to use IoTFlows Products and Services",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How machine data is protected",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Per-device plans, hardware, Enterprise and the Scheduler and Maintain modules in one place.",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Leading manufacturers use IoTFlows to monitor operations, optimize processes, and drive measurable performance improvements across their facilities.",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Injection Molding",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Food Packaging & Production",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "35% productivity increase",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The speed of implementation was remarkable. We went from limited visibility to complete operational transparency in less than a week. We're now identifying inefficiencies we didn't even know existed. IoTFlows has fundamentally changed how we approach manufacturing optimization.",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Before, we'd plan production based on assumptions about machine capacity. Now we know exactly what each machine is capable of and where the gaps are. That visibility is the foundation for systematic optimization—you can't improve what you can't measure.",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The IoTFlows Machine Sensors continue to provide us with valuable real-time data that we rely on to measure machine utilization and overall equipment effectiveness (OEE). The dashboard has become an essential tool in our daily operations.",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Before IoTFlows, we'd set a target and hope we hit it. Now we know by mid-afternoon exactly where we'll land and whether we need to adjust. That shift from hoping to knowing is everything. It turns production management from firefighting into orchestration.",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Dennis Moreno, Vice President of Manufacturing and Operations",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Slack, Teams, Discord, webhooks, ERP import, the REST API, and custom connectors for Enterprise.",
+    "url": "https://www.iotflows.com/company/support",
+    "pass": 1
+   },
+   {
+    "quote": "Custom integrations (Enterprise)",
+    "url": "https://www.iotflows.com/company/support",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance",
+    "url": "https://www.iotflows.com/company/support",
+    "pass": 1
+   },
+   {
+    "quote": "Machine health monitoring with vibration analysis, bearing fault detection and predictive diagnostics.",
+    "url": "https://www.iotflows.com/company/support",
+    "pass": 1
+   },
+   {
+    "quote": "Production Monitoring",
+    "url": "https://www.iotflows.com/company/support",
+    "pass": 1
+   },
+   {
+    "quote": "Stamping press monitoring",
+    "url": "https://www.iotflows.com/company/support",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "IoTFlows: The Real-Time Manufacturing Intelligence Platform",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Any PLC, robot, sensor or ERP through the IoTFlows edge device and connectors built for your plant.",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Real-Time Manufacturing Intelligence Platform",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "IoTFlows is a manufacturing intelligence platform that monitors machines with plug-and-play sensors or custom integrations to any PLC, robot or sensor, and turns the data into utilization, downtime, OEE, production scheduling and maintenance workflows.",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The speed of implementation was remarkable. We went from limited visibility to complete operational transparency in less than a week. We're now identifying inefficiencies we didn't even know existed. IoTFlows has fundamentally changed how we approach manufacturing optimization.",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Any PLC, robot, sensor or ERP through the IoTFlows edge device and connectors built for your plant, as a scoped project.",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor OEE in real-time, spot bottlenecks the moment they occur, and track performance from individual machines to plant-wide operations.",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Job progress visibility across all teams and production lines",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stop digging through spreadsheets. Get reports customized to your shift schedules, operators, and departments. Track utilization, downtime patterns, and OEE metrics across all machines.",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production Line Stalled",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production line successfully started and running",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SHOP FLOOR EMPOWERMENT",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Equip your operators with intuitive tools that make hitting production goals effortless. Real-time machine status, simplified downtime tracking, and instant collaboration and file sharing - all accessible from tablets, phones, or shop floor displays.",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intuitive iPad and mobile interface for shop floor",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Seamless collaboration between operators and management",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline communication and collaboration across your entire operation. IoTFlows empowers teams to submit maintenance requests, file issues, manage work orders, and share critical files - all from one unified platform. Track jobs in real-time, coordinate team assignments, and ensure everyone from operators to managers stays informed and aligned.",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. The Production Scheduler plans jobs on the same machines the sensors monitor: list, table, Gantt, Kanban and calendar views, drag-and-drop, an optimizer that proposes before it writes, a simulation sandbox, an ERP import, and a work queue for operators.",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Data is encrypted at every step: from the device at the edge, in transit over TLS with SHA-256 certificates, and at rest in the IoTFlows cloud. The 4G/LTE router can keep devices off the plant network entirely. Access is by organization, role and machine list, with two-step authentication on every account and an audit log of every change.",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the 100+ manufacturers that run IoTFlows.",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "About IoTFlows: Manufacturing Intelligence from Atlanta, Since 2020",
+    "url": "https://www.iotflows.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Any PLC, robot, sensor or ERP through the IoTFlows edge device and connectors built for your plant.",
+    "url": "https://www.iotflows.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "We connect the machines, people and AI on every plant floor.",
+    "url": "https://www.iotflows.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "We build the sensors and software that show a plant what every machine is doing, so its people can act before the shift ends.",
+    "url": "https://www.iotflows.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "by two Georgia Tech engineers from the factory floor: Mahmoud Parto, PhD, who grew up in the factory his father spent his life building, and Ulises Carrasco, from SLB’s manufacturing robotics team.",
+    "url": "https://www.iotflows.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "From a family factory to a global manufacturer, we kept seeing the same thing. The machines held the answers, and almost no one could get them out. Most were never built to report. The largest plants paid for long integration projects; everyone else ran on clipboards.",
+    "url": "https://www.iotflows.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "and the plant manager’s report.",
+    "url": "https://www.iotflows.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Every factory, every size.",
+    "url": "https://www.iotflows.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "More than 100 manufacturers run on IoTFlows today, including plants at Delta Air Lines, Siemens, Textron, Stanley Black & Decker and Parker. They make everything from",
+    "url": "https://www.iotflows.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Customers | IoTFlows - Trusted by Industry Leaders",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Any PLC, robot, sensor or ERP through the IoTFlows edge device and connectors built for your plant.",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by industry leaders",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Leading manufacturers use IoTFlows to monitor operations, optimize processes, and drive measurable performance improvements across their facilities.",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Electronic manufacturing",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Exercise Equipment Manufacturing",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The speed of implementation was remarkable. We went from limited visibility to complete operational transparency in less than a week. We're now identifying inefficiencies we didn't even know existed. IoTFlows has fundamentally changed how we approach manufacturing optimization.",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Sustainable Packaging Manufacturing",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Mining Equipment Manufacturing",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Valvetrain Manufacturing",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Pete Gonella, Director of Manufacturing",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Optical Manufacturing",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Medical Device Manufacturing",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Dennis Moreno, Vice President of Manufacturing and Operations",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Robotic Welding",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Plastic Packaging Manufacturing",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Now we can talk through issues, help our operators and adjust operations in real time. IoTFlows has been a game changer for us.",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Steve Petti, Plant Manager",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers on IoTFlows",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Any PLC, robot, sensor or ERP through the IoTFlows edge device and connectors built for your plant.",
+    "url": "https://www.iotflows.com/company/support",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance Software for Manufacturing: Machine Health from Vibration | IoTFlows",
+    "url": "https://www.iotflows.com/solutions/predictive-maintenance",
+    "pass": 1
+   },
+   {
+    "quote": "Any PLC, robot, sensor or ERP through the IoTFlows edge device and connectors built for your plant.",
+    "url": "https://www.iotflows.com/solutions/predictive-maintenance",
+    "pass": 1
+   },
+   {
+    "quote": "Any PLC, robot, sensor or ERP through the IoTFlows edge device and connectors built for your plant.",
+    "url": "https://www.iotflows.com/solutions/oee-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "A sensor on every machine measures availability and performance on its own, second by second. Quality comes from the scrap your operators log. Each factor gets its own number, so you know whether to fix the stops, the speed or the scrap.",
+    "url": "https://www.iotflows.com/solutions/oee-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "Quality, from the scrap your operators log",
+    "url": "https://www.iotflows.com/solutions/oee-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "Operators log scrap from the job runner in a few taps, and",
+    "url": "https://www.iotflows.com/solutions/oee-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "from one list the whole plant shares.",
+    "url": "https://www.iotflows.com/solutions/oee-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "One goal for the plant. Your own where it differs.",
+    "url": "https://www.iotflows.com/solutions/oee-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "The scrap your operators log, each entry with a reason, shown as the bad count.",
+    "url": "https://www.iotflows.com/solutions/oee-tracking",
+    "pass": 1
+   },
+   {
+    "quote": ", Director of Manufacturing, Jesel",
+    "url": "https://www.iotflows.com/solutions/oee-tracking",
+    "pass": 1
+   },
+   {
+    "quote": ". Criollos Foods has 92% of its production lines hitting their target rate.",
+    "url": "https://www.iotflows.com/solutions/oee-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "Factor by factor. Availability comes from running and stopped time and performance from parts counted against the ideal cycle time, both measured automatically by the sensor. Quality comes from the scrap your operators log with a reason. Each factor is reported on its own, so you see which one is costing you.",
+    "url": "https://www.iotflows.com/solutions/oee-tracking",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Ten event types to email, push, SMS, Slack, Teams, Discord and webhooks.",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "On every plan: Slack, Microsoft Teams and Discord, email, SMS and push, signed webhooks, a schedule import from any ERP export, and a REST API with an IoTFlows-issued key. For Enterprise customers: two-way ERP connectors and PLC, robot and sensor data through the edge device.",
+    "url": "https://www.iotflows.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Questions about a machine, a device or your account? The team is one email or call away.",
+    "url": "https://www.iotflows.com/company/support",
+    "pass": 1
+   },
+   {
+    "quote": "Email support@iotflows.com, call 404-390-2110, or send a message with the form on this page, and someone from the team will get back to you.",
+    "url": "https://www.iotflows.com/company/support",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Email support, documentation and remote onboarding are included on every plan; Enterprise adds onsite installation and training, a dedicated account manager and a 1-hour support SLA.",
+    "url": "https://www.iotflows.com/company/support",
+    "pass": 1
+   },
+   {
+    "quote": "Pro includes email support during business hours, remote onboarding and training, calibration help for every device and the full documentation. Enterprise adds 24/7 support with a 1-hour support SLA, a dedicated account team with priority escalation, onsite installation and training, and quarterly business reviews.",
+    "url": "https://www.iotflows.com/company/support",
+    "pass": 1
+   },
+   {
+    "quote": "Use Feedback / Feature Request in the dashboard header. Describe the problem you are trying to solve and how often it costs you time; there is no need to email it as well.",
+    "url": "https://www.iotflows.com/company/support",
+    "pass": 1
+   },
+   {
+    "quote": "Email support@iotflows.com with the products your team uses, how many people will attend and which shift they work, so the session lands on their shift.",
+    "url": "https://www.iotflows.com/company/support",
+    "pass": 1
+   },
+   {
+    "quote": "The Organization Owner. Billing has its own page under the profile menu, with the billing email, the cards on file and every invoice as a PDF.",
+    "url": "https://www.iotflows.com/company/support",
+    "pass": 1
+   },
+   {
+    "quote": "Just now · Push, Email, Slack",
+    "url": "https://www.iotflows.com/solutions/predictive-maintenance",
+    "pass": 1
+   },
+   {
+    "quote": "Health alerts fire when the score falls below 60, 40 and 20, by email, push, SMS, the event log, Slack, Teams, Discord or a webhook, each with its own subscriber list. A rule can open the work order in",
+    "url": "https://www.iotflows.com/solutions/predictive-maintenance",
+    "pass": 1
+   },
+   {
+    "quote": "Calendar work runs as a recurrence on the work order: an interval, weekdays, an end date. Meters count runtime hours or parts from the same sensor, email at 85% and open the work order at 100%. Health alerts add the jobs the calendar would have missed. All three land on one",
+    "url": "https://www.iotflows.com/solutions/predictive-maintenance",
+    "pass": 1
+   },
+   {
+    "quote": "Email sent at 85%",
+    "url": "https://www.iotflows.com/solutions/predictive-maintenance",
+    "pass": 1
+   },
+   {
+    "quote": "email itself on a schedule",
+    "url": "https://www.iotflows.com/solutions/oee-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "Downtime root cause analysis starts with the Downtimes report. It ranks every reason by the hours it cost, then splits them by week and by machine, so you can see whether a fix worked. Share it, export it, or have it email itself every Monday.",
+    "url": "https://www.iotflows.com/solutions/downtime-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "Give each machine a Machine Down warning, say at ten minutes, and a critical alert at thirty. The right people hear about it by email, push, SMS, Slack, Microsoft Teams or Discord, before the stop eats the shift.",
+    "url": "https://www.iotflows.com/solutions/downtime-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Open Event Notifications on the machine, set the Machine Down warning time in minutes above your normal changeover, add a longer critical time if you want a second alert, and add the people who should hear about it to each event’s subscriber list. Alerts go to email, push, SMS, Slack, Microsoft Teams or Discord, and a hosted webhook can send the same event to your own system.",
+    "url": "https://www.iotflows.com/solutions/downtime-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "Quickstart: get an email when a machine goes down",
+    "url": "https://www.iotflows.com/solutions/downtime-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "Export it, email it on a schedule, and plan the next jobs on the same counts in the",
+    "url": "https://www.iotflows.com/solutions/production-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "email itself every Monday",
+    "url": "https://www.iotflows.com/solutions/machine-utilization",
+    "pass": 1
+   },
+   {
+    "quote": "Your team gets an email at 85% and the work order opens at 100%, so the mold is serviced when it has earned it.",
+    "url": "https://www.iotflows.com/solutions/injection-molding-machine-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, with Maintain. A meter counts the press’s parts toward a trigger point, for example 200,000 caps on an eight-cavity mold. It can email at 85%, email at the trigger and open a work order at 100%, and a reset after the service starts the next cycle. Maintain starts at $500 per month.",
+    "url": "https://www.iotflows.com/solutions/injection-molding-machine-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": ". Your team gets an email at 85% and the work order opens at 100%.",
+    "url": "https://www.iotflows.com/solutions/stamping-press-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Your team gets an email at 85% to have the parts ready.",
+    "url": "https://www.iotflows.com/solutions/packaging-line-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, on Enterprise: SAML single sign-on (SSO) redirects an email address to your company’s identity provider instead of asking for a password, on the web and in the mobile apps. Multi-factor authentication (MFA) with an authenticator app is available on every account.",
+    "url": "https://www.iotflows.com/company/security",
+    "pass": 1
+   },
+   {
+    "quote": "Email-first sign-in, identity providers, two-step codes.",
+    "url": "https://www.iotflows.com/company/security",
+    "pass": 1
+   },
+   {
+    "quote": "Alerts on Slack, Teams, email, SMS and push",
+    "url": "https://www.iotflows.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Slack, Microsoft Teams and Discord alerts; email, SMS and push; webhooks",
+    "url": "https://www.iotflows.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email support, documentation and remote onboarding",
+    "url": "https://www.iotflows.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Email support, documentation and remote onboarding are included on every plan; Enterprise adds onsite installation and training, a dedicated account manager and a 1-hour support SLA.",
+    "url": "https://www.iotflows.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Questions about a machine, a device or your account? The team is one email or call away.",
+    "url": "https://www.iotflows.com/company/support/",
+    "pass": 1
+   },
+   {
+    "quote": "Email support@iotflows.com, call 404-390-2110, or send a message with the form on this page, and someone from the team will get back to you.",
+    "url": "https://www.iotflows.com/company/support/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Email support, documentation and remote onboarding are included on every plan; Enterprise adds onsite installation and training, a dedicated account manager and a 1-hour support SLA.",
+    "url": "https://www.iotflows.com/company/support/",
+    "pass": 1
+   },
+   {
+    "quote": "Pro includes email support during business hours, remote onboarding and training, calibration help for every device and the full documentation. Enterprise adds 24/7 support with a 1-hour support SLA, a dedicated account team with priority escalation, onsite installation and training, and quarterly business reviews.",
+    "url": "https://www.iotflows.com/company/support/",
+    "pass": 1
+   },
+   {
+    "quote": "Use Feedback / Feature Request in the dashboard header. Describe the problem you are trying to solve and how often it costs you time; there is no need to email it as well.",
+    "url": "https://www.iotflows.com/company/support/",
+    "pass": 1
+   },
+   {
+    "quote": "Email support@iotflows.com with the products your team uses, how many people will attend and which shift they work, so the session lands on their shift.",
+    "url": "https://www.iotflows.com/company/support/",
+    "pass": 1
+   },
+   {
+    "quote": "The Organization Owner. Billing has its own page under the profile menu, with the billing email, the cards on file and every invoice as a PDF.",
+    "url": "https://www.iotflows.com/company/support/",
+    "pass": 1
+   },
+   {
+    "quote": "Just now · Push, Email, Slack",
+    "url": "https://www.iotflows.com/solutions/predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Health alerts fire when the score falls below 60, 40 and 20, by email, push, SMS, the event log, Slack, Teams, Discord or a webhook, each with its own subscriber list. A rule can open the work order in",
+    "url": "https://www.iotflows.com/solutions/predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Calendar work runs as a recurrence on the work order: an interval, weekdays, an end date. Meters count runtime hours or parts from the same sensor, email at 85% and open the work order at 100%. Health alerts add the jobs the calendar would have missed. All three land on one",
+    "url": "https://www.iotflows.com/solutions/predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Email sent at 85%",
+    "url": "https://www.iotflows.com/solutions/predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/463247-29",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "by two Georgia Tech engineers from the factory floor: Mahmoud Parto, PhD, who grew up in the factory his father spent his life building, and Ulises Carrasco, from SLB’s manufacturing robotics team.",
+    "url": "https://www.iotflows.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "An alert did not arrive",
+    "url": "https://www.iotflows.com/company/support",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Bearing health is one of the seven operations metrics on the Health tab, scored from the high-frequency part of the vibration signal where bearing defects show first. Envelope kurtosis, the most sensitive bearing indicator, rises with the repetitive impacts a damaged bearing produces and is charted on the X, Y and Z axes and the combined vector.",
+    "url": "https://www.iotflows.com/solutions/predictive-maintenance",
+    "pass": 1
+   },
+   {
+    "quote": "No one types a start or a stop. Every stop then carries a reason, so you see",
+    "url": "https://www.iotflows.com/solutions/oee-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "every entry carries a reason",
+    "url": "https://www.iotflows.com/solutions/oee-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "From parts counted against the ideal cycle time. Each operation in the Parts List carries an ideal cycle time and a quantity per cycle, and the parts gauge divides the parts made by what that cycle time allows in the machine’s running time. A press running all shift at 40 strokes a minute against an ideal of 60 shows a green uptime gauge and a red parts gauge.",
+    "url": "https://www.iotflows.com/solutions/oee-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "Datwyler molds precision components on more than 20 injection molding machines in California. Every stop now carries a reason, and the weekly and monthly reports show which ones to fix next.",
+    "url": "https://www.iotflows.com/solutions/downtime-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "A downtime category: a reason created under a severity heading, optionally requiring a note, optionally marked as planned downtime, tagged with a type and given a color that carries through to the Downtimes report. Keep the list to about eight reasons, so operators pick from it without scrolling.",
+    "url": "https://www.iotflows.com/solutions/downtime-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "Planned downtime is a stop you scheduled: a changeover, a preventive maintenance window, a break. In IoTFlows it is a setting on the reason, so every stop classified under Tool Change is planned and every stop under Machine Failure is not. Planned reasons carry a calendar icon in the picker, which filters to planned or unplanned reasons in one click.",
+    "url": "https://www.iotflows.com/solutions/downtime-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. The Classify Downtime dialog carries a Create Maintenance Workorder button, so a stop caused by a fault becomes a work order in Maintain with the reason as its title, the note as its description and the machine already set. An event rule or a meter can open one too.",
+    "url": "https://www.iotflows.com/solutions/downtime-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "One. A sensor is attached to exactly one asset, the record that represents one machine, and one sensor per machine is the unit IoTFlows counts, bills and reports on. A multi-spindle machine sometimes carries more than one.",
+    "url": "https://www.iotflows.com/solutions/retrofit-machine-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Every stop carries a reason once an operator or an automatic rule classifies it. The",
+    "url": "https://www.iotflows.com/solutions/machine-utilization",
+    "pass": 1
+   },
+   {
+    "quote": "Expect 40 to 85% on a CNC machining center, depending on how much of the cycle an operator carries: 40 to 60% on a manual, operator-intensive machine, 50 to 70% when an operator loads and unloads, and 75 to 85% fully automatic. Measure yours first, then set the goal from your own baseline plus 5 to 10%.",
+    "url": "https://www.iotflows.com/solutions/machine-utilization",
+    "pass": 1
+   },
+   {
+    "quote": "It depends on how much of the cycle an operator carries: 40 to 60% on a manual, operator-intensive machine, 50 to 70% when an operator loads and unloads, 75 to 85% fully automatic, and 85 to 90% for a lights-out cell. Set each machine’s goal from its own baseline plus 5 to 10%; a goal the machine has never met teaches operators to ignore the number.",
+    "url": "https://www.iotflows.com/solutions/cnc-machine-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "SenseAi is $149 and SenseAi Embedded $199 per machine, bought once. The Pro plan is $119 per device per month billed monthly, less on annual and three-year contracts and from 10 devices, and 50 or more devices are quoted. Controller data through the edge device is part of Enterprise, priced by project. A pilot puts IoTFlows on 10 to 25 machines for four weeks with no commitment to buy.",
+    "url": "https://www.iotflows.com/solutions/cnc-machine-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Datwyler molds precision components on more than 20 injection molding machines in Ontario, California. Every stop carries a reason, and the weekly and monthly reports show which ones to fix next.",
+    "url": "https://www.iotflows.com/solutions/injection-molding-machine-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Each operation carries an ideal cycle time, and the shift goal and the pace come from it. Every stop longer than the filter lands on the downtime record with its start, end and duration, and operators or automatic rules put a reason on it.",
+    "url": "https://www.iotflows.com/solutions/injection-molding-machine-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Both. Set QTY/OP on each die’s operation to the parts one stroke makes. A progressive die carries a part through several stations and still finishes one part per stroke, so it is 1; a two-out die is 2. To count only parts that cleared the die, put a BeamTracker at the exit chute instead, which counts each part that breaks its beam.",
+    "url": "https://www.iotflows.com/solutions/stamping-press-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. The organization audit log holds one row per change, with who made it, when, and the record before and after, filtered by user, date and any identifier. Owners and Administrators open it at /logs, and each work order carries its own history.",
+    "url": "https://www.iotflows.com/company/security",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Seven reports export to CSV or PDF, each carrying the filters on screen, and the REST API with an IoTFlows-issued key reads the same records. Retention is 2 years on Pro and 5 years on Enterprise.",
+    "url": "https://www.iotflows.com/company/security",
+    "pass": 1
+   },
+   {
+    "quote": "by two Georgia Tech engineers from the factory floor: Mahmoud Parto, PhD, who grew up in the factory his father spent his life building, and Ulises Carrasco, from SLB’s manufacturing robotics team.",
+    "url": "https://www.iotflows.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "An alert did not arrive",
+    "url": "https://www.iotflows.com/company/support/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Bearing health is one of the seven operations metrics on the Health tab, scored from the high-frequency part of the vibration signal where bearing defects show first. Envelope kurtosis, the most sensitive bearing indicator, rises with the repetitive impacts a damaged bearing produces and is charted on the X, Y and Z axes and the combined vector.",
+    "url": "https://www.iotflows.com/solutions/predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/iotflows.com",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/iotflows.com",
+    "pass": 3
+   },
+   {
+    "quote": "2018年にアトランタで設立されたY Combinator出身の企業で、米国海軍、Siemens、Stanley Black & DeckerなどのFortune 500企業を顧客として抱えています",
+    "url": "https://ainiche.net/ja/tools/iotflows-inc",
+    "pass": 3
+   },
+   {
+    "quote": "2. Narrow Data Scope",
+    "url": "https://machinecdn.com/blog/iotflows-review/",
+    "pass": 3
+   },
+   {
+    "quote": "This deserves special attention. When you invest in IoTFlows' SenseAi sensors, you're buying hardware that only works with IoTFlows' platform. If you later decide to switch to a different monitoring solution — or if IoTFlows pivots, gets acquired, or shuts down — those sensors have zero residual value.",
+    "url": "https://machinecdn.com/blog/iotflows-review/",
+    "pass": 3
+   },
+   {
+    "quote": "IoTFlows Inc Revenue 2025: $330K Est.",
+    "url": "https://getlatka.com/companies/iotflows.com",
+    "pass": 3
+   },
+   {
+    "quote": "IoTFlows Inc has not published its revenue. GetLatka estimates it at about $330K a year (September 2025).",
+    "url": "https://getlatka.com/companies/iotflows.com",
+    "pass": 3
+   },
+   {
+    "quote": "IoTFlows Inc CEO, founders & employees",
+    "url": "https://getlatka.com/companies/iotflows.com",
+    "pass": 3
+   },
+   {
+    "quote": "Mahmoud Parto founded IoTFlows Inc in 2020 and runs it as CEO. IoTFlows Inc had 3 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/iotflows.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is IoTFlows Inc's revenue?",
+    "url": "https://getlatka.com/companies/iotflows.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates IoTFlows Inc's revenue at about",
+    "url": "https://getlatka.com/companies/iotflows.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does IoTFlows Inc have?",
+    "url": "https://getlatka.com/companies/iotflows.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/iotflows.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/iotflows.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/iotflows.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/iotflows.com",
+    "pass": 3
+   },
+   {
+    "quote": "IoTFlows has 4 total employees.",
+    "url": "https://pitchbook.com/profiles/company/463247-29",
+    "pass": 3
+   },
+   {
+    "quote": "What is IoTFlows’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/463247-29",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for IoTFlows is",
+    "url": "https://pitchbook.com/profiles/company/463247-29",
+    "pass": 3
+   },
+   {
+    "quote": "IoTFlows Inc Revenue 2025: $330K Est.",
+    "url": "https://getlatka.com/companies/iotflows.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "IoTFlows Inc has not published its revenue. GetLatka estimates it at about $330K a year (September 2025).",
+    "url": "https://getlatka.com/companies/iotflows.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "IoTFlows Inc CEO, founders & employees",
+    "url": "https://getlatka.com/companies/iotflows.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Mahmoud Parto founded IoTFlows Inc in 2020 and runs it as CEO. IoTFlows Inc had 3 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/iotflows.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "What is IoTFlows Inc's revenue?",
+    "url": "https://getlatka.com/companies/iotflows.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates IoTFlows Inc's revenue at about",
+    "url": "https://getlatka.com/companies/iotflows.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does IoTFlows Inc have?",
+    "url": "https://getlatka.com/companies/iotflows.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/iotflows.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/iotflows.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/iotflows.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/iotflows.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "IoTFlows Funding | $170K Revenue | Complete Analysis | Extruct AI",
+    "url": "https://www.extruct.ai/hub/iotflows-com-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "京浜急行電鉄、東京建物、富士通、DNP、参天製薬、等",
+    "url": "https://earthkey.blog/global/iotflows-inc/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "IoTFlows: The Real-Time Manufacturing Intelligence Platform — IoTFlows is a manufacturing intelligence platform that monitors machines with plug-and-play sensors or custom integrations to any PLC, robot or sensor, and turns the data into utilization, downtime, OEE, production scheduling and maintenance workflows.",
+    "url": "https://www.iotflows.com/",
+    "pass": 3
+   },
+   {
+    "quote": "IoTFlowsの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — Y Combinatorのポートフォリオに掲載される海外スタートアップIoTFlowsの企業プロフィール。IoTFlows Inc.は、製造現場向けに産業用IoT（IIoT）およびAIモニタリングソリューションを開発・提供する米国のテクノロジー企業である。主力製品は、既存設備に後付け可能なAIマルチセンサー端末「...",
+    "url": "https://www.firstcvc.jp/global/iotflows.com",
+    "pass": 3
+   },
+   {
+    "quote": "IoTFlows Inc - AIツールレビュー | AIniche — IoTFlowsは、Inductive Automationの「Ignition」のように複雑なオンプレミス環境への導入と熟練エンジニアを必要とする従来型のSCADAソリューションとは異なり、設置後数分以内にダッシュボードを確認できる「プラグアンドプレイ」方式のSaaS環境を志向しています。",
+    "url": "https://ainiche.net/ja/tools/iotflows-inc",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場の「見える化」を加速するIoTプラットフォーム ― IoTFlows In... — Oct 20, 2025 · IoTFlowsは、データ駆動型の製造現場を実現することで、生産性の最大化とコスト削減を同時に達成することを目指しています。 そのビジョンは、単なるIoTデータの収集にとどまらず、「すべての機械が自律的に最適化される未来の工場」を創ることにあり ...",
+    "url": "https://earthkey.blog/global/iotflows-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "IoTFlows：AI搭載型機械パフォーマンスモニタリング — IoTFlowsは、AIを活用した機械パフォーマンスモニタリングソリューションで、製造現場に包括的な可視性と貴重な洞察を提供します。振動と音響データに基づいて問題や非効率性を特定し、パフォーマンス向上を支援します。",
+    "url": "https://huntscreens.com/ja/products/iotflows-inc",
+    "pass": 3
+   },
+   {
+    "quote": "IoTFlows - Monitor OEE, Get Reports, Schedule Work, Maximize ... — Apr 24, 2026 · Drastically Reduce Machine Downtime w/ IoTFlows. Set Up A Live Demo Today! IoTFlows Game Changing IoT Hardware and Software Are Proven To Increase Produc...",
+    "url": "https://blog.iotflows.com/",
+    "pass": 3
+   },
+   {
+    "quote": "What is IoTFlows? — Apr 13, 2023 · At IoTFlows, we are committed to providing manufacturers with the best IoT and AI solutions to help them achieve their Industry 4.0 goals. We offer a range of services, including IoT development, consulting, and implementation, to help manufacturers implement IoT technology and optimize their operations.",
+    "url": "https://blog.iotflows.com/what-is-iotflows/",
+    "pass": 3
+   },
+   {
+    "quote": "IoTFlows - LinkedIn — IoTFlows is an industrial intelligence company that offers comprehensive monitoring and production optimization systems. IoTFlows builds integrated hardware-software solutions to give operators ...",
+    "url": "https://www.linkedin.com/company/iotflows",
+    "pass": 3
+   },
+   {
+    "quote": "All Customer Stories | IoTFlows — Explore how leading manufacturers transform their operations with IoTFlows. Real stories from automotive, food, packaging, medical device, injection molding and machining plants.",
+    "url": "https://www.iotflows.com/customers/all",
+    "pass": 3
+   },
+   {
+    "quote": "Customers | IoTFlows - Trusted by Industry Leaders — Valvetrain Manufacturing \" The IoTFlows Machine Sensors continue to provide us with valuable real-time data that we rely on to measure machine utilization and overall equipment effectiveness (OEE).",
+    "url": "https://www.iotflows.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "How IoTFlows Built Its Success in Manufacturing — Discover IoTFlows: the AI-powered platform revolutionizing manufacturing with real-time machine insights, predictive maintenance, and optimized workflows for rapid ROI.",
+    "url": "https://reforgers.com/startups/iotflows-inc",
+    "pass": 3
+   },
+   {
+    "quote": "IoTFlows Review 2026: Honest Assessment for Manufacturing ... — Feb 16, 2026 · Unbiased IoTFlows review covering SenseAi sensors, OEE monitoring, AI scheduling, pricing, pros and cons for manufacturing teams in 2026.",
+    "url": "https://machinecdn.com/blog/iotflows-review/",
+    "pass": 3
+   },
+   {
+    "quote": "IoTFlows - Monitor OEE, Get Reports, Schedule Work, Maximize ... — Apr 24, 2026 · What is IoTFlows? Welcome to IoTFlows, the online platform that specializes in providing comprehensive IoT solutions for the manufacturing and Industry 4.0 sectors.",
+    "url": "https://blog.iotflows.com/",
+    "pass": 3
+   },
+   {
+    "quote": "IoTFlows Inc Revenue 2025: $330K Est. ARR (Bootstrapped) — Aug 10, 2026 · IoTFlows Inc 2025 estimated revenue: $330K ARR. Bootstrapped (no outside funding). 3 employees. Founded 2020. HQ: United States Updated Aug 10, 2026.",
+    "url": "https://getlatka.com/companies/iotflows.com",
+    "pass": 3
+   },
+   {
+    "quote": "IoTFlows 2026 Company Profile: Valuation, Funding & Investors ... — Is IoTFlows a private or public company? IoTFlows is a Private company. What is IoTFlows’s current revenue? The current revenue for IoTFlows is . How much funding has IoTFlows raised over time? IoTFlows has raised $1.21M. Who are IoTFlows’s investors? , REMUS Capital, Y Combinator, and CREATE-X have invested in IoTFlows.",
+    "url": "https://pitchbook.com/profiles/company/463247-29",
+    "pass": 3
+   },
+   {
+    "quote": "How IoTFlows Inc hit $330K revenue with a 3 person team in 2025. — When was IoTFlows Inc founded? IoTFlows Inc was founded in 2020. How much revenue does IoTFlows Inc generate? IoTFlows Inc generates $330K in revenue. Click for revenue growth graph. How much funding does IoTFlows Inc have? IoTFlows Inc raised $0. How many employees does IoTFlows Inc have? IoTFlows Inc has 3 employees. Where is IoT",
+    "url": "https://getlatka.com/companies/iotflows.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "IoTFlows Funding | $170K Revenue | Complete Analysis — Employees 60 Founded 2020 Revenue $170K Company Stage Pre-Seed Investors",
+    "url": "https://www.extruct.ai/hub/iotflows-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "IoTFlows — Company Profile | The Company Check — IoTFlows is a company based in Atlanta (United States) founded in 2018 by Ulises Carrasco. IoTFlows has raised $125 thousand across 1 funding round from investors including Y Combinator.",
+    "url": "https://www.thecompanycheck.com/company/b/iotflows/708pdaotpkoiz02lk",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Mahmoud Parto, Ph.D. (@mahmoudparto) / X Mahmoud Parto, Ph.D. @mahmoudparto Co-Founder, CEO at IoTFlows Inc (YC W22) Atlanta, GA iotflows.com Joined May 2014 81 Following",
+    "url": "https://x.com/mahmoudparto",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "IoTFlows - LinkedIn IoTFlows | 343 followers on LinkedIn. Maximize Production. Minimize Downtime. | IoTFlows is an industrial intelligence company that offers comprehensive monitoring and production optimization ...",
+    "url": "https://www.linkedin.com/company/iotflows",
+    "pass": 3
+   },
+   {
+    "quote": "Mahmoud Parto, Ph.D. - Co-Founder, CEO at IoTFlows Inc (YC ...Ulises Carrasco - COO & Co-Founder at IoTFlows Inc (YCW22 ...Mahmoud Parto - CEO at IoTFlows Inc (YC W22) at IoTFlows ...Iot Flows Jobs in United States (163 Open Roles) | LinkedInSenseAi: AI-Powered Machine Performance Monitoring | IoTFlowsIotflows Strategic Partnership After 2026 Jobs in United ... Nov 1, 2020 · As Co-founder & CEO of",
+    "url": "https://www.linkedin.com/in/mahmoudp",
+    "pass": 3
+   },
+   {
+    "quote": "Ulises Carrasco - COO & Co-Founder at IoTFlows Inc (YCW22 ...Mahmoud Parto - CEO at IoTFlows Inc (YC W22) at IoTFlows ...Iot Flows Jobs in United States (163 Open Roles) | LinkedInSenseAi: AI-Powered Machine Performance Monitoring | IoTFlowsIotflows Strategic Partnership After 2026 Jobs in United ... COO & Co-Founder at IoTFlows Inc (YCW22) | AI for Manufacturing | Industry 4.0 · Building the futu",
+    "url": "https://www.linkedin.com/in/ulises-carrasco1",
+    "pass": 3
+   },
+   {
+    "quote": "Mahmoud Parto - CEO at IoTFlows Inc (YC W22) at IoTFlows ...Iot Flows Jobs in United States (163 Open Roles) | LinkedInSenseAi: AI-Powered Machine Performance Monitoring | IoTFlowsIotflows Strategic Partnership After 2026 Jobs in United ... CEO at IoTFlows Inc (YC W22) at IoTFlows · Co-Founder and CEO at IoTFlows Inc · Experience: IoTFlows · Education: Y Combinator · Location: Atlanta Metropolitan",
+    "url": "https://www.linkedin.com/in/mahmouddp",
+    "pass": 3
+   },
+   {
+    "quote": "Mahmoud Parto, Ph.D. - Co-Founder, CEO at IoTFlows Inc (YC ...加藤貞顕 - WikipediaIoTFlows CEO, Founder, Key Executive Team, Board of Directors ...Mahmoud Parto - Co-Founder and CEO @ IoTFlows - Crunchbasenote 役員一覧 | 取締役7名の経歴と選任賛成比率 Nov 1, 2020 · As Co-founder & CEO of IoTFlows, I lead the development of innovative IoT, AI, and industrial automation solutions that help businesses optimize operations, ",
+    "url": "https://www.linkedin.com/in/mahmoudp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Iotflows | Atlanta GA - FacebookIotflows - Request a free sample. Say goodbye to... | FacebookWant to know the secret to maximizing your manufacturing ...Ever wondered what's really going on in your manufacturing ...Gain real-time visibility into your manufacturing plant using ...Iotflows - Real-time OEE on every machine. No PLC. No IT ...What if you knew your exact production rate… right now? Not",
+    "url": "https://www.facebook.com/IoTFlows/",
+    "pass": 3
+   },
+   {
+    "quote": "Iotflows - Request a free sample. Say goodbye to... | Facebook Mar 6, 2026 · Request a free sample. Say goodbye to production output guessing. Get real-time part counts, utilization monitoring & automated downtime alerts with a single laser-based sensor. Installs in minutes...",
+    "url": "https://www.facebook.com/IoTFlows/posts/request-a-free-sample-say-goodbye-to-production-output-guessing-get-real-time-pa/1439369011228594/",
+    "pass": 3
+   },
+   {
+    "quote": "Iotflows - Real-time OEE on every machine. No PLC. No IT ... May 18, 2026 · Real-time OEE on every machine. No PLC. No IT. SenseAi installs in minutes, runs on 4G LTE/WiFi, and uses vibration and acoustic AI to track utilization, part counts, and downtime automatically....",
+    "url": "https://www.facebook.com/IoTFlows/posts/real-time-oee-on-every-machine-no-plc-no-it-senseai-installs-in-minutes-runs-on-/1498376465327848/",
+    "pass": 3
+   },
+   {
+    "quote": "Want to know the secret to maximizing your manufacturing ... Sep 7, 2025 · smoothly. Stay informed with weekly performance reports. Sense AI, empowering you to maximize performance and unlock the full potential of your machines. Pages Businesses Science, Technology & Engineering Information Technology Company Internet company Iotflows Videos AI-Powered Machine Performance Monitoring",
+    "url": "https://www.facebook.com/IoTFlows/videos/1318594503297578/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.iotflows.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iotflows.com/company/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iotflows.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iotflows.com/company/support",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iotflows.com/solutions/predictive-maintenance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iotflows.com/solutions/oee-tracking",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iotflows.com/solutions/downtime-tracking",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iotflows.com/solutions/production-monitoring",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iotflows.com/solutions/retrofit-machine-monitoring",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iotflows.com/solutions/machine-utilization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iotflows.com/solutions/cnc-machine-monitoring",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iotflows.com/solutions/injection-molding-machine-monitoring",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iotflows.com/solutions/stamping-press-monitoring",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iotflows.com/solutions/packaging-line-monitoring",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iotflows.com/company/security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iotflows.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iotflows.com/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iotflows.com/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iotflows.com/company/support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iotflows.com/solutions/predictive-maintenance/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.iotflows.com/_next/image?url=%2Fimages%2FcustomerLogos%2Fformatted%2Fdelta.webp&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.iotflows.com/_next/image?url=%2Fimages%2FcustomerLogos%2Fformatted%2Fsiemens.webp&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.iotflows.com/_next/image?url=%2Fimages%2FcustomerLogos%2Fformatted%2Fstanley_black_decker.webp&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.iotflows.com/_next/image?url=%2Fimages%2FcustomerLogos%2Fformatted%2Fparker_hannifin.webp&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.firstcvc.jp/global/iotflows.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ainiche.net/ja/tools/iotflows-inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://earthkey.blog/global/iotflows-inc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.iotflows.com/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.conoflow.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.iotflows.com/what-is-iotflows/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/iotflows",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ainiche.net/ja/tools/iotflows-inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reforgers.com/startups/iotflows-inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://machinecdn.com/blog/iotflows-review/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.databricks.com/blog/introducing-new-databricks-partner-program-and-well-architected-framework-isvs-and-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canva.com/partners/reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/iotflows.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/463247-29",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/iotflows.com#customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.extruct.ai/hub/iotflows-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mahmoudparto",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/iotflows",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/mahmoudp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ulises-carrasco1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/mahmouddp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/IoTFlows/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/IoTFlows/posts/request-a-free-sample-say-goodbye-to-production-output-guessing-get-real-time-pa/1439369011228594/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/IoTFlows/posts/real-time-oee-on-every-machine-no-plc-no-it-senseai-installs-in-minutes-runs-on-/1498376465327848/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/IoTFlows/videos/1318594503297578/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/mahmoudp",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "IOTFlows 日本 導入",
+   "results": [
+    "https://www.iotflows.com/",
+    "https://www.firstcvc.jp/global/iotflows.com",
+    "https://ainiche.net/ja/tools/iotflows-inc",
+    "https://earthkey.blog/global/iotflows-inc/",
+    "https://huntscreens.com/ja/products/iotflows-inc",
+    "https://www.iotflows.com/shop/products",
+    "https://monoist.itmedia.co.jp/mn/articles/2610/20/news044.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "IOTFlows 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://blog.iotflows.com/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.conoflow.com/",
+    "https://ja.nozominetworks.com/company",
+    "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "IOTFlows Japan",
+   "results": [
+    "https://www.iotflows.com/",
+    "https://blog.iotflows.com/what-is-iotflows/",
+    "https://www.linkedin.com/company/iotflows",
+    "https://ainiche.net/ja/tools/iotflows-inc",
+    "https://www.firstcvc.jp/global/iotflows.com",
+    "https://docs.iotflows.com/docs/get-started/faq.md",
+    "https://www.iotflows.com/shop/products"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "IOTFlows manufacturing customer case study",
+   "results": [
+    "https://www.iotflows.com/customers/all",
+    "https://www.iotflows.com/customers",
+    "https://reforgers.com/startups/iotflows-inc",
+    "https://machinecdn.com/blog/iotflows-review/",
+    "https://blog.iotflows.com/",
+    "https://www.linkedin.com/pulse/case-studies-successful-iot-implementations-amol-vidwans-mepif",
+    "https://welcome.ai/use-case/optimizing-production-scheduling-with-real-time-data"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "IOTFlows white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.databricks.com/blog/introducing-new-databricks-partner-program-and-well-architected-framework-isvs-and-data",
+    "https://www.canva.com/partners/reseller/",
+    "https://partner.vw.com/partner",
+    "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m01/cisco-launches-new-cisco-360-partner-program-built-with-partners-for-the-ai-era.html",
+    "https://partners.adobe.com/digitalexperience/",
+    "https://www.t-mobile.com/business/partner-recruitment"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "IOTFlows founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/iotflows.com",
+    "https://pitchbook.com/profiles/company/463247-29",
+    "https://getlatka.com/companies/iotflows.com/customers",
+    "https://www.extruct.ai/hub/iotflows-com-funding/",
+    "https://www.thecompanycheck.com/company/b/iotflows/708pdaotpkoiz02lk",
+    "https://startupintros.com/orgs/iotflows-inc",
+    "https://www.crunchbase.com/organization/iotflows-inc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com IOTFlows",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/noble_agapan4446/n/nde31d138def7?hl=en",
+    "https://note.com/victorconsulting/n/n00db3d259acc?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/asteria_gravio/n/n73c3481c615c?hl=en",
+    "https://note.com/kannsou_dustbox/n/n560c8384d4bf",
+    "https://note.com/zoeyoshi/n/n5603d939450c"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com IOTFlows",
+   "results": [
+    "https://about.x.com/en",
+    "https://x.com/",
+    "https://x.com/mahmoudparto",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/OracleCloud/status/2105992408567513311",
+    "https://help.x.com/en/using-x/create-x-account",
+    "https://x.com/algoflows"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com IOTFlows",
+   "results": [
+    "https://www.linkedin.com/company/iotflows",
+    "https://www.linkedin.com/in/mahmoudp",
+    "https://www.linkedin.com/in/ulises-carrasco1",
+    "https://www.linkedin.com/in/mahmouddp",
+    "https://www.linkedin.com/posts/iotflows_senseai-ai-powered-machine-performance-monitoring-activity-7087131862686449664-tYR7",
+    "https://www.linkedin.com/jobs/iotflows-strategic-partnership-after-2026-jobs",
+    "https://www.linkedin.com/jobs/iot-flows-jobs"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com IOTFlows",
+   "results": [
+    "https://www.facebook.com/IoTFlows/",
+    "https://www.facebook.com/IoTFlows/posts/request-a-free-sample-say-goodbye-to-production-output-guessing-get-real-time-pa/1439369011228594/",
+    "https://www.facebook.com/IoTFlows/posts/real-time-oee-on-every-machine-no-plc-no-it-senseai-installs-in-minutes-runs-on-/1498376465327848/",
+    "https://www.facebook.com/IoTFlows/videos/1318594503297578/",
+    "https://www.facebook.com/IoTFlows/videos/ai-powered-machine-performance-monitoring/27776636511921254/",
+    "https://www.facebook.com/IoTFlows/videos/what-if-you-knew-your-exact-production-rate-right-nownot-at-end-of-shift-not-tom/1474300134004541/",
+    "https://www.facebook.com/IoTFlows/videos/ai-powered-machine-performance-monitoring/1082803967214367/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "IOTFlows note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.iotflows.com/",
+    "https://www.iotflows.com/company/about",
+    "https://www.linkedin.com/in/mahmoudp",
+    "https://www.cbinsights.com/company/iotflows/people",
+    "https://www.crunchbase.com/person/mahmoud-parto",
+    "https://the-shashi.com/tse/5243/executives/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "IOTFlows X 投稿",
+   "results": [
+    "https://www.iotflows.com/",
+    "https://dashboard.iotflows.com/signup",
+    "https://www.iotflows.com/docs/get-started/sign-in/",
+    "https://www.console.iotflows.com/",
+    "https://docs.iotflows.com/docs/messaging/start-a-chat.md",
+    "https://blog.csdn.net/weixin_29276847/article/details/158368554",
+    "https://blog.csdn.net/weixin_29261711/article/details/158223022"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）"
+ }
+}

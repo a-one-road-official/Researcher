@@ -1,0 +1,970 @@
+{
+ "name": "Gradyent",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial AI / Digital Twin｜AUMS不適合",
+ "researched_at": "2026-11-11T04:38:59.031981+00:00",
+ "official_url": "https://gradyent.ai/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$15,000",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$40,700,000",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Stationsplein 45, Unit D2.112, Rotterdam, 3013 AK, NL",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "By enabling you to optimise, decarbonise, and transform your heating, cooling, steam or CO₂ grid, we help you to take on the climate challenge and progress.",
+    "url": "https://www.gradyent.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our real-time Digital Twin Platform lets you optimise your grid from production to network and end users in real-time and run simulations of future situations. So you can save on operating costs, reduce CO2 emissions, unlock flexibility and make smarter business decisions.",
+    "url": "https://www.gradyent.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Gradyent is an AI cloud platform that helps heating companies in optimizing their heating systems and reduce CO2 emissions. With their real-time Digital Twin Platform, they create a digital copy of your complete Heating Grid that runs in real time. This comprehensive software solution lets you optimise your grid, increase control and run simulations of future situations.",
+    "url": "https://www.casestudies.com/company/gradyent",
+    "pass": 3
+   },
+   {
+    "quote": "Head of Energy Production",
+    "url": "https://www.casestudies.com/company/gradyent",
+    "pass": 3
+   },
+   {
+    "quote": "Director Energy Transformation Projects",
+    "url": "https://www.casestudies.com/company/gradyent",
+    "pass": 3
+   },
+   {
+    "quote": "Urbio develops generative design software for the key actors of the energy transition. With a focus on improving the efficiency of buildings, Urbio is committed to fight climate change.",
+    "url": "https://www.featuredcustomers.com/vendor/gradyent/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Hexagon PPM (formerly Intergraph Process, Power & Marine) software solutions help visualize, create, and manage the life cycle of facilities and structures of all complexities. With nearly five decades of …",
+    "url": "https://www.featuredcustomers.com/vendor/gradyent/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Pelico Supply chains are under pressure due to the increasing volatility of supply and demand, driven by constantly changing social, geopolitical, and economic events. This quickly changing landscape creates unexpected …",
+    "url": "https://www.featuredcustomers.com/vendor/gradyent/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/gradyent/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/gradyent/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/gradyent/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "unlock all of your customer references for prospects",
+    "url": "https://www.featuredcustomers.com/vendor/gradyent/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/gradyent/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "See why cities and heating companies choose Gradyent to improve their District Heating system.",
+    "url": "https://www.gradyent.ai/resources/customer-stories-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Gradyent 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/343764-64",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/343764-64",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an energy management platform designed to make district heating networks efficient. The company's platform optimizes the whole network, forecasts and optimizes in real-time, provides an overview of the current network status, and automatically detects small changes to the network, enabling clients to securely access the network information from anywhere and at any time.",
+    "url": "https://pitchbook.com/profiles/company/343764-64",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/343764-64",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/343764-64",
+    "pass": 3
+   },
+   {
+    "quote": "02-Apr-2025",
+    "url": "https://pitchbook.com/profiles/company/343764-64",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/343764-64",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/343764-64",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/343764-64",
+    "pass": 3
+   },
+   {
+    "quote": "Gradyent’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/343764-64",
+    "pass": 3
+   },
+   {
+    "quote": "Is Gradyent a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/343764-64",
+    "pass": 3
+   },
+   {
+    "quote": "Gradyent is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/343764-64",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/343764-64",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/343764-64",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/343764-64",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 2, 2025",
+    "url": "https://startupintros.com/orgs/gradyent",
+    "pass": 3
+   },
+   {
+    "quote": "Gradyent has raised $43.1M across 2 funding rounds. Most recently, it raised $32.9M Series B in April 2025.",
+    "url": "https://startupintros.com/orgs/gradyent",
+    "pass": 3
+   },
+   {
+    "quote": "Gradyent has raised $40.7M across 2 funding rounds on record, the most recent a Series B of $30.5M announced in Apr 2025.",
+    "url": "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Gradyent Company Profile and Key Stats",
+    "url": "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "$30.5M in Apr 2025",
+    "url": "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 2025",
+    "url": "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 2, 2025",
+    "url": "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "2.7 years later, a Series B of $30.5M was announced in Apr 2025.",
+    "url": "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Billy Grace provides marketing solutions which include analytics, automation, creativity, artificial…",
+    "url": "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Helin offers a software-as-a-service solution that integrates edge control, cloud data processing, and remote…",
+    "url": "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Heathplus.ai re-uses electronic health record data to predict complications after surgery. This enables…",
+    "url": "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Overstory applies artificial intelligence to high-resolution satellite imagery to provide real-time analytics…",
+    "url": "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "The goal of Clearbio is to provide billions of people with a healthier lifestyle through smart food choices,…",
+    "url": "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Perry utilizes AI technology to produce and distribute easy-to-follow work and safety guidelines. Their…",
+    "url": "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Gradyent has raised $40.7M across 2 rounds on record. The most recent is a Series B of $30.5M announced in Apr 2025.",
+    "url": "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Gradyent's most recent funding round on record is a Series B of $30.5M, announced in Apr 2025.",
+    "url": "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "FundedIQ tracks announced funding rounds and refreshes this profile every week. Round dates,",
+    "url": "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Radar from $49/mo · Pro from $149/mo. Card required, nothing charged until",
+    "url": "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Providing heating and cooling for homes, buildings, and industry accounts for nearly 50% of global final energy consumption. As these systems become increasingly interconnected with multiple energy carriers, their complexity will grow significantly.",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Traditional software is no longer sufficient to manage this level of complexity. This increases the need for digital and data-driven solutions to improve efficiency, enable smarter decision-making, and ensure reliable energy delivery.",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "With our real-time Digital Twin Platform, we create a digital copy of the entire grid from production through distribution to end-users, combining geographical, weather, and sensor data with physics-based models and AI. It allows energy providers to optimise their systems in real time, improve operational control, and run simulations of future situations.",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "The Digital Twin enables energy providers to optimise performance, reduce CO2 emissions by up to 10%, lower operational costs, achieve up to 20% lower CapEx, and make smarter operational and business decisions.",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Gradyent currently partners with leading energy providers in over 35 cities across Europe, including Veolia, Helen, Iqony, Shell, Uniper, Gasunie (WarmtelinQ), and many more.",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Our team consists of 130+ energy specialists, engineers, data scientists and top-tier consulting alumni and is backed by investors Blue Earth Capital, SEB Greentech Venture Capital, Capricorn Partners, Eneco Ventures, Helen Ventures, and Energiiq.",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Programming languages",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Gradyent has approximately",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Solutions for Industrial Heating",
+    "url": "https://www.gradyent.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Solutions for Industrial Heating",
+    "url": "https://www.gradyent.ai/solutions/solutions-for-industrial-heating",
+    "pass": 1
+   },
+   {
+    "quote": "Upgrade your Industrial",
+    "url": "https://www.gradyent.ai/solutions/solutions-for-industrial-heating",
+    "pass": 1
+   },
+   {
+    "quote": "Discover the biggest opportunities for industrial decarbonisation. A new generation of digital tools can transform your Industrial Steam Grid.",
+    "url": "https://www.gradyent.ai/solutions/solutions-for-industrial-heating",
+    "pass": 1
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/gradyent/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Envafors achieves smarter district heating optimization with Gradyent's Digital Twin | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/gradyent/case-study/managing-sector-coupled-heating-networks-with-gradyents-digital-twin",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Envafors achieves smarter district heating optimization with Gradyent's Digital Twin",
+    "url": "https://www.casestudies.com/company/gradyent/case-study/managing-sector-coupled-heating-networks-with-gradyents-digital-twin",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/gradyent/case-study/managing-sector-coupled-heating-networks-with-gradyents-digital-twin",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/gradyent/case-study/managing-sector-coupled-heating-networks-with-gradyents-digital-twin",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by the world's",
+    "url": "https://www.gradyent.ai/resources/customer-stories-overview",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Gradyent - Upgrade your Heating grid with our powerful ... — By enabling you to optimise, decarbonise and transform your Heating system, we help you to take on the climate challenge and progress.",
+    "url": "https://www.gradyent.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Gradyent B2B Case Studies & Customer Successes — See how Gradyent solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/gradyent",
+    "pass": 3
+   },
+   {
+    "quote": "15 Gradyent Case Studies, Success Stories, & Customer Stories ... — Narrow down 15 case studies by company size & industry to find out how Gradyent works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/gradyent/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Envafors achieves smarter district heating ... — Managing sector-coupled heating networks with Gradyent’s Digital Twin Envafors, a Danish multi-utility company, faced challenges in managing the growing complexity of its heating networks as it added new heat pumps and connections.",
+    "url": "https://www.casestudies.com/company/gradyent/case-study/managing-sector-coupled-heating-networks-with-gradyents-digital-twin",
+    "pass": 3
+   },
+   {
+    "quote": "Customer stories - gradyent.ai — Trusted by the world's leading cities and heating companies. See why cities and heating companies choose Gradyent to improve their District Heating system.",
+    "url": "https://www.gradyent.ai/resources/customer-stories-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Case study Gradyent | Northlane — Gradyent provides a real-time digital twin platform that helps energy companies optimise and decarbonise heating and cooling grids in more than 35 European cities.",
+    "url": "https://www.northlane.partners/client/gradyent",
+    "pass": 3
+   },
+   {
+    "quote": "Gradyent 2026 Company Profile: Valuation, Funding & Investors ...Gradyent: Funding, Team & Investors | Startup IntrosGradyent: Funding, Investors & Team (Nov 2026) | FundedIQGradyent Revenue, Funding & Valuation - prospeo.ioGradyent Technologies - 2026 Company Profile, Team, Funding ...Gradyent Revenue 2024: $8.4M Est. - LATKAGradyent - Products, Competitors, Financials, Employees ... — Informatio",
+    "url": "https://pitchbook.com/profiles/company/343764-64",
+    "pass": 3
+   },
+   {
+    "quote": "Gradyent: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Financial History Gradyent has raised $43.1M across 2 funding rounds. Most recently, it raised $32.9M Series B in April 2025.",
+    "url": "https://startupintros.com/orgs/gradyent",
+    "pass": 3
+   },
+   {
+    "quote": "Gradyent: Funding, Investors & Team (Nov 2026) | FundedIQ — Gradyent is an artificial intelligence company based in The Netherlands. Gradyent has raised $40.7M across 2 funding rounds on record, the most recent a Series B of $30.5M announced in Apr 2025. That round is above the $6.0M median round size for Artificial Intelligence companies tracked on FundedIQ over the last two years.",
+    "url": "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Gradyent Revenue, Funding & Valuation - prospeo.io — Gradyent has revenue of $2,000,000, estimated valuation of $6,400,000, $40,700,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Gradyent Technologies - 2026 Company Profile, Team, Funding ... — Mar 6, 2026 · Gradyent Technologies is a series B company based in Rotterdam (Netherlands), founded in 2019 by Herve Huisman and Robert Vrancken. It operates as a Provider of AI & cloud-based solutions to optimize heat network. Gradyent Technologies has raised $42.5M in funding from investors like Capricorn Partners, ENERGIIQ and He",
+    "url": "https://tracxn.com/d/companies/gradyenttechnologies/__gB8X1PsooJHwJOwnLQ43L4ryX0dH90e3CQiYiJuCnJc",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/gradyent/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/343764-64",
+    "pass": 3
+   },
+   {
+    "quote": "Gradyent has 140 total employees.",
+    "url": "https://pitchbook.com/profiles/company/343764-64",
+    "pass": 3
+   },
+   {
+    "quote": "What is Gradyent’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/343764-64",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Gradyent is",
+    "url": "https://pitchbook.com/profiles/company/343764-64",
+    "pass": 3
+   },
+   {
+    "quote": "Herve Huisman is listed as CEO at Gradyent.",
+    "url": "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Gradyent have?",
+    "url": "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Gradyent Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Gradyent",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Providing heating and cooling for homes, buildings, and industry accounts for nearly 50% of global final energy consumption. As these systems become increasingly interconnected with multiple energy carriers, their complexity will grow significantly.",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Gradyent?",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Gradyent generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Gradyent have?",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/gradyent/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/gradyent/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/343764-64",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Gradyent team: 2 of 2 have an email address on file.",
+    "url": "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "GradyEnt Images (@GradyentImages) / Posts / X GradyEnt Images (@GradyentImages) - Posts - The only people you should trust with your image. | X (formerly Twitter)",
+    "url": "https://x.com/GradyentImages",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Gradyent - LinkedIn Gradyent | 6,874 followers on LinkedIn. Upgrade your grid to optimise, decarbonise and transform | District heating and cooling (DHC) is rapidly decarbonizing, electrifying and growing, while ...",
+    "url": "https://www.linkedin.com/company/gradyent",
+    "pass": 3
+   },
+   {
+    "quote": "Gradyent raises €28M for global heating and cooling grid ... Gradyent has secured €28 million in an oversubscribed growth funding round led by Blue Earth Capital AG, a global impact investment firm. New investor SEB Greentech Venture Capital joined the ...",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7313457340064616450",
+    "pass": 3
+   },
+   {
+    "quote": "Gradyent Jobs in Worldwide (22,000+ Open Roles) | LinkedIn Today’s top 22,000+ Gradyent jobs in Worldwide. Leverage your professional network, and get hired. New Gradyent jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/gradyent-jobs-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "Gradyent, Veolia & Helen: Gradyent's Digital Twin value to ... We’ve reached the final chapter of our #HeatTalks series. Over the past few episodes, we've explored how these powerful tools are transforming energy systems and helping companies navigate today ...",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7402278011842228225/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "GradyHealth | Atlanta GA - FacebookFacebook - log in or sign upLog Into FacebookGradient Financial Group LLC | Arden Hills MN - FacebookGastech - Visit Gradyent at the AI Pods stand AI-2, at ...Gradyent Images - Facebook 5 days ago · GradyHealth, Atlanta. 21,337 followers · 455 talking about this · 48,450 were here. Atlanta can't live without Grady. Grady Hospital + 10 Neighborhood Centers - Leade",
+    "url": "https://www.facebook.com/gradyhealth/",
+    "pass": 3
+   },
+   {
+    "quote": "Gradient Financial Group LLC | Arden Hills MN - FacebookGastech - Visit Gradyent at the AI Pods stand AI-2, at ...Gradyent Images - Facebook Gradient Financial Group LLC, Arden Hills. 2,929 followers · 55 talking about this · 164 were here. The best advisors focus on their clients. We do the heavy lifting to support that, and we've been... Aug 22, 2025 · Visit Gradyent at the AI Pods stand AI-2, a",
+    "url": "https://www.facebook.com/gradientfg/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.gradyent.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gradyent.ai/solutions/solutions-for-industrial-heating",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.gradyent.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaisharesearch.com/company/detail/2011001169656/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://gradientjapan.jp/team/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newswitch.jp/p/44779",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gradientjapan.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nuevo.tokyo/japanese-gradients-for-ui",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gradientjapan.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://colorcodeguide.com/gradients/japanese",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/gradyent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/gradyent/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/gradyent/case-study/managing-sector-coupled-heating-networks-with-gradyents-digital-twin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gradyent.ai/resources/customer-stories-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/343764-64",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/gradyent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/gradyent-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/GradyentImages",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/gradyent",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7313457340064616450",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/gradyent-jobs-worldwide",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7402278011842228225/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/gradyhealth/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/gradientfg/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/GradyentImages",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Gradyent 日本 導入",
+   "results": [
+    "https://www.gradyent.ai/",
+    "https://kaisharesearch.com/company/detail/2011001169656/",
+    "https://gradientjapan.jp/team/",
+    "https://newswitch.jp/p/44779",
+    "https://www.gradientamerica.com/japanese",
+    "https://www.weblio.jp/content/gradient",
+    "https://www.gradientconsult.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gradyent 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.adient.com/japan/",
+    "https://www.min-breeder.com/dogSearch_dogKind_greatdane_1.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gradyent Japan",
+   "results": [
+    "https://gradientjapan.jp/",
+    "https://www.nuevo.tokyo/japanese-gradients-for-ui",
+    "https://gradientjapan.jp/company/",
+    "https://colorcodeguide.com/gradients/japanese",
+    "https://www.shutterstock.com/search/japanese-gradient",
+    "https://www.shutterstock.com/search/gradient-japan",
+    "https://japanesegradientsforui.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gradyent manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/gradyent",
+    "https://www.featuredcustomers.com/vendor/gradyent/case-studies",
+    "https://www.casestudies.com/company/gradyent/case-study/managing-sector-coupled-heating-networks-with-gradyents-digital-twin",
+    "https://www.gradyent.ai/resources/customer-stories-overview",
+    "https://www.northlane.partners/client/gradyent",
+    "https://www.featuredcustomers.com/vendor/gradyent",
+    "https://www.gradyent.ai/resources/customer-stories/tu-delft-runs-its-campus-heating-system-on-autopilot-with-gradyent-s-real-time-digital-twin"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gradyent white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Gradyent founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/343764-64",
+    "https://startupintros.com/orgs/gradyent",
+    "https://fundediq.co/gradyent-gradyent-ai-funding/",
+    "https://prospeo.io/c/gradyent-revenue",
+    "https://tracxn.com/d/companies/gradyenttechnologies/__gB8X1PsooJHwJOwnLQ43L4ryX0dH90e3CQiYiJuCnJc",
+    "https://getlatka.com/companies/gradyent",
+    "https://www.cbinsights.com/company/gradyent"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Gradyent",
+   "results": [
+    "https://note.com/inkscape_memo/n/n825daedf292c?hl=en",
+    "https://note.com/vcrmnfeconi/n/nda597ceb4af4",
+    "https://note.com/gpt_mindcraft/n/na66b1e3187c1?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/legit_lupine1168/n/ne408a214b074"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Gradyent",
+   "results": [
+    "https://x.com/GradyentImages",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/Gradient_HQ",
+    "https://x.com/GradientVC",
+    "https://x.com/IL0V3Y0U_10KB/status/2120319068695638248",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/TheGradient/status/2109832152959639895"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Gradyent",
+   "results": [
+    "https://www.linkedin.com/company/gradyent",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7313457340064616450",
+    "https://www.linkedin.com/jobs/gradyent-jobs-worldwide",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7402278011842228225/",
+    "https://www.linkedin.com/company/gradientlearn",
+    "https://www.linkedin.com/posts/gradyent_veolia-partners-up-with-gradyent-to-optimise-activity-7161277539024334848-K5ZS",
+    "https://www.linkedin.com/pulse/lets-deep-dive-what-gradients-machine-learning-ohimai-emode-qj5cf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Gradyent",
+   "results": [
+    "https://www.facebook.com/gradyhealth/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/gradientfg/",
+    "https://www.facebook.com/GastechEvent/photos/visit-gradyent-at-the-ai-pods-stand-ai-2-at-gastech-2025-in-milangradyents-techn/1226242212880352/",
+    "https://www.facebook.com/GradyEntImages/",
+    "https://www.facebook.com/joingradient/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gradyent note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.reuters.com/jp/markets/japan/7THF7L2JVFO7FPKNHBV6W6SYAU-2026-04-23/",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gradyent X 投稿",
+   "results": [
+    "https://x.com/GradyentImages",
+    "https://www.gradyent.ai/",
+    "https://x.com/gradientx__",
+    "https://x.com/Gradient_HQ",
+    "https://x.com/gradientkey",
+    "https://x.com/gradients_ai",
+    "https://note.com/munou_ac/n/n3489f9572885"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部28頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

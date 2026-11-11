@@ -1,0 +1,635 @@
+{
+ "name": "Ultrasonium",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜送付済み",
+ "researched_at": "2026-11-11T04:33:15.181037+00:00",
+ "official_url": "https://ultrasonium.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Our founding team has deep expertise in advanced manufacturing and has built and innovated some of the most complex engineering systems known to man, including quantum computers, superconductors, nuclear reactors, and novel aerospace alloy processing methods.",
+    "url": "https://ultrasonium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ultrasonium has invented a new manufacturing method to make these critical parts 15x faster and 75% cheaper than the methods they replace, in the U.S. and at scale. Solid metal feedstock goes in and a finished part safely comes out, controlled by a physical AI layer and novel control processes.",
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "The systems that matter most, in aerospace, energy, and compute, are demanding metal geometries that can't be machined or cast and are too expensive and slow to make with incumbent methods, at a moment when domestic manufacturing capacity is a national priority.",
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "Our founding team has built and innovated some of the most complex engineering systems known to man: quantum computers, superconductors, nuclear reactors, and novel aerospace alloy processing methods.",
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "Started my R&D career working at national labs by age 15. I have contributed to the ITER fusion reactor and CERN through labs at NHFML and LBNL. I have led teams of fabricators and designers in both research and industry. I am passionate about hard tech and moving groundbreaking research ideas into real products.",
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "I lead the Ultrasonium team on the novel and cutting edge technology we implement in our manufacturing process.",
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "The technologies that define this century, including data centers, rockets, satellites, robots, etc., are built from complex metal parts. As these systems advance, the parts get harder to make. Past a certain complexity, casting and machining stop working, and the advanced methods that remain are slow, expensive, and limited in the alloys and geometries they can process.",
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrasonium has invented a new method to make these critical parts. Solid metal feedstock goes in and a finished part comes out, controlled by a Physical AI layer and novel control processes.",
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "We produce near-net-shape complex metal parts up to 15× faster, 75% cheaper, and with far greater alloy versatility than conventional manufacturing methods, at scale in the U.S.",
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "The systems that matter most, in aerospace, defense, energy, and compute, are demanding metal geometries that can’t be machined or cast and are too expensive and slow to make with incumbent methods, at a moment when domestic manufacturing capacity is a national priority.",
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "Our founding team has worked on some of the most difficult engineering systems in the world, including quantum computers, superconductors, nuclear reactors, and advanced aerospace alloy processing. Between the four of us, we have backgrounds in physics, metallurgy, advanced manufacturing, controls, hardware, and commercialization.",
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrasonium - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "permits us to improve and customize your experience. You can read more about your",
+    "url": "https://www.cbinsights.com/company/ultrasonium",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Ultrasonium | Next-Generation Metals Manufacturing",
+    "url": "https://ultrasonium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The next generation of metals manufacturing",
+    "url": "https://ultrasonium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our founding team has deep expertise in advanced manufacturing and has built and innovated some of the most complex engineering systems known to man, including quantum computers, superconductors, nuclear reactors, and novel aerospace alloy processing methods.",
+    "url": "https://ultrasonium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ultrasonium: Metal manufacturing, faster, cheaper, and more versatile. | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "Metal manufacturing, faster, cheaper, and more versatile.",
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrasonium has invented a new manufacturing method to make these critical parts 15x faster and 75% cheaper than the methods they replace, in the U.S. and at scale. Solid metal feedstock goes in and a finished part safely comes out, controlled by a physical AI layer and novel control processes.",
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "The systems that matter most, in aerospace, energy, and compute, are demanding metal geometries that can't be machined or cast and are too expensive and slow to make with incumbent methods, at a moment when domestic manufacturing capacity is a national priority.",
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "Our founding team has built and innovated some of the most complex engineering systems known to man: quantum computers, superconductors, nuclear reactors, and novel aerospace alloy processing methods.",
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "I lead the Ultrasonium team on the novel and cutting edge technology we implement in our manufacturing process.",
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrasonium: Shaping the Future of Metal Manufacturing",
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "We produce near-net-shape complex metal parts up to 15× faster, 75% cheaper, and with far greater alloy versatility than conventional manufacturing methods, at scale in the U.S.",
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "The systems that matter most, in aerospace, defense, energy, and compute, are demanding metal geometries that can’t be machined or cast and are too expensive and slow to make with incumbent methods, at a moment when domestic manufacturing capacity is a national priority.",
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "Our founding team has worked on some of the most difficult engineering systems in the world, including quantum computers, superconductors, nuclear reactors, and advanced aerospace alloy processing. Between the four of us, we have backgrounds in physics, metallurgy, advanced manufacturing, controls, hardware, and commercialization.",
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Ultrasonium: Metal manufacturing, faster, cheaper, and more ... — Ultrasonium has invented a new manufacturing method to make these critical parts 15x faster and 75% cheaper than the methods they replace, in the U.S. and at scale. Solid metal feedstock goes in and a finished part safely comes out, controlled by a physical AI layer and novel control processes.",
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrasonium News | Company Updates and Milestones — Follow Ultrasonium company news and milestones from the team building advanced metal additive manufacturing.",
+    "url": "https://ultrasonium.com/news",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrasonium | 次世代金属積層造形 — Ultrasoniumについてもっと知る Ultrasonium Ultrasoniumは、次世代の金属積層造形を実現する企業です。 航空宇宙、防衛、エネルギーなど、性能が最優先されるシステム向けに、高精度な部品製造を提供します。",
+    "url": "https://huntscreens.com/ja/products/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrasonium - LinkedIn — Ultrasonium | 676 followers on LinkedIn. Shaping the future of metals manufacturing",
+    "url": "https://www.linkedin.com/company/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrasonium | Next-Generation Metals Manufacturing — The next generation of metals manufacturing We make the world's most difficult metal parts faster, cheaper, and more versatile.",
+    "url": "http://ultrasonium.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrasonium: Metal manufacturing, faster, cheaper, and more ... — Ultrasonium has invented a new manufacturing method to make these critical parts 15x faster and 75% cheaper than the methods they replace, in the U.S. and at scale.",
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrasonium - LinkedIn — Ultrasonium (YC S26) is building a new way to manufacture complex metal parts. The technologies defining this century, including data centers, rockets, satellites, robots, and advanced energy...",
+    "url": "https://www.linkedin.com/company/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrasonium | Next-Generation Metals Manufacturing — We make the world's most difficult metal parts faster, cheaper, and more versatile.",
+    "url": "http://ultrasonium.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrasonium | Next-Generation Metals Manufacturing — Our founding team has deep expertise in advanced manufacturing and has built and innovated some of the most complex engineering systems known to man, including quantum computers, superconductors, nuclear reactors, and novel aerospace alloy processing methods.",
+    "url": "http://ultrasonium.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrasonium News | Company Updates and Milestones — The team got to explain its acoustically enhanced approach to metal additive manufacturing in front of judges and operators used to seeing ambitious early-stage companies, then came away with the top finish in the regional.",
+    "url": "https://ultrasonium.com/news",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrasonium: Metal manufacturing, faster, cheaper, and more ... — Metal manufacturing, faster, cheaper, and more versatile. The technologies that define this century, including data centers, rockets, satellites, and robots, are built from complex metal parts. As these systems advance, the parts get harder to make.",
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrasonium: Metal manufacturing, faster, cheaper, and more ... — Aug 5, 2026 · Ultrasonium has invented a new manufacturing method to make these critical parts 15x faster and 75% cheaper than the methods they replace, in the U.S. and at scale. Solid metal feedstock goes in and a finished part safely comes out, controlled by a physical AI layer and novel control processes.",
+    "url": "https://www.techstartupslist.com/startup/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrasonium 2026 Company Profile: Valuation, Funding ... — Information on valuation, funding, cap tables, investors, and executives for Ultrasonium. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/952974-46",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrasonium - Products, Competitors, Financials, Employees ... — Investors of Ultrasonium include Y Combinator, National Science Foundation and Glasswing Ventures. Ultrasonium focuses on 3D metal printing technology within the manufacturing sector. Use the CB Insights Platform to explore Ultrasonium's full profile.",
+    "url": "https://www.cbinsights.com/company/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrasonium - Crunchbase Company Profile & Funding — Ultrasonium develops metal additive manufacturing equipment and processes for aerospace, defense, and energy applications.",
+    "url": "https://www.crunchbase.com/organization/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrasonium Funding History: $305K | Indexed.vc — Manufacturing the metal parts the world runs on faster, cheaper, safer. Founded 2026. 11–50 employees. Boston, United States. $305K raised across 1 round.",
+    "url": "https://indexed.vc/companies/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrasonium, YC Summer 2026 (S26) company | GPAgent — Ultrasonium has invented a new manufacturing method to make these critical parts 15x faster and 75% cheaper than the methods they replace, in the U.S. and at scale. Solid metal feedstock goes in and a finished part safely comes out, controlled by a physical AI layer and novel control processes.",
+    "url": "https://www.gpagent.ai/yc/company/ultrasonium",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Ultrasonium - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/ultrasonium",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Ultrasonium (@ultrasonium) / Posts / X Ultrasonium (@ultrasonium) - Posts - Shaping the future of metals manufacturing | @ycombinator S26 | X (formerly Twitter)",
+    "url": "https://x.com/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "Hunter Brown (@hb_ultrasonium) / X Founder Ultrasonium and VP, Engineering. YCS26. We are making manufacturing cheaper and faster in the USA using a novel manufacturing technique.",
+    "url": "https://x.com/hb_ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrasonium on X: \"We are building a new way to manufacture ... Ultrasonium is building a more direct path from digital design to physical part. Solid metal feedstock goes in, and a finished part safely comes out, controlled by a Physical AI layer and novel control processes.",
+    "url": "https://x.com/ultrasonium/status/2095596177311854842",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrasonium on X: \"We invented a new way to manufacture the ... We invented a new way to manufacture the complex metal parts the world runs on. 15x faster and 75% cheaper than today’s methods. (Ultrasonium, YC S26) 👇",
+    "url": "https://x.com/ultrasonium/status/2085089867243864127",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrasonium (@ultrasonium) / Posts / X Jun 7, 2026 · Ultrasonium (@ultrasonium) - Posts - Shaping the future of metals manufacturing | @ycombinator S26 | X (formerly Twitter)",
+    "url": "https://x.com/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrasonium on X: \"We invented a new way to manufacture the ... Aug 5, 2026 · We invented a new way to manufacture the complex metal parts the world runs on. 15x faster and 75% cheaper than today’s methods. (Ultrasonium, YC S26) 👇",
+    "url": "https://x.com/ultrasonium/status/2085089867243864127",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Ultrasonium - LinkedIn Ultrasonium | 676 followers on LinkedIn. Shaping the future of metals manufacturing",
+    "url": "https://www.linkedin.com/company/ultrasonium",
+    "pass": 3
+   },
+   {
+    "quote": "Computational Modeling & Simulation Specialist at Ultrasonium ... Aug 5, 2026 · Apply for Computational Modeling & Simulation Specialist at Ultrasonium in Woburn, MA. Full-time Mid-Senior level role. See responsibilities, qualifications, and similar jobs on LinkedIn.",
+    "url": "https://www.linkedin.com/jobs/view/computational-modeling-simulation-specialist-at-ultrasonium-4449491905",
+    "pass": 3
+   },
+   {
+    "quote": "Alexander Urbanski - Ultrasonium | LinkedInHunter B. - Co-Founder & VP Engineering. YC Founder (S26 ...ULTRASONE - LinkedInChris Carter - MIT MechE/AeroAstro, Ultrasonium Co-Founder ...Ultrasonium Jobs in United States (10,000+ Open Roles) | LinkedIn Experience: Ultrasonium · Education: Boston University · Location: Greater Boston · 500+ connections on LinkedIn. Now leading the development of the ",
+    "url": "https://www.linkedin.com/in/aurban42",
+    "pass": 3
+   },
+   {
+    "quote": "Chris Carter - MIT MechE/AeroAstro, Ultrasonium Co-Founder ... May 21, 2025 · MIT MechE/AeroAstro, Ultrasonium Co-Founder (YC S26) · I work in the fields of metal additive manufacturing, materials science, and machine design.",
+    "url": "https://www.linkedin.com/in/christopher-p-carter",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ultrasonium.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://huntscreens.com/ja/products/ultrasonium",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/ultrasonium",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jsum.or.jp/english/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fair-medical.jp/en/products?cc=104",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/ultrasonium",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/ultrasonium",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/ultrasonium",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/952974-46",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/ultrasonium",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/ultrasonium",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/ultrasonium",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/ultrasonium",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hb_ultrasonium",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ultrasonium/status/2095596177311854842",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ultrasonium/status/2085089867243864127",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ultrasonium",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/view/computational-modeling-simulation-specialist-at-ultrasonium-4449491905",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/aurban42",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/christopher-p-carter",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ultrasonium",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ultrasonium/status/2085089867243864127",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Ultrasonium 日本 導入",
+   "results": [
+    "https://www.ycombinator.com/companies/ultrasonium",
+    "https://ultrasonium.com/news",
+    "https://huntscreens.com/ja/products/ultrasonium",
+    "https://www.linkedin.com/company/ultrasonium",
+    "http://ultrasonium.com/",
+    "https://jp.linkedin.com/pulse/日本のコントラスト強化超音波市場2026年版-aeroponic-aim-krobe",
+    "https://newscast.jp/news/6806148"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ultrasonium 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Ultrasonium Japan",
+   "results": [
+    "https://www.jsum.or.jp/english/",
+    "https://www.fair-medical.jp/en/products?cc=104",
+    "https://www.ycombinator.com/companies/ultrasonium",
+    "https://www.linkedin.com/company/ultrasonium",
+    "http://ultrasonium.com/",
+    "https://www.uthe.co.jp/crest/",
+    "https://www.jp-probe.com/en/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ultrasonium manufacturing customer case study",
+   "results": [
+    "http://ultrasonium.com/",
+    "https://ultrasonium.com/news",
+    "https://www.ycombinator.com/companies/ultrasonium",
+    "https://www.linkedin.com/company/ultrasonium",
+    "https://www.techstartupslist.com/startup/ultrasonium",
+    "https://tigerlaunch.com/stories/ultrasonium-metal-manufacturing",
+    "https://www.besttechnologyinc.com/articles/case-studies/ultrasonic-cleaning-system-case-studies/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ultrasonium white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://www.seoreseller.com/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ultrasonium founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/952974-46",
+    "https://www.cbinsights.com/company/ultrasonium",
+    "https://www.crunchbase.com/organization/ultrasonium",
+    "https://indexed.vc/companies/ultrasonium",
+    "https://www.gpagent.ai/yc/company/ultrasonium",
+    "https://www.ycombinator.com/companies/ultrasonium",
+    "https://recentfunding.com/companies/ultrasonium/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Ultrasonium",
+   "results": [
+    "https://note.com/russianblue692/n/n30ec8278827a?hl=en",
+    "https://note.com/rekiriya/n/ne0ee2c3ac7cc?hl=en",
+    "https://note.com/shotaro9020/n/n44b95d7a347e?hl=en",
+    "https://note.com/kaden_guide_jp/n/n62b767a5db3a?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/serene_coot2567/n/n7093dad44d7f?hl=en",
+    "https://note.com/dote_taro/n/nb7c25b031eaf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Ultrasonium",
+   "results": [
+    "https://x.com/ultrasonium",
+    "https://x.com/hb_ultrasonium",
+    "https://x.com/ultrasonium/status/2095596177311854842",
+    "https://x.com/ultrasonium/status/2085089867243864127",
+    "https://x.com/hb_ultrasonium/with_replies",
+    "https://x.com/lsthart/status/2120307286824387030",
+    "https://x.com/urban_alex42"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Ultrasonium",
+   "results": [
+    "https://www.linkedin.com/company/ultrasonium",
+    "https://www.linkedin.com/jobs/view/computational-modeling-simulation-specialist-at-ultrasonium-4449491905",
+    "https://www.linkedin.com/in/aurban42",
+    "https://www.linkedin.com/in/christopher-p-carter",
+    "https://www.linkedin.com/jobs/ultrasonium-jobs",
+    "https://www.linkedin.com/company/ultrasone-official",
+    "https://www.linkedin.com/in/hunterpbrown"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Ultrasonium",
+   "results": [
+    "https://www.facebook.com/ULTRASONE/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/UltrasoneUSA/",
+    "https://www.facebook.com/ultrasonikband/",
+    "https://www.facebook.com/piranhaultrasoniccleaning/",
+    "https://www.facebook.com/UROrocks/",
+    "https://www.facebook.com/ultrasonicNL/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ultrasonium note 社長",
+   "results": [
+    "https://www.crunchbase.com/person/jack-qiu-7981",
+    "https://www.cbinsights.com/company/ultrasonium/people",
+    "https://pitchbook.com/profiles/company/952974-46",
+    "https://www.gpagent.ai/yc/company/ultrasonium",
+    "https://www.ycombinator.com/companies/ultrasonium",
+    "https://www.linkedin.com/company/ultrasonium",
+    "http://ultrasonium.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ultrasonium X 投稿",
+   "results": [
+    "https://x.com/ultrasonium",
+    "https://x.com/ultrasonium/status/2085089867243864127",
+    "https://www.ycombinator.com/companies/ultrasonium",
+    "https://ultrasonium.com/news",
+    "http://ultrasonium.com/",
+    "https://www.sciencedirect.com/journal/ultrasonics/publish/guide-for-authors",
+    "https://www.iikx.com/sci/medcine/17535.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）"
+ }
+}

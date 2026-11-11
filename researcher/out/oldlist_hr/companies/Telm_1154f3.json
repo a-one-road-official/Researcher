@@ -1,0 +1,1115 @@
+{
+ "name": "Telm",
+ "aliases": [],
+ "context": "旧営業リスト｜Data Infrastructure / Analytics｜返信あり",
+ "researched_at": "2026-11-11T04:27:26.908539+00:00",
+ "official_url": "https://telmai.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "無料で始めて、Proのフル機能を7日間お試しください — カード不要",
+    "url": "https://telm.com/ja/features",
+    "pass": 3
+   },
+   {
+    "quote": "Pro を 7 日間無料で — カード不要",
+    "url": "https://telm.com/ja/features",
+    "pass": 3
+   },
+   {
+    "quote": "無料・カード不要 — 7日間のProトライアル付き",
+    "url": "https://telm.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "無料で始めて、Proのフル機能を7日間お試しください — カード不要",
+    "url": "https://telm.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "Pro を 7 日間無料で — カード不要",
+    "url": "https://telm.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "Pro は 1 グループ、Business は 1 つのサブスクリプションで 5 グループをカバーし、追加グループは 1 つにつき月 $19 です",
+    "url": "https://telm.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "DataStax Builds Trust in Product Usage Data with Telmai",
+    "url": "https://www.telm.ai/case-studies/customer-case-study-datastax/",
+    "pass": 3
+   },
+   {
+    "quote": "DataStax builds trust in product usage data with Telmai",
+    "url": "https://www.telm.ai/case-studies/customer-case-study-datastax/",
+    "pass": 3
+   },
+   {
+    "quote": "Fully automated data observability empowers trust in product usage data across 36,000 clusters.",
+    "url": "https://www.telm.ai/case-studies/customer-case-study-datastax/",
+    "pass": 3
+   },
+   {
+    "quote": "High quality data that feeds business KPIs on product usage metrics",
+    "url": "https://www.telm.ai/case-studies/customer-case-study-datastax/",
+    "pass": 3
+   },
+   {
+    "quote": "With a growing number of customers and the strategic nature of their cloud offering, DataStax has an extremely high bar for data quality, and this includes the quality of product analytics data that is used for decision-making.",
+    "url": "https://www.telm.ai/case-studies/customer-case-study-datastax/",
+    "pass": 3
+   },
+   {
+    "quote": "DataStax’s product usage analytics is collected from their database logs. DataStax’s data engineering team – led by Ankush Gautam – uses Python, DBT, and SQL to transform the data from log files into Google BigQuery tables. Tableau is then used for analytics and reporting.",
+    "url": "https://www.telm.ai/case-studies/customer-case-study-datastax/",
+    "pass": 3
+   },
+   {
+    "quote": "Even with a strong data quality framework in place, SQL and Python data pipelines that read and transform log data into analytic-ready datasets were still prone to sporadic and unexpected issues. Any change in the upstream data transformation or the log data itself could create unexpected outliers in reporting and the metrics associated with it.",
+    "url": "https://www.telm.ai/case-studies/customer-case-study-datastax/",
+    "pass": 3
+   },
+   {
+    "quote": "However, to track data quality at scale, DataStax needed a different approach and started to look for a solution that automates their process and is able to examine and investigate the actual data values and content.",
+    "url": "https://www.telm.ai/case-studies/customer-case-study-datastax/",
+    "pass": 3
+   },
+   {
+    "quote": "at scale, the team decided to invest in the ML-based data observability solution of Telmai. With this automation, the high-caliber data engineering team could put their focus and resources on their core product advancement and leave the observability and monitoring to Telmai.",
+    "url": "https://www.telm.ai/case-studies/customer-case-study-datastax/",
+    "pass": 3
+   },
+   {
+    "quote": "Today, Telmai monitors the actual data values, drifts, and anomalies in DataStax’s product usage. With Telmai, DataStax tracks",
+    "url": "https://www.telm.ai/case-studies/customer-case-study-datastax/",
+    "pass": 3
+   },
+   {
+    "quote": "Observe drifts in volume/record count of clusters and investigate those records using a visual, no code data investigator product",
+    "url": "https://www.telm.ai/case-studies/customer-case-study-datastax/",
+    "pass": 3
+   },
+   {
+    "quote": "Detect usage drifts on total read and total write compared to the predicted thresholds",
+    "url": "https://www.telm.ai/case-studies/customer-case-study-datastax/",
+    "pass": 3
+   },
+   {
+    "quote": "ML anomaly detection and prediction of future quality issues",
+    "url": "https://www.telm.ai/case-studies/customer-case-study-datastax/",
+    "pass": 3
+   },
+   {
+    "quote": "The Context Layer That AI Agents Need Most Is the One Enterprises Have Not Built Yet",
+    "url": "https://www.telm.ai/case-studies/customer-case-study-datastax/",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 21, 2026",
+    "url": "https://www.telm.ai/case-studies/customer-case-study-datastax/",
+    "pass": 3
+   },
+   {
+    "quote": "Telmai is a data observability platform company that enables enterprise data owners to monitor and detect real-time data issues.",
+    "url": "https://getlatka.com/companies/telm.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/telm.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/telm.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Telmai 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/483471-64",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/483471-64",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/483471-64",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/483471-64",
+    "pass": 3
+   },
+   {
+    "quote": "Gathr (Business/Productivity Software)",
+    "url": "https://pitchbook.com/profiles/company/483471-64",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/483471-64",
+    "pass": 3
+   },
+   {
+    "quote": "Telmai’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/483471-64",
+    "pass": 3
+   },
+   {
+    "quote": "Is Telmai a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/483471-64",
+    "pass": 3
+   },
+   {
+    "quote": "Telmai is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/483471-64",
+    "pass": 3
+   },
+   {
+    "quote": ", Gathr (Business/Productivity Software),",
+    "url": "https://pitchbook.com/profiles/company/483471-64",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/483471-64",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/483471-64",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/483471-64",
+    "pass": 3
+   },
+   {
+    "quote": "Telmai Company Profile and Key Stats",
+    "url": "https://fundediq.co/telmai-telm-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "HELIOS® is a technology company that assists athletes and teams in improving at a quicker pace. Through their…",
+    "url": "https://fundediq.co/telmai-telm-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Tutor Intelligence is a comprehensive robotics and automation company designed to assist contract packagers.…",
+    "url": "https://fundediq.co/telmai-telm-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "An AI startup that builds custom AI models and \"Specific Intelligence\" solutions for enterprises.",
+    "url": "https://fundediq.co/telmai-telm-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Serval provides an AI-native IT service management platform designed to automate help desk operations, access…",
+    "url": "https://fundediq.co/telmai-telm-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Ravical assists skilled firms in adopting an AI-focused approach for the future. We create AI solutions that…",
+    "url": "https://fundediq.co/telmai-telm-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Broccoli provides automated phone support solutions for plumbing, HVAC, and electrical businesses, enabling…",
+    "url": "https://fundediq.co/telmai-telm-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Telmai is a data observability platform for modern data stack. Telmai automates scanning complex data stored stored in Datawarehouse, Datalakes or event streams to find anomalies. Key features : Automatic profiling of data Automatic classification of health of data into DQ KPI's Continues monitoring of data for anomalies(outliers/drifts and DQ policy violation)",
+    "url": "https://fundediq.co/telmai-telm-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "FundedIQ tracks announced funding rounds and refreshes this profile every week. Round dates,",
+    "url": "https://fundediq.co/telmai-telm-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Radar from $49/mo · Pro from $149/mo. Card required, nothing charged until",
+    "url": "https://fundediq.co/telmai-telm-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Memorandum: A broad and deep analysis of Tokyo Electron (TEL) from five perspectives: 1) Patents/Intellectual Property, 2) Competitive Financial Comparison, 3) Alignment with Technology Roadmap, 4) Supply Chain Structure, and 5) Policy/Institutional Coordination｜Seizougyou",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Memorandum: A broad and deep analysis of Tokyo Electron (TEL) from five perspectives: 1) Patents/Intellectual Property, 2) Competitive Financial Comparison, 3) Alignment with Technology Roadmap, 4) Supply Chain Structure, and 5) Policy/Institutional Coordination",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1) Patent and Intellectual Property Portfolio Analysis",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "TEL has a strong track record in areas such as \"number of inventions created\" and \"patent application/grant rates.\" For example, in fiscal year 2024, it generated 1,331 inventions domestically and 296 overseas, maintaining a global patent application rate of approximately 75% for the last six consecutive years. (",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This strength in intellectual property serves as a differentiator for TEL to build long-term relationships with customers even after equipment sales. In other words, it is easy for them to have an advantage in \"solution provision\" that includes not only the equipment itself but also peripheral technologies, process control, and software algorithms.",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In other words, TEL's competitive positioning is characterized by \"having strengths in a wide range of front-end equipment and peripheral process equipment, and securing a high market share in equipment other than lithography.\" (",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "include the fact that earnings are prone to fluctuation due to the volatility of the equipment sales cycle (capital investment cycle), and that market evaluation (stock price/valuation) is not settled as being undervalued or overvalued compared to competitors. (",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Semiconductor processes are advancing in areas such as \"miniaturization,\" \"3D structuring,\" and \"advanced packaging,\" and equipment manufacturers are required to evolve their equipment and process technologies in line with these trends.",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In response to these trends, TEL is strengthening its front-end equipment such as coater/developers, cleaning, deposition, and etching, and is providing solutions for demands such as 3D stacked memory, chiplet structures, and HBM (High Bandwidth Memory) support.",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In addition, since the integration of \"equipment + software + data analysis/autonomous operation control\" rather than process equipment alone will be an important technology strategy in the future, it will be interesting to see if TEL can shift its technology roadmap in this direction.",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Semiconductor equipment has an extremely complex supply chain structure, involving numerous specialized companies in areas such as components, precision parts, optical systems, vacuum technology, control software, and maintenance services. Within this structure, TEL possesses a global network that includes both domestic Japanese and overseas bases. (",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A key strength is its strong collaboration with domestic Japanese component and material companies, as well as its presence in a domestic ecosystem capable of supplying 'high-precision, high-reliability' equipment.",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, there are also challenges such as global geopolitical risks, uneven distribution of component supplies, and intensifying competition in price and delivery times. In particular, the regional bias in capital investment and dependence on specific component manufacturers can create vulnerabilities in the supply chain.",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "スパム検出は多言語対応で、CJK（日本語・中国語・韓国語）文字や音訳テキストも含みます",
+    "url": "https://telm.com/ja/features",
+    "pass": 3
+   },
+   {
+    "quote": "Memorandum: A broad and deep analysis of Tokyo Electron (TEL) from five perspectives: 1) Patents/Intellectual Property, 2) Competitive Financial Comparison, 3) Alignment with Technology Roadmap, 4) Supply Chain Structure, and 5) Policy/Institutional Coordination｜Seizougyou",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Memorandum: A broad and deep analysis of Tokyo Electron (TEL) from five perspectives: 1) Patents/Intellectual Property, 2) Competitive Financial Comparison, 3) Alignment with Technology Roadmap, 4) Supply Chain Structure, and 5) Policy/Institutional Coordination",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Semiconductor equipment has an extremely complex supply chain structure, involving numerous specialized companies in areas such as components, precision parts, optical systems, vacuum technology, control software, and maintenance services. Within this structure, TEL possesses a global network that includes both domestic Japanese and overseas bases. (",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A key strength is its strong collaboration with domestic Japanese component and material companies, as well as its presence in a domestic ecosystem capable of supplying 'high-precision, high-reliability' equipment.",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Japanese government positions the semiconductor, equipment, and materials sectors as strategic industries and has established support systems (subsidies, tax incentives, and R&D support). TEL plays a significant role within this policy environment.",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "future forecast scenarios for Tokyo Electron (TEL) from 2026 to 2030",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[2026-2030] Tokyo Electron: Future Forecast Scenarios",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Utilizing subsidy systems for equipment manufacturers in Japan, the US, and Europe, it is proceeding with the restructuring of new bases and production lines.",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Rationalization for cost reduction, reorganization of overseas bases, and consolidation of functions to Japanese bases proceed.",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Telmについて | AI搭載Telegramモデレーション — 私たち自身が活発なTelegramコミュニティを運営していました。スパムは人間の手に負えない速さで増え、それに対抗できるボットは詐欺師もろとも本物のメンバーをBANしてしまう。そこで私たちが代わりに作ったのがTelmです。 24 1つのボットに集約されたツール 25 対応言語 150+ 検出ルール 0 承認 ...",
+    "url": "https://telm.com/ja/about",
+    "pass": 3
+   },
+   {
+    "quote": "機能 - Telm | AIモデレーションとTelegram分析 — Telmは28のツールを1つのボットに集約しています：自社学習モデルによるAIスパム検出、AI審判官付きのBAN異議申し立て、アンチレイドシールド、CASブロックリスト連携、画像内スパムのOCR検出、エスカレーションの段階を備えたモデレーションコマンド ...",
+    "url": "https://telm.com/ja/features",
+    "pass": 3
+   },
+   {
+    "quote": "Telm - AI搭載Telegramコミュニティ管理 | スマートモデレーション＆... — Telmはあなたが与えた権限の範囲内で、一般メンバーに対して1件ずつ判定を実行するだけです。 すべてのアクションはジャーナルに記録され、BANやミュートはワンクリックで取り消せます。",
+    "url": "https://telm.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "機能 - Telm | AIモデレーションとTelegram分析 — Telmがコミュニティのために担う4つの仕事 — 保護、公正なモデレーション、グロース、そしてインテグレーション。 仕事ごとにプロセスは1つ、あとはすべて込みです。",
+    "url": "https://telm.com/ja/features",
+    "pass": 3
+   },
+   {
+    "quote": "DataStax Builds Trust in Product Usage Data with Telmai — To monitor and report on usage, DataStax initially built a homegrown solution. The DataOps team at DataStax is on a mission to create centralized Data insights, empowering all internal marketing, sales, customer success, product, and leadership teams with accurate and trustworthy product usage reports and analytics.",
+    "url": "https://www.telm.ai/case-studies/customer-case-study-datastax/",
+    "pass": 3
+   },
+   {
+    "quote": "Telm AI Revenue 2024: $2.6M Est. ARR, $5.5M Raised — Oct 13, 2026 · Telm AI 2024 estimated revenue: $2.6M ARR (up from $1.5M in 2023). Total funding: $5.5M across 1 round. 14 employees. Founded 2020 Updated Oct 17, 2024.",
+    "url": "https://getlatka.com/companies/telm.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Telmai 2026 Company Profile: Valuation, Funding & Investors ...Telmai: Funding, Investors & Team (Nov 2026) | FundedIQTelmai - 2026 Company Profile, Team, Funding & Competitors ...Telmai Funding | $2.6M Revenue | Complete AnalysisTelm.ai - Financials, Funding, Investors, Acquisitions - ZoomInfoCorralData vs Telm AI: Revenue, Funding & Team Compared — Telmai has 11 total employees. What industry is",
+    "url": "https://pitchbook.com/profiles/company/483471-64",
+    "pass": 3
+   },
+   {
+    "quote": "Telmai: Funding, Investors & Team (Nov 2026) | FundedIQ — How many employees does Telmai have? Telmai is in the 11-50 employee band. How does Telmai's funding compare to other Artificial Intelligence startups? Telmai's latest round of $8.5M is above the $6.0M median round size for Artificial Intelligence companies on FundedIQ across 7,247 tracked companies over the last two years.",
+    "url": "https://fundediq.co/telmai-telm-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Telmai - 2026 Company Profile, Team, Funding & Competitors ...Telmai Funding | $2.6M Revenue | Complete AnalysisTelm.ai - Financials, Funding, Investors, Acquisitions - ZoomInfoCorralData vs Telm AI: Revenue, Funding & Team Compared — Apr 3, 2026 · Telmai is a series A company based in San Mateo (United States), founded in 2020 by Maxim Lukichev and Mona Rakibe. It operates as a Cloud-based enterp",
+    "url": "https://tracxn.com/d/companies/telmai/__CybnmgyO0GJs-gwYjirGy3pymyv9oxj9kCpGUZHQSJM",
+    "pass": 3
+   },
+   {
+    "quote": "Telmai Funding | $2.6M Revenue | Complete Analysis — Jun 15, 2023 · Explore Telmai complete analysis: product features, pricing model, market positioning, and business strategy.",
+    "url": "https://www.extruct.ai/hub/telm-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Telm AI Revenue 2023: $1.5M, $5.5M Raised",
+    "url": "https://getlatka.com/companies/telm.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Telm AI's annual revenue was $1.5M in December 2023, the most recent reported figure.",
+    "url": "https://getlatka.com/companies/telm.ai",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/telm.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Telm AI CEO, founders & employees",
+    "url": "https://getlatka.com/companies/telm.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Mona Rakibe founded Telm AI in 2020 and runs it as CEO. Telm AI had 14 employees (October 2024, LinkedIn), down from 16 a year earlier.",
+    "url": "https://getlatka.com/companies/telm.ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is Telm AI's revenue?",
+    "url": "https://getlatka.com/companies/telm.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Telm AI's annual revenue was",
+    "url": "https://getlatka.com/companies/telm.ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Telm AI have?",
+    "url": "https://getlatka.com/companies/telm.ai",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/telm.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/telm.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/telm.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/telm.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Telmai has 11 total employees.",
+    "url": "https://pitchbook.com/profiles/company/483471-64",
+    "pass": 3
+   },
+   {
+    "quote": "What is Telmai’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/483471-64",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Telmai is",
+    "url": "https://pitchbook.com/profiles/company/483471-64",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Telmai have?",
+    "url": "https://fundediq.co/telmai-telm-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/telmai-telm-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/telmai-telm-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "in a narrative format rather than a table. This is a",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Against the backdrop of expanding semiconductor demand, the spread of advanced packaging technology, and the sophistication of AI and data centers, equipment demand remains steady. TEL expands revenue through collaboration with major customers.",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/483471-64",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Telmai team: 1 of 1 has an email address on file.",
+    "url": "https://fundediq.co/telmai-telm-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/telmai-telm-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Foundry Robotics is an AI driven robotics company rebuilding manufacturing with advanced assembly automation…",
+    "url": "https://fundediq.co/telmai-telm-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Telmai is a data observability platform for modern data stack. Telmai automates scanning complex data stored stored in Datawarehouse, Datalakes or event streams to find anomalies. Key features : Automatic profiling of data Automatic classification of health of data into DQ KPI's Continues monitoring of data for anomalies(outliers/drifts and DQ policy violation)",
+    "url": "https://fundediq.co/telmai-telm-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "The number of patents held is also among the best in the industry, with 24,996 patents owned as of the end of March 2025, which is reported to be the highest in the semiconductor manufacturing equipment industry. (",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "There is also attention on the themes of patent applications; in the second quarter of 2024, the number of applications and grants related to \"industrial automation/robotics\" and \"design/manufacturing\" was quite high. (",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Semiconductor processes are advancing in areas such as \"miniaturization,\" \"3D structuring,\" and \"advanced packaging,\" and equipment manufacturers are required to evolve their equipment and process technologies in line with these trends.",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, there are also challenges such as global geopolitical risks, uneven distribution of component supplies, and intensifying competition in price and delivery times. In particular, the regional bias in capital investment and dependence on specific component manufacturers can create vulnerabilities in the supply chain.",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Furthermore, countries globally are promoting 'strengthened domestic manufacturing' and 'reshoring,' requiring equipment manufacturers to engage in region-specific development, localization, and collaboration with governments.",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As a relative valuation, it is also pointed out that the company is somewhat undervalued in terms of P/E within the semiconductor manufacturing equipment and materials industry. (",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Achieves high-level technical support for GAA transistors, manufacturing processes below 2nm, 3D stacked memory (HBM4), and equipment for advanced logic.",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "➡ In this scenario, TEL further strengthens its position as a \"global foundation company for manufacturing equipment\" and maintains a stable position even amidst the struggle for technological hegemony both domestically and internationally.",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "◉ Scenario B: Industrial Policy-Led Selective Growth Route (Realistic)",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": While there are fluctuations in the capital investment cycle, support from semiconductor industrial policies in various countries continues. TEL is pursuing selection and concentration, maintaining a competitive advantage in specific technology areas.",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Utilizing subsidy systems for equipment manufacturers in Japan, the US, and Europe, it is proceeding with the restructuring of new bases and production lines.",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "QualSights is an immersive insights platform that enables companies, agencies, and consulting firms to gather…",
+    "url": "https://fundediq.co/telmai-telm-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "宮本 大平｜元通訳者・英語習得法の研究者｜note Feb 25, 2026 · 元同時通訳者。英語習得に約700万円を投資した経験から、大人がホンモノの英語力を身につける方法を研究・発信中。 TELM（Tai's English Learning Method）開発者。 大変。地味。でも確実に英語を上達させます。",
+    "url": "https://note.com/tai_miyamoto",
+    "pass": 3
+   },
+   {
+    "quote": "Memorandum: A broad and deep analysis of Tokyo Electron (TEL ... Within this structure, TEL possesses a global network that includes both domestic Japanese and overseas bases. (TELM) A key strength is its strong collaboration with domestic Japanese component and material companies, as well as its presence in a domestic ecosystem capable of supplying 'high-precision, high-reliability' equipment.",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Memorandum: A broad and deep analysis of Tokyo Electron (TEL) from five perspectives: 1) Patents/Intellectual Property, 2) Competitive Financial Comparison, 3) Alignment with Technology Roadmap, 4) Supply Chain Structure, and 5) Policy/Institutional Coordination｜Seizougyou",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Memorandum: A broad and deep analysis of Tokyo Electron (TEL) from five perspectives: 1) Patents/Intellectual Property, 2) Competitive Financial Comparison, 3) Alignment with Technology Roadmap, 4) Supply Chain Structure, and 5) Policy/Institutional Coordination",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1) Patent and Intellectual Property Portfolio Analysis",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "TEL has a strong track record in areas such as \"number of inventions created\" and \"patent application/grant rates.\" For example, in fiscal year 2024, it generated 1,331 inventions domestically and 296 overseas, maintaining a global patent application rate of approximately 75% for the last six consecutive years. (",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The number of patents held is also among the best in the industry, with 24,996 patents owned as of the end of March 2025, which is reported to be the highest in the semiconductor manufacturing equipment industry. (",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "There is also attention on the themes of patent applications; in the second quarter of 2024, the number of applications and grants related to \"industrial automation/robotics\" and \"design/manufacturing\" was quite high. (",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This strength in intellectual property serves as a differentiator for TEL to build long-term relationships with customers even after equipment sales. In other words, it is easy for them to have an advantage in \"solution provision\" that includes not only the equipment itself but also peripheral technologies, process control, and software algorithms.",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", the key is the transition from just holding patents to \"commercialization and monetization.\" In other words, how to turn intellectual property into products and services and link them to improvements in customer cost structures and production efficiency will be the focus going forward. Additionally, risks such as imitation, technology leakage, and international intellectual property litigation c",
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "TELM (@TELMcomic) / X An alternate history comic by Carl Watkins (@CarlWatkins) & Beau Wright (@Beauwri).",
+    "url": "https://x.com/TELMcomic",
+    "pass": 3
+   },
+   {
+    "quote": "Telm (@TELMofDybukon) / X Mention Follow Posts RepliesReplies RepostsReposts MediaMedia Telm @TELMofDybukon Jul 13, 2022 Yungtown",
+    "url": "https://x.com/TELMofDybukon",
+    "pass": 3
+   },
+   {
+    "quote": "Dee Dee (@fibre_telm) / X 9 Dee Dee @fibre_telm Jan 12, 2023 The most hilarious thing is the people commenting engage in that Erskine Whyte",
+    "url": "https://x.com/fibre_telm",
+    "pass": 3
+   },
+   {
+    "quote": "Uub on X: \"@trpcharles So ur husband gets beat up & u telm ... @trpcharles So ur husband gets beat up & u telm The man who beat his up (with the hammer) that you’ll F him up? Are u slow? & he didn’t even use the hammer.",
+    "url": "https://x.com/Uubnozs/status/2108998607437209891",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Telm - LinkedIn Telm | 48 followers on LinkedIn. Creative development. Tablet solutions, Augmented Reality and rich internet applications. From webdevelopment, mobile solutions to new technologies.",
+    "url": "https://www.linkedin.com/company/telm",
+    "pass": 3
+   },
+   {
+    "quote": "Telm S.r.l. - LinkedIn Telm S.r.l. | 873 followers on LinkedIn. Filling and Capping Machines | Since 1972 we design and manufacture filling machines and capping machines. We internally produce our volumetric dosers as ...",
+    "url": "https://www.linkedin.com/company/telmsrl",
+    "pass": 3
+   },
+   {
+    "quote": "Paola Bondavalli - Sales and Marketing manager presso Telm ...Telm Naspleda Sauri - Gerona, Cataluña, España | Perfil ...Luis Gerardo Servín Sánchez - SOLUCIONES TELM DEL BAJIO ...Alessandro Rusciano - Operatore cnc telm srl | LinkedIn Sales and Marketing manager presso Telm srl · Esperienza: Telm S.r.l. · Formazione: Université de Lille III · Località: Reggio Emilia · 413 collegamenti su LinkedIn",
+    "url": "https://it.linkedin.com/in/paola-bondavalli-9a139957",
+    "pass": 3
+   },
+   {
+    "quote": "Telm Naspleda Sauri - Gerona, Cataluña, España | Perfil ... Ubicación: Gerona · Más de 500 contactos en LinkedIn. Ver el perfil de Telm Naspleda Sauri en LinkedIn, una red profesional de más de 1.000 millones de miembros.",
+    "url": "https://es.linkedin.com/in/telm",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Telm London - FacebookTelm & Wilson - FacebookFacebookFacebook - log in or sign upOur jewellery collections are is officially live and ...TELM SRL | Montecchio Emilia - FacebookTELM Consulting - Facebook Oct 25, 2026 · Telm London. 153 followers. Telm London is an elegant watch and jewellery brand established in 2015 We create innovative, elegant watches and jewellery crafted to meet the standards",
+    "url": "https://www.facebook.com/TelmLondon/",
+    "pass": 3
+   },
+   {
+    "quote": "Telm & Wilson - Facebook Telm & Wilson - Crawler Inspired by centipedes, spiders and other cute animals, we are proud to release it from it's enclosure onto the dancefloor. Absolute amazing to have a release on Annix's record label.",
+    "url": "https://www.facebook.com/TelmWilson/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://telmai.com/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://telm.com/ja/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://telm.com/ja/features",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://codenote.net/ja/posts/japanese-local-llm-development-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.terumo.co.jp/about/who-we-are",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nokia.com/ja_jp/about-us/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/TEAM_JAPAN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Japan_national_baseball_team",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://telm.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://telm.com/ja/features",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.telm.ai/case-studies/customer-case-study-datastax/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/en/technologies/plm/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.t-mobile.com/business/partner-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/telm.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/483471-64",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/telmai-telm-ai-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/telmai/__CybnmgyO0GJs-gwYjirGy3pymyv9oxj9kCpGUZHQSJM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tai_miyamoto",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TELMcomic",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TELMofDybukon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fibre_telm",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Uubnozs/status/2108998607437209891",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/telm",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/telmsrl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://it.linkedin.com/in/paola-bondavalli-9a139957",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://es.linkedin.com/in/telm",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TelmLondon/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TelmWilson/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Telm 日本 導入",
+   "results": [
+    "https://telm.com/ja/about",
+    "https://telm.com/ja/features",
+    "https://codenote.net/ja/posts/japanese-local-llm-development-case-studies/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://36kr.jp/502580/",
+    "https://www.businessinsider.jp/article/257819/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Telm 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.terumo.co.jp/about/who-we-are",
+    "https://www.nokia.com/ja_jp/about-us/data/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://industrial.filtrationgroup.com/ja/联系我们/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Telm Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/TEAM_JAPAN",
+    "https://en.wikipedia.org/wiki/Japan_national_baseball_team",
+    "https://telm.com/ja",
+    "https://telm.com/ja/features",
+    "https://www.japan-baseball.jp/en/",
+    "https://www.youtube.com/@TeamJapan",
+    "https://jp.linkedin.com/in/toru-yamada-74a659439",
+    "https://www.instagram.com/teamjapanjoc/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Telm manufacturing customer case study",
+   "results": [
+    "https://www.telm.ai/case-studies/customer-case-study-datastax/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.ptc.com/en/technologies/plm/customer-stories",
+    "https://blogs.sw.siemens.com/teamcenter/category/customer-success-story/",
+    "https://telminc.net/case-studies/",
+    "https://www.telm.ai/case-studies/customer-case-study-fortune-200/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Telm white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://partners.spectrum.com/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Telm founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/telm.ai",
+    "https://pitchbook.com/profiles/company/483471-64",
+    "https://fundediq.co/telmai-telm-ai-funding/",
+    "https://tracxn.com/d/companies/telmai/__CybnmgyO0GJs-gwYjirGy3pymyv9oxj9kCpGUZHQSJM",
+    "https://www.extruct.ai/hub/telm-ai-funding/",
+    "https://www.zoominfo.com/financial/telmai/566154103",
+    "https://getlatka.com/companies/corraldata.com/vs/telm.ai"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Telm",
+   "results": [
+    "https://note.com/tai_miyamoto",
+    "https://note.com/tag/ポケカ",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/norahsandoleh/n/nae761994eb84"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Telm",
+   "results": [
+    "https://x.com/TELMcomic",
+    "https://x.com/TELMofDybukon",
+    "https://x.com/fibre_telm",
+    "https://x.com/Uubnozs/status/2108998607437209891",
+    "https://x.com/TELMOfficial",
+    "https://x.com/telm__s/status/2119396117334929495",
+    "https://x.com/telm__s/status/2119022603218391438"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Telm",
+   "results": [
+    "https://www.linkedin.com/company/telm",
+    "https://www.linkedin.com/company/telmsrl",
+    "https://it.linkedin.com/in/paola-bondavalli-9a139957",
+    "https://es.linkedin.com/in/telm",
+    "https://mx.linkedin.com/in/luis-gerardo-servín-sánchez-6a4547a9",
+    "https://it.linkedin.com/in/alessandro-rusciano-783938198",
+    "https://es.linkedin.com/in/telmgrane"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Telm",
+   "results": [
+    "https://www.facebook.com/TelmLondon/",
+    "https://www.facebook.com/TelmWilson/",
+    "https://lite.facebook.com/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/telmsrl/",
+    "https://www.facebook.com/TELMConsulting/",
+    "https://www.facebook.com/TelmLondon/videos/our-jewellery-collections-are-is-officially-live-and-available-to-order-telmldnc/1655625745541456/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Telm note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Telm X 投稿",
+   "results": [
+    "https://telm.com/ja/features/scheduler",
+    "https://telm.com/zh",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://x.com/telm2017/status/2082056311785840828",
+    "https://help.x.com/ja",
+    "https://x.com/telm2017/status/2087134832182927706",
+    "https://www.youtube.com/watch?v=QacsjWJNdik"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

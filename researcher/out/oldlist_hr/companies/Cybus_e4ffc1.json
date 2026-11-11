@@ -1,0 +1,1188 @@
+{
+ "name": "Cybus",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜返信あり",
+ "researched_at": "2026-11-11T04:14:33.004352+00:00",
+ "official_url": "https://www.cybus.io",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Die zentrale Dateninfrastruktur integriert Produktion und IT",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Der Factory Data Hub schafft einen zentralen Datenfluss in Ihrer Fertigung mit anwendbaren Echtzeitdaten. Die typischen Barrieren werden aufgelöst, da Connectware Ihre Produktion mit Ihrer IT, jeder Anwendung und jedem System vernetzt. Die zentrale Datenquelle liefert alle Assets und Ressourcen zur Digitalisierung Ihrer Fabrik – alles aus einer Software.",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "e mit codebasierten Konfigurationen ermöglicht den schnellen, produktionskritischen Rollout von Anwendungsfällen und weiteren Produktionsstandorten.",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Die auf komplexe Produktionsumgebungen zugeschnittene Architektur bewältigt hohe Datenlast, gewährleistet minimale Latenzzeiten und vermeidet Datenverluste.",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Mit der universellen Dateninfrastruktur von Cybus setzen unsere Kunden eigenständig verschiedenste Use Cases um. Connectware als Factory Data Hub ermöglicht komplexe digitale Projekte und sichert einen erfolgreichen Rollout.",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Die SCHUNK GmbH & Co. KG hat es mit Hilfe von Cybus geschafft, ihre Produktionsdaten über den ADAMOS HUB in Apps wie WERKBLiQ zu nutzen.",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "SCHNELLE ROLLOUTS FÜR IHRE PROJEKTE",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Produzierende Unternehmen nutzen Cybus Connectware, um ihre vielfältigen Smart Factory Use Cases umzusetzen – universell für jede Maschine, Anlage und Applikation. Durch den globalen Datenfluss der Industrial IoT Platform können Use Cases wie Traceability, Condition Monitoring, Energy Management oder Predictive Maintenance problemlos getestet, umgesetzt und skaliert werden.",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Cybus Connectware Release 2.6: Echtzeit-Systemtransparenz mit nativen Prometheus-Metriken",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Cybus Connectware stellt ab sofort aussagekräftige Prometheus-Metriken über alle zentralen Komponenten bereit. Betriebsteams sehen den Zustand ihrer Datenbasis jederzeit, über genau die Monitoring-Tools, die sie ohnehin nutzen.",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Software Defined Manufacturing: Fabriken sind keine Bauprojekte mehr",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Software Defined Manufacturing verändert die Fabrikplanung. Erfahren Sie, warum moderne Produktionssysteme wie Software kontinuierlich weiterentwickelt werden sollten.",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Smart Factory auf Enterprise-Niveau: CLAAS standardisiert Nutzung von Shopfloor-Daten mit Cybus Connectware",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Die Claas Gruppe setzt bei der digitalen Transformation ihrer Produktion auf Cybus. An bis zu acht Standorten standardisiert der Factory Data Hub die Produktionsdaten.",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Erfahren Sie, wie das IFB der Universität Stuttgart komplexe Leichtbauprozesse mit einem zentralen Daten Fundament digitalisiert. Mehr Transparenz, Qualität und Rückverfolgbarkeit.",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Martin Heese, ehem. Prozessoptimierung, GRIMME Landmaschinenfabrik",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "» Cybus ermöglicht es uns, parallele Projekte zentral und einheitlich zu realisieren – auch über verschiedene Phasen hinweg. Dabei bleiben wir strategisch und technologisch unabhängig und haben nachhaltige Kosteneinsparungen entlang unserer Digitalisierungs-Roadmap. «",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Felix Ebberg, Lead Industrielle Projekte, Deutsche Nickel GmbH",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance",
+    "url": "https://www.cybus.io/category/news/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "IT/OT-Integration bei Liebherr: Wie eine Plattformstrategie die Digitalisierung in der Produktion beschleunigt",
+    "url": "https://www.cybus.io/category/news/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Smart Factory auf Enterprise-Niveau: CLAAS standardisiert Nutzung von Shopfloor-Daten mit Cybus Connectware",
+    "url": "https://www.cybus.io/category/news/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Die Claas Gruppe setzt bei der digitalen Transformation ihrer Produktion auf Cybus. An bis zu acht Standorten standardisiert der Factory Data Hub die Produktionsdaten.",
+    "url": "https://www.cybus.io/category/news/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Erfahren Sie, wie das IFB der Universität Stuttgart komplexe Leichtbauprozesse mit einem zentralen Daten Fundament digitalisiert. Mehr Transparenz, Qualität und Rückverfolgbarkeit.",
+    "url": "https://www.cybus.io/category/news/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Ein führendes Unternehmen der Draht- und Walzdrahtindustrie optimiert die Energieeffizienz seiner Produktion und seines Gebäudemanagements mit Cybus Connectware.",
+    "url": "https://www.cybus.io/category/news/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Hochskalierende Integration von OT und IT in der Automobilproduktion",
+    "url": "https://www.cybus.io/category/news/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Deutsche Nickel zeigt, wie digitale Transformation erfolgreich und schnell die Produktion im regulären Betrieb digitalisiert.",
+    "url": "https://www.cybus.io/category/news/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "GRIMME Landmaschinenfabrik reduziert Maschinenstillstände und steigert Prozesseffizienz mit Cybus Connectware.",
+    "url": "https://www.cybus.io/category/news/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Automobilhersteller optimiert Produktionsprozesse im laufenden Betrieb mit CI/CD",
+    "url": "https://www.cybus.io/case-studies/ci-cd-produktionsstillstande/",
+    "pass": 1
+   },
+   {
+    "quote": "Die Case Study ist ein Beispiel dafür, dass der Automobilhersteller große Schritte in Richtung einer skalierbaren und zukunftssicheren Produktions-IT-Landschaft macht. Als Partner der Industrial Cloud Community ist Cybus stolz darauf, dies zu unterstützen.",
+    "url": "https://www.cybus.io/case-studies/ci-cd-produktionsstillstande/",
+    "pass": 1
+   },
+   {
+    "quote": "Produktionsstillstand für Updates notwendig",
+    "url": "https://www.cybus.io/case-studies/ci-cd-produktionsstillstande/",
+    "pass": 1
+   },
+   {
+    "quote": "Komplexe, kritische Anpassungen gefährden Produktionsstabilität",
+    "url": "https://www.cybus.io/case-studies/ci-cd-produktionsstillstande/",
+    "pass": 1
+   },
+   {
+    "quote": "On-premises Installation von Connectware auf Kubernetes Cluster",
+    "url": "https://www.cybus.io/case-studies/ci-cd-produktionsstillstande/",
+    "pass": 1
+   },
+   {
+    "quote": "Sofortige Optimierung der Produktionsprozesse – ohne Risiko und ohne zusätzliche Kosten",
+    "url": "https://www.cybus.io/case-studies/ci-cd-produktionsstillstande/",
+    "pass": 1
+   },
+   {
+    "quote": "Einsparungen bis zu 1.700.000 € durch Updates während der laufenden Produktion",
+    "url": "https://www.cybus.io/case-studies/ci-cd-produktionsstillstande/",
+    "pass": 1
+   },
+   {
+    "quote": "Die SCHUNK GmbH & Co. KG hat es mit Hilfe von Cybus geschafft, ihre Produktionsdaten über den ADAMOS HUB in Apps wie WERKBLiQ zu nutzen.",
+    "url": "https://www.cybus.io/case-studies/ci-cd-produktionsstillstande/",
+    "pass": 1
+   },
+   {
+    "quote": "Energieeinsparung über die Produktion hinaus",
+    "url": "https://www.cybus.io/case-studies/metallverarbeitendes-unternehmen-spart-mit-intelligenten-thermostaten-erheblich-heizkosten/",
+    "pass": 1
+   },
+   {
+    "quote": "Einsparpotenziale außerhalb der Produktionsprozesse finden",
+    "url": "https://www.cybus.io/case-studies/metallverarbeitendes-unternehmen-spart-mit-intelligenten-thermostaten-erheblich-heizkosten/",
+    "pass": 1
+   },
+   {
+    "quote": "✔ Präsenzbasierte Heizungssteuerung für Mitarbeiter",
+    "url": "https://www.cybus.io/case-studies/metallverarbeitendes-unternehmen-spart-mit-intelligenten-thermostaten-erheblich-heizkosten/",
+    "pass": 1
+   },
+   {
+    "quote": "Connectware On-Premises installiert",
+    "url": "https://www.cybus.io/case-studies/metallverarbeitendes-unternehmen-spart-mit-intelligenten-thermostaten-erheblich-heizkosten/",
+    "pass": 1
+   },
+   {
+    "quote": "Die SCHUNK GmbH & Co. KG hat es mit Hilfe von Cybus geschafft, ihre Produktionsdaten über den ADAMOS HUB in Apps wie WERKBLiQ zu nutzen.",
+    "url": "https://www.cybus.io/case-studies/metallverarbeitendes-unternehmen-spart-mit-intelligenten-thermostaten-erheblich-heizkosten/",
+    "pass": 1
+   },
+   {
+    "quote": "Für uns war dieses Projekt ein weiterer Schritt, die Produktion effizienter und auch intelligenter zu gestalten. Uns war besonders wichtig, dass wir strategisch und technologisch unabhängig bleiben.",
+    "url": "https://www.cybus.io/case-studies/hersteller-von-spann-und-automatisierungstechnik-reduziert-energiekosten/",
+    "pass": 1
+   },
+   {
+    "quote": "Es wird spannend, wenn wir noch weitere Lösungen über diesen Ansatz vernetzen. Umso schöner ist es, dass sich darüber hinaus auch ein Referenzfall ergab, von dem auch andere profitieren können..”",
+    "url": "https://www.cybus.io/case-studies/hersteller-von-spann-und-automatisierungstechnik-reduziert-energiekosten/",
+    "pass": 1
+   },
+   {
+    "quote": "Connectware On-Premises installiert",
+    "url": "https://www.cybus.io/case-studies/hersteller-von-spann-und-automatisierungstechnik-reduziert-energiekosten/",
+    "pass": 1
+   },
+   {
+    "quote": "Die SCHUNK GmbH & Co. KG hat es mit Hilfe von Cybus geschafft, ihre Produktionsdaten über den ADAMOS HUB in Apps wie WERKBLiQ zu nutzen.",
+    "url": "https://www.cybus.io/case-studies/hersteller-von-spann-und-automatisierungstechnik-reduziert-energiekosten/",
+    "pass": 1
+   },
+   {
+    "quote": "Integration von Produktionsanlagen mit ModbusTCP, Janitza Energiezählern, Keyence-Durchflusssensoren und IT-Systemen wie MsSQL Database, InfluxDB, JEVis Energy Monitoring ENVIDATEC und Grafana.",
+    "url": "https://www.cybus.io/case-studies/lebensmittelhersteller-optimiert-energieeffizienz-energiedaten-erfassen/",
+    "pass": 1
+   },
+   {
+    "quote": "Die SCHUNK GmbH & Co. KG hat es mit Hilfe von Cybus geschafft, ihre Produktionsdaten über den ADAMOS HUB in Apps wie WERKBLiQ zu nutzen.",
+    "url": "https://www.cybus.io/case-studies/lebensmittelhersteller-optimiert-energieeffizienz-energiedaten-erfassen/",
+    "pass": 1
+   },
+   {
+    "quote": "ist ein führender europäischer Hersteller von Landmaschinen und Nutzfahrzeugen. Um die Produktionskapazitäten zu erweitern, realisiert KRONE die Greenfield-Fabrik der Green Teuto Systemtechnik GmbH (GTS) in Ibbenbüren mit einer revolutionären",
+    "url": "https://www.cybus.io/case-studies/zukunftsfahige-smart-factory-von-krone/",
+    "pass": 1
+   },
+   {
+    "quote": "Wir nehmen Sie mit auf die Reise: Die Entstehung der Smart Factory von KRONE jetzt im Video ansehen",
+    "url": "https://www.cybus.io/case-studies/zukunftsfahige-smart-factory-von-krone/",
+    "pass": 1
+   },
+   {
+    "quote": "Zum vollständigen Video",
+    "url": "https://www.cybus.io/case-studies/zukunftsfahige-smart-factory-von-krone/",
+    "pass": 1
+   },
+   {
+    "quote": "Nahtloser und effizienter Datenfluss zwischen IT und Produktion",
+    "url": "https://www.cybus.io/case-studies/zukunftsfahige-smart-factory-von-krone/",
+    "pass": 1
+   },
+   {
+    "quote": "Die SCHUNK GmbH & Co. KG hat es mit Hilfe von Cybus geschafft, ihre Produktionsdaten über den ADAMOS HUB in Apps wie WERKBLiQ zu nutzen.",
+    "url": "https://www.cybus.io/case-studies/zukunftsfahige-smart-factory-von-krone/",
+    "pass": 1
+   },
+   {
+    "quote": "Deutliche Steigerung der Produktqualität | SKZ Kunststoff-Zentrum",
+    "url": "https://www.cybus.io/ressourcen/referenzen/data-driven-manufacturing-with-iiot/",
+    "pass": 1
+   },
+   {
+    "quote": "SKZ Kunststoff-Zentrum gewinnt aus Maschinendaten bisher unerreichte Erkenntnisse zur Prozessoptimierung",
+    "url": "https://www.cybus.io/ressourcen/referenzen/data-driven-manufacturing-with-iiot/",
+    "pass": 1
+   },
+   {
+    "quote": "Unerreichte Produktqualität durch Machine Learning",
+    "url": "https://www.cybus.io/ressourcen/referenzen/data-driven-manufacturing-with-iiot/",
+    "pass": 1
+   },
+   {
+    "quote": "Produktionsdaten in Echtzeit verfügbar",
+    "url": "https://www.cybus.io/ressourcen/referenzen/data-driven-manufacturing-with-iiot/",
+    "pass": 1
+   },
+   {
+    "quote": "Deutlich verbesserte Produktqualität",
+    "url": "https://www.cybus.io/ressourcen/referenzen/data-driven-manufacturing-with-iiot/",
+    "pass": 1
+   },
+   {
+    "quote": "Fehlende Datentransparenz führt zu geringerer Produktionsqualität und mehr Ausschluss",
+    "url": "https://www.cybus.io/ressourcen/referenzen/data-driven-manufacturing-with-iiot/",
+    "pass": 1
+   },
+   {
+    "quote": "Enges Temperaturfenster für optimale Produktqualität",
+    "url": "https://www.cybus.io/ressourcen/referenzen/data-driven-manufacturing-with-iiot/",
+    "pass": 1
+   },
+   {
+    "quote": "Hoher Ausschuss und geringere Produktionsqualität",
+    "url": "https://www.cybus.io/ressourcen/referenzen/data-driven-manufacturing-with-iiot/",
+    "pass": 1
+   },
+   {
+    "quote": "Skalierbare Datenarchitektur für digitale Projekte ohne Grenzen",
+    "url": "https://www.cybus.io/ressourcen/referenzen/data-driven-manufacturing-with-iiot/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Factory Data Hub | Perfekte OT-IT Kollaboration | Cybus.io",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Der Factory Data Hub schafft einen zentralen Datenfluss in Ihrer Fertigung mit anwendbaren Echtzeitdaten. Die typischen Barrieren werden aufgelöst, da Connectware Ihre Produktion mit Ihrer IT, jeder Anwendung und jedem System vernetzt. Die zentrale Datenquelle liefert alle Assets und Ressourcen zur Digitalisierung Ihrer Fabrik – alles aus einer Software.",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Alle Vorteile des Factory Data Hubs auf einen Blick",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Connectware ist der Factory Data Hub, der Ihre OT und IT unternehmensweit miteinander verbindet. Erfassen, standardisieren, verarbeiten und verteilen Sie mühelos Daten und realisieren Sie Ihre Industrial IoT Anwendungsfälle. Nutzen Sie den omnidirektionalen globalen Datenfluss und die nahtlose Konnektivität in all Ihren Fabriken.",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial IoT Erfolgsgeschichten unserer Kunden",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Mit der universellen Dateninfrastruktur von Cybus setzen unsere Kunden eigenständig verschiedenste Use Cases um. Connectware als Factory Data Hub ermöglicht komplexe digitale Projekte und sichert einen erfolgreichen Rollout.",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial IoT Use Cases realisieren",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Produzierende Unternehmen nutzen Cybus Connectware, um ihre vielfältigen Smart Factory Use Cases umzusetzen – universell für jede Maschine, Anlage und Applikation. Durch den globalen Datenfluss der Industrial IoT Platform können Use Cases wie Traceability, Condition Monitoring, Energy Management oder Predictive Maintenance problemlos getestet, umgesetzt und skaliert werden.",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Software Defined Manufacturing: Fabriken sind keine Bauprojekte mehr",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Software Defined Manufacturing verändert die Fabrikplanung. Erfahren Sie, warum moderne Produktionssysteme wie Software kontinuierlich weiterentwickelt werden sollten.",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Smart Factory auf Enterprise-Niveau: CLAAS standardisiert Nutzung von Shopfloor-Daten mit Cybus Connectware",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Die Claas Gruppe setzt bei der digitalen Transformation ihrer Produktion auf Cybus. An bis zu acht Standorten standardisiert der Factory Data Hub die Produktionsdaten.",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Smart Factory aufbauen – mit nahtloser IT/OT-Integration und event-driven Architecture",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "KRONE setzt auf Event-driven Architecture und Cybus Connectware, um eine effiziente und skalierbare Smart Factory zu realisieren.",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Smart Factory auf Enterprise-Niveau: CLAAS standardisiert Nutzung von Shopfloor-Daten mit Cybus Connectware",
+    "url": "https://www.cybus.io/category/news/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Die Claas Gruppe setzt bei der digitalen Transformation ihrer Produktion auf Cybus. An bis zu acht Standorten standardisiert der Factory Data Hub die Produktionsdaten.",
+    "url": "https://www.cybus.io/category/news/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Smart Factory aufbauen – mit nahtloser IT/OT-Integration und event-driven Architecture",
+    "url": "https://www.cybus.io/category/news/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "KRONE setzt auf Event-driven Architecture und Cybus Connectware, um eine effiziente und skalierbare Smart Factory zu realisieren.",
+    "url": "https://www.cybus.io/category/news/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Zukunftsfähige Smart Factory bei KRONE",
+    "url": "https://www.cybus.io/category/news/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study Highlights",
+    "url": "https://www.cybus.io/case-studies/ci-cd-produktionsstillstande/",
+    "pass": 1
+   },
+   {
+    "quote": "Die Case Study ist ein Beispiel dafür, dass der Automobilhersteller große Schritte in Richtung einer skalierbaren und zukunftssicheren Produktions-IT-Landschaft macht. Als Partner der Industrial Cloud Community ist Cybus stolz darauf, dies zu unterstützen.",
+    "url": "https://www.cybus.io/case-studies/ci-cd-produktionsstillstande/",
+    "pass": 1
+   },
+   {
+    "quote": "Metallverarbeitung | Automotive | Maschinen- und Werkzeugbau | Landmaschinenbau",
+    "url": "https://www.cybus.io/case-studies/ci-cd-produktionsstillstande/",
+    "pass": 1
+   },
+   {
+    "quote": "CASE STUDY HIGHLIGHTS",
+    "url": "https://www.cybus.io/case-studies/metallverarbeitendes-unternehmen-spart-mit-intelligenten-thermostaten-erheblich-heizkosten/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study herunterladen",
+    "url": "https://www.cybus.io/case-studies/metallverarbeitendes-unternehmen-spart-mit-intelligenten-thermostaten-erheblich-heizkosten/",
+    "pass": 1
+   },
+   {
+    "quote": "Wie unsere Kunden ihre Industrial IoT-Use Cases realisieren",
+    "url": "https://www.cybus.io/case-studies/metallverarbeitendes-unternehmen-spart-mit-intelligenten-thermostaten-erheblich-heizkosten/",
+    "pass": 1
+   },
+   {
+    "quote": "CASE STUDY HIGHLIGHTS",
+    "url": "https://www.cybus.io/case-studies/hersteller-von-spann-und-automatisierungstechnik-reduziert-energiekosten/",
+    "pass": 1
+   },
+   {
+    "quote": "Einbindung von Energiezählern über einen Factory Data Hub",
+    "url": "https://www.cybus.io/case-studies/hersteller-von-spann-und-automatisierungstechnik-reduziert-energiekosten/",
+    "pass": 1
+   },
+   {
+    "quote": "Wie unsere Kunden ihre Industrial IoT-Use Cases realisieren",
+    "url": "https://www.cybus.io/case-studies/hersteller-von-spann-und-automatisierungstechnik-reduziert-energiekosten/",
+    "pass": 1
+   },
+   {
+    "quote": "CASE STUDY HIGHLIGHTS",
+    "url": "https://www.cybus.io/case-studies/lebensmittelhersteller-optimiert-energieeffizienz-energiedaten-erfassen/",
+    "pass": 1
+   },
+   {
+    "quote": "Wie unsere Kunden ihre Industrial IoT-Use Cases realisieren",
+    "url": "https://www.cybus.io/case-studies/lebensmittelhersteller-optimiert-energieeffizienz-energiedaten-erfassen/",
+    "pass": 1
+   },
+   {
+    "quote": "Krone baut Smart Factory in nur 12 Monaten | Jetzt lesen",
+    "url": "https://www.cybus.io/case-studies/zukunftsfahige-smart-factory-von-krone/",
+    "pass": 1
+   },
+   {
+    "quote": "Zukunftsfähige Smart Factory bei KRONE",
+    "url": "https://www.cybus.io/case-studies/zukunftsfahige-smart-factory-von-krone/",
+    "pass": 1
+   },
+   {
+    "quote": "Wir nehmen Sie mit auf die Reise: Die Entstehung der Smart Factory von KRONE jetzt im Video ansehen",
+    "url": "https://www.cybus.io/case-studies/zukunftsfahige-smart-factory-von-krone/",
+    "pass": 1
+   },
+   {
+    "quote": "Wie unsere Kunden ihre Industrial IoT-Use Cases realisieren",
+    "url": "https://www.cybus.io/case-studies/zukunftsfahige-smart-factory-von-krone/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study Highlights",
+    "url": "https://www.cybus.io/ressourcen/referenzen/data-driven-manufacturing-with-iiot/",
+    "pass": 1
+   },
+   {
+    "quote": "Durchgängige Datentransparenz und OT-IT Integration – für jeden Schritt zur Smart Factory Transformation",
+    "url": "https://www.cybus.io/ressourcen/referenzen/data-driven-manufacturing-with-iiot/",
+    "pass": 1
+   },
+   {
+    "quote": "Hochskalierbare Smart Factory Datenintegration, die Ihre Kunden weiterbringt",
+    "url": "https://www.cybus.io/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Erhalten Sie Zugriff auf Best-in-Class-Praktiken, branchenspezifisches Wissen und Unterstützung bei der strategischen Beratung Ihrer Kunden. So realisieren Sie die schnellsten und erfolgreichsten Smart Factory Projekte der Industrie.",
+    "url": "https://www.cybus.io/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Smart Manufacturing live erleben",
+    "url": "https://www.cybus.io/partner/capgemini/",
+    "pass": 1
+   },
+   {
+    "quote": "Auf der Hannover Messe präsentierten Capgemini und Cybus eine vollständig vernetzte Fertigungslösung – basierend auf Cybus Connectware. Roboter, SPS und manuelle Arbeitsstationen wurden in einen durchgängigen Produktionsprozess integriert. Das Ergebnis: eine skalierbare, sichere und industrienahe Umsetzung von Smart Manufacturing – live erlebbar.",
+    "url": "https://www.cybus.io/partner/capgemini/",
+    "pass": 1
+   },
+   {
+    "quote": "Skalierbare, zukunftssichere Smart Factories",
+    "url": "https://www.cybus.io/partner/stackit/",
+    "pass": 1
+   },
+   {
+    "quote": "Software Defined Manufacturing",
+    "url": "https://www.cybus.io/software-defined-manufacturing-fabrikplanung/",
+    "pass": 1
+   },
+   {
+    "quote": "Software Defined Manufacturing: Fabriken sind keine Bauprojekte mehr",
+    "url": "https://www.cybus.io/software-defined-manufacturing-fabrikplanung/",
+    "pass": 1
+   },
+   {
+    "quote": "Software Defined Manufacturing verfolgt einen grundlegend anderen Ansatz: Moderne Produktionssysteme werden nicht mehr als einmalige Bauprojekte verstanden, sondern als Systeme, die sich kontinuierlich weiterentwickeln können.",
+    "url": "https://www.cybus.io/software-defined-manufacturing-fabrikplanung/",
+    "pass": 1
+   },
+   {
+    "quote": "Denn genau das wird sie. Neue Produkte, neue Produktionslinien und neue Qualitätsanforderungen kommen hinzu. Industrial AI und Agentic Manufacturing schaffen neue Möglichkeiten. Weitere Standorte und Märkte müssen erschlossen werden.",
+    "url": "https://www.cybus.io/software-defined-manufacturing-fabrikplanung/",
+    "pass": 1
+   },
+   {
+    "quote": "Software Defined Manufacturing beginnt mit einer anderen Denkweise",
+    "url": "https://www.cybus.io/software-defined-manufacturing-fabrikplanung/",
+    "pass": 1
+   },
+   {
+    "quote": "Software Defined Manufacturing wird häufig mit Cloud, KI oder zusätzlicher Software gleichgesetzt. Doch darum geht es nicht.",
+    "url": "https://www.cybus.io/software-defined-manufacturing-fabrikplanung/",
+    "pass": 1
+   },
+   {
+    "quote": "Wer Produktion heute noch als einmaliges Bauprojekt betrachtet, wird jede neue Anforderung als Ausnahme behandeln. Wer sie dagegen als Plattform für kontinuierliche Weiterentwicklung versteht, schafft die Grundlage für Industrial AI, Agentic Manufacturing und alles, was danach kommt.",
+    "url": "https://www.cybus.io/software-defined-manufacturing-fabrikplanung/",
+    "pass": 1
+   },
+   {
+    "quote": "Was bedeutet Software Defined Manufacturing?",
+    "url": "https://www.cybus.io/software-defined-manufacturing-fabrikplanung/",
+    "pass": 1
+   },
+   {
+    "quote": "Software Defined Manufacturing beschreibt einen Ansatz, bei dem Produktionssysteme nicht als einmalige Bauprojekte, sondern als kontinuierlich weiterentwickelbare Systeme verstanden werden. Architektur, Daten und Anwendungen werden so aufgebaut, dass neue Technologien und Prozesse flexibel integriert werden können.",
+    "url": "https://www.cybus.io/software-defined-manufacturing-fabrikplanung/",
+    "pass": 1
+   },
+   {
+    "quote": "Neue Software oder Industrial AI schaffen nur dann langfristigen Mehrwert, wenn die zugrunde liegende Architektur kontinuierliche Veränderungen unterstützt. Andernfalls entstehen neue Datensilos und zusätzlicher Integrationsaufwand.",
+    "url": "https://www.cybus.io/software-defined-manufacturing-fabrikplanung/",
+    "pass": 1
+   },
+   {
+    "quote": "Was unterscheidet Software Defined Manufacturing von klassischer Fabrikplanung?",
+    "url": "https://www.cybus.io/software-defined-manufacturing-fabrikplanung/",
+    "pass": 1
+   },
+   {
+    "quote": "Klassische Fabrikplanung verfolgt häufig einen projektorientierten Ansatz: planen, bauen und betreiben. Software Defined Manufacturing betrachtet die Fabrik dagegen als Plattform, die sich über ihren gesamten Lebenszyklus kontinuierlich weiterentwickelt.",
+    "url": "https://www.cybus.io/software-defined-manufacturing-fabrikplanung/",
+    "pass": 1
+   },
+   {
+    "quote": "Fabrik der Zukunft Podcast: In zehn Monaten zur Smart Factory mit Software Defined Manufacturing",
+    "url": "https://www.cybus.io/software-defined-manufacturing-fabrikplanung/",
+    "pass": 1
+   },
+   {
+    "quote": "Cybus und MHP – A Porsche Company starten eine strategische Partnerschaft, um gemeinsam skalierbare und zukunftsfähige Smart Factory-Lösungen für die industrielle Produktion zu realisieren.",
+    "url": "https://www.cybus.io/category/news/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Die Manufacturing Data Platform ist auf der Automatisierungsplattform ctrlX AUTOMATION von Bosch Rexroth erhältlich.",
+    "url": "https://www.cybus.io/category/news/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Shed some light on your shop floor: Cybus und LANA machen Process Mining in jeder Shopfloor-Umgebung realisierbar",
+    "url": "https://www.cybus.io/category/news/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Der europäische Cloud-Anbieter STACKIT von Schwarz Digits kooperiert mit dem deutschen Softwarehersteller Cybus // Kombination aus souveräner Cloud-Infrastruktur und industrieller Datenintegration // Gemeinsame Lösung für skalierbare, sichere und europäische Smart Factories.",
+    "url": "https://www.cybus.io/souveraene-dateninfrastrukturen-fuer-europas-industrie-stackit-und-cybus-gehen-partnerschaft-ein/",
+    "pass": 1
+   },
+   {
+    "quote": "Vor diesem Hintergrund haben der Cloud-Anbieter STACKIT und der industrielle Dateninfrastruktur-Spezialist Cybus eine strategische Partnerschaft geschlossen. Ziel der Kooperation ist es, Unternehmen beim Aufbau sicherer, souveräner und skalierbarer Smart-Factory-Lösungen zu unterstützen – von der Maschine bis zur Geschäftsapplikation und zurück.",
+    "url": "https://www.cybus.io/souveraene-dateninfrastrukturen-fuer-europas-industrie-stackit-und-cybus-gehen-partnerschaft-ein/",
+    "pass": 1
+   },
+   {
+    "quote": "„Nur mit einer verlässlichen Dateninfrastruktur können Industrieunternehmen ihre digitale Zukunft souverän gestalten“, betont Peter Sorowka, CEO von Cybus. „Gemeinsam mit STACKIT schaffen wir dafür eine starke, rein europäische Grundlage und ermöglichen es unseren Kunden, ihre Smart-Factory-Strategien Schritt für Schritt und mit maximaler Sicherheit umzusetzen.“",
+    "url": "https://www.cybus.io/souveraene-dateninfrastrukturen-fuer-europas-industrie-stackit-und-cybus-gehen-partnerschaft-ein/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Der Factory Data Hub schafft einen zentralen Datenfluss in Ihrer Fertigung mit anwendbaren Echtzeitdaten. Die typischen Barrieren werden aufgelöst, da Connectware Ihre Produktion mit Ihrer IT, jeder Anwendung und jedem System vernetzt. Die zentrale Datenquelle liefert alle Assets und Ressourcen zur Digitalisierung Ihrer Fabrik – alles aus einer Software.",
+    "url": "https://www.cybus.io/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Reseller & Distributoren",
+    "url": "https://www.cybus.io/partner/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "サイバーセキュリティクラウド[4493]：大学生に向けた新たなサイバーセキュリティ理解促進企画「Cybus（サイバス）」始動！～「学ぶ」を「体験」に変えるキャリア発見プロジェクト新企画～ 2025年2月4日(適時開示) ：日経会社情報DIGITAL：日本経済新聞",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20250204562733/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Cybus Connectware | Leading Factory Data Hub | Industrial IoT — The Factory Data Hub Cybus Connectware provides a centralized platform with applicable real-time data of your production.",
+    "url": "https://www.cybus.io/en/",
+    "pass": 3
+   },
+   {
+    "quote": "About Cybus | The leading software for Industrial IoT — About Cybus The bedrock foundation for smart factories Cybus pioneered Industry 4.0 with the first factory data hub Cybus’ software solutions are designed specifically for industrial manufacturing and its complex requirements. With the high-performance and scalable Factory Data Hub, Cybus brings open collaboration between manufacturing and it",
+    "url": "https://www.cybus.io/en/company/about-cybus/",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティクラウド [4493]：大学生に向けた新たなサイバー... — Feb 4, 2025 · 2025年2月4日 サイバーセキュリティクラウド [4493]の開示資料「大学生に向けた新たなサイバーセキュリティ理解促進企画「Cybus（サイバス）」始動 ...",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20250204562733/",
+    "pass": 3
+   },
+   {
+    "quote": "Cybus | LinkedIn — Cybus | LinkedInのフォロワー数4,993人。Data integration at scale | Cybus is a software company specialising in connectivity and architectures for smart factories. Its Industrial IoT software solution, Connectware, enables the seamless flow of manufacturing data for industrial enterprises. It is tailored to the complex requirements of large enterprises and multiple factory sites.",
+    "url": "https://jp.linkedin.com/company/cybus",
+    "pass": 3
+   },
+   {
+    "quote": "Case studies | Cybus.io — Documentation Support Center Cybus Connectware Licenses Demo Offer request Solutions Data foundation for Industrial AI Use cases Industries First steps Resources Success stories Media library Webinars Podcasts FAQ Company About Cybus Partners Career News Imprint Open-source software & licenses Data privacy Terms and Conditions Manage cookies ...",
+    "url": "https://www.cybus.io/en/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Cybus Connectware Case Studies & Customer Success | CusperaCybus: 3 IoT Projects & Use CasesCybus | Vivasoft Ltd.2024-cybus-automotive-case-study-EN.pdf | Cybus - LinkedIn2024-cybus-automotive-case-study-EN.pdf | Cybus - LinkedIn — Manufacturing Case Studies and Success Stories with Cybus Connectware CASE STUDY KRONE Group KRONE built a Smart Factory in 12 weeks, enhancing production with an event",
+    "url": "https://www.cuspera.com/products/cybus-connectware-x-18344/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Cybus: 3 IoT Projects & Use Cases — 3 verified projects featuring Cybus: Digital Documentation and Traceability. Including users, technology and real-world results.",
+    "url": "https://www.iotusecase.com/en/companies/cybus",
+    "pass": 3
+   },
+   {
+    "quote": "Cybus | Vivasoft Ltd. — Cybus empowers organizations to effortlessly collect, standardize, process, and distribute data, enabling diverse Industrial IoT use cases with a seamless global data flow across all facilities.",
+    "url": "https://vivasoftltd.com/case-study/cybus/",
+    "pass": 3
+   },
+   {
+    "quote": "2024-cybus-automotive-case-study-EN.pdf | Cybus - LinkedIn — “Connectware is the only solution to realize a fully cloud-based manufacturing line with high availability and heavy data flow between OT and IT.”, shares a German car manufacturer.",
+    "url": "https://www.linkedin.com/posts/cybus_2024-cybus-automotive-case-study-enpdf-activity-7259197977301315584-moA_",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "contact@vivasoftltd.com",
+    "url": "https://vivasoftltd.com/case-study/cybus/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Cybus Industries (@CybusIndus) / X After rigorous Cybus-funded studies, our water and sewage subsidiaries have concluded it is safe to swim in polluted waters. But for your peace of mind, upgraded individuals have complete immunity from unlikely adverse effects.",
+    "url": "https://x.com/CybusIndus",
+    "pass": 3
+   },
+   {
+    "quote": "Cybus (@cybus) / X Cybus @cybus Apr 20, 2019 My April vacation I'd almost over haven't streamed all week might do it today at twitch.Cybus Cybus @cybus Mar 30, 2019",
+    "url": "https://x.com/cybus",
+    "pass": 3
+   },
+   {
+    "quote": "Cybus Industries (@CybusInd) / X The official Twitter account for Cybus Industries, a leader in men's fashion, trying to make a more professional world for everyone.",
+    "url": "https://x.com/CybusInd",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by Cybus Industries (@CybusIndus) / X 6 months on from Elon Magpie’s unfortunate accident in London, April’s edition of Cybus Magazine is dedicated to his technological achievements.",
+    "url": "https://x.com/CybusIndus/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "Cybus (@cybus) / X Cybus @cybus Mar 27, 2019 Day 5 on Twitter and I'm loving it going to live friday at 4:30 and on Saturday and Sunday might be random sorry and enjoy the stream @ cybus on twitch 1",
+    "url": "https://x.com/cybus",
+    "pass": 3
+   },
+   {
+    "quote": "Cybus Industries (@CybusIndus) / X A word from Cybus founder and CEO, Steven Crest, following today's unfortunate accident. Our thoughts are with Mr Magpie's pre-upgrade loved ones, who will be suffering with emotional distress at this time.",
+    "url": "https://x.com/CybusIndus",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Cybus - LinkedIn Cybus | 5,052 followers on LinkedIn. Data integration at scale | Cybus is a software company specialising in connectivity and architectures for smart factories. Its Industrial IoT software ...",
+    "url": "https://www.linkedin.com/company/cybus",
+    "pass": 3
+   },
+   {
+    "quote": "From Startup to Industry Standard | Celebrating 10 Years of Cybus Jul 3, 2025 · 10 Years of Cybus 🎉 From Startup to Industrial Standard 🥳 This June, we celebrated something truly special: 10 years of Cybus. What began in 2015 as a bold idea for scalable industrial data ...",
+    "url": "https://www.linkedin.com/pulse/from-startup-industry-standard-celebrating-10-years-cybus-cybus-4p5te",
+    "pass": 3
+   },
+   {
+    "quote": "Peter Sorowka - Co-Founder & Co-CEO @ Cybus | Making ... I'm Founder and Co-CEO of Cybus. We build Connectware, the industrial data infrastructure that turns machines, plants, and enterprise systems into one governed, real-time data layer.",
+    "url": "https://www.linkedin.com/pub/dir/Peter/Sorowka",
+    "pass": 3
+   },
+   {
+    "quote": "Introducing: Cybus Connectware 2.0 - LinkedIn Oct 14, 2025 · Cybus Connectware 2.0 is the digital backbone for the enterprise-scale smart factory. We re-engineered the core to deliver 100x performance, limitless scalability and zero downtime.",
+    "url": "https://www.linkedin.com/pulse/introducing-cybus-connectware-20-cybus-mpkae",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Cybus | Hamburg - FacebookCybus Industries - FacebookFacebookFacebook - log in or sign upLog Into FacebookExciting milestone for Cybus! We have ... - FacebookCybus Solutions | Lahore - Facebook Jan 21, 2025 · Cybus besucht die Industry of Things World Europe ... TeamViewer's Experience Day in Zandvoort was an event at highest gear! #F1🏎️ The focus of the day was clear: technology is a key driver o",
+    "url": "https://www.facebook.com/cybusgmbh/",
+    "pass": 3
+   },
+   {
+    "quote": "Cybus Industries - FacebookFacebookFacebook - log in or sign upLog Into FacebookExciting milestone for Cybus! We have ... - FacebookCybus Solutions | Lahore - Facebook Cybus Industries. 109 followers. Biotechnology Company Log into Facebook to connect with friends, family, and people you know. Connect with friends and the world around you on Facebook. Log into Facebook to start sharing and connect",
+    "url": "https://www.facebook.com/cybusindustries/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.cybus.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybus.io/category/news/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybus.io/case-studies/ci-cd-produktionsstillstande/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybus.io/case-studies/metallverarbeitendes-unternehmen-spart-mit-intelligenten-thermostaten-erheblich-heizkosten/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybus.io/case-studies/hersteller-von-spann-und-automatisierungstechnik-reduziert-energiekosten/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybus.io/case-studies/lebensmittelhersteller-optimiert-energieeffizienz-energiedaten-erfassen/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybus.io/case-studies/zukunftsfahige-smart-factory-von-krone/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybus.io/ressourcen/referenzen/data-driven-manufacturing-with-iiot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybus.io/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybus.io/partner/capgemini/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybus.io/partner/microsoft-azure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybus.io/partner/stackit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybus.io/partner/zededa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybus.io/software-defined-manufacturing-fabrikplanung/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybus.io/category/news/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybus.io/wp-content/uploads/2024/02/2024-automotive-case-study-pdf-DE.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cybus.io/wp-content/uploads/2023/10/EM-intro-edited.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cybus.io/wp-content/uploads/2023/10/Case-Study-cover-DE.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cybus.io/souveraene-dateninfrastrukturen-fuer-europas-industrie-stackit-und-cybus-gehen-partnerschaft-ein/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybus.io/mhp-schliesst-partnerschaft-mit-softwarehersteller-cybus/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.cybus.io/wp-content/uploads/2023/11/Cybus_Case-Study_Deutsche-Nickel-energiemanagement-metall-industrie_DE.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cybus.io/wp-content/uploads/2023/07/website-partner-logos-nttdata.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cybus.io/wp-content/uploads/2023/07/website-partner-logos-dxc.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cybus.io/wp-content/uploads/2023/07/website-partner-logos-aws.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cybus.io/wp-content/uploads/2023/07/website-partner-logos-roi.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20250204562733/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000137383.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.airbus.com/ja/about-us/our-worldwide-presence/airbus-in-asia-pacific/airbus-in-japan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/CYBERJAPAN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanbusonline.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cuspera.com/products/cybus-connectware-x-18344/customer-story",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iotusecase.com/en/companies/cybus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vivasoftltd.com/case-study/cybus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/CybusIndus",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cybus",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CybusInd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CybusIndus/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/cybus",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/from-startup-industry-standard-celebrating-10-years-cybus-cybus-4p5te",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pub/dir/Peter/Sorowka",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/introducing-cybus-connectware-20-cybus-mpkae",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cybusgmbh/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cybusindustries/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cybus",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CybusIndus",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Cybus 日本 導入",
+   "results": [
+    "https://www.cybus.io/en/",
+    "https://www.cybus.io/en/company/about-cybus/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20250204562733/",
+    "https://prtimes.jp/main/html/rd/p/000000013.000137383.html",
+    "https://www.jreast.co.jp/press/2026/20261110_ho03.pdf",
+    "https://www.watch.impress.co.jp/docs/news/2155153.html",
+    "https://robotstart.info/article/2026/09/10/382404.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cybus 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.airbus.com/ja/about-us/our-worldwide-presence/airbus-in-asia-pacific/airbus-in-japan",
+    "https://jpmktg.winbond.com/",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cybus Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/CYBERJAPAN",
+    "https://www.cybus.io/en/",
+    "https://www.cybus.io/en/company/about-cybus/",
+    "https://japanbusonline.com/en",
+    "https://jp.linkedin.com/company/cybus",
+    "https://www.kosokubus.com/en/",
+    "http://www.cybus.com/contact_locations.shtml",
+    "https://cybozu.co.jp/en/company/about/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Cybus manufacturing customer case study",
+   "results": [
+    "https://www.cybus.io/en/case-studies/",
+    "https://www.cuspera.com/products/cybus-connectware-x-18344/customer-story",
+    "https://www.iotusecase.com/en/companies/cybus",
+    "https://vivasoftltd.com/case-study/cybus/",
+    "https://www.linkedin.com/posts/cybus_2024-cybus-automotive-case-study-enpdf-activity-7259197977301315584-moA_",
+    "https://www.linkedin.com/posts/cybus_2024-cybus-automotive-case-study-enpdf-activity-7259197977108332545-u_L3",
+    "https://www.cybus.io/wp-content/uploads/2023/11/Cybus_Case-Study_energymanagement-metal-lindustry_EN.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cybus white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Cybus founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Cybus",
+   "results": [
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/salaryman_fire/n/nd44b4fa3a2b5",
+    "https://note.com/yutsuki358/n/nb6532113a898",
+    "https://note.com/harusamenote/n/n59a9ae8e072e",
+    "https://note.com/processon2025/n/n7e0c3ced2828"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Cybus",
+   "results": [
+    "https://x.com/CybusIndus",
+    "https://x.com/cybus",
+    "https://x.com/CybusInd",
+    "https://x.com/CybusIndus/with_replies",
+    "https://x.com/Cybus01",
+    "https://x.com/JamesBarbatus/status/2118856511393091727",
+    "https://x.com/CybusSleuth"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Cybus",
+   "results": [
+    "https://www.linkedin.com/company/cybus",
+    "https://www.linkedin.com/pulse/from-startup-industry-standard-celebrating-10-years-cybus-cybus-4p5te",
+    "https://www.linkedin.com/pub/dir/Peter/Sorowka",
+    "https://www.linkedin.com/pulse/introducing-cybus-connectware-20-cybus-mpkae",
+    "https://www.linkedin.com/company/cybus-solutions-ltd",
+    "https://www.linkedin.com/pulse/its-here-cybusmq-european-mqtt-broker-smart-factories-cybus-7tcke",
+    "https://www.linkedin.com/posts/cybus_2-updates-a-year-because-every-change-meant-activity-7454785507059875840-0s7q"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Cybus",
+   "results": [
+    "https://www.facebook.com/cybusgmbh/",
+    "https://www.facebook.com/cybusindustries/",
+    "https://lite.facebook.com/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/cybusgmbh/posts/exciting-milestone-for-cybus-we-have-successfully-achieved-the-tisax-certificati/1154975826631774/",
+    "https://www.facebook.com/CybuseSol/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cybus note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.cybus.io/en/cybus-appoints-stefan-schwab-as-co-ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://cybozu.co.jp/company/board-member/",
+    "https://cybozu.co.jp/company/ceo-message/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cybus X 投稿",
+   "results": [
+    "https://x.com/cybus",
+    "https://x.com/CybusIndus",
+    "https://www.cybus.io/en/",
+    "https://www.cybus.io/en/company/about-cybus/",
+    "https://note.com/mgane/n/n1c0d7384c8a0",
+    "https://www.canva.com/ja_jp/features/twitter-yoyaku-toukou/",
+    "https://note.com/kagura6284/n/n96b2006704cf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像5件／外部23頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像5件／外部23頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像5件／外部23頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像5件／外部23頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像5件／外部23頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像5件／外部23頁・検索12回）"
+ }
+}

@@ -1,0 +1,1827 @@
+{
+ "name": "EasyPost",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜送信済み（非製造）",
+ "researched_at": "2026-11-11T04:31:46.206941+00:00",
+ "official_url": "https://www.easypost.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2012",
+    "url": "https://startupintros.com/orgs/easypost",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "San Francisco, CA, USA",
+    "url": "https://startupintros.com/orgs/easypost",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "14-Sep-2013    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/56099-98",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "30-Jun-2013 $1.2M $1.2M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/56099-98",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Insurance, Claims, and Protection",
+    "url": "https://www.easypost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Insure any shipment across 100+ carriers at a flat 1%, and file every claim from your dashboard. One process, every carrier.",
+    "url": "https://www.easypost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your shipments",
+    "url": "https://www.easypost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Powering every step of the shipping journey with enterprise-",
+    "url": "https://www.easypost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "shipping process without writing a single line of code.",
+    "url": "https://www.easypost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This vodcast is for getting to know the fun side of our industry leaders, staying updated with the latest trends, and leveling up your shipping processes. If that sounds like your jam, this is the place for you. Every episode of Unboxing Logistics is stuffed full of insights, innovations, and real-life stories from the people who have been on the front line for years.",
+    "url": "https://www.easypost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stop Your 3PL Profit Leaks With Ryan Frankenfield From Datex – Ep. 92",
+    "url": "https://www.easypost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your packages from rising porch piracy.",
+    "url": "https://www.easypost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Insurance, Claims, and Protection",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Ecommerce tools automate and streamline the processes related to online commerce. They are used to increase customer conversion and keep up with growing demand and company size.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "ShipBlink fits right in the middle of a shopper’s lifecycle from pre-order to post-order, helping ecommerce businesses boost their revenue, improve shopper’s checkout experience, and automate shipping operations.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "WeSupply offers a comprehensive post-purchase platform designed to help retailers create effortless customer experiences. With features like real-time order tracking, proactive delivery notifications, self-service returns, and in-store or curbside pickup solutions, WeSupply empowers businesses to boost customer satisfaction and loyalty.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "1TeamSoftware specializes in providing elegant solutions for complex ecommerce challenges. They develop and publish unique and helpful free and premium WooCommerce plugins that help to boost your sales while reducing your operating expenses.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "29next specializes in providing an ecommerce CRM for performance marketers, creative agencies, and digital-first brands. Their ecommerce CRM offer features a branded storefront, marketing funnels, and a customer support system all-in-one.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Accura offers an “all-in-one” solution covering CRM, MIS, and Web2Print in a fully integrated, simple, easy-to-use, and scalable, “out-of-the-box” package. Accura is accessible to every printer, no matter what size or industry sector.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "AIMS360 is a cloud-based, fully integrated order and production management & processing software for fashion manufacturers, wholesalers, importers, and distributors.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Ample Organics is a Canadian seed-to-sale technology platform that operates in four countries. They develop tools that foster transparency, facilitate compliance, and build trust. Their clients use their products to create complete visibility into the origin and chain of custody of any product they produce.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover the unified commerce solutions used by hundreds of brands to elevate the customer experience and optimize operational processes.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Bandzoogle is an all-in-one platform that powers the websites of 60,000 bands, with included website templates, an easy custom design editor, and built-in tools to promote and sell music directly to fans.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Brex is a powerful financial stack designed to serve the next generation of growing businesses. By integrating software, services, and products into one experience, Brex helps customers effortlessly extend the power of every dollar, so they’re free to focus on big dreams and fast growth—without worrying about wasted spend.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Brightpearl by Sage provides a retail operating system (ROS) for retailers and wholesalers. Its mission is clear: automate the back office so merchants can spend their time and money growing the business.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Buku Ship is a carrier-agnostic shipping infrastructure layer for 3PLs, warehouses, fulfillment providers, and high-volume merchants. Enterprise parcel rates, automated 3PL billing, and one dashboard for cost and margin visibility, connected to the WMS and storefront tools operators already run. No migration, no re-platforming.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "ClickFunnels is a website and sales funnel builder for entrepreneurs.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom-Gateway provides software tools and services to make it easier to sell and fulfill orders for personalized, customized, and other on-demand products",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "DTG2Go is a leading contract direct to garment (DTG) apparel printing and fulfillment facility. They expertly print, package, and drop ship thousands of garments daily.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "ELEXtensions, provides ecommerce solutions to buyers and sellers across the world, thereby empowering small businesses to streamline their business flow with the help of in-house plugins and WordPress support.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "First Choice Ship is a leader in international shipping for Amazon sellers. First Choice Ship specializes in providing every possible service needed to help Amazon sellers expand to Amazon’s international markets.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Foxy.io provides custom ecommerce to online merchants, enterprises, and platforms worldwide. Developers and merchants alike take advantage of Foxy’s powerful ecommerce feature set while providing their customers with a safe and fast checkout experience.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Fulfillment iQ is an ecommerce fulfillment agency supporting brands, retailers and 3PLs to accelerate ecommerce fulfillment strategic initiatives & executive priorities that drive revenue and reduce costs.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "GrandShipper is a web-based USPS Shipping Software. As an approved Connect eCommerce vendor of the USPS, we provide customers below Commercial Rates for both domestic and international shipments.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Create 100% customized ecommerce storefronts in minutes, even if you have no web design experience. Slash operational costs and supercharge sales with our simple-to-use, yet highly sophisticated web-to-print software.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "inFlow Inventory can help your small business master inventory control. Their software can help you speed up sales and inventory management with full barcode scanner support, quickly provide your customers with professional invoices and documentation, and quickly sync sales from Shopify, Amazon, and WooCommerce.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Karrio is a multi-carrier platform that makes shipping easy for enterprises, by providing privacy, compliance, data privacy, and governance. We empower developers with a headless API and operators with an integrated UI Dashboard and an app marketplace to extend functionality.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Insurance, Claims, and Protection",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter the market in minutes with Forge, EasyPost’s answer for businesses that need a reliable, profitable, and scalable white-label shipping solution with one centralized platform.",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "Use the customer portal as-is, or drop in prebuilt components for complex UIs.",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "Cover shipments across every carrier and service level we support. Competitive flat-rate pricing leaves room for a healthy markup.",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive platform, endless possibilities",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "Simply reach out to your customer service representative to get started, and you’ll be able to access the power of Luma:",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "Surface shipping performance trends that show each customer where to improve.",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "Catch problems before customers do:",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "Mix national and regional carriers, and move volume when prices spike or service slips.",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "White label one or all of our APIs to build a reliable comprehensive shipping offering.",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "Provide prenegotiated rates to all your users with popular carriers like USPS, UPS, FedEx, DHL, and more.",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2012, we've revolutionized the shipping process for 10,000+ shippers around the world to be faster, more reliable, and more affordable. With Forge, we're ready to do the same for your users.",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "Insurance, Claims, and Protection",
+    "url": "https://www.easypost.com/use-cases/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Forge empowers B2B platforms to embed end-to-end shipping capabilities directly into their products. With EasyPost’s proven infrastructure, you can offer branded, full-service shipping experiences without the heavy engineering lift.",
+    "url": "https://www.easypost.com/use-cases/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Rapidly deploy proven solutions and deliver an immediate business impact.",
+    "url": "https://www.easypost.com/use-cases/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve delivery performance with real-time analytics and carrier tracking data.",
+    "url": "https://www.easypost.com/use-cases/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Insurance, Claims, and Protection",
+    "url": "https://www.easypost.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore how businesses like yours are solving complex shipping problems and driving growth with smart logistics solutions.",
+    "url": "https://www.easypost.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Insurance, Claims, and Protection",
+    "url": "https://www.easypost.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Simple pricing, discounted shipping rates,",
+    "url": "https://www.easypost.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom pricing based on volume",
+    "url": "https://www.easypost.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your Shopify account, import orders, and print labels from one platform.",
+    "url": "https://www.easypost.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Insurance, claims, and protection",
+    "url": "https://www.easypost.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "USPS Claims Program, FedEx Claims Program",
+    "url": "https://www.easypost.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Insurance, Claims, and Protection",
+    "url": "https://www.easypost.com/talk-to-easypost/",
+    "pass": 1
+   },
+   {
+    "quote": "Hassle-free insurance and protection",
+    "url": "https://www.easypost.com/talk-to-easypost/",
+    "pass": 1
+   },
+   {
+    "quote": "24/7/365 premium support",
+    "url": "https://www.easypost.com/talk-to-easypost/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Enhance your brand with white-label services.",
+    "url": "https://www.easypost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner White Label API",
+    "url": "https://www.easypost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "29next specializes in providing an ecommerce CRM for performance marketers, creative agencies, and digital-first brands. Their ecommerce CRM offer features a branded storefront, marketing funnels, and a customer support system all-in-one.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Thrift Shopping Network allows buyers and sellers, from across the United States, to connect. The site is designed for small businesses, resellers, and anyone looking for incredible finds they can’t find elsewhere.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Loop helps you retain customers through one of the most fragile interactions they’ll have with your brand: online returns. By providing complete returns automation, in-line exchanges, and your own fully-customized returns app, Loop takes the pain out of returns for your team and for your customers.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner White Label API",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Forge White-Label Shipping - EasyPost",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter the market in minutes with Forge, EasyPost’s answer for businesses that need a reliable, profitable, and scalable white-label shipping solution with one centralized platform.",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "Sub-accounts inherit your branding and settings, or get a configuration of their own.",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label an order management system through Forge’s Advanced Shipping.",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "White label one or all of our APIs to build a reliable comprehensive shipping offering.",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner White Label API",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "White Label - EasyPost",
+    "url": "https://www.easypost.com/use-cases/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Build your white-label shipping platform in minutes",
+    "url": "https://www.easypost.com/use-cases/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner White Label API",
+    "url": "https://www.easypost.com/use-cases/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner White Label API",
+    "url": "https://www.easypost.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label EasyPost APIs to power your platform.",
+    "url": "https://www.easypost.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner White Label API",
+    "url": "https://www.easypost.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner White Label API",
+    "url": "https://www.easypost.com/talk-to-easypost/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner White Label API",
+    "url": "https://www.easypost.com/case-studies/460000-recovered-in-days-with-easypost-guard/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner White Label API",
+    "url": "https://www.easypost.com/case-studies/recommerce-marketplace-saves-millions-with-luma-ai-select/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner White Label API",
+    "url": "https://www.easypost.com/case-studies/packiyo/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner White Label API",
+    "url": "https://www.easypost.com/case-studies/kase/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner White Label API",
+    "url": "https://www.easypost.com/case-studies/radio-flyer/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner White Label API",
+    "url": "https://www.easypost.com/case-studies/zenni-optical/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner White Label API",
+    "url": "https://www.easypost.com/case-studies/winestyr/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner White Label API",
+    "url": "https://www.easypost.com/case-studies/yamibuy/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner White Label API",
+    "url": "https://www.easypost.com/partners/gori-company/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner White Label API",
+    "url": "https://www.easypost.com/partners/ads-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner White Label API",
+    "url": "https://www.easypost.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner White Label API",
+    "url": "https://www.easypost.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Forge White-Label Shipping for Platforms and Marketplaces",
+    "url": "https://docs.easypost.com/guides/forge-overview",
+    "pass": 3
+   },
+   {
+    "quote": "white-label shipping solution",
+    "url": "https://docs.easypost.com/guides/forge-overview",
+    "pass": 3
+   },
+   {
+    "quote": ", a white-labeled shipping interface for",
+    "url": "https://docs.easypost.com/guides/forge-overview",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The industry’s trusted shipping API. Multi-carrier complexity, handled. Shipping AI, built in.",
+    "url": "https://www.easypost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "100+ Carriers, Easy Claims",
+    "url": "https://www.easypost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Insure any shipment across 100+ carriers at a flat 1%, and file every claim from your dashboard. One process, every carrier.",
+    "url": "https://www.easypost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "$5,000 of coverage per package across 100+ carriers",
+    "url": "https://www.easypost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Wallet carriers ship at up to 88% off retail, billed on one EasyPost invoice.",
+    "url": "https://www.easypost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“GOFO is officially the fastest growing carrier on EasyPost.”",
+    "url": "https://www.easypost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "— Jarrett Streebin, CEO, EasyPost",
+    "url": "https://www.easypost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "It’s Not Too Late To Add Carriers for Peak! With Joe Dieter From EasyPost – Ep. 93",
+    "url": "https://www.easypost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet the Carrier: UniUni’s Flexible, Customizable Solution With Jax Zheng From UniUni – Ep. 91",
+    "url": "https://www.easypost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ShipBlink fits right in the middle of a shopper’s lifecycle from pre-order to post-order, helping ecommerce businesses boost their revenue, improve shopper’s checkout experience, and automate shipping operations.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "AMS.Ship is a global, multi-carrier management system for controlling the way today’s businesses need to ship. AMS Company develops affordable, multi-carrier shipping software designed to streamline shipping operations and reduce costs.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We are BALANCED Agency – a leading software development company based in Reno, NV. We worked with Fortune 500 clients like Sony, Pepsi, Samsung, as well as fast-growing startups like EasyPost, Shoplazza and more. Where we really shine is creating the perfect software for your business in time and within your budget.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Buku Ship is a carrier-agnostic shipping infrastructure layer for 3PLs, warehouses, fulfillment providers, and high-volume merchants. Enterprise parcel rates, automated 3PL billing, and one dashboard for cost and margin visibility, connected to the WMS and storefront tools operators already run. No migration, no re-platforming.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Fulfillment iQ is an ecommerce fulfillment agency supporting brands, retailers and 3PLs to accelerate ecommerce fulfillment strategic initiatives & executive priorities that drive revenue and reduce costs.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Karrio is a multi-carrier platform that makes shipping easy for enterprises, by providing privacy, compliance, data privacy, and governance. We empower developers with a headless API and operators with an integrated UI Dashboard and an app marketplace to extend functionality.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Linnworks connects, manages and automates commerce operations, powering businesses to sell wherever their customers are and capture every revenue opportunity.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "ShipJunction is a multi-carrier shipping system that lets retailers and wholesalers tackle all their shipping needs in one comprehensive portal. Inefficiencies bother us. We are an engineering-focused team that is continuously looking to build better shipping and fulfillment solutions that scale and grow with your business.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by over 15,000 customers, XPSship is a multicarrier shipping solution, geared towards ecommerce merchants. XPSship helps thousands of ecommerce merchants, and other companies that ship parcels, fulfill their orders in a cost-efficient, streamlined manner.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "All That Ship is a multi-carrier rate shopping TMS that allows customers to quickly and efficiently find the lowest or most efficient rate to get their package from point A to point B. They offer rates from all the major carriers as well as nearly 100 regional carriers.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Express Save Industries is a full service traffic management firm specializing in identifying the right shipping method and carrier is used to accommodate your shipping needs.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "GreyOrange works with leading retailers across the globe to enable their omnichannel fulfilment networks. Our software, GreyMatter and gStore process more than a million shipments every day for leading fortune 500 retailers.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize your Business Central ERP experience with the integration solutions by idyn. Use our shipping solution ShipIT 365 to connect to over 1250 carriers worldwide.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "ConnectShip, Inc. is a wholly-owned, independent subsidiary of UPS that provides multi-carrier shipping solutions to the logistics community. ConnectShip works with regional, national, and international carriers to provide carrier compliance to the ConnectShip community of partners, carriers, and customers.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Combining industry expertise with a business intelligence platform, iDrive Logistics provides intelligent solutions to small-parcel shippers across all industry verticals. Through their cost model approach to contract optimization, business intelligence insight, and carrier partnerships, iDrive is an integral component of the nation’s supply chains.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Shipping Haus’s primary goal is to provide “one-click logistics” through intuitive enterprise technology that simplifies freight and shipping processes, end-to-end. Its core value is the time they save companies in organizing shipments, which occur through a series of automation made possible by integrating company tech stacks and third-party carriers/brokers.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Expandly is an ecommerce SaaS platform that makes selling online easier. Connect your sales channel(s), shipping carriers, warehouse, and accounting software into one initiative and simple-to-manage dashboard.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "ParcelShield, an AI-powered platform, provides healthcare shippers with predictive insights, risk mitigation, and data assets. With 15+ years of data, it optimizes delivery strategies across all carriers.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "V-Technologies provides the link between Enterprise Resource Planning (ERP), ecommerce platforms, and small package/LTL carriers resulting in faster, more efficient shipment processing and fulfillment.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "With Self-Managed Billing, Forge turns your shipping offering into new revenue.",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "Cover shipments across every carrier and service level we support. Competitive flat-rate pricing leaves room for a healthy markup.",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "Tap into EasyPost Wallet Carriers",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "Give sub-accounts discounted rates from top carriers with no contracts or volume minimums, all on one invoice.",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "Most sub-accounts don’t ship enough to qualify for discounts on their own. With Wallet Carriers, they get lower rates at any volume.",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "Switch carriers when you need to:",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "Mix national and regional carriers, and move volume when prices spike or service slips.",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "Since we‘re not hand-holding each integration, or stopping our development to deal with carrier changes, we’ve been able to work on our interface and scaling infrastructure.",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "Provide prenegotiated rates to all your users with popular carriers like USPS, UPS, FedEx, DHL, and more.",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "Carrier Account Management API",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect with over 100 large and small carriers with EasyPost's simple integration.",
+    "url": "https://www.easypost.com/use-cases/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve delivery performance with real-time analytics and carrier tracking data.",
+    "url": "https://www.easypost.com/use-cases/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Get extra savings when you choose to ship with our reputable default carriers.",
+    "url": "https://www.easypost.com/use-cases/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "hundreds of carrier integrations, and built to scale.",
+    "url": "https://www.easypost.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Your Own Carrier Accounts",
+    "url": "https://www.easypost.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Basic multi-carrier package tracking.",
+    "url": "https://www.easypost.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "If you’re chasing growth but stuck with rising costs, limited visibility, or a messy carrier setup—we can help. Our experts will show you how to cut label spend, speed up delivery, and simplify your entire shipping workflow.",
+    "url": "https://www.easypost.com/talk-to-easypost/",
+    "pass": 1
+   },
+   {
+    "quote": "Access 100+ carriers",
+    "url": "https://www.easypost.com/talk-to-easypost/",
+    "pass": 1
+   },
+   {
+    "quote": "Get real-time tracking, delay alerts, and carrier performance insights",
+    "url": "https://www.easypost.com/talk-to-easypost/",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-carrier shipping and discounted USPS rates",
+    "url": "https://www.easypost.com/case-studies/460000-recovered-in-days-with-easypost-guard/",
+    "pass": 1
+   },
+   {
+    "quote": "No new carriers. No renegotiated contracts.",
+    "url": "https://www.easypost.com/case-studies/recommerce-marketplace-saves-millions-with-luma-ai-select/",
+    "pass": 1
+   },
+   {
+    "quote": "Most operations have already done the diversification work. Multiple carriers, negotiated contracts, a general sense of which lanes perform well. What they haven’t built is the layer that makes those choices actually pay off on each shipment.",
+    "url": "https://www.easypost.com/case-studies/recommerce-marketplace-saves-millions-with-luma-ai-select/",
+    "pass": 1
+   },
+   {
+    "quote": "Static routing rules get set during implementation and revisited maybe once a quarter. They don’t account for what a specific carrier is doing on a specific lane right now. At 25,000 labels a day, that gap compounds fast.",
+    "url": "https://www.easypost.com/case-studies/recommerce-marketplace-saves-millions-with-luma-ai-select/",
+    "pass": 1
+   },
+   {
+    "quote": "Luma AI Select evaluates each shipment at the moment of label creation. It factors in destination zone, package profile, cost, and carrier performance history across 1B+ comparable shipments, then selects the best available option from the carriers you already have.",
+    "url": "https://www.easypost.com/case-studies/recommerce-marketplace-saves-millions-with-luma-ai-select/",
+    "pass": 1
+   },
+   {
+    "quote": "No new carrier relationships. No contract changes. No disruption to fulfillment operations.",
+    "url": "https://www.easypost.com/case-studies/recommerce-marketplace-saves-millions-with-luma-ai-select/",
+    "pass": 1
+   },
+   {
+    "quote": "Luma AI Select is the decision layer most carrier setups are missing. It doesn’t change your carrier mix—it changes how each shipment gets assigned within it, in real time, at the moment of label creation.",
+    "url": "https://www.easypost.com/case-studies/recommerce-marketplace-saves-millions-with-luma-ai-select/",
+    "pass": 1
+   },
+   {
+    "quote": "4-5% Lower Per-Label Costs. Same Carriers. Same Contracts.",
+    "url": "https://www.easypost.com/case-studies/recommerce-marketplace-saves-millions-with-luma-ai-select/",
+    "pass": 1
+   },
+   {
+    "quote": "Luma AI Select found where their current setup was losing money and corrected it shipment by shipment. No new carrier relationships, no renegotiated contracts required.",
+    "url": "https://www.easypost.com/case-studies/recommerce-marketplace-saves-millions-with-luma-ai-select/",
+    "pass": 1
+   },
+   {
+    "quote": "On-time delivery improved from 80-83%—roughly 273,000 fewer late deliveries every year. That improvement didn’t come from upgrading service levels. It came from routing each shipment to the carrier most likely to actually deliver it on time.",
+    "url": "https://www.easypost.com/case-studies/recommerce-marketplace-saves-millions-with-luma-ai-select/",
+    "pass": 1
+   },
+   {
+    "quote": "For this re-commerce platform, they didn’t save $2M by adding carriers. They saved it by making better decisions with the carriers they already had. The operations team at this re-commerce marketplace said, “Carrier diversification is a prerequisite. Knowing which carrier to use for each shipment, based on current conditions and performance data, is the actual solution.”",
+    "url": "https://www.easypost.com/case-studies/recommerce-marketplace-saves-millions-with-luma-ai-select/",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-carrier shipping and discounted USPS rates",
+    "url": "https://www.easypost.com/case-studies/recommerce-marketplace-saves-millions-with-luma-ai-select/",
+    "pass": 1
+   },
+   {
+    "quote": "One Integration, Every Carrier",
+    "url": "https://www.easypost.com/case-studies/packiyo/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "AIMS360 is a cloud-based, fully integrated order and production management & processing software for fashion manufacturers, wholesalers, importers, and distributors.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover the unified commerce solutions used by hundreds of brands to elevate the customer experience and optimize operational processes.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Buku Ship is a carrier-agnostic shipping infrastructure layer for 3PLs, warehouses, fulfillment providers, and high-volume merchants. Enterprise parcel rates, automated 3PL billing, and one dashboard for cost and margin visibility, connected to the WMS and storefront tools operators already run. No migration, no re-platforming.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Deposco’s Bright Suite of omnichannel fulfillment supply chain applications enables fast-growing companies to rapidly scale their warehouse management and order management operations. Bright Suite helps Deposco customers see what inventory they’ve got, where it is, and where to position it to fulfill demand when It’s Grow Time™.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Karrio is a multi-carrier platform that makes shipping easy for enterprises, by providing privacy, compliance, data privacy, and governance. We empower developers with a headless API and operators with an integrated UI Dashboard and an app marketplace to extend functionality.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Piping Rock is a global vitamin and supplement manufacturer with an unwavering commitment to creating quality wellness products. Whether vitamins, supplements, herbs, or holistic oils, Piping Rock stays current with customers’ evolving needs and consistently meet demands with new products that are non-GMO, allergen-free, and organic.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by over 15,000 customers, XPSship is a multicarrier shipping solution, geared towards ecommerce merchants. XPSship helps thousands of ecommerce merchants, and other companies that ship parcels, fulfill their orders in a cost-efficient, streamlined manner.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "3PLs and 4PLs refer to fulfillment companies, couriers, or freight forwarders that act as a liaison between shippers and manufacturers. 3PLs oversee their own services, while 4PLs oversee the entire supply chain.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "FreightPop simplifies and streamlines the logistics experience for manufacturers, distributors, ecommerce, and 3PLs by reducing friction and connecting systems for a seamless and optimal supply chain.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Descartes Sellercloud is a customizable omnichannel solution that unifies inventory, warehouse management, and shipping. With 350+ integrations, we sync your business across marketplaces like Walmart and carts like Shopify, streamlining every step from listing to delivery.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Designed by warehouse operators, engineered by nerds, and supported by knowledgeable humans. All committed to fast and efficient DTC fulfillment for 3PLs and Brands.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "ADS Solutions® is a leader in providing powerful, intuitive and easy-to use ERP software to wholesale distributors, light manufacturers, and services companies. ADS Solutions’ Accolent ERP® software runs completely in the AWS public cloud.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Blue Yonder is the world leader in digital supply chain transformations and omni-channel commerce fulfillment. Our end-to-end, cognitive business platform enables retailers, manufacturers and logistics providers to best fulfill customer demand from planning through delivery.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Peoplevox is a cloud-based warehouse management system that helps ecommerce brands and 3PLs improve inventory accuracy, streamline fulfillment, and scale operations with real-time visibility.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Expandly is an ecommerce SaaS platform that makes selling online easier. Connect your sales channel(s), shipping carriers, warehouse, and accounting software into one initiative and simple-to-manage dashboard.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Foxfire Software offers a fully customizable WMS that customers use to organize their warehouse exactly as they need. We pride ourselves on being flexible and willing to work with our customer’s needs.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Insight Works is a leader in operational productivity improvement through the efficient implementation of add-ons for Microsoft Dynamics NAV ERP business systems. Insight Works has focused its efforts on helping manufacturing, warehousing, and distribution companies get the most out of Microsoft Dynamics NAV and Dynamics 365 Business Central.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Listing Mirror is an ecommerce business, offering robust software solutions for multi-channel online sellers. Their innovative set of tools includes listing creation, data storage, order consolidation, inventory syncing, and warehouse management.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Logiwa is the cloud fulfillment software that empowers high-volume direct-to-consumer businesses to scale and impresses customers with their delivery experience. Logiwa’s solution connects quickly with new online stores and marketplaces, makes it easy to run a digital warehouse, and is easily updated to support dynamic warehouse environments.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Order Fulfillment Guru automatically splits, routes, and streamlines your order workflow. They support marketplaces, made-to-order purchase orders, split orders, dropshipping, and 3PL warehouses.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Shipedge fulfillment and distribution software comes equipped with warehouse management, order management, shipping software, and more. You focus on the marketing, we’ll take care of the logistics.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "ShipSwim is a warehouse inventory management platform designed to help your business eliminate pack errors, make accurate decisions, streamline inventory, lower training requirements, eliminate expensive overhead, and reduce warehouse workforce.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "SkuNexus is an all-in-one, inventory, order, shipping, and warehouse management system that streamlines commerce operations from start to finish. Our system is designed to give you three things: control, efficiency, and scalability.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "SnapFulfil is a cloud-based, Tier 1 warehouse management system. Once up and running SnapFulfil is highly configurable and can adapt to meet evolving fulfillment demands.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Warehance streamlines inventory and fulfillment across multiple warehouses and sales channels, reduces manual work with automation tools, and provides real-time reporting and analytics to help businesses make smarter, faster decisions.",
+    "url": "https://www.easypost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by industry leaders",
+    "url": "https://www.easypost.com/use-cases/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by top brands to move over",
+    "url": "https://www.easypost.com/talk-to-easypost/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain, warehouse, and omnichannel consulting",
+    "url": "https://www.easypost.com/case-studies/460000-recovered-in-days-with-easypost-guard/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain, warehouse, and omnichannel consulting",
+    "url": "https://www.easypost.com/case-studies/recommerce-marketplace-saves-millions-with-luma-ai-select/",
+    "pass": 1
+   },
+   {
+    "quote": "Packiyo is a cloud-based warehouse management system built for growing 3PLs and ecommerce brands doing their own self-fulfillment. Their customers move fast, serve multiple clients, and operate across warehouses and regions. And the further they scale, the harder shipping gets to ignore.",
+    "url": "https://www.easypost.com/case-studies/packiyo/",
+    "pass": 1
+   },
+   {
+    "quote": "When Packiyo built shipping capabilities into their platform, a single-carrier approach was never on the table. Their customers operate across multiple warehouses, serve multiple clients, and need the flexibility to ship anywhere. What they needed was a multi-carrier strategy and the infrastructure to support it.",
+    "url": "https://www.easypost.com/case-studies/packiyo/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain, warehouse, and omnichannel consulting",
+    "url": "https://www.easypost.com/case-studies/packiyo/",
+    "pass": 1
+   },
+   {
+    "quote": "For Kase, a modern 3PL within the WSI family of brands, every delivery reflects the brands they serve. Specializing in ecommerce fulfillment for fast-growing companies, Kase helps its customers provide a seamless, premium experience from checkout to doorstep. But even the most efficient warehouse network can only move as fast as the package delivery service it relies on.",
+    "url": "https://www.easypost.com/case-studies/kase/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain, warehouse, and omnichannel consulting",
+    "url": "https://www.easypost.com/case-studies/kase/",
+    "pass": 1
+   },
+   {
+    "quote": ", a powerful warehouse management system (WMS), was directly integrating with carrier software individually on behalf of its vast array of customers. With only a few individual carrier APIs at their disposal, Foxfire’s solution didn’t allow their customers to rate shop or expand into additional carrier options.",
+    "url": "https://www.easypost.com/case-studies/radio-flyer/",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to shipping to customers directly, customers can purchase Radio Flyer products directly through U.S. retailers such as Target or Walmart. Radio Flyer also began utilizing dropshipping, a retail fulfillment model consisting of the customer purchasing an item from a third party such as a wholesaler or manufacturer instead of from a store that keeps its products in stock.",
+    "url": "https://www.easypost.com/case-studies/radio-flyer/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain, warehouse, and omnichannel consulting",
+    "url": "https://www.easypost.com/case-studies/radio-flyer/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain, warehouse, and omnichannel consulting",
+    "url": "https://www.easypost.com/case-studies/zenni-optical/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate shipping labels for every box going out of their warehouse, saving 200+ hours annually.",
+    "url": "https://www.easypost.com/case-studies/winestyr/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain, warehouse, and omnichannel consulting",
+    "url": "https://www.easypost.com/case-studies/winestyr/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain, warehouse, and omnichannel consulting",
+    "url": "https://www.easypost.com/case-studies/yamibuy/",
+    "pass": 1
+   },
+   {
+    "quote": "ADS Solutions® is a leader in providing powerful, intuitive and easy-to use ERP software to wholesale distributors, light manufacturers, and services companies. ADS Solutions’ Accolent ERP® software runs completely in the AWS public cloud.",
+    "url": "https://www.easypost.com/partners/ads-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing · United States",
+    "url": "https://www.erpresearch.com/erp-add-ons/tms/easypost/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: QALO (silicone rings for active people) cuts exchange processing from 7–14 days to 2–5 days with EasyPost's Shipping Label API | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/easypost/case-study/qalo-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: QALO (silicone rings for active people) cuts exchange processing from 7–14 days to 2–5 days with EasyPost's Shipping Label API",
+    "url": "https://www.casestudies.com/company/easypost/case-study/qalo-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "QALO - Customer Case Study",
+    "url": "https://www.casestudies.com/company/easypost/case-study/qalo-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/easypost/case-study/qalo-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/easypost/case-study/qalo-customer-case-study",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Remember that our company does not endorse any job postings outside our official channels. If you encounter a suspicious offer, report it through the job platform on which you found it or report email as spam.",
+    "url": "https://www.easypost.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "If you need to check on the validity of an email from EasyPost, feel free to reach out directly to",
+    "url": "https://www.easypost.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/56099-98",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Easypost | FedEx 日本 — EasyPostの顧客は公共企業から中小企業まで、さまざまな規模にわたっています。 EasyPostは複雑な物流の問題を解決するShipping APIをオンライン業者に供給し、お客様へ快適なオンラインショッピング体験を提供しています。",
+    "url": "https://www.fedex.com/ja-jp/shipping/industry-solutions/ecommerce/compatible/easypost.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Simple Shipping API - EasyPost — EasyPost's best-in-class Shipping APIs provide end-to-end flexibility and more control over parcel shipping and logistics processes.",
+    "url": "https://www.easypost.com/",
+    "pass": 3
+   },
+   {
+    "quote": "EasyPost | FedEx Japan — EasyPost customers range in size from public companies to small- and medium-size businesses. EasyPost offers a Shipping API that solves complex logistics problems for online merchants, enabling the delivery of an online shopping experience that delights customers.",
+    "url": "https://www.fedex.com/en-jp/shipping/industry-solutions/ecommerce/compatible/easypost.html",
+    "pass": 3
+   },
+   {
+    "quote": "EasyPost Partners With FedEx in the Asia-Pacific Region — Oct 8, 2021 · While EasyPost and FedEx have had a longstanding partnership, this is a new area for us in every sense of the word. EasyPost customers can now use EasyPost to ship via FedEx in 30 countries and territories throughout the Asia Pacific region, ultimately gaining access to discounts and reliable shipping services.",
+    "url": "https://www.easypost.com/blog/2021-10-08-easypost-partners-with-fedex-in-the-asia-pacific-region/",
+    "pass": 3
+   },
+   {
+    "quote": "Carriers - EasyPost — Managing shipping directly with carriers is full of complexity—integrations, contracts, invoice juggling, and endless rate negotiations. For many shippers, going direct means getting stuck with near-retail pricing and constant maintenance. EasyPost Wallet Carriers simplifies the entire process. Get instant access to trusted carriers, discounted rates, and one centralized bill",
+    "url": "https://www.easypost.com/carriers/",
+    "pass": 3
+   },
+   {
+    "quote": "Easypost | FedEx 日本 — 2012年に創立したEasyPostは数千もの顧客を抱え、毎月大量のパッケージを配送しています。EasyPostの顧客は公共企業から中小企業まで、さまざまな規模にわたっています。EasyPostは複雑な物流の問題を解決するShipping APIをオンライン業者に供給し、お客様へ快適なオンラインショッピング体験を ...",
+    "url": "https://www.fedex.com/ja-jp/shipping/industry-solutions/ecommerce/compatible/easypost.html",
+    "pass": 3
+   },
+   {
+    "quote": "About EasyPost - EasyPost — EasyPost offers an all-in-one shipping platform that simplifies the entire shipping lifecycle from pre-shipping, to shipping, and post-shipping.",
+    "url": "https://www.easypost.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Address | API Docs - EasyPost — Address objects represent people, places, and organizations and are used in multiple contexts across the EasyPost API. For example, a Shipment requires both a to_address and from_address to calculate rates and generate postage. Address objects support both domestic and international addresses, identified using ISO 3166 country codes. EasyPost also provides address v",
+    "url": "https://docs.easypost.com/docs/addresses",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - EasyPost — Case studies Stories that deliver Explore how businesses like yours are solving complex shipping problems and driving growth with smart logistics solutions.",
+    "url": "https://www.easypost.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "EasyPost Case Studies: 19 Customer Stories (2026) — 19 real EasyPost customer stories, with Retail the most common industry. Filter by industry and ERP to find companies like yours.",
+    "url": "https://www.erpresearch.com/erp-add-ons/tms/easypost/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: QALO (silicone rings for active people) cuts ... — EasyPost’s solution cut exchange turnaround from 7–14 days down to 2–5 days, eliminated manual handling, and made returns automated, scalable and faster—improving customer experience and retention. Open case study document...",
+    "url": "https://www.casestudies.com/company/easypost/case-study/qalo-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Powering Crowdfunded Commerce at Scale With EasyPost — Before EasyPost, Teespring struggled to automate their shipping processes in the same way they’d automated the t-shirt design and creation process. They found existing carrier APIs unwieldly for what they needed to do, and had an engineer working full time just to purchase shipping labels more easily. As their volume grew, shipping continued t",
+    "url": "https://www.easypost.com/case-studies/teespring-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "EasyPost B2B Case Studies & Customer Successes — See how EasyPost solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/easypost",
+    "pass": 3
+   },
+   {
+    "quote": "White Label - EasyPost — Forge empowers B2B platforms to embed end-to-end shipping capabilities directly into their products. With EasyPost’s proven infrastructure, you can offer branded, full-service shipping experiences without the heavy engineering lift.",
+    "url": "https://www.easypost.com/use-cases/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Forge White-Label Shipping - EasyPost — Enter the market in minutes with Forge, EasyPost’s answer for businesses that need a reliable, profitable, and scalable white-label shipping solution with one centralized platform.",
+    "url": "https://www.easypost.com/products/forge/",
+    "pass": 3
+   },
+   {
+    "quote": "Forge Overview - EasyPost — Forge is EasyPost's white-label shipping solution for platforms, marketplaces, and other B2B businesses. Forge enables platforms to embed shipping capabilities directly into their products while leveraging EasyPost's multi-carrier infrastructure. With fast onboarding, access to EasyPost's 100+ carrier network, and competitive rates, Forge allows platforms to build fully",
+    "url": "https://docs.easypost.com/guides/forge-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Introduction to Forge – EasyPost Support — Overview Forge is EasyPost’s white-label shipping solution for platforms, marketplaces, and other B2B businesses. Forge enables platforms to embed shipping capabilities directly into their products...",
+    "url": "https://support.easypost.com/hc/en-us/articles/34176670288013-Introduction-to-Forge",
+    "pass": 3
+   },
+   {
+    "quote": "EasyPost - 2026 Company Profile, Team, Funding & Competitors ...EasyPost: Funding, Team & Investors | Startup IntrosEasyPost 2026 Company Profile: Valuation, Funding & Investors ...EasyPost – Industry Ranking & Company Valuation – 2026EasyPost Revenue, Funding & Valuation - prospeo.ioEasyPost: Employees, Headcount Growth, Org Chart, Layoffs ...EasyPost Revenue 2021: $19.6M, $12.5M Raised - LATKA —",
+    "url": "https://tracxn.com/d/companies/easypost/__qsMzLGox8QWWb8sQbGuKhtSSUR7If6go-ffRIvP1Ero",
+    "pass": 3
+   },
+   {
+    "quote": "EasyPost: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Backed by prominent early investors such as Y Combinator and Ryan Petersen, the company reached a $1.5 billion valuation following a funding round in January 2026. Operating with a workforce of over 390 employees, EasyPost was founded in 2012 by Jarrett Streebin and Jon Calhoun.",
+    "url": "https://startupintros.com/orgs/easypost",
+    "pass": 3
+   },
+   {
+    "quote": "EasyPost 2026 Company Profile: Valuation, Funding & Investors ...EasyPost – Industry Ranking & Company Valuation – 2026EasyPost Revenue, Funding & Valuation - prospeo.ioEasyPost: Employees, Headcount Growth, Org Chart, Layoffs ...EasyPost Revenue 2021: $19.6M, $12.5M Raised - LATKA — Information on valuation, funding, cap tables, investors, and executives for EasyPost. Use the PitchBook Platform t",
+    "url": "https://pitchbook.com/profiles/company/56099-98",
+    "pass": 3
+   },
+   {
+    "quote": "EasyPost – Industry Ranking & Company Valuation – 2026 — EasyPost Revenue & Valuation EasyPost reportedly generates an annual revenue of $136.3M. The estimated revenue per employee at EasyPost is $387.4K. To date, EasyPost has raised $12.5M in funding.",
+    "url": "https://compworth.com/company/easypost",
+    "pass": 3
+   },
+   {
+    "quote": "EasyPost Revenue, Funding & Valuation - prospeo.io — EasyPost has revenue of $125,000,000, estimated valuation of $400,000,000, $25,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/easypost-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[Stage 20] Tour de France 2026 Race Report｜Aika_0156 Jul 25, 2026 · After passing the intermediate sprint, the race shifted into a serious mountain battle between the general classification leaders and the climbers. With 18km remaining, the leading breakaway group was narrowed down to three riders: Richard Carapaz (EF Education-EasyPost), Sepp Kuss (Visma-Lease a Bike), and Jai Hindley (Red Bull-B",
+    "url": "https://note.com/aika_0156/n/n9fff13906d33?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【X自動投稿】GAS×スプレッドシートで管理できる「EasyPostSheet」の... スプレッドシートでX用の予約投稿を管理できるものです。 日時、投稿内容、画像or動画のURL（Google Drive）を指定すれば、それをXにポストできます。 メディアは画像が最大4枚、動画は1つで最大10MB、1080×1920まで。 大きいと失敗する可能性があるため小さめ ...",
+    "url": "https://note.com/aiaicreate/n/na68dd471787a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "[Stage 20] Tour de France 2026 Race Report｜Aika_0156",
+    "url": "https://note.com/aika_0156/n/n9fff13906d33?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Stage 20] Tour de France 2026 Race Report",
+    "url": "https://note.com/aika_0156/n/n9fff13906d33?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Stage 20] Le Bourg-d'Oisans to Alpe d'Huez",
+    "url": "https://note.com/aika_0156/n/n9fff13906d33?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Course Specs & Conditions",
+    "url": "https://note.com/aika_0156/n/n9fff13906d33?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Elevation Gain: 5,450m",
+    "url": "https://note.com/aika_0156/n/n9fff13906d33?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Course Characteristics: Mountainous",
+    "url": "https://note.com/aika_0156/n/n9fff13906d33?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Conditions/Weather: Maximum temperature 32°C",
+    "url": "https://note.com/aika_0156/n/n9fff13906d33?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Race Development: Pedersen's tenacity on the descent and the intermediate sprint victory",
+    "url": "https://note.com/aika_0156/n/n9fff13906d33?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【X自動投稿】GAS×スプレッドシートで管理できる「EasyPostSheet」の紹介！ポスト用ツールも配布｜aiaicreate",
+    "url": "https://note.com/aiaicreate/n/na68dd471787a",
+    "pass": 3
+   },
+   {
+    "quote": "【X自動投稿】GAS×スプレッドシートで管理できる「EasyPostSheet」の紹介！ポスト用ツールも配布",
+    "url": "https://note.com/aiaicreate/n/na68dd471787a",
+    "pass": 3
+   },
+   {
+    "quote": "X APIがPay-Per-Use(従量課金)モデルになったため、無料では使えなくなってしまいました。",
+    "url": "https://note.com/aiaicreate/n/na68dd471787a",
+    "pass": 3
+   },
+   {
+    "quote": "一部のアカウントは旧管理画面のまま無料で使えているみたいですが、今後は完全に切り替わると思われます。",
+    "url": "https://note.com/aiaicreate/n/na68dd471787a",
+    "pass": 3
+   },
+   {
+    "quote": "なのでシートの機能は使えますが、X APIに課金が必要です。",
+    "url": "https://note.com/aiaicreate/n/na68dd471787a",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月29日：autoposter_suiteのCSV作成とプロンプト作成タブを修正しました。自動で入力内容を保存するようにしました。",
+    "url": "https://note.com/aiaicreate/n/na68dd471787a",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月7日：autoposter_suiteに",
+    "url": "https://note.com/aiaicreate/n/na68dd471787a",
+    "pass": 3
+   },
+   {
+    "quote": "と同じcsv・プロンプト作成機能を追加しました。",
+    "url": "https://note.com/aiaicreate/n/na68dd471787a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "easypost (@easypost) / X easypost @easypost Dec 24, 2023 Don't be sad Santa... you're able to take the day off before one of the busiest days of your year and it's because of @easypost shipping. 🎅🎄👍 Sickos Committee @SickosCommittee Dec 24, 2023",
+    "url": "https://x.com/easypost",
+    "pass": 3
+   },
+   {
+    "quote": "16% of EasyPost going up for auction on April 22 according to ... Cathy Roberson (@cmroberson06). 4 likes 458 views. 16% of EasyPost going up for auction on April 22 according to a LI post from Ben Emmrich of Tusk Logistics. EasyPost is part of Auctane which was acquired by Thoma Romo and now in process of combining it with WWEX.",
+    "url": "https://x.com/cmroberson06/status/2038672699803730359",
+    "pass": 3
+   },
+   {
+    "quote": "UCC Foreclosure Auction 16% equity interest in EasyPost (pre ... AuctionAdvisors (@AuctionAdvisors). 55 views. UCC Foreclosure Auction 16% equity interest in EasyPost (pre-IPO) — a high-growth technology company. 🗓 Auction ...",
+    "url": "https://x.com/AuctionAdvisors/status/2031141499518542204",
+    "pass": 3
+   },
+   {
+    "quote": "Dnlbenson on X: \"EF Education EasyPost has picked up another ... EF Education EasyPost has picked up another promising youngster, Nicolas Milesi, from Netcompany Ineos' development team.",
+    "url": "https://x.com/dnlbenson/status/2113300883157266587",
+    "pass": 3
+   },
+   {
+    "quote": "easypost (@easypost) / X 2 3 295 easypost @easypost Dec 24, 2023 @CoastalFootball strikes first with a short pass by Ethan Vasko to Matt Alaimo. 7-0, 3 min left in 1Q",
+    "url": "https://x.com/easypost",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "EasyPost - LinkedIn EasyPost is a Shipping API that solves complex logistics problems for eCommerce businesses, enabling them to deliver an online shopping experience that delights customers. Some of the biggest ...",
+    "url": "https://www.linkedin.com/company/easypost",
+    "pass": 3
+   },
+   {
+    "quote": "Jarrett Streebin - EasyPost | LinkedInSuneel Gupta - Project Development Manager at EasyPost | LinkedInJoshua L. - EasyPost | LinkedInT.J. Gallagher - EasyPost | LinkedInSenior Corporate Counsel at EasyPost — United States ...Alex Wiesenthal - Chief of Staff at EasyPost | LinkedIn Experience: EasyPost · Education: University of California, Berkeley · Location: Austin · 500+ connections on LinkedIn",
+    "url": "https://www.linkedin.com/in/jstreebin",
+    "pass": 3
+   },
+   {
+    "quote": "Suneel Gupta - Project Development Manager at EasyPost | LinkedIn Project Development Manager at EasyPost · 19+ Years of Professional Experience in the Software Industry as a Technology Consultant/Senior Software Architect/Senior Software Developer in the Area of System Analysis, Design & Development using industry Best Practices and Patterns. I have successfully delivered numerous projects, conti",
+    "url": "https://in.linkedin.com/in/suneel-gupta-a84481382",
+    "pass": 3
+   },
+   {
+    "quote": "Joshua L. - EasyPost | LinkedInT.J. Gallagher - EasyPost | LinkedInSenior Corporate Counsel at EasyPost — United States ...Alex Wiesenthal - Chief of Staff at EasyPost | LinkedIn I lead technology organizations through structural simplification, platform redesign, and… · Experience: EasyPost · Location: Oakland · 500+ connections on LinkedIn. View Joshua L.’s ... Experience: EasyPost · Education: ",
+    "url": "https://www.linkedin.com/in/lanejoshlane",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "EasyPost | Lehi UT - FacebookEasyPost Belgium | Ghent - FacebookEasyPost - Packing slips help businesses assemble orders ...Say hello to the power of new user roles in the EasyPost ...EasyPost France - FacebookEasyPost - Fight Night tonight! Catch the match and our ...EasyPost - Exciting news for parcel shippers: GOFO is now ... Oct 2, 2026 · EasyPost, Lehi. 614 followers · 1 was here. A flexible ",
+    "url": "https://www.facebook.com/easypostco/",
+    "pass": 3
+   },
+   {
+    "quote": "EasyPost Belgium | Ghent - FacebookEasyPost - Packing slips help businesses assemble orders ...Say hello to the power of new user roles in the EasyPost ...EasyPost France - FacebookEasyPost - Fight Night tonight! Catch the match and our ...EasyPost - Exciting news for parcel shippers: GOFO is now ... Oct 13, 2026 · EasyPost Belgium, Ghent. 11,804 followers · 5 talking about this · 9 were here. The",
+    "url": "https://www.facebook.com/easypostbe/",
+    "pass": 3
+   },
+   {
+    "quote": "EasyPost - Packing slips help businesses assemble orders ... Jan 3, 2025 · Packing slips help businesses assemble orders accurately and give customers an easy way to verify whether their shipment is complete. Learn how to seamlessly optimize warehouse efficiencies AND keep...",
+    "url": "https://www.facebook.com/easypostco/posts/packing-slips-help-businesses-assemble-orders-accurately-and-give-customers-an-e/997801352394699/",
+    "pass": 3
+   },
+   {
+    "quote": "Say hello to the power of new user roles in the EasyPost ... Sep 27, 2023 · In this week’s EasyPost Insider episode of Unboxing Logistics, Lori Boyer sits down with Tyler Diestel, senior product manager at EasyPost, to discuss what Luma AI Advisor means for modern shipping operations.",
+    "url": "https://www.facebook.com/easypostco/posts/say-hello-to-the-power-of-new-user-roles-in-the-easypost-dashboard-were-thrilled/702935641881273/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.easypost.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.easypost.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.easypost.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.easypost.com/products/forge/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.easypost.com/use-cases/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.easypost.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.easypost.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.easypost.com/talk-to-easypost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.easypost.com/case-studies/460000-recovered-in-days-with-easypost-guard/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.easypost.com/case-studies/recommerce-marketplace-saves-millions-with-luma-ai-select/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.easypost.com/case-studies/packiyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.easypost.com/case-studies/kase/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.easypost.com/case-studies/radio-flyer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.easypost.com/case-studies/zenni-optical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.easypost.com/case-studies/winestyr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.easypost.com/case-studies/yamibuy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.easypost.com/partners/gori-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.easypost.com/partners/ads-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.easypost.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.easypost.com/careers/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.easypost.com/wp-content/uploads/2026/03/partners-hero.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.easypost.com/wp-content/uploads/2026/04/new-footer-logos-1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.easypost.com/wp-content/uploads/2026/08/Wallet-Carriers-Logos-Animated_v01.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.fedex.com/ja-jp/shipping/industry-solutions/ecommerce/compatible/easypost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fedex.com/en-jp/shipping/industry-solutions/ecommerce/compatible/easypost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fedex.com/ja-jp/shipping/industry-solutions/ecommerce/compatible/easypost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fedex.com/en-jp/shipping/industry-solutions/ecommerce/compatible/easypost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.erpresearch.com/erp-add-ons/tms/easypost/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/easypost/case-study/qalo-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://docs.easypost.com/guides/forge-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/easypost/__qsMzLGox8QWWb8sQbGuKhtSSUR7If6go-ffRIvP1Ero",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/easypost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/56099-98",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/easypost",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/aika_0156/n/n9fff13906d33?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/easypost",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cmroberson06/status/2038672699803730359",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AuctionAdvisors/status/2031141499518542204",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/dnlbenson/status/2113300883157266587",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/easypost",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jstreebin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/suneel-gupta-a84481382",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/lanejoshlane",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/easypostco/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/easypostbe/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/easypostco/posts/packing-slips-help-businesses-assemble-orders-accurately-and-give-customers-an-e/997801352394699/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/easypostco/posts/say-hello-to-the-power-of-new-user-roles-in-the-easypost-dashboard-were-thrilled/702935641881273/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/easypost",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/aiaicreate/n/na68dd471787a",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "EasyPost 日本 導入",
+   "results": [
+    "https://www.fedex.com/ja-jp/shipping/industry-solutions/ecommerce/compatible/easypost.html",
+    "https://www.easypost.com/",
+    "https://www.fedex.com/en-jp/shipping/industry-solutions/ecommerce/compatible/easypost.html",
+    "https://www.easypost.com/blog/2021-10-08-easypost-partners-with-fedex-in-the-asia-pacific-region/",
+    "https://www.easypost.com/carriers/",
+    "https://docs.easypost.com/docs/shipments",
+    "https://s-carlett.com/easypost-review-disadvantage/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "EasyPost 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://www.easypost.com/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "EasyPost Japan",
+   "results": [
+    "https://www.easypost.com/",
+    "https://www.fedex.com/ja-jp/shipping/industry-solutions/ecommerce/compatible/easypost.html",
+    "https://www.fedex.com/en-jp/shipping/industry-solutions/ecommerce/compatible/easypost.html",
+    "https://www.easypost.com/about/",
+    "https://docs.easypost.com/docs/addresses",
+    "https://support.easypost.com/hc/en-us/sections/4422928536589-International-Shipping",
+    "https://easypost.kr/korea-to-japan-shipping-guide/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "EasyPost manufacturing customer case study",
+   "results": [
+    "https://www.easypost.com/case-studies/",
+    "https://www.erpresearch.com/erp-add-ons/tms/easypost/case-studies",
+    "https://www.casestudies.com/company/easypost/case-study/qalo-customer-case-study",
+    "https://www.easypost.com/case-studies/teespring-case-study/",
+    "https://www.casestudies.com/company/easypost",
+    "https://www.casestudydesk.com/case-study/winestyr-200-hours-saved",
+    "https://www.linkedin.com/posts/easypost_love-hearing-easypost-success-stories-check-activity-7462517430259724288-M91n"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "EasyPost white label OR reseller OR partner program",
+   "results": [
+    "https://www.easypost.com/use-cases/white-label/",
+    "https://www.easypost.com/products/forge/",
+    "https://partner.vw.com/",
+    "https://docs.easypost.com/guides/forge-overview",
+    "https://support.easypost.com/hc/en-us/articles/34176670288013-Introduction-to-Forge",
+    "https://docs.easypost.com/guides/how-forge-works",
+    "https://support.easypost.com/hc/en-us"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "EasyPost founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/easypost/__qsMzLGox8QWWb8sQbGuKhtSSUR7If6go-ffRIvP1Ero",
+    "https://startupintros.com/orgs/easypost",
+    "https://pitchbook.com/profiles/company/56099-98",
+    "https://compworth.com/company/easypost",
+    "https://prospeo.io/c/easypost-revenue",
+    "https://6figr.com/company/easypost",
+    "https://getlatka.com/companies/easypost"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com EasyPost",
+   "results": [
+    "https://note.com/aika_0156/n/n9fff13906d33?hl=en",
+    "https://note.com/hatsumuradesu/n/n6c669815ff19",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/fukuso_sutaro/n/nf365aa7a3733",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com EasyPost",
+   "results": [
+    "https://x.com/easypost",
+    "https://x.com/cmroberson06/status/2038672699803730359",
+    "https://x.com/AuctionAdvisors/status/2031141499518542204",
+    "https://x.com/dnlbenson/status/2113300883157266587",
+    "https://x.com/goatlabels/status/2079777333758865870",
+    "https://x.com/Japancup_ofc/status/2100114488741794185",
+    "https://x.com/Den95504207/status/2111609731731411134"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com EasyPost",
+   "results": [
+    "https://www.linkedin.com/company/easypost",
+    "https://www.linkedin.com/in/jstreebin",
+    "https://in.linkedin.com/in/suneel-gupta-a84481382",
+    "https://www.linkedin.com/in/lanejoshlane",
+    "https://www.linkedin.com/in/t-j-gallagher-1570a65",
+    "https://www.linkedin.com/jobs/view/senior-corporate-counsel-at-easypost-4477895774",
+    "https://www.linkedin.com/in/alexandrawiesenthal"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com EasyPost",
+   "results": [
+    "https://www.facebook.com/easypostco/",
+    "https://www.facebook.com/easypostbe/",
+    "https://www.facebook.com/easypostco/posts/packing-slips-help-businesses-assemble-orders-accurately-and-give-customers-an-e/997801352394699/",
+    "https://www.facebook.com/easypostco/posts/say-hello-to-the-power-of-new-user-roles-in-the-easypost-dashboard-were-thrilled/702935641881273/",
+    "https://www.facebook.com/easypostfrance/",
+    "https://www.facebook.com/easypostco/posts/983651423809692/",
+    "https://www.facebook.com/easypostco/posts/exciting-news-for-parcel-shippers-gofo-is-now-available-through-easypost-wallet-/1511954384312724/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "EasyPost note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://www.buffett-code.com/company/5243/governance",
+    "https://www.zaikai.jp/articles/detail/2552",
+    "https://www.linkedin.com/in/jstreebin",
+    "https://yokotablog.com/sadaaki-kato-profile/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "EasyPost X 投稿",
+   "results": [
+    "https://x.com/easypost",
+    "https://note.com/aiaicreate/n/na68dd471787a",
+    "https://www.myeasypost.com/",
+    "https://s-carlett.com/easy-post-review/",
+    "https://s-carlett.com/easypost-review-disadvantage/",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://www.youtube.com/watch?v=qErGwouqPf4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像3件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像3件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像3件／外部30頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像3件／外部30頁・検索12回）"
+ }
+}

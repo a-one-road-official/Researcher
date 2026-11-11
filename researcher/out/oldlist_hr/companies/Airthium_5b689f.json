@@ -1,0 +1,593 @@
+{
+ "name": "Airthium",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Energy / Thermal Management｜返信あり",
+ "researched_at": "2026-11-11T04:17:14.977872+00:00",
+ "official_url": "https://airthium.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "We're developing containerized heat pumps for industrial process heat at 100–250°C. Our hybrid system pairs efficient electric heat with your existing gas boiler, choosing the lowest-cost heat source as energy prices change.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From food and packaging to textiles and chemicals, factories rely on heat every day. Energy accounts for 10–40% of manufacturing costs, and dependence on fossil gas leaves businesses exposed to volatile prices.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Focused on 100–250°C Process Heat",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our target segment represents around 20% of industrial heat and more than $200 billion in annual energy spend. We focus on food and beverage, textiles, paper, and chemicals, where factories need dependable process heat and a workable route to electrification.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Target process temperature range",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "These historical 2024 wholesale electricity prices illustrate the opportunity. Actual operating costs also depend on your tariff, grid charges, heat source, and process temperature.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2024 EU Price Duration Curves",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Download the 2024 price duration data",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": ". Wholesale prices exclude site-specific charges.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Airthium's system is designed to sit in containers outside your factory and connect to your process heat network. It upgrades an ambient or waste heat source using electricity, while your existing gas boiler remains available to keep heat flowing when electricity is more expensive.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Raise that heat to the temperature your process requires.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep production running",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your gas boiler provides continuity when electric heat costs more.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our core technology compresses and expands a working gas to move heat. Airthium's innovation is fast, near-isothermal compression and expansion, designed to reduce energy losses. Two international patents protect the platform.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Variable output designed to follow process demand and grid signals",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The technology is designed for temperatures of 250°C and above. Our current prototype has reached 145°C. The next phase of testing will measure COP across operating conditions and validate flexibility and endurance.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our 1 kW Prototype",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our 1 kW prototype reached 145°C in short test runs. Core physics models are established. Efficiency has yet to be measured, and performance validation is the focus of our next demonstrator.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our planned commercial offer lets factories buy heat by the megawatt-hour without an upfront investment in heat pump equipment. Airthium and its financing partners provide the system, with the aim of supplying heat below the cost of gas from day one.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A price per MWh makes the offer directly comparable with the cost of your existing heat supply.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hybrid operation preserves a backup heat source and is designed to maintain production continuity.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "As deployments scale, flexible operation could also support grid services. Customer economics will be assessed for each site, including energy prices, available heat sources, process needs, and grid connection capacity.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From Prototype to Commercial Scale",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We have demonstrated 145°C heat with our 1 kW prototype. Our next step is a 10 kW demonstrator to measure efficiency, test variable loads and start/stop operation, and establish endurance before scaling to an industrial pilot.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The V3 prototype reached 145°C at 1 kW. Core physics models are established, with two international patents protecting the technology.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Airthium | Cheaper, Cleaner Industrial Heat",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cheaper, Cleaner Heat for Factories.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We're developing containerized heat pumps for industrial process heat at 100–250°C. Our hybrid system pairs efficient electric heat with your existing gas boiler, choosing the lowest-cost heat source as energy prices change.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Factories Are Paying Too Much for Heat",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From food and packaging to textiles and chemicals, factories rely on heat every day. Energy accounts for 10–40% of manufacturing costs, and dependence on fossil gas leaves businesses exposed to volatile prices.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Spent on industrial heat worldwide each year",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Of manufacturing costs spent on energy",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our target segment represents around 20% of industrial heat and more than $200 billion in annual energy spend. We focus on food and beverage, textiles, paper, and chemicals, where factories need dependable process heat and a workable route to electrification.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hybrid Heat, Built Around Your Factory",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Airthium's system is designed to sit in containers outside your factory and connect to your process heat network. It upgrades an ambient or waste heat source using electricity, while your existing gas boiler remains available to keep heat flowing when electricity is more expensive.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our planned commercial offer lets factories buy heat by the megawatt-hour without an upfront investment in heat pump equipment. Airthium and its financing partners provide the system, with the aim of supplying heat below the cost of gas from day one.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We have demonstrated 145°C heat with our 1 kW prototype. Our next step is a 10 kW demonstrator to measure efficiency, test variable loads and start/stop operation, and establish endurance before scaling to an industrial pilot.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "First 100 kW industrial pilot",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale up the demonstrator for a first pilot at a chemical plant.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our co-founders work alongside 13 engineers and PhDs, combining thermodynamics, mechanical engineering, and industrial experience with an in-house prototyping platform.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing partner",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "If your factory needs process heat at 100–250°C, let's assess where hybrid electrification could fit. Talk to us about your heat demand, available heat sources, and energy costs to explore a future pilot or Heat-as-a-Service project.",
+    "url": "https://airthium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy and industrial partner",
+    "url": "https://airthium.com/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "This project was funded by the French State as part of France 2030 operated by ADEME",
+    "url": "https://airthium.com/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Prefer email? Reach us at:",
+    "url": "https://airthium.com/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://airthium.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.cougarboard.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cougarboard.com/board/list.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cougarboard.com/board/overview",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cougarstadium.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.independent.co.uk/news/world/americas/us-politics/lauren-boebert-epstein-trump-situation-room-b2864681.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coloradosun.com/2025/11/12/lauren-boebert-white-house-situation-room-meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.denvergazette.com/2025/11/12/boebert-meets-with-trump-officials-on-epstein-files/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.news.yahoo.com/trump-reportedly-called-lauren-boebert-001800055.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://puc.hawaii.gov/news-release/notice-of-public-hearing-hawaii-gas-rate-case-docket-no-2024-0158/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hawaiigas.com/posts/hawai-i-gas-files-utility-rate-case-application-with-the-puc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hawaiigas.com/rates",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cca.hawaii.gov/dca/release-public-input-sought-for-hawai%CA%BBi-gas-rate-increase/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.celebanswers.com/does-will-smith-speak-spanish/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.celebanswers.com/does-tom-brady-own-a-yacht/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://investor.nvidia.com/financial-info/annual-reports-and-proxies/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investor.nvidia.com/financial-info/financial-reports/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.premierleague.com/en/tables/premier-league",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.espn.com/soccer/standings/_/league/eng.1",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bbc.co.uk/sport/football/premier-league/table",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.premierleague.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Airthium 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Airthium 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.cougarboard.com/",
+    "https://www.cougarboard.com/board/list.html",
+    "https://www.cougarboard.com/board/overview",
+    "https://www.cougarstadium.com/",
+    "https://www.cougarboard.com/board/list.html?display=all&page=1",
+    "https://247sports.com/college/byu/Board/",
+    "https://forums.cougarfan.com/",
+    "https://www.cougarcorner.com/",
+    "https://247sports.com/college/byu/board/cougarsportsinsidercom-board-103748/",
+    "https://www.cougarcorner.com/forum/1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Airthium Japan",
+   "results": [
+    "https://www.independent.co.uk/news/world/americas/us-politics/lauren-boebert-epstein-trump-situation-room-b2864681.html",
+    "https://coloradosun.com/2025/11/12/lauren-boebert-white-house-situation-room-meeting/",
+    "https://denvergazette.com/2025/11/12/boebert-meets-with-trump-officials-on-epstein-files/",
+    "https://ca.news.yahoo.com/trump-reportedly-called-lauren-boebert-001800055.html",
+    "https://justiceforkennedy.substack.com/p/trump-summons-boebert-to-stop-a-vote",
+    "https://newswav.com/article/i-guess-i-m-pretty-high-profile-lauren-boebert-defends-trump-s-weird-decisi-A2511_j8qPdK",
+    "https://thehill.com/homenews/house/5602400-trump-boebert-mace-epstein-petition/",
+    "https://www.yahoo.com/news/articles/top-trump-officials-met-boebert-184114446.html?fr=sycsrp_catchall",
+    "https://www.indy100.com/politics/trump/trump-jeffrey-epstein-files-petition-lauren-boebert",
+    "https://www.durangoherald.com/articles/news/lauren-boebert-met-with-trump-administration-in-white-house-situation-room-about-epstein-files/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 30
+  },
+  {
+   "query": "Airthium manufacturing customer case study",
+   "results": [
+    "https://puc.hawaii.gov/news-release/notice-of-public-hearing-hawaii-gas-rate-case-docket-no-2024-0158/",
+    "https://www.hawaiigas.com/posts/hawai-i-gas-files-utility-rate-case-application-with-the-puc",
+    "https://www.hawaiigas.com/rates",
+    "https://www.cca.hawaii.gov/dca/release-public-input-sought-for-hawaiʻi-gas-rate-increase/",
+    "https://spectrumlocalnews.com/hi/hawaii/news/2024/10/14/hawaii-gas-proposes-rate-increase",
+    "https://governor.hawaii.gov/newsroom/dcca-news-release-public-input-sought-for-hawaiʻi-gas-rate-increase/",
+    "https://www.hawaiinewsnow.com/2024/10/14/public-asked-weigh-potential-hawaii-gas-rate-increase/",
+    "https://www.hawaiifreepress.com/Articles-Main/ID/49701/PUC-Hearings-Set-HECO-Pushing-53-Rate-Hike",
+    "https://cubwi.org/we-energies-rate-hike-for-2027-and-2028/",
+    "https://statelegals.staradvertiser.com/2024/09/13/0001467743-01/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Airthium white label OR reseller OR partner program",
+   "results": [
+    "https://www.celebanswers.com/does-will-smith-speak-spanish/",
+    "https://www.celebanswers.com/does-tom-brady-own-a-yacht/",
+    "https://investor.nvidia.com/financial-info/annual-reports-and-proxies/default.aspx",
+    "https://investor.nvidia.com/financial-info/financial-reports/default.aspx",
+    "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000029/nvda-20240128.htm",
+    "https://stocklight.com/stocks/us/nasdaq-nvda/nvidia/annual-reports/nasdaq-nvda-2024-10K-24660316.pdf",
+    "https://archive.org/download/01.-nvidia-annual-reports/NVIDIA+Corporation+(NVDA)+Combined+Annual+Report+&+Proxy+Statement+2024.pdf",
+    "https://s201.q4cdn.com/141608511/files/doc_financials/2024/q4/1cbe8fe7-e08a-46e3-8dcc-b429fc06c1a4.pdf",
+    "https://last10k.com/sec-filings/nvda/0001045810-24-000029.htm",
+    "https://tap.tax.utah.gov/TaxExpress/_/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Airthium founded funding employees revenue",
+   "results": [
+    "https://www.premierleague.com/en/tables/premier-league",
+    "https://www.espn.com/soccer/standings/_/league/eng.1",
+    "https://www.bbc.co.uk/sport/football/premier-league/table",
+    "https://www.premierleague.com/",
+    "https://www.livescore.com/en/football/england/premier-league/standings/",
+    "https://www.skysports.com/premier-league-table",
+    "https://www.bbc.co.uk/sport/football/tables",
+    "https://www.bbc.com/sport/football/premier-league",
+    "https://www.espn.com/Football/standings",
+    "https://www.cbssports.com/soccer/premier-league/standings/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:note.com Airthium",
+   "results": [
+    "https://techcommunity.microsoft.com/category/windows/discussions/windowsinsiderprogram",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-continues-build-the-skills-that-move-business-forward/4494139",
+    "https://support.microsoft.com/en-us/accounts-billing/work-school/verifying-your-identity-when-signing-in",
+    "https://www.microsoft.com/en-us/",
+    "https://support.microsoft.com/fr-be/contactus/",
+    "https://support.microsoft.com/en-us/accounts-billing/work-school/sign-in-to-your-work-or-school-account-using-two-step-verification",
+    "https://support.microsoft.com/en-us/accounts-billing/manage/help-us-secure-your-account",
+    "https://support.microsoft.com/en-us/microsoft-365-copilot/copilot-tutorial-meet-microsoft-365-copilot",
+    "https://support.microsoft.com/hu-hu/contactus/",
+    "https://support.microsoft.com/en-us/surface/models/surface-pro-6-specs-and-features"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Airthium",
+   "results": [
+    "https://www.reddit.com/r/FFCommish/comments/3n54yt/push_trade_through_on_yahoo/",
+    "https://www.reddit.com/r/YahooFantasy/comments/ck1bmc/is_there_a_way_to_set_the_draft_order_manually/",
+    "https://www.reddit.com/r/AskNetsec/comments/e4nqok/i_keep_getting_your_yahoo_verification_code_is/",
+    "https://www.reddit.com/r/fantasybaseball/comments/10mymxy/no_more_yahoo_message_boards/",
+    "https://www.yahoo.com/",
+    "https://www.reddit.com/user/Yahoo-CustomerCare/",
+    "https://www.reddit.com/r/90s/comments/ztyn6q/do_you_remember_playing_on_yahoo_games/",
+    "https://www.reddit.com/r/NoStupidQuestions/comments/1b3rvfo/how_has_yahoo_survived_all_these_years/",
+    "https://www.reddit.com/r/Scams/comments/145eq3r/yahoo_data_breach_settlement/",
+    "https://www.reddit.com/r/yahoo/about/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com Airthium",
+   "results": [
+    "https://www.bradleychevrolet.com/service.htm",
+    "https://www.bradleychevrolet.com/service/index.htm",
+    "https://www.bradleychevrolet.com/used-inventory/pre-owned-trucks.htm",
+    "https://www.bradleychevrolet.com/new-chevy/silverado-1500-lake-havasu-city-az.htm",
+    "https://www.bradleychevrolet.com/",
+    "https://www.bradleychevrolet.com/used-inventory/index.htm",
+    "https://www.bradleychevrolet.com/new-inventory/index.htm",
+    "https://www.bradleychevrolet.com/dealership/staff.htm",
+    "https://www.bradleychevrolet.com/dealership/about.htm",
+    "https://www.bradleychevrolet.com/all-inventory/index.htm"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com Airthium",
+   "results": [
+    "https://en.wikipedia.org/wiki/Hazel_Court",
+    "https://www.imdb.com/name/nm0183764/",
+    "https://www.imdb.com/name/nm0183764/bio/",
+    "https://www.tvguide.com/celebrities/hazel-court/credits/3030070240/",
+    "https://alchetron.com/Hazel-Court",
+    "https://www.shutterstock.com/editorial/search/hazel-court",
+    "https://www.independent.co.uk/news/obituaries/hazel-court-forties-film-heroine-who-later-became-a-cult-favourite-as-a-horror-movie-queen-of-scream-811187.html",
+    "https://www.themoviedb.org/person/101499-hazel-court",
+    "https://www.youtube.com/watch?v=LPKSQhCRjZ0",
+    "https://www.wikiwand.com/en/Hazel_Court"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Airthium note 社長",
+   "results": [
+    "https://www.zhihu.com/question/490259401",
+    "https://www.zhihu.com/question/481777018",
+    "https://www.zhihu.com/question/68759461",
+    "https://www.zhihu.com/question/445048835",
+    "https://www.zhihu.com/question/67537909",
+    "https://www.zhihu.com/question/58502488",
+    "https://www.zhihu.com/question/2083449761068331348",
+    "https://www.zhihu.com/question/426351407",
+    "https://www.zhihu.com/tardis/bd/ans/2272745427",
+    "https://www.zhihu.com/question/21949948"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 30
+  },
+  {
+   "query": "Airthium X 投稿",
+   "results": [
+    "https://en.wikipedia.org/wiki/Hello,_world",
+    "https://learn.helloworldcs.org/",
+    "https://github.com/agnilondapakou/helloWorld",
+    "https://en.wikiversity.org/wiki/Hello,_world!",
+    "https://www.helloworldcs.org/",
+    "https://press.rebus.community/programmingfundamentals/chapter/hello-world/",
+    "https://code.org/en-US/hour-of-code/helloworld",
+    "https://www.raspberrypi.org/hello-world",
+    "https://studio.code.org/courses/coursee-2025/units/1/lessons/4/levels/1",
+    "https://www.programiz.com/java-programming/hello-world"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）"
+ }
+}

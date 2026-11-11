@@ -1,0 +1,1586 @@
+{
+ "name": "Bambulab",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜返信あり",
+ "researched_at": "2026-11-11T04:10:11.980155+00:00",
+ "official_url": "https://bambulab.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：August 2020 ; 6 years ago ( 2020-08 )",
+    "url": "https://en.wikipedia.org/wiki/Bambu_Lab",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Shenzhen , China",
+    "url": "https://en.wikipedia.org/wiki/Bambu_Lab",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "28-May-2021    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/515707-03",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Bambu Lab | Unleash Your Creativity with Bambu Lab 3D Printers | Bambu Lab US",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "3D Printers",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "High-Quality 3D Printing Materials",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "Download Premium Models",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "Non-Printed Parts to Enrich Your Models",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "What You Can Do with 3D Printing",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "Everyday 3D Printing",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "Use 3D printing to make your life better.",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "Inspiring youth to think critically, solve problems, and learn interactively.",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "New to 3D Printing?",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "Learn 3D Printing Basics from Zero to Hero",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "Choose the Correct Filaments for Your Projects",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "Check Out What the Pros Are Saying",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "BambuLab H2C Full In-Depth Review: Extensive Tests vs SnapMaker U1, Prusa XL & More",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "Is Bambu's NEW H2C Tool-Changer printer a REAL game-changer? I printed over 350 hours on it to find",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "The Bambu H2D isn’t just a bigger 3D printer — it’s a laser cutter, pen plotter, and Cricut competitor too",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "Last May, I told you how 3D printers still aren’t easy enough for the mass market, but Bambu Lab had built the easiest yet. Now, instead of making it easier, Bambu is building its biggest and most sophisticated model to date — a Swiss Army knife of 3D printers that can also cut, draw, and etch.",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "Bambu Lab H2D 3D printer review: Your own personal manufacturing hub",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "The H2D once again aims to disrupt, combining makers’ favourites – such as a 3D printer, laser engraver, cutter and plotter – into one, essentially providing you with your own personal manufacturing hub.",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "Bambu Lab H2S 3D printer review",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "The H2S takes the scale of single-nozzle 3D printing up a notch, and unlike many other large-scale 3D printers, it offers a brilliant enclosed environment. This enables you to print with engineering materials, not just mainstream PLA that can be used with open frame machines.",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "The P2S is a strong choice for anyone wanting to upgrade their 3D printing experience. Its simple setup and ease of use make it an excellent first printer for a newbie or the 10th printer for a farm.",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "MakeGood unveils low-cost, 3D-printed mobility chair for children, and releases files on MakerWorld",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "The 3D-printed Toddler Mobility Trainer is an open-source project available for download on MakerWorld platform",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "Bambu Lab H2C: where Multi-Material Vortek System meets engineering precision",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "Bambu Lab is a consumer tech company focusing on desktop 3D printers. Starting with the X1 series, Bambu Lab builds state-of-the-art 3D printers that break the barriers between the digital and physical worlds, bringing creativity to a whole new level. Right now we have three sites located at Shenzhen and Shanghai in China and Austin, Texas of U.S.",
+    "url": "https://bambulab.com/en-us/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "The Bambu H2D isn’t just a bigger 3D printer — it’s a laser cutter, pen plotter, and Cricut competitor too",
+    "url": "https://bambulab.com/en-us/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Last May, I told you how 3D printers still aren’t easy enough for the mass market, but Bambu Lab had built the easiest yet. Now, instead of making it easier, Bambu is building its biggest and most sophisticated model to date — a Swiss Army knife of 3D printers that can also cut, draw, and etch.",
+    "url": "https://bambulab.com/en-us/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Bambu Lab H2D 3D printer review: Your own personal manufacturing hub",
+    "url": "https://bambulab.com/en-us/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "The H2D once again aims to disrupt, combining makers’ favourites – such as a 3D printer, laser engraver, cutter and plotter – into one, essentially providing you with your own personal manufacturing hub.",
+    "url": "https://bambulab.com/en-us/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Bambu Lab H2S 3D printer review",
+    "url": "https://bambulab.com/en-us/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "The H2S takes the scale of single-nozzle 3D printing up a notch, and unlike many other large-scale 3D printers, it offers a brilliant enclosed environment. This enables you to print with engineering materials, not just mainstream PLA that can be used with open frame machines.",
+    "url": "https://bambulab.com/en-us/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "The P2S is a strong choice for anyone wanting to upgrade their 3D printing experience. Its simple setup and ease of use make it an excellent first printer for a newbie or the 10th printer for a farm.",
+    "url": "https://bambulab.com/en-us/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Bambu Lab's business spans the globe. There are no restrictions on work location, allowing for remote work, and it provides a warm and comprehensive lifecycle service to a vast number of users worldwide.",
+    "url": "https://bambulab.com/en-us/join-us",
+    "pass": 1
+   },
+   {
+    "quote": "Aimed at interns and recent graduates, Bambu Lab offers opportunities to participate in projects from the ground up, from 0 to 1. We are eager for fresh talent with imagination and creativity to join us.",
+    "url": "https://bambulab.com/en-us/join-us",
+    "pass": 1
+   },
+   {
+    "quote": "This includes positions in China and Global market operations, online and offline sales, and video creativity. We disseminate creativity in multiple ways, penetrate frontline markets, and bring Bambu Lab products into thousands of households.",
+    "url": "https://bambulab.com/en-us/join-us",
+    "pass": 1
+   },
+   {
+    "quote": "This includes various roles such as e-commerce support, technical support, spare parts operations, and service operations. We are dedicated to building diverse service channels and tools to provide professional lifecycle services to users worldwide.",
+    "url": "https://bambulab.com/en-us/join-us",
+    "pass": 1
+   },
+   {
+    "quote": "Find an authorized dealer in your area for Bambu Lab 3D printers and accessories, after-sales service & technical support. Our official partners are ready to help you.",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "Authorized 3D printer Resellers",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "Ultimate 3D Printing Store",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "ultimate3dprintingstore.com",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "3D Printing Canada",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "3dprintingcanada.com",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "BuildVolume 3D Printer Store",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "hartsmartproducts.com",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "www.memoryexpress.com",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "www.bhphotovideo.com/",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "3D Prima",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "3dprima.co.uk",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "3D-PRINTERSTORE.CH",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "3d-printerstore.ch",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "3Dprintaj.com",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "3dprintaj.com",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "3DPRINTX",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "3dprintx.bg",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "Solid Print3D Limited",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "solidprint3d.co.uk",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "Solid Print3D Ireland",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "solidprint3d.ie",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "CREATE Education Project",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Bambu Lab H2D 3D printer review: Your own personal manufacturing hub",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "The H2D once again aims to disrupt, combining makers’ favourites – such as a 3D printer, laser engraver, cutter and plotter – into one, essentially providing you with your own personal manufacturing hub.",
+    "url": "https://bambulab.com/en-us",
+    "pass": 1
+   },
+   {
+    "quote": "Bambu Lab H2D 3D printer review: Your own personal manufacturing hub",
+    "url": "https://bambulab.com/en-us/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "The H2D once again aims to disrupt, combining makers’ favourites – such as a 3D printer, laser engraver, cutter and plotter – into one, essentially providing you with your own personal manufacturing hub.",
+    "url": "https://bambulab.com/en-us/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "CONVOY-WESTCAN Industrial Supplies & Fasteners",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "The3dfactory",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "the3dfactory.com.cy",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "3D Factory",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "3dfactory.om",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial 3D Solution",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "How many technicians are in your team and can you help describe your after-sales service process ?",
+    "url": "https://bambulab.com/en-us/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "Chinese manufacturer of 3D printers",
+    "url": "https://en.wikipedia.org/wiki/Bambu_Lab",
+    "pass": 3
+   },
+   {
+    "quote": "\"Bambu Lab, Consumer-Grade 3D Printing Manufacturer, Nears CNY 1.5 Billion in Annual Revene\"",
+    "url": "https://en.wikipedia.org/wiki/Bambu_Lab",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelMatters - The heart of additive manufacturing",
+    "url": "https://en.wikipedia.org/wiki/Bambu_Lab",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing companies established in 2020",
+    "url": "https://en.wikipedia.org/wiki/Bambu_Lab",
+    "pass": 3
+   },
+   {
+    "quote": "Rethink Personal Manufacturing",
+    "url": "https://us.store.bambulab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - Bambu Lab Blog",
+    "url": "https://blog.bambulab.com/tag/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Koobz story - scaling on-demand footwear manufacturing through 3D printing",
+    "url": "https://blog.bambulab.com/tag/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "By pairing scalable 3D printing with a fully digital manufacturing workflow, Koobz is demonstrating how footwear production can move faster, stay closer to home, and adapt to demand without the constraints of traditional tooling",
+    "url": "https://blog.bambulab.com/tag/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "How additive manufacturing helped UCI engineers slash their design iteration cycle from weeks to hours",
+    "url": "https://blog.bambulab.com/tag/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "How Bambu Lab 3D printers enabled Michigan Task-Based Robotics to accelerate design, iteration, and competition-ready manufacturing",
+    "url": "https://blog.bambulab.com/tag/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Eaton scales industrial manufacturing with Bambu Lab's 3D printing technology",
+    "url": "https://blog.bambulab.com/tag/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "How global manufacturing leader gained flexibility, speed, and tangible savings",
+    "url": "https://blog.bambulab.com/tag/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Eaton scales industrial manufacturing with Bambu Lab's 3D printing technology",
+    "url": "https://blog.bambulab.com/eaton-scales-industrial-manufacturing-with-bambu-labs-3d-printing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "The events of 2020 - 2022 (global pandemic and war in Ukraine) forced the industrial manufacturing sector to adopt an entirely new approach to managing its resources. Companies find themselves at a turning point where traditional production methods are being replaced by more flexible, digital, and decentralized solutions.",
+    "url": "https://blog.bambulab.com/eaton-scales-industrial-manufacturing-with-bambu-labs-3d-printing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Interestingly, as 3D printing is adopted within manufacturing companies, organizational culture is evolving as well. Businesses are discovering the value of enabling production teams to solve problems independently and experiment with new tools.",
+    "url": "https://blog.bambulab.com/eaton-scales-industrial-manufacturing-with-bambu-labs-3d-printing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "One such example is Eaton - a company that has effectively aligned production needs with a modern approach to additive manufacturing, creating a solid foundation for continued growth.",
+    "url": "https://blog.bambulab.com/eaton-scales-industrial-manufacturing-with-bambu-labs-3d-printing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Eaton is a global leader in power management solutions, operates across a diverse range of industries including electrical, aerospace, and mechanical systems. With operations in over 175 countries, the company continually seeks technologies that improve efficiency, safety, and scalability within its manufacturing processes.",
+    "url": "https://blog.bambulab.com/eaton-scales-industrial-manufacturing-with-bambu-labs-3d-printing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing has long held potential for Eaton, particularly for producing custom tooling, fixtures, and low-volume replacement parts.",
+    "url": "https://blog.bambulab.com/eaton-scales-industrial-manufacturing-with-bambu-labs-3d-printing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Prior to adopting Bambu Lab’s solutions, Eaton’s additive manufacturing footprint was both limited and inefficient.",
+    "url": "https://blog.bambulab.com/eaton-scales-industrial-manufacturing-with-bambu-labs-3d-printing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "The company had deployed 193 polymer printers across 47% of its factories, but these included 72 different makes and models.",
+    "url": "https://blog.bambulab.com/eaton-scales-industrial-manufacturing-with-bambu-labs-3d-printing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "This diverse mix created significant complexity in training, maintenance, and workflow standardization. More critically, many of the existing printers were not intuitive enough for widespread use on factory floors.",
+    "url": "https://blog.bambulab.com/eaton-scales-industrial-manufacturing-with-bambu-labs-3d-printing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Capital cost was another major barrier. For many Eaton sites, the perceived risk of investing in AM outweighed the potential benefits. Compounding this issue was the operational reality - engineers and technicians often lacked the time or expertise to troubleshoot finicky hardware and software setups.",
+    "url": "https://blog.bambulab.com/eaton-scales-industrial-manufacturing-with-bambu-labs-3d-printing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": ": unlike many alternatives, Bambu Lab 3D printers required minimal setup and configuration, making them suitable for factory environments where simplicity and uptime are essential,",
+    "url": "https://blog.bambulab.com/eaton-scales-industrial-manufacturing-with-bambu-labs-3d-printing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "The adoption of Bambu Lab printers has had a measurable impact on Eaton’s manufacturing operations:",
+    "url": "https://blog.bambulab.com/eaton-scales-industrial-manufacturing-with-bambu-labs-3d-printing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": ": in just two years, the company increased its 3D printer count to over 300 units across 70% of its factories - nearly doubling the footprint while significantly reducing platform fragmentation,",
+    "url": "https://blog.bambulab.com/eaton-scales-industrial-manufacturing-with-bambu-labs-3d-printing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": ": the ease of use has removed traditional barriers to entry, enabling factory teams to create and deploy parts on-demand with minimal training.",
+    "url": "https://blog.bambulab.com/eaton-scales-industrial-manufacturing-with-bambu-labs-3d-printing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Eaton’s experience with Bambu Lab illustrates how a well-designed, accessible AM solution can dramatically accelerate adoption - even in complex, distributed manufacturing environments.",
+    "url": "https://blog.bambulab.com/eaton-scales-industrial-manufacturing-with-bambu-labs-3d-printing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "By addressing core barriers around cost, usability, and reliability, Bambu Lab has enabled Eaton to transform additive manufacturing from a niche capability into a scalable, everyday tool on the factory floor.",
+    "url": "https://blog.bambulab.com/eaton-scales-industrial-manufacturing-with-bambu-labs-3d-printing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Operator of a consumer tech company and manufacturer of printers intended to develop desktop 3D printers based on fused deposition modeling technology.",
+    "url": "https://pitchbook.com/profiles/company/515707-03",
+    "pass": 3
+   },
+   {
+    "quote": "Operator of a consumer tech company and manufacturer of printers intended to develop desktop 3D printers based on fused deposition modeling technology. The company designs and manufactures AI and cloud-powered desktop 3D printers and builds state-of-the-art 3D printers, thereby enabling clients to prototype rapidly, customize production, and innovate with complex designs.",
+    "url": "https://pitchbook.com/profiles/company/515707-03",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Bambu Lab is a consumer tech company focusing on desktop 3D printers. Starting with the X1 series, Bambu Lab builds state-of-the-art 3D printers that break the barriers between the digital and physical worlds, bringing creativity to a whole new level. Right now we have three sites located at Shenzhen and Shanghai in China and Austin, Texas of U.S.",
+    "url": "https://bambulab.com/en-us/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "arrowti3d.com",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "Officeworks Warrnambool",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "JB Hi-Fi WARRINGAH MALL",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "JB Hi-Fi WARRAWONG JB HOME",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "What is your annual sales revenue for 3D printers?",
+    "url": "https://bambulab.com/en-us/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "2-Year Warranty for 3D Printers",
+    "url": "https://us.store.bambulab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Capital cost was another major barrier. For many Eaton sites, the perceived risk of investing in AM outweighed the potential benefits. Compounding this issue was the operational reality - engineers and technicians often lacked the time or expertise to troubleshoot finicky hardware and software setups.",
+    "url": "https://blog.bambulab.com/eaton-scales-industrial-manufacturing-with-bambu-labs-3d-printing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": ": the ease of use has removed traditional barriers to entry, enabling factory teams to create and deploy parts on-demand with minimal training.",
+    "url": "https://blog.bambulab.com/eaton-scales-industrial-manufacturing-with-bambu-labs-3d-printing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Eaton primarily uses Bambu Lab printers for on-the-floor operational support. Here is part of Bambu Lab 3D printer applications:",
+    "url": "https://blog.bambulab.com/eaton-scales-industrial-manufacturing-with-bambu-labs-3d-printing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "By addressing core barriers around cost, usability, and reliability, Bambu Lab has enabled Eaton to transform additive manufacturing from a niche capability into a scalable, everyday tool on the factory floor.",
+    "url": "https://blog.bambulab.com/eaton-scales-industrial-manufacturing-with-bambu-labs-3d-printing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "What is Bambu Lab’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/515707-03",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Bambu Lab is",
+    "url": "https://pitchbook.com/profiles/company/515707-03",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Authorized Resellers | Where to Buy | Bambu Lab US",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "Authorized 3D printer Resellers",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "*No resellers found in your region?",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "548 Resellers found in Global",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "Fill out this form if you want to work with us as a regional distributor or reseller. If you are a regular customer, please contact",
+    "url": "https://bambulab.com/en-us/partner-with-us",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "株式会社サンステラ・株式会社フュージョンテクノロジー",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "Bambu Lab（バンブーラボ）日本正規代理店ガイド 2026｜どこで買うべきか",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本でBambu Labを正規購入できる代理店ガイド 2026年版",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "X1 Carbonの販売状況の表記を訂正し、機種ごとの商品カードと、代理店の地域別一覧・FAQ早見表を追加しました",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本でBambu Labを正規購入できる代理店は、公式の日本ストアを含め7社あります",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "個人はどこから買っても保証内容はほぼ同一ですが、法人・教育機関は国内補助金対応・請求書払い・設置サポートが充実した代理店経由が最適です",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "SK本舗は日本国内でBambu Labの正規代理店として販売・修理・サポートを行っています",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "代理店 選定ガイド ／ 2026年版",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本でBambu Labを正規購入できる代理店ガイド",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab公式の日本ストアと、公式が認める7社の正規代理店",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "「Bambu Labの3Dプリンターを買いたいけれど、結局どこから買うのが正解なんだろう？」「公式サイトと代理店、どっちがお得なの？」──Bambu Labの人気が日本でも急速に高まる中、こうしたご相談が増えています",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "結論から言うと、Bambu Labを日本で買う方法は",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab公式の日本オンラインストア（直販）と、Bambu Labが公認している",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "7社の正規代理店",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab Japanが国内倉庫から発送する公式直販があるため、海外から個人輸入する必要も実質的にありません",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、Bambu Lab公式サイトの正規代理販売店ページに掲載されている日本の代理店を、",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab を日本で買う2つの方法",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Labはどこで買う？公式・Amazon・正規代理店を比較【2026】",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab 完全ガイド｜全機種の選び方・設定・活用法（正規代理店が網羅）",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab 製品一覧｜SK本舗（正規代理店）で購入",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Labを日本で入手できるのは、現在この2つです",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "① Bambu Lab 公式日本ストア（直販）",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab Japan が運営する公式オンラインストア",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "② 正規代理店（公式認定の7社）",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Labが公認する日本の正規代理店",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "公式直販と正規代理店、何がどう違う？",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab 3Dプリンター｜日本正規代理店・保証・国内サポート｜3DMart Japan",
+    "url": "https://www.3dmart.co.jp/collections/bambu-lab-3d-printer",
+    "pass": 3
+   },
+   {
+    "quote": "3DMart JapanはBambu Labの正規代理店として、デモ・導入相談、メーカー保証、国内修理サポート、延長保証（オプション）までワンストップで対応",
+    "url": "https://www.3dmart.co.jp/collections/bambu-lab-3d-printer",
+    "pass": 3
+   },
+   {
+    "quote": "[Breaking News] Bambu Lab's new 9-tool 3D printer \"H3C\" to be announced on November 3rd｜東京九段工作ラボ",
+    "url": "https://note.com/tokyomakers/n/n2a3189f61f84?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo Kudan Makers Lab",
+    "url": "https://note.com/tokyomakers/n/n2a3189f61f84?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://tokyomakers.firstfournotes.com/",
+    "url": "https://note.com/tokyomakers/n/n2a3189f61f84?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.youtube.com/@tokyomakers",
+    "url": "https://note.com/tokyomakers/n/n2a3189f61f84?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.instagram.com/tokyomakers/",
+    "url": "https://note.com/tokyomakers/n/n2a3189f61f84?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "info@3dprima.com",
+    "url": "https://bambulab.com/en-us/dealer",
+    "pass": 1
+   },
+   {
+    "quote": "I consent to receive marketing emails about Bambu Lab & MakerWorld's products, services and more. To understand our privacy practice, see",
+    "url": "https://bambulab.com/en-us/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "We'll email you when this item is back in stock.",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Enter your email and we'll let you know when this item is back in stock.",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Your email is required",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/515707-03",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Bambu Lab（バンブーラボ）日本正規代理店ガイド 2026｜どこで買うべ... — Apr 28, 2026 · Bambu Labを日本で正規購入する代理店の選び方。H3Cの予約構成・納期・設置条件も加え、個人・法人・教育機関に必要な購入窓口とサポートの確認点を解説。",
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab | Bambu Labの3Dプリンターで創造性を発揮しよう | Bambu L... — Bambu Labは、デジタルと物理の世界の壁を打ち破る最先端のデスクトップ3Dプリンターを製造しています。Bambu Lab公式サイトでは、高性能3Dプリンターをご紹介しています。",
+    "url": "https://bambulab.com/ja-jp",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab 3Dプリンター｜日本正規代理店・保証・国内サポート｜3DMar... — Bambu Lab 3Dプリンターを日本で安心購入。 デモ/導入相談、メーカー保証、国内修理、延長保証まで対応。 教育機関・法人・工房の導入も3DMart Japanに相談。",
+    "url": "https://www.3dmart.co.jp/collections/bambu-lab-3d-printer",
+    "pass": 3
+   },
+   {
+    "quote": "正規代理販売店 | Bambu Lab JP — お近くのBambu Lab正規代理店・販売店をお探しください。国または地域を選択して、パートナーネットワークのサービスをご確認いただけます。",
+    "url": "https://bambulab.com/ja-jp/dealer",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab（バンブーラボ）日本正規代理店｜SK本舗 — Bambu Lab を SK本舗 で導入する 個人ホビーの方は商品一覧から、教育機関・法人のお客様は専任窓口へお気軽にご相談ください。 見積・補助金活用・センドバック保証・トレーニングまで一括でサポートします。",
+    "url": "https://skhonpo.com/pages/brand-bambulab",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab - Wikipedia — Bambu Lab's first physical retail in Shenzhen’s MixC World mall Bambu Lab (Chinese: 拓竹; pinyin: Tuò zhú) is a consumer tech company that designs and manufactures desktop fused filament fabrication 3D printers. The company is based in Shenzhen, China, with additional locations in Shanghai and Austin, Texas. [1] It was founded by a team of engineers from DJI. [2]",
+    "url": "https://en.wikipedia.org/wiki/Bambu_Lab",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab | ホーム - MakerWorld — MakerWorld は、デザイナーとメイカーが集う3DプリントモデルのNo.1コミュニティです。多色造形に最適な、数千点の無料3Dモデルや STL ファイルを提供しています。",
+    "url": "https://makerworld.com/ja/@BambuLab",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab — BambuLab製品の従来機では難しかった、柔らかい素材と硬い素材を1つの造形に組み合わせることが可能になりました。 また、高機能素材と標準素材を部材ごとに使い分けることで、コストを抑えつつ、必要な部分にだけ高性能を持たせることができます。",
+    "url": "https://bambulab.idarts.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "世界で最も選ばれている3Dプリンターブランド | Bambu Lab JP 公式ス... — Bambu Lab JP公式ストアで、3Dプリンター・フィラメント・アクセサリーをお買い求めいただけます。箱から出してすぐ使える安心感、高速で高品質な印刷、多色印刷の自動化、そしてプリンターから豊富な3Dモデル集までを網羅する充実のエコシステムをご提供します。",
+    "url": "https://jp.store.bambulab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab X2D: サポート除去が簡単な、手頃な価格のデュアル押出機搭... — 圧倒的なコストパフォーマンスを備えたデュアル押出機搭載3Dプリンター、Bambu Lab X2D。補助ノズルによる剥がしやすいサポート材、効率的な多色・マルチマテリアル造形、そしてBambuならではの快適な体験をお届けします。",
+    "url": "https://bambulab.com/ja-jp/x2d",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab 3Dプリンター用フィラメント | Bambu Lab 公式ストア | Bam... — Bambu Lab JP公式ストアで、3Dプリンター・フィラメント・アクセサリーをお買い求めいただけます。箱から出してすぐ使える安心感、高速で高品質な印刷、多色印刷の自動化、そしてプリンターから豊富な3Dモデル集までを網羅する充実のエコシステムをご提供します。",
+    "url": "https://jp.store.bambulab.com/collections/bambu-lab-3d-printer-filament",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - Bambu Lab Blog — Jun 11, 2026 · Case Study Koobz story - scaling on-demand footwear manufacturing through 3D printing By pairing scalable 3D printing with a fully digital manufacturing workflow, Koobz is demonstrating how footwear production can move faster, stay closer to home, and adapt to demand without the constraints of traditional tooling",
+    "url": "https://blog.bambulab.com/tag/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Eaton scales industrial manufacturing with Bambu Lab's 3D ... — Feb 5, 2026 · Case Study Eaton scales industrial manufacturing with Bambu Lab's 3D printing technology How global manufacturing leader gained flexibility, speed, and tangible savings",
+    "url": "https://blog.bambulab.com/eaton-scales-industrial-manufacturing-with-bambu-labs-3d-printing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab | Case Study: DHR Engineering & Bambu Lab X1C ️ ... — 2,634 likes, 31 comments - bambulab_official on September 4, 2024: \"🔧 Case Study: DHR Engineering & Bambu Lab X1C 🖨️ DHR Engineering, a CNC automation pioneer, transformed their production with Bambu Lab X1C 3D printers. The results? 3x more parts produced 5x less maintenance ROI in just 5 months! \"You made my dream of automated 3D pr",
+    "url": "https://www.instagram.com/bambulab_official/reel/C_fbosbI87y/",
+    "pass": 3
+   },
+   {
+    "quote": "#bambulab #3dprinter #3dprinting #cncautomation # ... - LinkedIn — 🔬 Case Study: DHR Engineering Revolutionizes CNC Automation with #BambuLab X1C #3DPrinter We're excited to share how DHR Engineering, a trailblazing CNC automation company, transformed their ...",
+    "url": "https://www.linkedin.com/posts/bambulab_bambulab-3dprinter-3dprinting-activity-7237055476625018881-680V",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab Case Study - AutoMQ — How Bambu Lab achieved unified multi-cloud Kafka across AWS, GCP, and Alibaba Cloud with AutoMQ, reducing infrastructure costs by 50% and enabling second-level scaling.",
+    "url": "https://www.automq.com/customers/bambulab",
+    "pass": 3
+   },
+   {
+    "quote": "Authorized Resellers | Where to Buy | Bambu Lab — Find a Bambu Lab authorized dealer near to you. Select your country or region to find out how Bambu Lab partners can benefit you.",
+    "url": "https://bambulab.com/en/dealer",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab 2026 Company Profile: Valuation, Funding ...Bambu Lab: Company Profile & Funding | Indexed.vcBambu Lab - 2026 Company Profile, Funding & Competitors - TracxnBambu Lab - 2026 Company Profile & Team - TracxnBambu Lab - Overview, News & Similar companies | ZoomInfo.comBambu Lab Series C+ Funding (2025) | Investors & Contacts ...Bambu Lab - Products, Competitors, Financials, Employees ... — ",
+    "url": "https://pitchbook.com/profiles/company/515707-03",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab: Company Profile & Funding | Indexed.vc — Sep 2, 2026 · Bambu Lab is a consumer tech company focusing on desktop 3D printers. Its… Founded 2020. 201–500 employees. Shenzhen, China. $275.0M raised across 3 rounds.",
+    "url": "https://indexed.vc/companies/bambu-lab",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab - 2026 Company Profile, Funding & Competitors - Tracxn — Bambu Lab - About the company Bambu Lab is a funded company based in Shenzhen (China), founded in 2020. It operates as a Developer of desktop 3D printers engineered for high-speed and multi-color printing. The company has 350 active competitors, including 17 funded and 24 that have exited. Its top competitor s include companies lik",
+    "url": "https://tracxn.com/d/companies/bambu-lab/__-SdOIQUHPzv4FOdktGfKwgwKpjDoYuFKmBPUavdLib0",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab Series C+ Funding (2025) | Investors & Contacts ... — Nov 24, 2025 · Bambu Lab raised funding in a Series C+ round (2025). See lead investors, key contacts, tech stack, and AI-powered insights on Fundup AI.",
+    "url": "https://fundup.ai/recently-funded-startups/company/uJWzCkp4QeVTAJNr03CU/bambu-lab",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab - Products, Competitors, Financials, Employees ... — Bambu Lab Frequently Asked Questions (FAQ) When was Bambu Lab founded? Bambu Lab was founded in 2020. Where is Bambu Lab's headquarters? Bambu Lab's headquarters is located at No. 63 Xuefu Road Nanshan District, Shenzhen. What is Bambu Lab's latest funding round? Bambu Lab's latest funding round is Series B. Who are the investors of Ba",
+    "url": "https://www.cbinsights.com/company/tuozhu-technology",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "BambuLab 3Dプリンターのタイプ別の使用比較レビュー｜kazuhide Mar 24, 2025 · 自分の感想をつらつらとまとめましたが、実際に使用している人から感想を聞くのが一番です。 もし身近にBambuLabの3Dプリンターを持っている方やその他のプリンターを持っている方がいれば、ぜひこの記事内容とも比較して検討してみてください。",
+    "url": "https://note.com/kazuhide_note/n/n95e0d8622514",
+    "pass": 3
+   },
+   {
+    "quote": "AMSはいいぞって話 [Bambu Lab]｜ysk - note（ノート） Oct 7, 2024 · Bambu Labの3Dプリンタを愛用しております。 Bambu Labのマシンの特徴の一つとして、マルチカラー出力に対応したAMS(Automatic Material System)というオプションがあります。 AMS 1台につき4つのフィラメントをセット出来て、最大4台まで接続が可能なので、16色までの出力に対応しています。 多色で出せる ...",
+    "url": "https://note.com/ysk1025/n/n244a918fb649",
+    "pass": 3
+   },
+   {
+    "quote": "[Breaking News] Bambu Lab's new 9-tool 3D printer \"H3C\" to be ... Oct 24, 2026 · Nine tools in one machine On October 23rd, Bambu Lab released a teaser for their new 3D printer, the \"H3C\". BambuLab What was uploaded to their official YouTube channel is a mere 11-second teaser video. In the dark, a shelf of tools descends from above and clicks into place... And the final words that appear are \"Tool",
+    "url": "https://note.com/tokyomakers/n/n2a3189f61f84?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年最新】Bambu Lab 3Dプリンター徹底比較ガイド｜初心者でも失... Nov 10, 2025 · はじめに 3Dプリンターに興味はあるけど、 「どれを選べばいいのかわからない…」という方へ。 この記事では、Bambu Labの主要モデルを 初心者でも迷わず選べるようにシンプルに解説します。 さらに、もうすぐ来る「Black Friday」で お得に買うコツも紹介します🛍️ まずは最適な一台を一緒に ...",
+    "url": "https://note.com/irodori_nyanko/n/n8ba657d25f59",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "BambuLab 3Dプリンターのタイプ別の使用比較レビュー｜kazuhide",
+    "url": "https://note.com/kazuhide_note/n/n95e0d8622514",
+    "pass": 3
+   },
+   {
+    "quote": "BambuLab 3Dプリンターのタイプ別の使用比較レビュー",
+    "url": "https://note.com/kazuhide_note/n/n95e0d8622514",
+    "pass": 3
+   },
+   {
+    "quote": "2023ごろからオフィス、自宅用に非常に身の回りで使われるようになった３Dプリンター、BambuLabについて実際に複数の種類を使用してきたため実際の使用感についてまとめた内容になります。",
+    "url": "https://note.com/kazuhide_note/n/n95e0d8622514",
+    "pass": 3
+   },
+   {
+    "quote": "もちろんいろんな３Dプリンターがあるので好みのプリンターを選ぶのがいいと思いますが、自分と同じようにBambuLabのプリンターを検討の際に参考になればと思います。",
+    "url": "https://note.com/kazuhide_note/n/n95e0d8622514",
+    "pass": 3
+   },
+   {
+    "quote": "2023年ごろから見かけるようになり、 2025年現在、自身の身の回りでは一番使われているようになった３Dプリンターです。",
+    "url": "https://note.com/kazuhide_note/n/n95e0d8622514",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Labの３Dプリンターに限られた話ではないですが、近年の３Dプリンターはプリントスピードが格段に早くなりました。体感2023年ごろと今では倍以上も早くなったと思います。",
+    "url": "https://note.com/kazuhide_note/n/n95e0d8622514",
+    "pass": 3
+   },
+   {
+    "quote": "より大きなものであってもプリントのスピードが上がったことによりトライアンドエラー的な使用を気軽に行うことができるようになりました。",
+    "url": "https://note.com/kazuhide_note/n/n95e0d8622514",
+    "pass": 3
+   },
+   {
+    "quote": "純正のフィラメントがめちゃく種類があります。",
+    "url": "https://note.com/kazuhide_note/n/n95e0d8622514",
+    "pass": 3
+   },
+   {
+    "quote": "AMSはいいぞって話[Bambu Lab]｜ysk",
+    "url": "https://note.com/ysk1025/n/n244a918fb649",
+    "pass": 3
+   },
+   {
+    "quote": "AMSはいいぞって話[Bambu Lab]",
+    "url": "https://note.com/ysk1025/n/n244a918fb649",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Labの3Dプリンタを愛用しております。",
+    "url": "https://note.com/ysk1025/n/n244a918fb649",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Labのマシンの特徴の一つとして、マルチカラー出力に対応したAMS(Automatic Material System)というオプションがあります。",
+    "url": "https://note.com/ysk1025/n/n244a918fb649",
+    "pass": 3
+   },
+   {
+    "quote": "AMS 1台につき4つのフィラメントをセット出来て、最大4台まで接続が可能なので、16色までの出力に対応しています。",
+    "url": "https://note.com/ysk1025/n/n244a918fb649",
+    "pass": 3
+   },
+   {
+    "quote": "多色で出せると表現方法が広がって楽しいです。",
+    "url": "https://note.com/ysk1025/n/n244a918fb649",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、多色でやろうとすると毎層ごとにカラーチェンジが入るので、ノズルに残ったフィラメントをパージする時間がめちゃくちゃ必要になります。",
+    "url": "https://note.com/ysk1025/n/n244a918fb649",
+    "pass": 3
+   },
+   {
+    "quote": "あとパージ材(所謂Poop)も大量に発生します。",
+    "url": "https://note.com/ysk1025/n/n244a918fb649",
+    "pass": 3
+   },
+   {
+    "quote": "[Breaking News] Bambu Lab's new 9-tool 3D printer \"H3C\" to be announced on November 3rd｜東京九段工作ラボ",
+    "url": "https://note.com/tokyomakers/n/n2a3189f61f84?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Breaking News] Bambu Lab's new 9-tool 3D printer \"H3C\" to be announced on November 3rd",
+    "url": "https://note.com/tokyomakers/n/n2a3189f61f84?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Nine tools in one machine",
+    "url": "https://note.com/tokyomakers/n/n2a3189f61f84?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On October 23rd, Bambu Lab released a teaser for their new 3D printer, the \"H3C\".",
+    "url": "https://note.com/tokyomakers/n/n2a3189f61f84?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What was uploaded to their official YouTube channel is a mere 11-second teaser video. In the dark, a shelf of tools descends from above and clicks into place... And the final words that appear are \"Tool Changer. Game Changer.\"",
+    "url": "https://note.com/tokyomakers/n/n2a3189f61f84?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "From the official teaser (Source: Bambu Lab Official YouTube)",
+    "url": "https://note.com/tokyomakers/n/n2a3189f61f84?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is the only official announcement text.",
+    "url": "https://note.com/tokyomakers/n/n2a3189f61f84?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Nine tools, built into one printer. A new tech to swap.\"",
+    "url": "https://note.com/tokyomakers/n/n2a3189f61f84?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年最新】Bambu Lab 3Dプリンター徹底比較ガイド｜初心者でも失敗しない選び方｜いろどり｜猫グッズ＆設計士ねこ",
+    "url": "https://note.com/irodori_nyanko/n/n8ba657d25f59",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年最新】Bambu Lab 3Dプリンター徹底比較ガイド｜初心者でも失敗しない選び方",
+    "url": "https://note.com/irodori_nyanko/n/n8ba657d25f59",
+    "pass": 3
+   },
+   {
+    "quote": "「どれを選べばいいのかわからない…」という方へ。",
+    "url": "https://note.com/irodori_nyanko/n/n8ba657d25f59",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、Bambu Labの主要モデルを",
+    "url": "https://note.com/irodori_nyanko/n/n8ba657d25f59",
+    "pass": 3
+   },
+   {
+    "quote": "初心者でも迷わず選べるようにシンプルに解説します。",
+    "url": "https://note.com/irodori_nyanko/n/n8ba657d25f59",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、もうすぐ来る「Black Friday」で",
+    "url": "https://note.com/irodori_nyanko/n/n8ba657d25f59",
+    "pass": 3
+   },
+   {
+    "quote": "Black Fridayセールでお得に購入する方法",
+    "url": "https://note.com/irodori_nyanko/n/n8ba657d25f59",
+    "pass": 3
+   },
+   {
+    "quote": "賢く3Dプリンターデビューを飾りましょう🎉",
+    "url": "https://note.com/irodori_nyanko/n/n8ba657d25f59",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Bambulab Japan (@BambulabJapan) / X Follow PostsPosts RepliesReplies RepostsReposts MediaMedia Pinned Bambulab Japan @BambulabJapan Jul 10",
+    "url": "https://x.com/BambulabJapan",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab (@BambulabGlobal) / X Bambu Lab H3C launches today. Nine independent PrintTools™ that allow multiple nozzle sizes in a single print. Powered by SwapTek™, Print-to-print tool switch only takes 6 seconds. Multiple toolheads with multiple possibilities. Print, cut, draw and deboss. All on the same Show more",
+    "url": "https://x.com/BambulabGlobal",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab Support (@BambuLabSupport) / X Official Bambu Lab account dedicated to providing customer support for Bambu Lab products.",
+    "url": "https://x.com/BambuLabSupport",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab Support on X: \" GIVEAWAY TIME! Want to join us at ... 🎉 GIVEAWAY TIME! Want to join us at Formnext 2026? We’re giving away 30 free tickets to the biggest event in additive manufacturing! Here’s how to enter: Follow @BambuLabSupport ️ Like and repost this post 💬 Comment with a “Did you know?” topic you’d like us to cover next! Winners announ…",
+    "url": "https://x.com/BambuLabSupport/status/2113223903954849860",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Bambu Lab - LinkedIn Bambu Lab is a consumer tech company focusing on desktop 3D printers. Its state-of-the-art 3D printers offer a feature-rich first-class experience for a global community of 3D printing makers ...",
+    "url": "https://www.linkedin.com/company/bambulab",
+    "pass": 3
+   },
+   {
+    "quote": "BAMBULAB - LinkedIn BAMBULAB | 87 followers on LinkedIn. BambuLab es un laboratorio de comunicación y crecimiento consciente creado por Mile Silva y José Daniel. Nace como un espacio donde las personas pueden ...",
+    "url": "https://www.linkedin.com/company/bambu-lab/",
+    "pass": 3
+   },
+   {
+    "quote": "Ye Tao - Founder and CEO of Bambu Lab - 领英 (中国)Nadia Yaakoubi - Head of PR and comms @Bambu Lab | LinkedInCedric Mallet - Bambu Lab | LinkedIn3D Touch | LinkedIn Founder and CEO of Bambu Lab · Working on a secret project now. Trained to be a scientist but ended up being an engineer. · 工作经历: Bambu Lab · 教育经历: Jacobs University Bremen · 地点: 深圳 · 111 位领英好友。在领英 (一个拥有 10 亿会员的职业社区) 查看Ye Tao的职业档案。 Head o",
+    "url": "https://cn.linkedin.com/in/ye-tao-31769029",
+    "pass": 3
+   },
+   {
+    "quote": "Nadia Yaakoubi - Head of PR and comms @Bambu Lab | LinkedInCedric Mallet - Bambu Lab | LinkedIn3D Touch | LinkedIn Head of PR and comms @Bambu Lab · Ervaring: Bambu Lab · Opleiding: University of Essex · Locatie: Eindhoven Area · 500+ connecties op LinkedIn. Bekijk het profiel van Nadia Yaakoubi op LinkedIn, een professionele community van 1 miljard leden. Hi there ! Welcome to my profile page. As",
+    "url": "https://nl.linkedin.com/in/nadiayaakoubi",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Bambu Lab 3D | Austin TX - FacebookBambuLab 3D Printing Community - FacebookBambu Lab Official User Group - FacebookBambu Lab 3D - Big news! Today, we officially opened ...Bambu Lab X2D Users - FacebookBambu Labs US Store: Official Site, Prices, and Local OptionsBambu Lab P2S Owners – Community & Support | Facebook 6 days ago · Bambu Lab 3D, Austin. 190,158 followers · 38,460 talking about this · ",
+    "url": "https://www.facebook.com/bambulab3D/",
+    "pass": 3
+   },
+   {
+    "quote": "BambuLab 3D Printing Community - Facebook Do I need another 3D printer? 🤔 I made a 100% accurate decision-making guide for anyone struggling with this very important question 😂 Spoiler: every answer ends the same way 🖨️ Be honest — how many 3D printers do YOU own... and how many is \"too many\"? Follow Ryan.Prints.3D for daily 3D printing chaos, builds and fails 🙌 Mamang Lambot #3dprinting #3dprinte",
+    "url": "https://www.facebook.com/groups/1155158253013188/",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab Official User Group - Facebook Welcome to Bambu Lab Official User Group. Everything about Bambu Lab products, your ongoing projects, and your aspirations. Find many answers about...",
+    "url": "https://www.facebook.com/groups/bambulabofficialusers/",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab X2D Users - Facebook Oct 22, 2026 · Laptop for bambulab software Is it any windows based laptop will work for editing and getting files on and also download bambu lab In quite interested in this printer but I need to make more pdf sales first For more guides on 3D printing check the link in my bio",
+    "url": "https://www.facebook.com/groups/bambulabx2d/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://bambulab.com/en-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bambulab.com/en-us/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bambulab.com/en-us/join-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bambulab.com/en-us/dealer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bambulab.com/en-us/partner-with-us",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dmart.co.jp/collections/bambu-lab-3d-printer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Bambu_Lab",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bambulab.idarts.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://us.store.bambulab.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.bambulab.com/tag/case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.bambulab.com/eaton-scales-industrial-manufacturing-with-bambu-labs-3d-printing-technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/bambulab_official/reel/C_fbosbI87y/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/bambulab_bambulab-3dprinter-3dprinting-activity-7237055476625018881-680V",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/515707-03",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://indexed.vc/companies/bambu-lab",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/bambu-lab/__-SdOIQUHPzv4FOdktGfKwgwKpjDoYuFKmBPUavdLib0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fundup.ai/recently-funded-startups/company/uJWzCkp4QeVTAJNr03CU/bambu-lab",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/kazuhide_note/n/n95e0d8622514",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ysk1025/n/n244a918fb649",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tokyomakers/n/n2a3189f61f84?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/irodori_nyanko/n/n8ba657d25f59",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/BambulabJapan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BambulabGlobal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BambuLabSupport",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BambuLabSupport/status/2113223903954849860",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/bambulab",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/bambu-lab/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/in/ye-tao-31769029",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/in/nadiayaakoubi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/bambulab3D/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1155158253013188/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/bambulabofficialusers/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/bambulabx2d/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Bambulab 日本 導入",
+   "results": [
+    "https://skhonpo.com/blogs/3dprinter-practice/bambu-lab-japan-distributor-guide-2026",
+    "https://bambulab.com/ja-jp",
+    "https://www.3dmart.co.jp/collections/bambu-lab-3d-printer",
+    "https://bambulab.com/ja-jp/dealer",
+    "https://skhonpo.com/pages/brand-bambulab",
+    "https://news.3rd-in.co.jp/article/fea7add6-7f91-11ef-b288-9ca3ba083d71",
+    "https://apple-tree.co.jp/partnership-bambulab/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bambulab 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://en.wikipedia.org/wiki/Bambu_Lab",
+    "https://bambulab.com/ja-jp/dealer",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://bambulab.com/ja-jp",
+    "https://makerworld.com/ja/@BambuLab",
+    "https://asia.store.bambulab.com/",
+    "https://wiki.bambulab.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bambulab Japan",
+   "results": [
+    "https://bambulab.idarts.co.jp/",
+    "https://bambulab.com/ja-jp",
+    "https://jp.store.bambulab.com/",
+    "https://bambulab.com/ja-jp/x2d",
+    "https://jp.store.bambulab.com/collections/bambu-lab-3d-printer-filament",
+    "https://asia.store.bambulab.com/",
+    "https://bambu-lab-jp.myshopify.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bambulab manufacturing customer case study",
+   "results": [
+    "https://blog.bambulab.com/tag/case-study/",
+    "https://blog.bambulab.com/eaton-scales-industrial-manufacturing-with-bambu-labs-3d-printing-technology/",
+    "https://www.instagram.com/bambulab_official/reel/C_fbosbI87y/",
+    "https://www.linkedin.com/posts/bambulab_bambulab-3dprinter-3dprinting-activity-7237055476625018881-680V",
+    "https://www.automq.com/customers/bambulab",
+    "https://www.matterhackers.com/about/case-study-transforming-education-with-bambu-labs-3d-printing-solutions",
+    "https://bambulab.com/en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bambulab white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://bambulab.com/en/dealer",
+    "https://partner.vw.com/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://resellervendors.mysellauth.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bambulab founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/515707-03",
+    "https://indexed.vc/companies/bambu-lab",
+    "https://tracxn.com/d/companies/bambu-lab/__-SdOIQUHPzv4FOdktGfKwgwKpjDoYuFKmBPUavdLib0",
+    "https://fundup.ai/recently-funded-startups/company/uJWzCkp4QeVTAJNr03CU/bambu-lab",
+    "https://www.cbinsights.com/company/tuozhu-technology",
+    "https://tracxn.com/d/companies/bambulab/__3Phu8izBcj7rOMk5ZtLDgmSPjnjb3uxXWC-gJkdwTg4",
+    "https://www.zoominfo.com/c/bambu-lab/1327417841"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Bambulab",
+   "results": [
+    "https://note.com/kazuhide_note/n/n95e0d8622514",
+    "https://note.com/ysk1025/n/n244a918fb649",
+    "https://note.com/tokyomakers/n/n2a3189f61f84?hl=en",
+    "https://note.com/irodori_nyanko/n/n8ba657d25f59",
+    "https://note.com/central_wolf/n/n0d922181e839?hl=en",
+    "https://note.com/central_wolf/n/n0d922181e839",
+    "https://note.com/verspecia/n/n7d712454a136"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Bambulab",
+   "results": [
+    "https://x.com/BambulabJapan",
+    "https://x.com/BambulabGlobal",
+    "https://x.com/BambuLabSupport",
+    "https://x.com/BambuLabSupport/status/2113223903954849860",
+    "https://x.com/BambulabGlobal/status/2099483490127319101",
+    "https://x.com/BambulabGlobal/status/2113616566411534412",
+    "https://x.com/BambulabGlobal/status/2109630318760091661"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Bambulab",
+   "results": [
+    "https://www.linkedin.com/company/bambulab",
+    "https://www.linkedin.com/company/bambu-lab/",
+    "https://cn.linkedin.com/in/ye-tao-31769029",
+    "https://nl.linkedin.com/in/nadiayaakoubi",
+    "https://fr.linkedin.com/in/cedricmallet",
+    "https://br.linkedin.com/company/3dtouch",
+    "https://cn.linkedin.com/company/bambulab"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Bambulab",
+   "results": [
+    "https://www.facebook.com/bambulab3D/",
+    "https://www.facebook.com/groups/1155158253013188/",
+    "https://www.facebook.com/groups/bambulabofficialusers/",
+    "https://www.facebook.com/groups/bambulabx2d/",
+    "https://www.facebook.com/fb-answers/bambu-labs-us-store/",
+    "https://www.facebook.com/groups/872119518829264/",
+    "https://www.facebook.com/bambulab3D/posts/-big-newstoday-we-officially-opened-the-doors-to-our-very-first-bambu-lab-retail/792732876845766/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bambulab note 社長",
+   "results": [
+    "https://en.wikipedia.org/wiki/Bambu_Lab",
+    "https://forum.bambulab.com/t/recent-interview-of-dr-ye-tao-ceo-of-bambulab/229391",
+    "https://blog.bambulab.com/the-team-behind-bambu-lab-x1/",
+    "https://compalyze.co.jp/company/6011001153177",
+    "https://note.com/shin_walker/n/nc516180a1351",
+    "https://jp.store.bambulab.com/policy/pages/specified-commercial-transactions-act",
+    "https://blog.bambulab.com/tag/company-news/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bambulab X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

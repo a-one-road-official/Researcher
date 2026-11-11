@@ -1,0 +1,1372 @@
+{
+ "name": "Humanloop",
+ "aliases": [],
+ "context": "旧営業リスト｜B2B Infrastructure｜AUMS不適合",
+ "researched_at": "2026-11-11T04:43:14.332751+00:00",
+ "official_url": "https://humanloop.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "6. Seed Round",
+    "value": "01-Nov-2023    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "label": "5. Seed Round",
+    "value": "28-Jul-2022    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "29-Jul-2020 $163K $163K  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2020",
+    "url": "https://startupintros.com/orgs/humanloop",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "San Francisco, CA, USA",
+    "url": "https://startupintros.com/orgs/humanloop",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "From the start, our mission at Humanloop has been to enable the safe and rapid adoption of AI. Now, as the pace of AI progress accelerates, we think Anthropic is the ideal home to amplify our impact.",
+    "url": "https://humanloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We've had the privilege of working with customers who continually push the boundaries of AI adoption. We owe a huge debt of gratitude for their trust and invaluable feedback along the way. As we sunset the Humanloop platform, we will continue to work closely with our customers to make their transition as smooth as possible.",
+    "url": "https://humanloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reflecting on our journey, we're immensely proud of what we built. We were the first development platform for LLM applications and we shaped industry standards for how to manage and evaluate AI. We're excited about this next chapter, joining Anthropic to help build an AI future that benefits everyone.",
+    "url": "https://humanloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy Preference Center",
+    "url": "https://forge.coreweave.com/wandb/wandb_fc/japanese/reports/Anthropic-Humanloop-Weights-Biases--VmlldzoxNDI2MDA2MA",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://forge.coreweave.com/wandb/wandb_fc/japanese/reports/Anthropic-Humanloop-Weights-Biases--VmlldzoxNDI2MDA2MA",
+    "pass": 3
+   },
+   {
+    "quote": "Maxim AI is a Enterprise-grade platform for AI evaluation and observability. Simulate, evaluate, and observe your AI agents with Maxim. Their end-to-end evaluation and observability platform helps teams ship their …",
+    "url": "https://www.featuredcustomers.com/vendor/humanloop/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Braintrust is the enterprise-grade stack for building AI products. From evaluations, to prompt playground, to data management, they take uncertainty and tedium out of incorporating AI into your business. BrainTrust …",
+    "url": "https://www.featuredcustomers.com/vendor/humanloop/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/humanloop/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/humanloop/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/humanloop/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "unlock all of your customer references for prospects",
+    "url": "https://www.featuredcustomers.com/vendor/humanloop/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/humanloop/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop mission is to make programming so intuitive that automating tasks becomes as natural as teaching a colleague. Machine learning and AI represent a new paradigm and it requires a new approach. They're starting with tools that makes it easy to rapidly annotate data, train and deploy natural language processing (NLP) models with humans in the loop.",
+    "url": "https://www.casestudies.com/company/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "Dixa achieves 3x faster AI product delivery with Humanloop",
+    "url": "https://www.casestudies.com/company/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "Filevine achieves faster AI product launches and revenue growth with Humanloop",
+    "url": "https://www.casestudies.com/company/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "a big-4 professional services firm achieves contract understanding at scale with Humanloop",
+    "url": "https://www.casestudies.com/company/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Big Professional Services Company",
+    "url": "https://www.casestudies.com/company/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "Office Hub achieves smarter property data extraction with Humanloop",
+    "url": "https://www.casestudies.com/company/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a data labeling and model training platform designed to help deploy machine learning in business activities easily.",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a data labeling and model training platform designed to help deploy machine learning in business activities",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "quote": "Private Equity-Backed",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop’s primary industry is Software Development Applications.",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "quote": "Is Humanloop a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop is the LLM evals platform for enterprises.",
+    "url": "https://getlatka.com/companies/humanloop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Natural Language Processing (NLP) Software",
+    "url": "https://getlatka.com/companies/humanloop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/humanloop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/humanloop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop's investors include Erin Price-Wright, Albion VC, Creandum, Evening Fund, Pareto Holdings, Chris Murphy, Daniel Krauss, Gerald Parloiu, Jeppe Rindom, Nico Rosberg, Shane Curran, LocalGlobe.",
+    "url": "https://startupintros.com/orgs/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "The company evolved from automated labeling tools to a full-fledged LLM operations platform that supports prompt versioning, automatic logging, human-in-the-loop evaluation, and integration into CI/CD pipelines, reflecting a maturing focus on enterprise AI reliability and scalability[6].",
+    "url": "https://startupintros.com/orgs/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive LLM Evaluation:",
+    "url": "https://startupintros.com/orgs/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "Prompt Management and Version Control:",
+    "url": "https://startupintros.com/orgs/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "Enables collaborative prompt development with full edit tracking and rollback.",
+    "url": "https://startupintros.com/orgs/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "Supports evaluation and deployment across any LLM provider, avoiding vendor lock-in.",
+    "url": "https://startupintros.com/orgs/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "Provides detailed tracing, logging, and real-time alerts to detect issues before users do.",
+    "url": "https://startupintros.com/orgs/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Integration:",
+    "url": "https://startupintros.com/orgs/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop rides the wave of rapid AI adoption and the growing need for operationalizing LLMs safely and efficiently in production environments. As enterprises increasingly deploy generative AI products, the demand for robust evaluation, prompt engineering, and observability tools is critical to mitigate risks such as model regressions, bias, and unpredictable outputs.",
+    "url": "https://startupintros.com/orgs/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "Future trends shaping Humanloop’s journey include the increasing complexity of LLM applications, the rise of multi-model and multi-modal AI systems, and growing regulatory and ethical scrutiny requiring transparent AI evaluation. Humanloop’s foundational role in LLMOps will likely expand as enterprises demand more sophisticated tools for AI governance and continuous improvement.",
+    "url": "https://startupintros.com/orgs/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "promptloop.com/directory/what-does-humanloop-com-do",
+    "url": "https://startupintros.com/orgs/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropic、人材を獲得して企業AI基盤を強化：Humanloopチームのacqui‑hire戦略｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropic、人材を獲得して企業AI基盤を強化：Humanloopチームのacqui‑hire戦略",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354",
+    "pass": 3
+   },
+   {
+    "quote": "の創設メンバーと主要技術チームをまるごと迎え入れる「acqui‑hire（人材獲得）」が報じられました",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354",
+    "pass": 3
+   },
+   {
+    "quote": "1-1. 「acqui-hire」とは何か",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354",
+    "pass": 3
+   },
+   {
+    "quote": "これは典型的な「acqui‑hire」と呼ばれる手法であり、TechCrunchなど複数メディアでも「Humanloopのコアチームを直接取り込む」と報じられています",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354",
+    "pass": 3
+   },
+   {
+    "quote": "Brad Abrams氏（APIプロダクトリード）の言葉を借りると、「Their proven experience in AI tooling and evaluation will be invaluable as we continue to advance our work in AI safety and building useful AI systems.」（人材のAIツール開発と評価の実績は、AI安全性・有用性構築において非常に価値がある）とのことです",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354",
+    "pass": 3
+   },
+   {
+    "quote": "4-2. 人材戦略におけるacqui-hireモデルの有効性",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354",
+    "pass": 3
+   },
+   {
+    "quote": "今後、アジャイルに技術領域を拡張したい企業では、「acqui-hire」モデルが主流になり得ます",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354",
+    "pass": 3
+   },
+   {
+    "quote": "AnthropicがHumanloopの創業チームおよびコア技術陣を迎え入れた今回の「acqui-hire」は、AI市場の次のフェーズへ向けた戦略的布石です",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropic Strengthens Enterprise AI Foundation Through Talent Acquisition: The Acqui-hire Strategy of the Humanloop Team｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropic Strengthens Enterprise AI Foundation Through Talent Acquisition: The Acqui-hire Strategy of the Humanloop Team",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In recent years, with the development of generative AI and Large Language Models (LLMs), the \"mechanistic\" infrastructure—such as \"safety,\" \"evaluation,\" and \"monitoring\"—has become the key to competitiveness in enterprise AI adoption, rather than the models themselves. Amidst this trend, it has been reported that the AI startup",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "has completed an \"acqui-hire\" (talent acquisition) of the founding members and key technical team of the UK-based AI startup",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1-1. What is an \"acqui-hire\"?",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "株式会社HumanLoop｜医療・介護・予防・健康",
+    "url": "https://www.human-loop.com/",
+    "pass": 3
+   },
+   {
+    "quote": "（東京都、神奈川県は株式会社HumanNextが運営）",
+    "url": "https://www.human-loop.com/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社HumanLoopは九州エリアで訪問看護ステーション、デイサービス、パーソナルトレーニングジム、ピラティス・ヨガスタジオ、自費リハビリサービス、鍼灸治療院を運営しています",
+    "url": "https://www.human-loop.com/",
+    "pass": 3
+   },
+   {
+    "quote": "地域のために、地域とともに、株式会社HumanNext、株式会社HumanPLUS、医療法人音花会と連携し、横断的なサービスをご提供しています",
+    "url": "https://www.human-loop.com/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社HumanLoopでは、看護師・理学療法士・作業療法士・言語聴覚士などの専門職を募集しております",
+    "url": "https://www.human-loop.com/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都台東区浅草3-36-9小宮ビル1階",
+    "url": "https://human-loop.com/office.html",
+    "pass": 3
+   },
+   {
+    "quote": "| japanese – Weights & Biases",
+    "url": "https://forge.coreweave.com/wandb/wandb_fc/japanese/reports/Anthropic-Humanloop-Weights-Biases--VmlldzoxNDI2MDA2MA",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月7日(日)から8日(月)の日本時間にSNSや主要メディアで話題になった生成AIの重要なニュースを整理し、技術的な背景と実務への示唆を解説します",
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "pass": 3
+   },
+   {
+    "quote": "読者の皆さまが明日すぐ試せる設定やプロンプト、法務の注意点まで網羅し、日本市場への影響もまとめました",
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "pass": 3
+   },
+   {
+    "quote": "、日本企業が国内技術を世界に提供する好例として注目されます",
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "pass": 3
+   },
+   {
+    "quote": "【日本市場への示唆】医療や製造分野ではデータ漏えいや回線遅延が懸念されますが、オンプレミス運用が容易になることでこれらの課題が軽減される可能性があります",
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "pass": 3
+   },
+   {
+    "quote": "無償提供されたことで非開発者や教育機関でも高度な会話管理が可能となり、日本企業における生成AIの実験コストも下がるため普及が加速すると見られます",
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "pass": 3
+   },
+   {
+    "quote": "Google検索AIモードがデフォルト化へ — 日本SEO界への影響",
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "pass": 3
+   },
+   {
+    "quote": "検索行動の変化として、AI Modeがデフォルト化すると日本の検索ユーザーも従来の十本のブルーリンクではなく会話型の回答に誘導されるため、SEOや広告運用のあり方が根本的に変わります",
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "pass": 3
+   },
+   {
+    "quote": "SEO戦略として、日本語コンテンツを作成する場合にはAI Modeに引用されるために「エキスパートが書いた一次情報」と「構造化データ」の両方を整備することが重要です",
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "pass": 3
+   },
+   {
+    "quote": "国内への影響としては、日本でも著作権法30条の4（機械学習のための複製）が議論されており、今回の和解金が国際的な相場を形成する恐れがあると指摘されています",
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "pass": 3
+   },
+   {
+    "quote": "データ調達では、日本企業がモデルを開発する際に公開データだけでなく自社で購入した書籍やライセンス契約に基づいたデータを用意することが求められます",
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "pass": 3
+   },
+   {
+    "quote": "日本への示唆として、国内の漫画やアニメキャラクターも同様に不正利用される危険があり、JASRACや出版社が類似の訴訟を起こす可能性が指摘されています",
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "pass": 3
+   },
+   {
+    "quote": "政策提言として、日本政府は類似訴訟の増加に備え、生成AIによる二次創作とファンアートの線引きを明確にする法整備を進めるべきでしょう",
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場では、海外サービス終了の影響を受ける前に自社評価基盤の確立を検討することが必要です",
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "pass": 3
+   },
+   {
+    "quote": "活用領域の拡大として、音声ベースのエージェントが会話型UIとして普及し、日本でもカーナビやコールセンターの自動応答への応用が期待されます",
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "pass": 3
+   },
+   {
+    "quote": "プロンプト設計では、custom instructions prefixに「敬語を使用し、具体例を交えて説明する」など日本語の指示を設定することで音声応答の一貫性が向上します",
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社HumanLoop｜医療・介護・予防・健康 — 株式会社HumanLoopは、医療・介護・予防・健康の観点から、地域に根差したサービスをご提供しています。 訪問看護・訪問リハビリ・自費リハビリ・デイサービス・パーソナルジム・ピラティス・ヨガスタジオ・鍼灸治療院など。",
+    "url": "https://www.human-loop.com/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所一覧｜株式会社HumanLoop — 株式会社HumanLoopは、医療・介護・予防・健康の観点から、地域に根差したサービスをご提供しています。 訪問看護・訪問リハビリ・自費リハビリ・デイサービス・パーソナルジム・ピラティス・ヨガスタジオ・鍼灸治療院など。 福岡県、佐賀県、長崎県、大分県、宮崎県にて活動しています。",
+    "url": "https://human-loop.com/office.html",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop – About us — Humanloop is an enterprise-grade AI evaluation platform with best-in-class prompt management and LLM observability.",
+    "url": "https://humanloop.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "AnthropicがHumanloopを買収。代替はWeights & Biasesです。 — Humanloopのサービス終了を踏まえ、継続的なAI開発を支え、空白を埋められる有力なHumanloop代替プラットフォームを検討することが重要です。 本記事では、HumanloopがAnthropicに加わった理由と、同社が顧客向けの移行をどのように進めているかを解説します。",
+    "url": "https://forge.coreweave.com/wandb/wandb_fc/japanese/reports/Anthropic-Humanloop-Weights-Biases--VmlldzoxNDI2MDA2MA",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop joins Anthropic — We are thrilled to announce that the Humanloop team is joining Anthropic! From the start, our mission at Humanloop has been to enable the safe and rapid adoption of AI. Now, as the pace of AI progress accelerates, we think Anthropic is the ideal home to amplify our impact.",
+    "url": "https://humanloop.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop Case Studies — Explore how our leading enterprises are using Humanloop to advance their goals with AI.",
+    "url": "https://humanloop.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Check the ROI & Customer Stories of Humanloop — See how businesses are generating ROI with Humanloop. Explore real customer stories, success metrics, and business documents to evaluate its impact.",
+    "url": "https://valuehub.valuecore.ai/valuehub/organizations/humanloop/business-documents",
+    "pass": 3
+   },
+   {
+    "quote": "4 Humanloop Case Studies, Success Stories, & Customer Stories — Discover how other companies use Humanloop, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/humanloop/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop B2B Case Studies & Customer Successes — See how Humanloop solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Blastable scales customer support with Humanloop — Blastable (Computer Software) partnered with Humanloop (Information Technology and Services) to solve key challenges. \"Blastable - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/humanloop/case-study/blastable-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop 2026 Company Profile: Valuation, Investors ...Humanloop Revenue 2024: $3.8M Est. - getlatka.comHumanloop – Performance Metrics & Competitor Intelligence – 2026Humanloop: Funding, Team & Investors | Startup IntrosHumanloop - Products, Competitors, Financials, Employees ...Humanloop - Crunchbase Company Profile & FundingHumanloop - The LLM Infrastructure Company That Anthropic ... — Inform",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop Revenue 2024: $3.8M Est. - getlatka.com — Sep 2, 2026 · How many employees does Humanloop have? Humanloop had 14 employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/humanloop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop – Performance Metrics & Competitor Intelligence – 2026 — With 17 employees generating $33.4K in revenue per person, the company shows strong productivity metrics. Founded 6 years ago, Humanloop is past the early startup phase.",
+    "url": "https://compworth.com/company/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Humanloop served enterprise AI and machine learning customers, including Gusto, Vanta, and Duolingo, and operated with a team of 14 employees. The company was backed by investors such as Y Combinator (Summer 2020 batch) before its team joined Anthropic to further amplify impact on safe AI adoption.",
+    "url": "https://startupintros.com/orgs/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop - Products, Competitors, Financials, Employees ... — It primarily serves the enterprise market, enabling organizations to adopt AI safely and effectively. It was founded in 2020 and is based in Cambridge, United Kingdom.",
+    "url": "https://www.cbinsights.com/company/humanloop",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/humanloop/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by leading AI teams at Gusto, Duolingo, Vanta, and others, demonstrating real-world impact on speed, cost, and reliability[1][4][5].",
+    "url": "https://startupintros.com/orgs/humanloop",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/humanloop/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Filevine achieves faster AI product launches and revenue growth with Humanloop",
+    "url": "https://www.casestudies.com/company/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "quote": "7. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop has 18 total employees.",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "quote": "What is Humanloop’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Humanloop is",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "quote": "When was Humanloop acquired?",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop was acquired on 14-Aug-2025.",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired Humanloop?",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop was acquired by",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop Revenue 2024: $3.8M Est.",
+    "url": "https://getlatka.com/companies/humanloop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop has not published its revenue. GetLatka estimates it at about $3.8M a year (June 2024).",
+    "url": "https://getlatka.com/companies/humanloop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop CEO, founders & employees",
+    "url": "https://getlatka.com/companies/humanloop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Raza Habib founded Humanloop in 2020 and runs it as CEO. Humanloop had 14 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/humanloop.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Humanloop's revenue?",
+    "url": "https://getlatka.com/companies/humanloop.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Humanloop's revenue at about",
+    "url": "https://getlatka.com/companies/humanloop.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Humanloop have?",
+    "url": "https://getlatka.com/companies/humanloop.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/humanloop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/humanloop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/humanloop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/humanloop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropic Strengthens Enterprise AI Foundation Through Talent Acquisition: The Acqui-hire Strategy of the Humanloop Team｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropic Strengthens Enterprise AI Foundation Through Talent Acquisition: The Acqui-hire Strategy of the Humanloop Team",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "has completed an \"acqui-hire\" (talent acquisition) of the founding members and key technical team of the UK-based AI startup",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2-2. Rapid Value Injection Through Talent Acquisition",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/humanloop/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/humanloop/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Anthropic、人材を獲得して企業AI基盤を強化：Humanloopチームのacqui... Aug 14, 2025 · こうした潮流のなかで、AIスタートアップAnthropic（アンソロピック）が英国発のAIスタートアップHumanloop（ヒューマンループ）の創設メンバーと主要技術チームをまるごと迎え入れる「acqui‑hire（人材獲得）」が報じられました。",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354",
+    "pass": 3
+   },
+   {
+    "quote": "LLM時代のAIアプリ開発：HumanLoopが切り開く未来 #ycombinator Oct 3, 2025 · プロトタイピングから評価、カスタマイズまでの開発支援：HumanLoopは、プロンプトのバージョン管理、ユーザーからのフィードバックの収集、モデルの評価指標の設計など、LLMアプリ開発における主要な課題を一貫してサポートしている。",
+    "url": "https://note.com/takurot/n/n284303d2e5f8",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropic Strengthens Enterprise AI Foundation Through Talent ... Aug 14, 2025 · Anthropic has hired the three founders of Humanloop (CEO Raza Habib, CTO Peter Hayes, and CPO Jordan Burgess) along with about ten engineers and researchers. However, this is a strategic move focused solely on acquiring \"talent,\" without acquiring Humanloop's assets or intellectual property (IP).",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI 最新動向 2025年9月7〜8日の発表・論争と使い方 Sep 8, 2025 · Humanloopユーザーはサービス終了までにデータをエクスポートしてLatitudeや社内ツールに移行し、オープンソースを用いてカスタム評価パイプラインを構築するとよいでしょう。",
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Anthropic、人材を獲得して企業AI基盤を強化：Humanloopチームのacqui‑hire戦略｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropic、人材を獲得して企業AI基盤を強化：Humanloopチームのacqui‑hire戦略",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354",
+    "pass": 3
+   },
+   {
+    "quote": "SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354",
+    "pass": 3
+   },
+   {
+    "quote": "近年、生成AIや大規模言語モデル（LLM）の発展に伴い、企業向けAI導入の現場では、モデルそのものよりも「安全性」「評価」「監視」といった“仕組み”的インフラが競争力の要となっています。こうした潮流のなかで、AIスタートアップ",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354",
+    "pass": 3
+   },
+   {
+    "quote": "の創設メンバーと主要技術チームをまるごと迎え入れる「acqui‑hire（人材獲得）」が報じられました。本記事では、この戦略的動きを背景として分析し、その意義や業界へのインパクトを解説します。",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354",
+    "pass": 3
+   },
+   {
+    "quote": "1. アンソロピックがヒューマンループのコアチームを迎え入れた背景と全体像",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354",
+    "pass": 3
+   },
+   {
+    "quote": "1-1. 「acqui-hire」とは何か",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354",
+    "pass": 3
+   },
+   {
+    "quote": "の創業者3名（CEO Raza Habib、CTO Peter Hayes、CPO Jordan Burgess）と、約10名前後のエンジニアや研究者を採用しました。ただし、Humanloopの資産や知的財産（IP）は取得せず、あくまで“人材”の獲得に主眼を置いた戦略的動きです。これは典型的な「acqui‑hire」と呼ばれる手法であり、TechCrunchなど複数メディアでも「Humanloopのコアチームを直接取り込む」と報じられています。",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354",
+    "pass": 3
+   },
+   {
+    "quote": "LLM時代のAIアプリ開発：HumanLoopが切り開く未来 #ycombinator｜takurot",
+    "url": "https://note.com/takurot/n/n284303d2e5f8",
+    "pass": 3
+   },
+   {
+    "quote": "LLM時代のAIアプリ開発：HumanLoopが切り開く未来 #ycombinator",
+    "url": "https://note.com/takurot/n/n284303d2e5f8",
+    "pass": 3
+   },
+   {
+    "quote": "：GPT-3以降、LLMの性能は飛躍的に向上し、文章生成だけでなく、コード作成や会話など多様なタスクをこなせるように。これは単なる統計モデルから、世界知識や推論能力を備えた知的エージェントへと進化していることを意味する。",
+    "url": "https://note.com/takurot/n/n284303d2e5f8",
+    "pass": 3
+   },
+   {
+    "quote": "：既存のLLMをそのまま使うだけでは、他との差別化が難しい。HumanLoopは、企業や開発者が自社のトーンやデータに合わせてモデルを微調整（ファインチューニング）し、独自性を持つアプリケーションを構築する支援を行っている。",
+    "url": "https://note.com/takurot/n/n284303d2e5f8",
+    "pass": 3
+   },
+   {
+    "quote": "：LLMは時に、もっともらしく誤った情報を生成することがある。HumanLoopは、事実ベースの文脈をプロンプトに組み込むことで、こうした誤りの発生を抑える技術を提供している。",
+    "url": "https://note.com/takurot/n/n284303d2e5f8",
+    "pass": 3
+   },
+   {
+    "quote": "プロトタイピングから評価、カスタマイズまでの開発支援",
+    "url": "https://note.com/takurot/n/n284303d2e5f8",
+    "pass": 3
+   },
+   {
+    "quote": "：HumanLoopは、プロンプトのバージョン管理、ユーザーからのフィードバックの収集、モデルの評価指標の設計など、LLMアプリ開発における主要な課題を一貫してサポートしている。",
+    "url": "https://note.com/takurot/n/n284303d2e5f8",
+    "pass": 3
+   },
+   {
+    "quote": "：短期的には開発を加速し、長期的には開発者が「設計者」や「プロダクトマネージャー」のような役割にシフトする可能性がある。GitHub Copilotの例のように、既に多くの開発者がコード補完を通じてLLMの恩恵を受けている。",
+    "url": "https://note.com/takurot/n/n284303d2e5f8",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropic Strengthens Enterprise AI Foundation Through Talent Acquisition: The Acqui-hire Strategy of the Humanloop Team｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropic Strengthens Enterprise AI Foundation Through Talent Acquisition: The Acqui-hire Strategy of the Humanloop Team",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In recent years, with the development of generative AI and Large Language Models (LLMs), the \"mechanistic\" infrastructure—such as \"safety,\" \"evaluation,\" and \"monitoring\"—has become the key to competitiveness in enterprise AI adoption, rather than the models themselves. Amidst this trend, it has been reported that the AI startup",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "has completed an \"acqui-hire\" (talent acquisition) of the founding members and key technical team of the UK-based AI startup",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". This article analyzes the background of this strategic move and explains its significance and impact on the industry.",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. Background and Overview of Anthropic Welcoming the Humanloop Core Team",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1-1. What is an \"acqui-hire\"?",
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI 最新動向 2025年9月7〜8日の発表・論争と使い方｜AIリテラシー通信｜初心者にもわかる解説",
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI 最新動向 2025年9月7〜8日の発表・論争と使い方",
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月7日(日)から8日(月)の日本時間にSNSや主要メディアで話題になった生成AIの重要なニュースを整理し、技術的な背景と実務への示唆を解説します。読者の皆さまが明日すぐ試せる設定やプロンプト、法務の注意点まで網羅し、日本市場への影響もまとめました。",
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "pass": 3
+   },
+   {
+    "quote": "富士通が1ビット量子化と脳型蒸留でタカネLLMを94%軽量化し、推論速度を3倍に向上させました",
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "pass": 3
+   },
+   {
+    "quote": "。小型モデルを単一GPUで実行でき、近く量子化済みモデルを無償提供する予定です",
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクト機能が全利用者に無料開放され、会話を分岐する「Branch in new chat」ボタンが追加されました",
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "pass": 3
+   },
+   {
+    "quote": "。独立したメモリを持つチャット空間を複数作成できます。",
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "pass": 3
+   },
+   {
+    "quote": "GoogleのAIモードが近くデフォルト検索になる可能性が高まり、Xでは「soon :)」と予告されました",
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Humanloop (@humanloop) / X Humanloop is the LLM evals platform for enterprises. Trusted by Gusto, Vanta and Duolingo to ship reliable AI products.",
+    "url": "https://x.com/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop, a UK startup co-founded by Irishman Peter Hayes ... Humanloop, a UK startup co-founded by Irishman Peter Hayes, is winding down its platform after its three co-founders and some senior executives were hired by OpenAI rival Anthropic amid an increasingly competitive AI sector",
+    "url": "https://x.com/businessposthq/status/1955675898973130954",
+    "pass": 3
+   },
+   {
+    "quote": "@Gaze_Money @remixdesigner 这是 Harry X.，Humanloop 的软件工程师... 这是 Harry X.，Humanloop 的软件工程师（伦敦，Imperial College London 背景）。 他的领英主页用了这张睡着的照片，今天被刷爆了😂 就是图里这位哥们。 💬 1",
+    "url": "https://x.com/grok/status/2045126260062322688",
+    "pass": 3
+   },
+   {
+    "quote": "Raza Habib (@RazRazcle) / X We're thrilled to announce that the Humanloop team is joining @AnthropicAI! Our mission has always been to enable the rapid and safe adoption of AI. Now, as AI progress accelerates, we think Anthropic is the ideal home to continue this work.",
+    "url": "https://x.com/razrazcle",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop (@humanloop) / X We're thrilled to announce that the Humanloop team is joining @AnthropicAI! Our mission has always been to enable the rapid and safe adoption of AI. Now, as AI progress accelerates, we think Anthropic is the ideal home to continue this work.",
+    "url": "https://x.com/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "humanloopml (@humanloopml) / Posts / X Mar 23, 2022 · humanloopml (@humanloopml) - Posts - We're now @humanloop | X (formerly Twitter)",
+    "url": "https://x.com/HumanloopML",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Humanloop - LinkedIn Teams at Gusto, Vanta and Duolingo use Humanloop to ship reliable AI products. We enable you to adopt best practices for prompt management, evaluation and observability.",
+    "url": "https://www.linkedin.com/company/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop - LinkedIn Most owners know what needs to happen. They just don't have the time or the people. HumanLoop works with founders, business owners, and leaders who are short on time, people, or specialized...",
+    "url": "https://www.linkedin.com/company/byhumanloop",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop | LinkedIn About us Humanloop is the LLM evals platform for enterprises. Teams at Gusto, Vanta and Duolingo use Humanloop to ship reliable AI products. We enable you to adopt best practices for prompt...",
+    "url": "https://in.linkedin.com/company/humanloop",
+    "pass": 3
+   },
+   {
+    "quote": "Shloak Pacheriwala - CEO @Humanloops | Collecting Petabytes ...Raza Habib - Anthropic | LinkedInhumanloop Project Management - LinkedInWakar Khan - Humanloop | LinkedIn CEO @Humanloops | Collecting Petabytes of Data & Annotation Services | · I'm 21. I've been building businesses since I was a teenager. My first real company was Bharat Growth Agency, I started it at peak of Crypto — a creative and ",
+    "url": "https://in.linkedin.com/in/shloak-pacheriwala",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Humanloop.cc - Facebook Jan 29, 2026 · Humanloop.cc. 9,669 followers. Humanloop 好物連線會社，專營來自日本、韓國等地的流行生活好物與美妝保養品。 透過 Facebook 直播＋社群銷售，幫你把最新、最有話題、真的好用的產品，直接帶進日常生活。 在這裡，你會看到： ・實際開箱、試用分享，不只是念規格...",
+    "url": "https://www.facebook.com/p/Humanloopcc-61567490764194/",
+    "pass": 3
+   },
+   {
+    "quote": "Humanloop.cc - Facebook Jan 29, 2026 · Humanloop.cc. 9,694 likes · 1 talking about this. Humanloop 好物連線會社，專營來自日本、韓國等地的流行生活好物與美妝保養品。 透過 Facebook 直播＋社群銷售，幫你把最新、最有話題、真的好用的產品，直接帶進日常生活。 在這裡，你會看到：...",
+    "url": "https://www.facebook.com/61567490764194/",
+    "pass": 3
+   },
+   {
+    "quote": "The Rundown - Anthropic has acquired Humanloop, an AI ... Aug 13, 2025 · Anthropic has acquired Humanloop, an AI startup founded in 2020 that developed one of the first platforms for building and evaluating large language model (LLM) applications. Humanloop’s tools were designed to help organizations adopt AI safely and efficiently.",
+    "url": "https://www.facebook.com/rundownnewsletter/posts/anthropic-has-acquired-humanloop-an-ai-startup-founded-in-2020-that-developed-on/639035669218222/",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは デイサービスRe+moveです！ 今年、株式会社HumanLoop ... Oct 6, 2026 · こんにちは🙇 デイサービスRe+moveです！ 今年、株式会社HumanLoop 創立30周年㊗️を迎えました！ 記念すべき時に立ち会えた事、凄く嬉しく思います😊 南九州事業所（宮崎、都城、門川、延岡）のスタッフと 交流も行いました！",
+    "url": "https://www.facebook.com/loop.remove/videos/こんにちはデイサービスremoveです今年株式会社humanloop-創立30周年️を迎えました記念すべき時に立ち会えた事凄く嬉しく思います南九州事業所宮崎都城/1721144283353497/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://humanloop.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://rikai.technology/blogs/https-www-rikai-technology-hitl-ai-human-in-the-loop-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hondana1.jp/%E4%BA%BA%E9%96%93%E4%B8%AD%E5%BF%83%E3%81%AEai%E8%A8%AD%E8%A8%88%EF%BC%88human-in-the-loop%EF%BC%89%E3%81%AE%E5%B0%8E%E5%85%A5%E6%96%B9%E6%B3%95/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global-ai.jp/20260503-aihuman-in-the-loop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/GeneLab_999/items/18b871f4decf7df6f054",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redhat.com/ja/explore/information/corporate-profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://houjin-data.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.human-loop.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://human-loop.com/office.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forge.coreweave.com/wandb/wandb_fc/japanese/reports/Anthropic-Humanloop-Weights-Biases--VmlldzoxNDI2MDA2MA",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://valuehub.valuecore.ai/valuehub/organizations/humanloop/business-documents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/humanloop/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/humanloop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/438125-14",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/humanloop.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/humanloop",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/humanloop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/takurot/n/n284303d2e5f8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/startup_now0708/n/n4d92087ba354?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/humanloop",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/businessposthq/status/1955675898973130954",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/grok/status/2045126260062322688",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/razrazcle",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/humanloop",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/byhumanloop",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/humanloop",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/shloak-pacheriwala",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Humanloopcc-61567490764194/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61567490764194/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rundownnewsletter/posts/anthropic-has-acquired-humanloop-an-ai-startup-founded-in-2020-that-developed-on/639035669218222/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/loop.remove/videos/こんにちはデイサービスremoveです今年株式会社humanloop-創立30周年️を迎えました記念すべき時に立ち会えた事凄く嬉しく思います南九州事業所宮崎都城/1721144283353497/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/humanloop",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HumanloopML",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Humanloop 日本 導入",
+   "results": [
+    "https://rikai.technology/blogs/https-www-rikai-technology-hitl-ai-human-in-the-loop-2026/",
+    "https://hondana1.jp/人間中心のai設計（human-in-the-loop）の導入方法/",
+    "https://global-ai.jp/20260503-aihuman-in-the-loop/",
+    "https://qiita.com/GeneLab_999/items/18b871f4decf7df6f054",
+    "https://www.issoh.co.jp/tech/details/11415/",
+    "https://www.members.co.jp/column/20250528-hitl-method",
+    "https://note.com/rikaitechnology/n/n79b2dd2c181b"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Humanloop 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.redhat.com/ja/explore/information/corporate-profile",
+    "https://houjin-data.com/",
+    "https://www.chs.jp/",
+    "https://www.humo.co.jp/",
+    "https://www.ipsen.com/japan/会社/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Humanloop Japan",
+   "results": [
+    "https://www.human-loop.com/",
+    "https://human-loop.com/office.html",
+    "https://humanloop.com/about",
+    "https://forge.coreweave.com/wandb/wandb_fc/japanese/reports/Anthropic-Humanloop-Weights-Biases--VmlldzoxNDI2MDA2MA",
+    "https://humanloop.com/",
+    "https://forge.coreweave.com/wandb/wandb_fc/japanese/reports/Humanloop-Weights-Biases---VmlldzoxNDI3MzE4OA",
+    "https://withhumanloopai.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Humanloop manufacturing customer case study",
+   "results": [
+    "https://humanloop.com/case-studies",
+    "https://valuehub.valuecore.ai/valuehub/organizations/humanloop/business-documents",
+    "https://www.featuredcustomers.com/vendor/humanloop/case-studies",
+    "https://www.casestudies.com/company/humanloop",
+    "https://www.casestudies.com/company/humanloop/case-study/blastable-customer-case-study",
+    "https://vikramdesign.com/humanloop.html",
+    "https://www.zenml.io/llmops-database/llmops-best-practices-and-success-patterns-across-multiple-companies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Humanloop white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.namesilo.com/reseller"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Humanloop founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/438125-14",
+    "https://getlatka.com/companies/humanloop.com",
+    "https://compworth.com/company/humanloop",
+    "https://startupintros.com/orgs/humanloop",
+    "https://www.cbinsights.com/company/humanloop",
+    "https://www.crunchbase.com/organization/humanloop",
+    "https://yespress.io/humanloop"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Humanloop",
+   "results": [
+    "https://note.com/startup_now0708/n/n4d92087ba354",
+    "https://note.com/takurot/n/n284303d2e5f8",
+    "https://note.com/startup_now0708/n/n4d92087ba354?hl=en",
+    "https://note.com/alert_azalea7339/n/n5fd4fa7b4deb",
+    "https://note.com/timakin/n/nd812eb702425",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/joat/n/n6366f5334dbc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Humanloop",
+   "results": [
+    "https://x.com/humanloop",
+    "https://x.com/businessposthq/status/1955675898973130954",
+    "https://x.com/grok/status/2045126260062322688",
+    "https://x.com/razrazcle",
+    "https://x.com/maikokji",
+    "https://x.com/himanshustwts/status/2056461577092739419",
+    "https://x.com/DeRonin_/status/2046903404279009472"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Humanloop",
+   "results": [
+    "https://www.linkedin.com/company/humanloop",
+    "https://www.linkedin.com/company/byhumanloop",
+    "https://in.linkedin.com/company/humanloop",
+    "https://in.linkedin.com/in/shloak-pacheriwala",
+    "https://www.linkedin.com/in/humanloop-raza",
+    "https://www.linkedin.com/company/humanloop-project-management",
+    "https://www.linkedin.com/in/wakarkhan"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Humanloop",
+   "results": [
+    "https://www.facebook.com/p/Humanloopcc-61567490764194/",
+    "https://www.facebook.com/61567490764194/",
+    "https://www.facebook.com/rundownnewsletter/posts/anthropic-has-acquired-humanloop-an-ai-startup-founded-in-2020-that-developed-on/639035669218222/",
+    "https://www.facebook.com/loop.remove/videos/こんにちはデイサービスremoveです今年株式会社humanloop-創立30周年️を迎えました記念すべき時に立ち会えた事凄く嬉しく思います南九州事業所宮崎都城/1721144283353497/",
+    "https://www.facebook.com/reel/1468308211186483/",
+    "https://www.facebook.com/p/Human-Loop-61594538915164/",
+    "https://www.facebook.com/businessposthq/posts/for-peter-hayes-co-founder-of-ai-startup-humanloop-the-answer-lies-in-impactand-/1412003403662570/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Humanloop note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.human-loop.com/",
+    "https://www.human-loop.com/about-us.html",
+    "https://openbizgraph.com/detail/353270",
+    "https://human-group.life/corporation/",
+    "https://hhn-tomo.life/about_us/company.html",
+    "https://www.linkedin.com/in/humanloop-raza"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Humanloop X 投稿",
+   "results": [
+    "https://x.com/humanloop",
+    "https://x.com/HumanloopML",
+    "https://humanloop.com/",
+    "https://www.human-loop.com/",
+    "https://humanloopai.app/",
+    "https://news.livedoor.com/article/detail/32710275/",
+    "https://www.youtube.com/watch?v=78rKUXYWfcg"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索12回）"
+ }
+}

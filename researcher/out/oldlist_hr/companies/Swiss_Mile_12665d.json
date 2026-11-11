@@ -1,0 +1,690 @@
+{
+ "name": "Swiss-Mile",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜日本進出済",
+ "researched_at": "2026-11-11T04:05:11.793263+00:00",
+ "official_url": "https://www.rivr.new/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "日本の担い手": [
+   {
+    "quote": "タイムラインを合わせる日本、次に必要なものは [相良静造のUnmanned World] Vol.14",
+    "url": "https://drone.jp/news/2021121314312349781.html",
+    "pass": 3
+   },
+   {
+    "quote": "DRONE.jp（https://drone.jp/、以下本サイト）は、ドローンやマルチコプターについての本格的な解説やおすすめ、最新情報を発信する日本初のメディアとして、「Explore the Future」をタグラインに2015年スタートしました",
+    "url": "https://drone.jp/news/2021121314312349781.html",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "Microprocessors / SoCs",
+    "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "pass": 3
+   },
+   {
+    "quote": ", including a senior product manager. RIVR has been filling a number of leadership positions over the past year, including hiring Razwan Ghafoor as head of product and Ben Simmen as head of revenue in the middle of 2024.",
+    "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "pass": 3
+   },
+   {
+    "quote": "Marko Bjelonic, co-founder and CEO of Swiss-Mile, said he is looking forward to being more involved in operations and production. Bringing in experienced people will enable him to focus more on growing the business, Bjelonic said.",
+    "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding precedes field tests",
+    "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "pass": 3
+   },
+   {
+    "quote": "“It was time for an evolution of our brand,” said Bjeonic. “We’ve found product-market fit and are actively working with major players in the logistics sector.”",
+    "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "pass": 3
+   },
+   {
+    "quote": "Do you plan selling your products into Taiwan?",
+    "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how your comment data is processed.",
+    "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "pass": 3
+   },
+   {
+    "quote": "Why predictive maintenance matters more as factories add robots",
+    "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "pass": 3
+   },
+   {
+    "quote": "Get the latest info on technologies, tools and strategies for Robotics Professionals.",
+    "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "pass": 3
+   },
+   {
+    "quote": "WorldOracle Tests Whether World Models Can Reliably Predict Real-World Executions",
+    "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "pass": 3
+   },
+   {
+    "quote": "Jeff Bezos leads robot maker Swiss-Mile to $100m valuation",
+    "url": "https://finance.yahoo.com/news/jeff-bezos-leads-robot-maker-171510887.html",
+    "pass": 3
+   },
+   {
+    "quote": "Swiss company Armada Investment, the sole European investor, and existing shareholder Linear Capital also took part in the funding, according to sources that have declined to be identified due to the financial information being private.",
+    "url": "https://finance.yahoo.com/news/jeff-bezos-leads-robot-maker-171510887.html",
+    "pass": 3
+   },
+   {
+    "quote": "The company website states: \"Mobile robots have vast potential, but many lack the ability to effectively navigate obstacles, move over large distances, and carry significant loads.",
+    "url": "https://finance.yahoo.com/news/jeff-bezos-leads-robot-maker-171510887.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"Moreover, their reasoning capabilities often limit widespread adoption. Therefore, we introduce AI-driven wheeled-legged robots to bridge this gap.\"",
+    "url": "https://finance.yahoo.com/news/jeff-bezos-leads-robot-maker-171510887.html",
+    "pass": 3
+   },
+   {
+    "quote": "Incorporated in April 2023, the company says it aims to relieve humans of strenuous and tedious tasks.",
+    "url": "https://finance.yahoo.com/news/jeff-bezos-leads-robot-maker-171510887.html",
+    "pass": 3
+   },
+   {
+    "quote": "Swiss-Mile's robots work with neural networks, an AI-powered way of teaching computers to process data like the human brain.",
+    "url": "https://finance.yahoo.com/news/jeff-bezos-leads-robot-maker-171510887.html",
+    "pass": 3
+   },
+   {
+    "quote": "Its prototypes can navigate city traffic, avoid obstacles and climb steps.",
+    "url": "https://finance.yahoo.com/news/jeff-bezos-leads-robot-maker-171510887.html",
+    "pass": 3
+   },
+   {
+    "quote": "Other robotic advancements include Vancouver-based Sanctuary AI developing a humanoid robot called Phoenix and Tesla's Optimus robot, with Elon Musk calling it one of his most important projects.",
+    "url": "https://finance.yahoo.com/news/jeff-bezos-leads-robot-maker-171510887.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"Jeff Bezos leads robot maker Swiss-Mile to $100m valuation\" was originally created and published by",
+    "url": "https://finance.yahoo.com/news/jeff-bezos-leads-robot-maker-171510887.html",
+    "pass": 3
+   },
+   {
+    "quote": "was founded in April 2023 by",
+    "url": "https://www.startupticker.ch/en/news/swiss-mile-launches-a-new-breed-of-robots-powered-by-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Currently, Swiss-Miles is in the proof-of-concept and pilot installations stage, and it has attracted paying customers from Asia, the Middle East and Europe. Discussions with potential other customers are ongoing. Building on the successful early pilot deployments and trust from customers, the startup is now set for the official commercialisation of its AI deployed on wheeled-legged robots.",
+    "url": "https://www.startupticker.ch/en/news/swiss-mile-launches-a-new-breed-of-robots-powered-by-ai",
+    "pass": 3
+   },
+   {
+    "quote": "In addition to early revenue from pilot projects, Swiss-Mile closed a financing round of 3.5 million USD from investors including",
+    "url": "https://www.startupticker.ch/en/news/swiss-mile-launches-a-new-breed-of-robots-powered-by-ai",
+    "pass": 3
+   },
+   {
+    "quote": ". The funds will primarily be used to expand the team from the current 10 to 20 members by the end of the year. Additionally, the money will be used to enhance customer value by improving product offerings.",
+    "url": "https://www.startupticker.ch/en/news/swiss-mile-launches-a-new-breed-of-robots-powered-by-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Company profiles on startup.ch",
+    "url": "https://www.startupticker.ch/en/news/swiss-mile-launches-a-new-breed-of-robots-powered-by-ai",
+    "pass": 3
+   },
+   {
+    "quote": "The H1 2026 update analyses investment in Swiss start-ups during the first six months and provides an insight into the sentiment amongst VC investors. You can download the 16-page PDF from",
+    "url": "https://www.startupticker.ch/en/news/swiss-mile-launches-a-new-breed-of-robots-powered-by-ai",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Automated Warehouse Research Reports",
+    "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "pass": 3
+   },
+   {
+    "quote": "Why predictive maintenance matters more as factories add robots",
+    "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "pass": 3
+   },
+   {
+    "quote": "Investors include Amazon Industrial Innovation Fund, Bezos Expeditions and HongShan, which was formerly Sequoia Capital China.",
+    "url": "https://finance.yahoo.com/news/jeff-bezos-leads-robot-maker-171510887.html",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon also has bots from Agility Robotics in testing at one of its warehouses after backing the company in 2022.",
+    "url": "https://finance.yahoo.com/news/jeff-bezos-leads-robot-maker-171510887.html",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Swiss-Mile rebrands to RIVR, continues developing wheeled quadrupeds - The Robot Report",
+    "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "pass": 3
+   },
+   {
+    "quote": "Swiss-Mile rebrands to RIVR, continues developing wheeled quadrupeds",
+    "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "pass": 3
+   },
+   {
+    "quote": "Swiss-Mile, which is designing and building quadrupeds and enabling them with embodied AI, has rebranded to a new name: RIVR.",
+    "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "pass": 3
+   },
+   {
+    "quote": "Rebranding precedes field tests",
+    "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "pass": 3
+   },
+   {
+    "quote": "The decision to rebrand a company is never an easy one. The announcement followed Swiss-Mile’s successful",
+    "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Mergers & Acquisitions",
+    "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "pass": 3
+   },
+   {
+    "quote": ", including a senior product manager. RIVR has been filling a number of leadership positions over the past year, including hiring Razwan Ghafoor as head of product and Ben Simmen as head of revenue in the middle of 2024.",
+    "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "pass": 3
+   },
+   {
+    "quote": "“Working with major logistics carriers to deploy our robots for last-mile delivery marks a significant milestone in our mission to transform the space,” stated Bjelonic.",
+    "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "pass": 3
+   },
+   {
+    "quote": "The company website states: \"Mobile robots have vast potential, but many lack the ability to effectively navigate obstacles, move over large distances, and carry significant loads.",
+    "url": "https://finance.yahoo.com/news/jeff-bezos-leads-robot-maker-171510887.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Zurich-based organisation developed the autonomous wheeled-legged Robotic Mule and Robotic Watchdog, which are specialised robots designed for carrying and monitoring.",
+    "url": "https://finance.yahoo.com/news/jeff-bezos-leads-robot-maker-171510887.html",
+    "pass": 3
+   },
+   {
+    "quote": "In addition to early revenue from pilot projects, Swiss-Mile closed a financing round of 3.5 million USD from investors including",
+    "url": "https://www.startupticker.ch/en/news/swiss-mile-launches-a-new-breed-of-robots-powered-by-ai",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Swiss - Mile rebrands to RIVR, continues developing wheeled ... — Swiss - Mile rebrands to RIVR, continues developing wheeled ... The Robot Report https://www.therobotreport.com > swi...",
+    "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "pass": 3
+   },
+   {
+    "quote": "Swiss - Mile Robot Reveal | RIVR | 39 comments - LinkedIn — Swiss - Mile Robot Reveal | RIVR | 39 comments - LinkedIn LinkedIn https://www.linkedin.com > posts > rivr-technologies_swis...",
+    "url": "https://www.linkedin.com/posts/rivr-technologies_swiss-mile-robot-reveal-activity-7153832374860939264-dlor",
+    "pass": 3
+   },
+   {
+    "quote": "Swiss - Mile launches a new breed of robots powered by AI — Swiss - Mile launches a new breed of robots powered by AI Startupticker.ch https://www.startupticker.ch > news",
+    "url": "https://www.startupticker.ch/en/news/swiss-mile-launches-a-new-breed-of-robots-powered-by-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Jeff Bezos leads robot maker Swiss - Mile to $100m valuation — Jeff Bezos leads robot maker Swiss - Mile to $100m valuation Yahoo Finance https://finance.yahoo.com > news > je...",
+    "url": "https://finance.yahoo.com/news/jeff-bezos-leads-robot-maker-171510887.html",
+    "pass": 3
+   },
+   {
+    "quote": "Swiss - Mile , a Zurich-based developer of AI-powered industrial ... — Swiss - Mile , a Zurich-based developer of AI-powered industrial ... Instagram https://www.instagram.com > ...",
+    "url": "https://www.instagram.com/p/C_Q2KoRP9bB/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Swiss - Mile Robot Reveal | RIVR | 39 comments - LinkedIn Swiss - Mile Robot Reveal | RIVR | 39 comments - LinkedIn LinkedIn https://www.linkedin.com > posts > rivr-technologies_swis...",
+    "url": "https://www.linkedin.com/posts/rivr-technologies_swiss-mile-robot-reveal-activity-7153832374860939264-dlor",
+    "pass": 3
+   },
+   {
+    "quote": "Swiss - Mile Robot vs. Employees | RIVR | 25 comments Swiss - Mile Robot vs. Employees | RIVR | 25 comments LinkedIn https://www.linkedin.com > posts > rivr-technologies_swis...",
+    "url": "https://www.linkedin.com/posts/rivr-technologies_swiss-mile-robot-vs-employees-activity-7252710606472888322-86xE",
+    "pass": 3
+   },
+   {
+    "quote": "Franziska Bossart - Swiss - Mile - LinkedIn Franziska Bossart - Swiss - Mile - LinkedIn LinkedIn https://www.linkedin.com > posts > fr...",
+    "url": "https://www.linkedin.com/posts/franziska-bossart-b3799153_swiss-mile-activity-7235301745973731328-DvNX",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.rivr.new/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://drone.jp/news/2021121314312349781.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.swiss.com/ch/ja/homepage",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachi.com/ja-jp/press/articles/2025/12/1218a/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://standard-made.jp/brands-list/thousand-mile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.united.com/ja/jp/fly/mileageplus/partners/earn-miles-on-swiss-international-airlines.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "http://swiss-inc.net/flow/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.swissport.com/jp/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.swiss.com/ee/en/book-and-manage/offers/miles-and-more",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://drone.jp/news/2021121314312349781.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ana.co.jp/en/jp/amc/flightmile/tk/lx/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.united.com/ja/jp/fly/mileageplus/partners/earn-miles-on-swiss-international-airlines.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/rivr-technologies_swiss-mile-robot-reveal-activity-7153832374860939264-dlor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.anylogic.com/resources/articles/a-comprehensive-case-study-in-last-mile-delivery-concepts-for-parcel-robots/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rivr.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rivr.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/rivr-technologies_swiss-mile-robot-reveal-activity-7153832374860939264-dlor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/news/jeff-bezos-leads-robot-maker-171510887.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.startupticker.ch/en/news/swiss-mile-launches-a-new-breed-of-robots-powered-by-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/p/C_Q2KoRP9bB/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/rivr-technologies_swiss-mile-robot-reveal-activity-7153832374860939264-dlor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/rivr-technologies_swiss-mile-robot-vs-employees-activity-7252710606472888322-86xE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/franziska-bossart-b3799153_swiss-mile-activity-7235301745973731328-DvNX",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/rivr-technologies_swiss-mile-robot-reveal-activity-7153832374860939264-dlor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/rivr-technologies_swiss-mile-robot-reveal-activity-7153832374860939264-dlor",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Swiss-Mile 日本 導入",
+   "results": [
+    "https://drone.jp/news/2021121314312349781.html",
+    "https://www.swiss.com/ch/ja/homepage",
+    "https://www.stellantis.jp/",
+    "https://www.hitachi.com/ja-jp/press/articles/2025/12/1218a/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.partenza.co.jp/notes/swiss%E3%80%81%E6%97%A5%E6%9C%AC%E8%B7%AF%E7%B7%9A%E3%81%AB%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%82%A8%E3%82%B3%E3%83%8E%E3%83%9F%E3%83%BC%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%92%E5%B0%8E/",
+    "https://www.singaporeair.com/jp/ja/plan-travel/destinations/flights-from-japan-to-switzerland/",
+    "https://www.youtube.com/watch?v=CNeTCjZA4ZY&vl=ja",
+    "https://humanoidrobot-world.com/quadruped/rivr-one.html",
+    "https://www.swiss.com/jp/ja/customer-support/faq/payment-options/cash-and-miles"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Swiss-Mile 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://standard-made.jp/brands-list/thousand-mile",
+    "https://www.united.com/ja/jp/fly/mileageplus/partners/earn-miles-on-swiss-international-airlines.html",
+    "http://swiss-inc.net/flow/",
+    "https://www.swissport.com/jp/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+    "https://www.swiss.com/ch/ja/customer-support/contact-us",
+    "https://www.swissre.com/japan/",
+    "https://www.turkishairlines.com/ja-int/miles-and-smiles/program-partners/airlines/swiss-international-airlines/",
+    "https://www.aa.com/web/i18n/customer-service/contact-american/reservations-and-ticket-changes.html?locale=ja_JP&utm_source=chatgpt.com",
+    "https://greenmile.jp/index.php",
+    "https://www.smith-nephew.com/ja-JP/contact-us/CompanyInfo"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Swiss-Mile Japan",
+   "results": [
+    "https://www.swiss.com/ee/en/book-and-manage/offers/miles-and-more",
+    "https://drone.jp/news/2021121314312349781.html",
+    "https://www.ana.co.jp/en/jp/amc/flightmile/tk/lx/",
+    "https://www.united.com/ja/jp/fly/mileageplus/partners/earn-miles-on-swiss-international-airlines.html",
+    "https://www.miles-and-more.com/row/en/program/partners/swiss-international-air-lines.html",
+    "https://globalshopping.mileageplus.com/jp/travel/swiss-international-air-lines",
+    "https://www.swiss-as.com/news/swiss-opens-new-office-japan",
+    "https://www.instagram.com/reel/DYgxkqruLeL/",
+    "https://vitality.swiss/en",
+    "https://www.instagram.com/p/C7ybcPrSE4p/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Swiss-Mile manufacturing customer case study",
+   "results": [
+    "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "https://www.linkedin.com/posts/rivr-technologies_swiss-mile-robot-reveal-activity-7153832374860939264-dlor",
+    "https://www.anylogic.com/resources/articles/a-comprehensive-case-study-in-last-mile-delivery-concepts-for-parcel-robots/",
+    "https://www.rivr.ai/",
+    "https://www.startupticker.ch/en/news/swiss-mile-launches-a-new-breed-of-robots-powered-by-ai",
+    "https://www.facebook.com/WevolverApp/videos/within-the-robotics-systems-lab-at-eth-z%C3%BCrich-the-past-six-years-have-been-dedic/1059398042384913/",
+    "https://www.facebook.com/techinsider/posts/the-swiss-mile-robot-is-a-humanoid-with-capabilities-ranging-from-becoming-the-m/2594702870728053/",
+    "https://www.rittal.com/us-en_US/Solutions/Case-studies",
+    "https://www.crunchbase.com/organization/swiss-mile",
+    "https://www.youtube.com/watch?v=i0GZuP7GuCg"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Swiss-Mile white label OR reseller OR partner program",
+   "results": [
+    "https://www.rivr.ai/",
+    "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "https://www.linkedin.com/posts/rivr-technologies_swiss-mile-robot-reveal-activity-7153832374860939264-dlor",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.mastercard.com/europe/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://www.facebook.com/techinsider/posts/the-swiss-mile-robot-is-a-humanoid-with-capabilities-ranging-from-becoming-the-m/2594702870728053/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.startupticker.ch/en/news/swiss-mile-launches-a-new-breed-of-robots-powered-by-ai",
+    "https://www.youtube.com/watch?v=u-F-WUDr2Wk",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 23
+  },
+  {
+   "query": "Swiss-Mile founded funding employees revenue",
+   "results": [
+    "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+    "https://finance.yahoo.com/news/jeff-bezos-leads-robot-maker-171510887.html",
+    "https://www.startupticker.ch/en/news/swiss-mile-launches-a-new-breed-of-robots-powered-by-ai",
+    "https://www.instagram.com/p/C_Q2KoRP9bB/",
+    "https://www.crunchbase.com/organization/swiss-mile",
+    "https://www.linkedin.com/posts/rivr-technologies_swiss-mile-robot-vs-employees-activity-7252710606472888322-86xE",
+    "https://www.linkedin.com/posts/rickyjacob_rivrrobotics-swissmile-robotics-activity-7364543950717710336-Ooua",
+    "https://www.s-ge.com/invest/en/articles/news/amazon-and-jeff-bezos-invest-swiss-mile",
+    "https://ziegler.substack.com/p/ep51-robot-that-runs-faster-than",
+    "https://compworth.com/company/swiss-mile"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:note.com Swiss-Mile",
+   "results": [
+    "https://note.com/nomu_choa/n/ncf68f82d5225?hl=en",
+    "https://note.com/kawamura_akihiro/n/nc14723b9d5aa",
+    "https://note.com/milechan_travel/n/n7f94a71668a6?hl=en",
+    "https://note.com/milechan_travel/n/n086840cd1ed0?hl=en",
+    "https://note.com/milechan_travel/n/n63aa21f35831",
+    "https://note.com/milechan_travel/n/ndf880a3ffa84?hl=en",
+    "https://note.com/suzuken0331/n/n832effb77ed1",
+    "https://note.com/ma_r1_ko/n/n75c27e38cae0?hl=en",
+    "https://note.com/swiss_sanpo/n/nccc946be4334?hl=en",
+    "https://note.com/doitsu_mile/n/n76990cffd8fa"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Swiss-Mile",
+   "results": [
+    "https://x.com/iw_toshiki/status/1890476229674795063",
+    "https://x.com/i/trending/2034747280410980390",
+    "https://x.com/RwandaICT/status/2021626156890350057",
+    "https://x.com/IlirAliu_/status/2119834857077346586",
+    "https://x.com/nicekicks/status/2026718794396147752",
+    "https://x.com/RakeemMiles",
+    "https://x.com/miraclemiledeli/status/2120212721396257176/photo/1",
+    "https://x.com/nicekicks/status/2027435141656678462",
+    "https://x.com/cntymile/status/2120171204849852483",
+    "https://x.com/hashtag/swissmile"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Swiss-Mile",
+   "results": [
+    "https://www.linkedin.com/posts/rivr-technologies_swiss-mile-robot-reveal-activity-7153832374860939264-dlor",
+    "https://www.linkedin.com/posts/rivr-technologies_swiss-mile-robot-vs-employees-activity-7252710606472888322-86xE",
+    "https://www.linkedin.com/posts/franziska-bossart-b3799153_swiss-mile-activity-7235301745973731328-DvNX",
+    "https://www.linkedin.com/posts/steve-crowe-4199bb8_robotics-robots-automation-activity-7440547880471482368-wWOT",
+    "https://www.linkedin.com/posts/sweaterceo_after-doing-some-double-checking-this-is-activity-7407460700354256897-yTab",
+    "https://www.linkedin.com/posts/rivr-technologies_robotics-ai-hiring-activity-7234862388741566464-1CbE",
+    "https://www.linkedin.com/pulse/ep10-robot-runs-faster-than-usain-bolt-lukas-m-ziegler-aa7lf",
+    "https://ch.linkedin.com/in/bjelonic",
+    "https://www.linkedin.com/posts/zieglerr_tesla-vs-robot-this-robot-developed-activity-7227657847931588609-v4Ju",
+    "https://www.linkedin.com/jobs/swiss-mile-jobs"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:facebook.com Swiss-Mile",
+   "results": [
+    "https://www.facebook.com/techinsider/posts/the-swiss-mile-robot-is-a-humanoid-with-capabilities-ranging-from-becoming-the-m/2594702870728053/",
+    "https://www.facebook.com/techinsider/videos/why-this-robot-could-save-your-life-one-day/1412572249233183/",
+    "https://www.facebook.com/supercarblondie/posts/this-robot-is-being-dubbed-the-future-of-mobility-by-its-creators-swiss-mile-it-/810696697084474/",
+    "https://www.facebook.com/WevolverApp/videos/within-the-robotics-systems-lab-at-eth-z%C3%BCrich-the-past-six-years-have-been-dedic/1059398042384913/",
+    "https://www.facebook.com/cheddar/posts/amazon-has-quietly-acquired-rivr-a-swiss-robotics-company-developing-four-legged/1359980309497836/",
+    "https://www.facebook.com/supercarblondie/videos/robot-dog-of-the-future/313781491060671/",
+    "https://www.facebook.com/Entrepreneur/posts/is-your-amazon-driver-about-to-get-a-four-legged-assistant-amazon-has-quietly-ac/1326720972659445/",
+    "https://www.facebook.com/leggedrobotics/videos/transformer-robot-is-now-opening-doors-for-youeth-zurich-swiss-milefull-video-ht/1130462061170287/",
+    "https://www.facebook.com/cnbc/posts/jeff-bezos-is-making-big-bets-on-robotics-and-ai-cnbcs-kate-rooney-breaks-down-w/994533909214669/",
+    "https://www.facebook.com/SwissvaleMile/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Swiss-Mile note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=KmXulwvCsZA",
+    "https://www.swiss.com/ee/en/book-and-manage/offers/miles-and-more",
+    "https://www.therobotreport.com/swiss-mile-raises-22m-for-wheeled-quadruped/",
+    "https://www.linkedin.com/posts/rivr-technologies_swiss-mile-robot-reveal-activity-7153832374860939264-dlor",
+    "https://finance.yahoo.com/news/jeff-bezos-leads-robot-maker-171510887.html",
+    "https://www.startupticker.ch/en/news/swiss-mile-launches-a-new-breed-of-robots-powered-by-ai",
+    "https://swisspreneur.org/podcast/marko-bjelonic-ep462",
+    "https://www.instagram.com/p/C_Q2KoRP9bB/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Swiss-Mile X 投稿",
+   "results": [
+    "https://www.linkedin.com/posts/rivr-technologies_swiss-mile-robot-reveal-activity-7153832374860939264-dlor",
+    "https://x.com/iw_toshiki/status/1890476229674795063",
+    "https://www.therobotreport.com/rbr50-company-2022/swiss-miles-hybrid-mobility-benefits-quadruped-robots/",
+    "https://www.youtube.com/watch?v=KmXulwvCsZA",
+    "https://www.startupticker.ch/en/news/swiss-mile-launches-a-new-breed-of-robots-powered-by-ai",
+    "https://www.core77.com/posts/110937/Swiss-Miles-Incredible-Four-LeggedWheeled-Robot-Can-Do-it-All",
+    "https://www.reddit.com/r/robotics/comments/11rgh2e/i_am_trying_to_replicate_the_swissmile_robot_for/",
+    "https://www.facebook.com/techinsider/posts/the-swiss-mile-robot-is-a-humanoid-with-capabilities-ranging-from-becoming-the-m/2594702870728053/",
+    "https://www.swiss.com/ee/en/book-and-manage/offers/miles-and-more",
+    "https://x.com/hashtag/swissmile"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）"
+ }
+}

@@ -1,0 +1,1330 @@
+{
+ "name": "Exaforce",
+ "aliases": [],
+ "context": "旧営業リスト｜B2B Infrastructure｜AI送信済み",
+ "researched_at": "2026-11-11T04:28:56.858638+00:00",
+ "official_url": "https://www.exaforce.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都千代田区丸の内1-11-1\nパシフィックセンチュリープレイス丸の内 13F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000189524.html",
+    "pass": 3
+   },
+   {
+    "label": "HQ",
+    "value": "San Jose, CA, USA",
+    "url": "https://startupintros.com/orgs/exaforce",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "label": "E-mail",
+    "value": "sales-japan@exaforce.com",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000189524.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2025",
+    "url": "https://startupintros.com/orgs/exaforce",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Exaforce has absolutely changed how I rely on my SIEM day to day. Previously, it was just a repository of old logs. Now we can threat hunt very easily and respond to alerts very quickly.",
+    "url": "https://www.exaforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We transitioned from a traditional MSSP model that required significant manual oversight to an MDR platform delivering fully automated, AI‑driven investigation and escalation. This shift fundamentally changed our incident response, reducing timelines from hours or days to minutes and dramatically improving response quality.",
+    "url": "https://www.exaforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Exaforce has significantly improved our SOC efficacy by augmenting threat detection and response for AWS and Azure with AI. Its auto-triage of third-party alerts and rule-free detection streamlines our response and saves us dozens of hours, letting our team focus on mitigating threats, while their exploration capabilities offer greater visibility into all our Cloud services.",
+    "url": "https://www.exaforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lumilens round-the-clock coverage across cloud, code, and identity, protecting silicon photonics IP without a dedicated in-house SOC",
+    "url": "https://www.exaforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "to disprove a suspected AWS compromise",
+    "url": "https://www.exaforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Exaforce has significantly improved our SOC efficacy.”",
+    "url": "https://www.exaforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A single LLM makes inconsistent decisions. Exaforce's Multi-Model AI separates data relationships, anomaly detection, and expert reasoning into dedicated models, producing outputs your analysts can act on.",
+    "url": "https://www.exaforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of Security at Invisible",
+    "url": "https://www.exaforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of Engineering at LottieFiles",
+    "url": "https://www.exaforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I really like Exaforce's technical team who hold weekly chats with us to go over any incidents that have occurred and keep us informed. I also find it convenient that Exaforce collects data from a lot of sources like AWS and GCP, integrating everything in one place. This comprehensive data integration makes it easy to have an overall view of everything.",
+    "url": "https://www.exaforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Product Security at F500 Digital Infra Company",
+    "url": "https://www.exaforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise (> 1000 emp.)",
+    "url": "https://www.exaforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Exaforce is helping us solve our SOC overload. The agentic AI and MDR work together to only bring true incidents to our security team and provide actions to quickly respond.",
+    "url": "https://www.exaforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Since deploying Exaforce's Agentic SOC, alert triage is faster, visibility is sharper and manual workload has dropped significantly. Onboarding was smooth and expertly guided by the team. The platform is mature, the team is responsive and the value we derive is clear.",
+    "url": "https://www.exaforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We believe Exaforce’s multi-model AI approach is unique in the industry and will dramatically reduce the false positives and investigation times we experience in our cloud and SaaS environments. The platform augments our SOC teams by delivering streamlined security operations and faster incident response for every client, freeing up more time to focus on proactive threat hunting.",
+    "url": "https://www.exaforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Exaforce has materially improved our Detection and Response operations. The platform combines strong out-of-the-box integrations, with AI-driven investigations that automatically enrich, correlate, and reason over alerts.",
+    "url": "https://www.exaforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Exaforce has been a practical and high trust partner for us, using their Exabot agents have improved our response times, coverage and reduce gaps in process. As a Biotech company with critical data this is paramount and Exaforce has allowed us to improve our capabilities without adding headcount.",
+    "url": "https://www.exaforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Exaforce grounds governed response in comprehensive case context, using a real-time evidence model to make action more precise and defensible.",
+    "url": "https://www.exaforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Let ChatGPT, Claude, or Perplexity do the thinking for you. Click and see what your preferred AI says about Exaforce.",
+    "url": "https://www.exaforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Round-the-clock protection that blends analyst expertise with purpose-built AI to stop threats before they become breaches.",
+    "url": "https://www.exaforce.com/solutions/find-an-mdr-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Onboarding within hours with immediate insights into your environment. Our AI continuously learn your environment, while our analysts collect your business context, enabling them to operate like seasoned insiders from day one.",
+    "url": "https://www.exaforce.com/solutions/find-an-mdr-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Our team works with you to tailor our coverage to your business while providing full transparent access to the platform and visibility into every alert, decision, and action, complete with continuous updates and executive-ready dashboards.",
+    "url": "https://www.exaforce.com/solutions/find-an-mdr-partner",
+    "pass": 1
+   },
+   {
+    "quote": "We transitioned from a traditional MSSP model that required significant manual oversight to an MDR platform delivering fully automated, AI‑driven investigation and escalation. This shift fundamentally changed our incident response, reducing timelines from hours or days to minutes and dramatically improving response quality.",
+    "url": "https://www.exaforce.com/solutions/find-an-mdr-partner",
+    "pass": 1
+   },
+   {
+    "quote": "With a small security team managing fraud detection, corporate security, and production monitoring, Invisible Technologies relies on Exaforce to scale its team without adding headcount, maintain 24/7 coverage, and cut investigation times from hours to minutes.",
+    "url": "https://www.exaforce.com/customers/ai-native-soc-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "A lean security team responsible for 24/7 coverage across a large and fast-growing company, lacking a unified way to monitor and make sense of data spread across multiple tools and telemetry sources.",
+    "url": "https://www.exaforce.com/customers/ai-native-soc-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Exaforce agentic SOC platform and MDR service provides 24/7 detection, triage, and investigation across Invisible’s broad environment from a single platform.",
+    "url": "https://www.exaforce.com/customers/ai-native-soc-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Unified visibility across cloud, identity, productivity, and SaaS environments gives the security team full context on every finding, from the most critical incidents to signals that would previously have gone unreviewed.",
+    "url": "https://www.exaforce.com/customers/ai-native-soc-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Cory Roop, Director of Production Security at Invisible Technologies",
+    "url": "https://www.exaforce.com/customers/ai-native-soc-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Patrick McKinney, Vice President of Security at Invisible",
+    "url": "https://www.exaforce.com/customers/ai-native-soc-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Alert volume across a complex hybrid environment spanning on-premises, IaaS, and SaaS required a scalable, AI-driven approach to keep pace with modern threats.",
+    "url": "https://www.exaforce.com/customers/forcepoint-mdr-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Exaforce extends the team's reach, delivering enterprise-scale detection, triage, investigation, and response capacity with maximum operational efficiency.",
+    "url": "https://www.exaforce.com/customers/forcepoint-mdr-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid integration across Forcepoint's existing toolset delivered comprehensive coverage from day one, ensuring every alert category is monitored and acted upon.",
+    "url": "https://www.exaforce.com/customers/forcepoint-mdr-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Consolidated SIEM operations into native Exaforce coverage, giving the team direct access to a unified detection and investigation layer across on-premises and cloud sources.",
+    "url": "https://www.exaforce.com/customers/forcepoint-mdr-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "is a global AI data security leader, delivering solutions that protect critical data across cloud, web, networks, email, endpoints and AI within enterprise environments worldwide. Its own security operations environment reflects that complexity, with a large on-premises footprint and a broad cloud stack spanning AWS, Azure and multiple SaaS applications.",
+    "url": "https://www.exaforce.com/customers/forcepoint-mdr-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "To match the sophistication of its environment, Forcepoint set out to modernize its security operations model. The team sought a partner that could combine AI-native automation with expert-led MDR, delivering the responsiveness and depth of investigation that a complex, global enterprise demands.",
+    "url": "https://www.exaforce.com/customers/forcepoint-mdr-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Across the industry, false positive volume is one of the defining challenges of modern SOC operations, pulling analyst attention away from real threats and limiting the value organizations can extract from their existing security investments. Forcepoint wanted a partner that could solve both problems at once.",
+    "url": "https://www.exaforce.com/customers/forcepoint-mdr-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "We went from an MSSP that needed hand-holding to an MDR that handles investigations we never could before. As a design partner, we've also seen rapid platform improvements, and the difference in response quality is night and day.",
+    "url": "https://www.exaforce.com/customers/forcepoint-mdr-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Exabots took on the work of filtering the alert firehose. With 95% of alerts automatically triaged and dismissed as verified false positives, the SOC team was freed to focus entirely on the small percentage of alerts representing real risk. The change fundamentally altered how the team operated, shifting from reactive triage of noise to proactive investigation of validated threats.",
+    "url": "https://www.exaforce.com/customers/forcepoint-mdr-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "We transitioned from a traditional MSSP model that required significant manual oversight to an MDR platform delivering fully automated, AI‑driven investigation and escalation. This shift fundamentally changed our incident response, reducing timelines from hours or days to minutes and dramatically improving response quality.",
+    "url": "https://www.exaforce.com/customers/forcepoint-mdr-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Build differentiated offerings, expand your reach, and create shared opportunities through practical enablement, go-to-market collaboration, and a mutual commitment to customer success.",
+    "url": "https://www.exaforce.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Partnerships are most valuable when they help customers get more from their existing security investments. Exaforce's approach brings greater context and intelligence to Zscaler data, helping joint customers simplify operations and act with greater speed and confidence.",
+    "url": "https://www.exaforce.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing built to activate demand",
+    "url": "https://www.exaforce.com/partners/channel",
+    "pass": 1
+   },
+   {
+    "quote": "Go to market faster with ready-to-use Exaforce messaging, presentations, solution briefs, campaign assets, and digital content. Adapt these resources to educate prospects, communicate the value of AI-powered security operations, differentiate your business, and generate demand across your customer base.",
+    "url": "https://www.exaforce.com/partners/channel",
+    "pass": 1
+   },
+   {
+    "quote": "Training that builds confidence",
+    "url": "https://www.exaforce.com/partners/channel",
+    "pass": 1
+   },
+   {
+    "quote": "Equip your sales and technical teams with the knowledge to position and support Exaforce effectively. Our partner training covers the platform, priority use cases, customer outcomes, and sales conversations, helping your team speak credibly about agentic AI and guide customers toward more modern security operations.",
+    "url": "https://www.exaforce.com/partners/channel",
+    "pass": 1
+   },
+   {
+    "quote": "Partnerships are most valuable when they help customers get more from their existing security investments. Exaforce's approach brings greater context and intelligence to Zscaler data, helping joint customers simplify operations and act with greater speed and confidence.",
+    "url": "https://www.exaforce.com/partners/channel",
+    "pass": 1
+   },
+   {
+    "quote": "MSSP and MDR Providers | Exaforce",
+    "url": "https://www.exaforce.com/partners/mssp",
+    "pass": 1
+   },
+   {
+    "quote": "MSSP and MDR Providers",
+    "url": "https://www.exaforce.com/partners/mssp",
+    "pass": 1
+   },
+   {
+    "quote": "Give your analysts unified context, guided investigations, and automation that reduces repetitive work. By making advanced security analysis faster and more accessible, Exaforce helps your team focus its expertise on the threats and customer decisions that matter most - improving productivity, consistency, and the overall client experience.",
+    "url": "https://www.exaforce.com/partners/mssp",
+    "pass": 1
+   },
+   {
+    "quote": "Partnerships are most valuable when they help customers get more from their existing security investments. Exaforce's approach brings greater context and intelligence to Zscaler data, helping joint customers simplify operations and act with greater speed and confidence.",
+    "url": "https://www.exaforce.com/partners/mssp",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your technology with Exaforce to bring richer data, context, and response capabilities into the AI-driven SOC. Together, our technologies can break down silos, streamline security workflows, and help shared customers gain greater value from the products and platforms they already rely on.",
+    "url": "https://www.exaforce.com/partners/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Create a stronger joint story for organizations modernizing their security operations and adopting AI. Alignment across technology, technical enablement, field teams, and go-to-market content can increase visibility, strengthen customer conversations, and uncover new opportunities across our shared markets and customer ecosystem.",
+    "url": "https://www.exaforce.com/partners/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Partnerships are most valuable when they help customers get more from their existing security investments. Exaforce's approach brings greater context and intelligence to Zscaler data, helping joint customers simplify operations and act with greater speed and confidence.",
+    "url": "https://www.exaforce.com/partners/technology",
+    "pass": 1
+   },
+   {
+    "quote": "See every agent, on any device, from any provider, in the same place as your identity, endpoint and cloud data. The full picture, not another silo, is what makes Exaforce AI security real, fast and complete.",
+    "url": "https://www.exaforce.com/solutions/ai-security",
+    "pass": 1
+   },
+   {
+    "quote": "Agents can rotate a key, merge a PR, email a customer, faster than an analyst opens a ticket. Each action is legitimate. The session is not.",
+    "url": "https://www.exaforce.com/solutions/ai-security",
+    "pass": 1
+   },
+   {
+    "quote": "Alert anytime a user shares sensitive credentials in an AI chat - secrets, tokens, PHI, PII, prompt injection or more.",
+    "url": "https://www.exaforce.com/solutions/ai-security",
+    "pass": 1
+   },
+   {
+    "quote": "Exaforce leverages the data you already have and native integrations with LLM providers to give you full visibility into every agent and application, on any endpoint, or host with the widest breadth available.",
+    "url": "https://www.exaforce.com/solutions/ai-security",
+    "pass": 1
+   },
+   {
+    "quote": "How is this different from an AI gateway or a prompt firewall?",
+    "url": "https://www.exaforce.com/solutions/ai-security",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligence that streamlines detection, triage, investigation, and response to improve analyst efficiency and productivity.",
+    "url": "https://www.exaforce.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Protect every layer of your environment, from identity to infrastructure, with defenses built for today’s dynamic, growing attack surfaces.",
+    "url": "https://www.exaforce.com/solutions",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by leading security teams",
+    "url": "https://www.exaforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Verified User in Manufacturing",
+    "url": "https://www.exaforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "— Verified User in Manufacturing (opens in a new tab)",
+    "url": "https://www.exaforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading security teams",
+    "url": "https://www.exaforce.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Identities are the keys to cloud accounts, making them top targets for compromise and credential theft, especially high-privilege accounts used by admins and automation tools like CI/CD pipelines.",
+    "url": "https://www.exaforce.com/solutions/identity-attack-surface",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading security teams",
+    "url": "https://www.exaforce.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Verified User in Manufacturing",
+    "url": "https://www.exaforce.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "— Verified User in Manufacturing (opens in a new tab)",
+    "url": "https://www.exaforce.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading security teams",
+    "url": "https://www.exaforce.com/talk-to-mdr-experts",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Lumilens achieves 24/7 protection for photonics IP with Exaforce MDR | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/exaforce/case-study/lumilens-cuts-threat-triage-to-6-minutes-with-exaforce",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Lumilens achieves 24/7 protection for photonics IP with Exaforce MDR",
+    "url": "https://www.casestudies.com/company/exaforce/case-study/lumilens-cuts-threat-triage-to-6-minutes-with-exaforce",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/exaforce/case-study/lumilens-cuts-threat-triage-to-6-minutes-with-exaforce",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/exaforce/case-study/lumilens-cuts-threat-triage-to-6-minutes-with-exaforce",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/exaforce/case-studies",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Exaforce enables Invisible Technologies’ security team to monitor employees, identities, applications, and infrastructure at scale without increasing headcount. The result is a lean operation that investigates faster, maintains 24/7 coverage, and scales seamlessly with the business.",
+    "url": "https://www.exaforce.com/customers/ai-native-soc-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Exaforce helps partners accelerate growth through a scalable, recurring revenue model designed to strengthen customer relationships and create lasting business value.",
+    "url": "https://www.exaforce.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Launch or scale managed security and MDR services with Exaforce as the technology foundation. Accelerate time to market, grow recurring revenue, and deliver trusted customer outcomes efficiently.",
+    "url": "https://www.exaforce.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Director General / Chief Revenue Officer (CRO & Strategy), Group TRC",
+    "url": "https://www.exaforce.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "As customers rethink security operations for an AI era, Exaforce gives you a timely opportunity to lead the conversation. Build differentiated offerings around agentic security operations, expand strategic customer relationships, and create new revenue opportunities with Exaforce’s AI-native SOC platform",
+    "url": "https://www.exaforce.com/partners/channel",
+    "pass": 1
+   },
+   {
+    "quote": "Director General / Chief Revenue Officer (CRO & Strategy), Group TRC",
+    "url": "https://www.exaforce.com/partners/channel",
+    "pass": 1
+   },
+   {
+    "quote": "Director General / Chief Revenue Officer (CRO & Strategy), Group TRC",
+    "url": "https://www.exaforce.com/partners/mssp",
+    "pass": 1
+   },
+   {
+    "quote": "Director General / Chief Revenue Officer (CRO & Strategy), Group TRC",
+    "url": "https://www.exaforce.com/partners/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Can Exaforce see what employees put into AI chats?",
+    "url": "https://www.exaforce.com/solutions/ai-security",
+    "pass": 1
+   },
+   {
+    "quote": "Alerts that arrive with the investigation done",
+    "url": "https://www.exaforce.com/solutions/siem-replacement",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Operations Leader",
+    "url": "https://www.exaforce.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/exaforce/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/539547-04",
+    "pass": 3
+   },
+   {
+    "quote": "Exaforce has 139 total employees.",
+    "url": "https://pitchbook.com/profiles/company/539547-04",
+    "pass": 3
+   },
+   {
+    "quote": "What is Exaforce’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/539547-04",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Exaforce is",
+    "url": "https://pitchbook.com/profiles/company/539547-04",
+    "pass": 3
+   },
+   {
+    "quote": "Unlock filed revenue history, with growth over every year.",
+    "url": "https://www.inven.ai/data/companies/exaforce-com",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "is a global AI data security leader, delivering solutions that protect critical data across cloud, web, networks, email, endpoints and AI within enterprise environments worldwide. Its own security operations environment reflects that complexity, with a large on-premises footprint and a broad cloud stack spanning AWS, Azure and multiple SaaS applications.",
+    "url": "https://www.exaforce.com/customers/forcepoint-mdr-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Agents can rotate a key, merge a PR, email a customer, faster than an analyst opens a ticket. Each action is legitimate. The session is not.",
+    "url": "https://www.exaforce.com/solutions/ai-security",
+    "pass": 1
+   },
+   {
+    "quote": "Triage and investigate phishing incidents, prioritize credible alerts, and resolve threats across your email ecosystem.",
+    "url": "https://www.exaforce.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Investigate email-based attacks faster",
+    "url": "https://www.exaforce.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Investigate email-based attacks faster",
+    "url": "https://www.exaforce.com/talk-to-mdr-experts",
+    "pass": 1
+   },
+   {
+    "quote": "E-mail：sales-japan@exaforce.com",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000189524.html",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/exaforce/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/exaforce/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/539547-04",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Explore channel partnerships",
+    "url": "https://www.exaforce.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Channel Partners and Distributors | Exaforce",
+    "url": "https://www.exaforce.com/partners/channel",
+    "pass": 1
+   },
+   {
+    "quote": "Channel Partners and Distributors",
+    "url": "https://www.exaforce.com/partners/channel",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Sales, Japan",
+    "url": "https://www.exaforce.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Exaforce、日本に拠点を拡大 — 24時間365日のAI駆動による脅威検知・対応を提供 | Exaforceのプレスリリース | 共同通信PRワイヤー",
+    "url": "https://kyodonewsprwire.jp/release/202603115402",
+    "pass": 3
+   },
+   {
+    "quote": "Exaforceは東京オフィスを開設し、専任のエンジニアチームおよびMDRチームを配備し日本のお客様を支援していきます",
+    "url": "https://kyodonewsprwire.jp/release/202603115402",
+    "pass": 3
+   },
+   {
+    "quote": "東京、日本--(",
+    "url": "https://kyodonewsprwire.jp/release/202603115402",
+    "pass": 3
+   },
+   {
+    "quote": ")-- （ビジネスワイヤ） -- エージェンティック・セキュリティオペレーション（SOC）プラットフォームであるExaforceは，日本での事業拡大を目指し東京オフィスを開設することを発表しました",
+    "url": "https://kyodonewsprwire.jp/release/202603115402",
+    "pass": 3
+   },
+   {
+    "quote": "新設される東京オフィスではエンジニアチームが、迅速なセキュリティ脅威の検知と対応を24時間サポート体制にて提供するとともに、企業が日本国内の環境で完全に分離された形で自社運用できるセルフサービス型プラットフォームも提供します",
+    "url": "https://kyodonewsprwire.jp/release/202603115402",
+    "pass": 3
+   },
+   {
+    "quote": "Exaforceは日本語に対応しており、日本企業のデータ主権および規制要件に適合するよう最適化されています",
+    "url": "https://kyodonewsprwire.jp/release/202603115402",
+    "pass": 3
+   },
+   {
+    "quote": "「東京に拠点を構え、ここに専任のエンジニアチームを構築することで、Exaforceはローカライズされた導入、迅速なサポート、そしてMDRにおける24時間体制の支援を提供できるようになります」とExaforceのCEO兼共同創業者Ankur Singlaは述べています",
+    "url": "https://kyodonewsprwire.jp/release/202603115402",
+    "pass": 3
+   },
+   {
+    "quote": "「私たちは、日本の企業がデータ主権およびコンプライアンス要件を満たしつつ、脅威を能動的に検出、トリアージ、調査、対応できるよう支援することに注力しています",
+    "url": "https://kyodonewsprwire.jp/release/202603115402",
+    "pass": 3
+   },
+   {
+    "quote": "Exaforceの日本展開の主要ハイライト",
+    "url": "https://kyodonewsprwire.jp/release/202603115402",
+    "pass": 3
+   },
+   {
+    "quote": "・東京オフィス開設：Exaforceは日本の業務および顧客サポートの地域拠点として東京オフィスを開設しました",
+    "url": "https://kyodonewsprwire.jp/release/202603115402",
+    "pass": 3
+   },
+   {
+    "quote": "・専任エンジニアチーム：東京オフィスのエンジニアチームが導入の加速、統合、ならびに日本の顧客向けにローカライズされた製品開発を推進します",
+    "url": "https://kyodonewsprwire.jp/release/202603115402",
+    "pass": 3
+   },
+   {
+    "quote": "・日本国内でのサービス提供とデータ主権：日本の顧客は、データ主権の確保、規制遵守、低遅延運用を実現できるよう分離された日本国内で展開されているサービスを利用できます",
+    "url": "https://kyodonewsprwire.jp/release/202603115402",
+    "pass": 3
+   },
+   {
+    "quote": "・日本国内での24/7 MDR：ExaforceのMDRサービスは、Agentic SOC Platformおよび自律型Exabotsと経験豊富な人間のアナリストを組み合わせ、アナリストによる継続的な監視、能動的な脅威ハンティング、迅速な封じ込めおよび修復を提供します",
+    "url": "https://kyodonewsprwire.jp/release/202603115402",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語サポート：Exaforceプラットフォームは日本語サポートを提供し、効率的に運用、調査などの対応をできるようにしています",
+    "url": "https://kyodonewsprwire.jp/release/202603115402",
+    "pass": 3
+   },
+   {
+    "quote": "sales-japan@exaforce.com",
+    "url": "https://kyodonewsprwire.jp/release/202603115402",
+    "pass": 3
+   },
+   {
+    "quote": "Exaforceと伊藤忠テクノソリューションズ、日本の企業向けにAIエージェントを活用したマネージドセキュリティサービスを提供開始 | Exaforce株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000189524.html",
+    "pass": 3
+   },
+   {
+    "quote": "Exaforceと伊藤忠テクノソリューションズ、日本の企業向けにAIエージェントを活用したマネ��ージドセキュリティサービスを提供開始",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000189524.html",
+    "pass": 3
+   },
+   {
+    "quote": "Agentic AIによるセキュリティ運用を提供するExaforce, Inc.（CEO兼共同創業者：Ankur Singla、本社：米国カリフォルニア州サンノゼ、以下「Exaforce」）と、伊藤忠テクノソリューションズ株式会社（代表取締役社長：新宮 達史、本社：東京都港区、以下「伊藤忠テクノソリューションズ」）は、Exaforce Agentic SOC Platformを活用した「CTC-MSS AI SOCサービス powered by Exaforce」を、2026年10月1日から日本国内で提供開始しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000189524.html",
+    "pass": 3
+   },
+   {
+    "quote": "「当社のAgentic SOCプラットフォームに、伊藤忠テクノソリューションズが日本で築いてきたお客様との強固な関係と、運用面での専門性を組み合わせることで、リアルタイムに推論し対応するセキュリティ運用モデルを企業に提供します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000189524.html",
+    "pass": 3
+   },
+   {
+    "quote": "本協業は、Exaforceが日本市場で事業を拡大するうえで重要な一歩です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000189524.html",
+    "pass": 3
+   },
+   {
+    "quote": "伊藤忠テクノソリューションズとの協業を通じて、この革新的なソリューションを日本のお客様にお届けできるよう尽力してまいります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000189524.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社のご支援のもと、日本のサイバーセキュリティ市場に新たな価値を提供していきます」",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000189524.html",
+    "pass": 3
+   },
+   {
+    "quote": "Exaforceとの協業により、日本のお客様がより迅速かつ効率的に脅威へ対応できる環境を提供し、企業のデジタル変革を支える強固なセキュリティ基盤の実現に貢献してまいります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000189524.html",
+    "pass": 3
+   },
+   {
+    "quote": "伊藤忠テクノソリューションズ株式会社 専務執行役員 大橋 博仁",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000189524.html",
+    "pass": 3
+   },
+   {
+    "quote": "CTC-MSS AI SOCサービス powered by Exaforceは、2026年10月1日から日本国内で提供しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000189524.html",
+    "pass": 3
+   },
+   {
+    "quote": "伊藤忠テクノソリューションズ株式会社について",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000189524.html",
+    "pass": 3
+   },
+   {
+    "quote": "伊藤忠テクノソリューションズ株式会社はお客様のパートナーとなる総合ITサービス企業です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000189524.html",
+    "pass": 3
+   },
+   {
+    "quote": "E-mail：sales-japan@exaforce.com",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000189524.html",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.exaforce.com/ja-jp/press-release/exaforce-itochu-techno-solutions-ai-soc-service-japan",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000189524.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都千代田区丸の内1-11-1",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000189524.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Exaforce、日本に拠点を拡大 — 24時間365日のAI駆動による脅威検知・... — Mar 11, 2026 · 「東京に拠点を構え、ここに専任のエンジニアチームを構築することで、Exaforceはローカライズされた導入、迅速なサポート、そしてMDRにおける24時間体制の支援を提供できるようになります」とExaforceのCEO兼共同創業者Ankur Singlaは述べています。",
+    "url": "https://kyodonewsprwire.jp/release/202603115402",
+    "pass": 3
+   },
+   {
+    "quote": "Exaforce | エージェンティックSOCプラットフォーム — Exaforceは、自律型AIエージェントを使用して脅威の検出、優先順位付け、対応を行うエージェント型SOCプラットフォームであり、MTTRを数日から数分に短縮します。",
+    "url": "https://www.exaforce.com/ja-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Exaforceと伊藤忠テクノソリューションズ、日本の企業向けにAIエージ... — Oct 2, 2026 · Exaforce株式会社のプレスリリース（2026年10月2日 09時00分）Exaforceと伊藤忠テクノソリューションズ、日本の企業向けにAIエージェントを活用した ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000189524.html",
+    "pass": 3
+   },
+   {
+    "quote": "Exaforceと伊藤忠テクノソリューションズ、日本でAI SOCサービスを開... — Oct 1, 2026 · Exaforceと伊藤忠テクノソリューションズが「CTC-MSS AI SOCサービス powered by Exaforce」を2026年10月1日から日本国内で提供開始。AIエージェントが24時間365日の脅威検知・調査・対応を支援します。",
+    "url": "https://www.exaforce.com/ja-jp/press-release/exaforce-itochu-techno-solutions-ai-soc-service-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Exaforce、日本に拠点を拡大 — 24時間365日のAI駆動による脅威検知・... — 日本国内での24/7 MDR：ExaforceのMDRサービスは、Agentic SOC Platformおよび自律型Exabotsと経験豊富な人間のアナリストを組み合わせ、アナリストによる継続的な監視、能動的な脅威ハンティング、迅速な封じ込めおよび修復を提供します。",
+    "url": "https://home.kingsoft.jp/news/pr/businesswire/20260310019008.html",
+    "pass": 3
+   },
+   {
+    "quote": "Exaforce、日本に拠点を拡大 — 24時間365日のAI駆動による脅威検知・... — Mar 11, 2026 · Exaforceは東京オフィスを開設し、専任のエンジニアチームおよびMDRチームを配備し日本のお客様を支援していきます。 東京、日本--(BUSINESS WIRE)-- （ビジネスワイヤ） -- エ...",
+    "url": "https://kyodonewsprwire.jp/release/202603115402",
+    "pass": 3
+   },
+   {
+    "quote": "Exaforce・ソリューション | MDR パートナーを探す — アナリストの専門知識とAIを融合させた信頼できるMDRパートナーが、クラウドの脅威が侵害になる前にブロックします。",
+    "url": "https://www.exaforce.com/ja-jp/solutions/find-an-mdr-partner",
+    "pass": 3
+   },
+   {
+    "quote": "エージェンティックAI SOCプラットフォームの概要 | Exaforce — Exaforce AIボットと高度なデータ探索により、SOCチームの生産性と有効性を10倍に向上させます。",
+    "url": "https://www.exaforce.com/ja-jp/platform",
+    "pass": 3
+   },
+   {
+    "quote": "Exaforce Japan - LinkedIn — Exaforce Japan | 264 followers on LinkedIn. Exabot、（エクサボット、AIエージェント）と高度なデータ探索により、SOCチームの生産性と効率を10倍向上させ ...",
+    "url": "https://www.linkedin.com/showcase/exaforce-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Exaforce Expands to Japan to Provide 24/7 AI ... - MarketWatch — Exaforce, the agentic security operations (SOC) platform, today announced it will be expanding into Japan with the opening of a new office in Tokyo. The company has established a local engineering ...",
+    "url": "https://www.marketwatch.com/press-release/exaforce-expands-to-japan-to-provide-24-7-ai-driven-detection-and-response-to-security-threats-4c80770d",
+    "pass": 3
+   },
+   {
+    "quote": "Exaforce Case Studies | Customer Success Stories — Discover how companies use Exaforce to scale their business.",
+    "url": "https://www.exaforce.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Exaforce Customers | Customer Success Stories — Discover how companies use Exaforce to scale their business.",
+    "url": "https://www.exaforce.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Lumilens achieves 24/7 protection for photonics ... — Lumilens cuts threat triage to 6 minutes with Exaforce Lumilens, a designer and manufacturer of silicon photonics for AI data centers, faced significant security challenges protecting its high-value intellectual property. The company's small, globally distributed engineering team lacked 24/7 monitoring, struggled with coverage gaps ",
+    "url": "https://www.casestudies.com/company/exaforce/case-study/lumilens-cuts-threat-triage-to-6-minutes-with-exaforce",
+    "pass": 3
+   },
+   {
+    "quote": "4 Exaforce Case Studies, Success Stories, & Customer Stories — Discover how other companies use Exaforce, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/exaforce/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Ankur Singla - Exaforce | LinkedIn6 Exaforce Customer Reviews & References | FeaturedCustomersBuilding trust at Exaforce: Our journey through ... - Medium — Ankur Singla is an engineer and entrepreneur with a successful track record of building companies, Stanford graduate, and has 500+ LinkedIn connections. Learn more about Exaforce - use cases, approaches, & end results from real customers; read",
+    "url": "https://www.linkedin.com/in/ankur-singla-4863801",
+    "pass": 3
+   },
+   {
+    "quote": "Exaforce - 2026 Company Profile, Team, Funding & Competitors ...Exaforce 2026 Company Profile: Valuation, Funding & Investors ...Exaforce — company profile, headcount and funding | InvenExaforce: Funding, Team & Investors | Startup IntrosExaForce: Funding, Investors & Team (Nov 2026) | FundedIQExaforce — Company Profile, Funding & InvestorsExaforce — Company Profile & Funding | Indexed.vc — Aug 18",
+    "url": "https://tracxn.com/d/companies/exaforce/__ow5_XY3rWfW6cfOgcj8KB0ISM5NO0L1TA_5fwdUgUvc",
+    "pass": 3
+   },
+   {
+    "quote": "Exaforce 2026 Company Profile: Valuation, Funding & Investors ...Exaforce — company profile, headcount and funding | InvenExaforce: Funding, Team & Investors | Startup IntrosExaForce: Funding, Investors & Team (Nov 2026) | FundedIQExaforce — Company Profile, Funding & InvestorsExaforce — Company Profile & Funding | Indexed.vc — Exaforce FAQs When was Exaforce founded? Exaforce was founded in 2023.",
+    "url": "https://pitchbook.com/profiles/company/539547-04",
+    "pass": 3
+   },
+   {
+    "quote": "Exaforce — company profile, headcount and funding | Inven — United States ai-attack security startup Exaforce raised $125 million in Series B funding round, founded in 2023 by Ankur Singla, Jakub Pavlik, Ariful Huq & Devesh Mittal, investors include Harbour...",
+    "url": "https://www.inven.ai/data/companies/exaforce-com",
+    "pass": 3
+   },
+   {
+    "quote": "Exaforce: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Quick takeaway: Exaforce is an early‑stage but well‑funded agentic AI SOC vendor (founded 2023) focused on automating the full SOC lifecycle for cloud/SaaS customers through multi‑model AI and autonomous Exabots, aiming to reduce MTTR and scale security without linear headcount growth.",
+    "url": "https://startupintros.com/orgs/exaforce",
+    "pass": 3
+   },
+   {
+    "quote": "ExaForce: Funding, Investors & Team (Nov 2026) | FundedIQ — ExaForce: Funding, Investors & Team (Nov 2026) Exaforce is a cybersecurity company that enhances cloud security and operations for high-growth startups. By leveraging semantic data and AI-powered bots, Exaforce significantly boosts the productivity and effectiveness of security and operations teams.",
+    "url": "https://fundediq.co/exaforce-exaforce-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Exaforce (@exaforceAI) / Posts / X Exaforce is a proud sponsor of the Infosec Anti-Summit in Atlanta on May 19. If you're in Atlanta and want to talk about what AI-native SOC operations look like in practice, come find us.",
+    "url": "https://x.com/exaforceAI",
+    "pass": 3
+   },
+   {
+    "quote": "Channel Insider on X: \"KDDI, Exaforce Expand Agentic SOC ... Channel Insider @ChannelInsider KDDI, Exaforce Expand Agentic SOC Services in US, EMEA KDDI Adds Exaforce Agentic SOC Platform to Security Services From channelinsider.com 6:05 PM · Sep 23, 2026 · 69 Views",
+    "url": "https://x.com/ChannelInsider/status/2102821636260893003",
+    "pass": 3
+   },
+   {
+    "quote": "AutóSámán.hu (@exaforce) / Posts / X AutóSámán.hu (@exaforce) - Posts - Autók, sztorik. Hosszabb tartalmak a YouTube, Facebook csatornámon. Keress rám TikTok-on és Instan. ... | X (formerly Twitter)",
+    "url": "https://x.com/exaforce",
+    "pass": 3
+   },
+   {
+    "quote": "Excited to welcome Aqsa Taylor, Chief Security Evangelist of ... Excited to welcome Aqsa Taylor, Chief Security Evangelist of Exaforce, to the Forbes Technology Council! We can’t wait for the innovative ideas and insights they’ll share with our community of tech leaders. hubs.li/Q046LTPv0",
+    "url": "https://x.com/ForbesTechCncl/status/2032491703647564242",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Exaforce - LinkedIn Exaforce Computer and Network Security San Jose, California 10,223 followers Increase the productivity and efficacy of your SOC team by 10x with AI bots (\"Exabots\") + advanced data exploration.",
+    "url": "https://www.linkedin.com/company/exaforce",
+    "pass": 3
+   },
+   {
+    "quote": "Exaforce - LinkedIn Exaforce | As attackers weaponize AI to increase the speed and volume of attacks, Exaforce boosts detection coverage, automates triage, accelerates investigations, and reveals actionable insights ...",
+    "url": "https://www.linkedin.com/products/exaforce/",
+    "pass": 3
+   },
+   {
+    "quote": "Devesh Mittal - Co-founder, Head of Engineering at ExaForce ...Thad Széll - Exaforce | LinkedInAbhishek Agarwal - Exaforce Inc. | LinkedInNuno Ferreira - Exaforce | LinkedInMalav S. - Exaforce | LinkedIn Devesh Mittal Co-founder, Head of Engineering at ExaForce Bangalore Urban, Karnataka, India 3K followers 500+ connections See your mutual connections Experience: Exaforce · Location: United Kingdo",
+    "url": "https://in.linkedin.com/in/mittaldevesh",
+    "pass": 3
+   },
+   {
+    "quote": "Thad Széll - Exaforce | LinkedInAbhishek Agarwal - Exaforce Inc. | LinkedInNuno Ferreira - Exaforce | LinkedInMalav S. - Exaforce | LinkedIn Experience: Exaforce · Location: United Kingdom · 500+ connections on LinkedIn. View Thad Széll’s profile on LinkedIn, a professional community of 1 billion members. Security is only as strong as the platform underneath it. That's what I work on at… · Experie",
+    "url": "https://uk.linkedin.com/in/thadszell",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ExamForce - FacebookExaforce, a California-based... - Entrepreneur India | FacebookExamForce - FacebookVC - Exaforce Raises $75 Million Series A to Accelerate AI ...ExamForce - MCSE Private Cloud anyone....... - FacebookMason - AI is transforming security operations, and Exaforce ...ExamForce - A conversation from a gentlemen’s club... Feb 2, 2017 · ExamForce. 1,717 followers. ExamForce provides I",
+    "url": "https://www.facebook.com/ExamForce/",
+    "pass": 3
+   },
+   {
+    "quote": "Exaforce, a California-based... - Entrepreneur India | Facebook May 13, 2026 · Exaforce, a California-based developer of agentic security operations and a modern SIEM platform, has raised USD 125 million in a Series B funding round, marking one of the largest investments in the...",
+    "url": "https://www.facebook.com/EntrepreneurInd/posts/exaforce-a-california-based-developer-of-agentic-security-operations-and-a-moder/1289868946612810/",
+    "pass": 3
+   },
+   {
+    "quote": "VC - Exaforce Raises $75 Million Series A to Accelerate AI ... Dec 14, 2025 · Exaforce Raises $75 Million Series A to Accelerate AI-Driven Transformation of Security Operations...",
+    "url": "https://www.facebook.com/vctavern/photos/exaforce-raises-75-million-series-a-to-accelerate-ai-driven-transformation-of-se/819559734177903/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.exaforce.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exaforce.com/solutions/find-an-mdr-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exaforce.com/customers/ai-native-soc-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exaforce.com/customers/forcepoint-mdr-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exaforce.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exaforce.com/partners/channel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exaforce.com/partners/mssp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exaforce.com/partners/technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exaforce.com/solutions/ai-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exaforce.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exaforce.com/solutions/siem-replacement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exaforce.com/solutions/ai-for-soc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exaforce.com/solutions/identity-attack-surface",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exaforce.com/solutions/iaas-attack-surface",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exaforce.com/solutions/saas-attack-surface",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exaforce.com/solutions/endpoint-attack-surface",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exaforce.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exaforce.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exaforce.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exaforce.com/talk-to-mdr-experts",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.sanity.io/images/lrgw1qql/staging/8a6c2bb3082ce17f37c72cfbee730244a20c309f-1200x628.avif?w=960&fit=max&auto=format",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://kyodonewsprwire.jp/release/202603115402",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000189524.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyodonewsprwire.jp/release/202603115402",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://distymap.com/distributors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/showcase/exaforce-japan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.marketwatch.com/press-release/exaforce-expands-to-japan-to-provide-24-7-ai-driven-detection-and-response-to-security-threats-4c80770d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/exaforce/case-study/lumilens-cuts-threat-triage-to-6-minutes-with-exaforce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/exaforce/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partnerportal.fortinet.com/English/?ReturnUrl=%2FEnglish%2FNAReseller%2Fhome.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/exaforce/__ow5_XY3rWfW6cfOgcj8KB0ISM5NO0L1TA_5fwdUgUvc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/539547-04",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.inven.ai/data/companies/exaforce-com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/exaforce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/exaforceAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ChannelInsider/status/2102821636260893003",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/exaforce",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ForbesTechCncl/status/2032491703647564242",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/exaforce",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/exaforce/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/mittaldevesh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/thadszell",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ExamForce/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/EntrepreneurInd/posts/exaforce-a-california-based-developer-of-agentic-security-operations-and-a-moder/1289868946612810/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/vctavern/photos/exaforce-raises-75-million-series-a-to-accelerate-ai-driven-transformation-of-se/819559734177903/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/exaforceAI",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Exaforce 日本 導入",
+   "results": [
+    "https://kyodonewsprwire.jp/release/202603115402",
+    "https://www.exaforce.com/ja-jp/",
+    "https://prtimes.jp/main/html/rd/p/000000003.000189524.html",
+    "https://www.exaforce.com/ja-jp/press-release/exaforce-itochu-techno-solutions-ai-soc-service-japan",
+    "https://home.kingsoft.jp/news/pr/businesswire/20260310019008.html",
+    "https://www.advfn.com/stock-market/stock-news/98018650/exaforce-24-365-i",
+    "https://www.ctc-g.co.jp/news/release/20261001-02148.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Exaforce 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.exaforce.com/ja-jp/",
+    "https://kyodonewsprwire.jp/release/202603115402",
+    "https://distymap.com/distributors",
+    "https://www.exaforce.com/ja-jp/solutions/find-an-mdr-partner",
+    "https://exawizards.com/exabase/gpt/agent/",
+    "https://www.eforce.co.jp/plist/",
+    "https://techblitz.com/startup-interview/exaforce/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Exaforce Japan",
+   "results": [
+    "https://www.exaforce.com/ja-jp/",
+    "https://www.exaforce.com/ja-jp/platform",
+    "https://www.linkedin.com/showcase/exaforce-japan/",
+    "https://www.marketwatch.com/press-release/exaforce-expands-to-japan-to-provide-24-7-ai-driven-detection-and-response-to-security-threats-4c80770d",
+    "https://prtimes.jp/main/html/rd/p/000000003.000189524.html",
+    "https://finance.yahoo.com/news/exaforce-expands-japan-24-7-135800710.html?fr=sycsrp_catchall",
+    "https://home.kingsoft.jp/news/pr/businesswire/20260310019008.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Exaforce manufacturing customer case study",
+   "results": [
+    "https://www.exaforce.com/case-studies",
+    "https://www.exaforce.com/customers",
+    "https://www.casestudies.com/company/exaforce/case-study/lumilens-cuts-threat-triage-to-6-minutes-with-exaforce",
+    "https://www.featuredcustomers.com/vendor/exaforce/case-studies",
+    "https://www.linkedin.com/in/ankur-singla-4863801",
+    "https://www.featuredcustomers.com/vendor/exaforce",
+    "https://medium.com/exaforce/building-trust-at-exaforce-our-journey-through-security-and-compliance-cc78cf6e88c0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Exaforce white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.extremenetworks.com/partners",
+    "https://www.ninjaone.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Exaforce founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/exaforce/__ow5_XY3rWfW6cfOgcj8KB0ISM5NO0L1TA_5fwdUgUvc",
+    "https://pitchbook.com/profiles/company/539547-04",
+    "https://www.inven.ai/data/companies/exaforce-com",
+    "https://startupintros.com/orgs/exaforce",
+    "https://fundediq.co/exaforce-exaforce-com-funding/",
+    "https://acquirezy.com/organization/exaforce",
+    "https://indexed.vc/companies/exaforce"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Exaforce",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Exaforce",
+   "results": [
+    "https://x.com/exaforceAI",
+    "https://x.com/ChannelInsider/status/2102821636260893003",
+    "https://x.com/exaforce",
+    "https://x.com/ForbesTechCncl/status/2032491703647564242",
+    "https://x.com/ScanNetSecurity/status/2119569424265179311",
+    "https://x.com/JakubPav",
+    "https://x.com/examforce"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Exaforce",
+   "results": [
+    "https://www.linkedin.com/company/exaforce",
+    "https://www.linkedin.com/products/exaforce/",
+    "https://in.linkedin.com/in/mittaldevesh",
+    "https://uk.linkedin.com/in/thadszell",
+    "https://in.linkedin.com/in/abhishek-agarwal-5a6b829",
+    "https://uk.linkedin.com/in/nunoferreira1",
+    "https://sg.linkedin.com/in/malavcshah"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Exaforce",
+   "results": [
+    "https://www.facebook.com/ExamForce/",
+    "https://www.facebook.com/EntrepreneurInd/posts/exaforce-a-california-based-developer-of-agentic-security-operations-and-a-moder/1289868946612810/",
+    "https://www.facebook.com/ExamForce/menu/",
+    "https://www.facebook.com/vctavern/photos/exaforce-raises-75-million-series-a-to-accelerate-ai-driven-transformation-of-se/819559734177903/",
+    "https://www.facebook.com/ExamForce/posts/mcse-private-cloud-anyone-httpwwwexamforcecomblogexamforce-releases-courseware-a/579268462110038/",
+    "https://www.facebook.com/masonalexander/photos/ai-is-transforming-security-operations-and-exaforce-is-leading-the-charge-the-us/1276549174480231/",
+    "https://www.facebook.com/ExamForce/posts/1006731439363736/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Exaforce note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.exaforce.com/about",
+    "https://www.exaforce.com/ja-jp/authors/ankur-singla",
+    "https://www.itmedia.co.jp/enterprise/articles/2610/07/news003.html",
+    "https://www.ctc-g.co.jp/news/release/20261001-02148.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Exaforce X 投稿",
+   "results": [
+    "https://x.com/exaforceAI",
+    "https://www.exaforce.com/",
+    "https://www.exaforce.com/ja-jp/",
+    "https://www.exaforce.com/ja-jp/newsroom/",
+    "https://x.com/examforce0205",
+    "https://x.com/examforce",
+    "https://leakfans.jp/t/投稿"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部28頁・検索12回）"
+ }
+}

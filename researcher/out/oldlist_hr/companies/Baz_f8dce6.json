@@ -1,0 +1,1340 @@
+{
+ "name": "Baz",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜返信あり",
+ "researched_at": "2026-11-11T04:13:05.845315+00:00",
+ "official_url": "https://baz.co",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "13-Apr-2026 $1.5M   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/634720-51",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "29-Jan-2025    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/634720-51",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Baz | AI code review, from plan to production",
+    "url": "https://baz.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Confirmed in production",
+    "url": "https://baz.co/",
+    "pass": 1
+   },
+   {
+    "quote": "It's refreshing to have a humble helper like Baz: always present, consistently relevant, and reliable even when your PRs are massive.",
+    "url": "https://baz.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Baz is essential to our workflow. We get the productivity of AI tooling without piling up tech debt.",
+    "url": "https://baz.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Blog posts, news, research, and press coverage from the team building Baz agents.",
+    "url": "https://baz.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Baz pricing is getting simpler",
+    "url": "https://baz.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Starting November 3, 2026: Pro includes 50 reviews per developer each month, then $1 per review. It applies from your next billing cycle.",
+    "url": "https://baz.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Build an engineering review workflow that starts with specifications, continues through implementation, and ends with safe production deployments, every step pinned to the exact commit it verified.",
+    "url": "https://baz.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Real results, in production",
+    "url": "https://baz.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Baz improved its AI Agent Code Review accuracy using Amazon Bedrock AgentCore",
+    "url": "https://baz.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "· April 23, 2026",
+    "url": "https://baz.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "It's refreshing to have a humble helper like Baz: always present, consistently relevant, and",
+    "url": "https://baz.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "reliable even when your PRs are massive.",
+    "url": "https://baz.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Baz is essential to our workflow. We get the productivity of AI tooling",
+    "url": "https://baz.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "code faster, improve our reviews in PRs",
+    "url": "https://baz.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": ", and deliver better products to our clients.",
+    "url": "https://baz.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "A good set of rules and skills plus Baz has made coding so approachable that our UI/UX designer",
+    "url": "https://baz.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "made her first PR during our hackathon",
+    "url": "https://baz.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The code review is catching real problems and bugs, not just the usual stylistic or minor comments.",
+    "url": "https://baz.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Baz Pricing - Transparent AI Code Review Costs",
+    "url": "https://baz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "One seat price for code review, with 50 reviews per developer included each month. Agents are billed by usage.",
+    "url": "https://baz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Pro, plus the controls and deployment options large organizations need.",
+    "url": "https://baz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Centralized enterprise admin controls",
+    "url": "https://baz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What is included in Pro?",
+    "url": "https://baz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "When does this pricing apply?",
+    "url": "https://baz.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Baz pricing is getting simpler",
+    "url": "https://baz.ai/resources/blog/simpler-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Until now, Baz pricing had two parts: seats for code review, and Engineering Work Credits for agents like Fixer and AI SRE. Starting November 3, 2026, it is one simple plan. It applies to your account from your next billing cycle.",
+    "url": "https://baz.ai/resources/blog/simpler-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pro includes 50 reviews per developer each month. Each review after that is $1.",
+    "url": "https://baz.ai/resources/blog/simpler-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We recently rebuilt our code review harness and improved accuracy, quality, and latency together:",
+    "url": "https://baz.ai/resources/blog/simpler-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "CLAUDE.md loads as a user message, not the system prompt, so adherence is best-effort. Long context dilutes it, Skills fire only when selected, subagents start fresh, and auto memory never reaches the repository.",
+    "url": "https://baz.ai/solutions/claude-code",
+    "pass": 1
+   },
+   {
+    "quote": "Baz discovers CLAUDE.md, its @-imported files, .claude/rules, and Skills, then loads only the",
+    "url": "https://baz.ai/solutions/claude-code",
+    "pass": 1
+   },
+   {
+    "quote": "cross-repository evidence, so the approach is grounded before implementation begins.",
+    "url": "https://baz.ai/solutions/claude-code",
+    "pass": 1
+   },
+   {
+    "quote": "Approve the plan, then upload it to Baz so teammates can comment on it, and link it to the PR that implements it.",
+    "url": "https://baz.ai/solutions/claude-code",
+    "pass": 1
+   },
+   {
+    "quote": "A plan grounded in cross-repository evidence, reviewed by the team in Baz before any code exists, and linked to the PR that ships it.",
+    "url": "https://baz.ai/solutions/claude-code",
+    "pass": 1
+   },
+   {
+    "quote": "can produce work many ways:",
+    "url": "https://baz.ai/solutions/claude-code",
+    "pass": 1
+   },
+   {
+    "quote": "The approved plan, the ticket and designs, and the running application",
+    "url": "https://baz.ai/solutions/claude-code",
+    "pass": 1
+   },
+   {
+    "quote": "Findings, discussions, approvals, checks, and team merge requirements",
+    "url": "https://baz.ai/solutions/claude-code",
+    "pass": 1
+   },
+   {
+    "quote": "Project Rules, AGENTS.md",
+    "url": "https://baz.ai/solutions/claude-code",
+    "pass": 1
+   },
+   {
+    "quote": "Skill Maintainer PRs to CLAUDE.md and Skills",
+    "url": "https://baz.ai/solutions/claude-code",
+    "pass": 1
+   },
+   {
+    "quote": "Skill Maintainer PRs to AGENTS.md and Skills",
+    "url": "https://baz.ai/solutions/claude-code",
+    "pass": 1
+   },
+   {
+    "quote": "Skill Maintainer PRs to rules and Skills",
+    "url": "https://baz.ai/solutions/claude-code",
+    "pass": 1
+   },
+   {
+    "quote": ", outside the session that produced the code.",
+    "url": "https://baz.ai/solutions/claude-code",
+    "pass": 1
+   },
+   {
+    "quote": "Baz enforces guidance it can read from connected repositories. Personal memory and uncommitted settings stay private. Requirements that must apply across the organization belong in versioned repo guidance.",
+    "url": "https://baz.ai/solutions/claude-code",
+    "pass": 1
+   },
+   {
+    "quote": "Planner runs inside your Claude Code session through the plugin. Review runs independently in GitHub against the pushed commit, not the local checkout, so creation and approval stay separate.",
+    "url": "https://baz.ai/solutions/claude-code",
+    "pass": 1
+   },
+   {
+    "quote": "for durable project guidance and runs across local sessions and cloud tasks in parallel worktrees, under Read Only, Auto, or Full Access. Its own Review panel checks the diff inside the session that wrote it. Baz reviews the Change again",
+    "url": "https://baz.ai/solutions/codex",
+    "pass": 1
+   },
+   {
+    "quote": ", from the pushed commit rather than any worktree, applies the AGENTS.md rules that match the changed paths, and returns one merge verdict no matter which session or worktree produced the code.",
+    "url": "https://baz.ai/solutions/codex",
+    "pass": 1
+   },
+   {
+    "quote": "AGENTS.md, Skills, plugins, MCP, subagents, memories, and task prompts",
+    "url": "https://baz.ai/solutions/codex",
+    "pass": 1
+   },
+   {
+    "quote": ", outside the session that produced the code.",
+    "url": "https://baz.ai/solutions/codex",
+    "pass": 1
+   },
+   {
+    "quote": "grounded in the whole organization, presented for approval before code.",
+    "url": "https://baz.ai/solutions/codex",
+    "pass": 1
+   },
+   {
+    "quote": "Upload the approved plan to Baz for team review, with the relevant repositories, model, and usage recorded.",
+    "url": "https://baz.ai/solutions/codex",
+    "pass": 1
+   },
+   {
+    "quote": "A plan the team reviews and versions in Baz before implementation, linked to the PR that implements it.",
+    "url": "https://baz.ai/solutions/codex",
+    "pass": 1
+   },
+   {
+    "quote": "can produce work many ways:",
+    "url": "https://baz.ai/solutions/codex",
+    "pass": 1
+   },
+   {
+    "quote": "The approved plan, the ticket and designs, and the running application",
+    "url": "https://baz.ai/solutions/codex",
+    "pass": 1
+   },
+   {
+    "quote": "Findings, discussions, approvals, checks, and team merge requirements",
+    "url": "https://baz.ai/solutions/codex",
+    "pass": 1
+   },
+   {
+    "quote": "Project Rules, AGENTS.md",
+    "url": "https://baz.ai/solutions/codex",
+    "pass": 1
+   },
+   {
+    "quote": "Skill Maintainer PRs to CLAUDE.md and Skills",
+    "url": "https://baz.ai/solutions/codex",
+    "pass": 1
+   },
+   {
+    "quote": "Skill Maintainer PRs to AGENTS.md and Skills",
+    "url": "https://baz.ai/solutions/codex",
+    "pass": 1
+   },
+   {
+    "quote": "Skill Maintainer PRs to rules and Skills",
+    "url": "https://baz.ai/solutions/codex",
+    "pass": 1
+   },
+   {
+    "quote": "Baz discovers CLAUDE.md, its @-imported files, .claude/rules, and Skills, then loads only the",
+    "url": "https://baz.ai/solutions/codex",
+    "pass": 1
+   },
+   {
+    "quote": "What gets pushed. Baz reads the commit from your git server by object id, so the verdict covers the exact code that will merge, not a copy that may still be changing.",
+    "url": "https://baz.ai/solutions/codex",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by engineering teams",
+    "url": "https://baz.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Building an AI code review layer for your software factory: four lessons from a CTO",
+    "url": "https://baz.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the teams shipping AI-native software",
+    "url": "https://baz.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "A government UCaaS migration case study: how independent telecom project management helped a municipal IT team navigate a complex hosted phone system […]",
+    "url": "https://www.bazgroup.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "A government communications technology consulting case study: how BAZ Group served as interim telecom manager, led a 35-building phone system […]",
+    "url": "https://www.bazgroup.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "A telecom expense management rescue case study: how BAZ Group fixed mismanaged GL coding, rebuilt a service inventory from scratch, and restored […]",
+    "url": "https://www.bazgroup.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "An enterprise mobile device optimization case study: how BAZ Group inventoried 6,200+ devices, disconnected 1,750 that were unnecessary, redesigned […]",
+    "url": "https://www.bazgroup.com/case-studies/author/thebazgroup/page/2",
+    "pass": 3
+   },
+   {
+    "quote": "IT Plus Case Study: Baz Clean – Baz Clean - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/it-plus/case-study/baz-clean-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Baz Clean - Customer Case Study",
+    "url": "https://www.casestudies.com/company/it-plus/case-study/baz-clean-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Baz Clean used IT Plus",
+    "url": "https://www.casestudies.com/company/it-plus/case-study/baz-clean-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/it-plus/case-study/baz-clean-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/it-plus/case-study/baz-clean-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Battery Ventures is an investment firm specializing in technology-focused venture-capital and private-equity investments. It supports businesses across various sectors, including application software and industrial technology, by providing capital",
+    "url": "https://www.inven.ai/data/companies/baz-co",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Claude Code carries guidance in CLAUDE.md, .claude/rules, imported @AGENTS.md, and",
+    "url": "https://baz.ai/solutions/claude-code",
+    "pass": 1
+   },
+   {
+    "quote": "Does guidance apply only to part of a repository?",
+    "url": "https://baz.ai/solutions/cursor",
+    "pass": 1
+   },
+   {
+    "quote": "Code review is valuable, but it usually arrives too late. By the time it flags code that never should have been written, the rework has already begun. You pay for the original work, then for the fixes, the re-reviews, and the context switching: often three times the effort you already invested. As agents write more of the code, that hidden tax on speed and quality compounds.",
+    "url": "https://baz.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Baz moves quality upstream. It learns how your team defines good: your patterns, your constraints, and the thousand decisions your experts make without ever writing them down. Then it checks every plan against them before implementation starts. Specialized agents carry that context into the code that does get written, so review becomes a quick confirmation instead of expensive damage control.",
+    "url": "https://baz.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Multiple acquisitions and divestitures, inconsistent third-party connectivity policies, and decentralized wireless management had left Brambles […]",
+    "url": "https://www.bazgroup.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/634720-51",
+    "pass": 3
+   },
+   {
+    "quote": "Baz has 32 total employees.",
+    "url": "https://pitchbook.com/profiles/company/634720-51",
+    "pass": 3
+   },
+   {
+    "quote": "What is Baz’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/634720-51",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Baz is",
+    "url": "https://pitchbook.com/profiles/company/634720-51",
+    "pass": 3
+   },
+   {
+    "quote": "Baz Revenue, Funding, Alternatives & Headcount | Dealigence",
+    "url": "https://dealigence.vc/company/baz",
+    "pass": 3
+   },
+   {
+    "quote": "Unlock filed revenue history, with growth over every year.",
+    "url": "https://www.inven.ai/data/companies/baz-co",
+    "pass": 3
+   },
+   {
+    "quote": "Baz Revenue 2025: $2.3M Est.",
+    "url": "https://getlatka.com/companies/baz.co",
+    "pass": 3
+   },
+   {
+    "quote": "Baz has not published its revenue. GetLatka estimates it at about $2.3M a year (October 2025).",
+    "url": "https://getlatka.com/companies/baz.co",
+    "pass": 3
+   },
+   {
+    "quote": "Baz CEO, founders & employees",
+    "url": "https://getlatka.com/companies/baz.co",
+    "pass": 3
+   },
+   {
+    "quote": "Guy Eisenkot founded Baz and runs it as CEO. Baz has 21 employees (October 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/baz.co",
+    "pass": 3
+   },
+   {
+    "quote": "What is Baz's revenue?",
+    "url": "https://getlatka.com/companies/baz.co",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Baz's revenue at about",
+    "url": "https://getlatka.com/companies/baz.co",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Baz have?",
+    "url": "https://getlatka.com/companies/baz.co",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of October 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/baz.co",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/baz.co",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/baz.co",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/baz.co",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "BAZ BIOMEDIC JAPAN株式会社 | BAZ BIOMEDIC JAPAN株式会社",
+    "url": "https://bazbiomedic-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちBAZ BIOMEDIC JAPANは、ニードルフリージェットインジェクター（NFJI）の世界的イノベーターである韓国のBAZ BIOMEDIC社の日本法人として設立され、NFJI技術の新境地を開拓いたします",
+    "url": "https://bazbiomedic-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "第49回 日本美容外科学会総会・学術集会への参加及びランチョンオンセミナー6 開催のお知らせ",
+    "url": "https://bazbiomedic-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "第8回 日本メソセラピー研究会学術集会 への参加のお知らせ",
+    "url": "https://bazbiomedic-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "第4回 日本美容医師会 への参加のお知らせ",
+    "url": "https://bazbiomedic-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "BAZ BIOMEDIC 日本本社に訪問しました - 銀座たるみクリニックのブログ",
+    "url": "https://tarumiclinic.com/blog/914/",
+    "pass": 3
+   },
+   {
+    "quote": "BAZ BIOMEDIC 日本本社に訪問しました",
+    "url": "https://tarumiclinic.com/blog/914/",
+    "pass": 3
+   },
+   {
+    "quote": "昨日は当院でも導入しているCURE JET（キュアジェット）を販売しているBAZ BIOMEDIC社の日本本社にお伺いしました",
+    "url": "https://tarumiclinic.com/blog/914/",
+    "pass": 3
+   },
+   {
+    "quote": "今後さらに日本で正しい治療方法が広まることで、より多くの患者様に適切な治療を届けることができる有益な議論ができたと思います",
+    "url": "https://tarumiclinic.com/blog/914/",
+    "pass": 3
+   },
+   {
+    "quote": "キュアジェットはまだ日本で発売されて間もない機器のため、これから新しい治療法も含めて開発されてくることを期待しています",
+    "url": "https://tarumiclinic.com/blog/914/",
+    "pass": 3
+   },
+   {
+    "quote": "BAZ BIOMEDIC JAPAN株式会社",
+    "url": "https://amwc-japan.eventos.tokyo/web/portal/1171/event/15909/module/booth/429388/414256?language=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://bazbiomedic-japan.com/",
+    "url": "https://amwc-japan.eventos.tokyo/web/portal/1171/event/15909/module/booth/429388/414256?language=en",
+    "pass": 3
+   },
+   {
+    "quote": "About us | BAZ BIOMEDIC JAPAN株式会社",
+    "url": "https://bazbiomedic-japan.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "BAZ BIOMEDIC JAPAN株式会社",
+    "url": "https://bazbiomedic-japan.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "〒160-0023 東京都新宿区西新宿8-5-1 野村不動産西新宿共同ビル 2階",
+    "url": "https://bazbiomedic-japan.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都新宿区西新宿8-5-1 野村不動産西新宿共同ビル 2階",
+    "url": "https://bazbiomedic-japan.com/about-us/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "BAZ BIOMEDIC JAPAN株式会社 — Sep 29, 2026 · BAZ BIOMEDIC JAPAN株式会社 ソウル大学航空宇宙工学部の教授であり、BAZ BIOMEDIC社のCEOであるJAI-ICK YOHは、2010年、発射体と動力推進装置の研究中に、高密度エネルギー伝達原理を利用した装置が医療機器に応用できることを発見しました。 そしてジェット方式を採用したニードルフリーのドラッグ ...",
+    "url": "https://bazbiomedic-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "BAZ BIOMEDIC 日本本社に訪問しました - 銀座たるみクリニックのブロ... — Nov 19, 2024 · BAZ BIOMEDIC 日本本社に訪問しました 昨日は当院でも導入しているCURE JET（キュアジェット）を販売しているBAZ BIOMEDIC社の日本本社にお伺いしました。 営業とマーケティング担当者とディスカッションして治療のヒントを頂きました。 今後さらに日本で正しい治療方法が広まることで、より多くの ...",
+    "url": "https://tarumiclinic.com/blog/914/",
+    "pass": 3
+   },
+   {
+    "quote": "BAZ BIOMEDIC JAPAN株式会社 — BAZ BIOMEDIC JAPAN株式会社は、韓国発の美容医療関連製品を日本市場へ導入する輸入代行業者です。針を用いないジェットインジェクター「CUREjet」や、PDRN・PLLA・MPFなどのスキンブースター製品を中心に、医療機関向けの情報提供、学会・セミナー活動、臨床知見の共有を通じて、美容医療分野に ...",
+    "url": "https://amwc-japan.eventos.tokyo/web/portal/1171/event/15909/module/booth/429388/414256?language=en",
+    "pass": 3
+   },
+   {
+    "quote": "BAZ BIOMEDIC JAPAN株式会社（東京都）の会社概要・役員 | Compalyze — 〒160-0023 東京都新宿区に本社を置くBAZ BIOMEDIC JAPAN株式会社の企業情報。BAZ BIOMEDIC JAPAN株式会社は、韓国のBAZ BIOMEDIC社の日本法人として、医薬品、医療機器。製造業 (医薬品・医療機器)、2024年設立、社会保険被保険者数22名。代表者 趙珍暎。",
+    "url": "https://compalyze.co.jp/company/1010403031879",
+    "pass": 3
+   },
+   {
+    "quote": "イベント | BAZ BIOMEDIC JAPAN株式会社 — テーマ：韓国最新トレンドから学ぶ「剥離×導入」の肌再生治療～ニードルフリーインジェクター×hADMで実践する肌質改善からニキビ瘢痕治療まで～ ・講師：ナム・ソンヒョン 先生（NaA Clinic 代表院長）・開催日：20 […]",
+    "url": "https://bazbiomedic-japan.com/event/",
+    "pass": 3
+   },
+   {
+    "quote": "About us | BAZ BIOMEDIC JAPAN株式会社 — 会社名 BAZ BIOMEDIC JAPAN株式会社 代表者 西山 哲弘 趙 珍瑛 所在地 〒160-0023 東京都新宿区西新宿8-5-1 野村不動産西新宿共同ビル 2階 大阪オフィス 〒541-0052 大阪府大阪市中央区安土町2丁目3番13号 大阪国際ビルディング31階 TEL 03-6826-0434（FAX 03-6385-7684) 事業内容 1. 医薬品・医療機器・医療用品・医薬 ...",
+    "url": "https://bazbiomedic-japan.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "ブランド古着通販 BAZZSTORE（バズストア） — ブランド古着の通販・買取・販売を行うリユースショップ【BAZZSTORE（バズストア）】公式サイト。渋谷、下北沢、原宿、高円寺、池袋、吉祥寺など東京の古着のメッカに多数の店舗を展開するBAZZSTOREのオンライン通販サイトです。",
+    "url": "https://ec.bazzstore.com/",
+    "pass": 3
+   },
+   {
+    "quote": "BAZ Group Case Studies — Nov 13, 2025 · A telecom expense management rescue case study: how BAZ Group fixed mismanaged GL coding, rebuilt a service inventory from scratch, and restored […]",
+    "url": "https://www.bazgroup.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Baz Customer Case Studies - AI Code Review Results — Mar 29, 2026 · See how engineering teams use Baz to ship faster and cleaner. Real case studies, measurable results, and customer testimonials on AI code review.",
+    "url": "https://baz.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "BAZ Group Case Studies | TheBazGroup (2) — An enterprise mobile device optimization case study: how BAZ Group inventoried 6,200+ devices, disconnected 1,750 that were unnecessary, redesigned […]",
+    "url": "https://www.bazgroup.com/case-studies/author/thebazgroup/page/2",
+    "pass": 3
+   },
+   {
+    "quote": "IT Plus Case Study: Baz Clean – Baz Clean - Customer Case ... — Baz Clean partnered with IT Plus (Information Technology and Services) to solve key challenges. \"Baz Clean - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/it-plus/case-study/baz-clean-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "BAZ - Appdome Customer Case Study | PDF | Mobile App ... - Scribd — CUSTOMER CASE STUDY Superapp Oﬀering consumers a secure way to manage all their ﬁnancial transactions and consume content from a single mobile application, a superapp. CUSTOMER OVERVIEW SOLUTION BAZ Superapp, S.A. de C.V., is a new a Grupo Salinas company. Appdome, together with Mexico City-based partner Incident Grupo Salinas is ",
+    "url": "https://www.scribd.com/document/791512702/BAZ-Appdome-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Baz 2026 Company Profile: Valuation, Funding & Investors ...Baz Revenue, Funding, Alternatives & Headcount | DealigenceBaz — company profile, headcount and funding | InvenBaz Revenue 2025: $2.3M Est. - getlatka.comBaz Media Revenue, Funding & Valuation - prospeo.ioBaz — Company Profile & Funding | Indexed.vcBaz AI 2026 Company Profile: Valuation, Funding & Investors ... — Baz has 32 total employee",
+    "url": "https://pitchbook.com/profiles/company/634720-51",
+    "pass": 3
+   },
+   {
+    "quote": "Baz Revenue, Funding, Alternatives & Headcount | Dealigence — Baz - Free Access to Funding, Revenue, Investors, Headcount Trends, Alternatives, Similar Companies, Competitors & Sr. Management data.",
+    "url": "https://dealigence.vc/company/baz",
+    "pass": 3
+   },
+   {
+    "quote": "Baz — company profile, headcount and funding | Inven — They provide tools that enhance the efficiency of software development teams by automating code analysis and remediation. Their primary customers are businesses and organizations in the tech sector, seeking to improve code quality and streamline their development processes. Employees 33 Founded 2023 Ownership venture capital Est. revenue $7.7M",
+    "url": "https://www.inven.ai/data/companies/baz-co",
+    "pass": 3
+   },
+   {
+    "quote": "Baz Revenue 2025: $2.3M Est. - getlatka.com — Sep 2, 2026 · Baz 2025 estimated revenue: $2.3M. 21 employees. Industry: Application Development Software. HQ: Israel. Updated Sep 2, 2026.",
+    "url": "https://getlatka.com/companies/baz.co",
+    "pass": 3
+   },
+   {
+    "quote": "Baz Media Revenue, Funding & Valuation - prospeo.io — Baz Media has revenue of $85,555, estimated valuation of $273,776. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/baz-media-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/634720-51",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "艦これのランカー除外について｜baz Jul 7, 2026 · 艦これで唯一他人とやりあう要素があるのがランカーです 要はどれだけ時間を突っ込めたかと効率の掛け算で結果が出るわけですが ここでまことしやかにささやかれているのが4時間ルール なんのこっちゃというと1日4時間以上の操作がない時間を設けないと除外 またはBANされるというやつ ...",
+    "url": "https://note.com/baz2026_07/n/nebe4a766cdfb",
+    "pass": 3
+   },
+   {
+    "quote": "理学か工学か｜baz - note（ノート） 以前読んだ本でべた褒めされていたのでこれを読みました ハーバード 料理と科学の教室 www.amazon.co.jp 7,700円 (2026年10月17日 18:25時点 詳しくはこちら) Amazon.co.jpで購入する お高い料理には縁がないのですが、この理屈の進め方はどこかで見たような… この本です Cooking for Geeks 第2版 ―料理の科学 ...",
+    "url": "https://note.com/baz2026_07/n/nc7641b92cb13",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "艦これで唯一他人とやりあう要素があるのがランカーです",
+    "url": "https://note.com/baz2026_07/n/nebe4a766cdfb",
+    "pass": 3
+   },
+   {
+    "quote": "要はどれだけ時間を突っ込めたかと効率の掛け算で結果が出るわけですが",
+    "url": "https://note.com/baz2026_07/n/nebe4a766cdfb",
+    "pass": 3
+   },
+   {
+    "quote": "ここでまことしやかにささやかれているのが4時間ルール",
+    "url": "https://note.com/baz2026_07/n/nebe4a766cdfb",
+    "pass": 3
+   },
+   {
+    "quote": "なんのこっちゃというと1日4時間以上の操作がない時間を設けないと除外 またはBANされるというやつです",
+    "url": "https://note.com/baz2026_07/n/nebe4a766cdfb",
+    "pass": 3
+   },
+   {
+    "quote": "あの人もこの人も除外されたとユーザ側の経験から推察されたのがこのルールです",
+    "url": "https://note.com/baz2026_07/n/nebe4a766cdfb",
+    "pass": 3
+   },
+   {
+    "quote": "間違いなく除外された方々はツールの設定を間違えてたかBOT使ったかのいずれかです",
+    "url": "https://note.com/baz2026_07/n/nebe4a766cdfb",
+    "pass": 3
+   },
+   {
+    "quote": "月末に36時間戦果稼いでてもBANされたことがないからです",
+    "url": "https://note.com/baz2026_07/n/nebe4a766cdfb",
+    "pass": 3
+   },
+   {
+    "quote": "併せてログインしっぱなしでランカー報酬を次のメンテで受け取った次の月も除外されたことはないです",
+    "url": "https://note.com/baz2026_07/n/nebe4a766cdfb",
+    "pass": 3
+   },
+   {
+    "quote": "以前読んだ本でべた褒めされていたのでこれを読みました",
+    "url": "https://note.com/baz2026_07/n/nc7641b92cb13",
+    "pass": 3
+   },
+   {
+    "quote": "お高い料理には縁がないのですが、この理屈の進め方はどこかで見たような…",
+    "url": "https://note.com/baz2026_07/n/nc7641b92cb13",
+    "pass": 3
+   },
+   {
+    "quote": "• 「理学（サイエンス）」の視点でプロレベルの料理人の技法を解説するハーバード",
+    "url": "https://note.com/baz2026_07/n/nc7641b92cb13",
+    "pass": 3
+   },
+   {
+    "quote": "• 「工学（主にITエンジニアリング）」の視点で、日常のシステムを最適化しようとするCooking for Geeks（というかオライリーのセルフパロディ）",
+    "url": "https://note.com/baz2026_07/n/nc7641b92cb13",
+    "pass": 3
+   },
+   {
+    "quote": "好みの問題や初出の時期もあるんでしょうけど、個人的にはCooking for Geeksのアプローチが好きでしたねえ",
+    "url": "https://note.com/baz2026_07/n/nc7641b92cb13",
+    "pass": 3
+   },
+   {
+    "quote": "どちらも面白いので一度読んでみてはいかがでしょうか",
+    "url": "https://note.com/baz2026_07/n/nc7641b92cb13",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Baz (@Baz_OCE) / X 271 Baz @Baz_OCE Sep 4 WE ARE LIVE, - PLAYING THE RL OCE MINECRAFT PVP SERVER JOIN UP",
+    "url": "https://x.com/Baz_OCE",
+    "pass": 3
+   },
+   {
+    "quote": "Baz (@THT1878) / X Baz @THT1878 Feb 1, 2025 What a win 💪🏻 up the Moyesie Toffees 💙 🔵 ⚪️ enjoy it Blues and have a great weekend #UTFT #EFC #COYB and btw this was boss ⬇️ well in @Originals1878 💙",
+    "url": "https://x.com/THT1878",
+    "pass": 3
+   },
+   {
+    "quote": "Baz (@justbazzzz) / X Aug 24, 2015 · 2 54 3K Baz @justbazzzz Jan 19, 2025 Why does it look like I'm wearing someone else's face? 💀",
+    "url": "https://x.com/justbazzzz",
+    "pass": 3
+   },
+   {
+    "quote": "Baz (@BazSupport) / X 2 20 1K Baz @BazSupport May 23, 2025 There is a little bit of #GodotEngine gdscript required, but the func's are called using visual script, so this is literally the only code needed in this case:",
+    "url": "https://x.com/BazSupport",
+    "pass": 3
+   },
+   {
+    "quote": "BAZ-METAL@る01bティア158 on X: \"【 #コミティア158 】お品書き・サ... 【 #コミティア158 】お品書き・サンプル 東1る01b 「BAZ-METAL artworks」 人外・軍事ファンタジー 新刊のおまけは、商業投稿バージョン（先着・なくなり次第終了） 竜族BL本は残部少。 次回新作の元ネタになる予定のネタです。 ⭐️立ち読みOKなのでぜひ。",
+    "url": "https://x.com/bazmetal666/status/2119370010615513581",
+    "pass": 3
+   },
+   {
+    "quote": "BAZ-METAL@北ティアI02 on X: \"素人投稿漫画の寄せ集めだからこの本の... Oct 16, 2026 · BAZ-METAL@北ティアI02 @bazmetal666 Show translation 素人投稿漫画の寄せ集めだからこの本の漫画自体がめちゃくちゃ読みにくくて苦痛😇 2:18 PM · Oct 16, 2026 · 62 Views",
+    "url": "https://x.com/bazmetal666/status/2111099493655716215",
+    "pass": 3
+   },
+   {
+    "quote": "BAZ-METAL@北ティアI02 on X: \"投稿した漫画を皆さんに提供するの、は... BAZ-METAL@北ティアI02 on X: \"投稿した漫画を皆さんに提供するの、はじめが11/1の北ティア 12/13の東京コミティア、帯広のおび ...",
+    "url": "https://x.com/bazmetal666/status/2113862949815439708",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Baz - LinkedIn Baz | 5,186 followers on LinkedIn. AI code review that understands the spec and keeps every change aligned with intent. | Baz gives development teams a clear understanding of how every change ...",
+    "url": "https://www.linkedin.com/company/bazco",
+    "pass": 3
+   },
+   {
+    "quote": "BAZ Airborne Components & Assemblies - LinkedIn BAZ Airborne Components and Assemblies is a one-stop-shop for aerospace metal components and assemblies. Located in northern Israel, we deliver civilian and military aircraft products to customers ...",
+    "url": "https://www.linkedin.com/company/baz-aircraft",
+    "pass": 3
+   },
+   {
+    "quote": "ESC BAZ Ltd. - LinkedIn ESC BAZ Ltd. specializes in the development of surveillance systems & solutions for defense and homeland security. The company offers wide range of customizable products & integrated solutions for border management, perimeter security and protection of sensitive sites. ESC BAZ systems are deployed globally. Customers include the military, police and government agencies worl",
+    "url": "https://il.linkedin.com/company/esc-baz",
+    "pass": 3
+   },
+   {
+    "quote": "Baz Group of Companies - LinkedIn The Baz Group of Companies is one of Canada’s largest privately-owned Real Estate firms with a portfolio of over 20,000 units in various stages of development, construction, repositioning, and completion. Its portfolio represents more than 16 million square feet of GFA across Canada and the United States with a completion value of over $10 billion. Through its ope",
+    "url": "https://ca.linkedin.com/company/marlinspringinvestments",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Lifewithbaz - Facebook 6 days ago · Lifewithbaz. 171,755 followers · 20,844 talking about this. 🕺Max Baz & Maoly💃🏻 📍Texas 🇺🇸 Life & Laughs 📨 LifeWithBaz@teamonwardtalent.com",
+    "url": "https://www.facebook.com/p/Lifewithbaz-61578942693205/",
+    "pass": 3
+   },
+   {
+    "quote": "BAZ Marco Bazzoni - FacebookTlalnepantla de Baz | FacebookBAZ باز | Irbil - FacebookBaz Inc - FacebookBaz Luhrmann - FacebookBaz plastic - باز بلاستيك | Irbil - Facebook BAZ Marco Bazzoni. 1,668,441 followers · 2,300 talking about this. Comedian 4 days ago · Estás embarazada y requieres un ultrasonido para tu control del embarazo. Costo 280 pesos durante el mes de octubre y noviembre del 2026. Se ",
+    "url": "https://www.facebook.com/BAZmarcobazzoni/",
+    "pass": 3
+   },
+   {
+    "quote": "Tlalnepantla de Baz | Facebook 4 days ago · Estás embarazada y requieres un ultrasonido para tu control del embarazo. Costo 280 pesos durante el mes de octubre y noviembre del 2026. Se entrega reporte médico y fotos impresas. Estamos ubicados en Tlalnepantla de Baz estado de México. A una cuadra de la clínica 60 del IMSS. #ultrasonido #embarazo #embarazofeliz #futuramama",
+    "url": "https://business.facebook.com/groups/elpuerto/",
+    "pass": 3
+   },
+   {
+    "quote": "BAZ باز | Irbil - FacebookBaz Inc - FacebookBaz Luhrmann - FacebookBaz plastic - باز بلاستيك | Irbil - Facebook Oct 31, 2026 · BAZ باز, Irbil. 379,864 followers · 116,313 talking about this. باز بەرز ئەفڕێت و بۆ سەربەرزی ئەژیت ڕاستی ڕێگامانە سەرفرازی ئامانجمانە Oct 15, 2026 · Baz Inc. 1,254 followers · 25 talking about this · 29 were here. Ready-to-wear fashion empowering effortless elegance. Desi",
+    "url": "https://www.facebook.com/BAZKRD/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://baz.co/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://baz.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baz.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baz.ai/resources/blog/simpler-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baz.ai/solutions/claude-code",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baz.ai/solutions/codex",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baz.ai/solutions/cursor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baz.ai/solutions/devin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baz.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baz.ai/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://baz.ai/customer-logos/act-security.svg?dpl=dpl_8Ckbe3g5vFeHF7dMGgr2HK8a48Yr",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://baz.ai/customer-logos/armis.svg?dpl=dpl_8Ckbe3g5vFeHF7dMGgr2HK8a48Yr",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://baz.ai/customer-logos/pluto-security.svg?dpl=dpl_8Ckbe3g5vFeHF7dMGgr2HK8a48Yr",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://baz.ai/customer-logos/stigg.svg?dpl=dpl_8Ckbe3g5vFeHF7dMGgr2HK8a48Yr",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://bazbiomedic-japan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tarumiclinic.com/blog/914/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amwc-japan.eventos.tokyo/web/portal/1171/event/15909/module/booth/429388/414256?language=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/1010403031879",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://context.reverso.net/%E7%BF%BB%E8%A8%B3/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E8%8B%B1%E8%AA%9E/%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/BMG_JAPAN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/B'z",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bazbiomedic-japan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bazbiomedic-japan.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bazgroup.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baz.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bazgroup.com/case-studies/author/thebazgroup/page/2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/it-plus/case-study/baz-clean-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sap.com/partners/partner-program",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partners.adobe.com/digitalexperience/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/634720-51",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dealigence.vc/company/baz",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inven.ai/data/companies/baz-co",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/baz.co",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/baz2026_07/n/nebe4a766cdfb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/baz2026_07/n/nc7641b92cb13",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Baz_OCE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/THT1878",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/justbazzzz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BazSupport",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/bazco",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/baz-aircraft",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/company/esc-baz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/marlinspringinvestments",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Lifewithbaz-61578942693205/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/BAZmarcobazzoni/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.facebook.com/groups/elpuerto/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/BAZKRD/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/bazmetal666/status/2119370010615513581",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/bazmetal666/status/2111099493655716215",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/bazmetal666/status/2113862949815439708",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Baz 日本 導入",
+   "results": [
+    "https://bazbiomedic-japan.com/",
+    "https://tarumiclinic.com/blog/914/",
+    "https://amwc-japan.eventos.tokyo/web/portal/1171/event/15909/module/booth/429388/414256?language=en",
+    "https://compalyze.co.jp/company/1010403031879",
+    "https://bazbiomedic-japan.com/event/",
+    "https://yaotome-skin-clinic.com/medical-equipment/curejet/",
+    "https://www.fnn.jp/articles/-/1133814"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Baz 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://eikaiwa.dmm.com/uknow/questions/65573/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Baz Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/BMG_JAPAN",
+    "https://en.wikipedia.org/wiki/B'z",
+    "https://bazbiomedic-japan.com/",
+    "https://bazbiomedic-japan.com/about-us/",
+    "https://ec.bazzstore.com/",
+    "https://www.instagram.com/baz_biomedic_japan/",
+    "https://amwc-japan.eventos.tokyo/web/portal/1171/event/15909/module/booth/429388/414256?language=eng",
+    "https://compalyze.co.jp/company/1010403031879"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Baz manufacturing customer case study",
+   "results": [
+    "https://www.bazgroup.com/case-studies",
+    "https://baz.ai/customers",
+    "https://www.bazgroup.com/case-studies/author/thebazgroup/page/2",
+    "https://www.casestudies.com/company/it-plus/case-study/baz-clean-customer-case-study",
+    "https://www.scribd.com/document/791512702/BAZ-Appdome-customer-case-study",
+    "https://www.casestudies.com/customer/baz-clean",
+    "https://bazconsulting.com/case-studies/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Baz white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.seoreseller.com/",
+    "https://www.sap.com/partners/partner-program",
+    "https://partners.adobe.com/digitalexperience/",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Baz founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/634720-51",
+    "https://dealigence.vc/company/baz",
+    "https://www.inven.ai/data/companies/baz-co",
+    "https://getlatka.com/companies/baz.co",
+    "https://prospeo.io/c/baz-media-revenue",
+    "https://indexed.vc/companies/baz",
+    "https://pitchbook.com/profiles/company/607315-06",
+    "https://fundediq.co/baz-baz-co-funding/",
+    "https://www.gritt.io/company/bazco/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com Baz",
+   "results": [
+    "https://note.com/baz2026_07/n/nebe4a766cdfb",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/baz2026_07/n/nc7641b92cb13",
+    "https://note.com/baz2026_07/n/n6cfbd67c7866",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/cute_willet990/n/n9529041a97d7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Baz",
+   "results": [
+    "https://x.com/Baz_OCE",
+    "https://x.com/THT1878",
+    "https://x.com/justbazzzz",
+    "https://x.com/BazSupport",
+    "https://x.com/IamBazzz",
+    "https://x.com/OhHeyItsBaz",
+    "https://x.com/MetaBaz7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Baz",
+   "results": [
+    "https://www.linkedin.com/company/bazco",
+    "https://www.linkedin.com/company/baz-aircraft",
+    "https://il.linkedin.com/company/esc-baz",
+    "https://ca.linkedin.com/company/marlinspringinvestments",
+    "https://uk.linkedin.com/in/baz-moffat",
+    "https://ca.linkedin.com/in/baz-sayghani-b7583898",
+    "https://uk.linkedin.com/in/baz-chapman-b7620656"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Baz",
+   "results": [
+    "https://www.facebook.com/p/Lifewithbaz-61578942693205/",
+    "https://www.facebook.com/BAZmarcobazzoni/",
+    "https://business.facebook.com/groups/elpuerto/",
+    "https://www.facebook.com/BAZKRD/",
+    "https://www.facebook.com/bazincbrand/",
+    "https://www.facebook.com/BazLuhrmannOfficial/",
+    "https://www.facebook.com/bazplastic/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Baz note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Baz X 投稿",
+   "results": [
+    "https://x.com/bazmetal666/status/2119370010615513581",
+    "https://x.com/bazmetal666/status/2111099493655716215",
+    "https://x.com/bazmetal666/status/2113862949815439708",
+    "https://x-sou.com/ja/u/BazPlaCouple",
+    "https://x.com/bazmetal666/status/2115795268620996963",
+    "https://x.com/bazmetal666/status/2117288525691588980",
+    "https://x.com/bazmetal666/status/2116401327580541303"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式10頁／PDF・画像4件／外部41頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式10頁／PDF・画像4件／外部41頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式10頁／PDF・画像4件／外部41頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式10頁／PDF・画像4件／外部41頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式10頁／PDF・画像4件／外部41頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式10頁／PDF・画像4件／外部41頁・検索12回）"
+ }
+}

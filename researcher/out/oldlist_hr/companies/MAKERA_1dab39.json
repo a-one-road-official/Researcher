@@ -1,0 +1,1590 @@
+{
+ "name": "MAKERA",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜送付済み",
+ "researched_at": "2026-11-11T04:09:29.340833+00:00",
+ "official_url": "https://www.makera.com",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "お問い合わせ",
+    "value": "info@makera.com",
+    "url": "https://global.makera.com/ja/?srsltid=AYCX9vLRZUOEyrWnbt6KICURYZM2kMmpJjac44C-_hwqJkt5OCXi2JYG",
+    "pass": 3
+   },
+   {
+    "label": "お問い合わせ",
+    "value": "info@makera.com",
+    "url": "https://global.makera.com/ja/?srsltid=AYCX9vJWwEgg8to34j9AXLy-0X5Wu2dgBnbePF1DDVTd5UW47iNTJ0Hx",
+    "pass": 3
+   },
+   {
+    "label": "お問い合わせ",
+    "value": "info@makera.com",
+    "url": "https://global.makera.com/ja/?srsltid=AYCX9vLyTGeLtH-W_sH1hRmvIGPC8br-K_oUZ98qCE-4zzONV5CVnpY-",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Makera 3D Wired Probe",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Makera Z1 Low-Profile Vise",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stainless Steel Low Profile Hex Screw",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Makera Wired Probe V2.0 （Spare Part)",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Carvera Wireless Probe (spare part)",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Carvera Air Wired Probe (spare part)",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unified CAM+Controller, direct community access for ready‑to‑run projects, effortless creation",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CNC, 3D Printer and Laser",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Auto tool changing and auto probing are the keys to freeing your hands and achieving a real smart machine. Whether you are doing auto-leveling, cutting, cleaning, drilling, or carving, Carvera can automatically change the right tool for the right job seamlessly, making sure you get the best result.",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For many users, the Z1 delivers an uncommon balance of industrial-grade precision and truly intuitive usability.",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Makera Z1 delivers industrial-grade performance in a compact form factor while still offering significant precision",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Carvera is a desktop CNC mill with a bunch of features that seem to make it perfect for PCB prototyping.",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"The ability to make real, precise metal parts at home is finally here. Compared to 3D printing, the precision is unthinkable.\"",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"The rigidity of the Carvera Air genuinely surprised me. Cutting steel on the 4th axis punches well above its weight.\"",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"A desktop CNC at this price is wild. The machine is incredible, and the possibilities for makers are truly endless.\"",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From face milling to intricate threading, the Z1 delivers industrial-grade precision and surface finish right at home.",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"With its complete software and project ecosystem, Makera makes transitioning from 3D printing to CNC easier than ever.\"",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"The Z1 makes desktop machining accessible. It brings the same joy as 3D printing while letting you create real metal parts.\"",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A short description of the video content.",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how Yasin Akkoyun uses Carvera to build rocket hardware in-house, combine CNC with 3D printing, and cut one part’s machining time to about one hour.",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how snowsports filmmakers at Atelier3 use Carvera Air to machine 16mm camera cages and custom gear, then turn their own solutions into products.",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Marc of Silver Triple Designs brings vintage RC cars back to life with 3D printing and Carvera Air CNC machining, from replacement parts to original designs.",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturer defects covered, worry free product enjoyment!",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A 24/7 online specialist is at your disposal to solve your problems.",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Be the first to receive our latest product updates, newest offerings, and free product trials.",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Maker Stories: Real CNC Projects & Creator Journeys – Makera",
+    "url": "https://www.makera.com/blogs/maker-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Makera 3D Wired Probe",
+    "url": "https://www.makera.com/blogs/maker-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Makera Z1 Low-Profile Vise",
+    "url": "https://www.makera.com/blogs/maker-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Stainless Steel Low Profile Hex Screw",
+    "url": "https://www.makera.com/blogs/maker-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Makera Wired Probe V2.0 （Spare Part)",
+    "url": "https://www.makera.com/blogs/maker-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Carvera Wireless Probe (spare part)",
+    "url": "https://www.makera.com/blogs/maker-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Carvera Air Wired Probe (spare part)",
+    "url": "https://www.makera.com/blogs/maker-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Unified CAM+Controller, direct community access for ready‑to‑run projects, effortless creation",
+    "url": "https://www.makera.com/blogs/maker-stories",
+    "pass": 1
+   },
+   {
+    "quote": "CNC, 3D Printer and Laser",
+    "url": "https://www.makera.com/blogs/maker-stories",
+    "pass": 1
+   },
+   {
+    "quote": "In-depth guides, CNC tutorials, product insights, and makera stories for every stage of your CNC journey. Practical knowledge for beginners and professionals alike.",
+    "url": "https://www.makera.com/blogs/maker-stories",
+    "pass": 1
+   },
+   {
+    "quote": "See how Yasin Akkoyun uses Carvera to build rocket hardware in-house, combine CNC with 3D printing, and cut one part’s machining time to about one hour.",
+    "url": "https://www.makera.com/blogs/maker-stories",
+    "pass": 1
+   },
+   {
+    "quote": "See how snowsports filmmakers at Atelier3 use Carvera Air to machine 16mm camera cages and custom gear, then turn their own solutions into products.",
+    "url": "https://www.makera.com/blogs/maker-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Marc of Silver Triple Designs brings vintage RC cars back to life with 3D printing and Carvera Air CNC machining, from replacement parts to original designs.",
+    "url": "https://www.makera.com/blogs/maker-stories",
+    "pass": 1
+   },
+   {
+    "quote": "See how Rory Turnham of RS Junkie uses Carvera Air to prototype and machine custom motorcycle parts, including Aprilia RS125 fork top caps.",
+    "url": "https://www.makera.com/blogs/maker-stories",
+    "pass": 1
+   },
+   {
+    "quote": "See how LeoMakes used Carvera Air to make 100+ audio panels, speed up prototyping, and offset its purchase cost through avoided outsourcing in eight months.",
+    "url": "https://www.makera.com/blogs/maker-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturer defects covered, worry free product enjoyment!",
+    "url": "https://www.makera.com/blogs/maker-stories",
+    "pass": 1
+   },
+   {
+    "quote": "A 24/7 online specialist is at your disposal to solve your problems.",
+    "url": "https://www.makera.com/blogs/maker-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Be the first to receive our latest product updates, newest offerings, and free product trials.",
+    "url": "https://www.makera.com/blogs/maker-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Makera 3D Wired Probe",
+    "url": "https://www.makera.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Makera Z1 Low-Profile Vise",
+    "url": "https://www.makera.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Stainless Steel Low Profile Hex Screw",
+    "url": "https://www.makera.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Makera Wired Probe V2.0 （Spare Part)",
+    "url": "https://www.makera.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Carvera Wireless Probe (spare part)",
+    "url": "https://www.makera.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Carvera Air Wired Probe (spare part)",
+    "url": "https://www.makera.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Unified CAM+Controller, direct community access for ready‑to‑run projects, effortless creation",
+    "url": "https://www.makera.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "CNC, 3D Printer and Laser",
+    "url": "https://www.makera.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Today, 'Digital Fabrication' philosophy is empowering a new generation of creators globally, from Brooklyn jewelers to Los Angeles RC builders, proving that precision and simplicity can coexist.",
+    "url": "https://www.makera.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "April 2024 – Makera introduced Carvera Air, securing 2,098 backers and raising over $3.47 million, making it the most beloved desktop CNC among DIY enthusiasts.",
+    "url": "https://www.makera.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "September 2025 - Makera Z1 received “Best in Content Creation” at the IFA Innovation Awards",
+    "url": "https://www.makera.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "For many users, the Z1 delivers an uncommon balance of industrial-grade precision and truly intuitive usability.",
+    "url": "https://www.makera.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Makera Z1 delivers industrial-grade performance in a compact form factor while still offering significant precision",
+    "url": "https://www.makera.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Carvera is a desktop CNC mill with a bunch of features that seem to make it perfect for PCB prototyping.",
+    "url": "https://www.makera.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturer defects covered, worry free product enjoyment!",
+    "url": "https://www.makera.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "A 24/7 online specialist is at your disposal to solve your problems.",
+    "url": "https://www.makera.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Be the first to receive our latest product updates, newest offerings, and free product trials.",
+    "url": "https://www.makera.com/pages/about-us",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "For many users, the Z1 delivers an uncommon balance of industrial-grade precision and truly intuitive usability.",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Makera Z1 delivers industrial-grade performance in a compact form factor while still offering significant precision",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Makers & Creators",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From face milling to intricate threading, the Z1 delivers industrial-grade precision and surface finish right at home.",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From CAD to Rocket Hardware: Akkoyun Aerospace’s Carvera Story",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturer defects covered, worry free product enjoyment!",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From CAD to Rocket Hardware: Akkoyun Aerospace’s Carvera Story",
+    "url": "https://www.makera.com/blogs/maker-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturer defects covered, worry free product enjoyment!",
+    "url": "https://www.makera.com/blogs/maker-stories",
+    "pass": 1
+   },
+   {
+    "quote": "For many users, the Z1 delivers an uncommon balance of industrial-grade precision and truly intuitive usability.",
+    "url": "https://www.makera.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Makera Z1 delivers industrial-grade performance in a compact form factor while still offering significant precision",
+    "url": "https://www.makera.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "is the official regional website of Makera, dedicated to serving our US customers. This site is operated by MAKERA US INC. We leverage our manufacturing base in Anhui, China, along with dedicated fulfillment centers in California and Georgia for faster, smoother delivery across the US.",
+    "url": "https://www.makera.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturer defects covered, worry free product enjoyment!",
+    "url": "https://www.makera.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "From CAD to Rocket Hardware: Akkoyun Aerospace’s Carvera Story – Makera",
+    "url": "https://www.makera.com/blogs/maker-stories/akkoyun-aerospaces-carvera-story",
+    "pass": 1
+   },
+   {
+    "quote": "— Yasin Akkoyun, Founder of Akkoyun Aerospace",
+    "url": "https://www.makera.com/blogs/maker-stories/akkoyun-aerospaces-carvera-story",
+    "pass": 1
+   },
+   {
+    "quote": "From Model Aircraft to an Aerospace Company",
+    "url": "https://www.makera.com/blogs/maker-stories/akkoyun-aerospaces-carvera-story",
+    "pass": 1
+   },
+   {
+    "quote": "After finishing school in 2025, he decided toward the end of that year to focus seriously on rocket technology. Those personal projects began evolving into Akkoyun Aerospace, an early-stage company in Germany with the long-term goal of developing orbital launch vehicles for small satellites and mission-specific payloads.",
+    "url": "https://www.makera.com/blogs/maker-stories/akkoyun-aerospaces-carvera-story",
+    "pass": 1
+   },
+   {
+    "quote": "“For me, getting the Carvera wasn't just about buying another tool. It gave me the opportunity to learn an entirely new manufacturing process.”",
+    "url": "https://www.makera.com/blogs/maker-stories/akkoyun-aerospaces-carvera-story",
+    "pass": 1
+   },
+   {
+    "quote": "One project Yasin is particularly proud of is the SRS VCTR-04, an electromechanical linear actuator designed to control the direction of the rocket engine. Now in its fourth major design iteration, it brings mechanical design, precision manufacturing, and control engineering together in a compact assembly.",
+    "url": "https://www.makera.com/blogs/maker-stories/akkoyun-aerospaces-carvera-story",
+    "pass": 1
+   },
+   {
+    "quote": "“Having the Carvera in my workshop makes this approach possible because I can move between designing, manufacturing, and testing without having to organize a new manufacturing order for every iteration.”",
+    "url": "https://www.makera.com/blogs/maker-stories/akkoyun-aerospaces-carvera-story",
+    "pass": 1
+   },
+   {
+    "quote": "Revised CAD design: separating the components enabled a simpler three-axis manufacturing process.",
+    "url": "https://www.makera.com/blogs/maker-stories/akkoyun-aerospaces-carvera-story",
+    "pass": 1
+   },
+   {
+    "quote": "Some days are devoted to CAD and calculations. Others are spent manufacturing, and Yasin often designs in the morning and machines in the afternoon. Testing gets its own dedicated days. Alongside vehicle hardware, he makes the custom fixtures, test equipment parts, and supporting components that keep development moving.",
+    "url": "https://www.makera.com/blogs/maker-stories/akkoyun-aerospaces-carvera-story",
+    "pass": 1
+   },
+   {
+    "quote": "The next major goal is the first flight of the VTVL demonstrator, bringing together systems he has been developing individually. That milestone is still ahead. The progress so far lies in the physical components, revised designs, and manufacturing experience that make the next stage possible.",
+    "url": "https://www.makera.com/blogs/maker-stories/akkoyun-aerospaces-carvera-story",
+    "pass": 1
+   },
+   {
+    "quote": "Visit Akkoyun Aerospace",
+    "url": "https://www.makera.com/blogs/maker-stories/akkoyun-aerospaces-carvera-story",
+    "pass": 1
+   },
+   {
+    "quote": "For a student team working within a tight Formula Student schedule, the outcome mattered beyond the replacement part itself. They kept a crucial day available for testing because manufacturing and track preparation could happen in parallel.",
+    "url": "https://www.makera.com/blogs/maker-stories/greenbears-carvera-story",
+    "pass": 1
+   },
+   {
+    "quote": "Before bringing CNC machining into its workshop, the team relied on external manufacturing sponsors or booked machine slots at makerspaces such as MotionLab in Berlin. Both routes required planning around resources outside the team’s immediate control.",
+    "url": "https://www.makera.com/blogs/maker-stories/greenbears-carvera-story",
+    "pass": 1
+   },
+   {
+    "quote": ". Having it on-site gave the students a manufacturing resource they could schedule themselves, with more of the process taking place in their own workshop.",
+    "url": "https://www.makera.com/blogs/maker-stories/greenbears-carvera-story",
+    "pass": 1
+   },
+   {
+    "quote": "“Making them in-house gave us unlimited 24/7 access to the machine for rapid prototyping and allowed us to go straight from CAD to CAM without spending days producing formal manufacturing drawings for external suppliers.”",
+    "url": "https://www.makera.com/blogs/maker-stories/greenbears-carvera-story",
+    "pass": 1
+   },
+   {
+    "quote": "greenBEAR reports faster prototyping, quicker part revisions, and a deeper hands-on understanding of Design for Manufacturing. Students become involved in the decisions between a CAD model and a finished component, including how a part will be set up and machined.",
+    "url": "https://www.makera.com/blogs/maker-stories/greenbears-carvera-story",
+    "pass": 1
+   },
+   {
+    "quote": "While inspecting two frames he regularly flew, Pedro noticed that both were cracking on the same side, in the same place. He had considered them among the best frames available to him, but their manufacturer had closed. Replacement parts were no longer an option.",
+    "url": "https://www.makera.com/blogs/maker-stories/pedro-mateos-fpv-drone-frames-makera-z1",
+    "pass": 1
+   },
+   {
+    "quote": "Bringing Aircraft Manufacturing into the Student Workshop",
+    "url": "https://www.makera.com/blogs/maker-stories/aerolabs-carvera-air-aircraft-parts",
+    "pass": 1
+   },
+   {
+    "quote": "For AeroLabs, developing an unmanned aircraft brings several engineering disciplines into one shared project. Based in the University of Leicester’s School of Engineering and supported by its Racing Garage platform, the team connects work in aerodynamics, structures, electronics, software and manufacturing.",
+    "url": "https://www.makera.com/blogs/maker-stories/aerolabs-carvera-air-aircraft-parts",
+    "pass": 1
+   },
+   {
+    "quote": "and accompanying equipment, including a dust collector. Once the machine was set up for university use, it became part of the team’s aircraft manufacturing work.",
+    "url": "https://www.makera.com/blogs/maker-stories/aerolabs-carvera-air-aircraft-parts",
+    "pass": 1
+   },
+   {
+    "quote": "“The Carvera Air was a lifesaver. We had been experiencing difficulties manufacturing the aluminium landing gear, as the material we had chosen was not compatible with our original manufacturing method.”",
+    "url": "https://www.makera.com/blogs/maker-stories/aerolabs-carvera-air-aircraft-parts",
+    "pass": 1
+   },
+   {
+    "quote": "The revised assembly gave each manufacturing process a clear job. The Carvera Air machined the aluminium sections, which the team then bonded into the printed bracket. CNC machining produced the metal parts, while 3D printing supplied the connecting geometry.",
+    "url": "https://www.makera.com/blogs/maker-stories/aerolabs-carvera-air-aircraft-parts",
+    "pass": 1
+   },
+   {
+    "quote": "That four-hour period covered learning the software, redesigning the component and manufacturing it. The experience gave students a direct connection between a material limitation, a design decision and the parts they could actually make.",
+    "url": "https://www.makera.com/blogs/maker-stories/aerolabs-carvera-air-aircraft-parts",
+    "pass": 1
+   },
+   {
+    "quote": "The team also cut carbon fibre spars on the Carvera Air. These parts sit deeper within the aircraft’s wing and fuselage connection areas, where they are less visible in a photograph of the complete aircraft. The machining footage documents that part of the manufacturing process.",
+    "url": "https://www.makera.com/blogs/maker-stories/aerolabs-carvera-air-aircraft-parts",
+    "pass": 1
+   },
+   {
+    "quote": "Hands-On Manufacturing, Practical Engineering Lessons",
+    "url": "https://www.makera.com/blogs/maker-stories/aerolabs-carvera-air-aircraft-parts",
+    "pass": 1
+   },
+   {
+    "quote": "For the students, the project also created a practical learning experience: choosing a manufacturing approach, finding its limitations, revising the structure and making the replacement components. Their assessment of that experience was direct:",
+    "url": "https://www.makera.com/blogs/maker-stories/aerolabs-carvera-air-aircraft-parts",
+    "pass": 1
+   },
+   {
+    "quote": "With the machine now set up, AeroLabs hopes to build on that experience in future seasons. The rear landing gear provides a concrete example of what access to desktop CNC machining made possible: students could respond to a manufacturing problem by changing the design and producing the new parts in their own workshop.",
+    "url": "https://www.makera.com/blogs/maker-stories/aerolabs-carvera-air-aircraft-parts",
+    "pass": 1
+   },
+   {
+    "quote": "“The learning curve going from 3D printing to subtractive manufacturing was steep, but it's a really fun process to learn, and a new skill set. That was fun.”",
+    "url": "https://www.makera.com/blogs/maker-stories/atelier3-carvera-air-camera-gear",
+    "pass": 1
+   },
+   {
+    "quote": "This time, Marc had more ways to respond. He had studied industrial engineering before building a career in IT, but his interest in technical drawing and design had never disappeared. With his first 3D printer, he began putting those interests to use.",
+    "url": "https://www.makera.com/blogs/maker-stories/vintage-rc-car-restoration-with-carvera-air",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturer of CNC technology machines intended for educational, residential, and commercial use.",
+    "url": "https://pitchbook.com/profiles/company/693692-65",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of CNC technology machines intended for educational, residential, and commercial use. The company offers intuitive control software, CAM software, firmware, controllers, Fusion 360 integration, VCarve desktop, and related tools, enabling users to design products and perform cutting, cleaning, drilling, and carving tasks efficiently.",
+    "url": "https://pitchbook.com/profiles/company/693692-65",
+    "pass": 3
+   },
+   {
+    "quote": "Settings for the cutters used by MIC-LABO",
+    "url": "https://note.com/mic_labo/n/n877dc05b32e7?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "1 Year Warranty",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "As a leader in intelligent desktop CNC technology, Makera is lowering the barriers to creation through innovation and user-centric design, empowering more people to turn their ideas into reality with the help of technology.",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1 Year Warranty",
+    "url": "https://www.makera.com/blogs/maker-stories",
+    "pass": 1
+   },
+   {
+    "quote": "See how machinist Wylder Barrows uses Carvera Air to make aluminum injection molds and build a side business that paid for the machine in six months.",
+    "url": "https://www.makera.com/blogs/maker-stories",
+    "pass": 1
+   },
+   {
+    "quote": "1 Year Warranty",
+    "url": "https://www.makera.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "As a leader in intelligent desktop CNC technology, Makera is lowering the barriers to creation through innovation and user-centric design, empowering more people to turn their ideas into reality with the help of technology.",
+    "url": "https://www.makera.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Yasin describes roughly two weeks of intensive development on the actuator. His workflow is practical: design a version, make it, assemble it, and test it. When something does not work as expected, he returns to CAD and makes another version. Planning the machining setups has become part of designing the component.",
+    "url": "https://www.makera.com/blogs/maker-stories/akkoyun-aerospaces-carvera-story",
+    "pass": 1
+   },
+   {
+    "quote": "For Yasin, access to Carvera has made it possible to carry an idea further himself: from a CAD model to a part he can assemble, evaluate, and improve. The rack redesign captures that experience in one tangible result—less time making a difficult part, and more opportunity to learn from the next version.",
+    "url": "https://www.makera.com/blogs/maker-stories/akkoyun-aerospaces-carvera-story",
+    "pass": 1
+   },
+   {
+    "quote": "With Carvera in the workshop, students can carry more of those decisions through to manufacture themselves—and bring what they learn back into the next design.",
+    "url": "https://www.makera.com/blogs/maker-stories/greenbears-carvera-story",
+    "pass": 1
+   },
+   {
+    "quote": "He was new to CNC, but he already owned two Bambu Lab P1S printers. Makera Studio tutorials on YouTube helped him get started, and he found the software interface straightforward and effective. His familiarity with 3D printing made the workflow easier to approach, while learning the principles of CNC remained part of the process.",
+    "url": "https://www.makera.com/blogs/maker-stories/pedro-mateos-fpv-drone-frames-makera-z1",
+    "pass": 1
+   },
+   {
+    "quote": "Having the Z1 at home changed how Pedro could respond to a problem. Previously, he says, outsourced parts could take months to arrive, only to need further modifications. Now he can identify an issue and start improving the design straight away.",
+    "url": "https://www.makera.com/blogs/maker-stories/pedro-mateos-fpv-drone-frames-makera-z1",
+    "pass": 1
+   },
+   {
+    "quote": "and accompanying equipment, including a dust collector. Once the machine was set up for university use, it became part of the team’s aircraft manufacturing work.",
+    "url": "https://www.makera.com/blogs/maker-stories/aerolabs-carvera-air-aircraft-parts",
+    "pass": 1
+   },
+   {
+    "quote": "Having the machine available let students carry that revision through to manufacture themselves. According to the team member who described the process, the work moved quickly:",
+    "url": "https://www.makera.com/blogs/maker-stories/aerolabs-carvera-air-aircraft-parts",
+    "pass": 1
+   },
+   {
+    "quote": "The team also cut carbon fibre spars on the Carvera Air. These parts sit deeper within the aircraft’s wing and fuselage connection areas, where they are less visible in a photograph of the complete aircraft. The machining footage documents that part of the manufacturing process.",
+    "url": "https://www.makera.com/blogs/maker-stories/aerolabs-carvera-air-aircraft-parts",
+    "pass": 1
+   },
+   {
+    "quote": "Atelier3 is a film and TV production company focused on outdoor sports. Its crew shoots documentaries and branded films in conditions where there’s little time to reset equipment—and where every camera, lens, battery, and accessory has to be carried up and down the mountain.",
+    "url": "https://www.makera.com/blogs/maker-stories/atelier3-carvera-air-camera-gear",
+    "pass": 1
+   },
+   {
+    "quote": "Changing a camera from a tripod setup to a gimbal can take five minutes or more if it means removing cables and swapping plates. On a training day with only a handful of runs, those minutes matter.",
+    "url": "https://www.makera.com/blogs/maker-stories/atelier3-carvera-air-camera-gear",
+    "pass": 1
+   },
+   {
+    "quote": "“Being able to change from a tripod to a stabilizer to a handheld rig in thirty seconds” is the goal, he says. A custom plate lets the same camera move from tripod to gimbal without changing the plate underneath. Once the camera is balanced, the operator can make the switch with a quick release and a couple of adjustments.",
+    "url": "https://www.makera.com/blogs/maker-stories/atelier3-carvera-air-camera-gear",
+    "pass": 1
+   },
+   {
+    "quote": "Weight matters just as much. The team may carry two cameras, lenses, batteries, rigging, and a tripod—a load that can reach 30 kilograms. Atelier3 looks for ways to combine functions or remove even small amounts of weight from a pack or camera rig.",
+    "url": "https://www.makera.com/blogs/maker-stories/atelier3-carvera-air-camera-gear",
+    "pass": 1
+   },
+   {
+    "quote": "The K-3, a compact 16mm film camera, was a good candidate. In its original form, it had few mounting points, a single tripod hole, and a shutter button that was difficult to reach when the camera was on a gimbal. The operator also couldn’t easily monitor the image through the viewfinder in that configuration.",
+    "url": "https://www.makera.com/blogs/maker-stories/atelier3-carvera-air-camera-gear",
+    "pass": 1
+   },
+   {
+    "quote": "The machine itself quickly became part of the workshop routine.",
+    "url": "https://www.makera.com/blogs/maker-stories/atelier3-carvera-air-camera-gear",
+    "pass": 1
+   },
+   {
+    "quote": "Learning Before the Machine Arrived",
+    "url": "https://www.makera.com/blogs/maker-stories/vintage-rc-car-restoration-with-carvera-air",
+    "pass": 1
+   },
+   {
+    "quote": "His advice to someone starting out reflects his own experience: visit a local Fablab, watch experienced makers work, and get training. Understanding how a part will be held is part of designing how to make it.",
+    "url": "https://www.makera.com/blogs/maker-stories/vintage-rc-car-restoration-with-carvera-air",
+    "pass": 1
+   },
+   {
+    "quote": "Zero2IPO Venture Capital",
+    "url": "https://pitchbook.com/profiles/company/693692-65",
+    "pass": 3
+   },
+   {
+    "quote": "Makera (Machinery) has 18 total employees.",
+    "url": "https://pitchbook.com/profiles/company/693692-65",
+    "pass": 3
+   },
+   {
+    "quote": "What is Makera (Machinery)’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/693692-65",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Makera (Machinery) is",
+    "url": "https://pitchbook.com/profiles/company/693692-65",
+    "pass": 3
+   },
+   {
+    "quote": "Makera Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/makera-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Makera",
+    "url": "https://prospeo.io/c/makera-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/makera-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/makera-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/makera-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Makera?",
+    "url": "https://prospeo.io/c/makera-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Makera generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/makera-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/makera-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/makera-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Makera have?",
+    "url": "https://prospeo.io/c/makera-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/makera-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "The Makera Z1 arrived,",
+    "url": "https://note.com/craftgraft_obj/n/n11695d473ae7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "is what you make to fix the positional relationship. I made it myself by carving it out of a block of aluminum. Being able to make the jig itself is the interesting part of CNC.",
+    "url": "https://note.com/mic_labo/n/n877dc05b32e7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In \"Contour Selection,\" click on the contours of the holes you want to cut out. The arrows indicate the direction the blade will travel.",
+    "url": "https://note.com/mic_labo/n/n877dc05b32e7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "*The setting values listed are measured and executed in the author's environment. Please prioritize safety and try it at your own risk.",
+    "url": "https://note.com/mic_labo/n/n877dc05b32e7?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "General Inquiry: info@makera.com",
+    "url": "https://www.makera.com/",
+    "pass": 1
+   },
+   {
+    "quote": "General Inquiry: info@makera.com",
+    "url": "https://www.makera.com/blogs/maker-stories",
+    "pass": 1
+   },
+   {
+    "quote": "General Inquiry: info@makera.com",
+    "url": "https://www.makera.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ： info@makera.com",
+    "url": "https://global.makera.com/ja/?srsltid=AYCX9vLRZUOEyrWnbt6KICURYZM2kMmpJjac44C-_hwqJkt5OCXi2JYG",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ： info@makera.com",
+    "url": "https://global.makera.com/ja/?srsltid=AYCX9vJWwEgg8to34j9AXLy-0X5Wu2dgBnbePF1DDVTd5UW47iNTJ0Hx",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ： info@makera.com",
+    "url": "https://global.makera.com/ja/?srsltid=AYCX9vLyTGeLtH-W_sH1hRmvIGPC8br-K_oUZ98qCE-4zzONV5CVnpY-",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/693692-65",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/makera-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "🏢 Makera テクノロジー（香港）株式会社",
+    "url": "https://global.makera.com/ja/?srsltid=AYCX9vLRZUOEyrWnbt6KICURYZM2kMmpJjac44C-_hwqJkt5OCXi2JYG",
+    "pass": 3
+   },
+   {
+    "quote": "【作例付き】20万円台のCNCが日本上陸、「Makera Z1 Pro」を徹底検証 - FabScene（ファブシーン）",
+    "url": "https://fabscene.com/new/pr/makera-z1-pro-cnc-review/",
+    "pass": 3
+   },
+   {
+    "quote": "【作例付き】20万円台のCNCが日本上陸、「Makera Z1 Pro」を徹底検証",
+    "url": "https://fabscene.com/new/pr/makera-z1-pro-cnc-review/",
+    "pass": 3
+   },
+   {
+    "quote": "国内ではMAKERA JapanがGREEN FUNDINGでクラウドファンディングを実施しており、本体のみのコースは先行支援でZ1が20万1799円（税込）から、Z1 Proが24万9799円（税込）から用意されている",
+    "url": "https://fabscene.com/new/pr/makera-z1-pro-cnc-review/",
+    "pass": 3
+   },
+   {
+    "quote": "【秋月・共立・スイッチサイエンス】ガード下のジャンクからネット通販のラズパイまで｜日本の電子部品店の歴史",
+    "url": "https://fabscene.com/new/pr/makera-z1-pro-cnc-review/",
+    "pass": 3
+   },
+   {
+    "quote": "🏢 Makera テクノロジー（香港）株式会社",
+    "url": "https://global.makera.com/ja/?srsltid=AYCX9vJWwEgg8to34j9AXLy-0X5Wu2dgBnbePF1DDVTd5UW47iNTJ0Hx",
+    "pass": 3
+   },
+   {
+    "quote": "🏢 Makera テクノロジー（香港）株式会社",
+    "url": "https://global.makera.com/ja/?srsltid=AYCX9vLyTGeLtH-W_sH1hRmvIGPC8br-K_oUZ98qCE-4zzONV5CVnpY-",
+    "pass": 3
+   },
+   {
+    "quote": "Anti-vibration rubber (Tokyo Bouon)",
+    "url": "https://note.com/craftgraft_obj/n/n11695d473ae7?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "デスクトップCNCおよびCNCフライス盤 - Makera Global — デスクトップCNCおよびCNCフライス盤 - Makera Global Makera Global https://global.makera.com > ...",
+    "url": "https://global.makera.com/ja/?srsltid=AYCX9vLRZUOEyrWnbt6KICURYZM2kMmpJjac44C-_hwqJkt5OCXi2JYG",
+    "pass": 3
+   },
+   {
+    "quote": "MAKERA Japan【公式】 (@MAKERA_JP) / X — MAKERA Japan【公式】 (@MAKERA_JP) / X X https://x.com > MAKERA_JP",
+    "url": "https://x.com/MAKERA_JP",
+    "pass": 3
+   },
+   {
+    "quote": "The ultimate CNC milling machine has arrived! The Makera ... — The ultimate CNC milling machine has arrived! The Makera ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=VJ50a44eHLQ&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "【作例付き】20万円台のCNCが 日本 上陸、「 Makera Z1 Pro ... — 【作例付き】20万円台のCNCが 日本 上陸、「 Makera Z1 Pro ... FabScene https://fabscene.com > 新着記事 > PR",
+    "url": "https://fabscene.com/new/pr/makera-z1-pro-cnc-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Makera について | 当社の歴史とデスクトップCNCの革新 — Makera について | 当社の歴史とデスクトップCNCの革新 Makera Global https://global.makera.com > pages > about-us",
+    "url": "https://global.makera.com/ja/pages/about-us?srsltid=AYCX9vLNanoftdvvp9UlYj7Jl1trLhLlYoCSYUKzCbj91gnsWwF_QnPD",
+    "pass": 3
+   },
+   {
+    "quote": "デスクトップCNCおよびCNCフライス盤 - Makera Global — デスクトップCNCおよびCNCフライス盤 - Makera Global Makera Global https://global.makera.com > ...",
+    "url": "https://global.makera.com/ja/?srsltid=AYCX9vJWwEgg8to34j9AXLy-0X5Wu2dgBnbePF1DDVTd5UW47iNTJ0Hx",
+    "pass": 3
+   },
+   {
+    "quote": "代理店 を探す - MAKAR — 代理店 を探す - MAKAR makerar.com https://www.makerar.com > find-a-dealer",
+    "url": "https://www.makerar.com/ja/find-a-dealer?srsltid=AYCX9vIBovomWiKNLquE31xGCmfEvKIIKSco6OP90c_Ob06wVl9qPSR5",
+    "pass": 3
+   },
+   {
+    "quote": "MAKERA Japan【公式】 (@ makera .jp) - Instagram — MAKERA Japan【公式】 (@ makera .jp) - Instagram Instagram https://www.instagram.com > makera",
+    "url": "https://www.instagram.com/makera.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "デスクトップCNCおよびCNCフライス盤 - Makera Global — デスクトップCNCおよびCNCフライス盤 - Makera Global Makera Global https://global.makera.com > ...",
+    "url": "https://global.makera.com/ja/?srsltid=AYCX9vLyTGeLtH-W_sH1hRmvIGPC8br-K_oUZ98qCE-4zzONV5CVnpY-",
+    "pass": 3
+   },
+   {
+    "quote": "MAKERA Japan 【公式】 (@MAKERA_JP) / X — MAKERA Japan 【公式】 (@MAKERA_JP) / X X https://x.com > MAKERA_JP",
+    "url": "https://x.com/MAKERA_JP",
+    "pass": 3
+   },
+   {
+    "quote": "MAKERA Japan 【公式】 (@ makera .jp) - Instagram — MAKERA Japan 【公式】 (@ makera .jp) - Instagram Instagram https://www.instagram.com > makera",
+    "url": "https://www.instagram.com/makera.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Makera Japan - Facebook — Makera Japan - Facebook Facebook https://www.facebook.com > ... > Machine Shop",
+    "url": "https://www.facebook.com/p/Makera-Japan-61575170164920/",
+    "pass": 3
+   },
+   {
+    "quote": "Makera Global Store | Desktop CNC & CNC Milling Machines — Makera Global Store | Desktop CNC & CNC Milling Machines Makera Global https://global.makera.com",
+    "url": "https://global.makera.com/?srsltid=AYCX9vKeLJ8UIyRHWC_LtigDKtBveqpf3zkpJksYOvkVNj_if6GPbIlo",
+    "pass": 3
+   },
+   {
+    "quote": "How Farm Design Accelerated Prototyping with Makera Carvera — How Farm Design Accelerated Prototyping with Makera Carvera Makera https://www.makera.com > blogs > fa...",
+    "url": "https://www.makera.com/blogs/maker-stories/farm-design-prototyping-with-carvera-desktop-cnc?srsltid=AYCX9vLGDYOLk9dRHy9TGiomNJbuu7Qjkz5DtTkL5l3o2HrMbBWNNIJz",
+    "pass": 3
+   },
+   {
+    "quote": "Makera (Machinery) 2026 Company Profile: Valuation, Funding ... — Information on valuation, funding, cap tables, investors, and executives for Makera (Machinery). Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/693692-65",
+    "pass": 3
+   },
+   {
+    "quote": "Makera Revenue, Funding & Valuation - prospeo.io — What are the revenues of Makera? Makera generates an estimated annual revenue of $513,330. This revenue figure reflects the company's market position and business performance in its industry. What is the valuation of Makera? Makera has an estimated valuation of $1,700,000.",
+    "url": "https://prospeo.io/c/makera-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Makera - 2026 Company Profile, Funding & Competitors - Tracxn — Makera has raised $14.6M in funding from China Renaissance Capital Investment and Beijing Artificial Intelligence Industry Investment Fund. The company has 14 active competitors, including 3 funded and 1 that has exited.",
+    "url": "https://tracxn.com/d/companies/makera/__N_aGxAk_fo-JuTEvZn6WMvop4qqjlNl58fWxWS2DaUA",
+    "pass": 3
+   },
+   {
+    "quote": "Makera - Crunchbase Company Profile & FundingMakera - Overview, News & Similar companies | ZoomInfo.comQiming Venture Partners Exclusively Leads Makera's Pre-A ...Exclusive: Makera Just Closed the Biggest Round Consumer ... — Makera develops desktop CNC machines and software designed for makers, educators, small businesses, and laboratories. Its main products include the Carvera and Carvera Air ma",
+    "url": "https://www.crunchbase.com/organization/makera",
+    "pass": 3
+   },
+   {
+    "quote": "Makera - Overview, News & Similar companies | ZoomInfo.com — View Makera (www.makera.com) location in China , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/makera/561917446",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Pre-sales for the new desktop CNC mill 'Makera Z1' have begun ... Jun 9, 2026 · In this article, in addition to the main features of the Makera Z1, I will introduce the differences between it and standard GRBL-based desktop CNCs, as well as Makera's higher-end models, the Carvera Air and Carvera.",
+    "url": "https://note.com/cinereonix/n/nc13e3cd05732?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Makera Z1 Installation Guide | Anti-Vibration Measures and ... Aug 31, 2026 · I successfully completed my first cut with the Makera Z1. Getting it up and running was no problem at all. However, after actually trying to machine something, a few concerns came up. It resonates with the shelf below more than I expected.",
+    "url": "https://note.com/craftgraft_obj/n/n11695d473ae7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mini 4WD Roller Machining [MAKERA Z1]｜みっく Design the shape in Fusion 360 (CAD only) → Import into Makera Studio for CAM (determine how to cut) → Stick the roller to the waste board with double-sided tape → 3D probing in Makera Studio → Start machining",
+    "url": "https://note.com/mic_labo/n/n877dc05b32e7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "新型卓上CNCフライス「Makera Z1」がプレセール開始｜一般的なGRBL機... Jun 10, 2026 · Makeraでは、加工データの作成から機械の操作までを一つにまとめた専用ソフトウェア「Makera Studio」を開発しています。 Makera Studioは、従来のMakera CAMを発展させ、ツールパスの作成とCNC本体の制御を一つのソフトウェアに統合することを目指しています。",
+    "url": "https://note.com/cinereonix/n/nc13e3cd05732",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Makera Z1 Installation Guide | Anti-Vibration Measures and Setting Up the Environment｜CRAFTGRAFT / WORKLOG",
+    "url": "https://note.com/craftgraft_obj/n/n11695d473ae7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Makera Z1 Installation Guide | Anti-Vibration Measures and Setting Up the Environment",
+    "url": "https://note.com/craftgraft_obj/n/n11695d473ae7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I successfully completed my first cut with the Makera Z1.",
+    "url": "https://note.com/craftgraft_obj/n/n11695d473ae7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Getting it up and running was no problem at all.",
+    "url": "https://note.com/craftgraft_obj/n/n11695d473ae7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, after actually trying to machine something, a few concerns came up.",
+    "url": "https://note.com/craftgraft_obj/n/n11695d473ae7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It resonates with the shelf below more than I expected.",
+    "url": "https://note.com/craftgraft_obj/n/n11695d473ae7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "So, this time, I'm going to review the installation environment to properly use the Makera Z1.",
+    "url": "https://note.com/craftgraft_obj/n/n11695d473ae7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I first tried placing it sideways",
+    "url": "https://note.com/craftgraft_obj/n/n11695d473ae7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mini 4WD Roller Machining [MAKERA Z1]｜みっく",
+    "url": "https://note.com/mic_labo/n/n877dc05b32e7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mini 4WD Roller Machining [MAKERA Z1]",
+    "url": "https://note.com/mic_labo/n/n877dc05b32e7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Procedures for machining Mini 4WD rollers with the Makera Z1",
+    "url": "https://note.com/mic_labo/n/n877dc05b32e7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "—Single-piece and 6-piece editions",
+    "url": "https://note.com/mic_labo/n/n877dc05b32e7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is a supplementary article summarizing the detailed settings omitted in the video.",
+    "url": "https://note.com/mic_labo/n/n877dc05b32e7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the YouTube video, the focus was on verifying whether \"precision can be achieved,\" so software operations were largely omitted. This article is a",
+    "url": "https://note.com/mic_labo/n/n877dc05b32e7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "supplement to those procedures",
+    "url": "https://note.com/mic_labo/n/n877dc05b32e7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". It includes all actual screens and setting values.",
+    "url": "https://note.com/mic_labo/n/n877dc05b32e7?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Makera (@Makera_Inc) / X Meet Carvera, Carvera Air & Makera Z1! Smart and Versatile Desktop CNCs for Everyone.",
+    "url": "https://x.com/makera_inc",
+    "pass": 3
+   },
+   {
+    "quote": "Makera (@Makera) / Posts / X Makera (@Makera) - Posts - I'm an Enterprise developer and Solutions provider... Friendly, fun to be with and sometimes petty. | X (formerly Twitter)",
+    "url": "https://x.com/Makera",
+    "pass": 3
+   },
+   {
+    "quote": "Makera (@Makera_) / Posts / X Makera (@Makera_) - Posts - Makera is a gaming studio focused on creating UGC games. | X (formerly Twitter)",
+    "url": "https://x.com/Makera_",
+    "pass": 3
+   },
+   {
+    "quote": "Something stronger is coming. Meet Makera A1S—the next ... Makera_Inc (Makera). 10 likes 1 replies. 🚀 Something stronger is coming. Meet Makera A1S—the next generation of desktop CNC, built to take metal machining further. ⚙️ Stronger cutting.",
+    "url": "https://x.com/Makera_Inc/status/2120154519220953239",
+    "pass": 3
+   },
+   {
+    "quote": "MAKERA Japan【公式】 (@MAKERA_JP) / X 【展示延長のお知らせ】 梅田・蔦屋書店のMakera実機展示、11月30日（月）まで延長決定いたしました！ 皆さまからの大変ありがたいご好評にお応えし、期間を延長してお待ちしております🎉 実機の質感やサイズ感を直接体験できる絶好のチャンスです！",
+    "url": "https://x.com/MAKERA_JP",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Makera - LinkedIn Makera is a start-up company that started designing a new class of CNC three years ago with the aim of maximally automatizing and simplifying the CNC operation to bring the advanced CNC functions...",
+    "url": "https://www.linkedin.com/company/makera-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Makera - LinkedIn About us Makera is a Saudi-based gaming and digital entertainment company focused on developing and operating products for Gen Z and Gen Alpha audiences.",
+    "url": "https://www.linkedin.com/company/makera-studios",
+    "pass": 3
+   },
+   {
+    "quote": "Makera K. - Teya | LinkedInDyson Gore - Director of Maket at Makera | 领英Makera - LinkedInMakera Fuller - IAM Engineer | Okta, Azure AD, CyberArk | IAM ...100+ \"Makera\" profiles | LinkedIn Experienced product leader with a proven track record of scaling B2B and B2C products… · Experience: Teya · Location: London · 500+ connections on LinkedIn. View Makera K.’s profile on... Director of Maket at Mak",
+    "url": "https://uk.linkedin.com/in/makerakigaraba",
+    "pass": 3
+   },
+   {
+    "quote": "Dyson Gore - Director of Maket at Makera | 领英 Director of Maket at Makera · 工作经历: Makera · 教育经历: 武汉大学 · 地点: 深圳 · 3 位领英好友。 在领英 (一个拥有 10 亿会员的职业社区) 查看Dyson Gore的职业档案。",
+    "url": "https://cn.linkedin.com/in/dyson-gore-14a0a426a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "MakeraGlobal - Facebook Oct 21, 2026 · We just hit 100,000 makers — and every single one of you made this possible. 🎉 Thank you for building with us, sharing your projects, and pushing what's possible with every cut. This community is what makes Makera, Makera. Here's to the next era — let's keep making. 🛠️ #desktopcnc #cncmachine #makercommunity #Carvera #makeraz1 # ...",
+    "url": "https://www.facebook.com/MakeraGlobal/",
+    "pass": 3
+   },
+   {
+    "quote": "Makera - Facebook Jun 17, 2026 · Eunice Lopes and 88 others 89 12 3 Makera 20w · Public If you're a director or music supervisor looking for a backing track for those emotional moments, this song may be for you",
+    "url": "https://www.facebook.com/makeramusic/",
+    "pass": 3
+   },
+   {
+    "quote": "Makera Educator Community - Facebook Through this group, educators from the Makera community can collaborate with one another alongside the Makera team as we share best practices, challenges, and support in order to foster higher levels of student engagement and success, worldwide.",
+    "url": "https://www.facebook.com/groups/makeraedu/",
+    "pass": 3
+   },
+   {
+    "quote": "Makera - FacebookMakera Z1 Official Group - FacebookMakera Taiwan - FacebookMakeraGlobal - Something stronger is coming. Meet Makera ... Nov 9, 2021 · Makera, New York. 4,855 likes. Official Facebook page for Makera. The Makera Z1 is built to make professional CNC creation more accessible than ever. Stick around and be ready to join us at launch — the next generation of desktop manufacturing start",
+    "url": "https://www.facebook.com/therealmakera/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.makera.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makera.com/blogs/maker-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makera.com/pages/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makera.com/blogs/maker-stories/akkoyun-aerospaces-carvera-story",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makera.com/blogs/maker-stories/greenbears-carvera-story",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makera.com/blogs/maker-stories/pedro-mateos-fpv-drone-frames-makera-z1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makera.com/blogs/maker-stories/aerolabs-carvera-air-aircraft-parts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makera.com/blogs/maker-stories/atelier3-carvera-air-camera-gear",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makera.com/blogs/maker-stories/vintage-rc-car-restoration-with-carvera-air",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://global.makera.com/ja/?srsltid=AYCX9vLRZUOEyrWnbt6KICURYZM2kMmpJjac44C-_hwqJkt5OCXi2JYG",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MAKERA_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=VJ50a44eHLQ&vl=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fabscene.com/new/pr/makera-z1-pro-cnc-review/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.makera.com/ja/?srsltid=AYCX9vJWwEgg8to34j9AXLy-0X5Wu2dgBnbePF1DDVTd5UW47iNTJ0Hx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MAKERA_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.makerar.com/ja/find-a-dealer?srsltid=AYCX9vIBovomWiKNLquE31xGCmfEvKIIKSco6OP90c_Ob06wVl9qPSR5",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/makera.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://global.makera.com/ja/?srsltid=AYCX9vLyTGeLtH-W_sH1hRmvIGPC8br-K_oUZ98qCE-4zzONV5CVnpY-",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MAKERA_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/makera.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Makera-Japan-61575170164920/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.okuma.com/knowledge-center/case-studies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/machine-builder-case-studies--47747?srsltid=AYCX9vKiEFXHGG2U859mXUDlatIV8IpXQNrcsMkZyKyljA6Ee4WjW9hu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/693692-65",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/makera-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/makera/__N_aGxAk_fo-JuTEvZn6WMvop4qqjlNl58fWxWS2DaUA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/makera",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cinereonix/n/nc13e3cd05732?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/craftgraft_obj/n/n11695d473ae7?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mic_labo/n/n877dc05b32e7?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cinereonix/n/nc13e3cd05732",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/makera_inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Makera",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Makera_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Makera_Inc/status/2120154519220953239",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/makera-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/makera-studios",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/makerakigaraba",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/in/dyson-gore-14a0a426a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MakeraGlobal/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/makeramusic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/makeraedu/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/therealmakera/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MAKERA_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "MAKERA 日本 導入",
+   "results": [
+    "https://global.makera.com/ja/?srsltid=AYCX9vLRZUOEyrWnbt6KICURYZM2kMmpJjac44C-_hwqJkt5OCXi2JYG",
+    "https://x.com/MAKERA_JP",
+    "https://www.youtube.com/watch?v=VJ50a44eHLQ&vl=ja",
+    "https://fabscene.com/new/pr/makera-z1-pro-cnc-review/",
+    "https://global.makera.com/ja/pages/about-us?srsltid=AYCX9vLNanoftdvvp9UlYj7Jl1trLhLlYoCSYUKzCbj91gnsWwF_QnPD",
+    "https://prtimes.jp/main/html/rd/p/000000008.000164158.html",
+    "https://note.com/cinereonix/n/nc13e3cd05732",
+    "https://www.instagram.com/makera.jp/",
+    "https://note.com/tokyomakers/n/n392f48b2152a",
+    "https://uniform-release.jp/posts/4306"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "MAKERA 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://global.makera.com/ja/?srsltid=AYCX9vJWwEgg8to34j9AXLy-0X5Wu2dgBnbePF1DDVTd5UW47iNTJ0Hx",
+    "https://x.com/MAKERA_JP",
+    "https://www.makerar.com/ja/find-a-dealer?srsltid=AYCX9vIBovomWiKNLquE31xGCmfEvKIIKSco6OP90c_Ob06wVl9qPSR5",
+    "https://www.instagram.com/makera.jp/",
+    "https://toukibo.ai-con.lawyer/search-service/result/9013101009512",
+    "https://www.facebook.com/p/Makera-Japan-61575170164920/",
+    "https://and-maker.com/",
+    "https://www.pendo.io/news/pendo-announces-its-first-partnership-with-macnica-in-japan/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.sidebizz.net/blog/agent/general-agency/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "MAKERA Japan",
+   "results": [
+    "https://global.makera.com/ja/?srsltid=AYCX9vLyTGeLtH-W_sH1hRmvIGPC8br-K_oUZ98qCE-4zzONV5CVnpY-",
+    "https://x.com/MAKERA_JP",
+    "https://www.instagram.com/makera.jp/",
+    "https://www.facebook.com/p/Makera-Japan-61575170164920/",
+    "https://global.makera.com/?srsltid=AYCX9vKeLJ8UIyRHWC_LtigDKtBveqpf3zkpJksYOvkVNj_if6GPbIlo",
+    "https://www.youtube.com/watch?v=VJ50a44eHLQ&vl=ja",
+    "https://global.makera.com/ja",
+    "https://www.makera.jp/",
+    "https://zi.makera.jp/",
+    "https://global.makera.com/ja/pages/about-us"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "MAKERA manufacturing customer case study",
+   "results": [
+    "https://www.okuma.com/knowledge-center/case-studies",
+    "https://www.makera.com/blogs/maker-stories/farm-design-prototyping-with-carvera-desktop-cnc?srsltid=AYCX9vLGDYOLk9dRHy9TGiomNJbuu7Qjkz5DtTkL5l3o2HrMbBWNNIJz",
+    "https://www.renishaw.com/en/machine-builder-case-studies--47747?srsltid=AYCX9vKiEFXHGG2U859mXUDlatIV8IpXQNrcsMkZyKyljA6Ee4WjW9hu",
+    "https://www.mcmachinery.com/case-studies/",
+    "https://www.reddit.com/r/Makera/comments/1kwiron/product_sales_with_carvera_cnc_any_success_stories/",
+    "https://www.youtube.com/watch?v=LH1OH6AsNGc",
+    "https://markforged.com/resources/case-studies",
+    "https://www.engineering.com/makera-carvera-air-brings-cnc-machining-to-small-businesses/",
+    "https://makersrow.com/case-study/",
+    "https://updates.kickstarter.com/case-study-15-lessons-from-makeras-15m-kickstarter-success/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "MAKERA white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.verkada.com/partners/",
+    "https://www.canva.com/partners/reseller/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MAKERA founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/693692-65",
+    "https://prospeo.io/c/makera-revenue",
+    "https://tracxn.com/d/companies/makera/__N_aGxAk_fo-JuTEvZn6WMvop4qqjlNl58fWxWS2DaUA",
+    "https://www.crunchbase.com/organization/makera",
+    "https://www.zoominfo.com/c/makera/561917446",
+    "https://www.linkedin.com/pulse/qiming-venture-partners-exclusively-leads-makeras-kyb2c",
+    "https://chinaunread.substack.com/p/exclusive-makera-just-closed-the"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com MAKERA",
+   "results": [
+    "https://note.com/cinereonix/n/nc13e3cd05732?hl=en",
+    "https://note.com/craftgraft_obj/n/n11695d473ae7?hl=en",
+    "https://note.com/mic_labo/n/n877dc05b32e7?hl=en",
+    "https://note.com/cinereonix/n/nc13e3cd05732",
+    "https://note.com/craftgraft_obj/n/n0405c8c30391",
+    "https://note.com/tokyomakers/n/n392f48b2152a",
+    "https://note.com/tokyomakers/n/n392f48b2152a?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com MAKERA",
+   "results": [
+    "https://x.com/makera_inc",
+    "https://x.com/Makera",
+    "https://x.com/Makera_",
+    "https://x.com/Makera_Inc/status/2120154519220953239",
+    "https://x.com/MAKERA_JP",
+    "https://x.com/Makera_Inc/status/2119701524830130658",
+    "https://x.com/makeramf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com MAKERA",
+   "results": [
+    "https://www.linkedin.com/company/makera-inc",
+    "https://www.linkedin.com/company/makera-studios",
+    "https://uk.linkedin.com/in/makerakigaraba",
+    "https://cn.linkedin.com/in/dyson-gore-14a0a426a",
+    "https://www.linkedin.com/company/makera",
+    "https://www.linkedin.com/in/makera-fuller",
+    "https://www.linkedin.com/pub/dir/+/Makera"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com MAKERA",
+   "results": [
+    "https://www.facebook.com/MakeraGlobal/",
+    "https://www.facebook.com/makeramusic/",
+    "https://www.facebook.com/groups/makeraedu/",
+    "https://www.facebook.com/therealmakera/",
+    "https://www.facebook.com/groups/makeraz1/",
+    "https://www.facebook.com/MakeraTaiwan/",
+    "https://www.facebook.com/MakeraGlobal/posts/-something-stronger-is-comingmeet-makera-a1sthe-next-generation-of-desktop-cnc-b/1114984501530386/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MAKERA note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://plus-note.jp/category/ceo/",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MAKERA X 投稿",
+   "results": [
+    "https://x.com/MAKERA_JP",
+    "https://www.makera.jp/",
+    "https://linktr.ee/makeraofficial",
+    "https://art8nohe.com/2026/10/10/cnc20261010/",
+    "https://art8nohe.com/2026/10/02/cnc20261002/",
+    "https://note.com/tokyomakers/n/n392f48b2152a",
+    "https://x.com/MAKERA_JP/with_replies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部40頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部40頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部40頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部40頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部40頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部40頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部40頁・検索12回）"
+ }
+}

@@ -1195,6 +1195,7 @@
   - 「a. Cognitive Biases: Cognitive biases are mental shortcuts or patterns of thinking that can lead to irrational decisions. Common biases include confirmation bias, overconfidence, loss aversion, and herd mentality.」（https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/）
   - 「c. Anchoring Bias: Anchoring bias occurs when individuals rely too heavily on initial information or reference points when making decisions.」（https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/）
 - 実例：
+  - 「What Is Return on Invested Capital (ROIC)? Formula + Examples」（https://valuationmasterclass.com/equity-research-guide/）
   - 「（結果論的ですが、医薬を調べてるときにルネスタというエーザイの薬にお世話になったことがあるのを思い出しました」（https://note.com/tsubame_toushi/n/n826a7b9c7c72）
   - 「上記の分析を行った結果、エーザイへの投資ポイントは2つです」（https://note.com/tsubame_toushi/n/n826a7b9c7c72）
   - 「If you need an equity research report template, you can find examples」（https://dataroom-providers.org/blog/equity-research-guide/）
@@ -1209,7 +1210,6 @@
   - 「For example, a robo-advisor uses algorithms to construct and manage a portfolio based on an investor's risk tolerance and investment goals. These algorithms can rebalance portfolios automatically in response to market changes or shifts in the investor's goals.」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
   - 「当然、スピーカーによって立場や経験は異なり、例えば、経営戦略、財務、ESG、研究開発や現場情報など、掘り下げると次から次へと話がでてくる分野があります」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「具体的には、「説明・補足」は「つまり」「例えば」「もう少し詳しく言うと」など話を縦に掘り下げるイメージで、「逆接」は「しかし」「でも」「一方で」など話に別の視点を加えることで横に広げるイメージです」（https://note.com/nakanoam/n/nc638baf1b1d1）
-  - 「さらには、「具体（数字や事例など）」と「抽象（概念や原理など）」という」（https://note.com/nakanoam/n/nc638baf1b1d1）
 - 検索結果の抜粋：
   - 「アナリストが実際に考えている企業分析 ～株価に一喜一憂しないために... — Jul 21, 2023 · さわかみ投信の公式noteです。ここでは、さわかみ投信の考えや日々の活動、社員のお金にまつわる体験談、「投資をはじめたいけどどうしたらいいかわからない、不安！」という方に向けた、お金にまつわる話題を発信しています。」（https://note.com/sawakami_letter/n/ne8e25bd22655）
   - 「5分でサクッと企業分析さん@元証券アナリストの記事一覧｜note（ノー... — 大手証券会社にてアナリストとして7年間勤務。主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆。 現在は独立し、個人投資家・就活生・営業パーソン向けに「プロが使う企業分析の視点」をわかりやすく発信中。」（https://note.com/investers_notes/all）
@@ -4033,69 +4033,77 @@
 ## IFCN・FIJ のファクトチェックの手順とレーティング基準の定義（10ステップ全文・判定区分・数字の主張の検証例）（IFCN fact-checking steps rating definitions numbers claims methodology）
 - 文脈：
 - 手順・やり方：
-  - 「ファクトチェックとは？意味や方法、役立つツールを簡単にわかりやすく解説 | C-NAPS（シナプス）｜LLMO時代のコンテンツマーケティングの課題解決に役立つ情報メディア」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「／ファクトチェックとは？意味や方法、役立つツールを簡単にわかりやすく解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「ファクトチェックとは？意味や方法、役立つツールを簡単にわかりやすく解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「本記事では、コンテンツ制作に役立つファクトチェックのやり方、便利なサポートツールなどを紹介します」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「ファクトチェックには、さまざまなステップや方法があります」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「ここでは、具体的な方法を見ていきましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「LLMOモニタリングの手順と計測設計とは？【AI引用率を月次で追う実践ガイド】」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「AISoVスコアとは？AI検索での自社シェアを数値化する計測方法」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「SEOに強いタイトルの付け方！文字数の目安やクリック率を高める手順をわかりやすく解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「コンテンツSEOとは？コンテンツマーケティングとの違いや効果・やり方を事例で解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「Copilot（コパイロット）の使い方を分かりやすく解説！無料版の始め方からMicrosoft 365での活用事例まで」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「Grok（グロック）の使い方を徹底解説！ChatGPTとの違いや料金プラン、活用事例まで網羅」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「Advanced Custom Fields Pro（ACF Pro）とは？使い方・料金・基本機能を徹底解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「をいい、過去に起こった出来事が典型例です」（https://fij.info/introduction/basic）
-  - 「「偉大さ」を客観的に測る指標はなく、人によって「偉大」と評価する基準は異なるので、このような言説は典型的な」（https://fij.info/introduction/basic）
+  - 「ファクトチェックの基本的なやり方とAI活用 ビジネスで失敗しない方法 | クラウドサイン」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「ファクトチェックの基本的なやり方とAI活用 ビジネスで失敗しない方法」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「この記事では、ファクトチェックの基本的な考え方や具体的な手順を解説したうえで、AIをファクトチェックに活用する方法と注意点を紹介」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「無理なくはじめる“ちょうどいい” バックオフィス業務改善のコツ」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「ここからは、特別なツールを使わなくても実践できるファクトチェックの基本手順を解説します」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「調査データであればサンプルサイズや調査方法も確認すべきポイントです」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「固有名詞については、企業名の正式表記（株式会社の位置など）、人名の漢字や肩書き、法律の正式名称などが典型的なチェック項目です」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「校閲や事実確認を支援する専用ツールを活用する方法」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「ファクトチェックや校閲を専門とする外部サービスに依頼する方法」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「AIを活用したファクトチェックの3つの方法」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「AIにファクトチェックすべき箇所を洗い出してもらう使い方は、工程の大幅な効率化に寄与」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「そこでおすすめなのが、最新の法改正にも対応した法務特化型のAIツールを活用することです」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「この記事では、ファクトチェックの基本的な考え方から具体的な手順、そしてAIを活用した効率的なチェック方法までを解説しました」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「【2026年最新】生成AIのリアルな活用実態調査：業務別事例19選から学ぶ「成果が出る」導入手順」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「AI導入の進め方完全ガイド｜5ステップで導入手順を整理」（https://www.cloudsign.jp/journal/fact-check/）
 - 突き合わせ・推定：
+  - 「筆者もデータ分析の業務でAIの出力を検証する機会がありますが、もっともらしい数値であっても出典をたどると原典が見つからないケースは少なくありません」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「以下の表のように、事実は客観的に検証できる事柄、意見は主観的な解釈や予測を指します」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「複数のソースを参照して事実を確認するクロスチェックは、ファクトチェックの基本」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「同じ事象について複数の報道機関の伝え方を比較したり、民間の調査データと公的統計を突き合わせたりすることで、情報の信頼性を多角的に評価できます」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「あらゆる情報を網羅的に検証するのは現実的ではありません」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「上場企業であればIR資料で業績を照合できますが、非上場企業の場合は公式サイトやプレスリリースが主な情報源となります」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「文章をAIに読み込ませ、「事実確認が必要な箇所をリストアップしてください」と指示すれば、数値データや固有名詞、法令名など検証すべきポイントを効率よく抽出できます」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「AIの出力はあくまで下書きやたたき台として扱い、最終的には人間の目で必ず検証する姿勢が不可欠」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「ファクトチェックは特別な作業ではなく、事実と意見を区別し、一次情報を確認し、複数のソースで裏取りをするという基本の積み重ねが大切」（https://www.cloudsign.jp/journal/fact-check/）
   - 「公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営みを指す」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「複数の信頼できる情報源から内容をクロスチェックすることで、情報の真偽を確認しましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「Fact Check ExplorerはGoogleが提供する、世界中のファクトチェック機関による検証記事を検索できるツールです」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「言語を選んで検索できることから、国内はもちろん国際的な情報を検証する際も便利です」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「記事の中では、取り上げられているトピックの正誤判定や検証結果を確認できます」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「基本的なルール(2) 証拠に基づく検証」（https://fij.info/introduction/basic）
-  - 「公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営み」（https://fij.info/introduction/basic）
-  - 「世の中に影響を与える言説や情報のうち、真偽が定かでないものや正確さに疑いがあるもの、事実かどうか検証されていないものが、ファクトチェックの対象となります」（https://fij.info/introduction/basic）
-  - 「真偽が定かでないため、調査・検証した結果、正確、もしくはほぼ正確であることが確認された場合や、誤りとは言えないが重要な事実が欠落していて誤解を与える場合など、様々なケースを取り扱います」（https://fij.info/introduction/basic）
-  - 「ファクトチェックはあくまで「事実」かどうかを検証する営みですから、」（https://fij.info/introduction/basic）
-  - 「原則として「事実言明」に限って検証するというルール」（https://fij.info/introduction/basic）
-  - 「ファクトチェックは、原則として調査によって収集・入手できる証拠（公開情報や文書など物的、客観的証拠）に基づいて、現実的に検証可能な「事実言明」を取り上げることが一般的です」（https://fij.info/introduction/basic）
-  - 「第三者による再検証・再確認が困難な匿名情報源に基づく検証は、極めて例外的です」（https://fij.info/introduction/basic）
-  - 「原則として、公開の場で不特定多数に向けて発せられた公益にかかわる言説・情報で、社会的に影響が大きく、真偽検証する意義のあるものを選ぶことになるでしょう」（https://fij.info/introduction/basic）
-  - 「通常は、ファクトチェック記事の冒頭で検証対象の言説内容を明示します」（https://fij.info/introduction/basic）
 - 一次情報の探し方：
+  - 「たとえば、実在しない統計データの引用や、架空の法律名の提示が報告されています」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「ファクトチェックでもっとも大切なのは一次情報の確認」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「一次情報とは、公的機関の公式発表、法令の原文、学術論文の原典、企業のIR資料など、「最初に」発表された情報（データや文書）を指します」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「ニュース記事やブログ記事などは、一次情報を加工・要約した二次情報であり、その過程で数値が簡略化される、文脈が省略される」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「こうした一次情報への到達を習慣化するだけでも、チェックの精度は大きく向上します」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「統計データであれば、数字そのものだけでなく調査年度や母数も確認しましょう」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「同じ事象について複数の報道機関の伝え方を比較したり、民間の調査データと公的統計を突き合わせたりすることで、情報の信頼性を多角的に評価できます」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「情報源によって数値が異なる場合は、どれが一次情報に基づいているかを見極めましょう」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「AIに対して「この主張の根拠となるデータや情報源を提示してください」と指示すれば、関連する統計データや公的機関の発表などの候補を提示してもらえます」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「出典付きで回答するツールを使えば、一次情報へたどり着きやすくなります」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「直近の法改正やニュース、最新の統計データには対応できていない場合」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「比較的新しい法令や、法改正が行われた情報を扱う際は、必ず一次情報にあたる必要があります」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「ファクトチェックは特別な作業ではなく、事実と意見を区別し、一次情報を確認し、複数のソースで裏取りをするという基本の積み重ねが大切」（https://www.cloudsign.jp/journal/fact-check/）
   - 「公的機関や報道機関が発信している情報と照らし合わせてみましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「政府や官公庁、地方自治体、国内外の研究機関、学術論文データベース、公的な国際機関など」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「ファクトチェックをする上で欠かせないのが、「一次情報」の存在です」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「一次情報とは、自分が直接したり、調査したりした情報を指します」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「具体的には、以下のようなものが一次情報に分類されます」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「ファクトチェックをする際は、可能な限り一次情報を参考にしましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「「一次情報を元にしているコンテンツ＝正しい情報」とは限らない」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「一次情報が組み込まれていても、作為的な「切り取り」がされていたり、ないはずの情報が加えられたりといったケースも少なくありません」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「そのため、一次情報そのものとしっかり見比べて真意を確認するようにしましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「統計データや事件・事故の続報、進行中の出来事など状況が変化しやすい事象は、調査を繰り返す過程で記録が変わっている可能性もあります」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「ほかにも、「統計データやグラフが、特定の結論に誘導するように加工されている」「皮肉や冗談が事実として受け取られる」といったケースなどにも注意が必要です」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「（2019年4月2日公開）を採用します」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
-  - 「＜2019/08/11＞Waseggにおけるファクトチェック・ガイドラインとして、FIJが策定したガイドラインを採用」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
-  - 「We provide links to primary sources for all factual assertions wherever possible and aim to provide at least two sources to verify the central claim of a check unless there is only one relevant source. We prefer to link to data tables, legal documents, or other primary sources rather than press releases or executive summaries of statistical releases.」（https://commonslibrary.parliament.uk/research-briefings/cbp-10820/）
 - 失敗・落とし穴：
+  - 「ファクトチェックの基本的なやり方とAI活用 ビジネスで失敗しない方法 | クラウドサイン」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「ファクトチェックの基本的なやり方とAI活用 ビジネスで失敗しない方法」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「この記事では、ファクトチェックの基本的な考え方や具体的な手順を解説したうえで、AIをファクトチェックに活用する方法と注意点を紹介」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「法律・制度の誤りによるコンプライアンス違反」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「個人の注意力だけで、AIによる誤情報をすべて見つけ出すことはできません」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「人間には「確証バイアス」（認知バイアスの一種）があり、先入観に合致する情報を疑わずに受け入れる傾向があるため注意が必要です」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「文章中に登場する数値や固有名詞は、誤りが発生しやすいポイント」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「とくに法令名は通称と正式名称が異なることが多く注意が必要です」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「地道な作業ではありますが、ひとつの数字や名称の誤りが文書全体の信頼性を損なうため、省略しないようにしましょう」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「とくに注意すべきカテゴリは以下の4つです」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「古いプレスリリースの内容がそのまま使われていることもあるため、発表時期にも注意が必要です」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「これは確証バイアスへの対策としても有効です」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「AIをファクトチェックに活用する際に押さえておきたい注意点を解説します」（https://www.cloudsign.jp/journal/fact-check/）
   - 「不確かな情報を発信しないように注意し、常に正しい情報を発信する」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「注意すべきは、」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「なお、ここで注意したいのが」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「ここでは、キーワードを入力すると「誤り」「不正確」といった判定と一緒に、関連記事を見ることができます」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「発言の一部を切り取り、発言した本人の意図と異なる印象を与えるようなニュースや動画にはとくに注意しましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「ほかにも、「統計データやグラフが、特定の結論に誘導するように加工されている」「皮肉や冗談が事実として受け取られる」といったケースなどにも注意が必要です」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「キーワードを入力すると、その情報の正確性を「誤り」「不正確」などの基準で判定してくれます」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「ただし、現時点では日本の情報環境に特化している点には注意が必要です」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「真偽が定かでないため、調査・検証した結果、正確、もしくはほぼ正確であることが確認された場合や、誤りとは言えないが重要な事実が欠落していて誤解を与える場合など、様々なケースを取り扱います」（https://fij.info/introduction/basic）
-  - 「この点について、国際ファクトチェックネットワーク（ＩＦＣＮ）が具体的な注意点をまとめた記事を発表していますので、ご一読をおすすめします（主に政治家の言説をファクトチェックすることを念頭に書かれていますが、ファクトチェック全般に共通した注意点も含まれています）」（https://fij.info/introduction/basic）
-  - 「ファクトチェック記事につける見出しは、対象言説の内容や検証の結論について誤解を与えないように注意して付けるものとします」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
-  - 「事実の誤りはなく、重要な要素が欠けていない」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
-  - 「一部は不正確だが、主要な部分・根幹に誤りはない」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
-  - 「誤りと証明できないが、証拠・根拠がないか非常に乏しい」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
-  - 「全て、もしくは根幹部分に事実の誤りがある」（https://wasegg.com/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3）
 - 実例：
+  - 「筆者もデータ分析の業務でAIの出力を検証する機会がありますが、もっともらしい数値であっても出典をたどると原典が見つからないケースは少なくありません」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「「最新情報」と書かれていても、数年前のデータが使われているケースも珍しくありません」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「生成AIが古い法令情報をもとに回答するケースも多く見受けられるため、官公庁の公式サイトやe-Govなどの法令データベースで原文をよく確認してください」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「企業の事例紹介や競合分析では、社名や製品名の表記、業績データ、導入事例の内容が正確かを確認」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「たとえば業界トレンドについて「この傾向に当てはまらないケースはありますか」と質問すれば、よりバランスの取れた記述に調整しやすくなるでしょう」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「本サービスの導入効果と具体的な活用事例を資料にまとめました」（https://www.cloudsign.jp/journal/fact-check/）
+  - 「【2026年最新】生成AIのリアルな活用実態調査：業務別事例19選から学ぶ「成果が出る」導入手順」（https://www.cloudsign.jp/journal/fact-check/）
   - 「近年、インターネットの発展により多様な情報にアクセスしやすくなった一方、中には誤った情報が紛れているケースも少なくありません」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営みを指す」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「実際、悪意のある偽情報や、差別を助長しかねないプロパガンダ（政治的宣伝）は急増しており、一般ユーザーが知らないうちに情報操作されているケースも見られます」（https://fungry.co.jp/cnaps/blog/fact-check/）
@@ -4104,13 +4112,6 @@
   - 「一方で、個人が発信するSNSやブログ、クチコミサイトなどではそのようなチェック体制が整っていないケースも少なくありません」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「一次情報が組み込まれていても、作為的な「切り取り」がされていたり、ないはずの情報が加えられたりといったケースも少なくありません」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「ファクトチェックのためのリソースがない、情報の真意を確かめるスキルがない、というケースもあるでしょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「例えば、非営利団体「FIJ」では「ファクトチェック・ナビ」というサービスを提供しています」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「情報の中には引用や要約、翻訳の過程で元の文脈から内容が大きく乖離してしまうケースが少なくありません」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「ほかにも、「統計データやグラフが、特定の結論に誘導するように加工されている」「皮肉や冗談が事実として受け取られる」といったケースなどにも注意が必要です」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「国内外のファクトチェック事例や、メディアリテラシーに関する情報を収集・公開しています」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「ファクトチェックの結果を確認できる記事もあるので、トレンドになっている情報の正確性を確認する際に活用しましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「記事の中では、取り上げられているトピックの正誤判定や検証結果を確認できます」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「製造業のLLMO対策事例｜AI検索で引き合いを増やした具体的な施策」（https://fungry.co.jp/cnaps/blog/fact-check/）
 
 ## 政府統計の「利用上の注意」で系列の切れ目・遡及集計・表の記号を読む実務（賃金構造・毎月勤労統計・工業統計）（Japanese government statistics notes on use series break retroactive revision symbols）
 - 文脈：
@@ -5858,47 +5859,60 @@
 ## 官報の決算公告の探し方と会社の取り違えの防ぎ方（検索の鍵・期間・費用・同名の会社）（how to search official gazette financial statement notices Japan）
 - 文脈：同一性
 - 手順・やり方：
-  - 「官報で破産・再生公告を確認する方法、無料で見られる範囲、個人情報を扱うときの注意点を整理します」（https://kanpou.ai/guide）
-  - 「株式会社の決算公告に掲載される内容と、官報から会社ごとの公告記録を探す手順を解説します」（https://kanpou.ai/guide）
-  - 「限定承認の催告、相続人捜索の公告、帰化の告示など、相続・国籍に関する官報公告の種類と確認方法をまとめます」（https://kanpou.ai/guide）
-  - 「で日付・号種別・号数を指定して探す方法があります」（https://kanpou.ai/guide）
-  - 「提供範囲・閲覧方法の詳細は、」（https://kanpou.ai/guide）
-  - 「過去の公告を会社名などの言葉で探したいときは、有料の官報情報検索サービスを使う方法があります」（https://note.com/joshima_s/n/n04cab9927719）
-  - 「公告の方法が官報か日刊新聞の会社は、貸借対照表の「要旨」を載せれば足ります」（https://note.com/joshima_s/n/n04cab9927719）
-  - 「この公告は、別の公告方法を併用する場合でも官報への掲載が前提です」（https://note.com/joshima_s/n/n04cab9927719）
-  - 「会社が使う公告の方法は、官報・日刊新聞・電子公告の中から定款で選べます」（https://note.com/joshima_s/n/n04cab9927719）
-  - 「決算公告についても、貸借対照表を自社のウェブサイトなどで5年間公開する方法をとっている会社や、有価証券報告書を提出している会社は、官報での公告の対象外です」（https://note.com/joshima_s/n/n04cab9927719）
-  - 「公告方法の選択や決算公告の例外があるため、「載っていない」ことはそれだけで問題とはいえない」（https://note.com/joshima_s/n/n04cab9927719）
-  - 「官報の電子化の経緯や、法令・行政処分・破産情報の追い方まで、官報を一次資料として使う方法を詳しくまとめた解説です」（https://note.com/joshima_s/n/n04cab9927719）
-  - 「登記や裁判の情報など、無料で使える情報源を組み合わせて取引先を確かめる手順をまとめた解説です」（https://note.com/joshima_s/n/n04cab9927719）
-  - 「公開情報を突き合わせて、ネット上の情報を確かめる方法を発信しています」（https://note.com/joshima_s/n/n04cab9927719）
-  - 「官報で決算公告を探す方法｜無料3サービス+有料データベースを比較 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「官報の調べ方｜無料閲覧と企業の破産公告・決算公告を探す手順 | DailyDrops Info」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「調べる目的と掲載時期で、利用する方法が変わります」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「2025年4月1日には「官報の発行に関する法律」の施行に伴い、発行方法が電子化されました」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「3. 官報発行サイトの使い方｜日付から探す6ステップ」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「5. 企業の破産公告を調べる方法｜名前検索の限界も知る」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「6. 決算公告の検索方法｜官報で見つからないときは」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「登記事項で公告方法や決算公告用URLを確認する」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「会社の公告方法は、官報、日刊新聞紙、電子公告などから定められます」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「官報を公告方法とする会社でも、決算公告だけをウェブサイトで行うことがあります」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「公告方法が違う、公告時期がまだ来ていない、制度上の例外があるといった可能性を順に考えましょう」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「電子公告など別の方法や法令上の例外があります」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「商業登記は商号、本店、役員、公告方法などを確認する制度です」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「12. まとめ｜調べる目的と掲載時期から方法を選ぶ」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「決算公告は、官報だけでなく会社の公告方法も確認するのが近道です」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「ニュース疲れを減らす「正しい見方」チェックリスト｜不安を煽る情報に振り回されない検証手順」（https://daily-drops.com/articles/kanpo-search-guide）
 - 突き合わせ・推定：
+  - 「決算公告の官報掲載期限｜いつまでに申し込めばいい？逆算スケジュール完全ガイド」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「目的のページを表示し、会社名・手続名・日付などを照合する」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「法人の場合は、次の点を照合しましょう」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「公告が見つかったら、対象事業年度と財務数値、会社の同一性を照合する」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「合併の通知を受けたら、商号・日付・期限を照合しましょう」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「ただし、現在の経営状態は、最新の開示資料とも照合しましょう」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「人は一生で映画・本・漫画・ゲームをどれくらい体験できるのか？人生の可処分時間と世界のコンテンツ総量を統計データから計算し、現実的にどれだけ消費できるのかを数字で検証します」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「ニュース疲れを減らす「正しい見方」チェックリスト｜不安を煽る情報に振り回されない検証手順」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「ニュース疲れ・不安を煽る見出しに振り回されないための「検証フロー」と「危険サイン7つ」を解説」（https://daily-drops.com/articles/kanpo-search-guide）
   - 「13桁の法人番号で企業を一意に特定し、登記状態と官報掲載記録を突き合わせる流れを紹介します」（https://kanpou.ai/guide）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「評価には使わず、所在地などで同じ会社かを照合してから読む」（https://note.com/joshima_s/n/n04cab9927719）
   - 「公開情報を突き合わせて、ネット上の情報を確かめる方法を発信しています」（https://note.com/joshima_s/n/n04cab9927719）
   - 「帝国データバンク・東京商工リサーチの企業レポート（推定財務情報を含む場合あり）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「国税庁の法人番号と照合済みの企業は法人番号も併記されます」（https://kanpou.ai/guide/kessan-kokoku）
 - 一次情報の探し方：
-  - 「官報で破産・再生公告を確認する方法、無料で見られる範囲、個人情報を扱うときの注意点を整理します」（https://kanpou.ai/guide）
-  - 「株式会社の決算公告に掲載される内容と、官報から会社ごとの公告記録を探す手順を解説します」（https://kanpou.ai/guide）
-  - 「13桁の法人番号で企業を一意に特定し、登記状態と官報掲載記録を突き合わせる流れを紹介します」（https://kanpou.ai/guide）
-  - 「官報に掲載される情報、発行日、号種、原文PDFで確認するときの基本をまとめています」（https://kanpou.ai/guide）
-  - 「破産手続開始決定の意味、同時廃止と管財事件の違い、決定後の流れと官報公告のタイミングを解説します」（https://kanpou.ai/guide）
-  - 「破産との違い、協定の仕組み、官報公告の種類を解説します」（https://kanpou.ai/guide）
-  - 「限定承認の催告、相続人捜索の公告、帰化の告示など、相続・国籍に関する官報公告の種類と確認方法をまとめます」（https://kanpou.ai/guide）
-  - 「記事の「官報掲載」にある掲載日・号種別（本紙・号外など）・号数・ページを控えて、次の順に確認してください」（https://kanpou.ai/guide）
-  - 「直近90日間は官報全体を無料で閲覧できます」（https://kanpou.ai/guide）
-  - 「2025年4月1日以降の官報は、一部の記事を除き90日経過後も閲覧できます」（https://kanpou.ai/guide）
-  - 「それ以前の官報は、法律・政令等や政府調達など、提供範囲が異なります」（https://kanpou.ai/guide）
-  - 「官報情報検索サービス（国立印刷局・会員制有料）」（https://kanpou.ai/guide）
-  - 「紙の官報を所蔵する図書館や、同サービスを来館者に開放する図書館もあります」（https://kanpou.ai/guide）
-  - 「原文PDFへのリンクが表示されないことは、公式原本が存在しないことを意味しません」（https://kanpou.ai/guide）
-  - 「官報AIの本文・原本画像は検索と対照のための非公式な整理です」（https://kanpou.ai/guide）
+  - 「官報の調べ方｜無料閲覧と企業の破産公告・決算公告を探す手順 | DailyDrops Info」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「官報を調べるなら、まず」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「2025年4月以降の官報は、発行から原則90日間、全体を無料で閲覧・保存できます」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「無料サイトに官報全体のキーワード検索機能はなく、有料サービスでも破産等に関する裁判所公告はキーワード検索の対象外」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「1. 官報とは？掲載される情報と役割」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「官報（かんぽう）は、法令や公示事項を知らせる国の公報です」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「1883年に創刊され、企業の決算や裁判所の公告まで幅広く掲載します」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「決算、合併、解散、資本金の減少」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「2025年4月1日には「官報の発行に関する法律」の施行に伴い、発行方法が電子化されました」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「以前の「インターネット版官報」は紙の官報を補完するものでした」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「2. 官報は無料でどこまで見られる？期間別の早見表」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「2025年4月1日以降の官報は、発行から原則90日間、全文を無料で閲覧・ダウンロードできます」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「2025年3月以前の官報」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「また、官報は原則として行政機関の休日を除く日に午前8時30分に発行されます」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「3. 官報発行サイトの使い方｜日付から探す6ステップ」（https://daily-drops.com/articles/kanpo-search-guide）
 - 失敗・落とし穴：
+  - 「会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「注意したいのは、」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「「官報で見つからない＝決算を隠している」という判断は誤りです」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「では、個人情報の不当な利用や、サイトに負荷をかける自動収集への注意が示されています」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「厚生年金の仕組みを国民年金との違い、給与からいくら引かれるか、将来の受給額、パート・扶養の注意点までわかりやすく解説」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「政治・経済・社会ニュースの読み方、コメント欄のバイアス、10分ニュース術まで網羅」（https://daily-drops.com/articles/kanpo-search-guide）
   - 「官報で破産・再生公告を確認する方法、無料で見られる範囲、個人情報を扱うときの注意点を整理します」（https://kanpou.ai/guide）
   - 「料金目安・貸借対照表の自動連携・大会社の注意点・マネーフォワードとの違いを解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
@@ -5908,13 +5922,10 @@
   - 「大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「料金目安・貸借対照表の自動連携・大会社の注意点・マネーフォワードとの違いを解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
 - 実例：
+  - 「例えば「2026年6月にA社の合併公告が出た」と分かっていれば、その月の各発行日から号外の目次を順に確認します」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「例えば「5月20日に開始決定」と分かっていても、5月20日分だけを見て終わりにせず、その後の発行日も確認する必要があります」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「例えば合併公告には、合併する会社や効力発生日、債権者が異議を述べるための期間などが示されることがあります」（https://daily-drops.com/articles/kanpo-search-guide）
   - 「分割公告と決算公告の同時掲載が必要なケース、費用・スケジュール・電子公告への切替まで」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「決算公告から売上高を確認したいが見当たらない…その理由と、売上高が掲載される例外的なケース、確認できる代替の情報源までを会社法の条文に基づいて具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「食べチョクの決算公告はどこで見れる？運営会社ビビッドガーデンの実例で解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
@@ -5927,9 +5938,6 @@
   - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「分割公告と決算公告の同時掲載が必要なケース、費用・スケジュール・電子公告への切替まで」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「スターバックスの決算公告はなぜ官報にないのか｜2004年から続くWeb開示の実例」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
 
 ## 分析の作法（analytic tradecraft）とアナリストの数字の突き合わせ（2つの評価方法・前提の点検・失敗例）（analytic tradecraft structured analytic techniques equity research cross check valuation methods）
 - 文脈：突き合わせ
@@ -6550,7 +6558,7 @@
   - 「The bull case in most investment situations is the obvious thesis. The bear case is where the work is. Stress-testing the thesis against Stage 4 risks before building valuation assumptions forces intellectual honesty about the entry price required.」（https://minalyst.com/blog/research-guides/due-diligence-checklist）
   - 「Cisco is a selective buy at $102.97, with a stronger case than a networking stock purchased only for AI excitement. AI infrastructure orders are…」（https://equityresearchbase.com/）
   - 「Separate reported facts, assumptions and examples.」（https://equityresearchbase.com/）
-- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
 
 ## 構造化分析手法（シナリオの4本・仮定の書き出し・グループでの分析）の実務（structured analytic techniques scenarios key assumptions check practitioner）
 - 文脈：突き合わせ・推定
@@ -6650,22 +6658,30 @@
 ## 官報の決算公告を探す5つの手段と、見つからないことを『公告していない』と決めない手順（官報電子化法後のウェブ版の正本扱い・民間の検索の網羅性）（how to search kanpo financial statement notice Japan coverage）
 - 文脈：一次情報
 - 手順・やり方：
-  - 「【信用調査】決算書の入手方法｜小笠原捷｜中小企業診断士」（https://note.com/s_o_0517/n/n51e06bbe1aed）
-  - 「今回は決算書の入手方法について、以下説明しています」（https://note.com/s_o_0517/n/n51e06bbe1aed）
-  - 「元も子もないですが、最も望ましいのは、取引開始前や与信枠設定時に、相手先へ直接提出を依頼する方法です」（https://note.com/s_o_0517/n/n51e06bbe1aed）
-  - 「帝国データバンクや東京商工リサーチなどの信用調査会社を利用する方法もあります」（https://note.com/s_o_0517/n/n51e06bbe1aed）
-  - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026年版】 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「この記事では、官報に掲載された決算公告を閲覧するための5つの方法を、無料・有料それぞれ比較表付きで徹底解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「官報に掲載された決算公告を閲覧する5つの方法」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「方法1：インターネット版官報（kanpo.go.jp）で直接閲覧する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「方法2：官報検索サービス（kanpoo.jp）を使う」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「方法3：官報決算データベース（catr.jp）を活用する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「方法4：官報索引を利用する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「方法5：有料データベース（帝国データバンク・東京商工リサーチ）を使う」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「5つの閲覧方法を比較｜目的別おすすめ早見表」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「Q6: 非上場企業の決算公告を無料で調べる最も効率的な方法は何ですか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「調べる目的と掲載時期で、利用する方法が変わります」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「2025年4月1日には「官報の発行に関する法律」の施行に伴い、発行方法が電子化されました」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「3. 官報発行サイトの使い方｜日付から探す6ステップ」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「5. 企業の破産公告を調べる方法｜名前検索の限界も知る」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「6. 決算公告の検索方法｜官報で見つからないときは」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「登記事項で公告方法や決算公告用URLを確認する」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「会社の公告方法は、官報、日刊新聞紙、電子公告などから定められます」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「官報を公告方法とする会社でも、決算公告だけをウェブサイトで行うことがあります」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「公告方法が違う、公告時期がまだ来ていない、制度上の例外があるといった可能性を順に考えましょう」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「電子公告など別の方法や法令上の例外があります」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「商業登記は商号、本店、役員、公告方法などを確認する制度です」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「12. まとめ｜調べる目的と掲載時期から方法を選ぶ」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「決算公告は、官報だけでなく会社の公告方法も確認するのが近道です」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「ニュース疲れを減らす「正しい見方」チェックリスト｜不安を煽る情報に振り回されない検証手順」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「官報の調べ方｜無料閲覧と企業の破産公告・決算公告を探す手順 | DailyDrops Info」（https://daily-drops.com/articles/kanpo-search-guide）
 - 突き合わせ・推定：
+  - 「目的のページを表示し、会社名・手続名・日付などを照合する」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「法人の場合は、次の点を照合しましょう」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「公告が見つかったら、対象事業年度と財務数値、会社の同一性を照合する」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「合併の通知を受けたら、商号・日付・期限を照合しましょう」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「ただし、現在の経営状態は、最新の開示資料とも照合しましょう」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「ニュース疲れを減らす「正しい見方」チェックリスト｜不安を煽る情報に振り回されない検証手順」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「ニュース疲れ・不安を煽る見出しに振り回されないための「検証フロー」と「危険サイン7つ」を解説」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「人は一生で映画・本・漫画・ゲームをどれくらい体験できるのか？人生の可処分時間と世界のコンテンツ総量を統計データから計算し、現実的にどれだけ消費できるのかを数字で検証します」（https://daily-drops.com/articles/kanpo-search-guide）
   - 「退職代行業者の行政データ検証やゲーム企業決算シーズン入りも」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「調査先の回答、過去データ、推定値が含まれることもあります」（https://note.com/s_o_0517/n/n51e06bbe1aed）
   - 「決算公告の官報掲載期限｜いつまでに申し込めばいい？逆算スケジュール完全ガイド」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
@@ -6673,27 +6689,28 @@
   - 「退職代行業者の行政データ検証やゲーム企業決算シーズン入りも」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/）
   - 「帝国データバンク・東京商工リサーチの企業レポート（推定財務情報を含む場合あり）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「13桁の法人番号で企業を一意に特定し、登記状態と官報掲載記録を突き合わせる流れを紹介します」（https://kanpou.ai/guide）
-  - 「大切なのは、「いつの・どの情報を・何のために」から手段を逆算する視点です」（https://blog.roborobo.co.jp/compliance/kanpo-where）
-  - 「2025年時点の推計では、決算公告を履行している中小企業は全体の数パーセント程度とされています」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/）
-  - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-where-to-view/）
-  - 「退職代行業者の行政データ検証やゲーム企業決算シーズン入りも」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
 - 一次情報の探し方：
-  - 「【信用調査】決算書の入手方法｜小笠原捷｜中小企業診断士」（https://note.com/s_o_0517/n/n51e06bbe1aed）
-  - 「取引相手方の財務状況を確認するには、当該先の決算書を提出いただく必要があります」（https://note.com/s_o_0517/n/n51e06bbe1aed）
-  - 「決算書は企業情報の塊ですから、信用調査においては是が非でも押さえておきたい情報です」（https://note.com/s_o_0517/n/n51e06bbe1aed）
-  - 「今回は決算書の入手方法について、以下説明しています」（https://note.com/s_o_0517/n/n51e06bbe1aed）
-  - 「決算書が大事な事は皆さんご存知かと思います」（https://note.com/s_o_0517/n/n51e06bbe1aed）
-  - 「取引相手の支払能力、財務体力、赤字体質なのかどうか、過大債務はないか、資金繰り悪化の傾向は無いか……決算書からは色々な情報が入手できます」（https://note.com/s_o_0517/n/n51e06bbe1aed）
-  - 「ただ、その場合は「決算書の提出を受けられない」という事を事実として、取引の可否や与信限度を決める必要があります」（https://note.com/s_o_0517/n/n51e06bbe1aed）
-  - 「信頼関係を築き、長い取引を希望するのであれば、決算書の提出を受ける事は双方にとってメリットがある筈です」（https://note.com/s_o_0517/n/n51e06bbe1aed）
-  - 「取引相手が上場会社、または有価証券報告書の提出会社であれば、金融庁のEDINETで有価証券報告書を確認できます」（https://note.com/s_o_0517/n/n51e06bbe1aed）
-  - 「EDINETは、有価証券報告書や有価証券届出書などの開示書類を電子的に閲覧できる仕組みです」（https://note.com/s_o_0517/n/n51e06bbe1aed）
-  - 「有価証券報告書には、連結財務諸表、単体財務諸表、事業等のリスク、主要な経営指標、キャッシュ・フローの状況などが含まれます」（https://note.com/s_o_0517/n/n51e06bbe1aed）
-  - 「信用調査では、決算短信だけでなく、有価証券報告書まで確認する方が安全です」（https://note.com/s_o_0517/n/n51e06bbe1aed）
-  - 「上場会社の場合、東京証券取引所の適時開示情報閲覧サービスでも決算短信や業績修正、重要な開示情報を確認できます」（https://note.com/s_o_0517/n/n51e06bbe1aed）
-  - 「4. 非上場会社は決算公告を探す」（https://note.com/s_o_0517/n/n51e06bbe1aed）
-  - 「非上場会社でも、株式会社には原則として決算公告義務があります」（https://note.com/s_o_0517/n/n51e06bbe1aed）
+  - 「官報を調べるなら、まず」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「2025年4月以降の官報は、発行から原則90日間、全体を無料で閲覧・保存できます」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「無料サイトに官報全体のキーワード検索機能はなく、有料サービスでも破産等に関する裁判所公告はキーワード検索の対象外」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「1. 官報とは？掲載される情報と役割」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「官報（かんぽう）は、法令や公示事項を知らせる国の公報です」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「1883年に創刊され、企業の決算や裁判所の公告まで幅広く掲載します」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「決算、合併、解散、資本金の減少」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「2025年4月1日には「官報の発行に関する法律」の施行に伴い、発行方法が電子化されました」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「以前の「インターネット版官報」は紙の官報を補完するものでした」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「2. 官報は無料でどこまで見られる？期間別の早見表」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「2025年4月1日以降の官報は、発行から原則90日間、全文を無料で閲覧・ダウンロードできます」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「2025年3月以前の官報」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「また、官報は原則として行政機関の休日を除く日に午前8時30分に発行されます」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「3. 官報発行サイトの使い方｜日付から探す6ステップ」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「官報発行サイトを開き、当日分か、画面上部の「過去の官報」を選ぶ」（https://daily-drops.com/articles/kanpo-search-guide）
 - 失敗・落とし穴：
+  - 「注意したいのは、」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「「官報で見つからない＝決算を隠している」という判断は誤りです」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「では、個人情報の不当な利用や、サイトに負荷をかける自動収集への注意が示されています」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「厚生年金の仕組みを国民年金との違い、給与からいくら引かれるか、将来の受給額、パート・扶養の注意点までわかりやすく解説」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「政治・経済・社会ニュースの読み方、コメント欄のバイアス、10分ニュース術まで網羅」（https://daily-drops.com/articles/kanpo-search-guide）
   - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
@@ -6704,12 +6721,12 @@
   - 「株主総会の特別決議から登記完了まで全手順と費用（登録免許税3万円）・注意点を完全解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「ただし、民間が提供するサービスであるため、公式サイトと比べてデータの網羅性には注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「このサービスは官報に掲載されたデータのみを対象としているため、電子公告や新聞公告で決算情報を開示している企業は含まれない点に注意してください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「ただし、企業名からの直接検索はできず、掲載日順に目視で探す必要がある点には注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「ウェブで閲覧した官報を根拠資料として使用する場合、以前は「正本ではない」という注意書きが必要でしたが、電子化後はウェブ版がそのまま正本として扱えます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「官報の決算公告を閲覧する際には、いくつかの実務上の注意点があります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
 - 実例：
+  - 「決算公告から売上高を確認したいが見当たらない…その理由と、売上高が掲載される例外的なケース、確認できる代替の情報源までを会社法の条文に基づいて具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「決算公告から売上高を確認したいが見当たらない…その理由と、売上高が掲載される例外的なケース、確認できる代替の情報源までを会社法の条文に基づいて具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「例えば「2026年6月にA社の合併公告が出た」と分かっていれば、その月の各発行日から号外の目次を順に確認します」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「例えば「5月20日に開始決定」と分かっていても、5月20日分だけを見て終わりにせず、その後の発行日も確認する必要があります」（https://daily-drops.com/articles/kanpo-search-guide）
+  - 「例えば合併公告には、合併する会社や効力発生日、債権者が異議を述べるための期間などが示されることがあります」（https://daily-drops.com/articles/kanpo-search-guide）
   - 「提出を依頼しても、「そんなこと言うのはおたくだけだよ」、「出すほどのものじゃないよ」、「お恥ずかしい内容なので勘弁してください」……等と言って煙に巻かれてしまうケースが多いのではないでしょうか」（https://note.com/s_o_0517/n/n51e06bbe1aed）
   - 「決算公告ニュース:9/7〜9/13は社債権者集会の規律解説、官報決算公告の実例2件、上場企業の決算期変更など会社法関連の話題が目立ちました」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -6720,11 +6737,6 @@
   - 「官報に掲載される決算公告は、貸借対照表の「要旨」であるケースがほとんどです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「官報の決算公告は貸借対照表の要旨が中心であり、売上高や営業利益といった業績情報が含まれないケースがほとんどです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「分割公告と決算公告の同時掲載が必要なケース、費用・スケジュール・電子公告への切替まで」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「したがって、多くの中小企業の官報公告には貸借対照表の要旨のみが掲載されており、純資産の部・資産合計・負債合計などの主要な数値は把握できますが、売上高や利益などの損益情報は含まれていないケースがほとんどです」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「3月決算の企業であれば6〜8月、12月決算であれば翌年3〜4月頃に掲載されているケースが多いです」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「法務省の研究では、株式会社全体の7割以上が決算公告を未実施とも言われています（義務違反に対する過料の実例は少なく、抑止力が弱いことが背景にあります）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「なお、電子公告の公告期間が終了した後は、各社サイトから削除されているケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「ただし前述のとおり、実際に決算公告を行っていない中小企業が多く、見つからないケースも珍しくありません」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
 - 検索結果の抜粋：
   - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026... — Jun 25, 2026 · 最終更新: 2026-06-25 取引先や競合企業の財務状況を確認したいとき、「官報に載っている決算公告はどうやって見ればいいのか」と困った経験はないでしょうか。株式会社は会社法440条により決算公告が義務付けられており、多くの企業が官報を公告媒体として選択しています。しかし、いざ ...」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026... — Jun 25, 2026 · 決算公告を官報で閲覧する5つの方法を徹底解説。インターネット版官報・官報検索サービス・官報決算データベースの使い方と2025年電子化の影響を比較表付きで紹介。」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -13083,11 +13095,11 @@
 
 ## AIで作った業界分析・訂正の窓口の無い記事の見分け方と扱い（生成物を一次で取り直す）（how to identify AI-generated research reports and handle sources without corrections policy）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ20頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
-- 実例：記載なし（読んだ20頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 非回答バイアスの分析の実務（名簿の変数で答えた先と答えない先を比べる・業種別の回収率・重み付けの有無・事業所調査）（nonresponse bias analysis business survey frame variables response rate by industry）
 - 文脈：突き合わせ

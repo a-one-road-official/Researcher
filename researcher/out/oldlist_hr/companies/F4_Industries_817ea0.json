@@ -1,0 +1,525 @@
+{
+ "name": "F4 Industries",
+ "aliases": [],
+ "context": "旧営業リスト｜Manufacturing Engineering / CAD-CAM｜送付済み",
+ "researched_at": "2026-11-11T04:17:33.159386+00:00",
+ "official_url": "https://f4.dev/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "GD&T errors should never delay your projects. F4 catches them before you release your designs.",
+    "url": "https://f4.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Drag and drop PDF and STEP files directly into F4 — processed locally, never uploaded.",
+    "url": "https://f4.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "project_file.f4",
+    "url": "https://f4.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Share project files with teammates to communicate design intent.",
+    "url": "https://f4.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Compare F4 Review, F4 Pro, and F4 Enterprise capabilities.",
+    "url": "https://f4.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "F4 Pro",
+    "url": "https://f4.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "For single users looking to maximize their productivity.",
+    "url": "https://f4.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "F4 Enterprise",
+    "url": "https://f4.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "For teams that want to perfect their drawing review process.",
+    "url": "https://f4.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated Technical Support & Training",
+    "url": "https://f4.dev/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "F4 plugs back into your design and manufacturing workflows. Generate redlined drawings, along with exports for every downstream workflow.",
+    "url": "https://f4.dev/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "F4 Industries , Inc. - LinkedIn — F4 Industries , Inc. - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/f4-industries",
+    "pass": 3
+   },
+   {
+    "quote": "F4 Industries automates engineering drawing compliance ... — F4 Industries automates engineering drawing compliance ... LinkedIn https://www.linkedin.com > posts > y-combinator_f4-indu...",
+    "url": "https://www.linkedin.com/posts/y-combinator_f4-industries-yc-s25-automates-compliance-activity-7363676165527515137-BHEA",
+    "pass": 3
+   },
+   {
+    "quote": "F4 Industries | GD&T Analysis Software for Engineering ... — F4 Industries | GD&T Analysis Software for Engineering ... F4 Industries https://f4.dev",
+    "url": "https://f4.dev/",
+    "pass": 3
+   },
+   {
+    "quote": "F4 Industries - 2026 Company Profile & Team - Tracxn — F4 Industries - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/f4-industries/__IxONqmQbsk7nFw6jPYnbL4XVzSNgsub8ZPC7Ql0MW-8",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "F4 Industries , Inc. - LinkedIn F4 Industries , Inc. - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/f4-industries",
+    "pass": 3
+   },
+   {
+    "quote": "F4 Industries automates engineering drawing compliance ... F4 Industries automates engineering drawing compliance ... LinkedIn https://www.linkedin.com > posts > y-combinator_f4-indu...",
+    "url": "https://www.linkedin.com/posts/y-combinator_f4-industries-yc-s25-automates-compliance-activity-7363676165527515137-BHEA",
+    "pass": 3
+   },
+   {
+    "quote": "GD&T Analysis Platform for Engineering Drawings | F4 ... GD&T Analysis Platform for Engineering Drawings | F4 ... LinkedIn https://www.linkedin.com > posts > f4-industries_engineer...",
+    "url": "https://www.linkedin.com/posts/f4-industries_engineering-mechanical-manufacturing-activity-7442623856139395072-5whH",
+    "pass": 3
+   },
+   {
+    "quote": "Paul Shin (GDTP) - F4 Industries , Inc. - LinkedIn Paul Shin (GDTP) - F4 Industries , Inc. - LinkedIn LinkedIn https://www.linkedin.com > paul-hyo...",
+    "url": "https://www.linkedin.com/in/paul-hyoungsang-shin",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "F4 Industries LLC. (@f4industriesllc) - Facebook F4 Industries LLC. (@f4industriesllc) - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/f4industriesllc/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://f4.dev/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webcg.net/articles/-/54501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fiaf4.jp/about/machine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://validate.perfdrive.com/?ssa=3debf958-b00c-4b61-b810-adff395cd134&ssb=52011255116&ssc=https%3A%2F%2Fwww.borderstates.com%2F&ssi=ce1e5f06-c4tv-46c3-86e2-0b81f74233a8&ssk=support@shieldsquare.com&ssm=51085122595280286102950256369589&ssn=b8494f954c8da7519f2cb66a325f1923b3c5aa968491-0470-40a9-a4b69d&sso=8a925d76-8f06c4cb1657bd888e27ef2232306e9d6a203fff546de7e8&ssp=14270932421794325646179437077070159&ssq=33548877067645312175670676020395914353798&ssr=NTIuMTg5LjEwOS45OA==&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/126.0%20Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2ZjMDAwODI2MjI0MzUtNGExNC00YTA0LWI4ZjItMzM5MzA2NTBkYzkyMS0xNzk0MzcwNjc2MDMzMC0wMGQxOTYzNmNkZDgyZGM3OTg1MTAiLCJfX3V6bWYiOiI3ZjkwMDBhYTk2ODQ5MS0wNDcwLTQwYTktYWQ3Ni04ZjA2YzRjYjE2NTcxLTE3OTQzNzA2NzYwMzMwLTAwNTk3YTg3ZGMwMmQ1NmE4ZTYxMCIsInJkIjoiYm9yZGVyc3RhdGVzLmNvbSJ9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findex.co.jp/agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.altium.com/jp/p/authorized-vs-unauthorized-distributors-electronic-components-supply-chain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/f4-industries",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_f4-industries-yc-s25-automates-compliance-activity-7363676165527515137-BHEA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.racecar-engineering.com/articles/formula-4-the-future-of-motorsport-engineering/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vIVNGe1Q7sD9fBGTn8lbp5R0ABe4CFgJ7uWRZNweBEa6WZD4h35",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factbird.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sellful.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/f4-industries",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/f4-industries/__IxONqmQbsk7nFw6jPYnbL4XVzSNgsub8ZPC7Ql0MW-8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://f4.fund/investors/manufacturing/pre-seed",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openvc.app/fund/F4%20Fund",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/f4-industries",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_f4-industries-yc-s25-automates-compliance-activity-7363676165527515137-BHEA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/f4-industries_engineering-mechanical-manufacturing-activity-7442623856139395072-5whH",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/paul-hyoungsang-shin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/f4industriesllc/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "F4 Industries 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.stellantis.jp/",
+    "https://www.webcg.net/articles/-/54501",
+    "https://fiaf4.jp/about/machine/",
+    "https://www.instagram.com/reel/DfTb76WgVjx/",
+    "https://response.jp/article/2026/11/07/418712.html",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=160111/",
+    "https://ja.wikipedia.org/wiki/FIA-F4選手権",
+    "https://ja.wikipedia.org/wiki/F-4_(戦闘機)"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "F4 Industries 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.borderstates.com/",
+    "https://findex.co.jp/agency/",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://resources.altium.com/jp/p/authorized-vs-unauthorized-distributors-electronic-components-supply-chain",
+    "https://www.f-4.co.jp/",
+    "https://www.brother.co.jp/",
+    "https://www.famictech.com/ja/%E4%BC%9A%E7%A4%BE/%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%BE%E3%81%9F%E3%81%AF%E5%86%8D%E8%B2%A9%E6%A5%AD%E8%80%85",
+    "https://www.proface.com/ja/support/distributor",
+    "https://www.bgent.net/plus/article/5917",
+    "https://www.indexpro.co.jp/distributor/search-distributor"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "F4 Industries Japan",
+   "results": [
+    "https://www.linkedin.com/company/f4-industries",
+    "https://www.linkedin.com/posts/y-combinator_f4-industries-yc-s25-automates-compliance-activity-7363676165527515137-BHEA",
+    "https://www.racecar-engineering.com/articles/formula-4-the-future-of-motorsport-engineering/",
+    "https://f4.dev/",
+    "https://en.wikipedia.org/wiki/2017_F4_Japanese_Championship",
+    "https://feederseries.net/2026/05/01/japanese-f4-2026-season-guide/",
+    "https://www.f4-group.com/",
+    "https://www.racers-behindthehelmet.com/post/japanese-f4-ai-miura-takes-season-best-result-amidst-chaos-at-fuji",
+    "https://www.linkedin.com/in/paul-hyoungsang-shin",
+    "https://en.wikipedia.org/wiki/F4_Japanese_Championship"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "F4 Industries manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vIVNGe1Q7sD9fBGTn8lbp5R0ABe4CFgJ7uWRZNweBEa6WZD4h35",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "https://www.factbird.com/resources/case-studies",
+    "https://www.infor.com/customer-stories",
+    "https://www.linkedin.com/posts/f4-industries_engineering-mechanical-manufacturing-activity-7442623856139395072-5whH",
+    "https://www.stratasys.com/en/resources/case-studies/",
+    "https://www.rit.edu/advancedmanufacturing/industry40/course/industry-40-case-studies-curated",
+    "https://f.hubspotusercontent10.net/hubfs/19606064/provider-resources/b683c1026114948bd045ac5200ee84bf/Case-Study-Industry-4.0.pdf",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "F4 Industries white label OR reseller OR partner program",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://sellful.com/",
+    "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "https://getquantic.com/become-white-label-software-reseller/",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "F4 Industries founded funding employees revenue",
+   "results": [
+    "https://www.linkedin.com/company/f4-industries",
+    "https://tracxn.com/d/companies/f4-industries/__IxONqmQbsk7nFw6jPYnbL4XVzSNgsub8ZPC7Ql0MW-8",
+    "https://f4.fund/investors/manufacturing/pre-seed",
+    "https://www.openvc.app/fund/F4%20Fund",
+    "https://fi.co/benchmarks",
+    "https://www.lightercapital.com/blogs/categories/industry-trends",
+    "https://bullfincher.io/",
+    "https://www.revenue.io/revenue-investors",
+    "https://www.appliedintuition.com/press-releases/series-f",
+    "https://pitchbook.com/profiles/company/897292-09"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com F4 Industries",
+   "results": [
+    "https://note.com/yamaneko_karen/n/na9b668206678?hl=en",
+    "https://note.com/momiji_man_10/n/n4dc1cd9989d1?hl=en",
+    "https://note.com/samodashi/n/n41a6d440722b?hl=en",
+    "https://note.com/remakevoice1124/n/ne7d55c833fab?hl=en",
+    "https://note.com/f4samurai/n/nafdd4a82b69e?hl=en",
+    "https://note.com/2378tcdf/n/n231b4f5aa87b?hl=en",
+    "https://note.com/photolife1961/n/nec057f101d29?hl=en",
+    "https://note.com/funabashi_denshi/n/n13238782c353?hl=en",
+    "https://note.com/kumazawacotalow/n/n0f104cd27cfb?hl=en"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com F4 Industries",
+   "results": [
+    "https://x.com/CD_Discovery/status/1976481260290920665",
+    "https://x.com/adafruit/status/2092632695859798290",
+    "https://x.com/anduriltech/status/1991229412071661719",
+    "https://x.com/NickKrasz_Wx/status/1985732185832243490",
+    "https://x.com/BritishF4/status/2118689871061504057",
+    "https://x.com/feeder_series/status/2119790553051365704",
+    "https://x.com/FerriesInfo",
+    "https://x.com/feeder_series/status/2119790049344844142",
+    "https://x.com/idrwalerts/status/2036766894372581746",
+    "https://x.com/F4_Industries/status/2042288517045502025"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com F4 Industries",
+   "results": [
+    "https://www.linkedin.com/company/f4-industries",
+    "https://www.linkedin.com/posts/y-combinator_f4-industries-yc-s25-automates-compliance-activity-7363676165527515137-BHEA",
+    "https://www.linkedin.com/posts/f4-industries_engineering-mechanical-manufacturing-activity-7442623856139395072-5whH",
+    "https://www.linkedin.com/in/paul-hyoungsang-shin",
+    "https://www.linkedin.com/in/aidan-cantu",
+    "https://www.linkedin.com/in/mehrzad-gandhi",
+    "https://in.linkedin.com/company/f4eng",
+    "https://www.linkedin.com/in/mendoza-rebeca",
+    "https://www.linkedin.com/company/f4-co",
+    "https://www.linkedin.com/in/fred-oliphant-iv-69796328"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:facebook.com F4 Industries",
+   "results": [
+    "https://www.facebook.com/f4industriesllc/",
+    "https://www.facebook.com/cascadeareachamber/posts/we-would-like-to-welcome-our-newest-member-f4-industries-llc-located-at-957-pat-/1229457950529174/",
+    "https://www.facebook.com/100081903215017/posts/-full-historical-analysis-on-the-2002-f4-van-wert-tornado-posted-815-pm-tuesday-/1142872481786182/",
+    "https://www.facebook.com/100071493923906/posts/jack-f4-industrial-sewing-machine-with-heavy-duty-standsewingmachine-jacksewingm/1121803883546065/",
+    "https://www.facebook.com/61578398145469/videos/1660133382179030/",
+    "https://www.facebook.com/connie.chai.586785/posts/din-f4-standard-di-resilient-gate-valveheavy-typeepoxy-painting-whatsappzalowech/1095481993098565/",
+    "https://www.facebook.com/Hikrobot/videos/the-f4-series-of-forklift-mobile-robots-fmr-from-hikrobot-is-engineered-for-maxi/682253734488019/",
+    "https://www.facebook.com/CTOneSource/videos/meet-the-tornado-f4-eco-lite-hydrovac-built-for-long-haul-efficiency-optimized-f/2260706844458034/",
+    "https://www.facebook.com/FelderGroupUK/videos/f4-integrate/452806422576668/",
+    "https://www.facebook.com/4Bindustries/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "F4 Industries note 社長",
+   "results": [
+    "https://note.com/f4samurai/all",
+    "https://note.com/tag/F4",
+    "https://f4.dev/cookies-policy",
+    "https://www.stamford-avk.com/sites/stamfordavk/files/ES10456661-S7L1D-F4_S7L1W-F4-B-W26.pdf",
+    "https://ustr.gov/sites/default/files/Section%20301%20Modifications%20Determination%20FRN%20(Sept%2012%202024)%20(FINAL).pdf",
+    "https://note.com/tag/F4%E3%82%AD%E3%83%BC",
+    "https://www.ic.ohio.gov/about-ic/resource-library/resource-pdfs/adjudications-before-oic.pdf",
+    "https://kkfits.jp/blog.html",
+    "https://www.linkedin.com/company/f4-industries/",
+    "https://pitchbook.com/profiles/company/897292-09"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "F4 Industries X 投稿",
+   "results": [
+    "https://x.com/F4reefver",
+    "https://www.youtube.com/watch?v=DNE7tWuBqko",
+    "https://f4.dev/on-device-solution",
+    "https://www.f4-group.com/en/about.html",
+    "https://openindustry4.com/factory-x-oi4-implementation/",
+    "https://support.ultimaker.com/s/topic/0TO5b000000UIlCGAW/f4-troubleshooting",
+    "https://www.plattform-i40.de/IP/Navigation/EN/Manufacturing-X/Manufacturing-X-Guidance-Board/manufacturing-x-guidance-board-e.html",
+    "https://www.youtube.com/@fia-f4japanese614",
+    "https://fiaf4.jp/",
+    "https://x.com/F4_Industries/status/2042288517045502025"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

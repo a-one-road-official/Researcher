@@ -1,0 +1,930 @@
+{
+ "name": "CEAD",
+ "aliases": [],
+ "context": "旧営業リスト｜AM / Additive Manufacturing｜返信あり",
+ "researched_at": "2026-11-11T04:16:01.905547+00:00",
+ "official_url": "https://ceadgroup.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "productservice@ceadgroup.com",
+    "url": "https://knowledge.ceadgroup.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "productservice@ceadgroup.com",
+    "url": "https://knowledge.ceadgroup.com/ja/%E5%95%86%E6%A5%AD%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "実際の海洋環境で実証されたHDPro素材の耐久性",
+    "url": "https://hdc3d.com/ja/portfolio-item/cead%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1%EF%BC%9A%E6%B5%B7%E4%BA%8B%E7%94%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E6%88%A6%E7%95%A5%E7%9A%84%E3%81%AA%E6%AC%A1%E3%81%AE%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "CEAD : NEWS Damen and Cead Join Forces to Develop 3D Printed HDPE Workboat",
+    "url": "https://hdc3d.com/ja/portfolio-item/cead%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1%EF%BC%9A%E6%B5%B7%E4%BA%8B%E7%94%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E6%88%A6%E7%95%A5%E7%9A%84%E3%81%AA%E6%AC%A1%E3%81%AE%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "Software Product Development",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Design Process Automation",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "New Product Development",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "The R & D Centre constantly strives to produce new technologies and new products, staying in close contact with developments in the auto industry. The R&D Centre is accredited by the department of science & technology, Government of India.",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "IFB Automotive’s product development and design team consists of some of the most experienced and visionary professionals in the country to meet the rapidly growing demands from automobile manufacturers as well as end users for greater safety, reliability and higher cost-effectiveness.",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Once the geometry is changed then revalidation of the design using CAE tools has to be done. This process is iterative. IFB was looking for dynamic update of hand calculations on change in geometry and synthesis of mechanism. Even though IFB had the right methodology, lack of appropriate tools led to increase in numbers of iterations and hence lead time.",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "R & D seating division of IFB came up with a problem statement which required synthesis of geometry with ¯change in magnitude, direction and point of application of force. Challenge was to define optimum geometry of teeth for engagement and transfer of torque with out slippage. Geometry is governed by many independent parameters like teeth angle, teeth position, point of application of force etc.",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "This procedure requires a lot of calculations related to forces and moments for every change in geometry of teeth.",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Conventional Approach",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "IFB engineers tried to solve the problem with CEAD. As CEAD provides a combination of geometry, constraints and equations, it was very simple to set up the design problem in CEAD compared to the conventional approach.",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "CEAD supports vector calculations which allowed IFB engineers to perform force and moment calculations by defining forces using vectors graphically and writing equations for force and moment equilibrium conditions. This reduced the effort of the engineers by eliminating the need to do Excel calculations at each contact point, which is a rigorous and tedious process.",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "They imported the teeth profile using DXF import. Then did the force calculations for normal force, resultant force, etc. Calculating the forces at each angle was eliminated because giving the equation of equilibrium resolves the forces.",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "This process in CEAD took only a day’s effort",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Another major advantage is moments and vectors are defined and are controlled with equilibrium equations. So if the force conditions like angle changes, changing that angle in CEAD will give the resultant data within a minute. In the conventional approach it would have taken a week’s time again.",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "IFB was able to reduce the design time by reducing the number of iterations. Once the geometry, equations and parameters are defined in CEAD, then time required for updating is considerably reduced. Design changes can be easily incorporated using CEAD without the need to follow the whole procedure again.",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "A leading provider of digital transformation and smart product engineering services for Medical Devices, Transportation, and other industries.",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Terex Case Study: Accelerating Product Development with CEAD Engineering Software",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/terex-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Software Product Development",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/terex-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Design Process Automation",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/terex-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "New Product Development",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/terex-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Terex leverages CADVision’s CEAD Tool to improve product development efficiency while reducing design iterations",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/terex-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "One of the critical tasks set out for TIRC was to create designs from scratch of theentire workgroup assembly within a span of three months. Workgroup consists of boom, dipper, bucketand related links that are primarily used to dig earth (see image)",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/terex-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Terex India R&D Center (TIRC) Approach",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/terex-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Keeping all of the above in mind, TIRC began a grounds-up approach to developing the workgroup geometry for the machine using a new software tool called CEAD (rhyming with ‘seed’). CEAD is an integrated product design environment enabling parametric geometry creation and mathematical calculation in the same worksheet.",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/terex-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Key to Terex India R&D Center (TIRC) approach lay in",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/terex-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Defining positions, range dimensions, working clearances, forces, cylinder pressures, section moduli as variables that drive the geometry and vice-versa through mathematical functions.",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/terex-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "This process and tool innovation at the engineering R&D level has resulted in a more efficient product development methodology, which has resulted in three critical business impacts for Terex:",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/terex-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Higher product quality due to a more integrated and better engineered design.",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/terex-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Reduction in cost due to significantly shortened and more streamlined product development cycle.",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/terex-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Better internal design delivery to stakeholders downstream of product development process due to the tool architecture for product optimization.",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/terex-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "In summary, the combination of TIRC’s innovations in process methodology and CEAD integration into the design flow has resulted in tighter integration and better value, resulting in faster, higher quality and effective response to fast changing market needs.",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/terex-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "A leading provider of digital transformation and smart product engineering services for Medical Devices, Transportation, and other industries.",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/terex-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Mechanical, Maintenance, Project Management, Structural, Construction, Engineering And Design, Industrial Sales, Electrical And Instrumentation, Manpower Supply, Oilfield Services, Tank Building, Fabrication And Installation Of Piping, Oil&Gas Recruitment Solutions",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "CEAD N.V. is your EPC partner in Industrial Solutions. This group of companies, based in Suriname, South America, has over 30 years of experience providing solutions for the Energy, Mining, Water, Oil and gas, and (petro) Chemical industries with their Engineering, Manpower, Construction, and facility Management subsidiaries.",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "The professional team of the CEAD group is experts in:",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "• Oil & Gas recruitment for companies working in the industry with technical areas such as general construction and revision, tank construction and revision, and pipeline construction.",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "• Development, construction, and management of mechanical, civil, and electrical projects.",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "• Sales of various industrial products such as industrial chemicals, piping, fittings, and process management products.",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Operational excellence, guaranteed quality, overall occupational health & safety, and on-time delivery of projects are core values of CEAD, guaranteed by the international standards of our ISO9001-2015 and ISO45001-2018 certification.",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "CEAD has approximately",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "CEAD最新情報：海事用3Dプリントの戦略的な次のステップ - Additive Manufacturing",
+    "url": "https://hdc3d.com/ja/portfolio-item/cead%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1%EF%BC%9A%E6%B5%B7%E4%BA%8B%E7%94%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E6%88%A6%E7%95%A5%E7%9A%84%E3%81%AA%E6%AC%A1%E3%81%AE%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "大型積層造形（Large-Format Additive Manufacturing）による生産モデルの再定義：CEADとComauが製造業を変革する方法",
+    "url": "https://hdc3d.com/ja/portfolio-item/cead%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1%EF%BC%9A%E6%B5%B7%E4%BA%8B%E7%94%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E6%88%A6%E7%95%A5%E7%9A%84%E3%81%AA%E6%AC%A1%E3%81%AE%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "IFB Automotive Case Study: Streamlining Design with CEAD Engineering Software",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "IFB Automotive Customer Success Case Study",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "IFB Automotive finds results from CEAD very close to those obtained from ADAMS and FEA.",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "IFB Automotive’s product development and design team consists of some of the most experienced and visionary professionals in the country to meet the rapidly growing demands from automobile manufacturers as well as end users for greater safety, reliability and higher cost-effectiveness.",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Software for Custom Implants",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Terex Case Study: Accelerating Product Development with CEAD Engineering Software",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/terex-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "IFB Automotive Customer Success Case Study",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/terex-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "As depicted in Figure 1, CEAD enables concurrent inter-play of mathematically definable facets of the design, be it manufacturing constraint, functional target or performance parameter, from any domain of physics in the synthesis of geometry.",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/terex-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Concurrent definition of all positions of the workgroup, manufacturing constraints, force calculations and working clearances in a single CEAD work sheet.",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/terex-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Software for Custom Implants",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/terex-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Mechanical, Maintenance, Project Management, Structural, Construction, Engineering And Design, Industrial Sales, Electrical And Instrumentation, Manpower Supply, Oilfield Services, Tank Building, Fabrication And Installation Of Piping, Oil&Gas Recruitment Solutions",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "CEAD N.V. is your EPC partner in Industrial Solutions. This group of companies, based in Suriname, South America, has over 30 years of experience providing solutions for the Energy, Mining, Water, Oil and gas, and (petro) Chemical industries with their Engineering, Manpower, Construction, and facility Management subsidiaries.",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "• Sales of various industrial products such as industrial chemicals, piping, fittings, and process management products.",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "SALES@HDC3D.COM",
+    "url": "https://hdc3d.com/ja/portfolio-item/cead%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1%EF%BC%9A%E6%B5%B7%E4%BA%8B%E7%94%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E6%88%A6%E7%95%A5%E7%9A%84%E3%81%AA%E6%AC%A1%E3%81%AE%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "sales@hdc3d.com",
+    "url": "https://hdc3d.com/ja/portfolio-item/cead%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1%EF%BC%9A%E6%B5%B7%E4%BA%8B%E7%94%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E6%88%A6%E7%95%A5%E7%9A%84%E3%81%AA%E6%AC%A1%E3%81%AE%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "CEAD ナレッジベース — CEADナレッジベースは、大規模3Dプリンティングおよびロボット技術に関する情報を提供します。",
+    "url": "https://knowledge.ceadgroup.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "CEAD B.V. | Large Format 3D Printers | Robot & Gantry Systems — CEAD develops and manufactures large format 3D printers. We help our customers with a successful implementation of large scale 3D printing.",
+    "url": "https://ceadgroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "商業情報 | CEAD ナレッジベース — Dec 1, 2022 · CEADナレッジベース：複数言語で利用可能 一般利用規約 バージョン 2022-12-01 このナレッジベースの保護されたコンテンツにアクセスするためのアカウントを作成するにはどうすればよいですか？ CEADペレット押出機の3Dモデルはどこでダウンロードできますか？",
+    "url": "https://knowledge.ceadgroup.com/ja/商業情報",
+    "pass": 3
+   },
+   {
+    "quote": "CEAD最新情報：海事用3Dプリントの戦略的な次のステップ - Additive M... — 過去1年間、CEADはMaritime Application Center（MAC）を通じて、作業船やUSVなどの要求の厳しい海上用途向けに、完全な船体の大判3Dプリントの開発に成功してきた。",
+    "url": "https://hdc3d.com/ja/portfolio-item/cead最新情報：海事用3dプリントの戦略的な次のステ/",
+    "pass": 3
+   },
+   {
+    "quote": "Stack3D、CEADハイブリッドFlexbotを統合し、高度な大規模3Dプリント... — 「Stack3D社は、カスタム・デジタル製造ソリューションへのLFAM導入を推進するリーダーになるつもりです。 「CEADのFlexbotシステムを採用することで、当社はLFAM技術のリーダーとしての地位を確立することができます。",
+    "url": "https://hdc3d.com/ja/portfolio-item/stack3d、ceadハイブリッドflexbotを統合し、高度な大規模3dプリ/",
+    "pass": 3
+   },
+   {
+    "quote": "CEAD Group | LinkedIn — CEAD Group | LinkedInのフォロワー数20,271人。Innovative large-scale 3D printers, built on a foundation of partnership and customer commitment. | Welcome to CEAD, a technology company that is changing the game in large-scale 3D printing. Our company builds 3D printers and stand-alone equipment for small to very large applications, including pellet extruders in various sizes. Our valu",
+    "url": "https://jp.linkedin.com/company/ceadgroup",
+    "pass": 3
+   },
+   {
+    "quote": "CEAD Group Inc. - LinkedIn — CEAD Group Inc. Industrial Machinery Manufacturing Detroit, Michigan 1,007 followers Innovative large-scale 3D printers in America, built on a foundation of partnership and customer commitment.",
+    "url": "https://www.linkedin.com/company/cead-group-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Portfolio Archive - CEAD | Large Scale Additive Manufacturing — Robot Pellet Extruders Gantry Based Solutions Product Service Customer Success CEADGroup.com About Us Case studies",
+    "url": "https://ceadgroup.com/resources/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Transforming retail-display manufacturing with Large Format ... — Start producing with large format additive manufacturing Contact CEAD’s large format additive manufacturing specialists to validate your business case.",
+    "url": "https://ceadgroup.com/resources/case-studies/retail-display-manufacturing-with-large-format-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "IFB Automotive Case Study: Streamlining Design with CEAD ... — Discover how IFB Automotive optimized its design process using CEAD (Conceptual Engineering and Analysis based Design) software. Learn how CEAD's advanced capabilities reduced design iterations, improved force calculations, and delivered results comparable to ADAMS and FEA analysis",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Terex Case Study: Accelerating Product Development with CEAD ... — Terex Corporation is a diversified global manufacturer of a broad range of equipment that is focused on delivering reliable, customer driven solutions for many applications, including the construction, infrastructure, quarrying, mining, shipping, transportation, refining, energy, utility and manufacturing industries.",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/terex-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "CEAD - Client Project Case studies — Case studies from CEAD projects for a wide range of industries and products.",
+    "url": "https://www.ceadltd.co.uk/category/casestudy/",
+    "pass": 3
+   },
+   {
+    "quote": "CEAD 2026 Company Profile: Valuation, Funding & Investors ... — Information on valuation, funding, cap tables, investors, and executives for CEAD. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/472402-90",
+    "pass": 3
+   },
+   {
+    "quote": "CEAD - 2026 Company Profile, Team, Funding & Competitors - TracxnCEAD Group – Company Profile & Market Insights – 2026CEAD Revenue, Funding & Valuation - prospeo.ioCEAD Group - Crunchbase Company Profile & FundingCEAd ( Construction and Engineering) 2026 Company Profile ...CEAD - Products, Competitors, Financials, Employees ... — Mar 12, 2026 · CEAD is a funded company based in Delft (Netherlands)",
+    "url": "https://tracxn.com/d/companies/cead/__oO7cMKlAD6sHTy0m9Vw8PlHy4vzgL2vft46ZL3S28ro",
+    "pass": 3
+   },
+   {
+    "quote": "CEAD Group – Company Profile & Market Insights – 2026 — Discover CEAD Group's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/cead-group",
+    "pass": 3
+   },
+   {
+    "quote": "CEAD Revenue, Funding & Valuation - prospeo.io — CEAD has revenue of $2,309,985, estimated valuation of $7,400,000. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "CEAD Group - Crunchbase Company Profile & FundingCEAd ( Construction and Engineering) 2026 Company Profile ...CEAD - Products, Competitors, Financials, Employees ... — CEAD is a technology supplier on the frontier of composite additive manufacturing. Information on acquisition, funding, investors, and executives for CEAd ( Construction and Engineering). Use the PitchBook Platform to explore the fu",
+    "url": "https://www.crunchbase.com/organization/cead-group",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Customer list of IFB consists of all leading OEM’s and Tier 1 suppliers. Some of them are, Maruti Udyog Limited, Mahindra & Mahindra, Ford, Hyundai, Tata Motors, General Motors, Honda, Toyota, Fiat, etc.",
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "CEAD Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At CEAD",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of CEAD?",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "CEAD generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does CEAD have?",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/cead-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "CEAD (@ceadhn) / Posts / X CEAD (@ceadhn) - Posts - Cuenta oficial del Centro Evangelístico. Iglesia dirigida por la pastora @pjackimontoya bajo el l... | X (formerly Twitter)",
+    "url": "https://x.com/ceadhn",
+    "pass": 3
+   },
+   {
+    "quote": "CEAD - ONA (@CEAD_ONA) / Posts / X CEAD - ONA (@CEAD_ONA) - Posts - Oficina Nacional Antidrogas - Dirección General de Análisis Estrategico y Estudios Avanzados sobre D... | X (formerly Twitter)",
+    "url": "https://x.com/CEAD_ONA",
+    "pass": 3
+   },
+   {
+    "quote": "CEAD (@CEAD_Oficial) / Posts / X CEAD (@CEAD_Oficial) - Posts - Cuenta oficial del Centro de estudiantes de la Facultad de Arquitectura y Diseño de LUZ #CEADInfor... | X (formerly Twitter)",
+    "url": "https://x.com/CEAD_Oficial",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "CEAD Group - LinkedIn CEAD Group Industrial Machinery Manufacturing Delft, Zuid-Holland 20,302 followers Innovative large-scale 3D printers, built on a foundation of partnership and customer commitment.",
+    "url": "https://www.linkedin.com/company/ceadgroup",
+    "pass": 3
+   },
+   {
+    "quote": "CEAD N.V. - LinkedIn CEAD N.V. is your EPC partner in Industrial Solutions. This group of companies, based in Suriname, South America, has over 30 years of experience providing solutions for the Energy, Mining, Water, Oil and gas, and (petro) Chemical industries with their Engineering, Manpower, Construction, and facility Management subsidiaries. The professional team of the CEAD group is experts ",
+    "url": "https://sr.linkedin.com/company/cead-nv",
+    "pass": 3
+   },
+   {
+    "quote": "CEAD solidifies U.S. presence with new Michigan location ... Precise, flexible, & leveraging cutting-edge robotics—the Netherlands has one of the most advanced additive manufacturing sectors in the world. So we're excited to welcome one of those Dutch 3D ...",
+    "url": "https://www.linkedin.com/posts/nlinchicago_cead-solidifies-us-presence-with-new-michigan-activity-7135347341112328192-u-xl",
+    "pass": 3
+   },
+   {
+    "quote": "CEAD Group Inc. | LinkedIn CEAD Group Inc. | 1006 seguidores en LinkedIn. Innovative large-scale 3D printers in America, built on a foundation of partnership and customer commitment. | Welcome to CEAD, a technology company that is changing the game in large-scale 3D printing. Our company builds 3D printers and stand-alone equipment for small to very large applications, including pellet extruders i",
+    "url": "https://pe.linkedin.com/company/cead-group-inc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "CEAD N.V. | Paramaribo - FacebookCEAD Cambiando Vidas | Tegucigalpa - FacebookIrish Citizenship Consultants | Chicago IL - FacebookCEAD,muet,Jamshoro - FacebookCentre des auteurs dramatiques | Montreal QC - FacebookBenilde Center for Education Advancement of the DeafCEAD Ministerio Infantil | Tegucigalpa - Facebook Oct 22, 2026 · CEAD N.V. is proud to exhibit at the SEOGS Summit & Exhibition 2026!",
+    "url": "https://www.facebook.com/ceadnv/",
+    "pass": 3
+   },
+   {
+    "quote": "CEAD Cambiando Vidas | Tegucigalpa - FacebookIrish Citizenship Consultants | Chicago IL - FacebookCEAD,muet,Jamshoro - FacebookCentre des auteurs dramatiques | Montreal QC - FacebookBenilde Center for Education Advancement of the DeafCEAD Ministerio Infantil | Tegucigalpa - Facebook CEAD Cambiando Vidas, Tegucigalpa. 43,398 followers · 1,450 talking about this · 205 were here. CEAD (Centro Evangel",
+    "url": "https://www.facebook.com/ceadcambiandovidas/",
+    "pass": 3
+   },
+   {
+    "quote": "Irish Citizenship Consultants | Chicago IL - FacebookCEAD,muet,Jamshoro - FacebookCentre des auteurs dramatiques | Montreal QC - FacebookBenilde Center for Education Advancement of the DeafCEAD Ministerio Infantil | Tegucigalpa - Facebook Oct 23, 2026 · Irish Citizenship Consultants, Chicago. 2,515 followers · 14 talking about this. Cead mile failte to Irish Citizenship Consultants! We are profess",
+    "url": "https://www.facebook.com/irishcitizenshipconsultants/",
+    "pass": 3
+   },
+   {
+    "quote": "CEAD,muet,Jamshoro - FacebookCentre des auteurs dramatiques | Montreal QC - FacebookBenilde Center for Education Advancement of the DeafCEAD Ministerio Infantil | Tegucigalpa - Facebook Nov 6, 2022 · CEAD,muet,Jamshoro. 11,505 likes · 4 talking about this. With the passage of time, the Federal College of Art and Design (FCAD) was converted into the Centre of Excellence in Art & Design (CEAD) vide.",
+    "url": "https://www.facebook.com/Ceadmuet/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ceadgroup.com/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://knowledge.ceadgroup.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://knowledge.ceadgroup.com/ja/%E5%95%86%E6%A5%AD%E6%83%85%E5%A0%B1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/ja/portfolio-item/cead%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1%EF%BC%9A%E6%B5%B7%E4%BA%8B%E7%94%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%AE%E6%88%A6%E7%95%A5%E7%9A%84%E3%81%AA%E6%AC%A1%E3%81%AE%E3%82%B9%E3%83%86/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/CAD_Japan.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://knowledge.ceadgroup.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/ceadgroup",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cadvisionengineers.com/cead/customer-success-story/terex-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.verkada.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/472402-90",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/cead/__oO7cMKlAD6sHTy0m9Vw8PlHy4vzgL2vft46ZL3S28ro",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/cead-group",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/cead-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ceadhn",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CEAD_ONA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CEAD_Oficial",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ceadgroup",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sr.linkedin.com/company/cead-nv",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/nlinchicago_cead-solidifies-us-presence-with-new-michigan-activity-7135347341112328192-u-xl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pe.linkedin.com/company/cead-group-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ceadnv/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ceadcambiandovidas/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/irishcitizenshipconsultants/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Ceadmuet/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "CEAD 日本 導入",
+   "results": [
+    "https://knowledge.ceadgroup.com/ja",
+    "https://ceadgroup.com/",
+    "https://knowledge.ceadgroup.com/ja/商業情報",
+    "https://hdc3d.com/ja/portfolio-item/cead最新情報：海事用3dプリントの戦略的な次のステ/",
+    "https://hdc3d.com/ja/portfolio-item/stack3d、ceadハイブリッドflexbotを統合し、高度な大規模3dプリ/",
+    "https://idarts.co.jp/3dp/cead-mac-one/",
+    "https://36kr.jp/502580/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "CEAD 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://www.kkhashi.com/blogs/detail/145/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "CEAD Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/CAD_Japan.com",
+    "https://ceadgroup.com/",
+    "https://knowledge.ceadgroup.com/ja",
+    "https://jp.linkedin.com/company/ceadgroup",
+    "https://www.linkedin.com/company/cead-group-inc",
+    "https://www.compositeautomation.com/cead-group/",
+    "https://hdc3d.com/ja/cead/",
+    "https://ceadgroup.com/solutions/robot-based-solutions/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "CEAD manufacturing customer case study",
+   "results": [
+    "https://ceadgroup.com/resources/case-studies/",
+    "https://ceadgroup.com/resources/case-studies/retail-display-manufacturing-with-large-format-additive-manufacturing/",
+    "https://cadvisionengineers.com/cead/customer-success-story/ifb-automotive-customer-success-case-study/",
+    "https://cadvisionengineers.com/cead/customer-success-story/terex-case-study/",
+    "https://www.ceadltd.co.uk/category/casestudy/",
+    "https://hdc3d.com/usecasecead/",
+    "https://www.siemens.com/en-us/company/insights/success-stories/haddy-cead-furniture-additive-manufacturing/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "CEAD white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.verkada.com/partners/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://upcloud.com/partner-program/",
+    "https://www.canva.com/partners/reseller/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "CEAD founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/472402-90",
+    "https://tracxn.com/d/companies/cead/__oO7cMKlAD6sHTy0m9Vw8PlHy4vzgL2vft46ZL3S28ro",
+    "https://compworth.com/company/cead-group",
+    "https://prospeo.io/c/cead-revenue",
+    "https://www.crunchbase.com/organization/cead-group",
+    "https://pitchbook.com/profiles/company/458375-23",
+    "https://www.cbinsights.com/company/cead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com CEAD",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/naka_agno0210/n/n10ef8a39cead?hl=en",
+    "https://note.com/seigo77",
+    "https://note.com/wife_xf/n/n7e502c44cead?hl=en",
+    "https://note.com/holopono33/n/n3cead31d09ad",
+    "https://note.com/nigayomogianko/n/n33d55cead7d7?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com CEAD",
+   "results": [
+    "https://x.com/ceadhn",
+    "https://x.com/CEAD_ONA",
+    "https://x.com/",
+    "https://x.com/CEAD_Oficial",
+    "https://x.com/ctorobotics/status/2118818625813725417",
+    "https://x.com/ColeyMick/status/2120136416416202998",
+    "https://x.com/ColeyMick"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com CEAD",
+   "results": [
+    "https://www.linkedin.com/company/ceadgroup",
+    "https://sr.linkedin.com/company/cead-nv",
+    "https://www.linkedin.com/posts/nlinchicago_cead-solidifies-us-presence-with-new-michigan-activity-7135347341112328192-u-xl",
+    "https://pe.linkedin.com/company/cead-group-inc",
+    "https://sr.linkedin.com/in/jurgentjangasjin",
+    "https://nl.linkedin.com/in/andreabaldolini",
+    "https://pk.linkedin.com/school/cead-edu-pk/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com CEAD",
+   "results": [
+    "https://www.facebook.com/ceadnv/",
+    "https://www.facebook.com/ceadcambiandovidas/",
+    "https://www.facebook.com/irishcitizenshipconsultants/",
+    "https://www.facebook.com/Ceadmuet/",
+    "https://www.facebook.com/CEADMTL/",
+    "https://www.facebook.com/CEAD.MinisterioInfantil/",
+    "https://www.facebook.com/benildecead/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "CEAD note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "CEAD X 投稿",
+   "results": [
+    "https://www.wansese2.com/x/index3566_2.html",
+    "https://seesaawiki.jp/w/sougouwiki/d/����֤�ͧ��CEAD��4",
+    "https://knowledge.ceadgroup.com/ja",
+    "https://ceadgroup.com/",
+    "https://github.com/CEADpx/",
+    "https://x.com/kaedefude/status/2118122761566703676",
+    "https://evolvingvillage.com/personal-brand-submit/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

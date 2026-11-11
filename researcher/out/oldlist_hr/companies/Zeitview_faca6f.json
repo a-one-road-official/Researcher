@@ -1,0 +1,1004 @@
+{
+ "name": "Zeitview",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜返信あり",
+ "researched_at": "2026-11-11T04:28:54.846823+00:00",
+ "official_url": "https://www.zeitview.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Capture data with your team, ours, or a combination of both. Zeitview transforms it into prioritized asset intelligence, giving your team a clear view of where to focus and what action to take next.",
+    "url": "https://www.zeitview.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Detailed inspections & actionable insights on Roof, Pavement, Facade, and Landscaping for property inspection and facility management. On-demand drone imagery and video to enhance CRE marketing.",
+    "url": "https://www.zeitview.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how roof inspection data, condition scoring, and repair cost estimates help facility managers prioritize maintenance, optimize budgets, and extend asset life.",
+    "url": "https://www.zeitview.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A look at how Bureau Veritas modernized property assessments with drone-based inspections.",
+    "url": "https://www.zeitview.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Award-winning Zeitview AI improves wind turbine inspections by detecting barely visible blade cracks earlier, reducing failure risk, and enabling more reliable, scalable wind operations.",
+    "url": "https://www.zeitview.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zeitview is an asset intelligence company for energy and critical infrastructure. It combines aerial and robotic data collection, AI-powered analysis, expert review, standardized reporting, and portfolio monitoring to help teams understand asset condition, prioritize issues, and decide what needs attention first.",
+    "url": "https://www.zeitview.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Asset intelligence is structured information about an asset’s location, condition, severity, and inspection history that teams can use to make maintenance and operational decisions. Zeitview turns raw inspection data into prioritized findings, mapped evidence, and portfolio-level visibility so teams can focus on the assets and issues that matter most.",
+    "url": "https://www.zeitview.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zeitview supports asset inspection and monitoring across oil and gas, electric utilities, wind energy, solar energy, and commercial properties. The inspection method and analysis vary by asset type, but the goal is consistent: create a clearer view of asset condition and help teams prioritize maintenance, risk, and capital decisions.",
+    "url": "https://www.zeitview.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Zeitview supports both managed data collection and bring-your-own-data workflows. Organizations can use Zeitview pilots and technicians, capture data with their own teams, or combine both approaches while centralizing inspection results and analysis in a consistent workflow.",
+    "url": "https://www.zeitview.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Zeitview can deliver findings in standardized reports and support workflows that connect inspection results with systems such as GIS, enterprise asset management (EAM), and ERP platforms. This helps move inspection data into the systems teams already use for maintenance planning, asset management, and operational follow-through.",
+    "url": "https://www.zeitview.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How can asset intelligence support preventive or predictive maintenance?",
+    "url": "https://www.zeitview.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Asset intelligence gives teams a more consistent view of asset condition, issue severity, location, and change over time. That information supports preventive and risk-based maintenance by helping teams address higher-priority conditions earlier, while providing condition data that can contribute to broader predictive maintenance and asset lifecycle programs.",
+    "url": "https://www.zeitview.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our advanced inspections are proven to be more cost-efficient than traditional inspection methods, while enabling companies to make better capital allocation decisions.",
+    "url": "https://www.zeitview.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Zeitview makes it easy to scale infrastructure intelligence, as a single partner for advanced inspections across solar, wind, utilities, oil and gas, and commercial properties.",
+    "url": "https://www.zeitview.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Zeitview enables advanced data collection, AI-powered asset health monitoring, unified portfolio visibility, and turnkey operational insights to reduce risk, streamline O&M processes, and make more intelligent capital allocation decisions across your portfolio.",
+    "url": "https://www.zeitview.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Prior to founding DroneBase (now Zeitview), Dan worked as a Special Assistant in the U.S. Senate and worked at Goldman Sachs, analyzing global corporations. Under Burton’s leadership, Zeitview has become the leading global provider of advanced inspections for infrastructure.",
+    "url": "https://www.zeitview.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Headquartered in Santa Monica, CA, Zeitview is home to team members from across the globe who are passionate problem solvers and technical innovators who fuel Zeitview’s commitment to customers with their integrity and focus.",
+    "url": "https://www.zeitview.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "#1 Product of the Day",
+    "url": "https://moge.ai/ja/product/zeitview",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Zeitview speeds AI model development and improves inspection accuracy with CloudFactory | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/cloudfactory/case-study/zeitview-cuts-ai-model-development-by-6-months-with-cloudfactory",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Zeitview speeds AI model development and improves inspection accuracy with CloudFactory",
+    "url": "https://www.casestudies.com/company/cloudfactory/case-study/zeitview-cuts-ai-model-development-by-6-months-with-cloudfactory",
+    "pass": 3
+   },
+   {
+    "quote": "CloudFactory provided a trained workforce and a data annotation platform to accurately label the imagery required for machine learning. This partnership enabled Zeitview to launch its AI models six months faster, avoid over $2 million in potential customer revenue losses from overlooked damage, and deliver critical inspection insights to its customers much more quickly.",
+    "url": "https://www.casestudies.com/company/cloudfactory/case-study/zeitview-cuts-ai-model-development-by-6-months-with-cloudfactory",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview triples service team productivity with Mapsly",
+    "url": "https://www.casestudies.com/customer/zeitview",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview speeds AI model development and improves inspection accuracy with CloudFactory",
+    "url": "https://www.casestudies.com/customer/zeitview",
+    "pass": 3
+   },
+   {
+    "quote": "As FUSen’s solar O&M portfolio grew, its inspection process needed to keep pace. Discover how the team worked with Zeitview to reduce inspection time without adding headcount.",
+    "url": "https://click.zeitview.com/fusen-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The approach behind its time savings",
+    "url": "https://click.zeitview.com/fusen-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of inspection software designed to analyze and help improve asset performance and longevity.",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "2ndary - Private",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "9. Secondary Transaction - Private",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "10-Apr-2019",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of inspection software designed to analyze and help improve asset performance and longevity. The company's sof",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "Private Equity-Backed",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "11-Apr-2025",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "Is Zeitview a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/zeitview.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/zeitview.com",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Oil and gas sites, power lines, buildings, wind turbines, solar plants - the assets differ, but the question is the same: what needs attention first?",
+    "url": "https://www.zeitview.com/",
+    "pass": 1
+   },
+   {
+    "quote": "High-frequency aerial methane detection and asset intelligence for upstream and midstream oil & gas operators.",
+    "url": "https://www.zeitview.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by industry leaders",
+    "url": "https://www.zeitview.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bureau Veritas Case Study",
+    "url": "https://www.zeitview.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Zeitview supports both managed data collection and bring-your-own-data workflows. Organizations can use Zeitview pilots and technicians, capture data with their own teams, or combine both approaches while centralizing inspection results and analysis in a consistent workflow.",
+    "url": "https://www.zeitview.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy and critical infrastructure operators are building the future like the world depends on it. We believe it does.",
+    "url": "https://www.zeitview.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Zeitview speeds AI model development and improves inspection accuracy with CloudFactory | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/cloudfactory/case-study/zeitview-cuts-ai-model-development-by-6-months-with-cloudfactory",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Zeitview speeds AI model development and improves inspection accuracy with CloudFactory",
+    "url": "https://www.casestudies.com/company/cloudfactory/case-study/zeitview-cuts-ai-model-development-by-6-months-with-cloudfactory",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview cuts AI model development by 6 months with CloudFactory",
+    "url": "https://www.casestudies.com/company/cloudfactory/case-study/zeitview-cuts-ai-model-development-by-6-months-with-cloudfactory",
+    "pass": 3
+   },
+   {
+    "quote": "CloudFactory provided a trained workforce and a data annotation platform to accurately label the imagery required for machine learning. This partnership enabled Zeitview to launch its AI models six months faster, avoid over $2 million in potential customer revenue losses from overlooked damage, and deliver critical inspection insights to its customers much more quickly.",
+    "url": "https://www.casestudies.com/company/cloudfactory/case-study/zeitview-cuts-ai-model-development-by-6-months-with-cloudfactory",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/cloudfactory/case-study/zeitview-cuts-ai-model-development-by-6-months-with-cloudfactory",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/cloudfactory/case-study/zeitview-cuts-ai-model-development-by-6-months-with-cloudfactory",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Zeitview",
+    "url": "https://www.casestudies.com/customer/zeitview",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview speeds AI model development and improves inspection accuracy with CloudFactory",
+    "url": "https://www.casestudies.com/customer/zeitview",
+    "pass": 3
+   },
+   {
+    "quote": "Inside the case study:",
+    "url": "https://click.zeitview.com/fusen-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Complete the form to access the FUSen case study.",
+    "url": "https://click.zeitview.com/fusen-case-study",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "エネルギー向け機械学習プラットフォームトップ10： ① 米Zeitview、②諾Cognite、③米Uplight…日本企業も導入か？｜IZM",
+    "url": "https://note.com/izumahiroaki/n/n84cc9b74b8c7",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー向け機械学習プラットフォームトップ10： ① 米Zeitview、②諾Cognite、③米Uplight…日本企業も導入か？",
+    "url": "https://note.com/izumahiroaki/n/n84cc9b74b8c7",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Zeitview | AI-Powered Asset Intelligence & Drone Inspections — Zeitview is an asset intelligence company for energy and critical infrastructure. It combines aerial and robotic data collection, AI-powered analysis, expert review, standardized reporting, and portfolio monitoring to help teams understand asset condition, prioritize issues, and decide what needs attention first.",
+    "url": "https://www.zeitview.com/",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー向け機械学習プラットフォームトップ10： ① 米Zeitview、②... — Jun 15, 2026 · エネルギー向け機械学習プラットフォームトップ10： ① 米Zeitview、②諾Cognite、③米Uplight…日本企業も導入か？",
+    "url": "https://note.com/izumahiroaki/n/n84cc9b74b8c7",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview:世界中の再生可能エネルギー、公共事業、通信、不動産資産向... — Zeitviewは、再生可能エネルギーへの移行を加速し、持続可能なインフラ管理を強化するために設計された先進的な検査ソフトウェアプラットフォームを提供します。60カ国以上でドローン、有人航空機、モバイルデバイスからの視覚データ収集を統合し、クライアントに正確で再現性のある検査 ...",
+    "url": "https://moge.ai/ja/product/zeitview",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー向け機械学習プラットフォームトップ10： ① 米Zeitview、②... — エネルギー向け機械学習プラットフォームトップ10： ① 米Zeitview、②諾Cognite、③米Uplight…日本企業も導入か？ https://lnkd.in/gM8j8Qf8",
+    "url": "https://jp.linkedin.com/posts/hiroaki-izuma-315b295a_エネルギー向け機械学習プラットフォームトップ10-①-米zeitview②諾cognite-activity-7472257846773014529-yPCO",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview が Mapsly を使用してサービスチームの生産性を3倍にした方... — 現場活動の可視性の欠如 Mapslyを導入する前、Zeitviewにはチームのリアルタイムの位置情報とサービス業務のステータスを監視する方法がありませんでした。 これにより、管理部門がパフォーマンス上の問題を迅速に解決する能力が妨げられていました。",
+    "url": "https://mapsly.com/ja/customer-success-stories/how-zeitview-tripled-its-service-teams-productivity-using-mapsly/",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview Pilots — Join Zeitview Pilots to capture visual data worldwide and contribute to renewable energy and sustainable infrastructure through advanced inspection software.",
+    "url": "https://pilots.zeitview.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview | LinkedIn — Zeitview | LinkedInのフォロワー数30,207人。For global customers in energy and infrastructure, Zeitview builds advanced inspection software that delivers fast, accurate insights, lowers costs, and improves asset performance and longevity. We are second to none at partnering with our customers to achieve flexible, long-term solutions across their multiple asset classes. Headquartered in",
+    "url": "https://jp.linkedin.com/company/zeitview",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview Insights — Zeitview provides advanced inspection software and data capture solutions for renewable energy, infrastructure, and property management sectors worldwide.",
+    "url": "https://insights.zeitview.com/",
+    "pass": 3
+   },
+   {
+    "quote": "clients.zeitview.com — Log in to access Zeitview's client portal for advanced inspection and asset management services.",
+    "url": "https://clients.zeitview.com/login",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Zeitview speeds AI model development and improves ... — This partnership enabled Zeitview to launch its AI models six months faster, avoid over $2 million in potential customer revenue losses from overlooked damage, and deliver critical inspection insights to its customers much more quickly. View this case study…",
+    "url": "https://www.casestudies.com/company/cloudfactory/case-study/zeitview-cuts-ai-model-development-by-6-months-with-cloudfactory",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Zeitview Uses Software & Services — Explore case studies featuring Zeitview as the customer — learn how vendors and partners helped Zeitview solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/zeitview",
+    "pass": 3
+   },
+   {
+    "quote": "How FUSen Cut Solar Inspection Time in Half | Zeitview — See how FUSen cut solar inspection time in half with in-house drone capture and Zeitview analysis. Download the free case study.",
+    "url": "https://click.zeitview.com/fusen-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Partner ESI Case Study - click.zeitview.com — In 2021, Partner ESI turned to Zeitview — at the time known as DroneBase — to scale up the volume and frequency of property assessments.",
+    "url": "https://click.zeitview.com/partner-esi-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview 2026 Company Profile: Valuation, Funding & Investors ...Zeitview - 2026 Company Profile, Funding & Investors | The ...Zeitview - 2026 Company Profile, Team, Funding & Competitors ...Zeitview Revenue 2024: $82.5M Est. - getlatka.comZeitview (formerly DroneBase) Information - RocketReachZeitview: Funding, Team & Investors | Startup IntrosZeitview Stock Price, Funding, Valuation, Revenue & F",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview - 2026 Company Profile, Funding & Investors | The ... — Oct 15, 2026 · Zeitview is an Aerospace, Defense & Maritime company based in Santa Monica, United States, founded in 2014. It has raised $174M across 11 funding rounds.",
+    "url": "https://www.thecompanycheck.com/company/b/zeitview/iuvikbl28d1kv5o8h",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview - 2026 Company Profile, Team, Funding & Competitors ...Zeitview Revenue 2024: $82.5M Est. - getlatka.comZeitview (formerly DroneBase) Information - RocketReachZeitview: Funding, Team & Investors | Startup IntrosZeitview Stock Price, Funding, Valuation, Revenue & Financial ... — Apr 20, 2026 · Zeitview is a series D company based in Santa Monica (United States), founded in 2014 by Eli Tama",
+    "url": "https://tracxn.com/d/companies/zeitview/__oltwPAzbfQ65ZmjANFgYdJIOSYNasexc4ohUFet2-R4",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview Revenue 2024: $82.5M Est. - getlatka.com — Oct 30, 2026 · Zeitview 2024 estimated revenue: $82.5M. 563 employees. Industry: Inspection Management Software. Founded 2014. HQ: United States. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/zeitview.com",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview (formerly DroneBase) Information - RocketReachZeitview: Funding, Team & Investors | Startup IntrosZeitview Stock Price, Funding, Valuation, Revenue & Financial ... — Zeitview (formerly DroneBase) is a Construction, Drones, and Software Development company located in Santa Monica, California with $42 million in revenue and 644 employees. Find top employees, contact details and business sta",
+    "url": "https://rocketreach.co/zeitview-formerly-dronebase-profile_b5a7aecbf6b52e28",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Please enter your email to log in to Zeitview Insights.",
+    "url": "https://pilots.zeitview.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Please enter an email address",
+    "url": "https://pilots.zeitview.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "CloudFactory provided a trained workforce and a data annotation platform to accurately label the imagery required for machine learning. This partnership enabled Zeitview to launch its AI models six months faster, avoid over $2 million in potential customer revenue losses from overlooked damage, and deliver critical inspection insights to its customers much more quickly.",
+    "url": "https://www.casestudies.com/company/cloudfactory/case-study/zeitview-cuts-ai-model-development-by-6-months-with-cloudfactory",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "Investments & Acquisitions (8)",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "You’re viewing 5 of 8 investments and acquisitions. Get the full list »",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview has 691 total employees.",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "What is Zeitview’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Zeitview is",
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview Revenue 2024: $82.5M Est.",
+    "url": "https://getlatka.com/companies/zeitview.com",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview has not published its revenue. GetLatka estimates it at about $82.5M a year (June 2024).",
+    "url": "https://getlatka.com/companies/zeitview.com",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview CEO, founders & employees",
+    "url": "https://getlatka.com/companies/zeitview.com",
+    "pass": 3
+   },
+   {
+    "quote": "Dan Burton founded Zeitview in 2014 and runs it as CEO. Zeitview had 563 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/zeitview.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Zeitview's revenue?",
+    "url": "https://getlatka.com/companies/zeitview.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Zeitview's revenue at about",
+    "url": "https://getlatka.com/companies/zeitview.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Zeitview have?",
+    "url": "https://getlatka.com/companies/zeitview.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/zeitview.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/zeitview.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/zeitview.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/zeitview.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Zeitview (formerly DroneBase) (@dronebase) / Posts / X Zeitview (formerly DroneBase) (@dronebase) - Posts - Zeitview builds advanced inspection software for renewable energy and sustainable infrastructure | X (formerly Twitter)",
+    "url": "https://x.com/dronebase",
+    "pass": 3
+   },
+   {
+    "quote": "\"#zeitview\" - Results on X | Live Posts & Updates Results for \"#zeitview\" on X (Twitter). Find the latest posts, discussions, and updates about #zeitview. 14 results found.",
+    "url": "https://x.com/hashtag/zeitview",
+    "pass": 3
+   },
+   {
+    "quote": "TIL Zeitview, US-based VC backed Aerial/asset monitoring ... Filip investing in space startups (@fikocian). 236 views. TIL Zeitview, US-based VC backed Aerial/asset monitoring company has acquired Insight M, marking their 6th acquisition since the first in late 2021 cc @aravindEO",
+    "url": "https://x.com/fikocian/status/2029924580702228900",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview (formerly DroneBase) (@dronebase) / Posts / X May 19, 2014 · Zeitview (formerly DroneBase) (@dronebase) - Posts - Zeitview builds advanced inspection software for renewable energy and sustainable infrastructure | X (formerly Twitter)",
+    "url": "https://x.com/dronebase",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Zeitview - LinkedIn Zeitview | 30,303 followers on LinkedIn. For global customers in energy and infrastructure, Zeitview builds advanced inspection software that delivers fast, accurate insights, lowers costs, and ...",
+    "url": "https://www.linkedin.com/company/zeitview",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview | LinkedIn Zeitview | 30,278 followers on LinkedIn. For global customers in energy and infrastructure, Zeitview builds advanced inspection software that delivers fast, accurate insights, lowers costs, and improves asset performance and longevity. We are second to none at partnering with our customers to achieve flexible, long-term solutions across their multiple asset classes. Headquarter",
+    "url": "https://in.linkedin.com/company/zeitview",
+    "pass": 3
+   },
+   {
+    "quote": "The Latest from Zeitview - LinkedIn Sep 30, 2026 · September Each month, we share product innovations, industry insights, customer stories, and upcoming events from across the industries we serve. Whether you work in wind, utilities, solar ...",
+    "url": "https://www.linkedin.com/pulse/latest-from-zeitview-zeitview-dowsc/",
+    "pass": 3
+   },
+   {
+    "quote": "Jared Gillespie - Vice President, Legal at Zeitview | LinkedInSuneil Sastri - Zeitview | LinkedInJason Rae - Staff Platform Architect at Zeitview | LinkedInSurekha A. - Assistant Manager at Zeitview HR | Talent ... Vice President, Legal at Zeitview · Experience: University of Waterloo · Education: University of Windsor · Location: Kitchener · 500+ connections on LinkedIn. View Jared Gillespie’s pr",
+    "url": "https://ca.linkedin.com/in/jared-gillespie-946b6930",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Zeitview - FacebookZeitview - FacebookZeitview (formerly DroneBase) Pilot’s Network - FacebookAnyone here ever fly for Zeitview (formerly DroneBase)?Drone Pilots Helping Drone Pilots | Curious about Zeitview ...Commercial Drone Mapping and Surveying | What are your ...DroneBase is now Zeitview | Zeitview - Facebook Feb 28, 2024 · Zeitview is dedicated to helping build a sustainable future by harne",
+    "url": "https://www.facebook.com/DroneBaseInc/",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview - FacebookZeitview (formerly DroneBase) Pilot’s Network - FacebookAnyone here ever fly for Zeitview (formerly DroneBase)?Drone Pilots Helping Drone Pilots | Curious about Zeitview ...Commercial Drone Mapping and Surveying | What are your ...DroneBase is now Zeitview | Zeitview - Facebook Zeitview. 7 followers. Information Technology Company This is the one-stop shop for everything Zeitvie",
+    "url": "https://www.facebook.com/Zeitview/",
+    "pass": 3
+   },
+   {
+    "quote": "Zeitview (formerly DroneBase) Pilot’s Network - Facebook This is the one-stop shop for everything Zeitview (formerly DroneBase) related. The director of operations and operations staff along with top producing pilots for DroneBase are part of this group and available to help.",
+    "url": "https://www.facebook.com/groups/1905179796434826/",
+    "pass": 3
+   },
+   {
+    "quote": "Anyone here ever fly for Zeitview (formerly DroneBase)? Jul 6, 2024 · Zeitview adds their own markup—sometimes hundreds of dollars more than what the local drone photographer would charge. And despite that high fee, the drone pilot actually gets paid less than they would if you had gone directly to them.",
+    "url": "https://www.facebook.com/groups/1116970269570506/posts/1171555550778644/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.zeitview.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zeitview.com/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/izumahiroaki/n/n84cc9b74b8c7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://moge.ai/ja/product/zeitview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/posts/hiroaki-izuma-315b295a_エネルギー向け機械学習プラットフォームトップ10-①-米zeitview②諾cognite-activity-7472257846773014529-yPCO",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%BF%E3%82%BF%E3%83%BB%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B7%E3%82%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pilots.zeitview.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/zeitview",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://insights.zeitview.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.casestudies.com/company/cloudfactory/case-study/zeitview-cuts-ai-model-development-by-6-months-with-cloudfactory",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/zeitview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://click.zeitview.com/fusen-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/110585-80",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/zeitview/iuvikbl28d1kv5o8h",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/zeitview/__oltwPAzbfQ65ZmjANFgYdJIOSYNasexc4ohUFet2-R4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/zeitview.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/dronebase",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/zeitview",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fikocian/status/2029924580702228900",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/zeitview",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/zeitview",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/latest-from-zeitview-zeitview-dowsc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/jared-gillespie-946b6930",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/DroneBaseInc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Zeitview/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1905179796434826/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1116970269570506/posts/1171555550778644/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/dronebase",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/zeitview",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Zeitview 日本 導入",
+   "results": [
+    "https://www.zeitview.com/",
+    "https://note.com/izumahiroaki/n/n84cc9b74b8c7",
+    "https://moge.ai/ja/product/zeitview",
+    "https://jp.linkedin.com/posts/hiroaki-izuma-315b295a_エネルギー向け機械学習プラットフォームトップ10-①-米zeitview②諾cognite-activity-7472257846773014529-yPCO",
+    "https://mapsly.com/ja/customer-success-stories/how-zeitview-tripled-its-service-teams-productivity-using-mapsly/",
+    "https://seektool.ai/jp/ai/zeitview-com",
+    "https://www.zeitview.com/offerings"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zeitview 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本タタ・コンサルタンシー・サービシズ",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "https://jpmktg.winbond.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zeitview Japan",
+   "results": [
+    "https://www.zeitview.com/",
+    "https://pilots.zeitview.com/",
+    "https://jp.linkedin.com/company/zeitview",
+    "https://insights.zeitview.com/",
+    "https://clients.zeitview.com/login",
+    "https://moge.ai/ja/product/zeitview",
+    "https://www.zeitview.com/offerings"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zeitview manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/cloudfactory/case-study/zeitview-cuts-ai-model-development-by-6-months-with-cloudfactory",
+    "https://www.casestudies.com/customer/zeitview",
+    "https://click.zeitview.com/fusen-case-study",
+    "https://www.zeitview.com/",
+    "https://click.zeitview.com/partner-esi-case-study",
+    "https://www.cloudfactory.com/client-stories/zeitview",
+    "https://www.solaranywhere.com/wp-content/uploads/2023/08/Zeitview_Case_Study_08232023.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zeitview white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://partners.adobe.com/digitalexperience/",
+    "https://www.canva.com/partners/reseller/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zeitview founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/110585-80",
+    "https://www.thecompanycheck.com/company/b/zeitview/iuvikbl28d1kv5o8h",
+    "https://tracxn.com/d/companies/zeitview/__oltwPAzbfQ65ZmjANFgYdJIOSYNasexc4ohUFet2-R4",
+    "https://getlatka.com/companies/zeitview.com",
+    "https://rocketreach.co/zeitview-formerly-dronebase-profile_b5a7aecbf6b52e28",
+    "https://startupintros.com/orgs/zeitview",
+    "https://www.cbinsights.com/company/dronebase/financials"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Zeitview",
+   "results": [
+    "https://note.com/dashboard",
+    "https://note.com/grandespoir0501/n/n4444af82bf77",
+    "https://note.com/kentabright/n/nb116f899a6ac",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatsumuradesu/n/n6c669815ff19",
+    "https://note.com/kotairaha/n/nb80cab89eafd",
+    "https://note.com/ipusiro/n/nc92ad555b463"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Zeitview",
+   "results": [
+    "https://x.com/dronebase",
+    "https://x.com/hashtag/zeitview",
+    "https://x.com/fikocian/status/2029924580702228900",
+    "https://x.com/",
+    "https://x.com/darylwatkins",
+    "https://x.com/CreoleCockpit_9/status/2114703012320940216",
+    "https://x.com/jocelynseip/status/2118260591680983528"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Zeitview",
+   "results": [
+    "https://www.linkedin.com/company/zeitview",
+    "https://in.linkedin.com/company/zeitview",
+    "https://www.linkedin.com/pulse/latest-from-zeitview-zeitview-dowsc/",
+    "https://ca.linkedin.com/in/jared-gillespie-946b6930",
+    "https://ca.linkedin.com/in/suneilsastri",
+    "https://uk.linkedin.com/in/jason-rae-94a6611",
+    "https://in.linkedin.com/in/surekha-a-942962188"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Zeitview",
+   "results": [
+    "https://www.facebook.com/DroneBaseInc/",
+    "https://www.facebook.com/Zeitview/",
+    "https://www.facebook.com/groups/1905179796434826/",
+    "https://www.facebook.com/groups/1116970269570506/posts/1171555550778644/",
+    "https://www.facebook.com/groups/1116970269570506/posts/1768801797720680/",
+    "https://www.facebook.com/groups/dronemappingandsurveying/posts/1227358342920700/",
+    "https://www.facebook.com/DroneBaseInc/videos/dronebase-is-now-zeitview/171057019076762/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zeitview note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.zeitview.com/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/sadaaki",
+    "https://note.jp/n/ncc37a1d4aa0b"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zeitview X 投稿",
+   "results": [
+    "https://x.com/dronebase",
+    "https://www.zeitview.com/",
+    "https://x.com/hashtag/zeitview",
+    "https://clients.zeitview.com/login",
+    "https://pilots.zeitview.com/",
+    "https://insights.zeitview.com/",
+    "https://uploader.zeitview.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部34頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部34頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

@@ -1,0 +1,1589 @@
+{
+ "name": "Spee3D",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜日本進出済",
+ "researched_at": "2026-11-11T04:04:23.154413+00:00",
+ "official_url": "https://www.spee3d.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "16-Jul-2021 $2.62M $2.62M  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/246872-26",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "SPEE3D Metal Printing | Fast & Affordable 3D Metal Parts",
+    "url": "https://www.spee3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cold Spray Additive Manufacturing (CSAM) makes it possible to produce cast-equivalent metal parts on-site and on-demand—in hours and days vs. weeks or months.",
+    "url": "https://www.spee3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SPEED: Produce large, near-net-shape metal parts at up to 100g/min (3.5oz/min)",
+    "url": "https://www.spee3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PEFORMANCE: Expand in-house capabilities and improve part performance",
+    "url": "https://www.spee3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What parts have we printed?",
+    "url": "https://www.spee3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "View metal parts produced on",
+    "url": "https://www.spee3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SPEE3D printers.",
+    "url": "https://www.spee3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find out if one of our printers is right for your part.",
+    "url": "https://www.spee3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From the factory to the field, CSAM enables commercial and military customers across industries and continents to produce high-density metal parts with reliable material properties—without dangerous gases, complex infrastructure, or extensive training.",
+    "url": "https://www.spee3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Support critical maintenance in the field, develop new metal parts or prototypes, and expand capabilities.",
+    "url": "https://www.spee3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce lead times and supply chain issues by producing critical replacement parts or new prototypes in-house.",
+    "url": "https://www.spee3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Produce strong, corrosion-resistant maritime parts",
+    "url": "https://www.spee3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cost-effectively open new avenues of scientific inquiry with Cold Spray Additive.",
+    "url": "https://www.spee3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Print, post-process, and test metal parts in the field.",
+    "url": "https://www.spee3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacture metal parts up to 40kg (88lbs) and ⌀0.9m x 0.7m/⌀35″ x 30″ (approx.) in diameter – in the factory, in the field, and anywhere in between.",
+    "url": "https://www.spee3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacture metal parts up to 5kg/11lbs (approx.) and Ø350mm x 300mm (13” x 11”) in diameter – in hours, not days or weeks.",
+    "url": "https://www.spee3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join us on a journey to the future of cold spray additive manufacturing.",
+    "url": "https://www.spee3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get a whole new perspective on cold spray technology.",
+    "url": "https://www.spee3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Partners - SPEE3D 3D Metal Printing",
+    "url": "https://www.spee3d.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Shaping the future of cold spray additive manufacturing—together.",
+    "url": "https://www.spee3d.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Progress requires partnership",
+    "url": "https://www.spee3d.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re proud to work with technology partners to promote and distribute SPEE3D technology to markets across the globe—empowering customers across industries and continents to harness the true power of our cold spray innovation.",
+    "url": "https://www.spee3d.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "SPEE3D is proud to be a partner of America Makes, the only US organisation that convenes government, industry, academia, the workforce, and economic development organisations to accelerate additive manufacturing (AM) adoption and support global U.S. manufacturing competitiveness.",
+    "url": "https://www.spee3d.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "SPEE3D is proud to be a member of the",
+    "url": "https://www.spee3d.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": ", the only global organization committed to bolstering sustainability practices throughout the manufacturing ecosystem.",
+    "url": "https://www.spee3d.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Join us on a journey to the future of cold spray additive manufacturing.",
+    "url": "https://www.spee3d.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing - SPEE3D 3D Metal Printing",
+    "url": "https://www.spee3d.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturers outsourcing metal components face a number of logistical and financial challenges. Automated Cold Spray Additive Manufacturing (CSAM) addresses those challenges directly, making it easy to keep equipment up and running.",
+    "url": "https://www.spee3d.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chains are fraught with risk. From disruptions to cybersecurity threats to increased cost and time, they create significant obstacles to safe, timely maintenance and repair. Our automated CSAM makes it possible for you to control the process—and gives you everything you need to be self-reliant.",
+    "url": "https://www.spee3d.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Automation that reduces the need for extensive special training or expertise",
+    "url": "https://www.spee3d.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": ", researchers were able to document the environmental advantages of our patented CSAM process over conventional machining processes and other additive manufacturing.",
+    "url": "https://www.spee3d.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated CSAM will make it possible to produce high-quality metal parts that comply with industry-specific quality standards, legal regulations, and IP protection. The key is understanding the various risk levels associated with the manufactured parts and adjusting production processes accordingly. With that in mind, be sure to:",
+    "url": "https://www.spee3d.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Maintain a comprehensive digital thread for each part",
+    "url": "https://www.spee3d.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "The military approach to additive manufacturing (AM) offers critical insight for commercial manufacturers hoping to better understand and more effectively navigate legal regulations and industry standards.",
+    "url": "https://www.spee3d.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "The U.S. Marine Corps uses a color-coded bin system that serves as an excellent model. And by understanding how the branch uses it to assess the risk levels of metal parts, you can better identify—and resolve—potential Intellectual Property challenges.",
+    "url": "https://www.spee3d.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "How do Intellectual Property (IP) rights come into play?",
+    "url": "https://www.spee3d.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "In many countries, IP rights granted to spare parts are limited as patent protection typically applies to machines rather than to spare parts.",
+    "url": "https://www.spee3d.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "The doctrines of ‘exhaustion’ and ‘implied license’ allow the purchaser of a patented product to use, re-sell, and repair that product without the patent holder’s permission. However, it’s crucial to ensure that additive-manufactured parts are not subject to any patents or other IP protections. Consulting a legal professional and conducting thorough research can help you avoid any legal issues.",
+    "url": "https://www.spee3d.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "It’s also important to note that design protection and the ‘right to repair’ may vary from country to country, with some providing greater leniency for repairing and maintaining complex products.",
+    "url": "https://www.spee3d.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "When it comes to legal compliance, the most critical factor to consider is your equipment supplier contracts. Ensuring that your contracts allow for the use of AM technology for spare parts production and do not infringe upon IP rights can help you maintain a compliant manufacturing process.",
+    "url": "https://www.spee3d.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "By carefully navigating IP and legal concerns in collaboration with your equipment supplier and legal counsel, you can harness the potential of metal AM to produce spare parts while minimizing the risk of legal issues.",
+    "url": "https://www.spee3d.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Get a closer look at our flagship printer.",
+    "url": "https://www.spee3d.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover our smallest printer model.",
+    "url": "https://www.spee3d.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "About - SPEE3D 3D Metal Printing",
+    "url": "https://www.spee3d.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "From pioneering vision to proven success, we’ve got what it takes to move metal AM forward.",
+    "url": "https://www.spee3d.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "To simplify and accelerate the metal AM process, they began to harness the true power of cold spray—and soon created the fastest, most affordable metal AM process in the world. With strong roots in R&D and a bold vision of the road ahead, the two continue to shape and advance the entire industry.",
+    "url": "https://www.spee3d.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "In 2002 they formed ‘In Motion Technology’ (IMT) to commercialise the axial flux motor technology developed for the Desert Rose. This motor technology is now utilized around the world and is arguably one of the most successful commercials spinoffs from solar car racing. The pair formed SPEE3D with proceeds of the successful sale of IMT.",
+    "url": "https://www.spee3d.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Kerri Lee Sinclair brings more than 20 years of management and investor experience in the high-growth technology sector. She has spent the last 5 years working in family offices building direct private investment assets in technology, and now manages over $100m of invested capital in some of Australia’s most interesting scale ups.",
+    "url": "https://www.spee3d.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Combining years of experience in finance, sales and technology, Dr. Stephan Beyer today works as serial entrepreneur and founder in the field of innovation and digital manufacturing. Stephan is supporting leading technology companies as a trusted advisor to the C-suite. Additionally, he serves as non-executive board director for high-growth companies.",
+    "url": "https://www.spee3d.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Join us on a journey to the future of cold spray additive manufacturing.",
+    "url": "https://www.spee3d.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Careers - SPEE3D 3D Metal Printing",
+    "url": "https://www.spee3d.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Take your place on the frontlines of additive manufacturing innovation.",
+    "url": "https://www.spee3d.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with universities to strengthen the AM workforce",
+    "url": "https://www.spee3d.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Join us on a journey to the future of cold spray additive manufacturing.",
+    "url": "https://www.spee3d.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Defence - SPEE3D 3D Metal Printing",
+    "url": "https://www.spee3d.com/industries/defence/",
+    "pass": 1
+   },
+   {
+    "quote": "While traditional metal additive manufacturing requires extensive training, poses safety hazards, and is often unsuitable for deployment, our expeditionary XSPEE3D printer enables defence organizations to produce industrial-grade metal parts on-demand at the point of need.",
+    "url": "https://www.spee3d.com/industries/defence/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven and tested with the U.S., UK, and AUS Departments of Defence",
+    "url": "https://www.spee3d.com/industries/defence/",
+    "pass": 1
+   },
+   {
+    "quote": "printer and our SPEE3DCell post-processing unit—provides everything you need to print, post-process, and test metal parts in the field.",
+    "url": "https://www.spee3d.com/industries/defence/",
+    "pass": 1
+   },
+   {
+    "quote": "Join us on a journey to the future of cold spray additive manufacturing.",
+    "url": "https://www.spee3d.com/industries/defence/",
+    "pass": 1
+   },
+   {
+    "quote": "OEMs - SPEE3D 3D Metal Printing",
+    "url": "https://www.spee3d.com/industries/oems/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Cold Spray Additive Manufacturing (CSAM) makes it possible to produce cast-equivalent metal parts on-site and on-demand—in hours and days vs. weeks or months.",
+    "url": "https://www.spee3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From the factory to the field, CSAM enables commercial and military customers across industries and continents to produce high-density metal parts with reliable material properties—without dangerous gases, complex infrastructure, or extensive training.",
+    "url": "https://www.spee3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Expeditionary Manufacturing Unit",
+    "url": "https://www.spee3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacture metal parts up to 40kg (88lbs) and ⌀0.9m x 0.7m/⌀35″ x 30″ (approx.) in diameter – in the factory, in the field, and anywhere in between.",
+    "url": "https://www.spee3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re ready to help you bring your metal additive manufacturing application to life. Let’s get started.",
+    "url": "https://www.spee3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join us on a journey to the future of cold spray additive manufacturing.",
+    "url": "https://www.spee3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Shaping the future of cold spray additive manufacturing—together.",
+    "url": "https://www.spee3d.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The global SPEE3D partner network is a critical part of our continued success—enabling us to better support our customers, more effectively distribute our technologies, and strengthen our commitment to sustainable additive manufacturing.",
+    "url": "https://www.spee3d.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "US Manufacturing Sovereignty Partnership",
+    "url": "https://www.spee3d.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "SPEE3D is proud to be a partner of America Makes, the only US organisation that convenes government, industry, academia, the workforce, and economic development organisations to accelerate additive manufacturing (AM) adoption and support global U.S. manufacturing competitiveness.",
+    "url": "https://www.spee3d.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Manufacturer Green Trade Association (AMGTA)",
+    "url": "https://www.spee3d.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": ", the only global organization committed to bolstering sustainability practices throughout the manufacturing ecosystem.",
+    "url": "https://www.spee3d.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re ready to help you bring your metal additive manufacturing application to life. Let’s get started.",
+    "url": "https://www.spee3d.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Join us on a journey to the future of cold spray additive manufacturing.",
+    "url": "https://www.spee3d.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing - SPEE3D 3D Metal Printing",
+    "url": "https://www.spee3d.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturers outsourcing metal components face a number of logistical and financial challenges. Automated Cold Spray Additive Manufacturing (CSAM) addresses those challenges directly, making it easy to keep equipment up and running.",
+    "url": "https://www.spee3d.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": ", researchers were able to document the environmental advantages of our patented CSAM process over conventional machining processes and other additive manufacturing.",
+    "url": "https://www.spee3d.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "The military approach to additive manufacturing (AM) offers critical insight for commercial manufacturers hoping to better understand and more effectively navigate legal regulations and industry standards.",
+    "url": "https://www.spee3d.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "When it comes to legal compliance, the most critical factor to consider is your equipment supplier contracts. Ensuring that your contracts allow for the use of AM technology for spare parts production and do not infringe upon IP rights can help you maintain a compliant manufacturing process.",
+    "url": "https://www.spee3d.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re ready to help you bring your metal additive manufacturing application to life. Let’s get started.",
+    "url": "https://www.spee3d.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Combining years of experience in finance, sales and technology, Dr. Stephan Beyer today works as serial entrepreneur and founder in the field of innovation and digital manufacturing. Stephan is supporting leading technology companies as a trusted advisor to the C-suite. Additionally, he serves as non-executive board director for high-growth companies.",
+    "url": "https://www.spee3d.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re ready to help you bring your metal additive manufacturing application to life. Let’s get started.",
+    "url": "https://www.spee3d.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Join us on a journey to the future of cold spray additive manufacturing.",
+    "url": "https://www.spee3d.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Take your place on the frontlines of additive manufacturing innovation.",
+    "url": "https://www.spee3d.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Metal additive manufacturing is a crowded field—and many companies offer rewarding roles. What SPEE3D offers is a chance to help shape the future of the industry. Our technology is built from the ground up, and as part of our team, you’ll have a chance to help drive that innovation.",
+    "url": "https://www.spee3d.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Working here means giving STEM students access to state-of-the-art technology. It means equipping Ukrainian soldiers with resources to fortify maintenance and repair capabilities. And it means driving sustainability in manufacturing. Our innovation makes an impact on a global scale. Join our team to join the cause.",
+    "url": "https://www.spee3d.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re ready to help you bring your metal additive manufacturing application to life. Let’s get started.",
+    "url": "https://www.spee3d.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Join us on a journey to the future of cold spray additive manufacturing.",
+    "url": "https://www.spee3d.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "While traditional metal additive manufacturing requires extensive training, poses safety hazards, and is often unsuitable for deployment, our expeditionary XSPEE3D printer enables defence organizations to produce industrial-grade metal parts on-demand at the point of need.",
+    "url": "https://www.spee3d.com/industries/defence/",
+    "pass": 1
+   },
+   {
+    "quote": "Expeditionary metal manufacturing",
+    "url": "https://www.spee3d.com/industries/defence/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Expeditionary Manufacturing Unit—which combines our",
+    "url": "https://www.spee3d.com/industries/defence/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re ready to help you bring your metal additive manufacturing application to life. Let’s get started.",
+    "url": "https://www.spee3d.com/industries/defence/",
+    "pass": 1
+   },
+   {
+    "quote": "Join us on a journey to the future of cold spray additive manufacturing.",
+    "url": "https://www.spee3d.com/industries/defence/",
+    "pass": 1
+   },
+   {
+    "quote": "Our CSAM technology makes it possible for OEMs to increase overall capacity and flexibility with manufacturing at the point of need.",
+    "url": "https://www.spee3d.com/industries/oems/",
+    "pass": 1
+   },
+   {
+    "quote": "Tier 1 manufacturing",
+    "url": "https://www.spee3d.com/industries/oems/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced manufacturing centers",
+    "url": "https://www.spee3d.com/industries/oems/",
+    "pass": 1
+   },
+   {
+    "quote": "Expeditionary metal manufacturing",
+    "url": "https://www.spee3d.com/industries/oems/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Expeditionary Manufacturing Unit—which combines our XSPEE3D printer and our SPEE3DCell post-processing unit—provides everything you need to print, post-process, and test metal parts in the field.",
+    "url": "https://www.spee3d.com/industries/oems/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re ready to help you bring your metal additive manufacturing application to life. Let’s get started.",
+    "url": "https://www.spee3d.com/industries/oems/",
+    "pass": 1
+   },
+   {
+    "quote": "Join us on a journey to the future of cold spray additive manufacturing.",
+    "url": "https://www.spee3d.com/industries/oems/",
+    "pass": 1
+   },
+   {
+    "quote": "Cold Spray Additive Manufacturing (CSAM) with Nickel Aluminum Bronze enables you to dramatically reduce the cost of spare maritime parts—and your reliance on supply chains. For the first time, you’ll be able to produce cast-equivalent metal parts on-site, on-demand.",
+    "url": "https://www.spee3d.com/industries/maritime/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing radial load bushings on-demand enables you to avoid the downtime, costs, and risks associated with critical equipment failure. While a 12-inch diameter bar stock may be nearly impossible to source rapidly in remote locations, CSAM enables you to produce one on-site in roughly two hours—with just over 10kgs of powder.",
+    "url": "https://www.spee3d.com/industries/maritime/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re ready to help you bring your metal additive manufacturing application to life. Let’s get started.",
+    "url": "https://www.spee3d.com/industries/maritime/",
+    "pass": 1
+   },
+   {
+    "quote": "Organizations in the Natural Resources sector often operate in remote environments, where they face a unique set of financial, logistical, and safety challenges. Automated Cold Spray Additive Manufacturing (CSAM) addresses those challenges directly, making it easy to keep equipment up and running.",
+    "url": "https://www.spee3d.com/industries/natural-resources/",
+    "pass": 1
+   },
+   {
+    "quote": "The military approach to additive manufacturing (AM) offers critical insight for commercial manufacturers hoping to better understand and more effectively navigate legal regulations and industry standards.",
+    "url": "https://www.spee3d.com/industries/natural-resources/",
+    "pass": 1
+   },
+   {
+    "quote": "When it comes to legal compliance, the most critical factor to consider is your equipment supplier contracts. Ensuring that your contracts allow for the use of AM technology for spare parts production and do not infringe upon IP rights can help you maintain a compliant manufacturing process.",
+    "url": "https://www.spee3d.com/industries/natural-resources/",
+    "pass": 1
+   },
+   {
+    "quote": ", researchers were able to document the environmental advantages of our patented CSAM process over conventional machining processes and other additive manufacturing.",
+    "url": "https://www.spee3d.com/industries/natural-resources/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re ready to help you bring your metal additive manufacturing application to life. Let’s get started.",
+    "url": "https://www.spee3d.com/industries/natural-resources/",
+    "pass": 1
+   },
+   {
+    "quote": "Power an additive manufacturing revolution through experimentation, validation, and knowledge transfer.",
+    "url": "https://www.spee3d.com/industries/rd/",
+    "pass": 1
+   },
+   {
+    "quote": "It’s true that Cold Spray has been used for over a century for coatings and repairs, but our system is the only true end-to-end Cold Spray Additive Manufacturing (CSAM) solution, enabling you to build parts directly from a CAD file or scan. Additionally, our open-system philosophy provides academic researchers with nearly unlimited avenues of inquiry.",
+    "url": "https://www.spee3d.com/industries/rd/",
+    "pass": 1
+   },
+   {
+    "quote": "As industries continue to embrace additive manufacturing, the need for a skilled workforce will continue to rise. Because our printers operate at fast speeds and low operating costs, they provide a unique opportunity to maximize hands-on training in the classroom—and help fill this critical pipeline.",
+    "url": "https://www.spee3d.com/industries/rd/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore peer-reviewed work featuring SPEE3D technology and our patented process, and how SPEE3D, and our partners, are leading ground-breaking discoveries in Cold Spray Additive Manufacturing research.",
+    "url": "https://www.spee3d.com/industries/rd/",
+    "pass": 1
+   },
+   {
+    "quote": "Repeatability and reproducibility of liquid-phase sintered Al-bronze 3D-printed parts using cold spray additive manufacturing",
+    "url": "https://www.spee3d.com/industries/rd/",
+    "pass": 1
+   },
+   {
+    "quote": "Life Cycle Assessment of Cold Spray Additive Manufacturing and Conventional Machining of Aluminum Alloy Flange",
+    "url": "https://www.spee3d.com/industries/rd/",
+    "pass": 1
+   },
+   {
+    "quote": "Advances in Cold Spray: A Coating Deposition and Additive Manufacturing Process [book]",
+    "url": "https://www.spee3d.com/industries/rd/",
+    "pass": 1
+   },
+   {
+    "quote": "COVID-19: Current challenges regarding medical healthcare supplies and their implications on the global additive manufacturing industry",
+    "url": "https://www.spee3d.com/industries/rd/",
+    "pass": 1
+   },
+   {
+    "quote": "Metal Additive Manufacturing Technology Applications in Defense Organizations",
+    "url": "https://www.spee3d.com/industries/rd/",
+    "pass": 1
+   },
+   {
+    "quote": "Dimensional comparison of a cold spray additive manufacturing simulation tool",
+    "url": "https://www.spee3d.com/industries/rd/",
+    "pass": 1
+   },
+   {
+    "quote": "This investment emphasizes the importance of workforce development and collaboration between Missouri universities and manufacturers to embrace advanced manufacturing technologies.",
+    "url": "https://www.spee3d.com/industries/rd/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re ready to help you bring your metal additive manufacturing application to life. Let’s get started.",
+    "url": "https://www.spee3d.com/industries/rd/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The global SPEE3D partner network is a critical part of our continued success—enabling us to better support our customers, more effectively distribute our technologies, and strengthen our commitment to sustainable additive manufacturing.",
+    "url": "https://www.spee3d.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Former CTO In Motion Technologies (exit to NYSE listed Regal Beloit), 20 years engineering design experience. Multiple patent holder. Masters of Engineering, Young Australian of the Year Finalist 1997.",
+    "url": "https://www.spee3d.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Metal additive manufacturing is a crowded field—and many companies offer rewarding roles. What SPEE3D offers is a chance to help shape the future of the industry. Our technology is built from the ground up, and as part of our team, you’ll have a chance to help drive that innovation.",
+    "url": "https://www.spee3d.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Barriers to sustainable innovation adoption: A qualitative investigation of metal additive printing from supply and demand perspectives",
+    "url": "https://www.spee3d.com/industries/rd/",
+    "pass": 1
+   },
+   {
+    "quote": "Arridex is an African industrial technology company building operational resilience across the continent’s most critical industries.",
+    "url": "https://www.spee3d.com/industries/parts/",
+    "pass": 1
+   },
+   {
+    "quote": "Inquire with Arridex and their Omnifactory about your project needs.",
+    "url": "https://www.spee3d.com/industries/parts/",
+    "pass": 1
+   },
+   {
+    "quote": "FV 430 Armored Personnel Carriers Mechanical Housing",
+    "url": "https://www.spee3d.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "As part of the partnership, SPEE3D will provide the JGSDF comprehensive training, support, and maintenance for both WarpSPEE3D and XSPEE3D. This includes field exercise programs with the XSPEE3D, ensuring that Japan’s forces are well-equipped to fully utilize the potential of this technology when in the field and on base.",
+    "url": "https://www.asminternational.org/bridging-innovation-and-defense-in-the-asia-pacific-spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry's Nikolaus Mroncz details the three tests that engineering and procurement teams should carry out before proceeding with additive manufacturing.",
+    "url": "https://www.tctmagazine.com/spee3d-brings-metal-cold-spray-3d-printing-to-japan-ground-s/",
+    "pass": 3
+   },
+   {
+    "quote": "As part of their partnership, SPEE3D will provide the JGSDF comprehensive training, support, and maintenance for both WarpSPEE3D and XSPEE3D. This includes field exercise programs with the XSPEE3D, ensuring that Japan’s forces are well-equipped to fully utilize the potential of this technology when in the field and on base.",
+    "url": "https://darwininnovationhub.com.au/spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3D Stock Price, Funding, Valuation, Revenue & Financial Statements",
+    "url": "https://www.cbinsights.com/company/spee3d/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Funding, Valuation & Revenue",
+    "url": "https://www.cbinsights.com/company/spee3d/financials",
+    "pass": 3
+   },
+   {
+    "quote": "“Our work with IMCRC and UTS has also supported SPEE3D’s expansion. In five years, we have grown from two employees in Melbourne to 60 employees spread across offices in four countries.”",
+    "url": "https://www.imcrc.org/case-study-spee3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Stuart Warren, Principal Delivery Manager at UTS Rapido and the driving force behind both projects, attributed their success to the in-person interactions between UTS Rapido and SPEE3D.",
+    "url": "https://www.imcrc.org/case-study-spee3d/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/246872-26",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3D has 46 total employees.",
+    "url": "https://pitchbook.com/profiles/company/246872-26",
+    "pass": 3
+   },
+   {
+    "quote": "What is SPEE3D’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/246872-26",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for SPEE3D is",
+    "url": "https://pitchbook.com/profiles/company/246872-26",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "OEMs - SPEE3D 3D Metal Printing",
+    "url": "https://www.spee3d.com/industries/oems/",
+    "pass": 1
+   },
+   {
+    "quote": "Our CSAM technology makes it possible for OEMs to increase overall capacity and flexibility with manufacturing at the point of need.",
+    "url": "https://www.spee3d.com/industries/oems/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Interested in becoming a service bureau and joining the SPEE3D partner network? Contact us today and learn more about taking your place on the frontline of metal additive manufacturing innovation.",
+    "url": "https://www.spee3d.com/industries/parts/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/246872-26",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "SPEE3D社が陸上自衛隊と提携、コールドスプレー積層造形技術を日本に導入 | CAD Japan.com（大塚商会）",
+    "url": "https://www.cadjapan.com/news/2023/d20230915_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3D社は2023年9月13日、陸上自衛隊と提携し、同社のコールドスプレー積層造形（CSAM）技術を日本に導入することを発表した",
+    "url": "https://www.cadjapan.com/news/2023/d20230915_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の陸上自衛隊が3Dプリンタを導入 | 3DP id.arts",
+    "url": "https://idarts.co.jp/3dp/jgdsf-spee3d/?srsltid=AYCX9vIe89FWFrY81mXksPdOv5I8b40XFqzpkAr9Q1ksGhTwEFn55h_i",
+    "pass": 3
+   },
+   {
+    "quote": "日本の陸上自衛隊が3Dプリンタを導入",
+    "url": "https://idarts.co.jp/3dp/jgdsf-spee3d/?srsltid=AYCX9vIe89FWFrY81mXksPdOv5I8b40XFqzpkAr9Q1ksGhTwEFn55h_i",
+    "pass": 3
+   },
+   {
+    "quote": "日本の防衛省がSPEE3Dと提携し大型金属3Dプリンタを陸上自衛隊へ導入",
+    "url": "https://idarts.co.jp/3dp/jgdsf-spee3d/?srsltid=AYCX9vIe89FWFrY81mXksPdOv5I8b40XFqzpkAr9Q1ksGhTwEFn55h_i",
+    "pass": 3
+   },
+   {
+    "quote": "は、同社の革新的なコールドスプレーアディティブマニュファクチャリング（以下 CSAM）技術を用いた大型金属3Dプリントシステム「WarpSPEE3D」と「XSPEE3D」を日本の",
+    "url": "https://idarts.co.jp/3dp/jgdsf-spee3d/?srsltid=AYCX9vIe89FWFrY81mXksPdOv5I8b40XFqzpkAr9Q1ksGhTwEFn55h_i",
+    "pass": 3
+   },
+   {
+    "quote": "第5回「K,D,C,,, Food Challenge」は、食品分野の新しいチャレンジを応援するピッチコンテストであり、オイシックス・ラ・大地株式会社とその投資 …",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/spee3d-point-of-need-challenge-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "これから始める3D設計 ZW3D体験セミナー （2/13＠東京）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/spee3d-point-of-need-challenge-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "楽しみながら3Dプリンタを理解する オマケ付きワークショップ （2/14＠東京）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/spee3d-point-of-need-challenge-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタの可能性を限界まで高める！ nTop体験ワークショップ（3/7＠東京）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/spee3d-point-of-need-challenge-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "TCT Japan 2025主催者に聞く！3Dプリンター展示会来場のポイントとは？",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/spee3d-point-of-need-challenge-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "ShareLabは日本の業務用3Dプリンタ―およびAM（アディティブ・マニュファクチャリング）に関するあらゆる情報が集まるポータルサイトです",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/spee3d-point-of-need-challenge-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/spee3d-point-of-need-challenge-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #12 参加申込フォーム",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/spee3d-point-of-need-challenge-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #13 参加申込フォーム",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/spee3d-point-of-need-challenge-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #14 参加申込フォーム",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/spee3d-point-of-need-challenge-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内代理店一覧",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/spee3d-point-of-need-challenge-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3Dは、これまでにオーストラリア海軍、イギリス軍、ウクライナ軍、日本の自衛隊などにも自社のメタル3Dプリンターを提供し、軍事の領域でのプレゼンス拡大に成功している",
+    "url": "https://sekapri.com/3dprinter/20240524-17692/",
+    "pass": 3
+   },
+   {
+    "quote": "在日ドイツ商工会議所が東京でアディティブ・マニュファクチャリング",
+    "url": "https://sekapri.com/3dprinter/20240524-17692/",
+    "pass": 3
+   },
+   {
+    "quote": "日本製紙が開発したCNF強化樹脂がアスペクトの3Dプリンター用粉末樹…",
+    "url": "https://sekapri.com/3dprinter/20240524-17692/",
+    "pass": 3
+   },
+   {
+    "quote": "日本製紙が開発したCNF強化樹脂がアスペクトの3Dプリンター用粉…",
+    "url": "https://sekapri.com/3dprinter/20240524-17692/",
+    "pass": 3
+   },
+   {
+    "quote": "Bridging innovation and defense in the Asia Pacific: SPEE3D’s 3D printers to transform Japan’s military operations - ASM International",
+    "url": "https://www.asminternational.org/bridging-innovation-and-defense-in-the-asia-pacific-spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "Bridging innovation and defense in the Asia Pacific: SPEE3D’s 3D printers to transform Japan’s military operations",
+    "url": "https://www.asminternational.org/bridging-innovation-and-defense-in-the-asia-pacific-spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "Spee3D, Australia, partnered with the Japan Ground Self-Defense Force (JGSDF) to introduce its innovative cold spray additive manufacturing (CSAM) technology to Japan. This contract with the Japan Ministry of Defense marks a significant milestone as the company continues to expand into the Asia-Pacific region.",
+    "url": "https://www.asminternational.org/bridging-innovation-and-defense-in-the-asia-pacific-spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3D CEO, Byron Kennedy, says, “We are grateful for the opportunity to expand our presence into Japan and the APAC region. It is indeed an honor to collaborate with the Japanese military. Our aim is to train and prepare their forces to use the XSPEE3D printer in the field to address their most urgent supply chain issues through quickly manufactured on-demand parts.”",
+    "url": "https://www.asminternational.org/bridging-innovation-and-defense-in-the-asia-pacific-spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "As part of the partnership, SPEE3D will provide the JGSDF comprehensive training, support, and maintenance for both WarpSPEE3D and XSPEE3D. This includes field exercise programs with the XSPEE3D, ensuring that Japan’s forces are well-equipped to fully utilize the potential of this technology when in the field and on base.",
+    "url": "https://www.asminternational.org/bridging-innovation-and-defense-in-the-asia-pacific-spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3D brings metal cold spray 3D printing to Japan Ground Self-Defense Force",
+    "url": "https://www.tctmagazine.com/spee3d-brings-metal-cold-spray-3d-printing-to-japan-ground-s/",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3D has announced that it has agreed a contract with the Japan Ministry of Defense to provide WarpSPEE3D and XSPEE3D printers for the Japan Ground Self-Defense Force (JGSDF), furthering its 3D printing capabilities in Japan.",
+    "url": "https://www.tctmagazine.com/spee3d-brings-metal-cold-spray-3d-printing-to-japan-ground-s/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Ministry of Defense",
+    "url": "https://www.tctmagazine.com/spee3d-brings-metal-cold-spray-3d-printing-to-japan-ground-s/",
+    "pass": 3
+   },
+   {
+    "quote": "printers for the Japan Ground Self-Defense Force (JGSDF), furthering its 3D printing capabilities in Japan.",
+    "url": "https://www.tctmagazine.com/spee3d-brings-metal-cold-spray-3d-printing-to-japan-ground-s/",
+    "pass": 3
+   },
+   {
+    "quote": "“We are grateful to be expanding our presence into Japan and the APAC region,” said Byron Kennedy, CEO of SPEE3D. “We’re also thrilled to partner with the Japanese military, to train and prepare forces to use the XSPEE3D printer in the field to help solve their most pressing supply chain issues for quickly made on-demand parts.”",
+    "url": "https://www.tctmagazine.com/spee3d-brings-metal-cold-spray-3d-printing-to-japan-ground-s/",
+    "pass": 3
+   },
+   {
+    "quote": "Working with SPEE3D, Japan’s defence forces will now have the capability to produce parts in ‘record time’ and at the point of need in critical situations according to the company. JGSDF will receive training, support, and maintenance for both printers, including in-the-field exercise programs with the XSPEE3D.",
+    "url": "https://www.tctmagazine.com/spee3d-brings-metal-cold-spray-3d-printing-to-japan-ground-s/",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3D’s 3D Printers to Transform Japan’s Military Operations - Darwin Innovation Hub",
+    "url": "https://darwininnovationhub.com.au/spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3D’s 3D Printers to Transform Japan’s Military Operations",
+    "url": "https://darwininnovationhub.com.au/spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Ground Self-Defence Force (JGSDF)",
+    "url": "https://darwininnovationhub.com.au/spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "are pleased to announce that they have partnered with the JGSDF to introduce their innovative cold spray additive manufacturing (CSAM) technology to Japan. This contract with the Japan Ministry of Defence marks a significant milestone as we continue to expand into the Asia-Pacific region.",
+    "url": "https://darwininnovationhub.com.au/spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "https://darwininnovationhub.com.au/wp-content/uploads/2023/10/SPEE3D-CTO-quote-on-Japanese-printer-story.mp4",
+    "url": "https://darwininnovationhub.com.au/spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "pass": 3
+   },
+   {
+    "quote": ", on Japanese Military and SPEE3D contract.",
+    "url": "https://darwininnovationhub.com.au/spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "“We are grateful for the opportunity to expand our presence into Japan and the APAC region. It is indeed an honour to collaborate with the Japanese military. Our aim is to train and prepare their forces to use the XSPEE3D printer in the field to address their most urgent supply chain issues through quickly manufactured on-demand parts.” – SPEE3D CEO,",
+    "url": "https://darwininnovationhub.com.au/spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "As part of their partnership, SPEE3D will provide the JGSDF comprehensive training, support, and maintenance for both WarpSPEE3D and XSPEE3D. This includes field exercise programs with the XSPEE3D, ensuring that Japan’s forces are well-equipped to fully utilize the potential of this technology when in the field and on base.",
+    "url": "https://darwininnovationhub.com.au/spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SPEE3D の3Dプリンターが 日本 の軍事作戦を変革 — SPEE3D の3Dプリンターが 日本 の軍事作戦を変革 SPEE3D Metal Printing https://www.spee3d.com > イノベーションと防衛の架け橋-...",
+    "url": "https://www.spee3d.com/ja/%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E9%98%B2%E8%A1%9B%E3%81%AE%E6%9E%B6%E3%81%91%E6%A9%8B-spee3ds%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%8C/",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3D 社が陸上自衛隊と提携、コールドスプレー積層造形 ... — SPEE3D 社が陸上自衛隊と提携、コールドスプレー積層造形 ... CAD Japan.com https://www.cadjapan.com > ニュース > 2023年",
+    "url": "https://www.cadjapan.com/news/2023/d20230915_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉体を音速の3倍で噴射・吹付 LightSPEE3D 金属3D ... — 金属粉体を音速の3倍で噴射・吹付 LightSPEE3D 金属3D ... 日本バイナリー http://www.nihonbinary.co.jp > ... > 金属造形プリンタ",
+    "url": "http://www.nihonbinary.co.jp/Products/3DModeling/SPEE3D.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界最速の金属3Dプリンティング技術がブラジルへ - SPEE3D — 世界最速の金属3Dプリンティング技術がブラジルへ - SPEE3D SPEE3D Metal Printing https://www.spee3d.com > 世界最速の金属3dプリンティン...",
+    "url": "https://www.spee3d.com/ja/%E4%B8%96%E7%95%8C%E6%9C%80%E9%80%9F%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%8A%80%E8%A1%93%E3%81%8C%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%E3%81%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "高速で手頃な価格の3Dメタルパーツ - SPEE3D — 高速で手頃な価格の3Dメタルパーツ - SPEE3D SPEE3D Metal Printing https://www.spee3d.com > ...",
+    "url": "https://www.spee3d.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3D の金属3Dプリンターが米国防省の製造技術部門 ... — SPEE3D の金属3Dプリンターが米国防省の製造技術部門 ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > 金属3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/spee3d-point-of-need-challenge-230613/",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3D が遠隔地用メタル3Dプリンティング・コンテナ ... — SPEE3D が遠隔地用メタル3Dプリンティング・コンテナ ... セカプリ https://sekapri.com > ...",
+    "url": "https://sekapri.com/3dprinter/20240524-17692/",
+    "pass": 3
+   },
+   {
+    "quote": "Bridging innovation and defense in the Asia Pacific: SPEE3D's ... — Bridging innovation and defense in the Asia Pacific: SPEE3D's ... ASM International https://www.asminternational.org > br...",
+    "url": "https://www.asminternational.org/bridging-innovation-and-defense-in-the-asia-pacific-spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3D brings metal cold spray 3D printing to Japan Ground ... — SPEE3D brings metal cold spray 3D printing to Japan Ground ... TCT Magazine https://www.tctmagazine.com > spee3...",
+    "url": "https://www.tctmagazine.com/spee3d-brings-metal-cold-spray-3d-printing-to-japan-ground-s/",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3D's 3D Printers to Transform Japan's Military Operations — SPEE3D's 3D Printers to Transform Japan's Military Operations Darwin Innovation Hub https://darwininnovationhub.com.au > ...",
+    "url": "https://darwininnovationhub.com.au/spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3D - LinkedIn — SPEE3D - LinkedIn LinkedIn Australia https://au.linkedin.com > spee3d",
+    "url": "https://au.linkedin.com/company/spee3d",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - SPEE3D 3D Metal Printing — Case Studies - SPEE3D 3D Metal Printing SPEE3D Metal Printing https://www.spee3d.com > case-studies",
+    "url": "https://www.spee3d.com/resources/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3D's technology is shaping the future of how metal parts ... — SPEE3D's technology is shaping the future of how metal parts ... Manufacturing Today https://manufacturing-today.com > sp...",
+    "url": "https://manufacturing-today.com/news/spee3ds-technology-is-shaping-the-future-of-how-metal-parts-are-produced/",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3D : the world's fastest and most innovative metal ... — SPEE3D : the world's fastest and most innovative metal ... Global Victoria https://global.vic.gov.au > spee3d",
+    "url": "https://global.vic.gov.au/get-help-to-export/exporter-stories/spee3d",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3D Announces US-Based Manufacturing Facility and ... — SPEE3D Announces US-Based Manufacturing Facility and ... SPEE3D Metal Printing https://www.spee3d.com > spee3d-an...",
+    "url": "https://www.spee3d.com/spee3d-announces-us-based-manufacturing-facility-and-applications-center/",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3D Stock Price, Funding , Valuation ... - CB Insights — SPEE3D Stock Price, Funding , Valuation ... - CB Insights CB Insights https://www.cbinsights.com > financials",
+    "url": "https://www.cbinsights.com/company/spee3d/financials",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3D - IMCRC — SPEE3D - IMCRC imcrc https://www.imcrc.org > case-study-s...",
+    "url": "https://www.imcrc.org/case-study-spee3d/",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3D 2026 Company Profile: Valuation, Funding & Investors — SPEE3D 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/246872-26",
+    "pass": 3
+   },
+   {
+    "quote": "3D metal manufacturer Spee3d in IPO roadshow ahead ... - AFR — 3D metal manufacturer Spee3d in IPO roadshow ahead ... - AFR AFR https://www.afr.com > street-talk > 3d...",
+    "url": "https://www.afr.com/street-talk/3d-metal-manufacturer-spee3d-in-ipo-roadshow-ahead-of-november-float-20250929-p5myt9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "SPEE3D (@OfficialSPEE3D) / X SPEE3D (@OfficialSPEE3D) / X X https://x.com > OfficialSPEE3D",
+    "url": "https://x.com/OfficialSPEE3D",
+    "pass": 3
+   },
+   {
+    "quote": "APDR on X: \" SPEE3D kicks off 50-factory Asia Pacific ... APDR on X: \" SPEE3D kicks off 50-factory Asia Pacific ... X https://x.com > @APDR_APAC",
+    "url": "https://x.com/APDR_APAC/status/2119926332847005850",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3D - X SPEE3D - X X https://x.com > @OfficialSPEE3D",
+    "url": "https://x.com/OfficialSPEE3D/status/2117564959832117738",
+    "pass": 3
+   },
+   {
+    "quote": "防衛省 陸上自衛隊 on X: \"土浦駐屯地では #XSPEE3D ... 防衛省 陸上自衛隊 on X: \"土浦駐屯地では #XSPEE3D ... X https://x.com > @JGSDF_pr",
+    "url": "https://x.com/JGSDF_pr/status/1821856538623193364",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SPEE3D - LinkedIn SPEE3D - LinkedIn LinkedIn Australia https://au.linkedin.com > spee3d",
+    "url": "https://au.linkedin.com/company/spee3d",
+    "pass": 3
+   },
+   {
+    "quote": "‏ SPEE3D ‏ | LinkedIn ‏ SPEE3D ‏ | LinkedIn LinkedIn https://tn.linkedin.com > spee3d",
+    "url": "https://tn.linkedin.com/company/spee3d",
+    "pass": 3
+   },
+   {
+    "quote": "CriticalSPEE3D - SPEE3D 3D Metal Printing - LinkedIn CriticalSPEE3D - SPEE3D 3D Metal Printing - LinkedIn LinkedIn https://www.linkedin.com > posts > sp...",
+    "url": "https://www.linkedin.com/posts/spee3d_criticalspee3d-spee3d-3d-metal-printing-activity-7525383078563979265-nQgd",
+    "pass": 3
+   },
+   {
+    "quote": "Byron Kennedy - CEO SPEE3D - LinkedIn Byron Kennedy - CEO SPEE3D - LinkedIn LinkedIn Australia https://au.linkedin.com > byronjkenn...",
+    "url": "https://au.linkedin.com/in/byronjkennedy",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "SPEE3D (@SPEE3Dofficial) - Facebook SPEE3D (@SPEE3Dofficial) - Facebook Facebook https://www.facebook.com > ... > Business service",
+    "url": "https://www.facebook.com/SPEE3Dofficial/",
+    "pass": 3
+   },
+   {
+    "quote": "WarpSpee3d is the world's first large-format metal 3D printer ... WarpSpee3d is the world's first large-format metal 3D printer ... Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/ASME.org/videos/warpspee3d-is-the-worlds-first-large-format-metal-3d-printer-using-cold-spray-te/1156612408992451/",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3D is a cutting edge business in Victoria that has ... SPEE3D is a cutting edge business in Victoria that has ... Facebook https://www.facebook.com > ayrestim > posts > spee3d-is-...",
+    "url": "https://www.facebook.com/ayrestim/posts/spee3d-is-a-cutting-edge-business-in-victoria-that-has-developed-high-speed-3d-m/1216465390288346/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.spee3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spee3d.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spee3d.com/industries/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spee3d.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spee3d.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spee3d.com/industries/defence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spee3d.com/industries/oems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spee3d.com/industries/maritime/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spee3d.com/industries/natural-resources/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spee3d.com/industries/rd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spee3d.com/industries/parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spee3d.com/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spee3d.com/whitepaper/ensuring-compliance-and-ip-confidence-in-metal-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spee3d.com/whitepaper/metal-additive-manufacturing-the-opportunity-in-oil-and-gas/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.spee3d.com/wp-content/uploads/2023/11/Partners-Hero.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.spee3d.com/wp-content/uploads/2023/10/Manufacturing-Hero.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.cadjapan.com/news/2023/d20230915_03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/jgsdf.fp/videos/%E9%99%B8%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A-%E3%81%AF%E9%98%B2%E8%A1%9B%E5%8A%9B%E3%81%AE%E6%8A%9C%E6%9C%AC%E7%9A%84%E5%BC%B7%E5%8C%96-%E3%81%AE%E4%B8%80%E7%92%B0%E3%81%A8%E3%81%97%E3%81%A6%E6%95%B4%E5%82%99%E8%83%BD%E5%8A%9B%E3%82%92%E5%BC%B7%E5%8C%96%E3%81%99%E3%81%B9%E3%81%8F%EF%BC%93%EF%BD%84%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC-%E3%81%AE%E5%B0%8E%E5%85%A5%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E5%8F%96%E7%B5%84%E3%82%92%E9%80%B2%E3%82%81%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E9%83%A8%E5%93%81%E7%AD%89%E3%81%AE%E8%A3%9C%E7%B5%A6%E3%81%8C%E9%9B%A3%E3%81%97%E3%81%84%E6%B4%BB%E5%8B%95%E5%9C%B0%E5%9F%9F%E3%81%A7%E3%82%82%EF%BC%93%EF%BD%84%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC/1030915528478654/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/jgdsf-spee3d/?srsltid=AYCX9vIe89FWFrY81mXksPdOv5I8b40XFqzpkAr9Q1ksGhTwEFn55h_i",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/spee3d-point-of-need-challenge-230613/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sekapri.com/3dprinter/20240524-17692/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asminternational.org/bridging-innovation-and-defense-in-the-asia-pacific-spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tctmagazine.com/spee3d-brings-metal-cold-spray-3d-printing-to-japan-ground-s/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://darwininnovationhub.com.au/spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vIHQuAWFqddS4sfJjXByD7jGhzCtEk0GIQiskEyROLDq63Lp8EW",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturing-today.com/news/spee3ds-technology-is-shaping-the-future-of-how-metal-parts-are-produced/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3deo.co/metal-3d-printing-applications-customer-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.connectreseller.com/blog/white-label-vs-custom-domain-reseller-programs-which-to-choose/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webinone.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/spee3d/financials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imcrc.org/case-study-spee3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/246872-26",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/OfficialSPEE3D",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/APDR_APAC/status/2119926332847005850",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OfficialSPEE3D/status/2117564959832117738",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JGSDF_pr/status/1821856538623193364",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/company/spee3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tn.linkedin.com/company/spee3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/spee3d_criticalspee3d-spee3d-3d-metal-printing-activity-7525383078563979265-nQgd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/in/byronjkennedy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SPEE3Dofficial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ASME.org/videos/warpspee3d-is-the-worlds-first-large-format-metal-3d-printer-using-cold-spray-te/1156612408992451/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ayrestim/posts/spee3d-is-a-cutting-edge-business-in-victoria-that-has-developed-high-speed-3d-m/1216465390288346/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/company/spee3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OfficialSPEE3D",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Spee3D 日本 導入",
+   "results": [
+    "https://www.spee3d.com/ja/%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E9%98%B2%E8%A1%9B%E3%81%AE%E6%9E%B6%E3%81%91%E6%A9%8B-spee3ds%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%8C/",
+    "https://www.cadjapan.com/news/2023/d20230915_03.html",
+    "https://www.facebook.com/jgsdf.fp/videos/%E9%99%B8%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A-%E3%81%AF%E9%98%B2%E8%A1%9B%E5%8A%9B%E3%81%AE%E6%8A%9C%E6%9C%AC%E7%9A%84%E5%BC%B7%E5%8C%96-%E3%81%AE%E4%B8%80%E7%92%B0%E3%81%A8%E3%81%97%E3%81%A6%E6%95%B4%E5%82%99%E8%83%BD%E5%8A%9B%E3%82%92%E5%BC%B7%E5%8C%96%E3%81%99%E3%81%B9%E3%81%8F%EF%BC%93%EF%BD%84%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC-%E3%81%AE%E5%B0%8E%E5%85%A5%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E5%8F%96%E7%B5%84%E3%82%92%E9%80%B2%E3%82%81%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E9%83%A8%E5%93%81%E7%AD%89%E3%81%AE%E8%A3%9C%E7%B5%A6%E3%81%8C%E9%9B%A3%E3%81%97%E3%81%84%E6%B4%BB%E5%8B%95%E5%9C%B0%E5%9F%9F%E3%81%A7%E3%82%82%EF%BC%93%EF%BD%84%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC/1030915528478654/",
+    "https://idarts.co.jp/3dp/jgdsf-spee3d/?srsltid=AYCX9vIe89FWFrY81mXksPdOv5I8b40XFqzpkAr9Q1ksGhTwEFn55h_i",
+    "http://www.nihonbinary.co.jp/Products/3DModeling/SPEE3D.html",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/spee3d%E3%81%8C%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E6%94%BF%E5%BA%9C%E3%81%A8%E6%8F%90%E6%90%BA%E3%81%97%E3%80%81%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E3%81%AB3d/",
+    "https://www.spee3d.com/ja/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8Bspee3d%E9%87%91/",
+    "https://www.asminternational.org/bridging-innovation-and-defense-in-the-asia-pacific-spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/spee3d-point-of-need-challenge-230613/",
+    "https://www.spee3d.com/ja/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Spee3D 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.spee3d.com/ja/%E4%B8%96%E7%95%8C%E6%9C%80%E9%80%9F%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%8A%80%E8%A1%93%E3%81%8C%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%E3%81%B8/",
+    "https://www.spee3d.com/ja/",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/spee3d-point-of-need-challenge-230613/",
+    "https://sekapri.com/3dprinter/20240524-17692/",
+    "https://www.cadjapan.com/news/2023/d20230915_03.html",
+    "https://www.japanmetal.com/news-h2019080189926.html",
+    "https://partners.solize.com/3dp-sales",
+    "https://www.spee3d.com/",
+    "https://imagemagic.jp/ceoblog/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%9B%BD%E5%86%85%E7%8B%AC%E5%8D%A0%E8%B2%A9%E5%A3%B2%E5%A5%91%E7%B4%84",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Spee3D Japan",
+   "results": [
+    "https://www.spee3d.com/ja/",
+    "https://www.asminternational.org/bridging-innovation-and-defense-in-the-asia-pacific-spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "https://www.tctmagazine.com/spee3d-brings-metal-cold-spray-3d-printing-to-japan-ground-s/",
+    "https://darwininnovationhub.com.au/spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "https://au.linkedin.com/company/spee3d",
+    "https://3dprint.com/303335/japan-ground-self-defense-force-buys-spee3d-metal-3d-printers/",
+    "https://en.wikipedia.org/wiki/Speed_(Japanese_band)",
+    "https://www.spee3d.com/bridging-innovation-and-defence-spee3ds-3d-printers-to-transform-japans-military-operations/",
+    "https://www.engineering.com/spee3d-brings-metal-cold-spray-am-to-japans-military/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Spee3D manufacturing customer case study",
+   "results": [
+    "https://www.spee3d.com/resources/case-studies/",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vIHQuAWFqddS4sfJjXByD7jGhzCtEk0GIQiskEyROLDq63Lp8EW",
+    "https://manufacturing-today.com/news/spee3ds-technology-is-shaping-the-future-of-how-metal-parts-are-produced/",
+    "https://www.3deo.co/metal-3d-printing-applications-customer-case-studies/",
+    "https://global.vic.gov.au/get-help-to-export/exporter-stories/spee3d",
+    "https://proto3000.com/resources/case_studies/",
+    "https://www.tth.com/resources/case-studies",
+    "https://www.youtube.com/watch?v=9LXYi54Qbbw",
+    "https://australiasnorthernterritory.com.au/invest/invest-news-and-insights/case-study-spee3d2",
+    "https://www.spee3d.com/case_study/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Spee3D white label OR reseller OR partner program",
+   "results": [
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.connectreseller.com/blog/white-label-vs-custom-domain-reseller-programs-which-to-choose/",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://webinone.com/reseller-program",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://www.spee3d.com/new-partner-new-continent/",
+    "https://www.ituonline.com/blogs/white-label-solutions/",
+    "https://wayfront.com/blog/white-label-reseller-programs",
+    "https://posbytz.com/en/partners/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Spee3D founded funding employees revenue",
+   "results": [
+    "https://www.spee3d.com/spee3d-announces-us-based-manufacturing-facility-and-applications-center/",
+    "https://www.cbinsights.com/company/spee3d/financials",
+    "https://www.imcrc.org/case-study-spee3d/",
+    "https://pitchbook.com/profiles/company/246872-26",
+    "https://www.afr.com/street-talk/3d-metal-manufacturer-spee3d-in-ipo-roadshow-ahead-of-november-float-20250929-p5myt9",
+    "https://www.youtube.com/watch?v=30r54qHN5Rc",
+    "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "https://global.vic.gov.au/get-help-to-export/exporter-stories/spee3d",
+    "https://www.facebook.com/3dprintcom/posts/according-to-its-latest-financial-update-6k-additive-generated-72-million-in-rev/1817712643728854/",
+    "https://acquirezy.com/organization/spee3d"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Spee3D",
+   "results": [
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/umdcad/n/n821d9997218f?hl=en",
+    "https://note.com/calm_orchid4712/n/n17584093d251?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://tales.note.com/speed_of_thanks",
+    "https://tales.note.com/build4speed/works",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/modern_ferret431/n/n37965c97c3d3"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com Spee3D",
+   "results": [
+    "https://x.com/OfficialSPEE3D",
+    "https://x.com/APDR_APAC/status/2119926332847005850",
+    "https://x.com/OfficialSPEE3D/status/2117564959832117738",
+    "https://x.com/JGSDF_pr/status/1821856538623193364",
+    "https://x.com/macdonaldncode/status/2117582921431450047",
+    "https://x.com/JGSDF_pr/status/1821856536773456365",
+    "https://x.com/AusIndiaCentre",
+    "https://x.com/KagawaTomo/status/2065355815238963291",
+    "https://x.com/foxcoer",
+    "https://x.com/officialspee3d"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Spee3D",
+   "results": [
+    "https://au.linkedin.com/company/spee3d",
+    "https://tn.linkedin.com/company/spee3d",
+    "https://www.linkedin.com/posts/spee3d_criticalspee3d-spee3d-3d-metal-printing-activity-7525383078563979265-nQgd",
+    "https://au.linkedin.com/in/byronjkennedy",
+    "https://au.linkedin.com/in/steven-camilleri-a78597189",
+    "https://www.linkedin.com/posts/spee3d_from-blueprint-to-battlefield-activity-7308704329085947904-Li6a",
+    "https://www.linkedin.com/in/pierredevaux",
+    "https://au.linkedin.com/in/matthew-harbidge-3589b8164",
+    "https://be.linkedin.com/in/carlcorten",
+    "https://www.linkedin.com/company/spee3d"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Spee3D",
+   "results": [
+    "https://www.facebook.com/SPEE3Dofficial/",
+    "https://www.facebook.com/ASME.org/videos/warpspee3d-is-the-worlds-first-large-format-metal-3d-printer-using-cold-spray-te/1156612408992451/",
+    "https://www.facebook.com/ayrestim/posts/spee3d-is-a-cutting-edge-business-in-victoria-that-has-developed-high-speed-3d-m/1216465390288346/",
+    "https://www.facebook.com/lukegoslingmp/posts/spee3d-the-territory-advanced-manufacturing-company-has-gone-international-in-re/1558527669655170/",
+    "https://www.facebook.com/SPEE3Dofficial/posts/today-in-darwin-were-about-to-launch-criticalspee3dthis-afternoon-guests-from-in/1790195469776314/",
+    "https://www.facebook.com/SPEE3Dofficial/videos/we-are-proud-to-introduce-to-you-the-worlds-fastest-deployable-metal-3d-printer/883085326402154/",
+    "https://www.facebook.com/asiapacificdefencereporter/posts/spee3d-kicks-off-50-factory-asia-pacific-advanced-manufacturing-network-read-mor/1610505414451248/",
+    "https://www.facebook.com/SPEE3Dofficial/photos/at-spee3d-we-celebrate-the-incredible-women-and-men-on-our-team-every-day-acknow/941062014689668/",
+    "https://www.facebook.com/SPEE3Dofficial/photos/5205722766158676/",
+    "https://www.facebook.com/SPEE3Dofficial/posts/we-are-proud-to-announce-that-spee3d-has-been-selected-alongside-our-consortium-/1544079594387904/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Spee3D note 社長",
+   "results": [
+    "https://www.spee3d.com/spee3d-welcomes-new-global-ceo/",
+    "https://3dprint.com/332364/spee3d-appoints-new-global-ceo-to-support-expanded-us-focus/",
+    "https://www.imcrc.org/case-study-spee3d/",
+    "https://au.linkedin.com/company/spee3d",
+    "https://www.facebook.com/SPEE3Dofficial/",
+    "https://www.spee3d.com/ja/%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E9%98%B2%E8%A1%9B%E3%81%AE%E6%9E%B6%E3%81%91%E6%A9%8B-spee3ds%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%8C/",
+    "https://global.vic.gov.au/get-help-to-export/exporter-stories/spee3d",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/spee3d-point-of-need-challenge-230613/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.spee3d.com/ja/spee3d-welcomes-new-global-ceo/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Spee3D X 投稿",
+   "results": [
+    "https://www.spee3d.com/ja/%E4%B8%96%E7%95%8C%E6%9C%80%E9%80%9F%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%A4%E3%83%B3%E3%83%AF%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E5%9E%8B%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA/",
+    "https://x.com/OfficialSPEE3D",
+    "https://www.youtube.com/@SPEE3D",
+    "https://www.coldsprayteam.com/xspee3d-the-next-generation-of-expeditionary-metal-3d-printing",
+    "https://facfox.com/news/spee3d-introduces-xspee3d-3d-printing-processes/",
+    "https://www.3dprintingjournal.com/p/10-04-2022-spee3d-launched-the-xspee3d",
+    "https://www.spee3d.com/ja/",
+    "https://www.youtube.com/watch?v=yT_Noutx3bU",
+    "https://x.com/officialspee3d",
+    "https://x.com/Spee3D"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部31頁・検索12回）"
+ }
+}

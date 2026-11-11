@@ -1,0 +1,968 @@
+{
+ "name": "Planeus",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜返信あり",
+ "researched_at": "2026-11-11T04:22:09.088592+00:00",
+ "official_url": "https://www.planeus.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "planeus I Planning and Control - Plan smarter. Prevent sooner.",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Coordinate production projects, orders, and resources",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Analyze past performance with reports and production data",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Check production disruptions & KPIs in real time",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Our well-proven implementation processes and training methodologies.",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "That’s why planeus is built on a building-block approach with over 50 Logic Blocks. Each block solves a specific planning problem and can be",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Model Context Protocol (MCP) and LLMs",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": ", focused on scalability, security, and continuous improvement.",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "At the same time, it offers flexible deployment options including on-premise environments for regulated and restricted use cases,",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "with no compromises in functionality, performance, or support",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Fast System Test-fitting Programs",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": ", planeus Pilot Programs let you test-fit new planning logics with your existing data before committing to a live system.",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": ", evaluate what’s needed, and see estimated improvements — without system-wide rollouts, custom development, or long IT projects.",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Meet our team and explore a planeus Pilot Program",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing is facing a new era — where sustainable success depends on transparency, agility, and continious improvement. From high-volume production to prototype and regulated manufacturing, planeus connects tasks, people, machines, processes, and resources — pushing the boundaries of operation foresight and intelligent task automation to the next level.",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Automate test cycles, arrange multi-compliance processes, and assign tasks based on skill & qualifications.",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Precision Metal Processing",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Balance workloads across machines, reduce changeover times, and keep factory running at full speed.",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Orchestrate key teams and stations, prioritize the assembly hierarchies, and complete every task on time.",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Plastics & Polymer Processing",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Optimize mold and machine usage, maximize capacity utilization, and adapt to changing properties.",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Synchronize batch operations, qualified staff and compliance-critical resources to keep production flowing smooth and on schedule.",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Food & Beverage Production",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "How Much Profit Are You Losing to Planning Inefficiency?",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "We have found planeus a worthwhile investment for our entire business and our organizational structure for production.",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Demo-Version - planeus I Planning and Control - Plan smarter. Prevent sooner.",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "Coordinate production projects, orders, and resources",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "Analyze past performance with reports and production data",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "Check production disruptions & KPIs in real time",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "Our well-proven implementation processes and training methodologies.",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "Start Production Planning for Free",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "In the next 14 days, you’ll have exclusive access to experience how planeus’s modern production planning strategies apply in real production scenarios.",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "I would like to receive marketing communications regarding products, services, and events from th data GmbH.",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-departmental collaboration in productions",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "Instant alerts on real-time production bottlenecks",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "Full overview of ongoing and upcoming processes",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "Secure your own planeus system today, and witness how a goal-oriented manufacturing solution transforms your production to a cost-efficient, profitable and predictable success.",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "The automation features of planeus have revolutionized our production planning, allowing us to create detailed plans in a fraction of the time it used to take.",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "Once a quarter, gain insight into the most exciting topics related to digital production.",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "By continuing, you agree to receive marketing materials about th data’s products, services and events. You can cancel this subscription anytime.",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "We use the lead generation service provided by Leadinfo B.V., Rotterdam, Netherlands. This service identifies visits to our website by businesses based on IP addresses and displays publicly available information about them.",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "in the privacy policy.",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "planeus | Digitale Produktionsplanung & Steuerung",
+    "url": "https://planeus-solutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Projekte, Aufträge & Ressourcen detailliert planen",
+    "url": "https://planeus-solutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Betriebsdatenerfassung für Produktionsmitarbeiter",
+    "url": "https://planeus-solutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Reports erstellen und Produktions­daten auswerten",
+    "url": "https://planeus-solutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Störungen & Kennzahlen in Echtzeit überprüfen",
+    "url": "https://planeus-solutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Individuelles Projekt­manage­ment auf Augenhöhe ist unsere Expertise.",
+    "url": "https://planeus-solutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Erfolgreiche Projekte und zufriedene Nutzer sind unser Anspruch.",
+    "url": "https://planeus-solutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Wissenswerte Themen zur Produktionsplanung übersichtlich aufbereitet.",
+    "url": "https://planeus-solutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Immer einen Schritt voraus mit unseren Videos zu den wichtigsten planeus-Funktionen.",
+    "url": "https://planeus-solutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Produktions­planung nach dem Baukastenprinzip",
+    "url": "https://planeus-solutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "planeus macht Produktionsplanung",
+    "url": "https://planeus-solutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "praxisnah und anpassbar",
+    "url": "https://planeus-solutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Über 50 Bausteine lassen sich nach Ihrem Bedarf kombinieren – für effiziente Prozesse von Top­floor bis Shop­floor. Die Cloud-basierte Plattform ist sofort einsatzbereit, intuitiv bedien­bar und immer aktuell.",
+    "url": "https://planeus-solutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Die neue Generation der Produktions­planung: entwickelt von Planern für Planer.",
+    "url": "https://planeus-solutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Smarte Funktionen wie der KI-Co-Planer erleichtern Entscheidungen und ermöglichen einen 360-Grad-Blick auf Produktion, Prüfstände, Labor und regulierte Umgebungen.",
+    "url": "https://planeus-solutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "In der Produktion entscheiden oft die kleinsten Stellschrauben über Erfolg oder Stillstand. Genau dort setzt planeus an.",
+    "url": "https://planeus-solutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "und macht komplexe Prozesse einfacher. Das reduziert den manuellen Aufwand erheblich und macht das Arbeiten schneller.",
+    "url": "https://planeus-solutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Die Cloud, die sofort produktiv ist",
+    "url": "https://planeus-solutions.com/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Plan ahead using shop floor data collection",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Smart manufacturing out of the box — for manufacturers of all sizes and industries!",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "What made us your ideal partner to digitally transform your manufacturing business.",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "See the latest development in digital manufacturing with insights from our experts.",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Join planeuss's global movement toward future-oriented manufacturing.",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing is facing a new era — where sustainable success depends on transparency, agility, and continious improvement. From high-volume production to prototype and regulated manufacturing, planeus connects tasks, people, machines, processes, and resources — pushing the boundaries of operation foresight and intelligent task automation to the next level.",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Balance workloads across machines, reduce changeover times, and keep factory running at full speed.",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Wood & Furniture Manufacturing",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Batch Pharmaceutical Manufacturing",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "planeus has simply eliminated a lot of our fruitless internal meetings for our manufacturing department.",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Integrate Planning & Control directly into your ERP, BI, MES, and operational platforms, seamlessly bridging the gap between management decisions and shop floor execution.",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Plan ahead using shop floor data collection",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "Smart manufacturing out of the box — for manufacturers of all sizes and industries!",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "What made us your ideal partner to digitally transform your manufacturing business.",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "See the latest development in digital manufacturing with insights from our experts.",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "Join planeuss's global movement toward future-oriented manufacturing.",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "Secure your own planeus system today, and witness how a goal-oriented manufacturing solution transforms your production to a cost-efficient, profitable and predictable success.",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Manufacturing out of the Box: für jede Firmengröße und jede Branche!",
+    "url": "https://planeus-solutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Spannende Beiträge unserer Experten rund um das Thema Digital Manufacturing.",
+    "url": "https://planeus-solutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "planeus is the production planning and control system for manufacturers to track, monitor and visualise their production management. From large corporations in the DAX Index, to small & medium-sized enterprises, their softwares have helped numerous customers to manage their core manufacturing processes.",
+    "url": "https://www.casestudies.com/company/planeus",
+    "pass": 3
+   },
+   {
+    "quote": "Plan ahead using shop floor data collection",
+    "url": "https://planeus-solutions.com/en/why-planeus/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Smart manufacturing out of the box — for manufacturers of all sizes and industries!",
+    "url": "https://planeus-solutions.com/en/why-planeus/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "What made us your ideal partner to digitally transform your manufacturing business.",
+    "url": "https://planeus-solutions.com/en/why-planeus/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "See the latest development in digital manufacturing with insights from our experts.",
+    "url": "https://planeus-solutions.com/en/why-planeus/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Join planeuss's global movement toward future-oriented manufacturing.",
+    "url": "https://planeus-solutions.com/en/why-planeus/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Reliable and Faster Deliveries for Electronics Manufacturing",
+    "url": "https://planeus-solutions.com/en/why-planeus/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing is the industry of transparency, productivity, and trust. We know our customers and value effective communication and long-term relationships.",
+    "url": "https://planeus-solutions.com/en/why-planeus/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "See the following feedback from our partnering manufacturers, who successfully transformed their manufacturing processes with planeus and our services:",
+    "url": "https://planeus-solutions.com/en/why-planeus/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "From in-house toolmaking to on-site sampling, information management is the lifeline and pulse to our manufacturing business. All individuals, teams, departments and factories are in this together, and they all need to access the right information, at the right time.",
+    "url": "https://planeus-solutions.com/en/why-planeus/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "a driving force for a better, more efficient manufacturing process.",
+    "url": "https://planeus-solutions.com/en/why-planeus/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "“As a leading manufacturer of",
+    "url": "https://planeus-solutions.com/en/why-planeus/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "– Robert Kiesewetter, Tech. Industrial Trainer/ Transformation Manager &",
+    "url": "https://planeus-solutions.com/en/why-planeus/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Get the full case study (PDF)",
+    "url": "https://planeus-solutions.com/en/why-planeus/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "8 Tips to Successfully Implement a Manufacturing Planning Software",
+    "url": "https://planeus-solutions.com/en/why-planeus/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Searching for the right way to implement your manufacturing planning software? Then it’s for you: Download this whitepaper now for free!",
+    "url": "https://planeus-solutions.com/en/why-planeus/customer-stories/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "We are an international team of highly qualified employees.",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Automate test cycles, arrange multi-compliance processes, and assign tasks based on skill & qualifications.",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "We are an international team of highly qualified employees.",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "We are an international team of highly qualified employees.",
+    "url": "https://planeus-solutions.com/en/why-planeus/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "a fast and effective information acquisition process.",
+    "url": "https://planeus-solutions.com/en/why-planeus/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "The system is intuitive and well-structured, and our employees really appreciate using it. We’ve now using planeus to",
+    "url": "https://planeus-solutions.com/en/why-planeus/customer-stories/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "planeus I Planning and Control - Plan smarter. Prevent sooner. — planeus is an industry-proven, new generation Planning & Control solution, delivering a transformative leap in planning and operational methodologies for manufacturing, testing, laboratory, and regulated industries.",
+    "url": "https://planeus-solutions.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Planeus ユニットテスト — Jan 23, 2025 · Planeusの始め方 Planeusは、視覚的な計画ボードを備えた生産計画ツールであり、ユーザーに生産プロセスの直感的で包括的な概要を提供します。このプラットフォームは、すべての重要な要素を明確かつ体系的な方法で提示することで、生産計画の簡素化と明確化を目指しています。 動画による ...",
+    "url": "https://support.tulip.co/docs/ja/planeus-unit-test",
+    "pass": 3
+   },
+   {
+    "quote": "Demo-Version - planeus I Planning and Control - Plan smarter ... — Start planning with planeus is completely free of charge. For the next 14 days, you have unrestricted access to all the powerful planning features of on tablets, PCs, and smartphones.",
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "pass": 3
+   },
+   {
+    "quote": "planeus | Digitale Produktionsplanung & Steuerung — planeus macht Produktionsplanung praxisnah und anpassbar Über 50 Bausteine lassen sich nach Ihrem Bedarf kombinieren – für effiziente Prozesse von Topfloor bis Shopfloor. Die Cloud-basierte Plattform ist sofort einsatzbereit, intuitiv bedienbar und immer aktuell.",
+    "url": "https://planeus-solutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "planeus B2B Case Studies & Customer Successes — planeus is the production planning and control system for manufacturers to track, monitor and visualise their production management. From large corporations in the DAX Index, to small & medium-sized enterprises, their softwares have helped numerous customers to manage their core manufacturing processes.",
+    "url": "https://www.casestudies.com/company/planeus",
+    "pass": 3
+   },
+   {
+    "quote": "User Stories - planeus I Planning and Control - Plan smarter ... — Manufacturing is the industry of transparency, productivity, and trust. We know our customers and value effective communication and long-term relationships. See the following feedback from our partnering manufacturers, who successfully transformed their manufacturing processes with planeus and our services:",
+    "url": "https://planeus-solutions.com/en/why-planeus/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - downloads.planeus-solutions.com — Looking Ahead HellBa GmbH continues to refine its operations with planeus, leveraging its insights and tools to drive further improvements. By managing diverse customer requirements more effectively and optimizing resource use, the company is well-positioned to deliver high-quality products while meeting the unique demands of its clients.",
+    "url": "https://downloads.planeus-solutions.com/planeus-Case-Study_HellBa-GmbH_en.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - downloads.planeus-solutions.com — The Manufacturer Weidmüller is a global leader in industrial connectivity solutions, specializing in power, signal, and data applications. Thüringische Weidmüller GmbH, established in 1990 in Wutha-Farnroda, Germany, is one of the key manufacturing sites of the Weidmüller Group. At this location, over 300 employees focus on manufacturing components pr",
+    "url": "https://downloads.planeus-solutions.com/planeus-Case-Study_Thueringische-Weidmueller-GmbH_en.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "planeus - Crunchbase Company Profile & Funding — planeus provides manufacturing execution and digital production planning software for industrial companies. The platform supports detailed planning of projects, orders, work steps, employees, and machines using Gantt-based scheduling and automated planning algorithms.",
+    "url": "https://www.crunchbase.com/organization/planeus",
+    "pass": 3
+   },
+   {
+    "quote": "Planus - Crunchbase Company Profile & FundingPlanus 2026 Company Profile: Valuation, Investors ... - PitchBookPlanus Group Revenue, Funding & Valuation - prospeo.ioplaneus - 2025 Company Profile & Competitors - TracxnPlanus - Products, Competitors, Financials, Employees ...About us - planeus I Planning and Control - Plan smarter ... — The company offers cloud, networking, projects and services, di",
+    "url": "https://www.crunchbase.com/organization/planus",
+    "pass": 3
+   },
+   {
+    "quote": "Planus 2026 Company Profile: Valuation, Investors ... - PitchBookPlanus Group Revenue, Funding & Valuation - prospeo.ioplaneus - 2025 Company Profile & Competitors - TracxnPlanus - Products, Competitors, Financials, Employees ...About us - planeus I Planning and Control - Plan smarter ... — Planus has 200 total employees. What industry is Planus in? Planus’s primary industry is Systems and Informa",
+    "url": "https://pitchbook.com/profiles/company/434009-62",
+    "pass": 3
+   },
+   {
+    "quote": "planeus - 2025 Company Profile & Competitors - Tracxn — May 13, 2025 · planeus - About the company planeus is an unfunded company based in Berlin (Germany), founded in 2018. It operates as a Provides software development services. planeus has not raised any funding yet. The company has 61986 active competitors, including 548 funded and 1569 that have exited.",
+    "url": "https://tracxn.com/d/companies/planeus/__z9kah-milQQYCpEELf9RwSCUhxmrFgEgfGlDt5eCQu4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "planeus | Planning & Control | LinkedIn planeus is an industry-proven, new generation Planning & Control solution, delivering a transformative leap in planning and operational methodologies for complex, real-world constraints. Unlike ...",
+    "url": "https://www.linkedin.com/showcase/planeus-en",
+    "pass": 3
+   },
+   {
+    "quote": "planeus | Planung & Steuerung der neuen Generation | LinkedIn planeus | Planung & Steuerung der neuen Generation | 1.059 Follower:innen auf LinkedIn. Produktionsplanung nach dem Baukastenprinzip - für Fertigung, Labor, Prüfstand und regulierte Umgebungen. | 𝗣𝗹𝗮𝗻𝘂𝗻𝗴 𝘃𝗼𝗻 𝗣𝗹𝗮𝗻𝗲𝗿𝗻 𝗴𝗲𝗺𝗮𝗰𝗵𝘁: 𝗽𝗹𝗮𝗻𝗲𝘂𝘀 𝗺𝗮𝗰𝗵𝘁 ...",
+    "url": "https://de.linkedin.com/showcase/planeus/",
+    "pass": 3
+   },
+   {
+    "quote": "planeus UK | Production Planning & Control - LinkedIn planeus is the production planning and control system for UK manufacturers 🇬🇧 to track, monitor and visualise their production planning. With planeus, you can —— 📊 Visualise order scheduling with powerful Gantt charts and schedule your operations using the smart algorithm. 🔔 React instantly to conflicts to keep a careful eye on your team's work",
+    "url": "https://uk.linkedin.com/showcase/planeus-uk-production-planning/",
+    "pass": 3
+   },
+   {
+    "quote": "planeus CH | Digitale Produktionsplanung | LinkedIn planeus CH | Digitale Produktionsplanung | 179 Follower:innen auf LinkedIn. planeus Schweiz 🇨🇭 | PPS Software für die Produktionsplanung 📊 Einfach & smart für komplexe Fertigungsstrukturen ️ | Jetzt auch in der Schweiz! Digitale Produktionsplanung aus der Cloud: für effiziente Produktionssteuerung und reibungslose Zusammenarbeit in der Fertigung.",
+    "url": "https://ch.linkedin.com/showcase/planeus-schweiz-digitale-produktionsplanung/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Melien Planeus - Facebook Melien Planeus is on Facebook. Join Facebook to connect with Melien Planeus and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/melien.planeus/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hugedomains.com/domain_profile.cfm?d=planeus.com",
+    "status": "http_403",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://planeus-solutions.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.tulip.co/docs/ja/planeus-unit-test",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://planeus-solutions.com/en/demo-version/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itmedia.co.jp/business/articles/2610/08/news016.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%90%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skyus.global/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.airbus.com/ja/about-us/our-worldwide-presence/airbus-in-asia-pacific/airbus-in-japan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/List_of_military_aircraft_of_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/List_of_aircraft_of_Japan_during_World_War_II",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://planeus-solutions.com/en/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://planeus-solutions.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/planeus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://planeus-solutions.com/en/why-planeus/customer-stories/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://downloads.planeus-solutions.com/planeus-Case-Study_HellBa-GmbH_en.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://downloads.planeus-solutions.com/planeus-Case-Study_Thueringische-Weidmueller-GmbH_en.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.appspace.com/resellers-alliances/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databricks.com/blog/introducing-new-databricks-partner-program-and-well-architected-framework-isvs-and-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/planeus",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/planus",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/434009-62",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/planus-group-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/showcase/planeus-en",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/showcase/planeus/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/showcase/planeus-uk-production-planning/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ch.linkedin.com/showcase/planeus-schweiz-digitale-produktionsplanung/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/melien.planeus/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Planeus 日本 導入",
+   "results": [
+    "https://planeus-solutions.com/en/",
+    "https://support.tulip.co/docs/ja/planeus-unit-test",
+    "https://planeus-solutions.com/en/demo-version/",
+    "https://www.itmedia.co.jp/business/articles/2610/08/news016.html",
+    "https://www.algo-artis.com/news/250603/",
+    "https://blogs.itmedia.co.jp/serial/2026/06/post_8695.html",
+    "https://jpn.nec.com/press/202609/20260902_03.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Planeus 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/エアバス",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.skyus.global/",
+    "https://www.airbus.com/ja/about-us/our-worldwide-presence/airbus-in-asia-pacific/airbus-in-japan",
+    "https://ja.nozominetworks.com/company",
+    "https://www.rapidus.inc/about/",
+    "https://maymobility.com/ja"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Planeus Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/List_of_military_aircraft_of_Japan",
+    "https://en.wikipedia.org/wiki/List_of_aircraft_of_Japan_during_World_War_II",
+    "https://planeus-solutions.com/en/",
+    "https://planeus-solutions.com/",
+    "https://www.globalmilitary.net/aircraft/country/jpn/",
+    "https://www.youtube.com/@planeus",
+    "https://www.linkedin.com/showcase/planeus-en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Planeus manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/planeus",
+    "https://planeus-solutions.com/en/why-planeus/customer-stories/",
+    "https://downloads.planeus-solutions.com/planeus-Case-Study_HellBa-GmbH_en.pdf",
+    "https://downloads.planeus-solutions.com/planeus-Case-Study_Thueringische-Weidmueller-GmbH_en.pdf",
+    "https://planeus-solutions.com/en/",
+    "https://www.casestudies.com/company/ruef-design/case-study/planes-companies-customer-case-study",
+    "https://help.planeus-solutions.com/customers"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Planeus white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://www.databricks.com/blog/introducing-new-databricks-partner-program-and-well-architected-framework-isvs-and-data",
+    "https://partners.adobe.com/digitalexperience/",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Planeus founded funding employees revenue",
+   "results": [
+    "https://www.crunchbase.com/organization/planeus",
+    "https://www.crunchbase.com/organization/planus",
+    "https://pitchbook.com/profiles/company/434009-62",
+    "https://prospeo.io/c/planus-group-revenue",
+    "https://tracxn.com/d/companies/planeus/__z9kah-milQQYCpEELf9RwSCUhxmrFgEgfGlDt5eCQu4",
+    "https://www.cbinsights.com/company/planus",
+    "https://planeus-solutions.com/en/why-planeus/about-us/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Planeus",
+   "results": [
+    "https://note.com/wakusei2nd",
+    "https://note.com/wakusei2nd/all",
+    "https://note.com/wakusei2nd/store",
+    "https://note.com/tag/ロングウォーク",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/wakusei2nd/n/n4844b9735e75?hl=en",
+    "https://note.com/realtn/n/n8bfa23f7e78f"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Planeus",
+   "results": [
+    "https://x.com/",
+    "https://x.com/59SouthLee/status/2119990466414293415",
+    "https://x.com/AllPlanets/status/2111746898067337428",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/Planetslife/status/2117769243181641791",
+    "https://x.com/bherbruckx/status/2110538385550946697",
+    "https://x.com/Planetslife/status/2114406877165695070",
+    "https://x.com/planetsandmagic",
+    "https://x.com/PLANETS_10"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com Planeus",
+   "results": [
+    "https://www.linkedin.com/showcase/planeus-en",
+    "https://de.linkedin.com/showcase/planeus/",
+    "https://uk.linkedin.com/showcase/planeus-uk-production-planning/",
+    "https://ch.linkedin.com/showcase/planeus-schweiz-digitale-produktionsplanung/",
+    "https://de.linkedin.com/in/uwe-zylka-1b369424",
+    "https://www.linkedin.com/company/th-data-gmbh",
+    "https://www.linkedin.com/posts/planeus-en_productionplanning-activity-7384186285990789122-7Hzn"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Planeus",
+   "results": [
+    "https://www.facebook.com/melien.planeus/",
+    "https://secure.facebook.com/login/",
+    "https://business.facebook.com/groups/rabotilnitzata/",
+    "https://business.facebook.com/groups/SciFanSociety/",
+    "https://www.facebook.com/cosmoknowledge/videos/watch-how-the-inner-planets-move-relative-to-earth/1308318791253120/",
+    "https://www.facebook.com/cosmoknowledge/videos/how-planets-move-relative-to-earth/2297973194321314/",
+    "https://www.facebook.com/depthofspace/videos/what-does-the-sun-look-like-from-other-planets-here-it-is-solarsystem-planets-sp/1248190877462984/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Planeus note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://planeus-solutions.com/en/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.wantedly.com/companies/company_1284824/members",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://prtimes.jp/main/html/rd/p/000000097.000080389.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Planeus X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）"
+ }
+}

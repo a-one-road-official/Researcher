@@ -1,0 +1,403 @@
+{
+ "name": "⭐️ProvenMetal",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T04:41:43.904431+00:00",
+ "official_url": "https://provenmetal.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "ProvenMetal · Fast PCB fabrication, assembly and sourcing",
+    "url": "https://provenmetal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We're hiring Founding Engineers",
+    "url": "https://provenmetal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "More than 50% of lead time isn't manufacturing. It's quoting, DFM review, and part sourcing. We integrate with manufacturers, automate processes, and cut lead times in half for our customers.",
+    "url": "https://provenmetal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Live production updates. Courier tracking to your door.",
+    "url": "https://provenmetal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Illustration of orders taking different routes through integrated fabs and assembly houses. ProvenMetal handles quoting and DFM, routes fabrication, and procures parts in parallel. Boards and kits meet at a shared junction before assembly starts. Finished boards ship with courier tracking.",
+    "url": "https://provenmetal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Procure · kit · consign",
+    "url": "https://provenmetal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hardware teams that move fast prototype up to 2x faster and can rely on a delivery date with ProvenMetal.",
+    "url": "https://provenmetal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How much faster will ProvenMetal quote me?",
+    "url": "https://provenmetal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated DFM review uses heuristic-based harnesses built on proprietary manufacturing and supply chain data.",
+    "url": "https://provenmetal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Founding Engineer — Careers | ProvenMetal",
+    "url": "https://provenmetal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We're hiring · San Francisco",
+    "url": "https://provenmetal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Any · new grads welcome",
+    "url": "https://provenmetal.com/careers",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "More than 50% of lead time isn't manufacturing. It's quoting, DFM review, and part sourcing. We integrate with manufacturers, automate processes, and cut lead times in half for our customers.",
+    "url": "https://provenmetal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing network",
+    "url": "https://provenmetal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We route orders through fabs and assembly houses based on speed, capability, and capacity. We integrate with those manufacturers, automating the front and back of house to reduce lead times.",
+    "url": "https://provenmetal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We match your build to the right manufacturers and coordinate every step.",
+    "url": "https://provenmetal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A coordinated manufacturing workflow",
+    "url": "https://provenmetal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated DFM review uses heuristic-based harnesses built on proprietary manufacturing and supply chain data.",
+    "url": "https://provenmetal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Help fix the domestic electronics manufacturing supply chain.",
+    "url": "https://provenmetal.com/careers",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://provenmetal.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://provenmetal.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://nordic9.com/news/provenmetal-joined-y-combinator-summer-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zeli.app/ja/story/50155440",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hakusoku.com/story/8981",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%BC%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/proterial-ltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.prominent.com/en/Company/Company/Locations/Locations.html?country=6318",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://craft.co/proterial",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.automate.org/motion-control/case-studies/how-metalgear-engineering-helped-a-manufacturer-achieve-a-10x-production-increase",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insighto.ai/blog/white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.livechat.com/blog/best-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/1440408-70",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/provenmetal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/provenmetal-provenmetal-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recentfunding.com/companies/provenmetal/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "⭐️ProvenMetal 日本 導入",
+   "results": [
+    "https://provenmetal.com/",
+    "https://nordic9.com/news/provenmetal-joined-y-combinator-summer-2026/",
+    "https://zeli.app/ja/story/50155440",
+    "https://www.hakusoku.com/story/8981",
+    "https://lgjjennie-ship-it.github.io/ai-gold/projects/2026-08-07-launch-hn-provenmetal-yc-s26-delivers-circuit-boards-in-days-instead-of-weeks/",
+    "https://global.honda/jp/news/2026/4260305b.html",
+    "https://www.instagram.com/reel/DdrHoNURMgG/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️ProvenMetal 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/シャーウィン・ウィリアムズ",
+    "https://jp.linkedin.com/company/proterial-ltd",
+    "https://www.prominent.com/en/Company/Company/Locations/Locations.html?country=6318",
+    "https://craft.co/proterial",
+    "https://www.houjin-bangou.nta.go.jp/en/index.html",
+    "https://www.bloomberg.com/profile/company/5486:JP",
+    "https://japan-company.net/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️ProvenMetal Japan",
+   "results": [
+    "https://provenmetal.com/resources",
+    "https://provenmetal.com/mcp",
+    "https://provenmetal.com/capabilities",
+    "https://provenmetal.com/suppliers",
+    "https://www.ycombinator.com/companies/provenmetal",
+    "https://provenmetal.com/",
+    "https://kokoistusa.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️ProvenMetal manufacturing customer case study",
+   "results": [
+    "https://provenmetal.com/capabilities",
+    "https://www.automate.org/motion-control/case-studies/how-metalgear-engineering-helped-a-manufacturer-achieve-a-10x-production-increase",
+    "https://provenmetal.com/resources",
+    "https://provenmetal.com/blog",
+    "https://automationscookbook.com/blog/provenmetal-cuts-circuit-board-lead-time-from-weeks-to-days-20260807/",
+    "https://presentofai.com/spotlight/provenmetal.com",
+    "https://provenmetal.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️ProvenMetal white label OR reseller OR partner program",
+   "results": [
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://insighto.ai/blog/white-label-reseller-programs/",
+    "https://partners.livechat.com/blog/best-reseller-programs/",
+    "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "https://buildfire.com/white-label-software-services-resell-make-money/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://wotnot.io/blog/white-label-reseller-programs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️ProvenMetal founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/1440408-70",
+    "https://www.cbinsights.com/company/provenmetal",
+    "https://fundediq.co/provenmetal-provenmetal-com-funding/",
+    "https://recentfunding.com/companies/provenmetal/",
+    "https://www.crunchbase.com/organization/provenmetal",
+    "https://app.dealroom.co/companies/provenmetal",
+    "https://nordic9.com/companies/provenmetal/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ⭐️ProvenMetal",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://tales.note.com/heihachiro555",
+    "https://note.com/jobantokkai531/n/nff392a81195a",
+    "https://tales.note.com/heihachiro555/w93uefuqjujn7",
+    "https://note.com/poppo_shibainu/n/n3bae5c4bd29f",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/lucky_ixora264/n/n79fb163dca91"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ⭐️ProvenMetal",
+   "results": [
+    "https://x.com/Provenmetal",
+    "https://x.com/provenmetal/with_replies",
+    "https://x.com/provenmetal/reposts",
+    "https://x.com/provenmetal/status/2076750167739617542",
+    "https://x.com/provenmetal/status/2097394619134980233",
+    "https://x.com/provenmetal/status/2109772121505460233",
+    "https://x.com/provenmetal/status/2110252950413357466"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ⭐️ProvenMetal",
+   "results": [
+    "https://www.linkedin.com/company/provenmetal",
+    "https://www.linkedin.com/in/will-carkner-518b77228",
+    "https://ke.linkedin.com/in/effie-aluoch",
+    "https://ca.linkedin.com/in/stuart-sherman-⭐️-8b5b83",
+    "https://www.linkedin.com/in/johnny-doyle-69022718a",
+    "https://www.linkedin.com/posts/y-combinator_provenmetal-yc-s26-is-manufacturing-the-activity-7482509158030786560-vNtD",
+    "https://www.linkedin.com/posts/will-carkner-518b77228_3-months-ago-i-was-putting-power-strips-activity-7475088946125819904-ax5Z"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ⭐️ProvenMetal",
+   "results": [
+    "https://www.facebook.com/ProvenMusic/",
+    "https://www.facebook.com/themetalromantic/videos/a-plain-white-garment-loves-to-see-me-coming-️-a-freshly-doodled-pair-of-overall/1127853073208371/",
+    "https://business.facebook.com/groups/218062818015437/",
+    "https://business.facebook.com/groups/517864768588397/",
+    "https://www.facebook.com/homesweetdesmoinesteam/posts/️️️️️julia-stender-realtor-realty-one-group-impact-your-trusted-iowa-realtor-515/1105837685700766/",
+    "https://www.facebook.com/groups/1387717382924932/posts/1679351847094816/",
+    "https://www.facebook.com/SVDPofDSM/videos/-the-christmas-store-is-open️️801-73rd-st-windsor-heights-ia-right-next-to-wild-/1028783463519429/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️ProvenMetal note 社長",
+   "results": [
+    "https://www.linkedin.com/in/johnny-doyle-69022718a",
+    "https://provenmetal.com/",
+    "https://www.linkedin.com/company/provenmetal",
+    "https://note.com/brave_lilac8063/n/nefb9ac79b9fe",
+    "https://recentfunding.com/companies/provenmetal/",
+    "https://newspicks.com/news/8082791/body/",
+    "https://www.ycombinator.com/companies/provenmetal"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️ProvenMetal X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部16頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部16頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部16頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部16頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部16頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部16頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部16頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部16頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部16頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部16頁・検索12回）"
+ }
+}

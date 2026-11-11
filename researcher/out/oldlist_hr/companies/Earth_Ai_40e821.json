@@ -1,0 +1,1154 @@
+{
+ "name": "Earth Ai",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜返信あり",
+ "researched_at": "2026-11-11T04:36:36.534555+00:00",
+ "official_url": "https://www.earth-ai.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "19-Aug-2019    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   },
+   {
+    "label": "Seed-3",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   },
+   {
+    "label": "Seed-2",
+    "value": "4,117,710 $0.000100 8% $0.25 $0.25 1x $0.25 6.47%",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "1,800,000 $0.000100 8% $0.23 $0.23 1x $0.23 2.83%",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The future needs 3x more mines comprising",
+    "url": "https://earth-ai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform combines precise mineral targeting with fast feedback loops from geology, drilling, lab and permitting teams",
+    "url": "https://earth-ai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Proprietary AI predicts potential new mine sites. Our geologists validate the targets on the ground.",
+    "url": "https://earth-ai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our proprietary rigs test targets beneath the surface. Lab provides feedback and reveals mineable grades.",
+    "url": "https://earth-ai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production & Monetization",
+    "url": "https://earth-ai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We advance the most promising projects through permitting, financing and mine planning, bringing new mineral supply to market.",
+    "url": "https://earth-ai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "この機能は、まずはアメリカ国内のGoogle Earth ProfessionalおよびProfessional Advancedユーザーに限定して提供され、今後拡大される予定です",
+    "url": "https://www.kkc.co.jp/service/blog/google-earth-engine/product-info/article/32537/",
+    "pass": 3
+   },
+   {
+    "quote": "お問合せ先：google_enterprise_sales@kk-grp.jp",
+    "url": "https://www.kkc.co.jp/service/blog/google-earth-engine/product-info/article/32537/",
+    "pass": 3
+   },
+   {
+    "quote": "DRC国立生物医学研究所(INRB)のUMIEは、Planetary Prediction Engineを使っています",
+    "url": "https://labmemo.com/google-earth-ai-geospatial-reasoning-agent-20261015/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、Planetary Prediction Engineの機能も早期プレビューが可能です",
+    "url": "https://labmemo.com/google-earth-ai-geospatial-reasoning-agent-20261015/",
+    "pass": 3
+   },
+   {
+    "quote": "純C言語のGPTが1,000万tok/s：microGPT-CがApple M5 Proで出す10,168,430 tok/sの仕組み——Karpathyの200行PythonをCに移植した依存ゼロ実装を解説",
+    "url": "https://labmemo.com/google-earth-ai-geospatial-reasoning-agent-20261015/",
+    "pass": 3
+   },
+   {
+    "quote": "microGPT-CはKarpathy氏の200行Python「microgpt」をC言語1ファイル・依存ゼロで再実装し、Apple M5 ProのNEONで毎秒1,016万トークンを達成しました",
+    "url": "https://labmemo.com/google-earth-ai-geospatial-reasoning-agent-20261015/",
+    "pass": 3
+   },
+   {
+    "quote": "Earth AI 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   },
+   {
+    "quote": "06-Apr-2022",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   },
+   {
+    "quote": "Precious Metals and Minerals Mining",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   },
+   {
+    "quote": "Buildings and Property",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   },
+   {
+    "quote": "Earth AI’s primary industry is Multi-line Mining.",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   },
+   {
+    "quote": "Is Earth AI a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   },
+   {
+    "quote": "Earth AI is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   },
+   {
+    "quote": "Predictive Analytics Software",
+    "url": "https://getlatka.com/companies/earth-ai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/earth-ai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/earth-ai.com",
+    "pass": 3
+   },
+   {
+    "quote": "• 米国のGoogle Earth Professionalユーザー",
+    "url": "https://note.com/yaandyu0423/n/n34106334625c",
+    "pass": 3
+   },
+   {
+    "quote": "• Google AI Pro／Ultraサブスクライバー（有料プラン）",
+    "url": "https://note.com/yaandyu0423/n/n34106334625c",
+    "pass": 3
+   },
+   {
+    "quote": "が、まずはアメリカ国内の「Google Earth Pro」（有料版ユーザー：Pro/Pro Advanced, AI Pro/Ultra）向けに、数週間以内に提供開始されることが発表されたんだ",
+    "url": "https://note.com/miccell/n/nd3e800c1849c",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "New mines can supply the minerals behind AI infrastructure, robotics, advanced energy, aerospace and defense.",
+    "url": "https://earth-ai.com/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Google Earth AI - AIが衛星データの解析を変える新時代へ | Google Earth Engine ブログ - 製品情報 | 商品・サービス | 国際航業株式会社",
+    "url": "https://www.kkc.co.jp/service/blog/google-earth-engine/product-info/article/32537/",
+    "pass": 3
+   },
+   {
+    "quote": "「東京にある●●小学校から 50 メートル以内にある雨水排水溝を全て探して",
+    "url": "https://www.kkc.co.jp/service/blog/google-earth-engine/product-info/article/32537/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の開発者がA2A API経由で試す方法",
+    "url": "https://labmemo.com/google-earth-ai-geospatial-reasoning-agent-20261015/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデータ：日本語圏の地理空間データは、Google Maps PlatformとData Commons経由での取得が中心になります",
+    "url": "https://labmemo.com/google-earth-ai-geospatial-reasoning-agent-20261015/",
+    "pass": 3
+   },
+   {
+    "quote": "国土地理院などの日本独自のオープンデータとの連携は、ユーザー側の実装に委ねられる点にも留意が必要です",
+    "url": "https://labmemo.com/google-earth-ai-geospatial-reasoning-agent-20261015/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の開発者がA2A APIを試す場合、自社データは次の形式で入力できます",
+    "url": "https://labmemo.com/google-earth-ai-geospatial-reasoning-agent-20261015/",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、国土地理院のオープンデータや各自治体のGISデータと、Googleのグローバルモデルをどう組み合わせるかが実務的な焦点になります",
+    "url": "https://labmemo.com/google-earth-ai-geospatial-reasoning-agent-20261015/",
+    "pass": 3
+   },
+   {
+    "quote": "より高性能なモデルでの再評価や、日本語圏の地理空間データとの統合が進めば、日本での応用範囲も広がります",
+    "url": "https://labmemo.com/google-earth-ai-geospatial-reasoning-agent-20261015/",
+    "pass": 3
+   },
+   {
+    "quote": "Q: 日本語のデータや日本の地域でも使えますか?",
+    "url": "https://labmemo.com/google-earth-ai-geospatial-reasoning-agent-20261015/",
+    "pass": 3
+   },
+   {
+    "quote": "A: Google Maps Platform・Earth Engine・Data Commons経由で日本の地理空間データにもアクセスできますが、国土地理院など日本独自のオープンデータとの連携は利用者側の実装が必要です",
+    "url": "https://labmemo.com/google-earth-ai-geospatial-reasoning-agent-20261015/",
+    "pass": 3
+   },
+   {
+    "quote": "Google Japan Blog(日本語版記事)",
+    "url": "https://labmemo.com/google-earth-ai-geospatial-reasoning-agent-20261015/",
+    "pass": 3
+   },
+   {
+    "quote": "AIエージェントを仕事で活用する方法：企業・政府の導入事例と初心者ガイド【2026年最新版】",
+    "url": "https://labmemo.com/google-earth-ai-geospatial-reasoning-agent-20261015/",
+    "pass": 3
+   },
+   {
+    "quote": "9カ国+AI企業9社がAI安全で「パリ宣言」――共通評価と停止機構、日本も署名",
+    "url": "https://labmemo.com/google-earth-ai-geospatial-reasoning-agent-20261015/",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府「戦略17分野」に370兆円投資——AI国家戦略の全貌",
+    "url": "https://labmemo.com/google-earth-ai-geospatial-reasoning-agent-20261015/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お問合せ先：google_enterprise_sales@kk-grp.jp",
+    "url": "https://www.kkc.co.jp/service/blog/google-earth-engine/product-info/article/32537/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Google Earth AI – AIが衛星データの解析を変える新時代へ — Nov 13, 2025 · Google Earth AIは、一言でいうと「地球のあらゆる情報を、人々の具体的な行動につながる情報に変える」ための、コンピューターシステムです。 Earth AIは、これまでGoogle Earth等が何十年もかけて集めてきた地球全体の情報（衛星画像、天気の情報、人口の情報等）や、 最新の予測モデル（未来の ...",
+    "url": "https://www.kkc.co.jp/service/blog/google-earth-engine/product-info/article/32537/",
+    "pass": 3
+   },
+   {
+    "quote": "Google Earth AI Geospatial Reasoning解説｜WHO事例とベンチマーク — Oct 15, 2026 · GoogleのGeospatial Reasoningエージェントを解説。Gemini 3.8 Flashの4構成比較、GeoExpertQueriesなどのベンチマーク、WHOのエボラ対応やGiveDirectlyの災害支援での実運用事例、A2A APIの始め方まで。",
+    "url": "https://labmemo.com/google-earth-ai-geospatial-reasoning-agent-20261015/",
+    "pass": 3
+   },
+   {
+    "quote": "EARTH AI - LinkedIn — EARTH AI Mining San Francisco, California 9,154 followers EARTH AI is a high-performance explorer for clean energy metals.",
+    "url": "https://www.linkedin.com/company/earth-ai",
+    "pass": 3
+   },
+   {
+    "quote": "EARTH AI - 2026 Company Profile & Team - TracxnEARTH AI – Business Snapshot & Rival Analysis – 2026Earth AI 2026 Company Profile: Valuation, Funding & Investors ...EARTH AI Revenue 2024: $3.2M Est. - getlatka.comEARTH AI — Company Profile & Funding | Indexed.vcEarth AI - Overview, News & Similar companies | ZoomInfo.comEARTH AI: Ukrainian-Founded Startup | Spilni — Sep 13, 2026 · EARTH AI - About ",
+    "url": "https://tracxn.com/d/companies/earth-ai/__J7x1mos7YzKRWJFt73lmdQw9ODINgJy0vqPHaM4bkoo",
+    "pass": 3
+   },
+   {
+    "quote": "EARTH AI – Business Snapshot & Rival Analysis – 2026 — Discover EARTH AI's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/earth-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Earth AI 2026 Company Profile: Valuation, Funding & Investors ...EARTH AI Revenue 2024: $3.2M Est. - getlatka.comEARTH AI — Company Profile & Funding | Indexed.vcEarth AI - Overview, News & Similar companies | ZoomInfo.comEARTH AI: Ukrainian-Founded Startup | Spilni — Information on valuation, funding, cap tables, investors, and executives for Earth AI. Use the PitchBook Platform to explore the fu",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   },
+   {
+    "quote": "EARTH AI Revenue 2024: $3.2M Est. - getlatka.com — Oct 30, 2026 · EARTH AI 2024 estimated revenue: $3.2M. 21 employees. Industry: Mining & Natural Resources. Founded 2016. HQ: United States. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/earth-ai.com",
+    "pass": 3
+   },
+   {
+    "quote": "EARTH AI — Company Profile & Funding | Indexed.vc — EARTH AI is a Climate Tech company based in San Francisco, United States, founded in 2016. It has raised $29.7M in total across 5 rounds, most recently a $20.0M Series B round in Jan 2025.",
+    "url": "https://indexed.vc/companies/earth-ai",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   },
+   {
+    "quote": "Earth AI has 36 total employees.",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   },
+   {
+    "quote": "What is Earth AI’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Earth AI is",
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "pass": 3
+   },
+   {
+    "quote": "EARTH AI Revenue 2024: $3.2M Est.",
+    "url": "https://getlatka.com/companies/earth-ai.com",
+    "pass": 3
+   },
+   {
+    "quote": "EARTH AI has not published its revenue. GetLatka estimates it at about $3.2M a year (December 2024).",
+    "url": "https://getlatka.com/companies/earth-ai.com",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/earth-ai.com",
+    "pass": 3
+   },
+   {
+    "quote": "EARTH AI CEO, founders & employees",
+    "url": "https://getlatka.com/companies/earth-ai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Roman Teslyuk founded EARTH AI in 2016 and runs it as CEO. EARTH AI had 21 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/earth-ai.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is EARTH AI's revenue?",
+    "url": "https://getlatka.com/companies/earth-ai.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates EARTH AI's revenue at about",
+    "url": "https://getlatka.com/companies/earth-ai.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does EARTH AI have?",
+    "url": "https://getlatka.com/companies/earth-ai.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/earth-ai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/earth-ai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/earth-ai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/earth-ai.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Google、「Earth AI」大幅アップグレード──AIが地球の未来を“予測”す... Oct 25, 2025 · Googleは木曜日、地球観測とAIを融合させた次世代プラットフォーム「Earth AI（アースAI）」の大規模アップグレードを発表しました。 今回の改良により、Googleの最新AIモデル「Gemini」が気象・人口・衛星データを統合して分析できるようになり、自然言語（人間の言葉）での質問から気候変動や ...",
+    "url": "https://note.com/yaandyu0423/n/n34106334625c",
+    "pass": 3
+   },
+   {
+    "quote": "Google Earth AIが変える地球の未来──革新的ジオスペーシャルAIで環境... Aug 2, 2025 · Googleが発表した「Google Earth AI」は、従来の地図解析を大きく超える革新的ジオスペーシャルAIです。これまで数か月、時には数年かかっていた環境分析を、AIがほぼリアルタイムで実現。衛星データと最新モデルの融合によって、気候変動対策、森林保護、都市開発の在り方を根本から変えよう ...",
+    "url": "https://note.com/pika2_hikaru/n/na64ac7c9437b",
+    "pass": 3
+   },
+   {
+    "quote": "Google Earth AI「第二章」へ。Gemini搭載で「未来を推論するAI」に進... Oct 23, 2025 · 子どもの頃、Google Earthを開いて、世界中の景色を眺めたり、自分の家を探したりしてワクワクした経験、きっとあるよね？ 僕もあの「どこへでも行ける」感覚が大好きだったんだ。 でも、あれはあくまで「今、そこにある地球」や「過去の地球」を見るためのツールだった。 もし、その地図上 ...",
+    "url": "https://note.com/miccell/n/nd3e800c1849c",
+    "pass": 3
+   },
+   {
+    "quote": "見過ごされた鉱脈！Earth AIが発見した重要鉱物 Mar 26, 2025 · この成功は、Earth AIの技術とビジョンの現実性を証明するものでした。 Earth AIのアプローチは、KoBold社のような他のAIを活用した資源探査企業とは異なります。 KoBold社もAIを用いていますが、Earth AIは、より広範囲かつ効率的なスキャンに特化しています。",
+    "url": "https://note.com/ai_solution/n/nba0f75f571ce",
+    "pass": 3
+   },
+   {
+    "quote": "初めてのYouTubeショート動画｜Earth.MarlinTuna 2 days ago · こんにちは、Earth.MarlinTunaです。 今回は初めてYouTubeにショート動画を投稿したことを話そうと思います。 初めての投稿 11月6日人生で初めてYouTubeに動画を投稿しました。 動画の内容はAIにBlenderで作ってもらった茶室のシーンを映したものです。",
+    "url": "https://note.com/earth_marlintuna/n/ndfa49efbf9fe",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Google、「Earth AI」大幅アップグレード──AIが地球の未来を“予測”する時代へ｜松尾靖隆",
+    "url": "https://note.com/yaandyu0423/n/n34106334625c",
+    "pass": 3
+   },
+   {
+    "quote": "Google、「Earth AI」大幅アップグレード──AIが地球の未来を“予測”する時代へ",
+    "url": "https://note.com/yaandyu0423/n/n34106334625c",
+    "pass": 3
+   },
+   {
+    "quote": "Googleは木曜日、地球観測とAIを融合させた次世代プラットフォーム「Earth AI（アースAI）」の大規模アップグレードを発表しました。",
+    "url": "https://note.com/yaandyu0423/n/n34106334625c",
+    "pass": 3
+   },
+   {
+    "quote": "今回の改良により、Googleの最新AIモデル「Gemini」が気象・人口・衛星データを統合して分析できるようになり、自然言語（人間の言葉）での質問から気候変動や環境リスクを理解・予測することが可能になりました。",
+    "url": "https://note.com/yaandyu0423/n/n34106334625c",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、「今後3か月で洪水のリスクが高い地域は？」と聞くだけで、AIが衛星画像・気象データ・地形情報などを自動で組み合わせ、最も被害を受けやすい地域を特定してくれるのです。",
+    "url": "https://note.com/yaandyu0423/n/n34106334625c",
+    "pass": 3
+   },
+   {
+    "quote": "今回のアップグレードの中心にあるのが「地理空間推論（Geospatial Reasoning）」という新技術です。",
+    "url": "https://note.com/yaandyu0423/n/n34106334625c",
+    "pass": 3
+   },
+   {
+    "quote": "これは、AIが複数の地球関連データ（気象・地形・人口分布・インフラ情報など）を自動で関連付け、現実世界の出来事を推論・予測する仕組みです。",
+    "url": "https://note.com/yaandyu0423/n/n34106334625c",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、ハリケーンが発生する可能性が高いエリアをAIが検知すると、その地域の人口密度や建物の強度なども同時に分析し、**「どのコミュニティが最も危険にさらされているか」**を特定できます。",
+    "url": "https://note.com/yaandyu0423/n/n34106334625c",
+    "pass": 3
+   },
+   {
+    "quote": "Google Earth AIが変える地球の未来──革新的ジオスペーシャルAIで環境課題に挑む｜ピカピカ光 | AI × 日常",
+    "url": "https://note.com/pika2_hikaru/n/na64ac7c9437b",
+    "pass": 3
+   },
+   {
+    "quote": "Google Earth AIが変える地球の未来──革新的ジオスペーシャルAIで環境課題に挑む",
+    "url": "https://note.com/pika2_hikaru/n/na64ac7c9437b",
+    "pass": 3
+   },
+   {
+    "quote": "Googleが発表した「Google Earth AI」は、従来の地図解析を大きく超える",
+    "url": "https://note.com/pika2_hikaru/n/na64ac7c9437b",
+    "pass": 3
+   },
+   {
+    "quote": "です。これまで数か月、時には数年かかっていた環境分析を、AIがほぼリアルタイムで実現。衛星データと最新モデルの融合によって、気候変動対策、森林保護、都市開発の在り方を根本から変えようとしています。今回はそんなGoogle Earth AIについて簡単にまとめてみました。",
+    "url": "https://note.com/pika2_hikaru/n/na64ac7c9437b",
+    "pass": 3
+   },
+   {
+    "quote": "Google Earth AIは、従来の地図サービスを単なる「表示ツール」から「未来を描く意思決定エンジン」へと進化させました。",
+    "url": "https://note.com/pika2_hikaru/n/na64ac7c9437b",
+    "pass": 3
+   },
+   {
+    "quote": "AIが衛星画像を解析し、数時間以内に森林破壊や災害リスクを検出",
+    "url": "https://note.com/pika2_hikaru/n/na64ac7c9437b",
+    "pass": 3
+   },
+   {
+    "quote": "衛星から見た地球と、AIによるデータ解析を重ねた未来的なイメージ",
+    "url": "https://note.com/pika2_hikaru/n/na64ac7c9437b",
+    "pass": 3
+   },
+   {
+    "quote": "従来は専門家が時間をかけて行っていた分析を、AIがほぼリアルタイムで実施します。",
+    "url": "https://note.com/pika2_hikaru/n/na64ac7c9437b",
+    "pass": 3
+   },
+   {
+    "quote": "Google Earth AI「第二章」へ。Gemini搭載で「未来を推論するAI」に進化した“仕組み”とは｜Miccell(ミクセル) / 人生を楽しむ仕組みを作る",
+    "url": "https://note.com/miccell/n/nd3e800c1849c",
+    "pass": 3
+   },
+   {
+    "quote": "Google Earth AI「第二章」へ。Gemini搭載で「未来を推論するAI」に進化した“仕組み”とは",
+    "url": "https://note.com/miccell/n/nd3e800c1849c",
+    "pass": 3
+   },
+   {
+    "quote": "Miccell(ミクセル) / 人生を楽しむ仕組みを作る",
+    "url": "https://note.com/miccell/n/nd3e800c1849c",
+    "pass": 3
+   },
+   {
+    "quote": "子どもの頃、Google Earthを開いて、世界中の景色を眺めたり、自分の家を探したりしてワクワクした経験、きっとあるよね？",
+    "url": "https://note.com/miccell/n/nd3e800c1849c",
+    "pass": 3
+   },
+   {
+    "quote": "僕もあの「どこへでも行ける」感覚が大好きだったんだ。",
+    "url": "https://note.com/miccell/n/nd3e800c1849c",
+    "pass": 3
+   },
+   {
+    "quote": "でも、あれはあくまで「今、そこにある地球」や「過去の地球」を見るためのツールだった。",
+    "url": "https://note.com/miccell/n/nd3e800c1849c",
+    "pass": 3
+   },
+   {
+    "quote": "もし、その地図上で「10年後の気候変動」をシミュレーションしたり、「数時間後に起こりうる洪水のリスク」を予測したりできるとしたら、どうだろう？",
+    "url": "https://note.com/miccell/n/nd3e800c1849c",
+    "pass": 3
+   },
+   {
+    "quote": "Googleは「AlphaEarth Foundations」という高性能な衛星画像AIを発表し、「地球の\"デジタルツイン\"化」の可能性を示したんだ。",
+    "url": "https://note.com/miccell/n/nd3e800c1849c",
+    "pass": 3
+   },
+   {
+    "quote": "見過ごされた鉱脈！Earth AIが発見した重要鉱物｜AIソリューションオフィス",
+    "url": "https://note.com/ai_solution/n/nba0f75f571ce",
+    "pass": 3
+   },
+   {
+    "quote": "見過ごされた鉱脈！Earth AIが発見した重要鉱物",
+    "url": "https://note.com/ai_solution/n/nba0f75f571ce",
+    "pass": 3
+   },
+   {
+    "quote": "オーストラリアの秘境、そしてAIの革命：眠れる鉱脈を呼び覚ます地球AIの挑戦",
+    "url": "https://note.com/ai_solution/n/nba0f75f571ce",
+    "pass": 3
+   },
+   {
+    "quote": "かつて、資源開発は時間と巨額の費用をかけた地道な作業でした。何十年にも及ぶ探査、膨大な人材と設備、そして不確実な成功率。これは、まさに「宝探し」という言葉が相応しい、リスクの高い事業でした。しかし、この状況は、人工知能（AI）の台頭によって劇的に変わりつつあります。",
+    "url": "https://note.com/ai_solution/n/nba0f75f571ce",
+    "pass": 3
+   },
+   {
+    "quote": "その最前線にいるのが、Earth AIです。この革新的なスタートアップ企業は、長年見過ごされてきたオーストラリアの鉱脈に、莫大な量の銅、コバルト、金、銀、モリブデン、錫といった貴重な資源が眠っていることを発見しました。その規模は、昨年ザンビアでKoBold社が発見した、10年以上で最大級の銅鉱床に匹敵する可能性すら秘めていると囁かれています。",
+    "url": "https://note.com/ai_solution/n/nba0f75f571ce",
+    "pass": 3
+   },
+   {
+    "quote": "Earth AIの成功の鍵は、独自のAIアルゴリズムにあります。創業者兼CEOであるRoman Teslyuk氏は、シドニー大学での博士課程研究中にこの画期的な技術を開発しました。オーストラリア政府が鉱物資源の権利を所有し、6年ごとのリース制度を敷いているという独自の環境下で、彼は過去の探査データの山に注目しました。何十年にもわたって蓄積された、数百万人の地質学者による膨大なデータ、成功と失敗の記録。これらをAIが分析することで、これまで不可能だった精度で、資源埋蔵地の予測が可能になったのです。",
+    "url": "https://note.com/ai_solution/n/nba0f75f571ce",
+    "pass": 3
+   },
+   {
+    "quote": "Teslyuk氏の着想は、まさに天才的と言えるでしょう。膨大な量の既存データを活用し、過去の失敗から学び、将来の成功を予測する。これは、まさに「失敗から学ぶ」という概念を、資源探査という分野に革命的に応用したと言えるでしょう。従来の探査方法では、何十年もの歳月と莫大な費用を費やしても、成果が得られない可能性がありました。しかし、Earth AIのAIアルゴリズムは、広大な地域を迅速かつ効率的にスキャンし、従来の方法では見逃されていた潜在的な鉱床を正確に特定します。これは、単なる効率化のレベルを超え、資源探査のパラダイムシフトと言えるでしょう。",
+    "url": "https://note.com/ai_solution/n/nba0f75f571ce",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、Teslyuk氏の道のりは平坦ではありませんでした。当初、Earth AIはソフトウェア企業として、潜在的な鉱床の予測を顧客に提供するビジネスモデルを採用しました。しかし、実績のない新技術に巨額の投資を行うことに、保守的な採掘業界は躊躇を示しました。「採掘業界は非常に保守的な業界です。承認された教義以外のことは、異端とみなされます」とTeslyuk氏は語ります。",
+    "url": "https://note.com/ai_solution/n/nba0f75f571ce",
+    "pass": 3
+   },
+   {
+    "quote": "初めてのYouTubeショート動画｜Earth.MarlinTuna",
+    "url": "https://note.com/earth_marlintuna/n/ndfa49efbf9fe",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは、Earth.MarlinTunaです。",
+    "url": "https://note.com/earth_marlintuna/n/ndfa49efbf9fe",
+    "pass": 3
+   },
+   {
+    "quote": "今回は初めてYouTubeにショート動画を投稿したことを話そうと思います。",
+    "url": "https://note.com/earth_marlintuna/n/ndfa49efbf9fe",
+    "pass": 3
+   },
+   {
+    "quote": "11月6日人生で初めてYouTubeに動画を投稿しました。",
+    "url": "https://note.com/earth_marlintuna/n/ndfa49efbf9fe",
+    "pass": 3
+   },
+   {
+    "quote": "動画の内容はAIにBlenderで作ってもらった茶室のシーンを映したものです。",
+    "url": "https://note.com/earth_marlintuna/n/ndfa49efbf9fe",
+    "pass": 3
+   },
+   {
+    "quote": "11/9に確認したところ465回視聴がされていました。",
+    "url": "https://note.com/earth_marlintuna/n/ndfa49efbf9fe",
+    "pass": 3
+   },
+   {
+    "quote": "初めてにしてはかなり良いのではないかと思います。",
+    "url": "https://note.com/earth_marlintuna/n/ndfa49efbf9fe",
+    "pass": 3
+   },
+   {
+    "quote": "始めた理由は、Boothで販売を開始した『AIマテリアルパック』の使用例を作りたいと思ったからです。",
+    "url": "https://note.com/earth_marlintuna/n/ndfa49efbf9fe",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Explorers of EARTH AI (@earthaiexplore) / Posts / X Apr 17, 2018 · We just added a new layer to how Earth AI operates 🚀 Until now, we’ve built across AI, exploration, and drilling, but lab analysis was still a bottleneck. So we brought it in-house. Earth AI now processes its own drill core samples, cutting turnaround time from 5 months to 5 days. Faster data means better decisions. And better deci",
+    "url": "https://x.com/earthaiexplore",
+    "pass": 3
+   },
+   {
+    "quote": "Sundar Pichai on X: \"Google Earth AI, our collection of ... Oct 23, 2025 · Google Earth AI, our collection of geospatial AI models and datasets, is expanding globally and adding new capabilities. That includes Geospatial Reasoning, powered by Gemini, which automatically connects different Earth AI models - like weather forecasts, population maps + satellite imagery - to a…",
+    "url": "https://x.com/sundarpichai/status/1981431087004794927",
+    "pass": 3
+   },
+   {
+    "quote": "Google Earth on X: \"We are thrilled to announce that Google’s ... Mar 9, 2026 · We are thrilled to announce that Google’s Satellite Embedding dataset, powered by @GoogleDeepMind 's AlphaEarth Foundations model, has been updated for 2025. This additional year of coverage now unlocks the ability to look back, compare, and detect change across the planet with unprecedented clarity. Learn more here ️ ",
+    "url": "https://x.com/googleearth/status/2031024842498023718",
+    "pass": 3
+   },
+   {
+    "quote": "Google Earth on X: \"Today we’re bringing AI image generation ... Jul 31, 2026 · Today we’re bringing AI image generation with Nano Banana to Google Earth, letting you virtually reimagine anywhere in the real world. 🍌 goo.gle/44SUsOP For the first time, you can generate custom images using Google Earth’s satellite, aerial, and 3D imagery. 🌎",
+    "url": "https://x.com/googleearth/status/2082818165503902043",
+    "pass": 3
+   },
+   {
+    "quote": "Jin's Earth | 1 in 8 Billion on X: \"A day ago this was one AI ... Oct 27, 2026 · A day ago this was one AI prompt: \"Make a game where you're born as a random person out of 8 billion and live their whole life.\" Since then: 100K views, 224 comments, 42 updates from player feedback, and now an English version.",
+    "url": "https://x.com/jins__earth/status/2107438239338602982",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "EARTH AI - LinkedIn EARTH AI Mining San Francisco, California 9,154 followers EARTH AI is a high-performance explorer for clean energy metals.",
+    "url": "https://www.linkedin.com/company/earth-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Roman Teslyuk - Discovering critical mineral deposits with AI ...Isabella Sykes - COO at EARTH AI | LinkedInSarah Reiman - Laboratory Manager - Earth AI | LinkedInGenady Beryozkin - Tech Lead/Manager, Earth AI, Google ...George Groff - President at EARTH AI | LinkedInDR. EARTH AI TECHNOLOGIES (Formerly Sreemudranalaya ... Apr 30, 2012 · Discovering critical mineral deposits with AI and Drilling · ",
+    "url": "https://www.linkedin.com/in/roman-teslyuk-a344881a",
+    "pass": 3
+   },
+   {
+    "quote": "Isabella Sykes - COO at EARTH AI | LinkedInSarah Reiman - Laboratory Manager - Earth AI | LinkedInGenady Beryozkin - Tech Lead/Manager, Earth AI, Google ...George Groff - President at EARTH AI | LinkedInDR. EARTH AI TECHNOLOGIES (Formerly Sreemudranalaya ... COO at EARTH AI · Experience: EARTH AI · Education: University of Sydney · Location: Greater Sydney Area · 500+ connections on LinkedIn. View",
+    "url": "https://au.linkedin.com/in/isabella-sykes-78309115a",
+    "pass": 3
+   },
+   {
+    "quote": "Sarah Reiman - Laboratory Manager - Earth AI | LinkedInGenady Beryozkin - Tech Lead/Manager, Earth AI, Google ...George Groff - President at EARTH AI | LinkedInDR. EARTH AI TECHNOLOGIES (Formerly Sreemudranalaya ... Laboratory Manager - Earth AI · Experience: EARTH AI · Education: LET Training - RTO 41179 · Location: Paralowie · 326 connections on LinkedIn. View Sarah Reiman’s profile on LinkedIn,",
+    "url": "https://au.linkedin.com/in/sarah-reiman-98a1b981",
+    "pass": 3
+   },
+   {
+    "quote": "Roman Teslyuk - Discovering critical mineral deposits with AI ...経営チーム｜note株式会社加藤貞顕 - WikipediaTeam — EARTH AIRoman Teslyuk | USEA | United States Energy AssociationRoman Teslyuk - CEO, CTO & Founder @ EARTH AI - Crunchbase Apr 30, 2012 · Discovering critical mineral deposits with AI and Drilling · Founder and CEO/CTO at EARTH AI building a super-efficient vertically integrated metals exploration ",
+    "url": "https://www.linkedin.com/in/roman-teslyuk-a344881a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "EARTH AI - Facebook Jun 15, 2026 · EARTH AI. 141 likes · 1 talking about this. Fast-tracking sustainable future! EARTH AI is a predictive explorer and driller for critical metals.",
+    "url": "https://www.facebook.com/earthaiexplore/",
+    "pass": 3
+   },
+   {
+    "quote": "AI for Earth - Facebook Nov 23, 2025 · AI for Earth. 857 followers. Welcome to AI for Earth — a hub dedicated to exploring how artificial intelligence can power sustainability, protect our environment, and transform ESG performance.",
+    "url": "https://www.facebook.com/p/AI-for-Earth-61574761484558/",
+    "pass": 3
+   },
+   {
+    "quote": "Earth AI Operations Australia | Sydney NSW - Facebook Earth AI Operations Australia, Sydney. 6 followers. Making new discoveries via the first ever machine learning mineral exploration platform. #earthai...",
+    "url": "https://www.facebook.com/p/Earth-AI-Operations-Australia-100067614612709/",
+    "pass": 3
+   },
+   {
+    "quote": "Google Earth AI brings together our geospatial models for ...Aviv, a research scientist with Google Earth AI, walked us ...EARTH AI I.T Solutions | Parañaque - Facebook#panama #deprem #earth | برومبت ai prompt - Facebook Oct 23, 2025 · Google Earth AI brings together our geospatial models for floods, wildfires, cyclones, air quality and much more. Today, we’re advancing its capabilities and expand",
+    "url": "https://www.facebook.com/Google/videos/new-updates-and-more-access-to-google-earth-ai/2636023123399549/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://earth-ai.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.kkc.co.jp/service/blog/google-earth-engine/product-info/article/32537/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://labmemo.com/google-earth-ai-geospatial-reasoning-agent-20261015/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/cms/wp-content/uploads/2025/08/%E2%96%A0PR_20250812_%E3%83%AA%E3%83%83%E3%82%B8%E3%82%A2%E3%82%A4%E3%80%81%E6%97%A5%E6%9C%AC%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%E3%81%A8%E9%80%A3%E6%90%BA%E3%81%97%E3%80%81%E7%94%9F%E6%88%90AI%E3%81%A8%E5%9C%B0%E7%90%83%E8%A6%B3%E6%B8%AC%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E7%B5%B1%E5%90%88%E3%81%97%E3%81%9F%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%AE%E6%A7%8B%E7%AF%89%E3%82%92%E9%96%8B%E5%A7%8B.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/ai_labo26/n/nb6bdbf2c36a2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dolphin-s.co.jp.siteindices.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.anthropic.com/news/opening-our-tokyo-office",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.houjin.info/detail/3013303001693/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://247wallst.com/investing/2026/10/21/japan-is-just-months-away-from-running-out-of-a-critical-rare-earth-mineral-heres-why-rare-earths-are-becoming-ais-biggest-bottleneck/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth.com/science/japan-is-encouraging-people-to-use-ai-but-small-businesses-are-falling-behind/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/earth-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.kkc.co.jp/service/blog/google-earth-engine/product-info/article/32537/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aiformanufacturing.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://artificial-intelligence-wiki.com/industry-ai/manufacturing-and-industrial-automation/ai-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/ai-use-in-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elastic.co/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nebius.com/nebius-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/ai-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/earth-ai/__J7x1mos7YzKRWJFt73lmdQw9ODINgJy0vqPHaM4bkoo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/earth-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/186292-09",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/earth-ai.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yaandyu0423/n/n34106334625c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/pika2_hikaru/n/na64ac7c9437b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/miccell/n/nd3e800c1849c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_solution/n/nba0f75f571ce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/earthaiexplore",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sundarpichai/status/1981431087004794927",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/googleearth/status/2031024842498023718",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/googleearth/status/2082818165503902043",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/earth-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/roman-teslyuk-a344881a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/in/isabella-sykes-78309115a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/in/sarah-reiman-98a1b981",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/earthaiexplore/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/AI-for-Earth-61574761484558/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Earth-AI-Operations-Australia-100067614612709/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Google/videos/new-updates-and-more-access-to-google-earth-ai/2636023123399549/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/roman-teslyuk-a344881a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/earth_marlintuna/n/ndfa49efbf9fe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/jins__earth/status/2107438239338602982",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Earth Ai 日本 導入",
+   "results": [
+    "https://www.kkc.co.jp/service/blog/google-earth-engine/product-info/article/32537/",
+    "https://labmemo.com/google-earth-ai-geospatial-reasoning-agent-20261015/",
+    "https://ridge-i.com/cms/wp-content/uploads/2025/08/■PR_20250812_リッジアイ、日本マイクロソフトと連携し、生成AIと地球観測データを統合した次世代プラットフォームの構築を開始.pdf",
+    "https://note.com/ai_labo26/n/nb6bdbf2c36a2",
+    "https://prtimes.jp/main/html/rd/p/000000028.000085091.html",
+    "https://www.ai-souken.com/article/ai-adoption-japan-status",
+    "https://diamond.jp/articles/-/395504"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Earth Ai 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://www.anthropic.com/news/opening-our-tokyo-office",
+    "https://www.houjin.info/detail/3013303001693/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2",
+    "https://jpmktg.winbond.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Earth Ai Japan",
+   "results": [
+    "https://247wallst.com/investing/2026/10/21/japan-is-just-months-away-from-running-out-of-a-critical-rare-earth-mineral-heres-why-rare-earths-are-becoming-ais-biggest-bottleneck/",
+    "https://www.earth.com/science/japan-is-encouraging-people-to-use-ai-but-small-businesses-are-falling-behind/",
+    "https://www.linkedin.com/company/earth-ai",
+    "https://www.kkc.co.jp/service/blog/google-earth-engine/product-info/article/32537/",
+    "https://www.japan.go.jp/topics/AI.html",
+    "https://www.jenosize.com/en/ideas/futurist/japan-ai-earthquake-disaster-response",
+    "https://earth-ai.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Earth Ai manufacturing customer case study",
+   "results": [
+    "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "https://aiformanufacturing.org/",
+    "https://artificial-intelligence-wiki.com/industry-ai/manufacturing-and-industrial-automation/ai-manufacturing-case-studies/",
+    "https://digitaldefynd.com/IQ/ai-use-in-manufacturing-case-studies/",
+    "https://www.mckinsey.com/capabilities/tech-and-ai/case-studies",
+    "https://aiformanufacturing.org/case-studies",
+    "https://earth-ai.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Earth Ai white label OR reseller OR partner program",
+   "results": [
+    "https://www.elastic.co/partners/",
+    "https://partner.vw.com/",
+    "https://nebius.com/nebius-partner-program",
+    "https://customgpt.ai/ai-reseller-program/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.seoreseller.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Earth Ai founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/earth-ai/__J7x1mos7YzKRWJFt73lmdQw9ODINgJy0vqPHaM4bkoo",
+    "https://compworth.com/company/earth-ai",
+    "https://pitchbook.com/profiles/company/186292-09",
+    "https://getlatka.com/companies/earth-ai.com",
+    "https://indexed.vc/companies/earth-ai",
+    "https://www.zoominfo.com/c/earth-ai-inc/466260696",
+    "https://spilni.com/startups/earth-ai"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Earth Ai",
+   "results": [
+    "https://note.com/yaandyu0423/n/n34106334625c",
+    "https://note.com/pika2_hikaru/n/na64ac7c9437b",
+    "https://note.com/miccell/n/nd3e800c1849c",
+    "https://note.com/ai_solution/n/nba0f75f571ce",
+    "https://note.com/ai_step_ai/n/n8cd23195dc2f",
+    "https://note.com/yaandyu0423/n/ncc93aa0c51a0",
+    "https://note.com/sustainsight/n/n7863e2659a90"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Earth Ai",
+   "results": [
+    "https://x.com/earthaiexplore",
+    "https://x.com/sundarpichai/status/1981431087004794927",
+    "https://x.com/googleearth/status/2031024842498023718",
+    "https://x.com/googleearth/status/2082818165503902043",
+    "https://x.com/AI_TechSparks/status/2118033034532602330",
+    "https://x.com/coinbureau/status/2083412734881022176",
+    "https://x.com/aryap/status/2106587615273365770"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Earth Ai",
+   "results": [
+    "https://www.linkedin.com/company/earth-ai",
+    "https://www.linkedin.com/in/roman-teslyuk-a344881a",
+    "https://au.linkedin.com/in/isabella-sykes-78309115a",
+    "https://au.linkedin.com/in/sarah-reiman-98a1b981",
+    "https://il.linkedin.com/in/genady",
+    "https://ca.linkedin.com/in/george-groff-7741b8351",
+    "https://in.linkedin.com/company/sreemudranalaya-technology-private-limited"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Earth Ai",
+   "results": [
+    "https://www.facebook.com/earthaiexplore/",
+    "https://www.facebook.com/p/AI-for-Earth-61574761484558/",
+    "https://www.facebook.com/p/Earth-AI-Operations-Australia-100067614612709/",
+    "https://www.facebook.com/Google/videos/new-updates-and-more-access-to-google-earth-ai/2636023123399549/",
+    "https://www.facebook.com/lifeatgoogle/videos/google-earth-ai/2287609441737667/",
+    "https://www.facebook.com/p/EARTH-AI-IT-Solutions-61559005952628/",
+    "https://www.facebook.com/ai.prompt.ar/videos/panama-deprem-earth/1689719689156495/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Earth Ai note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.linkedin.com/in/roman-teslyuk-a344881a",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://endive-magenta-4z2g.squarespace.com/the-team",
+    "https://www.crunchbase.com/person/roman-teslyuk",
+    "https://earth-ai.com/",
+    "https://usea.org/profile/roman-teslyuk"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Earth Ai X 投稿",
+   "results": [
+    "https://note.com/earth_marlintuna/n/ndfa49efbf9fe",
+    "https://zhuanlan.zhihu.com/p/1969002140161804167",
+    "https://earth-ai.com/",
+    "https://x.com/jins__earth/status/2107438239338602982",
+    "https://www.pixiv.net/en/artworks/136061792",
+    "https://note.com/munou_ac/n/n3489f9572885",
+    "https://digirise.ai/chaen-ai-lab/x/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部43頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部43頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部43頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部43頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部43頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部43頁・検索12回）"
+ }
+}

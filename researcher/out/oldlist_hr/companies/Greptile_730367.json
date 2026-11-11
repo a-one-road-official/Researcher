@@ -1,0 +1,1216 @@
+{
+ "name": "Greptile",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜日本進出済",
+ "researched_at": "2026-11-11T04:19:27.750593+00:00",
+ "official_url": "https://www.greptile.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Introducing a new way to review your PRs.",
+    "url": "https://www.greptile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How Greptile reviews every PR",
+    "url": "https://www.greptile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Swarm of agents review the PR",
+    "url": "https://www.greptile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reads other engineers' comments to understand your coding standards.",
+    "url": "https://www.greptile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Three bugs that should not hit prod.",
+    "url": "https://www.greptile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Write standards in plain English, point Greptile at repo-specific context, and enforce the patterns your team actually cares about on every PR.",
+    "url": "https://www.greptile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Greptile learns your codebase and coding standards by reading your team' PR comments.",
+    "url": "https://www.greptile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomously Test Every PR",
+    "url": "https://www.greptile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "TREX runs your PR branch in a sandbox to catch the bugs that only show up at runtime.",
+    "url": "https://www.greptile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for enterprises across defense, healthcare, and financial services.",
+    "url": "https://www.greptile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We've been impressed by Greptile's code review quality. It's tightened our feedback loops, improved consistency, and freed up engineers to focus on higher-level design and architecture.",
+    "url": "https://www.greptile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Greptile helps the team do their best work. It levels everybody up and helps ensure that we're all proud of our code",
+    "url": "https://www.greptile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Greptile has been the first AI code review tool I've used that actually provides useful feedback on PRs. It's catching issues that human reviewers easily miss and giving senior-level suggestions to boot",
+    "url": "https://www.greptile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How does Greptile pricing work?",
+    "url": "https://www.greptile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Starter is free for one developer and includes 50 credits per month. Pro has no seat fees: you pay $1 per credit, and credits are shared across your whole organization.",
+    "url": "https://www.greptile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. You can self-host Greptile on your own infrastructure, on-premises or in your cloud, with Docker Compose or Kubernetes, and use your own LLM providers.",
+    "url": "https://www.greptile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Greptile offers free usage for qualified open source projects. Contact us to check your eligibility.",
+    "url": "https://www.greptile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What programming languages does Greptile support?",
+    "url": "https://www.greptile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Which code providers does Greptile support?",
+    "url": "https://www.greptile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We support GitHub, GitLab, Bitbucket, and Cursor Origin. Our Enterprise plan also supports GitHub Enterprise Server, GitHub Enterprise Cloud with data residency, GitLab Self-Managed, Bitbucket Data Center, and Gitea. For on-premises deployments, we support Perforce through P4 Code Review.",
+    "url": "https://www.greptile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing a new way to review your PRs.",
+    "url": "https://www.greptile.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Greptile identifies PR changes involving supported APIs, SDKs, configs, and integration code.",
+    "url": "https://www.greptile.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "For the integrations your product depends on.",
+    "url": "https://www.greptile.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "AI features, prompts, SDK usage, and production reliability.",
+    "url": "https://www.greptile.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Product analytics, event tracking, feature flags, and experiments.",
+    "url": "https://www.greptile.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Docs structure, navigation, components, and content patterns.",
+    "url": "https://www.greptile.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Evals, datasets, scoring, prompts, and regression workflows.",
+    "url": "https://www.greptile.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing a new way to review your PRs.",
+    "url": "https://www.greptile.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Spread from one repo to the rest of the company.",
+    "url": "https://www.greptile.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The thought of adding an agent to PRs to do code reviews, a potential slop cannon, was extremely contentious. We took the leap and we're so glad we did.",
+    "url": "https://www.greptile.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Greptile provides great reviews. Everyone hits the code review problem. And what I love about your team and the product is that it just works.",
+    "url": "https://www.greptile.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Greptile catches small issues that could have been very bad if they went to prod.",
+    "url": "https://www.greptile.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "SOC 2, pen test, DPA, sub-processors",
+    "url": "https://www.greptile.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Greptile Pricing - Free, Pro, and Enterprise Plans",
+    "url": "https://www.greptile.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing a new way to review your PRs.",
+    "url": "https://www.greptile.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Custom pricing for your organization,",
+    "url": "https://www.greptile.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Pro, plus",
+    "url": "https://www.greptile.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "GitHub Enterprise Server and Enterprise Cloud with data residency",
+    "url": "https://www.greptile.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Perforce with P4 Code Review for on-premises deployments",
+    "url": "https://www.greptile.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Free for OSS projects",
+    "url": "https://www.greptile.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Greptile is free for qualified non-commercial projects with an OSI-approved license.",
+    "url": "https://www.greptile.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How does pricing work?",
+    "url": "https://www.greptile.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Starter is free for one developer and includes 50 credits per month. Pro has no seat fees: you pay $1 per credit, and credits are shared across your whole organization.",
+    "url": "https://www.greptile.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Can I prepay for a discount?",
+    "url": "https://www.greptile.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We offer custom pricing for annual and multi-year contracts.",
+    "url": "https://www.greptile.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing a new way to review your PRs.",
+    "url": "https://www.greptile.com/customers/brex",
+    "pass": 1
+   },
+   {
+    "quote": "How Brex prevents bugs in a nearly decade-old monorepo with Greptile",
+    "url": "https://www.greptile.com/customers/brex",
+    "pass": 1
+   },
+   {
+    "quote": "We started out with a pilot. Developers here were skeptical at first, since we had tried a few other products with relatively little success, but were pleasantly surprised by how many issues Greptile was catching out of the box. Now, Greptile reviews 100% of the code we write across Brex.",
+    "url": "https://www.greptile.com/customers/brex",
+    "pass": 1
+   },
+   {
+    "quote": "I personally spent a lot of time commenting on PRs telling people to follow our well documented best practices. With Greptile custom rules, I was able to reduce my time spent reviewing standard practices and allow Greptile to enforce them for me across the company.",
+    "url": "https://www.greptile.com/customers/brex",
+    "pass": 1
+   },
+   {
+    "quote": "Other tools struggled with our eight-year old monorepo and technical stack. Their feedback was generic and didn't seem to really understand our codebase. Greptile was the only tool that really caught issues and provided context-aware feedback. Building an equivalent system internally would have taken far longer and ultimately been more expensive.",
+    "url": "https://www.greptile.com/customers/brex",
+    "pass": 1
+   },
+   {
+    "quote": "Brex wanted breadth without extra process. Greptile brings clear findings with rationale, PR diagrams for instant orientation, and lightweight suggestions that fit the existing workflow.",
+    "url": "https://www.greptile.com/customers/brex",
+    "pass": 1
+   },
+   {
+    "quote": "Context is the difference. Greptile learns the monorepo’s boundaries, call paths, contracts, and test topology, then uses PR diagrams to show exactly what a change touches and where risk clusters. Teams focus faster, review loops shrink, and merges land sooner with higher confidence.",
+    "url": "https://www.greptile.com/customers/brex",
+    "pass": 1
+   },
+   {
+    "quote": "Product analytics for teams that ship fast",
+    "url": "https://www.greptile.com/customers/brex",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing a new way to review your PRs.",
+    "url": "https://www.greptile.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are a small group of researchers, engineers, and designers in San Francisco. If you're interested in the types of problems we're working on, we'd love to hear from you.",
+    "url": "https://www.greptile.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Product Engineer, Security",
+    "url": "https://www.greptile.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Account Executive",
+    "url": "https://www.greptile.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、PRが大きくなりがちになったり、レビュー指摘の漏れ、コード品質のムラなど、品質面の課題が目立つようになっています",
+    "url": "https://zenn.dev/kaiwa_jun/articles/943912278952c6",
+    "pass": 3
+   },
+   {
+    "quote": "GreptileはGitHubのPRレビューをAIで補助してくれるAIレビューツールです",
+    "url": "https://zenn.dev/kaiwa_jun/articles/943912278952c6",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub/GitLabのPRを、コードベース全体の文脈込みで解析できる",
+    "url": "https://zenn.dev/kaiwa_jun/articles/943912278952c6",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Greptile offers free usage for qualified open source projects. Contact us to check your eligibility.",
+    "url": "https://www.greptile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You can cancel your subscription at any time through your account settings. If you have any questions, please contact us.",
+    "url": "https://www.greptile.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "If you want Greptile at your org, email me (",
+    "url": "https://www.ycombinator.com/companies/greptile",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Everyone I've talked to who uses Greptile, they really loved it, because they felt like they can now trust something it recommends. That became part of review culture.",
+    "url": "https://www.greptile.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "and carried the same visual logic from the website into the product experience.",
+    "url": "https://www.pixeluplabs.com/case-studies/greptile",
+    "pass": 3
+   },
+   {
+    "quote": "Greptile doubled demo requests in week one and raised a $25M Series A within six months of launch. Sully scaled 26x in 11 months after its redesign. Sainapse relaunched ahead of general availability and is now deployed by Fortune 500 companies including Ford and Freshworks.",
+    "url": "https://www.pixeluplabs.com/case-studies/greptile",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Brex Case Study - How Brex Ships 30% Faster with Greptile",
+    "url": "https://www.greptile.com/customers/brex",
+    "pass": 1
+   },
+   {
+    "quote": "Greptile Case Study - PIXELUP LABS",
+    "url": "https://www.pixeluplabs.com/case-studies/greptile",
+    "pass": 3
+   },
+   {
+    "quote": "コードベースをエージェント対応にする – Eno Reyes、Factory AI",
+    "url": "https://www.youtube.com/watch?v=vRt4ng9V9qA&vl=ja",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Greptile によるレビューのオススメ、Claude Code 等のお供にどうぞ｜Hi-Noguchi | 株式会社きみより代表",
+    "url": "https://note.com/hi_noguchi/n/n8654741422ae",
+    "pass": 3
+   },
+   {
+    "quote": "Hi-Noguchi | 株式会社きみより代表",
+    "url": "https://note.com/hi_noguchi/n/n8654741422ae",
+    "pass": 3
+   },
+   {
+    "quote": "現在の資金調達総額は約4,550万ドル（日本円で約68億円〜70億円前後）に達しています",
+    "url": "https://note.com/yoshitaka_kadoya/n/nffaf717ec315",
+    "pass": 3
+   },
+   {
+    "quote": "することが可能です（Brexなどの導入事例による）",
+    "url": "https://note.com/yoshitaka_kadoya/n/nffaf717ec315",
+    "pass": 3
+   },
+   {
+    "quote": "1つは日本語でレビューされなくなったことです",
+    "url": "https://note.com/zabeth129/n/n57facd44c376",
+    "pass": 3
+   },
+   {
+    "quote": "今まではCustom Contextで日本語でレビューすることを共通ルールとして組み込んでいたのですが、これが全く反映されなくなりました",
+    "url": "https://note.com/zabeth129/n/n57facd44c376",
+    "pass": 3
+   },
+   {
+    "quote": "9/30 14:00 記事を出した直後に日本語に戻りました！笑 何もしてないですが直りました",
+    "url": "https://note.com/zabeth129/n/n57facd44c376",
+    "pass": 3
+   },
+   {
+    "quote": "最初は1行目の英語だけにしていましたが、反映されなくなったので日本語も追記",
+    "url": "https://note.com/zabeth129/n/n57facd44c376",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AIレビューツール「 Greptile 」を使ってみた - Zenn — AIレビューツール「 Greptile 」を使ってみた - Zenn Zenn https://zenn.dev > kaiwa_jun > articles",
+    "url": "https://zenn.dev/kaiwa_jun/articles/943912278952c6",
+    "pass": 3
+   },
+   {
+    "quote": "Greptile によるレビューのオススメ、Claude Code 等のお供に ... — Greptile によるレビューのオススメ、Claude Code 等のお供に ... note https://note.com > レビュー > 商品レビュー",
+    "url": "https://note.com/hi_noguchi/n/n8654741422ae",
+    "pass": 3
+   },
+   {
+    "quote": "AIコードレビュー greptile を試してみる - かつおぶしのブログ — AIコードレビュー greptile を試してみる - かつおぶしのブログ かつおぶしのブログ https://blog.k-bushi.com > try-out-greptile-ai-code-review",
+    "url": "https://blog.k-bushi.com/post/tech/ai/try-out-greptile-ai-code-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Greptile とは？seat廃止後の料金・使い方・CodeRabbitとの ... — Greptile とは？seat廃止後の料金・使い方・CodeRabbitとの ... 株式会社一創 https://www.issoh.co.jp > テックブログ > 開発 > GitHub",
+    "url": "https://www.issoh.co.jp/tech/details/9024/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Code Review | Greptile | Catch More Bugs — AI Code Review | Greptile | Catch More Bugs Greptile https://www.greptile.com",
+    "url": "https://www.greptile.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Greptile : AI code review agent with complete ... - Y Combinator — Greptile : AI code review agent with complete ... - Y Combinator Y Combinator https://www.ycombinator.com > grept...",
+    "url": "https://www.ycombinator.com/companies/greptile",
+    "pass": 3
+   },
+   {
+    "quote": "Greptile : AI That Actually Understands Codebases - YouTube — Greptile : AI That Actually Understands Codebases - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=vRt4ng9V9qA&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Greptile - X — Greptile - X X https://x.com > greptile",
+    "url": "https://x.com/greptile",
+    "pass": 3
+   },
+   {
+    "quote": "Overview - What is Greptile ? — Overview - What is Greptile ? Greptile https://www.greptile.com > introduction",
+    "url": "https://www.greptile.com/docs/introduction",
+    "pass": 3
+   },
+   {
+    "quote": "Greptile Customers - Success Stories and Case Studies — Greptile Customers - Success Stories and Case Studies Greptile https://www.greptile.com > customers",
+    "url": "https://www.greptile.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Greptile Case Study - PIXELUP LABS — Greptile Case Study - PIXELUP LABS pixelup labs https://www.pixeluplabs.com > greptile",
+    "url": "https://www.pixeluplabs.com/case-studies/greptile",
+    "pass": 3
+   },
+   {
+    "quote": "Partners | Greptile - Code Reviews with Insider API Context — Partners | Greptile - Code Reviews with Insider API Context Greptile https://www.greptile.com > partners",
+    "url": "https://www.greptile.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Greptile Raises $50M in Series B Funding for Code Review AI — Greptile Raises $50M in Series B Funding for Code Review AI LinkedIn https://www.linkedin.com > posts > y-combinator_greptile...",
+    "url": "https://www.linkedin.com/posts/y-combinator_greptile-yc-w24-has-raised-50-million-activity-7518030823040757760-pDhs",
+    "pass": 3
+   },
+   {
+    "quote": "Greptile Raises $25M Series A and Launches v3 — Greptile Raises $25M Series A and Launches v3 Greptile https://www.greptile.com > series-a",
+    "url": "https://www.greptile.com/blog/series-a",
+    "pass": 3
+   },
+   {
+    "quote": "Greptile - 2026 Company Profile, Team, Funding & Competitors — Greptile - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/greptile/__A9Pe_EGI8X6EpkDjS7k7uGeacgjYy5YgVNtNdf-bQmg",
+    "pass": 3
+   },
+   {
+    "quote": "Greptile bags $25M in funding to take on CodeRabbit and ... — Greptile bags $25M in funding to take on CodeRabbit and ... SiliconANGLE https://siliconangle.com > AI",
+    "url": "https://siliconangle.com/2025/09/23/greptile-bags-25m-funding-take-coderabbit-graphite-ai-code-validation/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Want to talk about your own brand?",
+    "url": "https://www.pixeluplabs.com/case-studies/greptile",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Greptile によるレビューのオススメ、Claude Code 等のお供に ... Greptile によるレビューのオススメ、Claude Code 等のお供に ... note https://note.com > レビュー > 商品レビュー",
+    "url": "https://note.com/hi_noguchi/n/n8654741422ae",
+    "pass": 3
+   },
+   {
+    "quote": "Greptile とは：リポジトリ全体を理解する次世代のAIコード ... Greptile とは：リポジトリ全体を理解する次世代のAIコード ... note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/yoshitaka_kadoya/n/nffaf717ec315",
+    "pass": 3
+   },
+   {
+    "quote": "Greptile のアップデートとAIコードレビューツールの運用の ... Greptile のアップデートとAIコードレビューツールの運用の ... note https://note.com > レビュー > ガジェットレビュー",
+    "url": "https://note.com/zabeth129/n/n57facd44c376",
+    "pass": 3
+   },
+   {
+    "quote": "AIを搭載したAPIを展開する Greptile がシードラウンドで400万 ... AIを搭載したAPIを展開する Greptile がシードラウンドで400万 ... note.com https://note.com > startuplog",
+    "url": "https://note.com/startuplog/n/n87fc72c10e48",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Greptile によるレビューのオススメ、Claude Code 等のお供にどうぞ｜Hi-Noguchi | 株式会社きみより代表",
+    "url": "https://note.com/hi_noguchi/n/n8654741422ae",
+    "pass": 3
+   },
+   {
+    "quote": "Greptile によるレビューのオススメ、Claude Code 等のお供にどうぞ",
+    "url": "https://note.com/hi_noguchi/n/n8654741422ae",
+    "pass": 3
+   },
+   {
+    "quote": "Hi-Noguchi | 株式会社きみより代表",
+    "url": "https://note.com/hi_noguchi/n/n8654741422ae",
+    "pass": 3
+   },
+   {
+    "quote": "概要 ( by Claude Sonnet 4 )",
+    "url": "https://note.com/hi_noguchi/n/n8654741422ae",
+    "pass": 3
+   },
+   {
+    "quote": "Greptile は生成AI駆動のコードレビューサービスで、月額 30 ドル定額でリポジトリ接続とレビュー依頼が上限なく利用可能",
+    "url": "https://note.com/hi_noguchi/n/n8654741422ae",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub or GitLab と連携し、詳細なコードレビューと Commit suggestion による具体的な修正提案を提供",
+    "url": "https://note.com/hi_noguchi/n/n8654741422ae",
+    "pass": 3
+   },
+   {
+    "quote": "Claude Sonnet 4 対応により高品質なレビューを実現し、大規模リポジトリにも対応",
+    "url": "https://note.com/hi_noguchi/n/n8654741422ae",
+    "pass": 3
+   },
+   {
+    "quote": "カスタム指示設定と Devin Search のようなチャット機能で柔軟な開発支援が可能",
+    "url": "https://note.com/hi_noguchi/n/n8654741422ae",
+    "pass": 3
+   },
+   {
+    "quote": "Greptileとは？リポジトリ全体を理解する次世代のAIコードレビューツールを徹底解説｜Life With AGI",
+    "url": "https://note.com/yoshitaka_kadoya/n/nffaf717ec315",
+    "pass": 3
+   },
+   {
+    "quote": "Greptileとは？リポジトリ全体を理解する次世代のAIコードレビューツールを徹底解説",
+    "url": "https://note.com/yoshitaka_kadoya/n/nffaf717ec315",
+    "pass": 3
+   },
+   {
+    "quote": "Greptileとは：リポジトリ全体を理解する次世代のAIコードレビュー",
+    "url": "https://note.com/yoshitaka_kadoya/n/nffaf717ec315",
+    "pass": 3
+   },
+   {
+    "quote": "Greptileとは、リポジトリ全体の構造と文脈をグラフ形式で深く理解し、熟練エンジニアの視点でコードを検証・修正提案する",
+    "url": "https://note.com/yoshitaka_kadoya/n/nffaf717ec315",
+    "pass": 3
+   },
+   {
+    "quote": "「自律型AIコードレビュー・エージェント」",
+    "url": "https://note.com/yoshitaka_kadoya/n/nffaf717ec315",
+    "pass": 3
+   },
+   {
+    "quote": "従来のツールは、プルリクエスト（PR）の差分、つまり「変更された数行のコード」しか見ていませんでした。しかしGreptileは、コードベース全体をインデックス化し、ファイル間の複雑な依存関係を完全に把握します。これにより、「Aファイルを修正したことが、全く別の場所にあるZファイルにどのような副作用を及ぼすか」といった点まで、まるで人間のように全体を俯瞰して判断できるのが最大の特徴です。",
+    "url": "https://note.com/yoshitaka_kadoya/n/nffaf717ec315",
+    "pass": 3
+   },
+   {
+    "quote": "開発現場が直面している「検証のボトルネック」",
+    "url": "https://note.com/yoshitaka_kadoya/n/nffaf717ec315",
+    "pass": 3
+   },
+   {
+    "quote": "現代のソフトウェア開発において、GitHub CopilotやCursor、Claude Codeといったコード生成AIの普及は、開発スピードをかつてない次元へと引き上げました。しかしその一方で、生成された大量のコードの品質と安全性をどう担保するかという、深刻な",
+    "url": "https://note.com/yoshitaka_kadoya/n/nffaf717ec315",
+    "pass": 3
+   },
+   {
+    "quote": "GreptileのアップデートとAIコードレビューツールの運用の難しさ｜ざべす",
+    "url": "https://note.com/zabeth129/n/n57facd44c376",
+    "pass": 3
+   },
+   {
+    "quote": "GreptileのアップデートとAIコードレビューツールの運用の難しさ",
+    "url": "https://note.com/zabeth129/n/n57facd44c376",
+    "pass": 3
+   },
+   {
+    "quote": "9/18にレバテック様にお声がけいただき、「",
+    "url": "https://note.com/zabeth129/n/n57facd44c376",
+    "pass": 3
+   },
+   {
+    "quote": "AIコードレビューをチームで使いこなす ― 仕組みづくりから運用までの試行錯誤 ―",
+    "url": "https://note.com/zabeth129/n/n57facd44c376",
+    "pass": 3
+   },
+   {
+    "quote": "」というイベントに登壇させていただきました。本記事は登壇の話の続きになっています。",
+    "url": "https://note.com/zabeth129/n/n57facd44c376",
+    "pass": 3
+   },
+   {
+    "quote": "ぜひ上記資料にさっと目を通したうえで読み進めていただけると嬉しいですが、サマリーも載せておきます。",
+    "url": "https://note.com/zabeth129/n/n57facd44c376",
+    "pass": 3
+   },
+   {
+    "quote": "現在のAIコードレビューはモデル性能の向上やアプリケーションの進化によって投資対効果に合う精度になっている",
+    "url": "https://note.com/zabeth129/n/n57facd44c376",
+    "pass": 3
+   },
+   {
+    "quote": "導入時や導入後の運用工数についても一部のメンバーが片手間で対応するだけでも十分恩恵を受けられるものだったので、とりあえず入れてみるとよさそう",
+    "url": "https://note.com/zabeth129/n/n57facd44c376",
+    "pass": 3
+   },
+   {
+    "quote": "AIを搭載したAPIを展開するGreptileがシードラウンドで400万ドルの資金調達を実施｜STARTUP LOG｜スタートアップの挑戦を、もっと身近に｜スタログ｜STALOG｜",
+    "url": "https://startuplog.com/n/n87fc72c10e48?gs=c721e83f4d67a57c4288331dadf6aba4",
+    "pass": 3
+   },
+   {
+    "quote": "AIを搭載したAPIを展開するGreptileがシードラウンドで400万ドルの資金調達を実施",
+    "url": "https://startuplog.com/n/n87fc72c10e48?gs=c721e83f4d67a57c4288331dadf6aba4",
+    "pass": 3
+   },
+   {
+    "quote": "STARTUP LOG｜スタートアップの挑戦を、もっと身近に｜スタログ｜STALOG｜",
+    "url": "https://startuplog.com/n/n87fc72c10e48?gs=c721e83f4d67a57c4288331dadf6aba4",
+    "pass": 3
+   },
+   {
+    "quote": "調達額：400万ドル（約6億2,163万円）",
+    "url": "https://startuplog.com/n/n87fc72c10e48?gs=c721e83f4d67a57c4288331dadf6aba4",
+    "pass": 3
+   },
+   {
+    "quote": "Global Insight -海外スタートアップニュース-",
+    "url": "https://startuplog.com/n/n87fc72c10e48?gs=c721e83f4d67a57c4288331dadf6aba4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Greptile - X Greptile - X X https://x.com > greptile",
+    "url": "https://x.com/greptile",
+    "pass": 3
+   },
+   {
+    "quote": "Greptile on X Greptile on X X https://x.com > @greptile",
+    "url": "https://x.com/greptile/status/2119828773356867766",
+    "pass": 3
+   },
+   {
+    "quote": "Greptile has raised a $50M Series B led by Menlo Ventures ... Greptile has raised a $50M Series B led by Menlo Ventures ... X https://x.com > @greptile",
+    "url": "https://x.com/greptile/status/2112193902555898208",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Greptile - LinkedIn Greptile - LinkedIn LinkedIn https://www.linkedin.com > greptile",
+    "url": "https://www.linkedin.com/company/greptile",
+    "pass": 3
+   },
+   {
+    "quote": "Greptile : AI Code's Second Set of Eyes - LinkedIn Greptile : AI Code's Second Set of Eyes - LinkedIn LinkedIn https://www.linkedin.com > pulse > greptile-ai-codes-seco...",
+    "url": "https://www.linkedin.com/pulse/greptile-ai-codes-second-set-eyes-operator-collective-dvpvc",
+    "pass": 3
+   },
+   {
+    "quote": "Vaishant Kameswaran - Co-Founder, CTO @ Greptile | LinkedIn Vaishant Kameswaran - Co-Founder, CTO @ Greptile | LinkedIn LinkedIn https://www.linkedin.com > vaishant",
+    "url": "https://www.linkedin.com/in/vaishant",
+    "pass": 3
+   },
+   {
+    "quote": "Greptile v5: Faster, More Precise Bug Catcher - LinkedIn Greptile v5: Faster, More Precise Bug Catcher - LinkedIn LinkedIn https://www.linkedin.com > posts > dakshg_introducing-g...",
+    "url": "https://www.linkedin.com/posts/dakshg_introducing-greptile-v5-a-ground-up-rewrite-activity-7490784621257945088-6uWz",
+    "pass": 3
+   },
+   {
+    "quote": "Daksh Gupta - Greptile CEO - LinkedIn Daksh Gupta - Greptile CEO - LinkedIn LinkedIn https://www.linkedin.com > dakshg",
+    "url": "https://www.linkedin.com/in/dakshg",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Evaluate Greptile for AI-Powered Code Review and Dev ... Evaluate Greptile for AI-Powered Code Review and Dev ... Facebook https://www.facebook.com > fb-answers > evaluate-the-ai-...",
+    "url": "https://www.facebook.com/fb-answers/evaluate-the-ai-powered-code-review-company-greptile-on-dev-workflow-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Evaluate Greptile : AI-Powered Code Review and Static Analysis Evaluate Greptile : AI-Powered Code Review and Static Analysis Facebook https://www.facebook.com > fb-answers > evaluate-the-ai-...",
+    "url": "https://www.facebook.com/fb-answers/evaluate-the-ai-powered-code-review-company-greptile-on-static-analysis-meets-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Most AI code reviewers only analyze your code. Greptile ... Most AI code reviewers only analyze your code. Greptile ... Facebook https://www.facebook.com > ... > Uma Abu > Videos",
+    "url": "https://www.facebook.com/umacodes/videos/most-ai-code-reviewers-only-analyze-your-code-greptile-actually-runs-itthat-mean/29457106867225400/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.greptile.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greptile.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greptile.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greptile.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greptile.com/customers/brex",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greptile.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.greptile.com/_next/image?url=%2Ffeatures%2Fintegrations%2Fimage0.png&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.greptile.com/_next/image?url=%2Flogos%2Fintegrations%2Fopenai.png&w=640&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.greptile.com/_next/image?url=%2Flogos%2Fintegrations%2Fvercel.png&w=640&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.greptile.com/_next/image?url=%2Flogos%2Fintegrations%2Fstripe.png&w=640&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://zenn.dev/kaiwa_jun/articles/943912278952c6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hi_noguchi/n/n8654741422ae",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.k-bushi.com/post/tech/ai/try-out-greptile-ai-code-review/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.issoh.co.jp/tech/details/9024/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hi_noguchi/n/n8654741422ae",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.infinicloud.com/agencypartner.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/exabase/gpt/agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000194.000068065.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/greptile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=vRt4ng9V9qA&vl=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/greptile",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.pixeluplabs.com/case-studies/greptile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=vRt4ng9V9qA&vl=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hpe.com/us/en/customer-case-studies.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/dakshg_introducing-greptile-partner-program-when-activity-7474839689452052480-eQMa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gatech.edu/news/2026/01/05/y-combinator-backing-and-30m-investment-take-startup-greptile-next-level",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_greptile-yc-w24-has-raised-50-million-activity-7518030823040757760-pDhs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/greptile/__A9Pe_EGI8X6EpkDjS7k7uGeacgjYy5YgVNtNdf-bQmg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/hi_noguchi/n/n8654741422ae",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yoshitaka_kadoya/n/nffaf717ec315",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zabeth129/n/n57facd44c376",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startuplog.com/n/n87fc72c10e48?gs=c721e83f4d67a57c4288331dadf6aba4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/greptile",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/greptile/status/2119828773356867766",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/greptile/status/2112193902555898208",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/greptile",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/greptile-ai-codes-second-set-eyes-operator-collective-dvpvc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/vaishant",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/dakshg_introducing-greptile-v5-a-ground-up-rewrite-activity-7490784621257945088-6uWz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/evaluate-the-ai-powered-code-review-company-greptile-on-dev-workflow-automation-with-ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/evaluate-the-ai-powered-code-review-company-greptile-on-static-analysis-meets-ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/umacodes/videos/most-ai-code-reviewers-only-analyze-your-code-greptile-actually-runs-itthat-mean/29457106867225400/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/hi_noguchi/n/n8654741422ae",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/dakshg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/greptile",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Greptile 日本 導入",
+   "results": [
+    "https://zenn.dev/kaiwa_jun/articles/943912278952c6",
+    "https://note.com/hi_noguchi/n/n8654741422ae",
+    "https://blog.k-bushi.com/post/tech/ai/try-out-greptile-ai-code-review/",
+    "https://www.issoh.co.jp/tech/details/9024/",
+    "https://speakerdeck.com/zabeth129/zui-xin-noai-kodorebiyuwodao-ru-sitemitarayi-wai-tosumuzudatutahua",
+    "https://tech.layerx.co.jp/entry/2025/10/29/174030",
+    "https://note.com/zabeth129/n/n57facd44c376",
+    "https://findy.connpass.com/event/364624/presentation/",
+    "https://x.com/ryo_nagaoka/status/1978058128664199635",
+    "https://zenn.dev/yoii/articles/cb79843b82a6fa"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Greptile 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://note.com/hi_noguchi/n/n8654741422ae",
+    "https://partner.infinicloud.com/agencypartner.html",
+    "https://exawizards.com/exabase/gpt/agent/",
+    "https://prtimes.jp/main/html/rd/p/000000194.000068065.html",
+    "https://givery.co.jp/",
+    "https://www.componentsource.co.jp/resellers",
+    "https://log-port.com/aidx-partner-program/",
+    "https://optimizely.gaprise.jp/company",
+    "https://dentsu-ho.com/articles/3212",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Greptile Japan",
+   "results": [
+    "https://www.greptile.com/",
+    "https://www.ycombinator.com/companies/greptile",
+    "https://www.youtube.com/watch?v=vRt4ng9V9qA&vl=ja",
+    "https://x.com/greptile",
+    "https://www.greptile.com/docs/introduction",
+    "https://www.operatorcollective.com/blog-posts/greptile-ai-codes-second-set-of-eyes",
+    "https://dev.to/pullflow/greptile-smarter-code-reviews-through-codebase-aware-ai-258a",
+    "https://kilo.ai/reviews/greptile",
+    "https://getoptimal.ai/blog/greptile-alternatives",
+    "https://en.wikipedia.org/wiki/List_of_reptiles_of_Japan"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Greptile manufacturing customer case study",
+   "results": [
+    "https://www.greptile.com/customers",
+    "https://www.pixeluplabs.com/case-studies/greptile",
+    "https://www.youtube.com/watch?v=vRt4ng9V9qA&vl=ja",
+    "https://www.hpe.com/us/en/customer-case-studies.html",
+    "https://www.griddynamics.com/blog/case-studies",
+    "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "https://www.globalshopsolutions.com/manufacturing-case-studies",
+    "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "https://kanerika.com/blogs/generative-ai-in-manufacturing/",
+    "https://studylib.net/doc/9452163/case-study-10--3m-greptile-grip-golf-glove--great"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Greptile white label OR reseller OR partner program",
+   "results": [
+    "https://www.greptile.com/partners",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.linkedin.com/posts/dakshg_introducing-greptile-partner-program-when-activity-7474839689452052480-eQMa",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://customgpt.ai/white-label-software-to-resell/",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://pickspace.com/partners",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://www.goodbarber.com/blog/7-best-app-builders-for-resellers-and-agencies-a1590/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Greptile founded funding employees revenue",
+   "results": [
+    "https://www.gatech.edu/news/2026/01/05/y-combinator-backing-and-30m-investment-take-startup-greptile-next-level",
+    "https://www.linkedin.com/posts/y-combinator_greptile-yc-w24-has-raised-50-million-activity-7518030823040757760-pDhs",
+    "https://www.greptile.com/blog/series-a",
+    "https://tracxn.com/d/companies/greptile/__A9Pe_EGI8X6EpkDjS7k7uGeacgjYy5YgVNtNdf-bQmg",
+    "https://siliconangle.com/2025/09/23/greptile-bags-25m-funding-take-coderabbit-graphite-ai-code-validation/",
+    "https://x.com/AGTPinsights/status/2112238859761463510",
+    "https://getlatka.com/companies/greptile.com",
+    "https://www.instagram.com/p/DO_7-riEcN6/",
+    "https://dealroom.co/news/164237-greptile-raises-50m-to-audit-ai-written-code/",
+    "https://pitchbook.com/profiles/company/535365-46"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Greptile",
+   "results": [
+    "https://note.com/hi_noguchi/n/n8654741422ae",
+    "https://note.com/yoshitaka_kadoya/n/nffaf717ec315",
+    "https://note.com/zabeth129/n/n57facd44c376",
+    "https://note.com/startuplog/n/n87fc72c10e48",
+    "https://note.com/hi_noguchi/n/n8654741422ae?hl=ko",
+    "https://note.com/hi_noguchi/m/m0d4f1782917a",
+    "https://note.com/hi_noguchi/n/n15e3ba85a957",
+    "https://note.com/zabeth129",
+    "https://note.com/_creative_wolf_/n/n7a13c3656a0f",
+    "https://note.com/alert_egret6695/n/n4fa9cd48ae01?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com Greptile",
+   "results": [
+    "https://x.com/greptile",
+    "https://x.com/dakshgup",
+    "https://x.com/greptile/status/2119828773356867766",
+    "https://x.com/greptile/status/2112193902555898208",
+    "https://x.com/vaishaaant",
+    "https://x.com/ycombinator/status/2112221036792209790",
+    "https://x.com/deedydas/status/2112204513138651513",
+    "https://x.com/michael_chomsky/status/2002995855641735212",
+    "https://x.com/dakshgup/status/1970503694346264631",
+    "https://x.com/mg/status/2029751037716836478"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Greptile",
+   "results": [
+    "https://www.linkedin.com/company/greptile",
+    "https://www.linkedin.com/pulse/greptile-ai-codes-second-set-eyes-operator-collective-dvpvc",
+    "https://www.linkedin.com/in/vaishant",
+    "https://www.linkedin.com/posts/dakshg_introducing-greptile-v5-a-ground-up-rewrite-activity-7490784621257945088-6uWz",
+    "https://www.linkedin.com/posts/garrytan_every-repo-becomes-better-when-greptile-is-activity-7376276824504528897-KJ-A",
+    "https://www.linkedin.com/posts/dakshg_introducing-greptile-security-agent-it-activity-7487884229712945152-0yVd",
+    "https://www.linkedin.com/in/dakshg",
+    "https://www.linkedin.com/posts/martinkess_greptile-activity-7286810048012386304-04NE",
+    "https://www.linkedin.com/posts/ericvishria_as-the-cost-of-code-gen-goes-to-zero-the-activity-7376353267691421696-914x",
+    "https://www.linkedin.com/in/soohoonchoi"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Greptile",
+   "results": [
+    "https://www.facebook.com/fb-answers/evaluate-the-ai-powered-code-review-company-greptile-on-dev-workflow-automation-with-ai/",
+    "https://www.facebook.com/fb-answers/evaluate-the-ai-powered-code-review-company-greptile-on-static-analysis-meets-ai/",
+    "https://www.facebook.com/groups/vibecodinglife/posts/2100252727229920/",
+    "https://www.facebook.com/umacodes/videos/most-ai-code-reviewers-only-analyze-your-code-greptile-actually-runs-itthat-mean/29457106867225400/",
+    "https://www.facebook.com/robertoclmedina/posts/the-faster-we-build-the-more-important-code-validation-becomesgreptile-helps-rev/122118785439443840/",
+    "https://www.facebook.com/robertoclmedina/videos/the-faster-we-build-the-more-important-code-validation-becomesgreptile-helps-rev/29265549359800589/",
+    "https://www.facebook.com/groups/claudeaicommunity/posts/1365597282274102/",
+    "https://www.facebook.com/aistartupsnews/posts/greptile-teams-up-with-gpt-6-astra-to-automate-app-testing-at-scale-could-this-b/122159180691115208/",
+    "https://www.facebook.com/groups/claudecommunity/posts/1120874307119900/",
+    "https://www.facebook.com/profile.php/?id=61589452994120"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Greptile note 社長",
+   "results": [
+    "https://note.com/hi_noguchi/n/n8654741422ae",
+    "https://www.youtube.com/watch?v=Rh3X3AlNeXc",
+    "https://www.linkedin.com/in/dakshg",
+    "https://blog.initialized.com/2024/10/founder-spotlight-greptiles-daksh-gupta/",
+    "https://note.com/zabeth129/n/n57facd44c376",
+    "https://x.com/dakshgup",
+    "https://openai.com/ja-JP/index/greptile-code-review-codex-astra/",
+    "https://note.com/yoshitaka_kadoya/n/nffaf717ec315",
+    "https://www.youtube.com/watch?v=f2YXSuuShvM",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Greptile X 投稿",
+   "results": [
+    "https://x.com/greptile",
+    "https://www.greptile.com/docs/introduction",
+    "https://www.youtube.com/watch?v=P9xRNCTD1IA",
+    "https://www.greptile.com/enterprise",
+    "https://github.com/greptileai",
+    "https://zenn.dev/yoii/articles/cb79843b82a6fa",
+    "https://tech.layerx.co.jp/entry/2025/10/29/174030",
+    "https://openai.com/ja-JP/index/greptile-code-review-codex-astra/",
+    "https://note.com/hi_noguchi/n/n8654741422ae",
+    "https://x.com/greptile/status/2112193902555898208"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部37頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部37頁・検索12回）"
+ }
+}

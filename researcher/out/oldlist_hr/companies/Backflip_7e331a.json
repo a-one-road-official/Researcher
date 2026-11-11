@@ -1,0 +1,1383 @@
+{
+ "name": "Backflip",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜返信あり",
+ "researched_at": "2026-11-11T04:09:58.480880+00:00",
+ "official_url": "https://backflip.ai",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2022",
+    "url": "https://startupintros.com/orgs/backflip",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Denver, CO, USA",
+    "url": "https://startupintros.com/orgs/backflip",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Our AI copilot natively thinks in CAD, because we set out to do the hard thing first — training an AI foundation model that intuitively understands 3D geometry and how engineers construct it.",
+    "url": "https://www.backflip.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We encrypt customer data in transit and at rest, separate access by organization, and never use enterprise data to train our models.",
+    "url": "https://www.backflip.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We've invented carbon fiber 3D printing, and saw customers deploy those parts in space and at the bottom of the ocean. Built autonomous driving systems. Trained production ML models. Designed precision hardware for mission-critical applications.",
+    "url": "https://www.backflip.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We know what it takes to ship physical products and the tools engineers need to accelerate their work.",
+    "url": "https://www.backflip.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Browse where we’re hiring",
+    "url": "https://www.backflip.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "To protect yourself from potential scams, remember that direct Backflip AI communications come from @backflip.ai email addresses. Legitimate Backflip recruiters will never ask for money, fees, or financial account information before your first day.",
+    "url": "https://www.backflip.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We want to compress one hundred years of innovation into the next five years. And we're building the tools to do it.",
+    "url": "https://www.backflip.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "The hardest problems ahead are physical ones. They’re also the most important: robotics, fusion, carbon capture, interplanetary space travel.",
+    "url": "https://www.backflip.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Lila is Partner, Head of AI Strategy at NEA. She most recently served as Deputy CTO at Microsoft, driving large-scale AI transformation. Previously, Lila was SVP Engie, CEO & Vice Chair Terrawatt at Engie (EPA:ENGI) where she led the company's transition to renewable energy sources.",
+    "url": "https://www.backflip.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Production and release",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle Production and release subsection",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "April 9, 2021",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "television series produced by",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": ", directed by Seishirō Nagaya and Toshimasa Kuroyanagi and written by Toshizo Nemoto. The series aired from April to June 2021. A",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "An anime film premiered on July 2, 2022.",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": ". The specific problem is:",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "The protagonist and a first year student. He played a number of sports before high school, but was always on the sidelines. After witnessing a performance of the Sōshūkan men's rhythmic gymnastic team at a tournament, he joins their club, even though he has no gymnastics experience. He is inspired by Misato and his senior teammates.",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "A third year and the captain of the Sōshūkan men's rhythmic gymnastics team. He is enthusiastic and encouraging. He was very involved in recruiting members to raise the team to 6. His interests in gymnastics began after seeing Shūsaku's backflips. His family has a sasa kamaboko business. His rival is Takase.",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "The manager of the club, she is also Shida's relative. She is quiet, but well integrated with the rest of the team. She is tech savvy, and uses videos and software to review practices and mimic choreography. She designs the team's costumes.",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "A third year student and the vice-captain of the team. He helps manage the captain's excessive emotions. Though he always stops Takase from scolding Mashiro, Mashiro is more scared of him. He is impressed by the performance of Ao high students and considers them worthy rivals.",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "A first year student. He is the loudest in the team and also a fan of yakuza movies, albeit preferring characters which get the girl and win in the end, as opposed to Watari's preferences.",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "The coach of Hakumei Private High School and alumni of Hakumei University. He was captain of the team when Shida was on it. He believes that if Shida had not retired due to injury, he could have taken Men's Rhythmic Gymnastic to a level where it would have become a part of Olympics. He was also one of the few who lent a helping hand to Shida after his injury.",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "television series, which is part of the \"Zutto Ōen Project 2011 + 10...\", commemorating the 10th anniversary of the",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": ", directed by Seishirō Nagaya and Toshimasa Kuroyanagi and written by Toshizo Nemoto. Original character designs are provided by",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "programming block from April 9 to June 25, 2021.",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "It premiered in Japan on July 2, 2022, with returning staff and cast.",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "streamed the film outside of Japan, premiering May 11, 2023.",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "\"We'll Make a Promise!\"",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "\"noitaminA Reveals Bakuten!! Rhythmic Gymnastics Anime for April 2021\"",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "\"Bakuten!! Rhythmic Gymnastics Anime's 3rd Promo Video Reveals April 8 Debut\"",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "\"Bakuten!! Rhythmic Gymnastics Anime's 2nd Video Reveals More Cast, Staff, Opening Song\"",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "\"FINAL UPDATE: Crunchyroll Announces Spring 2021 Anime Lineup! (4/6)\"",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": ". April 6, 2021. Archived from",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "Soshukan Private High School (Ao High) men’s rhythmic gymnastics club.",
+    "url": "https://fujicreative.co.jp/forBuyers/animation/works-10151/",
+    "pass": 3
+   },
+   {
+    "quote": ", following protagonist Shōtarō Futaba as he discovers the discipline during his final summer of",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "and pursues it at Sōshūkan Private High School (also known as Ao High).",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "Produced by the animation studio",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "programming block from April 9 to June 24, 2021, directed by Seishirō Nagaya and Toshimasa Kuroyanagi.",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "benchwarmer to a dedicated gymnast, highlighting his encounters with eccentric teammates, intense training, and competitions that test bonds and personal growth.",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "The anime emphasizes the underrepresented world of boys' rhythmic gymnastics in Japan, showcasing dynamic performances with ball, ribbon, hoop, and clubs, while weaving in elements of drama, comedy, and sports tournament arcs.",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": ", was released in Japanese theaters on July 2, 2022, extending the story with new challenges for the team, and later streamed internationally on Crunchyroll starting May 11, 2023. The series received praise for its fluid animation of gymnastics sequences and its portrayal of male friendships and athletic passion.",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": ", acrobatic elements such as flips and balances, and tumbling, all set to music to showcase artistic expression and technical precision. The anime's stylized portrayal focuses on freehand performances without apparatuses, drawing from the Japanese tradition of men's",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "The primary setting of",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "The choice of this location ties into the broader \"Zutto Ōen Project 2011 + 10...\" initiative, which commemorates the disaster's tenth anniversary while promoting regional recovery and tourism in Miyagi, Iwate, and Fukushima prefectures through anime productions.",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "Collaborations between the production and Iwanuma City, including promotional visuals featuring local landmarks like JR Iwanuma Station and the Abukuma River Bridge, underscore the series' role in revitalizing community interest in the region.",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "At the heart of the story is the fictional Sōshūkan High School (also called Ao High School), a private institution in Iwanuma that emphasizes athletic programs, particularly its competitive men's",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "The school's training facilities and surroundings evoke a sense of communal rebuilding, reflecting Miyagi's post-disaster emphasis on youth sports as a pathway to resilience and local pride.",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": ", tumbling, and synchronized routines, often underrepresented compared to women's versions.",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "Through depictions of dedicated club practices and regional competitions, the setting reinforces themes of community solidarity and cultural preservation amid recovery efforts.",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "Sōshūkan High School, also known as Ao High, is the primary setting for the protagonist's",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "serves as a hub for aspiring athletes blending enthusiasm with rigorous training.",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "The core team features first-year Shōtarō Futaba, an honest and earnest newcomer inspired by Ao High's performance at the nationals, who joins as a novice but demonstrates rapid growth through his natural flexibility and prior experiences in sports like",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "; he specializes in dynamic, expressive routines that energize the group. Voiced by",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": ", Misato's backstory includes an early start in the sport and a past injury that adds caution to his technical precision.",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "The upperclassmen provide leadership and stability, starting with third-year captain Masamune Shichigahama, a passionate and devoted figure whose strong commitment to the club manifests in proactive guidance, though his teaching style can be vague; voiced by",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "Second-year Kōtarō Watari, with an intimidating exterior from piercings and a short-tempered vibe, is caring and approachable with juniors, specializing in handstand holds; voiced by",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "Hakumei University Affiliated High School, commonly referred to as Shiro High School, is a private institution in",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "closely affiliated with Hakumei University, which supports its athletic programs through superior facilities and expert guidance. The school's boys'",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": ", whose commanding presence and detail-oriented leadership inspire a culture of relentless pursuit of excellence, often pressuring opponents with displays of synchronized group performances that highlight the team's cohesive strength. The vice-captain is third-year Yōjirō Mutsu, voiced by",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "To protect yourself from potential scams, remember that direct Backflip AI communications come from @backflip.ai email addresses. Legitimate Backflip recruiters will never ask for money, fees, or financial account information before your first day.",
+    "url": "https://www.backflip.ai/careers",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "A third year and vice captain, an all rounder in gymnastics and a calm and collected type. He was inspired to join the team after seeing Shichigahama's backflip. He likes moss and plants. His family manages a shrine.",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "A second year student. He has a calm and aloof personality. He is good with plants and arranges flowers to look better and hold longer when he sees them. He shares a friendship with Tsukidate due to their common interest in plants.",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Backflip Studios achieves hundreds of thousands in savings by eliminating excess clicks with Kochava Global Blacklist | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/kochava/case-study/eliminating-excess-clicks-saves-backflip-studios-hundreds-of-thousands-of-dollars",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Backflip Studios achieves hundreds of thousands in savings by eliminating excess clicks with Kochava Global Blacklist",
+    "url": "https://www.casestudies.com/company/kochava/case-study/eliminating-excess-clicks-saves-backflip-studios-hundreds-of-thousands-of-dollars",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/kochava/case-study/eliminating-excess-clicks-saves-backflip-studios-hundreds-of-thousands-of-dollars",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/kochava/case-study/eliminating-excess-clicks-saves-backflip-studios-hundreds-of-thousands-of-dollars",
+    "pass": 3
+   },
+   {
+    "quote": "Google Cloud Platform Case Study: Backflip Studios – Backflip Studios scales mobile games with Google Cloud Platform | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/google-cloud-platform/case-study/backflip-studios-scales-mobile-games-with-google-cloud-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Backflip Studios used Google Cloud Platform",
+    "url": "https://www.casestudies.com/company/google-cloud-platform/case-study/backflip-studios-scales-mobile-games-with-google-cloud-platform",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/google-cloud-platform/case-study/backflip-studios-scales-mobile-games-with-google-cloud-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/google-cloud-platform/case-study/backflip-studios-scales-mobile-games-with-google-cloud-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Backflip is an AI-powered 3D design platform that transforms inputs like text descriptions or photos into high-resolution, 3D-printable CAD models, serving designers, engineers, and manufacturers in the physical product space.",
+    "url": "https://startupintros.com/orgs/backflip",
+    "pass": 3
+   },
+   {
+    "quote": ": Backed by Markforged's track record in hard tech, ensuring robust integration of AI with manufacturing realities like aerospace-grade performance.[2][3]",
+    "url": "https://startupintros.com/orgs/backflip",
+    "pass": 3
+   },
+   {
+    "quote": "It influences the ecosystem by democratizing high-end design, empowering smaller teams to compete with giants, fostering innovation in sectors like defense and automotive, and potentially spawning new AI-native hardware startups.[3]",
+    "url": "https://startupintros.com/orgs/backflip",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Japanese anime television series",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "is an original Japanese",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "It premiered in Japan on July 2, 2022, with returning staff and cast.",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "streamed the film outside of Japan, premiering May 11, 2023.",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "10 Tokyo Warriors",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo Magnitude 8.0",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "Articles containing Japanese-language text",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "CS1 uses Japanese-language script (ja)",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "CS1 Japanese-language sources (ja)",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "Articles with Japanese-language sources (ja)",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "(Japanese: バクテン!!, Hepburn:",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": ") is an original Japanese anime television series that centers on the sport of men's",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "The anime emphasizes the underrepresented world of boys' rhythmic gymnastics in Japan, showcasing dynamic performances with ball, ribbon, hoop, and clubs, while weaving in elements of drama, comedy, and sports tournament arcs.",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": ", was released in Japanese theaters on July 2, 2022, extending the story with new challenges for the team, and later streamed internationally on Crunchyroll starting May 11, 2023. The series received praise for its fluid animation of gymnastics sequences and its portrayal of male friendships and athletic passion.",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": ", acrobatic elements such as flips and balances, and tumbling, all set to music to showcase artistic expression and technical precision. The anime's stylized portrayal focuses on freehand performances without apparatuses, drawing from the Japanese tradition of men's",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "The series also embeds the cultural context of men's rhythmic gymnastics, a niche Japanese-originated sport that combines",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": ". The series draws inspiration from real-life Japanese competitions, particularly those involving regional youth programs in",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "Development began in 2017 with an initial memo outlining the core theme of fostering cooperation amid individualism, tying into broader recovery efforts following the 2011 Great East Japan Earthquake. As part of the \"Zutto Oen Project 2011 + 10,\" commemorating the disaster's 10th anniversary, the",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "The voice cast featured prominent Japanese actors for the main characters, bringing distinct energy to the ensemble. Shōtarō Futaba was voiced by",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "In Japan, home media releases include Blu-ray Disc Box sets distributed by",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": ", premiered in Japanese theaters on July 2, 2022, under the direction of Toshimasa Kuroyanagi and with a runtime of 90 minutes.",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "was composed by Yūki Hayashi, a Japanese composer renowned for his dynamic scores in sports-themed",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "who created much of Japan's competitive gymnastics accompaniment music, Hayashi's work often blends orchestral swells with rock and electronic elements to capture the physical intensity and emotional depth of athletic performance.",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "新体操男子もっと知って アニメ追い風に、日本発祥",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "Bakuten!! | Living | Metropolis Japan",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "Bakuten!! / Spring 2021 Anime / Anime - Otapedia | Tokyo Otaku Mode",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Shotaro Futaba loved sports, but was never good enough. But watching a group of gymnasts in the park and seeing them in a gymnastics tournament, he decides to join their school and become part of the gymnastic team. With new members, Shotaro and Ryoya Misato, the team aims for the upcoming Inter-High tournament.",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "A second year student. He has a calm and aloof personality. He is good with plants and arranges flowers to look better and hold longer when he sees them. He shares a friendship with Tsukidate due to their common interest in plants.",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "The coach of Hakumei Private High School and alumni of Hakumei University. He was captain of the team when Shida was on it. He believes that if Shida had not retired due to injury, he could have taken Men's Rhythmic Gymnastic to a level where it would have become a part of Olympics. He was also one of the few who lent a helping hand to Shida after his injury.",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "television series, which is part of the \"Zutto Ōen Project 2011 + 10...\", commemorating the 10th anniversary of the",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "10 Tokyo Warriors",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "In the narrative,",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "In the narrative, the Hakumei team functions as a pivotal rival to Sōshūkan High School, driving the protagonists' development by representing the pinnacle of competitive",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "Shūji Mabuchi is the coach of the rival Hakumei University Affiliated High School's boys' rhythmic gymnastics team, bringing a contrasting strict and passionate approach that adds competitive tension to the narrative.",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "Development began in 2017 with an initial memo outlining the core theme of fostering cooperation amid individualism, tying into broader recovery efforts following the 2011 Great East Japan Earthquake. As part of the \"Zutto Oen Project 2011 + 10,\" commemorating the disaster's 10th anniversary, the",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "format, featuring self-contained episodes that advance the narrative of the Sōshūkan High School",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "evoke collective progress and forward momentum, tying into the narrative of synchronized team efforts in high-stakes",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": ", though some noted familiar narrative tropes. On",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "The 2022 theatrical film, Eiga Bakuten!!, extended the series' narrative by following the team's national competition arc, maintaining the positive reception and further solidifying its legacy among fans. Released on July 2, 2022, the movie reinforced the original's themes of perseverance and camaraderie, with returning voice cast and staff enhancing its appeal.",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "carry a higher risk of",
+    "url": "https://note.com/one_by_blue/n/n78c7206ec011?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Backflip!! - Wikipedia — Backflip!! (バクテン!!, \"Bakuten!!\") is an original Japanese anime television series produced by Zexcs, directed by Seishirō Nagaya and Toshimasa Kuroyanagi and written by Toshizo Nemoto.",
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "Backflip!! The Movie / 映画バクテン!! | ANIMATION | FOR BUYERS .....「復活きたー！」「絶対に買う」「500万円、600万円は軽く超えそう」...Backflip!! | Animax Wiki | Fandom50年ぶり五輪で復活した大技、フィギュア「バックフリップ」の数奇な... — Soshukan Private High School (Ao High) men’s rhythmic gymnastics club. A unique club of misfits come together as a team, their love for men’s rhythmic gymnastics forming their bond. Dedicating the days of their youth towards a s",
+    "url": "https://fujicreative.co.jp/forBuyers/animation/works-10151/",
+    "pass": 3
+   },
+   {
+    "quote": "Backflip!! | Animax Wiki | Fandom — Backflip!! (バクテン!!, \"Bakuten!!\") is an original Japanese anime television series animated by Zexcs, directed by Seishirō Nagaya and Toshimasa Kuroyanagi and written by Toshizo Nemoto. The series aired from April to June 2021 on Fuji TV's Noitamina programming block.",
+    "url": "https://animax.fandom.com/wiki/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "Watch Backflip!! - CrunchyrollBackflip!! | Animax Wiki | FandomBackflip!! — GrokipediaBackflip - Prime VideoBakuten!! (Backflip!!, TV 2021) - MyAnimeList.netBackflip!! (TV) - Anime News Network — Discover more anime similar to Backflip!! among our ever-growing catalogue of titles featuring unforgettable characters, complete seasons, and fresh releases coming out shortly after airing in Japan. Back",
+    "url": "https://www.crunchyroll.com/series/GXJHM3NEV/backflip",
+    "pass": 3
+   },
+   {
+    "quote": "Backflip!! — Grokipedia — Backflip!! (Japanese: バクテン!!, Hepburn: Bakuten!!) is an original Japanese anime television series that centers on the sport of men's rhythmic gymnastics, following protagonist Shōtarō Futaba as he discovers the discipline during his final summer of middle school and pursues it at Sōshūkan Private High School (also known as Ao High). [1]",
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "pass": 3
+   },
+   {
+    "quote": "Backflip - Prime Video — 1. I Want to Backflip! After a life-changing encounter with men's rhythm gymnastics, Shotaro Futaba joins the team at Soshukan High School. There he meets a collection of colorful characters, including Ryoya Misato, a fellow first-year and middle school gymnastics star.",
+    "url": "https://www.primevideo.com/detail/0PX63IV1SL778W3293O2Z4OZC4/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Backflip Studios achieves hundreds of thousands ... — Backflip Studios (Computer Software) partnered with Kochava (Marketing & Advertising) to solve key challenges. \"Eliminating Excess Clicks Saves Backflip Studios Hundreds of Thousands of Dollars\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/kochava/case-study/eliminating-excess-clicks-saves-backflip-studios-hundreds-of-thousands-of-dollars",
+    "pass": 3
+   },
+   {
+    "quote": "Google Cloud Platform Case Study: Backflip Studios – Backflip ... — Backflip Studios (Computer Software) partnered with Google Cloud Platform (Internet) to solve key challenges. \"Backflip Studios scales mobile games with Google Cloud Platform\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/google-cloud-platform/case-study/backflip-studios-scales-mobile-games-with-google-cloud-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Eliminating Excess Clicks Saves Backflip Studios Hundreds of ... — Eliminating Excess Clicks Saves Backflip Studios Hundreds of Thousands of Dollars Backflip Studios are the venerable creators of DragonVale, NinJump, Paper Toss, and Army of Darkness, among other notable franchise names like Transformers Earth Wars and GI Joe: Strike. Monitoring for fraud was on their radar early on as fraudsters h",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Backflip_Studios.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "How Backflip’s AI Aids Amateur And Veteran 3D Designers AlikeBackflip AI Turbocharges Manufacturing ProfitabilityCUSTOMER STORIES Singular Empowers Backflip Studios To ...Backflip AI Develops Solution for Manufacturing Profitability — Feb 20, 2025 · With its ambitious vision, substantial funding, and a leadership team with deep experience in additive manufacturing, Backflip is poised to reshape ho",
+    "url": "https://www.forbes.com/sites/michaelmolitch-hou/2025/02/20/how-backflips-ai-aids-amateur-and-veteran-3d-designers-alike/",
+    "pass": 3
+   },
+   {
+    "quote": "Backflip AI Turbocharges Manufacturing Profitability — Mar 4, 2025 · Backflip’s new technology helps manufacturing teams compress the time from broken parts to digital 3D models, which helps get production back online faster.",
+    "url": "https://www.businesswire.com/news/home/20250304952768/en/5797109/Backflip-AI-Turbocharges-Manufacturing-Profitability",
+    "pass": 3
+   },
+   {
+    "quote": "Backflip - 2026 Company Profile, Team, Funding & Competitors ... — Mar 2, 2026 · Backflip is a series A company based in San Francisco (United States), founded in 2019 by Adam Foosaner, Joshua Ernst, Jake Rome and Mike Barile. It operates as a Provider of a financial technology platform focused on empowering real estate entrepreneurs. Backflip has raised $33M in funding from investors like Vertica",
+    "url": "https://tracxn.com/d/companies/backflip/__dY6dfgEMs_GdtmUk6UuXV17VACRQW2sHNq5Vm5zVKXA",
+    "pass": 3
+   },
+   {
+    "quote": "Backflip 2026 Company Profile: Valuation, Funding & Investors ...Backflip: Funding, Team & Investors | Startup IntrosBackflip – Revenue, Valuation & Top Competitors – 2026Backflip Revenue, Funding & Valuation - prospeo.ioBackflip: Funding, Investors & Team (Nov 2026) | FundedIQHow Backflip hit $3.5M revenue with a 82 person team in 2025. — Backflip has 10 total employees. What industry is Backflip",
+    "url": "https://pitchbook.com/profiles/company/267082-48",
+    "pass": 3
+   },
+   {
+    "quote": "Backflip: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Backflip has secured $23 million in total equity funding and $27 million in debt financing, including a $15 million Series A round backed by FirstMark Capital, LiveOak Venture Partners, and Vertical Venture Partners. The enterprise was founded in 2020 by Josh Ernst and Jake Rome.",
+    "url": "https://startupintros.com/orgs/backflip",
+    "pass": 3
+   },
+   {
+    "quote": "Backflip – Revenue, Valuation & Top Competitors – 2026 — Understand Backflip through its estimated revenue of $870K, team of around 1-10 employees (United States), showing continued business traction.",
+    "url": "https://compworth.com/company/backflip",
+    "pass": 3
+   },
+   {
+    "quote": "Backflip Revenue, Funding & Valuation - prospeo.ioBackflip: Funding, Investors & Team (Nov 2026) | FundedIQHow Backflip hit $3.5M revenue with a 82 person team in 2025. — Backflip has revenue of $10,000,000, estimated valuation of $32,000,000, $75,265,000 in total funding. Find contacts and company information on Prospeo. Backflip is a Financial Services company in Denver, United States. Raised $2",
+    "url": "https://prospeo.io/c/backflip-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Are backflips dangerous? Actually, the most dangerous thing ... Jan 11, 2026 · Backflips and back handsprings— “That’s impossible for me,” “It’s dangerous, there’s no way I can do that.” I think many people feel this way.🦍 However, having been involved in acrobatics for over 14 years and having coached over 1,000 people from children to adults (ages 1 to 65), the thing I feel is most dangerous is—",
+    "url": "https://note.com/one_by_blue/n/n78c7206ec011?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I Went to a Backflip Class｜Hajime Susukida Now, we started with simple warm-up exercises and preliminary drills necessary for a backflip, and based on how we performed, we were divided into groups according to our levels. We moved step-by-step closer to the backflip. As someone with gymnastics experience from half a century ago, I found the teaching method to be truly excellent and logical. It is ",
+    "url": "https://note.com/mimizukuyou/n/n1577af1f9573?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Backflips and Compromise — What 'Marching Boys' Truly ... What left the strongest impression on me was the scene where the protagonist, who has no gymnastics experience, successfully lands a backflip during the actual performance. Of course, it might be an unlikely development in reality. However, as the emotional peak of the story, that scene certainly functioned well. The persuasiveness of 'this",
+    "url": "https://note.com/aigayuga/n/nc1c5fde976e2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "3Dスキャンしたデータを自動でCADデータに｜Backflipの「Scan-to-CAD... Mar 12, 2025 · Backflipの目玉機能である 「Scan-to-CAD」は、3DスキャンデータをそのままCADモデルに変換するAI技術 です。 従来、3Dスキャナーで取得したデータ（メッシュデータや点群データ）は、手作業でモデリングし直さないとCADデータとして使えませんでした。",
+    "url": "https://note.com/skhonpo/n/n32dd6e8147ce",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Are backflips dangerous? Actually, the most dangerous thing is...?!｜アクロLABO(One×Blue)",
+    "url": "https://note.com/one_by_blue/n/n78c7206ec011?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Are backflips dangerous? Actually, the most dangerous thing is...?!",
+    "url": "https://note.com/one_by_blue/n/n78c7206ec011?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Backflips and back handsprings—",
+    "url": "https://note.com/one_by_blue/n/n78c7206ec011?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "“That’s impossible for me,”",
+    "url": "https://note.com/one_by_blue/n/n78c7206ec011?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "“It’s dangerous, there’s no way I can do that.”",
+    "url": "https://note.com/one_by_blue/n/n78c7206ec011?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I think many people feel this way.🦍",
+    "url": "https://note.com/one_by_blue/n/n78c7206ec011?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, having been involved in acrobatics for over 14 years",
+    "url": "https://note.com/one_by_blue/n/n78c7206ec011?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "and having coached over 1,000 people from children to adults (ages 1 to 65),",
+    "url": "https://note.com/one_by_blue/n/n78c7206ec011?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I Went to a Backflip Class｜Hajime Susukida",
+    "url": "https://note.com/mimizukuyou/n/n1577af1f9573?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I Went to a Backflip Class",
+    "url": "https://note.com/mimizukuyou/n/n1577af1f9573?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For most of my life up until this age, I have done a backflip about once a year to confirm my youth. However, since passing sixty, my form has lost its sharpness, and I cannot shake the feeling that I am barely managing to pull it off. While I was struggling with these worries of aging, my children told me about a place in Oita that holds a \"backflip class.\" Apparently, Takashi Ohno went there for",
+    "url": "https://note.com/mimizukuyou/n/n1577af1f9573?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I immediately contacted my energetic and cute niece to invite her, and she happily tagged along. The three of us—my eldest son, my niece, and I—participated. When we arrived at the venue, there were many cheerleading children energetically finishing their final practice. We entered the venue as they were leaving. I thought we were the only eccentric ones, but others arrived who didn't seem like it",
+    "url": "https://note.com/mimizukuyou/n/n1577af1f9573?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Now, we started with simple warm-up exercises and preliminary drills necessary for a backflip, and based on how we performed, we were divided into groups according to our levels. We moved step-by-step closer to the backflip. As someone with gymnastics experience from half a century ago, I found the teaching method to be truly excellent and logical. It is different from the days of my youth, where ",
+    "url": "https://note.com/mimizukuyou/n/n1577af1f9573?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As for the profiles of the other three, one man who seemed a bit younger than me was an experienced mixed martial artist who had almost mastered the backflip and was receiving guidance on back tucks. Another was practicing while being watched by a small child, and he had quite a knack for it. The last one was a young woman, who was also doing quite well.",
+    "url": "https://note.com/mimizukuyou/n/n1577af1f9573?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My turn came. Since I had declared myself as someone who could already do it, I started by having them assist me as I jumped, and then I repeated the process of correcting my form based on their advice. It was incredibly fun. However, I am still far from my ideal form. We took turns like that, receiving lessons and gradually improving. My eldest son and niece, who came with me, were also shaping u",
+    "url": "https://note.com/mimizukuyou/n/n1577af1f9573?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Backflips and Compromise — What 'Marching Boys' Truly Depicted｜aigayuga",
+    "url": "https://note.com/aigayuga/n/nc1c5fde976e2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Backflips and Compromise — What 'Marching Boys' Truly Depicted",
+    "url": "https://note.com/aigayuga/n/nc1c5fde976e2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In my previous article, I wrote about the 'points that make you want to retort' that I felt while watching 'Marching Song: Marching Boys.' However, beyond those moments of discomfort, there were indeed moments in this film that moved me.",
+    "url": "https://note.com/aigayuga/n/nc1c5fde976e2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "One of them is the 'breathtaking 7-minute performance at the end,' which was also touted in the trailer. I felt this scene was genuinely realistic. For someone like me who has watched my sons' competitions many times, the tension of that moment and the sensation of sound, light, and movement surging forward as one were undeniably authentic.",
+    "url": "https://note.com/aigayuga/n/nc1c5fde976e2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What left the strongest impression on me was the scene where the protagonist, who has no gymnastics experience, successfully lands a backflip during the actual performance. Of course, it might be an unlikely development in reality. However, as the emotional peak of the story, that scene certainly functioned well. The persuasiveness of 'this moment exists precisely because they have come this far' ",
+    "url": "https://note.com/aigayuga/n/nc1c5fde976e2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "And throughout this film, I think what moved me the most was not the performance itself, but the changes and growth in human relationships. The relationship between the father and Jiang Hao, the relationship between the teacher and the students, and the relationships among the club members—each slowly changes its shape within the story.",
+    "url": "https://note.com/aigayuga/n/nc1c5fde976e2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What was particularly impressive was the relationship between the teacher and the students. What each believed to be 'the best way' naturally moved toward a compromise as they learned of each other's feelings. Rather than forcibly resolving conflicts, the relationships changed as their understanding deepened—I was quietly moved by that careful depiction. I think the same can be said for the parent",
+    "url": "https://note.com/aigayuga/n/nc1c5fde976e2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Regarding the protagonist Jiang Hao, I also felt he was 'very much like a high school student.' Having walked the path his father told him to follow until now, and with his father even having a say in his future, he wavers between his own will and the path laid out for him. The actions and emotions born from that discrepancy were truly unique to this generation.",
+    "url": "https://note.com/aigayuga/n/nc1c5fde976e2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "3Dスキャンしたデータを自動でCADデータに｜Backflipの「Scan-to-CAD」と「Idea-to-Mesh」とは？｜SK本舗",
+    "url": "https://note.com/skhonpo/n/n32dd6e8147ce",
+    "pass": 3
+   },
+   {
+    "quote": "3Dスキャンしたデータを自動でCADデータに｜Backflipの「Scan-to-CAD」と「Idea-to-Mesh」とは？",
+    "url": "https://note.com/skhonpo/n/n32dd6e8147ce",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング業界の新たなスタートアップ",
+    "url": "https://note.com/skhonpo/n/n32dd6e8147ce",
+    "pass": 3
+   },
+   {
+    "quote": "によって設立され、注目を集めています。この新企業は、",
+    "url": "https://note.com/skhonpo/n/n32dd6e8147ce",
+    "pass": 3
+   },
+   {
+    "quote": "を開発し、従来の3D設計プロセスを大幅に効率化しようとしています。",
+    "url": "https://note.com/skhonpo/n/n32dd6e8147ce",
+    "pass": 3
+   },
+   {
+    "quote": "スキャンデータをCADモデルに変換する技術",
+    "url": "https://note.com/skhonpo/n/n32dd6e8147ce",
+    "pass": 3
+   },
+   {
+    "quote": "テキスト入力だけで3Dモデルを生成する技術",
+    "url": "https://note.com/skhonpo/n/n32dd6e8147ce",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティングや製造業における設計の手間を劇的に減らす可能性",
+    "url": "https://note.com/skhonpo/n/n32dd6e8147ce",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "NFL on X: \"\"I'm gonna do a backflip.\" The @packers had a team ... \"I'm gonna do a backflip.\" The @packers had a team celebration planned, but Christian Watson had another idea in mind 😅 @insidethenfl Week 9 Mic'd Up on X",
+    "url": "https://x.com/NFL/status/2119896925461713104",
+    "pass": 3
+   },
+   {
+    "quote": "GTA 6 Countdown ⏳ on X: \"The backflip animation in GTA 6 has ... The backflip animation in GTA 6 has significantly improved since the Extended Look. It looks a lot more natural and realistic now.",
+    "url": "https://x.com/GTAVI_Countdown/status/2120197930988552521",
+    "pass": 3
+   },
+   {
+    "quote": "John on X: \"Backflip in GTA 6 - November vs. August Everyone ... Backflip in GTA 6 - November vs. August Everyone made fun of Rockstar for showcasing a stiff backflip animation in the Extended Look back in August. Now, in the latest Pre-Load trailer, they showed us that they take our feedbacks seriously. 👀",
+    "url": "https://x.com/TheCassiniGames/status/2120163720198594774",
+    "pass": 3
+   },
+   {
+    "quote": "A guy on TikTok tried to remake the weird Jason backflip ... A guy on TikTok tried to remake the weird Jason backflip animation we saw in the GTA 6 Extended Look! 😂",
+    "url": "https://x.com/GTASNEWSLEAKS/status/2093352918971793905",
+    "pass": 3
+   },
+   {
+    "quote": "@BackflipStudios | X The latest posts from @BackflipStudios",
+    "url": "https://x.com/BackflipStudios",
+    "pass": 3
+   },
+   {
+    "quote": "リクター86 (@BackFlip86) / X 実は無限に還元される方法があるのですが、大勢でやると絶対塞がれるので上限突破する方法知りたい方だけにこっそり教えます。 この投稿に いいね & Show more 21 リクター86 @BackFlip86",
+    "url": "https://x.com/BackFlip86",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Backflip - LinkedIn Backflip | 13,404 followers on LinkedIn. Reinvigorating neighborhoods by supporting real estate entrepreneurs with innovative technology and capital. | Backflip is a proptech + fintech company ...",
+    "url": "https://www.linkedin.com/company/backflip/",
+    "pass": 3
+   },
+   {
+    "quote": "Backflip AI - LinkedIn Backflip AI | 4,703 followers on LinkedIn. The AI copilot that CADs like a human | Backflip is pioneering AI models and tools for people who design the physical world. Our AI CAD copilot collapses ...",
+    "url": "https://www.linkedin.com/company/backflip-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Backflip - LinkedIn Backflip is the world’s first full-service third-party logistics (3PL) provider for professional resellers who want to outsource the most time-consuming parts of their resale business.",
+    "url": "https://www.linkedin.com/company/backflip-official",
+    "pass": 3
+   },
+   {
+    "quote": "Backflip - LinkedIn Backflip | 1,216 followers on LinkedIn. Flippin Good Cereal | Breakfast used to be the best part of being a kid. Fun, imaginative, full of personality. Then somewhere along the way, the cereal ...",
+    "url": "https://www.linkedin.com/company/backflipbreakfast",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Backflip - FacebookThe Perfect Way to Do a Backflip #backflip #tutorial # ...Zero gravity unlocked! Rate this massive Brooklyn bridge ...BackFlip Cocktails | St. Louis MO - FacebookHow - Here’s how to do a **backflip** step ... - FacebookTired of slow funding and rigid terms? Backflip delivers fast ...Backflip Madness - Facebook Oct 27, 2026 · Backflip. 8,880 followers · 51 talking about this. Sma",
+    "url": "https://www.facebook.com/dobackflip/",
+    "pass": 3
+   },
+   {
+    "quote": "The Perfect Way to Do a Backflip #backflip #tutorial # ... Oct 11, 2025 · The Perfect Way to Do a Backflip #backflip #tutorial #gymnastics #parkour #acrobatics",
+    "url": "https://www.facebook.com/reel/968007348858938/",
+    "pass": 3
+   },
+   {
+    "quote": "BackFlip Cocktails | St. Louis MO - FacebookHow - Here’s how to do a **backflip** step ... - FacebookTired of slow funding and rigid terms? Backflip delivers fast ...Backflip Madness - Facebook May 20, 2025 · Excited about a new non alcohol product line at BackFlip Cocktails, soon to be rebranded as BackFlip Beverages! Now everyone will be able to enjoy a BackFlip! Stay tuned and we appreciate all",
+    "url": "https://www.facebook.com/backflipcocktails/",
+    "pass": 3
+   },
+   {
+    "quote": "How - Here’s how to do a **backflip** step ... - Facebook Jun 21, 2025 · How 😭 - Here’s how to do a **backflip** step by step — simple and safe: ⚠️ **Important**: Try this on soft ground (like a mat or grass), and ask someone experienced to spot you the first time.",
+    "url": "https://www.facebook.com/reel/687290010737154/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.backflip.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.backflip.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.backflip.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.backflip.ai/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fujicreative.co.jp/forBuyers/animation/works-10151/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://animax.fandom.com/wiki/Backflip!!",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://carislife.hatenablog.com/entry/20261106/1793964600",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai-hikaku.com/?p=36920",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Backflip!!",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchyroll.com/series/GXJHM3NEV/backflip",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://animax.fandom.com/wiki/Backflip!!",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://grokipedia.com/page/Backflip!!",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/kochava/case-study/eliminating-excess-clicks-saves-backflip-studios-hundreds-of-thousands-of-dollars",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/google-cloud-platform/case-study/backflip-studios-scales-mobile-games-with-google-cloud-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Backflip_Studios.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.forbes.com/sites/michaelmolitch-hou/2025/02/20/how-backflips-ai-aids-amateur-and-veteran-3d-designers-alike/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partnerportal.fortinet.com/English/?ReturnUrl=%2FEnglish%2FNAReseller%2Fhome.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/backflip/__dY6dfgEMs_GdtmUk6UuXV17VACRQW2sHNq5Vm5zVKXA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/267082-48",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/backflip",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/backflip",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/one_by_blue/n/n78c7206ec011?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mimizukuyou/n/n1577af1f9573?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/aigayuga/n/nc1c5fde976e2?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/skhonpo/n/n32dd6e8147ce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/NFL/status/2119896925461713104",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/GTAVI_Countdown/status/2120197930988552521",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TheCassiniGames/status/2120163720198594774",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/GTASNEWSLEAKS/status/2093352918971793905",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/backflip/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/backflip-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/backflip-official",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/backflipbreakfast",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/dobackflip/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/reel/968007348858938/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/backflipcocktails/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/reel/687290010737154/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BackflipStudios",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BackFlip86",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Backflip 日本 導入",
+   "results": [
+    "https://en.wikipedia.org/wiki/Backflip!!",
+    "https://fujicreative.co.jp/forBuyers/animation/works-10151/",
+    "https://animax.fandom.com/wiki/Backflip!!",
+    "https://carislife.hatenablog.com/entry/20261106/1793964600",
+    "https://trafficnews.jp/post/721548",
+    "https://bike-news.jp/post/479155",
+    "https://forbesjapan.com/articles/detail/91533"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Backflip 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://companydata.tsujigawa.com/company/2010001177818/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Backflip Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Backflip!!",
+    "https://www.crunchyroll.com/series/GXJHM3NEV/backflip",
+    "https://animax.fandom.com/wiki/Backflip!!",
+    "https://grokipedia.com/page/Backflip!!",
+    "https://www.primevideo.com/detail/0PX63IV1SL778W3293O2Z4OZC4/",
+    "https://myanimelist.net/anime/43756/Bakuten",
+    "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23955"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Backflip manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/kochava/case-study/eliminating-excess-clicks-saves-backflip-studios-hundreds-of-thousands-of-dollars",
+    "https://www.casestudies.com/company/google-cloud-platform/case-study/backflip-studios-scales-mobile-games-with-google-cloud-platform",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Backflip_Studios.pdf",
+    "https://www.forbes.com/sites/michaelmolitch-hou/2025/02/20/how-backflips-ai-aids-amateur-and-veteran-3d-designers-alike/",
+    "https://www.businesswire.com/news/home/20250304952768/en/5797109/Backflip-AI-Turbocharges-Manufacturing-Profitability",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Backflip_Studios_ylJft2D.pdf",
+    "https://www.digitalengineering247.com/article/backflip-ai-develops-solution-for-manufacturing-profitability"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Backflip white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.ninjaone.com/partner-program/",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Backflip founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/backflip/__dY6dfgEMs_GdtmUk6UuXV17VACRQW2sHNq5Vm5zVKXA",
+    "https://pitchbook.com/profiles/company/267082-48",
+    "https://startupintros.com/orgs/backflip",
+    "https://compworth.com/company/backflip",
+    "https://prospeo.io/c/backflip-revenue",
+    "https://fundediq.co/backflip-backflip-com-funding/",
+    "https://getlatka.com/companies/backflip.com/customers"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Backflip",
+   "results": [
+    "https://note.com/one_by_blue/n/n78c7206ec011?hl=en",
+    "https://note.com/mimizukuyou/n/n1577af1f9573?hl=en",
+    "https://note.com/aigayuga/n/nc1c5fde976e2?hl=en",
+    "https://note.com/skhonpo/n/n32dd6e8147ce",
+    "https://note.com/gilles_105/n/n54d3fb88de70?hl=en",
+    "https://note.com/duckidpappy/n/n02f136365994?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Backflip",
+   "results": [
+    "https://x.com/NFL/status/2119896925461713104",
+    "https://x.com/GTAVI_Countdown/status/2120197930988552521",
+    "https://x.com/TheCassiniGames/status/2120163720198594774",
+    "https://x.com/GTASNEWSLEAKS/status/2093352918971793905",
+    "https://x.com/JackWilliamRtF/status/1968869331825025354",
+    "https://x.com/shliymm/status/2120198285214490936",
+    "https://x.com/SlipsterOG/status/2120178080799195180"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Backflip",
+   "results": [
+    "https://www.linkedin.com/company/backflip/",
+    "https://www.linkedin.com/company/backflip-ai",
+    "https://www.linkedin.com/company/backflip-official",
+    "https://www.linkedin.com/company/backflipbreakfast",
+    "https://www.linkedin.com/in/jakerome",
+    "https://www.linkedin.com/in/vincent-brunetto",
+    "https://www.linkedin.com/in/joshuaernst"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Backflip",
+   "results": [
+    "https://www.facebook.com/dobackflip/",
+    "https://www.facebook.com/reel/968007348858938/",
+    "https://www.facebook.com/backflipcocktails/",
+    "https://www.facebook.com/reel/687290010737154/",
+    "https://www.facebook.com/dobackflip/videos/backflip-your-next-flip-starts-here/1180411800428093/",
+    "https://www.facebook.com/backflipmadness/",
+    "https://www.facebook.com/larryflipsUSA/videos/zero-gravity-unlocked-rate-this-massive-brooklyn-bridge-backflip-from-1-to-10-in/1130620626120661/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Backflip note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://massivesapporo.com/blog-hr/9994/",
+    "https://note.com/sadaaki",
+    "https://japan.cnet.com/article/35243781/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Backflip X 投稿",
+   "results": [
+    "https://x.com/BackflipStudios",
+    "https://x.com/BackFlip86",
+    "https://x-sou.com/ja/u/sakenexe/2051381387723489304",
+    "https://www.backflip.ai/",
+    "https://eng.backflip.ai/",
+    "https://x-sou.com/ja/u/Jaybaesun/2100288145946276154",
+    "https://bluev.fun/help"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部42頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部42頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部42頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部42頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部42頁・検索12回）"
+ }
+}

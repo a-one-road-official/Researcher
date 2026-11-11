@@ -1,0 +1,1621 @@
+{
+ "name": "Zoovu",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-11T04:45:45.585479+00:00",
+ "official_url": "https://www.zoovu.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$236,000",
+    "url": "https://prospeo.io/c/zoovu-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$169,000,000",
+    "url": "https://prospeo.io/c/zoovu-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "855 Boylston St, Suite 100 (Floor 10), Boston, Massachusetts 02116, US",
+    "url": "https://prospeo.io/c/zoovu-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2006",
+    "url": "https://prospeo.io/c/zoovu-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Zoovu: AI Product Discovery",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Product Discovery Experiences",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Build digital assistants that give personalized product recommendations",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Product Recommendations",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Product Configuration Tools",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Launch product configuration to bundle, cross-sell, and collect more leads",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Complex Product Configurator",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Connect customers with Zoe, a personal product expert powered by AI",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Gen-AI Product Advisor",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Clean, standardize, and enrich product data to make it more discoverable",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Product Data Enrichment",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Product Content Enrichment",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Product Data & Retail Partners",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Guided discovery for consumer products, from first click to checkout.",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Configure complex catalogs and technical products with confidence.",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify complex product choices for everyday living",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Enable accurate, compliant product discovery",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Support accurate, compliant product selection",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "AI Product Discovery for B2C & B2B",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Zoovu unifies product discovery on one engine to power experiences across B2C and B2B that lift",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Choose eye protection",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "One engine. Every capability you need for product discovery.",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "See the engine that powers product discovery for the world's top",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Scalability",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Visual Product Configurator",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Product Discovery Across Retail Partners | Zoovu",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Product Discovery Experiences",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Build digital assistants that give personalized product recommendations",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Product Recommendations",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Product Configuration Tools",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Launch product configuration to bundle, cross-sell, and collect more leads",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Complex Product Configurator",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Connect customers with Zoe, a personal product expert powered by AI",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Gen-AI Product Advisor",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Clean, standardize, and enrich product data to make it more discoverable",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Product Data Enrichment",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Product Content Enrichment",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Product Data & Retail Partners",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Guided discovery for consumer products, from first click to checkout.",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Configure complex catalogs and technical products with confidence.",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify complex product choices for everyday living",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Enable accurate, compliant product discovery",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Support accurate, compliant product selection",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Product discovery across retail partners",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "One trusted product data foundation.",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Zoovu transforms fragmented product information into structured, enriched product intelligence so retail partners can deliver accurate, on-brand discovery without rebuilding your expertise from scratch.",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "One trusted product understanding",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Product expertise gets lost between brand and retailer",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "A product may begin with rich technical knowledge and precise use cases, yet arrive in a partner catalog as a short description and a list of disconnected attributes.",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Retail teams left to interpret complex products",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Product Discovery Experiences",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Build digital assistants that give personalized product recommendations",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Product Recommendations",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Product Configuration Tools",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Launch product configuration to bundle, cross-sell, and collect more leads",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Complex Product Configurator",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Connect customers with Zoe, a personal product expert powered by AI",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Gen-AI Product Advisor",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Clean, standardize, and enrich product data to make it more discoverable",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Product Data Enrichment",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Industrial manufacturing",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's leading brands",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Manager of Ecommerce Strategy - Global industrial company",
+    "url": "https://zoovu.com",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Manager of Ecommerce Strategy - Global industrial company",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing CPQ Solution | Sales and Self-Service",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing CPQ Solution",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Cut quoting time from days to minutes with a CPQ built for manufacturers",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate industrial manufacturing sales with Zoovu’s AI-powered CPQ. Deliver precise, compliant configurations and quotes in minutes, empowering buyers with confidence and driving operational efficiency.",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Get the 2026 Manufacturers Ecommerce Benchmark",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Join leading industrial manufacturers using Zoovu",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Zoovu’s CPQ removes friction from industrial manufacturing sales. It guides sales teams and online buyers through every specification, automates BOM generation, and produces precise quotes instantly. The result? Faster turnaround times, higher win rates, and scalable growth across global markets.",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "CPQ for Manufacturers",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time visual configuration for industrial systems",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure every configuration is compatible and compliant with built in compatibility logic built for manufacturing. Equip sales teams to handle any variant or customer requirement without technical bottlenecks.",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Transform how you sell industrial products online",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "industrial manufacturing companies",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "industrial and manufacturing ecommerce",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Build visual product configurators for industrial and manufacturing products.",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Experience Zoovu’s industrial manufacturing CPQ in action with a custom demo",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Manager of Ecommerce Strategy - Global industrial company",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing",
+    "url": "https://zoovu.com/zoovu-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://zoovu.com/zoovu-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Check out the Luna case study",
+    "url": "https://zoovu.com/zoovu-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Domain Applications & Content Factory, Einhell Germany AG",
+    "url": "https://zoovu.com/zoovu-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Manager of Ecommerce Strategy - Global industrial company",
+    "url": "https://zoovu.com/zoovu-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing",
+    "url": "https://zoovu.com/solutions/ecommerce-site-search",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://zoovu.com/solutions/ecommerce-site-search",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Manager of Ecommerce Strategy - Global industrial company",
+    "url": "https://zoovu.com/solutions/ecommerce-site-search",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing",
+    "url": "https://zoovu.com/b2b-sales",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://zoovu.com/b2b-sales",
+    "pass": 1
+   },
+   {
+    "quote": "From industrial equipment to custom-built solutions, many B2B products require detailed configurations. Zoovu’s product configurators make it easy for buyers to customize, validate, and purchase with confidence.",
+    "url": "https://zoovu.com/b2b-sales",
+    "pass": 1
+   },
+   {
+    "quote": "How B2B manufacturers are increasing online sales and",
+    "url": "https://zoovu.com/b2b-sales",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Manager of Ecommerce Strategy - Global industrial company",
+    "url": "https://zoovu.com/b2b-sales",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing",
+    "url": "https://zoovu.com/ecommerce-personalization-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://zoovu.com/ecommerce-personalization-platform",
+    "pass": 1
+   },
+   {
+    "quote": "The ecommerce data platform trusted by industry leaders",
+    "url": "https://zoovu.com/ecommerce-personalization-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Manager of Ecommerce Strategy - Global industrial company",
+    "url": "https://zoovu.com/ecommerce-personalization-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing",
+    "url": "https://zoovu.com/our-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://zoovu.com/our-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Manager of Ecommerce Strategy - Global industrial company",
+    "url": "https://zoovu.com/our-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing",
+    "url": "https://zoovu.com/industries/home-appliances",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://zoovu.com/industries/home-appliances",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's leading appliance brands",
+    "url": "https://zoovu.com/industries/home-appliances",
+    "pass": 1
+   },
+   {
+    "quote": "Resources for home appliance manufacturers",
+    "url": "https://zoovu.com/industries/home-appliances",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Manager of Ecommerce Strategy - Global industrial company",
+    "url": "https://zoovu.com/industries/home-appliances",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing",
+    "url": "https://zoovu.com/industries/consumer-technology",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://zoovu.com/industries/consumer-technology",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Manager of Ecommerce Strategy - Global industrial company",
+    "url": "https://zoovu.com/industries/consumer-technology",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing",
+    "url": "https://zoovu.com/industries/sports-outdoors-recreation",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://zoovu.com/industries/sports-outdoors-recreation",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Manager of Ecommerce Strategy - Global industrial company",
+    "url": "https://zoovu.com/industries/sports-outdoors-recreation",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing",
+    "url": "https://zoovu.com/industries/tools-equipment",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://zoovu.com/industries/tools-equipment",
+    "pass": 1
+   },
+   {
+    "quote": "Zoovu improves product discovery for tools and equipment so your customers can find the right drill, power saw, or industrial part for their project. Build product finders that ask needs-based questions, then recommend the perfect products so you can increase everything from conversion rates to customer satisfaction.",
+    "url": "https://zoovu.com/industries/tools-equipment",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Manager of Ecommerce Strategy - Global industrial company",
+    "url": "https://zoovu.com/industries/tools-equipment",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "A product may begin with rich technical knowledge and precise use cases, yet arrive in a partner catalog as a short description and a list of disconnected attributes.",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Prove the approach in a focused place, then carry the same governed foundation into every new partner activation.",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Reported store revenue uplift",
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate revenue growth",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "Cross-selling and bundling logic to increase cart size and revenue",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "With Zoovu, we drive revenue and solidify our market position as easy to work and to buy from.",
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "“With Zoovu, we drive revenue and solidify our market position as easy to work and to buy from.”",
+    "url": "https://zoovu.com/zoovu-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Zoovu creates an environment to help non-tech-savvy customers select high-end telco services without scaring them away. Great communication with Zoovu employees helps make developing advisors a fun and easy job. Very competent designers and technical advisors give great support and a professional approach.",
+    "url": "https://zoovu.com/zoovu-reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Push search updates in minutes, not days. Set rules to highlight high-margin products and boost revenue effortlessly.",
+    "url": "https://zoovu.com/solutions/ecommerce-site-search",
+    "pass": 1
+   },
+   {
+    "quote": "With Zoovu, we drive revenue and solidify our market position as easy to work and to buy from.",
+    "url": "https://zoovu.com/solutions/ecommerce-site-search",
+    "pass": 1
+   },
+   {
+    "quote": "Digitize sales and unlock more revenue from online channels",
+    "url": "https://zoovu.com/b2b-sales",
+    "pass": 1
+   },
+   {
+    "quote": "Honeywell creates self-serve buying experiences to increase revenue",
+    "url": "https://zoovu.com/b2b-sales",
+    "pass": 1
+   },
+   {
+    "quote": "With Zoovu, we drive revenue and solidify our market position as easy to work and to buy from.",
+    "url": "https://zoovu.com/b2b-sales",
+    "pass": 1
+   },
+   {
+    "quote": "With Zoovu, we drive revenue and solidify our market position as easy to work and to buy from.",
+    "url": "https://zoovu.com/ecommerce-personalization-platform",
+    "pass": 1
+   },
+   {
+    "quote": "With Zoovu, we drive revenue and solidify our market position as easy to work and to buy from.",
+    "url": "https://zoovu.com/our-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Customers face a lot of barriers when shopping online—products that look the same, search that doesn't work, and specs that are too technical to understand. That's why thousands of people visit your ecommerce site every day to buy something and don't.",
+    "url": "https://zoovu.com/industries/home-appliances",
+    "pass": 1
+   },
+   {
+    "quote": "With Zoovu, we drive revenue and solidify our market position as easy to work and to buy from.",
+    "url": "https://zoovu.com/industries/home-appliances",
+    "pass": 1
+   },
+   {
+    "quote": "Customers face a lot of barriers when shopping online—products that look the same, search that doesn't work, and specs that are too technical to understand. That's why thousands of people visit your ecommerce site every day to buy something and don't.",
+    "url": "https://zoovu.com/industries/consumer-technology",
+    "pass": 1
+   },
+   {
+    "quote": "\"With Zoovu, we drive revenue and solidify our market position as easy to work and to buy from.\"",
+    "url": "https://zoovu.com/industries/consumer-technology",
+    "pass": 1
+   },
+   {
+    "quote": "Customers face a lot of barriers when shopping online—products that look the same, search that doesn't work, and specs that are too technical to understand. That's why thousands of people visit your ecommerce site every day to buy something and don't.",
+    "url": "https://zoovu.com/industries/sports-outdoors-recreation",
+    "pass": 1
+   },
+   {
+    "quote": "With Zoovu, we drive revenue and solidify our market position as easy to work and to buy from.",
+    "url": "https://zoovu.com/industries/sports-outdoors-recreation",
+    "pass": 1
+   },
+   {
+    "quote": "Customers face a lot of barriers when shopping online—products that look the same, search that doesn’t work, and specs that are too technical to understand. That’s why thousands of people visit your ecommerce site every day to buy something and don't.",
+    "url": "https://zoovu.com/industries/tools-equipment",
+    "pass": 1
+   },
+   {
+    "quote": "Customers face many barriers when shopping online—products that look the same, search that doesn't work, and specs that are too technical to understand. That's why thousands of people visit your ecommerce site every day and don't buy anything.",
+    "url": "https://zoovu.com/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "With Zoovu, we drive revenue and solidify our market position as easy to work and to buy from.",
+    "url": "https://zoovu.com/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Lift in revenue per session",
+    "url": "https://zoovu.com/industries/beauty",
+    "pass": 1
+   },
+   {
+    "quote": "Customers face many barriers when shopping online. Products that look the same, search that doesn’t work, and specs that are too technical to understand. That's why thousands of people visit your ecommerce site every day and don't buy anything. Here's how Zoovu is changing that:",
+    "url": "https://zoovu.com/industries/beauty",
+    "pass": 1
+   },
+   {
+    "quote": "Higher search-based revenue per user",
+    "url": "https://zoovu.com/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "inspiration that never converts, every bounced session is revenue walking out the door.",
+    "url": "https://zoovu.com/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Valentino saw a 56% increase in revenue per user after deploying Zoovu's AI Search.",
+    "url": "https://zoovu.com/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Zoovu’s CPQ built and tested for medical manufacturers simplifies the complexity of selling. We build CPQ solutions to guide sales teams and buyers through every specification, automate compliant configurations, and generate accurate quotes instantly, reducing turnaround times and driving faster revenue.",
+    "url": "https://zoovu.com/industries/medical-equipment-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "With Zoovu, we drive revenue and solidify our market position as easy to work and to buy from.",
+    "url": "https://zoovu.com/industries/medical-equipment-cpq",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered search that understands intent, improves discovery, and drives revenue.",
+    "url": "https://zoovu.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Your advisor will walk you through the available commercial terms as part of your tailored proposal.",
+    "url": "https://zoovu.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "With Zoovu, we drive revenue and solidify our market position as easy to work and to buy from.",
+    "url": "https://zoovu.com/our-customers?category=b2b",
+    "pass": 1
+   },
+   {
+    "quote": "The product discovery solutions offered by Euronics and Zoovu have already helped retailers increase customer engagement by 66%, drive a 25% average increase in online conversion rates, boost in-store revenue by 27%, and reduce cart abandonment rates by 10%.",
+    "url": "https://zoovu.com/news/zoovu-and-euronics-new-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Want to be a part of the Zoovu team?",
+    "url": "https://zoovu.com/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "B/S/H expands global reach and drives revenue with Zoovu",
+    "url": "https://www.casestudies.com/company/zoovu",
+    "pass": 3
+   },
+   {
+    "quote": "Canon achieves 14% revenue growth with Zoovu",
+    "url": "https://www.casestudies.com/company/zoovu",
+    "pass": 3
+   },
+   {
+    "quote": "B/S/H expands its global reach and drives revenue with syndication",
+    "url": "https://zoovu.com/case-study/bsh",
+    "pass": 3
+   },
+   {
+    "quote": "built digital assistants for 100+ retail sites. Microsoft added Zoe, an AI advisor, to answer real-time questions online and in stores. Engagement rose by 90%, conversion rates increased by 25% on Zoe-enabled pages, and in-store revenue grew by 27%. Retail partners also saw better customer experiences and more sales.",
+    "url": "https://www.cuspera.com/products/zoovu-x-6297/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "simple words. Canon launched a Printer Advisor that asked easy questions to guide buyers. Customers could use these tools on any channel. Canon saw a 14% increase in revenue, a 62% boost in conversion rate, and more people reached the recommendations page. Engagement with digital assistants went up by 53%.",
+    "url": "https://www.cuspera.com/products/zoovu-x-6297/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Zoovu helped Sonos increase conversion rate by 7. 25%. Sonos wanted to improve on-site revenue and replace their old personalization",
+    "url": "https://www.cuspera.com/products/zoovu-x-6297/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "tool. They used Zoovu's predictive recommendations for 1:1 shopping experiences. An A/B test showed Zoovu outperformed the previous solution. Revenue per user rose by 7.05% and purchases grew by 8.24%. Integration took less than two weeks.",
+    "url": "https://www.cuspera.com/products/zoovu-x-6297/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "simple words. Canon launched a Printer Advisor that asked easy questions to guide buyers. Customers could use these tools online, just like getting help in a store. Canon saw a 14% increase in revenue and a 62% boost in conversion rates. More people reached the recommendations page and engaged with digital assistants.",
+    "url": "https://www.cuspera.com/products/zoovu-x-6297/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "built digital assistants for guided selling. Microsoft scaled these assistants to over 100 retail partner sites in many languages. Adding Zoovu's AI advisor, Zoe, boosted engagement by 90% and conversion rates by 25%. In-store revenue rose 27% with Zoe on kiosks. Over 1 million customer interactions show shoppers buy more with guided help.",
+    "url": "https://www.cuspera.com/products/zoovu-x-6297/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "like in-store, making it easier to choose the right bike. Zoovu unified product data and search, leading to a 47.7% higher conversion rate and 17.5% revenue growth. Search click-through rate rose by 77%, and product finder completion hit 89%. Store teams also use Zoovu tools to help customers faster.",
+    "url": "https://www.cuspera.com/products/zoovu-x-6297/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Zoovu helped Lucky Bike boost its conversion rate by 47. 7% and increase revenue by 17.5%. Lucky Bike used Zoovu's",
+    "url": "https://www.cuspera.com/products/zoovu-x-6297/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "like in-store, making it easier to choose the right bike. Lucky Bike saw a 47.7% increase in conversion rate and 17.5% revenue growth. Search click-through rate rose by 77%, and product listing page CTR jumped 150%. Store teams also use Zoovu tools to help customers faster.",
+    "url": "https://www.cuspera.com/products/zoovu-x-6297/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "improve relevance and reduce empty results. The new AI-powered search engine went live in just 30 days. Revenue per user grew by 56%. User exit rate dropped by 4%. The solution delivered instant, personalized results and dynamic filtering for shoppers.",
+    "url": "https://www.cuspera.com/products/zoovu-x-6297/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Zoovu Recommendations helped Reformation, a direct-to-consumer fashion brand, boost revenue per user by 4%. The AI-powered solution was live in",
+    "url": "https://www.cuspera.com/products/zoovu-x-6297/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Zoovu Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/zoovu-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Zoovu",
+    "url": "https://prospeo.io/c/zoovu-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/zoovu-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/zoovu-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/zoovu-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Zoovu?",
+    "url": "https://prospeo.io/c/zoovu-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Zoovu generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/zoovu-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/zoovu-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/zoovu-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Zoovu have?",
+    "url": "https://prospeo.io/c/zoovu-revenue",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Turn your search bar into your brand’s",
+    "url": "https://zoovu.com/solutions/ecommerce-site-search",
+    "pass": 1
+   },
+   {
+    "quote": "Ingersoll Rand's Parts Finder Assistant helps customers find OEM compressor parts, fittings and accessories to suit their exact compressor.",
+    "url": "https://zoovu.com/industries/tools-equipment",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Zoovu: AI Product Discovery — \"Over the past six years, Zoovu has proven to be a crucial partner in developing a product discovery strategy that enhances the shopping experience across a multitude of retailers.\"",
+    "url": "https://zoovu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Zoovue: AI製品発見 | SeekToolツールディレクトリ — 2 days ago · Zoovu 製品情報 Zoovuとは何ですか？ Zoovuは、B2CおよびB2Bのeコマース向けに検索、レコメンデーション、パーソナライズ、AIを統合した製品発見エンジンです。 複雑なカタログや技術的な製品の選択を支援し、コンバージョン率や平均注文金額の向上を目指し ...",
+    "url": "https://seektool.ai/jp/ai/zoovu-com",
+    "pass": 3
+   },
+   {
+    "quote": "Zoovu社、XGEN AIを買収し、Eコマース商品 ... - moomoo — May 19, 2026 · The acquisition is backed by FTV Capital, a leading sector-focused growth equity firm and Zoovu's lead investor. The investment underscores FTV's continued conviction in Zoovu's strategy to build the category-defining ecommerce revenue engine for enterprise product discovery.",
+    "url": "https://www.moomoo.com/ja/news/post/70245645/zoovu-acquires-xgen-ai-to-create-one-ai-native-engine",
+    "pass": 3
+   },
+   {
+    "quote": "Zoovu's Customer Success Stories | Case Studies | Zoovu — Discover how companies like Bosch, Microsoft, and more create customer-centric discovery experiences with Zoovu.",
+    "url": "https://zoovu.com/our-customers",
+    "pass": 3
+   },
+   {
+    "quote": "About Zoovu | We’re On A Mission To Transform Digital Commerce — That’s exactly what Zoovu’s guided selling, visual bundling, configurator, and intelligent search solutions offer. Use AI to help customers discover the perfect product for them every time.",
+    "url": "https://zoovu.com/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Zoovu: AI Product Discovery — Turn taste and intent into moments shoppers love. Inspire browsers and convert more buyers. Zoovu reads shopper intent and taste to personalize the next moment that moves them closer to checkout.",
+    "url": "https://zoovu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About Zoovu | We’re On A Mission To Transform Digital Commerce — Zoovu empowers you to collect zero-party data in a single place to find out what your customers need, why they buy, and how to elevate the customer experience. The best solution also comes with a partnership.",
+    "url": "https://zoovu.com/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Zoovu | LinkedIn — Zoovu is an AI-Powered Product Discovery platform for enterprise businesses, that delivers rich, contextual, and personalized experiences that people understand, across all channels, so that...",
+    "url": "https://jp.linkedin.com/company/zoovu",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study Zoovu — FREE 30-MIN DEMO Your buyers are leaving empty-handed. We'll show you exactly what's breaking in their journey. “Six years in, Zoovu is core to how we do product discovery.” Senior Director of Digital Strategy and Ecommerce - Microsoft “We saw roughly a 30% conversion increase literally overnight.” Marketing Manager - Knoble Night Games",
+    "url": "https://zoovu.com/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Zoovu B2B Case Studies & Customer Successes — See how Zoovu solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/zoovu",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study I BSH + Zoovu — See how Zoovu helps deliver consistent, customer-centric product experiences worldwide with enriched product content, digital assistants, and visual configuration working together.",
+    "url": "https://zoovu.com/case-study/bsh",
+    "pass": 3
+   },
+   {
+    "quote": "zoovu Case Studies & Customer Success | CusperaZoovu Case Study: 3M – 3M enables safe work environments by ...Case Study: Zoovu — How AI-Powered Discovery is ... - LinkedIn18 Zoovu Case Studies, Success Stories, & Customer Stories — Bosch Power Tools used Zoovu to simplify the online buying process for power tools and accessories. Their large product range... made it hard for customers to find the",
+    "url": "https://www.cuspera.com/products/zoovu-x-6297/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Zoovu Case Study: 3M – 3M enables safe work environments by ... — 3M (Mechanical or Industrial Engineering) partnered with Zoovu (Internet) to solve key challenges. \"3M enables safe work environments by simplifying complex purchase decisions\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/zoovu/case-study/3m-enables-safe-work-environments-by-simplifying-complex-purchase-decisions",
+    "pass": 3
+   },
+   {
+    "quote": "Zoovu - 2026 Company Profile, Team, Funding, Competitors ...zoovu – Financials, Industry Trends & Funding Info – 2026Zoovu Revenue, Funding & ValuationZoovu Revenue 2022: $25.1M ARR, $75.2M Valuation - LATKAZoovu: Funding, Team & Investors | Startup IntrosZoovu Information - RocketReachZoovu Funding: $192.0M Raised, Investors & History (2026 ... — Jul 20, 2026 · Zoovu is a series C company based i",
+    "url": "https://tracxn.com/d/companies/zoovu/__4gxRlQULwZ6uwxQlHAI3wAK4sQbdCkzBJjXiakeXgjI",
+    "pass": 3
+   },
+   {
+    "quote": "zoovu – Financials, Industry Trends & Funding Info – 2026 — Discover zoovu's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/zoovu",
+    "pass": 3
+   },
+   {
+    "quote": "Zoovu Revenue, Funding & ValuationZoovu Revenue 2022: $25.1M ARR, $75.2M Valuation - LATKAZoovu: Funding, Team & Investors | Startup IntrosZoovu Information - RocketReachZoovu Funding: $192.0M Raised, Investors & History (2026 ... — Zoovu has revenue of $40,000,000, estimated valuation of $128,000,000, $169,000,000 in total funding. Find contacts and company information on Prospeo. Apr 10, 2025 · ",
+    "url": "https://prospeo.io/c/zoovu-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Zoovu Revenue 2022: $25.1M ARR, $75.2M Valuation - LATKA — Apr 10, 2025 · In 2022, Zoovu's revenue reached $25.1M. Since its launch in 2006, Zoovu has shown consistent revenue growth. Zoovu reached a $75.2M valuation in 2025, set during its M&A Offer round. Zoovu has raised $183M in total funding across 2 rounds, most recently a $169M Series C round in 2022.",
+    "url": "https://getlatka.com/companies/zoovu",
+    "pass": 3
+   },
+   {
+    "quote": "Zoovu: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Founded in 2010 by Markus Linder and Martin Schliefnig, with Svetlana Hollerer also contributing, Zoovu originated from the challenge of overwhelming choice in online commerce.",
+    "url": "https://startupintros.com/orgs/zoovu",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Tokyo, Japan",
+    "url": "https://www.cuspera.com/products/zoovu-x-6297/customer-story",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/zoovu-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Zoovu, a provider of AI-powered product discovery platform ... Zoovu, a provider of AI-powered product discovery platform has published the Ultimate Guide to Product Detail Pages PDPa shorturl.at/hd7G8 #Zoovu #userexperiencxe",
+    "url": "https://x.com/datacentretimes/status/1803012309154984144",
+    "pass": 3
+   },
+   {
+    "quote": "@zoovu | X The latest posts from @zoovu",
+    "url": "https://x.com/zoovu",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Zoovu - LinkedIn Zoovu is an AI-Powered Product Discovery platform for enterprise businesses, that delivers rich, contextual, and personalized experiences that people understand, across all channels, so that ...",
+    "url": "https://www.linkedin.com/company/zoovu",
+    "pass": 3
+   },
+   {
+    "quote": "Zoovu - LinkedIn Zoovu is an AI-Powered Product Discovery platform for enterprise businesses, that delivers rich, contextual, and personalized experiences that people understand, across all channels, so that...",
+    "url": "https://uk.linkedin.com/company/zoovu",
+    "pass": 3
+   },
+   {
+    "quote": "Zoovu | LinkedIn Zoovu is an AI-Powered Product Discovery platform for enterprise businesses, that delivers rich, contextual, and personalized experiences that people understand, across all channels, so that...",
+    "url": "https://pl.linkedin.com/company/zoovu",
+    "pass": 3
+   },
+   {
+    "quote": "Ansley Kime - VP, Sales Engineering at Zoovu | LinkedInZoovu | LinkedInKeegan Creighton - Zoovu | LinkedInVíctor Cascante - Director of Legal at Zoovu | LinkedIn As VP of Sales Engineering at Zoovu, I lead the global presales organization supporting new logo acquisition and strategic growth opportunities worldwide. Zoovu is an AI-Powered Product Discovery platform for enterprise businesses, that d",
+    "url": "https://www.linkedin.com/in/ansleykime",
+    "pass": 3
+   },
+   {
+    "quote": "Jonathan Taylor - Chief Executive Officer at Zoovu | LinkedIn Zoovu’s mission is to humanize the digital engagement experience. We engage and advise millions of consumers every day to help them find the perfect products and services.",
+    "url": "https://www.linkedin.com/in/jonathan-edward-taylor",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Zoovu | Boston MA - Facebookzoovu is all about solving the I-want moment. We empower ...Zoo Vu (@zoo.vu) • Facebook, Connect with friendsZoovu - We are proud to announce Zoovu has been selected...Check out how SmartyPants Vitamins leverages Zoovu's # ...Repeat customers have a 60-70% chance of ... - FacebookOur long time customer Amazon.com has launched another Zoovu ... Jun 6, 2023 · Zoovu is loo",
+    "url": "https://www.facebook.com/zoovu.company/",
+    "pass": 3
+   },
+   {
+    "quote": "zoovu is all about solving the I-want moment. We empower ... Jan 16, 2019 · zoovu is all about solving the I-want moment. We empower brands and retailers to learn and understand what customers really want by asking questions....",
+    "url": "https://www.facebook.com/zoovu.company/videos/zoovu-welcome-to-engagementeconomy/1154864151355354/",
+    "pass": 3
+   },
+   {
+    "quote": "Zoo Vu (@zoo.vu) • Facebook, Connect with friends Zoo Vu is on Facebook. Join Facebook to connect with Zoo Vu and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/zoovu/",
+    "pass": 3
+   },
+   {
+    "quote": "Zoovu - We are proud to announce Zoovu has been selected... We are proud to announce Zoovu has been selected by SAP as its recommended industry cloud solution for manufacturing sectors.",
+    "url": "https://www.facebook.com/zoovu.company/posts/we-are-proud-to-announce-zoovu-has-been-selected-by-sap-as-its-recommended-indus/752173086696431/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://zoovu.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/product-discovery-across-retail-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/industries/industrial-manufacturing-cpq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/zoovu-reviews",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/solutions/ecommerce-site-search",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/b2b-sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/ecommerce-personalization-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/our-customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/industries/home-appliances",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/industries/consumer-technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/industries/sports-outdoors-recreation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/industries/tools-equipment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/industries/healthcare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/industries/beauty",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/industries/fashion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/industries/medical-equipment-cpq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/our-customers?category=b2b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/news/zoovu-and-euronics-new-partnership",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://zoovu.com/wp-content/uploads/2024/11/4-stop-losing-customers.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://zoovu.com/wp-content/uploads/2024/01/wcag-ada-logos.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://zoovu.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seektool.ai/jp/ai/zoovu-com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moomoo.com/ja/news/post/70245645/zoovu-acquires-xgen-ai-to-create-one-ai-native-engine",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/our-customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-maker",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/ZOO_JAPAN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.luxuretv.com/search/videos/japanese-zoo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/zoovu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoovu.com/case-study/bsh",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cuspera.com/products/zoovu-x-6297/customer-story",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://reseller.amazon.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/zoovu/__4gxRlQULwZ6uwxQlHAI3wAK4sQbdCkzBJjXiakeXgjI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/zoovu",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/zoovu-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/zoovu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/datacentretimes/status/1803012309154984144",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/zoovu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/zoovu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pl.linkedin.com/company/zoovu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ansleykime",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zoovu.company/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zoovu.company/videos/zoovu-welcome-to-engagementeconomy/1154864151355354/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zoovu/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zoovu.company/posts/we-are-proud-to-announce-zoovu-has-been-selected-by-sap-as-its-recommended-indus/752173086696431/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jonathan-edward-taylor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/zoovu",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Zoovu 日本 導入",
+   "results": [
+    "https://zoovu.com/",
+    "https://seektool.ai/jp/ai/zoovu-com",
+    "https://www.moomoo.com/ja/news/post/70245645/zoovu-acquires-xgen-ai-to-create-one-ai-native-engine",
+    "https://zoovu.com/our-customers",
+    "https://zoovu.com/about-us",
+    "https://jp.linkedin.com/pulse/case-study-zoovu-how-ai-powered-discovery-reshaping-karina-gerszberg-i3lye?tl=ja",
+    "https://moge.ai/ja/product/zoovu"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zoovu 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://houjin-data.com/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "https://zowie.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zoovu Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ZOO_JAPAN",
+    "https://zoovu.com/",
+    "https://zoovu.com/about-us",
+    "https://en.luxuretv.com/search/videos/japanese-zoo/",
+    "https://jp.linkedin.com/company/zoovu",
+    "https://home.zoovu.com/",
+    "https://docs.zoovu.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zoovu manufacturing customer case study",
+   "results": [
+    "https://zoovu.com/case-study",
+    "https://www.casestudies.com/company/zoovu",
+    "https://zoovu.com/case-study/bsh",
+    "https://www.cuspera.com/products/zoovu-x-6297/customer-story",
+    "https://www.casestudies.com/company/zoovu/case-study/3m-enables-safe-work-environments-by-simplifying-complex-purchase-decisions",
+    "https://www.linkedin.com/pulse/case-study-zoovu-how-ai-powered-discovery-reshaping-karina-gerszberg-i3lye",
+    "https://www.featuredcustomers.com/vendor/zoovu/case-studies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zoovu white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://reseller.amazon.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://www.zoho.com/partners/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zoovu founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/zoovu/__4gxRlQULwZ6uwxQlHAI3wAK4sQbdCkzBJjXiakeXgjI",
+    "https://compworth.com/company/zoovu",
+    "https://prospeo.io/c/zoovu-revenue",
+    "https://getlatka.com/companies/zoovu",
+    "https://startupintros.com/orgs/zoovu",
+    "https://rocketreach.co/zoovu-profile_b455aa2dfc94a737",
+    "https://indexed.vc/companies/zoovu"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Zoovu",
+   "results": [
+    "https://note.com/stargazingwario/n/nc8ea3d35c0f4",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/good_tapir4150/n/n545c5c69f7e2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Zoovu",
+   "results": [
+    "https://x.com/datacentretimes/status/1803012309154984144",
+    "https://x.com/p0ptartkitty/status/2115926138987913708",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/Marlayna29/status/2115433590150606880",
+    "https://x.com/evadentz/status/2115896420809216184",
+    "https://x.com/Howlingmutant0/status/2115570165723340923"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Zoovu",
+   "results": [
+    "https://www.linkedin.com/company/zoovu",
+    "https://uk.linkedin.com/company/zoovu",
+    "https://pl.linkedin.com/company/zoovu",
+    "https://www.linkedin.com/in/ansleykime",
+    "https://de.linkedin.com/company/zoovu",
+    "https://uk.linkedin.com/in/keegan-creighton-3355b5a0",
+    "https://es.linkedin.com/in/victorcascante"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Zoovu",
+   "results": [
+    "https://www.facebook.com/zoovu.company/",
+    "https://www.facebook.com/zoovu.company/videos/zoovu-welcome-to-engagementeconomy/1154864151355354/",
+    "https://www.facebook.com/zoovu/",
+    "https://www.facebook.com/zoovu.company/posts/we-are-proud-to-announce-zoovu-has-been-selected-by-sap-as-its-recommended-indus/752173086696431/",
+    "https://www.facebook.com/zoovu.company/videos/check-out-how-smartypants-vitamins-leverages-zoovus-searchassistant-on-walmartco/837933063523755/",
+    "https://www.facebook.com/zoovu.company/videos/repeat-customers-have-a-60-70-chance-of-converting-and-are-9-times-more-likely-t/446259096736474/",
+    "https://www.facebook.com/zoovu.company/videos/our-long-time-customer-amazoncom-has-launched-another-zoovu-digitalassistant-to-/2811993525794340/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zoovu note 社長",
+   "results": [
+    "https://zoovu.com/blog/zoovu-appoints-jonathan-taylor-chief-executive-officer",
+    "https://www.linkedin.com/in/jonathan-edward-taylor",
+    "https://yespress.io/jonathan-taylor",
+    "https://zoovu.com/about-us",
+    "https://ftvcapital.com/2026/zoovu-appoints-jonathan-jt-taylor-as-chief-executive-officer/",
+    "https://tracxn.com/d/companies/zoovu/__4gxRlQULwZ6uwxQlHAI3wAK4sQbdCkzBJjXiakeXgjI",
+    "https://www.linkedin.com/posts/zoovu_we-are-excited-to-share-that-jonathan-taylor-activity-7421557049915965441-qQXk"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zoovu X 投稿",
+   "results": [
+    "https://x.com/zoovu",
+    "https://zoovu.com/",
+    "https://home.zoovu.com/",
+    "https://data.zoovu.com/zoovu-login?state=signin",
+    "https://docs.zoovu.com/",
+    "https://zoo-xvideos.com/newreleases/3/",
+    "https://news.livedoor.com/article/detail/32710275/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部35頁・検索12回）"
+ }
+}

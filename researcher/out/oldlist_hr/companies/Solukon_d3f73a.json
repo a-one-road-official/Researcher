@@ -1,0 +1,1083 @@
+{
+ "name": "Solukon",
+ "aliases": [],
+ "context": "旧営業リスト｜AM / Additive Manufacturing｜返信あり",
+ "researched_at": "2026-11-11T04:41:27.346474+00:00",
+ "official_url": "https://www.solukon.de",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Augsburg, Bavaria, Germany",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Your browser doesn’t support HTML5 video.",
+    "url": "https://www.solukon.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Software und unserem Team aus Experten den Maßstab in der automatisierten Pulverentfernung. Ob komplexe Geometrien, reaktive Materialien oder Serienreinigung: Wir machen Ihr Postprocessing effizient, wiederholbar und sicher.",
+    "url": "https://www.solukon.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Der SPR-Pathfinder® macht automatisiertes zu intelligentem Entpulvern. Anhand der CAD-Datei des Baujobs berechnet die einzigartige Software im Voraus, wie das Bauteil bewegt werden muss, damit das Pulver restlos entfernt wird. Das Besondere: Mit dem",
+    "url": "https://www.solukon.de/",
+    "pass": 1
+   },
+   {
+    "quote": "können Sie bereits in der Designphase prüfen, ob Ihre Geometrie sauber wird.",
+    "url": "https://www.solukon.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Unser Anspruch ist, dass Solukon-Entpulverungssystem mit allen LPBF-Druckern kompatibel sind. Für maximale Kompatibilität und eine reibungslose AM-Kette leben wir einen engen Austausch mit unseren OEM-Partnern, die selbst die führenden Unternehmen ihrer Branche sind.",
+    "url": "https://www.solukon.de/oem-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Siemens bietet umfassende Lösungen für die additive Fertigung – von Software und Simulation über Automatisierung- und Steuerungskomponenten bis zur Integration in industrielle Produktionsprozesse.",
+    "url": "https://www.solukon.de/oem-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "https://3dprintingindustry.com/news/nikon-equips-japan-am-technology-center-with-solukon-sfm-at1000-s-depowdering-system-246931/",
+    "url": "https://amyidao.com/article/EAByYq6yR2",
+    "pass": 3
+   },
+   {
+    "quote": "该系统还兼容Solukon SPR-Pathfinder软件，该软件通过分析CAD文件自动计算最优清粉运动轨迹",
+    "url": "https://amyidao.com/article/EAByYq6yR2",
+    "pass": 3
+   },
+   {
+    "quote": "该公司还通过SPR-Pathfinder清粉仿真平台扩展了软件业务",
+    "url": "https://amyidao.com/article/EAByYq6yR2",
+    "pass": 3
+   },
+   {
+    "quote": "Rivelin Robotics & Solukon Partnership to Progress Automated Powder Removal & Finishing for Metal AM",
+    "url": "https://hdc3d.com/ja/usecasesolukon/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、SPR-Pathfinder®ソフトウェアにより、3Dプリント部品がSolukonシステム内でどのように動くべきかを容易に計算できます",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E3%83%8B%E3%82%B3%E3%83%B3%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AEnikon-am-technology-center%E3%81%ABsolukon%E3%81%AE%E3%83%87%E3%83%91%E3%82%A6%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "特許取得済みのSPR®（Smart Powder Recuperation）技術により、複雑精巧な部品のデパウダリングを自動化し、安全性を高め、品質を向上させ、すべての規制要件を満たします",
+    "url": "https://hdc3d.com/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%82%B3%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "**SPR-Pathfinder®は設計段階でデパウダリングをシミュレーションできるため、印刷前に部品形状が問題なく粉末除去可能かどうかを検証できます",
+    "url": "https://hdc3d.com/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%82%B3%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "Solukonが提供する専用ツールがSPR-Pathfinder®です",
+    "url": "https://hdc3d.com/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%82%B3%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "1. SPR-Pathfinder®にファイルをアップロード",
+    "url": "https://hdc3d.com/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%82%B3%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "HDC is the official distributor for Korea, Japan, and Singapore of Solukon, a German company specializing in automated depowdering, and introduces world-class 3D printing post-processing solutions.",
+    "url": "https://hdcinfo.co.kr/archive/brand/solukon?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "Solucon’s ‘depowdering’ technology, a core component of the industrial metal 3D printing post-processing stage",
+    "url": "https://hdcinfo.co.kr/archive/brand/solukon?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "Powder processing process",
+    "url": "https://hdcinfo.co.kr/archive/brand/solukon?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon Maschinenbau GmbH supplies powder removal and processing systems for metal and polymer additive manufacturing.",
+    "url": "https://www.casestudies.com/customer/solukon",
+    "pass": 3
+   },
+   {
+    "quote": "employee in the Product Care department and head of the SFM-PCU powder collection unit project",
+    "url": "https://www.casestudies.com/customer/solukon",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon, a German manufacturer of automated depowdering systems for 3D printing, faced the challenge of handling large quantities of metal powder safely and efficiently after the depowdering process. To automate this powder handling and meet stringent safety requirements, Solukon integrated the piFLOW®i vacuum conveyor from Piab into their new Powder Collection Unit.",
+    "url": "https://www.casestudies.com/company/piab/case-study/solukon-simplifies-powder-handling-with-piabs-piflowi-for-safer-fully-automated-depowdering",
+    "pass": 3
+   },
+   {
+    "quote": "employee in the Product Care department and head of the SFM-PCU powder collection unit project",
+    "url": "https://www.casestudies.com/company/piab/case-study/solukon-simplifies-powder-handling-with-piabs-piflowi-for-safer-fully-automated-depowdering",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Programming languages",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Superstition Fire Protection",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon Maschinenbau has approximately",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/solukon",
+    "pass": 3
+   },
+   {
+    "quote": "The Mosaic Score is an algorithm that measures the overall financial health and market potential of private companies.",
+    "url": "https://www.cbinsights.com/company/solukon",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon launches SPR-Pathfinder PRO for complex LPBF depowdering simulation",
+    "url": "https://www.cbinsights.com/company/solukon",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon Releases SPR-Pathfinder PRO—and a Smart Software Strategy",
+    "url": "https://www.cbinsights.com/company/solukon",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon releases SPR-Pathfinder PRO for high-complexity LPBF depowdering",
+    "url": "https://www.cbinsights.com/company/solukon",
+    "pass": 3
+   },
+   {
+    "quote": "AddUp specializes in metal additive manufacturing, providing machines and software for creating metal parts using Powder Bed Fusion and Directed Energy Deposition technologies. It is based in Strasbourg, France.",
+    "url": "https://www.cbinsights.com/company/solukon",
+    "pass": 3
+   },
+   {
+    "quote": "Relay 3D focuses on the recycling of polyamide-12 used in the industrial 3D printing sector. The company provides a service that processes SLS PA 12 printing powder for reuse, thereby reducing waste. Relay 3D's solution aims to improve the economics of 3D printing. It is based in Eindhoven, Netherlands.",
+    "url": "https://www.cbinsights.com/company/solukon",
+    "pass": 3
+   },
+   {
+    "quote": "Equispheres specializes in engineered metal powders for the additive manufacturing industry. The company's main offerings include aluminum and copper powders intended for metal additive manufacturing processes. It was founded in 2015 and is based in Ottawa, Ontario.",
+    "url": "https://www.cbinsights.com/company/solukon",
+    "pass": 3
+   },
+   {
+    "quote": "permits us to improve and customize your experience. You can read more about your",
+    "url": "https://www.cbinsights.com/company/solukon",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "EOS ist ein weltweit führender Anbieter industrieller 3D-Drucklösungen (Additive Manufacturing) für Metalle und Polymere, mit Fokus auf Innovation, Qualität und Serienfertigung.",
+    "url": "https://www.solukon.de/oem-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "该系统直接接入尼康数字化工作流，通过Solukon的Digital-Factory-Tool传感器及接口套件，SFM-AT1000-S可记录清粉过程数据并经由OPC UA协议传输至中心仪表盘",
+    "url": "https://amyidao.com/article/EAByYq6yR2",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形（Additive Manufacturing）における粉末除去をどのように改善できるでしょうか",
+    "url": "https://hdc3d.com/ja/usecasesolukon/",
+    "pass": 3
+   },
+   {
+    "quote": "脱粉プロセスにおける透明なカーボンフットプリント：Solukon、Digital-Factory-Toolを強化",
+    "url": "https://hdc3d.com/ja/usecasesolukon/",
+    "pass": 3
+   },
+   {
+    "quote": "複雑部品の量産洗浄：MT AerospaceはSolukonを信頼",
+    "url": "https://hdc3d.com/ja/usecasesolukon/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン、日本のNikon AM Technology CenterにSolukonのデパウダリングシステムを導入 - Additive Manufacturing",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E3%83%8B%E3%82%B3%E3%83%B3%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AEnikon-am-technology-center%E3%81%ABsolukon%E3%81%AE%E3%83%87%E3%83%91%E3%82%A6%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "本システムには、センサーおよびインターフェースキットであるDigital-Factory-Toolが搭載されており、洗浄プロセスに関するすべての関連データを記録し、最大限の透明性を確保します",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E3%83%8B%E3%82%B3%E3%83%B3%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AEnikon-am-technology-center%E3%81%ABsolukon%E3%81%AE%E3%83%87%E3%83%91%E3%82%A6%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "Solukonのシステムは最高の品質と信頼性を象徴しており、自動後処理にSolukonを選択するのは当然の選択でした」と、ニコンのAdvanced Manufacturing Business Unit 副部長である長坂博之氏は述べています",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E3%83%8B%E3%82%B3%E3%83%B3%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AEnikon-am-technology-center%E3%81%ABsolukon%E3%81%AE%E3%83%87%E3%83%91%E3%82%A6%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "長坂博之（Advanced Manufacturing Business Unit 副部長）、柴崎雄一（Advanced Manufacturing Business Unit 部長、Nikon Advanced Manufacturing Inc. 取締役兼共同社長・共同CEO、リブレットソリューション開発部門担当役員）、古谷勇樹（Advanced Manufacturing Business Unit 事業企画部 Advanced Engineering Section スタッフ）が、NAMTC JapanのデパウダリングシステムSFM-AT1000-Sの前で撮影（左から）",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E3%83%8B%E3%82%B3%E3%83%B3%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AEnikon-am-technology-center%E3%81%ABsolukon%E3%81%AE%E3%83%87%E3%83%91%E3%82%A6%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "複雑部品の量産洗浄：MT AerospaceはSolukonを信頼",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E3%83%8B%E3%82%B3%E3%83%B3%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AEnikon-am-technology-center%E3%81%ABsolukon%E3%81%AE%E3%83%87%E3%83%91%E3%82%A6%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "Solucon’s ‘depowdering’ technology, a core component of the industrial metal 3D printing post-processing stage",
+    "url": "https://hdcinfo.co.kr/archive/brand/solukon?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond simply supplying equipment, it has earned a reputation as “The Definition of Depowdering,” and leading additive manufacturing companies in over 26 countries worldwide are choosing Solucon’s technology.",
+    "url": "https://hdcinfo.co.kr/archive/brand/solukon?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon Maschinenbau GmbH supplies powder removal and processing systems for metal and polymer additive manufacturing.",
+    "url": "https://www.casestudies.com/customer/solukon",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Solukon",
+    "url": "https://www.casestudies.com/customer/solukon",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Solukon achieves safer, faster powder handling with Piab vacuum conveyors | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/piab/case-study/solukon-simplifies-powder-handling-with-piabs-piflowi-for-safer-fully-automated-depowdering",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Solukon achieves safer, faster powder handling with Piab vacuum conveyors",
+    "url": "https://www.casestudies.com/company/piab/case-study/solukon-simplifies-powder-handling-with-piabs-piflowi-for-safer-fully-automated-depowdering",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon, a German manufacturer of automated depowdering systems for 3D printing, faced the challenge of handling large quantities of metal powder safely and efficiently after the depowdering process. To automate this powder handling and meet stringent safety requirements, Solukon integrated the piFLOW®i vacuum conveyor from Piab into their new Powder Collection Unit.",
+    "url": "https://www.casestudies.com/company/piab/case-study/solukon-simplifies-powder-handling-with-piabs-piflowi-for-safer-fully-automated-depowdering",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/piab/case-study/solukon-simplifies-powder-handling-with-piabs-piflowi-for-safer-fully-automated-depowdering",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/piab/case-study/solukon-simplifies-powder-handling-with-piabs-piflowi-for-safer-fully-automated-depowdering",
+    "pass": 3
+   },
+   {
+    "quote": "Machinery Manufacturing",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "AddUp specializes in metal additive manufacturing, providing machines and software for creating metal parts using Powder Bed Fusion and Directed Energy Deposition technologies. It is based in Strasbourg, France.",
+    "url": "https://www.cbinsights.com/company/solukon",
+    "pass": 3
+   },
+   {
+    "quote": "Relay 3D focuses on the recycling of polyamide-12 used in the industrial 3D printing sector. The company provides a service that processes SLS PA 12 printing powder for reuse, thereby reducing waste. Relay 3D's solution aims to improve the economics of 3D printing. It is based in Eindhoven, Netherlands.",
+    "url": "https://www.cbinsights.com/company/solukon",
+    "pass": 3
+   },
+   {
+    "quote": "Equispheres specializes in engineered metal powders for the additive manufacturing industry. The company's main offerings include aluminum and copper powders intended for metal additive manufacturing processes. It was founded in 2015 and is based in Ottawa, Ontario.",
+    "url": "https://www.cbinsights.com/company/solukon",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "OEM-Partner - Solukon",
+    "url": "https://www.solukon.de/oem-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Unser Anspruch ist, dass Solukon-Entpulverungssystem mit allen LPBF-Druckern kompatibel sind. Für maximale Kompatibilität und eine reibungslose AM-Kette leben wir einen engen Austausch mit unseren OEM-Partnern, die selbst die führenden Unternehmen ihrer Branche sind.",
+    "url": "https://www.solukon.de/oem-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "SIE MÖCHTEN MEHR ÜBER UNSERE OEM-PARTNER ERFAHREN ODER SELBST EIN OEM-PARTNER WERDEN?",
+    "url": "https://www.solukon.de/oem-partner/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "https://3dprintingindustry.com/news/nikon-equips-japan-am-technology-center-with-solukon-sfm-at1000-s-depowdering-system-246931/",
+    "url": "https://amyidao.com/article/EAByYq6yR2",
+    "pass": 3
+   },
+   {
+    "quote": "尼康株式会社已于2025年11月27日宣布，在其位于埼玉县行田市的尼康增材制造技术中心（NAMTC Japan）安装Solukon SFM-AT1000-S自动化清粉系统",
+    "url": "https://amyidao.com/article/EAByYq6yR2",
+    "pass": 3
+   },
+   {
+    "quote": "此项投资拓展了该中心的后期处理能力，为尼康未来支持日本及亚洲地区日益复杂的金属增材制造应用奠定基础",
+    "url": "https://amyidao.com/article/EAByYq6yR2",
+    "pass": 3
+   },
+   {
+    "quote": "于2025年2月启用的NAMTC Japan中心占地922平方米，是工业金属增材制造领域的研发与服务枢纽",
+    "url": "https://amyidao.com/article/EAByYq6yR2",
+    "pass": 3
+   },
+   {
+    "quote": "德国清粉及粉末处理系统供应商Solukon针对NXG XII 600的600×600×600毫米成型体积定制了短臂版机型，确保最佳重心控制能力，并与尼康在NAMTC Japan的生产布局无缝集成",
+    "url": "https://amyidao.com/article/EAByYq6yR2",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン、日本のNikon AM Technology CenterにSolukonのデパウダリングシステムを導入",
+    "url": "https://hdc3d.com/ja/usecasesolukon/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン、日本のNikon AM Technology CenterにSolukonのデパウダリングシステムを導入 - Additive Manufacturing",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E3%83%8B%E3%82%B3%E3%83%B3%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AEnikon-am-technology-center%E3%81%ABsolukon%E3%81%AE%E3%83%87%E3%83%91%E3%82%A6%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン、日本のNikon AM Technology CenterにSolukonのデパウダリングシステムを導入",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E3%83%8B%E3%82%B3%E3%83%B3%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AEnikon-am-technology-center%E3%81%ABsolukon%E3%81%AE%E3%83%87%E3%83%91%E3%82%A6%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "総面積922㎡のNikon AM Technology Center Japan（NAMTC Japan）は、日本およびアジアの顧客や関係者に開放されており、Nikon SLM Solutions AGのプレミアムプリンターNXG XII 600だけでなく、主要な後処理システムや測定機器も提供しています",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E3%83%8B%E3%82%B3%E3%83%B3%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AEnikon-am-technology-center%E3%81%ABsolukon%E3%81%AE%E3%83%87%E3%83%91%E3%82%A6%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "NAMTC JapanでSFM-AT1000-Sデパウダリングシステムを稼働",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E3%83%8B%E3%82%B3%E3%83%B3%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AEnikon-am-technology-center%E3%81%ABsolukon%E3%81%AE%E3%83%87%E3%83%91%E3%82%A6%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のNAMTCにおけるデパウダリングシステム SFM-AT1000-S",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E3%83%8B%E3%82%B3%E3%83%B3%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AEnikon-am-technology-center%E3%81%ABsolukon%E3%81%AE%E3%83%87%E3%83%91%E3%82%A6%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、このSolukonのデパウダリングシステムは、行田にあるNAMTC Japanの装置構成に完璧に適合しています",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E3%83%8B%E3%82%B3%E3%83%B3%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AEnikon-am-technology-center%E3%81%ABsolukon%E3%81%AE%E3%83%87%E3%83%91%E3%82%A6%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "また、NAMTC Japanのデジタル環境にもシームレスに統合されます",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E3%83%8B%E3%82%B3%E3%83%B3%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AEnikon-am-technology-center%E3%81%ABsolukon%E3%81%AE%E3%83%87%E3%83%91%E3%82%A6%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンはNAMTC Japanにおいて、最高水準の要求に対応する複雑な部品を製造します",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E3%83%8B%E3%82%B3%E3%83%B3%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AEnikon-am-technology-center%E3%81%ABsolukon%E3%81%AE%E3%83%87%E3%83%91%E3%82%A6%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "標準の回転および振動に加えて、NAMTC Japanに設置されたSFM-AT1000-Sには、特別に開発された高周波ノッカーが搭載されています",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E3%83%8B%E3%82%B3%E3%83%B3%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AEnikon-am-technology-center%E3%81%ABsolukon%E3%81%AE%E3%83%87%E3%83%91%E3%82%A6%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのインテリジェントな機能により、Solukon SFM-AT1000-SはNAMTC Japanにおける最適な後処理システムとなっています",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E3%83%8B%E3%82%B3%E3%83%B3%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AEnikon-am-technology-center%E3%81%ABsolukon%E3%81%AE%E3%83%87%E3%83%91%E3%82%A6%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "「NAMTC Japanにおいて、お客様および関係者の皆様に最高品質の設備を提供することが当社の目標です",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E3%83%8B%E3%82%B3%E3%83%B3%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AEnikon-am-technology-center%E3%81%ABsolukon%E3%81%AE%E3%83%87%E3%83%91%E3%82%A6%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "長坂博之（Advanced Manufacturing Business Unit 副部長）、柴崎雄一（Advanced Manufacturing Business Unit 部長、Nikon Advanced Manufacturing Inc. 取締役兼共同社長・共同CEO、リブレットソリューション開発部門担当役員）、古谷勇樹（Advanced Manufacturing Business Unit 事業企画部 Advanced Engineering Section スタッフ）が、NAMTC JapanのデパウダリングシステムSFM-AT1000-Sの前で撮影（左から）",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E3%83%8B%E3%82%B3%E3%83%B3%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AEnikon-am-technology-center%E3%81%ABsolukon%E3%81%AE%E3%83%87%E3%83%91%E3%82%A6%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "HDC is the official distributor for Korea, Japan, and Singapore of Solukon, a German company specializing in automated depowdering, and introduces world-class 3D printing post-processing solutions.",
+    "url": "https://hdcinfo.co.kr/archive/brand/solukon?lang=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "SALES@HDC3D.COM",
+    "url": "https://hdc3d.com/ja/usecasesolukon/",
+    "pass": 3
+   },
+   {
+    "quote": "sales@hdc3d.com",
+    "url": "https://hdc3d.com/ja/usecasesolukon/",
+    "pass": 3
+   },
+   {
+    "quote": "SALES@HDC3D.COM",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E3%83%8B%E3%82%B3%E3%83%B3%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AEnikon-am-technology-center%E3%81%ABsolukon%E3%81%AE%E3%83%87%E3%83%91%E3%82%A6%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "sales@hdc3d.com",
+    "url": "https://hdc3d.com/ja/portfolio-item/%E3%83%8B%E3%82%B3%E3%83%B3%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AEnikon-am-technology-center%E3%81%ABsolukon%E3%81%AE%E3%83%87%E3%83%91%E3%82%A6%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "SALES@HDC3D.COM",
+    "url": "https://hdc3d.com/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%82%B3%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "sales@hdc3d.com",
+    "url": "https://hdc3d.com/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%82%B3%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "大幅面金属3D打印迎来清粉革命：尼康集成Solukon智能系统优化工作流 |... — Nov 29, 2025 · 尼康株式会社已于2025年11月27日宣布，在其位于埼玉县行田市的尼康增材制造技术中心（NAMTC Japan）安装Solukon SFM-AT1000-S自动化清粉系统。 此项投资拓展了该中心的后期处理能力，为尼康未来支持日本及亚洲地区日益复杂的金属增材制造应用奠定基础。",
+    "url": "https://amyidao.com/article/EAByYq6yR2",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon ユースケース – アディティブ製造向け自動化脱粉ソリューショ... — Solukon設立10周年 Conflux Technology、Solukonのデパウダリングシステム導入により先進製造能力を強化 Formnext 2025におけるSolukon：何が期待できるか ニコン、日本のNikon AM Technology CenterにSolukonのデパウダリングシステムを導入",
+    "url": "https://hdc3d.com/ja/usecasesolukon/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコン、日本のNikon AM Technology CenterにSolukonのデパウダリング... — 2月末、 Nikon Corporation （ニコン）は、埼玉県行田市において最高レベルのAM要件に対応する研究・開発およびサービスセンターを開設しました。自動デパウダリングの分野では、ニコンは再びSolukonの市場をリードする技術を採用し、 SFM-AT1000-S を同センターに導入しました。",
+    "url": "https://hdc3d.com/ja/portfolio-item/ニコン、日本のnikon-am-technology-centerにsolukonのデパウダリングシス/",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon depowdering system in the NAMTC Japan — Nov 27, 2025 · End of February, Nikon Corporation (Nikon) has opened the research, development and service center for the highest AM requirements in Gyoda, Saitama Prefecture. For automated depowdering, Nikon once again relies on Solukon’s market-leading technology and integrates an SFM-AT1000-S into the center. The Nikon AM Technology Center Japan (",
+    "url": "https://www.solukon.de/en/2025/11/27/nikon-equips-nikon-am-technology-center-japan-with-solukon-depowdering-system/",
+    "pass": 3
+   },
+   {
+    "quote": "瞄准复杂零件制造，尼康部署Solukon大型3D打印后处理自动化除粉系统-... — 2025年11月29日，南极熊获悉，尼康公司宣布在位于埼玉县行田市的尼康增材制造技术中心（NAMTC Japan）成功部署了Solukon SFM-AT1000-S全自动除粉系统。这项投资旨在提升该中心的后处理能力，以支持尼康在日本乃至亚洲日益复杂的金属增材制造应用。",
+    "url": "https://www.nanjixiong.com/thread-178429-1-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Contact - Solukon — Contact Solukon: You have questions or need a quotation? Feel free to reach out to us anytime. We're happy to help.",
+    "url": "https://www.solukon.de/en/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon depowdering system in the NAMTC Japan — Nov 27, 2025 · Therefore, the Solukon depowdering system fits perfectly into the machine setup at the NAMTC Japan in Gyoda. It also integrates seamlessly into the NAMTC Japan’s digital setup: The system is equipped with the Digital-Factory-Tool, a sensor and interface kit. It records all relevant data on the cleaning process and thus ensures maximum ",
+    "url": "https://www.solukon.de/en/2025/11/27/nikon-equips-nikon-am-technology-center-japan-with-solukon-depowdering-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon The Definition of Depowdering - Home — Solukon Maschinenbau is the pioneer and leading manufacturer of depowdering systems. Our systems use a fully automated process to remove powder from laser-melted metal or plastic parts in a protected atmosphere.",
+    "url": "https://www.solukon.de/en/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon 自動ディパウダリングシステム - hdc3d.com — Solukonの金属3Dプリント向け自動ディパウダリングシステムで、安全かつ高品質な粉体除去を実現。HDC株式会社が公式代理店としてご提供します。 • 自動ディパウダリング• ディパウダー除去システム• Solukon粉体除去",
+    "url": "https://hdc3d.com/ja/ソリュコン/",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon – HDC — Solukon HDC is the official distributor for Korea, Japan, and Singapore of Solukon, a German company specializing in automated depowdering, and introduces world-class 3D printing post-processing solutions.",
+    "url": "https://hdcinfo.co.kr/archive/brand/solukon?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "Automated Solukon depowdering supports Nikon’s AM facility in ... — Nov 27, 2025 · Solukon, based in Augsburg, Germany, has reported on the use of its SFM-AT1000-S automated depowdering machine at Nikon’s latest Additive Manufacturing research, development and service centre located in Gyoda, Japan.",
+    "url": "https://www.metal-am.com/automated-solukon-depowdering-supports-nikons-am-facility-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Solukon Uses Software & Services — Explore case studies featuring Solukon as the customer — learn how vendors and partners helped Solukon solve real business challenges. Solukon Maschinenbau GmbH supplies powder removal and processing systems for metal and polymer additive manufacturing.",
+    "url": "https://www.casestudies.com/customer/solukon",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study_Enerbine_2025_Mod 2 - solukon.de — About Solukon Solukon Maschinenbau GmbH is a German high-quality supplier of powder removal and processing systems for metal and polymer additive manufacturing. In 2015, Solukon presented the world‘s first system for automated depowdering.",
+    "url": "https://www.solukon.de/wp-content/uploads/2025/11/Case-Study_Enerbine_2025_E_FINAL.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Solukon achieves safer, faster powder handling ... — Solukon (Manufacturing) partnered with Piab (Automotive and Industrial Automation) to solve key challenges. \"Solukon simplifies powder handling with Piab’s piFLOW®i for safer, fully automated depowdering\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/piab/case-study/solukon-simplifies-powder-handling-with-piabs-piflowi-for-safer-fully-automated-depowdering",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon Use Case – Automated Depowdering Solutions for ... — Discover Solukon’s real-world use cases highlighting automated depowdering solutions in additive manufacturing, ensuring safety, quality, and efficiency.",
+    "url": "https://hdc3d.com/usecasesolukon/",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon - Crunchbase Company Profile & FundingSolukon Maschinenbau Revenue, Funding & ValuationSolukon - Products, Competitors, Financials, Employees ...Solukon Maschinenbau - Overview, News & Similar companies ...Solukon Maschinenbau GmbH, Augsburg, Germany - North DataSolukon Maschinenbau GmbH - ImplisenseSolukon Maschinenbau GmbH - Company Profile and News — Solukon is a machine construction co",
+    "url": "https://www.crunchbase.com/organization/solukon",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon Maschinenbau Revenue, Funding & Valuation — Solukon Maschinenbau has revenue of $855,550, estimated valuation of $2,800,000. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon - Products, Competitors, Financials, Employees ... — About Solukon Solukon specializes in automated depowdering solutions for the additive manufacturing industry, focusing on metal and plastic systems. The company offers powder removal systems for 3D-printed metal and plastic components, providing postprocessing solutions. Solukon's technology is used in sectors including aerospace, automo",
+    "url": "https://www.cbinsights.com/company/solukon",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon Maschinenbau - Overview, News & Similar companies ... — View Solukon Maschinenbau (www.solukon.de) location in Bavaria, Germany , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/solukon-maschinenbau-gmbh/458604734",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon Maschinenbau GmbH, Augsburg, Germany - North Data — Earnings Earnings CAGR Employee number Equity Equity ratio Liabilities Number of public fundings per year Ownership Concentration Patents per year Pension provisions Real estate Receivables Return on equity Return on sales Revenue Revenue CAGR Revenue per employee Taxes Tax ratio Total assets Total public funding per year Trademarks per y",
+    "url": "https://www.northdata.com/Solukon+Maschinenbau+GmbH,+Augsburg/HRB+29797",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Solukon Maschinenbau Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon Maschinenbau Revenue",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Solukon Maschinenbau",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Solukon Maschinenbau?",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon Maschinenbau generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Solukon Maschinenbau have?",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/solukon",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Solukon will be showcasing a new configuration of its SFM ... MetalAMMag (Metal AM). 2 likes 1 replies. Solukon will be showcasing a new configuration of its SFM-AT350-E, compatible with the recently launched EOS M4 ONYX, at ...",
+    "url": "https://x.com/MetalAMMag/status/2042573291391431139",
+    "pass": 3
+   },
+   {
+    "quote": "3DPrint on X: \"Solukon Goes Big with New SFM-AT850 ... Solukon Goes Big with New SFM-AT850 Depowdering System dlvr.???it/TVyyr1",
+    "url": "https://x.com/3DPrint_com/status/2112077056897167708",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Solukon Maschinenbau GmbH - LinkedIn Solukon Maschinenbau GmbH | 3,339 followers on LinkedIn. The Definition of Depowdering | Solukon is the pioneer and technical leader of automated depowdering in additive manufacturing. The company ...",
+    "url": "https://www.linkedin.com/company/solukon-maschinenbau-gmbh",
+    "pass": 3
+   },
+   {
+    "quote": "Solukon announces distribution partners in the US | Solukon ... Right after RAPID + TCT, we're happy to make a big partnership announcement for the US 🇺🇸 For the US #additivemanufacturing market Solukon partners with the companies DMARK Corporation ...",
+    "url": "https://www.linkedin.com/posts/solukon-maschinenbau-gmbh_solukon-announces-distribution-partners-in-activity-7062409848197369856-Pxxn",
+    "pass": 3
+   },
+   {
+    "quote": "Andreas Hartmann – Co-Founder CEO/CTO Solukon | LinkedInHemank Raj – Process Development Engineer at Solukon | LinkedInSolukon Maschinenbau GmbH on LinkedIn: TCT North America 9.2Solukon Then vs. Now | Solukon Maschinenbau GmbH | 12 commentsMAHAR on LinkedIn: Solukon announces distribution partners in ... Co-Founder CEO/CTO Solukon · Berufserfahrung: Solukon Maschinenbau GmbH · Ausbildung: Hochsch",
+    "url": "https://de.linkedin.com/in/andreas-hartmann-b68254182",
+    "pass": 3
+   },
+   {
+    "quote": "Hemank Raj – Process Development Engineer at Solukon | LinkedInSolukon Maschinenbau GmbH on LinkedIn: TCT North America 9.2Solukon Then vs. Now | Solukon Maschinenbau GmbH | 12 commentsMAHAR on LinkedIn: Solukon announces distribution partners in ... Process Development Engineer at Solukon · I develop state-of-the-art machines to depowder metal and non-metal 3D-printed parts. Ich entwickle hochmod",
+    "url": "https://de.linkedin.com/in/hemankraj",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Solukon Maschinenbau GmbH - Facebook May 12, 2024 · Facebook is showing information to help you better understand the purpose of a Page. See actions taken by the people who manage and post content.",
+    "url": "https://www.facebook.com/Solukon-Maschinenbau-GmbH-336678512852174/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Adept - Last week, machine manufacturer Solukon... - Facebook Solukon announced that its recently patented SFP770 postprocessing system can now accommodate build boxes from other 3D printers. This compatibility will expand the utilization of the machine across a wide range of industrial users – especially those using EOS machines.",
+    "url": "https://www.facebook.com/3DAdept/posts/last-week-machine-manufacturer-solukon-announced-that-its-recently-patented-sfp7/2168441643348996/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.solukon.de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solukon.de/vertriebspartner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solukon.de/oem-partner/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.solukon.de/wp-content/plugins/worldmap/assets/img/Partner-Logos_Turbex.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.solukon.de/wp-content/plugins/worldmap/assets/img/Partner-Logos_NB_additive.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.solukon.de/wp-content/uploads/2025/06/Startseite-KundenPartner-Logos-2025_1-Reihe.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.solukon.de/wp-content/uploads/2025/06/Startseite-KundenPartner-Logos-2025_1-Reihe3.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://amyidao.com/article/EAByYq6yR2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/ja/usecasesolukon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/ja/portfolio-item/%E3%83%8B%E3%82%B3%E3%83%B3%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AEnikon-am-technology-center%E3%81%ABsolukon%E3%81%AE%E3%83%87%E3%83%91%E3%82%A6%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%82%B3%E3%83%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdcinfo.co.kr/archive/brand/solukon?lang=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/solukon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/piab/case-study/solukon-simplifies-powder-handling-with-piabs-piflowi-for-safer-fully-automated-depowdering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/solukon",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/solukon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/solukon-maschinenbau-gmbh/458604734",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MetalAMMag/status/2042573291391431139",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/3DPrint_com/status/2112077056897167708",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/solukon-maschinenbau-gmbh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/solukon-maschinenbau-gmbh_solukon-announces-distribution-partners-in-activity-7062409848197369856-Pxxn",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/andreas-hartmann-b68254182",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/hemankraj",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Solukon-Maschinenbau-GmbH-336678512852174/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/3DAdept/posts/last-week-machine-manufacturer-solukon-announced-that-its-recently-patented-sfp7/2168441643348996/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Solukon 日本 導入",
+   "results": [
+    "https://amyidao.com/article/EAByYq6yR2",
+    "https://hdc3d.com/ja/usecasesolukon/",
+    "https://hdc3d.com/ja/portfolio-item/ニコン、日本のnikon-am-technology-centerにsolukonのデパウダリングシス/",
+    "https://www.solukon.de/en/2025/11/27/nikon-equips-nikon-am-technology-center-japan-with-solukon-depowdering-system/",
+    "https://www.nanjixiong.com/thread-178429-1-1.html",
+    "https://www.metal-am.com/automated-solukon-depowdering-supports-nikons-am-facility-in-japan/",
+    "https://china3dprint.com/archives/3138.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Solukon 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.solukon.de/en/contact/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Solukon Japan",
+   "results": [
+    "https://www.solukon.de/en/2025/11/27/nikon-equips-nikon-am-technology-center-japan-with-solukon-depowdering-system/",
+    "https://www.solukon.de/en/home/",
+    "https://hdc3d.com/ja/ソリュコン/",
+    "https://hdcinfo.co.kr/archive/brand/solukon?lang=en",
+    "https://www.metal-am.com/automated-solukon-depowdering-supports-nikons-am-facility-in-japan/",
+    "https://hdcinfo.co.kr/archive/brand/solukon?lang=ja",
+    "https://hdc3d.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Solukon manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/solukon",
+    "https://www.solukon.de/wp-content/uploads/2025/11/Case-Study_Enerbine_2025_E_FINAL.pdf",
+    "https://www.casestudies.com/company/piab/case-study/solukon-simplifies-powder-handling-with-piabs-piflowi-for-safer-fully-automated-depowdering",
+    "https://www.solukon.de/en/home/",
+    "https://hdc3d.com/usecasesolukon/",
+    "https://hdc3d.com/portfolio-item/solukon-case-study-sophia-high-tech/",
+    "https://3druck.com/en/case-studies/audi-optimizes-postprocessing-with-systems-from-solukon-2957558/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Solukon white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.verkada.com/partners/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Solukon founded funding employees revenue",
+   "results": [
+    "https://www.crunchbase.com/organization/solukon",
+    "https://prospeo.io/c/solukon-maschinenbau-revenue",
+    "https://www.cbinsights.com/company/solukon",
+    "https://www.zoominfo.com/c/solukon-maschinenbau-gmbh/458604734",
+    "https://www.northdata.com/Solukon+Maschinenbau+GmbH,+Augsburg/HRB+29797",
+    "https://implisense.com/en/companies/solukon-maschinenbau-gmbh-augsburg-DEDNSCCPX669",
+    "https://www.bloomberg.com/profile/company/1649681D:GR"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Solukon",
+   "results": [
+    "https://note.com/kakio_ja",
+    "https://note.com/tag/Grok+Bot",
+    "https://note.com/maxmatsuura/n/n04f20fbdce8e",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/watasei/n/nf30c5a3cd82d",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/goma1212goma/n/n38b75fd0a4fa"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Solukon",
+   "results": [
+    "https://x.com/MetalAMMag/status/2042573291391431139",
+    "https://x.com/3DPrint_com/status/2112077056897167708",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/TRobinsonNewEra/status/2115942393174167572",
+    "https://x.com/DabsMalone/status/2116512564737671552",
+    "https://x.com/PicturesFoIder/status/2118185223867560198",
+    "https://x.com/chillestwoman/status/2116669325868400644"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Solukon",
+   "results": [
+    "https://www.linkedin.com/company/solukon-maschinenbau-gmbh",
+    "https://www.linkedin.com/posts/solukon-maschinenbau-gmbh_solukon-announces-distribution-partners-in-activity-7062409848197369856-Pxxn",
+    "https://de.linkedin.com/in/andreas-hartmann-b68254182",
+    "https://de.linkedin.com/in/hemankraj",
+    "https://www.linkedin.com/posts/solukon-maschinenbau-gmbh_solukon-then-vs-now-activity-7354408820795740164-vekb",
+    "https://www.linkedin.com/posts/mahar-tool-supply_solukon-announces-distribution-partners-in-activity-7063898408448626688-OAtK",
+    "https://in.linkedin.com/posts/solukon-maschinenbau-gmbh_tct-north-america-92-activity-7042084953462820864-CBuz"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Solukon",
+   "results": [
+    "https://www.facebook.com/Solukon-Maschinenbau-GmbH-336678512852174/",
+    "https://www.facebook.com/3DAdept/posts/last-week-machine-manufacturer-solukon-announced-that-its-recently-patented-sfp7/2168441643348996/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/3DPrintsNews/posts/1141545279965193/",
+    "https://www.facebook.com/DiscoverRAPID/posts/solukon-is-the-leading-supplier-of-depowdering-systems-for-metal-and-polymer-add/605103258331007/",
+    "https://www.facebook.com/metalAMmag/posts/solukon-maschinenbau-gmbh-has-launched-the-solukon-digital-factory-tool-a-fine-t/5603129673045696/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Solukon note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Solukon X 投稿",
+   "results": [
+    "https://www.solukon.de/en/home/",
+    "https://www.solukon.de/",
+    "https://amyidao.com/article/EAByYq6yR2",
+    "https://hdc3d.com/ja/ソリュコン/",
+    "https://amyidao.com/article/NLMOmwqyq1",
+    "https://x.com/Solo9929/status/2108713439799726355",
+    "https://x.com/Solo9929/status/2087923661064065328"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部26頁・検索12回）"
+ }
+}

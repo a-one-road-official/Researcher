@@ -1,0 +1,889 @@
+{
+ "name": "Spaceium",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-11T04:27:21.657594+00:00",
+ "official_url": "https://spaceium.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Our in-orbit stations store fuel and supply it to spacecraft, enabling longer missions, larger payloads, and farther travel.",
+    "url": "https://spaceium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every part heading to space needs a precise 2D drawing for manufacturing. But manually creating those drawings was slowing them down, threatening to derail their schedule.",
+    "url": "https://www.drafterinc.com/spaceium-x-drafter-how-a-three-person-team-built-space-hardware-faster-with-drafter",
+    "pass": 3
+   },
+   {
+    "quote": "A part goes in as a model and a drawing comes back with the views laid out, the features toleranced against a consistent datum scheme, and the notes in place. The engineer checks that drawing instead of producing one from nothing, and the check fits inside a test cycle.",
+    "url": "https://www.drafterinc.com/spaceium-x-drafter-how-a-three-person-team-built-space-hardware-faster-with-drafter",
+    "pass": 3
+   },
+   {
+    "quote": "Apolink and Galaxia team up to improve planned data relay capability",
+    "url": "https://spacenews.com/spaceium-demonstrates-refueling-actuator-in-orbit/",
+    "pass": 3
+   },
+   {
+    "quote": "Get Magazine Reprints",
+    "url": "https://spacenews.com/spaceium-demonstrates-refueling-actuator-in-orbit/",
+    "pass": 3
+   },
+   {
+    "quote": "By creating a SpaceNews.com account, you acknowledge that you have read our privacy policy and agree to our terms and conditions.",
+    "url": "https://spacenews.com/spaceium-demonstrates-refueling-actuator-in-orbit/",
+    "pass": 3
+   },
+   {
+    "quote": "This site is protected by reCAPTCHA and the Google",
+    "url": "https://spacenews.com/spaceium-demonstrates-refueling-actuator-in-orbit/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+    "url": "https://spacenews.com/spaceium-demonstrates-refueling-actuator-in-orbit/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://spacenews.com/spaceium-demonstrates-refueling-actuator-in-orbit/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.",
+    "url": "https://spacenews.com/spaceium-demonstrates-refueling-actuator-in-orbit/",
+    "pass": 3
+   },
+   {
+    "quote": "The achievement is more than a technical curiosity. It represents the first time a purpose-built refueling mechanism has been actuated in the vacuum of space, and it opens the door to a future where satellites are no longer disposable assets but long-lived platforms that can be topped off, upgraded, and repositioned throughout their operational lifetimes.",
+    "url": "https://developmentstoday.com/ja/space/spaceium-demos-first-ever-refueling-actuator-in-orbit",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium's actuator addresses the most mechanically demanding part of this sequence: the physical coupling between the servicer and the client satellite. The device uses a three-pronged latch mechanism that can grip a standardized refueling port, create a sealed fluid pathway, and maintain connection integrity through the vibrations and thermal cycling inherent to the orbital environment.",
+    "url": "https://developmentstoday.com/ja/space/spaceium-demos-first-ever-refueling-actuator-in-orbit",
+    "pass": 3
+   },
+   {
+    "quote": "Engagement of the three-pronged latch and seal verification",
+    "url": "https://developmentstoday.com/ja/space/spaceium-demos-first-ever-refueling-actuator-in-orbit",
+    "pass": 3
+   },
+   {
+    "quote": "Engineers noted that thermal expansion of the actuator housing was slightly higher than predicted during orbital day passes, a finding that will inform material selection for the flight-qualified version. The optical alignment system also performed better than expected, achieving sub-millimeter accuracy in port targeting despite the limited computing power available on the CubeSat platform.",
+    "url": "https://developmentstoday.com/ja/space/spaceium-demos-first-ever-refueling-actuator-in-orbit",
+    "pass": 3
+   },
+   {
+    "quote": "Industry observers note that government mandates may ultimately be needed to drive standardization. The United States Space Force and the Defense Advanced Research Projects Agency have both expressed interest in requiring refueling-compatible interfaces on future national security satellites, a move that would create a guaranteed market for servicing hardware.",
+    "url": "https://developmentstoday.com/ja/space/spaceium-demos-first-ever-refueling-actuator-in-orbit",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond refueling, the actuator technology has potential applications in other servicing tasks such as component replacement, debris removal, and orbital assembly. Spaceium's leadership has described the actuator as the first product in what it envisions as a full toolkit for in-space operations.",
+    "url": "https://developmentstoday.com/ja/space/spaceium-demos-first-ever-refueling-actuator-in-orbit",
+    "pass": 3
+   },
+   {
+    "quote": "For the broader industry, the successful demonstration is a signal that orbital refueling is transitioning from theoretical concept to engineering reality. The next few years will determine whether the technology can scale from controlled demonstrations to routine commercial operations, but the first hardware has now proven itself in the environment that matters most.",
+    "url": "https://developmentstoday.com/ja/space/spaceium-demos-first-ever-refueling-actuator-in-orbit",
+    "pass": 3
+   },
+   {
+    "quote": "Neurosymbolic AI outperforms chatbots and product search | E2327",
+    "url": "https://note.com/humble_dog9839/n/nbbcaed64a6de",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Our founders are aerospace and mechanical engineers who have designed rocket engines, developed recovery systems, and managed payload integrations.",
+    "url": "https://spaceium.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Technician (CNC Machining & Fabrication)",
+    "url": "https://job-boards.greenhouse.io/spaceium",
+    "pass": 1
+   },
+   {
+    "quote": "So they started using Drafter for their 2D manufacturing drawings, the step that was holding up their hardware development.",
+    "url": "https://www.drafterinc.com/spaceium-x-drafter-how-a-three-person-team-built-space-hardware-faster-with-drafter",
+    "pass": 3
+   },
+   {
+    "quote": "Every part heading to space needs a precise 2D drawing for manufacturing. But manually creating those drawings was slowing them down, threatening to derail their schedule.",
+    "url": "https://www.drafterinc.com/spaceium-x-drafter-how-a-three-person-team-built-space-hardware-faster-with-drafter",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium handed Drafter the most tedious step in hardware documentation. Instead of spending hours or days creating drawings, engineers uploaded parts and got manufacturing-ready drawings back in minutes, fast enough to keep up with their testing cycles.",
+    "url": "https://www.drafterinc.com/spaceium-x-drafter-how-a-three-person-team-built-space-hardware-faster-with-drafter",
+    "pass": 3
+   },
+   {
+    "quote": "Drawings were accepted with minimal feedback, even under tight tolerances and fast-turn manufacturing.",
+    "url": "https://www.drafterinc.com/spaceium-x-drafter-how-a-three-person-team-built-space-hardware-faster-with-drafter",
+    "pass": 3
+   },
+   {
+    "quote": "AST SpaceMobileは、Firefly Aerospaceとの13億ドル規模のエンジン契約が、ダイレクト・ツー・セル衛星戦略に大型ロケットを加える計画を支えると説明している",
+    "url": "https://developmentstoday.com/ja/space/spaceium-demos-first-ever-refueling-actuator-in-orbit",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "YC の会社ページに本人が掲載している情報（日本語訳は AI 翻訳",
+    "url": "https://ycpedia.com/companies/spaceium-inc",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタは、日本のスタートアップ",
+    "url": "https://note.com/startup_now0708/n/nc83ba14bb4da",
+    "pass": 3
+   },
+   {
+    "quote": "この投資は、日本の宇宙技術の進化を加速させる重要な一歩です",
+    "url": "https://note.com/startup_now0708/n/nc83ba14bb4da",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Spaceium Inc - YCpedia — Spaceium（S24）共同創業者兼CTO。 宇宙空間内のインフラを開発し、持続可能な形で宇宙を探査して、人類が暮らす新たな場所を見つけることを信じている。 最初の洞窟人が洞窟の外へ踏み出したように、人類が多惑星種になることに貢献したい。",
+    "url": "https://ycpedia.com/companies/spaceium-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceiumが軌道上での推進剤補給用ロボットアームの技術実証を実施｜... — 軌道上補給は、従来の「使い捨て型」宇宙開発から「循環維持型」へのパラダイムシフトを象徴する技術である。 Spaceiumの取り組みは、高度なロボティクスを介することで、補給機能を持たない既存衛星へのサービス提供という高いハードルに挑むもので ...",
+    "url": "https://astronavi.jp/news/26-06-0093/",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium – Service stations along the space superhighway. — Fuel is the biggest bottleneck in space. Our in-orbit stations store fuel and supply it to spacecraft, enabling longer missions, larger payloads, and farther travel.",
+    "url": "https://spaceium.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium｜宇宙企業データベース — 北米の企業概要、事業分野、関連ニュース等、宇宙ビジネスに関する取組み動向等を掲載しています。 - ASTRONAVI（アストロ ...",
+    "url": "https://astronavi.jp/companies/spaceium/",
+    "pass": 3
+   },
+   {
+    "quote": "About Us – Spaceium — We operate at rocket speed—rapidly iterating, adapting, and fulfilling our commitments to meet the demands of the growing space economy.",
+    "url": "https://spaceium.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium – Service stations along the space superhighway. — Spaceium – Service stations along the space superhighway. Fuel is the biggest bottleneck in space. Our in-orbit stations store fuel and supply it to spacecraft, enabling longer missions, larger payloads, and farther travel. © All Rights Reserved.",
+    "url": "https://spaceium.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium Inc - YCpedia — Spaceium（S24）共同創業者兼CEO。 宇宙が大好きで、いつか宇宙飛行士になりたいと思いながら育った。 より良い新しい宇宙経済のための宇宙インフラを構築するため、Spaceiumを共同創業した。 軌道力学とロケット推進システムを専門としている。",
+    "url": "https://ycpedia.com/companies/spaceium-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium Inc. (YC S24) - LinkedIn — Spaceium Inc. (YC S24) has just achieved a landmark milestone in space-based technical abilities for in-space refueling. In just five months, Spaceium flew the most precise robotic actuator...",
+    "url": "https://www.linkedin.com/company/spaceium-inc",
+    "pass": 3
+   },
+   {
+    "quote": "About Us – Spaceium — We are leading the way in developing the industry’s in-orbit refueling stations, pushing the limits of what is possible. We blend cutting-edge engineering with a courageous mindset to create solutions that transform space travel into a continuously evolving frontier.",
+    "url": "https://spaceium.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium｜宇宙企業データベース — 北米の企業概要、事業分野、関連ニュース等、宇宙ビジネスに関する取組み動向等を掲載しています。 - ASTRONAVI（アストロナビ）",
+    "url": "https://astronavi.jp/companies/spaceium/",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium x Drafter — Spaceium handed Drafter the most tedious step in hardware documentation. Instead of spending hours or days creating drawings, engineers uploaded parts and got manufacturing-ready drawings back in minutes, fast enough to keep up with their testing cycles.",
+    "url": "https://www.drafterinc.com/spaceium-x-drafter-how-a-three-person-team-built-space-hardware-faster-with-drafter",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium demonstrates refueling actuator in orbit - SpaceNews — Feb 10, 2026 · SAN FRANCISCO – Spaceium, a startup planning to establish a network of in-space refueling and repair stations, demonstrated the actuator for its robotic arm in space.",
+    "url": "https://spacenews.com/spaceium-demonstrates-refueling-actuator-in-orbit/",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium Demos First-Ever Refueling Actuator in Orbit — Feb 11, 2026 · The space industry reached a critical inflection point this month as Spaceium, a startup focused on orbital servicing infrastructure, confirmed the successful demonstration of its refueling actuator aboard a test satellite in low Earth orbit.",
+    "url": "https://developmentstoday.com/space/spaceium-demos-first-ever-refueling-actuator-in-orbit",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium Successfully Demonstrates In-Space Refueling ... — In just five months, two founders built and flew the most precise robotic actuator ever tested in orbit – over 70x more accurate than the robotic arms currently operating in space. This wasn’t a concept or ground test. It flew. It worked.",
+    "url": "https://spaceium.com/spaceium-successfully-demonstrates-in-space-refueling-actuator/",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium - 2026 Company Profile, Team, Funding & Competitors ...Spaceium 2026 Company Profile: Valuation, Funding & Investors ...Spaceium: Revenue, Worth, Valuation & Competitors 2026Spaceium Inc — Company Profile & Funding | Indexed.vcSpaceium Inc: Funding, Team & Investors | Startup IntrosSpaceium raised $500K: investors, founders | Recent FundingSpaceium: Funding, Investors & Team (Oct 2026) | ",
+    "url": "https://tracxn.com/d/companies/spaceium/__l8RYe1tX4qSlYkDRWkXQc7PKseKLxV-RPkqRCDYYl3M",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium 2026 Company Profile: Valuation, Funding & Investors ...Spaceium: Revenue, Worth, Valuation & Competitors 2026Spaceium Inc — Company Profile & Funding | Indexed.vcSpaceium Inc: Funding, Team & Investors | Startup IntrosSpaceium raised $500K: investors, founders | Recent FundingSpaceium: Funding, Investors & Team (Oct 2026) | FundedIQ — Information on valuation, funding, cap tables, invest",
+    "url": "https://pitchbook.com/profiles/company/523082-17",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium: Revenue, Worth, Valuation & Competitors 2026 — Discover Spaceium's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/spaceium",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium Inc — Company Profile & Funding | Indexed.vc — Sep 15, 2026 · Spaceium Inc is a Space Tech company based in Los Angeles, United States, founded in 2023. It has raised $6.3M in total across 1 round, most recently a $6.3M Seed round in Jan 2025.",
+    "url": "https://indexed.vc/companies/spaceium-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium Inc: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Spaceium was founded by aerospace engineers Ashi Dissanayake (CEO) and Reza Fetanat (CTO), who met while building high-power rockets and propulsion systems at university.",
+    "url": "https://startupintros.com/orgs/spaceium-inc",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The drawing is the document the shop builds from. It has to carry the tolerances, datums, and finishes that decide whether the part that comes back is the part that was designed, and Spaceium was drawing every one of them by hand. On a team of three, an hour spent drawing is an hour not spent designing or testing, and there were only so many of those before the launch date.",
+    "url": "https://www.drafterinc.com/spaceium-x-drafter-how-a-three-person-team-built-space-hardware-faster-with-drafter",
+    "pass": 3
+   },
+   {
+    "quote": "Drawings are a pain… It’s the worst part of my job, and it takes so much time.",
+    "url": "https://www.drafterinc.com/spaceium-x-drafter-how-a-three-person-team-built-space-hardware-faster-with-drafter",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://spacenews.com/spaceium-demonstrates-refueling-actuator-in-orbit/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://spacenews.com/spaceium-demonstrates-refueling-actuator-in-orbit/",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium's actuator addresses the most mechanically demanding part of this sequence: the physical coupling between the servicer and the client satellite. The device uses a three-pronged latch mechanism that can grip a standardized refueling port, create a sealed fluid pathway, and maintain connection integrity through the vibrations and thermal cycling inherent to the orbital environment.",
+    "url": "https://developmentstoday.com/ja/space/spaceium-demos-first-ever-refueling-actuator-in-orbit",
+    "pass": 3
+   },
+   {
+    "quote": "The test was conducted aboard a twelve-unit CubeSat platform launched as a secondary payload on a rideshare mission earlier this year. The CubeSat carried a self-contained test rig consisting of the actuator, a simulated refueling port, a small reservoir of inert fluid, and an array of sensors to measure forces, temperatures, and seal integrity throughout the operation.",
+    "url": "https://developmentstoday.com/ja/space/spaceium-demos-first-ever-refueling-actuator-in-orbit",
+    "pass": 3
+   },
+   {
+    "quote": "SpaceXの記録的なIPOに象徴されるように、宇宙産業は今、空前のブームを迎えています",
+    "url": "https://note.com/humble_dog9839/n/nbbcaed64a6de",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email a link to a friend (Opens in new window)",
+    "url": "https://spacenews.com/spaceium-demonstrates-refueling-actuator-in-orbit/",
+    "pass": 3
+   },
+   {
+    "quote": "Enter the code sent to your email",
+    "url": "https://spacenews.com/spaceium-demonstrates-refueling-actuator-in-orbit/",
+    "pass": 3
+   },
+   {
+    "quote": ", or clicking the magic link in the email.",
+    "url": "https://spacenews.com/spaceium-demonstrates-refueling-actuator-in-orbit/",
+    "pass": 3
+   },
+   {
+    "quote": "Email me a one-time code instead",
+    "url": "https://spacenews.com/spaceium-demonstrates-refueling-actuator-in-orbit/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "宇宙の「ガス欠」を救え！数億ドルの無駄を防ぐ革命 Speceium Aug 21, 2026 · しかし、宇宙でのドッキングは至難の業です。 Spaceiumの創業者であるアシ・ディサナヤカ氏は、宇宙船を「デリケートな赤ちゃん」に例えています。 人間が修理に行けない宇宙空間では、わずかな衝撃が致命的な事故に直結します。",
+    "url": "https://note.com/humble_dog9839/n/nbbcaed64a6de",
+    "pass": 3
+   },
+   {
+    "quote": "【1/26】宇宙スタートアップニュース｜SecondWave｜米国株・テックト...女湯に入っていた少年が勃起して・・・｜みぃこ【ネタバレ】あいの里3、むぅこと博士が結婚した理由。カップル成立か...発達障害の女はどう生きるか｜しろがねきょうこ Jan 26, 2025 · 3. Spaceium: 軌道上補給の未来を築く Spaceium は、軌道上での衛星補給技術に特化したスタートアップです。 630万ドルの資金調達に成功し、顧客の衛星寿命を延ばす革新的な補給システムを開発中です。 Sep 23, 2019 · 少し前に友達と二人で近場の温泉に行った時の話です。 女湯の洗い場でお喋りしてたら、母親とおぼしき女性に連れられて、男の子が入ってきました。 5.6年生くらいだっと思います。 今思えば、なかなかの美少年でした。 そこの温泉、小学校までは混浴可なんですけど、ふつう高学年になっ ..",
+    "url": "https://note.com/startup_now0708/n/nc83ba14bb4da",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "宇宙の「ガス欠」を救え！数億ドルの無駄を防ぐ革命 Speceium｜tyo",
+    "url": "https://note.com/humble_dog9839/n/nbbcaed64a6de",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙の「ガス欠」を救え！数億ドルの無駄を防ぐ革命 Speceium",
+    "url": "https://note.com/humble_dog9839/n/nbbcaed64a6de",
+    "pass": 3
+   },
+   {
+    "quote": "Neurosymbolic AI outperforms chatbots and product search | E2327",
+    "url": "https://note.com/humble_dog9839/n/nbbcaed64a6de",
+    "pass": 3
+   },
+   {
+    "quote": "https://x.com/Ashi_Spaceium",
+    "url": "https://note.com/humble_dog9839/n/nbbcaed64a6de",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.linkedin.com/in/ashi-dissanayake/",
+    "url": "https://note.com/humble_dog9839/n/nbbcaed64a6de",
+    "pass": 3
+   },
+   {
+    "quote": "https://spaceium.com/",
+    "url": "https://note.com/humble_dog9839/n/nbbcaed64a6de",
+    "pass": 3
+   },
+   {
+    "quote": "https://x.com/SpaceiumInc",
+    "url": "https://note.com/humble_dog9839/n/nbbcaed64a6de",
+    "pass": 3
+   },
+   {
+    "quote": "大きなプロジェクトや仕事に取り組むとき、「これは変えられない前提条件だ」と思い込んでいることはありませんか？",
+    "url": "https://note.com/humble_dog9839/n/nbbcaed64a6de",
+    "pass": 3
+   },
+   {
+    "quote": "【1/26】宇宙スタートアップニュース｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/nc83ba14bb4da",
+    "pass": 3
+   },
+   {
+    "quote": "SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/nc83ba14bb4da",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙産業は今、目覚ましい進化を遂げています。特に注目すべきは、革新的な技術を持つスタートアップ企業たちの活躍です。これらの企業は、宇宙探査から衛星運用、軌道上補給まで、未来を変える技術を次々と生み出しています。本記事では、4つの注目企業の取り組みをご紹介し、その意義と可能性に迫ります。",
+    "url": "https://note.com/startup_now0708/n/nc83ba14bb4da",
+    "pass": 3
+   },
+   {
+    "quote": "は、スペクトラムロケットの初飛行に向けてテスト段階を進めています。2025年前半の打ち上げを目指し、エンジン試験や部品製造が順調に進行中です。ノルウェー政府との長期契約により、Andøya宇宙港が打ち上げ拠点となります。同社の成功は、ヨーロッパの宇宙産業の新たな可能性を示すでしょう。",
+    "url": "https://note.com/startup_now0708/n/nc83ba14bb4da",
+    "pass": 3
+   },
+   {
+    "quote": "Interstellar Technologies",
+    "url": "https://note.com/startup_now0708/n/nc83ba14bb4da",
+    "pass": 3
+   },
+   {
+    "quote": "に7億円を投資し、軌道ロケット「Zero」の開発を支援しています。アジア初の軌道到達を目指す",
+    "url": "https://note.com/startup_now0708/n/nc83ba14bb4da",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Spaceium (@usespaceium) / X What if spacecraft could pull over and refuel? 🛰️ Spaceium is building a network of in-orbit stations designed to refuel, service, and repair spacecraft. Think of them as service stations along the space superhighway.",
+    "url": "https://x.com/usespaceium",
+    "pass": 3
+   },
+   {
+    "quote": "Ashi Dissanayake (@Ashi_Spaceium) / X Artemis II just flew past the far side of the Moon. First humans to see it in over 50 years. But getting back permanently requires solving one problem first: refueling in orbit. sciencedaily.com/releases/2026/… #ArtemisII #InOrbitRefueling #Spaceium",
+    "url": "https://x.com/Ashi_Spaceium",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium on X: \"Introducing Spaceium Live on @ponsdotfamily ... Spaceium is building the technology to help spacecraft refuel, get serviced, and stay operational in orbit. Cryogenic storage. Precision robotics. In-space fuel transfer. Longer missions. Larger payloads. Farther travel. Building the infrastructure for the space superhighway.",
+    "url": "https://x.com/usespaceium/status/2106401396186870186",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium on X: \"We’re building more than a refueling system ... Spaceium's answer is to put the service station where the spacecraft already are. Its in-orbit stations are designed to store fuel and supply it to spacecraft, enabling longer missions, larger payloads, and farther travel.",
+    "url": "https://x.com/usespaceium/status/2106027647801479612",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium (@usespaceium) / X Oct 2, 2026 · What if spacecraft could pull over and refuel? 🛰️ Spaceium is building a network of in-orbit stations designed to refuel, service, and repair spacecraft. Think of them as service stations along the space superhighway.",
+    "url": "https://x.com/usespaceium",
+    "pass": 3
+   },
+   {
+    "quote": "Articles by Spaceium (@usespaceium) / X Refuel. Repair. Keep flying. Building the infrastructure for the next era of space. spaceium.com Joined October 2026 1Following 21Followers Mention Follow RepostsMediaMediaArticlesArticles",
+    "url": "https://x.com/usespaceium/articles",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium on X: \"Introducing Spaceium Live on @ponsdotfamily ... Oct 3, 2026 · Spaceium is building the technology to help spacecraft refuel, get serviced, and stay operational in orbit. Cryogenic storage. Precision robotics. In-space fuel transfer. Longer missions. Larger payloads. Farther travel. Building the infrastructure for the space superhighway.",
+    "url": "https://x.com/usespaceium/status/2106401396186870186",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Spaceium Inc. (YC S24) - LinkedIn Spaceium Inc. (YC S24) | 4,836 followers on LinkedIn. Network of in-space refueling stations | To build in-space infrastructure to support interplanetary missions.",
+    "url": "https://www.linkedin.com/company/spaceium-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Ashi Dissanayake - Spaceium Inc. (YC S24) | LinkedInReza Fetanat - Co-Founder & CTO @ Spaceium Inc. (YC S24 ...Abdul Nadeem - Mechanical Engineering Fluids Intern at ...Spaceium Technologies Limited - LinkedInSpaceium Inc. Develops Robotic Actuator for In-Orbit ...Spaceium Inc. (YC S24) posted on LinkedIn View mutual connections with Ashi Ashi can introduce you to 5 people at Spaceium Inc. (YC S24",
+    "url": "https://www.linkedin.com/in/ashi-dissanayake",
+    "pass": 3
+   },
+   {
+    "quote": "Reza Fetanat - Co-Founder & CTO @ Spaceium Inc. (YC S24 ...Abdul Nadeem - Mechanical Engineering Fluids Intern at ...Spaceium Technologies Limited - LinkedInSpaceium Inc. Develops Robotic Actuator for In-Orbit ...Spaceium Inc. (YC S24) posted on LinkedIn Co-Founder & CTO @ Spaceium Inc. (YC S24) · Experience: Spaceium Inc. · Education: Y Combinator · Location: Canada · 500+ connections on LinkedIn",
+    "url": "https://ca.linkedin.com/in/rezafetanat",
+    "pass": 3
+   },
+   {
+    "quote": "Abdul Nadeem - Mechanical Engineering Fluids Intern at ...Spaceium Technologies Limited - LinkedInSpaceium Inc. Develops Robotic Actuator for In-Orbit ...Spaceium Inc. (YC S24) posted on LinkedIn Mechanical Engineering Fluids Intern at Spaceium Inc - Projects Chair at SEDS Canada - Mechanical deputy Team Lead at AlbertaSat · Experience: Spaceium Inc. (YC S24) · Education: University of... Spaceium",
+    "url": "https://ca.linkedin.com/in/abdul-nadeem-1b3113245",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Spaceium - Facebook Oct 31, 2020 · Spaceium. 846 followers. Journey into the land of dreams.",
+    "url": "https://www.facebook.com/Spaceium-103643751550592/",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium - Facebook Oct 31, 2020 · Spaceium. 850 likes. Journey into the land of dreams.",
+    "url": "https://www.facebook.com/p/Spaceium-100067426231294/",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium - Facebook Spaceium - Facebook ... Spaceium",
+    "url": "https://www.facebook.com/Spaceium-101669291550518/",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium - Facebook Sep 5, 2024 · Spaceium September 5, 2024 · Novidade Spaceium Umidificadores compactos para melhorar a qualidade do ar em seu quarto ou escritório",
+    "url": "https://www.facebook.com/spaceiumbrasil/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://spaceium.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spaceium.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job-boards.greenhouse.io/spaceium",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://s9-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/495/300/original/Update_large_YC.PNG?1773755627",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ycpedia.com/companies/spaceium-inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://astronavi.jp/news/26-06-0093/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://astronavi.jp/companies/spaceium/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dolphin-s.co.jp.siteindices.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ycpedia.com/companies/spaceium-inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/spaceium-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.drafterinc.com/spaceium-x-drafter-how-a-three-person-team-built-space-hardware-faster-with-drafter",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spacenews.com/spaceium-demonstrates-refueling-actuator-in-orbit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://developmentstoday.com/ja/space/spaceium-demos-first-ever-refueling-actuator-in-orbit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.appspace.com/resellers-alliances/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/spaceium/__l8RYe1tX4qSlYkDRWkXQc7PKseKLxV-RPkqRCDYYl3M",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/523082-17",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/spaceium",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/spaceium-inc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/humble_dog9839/n/nbbcaed64a6de",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/startup_now0708/n/nc83ba14bb4da",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/usespaceium",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Ashi_Spaceium",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/usespaceium/status/2106401396186870186",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/usespaceium/status/2106027647801479612",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/spaceium-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ashi-dissanayake",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/rezafetanat",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/abdul-nadeem-1b3113245",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Spaceium-103643751550592/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Spaceium-100067426231294/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Spaceium-101669291550518/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/spaceiumbrasil/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/usespaceium",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/usespaceium/articles",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/usespaceium/status/2106401396186870186",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Ashi_Spaceium",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Spaceium 日本 導入",
+   "results": [
+    "https://ycpedia.com/companies/spaceium-inc",
+    "https://astronavi.jp/news/26-06-0093/",
+    "https://spaceium.com/",
+    "https://astronavi.jp/companies/spaceium/",
+    "https://spaceium.com/about-us/",
+    "https://note.com/humble_dog9839/n/nbbcaed64a6de",
+    "https://prtimes.jp/main/html/rd/p/000000023.000115275.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Spaceium 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://www.spacemove.co.jp/",
+    "https://maymobility.com/ja",
+    "https://ja.nozominetworks.com/company"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Spaceium Japan",
+   "results": [
+    "https://spaceium.com/",
+    "https://ycpedia.com/companies/spaceium-inc",
+    "https://www.linkedin.com/company/spaceium-inc",
+    "https://spaceium.com/about-us/",
+    "https://astronavi.jp/companies/spaceium/",
+    "https://www.tokyo-dome.co.jp/en/tenq/about",
+    "https://www.thejascogroup.co/projects/spacecium/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Spaceium manufacturing customer case study",
+   "results": [
+    "https://spaceium.com/",
+    "https://www.drafterinc.com/spaceium-x-drafter-how-a-three-person-team-built-space-hardware-faster-with-drafter",
+    "https://spacenews.com/spaceium-demonstrates-refueling-actuator-in-orbit/",
+    "https://developmentstoday.com/space/spaceium-demos-first-ever-refueling-actuator-in-orbit",
+    "https://spaceium.com/spaceium-successfully-demonstrates-in-space-refueling-actuator/",
+    "https://payloadspace.com/spaceium-tests-robot-gas-attendant-piece-in-orbit/",
+    "https://www.forbes.com/councils/forbestechcouncil/2025/07/18/six-lessons-learned-from-launching-a-space-company-from-a-laundry-room/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Spaceium white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://partners.spectrum.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://www.extremenetworks.com/partners"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Spaceium founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/spaceium/__l8RYe1tX4qSlYkDRWkXQc7PKseKLxV-RPkqRCDYYl3M",
+    "https://pitchbook.com/profiles/company/523082-17",
+    "https://compworth.com/company/spaceium",
+    "https://indexed.vc/companies/spaceium-inc",
+    "https://startupintros.com/orgs/spaceium-inc",
+    "https://recentfunding.com/companies/spaceium-inc/",
+    "https://fundediq.co/spaceium-spaceium-com-funding/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Spaceium",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/humble_dog9839/n/nbbcaed64a6de",
+    "https://note.com/startup_now0708/n/nc83ba14bb4da",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Spaceium",
+   "results": [
+    "https://x.com/usespaceium",
+    "https://x.com/Ashi_Spaceium",
+    "https://x.com/usespaceium/status/2106401396186870186",
+    "https://x.com/usespaceium/status/2106027647801479612",
+    "https://x.com/usespaceium/articles",
+    "https://x.com/usespaceium/status/2106028366851932401",
+    "https://x.com/usespaceium/status/2106401696645812427"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Spaceium",
+   "results": [
+    "https://www.linkedin.com/company/spaceium-inc",
+    "https://www.linkedin.com/in/ashi-dissanayake",
+    "https://ca.linkedin.com/in/rezafetanat",
+    "https://ca.linkedin.com/in/abdul-nadeem-1b3113245",
+    "https://www.linkedin.com/company/spaceium-tl/",
+    "https://www.linkedin.com/posts/spaceium-inc_spaceium-inorbitrefueling-activity-7415119268335489024-cFLp",
+    "https://www.linkedin.com/posts/spaceium-inc_spaceium-refuelingtechnology-inorbitrefueling-activity-7402100880252030977-q6wi"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Spaceium",
+   "results": [
+    "https://www.facebook.com/Spaceium-103643751550592/",
+    "https://www.facebook.com/p/Spaceium-100067426231294/",
+    "https://www.facebook.com/Spaceium-101669291550518/",
+    "https://www.facebook.com/spaceiumbrasil/",
+    "https://www.facebook.com/Spaciumut/",
+    "https://www.facebook.com/spaceium.io/",
+    "https://www.facebook.com/Spacium-Furniture-100958215916479/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Spaceium note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Spaceium X 投稿",
+   "results": [
+    "https://x.com/usespaceium",
+    "https://x.com/usespaceium/articles",
+    "https://x.com/usespaceium/status/2106401396186870186",
+    "https://x.com/Ashi_Spaceium",
+    "https://spaceium.com/",
+    "https://note.com/humble_dog9839/n/nbbcaed64a6de",
+    "https://x.com/i/spaces/1qxvveoZzmaxB"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部38頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部38頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部38頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部38頁・検索12回）"
+ }
+}

@@ -1,0 +1,1035 @@
+{
+ "name": "Orangewood",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-11T04:37:19.603104+00:00",
+ "official_url": "https://www.orangewood.co/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都渋谷区渋谷2-1-12 \nVORT AOYAMAⅡ 7F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000221.000038322.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒150-0002 東京都渋谷区渋谷2-1-12 VORT AOYAMAⅡ 7F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000221.000038322.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2002年02月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000221.000038322.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Streamline processes with revolutionizing precision analysis and enhanced quality control with unparalleled accuracy.",
+    "url": "https://www.orangewood.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Achieve flawless finishes with precision and efficiency, empowering industries to elevate their coating process to new levels.",
+    "url": "https://www.orangewood.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Elevate productivity and safeguard human efforts with robotic prowess effortlessly retrieves objects.",
+    "url": "https://www.orangewood.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Minimize hazards and unlock limitless creative expression with enhanced safety.",
+    "url": "https://www.orangewood.co/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月には故郷の宮崎県小林市スペシャルPR大使に就任",
+    "url": "https://prtimes.jp/main/html/rd/p/000000221.000038322.html",
+    "pass": 3
+   },
+   {
+    "quote": "・Price：9,900円（税込）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000221.000038322.html",
+    "pass": 3
+   },
+   {
+    "quote": "・Price：8,800円（税込）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000221.000038322.html",
+    "pass": 3
+   },
+   {
+    "quote": "・Price：15,400円（税込）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000221.000038322.html",
+    "pass": 3
+   },
+   {
+    "quote": "・Price：16,500円（税込）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000221.000038322.html",
+    "pass": 3
+   },
+   {
+    "quote": "・Price：12,100円（税込）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000221.000038322.html",
+    "pass": 3
+   },
+   {
+    "quote": "・Price：6,600円（税込）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000221.000038322.html",
+    "pass": 3
+   },
+   {
+    "quote": "・Price：2足セット 5,500円（税込）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000221.000038322.html",
+    "pass": 3
+   },
+   {
+    "quote": "・Price：2足セット 6,600円（税込）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000221.000038322.html",
+    "pass": 3
+   },
+   {
+    "quote": "・Price：5,500円（税込）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000221.000038322.html",
+    "pass": 3
+   },
+   {
+    "quote": "・Price：1,100円（税込）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000221.000038322.html",
+    "pass": 3
+   },
+   {
+    "quote": "THE RAMPAGE・吉野北人初プロデュースのアパレルブランド「Orangewood（オレンジウッド）」本日リリース！ | YOUTH TIME JAPAN project web",
+    "url": "https://www.ytjp.jp/2026/05/18/fashion-orangewood-yoshinohokuto",
+    "pass": 3
+   },
+   {
+    "quote": "YOUTH TIME JAPAN project web | エンタメ情報と頑張る高校生の活動を紹介",
+    "url": "https://www.ytjp.jp/2026/05/18/fashion-orangewood-yoshinohokuto",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月には故郷の宮崎県小林市スペシャルPR大使に就任",
+    "url": "https://www.ytjp.jp/2026/05/18/fashion-orangewood-yoshinohokuto",
+    "pass": 3
+   },
+   {
+    "quote": "Price：9,900円（税込）",
+    "url": "https://www.ytjp.jp/2026/05/18/fashion-orangewood-yoshinohokuto",
+    "pass": 3
+   },
+   {
+    "quote": "Price：8,800円（税込）",
+    "url": "https://www.ytjp.jp/2026/05/18/fashion-orangewood-yoshinohokuto",
+    "pass": 3
+   },
+   {
+    "quote": "Price：15,400円（税込）",
+    "url": "https://www.ytjp.jp/2026/05/18/fashion-orangewood-yoshinohokuto",
+    "pass": 3
+   },
+   {
+    "quote": "Price：16,500円（税込）",
+    "url": "https://www.ytjp.jp/2026/05/18/fashion-orangewood-yoshinohokuto",
+    "pass": 3
+   },
+   {
+    "quote": "Price：12,100円（税込）",
+    "url": "https://www.ytjp.jp/2026/05/18/fashion-orangewood-yoshinohokuto",
+    "pass": 3
+   },
+   {
+    "quote": "Price：6,600円（税込）",
+    "url": "https://www.ytjp.jp/2026/05/18/fashion-orangewood-yoshinohokuto",
+    "pass": 3
+   },
+   {
+    "quote": "Price：2足セット 5,500円（税込）",
+    "url": "https://www.ytjp.jp/2026/05/18/fashion-orangewood-yoshinohokuto",
+    "pass": 3
+   },
+   {
+    "quote": "Price：2足セット 6,600円（税込）",
+    "url": "https://www.ytjp.jp/2026/05/18/fashion-orangewood-yoshinohokuto",
+    "pass": 3
+   },
+   {
+    "quote": "Price：5,500円（税込）",
+    "url": "https://www.ytjp.jp/2026/05/18/fashion-orangewood-yoshinohokuto",
+    "pass": 3
+   },
+   {
+    "quote": "『Numéro TOKYO presents 三代目 J SOUL BROTHERS SPECIAL BOOK』特典オリジナルポストカード絵柄を初公開！好評につき予約受付を8月11日（火・祝）まで延長！",
+    "url": "https://www.ytjp.jp/2026/05/18/fashion-orangewood-yoshinohokuto",
+    "pass": 3
+   },
+   {
+    "quote": "YOUTH TIME JAPAN projectについて",
+    "url": "https://www.ytjp.jp/2026/05/18/fashion-orangewood-yoshinohokuto",
+    "pass": 3
+   },
+   {
+    "quote": "Application: Spray painting on Cylinders",
+    "url": "https://sites.google.com/orangewood.co/orangewood-sales-playbook/customer-case-study-testimonials",
+    "pass": 3
+   },
+   {
+    "quote": "Provides LNG cylinders to consumers worldwide,",
+    "url": "https://sites.google.com/orangewood.co/orangewood-sales-playbook/customer-case-study-testimonials",
+    "pass": 3
+   },
+   {
+    "quote": "SSVPL processes about 1000 cylinders per shift. The deployment of robots has increased customer productivity by 10% and provided greater control over quality. Key benefits includes:",
+    "url": "https://sites.google.com/orangewood.co/orangewood-sales-playbook/customer-case-study-testimonials",
+    "pass": 3
+   },
+   {
+    "quote": "Lower production costs",
+    "url": "https://sites.google.com/orangewood.co/orangewood-sales-playbook/customer-case-study-testimonials",
+    "pass": 3
+   },
+   {
+    "quote": "Use case: Spray Painting/Powder Coating",
+    "url": "https://sites.google.com/orangewood.co/orangewood-sales-playbook/customer-case-study-testimonials",
+    "pass": 3
+   },
+   {
+    "quote": "Benefit: Increase productivity by 10%",
+    "url": "https://sites.google.com/orangewood.co/orangewood-sales-playbook/customer-case-study-testimonials",
+    "pass": 3
+   },
+   {
+    "quote": "GIF video.mp4",
+    "url": "https://sites.google.com/orangewood.co/orangewood-sales-playbook/customer-case-study-testimonials",
+    "pass": 3
+   },
+   {
+    "quote": "The deployment of robots has helped Cashify to completely automate the Quality inspection process and increase their production by ~66%.",
+    "url": "https://sites.google.com/orangewood.co/orangewood-sales-playbook/customer-case-study-testimonials",
+    "pass": 3
+   },
+   {
+    "quote": "Increase productivity",
+    "url": "https://sites.google.com/orangewood.co/orangewood-sales-playbook/customer-case-study-testimonials",
+    "pass": 3
+   },
+   {
+    "quote": "Benefit: Increase productivity by ~66%",
+    "url": "https://sites.google.com/orangewood.co/orangewood-sales-playbook/customer-case-study-testimonials",
+    "pass": 3
+   },
+   {
+    "quote": "Lincode is a US based AI powered company that helps manufacturers identify, predict and eliminate product defects and improve overall equipment effectiveness by combining the easiness of traditional machine vision and accuracy of Artificial Intellignece.",
+    "url": "https://sites.google.com/orangewood.co/orangewood-sales-playbook/customer-case-study-testimonials",
+    "pass": 3
+   },
+   {
+    "quote": "Qualitas Technologies enables manufacturing industries to realize the potential of AI and Machine Vision in order to automate visual inspection processes. Automate Visual Inspection in Manufacturing by making a 10x improvement in cost and efficiency.",
+    "url": "https://sites.google.com/orangewood.co/orangewood-sales-playbook/customer-case-study-testimonials",
+    "pass": 3
+   },
+   {
+    "quote": "How ItsWare Smart Cabinets Gave Orangewood Labs Real-Time Control Over Tools and Parts leading to Accelerated Prototype Iteration",
+    "url": "https://itsware.com/orangewood-labs-rfid-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "ItsWare partnered with Orangewood Labs to solve that problem at the source, deploying a network of RFID-enabled Smart Cabinets integrated with ItsWare’s asset management software suite across their engineering and prototyping operations. The outcome was a measurable step-change in engineering throughput, component accountability, and operational visibility.",
+    "url": "https://itsware.com/orangewood-labs-rfid-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Reduction in Emergency Parts Procurement",
+    "url": "https://itsware.com/orangewood-labs-rfid-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "We were iterating fast, faster than any of us had anticipated. But the speed of our engineering ambition kept running into the friction of not being able to find the right tool or component when we needed it. Our engineers are expensive and talented, and we were burning their time on scavenger hunts. That’s a solvable problem, and we knew solving it at the infrastructure level was the right call.”",
+    "url": "https://itsware.com/orangewood-labs-rfid-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "ItsWare conducted a hands-on assessment of Orangewood’s engineering and prototyping workflows before designing the deployment. The result was a tailored configuration of ItsWare Smart Cabinets RFID-enabled storage units linked in real time to ItsWare’s cloud-connected asset management platform positioned at key nodes in Orangewood’s engineering lab environment.",
+    "url": "https://itsware.com/orangewood-labs-rfid-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Real-time inventory dashboards visible to engineering leads and lab managers. Rather than discovering a stockout when a prototype build stalls, leads receive proactive alerts when tracked components fall below defined par levels giving procurement lead time to reorder before an engineering sprint is affected.",
+    "url": "https://itsware.com/orangewood-labs-rfid-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The implementation was completed in a phased rollout designed to avoid disrupting active engineering work. ItsWare’s team handled RFID tagging of Orangewood’s existing tool and parts inventory, cabinet placement and configuration, user provisioning, and software integration with on-site support throughout the go-live period.",
+    "url": "https://itsware.com/orangewood-labs-rfid-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "I expected standing up a new tracking system mid-sprint to be disruptive. It genuinely wasn’t. ItsWare had us fully operational ahead of schedule, and their team was there every step of the way. Within the first week, our engineers had adopted it without breaking stride. There was essentially no learning curve.",
+    "url": "https://itsware.com/orangewood-labs-rfid-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "“The real-time visibility transformed how our engineering team operates. I can open the dashboard and see exactly which tools are checked out, who has them, and how long they’ve been out. When you’re running parallel prototype builds and an engineer needs a specific fixture, we don’t search anymore. We just look.”",
+    "url": "https://itsware.com/orangewood-labs-rfid-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "We build robots that bring intelligence and precision to other people’s operations. It only made sense to apply that same standard to our own engineering environment. ItsWare gave us the infrastructure to do that. Our prototyping cycles run faster, our iterations run cleaner, and our customers see it in the quality of what we deliver.",
+    "url": "https://itsware.com/orangewood-labs-rfid-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Before ItsWare, parts replenishment was whoever noticed the bin was empty first. Now the system tells us when we’re approaching a threshold before we’re ever in a reactive position. That shift alone from reactive to proactive has protected us from stalled prototype builds more times than I can count since we launched.",
+    "url": "https://itsware.com/orangewood-labs-rfid-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Measurable Gains Across Engineering and Prototyping",
+    "url": "https://itsware.com/orangewood-labs-rfid-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Since deploying ItsWare Smart Cabinets and the ItsWare software suite, Orangewood Labs has achieved significant, sustained improvements in engineering throughput, component control, and operational confidence:",
+    "url": "https://itsware.com/orangewood-labs-rfid-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "35% reduction in engineering downtime attributable to missing tools or unavailable components. Engineers spend their time iterating on prototypes, not searching for the parts to build with.",
+    "url": "https://itsware.com/orangewood-labs-rfid-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "50% improvement in average time to locate a specific component in the engineering lab. RFID tracking and real-time dashboards eliminated the manual search loop that was disrupting prototype workflow continuity.",
+    "url": "https://itsware.com/orangewood-labs-rfid-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "$12,000 in monthly operational savings across reduced tool replacement costs, lower emergency procurement premiums, and recovered technician labor hours.",
+    "url": "https://itsware.com/orangewood-labs-rfid-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "70% reduction in emergency parts procurement events. Proactive par-level alerts give the team lead time to reorder before a shortage can stall a prototype iteration eliminating the costly cycle of expedited purchasing and last-minute scrambles that had previously been a regular occurrence.",
+    "url": "https://itsware.com/orangewood-labs-rfid-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Proactive inventory replenishment replaced reactive stockouts. Par-level alerts now give procurement lead time before shortages affect engineering timelines, a structural shift that has eliminated the category of “prototype stalled waiting on parts” disruptions.",
+    "url": "https://itsware.com/orangewood-labs-rfid-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "While Supplies Last Products",
+    "url": "https://www.moorecoinc.com/documentation/orangewood-elementary/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Orangewood builds AI-powered robotic arms that are simple to operate. We make collaborative robots safe, affordable, and capable of coping with modern-day manufacturing challenges.",
+    "url": "https://www.orangewood.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Case Study, testimonials",
+    "url": "https://sites.google.com/orangewood.co/orangewood-sales-playbook/customer-case-study-testimonials",
+    "pass": 3
+   },
+   {
+    "quote": "Orangewood x SSVP Case study.mp4",
+    "url": "https://sites.google.com/orangewood.co/orangewood-sales-playbook/customer-case-study-testimonials",
+    "pass": 3
+   },
+   {
+    "quote": "Lincode is a US based AI powered company that helps manufacturers identify, predict and eliminate product defects and improve overall equipment effectiveness by combining the easiness of traditional machine vision and accuracy of Artificial Intellignece.",
+    "url": "https://sites.google.com/orangewood.co/orangewood-sales-playbook/customer-case-study-testimonials",
+    "pass": 3
+   },
+   {
+    "quote": "Qualitas Technologies enables manufacturing industries to realize the potential of AI and Machine Vision in order to automate visual inspection processes. Automate Visual Inspection in Manufacturing by making a 10x improvement in cost and efficiency.",
+    "url": "https://sites.google.com/orangewood.co/orangewood-sales-playbook/customer-case-study-testimonials",
+    "pass": 3
+   },
+   {
+    "quote": "ItsWare - Orangewood Labs - RFID Tool Tracking Case Study",
+    "url": "https://itsware.com/orangewood-labs-rfid-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Orangewood Labs is on a mission to democratize industrial automation. The San Francisco-based company designs and manufactures AI-powered robotic arms that bring industrial-grade capability to small and medium-sized businesses at a fraction of traditional costs.",
+    "url": "https://itsware.com/orangewood-labs-rfid-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Orangewood Elementary Case Study | MooreCo",
+    "url": "https://www.moorecoinc.com/documentation/orangewood-elementary/",
+    "pass": 3
+   },
+   {
+    "quote": "Orangewood Elementary Case Study",
+    "url": "https://www.moorecoinc.com/documentation/orangewood-elementary/",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate + Manufacturing",
+    "url": "https://www.moorecoinc.com/documentation/orangewood-elementary/",
+    "pass": 3
+   },
+   {
+    "quote": "Tennessee Manufacturing",
+    "url": "https://www.moorecoinc.com/documentation/orangewood-elementary/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "MIL 2ND(東京都渋谷区神宮前4-25-28 2F)",
+    "url": "https://www.ldh.co.jp/news/detail.php?lang=jpn&site=TRIBE&newsid=0000054414",
+    "pass": 3
+   },
+   {
+    "quote": "THE RAMPAGE・吉野北人初プロデュースのアパレルブランド「Orangewood（オレンジウッド）」本日リリース！ | 株式会社エスモードアートのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000221.000038322.html",
+    "pass": 3
+   },
+   {
+    "quote": "●会場：MIL 2ND （東京都渋谷区神宮前4-25-28 2F）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000221.000038322.html",
+    "pass": 3
+   },
+   {
+    "quote": "所在地 ：〒150-0002 東京都渋谷区渋谷2-1-12 VORT AOYAMAⅡ 7F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000221.000038322.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都渋谷区渋谷2-1-12",
+    "url": "https://prtimes.jp/main/html/rd/p/000000221.000038322.html",
+    "pass": 3
+   },
+   {
+    "quote": "THE RAMPAGE・吉野北人初プロデュースのアパレルブランド「Orangewood（オレンジウッド）」本日リリース！ | YOUTH TIME JAPAN project web",
+    "url": "https://www.ytjp.jp/2026/05/18/fashion-orangewood-yoshinohokuto",
+    "pass": 3
+   },
+   {
+    "quote": "YOUTH TIME JAPAN project web | エンタメ情報と頑張る高校生の活動を紹介",
+    "url": "https://www.ytjp.jp/2026/05/18/fashion-orangewood-yoshinohokuto",
+    "pass": 3
+   },
+   {
+    "quote": "会場：MIL 2ND （東京都渋谷区神宮前4-25-28 2F）",
+    "url": "https://www.ytjp.jp/2026/05/18/fashion-orangewood-yoshinohokuto",
+    "pass": 3
+   },
+   {
+    "quote": "『Numéro TOKYO presents 三代目 J SOUL BROTHERS SPECIAL BOOK』特典オリジナルポストカード絵柄を初公開！好評につき予約受付を8月11日（火・祝）まで延長！",
+    "url": "https://www.ytjp.jp/2026/05/18/fashion-orangewood-yoshinohokuto",
+    "pass": 3
+   },
+   {
+    "quote": "YOUTH TIME JAPAN projectについて",
+    "url": "https://www.ytjp.jp/2026/05/18/fashion-orangewood-yoshinohokuto",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Orangewood — 《見てきた景色や感じた空気を、誰かと共有すること》をテーマに、これまで吉野北人が触れてきた景色、時間、感覚をファッションに落とし込み、たくさんの方と共有できるようなOrangewoodでしか見れない世界観を提供していく。",
+    "url": "https://www.orangewood.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "吉野北人初プロデュースのアパレルブランド『Orangewood(オレンジウッ... — May 18, 2026 · 吉野北人がプロデュースするアパレルブランド『Orangewood (オレンジウッド)』が誕生！ 『Orangewood』とは、吉野北人が見た景色で印象に残っているアメリカにある通り「Orangewood Avenue (オレンジウッドアベニュー)」から由来。",
+    "url": "https://www.ldh.co.jp/news/detail.php?lang=jpn&site=TRIBE&newsid=0000054414",
+    "pass": 3
+   },
+   {
+    "quote": "THE RAMPAGE・吉野北人初プロデュースのアパレルブランド「Orangewood... — May 18, 2026 · Orangewoodのリリースを記念して、先行販売期間内（5月21日（木）～5月25日（月））に「BRAND RELEASE EXHIBITION」を開催いたします。",
+    "url": "https://prtimes.jp/main/html/rd/p/000000221.000038322.html",
+    "pass": 3
+   },
+   {
+    "quote": "THE RAMPAGE・吉野北人初プロデュースのアパレルブランド「Orangewood... — May 18, 2026 · Orangewoodのロゴや、Orangewood Avenue Photo Teeにもプリントしている吉野北人が見た景色、さらに、1からデザインにも携わり細かい配置までこだわったデザインなどステッカーデザインとしてラインナップした全6種からなるオリジナルステッカーセット。",
+    "url": "https://www.ytjp.jp/2026/05/18/fashion-orangewood-yoshinohokuto",
+    "pass": 3
+   },
+   {
+    "quote": "THE RAMPAGE 吉野北人氏プロデュースのアパレルブランド「Orangewood... — May 18, 2026 · THE RAMPAGEのボーカルメンバーである吉野北人氏が初めてプロデュースするアパレルブランド「Orangewood（オレンジウッド）」が、2026年5月18日13時より先行受注販売を開始しました。",
+    "url": "https://fashion-news.net/archives/the-rampage-吉野北人氏プロデュースのアパレルブランド.html",
+    "pass": 3
+   },
+   {
+    "quote": "吉野北人初プロデュースのアパレルブランド『Orangewood(オレンジウッ... — May 18, 2026 · 「Orangewood」という名前には温かさと自然体でいられる強さを込めています。 シンプルですが印象に残る、そして着る人の個性を引き立てる服をイメージしました。",
+    "url": "https://www.ldh.co.jp/news/detail.php?lang=jpn&site=TRIBE&newsid=0000054414",
+    "pass": 3
+   },
+   {
+    "quote": "Orangewood (@orangewood_jp) • Instagram photos and videos — 11K Followers, 3 Following, 65 Posts - Orangewood (@orangewood_jp) on Instagram: \"𝙉𝙚𝙬 𝘼𝙥𝙥𝙖𝙧𝙚𝙡 𝘽𝙧𝙖𝙣𝙙 𝗖𝗿𝗲𝗮𝘁𝗲𝗱 & 𝗗𝗶𝗿𝗲𝗰𝘁𝗲𝗱 𝗯𝘆 @hokuto.yoshino.16_official 2026 𝘈𝘞 ＆ 𝘏𝘰𝘭𝘪𝘥𝘢𝘺 𝘊𝘰𝘭𝘭𝘦𝘤𝘵𝘪𝘰𝘯 ～10.14 ...",
+    "url": "https://www.instagram.com/orangewood_jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Orangewood Labs - Democratizing Robots — Orangewood builds AI-powered robotic arms that are simple to operate. We make collaborative robots safe, affordable, and capable of coping with modern-day manufacturing challenges. Enhance efficiency by reducing manual labor and empowering workers to focus on higher-value tasks.",
+    "url": "https://www.orangewood.co/",
+    "pass": 3
+   },
+   {
+    "quote": "ItsWare - Orangewood Labs - RFID Tool Tracking Case Study — Orangewood Labs is a San Francisco-based robotics company on a mission to democratize industrial automation. The company designs and engineers AI-powered robotic arms at breakthrough price points, making industrial-grade automation accessible to small and medium-sized businesses for the first time.",
+    "url": "https://itsware.com/orangewood-labs-rfid-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Orangewood Elementary Case Study | MooreCo — Search Product: All Catalogs & Literatures Download pdf Orangewood Elementary Case Study Connect with Us: Sign up for MooreCo emails and stay looped in on the newest products and services offered across our family of brands. Products",
+    "url": "https://www.moorecoinc.com/documentation/orangewood-elementary/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study Archive - Orangewood Partners — Please contact us if you have interest in learning more about Orangewood Partners or how we can partner together.",
+    "url": "https://orangewoodpartners.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Orangewood Foundation Funding Profile: Funders, Grants ... — This funding profile compiles Orangewood Foundation's financials, revenue history, grant funders, programs, and leadership from IRS Form 990 filings to help donors, grant researchers, and nonprofit professionals understand who funds Orangewood Foundation and how it spends its money.",
+    "url": "https://www.roundpaper.com/nonprofits/funding-profile/953616628",
+    "pass": 3
+   },
+   {
+    "quote": "Orangewood Foundation – Performance Metrics & Competitor Intel… — Discover Orangewood Foundation's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/orangewood-foundation",
+    "pass": 3
+   },
+   {
+    "quote": "Orangewood Foundation - Audit for period ending Jun 2024 ... — Oct 22, 2026 · Use this database to find organizations and see details like their executive compensation, revenue and expenses, as well as download tax filings going back as far as 2001.",
+    "url": "https://projects.propublica.org/nonprofits/display_audit/2024-06-GSAFAC-0000063508",
+    "pass": 3
+   },
+   {
+    "quote": "Orangewood Foundation - Nonprofit Explorer - ProPublica — Use this database to find organizations and see details like their executive compensation, revenue and expenses, as well as download tax filings going back as far as 2001.",
+    "url": "https://projects.propublica.org/nonprofits/organizations/953616628",
+    "pass": 3
+   },
+   {
+    "quote": "Orangewood 2026 Company Profile: Valuation, Funding ...Orangewood Labs Startup Deep Dive: Funding, Model, RisksHow Orangewood Labs hit $12.6M revenue with a 79 person team ... — Information on valuation, funding, cap tables, investors, and executives for Orangewood. Use the PitchBook Platform to explore the full profile. Sep 9, 2026 · Orangewood Labs deep dive: Industrial robotics / AI startup in ",
+    "url": "https://pitchbook.com/profiles/company/226882-99",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Ready to see more or ask questions? Schedule a demo or contact us for more information.",
+    "url": "https://itsware.com/orangewood-labs-rfid-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up for MooreCo emails and stay looped in",
+    "url": "https://www.moorecoinc.com/documentation/orangewood-elementary/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "in revenue and have less than $500,000 in assets, in which case they",
+    "url": "https://projects.propublica.org/nonprofits/display_audit/2024-06-GSAFAC-0000063508",
+    "pass": 3
+   },
+   {
+    "quote": "Organizations must report loans, grants or business transactions with interested parties, which may include key employees and officers, their family members and any businesses in which they hold a controlling interest. These transactions must be reported on Schedule L.",
+    "url": "https://projects.propublica.org/nonprofits/organizations/953616628",
+    "pass": 3
+   },
+   {
+    "quote": "Notable Sources of Revenue",
+    "url": "https://projects.propublica.org/nonprofits/organizations/953616628",
+    "pass": 3
+   },
+   {
+    "quote": "Percent of Total Revenue",
+    "url": "https://projects.propublica.org/nonprofits/organizations/953616628",
+    "pass": 3
+   },
+   {
+    "quote": "Key Employees and Officers",
+    "url": "https://projects.propublica.org/nonprofits/organizations/953616628",
+    "pass": 3
+   },
+   {
+    "quote": "in revenue and have less than $500,000 in assets, in which case they",
+    "url": "https://projects.propublica.org/nonprofits/organizations/953616628",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Orangewood Inn & Suites (@orangewood_inn) / X The newly renovated Orangewood Inn & Suites hotel is designed to offer business and leisure travelers.",
+    "url": "https://x.com/orangewood_inn",
+    "pass": 3
+   },
+   {
+    "quote": "Orangewood Elementary School (@OrangewoodWCUSD) / X Mrs. Resendiz and Mrs. Cordero’s class showed their compassion by creating heartfelt cards for families impacted by the fires. This meaningful activity allowed students to connect with others and offer their support during challenging times.",
+    "url": "https://x.com/orangewoodwcusd",
+    "pass": 3
+   },
+   {
+    "quote": "Orangewood Academy (@OrangewoodAcad) / Posts / X Orangewood Academy, A Seventh-day Adventist College Preparatory School, Serving students from Preschool - 12th Grade.",
+    "url": "https://x.com/OrangewoodAcad",
+    "pass": 3
+   },
+   {
+    "quote": "Orangewood Inn & Suites (@Orangewoodkci) / Posts / X Orangewood Inn & Suites (@Orangewoodkci) - Posts - The newly renovated Orangewood Inn & Suites is designed to offer Business and Leisure travelers. | X (formerly Twitter)",
+    "url": "https://x.com/Orangewoodkci",
+    "pass": 3
+   },
+   {
+    "quote": "Orangewood (@Orangewood_jp) / X 先行販売が終了いたしました🍊🌲 たくさんのご注文、SNSでのコメントありがとうございました！ 商品到着まで楽しみにお待ちください。 orangewood.jp/?utm_source=tw… @HOKUTOBOO36 #Orangewood #オレンジウッド",
+    "url": "https://x.com/Orangewood_jp",
+    "pass": 3
+   },
+   {
+    "quote": "Orangewood (@OrangewoodLabs) / X In Detroit for @Reindustrialize ,the city that out-built the world. From Detroit, today, we're releasing @orangewood 's launch film. Only robot built with the American Worker in mind. A robot arm any factory worker can deploy themselves. No code. No integrator. Teach it once our",
+    "url": "https://x.com/OrangewoodLabs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Orangewood - LinkedIn Orangewood | 18,898 followers on LinkedIn. Democratizing robots! | At Orangewood Labs, we're building the Industrial Revolution 4.0 with our cobots! Our aim is to democratize robotics ...",
+    "url": "https://www.linkedin.com/company/orangewood-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Orangewood Foundation | LinkedIn Orangewood Foundation | 5,977 followers on LinkedIn. Supporting young people in Orange County as they prepare for adulthood and independence. | Orangewood Foundation is a private, nonprofit organization founded in 1981. Our mission is to prepare foster and community youth to reach their greatest potential. Our programs focus on the areas of basic needs, housing, li",
+    "url": "https://na.linkedin.com/company/orangewoodfoundation",
+    "pass": 3
+   },
+   {
+    "quote": "Orangewood Guitars - LinkedIn Orangewood Guitars | 1,642 followers on LinkedIn. Headquartered in Los Angeles, Orangewood is the leading B2C music brand reinventing the way people shop guitars. As a digital-first company ...",
+    "url": "https://www.linkedin.com/company/orangewood-guitars/",
+    "pass": 3
+   },
+   {
+    "quote": "Our 2024 grant recipient, Orangewood Foundation, received ... Our 2024 grant recipient, Orangewood Foundation, received $30,000 to continue providing transitional housing and helping with the physical, emotional, and relational health of youth transitioning out of foster care. Rather than facing possible homelessness and hopelessness, Orangewood Foundation helps these youth achieve their goals on ",
+    "url": "https://pe.linkedin.com/posts/impactgivingnow_our-2024-grant-recipient-orangewood-foundation-activity-7206686713111343105-h2UK",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Orangewood Guitars | Los Angeles CA - FacebookOrangewood Acoustic Guitar - Acoustic Guitars - Des Moines ...Facebook - log in or sign upOrangewood Community - FacebookORANGEWOOD INNOVATIONS | Mumbai - FacebookOrangewood Guitars | Los Angeles CA - FacebookOrangewood Lakes Manufactured Home Community | New Port Richey FL Oct 16, 2026 · Orangewood Guitars, Los Angeles. 63,968 followers · 693 talking ",
+    "url": "https://www.facebook.com/OrangewoodGuitars/",
+    "pass": 3
+   },
+   {
+    "quote": "Orangewood Acoustic Guitar - Acoustic Guitars - Des Moines ... Beautiful sounding acoustic guitar with case! I tried to get into playing the guitar, but it wasn’t for me. The sound is well rounded with a good resonance. Looking for 150 OBO. Comes with the case...",
+    "url": "https://www.facebook.com/marketplace/item/1228441159186703/",
+    "pass": 3
+   },
+   {
+    "quote": "Orangewood Community - Facebook Welcome to the Orangewood Community. At Orangewood, we believe music is a universal language with the power to inspire and connect us all together. This community is designed to bring together fans of Orangewood to share their musical journey with one another. Whether you’ve been playing your whole life or just a few days, you’re welcome in this space. We ask that y",
+    "url": "https://www.facebook.com/groups/orangewoodcommunity/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.orangewood.co/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.orangewood.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ldh.co.jp/news/detail.php?lang=jpn&site=TRIBE&newsid=0000054414",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000221.000038322.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ytjp.jp/2026/05/18/fashion-orangewood-yoshinohokuto",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orangewood.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ldh.co.jp/news/detail.php?lang=jpn&site=TRIBE&newsid=0000054414",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/orangewood_jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000221.000038322.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sites.google.com/orangewood.co/orangewood-sales-playbook/customer-case-study-testimonials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://itsware.com/orangewood-labs-rfid-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moorecoinc.com/documentation/orangewood-elementary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roundpaper.com/nonprofits/funding-profile/953616628",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/orangewood-foundation",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://projects.propublica.org/nonprofits/display_audit/2024-06-GSAFAC-0000063508",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://projects.propublica.org/nonprofits/organizations/953616628",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/orangewood_inn",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/orangewoodwcusd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OrangewoodAcad",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Orangewoodkci",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/orangewood-labs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://na.linkedin.com/company/orangewoodfoundation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/orangewood-guitars/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pe.linkedin.com/posts/impactgivingnow_our-2024-grant-recipient-orangewood-foundation-activity-7206686713111343105-h2UK",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/OrangewoodGuitars/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/marketplace/item/1228441159186703/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/orangewoodcommunity/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Orangewood_jp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OrangewoodLabs",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Orangewood 日本 導入",
+   "results": [
+    "https://www.orangewood.jp/",
+    "https://www.ldh.co.jp/news/detail.php?lang=jpn&site=TRIBE&newsid=0000054414",
+    "https://prtimes.jp/main/html/rd/p/000000221.000038322.html",
+    "https://www.ytjp.jp/2026/05/18/fashion-orangewood-yoshinohokuto",
+    "https://fashion-news.net/archives/the-rampage-吉野北人氏プロデュースのアパレルブランド.html",
+    "https://emomiu.jp/news/264135/",
+    "https://autoprove.net/imported-car/jeep/wrangler/258778/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Orangewood 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/オレンジ・アンド・パートナーズ",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Orangewood Japan",
+   "results": [
+    "https://www.orangewood.jp/",
+    "https://www.ldh.co.jp/news/detail.php?lang=jpn&site=TRIBE&newsid=0000054414",
+    "https://www.instagram.com/orangewood_jp/",
+    "https://prtimes.jp/main/html/rd/p/000000221.000038322.html",
+    "https://www.ytjp.jp/2026/05/18/fashion-orangewood-yoshinohokuto",
+    "https://www.orangewood.jp/c/allitem",
+    "https://x.com/Orangewood_jp"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Orangewood manufacturing customer case study",
+   "results": [
+    "https://www.orangewood.co/",
+    "https://sites.google.com/orangewood.co/orangewood-sales-playbook/customer-case-study-testimonials",
+    "https://itsware.com/orangewood-labs-rfid-case-study",
+    "https://www.moorecoinc.com/documentation/orangewood-elementary/",
+    "https://orangewoodpartners.com/case-study/",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://orangewoodpartners.com/case-study/feed/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Orangewood white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.seoreseller.com/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Orangewood founded funding employees revenue",
+   "results": [
+    "https://www.roundpaper.com/nonprofits/funding-profile/953616628",
+    "https://compworth.com/company/orangewood-foundation",
+    "https://projects.propublica.org/nonprofits/display_audit/2024-06-GSAFAC-0000063508",
+    "https://projects.propublica.org/nonprofits/organizations/953616628",
+    "https://pitchbook.com/profiles/company/226882-99",
+    "https://www.indianstartuptimes.com/startup-deep-dive/orangewood-labs-deep-dive/",
+    "https://getlatka.com/companies/orangewood.co/funding"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Orangewood",
+   "results": [
+    "https://note.com/wise_turtle184",
+    "https://note.com/shiraishidou/n/n7d2b0c840324",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/natty_toucan386/n/n77decdd6e10f",
+    "https://note.com/rm131429/n/n97e57ea0bb41",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/masashi3122/n/n6f41b990b137"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Orangewood",
+   "results": [
+    "https://x.com/orangewood_inn",
+    "https://x.com/orangewoodwcusd",
+    "https://x.com/OrangewoodAcad",
+    "https://x.com/Orangewoodkci",
+    "https://x.com/h_ko3o6/status/2092133064982020491",
+    "https://x.com/orangewoodoak/status/2120069472169951364",
+    "https://x.com/OrangeWoodGBO/status/2116909529065566583"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Orangewood",
+   "results": [
+    "https://www.linkedin.com/company/orangewood-labs",
+    "https://na.linkedin.com/company/orangewoodfoundation",
+    "https://www.linkedin.com/company/orangewood-guitars/",
+    "https://pe.linkedin.com/posts/impactgivingnow_our-2024-grant-recipient-orangewood-foundation-activity-7206686713111343105-h2UK",
+    "https://www.linkedin.com/in/parked",
+    "https://www.linkedin.com/in/abhinavdas1985",
+    "https://www.linkedin.com/company/orangewood"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Orangewood",
+   "results": [
+    "https://www.facebook.com/OrangewoodGuitars/",
+    "https://www.facebook.com/marketplace/item/1228441159186703/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/groups/orangewoodcommunity/",
+    "https://www.facebook.com/Orangewoodofficial/",
+    "https://www.facebook.com/p/Orangewood-Guitars-61567895613542/",
+    "https://www.facebook.com/OrangewoodLakes/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Orangewood note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.jp/n/n10ae3b3f8acd",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Orangewood X 投稿",
+   "results": [
+    "https://x.com/Orangewood_jp",
+    "https://x.com/OrangewoodLabs",
+    "https://www.instagram.com/orangewood_jp/",
+    "https://www.orangewood.jp/",
+    "https://www.orangewood.co/",
+    "https://www.instagram.com/orangewoodlabs/",
+    "https://xdrank.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

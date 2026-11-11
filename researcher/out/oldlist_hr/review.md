@@ -1495,6 +1495,12 @@
 - 「をData Center Cafeが日本向けに抄訳したものです」（https://cafe-dc.com/energy/echion-partners-with-proper-voltage-to-develop-16mw-ups-for-ai-data-centers/）
 - 「SC Zeus、大阪のデータセンター用地を取得し日本進出」（https://cafe-dc.com/energy/echion-partners-with-proper-voltage-to-develop-16mw-ups-for-ai-data-centers/）
 
+## Ethereal Machines（https://etherealmachines.com/）
+- 「Certifications from these projects helped Ethereal win bigger clients across new geographies, Mudda told ET. Nearly 70% of the company's revenue now comes from exports, with clients across the US, UK, Europe, and early inroads into southeast Asia and Japan.」（https://economictimes.indiatimes.com/tech/funding/deeptech-startup-ethereal-machines-raises-28-5-million-from-avataar-ventures-peak-xv-others/articleshow/131640029.cms）
+- 「India's manufacturing sector contributes about 17% of GDP but remains heavily reliant on precision machine tools from Germany and Japan. This is what the company aims to change.」（https://economictimes.indiatimes.com/tech/funding/deeptech-startup-ethereal-machines-raises-28-5-million-from-avataar-ventures-peak-xv-others/articleshow/131640029.cms）
+- 「, TSMC is spending around $60 billion in 2026 and still cannot make enough advanced chips, because the machines that build them are themselves scarce: a single ASML EUV scanner takes 18 months to assemble from a handful of suppliers in Germany, the Netherlands, and Japan.」（https://www.avataar.vc/insights/why-we-backed-ethereal-machines-redefining-precision-engineering-from-machine-to-factory-to-software）
+- 「Indian software industry ($254 billion FY24; Zoho $1B+ ARR; Freshworks NASDAQ-listed; AI foundation model players Krutrim and Sarvam): NASSCOM Strategic Review 2024; company disclosures.」（https://www.avataar.vc/insights/why-we-backed-ethereal-machines-redefining-precision-engineering-from-machine-to-factory-to-software）
+
 ## Modvion（https://modvion.com/）
 - 「日本の木材市場は、輸入木材にとってますます大きな課題に直面している」（https://ja.woodandpanel.com/%E3%82%A6%E3%83%83%E3%83%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E8%A8%98%E4%BA%8B/Modvion%E3%81%AF%E6%9C%80%E6%96%B0%E3%81%AE%E6%9C%A8%E8%A3%BD%E9%A2%A8%E5%8A%9B%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E3%82%92IQPC%E9%A2%A8%E5%8A%9B%E9%80%B1%E9%96%93%E3%81%A7%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/）
 - 「Hosted under the theme �Join Sweden to Pioneer the Possible,� the day brought together government leaders, innovators, and business representatives to highlight Sweden�s forward-looking solutions and strengthen ties with international partners � especially Japan.」（https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866）
@@ -1505,6 +1511,11 @@
 - 「, particularly in major powers such as the United States, Taiwan, China, Japan and Korea.」（https://openchip.com/about-us/）
 - 「The creation of links and alliances with partners in countries such as Japan and the United States」（https://openchip.com/about-us/）
 - 「スペインOpenchipが2nm GAAプロセスで作ったRISC-Vプロセッサ「BER10」を発表 | EDA EXPRESS｜日本初！EDAツールのポータルサイト」（https://eda-express.com/risc-v/46913/）
+
+## Spaceium（https://spaceium.com）
+- 「YC の会社ページに本人が掲載している情報（日本語訳は AI 翻訳」（https://ycpedia.com/companies/spaceium-inc）
+- 「トヨタは、日本のスタートアップ」（https://note.com/startup_now0708/n/nc83ba14bb4da）
+- 「この投資は、日本の宇宙技術の進化を加速させる重要な一歩です」（https://note.com/startup_now0708/n/nc83ba14bb4da）
 
 ## Tiamat Energy（https://www.tiamat-energy.com/）
 - 「Overview: In Japan, the Feed-in Tariff (FIT) and Feed-in Premium (FIP) schemes are being promoted based on the Act on Special Measures Concerning Renewable Energy.」（https://note.com/tiamat_trauncer/n/n33793f9f7c35?hl=en）
@@ -1541,6 +1552,63 @@
 
 ## SweGaN（https://swegan.se/）
 - 「受注総額は日本円で約4.3億円に相当し、データセンター向けパワーデバイス、防衛・航空宇宙・通信分野向けRFデバイスなどに活用される予定です」（https://ceramicforum.co.jp/news/swegan%E3%80%81%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E9%A1%A7%E5%AE%A2%E3%81%8B%E3%82%89%E7%B4%844-3%E5%84%84%E5%86%86%E3%81%AE%E5%95%86%E6%A5%AD%E5%8F%97%E6%B3%A8%E3%82%92%E7%8D%B2%E5%BE%97/）
+
+## Swiss-Mile（https://www.rivr.new/）
+- 「タイムラインを合わせる日本、次に必要なものは [相良静造のUnmanned World] Vol.14」（https://drone.jp/news/2021121314312349781.html）
+- 「DRONE.jp（https://drone.jp/、以下本サイト）は、ドローンやマルチコプターについての本格的な解説やおすすめ、最新情報を発信する日本初のメディアとして、「Explore the Future」をタグラインに2015年スタートしました」（https://drone.jp/news/2021121314312349781.html）
+
+## CircuitHub（https://circuithub.com）
+- 「CircuitHub unveils circuit board manufacturing system ‘The Grid,’ with 4-day lead time and plans to quintuple capacity in 2026 | Physical AI News (Japan)」（https://physicalainews.jp/en/news/circuithub-unveils-circuit-board-manufacturing-system-the-grid-with-4-e5490c）
+- 「Translated from the Japanese original:」（https://physicalainews.jp/en/news/circuithub-unveils-circuit-board-manufacturing-system-the-grid-with-4-e5490c）
+- 「. The Japanese version is authoritative if they differ.」（https://physicalainews.jp/en/news/circuithub-unveils-circuit-board-manufacturing-system-the-grid-with-4-e5490c）
+
+## Backflip（https://backflip.ai）
+- 「Japanese anime television series」（https://en.wikipedia.org/wiki/Backflip!!）
+- 「is an original Japanese」（https://en.wikipedia.org/wiki/Backflip!!）
+- 「It premiered in Japan on July 2, 2022, with returning staff and cast.」（https://en.wikipedia.org/wiki/Backflip!!）
+
+## Cybus（https://www.cybus.io）
+- 「サイバーセキュリティクラウド[4493]：大学生に向けた新たなサイバーセキュリティ理解促進企画「Cybus（サイバス）」始動！～「学ぶ」を「体験」に変えるキャリア発見プロジェクト新企画～ 2025年2月4日(適時開示) ：日経会社情報DIGITAL：日本経済新聞」（https://www.nikkei.com/nkd/disclosure/tdnr/20250204562733/）
+
+## Draftaid（https://draftaid.io）
+- 「特に日本においては、製造業のデジタルトランスフォーメーション（DX）推進や、深刻化する人手不足を背景に、設計自動化への関心と需要が急速に高まっています」（https://skywork.ai/skypage/ja/draftaid-ai-drawing-assistant/1985202026901217280）
+- 「日本の製造業は、技術者の高齢化と人材不足という構造的な問題を抱えています」（https://note.com/snake_dragon/n/nb3d309edc856?hl=en）
+
+## Telm（https://telmai.com/）
+- 「スパム検出は多言語対応で、CJK（日本語・中国語・韓国語）文字や音訳テキストも含みます」（https://telm.com/ja/features）
+- 「Semiconductor equipment has an extremely complex supply chain structure, involving numerous specialized companies in areas such as components, precision parts, optical systems, vacuum technology, control software, and maintenance services. Within this structure, TEL possesses a global network that i」（https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en）
+- 「A key strength is its strong collaboration with domestic Japanese component and material companies, as well as its presence in a domestic ecosystem capable of supplying 'high-precision, high-reliability' equipment.」（https://note.com/izuku_idea/n/n5ae962a0fb35?hl=en）
+
+## Tenderd（https://www.tenderd.com/）
+- 「Japan Tenders | RFP, Bids, eProcurement | Japan Government Tenders 2026」（https://www.japantenders.com/）
+- 「Japan Tenders by Industry」（https://www.japantenders.com/）
+- 「JapanTenders Features」（https://www.japantenders.com/）
+- 「Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...」（https://www.firstcvc.jp/global/tenderd.com）
+
+## Zeitview（https://www.zeitview.com/）
+- 「エネルギー向け機械学習プラットフォームトップ10： ① 米Zeitview、②諾Cognite、③米Uplight…日本企業も導入か？｜IZM」（https://note.com/izumahiroaki/n/n84cc9b74b8c7）
+- 「エネルギー向け機械学習プラットフォームトップ10： ① 米Zeitview、②諾Cognite、③米Uplight…日本企業も導入か？」（https://note.com/izumahiroaki/n/n84cc9b74b8c7）
+
+## Zetwerk（https://www.zetwerk.com/）
+- 「Zetwerk Manufacturing Businesses Limited（ZETWERK）IPO詳細 - 日本と世界のIPO企業分析」（https://ipo-analysis.com/companies/zetwerk-manufacturing-businesses/）
+- 「日本からの購入では証券会社の取扱条件と取得価格を確認し、IPOの話題性と事業の資金自立を分けます」（https://ipo-analysis.com/companies/zetwerk-manufacturing-businesses/）
+- 「参考円換算は日本銀行2026年10月適用相場、1ルピー＝1.6695円」（https://ipo-analysis.com/companies/zetwerk-manufacturing-businesses/）
+- 「新株資金の使途では、会社の借入返済へ130億ルピー、子会社の借入返済へ86億ルピーを計画し、残りは買収等と一般事業目的へ向けます」（https://ipo-analysis.com/companies/zetwerk-manufacturing-businesses/）
+
+## Farcast（https://www.farcast.com/）
+- 「ブロックチェーンやNFT、仮想通貨等、WEB3関連情報等の発信を行っているfillメディアの編集部では、この度、分散型ソーシャルアプリ・プロトコル、Farcaster（ファーキャスター）に関する日本語解説記事を公開致しました」（https://note.com/fill_media/n/nb01306dd8314）
+
+## Geckorobotics（https://www.geckorobotics.com/）
+- 「シリコンバレー外で台頭する米有望スタートアップが日本企業にPR(米国) | ビジネス短信 ―ジェトロの海外ニュース - ジェトロ」（https://www.jetro.go.jp/biznews/2020/10/2fb738364b992955.html）
+- 「シリコンバレー外で台頭する米有望スタートアップが日本企業にPR」（https://www.jetro.go.jp/biznews/2020/10/2fb738364b992955.html）
+- 「今回のピッチイベントには、そうしたシリコンバレー以外の都市・地域から、日本企業との協業を検討する、または将来、日本への進出を検討する企業9社が参加」（https://www.jetro.go.jp/biznews/2020/10/2fb738364b992955.html）
+- 「UAE最大の石油・ガス企業Abu Dhabi National Oil Company（ADNOC）の子会社ADNOC Gasとの複数年契約」（https://www.jdti.jp/blog-us-defense-tech-list/blog-gecko-robotics）
+
+## LOHUM（https://lohum.com/）
+- 「Fast-growing India is the next North America for Japan's Marubeni: CEO」（https://asia.nikkei.com/editor-s-picks/interview/india-s-lohum-targets-ev-batteries-after-opening-zimbabwe-lithium-mine）
+
+## Zoovu（https://www.zoovu.com）
+- 「Tokyo, Japan」（https://www.cuspera.com/products/zoovu-x-6297/customer-story）
 
 ## Metalpine GmbH（https://www.metalpine.at）
 - 「METALPINE is part of the internationally represented htm Group (hightech metal invest) with locations in Germany, Austria, Bahrain and Japan.」（https://metalpine.at/）

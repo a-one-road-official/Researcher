@@ -1,0 +1,1785 @@
+{
+ "name": "Instrumental",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜返信あり",
+ "researched_at": "2026-11-11T04:21:12.590954+00:00",
+ "official_url": "https://instrumental.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "New Product Introduction",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Electronics",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Instrumental turns assembly data into knowledge and action that improve yield, throughput, and ramp.",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Acceleration In Practice",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta accelerates NPI by saving over 900 engineering weeks across 7 programs annually.",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Toast achieves 5.3X ROI by using Instrumental's AI to identify product defects earlier in development.",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Leverages diverse factory data and product context to surface improvement opportunities",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learns over time so every engineer solves problems like your best one",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate NPI and production for complex electronics",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Instrumental Taps AI and Accelerated Computing to Speed Server Production With NVIDIA",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta accelerates NPI and saves over 900 engineering weeks across 7 programs",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Toast achieves 5.3X ROI by using Instrumental's AI to identify product defects earlier in development",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production: A Primer for Operations Quality",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Subscribe to the Build Better newsletter for tips on improving your builds.",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "to improve your experience, analyze traffic, and personalize content.",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "today announced it has joined NVIDIA Metropolis, a partner program focused on bringing to market a new generation of vision AI applications. NVIDIA Metropolis nurtures a rich ecosystem and offers powerful developer tools to supercharge vision AI applications that are designed to make the world’s most important spaces and operations safer and more efficient.",
+    "url": "https://instrumental.com/resources/company/instrumental-partners-with-nvidia-metropolis/",
+    "pass": 1
+   },
+   {
+    "quote": "See the full press release here",
+    "url": "https://instrumental.com/resources/company/instrumental-partners-with-nvidia-metropolis/",
+    "pass": 1
+   },
+   {
+    "quote": "New Product Introduction",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Electronics",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "design better products",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our technology partnerships improve efficiency and productivity.",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our models are purpose-built for electronics manufacturing, trained on massive production datasets, and accelerated by NVIDIA Metropolis to deploy production controls quickly with minimal impact on throughput.",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced computer vision and failure analysis for complex electronics assembly in your frontline operations",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Proudly hosted and Powered by AWS",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Hardware Engineering & Operations Execution for Technology Products",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our partnerships with imaging providers enable quick image imports into the Instrumental app.",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our REST API provides easy integration of image data from the Basler imaging system.",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "For projects requiring advanced imaging systems such as IR imaging, leverage our integration with FLIR systems.",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Instrumental Taps AI and Accelerated Computing to Speed Server Production With NVIDIA",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Toast achieves 5.3X ROI by using Instrumental's AI to identify product defects earlier in development",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta accelerates NPI and saves over 900 engineering weeks across 7 programs",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Production: A Primer for Operations Quality",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Subscribe to the Build Better newsletter for tips on improving your builds.",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "to improve your experience, analyze traffic, and personalize content.",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "— Today, Instrumental Inc., which provides a manufacturing AI and data platform for complex electronics, announced an investment from NVentures, (NVIDIA’s venture capital arm), and Root Ventures. The investment underscores the growing importance of AI-enabled manufacturing software in accelerating the production of servers and racks to meet immense demand from data centers worldwide.",
+    "url": "https://instrumental.com/resources/company/instrumental-announces-new-investment-to-accelerate-server-and-rack-manufacturing-data-centers/",
+    "pass": 1
+   },
+   {
+    "quote": "Instrumental’s platform delivers a unique impact by combining powerful visual AI algorithms with real-time production data to predict and intercept assembly issues, reducing time- and cost-intensive rework cycles. Manufacturers also leverage Instrumental’s digital thread to identify process improvements that eliminate failures at the source. Instrumental’s AI technologies are",
+    "url": "https://instrumental.com/resources/company/instrumental-announces-new-investment-to-accelerate-server-and-rack-manufacturing-data-centers/",
+    "pass": 1
+   },
+   {
+    "quote": "This investment will enable us to scale our proven results across the AI Infrastructure ecosystem faster — becoming a standard for all complex AI infrastructure assembly",
+    "url": "https://instrumental.com/resources/company/instrumental-announces-new-investment-to-accelerate-server-and-rack-manufacturing-data-centers/",
+    "pass": 1
+   },
+   {
+    "quote": "New Product Introduction",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Electronics",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "design better products",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our technology partnerships improve efficiency and productivity.",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our models are purpose-built for electronics manufacturing, trained on massive production datasets, and accelerated by NVIDIA Metropolis to deploy production controls quickly with minimal impact on throughput.",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced computer vision and failure analysis for complex electronics assembly in your frontline operations",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Proudly hosted and Powered by AWS",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Hardware Engineering & Operations Execution for Technology Products",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our partnerships with imaging providers enable quick image imports into the Instrumental app.",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our REST API provides easy integration of image data from the Basler imaging system.",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "For projects requiring advanced imaging systems such as IR imaging, leverage our integration with FLIR systems.",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Instrumental Taps AI and Accelerated Computing to Speed Server Production With NVIDIA",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Toast achieves 5.3X ROI by using Instrumental's AI to identify product defects earlier in development",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Meta accelerates NPI and saves over 900 engineering weeks across 7 programs",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Production: A Primer for Operations Quality",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Subscribe to the Build Better newsletter for tips on improving your builds.",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "to improve your experience, analyze traffic, and personalize content.",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing | Instrumental",
+    "url": "https://instrumental.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "New Product Introduction",
+    "url": "https://instrumental.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Electronics",
+    "url": "https://instrumental.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "The Manufacturing Acceleration Platform — Configured for Your Production Environment",
+    "url": "https://instrumental.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy Instrumental Across Your Manufacturing Process",
+    "url": "https://instrumental.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate with existing systems and deploy signal capture across your production line — including images, test results, and process parameters.",
+    "url": "https://instrumental.com/pricing/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Instrumental | Manufacturing Acceleration Platform",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join us for the Electronics Manufacturing Summit on October 7th 2026",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and Defense Electronics",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A place for manufacturing leaders and visionaries to learn from their peers.",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A publication dedicated to the manufacturing executive",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing acceleration",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world’s leading manufacturers.",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Synchronized across stations, lines, and factories",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Leverages diverse factory data and product context to surface improvement opportunities",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing acceleration for the AI hardware race",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Instrumental Announces New Investment to Accelerate Server and Rack Manufacturing for Data Centers",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Robotics offers route for US manufacturing renaissance",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate your manufacturing",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the Manufacturing Acceleration Platform",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "— Instrumental, the leading manufacturing AI and data platform,",
+    "url": "https://instrumental.com/resources/company/instrumental-partners-with-nvidia-metropolis/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and Defense Electronics",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "A place for manufacturing leaders and visionaries to learn from their peers.",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "A publication dedicated to the manufacturing executive",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "MANUFACTURING PARTNERS",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Instrumental has strong CM partnerships that help us to integrate data into the cloud app and drop stations on the line. We also take the responsibility to train operators on how to install and use Instrumental stations.",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We ship stations directly to your factory and",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We train operators on how to use Instrumental",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We work with the factory to upload parametric",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our models are purpose-built for electronics manufacturing, trained on massive production datasets, and accelerated by NVIDIA Metropolis to deploy production controls quickly with minimal impact on throughput.",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Instrumental is an AWS Manufacturing and Industrial Software competency partner that can also deploy on AWS' govcloud",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligent manufacturing automation and automated inspections",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate your manufacturing",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the Manufacturing Acceleration Platform",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Instrumental Announces New Investment to Accelerate Server and Rack Manufacturing for Data Centers | Instrumental",
+    "url": "https://instrumental.com/resources/company/instrumental-announces-new-investment-to-accelerate-server-and-rack-manufacturing-data-centers/",
+    "pass": 1
+   },
+   {
+    "quote": "Instrumental Announces New Investment to Accelerate Server and Rack Manufacturing for Data Centers",
+    "url": "https://instrumental.com/resources/company/instrumental-announces-new-investment-to-accelerate-server-and-rack-manufacturing-data-centers/",
+    "pass": 1
+   },
+   {
+    "quote": "— Today, Instrumental Inc., which provides a manufacturing AI and data platform for complex electronics, announced an investment from NVentures, (NVIDIA’s venture capital arm), and Root Ventures. The investment underscores the growing importance of AI-enabled manufacturing software in accelerating the production of servers and racks to meet immense demand from data centers worldwide.",
+    "url": "https://instrumental.com/resources/company/instrumental-announces-new-investment-to-accelerate-server-and-rack-manufacturing-data-centers/",
+    "pass": 1
+   },
+   {
+    "quote": "Instrumental’s platform delivers a unique impact by combining powerful visual AI algorithms with real-time production data to predict and intercept assembly issues, reducing time- and cost-intensive rework cycles. Manufacturers also leverage Instrumental’s digital thread to identify process improvements that eliminate failures at the source. Instrumental’s AI technologies are",
+    "url": "https://instrumental.com/resources/company/instrumental-announces-new-investment-to-accelerate-server-and-rack-manufacturing-data-centers/",
+    "pass": 1
+   },
+   {
+    "quote": "transforming the speed and scale of AI infrastructure manufacturing",
+    "url": "https://instrumental.com/resources/company/instrumental-announces-new-investment-to-accelerate-server-and-rack-manufacturing-data-centers/",
+    "pass": 1
+   },
+   {
+    "quote": "“Manufacturing has become one of the biggest constraints on scaling AI infrastructure,” said Anna-Katrina Shedletsky, CEO and cofounder of Instrumental. “Instrumental was built to help teams move faster without sacrificing quality, even as systems become more complex.",
+    "url": "https://instrumental.com/resources/company/instrumental-announces-new-investment-to-accelerate-server-and-rack-manufacturing-data-centers/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and Defense Electronics",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A place for manufacturing leaders and visionaries to learn from their peers.",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A publication dedicated to the manufacturing executive",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "MANUFACTURING PARTNERS",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Instrumental has strong CM partnerships that help us to integrate data into the cloud app and drop stations on the line. We also take the responsibility to train operators on how to install and use Instrumental stations.",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We ship stations directly to your factory and",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We train operators on how to use Instrumental",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We work with the factory to upload parametric",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our models are purpose-built for electronics manufacturing, trained on massive production datasets, and accelerated by NVIDIA Metropolis to deploy production controls quickly with minimal impact on throughput.",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Instrumental is an AWS Manufacturing and Industrial Software competency partner that can also deploy on AWS' govcloud",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligent manufacturing automation and automated inspections",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate your manufacturing",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the Manufacturing Acceleration Platform",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and Defense Electronics",
+    "url": "https://instrumental.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "A place for manufacturing leaders and visionaries to learn from their peers.",
+    "url": "https://instrumental.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "A publication dedicated to the manufacturing executive",
+    "url": "https://instrumental.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "The Manufacturing Acceleration Platform — Configured for Your Production Environment",
+    "url": "https://instrumental.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy Instrumental Across Your Manufacturing Process",
+    "url": "https://instrumental.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture Factory Signals",
+    "url": "https://instrumental.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate with existing systems and deploy signal capture across your production line — including images, test results, and process parameters.",
+    "url": "https://instrumental.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Configure station types, placement, and coverage to ensure complete visibility across your manufacturing process.",
+    "url": "https://instrumental.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale with Your Manufacturing Output",
+    "url": "https://instrumental.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Instrumental scales with the volume of factory signals captured across your production — including images, test results, and process parameters.",
+    "url": "https://instrumental.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Factory Signals Volume",
+    "url": "https://instrumental.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "100% Traceability with real-time manufacturing data record",
+    "url": "https://instrumental.com/pricing/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Please fill out a valid email!",
+    "url": "https://instrumental.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Please fill out a valid email!",
+    "url": "https://instrumental.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Please fill out a valid email!",
+    "url": "https://instrumental.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Please fill out a valid email!",
+    "url": "https://instrumental.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Please fill out a valid email!",
+    "url": "https://instrumental.com/case-studies/meta-saves-900-engineering-weeks/",
+    "pass": 1
+   },
+   {
+    "quote": "Please fill out a valid email!",
+    "url": "https://instrumental.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Please fill out a valid email!",
+    "url": "https://instrumental.com/resources/company",
+    "pass": 1
+   },
+   {
+    "quote": "Please fill out a valid email!",
+    "url": "https://instrumental.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Please fill out a valid email!",
+    "url": "https://instrumental.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Please fill out a valid email!",
+    "url": "https://instrumental.com/build-better-handbook/execute-manufacturing-like-apple",
+    "pass": 1
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/instrumental-instrumental-com-funding/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "today announced it has joined NVIDIA Metropolis, a partner program focused on bringing to market a new generation of vision AI applications. NVIDIA Metropolis nurtures a rich ecosystem and offers powerful developer tools to supercharge vision AI applications that are designed to make the world’s most important spaces and operations safer and more efficient.",
+    "url": "https://instrumental.com/resources/company/instrumental-partners-with-nvidia-metropolis/",
+    "pass": 1
+   },
+   {
+    "quote": "Major OEMs like GE, Siemens Energy, and Mitsubishi rely on specialized suppliers — primarily",
+    "url": "https://instrumental.com/resources/build-better-news/turbine-manufacturing-is-a-limiting-factor-in-the-ai-datacenter-build-out/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Meta uses Instrumental across a number of its different Reality Lab programs, including Ray-Ban Meta smart glasses and other augmented reality technologies. Instrumental is now an integral part of workflow across its PD (Product Design), DFX (Design for Excellence), Quality, SIE (Systems Industrial Engineering), and Battery teams.",
+    "url": "https://instrumental.com/case-studies/meta-saves-900-engineering-weeks/",
+    "pass": 1
+   },
+   {
+    "quote": "As data center growth drives surging demand for AI compute, manufacturers face enormous pressure to streamline assembly. Every small gain in throughput translates directly to faster delivery and higher revenue, and is therefore worth pursuing.",
+    "url": "https://instrumental.com/case-studies/instrumental-accelerates-nvidia-final-system-builds-by-14-days/",
+    "pass": 1
+   },
+   {
+    "quote": "L3Harris",
+    "url": "https://instrumental.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 Company",
+    "url": "https://instrumental.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "L3Harris",
+    "url": "https://instrumental.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 Company",
+    "url": "https://instrumental.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Garrett Bastable on Building Your Own Factory",
+    "url": "https://instrumental.com/build-better-handbook/execute-manufacturing-like-apple",
+    "pass": 1
+   },
+   {
+    "quote": "“Getting a gas turbine onsite is only a small part of the balance of plant,” Lynch said. The rest — heat recovery, steam generation, and a second turbine — adds significant time.",
+    "url": "https://instrumental.com/resources/build-better-news/turbine-manufacturing-is-a-limiting-factor-in-the-ai-datacenter-build-out/",
+    "pass": 1
+   },
+   {
+    "quote": "To withstand this, manufacturers use nickel-based superalloys, advanced cooling systems, and single-crystal casting — a highly specialized process with narrow global capacity.",
+    "url": "https://instrumental.com/resources/build-better-news/turbine-manufacturing-is-a-limiting-factor-in-the-ai-datacenter-build-out/",
+    "pass": 1
+   },
+   {
+    "quote": "Instrumental uses computer vision and AI to help hardware companies find, fix, and prevent manufacturing defects. Used by Fortune 500 companies including Meta, Lenovo, and Axon for visual inspection, root cause analysis, and NPI acceleration.",
+    "url": "https://aiformanufacturing.org/instrumental",
+    "pass": 3
+   },
+   {
+    "quote": "12-25 years Product Warranty Duration",
+    "url": "https://aiformanufacturing.org/instrumental",
+    "pass": 3
+   },
+   {
+    "quote": "who had spent six years working on iconic products like the iPod and Apple Watch.[2] Their founding insight emerged directly from frustration with existing manufacturing practices: quality control required constant international travel to Asian manufacturing facilities for on-site inspections.",
+    "url": "https://startupintros.com/orgs/instrumental",
+    "pass": 3
+   },
+   {
+    "quote": ": The company demonstrates 150% net revenue retention, indicating customers not only stay but expand usage significantly over time.[2]",
+    "url": "https://startupintros.com/orgs/instrumental",
+    "pass": 3
+   },
+   {
+    "quote": "Anna-Katrina Shedletsky is listed as CEO at Instrumental.",
+    "url": "https://fundediq.co/instrumental-instrumental-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Instrumental have?",
+    "url": "https://fundediq.co/instrumental-instrumental-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/instrumental-instrumental-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/instrumental-instrumental-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "— Utilizing traditional open-tuning techniques to provide rich harmonic depth and a narrative resonance.",
+    "url": "https://note.com/musicite/n/nb1e641ba8afa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "— Rooting modern acoustic arrangements in deep cultural heritage through authentic skin and gourd percussion.",
+    "url": "https://note.com/musicite/n/nb1e641ba8afa?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "総代理店とは何か？代理店、販売店との違いと英語契約書の場合 – KATH...Instrumental | Manufacturing Acceleration Platform総代理店 - English translation – Linguee総代理店 – 英語への翻訳 – 日本語の例文 | Reverso Context総代理店とは？一般的な代理店との違い | 代理店本舗総代理店とは？代理店や取次店との違いを解説します！ - カケハシ — 総代理店とは独占販売権を持つ代理店（販売店）のことです。 「輸入総代理店」や「日本総代理店」のように、輸入ブランド品を販売する場面で目にすることが多い言葉でしょう。 総代理店はメーカー（もしくは販売元）と独占販売契約を結び、メーカーは決めたエリア・商品では総代理店だけに販売します。 See full list on kathalo.com 総代理",
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Music Playlist: Top 20 Traditional & Modern ...Peaceful Japanese Instrumental Music for Relaxation, Study ...50+ Top Japanese Instrumental Artists + Songs (2026 UPDATE)Japanese instrumental - YouTube MusicJapan Instrumental - YouTube MusicJapanese Instrumental Music | No Copyright Song & MP3 Free ...Top Japanese Instrumental Songs - Chosic — Jan 26, 2025 · Top 20 Japanese Instrumentals 🎶 ",
+    "url": "https://www.youtube.com/watch?v=rn2PMy0oEfg",
+    "pass": 3
+   },
+   {
+    "quote": "Peaceful Japanese Instrumental Music for Relaxation, Study ...50+ Top Japanese Instrumental Artists + Songs (2026 UPDATE)Japanese instrumental - YouTube MusicJapan Instrumental - YouTube MusicJapanese Instrumental Music | No Copyright Song & MP3 Free ...Top Japanese Instrumental Songs - Chosic — Aug 5, 2025 · Immerse yourself in the serene beauty of traditional Japanese instrumental music. This pe",
+    "url": "https://www.youtube.com/watch?v=Kt0fZRalQoY",
+    "pass": 3
+   },
+   {
+    "quote": "50+ Top Japanese Instrumental Artists + Songs (2026 UPDATE) — Genres & Subgenres 50+ Top Japanese Instrumental Artists + Songs (2026 UPDATE) Japanese instrumental music has a rich and varied history, extending back centuries to the traditional music of Japan's Shinto and Buddhist temples.",
+    "url": "https://www.gemtracks.com/resources/song-genres/view-genres.php?genre=japanese+instrumental",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Instrumental - YouTube Music — Listen to Japan Instrumental on YouTube Music - a dedicated music app with official songs, music videos, remixes, covers, and more.",
+    "url": "https://music.youtube.com/playlist?list=PLd8NXevlrdqhP8YbXMMGZvmVrt4sQFiVE",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Instrumental Music | No Copyright Song & MP3 Free ... — 33,382+ Japanese Instrumental no copyright music Download japanese instrumental royalty-free audio tracks and instrumentals for your next project.",
+    "url": "https://pixabay.com/music/search/japanese+instrumental/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Instrumental — How major companies worldwide are leveraging Instrumental's Manufacturing AI and Data Software to solve complex manufacturing problems.",
+    "url": "https://instrumental.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Instrumental: Manufacturing Case Studies & Profile — Instrumental uses computer vision and AI to help hardware companies find, fix, and prevent manufacturing defects.",
+    "url": "https://aiformanufacturing.org/instrumental",
+    "pass": 3
+   },
+   {
+    "quote": "Instrumental | Manufacturing Acceleration Platform — Case studies Instrumental Taps AI and Accelerated Computing to Speed Server Production With NVIDIA Toast achieves 5.3X ROI by using Instrumental's AI to identify product defects earlier in development Meta accelerates NPI and saves over 900 engineering weeks across 7 programs All Case Studies BUILD BETTER HANDBOOK Getting Culture Right NPI: A ..",
+    "url": "https://instrumental.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Instrumental Inc B2B Case Studies & Customer Successes — Instrumental is a Manufacturing Optimization System, designed for rapid adoption by engineering and operations teams to provide tangible improvements to yield, uptime, throughput, efficiency, time to market, and end user delight. technology digitizes and aggregates product data, processing it with smart algorithms present engineers and ...",
+    "url": "https://www.casestudies.com/company/instrumental-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Owlet improves product quality and saves $953K ... — Owlet (Health, Wellness and Fitness) partnered with Instrumental Inc (Computer Software) to solve key challenges. \"Improved customer satisfaction and saved $953K per year by validating root cause in two weeks\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/instrumental-inc/case-study/improved-customer-satisfaction-and-saved-953k-per-year-by-validating-root-cause-in-two-weeks",
+    "pass": 3
+   },
+   {
+    "quote": "Instrumental – Company Insights & Financial Strength – 2026 — Discover Instrumental's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/instrumental",
+    "pass": 3
+   },
+   {
+    "quote": "Instrumental: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · The company has raised over $60 million in total funding, including a $50 million Series C round in February 2022. Instrumental serves 30 customers, including Honeywell, Motorola Mobility, and Bose, across 50 programs in 10 countries, supported by 75 employees. Lead investors include Eclipse Ventures, First Round, and Root V",
+    "url": "https://startupintros.com/orgs/instrumental",
+    "pass": 3
+   },
+   {
+    "quote": "Instrumental - 2026 Company Profile, Team, Funding ... - TracxnInstrumental: Funding, Investors & Team (Oct 2026) | FundedIQInstrumental - Crunchbase Company Profile & FundingInstrumental Revenue, Funding & Valuation - prospeo.ioInstrumental Inc. Revenue 2025: $8.9M Est. - getlatka.com — Jun 4, 2026 · Instrumental - About the company Instrumental is a series C company based in Palo Alto (United St",
+    "url": "https://tracxn.com/d/companies/instrumental/__nZgNb2LvK1NGvGneZ5tizUKD6Czor0srzKtfBimXJG8",
+    "pass": 3
+   },
+   {
+    "quote": "Instrumental: Funding, Investors & Team (Oct 2026) | FundedIQ — Instrumental: Funding, Investors & Team (Oct 2026) Instrumental is building software that enables assembly lines to autonomously operate, learn, and adapt parts and processes - saving billions of dollars in scrap and rework costs. Their customers use Instrumental to find and fix issues on their assembly lines, preventing development s",
+    "url": "https://fundediq.co/instrumental-instrumental-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Instrumental - Crunchbase Company Profile & FundingInstrumental Revenue, Funding & Valuation - prospeo.ioInstrumental Inc. Revenue 2025: $8.9M Est. - getlatka.com — Instrumental was founded by Anna-Katrina Shedletsky and Samuel Weiss, two former Apple engineers who, after spending hundreds of days in China on manufacturing lines, set out to revolutionize the manufacturing space. Instrumental has r",
+    "url": "https://www.crunchbase.com/organization/instrumental",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Japanese Music Playlist: Top 20 Traditional & Modern Instrumentals🌸 | Beautiful & Peaceful Sounds 🌸 - YouTube",
+    "url": "https://www.youtube.com/watch?v=rn2PMy0oEfg",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Music Playlist: Top 20 Traditional & Modern Instrumentals🌸 | Beautiful & Peaceful Sounds 🌸",
+    "url": "https://www.youtube.com/watch?v=rn2PMy0oEfg",
+    "pass": 3
+   },
+   {
+    "quote": "Kyoto Tea House Music | Elegant Japanese Café Ambience",
+    "url": "https://www.youtube.com/watch?v=rn2PMy0oEfg",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Zen Music | Relaxing Shakuhachi Flute & Koto Sounds For Deep Meditation And Mindful Tea",
+    "url": "https://www.youtube.com/watch?v=rn2PMy0oEfg",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Zen Music - Peaceful Zen Garden Ambience | Soothing Shakuhachi Melodies",
+    "url": "https://www.youtube.com/watch?v=rn2PMy0oEfg",
+    "pass": 3
+   },
+   {
+    "quote": "SHIN-ON[真音] Japanese Zen&Ambient",
+    "url": "https://www.youtube.com/watch?v=rn2PMy0oEfg",
+    "pass": 3
+   },
+   {
+    "quote": "Momiji Temple - 日本の秋を巡る癒しの音楽・美しい紅葉と和の音色 | World Music",
+    "url": "https://www.youtube.com/watch?v=rn2PMy0oEfg",
+    "pass": 3
+   },
+   {
+    "quote": "日本の禅音楽 尺八と清流のせせらぎ音 瞑想と安眠のための癒しの竹笛BGM 疲労回復",
+    "url": "https://www.youtube.com/watch?v=rn2PMy0oEfg",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Zen Music - Ancient River Melodies | Calming Shakuhachi Bamboo Flute for Yoga & Deep Rest",
+    "url": "https://www.youtube.com/watch?v=rn2PMy0oEfg",
+    "pass": 3
+   },
+   {
+    "quote": "日本の禅音楽 雨の日本庭園で聴く尺八と琴の癒しBGM 深い瞑想と睡眠・ストレス解消のための和風ヒーリング音楽",
+    "url": "https://www.youtube.com/watch?v=rn2PMy0oEfg",
+    "pass": 3
+   },
+   {
+    "quote": "Zen Japanese Ambient、他 3 チャンネル",
+    "url": "https://www.youtube.com/watch?v=rn2PMy0oEfg",
+    "pass": 3
+   },
+   {
+    "quote": "日本の禅音楽 尺八と琴の癒しBGM 深い瞑想とマインドフルな睡眠のためのリラックス音楽 睡眠導入 疲労回復",
+    "url": "https://www.youtube.com/watch?v=rn2PMy0oEfg",
+    "pass": 3
+   },
+   {
+    "quote": "Zen Japanese Ambient、他 2 チャンネル",
+    "url": "https://www.youtube.com/watch?v=rn2PMy0oEfg",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Calm & Peaceful Relaxing Music 🌿",
+    "url": "https://www.youtube.com/watch?v=rn2PMy0oEfg",
+    "pass": 3
+   },
+   {
+    "quote": "398回視聴 • 2025/01/26 • Japanese Calm & Peaceful Relaxing Music 🌿",
+    "url": "https://www.youtube.com/watch?v=rn2PMy0oEfg",
+    "pass": 3
+   },
+   {
+    "quote": "Top 20 Japanese Instrumentals 🎶 | Relaxing Traditional Music Compilation",
+    "url": "https://www.youtube.com/watch?v=rn2PMy0oEfg",
+    "pass": 3
+   },
+   {
+    "quote": "Discover the beauty of Japanese instrumental music with this carefully curated Top 20 playlist! 🎶🌸 Immerse yourself in the e",
+    "url": "https://www.youtube.com/watch?v=rn2PMy0oEfg",
+    "pass": 3
+   },
+   {
+    "quote": "Discover the beauty of Japanese instrumental music with this carefully curated Top 20 playlist! 🎶🌸 Immerse yourself in the enchanting melodies of traditional Japanese instruments like the Koto, Shakuhachi, and Taiko drums, mixed with modern inspirations. Perfect for relaxing, studying, meditating, or creating a peaceful ambiance.",
+    "url": "https://www.youtube.com/watch?v=rn2PMy0oEfg",
+    "pass": 3
+   },
+   {
+    "quote": "Koto: The soul of Japanese string music.",
+    "url": "https://www.youtube.com/watch?v=rn2PMy0oEfg",
+    "pass": 3
+   },
+   {
+    "quote": "#JapaneseInstrumentalMusic",
+    "url": "https://www.youtube.com/watch?v=rn2PMy0oEfg",
+    "pass": 3
+   },
+   {
+    "quote": "#TraditionalJapaneseMusic",
+    "url": "https://www.youtube.com/watch?v=rn2PMy0oEfg",
+    "pass": 3
+   },
+   {
+    "quote": "Peaceful Japanese Instrumental Music for Relaxation, Study, and Meditation - YouTube",
+    "url": "https://www.youtube.com/watch?v=Kt0fZRalQoY",
+    "pass": 3
+   },
+   {
+    "quote": "Peaceful Japanese Instrumental Music for Relaxation, Study, and Meditation",
+    "url": "https://www.youtube.com/watch?v=Kt0fZRalQoY",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Zen Music | Relaxing Shakuhachi Flute & Koto Sounds For Deep Meditation And Mindful Tea",
+    "url": "https://www.youtube.com/watch?v=Kt0fZRalQoY",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Zen Music - Soothing Shakuhachi Flute | Peaceful Bamboo Melodies for Meditation & Calm",
+    "url": "https://www.youtube.com/watch?v=Kt0fZRalQoY",
+    "pass": 3
+   },
+   {
+    "quote": "Peaceful Japanese Instrumental | Relaxing Traditional Music for Study, Sleep, Meditation",
+    "url": "https://www.youtube.com/watch?v=Kt0fZRalQoY",
+    "pass": 3
+   },
+   {
+    "quote": "BUSHIDŌ — 武士道 | Japanese Zen Music Above the Storm Clouds for Inner Strength, Deep Focus & Calm",
+    "url": "https://www.youtube.com/watch?v=Kt0fZRalQoY",
+    "pass": 3
+   },
+   {
+    "quote": "日本の禅音楽 尺八と清流のせせらぎ音 瞑想と安眠のための癒しの竹笛BGM 疲労回復",
+    "url": "https://www.youtube.com/watch?v=Kt0fZRalQoY",
+    "pass": 3
+   },
+   {
+    "quote": "Koto & Shakuhachi | Japanese Traditional Music (No AI)",
+    "url": "https://www.youtube.com/watch?v=Kt0fZRalQoY",
+    "pass": 3
+   },
+   {
+    "quote": "Immerse yourself in the serene beauty of traditional Japanese instrumental music. This peaceful Japanese instrumental playlist is designed to help you relax, focus, and find inner calm. Perfect for studying, meditation, yoga, or simply unwinding after a long day, these soothing melodies blend gentle koto strings, shakuhachi flutes, and soft ambient sounds to create a tranquil atmosphere. Let t",
+    "url": "https://www.youtube.com/watch?v=Kt0fZRalQoY",
+    "pass": 3
+   },
+   {
+    "quote": "🔔 Don’t forget to LIKE, COMMENT, and SUBSCRIBE for more relaxing Japanese music!",
+    "url": "https://www.youtube.com/watch?v=Kt0fZRalQoY",
+    "pass": 3
+   },
+   {
+    "quote": "#JapaneseInstrumental",
+    "url": "https://www.youtube.com/watch?v=Kt0fZRalQoY",
+    "pass": 3
+   },
+   {
+    "quote": "50+ Top Japanese Instrumental Artists + Songs (2026 UPDATE) - Gemtracks Genres",
+    "url": "https://www.gemtracks.com/resources/song-genres/view-genres.php?genre=japanese+instrumental",
+    "pass": 3
+   },
+   {
+    "quote": "50+ Top Japanese Instrumental Artists + Songs (2026 UPDATE)",
+    "url": "https://www.gemtracks.com/resources/song-genres/view-genres.php?genre=japanese+instrumental",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese instrumental music has a rich and varied history, extending back centuries to the traditional music of Japan's Shinto and Buddhist temples. This centuries-old tradition continues to thrive today, with a range of modern artists and composers putting their own spin on classic Japanese instrumental techniques.",
+    "url": "https://www.gemtracks.com/resources/song-genres/view-genres.php?genre=japanese+instrumental",
+    "pass": 3
+   },
+   {
+    "quote": "Overall, the rich history and deep cultural roots of Japanese instrumental music have created a diverse and dynamic genre that has something to offer everyone. Whether you're looking for a peaceful escape from the stresses of modern life, or simply want to explore the rich cultural heritage of Japan, Japanese instrumental music is a rich and rewarding genre to explore.",
+    "url": "https://www.gemtracks.com/resources/song-genres/view-genres.php?genre=japanese+instrumental",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Instrumental",
+    "url": "https://www.gemtracks.com/resources/song-genres/view-genres.php?genre=japanese+instrumental",
+    "pass": 3
+   },
+   {
+    "quote": "japanese old school hip hop",
+    "url": "https://www.gemtracks.com/resources/song-genres/view-genres.php?genre=japanese+instrumental",
+    "pass": 3
+   },
+   {
+    "quote": "japanese psychedelic rock",
+    "url": "https://www.gemtracks.com/resources/song-genres/view-genres.php?genre=japanese+instrumental",
+    "pass": 3
+   },
+   {
+    "quote": "japanese instrumental",
+    "url": "https://www.gemtracks.com/resources/song-genres/view-genres.php?genre=japanese+instrumental",
+    "pass": 3
+   },
+   {
+    "quote": "unravel (Tokyo Ghoul)",
+    "url": "https://www.gemtracks.com/resources/song-genres/view-genres.php?genre=japanese+instrumental",
+    "pass": 3
+   },
+   {
+    "quote": "The 和風BGM 2 -Japanese Relaxing BGM- 箏や尺八、篠笛などの日本の伝統的な",
+    "url": "https://music.youtube.com/playlist?list=PLd8NXevlrdqhP8YbXMMGZvmVrt4sQFiVE",
+    "pass": 3
+   },
+   {
+    "quote": "和風のリラックスBGM 9 -箏や尺八、篠笛などの日本の伝統的な-",
+    "url": "https://music.youtube.com/playlist?list=PLd8NXevlrdqhP8YbXMMGZvmVrt4sQFiVE",
+    "pass": 3
+   },
+   {
+    "quote": "Across the Sea of Japan",
+    "url": "https://music.youtube.com/playlist?list=PLd8NXevlrdqhP8YbXMMGZvmVrt4sQFiVE",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Escape to Paradise: Why Hawaiian Instrumental Music Is the ... Introducing 'Escape to Paradise,' the latest album from composer and producer Hoohauoli. This 20-track, 39-minute album is designed as a pure acoustic escape, delivering Hawaiian instrumental music that blends traditional island roots with modern feel-good grooves. Best of all, it is completely vocal-free, allowing your mind to wander ",
+    "url": "https://note.com/musicite/n/nb1e641ba8afa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【SunoAI講座】歌詞なしBGM制作に！Instrumental Modeを解説：基本操... Nov 16, 2025 · Instrumental Modeを解説：基本操作編 SATOSHIのAI音楽マーケティング研究所 2025年11月16日 08:48 目次 方法1：【シンプルモード】ボタン一つで最も簡単な作り方 方法2：【カスタムモード】プロンプトでこだわりの曲作り まとめ：目的に合わせてモードを使い分けよう",
+    "url": "https://note.com/satoshi60/n/n3aea80ae1642",
+    "pass": 3
+   },
+   {
+    "quote": "バルーン -Instrumental-｜Atelier LadyBirdInclusive Education in Junior High School Music Classes ...【2026年最新版】Sunoの便利機能を全部使いこなす完全ガイド鼻歌が本格的な楽曲に進化！Suno AIの新機能「Add Instrumental」 Apr 27, 2017 · 吉村彰一 (@shouichidrums)、川崎泰弘 (@don0924)による音楽制作ユニットAtelier LadyBird公式アカウントです。 歌モノポップスを軸に活動しています。Twitter：@Atelierladybird In instrumental performance classes, there are situations where multiple things are required simu",
+    "url": "https://note.com/atelier_ladybird/n/n1692c6bb63b4",
+    "pass": 3
+   },
+   {
+    "quote": "鼻歌が本格的な楽曲に進化！Suno AIの新機能「Add Instrumental」 Jul 21, 2025 · 音楽制作の夢を、誰もが手軽に実現できる時代が到来しました。 AI作曲ツール「Suno」が、鼻歌や短いメロディーをアップロードするだけで、AIが自動で伴奏を生成してくれる画期的な新機能「Add Instrumental」をリリースしました。",
+    "url": "https://note.com/akiyoshisanbass/n/n4f1e171f213e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Escape to Paradise: Why Hawaiian Instrumental Music Is the Ultimate Companion for Productivity and Relaxation｜musicite",
+    "url": "https://note.com/musicite/n/nb1e641ba8afa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Escape to Paradise: Why Hawaiian Instrumental Music Is the Ultimate Companion for Productivity and Relaxation",
+    "url": "https://note.com/musicite/n/nb1e641ba8afa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In a world filled with constant notifications, background noise, and daily sensory overload, finding true peace can feel impossible. But what if you could instantly transport yourself to a sun-drenched coastline just by clicking play?",
+    "url": "https://note.com/musicite/n/nb1e641ba8afa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Introducing 'Escape to Paradise,' the latest album from composer and producer Hoohauoli. This 20-track, 39-minute album is designed as a pure acoustic escape, delivering Hawaiian instrumental music that blends traditional island roots with modern feel-good grooves. Best of all, it is completely vocal-free, allowing your mind to wander freely or immerse itself in deep focus.",
+    "url": "https://note.com/musicite/n/nb1e641ba8afa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why This Album Is Special",
+    "url": "https://note.com/musicite/n/nb1e641ba8afa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "With meticulous attention to acoustic detail, Hoohauoli's latest release captures the essence of island life through authentic instrumentation:",
+    "url": "https://note.com/musicite/n/nb1e641ba8afa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Finger-picked ukulele",
+    "url": "https://note.com/musicite/n/nb1e641ba8afa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "— Bright, cheerful melodies that create a warm and welcoming atmosphere.",
+    "url": "https://note.com/musicite/n/nb1e641ba8afa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【SunoAI講座】歌詞なしBGM制作に！Instrumental Modeを解説：基本操作編｜SATOSHIのAI音楽マーケティング研究所",
+    "url": "https://note.com/satoshi60/n/n3aea80ae1642",
+    "pass": 3
+   },
+   {
+    "quote": "【SunoAI講座】歌詞なしBGM制作に！Instrumental Modeを解説：基本操作編",
+    "url": "https://note.com/satoshi60/n/n3aea80ae1642",
+    "pass": 3
+   },
+   {
+    "quote": "SATOSHIのAI音楽マーケティング研究所",
+    "url": "https://note.com/satoshi60/n/n3aea80ae1642",
+    "pass": 3
+   },
+   {
+    "quote": "SunoAIを使えば、音楽の知識がなくても、誰でも簡単にプロ級の楽曲を制作できます 。特に、動画のBGMや店舗のBGM、作業用の音楽として需要が高いのが、歌詞のない「インストゥルメンタル（インスト）曲」です 。​",
+    "url": "https://note.com/satoshi60/n/n3aea80ae1642",
+    "pass": 3
+   },
+   {
+    "quote": "SunoAIのUIは進化しており、インスト曲を作る方法も複数あります。",
+    "url": "https://note.com/satoshi60/n/n3aea80ae1642",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、初心者の方でも迷わないよう、「シンプルモード」",
+    "url": "https://note.com/satoshi60/n/n3aea80ae1642",
+    "pass": 3
+   },
+   {
+    "quote": "「カスタムモード」でこだわりの曲を作る方法の2つを、最新の情報に基づいて徹底解説します 。​",
+    "url": "https://note.com/satoshi60/n/n3aea80ae1642",
+    "pass": 3
+   },
+   {
+    "quote": "【ポッドキャスト】AI使いサトシのAI-POPは最高！",
+    "url": "https://note.com/satoshi60/n/n3aea80ae1642",
+    "pass": 3
+   },
+   {
+    "quote": "バルーン -Instrumental-｜Atelier LadyBird",
+    "url": "https://note.com/atelier_ladybird/n/n1692c6bb63b4",
+    "pass": 3
+   },
+   {
+    "quote": "Atelier ladybird mini Album『Blooming Days』収録",
+    "url": "https://note.com/atelier_ladybird/n/n1692c6bb63b4",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.youtube.com/watch?v=vn6WpTR3Jzw",
+    "url": "https://note.com/atelier_ladybird/n/n1692c6bb63b4",
+    "pass": 3
+   },
+   {
+    "quote": "mini Album『Blooming Days』",
+    "url": "https://note.com/atelier_ladybird/n/n1692c6bb63b4",
+    "pass": 3
+   },
+   {
+    "quote": "鼻歌が本格的な楽曲に進化！Suno AIの新機能「Add Instrumental」｜秋吉雅史",
+    "url": "https://note.com/akiyoshisanbass/n/n4f1e171f213e",
+    "pass": 3
+   },
+   {
+    "quote": "鼻歌が本格的な楽曲に進化！Suno AIの新機能「Add Instrumental」",
+    "url": "https://note.com/akiyoshisanbass/n/n4f1e171f213e",
+    "pass": 3
+   },
+   {
+    "quote": "「自分だけのオリジナル曲を作ってみたいけど、楽器は弾けないし、作曲の知識もない…」そんな風に思ったことはありませんか？音楽制作の夢を、誰もが手軽に実現できる時代が到来しました。",
+    "url": "https://note.com/akiyoshisanbass/n/n4f1e171f213e",
+    "pass": 3
+   },
+   {
+    "quote": "AI作曲ツール「Suno」が、鼻歌や短いメロディーをアップロードするだけで、AIが自動で伴奏を生成してくれる画期的な新機能「Add Instrumental」をリリースしました。この記事では、音楽経験ゼロの方でもプロ顔負けの楽曲を生み出せる、この驚くべき機能の詳細と使い方を、初心者にも分かりやすく解説します。",
+    "url": "https://note.com/akiyoshisanbass/n/n4f1e171f213e",
+    "pass": 3
+   },
+   {
+    "quote": "鼻歌から一瞬で曲が完成？「Add Instrumental」の驚くべき仕組み",
+    "url": "https://note.com/akiyoshisanbass/n/n4f1e171f213e",
+    "pass": 3
+   },
+   {
+    "quote": "「Add Instrumental」は、あなたがふと口ずさんだメロディーを、本格的な楽曲へと昇華させる機能です。これまでSunoでは、テキストで指示（プロンプト）を入力して曲を生成するのが一般的でしたが、この新機能の登場により、より直感的で自由な作曲が可能になりました。",
+    "url": "https://note.com/akiyoshisanbass/n/n4f1e171f213e",
+    "pass": 3
+   },
+   {
+    "quote": "あなたが録音した鼻歌や、ふと思いついた短いメロディーのオーディオファイルをSunoにアップロードします。",
+    "url": "https://note.com/akiyoshisanbass/n/n4f1e171f213e",
+    "pass": 3
+   },
+   {
+    "quote": "アップロードされたメロディーをAIが解析し、その雰囲気に合った最適な伴奏（インストゥルメンタル）を自動で生成します。",
+    "url": "https://note.com/akiyoshisanbass/n/n4f1e171f213e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Instrumental Inc. - LinkedIn Instrumental Inc. | 16,547 followers on LinkedIn. Use data to proactively discover, root cause, and correct manufacturing defects and operational inefficiencies | Instrumental was founded by ex ...",
+    "url": "https://www.linkedin.com/company/instrumental-inc.",
+    "pass": 3
+   },
+   {
+    "quote": "Instrumental - LinkedIn Instrumental | 2,853 followers on LinkedIn. Helping record labels scale. | Instrumental is a data driven music business building products and services to unlock the power of the global independent ...",
+    "url": "https://www.linkedin.com/company/weareinstrumental/",
+    "pass": 3
+   },
+   {
+    "quote": "Instrumental Inc. - 领英 Instrumental Inc. | 在领英上有 16,577 位关注者。Use data to proactively discover, root cause, and correct manufacturing defects and operational inefficiencies | Instrumental was founded by ex-Apple product design engineers Anna-Katrina Shedletsky and Samuel Weiss with a mission to eliminate $8T in electronic manufacturing waste. We have built the leading Manufacturing AI and Data ...",
+    "url": "https://cn.linkedin.com/company/instrumental-inc.",
+    "pass": 3
+   },
+   {
+    "quote": "Instrumental Inc.的Senior Technical Program Manager - Taiwan ... Instrumental has become mission-critical for manufacturers building and scaling the next generation of AI infrastructure hardware. We are seeking a Technical Program Manager / Senior Technical Program Manager to join our Taiwan team and help drive deployment of Instrumental’s AI‑powered manufacturing platform across Asia.",
+    "url": "https://tw.linkedin.com/jobs/view/senior-technical-program-manager-taiwan-at-instrumental-inc-4418025932",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Casa Instrumental - FacebookInstrumental Collection - FacebookAudiophiles On A Budget - FacebookNew and used Singing Bowls for sale | Facebook Marketplace\"Last Church on the Left\" House Concerts | FacebookUncurable - Blues to Heal Version An instrumental reimagining ...Happy Girl Dancing 95A - MaxPowellMusic #musicvideo # ... 6 days ago · Casa Instrumental. 198,698 followers · 1,878 talking about ",
+    "url": "https://www.facebook.com/casainstrumentalgt/",
+    "pass": 3
+   },
+   {
+    "quote": "Instrumental Collection - FacebookAudiophiles On A Budget - FacebookNew and used Singing Bowls for sale | Facebook Marketplace\"Last Church on the Left\" House Concerts | FacebookUncurable - Blues to Heal Version An instrumental reimagining ...Happy Girl Dancing 95A - MaxPowellMusic #musicvideo # ... Nov 10, 2025 · Instrumental Collection. 99,031 followers · 80 talking about this. Musician/band 1 da",
+    "url": "https://www.facebook.com/instrumentalcollection/",
+    "pass": 3
+   },
+   {
+    "quote": "Audiophiles On A Budget - Facebook 1 day ago · and instrumental music. What would make you replace your current wireless setup? Watch the 30-second explanation: https://youtube. com/shorts/WtqpXnXMF1k 0 reactions · 1 comment Dana McKissick 2d · Public When a client gives you his $6,000+ Martin Logan speaker set up, you have to take them, right? I’ve owned ML speakers twice previously in ...",
+    "url": "https://business.facebook.com/groups/audiophilesonabudget/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "オリジナルインスト曲「日々」投稿！ #instrumental ひさか ひまわり (@himawari_san25). 34 views. オリジナルインスト曲「日々」投稿！ #instrumental",
+    "url": "https://x.com/himawari_san25/status/2063178707054010531",
+    "pass": 3
+   },
+   {
+    "quote": "打ち込みギター楽曲投稿祭2026】 「アオイスカイ (Instrumental)」 ht... 「アオイスカイ (Instrumental)」 nicovideo.jp/watch/sm465548… 5月にsoundcloudにて投稿した「アオイスカイ」のメロディー、ギター、ベースを全編打ち込みに差し替えたバージョン。 頑張って打ち込んだので是非聴いてね。 アドバイス歓迎！ むしろアドバイス頼む！",
+    "url": "https://x.com/haruka_clid/status/2078132616692212158",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://instrumental.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instrumental.com/resources/company/instrumental-partners-with-nvidia-metropolis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instrumental.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instrumental.com/resources/company/instrumental-announces-new-investment-to-accelerate-server-and-rack-manufacturing-data-centers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instrumental.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instrumental.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instrumental.com/case-studies/meta-saves-900-engineering-weeks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instrumental.com/case-studies/instrumental-accelerates-nvidia-final-system-builds-by-14-days/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instrumental.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instrumental.com/build-better-news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instrumental.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instrumental.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instrumental.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instrumental.com/resources/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instrumental.com/case-studies/instrumental-accelerates-nvidia-final-system-builds-by-14-days/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instrumental.com/case-studies/toast-achieves-5-3x-roi-using-instrumental/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instrumental.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instrumental.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instrumental.com/build-better-handbook/execute-manufacturing-like-apple",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instrumental.com/resources/build-better-news/turbine-manufacturing-is-a-limiting-factor-in-the-ai-datacenter-build-out/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://instrumental.com/nitropack_static/UHjMJvnMwYKKZAZjxBouAppvsYkDUzts/assets/images/optimized/rev-d199d48/instrumental.com/wp-content/plugins/royal-elementor-addons/assets/img/icon-256x256.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://instrumental.com/nitropack_static/UHjMJvnMwYKKZAZjxBouAppvsYkDUzts/assets/images/optimized/rev-d199d48/instrumental.com/wp-content/plugins/royal-elementor-addons/assets/img/icon-256x256.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://carview.yahoo.co.jp/news/detail/448b8a840be6e9bb385d51160322ca431783105a/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aim-artist-from29.com/wp/inst-band/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ragnet.co.jp/japanese-instrumental-band-songs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kuruma-news.jp/post/1131871",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://context.reverso.net/%E7%BF%BB%E8%A8%B3/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E8%8B%B1%E8%AA%9E/%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=rn2PMy0oEfg",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Kt0fZRalQoY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gemtracks.com/resources/song-genres/view-genres.php?genre=japanese+instrumental",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://music.youtube.com/playlist?list=PLd8NXevlrdqhP8YbXMMGZvmVrt4sQFiVE",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://aiformanufacturing.org/instrumental",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/instrumental-inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://musicpartners.apple.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/instrumental",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/instrumental",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/instrumental/__nZgNb2LvK1NGvGneZ5tizUKD6Czor0srzKtfBimXJG8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fundediq.co/instrumental-instrumental-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/musicite/n/nb1e641ba8afa?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/satoshi60/n/n3aea80ae1642",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/atelier_ladybird/n/n1692c6bb63b4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/akiyoshisanbass/n/n4f1e171f213e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/instrumental-inc.",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/weareinstrumental/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/company/instrumental-inc.",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tw.linkedin.com/jobs/view/senior-technical-program-manager-taiwan-at-instrumental-inc-4418025932",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/casainstrumentalgt/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/instrumentalcollection/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.facebook.com/groups/audiophilesonabudget/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/himawari_san25/status/2063178707054010531",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/haruka_clid/status/2078132616692212158",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Instrumental 日本 導入",
+   "results": [
+    "https://carview.yahoo.co.jp/news/detail/448b8a840be6e9bb385d51160322ca431783105a/",
+    "https://aim-artist-from29.com/wp/inst-band/",
+    "https://www.ragnet.co.jp/japanese-instrumental-band-songs",
+    "https://kuruma-news.jp/post/1131871",
+    "https://www.youtube.com/playlist?list=PLf12ZNRskHZM",
+    "https://global.honda/jp/news/2026/4260305b.html",
+    "https://www.ragnet.co.jp/instrumental-songs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Instrumental 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://instrumental.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Instrumental Japan",
+   "results": [
+    "https://www.youtube.com/watch?v=rn2PMy0oEfg",
+    "https://www.youtube.com/watch?v=Kt0fZRalQoY",
+    "https://www.gemtracks.com/resources/song-genres/view-genres.php?genre=japanese+instrumental",
+    "https://music.youtube.com/playlist?list=PLd8NXevlrdqhP8YbXMMGZvmVrt4sQFiVE",
+    "https://pixabay.com/music/search/japanese+instrumental/",
+    "https://www.chosic.com/genre-chart/japanese-instrumental/tracks/",
+    "https://music.youtube.com/playlist?list=PLUjdM6kIATKnCH7N3sCrSEMbjO4RtACp1"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Instrumental manufacturing customer case study",
+   "results": [
+    "https://instrumental.com/case-studies",
+    "https://aiformanufacturing.org/instrumental",
+    "https://instrumental.com/",
+    "https://www.casestudies.com/company/instrumental-inc",
+    "https://www.casestudies.com/company/instrumental-inc/case-study/improved-customer-satisfaction-and-saved-953k-per-year-by-validating-root-cause-in-two-weeks",
+    "https://be.instrumental.com/",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/instrumental-inc_chargepoint_945121.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Instrumental white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://musicpartners.apple.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.tenable.com/partners/channel-partner-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Instrumental founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/instrumental",
+    "https://startupintros.com/orgs/instrumental",
+    "https://tracxn.com/d/companies/instrumental/__nZgNb2LvK1NGvGneZ5tizUKD6Czor0srzKtfBimXJG8",
+    "https://fundediq.co/instrumental-instrumental-com-funding/",
+    "https://www.crunchbase.com/organization/instrumental",
+    "https://prospeo.io/c/instrumental-revenue",
+    "https://getlatka.com/companies/instrumental.com"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Instrumental",
+   "results": [
+    "https://note.com/musicite/n/nb1e641ba8afa?hl=en",
+    "https://note.com/satoshi60/n/n3aea80ae1642",
+    "https://note.com/atelier_ladybird/n/n1692c6bb63b4",
+    "https://note.com/akiyoshisanbass/n/n4f1e171f213e",
+    "https://note.com/dlac/n/n0a4a5dbc10ef?hl=en",
+    "https://note.com/lithe_turtle246/n/n617b44ddaf54?hl=en",
+    "https://note.com/aimusicworks/n/n5e95391db890"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Instrumental",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Instrumental",
+   "results": [
+    "https://www.linkedin.com/company/instrumental-inc.",
+    "https://www.linkedin.com/company/weareinstrumental/",
+    "https://cn.linkedin.com/company/instrumental-inc.",
+    "https://tw.linkedin.com/jobs/view/senior-technical-program-manager-taiwan-at-instrumental-inc-4418025932",
+    "https://kr.linkedin.com/in/sanfordjonestuba",
+    "https://vn.linkedin.com/jobs/view/sr-technical-program-manager-at-instrumental-inc-4391745632",
+    "https://in.linkedin.com/in/sy-3b647540"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Instrumental",
+   "results": [
+    "https://www.facebook.com/casainstrumentalgt/",
+    "https://www.facebook.com/instrumentalcollection/",
+    "https://business.facebook.com/groups/audiophilesonabudget/",
+    "https://l.facebook.com/marketplace/category/singing-bowls/",
+    "https://business.facebook.com/groups/380487948682327/",
+    "https://www.facebook.com/ToddMirzaianMusic/videos/uncurable-blues-to-heal-versionan-instrumental-reimagining-of-my-original-song-u/1930324854612211/",
+    "https://www.facebook.com/Maxpowellmusic/videos/happy-girl-dancing-95a-maxpowellmusic-musicvideo-musicreels-fyp-instrumental-mot/1485665640281664/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Instrumental note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/saiyou_dekirukun/all",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/fp_rich_note/n/nf0bcf8b65bca",
+    "https://instrumental.com/team",
+    "https://roppongi.keizai.biz/release/677379/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Instrumental X 投稿",
+   "results": [
+    "https://x.com/himawari_san25/status/2063178707054010531",
+    "https://x.com/haruka_clid/status/2078132616692212158",
+    "https://dreamtonics.com/instrument-x/",
+    "https://www.ah-soft.com/inst-x/",
+    "https://dreamtonics.com/zh-CN/instrument-x/",
+    "https://dtm-sale.com/129005/",
+    "https://piapro.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部35頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部35頁・検索12回）"
+ }
+}

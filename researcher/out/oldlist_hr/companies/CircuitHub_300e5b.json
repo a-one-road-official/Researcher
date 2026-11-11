@@ -1,0 +1,1408 @@
+{
+ "name": "CircuitHub",
+ "aliases": [],
+ "context": "旧営業リスト｜Manufacturing Network / Procurement｜返信あり",
+ "researched_at": "2026-11-11T04:28:09.791362+00:00",
+ "official_url": "https://circuithub.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "6. Seed Round",
+    "value": "15-Nov-2023    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/56005-84",
+    "pass": 3
+   },
+   {
+    "label": "5. Seed Round",
+    "value": "14-Feb-2020    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/56005-84",
+    "pass": 3
+   },
+   {
+    "label": "4. Seed Round",
+    "value": "01-Jul-2018    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/56005-84",
+    "pass": 3
+   },
+   {
+    "label": "3. Seed Round",
+    "value": "14-Jun-2017    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/56005-84",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "29-Mar-2012 $500K $500K  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/56005-84",
+    "pass": 3
+   },
+   {
+    "label": "Seed 4",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/56005-84",
+    "pass": 3
+   },
+   {
+    "label": "Seed 2",
+    "value": "3,401,108 $0.000010  $1.25 $1.25 1x $1.25 9.01%",
+    "url": "https://pitchbook.com/profiles/company/56005-84",
+    "pass": 3
+   },
+   {
+    "label": "Seed 1",
+    "value": "7,237,168 $0.000010  $0.81 $0.81 1x $0.81 19.16%",
+    "url": "https://pitchbook.com/profiles/company/56005-84",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Prototypes and production batches, fully automated, from 3 days. Built on The Grid, our factory in Massachusetts.",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "On The Grid, levitating movers carry each board and its parts between robots that print paste, place parts, solder and inspect. Every board takes its own route, so there are no changeovers and no per-design setup.",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A leading EV maker, a top AI lab and household-name tech companies already use it for test stations, tooling, R&D boards and production batches.",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Conventional production line",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A fixed line, configured for each product.",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Conventional production — one design",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Grid production — one design",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Conventional production — many designs",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Grid production — many designs",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Three adjacent racks have ten levels each, counted from the bottom. A travelling vertical lift collects a tray from rack one, level seven, lowers it and unloads onto a conveyor. It then moves to rack three, collects from level three and unloads again. Empty slots replenish as the lift descends. The sequence loops.",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prototype and batch production",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "publishes its first-time-right rate every quarter, straight from production.",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We have relied on Circuithub for our prototyping needs since 2015. Native CAD file handling, instant online quoting, short lead times, and excellent customer support all make it possible for us to spend less time on getting prototypes made and more time on engineering.",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We’ve been using CircuitHub for PCB assembly for the last five years and the quality, prices, and ease-of-use have not faltered from single prototypes to production runs of thousands of boards. It’s been a huge enabler for our business",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We use CircuitHub PCB assemblies in our robots and their commitment to quality and responsive customer support is why we rely on them for key parts. Their instant quote interface also allows us to make production decisions quickly, which speeds up our production and prototyping processes.",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I use CircuitHub for my personal projects and have always found them really great to work with.",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By far the best fab and assembly house I have used. The ease of placing an order from their automated webpage is best part of working with them. Other fab houses takes days to just get a quote. I can get a quote and place an order here within 24 hours. fantastic!! Even the prices are 20-30% less than the big fab houses in Colorado and silicon valley.",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We have been using CircuitHub for several years. They have always been professional, helpful, and delivered high quality products. We highly recommend CircuitHub.",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "As an Electronics Engineer at a small business, we have used CircuitHub for both small batch prototypes and production quality scale. Every time they have delivered prompt and high quality assembled PCBs.",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I found CircuitHub at a time when we unexpectedly lost our long time supplier for PCBA. They have consistently met our price expectations and have a turnaround that is unbeatable. I get my boards back before other suppliers can return a quotation. I appreciate all the great work!",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We have now been working with CircuitHub for many years and they continue to deliver outstanding results. They respond quickly, provide detailed project consultations, and all of their boards are of top-quality.",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This role is a remote based role for the west coast (USA), however we are hiring for a number of positions around the area so it is likely you will have the ability to meet with your local colleagues regularly in a co-working space. CircuitHub as a business is remote first, so we strive to create an inclusive culture for our global team, whether working from home, in our factory or office.",
+    "url": "https://www.circuithub.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You have previously carried out NPI activities for an SMT line(s).",
+    "url": "https://www.circuithub.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You can operate a pick and place machine and/or stencil/jet printing machine.",
+    "url": "https://www.circuithub.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The perfect candidate:",
+    "url": "https://www.circuithub.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You have a history of using Mycronic or Mydata machines and can operate and program them.",
+    "url": "https://www.circuithub.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You currently have or have previously held a valid CIS IPC-A-610 or CIT certification.",
+    "url": "https://www.circuithub.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You are driven by continuous improvement both in processes and individually.",
+    "url": "https://www.circuithub.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborate with our software engineering team to suggest improvements",
+    "url": "https://www.circuithub.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Bachelor's degree with 1-2 years of professional work experience in a technical discipline.",
+    "url": "https://www.circuithub.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We help hardware companies producing self driving cars, satellites, 3D printers, robotics, & more to rapidly prototype electronics and get to market faster.",
+    "url": "https://www.circuithub.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Join us to solve real world problems while shaping the future of automated manufacturing.",
+    "url": "https://www.circuithub.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Formlabs improves prototyping efficiency and cuts costs with CircuitHub",
+    "url": "https://www.circuithub.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Formlabs is ubiquitous with 3D printing. Jon Evans, Electrical Engineering Lead at Formlabs, gave us a little peek into where it all started, what the company is currently working on, and how they are continuously trying to revolutionize the manufacturing industry.",
+    "url": "https://www.circuithub.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "From Design to Prototype: Tzero Streamlines Production with CircuitHub",
+    "url": "https://www.circuithub.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Tzero, led by CTO Eli Hughes, slashes prototyping time with CircuitHub’s digital manufacturing platform. Instant quotes, rapid iterations, and cost transparency—taking IoT development to the next level.",
+    "url": "https://www.circuithub.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Project spotlight: the Open Source Ventilator project",
+    "url": "https://www.circuithub.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "At CircuitHub we felt compelled to support projects that provide medical aid related to the pandemic. Most recently, we have been lending our help to Open Source Ventilator (OSV) — a team developing a simplified, low-cost, emergency-use ventilator to aid the treatment of COVID-19 patients.",
+    "url": "https://www.circuithub.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "I use CircuitHub for my personal projects and have always found them really great to work with.",
+    "url": "https://www.circuithub.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "By far the best fab and assembly house I have used. The ease of placing an order from their automated webpage is best part of working with them. Other fab houses takes days to just get a quote. I can get a quote and place an order here within 24 hours. fantastic!! Even the prices are 20-30% less than the big fab houses in Colorado and silicon valley.",
+    "url": "https://www.circuithub.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "We have been using CircuitHub for several years. They have always been professional, helpful, and delivered high quality products. We highly recommend CircuitHub.",
+    "url": "https://www.circuithub.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "As an Electronics Engineer at a small business, we have used CircuitHub for both small batch prototypes and production quality scale. Every time they have delivered prompt and high quality assembled PCBs.",
+    "url": "https://www.circuithub.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "I found CircuitHub at a time when we unexpectedly lost our long time supplier for PCBA. They have consistently met our price expectations and have a turnaround that is unbeatable. I get my boards back before other suppliers can return a quotation. I appreciate all the great work!",
+    "url": "https://www.circuithub.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "We have now been working with CircuitHub for many years and they continue to deliver outstanding results. They respond quickly, provide detailed project consultations, and all of their boards are of top-quality.",
+    "url": "https://www.circuithub.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "We have relied on Circuithub for our prototyping needs since 2015. Native CAD file handling, instant online quoting, short lead times, and excellent customer support all make it possible for us to spend less time on getting prototypes made and more time on engineering.",
+    "url": "https://www.circuithub.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "We’ve been using CircuitHub for PCB assembly for the last five years and the quality, prices, and ease-of-use have not faltered from single prototypes to production runs of thousands of boards. It’s been a huge enabler for our business",
+    "url": "https://www.circuithub.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "We use CircuitHub PCB assemblies in our robots and their commitment to quality and responsive customer support is why we rely on them for key parts. Their instant quote interface also allows us to make production decisions quickly, which speeds up our production and prototyping processes.",
+    "url": "https://www.circuithub.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "CircuitHub - Press - Assets and Requirements",
+    "url": "https://www.circuithub.com/company/press",
+    "pass": 1
+   },
+   {
+    "quote": "CircuitHub raises $28m to accelerate electronics production",
+    "url": "https://www.circuithub.com/company/press",
+    "pass": 1
+   },
+   {
+    "quote": "April 15, 2016",
+    "url": "https://www.circuithub.com/company/press",
+    "pass": 1
+   },
+   {
+    "quote": "There is now an API to build a low-volume hardware product",
+    "url": "https://www.circuithub.com/company/press",
+    "pass": 1
+   },
+   {
+    "quote": "An Interview with Andrew Seddon – Necessary Networked Novelty",
+    "url": "https://www.circuithub.com/company/press",
+    "pass": 1
+   },
+   {
+    "quote": "CircuitHub Helps Hardware Startups Scale From Prototype to Production",
+    "url": "https://www.circuithub.com/company/press",
+    "pass": 1
+   },
+   {
+    "quote": "You are welcome to use our logo provided you follow the below guidelines:",
+    "url": "https://www.circuithub.com/company/press",
+    "pass": 1
+   },
+   {
+    "quote": "Do not alter the shape, proportion, color or orientation of the logos.",
+    "url": "https://www.circuithub.com/company/press",
+    "pass": 1
+   },
+   {
+    "quote": "Provide at least as much padding around the logo as what we’ve displayed below. This helps our logo appear clean and uncluttered.",
+    "url": "https://www.circuithub.com/company/press",
+    "pass": 1
+   },
+   {
+    "quote": "If you are a member of the press and can’t find something you need—or you want to speak with someone from CircuitHub—please contact us at",
+    "url": "https://www.circuithub.com/company/press",
+    "pass": 1
+   },
+   {
+    "quote": "For non-press-related inquiries, please use our general",
+    "url": "https://www.circuithub.com/company/press",
+    "pass": 1
+   },
+   {
+    "quote": "Price and lead time examples for three boards of varying complexity.",
+    "url": "https://www.circuithub.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We believe that by offering the lowest prices we enable product designers to rapidly iterate on new products and derisk the process of bringing these products to market by enabling on-demand manufacturing of small production batches.",
+    "url": "https://www.circuithub.com/pricing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Prototypes and production batches, fully automated, from 3 days. Built on The Grid, our factory in Massachusetts.",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Factories are brilliantly automated when they make a million of one thing. Until now, high-mix electronics has stubbornly resisted automation.",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Conventional production line",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In conventional manufacturing, one late part can hold up your entire order.",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get to the market in half the time with rapid, low cost manufacturing.",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Most manufacturers leave you guessing. We publish our numbers live from the factory, so you can judge for yourself.",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional manufacturers",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A factory-scale robot in Massachusetts that builds circuit boards on demand, in half the time of a typical Shenzhen quick-turn shop.",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ep. 90: Building the factory of the future with CircuitHub CEO, Andrew Seddon",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In this episode we are joined by CircuitHub co-founder Andrew Seddon for a conversation about the origins of CircuitHub and the future of high-mix electronics manufacturing.",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible PCBs can solve some incredible mechanical design challenges—but they also introduce a whole new set of manufacturing considerations.",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Help us rebuild electronics manufacturing",
+    "url": "https://www.circuithub.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We build The Grid, a factory-scale robot that makes circuit boards on demand. Join us at our offices in the US and UK, or work remotely.",
+    "url": "https://www.circuithub.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A short documentary about our US factory",
+    "url": "https://www.circuithub.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "By Science, Startups & Stories, filmed at our factory in South Deerfield, Massachusetts",
+    "url": "https://www.circuithub.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering & manufacturing",
+    "url": "https://www.circuithub.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "14 Industrial Drive East",
+    "url": "https://www.circuithub.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "This role is a remote based role for the west coast (USA), however we are hiring for a number of positions around the area so it is likely you will have the ability to meet with your local colleagues regularly in a co-working space. CircuitHub as a business is remote first, so we strive to create an inclusive culture for our global team, whether working from home, in our factory or office.",
+    "url": "https://www.circuithub.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You have more than 10 years experience of working in the electronics manufacturing, in an SMT capacity.",
+    "url": "https://www.circuithub.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You can carry out NPI activities using offline Mycronic software such as Factorylogix or MyCamJP and MyCentre.",
+    "url": "https://www.circuithub.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You have worked in a regulated industry such as but not limited to medical devices or aerospace equipment.",
+    "url": "https://www.circuithub.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "automated electronics manufacturing",
+    "url": "https://www.circuithub.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing needs software",
+    "url": "https://www.circuithub.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "CircuitHub is on a mission to fix rapid electronics manufacturing.",
+    "url": "https://www.circuithub.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "The idea for CircuitHub came as a result of the frustrations our founders experienced dealing with conventional contract manufacturers. They realised that by using software and automation it's possible to get boards into engineers hands much more quickly and efficiently with fewer errors.",
+    "url": "https://www.circuithub.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Modern factory + software platform",
+    "url": "https://www.circuithub.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We are the first automated electronics factory built around a modern tech stack.",
+    "url": "https://www.circuithub.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Join us to solve real world problems while shaping the future of automated manufacturing.",
+    "url": "https://www.circuithub.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Companies like yours are transforming manufacturing with Circuit",
+    "url": "https://www.circuithub.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Formlabs is ubiquitous with 3D printing. Jon Evans, Electrical Engineering Lead at Formlabs, gave us a little peek into where it all started, what the company is currently working on, and how they are continuously trying to revolutionize the manufacturing industry.",
+    "url": "https://www.circuithub.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Tzero, led by CTO Eli Hughes, slashes prototyping time with CircuitHub’s digital manufacturing platform. Instant quotes, rapid iterations, and cost transparency—taking IoT development to the next level.",
+    "url": "https://www.circuithub.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "We believe that by offering the lowest prices we enable product designers to rapidly iterate on new products and derisk the process of bringing these products to market by enabling on-demand manufacturing of small production batches.",
+    "url": "https://www.circuithub.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "But we quickly learnt the online experience wasn't the only thing. What people really wanted was a better manufacturing process. Faster, cheaper, higher quality, wider envelope. So began the long journey down the rabbit hole of electronics manufacturing.",
+    "url": "https://www.circuithub.com/post/circuithub-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "It's a little known fact that we've quietly raised about $20M over the years, mostly from super angels in the industry. Building factory-scale robots requires significant upfront capital. But we've been growing fast and operating profitably for a while. So why raise now?",
+    "url": "https://www.circuithub.com/post/circuithub-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "to 10x capacity through 2027 in both our existing Massachusetts factory and expand into Europe. Sten and Plural were making SciFi bets back when most VCs were still doing SaaS. He's going to help us take what's working in the US to the other side of the Atlantic. Given our existing R&D offices in London and Cambridge (UK), it's less of a leap than it sounds.",
+    "url": "https://www.circuithub.com/post/circuithub-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "The longer-term picture is that the Grid becomes a self-contained supply chain. A computer-on-module supplier building on the Grid, shipping directly to a robot company also building on the Grid. The Pearl River Delta, shrunk down to factory scale.",
+    "url": "https://www.circuithub.com/post/circuithub-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "Ep. 90: Building the factory of the future with CircuitHub CEO, Andrew Seddon",
+    "url": "https://www.circuithub.com/post/circuithub-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "CircuitHub unveils circuit board manufacturing system ‘The Grid,’ with 4-day lead time and plans to quintuple capacity in 2026 | Physical AI News (Japan)",
+    "url": "https://physicalainews.jp/en/news/circuithub-unveils-circuit-board-manufacturing-system-the-grid-with-4-e5490c",
+    "pass": 3
+   },
+   {
+    "quote": "In CircuitHub’s comparison, The Grid costs $630 and has a four-day lead time. The Shenzhen factory comparison is about $465, including shipping and customs duties, with a median lead time of nine days.",
+    "url": "https://physicalainews.jp/en/news/circuithub-unveils-circuit-board-manufacturing-system-the-grid-with-4-e5490c",
+    "pass": 3
+   },
+   {
+    "quote": "On October 26, 2026, CircuitHub announced ‘The Grid,’ a circuit board manufacturing system installed in Massachusetts. The company says it takes four days from order to delivery, shorter than the 9-day median lead time at Shenzhen factories. The Grid costs $630, compared with about $465, including shipping and customs duties, for the Shenzhen comparison, the company said.",
+    "url": "https://physicalainews.jp/en/news/circuithub-unveils-circuit-board-manufacturing-system-the-grid-with-4-e5490c",
+    "pass": 3
+   },
+   {
+    "quote": "In CircuitHub’s comparison, The Grid is more expensive than Shenzhen factories but has a shorter lead time: four days versus a median of nine days for the comparison. Grid Proto limits the number of board layers, quantity and lead time, separating short-lead-time, small-batch prototyping from a service that supports a wider range of manufacturing conditions.",
+    "url": "https://physicalainews.jp/en/news/circuithub-unveils-circuit-board-manufacturing-system-the-grid-with-4-e5490c",
+    "pass": 3
+   },
+   {
+    "quote": "Streamlining the hardware development pipeline from spec to BOM to manufacturing.",
+    "url": "https://circuithub.org/about/",
+    "pass": 3
+   },
+   {
+    "quote": "CircuitHub's robotic Grid factory bets on speed to beat China on PCBs - Startup Fortune",
+    "url": "https://startupfortune.com/circuithubs-robotic-grid-factory-bets-on-speed-to-beat-china-on-pcbs/",
+    "pass": 3
+   },
+   {
+    "quote": "CircuitHub's robotic Grid factory bets on speed to beat China on PCBs",
+    "url": "https://startupfortune.com/circuithubs-robotic-grid-factory-bets-on-speed-to-beat-china-on-pcbs/",
+    "pass": 3
+   },
+   {
+    "quote": "CircuitHub says its robotic factory in Massachusetts builds circuit boards in days instead of months, and $28 million in new funding says investors think hardware founders will pay for that.",
+    "url": "https://startupfortune.com/circuithubs-robotic-grid-factory-bets-on-speed-to-beat-china-on-pcbs/",
+    "pass": 3
+   },
+   {
+    "quote": "Travis Kalanick raises $1.7 billion for Atoms as a16z bets on specialized industrial robots over humanoids",
+    "url": "https://startupfortune.com/circuithubs-robotic-grid-factory-bets-on-speed-to-beat-china-on-pcbs/",
+    "pass": 3
+   },
+   {
+    "quote": "Travis Kalanick's industrial AI company Atoms raised $1.7 billion in an a16z-led round announced July 22, with Uber itself joining as an investor and Ben Horowitz taking a board seat. The deal merges Kalanick's CloudKitchens, Pronto mining automation, and transport businesses into a single equity structure, built around a contrarian thesis that... -",
+    "url": "https://startupfortune.com/circuithubs-robotic-grid-factory-bets-on-speed-to-beat-china-on-pcbs/",
+    "pass": 3
+   },
+   {
+    "quote": "specialized industrial robots funding round",
+    "url": "https://startupfortune.com/circuithubs-robotic-grid-factory-bets-on-speed-to-beat-china-on-pcbs/",
+    "pass": 3
+   },
+   {
+    "quote": "PCB reshoring manufacturing",
+    "url": "https://startupfortune.com/circuithubs-robotic-grid-factory-bets-on-speed-to-beat-china-on-pcbs/",
+    "pass": 3
+   },
+   {
+    "quote": "robotic PCB factory reduces production time to days",
+    "url": "https://startupfortune.com/circuithubs-robotic-grid-factory-bets-on-speed-to-beat-china-on-pcbs/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of an on-demand circuit board assembly intended to provide rapid, low-cost manufacturing for quick-moving electronics.",
+    "url": "https://pitchbook.com/profiles/company/56005-84",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of an on-demand circuit board assembly intended to provide rapid, low-cost manufacturing for quick-moving electronics. The company offers automated processes, quick lead times, and access to a shared inventory of parts, enabling engineers in the electronics industry to reduce time to market and lower production costs.",
+    "url": "https://pitchbook.com/profiles/company/56005-84",
+    "pass": 3
+   },
+   {
+    "quote": "14 Industrial Drive East",
+    "url": "https://pitchbook.com/profiles/company/56005-84",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/56005-84",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of an on-demand circuit board assembly intended to provide rapid, low-cost manufacturing for quick-moving e",
+    "url": "https://pitchbook.com/profiles/company/56005-84",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Robotics is an AI driven robotics company rebuilding manufacturing with advanced assembly automation…",
+    "url": "https://fundediq.co/circuithub-circuithub-com-funding/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "On The Grid, levitating movers carry each board and its parts between robots that print paste, place parts, solder and inspect. Every board takes its own route, so there are no changeovers and no per-design setup.",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By far the best fab and assembly house I have used. The ease of placing an order from their automated webpage is best part of working with them. Other fab houses takes days to just get a quote. I can get a quote and place an order here within 24 hours. fantastic!! Even the prices are 20-30% less than the big fab houses in Colorado and silicon valley.",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You can work alone but as part of a team, remotely.",
+    "url": "https://www.circuithub.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You have previously carried out NPI activities for an SMT line(s).",
+    "url": "https://www.circuithub.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You can carry out NPI activities using offline Mycronic software such as Factorylogix or MyCamJP and MyCentre.",
+    "url": "https://www.circuithub.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You are able to carry out DFM or RMA investigations and root cause analysis.",
+    "url": "https://www.circuithub.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "By far the best fab and assembly house I have used. The ease of placing an order from their automated webpage is best part of working with them. Other fab houses takes days to just get a quote. I can get a quote and place an order here within 24 hours. fantastic!! Even the prices are 20-30% less than the big fab houses in Colorado and silicon valley.",
+    "url": "https://www.circuithub.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're a solo hardware hacker or part of a growing team, if you're curious",
+    "url": "https://circuithub.org/about/",
+    "pass": 3
+   },
+   {
+    "quote": "CoreWeave lifts 2026 revenue forecast to $13 billion as interest costs top operating profit",
+    "url": "https://startupfortune.com/circuithubs-robotic-grid-factory-bets-on-speed-to-beat-china-on-pcbs/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/56005-84",
+    "pass": 3
+   },
+   {
+    "quote": ", a Corporate Backed or Acquired company based in La Jolla, CA.",
+    "url": "https://pitchbook.com/profiles/company/56005-84",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/56005-84",
+    "pass": 3
+   },
+   {
+    "quote": "CircuitHub has 70 total employees.",
+    "url": "https://pitchbook.com/profiles/company/56005-84",
+    "pass": 3
+   },
+   {
+    "quote": "What is CircuitHub’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/56005-84",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for CircuitHub is",
+    "url": "https://pitchbook.com/profiles/company/56005-84",
+    "pass": 3
+   },
+   {
+    "quote": "Andrew Seddon is listed as CEO at CircuitHub.",
+    "url": "https://fundediq.co/circuithub-circuithub-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does CircuitHub have?",
+    "url": "https://fundediq.co/circuithub-circuithub-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/circuithub-circuithub-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/circuithub-circuithub-com-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Excellent attention to detail, high quality fabrication, clear communication, easy to use ticketing system, and... NO emailing .zip files back and forth! We've used CircuitHub for years and will continue to do so for many more. 🤘",
+    "url": "https://www.circuithub.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A mastery of email communication. You keep the inbox at zero.",
+    "url": "https://www.circuithub.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Excellent attention to detail, high quality fabrication, clear communication, easy to use ticketing system, and... NO emailing .zip files back and forth! We've used CircuitHub for years and will continue to do so for many more. 🤘",
+    "url": "https://www.circuithub.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "If you are a member of the press and can’t find something you need—or you want to speak with someone from CircuitHub—please contact us at",
+    "url": "https://www.circuithub.com/company/press",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/56005-84",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/circuithub-circuithub-com-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "CircuitHub - On-demand circuit board assembly — I like the idea and the value that CircuitHub is providing - rapid prototyping and on-demand production for assembled circuit boards to save time and hassle. Engineers find it useful to securely upload their Altium, EAGLE, or KiCAD design directly to the CircuitHub platform. Would recommend this to the engineers in my network.",
+    "url": "https://www.circuithub.com/",
+    "pass": 3
+   },
+   {
+    "quote": "CircuitHub、ロボット工場で中国の競合より一部のPCB注文を迅速に納品... — Nov 2, 2026 · CircuitHubの例では、The Gridで基板5枚を製造する費用は$630で、米国内の住所への納品には4日かかる。 同等の深圳への注文は、送料と米国の輸入関税を含めて約$465で、納期の中央値は9日だという。 つまり米国の工場は約$165高い一方、基板を5日早く納品する。",
+    "url": "https://mezha.net/jp/news/mezha-3434e3c946c66b7b853926ad_circuithub-says-its-robotic-factory-can/",
+    "pass": 3
+   },
+   {
+    "quote": "CircuitHub、基板量産能力を今年5倍に拡張へ — NQ Brief — Nov 2, 2026 · 米回路基板メーカーのCircuitHubは2026年11月2日、ロボット製造システムThe Gridの生産能力を今年中に5倍へ引き上げ、2027年にもさらに大規模な増強を計画していると発表した。需要がすでに同社の生産能力を上回っているという。",
+    "url": "https://nqbrief.com/ja/tech/circuithub-grid-capacity-expansion-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "CircuitHub - CircuitHub raises $28M to accelerate electronics ... — May 20, 2026 · Since we started CircuitHub in 2012 a lot has changed. The business model has been through a few iterations, the team got older and started families, and we've shipped a lot of assembled boards. But the mission to massively accelerate the pace of electronics innovation has been constant.",
+    "url": "https://www.circuithub.com/post/circuithub-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "CircuitHub が米国とヨーロッパ全体で自動電子機器製造を拡大するため... — May 20, 2026 · CircuitHub は米国で最も急成長している電子機器メーカーとなっており、徐々に工場のモジュール化を進め、必要な場所に新しい生産能力を導入できるようにすることを目指しています。",
+    "url": "https://www3.to/circuithub-が米国とヨーロッパ全体で自動電子機器製造を/",
+    "pass": 3
+   },
+   {
+    "quote": "CircuitHub - About Us — Manufacturing needs software CircuitHub is on a mission to fix rapid electronics manufacturing. The idea for CircuitHub came as a result of the frustrations our founders experienced dealing with conventional contract manufacturers. They realised that by using software and automation it's possible to get boards into engineers hands much more quickly and efficiently with fewe",
+    "url": "https://www.circuithub.com/company/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "CircuitHub unveils circuit board manufacturing system ‘The ... — Nov 3, 2026 · What happened On October 26, 2026, CircuitHub announced ‘The Grid,’ a circuit board manufacturing system installed in Massachusetts. The company says it takes four days from order to delivery, shorter than the 9-day median lead time at Shenzhen factories. The Grid costs $630, compared with about $465, including shipping",
+    "url": "https://physicalainews.jp/en/news/circuithub-unveils-circuit-board-manufacturing-system-the-grid-with-4-e5490c",
+    "pass": 3
+   },
+   {
+    "quote": "About — CircuitHub — About CircuitHub Exploring the intersection of artificial intelligence and electronics hardware engineering — one KiCad project at a time. CircuitHub is a blog dedicated to pushing the boundaries of electronics hardware development using AI.",
+    "url": "https://circuithub.org/about/",
+    "pass": 3
+   },
+   {
+    "quote": "CircuitHub — May 17, 2026 · AI-assisted electronics hardware development — streamlining workflows, extending KiCad for team-scale design.",
+    "url": "https://circuithub.org/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - circuithub.com — Discover updates on CircuitHub's service, PCB design tips and tricks, and features from the electronics community.",
+    "url": "https://www.circuithub.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "CircuitHub - On-demand circuit board assembly — We use CircuitHub PCB assemblies in our robots and their commitment to quality and responsive customer support is why we rely on them for key parts. Their instant quote interface also allows us to make production decisions quickly, which speeds up our production and prototyping processes.",
+    "url": "https://www.circuithub.com/",
+    "pass": 3
+   },
+   {
+    "quote": "CircuitHub Blog — On CircuitHub you can upload your EDA design files, get a live interactive quote, and order fully assembled circuit boards. If you are an electrical engineer looking for a new solution to your pcb manufacturing and assembly needs, then CircuitHub might be right for you! Now let's get started with your first CircuitHub project!",
+    "url": "https://blog.circuithub.com/",
+    "pass": 3
+   },
+   {
+    "quote": "CircuitHub's robotic Grid factory bets on speed to beat China ... — Oct 27, 2026 · CircuitHub's robotic Grid factory bets on speed to beat China on PCBs The Grid is a 5,000-square-foot facility in South Deerfield that the company says can run a single prototype order and a 10,000-unit production run side by side. Plural led the Series A, and CircuitHub plans roughly tenfold capacity growth through",
+    "url": "https://startupfortune.com/circuithubs-robotic-grid-factory-bets-on-speed-to-beat-china-on-pcbs/",
+    "pass": 3
+   },
+   {
+    "quote": "CircuitHub achieves price parity with China - The Manufacturer — 2 days ago · CircuitHub has revealed that The Grid, its factory-scale robot in Massachusetts capable of assembling hundreds of circuit boards on-demand every day, has closed the price gap with China - ushering in a new era of electronics production.",
+    "url": "https://www.themanufacturer.com/articles/circuithub-achieves-price-parity-with-china/",
+    "pass": 3
+   },
+   {
+    "quote": "CircuitHub - 2026 Company Profile, Funding & Investors | The ... — Oct 15, 2026 · CircuitHub is an Industrial Goods & Manufacturing company based in San Jose (United States) founded in 2011. CADEDA data and supply chain are managed for electronics design. CircuitHub has raised $46.05 million across 7 funding rounds from investors including Initialized Capital, Google Ventures and Y Combinator. The",
+    "url": "https://www.thecompanycheck.com/company/b/circuithub/w7tg15qq3fpdj5pgb",
+    "pass": 3
+   },
+   {
+    "quote": "CircuitHub - 2026 Company Profile, Team, Funding ... - TracxnCircuitHub 2026 Company Profile: Valuation, Funding ...CircuitHub: Funding, Investors & Team (Nov 2026) | FundedIQCircuitHub – Company Insights & Financial Strength – 2026CircuitHub Revenue 2024: $1.6M Est. - LATKACircuitHub - Products, Competitors, Financials, Employees ... — Mar 4, 2026 · CircuitHub is a series B company based in San J",
+    "url": "https://tracxn.com/d/companies/circuithub/__WUpMzq_ugFqJvo2JEns4o4sLL4499KVwFpD9q3R_naI",
+    "pass": 3
+   },
+   {
+    "quote": "CircuitHub 2026 Company Profile: Valuation, Funding ...CircuitHub: Funding, Investors & Team (Nov 2026) | FundedIQCircuitHub – Company Insights & Financial Strength – 2026CircuitHub Revenue 2024: $1.6M Est. - LATKACircuitHub - Products, Competitors, Financials, Employees ... — CircuitHub FAQs When was CircuitHub founded? CircuitHub was founded in 2011. Where is CircuitHub headquartered? CircuitHub",
+    "url": "https://pitchbook.com/profiles/company/56005-84",
+    "pass": 3
+   },
+   {
+    "quote": "CircuitHub: Funding, Investors & Team (Nov 2026) | FundedIQ — CircuitHub: Funding, Investors & Team (Nov 2026) CircuitHub offers manufacturing services, allowing customers to request the production of a small quantity of units, ranging from 1 to 10,000. By providing their electronic design automation (EDA) files, customers can receive a quote for a complete turnkey PCB assembly in just five minute",
+    "url": "https://fundediq.co/circuithub-circuithub-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "CircuitHub – Company Insights & Financial Strength – 2026 — Discover CircuitHub's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/circuithub",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "CircuitHub unveils circuit board manufacturing system ‘The Grid,’ with 4-day lead time and plans to quintuple capacity in 2026 | Physical AI News (Japan)",
+    "url": "https://physicalainews.jp/en/news/circuithub-unveils-circuit-board-manufacturing-system-the-grid-with-4-e5490c",
+    "pass": 3
+   },
+   {
+    "quote": "Translated from the Japanese original:",
+    "url": "https://physicalainews.jp/en/news/circuithub-unveils-circuit-board-manufacturing-system-the-grid-with-4-e5490c",
+    "pass": 3
+   },
+   {
+    "quote": ". The Japanese version is authoritative if they differ.",
+    "url": "https://physicalainews.jp/en/news/circuithub-unveils-circuit-board-manufacturing-system-the-grid-with-4-e5490c",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "QualSights is an immersive insights platform that enables companies, agencies, and consulting firms to gather…",
+    "url": "https://fundediq.co/circuithub-circuithub-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "2026.05.20 注目の海外スタートアップの資金調達3選｜SecondWave｜米... May 20, 2026 · 2026年5月、テックとサイエンスの交差点で複数の注目すべき資金調達が相次いだ。フィンテックのMercuryが評価額52億ドルで2億ドルを調達し、バイオテックのOorja Bioが難治性肺疾患の新薬開発に向けて3000万ドルを確保、そして電子機器製造スタートアップのCircuitHubが2800万ドルで自動化工場の拡張 ...",
+    "url": "https://note.com/startup_now0708/n/n0ddb838975fb",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "2026.05.20 注目の海外スタートアップの資金調達3選｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/n0ddb838975fb",
+    "pass": 3
+   },
+   {
+    "quote": "2026.05.20 注目の海外スタートアップの資金調達3選",
+    "url": "https://note.com/startup_now0708/n/n0ddb838975fb",
+    "pass": 3
+   },
+   {
+    "quote": "SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/n0ddb838975fb",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月、テックとサイエンスの交差点で複数の注目すべき資金調達が相次いだ。フィンテックのMercuryが評価額52億ドルで2億ドルを調達し、バイオテックのOorja Bioが難治性肺疾患の新薬開発に向けて3000万ドルを確保、そして電子機器製造スタートアップのCircuitHubが2800万ドルで自動化工場の拡張に乗り出した。",
+    "url": "https://note.com/startup_now0708/n/n0ddb838975fb",
+    "pass": 3
+   },
+   {
+    "quote": "規模も業種もそれぞれ異なるが、共通するテーマがある。それは「AIが産業の非効率を解消し、新しい市場機会を生み出している」という構造的な変化だ。本稿では3社の動向を整理し、ビジネスマン・投資家にとってのインプリケーションを考察する。",
+    "url": "https://note.com/startup_now0708/n/n0ddb838975fb",
+    "pass": 3
+   },
+   {
+    "quote": "1. Mercury：AIスタートアップブームを追い風にするフィンテックの実力",
+    "url": "https://note.com/startup_now0708/n/n0ddb838975fb",
+    "pass": 3
+   },
+   {
+    "quote": "は、2億ドルのシリーズDラウンドを52億ドルの評価額で完了した。これは14ヶ月前の前回ラウンド（評価額35億ドル）から49%の上昇に相当する。リード投資家はTCV（Revolut、Nubank等を支援した実績を持つVC）で、Sequoia Capital、Andreessen Horowitz、Coatueなどの既存投資家も参加した。",
+    "url": "https://note.com/startup_now0708/n/n0ddb838975fb",
+    "pass": 3
+   },
+   {
+    "quote": "Mercuryの累計調達額は2017年の創業以来、今回のラウンドを含めて約7億ドルに達した。",
+    "url": "https://note.com/startup_now0708/n/n0ddb838975fb",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "CircuitHub (@CircuitHub) / X 🚀 Introducing Workspaces on CircuitHub — a better way to collaborate and stay organized. Workspaces let you seamlessly manage and share projects with teammates, consultants, and contractors — all in one place.",
+    "url": "https://x.com/circuithub",
+    "pass": 3
+   },
+   {
+    "quote": "CircuitHub raised $28M in a Series A led by Plural to scale ... Traded: Venture Capital (@TradedVC). 106 views. CircuitHub raised $28M in a Series A led by Plural to scale its automated electronics factories across Europe and the U.S., expanding its robotics-driven “Grid” system that produces circuit boards in days instead of months. Founded by Andrew Seddon, Rehno Lindeque, and Jon Friedman, the ",
+    "url": "https://x.com/tradedvc/status/2057121627238731947",
+    "pass": 3
+   },
+   {
+    "quote": "@CircuitHub Team having fun at the Boston hardware meetup ... Andrew Seddon (@seddonandrew). 43 views. @CircuitHub Team having fun at the Boston hardware meetup. https://t.co/GEA43QTzCY",
+    "url": "https://x.com/seddonandrew/status/2070521800958660982",
+    "pass": 3
+   },
+   {
+    "quote": "Geopolitical turmoil and AI helped @CircuitHub (founded by ... Geopolitical turmoil and AI helped @CircuitHub (founded by @seddonandrew) raise $28M to speed up electronics manufacturing. But guess which European VC did the *entire* round?",
+    "url": "https://x.com/mikebutcher/status/2057117468561166460",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "CircuitHub - LinkedIn CircuitHub | 4,501 followers on LinkedIn. We're building a future where hardware companies can design and iterate as fast as software companies | On-demand manufacturing from 1 to 10,000 units ...",
+    "url": "https://www.linkedin.com/company/circuithub",
+    "pass": 3
+   },
+   {
+    "quote": "CircuitHub - LinkedIn CircuitHub is on a mission to fix rapid electronics prototyping. We are the first automated electronics factory built around a modern tech stack. We help hardware companies producing self-driving cars, satellites, 3D printers, robotics, & more to rapidly prototype electronics and get to market faster.",
+    "url": "https://uk.linkedin.com/company/circuithub",
+    "pass": 3
+   },
+   {
+    "quote": "CircuitHub Technologies - LinkedIn At CircuitHub Technologies, we specialize in providing innovative and comprehensive technology solutions tailored for small to medium-sized enterprises (SMEs) and medium-large businesses. Our ...",
+    "url": "https://www.linkedin.com/company/circuithub-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Andrew Seddon - CircuitHub | LinkedInMechanical Build Engineer at CircuitHub — Cambridge, England ...Melissa Hough - Director of Communications | CircuitHub ...Rehno L. - Circuits, Software, Computer Science! | LinkedIn Using deep learning and robotics to automate electronics manufacturing. · Experience: CircuitHub · Education: University of Leeds · Location: London · 500+ connections on LinkedIn.",
+    "url": "https://uk.linkedin.com/in/seddonandrew",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.circuithub.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.circuithub.com/company/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.circuithub.com/company/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.circuithub.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.circuithub.com/company/press",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.circuithub.com/pricing",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/5e4f3506e94717077b3bdc54/5e4f3506e9471731533bddc9_circuithub-logos-cs.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/5e4f3506e94717077b3bdc54/5e4f3506e94717b5903bdd63_circuithub-logos_19.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/5e4f3506e94717077b3bdc54/5e4f3506e9471775f13bdd5e_circuithub-logos_14.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/5e4f3506e94717077b3bdc54/5e4f3506e9471770213bddce_circuithub-logos_barrett.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.circuithub.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mezha.net/jp/news/mezha-3434e3c946c66b7b853926ad_circuithub-says-its-robotic-factory-can/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nqbrief.com/ja/tech/circuithub-grid-capacity-expansion-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.circuithub.com/post/circuithub-series-a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.circuithub.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.circuithub.com/company/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://physicalainews.jp/en/news/circuithub-unveils-circuit-board-manufacturing-system-the-grid-with-4-e5490c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://circuithub.org/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.circuithub.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.circuithub.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.google.com/sorry/index?continue=https://blog.circuithub.com/&q=EgQUHT-GGLHez9cGIi1RameWVsw84EYgAB5cx4ITqtLVAlBDPmjV-QtMva4Yy062Ezt4VdhXGttJU9IyAnJSWgFDYIiMxIjlib-zCQ",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://startupfortune.com/circuithubs-robotic-grid-factory-bets-on-speed-to-beat-china-on-pcbs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/circuithub/w7tg15qq3fpdj5pgb",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/circuithub/__WUpMzq_ugFqJvo2JEns4o4sLL4499KVwFpD9q3R_naI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/56005-84",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/circuithub-circuithub-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/startup_now0708/n/n0ddb838975fb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/circuithub",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tradedvc/status/2057121627238731947",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/seddonandrew/status/2070521800958660982",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mikebutcher/status/2057117468561166460",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/circuithub",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/circuithub",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/circuithub-technologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/seddonandrew",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/circuithub",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "CircuitHub 日本 導入",
+   "results": [
+    "https://www.circuithub.com/",
+    "https://mezha.net/jp/news/mezha-3434e3c946c66b7b853926ad_circuithub-says-its-robotic-factory-can/",
+    "https://nqbrief.com/ja/tech/circuithub-grid-capacity-expansion-2026/",
+    "https://www.circuithub.com/post/circuithub-series-a",
+    "https://www3.to/circuithub-が米国とヨーロッパ全体で自動電子機器製造を/",
+    "https://www.studioglobal.ai/ja/discover/answers/search-6a0d50112ac25e42352956dc",
+    "https://gigazine.net/news/20261103-circuithub-the-grid/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "CircuitHub 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/",
+    "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "CircuitHub Japan",
+   "results": [
+    "https://www.circuithub.com/",
+    "https://www.circuithub.com/company/about-us",
+    "https://physicalainews.jp/en/news/circuithub-unveils-circuit-board-manufacturing-system-the-grid-with-4-e5490c",
+    "https://circuithub.org/about/",
+    "https://circuithub.org/",
+    "https://circuithub.pro/",
+    "https://www.fiercesensors.com/sensors-fusion/pcb-demand-physical-ai-soars-demand-maker-circuithub-expands"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "CircuitHub manufacturing customer case study",
+   "results": [
+    "https://www.circuithub.com/case-studies",
+    "https://www.circuithub.com/",
+    "https://blog.circuithub.com/",
+    "https://startupfortune.com/circuithubs-robotic-grid-factory-bets-on-speed-to-beat-china-on-pcbs/",
+    "https://www.themanufacturer.com/articles/circuithub-achieves-price-parity-with-china/",
+    "https://tech.eu/2026/05/20/circuithub-raises-28m-to-scale-automated-electronics-manufacturing-across-the-us-and-europe/",
+    "https://www.fiercesensors.com/sensors-fusion/pcb-demand-physical-ai-soars-demand-maker-circuithub-expands"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "CircuitHub white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://partners.spectrum.com/",
+    "https://www.resellercluster.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "CircuitHub founded funding employees revenue",
+   "results": [
+    "https://www.thecompanycheck.com/company/b/circuithub/w7tg15qq3fpdj5pgb",
+    "https://tracxn.com/d/companies/circuithub/__WUpMzq_ugFqJvo2JEns4o4sLL4499KVwFpD9q3R_naI",
+    "https://pitchbook.com/profiles/company/56005-84",
+    "https://fundediq.co/circuithub-circuithub-com-funding/",
+    "https://compworth.com/company/circuithub",
+    "https://getlatka.com/companies/circuithub",
+    "https://www.cbinsights.com/company/circuthub"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com CircuitHub",
+   "results": [
+    "https://note.com/startup_now0708/n/n0ddb838975fb",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/masashi3122/n/n6f41b990b137",
+    "https://note.com/kzstock/n/n8464ba129797",
+    "https://note.com/ryodayospcl/n/nda97ca172047"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com CircuitHub",
+   "results": [
+    "https://x.com/circuithub",
+    "https://x.com/tradedvc/status/2057121627238731947",
+    "https://x.com/seddonandrew/status/2070521800958660982",
+    "https://x.com/mikebutcher/status/2057117468561166460",
+    "https://x.com/CircuitHub/status/613398012115562496",
+    "https://x.com/CircuitHub/status/2118388347727175739",
+    "https://x.com/seddonandrew/status/2114692031381647835"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com CircuitHub",
+   "results": [
+    "https://www.linkedin.com/company/circuithub",
+    "https://uk.linkedin.com/company/circuithub",
+    "https://www.linkedin.com/company/circuithub-technologies",
+    "https://uk.linkedin.com/in/seddonandrew",
+    "https://uk.linkedin.com/jobs/view/mechanical-build-engineer-at-circuithub-4480988691",
+    "https://www.linkedin.com/in/melissamhough",
+    "https://www.linkedin.com/in/rehnolindeque"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com CircuitHub",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "CircuitHub note 社長",
+   "results": [
+    "https://www.circuithub.com/post/ep-90-building-the-factory-of-the-future-with-circuithub-ceo-andrew-seddon",
+    "https://www.insideorg.com/org/circuithub",
+    "https://www.axios.com/pro/all-deals/2026/05/19/circuithub-series-a-electronics-manufacturing",
+    "https://www.crunchbase.com/person/andrew-seddon",
+    "https://www.circuithub.com/",
+    "https://www.cbinsights.com/company/circuthub/people",
+    "https://app.dealroom.co/news/note/from-upload-to-assembly-line-how-circuithub-is-turning-pcb-manufacturing-into-a-software-problem"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "CircuitHub X 投稿",
+   "results": [
+    "https://x.com/circuithub",
+    "https://www.circuithub.com/",
+    "https://www.circuithub.com/post/circuithub-series-a",
+    "https://docs.circuithub.com/en/articles/5920811-how-to-upload-a-project",
+    "https://docs.circuithub.com/faq",
+    "https://codernav.com/29499.html",
+    "https://circuithub.org/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部34頁・検索12回）"
+ }
+}

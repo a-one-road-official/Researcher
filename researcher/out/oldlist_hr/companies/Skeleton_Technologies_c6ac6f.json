@@ -1,0 +1,1559 @@
+{
+ "name": "Skeleton Technologies",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜日本進出済",
+ "researched_at": "2026-11-11T04:04:20.095809+00:00",
+ "official_url": "https://www.skeletontech.com/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": ": Valukoja 8, 11415 Tallin, Estonia",
+    "url": "https://www.marubeni.com/jp/news/2021/release/00021.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": ": Sepise tn 7, Tallinn, Harju County 11415, Estonia",
+    "url": "https://www.marubeni.com/jp/news/2023/release/00069.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：: 2009年",
+    "url": "https://www.marubeni.com/jp/news/2021/release/00021.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：: 2009年",
+    "url": "https://www.marubeni.com/jp/news/2023/release/00069.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The only provider of full power systems from the IT rack to the electrical grid: CBU and BBU sidecars, double-conversion UPS, and power support for Solid-State Transformers",
+    "url": "https://www.skeletontech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By eliminating the need for artificial compute loads, reducing heat and increasing efficiency.",
+    "url": "https://www.skeletontech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "engineering and production",
+    "url": "https://www.skeletontech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "GrapheneUPS is a high-density double-conversion UPS designed specifically for AI data centers. Built to handle highly dynamic GPU workloads, it delivers clean, stable power while protecting critical infrastructure from grid disturbances. With industry-leading UPS density and up to 50% lower footprint, GrapheneUPS enables more AI compute within the same facility.",
+    "url": "https://www.skeletontech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "GrapheneGPU delivers power when GPUs compute, and charges when GPUs are idle. Maintaining a smooth power demand from the grid, eliminating the need for artificial (empty) loads, unlocking higher compute capacity.",
+    "url": "https://www.skeletontech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Battery Backup Unit (BBU) for data center backup power, based on Skeleton’s proprietary SuperBattery energy storage technology.",
+    "url": "https://www.skeletontech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Skeleton Technologies brings the necessary quality mindset to critical applications. The highest power density and efficiency in the industry provides us with a very clear competitive advantage\"",
+    "url": "https://www.skeletontech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Skeleton Technologies’ ultracapacitors provide a major fuel saving and will reduce maintenance with a long lifetime. It is also a “Plug & Play” solution adding safety and reliability to the vehicles\"",
+    "url": "https://www.skeletontech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We have tested all the leading suppliers on the market and are convinced that Skeleton Technologies has by far the best offer. The lowest internal resistance (ESR) and highest efficiency levels of Skeleton’s ultracapacitors lets us explore new solutions that were not thinkable with other products.\"",
+    "url": "https://www.skeletontech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "World's Largest Supercapacitor Production Facility",
+    "url": "https://www.skeletontech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Curved Graphene Synthesis and Production",
+    "url": "https://www.skeletontech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unique Product Roadmap, Supported by the Largest Largest Power Systems R&D Team in the AI Industry",
+    "url": "https://www.skeletontech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Skeleton's proprietary material allowing unmatched low internal resistance and high capacitance",
+    "url": "https://www.skeletontech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Skeleton Technologies has joined the Finnish American Chamber of Commerce New York (FACC-NY). Skeleton provides hyperscalers and data center operators with intelligent power systems that manage rapid...",
+    "url": "https://www.skeletontech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Read our privacy terms",
+    "url": "https://www.skeletontech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Skeleton will invest 220 million EUR in scaling up its production of",
+    "url": "https://www.skeletontech.com/news/skeleton-invests-220-m-eur-in-leipzig-area-to-build-the-worlds-largest-supercapacitor-factory-in-partnership-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "will support Skeleton as technology partner with the joint development of a fully automated production line for the new factory and the digitalization of the entire value chain.",
+    "url": "https://www.skeletontech.com/news/skeleton-invests-220-m-eur-in-leipzig-area-to-build-the-worlds-largest-supercapacitor-factory-in-partnership-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "The collaboration aims to achieve the digitization of Skeleton's entire value chain – from supercapacitor cell design to production and services – and scale up the production of next-generation",
+    "url": "https://www.skeletontech.com/news/skeleton-invests-220-m-eur-in-leipzig-area-to-build-the-worlds-largest-supercapacitor-factory-in-partnership-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": ". Siemens supports this with its comprehensive Digital Enterprise portfolio as well as domain know-how in industrial battery cell production. Furthermore, it is planned to further expand the business relations between the two companies.",
+    "url": "https://www.skeletontech.com/news/skeleton-invests-220-m-eur-in-leipzig-area-to-build-the-worlds-largest-supercapacitor-factory-in-partnership-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "\" material, Skeleton's supercapacitors offer the highest power and energy density on the market, almost instant charging and discharging, high reliability, and very long lifetimes. They contribute to improving power quality and protecting equipment and infrastructure by lowering the power fluctuation, and powering electrification.",
+    "url": "https://www.skeletontech.com/news/skeleton-invests-220-m-eur-in-leipzig-area-to-build-the-worlds-largest-supercapacitor-factory-in-partnership-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "\"With our holistic automation and digitalization portfolio, we can use the appropriate tools and our industrial know-how together with Skeleton, from greenfield planning to factory simulation and optimized high-end production, to realize a highly efficient, fully automated production line that is unique in the world,\"",
+    "url": "https://www.skeletontech.com/news/skeleton-invests-220-m-eur-in-leipzig-area-to-build-the-worlds-largest-supercapacitor-factory-in-partnership-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "\"Electrification and decarbonization require key enabling technologies and supercapacitors are one of them. The various applications of this technology provide enormous help in electrifying sectors of industry where electrification cannot be efficiently implemented with batteries,\"",
+    "url": "https://www.skeletontech.com/news/skeleton-invests-220-m-eur-in-leipzig-area-to-build-the-worlds-largest-supercapacitor-factory-in-partnership-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "\"This ramp-up will allow us to meet market demand for our next-generation products and make our new factory the largest and most modern supercapacitor factory in Europe.\"",
+    "url": "https://www.skeletontech.com/news/skeleton-invests-220-m-eur-in-leipzig-area-to-build-the-worlds-largest-supercapacitor-factory-in-partnership-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Shaving GPU peak loads and bridge outages for up to 90 seconds.",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Highly automated & industry 4.0 production facility",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Skeleton's production locations in Germany are ideally located to service our customers globally. Our ISO9001:2015, ISO14001:2015-certified and EMAS-registered Leipzig Superfactory in Germany is the largest and most modern supercapacitor factory globally.",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Curved Graphene synthesis and production",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial-scale, highly automated production facility",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We have raised almost 400 million euros of capital to scale up development and production of high-power systems for AI infrastructure and grid stability.",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "First commercial product series launched",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Product portfolio expansion to cover automotive, transportation, grid, and industrial applications",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Skeleton announces plans for its next production facility, which will become the largest supercapacitor factory in the world",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Join a team where your work is visible and challenging, solving the biggest problems globally.",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Energy storage and power electronics experts, entrepreneurs, and experienced leaders",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Product Officer",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Read our privacy terms",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "solving the biggest problems globally.",
+    "url": "https://www.skeletontech.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "At Skeleton, you’ll work alongside engineers, scientists, and commercial teams turning ideas into technologies used in the real world. We value ownership, curiosity, and people who enjoy solving difficult problems and seeing their work move from concept to deployment. We are hiring across production, engineering, sales, finance, marketing, quality, supply chain and operations.",
+    "url": "https://www.skeletontech.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "At Skeleton, ideas move quickly from concepts to products, used and relied on by the biggest companies in AI, power grids, industry, and defense. At Skeleton, you will be challenged and your work has a real purpose. Join us!",
+    "url": "https://www.skeletontech.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are a fast-growing company and we like to promote internally. We encourage Skeletonians to develop themselves and progress in their careers within the company. We are not afraid of recognizing and rewarding talents.",
+    "url": "https://www.skeletontech.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Your voice is heard. We are not a big corporation, and we are very fine with that. Studies show that the more layers a company has, the less innovative they are. We embrace agility, promote autonomy, and make sure all our employees can freely share their ideas. Direct communication means better communication.",
+    "url": "https://www.skeletontech.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A burst of power, delivered in microseconds, then gone. Most companies solve for one version of that problem. We solve it for all of them — the same result that keeps a GPU cluster running through a load spike, cranks an engine at −40 °C, and helps keep the lights on across Europe.",
+    "url": "https://www.skeletontech.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "workable careers page.",
+    "url": "https://www.skeletontech.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "World's Largest Supercapacitor Production Facility",
+    "url": "https://www.skeletontech.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Curved Graphene Synthesis and Production",
+    "url": "https://www.skeletontech.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Read our privacy terms",
+    "url": "https://www.skeletontech.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Cut power connection size by 40% by covering the fluctuating peak loads with supercapacitors",
+    "url": "https://www.skeletontech.com/datacenters-peak-shaving-power-backup",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent Outages & Protect Grid Infrastructure",
+    "url": "https://www.skeletontech.com/datacenters-peak-shaving-power-backup",
+    "pass": 1
+   },
+   {
+    "quote": "Grid Stability & Outage Prevention",
+    "url": "https://www.skeletontech.com/datacenters-peak-shaving-power-backup",
+    "pass": 1
+   },
+   {
+    "quote": "Smoother demand curves and reduced power outage risks with predictable demand profile.",
+    "url": "https://www.skeletontech.com/datacenters-peak-shaving-power-backup",
+    "pass": 1
+   },
+   {
+    "quote": "Stabilizes the grid with predictable energy usage.",
+    "url": "https://www.skeletontech.com/datacenters-peak-shaving-power-backup",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce Energy Storage Footprint",
+    "url": "https://www.skeletontech.com/datacenters-peak-shaving-power-backup",
+    "pass": 1
+   },
+   {
+    "quote": "reducing the footprint of your energy storage solution",
+    "url": "https://www.skeletontech.com/datacenters-peak-shaving-power-backup",
+    "pass": 1
+   },
+   {
+    "quote": ", and providing more space for compute units.",
+    "url": "https://www.skeletontech.com/datacenters-peak-shaving-power-backup",
+    "pass": 1
+   },
+   {
+    "quote": "Increase productivity, and achieve a higher Power Unit Efficiency (PUE) with Skeleton's SuperBattery-based modules that fit directly into your racks.",
+    "url": "https://www.skeletontech.com/datacenters-peak-shaving-power-backup",
+    "pass": 1
+   },
+   {
+    "quote": "Unique product roadmap, supported by the largest R&D team in the industry",
+    "url": "https://www.skeletontech.com/datacenters-peak-shaving-power-backup",
+    "pass": 1
+   },
+   {
+    "quote": "Skeleton's proprietary material allowing unmatched low internal resistance and high capacitance",
+    "url": "https://www.skeletontech.com/datacenters-peak-shaving-power-backup",
+    "pass": 1
+   },
+   {
+    "quote": "Have a project in mind? Connect with an expert today and let's map your application requirements in detail.",
+    "url": "https://www.skeletontech.com/datacenters-peak-shaving-power-backup",
+    "pass": 1
+   },
+   {
+    "quote": "Read our privacy terms",
+    "url": "https://www.skeletontech.com/datacenters-peak-shaving-power-backup",
+    "pass": 1
+   },
+   {
+    "quote": "Skeleton Technologies, a global leader in high-power systems for AI infrastructure, today announced a strategic investment from Siemens, bringing Skeleton’s valuation to more than $1 billion. The investment will primarily accelerate the expansion of Skeleton’s US manufacturing footprint and R&D activities in Silicon Valley to meet growing demand from hyperscalers for AI data-center power systems.",
+    "url": "https://www.skeletontech.com/news/skeleton-technologies-secures-strategic-investment-led-by-siemens-to-expand-us-manufacturing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Stabilize highly stressed automotive 12V boardnets.",
+    "url": "https://www.skeletontech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Choosing to work with the best ultracapacitor manufacturer on the market was easy. Not only is their technology best suited for our marine and offshore applications but they care deeply about establishing long-lasting relationships with support to us and our clients\"",
+    "url": "https://www.skeletontech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Leipzig Superfactory, Germany",
+    "url": "https://www.skeletontech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Skeleton Technologies secures strategic investment led by Siemens to expand US manufacturing",
+    "url": "https://www.skeletontech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Skeleton Technologies has joined the Finnish American Chamber of Commerce New York (FACC-NY). Skeleton provides hyperscalers and data center operators with intelligent power systems that manage rapid...",
+    "url": "https://www.skeletontech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "€220M investment in world's largest supercapacitor factory",
+    "url": "https://www.skeletontech.com/news/skeleton-invests-220-m-eur-in-leipzig-area-to-build-the-worlds-largest-supercapacitor-factory-in-partnership-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "The company has chosen Markranstädt in Leipzig area to establish its second manufacturing site in Saxony, with SOP expected in 2024.",
+    "url": "https://www.skeletontech.com/news/skeleton-invests-220-m-eur-in-leipzig-area-to-build-the-worlds-largest-supercapacitor-factory-in-partnership-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "will support Skeleton as technology partner with the joint development of a fully automated production line for the new factory and the digitalization of the entire value chain.",
+    "url": "https://www.skeletontech.com/news/skeleton-invests-220-m-eur-in-leipzig-area-to-build-the-worlds-largest-supercapacitor-factory-in-partnership-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": ". Siemens supports this with its comprehensive Digital Enterprise portfolio as well as domain know-how in industrial battery cell production. Furthermore, it is planned to further expand the business relations between the two companies.",
+    "url": "https://www.skeletontech.com/news/skeleton-invests-220-m-eur-in-leipzig-area-to-build-the-worlds-largest-supercapacitor-factory-in-partnership-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Skeleton's supercapacitors are used in transport, grid, industrial, and automotive applications and allow to reduce CO2 emissions and save energy. With the use of patented \"",
+    "url": "https://www.skeletontech.com/news/skeleton-invests-220-m-eur-in-leipzig-area-to-build-the-worlds-largest-supercapacitor-factory-in-partnership-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "\"Supercapacitors are a key element in dramatically reducing emissions in the power generation, transportation and industrial sectors,\"",
+    "url": "https://www.skeletontech.com/news/skeleton-invests-220-m-eur-in-leipzig-area-to-build-the-worlds-largest-supercapacitor-factory-in-partnership-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "\"With our holistic automation and digitalization portfolio, we can use the appropriate tools and our industrial know-how together with Skeleton, from greenfield planning to factory simulation and optimized high-end production, to realize a highly efficient, fully automated production line that is unique in the world,\"",
+    "url": "https://www.skeletontech.com/news/skeleton-invests-220-m-eur-in-leipzig-area-to-build-the-worlds-largest-supercapacitor-factory-in-partnership-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "\"A number of Siemens business units are already Skeleton's customers and as the energy transition gathers pace, we see the volumes increasing. The strong relationship will be further cemented thanks to this partnership, we will now also benefit from their world-class expertise in electrification, automation, and digitalization to expand our manufacturing,\"",
+    "url": "https://www.skeletontech.com/news/skeleton-invests-220-m-eur-in-leipzig-area-to-build-the-worlds-largest-supercapacitor-factory-in-partnership-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "\"This ramp-up will allow us to meet market demand for our next-generation products and make our new factory the largest and most modern supercapacitor factory in Europe.\"",
+    "url": "https://www.skeletontech.com/news/skeleton-invests-220-m-eur-in-leipzig-area-to-build-the-worlds-largest-supercapacitor-factory-in-partnership-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "supercapacitor factory",
+    "url": "https://www.skeletontech.com/news/skeleton-invests-220-m-eur-in-leipzig-area-to-build-the-worlds-largest-supercapacitor-factory-in-partnership-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Stabilize highly stressed automotive 12V boardnets.",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in Estonia and now valued at more than $1 billion, Skeleton is expanding manufacturing from Germany and Finland to the United States.",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Leipzig Superfactory, Germany",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Skeleton's production locations in Germany are ideally located to service our customers globally. Our ISO9001:2015, ISO14001:2015-certified and EMAS-registered Leipzig Superfactory in Germany is the largest and most modern supercapacitor factory globally.",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Varkaus Superfactory, Finland",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial-scale, highly automated production facility",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "New manufacturing facility in Viimsi, Estonia opened",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "The opening of the largest supercapacitor factory in Europe in Großröhrsdorf, Germany",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Product portfolio expansion to cover automotive, transportation, grid, and industrial applications",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Skeleton announces plans for its next production facility, which will become the largest supercapacitor factory in the world",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Skeleton acquires a battery factory in Finland to scale up SuperBattery manufacturing",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Skeleton opens Leipzig Superfactory - the most modern supercapacitor factory in the world, and starts deliveries to AI data center hyperscalers.",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Stabilize highly stressed automotive 12V boardnets.",
+    "url": "https://www.skeletontech.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Leipzig Superfactory, Germany",
+    "url": "https://www.skeletontech.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Stabilize highly stressed automotive 12V boardnets.",
+    "url": "https://www.skeletontech.com/datacenters-peak-shaving-power-backup",
+    "pass": 1
+   },
+   {
+    "quote": "Skeleton Technologies secures strategic investment led by Siemens to expand US manufacturing",
+    "url": "https://www.skeletontech.com/news/skeleton-technologies-secures-strategic-investment-led-by-siemens-to-expand-us-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Skeleton Technologies, a global leader in high-power systems for AI infrastructure, today announced a strategic investment from Siemens, bringing Skeleton’s valuation to more than $1 billion. The investment will primarily accelerate the expansion of Skeleton’s US manufacturing footprint and R&D activities in Silicon Valley to meet growing demand from hyperscalers for AI data-center power systems.",
+    "url": "https://www.skeletontech.com/news/skeleton-technologies-secures-strategic-investment-led-by-siemens-to-expand-us-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The investment deepens a long-standing relationship between Siemens and Skeleton, with the new partnership focused primarily on AI data-center infrastructure and growing demand from hyperscalers in the United States. Siemens supported Skeleton’s expansion in 2023, while Siemens Digital Industries designed and automated the company’s Leipzig SuperFactory in Germany.",
+    "url": "https://www.skeletontech.com/news/skeleton-technologies-secures-strategic-investment-led-by-siemens-to-expand-us-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Skeleton plans to invest more than $200 million in operational scale-up and R&D in Silicon Valley working directly with hyperscalers. The US expansion includes plans to establish domestic cell manufacturing, creating a fully integrated US value chain from cells to complete systems.",
+    "url": "https://www.skeletontech.com/news/skeleton-technologies-secures-strategic-investment-led-by-siemens-to-expand-us-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "“Skeleton's portfolio perfectly complements Siemens' comprehensive data center offering. Our combined innovation roadmap will deliver benchmark solutions for the white space of next-generation data centers, delivered by a strong manufacturing network across Europe and the USA,” said Markus Grabmeier, President of Electrical Products at Siemens AG.",
+    "url": "https://www.skeletontech.com/news/skeleton-technologies-secures-strategic-investment-led-by-siemens-to-expand-us-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Stabilize highly stressed automotive 12V boardnets.",
+    "url": "https://www.skeletontech.com/all-products",
+    "pass": 1
+   },
+   {
+    "quote": ", and industrial applications.",
+    "url": "https://www.skeletontech.com/all-products",
+    "pass": 1
+   },
+   {
+    "quote": "We do it by developing and manufacturing",
+    "url": "https://www.skeletontech.com/hubfs/250814_CompanyCultureCode_2025-update.pdf?hsLang=en",
+    "pass": 2
+   },
+   {
+    "quote": "American business theorist, composer, economist, industrial engineer,",
+    "url": "https://www.skeletontech.com/hubfs/250814_CompanyCultureCode_2025-update.pdf?hsLang=en",
+    "pass": 2
+   },
+   {
+    "quote": "Dr. Sebastian Pohlman, VP for Automotive and Business Development at Skeleton Technologies",
+    "url": "https://www.eit.europa.eu/news-events/success-stories/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "With “made in the EU” products, Skeleton Technologies is experiencing considerable success in the motorsport, medical equipment, renewable energy, auto and aircraft manufacturing sectors, and with the",
+    "url": "https://www.eit.europa.eu/news-events/success-stories/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies is a developer and manufacturer of high energy and power density ultracapacitors. The company provides green and cost-effective energy storage solutions for the automotive, transportation, industrial and renewable energy markets.",
+    "url": "https://www.graphene-info.com/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton is reportedly working on increasing the manufacturing capacity for the Grossrhrsdorf production facility from half a million to about 1,000,000 supercapacitors per year in 2020. In terms of footprint, the current 3,500 square meters will be double to about 7,000 square meters by 2020.",
+    "url": "https://www.graphene-info.com/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Following the scale-up, the plan is to implement the next generation cell design, optimized for automated production and cell assembly. Further automation enables scaling up production capacity to 4,000,000 cells in the first phase, and ultimately to 10,000,000 supercapacitors to meet demand from automotive, grid, and transportation.",
+    "url": "https://www.graphene-info.com/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton has opened production plants for both SuperBatteries and supercapacitors.",
+    "url": "https://www.graphene-info.com/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton’s €220M Leipzig SuperFactory comes online to power AI and Europe’s grids",
+    "url": "https://www.graphene-info.com/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "recently closed a €108 million funding round that includes Siemens Financial Services (SFS), Marubeni Corporation and other investors. This funding will accelerate the development of next-generation products and finance the manufacturing expansion for supercapacitors and the company’s new high-power battery technology – the SuperBattery.",
+    "url": "https://www.graphene-info.com/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "and the Canadian automotive supplier Martinrea International are cooperating to equip refuse collection vehicles for use in Paris and New York with Skeleton’s ‘SuperBattery’ technology.",
+    "url": "https://www.graphene-info.com/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic investment and exclusive partnership expand Siemens’ position in the fast-growing AI factories space",
+    "url": "https://press.siemens.com/global/en/pressrelease/siemens-invests-skeleton-technologies-expanding-its-data-center-portfolio",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies. Skeleton Technologies is a developer and manufacturer of",
+    "url": "https://press.siemens.com/global/en/pressrelease/siemens-invests-skeleton-technologies-expanding-its-data-center-portfolio",
+    "pass": 3
+   },
+   {
+    "quote": "operators increase compute density and limiting the need for costly and",
+    "url": "https://press.siemens.com/global/en/pressrelease/siemens-invests-skeleton-technologies-expanding-its-data-center-portfolio",
+    "pass": 3
+   },
+   {
+    "quote": "expansive ecosystem, building out hyperscale data centers and AI Factories.",
+    "url": "https://press.siemens.com/global/en/pressrelease/siemens-invests-skeleton-technologies-expanding-its-data-center-portfolio",
+    "pass": 3
+   },
+   {
+    "quote": "center operators need ways to expand capacity faster without waiting years for",
+    "url": "https://press.siemens.com/global/en/pressrelease/siemens-invests-skeleton-technologies-expanding-its-data-center-portfolio",
+    "pass": 3
+   },
+   {
+    "quote": "together Skeleton’s innovation and Siemens’ global industrial scale to",
+    "url": "https://press.siemens.com/global/en/pressrelease/siemens-invests-skeleton-technologies-expanding-its-data-center-portfolio",
+    "pass": 3
+   },
+   {
+    "quote": "centers, delivered by a strong manufacturing network across Europe and the",
+    "url": "https://press.siemens.com/global/en/pressrelease/siemens-invests-skeleton-technologies-expanding-its-data-center-portfolio",
+    "pass": 3
+   },
+   {
+    "quote": "Join Skeleton Founder from Estonia on Building Ultra-capacity Factories - at Expand North Star 2025 - YouTube",
+    "url": "https://www.youtube.com/watch?v=UYn0mVyfUHs",
+    "pass": 3
+   },
+   {
+    "quote": "Join Skeleton Founder from Estonia on Building Ultra-capacity Factories - at Expand North Star 2025",
+    "url": "https://www.youtube.com/watch?v=UYn0mVyfUHs",
+    "pass": 3
+   },
+   {
+    "quote": "Founders’ journey: Authentic insights on creating a global deep-tech business from scratch. Discover how he scaled ultra-capacity factories in Europe, pioneered high-performance energy storage for defense and industrial applications, and is now driving sust",
+    "url": "https://www.youtube.com/watch?v=UYn0mVyfUHs",
+    "pass": 3
+   },
+   {
+    "quote": "Founders’ journey: Authentic insights on creating a global deep-tech business from scratch. Discover how he scaled ultra-capacity factories in Europe, pioneered high-performance energy storage for defense and industrial applications, and is now driving sustainable AI solutions for next-generation data centers.",
+    "url": "https://www.youtube.com/watch?v=UYn0mVyfUHs",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies is an Estonia-based ultracapacitor manufacturer founded in 2009, specializing in graphene-based supercapacitors that deliver twice the energy density and five times the power density of competitors. The company produces high-power, high-energy storage solutions for sectors including transportation, grid, industrial equipment, renewable energy, automotive, and defense.",
+    "url": "https://multiples.vc/private-comps/skeleton-technologies",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "info@skeletontech.com",
+    "url": "https://www.skeletontech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "info@skeletontech.com",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "info@skeletontech.com",
+    "url": "https://www.skeletontech.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "info@skeletontech.com",
+    "url": "https://www.skeletontech.com/datacenters-peak-shaving-power-backup",
+    "pass": 1
+   },
+   {
+    "quote": "sales@skeletontech.com",
+    "url": "https://www.skeletontech.com/all-products",
+    "pass": 1
+   },
+   {
+    "quote": "info@skeletontech.com",
+    "url": "https://www.skeletontech.com/all-products",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/65562-49",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Large-scale commercial deals signed with global OEMs, including Škoda Electric",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Want to join Skeleton to be part of our next chapter?",
+    "url": "https://www.skeletontech.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "You'll be part of getting power systems for AI infrastructure, power grids, and mission-critical industries out into the world.",
+    "url": "https://www.skeletontech.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Your voice is heard. We are not a big corporation, and we are very fine with that. Studies show that the more layers a company has, the less innovative they are. We embrace agility, promote autonomy, and make sure all our employees can freely share their ideas. Direct communication means better communication.",
+    "url": "https://www.skeletontech.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Markus Grabmeier (President of Electrical Products at Siemens AG), Taavi Madiberk (CEO of Skeleton Technologies), Barry Powell (President and Regional CEO of Siemens Electrical Products)",
+    "url": "https://www.skeletontech.com/news/skeleton-technologies-secures-strategic-investment-led-by-siemens-to-expand-us-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "（左：シェル社と開発中の電動鉱山運搬トラック、右：Skeleton社ウルトラキャパシタが搭載されたホンダCR-Vハイブリッドレーサー（写真：Larry Chen））",
+    "url": "https://www.marubeni.com/jp/news/2023/release/00069.html",
+    "pass": 3
+   },
+   {
+    "quote": "Markus Grabmeier (President of Electrical Products at Siemens AG), Taavi Madiberk (CEO of Skeleton Technologies), Barry Powell (President and Regional CEO of Siemens Electrical Products)",
+    "url": "https://www.graphene-info.com/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies announces €33 million first close of pre-IPO round ahead of 2027 U.S IPO",
+    "url": "https://www.graphene-info.com/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "has announced the first close of a larger funding round at €33 million. This brings its total venture capital funding to €392 million in preparation for its planned initial public offering (IPO) in the United States in 2027.",
+    "url": "https://www.graphene-info.com/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "The new round expands Skeleton’s investor base with the addition of Axon Partners Group, SmartCap, and Taiwania Capital. More investors will be announced as part of a larger round ahead of the IPO.",
+    "url": "https://www.graphene-info.com/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "People from left to right: Barry Powell, EVP and Managing Director,",
+    "url": "https://press.siemens.com/global/en/pressrelease/siemens-invests-skeleton-technologies-expanding-its-data-center-portfolio",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies Revenue, Valuation, Funding & Investors | Multiples",
+    "url": "https://multiples.vc/private-comps/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue, Valuation, Funding & Investors",
+    "url": "https://multiples.vc/private-comps/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies is valued at $1B as of January 2022, a 100.0x revenue multiple. Skeleton Technologies revenue was $10M, as disclosed with its latest round.",
+    "url": "https://multiples.vc/private-comps/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies revenue",
+    "url": "https://multiples.vc/private-comps/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies Revenue",
+    "url": "https://multiples.vc/private-comps/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies' latest recorded revenue is $10M, as of its Series D in January 2022. At a $1B valuation, that implies a 100.0x revenue multiple.",
+    "url": "https://multiples.vc/private-comps/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies revenue by funding round",
+    "url": "https://multiples.vc/private-comps/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies revenue and valuation multiple by funding round",
+    "url": "https://multiples.vc/private-comps/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "* Revenue (or ARR) figures are the values recorded alongside each funding round. Typically run-rate revenue at the time of the deal, or a reported LTM (last 12 months) revenue.",
+    "url": "https://multiples.vc/private-comps/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to see data on 350K+ funding rounds and disclosed revenue and EBITDA valuation multiples, from seed, through growth stage, to pre-IPO.",
+    "url": "https://multiples.vc/private-comps/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies competitors include listed companies like Towa and Suzhou Oriental, and private ones like Nyobolt, Nanotech Energy, Beijing Weilan New Energy Technology and Eliyan.",
+    "url": "https://multiples.vc/private-comps/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Is Skeleton Technologies publicly listed?",
+    "url": "https://multiples.vc/private-comps/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "What is Skeleton Technologies' revenue?",
+    "url": "https://multiples.vc/private-comps/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies' latest recorded revenue is $10M (January 2022).",
+    "url": "https://multiples.vc/private-comps/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "What is Skeleton Technologies' revenue multiple?",
+    "url": "https://multiples.vc/private-comps/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies' latest valuation implies a 100.0x revenue multiple ($1B valuation on $10M of revenue).",
+    "url": "https://multiples.vc/private-comps/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/65562-49",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies has 248 total employees.",
+    "url": "https://pitchbook.com/profiles/company/65562-49",
+    "pass": 3
+   },
+   {
+    "quote": "What is Skeleton Technologies’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/65562-49",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Skeleton Technologies is",
+    "url": "https://pitchbook.com/profiles/company/65562-49",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "丸紅株式会社（以下、「丸紅」）は、ウルトラキャパシタの開発・製造事業を行うエストニア国Skeleton Technologies Group OÜ（以下、「Skeleton社」）へ、2021年3月に出資（「以下、「本出資」）しました",
+    "url": "https://www.marubeni.com/jp/news/2021/release/00021.html",
+    "pass": 3
+   },
+   {
+    "quote": "本出資を通じて、日本を始めとするアジアを中心にSkeleton社製ウルトラキャパシタの販売及び次世代蓄電技術の用途・顧客開拓に取り組みます",
+    "url": "https://www.marubeni.com/jp/news/2021/release/00021.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な気候変動対策の潮流の加速に伴い、日本政府も2020年10月に「2050年カーボンニュートラル」を宣言しました",
+    "url": "https://www.marubeni.com/jp/news/2021/release/00021.html",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅は、本出資を通じて、Skeleton社の戦略的パートナーとして、グローバルなマーケティング機能を活かし、日本を始めとするアジアを中心にSkeleton社製品の販売を行うと共に、幅広い分野での顧客基盤を活かしながらSkeleton社が開発を進める次世代ウルトラキャパシタの顧客・用途開発を行っていきます",
+    "url": "https://www.marubeni.com/jp/news/2021/release/00021.html",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅株式会社（以下、「丸紅」）は、ウルトラキャパシタ(*)の開発・製造事業を行うエストニア国Skeleton Technologies Group OÜ（以下、「Skeleton社」）へ、新しい次世代蓄電池「スーパーバッテリー」の量産工場建設のため、2023年6月に追加資金を拠出しました",
+    "url": "https://www.marubeni.com/jp/news/2023/release/00069.html",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅は、2021年3月のSkeleton社への出資参画以降、戦略的パートナーとして、日本・韓国を中心としたアジアにおいて販売代理事業を実施する中で、自動車、輸送車両、電力、産業機器等、様々な産業分野にて「スーパーバッテリー」の強いニーズを確認しました",
+    "url": "https://www.marubeni.com/jp/news/2023/release/00069.html",
+    "pass": 3
+   },
+   {
+    "quote": "住商の欧州法人、エストニア企業と代理店契約―PHEV/EVへのウルトラキャパシタ導入が目的 | スマートグリッドフォーラム",
+    "url": "https://sgforum.impress.co.jp/news/4270",
+    "pass": 3
+   },
+   {
+    "quote": "住商の欧州法人、エストニア企業と代理店契約―PHEV/EVへのウルトラキャパシタ導入が目的",
+    "url": "https://sgforum.impress.co.jp/news/4270",
+    "pass": 3
+   },
+   {
+    "quote": "エストニアSkeleton Technologiesは、住友商事のヨーロッパ法人と代理店契約を締結したと発表した",
+    "url": "https://sgforum.impress.co.jp/news/4270",
+    "pass": 3
+   },
+   {
+    "quote": "エストニアSkeleton Technologiesは2017年12月7日（東ヨーロッパ時間）、Sumitomo Corporation Europeと代理店契約を締結したと発表した",
+    "url": "https://sgforum.impress.co.jp/news/4270",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Corporation Europeは日本の住友商事のヨーロッパ法人",
+    "url": "https://sgforum.impress.co.jp/news/4270",
+    "pass": 3
+   },
+   {
+    "quote": "今回の代理店契約締結で、Skeleton Technologiesが開発、生産する「ウルトラキャパシタ（電気二重層コンデンサ）」の拡販に取り組む",
+    "url": "https://sgforum.impress.co.jp/news/4270",
+    "pass": 3
+   },
+   {
+    "quote": "今回の代理店契約の大目的は、プラグインハイブリッド車（PHEV）や電気自動車（EV）へのウルトラキャパシタ導入量を拡大する点にある",
+    "url": "https://sgforum.impress.co.jp/news/4270",
+    "pass": 3
+   },
+   {
+    "quote": "私たちが世界の自動車業界の主要企業と関係を築く上で大きな助けとなるはずだ」と、今回の代理店契約締結の理由を語っている",
+    "url": "https://sgforum.impress.co.jp/news/4270",
+    "pass": 3
+   },
+   {
+    "quote": "東電HD、蓄電池を活用したアメリカの電力系統向け事業に出資―日本でのサービス開始を視野に",
+    "url": "https://sgforum.impress.co.jp/news/4270",
+    "pass": 3
+   },
+   {
+    "quote": "住友商事と日本ベネックス、EVと使い古しの車載用蓄電池でVPP実証事業に参加",
+    "url": "https://sgforum.impress.co.jp/news/4270",
+    "pass": 3
+   },
+   {
+    "quote": "フィジカルAI、日本の「勝ち筋」はどこにあるか：富士通・ロボット3社・NVIDIAの5社が描く新戦略構想",
+    "url": "https://sgforum.impress.co.jp/news/4270",
+    "pass": 3
+   },
+   {
+    "quote": "ブロードバンドタワーとNTT東日本、1,000km超のDC間ストレージ統合に成功！：IOWNで性能低下3%",
+    "url": "https://sgforum.impress.co.jp/news/4270",
+    "pass": 3
+   },
+   {
+    "quote": "DC Power Vil.代表取締役社長 村 文夫氏に聞く! ：加速するAIと「低圧直流」の波 ―OCP・NVIDIAが描く2028年の未来像と日本企業の勝ち筋",
+    "url": "https://sgforum.impress.co.jp/news/4270",
+    "pass": 3
+   },
+   {
+    "quote": "「エリクソン・フォーラム 2026」レポート：AI時代の通信革命と日本の役割 ―エリクソンの技術戦略と国内エコシステム構築",
+    "url": "https://sgforum.impress.co.jp/news/4270",
+    "pass": 3
+   },
+   {
+    "quote": "利用拡大した生成AIは、膨大な電力需要や通信トラフィックの増大、データセンターの設置を増大し、日本では重要な政策課題となっています",
+    "url": "https://sgforum.impress.co.jp/news/4270",
+    "pass": 3
+   },
+   {
+    "quote": "携帯電話に関わる基礎的な技術や世代ごとの特徴、Q&Aによる基礎解説、周波数利用、スマートフォンの構成とOSの進化、5Gデバイスについての最新動向や、日本固有のローカル5Gについても解説しています",
+    "url": "https://sgforum.impress.co.jp/news/4270",
+    "pass": 3
+   },
+   {
+    "quote": "【Interop Tokyo 2022レポ—ト】離陸するローカル5G！",
+    "url": "https://sgforum.impress.co.jp/news/4270",
+    "pass": 3
+   },
+   {
+    "quote": ". Its list of partners has grown to include brands like Skoda, Volvo, and Medcom and it is recognised as a Global Cleantech 100 company in supercapacitor and energy storage. Its production in Germany has grown enormously over the years and it cooperates strategically with the Japanese Marubeni Corporation in the Asian market.",
+    "url": "https://www.eit.europa.eu/news-events/success-stories/skeleton-technologies",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Skeleton Technologies のスーパーキャパシタによる ... - Altium — Skeleton Technologies のスーパーキャパシタによる ... - Altium Altium https://www.altium.com > company > customer-success",
+    "url": "https://www.altium.com/jp/company/customer-success/transforming-energy-storage-skeleton-technologies-supercapacitors?srsltid=AYCX9vIBKoMeaCMO-886X3fWwr_IeLWA4XVu5uZtxT1b4peNKjjMprVH",
+    "pass": 3
+   },
+   {
+    "quote": "次世代蓄電技術を有するエストニア国 Skeleton Technologies ... — 次世代蓄電技術を有するエストニア国 Skeleton Technologies ... Marubeni Corporation https://www.marubeni.com > news > release",
+    "url": "https://www.marubeni.com/jp/news/2021/release/00021.html",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton research & development journey — Skeleton research & development journey Skeleton Technologies https://www.skeletontech.com > skelet...",
+    "url": "https://www.skeletontech.com/skeleton-research-development-journey",
+    "pass": 3
+   },
+   {
+    "quote": "次世代蓄電技術を有するエストニア国 Skeleton Technologies ... — 次世代蓄電技術を有するエストニア国 Skeleton Technologies ... Marubeni Corporation https://www.marubeni.com > news > release",
+    "url": "https://www.marubeni.com/jp/news/2023/release/00069.html",
+    "pass": 3
+   },
+   {
+    "quote": "Distributors of Skeleton's Power Systems — Distributors of Skeleton's Power Systems Skeleton Technologies https://www.skeletontech.com > our-d...",
+    "url": "https://www.skeletontech.com/our-distributors",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies ディストリビュータ - DigiKey — Skeleton Technologies ディストリビュータ - DigiKey DigiKey https://www.digikey.jp > skeleton-technologies",
+    "url": "https://www.digikey.jp/ja/supplier-centers/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton joins the EU- Japan Business Round Table as ... — Skeleton joins the EU- Japan Business Round Table as ... Skeleton Technologies https://www.skeletontech.com > news",
+    "url": "https://www.skeletontech.com/news/skeleton-technologies-joins-the-eu-japan-business-round-table-as-a-new-european-representative",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies - LinkedIn — Skeleton Technologies - LinkedIn LinkedIn Estonia https://ee.linkedin.com > company > s...",
+    "url": "https://ee.linkedin.com/company/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies | EIT - European Union — Skeleton Technologies | EIT - European Union European Institute of Innovation & Technology (EIT) https://www.eit.europa.eu > skeleton-t...",
+    "url": "https://www.eit.europa.eu/news-events/success-stories/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies — Skeleton Technologies Skeleton Technologies https://www.skeletontech.com",
+    "url": "https://www.skeletontech.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies - Company Profile and News — Skeleton Technologies - Company Profile and News Graphene-Info https://www.graphene-info.com > ske...",
+    "url": "https://www.graphene-info.com/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies | Tallinn - Facebook — Skeleton Technologies | Tallinn - Facebook Facebook https://www.facebook.com > ... > Energy Company",
+    "url": "https://www.facebook.com/skeletontech/",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies Pitch Deck: All 17 Slides + Teardown — Skeleton Technologies Pitch Deck: All 17 Slides + Teardown Startup Fundraising https://startupfundraising.com > articles",
+    "url": "https://startupfundraising.com/library/articles/skeleton-technologies-pitch-deck-teardown",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens invests in Skeleton Technologies expanding its data ... — Siemens invests in Skeleton Technologies expanding its data ... Siemens Press https://press.siemens.com > pressrelease",
+    "url": "https://press.siemens.com/global/en/pressrelease/siemens-invests-skeleton-technologies-expanding-its-data-center-portfolio",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies Announces First Close of Pre-IPO ... — Skeleton Technologies Announces First Close of Pre-IPO ... Axon Partners Group https://axonpartnersgroup.com > skel...",
+    "url": "https://axonpartnersgroup.com/skeleton-technologies-announces-first-close-of-pre-ipo-funding-round-with-initial-e33-million-investment/",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies Revenue , Valuation, Funding & Investors — Skeleton Technologies Revenue , Valuation, Funding & Investors Multiples.vc https://multiples.vc > Companies",
+    "url": "https://multiples.vc/private-comps/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies - Valuation, Funding & Investors — Skeleton Technologies - Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/65562-49",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton raises €41.3 million in equity round from top ... — Skeleton raises €41.3 million in equity round from top ... Skeleton Technologies https://www.skeletontech.com > news",
+    "url": "https://www.skeletontech.com/news/skeleton-technologies-raises-41.3-million-in-equity-round-from-top-european-entrepreneurs",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies — venture-backed company profile — Skeleton Technologies — venture-backed company profile Dealroom https://dealroom.co > companies > sk...",
+    "url": "https://dealroom.co/companies/skeleton-technologies/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Skeleton Technologies (@skel_tech) / X Skeleton Technologies (@skel_tech) / X X https://x.com > skel_tech",
+    "url": "https://x.com/skel_tech",
+    "pass": 3
+   },
+   {
+    "quote": "AGTP on X: \"BREAKING: Estonia's Skeleton Technologies hits ... AGTP on X: \"BREAKING: Estonia's Skeleton Technologies hits ... X https://x.com > @AGTPinsights",
+    "url": "https://x.com/AGTPinsights/status/2110429556943589540",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies on X Skeleton Technologies on X X https://x.com > @skel_tech",
+    "url": "https://x.com/skel_tech/status/1790002293821075613",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Skeleton Technologies - LinkedIn Skeleton Technologies - LinkedIn LinkedIn Estonia https://ee.linkedin.com > company > s...",
+    "url": "https://ee.linkedin.com/company/skeleton-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Taavi Madiberk - CEO, Skeleton Technologies - LinkedIn Taavi Madiberk - CEO, Skeleton Technologies - LinkedIn LinkedIn Estonia https://ee.linkedin.com > madiberk",
+    "url": "https://ee.linkedin.com/in/madiberk",
+    "pass": 3
+   },
+   {
+    "quote": "Skeleton Technologies and Powall have signed a ... - LinkedIn Skeleton Technologies and Powall have signed a ... - LinkedIn LinkedIn https://www.linkedin.com > pulse > s...",
+    "url": "https://www.linkedin.com/pulse/skeleton-technologies-powall-have-signed-memorandum-understanding-v4y1e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Skeleton Technologies | Tallinn - Facebook Skeleton Technologies | Tallinn - Facebook Facebook https://www.facebook.com > ... > Energy Company",
+    "url": "https://www.facebook.com/skeletontech/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.skeletontech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skeletontech.com/news/skeleton-invests-220-m-eur-in-leipzig-area-to-build-the-worlds-largest-supercapacitor-factory-in-partnership-with-siemens",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skeletontech.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skeletontech.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skeletontech.com/datacenters-peak-shaving-power-backup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skeletontech.com/news/skeleton-technologies-secures-strategic-investment-led-by-siemens-to-expand-us-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skeletontech.com/news/skeleton-invests-220-m-eur-in-leipzig-area-to-build-the-worlds-largest-supercapacitor-factory-in-partnership-with-siemens",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skeletontech.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skeletontech.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skeletontech.com/datacenters-peak-shaving-power-backup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skeletontech.com/all-products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skeletontech.com/news/skeleton-technologies-secures-strategic-investment-led-by-siemens-to-expand-us-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skeletontech.com/all-products",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.skeletontech.com/hubfs/250814_CompanyCultureCode_2025-update.pdf?hsLang=en",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.skeletontech.com/hubfs/Siemens-Skeleton-investment.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.altium.com/jp/company/customer-success/transforming-energy-storage-skeleton-technologies-supercapacitors?srsltid=AYCX9vIBKoMeaCMO-886X3fWwr_IeLWA4XVu5uZtxT1b4peNKjjMprVH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni.com/jp/news/2021/release/00021.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.energy-storage.news/skeleton-tech-begins-manufacturing-high-power-solutions-to-ai-boom-in-europe/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni.com/jp/news/2023/release/00069.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sgforum.impress.co.jp/news/4270",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digikey.jp/ja/supplier-centers/skeleton-technologies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ee.linkedin.com/company/skeleton-technologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.eit.europa.eu/news-events/success-stories/skeleton-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eit.europa.eu/news-events/success-stories/skeleton-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.graphene-info.com/skeleton-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/skeletontech/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://press.siemens.com/global/en/pressrelease/siemens-invests-skeleton-technologies-expanding-its-data-center-portfolio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.graphene-info.com/skeleton-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=UYn0mVyfUHs",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://multiples.vc/private-comps/skeleton-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/65562-49",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/skeleton-tech/__Rt2u3rypsPbIDB4t-4HOtrMM-ZCsYpMn6nzfbLJ4Dgo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/skel_tech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AGTPinsights/status/2110429556943589540",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/skel_tech/status/1790002293821075613",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ee.linkedin.com/company/skeleton-technologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ee.linkedin.com/in/madiberk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/skeleton-technologies-powall-have-signed-memorandum-understanding-v4y1e",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/skeletontech/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/skel_tech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/skel_tech",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Skeleton Technologies 日本 導入",
+   "results": [
+    "https://www.altium.com/jp/company/customer-success/transforming-energy-storage-skeleton-technologies-supercapacitors?srsltid=AYCX9vIBKoMeaCMO-886X3fWwr_IeLWA4XVu5uZtxT1b4peNKjjMprVH",
+    "https://www.marubeni.com/jp/news/2021/release/00021.html",
+    "https://www.skeletontech.com/skeleton-research-development-journey",
+    "https://www.energy-storage.news/skeleton-tech-begins-manufacturing-high-power-solutions-to-ai-boom-in-europe/",
+    "https://energy-shift.com/news/5818cdd4-4b5b-4fcb-bfef-09803216897a",
+    "https://www.remio.ai/ja/post/skeleton-technologies-siemens-investment-creates-a-unicorn-but-execution-come-ja",
+    "https://www.skeletontech.com/skeleton-blog",
+    "https://www.dbj-digital.jp/skeleton/cash/",
+    "https://de.wikipedia.org/wiki/Skeleton_Technologies"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Skeleton Technologies 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.marubeni.com/jp/news/2023/release/00069.html",
+    "https://www.skeletontech.com/our-distributors",
+    "https://sgforum.impress.co.jp/news/4270",
+    "https://www.digikey.jp/ja/supplier-centers/skeleton-technologies",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=5842",
+    "https://www.nextmobility.jp/car_parts/marubeni-invests-in-an-estonian-company-that-develops-and-manufactures-ultracapacitors20210304/",
+    "https://www.mordorintelligence.com/ja/industry-reports/electric-double-layer-capacitor-market",
+    "https://www.zaikostore.com/zaikostore/maker?srsltid=AYCX9vLUVqusTPo-yu9kgj4MQjoBUWSgefOmOo0ZQdvSw7-f0m_qcLls",
+    "https://www.digikey.tw/zh/supplier-centers/skeleton-technologies",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Skeleton Technologies Japan",
+   "results": [
+    "https://www.skeletontech.com/news/skeleton-technologies-joins-the-eu-japan-business-round-table-as-a-new-european-representative",
+    "https://ee.linkedin.com/company/skeleton-technologies",
+    "https://www.eit.europa.eu/news-events/success-stories/skeleton-technologies",
+    "https://www.skeletontech.com/",
+    "https://www.graphene-info.com/skeleton-technologies",
+    "https://press.siemens.com/global/en/pressrelease/siemens-invests-skeleton-technologies-expanding-its-data-center-portfolio",
+    "https://www.youtube.com/channel/UC6LTIsCZ_zx8nJQg8gW_VlA",
+    "https://www.marubeni.com/en/news/2023/release/00069.html",
+    "https://x.com/skel_tech",
+    "https://www.skeletontech.com/our-distributors"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Skeleton Technologies manufacturing customer case study",
+   "results": [
+    "https://www.skeletontech.com/",
+    "https://www.eit.europa.eu/news-events/success-stories/skeleton-technologies",
+    "https://www.graphene-info.com/skeleton-technologies",
+    "https://www.facebook.com/skeletontech/",
+    "https://startupfundraising.com/library/articles/skeleton-technologies-pitch-deck-teardown",
+    "https://x.com/skel_tech",
+    "https://battery-tech.net/company/skeleton-technologies/",
+    "https://estonianworld.com/business/skeleton-technologies-valued-at-more-than-usd1-billion-after-siemens-led-investment/",
+    "https://blog.siemens.com/2024/05/skeleton-and-siemens-a-powerful-partnership-revolutionizing-energy-storage/",
+    "https://www.casestudies.com/company/struto/case-study/skeleton-technologies-customer-case-study"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Skeleton Technologies white label OR reseller OR partner program",
+   "results": [
+    "https://www.skeletontech.com/",
+    "https://press.siemens.com/global/en/pressrelease/siemens-invests-skeleton-technologies-expanding-its-data-center-portfolio",
+    "https://www.graphene-info.com/skeleton-technologies",
+    "https://www.youtube.com/watch?v=UYn0mVyfUHs",
+    "https://axonpartnersgroup.com/skeleton-technologies-announces-first-close-of-pre-ipo-funding-round-with-initial-e33-million-investment/",
+    "https://www.datacenterdynamics.com/en/news/dg-matrix-skeleton-technologies-partner-on-800v-dc-power-systems-for-ai-data-centers/",
+    "https://pitchbook.com/profiles/company/65562-49",
+    "https://capital-riesgo.es/en/articles/skeleton-technologies-backed-by-axon-announces-the-first-close-of-its-pre-ipo-funding-round-with-an-initial-investment-of-33-million/",
+    "https://www.instagram.com/skeletontechnologies/",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Skeleton Technologies founded funding employees revenue",
+   "results": [
+    "https://multiples.vc/private-comps/skeleton-technologies",
+    "https://pitchbook.com/profiles/company/65562-49",
+    "https://tracxn.com/d/companies/skeleton-tech/__Rt2u3rypsPbIDB4t-4HOtrMM-ZCsYpMn6nzfbLJ4Dgo",
+    "https://www.skeletontech.com/news/skeleton-technologies-raises-41.3-million-in-equity-round-from-top-european-entrepreneurs",
+    "https://dealroom.co/companies/skeleton-technologies/",
+    "https://www.owler.com/company/skeletontech",
+    "https://equityzen.com/company/skeletontechnologies/",
+    "https://vestbee.com/insights/articles/skeleton-technologies-lands-33-m",
+    "https://www.crunchbase.com/organization/skeleton-technologies",
+    "https://compworth.com/company/skeleton-technologies"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Skeleton Technologies",
+   "results": [
+    "https://note.com/fujitsu_pr/n/nf4d1a3fcb4e3?hl=en",
+    "https://note.com/rich_quince7643/n/n1cffe43c194a",
+    "https://note.com/tanabe_fragments/n/n099d05cc8e78?hl=en",
+    "https://note.com/blueskytech/n/nbda71473c6d2?hl=en",
+    "https://note.com/golferdayo/n/na8f69dc61f8e?hl=en",
+    "https://note.com/stpeteishii/n/n77c7365d9fc1?hl=en",
+    "https://note.com/novel_viper2531/n/nb70cc5da0b36?hl=en",
+    "https://note.com/labaiueo777/n/nfd59fd748af6?hl=en",
+    "https://note.com/montblanc566/n/n06b15490d9e2?hl=en",
+    "https://note.com/ronjii/n/nbdfa99ba10ba?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Skeleton Technologies",
+   "results": [
+    "https://x.com/skel_tech",
+    "https://x.com/AGTPinsights/status/2110429556943589540",
+    "https://x.com/tmadiberk",
+    "https://x.com/skel_tech/status/1790002293821075613",
+    "https://x.com/AlarKaris/status/2102772665513885843",
+    "https://x.com/EZaharievaEU/status/2118270205293908174",
+    "https://x.com/MikeNelson/status/2118256681897578666",
+    "https://x.com/SCS_Publishing",
+    "https://x.com/jaanikamerilo/status/2106255759776657887",
+    "https://x.com/skel_tech/status/1961415402832945606"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Skeleton Technologies",
+   "results": [
+    "https://ee.linkedin.com/company/skeleton-technologies",
+    "https://ee.linkedin.com/in/madiberk",
+    "https://www.linkedin.com/pulse/skeleton-technologies-powall-have-signed-memorandum-understanding-v4y1e",
+    "https://www.linkedin.com/posts/skeleton-technologies_houston-texas-ai-activity-7425167051746390017-Yaif",
+    "https://ee.linkedin.com/in/markus-raid-06a6ab62",
+    "https://www.linkedin.com/posts/startup-eu-official_skeleton-technologies-tops-1-billion-valuation-activity-7516136515643731969-Y0lO",
+    "https://www.linkedin.com/posts/markus-grabmeier-370b02213_excited-to-share-siemens-strategic-investment-activity-7516114468335177728-bmoX",
+    "https://www.linkedin.com/posts/tviguier_skeleton-technologies-has-raised-a-nine-digit-activity-7516143296373530624-a2tm",
+    "https://ee.linkedin.com/in/margus-vals-b07b584",
+    "https://fi.linkedin.com/company/skeleton-technologies"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Skeleton Technologies",
+   "results": [
+    "https://www.facebook.com/skeletontech/",
+    "https://www.facebook.com/skeletontech/posts/skeleton-is-now-firmly-focused-on-ai-data-centers-power-grids-and-the-defense-in/1427098322759740/",
+    "https://www.facebook.com/skeletontech/posts/skeleton-technologies-secures-strategic-investment-led-by-siemens-to-expand-us-m/1809985091137726/",
+    "https://www.facebook.com/EITnews/posts/2009-a-small-lab-in-tartu-estonia-2026-a-company-valued-at-more-than-1-billion-s/1567558625398148/",
+    "https://www.facebook.com/skeletontech/posts/1428772999258939/",
+    "https://www.facebook.com/EstonianWorld/posts/estonia-has-a-new-unicorn-and-it-is-targeting-one-of-the-biggest-bottlenecks-in-/1713163534148152/",
+    "https://www.facebook.com/skeletontech/videos/these-blackouts-could-have-been-prevented-says-skeleton-technologies-ceo-co-foun/683202394358799/",
+    "https://www.facebook.com/skeletontech/posts/7m-boost-for-skeleton-our-varkaus-superbattery-plant-is-scaling-up-to-meet-deman/1411280014341571/",
+    "https://www.facebook.com/groups/1008908201222470/posts/1282494163863871/",
+    "https://www.facebook.com/skeletontech/photos/3090737650953902/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Skeleton Technologies note 社長",
+   "results": [
+    "https://www.skeletontech.com/",
+    "https://app.dealroom.co/news/note/skeleton-technologies-raises-33m-in-pre-ipo-round-eyes-2027-us-listing",
+    "https://press.siemens.com/global/en/pressrelease/siemens-invests-skeleton-technologies-expanding-its-data-center-portfolio",
+    "https://x.com/skel_tech",
+    "https://www.trendingtopics.eu/skeleton-technologies-siemens-unicorn-en/",
+    "https://vestbee.com/insights/articles/skeleton-technologies-lands-33-m",
+    "https://www.youtube.com/channel/UC6LTIsCZ_zx8nJQg8gW_VlA",
+    "https://axonpartnersgroup.com/skeleton-technologies-announces-first-close-of-pre-ipo-funding-round-with-initial-e33-million-investment/",
+    "https://tradewithestonia.com/skeleton-technologies-taiwania-capital-deal/",
+    "https://www.skeletontech.com/news"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Skeleton Technologies X 投稿",
+   "results": [
+    "https://x.com/skel_tech",
+    "https://www.skeletontech.com/",
+    "https://www.youtube.com/channel/UC6LTIsCZ_zx8nJQg8gW_VlA",
+    "https://passive-components.eu/skeleton-technologies-expands-in-u-s-to-power-ai-data-centers/",
+    "https://www.facebook.com/skeletontech/",
+    "https://innoenergy.com/news-resources/skeleton-technologies-opens-new-superfactory-in-germany/",
+    "https://www.idtechex.com/en/timeline/skeleton-technologies/c67670",
+    "https://www.energy-storage.news/skeleton-tech-begins-manufacturing-high-power-solutions-to-ai-boom-in-europe/",
+    "https://linktr.ee/skeletontech",
+    "https://www.skeletontech.com/news"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部26頁・検索12回）"
+ }
+}

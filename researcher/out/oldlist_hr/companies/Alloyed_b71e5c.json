@@ -1,0 +1,1147 @@
+{
+ "name": "Alloyed",
+ "aliases": [],
+ "context": "旧営業リスト｜Advanced Materials｜日本進出済",
+ "researched_at": "2026-11-11T04:37:23.739763+00:00",
+ "official_url": "https://www.alloyed.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2020 年 5 月 18 日",
+    "url": "https://www.nttdata-xam.com/wp-content/uploads/2024/07/%E8%8B%B1%E3%83%BBAlloyed%E7%A4%BE%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%9020240724.pdf",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2017 年 3 月",
+    "url": "https://www.nttdata-xam.com/wp-content/uploads/2024/07/%E8%8B%B1%E3%83%BBAlloyed%E7%A4%BE%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%9020240724.pdf",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2017年",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/241120_1.html",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都港区港南 2 丁目 16-1 品川イーストワンタワー",
+    "url": "https://www.nttdata-xam.com/wp-content/uploads/2024/07/%E8%8B%B1%E3%83%BBAlloyed%E7%A4%BE%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%9020240724.pdf",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "Unit 15 Oxford Pioneer Park, Mead Road, Yarnton, Oxfordshire, England, OX5 1QU",
+    "url": "https://www.nttdata-xam.com/wp-content/uploads/2024/07/%E8%8B%B1%E3%83%BBAlloyed%E7%A4%BE%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%9020240724.pdf",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "Unit 15 Oxford Industrial Park, Mead Road,Yarnton, Oxfordshire, England, OX5 1QU",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/241120_1.html",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "label": "E-mail",
+    "value": "nttdata-pr-inquiries@am.nttdata.co.jp",
+    "url": "https://www.nttdata-xam.com/wp-content/uploads/2024/07/%E8%8B%B1%E3%83%BBAlloyed%E7%A4%BE%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%9020240724.pdf",
+    "pass": 3
+   },
+   {
+    "label": "E-mail",
+    "value": "hq-staff@nttdata-xam.com",
+    "url": "https://www.nttdata-xam.com/wp-content/uploads/2024/07/%E8%8B%B1%E3%83%BBAlloyed%E7%A4%BE%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%9020240724.pdf",
+    "pass": 3
+   },
+   {
+    "label": "E-mail",
+    "value": "nttdata_pjtkla@hml.nttdata.co.jp",
+    "url": "https://www.nttdata-xam.com/wp-content/uploads/2024/07/%E8%8B%B1%E3%83%BBAlloyed%E7%A4%BE%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%9020240724.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Production control, in-process monitoring, qualification, and QMS. All digital.",
+    "url": "https://alloyed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminating fragmentation across design, process and production to make AM work, delivering differentiated components.",
+    "url": "https://alloyed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Magnesium 3D-printing",
+    "url": "https://alloyed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrated AM & process compensation",
+    "url": "https://alloyed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrated AM & post-processing",
+    "url": "https://alloyed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scalable, flexible 3D‑printed jet engines.",
+    "url": "https://alloyed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production and development facilities | AS9100D certification",
+    "url": "https://alloyed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production facility | AS9100D certification",
+    "url": "https://alloyed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace America: U.K. startup eyes faster design, production process for turbojet drone engines",
+    "url": "https://alloyed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Oxford Magazine: Finding my path — how curiosity for science led to a career in 3D printing",
+    "url": "https://alloyed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ATI backs Alloyed’s 3D printed superalloy for jet engines",
+    "url": "https://alloyed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The company completes a pre-seed funding round.",
+    "url": "https://alloyed.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Series A funding led by JX and Oxford Science Enterprise.",
+    "url": "https://alloyed.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Certification and production of first biomedical implant.",
+    "url": "https://alloyed.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Series A extension led by Anglo and Oxford Science Enterprise.",
+    "url": "https://alloyed.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Opening of Abingdon Foxcombe component development and production site.",
+    "url": "https://alloyed.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Opening of production site in Seattle.",
+    "url": "https://alloyed.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "He is a co-founder with Dr André Németh (Lincoln, 2014) of Alloyed, now with seven separate sites across Oxfordshire and a workforce approaching 300, at least 20 percent of whom are Oxford alumni – a subject we come back to within the broader context of the Oxford-London-Cambridge growth triangle.",
+    "url": "https://alloyed.com/news/quad-magazine-we-re-building-a-big-company",
+    "pass": 1
+   },
+   {
+    "quote": "リンターによる先進的な金属部品の設計、製造を強みとする ALLOYED LIMITED （本社：Yarnton, Oxfordshire,",
+    "url": "https://www.nttdata-xam.com/wp-content/uploads/2024/07/%E8%8B%B1%E3%83%BBAlloyed%E7%A4%BE%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%9020240724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本社所在地：Unit 15 Oxford Pioneer Park, Mead Road, Yarnton, Oxfordshire, England, OX5 1QU",
+    "url": "https://www.nttdata-xam.com/wp-content/uploads/2024/07/%E8%8B%B1%E3%83%BBAlloyed%E7%A4%BE%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%9020240724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "E-mail: nttdata-pr-inquiries@am.nttdata.co.jp",
+    "url": "https://www.nttdata-xam.com/wp-content/uploads/2024/07/%E8%8B%B1%E3%83%BBAlloyed%E7%A4%BE%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%9020240724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Unit 15 Oxford Industrial Park, Mead Road,Yarnton, Oxfordshire, England, OX5 1QU",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/241120_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Alloyed, originally set up by University of Oxford aerospace materials engineers, will use the cash to invest in its digital development platform and double the number of specialist 3D printers it has at facilities in Oxfordshire and the US.",
+    "url": "https://alloyed.com/news/metals-specialist-alloyed-is-big-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Production control, in-process monitoring, qualification, and QMS. All digital.",
+    "url": "https://alloyed.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Eliminating fragmentation across design, process and production to make AM work, delivering differentiated components.",
+    "url": "https://alloyed.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Magnesium 3D-printing",
+    "url": "https://alloyed.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Integrated AM & process compensation",
+    "url": "https://alloyed.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Integrated AM & post-processing",
+    "url": "https://alloyed.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Scalable, flexible 3D‑printed jet engines.",
+    "url": "https://alloyed.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Production and development facilities | AS9100D certification",
+    "url": "https://alloyed.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Production facility | AS9100D certification",
+    "url": "https://alloyed.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace America: U.K. startup eyes faster design, production process for turbojet drone engines",
+    "url": "https://alloyed.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Oxford Magazine: Finding my path — how curiosity for science led to a career in 3D printing",
+    "url": "https://alloyed.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ATI backs Alloyed’s 3D printed superalloy for jet engines",
+    "url": "https://alloyed.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Result of merger between OxMet Technologies, a world leader in the computational metallurgy (alloy design), and Betatype, a world leader in application and process development for metal 3D printing .",
+    "url": "https://nmmjx-dc.com/collaboration/startup/alloyed.html",
+    "pass": 3
+   },
+   {
+    "quote": "Proprietary digital solutions for better metal components:",
+    "url": "https://nmmjx-dc.com/collaboration/startup/alloyed.html",
+    "pass": 3
+   },
+   {
+    "quote": "Unique process and design tools to 3D print metals more accurately and faster",
+    "url": "https://nmmjx-dc.com/collaboration/startup/alloyed.html",
+    "pass": 3
+   },
+   {
+    "quote": "Alloyed Digital Manufacture for pilot-scale production",
+    "url": "https://nmmjx-dc.com/collaboration/startup/alloyed.html",
+    "pass": 3
+   },
+   {
+    "quote": "Wide range of process simulation and mechanical engineering tools",
+    "url": "https://nmmjx-dc.com/collaboration/startup/alloyed.html",
+    "pass": 3
+   },
+   {
+    "quote": "Advertising, Technology & Marketing",
+    "url": "https://alloyed.io/insights/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Adtech leader doubles creative output during peak spend using outsourcing creative services and AI-powered QA automation—cutting costs, accelerating launches, and improving campaign efficiency.",
+    "url": "https://alloyed.io/insights/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Strengthen AML and KYC operations with improved accuracy, reduced false positives, and scalable compliance workflows for global growth.",
+    "url": "https://alloyed.io/insights/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Unlocking 30% Greater Efficiency for a Global Advertising Brand Through Operational Excellence",
+    "url": "https://alloyed.io/insights/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how structured workflows, QA, and governance improved campaign delivery, accuracy, and efficiency for a global ad brand.",
+    "url": "https://alloyed.io/insights/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "How a Global Financial Intelligence Firm Improved Data Accuracy and Accelerated Risk Insights",
+    "url": "https://alloyed.io/insights/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "See how a financial intelligence firm achieved 99%+ data accuracy, faster risk insights, and improved reporting with optimized data operations.",
+    "url": "https://alloyed.io/insights/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "How a Global Sports Brand Protected Sponsorship Revenue and Scaled Operations Without Adding Headcount",
+    "url": "https://alloyed.io/insights/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how a global sports brand protected sponsorship revenue, improved ad operations accuracy to 99.99%, and scaled multi-channel media operations without increasing headcount.",
+    "url": "https://alloyed.io/insights/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how a global media publisher scaled 80 monthly social campaigns, achieved 100% brand safety compliance, and improved analytics accuracy with integrated operations support.",
+    "url": "https://alloyed.io/insights/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Reduced campaign profitability and strained advertiser relationships",
+    "url": "https://alloyed.io/insights/case-studies/elevating-customer-engagement-through-integrated-social-planning-analytics-and-partner-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "From driving the front line of social engagement across Facebook, Instagram, X, and LinkedIn to building smart, predictive media plans that reduce surprises downstream, Alloyed brought structure to complexity and clarity to our client’s performance.",
+    "url": "https://alloyed.io/insights/case-studies/elevating-customer-engagement-through-integrated-social-planning-analytics-and-partner-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "Reduced brand safety flags for this client while improving cross-platform data checks, social pacing, and performance reporting",
+    "url": "https://alloyed.io/insights/case-studies/elevating-customer-engagement-through-integrated-social-planning-analytics-and-partner-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "Crafting media plans based on audience, budget, and channel strategy by ensuring campaigns are structured for performance from day one and proactively forecasting to predict spending, pacing, and performance outcomes",
+    "url": "https://alloyed.io/insights/case-studies/elevating-customer-engagement-through-integrated-social-planning-analytics-and-partner-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "Third-party discrepancy reporting to resolve delivery or spend mismatches, protecting reputation and ensuring ads appear in safe, high-quality environments",
+    "url": "https://alloyed.io/insights/case-studies/elevating-customer-engagement-through-integrated-social-planning-analytics-and-partner-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "Leverage our deep campaign insights to optimize in-flight and develop sharper strategies while providing comprehensive performance dashboards",
+    "url": "https://alloyed.io/insights/case-studies/elevating-customer-engagement-through-integrated-social-planning-analytics-and-partner-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "Consistent, Cross-Platform Brand Presence:",
+    "url": "https://alloyed.io/insights/case-studies/elevating-customer-engagement-through-integrated-social-planning-analytics-and-partner-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive analytics translated raw engagement data into clear narratives about customer behavior, empowering the client to build sharper, proactive campaign strategies",
+    "url": "https://alloyed.io/insights/case-studies/elevating-customer-engagement-through-integrated-social-planning-analytics-and-partner-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "By preventing data discrepancies and resolving partner issues early, Alloyed created a more coordinated ecosystem, allowing the brand to respond to market shifts and audience needs faster than ever before",
+    "url": "https://alloyed.io/insights/case-studies/elevating-customer-engagement-through-integrated-social-planning-analytics-and-partner-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "Scaling Digital Ad Production Through Creative Outsourcing Yields Better Support",
+    "url": "https://alloyed.io/insights/case-studies/elevating-customer-engagement-through-integrated-social-planning-analytics-and-partner-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "that solve real problems",
+    "url": "https://alloyed.com/technologies",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Updates from our technology, qualification, and manufacturing teams.",
+    "url": "https://alloyed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace America: U.K. startup eyes faster design, production process for turbojet drone engines",
+    "url": "https://alloyed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We are redefining what metal manufacturing can be. Alloyed is made of people who want to build technology that ships real, qualified, industrial-grade components.",
+    "url": "https://alloyed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scientific credentials. Industrial experience.",
+    "url": "https://alloyed.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Certification and production of first biomedical implant.",
+    "url": "https://alloyed.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "The Seattle site receives AS9100 aerospace certification.",
+    "url": "https://alloyed.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Unit 15 Oxford Industrial Park, Mead Road,Yarnton, Oxfordshire, England, OX5 1QU",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/241120_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "An advanced metals business has secured £37 million in investment from British, Japanese and German backers to help it develop its digital design software and expand its additive manufacturing in the UK.",
+    "url": "https://alloyed.com/news/metals-specialist-alloyed-is-big-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Alloyed, originally set up by University of Oxford aerospace materials engineers, will use the cash to invest in its digital development platform and double the number of specialist 3D printers it has at facilities in Oxfordshire and the US.",
+    "url": "https://alloyed.com/news/metals-specialist-alloyed-is-big-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Updates from our technology, qualification, and manufacturing teams.",
+    "url": "https://alloyed.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace America: U.K. startup eyes faster design, production process for turbojet drone engines",
+    "url": "https://alloyed.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "We are redefining what metal manufacturing can be. Alloyed is made of people who want to build technology that ships real, qualified, industrial-grade components.",
+    "url": "https://alloyed.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Media Publisher Case Study: Scaling Social Campaigns & Analytics",
+    "url": "https://alloyed.io/insights/case-studies/elevating-customer-engagement-through-integrated-social-planning-analytics-and-partner-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "In most cases, the benefits of using AM are not high enough to justify the cost and industrial effort required for adoption. Architect and Engine enable hand‑in‑hand optimisation of component design and manufacturing process. Our engineers move seamlessly between 2D and 3D representations, between geometry and toolpath, to deliver maximum performance at the lowest cycle time possible.",
+    "url": "https://alloyed.com/technologies",
+    "pass": 3
+   },
+   {
+    "quote": "AM is ready for production in principle, but there are challenges in practice. Stochastic process behaviour and machine variability make qualification expensive and scaling difficult. Nexus is our manufacturing data backbone creating calibrated digital twins of the original builds, AI enabled for machine-agnostic predictable and repeatable industrialisation.",
+    "url": "https://alloyed.com/technologies",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "株式会社 NTT データ ザムテクノロジーズ",
+    "url": "https://www.nttdata-xam.com/wp-content/uploads/2024/07/%E8%8B%B1%E3%83%BBAlloyed%E7%A4%BE%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%9020240724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 NTT データ（以下：NTT データ）は、世界有数の冶金研究者を有し、合金設計技術と、それを活かした３D プ",
+    "url": "https://www.nttdata-xam.com/wp-content/uploads/2024/07/%E8%8B%B1%E3%83%BBAlloyed%E7%A4%BE%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%9020240724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、３D プリンターによる高度な製造技術を持つ株式会社 NTT データ ザムテクノロジ",
+    "url": "https://www.nttdata-xam.com/wp-content/uploads/2024/07/%E8%8B%B1%E3%83%BBAlloyed%E7%A4%BE%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%9020240724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ット拡充を進め、さらに日本事業を拡大させていくため、積極的に国内外での M＆A 投資をしていくことを宣言していま",
+    "url": "https://www.nttdata-xam.com/wp-content/uploads/2024/07/%E8%8B%B1%E3%83%BBAlloyed%E7%A4%BE%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%9020240724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ことであり、そのテーマは日本の産業上の要請と非常に一致しています",
+    "url": "https://www.nttdata-xam.com/wp-content/uploads/2024/07/%E8%8B%B1%E3%83%BBAlloyed%E7%A4%BE%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%9020240724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "XAM は、この技術を日本市場に投入するた",
+    "url": "https://www.nttdata-xam.com/wp-content/uploads/2024/07/%E8%8B%B1%E3%83%BBAlloyed%E7%A4%BE%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%9020240724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "商号：株式会社エヌ・ティ・ティ・データ・ザムテクノロジーズ",
+    "url": "https://www.nttdata-xam.com/wp-content/uploads/2024/07/%E8%8B%B1%E3%83%BBAlloyed%E7%A4%BE%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%9020240724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本社所在地：東京都港区港南 2 丁目 16-1 品川イーストワンタワー",
+    "url": "https://www.nttdata-xam.com/wp-content/uploads/2024/07/%E8%8B%B1%E3%83%BBAlloyed%E7%A4%BE%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%9020240724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ＪＸ金属株式会社（社長：林陽一、以下「当社」）は、Alloyed Ltd.（CEO：Michael Holmes、以下「Alloyed社」）が新たに実施した第三者割当増資の一部を引き受け、追加出資したことをお知らせいたします",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/241120_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、2019年にAlloyed社の株式を株式会社国際協力銀行と共に取得(※1)して以来、長年培った粉体制御技術や合金製造技術とAlloyed社のシミュレーション技術を組み合わせ、独自の表面処理を施したL-PBF向け3Dプリンター用銅粉(※2)の開発、当社グループ会社のTANIOBIS社とのシナジーを活かした耐熱合金AMtrinsic®(※3)の共同開発など、様々な取り組みを行ってまいりました",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/241120_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "新たに株式会社日本政策投資銀行、スパークス・アセット・マネジメント株式会社が運営する未来創生3号ファンド等が出資する運びとなり、当社も株式を追加取得をいたしました",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/241120_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "未来創生3号ファンド(スパークス・アセット・マネジメント株式会社)",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/241120_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "ＪＸ金属株式会社（社長：林 陽一、以下「当社」）は、出資先である英国のスタートアップ企業 Alloyed Ltd.（CEO：Michael Holmes、以下「Alloyed社」）及びそのグループ会社であるArgiveが、金属3Dプリンティング技術を活用した防衛用の新型マイクロタービンの開発と試験に成功したことをお知らせいたします",
+    "url": "https://www.jx-nmm.com/newsrelease/2025/20251106_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Times: Metals specialist Alloyed is big in Japan | Alloyed",
+    "url": "https://alloyed.com/news/metals-specialist-alloyed-is-big-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "The Times: Metals specialist Alloyed is big in Japan",
+    "url": "https://alloyed.com/news/metals-specialist-alloyed-is-big-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "An advanced metals business has secured £37 million in investment from British, Japanese and German backers to help it develop its digital design software and expand its additive manufacturing in the UK.",
+    "url": "https://alloyed.com/news/metals-specialist-alloyed-is-big-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "アイテム組合せは日本語版Wikiを参照ください",
+    "url": "https://note.com/pilgrim61/n/n85b14c71c48f",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "E-mail: nttdata-pr-inquiries@am.nttdata.co.jp",
+    "url": "https://www.nttdata-xam.com/wp-content/uploads/2024/07/%E8%8B%B1%E3%83%BBAlloyed%E7%A4%BE%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%9020240724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "E-mail: hq-staff@nttdata-xam.com",
+    "url": "https://www.nttdata-xam.com/wp-content/uploads/2024/07/%E8%8B%B1%E3%83%BBAlloyed%E7%A4%BE%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%9020240724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "E-mail: nttdata_pjtkla@hml.nttdata.co.jp",
+    "url": "https://www.nttdata-xam.com/wp-content/uploads/2024/07/%E8%8B%B1%E3%83%BBAlloyed%E7%A4%BE%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%9020240724.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "英・Alloyed 社との資本業務提携 - nttdata-xam.com — 業務提携の内容 NTT データ ザムテクノロジーズと Alloyed 社は、特に以下のシナジー創出を目指し、特定の保有技術を相互にライセンスし、一部技術については独占的使用権を設定します。",
+    "url": "https://www.nttdata-xam.com/wp-content/uploads/2024/07/英・Alloyed社との資本業務提携契約を締結20240724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Alloyed Ltd.の株式を追加取得 ―先端素材分野において、オックスフォ...Alloyed社グループによる新型3Dプリント・マイクロタービンの開発・試...The Times: Metals specialist Alloyed is big in Japanプレスリリース：英・Alloyed社との資本業務提携契約を締結 | 株式会...Alloyed｜JX金属グループの先端素材英・Alloyed社との資本業務提携 | NTTデータグループ - NTT DATA GROU... — Nov 20, 2024 · 今後当社は、Alloyed社への追加出資および協業を通じてデータセンター、航空宇宙・防衛、半導体製造装置市場向けの先端材料開発を推進し、これら有望市場での事業拡大を目指します。 Nov 6, 2025 · Alloyedグループは独自のプラットフォーム「Alloys-by-",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/241120_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Alloyed社グループによる新型3Dプリント・マイクロタービンの開発・試... — Nov 6, 2025 · Alloyedグループは独自のプラットフォーム「Alloys-by-Design®」を基盤に、合金設計や造形設計を組み合わせた金属3Dプリンティング技術を展開しています。",
+    "url": "https://www.jx-nmm.com/newsrelease/2025/20251106_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Times: Metals specialist Alloyed is big in Japan — Alloyed, originally set up by University of Oxford aerospace materials engineers, will use the cash to invest in its digital development platform and double the number of specialist 3D printers it has at facilities in Oxfordshire and the US.",
+    "url": "https://alloyed.com/news/metals-specialist-alloyed-is-big-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース：英・Alloyed社との資本業務提携契約を締結 | 株式会... — Jul 24, 2024 · NTTデータ ザムテクノロジーズとAlloyed社は、2020年以来、協力関係を構築してまいりましたが、この度、合金開発領域で世界最高水準の技術力と3Dプリンター利用技術を有するAlloyed社との関係を発展させるために、資本業務提携を行うことに合意しました。",
+    "url": "https://www.nttdata-xam.com/news/info/article_6199/",
+    "pass": 3
+   },
+   {
+    "quote": "Alloyed • Metal re-engineered — The Economist: Alloyed shows how Britain hopes to make things in the future Insights",
+    "url": "https://alloyed.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Alloyed｜JX金属グループの先端素材 — Proprietary digital solutions for better metal components: Alloyed社の主要製品、主要技術をご紹介します。",
+    "url": "https://nmmjx-dc.com/collaboration/startup/alloyed.html",
+    "pass": 3
+   },
+   {
+    "quote": "Alloyed Ltd.の株式を追加取得 ―先端素材分野において、オックスフォ...Alloyed社グループによる新型3Dプリント・マイクロタービンの開発・試...Alloyed Japan株式会社（東京都港区） 概要 - 企業情報英・Alloyed 社との資本業務提携Alloyed - LinkedIn — Nov 20, 2024 · Alloyed社は、独自のAlloys-by-Design® (ABD®)プラットフォームを用い、金属3Dプリンター向けの合金設計、造形設計等の事業を展開する英国オックスフォード大学発のスタートアップです。 同社の高い合金設計技術や3Dプリンティング技術は、先端素材分野における技術革新につながる可能性があるため、国内政府関係金融機関からも注目を集めています。 Nov 6, 2025 · Alloyedグループは独自のプラットフォーム「Alloys-by-",
+    "url": "https://www.jx-nmm.com/newsrelease/2024/241120_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Alloyed Japan株式会社（東京都港区） 概要 - 企業情報 — 概要 Alloyed Japan株式会社 （アロイドジャパン）は東京都港区にある企業です。 法人番号は2010401152503、住所は東京都港区虎ノ門2丁目10番4号です。 この法人は2020年（令和2年）4月24日に法人番号が指定されました。",
+    "url": "https://data-link-plus.com/jp/corporation/2010401152503",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Alloyed — Explore Alloyed case studies showing how enterprise teams scale operations, automation, and outcomes.",
+    "url": "https://alloyed.io/insights/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Media Publisher Case Study: Scaling Social Campaigns & Analytics — From driving the front line of social engagement across Facebook, Instagram, X, and LinkedIn to building smart, predictive media plans that reduce surprises downstream, Alloyed brought structure to complexity and clarity to our client’s performance.",
+    "url": "https://alloyed.io/insights/case-studies/elevating-customer-engagement-through-integrated-social-planning-analytics-and-partner-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "Alloyed • Metal re-engineered — We are redefining what metal manufacturing can be. Alloyed is made of people who want to build technology that ships real, qualified, industrial-grade components.",
+    "url": "https://alloyed.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Technologies | Alloyed — When a new manufacturing method is invented, new alloys are never far behind. Using legacy materials in AM can lead to cracking, distortion, and force you back into designs shaped by manufacturing limits.",
+    "url": "https://alloyed.com/technologies",
+    "pass": 3
+   },
+   {
+    "quote": "The Cash Study 2026 — Alloyed — Alloyed is interviewing 50 manufacturing and distribution finance leaders on collecting cash faster and fixing billing errors. Twenty minutes, full benchmark report.",
+    "url": "https://alloyedinvoicing.com/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "How a Global Sports Brand Protected Sponsorship Revenue and Scaled Operations Without Adding Headcount",
+    "url": "https://alloyed.io/insights/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how a global sports brand protected sponsorship revenue, improved ad operations accuracy to 99.99%, and scaled multi-channel media operations without increasing headcount.",
+    "url": "https://alloyed.io/insights/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Costly makegoods and revenue leakage",
+    "url": "https://alloyed.io/insights/case-studies/elevating-customer-engagement-through-integrated-social-planning-analytics-and-partner-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive analytics translated raw engagement data into clear narratives about customer behavior, empowering the client to build sharper, proactive campaign strategies",
+    "url": "https://alloyed.io/insights/case-studies/elevating-customer-engagement-through-integrated-social-planning-analytics-and-partner-operations/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Risk Of Rain 2 Alloyed Collective 新アイテム評価｜いけがみ Dec 11, 2025 · Alloyed Collective、来ましたね。前回のSeekers Of The Stromでは新サバイバーも新エリートも新アイテムも全てが作りこみ不足の状態でリリースされたような感じでしたが、今回は逆に新サバイバーも新エリートも新アイテムも新ルートもきっちり作りこまれていて、新しい要素を提示してくれています ...",
+    "url": "https://note.com/pilgrim61/n/n85b14c71c48f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Risk Of Rain 2 Alloyed Collective 新アイテム評価｜いけがみ",
+    "url": "https://note.com/pilgrim61/n/n85b14c71c48f",
+    "pass": 3
+   },
+   {
+    "quote": "Risk Of Rain 2 Alloyed Collective 新アイテム評価",
+    "url": "https://note.com/pilgrim61/n/n85b14c71c48f",
+    "pass": 3
+   },
+   {
+    "quote": "Alloyed Collective、来ましたね。前回のSeekers Of The Stromでは新サバイバーも新エリートも新アイテムも全てが作りこみ不足の状態でリリースされたような感じでしたが、今回は逆に新サバイバーも新エリートも新アイテムも新ルートもきっちり作りこまれていて、新しい要素を提示してくれています。新アイテムについては、これまであまりつよくなかった要素や、サバイバーへの新たなビルドを提案してくれているとも取れます。今回は追加された新アイテムについて、他記事同様に評価をしていきます。ただ、今回追加されたアイテムは実感が難しいアイテムが多く、評価も微妙に固まっていません。",
+    "url": "https://note.com/pilgrim61/n/n85b14c71c48f",
+    "pass": 3
+   },
+   {
+    "quote": "余談ですが、過去記事で付けた評価も今は変わっているものがあったりします。プレイ理解が進むと評価が変わるのはゲームあるあるですが、その辺についてもいずれ書けたらいいなと。",
+    "url": "https://note.com/pilgrim61/n/n85b14c71c48f",
+    "pass": 3
+   },
+   {
+    "quote": "B：使用キャラ、もしくは場面によっては持っていてもいい。",
+    "url": "https://note.com/pilgrim61/n/n85b14c71c48f",
+    "pass": 3
+   },
+   {
+    "quote": "プレイは基本的に4人マルチを想定しています。",
+    "url": "https://note.com/pilgrim61/n/n85b14c71c48f",
+    "pass": 3
+   },
+   {
+    "quote": "エクリプス ライト（Eclipse Lite）",
+    "url": "https://note.com/pilgrim61/n/n85b14c71c48f",
+    "pass": 3
+   },
+   {
+    "quote": "アイテム取得時の説明文が分かりにくいのですが、スキルクールダウン秒数*1％のバリア（黄色体力）を取得する、です。",
+    "url": "https://note.com/pilgrim61/n/n85b14c71c48f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Alloyed (@alloyed_devs) / X Alloyed @alloyed_devs go here instead: cohost.org/alloyed alloyed.itch.io Joined March 2014",
+    "url": "https://x.com/alloyed_devs",
+    "pass": 3
+   },
+   {
+    "quote": "Jenevieve on X: \"Alloyed Collective has made people too ... Alloyed Collective has made people too complacent bc now we've gotten another dlc thats less than stellar and all of a sudden i guess Seekers looks like a walk in the park comparatively gimme a fucking break",
+    "url": "https://x.com/JennyLowee/status/2119993384421200080",
+    "pass": 3
+   },
+   {
+    "quote": "DMZHUB on X: \"‼️ High-chance spawn locations for ALLOYED ... ‼️ High-chance spawn locations for ALLOYED PLATING and HIGH-TENACITY FIBERS are now marked on the DMZHUB Hajin Map! Also added: 🚀 100% of Unexploded Rocket locations 🛩️ 100% of Crashed Drone locations Happy looting, Operators!",
+    "url": "https://x.com/DMZHUB/status/2117587871045464418",
+    "pass": 3
+   },
+   {
+    "quote": "https://t.co/0ZWfwY0k4l alloyedgirl (digital thing). 117 likes 2 replies. https://t.co/0ZWfwY0k4l",
+    "url": "https://x.com/alloyedgirl/status/1996762515083247845",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Alloyed - LinkedIn Alloyed is a global operations partner that fuses human expertise, AI-enabled automation, and proven process design to help businesses run faster, scale smarter, be more flexible, and perform at...",
+    "url": "https://www.linkedin.com/company/alloyed-io",
+    "pass": 3
+   },
+   {
+    "quote": "Alloyed - LinkedIn Digital Solutions for Metal | Alloyed (formerly OxMet Technologies) delivers next generation performance for metal components through its unique stack of technologies.",
+    "url": "https://www.linkedin.com/company/alloyed/?originalSubdomain=uk",
+    "pass": 3
+   },
+   {
+    "quote": "Alloyed - LinkedIn Digital Solutions for Metal | Alloyed (formerly OxMet Technologies) delivers next generation performance for metal components through its unique stack of technologies.",
+    "url": "https://uk.linkedin.com/company/alloyed",
+    "pass": 3
+   },
+   {
+    "quote": "Alloyed | LinkedIn Digital Solutions for Metal | Alloyed (formerly OxMet Technologies) delivers next generation performance for metal components through its unique stack of technologies.",
+    "url": "https://jp.linkedin.com/company/alloyed",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Alloyed - Facebook Intro Alloyed is a science fiction miniatures war game of mechanized combat. Players control a customizable force made up of powerful mecha called FURYs. Shred your opponents with a hail of bullets or blow them away with a volley of heavy missile fire!",
+    "url": "https://www.facebook.com/AlloyedGame/",
+    "pass": 3
+   },
+   {
+    "quote": "Alloyed Earth Jewelry | Stevensville MD - FacebookAlloyed RPG - FacebookAlloyed Sustainables LLP - FacebookAlloyed Solutions | Price UT - FacebookAlloyed Frequencies - FacebookRisk of Rain 2 Alloyed Collective Montage - Facebook Oct 31, 2026 · Alloyed Earth Jewelry, Stevensville. 2,197 followers · 277 were here. Permanent jewelry now available 🔗⚡️ Specializing in engagement rings, wedding... Sep 2",
+    "url": "https://www.facebook.com/alloyedearth/",
+    "pass": 3
+   },
+   {
+    "quote": "Alloyed RPG - Facebook Sep 29, 2026 · If you’re looking for a fun ttrpg with easy mechanics, Alloyed RPG may just become your new favorite. Thanks to EveraeGames’ Dean and Vicky for your amazing hospitality and platform.",
+    "url": "https://www.facebook.com/AlloyedRPG/",
+    "pass": 3
+   },
+   {
+    "quote": "Alloyed Sustainables LLP - Facebook Alloyed Sustainables LLP. 1 follower. We are engaged as Suppliers of Industrial raw material of Nickel Alloys, Aluminium, Stainless Steel, Carbon Steel &...",
+    "url": "https://www.facebook.com/alloyeds/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://alloyed.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alloyed.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alloyed.com/news/quad-magazine-we-re-building-a-big-company",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.nttdata-xam.com/wp-content/uploads/2024/07/%E8%8B%B1%E3%83%BBAlloyed%E7%A4%BE%E3%81%A8%E3%81%AE%E8%B3%87%E6%9C%AC%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%9020240724.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jx-nmm.com/newsrelease/2024/241120_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/newsrelease/2025/20251106_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alloyed.com/news/metals-specialist-alloyed-is-big-in-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alloyed.com/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nmmjx-dc.com/collaboration/startup/alloyed.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/newsrelease/2024/241120_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jx-nmm.com/newsrelease/2025/20251106_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alloyed.io/insights/case-studies/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://alloyed.io/insights/case-studies/elevating-customer-engagement-through-integrated-social-planning-analytics-and-partner-operations/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://alloyed.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alloyed.com/technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partnerportal.fortinet.com/English/?ReturnUrl=%2FEnglish%2FNAReseller%2Fhome.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/pilgrim61/n/n85b14c71c48f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/alloyed_devs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JennyLowee/status/2119993384421200080",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/DMZHUB/status/2117587871045464418",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/alloyedgirl/status/1996762515083247845",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/alloyed-io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/alloyed/?originalSubdomain=uk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/alloyed",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/alloyed",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AlloyedGame/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/alloyedearth/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AlloyedRPG/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/alloyeds/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/alloyed_devs",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Alloyed 日本 導入",
+   "results": [
+    "https://www.nttdata-xam.com/wp-content/uploads/2024/07/英・Alloyed社との資本業務提携契約を締結20240724.pdf",
+    "https://www.jx-nmm.com/newsrelease/2024/241120_1.html",
+    "https://www.jx-nmm.com/newsrelease/2025/20251106_01.html",
+    "https://alloyed.com/news/metals-specialist-alloyed-is-big-in-japan",
+    "https://www.nttdata-xam.com/news/info/article_6199/",
+    "https://nmmjx-dc.com/collaboration/startup/alloyed.html",
+    "https://www.nttdata.com/global/ja/news/release/2024/072400/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alloyed 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.everloy.co.jp/company/company_info.html",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alloyed Japan",
+   "results": [
+    "https://alloyed.com/index.html",
+    "https://nmmjx-dc.com/collaboration/startup/alloyed.html",
+    "https://www.jx-nmm.com/newsrelease/2024/241120_1.html",
+    "https://www.jx-nmm.com/newsrelease/2025/20251106_01.html",
+    "https://data-link-plus.com/jp/corporation/2010401152503",
+    "https://www.nttdata-xam.com/wp-content/uploads/2024/07/英・Alloyed社との資本業務提携契約を締結20240724.pdf",
+    "https://www.linkedin.com/company/alloyed"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alloyed manufacturing customer case study",
+   "results": [
+    "https://alloyed.io/insights/case-studies/",
+    "https://alloyed.io/insights/case-studies/elevating-customer-engagement-through-integrated-social-planning-analytics-and-partner-operations/",
+    "https://alloyed.com/",
+    "https://alloyed.com/technologies",
+    "https://alloyedinvoicing.com/",
+    "https://object.pl/stories/alloyed/",
+    "https://www.economist.com/britain/2026/05/28/alloyed-shows-how-britain-hopes-to-make-things-in-the-future"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alloyed white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://partners.spectrum.com/",
+    "https://www.appspace.com/resellers-alliances/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alloyed founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Alloyed",
+   "results": [
+    "https://note.com/pilgrim61/n/n85b14c71c48f",
+    "https://note.com/eager_tiger5557",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/inokun/n/n7efa91c9eeb2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Alloyed",
+   "results": [
+    "https://x.com/alloyed_devs",
+    "https://x.com/JennyLowee/status/2119993384421200080",
+    "https://x.com/DMZHUB/status/2117587871045464418",
+    "https://x.com/alloyedgirl/status/1996762515083247845",
+    "https://x.com/alloyedgirl/status/2098821478724645242",
+    "https://x.com/Bott081/status/2120039492547698757",
+    "https://x.com/acolyte_ror2/status/2113276511553790266"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Alloyed",
+   "results": [
+    "https://www.linkedin.com/company/alloyed-io",
+    "https://www.linkedin.com/company/alloyed/?originalSubdomain=uk",
+    "https://uk.linkedin.com/company/alloyed",
+    "https://jp.linkedin.com/company/alloyed",
+    "https://uk.linkedin.com/in/edward-s-662472a0",
+    "https://ph.linkedin.com/in/justineespina-",
+    "https://de.linkedin.com/in/andre-nemeth"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Alloyed",
+   "results": [
+    "https://www.facebook.com/AlloyedGame/",
+    "https://www.facebook.com/alloyedearth/",
+    "https://www.facebook.com/AlloyedRPG/",
+    "https://www.facebook.com/alloyeds/",
+    "https://www.facebook.com/p/Alloyed-Solutions-100050274045963/",
+    "https://www.facebook.com/Dishthewasher/",
+    "https://www.facebook.com/RiskofRainGame/videos/risk-of-rain-2-alloyed-collective-montage/1277324457042057/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alloyed note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.jx-nmm.com/newsrelease/2024/241120_1.html",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alloyed X 投稿",
+   "results": [
+    "https://x.com/alloyed_devs",
+    "https://alloyed.com/",
+    "https://www.jx-nmm.com/newsrelease/2025/20251106_01.html",
+    "https://nmmjx-dc.com/collaboration/startup/alloyed.html",
+    "https://alloyed.com/technologies",
+    "https://www.sciencedirect.com/journal/journal-of-alloys-and-compounds",
+    "https://search.yahoo.co.jp/realtime/search/投稿/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部34頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

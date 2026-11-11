@@ -1,0 +1,679 @@
+{
+ "name": "Fleetio",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-11T04:34:57.473301+00:00",
+ "official_url": "https://www.fleetio.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "日本の担い手": [
+   {
+    "quote": "Keycafe製品の正規再販業者または販売代理店になる",
+    "url": "https://www.keycafe.com/s/ja/integrations/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Keycafe製品の正規再販業者または販売代理店になる",
+    "url": "https://www.keycafe.com/s/ja/blog/how-keycafe-and-fleetio-optimizes-your-fleet",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Fleetioとは？ | 機能や料金、導入事例をご紹介【キャプテラ】 — Fleetioを実際に使用したユーザーのレビューから、製品の機能や価格、メリットデメリットをご覧いただけます。 類似製品との比較も簡単、ぴったりのSaaSが見つかるはず！",
+    "url": "https://www.capterra.jp/software/120855/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetioが Auto Integrateを買収 ... - Investing.com 日本 — Mar 25, 2025 · Fleetioはまた、人工知能と機械学習ツールを開発する計画も表明した。 これらのツールは、手動データ入力の自動化や、修理の異常や過剰支出について企業に警告することを目的としている。 Meachin氏は引き続き統合後の事業を率いる。",
+    "url": "https://jp.investing.com/news/stock-market-news/article-93CH-1056599",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetio | Keycafe パートナー連携 — Fleetioでドライバーに車両が割り当てられると、ユニークなアクセスコードが生成され、Keycafe SmartBoxで割り当てられたキーを受け取るためのキーのアクセス手順がドライバーに自動的に送信されます。",
+    "url": "https://www.keycafe.com/s/ja/integrations/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "KeycafeとFleetioがいかに連携してフリートを最適化するか — Feb 9, 2025 · フリートの最適化を始める準備はできていますか？ Keycafe と Fleetio は、フリート管理者に業務を合理化し、セキュリティを強化し、時間を節約する強力な方法を提供します。",
+    "url": "https://www.keycafe.com/s/ja/blog/how-keycafe-and-fleetio-optimizes-your-fleet",
+    "pass": 3
+   },
+   {
+    "quote": "AIフリート管理（車両管理）比較2026｜Samsara・Geotab・Motive・Veri... — Aug 28, 2026 · 整備や記録の管理を整えたいならFleetio、位置と安全をまとめて見たいならSamsaraのように、自社の進め方に合った基盤から試す手もあります。 料金や対応範囲、機器の取り付けは台数や要件によって変わるため、最新の情報を確認しましょう。",
+    "url": "https://radineer.asia/aisaas/blog/ai-fleet-management-telematics-platforms-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetio Support — Get in touch with Fleetio. How would you like to get help? Our Support Team is available Monday–Friday, 8am–8pm Eastern Time. For the fastest experience, chat with a live agent.",
+    "url": "https://help.fleetio.com/contact-us",
+    "pass": 3
+   },
+   {
+    "quote": "Fleet Management Case Studies | Fleetio Customer Stories — Read real customer success stories across industries. See how fleets use Fleetio to reduce downtime, control costs and streamline operations.",
+    "url": "https://www.fleetio.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetio Customers — Discover how Creative MultiCare streamlined fleet operations, improved fuel spend visibility, and boosted technician productivity by integrating Fleetio and Car IQ. With a multi-state network of over 500 vehicles, mechanical contractor R.T. Moore keeps all of its assets in check with Fleetio.",
+    "url": "https://www.fleetio.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetio B2B Case Studies & Customer Successes — See how Fleetio solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "160 Fleetio Customer Reviews & References | FeaturedCustomersB2B Case Studies: How Fleetio Uses Software & Services37 Fleetio Case Studies, Success Stories, & Customer StoriesFleetio CASE STUDY - DataOne Software — Read Fleetio Reviews, Testimonials & Customer References from 103 real Fleetio customers. Browse Fleetio Case Studies, Customer Success Stories, & Customer References from 37 businesses",
+    "url": "https://www.featuredcustomers.com/vendor/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Fleetio Uses Software & Services — Explore case studies featuring Fleetio as the customer — learn how vendors and partners helped Fleetio solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Labels Overview - Fleetio — Feb 26, 2026 · Fleetio introduced the concept of Labels to help users prioritize and categorize the work to be done on a vehicle. The most common use for Labels is to identify the area of the Vehicle receiving service and / or the priority of the service. Labels may be added to Documents, Tools, Issues, Purchase Orders, Service Entries, Vehicles, Vendors, and Work Order",
+    "url": "https://help.fleetio.com/manage-account-settings-permissions/labels-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetio Support — Fleetio Support Center helps you to find FAQ, how-to guides and step-by-step tutorials.",
+    "url": "https://help.fleetio.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Labels | Fleetio Developer Portal — May 5, 2025 · Labels Labels help users prioritize and categorize the work to be done on a Vehicle in Fleetio. The most common use for Labels is to identify the area of the Vehicle receiving the service and/or the priority of the service. Labels may be added many resources in Fleetio, including Documents, Equipment, Issues, Purchase Orders, Service Entries, Vendo",
+    "url": "https://developer.fleetio.com/docs/api/labels",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "Prefer email? Send us your question and we’ll follow up.",
+    "url": "https://help.fleetio.com/contact-us",
+    "pass": 3
+   },
+   {
+    "quote": "Non-profit Organizations",
+    "url": "https://www.casestudies.com/company/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "How A&D Environmental improved their fleet readiness and maintenance processes with Fleetio’s fleet optimization platform",
+    "url": "https://www.casestudies.com/company/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "All Care Sweeping achieves improved fleet efficiency and safer operations with Fleetio",
+    "url": "https://www.casestudies.com/company/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Boyle Transportation achieves proactive maintenance and reduced vehicle downtime with Fleetio",
+    "url": "https://www.casestudies.com/company/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "City of Cambridge improves municipal fleet management and data visibility with Fleetio",
+    "url": "https://www.casestudies.com/company/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Eikenhout achieves compliance, proactive maintenance and cost savings with Fleetio",
+    "url": "https://www.casestudies.com/company/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Safety and Training Coordinator",
+    "url": "https://www.casestudies.com/company/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Leros Transportation Group New York transportation company uses data to ensure peak reliability and profitability of their global fleet",
+    "url": "https://www.casestudies.com/company/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Newkirk Electric achieves 10x faster reporting and reduced training time with Fleetio Manage",
+    "url": "https://www.casestudies.com/company/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "ProQual Landscaping achieves a 33% reduction in repair costs and proactive, streamlined fleet maintenance with Fleetio",
+    "url": "https://www.casestudies.com/company/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Special Projects Manager",
+    "url": "https://www.casestudies.com/company/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Southpace Properties (Alabama’s largest independent commercial real estate firm) achieves reduced downtime and streamlined fleet maintenance with Fleetio",
+    "url": "https://www.casestudies.com/company/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Vice President of Operations",
+    "url": "https://www.casestudies.com/company/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Unified Government of Wyandotte County and Kansas City improves fleet communication and visibility with Fleetio",
+    "url": "https://www.casestudies.com/company/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Read 103 Fleetio reviews and testimonials from customers, explore 37 case studies and customer success stories, and watch 20 customer videos to see why companies chose Fleetio as their Fleet Management Software",
+    "url": "https://www.featuredcustomers.com/vendor/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Mobile Workforce Software",
+    "url": "https://www.featuredcustomers.com/vendor/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "\"Before Fleetio, everything was done manually – it was spreadsheets and hand-written work orders. We now have the flexibility to efficiently record, track and report on vehicle maintenance and operating …",
+    "url": "https://www.featuredcustomers.com/vendor/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Featured Customer Videos",
+    "url": "https://www.featuredcustomers.com/vendor/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Load additional Videos",
+    "url": "https://www.featuredcustomers.com/vendor/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetio Customer Videos",
+    "url": "https://www.featuredcustomers.com/vendor/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Video",
+    "url": "https://www.featuredcustomers.com/vendor/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "unlock all of your customer references for prospects",
+    "url": "https://www.featuredcustomers.com/vendor/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "the work to be done on a vehicle. The most common use for Labels is to identify the area of the Vehicle receiving service and/or the priority of the service.",
+    "url": "https://help.fleetio.com/manage-account-settings-permissions/labels-overview",
+    "pass": 3
+   },
+   {
+    "quote": "to be an effective management and reporting tool, they must be properly maintained by your organization. Create an internal process for the naming and application of Labels, then train all Fleetio Users on your processes to ensure there is consistency throughout the system.",
+    "url": "https://help.fleetio.com/manage-account-settings-permissions/labels-overview",
+    "pass": 3
+   },
+   {
+    "quote": "a Label will REMOVE the Label from ALL associated records, for ALL users. Fleetio will prompt to confirm this action.",
+    "url": "https://help.fleetio.com/manage-account-settings-permissions/labels-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Visit the Fleetio Academy for certifications, tutorial videos, and training resources to make you a Fleetio expert!",
+    "url": "https://help.fleetio.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Labels help users prioritize and categorize the work to be done on a",
+    "url": "https://developer.fleetio.com/docs/api/labels",
+    "pass": 3
+   },
+   {
+    "quote": "priority of the service. Labels may be added many resources in Fleetio,",
+    "url": "https://developer.fleetio.com/docs/api/labels",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Prefer email? Send us your question and we’ll follow up.",
+    "url": "https://help.fleetio.com/contact-us",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/fleetio",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Scobee Powerline Construction - Customer Case Study",
+    "url": "https://www.casestudies.com/company/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Scobee Powerline Construction - Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/fleetio",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "page (for any Record Type listed at the top of this page), click",
+    "url": "https://help.fleetio.com/manage-account-settings-permissions/labels-overview",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Fleetio - LinkedIn Fleetio brings fleet maintenance into one connected system—so your team can keep vehicles working, control maintenance spend and spend less time chasing updates.",
+    "url": "https://www.linkedin.com/company/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Fleet Maintenance Software - LinkedIn Fleet Maintenance Software | Fleetio brings fleet maintenance into one connected system—so your team can keep vehicles working, control maintenance spend and spend less time chasing updates.",
+    "url": "https://www.linkedin.com/products/fleetio-fleet-maintenance-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetio-FMS Maintenance Solution | LinkedIn Fleetio-FMS Fleet Management Software Fleetio is the simple alternative to spreadsheets and outdated fleet software — designed to help you automate fleet operations tasks and keep vehicles and equipment running smoothly.",
+    "url": "https://cp.linkedin.com/products/premium-safety-solutions-fleetio/",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetio: Jobs | LinkedIn The intelligent system that keeps maintenance moving. 🚛💨 | Fleetio is the intelligent system that keeps maintenance moving. We help fleets plan, approve and execute maintenance—in-house ...",
+    "url": "https://www.linkedin.com/company/fleetio/jobs/",
+    "pass": 3
+   },
+   {
+    "quote": "Jon Meachin - CEO of Fleetio - fleetio.com/careers | LinkedInWho is the CEO of Fleetio in 2026? Jon Meachin's Bio - ClayTony Summerville - Fleetio | LinkedIn加藤貞顕 - WikipediaTony Summerville - Founder & Executive Chairman, Fleetio ...note株式会社 on X: \"| メディア掲載 || 新潟日報 @niigata_nippo に... CEO of Fleetio - fleetio.com/careers · I enjoy partnering with Founders and Founding Teams to help scale their bus",
+    "url": "https://www.linkedin.com/in/jon-meachin",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Fleetio - FacebookWith Fleetio, you can solve all your maintenance ... - FacebookEvaluate Fleetio for Fleet Maintenance Software - FacebookFleetio - The flowers aren't the only thing in bloom. ...Fleetio - Big news for the Fleetio team ... - FacebookFleetio - Welcoming new faces to the team this November is ...Fleetio Academy is here! We’re excited to ... - Facebook Oct 21, 2026 · We’re excited to",
+    "url": "https://www.facebook.com/fleetio/",
+    "pass": 3
+   },
+   {
+    "quote": "With Fleetio, you can solve all your maintenance ... - Facebook Oct 15, 2026 · With Fleetio, you can solve all your maintenance needs in one place and turn your everyday data into actionable insights that keep your fleet on the move.",
+    "url": "https://www.facebook.com/fleetio/videos/fleet-maintenance-that-thinks-ahead/1118173344002228/",
+    "pass": 3
+   },
+   {
+    "quote": "Evaluate Fleetio for Fleet Maintenance Software - Facebook Fleetio is widely recommended for small to medium fleets, with users praising its DOT compliance tracking, mobile checklists, and inventory features....",
+    "url": "https://www.facebook.com/fb-answers/evaluate-the-construction-technology-company-fleetio-on-fleet-maintenance-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetio - The flowers aren't the only thing in bloom. ... Apr 1, 2024 · Fleetio’s Shop Network changed that. 🤝 Now, every repair order arrives with the details to accept, question, or confirm in seconds, complete with service history that tells the full story. Instead of second-guessing, Edward’s team can collaborate with vendors using shared data and clear records.",
+    "url": "https://www.facebook.com/fleetio/posts/the-flowers-arent-the-only-thing-in-bloom-say-hello-and-congrats-to-the-fleetian/869598015184586/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Fleetio (@fleetio) / X Fleetio is the intelligent system that keeps maintenance moving—in-house, outsourced, or both. Fleet insights, practical tips, & news from the crew.",
+    "url": "https://x.com/fleetio",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetio on X: \"Weekend at Talladega celebrating our crew ... Oct 26, 2026 · Weekend at Talladega celebrating our crew. Thanks for driving Fleetio forward, on and off the track! 🏁",
+    "url": "https://x.com/fleetio/status/2114820653379379319",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fleetio.com/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.capterra.jp/software/120855/fleetio",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.investing.com/news/stock-market-news/article-93CH-1056599",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.keycafe.com/s/ja/integrations/fleetio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keycafe.com/s/ja/blog/how-keycafe-and-fleetio-optimizes-your-fleet",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.fleetio.com/contact-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/fleetio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/fleetio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://help.fleetio.com/manage-account-settings-permissions/labels-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.fleetio.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://developer.fleetio.com/docs/api/labels",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/fleetio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/fleetio-fleet-maintenance-software/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cp.linkedin.com/products/premium-safety-solutions-fleetio/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/fleetio/jobs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fleetio/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fleetio/videos/fleet-maintenance-that-thinks-ahead/1118173344002228/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/evaluate-the-construction-technology-company-fleetio-on-fleet-maintenance-software/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fleetio/posts/the-flowers-arent-the-only-thing-in-bloom-say-hello-and-congrats-to-the-fleetian/869598015184586/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jon-meachin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fleetio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fleetio/status/2114820653379379319",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Fleetio 日本 導入",
+   "results": [
+    "https://www.capterra.jp/software/120855/fleetio",
+    "https://jp.investing.com/news/stock-market-news/article-93CH-1056599",
+    "https://www.keycafe.com/s/ja/integrations/fleetio",
+    "https://www.keycafe.com/s/ja/blog/how-keycafe-and-fleetio-optimizes-your-fleet",
+    "https://radineer.asia/aisaas/blog/ai-fleet-management-telematics-platforms-comparison-2026/",
+    "https://news.yahoo.co.jp/articles/bde488110494f6f6f3ca63de655c475e3af8a4f0",
+    "https://www.techfirm.co.jp/blog/fleet_system"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fleetio 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://help.fleetio.com/contact-us",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://www.fleetio.com/",
+    "https://industrial.filtrationgroup.com/ja/联系我们/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fleetio Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Fleetio manufacturing customer case study",
+   "results": [
+    "https://www.fleetio.com/resources/case-studies",
+    "https://www.fleetio.com/customers",
+    "https://www.casestudies.com/company/fleetio",
+    "https://www.featuredcustomers.com/vendor/fleetio",
+    "https://www.casestudies.com/customer/fleetio",
+    "https://www.featuredcustomers.com/vendor/fleetio/case-studies",
+    "https://www.dataonesoftware.com/hubfs/Case_Studies/Case_Study_Fleetio.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fleetio white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://help.fleetio.com/manage-account-settings-permissions/labels-overview",
+    "https://help.fleetio.com/",
+    "https://developer.fleetio.com/docs/api/labels",
+    "https://partner.vw.com/partner",
+    "https://www.fleetio.com/resources",
+    "https://www.fleetio.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fleetio founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Fleetio",
+   "results": [
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/sekasu/n/n985d4263a09c",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/ueda_news24/n/n593474115c49",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/tori_1980/n/n21037c205ade"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Fleetio",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Fleetio",
+   "results": [
+    "https://www.linkedin.com/company/fleetio",
+    "https://www.linkedin.com/products/fleetio-fleet-maintenance-software/",
+    "https://cp.linkedin.com/products/premium-safety-solutions-fleetio/",
+    "https://www.linkedin.com/company/fleetio/jobs/",
+    "https://www.linkedin.com/in/tonysummerville",
+    "https://www.linkedin.com/in/jon-meachin",
+    "https://www.linkedin.com/company/fleetio/life"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Fleetio",
+   "results": [
+    "https://www.facebook.com/fleetio/",
+    "https://www.facebook.com/fleetio/videos/fleet-maintenance-that-thinks-ahead/1118173344002228/",
+    "https://www.facebook.com/fb-answers/evaluate-the-construction-technology-company-fleetio-on-fleet-maintenance-software/",
+    "https://www.facebook.com/fleetio/posts/the-flowers-arent-the-only-thing-in-bloom-say-hello-and-congrats-to-the-fleetian/869598015184586/",
+    "https://www.facebook.com/fleetio/posts/big-news-for-the-fleetio-team-fleetio-fleet-management-and-maintenance-software-/1504078691736512/",
+    "https://www.facebook.com/fleetio/posts/welcoming-new-faces-to-the-team-this-november-is-just-one-of-the-many-things-wer/1036934681784251/",
+    "https://www.facebook.com/fleetio/videos/fleetio-academy-is-now-live-/770297705592076/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fleetio note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.unifygtm.com/insights/executives/fleetio-ceo",
+    "https://www.linkedin.com/in/jon-meachin",
+    "https://www.clay.com/dossier/fleetio-ceo",
+    "https://www.linkedin.com/in/tonysummerville",
+    "https://yespress.io/tony-summerville",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fleetio X 投稿",
+   "results": [
+    "https://x.com/fleetio",
+    "https://x.com/fleetio/status/2114820653379379319",
+    "https://www.instagram.com/fleetio/",
+    "https://secure.fleetio.com/login",
+    "https://www.fleetio.com/customers",
+    "https://www.fleetio.com/",
+    "https://help.x.com/ja/using-x/edit-post"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）"
+ }
+}

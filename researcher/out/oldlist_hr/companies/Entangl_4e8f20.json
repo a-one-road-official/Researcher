@@ -1,0 +1,648 @@
+{
+ "name": "Entangl",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜送信済み（非製造）",
+ "researched_at": "2026-11-11T04:41:53.953732+00:00",
+ "official_url": "https://www.entangl.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Hall 03 · proposed",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Preparing the facility…",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepare procedures and tasks, check the evidence, and resolve the decisions before go-live.",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Create preventive schedules from your equipment records and manufacturer requirements.",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Preventive maintenance",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "01 / Protect uptime.",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "qualified candidates.",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "03 / Improve insurance economics.",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1% premium change",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The value starts before an incident: better procedures, clearer field checks, and maintenance that stays on schedule.",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate and review procedures against your facility’s drawings, equipment, operating rules, and design.",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Procedure generation & review",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Plan preventive schedules around asset requirements, service intervals, and the work your site needs.",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use a cost estimate for your operation. This models exposure for one event; it does not predict an outage or a reduction in risk.",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale your portfolio without matching headcount growth. Give your experts more time by reducing manual preparation, searching, and coordination.",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use site knowledge to prepare and review procedures, reducing repeated document searches and first-draft work.",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring instructions and site context to the team in the field, and carry that knowledge into training and handovers.",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fieldwork & training · explore scope",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Procedures / site / month",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Current effort / procedure",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Target effort / procedure",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "8 sites × 12 procedures × 2.5 hours recovered = 240 hours / month",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Current and target hours include preparation and review. Validate the target in an evaluation. Recovered capacity does not determine safe staffing levels.",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring approved procedures, maintenance records, and corrective actions into the evidence used at renewal.",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give customers a clear record of planned work, approvals, incident updates, and the response behind an SLA discussion.",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Entangl pricing | Site and portfolio scope",
+    "url": "https://www.entangl.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "A clear scope. A complete price.",
+    "url": "https://www.entangl.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Start with the sites and work you want Entangl to support. Get a written proposal that makes the full cost and the next decision clear.",
+    "url": "https://www.entangl.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Your proposal should cover:",
+    "url": "https://www.entangl.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Data setup, configuration, integration, and training.",
+    "url": "https://www.entangl.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Separate committed sites from possible expansion. Make the treatment of added sites, delayed rollout, and new workflows clear in the proposal.",
+    "url": "https://www.entangl.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Is pricing per site, user, or megawatt?",
+    "url": "https://www.entangl.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring a procedure, a review bottleneck, or a site question. Agree what to test and what a useful result looks like.",
+    "url": "https://www.entangl.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "We are building Entangl to keep that knowledge connected. To the equipment. To the procedure. To the people who need to make the next decision.",
+    "url": "https://www.entangl.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Procedures are our core today because that is where site information has to become usable work. Our direction is the full lifecycle: design, handover, maintenance, operations, customer oversight, and the services that keep the facility running.",
+    "url": "https://www.entangl.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring a procedure, a review bottleneck, or a site question. Agree what to test and what a useful result looks like.",
+    "url": "https://www.entangl.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Show us the work you want to improve.",
+    "url": "https://www.entangl.com/demo/",
+    "pass": 1
+   },
+   {
+    "quote": "What would you like to improve?",
+    "url": "https://www.entangl.com/demo/",
+    "pass": 1
+   },
+   {
+    "quote": "Fieldwork and training",
+    "url": "https://www.entangl.com/demo/",
+    "pass": 1
+   },
+   {
+    "quote": "A procedure review example",
+    "url": "https://www.entangl.com/demo/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Create preventive schedules from your equipment records and manufacturer requirements.",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "of surveyed operators struggle to find",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Bring instructions and site context to the team in the field, and carry that knowledge into training and handovers.",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connectivity is one part of a review. Confirm current states, redundancy, and approvals before real work.",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The numbers arrived. The asset records, review, and field task still need to come together.",
+    "url": "https://www.entangl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The quote will state the billing unit and its definition for your deployment. We will work through your facility structure so both sides arrive at the same total.",
+    "url": "https://www.entangl.com/pricing/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.entangl.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.entangl.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.entangl.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.entangl.com/demo/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.vans.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vans.com/en-us/c/shoes-00081",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://locations.vans.com/en-us/wa/tulalip/usa276/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://locations.vans.com/en-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amc.amazon.com/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pharmacy.amazon.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://music.amazon.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.microsoft.com/en-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.microsoft.com/fr-be/contactus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcommunity.microsoft.com/discussions/windowsinsiderprogram/windows-8-1-iso-download-for-64-and-32-bit/4454650",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qvc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.qvc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.qvc.com/lp/vendors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qvc.com/content/iroa.html",
+    "status": "http_418",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chase.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.google.com/wallet/answer/12059326?hl=en&co=GENIE.CountryCode=US",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.google.com/chrome/thread/2813703/chase-bank-wants-a-later-version-of-chrome?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learn.microsoft.com/ja-jp/answers/questions/4850be98-e651-4d92-8a05-d1489edbf168/teams%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%A0%C3%A2%E2%82%AC%E2%84%A2%C3%83%C6%92%C3%A2%E2%82%AC%C2%A0%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%A2%E2%80%9E%C2%A2%C3%83%C6%92%C3%86%E2%80%99%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%85%C2%A1%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%A7%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%A0%C3%A2%E2%82%AC%E2%84%A2%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%A2%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%9A%C3%82%C2%A2%C3%83%C6%92%C3%82%C2%A2%C3%83%C2%A2%C3%A2%E2%82%AC%C5%A1%C3%82%C2%AC%C3%83%E2%80%A6%C3%82%C2%A1%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%AC%C3%83%C6%92%C3%86%E2%80%99%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%82%C2%A6%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%BE%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%A0%C3%A2%E2%82%AC%E2%84%A2%C3%83%C6%92%C3%82%C2%A2%C3%83%C2%A2%C3%A2%E2%82%AC%C5%A1%C3%82%C2%AC%C3%83%E2%80%A6%C3%82%C2%A1%C3%83%C6%92%C3%86%E2%80%99%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%85%C2%A1%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%A1%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%A0%C3%A2%E2%82%AC%E2%84%A2%C3%83%C6%92%C3%A2%E2%82%AC%C2%A0%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%A2%E2%80%9E%C2%A2%C3%83%C6%92%C3%86%E2%80%99%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%85%C2%A1%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%A6%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%A0%C3%A2%E2%82%AC%E2%84%A2%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%A2%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%9A%C3%82%C2%A2%C3%83%C6%92%C3%82%C2%A2%C3%83%C2%A2%C3%A2%E2%82%AC%C5%A1%C3%82%C2%AC%C3%83%E2%80%A6%C3%82%C2%A1%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%AC%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%9A%C3%82%C2%A2%C3%83%C6%92%C3%82%C2%A2%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%85%C2%A1%C3%83%E2%80%9A%C3%82%C2%AC%C3%83%C6%92%C3%A2%E2%82%AC%C2%A6%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%85%E2%80%9C%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%A0%C3%A2%E2%82%AC%E2%84%A2%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%A2%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%9A%C3%82%C2%A2%C3%83%C6%92%C3%82%C2%A2%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%85%C2%A1%C3%83%E2%80%9A%C3%82%C2%AC%C3%83%C6%92%C3%A2%E2%82%AC%C2%A6%C3%83%E2%80%9A%C3%82%C2%BE%C3%83%C6%92%C3%86%E2%80%99%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%85%C2%A1%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%A2%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%A0%C3%A2%E2%82%AC%E2%84%A2%C3%83%C6%92%C3%A2%E2%82%AC%C2%A0%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%A2%E2%80%9E%C2%A2%C3%83%C6%92%C3%86%E2%80%99%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%85%C2%A1%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%A7%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%A0%C3%A2%E2%82%AC%E2%84%A2%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%A2%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%9A%C3%82%C2%A2%C3%83%C6%92%C3%82%C2%A2%C3%83%C2%A2%C3%A2%E2%82%AC%C5%A1%C3%82%C2%AC%C3%83%E2%80%A6%C3%82%C2%A1%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%AC%C3%83%C6%92%C3%86%E2%80%99%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%85%C2%A1%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%B0%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%A0%C3%A2%E2%82%AC%E2%84%A2%C3%83%C6%92%C3%82%C2%A2%C3%83%C2%A2%C3%A2%E2%82%AC%C5%A1%C3%82%C2%AC%C3%83%E2%80%9A%C3%82%C2%B9%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%9A%C3%82%C2%A2%C3%83%C6%92%C3%82%C2%A2%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%85%C2%A1%C3%83%E2%80%9A%C3%82%C2%AC%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%A0%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%A0%C3%A2%E2%82%AC%E2%84%A2%C3%83%C6%92%C3%A2%E2%82%AC%C2%A0%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%A2%E2%80%9E%C2%A2%C3%83%C6%92%C3%86%E2%80%99%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%85%C2%A1%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%A3%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%A0%C3%A2%E2%82%AC%E2%84%A2%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%A2%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%9A%C3%82%C2%A2%C3%83%C6%92%C3%82%C2%A2%C3%83%C2%A2%C3%A2%E2%82%AC%C5%A1%C3%82%C2%AC%C3%83%E2%80%A6%C3%82%C2%A1%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%AC%C3%83%C6%92%C3%86%E2%80%99%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%82%C2%A6%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%A1%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%A0%C3%A2%E2%82%AC%E2%84%A2%C3%83%C6%92%C3%82%C2%A2%C3%83%C2%A2%C3%A2%E2%82%AC%C5%A1%C3%82%C2%AC%C3%83%E2%80%A6%C3%82%C2%A1%C3%83%C6%92%C3%86%E2%80%99%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%85%C2%A1%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%AF%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%A0%C3%A2%E2%82%AC%E2%84%A2%C3%83%C6%92%C3%A2%E2%82%AC%C2%A0%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%A2%E2%80%9E%C2%A2%C3%83%C6%92%C3%86%E2%80%99%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%85%C2%A1%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%A3%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%A0%C3%A2%E2%82%AC%E2%84%A2%C3%83%C6%92%C3%82%C2%A2%C3%83%C2%A2%C3%A2%E2%82%AC%C5%A1%C3%82%C2%AC%C3%83%E2%80%9A%C3%82%C2%A0%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%9A%C3%82%C2%A2%C3%83%C6%92%C3%82%C2%A2%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%85%C2%A1%C3%83%E2%80%9A%C3%82%C2%AC%C3%83%C6%92%C3%82%C2%A2%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%85%C2%BE%C3%83%E2%80%9A%C3%82%C2%A2%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%A0%C3%A2%E2%82%AC%E2%84%A2%C3%83%C6%92%C3%82%C2%A2%C3%83%C2%A2%C3%A2%E2%82%AC%C5%A1%C3%82%C2%AC%C3%83%E2%80%A6%C3%82%C2%A1%C3%83%C6%92%C3%86%E2%80%99%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%85%C2%A1%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%A9?forum=msteams-all&referrer=answers",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://support.brother.com/g/b/manualtop.aspx?c=us&lang=en&prod=ads1250w_us",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.manualslib.com/manual/1485645/Brother-Ads-1250w.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://support.brother.com/g/b/faqend.aspx?c=us&lang=en&prod=ads1250w_us&faqid=faq00003193_004",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.manualslib.com/products/Brother-Ads-1250w-9263150.html",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Entangl 日本 導入",
+   "results": [
+    "https://www.vans.com/",
+    "https://www.vans.com/en-us/c/shoes-00081",
+    "https://locations.vans.com/en-us/wa/tulalip/usa276/",
+    "https://locations.vans.com/en-us/",
+    "https://www.amazon.com/vans/s?k=vans",
+    "https://www.footlocker.com/category/brands/vans.html",
+    "https://locations.vans.com/en-us/wa/seattle/",
+    "https://www.vans.com/en-us/c/mens-0001",
+    "https://www.vans.com/en-us/c/shop-5000",
+    "https://locations.vans.com/en-us/wa/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Entangl 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.amazon.com/",
+    "https://amc.amazon.com/",
+    "https://pharmacy.amazon.com/",
+    "https://music.amazon.com/",
+    "https://hiring.amazon.com/",
+    "https://track.amazon.com/",
+    "https://www.amazon.jobs/",
+    "https://hiring.amazon.com/locations",
+    "https://www.facebook.com/Amazon/",
+    "https://www.woot.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 30
+  },
+  {
+   "query": "Entangl Japan",
+   "results": [
+    "https://www.microsoft.com/en-us/",
+    "https://support.microsoft.com/fr-be/contactus/",
+    "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "https://techcommunity.microsoft.com/discussions/windowsinsiderprogram/windows-8-1-iso-download-for-64-and-32-bit/4454650",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-continues-build-the-skills-that-move-business-forward/4494139",
+    "https://support.microsoft.com/en-gb/contactus",
+    "https://support.microsoft.com/es-ar/contactus/",
+    "https://support.microsoft.com/en-us/edge/",
+    "https://support.microsoft.com/en-us/accounts-billing/work-school/sign-in-to-your-work-or-school-account-using-two-step-verification",
+    "https://support.microsoft.com/de-de/accounts-billing/manage/how-to-sign-in-to-hotmail"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Entangl manufacturing customer case study",
+   "results": [
+    "http://www.qvc.com/",
+    "https://corporate.qvc.com/",
+    "https://corporate.qvc.com/lp/vendors/",
+    "https://www.qvc.com/content/iroa.html",
+    "https://plus.qvc.com/series/unfiltered-with-shawn-killinger/VmlkZW9fVmlkZW9TZXJpZXMKZDY2NjlkYjg1ZGIwYTExY2Y3YTU0OTY1Mw==",
+    "https://plus.qvc.com/",
+    "https://vendorportal.qvc.com/login",
+    "https://community.qvc.com/t5/Kitchen/Janine-Furillo-no-longer-representing-LocknLock/td-p/9272981",
+    "https://egain.qvc.com/system/templates/selfservice/qvc_km/help/customer/locale/en-US/portal/250700000001015/content/PROD-22128/How-can-I-check-my-order-status-or-order-history",
+    "https://vendorportal.qvc.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Entangl white label OR reseller OR partner program",
+   "results": [
+    "https://www.chase.com/",
+    "https://support.google.com/wallet/answer/12059326?hl=en&co=GENIE.CountryCode=US",
+    "https://support.google.com/chrome/thread/2813703/chase-bank-wants-a-later-version-of-chrome?hl=en",
+    "https://www.answers.microsoft.com/ja-jp/msteams/forum/all/teamsÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¾ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¹ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¯ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©/4850be98-e651-4d92-8a05-d1489edbf168",
+    "https://answers.microsoft.com/en-us/windowslive/forum/moviemaker-sharing/windows-movie-maker/9f425982-50bb-4d17-9f71-006bfbc41db9",
+    "https://support.google.com/googleplay/thread/333655788/chase-app-is-not-compatible-even-though-my-account-and-phone-is-updated?hl=en",
+    "https://support.google.com/googleplay/answer/7431675?hl=en-GB&co=GENIE.Platform=Android",
+    "https://support.google.com/chrome/thread/152715301/can-not-access-my-chase-account-by-using-google-chrome-recently?hl=en",
+    "https://support.google.com/chrome/thread/119392203/auto-fill-bank-login?hl=en",
+    "https://support.google.com/chrome/thread/5820847/i-use-google-chrome-and-cannot-log-in-to-my-chase-credit-card-account?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 30
+  },
+  {
+   "query": "Entangl founded funding employees revenue",
+   "results": [
+    "https://support.brother.com/g/b/manualtop.aspx?c=us&lang=en&prod=ads1250w_us",
+    "https://www.manualslib.com/manual/1485645/Brother-Ads-1250w.html",
+    "https://support.brother.com/g/b/faqend.aspx?c=us&lang=en&prod=ads1250w_us&faqid=faq00003193_004",
+    "https://www.manualslib.com/products/Brother-Ads-1250w-9263150.html",
+    "https://www.brother-usa.com/product-support/ADS1250W",
+    "https://www.manualshelf.com/manual/brother/ads1250w/user-guide-english.html",
+    "https://manuals.plus/m/a1561517313a6d91c5728869edf209f60bab57f2bb8f42f30fd8ef5c836fdde8",
+    "https://www.manua.ls/brother/ads-1250w/manual",
+    "https://www.manuals.ca/brother/ads-1250w/manual",
+    "https://manuals.plus/m/19b52137cf88d9842942c26c851d28fe43f45d8406a4605554bc85778abb520e"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:note.com Entangl",
+   "results": [
+    "https://www.hobbylobby.com/home-decor-frames/decor-pillows/home-office-accessories/c/3-110-1085",
+    "https://employee.hobbylobby.com/",
+    "https://docs.hobbylobby.com/",
+    "https://www.hobbylobby.com/christmas-decorations/christmas-crafts/c/58-800",
+    "https://www.hobbylobby.com/",
+    "https://careers.hobbylobby.com/career-map/",
+    "https://newsroom.hobbylobby.com/executive-team/",
+    "https://newsroom.hobbylobby.com/new-stores/",
+    "https://www.hobbylobby.com/weekly-ad/home-decor-weekly-ad",
+    "https://www.hobbylobby.com/fabric-sewing/home-decor-fabrics/c/6-142"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 26
+  },
+  {
+   "query": "site:x.com Entangl",
+   "results": [
+    "https://www.sandiego.gov/police/contact",
+    "https://www.sandiego.gov/police",
+    "https://www.sandiego.org/members/meeting-planners/san-diego-police-department/657",
+    "https://www.uspolicedepartments.org/california/san-diego/san-diego-police-department",
+    "https://www.localoffices.org/police-department/california/san-diego/san-diego-police-department-headquarters/624719",
+    "https://www.mapquest.com/us/california/san-diego-police-department-792328532",
+    "https://www.chamberofcommerce.com/business-directory/california/san-diego/police-department/32006491-san-diego-police-headquarters",
+    "https://www.whereorg.com/san-diego-police-department-2451815",
+    "https://www.chamberofcommerce.com/business-directory/california/san-diego/government-office/2013185027-san-diego-police-department",
+    "https://www.localoffices.org/police-department/california/san-diego/san-diego-police-department-central-division/624720"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:linkedin.com Entangl",
+   "results": [
+    "https://en.androidayuda.com/android/general/Find-out-which-apps-have-access-to-your-Android's-microphone/",
+    "https://technicskeyboard.com/how-can-i-tell-which-apps-are-using-my-microphone-android/",
+    "https://www.asurion.com/connect/tech-tips/how-to-tell-what-app-is-using-your-camera-and-microphone/",
+    "https://support.google.com/android/answer/13532937?hl=en",
+    "https://www.makeuseof.com/apps-access-camera-microphone/",
+    "https://www.howtogeek.com/696657/how-to-find-which-apps-are-accessing-a-permission-on-android/",
+    "https://techlein.net/how-to-see-which-android-app-uses-microphone/",
+    "https://www.reuters.com/legal/skittles-maker-wrigley-settles-with-cannabis-company-over-trademark-2023-07-03/",
+    "https://www.nytimes.com/2021/05/22/style/edibles-marijuana.html",
+    "https://www.thetakeout.com/mars-wrigley-sue-thc-weed-gummies-candy-skittles-maker-1846954904/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Entangl",
+   "results": [
+    "https://corporate.lowes.com/our-responsibilities/community-bucket-list",
+    "https://serviceprovider.lowes.com/",
+    "https://corporate.lowes.com/our-responsibilities/corporate-responsibility-reports-policies",
+    "https://www.lowes.com/",
+    "https://www.lowes.com/store/",
+    "https://www.lowes.com/store/NY-Poughkeepsie/0541",
+    "https://talent.lowes.com/in/en/home",
+    "https://talent.lowes.com/us/en/corporate-careers",
+    "https://www.lowes.com/store/ca-cotati/1901",
+    "https://www.lowes.com/store/PA-pottsville/0553"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Entangl note 社長",
+   "results": [
+    "https://screenapp.io/features/convert-video-to-pdf",
+    "https://ilovepdf.org/blog/how-to-add-video-to-a-pdf-make-it-interactive/",
+    "https://helpx.adobe.com/acrobat/using/playing-video-audio-multimedia-formats.html",
+    "https://helpx.adobe.com/acrobat/using/rich-media.html",
+    "https://ajarproductions.com/blog/2023/01/12/say-goodbye-to-video-in-pdfs-why-you-should-avoid-it-at-all-costs/",
+    "https://www.bitrecover.com/blog/extract-video-from-pdf/",
+    "https://smallpdf.com/blog/embed-video-in-pdf",
+    "https://www.systoolsgroup.com/updates/extract-video-from-pdf/",
+    "https://pdf.ai/resources/embed-video-into-pdf",
+    "https://www.youtube.com/watch?v=wSnXCLCrnpg"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 30
+  },
+  {
+   "query": "Entangl X 投稿",
+   "results": [
+    "https://paidleave.wa.gov/",
+    "https://paidleave.wa.gov/login/",
+    "https://paidleave.wa.gov/question/what-is-family-leave-for-the-loss-of-a-child/",
+    "https://paidleave.wa.gov/apply-now/",
+    "https://paidleave.wa.gov/find-out-how-paid-leave-works/",
+    "https://resources.paidleave.wa.gov/files/Documents|Bulk+Filing/PFML-BulkFilingSpecifications.pdf",
+    "https://paidleave.wa.gov/app/uploads/2022/01/2023-2024-1099s-insert.pdf",
+    "https://paidleave.wa.gov/estimate-your-paid-leave-payments/",
+    "https://paidleave.wa.gov/app/uploads/2026/09/Imp_plan_BOW_2026.pdf",
+    "https://paidleave.wa.gov/how-paid-leave-works/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部24頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

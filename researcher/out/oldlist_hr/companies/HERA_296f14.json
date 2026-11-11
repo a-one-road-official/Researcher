@@ -1,0 +1,364 @@
+{
+ "name": "⭐️HERA",
+ "aliases": [],
+ "context": "旧営業リスト｜Quality / inspection｜送付済み",
+ "researched_at": "2026-11-11T04:41:24.855253+00:00",
+ "official_url": "https://manufacturingintelligence.org/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Hours spent reading drawings, comparing revisions, and preparing documents. HERA returns cited findings and drafts ready for your team’s review.",
+    "url": "https://www.heraengineering.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Preliminary use only. Engineering review required.",
+    "url": "https://www.heraengineering.com/",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Group effort | ⭐️Hera, Titan & Ares⭐️ | By Empire Hybrid Cats 136 views, 3 likes, 3 loves, 2 comments, 1 shares, Facebook Watch Videos from Empire Hybrid Cats: ⭐️Hera, Titan & Ares⭐️",
+    "url": "https://www.facebook.com/empirehybridcats/videos/group-effort-/860298784792413/",
+    "pass": 3
+   },
+   {
+    "quote": "Pixie Padlock - ⭐️Hera from Lore Olympus of LINE WEBTOON... ⭐️Hera from Lore Olympus of LINE WEBTOON ⭐️ Without spoilers, I have been enjoying this webtoon recently with the plots and how Hera is acting so I decided to finally do her cosplay. I know fb...",
+    "url": "https://www.facebook.com/PixiePadlock/posts/️hera-from-lore-olympus-of-line-webtoon-️without-spoilers-i-have-been-enjoying-t/3995766427151251/",
+    "pass": 3
+   },
+   {
+    "quote": "優惠價：$299 連藝人都讚好 嘅天后霜 ⭐️HERA... - Wasabi Beauty Stor... Dec 12, 2020 · 優惠價：$299 連藝人都讚好 嘅天后霜 ⭐️HERA 2+神奇天后霜⭐️ Hebe 開 ️share美肌小秘密 開通宵 皮膚問題逐漸湧現：又出雀斑啦臘 ♀️、又起粒粒啦梁，仲又痕、又甩皮添啊 。好在有HERA 2+神奇天后霜 ，佢有32種新鮮中藥提煉而成，不含激素、不含類固醇 ♀️。...",
+    "url": "https://www.facebook.com/Wasabibeautystorehk/posts/優惠價299連藝人都讚好嘅天后霜️hera-2神奇天后霜️hebe開️share美肌小秘密開通宵皮膚問題逐漸湧現又出雀斑啦️又起粒粒啦仲又痕又甩皮添啊好在有he/1411122685725100/",
+    "pass": 3
+   },
+   {
+    "quote": "HAPPY FIRST 8MONTHS HALF OF MY SOUL ️HERA ️ . . . @mr ...⭐️Hera Prima ⭐️ This year we are in Cagnes-Sur-Mer for ...⭐️Hera赫拉限量 ️彩虹黑珍珠超強保濕氣墊BB⭐️#21自然色 (內有... - C ... Aug 31, 2024 · 👣HAPPY FIRST 8MONTHS 👣 💗 HALF OF MY SOUL 💗 ️HERA ️ . . . @mr.erald0 🎨 @artofmind24 🖼️ @artofmindpromotion 🎭 . . . #OneandOnly #artoftheday... Dec 24, 2020 · ⭐️Hera Prima ⭐️ This year we are in Cagnes-Sur-Mer for Christmas",
+    "url": "https://www.facebook.com/17841449286567507/videos/842066871443070/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.heraengineering.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jp.hera.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gianna.jp/archives/7362",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.3rd-in.co.jp/article/1d92430a-800d-11f1-afc1-9ca3ba09c411",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://maachanz.com/hera-where-buy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.hera.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rakuten.co.jp/hera-official/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sispnmarket.com/z42304227024449/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/herabeauty_official/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://red27creative.com/manufacturing-case-studies",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.infosys.com/industries/industrial-manufacturing/case-studies.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.livechat.com/blog/best-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insighto.ai/blog/white-label-reseller-programs/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.text.com/blog/saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/hera-herainvesting-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundup.ai/recently-funded-startups/company/ec3e140a60a80953fb2d66b593b09560bb14172509883adb6a565aff132d8110/hera",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/hera/__2UTcm-Yhpse1JDkAIPMTr51fu7pMzJmnQ9kFKOEpfSU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/542258-20",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/empirehybridcats/videos/group-effort-/860298784792413/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PixiePadlock/posts/️hera-from-lore-olympus-of-line-webtoon-️without-spoilers-i-have-been-enjoying-t/3995766427151251/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Wasabibeautystorehk/posts/優惠價299連藝人都讚好嘅天后霜️hera-2神奇天后霜️hebe開️share美肌小秘密開通宵皮膚問題逐漸湧現又出雀斑啦️又起粒粒啦仲又痕又甩皮添啊好在有he/1411122685725100/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/17841449286567507/videos/842066871443070/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "⭐️HERA 日本 導入",
+   "results": [
+    "https://jp.hera.com/",
+    "https://gianna.jp/archives/7362",
+    "https://news.3rd-in.co.jp/article/1d92430a-800d-11f1-afc1-9ca3ba09c411",
+    "https://maachanz.com/hera-where-buy/",
+    "https://prtimes.jp/main/html/rd/p/000000366.000021350.html",
+    "https://www.wwdjapan.com/articles/2527583",
+    "https://www.asahi.com/articles/ASV3K1STYV3KOIPE00FM.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️HERA 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "⭐️HERA Japan",
+   "results": [
+    "https://jp.hera.com/",
+    "https://www.rakuten.co.jp/hera-official/",
+    "https://www.sispnmarket.com/z42304227024449/",
+    "https://www.instagram.com/herabeauty_official/",
+    "https://maachanz.com/hera-where-buy/",
+    "https://www.instagram.com/official._hera/",
+    "https://www.wwdjapan.com/articles/2506078"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️HERA manufacturing customer case study",
+   "results": [
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://red27creative.com/manufacturing-case-studies",
+    "https://www.infosys.com/industries/industrial-manufacturing/case-studies.html",
+    "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.conveyormg.com/resources/blogs/creating-manufacturing-case-studies",
+    "https://www.hcltech.com/case-studies/manufacturing"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️HERA white label OR reseller OR partner program",
+   "results": [
+    "https://partners.livechat.com/blog/best-reseller-programs/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://insighto.ai/blog/white-label-reseller-programs/",
+    "https://www.text.com/blog/saas-reseller-programs/",
+    "https://botpenguin.com/blogs/best-saas-reseller-programs",
+    "https://brandlume.com/reseller-program/",
+    "https://getzendo.io/blog/best-white-label-software-to-resell/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️HERA founded funding employees revenue",
+   "results": [
+    "https://fundediq.co/hera-herainvesting-com-funding/",
+    "https://fundup.ai/recently-funded-startups/company/ec3e140a60a80953fb2d66b593b09560bb14172509883adb6a565aff132d8110/hera",
+    "https://tracxn.com/d/companies/hera/__2UTcm-Yhpse1JDkAIPMTr51fu7pMzJmnQ9kFKOEpfSU",
+    "https://pitchbook.com/profiles/company/542258-20",
+    "https://homehealthcarenews.com/2026/06/hera-raises-27m-to-bring-its-senior-care-coordination-layer-to-25-states/",
+    "https://markets.ft.com/data/equities/tearsheet/profile?s=HER:MIL",
+    "https://www.finsmes.com/2026/06/hera-raises-27m-in-series-a-funding.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ⭐️HERA",
+   "results": [
+    "https://note.com/beloved_tomoka/all",
+    "https://note.com/seigo77",
+    "https://note.com/tag/ポケカ",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/ikedanob/n/nf9fd1f265432"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ⭐️HERA",
+   "results": [
+    "https://x.com/",
+    "https://x.com/leehera10",
+    "https://x.com/OsonScouting/status/2042309067344134365",
+    "https://x.com/Alice96Wonder",
+    "https://x.com/GetEmoji",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/Marlayna29/status/2115433590150606880"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ⭐️HERA",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com ⭐️HERA",
+   "results": [
+    "https://www.facebook.com/empirehybridcats/videos/group-effort-/860298784792413/",
+    "https://www.facebook.com/PixiePadlock/posts/️hera-from-lore-olympus-of-line-webtoon-️without-spoilers-i-have-been-enjoying-t/3995766427151251/",
+    "https://www.facebook.com/Wasabibeautystorehk/posts/優惠價299連藝人都讚好嘅天后霜️hera-2神奇天后霜️hebe開️share美肌小秘密開通宵皮膚問題逐漸湧現又出雀斑啦️又起粒粒啦仲又痕又甩皮添啊好在有he/1411122685725100/",
+    "https://www.facebook.com/17841449286567507/videos/842066871443070/",
+    "https://www.facebook.com/NatalieBentleyRacing/videos/️hera-prima-️this-year-we-are-in-cagnes-sur-mer-for-christmas-with-our-3yo-hera-/3433509373443492/",
+    "https://www.facebook.com/CCBEAUTY2016/posts/️hera赫拉限量️彩虹黑珍珠超強保濕氣墊bb️21自然色內有一個替換芯比普通氣墊保濕-成分高出42倍spf34pa遮瑕保濕美白防嗮光澤5合1以植物自然調節色彩/811021199032581/",
+    "https://www.facebook.com/groups/213171889509137/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️HERA note 社長",
+   "results": [
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://yokotablog.com/sadaaki-kato-profile/",
+    "https://newspicks.com/news/8082791/body/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.com/koala_president",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️HERA X 投稿",
+   "results": [
+    "https://x.com/HARE_asteria/status/2119319356782031081",
+    "https://x.com/1484hiroyuki/status/2115370134999380245",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://x-sou.com/ja",
+    "https://myroll.net/",
+    "https://twiranking.net/",
+    "https://help.x.com/ja/using-x/edit-post"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

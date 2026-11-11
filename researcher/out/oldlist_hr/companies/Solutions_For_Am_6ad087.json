@@ -1,0 +1,440 @@
+{
+ "name": "Solutions For Am",
+ "aliases": [],
+ "context": "旧営業リスト｜AM / Additive Manufacturing｜日本進出済",
+ "researched_at": "2026-11-11T04:14:53.256298+00:00",
+ "official_url": "https://www.solutions-for-am.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Home - AM Solutions – 3D post processing technology",
+    "url": "https://www.solutions-for-am.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Post-processing systems and manufacturing services for additive manufacturing",
+    "url": "https://www.solutions-for-am.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "AM Solutions - 3D post processing technology is your partner for industrial post processing solutions and offers equipment independent of the printing process and the part material.",
+    "url": "https://www.solutions-for-am.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "AM Solutions - Manufacturing service partner will assist you through all the development steps of additive manufacturing technologies, from value discovery, feasibility analisys, engineering and prototyping up to production of post processed and finished components.",
+    "url": "https://www.solutions-for-am.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "3D post processing technology",
+    "url": "https://www.solutions-for-am.com/en",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Post-processing systems and manufacturing services for additive manufacturing",
+    "url": "https://www.solutions-for-am.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "AM Solutions - 3D post processing technology is your partner for industrial post processing solutions and offers equipment independent of the printing process and the part material.",
+    "url": "https://www.solutions-for-am.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "AM Solutions - Manufacturing service partner will assist you through all the development steps of additive manufacturing technologies, from value discovery, feasibility analisys, engineering and prototyping up to production of post processed and finished components.",
+    "url": "https://www.solutions-for-am.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing service partner",
+    "url": "https://www.solutions-for-am.com/en",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.solutions-for-am.com/en",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journal.ntt.co.jp/article/18448",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://amtel.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/5010001149558",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kft.kanematsu.co.jp/products/am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manageengine.jp/pace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/am-solutions-3d-post-processing-technology",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.com/jampt-plays-critical-role-in-driving-growth-of-metal-am-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLrbXsspGN_cdNYEMCr2ezDpjX2LCbGUi6RYwynslrZqzvUHSAc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/industries/customer-success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vJhUr8lTm-POt5hdRC505-sREGC-yWKpN2mxYwgyK7FsCbSTjU8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdpi.com/2076-3417/14/20/9417",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lmsportals.com/post/nine-types-of-white-label-saas-reseller-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.lightercapital.com/blogs/categories/industry-trends",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/nholmesacourt_how-much-revenue-does-the-average-startup-activity-7410518895192838144-vH7m",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ssir.org/articles/entry/ten_nonprofit_funding_models",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sba.gov/counseling/manage-your-business/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Solutions For Am 日本 導入",
+   "results": [
+    "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "https://journal.ntt.co.jp/article/18448",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.jeol.co.jp/",
+    "https://3dprinter.co.jp/",
+    "https://syscomgs.com/ja/news-and-events/page/4/?event_cat=on-demand",
+    "https://japan.ul.com/resources/automotive_solutions/",
+    "https://prtimes.jp/main/html/rd/p/000000013.000086669.html",
+    "https://en.wikipedia.org/wiki/Solution_(chemistry)",
+    "https://www.pts-tools.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "Solutions For Am 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "http://amtel.co.jp/",
+    "https://compalyze.co.jp/company/5010001149558",
+    "https://kft.kanematsu.co.jp/products/am/",
+    "https://www.manageengine.jp/pace/",
+    "https://www.aichi-sangyo.co.jp/products/slm/solutions.html",
+    "https://www.famictech.com/ja/%E4%BC%9A%E7%A4%BE/%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%BE%E3%81%9F%E3%81%AF%E5%86%8D%E8%B2%A9%E6%A5%AD%E8%80%85",
+    "https://www.engeniustech.com/jp/where-to-buy/",
+    "https://www.veeam.com/jp/partners/distributors-aggregators.html",
+    "https://bolttech.io/ja/%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9/%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB/",
+    "https://en.wikipedia.org/wiki/Solution_(chemistry)"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Solutions For Am Japan",
+   "results": [
+    "https://www.solutions-for-am.com/en/",
+    "https://www.linkedin.com/company/am-solutions-3d-post-processing-technology",
+    "https://www.voxelmatters.com/jampt-plays-critical-role-in-driving-growth-of-metal-am-in-japan/",
+    "https://metrology.news/additive-assurance-launches-amiris-real-time-am-quality-assurance-in-japan/",
+    "https://news.sharelab.jp/knowledge/entering-japan-with-sharelab/index.html",
+    "https://www.metal-am.com/articles/the-current-status-and-outlook-for-metal-additive-manufacturing-in-japan/",
+    "https://www.rosler.com/en/blog/detail/2023/03/14/intuitive-post-processing-preserves-intricate-3d-printed-details",
+    "https://www.voxelmatters.directory/company/additive-japan-corporation/",
+    "https://www.facebook.com/Thought3D/posts/after-a-long-journey-from-malta-to-japan-were-almost-there-and-cant-wait-to-expe/1430846205742590/",
+    "https://en.wikipedia.org/wiki/Solution_(chemistry)"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Solutions For Am manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLrbXsspGN_cdNYEMCr2ezDpjX2LCbGUi6RYwynslrZqzvUHSAc",
+    "https://www.eos.info/industries/customer-success-stories",
+    "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vJhUr8lTm-POt5hdRC505-sREGC-yWKpN2mxYwgyK7FsCbSTjU8",
+    "https://www.mdpi.com/2076-3417/14/20/9417",
+    "https://addupsolutions.com/applications/",
+    "https://proto3000.com/resources/case_studies/",
+    "https://www.bakerhughes.com/industrial-technology/additive-manufacturing/case-study",
+    "https://www.tth.com/resources/case-studies",
+    "https://www.authentise.com/post/case-studies-applications-of-additive-manufacturing",
+    "https://en.wikipedia.org/wiki/Solution_(chemistry)"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Solutions For Am white label OR reseller OR partner program",
+   "results": [
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.lmsportals.com/post/nine-types-of-white-label-saas-reseller-programs",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://vocal.media/journal/top-5-white-label-software-solutions-for-resellers",
+    "https://v2cloud.com/blog/white-label-saas-software-to-resell",
+    "https://suitedash.com/white-label-software-to-resell/",
+    "https://www.vendasta.com/blog/white-label-software-partner-program/",
+    "https://en.wikipedia.org/wiki/Solution_(chemistry)",
+    "https://www.pts-tools.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "Solutions For Am founded funding employees revenue",
+   "results": [
+    "https://www.lightercapital.com/blogs/categories/industry-trends",
+    "https://www.linkedin.com/posts/nholmesacourt_how-much-revenue-does-the-average-startup-activity-7410518895192838144-vH7m",
+    "https://ssir.org/articles/entry/ten_nonprofit_funding_models",
+    "https://www.sba.gov/counseling/manage-your-business/",
+    "https://www.reveliolabs.com/companies/revenue-solutions/employees",
+    "https://gaps.com/finance/",
+    "https://www.inc.com/inc5000",
+    "https://www.revenue.io/revenue-investors",
+    "https://www.adp.com/resources/articles-and-insights/articles/p/profit-sharing",
+    "https://en.wikipedia.org/wiki/Solution_(chemistry)"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:note.com Solutions For Am",
+   "results": [
+    "https://note.com/semiconnavi/n/nb00d1fd6bc66?hl=en",
+    "https://note.com/drw22/n/n513e3ad70923?hl=en",
+    "https://note.com/lycorp_recruit/n/nf9f9efcd3f7c?hl=en",
+    "https://note.com/ptcjapan/n/n6c42dcc75461?hl=en",
+    "https://note.com/buzzreach_note/n/n2b3cf9ba265e",
+    "https://note.com/mmysecondbrain/n/n1a8eff0347e8?hl=en",
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/lycorp_recruit/n/n97ee39bbfabd?hl=en",
+    "https://note.com/dear_teacher1761/n/n9d7a11df9c25?hl=en",
+    "https://note.com/tamayura_404/n/nb00259015d81?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:x.com Solutions For Am",
+   "results": [
+    "https://x.com/AmPhilSociety/status/2077069765298798851",
+    "https://x.com/SportsSturm/status/2119199157147881489",
+    "https://x.com/adityaag/status/2114907777957245033?lang=ar-x-fm",
+    "https://x.com/LeeSungAh_/status/2064410411818946848",
+    "https://x.com/zeeg/status/2119891422270951542",
+    "https://x.com/ERA_Uganda/status/2117308809496404347",
+    "https://x.com/Lead_Bank/status/1611057007573745664",
+    "https://x.com/WorldHealthSmt/status/2102683488377864338",
+    "https://x.com/antonioguterres/status/1867653215904514173",
+    "https://en.wikipedia.org/wiki/Solution_(chemistry)"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:linkedin.com Solutions For Am",
+   "results": [
+    "https://www.linkedin.com/company/am-solutions-3d-post-processing-technology",
+    "https://www.linkedin.com/company/amsolcon",
+    "https://www.linkedin.com/showcase/hp3dprinting/",
+    "https://www.linkedin.com/posts/am-solutions-3d-post-processing-technology_additivemanufacturing-3dprinting-industrial3dprinting-activity-7444708164622643200-stym",
+    "https://www.linkedin.com/company/am-solutions-software",
+    "https://www.linkedin.com/company/a-m--mailing-services-llc",
+    "https://www.linkedin.com/company/amsolutionsworldwide",
+    "https://de.linkedin.com/in/david-soldan-b08463a9",
+    "https://uk.linkedin.com/company/all-marketing-solutions",
+    "https://www.linkedin.com/company/am-technical-solutions-inc"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com Solutions For Am",
+   "results": [
+    "https://www.facebook.com/amsolutions247/",
+    "https://www.facebook.com/AmSolutionsWi/",
+    "https://www.facebook.com/AMSOLUTIONS412/",
+    "https://www.facebook.com/amsolutionsinc/",
+    "https://www.facebook.com/amsolutionslandscaping/",
+    "https://www.facebook.com/AMSolutions1379/",
+    "https://www.facebook.com/p/AM-Solutions-Motorsport-Harness-100063494921396/",
+    "https://www.facebook.com/p/AM-Solutions-Pvt-Ltd-61565617515254/",
+    "https://www.facebook.com/Amsoftsol/",
+    "https://en.wikipedia.org/wiki/Solution_(chemistry)"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Solutions For Am note 社長",
+   "results": [
+    "https://amg-solution.jp/blog/75069",
+    "https://www.3m.com/",
+    "https://note.com/simplearchitect/n/n9a1a7fd05257?hl=en",
+    "https://www.facebook.com/AmgSolution/posts/amg-solution%E5%85%AC%E5%BC%8Fnote%E3%82%92%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEamg-solution%E3%81%8C%E5%85%AC%E5%BC%8Fnote%E3%82%92%E9%96%8B%E5%A7%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E7%A0%94%E4%BF%AE%E3%82%841on1%E3%81%AA%E3%81%A9%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF%E3%82%92%E3%81%AA%E3%81%9C%E7%B6%9A%E3%81%91%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%E3%81%A8%E3%81%84/1774731387988265/",
+    "https://workspace.google.com/solutions/ai/ai-note-taking/",
+    "https://www.pnas.org/doi/10.1073/pnas.2509612123",
+    "https://www.hp.com/us-en/printers/3d-printers.html",
+    "https://www.gmfinancial.com/en-us/home.html",
+    "https://en.wikipedia.org/wiki/Solution_(chemistry)",
+    "https://www.pts-tools.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "Solutions For Am X 投稿",
+   "results": [
+    "https://1technation.com/ribbon-cutting-amx-solutions/",
+    "https://www.facebook.com/AMXtalk/",
+    "https://www.amx.com/en/product_families/1g-solutions",
+    "https://amxsolutions.com/",
+    "https://amxsolutionusa.com/",
+    "https://uk.linkedin.com/company/amx-solutions-ltd",
+    "https://theicecommunity.com/ice-debut-amx-solutions-inc/",
+    "https://www.solutions-for-am.com/en/news/detail/am-solutions-advances-automated-post-processing-with-innovations-and-strategic-partnerships-1",
+    "https://www.youtube.com/user/AMXtalk",
+    "https://en.wikipedia.org/wiki/Solution_(chemistry)"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）"
+ }
+}

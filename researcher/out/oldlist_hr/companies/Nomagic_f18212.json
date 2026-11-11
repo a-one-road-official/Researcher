@@ -1,0 +1,1253 @@
+{
+ "name": "Nomagic",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜送付済み",
+ "researched_at": "2026-11-11T04:13:48.258408+00:00",
+ "official_url": "https://nomagic.ai/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2017",
+    "url": "https://startupintros.com/orgs/nomagic",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Warsaw, Mazowieckie, Poland",
+    "url": "https://startupintros.com/orgs/nomagic",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Nomagic’s AI Brain guides robots as they integrate with your existing system for intelligent, predictable performance. Enhanced by our intelligence layer, they are able to react and adapt to optimize tasks from end-to-end, reduce errors, and drive measurable ROI around the clock.",
+    "url": "https://nomagic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From sorting to packing, our Physical AI solutions amplify your throughput, accuracy, and scalability with minimal intervention required. Backed by our AI brain and proprietary Link technology, our products operate autonomously and intelligently for always-on warehouses.",
+    "url": "https://nomagic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automating the packing of goods into the final package for the customer with industry-leading precision.",
+    "url": "https://nomagic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A successful warehouse requires pinpoint precision. Our AI Brain provides the intelligence layer to autonomously problem-solve and navigate complexity, chaos, and the unexpected.",
+    "url": "https://nomagic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trained on billions of product configurations, Nomagic’s AI continually refines its knowledge of your products for unmatched efficiency and reliability.",
+    "url": "https://nomagic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "With Nomagic’s Packing solution as part of our logistics backbone, we can scale faster, adapt to changing demand, and maintain the precision and reliability our customers expect.”",
+    "url": "https://nomagic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Expert Process Automation, Arvato",
+    "url": "https://nomagic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We partner with the most innovative robotics companies to add our AI intelligence layer to your hardware. Simple to implement, Nomagic extends your capabilities for comprehensive, competitive Physical AI solutions.",
+    "url": "https://nomagic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How our Physical AI is revolutionizing fulfillment processes, productivity, and accuracy in warehouses around the world.",
+    "url": "https://nomagic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our intelligence layer understands and reacts to complex situations, positioning your robots as the most productive, reliable, and intelligent options on the market.",
+    "url": "https://nomagic.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Together, our Physical AI helps solve your customers’ challenges around labor shortages, risk, and productivity bottlenecks while enhancing your revenue streams and product offerings.",
+    "url": "https://nomagic.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our award-winning intelligence layer is trained on billions of complex SKU configurations and helps you explore new products and revenue streams.",
+    "url": "https://nomagic.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI works with existing systems, no proprietary software or tools required.",
+    "url": "https://nomagic.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Specialized experts are on call for both you and your end customers. AI monitoring detects, analyzes, and fixes problems in real time.",
+    "url": "https://nomagic.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our production-ready, proven AI stack operates with 99% reliability in some of today’s top warehouses.",
+    "url": "https://nomagic.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Speak to Borja González, Global Partnership Director, to learn how our intelligence layer can make your robots the smartest option for customers, accelerating your global market presence and growth.",
+    "url": "https://nomagic.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We offer flexible partnership deals so our partners can select what best fits their business and their clients’ preferences.",
+    "url": "https://nomagic.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Nomagic solutions integrate into any systems that require a manual picking station, including Cube ASRS, shuttles, mini loads, and AMRs. They also work seamlessly with pocket and pouch sorters, cross belts, AMR sorters, and others.",
+    "url": "https://nomagic.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Currently, our solutions are used primarily by companies in the fashion, general merchandise, pharmaceutical, and beauty industries.",
+    "url": "https://nomagic.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to sales training sessions, materials, and in-person meetings, Nomagic supports partners with a variety of co-marketing opportunities to enhance their sales efforts.",
+    "url": "https://nomagic.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Robotic AI Process Automation Case Studies | Nomagic",
+    "url": "https://nomagic.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "See Nomagic in action through our customer case studies. From enhancing efficiency to revolutionising fulfillment processes, discover how our robotics solutions are transforming businesses worldwide.",
+    "url": "https://nomagic.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how ASOS enhanced warehouse efficiency with Nomagic’s justInduct robotics, improving order ...",
+    "url": "https://nomagic.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch with Nomagic to see how our innovative technology can take your fulfillment processes to the next level.",
+    "url": "https://nomagic.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "As a leading global supply chain and e-commerce service provider, Arvato needed a cutting-edge automation solution to enhance efficiency, reduce costs, and scale seamlessly with growing order volumes. With complex logistics operations and high customer expectations, the company sought a partner that could integrate advanced robotics into their existing infrastructure without disrupting workflows.",
+    "url": "https://nomagic.ai/case-study/arvato/",
+    "pass": 1
+   },
+   {
+    "quote": "Nomagic delivered a tailored AI-powered picking solution that streamlined fulfilment processes, increased picking accuracy, and optimised operational flow. By combining intelligent automation with Arvato’s extensive logistics expertise, the partnership unlocked new levels of efficiency, ensuring a fast, flexible, and future-proof warehouse operation.",
+    "url": "https://nomagic.ai/case-study/arvato/",
+    "pass": 1
+   },
+   {
+    "quote": "Returns process optimized for high quality picking",
+    "url": "https://nomagic.ai/case-study/arvato/",
+    "pass": 1
+   },
+   {
+    "quote": "To optimize the picking process, the returned items (e.g. T-shirts) need to be grouped by different colors - Robots autonomously choose the right grouping using their vision system.",
+    "url": "https://nomagic.ai/case-study/arvato/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Expert Process Automation,",
+    "url": "https://nomagic.ai/case-study/arvato/",
+    "pass": 1
+   },
+   {
+    "quote": "Constant flow of Batch picking process thanks to the use of two trolleys -> one can be exchanged while the other one is being used",
+    "url": "https://nomagic.ai/case-study/arvato/",
+    "pass": 1
+   },
+   {
+    "quote": "Nomagic has used laser curtains instead of doors for trolley exchange, which makes the process easier today and, above all, makes the station ready for future AGV deployment.",
+    "url": "https://nomagic.ai/case-study/arvato/",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch with Nomagic to see how our innovative technology can take your fulfillment processes to the next level.",
+    "url": "https://nomagic.ai/case-study/arvato/",
+    "pass": 1
+   },
+   {
+    "quote": "With the successful deployment of four induct systems, ASOS has enhanced processing speed, improved accuracy, and ensured a reliable fulfilment experience for millions of customers worldwide. This case study explores how ASOS leveraged Nomagic’s intelligent robotics to scale its logistics operations, meet increasing demand, and maintain its reputation for fast and efficient fashion delivery.",
+    "url": "https://nomagic.ai/case-study/asos/",
+    "pass": 1
+   },
+   {
+    "quote": "The robots have to be prepared to scan small, big and often hard-to-read barcodes from various producers. We’ve come up with ways to scan during movement and from all possible angles to make sure we’re efficient and fast and each item can be identified.",
+    "url": "https://nomagic.ai/case-study/asos/",
+    "pass": 1
+   },
+   {
+    "quote": "A huge online fashion retailer like ASOS has an offering for all seasons that includes not only all kinds of garments, but also accessories like bags, jewelry or hats. We’ve mastered them all while maintaining top speed and are proud to be able to call ourselves real experts at handling apparel.",
+    "url": "https://nomagic.ai/case-study/asos/",
+    "pass": 1
+   },
+   {
+    "quote": "The induct solution from Nomagic significantly improves our throughput and enables us to easily cope with the increasing demands during peak seasons. We were particularly impressed by the solution's ability to efficiently handle a wide range of fashion items.”",
+    "url": "https://nomagic.ai/case-study/asos/",
+    "pass": 1
+   },
+   {
+    "quote": "ASOS can use the benefits of automation from Nomagic during the whole warehouse operation time. For 24 hours 6 days a week, we’re providing unmatched support desk service including our remote operations which minimizes the need for onsite interventions.",
+    "url": "https://nomagic.ai/case-study/asos/",
+    "pass": 1
+   },
+   {
+    "quote": "Pocket sorter induction is among the most repetitive types of tasks in a modern warehouse. By automating it, ASOS can move its operators to tasks where they can use their skills better, improving efficiency and employee satisfaction.",
+    "url": "https://nomagic.ai/case-study/asos/",
+    "pass": 1
+   },
+   {
+    "quote": "Nomagic has integrated with the WMS using Robotic Process Automation, essentially mimicking actions that a manual operator would perform on the screen. This shortened the initial deployment time and made daily operations smoother.",
+    "url": "https://nomagic.ai/case-study/asos/",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch with Nomagic to see how our innovative technology can take your fulfillment processes to the next level.",
+    "url": "https://nomagic.ai/case-study/asos/",
+    "pass": 1
+   },
+   {
+    "quote": "When Brack.Alltron, Switzerland's second-largest e-commerce platform, sought a smarter way to handle their growing operational demands, they turned to Nomagic. Facing the challenges of high labour costs, diverse inventory, and weekend order peaks, Brack.Alltron needed a solution that combined efficiency, precision, and scalability.",
+    "url": "https://nomagic.ai/case-study/brack-ch/",
+    "pass": 1
+   },
+   {
+    "quote": "Goods in the ASRS are stored in bins that may be divided into up to 8 compartments. Such small volumes require careful and precise maneuvering, without impacting the overall cycle time.",
+    "url": "https://nomagic.ai/case-study/brack-ch/",
+    "pass": 1
+   },
+   {
+    "quote": "Brack.Alltron maintains the competitive edge by constantly innovating on the warehouse processes. With frequent changes, the picking capability has to be flexible and resilient towards new item storage processes, while",
+    "url": "https://nomagic.ai/case-study/brack-ch/",
+    "pass": 1
+   },
+   {
+    "quote": "Complete automation of outbound processes",
+    "url": "https://nomagic.ai/case-study/brack-ch/",
+    "pass": 1
+   },
+   {
+    "quote": "With orders coming in over the weekend, when the warehouse operations are limited, the customer experiences significant concentration of work on Mondays. Brack.Alltron can comfortably manage this peak, by introducing additional robot shifts to process orders on Sundays and early Monday mornings.",
+    "url": "https://nomagic.ai/case-study/brack-ch/",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to a special mode of operation called High Autonomy Mode, Pick robots work without any on-site support on Sundays, holidays and early mornings, when there is no staff in the warehouse.These additional autonomous shifts increase Brack.Alltron’s order processing capacity; making it easier to handle peak periods and accelerating delivery times.",
+    "url": "https://nomagic.ai/case-study/brack-ch/",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch with Nomagic to see how our innovative technology can take your fulfillment processes to the next level.",
+    "url": "https://nomagic.ai/case-study/brack-ch/",
+    "pass": 1
+   },
+   {
+    "quote": "By leveraging Nomagic’s AI-driven robotic picking solutions, Fiege achieved greater precision, reduced operational costs, and improved throughput—all without disrupting existing infrastructure. This case study explores how Fiege successfully scaled automation, enhanced worker productivity, and set a new benchmark for warehouse efficiency with the power of smart robotics.",
+    "url": "https://nomagic.ai/case-study/fiege/",
+    "pass": 1
+   },
+   {
+    "quote": "A proportion of items are not packed in polybags. Grasping cloth using suction is unreliable - the item has to be picked by the banderole, which is a new challenge for the picking function.",
+    "url": "https://nomagic.ai/case-study/fiege/",
+    "pass": 1
+   },
+   {
+    "quote": "For a human, rotating items to reveal a barcode is straightforward. However, in order to automate this process at a high throughput and success rate, one needs to introduce operational adjustments and maximise the effectiveness of scanning even with limited barcode visibility.",
+    "url": "https://nomagic.ai/case-study/fiege/",
+    "pass": 1
+   },
+   {
+    "quote": "Fiege uses existing cardboard compartments to divide bins for efficiency. Bins may be divided into 2, 4 or 6 compartments, with multiple orientations and materials used to split them. Such variety requires strong AI & vision capabilities and careful and precise maneuvering.",
+    "url": "https://nomagic.ai/case-study/fiege/",
+    "pass": 1
+   },
+   {
+    "quote": "Nomagic provided the flexibility in implementation required by Fiege. For example, Nomagic’s Induct Robot required no integration effort on the Warehouse Control System side.",
+    "url": "https://nomagic.ai/case-study/fiege/",
+    "pass": 1
+   },
+   {
+    "quote": "In terms of hardware, the Pick robots were adapted to use spring floor trolleys, seamlessly integrating the use case within the flow of manual operation.",
+    "url": "https://nomagic.ai/case-study/fiege/",
+    "pass": 1
+   },
+   {
+    "quote": "Pocket sorter induction is among the most repetitive types of tasks in a modern warehouse. By automating it, Fiege can move its operators to tasks where they can use their skills better, improving efficiency and employee satisfaction.",
+    "url": "https://nomagic.ai/case-study/fiege/",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch with Nomagic to see how our innovative technology can take your fulfillment processes to the next level.",
+    "url": "https://nomagic.ai/case-study/fiege/",
+    "pass": 1
+   },
+   {
+    "quote": "By integrating Nomagic’s Pack robots into its existing AutoStore and conveyor systems, Komplett transformed its fulfillment processes to run faster, smarter and around the clock.",
+    "url": "https://nomagic.ai/case-study/komplett_robot/",
+    "pass": 1
+   },
+   {
+    "quote": "Manual packing processes restricted throughput and created operational bottlenecks, especially during peak periods.",
+    "url": "https://nomagic.ai/case-study/komplett_robot/",
+    "pass": 1
+   },
+   {
+    "quote": "A growing product range required a system capable of managing multiple item types with speed and precision.",
+    "url": "https://nomagic.ai/case-study/komplett_robot/",
+    "pass": 1
+   },
+   {
+    "quote": "Integration had to fit within the existing AutoStore footprint without disrupting daily operations.",
+    "url": "https://nomagic.ai/case-study/komplett_robot/",
+    "pass": 1
+   },
+   {
+    "quote": "With Nomagic’s Packing solution as part of our logistics backbone, we can scale faster, adapt to changing demand, and maintain the precision and reliability our customers expect.”",
+    "url": "https://nomagic.ai/case-study/komplett_robot/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Nomagic | Physical AI for End-to-End Warehouse Automation",
+    "url": "https://nomagic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Best physical AI platform for your warehouse",
+    "url": "https://nomagic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Nomagic’s Physical AI delivers uninterrupted throughput and unmatched reliability through automation. Built to handle millions of SKUs in the world's most complex warehouses.",
+    "url": "https://nomagic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Always-On Warehouses with Physical AI",
+    "url": "https://nomagic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by today’s leading retailers, manufacturers, and logistics companies:",
+    "url": "https://nomagic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How We Automate Your Warehouse",
+    "url": "https://nomagic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From sorting to packing, our Physical AI solutions amplify your throughput, accuracy, and scalability with minimal intervention required. Backed by our AI brain and proprietary Link technology, our products operate autonomously and intelligently for always-on warehouses.",
+    "url": "https://nomagic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your Warehouse, Smarter Than Ever.",
+    "url": "https://nomagic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A successful warehouse requires pinpoint precision. Our AI Brain provides the intelligence layer to autonomously problem-solve and navigate complexity, chaos, and the unexpected.",
+    "url": "https://nomagic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Warehouse and",
+    "url": "https://nomagic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Expert insights into the latest innovations and advancements in Physical AI, robotics, and end-to-end warehouse automation.",
+    "url": "https://nomagic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Nomagic's latest milestones and industry breakthroughs as our autonomous Physical AI transforms warehouse operations.",
+    "url": "https://nomagic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How our Physical AI is revolutionizing fulfillment processes, productivity, and accuracy in warehouses around the world.",
+    "url": "https://nomagic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The World’s Most Complex Warehouses run on Nomagic’s Physical AI.",
+    "url": "https://nomagic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI. Your Systems. Your Customers’ Automated Warehouse.",
+    "url": "https://nomagic.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI software upgrades your hardware into an end-to-end warehouse automation solution for your customers.",
+    "url": "https://nomagic.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Equip Your Customers with the Smartest Warehouses",
+    "url": "https://nomagic.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "As a Nomagic partner, your robotic hardware leverages our AI Brain and the latest in logistics technology to revolutionize warehouse automation and give your customers their greatest competitive edge.",
+    "url": "https://nomagic.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our production-ready, proven AI stack operates with 99% reliability in some of today’s top warehouses.",
+    "url": "https://nomagic.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Expand reach and customer acquisitions as we work together to introduce your technology to warehouses around the world.",
+    "url": "https://nomagic.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Which warehouse management and automation systems does Nomagic integrate with?",
+    "url": "https://nomagic.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "To compete in automation, hardware companies need AI Brains to help their robots learn, react, and work autonomously. Together, we can build the solutions for always-on warehouses.",
+    "url": "https://nomagic.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "See how Zalando is supercharging its logistics operations in their warehouse in Verona, Italy with t...",
+    "url": "https://nomagic.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how ASOS enhanced warehouse efficiency with Nomagic’s justInduct robotics, improving order ...",
+    "url": "https://nomagic.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how FIEGE optimised its warehouse operations with Nomagic’s AI-powered robotics. Learn how ...",
+    "url": "https://nomagic.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "The latest in Physical AI and warehouse automation, delivered to your inbox.",
+    "url": "https://nomagic.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Nomagic delivered a tailored AI-powered picking solution that streamlined fulfilment processes, increased picking accuracy, and optimised operational flow. By combining intelligent automation with Arvato’s extensive logistics expertise, the partnership unlocked new levels of efficiency, ensuring a fast, flexible, and future-proof warehouse operation.",
+    "url": "https://nomagic.ai/case-study/arvato/",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to the many years of experience handling fashion at other customers’ warehouses, Nomagic has been able to instantly start working with the assortment at Arvato.",
+    "url": "https://nomagic.ai/case-study/arvato/",
+    "pass": 1
+   },
+   {
+    "quote": "Share This Case Study:",
+    "url": "https://nomagic.ai/case-study/arvato/",
+    "pass": 1
+   },
+   {
+    "quote": "With the successful deployment of four induct systems, ASOS has enhanced processing speed, improved accuracy, and ensured a reliable fulfilment experience for millions of customers worldwide. This case study explores how ASOS leveraged Nomagic’s intelligent robotics to scale its logistics operations, meet increasing demand, and maintain its reputation for fast and efficient fashion delivery.",
+    "url": "https://nomagic.ai/case-study/asos/",
+    "pass": 1
+   },
+   {
+    "quote": "Operation of an e-commerce fashion warehouse, and at the pocket sorter in particular, is really speedy. For ASOS to achieve the right ROI, each robot has to be performing at over 600 units per hour - and they have been consistently beating this target.Apart from the high speed of the robot itself, we’ve installed supplementary hardware such as the item pusher to maximize the solution performance.",
+    "url": "https://nomagic.ai/case-study/asos/",
+    "pass": 1
+   },
+   {
+    "quote": "ASOS can use the benefits of automation from Nomagic during the whole warehouse operation time. For 24 hours 6 days a week, we’re providing unmatched support desk service including our remote operations which minimizes the need for onsite interventions.",
+    "url": "https://nomagic.ai/case-study/asos/",
+    "pass": 1
+   },
+   {
+    "quote": "Pocket sorter induction is among the most repetitive types of tasks in a modern warehouse. By automating it, ASOS can move its operators to tasks where they can use their skills better, improving efficiency and employee satisfaction.",
+    "url": "https://nomagic.ai/case-study/asos/",
+    "pass": 1
+   },
+   {
+    "quote": "Black Friday and Christmas are huge for fashion retailers. With warehouses operating at peak capacity for a few months and difficulties in securing labour to match this need, the Nomagic robots help ensure that work will be done - at no extra cost.",
+    "url": "https://nomagic.ai/case-study/asos/",
+    "pass": 1
+   },
+   {
+    "quote": "Share This Case Study:",
+    "url": "https://nomagic.ai/case-study/asos/",
+    "pass": 1
+   },
+   {
+    "quote": "Brack.Alltron Partners with Nomagic for Warehouse Automation",
+    "url": "https://nomagic.ai/case-study/brack-ch/",
+    "pass": 1
+   },
+   {
+    "quote": "Brack.Alltron Case Study",
+    "url": "https://nomagic.ai/case-study/brack-ch/",
+    "pass": 1
+   },
+   {
+    "quote": "How Nomagic Empowered Brack.Alltron with Cutting Edge Warehouse Automation",
+    "url": "https://nomagic.ai/case-study/brack-ch/",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic warehouse operations",
+    "url": "https://nomagic.ai/case-study/brack-ch/",
+    "pass": 1
+   },
+   {
+    "quote": "Brack.Alltron maintains the competitive edge by constantly innovating on the warehouse processes. With frequent changes, the picking capability has to be flexible and resilient towards new item storage processes, while",
+    "url": "https://nomagic.ai/case-study/brack-ch/",
+    "pass": 1
+   },
+   {
+    "quote": "With a clear vision for warehouse automation, Brack.Alltron is at the forefront of implementing cutting-edge technologies throughout its warehouse operations. Nomagic, covering Order Picking and Order Packing use cases, enabled the customer to turn this part of the vision into reality.",
+    "url": "https://nomagic.ai/case-study/brack-ch/",
+    "pass": 1
+   },
+   {
+    "quote": "Fitting within the operational environment at the customer warehouse was severely constrained due to limited availability of space near the ASRS. Nomagic delivered a highly compact station, enabling the customer to continue standard warehouse operations while guaranteeing safety of the staff.",
+    "url": "https://nomagic.ai/case-study/brack-ch/",
+    "pass": 1
+   },
+   {
+    "quote": "With orders coming in over the weekend, when the warehouse operations are limited, the customer experiences significant concentration of work on Mondays. Brack.Alltron can comfortably manage this peak, by introducing additional robot shifts to process orders on Sundays and early Monday mornings.",
+    "url": "https://nomagic.ai/case-study/brack-ch/",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to a special mode of operation called High Autonomy Mode, Pick robots work without any on-site support on Sundays, holidays and early mornings, when there is no staff in the warehouse.These additional autonomous shifts increase Brack.Alltron’s order processing capacity; making it easier to handle peak periods and accelerating delivery times.",
+    "url": "https://nomagic.ai/case-study/brack-ch/",
+    "pass": 1
+   },
+   {
+    "quote": "Share This Case Study:",
+    "url": "https://nomagic.ai/case-study/brack-ch/",
+    "pass": 1
+   },
+   {
+    "quote": "How Fiege Transformed Warehouse Efficiency with Nomagic Robotics",
+    "url": "https://nomagic.ai/case-study/fiege/",
+    "pass": 1
+   },
+   {
+    "quote": "Transforming Warehouse Automation: How Fiege Boosted Efficiency with Nomagic Robotics",
+    "url": "https://nomagic.ai/case-study/fiege/",
+    "pass": 1
+   },
+   {
+    "quote": "Fiege, a leader in logistics and supply chain management, faced the growing challenge of meeting rising e-commerce demands while maintaining speed, accuracy, and efficiency in its fulfilment centres. To stay ahead, Fiege partnered with Nomagic to integrate intelligent robotics into its operations, automating repetitive picking tasks and optimising warehouse workflows.",
+    "url": "https://nomagic.ai/case-study/fiege/",
+    "pass": 1
+   },
+   {
+    "quote": "By leveraging Nomagic’s AI-driven robotic picking solutions, Fiege achieved greater precision, reduced operational costs, and improved throughput—all without disrupting existing infrastructure. This case study explores how Fiege successfully scaled automation, enhanced worker productivity, and set a new benchmark for warehouse efficiency with the power of smart robotics.",
+    "url": "https://nomagic.ai/case-study/fiege/",
+    "pass": 1
+   },
+   {
+    "quote": "Director Warehouse Automation, Fiege",
+    "url": "https://nomagic.ai/case-study/fiege/",
+    "pass": 1
+   },
+   {
+    "quote": "Nomagic provided the flexibility in implementation required by Fiege. For example, Nomagic’s Induct Robot required no integration effort on the Warehouse Control System side.",
+    "url": "https://nomagic.ai/case-study/fiege/",
+    "pass": 1
+   },
+   {
+    "quote": "Pocket sorter induction is among the most repetitive types of tasks in a modern warehouse. By automating it, Fiege can move its operators to tasks where they can use their skills better, improving efficiency and employee satisfaction.",
+    "url": "https://nomagic.ai/case-study/fiege/",
+    "pass": 1
+   },
+   {
+    "quote": "Share This Case Study:",
+    "url": "https://nomagic.ai/case-study/fiege/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Warehouse and",
+    "url": "https://nomagic.ai/case-study/komplett_robot/",
+    "pass": 1
+   },
+   {
+    "quote": "Inside the case study:",
+    "url": "https://nomagic.ai/case-study/komplett_robot/",
+    "pass": 1
+   },
+   {
+    "quote": "Share This Case Study:",
+    "url": "https://nomagic.ai/case-study/komplett_robot/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in Berlin in 2008, Zalando is the leading European technology platform for fashion and lifestyle. Zalando Group is connecting 62 million active customers with more than 7,000 brands across 29 markets. See how Zalando is supercharging its logistics operations in their warehouse in Verona, Italy with the AI-driven Nomagic robots including the Shoebox Picker.",
+    "url": "https://nomagic.ai/case-study/zalando/",
+    "pass": 1
+   },
+   {
+    "quote": "Share This Case Study:",
+    "url": "https://nomagic.ai/case-study/zalando/",
+    "pass": 1
+   },
+   {
+    "quote": "Nomagic | Building Your Warehouse's Physical AI",
+    "url": "https://nomagic.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Nomagic engineers Physical AI systems that automate the flow of goods through warehouses with unprecedented increases in speed, accuracy, and throughput for scalable and consistent business growth.",
+    "url": "https://nomagic.ai/about-us/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "With Nomagic’s Packing solution as part of our logistics backbone, we can scale faster, adapt to changing demand, and maintain the precision and reliability our customers expect.”",
+    "url": "https://nomagic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Together, our Physical AI helps solve your customers’ challenges around labor shortages, risk, and productivity bottlenecks while enhancing your revenue streams and product offerings.",
+    "url": "https://nomagic.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our award-winning intelligence layer is trained on billions of complex SKU configurations and helps you explore new products and revenue streams.",
+    "url": "https://nomagic.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Expand reach and customer acquisitions as we work together to introduce your technology to warehouses around the world.",
+    "url": "https://nomagic.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "With a clear vision for warehouse automation, Brack.Alltron is at the forefront of implementing cutting-edge technologies throughout its warehouse operations. Nomagic, covering Order Picking and Order Packing use cases, enabled the customer to turn this part of the vision into reality.",
+    "url": "https://nomagic.ai/case-study/brack-ch/",
+    "pass": 1
+   },
+   {
+    "quote": "With Nomagic’s Packing solution as part of our logistics backbone, we can scale faster, adapt to changing demand, and maintain the precision and reliability our customers expect.”",
+    "url": "https://nomagic.ai/case-study/komplett_robot/",
+    "pass": 1
+   },
+   {
+    "quote": "Implementing the robots is supporting our employees because they can focus more on complex tasks while the robot is taking care of more repetitive tasks.”",
+    "url": "https://nomagic.ai/case-study/zalando/",
+    "pass": 1
+   },
+   {
+    "quote": "Feedback is the key to helping others improve. It is an essential part of our culture, be it external or internal, to our peers, direct reports, managers or to the CEO. Anyone is expected to facilitate feedback, welcome it and to deliver it back in a direct but respectful way.",
+    "url": "https://nomagic.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "With our expert leaders and employees, many with backgrounds from Google or ABB, we create an environment where we all learn super fast. At Nomagic, everyone realizes their full potential - be it in technology or business and administrative roles.",
+    "url": "https://nomagic.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "220% ARR growth in the past year",
+    "url": "https://startupintros.com/orgs/nomagic",
+    "pass": 3
+   },
+   {
+    "quote": "Nomagic is well-positioned to capture significant market share in the $10+ billion warehouse automation sector as reshoring accelerates and labor costs continue rising globally. The company's Series B funding and 220% ARR growth suggest strong product-market fit and customer demand. Key factors shaping its trajectory include:",
+    "url": "https://startupintros.com/orgs/nomagic",
+    "pass": 3
+   },
+   {
+    "quote": ": As the warehouse automation market matures, larger industrial automation companies may view Nomagic as an acquisition target, or the company could pursue strategic partnerships to accelerate adoption.",
+    "url": "https://startupintros.com/orgs/nomagic",
+    "pass": 3
+   },
+   {
+    "quote": "Kacper Nowicki is listed as CEO at Nomagic.",
+    "url": "https://fundediq.co/nomagic-nomagic-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Nomagic have?",
+    "url": "https://fundediq.co/nomagic-nomagic-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/nomagic-nomagic-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/nomagic-nomagic-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Zalando、Nomagic社製AIロボットを欧州全域で導入 - FashionNetwork ... — Mar 24, 2026 · Zalando は、物流センターにおける自動化を一段と拡充している。 初期テストを経て、テクノロジー企業NomagicのAI搭載ロボット約50台が、仕分けや梱包の効率向上を目的に、すでに欧州全域の物流ネットワークに配備され、稼働している。",
+    "url": "https://jp.fashionnetwork.com/news/Zalando-nomagic社製aiロボットを欧州全域で導入,1818350.html",
+    "pass": 3
+   },
+   {
+    "quote": "Nomagic | Physical AI for End-to-End Warehouse Automation — Nomagic's Physical AI automate picking, packing, sorting and more for unmatched throughput and reliability in the world's most complex warehouses.",
+    "url": "https://nomagic.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Nomagic News, Updates on Robotics & Fulfillment Innovation — Aug 24, 2026 · Stay informed with the latest news from Nomagic. Explore our milestones, partnerships, and industry breakthroughs as we lead the way in robotics, AI, and warehouse automation.",
+    "url": "https://nomagic.ai/news/",
+    "pass": 3
+   },
+   {
+    "quote": "Nomagic - LinkedIn 日本 — From piece-picking automation to seamless integration with warehouse management systems (WMS), Nomagic’s technology is designed to reduce operational costs, solve labour shortages and meet ever...",
+    "url": "https://jp.linkedin.com/company/nomagic",
+    "pass": 3
+   },
+   {
+    "quote": "CATIA Magic を使用したモデルベースのシステム・エンジニアリング | ... — 2018 年に、ダッソー・システムズは、新しいコネクテッド・エクスペリエンスを推進するために、モデルベースのシステムズエンジニアリング、ソフトウェア・アーキテクチャおよびビジネス・プロセスのモデリング ソリューションにおけるトップ企業、No Magic を買収し、システムズ ...",
+    "url": "https://www.3ds.com/ja/products/catia/catia-magic",
+    "pass": 3
+   },
+   {
+    "quote": "Robotic AI Process Automation Case Studies | Nomagic — Jan 20, 2025 · See Nomagic in action through our customer case studies. From enhancing efficiency to revolutionising fulfillment processes, discover how our robotics solutions are transforming businesses worldwide.",
+    "url": "https://nomagic.ai/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Nomagic B2B Case Studies & Customer Successes — See how Nomagic solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/nomagic",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Arvato achieves faster, more accurate fulfilment ... — Facing high customer expectations and growing order volumes, the customer needed a cutting-edge automation solution that could integrate with its existing infrastructure without causing disruption, leading them to partner with robotics vendor Nomagic.",
+    "url": "https://www.casestudies.com/company/nomagic/case-study/how-nomagic-transformed-arvatos-fulfilment-operations",
+    "pass": 3
+   },
+   {
+    "quote": "How Fiege Transformed Warehouse Efficiency with Nomagic Robotics — This case study explores how Fiege successfully scaled automation, enhanced worker productivity, and set a new benchmark for warehouse efficiency with the power of smart robotics.",
+    "url": "https://nomagic.ai/case-study/fiege/",
+    "pass": 3
+   },
+   {
+    "quote": "5 Nomagic Case Studies, Success Stories, & Customer Stories — Nomagic has a 4.7/5 star rating. Learn what their customers think, get 4 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/nomagic/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Nomagic 2026 Company Profile: Valuation, Funding & Investors ...Nomagic: Funding, Team & Investors | Startup IntrosNomagic: Funding, Investors & Team (Nov 2026) | FundedIQNomagic - 2026 Company Profile, Team, Funding, Competitors ...Nomagic – Growth Analysis & Alternative Companies – 2026Nomagic Revenue 2025: $46.9M Est. ARR - getlatka.comNomagic (AI) — Funding, Investors & Signals 2026 - Bounce W",
+    "url": "https://pitchbook.com/profiles/company/235183-15",
+    "pass": 3
+   },
+   {
+    "quote": "Nomagic: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · With approximately 117 employees and reported revenue of $31.8 million, Nomagic is positioned as a leader in the rapidly expanding warehouse automation sector.[2]",
+    "url": "https://startupintros.com/orgs/nomagic",
+    "pass": 3
+   },
+   {
+    "quote": "Nomagic: Funding, Investors & Team (Nov 2026) | FundedIQ — Nomagic is an Artificial Intelligence company in Warsaw, Poland. Raised $84.6M across 4 rounds; latest a Series B in Jan 2026. Investors and funding history.",
+    "url": "https://fundediq.co/nomagic-nomagic-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Nomagic - 2026 Company Profile, Team, Funding, Competitors ...Nomagic – Growth Analysis & Alternative Companies – 2026Nomagic Revenue 2025: $46.9M Est. ARR - getlatka.comNomagic (AI) — Funding, Investors & Signals 2026 - Bounce Watch — Jun 6, 2026 · Nomagic is a series B company based in Warsaw (Poland), founded in 2017 by Kacper Nowicki, Marek Cygan and Tristan D'orgeval. It operates as a Develop",
+    "url": "https://tracxn.com/d/companies/nomagic/__DS67IQR0V9o5wKN8saixw1fX6b0btrGFSl3TRcwuoCE",
+    "pass": 3
+   },
+   {
+    "quote": "Nomagic – Growth Analysis & Alternative Companies – 2026 — Industry estimates place Nomagic's yearly revenue at around $46.9M. Nomagic anticipates $781.6K in revenue per employee. The total funding raised by Nomagic is $85M. Nomagic is supported by a team of more than 60+ professionals. Disclosed rounds shown total $64M. Reported total funding is $85M.",
+    "url": "https://compworth.com/company/nomagic",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "FOTOhub AI | Unified Generative AI Infrastructure for Modern Agencies & Creators FOTOhub AI is the core…",
+    "url": "https://fundediq.co/nomagic-nomagic-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact details for the Nomagic team: 1 of 2 have an email address on file.",
+    "url": "https://fundediq.co/nomagic-nomagic-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/nomagic-nomagic-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "NoMagic (@icebakbum) / X From senk.dev 3 301 NoMagic @icebakbum Nov 5 哈哈,怪物军团形象出炉!~ 我的游戏开发vlog senk.dev #IndieGameDevs #GameDevelopment #TripoAI #threejs",
+    "url": "https://x.com/icebakbum",
+    "pass": 3
+   },
+   {
+    "quote": "NoMagic on X: \"@GoodHeartGames\" 🎉 The SideStamp page is officially live on Steam! After years of development, I finally feel I have something polished enough to share in a trailer. Demo coming soon! Link below 👇 00:00 3 3 40 1.9K NoMagic @icebakbum GIF 2:36 AM · Oct 30, 2026 · 48 Views 1 1 GoodHeartGames @GoodHeartGames 4h Thank you! 🙏 1 41",
+    "url": "https://x.com/icebakbum/status/2115996217557827835",
+    "pass": 3
+   },
+   {
+    "quote": "전지율 (@nomagicmagic) / X 0 followers · 2 following. Joined Feb 2025. See the latest conversations with @nomagicmagic",
+    "url": "https://x.com/nomagicmagic",
+    "pass": 3
+   },
+   {
+    "quote": "NoMagic on X: \"@oldgamesnob I need to Agent to use it in the ... Here's my 3D character workflow in Sorceress: concept art, model generation, rigging, animation fixes and export. I show the adjustments that turn generated motion into a useful game asset. #gamedev #aigamedev #indiegamedev Link in the comments. 00:00 2 1 14 526 NoMagic @icebakbum",
+    "url": "https://x.com/icebakbum/status/2115043732278169896",
+    "pass": 3
+   },
+   {
+    "quote": "NoMagic on X Oct 12, 2026 · 人物+装备 自动化生成及处理管线完成. 接下来是怪物生成 3 1 20 1.8K NoMagic @icebakbum 7:42 AM · Oct 12, 2026 · 180 Views",
+    "url": "https://x.com/icebakbum/status/2109550221676183689",
+    "pass": 3
+   },
+   {
+    "quote": "NoMagic on X: \"@yu_f6712 是自己捕捉的动作吗?\" / X Oct 23, 2026 · 刀モーション作りました 改善できるところがあれば教えていただけるとありがたいです！ 🙇♂️ #3Danimation #CG添削希望 00:00 4 18 200 8.6K NoMagic @icebakbum Show translation",
+    "url": "https://x.com/icebakbum/status/2113523470500077644",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "No Magic Inc. - FacebookNomagic Warsaw MIMotaurs - FacebookAdam Nomagic - FacebookNomagic - THE ULTIMATE FINALE! Our team is already in Abu ...Polish start-up Nomagic is integrating AI and robots into ...No Magic - FacebookChoose your words correctly when manefesting - words are ... Feb 9, 2015 · No Magic Inc. 20 followers. No Magic Inc. is the developer of the award winning Magic Draw and Cameo s",
+    "url": "https://www.facebook.com/NoMagicInc/",
+    "pass": 3
+   },
+   {
+    "quote": "Nomagic Warsaw MIMotaurs - FacebookAdam Nomagic - FacebookNomagic - THE ULTIMATE FINALE! Our team is already in Abu ...Polish start-up Nomagic is integrating AI and robots into ...No Magic - FacebookChoose your words correctly when manefesting - words are ... Feb 14, 2024 · The Nomagic Warsaw MIMotaurs will leave you speechless. Founded in 2019, the team combines talent from academia and business ",
+    "url": "https://www.facebook.com/WarsawMIMotaurs/",
+    "pass": 3
+   },
+   {
+    "quote": "Adam Nomagic - Facebook Adam Nomagic is on Facebook. Join Facebook to connect with Adam Nomagic and others you may know. Facebook gives people the power to share and makes the...",
+    "url": "https://www.facebook.com/adam.nomagic/",
+    "pass": 3
+   },
+   {
+    "quote": "Nomagic - THE ULTIMATE FINALE! Our team is already in Abu ... Jan 31, 2024 · The Nomagic Warsaw MIMotaurs will leave you speechless. Founded in 2019, the team combines talent from academia and business to solve challenges in the field of robotics.",
+    "url": "https://www.facebook.com/WarsawMIMotaurs/photos/the-ultimate-finale-our-team-is-already-in-abu-dhabi-where-the-final-battle-for-/950988963219153/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://nomagic.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nomagic.ai/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nomagic.ai/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nomagic.ai/case-study/arvato/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nomagic.ai/case-study/asos/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nomagic.ai/case-study/brack-ch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nomagic.ai/case-study/fiege/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nomagic.ai/case-study/komplett_robot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nomagic.ai/case-study/zalando/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nomagic.ai/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nomagic.ai/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nomagic.ai/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nomagic.ai/careers/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://nomagic.ai/wp-content/uploads/2026/03/Partnerships_nomagic_Image2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://nomagic.ai/wp-content/uploads/2026/03/Portrait-photo-Borja-768x1280.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODAiIGhlaWdodD0iNzkiLz4=",
+    "status": "error",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://jp.fashionnetwork.com/news/Zalando-nomagic%E7%A4%BE%E8%A3%BDai%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%92%E6%AC%A7%E5%B7%9E%E5%85%A8%E5%9F%9F%E3%81%A7%E5%B0%8E%E5%85%A5,1818350.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/nomagic",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/nomagic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/nomagic/case-study/how-nomagic-transformed-arvatos-fulfilment-operations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/235183-15",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/nomagic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/nomagic-nomagic-ai-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/nomagic/__DS67IQR0V9o5wKN8saixw1fX6b0btrGFSl3TRcwuoCE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/icebakbum",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/icebakbum/status/2115996217557827835",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nomagicmagic",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/icebakbum/status/2115043732278169896",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NoMagicInc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/WarsawMIMotaurs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/adam.nomagic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/WarsawMIMotaurs/photos/the-ultimate-finale-our-team-is-already-in-abu-dhabi-where-the-final-battle-for-/950988963219153/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/icebakbum/status/2109550221676183689",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/icebakbum/status/2113523470500077644",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Nomagic 日本 導入",
+   "results": [
+    "https://jp.fashionnetwork.com/news/Zalando-nomagic社製aiロボットを欧州全域で導入,1818350.html",
+    "https://nomagic.ai/",
+    "https://nomagic.ai/news/",
+    "https://jp.linkedin.com/company/nomagic",
+    "https://www.3ds.com/ja/products/catia/catia-magic",
+    "https://www.3ds.com/ja/newsroom/press-releases/no-magic-acquisition-completed-dassault-systemes-strengthens-foothold-systems-engineering-facilitate-new-connected-experiences",
+    "https://prtimes.jp/main/html/rd/p/000000228.000006067.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nomagic 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://nomadinc.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nomagic Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Nomagic manufacturing customer case study",
+   "results": [
+    "https://nomagic.ai/case-studies/",
+    "https://www.casestudies.com/company/nomagic",
+    "https://www.casestudies.com/company/nomagic/case-study/how-nomagic-transformed-arvatos-fulfilment-operations",
+    "https://nomagic.ai/case-study/fiege/",
+    "https://www.featuredcustomers.com/vendor/nomagic/case-studies",
+    "https://magicfuse.co/case-studies/nomagic",
+    "https://www.youtube.com/watch?v=9FONsESoPUc"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nomagic white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://partners.spectrum.com/",
+    "https://www.extremenetworks.com/partners"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nomagic founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/235183-15",
+    "https://startupintros.com/orgs/nomagic",
+    "https://fundediq.co/nomagic-nomagic-ai-funding/",
+    "https://tracxn.com/d/companies/nomagic/__DS67IQR0V9o5wKN8saixw1fX6b0btrGFSl3TRcwuoCE",
+    "https://compworth.com/company/nomagic",
+    "https://getlatka.com/companies/nomagic.ai",
+    "https://bouncewatch.com/company/nomagic"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Nomagic",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Nomagic",
+   "results": [
+    "https://x.com/icebakbum",
+    "https://x.com/icebakbum/status/2115996217557827835",
+    "https://x.com/nomagicmagic",
+    "https://x.com/icebakbum/status/2115043732278169896",
+    "https://x.com/nomagic27",
+    "https://x.com/icebakbum/status/2119645733863494056",
+    "https://x.com/icebakbum/status/2117846468702957854"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Nomagic",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Nomagic",
+   "results": [
+    "https://www.facebook.com/NoMagicInc/",
+    "https://www.facebook.com/WarsawMIMotaurs/",
+    "https://www.facebook.com/adam.nomagic/",
+    "https://www.facebook.com/WarsawMIMotaurs/photos/the-ultimate-finale-our-team-is-already-in-abu-dhabi-where-the-final-battle-for-/950988963219153/",
+    "https://www.facebook.com/euronews/videos/made-in-europe-nomagic/1862546191350913/",
+    "https://www.facebook.com/nomagicradio/",
+    "https://www.facebook.com/ece.karagoz.352796/videos/manifesting-carefully/1846717356317421/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nomagic note 社長",
+   "results": [
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.theofficialboard.com/org-chart/nomagic",
+    "https://nomagic.ai/about-us/",
+    "https://nomagic.ai/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nomagic X 投稿",
+   "results": [
+    "https://x.com/icebakbum/status/2109550221676183689",
+    "https://x.com/icebakbum/status/2113523470500077644",
+    "https://nomagic.ai/",
+    "https://nomagic.ai/news/nomagic-wins-2026-ifoy-award-for-shoebox-picker-marking-breakthrough-in-warehouse-automation-for-fashion-and-footwear-fulfillment/",
+    "https://www.youtube.com/playlist?list=PLbfwk_vpvEfuADcOpeVaveL9SOiklwE6K",
+    "https://docs.nomagic.com/spaces/MD2024x/pages/136715053/Developer+Guide",
+    "https://docs.nomagic.com/spaces/TWCloud2024x/pages/137987736/REST+APIs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像3件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像3件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像3件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像3件／外部26頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式13頁／PDF・画像3件／外部26頁・検索12回）"
+ }
+}

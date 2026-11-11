@@ -1,0 +1,1151 @@
+{
+ "name": "Draftaid",
+ "aliases": [],
+ "context": "旧営業リスト｜Factory Software / MES / Industrial Data｜返信あり",
+ "researched_at": "2026-11-11T04:18:01.815210+00:00",
+ "official_url": "https://draftaid.io",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "01-May-2024    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/534443-23",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Tailor every detail to your project’s needs—DraftAid automatically adapts to your company’s templates, standards, and preferences for seamless, precise, and production-ready drawings.",
+    "url": "https://draftaid.io/",
+    "pass": 1
+   },
+   {
+    "quote": "DraftAid ensures precise, intelligent annotations and automated dimensioning, eliminating guesswork and ensuring every drawing meets exact manufacturing requirements.",
+    "url": "https://draftaid.io/",
+    "pass": 1
+   },
+   {
+    "quote": "DraftAid is built to seamlessly integrate with a variety of major CAD software, ensuring a smooth transition and enhancing your existing systems without the need for extensive retraining or overhaul.",
+    "url": "https://draftaid.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering teams need powerful, adaptable tools that eliminate tedious tasks, so they can focus on creativity and problem-solving. DraftAid’s advanced automation delivers just that.",
+    "url": "https://draftaid.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers rely on precise, detailed drawings to keep production lines running smoothly. DraftAid reduces bottlenecks, improves accuracy, and ensures every design is ready for manufacturing.",
+    "url": "https://draftaid.io/",
+    "pass": 1
+   },
+   {
+    "quote": "DraftAid is built to handle the complex drafting needs of the automotive industry, from intricate assemblies to precision-machined sheet metal components. By automating repetitive tasks, teams can focus on innovation and stay ahead of production schedules.",
+    "url": "https://draftaid.io/",
+    "pass": 1
+   },
+   {
+    "quote": "DraftAid empowers manufacturing teams to create accurate, production-ready drafts for a variety of components, from pipes to complex extrusions. Its automation tools reduce errors, enhance consistency, and save valuable time on shop floor preparation.",
+    "url": "https://draftaid.io/",
+    "pass": 1
+   },
+   {
+    "quote": "DraftAid supports the construction industry by automating drafting for curtainwalls, profiles, and other complex structural components. Its intelligent tools ensure that every detail is captured accurately and efficiently, from early design stages to final production.",
+    "url": "https://draftaid.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision and Automation—A Winning Combination with DraftAid",
+    "url": "https://draftaid.io/",
+    "pass": 1
+   },
+   {
+    "quote": "With just one click, I was able to generate precise drawings that required minimal adjustments. The software accurately captured nuances that even experienced drafters occasionally overlook.",
+    "url": "https://draftaid.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Boosting Productivity by 3X with DraftAid",
+    "url": "https://draftaid.io/",
+    "pass": 1
+   },
+   {
+    "quote": "After integrating DraftAid into our workflow, I quickly realized its impact. The tool significantly reduced drafting time while consistently delivering precise details, particularly in dimensioning holes and slots. In fact, DraftAid has accelerated my drawing process by three times.",
+    "url": "https://draftaid.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Like any AI-powered solution, there was an initial learning phase to refine the output to align with our specific requirements. However, throughout this process, the DraftAid team provided exceptional support, ensuring a smooth transition and optimal results.",
+    "url": "https://draftaid.io/",
+    "pass": 1
+   },
+   {
+    "quote": "So far, DraftAid has proven to be a highly reliable tool, and given the dedication and responsiveness of the team behind it, I am confident in its future. It is well on its way to making manual drafting obsolete.",
+    "url": "https://draftaid.io/",
+    "pass": 1
+   },
+   {
+    "quote": "J. Laranjo, CNC programmer for 8 years",
+    "url": "https://draftaid.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring your own models to the call, and watch as DraftAid transforms them into professional, production-ready drawings in seconds. Let’s streamline your workflow together.",
+    "url": "https://draftaid.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by engineers working on everything from skyscrapers to automotive components, DraftAid ensures faster project timelines, greater consistency, and fewer errors. With over 210,000 drawings created through our tool, we’re proving the power of AI in reshaping traditional workflows.",
+    "url": "https://draftaid.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "“Over 210,000 manufacturing drawings and counting—DraftAid is revolutionizing drafting processes worldwide.”",
+    "url": "https://draftaid.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "4x productivity boost",
+    "url": "https://draftaid.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": ", generating 1,600 drawings in a single month compared to 400 previously. By automating the drafting process, DraftAid saves time, accelerates workflows, and ensures accuracy, helping teams move from design to manufacturing with ease.",
+    "url": "https://draftaid.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "With intelligent automation tools and a commitment to precision,",
+    "url": "https://draftaid.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to transform your engineering design process? Schedule a time to speak to our team.",
+    "url": "https://draftaid.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "CPQツール (例: Tacton): CPQ (Configure, Price, Quote) ツールは、複雑な製品の構成を定義し、価格を算出して見積もりを作成するプロセスを自動化します",
+    "url": "https://skywork.ai/skypage/ja/draftaid-ai-drawing-assistant/1985202026901217280",
+    "pass": 3
+   },
+   {
+    "quote": "将来的にはOnshapeなど、他の主要なCADプラットフォームへの対応も計画されているようですComplete AI Training,",
+    "url": "https://skywork.ai/skypage/ja/draftaid-ai-drawing-assistant/1985202026901217280",
+    "pass": 3
+   },
+   {
+    "quote": "which ai tool can i use to draw projection of solids",
+    "url": "https://www.toolmage.com/ja/tool/draftaid/",
+    "pass": 3
+   },
+   {
+    "quote": "DraftAid Videos on YouTube",
+    "url": "https://www.toolmage.com/ja/tool/draftaid/",
+    "pass": 3
+   },
+   {
+    "quote": "DraftAid ensures precise, intelligent annotations and automated dimensioning, eliminating guesswork and ensuring every drawing meets exact manufacturing requirements.",
+    "url": "https://marketplace.autodesk.com/apps/3cf6305d-30b5-49b4-95cd-5873542b101d",
+    "pass": 3
+   },
+   {
+    "quote": "DraftAid is built to seamlessly integrate with Autodesk® Inventor®, ensuring a smooth transition and enhancing your existing systems without the need for extensive retraining or overhaul.",
+    "url": "https://marketplace.autodesk.com/apps/3cf6305d-30b5-49b4-95cd-5873542b101d",
+    "pass": 3
+   },
+   {
+    "quote": "Is there additional support information provided?",
+    "url": "https://marketplace.autodesk.com/apps/3cf6305d-30b5-49b4-95cd-5873542b101d",
+    "pass": 3
+   },
+   {
+    "quote": "John Savill's Technical Training",
+    "url": "https://www.youtube.com/watch?v=1izjH1oCAi4",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesale Print Shop Tour: Machine Layout, Workflow Changes & Lessons Learned",
+    "url": "https://www.youtube.com/watch?v=1izjH1oCAi4",
+    "pass": 3
+   },
+   {
+    "quote": "Practical Engineering",
+    "url": "https://www.youtube.com/watch?v=1izjH1oCAi4",
+    "pass": 3
+   },
+   {
+    "quote": "This video shows how Backyard Discovery automates 2D shop drawings with Draftaid to move faster and reclaim engineering time. It is for mechanical engineers, CAD managers, and product design teams who want to cut manual drafting out of their workflow.",
+    "url": "https://www.youtube.com/watch?v=1izjH1oCAi4",
+    "pass": 3
+   },
+   {
+    "quote": "Reviewing the product timeline",
+    "url": "https://www.youtube.com/watch?v=1izjH1oCAi4",
+    "pass": 3
+   },
+   {
+    "quote": "Products with 150 to 300 parts",
+    "url": "https://www.youtube.com/watch?v=1izjH1oCAi4",
+    "pass": 3
+   },
+   {
+    "quote": "In this video, you will hear how the team treats Draftaid like adding two employees of throughput, takes up to two weeks off a project timeline, and keeps every dimension and standard documented automatically.",
+    "url": "https://www.youtube.com/watch?v=1izjH1oCAi4",
+    "pass": 3
+   },
+   {
+    "quote": "In this Backyard Discovery case study (Case Study 001), CEO Cody Fox, Engineer Seth Thompson, and CAD Designer Aaron Stross walk through what changed after implementing Draftaid across their drafting workflow. With products that can carry anywhere from 150 to 300 parts, manual detailing was a major time cost.",
+    "url": "https://www.youtube.com/watch?v=1izjH1oCAi4",
+    "pass": 3
+   },
+   {
+    "quote": "The team explains how Draftaid lets them go from idea to fully documented drawings faster, standardizes how dimensions and notes are captured, and frees engineers to spend time on higher-value work rather than repetitive drafting. The closing point is the bigger picture: this is a throughput initiative, not just a cost-saving one, with full projects finishing days to weeks sooner.",
+    "url": "https://www.youtube.com/watch?v=1izjH1oCAi4",
+    "pass": 3
+   },
+   {
+    "quote": "Extended Interview: President Trump on 60 Minutes",
+    "url": "https://www.youtube.com/watch?v=5e7Se_aGPrs",
+    "pass": 3
+   },
+   {
+    "quote": "Human Programmer vs AI CNC Programmer",
+    "url": "https://www.youtube.com/watch?v=5e7Se_aGPrs",
+    "pass": 3
+   },
+   {
+    "quote": "This video is about the people behind the software and why the Draftaid team stands out for the Backyard Discovery design team. It is for CAD managers and engineering teams weighing not just an automation tool but the partner behind it.",
+    "url": "https://www.youtube.com/watch?v=5e7Se_aGPrs",
+    "pass": 3
+   },
+   {
+    "quote": "In this video, you will hear how the team flags errors like a real person would, helps with custom applications, and removes the overhead of explaining changes through long documents.",
+    "url": "https://www.youtube.com/watch?v=5e7Se_aGPrs",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/draftaid.io",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/draftaid.io",
+    "pass": 3
+   },
+   {
+    "quote": "DraftAid 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/534443-23",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/534443-23",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing",
+    "url": "https://pitchbook.com/profiles/company/534443-23",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/534443-23",
+    "pass": 3
+   },
+   {
+    "quote": "04-Apr-2024",
+    "url": "https://pitchbook.com/profiles/company/534443-23",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/534443-23",
+    "pass": 3
+   },
+   {
+    "quote": "DraftAid’s primary industry is Multimedia and Design Software.",
+    "url": "https://pitchbook.com/profiles/company/534443-23",
+    "pass": 3
+   },
+   {
+    "quote": "Is DraftAid a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/534443-23",
+    "pass": 3
+   },
+   {
+    "quote": "DraftAid is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/534443-23",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/534443-23",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/534443-23",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/534443-23",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/draftaid.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/draftaid.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "モデルはプロンプトを受け取り、B-Rep（Boundary Representation）形式のソリッドジオメトリを直接生成します",
+    "url": "https://note.com/snake_dragon/n/nb3d309edc856?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "無料ティアあり、Proプランは月99ドル",
+    "url": "https://note.com/snake_dragon/n/nb3d309edc856?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "DraftAid ensures precise, intelligent annotations and automated dimensioning, eliminating guesswork and ensuring every drawing meets exact manufacturing requirements.",
+    "url": "https://draftaid.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Manufacturers",
+    "url": "https://draftaid.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers rely on precise, detailed drawings to keep production lines running smoothly. DraftAid reduces bottlenecks, improves accuracy, and ensures every design is ready for manufacturing.",
+    "url": "https://draftaid.io/",
+    "pass": 1
+   },
+   {
+    "quote": "DraftAid is built to handle the complex drafting needs of the automotive industry, from intricate assemblies to precision-machined sheet metal components. By automating repetitive tasks, teams can focus on innovation and stay ahead of production schedules.",
+    "url": "https://draftaid.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Automation",
+    "url": "https://draftaid.io/",
+    "pass": 1
+   },
+   {
+    "quote": "DraftAid empowers manufacturing teams to create accurate, production-ready drafts for a variety of components, from pipes to complex extrusions. Its automation tools reduce errors, enhance consistency, and save valuable time on shop floor preparation.",
+    "url": "https://draftaid.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by engineers working on everything from skyscrapers to automotive components, DraftAid ensures faster project timelines, greater consistency, and fewer errors. With over 210,000 drawings created through our tool, we’re proving the power of AI in reshaping traditional workflows.",
+    "url": "https://draftaid.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "“Over 210,000 manufacturing drawings and counting—DraftAid is revolutionizing drafting processes worldwide.”",
+    "url": "https://draftaid.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": ", generating 1,600 drawings in a single month compared to 400 previously. By automating the drafting process, DraftAid saves time, accelerates workflows, and ensures accuracy, helping teams move from design to manufacturing with ease.",
+    "url": "https://draftaid.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "How Draftaid AI Learns Your Drawing Standards | Backyard Discovery Case Study",
+    "url": "https://www.toolmage.com/ja/tool/draftaid/",
+    "pass": 3
+   },
+   {
+    "quote": "Can AI Automate CAD Drawings? Overcoming the Skepticism | Draftaid Case Study",
+    "url": "https://www.toolmage.com/ja/tool/draftaid/",
+    "pass": 3
+   },
+   {
+    "quote": "DraftAid ensures precise, intelligent annotations and automated dimensioning, eliminating guesswork and ensuring every drawing meets exact manufacturing requirements.",
+    "url": "https://marketplace.autodesk.com/apps/3cf6305d-30b5-49b4-95cd-5873542b101d",
+    "pass": 3
+   },
+   {
+    "quote": "Draftaid Case Study: 137 Meetings Booked by July 2026 - Throxy",
+    "url": "https://throxy.com/resources/directory/draftaid-case-study-137-meetings-booked",
+    "pass": 3
+   },
+   {
+    "quote": "Draftaid Case Study: 137 Meetings Booked by July 2026",
+    "url": "https://throxy.com/resources/directory/draftaid-case-study-137-meetings-booked",
+    "pass": 3
+   },
+   {
+    "quote": "Industry: Manufacturing software",
+    "url": "https://throxy.com/resources/directory/draftaid-case-study-137-meetings-booked",
+    "pass": 3
+   },
+   {
+    "quote": "Automate Shop Drawings to Save Drafting Time | Draftaid Case Study - YouTube",
+    "url": "https://www.youtube.com/watch?v=1izjH1oCAi4",
+    "pass": 3
+   },
+   {
+    "quote": "Automate Shop Drawings to Save Drafting Time | Draftaid Case Study",
+    "url": "https://www.youtube.com/watch?v=1izjH1oCAi4",
+    "pass": 3
+   },
+   {
+    "quote": "Introduction: Backyard Discovery (Case Study 001)",
+    "url": "https://www.youtube.com/watch?v=1izjH1oCAi4",
+    "pass": 3
+   },
+   {
+    "quote": "AI Agents For Beginners – OpenClaw Case Study",
+    "url": "https://www.youtube.com/watch?v=1izjH1oCAi4",
+    "pass": 3
+   },
+   {
+    "quote": "In this Backyard Discovery case study (Case Study 001), CEO Cody Fox, Engineer Seth Thompson, and CAD Designer Aaron Stross walk through what changed after implementing Draftaid across their drafting workflow. With products that can carry anywhere from 150 to 300 parts, manual detailing was a major time cost.",
+    "url": "https://www.youtube.com/watch?v=1izjH1oCAi4",
+    "pass": 3
+   },
+   {
+    "quote": "CAD Drawing Automation Support That Stands Out | Draftaid Case Study - YouTube",
+    "url": "https://www.youtube.com/watch?v=5e7Se_aGPrs",
+    "pass": 3
+   },
+   {
+    "quote": "CAD Drawing Automation Support That Stands Out | Draftaid Case Study",
+    "url": "https://www.youtube.com/watch?v=5e7Se_aGPrs",
+    "pass": 3
+   },
+   {
+    "quote": "AI Agents For Beginners – OpenClaw Case Study",
+    "url": "https://www.youtube.com/watch?v=5e7Se_aGPrs",
+    "pass": 3
+   },
+   {
+    "quote": "How Draftaid AI Learns Your Drawing Standards | Backyard Discovery Case Study",
+    "url": "https://www.youtube.com/watch?v=5e7Se_aGPrs",
+    "pass": 3
+   },
+   {
+    "quote": "Automate Shop Drawings to Save Drafting Time | Draftaid Case Study",
+    "url": "https://www.youtube.com/watch?v=5e7Se_aGPrs",
+    "pass": 3
+   },
+   {
+    "quote": "In this Backyard Discovery case study, Engineer Seth Thompson, CAD Manager Tim Goodwin, and CAD Designer Aaron Stross describe what it is like to actually work with the Draftaid team.",
+    "url": "https://www.youtube.com/watch?v=5e7Se_aGPrs",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "特に日本においては、製造業のデジタルトランスフォーメーション（DX）推進や、深刻化する人手不足を背景に、設計自動化への関心と需要が急速に高まっています",
+    "url": "https://skywork.ai/skypage/ja/draftaid-ai-drawing-assistant/1985202026901217280",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業は、技術者の高齢化と人材不足という構造的な問題を抱えています",
+    "url": "https://note.com/snake_dragon/n/nb3d309edc856?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "DraftAid完全ガイド：AI作図アシスタントの徹底解説と活用戦略 — Nov 5, 2025 · AI作図アシスタント「DraftAid」の完全ガイド。3Dモデルから迅速に2D図面を生成し、設計プロセスを革新。導入効果と活用 ...",
+    "url": "https://skywork.ai/skypage/ja/draftaid-ai-drawing-assistant/1985202026901217280",
+    "pass": 3
+   },
+   {
+    "quote": "DraftAid | AI CAD Drawing Automation | Generate 2D Drawings ... — Accelerate your engineering workflow with DraftAid—AI-powered CAD drawing automation. Instantly generate accurate 2D fabrication drawings from 3D models. Reduce errors, increase consistency, and integrate seamlessly with your existing CAD tools like SolidWorks and Inventor.",
+    "url": "https://draftaid.io/",
+    "pass": 3
+   },
+   {
+    "quote": "DraftAid：AI CAD図面自動化 | 3Dモデルから2D図面を生成 - ToolMage — Aug 6, 2025 · DraftAidで設計から製造までのワークフローを加速します。当社のAIは3Dモデルから正確な2D図面を数秒で自動生成し、作図時間を3倍短縮します。エンジニアやデザイナーに最適です。",
+    "url": "https://www.toolmage.com/ja/tool/draftaid/",
+    "pass": 3
+   },
+   {
+    "quote": "DraftAid — 3Dモデルから2D CAD図面を自動生成するAIツール — 3 days ago · DraftAidで3D CADモデルから2D製作図面を自動生成。SolidWorksやInventorとシームレスに連携。",
+    "url": "https://bataitools.com/ja/tools/draftaid-io",
+    "pass": 3
+   },
+   {
+    "quote": "DraftAid ドラフトエイドとは 3Dモデルの図面化のAI｜使い方・料金・... — DraftAidとは 機械設計の3Dモデルを読み込ませると、寸法や注記まで入った製造用の2D図面をAIが自動で描くツールで、SolidWorksやInventorと組み合わせて使います。",
+    "url": "https://eeai.tv/tools/draftaid",
+    "pass": 3
+   },
+   {
+    "quote": "About DraftAid | Revolutionizing CAD 2D Drawing Automation — Learn how DraftAid empowers engineers in automotive, construction, and manufacturing industries with AI-driven CAD drawing automation. Discover our journey, innovations, and impact in transforming engineering workflows.",
+    "url": "http://draftaid.io/about",
+    "pass": 3
+   },
+   {
+    "quote": "DraftAid - marketplace.autodesk.com — Jan 13, 2026 · DraftAid ensures precise, intelligent annotations and automated dimensioning, eliminating guesswork and ensuring every drawing meets exact manufacturing requirements.",
+    "url": "https://marketplace.autodesk.com/apps?id=2310749093944015948",
+    "pass": 3
+   },
+   {
+    "quote": "Draftaid Case Study: 137 Meetings Booked by July 2026 — Draftaid booked 12 meetings in 20 days in December with throxy, and 137 meetings by July 2026, with an 80% show rate.",
+    "url": "https://throxy.com/resources/directory/draftaid-case-study-137-meetings-booked",
+    "pass": 3
+   },
+   {
+    "quote": "Automate Shop Drawings to Save Drafting Time | Draftaid Case ...CAD Drawing Automation Support That Stands Out | Draftaid ...About DraftAid | Revolutionizing CAD 2D Drawing AutomationDraftaid Automates 2D Shop Drawings for Backyard DiscoveryAI-powered tool automates 2D drawing creation from 3D CAD models — Jun 9, 2026 · The team explains how Draftaid lets them go from idea to fully documented draw",
+    "url": "https://www.youtube.com/watch?v=1izjH1oCAi4",
+    "pass": 3
+   },
+   {
+    "quote": "CAD Drawing Automation Support That Stands Out | Draftaid ...About DraftAid | Revolutionizing CAD 2D Drawing AutomationDraftaid Automates 2D Shop Drawings for Backyard DiscoveryAI-powered tool automates 2D drawing creation from 3D CAD models — Jun 23, 2026 · In this Backyard Discovery case study, Engineer Seth Thompson, CAD Manager Tim Goodwin, and CAD Designer Aaron Stross describe what it is lik",
+    "url": "https://www.youtube.com/watch?v=5e7Se_aGPrs",
+    "pass": 3
+   },
+   {
+    "quote": "About DraftAid | Revolutionizing CAD 2D Drawing Automation — Learn how DraftAid empowers engineers in automotive, construction, and manufacturing industries with AI-driven CAD drawing automation. Discover our journey, innovations, and impact in transforming engineering workflows.",
+    "url": "https://draftaid.io/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Draftaid Revenue 2024: $1.5M Est. - getlatka.com — Oct 30, 2026 · Draftaid 2024 estimated revenue: $1.5M. 10 employees. Industry: CAD Software. Founded 2023. HQ: Canada. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/draftaid.io",
+    "pass": 3
+   },
+   {
+    "quote": "DraftAid 2026 Company Profile: Valuation, Funding & Investors ...DraftAid - 2026 Company Profile, Team, Funding & Competitors ...How Draftaid hit $1.5M revenue with a 10 person team in 2024.DraftAid Stock Price, Funding, Valuation, Revenue & Financial ...DraftAid Funding | $1.5M Revenue | Complete AnalysisDraftaid company details | Seedtable — Apr 4, 2024 · Information on valuation, funding, cap t",
+    "url": "https://pitchbook.com/profiles/company/534443-23",
+    "pass": 3
+   },
+   {
+    "quote": "DraftAid - 2026 Company Profile, Team, Funding & Competitors ... — Jun 20, 2026 · DraftAid is a seed company based in Toronto (Canada), founded in 2023 by Abdullah Elqabbany, Mohammed Al-Arnawoot and Tahsin Rahman. It operates as an AI-powered automation for generating precise 2D fabrication drawings. DraftAid has raised $500K in funding from Y Combinator. The company has 228 active competitors, i",
+    "url": "https://tracxn.com/d/companies/draftaid/__jyYZkKGljgaKj4bEBi39b3qqdXrBAs5VmtUEAzbQ8Mw",
+    "pass": 3
+   },
+   {
+    "quote": "How Draftaid hit $1.5M revenue with a 10 person team in 2024. — Draftaid CEO Mohammed Al-arnawoot shares how Draftaid grew to $1.5M over the past 2 years. Draftaid has bootstrapped. See Draftaid growth here.",
+    "url": "https://getlatka.com/companies/draftaid.io/customers",
+    "pass": 3
+   },
+   {
+    "quote": "DraftAid Stock Price, Funding, Valuation, Revenue & Financial ... — Jan 1, 2024 · See DraftAid funding rounds, investors, investments, exits and more. Evaluate their financials based on DraftAid's post-money valuation and revenue.",
+    "url": "https://www.cbinsights.com/company/draftaid/financials",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "In this video, you will hear how the team treats Draftaid like adding two employees of throughput, takes up to two weeks off a project timeline, and keeps every dimension and standard documented automatically.",
+    "url": "https://www.youtube.com/watch?v=1izjH1oCAi4",
+    "pass": 3
+   },
+   {
+    "quote": "In this Backyard Discovery case study (Case Study 001), CEO Cody Fox, Engineer Seth Thompson, and CAD Designer Aaron Stross walk through what changed after implementing Draftaid across their drafting workflow. With products that can carry anywhere from 150 to 300 parts, manual detailing was a major time cost.",
+    "url": "https://www.youtube.com/watch?v=1izjH1oCAi4",
+    "pass": 3
+   },
+   {
+    "quote": "Draftaid Revenue 2024: $1.5M Est.",
+    "url": "https://getlatka.com/companies/draftaid.io",
+    "pass": 3
+   },
+   {
+    "quote": "Draftaid has not published its revenue. GetLatka estimates it at about $1.5M a year (June 2024).",
+    "url": "https://getlatka.com/companies/draftaid.io",
+    "pass": 3
+   },
+   {
+    "quote": "Draftaid CEO, founders & employees",
+    "url": "https://getlatka.com/companies/draftaid.io",
+    "pass": 3
+   },
+   {
+    "quote": "Mohammed Al-arnawoot founded Draftaid in 2023 and runs it as CEO. Draftaid had 3–10 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/draftaid.io",
+    "pass": 3
+   },
+   {
+    "quote": "What is Draftaid's revenue?",
+    "url": "https://getlatka.com/companies/draftaid.io",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Draftaid's revenue at about",
+    "url": "https://getlatka.com/companies/draftaid.io",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Draftaid have?",
+    "url": "https://getlatka.com/companies/draftaid.io",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/draftaid.io",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/draftaid.io",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/draftaid.io",
+    "pass": 3
+   },
+   {
+    "quote": "DraftAid has 26 total employees.",
+    "url": "https://pitchbook.com/profiles/company/534443-23",
+    "pass": 3
+   },
+   {
+    "quote": "What is DraftAid’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/534443-23",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for DraftAid is",
+    "url": "https://pitchbook.com/profiles/company/534443-23",
+    "pass": 3
+   },
+   {
+    "quote": "Draftaid Revenue 2024: $1.5M Est.",
+    "url": "https://getlatka.com/companies/draftaid.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Draftaid has not published its revenue. GetLatka estimates it at about $1.5M a year (June 2024).",
+    "url": "https://getlatka.com/companies/draftaid.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Draftaid CEO, founders & employees",
+    "url": "https://getlatka.com/companies/draftaid.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Mohammed Al-arnawoot founded Draftaid in 2023 and runs it as CEO. Draftaid had 3–10 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/draftaid.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "What is Draftaid's revenue?",
+    "url": "https://getlatka.com/companies/draftaid.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Draftaid's revenue at about",
+    "url": "https://getlatka.com/companies/draftaid.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Draftaid have?",
+    "url": "https://getlatka.com/companies/draftaid.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/draftaid.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/draftaid.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/draftaid.io#customers",
+    "pass": 3
+   },
+   {
+    "quote": "混同されやすいのが、Meshy や Tripo3D といった「Text to 3D」サービスです",
+    "url": "https://note.com/snake_dragon/n/nb3d309edc856?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/534443-23",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "CAD Models Completed Just by Entering Text—The Current State ... Jul 16, 2026 · DraftAid A service that automatically generates 2D manufacturing drawings from existing 3D CAD models. It is an automation tool that functions in a \"3D model to 2D drawing\" workflow, and it is reported that drawing creation tasks can be reduced by up to 90%. It is for enterprise use, and pricing is available upon inqui",
+    "url": "https://note.com/snake_dragon/n/nb3d309edc856?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "テキストを入力するだけでCADモデルが完成——Text to CAD の今と、設計現場が変わる未来｜スネドラ",
+    "url": "https://note.com/snake_dragon/n/nb3d309edc856?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "テキストを入力するだけでCADモデルが完成——Text to CAD の今と、設計現場が変わる未来",
+    "url": "https://note.com/snake_dragon/n/nb3d309edc856?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "3Dモデルを作るには、長年にわたってCADの習得が前提条件でした。SolidWorks、AutoCAD、Fusion 360はいずれも、使いこなすには数ヶ月単位の学習が必要です。複雑なコマンド体系を覚え、スケッチを描き、フィーチャーを積み重ねて形状を作る。そのプロセスはものづくりの現場では当たり前でしたが、アイデアを持っているがCADが扱えない人にとっては大きな壁でもありました。",
+    "url": "https://note.com/snake_dragon/n/nb3d309edc856?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "「テキストを入力するだけで、3Dモデルが生成される」。Text to CAD と呼ばれる技術が、その前提を変えようとしています。\"a steel bracket 150mm × 80mm with four M8 bolt holes\"（M8ボルト穴4つ付きの鋼製ブラケット、150×80mm）と打ち込むだけで、数秒以内に編集可能な3DモデルのSTEPファイルが生成される。これが現実になっています。",
+    "url": "https://note.com/snake_dragon/n/nb3d309edc856?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2026年現在、Zoo、AdamCAD、CADGPT、DraftAid、Leo AI など複数のサービスが実用レベルで動作しています。AutodeskもSiemensもPTCも、この分野への投資を急加速させています。一方で「複雑なアセンブリはまだ無理」「寸法精度が怪しい」という課題も残ります。何ができて、何がまだできないのか。現状をそのまま整理します。",
+    "url": "https://note.com/snake_dragon/n/nb3d309edc856?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Text to CAD は「自然言語の指示 → CADモデル」という変換を行います。内部的には大きく2つのアプローチに分かれています。",
+    "url": "https://note.com/snake_dragon/n/nb3d309edc856?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Zoo.dev（旧KittyCAD）が採用するアプローチです。モデルはプロンプトを受け取り、B-Rep（Boundary Representation）形式のソリッドジオメトリを直接生成します。B-Repは面、辺、頂点の位相関係を数学的に定義する形式で、SolidWorksやFusion 360が内部で使う本格的なCADデータ構造です。出力はSTEPファイルとして書き出され、主要CADソフトにそのまま読み込めます。",
+    "url": "https://note.com/snake_dragon/n/nb3d309edc856?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "テキスト1回の送信で形状が出てきます。ただし複雑な形状になると精度が急落します。",
+    "url": "https://note.com/snake_dragon/n/nb3d309edc856?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "(5/25) Draftaid (https://t.co/Q9jEYARxIM): AI that automates ... Mar 28, 2024 · (5/25) Draftaid ( draftaid.io): AI that automates the boring part of creating CAD drawings. It turns 3D models into the highly detailed fabrication drawings that manufacturers expect.",
+    "url": "https://x.com/snowmaker/status/1773402583035711928",
+    "pass": 3
+   },
+   {
+    "quote": "@zachdive They have. Check out DraftAid Dec 12, 2025 · Abdullah Elqabbany (@AElqabbany83683). 3 replies 88 views. @zachdive They have. Check out DraftAid",
+    "url": "https://x.com/AElqabbany83683/status/1999305083004362819",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Draftaid - LinkedIn Draftaid | 2,677 followers on LinkedIn. Draftaid automates high volume 3D parts into 2D drawings in an instant | Mechanical engineers/designers spend 40% of their time creating production drawings ...",
+    "url": "https://www.linkedin.com/company/draftaid/",
+    "pass": 3
+   },
+   {
+    "quote": "Draft Aid - LinkedIn Draft Aid | 10 followers on LinkedIn. Aid to Enhance Your Identity",
+    "url": "https://www.linkedin.com/company/draftaidbd",
+    "pass": 3
+   },
+   {
+    "quote": "Daniel Wai - DraftAid | LinkedInKian Salamzadeh - Founding Engineer at Draftaid | LinkedInBoost Drafting Accuracy with Draftaid AI - LinkedInAutomate 2D Drawings from 3D Models with Draftaid - LinkedInDraftAid on LinkedIn: The AI Generating Tool for Fabrication ... Oct 19, 2021 · I’ve had the chance to work on some exciting projects, helping customers solve complex… · Experience: DraftAid · Educat",
+    "url": "https://ca.linkedin.com/in/danielwai",
+    "pass": 3
+   },
+   {
+    "quote": "Kian Salamzadeh - Founding Engineer at Draftaid | LinkedInBoost Drafting Accuracy with Draftaid AI - LinkedInAutomate 2D Drawings from 3D Models with Draftaid - LinkedInDraftAid on LinkedIn: The AI Generating Tool for Fabrication ... Founding Engineer at Draftaid · Experienced Software Engineer (Senior) with 5+ years of experience building and scaling businesses of various sizes. I am leading the ",
+    "url": "https://ca.linkedin.com/in/kian-salamzadeh",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Efficient 3D design with AI:... - 3Druck.com - English | Facebook Mar 13, 2024 · Efficient 3D design with AI: DraftAid accelerates production drawings",
+    "url": "https://www.facebook.com/3printr/posts/efficient-3d-design-with-ai-draftaid-accelerates-production-drawings/796710512478319/",
+    "pass": 3
+   },
+   {
+    "quote": "What AutoCAD Does Better Than DraftAid and Why - Facebook AutoCAD is the industry standard for precise 2D drafting and 3D modeling, with decades of toolsets, file compatibility, and automation that most alternatives don’t match. While DraftAid isn’t...",
+    "url": "https://www.facebook.com/fb-answers/what-does-autocad-do-better-than-draftaid-and-why/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://draftaid.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://draftaid.io/about/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://skywork.ai/skypage/ja/draftaid-ai-drawing-assistant/1985202026901217280",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toolmage.com/ja/tool/draftaid/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bataitools.com/ja/tools/draftaid-io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skywork.ai/skypage/ja/draftaid-ai-drawing-assistant/1985202026901217280",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketplace.autodesk.com/apps/3cf6305d-30b5-49b4-95cd-5873542b101d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://throxy.com/resources/directory/draftaid-case-study-137-meetings-booked",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=1izjH1oCAi4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=5e7Se_aGPrs",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.google.com/en-all/support/become-a-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/digitalexperience/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/draftaid.io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/534443-23",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/draftaid/__jyYZkKGljgaKj4bEBi39b3qqdXrBAs5VmtUEAzbQ8Mw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/draftaid.io#customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/snake_dragon/n/nb3d309edc856?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/snowmaker/status/1773402583035711928",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AElqabbany83683/status/1999305083004362819",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/draftaid/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/draftaidbd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/danielwai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/kian-salamzadeh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/3printr/posts/efficient-3d-design-with-ai-draftaid-accelerates-production-drawings/796710512478319/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/what-does-autocad-do-better-than-draftaid-and-why/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/snowmaker/status/1773402583035711928",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Draftaid 日本 導入",
+   "results": [
+    "https://skywork.ai/skypage/ja/draftaid-ai-drawing-assistant/1985202026901217280",
+    "https://draftaid.io/",
+    "https://www.toolmage.com/ja/tool/draftaid/",
+    "https://bataitools.com/ja/tools/draftaid-io",
+    "https://eeai.tv/tools/draftaid",
+    "https://www.aitoolnet.com/ja/draftaid",
+    "https://huntscreens.com/ja/products/draftaid"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Draftaid 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://ja.nozominetworks.com/company",
+    "https://global.s-darts.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Draftaid Japan",
+   "results": [
+    "https://draftaid.io/",
+    "http://draftaid.io/about",
+    "https://skywork.ai/skypage/ja/draftaid-ai-drawing-assistant/1985202026901217280",
+    "https://marketplace.autodesk.com/apps?id=2310749093944015948",
+    "https://www.toolmage.com/ja/tool/draftaid/",
+    "https://bataitools.com/ja/tools/draftaid-io",
+    "https://www.aitoolnet.com/ja/draftaid"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Draftaid manufacturing customer case study",
+   "results": [
+    "https://throxy.com/resources/directory/draftaid-case-study-137-meetings-booked",
+    "https://draftaid.io/",
+    "https://www.youtube.com/watch?v=1izjH1oCAi4",
+    "https://www.youtube.com/watch?v=5e7Se_aGPrs",
+    "https://draftaid.io/about/",
+    "https://www.linkedin.com/posts/draftaid_automate-shop-drawings-to-save-drafting-time-activity-7475640078019547136-JgR5",
+    "https://www.thefabricator.com/thefabricator/article/cadcamsoftware/ai-powered-tool-automates-2d-drawing-creation-from-3d-cad-models"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Draftaid white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://business.google.com/en-all/support/become-a-partner/",
+    "https://partners.adobe.com/digitalexperience/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.youtube.com/creators/earn/youtube-partner-program/",
+    "https://www.youtube.com/@resellerrevenue",
+    "https://www.canva.com/partners/reseller/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Draftaid founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/draftaid.io",
+    "https://pitchbook.com/profiles/company/534443-23",
+    "https://tracxn.com/d/companies/draftaid/__jyYZkKGljgaKj4bEBi39b3qqdXrBAs5VmtUEAzbQ8Mw",
+    "https://getlatka.com/companies/draftaid.io/customers",
+    "https://www.cbinsights.com/company/draftaid/financials",
+    "https://www.extruct.ai/hub/draftaid-io-funding/",
+    "https://seedtable.com/companies/draftaid/details"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Draftaid",
+   "results": [
+    "https://note.com/snake_dragon/n/nb3d309edc856?hl=en",
+    "https://note.com/vcrmnfeconi/n/nda597ceb4af4",
+    "https://note.com/dashboard",
+    "https://note.com/note_ai_log/n/ne6620af5ce13?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://tales.note.com/",
+    "https://note.com/shakey_ai/n/na289faba2ec6?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Draftaid",
+   "results": [
+    "https://x.com/snowmaker/status/1773402583035711928",
+    "https://x.com/AElqabbany83683/status/1999305083004362819",
+    "https://x.com/bravomacho0708/status/2120302033601479115",
+    "https://x.com/robirwinengr/status/1765113511221571785",
+    "https://x.com/United24media/status/2120280405605552234",
+    "https://x.com/colormejassy/status/2118498768739790880",
+    "https://x.com/jocelynseip/status/2118260591680983528"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Draftaid",
+   "results": [
+    "https://www.linkedin.com/company/draftaid/",
+    "https://www.linkedin.com/company/draftaidbd",
+    "https://ca.linkedin.com/in/danielwai",
+    "https://ca.linkedin.com/in/kian-salamzadeh",
+    "https://www.linkedin.com/posts/draftaid_cad-manufacturing-ai-activity-7482799948913119232-mSRf",
+    "https://www.linkedin.com/posts/draftaid_fabtechexpocanada-manufacturing-sheetmetal-activity-7465066838721310721-LDep",
+    "https://www.linkedin.com/posts/draftaid_the-ai-generating-tool-for-fabrication-drawings-activity-7169292850914844672-cPRb"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Draftaid",
+   "results": [
+    "https://www.facebook.com/3printr/posts/efficient-3d-design-with-ai-draftaid-accelerates-production-drawings/796710512478319/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/fb-answers/what-does-autocad-do-better-than-draftaid-and-why/",
+    "https://business.facebook.com/",
+    "https://business.facebook.com/groups/allthingsbooks.fantasyandsciencefiction/",
+    "https://www.facebook.com/cottimaryanne/",
+    "https://www.facebook.com/xometry.pro/posts/️in-our-latest-interview-with-mohammed-al-arnawoot-ceo-of-draftaid-we-explored-a/122262869204217233/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Draftaid note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://draftaid.io/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://tracxn.com/d/companies/draftaid/__jyYZkKGljgaKj4bEBi39b3qqdXrBAs5VmtUEAzbQ8Mw",
+    "https://yokotablog.com/sadaaki-kato-profile/",
+    "https://note.com/ai_jidouka_note",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Draftaid X 投稿",
+   "results": [
+    "https://draftaid.io/",
+    "https://marketplace.autodesk.com/apps?id=2310749093944015948",
+    "https://skywork.ai/skypage/ja/draftaid-ai-drawing-assistant/1985202026901217280",
+    "https://x.com/snowmaker/status/1773402583035711928",
+    "https://draftaid.io/product/",
+    "https://www.linkedin.com/company/draftaid/",
+    "https://x.com/kimurap0729/status/2045164324986232910"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

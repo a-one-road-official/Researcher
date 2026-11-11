@@ -1,0 +1,1490 @@
+{
+ "name": "Geckorobotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜送付済み",
+ "researched_at": "2026-11-11T04:36:44.449861+00:00",
+ "official_url": "https://www.geckorobotics.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$140M",
+    "url": "https://getlatka.com/companies/geckorobotics.com",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Improve operations. Optimize capital outlay. Extend asset life.",
+    "url": "https://www.geckorobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Across essential industries, Gecko technology uncovers unprecedented visibility into asset health for confident decision making at scale.",
+    "url": "https://www.geckorobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We have not been able to accurately predict where equipment is going to fail. With Gecko, we can stop these failures from happening.",
+    "url": "https://www.geckorobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI and robotic manufacturing at Anduril’s Arsenal-2 to accelerate submarine production",
+    "url": "https://www.geckorobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI and robotic manufacturing at Anduril’s Arsenal-2 to accelerate submarine production.",
+    "url": "https://www.geckorobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Gecko Robotics and Trident to Accelerate U.S. Navy Production with AI and Robotics",
+    "url": "https://www.geckorobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Building the critical assets of tomorrow demands precision.",
+    "url": "https://www.geckorobotics.com/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Automating & Digitizing the Production Workflow",
+    "url": "https://www.geckorobotics.com/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "is our dual-use operating platform powered by AI and robotics (AI+R™). By integrating disparate production line data into a unified digital thread, Cantileve",
+    "url": "https://www.geckorobotics.com/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "accelerates decision-making at every stage of the production workflow – from design to assembly to quality assurance.",
+    "url": "https://www.geckorobotics.com/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce production timespan.",
+    "url": "https://www.geckorobotics.com/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Please provide some brief information and our team will reach out to continue the conversation",
+    "url": "https://www.geckorobotics.com/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Gecko Robotics and Trident to Accelerate U.S. Navy Production with AI and Robotics",
+    "url": "https://www.geckorobotics.com/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "BPMI & Gecko Accelerate Production for the U.S. Navy",
+    "url": "https://www.geckorobotics.com/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "BPMI partners with Gecko Robotics to bring AI-driven robotics and digital twins into U.S. Navy nuclear component manufacturing, cutting inspection times by up to 90%, improving quality, and accelerating shipbuilding through data-driven advanced manufacturing.",
+    "url": "https://www.geckorobotics.com/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Gecko Robotics co-founder and President Troy Demmer joins ‘Mornings with Maria’ to discuss the growing threat of Chinese technology to U.S. national security and supply chains.",
+    "url": "https://www.geckorobotics.com/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Gecko Robotics to Accelerate Columbia-class Submarine Production",
+    "url": "https://www.geckorobotics.com/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Gecko awarded initial contract to bring advanced manufacturing capabilities and create a maintenance baseline for weld inspections for U.S. Navy program",
+    "url": "https://www.geckorobotics.com/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "After spending weeks on site adapting the robot in the depths of the dirty boiler, Jake’s prototype successfully scaled and located the recurring issue, preventing future failure.",
+    "url": "https://www.geckorobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Protect today’s critical infrastructure, and give form to tomorrow’s.",
+    "url": "https://www.geckorobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our technologies help the world’s most important organizations understand and protect their physical assets, ensuring the availability, reliability, and sustainability of critical infrastructure.",
+    "url": "https://www.geckorobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Gecko provides unprecedented insight into the health of critical infrastructure.",
+    "url": "https://www.geckorobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are a team of innovators, driven by high-impact challenges and complex problem solving across essential industries like energy, manufacturing, oil & gas, and defense.",
+    "url": "https://www.geckorobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We ideate, create, iterate, and inform, providing the tools and solutions to drive responsible and efficient workflows at scale.",
+    "url": "https://www.geckorobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We believe you cannot truly solve problems from a distance. You have to go where the problem is; you have to be there.",
+    "url": "https://www.geckorobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our edge isn't just the robots or the sensors or the software. It's what happens when we apply them from inside the problem, close enough to understand what's urgent and important, what's dangerous, what's been hidden, and what's been resistant to improvement for decades.",
+    "url": "https://www.geckorobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "At Gecko, getting to the problem means being there, with presence, reliability, and care under pressure.",
+    "url": "https://www.geckorobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Gecko's work is too hard for low-trust teams. We move fast, give honest feedback that preserves dignity, ask for help, and assume that coworkers are trying to do the right thing.",
+    "url": "https://www.geckorobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "When our team understands the destination, the priorities, and what decisions they’re empowered to make, they generate initiative and move quickly. We fight for clarity across communication and product – for both our customers and for our teams – with the belief that this enables teams to be more decisive and maintain a bias for action.",
+    "url": "https://www.geckorobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We work in environments where failure has consequences, where the margin for error is thin, and where what we build affects safety, productivity, and national security.",
+    "url": "https://www.geckorobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We take risks, learn from failure, and improve fast. We relentlessly execute and carry a sense of urgency because our customers do not have the luxury of delay.",
+    "url": "https://www.geckorobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "When something important is at risk, owners do not wait for perfect clarity, hide behind process, or assume someone else will save it. They pull in the right people, create the path, and see the work through.",
+    "url": "https://www.geckorobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Product Strategist | Aeromechanical Engineering",
+    "url": "https://www.geckorobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Staff Product Designer | Spatial Experiences",
+    "url": "https://www.geckorobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "AI+R™ technology fuses artificial intelligence (AI) and robotics to produce unparalleled data insights that drive confident, high-quality decisions.",
+    "url": "https://www.geckorobotics.com/air",
+    "pass": 1
+   },
+   {
+    "quote": "AI without first-order data lacks context. Data without AI lacks predictive power.",
+    "url": "https://www.geckorobotics.com/air",
+    "pass": 1
+   },
+   {
+    "quote": "rapidly unlocks insights that weren’t previously possible, building algorithms on high-quality data that can only be accessed by using robotics.",
+    "url": "https://www.geckorobotics.com/air",
+    "pass": 1
+   },
+   {
+    "quote": "Please provide some brief information and our team will reach out to continue the conversation",
+    "url": "https://www.geckorobotics.com/air",
+    "pass": 1
+   },
+   {
+    "quote": "AI and robotic manufacturing at Anduril’s Arsenal-2 to accelerate submarine production",
+    "url": "https://www.geckorobotics.com/news/anduril-maritime-industrial-base",
+    "pass": 1
+   },
+   {
+    "quote": "The partnership will support Anduril’s Arsenal-2, a new software-defined shipyard in Baltimore County, Maryland, announced as part of the company’s $3.7bn investment to expand production for the Virginia-class submarine program. Gecko’s technology will be deployed at Anduril’s new 160,000-square-foot protofactory in Orange County, California, where key submarine components will be manufactured.",
+    "url": "https://www.geckorobotics.com/news/anduril-maritime-industrial-base",
+    "pass": 1
+   },
+   {
+    "quote": "said Troy Demmer, Co-Founder and President of Gecko Robotics",
+    "url": "https://www.geckorobotics.com/news/anduril-maritime-industrial-base",
+    "pass": 1
+   },
+   {
+    "quote": "\"For generations, shipbuilding has been constrained by manual processes, fragmented data, production bottlenecks, and a shortage of specialized labor. Together, Gecko and Anduril are redefining what shipbuilding looks like, using AI and robotics to embed expertise directly into the manufacturing process and enable faster, more scalable production.\"",
+    "url": "https://www.geckorobotics.com/news/anduril-maritime-industrial-base",
+    "pass": 1
+   },
+   {
+    "quote": "\"We are already embedding Gecko’s NDT technology into real production workflows at our Orange County protofactory and integrating it deeply with ArsenalOS. This will reduce inspection wait times, give our inspectors better tools to do their jobs, and establish quality processes that we can bring to the Arsenal-2 shipyard in Maryland from day one.\"",
+    "url": "https://www.geckorobotics.com/news/anduril-maritime-industrial-base",
+    "pass": 1
+   },
+   {
+    "quote": "That digital thread creates more than quality records. This approach also streamlines maintenance planning and reduces unplanned maintenance costs and repairs, ensuring optimal performance over the lifetime of the fleet. This lack of data and insight plagues ships around the world with unexpected downtime.",
+    "url": "https://www.geckorobotics.com/news/anduril-maritime-industrial-base",
+    "pass": 1
+   },
+   {
+    "quote": "Gecko Robotics and Trident to Accelerate U.S. Navy Production with AI and Robotics",
+    "url": "https://www.geckorobotics.com/news/anduril-maritime-industrial-base",
+    "pass": 1
+   },
+   {
+    "quote": "ADNOC & Gecko Accelerating AI, Robotics and Skills Training",
+    "url": "https://www.geckorobotics.com/news/anduril-maritime-industrial-base",
+    "pass": 1
+   },
+   {
+    "quote": "Please provide some brief information and our team will reach out to continue the conversation.",
+    "url": "https://www.geckorobotics.com/news/anduril-maritime-industrial-base",
+    "pass": 1
+   },
+   {
+    "quote": "Sao Tome and Principe",
+    "url": "https://www.geckorobotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "putting the mill and its workforce at risk.",
+    "url": "https://www.geckorobotics.com/steel-manufacturing-eliminate-expenditures",
+    "pass": 1
+   },
+   {
+    "quote": "Please provide some brief information and our team will reach out to continue the conversation",
+    "url": "https://www.geckorobotics.com/steel-manufacturing-eliminate-expenditures",
+    "pass": 1
+   },
+   {
+    "quote": "Sao Tome and Principe",
+    "url": "https://www.geckorobotics.com/steel-manufacturing-eliminate-expenditures",
+    "pass": 1
+   },
+   {
+    "quote": "https://contech.jp/wp-content/uploads/2022/06/gecko_v1.mp4",
+    "url": "https://contech.jp/geckorobotics/",
+    "pass": 3
+   },
+   {
+    "quote": "https://contech.jp/wp-content/uploads/2022/06/gecko_v2.mp4",
+    "url": "https://contech.jp/geckorobotics/",
+    "pass": 3
+   },
+   {
+    "quote": "https://contech.jp/wp-content/uploads/2022/06/gecko_v3.mp4",
+    "url": "https://contech.jp/geckorobotics/",
+    "pass": 3
+   },
+   {
+    "quote": "シリコンバレー外で台頭する米有望スタートアップが日本企業にPR(米国) | ビジネス短信 ―ジェトロの海外ニュース - ジェトロ",
+    "url": "https://www.jetro.go.jp/biznews/2020/10/2fb738364b992955.html",
+    "pass": 3
+   },
+   {
+    "quote": "シリコンバレー外で台頭する米有望スタートアップが日本企業にPR",
+    "url": "https://www.jetro.go.jp/biznews/2020/10/2fb738364b992955.html",
+    "pass": 3
+   },
+   {
+    "quote": "（PreAct Technologies、オレゴン州ポートランド）は保険分野など自社技術の応用可能性の広さをアピールした",
+    "url": "https://www.jetro.go.jp/biznews/2020/10/2fb738364b992955.html",
+    "pass": 3
+   },
+   {
+    "quote": "（Sproutel、ロードアイランド州プロビデンス) は、独自のデザイン思考に基づいた医療関連製品などの共同開発を専門とする",
+    "url": "https://www.jetro.go.jp/biznews/2020/10/2fb738364b992955.html",
+    "pass": 3
+   },
+   {
+    "quote": "keeping personnel out of harm’s way. The industries primarily served by Gecko Robotics include power, oil and",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "deploys globally to provide inspection",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "AI and robotic manufacturing at Anduril’s Arsenal-2 to accelerate submarine production",
+    "url": "https://www.geckorobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI and robotic manufacturing at Anduril’s Arsenal-2 to accelerate submarine production.",
+    "url": "https://www.geckorobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "An American industrial revolution is brewing.",
+    "url": "https://www.geckorobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced technology to increase throughput by 40% and transform the American Defense Industrial Base",
+    "url": "https://www.geckorobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced Manufacturing | Gecko Robotics",
+    "url": "https://www.geckorobotics.com/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "AMERICA’S INDUSTRIAL BASE",
+    "url": "https://www.geckorobotics.com/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "is our dual-use operating platform powered by AI and robotics (AI+R™). By integrating disparate production line data into a unified digital thread, Cantileve",
+    "url": "https://www.geckorobotics.com/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The Operating Platform for Manufacturing",
+    "url": "https://www.geckorobotics.com/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "An American industrial revolution is brewing.",
+    "url": "https://www.geckorobotics.com/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced technology to increase throughput by 40% and transform the American Defense Industrial Base",
+    "url": "https://www.geckorobotics.com/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "BPMI partners with Gecko Robotics to bring AI-driven robotics and digital twins into U.S. Navy nuclear component manufacturing, cutting inspection times by up to 90%, improving quality, and accelerating shipbuilding through data-driven advanced manufacturing.",
+    "url": "https://www.geckorobotics.com/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Gecko awarded initial contract to bring advanced manufacturing capabilities and create a maintenance baseline for weld inspections for U.S. Navy program",
+    "url": "https://www.geckorobotics.com/advanced-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "As an engineering student at Grove City College in 2012, Jake Loosararian visited a local power plant that was suffering from",
+    "url": "https://www.geckorobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "companies in energy, oil and gas, and manufacturing sectors around the world, as well as the",
+    "url": "https://www.geckorobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "across defense, energy, oil and gas, and manufacturing.",
+    "url": "https://www.geckorobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We are a team of innovators, driven by high-impact challenges and complex problem solving across essential industries like energy, manufacturing, oil & gas, and defense.",
+    "url": "https://www.geckorobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Deployment Lead | Navy Manufacturing",
+    "url": "https://www.geckorobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Gecko Robotics and Anduril Partner to Rebuild America’s Maritime Industrial Base | Gecko Robotics",
+    "url": "https://www.geckorobotics.com/news/anduril-maritime-industrial-base",
+    "pass": 1
+   },
+   {
+    "quote": "Gecko Robotics and Anduril Partner to Rebuild America’s Maritime Industrial Base",
+    "url": "https://www.geckorobotics.com/news/anduril-maritime-industrial-base",
+    "pass": 1
+   },
+   {
+    "quote": "AI and robotic manufacturing at Anduril’s Arsenal-2 to accelerate submarine production",
+    "url": "https://www.geckorobotics.com/news/anduril-maritime-industrial-base",
+    "pass": 1
+   },
+   {
+    "quote": "The partnership will support Anduril’s Arsenal-2, a new software-defined shipyard in Baltimore County, Maryland, announced as part of the company’s $3.7bn investment to expand production for the Virginia-class submarine program. Gecko’s technology will be deployed at Anduril’s new 160,000-square-foot protofactory in Orange County, California, where key submarine components will be manufactured.",
+    "url": "https://www.geckorobotics.com/news/anduril-maritime-industrial-base",
+    "pass": 1
+   },
+   {
+    "quote": "\"The challenge facing our nation isn’t a lack of engineering talent or innovation, it’s industrial capacity,\"",
+    "url": "https://www.geckorobotics.com/news/anduril-maritime-industrial-base",
+    "pass": 1
+   },
+   {
+    "quote": "\"For generations, shipbuilding has been constrained by manual processes, fragmented data, production bottlenecks, and a shortage of specialized labor. Together, Gecko and Anduril are redefining what shipbuilding looks like, using AI and robotics to embed expertise directly into the manufacturing process and enable faster, more scalable production.\"",
+    "url": "https://www.geckorobotics.com/news/anduril-maritime-industrial-base",
+    "pass": 1
+   },
+   {
+    "quote": "\"We are already embedding Gecko’s NDT technology into real production workflows at our Orange County protofactory and integrating it deeply with ArsenalOS. This will reduce inspection wait times, give our inspectors better tools to do their jobs, and establish quality processes that we can bring to the Arsenal-2 shipyard in Maryland from day one.\"",
+    "url": "https://www.geckorobotics.com/news/anduril-maritime-industrial-base",
+    "pass": 1
+   },
+   {
+    "quote": "An American industrial revolution is brewing.",
+    "url": "https://www.geckorobotics.com/news/anduril-maritime-industrial-base",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://www.geckorobotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Steel Manufacturing: Eliminate Expenditures",
+    "url": "https://www.geckorobotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://www.geckorobotics.com/steel-manufacturing-eliminate-expenditures",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Steel Manufacturing",
+    "url": "https://www.geckorobotics.com/steel-manufacturing-eliminate-expenditures",
+    "pass": 1
+   },
+   {
+    "quote": "A large steel manufacturer understood the criticality of its aging fleet but lacked data on its condition which led to costly and inefficient reactive maintenance and unexpected downtime.",
+    "url": "https://www.geckorobotics.com/steel-manufacturing-eliminate-expenditures",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Eliminate Multi-Million Dollar Expenditures in Steel Manuf",
+    "url": "https://www.geckorobotics.com/steel-manufacturing-eliminate-expenditures",
+    "pass": 1
+   },
+   {
+    "quote": "historically stagnant industrial inspection",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "conduct industrial inspections. Shortly after their visit to Japan, Gecko Robotics announced a funding round of",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Gecko Robotics Case Study: Multinational Pulp and Paper Manufacturing Company – Multinational Pulp and Paper Manufacturing Company - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/gecko-robotics/case-study/multinational-pulp-and-paper-manufacturing-company-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Multinational Pulp and Paper Manufacturing Company - Customer Case Study",
+    "url": "https://www.casestudies.com/company/gecko-robotics/case-study/multinational-pulp-and-paper-manufacturing-company-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Multinational Pulp and Paper Manufacturing Company used Gecko Robotics",
+    "url": "https://www.casestudies.com/company/gecko-robotics/case-study/multinational-pulp-and-paper-manufacturing-company-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/gecko-robotics/case-study/multinational-pulp-and-paper-manufacturing-company-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Multinational Pulp and Paper Manufacturing Company",
+    "url": "https://www.casestudies.com/company/gecko-robotics/case-study/multinational-pulp-and-paper-manufacturing-company-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/gecko-robotics/case-study/multinational-pulp-and-paper-manufacturing-company-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Gecko Robotics Case Study: U.S. Electric Company – U.S. Electric Company - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/gecko-robotics/case-study/us-electric-company-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Electric Company - Customer Case Study",
+    "url": "https://www.casestudies.com/company/gecko-robotics/case-study/us-electric-company-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how U.S. Electric Company used Gecko Robotics",
+    "url": "https://www.casestudies.com/company/gecko-robotics/case-study/us-electric-company-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/gecko-robotics/case-study/us-electric-company-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/gecko-robotics/case-study/us-electric-company-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "ANYbotics, a global leader in AI-driven robot inspection solutions, tackles critical industry challenges in safety, efficiency, and sustainability. Designed for the toughest industrial environments, ANYbotics' ANYmal robots excel in autonomous …",
+    "url": "https://www.featuredcustomers.com/vendor/gecko-robotics/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "AVEVA is a global leader in engineering and industrial software. Their expertise and innovation have put them at the heart of the world’s most ambitious projects, biggest companies, and greatest …",
+    "url": "https://www.featuredcustomers.com/vendor/gecko-robotics/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "LLumin’s sophisticated operations software monitors assets and uses live machine data and expert-based rules to proactively take action to minimize downtime and improve safety and compliance in factories, industrial plants, …",
+    "url": "https://www.featuredcustomers.com/vendor/gecko-robotics/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/gecko-robotics/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/155872-18",
+    "pass": 3
+   },
+   {
+    "quote": "[4] Inceptio Technology, Arthur Welter Transports Sign MoU on European Autonomous Trucking（2026年9月29日／Gasgoo Automotive News／",
+    "url": "https://note.com/annachan/n/nbed40fc1cb88?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Jake returned to his dorm room and started building a robot that could climb walls while carrying ultrasonic sensors and cameras.",
+    "url": "https://www.geckorobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We take risks, learn from failure, and improve fast. We relentlessly execute and carry a sense of urgency because our customers do not have the luxury of delay.",
+    "url": "https://www.geckorobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The partnership will support Anduril’s Arsenal-2, a new software-defined shipyard in Baltimore County, Maryland, announced as part of the company’s $3.7bn investment to expand production for the Virginia-class submarine program. Gecko’s technology will be deployed at Anduril’s new 160,000-square-foot protofactory in Orange County, California, where key submarine components will be manufactured.",
+    "url": "https://www.geckorobotics.com/news/anduril-maritime-industrial-base",
+    "pass": 1
+   },
+   {
+    "quote": "また、Gekko Roboticsは検査に必要とされる精度により使い分けができる、RUG（Rapid Ultrasonic Gridding、RUG）、Rapid AUT、PAUT（Phased Array UT）の4種類の検査技術を保有しています",
+    "url": "https://contech.jp/geckorobotics/",
+    "pass": 3
+   },
+   {
+    "quote": "UAE最大の石油・ガス企業Abu Dhabi National Oil Company（ADNOC）の子会社ADNOC Gasとの複数年契約",
+    "url": "https://www.jdti.jp/blog-us-defense-tech-list/blog-gecko-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "防衛大手L3Harris Technologiesとの協業契約",
+    "url": "https://www.jdti.jp/blog-us-defense-tech-list/blog-gecko-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "In November of 2019, Gecko visited Japan as part of BIZ SAITAMA to demonstrate how they are using robots to",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/gecko-robotics/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Gecko Robotics Revenue 2024: $60M, $140M Raised",
+    "url": "https://getlatka.com/companies/geckorobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/geckorobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Gecko Robotics revenue",
+    "url": "https://getlatka.com/companies/geckorobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Gecko Robotics' annual revenue was $60M in December 2024 (source not recorded), the most recent figure on record.",
+    "url": "https://getlatka.com/companies/geckorobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/geckorobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Gecko Robotics competes most directly with ANYbotics, Cognite and Augury. It is the smallest of the four by revenue.",
+    "url": "https://getlatka.com/companies/geckorobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Gecko Robotics CEO, founders & employees",
+    "url": "https://getlatka.com/companies/geckorobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Jake Loosararian founded Gecko Robotics in 2016 and runs it as CEO. Gecko Robotics has 331 employees (December 2025, LinkedIn), up from 297 a year earlier.",
+    "url": "https://getlatka.com/companies/geckorobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Gecko Robotics' revenue?",
+    "url": "https://getlatka.com/companies/geckorobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Gecko Robotics' annual revenue was",
+    "url": "https://getlatka.com/companies/geckorobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Gecko Robotics have?",
+    "url": "https://getlatka.com/companies/geckorobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of December 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/geckorobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/geckorobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/geckorobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/geckorobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/155872-18",
+    "pass": 3
+   },
+   {
+    "quote": "Gecko Robotics has 320 total employees.",
+    "url": "https://pitchbook.com/profiles/company/155872-18",
+    "pass": 3
+   },
+   {
+    "quote": "What is Gecko Robotics’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/155872-18",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Gecko Robotics is",
+    "url": "https://pitchbook.com/profiles/company/155872-18",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "info@geckorobotics.com",
+    "url": "https://www.geckorobotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "info@geckorobotics.com",
+    "url": "https://www.geckorobotics.com/steel-manufacturing-eliminate-expenditures",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/gecko-robotics/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/gecko-robotics/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/155872-18",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "シリコンバレー外で台頭する米有望スタートアップが日本企業にPR(米国) | ビジネス短信 ―ジェトロの海外ニュース - ジェトロ",
+    "url": "https://www.jetro.go.jp/biznews/2020/10/2fb738364b992955.html",
+    "pass": 3
+   },
+   {
+    "quote": "シリコンバレー外で台頭する米有望スタートアップが日本企業にPR",
+    "url": "https://www.jetro.go.jp/biznews/2020/10/2fb738364b992955.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回のピッチイベントには、そうしたシリコンバレー以外の都市・地域から、日本企業との協業を検討する、または将来、日本への進出を検討する企業9社が参加",
+    "url": "https://www.jetro.go.jp/biznews/2020/10/2fb738364b992955.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社技術・サービスの特長や日本で求めるパートナー像、日本市場への期待などを発信した",
+    "url": "https://www.jetro.go.jp/biznews/2020/10/2fb738364b992955.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国発のアクセラレーター、プラグアンドプレイ・ジャパン（Plug and Play Japan）の推薦で参加した企業のうち、人工知能（AI）を活用した産業インフラの点検ロボット・ソフトウエアを開発する",
+    "url": "https://www.jetro.go.jp/biznews/2020/10/2fb738364b992955.html",
+    "pass": 3
+   },
+   {
+    "quote": "（Gecko Robotics、本社：ペンシルベニア州ピッツバーグ）は、既に複数の日本企業とサービス提供について話し合っているという",
+    "url": "https://www.jetro.go.jp/biznews/2020/10/2fb738364b992955.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、老朽化したインフラの修繕と人手不足がともに課題となっている日本で、自社の技術が最大限活用できると呼び掛けた",
+    "url": "https://www.jetro.go.jp/biznews/2020/10/2fb738364b992955.html",
+    "pass": 3
+   },
+   {
+    "quote": "在宅医療分野で、日本企業と連携した高齢者向け製品の開発に期待を寄せた",
+    "url": "https://www.jetro.go.jp/biznews/2020/10/2fb738364b992955.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業からの投資の受け入れにも積極的という",
+    "url": "https://www.jetro.go.jp/biznews/2020/10/2fb738364b992955.html",
+    "pass": 3
+   },
+   {
+    "quote": "（vRotors、カリフォルニア州ロサンゼルス）は、自社ソフトウエアの日本のロボット技術への導入や日本企業との研究開発に意欲を示した",
+    "url": "https://www.jetro.go.jp/biznews/2020/10/2fb738364b992955.html",
+    "pass": 3
+   },
+   {
+    "quote": "各社のピッチに対して、参加した日本企業からは技術の仕様や日本企業との協業実績など具体的な質問が寄せられ、関心の高さがうかがわれた",
+    "url": "https://www.jetro.go.jp/biznews/2020/10/2fb738364b992955.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Defense Tech Initiative (JDTI) I 日本防衛テックイニシアチブ",
+    "url": "https://www.jdti.jp/blog-us-defense-tech-list/blog-gecko-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "In November of 2019, Gecko visited Japan as part of BIZ SAITAMA to demonstrate how they are using robots to",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "conduct industrial inspections. Shortly after their visit to Japan, Gecko Robotics announced a funding round of",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Japan-America Society of Pennsylvania Builds Bridges to Japan",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan-America Society of Pennsylvania, or JASP, is a non-profit organization that has been dedicated to",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "improving international understanding and strengthening the ties between Japan and the Pittsburgh region for",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese and American business, cultural, and educational communities in Western Pennsylvania.",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "opportunities in Japan, the JASP has also worked",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "throughout its history to provide education about Japan",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "and Japanese culture. One of the initiatives of the JASP",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "is their Japan in the Schools (JIS) program, which started",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "in 1997 to bring knowledge of Japan into classrooms in",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "in visits to local schools, including Japanese history,",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese-English Reading Circle to promote language",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan-America Society of Pennsylvania’s other programming includes classes and a lecture series that have",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "covered topics such as Japanese tea, ceramics, sake, sushi, and more. They are the managing organization for",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The JASP is affiliated with the National Association of Japan-America Societies, which exists to “strengthen",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "cooperation and understanding between the peoples of Japan and the United States by providing programs,",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Pittsburgh. For more information, or to donate or become a member, visit https://www.japansocietypa.org/.",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ryan O’Shea is a JETRO Investment Advisor focused on connecting Japanese",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Tokyo native Fuyuo Ueyama discusses his experiences living in Pittsburgh",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "インフラ非破壊検査ロボットを提供するGecko Robotics | 建設テックメ... — Jul 1, 2022 · Gecko Roboticsは2013年にアメリカのペンシルベニア州ピッツバーグで創業された企業で、社会インフラの検査ロボット “TOKA”をはじめとする各種の設備検査技術の技術開発、および分析ツールの “Gecko Portal”（ゲッコー ポータル）の開発運営をしています。",
+    "url": "https://contech.jp/geckorobotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Gecko Robotics — Gecko builds the robotics and AI that measure what no one else can, and turn that evidence into the decisions that keep critical infrastructure running.",
+    "url": "https://www.geckorobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Defense Tech Initiative (JDTI) I 日本防衛テックイニシアチブ — Feb 18, 2026 · Gecko Roboticsは 2013年、Jake Loosararian氏及びTroy Demmer氏により創業され、壁登攀（とうはん）ロボット・ドローン・固定センサーを用いた重要インフラの検査データ収集と、AI駆動プラットフォーム「Cantilever」による予測保全サービスを提供 する企業です。",
+    "url": "https://www.jdti.jp/blog-us-defense-tech-list/blog-gecko-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us - Gecko Robotics — Gecko builds the robotics and AI that measure what no one else can, and turn that evidence into the decisions that keep critical infrastructure running.",
+    "url": "https://www.geckorobotics.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "About Us - geckorobotics.com — After spending weeks on site adapting the robot in the depths of the dirty boiler, Jake’s prototype successfully scaled and located the recurring issue, preventing future failure. After connecting with his old college roommate, Troy Demmer, who was in the health sector building tools to diagnose the human body, the pair joined forces to become Cofounders of Gecko Rob",
+    "url": "https://www.geckorobotics.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "The Future of Business in Pittsburgh — In November of 2019, Gecko visited Japan as part of BIZ SAITAMA to demonstrate how they are using robots to conduct industrial inspections. Shortly after their visit to Japan, Gecko Robotics announced a funding round of $40 million led by Drive Capital with participation from previous investors including Founders Fund and Y-Combinator. Gecko's angel investors",
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Gecko Robotics Case Study: Multinational Pulp and Paper ... — Multinational Pulp and Paper Manufacturing Company partnered with Gecko Robotics (Computer Software) to solve key challenges. \"Multinational Pulp and Paper Manufacturing Company - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/gecko-robotics/case-study/multinational-pulp-and-paper-manufacturing-company-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Gecko Robotics Case Study: U.S. Electric Company – U.S ... — U.S. Electric Company (Electrical/Electronic Manufacturing) partnered with Gecko Robotics (Computer Software) to solve key challenges. \"U.S. Electric Company - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/gecko-robotics/case-study/us-electric-company-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "9 Gecko Robotics Case Studies, Success Stories, & Customer ... — Narrow down 9 case studies by company size & industry to find out how Gecko Robotics works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/gecko-robotics/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "CASE STUDY / Chlorine Dioxide Storage Tank Inspection — Chlorine Dioxide Storage Tank Inspection sales@geckorobotics.com geckorobotics.com 888.350.8960 Challenges A multinational pulp and paper manufacturing company required a full-coverage, external shell inspection of a 26 foot (8 m) diameter chlorine dioxide (ClO₂) storage tank. ClO₂ is water soluble and a strong oxidant agent.",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/gecko-robotics_multinational-pulp-and-paper-manufacturing-company_885388.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Gecko Robotics Revenue 2024: $60M, $140M Raised — Oct 30, 2026 · Gecko Robotics 2024 revenue: $60M. Valuation (2023): $1.3B. Total funding: $140M across 2 rounds. 331 employees. Founded 2016. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/geckorobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Gecko Robotics - 2026 Company Profile, Team, Funding ... - Tracxn — Apr 6, 2026 · Gecko Robotics is a series D company based in Pittsburgh (United States), founded in 2013 by Troy Demmer, Ian Miller and Jake Loosararian. It operates as an AI and robotics for infrastructure inspection, maintenance, and operational excellence. Gecko Robotics has raised $354M in funding from investors like Founders F",
+    "url": "https://tracxn.com/d/companies/geckorobotics/__RUAwNj05C8plRJbH9mMpbVMBBpI_c3tCQCLj2VAXzqk",
+    "pass": 3
+   },
+   {
+    "quote": "Gecko Robotics – Valuation, Revenue & Market Scope – 2026 — Discover Gecko Robotics's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/gecko-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Gecko Robotics 2026 Company Profile: Valuation, Funding ...Gecko Robotics ARR, revenue, valuation and headcount (2026)Gecko Robotics Funding History: $340.4M | Indexed.vcAbout Us - geckorobotics.com — Information on valuation, funding, cap tables, investors, and executives for Gecko Robotics. Use the PitchBook Platform to explore the full profile. ARR $35M · valuation $1.25B · ~1,000 employees · H",
+    "url": "https://pitchbook.com/profiles/company/155872-18",
+    "pass": 3
+   },
+   {
+    "quote": "Gecko Robotics ARR, revenue, valuation and headcount (2026) — ARR $35M · valuation $1.25B · ~1,000 employees · HQ Pittsburgh, USA. Only sourced figure: ~$35M 2023 revenue (multiples.vc, Series C). Prior $80M was an…",
+    "url": "https://ai.lounge.ai/arr/gecko-robotics",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Physical AI Daily Trend Watch (Execution Date: September 30 ... (6) Gecko Robotics partners with NVIDIA to add safety and control layers to inspection robot \"AI agents\" ・Equipment inspection robot company Gecko Robotics announced that it will integrate NVIDIA's safety platform to incorporate a mechanism for safely performing autonomous control (September 28).",
+    "url": "https://note.com/annachan/n/nbed40fc1cb88?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "■ フィジカルAI 日次動向ウォッチ（実行日：2026年09月30日）｜阿南 共樹",
+    "url": "https://note.com/annachan/n/nbed40fc1cb88?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "■ フィジカルAI 日次動向ウォッチ（実行日：2026年09月30日）",
+    "url": "https://note.com/annachan/n/nbed40fc1cb88?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "半導体大手AMDが、フェイフェイ・リー氏のWorld Labs（空間知能＝3D世界を生成するAI）を82億ドルで買収すると発表。ワールドモデルがフィジカルAIの中核部品として、計算基盤側から取り込まれ始めました。",
+    "url": "https://note.com/annachan/n/nbed40fc1cb88?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "自律走行では、TeslaのFSD（監視付き）がクロアチアで認可され欧州8カ国目になった一方、EU全域を決める投票は早くても12月に後退しました。",
+    "url": "https://note.com/annachan/n/nbed40fc1cb88?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "直近24時間の全体量は少なめで、自律飛行（ドローン・空飛ぶクルマ）は目立った動きなしです。",
+    "url": "https://note.com/annachan/n/nbed40fc1cb88?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "(1) AMDがWorld Labsを82億ドルで買収、フェイフェイ・リー氏がチーフサイエンティストに",
+    "url": "https://note.com/annachan/n/nbed40fc1cb88?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・AMDは9月28日、World Labsを全株式交換（約82億ドル相当）で買収すると発表しました。年内完了を予定し、規制当局の承認が条件です。リー氏はAMDの執行副社長兼チーフサイエンティストに就任し、リサ・スーCEO直属になります。World Labsは文章・画像・動画から操作可能な3D空間を生成・再構成・模擬する「空間知能モデル」と、ロボット学習・シミュレーション技術を持ちます。",
+    "url": "https://note.com/annachan/n/nbed40fc1cb88?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・なぜ重要か：ロボットを学習させるには現実に近い仮想環境が必要で、その基盤技術（ワールドモデル）を半導体メーカーが自社に取り込む動きです。スーCEOはリリースで「AIが推論・ロボティクス・シミュレーション・フィジカルAIへ広がる」ことを買収理由に挙げています。",
+    "url": "https://note.com/annachan/n/nbed40fc1cb88?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "It was a pleasure to welcome 30 SMEs from across the ADNOC ... Gecko Robotics (@geckorobotics). 28 likes 3 replies. It was a pleasure to welcome 30 SMEs from across the ADNOC ecosystem to Gecko's new testing and development facility in Abu Dhabi. We're proud to work alongside ADNOC as we continue to develop and deploy technologies that support safer, smarter, and more efficient operations. Bringin",
+    "url": "https://x.com/geckorobotics/status/2073984030425371081",
+    "pass": 3
+   },
+   {
+    "quote": "\"#geckorobotics\" - Results on X | Live Posts & Updates Results for \"#geckorobotics\" on X (Twitter). Find the latest posts, discussions, and updates about #geckorobotics. 20 results found.",
+    "url": "https://x.com/hashtag/geckorobotics",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by Gecko Robotics (@geckorobotics) / X Gecko Robotics reposted ADNOC Group @ADNOCGroup Jun 16 In Pittsburgh, United States, Dr. Ahmed Mohamed Alebri, CEO of ADNOC Onshore, joined industry leaders at gatherings hosted by @ geckorobotics to discuss how artificial intelligence and robotics are strengthening resilience, enhancing competitiveness and unlocking long-term value Show more 1 ...",
+    "url": "https://x.com/geckorobotics/reposts",
+    "pass": 3
+   },
+   {
+    "quote": "Gecko Robotics (@geckorobotics) / X Gecko Robotics stood alongside @POTUS and @SenMcCormickPA at the Pennsylvania Defense and Innovation Summit this week. American innovation is the only way that we can win the race for AI and robotics dominance and quickly rebuild the American Defense Industrial Base.",
+    "url": "https://x.com/geckorobotics",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Gecko Robotics: Culture | LinkedIn Gecko Robotics | 60,746 followers on LinkedIn. AI + Robotics for the Built World | Gecko Robotics is the pioneer of AI + Robotics [AIR technology], transforming how the world builds, operates, and ...",
+    "url": "https://www.linkedin.com/company/geckorobotics/life",
+    "pass": 3
+   },
+   {
+    "quote": "Gecko Robotics: Jobs | LinkedIn Gecko Robotics | 62,992 followers on LinkedIn. AI + Robotics for the Built World | Gecko Robotics is the pioneer of AI + Robotics [AIR technology], transforming how the world builds, operates, and ...",
+    "url": "https://www.linkedin.com/company/geckorobotics/jobs/",
+    "pass": 3
+   },
+   {
+    "quote": "Gecko Robotics - LinkedIn Gecko Robotics is the pioneer of AI + Robotics [AIR technology], transforming how the world builds, operates, and maintains its most critical infrastructure for a more reliable and sustainable future.",
+    "url": "https://www.linkedin.com/company/geckorobotics",
+    "pass": 3
+   },
+   {
+    "quote": "Jake Loosararian - Co-Founder and CEO of Gecko Robotics ...Troy Demmer - President, Cofounder at Gecko Robotics | LinkedInSamuel Linn - Business Development @ Gecko Robotics | Wharton ...Jeff Bozman - Gecko Robotics | LinkedIn Co-Founder and CEO of Gecko Robotics · Making the world safer with robots · Experience: Gecko Robotics, Inc. · Education: Grove City College · Location: Pittsburgh · 500+ co",
+    "url": "https://www.linkedin.com/in/jake-loosararian-23981350",
+    "pass": 3
+   },
+   {
+    "quote": "Jake Loosararian - Co-Founder and CEO of Gecko Robotics ...Gecko Robotics CEO, Founder, Key Executive Team, Board of ...Jake Loosararian - adipec.comTroy Demmer - President, Cofounder at Gecko Robotics | LinkedInJake Loosararian | World Economic Forum Co-Founder and CEO of Gecko Robotics · Making the world safer with robots · Experience: Gecko Robotics, Inc. · Education: Grove City College · Locat",
+    "url": "https://www.linkedin.com/in/jake-loosararian-23981350",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.geckorobotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geckorobotics.com/advanced-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geckorobotics.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geckorobotics.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geckorobotics.com/air",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geckorobotics.com/news/anduril-maritime-industrial-base",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geckorobotics.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geckorobotics.com/steel-manufacturing-eliminate-expenditures",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.sanity.io/images/11oyz1i4/production/1c02287a6f110a406f9f18556df3fbddac48d53c-2000x1125.jpg?w=900&auto=format",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.sanity.io/images/11oyz1i4/production/03ca388b8156c219d3186ab5afc1e372d6660193-2000x1125.jpg?w=900&auto=format",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.sanity.io/images/11oyz1i4/production/e79e089f79b0434a45632b4b69090ee07854af13-2000x1125.jpg?w=900&auto=format",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.sanity.io/images/11oyz1i4/production/a91a9b59b9b843cf21ff899e804a02066dff5f05-2000x1125.jpg?w=900&auto=format",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://contech.jp/geckorobotics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/biznews/2020/10/2fb738364b992955.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://diamond.jp/articles/-/402113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdti.jp/blog-us-defense-tech-list/blog-gecko-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.casestudies.com/company/gecko-robotics/case-study/multinational-pulp-and-paper-manufacturing-company-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/gecko-robotics/case-study/us-electric-company-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/gecko-robotics/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://reseller.amazon.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/geckorobotics.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/geckorobotics/__RUAwNj05C8plRJbH9mMpbVMBBpI_c3tCQCLj2VAXzqk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/gecko-robotics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/155872-18",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/annachan/n/nbed40fc1cb88?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/geckorobotics/status/2073984030425371081",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/geckorobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/geckorobotics/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/geckorobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/geckorobotics/life",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/geckorobotics/jobs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/geckorobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jake-loosararian-23981350",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jake-loosararian-23981350",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/geckorobotics/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/geckorobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Geckorobotics 日本 導入",
+   "results": [
+    "https://contech.jp/geckorobotics/",
+    "https://www.jetro.go.jp/biznews/2020/10/2fb738364b992955.html",
+    "https://www.geckorobotics.com/",
+    "https://diamond.jp/articles/-/402113",
+    "https://www.jdti.jp/blog-us-defense-tech-list/blog-gecko-robotics",
+    "https://japan.cnet.com/article/35189455/",
+    "https://innovatopia.jp/robot/robot-news/26297/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Geckorobotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.geckorobotics.com/",
+    "https://www.geckorobotics.com/contact",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Geckorobotics Japan",
+   "results": [
+    "https://www.geckorobotics.com/about",
+    "https://www.jdti.jp/blog-us-defense-tech-list/blog-gecko-robotics",
+    "https://www.jetro.go.jp/ext_images/theme/innovation/gahub/boston/pittsburgh/202106.pdf",
+    "https://www.geckorobotics.com/",
+    "https://contech.jp/geckorobotics/",
+    "https://gekkou.ai/products/amr/gk-400/",
+    "https://japan.cnet.com/article/35189455/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Geckorobotics manufacturing customer case study",
+   "results": [
+    "https://www.geckorobotics.com/steel-manufacturing-eliminate-expenditures",
+    "https://www.casestudies.com/company/gecko-robotics/case-study/multinational-pulp-and-paper-manufacturing-company-customer-case-study",
+    "https://www.casestudies.com/company/gecko-robotics/case-study/us-electric-company-customer-case-study",
+    "https://www.featuredcustomers.com/vendor/gecko-robotics/case-studies",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/gecko-robotics_multinational-pulp-and-paper-manufacturing-company_885388.pdf",
+    "https://www.geckorobotics.com/case-studies",
+    "https://www.fictiv.com/case-studies/gecko-robotics"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Geckorobotics white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://reseller.amazon.com/",
+    "https://upcloud.com/partner-program/",
+    "https://www.reseller.co.nz/",
+    "https://retailers.bossrevolution.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Geckorobotics founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/geckorobotics.com",
+    "https://tracxn.com/d/companies/geckorobotics/__RUAwNj05C8plRJbH9mMpbVMBBpI_c3tCQCLj2VAXzqk",
+    "https://compworth.com/company/gecko-robotics",
+    "https://pitchbook.com/profiles/company/155872-18",
+    "https://ai.lounge.ai/arr/gecko-robotics",
+    "https://indexed.vc/companies/geckorobotics",
+    "https://www.geckorobotics.com/about-us"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Geckorobotics",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/robizy/n/n9556fab2f0b6?hl=en",
+    "https://note.com/annachan/n/nbed40fc1cb88?hl=en",
+    "https://note.com/idea_hack2/n/n62ca92f0cca1?hl=en",
+    "https://note.com/yasuhitoo/n/nb48de024371c?hl=en",
+    "https://note.com/robosiki/n/n4303dd729e67?hl=en",
+    "https://note.com/like_oxalis4338/n/na748ecd56d64?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Geckorobotics",
+   "results": [
+    "https://x.com/geckorobotics/status/2073984030425371081",
+    "https://x.com/hashtag/geckorobotics",
+    "https://x.com/geckorobotics/reposts",
+    "https://x.com/geckorobotics",
+    "https://x.com/geckorobotics/status/2108204445968257472",
+    "https://x.com/geckorobotics/status/2112491521798709676",
+    "https://x.com/geckorobotics/status/2118391127917146516"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Geckorobotics",
+   "results": [
+    "https://www.linkedin.com/company/geckorobotics/life",
+    "https://www.linkedin.com/company/geckorobotics/jobs/",
+    "https://www.linkedin.com/company/geckorobotics",
+    "https://www.linkedin.com/in/jake-loosararian-23981350",
+    "https://www.linkedin.com/in/troy-demmer-27037526",
+    "https://www.linkedin.com/in/jeff-bozman-718a88146",
+    "https://www.linkedin.com/in/samuellinn"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Geckorobotics",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Geckorobotics note 社長",
+   "results": [
+    "https://www.geckorobotics.com/about-us",
+    "https://exa.ai/websets/directory/gecko-robotics-executives",
+    "https://www.linkedin.com/in/jake-loosararian-23981350",
+    "https://www.cbinsights.com/company/gecko-robotics/people",
+    "https://www.adipec.com/speaker-root-2025/global-strategy-programme/jake-loosararian/",
+    "https://www.linkedin.com/in/troy-demmer-27037526",
+    "https://www.weforum.org/people/jake-loosararian/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Geckorobotics X 投稿",
+   "results": [
+    "https://x.com/geckorobotics/reposts",
+    "https://www.instagram.com/geckorobotics/",
+    "https://x.com/geckorobotics",
+    "https://www.geckorobotics.com/news",
+    "https://www.geckorobotics.com/",
+    "https://agihunt.info/p/1a1b2d6278776e04384d5b8501a",
+    "https://note.com/kanko_kenkyu/n/n4c7e7cdbc24c"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部31頁・検索12回）"
+ }
+}
