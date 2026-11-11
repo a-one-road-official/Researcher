@@ -94,7 +94,7 @@
 - 延べ・二重計上・重複に触れた引用のある品目：0件（延べの数を実数・頭数の欄に入れない。合計と内訳を同じ欄で足さない）
 - 独立の出どころ2か所以上が数字を持つ品目（突き合わせできる品目）：2件／数字のある品目 2件（100%）。残りは判定の一致を測る前に、別の出どころが同じ問いを扱っていない（選択の不一致）
   - www.voxelmatters.com と 3dprintingindustry.com：品目の重なり 2/2（100%）
-  - www.snowx.com と www.bybit.com：品目の重なり 1/1（100%）
+  - www.bybit.com と www.snowx.com：品目の重なり 1/1（100%）
   - www.voxelmatters.com と www.snowx.com：品目の重なり 1/2（50%）
   - www.voxelmatters.com と www.bybit.com：品目の重なり 1/2（50%）
   - www.voxelmatters.com と 3dprint.com：品目の重なり 1/2（50%）
