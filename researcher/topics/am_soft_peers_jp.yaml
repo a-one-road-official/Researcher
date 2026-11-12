@@ -1,0 +1,32 @@
+# am_soft_peers_jp：海外AMソフト13社の顧客と同じ立ち位置にいる日本企業（従業員100〜500人・4分類）の営業リスト。
+# 選定条件の正本：docs/am_soft_peers_jp-spec-2026-11-12.md（2026-11-12 本人指示）
+title: 海外AMソフトの顧客と同位の日本企業 am_soft_peers_jp（4分類・170〜350社）
+input: researcher/inputs/am_soft_peers_jp.csv
+columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
+
+profile_keys:
+  所在地: [所在地, 本社, 住所]
+  事業内容: [事業内容, 事業概要, 営業品目, 業務内容, 取扱品目, 事業]
+  代表者: [代表者, 代表取締役, 社長, 代表]
+  従業員数: [従業員, 社員数, 従業者, 人員]
+  売上高: [売上高, 売上, 年商]
+  取引先: [主要取引先, 取引先, 仕入先, 販売先, 納入先]
+  拠点: [拠点, 事業所, 営業所, 支店, 工場, 海外拠点, 関連会社, グループ会社]
+
+evidence:
+  分類・事業分野: [核融合, プラント, 保全, メンテナンス, 造船, 船舶, 舶用, 航空, 宇宙, ロケット, 衛星, 防衛, 自動車部品, 鉄道部品, 車両整備, 医療機器, 建設機械, 農業機械, 産業車両, フォークリフト, 特装車]
+  部品・困りごと: [補修部品, 保全部品, 廃番, 生産終了, 部品供給, 多品種少量, 小ロット, 単品, 試作, 受注生産, 見積, 見積もり, デジタル在庫, 在庫部品]
+  AM関連: [3Dプリンタ, 3Dプリンター, 積層造形, アディティブ, AM, 造形, 光造形, 粉末]
+  連絡先: [メール, メールアドレス, お問い合わせ, 問い合わせフォーム, contact, mail]
+
+subpage_keywords: [会社概要, 会社案内, 企業情報, 企業概要, 沿革, 事業, 製品, 取扱, サービス, 設備, 加工, 事例, 採用,
+  アクセス, お問い合わせ, 問い合わせ, company, about, profile, corporate, business, product, service, contact, mail, pdf]
+
+image_keywords: [概要, gaiyo, outline, 製品, product]
+
+external_queries:
+  - "{name} 会社概要 従業員数 事業内容"
+  - "{name} 補修部品 多品種少量 見積"
+  - "{name} お問い合わせ メール"
+
+limits: {pages: 30, subpages: 25, pdfs: 8, images: 12, external_per_query: 3}
