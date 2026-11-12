@@ -1,0 +1,1276 @@
+{
+ "name": "Breakout",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜リマイン1",
+ "researched_at": "2026-11-11T23:54:44.356012+00:00",
+ "official_url": "https://www.getbreakout.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Answer real product questions",
+    "url": "https://getbreakout.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "first-party signals (pricing visits, return visits) plus 700+ third-party ones (hiring, funding, tech-stack changes, champion job moves)",
+    "url": "https://getbreakout.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "earnings calls, hiring, news and org changes, refreshed continuously",
+    "url": "https://getbreakout.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How Beautiful.ai built an SDR motion without hiring a single SDR",
+    "url": "https://getbreakout.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "privacy,",
+    "url": "https://getbreakout.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "EU General Data Protection Regulation — lawful basis, data-subject rights and EU-region processing.",
+    "url": "https://getbreakout.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "You don't have a content problem. You have a point of view problem.",
+    "url": "https://getbreakout.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Focus beats frenzy in modern marketing scale",
+    "url": "https://getbreakout.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "better content, demos",
+    "url": "https://getbreakout.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "VP, Product Marketing & Content",
+    "url": "https://getbreakout.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How to use AI to ship better content, demos",
+    "url": "https://getbreakout.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Breakout Pricing: Find Your Plan & Get Started",
+    "url": "https://getbreakout.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Use the slider to estimate your Growth plan price.",
+    "url": "https://getbreakout.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How Ketch replaced Drift with Breakout's AI SDR - Breakout - Agentic workforce to grow your inbound pipeline",
+    "url": "https://getbreakout.ai/customers/ketch",
+    "pass": 1
+   },
+   {
+    "quote": "How Ketch used Breakout to generate 150+ leads from anonymous traffic in just 3 months",
+    "url": "https://getbreakout.ai/customers/ketch",
+    "pass": 1
+   },
+   {
+    "quote": "Data Privacy Software",
+    "url": "https://getbreakout.ai/customers/ketch",
+    "pass": 1
+   },
+   {
+    "quote": "leads in <3 months",
+    "url": "https://getbreakout.ai/customers/ketch",
+    "pass": 1
+   },
+   {
+    "quote": "Ketch helps brands turn privacy from a compliance tax into a growth lever. But selling that to five different buyers on one website is hard. With Breakout, every visitor gets engaged the moment they land, and anyone who leaves without converting hears from Ketch within 20 minutes. The result: 150+ leads and 100K+ accounts revealed in three months.",
+    "url": "https://getbreakout.ai/customers/ketch",
+    "pass": 1
+   },
+   {
+    "quote": "Stéphane Le Mentec, who leads demand generation at Ketch, is quick to give credit where it's due. \"They were very organized, and I can't complain much. The relationship I had with them was pretty good.\"",
+    "url": "https://getbreakout.ai/customers/ketch",
+    "pass": 1
+   },
+   {
+    "quote": "So he started looking. And then, in a twist any marketer will appreciate, the answer landed in someone else's inbox: Ketch's head of marketing forwarded a cold email from Breakout's founder with a note: “",
+    "url": "https://getbreakout.ai/customers/ketch",
+    "pass": 1
+   },
+   {
+    "quote": "Ketch started with Breakout inbound AI SDR alone, then turned on human-in-the-loop live chat. Leads now split almost exactly down the middle between the two.",
+    "url": "https://getbreakout.ai/customers/ketch",
+    "pass": 1
+   },
+   {
+    "quote": "That split is engineered, not accidental. Ketch sells to marketers, engineers, security, privacy, and legal: five personas that behave nothing alike.",
+    "url": "https://getbreakout.ai/customers/ketch",
+    "pass": 1
+   },
+   {
+    "quote": "\"Marketers tend to play with the chat more. Engineers tend to play with the AI a bit more. For the big security enterprise teams, it's a mix.\"",
+    "url": "https://getbreakout.ai/customers/ketch",
+    "pass": 1
+   },
+   {
+    "quote": "Ketch tunes content, pain points, and case studies by persona and industry off the back of that.",
+    "url": "https://getbreakout.ai/customers/ketch",
+    "pass": 1
+   },
+   {
+    "quote": "Ketch is rebuilding its site on Claude Code and Sanity so the team ships faster. \"We like to say we're the privacy solution for the AI era. So you cannot say this, and then have a website that's still built for the early days of Google search engines.\"",
+    "url": "https://getbreakout.ai/customers/ketch",
+    "pass": 1
+   },
+   {
+    "quote": ", then lands on a demo request page and converts. The job is machine-legible content: clear heading structure, short sentences, direct answers to the questions buyers actually ask.",
+    "url": "https://getbreakout.ai/customers/ketch",
+    "pass": 1
+   },
+   {
+    "quote": "His intent ladder is simple: a visitor arriving from an LLM is interested; one who lands and explores is higher intent; one who asks for a human is higher still. \"These are strong intent signals that we prioritize and go after.\"",
+    "url": "https://getbreakout.ai/customers/ketch",
+    "pass": 1
+   },
+   {
+    "quote": "So a marketing visitor hears from Ketch's head of marketing; an engineering or product visitor from Max, co-founder and head of product; a legal visitor from Ketch's head of legal and DPO, not a marketer, not a salesperson, but the authoritative figure for that persona. And leveraging him, we see people being more receptive.",
+    "url": "https://getbreakout.ai/customers/ketch",
+    "pass": 1
+   },
+   {
+    "quote": "\"We're trying to engage in a conversation, understand what these prospects are trying to solve, what's their friction. And then just show that Ketch can be the answer along the way.\"",
+    "url": "https://getbreakout.ai/customers/ketch",
+    "pass": 1
+   },
+   {
+    "quote": "\"Breakout has become one of my favorite tools for turning anonymous website traffic into real pipeline. Instead of letting hand-raisers sit in a queue, Breakout identifies buyers and engages every hand-raiser the moment they land on the site, with personalized content, with the AI chat, and with the live chat features that we use pretty heavily.",
+    "url": "https://getbreakout.ai/customers/ketch",
+    "pass": 1
+   },
+   {
+    "quote": "That immediacy really matters for us at Ketch, because we get a lot of website visitors from the privacy world who come with technical, specific questions that they want answered now. Breakout can recognize who's on the site based on all these different roles, and we can kick off a really natural conversation via the AI — or make sure they talk to someone in live chat to answer those questions.\"",
+    "url": "https://getbreakout.ai/customers/ketch",
+    "pass": 1
+   },
+   {
+    "quote": "HackerEarth 🤝 Breakout - Breakout - Agentic workforce to grow your inbound pipeline",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "How Breakout's AI-powered conversations helped HackerEarth capture more leads from their website.",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "“Breakout feels like we hired our smartest Inbound SDR - without actually hiring one. Within weeks, we increased our meetings booked, and Breakout was handling conversations that used to take hours of rep time. The AI is fast, accurate, and shockingly good at surfacing what buyers care about.”",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "HackerEarth helps companies hire top developer talent through coding assessments and hackathons. But their marketing team had a challenge: lots of traffic, not enough conversions. Visitors weren’t finding what they needed fast enough - and traditional forms, chatbots, and interactive demos were limiting.",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "Despite strong traffic to their recruitment product pages, HackerEarth struggled to:",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "Understand what prospects were actually looking for on the site",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "They didn’t want to go with traditional chatbots as they are ineffective without SDR’s monitoring them and they didn’t want to invest in increasing team size. However, valuable prospects were bouncing off without engagement.",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "Delivering instant gratification to high-intent buyers, answering questions immediately, sharing multimedia content, and booking meetings in real time",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "Uncovering rich insights from every conversation, revealing what buyers were actually looking for - data the team now uses to refine messaging and content strategy",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "- not months down the line. Breakout launched in under a day with a simple JavaScript snippet. No long onboarding, no dev time.",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "- buyers wanted to see the product, not read more text. Breakout delivered interactive demos in real-time, right inside the conversation - fully customized to the user’s context.",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "The team needed a smarter, more natural way to qualify leads",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "- something forms and static analytics couldn’t deliver. Breakout gave the team conversation summaries, intent signals, and persona-level insights over time, highlighting information gaps to their marketing and product teams.",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "“Breakout’s onboarding took less than a day. It’s the fastest tool we’ve ever implemented. We’ve used other marketing tools that took months to go live. With Breakout, we defined our ICP in plain English, connected our docs, and we were off to the races. Zero dev time.” - Vineet",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "Breakout was live on the HackerEarth site in one day. Its non-traditional placement across the site gave visitors direct access to personalized, real-time answers - without hunting through pages or waiting for reps. Leads were instantly enriched and sent to HubSpot. Slack alerts complete with conversation summaries and waterfall enrichment kept the team in the loop, making follow-up a breeze.",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "The team quickly saw results: more demos booked, higher-quality leads, and fresh insight into what visitors actually cared about.",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "“Breakout helped us ramp up our demo conversion rates without changing our funnel. Watching Breakout craft bespoke multi-modal demos in real-time is your first glimpse into the post-AI marketing stack.” - Vineet",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "Shortly after going live, HackerEarth was not only seeing warm leads come in from Breakout but also getting rich insights into the conversations. The team saw an interesting emerging pattern play out where visitors who were now booking meetings through pre-existing forms also engaged with the Breakout agent, giving the sales teams added context prior to sales calls.",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "Breakout conversation summaries surfaced real questions - many about features or pricing details that were previously buried or missing entirely. This helped the team tighten their messaging and improve site content.",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "Critical for enterprise trust",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "Cheating prevention, proctoring features, plagiarism detection",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "Demo requests, pricing inquiries, trial signups",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "Core value proposition",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "Programming languages (40+), SQL, ML, full-stack",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise scalability",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "Barti 🤝 Breakout - Breakout - Agentic workforce to grow your inbound pipeline",
+    "url": "https://getbreakout.ai/customers/barti",
+    "pass": 1
+   },
+   {
+    "quote": "Healthcare Tech / EHR for Eye Care Practices",
+    "url": "https://getbreakout.ai/customers/barti",
+    "pass": 1
+   },
+   {
+    "quote": "\"Would highly recommend you try it out, for us we leapfrogged having zero chat interactivity on our external site to having a legit AI chat bot that knows everything about our product.\"",
+    "url": "https://getbreakout.ai/customers/barti",
+    "pass": 1
+   },
+   {
+    "quote": "“Most of our leads came in through demo forms or referrals - but if a practice had a question after hours or wanted quick clarity, there was no easy way for them to get an instant answer. We knew there was untapped potential.” -",
+    "url": "https://getbreakout.ai/customers/barti",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Inbound AI SDR converts site visitors, Outbound AI SDR follows up over e-mail and LinkedIn,",
+    "url": "https://getbreakout.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Inbound AI SDR converts site visitors, Outbound AI SDR follows up over e-mail and LinkedIn, while 1:1 AI SDR works accounts over months to get them to raise a hand.",
+    "url": "https://getbreakout.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Slack & e-mail alerts",
+    "url": "https://getbreakout.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "So he started looking. And then, in a twist any marketer will appreciate, the answer landed in someone else's inbox: Ketch's head of marketing forwarded a cold email from Breakout's founder with a note: “",
+    "url": "https://getbreakout.ai/customers/ketch",
+    "pass": 1
+   },
+   {
+    "quote": ", un-gated: a bet Ketch made while the category was still trading access for an email address.",
+    "url": "https://getbreakout.ai/customers/ketch",
+    "pass": 1
+   },
+   {
+    "quote": "If no form fill, send a tailored LinkedIn DM or email",
+    "url": "https://getbreakout.ai/customers/ketch",
+    "pass": 1
+   },
+   {
+    "quote": "For the team, this wasn’t just a captured email. It was a ready-to-engage buyer who had already explored the product and surfaced key intent signals. No forms, no delays, and no manual handoff.",
+    "url": "https://getbreakout.ai/customers/barti",
+    "pass": 1
+   },
+   {
+    "quote": "“The Breakout team was available over Slack, email, and calls, addressing even the smallest concerns super promptly. Multiple folks from Breakout worked directly with us.” - Neha Gaud",
+    "url": "https://getbreakout.ai/customers/recruit-crm",
+    "pass": 1
+   },
+   {
+    "quote": "please contact us with the form below.",
+    "url": "https://www.breakout-english.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/breakout/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/breakout/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "info@breakoutgrowth.net",
+    "url": "https://breakoutgrowth.net/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/624924-01",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Stéphane arrived at the evaluation with a long list of pointed, technical questions: the things he wanted to do, and the things he never wanted to see happen again.",
+    "url": "https://getbreakout.ai/customers/ketch",
+    "pass": 1
+   },
+   {
+    "quote": "His intent ladder is simple: a visitor arriving from an LLM is interested; one who lands and explores is higher intent; one who asks for a human is higher still. \"These are strong intent signals that we prioritize and go after.\"",
+    "url": "https://getbreakout.ai/customers/ketch",
+    "pass": 1
+   },
+   {
+    "quote": "Speed carries the rest: \"Time is key. If you don't try something right away, you lose them. Even in a day, you lose them.\"",
+    "url": "https://getbreakout.ai/customers/ketch",
+    "pass": 1
+   },
+   {
+    "quote": "User acquisition funnel",
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "pass": 1
+   },
+   {
+    "quote": "The behavior underneath it is familiar to every B2B marketer. Buyers open ChatGPT or Claude, run their comparisons, form their shortlist, and arrive at your website already informed and needing one or two specific things.",
+    "url": "https://getbreakout.ai/customers/teamohana",
+    "pass": 1
+   },
+   {
+    "quote": "\"More and more, people are not filling out forms. They want to get their information.\" Buyers arrive already researched, take what they need, and leave without identifying themselves.",
+    "url": "https://getbreakout.ai/customers/teamohana",
+    "pass": 1
+   },
+   {
+    "quote": "Capturing 50+ net-new leads in month 1: How Recruit CRM turned \"dark traffic\" into revenue",
+    "url": "https://getbreakout.ai/customers/recruit-crm",
+    "pass": 1
+   },
+   {
+    "quote": "Turning \"Dark Traffic\" into Revenue: Results & Impact in Month 1",
+    "url": "https://getbreakout.ai/customers/recruit-crm",
+    "pass": 1
+   },
+   {
+    "quote": "At Breakout, we see that the future of GTM teams is humans and AI agents working together to drive revenue growth.",
+    "url": "https://getbreakout.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "While AI has fundamentally changed how work gets done, software sales is still done, how it was 20 years ago. There is no dearth of tools in the GTM software stack, yet growing revenue is hard. At Breakout, our vision is that the GTM teams of the future will have",
+    "url": "https://getbreakout.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Become a part of our team",
+    "url": "https://getbreakout.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Qualified is the pipeline generation platform for revenue teams that use Salesforce. Headquartered in San Francisco, Qualified is ranked #1 on the Salesforce AppExchange and is led by former Salesforce …",
+    "url": "https://www.featuredcustomers.com/vendor/breakout/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/breakout/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Are you working on a tech business with at least $1M in revenue? Reach out to speak with us about your growth challenges and strategy today.",
+    "url": "https://breakoutgrowth.net/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Breakout has 34 total employees.",
+    "url": "https://pitchbook.com/profiles/company/624924-01",
+    "pass": 3
+   },
+   {
+    "quote": "What is Breakout’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/624924-01",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Breakout is",
+    "url": "https://pitchbook.com/profiles/company/624924-01",
+    "pass": 3
+   },
+   {
+    "quote": "After that, marteen, who moved to Gentle Mates, was interviewed by Esports Insider in January 2026. He said that he wanted to change his role for his own career and try his hand at being a second duelist or a smoke player. He also revealed that he wanted to reunite with bipo, with whom he had played together at GMT Esports before.",
+    "url": "https://note.com/nside2077/n/n98241b5ffe0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "marteen wanted to challenge himself in a new role and reunite with bipo. As the team and opponents changed, it is possible that these environmental changes led to his leap in 2026.",
+    "url": "https://note.com/nside2077/n/n98241b5ffe0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If you arrive within 15-20 minutes of opening, it is often within a 30-40 minute wait.",
+    "url": "https://note.com/kou_disnydream/n/n3a6700f4994f?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "profit maximizing marketing strategies for our property owners both in Japan and internationally.",
+    "url": "https://www.breakout-english.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We can also transfer and deposit money to most banks both in Japan and overseas.",
+    "url": "https://www.breakout-english.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese,",
+    "url": "https://www.breakout-english.com/",
+    "pass": 3
+   },
+   {
+    "quote": "there are over 20 million tourists visiting the northern island of Japan, Hokkaido.",
+    "url": "https://www.breakout-english.com/",
+    "pass": 3
+   },
+   {
+    "quote": "This comparison is what Japanese readers want to know most.",
+    "url": "https://note.com/kou_disnydream/n/n3a6700f4994f?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "BreakOut | Private lodging management in Hokkaido — BreakOut is a private accommodation management company and unmanned hotel in Sapporo, Niseko and Furano, Hokkaido. We plan accommodation schemes, manage and operate properties, and act as intermediaries in many areas. We offer reliable plans with the best quality management, ability to attract customers, and reasonable fees.",
+    "url": "https://www.breakout-english.com/",
+    "pass": 3
+   },
+   {
+    "quote": "breakout-jp.com - ブレイクアウト — 「AQ0567 ＆ AQ0568」 (DIAMOND HEAD) ロンスケ 27.7インチ&31インチ SURF SKATE BREAKOUT福岡（ブレイクアウト） Watch on 【入荷情報】 在庫切れしてましたDIAMOND HEAD (@dh_surf_japan )のサーフスケートが入荷しました！",
+    "url": "https://www.breakout-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "北海道札幌、ニセコ、富良野の民泊管理会社 | BreakOut（ブレークアウ... — Nov 3, 2026 · 北海道札幌、ニセコ、富良野の民泊管理会社・無人ホテルならBreakOut（ブレークアウト）。宿泊スキームの企画、物件の管理・運用、仲介などを多くのエリアで行っております。最高の品質管理、集客力、良心的な手数料で安心なプランをご提案致します。",
+    "url": "https://breakout-minpaku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Breakout (Japanese Version) - Official MV - YouTubeAbout us | BreakOut株式会社BreakOut｜全国の投資用マンション仲介 — Official Music Video for \"Breakout\" (Japanese Version) by Asimetrix Studio. An immersive journey through Epic Pan-Asian Dark Fusion—blending cinematic tradit... Founded Breakout Co., Ltd. in October 2017. Hobbies include travelling and driving. Born in 1997, Hong Kong. Raised in Canada. Graduated fro",
+    "url": "https://www.youtube.com/watch?v=Xnf71Hxo6II",
+    "pass": 3
+   },
+   {
+    "quote": "About us | BreakOut — Founded Breakout Co., Ltd. in October 2017. Hobbies include travelling and driving. Born in 1997, Hong Kong. Raised in Canada. Graduated from King’s Edgehill College, NS, Canada and Waterloo University, ON, Canada. Spent a career in SkiJapan Travel, Wolt Japan in gaining experience on business operations.",
+    "url": "https://www.breakout-english.com/about-us.html",
+    "pass": 3
+   },
+   {
+    "quote": "Breakout B2B Case Studies & Customer Successes — See how Breakout solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/breakout",
+    "pass": 3
+   },
+   {
+    "quote": "Breakout - Customer Case Study — Breakout partnered with S-PRO (Information Technology and Services) to solve key challenges. \"Breakout - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/s-pro/case-study/breakout-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "3 Breakout Case Studies, Success Stories, & Customer Stories — Breakout has a 4.8/5 star rating. Learn what their customers think, get 3 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/breakout/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Growth Studies - Breakout Growth — Sustainable breakout growth is the product of persistent and relentless efforts to build powerful growth engines, cross-functional collaboration, high-tempo testing processes, and more. In our growth studies, you will find actionable insights you can apply to help fuel your own organization’s growth.",
+    "url": "https://breakoutgrowth.net/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "37 Breakout Studio Case Studies, Success Stories, & Customer ... — Narrow down 37 case studies by company size & industry to find out how Breakout Studio works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/breakout-studio/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Breakout – Revenue, Valuation & Top Competitors – 2026 — Breakout Revenue & Valuation An estimated $1 in revenue is attributed to Breakout each year. Breakout’s operational efficiency results in - revenue per employee. Breakout has received total funding worth $21.1M. Analyst estimates place Breakout’s market value at $10.",
+    "url": "https://compworth.com/company/breakout",
+    "pass": 3
+   },
+   {
+    "quote": "Breakout 2026 Company Profile: Valuation, Funding & Investors ...Breakout — Company Profile | The Company CheckBreakout - 2026 Company Profile, Funding & Competitors - TracxnBreakout EDU 2026 Company Profile: Valuation, Funding ...Breakout Creative Revenue, Funding & ValuationBreakout - $11.1 M Revenue, Employees & Growth | Kona Equity — Is Breakout a private or public company? Breakout is a Priva",
+    "url": "https://pitchbook.com/profiles/company/624924-01",
+    "pass": 3
+   },
+   {
+    "quote": "Breakout — Company Profile | The Company Check — Breakout is a company based in San Jose (United States) founded in 2024 by Sachin Gupta and Hitesh Aggarwal. It operates as a SaaS (Software-as-a-Service) and AI-as-a-Service. Breakout has raised $3.25 million across 1 funding round from investors including Village Global, Recall Capital and Z21 Ventures. Breakout offers products and services includ",
+    "url": "https://www.thecompanycheck.com/company/b/breakout/z9rwl2fh9qs4r8due",
+    "pass": 3
+   },
+   {
+    "quote": "Breakout - 2026 Company Profile, Funding & Competitors - Tracxn — Sep 11, 2026 · Breakout is an acquired company based in Tampa (United States), founded in 2023. It operates as a Multi-asset investment platform for individuals. Breakout has raised $4.5M in funding. The company has 3228 active competitors, including 46 funded and 69 that have exited. Its top competitor s include companies like Plus",
+    "url": "https://tracxn.com/d/companies/breakout/__wBO1yMJ2SeovoSpAh5ShKnggSu2TDIvKvB24zAHU3QQ",
+    "pass": 3
+   },
+   {
+    "quote": "Breakout EDU 2026 Company Profile: Valuation, Funding ...Breakout Creative Revenue, Funding & ValuationBreakout - $11.1 M Revenue, Employees & Growth | Kona Equity — The current valuation of Breakout EDU is . What is Breakout EDU’s current revenue? The current revenue for Breakout EDU is . How much funding has Breakout EDU raised over time? Breakout EDU has raised $1.55M. Who are Breakout EDU’s in",
+    "url": "https://pitchbook.com/profiles/company/433805-95",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "S-PRO Case Study: Breakout – Breakout - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/s-pro/case-study/breakout-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Breakout - Customer Case Study",
+    "url": "https://www.casestudies.com/company/s-pro/case-study/breakout-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Breakout used S-PRO",
+    "url": "https://www.casestudies.com/company/s-pro/case-study/breakout-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/s-pro/case-study/breakout-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/s-pro/case-study/breakout-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/breakout/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "EVBox is an extraordinarily fast-growing manufacturer of electric vehicle charging...",
+    "url": "https://breakoutgrowth.net/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "How 3D Hubs is Disrupting the $13 Trillion Global Manufacturing Industry",
+    "url": "https://breakoutgrowth.net/case-studies/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Atari Breakout: The Hidden Google Images Trick｜neurapulseai Jul 23, 2026 · Atari Breakout is a classic arcade game released in 1976. Players control a paddle at the bottom of the screen and bounce a ball upward to break colorful bricks.",
+    "url": "https://note.com/deep_bear8251/n/n98814bdb14b7",
+    "pass": 3
+   },
+   {
+    "quote": "Who is the breakout player of VCT 2026? Looking at marteen's ... 4 days ago · A breakout that \"regained presence\" A breakout can take the form of becoming known to the world for the first time, or it can take the form of an already established player changing their environment and regaining their presence. marteen is the latter.",
+    "url": "https://note.com/nside2077/n/n98241b5ffe0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【BREAKOUT GRAND PRIX 2026】ダークホースとして参加した私が、賞レ... Oct 6, 2026 · 大きな収穫でした。 BREAKOUT GRAND PRIX 2026について 参加者として記録・分析してみました。 このような素敵な大会を設けてくださったSIGNAL DRIVEの皆様、参加者の皆様、 そして観戦してくださった皆様、 お疲れ様でした。 皆様の今後、ますますのご健勝とご ...",
+    "url": "https://note.com/second__career/n/n05d74d40b532",
+    "pass": 3
+   },
+   {
+    "quote": "Guardians of the Galaxy: Mission: BREAKOUT! Complete Guide ... May 3, 2026 · Here is a summary of the strategy points for Guardians of the Galaxy: Mission: BREAKOUT! • Height requirement: 102cm or taller (parents with children must check in advance)",
+    "url": "https://note.com/kou_disnydream/n/n3a6700f4994f?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Atari Breakout: The Hidden Google Images Trick｜neurapulseai",
+    "url": "https://note.com/deep_bear8251/n/n98814bdb14b7",
+    "pass": 3
+   },
+   {
+    "quote": "Atari Breakout: The Hidden Google Images Trick",
+    "url": "https://note.com/deep_bear8251/n/n98814bdb14b7",
+    "pass": 3
+   },
+   {
+    "quote": "Google has always been known for hiding fun surprises inside its search engine, and one of the most memorable is",
+    "url": "https://note.com/deep_bear8251/n/n98814bdb14b7",
+    "pass": 3
+   },
+   {
+    "quote": ". What started as a simple image search could suddenly turn into a classic arcade game, giving users a fun reason to spend a few extra minutes on Google.",
+    "url": "https://note.com/deep_bear8251/n/n98814bdb14b7",
+    "pass": 3
+   },
+   {
+    "quote": "Although the original Easter egg is no longer available in Google Images, it remains one of the most iconic hidden features Google has ever created. In this guide, you'll learn the history of the Atari Breakout trick, how it worked, and where you can still enjoy the experience today.",
+    "url": "https://note.com/deep_bear8251/n/n98814bdb14b7",
+    "pass": 3
+   },
+   {
+    "quote": "What Is Atari Breakout?",
+    "url": "https://note.com/deep_bear8251/n/n98814bdb14b7",
+    "pass": 3
+   },
+   {
+    "quote": "Atari Breakout is a classic arcade game released in 1976. Players control a paddle at the bottom of the screen and bounce a ball upward to break colorful bricks. The objective is to clear every brick without letting the ball fall past the paddle.",
+    "url": "https://note.com/deep_bear8251/n/n98814bdb14b7",
+    "pass": 3
+   },
+   {
+    "quote": "Its simple gameplay made it one of the most successful arcade games of its time.",
+    "url": "https://note.com/deep_bear8251/n/n98814bdb14b7",
+    "pass": 3
+   },
+   {
+    "quote": "Who is the breakout player of VCT 2026? Looking at marteen's leap through VLR Rating｜N-side編集部",
+    "url": "https://note.com/nside2077/n/n98241b5ffe0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/nside2077/n/n98241b5ffe0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Who is the breakout player of VCT 2026? Looking at marteen's leap through VLR Rating",
+    "url": "https://note.com/nside2077/n/n98241b5ffe0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Who is the player who left a strong impression of change from the previous year in the 2026 VCT? I looked at international tournaments across Americas, EMEA, Pacific, and China, and considered them using VLR.gg's Rating as a guide.",
+    "url": "https://note.com/nside2077/n/n98241b5ffe0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Targeting players whose VCT performance could be compared to the previous year, I focused on the extent of their growth, their 2026 level, and their performance in international tournaments. This time, the breakout player I want to recommend is marteen, who played for Gentle Mates in 2026. Having experienced a world tournament in 2024, he is not a complete newcomer. Even so, after his transfer in ",
+    "url": "https://note.com/nside2077/n/n98241b5ffe0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "VLR Rating is calculated based on kills, deaths, damage, assists, etc., and Rating 2.0 is designed so that the average is 1.0. Below, I compare the displayed values for each tournament. The mechanism of Rating and the difference from ACS are also explained in this article.",
+    "url": "https://note.com/nside2077/n/n98241b5ffe0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://note.com/nside2077/n/n2643c931b0c7",
+    "url": "https://note.com/nside2077/n/n98241b5ffe0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Changes from the previous year seen in the same tournament",
+    "url": "https://note.com/nside2077/n/n98241b5ffe0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【BREAKOUT GRAND PRIX 2026】ダークホースとして参加した私が、賞レースを構造化してみた｜Liliscend＠夜更かしDX・AIハッカー",
+    "url": "https://note.com/second__career/n/n05d74d40b532",
+    "pass": 3
+   },
+   {
+    "quote": "【BREAKOUT GRAND PRIX 2026】ダークホースとして参加した私が、賞レースを構造化してみた",
+    "url": "https://note.com/second__career/n/n05d74d40b532",
+    "pass": 3
+   },
+   {
+    "quote": "Liliscend＠夜更かしDX・AIハッカー",
+    "url": "https://note.com/second__career/n/n05d74d40b532",
+    "pass": 3
+   },
+   {
+    "quote": "【BREAKOUT GRAND PRIX 2026】",
+    "url": "https://note.com/second__career/n/n05d74d40b532",
+    "pass": 3
+   },
+   {
+    "quote": "作品単体でどこまで届くかを試す立場でした…。",
+    "url": "https://note.com/second__career/n/n05d74d40b532",
+    "pass": 3
+   },
+   {
+    "quote": "BREAKOUT GRAND PRIXに参加した理由",
+    "url": "https://note.com/second__career/n/n05d74d40b532",
+    "pass": 3
+   },
+   {
+    "quote": "私はもともと、分析してから動くタイプです。",
+    "url": "https://note.com/second__career/n/n05d74d40b532",
+    "pass": 3
+   },
+   {
+    "quote": "最初から「ダークホース」として戦略を組んだ",
+    "url": "https://note.com/second__career/n/n05d74d40b532",
+    "pass": 3
+   },
+   {
+    "quote": "Guardians of the Galaxy: Mission: BREAKOUT! Complete Guide [DCA, 2026 Latest]｜こう｜Disney Explorer",
+    "url": "https://note.com/kou_disnydream/n/n3a6700f4994f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/kou_disnydream/n/n3a6700f4994f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Guardians of the Galaxy: Mission: BREAKOUT! Complete Guide [DCA, 2026 Latest]",
+    "url": "https://note.com/kou_disnydream/n/n3a6700f4994f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The moment I finished the ride, I couldn't help but say, 'One more time!'",
+    "url": "https://note.com/kou_disnydream/n/n3a6700f4994f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The random drops that come without warning, the terror of the height that expands every time the doors open, Rocket's shouting, and the intense music—everything is unpredictable, and it has the power to make you want to ride again even after waiting 100 minutes.",
+    "url": "https://note.com/kou_disnydream/n/n3a6700f4994f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My honest impression is that the 'type of fear' is completely different from the Tower of Terror at TDS.",
+    "url": "https://note.com/kou_disnydream/n/n3a6700f4994f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, I will provide a complete guide to the biggest thrill ride at DCA.",
+    "url": "https://note.com/kou_disnydream/n/n3a6700f4994f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have summarized everything you need to know before riding, including a comparison of the fear factor with TDS, Lightning Lane strategies, and information on the limited-time Halloween version.",
+    "url": "https://note.com/kou_disnydream/n/n3a6700f4994f?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Breakout (@breakout_gg) / X Breakout Value (BV) is the ranking engine behind Breakout's fantasy basketball player valuations. To illustrate how BV differs from standard 9-CAT rankings, we applied both methods to 2025–26 per-game stats. 📈 Giannis: #51 → #9 (↑42) Elite production heavily penalised by Show more 1 6 638 Breakout @breakout_gg Nov 6",
+    "url": "https://x.com/breakout_gg",
+    "pass": 3
+   },
+   {
+    "quote": "Breakout Fantasy (@BreakoutFF_) / X Powerful Data. Smarter Tools. Built Your Way. Fantasy Rankings, Custom Draft Boards, Trade Calculator, Trade Market, Breakout AI, League Hub, and more!",
+    "url": "https://x.com/BreakoutFF_",
+    "pass": 3
+   },
+   {
+    "quote": "BREAKOUT! (@BreakoutES) / X Breakout Esports Solutions, We bridge the gap between publisher and community | Powered by @1shotenergy @BNEesports @ArcSystemWorksU",
+    "url": "https://x.com/BreakoutES",
+    "pass": 3
+   },
+   {
+    "quote": "Breakout on X: \"Breakout takes away every excuse but one. You ... Breakout takes away every excuse but one. You get the size. You can pass in a single trade. You can withdraw anything from $50. The evaluation fee is the most you can lose. All that’s left is whether you can respect two loss limits.",
+    "url": "https://x.com/breakoutprop/status/2119563112386789603",
+    "pass": 3
+   },
+   {
+    "quote": "Arena Breakout Infinite (@ArenaBreakoutPC) / X Arena Breakout: Infinite is a high-stakes tactical extraction shooter where every decision matters. Season 7: Utopia available now!",
+    "url": "https://x.com/ArenaBreakoutPC",
+    "pass": 3
+   },
+   {
+    "quote": "『ガチアクタ BREAKOUT』公式 on X: \" 世界中のファンと共にSteamウィ... May 1, 2026 · 🌍世界中のファンと共にSteamウィッシュリスト3万登録達成 🎉 📢記念に誰でも参加可能なRPキャンペーンを開催いたします！ / 参加方法 ① このアカウントをフォロー ② この投稿をRP 🔁 ③ 抽選で50名様にアクリルキーホルダーをプレゼント！🎊 \\\\ 📅 期間：5月1日～5月7日 📢 当選者発表：5 ...",
+    "url": "https://x.com/Gachiakutagame/status/2050047574501958080",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Breakout Games - FacebookBreakout Dance Competition - FacebookAI-Powered Trading Strategies for Stocks, Options & CryptoBreakOut Studios | Tucson AZ - FacebookBreakoutcon - FacebookBreakout EDU - FacebookBreakout Malaysia - Surreal Escape Experience | Kuala Lumpur Nov 3, 2026 · Breakout Games. 416,755 followers · 231 talking about this · 41,376 were here. Breakout Games has 30+ escape room locatio",
+    "url": "https://www.facebook.com/BreakoutGames/",
+    "pass": 3
+   },
+   {
+    "quote": "Breakout Dance Competition - FacebookAI-Powered Trading Strategies for Stocks, Options & CryptoBreakOut Studios | Tucson AZ - FacebookBreakoutcon - FacebookBreakout EDU - FacebookBreakout Malaysia - Surreal Escape Experience | Kuala Lumpur Oct 29, 2026 · Breakout Dance Competition. 14,037 followers · 24 talking about this. Breakout Dance Competition is an innovative company that is centered toward",
+    "url": "https://www.facebook.com/breakoutcomp/",
+    "pass": 3
+   },
+   {
+    "quote": "BreakOut Studios | Tucson AZ - FacebookBreakoutcon - FacebookBreakout EDU - FacebookBreakout Malaysia - Surreal Escape Experience | Kuala Lumpur Oct 29, 2026 · BreakOut Studios, Tucson. 11,163 followers · 116 talking about this · 9,909 were here. Life moves...Move with it. We are a movement facility, that believes in the power of dance, movement, and... Breakout guests are in for a RIDICULOUS surp",
+    "url": "https://www.facebook.com/BreakOutStudiosTucson/",
+    "pass": 3
+   },
+   {
+    "quote": "Breakoutcon - FacebookBreakout EDU - FacebookBreakout Malaysia - Surreal Escape Experience | Kuala Lumpur Breakout guests are in for a RIDICULOUS surprise when they arrive! #Breakoutcon #tabletopgames #tabletopgaming #boardgames #boardgamegeek #gamenight #boardgamecommunity Ian Howard Leafy Dragon Games is an ENNIE-winning writer, game designer/developer, and publisher working under the banner of ",
+    "url": "https://www.facebook.com/breakoutcon/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://getbreakout.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getbreakout.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getbreakout.ai/customers/ketch",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getbreakout.ai/customers/hackerearth",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getbreakout.ai/customers/barti",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getbreakout.ai/customers/beautiful-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getbreakout.ai/customers/teamohana",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getbreakout.ai/customers/recruit-crm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getbreakout.ai/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getbreakout.ai/customers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://context.reverso.net/%E7%BF%BB%E8%A8%B3/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E8%8B%B1%E8%AA%9E/%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.breakout-english.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.breakout-jp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://breakout-minpaku.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DXnf71Hxo6II&q=EgQUqR_1GLWB1NcGIjCptSeYr7sMikZWB9g4BqpCMcJVH6Jfpm37GxZiwqRchTxRfj4yIQRyq-Dw5CmepV0yAnJSWgFDYIOB69z99p39fQ",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/breakout",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/s-pro/case-study/breakout-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/breakout/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://breakoutgrowth.net/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sap.com/partners/partner-program.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/breakout",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/624924-01",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/breakout/z9rwl2fh9qs4r8due",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/breakout/__wBO1yMJ2SeovoSpAh5ShKnggSu2TDIvKvB24zAHU3QQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/deep_bear8251/n/n98814bdb14b7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nside2077/n/n98241b5ffe0c?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/second__career/n/n05d74d40b532",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kou_disnydream/n/n3a6700f4994f?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/breakout_gg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BreakoutFF_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BreakoutES",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/breakoutprop/status/2119563112386789603",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/BreakoutGames/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/breakoutcomp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/BreakOutStudiosTucson/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/breakoutcon/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ArenaBreakoutPC",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Gachiakutagame/status/2050047574501958080",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Breakout 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Breakout 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "https://str.toyokeizai.net/databook/dbs_kaigaishin_country/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Breakout Japan",
+   "results": [
+    "https://www.breakout-english.com/",
+    "https://www.breakout-jp.com/",
+    "https://breakout-minpaku.com/",
+    "https://www.youtube.com/watch?v=Xnf71Hxo6II",
+    "https://www.breakout-english.com/about-us.html",
+    "https://break-out.co.jp/",
+    "https://break-out.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Breakout manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/breakout",
+    "https://www.casestudies.com/company/s-pro/case-study/breakout-customer-case-study",
+    "https://www.featuredcustomers.com/vendor/breakout/case-studies",
+    "https://breakoutgrowth.net/case-studies/",
+    "https://www.featuredcustomers.com/vendor/breakout-studio/case-studies",
+    "https://cases.breakoutlearning.com/",
+    "https://breakout-manufacturing.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Breakout white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://www.seoreseller.com/",
+    "https://www.sap.com/partners/partner-program.html",
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.arista.com/en/partner/partner-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Breakout founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/breakout",
+    "https://pitchbook.com/profiles/company/624924-01",
+    "https://www.thecompanycheck.com/company/b/breakout/z9rwl2fh9qs4r8due",
+    "https://tracxn.com/d/companies/breakout/__wBO1yMJ2SeovoSpAh5ShKnggSu2TDIvKvB24zAHU3QQ",
+    "https://pitchbook.com/profiles/company/433805-95",
+    "https://prospeo.io/c/breakout-creative-revenue",
+    "https://www.konaequity.com/company/breakout-4848578154/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Breakout",
+   "results": [
+    "https://note.com/deep_bear8251/n/n98814bdb14b7",
+    "https://note.com/nside2077/n/n98241b5ffe0c?hl=en",
+    "https://note.com/second__career/n/n05d74d40b532",
+    "https://note.com/kou_disnydream/n/n3a6700f4994f?hl=en",
+    "https://note.com/qwerty1987/n/nb064806afbf6?hl=en",
+    "https://note.com/soumatou_game/n/n8a9e56ac8fd4",
+    "https://note.com/breakout_scan/n/n59510fc2b100?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Breakout",
+   "results": [
+    "https://x.com/breakout_gg",
+    "https://x.com/BreakoutFF_",
+    "https://x.com/BreakoutES",
+    "https://x.com/breakoutprop/status/2119563112386789603",
+    "https://x.com/BreakoutLobby",
+    "https://x.com/breakoutlearn",
+    "https://x.com/breakoutprop"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Breakout",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Breakout",
+   "results": [
+    "https://www.facebook.com/BreakoutGames/",
+    "https://www.facebook.com/breakoutcomp/",
+    "https://www.facebook.com/BreakOutStudiosTucson/",
+    "https://www.facebook.com/breakoutcon/",
+    "https://www.facebook.com/breakoutedu/",
+    "https://www.facebook.com/breakoutmy/",
+    "https://business.facebook.com/groups/StartTrading/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Breakout note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/break_",
+    "https://note.com/pablo_ceo/n/n45ff8eb75f1c",
+    "https://hokkaidotimes.jp/company-interview/1721/",
+    "https://www.breakout.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Breakout X 投稿",
+   "results": [
+    "https://x.com/ArenaBreakoutPC",
+    "https://xbreakout.com/",
+    "https://app.xbreakout.com/",
+    "https://x.com/Gachiakutagame/status/2050047574501958080",
+    "https://www.youtube.com/@YBF4",
+    "https://vibs.jp/blog/2026-06-21-c6233e63",
+    "https://help.x.com/ja/using-x/x-polls"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部34頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部34頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

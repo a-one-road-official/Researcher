@@ -1,0 +1,904 @@
+{
+ "name": "有限会社吉川製作所",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T23:25:37.300474+00:00",
+ "official_url": "http://www.yoshikawa-eng.com",
+ "identified_by": "given",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業所",
+    "value": "本社工場のご案内",
+    "url": "https://www.yoshikawa-eng.com/",
+    "pass": 1
+   },
+   {
+    "label": "事業所電話番号",
+    "value": "TEL (055) 976 - 0300 FAX (055) 976 - 0302",
+    "url": "https://www.yoshikawa-eng.com/information.html",
+    "pass": 1
+   },
+   {
+    "label": "事業所",
+    "value": "本社工場のご案内",
+    "url": "https://www.yoshikawa-eng.com/headquater.html",
+    "pass": 1
+   },
+   {
+    "label": "事業所",
+    "value": "本社工場",
+    "url": "https://www.yoshikawa-eng.com/headquater.html",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "事業所所在地",
+    "value": "静岡県駿東郡清水町伏見517-1",
+    "url": "https://www.yoshikawa-eng.com/information.html",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "取引先",
+    "value": "自動車メーカー各社 自動車部品メーカー各社 各種産業機器メーカー各社",
+    "url": "https://www.yoshikawa-eng.com/information.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "一点物・少量多品種": [
+   {
+    "quote": "吉川製作所 [試作部品製作のトータルメーカー／試作ソリューションサービス]",
+    "url": "https://www.yoshikawa-eng.com/",
+    "pass": 1
+   },
+   {
+    "quote": "試作部品製作のトータルメーカー／試作ソリューションサービス.素材鋳造,複合加工,各種処理,検査,気密試験まで一貫して,フレキシブルかつスピーディーに対応いたします.",
+    "url": "https://www.yoshikawa-eng.com/",
+    "pass": 1
+   },
+   {
+    "quote": "吉川製作所 [試作部品製作のトータルメーカー／試作ソリューションサービス]",
+    "url": "https://www.yoshikawa-eng.com/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "一貫対応・一貫保証による試作部品製作のサンプル",
+    "url": "https://www.yoshikawa-eng.com/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "吉川製作所では、案件に最適な試作手法のプランニングからお手伝いいたします",
+    "url": "https://www.yoshikawa-eng.com/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "高精度の単品加工後、組み付けを行った状態で、共加工",
+    "url": "https://www.yoshikawa-eng.com/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "小物の試作も、様々な手法で・・・",
+    "url": "https://www.yoshikawa-eng.com/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品形状や台数によって、試作手法はさまざまです",
+    "url": "https://www.yoshikawa-eng.com/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "吉川製作所 [試作部品製作のトータルメーカー／試作ソリューションサービス]",
+    "url": "https://www.yoshikawa-eng.com/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "安心できる「異次元の試作品質」を、是非ご活用下さい",
+    "url": "https://www.yoshikawa-eng.com/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "試作対応上、限られた時間の中でいかに洩れなく正確な検査を行なうことができるか、これらのノウハウは全て「検査基準書」として文書化され、日々の業務に生かされています",
+    "url": "https://www.yoshikawa-eng.com/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "吉川製作所 [試作部品製作のトータルメーカー／試作ソリューションサービス]",
+    "url": "https://www.yoshikawa-eng.com/equipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "開発試作案件を取り扱うため、情報漏洩対策その他、セキュリティ対策には万全を期しております",
+    "url": "https://www.yoshikawa-eng.com/equipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "吉川製作所 [試作部品製作のトータルメーカー／試作ソリューションサービス]",
+    "url": "https://www.yoshikawa-eng.com/information.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車開発試作で培った技術を柱とし、次世代輸送用機器、ロボット、半導体、医療・福祉、",
+    "url": "https://www.yoshikawa-eng.com/information.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空・宇宙、船舶、光学機器、コンシューマー製品などあらゆる分野の試作部品製作を手がけています",
+    "url": "https://www.yoshikawa-eng.com/information.html",
+    "pass": 1
+   },
+   {
+    "quote": "試作のノウハウをもとに、お客様の案件に最適な試作手法をご提案いたします",
+    "url": "https://www.yoshikawa-eng.com/information.html",
+    "pass": 1
+   },
+   {
+    "quote": "吉川製作所 [試作部品製作のトータルメーカー／試作ソリューションサービス]",
+    "url": "https://www.yoshikawa-eng.com/headquater.html",
+    "pass": 1
+   },
+   {
+    "quote": "異素材での試作部品製作！従来の素材からの置き換えが新たな試験を可能に！",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "試作部品製作のトータルメーカーである吉川製作所では、",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発時の各種試験に使用できる特注品を提供します",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "従来の試作用素材からの置き換えが、新たな試験を可能にします",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "素材から可視化クリアモデルを製作する等、開発ニーズに合った試作品を",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■製品開発時の各種試験に使用できる特注品を提供",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■従来の試作用素材からの置き換えが、新たな試験を可能に",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "試作部品製作受託！3Dプリンターなどの技術を取り入れ、素早い加工を実現！",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "試作部品製作のトータルメーカーである吉川製作所では、精密鋳造、",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "試作部品製作のトータルメーカー／試作ソリューションサービスの吉川製作所",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社吉川製作所は、自動車開発試作で培った技術を柱とし、各種輸送用機器、航空・宇宙、船舶、医療・福祉、光学機器、産業機械、コンシューマー製品など、あらゆる分野の試作部品製作を手がける試作部品製作のトータルメーカーです",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "図面・データから試作部品製作業務を一貫対応、超特急対応に特化したフレシキブルな体制、信頼される品質管理体制を構築",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "異次元の試作品質のご提供とともに、コストもトータルリデュース",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "培ってきたノウハウを駆使し、様々な試作手法を比較検討しながら各案件に最適な試作手法をご提案いたします",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "小ロットから大量生産まで、幅広く対応します",
+    "url": "https://yoshi-kawa.jp/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "「人とくるまのテクノロジー展 2026 YOKOHAMA」（5/27-5/29 パシフィコ横浜）出展",
+    "url": "https://www.yoshikawa-eng.com/",
+    "pass": 1
+   },
+   {
+    "quote": "生産本部長・工程責任者の監督の下、一人ひとりがCAD/CAMから工程段取り・実加工までをトータルでこなす「オールマイティ」な技術者たちによって、無駄なく効率的な製造体制を実現しています",
+    "url": "https://www.yoshikawa-eng.com/equipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "３次元CAD/CAM",
+    "url": "https://www.yoshikawa-eng.com/equipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "Mastercam (Multi-Axis)",
+    "url": "https://www.yoshikawa-eng.com/equipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "試作部品製作受託！3Dプリンターなどの技術を取り入れ、素早い加工を実現！",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター（金属粉末造形）などの手法を取り入れ、",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■3Dプリンターなどの手法を取り入れ、素早い加工を実現",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■金属粉末造形（3Dプリンター）からの精密加工",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "mail : info@yoshikawa-eng.com",
+    "url": "https://www.yoshikawa-eng.com/",
+    "pass": 1
+   },
+   {
+    "quote": "品質マネジメントシステムに関するお問い合わせ窓口",
+    "url": "https://www.yoshikawa-eng.com/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の品質マネジメントに関するお問い合わせは下記窓口にお願い致します",
+    "url": "https://www.yoshikawa-eng.com/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "info@yoshikawa-eng.com （お問い合わせ）",
+    "url": "https://www.yoshikawa-eng.com/information.html",
+    "pass": 1
+   },
+   {
+    "quote": "詳しくはお問い合わせ、またはカタログをダウンロードしてください",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "※ご入力いただいた情報は、お問い合わせ対応の目的にのみ使用し、",
+    "url": "https://yoshi-kawa.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "修理サポートのご相談や、お電話でのお問い合わせはこちらへ",
+    "url": "https://yoshikawa-ss.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問合せは、下記メールアドレスまでご連絡ください",
+    "url": "https://www.ysb-brake.co.jp/contact.php",
+    "pass": 3
+   },
+   {
+    "quote": "弊社への営業メールは、お客様へのサービス対応の障害になりますのでご遠慮ください",
+    "url": "https://www.ysb-brake.co.jp/contact.php",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "こちらでご覧頂く製品は、吉川製作所がかつて手がけた「",
+    "url": "https://www.yoshikawa-eng.com/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "同一の製品であっても、案件の状況（台数・納期・コスト）によって、最適な手法は千差万別です",
+    "url": "https://www.yoshikawa-eng.com/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "本来であれば鋳造を適用すべき製品ですが、",
+    "url": "https://www.yoshikawa-eng.com/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "加工形状だけでなく、容積管理も求められる製品",
+    "url": "https://www.yoshikawa-eng.com/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "吉川製作所の対応保証は、単なる製品・加工保証にとどまらず、様々なオプションを提供できます",
+    "url": "https://www.yoshikawa-eng.com/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "吉川製作所は、それぞれの持ち味を生かした製品を、一貫対応・一貫保証にてご提供いたします",
+    "url": "https://www.yoshikawa-eng.com/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品形状や台数によって、試作手法はさまざまです",
+    "url": "https://www.yoshikawa-eng.com/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "吉川製作所の製品は全て「恒温精密測定室」にて測定が行われています",
+    "url": "https://www.yoshikawa-eng.com/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品納入時には測定データを必ず添付いたします",
+    "url": "https://www.yoshikawa-eng.com/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "鋳造加工品を一貫製作・一貫保証する上で、自社内にて完成品の素材巣検査が可能であることは製品保証上、大きなメリットになります",
+    "url": "https://www.yoshikawa-eng.com/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "吉川製作所では検査対象の製品毎に、自社内で適宜作製したワンオフの治具を用い、厳密かつ臨機応変な検査を可能としています",
+    "url": "https://www.yoshikawa-eng.com/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品そのものの精度にとどまらず、作業工程の進め方から測定内容に至るまで、すべてがトレーサビリティ管理された上で、納期・コストも含め、案件全体の管理・運営体制をも意味します",
+    "url": "https://www.yoshikawa-eng.com/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空・宇宙、船舶、光学機器、コンシューマー製品などあらゆる分野の試作部品製作を手がけています",
+    "url": "https://www.yoshikawa-eng.com/information.html",
+    "pass": 1
+   },
+   {
+    "quote": "吉川製作所の製品・サービス一覧｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(4)",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発時の各種試験に使用できる特注品を提供します",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■製品開発時の各種試験に使用できる特注品を提供",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社吉川製作所は、自動車開発試作で培った技術を柱とし、各種輸送用機器、航空・宇宙、船舶、医療・福祉、光学機器、産業機械、コンシューマー製品など、あらゆる分野の試作部品製作を手がける試作部品製作のトータルメーカーです",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "最新の設備と熟練の技術者が、複雑な形状や高精度が求められる製品を確実に製造",
+    "url": "https://yoshi-kawa.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "CADから板抜き・溶接・塗装までと弊社で一貫製造でき、最短ルートで製品をお届け",
+    "url": "https://yoshi-kawa.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "特に工作機械や半導体装置他、さまざまな製品に不可欠な気密溶接や高い剛性が求められるフレーム溶接に強みを持ってます",
+    "url": "https://yoshi-kawa.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2D·3DCAD部門はお客様の「図面」と実現したアイディアを確実な「製品」へと繋ぐ設計の要です",
+    "url": "https://yoshi-kawa.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "これからも技術革新を積極的に取り入れながら、より高品質な製品づくりを追求してまいります",
+    "url": "https://yoshi-kawa.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "真空業界における専門技術商社であり、真空成膜装置、薄膜材料、消耗品、周辺機器、イオンソースなどの販売、中古製品の売買、保守サービスなど、お客様のニーズに合わせたトータルなサービスをご提案・ご提供いたします",
+    "url": "https://ys-vacuum.com/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "このアドレスは、弊社製品に関連する商品の問い合わせ専用です",
+    "url": "https://www.ysb-brake.co.jp/contact.php",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "各種アルミニウム合金のほか、マグネシウム・ステンレス・鉄・真鍮・銅などの金属素材、ナイロン・ポリアセタール・ABSといった樹脂材から、チタン等難削材に至るまで、総切削対応いたします",
+    "url": "https://www.yoshikawa-eng.com/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "ダイカスト素材、高熱伝導材などの機能性素材を使用したり、透明な樹脂",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■透明な樹脂素材を制作し、精密加工を施した可視化クリアモデル",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "そのためには、工程間の精度への影響を考慮に入れ、非常に精度の高い治具が必要になります",
+    "url": "https://www.yoshikawa-eng.com/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "多岐にわたる工程設定・治具設計すべてにおいて、蓄積されたノウハウが駆使されています",
+    "url": "https://www.yoshikawa-eng.com/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型ではできない形状も、砂型であれば可能になります",
+    "url": "https://www.yoshikawa-eng.com/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "吉川製作所では検査対象の製品毎に、自社内で適宜作製したワンオフの治具を用い、厳密かつ臨機応変な検査を可能としています",
+    "url": "https://www.yoshikawa-eng.com/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車開発試作で培った技術を柱とし、次世代輸送用機器、ロボット、半導体、医療・福祉、",
+    "url": "https://www.yoshikawa-eng.com/information.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空・宇宙、船舶、光学機器、コンシューマー製品などあらゆる分野の試作部品製作を手がけています",
+    "url": "https://www.yoshikawa-eng.com/information.html",
+    "pass": 1
+   },
+   {
+    "quote": "有限会社吉川製作所は、自動車開発試作で培った技術を柱とし、各種輸送用機器、航空・宇宙、船舶、医療・福祉、光学機器、産業機械、コンシューマー製品など、あらゆる分野の試作部品製作を手がける試作部品製作のトータルメーカーです",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "特に工作機械や半導体装置他、さまざまな製品に不可欠な気密溶接や高い剛性が求められるフレーム溶接に強みを持ってます",
+    "url": "https://yoshi-kawa.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "車：九州自動車道「久留米IC」より約7分",
+    "url": "https://yoshikawa-ss.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "車：九州自動車道「鳥栖IC」より約5分",
+    "url": "https://yoshikawa-ss.jp/company/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "吉川製作所 [試作部品製作のトータルメーカー／試作ソリューションサ... — 有限会社吉川製作所 代表取締役社長 吉川大輔 五軸加工機9台体制にて稼働中 品質マネジメントシステム ISO9001 認証取得 環境マネジメントシステム KES 認証取得 【お問い合わせ窓口はこちら】 吉川製作所 試作ソリューショングループ -メールにて- info ...",
+    "url": "https://www.yoshikawa-eng.com/",
+    "pass": 3
+   },
+   {
+    "quote": "吉川製作所の製品・サービス一覧｜イプロスものづくり — Jun 3, 2015 · 試作部品製作受託！3Dプリンターなどの技術を取り入れ、素早い加工を実現！ 試作部品製作のトータルメーカーである吉川製作所では、 ラピッドプロトタイピングを行っています。 3Dプリンター（金属粉末造形）などの手法を取り入れ、 精密加工することで、素早く加工することを可能にし ...",
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "pass": 3
+   },
+   {
+    "quote": "吉川製作所吉川製作所のカタログ一覧 | イプロスものづくり試作も、ダイカスト材で。 - 有限会社 吉川製作所試作・小ロット・オーダーメイド - 賀陽技研 — CAD部門 2D·3DCAD部門はお客様の「図面」と実現したアイディアを確実な「製品」へと繋ぐ設計の要です。 単なるデータ制作に留まらず、加工現場の視点を取り入れた「製造のための設計」を実施しています。 Jun 3, 2015 · 吉川製作所は、試作部品製作のトータルメーカー／試作ソリューションサービスの吉川製作所有限会社吉川製作所は、自動車開発試作で培った技術を柱とし、各種輸送用機器、航空・宇宙、船舶、医療・福祉、光学機器、産業機械、コンシューマー製品など ... Dec 5, 2023 · アルミダイカスト材（ADC12）、マグネダイカスト材 (AZ91D)、高熱伝導ダイカスト材 (HT-1、DMS）などを使った試作品 1台から製",
+    "url": "https://yoshi-kawa.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "吉川製作所のカタログ一覧 | イプロスものづくり — Jun 3, 2015 · 吉川製作所は、試作部品製作のトータルメーカー／試作ソリューションサービスの吉川製作所有限会社吉川製作所は、自動車開発試作で培った技術を柱とし、各種輸送用機器、航空・宇宙、船舶、医療・福祉、光学機器、産業機械、コンシューマー製品など ...",
+    "url": "https://mono.ipros.com/company/detail/2046414/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜【公式】株式会社吉川製作所事業内容｜【公式】株式会社吉川製作所吉川製作所会社概要｜株式会社吉川製作所会社概要 – 吉川製作所吉川製作所 [試作部品製作のトータルメーカー／試作ソリューションサ...吉川製作所 [試作部品製作のトータルメーカー／試作ソリューションサ... — 真空装置のトータルプランナー 吉川トレーディング株式会社 真空業界における専門技術商社であり、真空成膜装置、薄膜材料、消耗品、周辺機器、イオンソースなどの販売、中古製品の売買、保守サービスなど、お客様のニーズに合わせたトータルなサービスをご提案・ご提供いたします。 WEB ... 生産ラインを止めないスピーディできめ細かな対応 50年を超える歴史の中で蓄積したノウハウと最先端の技術で、メーカーを問わず多種多様な真空設備の修理・メンテナンスを行っています。「お客様の生産ラインを絶対に止めない」を大命題に、データベ",
+    "url": "https://ys-vacuum.com/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "吉川製作所会社概要｜株式会社吉川製作所会社概要 – 吉川製作所吉川製作所 [試作部品製作のトータルメーカー／試作ソリューションサ...吉川製作所 [試作部品製作のトータルメーカー／試作ソリューションサ... — CAD部門 2D·3DCAD部門はお客様の「図面」と実現したアイディアを確実な「製品」へと繋ぐ設計の要です。 単なるデータ制作に留まらず、加工現場の視点を取り入れた「製造のための設計」を実施しています。 特に、最終的な「擦り合わせ」工程や溶接時の歪みを予測し、最初から最適な展開図を ... FAX 0942-48-0772 営業時間 8:00〜17:00 （※日・祝・第2・第4土曜を除く） 業務内容 設備工事・メンテナンス 管工事 省エネ・環境対応 冷媒フロン回収 核シェルター 会社情報 お客様の声 会社概要 採用 お知らせ お問い合わせ 採用情報 プライバシーポリシー 40名（パ",
+    "url": "https://yoshi-kawa.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜株式会社吉川製作所 — FAX 0942-48-0772 営業時間 8:00〜17:00 （※日・祝・第2・第4土曜を除く） 業務内容 設備工事・メンテナンス 管工事 省エネ・環境対応 冷媒フロン回収 核シェルター 会社情報 お客様の声 会社概要 採用 お知らせ お問い合わせ 採用情報 プライバシーポリシー",
+    "url": "https://yoshikawa-ss.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 – 吉川製作所 — 40名（パート含む） 事業内容 プリント基板への部品実装・組立てアセンブリ 電源回路設計及び製造 各種電子機器の製造 加入団体 上野商工会議所 伊賀法人会 伊賀情報ネットワーク共同組合 三重県地域活性化雇用創造プロジェクト 賛助会員 三重TLO 一般会員",
+    "url": "https://www.yskw-ss.co.jp/?page_id=13",
+    "pass": 3
+   },
+   {
+    "quote": "吉川製作所 [試作部品製作のトータルメーカー／試作ソリューションサ... — 事業内容 試作部品製作のトータルメーカー 自動車開発試作で培った技術を柱とし、次世代輸送用機器、ロボット、半導体、医療・福祉、 航空・宇宙、船舶、光学機器、コンシューマー製品などあらゆる分野の試作部品製作を手がけています。 試作ソリューションサービス 試作のノウハウを ...",
+    "url": "https://www.yoshikawa-eng.com/information.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ – 吉川製作所 — お問い合わせ お問い合わせ先 本社工場 工場長 籔本 達也 設計・開発室 取締役室長 大川内 治 お問い合わせフォーム 以下の項目にご記入のうえ、送信内容の確認ボタンを押してください。 必須 がついている項目は、必ずご記入をお願いいたします。",
+    "url": "http://www.yskw-ss.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜株式会社吉川製作所 — 株式会社 吉川製作所 本社：福岡県久留米市高良内町字池田19-2 工場：佐賀県鳥栖市曽根崎町1742-1 本社TEL 0942-43-5938 FAX 0942-48-0772 営業時間 8:00〜17:00 （※日・祝・第2・第4土曜を除く） 業務内容",
+    "url": "https://yoshikawa-ss.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問合せ - 株式会社吉川製作所 — お問合せ お問合せは、下記メールアドレスまでご連絡ください。 info@ysb-brake.co.jp このアドレスは、弊社製品に関連する商品の問い合わせ専用です。 弊社への営業メールは、お客様へのサービス対応の障害になりますのでご遠慮ください。",
+    "url": "https://www.ysb-brake.co.jp/contact.php",
+    "pass": 3
+   },
+   {
+    "quote": "お問合せ｜【公式】株式会社吉川製作所 — お気軽にお問い合わせください お問い合わせ 多種多様な真空機器を利用したい方へ 吉川製作所 ONLINE SHOP 株式会社吉川製作所 本社・本社工場 奈良県大和高田市大字田井166－4番地 TEL：0745-53-3414 FAX：0745-23-0378 企業情報 事業内容 選ばれる理由 採用サイト",
+    "url": "https://ys-vacuum.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜吉川製作所 精密機械加工事業 — 切断からCNC旋盤加工、マシニング加工などの精密機械加工まで、急ぎのご依頼や短納期での大量生産なら吉川製作所にお ...",
+    "url": "https://ys-vacuum.com/takaida-top/contact.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#株式会社吉川製作所\" - Results on X | Live Posts & Updates Results for \"#株式会社吉川製作所\" on X (Twitter). Find the latest posts, discussions, and updates about #株式会社吉川製作所. 1 results found.",
+    "url": "https://x.com/hashtag/株式会社吉川製作所",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 吉川製作所 - Facebook株式会社吉川製作所 - Facebook吉川製作所株式会社 吉川製作所 | Facebook株式会社 吉川製作所 - Facebook\\かわいい焼菓子やさん／ 飯能市の吉川製作所さん お店の名前からは想...株式会社 吉川製作所 - 株式会社 吉川製作所 added a new photo. May 14, 2026 · 株式会社 吉川製作所 added 2 photos and 3 videos. 久しぶりの複数台の機械移動もひと段落して新規更新 機械の立ち上げ待ちまで辿りつきました💦 弊社所有のインテグレックス全台止めての作業は新工 場増築時以来の大移動でした。 May 12, 2022 · 株式会社吉川製作所. 34 followers. CNC工作機械を用い、主に鉄やステンレスを主体とした金属切削精密部品の 吉川製作所. 1 like. I",
+    "url": "https://www.facebook.com/YOSHIKAWA.mfg/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社吉川製作所 - Facebook吉川製作所株式会社 吉川製作所 | Facebook株式会社 吉川製作所 - Facebook\\かわいい焼菓子やさん／ 飯能市の吉川製作所さん お店の名前からは想...株式会社 吉川製作所 - 株式会社 吉川製作所 added a new photo. May 12, 2022 · 株式会社吉川製作所. 34 followers. CNC工作機械を用い、主に鉄やステンレスを主体とした金属切削精密部品の 吉川製作所. 1 like. Interest Nov 20, 2024 · Recent Posts 株式会社 吉川製作所 Mar 12 3月8日に開催された「全日本製造業コマ大戦 G3 THE PARTY 2025大田区特別場所」に弊社コマ部も参加してきまし た！ 昨年3位のリベンジを果たしに挑みましたが一歩及ば ず2回戦敗退となりました（ ; ;",
+    "url": "https://www.facebook.com/yoshikawaseisakusyo/",
+    "pass": 3
+   },
+   {
+    "quote": "吉川製作所 吉川製作所. 1 like. Interest",
+    "url": "https://www.facebook.com/p/吉川製作所-100068078466530/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 吉川製作所 | Facebook Nov 20, 2024 · Recent Posts 株式会社 吉川製作所 Mar 12 3月8日に開催された「全日本製造業コマ大戦 G3 THE PARTY 2025大田区特別場所」に弊社コマ部も参加してきまし た！ 昨年3位のリベンジを果たしに挑みましたが一歩及ば ず2回戦敗退となりました（ ; ; ）",
+    "url": "https://www.facebook.com/YOSHIKAWA.mfg/posts/1142443237886188/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.yoshikawa-eng.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshikawa-eng.com/product.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshikawa-eng.com/quality.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshikawa-eng.com/equipment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshikawa-eng.com/information.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshikawa-eng.com/headquater.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.yoshikawa-eng.com/index_product.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yoshikawa-eng.com/products/1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yoshikawa-eng.com/products/3.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yoshikawa-eng.com/products/9.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yoshikawa-eng.com/products/10.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yoshikawa-eng.com/products/4.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yoshikawa-eng.com/products/5.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yoshikawa-eng.com/products/6.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yoshikawa-eng.com/products/7.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yoshikawa-eng.com/products/14.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yoshikawa-eng.com/products/15.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yoshikawa-eng.com/products/11.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2046414/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yoshi-kawa.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ys-vacuum.com/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yoshi-kawa.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yoshikawa-ss.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.yskw-ss.co.jp/contact/",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://yoshikawa-ss.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ysb-brake.co.jp/contact.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/株式会社吉川製作所",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/YOSHIKAWA.mfg/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/yoshikawaseisakusyo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/吉川製作所-100068078466530/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/YOSHIKAWA.mfg/posts/1142443237886188/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "吉川製作所 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.yoshikawa-eng.com/",
+    "https://mono.ipros.com/company/detail/2046414/category/",
+    "https://yoshi-kawa.jp/",
+    "https://mono.ipros.com/company/detail/2046414/catalog/",
+    "https://kayougiken.co.jp/waza/prototype.html",
+    "https://yoshikawa-eng.com/product.html",
+    "https://ja.nc-net.or.jp/company/78919/product/detail/24379/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "吉川製作所 会社概要 事業内容",
+   "results": [
+    "https://ys-vacuum.com/company/profile/",
+    "https://yoshi-kawa.jp/",
+    "https://yoshikawa-ss.jp/company/",
+    "https://www.yskw-ss.co.jp/?page_id=13",
+    "https://www.yoshikawa-eng.com/information.html",
+    "https://www.yoshikawa-eng.com/",
+    "https://www.ys-vacuum.com/field/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "吉川製作所 お問い合わせ メール",
+   "results": [
+    "http://www.yskw-ss.co.jp/contact/",
+    "https://yoshikawa-ss.jp/contact/",
+    "https://www.ysb-brake.co.jp/contact.php",
+    "https://ys-vacuum.com/contact/",
+    "https://ys-vacuum.com/takaida-top/contact.html",
+    "https://yoshikawa-mfg.jp/pages/3/",
+    "https://ymc-mcn.com/contact/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 吉川製作所",
+   "results": [
+    "https://note.com/kannapple",
+    "https://note.com/yayoshikawa",
+    "https://note.com/msk_1939",
+    "https://note.com/take_yoshikawa",
+    "https://note.com/honmotoei/n/n1aea46aed427",
+    "https://note.com/msk_1939/n/n3843acbe598f",
+    "https://note.com/clean_broom590/n/n73d9398a6eaf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 吉川製作所",
+   "results": [
+    "https://x.com/hashtag/株式会社吉川製作所",
+    "https://about.x.com/",
+    "https://x.com/netatank",
+    "https://x.com/msk_1939",
+    "https://x.com/hayakawa_ss",
+    "https://x.com/kazuo",
+    "https://x.com/kikkawa_staff"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 吉川製作所",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 吉川製作所",
+   "results": [
+    "https://www.facebook.com/YOSHIKAWA.mfg/",
+    "https://www.facebook.com/yoshikawaseisakusyo/",
+    "https://www.facebook.com/p/吉川製作所-100068078466530/",
+    "https://www.facebook.com/YOSHIKAWA.mfg/posts/1142443237886188/",
+    "https://www.facebook.com/株式会社-吉川製作所-1440554832857101/",
+    "https://www.facebook.com/17841402104664679/videos/1197286351383797/",
+    "https://www.facebook.com/YOSHIKAWA.mfg/photos/1571541001643074/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "吉川製作所 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/吉川潤",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ys-vacuum.com/company/greeting/",
+    "https://ys-vacuum.com/recruit/message/",
+    "https://compalyze.co.jp/company/8150001014836",
+    "https://www.wikiwand.com/ja/吉川潤",
+    "https://note.com/honmotoei/n/n1aea46aed427",
+    "https://ys-vacuum.com/company/profile/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "吉川製作所 X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式6頁／PDF・画像12件／外部13頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像12件／外部13頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像12件／外部13頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式6頁／PDF・画像12件／外部13頁・検索9回）"
+ }
+}

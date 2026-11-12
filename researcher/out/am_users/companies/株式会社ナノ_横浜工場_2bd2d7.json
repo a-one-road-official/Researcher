@@ -1,0 +1,960 @@
+{
+ "name": "株式会社ナノ 横浜工場",
+ "aliases": [],
+ "context": "ipros_all:特注",
+ "researched_at": "2026-11-11T23:37:52.654191+00:00",
+ "official_url": "http://www.nanowave.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "精密加工をはじめ、小型フライス盤・小型旋盤の開発・製造・販売",
+    "url": "http://www.nanowave.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "精密加工をはじめ、小型フライス盤・小型旋盤の開発・製造・販売",
+    "url": "http://www.nanowave.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "代表取締役社長 林 ふさ子",
+    "url": "http://www.nanowave.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "代表取締役社長 林 ふさ子",
+    "url": "http://www.nanowave.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "16名（平成29年4月1日現在）",
+    "url": "http://www.nanowave.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "16名（平成29年4月1日現在）",
+    "url": "http://www.nanowave.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "18名",
+    "url": "https://mono.ipros.com/company/detail/209991/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒236-0016 神奈川県横浜市金沢区谷津町86番1号 大きな地図で見る",
+    "url": "http://www.nanowave.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒236-0016 神奈川県横浜市金沢区谷津町86番1号 大きな地図で見る",
+    "url": "http://www.nanowave.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "【国内】\n東京大学（先端研、医学部）\n島根大学（医学部）\n神奈川大学（工学部）\n防衛大学校\n理化学研究所\n他\n\n【海外】\nデルフト工科大学（オランダ）\nニューカッスル大学（イギリス）\nタリン工科大学（エストニア）\n他 (順不同・敬称略) ※医療機器関連、電子・機械部品、企業の研究所や大学の研究室など、あらゆる要求に解決策をご提案いたします！",
+    "url": "https://mono.ipros.com/company/detail/209991/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "旋盤・フライス・研削・仕上げ加工から組み立てまで、 当社製品の基盤となる、目に見えないところの精度にも こだわったナノの技術力をご紹介します",
+    "url": "http://www.nanowave.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の外形寸法や重量、各テーブルの詳しい仕様などは製品カタログに記載がございます",
+    "url": "http://www.nanowave.co.jp/product/mts5r.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、MTSシリーズをベースにしたカスタマイズから、御社専用の部品加工機の製作まで、お客さまのニーズにあわせた製品開発を承っております",
+    "url": "http://www.nanowave.co.jp/product/mts5r.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術的な相談、テストカット、製品デモ、仕様打ち合わせ、",
+    "url": "http://www.nanowave.co.jp/suggest/custom_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品の外形寸法や重量、各テーブルの詳しい仕様などは製品カタログに記載がございます",
+    "url": "http://www.nanowave.co.jp/product/mts3s.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、MTSシリーズをベースにしたカスタマイズから、御社専用の部品加工機の製作まで、お客さまのニーズにあわせた製品開発を承っております",
+    "url": "http://www.nanowave.co.jp/product/mts3s.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、MTSシリーズをベースにしたカスタマイズから、御社専用の部品加工機の製作まで、お客さまのニーズにあわせた製品開発を承っております",
+    "url": "http://www.nanowave.co.jp/product/download.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、MTSシリーズをベースにしたカスタマイズから、御社専用の部品加工機の製作まで、お客さまのニーズにあわせた製品開発を承っております",
+    "url": "http://www.nanowave.co.jp/product/customize.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術的な相談、テストカット、製品デモ、仕様打ち合わせ、",
+    "url": "http://www.nanowave.co.jp/suggest/longwork.html",
+    "pass": 1
+   },
+   {
+    "quote": "携帯電話、パソコン、AV機器、電化製品など、わたしたちの日常生活を支える部品たちは、小型・高性能化により飛躍的に省エネが実現しています",
+    "url": "http://www.nanowave.co.jp/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "先端技術と熟練技術の融合により，お客様が満足していただける製品づくりを心がけています．",
+    "url": "http://www.nanowave.co.jp/company/principle.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術的な相談、テストカット、製品デモ、仕様打ち合わせ、",
+    "url": "http://www.nanowave.co.jp/suggest/",
+    "pass": 1
+   },
+   {
+    "quote": "技術的な相談、テストカット、製品デモ、仕様打ち合わせ、",
+    "url": "http://www.nanowave.co.jp/suggest/case_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術的な相談、テストカット、製品デモ、仕様打ち合わせ、",
+    "url": "http://www.nanowave.co.jp/suggest/case_04.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術的な相談、テストカット、製品デモ、仕様打ち合わせ、",
+    "url": "http://www.nanowave.co.jp/suggest/case_05.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術的な相談、テストカット、製品デモ、仕様打ち合わせ、",
+    "url": "http://www.nanowave.co.jp/suggest/case_06.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術的な相談、テストカット、製品デモ、仕様打ち合わせ、",
+    "url": "http://www.nanowave.co.jp/suggest/measure.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術的な相談、テストカット、製品デモ、仕様打ち合わせ、",
+    "url": "http://www.nanowave.co.jp/suggest/concent.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術的な相談、テストカット、製品デモ、仕様打ち合わせ、",
+    "url": "http://www.nanowave.co.jp/suggest/nc.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術的な相談、テストカット、製品デモ、仕様打ち合わせ、",
+    "url": "http://www.nanowave.co.jp/suggest/knowhow.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術的な相談、テストカット、製品デモ、仕様打ち合わせ、",
+    "url": "http://www.nanowave.co.jp/suggest/house.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(2)",
+    "url": "https://mono.ipros.com/company/detail/209991/",
+    "pass": 3
+   },
+   {
+    "quote": "●特注対応：顧客のニーズに合わせ、刃物や治具、加工物のハンドリングや生産ラインでの計測器による製品チェックなどにも柔軟に対応",
+    "url": "https://mono.ipros.com/company/detail/209991/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (2)",
+    "url": "https://mono.ipros.com/company/detail/209991/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "PC, POM, PI, PMMA, エポキシ樹脂",
+    "url": "http://www.nanowave.co.jp/product/material.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究者自らが直径φ1mmの樹脂製タービン部品を試作",
+    "url": "http://www.nanowave.co.jp/suggest/custom_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究者自らが直径φ1mmの樹脂製タービン部品を試作",
+    "url": "http://www.nanowave.co.jp/suggest/longwork.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究者自らが直径φ1mmの樹脂製タービン部品を試作",
+    "url": "http://www.nanowave.co.jp/suggest/",
+    "pass": 1
+   },
+   {
+    "quote": "研究者自らが直径φ1mmの樹脂製タービン部品を試作",
+    "url": "http://www.nanowave.co.jp/suggest/case_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究者自らが直径φ1mmの樹脂製タービン部品を試作",
+    "url": "http://www.nanowave.co.jp/suggest/case_04.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究者自らが直径φ1mmの樹脂製タービン部品を試作",
+    "url": "http://www.nanowave.co.jp/suggest/case_05.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究者自らが直径φ1mmの樹脂製タービン部品を試作",
+    "url": "http://www.nanowave.co.jp/suggest/case_06.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究者自らが直径φ1mmの樹脂製タービン部品を試作",
+    "url": "http://www.nanowave.co.jp/suggest/measure.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究者自らが直径φ1mmの樹脂製タービン部品を試作",
+    "url": "http://www.nanowave.co.jp/suggest/concent.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究者自らが直径φ1mmの樹脂製タービン部品を試作",
+    "url": "http://www.nanowave.co.jp/suggest/nc.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究者自らが直径φ1mmの樹脂製タービン部品を試作",
+    "url": "http://www.nanowave.co.jp/suggest/knowhow.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究者自らが直径φ1mmの樹脂製タービン部品を試作",
+    "url": "http://www.nanowave.co.jp/suggest/house.html",
+    "pass": 1
+   },
+   {
+    "quote": "●電子・機械部品関連：樹脂の加工から超硬まで様々な加工に対応！",
+    "url": "https://mono.ipros.com/company/detail/209991/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "工業技術院機械技術研究所にキャスティングマニピュレータ機構および伸縮脚型2足歩行ロボットを納入",
+    "url": "http://www.nanowave.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "精密CNC高硬度金型材切削機 NANOWAVE UPL2 の販売を開始",
+    "url": "http://www.nanowave.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "昭和大学歯科病院保存修復学講座に初号デバイス納入",
+    "url": "http://www.nanowave.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "卓上NC機によるミクロンオーダーの超硬金型修正工程の内製化で生産性向上",
+    "url": "http://www.nanowave.co.jp/suggest/custom_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "バイオ工学研究者による培地用の微細な超硬金型作成の内製化",
+    "url": "http://www.nanowave.co.jp/suggest/custom_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "生命工学工業技術研究所にロボットセンサー部品を納入",
+    "url": "http://www.nanowave.co.jp/product/installed.html",
+    "pass": 1
+   },
+   {
+    "quote": "生命工学工業技機械技術研究所に、キャスティングマニピュレータ機構（ロボット）を設計製作納入",
+    "url": "http://www.nanowave.co.jp/product/installed.html",
+    "pass": 1
+   },
+   {
+    "quote": "機械技術研究所に、伸縮脚型２足歩行ロボットを設計製作納入",
+    "url": "http://www.nanowave.co.jp/product/installed.html",
+    "pass": 1
+   },
+   {
+    "quote": "機械技術研究所に自立型脚車輪２足システムロボットを納入",
+    "url": "http://www.nanowave.co.jp/product/installed.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業技術総合研究所にＮＥＤＯ「人間協調・共存型ロボットシステムの研究開発」の実験機納入",
+    "url": "http://www.nanowave.co.jp/product/installed.html",
+    "pass": 1
+   },
+   {
+    "quote": "湘南工科大学工学部機械工学科に「真円度測定治具」を納入",
+    "url": "http://www.nanowave.co.jp/product/installed.html",
+    "pass": 1
+   },
+   {
+    "quote": "北海道大学大学院工学研究科に筋電位義手ロボットを納入",
+    "url": "http://www.nanowave.co.jp/product/installed.html",
+    "pass": 1
+   },
+   {
+    "quote": "琉球大学工学部情報工学科に冗長５脚ロボット脚を納入",
+    "url": "http://www.nanowave.co.jp/product/installed.html",
+    "pass": 1
+   },
+   {
+    "quote": "昭和歯科大学病院 保存修復学講座「口腔用照明装置」ＮＡＮＯＷＡＶＥ ＤＬＤ４３初号デバイスを納入",
+    "url": "http://www.nanowave.co.jp/product/installed.html",
+    "pass": 1
+   },
+   {
+    "quote": "電気通信大学電気通信学部知能機械工学科に「バイオリンロボット用ハンド2関節指部」一式を納品",
+    "url": "http://www.nanowave.co.jp/product/installed.html",
+    "pass": 1
+   },
+   {
+    "quote": "琉球大学工学部情報工学科に冗長５脚ロボットを納入",
+    "url": "http://www.nanowave.co.jp/product/installed.html",
+    "pass": 1
+   },
+   {
+    "quote": "電気通信大学電機通信学部知能機械学科にバイオリンロボット用ハンド納入",
+    "url": "http://www.nanowave.co.jp/product/installed.html",
+    "pass": 1
+   },
+   {
+    "quote": "防衛大学校情報工学科にロボカップ中型リーグ出場機を５体納入する",
+    "url": "http://www.nanowave.co.jp/product/installed.html",
+    "pass": 1
+   },
+   {
+    "quote": "卓上NC機によるミクロンオーダーの超硬金型修正工程の内製化で生産性向上",
+    "url": "http://www.nanowave.co.jp/suggest/longwork.html",
+    "pass": 1
+   },
+   {
+    "quote": "バイオ工学研究者による培地用の微細な超硬金型作成の内製化",
+    "url": "http://www.nanowave.co.jp/suggest/longwork.html",
+    "pass": 1
+   },
+   {
+    "quote": "卓上NC機によるミクロンオーダーの超硬金型修正工程の内製化で生産性向上",
+    "url": "http://www.nanowave.co.jp/suggest/",
+    "pass": 1
+   },
+   {
+    "quote": "バイオ工学研究者による培地用の微細な超硬金型作成の内製化",
+    "url": "http://www.nanowave.co.jp/suggest/",
+    "pass": 1
+   },
+   {
+    "quote": "卓上NC機によるミクロンオーダーの超硬金型修正工程の内製化で生産性向上",
+    "url": "http://www.nanowave.co.jp/suggest/case_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "バイオ工学研究者による培地用の微細な超硬金型作成の内製化",
+    "url": "http://www.nanowave.co.jp/suggest/case_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "大手医療機器メーカー様にて、",
+    "url": "http://www.nanowave.co.jp/suggest/case_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "卓上NC機によるミクロンオーダーの超硬金型修正工程の内製化で生産性向上",
+    "url": "http://www.nanowave.co.jp/suggest/case_04.html",
+    "pass": 1
+   },
+   {
+    "quote": "バイオ工学研究者による培地用の微細な超硬金型作成の内製化",
+    "url": "http://www.nanowave.co.jp/suggest/case_04.html",
+    "pass": 1
+   },
+   {
+    "quote": "卓上NC機によるミクロンオーダーの超硬金型修正工程の内製化で生産性向上",
+    "url": "http://www.nanowave.co.jp/suggest/case_05.html",
+    "pass": 1
+   },
+   {
+    "quote": "バイオ工学研究者による培地用の微細な超硬金型作成の内製化",
+    "url": "http://www.nanowave.co.jp/suggest/case_05.html",
+    "pass": 1
+   },
+   {
+    "quote": "卓上NC機によるミクロンオーダーの超硬金型修正工程の内製化で生産性向上",
+    "url": "http://www.nanowave.co.jp/suggest/case_06.html",
+    "pass": 1
+   },
+   {
+    "quote": "バイオ工学研究者による培地用の微細な超硬金型作成の内製化",
+    "url": "http://www.nanowave.co.jp/suggest/case_06.html",
+    "pass": 1
+   },
+   {
+    "quote": "卓上NC機によるミクロンオーダーの超硬金型修正工程の内製化で生産性向上",
+    "url": "http://www.nanowave.co.jp/suggest/measure.html",
+    "pass": 1
+   },
+   {
+    "quote": "バイオ工学研究者による培地用の微細な超硬金型作成の内製化",
+    "url": "http://www.nanowave.co.jp/suggest/measure.html",
+    "pass": 1
+   },
+   {
+    "quote": "卓上NC機によるミクロンオーダーの超硬金型修正工程の内製化で生産性向上",
+    "url": "http://www.nanowave.co.jp/suggest/concent.html",
+    "pass": 1
+   },
+   {
+    "quote": "バイオ工学研究者による培地用の微細な超硬金型作成の内製化",
+    "url": "http://www.nanowave.co.jp/suggest/concent.html",
+    "pass": 1
+   },
+   {
+    "quote": "卓上NC機によるミクロンオーダーの超硬金型修正工程の内製化で生産性向上",
+    "url": "http://www.nanowave.co.jp/suggest/nc.html",
+    "pass": 1
+   },
+   {
+    "quote": "バイオ工学研究者による培地用の微細な超硬金型作成の内製化",
+    "url": "http://www.nanowave.co.jp/suggest/nc.html",
+    "pass": 1
+   },
+   {
+    "quote": "卓上NC機によるミクロンオーダーの超硬金型修正工程の内製化で生産性向上",
+    "url": "http://www.nanowave.co.jp/suggest/knowhow.html",
+    "pass": 1
+   },
+   {
+    "quote": "バイオ工学研究者による培地用の微細な超硬金型作成の内製化",
+    "url": "http://www.nanowave.co.jp/suggest/knowhow.html",
+    "pass": 1
+   },
+   {
+    "quote": "卓上NC機によるミクロンオーダーの超硬金型修正工程の内製化で生産性向上",
+    "url": "http://www.nanowave.co.jp/suggest/house.html",
+    "pass": 1
+   },
+   {
+    "quote": "バイオ工学研究者による培地用の微細な超硬金型作成の内製化",
+    "url": "http://www.nanowave.co.jp/suggest/house.html",
+    "pass": 1
+   },
+   {
+    "quote": "●特注対応：顧客のニーズに合わせ、刃物や治具、加工物のハンドリングや生産ラインでの計測器による製品チェックなどにも柔軟に対応",
+    "url": "https://mono.ipros.com/company/detail/209991/",
+    "pass": 3
+   },
+   {
+    "quote": "●医療関連：内視鏡カメラ用の微小複雑形状部品加工、カテーテル部品の外径・内径加工および穴あけ、マイクロ流路など医療分野全般に活用が可能！",
+    "url": "https://mono.ipros.com/company/detail/209991/",
+    "pass": 3
+   },
+   {
+    "quote": "※医療機器関連、電子・機械部品、企業の研究所や大学の研究室など、あらゆる要求に解決策をご提案いたします！",
+    "url": "https://mono.ipros.com/company/detail/209991/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "研究者自らが直径φ1mmの樹脂製タービン部品を試作",
+    "url": "http://www.nanowave.co.jp/suggest/custom_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究者自らが直径φ1mmの樹脂製タービン部品を試作",
+    "url": "http://www.nanowave.co.jp/suggest/longwork.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究者自らが直径φ1mmの樹脂製タービン部品を試作",
+    "url": "http://www.nanowave.co.jp/suggest/",
+    "pass": 1
+   },
+   {
+    "quote": "研究者自らが直径φ1mmの樹脂製タービン部品を試作",
+    "url": "http://www.nanowave.co.jp/suggest/case_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究者自らが直径φ1mmの樹脂製タービン部品を試作",
+    "url": "http://www.nanowave.co.jp/suggest/case_04.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究者自らが直径φ1mmの樹脂製タービン部品を試作",
+    "url": "http://www.nanowave.co.jp/suggest/case_05.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究者自らが直径φ1mmの樹脂製タービン部品を試作",
+    "url": "http://www.nanowave.co.jp/suggest/case_06.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究者自らが直径φ1mmの樹脂製タービン部品を試作",
+    "url": "http://www.nanowave.co.jp/suggest/measure.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究者自らが直径φ1mmの樹脂製タービン部品を試作",
+    "url": "http://www.nanowave.co.jp/suggest/concent.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究者自らが直径φ1mmの樹脂製タービン部品を試作",
+    "url": "http://www.nanowave.co.jp/suggest/nc.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究者自らが直径φ1mmの樹脂製タービン部品を試作",
+    "url": "http://www.nanowave.co.jp/suggest/knowhow.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究者自らが直径φ1mmの樹脂製タービン部品を試作",
+    "url": "http://www.nanowave.co.jp/suggest/house.html",
+    "pass": 1
+   },
+   {
+    "quote": "●特注対応：顧客のニーズに合わせ、刃物や治具、加工物のハンドリングや生産ラインでの計測器による製品チェックなどにも柔軟に対応",
+    "url": "https://mono.ipros.com/company/detail/209991/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "ターニングセンタの場合、簡易 CAM を使用した際のデータ編集タブ",
+    "url": "http://www.nanowave.co.jp/dl/soft_history130318.pdf",
+    "pass": 2
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "8,000+ナノ 横浜工場 Note 社長 Jobs in United States Today’s top 8,000+ ナノ 横浜工場 Note 社長 jobs in United States. Leverage your professional network, and get hired. New ナノ 横浜工場 Note 社長 jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/ナノ-横浜工場-note-社長-jobs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社ナノソフト | Yokohama Kanagawa - Facebook株式会社 大矢製作所 - 横浜工場が出来ました！... | Facebooknanoblock - Facebook極東開発工業株式会社 - 2026年3月、おかげさまで当社横浜工場は操業6...極東開発工業株式会社 - 2025年3月、おかげさまで当社横浜工場は操業6...極東開発工業株式会社 - 2024年3月、おかげさまで当社横浜工場は操業6...【さくらサイエンスプログラム（国際交流プログラム）】日越大学の学... Jul 21, 2026 · 公式サイト： https://www.intermold.jp/nagoya/ 株式会社ナノソフトは、6／26（水）～28（金） まで、ポートメッセなごやで開催される インターモールド2024 名古屋に出展します。 ご来場の際は、ぜひ弊社ブースへお立ち寄り下さい",
+    "url": "https://www.facebook.com/Nanosoft.3D/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.nanowave.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/product/material.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/product/mts5r.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/suggest/custom_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/product/mts3s.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/product/download.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/product/gcode.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/product/installed.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/product/customize.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/suggest/longwork.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/company/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/company/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/company/principle.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/suggest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/suggest/case_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/suggest/case_04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/suggest/case_05.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/suggest/case_06.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/suggest/measure.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/suggest/concent.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/suggest/nc.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/suggest/knowhow.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/suggest/house.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "http://www.nanowave.co.jp/pdf/mts5r.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/pdf/mts3s.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/dl/soft_history130318.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/img/product/figure_product_mts5r_00.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/img/product/figure_product_mts3s_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/img/product/figure_product_mts3s_02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/img/product/custom01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.nanowave.co.jp/img/product/custom02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://rockykasei.co.jp/lp1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-bk.com/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zen.co.jp/area/kanagawa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matching.idec.or.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%8A%E3%83%8E",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/209991/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanno.co.jp/inquiry/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nanolux.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/ナノ-横浜工場-note-社長-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Nanosoft.3D/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/ナノ-横浜工場-note-社長-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ナノ 横浜工場 取扱製品 試作 小ロット",
+   "results": [
+    "https://rockykasei.co.jp/lp1/",
+    "https://www.ono-bk.com/business",
+    "https://www.zen.co.jp/area/kanagawa/",
+    "https://kouno-ss.com/small-lot/",
+    "https://www.nanosystemsjp.co.jp/ja/how-to-order",
+    "https://www.nanowave.co.jp/",
+    "https://www.nanosystemsjp.co.jp/ja/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ナノ 横浜工場 会社概要 事業内容",
+   "results": [
+    "https://www.nanowave.co.jp/company/",
+    "https://matching.idec.or.jp/株式会社ナノ",
+    "https://mono.ipros.com/company/detail/209991/",
+    "https://www.sanno.co.jp/corporate/outline/",
+    "https://www.nanoanalysis.co.jp/profile/outline/",
+    "https://metoree.com/companies/9837/",
+    "http://www.nanowave.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ナノ 横浜工場 お問い合わせ メール",
+   "results": [
+    "https://www.nanowave.co.jp/info/inquiry.html",
+    "https://www.sanno.co.jp/inquiry/",
+    "https://www.nanolux.co.jp/contact/",
+    "https://nano-supplement.com/inquiry/",
+    "https://nanos.jp/nanossupport/form/1/",
+    "https://www.nanophoton.jp/contact",
+    "https://nanoin.com/jp/service-center/consultation-inquiries"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ナノ 横浜工場",
+   "results": [
+    "https://note.com/tokoshie/n/nbb037c216dc2",
+    "https://note.com/fukuit/n/nfd271153fca1",
+    "https://note.com/stninfo_k/n/n2a608a310c98",
+    "https://note.com/naota_t/n/n38dcdc82d0b7",
+    "https://note.com/hamamiraipj/n/n2afaf368176e",
+    "https://tales.note.com/write_takumifuji/wlybvc3807jfo",
+    "https://tales.note.com/noble_kiwi8849/wedmgvtp9pcv0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ナノ 横浜工場",
+   "results": [
+    "https://x.com/Nissan_Yokohama",
+    "https://x.com/Nissan_Yokohama/status/2081990647876387180",
+    "https://x.com/Nissan_Yokohama/status/2085518118869409856",
+    "https://x.com/Dolty_y/status/2087099568802644421",
+    "https://x.com/yokohamaluxs/status/2077975100146712689",
+    "https://x.com/nanoblockmen/status/2080157868674912717",
+    "https://x.com/nanoblockmen/status/2104768146502537570"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ナノ 横浜工場",
+   "results": [
+    "https://www.linkedin.com/jobs/ナノ-横浜工場-note-社長-jobs",
+    "https://jp.linkedin.com/company/anpglobal",
+    "https://www.linkedin.com/jobs/favikon-jobs",
+    "https://ch.linkedin.com/in/maria-ichim-colas-9593a818a",
+    "https://it.linkedin.com/in/samuele-tagliafierro-43624229a",
+    "https://jp.linkedin.com/posts/nanomrna_パシフィコ横浜で2025年10月8日10日に開催されたジャパンヘルスケアベンチャーサミット-activity-7384492819396059136-dQN-",
+    "https://hu.linkedin.com/in/judit-csenge-vizi"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ナノ 横浜工場",
+   "results": [
+    "https://www.facebook.com/Nanosoft.3D/",
+    "https://www.facebook.com/100063472303848/posts/横浜工場が出来ました本社川崎平間工場と横浜工場の2拠点になりますメンバーも増え皆様に喜んでもらえるモノを提供できるよう益々がんばりますっ住所-223-0061-/558911029567969/",
+    "https://www.facebook.com/nanoblock.kawada/",
+    "https://www.facebook.com/kyokuto.official/posts/2026年3月おかげさまで当社横浜工場は操業64周年を迎えることができました横浜工場に関係する全ての皆様に心より感謝申し上げます横浜工場は1962年に大型ダンプ/914864244624556/",
+    "https://www.facebook.com/kyokuto.official/posts/2025年3月おかげさまで当社横浜工場は操業63周年を迎えることができました横浜工場に関係する全ての皆様に心より感謝申し上げます横浜工場は1962年に大型ダンプ/627869119990738/",
+    "https://www.facebook.com/kyokuto.official/posts/2024年3月おかげさまで当社横浜工場は操業62周年を迎えることができました横浜工場に関係する全ての皆様に心より感謝申し上げます横浜工場は1963年に大型ダンプ/387955000648819/",
+    "https://www.facebook.com/KG.Nanotech/posts/さくらサイエンスプログラム国際交流プログラム日越大学の学生が本学で持続可能な半導体社会を目指す研究を体験2026年11月1日日7日土の7日間科学技術振興機構js/1792762996188572/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ナノ 横浜工場 note 社長",
+   "results": [
+    "https://www.linkedin.com/jobs/ナノ-横浜工場-note-社長-jobs",
+    "https://www.nanowave.co.jp/company/",
+    "https://matching.idec.or.jp/株式会社ナノ",
+    "https://jp.linkedin.com/in/shiro-akinaga-6914a8256",
+    "https://note.com/makotoozawa/n/ncd1b4200f419",
+    "http://www.nanowave.co.jp/company/message.html",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260218564207/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ナノ 横浜工場 X 投稿",
+   "results": [
+    "https://x.com/Nissan_Yokohama",
+    "https://x.com/Nissan_Yokohama/status/2081990647876387180",
+    "https://www.nissan-global.com/JP/PLANT/YOKOHAMA/",
+    "https://www.youtube.com/watch?v=fLXwOLT7etg",
+    "https://www.youtube.com/watch?v=bID_uOQOZhQ",
+    "https://car.watch.impress.co.jp/docs/news/2144388.html",
+    "https://www.instagram.com/p/DcQf3-VmpoJ/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部10頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部10頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部10頁・検索9回）"
+ }
+}

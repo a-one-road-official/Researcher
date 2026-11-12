@@ -1,0 +1,976 @@
+{
+ "name": "株式会社栄電子",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T23:15:26.393298+00:00",
+ "official_url": "http://www.sakae-denshi.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社事務所",
+    "value": "〒101-0021 東京都千代田区外神田2-9-10 TEL：03-6385-7240（代） FAX：03-3255-7801（代）",
+    "url": "https://sakae-denshi.com/outline/",
+    "pass": 1
+   },
+   {
+    "label": "東京本社",
+    "value": "東京都千代田区外神田2-9-10",
+    "url": "https://sakae-denshi.com/recruit/recruit1/",
+    "pass": 1
+   },
+   {
+    "label": "東栄電子(東京本社) (在籍出向)",
+    "value": "〒101-0021 東京都千代田区外神田2-9-10 7階 営業職 (法人営業) 正社員 1名",
+    "url": "https://sakae-denshi.com/recruit/recruit2/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "電子部品総合商社",
+    "url": "https://sakae-denshi.com/outline/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "91名（2026年3月末現在）",
+    "url": "https://sakae-denshi.com/outline/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "販売拠点",
+    "value": "東京営業所、宮城営業所、長野営業所、山梨営業所、埼玉営業所、 西東京営業所、神奈川営業所、大阪営業所、熊本営業所",
+    "url": "https://sakae-denshi.com/outline/",
+    "pass": 1
+   },
+   {
+    "label": "埼玉営業所",
+    "value": "群馬県高崎市八島町20 KSビル4階",
+    "url": "https://sakae-denshi.com/recruit/recruit1/",
+    "pass": 1
+   },
+   {
+    "label": "営業所名",
+    "value": "住所 募集職種 雇用形態 募集人数",
+    "url": "https://sakae-denshi.com/recruit/recruit2/",
+    "pass": 1
+   },
+   {
+    "label": "東京営業所",
+    "value": "〒101-0021 東京都千代田区外神田2-9-10 3階 マーケティング （販促企画・WEB・営業) 正社員 1名",
+    "url": "https://sakae-denshi.com/recruit/recruit2/",
+    "pass": 1
+   },
+   {
+    "label": "東京営業所",
+    "value": "〒101-0021 東京都千代田区外神田2-9-10 3階 営業職 （直販法人営業） 正社員 1名",
+    "url": "https://sakae-denshi.com/recruit/recruit2/",
+    "pass": 1
+   },
+   {
+    "label": "西東京営業所",
+    "value": "〒196-0034 東京都昭島市玉川町3-10-1 営業職 (法人営業) 正社員 1名",
+    "url": "https://sakae-denshi.com/recruit/recruit2/",
+    "pass": 1
+   },
+   {
+    "label": "長野営業所",
+    "value": "〒386-0005 長野県上田市大字古里1533-1 MCビル2階 営業職 (法人営業) 正社員 1名",
+    "url": "https://sakae-denshi.com/recruit/recruit2/",
+    "pass": 1
+   },
+   {
+    "label": "大阪営業所",
+    "value": "〒532-0011 大阪府大阪市淀川区西中島3-10-13 物産ビル401号 営業職 (法人営業) 正社員 1名",
+    "url": "https://sakae-denshi.com/recruit/recruit2/",
+    "pass": 1
+   },
+   {
+    "label": "宮城営業所",
+    "value": "〒983-0852 宮城県仙台市宮城野区榴岡2-2-11 仙台KSビル2階 営業職 (法人営業) 正社員 1名",
+    "url": "https://sakae-denshi.com/recruit/recruit2/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "新製品、新商材の扉を力強くノックします",
+    "url": "https://sakae-denshi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "メーカー・仕入先、協力工場と連携して装置・製品の試作から量産までワンストップで幅広く対応します",
+    "url": "https://sakae-denshi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CT・MRIなどの大型医療設備や血圧計や美顔器など家庭用の製品への納入実績があります",
+    "url": "https://sakae-denshi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "メーカー・仕入先、協力工場と連携して装置・製品の試作から量産までワンストップで幅広く対応します",
+    "url": "https://sakae-denshi.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "この製品はパルス制御により振幅を自由に変化させることができるため、多彩な振動パターンに対応します",
+    "url": "https://sakae-denshi.com/business/new-item/",
+    "pass": 1
+   },
+   {
+    "quote": "●同特性で2つの形状（低背/ブックタイプ）をラインナップ",
+    "url": "https://sakae-denshi.com/business/new-item/",
+    "pass": 1
+   },
+   {
+    "quote": "●長寿命：期待製品寿命7年（周囲温度+50℃、出力電力600W24時間連続通電時）",
+    "url": "https://sakae-denshi.com/business/new-item/",
+    "pass": 1
+   },
+   {
+    "quote": "産業用ラズベリーパイは、ラズベリーパイをベースに産業用途に耐えられるよう耐久性、耐環境性を高めた新たな製品カテゴリです",
+    "url": "https://sakae-denshi.com/business/new-item/",
+    "pass": 1
+   },
+   {
+    "quote": "日本市場ではセメント抵抗器・メタルクラッド抵抗器等の大型抵抗器のサイズダウン・軽量化において非常に有効な製品となっております",
+    "url": "https://sakae-denshi.com/business/new-item/",
+    "pass": 1
+   },
+   {
+    "quote": "家電やモバイル製品をはじめとするテクノロジーのグローバルイノベーターとして、世界中に事業拠点を持ち、約75,000人以上の従業員を擁しています",
+    "url": "https://sakae-denshi.com/business/new-item/",
+    "pass": 1
+   },
+   {
+    "quote": "LGは、さまざまな製品を通じて新しい価値を創造し、世界中のお客様へより豊かで快適な暮らしのご提案をしていきます",
+    "url": "https://sakae-denshi.com/business/new-item/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイドミュラーは経験豊富な専門家として、電力、信号、データの産業環境における製品、ソリューション、サービスを提供し、世界中のお客様やパートナーをサポートします",
+    "url": "https://sakae-denshi.com/business/new-item/",
+    "pass": 1
+   },
+   {
+    "quote": "近年ではデジタルサイネージ、医療、エネルギー市場など、ICT（Information and Communication Technology）化が進められている成長市場へFAで培った技術を応用し、あらゆる産業に役立つ製品を開発し、供給しています",
+    "url": "https://sakae-denshi.com/business/new-item/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、家電製品、建築設備、医療機器、物流設備などなど…",
+    "url": "https://sakae-denshi.com/business/iot_solution/",
+    "pass": 1
+   },
+   {
+    "quote": "多品種少量、高アスペクト、特殊サイズ、厚銅めっき製品などにも対応した銅めっき",
+    "url": "https://www.sdk.gr.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "極薄板厚、BVH、ビアフィルド・スルホールフィルド製品などの銅めっき",
+    "url": "https://www.sdk.gr.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "創業当時は、国内の産業基盤がまだ十分に整っていない時代でしたが、「ものづくりを支える技術者集団でありたい」という思いを胸に、一つひとつの製品に真摯に向き合い、品質の向上と技術の研鑽に努めてまいりました",
+    "url": "https://www.sdk.gr.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "現在は、プリント配線基板の銅めっきおよび金めっきを主力事業とし、高い品質と信頼性が求められる製品づくりに取り組んでおります",
+    "url": "https://www.sdk.gr.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "長年培ってきた技術力と経験を礎に、安定した品質管理体制のもと、お客様の製品開発や生産活動を支えるパートナーとして信頼にお応えしています",
+    "url": "https://www.sdk.gr.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "四季報も主要顧客の需要回復、AI投資による半導体製造装置向けの想定超過、好採算製品の増加を指摘しています",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "メーカー・仕入先、協力工場と連携して装置・製品の試作から量産までワンストップで幅広く対応します",
+    "url": "https://sakae-denshi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "メーカー・仕入先、協力工場と連携して装置・製品の試作から量産までワンストップで幅広く対応します",
+    "url": "https://sakae-denshi.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼性が要求される自動車関連機器、多品種少量の産業機器及び医療向け機器、高品質や特殊なめっき技術が求められるデバイス・モジュール基板などお客様からの様々なご要求に対して、高い品質(Quality)、適性な価格(Cost)、早い納期(Delivery)で生産を行うため、最先端の設備と独自の管理システムを用いて対応しています",
+    "url": "https://www.sdk.gr.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "多品種少量、高アスペクト、特殊サイズ、厚銅めっき製品などにも対応した銅めっき",
+    "url": "https://www.sdk.gr.jp/business/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "AI・Iot・５Gに欠かせない半導体を製造する各種装置や液晶・有機ELパネル製造装置への納入実績があります",
+    "url": "https://sakae-denshi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "精密測定機器や半導体の検査装置などへの納入実績がります",
+    "url": "https://sakae-denshi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CT・MRIなどの大型医療設備や血圧計や美顔器など家庭用の製品への納入実績があります",
+    "url": "https://sakae-denshi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "●用途：無人搬送車(AGV)・各種ロボット・バッテリアプリケーション",
+    "url": "https://sakae-denshi.com/business/new-item/",
+    "pass": 1
+   },
+   {
+    "quote": "RevPiシリーズはコストと手軽さを追求したモデルで、すでに自動車製造ラインや工作機械などで1000台以上が実稼働しています",
+    "url": "https://sakae-denshi.com/business/new-item/",
+    "pass": 1
+   },
+   {
+    "quote": "OPB9000 は多目的センサで、幅広い産業および医療用途に利用可能",
+    "url": "https://sakae-denshi.com/business/new-item/",
+    "pass": 1
+   },
+   {
+    "quote": "近年ではデジタルサイネージ、医療、エネルギー市場など、ICT（Information and Communication Technology）化が進められている成長市場へFAで培った技術を応用し、あらゆる産業に役立つ製品を開発し、供給しています",
+    "url": "https://sakae-denshi.com/business/new-item/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、家電製品、建築設備、医療機器、物流設備などなど…",
+    "url": "https://sakae-denshi.com/business/iot_solution/",
+    "pass": 1
+   },
+   {
+    "quote": "定期健康診断、退職金制度、eラーニング、チャット型医療相談サービス、保養所",
+    "url": "https://sakae-denshi.com/recruit/recruit1/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼性が要求される自動車関連機器、多品種少量の産業機器及び医療向け機器、高品質や特殊なめっき技術が求められるデバイス・モジュール基板などお客様からの様々なご要求に対して、高い品質(Quality)、適性な価格(Cost)、早い納期(Delivery)で生産を行うため、最先端の設備と独自の管理システムを用いて対応しています",
+    "url": "https://www.sdk.gr.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "「AI・半導体製造装置需要回復＋受注先行＋利益率改善」という、今の市場が好みやすい形",
+    "url": "https://note.com/foreko/n/na4489c653d98",
+    "pass": 3
+   },
+   {
+    "quote": "「半導体製造装置関連の需要回復が本格的な受注増に転じている」",
+    "url": "https://note.com/foreko/n/na4489c653d98",
+    "pass": 3
+   },
+   {
+    "quote": "5. 商品別を見ると半導体関連の強さが鮮明",
+    "url": "https://note.com/foreko/n/na4489c653d98",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の在庫調整が進展し、半導体製造装置関連市場が回復基調",
+    "url": "https://note.com/foreko/n/na4489c653d98",
+    "pass": 3
+   },
+   {
+    "quote": "AIサーバー → 半導体設備投資 → 半導体製造装置 → 電子部品",
+    "url": "https://note.com/foreko/n/na4489c653d98",
+    "pass": 3
+   },
+   {
+    "quote": "既存の国内半導体製造装置顧客＋台湾メーカー",
+    "url": "https://note.com/foreko/n/na4489c653d98",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置・AIサーバーという現在の強いテーマに乗っている",
+    "url": "https://note.com/foreko/n/na4489c653d98",
+    "pass": 3
+   },
+   {
+    "quote": "そこまで確認できれば、今回の回復が単なる半導体在庫調整一巡ではなく、新しい成長局面に入った可能性が高まります",
+    "url": "https://note.com/foreko/n/na4489c653d98",
+    "pass": 3
+   },
+   {
+    "quote": "時価総額34億円という圧倒的な軽さに、1Q営業利益+705％、上方修正、AI・半導体製造装置需要、出来高急増を伴う703円の新高値ブレイクが重なった「3か月2倍候補としてかなり面白い銘柄」です",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、長期では業績変動が大きく、現在の半導体株全体の地合いも悪いため、",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   },
+   {
+    "quote": "一方、短期では「営業利益+705％」「上方修正」「AI半導体」「34億円」「浮動株24.2％」「出来高急増新高値」という条件がほぼ同時に揃っています",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   },
+   {
+    "quote": "主力は半導体製造装置向け電子部品で、連結売上構成は一般電子部品61％、電源18％、電子デバイス3％、IoT機器5％などです",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI投資の拡大に伴う半導体製造装置需要の回復が業績に直結しやすい会社です",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   },
+   {
+    "quote": "四季報も主要顧客の需要回復、AI投資による半導体製造装置向けの想定超過、好採算製品の増加を指摘しています",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   },
+   {
+    "quote": "また、好採算のスプリング式シールを半導体製造装置メーカー以外へ拡販する方針です",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   },
+   {
+    "quote": "栄電子はメーカーではなく商社なので、独自半導体技術を保有する高参入障壁企業とは言いにくいです",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、半導体製造装置メーカーとの取引関係、仕入先との関係、顧客仕様への対応能力は一定の参入障壁になります",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   },
+   {
+    "quote": "会社の業績は明確に半導体設備投資サイクルに左右されています",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   },
+   {
+    "quote": "10月13日の日経平均は1.82％安で4日続落し、AI・半導体関連株が全般に売られました",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   },
+   {
+    "quote": "市場全体・半導体株が弱い日に逆行高しているため、現在の上昇には",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   },
+   {
+    "quote": "一方、市場全体のAI・半導体売りがさらに加速すると、小型株だけで抗い続けるのは難しくなる点には注意が必要です",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   },
+   {
+    "quote": "利益急加速・大幅上方修正・超小型時価総額・AI半導体需要",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   },
+   {
+    "quote": "半導体市場が暴落している中でも相対的な強さを維持すること",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "ロバスト、工業グレード樹脂採用により、-40C～85C の動作温度範囲という最も過酷な環境でセンサーが動作する事を可能にしています",
+    "url": "https://sakae-denshi.com/business/new-item/",
+    "pass": 1
+   },
+   {
+    "quote": "トーキンの焦電型赤外線センサは、蓄積された圧電セラミック材料で、高感度、リフロー可能なSMD型を実現しております",
+    "url": "https://sakae-denshi.com/business/new-item/",
+    "pass": 1
+   },
+   {
+    "quote": "独自のセンサ構成により、レンズ不要の短距離検知やレンズ付きの中距離検知、樹脂越し検知のタッチレスへも対応可能です",
+    "url": "https://sakae-denshi.com/business/new-item/",
+    "pass": 1
+   },
+   {
+    "quote": "圧電セラミック材料の組成最適化と発生電荷を効率よく捕獲する振動子構造により、高い感度と広い周波数帯域、小型・低背化を両立しました",
+    "url": "https://sakae-denshi.com/business/new-item/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "MAIL：soumu1@sakae-denshi.com",
+    "url": "https://sakae-denshi.com/recruit/recruit1/",
+    "pass": 1
+   },
+   {
+    "quote": "MAIL：soumu1@sakae-denshi.com",
+    "url": "https://sakae-denshi.com/recruit/recruit2/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "HOME - 栄電子 — Knock 新製品、新商材の扉を力強くノックします Aggressive 不可能を可能にするためにアグレッシブに活動します Energy お客様への感謝がエネルギーの源です Action 頭脳と身体とシステムのフル回転で素早く対応します",
+    "url": "https://sakae-denshi.com/",
+    "pass": 3
+   },
+   {
+    "quote": "取扱メーカー【五十音順】 - 栄電子 — ア Abracon アコン アルプスアルパイン IAM電子 アジア電子工業 アズビル IDEC アルファーシステム 旭計器 IBSジャパン アイコー電子 アンペール ADAPTER TECHNOLOG...",
+    "url": "https://sakae-denshi.com/maker-gojyuuon/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 - 栄電子事業紹介 - 栄電子事業内容 │ 栄電子工業 - sdk.gr.jp会社案内 │ 栄電子工業 - sdk.gr.jp栄電子（7567）のプロフィール | 会社四季報オンライン栄電子（7567）の事業内容・業績｜平均年収507万円・売上73億円（2026...栄電子（7567）の関連テーマ・事業内容｜事業テーマPro — 栄電子は、ユーザーやメーカーなどの多様なお取引先と情報を受発信し、共有する場としての独自のネットワークの構築を、21世紀の最重要課題に位置づけています。 代表取締役社長 津田 百子 会社概要 ... 環境方針 コスト削減に力を発揮します。 強力な協力会社群：当社が業務委託する協力会社のネットワークにより、ボード・ケーブルのアッセンブリから、ユニットの組立てまで、様々なアッセンブリに対応します。 栄電子工業株式会社の事業内容ページです。 プリント基板の無電",
+    "url": "https://sakae-denshi.com/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 │ 栄電子工業 - sdk.gr.jp — 栄電子工業株式会社の事業内容ページです。 プリント基板の無電解金めっきやパネル銅めっき加工を展開。 自動車・産業・医療機器向けなどの高い信頼性が求められる基板めっきに、最先端設備と独自システムで高品質・適正価格・短納期でお応えします。",
+    "url": "https://www.sdk.gr.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 │ 栄電子工業 - sdk.gr.jp栄電子（7567）のプロフィール | 会社四季報オンライン栄電子（7567）の事業内容・業績｜平均年収507万円・売上73億円（2026...栄電子（7567）の関連テーマ・事業内容｜事業テーマPro — 1952年創業以来、プリント基板のめっきニーズに技術開発と量産化技術でお応えしてきました。 社長挨拶のほか、資本金や事業所などの会社概要、今日までの歩みを示す会社沿革、主要取引先などの企業情報を掲載しています。 Nov 12, 2026 · ウルトラテクノロジー 栄電子（7567）株に係る変更報告書を提出 ウルトラテクノロジー 栄電子（7567）株に係る変更報告書を提出 ウルトラテクノロジー 栄電子（7567）株に係る大量保有報告書を提出 事業の中身 産業用の一般電子部品と電子機器を売る会社だ。 事業の区分は一つにまとめられている。 子会社",
+    "url": "https://www.sdk.gr.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "栄電子（7567）のプロフィール | 会社四季報オンライン — Nov 12, 2026 · ウルトラテクノロジー 栄電子（7567）株に係る変更報告書を提出 ウルトラテクノロジー 栄電子（7567）株に係る変更報告書を提出 ウルトラテクノロジー 栄電子（7567）株に係る大量保有報告書を提出",
+    "url": "https://shikiho.toyokeizai.net/stocks/7567/corporate",
+    "pass": 3
+   },
+   {
+    "quote": "栄電子（7567）の事業内容・業績｜平均年収507万円・売上73億円（2026... — 事業の中身 産業用の一般電子部品と電子機器を売る会社だ。 事業の区分は一つにまとめられている。 子会社の東栄電子も同じく産業用の一般電子部品と電子デバイスを売り、両社は扱う電子部品の一部を互いに融通している。",
+    "url": "https://zukaikeizai.com/kaisha/7567/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 栄電子 — カレンダー ... 定休日 棚卸日 本社アクセス HOME 新製品・新商材 リクルート 個人情報保護ポリシー サイト利用条件 SiteMap Copyright © 栄電子 All Rights Reserved.",
+    "url": "https://sakae-denshi.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ │ 栄電子工業 — 栄電子工業へのお問い合わせ 以下の入力項目に必要事項をご入力いただき、プライバシーポリシーに同意の上「送信」ボタンを押してください。 プライバシーポリシーについて お問い合わせ時のよくあるご質問 お名前 必須 フリガナ 必須 お電話番号 必須",
+    "url": "https://www.sdk.gr.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "問い合わせフォーム | 維栄電子日本株式会社 — トップ TOP 当社について ABOUT 事業内容 SERVICE 商品紹介 PRODUCTS 採用情報 RECRUIT お問い合わせ CONTACT 中国語・英語版 HP CHINESEver・ENGLISHver",
+    "url": "https://ea-elec.co.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "簡易版【個別株分析】栄電子（7567） ★2.4 半導体回復でも利益と現金... Feb 23, 2026 · 簡易版【個別株分析】栄電子（7567） ★2.4 半導体回復でも利益と現金が揺れる小型商社 AIによる個別株情報分析室 2026年2月23日 18:00 ¥150/月",
+    "url": "https://note.com/pocoa_420/n/n988393f87a4a",
+    "pass": 3
+   },
+   {
+    "quote": "栄電子（7567）2027年3月期1Q 詳細分析｜フォレ子 18. IFIS・株予報PROコンセンサス ここは数値比較できません。 株予報PROでは栄電子に アナリストコンセンサスがありません。 レーティング・目標株価もありません。 したがって、 「市場予想営業利益〇億円に対して何％上振れ」 という評価はできません。",
+    "url": "https://note.com/foreko/n/na4489c653d98",
+    "pass": 3
+   },
+   {
+    "quote": "栄電子（7567）最新株価・配当情報と今後の見通し | noteマネー 栄電子（7567）の最新株価、配当情報、業績動向を徹底解説！ 今後の見通しや投資のポイントを専門家視点でわかりやすく紹介。 初心者から上級者まで役立つnoteの記事が満載！",
+    "url": "https://note.com/tag/vm/investment_money/company-7567",
+    "pass": 3
+   },
+   {
+    "quote": "10/13 新高値ブレイク 7567 栄電子｜みう@新高値ブレイク分析 Oct 15, 2026 · 10月13日はAI・半導体株全体が大きく売られており、アジア全体でもAI関連半導体に売りが広がっています。 Reuters 栄電子が現在逆行高していることは強いのですが、地合い悪化が長期化すれば無視できません。",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "栄電子（7567）2027年3月期1Q 詳細分析｜決算分析",
+    "url": "https://note.com/foreko/n/na4489c653d98",
+    "pass": 3
+   },
+   {
+    "quote": "栄電子（7567）2027年3月期1Q 詳細分析",
+    "url": "https://note.com/foreko/n/na4489c653d98",
+    "pass": 3
+   },
+   {
+    "quote": "**第一印象は「単なる前年比大幅増益ではなく、受注・受注残・利益率・上方修正まで全部揃った決算」**です。",
+    "url": "https://note.com/foreko/n/na4489c653d98",
+    "pass": 3
+   },
+   {
+    "quote": "1Qは売上高＋58.6％、営業利益＋705％。これだけでも強いですが、本当に重要なのは会社の補足資料で",
+    "url": "https://note.com/foreko/n/na4489c653d98",
+    "pass": 3
+   },
+   {
+    "quote": "受注高が＋130.4％、受注残高が前年同期比約2.1倍まで膨らんでいること",
+    "url": "https://note.com/foreko/n/na4489c653d98",
+    "pass": 3
+   },
+   {
+    "quote": "です。さらに会社は1Qと同時に、通期営業利益予想を",
+    "url": "https://note.com/foreko/n/na4489c653d98",
+    "pass": 3
+   },
+   {
+    "quote": "1.76億円→3.33億円へ約89％上方修正",
+    "url": "https://note.com/foreko/n/na4489c653d98",
+    "pass": 3
+   },
+   {
+    "quote": "「AI・半導体製造装置需要回復＋受注先行＋利益率改善」という、今の市場が好みやすい形",
+    "url": "https://note.com/foreko/n/na4489c653d98",
+    "pass": 3
+   },
+   {
+    "quote": "栄電子（7567）株価・今後の見通し・予想｜noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-7567",
+    "pass": 3
+   },
+   {
+    "quote": "10/13 新高値ブレイク 7567 栄電子｜みう@新高値ブレイク分析",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   },
+   {
+    "quote": "10/13 新高値ブレイク 7567 栄電子",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   },
+   {
+    "quote": "時価総額34億円という圧倒的な軽さに、1Q営業利益+705％、上方修正、AI・半導体製造装置需要、出来高急増を伴う703円の新高値ブレイクが重なった「3か月2倍候補としてかなり面白い銘柄」です。",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、長期では業績変動が大きく、現在の半導体株全体の地合いも悪いため、",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   },
+   {
+    "quote": "「会社が優良だから買う」のではなく、690～703円のブレイクが定着するかを確認して乗る銘柄",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   },
+   {
+    "quote": "2022～2023年の好況から2024～2025年に大きく落ち込み、2026年から再回復という強い景気循環型です。5期連続成長ではありません。営業利益率やROEもまだ長期優良グロース株の水準ではありません。一方、財務は自己資本比率62％台と良好で、2027年3月期は再び利益急拡大局面に入っています。",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   },
+   {
+    "quote": "2022年高値664円、2026年8月高値684円を超えて703円まで上昇しており、数年単位の長期ボックスを突破し始めています。一方、2019年1060円、2017年1220円という上値の歴史的なしこりがあります。",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   },
+   {
+    "quote": "最大の加点要因は、2027年3月期1Qの営業利益が前年同期17百万円→139百万円、**+705.0％**まで急増したことです。売上も+58.6％、純利益+442.7％。会社は同時に通期営業利益予想を176百万円から333百万円へ大幅増額しています。",
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ケビモン on X: \"栄電子の決算は今日だったのか。 上方修正に加えて、... 栄電子（7567） 優待兼TOB狙い枠で100株購入。 PBR0.55・好財務・時価総額約22億の小型電子部品商社。 流通株式時価総額が厳しかったが、QUOカード導入で安定ラインに乗せた経緯あり。",
+    "url": "https://x.com/kebimon_toshika/status/2085707441237541073",
+    "pass": 3
+   },
+   {
+    "quote": "きらく｜個別株分析ツール開発 on X: \"【どんな企業？】 栄電子（7567... 【どんな企業？】 栄電子（7567）は、半導体製造装置や産業機器に使う電子部品・電子機器を顧客仕様に合わせて供給する専門商社です。 【市場で注目された点】 1Q資料はAIサーバー需要とメモリ需給の引き締まりを追い風に挙げる一方、物流・原材料費と地政学リスクも示しています。 ARIA ...",
+    "url": "https://x.com/rSu8bySbnrSIDPX/status/2087002878921805978",
+    "pass": 3
+   },
+   {
+    "quote": "7・栄電子：566で必ず買い 6・Waqoo：1,568で必ず買い 5・ダイジェッ... 7・栄電子：566で必ず買い 6・Waqoo：1,568で必ず買い 5・ダイジェット：1,272で必ず買い 4・フライト：180で必ず買い 3・デジハHD：920で必ず買い 2・J－MAX：600で必ず買い 1・新日本理化：210で必ず買い 毎晩、ここで翌日の注目銘柄を落とす",
+    "url": "https://x.com/KabuNaviSensei/status/2086001363667026109",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "（株）栄電子 | LinkedIn 概要 ウェブサイト http://www.sakae-denshi.com （株）栄電子の外部リンク 業種 卸売業 会社規模 社員 51 - 200名 本社 千代田区 ...",
+    "url": "https://jp.linkedin.com/company/（株）栄電子",
+    "pass": 3
+   },
+   {
+    "quote": "vivien xia - 株式会社栄電子 - 営業 | LinkedIn 株式会社栄電子 - 営業 · 職歴: 株式会社栄電子 · 場所: 広域東京エリア。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでvivien xiaさんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/vivien-xia-5544b5185",
+    "pass": 3
+   },
+   {
+    "quote": "菊池 欽幸 - （株）栄電子のProduct Leader | LinkedIn （株）栄電子のProduct Leader · 職歴: （株）栄電子 · 場所: 1000001。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで菊池 欽幸さんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/欽幸-菊池-3919483aa",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "監査人異動ニュース - 株式会社栄電子／JASDAQ（7567） IR公表日：平... May 28, 2016 · 株式会社栄電子／JASDAQ（7567） IR公表日：平成28年5月27日 異動年月日：平成28年6月29日 退任監査人：東陽監査法人 就任監査人：應和監査法人 異動理由：任期満了による交代 直近監査報酬：18百万円（平成27年3月期）",
+    "url": "https://www.facebook.com/kansanin.idou/posts/1770380253192220/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sakae-denshi.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sakae-denshi.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sakae-denshi.com/business/new-item/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sakae-denshi.com/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sakae-denshi.com/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sakae-denshi.com/business/iot_solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sakae-denshi.com/maker-item/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sakae-denshi.com/maker-gojyuuon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sakae-denshi.com/recruit/recruit1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sakae-denshi.com/recruit/recruit2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sakae-denshi.com/maker-item/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sakae-denshi.com/business/new-item/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sakae-denshi.com/history/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://sakae-denshi.com/wp-content/uploads/2020/12/EMS_solution%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sakae-denshi.com/wp-content/uploads/2025/08/20250401%E7%B5%84%E7%B9%94%E5%9B%B3-%E7%A4%BE%E5%A4%96%E5%85%AC%E9%96%8B%E7%94%A8-.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sakae-denshi.com/wp-content/uploads/2025/10/5.2%E6%A0%84%E9%9B%BB%E5%AD%90%E7%92%B0%E5%A2%83%E6%96%B9%E9%87%9D_20240527.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sakae-denshi.com/wp-content/uploads/2021/09/product-1-1024x576.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.furutaka-netsel.co.jp/utility/elec_26_small-lot",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kyoeidesign.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sakae-denshi.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sakae-denshi.com/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdk.gr.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdk.gr.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sakae-denshi.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdk.gr.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eidensystem.com/contact/postmail.cgi",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/pocoa_420/n/n988393f87a4a",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/foreko/n/na4489c653d98",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/vm/investment_money/company-7567",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kebimon_toshika/status/2085707441237541073",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/rSu8bySbnrSIDPX/status/2087002878921805978",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/KabuNaviSensei/status/2086001363667026109",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/（株）栄電子",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/vivien-xia-5544b5185",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/欽幸-菊池-3919483aa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kansanin.idou/posts/1770380253192220/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "栄電子 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.furutaka-netsel.co.jp/utility/elec_26_small-lot",
+    "https://kyoeidesign.co.jp/",
+    "https://sakae-denshi.com/",
+    "https://denken-ec.com/trial/",
+    "https://sakae-denshi.com/maker-gojyuuon/",
+    "https://aikei-denshi.com/",
+    "https://www.sangyo-koryuten.tokyo/exhibitors/detail/?id=221"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "栄電子 会社概要 事業内容",
+   "results": [
+    "https://sakae-denshi.com/outline/",
+    "https://www.sdk.gr.jp/business/",
+    "https://www.sdk.gr.jp/about/",
+    "https://shikiho.toyokeizai.net/stocks/7567/corporate",
+    "https://zukaikeizai.com/kaisha/7567/",
+    "https://sakae-denshi.com/business/",
+    "https://jigyou-v2.kabu-trendpro.com/company/7567/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "栄電子 お問い合わせ メール",
+   "results": [
+    "https://sakae-denshi.com/contact/",
+    "https://www.sdk.gr.jp/contact/",
+    "https://www.eidensystem.com/contact/postmail.cgi",
+    "https://ea-elec.co.jp/contact/",
+    "https://sakaedk.co.jp/contact/",
+    "https://www.sakaedengyo.com/contact-1",
+    "https://www.ske-denki.com/contact/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 栄電子",
+   "results": [
+    "https://note.com/pocoa_420/n/n988393f87a4a",
+    "https://note.com/foreko/n/na4489c653d98",
+    "https://note.com/tag/vm/investment_money/company-7567",
+    "https://note.com/wise_gnu1332/n/ne7985cb6cfe2",
+    "https://note.com/kabutica/n/naee41032d96a",
+    "https://note.com/limber_lynx9922/n/na5b00dc6b684",
+    "https://note.com/pocoa_420/n/n93ac03e43c3b"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 栄電子",
+   "results": [
+    "https://x.com/kebimon_toshika/status/2085707441237541073",
+    "https://x.com/rSu8bySbnrSIDPX/status/2087002878921805978",
+    "https://about.x.com/en",
+    "https://x.com/KabuNaviSensei/status/2086001363667026109",
+    "https://x.com/koutoshinosakon/status/2086785790122901514",
+    "https://help.x.com/en/using-x",
+    "https://help.x.com/en/using-x/download-the-x-app"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 栄電子",
+   "results": [
+    "https://jp.linkedin.com/company/（株）栄電子",
+    "https://jp.linkedin.com/in/vivien-xia-5544b5185",
+    "https://www.linkedin.com/company/arup",
+    "https://jp.linkedin.com/in/欽幸-菊池-3919483aa",
+    "https://jp.linkedin.com/in/英雄-福田-166276b6",
+    "https://www.linkedin.com/in/vauna-lenhart-76a39a24b/ja",
+    "https://pl.linkedin.com/in/andrzej-bułczyński-8b39b22b8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 栄電子",
+   "results": [
+    "https://www.facebook.com/kansanin.idou/posts/1770380253192220/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/eiichi.numazawa/",
+    "https://www.facebook.com/p/栄電気沼澤栄一-100053955955044/",
+    "https://www.facebook.com/栄電気-286363128064327/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/login.php/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "栄電子 note 社長",
+   "results": [
+    "https://sakae-denshi.com/outline/",
+    "https://kigyo-scope.jp/company/7567/ceo/",
+    "https://syuhokaku.com/news/344831/",
+    "https://compalyze.co.jp/company/5010001017343",
+    "https://baseconnect.in/keyman/faa7a231-739d-5277-8ebf-205adfaeb982",
+    "https://irbank.net/E02878/officer?m=津田百子",
+    "https://donburi.accountant/history/?ds=117335&do=0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "栄電子 X 投稿",
+   "results": [
+    "https://sakae-denshi.com/",
+    "https://finance.yahoo.co.jp/quote/7567.T/forum",
+    "https://wolf-fun.secret.jp/?cmd=trader_stock&twid=957600735302004737&code=7567",
+    "https://sakae-denshi.com/ir_main/",
+    "https://www.sdk.gr.jp/",
+    "https://x.com/hashtag/栄電気",
+    "https://x.com/sakaedk"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部20頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部20頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部20頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部20頁・検索9回）"
+ }
+}

@@ -1,0 +1,754 @@
+{
+ "name": "磯村産業株式会社 本社",
+ "aliases": [],
+ "context": "ipros_all:多品種",
+ "researched_at": "2026-11-11T23:18:28.058718+00:00",
+ "official_url": "http://www.isomura-s.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "神戸広豊",
+    "url": "https://isomura-s.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表的種類",
+    "value": "「ジュラルミン」",
+    "url": "https://isomura-s.co.jp/2023/08/09/aboutaluminum/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "東京都葛飾区西新小岩3-25-3（最寄り駅：JR新小岩駅）",
+    "url": "https://isomura-s.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "東京都葛飾区西新小岩3-25-3",
+    "url": "https://isomura-s.co.jp/2026/09/04/2026-09-04-superlight-shoiko/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "東京都葛飾区西新小岩3-25-3",
+    "url": "https://isomura-s.co.jp/2026/01/29/new-table-spot/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "東京都葛飾区西新小岩3-25-3",
+    "url": "https://isomura-s.co.jp/2025/10/08/event-booth/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "10名（2023年6月時点）",
+    "url": "https://isomura-s.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "アルミ・ステンレス・鉄・ボンデ鋼板・真鍮などの金属加工 建築金物加工（クリーンルーム部材など） 医療機器・理化学機器製作 遊技機部品製作・管理（パチンコ補給用部品） 計測機器製作 事務機製作",
+    "url": "https://isomura-s.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "株式会社エース電研 三機工業株式会社 日本シグマックス株式会社 その他　約100社",
+    "url": "https://isomura-s.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "第72回プレミアム・インセンティブショーにてISOMURA製品を展示",
+    "url": "https://isomura-s.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ加工：溶接せずに組み立てる 依頼内容 製品の特徴 3方向曲げをした部品を2種類作成し、重ねることで6面の…",
+    "url": "https://isomura-s.co.jp/category/product-case/",
+    "pass": 1
+   },
+   {
+    "quote": "身体固定用装具部品 依頼内容 製品の特徴 股関節の動きに合わせて、適切な可動域を実現するサポート装具部品です",
+    "url": "https://isomura-s.co.jp/category/product-case/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス加工による曲線状の曲げ 依頼内容 製品の特徴 医療用のため、高い精度の加工技術と量産体制の両立が必要とな…",
+    "url": "https://isomura-s.co.jp/category/product-case/",
+    "pass": 1
+   },
+   {
+    "quote": "ロボット部品：複雑な形状の金属加工 依頼内容 製品の特徴 2種類の機械（NCタレット／レーザー）を組み合わせた…",
+    "url": "https://isomura-s.co.jp/category/product-case/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ・ステンレス・鉄の他、成形品（樹脂）を使用した製品の加工も行っております",
+    "url": "https://isomura-s.co.jp/2023/06/20/productexample/",
+    "pass": 1
+   },
+   {
+    "quote": "第72回プレミアム・インセンティブショーにてISOMURA製品を展示",
+    "url": "https://isomura-s.co.jp/2026/09/04/2026-09-04-superlight-shoiko/",
+    "pass": 1
+   },
+   {
+    "quote": "板金製造で使用される展開CADですが、そのほとんどが2次元ベースであり、板金以外の製品の組み込みに対応していません",
+    "url": "https://isomura-s.co.jp/mechanical/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、多くの製品は板金以外の製品の組み込みがあります",
+    "url": "https://isomura-s.co.jp/mechanical/",
+    "pass": 1
+   },
+   {
+    "quote": "複雑形状製品など、組み立て後の動作確認や干渉チェックが行えるため、試作加工期間の短縮が可能となり、スピード感のあるご対応ができます",
+    "url": "https://isomura-s.co.jp/mechanical/",
+    "pass": 1
+   },
+   {
+    "quote": "右記の製品は、各部品ごとに色分けされています",
+    "url": "https://isomura-s.co.jp/mechanical/",
+    "pass": 1
+   },
+   {
+    "quote": "外観品質が重要視される製品のクオリティを劇的に引き上げます",
+    "url": "https://isomura-s.co.jp/2026/01/29/new-table-spot/",
+    "pass": 1
+   },
+   {
+    "quote": "一方、テーブルスポット溶接は下部電極が「フラットな銅板テーブル」になっているため、圧力を分散し、製品を面で支えます",
+    "url": "https://isomura-s.co.jp/2026/01/29/new-table-spot/",
+    "pass": 1
+   },
+   {
+    "quote": "第72回プレミアム・インセンティブショーにてISOMURA製品を展示 | 金属加工の磯村産業",
+    "url": "https://isomura-s.co.jp/2025/10/08/event-booth/",
+    "pass": 1
+   },
+   {
+    "quote": "第72回プレミアム・インセンティブショーにてISOMURA製品を展示",
+    "url": "https://isomura-s.co.jp/2025/10/08/event-booth/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社のアルミ製オリジナル製品（フラワースタンド、名刺入れ）は、環境に配慮した素材、デザイン性、独自の加工技術などが評価され、UACJ様の提供される素材や技術を活用した製品としての可能性を示すため]、UACJ様のブース内にて展示されます",
+    "url": "https://isomura-s.co.jp/2025/10/08/event-booth/",
+    "pass": 1
+   },
+   {
+    "quote": "Sustainable Department）にお立ち寄りいただき、弊社の製品を直接ご覧いただけますと幸いです",
+    "url": "https://isomura-s.co.jp/2025/10/08/event-booth/",
+    "pass": 1
+   },
+   {
+    "quote": "町工場の視点から製品の形状や用途による板金加工方法…",
+    "url": "https://isomura-s.co.jp/tag/%E5%8A%A0%E5%B7%A5%E6%96%B9%E6%B3%95/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミには毒性がないため、人体には無害であり人の手に触れやすい製品や部品、",
+    "url": "https://isomura-s.co.jp/2023/08/09/aboutaluminum/",
+    "pass": 1
+   },
+   {
+    "quote": "特に食品関係の製品・部品に多く使用されています",
+    "url": "https://isomura-s.co.jp/2023/08/09/aboutaluminum/",
+    "pass": 1
+   },
+   {
+    "quote": "車両や機械、電気関係の製品に向いている",
+    "url": "https://isomura-s.co.jp/2023/08/09/aboutaluminum/",
+    "pass": 1
+   },
+   {
+    "quote": "製品や用途によってアルミの種類は使い分けが必要ですね",
+    "url": "https://isomura-s.co.jp/2023/08/09/aboutaluminum/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスとの違いは、プレスは製品専用の金型を使用するのに対し、",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス加工では、製品ごとの",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "長期的に「生産個数が多い製品」の場合はプレス加工の方がコストが低くなる場合もあります",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "シャーリングやレーザーの場合には継ぎ目は出ないため、製品によってはシャーリングやレーザーの加工を選択する必要があります",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の特徴や形状によって、レーザー加工やプレス加工との選定が重要ですね",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "真鍮、銅、チタン：5％",
+    "url": "https://isomura-s.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "取り扱い素材はアルミ、ステンレス、鉄、真鍮、銅、チタン等の金属です",
+    "url": "https://isomura-s.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ・ステンレス・鉄の他、成形品（樹脂）を使用した製品の加工も行っております",
+    "url": "https://isomura-s.co.jp/2023/06/20/productexample/",
+    "pass": 1
+   },
+   {
+    "quote": "実は最初のご相談は、チタン製の背負子でした",
+    "url": "https://isomura-s.co.jp/2026/09/04/2026-09-04-superlight-shoiko/",
+    "pass": 1
+   },
+   {
+    "quote": "ただ、想定されていた販売価格から逆算すると、チタンでの実現は難しいとお伝えしたんです",
+    "url": "https://isomura-s.co.jp/2026/09/04/2026-09-04-superlight-shoiko/",
+    "pass": 1
+   },
+   {
+    "quote": "マグネシウム含有により、強度と耐食性が向上",
+    "url": "https://isomura-s.co.jp/2023/08/09/aboutaluminum/",
+    "pass": 1
+   },
+   {
+    "quote": "板厚や材質によって適正なクリアランスがあります",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "差は「0.25」ですが、材質や板厚によって適切なダイを選ぶ必要があります",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "金属加工・精密板金加工・試作製作を短納期で承っております",
+    "url": "https://isomura-s.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製作ロット数は、多品種少量生産・小ロット製作から量産まで幅広く対応可能でございます",
+    "url": "https://isomura-s.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "幾度もの試作を経てたどり着いた1台について、製作を担当した磯村産業（代表神戸）に、開発の舞台裏を聞きました",
+    "url": "https://isomura-s.co.jp/2026/09/04/2026-09-04-superlight-shoiko/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、半年ほど経って、別の会社様でアルミの試作を作られたものの、なかなかクオリティが上がらず……ということで改めてご連絡をいただき、そこから開発が本格的にスタートしました",
+    "url": "https://isomura-s.co.jp/2026/09/04/2026-09-04-superlight-shoiko/",
+    "pass": 1
+   },
+   {
+    "quote": "強度を重視しながら慎重に進めたので、試作は1st・2nd・3rdと重ね、3回目の試作でようやく量産にたどり着いています",
+    "url": "https://isomura-s.co.jp/2026/09/04/2026-09-04-superlight-shoiko/",
+    "pass": 1
+   },
+   {
+    "quote": "複雑形状製品など、組み立て後の動作確認や干渉チェックが行えるため、試作加工期間の短縮が可能となり、スピード感のあるご対応ができます",
+    "url": "https://isomura-s.co.jp/mechanical/",
+    "pass": 1
+   },
+   {
+    "quote": "「図面なし・試作1個からのご相談大歓迎です」",
+    "url": "https://isomura-s.co.jp/2026/01/29/new-table-spot/",
+    "pass": 1
+   },
+   {
+    "quote": "製作数が「小ロット」「短期的な生産」の場合、金型作成は初期費用を多く占めてしまいます",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロットから大量生産まで対応可能な、板金加工では中心となる機械です",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "プレス加工による曲線状の曲げ 依頼内容 製品の特徴 医療用のため、高い精度の加工技術と量産体制の両立が必要とな…",
+    "url": "https://isomura-s.co.jp/category/product-case/",
+    "pass": 1
+   },
+   {
+    "quote": "ロボット部品：複雑な形状の金属加工 依頼内容 製品の特徴 2種類の機械（NCタレット／レーザー）を組み合わせた…",
+    "url": "https://isomura-s.co.jp/category/product-case/",
+    "pass": 1
+   },
+   {
+    "quote": "金型を製作する必要がありますが、",
+    "url": "https://isomura-s.co.jp/2023/08/09/aboutaluminum/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス加工のように専用の金型は必要なく、200種類ある金型を組み合わせて、外形及び穴加工を行います",
+    "url": "https://isomura-s.co.jp/2023/08/09/aboutaluminum/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスとの違いは、プレスは製品専用の金型を使用するのに対し、",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "タレパンは、タレットに数十種類の汎用金型を装着し、プログラムに合わせて自動でタレットを回転させ、加工します",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "NCTは、タレットに数十本の金型を装着し、タレットを回転させることにより必要な金型を呼び出し、材料を位置決めしながら加工を行います",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "丸・角・長丸・長角の数百種類ある汎用金型を組み合わせて加工を行います",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "金型の組み合わせパターンは何種類もありますので、材料がムダにならない効率の良い金型の使用が必須です",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "上図で紹介した金型もA型とB型であり、比較してみると大きさが違います",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "上部金型（パンチ）よりも下部金型（ダイ）の径が少し大きくないと、材料を抜くことができないのです",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "出典：株式会社アマダ「NCT金型推奨クリアランス表」",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "先程紹介した22Φの金型にも、ダイにはクリアランスが数種類あります",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "指定したタレット番号に金型をセットすることで、プログラムを読み込んで自動でタレットが回転し、",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "指定した金型を指定位置で打ち抜くことができます",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "もの金型をセットすることができるため、様々な形状の加工が可能です",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "特に丸型は単発で加工する場合が多いため、所持する金型は100種類を超えるでしょう",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "15Фや10Фなどの他、15.2Ф・15.5Ф・10.5Фなど “0.1㎜” 単位の金型があります",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "これは、金型への負担を軽減のため、加工する線長に合わせて金型が重なる部分の調整をしていることから",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "製作数が「小ロット」「短期的な生産」の場合、金型作成は初期費用を多く占めてしまいます",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "金型を組み合わせて材料を抜くため、切断面に",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "もしくは、金型を発注することで対応する必要があります",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "今回は、汎用金型の組み合わせよる、穴あけ加工や打ち抜き加工が可能な「タレットパンチプレス加工」について解説しました",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "営業時間：AM8：30～PM5：30(土日祝日除く）",
+    "url": "https://isomura-s.co.jp/category/product-case/",
+    "pass": 1
+   },
+   {
+    "quote": "営業時間：AM8：30～PM5：30(土日祝日除く）",
+    "url": "https://isomura-s.co.jp/downloadcompany/",
+    "pass": 1
+   },
+   {
+    "quote": "営業時間：AM8：30～PM5：30(土日祝日除く）",
+    "url": "https://isomura-s.co.jp/access/",
+    "pass": 1
+   },
+   {
+    "quote": "当社Instagramにて新着情報を投稿しております",
+    "url": "https://isomura-s.co.jp/2025/10/08/event-booth/",
+    "pass": 1
+   },
+   {
+    "quote": "営業時間：AM8：30～PM5：30(土日祝日除く）",
+    "url": "https://isomura-s.co.jp/category/new/company/",
+    "pass": 1
+   },
+   {
+    "quote": "営業時間：AM8：30～PM5：30(土日祝日除く）",
+    "url": "https://isomura-s.co.jp/category/column/metalworking/",
+    "pass": 1
+   },
+   {
+    "quote": "営業時間：AM8：30～PM5：30(土日祝日除く）",
+    "url": "https://isomura-s.co.jp/tag/%E5%8A%A0%E5%B7%A5%E6%96%B9%E6%B3%95/",
+    "pass": 1
+   },
+   {
+    "quote": "営業時間：AM8：30～PM5：30(土日祝日除く）",
+    "url": "https://isomura-s.co.jp/tag/%E8%A3%BD%E4%BD%9C%E4%BA%8B%E4%BE%8B-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.sheetmetal.amada.co.jp/column/course/basis05/",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   },
+   {
+    "quote": "https://navi.tooling.amada-vfactory.com/NAVI/Web_data/web_contents/Navi/PAGE_HTML/PT/Pt_Cl_help.html",
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://isomura-s.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isomura-s.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isomura-s.co.jp/category/product-case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isomura-s.co.jp/stateofproduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isomura-s.co.jp/downloadcompany/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isomura-s.co.jp/2023/06/20/productexample/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isomura-s.co.jp/2026/09/04/2026-09-04-superlight-shoiko/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isomura-s.co.jp/mechanical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isomura-s.co.jp/lp2-kinzokukako-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isomura-s.co.jp/access/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isomura-s.co.jp/2026/01/29/new-table-spot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isomura-s.co.jp/2025/10/08/event-booth/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isomura-s.co.jp/category/new/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isomura-s.co.jp/category/column/metalworking/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isomura-s.co.jp/tag/%E5%8A%A0%E5%B7%A5%E6%96%B9%E6%B3%95/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isomura-s.co.jp/tag/%E8%A3%BD%E4%BD%9C%E4%BA%8B%E4%BE%8B-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isomura-s.co.jp/2023/08/09/aboutaluminum/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isomura-s.co.jp/2023/09/01/tarepan-1/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://isomura-s.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isomura.co.jp/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2078627/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isomura.co.jp/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://isomura-s.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/5010401002738",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://isomura-s.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomurasangyo.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isomura.co.jp/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "磯村産業 本社 取扱製品 試作 小ロット",
+   "results": [
+    "https://isomura-s.co.jp/company/",
+    "https://isomura.co.jp/",
+    "https://mono.ipros.com/company/detail/2078627/category/",
+    "https://mono.ipros.com/company/detail/2110337/category/",
+    "https://www.ipros.com/company/detail/2110337/category/",
+    "https://isomura-s.co.jp/",
+    "https://www.kk-isomura.com/products/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "磯村産業 本社 会社概要 事業内容",
+   "results": [
+    "https://isomura.co.jp/",
+    "https://isomura-s.co.jp/company/",
+    "https://compalyze.co.jp/company/5010401002738",
+    "https://www.kk-isomura.com/company/profile/",
+    "https://isomura.co.jp/access/",
+    "https://isomura-s.co.jp/",
+    "https://www.kk-isomura.com/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "磯村産業 本社 お問い合わせ メール",
+   "results": [
+    "https://isomura-s.co.jp/inquiry/",
+    "https://www.nomurasangyo.co.jp/contact/",
+    "https://isomura.co.jp/",
+    "https://isomura-s.co.jp/privacypolicy/",
+    "https://is-izumi.co.jp/contact/",
+    "https://isomura.co.jp/contact/",
+    "https://www.kk-isomura.com/contact/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 磯村産業 本社",
+   "results": [
+    "https://note.com/i_sofam",
+    "https://note.com/kota1106",
+    "https://note.com/diparururun",
+    "https://note.com/2929plus",
+    "https://note.com/kosha_design/n/n02c5154ff535",
+    "https://note.com/daikidomon/n/n238268ba8967",
+    "https://note.com/fabrica_com/n/nc62b3ed076a1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 磯村産業 本社",
+   "results": [
+    "https://x.com/isomura_sangyou",
+    "https://x.com/katsushika_city/status/1941026033219866945",
+    "https://x.com/nagasegroup/status/1981148023985230006",
+    "https://x.com/YorishigeNumazu/status/2116904656152801595",
+    "https://x.com/wind_renault/status/2113443705638273071",
+    "https://x.com/shaunoisomura",
+    "https://x.com/isocchi_la_al"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 磯村産業 本社",
+   "results": [
+    "https://jp.linkedin.com/in/yasunori-isomura",
+    "https://jp.linkedin.com/in/isomura-gosuke-43968a41",
+    "https://br.linkedin.com/company/jsr-corporation",
+    "https://www.linkedin.com/company/collins-aerospace/",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://is.linkedin.com/jobs/view/コンサルティング営業｜顧客に寄り添い経営課題を解決／異業界出身者活躍中／土日祝日休み@東京本社-at-pksha-technology-4466869986",
+    "https://www.linkedin.com/jobs/sports-2027-internships-jobs"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 磯村産業 本社",
+   "results": [
+    "https://www.facebook.com/isomura0444/",
+    "https://www.facebook.com/pages/磯村産業/332498204346859/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/pages/磯村産業株式会社/941700059035983/",
+    "https://www.facebook.com/Yas.Isomura/",
+    "https://www.facebook.com/reel/1468514273787745/",
+    "https://www.facebook.com/reel/1621378218619706/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "磯村産業 本社 note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "磯村産業 本社 X 投稿",
+   "results": [
+    "https://x.com/isomura_sangyou",
+    "https://isomura.co.jp/",
+    "https://isomura-s.co.jp/",
+    "https://x.com/katsushika_city/status/1941026033219866945",
+    "https://x.com/shaunoisomura/status/2090968412390588569",
+    "https://x.com/hayato_isomura",
+    "https://x.com/isomura_mg/with_replies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部9頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部9頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部9頁・検索9回）"
+ }
+}

@@ -1,0 +1,1501 @@
+{
+ "name": "Firecrawl",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-11T23:49:14.256111+00:00",
+ "official_url": "https://www.firecrawl.dev",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Search the web and get full content from results.",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Scrape a page, then interact with it using AI prompts or code.",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Read and follow https://www.firecrawl.dev/agent-onboarding/SKILL.md",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "dev/agent-onboarding/SKILL",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "96% coverage on our 1,000-URL firecrawl/scrape-content-dataset-v1 benchmark, run Jan 13, 2026. Every query and URL comes back as clean data.",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Only the content that matters.",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "No navs, footers, or ads. Just clean markdown, with 93% fewer input tokens for your model.",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "[python-SDK] improvs/async",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 18, 2025",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 17, 2025",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 15, 2025",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Extract v2/rerank improvs",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 11, 2025",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Firecrawl can parse and output content from pdfs, docx, and more.",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Firecrawl intelligently waits for content to load, making data extraction faster and more reliable.",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Reaches every corner of the web with comprehensive coverage and high reliability.",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Click, scroll, write, wait, press and more — interact with any page.",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Fair access to web content,",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Extract comprehensive information for in-depth research.",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Power your AI assistants with real-time, accurate web content.",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Scrape web content to pre-populate and streamline user onboarding.",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Deep research in progress",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Extracting leads from directory...",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "supercharges onboarding, letting users create artifacts from web data with Firecrawl.",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "enriches lead profiles from across the web with Firecrawl.",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Are you an AI agent? See pricing",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prices shown are per month, billed annually.",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Great for side projects and small tools.",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "High-volume plans for teams that need more power and dedicated support. Get access to higher rate limits, more concurrent browsers, and priority support.",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise: custom pricing, credits and concurrency.",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Your team signs in through your own identity provider, over SAML or OIDC.",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Your identity provider adds and removes team members automatically. This needs Single Sign-On.",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "This is what you save on the annual price against twelve monthly payments.",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We shape usage reporting around your teams and workloads.",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Data Processing Agreement",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "This contract covers how we process data for you, and we countersign one on a paid plan.",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "An outside firm audits our security controls for data protection and operations.",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Each webhook carries a signature, so you can prove that it came from us.",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We keep no scraped content after the request, on approved use cases.",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "yet, prepare to have your mind blown 🤯\"",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "for a project, I wish I used this sooner.\"",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "to a paid plan. Totally worth it. One of the best products for your AI workflows.\"",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Credits roll over on Scale and Enterprise. Scale carries unused credits for one month, and Enterprise carries a custom amount. Hobby, Standard and Growth credits do not roll over.",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Firecrawl is sold on AWS Marketplace and Google Cloud Marketplace, so the charges go on your AWS or Google Cloud bill. On Google Cloud, a private offer also draws down your Google Cloud spend commitment. Contact sales for a private offer with custom pricing and terms.",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Why am I being charged VAT (or any local tax) even though I provided a tax ID?",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "onboarding path that matches your setup.",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Otherwise, fetch and read the default onboarding skill to connect",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "gives you Alexandria's data providers. Prefer a free account",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.firecrawl.dev/agent-onboarding/SKILL.md",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Firecrawl was built on a simple insight: large language models are powerful, but hard to feed well. Developers shouldn't have to duct-tape proxies, scrapers, orchestrators, and post-processing logic to give an LLM the data it needs. Today, Firecrawl is one of the fastest growing open source projects in the world.",
+    "url": "https://www.firecrawl.dev/about",
+    "pass": 1
+   },
+   {
+    "quote": "We provide the infrastructure to make the web fully LLM-ready: structured, searchable, and usable in production.",
+    "url": "https://www.firecrawl.dev/about",
+    "pass": 1
+   },
+   {
+    "quote": "Search the web and get full page content from the results — not just links. Feed real-time context and fresh knowledge into your agents and RAG pipelines.",
+    "url": "https://www.firecrawl.dev/about",
+    "pass": 1
+   },
+   {
+    "quote": "Take actions on any page — click buttons, fill forms, and navigate dynamic content. Describe what you want in natural language, or write code for full control.",
+    "url": "https://www.firecrawl.dev/about",
+    "pass": 1
+   },
+   {
+    "quote": "Firecrawl was started in 2022 as part of Y Combinator. The team previously built Mendable and SideGuide, and is based in San Francisco.",
+    "url": "https://www.firecrawl.dev/about",
+    "pass": 1
+   },
+   {
+    "quote": "We're hiring engineers, AI specialists, and developer advocates.",
+    "url": "https://www.firecrawl.dev/about",
+    "pass": 1
+   },
+   {
+    "quote": "Start getting web context for free and scale seamlessly as your project expands.",
+    "url": "https://www.firecrawl.dev/about",
+    "pass": 1
+   },
+   {
+    "quote": "onboarding path that matches your setup.",
+    "url": "https://www.firecrawl.dev/about",
+    "pass": 1
+   },
+   {
+    "quote": "Otherwise, fetch and read the default onboarding skill to connect",
+    "url": "https://www.firecrawl.dev/about",
+    "pass": 1
+   },
+   {
+    "quote": "gives you Alexandria's data providers. Prefer a free account",
+    "url": "https://www.firecrawl.dev/about",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.firecrawl.dev/agent-onboarding/SKILL.md",
+    "url": "https://www.firecrawl.dev/about",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Credits roll over on Scale and Enterprise. Scale carries unused credits for one month, and Enterprise carries a custom amount. Hobby, Standard and Growth credits do not roll over.",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Unused credits carry into the next period.",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Each webhook carries a signature, so you can prove that it came from us.",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Credits roll over on Scale and Enterprise. Scale carries unused credits for one month, and Enterprise carries a custom amount. Hobby, Standard and Growth credits do not roll over.",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We're not a toolkit. We're the foundation for building AI-native software — where intelligence isn't an add-on, it's part of the core.",
+    "url": "https://www.firecrawl.dev/about",
+    "pass": 1
+   },
+   {
+    "quote": "Firecrawl was started in 2022 as part of Y Combinator. The team previously built Mendable and SideGuide, and is based in San Francisco.",
+    "url": "https://www.firecrawl.dev/about",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue tools that research companies and enrich leads from the web.",
+    "url": "https://www.firecrawl.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Firecrawl lets us build powerful demos for any company, from startups with dozens of pages to Fortune 500s with thousands.",
+    "url": "https://www.firecrawl.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "— We plan to hit $100M in ARR with fewer than 50 people",
+    "url": "https://www.firecrawl.dev/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Today it powers content experiences for more than 4,000 organizations, including 30% of the Fortune 500, with brands like KFC, Docusign, and Mailchimp building on it.",
+    "url": "https://www.firecrawl.dev/blog/how-contentful-builds-demos-with-firecrawl",
+    "pass": 1
+   },
+   {
+    "quote": "Firecrawl lets us build powerful demos for any company, from startups with dozens of pages to Fortune 500s with thousands.",
+    "url": "https://www.firecrawl.dev/blog/how-contentful-builds-demos-with-firecrawl",
+    "pass": 1
+   },
+   {
+    "quote": "\"Y Combinator startup Firecrawl is ready to pay $1M to hire three AI agents as employees\"",
+    "url": "https://docs.firecrawl.dev/ja/introduction",
+    "pass": 3
+   },
+   {
+    "quote": "\"https://techcrunch.com/2025/05/17/y-combinator-startup-firecrawl-is-ready-to-pay-1m-to-hire-three-ai-agents-as-employees/\"",
+    "url": "https://docs.firecrawl.dev/ja/introduction",
+    "pass": 3
+   },
+   {
+    "quote": "parameter accepts an array, and you can request multiple formats in a single call:",
+    "url": "https://ai.sulat.com/the-complete-guide-to-firecrawl-for-ai-agent-developers-f63705f1f9c1",
+    "pass": 3
+   },
+   {
+    "quote": "“a necessary part of the burgeoning AI world.”",
+    "url": "https://ai.sulat.com/the-complete-guide-to-firecrawl-for-ai-agent-developers-f63705f1f9c1",
+    "pass": 3
+   },
+   {
+    "quote": "We’re in the middle of a shift. AI applications are moving from chat interfaces to autonomous agents. These agents NEED to interact with the real world, and a huge part of the real world lives on the web.",
+    "url": "https://ai.sulat.com/the-complete-guide-to-firecrawl-for-ai-agent-developers-f63705f1f9c1",
+    "pass": 3
+   },
+   {
+    "quote": "The pricing listed is based on monthly billing. Plans and features are subject to change; please visit the",
+    "url": "https://apix-drive.com/en/blog/useful/firecrawl-explained",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl's features go beyond basic web scraping, covering the entire web data lifecycle, from collection and scanning to cleaning, structuring, and feeding into AI systems. The platform integrates several key tools. Each solves a specific class of problems and can be used both independently and as part of complex AI pipelines.",
+    "url": "https://apix-drive.com/en/blog/useful/firecrawl-explained",
+    "pass": 3
+   },
+   {
+    "quote": "new ARR generated in one quarter",
+    "url": "https://www.simpletiger.com/case-study/firecrawl",
+    "pass": 3
+   },
+   {
+    "quote": "in revenue in less than 10 months through AI & organic search",
+    "url": "https://www.simpletiger.com/case-study/firecrawl",
+    "pass": 3
+   },
+   {
+    "quote": "AI crawler Firecrawl raises $14.5M, is still looking to hire agents as employees | TechCrunch",
+    "url": "https://www.ycombinator.com/companies/firecrawl",
+    "pass": 3
+   },
+   {
+    "quote": "AI crawler Firecrawl raises $14.5M, is still looking to hire agents as employees | TechCrunch",
+    "url": "https://techcrunch.com/2025/08/19/ai-crawler-firecrawl-raises-14-5m-is-still-looking-to-hire-agents-as-employees/",
+    "pass": 3
+   },
+   {
+    "quote": "AI crawler Firecrawl raises $14.5M, is still looking to hire agents as employees",
+    "url": "https://techcrunch.com/2025/08/19/ai-crawler-firecrawl-raises-14-5m-is-still-looking-to-hire-agents-as-employees/",
+    "pass": 3
+   },
+   {
+    "quote": ", they are also a necessary part of the burgeoning AI world. AI trains on the web,",
+    "url": "https://techcrunch.com/2025/08/19/ai-crawler-firecrawl-raises-14-5m-is-still-looking-to-hire-agents-as-employees/",
+    "pass": 3
+   },
+   {
+    "quote": "Applicants flooded in, Peffer said, but the company hasn’t yet hired any. The founders realized that evaluating and managing wanna-be agent employees is a job in itself. So now they are looking for an AI chief of staff.",
+    "url": "https://techcrunch.com/2025/08/19/ai-crawler-firecrawl-raises-14-5m-is-still-looking-to-hire-agents-as-employees/",
+    "pass": 3
+   },
+   {
+    "quote": "to discuss all that he’s learned in a session that covers the pros and cons of hiring AI agents as early employees.",
+    "url": "https://techcrunch.com/2025/08/19/ai-crawler-firecrawl-raises-14-5m-is-still-looking-to-hire-agents-as-employees/",
+    "pass": 3
+   },
+   {
+    "quote": "If there is no difference, do not add it. If the burden of API management and deduplication is greater, stop using it. Conversely, if the same retrieval failures are repeatedly reduced, it is worth making Firecrawl a standard part of your workflow for that task.",
+    "url": "https://note.com/gtminami/n/n96c3c8ca99d6?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Upload a CSV of emails and...\"",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Need more? Contact us",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Upload a CSV of emails and...\"",
+    "url": "https://www.firecrawl.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Upload a CSV of emails and...\"",
+    "url": "https://www.firecrawl.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "They landed him through a gutsy email after discovering the Shopify founder had signed up to try their product through their self-service portal.",
+    "url": "https://techcrunch.com/2025/08/19/ai-crawler-firecrawl-raises-14-5m-is-still-looking-to-hire-agents-as-employees/",
+    "pass": 3
+   },
+   {
+    "quote": "“We saw his email come in,” Peffer said. The Firecrawl crew immediately emailed him to welcome him as a customer, but got no response. Two months later, some Shopify folks contacted Firecrawl for an enterprise contract. So Peffer took his shot and emailed Lütke again, mentioning they’d love for him to participate in their upcoming round.",
+    "url": "https://techcrunch.com/2025/08/19/ai-crawler-firecrawl-raises-14-5m-is-still-looking-to-hire-agents-as-employees/",
+    "pass": 3
+   },
+   {
+    "quote": "You can contact or verify outreach from Julie by emailing",
+    "url": "https://techcrunch.com/2025/08/19/ai-crawler-firecrawl-raises-14-5m-is-still-looking-to-hire-agents-as-employees/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "$16.2M in total funding. Trusted by the investors and operators building the future of software.",
+    "url": "https://www.firecrawl.dev/about",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Cybersecurity Specialist ·",
+    "url": "https://www.firecrawl.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Eric Ciarla is a co-founder of Firecrawl. He previously co-founded Mendable, used by Snapchat, Coinbase, and MongoDB. He's been building products in the AI and data space since 2022.",
+    "url": "https://www.firecrawl.dev/blog/how-contentful-builds-demos-with-firecrawl",
+    "pass": 1
+   },
+   {
+    "quote": "The data collected and processed by Firecrawl is used by developers to train and fine-tune large language models (LLMs). The API service crawls websites and scrapes their content, then delivers structured or unstructured data in LLM-ready format.",
+    "url": "https://apix-drive.com/en/blog/useful/firecrawl-explained",
+    "pass": 3
+   },
+   {
+    "quote": "Finally, another significant trend is the active integration of AI-powered web scraping services with third-party applications and systems. Such tools are already widely used in eCommerce, retail, marketing, sales, finance, and media. Their widespread use may soon expand to other industries, from medicine and science to the automotive industry and tourism.",
+    "url": "https://apix-drive.com/en/blog/useful/firecrawl-explained",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl PPC Case Study - SimpleTiger",
+    "url": "https://www.simpletiger.com/case-study/firecrawl",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl offers a popular open source web crawler for developers and AI agents, with a commercially supported version available through an API. It’s used by 350,000 developers, has nearly",
+    "url": "https://techcrunch.com/2025/08/19/ai-crawler-firecrawl-raises-14-5m-is-still-looking-to-hire-agents-as-employees/",
+    "pass": 3
+   },
+   {
+    "quote": "on GitHub, and its notable customers include Shopify, Replit, and Zapier as well as “some of the largest hedge funds in the world,” Peffer told TechCrunch. And, he says, the company is already profitable.",
+    "url": "https://techcrunch.com/2025/08/19/ai-crawler-firecrawl-raises-14-5m-is-still-looking-to-hire-agents-as-employees/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "すると、「参照する知識を選択」というダイアログが表示されるので、先ほど「ナレッジ」で作成したもの（ここでは「日本をITでよくする」）を選択し、「追加」ボタンをクリックします",
+    "url": "https://zenn.dev/ogiki/articles/25e941a7b2bb84",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アップグレードは、エンタープライズ企業の生成AI活用における戦略立案から実装までを一貫して支援する専門企業です",
+    "url": "https://zenn.dev/upgradetech/articles/f157fcca815e0c",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "はじめに - Firecrawl Docs — はじめに - Firecrawl Docs Firecrawl Docs https://docs.firecrawl.dev > introduction",
+    "url": "https://docs.firecrawl.dev/ja/introduction",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl を徹底解説：AI向けウェブデータAPI - eesel AI — Firecrawl を徹底解説：AI向けウェブデータAPI - eesel AI eesel AI https://www.eesel.ai > eesel AI > Blog > Guides",
+    "url": "https://www.eesel.ai/ja/blog/firecrawl",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代の最強スクレイピングツール、 Firecrawl を 導入 してみた — AI時代の最強スクレイピングツール、 Firecrawl を 導入 してみた Qiita https://qiita.com > AI",
+    "url": "https://qiita.com/enaporp_/items/308b64397fd874cb33c6",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl とDifyで簡単スクレイピング - Zenn — Firecrawl とDifyで簡単スクレイピング - Zenn Zenn https://zenn.dev > ogiki > articles",
+    "url": "https://zenn.dev/ogiki/articles/25e941a7b2bb84",
+    "pass": 3
+   },
+   {
+    "quote": "Crawl4AIと Firecrawl の比較 特徴・用途・代替案 - Bright Data — Crawl4AIと Firecrawl の比較 特徴・用途・代替案 - Bright Data brightdata.jp https://brightdata.jp > blog > crawl4ai-vs-firecrawl",
+    "url": "https://brightdata.jp/blog/ai/crawl4ai-vs-firecrawl",
+    "pass": 3
+   },
+   {
+    "quote": "Milvusと Firecrawl でRAGを構築する — Milvusと Firecrawl でRAGを構築する Milvus https://milvus.io > ドキュメント",
+    "url": "https://milvus.io/docs/ja/v2.5.x/build_RAG_with_milvus_and_firecrawl.md",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl は役に立たなくなった : r/LocalLLaMA - Reddit — Firecrawl は役に立たなくなった : r/LocalLLaMA - Reddit Reddit https://www.reddit.com > firecrawl_stopped_being_useful",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1nfvhyh/firecrawl_stopped_being_useful/?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Dify × Firecrawl のextract機能で簡単にスクレイプしてみた - Zenn — Dify × Firecrawl のextract機能で簡単にスクレイプしてみた - Zenn Zenn https://zenn.dev > upgradetech > articles",
+    "url": "https://zenn.dev/upgradetech/articles/f157fcca815e0c",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl | Web Data API for AI Agents — Firecrawl | Web Data API for AI Agents Firecrawl https://www.firecrawl.dev",
+    "url": "https://www.firecrawl.dev/",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl | LinkedIn — Firecrawl | LinkedIn LinkedIn https://www.linkedin.com > firecrawl",
+    "url": "https://www.linkedin.com/company/firecrawl",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl - Dify Marketplace — Firecrawl - Dify Marketplace Dify Marketplace http://marketplace.dify.ai > firecrawl",
+    "url": "http://marketplace.dify.ai/plugin/langgenius/firecrawl",
+    "pass": 3
+   },
+   {
+    "quote": "The complete guide to Firecrawl for AI agent developers — The complete guide to Firecrawl for AI agent developers ai.sulat.com https://ai.sulat.com > the-complete-gu...",
+    "url": "https://ai.sulat.com/the-complete-guide-to-firecrawl-for-ai-agent-developers-f63705f1f9c1",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl - X — Firecrawl - X X https://x.com > firecrawl",
+    "url": "https://x.com/firecrawl",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl AI clearly explained (and how to make $$) - YouTube — Firecrawl AI clearly explained (and how to make $$) - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=eH8JdttKIdA",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl Use Cases | Web Data for AI-Powered Solutions — Firecrawl Use Cases | Web Data for AI-Powered Solutions Firecrawl https://www.firecrawl.dev > use-cases",
+    "url": "https://www.firecrawl.dev/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl Explained: Turning the Web into Usable Data with AI — Firecrawl Explained: Turning the Web into Usable Data with AI Apix-Drive https://apix-drive.com > Blog > Useful",
+    "url": "https://apix-drive.com/en/blog/useful/firecrawl-explained",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl PPC Case Study - SimpleTiger — Firecrawl PPC Case Study - SimpleTiger SimpleTiger https://www.simpletiger.com > firecrawl",
+    "url": "https://www.simpletiger.com/case-study/firecrawl",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl review: An honest thought about this AI scraper — Firecrawl review: An honest thought about this AI scraper Gumloop https://www.gumloop.com > blog > fi...",
+    "url": "https://www.gumloop.com/blog/firecrawl-review",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl for Platforms — Firecrawl for Platforms Firecrawl https://www.firecrawl.dev > firecrawl-...",
+    "url": "https://www.firecrawl.dev/firecrawl-for-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "We just raised our Series A and shipped /v2 - Firecrawl — We just raised our Series A and shipped /v2 - Firecrawl Firecrawl https://www.firecrawl.dev > blog > fir...",
+    "url": "https://www.firecrawl.dev/blog/firecrawl-v2-series-a-announcement",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl : Building the library for superintelligence. — Firecrawl : Building the library for superintelligence. Y Combinator https://www.ycombinator.com > firec...",
+    "url": "https://www.ycombinator.com/companies/firecrawl",
+    "pass": 3
+   },
+   {
+    "quote": "AI crawler Firecrawl raises $14.5M, is still looking to hire ... — AI crawler Firecrawl raises $14.5M, is still looking to hire ... TechCrunch https://techcrunch.com > 2025/08/19",
+    "url": "https://techcrunch.com/2025/08/19/ai-crawler-firecrawl-raises-14-5m-is-still-looking-to-hire-agents-as-employees/",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl Raises $75M to Enhance AI Agent Access ... - LinkedIn — Firecrawl Raises $75M to Enhance AI Agent Access ... - LinkedIn LinkedIn https://www.linkedin.com > posts > y-combinator_firecra...",
+    "url": "https://www.linkedin.com/posts/y-combinator_firecrawl-yc-s22-has-raised-75-million-activity-7508224276630659072-Knpr",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl Revenue 2024: $1.5M Est. - GetLatka — Firecrawl Revenue 2024: $1.5M Est. - GetLatka GetLatka https://getlatka.com > firecrawl",
+    "url": "https://getlatka.com/companies/firecrawl.dev",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Is Firecrawl stronger than ChatGPT Deep Research ... - note Is Firecrawl stronger than ChatGPT Deep Research ... - note note https://note.com > ... > アプリケーション",
+    "url": "https://note.com/gtminami/n/n96c3c8ca99d6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【 Firecrawl Cost Strategy】A Guide to Free & Unlimited Self ... 【 Firecrawl Cost Strategy】A Guide to Free & Unlimited Self ... note https://note.com > コンピュータ・IT > ウェブ開発",
+    "url": "https://note.com/brave_quince241/n/n01851c243c28?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "firecrawl の使い方。Webを丸ごとAIの材料に変える無料OSS firecrawl の使い方。Webを丸ごとAIの材料に変える無料OSS note https://note.com > コンピュータ・IT > プログラミング",
+    "url": "https://note.com/opensourcelab/n/n50e9d1120b3c",
+    "pass": 3
+   },
+   {
+    "quote": "約315万本を数えるか。 Firecrawl とarxiv-completeの使い分け 約315万本を数えるか。 Firecrawl とarxiv-completeの使い分け note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/gtminami/n/n308bf077cc78",
+    "pass": 3
+   },
+   {
+    "quote": "【解説】 Firecrawl とは？APIキーの取得まで｜AI開発ラボ - note 【解説】 Firecrawl とは？APIキーの取得まで｜AI開発ラボ - note note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/ai_dev_lab/n/n6a07ed6542a5",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl はChatGPT Deep Researchより強いのか？検索性能 ... Firecrawl はChatGPT Deep Researchより強いのか？検索性能 ... note https://note.com > コンピュータ・IT > アプリケーション",
+    "url": "https://note.com/gtminami/n/n96c3c8ca99d6",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Is Firecrawl stronger than ChatGPT Deep Research? Designing an investigation that isn't decided by search performance alone｜南翔伍 / AIコンパニオンとSNSの間くらいの「Jams」開発中",
+    "url": "https://note.com/gtminami/n/n96c3c8ca99d6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/gtminami/n/n96c3c8ca99d6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Is Firecrawl stronger than ChatGPT Deep Research? Designing an investigation that isn't decided by search performance alone",
+    "url": "https://note.com/gtminami/n/n96c3c8ca99d6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "南翔伍 / AIコンパニオンとSNSの間くらいの「Jams」開発中",
+    "url": "https://note.com/gtminami/n/n96c3c8ca99d6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Even after thoroughly scanning official docs, important pages are missed. Even when they appear in search results, the body text cannot be retrieved properly. Even when you want to follow up on papers or GitHub repositories, the exploration becomes shallow halfway through. In such situations, using Firecrawl can help you reach information that ChatGPT alone could not access.",
+    "url": "https://note.com/gtminami/n/n96c3c8ca99d6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is natural to wonder, \"Isn't Firecrawl stronger than Deep Research?\" However, I believe that comparing these two on a single leaderboard is likely to lead to errors in practical judgment. This is because an investigation consists of various tasks: defining the question, finding sources, retrieving page content, comparing evidence, searching for counter-evidence, and synthesizing conclusions.",
+    "url": "https://note.com/gtminami/n/n96c3c8ca99d6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For me, I start general deep-dive investigations with ChatGPT Deep Research. Then, I add Firecrawl when web retrieval itself gets stuck. Finally, I return to the original source for critical claims. This sequence is a way to balance quality and operational load.",
+    "url": "https://note.com/gtminami/n/n96c3c8ca99d6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Research quality is not determined by search results alone",
+    "url": "https://note.com/gtminami/n/n96c3c8ca99d6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【Firecrawl Cost Strategy】A Guide to Free & Unlimited Self-Hosting with Docker｜伊志嶺(LLMで業務改善する人)",
+    "url": "https://note.com/brave_quince241/n/n01851c243c28?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/brave_quince241/n/n01851c243c28?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【Firecrawl Cost Strategy】A Guide to Free & Unlimited Self-Hosting with Docker",
+    "url": "https://note.com/brave_quince241/n/n01851c243c28?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl is a powerful API service for web crawling and data extraction, but when considering serious use or large-scale data collection, its pricing structure (paid plans start at $16/month; see",
+    "url": "https://note.com/brave_quince241/n/n01851c243c28?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "for details) may be a point of concern.",
+    "url": "https://note.com/brave_quince241/n/n01851c243c28?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For those interested in Firecrawl's costs or looking for more cost-effective operation methods, self-hosting may be a viable option.",
+    "url": "https://note.com/brave_quince241/n/n01851c243c28?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While Firecrawl has convenient cloud plans, self-hosting is an effective option if you have high usage or require more flexible operation and cost management.",
+    "url": "https://note.com/brave_quince241/n/n01851c243c28?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "is an effective option.",
+    "url": "https://note.com/brave_quince241/n/n01851c243c28?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "firecrawlの使い方。Webを丸ごとAIの材料に変える無料OSS、入れる前に決める3つと最初の1回｜オープンソース研究所",
+    "url": "https://note.com/opensourcelab/n/n50e9d1120b3c",
+    "pass": 3
+   },
+   {
+    "quote": "firecrawlの使い方。Webを丸ごとAIの材料に変える無料OSS、入れる前に決める3つと最初の1回",
+    "url": "https://note.com/opensourcelab/n/n50e9d1120b3c",
+    "pass": 3
+   },
+   {
+    "quote": "AIに「このページ読んで」と渡したら、タグだらけのぐちゃぐちゃなHTMLが返ってきて、困ったことはありませんか？",
+    "url": "https://note.com/opensourcelab/n/n50e9d1120b3c",
+    "pass": 3
+   },
+   {
+    "quote": "AIが読みたいのは、人間が見る飾りつきのページではなく、中身のテキストです。そこを整えてくれるのが、今日のFirecrawlです。",
+    "url": "https://note.com/opensourcelab/n/n50e9d1120b3c",
+    "pass": 3
+   },
+   {
+    "quote": "この記事は、AIエージェントにWebの情報を読ませたい人、スクレイピングを無料のOSSで始めたい人向けに、Firecrawlの使い方を書きます。入れる前に決める3つと、最初の1回で何をするか、です。",
+    "url": "https://note.com/opensourcelab/n/n50e9d1120b3c",
+    "pass": 3
+   },
+   {
+    "quote": "先に正直に言っておくと、うちはFirecrawl自体を社内では動かしていません。手順は公式のREADMEで確認しました。だから「使ってみた自慢」ではなく、「入れる前に知っておくと損しないこと」の整理です。",
+    "url": "https://note.com/opensourcelab/n/n50e9d1120b3c",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawlとは——Webを「AIの材料」に変える道具",
+    "url": "https://note.com/opensourcelab/n/n50e9d1120b3c",
+    "pass": 3
+   },
+   {
+    "quote": "公式のREADMEによると、Firecrawlは「Webを検索し、取得し、操作するためのAPI」で、AIエージェントに渡す文脈をまとめる道具です。オープンソースでも、提供されているクラウドでも使えます。",
+    "url": "https://note.com/opensourcelab/n/n50e9d1120b3c",
+    "pass": 3
+   },
+   {
+    "quote": "論文を探すか、約315万本を数えるか。Firecrawlとarxiv-completeの使い分け｜南翔伍 / AIコンパニオンとSNSの間くらいの「Jams」開発中",
+    "url": "https://note.com/gtminami/n/n308bf077cc78",
+    "pass": 3
+   },
+   {
+    "quote": "論文を探すか、約315万本を数えるか。Firecrawlとarxiv-completeの使い分け",
+    "url": "https://note.com/gtminami/n/n308bf077cc78",
+    "pass": 3
+   },
+   {
+    "quote": "南翔伍 / AIコンパニオンとSNSの間くらいの「Jams」開発中",
+    "url": "https://note.com/gtminami/n/n308bf077cc78",
+    "pass": 3
+   },
+   {
+    "quote": "仮に、論文調査の依頼が2つ来たとします。1つ目は「coding agentの検証に関する最近の重要論文を十数本挙げ、主張を原文で確かめてほしい」。2つ目は「2020年以降、この話題に触れる論文の割合が分野ごとにどう変わったか、同じ条件で数えてほしい」。同じ論文調査でも、作るべき成果物は違います。",
+    "url": "https://note.com/gtminami/n/n308bf077cc78",
+    "pass": 3
+   },
+   {
+    "quote": "前者は候補を探し、関連研究を辿り、本文へ戻る仕事です。後者は検索上位の十数件を数えても答えられません。対象となる論文の集合、期間、語句の定義を固定して集計する必要があります。",
+    "url": "https://note.com/gtminami/n/n308bf077cc78",
+    "pass": 3
+   },
+   {
+    "quote": "一編ずつ論文を見つけたいのか、何百万本という集合を自分の条件で計算したいのか。",
+    "url": "https://note.com/gtminami/n/n308bf077cc78",
+    "pass": 3
+   },
+   {
+    "quote": "外付けHDDを選ぶ前に、ここを分けたいのです。",
+    "url": "https://note.com/gtminami/n/n308bf077cc78",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl Research Indexと、Hugging Faceで公開されている`secemp9/arxiv-complete`は、それぞれに向いた道具です。前者は「発見して読む」ための検索経路。後者は、ある時点で固定された論文データを自分で計算するための素材。両者を競わせず、どの問いなら手元にデータを持つ価値があるかを考えてみます。",
+    "url": "https://note.com/gtminami/n/n308bf077cc78",
+    "pass": 3
+   },
+   {
+    "quote": "【解説】Firecrawlとは？APIキーの取得まで｜AI開発ラボ",
+    "url": "https://note.com/ai_dev_lab/n/n6a07ed6542a5",
+    "pass": 3
+   },
+   {
+    "quote": "【解説】Firecrawlとは？APIキーの取得まで",
+    "url": "https://note.com/ai_dev_lab/n/n6a07ed6542a5",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI、ノーコードツール、Pythonなどの技術を活用して、日々の業務を劇的に効率化する方法を、基礎から学ぶことができます。明日から使える実践的なテクニックを、コミュニティメンバー同士で共有し合えることができます。",
+    "url": "https://note.com/ai_dev_lab/n/n6a07ed6542a5",
+    "pass": 3
+   },
+   {
+    "quote": "アイデアを形にし、実際に動くサービスやツールを自分で開発したい方。",
+    "url": "https://note.com/ai_dev_lab/n/n6a07ed6542a5",
+    "pass": 3
+   },
+   {
+    "quote": "業務や生活をより効率化するための自作ツールにチャレンジしたい方。",
+    "url": "https://note.com/ai_dev_lab/n/n6a07ed6542a5",
+    "pass": 3
+   },
+   {
+    "quote": "開発スキルを活かして、マイクロサービス・スモールビジネスを作りたい方。",
+    "url": "https://note.com/ai_dev_lab/n/n6a07ed6542a5",
+    "pass": 3
+   },
+   {
+    "quote": "情報共有や意見交換を通じて、共に成長したい方。",
+    "url": "https://note.com/ai_dev_lab/n/n6a07ed6542a5",
+    "pass": 3
+   },
+   {
+    "quote": "リリースを経験し、次のステップに進むためのフィードバックが欲しい方。",
+    "url": "https://note.com/ai_dev_lab/n/n6a07ed6542a5",
+    "pass": 3
+   },
+   {
+    "quote": "FirecrawlはChatGPT Deep Researchより強いのか？検索性能だけでは決まらない調査の設計｜南翔伍 / AIコンパニオンとSNSの間くらいの「Jams」開発中",
+    "url": "https://note.com/gtminami/n/n96c3c8ca99d6",
+    "pass": 3
+   },
+   {
+    "quote": "FirecrawlはChatGPT Deep Researchより強いのか？検索性能だけでは決まらない調査の設計",
+    "url": "https://note.com/gtminami/n/n96c3c8ca99d6",
+    "pass": 3
+   },
+   {
+    "quote": "南翔伍 / AIコンパニオンとSNSの間くらいの「Jams」開発中",
+    "url": "https://note.com/gtminami/n/n96c3c8ca99d6",
+    "pass": 3
+   },
+   {
+    "quote": "公式Docsを広く洗ったのに重要なページが抜ける。検索結果には出ているのに本文をうまく取れない。論文やGitHubまで追いたいのに、途中で探索が浅くなる。こうした場面でFirecrawlを使うと、ChatGPTだけでは届かなかった情報へ進めることがあります。",
+    "url": "https://note.com/gtminami/n/n96c3c8ca99d6",
+    "pass": 3
+   },
+   {
+    "quote": "そこで「Deep ResearchよりFirecrawlの方が強いのでは」と考えたくなるのは自然です。ただ、この二つを一つの順位表で比べると、実務上の判断を誤りやすい。私はそう見ています。調査には、問いを決める仕事、情報源を探す仕事、ページ本文を取る仕事、証拠を比べる仕事、反証を探す仕事、結論を組み立てる仕事があるからです。",
+    "url": "https://note.com/gtminami/n/n96c3c8ca99d6",
+    "pass": 3
+   },
+   {
+    "quote": "私なら、一般的な深掘り調査はまずChatGPT Deep Researchから始めます。そのうえで、Web取得そのものが詰まったときにFirecrawlを追加する。重要な主張だけは最後に原典へ戻る。この順番が、品質と運用負荷のバランスを取りやすい使い方です。",
+    "url": "https://note.com/gtminami/n/n96c3c8ca99d6",
+    "pass": 3
+   },
+   {
+    "quote": "Researchの品質は検索結果だけでは決まらない",
+    "url": "https://note.com/gtminami/n/n96c3c8ca99d6",
+    "pass": 3
+   },
+   {
+    "quote": "「Research性能」という言葉には、性質の違う作業が一緒に入っています。",
+    "url": "https://note.com/gtminami/n/n96c3c8ca99d6",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Firecrawl - X Firecrawl - X X https://x.com > firecrawl",
+    "url": "https://x.com/firecrawl",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl on X: \"Introducing Alexandria. We raised a $75M ... Firecrawl on X: \"Introducing Alexandria. We raised a $75M ... X https://x.com > @firecrawl",
+    "url": "https://x.com/firecrawl/status/2102426246235775068",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl - X Firecrawl - X X https://x.com > @firecrawl",
+    "url": "https://x.com/firecrawl/status/2120197091410493731",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Firecrawl | LinkedIn Firecrawl | LinkedIn LinkedIn https://www.linkedin.com > firecrawl",
+    "url": "https://www.linkedin.com/company/firecrawl",
+    "pass": 3
+   },
+   {
+    "quote": "Mark M. - Chief of Staff @ Firecrawl . Builder of Teams, Trust ... Mark M. - Chief of Staff @ Firecrawl . Builder of Teams, Trust ... LinkedIn https://www.linkedin.com > markruss...",
+    "url": "https://www.linkedin.com/in/markrussellmercer",
+    "pass": 3
+   },
+   {
+    "quote": "Eric Ciarla - Co-Founder @ Firecrawl (YC S22). Previously ... Eric Ciarla - Co-Founder @ Firecrawl (YC S22). Previously ... LinkedIn https://www.linkedin.com > eric-ciarla",
+    "url": "https://www.linkedin.com/in/eric-ciarla",
+    "pass": 3
+   },
+   {
+    "quote": "We use Firecrawl to add web scraping to all our AI agents We use Firecrawl to add web scraping to all our AI agents LinkedIn https://www.linkedin.com > posts > pradipnichite_ai-that-s...",
+    "url": "https://www.linkedin.com/posts/pradipnichite_ai-that-scrapes-llm-ready-data-from-any-website-activity-7293502909508468736-042-",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Firecrawl plugin for AI agents - Facebook Firecrawl plugin for AI agents - Facebook Facebook https://www.facebook.com > claudecommunity > posts",
+    "url": "https://www.facebook.com/groups/claudecommunity/posts/1153737347166929/",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl Open Source Alternative - Self-hosted Scrapers Firecrawl Open Source Alternative - Self-hosted Scrapers Facebook https://www.facebook.com > fb-answers > firecrawl-opens...",
+    "url": "https://www.facebook.com/fb-answers/firecrawl-opensource-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "How Does Exa Compare With Firecrawl for Web Data Access How Does Exa Compare With Firecrawl for Web Data Access Facebook https://www.facebook.com > fb-answers > how-does-exa-...",
+    "url": "https://www.facebook.com/fb-answers/how-does-exa-compare-with-firecrawl-for-web-data-access/",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl's Open-Source PDF Inspector - Facebook Firecrawl's Open-Source PDF Inspector - Facebook Facebook https://www.facebook.com > claudecommunity > posts",
+    "url": "https://www.facebook.com/groups/claudecommunity/posts/1105700808637250/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.firecrawl.dev/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firecrawl.dev/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firecrawl.dev/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firecrawl.dev/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firecrawl.dev/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firecrawl.dev/blog/how-contentful-builds-demos-with-firecrawl",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.firecrawl.dev/logos/customers/zapier.webp?dpl=dpl_E7xrFbYhrxemCe8mQNrVNytVRDb3",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.firecrawl.dev/customers/avatars/how-zapier-uses-firecrawl-to-power-chatbots.webp?dpl=dpl_E7xrFbYhrxemCe8mQNrVNytVRDb3",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.firecrawl.dev/customers/avatars/how-minimal-builds-ai-support-agents-with-firecrawl.webp?dpl=dpl_E7xrFbYhrxemCe8mQNrVNytVRDb3",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.firecrawl.dev/logos/customers/retell.svg?dpl=dpl_E7xrFbYhrxemCe8mQNrVNytVRDb3",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://docs.firecrawl.dev/ja/introduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eesel.ai/ja/blog/firecrawl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/enaporp_/items/308b64397fd874cb33c6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zenn.dev/ogiki/articles/25e941a7b2bb84",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.firecrawl.dev/ja/introduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://milvus.io/docs/ja/v2.5.x/build_RAG_with_milvus_and_firecrawl.md",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1nfvhyh/firecrawl_stopped_being_useful/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://zenn.dev/upgradetech/articles/f157fcca815e0c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/firecrawl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://marketplace.dify.ai/plugin/langgenius/firecrawl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai.sulat.com/the-complete-guide-to-firecrawl-for-ai-agent-developers-f63705f1f9c1",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=eH8JdttKIdA",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://apix-drive.com/en/blog/useful/firecrawl-explained",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simpletiger.com/case-study/firecrawl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agencyplatform.com/seo-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/firecrawl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcrunch.com/2025/08/19/ai-crawler-firecrawl-raises-14-5m-is-still-looking-to-hire-agents-as-employees/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_firecrawl-yc-s22-has-raised-75-million-activity-7508224276630659072-Knpr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/gtminami/n/n96c3c8ca99d6?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/brave_quince241/n/n01851c243c28?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/opensourcelab/n/n50e9d1120b3c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gtminami/n/n308bf077cc78",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/firecrawl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/firecrawl/status/2102426246235775068",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/firecrawl/status/2120197091410493731",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/firecrawl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/markrussellmercer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/eric-ciarla",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/pradipnichite_ai-that-scrapes-llm-ready-data-from-any-website-activity-7293502909508468736-042-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/claudecommunity/posts/1153737347166929/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/firecrawl-opensource-alternative/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/how-does-exa-compare-with-firecrawl-for-web-data-access/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/claudecommunity/posts/1105700808637250/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/ai_dev_lab/n/n6a07ed6542a5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gtminami/n/n96c3c8ca99d6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/eric-ciarla",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/firecrawl",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Firecrawl 日本 導入",
+   "results": [
+    "https://docs.firecrawl.dev/ja/introduction",
+    "https://www.eesel.ai/ja/blog/firecrawl",
+    "https://qiita.com/enaporp_/items/308b64397fd874cb33c6",
+    "https://zenn.dev/ogiki/articles/25e941a7b2bb84",
+    "https://brightdata.jp/blog/ai/crawl4ai-vs-firecrawl",
+    "https://cloudsteady.jp/blog/2024/08/08/88208/",
+    "https://www.unite.ai/ja/firecrawl-raises-14-5-million-series-a-to-power-the-future-of-ai-web-crawling/",
+    "https://dev.classmethod.jp/articles/using-firecrawl-by-official-mcp-server/",
+    "https://www.reddit.com/r/LocalLLaMA/comments/1nfvhyh/firecrawl_stopped_being_useful/?tl=ja",
+    "https://qiita.com/syukan3/items/a72f38ff6098323e01d2"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Firecrawl 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://docs.firecrawl.dev/ja/introduction",
+    "https://milvus.io/docs/ja/v2.5.x/build_RAG_with_milvus_and_firecrawl.md",
+    "https://www.reddit.com/r/LocalLLaMA/comments/1nfvhyh/firecrawl_stopped_being_useful/?tl=ja",
+    "https://zenn.dev/upgradetech/articles/f157fcca815e0c",
+    "https://www.eesel.ai/ja/blog/firecrawl",
+    "https://qiita.com/Higemal/items/9022d071c5cabbf65505",
+    "https://brightdata.jp/blog/ai/crawl4ai-vs-firecrawl",
+    "https://note.com/brave_quince241/n/n01851c243c28",
+    "https://notes.ideamans.com/posts/2024/my-own-firecrawl-for-dify.html",
+    "https://docs.firecrawl.dev/dashboard"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Firecrawl Japan",
+   "results": [
+    "https://www.firecrawl.dev/",
+    "https://www.linkedin.com/company/firecrawl",
+    "http://marketplace.dify.ai/plugin/langgenius/firecrawl",
+    "https://ai.sulat.com/the-complete-guide-to-firecrawl-for-ai-agent-developers-f63705f1f9c1",
+    "https://x.com/firecrawl",
+    "https://github.com/firecrawl",
+    "https://docs.firecrawl.dev/ja/introduction",
+    "https://zenn.dev/topics/firecrawl",
+    "https://www.youtube.com/watch?v=eH8JdttKIdA",
+    "https://docs.firecrawl.dev/ja/capabilities"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Firecrawl manufacturing customer case study",
+   "results": [
+    "https://www.youtube.com/watch?v=eH8JdttKIdA",
+    "https://www.firecrawl.dev/use-cases",
+    "https://apix-drive.com/en/blog/useful/firecrawl-explained",
+    "https://www.simpletiger.com/case-study/firecrawl",
+    "https://www.gumloop.com/blog/firecrawl-review",
+    "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "https://github.com/firecrawl/firecrawl-app-examples",
+    "https://aistudio.google.com/case-studies/firecrawl",
+    "https://aws.amazon.com/manufacturing/case-studies/",
+    "https://www.firecrawl.dev/blog/category/customer-stories"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Firecrawl white label OR reseller OR partner program",
+   "results": [
+    "https://www.firecrawl.dev/firecrawl-for-platforms",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "https://www.agencyplatform.com/seo-reseller-program/",
+    "https://www.brizy.io/solutions-for-hosts-and-resellers",
+    "https://www.10comwebdevelopment.com/whitelabel-reseller-program",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://almcorp.com/white-label-seo-reseller-programs/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Firecrawl founded funding employees revenue",
+   "results": [
+    "https://www.firecrawl.dev/blog/firecrawl-v2-series-a-announcement",
+    "https://www.ycombinator.com/companies/firecrawl",
+    "https://techcrunch.com/2025/08/19/ai-crawler-firecrawl-raises-14-5m-is-still-looking-to-hire-agents-as-employees/",
+    "https://www.linkedin.com/posts/y-combinator_firecrawl-yc-s22-has-raised-75-million-activity-7508224276630659072-Knpr",
+    "https://getlatka.com/companies/firecrawl.dev",
+    "https://dealroom.co/news/155341-firecrawl-raises-75m-series-b-to-build-a-knowledge-library-for-ai-agents/",
+    "https://www.linkedin.com/posts/caleb-peffer_excited-to-announce-firecrawls-145m-series-activity-7363589623572303872-bDaO",
+    "https://tracxn.com/d/companies/firecrawl/__AUIyUTgBhP2fuJfSidYDmsLSkPNv7XqK1ZuBMuVi3yw",
+    "https://www.crunchbase.com/organization/firecrawl",
+    "https://compworth.com/company/firecrawl"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Firecrawl",
+   "results": [
+    "https://note.com/gtminami/n/n96c3c8ca99d6?hl=en",
+    "https://note.com/brave_quince241/n/n01851c243c28?hl=en",
+    "https://note.com/opensourcelab/n/n50e9d1120b3c",
+    "https://note.com/gtminami/n/n308bf077cc78",
+    "https://note.com/jibun_updating/n/ncb4d906b29d2?hl=en",
+    "https://note.com/gtminami/n/n0a5308378b21",
+    "https://note.com/snake_dragon/n/n525902ee6281",
+    "https://note.com/gtminami/n/ncc58966df2f9",
+    "https://note.com/witty_arnica9845/n/n680b656fe9cd",
+    "https://note.com/shuheidon/n/n65aa4e6ce741"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com Firecrawl",
+   "results": [
+    "https://x.com/firecrawl",
+    "https://x.com/firecrawl/status/2102426246235775068",
+    "https://x.com/firecrawl/status/2120197091410493731",
+    "https://x.com/ycombinator/status/2102455385391305069",
+    "https://x.com/firecrawl/status/2118385145564536964",
+    "https://x.com/firecrawl/status/2117297576131060140",
+    "https://x.com/ericciarla",
+    "https://x.com/firecrawl/status/2118430414700265737",
+    "https://x.com/nickscamara_/status/2119844546561593443",
+    "https://x.com/firecrawl/status/2120559475949994309"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com Firecrawl",
+   "results": [
+    "https://www.linkedin.com/company/firecrawl",
+    "https://www.linkedin.com/in/markrussellmercer",
+    "https://www.linkedin.com/in/eric-ciarla",
+    "https://www.linkedin.com/posts/pradipnichite_ai-that-scrapes-llm-ready-data-from-any-website-activity-7293502909508468736-042-",
+    "https://www.linkedin.com/in/caleb-peffer",
+    "https://hu.linkedin.com/in/mogery",
+    "https://www.linkedin.com/in/erinx",
+    "https://www.linkedin.com/posts/akshay-pachaar_5-mcp-servers-that-will-give-superpowers-activity-7320803275518144512-RGks",
+    "https://www.linkedin.com/posts/y-combinator_firecrawl-yc-s22-has-raised-75-million-activity-7508224276630659072-Knpr",
+    "https://www.linkedin.com/posts/firecrawl_introducing-agent-by-firecrawl-just-activity-7407474526416162816-HJM2"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Firecrawl",
+   "results": [
+    "https://www.facebook.com/groups/claudecommunity/posts/1153737347166929/",
+    "https://www.facebook.com/fb-answers/firecrawl-opensource-alternative/",
+    "https://www.facebook.com/fb-answers/how-does-exa-compare-with-firecrawl-for-web-data-access/",
+    "https://www.facebook.com/groups/claudecommunity/posts/1105700808637250/",
+    "https://www.facebook.com/groups/miaigroup/posts/1845895362848394/",
+    "https://www.facebook.com/groups/1283855437217819/posts/1331546779115351/",
+    "https://www.facebook.com/groups/binhdanhocai/posts/669885138833577/",
+    "https://www.facebook.com/groups/claudeaicommunity/posts/1268858508614647/",
+    "https://www.facebook.com/takigptai/videos/comment-community-and-ill-send-you-the-link-and-prompt-to-set-up-all-five-connec/1666178591789858/",
+    "https://www.facebook.com/groups/1283855437217819/posts/1364831509120211/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Firecrawl note 社長",
+   "results": [
+    "https://www.firecrawl.dev/changelog",
+    "https://note.com/ai_dev_lab/n/n6a07ed6542a5",
+    "https://note.com/gtminami/n/n96c3c8ca99d6",
+    "https://www.linkedin.com/in/eric-ciarla",
+    "https://github.com/firecrawl",
+    "https://www.youtube.com/watch?v=Y-olSZKotb8",
+    "https://note.com/startup_now0708/n/n294945cdbe66",
+    "https://finance.yahoo.com/news/ai-crawler-firecrawl-raises-14-110000951.html",
+    "https://zenn.dev/takna/articles/firecrawl-alexandria-intro",
+    "https://www.cbinsights.com/company/sideguide-1/people"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Firecrawl X 投稿",
+   "results": [
+    "https://x.com/firecrawl",
+    "https://www.firecrawl.dev/",
+    "https://github.com/firecrawl/firecrawl/discussions/1362",
+    "https://www.youtube.com/watch?v=0HrF1C3e47s&vl=ja",
+    "https://latenode.com/integrations/firecrawl/x-twitter",
+    "https://xautodm.com/xautodm-vs-firecrawl",
+    "https://zenn.dev/upgradetech/articles/f157fcca815e0c",
+    "https://www.reddit.com/r/n8n/comments/1srv8ko/article_into_a_highquality_social_post_in_n8n/?tl=ja",
+    "https://twitterapi.io/blog/firecrawl-alternatives",
+    "https://x.com/firecrawldev"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部39頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部39頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部39頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部39頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部39頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部39頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部39頁・検索12回）"
+ }
+}

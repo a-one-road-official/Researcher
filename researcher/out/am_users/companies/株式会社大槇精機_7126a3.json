@@ -1,0 +1,1093 @@
+{
+ "name": "株式会社大槇精機",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T23:10:26.959950+00:00",
+ "official_url": "http://www.disn.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "拠点": [
+   {
+    "label": "南工場",
+    "value": "〒351-0014 埼玉県朝霞市膝折町4-8-12 TEL: 048-458-6336 FAX:048-464-7842",
+    "url": "http://www.disn.co.jp/",
+    "pass": 1
+   },
+   {
+    "label": "南工場",
+    "value": "〒351-0014 埼玉県朝霞市膝折町4-8-12 TEL: 048-458-6336 FAX:048-464-7842",
+    "url": "http://www.disn.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "南工場",
+    "value": "〒351-0014 埼玉県朝霞市膝折町4-8-12 TEL: 048-458-6336 FAX:048-464-7842",
+    "url": "http://www.disn.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "label": "南工場",
+    "value": "〒351-0014 埼玉県朝霞市膝折町4-8-12 TEL: 048-458-6336 FAX:048-464-7842",
+    "url": "http://www.disn.co.jp/spirits/",
+    "pass": 1
+   },
+   {
+    "label": "南工場",
+    "value": "〒351-0014 埼玉県朝霞市膝折町4-8-12 TEL: 048-458-6336 FAX:048-464-7842",
+    "url": "https://disn.co.jp/about/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "​代表取締役社長　大町亮介",
+    "url": "http://www.disn.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "​代表取締役社長　大町亮介",
+    "url": "https://disn.co.jp/about/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "​本社 〒107-0062　東京都港区南青山3-2-2 TEL：03-6434-0625 生産本部 〒351-0014　埼玉県朝霞市膝折町4-8-45 TEL：048-462-0832 南工場 〒351-0014　埼玉県朝霞市膝折町4-8-12 TEL：048-458-6336 ※お問い合わせは生産本部へお願いします",
+    "url": "http://www.disn.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "​本社 〒107-0062　東京都港区南青山3-2-2 TEL：03-6434-0625 生産本部 〒351-0014　埼玉県朝霞市膝折町4-8-45 TEL：048-462-0832 南工場 〒351-0014　埼玉県朝霞市膝折町4-8-12 TEL：048-458-6336 ※お問い合わせは生産本部へお願いします",
+    "url": "https://disn.co.jp/about/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "業務内容",
+    "value": "​二輪・四輪自動車用試作部品・レース部品・航空宇宙部品 防衛部品・船外機部品・半導体部品・真空部品・ロボット部品 各種治具製作・機械加工全般・木型製作・アルミニウム合金鋳造・FC/FCD鋳造・各種金属鋳造・試作開発サポート・デザイン開発",
+    "url": "http://www.disn.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "​二輪・四輪自動車用試作部品・レース部品・航空宇宙部品 防衛部品・船外機部品・半導体部品・真空部品・ロボット部品 各種治具製作・機械加工全般・木型製作・アルミニウム合金鋳造・FC/FCD鋳造・各種金属鋳造・試作開発サポート・デザイン開発",
+    "url": "https://disn.co.jp/about/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "AM関連": [
+   {
+    "quote": "最新情報はFacebook,Instagram,Youtubeをご覧ください",
+    "url": "http://www.disn.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "イタリア、CAM AWARD 日本企業初受賞",
+    "url": "http://www.disn.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ドイツ製5軸加工機10台、5軸CAM（hyperMILL）12ライセンスを保有し、同時5軸加工による複雑形状の削り出しを得意としています",
+    "url": "http://www.disn.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "CATIAによるモデリングからCAM、加工までを社内で完結できる体制が、試作開発のスピードを支えています",
+    "url": "http://www.disn.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "デザインデータの作成から同時5軸加工による造形まで、意匠性の高い金属製品の開発をお手伝いします",
+    "url": "http://www.disn.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "多数の高精度マシンをはじめ最新のドイツ製5軸加工機を10台、5軸CAMを12ライセンス保有し、高速レスポンスで従来の機械加工では想像もつかないような高精度で複雑な部品を生産し続けています",
+    "url": "http://www.disn.co.jp/spirits/",
+    "pass": 1
+   },
+   {
+    "quote": "CAD／CAM Dassault CATIA V5 2",
+    "url": "http://www.disn.co.jp/pdf/equipment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コンピュータ・エンジニアリング TAM－BOY－NT 1",
+    "url": "http://www.disn.co.jp/pdf/equipment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "TAM－BOY－3D 2",
+    "url": "http://www.disn.co.jp/pdf/equipment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Pathtrace edgeCAM 1",
+    "url": "http://www.disn.co.jp/pdf/equipment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "DuraMax 1",
+    "url": "http://www.disn.co.jp/pdf/equipment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "YAMATOKOKl CG－200N 1",
+    "url": "http://www.disn.co.jp/pdf/equipment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "多数の高精度マシンをはじめ最新のドイツ製5軸加工機を10台、5軸CAMを12ライセンス保有し、高速レスポンスで従来の機械加工では想像もつかないような高精度で複雑な部品を生産し続けています",
+    "url": "https://disn.co.jp/spirits/",
+    "pass": 3
+   },
+   {
+    "quote": "◎ 切削加工ドリームコンテスト金賞 ◎CAM AWARDアジア初受賞",
+    "url": "https://www.pref.saitama.lg.jp/robotics/database/0421.html",
+    "pass": 3
+   },
+   {
+    "quote": "イタリア、CAM AWARD 日本企業初受賞",
+    "url": "https://disn.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "5軸加工機10台と5軸CAM12ライセンスの体制により、データ受領から加工までのリードタイムを短くできることが強みです",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "さらに、自社ブランド「DDS」では、技術とデザインの融合をテーマに、創造性あふれる製品や技術サンプルを発信し続けています",
+    "url": "http://www.disn.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "​DDS製品 ㈱森精機製作所様 公認商品に認定",
+    "url": "http://www.disn.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "許可いただいたものやオリジナルで製作した製品を掲載させていただいております",
+    "url": "http://www.disn.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "デザインデータの作成から同時5軸加工による造形まで、意匠性の高い金属製品の開発をお手伝いします",
+    "url": "http://www.disn.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "MotoGPやF1の1/1000秒を争う世界最高峰レース部品の製造で鍛えられた高品質・短納期・適正コストは現在、モビリティー部品はもちろん、航空宇宙部品・防衛部品・造船部品・半導体部品・真空部品等の様々な分野に付加価値の高い製品を送り出しています",
+    "url": "http://www.disn.co.jp/spirits/",
+    "pass": 1
+   },
+   {
+    "quote": "これからも大槇精機の技能集団が生み出す製品群にご期待下さいませ",
+    "url": "http://www.disn.co.jp/spirits/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の鋳造技術は古来より伝わる砂型鋳造を原点とし、明治時代から改良と改善を重ね、砂型でも高精度な薄肉鋳造や鋳肌の綺麗な製品を提供しております",
+    "url": "http://www.disn.co.jp/spirits/",
+    "pass": 1
+   },
+   {
+    "quote": "各工程で熟練の作業者が妥協を許さずに製品と向き合い、安定した品質管理を実施しながらも、スピーディな納期設定での提供を可能にしています",
+    "url": "http://www.disn.co.jp/spirits/",
+    "pass": 1
+   },
+   {
+    "quote": "その製品は世界最高峰のレース部品から各大手メーカー様の試作開部品、小ロット量産部品として様々な分野で活用されています",
+    "url": "http://www.disn.co.jp/spirits/",
+    "pass": 1
+   },
+   {
+    "quote": "​​年間数千点に及ぶ製品の一つ一つを品質保証するその作業は、一瞬の隙も許されません",
+    "url": "http://www.disn.co.jp/spirits/",
+    "pass": 1
+   },
+   {
+    "quote": "このセクションを通過した製品のみに「ダイシンブランド」が宿ります",
+    "url": "http://www.disn.co.jp/spirits/",
+    "pass": 1
+   },
+   {
+    "quote": "MotoGPやF1の1/1000秒を争う世界最高峰レース部品の製造で鍛えられた高品質・短納期・適正コストは現在、モビリティー部品はもちろん、航空宇宙部品・防衛部品・造船部品・半導体部品・真空部品等の様々な分野に付加価値の高い製品を送り出しています",
+    "url": "https://disn.co.jp/spirits/",
+    "pass": 3
+   },
+   {
+    "quote": "これからも大槇精機の技能集団が生み出す製品群にご期待下さいませ",
+    "url": "https://disn.co.jp/spirits/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社の鋳造技術は古来より伝わる砂型鋳造を原点とし、明治時代から改良と改善を重ね、砂型でも高精度な薄肉鋳造や鋳肌の綺麗な製品を提供しております",
+    "url": "https://disn.co.jp/spirits/",
+    "pass": 3
+   },
+   {
+    "quote": "各工程で熟練の作業者が妥協を許さずに製品と向き合い、安定した品質管理を実施しながらも、スピーディな納期設定での提供を可能にしています",
+    "url": "https://disn.co.jp/spirits/",
+    "pass": 3
+   },
+   {
+    "quote": "その製品は世界最高峰のレース部品から各大手メーカー様の試作開部品、小ロット量産部品として様々な分野で活用されています",
+    "url": "https://disn.co.jp/spirits/",
+    "pass": 3
+   },
+   {
+    "quote": "​​年間数千点に及ぶ製品の一つ一つを品質保証するその作業は、一瞬の隙も許されません",
+    "url": "https://disn.co.jp/spirits/",
+    "pass": 3
+   },
+   {
+    "quote": "このセクションを通過した製品のみに「ダイシンブランド」が宿ります",
+    "url": "https://disn.co.jp/spirits/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、自社ブランド「DDS」では、技術とデザインの融合をテーマに、創造性あふれる製品や技術サンプルを発信し続けています",
+    "url": "https://disn.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "​DDS製品 ㈱森精機製作所様 公認商品に認定",
+    "url": "https://disn.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(4)",
+    "url": "https://mono.ipros.com/company/detail/2008192/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (4)",
+    "url": "https://mono.ipros.com/company/detail/2008192/",
+    "pass": 3
+   },
+   {
+    "quote": "あわせて、用途・最終製品、要求精度・検査条件、NDAの必要有無をお知らせいただけると、より正確なご提案が可能です",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 製品写真や実績を多く公開していない理由は何ですか？",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "​二輪・四輪自動車用試作部品・レース部品・航空宇宙部品",
+    "url": "http://www.disn.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "各種治具製作・機械加工全般・木型製作・アルミニウム合金鋳造・FC/FCD鋳造・各種金属鋳造・試作開発サポート・デザイン開発",
+    "url": "http://www.disn.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "​「ＤＡＩＳＨＩＮ」の頭文字Ｄに曲線でスピ​ード感・直線で信頼性を表し、強い方向性とシャープなエッジ感を持ったフォルムの中に丸みある柔らかいイメージを調和させ、試作業務には欠かせない柔軟性も同時に表現しています",
+    "url": "http://www.disn.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "CATIAによるモデリングからCAM、加工までを社内で完結できる体制が、試作開発のスピードを支えています",
+    "url": "http://www.disn.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "木型・鋳造・切削・測定を一連の流れで管理することで、試作から小ロット量産まで、品質と納期を両立した部品づくりが可能です",
+    "url": "http://www.disn.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "試作開発や、1個からの単品加工に対応しています",
+    "url": "http://www.disn.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "パレット自動搬送をはじめとする自動化設備の活用により、試作で確立した品質をそのまま小ロット量産へ展開できることが強みです",
+    "url": "http://www.disn.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "近年では試作開発だけでなく、自動化の推進により小ロッド量産にも着手し高い技術力の安定供給が始まっております",
+    "url": "http://www.disn.co.jp/spirits/",
+    "pass": 1
+   },
+   {
+    "quote": "その製品は世界最高峰のレース部品から各大手メーカー様の試作開部品、小ロット量産部品として様々な分野で活用されています",
+    "url": "http://www.disn.co.jp/spirits/",
+    "pass": 1
+   },
+   {
+    "quote": "近年では試作開発だけでなく、自動化の推進により小ロッド量産にも着手し高い技術力の安定供給が始まっております",
+    "url": "https://disn.co.jp/spirits/",
+    "pass": 3
+   },
+   {
+    "quote": "その製品は世界最高峰のレース部品から各大手メーカー様の試作開部品、小ロット量産部品として様々な分野で活用されています",
+    "url": "https://disn.co.jp/spirits/",
+    "pass": 3
+   },
+   {
+    "quote": "試作機械加工・試作開発サポート・DDSデザイン開発",
+    "url": "https://www.pref.saitama.lg.jp/robotics/database/0421.html",
+    "pass": 3
+   },
+   {
+    "quote": "二輪・四輪自動車試作部品・レース部品、航空宇宙部品、各種高精度装置部品、DDS（デザイン事業部）ツールキャビネット・ツールワゴン",
+    "url": "https://www.pref.saitama.lg.jp/robotics/database/0421.html",
+    "pass": 3
+   },
+   {
+    "quote": "​二輪・四輪自動車用試作部品・レース部品・航空宇宙部品",
+    "url": "https://disn.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "各種治具製作・機械加工全般・木型製作・アルミニウム合金鋳造・FC/FCD鋳造・各種金属鋳造・試作開発サポート・デザイン開発",
+    "url": "https://disn.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "​「ＤＡＩＳＨＩＮ」の頭文字Ｄに曲線でスピ​ード感・直線で信頼性を表し、強い方向性とシャープなエッジ感を持ったフォルムの中に丸みある柔らかいイメージを調和させ、試作業務には欠かせない柔軟性も同時に表現しています",
+    "url": "https://disn.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちはこのような加速度的な変化の中、試作屋の命ともいえる「技術とレスポンス」でお客様のニーズにお応えしてまいります",
+    "url": "https://mono.ipros.com/company/detail/2008192/",
+    "pass": 3
+   },
+   {
+    "quote": "二輪・四輪自動車用試作部品・レース部品・航空機試作部品",
+    "url": "https://mono.ipros.com/company/detail/2008192/",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット部品・試作開発サポート・各種治具製作・機械加工全般",
+    "url": "https://mono.ipros.com/company/detail/2008192/",
+    "pass": 3
+   },
+   {
+    "quote": "よくあるご相談・Q&A｜5軸加工・鋳造・試作開発のご相談｜大槇精機",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 1個だけの試作加工も依頼できますか？",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "同時5軸加工により、複雑形状の一点物や治具、開発部品にも対応します",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 小ロット量産はどのくらいの数量から相談できますか？",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "パレット自動搬送などの自動化設備により、試作で確立した品質を安定して小ロット量産へ展開できます",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "​二輪・四輪自動車用試作部品・レース部品・航空宇宙部品",
+    "url": "http://www.disn.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "防衛部品・船外機部品・半導体部品・真空部品・ロボット部品",
+    "url": "http://www.disn.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "各種治具製作・機械加工全般・木型製作・アルミニウム合金鋳造・FC/FCD鋳造・各種金属鋳造・試作開発サポート・デザイン開発",
+    "url": "http://www.disn.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車・コンプレッサー・エンジン部品の製造を行う",
+    "url": "http://www.disn.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "​​​航空宇宙品質認証規格 JISQ9100取得",
+    "url": "http://www.disn.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙・防衛分野の品質マネジメント規格 JIS Q 9100:2016 および JIS Q 9001:2015 の認証を取得しています（認証番号 BSKA0244／宇宙部品の製造）",
+    "url": "http://www.disn.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "MotoGPやF1の1/1000秒を争う世界最高峰レース部品の製造で鍛えられた高品質・短納期・適正コストは現在、モビリティー部品はもちろん、航空宇宙部品・防衛部品・造船部品・半導体部品・真空部品等の様々な分野に付加価値の高い製品を送り出しています",
+    "url": "http://www.disn.co.jp/spirits/",
+    "pass": 1
+   },
+   {
+    "quote": "取り扱う材質はアルミニウム合金、鋳鉄を主とし、マグネシウム合金、亜鉛合金、銅合金、鋳鋼などさまざまで、その鋳造法は、生砂、自硬性、自動造型、砂型積層、低圧、簡易金型等、伝統的なものから最先端の技術までアプローチが可能です",
+    "url": "http://www.disn.co.jp/spirits/",
+    "pass": 1
+   },
+   {
+    "quote": "MILLTAP 700 1 同時５軸 量産ロボット付き",
+    "url": "http://www.disn.co.jp/pdf/equipment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "多関節ロボット デンソー VM-60B1M-W 1 リーチ：1298㎜ 最大可搬質量：13Kg",
+    "url": "http://www.disn.co.jp/pdf/equipment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "MotoGPやF1の1/1000秒を争う世界最高峰レース部品の製造で鍛えられた高品質・短納期・適正コストは現在、モビリティー部品はもちろん、航空宇宙部品・防衛部品・造船部品・半導体部品・真空部品等の様々な分野に付加価値の高い製品を送り出しています",
+    "url": "https://disn.co.jp/spirits/",
+    "pass": 3
+   },
+   {
+    "quote": "取り扱う材質はアルミニウム合金、鋳鉄を主とし、マグネシウム合金、亜鉛合金、銅合金、鋳鋼などさまざまで、その鋳造法は、生砂、自硬性、自動造型、砂型積層、低圧、簡易金型等、伝統的なものから最先端の技術までアプローチが可能です",
+    "url": "https://disn.co.jp/spirits/",
+    "pass": 3
+   },
+   {
+    "quote": "◎ 高度切削加工技術を活かしロボット関連事業における高難易度加工部品を短納期で形にします",
+    "url": "https://www.pref.saitama.lg.jp/robotics/database/0421.html",
+    "pass": 3
+   },
+   {
+    "quote": "二輪・四輪自動車試作部品・レース部品、航空宇宙部品、各種高精度装置部品、DDS（デザイン事業部）ツールキャビネット・ツールワゴン",
+    "url": "https://www.pref.saitama.lg.jp/robotics/database/0421.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット関連技術PRカード（PDF：302KB）",
+    "url": "https://www.pref.saitama.lg.jp/robotics/database/0421.html",
+    "pass": 3
+   },
+   {
+    "quote": "​二輪・四輪自動車用試作部品・レース部品・航空宇宙部品",
+    "url": "https://disn.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛部品・船外機部品・半導体部品・真空部品・ロボット部品",
+    "url": "https://disn.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "各種治具製作・機械加工全般・木型製作・アルミニウム合金鋳造・FC/FCD鋳造・各種金属鋳造・試作開発サポート・デザイン開発",
+    "url": "https://disn.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車・コンプレッサー・エンジン部品の製造を行う",
+    "url": "https://disn.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "​​​航空宇宙品質認証規格 JISQ9100取得",
+    "url": "https://disn.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "二輪・四輪自動車用試作部品・レース部品・航空機試作部品",
+    "url": "https://mono.ipros.com/company/detail/2008192/",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット部品・試作開発サポート・各種治具製作・機械加工全般",
+    "url": "https://mono.ipros.com/company/detail/2008192/",
+    "pass": 3
+   },
+   {
+    "quote": "同時5軸加工により、複雑形状の一点物や治具、開発部品にも対応します",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・防衛・モビリティ（自動車・二輪）・造船・半導体・真空機器など、幅広い分野の部品に対応しています",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "モータースポーツ最高峰の部品製造で鍛えた品質・納期対応力を基盤に、JAXA関連部品をはじめとする航空宇宙部品まで、高い要求水準の分野で実績を重ねています",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・防衛分野の品質マネジメント規格 JIS Q 9100:2016 および JIS Q 9001:2015 の認証を取得しています（認証番号 BSKA0244／宇宙部品の製造）",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "受託加工にとどまらず、チタン削り出しのクラウンやDALI MASK、AERO Pinsなどの自社オリジナルプロダクトを企画・製作しています",
+    "url": "http://www.disn.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンクラウン 5軸加工動画",
+    "url": "http://www.disn.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "材質・数量・希望納期を添えてお送りいただくとスムーズです",
+    "url": "http://www.disn.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "取り扱う材質はアルミニウム合金、鋳鉄を主とし、マグネシウム合金、亜鉛合金、銅合金、鋳鋼などさまざまで、その鋳造法は、生砂、自硬性、自動造型、砂型積層、低圧、簡易金型等、伝統的なものから最先端の技術までアプローチが可能です",
+    "url": "http://www.disn.co.jp/spirits/",
+    "pass": 1
+   },
+   {
+    "quote": "取り扱う材質はアルミニウム合金、鋳鉄を主とし、マグネシウム合金、亜鉛合金、銅合金、鋳鋼などさまざまで、その鋳造法は、生砂、自硬性、自動造型、砂型積層、低圧、簡易金型等、伝統的なものから最先端の技術までアプローチが可能です",
+    "url": "https://disn.co.jp/spirits/",
+    "pass": 3
+   },
+   {
+    "quote": "用途・おおよその形状やサイズ・材質・数量・希望時期が見えた段階でご連絡いただくと、加工・鋳造・品質保証の観点から具体的に検討できます",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "ご相談前に整理をお願いしたい情報：用途／おおよその形状・サイズ／想定している材質／数量／希望時期",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "ご相談時にあると助かる情報：データ形式（STEPなど）／材質／数量／重要な公差・仕上げの指示",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "「図面または3Dデータ・材質・数量・希望納期」の4点があれば、お見積りを開始できます",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "ご相談時にあると助かる情報：図面または3Dデータ／材質／希望納期",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "形状・材質・検査条件によって変わるため、個別にご相談ください",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム合金・チタン・ステンレス・鉄鋼材料など、金属材料全般に対応しています",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "難削材や特殊材については、材質名をお知らせいただければ個別に確認いたします",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "ご相談時にあると助かる情報：材質名（規格記号）／支給材の有無",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "ご相談時にあると助かる情報：材質／数量／図面または3Dデータ／木型の有無",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Spirits｜想像を創造する モノづくり集団 株式会社 大槇精機 — Spirits｜想像を創造する モノづくり集団 株式会社 大槇精機 disn.co.jp https://disn.co.jp > spirits",
+    "url": "https://disn.co.jp/spirits/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 大槇精機 - 埼玉県 — 株式会社 大槇精機 - 埼玉県 埼玉県 https://www.pref.saitama.lg.jp > robotics > database",
+    "url": "https://www.pref.saitama.lg.jp/robotics/database/0421.html",
+    "pass": 3
+   },
+   {
+    "quote": "大槇精機 | 企業情報 | イプロスものづくり — 大槇精機 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 機械要素・部品",
+    "url": "https://mono.ipros.com/company/detail/2008192/",
+    "pass": 3
+   },
+   {
+    "quote": "About｜想像を創造する モノづくり集団 株式 会社大槇精機 — About｜想像を創造する モノづくり集団 株式 会社大槇精機 disn.co.jp https://disn.co.jp > about",
+    "url": "https://disn.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社大槇精機 - 埼玉県 — 株式 会社大槇精機 - 埼玉県 埼玉県 https://www.pref.saitama.lg.jp > robotics > database",
+    "url": "https://www.pref.saitama.lg.jp/robotics/database/0421.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 大槇精機 の 会社概要 ・製品情報 - Metoree — 株式会社 大槇精機 の 会社概要 ・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/8017/",
+    "pass": 3
+   },
+   {
+    "quote": "【株式 会社大槇精機 】の採用サイト — 【株式 会社大槇精機 】の採用サイト arwrk.net https://arwrk.net > recruit",
+    "url": "https://arwrk.net/recruit/vrl5i0t6quj9z6v/",
+    "pass": 3
+   },
+   {
+    "quote": "よくあるご相談・Q&A｜5軸加工・鋳造・試作開発 ... - 大槇精機 — よくあるご相談・Q&A｜5軸加工・鋳造・試作開発 ... - 大槇精機 disn.co.jp https://disn.co.jp > faq",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 大槇精機 への お問い合わせ - NCネットワーク — 株式会社 大槇精機 への お問い合わせ - NCネットワーク エミダス https://ja.nc-net.or.jp > company > inquiry > input",
+    "url": "https://ja.nc-net.or.jp/company/85583/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 大槇精機 | 医療機器開発のパートナーが探せるサイト ... — 株式会社 大槇精機 | 医療機器開発のパートナーが探せるサイト ... tokyo-monodukuri-seeds.jp https://tokyo-monodukuri-seeds.jp > corporate",
+    "url": "https://tokyo-monodukuri-seeds.jp/corporate/153",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お問い合わせ前にご一読いただくと、その後のやり取りがスムーズになります",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "ご相談の際は、下のボタンから開くメールテンプレートに沿ってご記入ください",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "本ページの「メールで相談する」ボタンには、これらの項目を記載したテンプレートが設定されています",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "「何を・いつまでに・どのくらい」の3点を、メールでお送りいただくのが最短です",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "本ページの「メールで相談する」ボタンから、テンプレートに沿ってご記入ください",
+    "url": "https://disn.co.jp/faq/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "#HILLTOP_日常 大槇精機様からいただいたピンクキャビネットとNEW MAM... HILLTOP株式会社 公式 (@HILLTOP_Corp). 49 likes. #HILLTOP_日常 大槇精機様からいただいたピンクキャビネットとNEW MAM72-35Vがすごくマッチしております",
+    "url": "https://x.com/HILLTOP_Corp/status/1567347077969252352",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "大町 哲夫 - 株式会社 大槇精機 - 相談役 | LinkedIn大東精機（株） | LinkedIn10 \"Shiobara\" profiles | LinkedIn30+ \"Makioka\" profiles | LinkedIn大槇 義光 - Academia MAGIS | LinkedInDelfina Lanusse - Medical Doctor | LinkedInGybran Sánchez - WEG | LinkedIn 株式会社 大槇精機 - 相談役 · 職歴: 株式会社 大槇精機 · 場所: 埼玉県 · LinkedInのつながり1人。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで大町 哲夫さんのプロフィールを閲覧しましょう。 大東精機（株） 機械製造業 尼崎市東初島町、兵庫県 8人のフォロワー View the profi",
+    "url": "https://jp.linkedin.com/in/哲夫-大町-92a53b168",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "DAISHIN SEIKI CORPORATION 株式会社 大槇精機 - Facebook DAISHIN SEIKI CORPORATION 株式会社 大槇精機 - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/daishin.seiki/",
+    "pass": 3
+   },
+   {
+    "quote": "DAISHIN SEIKI CORPORATION 株式会社 大槇精機 | Asaka-shi ... DAISHIN SEIKI CORPORATION 株式会社 大槇精機 | Asaka-shi ... Facebook https://www.facebook.com > media > set",
+    "url": "https://www.facebook.com/media/set/?vanity=daishin.seiki&set=a.522843379649417",
+    "pass": 3
+   },
+   {
+    "quote": "DAISHIN SEIKI CORPORATION 株式会社 大槇精機 | Asaka-shi ... DAISHIN SEIKI CORPORATION 株式会社 大槇精機 | Asaka-shi ... Facebook https://www.facebook.com > daishin.seiki > albums",
+    "url": "https://www.facebook.com/daishin.seiki/albums/522843389649416/",
+    "pass": 3
+   },
+   {
+    "quote": "DAISHIN SEIKI CORPORATION 株式会社 大槇精機 - Facebook DAISHIN SEIKI CORPORATION 株式会社 大槇精機 - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/daishin.seiki/?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.disn.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.disn.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.disn.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.disn.co.jp/spirits/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "http://www.disn.co.jp/pdf/equipment.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.disn.co.jp/img/products/helmet-1-thumnail.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.disn.co.jp/img/products/helmet-2-thumnail.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.disn.co.jp/img/products/helmet-3-thumnail.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.disn.co.jp/img/products/helmet-4-thumnail.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.disn.co.jp/img/products/helmet-5-thumnail.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.disn.co.jp/img/products/cyuzo-1-thumnail.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.disn.co.jp/img/products/crown-1-thumnail.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.disn.co.jp/img/products/crown-2-thumnail.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.disn.co.jp/img/products/crown-3-thumnail.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.disn.co.jp/img/products/crown-4-thumnail.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.disn.co.jp/img/products/crown-5-thumnail.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.disn.co.jp/img/products/cyuzo-2-thumnail.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://disn.co.jp/spirits/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saitama.lg.jp/robotics/database/0421.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://disn.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2008192/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saitama.lg.jp/robotics/database/0421.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://disn.co.jp/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2008192/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saitama.lg.jp/robotics/database/0421.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/HILLTOP_Corp/status/1567347077969252352",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/哲夫-大町-92a53b168",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/daishin.seiki/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/media/set/?vanity=daishin.seiki&set=a.522843379649417",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/daishin.seiki/albums/522843389649416/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/daishin.seiki/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/daishin.seiki/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "大槇精機 取扱製品 試作 小ロット",
+   "results": [
+    "https://disn.co.jp/spirits/",
+    "https://www.pref.saitama.lg.jp/robotics/database/0421.html",
+    "https://injection-lab.com/technology/64-2.html",
+    "https://mono.ipros.com/company/detail/2008192/",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://ja.nc-net.or.jp/company/85583/",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.facebook.com/daishin.seiki/?locale=ja_JP",
+    "https://tokyo-monodukuri-seeds.jp/corporate/153",
+    "https://disn.co.jp/products/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "大槇精機 会社概要 事業内容",
+   "results": [
+    "https://disn.co.jp/about/",
+    "https://mono.ipros.com/company/detail/2008192/",
+    "https://www.pref.saitama.lg.jp/robotics/database/0421.html",
+    "https://metoree.com/companies/8017/",
+    "https://arwrk.net/recruit/vrl5i0t6quj9z6v/",
+    "https://tokyo-monodukuri-seeds.jp/corporate/153",
+    "https://www.youtube.com/user/dolce650i",
+    "https://www.facebook.com/daishin.seiki/?locale=ja_JP",
+    "https://compalyze.co.jp/company/9011401003755",
+    "https://disn.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "大槇精機 お問い合わせ メール",
+   "results": [
+    "https://disn.co.jp/faq/",
+    "https://mono.ipros.com/company/detail/2008192/",
+    "https://www.pref.saitama.lg.jp/robotics/database/0421.html",
+    "https://ja.nc-net.or.jp/company/85583/inquiry/input/",
+    "https://tokyo-monodukuri-seeds.jp/corporate/153",
+    "https://arwrk.net/recruit/vrl5i0t6quj9z6v/",
+    "https://www.facebook.com/daishin.seiki/?locale=ja_JP",
+    "https://daishindesign.com/custom-made/",
+    "https://www.instagram.com/daishin_seiki_official/",
+    "https://ja.nc-net.or.jp/company/85583/inquiry/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 大槇精機",
+   "results": [
+    "https://note.com/sion_remake0415/n/naad1a45fee62",
+    "https://note.com/deep_think_ai/n/nea4a83f6b3ee",
+    "https://note.com/mzypzy189/n/n15d168a17ba9",
+    "https://note.com/gifted_macaw324/n/n6c8e64357f16",
+    "https://note.com/legal_literacy/n/n7d5a669a19b5",
+    "https://note.com/apako_news/n/naf4abc6fa198",
+    "https://note.com/onki/n/n5860748a5f55",
+    "https://note.com/clipcorporation/n/na436b705ea10",
+    "https://note.com/clipcorporation/n/n2af20e536197",
+    "https://note.com/clipcorporation/n/n2cbddc784d34"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 大槇精機",
+   "results": [
+    "https://x.com/pertechtual",
+    "https://x.com/3l_mishima",
+    "https://x.com/HILLTOP_Corp/status/1567347077969252352",
+    "https://about.x.com/en",
+    "https://x.com/ske12161216",
+    "https://x.com/ske12161216/status/2078842028033757684",
+    "https://x.com/makishinori74/status/2120295504940806303",
+    "https://x.com/BIG_DAISHOWA",
+    "https://x.com/ohnoseiki"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com 大槇精機",
+   "results": [
+    "https://jp.linkedin.com/in/yasushi-nishimura-093794164",
+    "https://jp.linkedin.com/in/哲夫-大町-92a53b168",
+    "https://www.linkedin.com/pub/dir/Shiobara/+",
+    "https://br.linkedin.com/in/artur-omaki-24b666333/ja",
+    "https://ar.linkedin.com/in/delfina-lanusse-5a225b237",
+    "https://mx.linkedin.com/in/gybran-sánchez-wegpq8",
+    "https://jp.linkedin.com/company/大東精機（株）",
+    "https://www.linkedin.com/pub/dir/+/Makioka"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:facebook.com 大槇精機",
+   "results": [
+    "https://www.facebook.com/daishin.seiki/",
+    "https://www.facebook.com/media/set/?vanity=daishin.seiki&set=a.522843379649417",
+    "https://www.facebook.com/daishin.seiki/posts/%E5%8D%83%E8%91%89%E7%9C%8C%E9%87%91%E5%9E%8B%E5%B7%A5%E6%A5%AD%E4%BC%9A%E3%81%AE%E7%9A%86%E6%A7%98%E3%81%AB%E3%82%88%E3%82%8B%E8%A6%96%E5%AF%9F%E7%A0%94%E4%BF%AE%E4%BC%9A%E3%81%8C%E8%A1%8C%E3%82%8F%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E5%90%8C%E3%81%98%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E3%82%92%E6%89%8B%E3%81%8C%E3%81%91%E3%82%8B%E4%BC%81%E6%A5%AD%E6%A7%98%E3%81%8C%E5%A4%9A%E3%81%8F%E9%9D%9E%E5%B8%B8%E3%81%AB%E6%B4%BB%E7%99%BA%E3%81%A7%E6%9C%89%E6%84%8F%E7%BE%A9%E3%81%AA%E6%84%8F%E8%A6%8B%E4%BA%A4%E6%8F%9B%E3%81%AE%E5%A0%B4%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E5%BC%8A%E7%A4%BE%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF%E3%81%AB%E3%82%82%E5%A4%A7%E5%A4%89%E9%AB%98%E3%81%84%E9%96%A2%E5%BF%83/1316880333579047/",
+    "https://www.facebook.com/daishin.seiki/albums/522843389649416/",
+    "https://www.facebook.com/daishin.seiki/posts/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%81%8B%E3%82%89%E5%AC%89%E3%81%97%E3%81%84%E3%81%8A%E5%AE%A2%E6%A7%98%E5%BD%93%E7%A4%BE%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E5%8A%A0%E5%B7%A5%E3%82%92%E6%94%AF%E3%81%88%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%81%AE%E5%B7%A5%E5%85%B7%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AE%E7%9A%86%E3%81%95%E3%81%BE%E3%81%8C%E6%9D%A5%E7%A4%BE%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%A9%E3%82%8C%E3%81%A0%E3%81%91%E9%AB%98%E6%80%A7%E8%83%BD%E3%81%AA%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%82%82%E6%9C%80%E5%BE%8C%E3%81%AB%E6%9D%90%E6%96%99/1553471916586553/",
+    "https://www.facebook.com/daishin.seiki/posts/%E6%9C%AC%E6%97%A58%E6%9C%8824%E6%97%A5%E4%BB%98%E3%81%AE%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%82%E3%81%99%E3%82%92%E5%89%B5%E3%82%8B%E5%9F%BC%E7%8E%89%E3%81%AE%E4%BB%A3%E8%A1%A8%E4%BC%81%E6%A5%AD%E3%81%A8%E8%A3%BD%E5%93%81%E3%81%AB%E5%A4%A7%E6%A7%87%E7%B2%BE%E6%A9%9F%E3%82%92%E6%8E%B2%E8%BC%89%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E8%A8%98%E4%BA%8B%E3%81%AE%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E3%81%AFai%E5%8F%96%E7%B7%A0%E5%BD%B9%E4%BC%9A%E5%A7%8B%E5%8B%95%E6%A5%BD%E3%81%97%E3%81%8F%E6%9C%AA%E6%9D%A5%E3%81%B8%E6%8C%91%E3%82%80ai%E3%82%92%E3%81%A9%E3%81%86%E7%B5%8C%E5%96%B6%E3%82%84%E4%BB%95%E4%BA%8B%E3%81%AB/1493326139267798/",
+    "https://www.facebook.com/daishin.seiki/posts/jimtof2026%E3%81%AF%E5%8D%974%E3%83%9B%E3%83%BC%E3%83%AB%E3%81%B8%E4%BB%8A%E5%9B%9E%E3%81%AEjimtof2026%E3%81%A7%E3%81%AF%E5%8D%974%E3%83%9B%E3%83%BC%E3%83%AB%E3%81%AE2%E3%81%A4%E3%81%AE%E3%83%96%E3%83%BC%E3%82%B9%E3%81%A7%E5%A4%A7%E6%A7%87%E7%B2%BE%E6%A9%9F%E3%81%AE%E3%83%A2%E3%83%8E%E3%81%A5%E3%81%8F%E3%82%8A%E3%82%92%E3%81%94%E8%A6%A7%E3%81%84%E3%81%9F%E3%81%A0%E3%81%91%E3%81%BE%E3%81%99%E3%81%BE%E3%81%9A%E3%81%AFjimtof-insigh/1546530877280657/",
+    "https://www.facebook.com/daishin.seiki/posts/fika-week%E4%BB%8A%E9%80%B1%E3%81%AE%E5%A4%A7%E6%A7%87%E7%B2%BE%E6%A9%9F%E3%81%AF%E5%90%84%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%A7fika%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%A5%B3%E5%AD%90%E7%A4%BE%E5%93%A1%E3%81%AE%E6%8F%90%E6%A1%88%E3%81%A7%E5%A7%8B%E3%81%BE%E3%81%A3%E3%81%9F%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3%E3%81%AE%E6%96%87%E5%8C%96fikafika%E3%81%AF%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%84%E3%81%8A%E8%8F%93%E5%AD%90%E3%82%92%E6%A5%BD%E3%81%97%E3%81%BF/1520781646522247/",
+    "https://www.facebook.com/iot.takeolab/posts/%E3%81%A9%E3%81%86%E3%82%82%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F/1664641532302712/",
+    "https://www.facebook.com/daishin.seiki/photos/%E6%98%8E%E3%81%91%E3%81%BE%E3%81%97%E3%81%A6%E3%81%8A%E3%82%81%E3%81%A7%E3%81%A8%E3%81%86%E5%BE%A1%E5%BA%A7%E3%81%84%E3%81%BE%E3%81%99-%E6%97%A7%E5%B9%B4%E4%B8%AD%E3%81%AF%E5%A4%A7%E5%A4%89%E3%81%8A%E4%B8%96%E8%A9%B1%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F-%E6%9C%AC%E5%B9%B4%E3%82%82%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%81%8A%E9%A1%98%E3%81%84%E8%87%B4%E3%81%97%E3%81%BE%E3%81%99m-m-%E7%94%BB%E5%83%8F%E3%81%AF%E4%BB%8A%E5%B9%B4%E3%81%AE%E5%BC%8A%E7%A4%BE%E5%B9%B4%E8%B3%80%E7%8A%B6%E3%81%A7%E3%81%99/623386967718770/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "大槇精機 note 社長",
+   "results": [
+    "https://www.facebook.com/daishin.seiki/?locale=ja_JP",
+    "https://disn.co.jp/about/",
+    "https://www.youtube.com/user/dolce650i",
+    "https://www.pref.saitama.lg.jp/robotics/database/0421.html",
+    "https://incgrow.co.jp/basic/library/06",
+    "https://ja.nc-net.or.jp/company/85583/",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00001/00454/",
+    "https://www.instagram.com/daishin_seiki_official/",
+    "https://compalyze.co.jp/company/9011401003755",
+    "https://disn.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "大槇精機 X 投稿",
+   "results": [
+    "https://www.facebook.com/daishin.seiki/?locale=ja_JP",
+    "https://disn.co.jp/",
+    "https://www.pref.saitama.lg.jp/robotics/database/0421.html",
+    "https://www.youtube.com/channel/UC8nIC3QtYv3LDapRAzR-haA/about",
+    "https://ja.nc-net.or.jp/company/85583/",
+    "https://mono.ipros.com/company/detail/2008192/",
+    "https://www.instagram.com/daishin_seiki_official/",
+    "https://arwrk.net/recruit/vrl5i0t6quj9z6v/",
+    "https://syukatsu-kaigi.jp/companies/57334/word_mouths",
+    "https://www.instagram.com/p/De0VOz1AQWF/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像13件／外部16頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像13件／外部16頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式4頁／PDF・画像13件／外部16頁・検索9回）"
+ }
+}

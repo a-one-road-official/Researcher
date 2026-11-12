@@ -1,0 +1,1980 @@
+{
+ "name": "IXON",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T23:47:06.208245+00:00",
+ "official_url": "https://ixon.cloud",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "Pricing",
+    "value": "Free Free Always free of charge Contact us $ 375 / month Contact us",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "label": "Pricing",
+    "value": "$200 /month Contact us On request Request a quote Contact us On request Request a quote Contact us On request Request a quote Contact us On request Request a quote Contact us",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "label": "Pricing",
+    "value": "$625 /month Contact us",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$15,000",
+    "url": "https://prospeo.io/c/ixon-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/ixon-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Zuster Bloemstraat 20, Boxmeer, North Brabant 5835 DW, NL",
+    "url": "https://prospeo.io/c/ixon-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2014",
+    "url": "https://prospeo.io/c/ixon-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Future-Proof Machine Service Solutions for Machine Builders | IXON",
+    "url": "https://www.ixon.cloud/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Show submenu for Products",
+    "url": "https://www.ixon.cloud/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Scalable & future-proof technology",
+    "url": "https://www.ixon.cloud/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Show submenu for Pricing",
+    "url": "https://www.ixon.cloud/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud platform pricing",
+    "url": "https://www.ixon.cloud/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure reliable data storage and gain real-time insights to optimize performance and proactive service.",
+    "url": "https://www.ixon.cloud/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Provide your customers with a user-friendly experience to streamline service and strengthen relationships.",
+    "url": "https://www.ixon.cloud/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Our edge gateways keep your machines protected",
+    "url": "https://www.ixon.cloud/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Project Engineer at Eco-Vision",
+    "url": "https://www.ixon.cloud/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Process Engineer Service at Bright Services",
+    "url": "https://www.ixon.cloud/en/",
+    "pass": 1
+   },
+   {
+    "quote": "\"logo\": \"https://27102898.fs1.hubspotusercontent-eu1.net/hubfs/27102898/IXON_Logo_Blue.png\",",
+    "url": "https://www.ixon.cloud/en/",
+    "pass": 1
+   },
+   {
+    "quote": "FUTURE-PROOF SERVICE SOLUTIONS FOR MACHINE BUILDERS",
+    "url": "https://www.ixon.cloud/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Empowering machine builders to provide efficient service",
+    "url": "https://www.ixon.cloud/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Partners that offer business- and/or IT competences towards the machine builder to ensure that the IXON Cloud is fully adapted to their needs, and backed by a future proof business model.",
+    "url": "https://marketplace.ixon.cloud/en/partners",
+    "pass": 1
+   },
+   {
+    "quote": "FUTURE-PROOF SERVICE SOLUTIONS FOR MACHINE BUILDERS",
+    "url": "https://marketplace.ixon.cloud/en/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Empowering machine builders to provide efficient service",
+    "url": "https://marketplace.ixon.cloud/en/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Show submenu for Products",
+    "url": "https://www.ixon.cloud/about-ixon",
+    "pass": 1
+   },
+   {
+    "quote": "Scalable & future-proof technology",
+    "url": "https://www.ixon.cloud/about-ixon",
+    "pass": 1
+   },
+   {
+    "quote": "Show submenu for Pricing",
+    "url": "https://www.ixon.cloud/about-ixon",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud platform pricing",
+    "url": "https://www.ixon.cloud/about-ixon",
+    "pass": 1
+   },
+   {
+    "quote": "We help machine builders, factories and system integrators connect to machines and installations worldwide, improve service processes and strengthen collaboration among all stakeholders.",
+    "url": "https://www.ixon.cloud/about-ixon",
+    "pass": 1
+   },
+   {
+    "quote": "Our story begins in 2014, with our founder Willem Hofmans. With years of experience in software for mechanical engineering, he saw how much time, energy and value was lost in service processes. That could, and should, be better! From that conviction, IXON was born.",
+    "url": "https://www.ixon.cloud/about-ixon",
+    "pass": 1
+   },
+   {
+    "quote": "and Electronic Enterprises",
+    "url": "https://www.ixon.cloud/about-ixon",
+    "pass": 1
+   },
+   {
+    "quote": "and Processing Technology",
+    "url": "https://www.ixon.cloud/about-ixon",
+    "pass": 1
+   },
+   {
+    "quote": "FUTURE-PROOF SERVICE SOLUTIONS FOR MACHINE BUILDERS",
+    "url": "https://www.ixon.cloud/about-ixon",
+    "pass": 1
+   },
+   {
+    "quote": "Empowering machine builders to provide efficient service",
+    "url": "https://www.ixon.cloud/about-ixon",
+    "pass": 1
+   },
+   {
+    "quote": "IXON Cloud pricing: Edge gateways & essential accessories",
+    "url": "https://www.ixon.cloud/pricing-edge",
+    "pass": 1
+   },
+   {
+    "quote": "Show submenu for Products",
+    "url": "https://www.ixon.cloud/pricing-edge",
+    "pass": 1
+   },
+   {
+    "quote": "Scalable & future-proof technology",
+    "url": "https://www.ixon.cloud/pricing-edge",
+    "pass": 1
+   },
+   {
+    "quote": "Show submenu for Pricing",
+    "url": "https://www.ixon.cloud/pricing-edge",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud platform pricing",
+    "url": "https://www.ixon.cloud/pricing-edge",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing Edge Gateways",
+    "url": "https://www.ixon.cloud/pricing-edge",
+    "pass": 1
+   },
+   {
+    "quote": "SecureEdge Pro Ethernet",
+    "url": "https://www.ixon.cloud/pricing-edge",
+    "pass": 1
+   },
+   {
+    "quote": "SecureEdge Pro 4G/LTE",
+    "url": "https://www.ixon.cloud/pricing-edge",
+    "pass": 1
+   },
+   {
+    "quote": "SecureEdge Pro 4G/LTE & Wi-Fi",
+    "url": "https://www.ixon.cloud/pricing-edge",
+    "pass": 1
+   },
+   {
+    "quote": "Wall mount power supply for SecureEdge Pro - US",
+    "url": "https://www.ixon.cloud/pricing-edge",
+    "pass": 1
+   },
+   {
+    "quote": "We focus 100% on machine builders. We’re a strategic partner that provides technical solutions and support for this key business challenge: improving your service offering.",
+    "url": "https://www.ixon.cloud/pricing-edge",
+    "pass": 1
+   },
+   {
+    "quote": "FUTURE-PROOF SERVICE SOLUTIONS FOR MACHINE BUILDERS",
+    "url": "https://www.ixon.cloud/pricing-edge",
+    "pass": 1
+   },
+   {
+    "quote": "Empowering machine builders to provide efficient service",
+    "url": "https://www.ixon.cloud/pricing-edge",
+    "pass": 1
+   },
+   {
+    "quote": "IXON Cloud pricing model: transparent cost structure",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Show submenu for Products",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Scalable & future-proof technology",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Show submenu for Pricing",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud platform pricing",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Straightforward pricing for your service tools",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We believe in clarity and flexibility. Our pricing is designed to scale with your ambitions, whether you're",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Choose the products and plans that fit your needs.",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Choose a product to start with:",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Worldwide hosting spread over 17 datacenters",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Roles, groups and access profiles allow extensive selection of who gets access to which functionality. Be it internal employees, distributors or customers.",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "IXON edge gateways have the ability to send data via MQTT to 3rt party cloud providers. Configuration can easily be done via IXON Cloud.",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Access request and approval",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Ability to enforce an approval process. The system can first send the customer an e-mail with an approval request before the service engineer can connect to the machine.",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Create additional data fields with your machine, such as a region, order number or project number.",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Device Registration profiles",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Additional registration profiles that can be used when registering edge gateways, bringing them directly under the management of the correct business unit or subsidiary organization.",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Roles, groups and access profiles allow extensive selection of who gets access to which functionality. Be it internal employees, distributors or the customer himself.",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Homepages are pages separate from the machines that can be used for general information such as a web shop, training center or contact page.",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Legal (Custom ToU and Privacy statement)",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Ability to offer the non-standard IXON Terms of Use and Privacy Statement to your customers. This allows you to set additional terms appropriate to your digital business.",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 2.500+ machine builders worldwide.",
+    "url": "https://www.ixon.cloud/en/",
+    "pass": 1
+   },
+   {
+    "quote": "IXON ensures compliance with ISO, IEC, and NIS2, so you can confidently support machines while meeting strict factory security demands.",
+    "url": "https://www.ixon.cloud/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Pulse Eletrônica Industrial",
+    "url": "https://marketplace.ixon.cloud/en/partners",
+    "pass": 1
+   },
+   {
+    "quote": "IXON offers secure edge gateways and a cloud platform for remote access and data insights within the industrial sector.",
+    "url": "https://www.ixon.cloud/about-ixon",
+    "pass": 1
+   },
+   {
+    "quote": "We help machine builders, factories and system integrators connect to machines and installations worldwide, improve service processes and strengthen collaboration among all stakeholders.",
+    "url": "https://www.ixon.cloud/about-ixon",
+    "pass": 1
+   },
+   {
+    "quote": "We remain true to our roots: down-to-earth, ambitious and with a strong focus on simplicity in technology. We continue to support machine builders, manufacturers and system integrators in their growth and to collaborate in the most efficient way.",
+    "url": "https://www.ixon.cloud/about-ixon",
+    "pass": 1
+   },
+   {
+    "quote": "an impact on the world of industrial automation?",
+    "url": "https://www.ixon.cloud/about-ixon",
+    "pass": 1
+   },
+   {
+    "quote": "Machinery Manufacturers Union",
+    "url": "https://www.ixon.cloud/about-ixon",
+    "pass": 1
+   },
+   {
+    "quote": "Storage for files, this can be used by various Marketplace apps.",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "StationAccess makes it possible to easily and securely access an engineering station in the factory.",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by machine builders worldwide",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Use cases about remote access and Industrial IoT | IXON",
+    "url": "https://www.ixon.cloud/cases",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how machine manufacturers and system integrators worldwide successfully implemented",
+    "url": "https://www.ixon.cloud/cases",
+    "pass": 1
+   },
+   {
+    "quote": "In the world of high-end manufacturing, consistency is the ultimate currency. For FlexLink, a...",
+    "url": "https://www.ixon.cloud/cases",
+    "pass": 1
+   },
+   {
+    "quote": "In the competitive industrial automation market, speed of service is often the deciding factor...",
+    "url": "https://www.ixon.cloud/cases",
+    "pass": 1
+   },
+   {
+    "quote": "How digitalization and cloud monitoring transformed the after sales service of a global industrial...",
+    "url": "https://www.ixon.cloud/cases",
+    "pass": 1
+   },
+   {
+    "quote": "Remote security service for industrial machines & systems | IXON",
+    "url": "https://www.ixon.cloud/security",
+    "pass": 1
+   },
+   {
+    "quote": "IoT and cloud security are crucial because they protect sensitive machine data and ensure the integrity and availability of industrial operations. The vast amounts of machine data that industrial IoT solutions collect are a valuable asset for optimizing operations and preventing downtime. However, due to its importance it becomes a target for cyber attacks.",
+    "url": "https://www.ixon.cloud/security",
+    "pass": 1
+   },
+   {
+    "quote": "Use cases about remote access and Industrial IoT | IXON | Partner",
+    "url": "https://www.ixon.cloud/cases/tag/partner",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how machine manufacturers and system integrators worldwide successfully implemented",
+    "url": "https://www.ixon.cloud/cases/tag/partner",
+    "pass": 1
+   },
+   {
+    "quote": "In the competitive industrial automation market, speed of service is often the deciding factor...",
+    "url": "https://www.ixon.cloud/cases/tag/partner",
+    "pass": 1
+   },
+   {
+    "quote": "Even a minor process deviation can lead to energy loss, lower capacity, and reduced efficiency. By providing real-time insight into process data, operators can make immediate adjustments and continuously optimize installations. In this way, Strocon translates data into greater efficiency and profitability for customers.",
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-industry",
+    "pass": 1
+   },
+   {
+    "quote": "For both their Agro and Industrial divisions, Strocon uses IXON’s",
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-industry",
+    "pass": 1
+   },
+   {
+    "quote": "as a central platform for remote access, monitoring, and service. This case study focuses on Strocon's industry division.",
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Strocon's industrial installations are used, among other things, in biogas plants, where organic waste streams such as potatoes, bread, carrots and other food residues are processed into energy or reused as sustainable animal feed. In these processes, every deviation has a direct impact on production capacity, energy consumption and efficiency.",
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Operators must be able to immediately recognize deviations, understand the underlying cause, and intervene in a timely manner. Without a complete and real-time overview, it takes a great deal of time to establish connections between various process variables, resulting in missed optimization opportunities and plants consuming energy unnecessarily or operating below their maximum capacity.",
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-industry",
+    "pass": 1
+   },
+   {
+    "quote": "To provide operators with faster insight into their processes and to",
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Important process parameters, such as plant filling time, humidity and temperature differences during the drying process, are visible in real time. This allows operators to intervene immediately when a process deviates, prevent energy loss and",
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-industry",
+    "pass": 1
+   },
+   {
+    "quote": "maximize the efficiency of the plant",
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-industry",
+    "pass": 1
+   },
+   {
+    "quote": "When processing coarse materials, operators analyze how efficiently the crane functions. They see in real time how long the crane runs automatically, when it stops and how much product is moved per cycle. Based on these insights, settings, such as the crane's recipe, can be adjusted to achieve the desired filling level. This ensures a more efficient process and a higher processing capacity.",
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-industry",
+    "pass": 1
+   },
+   {
+    "quote": "The drying process is also continuously monitored. Operators monitor, among other things, humidity, temperature differences (Delta T) and the utilization of the drying air. When deviations occur, for example because the product layer is unevenly distributed across the drying belt, they can intervene immediately to prevent energy loss and ensure consistent product quality.",
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-industry",
+    "pass": 1
+   },
+   {
+    "quote": "-time insight into process data enables operators to continuously fine-tune installations.",
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-industry",
+    "pass": 1
+   },
+   {
+    "quote": "r many clients, the white-label portal has become the primary interface and reinforces the professional image towards the industrial market.",
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-industry",
+    "pass": 1
+   },
+   {
+    "quote": ". In industrial applications, the combination of real-time data, remote access and central monitoring helps customers continuously optimize production processes and achieve maximum efficiency.",
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-industry",
+    "pass": 1
+   },
+   {
+    "quote": "For both their Agro and Industrial divisions, Strocon uses IXON’s",
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-agri",
+    "pass": 1
+   },
+   {
+    "quote": "as a central platform for remote access, monitoring, and service. This case study focuses on Agro.",
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-agri",
+    "pass": 1
+   },
+   {
+    "quote": "Technicians have direct access to process data, historical information, and documentation, without first having to search for physical schematics or manuals in the control cabinet.",
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-agri",
+    "pass": 1
+   },
+   {
+    "quote": "is an established machine manufacturer specializing in grinding technology, extrusion and automation. As its global machine fleet expanded, the company looked for a scalable way to improve service efficiency while preparing for future digital services.",
+    "url": "https://www.ixon.cloud/cases/case-study-hans-weber",
+    "pass": 1
+   },
+   {
+    "quote": "Only a small group of employees had access, service processes relied heavily on individual expertise and technicians had to navigate through multiple machine menus to find the information they needed. As more machines were connected, it became clear that",
+    "url": "https://www.ixon.cloud/cases/case-study-hans-weber",
+    "pass": 1
+   },
+   {
+    "quote": "The IXrouter plays a central role in this setup. HÖRMANN installs between 60 and 100 devices each year in HKS control systems and PV communication cabinets. Originally designed for industrial IoT, the IXrouter became a universal building block at HÖRMANN for secure remote access, clear network segmentation and fast support.",
+    "url": "https://www.ixon.cloud/cases/case-study-hormann",
+    "pass": 1
+   },
+   {
+    "quote": "The added value becomes especially visible in the “Rudolf Hörmann” app, which is also based on IXON. The app not only provides operator views for HKS systems, but also enables technicians to access systems through a secure VPN tunnel. Existing visualizations and local web interfaces can easily be integrated via port forwarding.",
+    "url": "https://www.ixon.cloud/cases/case-study-hormann",
+    "pass": 1
+   },
+   {
+    "quote": "In the PV sector, the IXON platform provides the foundation for modern requirements such as direct marketing, EZA control, and integration with virtual power plants. At the same time, HÖRMANN is developing its own EMS solutions internally, which can be seamlessly integrated thanks to the robust data foundation and open architecture of the IXON system.",
+    "url": "https://www.ixon.cloud/cases/case-study-hormann",
+    "pass": 1
+   },
+   {
+    "quote": "Operators can monitor and control their systems directly through an app or web browser.",
+    "url": "https://www.ixon.cloud/cases/case-study-hormann",
+    "pass": 1
+   },
+   {
+    "quote": "The high level of technology and quality of service has allowed Dynachem to establish itself as the only manufacturer in Europe of laminating machines for printed circuit boards.",
+    "url": "https://www.ixon.cloud/cases/case-study-dynachem",
+    "pass": 1
+   },
+   {
+    "quote": "''For geopolitical reasons, we have seen an increase in requests from customers in Europe and the U.S. over the past year. These are markets that prefer quality over quantity and therefore prefer European manufacturers. The same is happening in the increasingly demanding Asian market,' said Luca Sabatino, technical director at Dynachem.",
+    "url": "https://www.ixon.cloud/cases/case-study-dynachem",
+    "pass": 1
+   },
+   {
+    "quote": ": upon installation, the customer's technicians receive training on the optimal use of the machines. However, due to high staff turnover, constant support from the machine builder is necessary.",
+    "url": "https://www.ixon.cloud/cases/case-study-dynachem",
+    "pass": 1
+   },
+   {
+    "quote": ". Each machine is equipped with a panel exclusively for displaying consumption. Through a remote connection, Dynachem technicians can view the machine's electrical energy consumption.",
+    "url": "https://www.ixon.cloud/cases/case-study-dynachem",
+    "pass": 1
+   },
+   {
+    "quote": "allows the manufacturer to improve the operation of the machines and meet delivery commitments.",
+    "url": "https://www.ixon.cloud/cases/case-study-dynachem",
+    "pass": 1
+   },
+   {
+    "quote": "Cellro is a leading developer and manufacturer of robot automation for the machining industry. The company’s foundation is the idea that your automation should be futureproof. Cellro systems, such as Xcelerate, are therefore easily adaptable. Remote access via IXON Cloud helps them work more efficiently and to serve their customers faster in a secure way.",
+    "url": "https://www.ixon.cloud/cases/case-study-cellro",
+    "pass": 1
+   },
+   {
+    "quote": ". Providing customers with the best service, for example by supporting operators or solving software issues, is one of their most important activities.",
+    "url": "https://www.ixon.cloud/cases/case-study-cellro",
+    "pass": 1
+   },
+   {
+    "quote": "Would you like to save or share this case study? Download the",
+    "url": "https://www.ixon.cloud/cases/case-study-cellro",
+    "pass": 1
+   },
+   {
+    "quote": "Why manufacturer Heiploeg makes IXON mandatory for machine builders",
+    "url": "https://www.ixon.cloud/cases/case-study-heiploeg",
+    "pass": 1
+   },
+   {
+    "quote": "The Heiploeg factory contains machines from various machine builders. All these machines contain an IXON router, as Heiploeg asks the machine builders they work with to build these in. This way they are certain that they can set up a secure connection where they can keep the management in their own hands.",
+    "url": "https://www.ixon.cloud/cases/case-study-heiploeg",
+    "pass": 1
+   },
+   {
+    "quote": "is a leading shrimp supplier and processor in Europe. The factory in Groningen, The Netherlands, has, among other things, processing, sorting, and packaging machines with the objective of developing and supplying a wide range of shrimp products.",
+    "url": "https://www.ixon.cloud/cases/case-study-heiploeg",
+    "pass": 1
+   },
+   {
+    "quote": "provide remote access to the machine builders of the machines in their factory",
+    "url": "https://www.ixon.cloud/cases/case-study-heiploeg",
+    "pass": 1
+   },
+   {
+    "quote": "through a VPN connection so they could provide faster service and better remote support. Until then, the factory was working with different cell phones and dongles to reach machines. Each supplier brought its own solution. However,",
+    "url": "https://www.ixon.cloud/cases/case-study-heiploeg",
+    "pass": 1
+   },
+   {
+    "quote": "In the competitive industrial automation market, speed of service is often the deciding factor between a one-time sale and a lifelong partnership. For EAPOL, a dynamic Polish startup, providing high-precision drying systems meant they couldn't rely on slow, traditional on-site service models.",
+    "url": "https://www.ixon.cloud/cases/case-study-eapol",
+    "pass": 1
+   },
+   {
+    "quote": "is a Polish manufacturer specializing in high-precision industrial process machines, including dryers, climate chambers and heat treatment systems. The company delivers complete automation projects for various industries, with a strong focus on the food, metallurgic and biotech sectors, where precise environmental control is critical.",
+    "url": "https://www.ixon.cloud/cases/case-study-eapol",
+    "pass": 1
+   },
+   {
+    "quote": ", is responsible for control systems and the integration of industrial automation. EAPOL works closely with",
+    "url": "https://www.ixon.cloud/cases/case-study-eapol",
+    "pass": 1
+   },
+   {
+    "quote": "\"Remote access and data are the future of industrial automation. By integrating IXON, we achieve better service and respond instantly to critical events. It gives our customers real peace of mind. This allows me to dedicate more time to R&D and innovation.\"",
+    "url": "https://www.ixon.cloud/cases/case-study-eapol",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "\"streetAddress\": \"Zuster Bloemstraat 20\",",
+    "url": "https://www.ixon.cloud/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Zuster Bloemstraat 20, 5835 DW Beugen, The Netherlands",
+    "url": "https://www.ixon.cloud/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Zuster Bloemstraat 20, 5835 DW Beugen, The Netherlands",
+    "url": "https://marketplace.ixon.cloud/en/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Zuster Bloemstraat 20",
+    "url": "https://www.ixon.cloud/about-ixon",
+    "pass": 1
+   },
+   {
+    "quote": "Zuster Bloemstraat 20, 5835 DW Beugen, The Netherlands",
+    "url": "https://www.ixon.cloud/about-ixon",
+    "pass": 1
+   },
+   {
+    "quote": "Zuster Bloemstraat 20, 5835 DW Beugen, The Netherlands",
+    "url": "https://www.ixon.cloud/pricing-edge",
+    "pass": 1
+   },
+   {
+    "quote": "Ability to set your logo, brand colors, backgrounds. Emails from IXON Service Portal Cloud are also white labeled according to your corporate identity.",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enhanced design flexibility for your customer portal's login page, going beyond standard white-labeling options.",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White Labeled Smartphone App",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We handle the publishing of your white-labeled smartphone app on Google Play and the Apple App Store.",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Zuster Bloemstraat 20, 5835 DW Beugen, The Netherlands",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Zuster Bloemstraat 20, 5835 DW Beugen, The Netherlands",
+    "url": "https://www.ixon.cloud/cases",
+    "pass": 1
+   },
+   {
+    "quote": "Zuster Bloemstraat 20, 5835 DW Beugen, The Netherlands",
+    "url": "https://www.ixon.cloud/security",
+    "pass": 1
+   },
+   {
+    "quote": "Zuster Bloemstraat 20, 5835 DW Beugen, The Netherlands",
+    "url": "https://www.ixon.cloud/cases/tag/partner",
+    "pass": 1
+   },
+   {
+    "quote": "r many clients, the white-label portal has become the primary interface and reinforces the professional image towards the industrial market.",
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-industry",
+    "pass": 1
+   },
+   {
+    "quote": "in the Netherlands and Belgium. This means that the installations must not only function properly but also be able to demonstrate this to environmental agencies at any time.",
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-agri",
+    "pass": 1
+   },
+   {
+    "quote": "The white-label environment reinforces the professional character of Strocon as a premium machine builder.",
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-agri",
+    "pass": 1
+   },
+   {
+    "quote": "Data dashboards in Wientjens Cloud Dashboards (white labelled IXON Cloud)",
+    "url": "https://www.ixon.cloud/cases/case-study-wientjens",
+    "pass": 1
+   },
+   {
+    "quote": "Hotraco increases added value with white labelled IXON products",
+    "url": "https://www.ixon.cloud/cases/case-study-hotraco-white-labelling",
+    "pass": 1
+   },
+   {
+    "quote": "Hotraco increases their systems’ added value with white labelled IXON products",
+    "url": "https://www.ixon.cloud/cases/case-study-hotraco-white-labelling",
+    "pass": 1
+   },
+   {
+    "quote": "White labelled routers",
+    "url": "https://www.ixon.cloud/cases/case-study-hotraco-white-labelling",
+    "pass": 1
+   },
+   {
+    "quote": "Benefits IXON Cloud White Labelling offers Hotraco:",
+    "url": "https://www.ixon.cloud/cases/case-study-hotraco-white-labelling",
+    "pass": 1
+   },
+   {
+    "quote": "Want to know more about IXON Cloud white labelling?",
+    "url": "https://www.ixon.cloud/cases/case-study-hotraco-white-labelling",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about white labelling.",
+    "url": "https://www.ixon.cloud/cases/case-study-hotraco-white-labelling",
+    "pass": 1
+   },
+   {
+    "quote": "Hotraco increases added value with IXON Cloud white-labeled remote service",
+    "url": "https://www.casestudies.com/company/ixon",
+    "pass": 3
+   },
+   {
+    "quote": "Hotraco achieves free remote service and global control with IXON white-label products",
+    "url": "https://www.casestudies.com/company/ixon",
+    "pass": 3
+   },
+   {
+    "quote": "Hotraco increases their systems’ added value with white labelled IXON products",
+    "url": "https://www.ixon.cloud/cases/tag/customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "Zuster Bloemstraat 20, 5835 DW Beugen, The Netherlands",
+    "url": "https://www.ixon.cloud/cases/tag/customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "White labelling for machine service and management",
+    "url": "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "pass": 3
+   },
+   {
+    "quote": "Transform IXON’s powerful IoT platform into your own white label solution. With extensive customization options for the cloud portal, hardware and mobile app, you can deliver a unique experience that strengthens customer relationships.",
+    "url": "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "pass": 3
+   },
+   {
+    "quote": "Make IXON your own with our white labeling options",
+    "url": "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "pass": 3
+   },
+   {
+    "quote": "IXON offers a fully customisable service solution that looks and feels like your own. With white labelling, you can apply your logo, colors, custom URL and legal terms, making IXON invisible to your customers. It’s your portal, your brand, and your solution, ready to go.",
+    "url": "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "pass": 3
+   },
+   {
+    "quote": "Go to market quickly with a ready-made solution that you can use as is, white label or extend as needed. Customize everything from user roles and branding to the mobile app to match your company’s look and feel. The app will be developed and maintained by the IXON team.",
+    "url": "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "pass": 3
+   },
+   {
+    "quote": "white-labeled platform",
+    "url": "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "pass": 3
+   },
+   {
+    "quote": "What is white labeling in IXON Cloud?",
+    "url": "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "pass": 3
+   },
+   {
+    "quote": "White labeling in IXON Cloud allows you to rebrand the platform as your own, including your company logo, color scheme, domain name and email templates. This enables you to deliver a seamless and professional experience to your customers under your own brand identity.",
+    "url": "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, IXON offers a white-labeled smartphone app for both iOS and Android, published in the Google Play Store and Apple App Store under your brand name. The app includes your logo and colors, giving your customers a consistent experience.",
+    "url": "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "pass": 3
+   },
+   {
+    "quote": "Zuster Bloemstraat 20, 5835 DW Beugen, The Netherlands",
+    "url": "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "pass": 3
+   },
+   {
+    "quote": "Zuster Bloemstraat 20, Boxmeer, North Brabant 5835 DW, NL",
+    "url": "https://prospeo.io/c/ixon-revenue",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "“IXON keeps us up to date with the latest developments. We’re part of the development and kind of growing together.”",
+    "url": "https://www.ixon.cloud/en/",
+    "pass": 1
+   },
+   {
+    "quote": "We grew into a rapidly expanding organization with sales colleagues in 8 European countries. By 2021, 40,000 machines worldwide were connected, and the team had grown to 60+ employees,. The office could barely keep up with the growth.",
+    "url": "https://www.ixon.cloud/about-ixon",
+    "pass": 1
+   },
+   {
+    "quote": "IXON launched the SecureEdge gateway family. The company has grown into a global tech organization with 125+ employees, 10 sales offices and distributors in 40 countries. Worldwide, more than 100,000 machines are connected to IXON Cloud.",
+    "url": "https://www.ixon.cloud/about-ixon",
+    "pass": 1
+   },
+   {
+    "quote": "Would you like to be part of the team and make",
+    "url": "https://www.ixon.cloud/about-ixon",
+    "pass": 1
+   },
+   {
+    "quote": "Roles, groups and access profiles allow extensive selection of who gets access to which functionality. Be it internal employees, distributors or customers.",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The ability to give users only DirectVPN access to one part of the network within the machine.",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Roles, groups and access profiles allow extensive selection of who gets access to which functionality. Be it internal employees, distributors or the customer himself.",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud VPN servers that allow machines to communicate with each other or with a central application (e.g. licensing or data acquisition system).",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "However, the thing to keep in mind is that the Internet is full of botnets that are programmed to try low-effort exploits on every IP address in use. This does not pose a security risk to you, since we at IXON have patched and barricaded our servers in such a way that we are not vulnerable to these type of automated exploits.",
+    "url": "https://www.ixon.cloud/security",
+    "pass": 1
+   },
+   {
+    "quote": "Strocon's industrial installations are used, among other things, in biogas plants, where organic waste streams such as potatoes, bread, carrots and other food residues are processed into energy or reused as sustainable animal feed. In these processes, every deviation has a direct impact on production capacity, energy consumption and efficiency.",
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-industry",
+    "pass": 1
+   },
+   {
+    "quote": "A good example is the drying process. When irregularities occur in the product layer on the drying belt, the drying air chooses the path of least resistance and valuable energy escapes. As a result, part of the product dries insufficiently, energy consumption increases, and the efficiency of the installation decreases. Timely detection of such deviations and the",
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-industry",
+    "pass": 1
+   },
+   {
+    "quote": "essential part of the service provision",
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-industry",
+    "pass": 1
+   },
+   {
+    "quote": "essential part of its service offering",
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-agri",
+    "pass": 1
+   },
+   {
+    "quote": "As Hans Weber Maschinenfabrik’s installed machine base continued to grow, its existing remote maintenance solution could no longer keep pace. By implementing the IXON Cloud, they transformed remote maintenance into a centralized digital service platform, which has become an integral part of the company's service offering.",
+    "url": "https://www.ixon.cloud/cases/case-study-hans-weber",
+    "pass": 1
+   },
+   {
+    "quote": "Only a small group of employees had access, service processes relied heavily on individual expertise and technicians had to navigate through multiple machine menus to find the information they needed. As more machines were connected, it became clear that",
+    "url": "https://www.ixon.cloud/cases/case-study-hans-weber",
+    "pass": 1
+   },
+   {
+    "quote": "The platform has also been adopted by many more employees across the organization thanks to its flexible access management.",
+    "url": "https://www.ixon.cloud/cases/case-study-hans-weber",
+    "pass": 1
+   },
+   {
+    "quote": "Periodic maintenance interventions are part of",
+    "url": "https://www.ixon.cloud/cases/case-study-dynachem",
+    "pass": 1
+   },
+   {
+    "quote": "purchased by the customer. The interventions are carried out regularly on an annual basis, pre-arranged and based on",
+    "url": "https://www.ixon.cloud/cases/case-study-dynachem",
+    "pass": 1
+   },
+   {
+    "quote": "Part of the services also includes the",
+    "url": "https://www.ixon.cloud/cases/case-study-dynachem",
+    "pass": 1
+   },
+   {
+    "quote": "Years ago, Cellro started working with a remote access solution to provide better service and increase customer satisfaction. 'As Cellro kept growing we ran into an issue with the limited number of users that could be invited. Our growth resulted in an increased number of employees and dealers requiring access,' says Dirk van Manen, Software Engineer Products at Cellro.",
+    "url": "https://www.ixon.cloud/cases/case-study-cellro",
+    "pass": 1
+   },
+   {
+    "quote": "because it offers a great opportunity to take their service to the next level and increase customer satisfaction. Not only during the warranty period, but also after that,",
+    "url": "https://www.ixon.cloud/cases/case-study-cellro",
+    "pass": 1
+   },
+   {
+    "quote": "Dirk also wants to emphasise the importance of security: 'As a machine builder and system integrator, it’s really necessary to concern yourself with security. You don't want to run the risk that something goes wrong and affects the customer. IXON takes care of a big part of security, but it’s still important to",
+    "url": "https://www.ixon.cloud/cases/case-study-cellro",
+    "pass": 1
+   },
+   {
+    "quote": "including travel time and such. Now they can simply access the machine remotely and that either costs you nothing, because it's part of their service, or you get an invoice for half an hour of between €50 and €100. That's",
+    "url": "https://www.ixon.cloud/cases/case-study-heiploeg",
+    "pass": 1
+   },
+   {
+    "quote": "could not diagnose a fault before arriving",
+    "url": "https://www.ixon.cloud/cases/case-study-eapol",
+    "pass": 1
+   },
+   {
+    "quote": "is mainly used for remote assistance on PLC and machine operator panels. 'When a customer is unable to solve any faults or anomalies, we carry out an initial analysis of the problem remotely. IXON Cloud allows us to very quickly understand what the problem is and",
+    "url": "https://www.ixon.cloud/cases/case-study-sem-automazione",
+    "pass": 1
+   },
+   {
+    "quote": "With IXON Cloud, SEM Automazione has found a solution that meets their demands. 'Customers certainly reduce downtime, since they no longer have to wait for a technician to arrive when there’s an anomaly or breakdown. For us",
+    "url": "https://www.ixon.cloud/cases/case-study-sem-automazione",
+    "pass": 1
+   },
+   {
+    "quote": "Expert Technologies Group achieves faster remote support and new revenue with IXON",
+    "url": "https://www.casestudies.com/company/ixon",
+    "pass": 3
+   },
+   {
+    "quote": "Minipan achieves 50% revenue growth with IXON",
+    "url": "https://www.casestudies.com/company/ixon",
+    "pass": 3
+   },
+   {
+    "quote": "IXON Revenue 2025: $7.4M Est.",
+    "url": "https://getlatka.com/companies/ixon.com",
+    "pass": 3
+   },
+   {
+    "quote": "IXON has not published its revenue. GetLatka estimates it at about $7.4M a year (September 2025).",
+    "url": "https://getlatka.com/companies/ixon.com",
+    "pass": 3
+   },
+   {
+    "quote": "IXON has 67 employees (September 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/ixon.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is IXON's revenue?",
+    "url": "https://getlatka.com/companies/ixon.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates IXON's revenue at about",
+    "url": "https://getlatka.com/companies/ixon.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does IXON have?",
+    "url": "https://getlatka.com/companies/ixon.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/ixon.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/ixon.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/ixon.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/ixon.com",
+    "pass": 3
+   },
+   {
+    "quote": "IXON Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/ixon-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At IXON",
+    "url": "https://prospeo.io/c/ixon-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/ixon-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/ixon-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/ixon-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of IXON?",
+    "url": "https://prospeo.io/c/ixon-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "IXON generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/ixon-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/ixon-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/ixon-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does IXON have?",
+    "url": "https://prospeo.io/c/ixon-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/ixon-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "\"email\": \"info@ixon.cloud\",",
+    "url": "https://www.ixon.cloud/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Ability to enforce an approval process. The system can first send the customer an e-mail with an approval request before the service engineer can connect to the machine.",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Alarms and triggers can be set, IXON Cloud will configure the edge gateway so they can monitor locally. Notifications will be delivered via IXON Cloud by e-mail or pushnotification.",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "From the IXON Studio, reports can be built with widgets. Users can schedule these reports which will be emailed as PDFs.",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Ability to set your logo, brand colors, backgrounds. Emails from IXON Service Portal Cloud are also white labeled according to your corporate identity.",
+    "url": "https://www.ixon.cloud/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "directly, by sending an email with your questions. We will then get in touch with you shortly.",
+    "url": "https://www.ixon.cloud/security",
+    "pass": 1
+   },
+   {
+    "quote": "White labeling in IXON Cloud allows you to rebrand the platform as your own, including your company logo, color scheme, domain name and email templates. This enables you to deliver a seamless and professional experience to your customers under your own brand identity.",
+    "url": "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/ixon-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本独占代理店契約を締結した\"IXON（イクソン）\"ブランドを国内販売に先駆け、正規販売いたします",
+    "url": "https://www.ricoland.co.jp/information/2021/20210407-8007.html",
+    "pass": 3
+   },
+   {
+    "quote": "CuBe札幌白石店、盛岡店、水戸店、TOKYOBAY東雲店、小牧インター店、富士店、京都店、熊本インター店",
+    "url": "https://www.ricoland.co.jp/information/2021/20210407-8007.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年春、ヨーロッパブランドのIXONが本格的に日本進出を果たす｜BDS Report",
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年春、ヨーロッパブランドのIXONが本格的に日本進出を果たす",
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "pass": 3
+   },
+   {
+    "quote": "IXON JAPANは日本人唯一のMotoGPライダーである中上晶選手とライダー＆アンバサダー契約",
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "pass": 3
+   },
+   {
+    "quote": "「ブランドのコンセプトや想いをユーザーに」を基本的な概念として掲げる、IXONJAPAN代表の小向圭亮さんの熱い想いを伺った",
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "pass": 3
+   },
+   {
+    "quote": "テーマはフランスデザインと日本人ライダーの体形や機能に合わせた「アジアフィット」",
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "pass": 3
+   },
+   {
+    "quote": "私は15年間商社に勤務し、様々なブランドを日本に輸入・販売しました",
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本での成功を心から願っているということでした",
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "pass": 3
+   },
+   {
+    "quote": "そして私の日本国内におけるモーターサイクル用アフターマーケットブランドのビジネス戦略を高く評価して頂きました",
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "pass": 3
+   },
+   {
+    "quote": "IXONは3年前から日本のマーケットを調査しており、その過程で、フランスもしくはヨーロッパの製品をそのまま日本に持ち込んでも成功しないと考えました",
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただ代理店に全てを任せたら、他の海外ブランドの二番煎じになってしまう恐れがありました",
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、サイズや機能を、日本人と四季折々の気候に合わせ、フランスのデザインはそのままに「アジアフィット」を実現しました",
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "pass": 3
+   },
+   {
+    "quote": "更に日本人唯一のMotoGPライダー・中上晶選手とライダー&アンバサダー契約を締結したのです",
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界最高峰の舞台で活躍する唯一の日本人ライダーを、私たちIXON Japanは最大限に応援します",
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "pass": 3
+   },
+   {
+    "quote": "IXONはフランスのブランドですが、日本のユーザーの声に耳を傾け、求められる機能や品質を提供します",
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本における初年度に、日本人ライダーと契約し、アジアフィットを用意し、日本オフィスを置いて直接マーケティングを行った海外ブランドが今まであったでしょうか",
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "pass": 3
+   },
+   {
+    "quote": "IXONは日本での成功に情熱を持っており、着実に歩みを進めています",
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "pass": 3
+   },
+   {
+    "quote": "私はクリエーターではないので、何かを生み出すことはできませんが、フランスや日本の仲間と共に、自由でかっこいいをコンセプトにIXONブランドを広めて、バイクファンを少しでも増やすことができればと思っています",
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカ西海岸で5年間を過ごした後、日本国内でバイク関連を扱う商社に15年間勤務",
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "pass": 3
+   },
+   {
+    "quote": "この度IXON JAPAN Officeのマネージャーに就任",
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "pass": 3
+   },
+   {
+    "quote": "IXON JAPANの代表として新たなヨーロッパブランドの日本進出にその手腕を振るう",
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京オートバイ協同組合（AJ東京/中澤 吉浩理事長）は9月3日、東京都議会公明党と都議会都民ファースト...",
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "pass": 3
+   },
+   {
+    "quote": "今年上半期（1〜6月）の新車国内出荷台数が14万1005台であることが日本自動車工業会の調べにより分かっ...",
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "pass": 3
+   },
+   {
+    "quote": "トライアンフモーターサイクルズジャパンは10月6日、来年春から日本への入荷が開始される400ccのニュー...",
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "IXON | Equipement et protection de moto — IXONのアプローチとは、常に最高のライディングエクスペリエンスを提供することです。 ハンドルを握り、風を感じ、気が赴くままに最良の体験を楽しめるよう、ニーズに合わせたベストなモーターサイクルアパレルの提供に注力しています。",
+    "url": "https://www.ixon.com/jpn-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "IXONブランド取り扱い開始！｜インフォメーション｜ライコランドグル... — Apr 7, 2021 · お知らせ IXONブランド取り扱い開始！ ライコランドグループでは MOTOSALONが 日本独占代理店契約を締結した\"IXON（イクソン）\"ブランドを国内販売に先駆け、正規販売いたします。 IXONとは1996年にフランスで生まれたオートバイ用アパレルブランド",
+    "url": "https://www.ricoland.co.jp/information/2021/20210407-8007.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年春、ヨーロッパブランドのIXONが本格的に日本進出を果たす — Apr 5, 2021 · 日本における初年度に、日本人ライダーと契約し、アジアフィットを用意し、日本オフィスを置いて直接マーケティングを行った海外ブランドが今まであったでしょうか。 IXONは日本での成功に情熱を持っており、着実に歩みを進めています。",
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "pass": 3
+   },
+   {
+    "quote": "Vivez votre meilleure expérience de moto avec nos ... - IXON — さまざまなシリーズ製品はすべてフランスのマコンにあるIXON本社で、デザインと設計が行われます。 そのデザインとノウハウのビジョンは、デザイン分野の専門知識と、バイクとアパレルへの強い情熱から生まれたものです。",
+    "url": "https://www.ixon.com/jpn-ja/explorer/",
+    "pass": 3
+   },
+   {
+    "quote": "ホンダ×IXONの公式アパレルコレクションが世界初公開！ ブランドの魅... — Nov 2, 2026 · MotoGPなどのトップカテゴリーでも多くのライダーを支えるフランスのIXONが誇る先進のプロテクション技術と、ホンダが持つデザインDNA＆ライダーの声を融合させたオフィシャルギアコレクションが、今回お披露目された。",
+    "url": "https://www.autoby.jp/_ct/17873902",
+    "pass": 3
+   },
+   {
+    "quote": "Log in to your IXON Cloud account — IXON Cloud portal secure login page. Log in and manage your industrial machines from anywhere.",
+    "url": "https://portal.ixon.cloud/portal/login",
+    "pass": 3
+   },
+   {
+    "quote": "IXON | Equipement et protection de moto — IXONでは、パフォーマンスとは、なによりもまずレースとMotoGPを意味します。 MotoGP、Moto2で数々の栄光に輝いてきた私たちのブランドは、自らの限界への挑戦を日常の暮らしにもたらす取り組みを証立てるものです。",
+    "url": "https://www.ixon.com/jpn-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "IXON Japan - FacebookJackets - Découvrez nos équipement et vêtements moto | IxonIXON_Japan_Official (@ixon_japan) / XIXON/イクソン（アパレル用品）,メンズ,ジャケット | MOTOSALON WEB S...IXONの日本公式webサイトで、いち早くアイテムをチェック！ | RIDE HI... — 秋冬のウェア選びについてのご相談から、IXONやMot oGPの話題まで、ライダーの皆さんと気軽に情報交換 できる一日にしたいと思っています。 IXONをご愛用の方も、まだ商品を見たことがない方も 大歓迎です。 Jackets Ixon, découvrez l’ensemble de nos équipements, vêtements et accessoires po",
+    "url": "https://www.facebook.com/ixonjapan/",
+    "pass": 3
+   },
+   {
+    "quote": "Jackets - Découvrez nos équipement et vêtements moto | Ixon — Jackets Ixon, découvrez l’ensemble de nos équipements, vêtements et accessoires pour moto.",
+    "url": "https://www.ixon.com/jpn-ja/blousons/",
+    "pass": 3
+   },
+   {
+    "quote": "IXON_Japan_Official (@ixon_japan) / X — Apr 13, 2021 · マン島TTに挑むJosh Brookes選手を支える、IXONのカスタムレーシングスーツ 一着ずつ丁寧に仕立てられたスーツには、極限の走りを支える技術と情熱が込められています。 その舞台裏を動画でご覧ください。 #IXON #JoshBrookes #IOMTT #RoadRacing",
+    "url": "https://x.com/ixon_japan",
+    "pass": 3
+   },
+   {
+    "quote": "Use cases about remote access and Industrial IoT | IXON — Discover how machine manufacturers and system integrators worldwide successfully implemented Industrial IoT using IXON Cloud. Read remote access use cases as well as use cases about data, integrations and business models.",
+    "url": "https://www.ixon.cloud/cases",
+    "pass": 3
+   },
+   {
+    "quote": "IXON B2B Case Studies & Customer Successes — See how IXON solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/ixon",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Niverplast achieves streamlined operations with ... — Niverplast, a specialist in optimizing packaging processes, faced the challenge of ensuring their IXON routers at customer sites remained consistently updated with real-time customer data from their ERP system.",
+    "url": "https://www.casestudies.com/company/ixon/case-study/niverplast-saves-time-with-ixon-and-25-custom-components-in-ixon-cloud",
+    "pass": 3
+   },
+   {
+    "quote": "Use cases about remote access and Industrial IoT | IXON ... — Discover how machine manufacturers and system integrators worldwide successfully implemented Industrial IoT using IXON Cloud. Read remote access use cases as well as use cases about data, integrations and business models.",
+    "url": "https://www.ixon.cloud/cases/tag/customer-portal",
+    "pass": 3
+   },
+   {
+    "quote": "44 IXON Case Studies, Success Stories, & Customer Stories — IXON has a 4.8/5 star rating. Learn what their customers think, get 44 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/ixon/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "White labelling for machine service and management — Our software. Your solution. IXON offers a fully customisable service solution that looks and feels like your own. With white labelling, you can apply your logo, colors, custom URL and legal terms, making IXON invisible to your customers. It’s your portal, your brand, and your solution, ready to go.",
+    "url": "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "pass": 3
+   },
+   {
+    "quote": "IXON Revenue 2025: $7.4M Est. - getlatka.com — Aug 10, 2026 · How many employees does IXON have? IXON has 67 employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/ixon.com",
+    "pass": 3
+   },
+   {
+    "quote": "IXON Cloud – Business Snapshot & Rival Analysis – 2026 — Strong fundamentals at IXON Cloud include estimated revenue of $7.5M, team of around 100+ employees, Boxmeer-based, paving the way for long-term sustainability.",
+    "url": "https://compworth.com/company/ixon-cloud",
+    "pass": 3
+   },
+   {
+    "quote": "IXON Revenue, Funding & Valuation - prospeo.io — Over 100.000 machines worldwide from more than 2.500 machine builders are already connected with IXON. We aim to help them to succeed in taking their service to the next level with our future-proof service solutions, 100% focused on machine builders.",
+    "url": "https://prospeo.io/c/ixon-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "IXON Food Technology 2026 Company Profile: Valuation, Funding ...IXON continues strong growth and strengthens position in ...IXON Valuation & Funding History | CaplightIXON Cloud: Revenue, Competitors, Alternatives - Growjo — Nov 29, 2017 · Information on valuation, funding, cap tables, investors, and executives for IXON Food Technology. Use the PitchBook Platform to explore the full profile. Jan ",
+    "url": "https://pitchbook.com/profiles/company/439422-04",
+    "pass": 3
+   },
+   {
+    "quote": "IXON continues strong growth and strengthens position in ... — Jan 20, 2026 · Last year, we achieved 30% growth, reaching a revenue of €20 million. This places IXON among the fastest-growing companies in industrial connectivity and remote service. In ten years, IXON has grown from a startup into a mature, internationally operating company with a well-organized structure.",
+    "url": "https://www.ixon.cloud/news/growth-ixon",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "IXON (@ixoncloud) / Posts / X IXON (@ixoncloud) - Posts - Future-proof service solutions for machine builders ixon.cloud | X (formerly Twitter)",
+    "url": "https://x.com/ixoncloud",
+    "pass": 3
+   },
+   {
+    "quote": "IXON (@IxonCom) / Posts / X IXON crée en 1996 est N°1 des ventes de vêtements moto en France et la marque Française la plus diffusée dans le monde. Posts automatiquement depuis Facebook.",
+    "url": "https://x.com/IxonCom",
+    "pass": 3
+   },
+   {
+    "quote": "IXON ( , ) $MON (@IXON_OFFICIAL) / Posts / X Apr 21 fantasy is the most egalitarian thing we've ever seen. If it works, can really reshape the fabric of society. monetize your X addiction and claim your airdrop claim.fantasy.top/?invite=IXON_O… @fantasy_top_ yeah i'm the official simp of",
+    "url": "https://x.com/ixon_official",
+    "pass": 3
+   },
+   {
+    "quote": "ixon (@ixonNFT) / Posts / X ixon (@ixonNFT) - Posts - Family Before Anything. Investor in #Bitcoin , #Ethereum . @RTFKT #NFT | X (formerly Twitter)",
+    "url": "https://x.com/ixonNFT",
+    "pass": 3
+   },
+   {
+    "quote": "IXON (@Ixon_HQ) / X お知らせ Lunarisの公式HPが完成しました！ lunaris-esports.com 製作者 @Ixon_HQ これから色んなお知らせ等もこちらのHPでご確認できます！ ！ これからも応援よろしくお願いします！ ！ #LUNAWIN",
+    "url": "https://x.com/Ixon_HQ",
+    "pass": 3
+   },
+   {
+    "quote": "IXON_Japan_Official (@ixon_japan) / X Apr 13, 2021 · 【IXON 2026秋冬新作】 防水ジャケット「M-ROSHI WP A」、新作パンツ2モデル、人気ジャケットの新色をWebモーサイ様にご紹介いただきました。",
+    "url": "https://x.com/ixon_japan",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "IXON - LinkedIn At IXON, we help machine builders streamline operations and improve services with secure edge gateways, remote access, customer portals and data dashboards.",
+    "url": "https://www.linkedin.com/company/ixoncloud",
+    "pass": 3
+   },
+   {
+    "quote": "IXON - LinkedIn IXON | 6,284 followers on LinkedIn. Protective motorcycle gear designed in 🇫🇷 Developed in racing, engineered for every ride. Race-proven.",
+    "url": "https://www.linkedin.com/company/ixonforrealriders/",
+    "pass": 3
+   },
+   {
+    "quote": "IXON - LinkedIn IXON | 10,356 followers on LinkedIn. Future-proof service solutions for machine builders. | As machines become more complex and customer expectations continue to rise, machine builders must...",
+    "url": "https://na.linkedin.com/company/ixoncloud",
+    "pass": 3
+   },
+   {
+    "quote": "IXON - LinkedIn IXON A POWERFUL GROUP In 20 years we managed to transform the passion of one man, Thierry Maniguet, into a worldwide company and leader in motorcycle garments. This focus and passion have taken...",
+    "url": "https://ca.linkedin.com/company/ixonrideyourway",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "IXON - FacebookIXON | Beugen - FacebookIxon Philippines - FacebookIXON Taiwan - FacebookIXON Food Technology | Fo Tan - FacebookIXON Cyprus | Nicosia - FacebookFacebook Kilometre after kilometre, through every season and every change in the weather, @dominika_cybe rides with confidence—trusting IXON to go wherever the adventure leads. After more than five years in Salesforce consultancy, Mille joi",
+    "url": "https://www.facebook.com/ixonofficial/",
+    "pass": 3
+   },
+   {
+    "quote": "IXON | Beugen - FacebookIxon Philippines - FacebookIXON Taiwan - FacebookIXON Food Technology | Fo Tan - FacebookIXON Cyprus | Nicosia - FacebookFacebook After more than five years in Salesforce consultancy, Mille joined IXON looking for a role where she could work across the entire organization and see the impact of her work firsthand. 💬 “IXON felt like the place where I could be myself, unapolog",
+    "url": "https://www.facebook.com/ixoncloud/",
+    "pass": 3
+   },
+   {
+    "quote": "Ixon Philippines - FacebookIXON Taiwan - FacebookIXON Food Technology | Fo Tan - FacebookIXON Cyprus | Nicosia - FacebookFacebook A closer look into the Ixon jacket collection, where design, protection, and performance come together. 🏁 At the Motoworld stage, Ixon Japan’s manager takes us through the craftsmanship behind every Ixon jacket. May 2, 2026 · IXON 2026 春夏新品，即將抵台 🇫🇷🏍️ 法國設計的前衛美學，結合騎士追求的實用",
+    "url": "https://www.facebook.com/IxonPhilippines/",
+    "pass": 3
+   },
+   {
+    "quote": "IXON Taiwan - Facebook May 2, 2026 · IXON 2026 春夏新品，即將抵台 🇫🇷🏍️ 法國設計的前衛美學，結合騎士追求的實用機能， 在每一次騎乘中展現獨特風格與安全防護。 2026 春夏全新系列即將到來—— 全新 防摔衣、休閒短手套、競技長手套 兼具設計感與騎乘性能，為新一季騎乘做好準備。",
+    "url": "https://www.facebook.com/p/IXON-Taiwan-100084314996103/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ixon.cloud/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketplace.ixon.cloud/en/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ixon.cloud/about-ixon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ixon.cloud/pricing-edge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ixon.cloud/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ixon.cloud/cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ixon.cloud/security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ixon.cloud/cases/tag/partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ixon.cloud/cases/case-study-strocon-agri",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ixon.cloud/cases/case-study-hans-weber",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ixon.cloud/cases/case-study-hormann",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ixon.cloud/cases/case-study-dynachem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ixon.cloud/cases/case-study-cellro",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ixon.cloud/cases/case-study-heiploeg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ixon.cloud/cases/case-study-eapol",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ixon.cloud/cases/case-study-wientjens",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ixon.cloud/cases/case-study-assistec",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ixon.cloud/cases/case-study-sem-automazione",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ixon.cloud/cases/case-study-hotraco-white-labelling",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://marketplace.ixon.cloud/hubfs/Logos%20marketplace%20(13).png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://marketplace.ixon.cloud/hubfs/Logos%20marketplace%20size-3.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://marketplace.ixon.cloud/hubfs/Logos%20marketplace%20size%20(2).png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://marketplace.ixon.cloud/hubfs/Logos%20marketplace%20size(1).png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.ixon.com/jpn-ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoland.co.jp/information/2021/20210407-8007.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bds.co.jp/bdsreport/detail234.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ixon.com/jpn-ja/explorer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/ARCHION",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://portal.ixon.cloud/portal/login",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nexion.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/IKON_JAPAN_DOME_TOUR_2017",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ixon.com/jpn-ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/ixonjapan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ixon.com/jpn-ja/blousons/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ixon.cloud/cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/ixon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/ixon/case-study/niverplast-saves-time-with-ixon-and-25-custom-components-in-ixon-cloud",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ixon.cloud/cases/tag/customer-portal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/ixon.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/ixon-cloud",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/ixon-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/439422-04",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ixoncloud",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/IxonCom",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ixon_official",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ixonNFT",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ixoncloud",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ixonforrealriders/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://na.linkedin.com/company/ixoncloud",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/ixonrideyourway",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ixonofficial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ixoncloud/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/IxonPhilippines/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/IXON-Taiwan-100084314996103/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Ixon_HQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ixon_japan",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "IXON 日本 導入",
+   "results": [
+    "https://www.ixon.com/jpn-ja/",
+    "https://www.ricoland.co.jp/information/2021/20210407-8007.html",
+    "https://www.bds.co.jp/bdsreport/detail234.html",
+    "https://www.ixon.com/jpn-ja/explorer/",
+    "https://www.autoby.jp/_ct/17873902",
+    "https://ride-hi.com/news/ixon_210101.html",
+    "https://news.webike.net/parts-gears/224911/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "IXON 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ARCHION",
+    "https://portal.ixon.cloud/portal/login",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.nexion.co.jp/",
+    "https://www.ipsen.com/japan/会社/",
+    "https://www.jll.com/ja-jp/about-jll/japan-information",
+    "https://www.nissin-ion.co.jp/prd/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "IXON Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/IKON_JAPAN_DOME_TOUR_2017",
+    "https://www.ixon.com/jpn-ja/",
+    "https://www.facebook.com/ixonjapan/",
+    "https://www.ixon.com/jpn-ja/blousons/",
+    "https://x.com/ixon_japan",
+    "https://www.motosalon-oka-webshop.com/shopbrand/ct7830/",
+    "https://www.motosalon-oka-webshop.com/shopbrand/ct7116/",
+    "https://ride-hi.com/pickup/ixon_210624.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "IXON manufacturing customer case study",
+   "results": [
+    "https://www.ixon.cloud/cases",
+    "https://www.casestudies.com/company/ixon",
+    "https://www.casestudies.com/company/ixon/case-study/niverplast-saves-time-with-ixon-and-25-custom-components-in-ixon-cloud",
+    "https://www.ixon.cloud/cases/tag/customer-portal",
+    "https://www.featuredcustomers.com/vendor/ixon/case-studies",
+    "https://asiagrowthpartners.com/supplier/ixon/case-study/v2424",
+    "https://www.iotusecase.com/en/companies/ixon"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "IXON white label OR reseller OR partner program",
+   "results": [
+    "https://www.ixon.cloud/iiot-platform/white-labelling",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://support.ixon.cloud/s/topic/0TOTX0000000qUs4AI/white-labeling"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "IXON founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/ixon.com",
+    "https://compworth.com/company/ixon-cloud",
+    "https://prospeo.io/c/ixon-revenue",
+    "https://pitchbook.com/profiles/company/439422-04",
+    "https://www.ixon.cloud/news/growth-ixon",
+    "https://www.caplight.com/company/ixon",
+    "https://growjo.com/company/IXON_Cloud"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com IXON",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/nakura__/n/n0ad68bc081ee",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/kentabright/n/nb116f899a6ac",
+    "https://note.com/dokugaku_gokaku1/n/nce920d9b1831"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com IXON",
+   "results": [
+    "https://x.com/ixoncloud",
+    "https://x.com/IxonCom",
+    "https://x.com/ixon_official",
+    "https://x.com/ixonNFT",
+    "https://x.com/BamaD_ixon",
+    "https://x.com/iXon_fXury",
+    "https://x.com/ixon_japan"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com IXON",
+   "results": [
+    "https://www.linkedin.com/company/ixoncloud",
+    "https://www.linkedin.com/company/ixonforrealriders/",
+    "https://na.linkedin.com/company/ixoncloud",
+    "https://ca.linkedin.com/company/ixonrideyourway",
+    "https://it.linkedin.com/company/ixoncloud",
+    "https://hk.linkedin.com/company/ixonfoodtechnology",
+    "https://www.linkedin.com/pub/dir/+/Ixon"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com IXON",
+   "results": [
+    "https://www.facebook.com/ixonofficial/",
+    "https://www.facebook.com/ixoncloud/",
+    "https://www.facebook.com/IxonPhilippines/",
+    "https://www.facebook.com/p/IXON-Taiwan-100084314996103/",
+    "https://www.facebook.com/ixonfoodtechnology/",
+    "https://www.facebook.com/ixoncyprus/",
+    "https://www.facebook.com/IXON/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "IXON note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/aixinc",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "IXON X 投稿",
+   "results": [
+    "https://x.com/Ixon_HQ",
+    "https://x.com/ixon_japan",
+    "https://www.comnico.jp/we-love-social/social-media-image-sizes-guide",
+    "https://gaiax-socialmedialab.jp/post-1111/",
+    "https://hasshin-lab.comtri.jp/x-image-size-guide/",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://jp.finalfantasyxiv.com/lodestone/topics/detail/08eed83e8433f4cd25d88c18e2c0dc97ae5bc69f"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部38頁・検索12回）"
+ }
+}

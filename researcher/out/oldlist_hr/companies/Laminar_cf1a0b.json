@@ -1,0 +1,1678 @@
+{
+ "name": "Laminar",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-11T23:32:01.818785+00:00",
+ "official_url": "https://laminar.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The unified platform for enterprise transformation.",
+    "url": "https://www.laminar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Evolve your systems and processes at the pace of your business",
+    "url": "https://www.laminar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industry-native. Outcome-priced.",
+    "url": "https://www.laminar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "100+ enterprise teams trust Laminar with mission-critical delivery",
+    "url": "https://www.laminar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built from real delivery work, expert practice, and industry-level patterns across the Laminar network, we deeply understand how your applications are configured, which changes fail and why, what dependencies hide between systems, and what holds up at scale.",
+    "url": "https://www.laminar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Total projects delivered:",
+    "url": "https://www.laminar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Outcome-based pricing:",
+    "url": "https://www.laminar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A new model for enterprise delivery.",
+    "url": "https://www.laminar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CIOs and technology leaders in Laminar's network explain why enterprise software needs a new model for AI-era delivery, one that aligns itself directly with customer value and impact.",
+    "url": "https://www.laminar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "a large project,",
+    "url": "https://www.laminar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our unified platform for enterprise transformation productizes the Implementation Superintelligence™ gained through thousands of successful delivery projects and millions of hours of integration experience in high-stakes environments.",
+    "url": "https://www.laminar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically map your business processes and identify bottlenecks in real-time.",
+    "url": "https://www.laminar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Diagnose and optimize your enterprise systems and spend, continuously.",
+    "url": "https://www.laminar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomously implement and productionize configuration and code changes.",
+    "url": "https://www.laminar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn findings, requests, and roadmaps into routed execution. Each work item gets its own branch and sandbox. An agent drafts the change there; a named person approves what ships, and deployments are computed against the live org, never branch-to-branch.",
+    "url": "https://www.laminar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate your transformation into an AI-native enterprise with built-in governance.",
+    "url": "https://www.laminar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Apply approvals, validation, audit, and rollback controls throughout Laminar. Blocking checks apply to everyone, admins included. The audit record is written with the change, not assembled after, so when your auditor asks, the answer already exists.",
+    "url": "https://www.laminar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The top 0.1% of specialist talent, proven inside the Fortune 10.",
+    "url": "https://www.laminar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Laminar pairs our platform with technical, industry, and delivery experts at the forefront of the world's largest AI transformations. We put the actual people configuring your systems front-and-center, from onboarding through go-live and beyond.",
+    "url": "https://www.laminar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "There's no reason to reinvent what you can accelerate. AI is moving faster than any ground-up rebuild, so Laminar makes the systems you already own the engine of that change. Augmented, governed, and compounding progress from day one.",
+    "url": "https://www.laminar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Creating value for every enterprise application stakeholder.",
+    "url": "https://www.laminar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The innovation arm of the best in enterprise delivery.",
+    "url": "https://www.laminar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We work exclusively with the top integrators in the business as their center of excellence for AI-native delivery, so their clients get frontier capability that holds up in production.",
+    "url": "https://www.laminar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with Laminar: the platform behind the best in enterprise delivery | Laminar",
+    "url": "https://www.laminar.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The innovation arm of the best in enterprise delivery.",
+    "url": "https://www.laminar.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Laminar works with a small number of integrators and consultancies as their center of excellence for delivery, so their clients get the platform, the Fellows, and the record, and their teams ship work that holds up in production. We don't compete for the account; we make the account work.",
+    "url": "https://www.laminar.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "100+ enterprise teams trust Laminar with the systems that run their business.",
+    "url": "https://www.laminar.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Shift, Profile, Flow, and Ascent on your client's org, with your team doing the work on it. Org-diff deploys, blocking checks, and the record, without a build-out.",
+    "url": "https://www.laminar.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "8,000+ vetted operators, matched to the work by name. A specialist for a week, not a hire for a year.",
+    "url": "https://www.laminar.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Proof your client can click through.",
+    "url": "https://www.laminar.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Outcome-based pricing means the platform is paid when the client's result lands. Nobody on the account is billing to stay.",
+    "url": "https://www.laminar.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Offer Shift, Profile, Flow, and Ascent to your clients under your paper, with Laminar behind the platform and the record. You own the relationship; we own the uptime.",
+    "url": "https://www.laminar.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Use Profile and Shift in your advisory work, so every recommendation links to the finding and the process it came from. The deck becomes a roadmap your client can act on in Flow.",
+    "url": "https://www.laminar.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The scale behind the program.",
+    "url": "https://www.laminar.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise systems are hard. Not hard the way a puzzle is hard, but hard the way anything is when it has run for twenty years, been touched by hundreds of hands, and can't be switched off to fix.",
+    "url": "https://www.laminar.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "We started Laminar because we'd been the people at the console: the ones who got the call when a system stopped, and who knew the answer was usually a detail nobody had been paid to get right. We're a small team. We don't have the whole answer. We have a specific problem we care about and a way of working on it that we try to keep plain.",
+    "url": "https://www.laminar.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "The people who do this work, the admins, architects, operators, and engineers who kept the world running while nobody was watching, are the people we're trying to serve and the people we hire. Most of what we know, we learned from them.",
+    "url": "https://www.laminar.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Sixty years of enterprise systems, and the temperament hasn't changed: get the details right, alone at the console, and let nothing happen. That's who we hire, and that's who works with your team.",
+    "url": "https://www.laminar.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "The size of the problem, and of the network.",
+    "url": "https://www.laminar.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Cloud on one side, SAP or Oracle on the other, and a quote-to-cash process that crosses the line a dozen times a day. Shift maps where it actually stalls; Flow ships the fix with the ERP integration on the record.",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "Shift maps order-to-cash across CRM and ERP. Profile reads the org. Flow ships; Ascent keeps the record.",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "100+ enterprise teams trust Laminar with the systems that run their business.",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "“A rep on a live negotiation call shouldn't be tabbing between systems. Priority score, bid history, vehicle details, the offer. It's all on one screen now, and closing is one click.”",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "The quote is right until it reaches the ERP. Configured in CPQ, priced in Salesforce, and rejected by SAP for a material code that changed last quarter. The rep finds out from the customer.",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "Process manufacturing",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing is an exception to an exception. Customer-specific pricing lives in the ERP, gets copied into CPQ, and diverges by the second week. Margin is discovered at invoice.",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "Shift reads the process, Profile reads the org, and Flow does the work. Ascent holds every change, from every engine, to the same rules.",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "Shift maps the process your business actually runs, from real field history, and shows where it stalls and what the stall costs.",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "Profile reads the org's metadata and turns it into findings you can click through to the class or flow behind them.",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "Flow takes work from request to production, with deploys computed against the live org and every change traceable to the person and the work item.",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "8,000+ vetted operators who've spent careers making enterprise systems hold, working inside your team from kickoff through go-live and after. They measure success by how little you need them next year.",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "The agent works in an isolated sandbox on the work item's own branch, and a named person approves what ships. How the AI is governed, in writing.",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "Data stays where your org keeps it. Access resolves to named users, and retention is something Profile can show you rather than guess at.",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "Changes to systems holding PHI clear the same gates as every other change, with approvals and deployments recorded as they happen.",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "Both, on purpose. The platform does the reading, the diffs, the deploys, and the record; Fellows bring the judgment. You buy one engagement, priced on the outcome, and keep the platform and the capability when it's done.",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "What does outcome-based pricing actually mean?",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "The campus replaced a phone-and-email enrollment process with an Experience Cloud portal built by a Laminar Fellow, and watched conversion climb.",
+    "url": "https://www.laminar.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The small-business platform moved from a proprietary marketing system to Salesforce Marketing Cloud, with its data architecture rebuilt so its own team could run it.",
+    "url": "https://www.laminar.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "100+ enterprise teams trust Laminar with the systems that run their business.",
+    "url": "https://www.laminar.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Laminar Profile, Laminar Flow",
+    "url": "https://www.laminar.com/customers",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Auctions' (NYSE: ACVA) transformed its negotiation engine with unified tooling and 1-click deal close.",
+    "url": "https://www.laminar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner-driven bookings reached $28M in FY24, up 114% year over year from $13.1M, with partner revenue now accounting for roughly 41% of total company bookings, up from about 30% in Q1-24. Partner-sourced revenue grew to $12.5M, up 60% year over year, with deal volume up 58%. Influenced bookings reached $15.5M, doubling year over year, with full-funnel visibility established for the first time.",
+    "url": "https://www.laminar.com/customers/optro",
+    "pass": 1
+   },
+   {
+    "quote": "Optro's Alliance function was generating real revenue but had no infrastructure to measure, scale, or defend it. Embedded as Optro's Partner Operations Strategy & Systems Consultant, a Laminar Fellow built the attribution model, reporting stack, and partner tooling that turned Alliances into a board-level growth channel.",
+    "url": "https://www.laminar.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Then AI arrived, faster than anything before it, and the early lesson was plain: agents don't fail for lack of intelligence. They fail for lack of context. Everything we'd built was context. That felt less like a strategy than a piece of luck, and we've tried to treat it that way, as something to earn every time a change ships rather than something we're owed.",
+    "url": "https://www.laminar.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty and service live apart from the asset. Field Service dispatches the technician, the ERP holds the install base, and the warranty terms are in a PDF on the account. Every claim is re-keyed twice.",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "Dealer and partner data arrive in every format. Partner portals feed Salesforce, the dealer system feeds the ERP, and the reconciliation between them runs on a schedule someone inherited. Bookings are true a week late.",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "Every customer came with a custom integration. Service Cloud handles the case, the TMS or WMS holds the shipment, and each large customer arrived with its own connector built by a different contractor. Nobody has read what the org accumulated.",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "Auctions' (NYSE: ACVA) transformed its negotiation engine with unified tooling and 1-click deal close.",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "Optro's Alliance function was generating real revenue but had no infrastructure to measure, scale, or defend it. Embedded as Optro's Partner Operations Strategy & Systems Consultant, a Laminar Fellow built the attribution model, reporting stack, and partner tooling that turned Alliances into a board-level growth channel.",
+    "url": "https://www.laminar.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Built In, a 30–35 person GTM organization carrying 13 years of ad hoc Salesforce, CPQ, and marketing-automation growth, brought in a Senior Salesforce Admin to partner directly with its VP of RevOps — closing a flood of duplicate records, rebuilding broken pipelines and data foundations, and giving the revenue org a system it could finally measure and trust.",
+    "url": "https://www.laminar.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "ACV Auctions' (NYSE: ACVA) transformed its negotiation engine with unified tooling and 1-click deal close. | Laminar",
+    "url": "https://www.laminar.com/customers/acv-auctions",
+    "pass": 1
+   },
+   {
+    "quote": "Deal Maker now handles more than 2,000 new opportunities and is described internally as a core revenue-generation tool.",
+    "url": "https://www.laminar.com/customers/acv-auctions",
+    "pass": 1
+   },
+   {
+    "quote": "Auctions' (NYSE: ACVA) transformed its negotiation engine with unified tooling and 1-click deal close.",
+    "url": "https://www.laminar.com/solutions/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Cloud, CPQ and Revenue Cloud, Service Cloud, and a product data stack, all expected to keep up with a business that changes every quarter. Laminar maps sales-to-renewal as it actually runs, reads the org behind it, and ships the changes RevOps has been waiting on, each one traceable to the person and the request.",
+    "url": "https://www.laminar.com/solutions/technology",
+    "pass": 1
+   },
+   {
+    "quote": "“A lot changed for the business because of this work. The biggest change was we had a controlled and clean contracting process. We saw less revenue leakage, consistent pricing margins, and our executive team was thrilled.”",
+    "url": "https://www.laminar.com/solutions/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Director of Revenue Operations and GTM Architecture, Templafy",
+    "url": "https://www.laminar.com/solutions/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Auctions' (NYSE: ACVA) transformed its negotiation engine with unified tooling and 1-click deal close.",
+    "url": "https://www.laminar.com/solutions/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Intake happens in the EHR, the CRM, and a phone call. Health Cloud holds the relationship, the EHR holds the chart, and the MuleSoft integration between them was scoped for referrals, not for everything it now carries. When intake stalls, the patient notices first.",
+    "url": "https://www.laminar.com/solutions/lifesciences",
+    "pass": 1
+   },
+   {
+    "quote": "Auctions' (NYSE: ACVA) transformed its negotiation engine with unified tooling and 1-click deal close.",
+    "url": "https://www.laminar.com/solutions/lifesciences",
+    "pass": 1
+   },
+   {
+    "quote": "Candidate, client, and placement never share a record. The ATS, Sales Cloud, and payroll each hold part of the placement, and the integration between them was built for a smaller volume. Fill rates are estimated.",
+    "url": "https://www.laminar.com/solutions/professional",
+    "pass": 1
+   },
+   {
+    "quote": "Auctions' (NYSE: ACVA) transformed its negotiation engine with unified tooling and 1-click deal close.",
+    "url": "https://www.laminar.com/solutions/professional",
+    "pass": 1
+   },
+   {
+    "quote": "District data arrives in every format. Each district has its own export, the rostering integration handles most of them, and the exceptions are a spreadsheet. Renewals depend on data nobody trusts.",
+    "url": "https://www.laminar.com/solutions/education",
+    "pass": 1
+   },
+   {
+    "quote": "Auctions' (NYSE: ACVA) transformed its negotiation engine with unified tooling and 1-click deal close.",
+    "url": "https://www.laminar.com/solutions/education",
+    "pass": 1
+   },
+   {
+    "quote": "Energy & Utilities Cloud, Field Service, the asset system, and a customer portal, each holding part of the same job. Laminar maps work orders and service as they actually run, reads the org behind them, and ships every change with the record regulatory reporting depends on.",
+    "url": "https://www.laminar.com/solutions/energy",
+    "pass": 1
+   },
+   {
+    "quote": "Field data arrives on a delay. Field Service captures the inspection, the asset system needs it, and the integration runs nightly through a job someone inherited. Compliance reporting is true a day late.",
+    "url": "https://www.laminar.com/solutions/energy",
+    "pass": 1
+   },
+   {
+    "quote": "Sites, chargers, and customers in three systems. The charger platform, the CRM, and billing each hold part of the customer, and the case about a broken charger has to find the charger. Support re-keys.",
+    "url": "https://www.laminar.com/solutions/energy",
+    "pass": 1
+   },
+   {
+    "quote": "Auctions' (NYSE: ACVA) transformed its negotiation engine with unified tooling and 1-click deal close.",
+    "url": "https://www.laminar.com/solutions/energy",
+    "pass": 1
+   },
+   {
+    "quote": "Auctions' (NYSE: ACVA) transformed its negotiation engine with unified tooling and 1-click deal close.",
+    "url": "https://www.laminar.com/solutions/realestate",
+    "pass": 1
+   },
+   {
+    "quote": "By 2024, Templafy found itself dealing with a product catalog carrying years of clutter, discounting without guardrails, and a prior CPQ consultant whose work was so poor that flagging it ended the relationship.",
+    "url": "https://www.laminar.com/customers/templafy",
+    "pass": 1
+   },
+   {
+    "quote": "Processing Magazine: The Arrival of the Self-Driving Clean-in-Place",
+    "url": "https://runlaminar.com/",
+    "pass": 3
+   },
+   {
+    "quote": "What is Laminar Scientific's revenue?",
+    "url": "https://p2pmarketdata.com/companies/laminar-scientific",
+    "pass": 3
+   },
+   {
+    "quote": "Laminar Scientific reported revenue of $17K for fiscal year 2022.",
+    "url": "https://p2pmarketdata.com/companies/laminar-scientific",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Laminar Scientific have?",
+    "url": "https://p2pmarketdata.com/companies/laminar-scientific",
+    "pass": 3
+   },
+   {
+    "quote": "Laminar Scientific reported 2 employees for fiscal year 2022.",
+    "url": "https://p2pmarketdata.com/companies/laminar-scientific",
+    "pass": 3
+   },
+   {
+    "quote": "The errata are listed here.",
+    "url": "https://note.com/kamakiriphysics/n/ncc23114c4e0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The text inside the arrow on the right side of the figure should be \"outflow,\" not \"inflow.\"",
+    "url": "https://note.com/kamakiriphysics/n/ncc23114c4e0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Primetals Technologies has received an order to upgrade the laminar cooling system for the 5-million-ton-per-year hot strip mill (HSM) owned by voestalpine Stahl GmbH (",
+    "url": "https://note.com/sankituushin/n/n842e67f98be0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The work is scheduled to be carried out during planned maintenance shutdowns of approximately 10 days each in 2027 and 2028, with the goal of minimizing the impact on production.",
+    "url": "https://note.com/sankituushin/n/n842e67f98be0?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "8,000+ vetted operators, matched to the work by name. A specialist for a week, not a hire for a year.",
+    "url": "https://www.laminar.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The people who do this work, the admins, architects, operators, and engineers who kept the world running while nobody was watching, are the people we're trying to serve and the people we hire. Most of what we know, we learned from them.",
+    "url": "https://www.laminar.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Salesforce and ERP for manufacturing: the seam on the record | Laminar",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing and Supply Chain",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Cloud on one side, SAP or Oracle on the other, and a quote-to-cash process that crosses the line a dozen times a day. Shift maps where it actually stalls; Flow ships the fix with the ERP integration on the record.",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "Discrete manufacturing",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "Process manufacturing",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "Sales agreements drift from what's shipped. Manufacturing Cloud holds the agreement, the ERP holds the actuals, and the forecast is whichever one the account manager opened last. Rebates are settled by argument.",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive and mobility",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "Same platform, same senior people, in the vocabulary of the plant and the order desk. Nothing is rebuilt; the seam between CRM and ERP becomes a place you can see.",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "8,000+ vetted operators who've spent careers making enterprise systems hold, working inside your team from kickoff through go-live and after. They measure success by how little you need them next year.",
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "pass": 1
+   },
+   {
+    "quote": "8,000+ vetted operators who've spent careers making enterprise systems hold, working inside your team from kickoff through go-live and after. They measure success by how little you need them next year.",
+    "url": "https://www.laminar.com/solutions/finance",
+    "pass": 1
+   },
+   {
+    "quote": "8,000+ vetted operators who've spent careers making enterprise systems hold, working inside your team from kickoff through go-live and after. They measure success by how little you need them next year.",
+    "url": "https://www.laminar.com/solutions/technology",
+    "pass": 1
+   },
+   {
+    "quote": "8,000+ vetted operators who've spent careers making enterprise systems hold, working inside your team from kickoff through go-live and after. They measure success by how little you need them next year.",
+    "url": "https://www.laminar.com/solutions/lifesciences",
+    "pass": 1
+   },
+   {
+    "quote": "8,000+ vetted operators who've spent careers making enterprise systems hold, working inside your team from kickoff through go-live and after. They measure success by how little you need them next year.",
+    "url": "https://www.laminar.com/solutions/professional",
+    "pass": 1
+   },
+   {
+    "quote": "8,000+ vetted operators who've spent careers making enterprise systems hold, working inside your team from kickoff through go-live and after. They measure success by how little you need them next year.",
+    "url": "https://www.laminar.com/solutions/education",
+    "pass": 1
+   },
+   {
+    "quote": "8,000+ vetted operators who've spent careers making enterprise systems hold, working inside your team from kickoff through go-live and after. They measure success by how little you need them next year.",
+    "url": "https://www.laminar.com/solutions/energy",
+    "pass": 1
+   },
+   {
+    "quote": "8,000+ vetted operators who've spent careers making enterprise systems hold, working inside your team from kickoff through go-live and after. They measure success by how little you need them next year.",
+    "url": "https://www.laminar.com/solutions/realestate",
+    "pass": 1
+   },
+   {
+    "quote": "Laminar | Spectral Sensors for Faster and Smarter Factories",
+    "url": "https://runlaminar.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Your factory runs on recipes tuned years ago. Laminar reads the real state of every process and drives the next best action — every cycle.",
+    "url": "https://runlaminar.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by Coca-Cola, Danone, AB InBev, Unilever, and more.",
+    "url": "https://runlaminar.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Live production lines, measured against their own baseline.",
+    "url": "https://runlaminar.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Every number below came off a running plant. Scroll for more.",
+    "url": "https://runlaminar.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 3 Global Sauce Manufacturer",
+    "url": "https://runlaminar.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Global Syrup Manufacturer",
+    "url": "https://runlaminar.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Beverage Manufacturer",
+    "url": "https://runlaminar.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Each Process-Aware Model moves you one step closer to a Self-Driving Factory.",
+    "url": "https://runlaminar.com/",
+    "pass": 3
+   },
+   {
+    "quote": "As a company that's always pushing for innovation, Monin sees this as the kind of AI-driven solution that gives manufacturers a real edge. The fact that Laminar delivers on both sustainability and profitability makes it an easy decision to pilot and scale.",
+    "url": "https://runlaminar.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Angel Pagan | VP of Manufacturing | Monin",
+    "url": "https://runlaminar.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Paul Liedtke | Sr. Director of Manufacturing Technology | The Marzetti Company",
+    "url": "https://runlaminar.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Laminar has industrialized exceptional technology that delivers results not found anywhere else in the market. The ability to generate real-time spectral fingerprints for each fluid and determine the liquid signature enhances our efforts to develop the best products and meet market demands.",
+    "url": "https://runlaminar.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our customer needed a highly customized system for the expansion of a worldwide pharmaceutical company’s production line. The scope included 10 unique ceiling modules featuring BAS integrated local control and indication.",
+    "url": "https://laminarflowinc.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "After the intensive design/manufacturing process with more than 6 revision cycles from original specifications, we delivered the total 1600 ft2 of Laminar Flow Ceiling System 5 weeks ahead of schedule.",
+    "url": "https://laminarflowinc.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "After the upgrade, a uniform and controlled cooling profile will be achieved across the width and length of the strip. Furthermore, the heat flux balance between the top and bottom surfaces of the steel strip will be optimized. This is expected to further enhance the development and manufacturing capabilities for high-performance and high-functionality steel, primarily for automotive applications.",
+    "url": "https://note.com/sankituushin/n/n842e67f98be0?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "The campus replaced a phone-and-email enrollment process with an Experience Cloud portal built by a Laminar Fellow, and watched conversion climb.",
+    "url": "https://www.laminar.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The SOW and the project disagree by week two. The opportunity closes in Sales Cloud with one scope, PSA is staffed against another, and the change orders live in email. Margin is discovered at month-end.",
+    "url": "https://www.laminar.com/solutions/professional",
+    "pass": 1
+   },
+   {
+    "quote": "“Enrollment used to live in phone calls and email threads. Now a student can register, upload documents, and move through the whole lifecycle in one portal, and we built it in about four months.”",
+    "url": "https://www.laminar.com/solutions/education",
+    "pass": 1
+   },
+   {
+    "quote": "The donor record has four versions. Nonprofit Cloud, the payment processor, the events tool, and the email platform each hold a piece, and the reconciliation is a volunteer's weekend. Stewardship starts from a guess.",
+    "url": "https://www.laminar.com/solutions/education",
+    "pass": 1
+   },
+   {
+    "quote": "The deal lives in the broker's phone until it's signed. Sales Cloud holds the pipeline the brokers update on Friday, the listing ISV holds the space, and the LOI is in email. The forecast is a conversation.",
+    "url": "https://www.laminar.com/solutions/realestate",
+    "pass": 1
+   },
+   {
+    "quote": "Enrolling in an online course at UAGC meant phone calls and email chains — personal details, document uploads, and opportunity tracking scattered across inboxes.",
+    "url": "https://www.laminar.com/customers/university-of-arizona",
+    "pass": 1
+   },
+   {
+    "quote": "The portal launched in roughly four months and replaced the phone-and-email process outright. Opportunity conversion rose by 1.7% after launch, a meaningful increase when thousands of students apply simultaneously.",
+    "url": "https://www.laminar.com/customers/university-of-arizona",
+    "pass": 1
+   },
+   {
+    "quote": "info@laminarflowinc.com",
+    "url": "https://laminarflowinc.com/case-studies/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "​​​2010年の創業以来、株式会社Laminarは、テイラー反応器技術の先駆的として歩みを始め、現在では連続化学プロセス分野における世界的リーダーへと成長してきました",
+    "url": "https://www.taylor-reactor.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ラミナー (Laminar Co., Ltd.)",
+    "url": "https://www.taylor-reactor.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9",
+    "pass": 3
+   },
+   {
+    "quote": "・2010年: 株式会社ラミナー設立",
+    "url": "https://www.taylor-reactor.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9",
+    "pass": 3
+   },
+   {
+    "quote": "・2013年：日本市場への輸出を開始",
+    "url": "https://www.taylor-reactor.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9",
+    "pass": 3
+   },
+   {
+    "quote": "日本・米国・中国における販売代理店契約を締結（DJK）",
+    "url": "https://www.taylor-reactor.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9",
+    "pass": 3
+   },
+   {
+    "quote": "東京都渋谷区神宮前6-23-4",
+    "url": "https://laminar.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Translated into Japanese, it says \"The direction of x2 is described by moving from vertex 1 to vertex 2,\" but in short, it means a vector perpendicular to the x1 vector.",
+    "url": "https://note.com/kamakiriphysics/n/ncc23114c4e0d?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Laminar Flow Hoods - Mirion Technologies — Laminar Flow Hoods - Mirion Technologies Mirion https://www.mirion.com > ... > 核医学機器",
+    "url": "https://www.mirion.com/jp/products/medical/nuclear-medicine-instrumentation/lab-supplies/shielded-laminar-air-flow-laf/laminar-flow-hood",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 & 沿革 - ホーム | Laminar Co., Ltd. — 会社概要 & 沿革 - ホーム | Laminar Co., Ltd. taylor-reactor.jp https://www.taylor-reactor.jp > 会社概要-沿革",
+    "url": "https://www.taylor-reactor.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9",
+    "pass": 3
+   },
+   {
+    "quote": "laminar 合同会社: Laminar inc. — laminar 合同会社: Laminar inc. laminar合同会社 https://laminar.jp",
+    "url": "https://laminar.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ホーム | Laminar Co., Ltd. — ホーム | Laminar Co., Ltd. taylor-reactor.jp https://www.taylor-reactor.jp",
+    "url": "https://www.taylor-reactor.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Johnson & Johnson MedTech Acquires Laminar , Inc. — Johnson & Johnson MedTech Acquires Laminar , Inc. Johnson & Johnson https://www.jnj.com > press-releases",
+    "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-medtech-acquires-laminar-inc",
+    "pass": 3
+   },
+   {
+    "quote": "LAMINAR (ラミナー)公式通販 - PARIGOT ONLINE — LAMINAR (ラミナー)公式通販 - PARIGOT ONLINE PARIGOT ONLINE https://www.parigot.jp > ブランド",
+    "url": "https://www.parigot.jp/c/brand/laminar?srsltid=AYCX9vKS_TnpvnM4BhcTcK-Nq8FqfBYQ5ZW5Nxk3jjCZOvBY9WhPik0K",
+    "pass": 3
+   },
+   {
+    "quote": "Laminar - LinkedIn — Laminar - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/run-laminar",
+    "pass": 3
+   },
+   {
+    "quote": "The world's first Taylor Reactor for Chemical Materials. — The world's first Taylor Reactor for Chemical Materials. 카페24 https://www.laminarm.com > laminar",
+    "url": "https://www.laminarm.com/laminar/",
+    "pass": 3
+   },
+   {
+    "quote": "Laminar | Spectral Sensors for Faster and Smarter Factories — Laminar | Spectral Sensors for Faster and Smarter Factories runlaminar.com https://runlaminar.com",
+    "url": "https://runlaminar.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Laminar Flow INC — Case Studies - Laminar Flow INC Laminar Flow INC https://laminarflowinc.com > case-stu...",
+    "url": "https://laminarflowinc.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer stories : outcomes, documented | Laminar — Customer stories : outcomes, documented | Laminar laminar.com https://www.laminar.com > customers",
+    "url": "https://www.laminar.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "H2Ok Innovations Rebrands as Laminar , Pioneering Closed ... — H2Ok Innovations Rebrands as Laminar , Pioneering Closed ... PR Newswire Canada https://www.newswire.ca > h2ok-inno...",
+    "url": "https://www.newswire.ca/news-releases/h2ok-innovations-rebrands-as-laminar-pioneering-closed-loop-ai-for-autonomous-cpg-manufacturing-895721400.html",
+    "pass": 3
+   },
+   {
+    "quote": "Laminar Scientific: Renewable Energy Company — Laminar Scientific: Renewable Energy Company P2PMarketData https://p2pmarketdata.com > companies",
+    "url": "https://p2pmarketdata.com/companies/laminar-scientific",
+    "pass": 3
+   },
+   {
+    "quote": "Laminar - 2026 Company Profile, Team, Funding & Competitors — Laminar - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/laminar/__DntRt_I-7jraagnnbsx31MOjGFC-eBobZmrLsQajEPs",
+    "pass": 3
+   },
+   {
+    "quote": "Laminar 2026 Company Profile: Valuation, Funding & Investors — Laminar 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/720908-20",
+    "pass": 3
+   },
+   {
+    "quote": "Laminar - Crunchbase Company Profile & Funding — Laminar - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > organi...",
+    "url": "https://www.crunchbase.com/organization/h2ok-innovations",
+    "pass": 3
+   },
+   {
+    "quote": "Laminar Research - $4.3 M Revenue , Employees & Growth — Laminar Research - $4.3 M Revenue , Employees & Growth Kona Equity https://www.konaequity.com > lamina...",
+    "url": "https://www.konaequity.com/company/laminar-research-4019766474/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Vol. 4 The Laminar Limit｜ネイピア DS - note Vol. 4 The Laminar Limit｜ネイピア DS - note note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/e_dao/n/n559fad2e81c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Errata] OpenFOAM (Starting Fluid Analysis at Home) Laminar ... [Errata] OpenFOAM (Starting Fluid Analysis at Home) Laminar ... note https://note.com > 科学・テクノロジー > プログラミング",
+    "url": "https://note.com/kamakiriphysics/n/ncc23114c4e0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "IHI Develops Gas-Bearing Vacuum Pump for Hybrid Laminar ... IHI Develops Gas-Bearing Vacuum Pump for Hybrid Laminar ... note https://note.com > sankituushin",
+    "url": "https://note.com/sankituushin/n/na0d8ba78b94a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Primetals Technologies to Upgrade Laminar Cooling System ... Primetals Technologies to Upgrade Laminar Cooling System ... note https://note.com > 科学・テクノロジー > 機械・工学",
+    "url": "https://note.com/sankituushin/n/n842e67f98be0?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Vol. 4 The Laminar Limit｜ネイピア DS",
+    "url": "https://note.com/e_dao/n/n559fad2e81c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/e_dao/n/n559fad2e81c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Vol. 4 The Laminar Limit",
+    "url": "https://note.com/e_dao/n/n559fad2e81c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In a world of 1,000 kilometers per hour, uncertain curves are not permitted.",
+    "url": "https://note.com/e_dao/n/n559fad2e81c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The vacuum tube transport system, the \"Vertex Line.\" In its test run section, a prototype vehicle, resembling white porcelain made of silicon nitride, stood still, harboring ultra-high-density shockwaves in the slight gap between it and the inner wall.",
+    "url": "https://note.com/e_dao/n/n559fad2e81c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Victoria, a fluid designer, stood upright on the observation deck at the very rear. Beyond her gaze, the entire outer shell of the vehicle was coated with a newly developed \"pressure-sensitive emerald polymer.\" This was a field test to expose the incalculable levels of \"micro-vortices\" generated during actual operation through the color-changing patterns on the vehicle's surface.",
+    "url": "https://note.com/e_dao/n/n559fad2e81c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Initiating acceleration. ...All systems, synchronize.\"",
+    "url": "https://note.com/e_dao/n/n559fad2e81c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Victoria's cold, clear voice echoed. The speed jumped to 900, then 950. Just before reaching critical speed, an unexpected emerald green light pierced the joint at the rear of the vehicle.",
+    "url": "https://note.com/e_dao/n/n559fad2e81c8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Errata] OpenFOAM (Starting Fluid Analysis at Home) Laminar Flow in a Circular Pipe｜物理・CAE解析•製造業開発部署•自己啓発",
+    "url": "https://note.com/kamakiriphysics/n/ncc23114c4e0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/kamakiriphysics/n/ncc23114c4e0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Errata] OpenFOAM (Starting Fluid Analysis at Home) Laminar Flow in a Circular Pipe",
+    "url": "https://note.com/kamakiriphysics/n/ncc23114c4e0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "物理・CAE解析•製造業開発部署•自己啓発",
+    "url": "https://note.com/kamakiriphysics/n/ncc23114c4e0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Thank you for purchasing this book.",
+    "url": "https://note.com/kamakiriphysics/n/ncc23114c4e0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The errata are listed here.",
+    "url": "https://note.com/kamakiriphysics/n/ncc23114c4e0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "There are the following typos in ver1.1 and ver1.2. We apologize for the inconvenience, but please check them.",
+    "url": "https://note.com/kamakiriphysics/n/ncc23114c4e0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For those who have already purchased, a corrected version (ver1.3) can be downloaded from the URL below.",
+    "url": "https://note.com/kamakiriphysics/n/ncc23114c4e0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "IHI Develops Gas-Bearing Vacuum Pump for Hybrid Laminar Flow Control and Successfully Completes Demonstration Test｜kikai-news.net 産機通信",
+    "url": "https://note.com/sankituushin/n/na0d8ba78b94a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/sankituushin/n/na0d8ba78b94a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "IHI Develops Gas-Bearing Vacuum Pump for Hybrid Laminar Flow Control and Successfully Completes Demonstration Test",
+    "url": "https://note.com/sankituushin/n/na0d8ba78b94a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Significantly reduces aircraft air resistance, improving fuel efficiency and contributing to CO2 emission reduction",
+    "url": "https://note.com/sankituushin/n/na0d8ba78b94a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "announced on March 26 that it has developed a state-of-the-art vacuum pump, which serves as a decompression device equipped with a gas-bearing motor, to realize a Hybrid Laminar Flow Control (HLFC) system—an aerodynamic control system designed to reduce aircraft air resistance. The company successfully conducted the world's first demonstration test under conditions of rarefied air at one-tenth of ",
+    "url": "https://note.com/sankituushin/n/na0d8ba78b94a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The test was conducted at the Akita University Electrification System Joint Research Center with the cooperation of Akita University.",
+    "url": "https://note.com/sankituushin/n/na0d8ba78b94a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "HLFC has been attracting attention since the 1930s as a promising technology for significantly reducing aircraft air resistance, but the realization of a small, lightweight, and highly reliable high-flow vacuum pump capable of drawing in rarefied air at flight altitudes (approximately 10,000 meters above sea level) has been a major challenge.",
+    "url": "https://note.com/sankituushin/n/na0d8ba78b94a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For details, please refer to the",
+    "url": "https://note.com/sankituushin/n/na0d8ba78b94a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Primetals Technologies to Upgrade Laminar Cooling System for Hot Rolling Mill at voestalpine, Austria｜kikai-news.net 産機通信",
+    "url": "https://note.com/sankituushin/n/n842e67f98be0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/sankituushin/n/n842e67f98be0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Primetals Technologies to Upgrade Laminar Cooling System for Hot Rolling Mill at voestalpine, Austria",
+    "url": "https://note.com/sankituushin/n/n842e67f98be0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Enhanced capability for high-tensile steel",
+    "url": "https://note.com/sankituushin/n/n842e67f98be0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Primetals Technologies (",
+    "url": "https://note.com/sankituushin/n/n842e67f98be0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Primetals Technologies",
+    "url": "https://note.com/sankituushin/n/n842e67f98be0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Primetals Technologies has received an order to upgrade the laminar cooling system for the 5-million-ton-per-year hot strip mill (HSM) owned by voestalpine Stahl GmbH (",
+    "url": "https://note.com/sankituushin/n/n842e67f98be0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "voestalpine Stahl GmbH",
+    "url": "https://note.com/sankituushin/n/n842e67f98be0?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Laminar (@lmnrai) / X Laminar (@lmnrai) / X X https://x.com > lmnrai",
+    "url": "https://x.com/lmnrai",
+    "pass": 3
+   },
+   {
+    "quote": "Laminar (@LaminarProtocol) / X Laminar (@LaminarProtocol) / X X https://x.com > LaminarProtocol",
+    "url": "https://x.com/LaminarProtocol",
+    "pass": 3
+   },
+   {
+    "quote": "Laminar Fox (@LaminarFox) / X Laminar Fox (@LaminarFox) / X X https://x.com > LaminarFox",
+    "url": "https://x.com/LaminarFox",
+    "pass": 3
+   },
+   {
+    "quote": "Laminar (@laminar_xyz) / X Laminar (@laminar_xyz) / X X https://x.com > laminar_xyz",
+    "url": "https://x.com/laminar_xyz",
+    "pass": 3
+   },
+   {
+    "quote": "Laminar (@laminarlabs) / X Announcing Laminar: an orderflow aggregator for searchers. Searchers can access standardised orderflow from many sources through just a single endpoint. For OFAs, more searchers = more MEV recovered. Connect to our websocket today: docs.laminarlabs.xyz",
+    "url": "https://x.com/laminarlabs",
+    "pass": 3
+   },
+   {
+    "quote": "Laminar (@lmnrai) / Posts / X We provide it with the Laminar schema and an example snippet so it knows how to query the raw trace data directly: Claude executes its generated SQL queries against ClickHouse and performs statistical A/B analysis, then posts a summary back in Slack suggesting why the delta occurred.",
+    "url": "https://x.com/lmnrai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Laminar - LinkedIn Laminar - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/run-laminar",
+    "pass": 3
+   },
+   {
+    "quote": "Laminar (acquired by Rubrik) - LinkedIn Laminar (acquired by Rubrik) - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/laminar-security",
+    "pass": 3
+   },
+   {
+    "quote": "Laminar (YC S24) - LinkedIn Laminar (YC S24) - LinkedIn LinkedIn https://www.linkedin.com > lmnr-ai",
+    "url": "https://www.linkedin.com/company/lmnr-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Laminar , Inc. - LinkedIn Laminar , Inc. - LinkedIn LinkedIn https://www.linkedin.com > laminar-inc",
+    "url": "https://www.linkedin.com/company/laminar-inc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Laminar Flow Design - Facebook Laminar Flow Design - Facebook Facebook https://www.facebook.com > ... > Hobby Store",
+    "url": "https://www.facebook.com/p/Laminar-Flow-Design-100087524543048/",
+    "pass": 3
+   },
+   {
+    "quote": "Icaro Laminar Wing Review and Flight Experience - Facebook Icaro Laminar Wing Review and Flight Experience - Facebook Facebook https://www.facebook.com > ... > Hang Gliding | Facebook",
+    "url": "https://www.facebook.com/groups/Hang.Glide/posts/10159798641726116/",
+    "pass": 3
+   },
+   {
+    "quote": "Probably the best example of Laminar flow I've seen with my ... Probably the best example of Laminar flow I've seen with my ... Facebook https://www.facebook.com > groups > dullmensclub > posts",
+    "url": "https://www.facebook.com/groups/dullmensclub/posts/1850913362231863/",
+    "pass": 3
+   },
+   {
+    "quote": "Laminar Tiles | Kathmandu - Facebook Laminar Tiles | Kathmandu - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/laminartiles/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.laminar.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laminar.com/customers/optro",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laminar.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laminar.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laminar.com/solutions/supplychain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laminar.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laminar.com/customers/acv-auctions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laminar.com/customers/whoop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laminar.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laminar.com/solutions/finance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laminar.com/solutions/technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laminar.com/solutions/lifesciences",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laminar.com/solutions/professional",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laminar.com/solutions/education",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laminar.com/solutions/energy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laminar.com/solutions/realestate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laminar.com/customers/templafy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laminar.com/customers/university-of-arizona",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.laminar.com/_next/image?url=https%3A%2F%2Fe41zxxeu1foeyhhk.public.blob.vercel-storage.com%2Fmedia%2FpartnersTex_square_V2-2160x2160.jpg&w=2560&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://e41zxxeu1foeyhhk.public.blob.vercel-storage.com/media/Partners_step1_centered.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://e41zxxeu1foeyhhk.public.blob.vercel-storage.com/media/Partners_step2_centered.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://e41zxxeu1foeyhhk.public.blob.vercel-storage.com/media/Partners_step3_centered.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://response.jp/article/2026/11/07/418712.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amesha-world.com/info/detail.php?id=4277",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mirion.com/jp/products/medical/nuclear-medicine-instrumentation/lab-supplies/shielded-laminar-air-flow-laf/laminar-flow-hood",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taylor-reactor.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://laminar.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taylor-reactor.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-medtech-acquires-laminar-inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.parigot.jp/c/brand/laminar?srsltid=AYCX9vKS_TnpvnM4BhcTcK-Nq8FqfBYQ5ZW5Nxk3jjCZOvBY9WhPik0K",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/run-laminar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://runlaminar.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://laminarflowinc.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/run-laminar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.laminar.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intermedia.com/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://p2pmarketdata.com/companies/laminar-scientific",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/laminar/__DntRt_I-7jraagnnbsx31MOjGFC-eBobZmrLsQajEPs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/720908-20",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/h2ok-innovations",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/e_dao/n/n559fad2e81c8?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kamakiriphysics/n/ncc23114c4e0d?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sankituushin/n/na0d8ba78b94a?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sankituushin/n/n842e67f98be0?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/lmnrai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LaminarProtocol",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LaminarFox",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/laminar_xyz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/run-laminar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/laminar-security",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/lmnr-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/laminar-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Laminar-Flow-Design-100087524543048/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/Hang.Glide/posts/10159798641726116/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/dullmensclub/posts/1850913362231863/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/laminartiles/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/laminarlabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lmnrai",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Laminar 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://response.jp/article/2026/11/07/418712.html",
+    "https://amesha-world.com/info/detail.php?id=4277",
+    "https://www.stellantis.jp/",
+    "https://trafficnews.jp/post/725198",
+    "https://www.webcg.net/articles/-/54501",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=160111/",
+    "https://www.laminar-robotics.co.jp/",
+    "https://laminar.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Laminar 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.mirion.com/jp/products/medical/nuclear-medicine-instrumentation/lab-supplies/shielded-laminar-air-flow-laf/laminar-flow-hood",
+    "https://www.taylor-reactor.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9",
+    "https://www.bgent.net/plus/article/7044",
+    "https://laminar.jp/",
+    "https://www.ramico.co.jp/partner/recruitment/",
+    "https://www.jftc.go.jp/dk/soudanjirei/h23/h22nendomokuji/h22nendo02.html",
+    "https://alpc.tokyo/pages/business-d2c",
+    "https://prtimes.jp/topics/keywords/%E6%97%A5%E6%9C%AC%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "https://www.digital-biology.co.jp/allianced/cms/wp-content/uploads/2021/11/Curiox_LaminarWash_CP_20211108.pdf",
+    "https://ja.wikipedia.org/wiki/ジョージフィッシャー_(企業)"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Laminar Japan",
+   "results": [
+    "https://www.taylor-reactor.jp/",
+    "https://www.jnj.com/media-center/press-releases/johnson-johnson-medtech-acquires-laminar-inc",
+    "https://www.parigot.jp/c/brand/laminar?srsltid=AYCX9vKS_TnpvnM4BhcTcK-Nq8FqfBYQ5ZW5Nxk3jjCZOvBY9WhPik0K",
+    "https://www.linkedin.com/company/run-laminar",
+    "https://www.laminarm.com/laminar/",
+    "https://greentown.org/news/laminar-combines-sensors-and-ai-to-create-self-optimizing-factories",
+    "https://www.instagram.com/LAMINAR/",
+    "https://runlaminar.com/",
+    "https://en.wikipedia.org/wiki/Laminar_flow_cabinet",
+    "https://en.wikipedia.org/wiki/Laminar_armour"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Laminar manufacturing customer case study",
+   "results": [
+    "https://runlaminar.com/",
+    "https://laminarflowinc.com/case-studies/",
+    "https://www.linkedin.com/company/run-laminar",
+    "https://www.laminar.com/customers",
+    "https://www.newswire.ca/news-releases/h2ok-innovations-rebrands-as-laminar-pioneering-closed-loop-ai-for-autonomous-cpg-manufacturing-895721400.html",
+    "https://www.sciencedirect.com/science/article/abs/pii/S092401361530056X",
+    "https://www.youtube.com/watch?v=VsCJdVX5O9M",
+    "https://www.laminarprojects.com/our-stories",
+    "https://laminar.consulting/case-studies/",
+    "https://runlaminar.com/case-studies"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Laminar white label OR reseller OR partner program",
+   "results": [
+    "https://www.intermedia.com/resellers",
+    "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Laminar founded funding employees revenue",
+   "results": [
+    "https://p2pmarketdata.com/companies/laminar-scientific",
+    "https://tracxn.com/d/companies/laminar/__DntRt_I-7jraagnnbsx31MOjGFC-eBobZmrLsQajEPs",
+    "https://pitchbook.com/profiles/company/720908-20",
+    "https://www.crunchbase.com/organization/h2ok-innovations",
+    "https://www.konaequity.com/company/laminar-research-4019766474/",
+    "https://growjo.com/company/Laminar_Global",
+    "https://www.cbinsights.com/company/h2ok-innovations/financials",
+    "https://crustdata.com/profiles/company/laminar-ai-yc-s24",
+    "https://mgmtboston.com/companies/laminar",
+    "https://compworth.com/company/laminar"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Laminar",
+   "results": [
+    "https://note.com/e_dao/n/n559fad2e81c8?hl=en",
+    "https://note.com/kamakiriphysics/n/ncc23114c4e0d?hl=en",
+    "https://note.com/sankituushin/n/na0d8ba78b94a?hl=en",
+    "https://note.com/sankituushin/n/n842e67f98be0?hl=en",
+    "https://note.com/onemore1152/n/neb2101fbb411?hl=en",
+    "https://note.com/pippinxpippin/n/n9b76e04438d7",
+    "https://note.com/takakiba/n/nc70f0327293c?hl=en",
+    "https://note.com/benrishi_coffee/n/nd43ad25614b4?hl=en",
+    "https://note.com/benrishi_coffee/n/ndc58cbd78436?hl=en"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com Laminar",
+   "results": [
+    "https://x.com/lmnrai",
+    "https://x.com/LaminarProtocol",
+    "https://x.com/LaminarFox",
+    "https://x.com/laminar_xyz",
+    "https://x.com/Argonaut1535/status/2112014279843217495",
+    "https://x.com/JulianGoldieSEO/status/2109353783004438929",
+    "https://x.com/TrackYourHeart/status/2109281003147579624",
+    "https://x.com/omarsar0/status/2113435080278360133",
+    "https://x.com/_dylanga/status/2112660364290892080",
+    "https://x.com/laminarglobal"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Laminar",
+   "results": [
+    "https://www.linkedin.com/company/run-laminar",
+    "https://www.linkedin.com/company/laminar-security",
+    "https://www.linkedin.com/company/lmnr-ai",
+    "https://www.linkedin.com/company/laminar-inc",
+    "https://www.linkedin.com/company/laminar",
+    "https://www.linkedin.com/in/annielulaminar",
+    "https://www.linkedin.com/company/laminarscientific",
+    "https://au.linkedin.com/company/laminar-communications",
+    "https://uk.linkedin.com/company/laminarprojects",
+    "https://in.linkedin.com/company/laminargroup"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Laminar",
+   "results": [
+    "https://www.facebook.com/p/Laminar-Flow-Design-100087524543048/",
+    "https://www.facebook.com/groups/Hang.Glide/posts/10159798641726116/",
+    "https://www.facebook.com/groups/dullmensclub/posts/1850913362231863/",
+    "https://www.facebook.com/laminartiles/",
+    "https://www.facebook.com/WJBFNewsChannel6/posts/the-answer-for-today-is-b-laminar/1534240675399759/",
+    "https://www.facebook.com/AccuWeather/videos/not-a-glitch-in-the-matrix-just-laminar-flow-in-action/836654896055724/",
+    "https://www.facebook.com/groups/1386696498248239/posts/3577664582484742/",
+    "https://www.facebook.com/groups/Hang.Glide/posts/10158767116921116/",
+    "https://www.facebook.com/laminarcdc/",
+    "https://www.facebook.com/LaminarTech/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Laminar note 社長",
+   "results": [
+    "https://github.com/lmnr-ai/lmnr",
+    "https://laminar.sh/",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/sadaaki",
+    "https://x.com/sadaaki",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://www.constructcap.com/articles/laminar-july-2023",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Laminar X 投稿",
+   "results": [
+    "https://x.com/laminarlabs",
+    "https://x.com/lmnrai",
+    "https://laminar.sh/",
+    "https://community.x-plane.com/",
+    "https://developer.laminardata.aero/documentation/laminarx",
+    "https://github.com/lmnr-ai/lmnr",
+    "https://www.laminarprojects.com/log-in",
+    "https://github.com/lmnr-ai"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部42頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部42頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部42頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部42頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部42頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部42頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部42頁・検索12回）"
+ }
+}

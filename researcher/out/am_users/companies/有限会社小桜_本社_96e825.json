@@ -1,0 +1,348 @@
+{
+ "name": "有限会社小桜 本社",
+ "aliases": [],
+ "context": "ipros_all:多品種",
+ "researched_at": "2026-11-11T23:08:24.348771+00:00",
+ "official_url": "https://www.kozakura-ltd.com",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "田中　恒",
+    "url": "https://www.kozakura-ltd.com/company.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "各種金属部品精密加工 大型部品加工・組立 新規・改造設計業務",
+    "url": "https://www.kozakura-ltd.com/company.html",
+    "pass": 1
+   },
+   {
+    "label": "適格請求書発行事業者登録番号",
+    "value": "T2012402004930",
+    "url": "https://www.kozakura-ltd.com/company.html",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社・工場 〒184-0005　東京都小金井市桜町2-12-40",
+    "url": "https://www.kozakura-ltd.com/company.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "9名",
+    "url": "https://www.kozakura-ltd.com/company.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "製品分野": [
+   {
+    "quote": "以来、印刷機・自動車・高周波・超音波・研究機関・工場ライン自動化装置などの幅広い分野の装置の部品供給させて頂いております",
+    "url": "https://www.kozakura-ltd.com/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は創業以来、半導体・印刷機・自動車・高周波・超音波・大学研究機関装置など幅広い分野にサプライヤーとして加工部品の供給を行う加工会社となります",
+    "url": "https://mono.ipros.com/company/detail/2070962/",
+    "pass": 3
+   },
+   {
+    "quote": "印刷機器装置／高周波焼入装置／超音波洗浄装置／自動車製造装置／自動車部品／航空機器部品／半導体製造装置／食品製造装置の架台部品や装置部品一式として納入（装置会社様／加工会社様／商社様を始めとする）",
+    "url": "https://mono.ipros.com/company/detail/2070962/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "製品・サービス(2)",
+    "url": "https://mono.ipros.com/company/detail/2070962/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (2)",
+    "url": "https://mono.ipros.com/company/detail/2070962/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "主な材質としてはアルミ・鉄・ステンレスの３種を中心に快削黄銅や真鍮・チタン・樹脂などの特殊材にも対応しております",
+    "url": "https://mono.ipros.com/company/detail/2070962/",
+    "pass": 3
+   },
+   {
+    "quote": "精密機械加工では鉄・ステンレス・アルミ・銅・真鍮・樹脂などの様々な材質を大小多品種・小ロット、試作など幅広く対応し加工しております",
+    "url": "https://mono.ipros.com/company/detail/2070962/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "精密機械加工では鉄・ステンレス・アルミ・銅・真鍮・樹脂などの様々な材質を大小多品種・小ロット、試作など幅広く対応し加工しております",
+    "url": "https://mono.ipros.com/company/detail/2070962/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kozakura-ltd.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kozakura-ltd.com/company.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E5%B0%8F%E3%83%AD%E3%83%83%E3%83%88%E7%94%9F%E7%94%A3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2070962/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/455212/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kozakura-c.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palgroup.holdings/contact/corp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arcmeal.co.jp/contact.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kozosushi.co.jp/inquiry",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "小桜 本社 取扱製品 試作 小ロット",
+   "results": [
+    "https://injection-lab.com/technology/64-2.html",
+    "https://mono.ipros.com/cg2/%E5%B0%8F%E3%83%AD%E3%83%83%E3%83%88%E7%94%9F%E7%94%A3/",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.u-topia.co.jp/products/low-volume-series.html",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://kyoeidesign.co.jp/lot-production/qa-lot-production/",
+    "https://k-shouji.co.jp/minimumlot/",
+    "https://www.zen.co.jp/",
+    "https://kozakura1961.jp/metal_processing2/3767473d-bd41-4f6a-ae27-1de06121575e/a48a2ba8-1313-48b6-89f4-a9177dc77faf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "小桜 本社 会社概要 事業内容",
+   "results": [
+    "https://mono.ipros.com/company/detail/2070962/",
+    "https://tenshoku.mynavi.jp/company/455212/",
+    "https://kozakura-c.com/company/",
+    "https://www.pasonacareer.jp/job/81244125/",
+    "https://www.r-agent.com/company/c9043/",
+    "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3015851547/",
+    "https://kozakura.co.jp/company/",
+    "https://compalyze.co.jp/company/3010401120797",
+    "https://mid-tenshoku.com/job/j-46749984/",
+    "https://www.kozakura-ltd.com/company.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "小桜 本社 お問い合わせ メール",
+   "results": [
+    "https://www.palgroup.holdings/contact/corp/contact/",
+    "https://www.arcmeal.co.jp/contact.html",
+    "https://kozosushi.co.jp/inquiry?lang=ja",
+    "https://www.monogatari.co.jp/contact/",
+    "https://support.dot-st.com/hc/ja/articles/4406252169615-%E3%83%A1%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%AE%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B",
+    "https://hakopro.jp/register?type=publish&company_id=2641&company_name=%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%80%80%E5%B0%8F%E6%A1%9C",
+    "https://secure.okbiz.jp/question-kashiwa/helpdesk?category_id=425&site_domain=default",
+    "https://www.sanoh.com/contact-otr-ent/contact",
+    "https://donq.co.jp/contact/",
+    "https://kozakura.co.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 小桜 本社",
+   "results": [
+    "https://note.com/tag/%E5%B0%8F%E6%A1%9C%E3%81%BB%E3%81%AE%E3%81%8B",
+    "https://note.com/yurifull/n/nab8bec022e8a",
+    "https://note.com/snows130/n/n55569ecbe5b2",
+    "https://note.com/kokuhou_tanbou/n/nd897c4cea3f5",
+    "https://note.com/rio_production/n/nd9253fe60bb1",
+    "https://note.com/eveningmusic/n/n32bdf8595858",
+    "https://note.com/nakai1958jp/n/n66af0f953f2e",
+    "https://note.com/f_innovations/n/n000958f5efb3",
+    "https://note.com/wakulabo_/n/n6c70f67bc15f",
+    "https://note.com/kozakurasha"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 小桜 本社",
+   "results": [
+    "https://x.com/alittlealittle/status/2100825218742947933",
+    "https://x.com/alittlealittle",
+    "https://x.com/KUMON_japan/status/2039562033440657790",
+    "https://x.com/hrk_sana",
+    "https://x.com/moekichi_tantan",
+    "https://x.com/manaususoukaM5/status/1997206058851594477",
+    "https://x.com/moekichi_tantan/status/1952794982626279698",
+    "https://x.com/manaususoukaM5/status/1853282631338930204",
+    "https://x.com/manausm4sa",
+    "https://about.x.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 小桜 本社",
+   "results": [
+    "https://jp.linkedin.com/in/%E6%95%99%E9%9B%84-%E5%8A%A0%E6%B4%B2-133a4255",
+    "https://jp.linkedin.com/in/%E7%BE%8E%E5%A5%88-%E9%AB%98%E6%A9%8B-50799034b",
+    "https://jp.linkedin.com/in/征一郎-前田-a01b171bb",
+    "https://jp.linkedin.com/in/征一郎-前田-214288360",
+    "https://za.linkedin.com/in/laurinda-mabunda-90448a1a1",
+    "https://www.linkedin.com/company/hinduja-global-solutions-inc--",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://co.linkedin.com/in/catalina-lobo-guerrero-correa-10821666",
+    "https://www.linkedin.com/company/login-nl"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com 小桜 本社",
+   "results": [
+    "https://www.facebook.com/sakiatejoegoo/posts/%E5%BA%A6%E3%80%85%E7%B4%B9%E4%BB%8B%E3%81%95%E3%81%9B%E3%81%A6%E9%A0%82%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%E9%82%A3%E8%A6%87%E3%81%AE%E9%8A%98%E5%BA%97%E5%B0%8F%E6%A1%9C-%E5%B0%8F%E6%A1%9C-3%E4%BB%A3%E3%81%AB%E6%B8%A1%E3%82%8A%E5%9B%BD%E9%9A%9B%E9%80%9A%E3%82%8A%E7%95%8C%E9%9A%88%E3%81%A7%E3%83%95%E3%83%A9%E3%83%83%E3%82%B0%E3%82%B7%E3%83%83%E3%83%97%E3%82%92%E6%8F%A1%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E6%9C%80%E6%96%B0%E3%81%AE%E6%B2%96%E7%B8%84%E4%BA%8B%E6%83%85%E3%81%AB%E3%82%82%E6%98%8E%E3%82%8B%E3%81%84%E5%B0%8F%E6%96%99%E7%90%86%E5%B1%8B%E3%81%95%E3%82%93%E5%BD%BC%E3%82%89%E3%81%8C%E7%99%BA%E4%BF%A1%E3%81%97%E7%B6%9A%E3%81%91%E3%81%A6%E3%81%84%E3%82%8Ba%E3%83%9C%E3%83%BC/1794408379356511/",
+    "https://www.facebook.com/kimonoyamato.jp/posts/%E3%81%84%E3%81%A3%E3%81%B4%E3%82%93%E5%8D%9A%E5%88%B6%E4%BD%9C%E5%B7%A5%E7%A8%8B%E3%81%94%E7%B4%B9%E4%BB%8B%E5%8B%95%E7%94%BB%E2%91%A1%E6%89%8B%E7%B5%84%E3%81%BF%E5%B8%AF%E3%80%86%E3%81%9D%E3%81%AE1%E5%B0%8F%E6%A1%9C%E6%BA%90%E6%B0%8F%E8%8A%B1%E6%9F%84%E3%81%8C%E9%80%A3%E3%81%AA%E3%82%8B%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%8C%E5%8F%AF%E6%84%9B%E3%82%89%E3%81%97%E3%81%84%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E5%B8%AF%E3%80%86%E8%A1%A8%E8%A3%8F%E3%81%A7%E8%89%B2%E3%81%8C%E7%95%B0%E3%81%AA%E3%82%8A1%E6%9C%AC2%E5%BD%B9%E3%81%A7%E4%BD%BF%E3%81%84%E5%88%86%E3%81%91%E3%81%A6%E6%A5%BD%E3%81%97%E3%82%81%E3%82%8B%E3%81%AE%E3%81%8C%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%81%A7%E3%81%99/1154731376785418/",
+    "https://www.facebook.com/digiwave.co/posts/%E4%BD%8F%E5%AE%85%E8%A8%AD%E5%82%99%E6%A9%9F%E5%99%A8%E3%81%AE%E4%BA%88%E7%B4%84%E8%A6%8B%E5%AD%A6%E4%BC%9A%E3%82%92%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%99%E5%AE%9F%E9%9A%9B%E3%81%AE%E5%95%86%E5%93%81%E3%82%92%E3%81%9D%E3%81%AE%E7%9B%AE%E3%81%A7%E7%A2%BA%E8%AA%8D%E3%81%97%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B1%E6%9C%8810%E6%97%A5%E5%9C%9F1%E6%9C%8812%E6%97%A5%E7%A5%9D-10%E6%99%8215%E6%99%82%E6%9D%A5%E5%BA%97%E5%B8%8C%E6%9C%9B%E6%97%A5%E6%99%82%E9%96%93%E3%81%AE%E3%81%94%E9%80%A3%E7%B5%A1%E3%82%92%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%99%E3%81%94%E4%BA%88%E7%B4%84%E3%81%AF-09/1644388650282940/",
+    "https://www.facebook.com/groups/2651207818367043/posts/3677876329033515/",
+    "https://www.facebook.com/fumihiro.hoshino/posts/%E6%98%A8%E6%97%A5%E3%81%AF%E4%B8%8B%E9%96%A2%E3%81%8B%E3%82%89%E6%96%B0%E5%B9%B9%E7%B7%9A%E3%81%A7%E5%BA%83%E5%B3%B6%E9%A7%85%E3%81%AB%E3%81%9D%E3%81%93%E3%81%A7%E5%BE%85%E5%8F%97%E3%81%91%E3%81%A6%E3%81%9F%E3%81%AE%E3%81%AF%E7%BE%BD%E9%BB%92%E5%B1%B1%E4%BC%8F%E3%81%AE%E5%9B%BD%E5%A5%BD%E9%9B%85%E5%A4%AB%E3%81%9F%E3%81%A1%E7%9A%86%E3%81%A6%E5%BA%83%E5%B3%B6%E3%81%A8%E8%A8%80%E3%81%88%E3%81%B0%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E3%81%8D%E3%82%92%E9%A0%AC%E5%BC%B5%E3%82%8B%E3%81%9D%E3%81%AE%E5%BE%8C%E5%B9%B3%E5%92%8C%E8%A8%98%E5%BF%B5%E5%85%AC%E5%9C%92%E3%81%AB%E8%B5%B4%E3%81%8D%E6%88%A6%E6%B2%A1%E8%80%85%E4%BE%9B%E9%A4%8A%E5%A1%94%E3%81%AB%E5%9B%BD%E5%A5%BD%E3%81%AE%E5%B0%8E/29428629586826346/",
+    "https://www.facebook.com/groups/1542762012625503/posts/4560645100837164/",
+    "https://www.facebook.com/singer.reika/posts/%E4%BB%8A%E6%97%A5%E3%81%AF%EF%BE%8E%EF%BE%83%EF%BE%99%EF%BE%9A%EF%BD%B2%EF%BD%B8%EF%BD%B1%EF%BE%99%EF%BD%BD%EF%BE%80%EF%BD%B0%E6%B3%89%E5%A4%A7%E6%B4%A5%E3%81%AB%E3%81%A6-%E7%AC%AC3%E5%9B%9E%E7%9B%AE%E3%81%AE%E4%BC%9A%EF%BE%9A%EF%BD%B2%EF%BD%B8%EF%BD%B1%EF%BE%99%EF%BD%BD%EF%BE%80%EF%BD%B0%E3%81%A7gogo%E8%A6%AA%E7%9D%A6%E4%BC%9A%E3%81%A7%E3%81%97%E3%81%9F%E6%B2%A2%E5%B1%B1%E3%81%AE%E6%AD%8C%E6%89%8B%EF%BD%B6%EF%BE%97%EF%BD%B5%EF%BD%B9%E5%BA%97%E4%B8%BB%E6%A7%98-%E6%84%9B%E5%A5%BD%E5%AE%B6%E3%81%AE%E6%96%B9%E3%80%85%E3%81%8C%E9%9B%86%E3%81%BE%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%EF%BD%B4%EF%BE%97%EF%BD%B2%E7%AC%91%E3%81%A3%E3%81%A6%E3%82%8B%E5%86%99%E7%9C%9F/26888278707522206/",
+    "https://www.facebook.com/readspeakerjp/",
+    "https://www.facebook.com/kozakurakk/",
+    "https://www.facebook.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "小桜 本社 note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.jp/n/ncdf97fd53291",
+    "https://x.com/sadaaki",
+    "https://note.com/tag/%E5%B0%8F%E6%A1%9C",
+    "https://www.smrj.go.jp/supporter/fund_investment/funding/case/aihbak0000001wv3.html",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://ja.wikipedia.org/wiki/Note_(%E4%BC%81%E6%A5%AD)",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://kozakura.co.jp/en/company/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "小桜 本社 X 投稿",
+   "results": [
+    "https://x.com/kozakuramaiko/status/2062417024660439428",
+    "https://www.instagram.com/kozakuraam/",
+    "https://x.com/kozakura_radio",
+    "https://dic.pixiv.net/a/%E5%B0%8F%E6%A1%9C",
+    "https://www.xvideos.com/tags/%E5%B0%8F%E6%A1%9C%E6%B2%99%E6%A8%B9",
+    "https://x.com/kozakura_tw",
+    "https://www.instagram.com/reel/DejRe4fz9af/",
+    "https://t.co/U5w1kYxPIM",
+    "https://x.com/0418da",
+    "https://x.com/KOZAKURA_SAAAN/status/2120148815097553148"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部9頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部9頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部9頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部9頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部9頁・検索9回）"
+ }
+}

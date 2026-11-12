@@ -8,36 +8,8 @@
  ],
  "context": "9 マテリアル ⑤製錬・分離精製・リサイクル",
  "kind": "market",
- "researched_at": "2026-11-10T17:01:16.163749+00:00",
+ "researched_at": "2026-11-11T23:06:19.974352+00:00",
  "evidence": {
-  "痛み・損（深さの印）": [
-   {
-    "quote": "日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "事業に関して、一部企業は撤退や減産を発表",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "安定した調達は操業の安定化と機会損失の減少につながるため、公平・公正な取引、腐敗防止、法令遵守、人権等に配慮し、取引先と社会や環境への負の影響を予防・軽減する協力関係の構築を目指しています",
-    "url": "https://ir.mmc.co.jp/ja/sustainability/social/supply_chain.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "SNS・note（note・検索結果の抜粋）": [
-   {
-    "quote": "なぜレアアースの リサイクル は難しいのか ―「都市鉱山」が ... なぜレアアースの リサイクル は難しいのか ―「都市鉱山」が ... note https://note.com > 科学・テクノロジー > 金属・鉱学",
-    "url": "https://note.com/science_totoron/n/n131d4e93bb8f",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "検索結果の抜粋": [
    {
     "quote": "使用済小型家電からの レアメタルリサイクル について - 環境省 — 使用済小型家電からの レアメタルリサイクル について - 環境省 環境省 PDF https://www.env.go.jp > council > former2013 > ref04",
@@ -70,753 +42,323 @@
     "first_seen": "2026-11-04"
    }
   ],
-  "顧客の競合（奪いに来る側）": [
+  "自社の競合（商社・代理店・仲介）": [
    {
-    "quote": "ザフスタン・SARECO、インド・インディアンレア",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "３０％以上を中国以",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "中国からの入手は実際に必要な量の半分以下となっている",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "FCC触媒は、補正予算による、代替材料の開発に成功したものの、量産化へはまだ時間がかかるため、引き続き中国からのランタンの輸入が必要",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "価格高騰と中国内外価格差のため中国メーカーが市場を伸ばしている",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "光学レンズは、高純度ランタンの代替が実現できておらず、レンズの生産量縮小と、一部中国へ移転し加工品にして持ち込む方向で対応",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": " 中国政府・企業が供給を絞っているジスプロシウムを含む 、電動パワーステアリングやオルタネーター等の車載モーター ・",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "に実装可能な技術を早期に 確立し、中国への技術流出を防ぐ",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "東邦亜鉛、群馬の拠点で鉛鉱石からレアアース 脱中国依存へ",
-    "url": "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "次の半導体大国、インド",
-    "url": "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "インド半導体の業界地図 タタ経済圏に450社、日本の突破口明らかに",
-    "url": "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "政府、APEC宣言に「貿易の透明性」提案 中国レアアース規制念頭",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "中国の貿易黒字が2年連続1兆ドル超 1〜10月、各国との摩擦悪化要因に",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "次の半導体大国、インド",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "インド半導体の業界地図 タタ経済圏に450社、日本の突破口明らかに",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "また、低炭素金属部素材（鉄鋼以外）の項目においても、「アルミニウムやレアメタルを中心に、欧州では素材製造 プロセスの脱炭素化要請が高まる中、製造工程の脱炭 素化やリサイクルシステム構築は製造業の国際競争力 維持・強化の観点から急務」としたうえで、生産基盤の強化に加え、「リサイクル施設への技術開発・設備投資支援、国・自治体による優先的調達・購入といった初期需要創出に向けた取組を通じ、高品質な低炭素金属部素材を世界に先駆けて商業化し、競争優位性の確立につなげる」と方針が示された",
-    "url": "https://www.iru-miru.com/article/82478",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "中国鉄鋼PMI（10月）：50を大きく割り込む",
-    "url": "https://www.iru-miru.com/article/82478",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "【ECOMONDO 2026】欧州鉄鋼業に二重の圧力 CBAMと輸入関税強化、スクラップ確保も焦点に",
-    "url": "https://www.iru-miru.com/article/82478",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "チタン鉱石輸入Report#89 2026年イルメナイト以外インドからの輸入増加",
-    "url": "https://www.iru-miru.com/article/82478",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "中国依存をどう減らす？2026年の重要鉱物サプライチェーン最前線｜株式会社KUMU Works",
-    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "中国依存をどう減らす？2026年の重要鉱物サプライチェーン最前線",
-    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "これは、世界最大の重要鉱物・レアアース生産国である中国が輸出規制を急増させたことが主な要因です",
-    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "これらの規制は主に米国および西側諸国を対象としており、世界のサプライチェーンは製品の原材料について代替供給源を確保するため、サプライチェーンの下位層まで詳細な分析を迫られています",
-    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "多くの企業にとっての現実は、中国が製造投入材料に使用される鉱物の採掘・抽出を支配しているという点です",
-    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "トヨタHV特許出願､5年1000件と突出 中国勢は方式集約",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "quote": "アジア•ヨーロッパなどの製錬所、商社、エンドユーザーなどと多数の実績があるので、幅広いニーズにお応えできます",
+    "url": "https://www.kohwa-s.co.jp/",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "2024年に国策企業の中国資源循環集団(資本金約2千億円)を設立",
-    "url": "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
+    "quote": "レアメタルリサイクルの専門商社『メタルドゥ』のご紹介",
+    "url": "https://mono.ipros.com/cg2/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "循環ネットワークを構築 国 i RY 米国・欧州 . a",
-    "url": "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
+    "quote": "株式会社メタルドゥは創業64年、会社設立48年以上の歴史を持つレアメタルリサイクルの専門商社であり、",
+    "url": "https://mono.ipros.com/cg2/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "米財務長官、中国副首相と電話協議 「首脳会談の合意は全面履行を」",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "quote": "株式会社イフ商会は、お客様の製品コスト低減、品質安定、新技術・新製品開発のスピードアップに貢献できる多機能商社です",
+    "url": "https://mono.ipros.com/cg2/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB/",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-08"
    },
    {
-    "quote": "インド財閥、セブンイレブン閉店 Nikkei Asia注目記事",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「特集・インド半導体」「米陸軍で痛感した壁」 注目5本",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "・安価な抽出剤や、ネオジムとプラセオジムの分離性能に優れた抽出剤",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・欧州10カ国で導入済み、回収率は平均75%に向上",
+    "quote": "プレイヤー構成：自治体×リサイクル企業×商社",
     "url": "https://note.com/iceman_23/n/nfea3a09d5355",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "中国では都市鉱山の埋蔵量が世界最大規模に達しており、政府主導で回収システムの整備を進めています",
-    "url": "https://trashtech.jp/journal/detail/20250414",
+    "quote": "【プレイヤー3：商社】",
+    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "quote": "経済安保の「実行部隊」：高市政権の資源外交と商社の戦略的展開",
+    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "⚫ 中国は、2023年８月のガリウムとゲルマニウムへの措置を皮切りに、重要鉱物に対する輸出管理を強化",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
+    "quote": "これまで特定の国に依存してきたサプライチェーンの脆弱性を克服するため、政府主導の「資源外交」と、その実働を担う「総合商社」の連携が加速しています",
+    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "⚫ 2025 年10月には、極微量であっても 中国産レアアースを含む 製品の再輸出規制 やレアアース及び電",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
+    "quote": "日本が持つAIを活用した効率的な資源探査技術の供与と引き換えに、日本の商社が中央アジアに豊富に眠るレアメタルの共同開発権益を優先的に確保する枠組みが構築されました",
+    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "2025年10月発表の輸出管理措置の概要（※1年停止）中国による輸出管理措置対象の鉱種",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
+    "quote": "特定の国にサプライチェーンが偏るリスクを回避するため、商社が直接権益を取得し、採掘から販売までを一貫して管理する「一貫サプライチェーン」の構築が急務となっています",
+    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "中国国外の組織・個人による中国以外の国・地域への以下レアアース関連品目の輸出に、輸出許可取得を",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
+    "quote": "国内資源への期待と商社・エンジニアリング企業の役割",
+    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "① 中国産レアアース（価値比率0.1%以上）を含む、外国で生産されたレアアース関連製品（磁石等）",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
+    "quote": "これらの企業や商社が持つ資源開発能力は、単なるビジネスの枠を超え、日本の「交渉力」を裏から支える国家的な資産と位置付けられています",
+    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "対ミャンマー圧力の米国、対話路線に転換 新戦略で「中国に対抗」",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "米国が突きつけたトランプ氏への痛烈な拒絶 エドワード・ルース",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（国内需要に占めるシェア） （効率的な回収技術） （抽出技術）",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "三菱マテリアル、米リエレメントとレアアースなど重要鉱物のリサイクル事業で協業(日本、米国) | ビジネス短信 ―ジェトロの海外ニュース - ジェトロ",
-    "url": "https://www.jetro.go.jp/biznews/2026/04/402fd0ed8c1589ef.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（米国、日本）",
-    "url": "https://www.jetro.go.jp/biznews/2026/04/402fd0ed8c1589ef.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "具体的には、米国でリエレメント向けの原料調達、委託精製、および同社製品のオフテイク契約（引き取り契約）を引き受けることで三菱マテリアルが北米における資源循環型サプライチェーンに参画する",
-    "url": "https://www.jetro.go.jp/biznews/2026/04/402fd0ed8c1589ef.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "また、米国でのレアアースの再利用は中国や一部の欧州諸国と比較すると未発達で、現在の消費量のわずか1％未満しか再利用されていないといわれている",
-    "url": "https://www.jetro.go.jp/biznews/2026/04/402fd0ed8c1589ef.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同社は米国と中国との通商を巡る緊張感が高まる中、2025年4月21日に米国でのレアアース・レアメタル需要急増に対応するため、インディアナ州ノーブルズビル工場の操業設備を拡張すると発表しており、今回の三菱マテリアルとの提携は同社の米国での国内事業を強化・拡大し、グローバル化に向けた一連の取り組みに続くものとなっている",
-    "url": "https://www.jetro.go.jp/biznews/2026/04/402fd0ed8c1589ef.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "中国依存を崩す切り札になるか、米国が本腰を入れるレアアース「都市鉱山」と日本企業の商機（2026年5月 JBpress掲載）｜レポート｜オウルズコンサルティンググループ",
-    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "中国依存を崩す切り札になるか、米国が本腰を入れるレアアース「都市鉱山」と日本企業の商機（2026年5月 JBpress掲載）",
-    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "いま米国が進めているのは、新しい鉱山を探すことだけではない",
-    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "中国に偏った供給網を前提に、採掘、分離・精製、磁石製造、リサイクル、需要家の長期購入契約、さらには価格フロアや国境措置まで組み合わせて、重要鉱物の取引ルールそのものを作り直そうとしている",
-    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2026年2月には、米国ワシントンで重要鉱物をテーマとする多国間閣僚会合が開かれ、日本を含む54カ国とEU（欧州連合）が参加した",
-    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "米紙ウォール・ストリート・ジャーナルは、カナダ発の新興企業Cyclic Materials社がアリゾナ州メサに立ち上げるレアアースリサイクル施設の動きを紹介している（2026年1月27日「電子ごみリサイクル、中国レアアース支配を崩せるか」）",
-    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "もちろん、「都市鉱山」だけで中国のレアアース支配を短期的に崩すことは難しい",
-    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Cyclic Materials社のメサ施設も、年間処理能力は大きいが、回収されるレアアース酸化物は米国内需要の一部にとどまる",
-    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "米国が価格フロアや国境措置を含めて重要鉱物市場を作り直そうとする中で、都市鉱山由来の供給の位置づけを見通すことだ",
-    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "米国が求めているのは、こうした一連の工程を、中国に過度に依存しない形で実装することだ",
-    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "問題は、それを米国の経済安全保障政策とどう接続するかである",
-    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "米国では、ReElement Technologies社のように、レアアースなど重要鉱物資源のリサイクル事業を行う企業が政策支援の対象になっている",
-    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2025年11月には、米国国防総省が、同社とVulcan Elements社に対して合計7億ドルの条件付き融資を発表した",
-    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "このような米国企業に対し、日本企業は資金提供にとどまらず、使用済み製品やスクラップの調達、前処理、分離精製プロセスの改善といった形で関与できる",
-    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実際に、日本企業との協業を通じ、米国内の精製能力の拡大と日本国内でのリサイクル事業化を同時に検討する動きも出ている",
-    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "• 我が国のマテリアル産業は、高機能部素材を中心に、国際的なシェアが高い製品を多く産み出しており、",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "※ 特に、重希土類の輸入については、中国への依存度が100%",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "中国はレアメタル(希少金属)の輸出規制が相次いて強化されている状態で産業界からも調達懸念として話題となっている",
-    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "産出国が特定の地域（例：中国、コンゴ民主共和国）に集中している",
-    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "レアアースはスカンジウム(Sc)、イットリウム(Y)、ランタン(L)などの軽希土類とジスプロシウム(Dy)、テルビウム(Tb)などの重希土類に分類され、重希土類は特に中国に産出が集中している",
-    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "オーストラリア、チリ、中国が主要産出国",
-    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "中国が世界生産の約60％を占め、特に重希土類の供給をほぼ独占",
-    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "2010年の尖閣諸島沖での中国漁船衝突事件では、中国が日本へのレアアース輸出を事実上制限し、供給リスクが顕在化した",
-    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "中国が世界生産の90％以上を占める",
-    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "特に中国は、レアアースの精製技術でも世界の90％を占め、戦略的優位性を保持している",
-    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "米国の対中関税措置への対抗措置として中国政府はレアアース関連品目について輸出管理を開始し、輸出には中国政府への許可申請が必要となった",
-    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "中国やインドなどの経済発展により需要が急増し、価格が高騰",
-    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "特定の国（特に中国やコンゴ民主共和国）に生産が集中しており、政情不安や輸出制限が供給障害を引き起こす可能性がある",
-    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "例えば、2010年の中国によるレアアース輸出制限は、日本産業に大きな影響を与えた",
-    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "中国やインドネシアなど資源国が自国優先の政策を強化している",
-    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "インドネシアは2014年に鉱石輸出禁止措置を、中国は2020年以降レアメタルの輸出規制を実施するなどの例がある",
-    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "レアメタルの供給リスクは表6に示すように最近では2023年以降に中国が相次いで輸出規制を強化したことにある",
-    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "レアメタルのリサイクルに非鉄各社が注力 「脱・中国」で供給網強靱化 | Japan Forward",
-    "url": "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "レアメタルのリサイクルに非鉄各社が注力 「脱・中国」で供給網強靱化",
-    "url": "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "日本の製造業に欠かせない素材だが、埋蔵や生産の多くが中国など特定の国に集中し、地政学リスクを抱える",
-    "url": "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "レアメタルは電気自動車（EV）向けのリチウムイオン電池（LIB）などに使われる日本の製造業に欠かせない素材だが、埋蔵や生産の多くが中国など特定の国に集中し、地政学リスクを抱える",
-    "url": "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "経済産業省によると、リチウムの製錬は約60％、コバルトは約70％、ニッケルは約50％と、多くのシェアを中国が握る",
-    "url": "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "中国はやはり埋蔵や生産で圧倒的なシェアを持つレアアース（希土類）と同様に、レアメタルについても輸出に制限をかけることで日本などを威圧している",
-    "url": "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "すでにタングステンやガリウムの供給は滞っているが、中国のさじ加減によっては、レアメタルの供給は今後さらに厳しくなる可能性がある",
-    "url": "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "中国、9月の日本向けレアアース磁石輸出は171トンの低水準に 米国は前年比4割増",
-    "url": "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "不正アクセス発信源は中国か…生成AIが「日本語の壁」突破 犯行組織細分化で追跡は困難",
-    "url": "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "レアアースの再利用促進、政府が4月にも計画策定 中国依存を軽減 - 日本経済新聞",
+    "quote": "商社・卸売り",
     "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "米国株ランキング",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "quote": "近年ではレアメタルリサイクル技術の研究・開発、実用化が進められていることから、レアメタルリサイクルの重要性が増々高まってきており、当社はレアメタル・レアアースの取り扱いに特化した独自のノウハウやルートを活かして、今後もレアメタル・レアアースの専業商社としてリサイクル事業に取り組んでまいります",
+    "url": "https://www.fuji-material.co.jp/service.html",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "レアアースの再利用促進、政府が4月にも計画策定 中国依存を軽減",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "いまは産業に欠かせない重要鉱物や金属資源の多くを中国からの輸入に頼っている",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "ハイテク製品の生産に不可欠で、最大産地の中国はレアアースを武器に他国を揺さぶる",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "米地質調査所（USGS）によると、世界のレアアース生産量の7割は中国が占める",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "鉱石の製錬やレアアースを使った磁石の生産でも高いシェアを握る",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "中国政府は4月、米国による高関税への報復措置として7種類のレアアースの輸出を規制し、5月のレアアース磁石の輸出は前年同月比で7割減った",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "吉田防衛大校長「対中国、地理や核抑止でレッドライン」 富士山会合",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "東邦亜鉛、群馬の拠点で鉛鉱石からレアアース 脱中国依存へ",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "○特にレアアースについては、中国が低コスト生産により、生産規模を拡大した結果、レアアース",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "の世界供給の約９７％を中国が占める構図",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "年）を中国に依存",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "レアアース生産国の推移 主なレアメタルの上位産出国及びシェア（２０１０年）",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "鉱種 １位 ２位 ３位 上位３カ国の 合計シェア",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "レアアース 中国 97％ インド 2％ ブラジル 0.4％ 99％",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "コバルト コンゴ（民） 51％ ザンビア 13％ 中国 7％ 70％",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "インジウム 中国 52％ 韓国 14％ 日本 12％ 78％",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "タングステン 中国 85％ ロシア 4％ ボリビア 2％ 91％",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "○昨年７月、中国商務部が２０１０年第２期のレアアース輸出枠を約８千トンと発表（２０１０年のレア",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "○さらに、本年５月、商務部及び中国税関が、レアアース鉄合金をレアアースの輸出管理対象にす",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "レアアースの輸出数量枠 （出典：中国商務部ＨＰ）（単位：トン）",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "中国によるレアアース",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "中国がレアアース輸出枠",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "（鉱種の）シェア ③埋蔵量",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "• 米国においても、州レベルで電気電子機器の回収・再資源",
-    "url": "https://www.env.go.jp/content/900535625.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "• 米国では州レベルでWEEEについて回収・再資源化を規定する等の動き",
-    "url": "https://www.env.go.jp/content/900535625.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "近年の鉱物資源をめぐる市場動向をみると、当初は先進諸国はもとより経済発展が著しいBRICS（ブラジル、ロシア、インド、中国、南アフリカ）などでの消費量が急速に拡大したことで、需要が逼迫し、価格も高騰していましたが、リーマン・ショックに起因する経済悪化にともない、2008年上期頃をピークに価格は下落しました",
-    "url": "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "しかし、中国が2010年からレアアースなどの輸出枠削減を行ったことで再び特定鉱種の価格が急騰しました",
-    "url": "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "こうした経済要因に加え、中国の輸出枠削減（2010年から）や、インドネシアによる鉱石輸出禁止措置（2014年）といった政治要因も懸念材料です",
-    "url": "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "日本では、自国では産出されないニッケル鉱石の輸入を世界最大の産出国であるインドネシアに長く依存してきました",
-    "url": "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "高品位なインドネシア産ニッケル鉱石の代替は容易ではなく、需給逼迫と価格上昇が懸念されており、リサイクルの重要性が高まっています",
-    "url": "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "この記事をシェアする",
+    "quote": "レアメタル・レアアースの専門商社の知見を活かし資源リサイクル事業も手掛ける│アドバンストマテリアルジャパン株式会社代表取締役社長 福田 聡 | アルコニックス株式会社",
     "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "2025年3月期は連結売上高約452億円を計上し、日本国内でトップシェアを持つ商品も多いレアメタル・レアアースのリーディング企業として成長を続けている",
+    "quote": "商社流通セグメント",
     "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "――中国が一部レアアースの輸出を許可制にする一方、日米間では南鳥島近海の掘削で協力することが決まるなど、レアメタル・レアアースを取り巻く状況は混沌としています",
+    "quote": "レアメタル・レアアースの専門商社の知見を活かし資源リサイクル事業も手掛ける│アドバンストマテリアルジャパン株式会社代表取締役社長 福田 聡",
     "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "取引先を中国以外に拡大することで「チャイナプラスワン」の体制構築を進めていく予定です",
+    "quote": "レアメタル・レアアースの専門商社としてグループ成長戦略を牽引するAMJの現状と今後の展望",
     "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（以下、AMJ）は、自動車、航空宇宙などの産業競争力を支えるレアメタル・レアアースの専門商社として、アルコニックスグループの電子・先端材料分野における成長を牽引してきました",
+    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AMJは2003年に創業し、レアメタル・レアアースを扱う専門商社として事業を拡大してきた",
+    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アルコニックスにとっても専門商社M&A戦略の起点となる提携となった",
+    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "現在はレアメタル・レアアース専門商社のトップとしてリサイクル事業の強化やグローバル展開を推進",
+    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "一般的な商社は、在庫を多く持つことを避ける傾向があります",
+    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "現在活躍しているトレーダーは、前身の金属商社である蝶理アドバンストマテリアル株式会社時代のレアメタル部門に所属していて、2004年のアルコニックスグループ入りも経て、ここまで残ってくれているメンバーが少なくありません",
+    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "現在は、運送、商社、ワイン販売など全く異なる業界からの転職者も増えています",
+    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "」で示していますが、資源を取り扱う商社である以上、限りある資源の有効活用につながるリサイクルで循環型社会の実現に貢献すべきだと考えました",
+    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【手数料及びリスク情報等】",
+    "url": "https://go.sbisec.co.jp/media/report/dom_em_weekly/dom_em_weekly_251210.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "SBI証券で取り扱っている商品等へのご投資には、商品毎に所定の手数料や必要経費等をご負担いただく場合があります",
+    "url": "https://go.sbisec.co.jp/media/report/dom_em_weekly/dom_em_weekly_251210.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "各商品等への投資に際してご負担いただく手数料等及びリスクは商品毎に異なりますので、詳細につきましては、SBI証券WEBサイトの当該商品等のページ、",
+    "url": "https://go.sbisec.co.jp/media/report/dom_em_weekly/dom_em_weekly_251210.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "マージン管理ポイントは化学処理および精製段階に集中しており、技術効率とプロセスの最適化が回収率と純度レベルに直接影響します",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の金属リサイクル市場は、総合鉄鋼メーカー、専門の非鉄リサイクル業者、商社の子会社からなる競争的な階層構造によって形成されている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "We recently commissioned multiple market research reports from IMARC, and the insights we received were invaluable. The depth of analysis, accuracy of data, and actionable recommendations have greatly enhanced our strategic decision-making.",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "紛争及び高リスク地域（CAHRA）からの鉱物採掘、貿易および輸出に関する政府への税金、手数料及び採掘権料の支払いにおける違反",
+    "url": "https://ir.mmc.co.jp/ja/sustainability/social/supply_chain.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "贈収賄、過失による鉱物原産地の虚偽表示、政府に対する税金、手数料及び採掘権料の納付に係わる違反、環境、健康、安全、労働及び地域社会に関連する現地法の重大な違反、及び/又は、非常に有害な影響をもたらす可能性が高いESGリスクはあるが、取引先が合理的かつ誠実な努力をしていると結論付けた場合、改善計画に基づく取引継続とします",
+    "url": "https://ir.mmc.co.jp/ja/sustainability/social/supply_chain.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "政府への税金、手数料、採掘権料の不払い",
+    "url": "https://ir.mmc.co.jp/ja/sustainability/social/supply_chain.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "資源有効利用促進法では製造事業者や輸入販売事業者に対してリチウムイオン電池へのリサイクルマークの表示が求められており、使用済み電池を識別しやすくし、回収および再資源化の促進を図る仕組みが整備されています",
+    "url": "https://www.isz.co.jp/circular/column/1683/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "This is a paid press release. Contact the press release distributor directly with any inquiries.",
+    "url": "https://finance.yahoo.com/news/precious-metals-e-waste-recovery-102100639.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "European Commission, Waste from Electrical and Electronic Equipment (WEEE). environment.ec.europa.eu",
+    "url": "https://www.gminsights.com/industry-analysis/precious-metals-e-waste-recovery-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Johnson Matthey remains a major platinum-group-metals refiner, with refinery commissioning activity scheduled by the end of FY2025/26. Its position rests on refining expertise and customer requirements for specification-grade materials.",
+    "url": "https://www.gminsights.com/industry-analysis/precious-metals-e-waste-recovery-market",
     "pass": 3,
     "first_seen": "2026-11-04"
    }
   ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "なぜレアアースのリサイクルは難しいのか ―「都市鉱山」が資源にならない本当の理由｜Science Totoron",
+    "url": "https://note.com/science_totoron/n/n131d4e93bb8f",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "なぜレアアースのリサイクルは難しいのか ―「都市鉱山」が資源にならない本当の理由",
+    "url": "https://note.com/science_totoron/n/n131d4e93bb8f",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "スマートフォン、電気自動車（EV）、風力発電など、現代のハイテク技術を支える「レアアース」。私たちの身近な製品に広く使われているにもかかわらず、そのリサイクルはなぜほとんど進んでいないのでしょうか？",
+    "url": "https://note.com/science_totoron/n/n131d4e93bb8f",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「都市鉱山があれば資源問題は解決するのではないか」",
+    "url": "https://note.com/science_totoron/n/n131d4e93bb8f",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "そんな直感的な期待に対し、本動画では資源工学・材料科学の観点から、レアアース・リサイクルが抱える「",
+    "url": "https://note.com/science_totoron/n/n131d4e93bb8f",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "多くの人が「製品の中にレアアースがあるなら、集めて取り出せばいい」と考えます。しかし、天然の鉱石から採掘することと、製品（ゴミの山）から回収することは、科学的に全く別のプロセスです。",
+    "url": "https://note.com/science_totoron/n/n131d4e93bb8f",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本動画では、以下の4つのポイントを中心に、そのギャップを解き明かします。",
+    "url": "https://note.com/science_totoron/n/n131d4e93bb8f",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1. 製品中では「薄く・広く」使われている（積んでいない資源）",
+    "url": "https://note.com/science_totoron/n/n131d4e93bb8f",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "政治（法・予算・規制）": [
+   {
+    "quote": "この合意は、直前に発表された中国の輸出規制によって即時の影響を受けるはずだった多くの産業にとって、まさに命綱となりました",
+    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "この協定は米中間のものでしたが、中国の輸出規制は全世界に適用されていたため、世界の製造業全体も恩恵を受けました",
+    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "さらに中国は、輸出規制の対象鉱物を大幅に拡大し、",
+    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "これらの鉱物を含む完成品や組立品にも規制を広げる予定でした",
+    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "これらの規制は戦略的な交渉姿勢だと見る向きもありましたが、実際には現在も停止状態のまま法的には存続しており、2026年後半に協定が失効すれば再発動される可能性があります",
+    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
    {
     "quote": "２４年度予算要求額",
     "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
@@ -1712,6 +1254,26 @@
     "first_seen": "2026-11-04"
    }
   ],
+  "痛み・損（深さの印）": [
+   {
+    "quote": "日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "事業に関して、一部企業は撤退や減産を発表",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "安定した調達は操業の安定化と機会損失の減少につながるため、公平・公正な取引、腐敗防止、法令遵守、人権等に配慮し、取引先と社会や環境への負の影響を予防・軽減する協力関係の構築を目指しています",
+    "url": "https://ir.mmc.co.jp/ja/sustainability/social/supply_chain.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "社会（人・担い手）": [
    {
     "quote": "野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー",
@@ -1978,54 +1540,1670 @@
     "first_seen": "2026-11-04"
    }
   ],
-  "SNS・note（note・本文）": [
+  "SNS・note（X・検索結果の抜粋）": [
    {
-    "quote": "なぜレアアースのリサイクルは難しいのか ―「都市鉱山」が資源にならない本当の理由｜Science Totoron",
-    "url": "https://note.com/science_totoron/n/n131d4e93bb8f",
+    "quote": "テレ東BIZ on X: \" レアメタル を“都市鉱山”から自動発掘 ... テレ東BIZ on X: \" レアメタル を“都市鉱山”から自動発掘 ... X https://x.com > @txbiz_ondemand",
+    "url": "https://x.com/txbiz_ondemand/status/2012736707972718723",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "橘 龍馬 on X: \"  ”都市鉱山”関連銘柄   貴金属回収×Eスクラップ ... 橘 龍馬 on X: \"  ”都市鉱山”関連銘柄   貴金属回収×Eスクラップ ... X https://x.com > @t_ryoma1985",
+    "url": "https://x.com/t_ryoma1985/status/1998664755880599803",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "レアメタルリサイクル 市場規模は、2026年から2033年までの ... レアメタルリサイクル 市場規模は、2026年から2033年までの ... LinkedIn https://jp.linkedin.com > pulse > レアメタルリサイクル市場...",
+    "url": "https://jp.linkedin.com/pulse/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E9%96%93%E3%81%ABcagr133%E3%81%A7%E5%AE%89%E5%AE%9A%E3%81%97%E3%81%9F%E6%88%90%E9%95%B7%E3%82%92%E9%81%82%E3%81%92%E3%81%A6%E3%81%8A%E3%82%8A%E5%B8%82%E5%A0%B4%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86-7493500947101380608-tk2xe",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "経済（規模・価格・為替）": [
+   {
+    "quote": "「レアアース版OPEC」唱えた中国 40年の計で価格支配、内外差4倍",
+    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "8000万円の機械壊しても不問 社員に前向きな失敗を促す理由",
+    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "【年収調査2026】出身大学別年収ランキング 平均年収1000万円を超えたのは8大学",
+    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "レアアースのイットリウム、価格1年で9倍 枯渇回避へ調達国・地域拡大",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "8000万円の機械壊しても不問 社員に前向きな失敗を促す理由",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "【年収調査2026】出身大学別年収ランキング 平均年収1000万円を超えたのは8大学",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "レアメタルリサイクル・製錬技術対策 6.4億円【 4.8億円】",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "0.8億円【１.6億円】",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "3.2億円【3.2億円】（特会）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "【71億円】",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "【５０億円】",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "(３６０億円)",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "３４０億円【新規】",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "（うち要望枠２億円）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "【8.9億円】",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "・資源国協力事業（持続的資源開発推進対策事業） ３９．９億円（平成23年度三次補正予算）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "三菱マテリアル、レアメタル再生拡大へ処理施設 200億円投資 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "2030年度までに子会社の国内拠点に約200億円を投じて、処理施設を建てる",
+    "url": "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "新卒1400万円、霞ヶ関キャピタル",
+    "url": "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "新卒を年収1400万円で採用する霞ヶ関キャピタル 次の狙いは研究人材",
+    "url": "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "新卒を年収1400万円で採用する霞ヶ関キャピタル 次の狙いは研究人材",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "政府、鉱物やプラスチックリサイクルに１兆円投資か―国際競争力の強化へ",
+    "url": "https://www.iru-miru.com/article/82478",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "一部メディアが20日、政府が重要鉱物やプラスチックなどのリサイクルを強化するため、2030年までに施設整備や技術開発向けに官民で1兆円を投資する方針を固めたと報じた",
+    "url": "https://www.iru-miru.com/article/82478",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "シリカ輸入Report #16二酸化ケイ素 2026年1-9月輸入量前年比7%増 5年ぶり増加",
+    "url": "https://www.iru-miru.com/article/82478",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "(制度的措置を含お) 等により官民で約 1 兆円の投資を目指すなど、 再生資源供給サプライチェーンの強朝化を図る",
+    "url": "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2024年に国策企業の中国資源循環集団(資本金約2千億円)を設立",
+    "url": "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "・経済的支援スキームによる支援等により、 2030年までに官民で約 1 兆円の投資を目指す",
+    "url": "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2026年度予算案では、重要鉱物のリサイクル促進や再資源化の高度化に総額約379億円が計上されるなど、",
+    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "その後、営業手法の業務改善を行い、売上高増加、年間新規取引100件を達成",
+    "url": "https://sanwamekki.com/info/column/column_peeling/raremetal-recycling/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "なぜレアアースのリサイクルは難しいのか ―「都市鉱山」が資源にならない本当の理由",
-    "url": "https://note.com/science_totoron/n/n131d4e93bb8f",
+    "quote": "営業利益は90億円（営業利益率30%）",
+    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "スマートフォン、電気自動車（EV）、風力発電など、現代のハイテク技術を支える「レアアース」。私たちの身近な製品に広く使われているにもかかわらず、そのリサイクルはなぜほとんど進んでいないのでしょうか？",
-    "url": "https://note.com/science_totoron/n/n131d4e93bb8f",
+    "quote": "・人件費：トンあたり8万円（処理コスト全体の50%）",
+    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "「都市鉱山があれば資源問題は解決するのではないか」",
-    "url": "https://note.com/science_totoron/n/n131d4e93bb8f",
+    "quote": "・エネルギーコスト：トンあたり12万円",
+    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "そんな直感的な期待に対し、本動画では資源工学・材料科学の観点から、レアアース・リサイクルが抱える「",
-    "url": "https://note.com/science_totoron/n/n131d4e93bb8f",
+    "quote": "・排ガス処理コスト：トンあたり5万円",
+    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "多くの人が「製品の中にレアアースがあるなら、集めて取り出せばいい」と考えます。しかし、天然の鉱石から採掘することと、製品（ゴミの山）から回収することは、科学的に全く別のプロセスです。",
-    "url": "https://note.com/science_totoron/n/n131d4e93bb8f",
+    "quote": "合計処理コスト：トンあたり25万円",
+    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "本動画では、以下の4つのポイントを中心に、そのギャップを解き明かします。",
-    "url": "https://note.com/science_totoron/n/n131d4e93bb8f",
+    "quote": "トンあたり8万円",
+    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "1. 製品中では「薄く・広く」使われている（積んでいない資源）",
+    "quote": "人件費をトンあたり8万円→1.5万円に削減",
+    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・従来法（高温溶解）：1,200度、エネルギーコスト12万円/トン",
+    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・常温湿式精錬：25度、エネルギーコスト1.2万円/トン",
+    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "収益モデル：年商300億円、営業利益率30%",
+    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・金売上：120億円（回収量：600kg、単価：2,000万円/kg）",
+    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・銀売上：90億円（回収量：10トン、単価：9,000万円/トン）",
+    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・パラジウム売上：60億円（回収量：0.5トン、単価：12,000万円/kg）",
+    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・レアアース・その他金属売上：15億円",
+    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・処理委託費収入：15億円（企業からの処理委託）",
+    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "都市鉱山とは？眠る宝の山から年間12兆円の価値を生み出す...",
+    "url": "https://trashtech.jp/journal/detail/20250414",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "都市鉱山とは？眠る宝の山から年間12兆円の価値を生み出す最新リサイクル",
+    "url": "https://trashtech.jp/journal/detail/20250414",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "世界の都市鉱山市場は2024年から2030年にかけて年平均成長率13.2%での拡大が予測されています",
+    "url": "https://trashtech.jp/journal/detail/20250414",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国連の調査によると、2022年には約6,200億ドル（約90兆円）相当の資源が電子廃棄物として廃棄されています",
+    "url": "https://trashtech.jp/journal/detail/20250414",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本国内では、環境省が2030年度までに使用済み電子機器からの金属回収量を2020年度の約21万トンから42万トンに倍増させる具体的な目標を掲げ、循環経済の市場規模を現在の50兆円から80兆円に成長させることを目指しています",
+    "url": "https://trashtech.jp/journal/detail/20250414",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この技術は年間約1000億円規模の新市場創出が期待されており、資源の安定確保と経済的自立性の向上に大きく貢献しています",
+    "url": "https://trashtech.jp/journal/detail/20250414",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これらの技術革新により、都市鉱山からの金属回収は2035年までに年間約1000億円相当の新たな市場を創出すると期待されています",
+    "url": "https://trashtech.jp/journal/detail/20250414",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これらの取り組みにより、2035年までに年間約1000億円規模の新市場創出が見込まれています",
+    "url": "https://trashtech.jp/journal/detail/20250414",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新卒1400万円、霞ヶ関キャピタル",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2008年頃のレアメタルの価格高騰や2010年の中国によるレアアース輸出制限のような事例を受け、企業は備蓄戦略を慎重に検討している",
+    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2024年度の経済対策では、1,600億円の予算を投じ、特定国依存の低減を目指している",
+    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば、小型電子機器１台に含まれているレアメタルの量は少なく、その価格も低いため、それより低いコストでリサイクルしなければならないという問題があります",
+    "url": "https://shizen-hatch.net/2020/09/08/rare-metals/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "• 産業規模について、部素材は、事業所数（4万所）、従業者数（170万人）、出荷額（103兆円）、付加価値額",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（30兆円）が製造業全体の約２割を占め、自動車に次ぐ規模",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "約373兆円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "約110兆円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "令和４年度第２次補正予算：JOGMEC出資金 1,100億円、安保助成金 1,058億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "令和７年度補正予算 ：JOGMEC出資金及び国家備蓄の強化費用等 937億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "令和７年度予備費 ：JOGMEC出資金 390億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "令和８年度当初予算案 ：安保助成金 125億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "金属リサイクルの日本市場（2026年～2034年）、市場規模（鉄鋼、銅、アルミニウム）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "金属リサイクルの日本市場（2026年～2034年）、市場規模（鉄鋼、銅、アルミニウム）・分析レポートを発表",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本レポートによると、日本の金属リサイクル市場規模は2025年に156億米ドルに達しました",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "今後、本調査会社は、同市場が2034年までに220億米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）3.92%で成長すると予測しています",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "鉱山開発・製錬事業（100億円）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/mining/pdf/003_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "SPC51億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/mining/pdf/003_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "25億円②外国",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/mining/pdf/003_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "・経済的支援スキームによる支援等により、2030年までに官民で約１兆円の投資を目指す",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/mining/pdf/003_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "投資を促進するため、予算面、金融面等の多角的な支援スキームを構築し、2030年までに官民で約１兆円の投資",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/mining/pdf/003_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なお、令和６年度末基金残高約1,060億円のうち、管理費等を除く約308億円が認定・交付決定済（令和７年5月時点）",
+    "url": "https://www.gyoukaku.go.jp/review/aki/R07/img/3_3_1_kikin.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "②今後の事業費や管理費の支出見込み（140,578百万円）",
+    "url": "https://www.gyoukaku.go.jp/review/aki/R07/img/3_3_1_kikin.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "認定・交付決定済未払額：30,789百万円（注1）",
+    "url": "https://www.gyoukaku.go.jp/review/aki/R07/img/3_3_1_kikin.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2.2 価格動向",
+    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "レアメタルの市場は小さく、需給バランスの変動により価格が乱高下しやすい特徴があり、表3はその動向である",
+    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "表3 価格動向",
+    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "価格高騰は、電気自動車の生産コスト上昇に直結し、車体価格の約3分の1を占めるバッテリー価格に影響を与える",
+    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "3.5億円を投じて電子機器を1時間に約1トン処理できる破砕・選別ラインを導入",
+    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "3.2 価格変動",
+    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国、9月の日本向けレアアース磁石輸出は171トンの低水準に 米国は前年比4割増",
+    "url": "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "AIなど経済安保研究、資金投入柔軟に 5000億円超え国費活用",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アース輸出枠は前年比で約４０%減）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "※基準価格：2004年1月＝100 （ジスプロシウムについては2005年1月＝100）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "＜21年度補正、51.6億円の内数＞",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "＜20年度補正、1.0億円＞",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "＜ 1.2億円＞",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "資源循環実証事業＜1.2億円＞",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "希土類金属等回収技術研究開発事業＜20～24年度（予定）、6.9億円＞",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "希尐金属等高効率回収システム開発＜19補正～22年度、9.8億円＞",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "＜22年度補正、420億円の内数＞",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "＜8.2億円の内数＞",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "＜22年度補正、120億円の内数、NEDO＞",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本では、レアメタルの海外依存度が高く、2050年のカーボンニュートラルを見据えた場合、輸入依存だけでは供給不足や価格高騰に直面する懸念があります（参照*2）",
+    "url": "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "近年の鉱物資源をめぐる市場動向をみると、当初は先進諸国はもとより経済発展が著しいBRICS（ブラジル、ロシア、インド、中国、南アフリカ）などでの消費量が急速に拡大したことで、需要が逼迫し、価格も高騰していましたが、リーマン・ショックに起因する経済悪化にともない、2008年上期頃をピークに価格は下落しました",
+    "url": "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "しかし、中国が2010年からレアアースなどの輸出枠削減を行ったことで再び特定鉱種の価格が急騰しました",
+    "url": "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特にレアメタルリサイクルは小規模から急成長しており（廃棄物処理・資源有効利用分野の推計市場規模は2000年で86億円に対して2022年では1063億円）、資源確保の観点から重要性が高まっています",
+    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2025年3月期は連結売上高約452億円を計上し、日本国内でトップシェアを持つ商品も多いレアメタル・レアアースのリーディング企業として成長を続けている",
+    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "――2010年の輸出規制の際にも、翌年の売上を飛躍的に伸ばしています",
+    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "当社の売上構成は、合金鉄のモリブデンが約40％を占め、タングステン、タンタル、その他の各種レアアースとともに売上の4本柱を構成しています",
+    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日経平均株価は5万円台で、一進一退の値動きが続いています",
+    "url": "https://go.sbisec.co.jp/media/report/dom_em_weekly/dom_em_weekly_251210.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "・時価総額100億円以上～5,000億円以下",
+    "url": "https://go.sbisec.co.jp/media/report/dom_em_weekly/dom_em_weekly_251210.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "26.3期上期（25.4-9月期）決算では、通期会社計画の売上高と経常利益を上方修正するなど堅調さを示しました",
+    "url": "https://go.sbisec.co.jp/media/report/dom_em_weekly/dom_em_weekly_251210.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "鉱石部門、金属部門、資源開発部門を擁する資源事業が、売上高構成比の90％以上を占めます（25.3期）",
+    "url": "https://go.sbisec.co.jp/media/report/dom_em_weekly/dom_em_weekly_251210.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、各商品等は価格の変動等により損失が生じるおそれがあります（信用取引、先物・オプション取引、商品先物取引、外国為替保証金取引、取引所CFD（くりっく株365）、 店頭CFD取引（SBI CFD）では差し入れた保証金・証拠金（元本）を上回る損失が生じるおそれがあります）",
+    "url": "https://go.sbisec.co.jp/media/report/dom_em_weekly/dom_em_weekly_251210.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界のレアメタルリサイクル市場規模、シェア、成長傾向および予測2026～2034年",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "市場規模 (2025)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1.2 billion USD",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2.5 billion USD",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "CAGR (2026-2034)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "たとえば、世界のコバルト市場は、供給懸念により2018年から2020年にかけて50％以上の価格高騰を経験し、国の経済に直接影響を与えました",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "たとえば、EVのバッテリー市場だけでも2030年まで20%を超えるCAGRで成長すると予測されており、リチウム、コバルト、ニッケルの需要が大幅に増加します",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本金属リサイクル市場規模、シェア、成長予測 2034",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の金属リサイクル市場規模、シェア、動向、予測 金属別、セクター別、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の金属リサイクル市場規模と予測（2026年～2034年）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の金属リサイクル市場規模は、2025年に",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "と評価されており、スクラップ需要と投資の増加を背景に、2026年から2034年にかけて年平均成長率",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（CAGR）3.79％で",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2025年6月、新日鉄は、九州製鉄所の3つの国内施設を電気炉技術へ移行するために8,700億円（約60億米ドル）を投資する計画を発表しました",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2025年2月、経済産業省（METI）は、低炭素鋼を使用して製造されたクリーンエネルギー車（CEV）1台につき5万円の補助金を導入した",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "豊通マテリアルズ（豊田通商の子会社）は2023年11月、4億9,000万円を投じた合弁会社「豊通ソテック」の操業を開始した",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "経済産業省の「GX推進法」は、高炉から電気炉への転換に対して2,514億円の補助金枠を設けており、リサイクル鉄スクラップの需要を直接的に刺激している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "炭素排出量削減の取り組みの一環として、日本国内の3つの施設に電気アーク炉を導入するために、約8,700億円（60億5,000万ドル）を投資する計画です",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "資金の一部は日本政府から提供され、政府は2028/2029年度までに、これら3つの施設における同社の脱炭素化取り組みに対し、2,510億円の助成を行う計画です",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本政府は「グリーン・スチール」に対するインセンティブを導入し、経済産業省（METI）は、低炭素排出鋼を使用して製造されたクリーンエネルギー車（CEV）に対し、5万円の補助金を支給することとした",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "EVシフトを現実的に進めるには、「資源はあるか」だけでなく、採掘・精錬に伴う環境負荷、精錬工程の集中、価格変動の大きさといった構造的リスクを直視し、サプライチェーンのボトルネックがどこにあるのかを踏まえて議論する必要があります（図4）",
+    "url": "https://www.jeri.or.jp/survey/202606-07_09/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "CSR、人権、ESGに加え、品質、価格等を含む計13項目について調査を実施する",
+    "url": "https://ir.mmc.co.jp/ja/sustainability/social/supply_chain.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "このセルフチェックシートでは、一般的な評価項目である品質や価格、供給、技術力といった項目に加え、2023年度からは、加盟しているグルーバル・コンパクト・ネットワーク・ジャパン（GCNJ）が策定した標準アンケートツール（共通SAQ）を基に、CSR、人権、ESGに関する項目を拡充し、計13の項目に対して方針、体制、取り組み、是正に関する仕組みの有無を確認しています",
+    "url": "https://ir.mmc.co.jp/ja/sustainability/social/supply_chain.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "リコーグループは、グローバルに2,952社の直接材サプライヤーとの取引があり、調達金額は約3,460億円です（2026年3月現在）",
+    "url": "https://jp.ricoh.com/sustainability/society/scm",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "鉱物資源人材育成 1.0億円【1.0億円】",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "12.4億円（うち要望枠３．５億円）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "【12.7億円】",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "10.5億円【8.2億円】",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "レアメタル備蓄 4.8億円【4.2億円】",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "なぜレアアースの リサイクル は難しいのか ―「都市鉱山」が ... なぜレアアースの リサイクル は難しいのか ―「都市鉱山」が ... note https://note.com > 科学・テクノロジー > 金属・鉱学",
     "url": "https://note.com/science_totoron/n/n131d4e93bb8f",
     "pass": 3,
     "first_seen": "2026-11-06"
+   }
+  ],
+  "顧客の競合（奪いに来る側）": [
+   {
+    "quote": "レアアース、世界111社の関連銘柄の決定版や中国対抗の革新技術",
+    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "レアアース、3000度の超高速加熱で回収 中国優位を崩す革新技術",
+    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "「レアアース版OPEC」唱えた中国 40年の計で価格支配、内外差4倍",
+    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "レアアース市場を寡占する中国が「資源の武器化」で世界を威圧する",
+    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "レアアース製錬とは 中国がシェア9割、新技術や地域多様化進む",
+    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "次の半導体大国、インド",
+    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "富士フイルムの挑戦、インドに半導体材料工場 原料調達にも骨折る",
+    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "富士フイルムの挑戦、インドに半導体材料工場 原料調達にも骨折る",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "黒鉛電極：台湾の国別電極輸入について（26年10月）：輸入は中国のみ",
+    "url": "https://www.iru-miru.com/article/82478",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "中国の10月レアアース輸出量4386トン、前月からやや回復 輸入8270トンと大幅増",
+    "url": "https://www.iru-miru.com/article/82478",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "JX金属、台湾先端パッケージ向けガラス基板のプロセス開発共創に半導体材料が活用",
+    "url": "https://www.iru-miru.com/article/82478",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "ザフスタン・SARECO、インド・インディアンレア",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "３０％以上を中国以",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "中国からの入手は実際に必要な量の半分以下となっている",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "FCC触媒は、補正予算による、代替材料の開発に成功したものの、量産化へはまだ時間がかかるため、引き続き中国からのランタンの輸入が必要",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "価格高騰と中国内外価格差のため中国メーカーが市場を伸ばしている",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "光学レンズは、高純度ランタンの代替が実現できておらず、レンズの生産量縮小と、一部中国へ移転し加工品にして持ち込む方向で対応",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": " 中国政府・企業が供給を絞っているジスプロシウムを含む 、電動パワーステアリングやオルタネーター等の車載モーター ・",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "に実装可能な技術を早期に 確立し、中国への技術流出を防ぐ",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "東邦亜鉛、群馬の拠点で鉛鉱石からレアアース 脱中国依存へ",
+    "url": "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "次の半導体大国、インド",
+    "url": "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "インド半導体の業界地図 タタ経済圏に450社、日本の突破口明らかに",
+    "url": "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "政府、APEC宣言に「貿易の透明性」提案 中国レアアース規制念頭",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "中国の貿易黒字が2年連続1兆ドル超 1〜10月、各国との摩擦悪化要因に",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "次の半導体大国、インド",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "インド半導体の業界地図 タタ経済圏に450社、日本の突破口明らかに",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "また、低炭素金属部素材（鉄鋼以外）の項目においても、「アルミニウムやレアメタルを中心に、欧州では素材製造 プロセスの脱炭素化要請が高まる中、製造工程の脱炭 素化やリサイクルシステム構築は製造業の国際競争力 維持・強化の観点から急務」としたうえで、生産基盤の強化に加え、「リサイクル施設への技術開発・設備投資支援、国・自治体による優先的調達・購入といった初期需要創出に向けた取組を通じ、高品質な低炭素金属部素材を世界に先駆けて商業化し、競争優位性の確立につなげる」と方針が示された",
+    "url": "https://www.iru-miru.com/article/82478",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "中国鉄鋼PMI（10月）：50を大きく割り込む",
+    "url": "https://www.iru-miru.com/article/82478",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "【ECOMONDO 2026】欧州鉄鋼業に二重の圧力 CBAMと輸入関税強化、スクラップ確保も焦点に",
+    "url": "https://www.iru-miru.com/article/82478",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "チタン鉱石輸入Report#89 2026年イルメナイト以外インドからの輸入増加",
+    "url": "https://www.iru-miru.com/article/82478",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "中国依存をどう減らす？2026年の重要鉱物サプライチェーン最前線｜株式会社KUMU Works",
+    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "中国依存をどう減らす？2026年の重要鉱物サプライチェーン最前線",
+    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "これは、世界最大の重要鉱物・レアアース生産国である中国が輸出規制を急増させたことが主な要因です",
+    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "これらの規制は主に米国および西側諸国を対象としており、世界のサプライチェーンは製品の原材料について代替供給源を確保するため、サプライチェーンの下位層まで詳細な分析を迫られています",
+    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "多くの企業にとっての現実は、中国が製造投入材料に使用される鉱物の採掘・抽出を支配しているという点です",
+    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "トヨタHV特許出願､5年1000件と突出 中国勢は方式集約",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2024年に国策企業の中国資源循環集団(資本金約2千億円)を設立",
+    "url": "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "循環ネットワークを構築 国 i RY 米国・欧州 . a",
+    "url": "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "米財務長官、中国副首相と電話協議 「首脳会談の合意は全面履行を」",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "インド財閥、セブンイレブン閉店 Nikkei Asia注目記事",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「特集・インド半導体」「米陸軍で痛感した壁」 注目5本",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "・安価な抽出剤や、ネオジムとプラセオジムの分離性能に優れた抽出剤",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "・欧州10カ国で導入済み、回収率は平均75%に向上",
+    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中国では都市鉱山の埋蔵量が世界最大規模に達しており、政府主導で回収システムの整備を進めています",
+    "url": "https://trashtech.jp/journal/detail/20250414",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 中国は、2023年８月のガリウムとゲルマニウムへの措置を皮切りに、重要鉱物に対する輸出管理を強化",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "⚫ 2025 年10月には、極微量であっても 中国産レアアースを含む 製品の再輸出規制 やレアアース及び電",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年10月発表の輸出管理措置の概要（※1年停止）中国による輸出管理措置対象の鉱種",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "中国国外の組織・個人による中国以外の国・地域への以下レアアース関連品目の輸出に、輸出許可取得を",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "① 中国産レアアース（価値比率0.1%以上）を含む、外国で生産されたレアアース関連製品（磁石等）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "対ミャンマー圧力の米国、対話路線に転換 新戦略で「中国に対抗」",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "米国が突きつけたトランプ氏への痛烈な拒絶 エドワード・ルース",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（国内需要に占めるシェア） （効率的な回収技術） （抽出技術）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "三菱マテリアル、米リエレメントとレアアースなど重要鉱物のリサイクル事業で協業(日本、米国) | ビジネス短信 ―ジェトロの海外ニュース - ジェトロ",
+    "url": "https://www.jetro.go.jp/biznews/2026/04/402fd0ed8c1589ef.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（米国、日本）",
+    "url": "https://www.jetro.go.jp/biznews/2026/04/402fd0ed8c1589ef.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "具体的には、米国でリエレメント向けの原料調達、委託精製、および同社製品のオフテイク契約（引き取り契約）を引き受けることで三菱マテリアルが北米における資源循環型サプライチェーンに参画する",
+    "url": "https://www.jetro.go.jp/biznews/2026/04/402fd0ed8c1589ef.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "また、米国でのレアアースの再利用は中国や一部の欧州諸国と比較すると未発達で、現在の消費量のわずか1％未満しか再利用されていないといわれている",
+    "url": "https://www.jetro.go.jp/biznews/2026/04/402fd0ed8c1589ef.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同社は米国と中国との通商を巡る緊張感が高まる中、2025年4月21日に米国でのレアアース・レアメタル需要急増に対応するため、インディアナ州ノーブルズビル工場の操業設備を拡張すると発表しており、今回の三菱マテリアルとの提携は同社の米国での国内事業を強化・拡大し、グローバル化に向けた一連の取り組みに続くものとなっている",
+    "url": "https://www.jetro.go.jp/biznews/2026/04/402fd0ed8c1589ef.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "中国依存を崩す切り札になるか、米国が本腰を入れるレアアース「都市鉱山」と日本企業の商機（2026年5月 JBpress掲載）｜レポート｜オウルズコンサルティンググループ",
+    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "中国依存を崩す切り札になるか、米国が本腰を入れるレアアース「都市鉱山」と日本企業の商機（2026年5月 JBpress掲載）",
+    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "いま米国が進めているのは、新しい鉱山を探すことだけではない",
+    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "中国に偏った供給網を前提に、採掘、分離・精製、磁石製造、リサイクル、需要家の長期購入契約、さらには価格フロアや国境措置まで組み合わせて、重要鉱物の取引ルールそのものを作り直そうとしている",
+    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2026年2月には、米国ワシントンで重要鉱物をテーマとする多国間閣僚会合が開かれ、日本を含む54カ国とEU（欧州連合）が参加した",
+    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "米紙ウォール・ストリート・ジャーナルは、カナダ発の新興企業Cyclic Materials社がアリゾナ州メサに立ち上げるレアアースリサイクル施設の動きを紹介している（2026年1月27日「電子ごみリサイクル、中国レアアース支配を崩せるか」）",
+    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "もちろん、「都市鉱山」だけで中国のレアアース支配を短期的に崩すことは難しい",
+    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Cyclic Materials社のメサ施設も、年間処理能力は大きいが、回収されるレアアース酸化物は米国内需要の一部にとどまる",
+    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "米国が価格フロアや国境措置を含めて重要鉱物市場を作り直そうとする中で、都市鉱山由来の供給の位置づけを見通すことだ",
+    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "米国が求めているのは、こうした一連の工程を、中国に過度に依存しない形で実装することだ",
+    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "問題は、それを米国の経済安全保障政策とどう接続するかである",
+    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "米国では、ReElement Technologies社のように、レアアースなど重要鉱物資源のリサイクル事業を行う企業が政策支援の対象になっている",
+    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2025年11月には、米国国防総省が、同社とVulcan Elements社に対して合計7億ドルの条件付き融資を発表した",
+    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "このような米国企業に対し、日本企業は資金提供にとどまらず、使用済み製品やスクラップの調達、前処理、分離精製プロセスの改善といった形で関与できる",
+    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実際に、日本企業との協業を通じ、米国内の精製能力の拡大と日本国内でのリサイクル事業化を同時に検討する動きも出ている",
+    "url": "https://www.owls-cg.com/report/2026/07/22/5235/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "• 我が国のマテリアル産業は、高機能部素材を中心に、国際的なシェアが高い製品を多く産み出しており、",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "※ 特に、重希土類の輸入については、中国への依存度が100%",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "中国はレアメタル(希少金属)の輸出規制が相次いて強化されている状態で産業界からも調達懸念として話題となっている",
+    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "産出国が特定の地域（例：中国、コンゴ民主共和国）に集中している",
+    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "レアアースはスカンジウム(Sc)、イットリウム(Y)、ランタン(L)などの軽希土類とジスプロシウム(Dy)、テルビウム(Tb)などの重希土類に分類され、重希土類は特に中国に産出が集中している",
+    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "オーストラリア、チリ、中国が主要産出国",
+    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国が世界生産の約60％を占め、特に重希土類の供給をほぼ独占",
+    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2010年の尖閣諸島沖での中国漁船衝突事件では、中国が日本へのレアアース輸出を事実上制限し、供給リスクが顕在化した",
+    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国が世界生産の90％以上を占める",
+    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特に中国は、レアアースの精製技術でも世界の90％を占め、戦略的優位性を保持している",
+    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国の対中関税措置への対抗措置として中国政府はレアアース関連品目について輸出管理を開始し、輸出には中国政府への許可申請が必要となった",
+    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国やインドなどの経済発展により需要が急増し、価格が高騰",
+    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "特定の国（特に中国やコンゴ民主共和国）に生産が集中しており、政情不安や輸出制限が供給障害を引き起こす可能性がある",
+    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "例えば、2010年の中国によるレアアース輸出制限は、日本産業に大きな影響を与えた",
+    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国やインドネシアなど資源国が自国優先の政策を強化している",
+    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インドネシアは2014年に鉱石輸出禁止措置を、中国は2020年以降レアメタルの輸出規制を実施するなどの例がある",
+    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "レアメタルの供給リスクは表6に示すように最近では2023年以降に中国が相次いで輸出規制を強化したことにある",
+    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "レアメタルのリサイクルに非鉄各社が注力 「脱・中国」で供給網強靱化 | Japan Forward",
+    "url": "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "レアメタルのリサイクルに非鉄各社が注力 「脱・中国」で供給網強靱化",
+    "url": "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の製造業に欠かせない素材だが、埋蔵や生産の多くが中国など特定の国に集中し、地政学リスクを抱える",
+    "url": "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "レアメタルは電気自動車（EV）向けのリチウムイオン電池（LIB）などに使われる日本の製造業に欠かせない素材だが、埋蔵や生産の多くが中国など特定の国に集中し、地政学リスクを抱える",
+    "url": "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "経済産業省によると、リチウムの製錬は約60％、コバルトは約70％、ニッケルは約50％と、多くのシェアを中国が握る",
+    "url": "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国はやはり埋蔵や生産で圧倒的なシェアを持つレアアース（希土類）と同様に、レアメタルについても輸出に制限をかけることで日本などを威圧している",
+    "url": "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "すでにタングステンやガリウムの供給は滞っているが、中国のさじ加減によっては、レアメタルの供給は今後さらに厳しくなる可能性がある",
+    "url": "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国、9月の日本向けレアアース磁石輸出は171トンの低水準に 米国は前年比4割増",
+    "url": "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "不正アクセス発信源は中国か…生成AIが「日本語の壁」突破 犯行組織細分化で追跡は困難",
+    "url": "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "レアアースの再利用促進、政府が4月にも計画策定 中国依存を軽減 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国株ランキング",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "レアアースの再利用促進、政府が4月にも計画策定 中国依存を軽減",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "いまは産業に欠かせない重要鉱物や金属資源の多くを中国からの輸入に頼っている",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ハイテク製品の生産に不可欠で、最大産地の中国はレアアースを武器に他国を揺さぶる",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米地質調査所（USGS）によると、世界のレアアース生産量の7割は中国が占める",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "鉱石の製錬やレアアースを使った磁石の生産でも高いシェアを握る",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国政府は4月、米国による高関税への報復措置として7種類のレアアースの輸出を規制し、5月のレアアース磁石の輸出は前年同月比で7割減った",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "吉田防衛大校長「対中国、地理や核抑止でレッドライン」 富士山会合",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "東邦亜鉛、群馬の拠点で鉛鉱石からレアアース 脱中国依存へ",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "○特にレアアースについては、中国が低コスト生産により、生産規模を拡大した結果、レアアース",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "の世界供給の約９７％を中国が占める構図",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "年）を中国に依存",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "レアアース生産国の推移 主なレアメタルの上位産出国及びシェア（２０１０年）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "鉱種 １位 ２位 ３位 上位３カ国の 合計シェア",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "レアアース 中国 97％ インド 2％ ブラジル 0.4％ 99％",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "コバルト コンゴ（民） 51％ ザンビア 13％ 中国 7％ 70％",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "インジウム 中国 52％ 韓国 14％ 日本 12％ 78％",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "タングステン 中国 85％ ロシア 4％ ボリビア 2％ 91％",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "○昨年７月、中国商務部が２０１０年第２期のレアアース輸出枠を約８千トンと発表（２０１０年のレア",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "○さらに、本年５月、商務部及び中国税関が、レアアース鉄合金をレアアースの輸出管理対象にす",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "レアアースの輸出数量枠 （出典：中国商務部ＨＰ）（単位：トン）",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国によるレアアース",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "中国がレアアース輸出枠",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "（鉱種の）シェア ③埋蔵量",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 米国においても、州レベルで電気電子機器の回収・再資源",
+    "url": "https://www.env.go.jp/content/900535625.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "• 米国では州レベルでWEEEについて回収・再資源化を規定する等の動き",
+    "url": "https://www.env.go.jp/content/900535625.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "近年の鉱物資源をめぐる市場動向をみると、当初は先進諸国はもとより経済発展が著しいBRICS（ブラジル、ロシア、インド、中国、南アフリカ）などでの消費量が急速に拡大したことで、需要が逼迫し、価格も高騰していましたが、リーマン・ショックに起因する経済悪化にともない、2008年上期頃をピークに価格は下落しました",
+    "url": "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "しかし、中国が2010年からレアアースなどの輸出枠削減を行ったことで再び特定鉱種の価格が急騰しました",
+    "url": "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "こうした経済要因に加え、中国の輸出枠削減（2010年から）や、インドネシアによる鉱石輸出禁止措置（2014年）といった政治要因も懸念材料です",
+    "url": "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本では、自国では産出されないニッケル鉱石の輸入を世界最大の産出国であるインドネシアに長く依存してきました",
+    "url": "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "高品位なインドネシア産ニッケル鉱石の代替は容易ではなく、需給逼迫と価格上昇が懸念されており、リサイクルの重要性が高まっています",
+    "url": "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "この記事をシェアする",
+    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2025年3月期は連結売上高約452億円を計上し、日本国内でトップシェアを持つ商品も多いレアメタル・レアアースのリーディング企業として成長を続けている",
+    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "――中国が一部レアアースの輸出を許可制にする一方、日米間では南鳥島近海の掘削で協力することが決まるなど、レアメタル・レアアースを取り巻く状況は混沌としています",
+    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "取引先を中国以外に拡大することで「チャイナプラスワン」の体制構築を進めていく予定です",
+    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
    }
   ],
   "顧客の顧客（発注元が求めること）": [
@@ -3334,256 +4512,6 @@
     "first_seen": "2026-11-04"
    }
   ],
-  "自社の競合（商社・代理店・仲介）": [
-   {
-    "quote": "アジア•ヨーロッパなどの製錬所、商社、エンドユーザーなどと多数の実績があるので、幅広いニーズにお応えできます",
-    "url": "https://www.kohwa-s.co.jp/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "レアメタルリサイクルの専門商社『メタルドゥ』のご紹介",
-    "url": "https://mono.ipros.com/cg2/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "株式会社メタルドゥは創業64年、会社設立48年以上の歴史を持つレアメタルリサイクルの専門商社であり、",
-    "url": "https://mono.ipros.com/cg2/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "株式会社イフ商会は、お客様の製品コスト低減、品質安定、新技術・新製品開発のスピードアップに貢献できる多機能商社です",
-    "url": "https://mono.ipros.com/cg2/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "プレイヤー構成：自治体×リサイクル企業×商社",
-    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【プレイヤー3：商社】",
-    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "経済安保の「実行部隊」：高市政権の資源外交と商社の戦略的展開",
-    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これまで特定の国に依存してきたサプライチェーンの脆弱性を克服するため、政府主導の「資源外交」と、その実働を担う「総合商社」の連携が加速しています",
-    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "日本が持つAIを活用した効率的な資源探査技術の供与と引き換えに、日本の商社が中央アジアに豊富に眠るレアメタルの共同開発権益を優先的に確保する枠組みが構築されました",
-    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特定の国にサプライチェーンが偏るリスクを回避するため、商社が直接権益を取得し、採掘から販売までを一貫して管理する「一貫サプライチェーン」の構築が急務となっています",
-    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "国内資源への期待と商社・エンジニアリング企業の役割",
-    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これらの企業や商社が持つ資源開発能力は、単なるビジネスの枠を超え、日本の「交渉力」を裏から支える国家的な資産と位置付けられています",
-    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "商社・卸売り",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "近年ではレアメタルリサイクル技術の研究・開発、実用化が進められていることから、レアメタルリサイクルの重要性が増々高まってきており、当社はレアメタル・レアアースの取り扱いに特化した独自のノウハウやルートを活かして、今後もレアメタル・レアアースの専業商社としてリサイクル事業に取り組んでまいります",
-    "url": "https://www.fuji-material.co.jp/service.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "レアメタル・レアアースの専門商社の知見を活かし資源リサイクル事業も手掛ける│アドバンストマテリアルジャパン株式会社代表取締役社長 福田 聡 | アルコニックス株式会社",
-    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "商社流通セグメント",
-    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "レアメタル・レアアースの専門商社の知見を活かし資源リサイクル事業も手掛ける│アドバンストマテリアルジャパン株式会社代表取締役社長 福田 聡",
-    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "レアメタル・レアアースの専門商社としてグループ成長戦略を牽引するAMJの現状と今後の展望",
-    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "（以下、AMJ）は、自動車、航空宇宙などの産業競争力を支えるレアメタル・レアアースの専門商社として、アルコニックスグループの電子・先端材料分野における成長を牽引してきました",
-    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "AMJは2003年に創業し、レアメタル・レアアースを扱う専門商社として事業を拡大してきた",
-    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "アルコニックスにとっても専門商社M&A戦略の起点となる提携となった",
-    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "現在はレアメタル・レアアース専門商社のトップとしてリサイクル事業の強化やグローバル展開を推進",
-    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "一般的な商社は、在庫を多く持つことを避ける傾向があります",
-    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "現在活躍しているトレーダーは、前身の金属商社である蝶理アドバンストマテリアル株式会社時代のレアメタル部門に所属していて、2004年のアルコニックスグループ入りも経て、ここまで残ってくれているメンバーが少なくありません",
-    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "現在は、運送、商社、ワイン販売など全く異なる業界からの転職者も増えています",
-    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "」で示していますが、資源を取り扱う商社である以上、限りある資源の有効活用につながるリサイクルで循環型社会の実現に貢献すべきだと考えました",
-    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "【手数料及びリスク情報等】",
-    "url": "https://go.sbisec.co.jp/media/report/dom_em_weekly/dom_em_weekly_251210.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "SBI証券で取り扱っている商品等へのご投資には、商品毎に所定の手数料や必要経費等をご負担いただく場合があります",
-    "url": "https://go.sbisec.co.jp/media/report/dom_em_weekly/dom_em_weekly_251210.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "各商品等への投資に際してご負担いただく手数料等及びリスクは商品毎に異なりますので、詳細につきましては、SBI証券WEBサイトの当該商品等のページ、",
-    "url": "https://go.sbisec.co.jp/media/report/dom_em_weekly/dom_em_weekly_251210.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "マージン管理ポイントは化学処理および精製段階に集中しており、技術効率とプロセスの最適化が回収率と純度レベルに直接影響します",
-    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "日本の金属リサイクル市場は、総合鉄鋼メーカー、専門の非鉄リサイクル業者、商社の子会社からなる競争的な階層構造によって形成されている",
-    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "We recently commissioned multiple market research reports from IMARC, and the insights we received were invaluable. The depth of analysis, accuracy of data, and actionable recommendations have greatly enhanced our strategic decision-making.",
-    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "紛争及び高リスク地域（CAHRA）からの鉱物採掘、貿易および輸出に関する政府への税金、手数料及び採掘権料の支払いにおける違反",
-    "url": "https://ir.mmc.co.jp/ja/sustainability/social/supply_chain.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "贈収賄、過失による鉱物原産地の虚偽表示、政府に対する税金、手数料及び採掘権料の納付に係わる違反、環境、健康、安全、労働及び地域社会に関連する現地法の重大な違反、及び/又は、非常に有害な影響をもたらす可能性が高いESGリスクはあるが、取引先が合理的かつ誠実な努力をしていると結論付けた場合、改善計画に基づく取引継続とします",
-    "url": "https://ir.mmc.co.jp/ja/sustainability/social/supply_chain.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "政府への税金、手数料、採掘権料の不払い",
-    "url": "https://ir.mmc.co.jp/ja/sustainability/social/supply_chain.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "資源有効利用促進法では製造事業者や輸入販売事業者に対してリチウムイオン電池へのリサイクルマークの表示が求められており、使用済み電池を識別しやすくし、回収および再資源化の促進を図る仕組みが整備されています",
-    "url": "https://www.isz.co.jp/circular/column/1683/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "This is a paid press release. Contact the press release distributor directly with any inquiries.",
-    "url": "https://finance.yahoo.com/news/precious-metals-e-waste-recovery-102100639.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "European Commission, Waste from Electrical and Electronic Equipment (WEEE). environment.ec.europa.eu",
-    "url": "https://www.gminsights.com/industry-analysis/precious-metals-e-waste-recovery-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Johnson Matthey remains a major platinum-group-metals refiner, with refinery commissioning activity scheduled by the end of FY2025/26. Its position rests on refining expertise and customer requirements for specification-grade materials.",
-    "url": "https://www.gminsights.com/industry-analysis/precious-metals-e-waste-recovery-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   }
-  ],
-  "SNS・note（X・検索結果の抜粋）": [
-   {
-    "quote": "テレ東BIZ on X: \" レアメタル を“都市鉱山”から自動発掘 ... テレ東BIZ on X: \" レアメタル を“都市鉱山”から自動発掘 ... X https://x.com > @txbiz_ondemand",
-    "url": "https://x.com/txbiz_ondemand/status/2012736707972718723",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "橘 龍馬 on X: \"  ”都市鉱山”関連銘柄   貴金属回収×Eスクラップ ... 橘 龍馬 on X: \"  ”都市鉱山”関連銘柄   貴金属回収×Eスクラップ ... X https://x.com > @t_ryoma1985",
-    "url": "https://x.com/t_ryoma1985/status/1998664755880599803",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   }
-  ],
   "技術（新しい技術・実証）": [
    {
     "quote": "で生産される銅 (AAG) OW 3 Me, EAI",
@@ -4287,802 +5215,6 @@
     "pass": 3,
     "first_seen": "2026-11-04"
    }
-  ],
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
-   {
-    "quote": "レアメタルリサイクル 市場規模は、2026年から2033年までの ... レアメタルリサイクル 市場規模は、2026年から2033年までの ... LinkedIn https://jp.linkedin.com > pulse > レアメタルリサイクル市場...",
-    "url": "https://jp.linkedin.com/pulse/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E9%96%93%E3%81%ABcagr133%E3%81%A7%E5%AE%89%E5%AE%9A%E3%81%97%E3%81%9F%E6%88%90%E9%95%B7%E3%82%92%E9%81%82%E3%81%92%E3%81%A6%E3%81%8A%E3%82%8A%E5%B8%82%E5%A0%B4%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86-7493500947101380608-tk2xe",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   }
-  ],
-  "経済（規模・価格・為替）": [
-   {
-    "quote": "レアメタルリサイクル・製錬技術対策 6.4億円【 4.8億円】",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "0.8億円【１.6億円】",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "3.2億円【3.2億円】（特会）",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "【71億円】",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "【５０億円】",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "(３６０億円)",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "３４０億円【新規】",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "（うち要望枠２億円）",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "【8.9億円】",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "・資源国協力事業（持続的資源開発推進対策事業） ３９．９億円（平成23年度三次補正予算）",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "三菱マテリアル、レアメタル再生拡大へ処理施設 200億円投資 - 日本経済新聞",
-    "url": "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "2030年度までに子会社の国内拠点に約200億円を投じて、処理施設を建てる",
-    "url": "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "新卒1400万円、霞ヶ関キャピタル",
-    "url": "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "新卒を年収1400万円で採用する霞ヶ関キャピタル 次の狙いは研究人材",
-    "url": "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "新卒を年収1400万円で採用する霞ヶ関キャピタル 次の狙いは研究人材",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "政府、鉱物やプラスチックリサイクルに１兆円投資か―国際競争力の強化へ",
-    "url": "https://www.iru-miru.com/article/82478",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "一部メディアが20日、政府が重要鉱物やプラスチックなどのリサイクルを強化するため、2030年までに施設整備や技術開発向けに官民で1兆円を投資する方針を固めたと報じた",
-    "url": "https://www.iru-miru.com/article/82478",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "シリカ輸入Report #16二酸化ケイ素 2026年1-9月輸入量前年比7%増 5年ぶり増加",
-    "url": "https://www.iru-miru.com/article/82478",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "(制度的措置を含お) 等により官民で約 1 兆円の投資を目指すなど、 再生資源供給サプライチェーンの強朝化を図る",
-    "url": "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "2024年に国策企業の中国資源循環集団(資本金約2千億円)を設立",
-    "url": "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "・経済的支援スキームによる支援等により、 2030年までに官民で約 1 兆円の投資を目指す",
-    "url": "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "2026年度予算案では、重要鉱物のリサイクル促進や再資源化の高度化に総額約379億円が計上されるなど、",
-    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "その後、営業手法の業務改善を行い、売上高増加、年間新規取引100件を達成",
-    "url": "https://sanwamekki.com/info/column/column_peeling/raremetal-recycling/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "営業利益は90億円（営業利益率30%）",
-    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・人件費：トンあたり8万円（処理コスト全体の50%）",
-    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・エネルギーコスト：トンあたり12万円",
-    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・排ガス処理コスト：トンあたり5万円",
-    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "合計処理コスト：トンあたり25万円",
-    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "トンあたり8万円",
-    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "人件費をトンあたり8万円→1.5万円に削減",
-    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・従来法（高温溶解）：1,200度、エネルギーコスト12万円/トン",
-    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・常温湿式精錬：25度、エネルギーコスト1.2万円/トン",
-    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "収益モデル：年商300億円、営業利益率30%",
-    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・金売上：120億円（回収量：600kg、単価：2,000万円/kg）",
-    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・銀売上：90億円（回収量：10トン、単価：9,000万円/トン）",
-    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・パラジウム売上：60億円（回収量：0.5トン、単価：12,000万円/kg）",
-    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・レアアース・その他金属売上：15億円",
-    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "・処理委託費収入：15億円（企業からの処理委託）",
-    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "都市鉱山とは？眠る宝の山から年間12兆円の価値を生み出す...",
-    "url": "https://trashtech.jp/journal/detail/20250414",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "都市鉱山とは？眠る宝の山から年間12兆円の価値を生み出す最新リサイクル",
-    "url": "https://trashtech.jp/journal/detail/20250414",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "世界の都市鉱山市場は2024年から2030年にかけて年平均成長率13.2%での拡大が予測されています",
-    "url": "https://trashtech.jp/journal/detail/20250414",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "国連の調査によると、2022年には約6,200億ドル（約90兆円）相当の資源が電子廃棄物として廃棄されています",
-    "url": "https://trashtech.jp/journal/detail/20250414",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "日本国内では、環境省が2030年度までに使用済み電子機器からの金属回収量を2020年度の約21万トンから42万トンに倍増させる具体的な目標を掲げ、循環経済の市場規模を現在の50兆円から80兆円に成長させることを目指しています",
-    "url": "https://trashtech.jp/journal/detail/20250414",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この技術は年間約1000億円規模の新市場創出が期待されており、資源の安定確保と経済的自立性の向上に大きく貢献しています",
-    "url": "https://trashtech.jp/journal/detail/20250414",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これらの技術革新により、都市鉱山からの金属回収は2035年までに年間約1000億円相当の新たな市場を創出すると期待されています",
-    "url": "https://trashtech.jp/journal/detail/20250414",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これらの取り組みにより、2035年までに年間約1000億円規模の新市場創出が見込まれています",
-    "url": "https://trashtech.jp/journal/detail/20250414",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "新卒1400万円、霞ヶ関キャピタル",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2008年頃のレアメタルの価格高騰や2010年の中国によるレアアース輸出制限のような事例を受け、企業は備蓄戦略を慎重に検討している",
-    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2024年度の経済対策では、1,600億円の予算を投じ、特定国依存の低減を目指している",
-    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば、小型電子機器１台に含まれているレアメタルの量は少なく、その価格も低いため、それより低いコストでリサイクルしなければならないという問題があります",
-    "url": "https://shizen-hatch.net/2020/09/08/rare-metals/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "• 産業規模について、部素材は、事業所数（4万所）、従業者数（170万人）、出荷額（103兆円）、付加価値額",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（30兆円）が製造業全体の約２割を占め、自動車に次ぐ規模",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "約373兆円",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "約110兆円",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "令和４年度第２次補正予算：JOGMEC出資金 1,100億円、安保助成金 1,058億円",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "令和７年度補正予算 ：JOGMEC出資金及び国家備蓄の強化費用等 937億円",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "令和７年度予備費 ：JOGMEC出資金 390億円",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "令和８年度当初予算案 ：安保助成金 125億円",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "金属リサイクルの日本市場（2026年～2034年）、市場規模（鉄鋼、銅、アルミニウム）・分析レポートを発表 | NEWSCAST",
-    "url": "https://newscast.jp/news/8926979",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "金属リサイクルの日本市場（2026年～2034年）、市場規模（鉄鋼、銅、アルミニウム）・分析レポートを発表",
-    "url": "https://newscast.jp/news/8926979",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本レポートによると、日本の金属リサイクル市場規模は2025年に156億米ドルに達しました",
-    "url": "https://newscast.jp/news/8926979",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "今後、本調査会社は、同市場が2034年までに220億米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）3.92%で成長すると予測しています",
-    "url": "https://newscast.jp/news/8926979",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "鉱山開発・製錬事業（100億円）",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/mining/pdf/003_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "SPC51億円",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/mining/pdf/003_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "25億円②外国",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/mining/pdf/003_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "・経済的支援スキームによる支援等により、2030年までに官民で約１兆円の投資を目指す",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/mining/pdf/003_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "投資を促進するため、予算面、金融面等の多角的な支援スキームを構築し、2030年までに官民で約１兆円の投資",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/mining/pdf/003_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なお、令和６年度末基金残高約1,060億円のうち、管理費等を除く約308億円が認定・交付決定済（令和７年5月時点）",
-    "url": "https://www.gyoukaku.go.jp/review/aki/R07/img/3_3_1_kikin.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "②今後の事業費や管理費の支出見込み（140,578百万円）",
-    "url": "https://www.gyoukaku.go.jp/review/aki/R07/img/3_3_1_kikin.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "認定・交付決定済未払額：30,789百万円（注1）",
-    "url": "https://www.gyoukaku.go.jp/review/aki/R07/img/3_3_1_kikin.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2.2 価格動向",
-    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "レアメタルの市場は小さく、需給バランスの変動により価格が乱高下しやすい特徴があり、表3はその動向である",
-    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "表3 価格動向",
-    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "価格高騰は、電気自動車の生産コスト上昇に直結し、車体価格の約3分の1を占めるバッテリー価格に影響を与える",
-    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "3.5億円を投じて電子機器を1時間に約1トン処理できる破砕・選別ラインを導入",
-    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "3.2 価格変動",
-    "url": "https://jpcb.jp/pickup/?m=detail&pkid=425",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "中国、9月の日本向けレアアース磁石輸出は171トンの低水準に 米国は前年比4割増",
-    "url": "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "AIなど経済安保研究、資金投入柔軟に 5000億円超え国費活用",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "アース輸出枠は前年比で約４０%減）",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "※基準価格：2004年1月＝100 （ジスプロシウムについては2005年1月＝100）",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "＜21年度補正、51.6億円の内数＞",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "＜20年度補正、1.0億円＞",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "＜ 1.2億円＞",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "資源循環実証事業＜1.2億円＞",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "希土類金属等回収技術研究開発事業＜20～24年度（予定）、6.9億円＞",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "希尐金属等高効率回収システム開発＜19補正～22年度、9.8億円＞",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "＜22年度補正、420億円の内数＞",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "＜8.2億円の内数＞",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "＜22年度補正、120億円の内数、NEDO＞",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "日本では、レアメタルの海外依存度が高く、2050年のカーボンニュートラルを見据えた場合、輸入依存だけでは供給不足や価格高騰に直面する懸念があります（参照*2）",
-    "url": "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "近年の鉱物資源をめぐる市場動向をみると、当初は先進諸国はもとより経済発展が著しいBRICS（ブラジル、ロシア、インド、中国、南アフリカ）などでの消費量が急速に拡大したことで、需要が逼迫し、価格も高騰していましたが、リーマン・ショックに起因する経済悪化にともない、2008年上期頃をピークに価格は下落しました",
-    "url": "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "しかし、中国が2010年からレアアースなどの輸出枠削減を行ったことで再び特定鉱種の価格が急騰しました",
-    "url": "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "特にレアメタルリサイクルは小規模から急成長しており（廃棄物処理・資源有効利用分野の推計市場規模は2000年で86億円に対して2022年では1063億円）、資源確保の観点から重要性が高まっています",
-    "url": "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "2025年3月期は連結売上高約452億円を計上し、日本国内でトップシェアを持つ商品も多いレアメタル・レアアースのリーディング企業として成長を続けている",
-    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "――2010年の輸出規制の際にも、翌年の売上を飛躍的に伸ばしています",
-    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "当社の売上構成は、合金鉄のモリブデンが約40％を占め、タングステン、タンタル、その他の各種レアアースとともに売上の4本柱を構成しています",
-    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "日経平均株価は5万円台で、一進一退の値動きが続いています",
-    "url": "https://go.sbisec.co.jp/media/report/dom_em_weekly/dom_em_weekly_251210.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "・時価総額100億円以上～5,000億円以下",
-    "url": "https://go.sbisec.co.jp/media/report/dom_em_weekly/dom_em_weekly_251210.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "26.3期上期（25.4-9月期）決算では、通期会社計画の売上高と経常利益を上方修正するなど堅調さを示しました",
-    "url": "https://go.sbisec.co.jp/media/report/dom_em_weekly/dom_em_weekly_251210.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "鉱石部門、金属部門、資源開発部門を擁する資源事業が、売上高構成比の90％以上を占めます（25.3期）",
-    "url": "https://go.sbisec.co.jp/media/report/dom_em_weekly/dom_em_weekly_251210.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "また、各商品等は価格の変動等により損失が生じるおそれがあります（信用取引、先物・オプション取引、商品先物取引、外国為替保証金取引、取引所CFD（くりっく株365）、 店頭CFD取引（SBI CFD）では差し入れた保証金・証拠金（元本）を上回る損失が生じるおそれがあります）",
-    "url": "https://go.sbisec.co.jp/media/report/dom_em_weekly/dom_em_weekly_251210.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "世界のレアメタルリサイクル市場規模、シェア、成長傾向および予測2026～2034年",
-    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "市場規模 (2025)",
-    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "1.2 billion USD",
-    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "2.5 billion USD",
-    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "CAGR (2026-2034)",
-    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "たとえば、世界のコバルト市場は、供給懸念により2018年から2020年にかけて50％以上の価格高騰を経験し、国の経済に直接影響を与えました",
-    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "たとえば、EVのバッテリー市場だけでも2030年まで20%を超えるCAGRで成長すると予測されており、リチウム、コバルト、ニッケルの需要が大幅に増加します",
-    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "日本金属リサイクル市場規模、シェア、成長予測 2034",
-    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "日本の金属リサイクル市場規模、シェア、動向、予測 金属別、セクター別、地域別、2026-2034年",
-    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "日本の金属リサイクル市場規模と予測（2026年～2034年）",
-    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "日本の金属リサイクル市場規模は、2025年に",
-    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "と評価されており、スクラップ需要と投資の増加を背景に、2026年から2034年にかけて年平均成長率",
-    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "（CAGR）3.79％で",
-    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "2025年6月、新日鉄は、九州製鉄所の3つの国内施設を電気炉技術へ移行するために8,700億円（約60億米ドル）を投資する計画を発表しました",
-    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "2025年2月、経済産業省（METI）は、低炭素鋼を使用して製造されたクリーンエネルギー車（CEV）1台につき5万円の補助金を導入した",
-    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "豊通マテリアルズ（豊田通商の子会社）は2023年11月、4億9,000万円を投じた合弁会社「豊通ソテック」の操業を開始した",
-    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "経済産業省の「GX推進法」は、高炉から電気炉への転換に対して2,514億円の補助金枠を設けており、リサイクル鉄スクラップの需要を直接的に刺激している",
-    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "炭素排出量削減の取り組みの一環として、日本国内の3つの施設に電気アーク炉を導入するために、約8,700億円（60億5,000万ドル）を投資する計画です",
-    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "資金の一部は日本政府から提供され、政府は2028/2029年度までに、これら3つの施設における同社の脱炭素化取り組みに対し、2,510億円の助成を行う計画です",
-    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "日本政府は「グリーン・スチール」に対するインセンティブを導入し、経済産業省（METI）は、低炭素排出鋼を使用して製造されたクリーンエネルギー車（CEV）に対し、5万円の補助金を支給することとした",
-    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "EVシフトを現実的に進めるには、「資源はあるか」だけでなく、採掘・精錬に伴う環境負荷、精錬工程の集中、価格変動の大きさといった構造的リスクを直視し、サプライチェーンのボトルネックがどこにあるのかを踏まえて議論する必要があります（図4）",
-    "url": "https://www.jeri.or.jp/survey/202606-07_09/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "CSR、人権、ESGに加え、品質、価格等を含む計13項目について調査を実施する",
-    "url": "https://ir.mmc.co.jp/ja/sustainability/social/supply_chain.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "このセルフチェックシートでは、一般的な評価項目である品質や価格、供給、技術力といった項目に加え、2023年度からは、加盟しているグルーバル・コンパクト・ネットワーク・ジャパン（GCNJ）が策定した標準アンケートツール（共通SAQ）を基に、CSR、人権、ESGに関する項目を拡充し、計13の項目に対して方針、体制、取り組み、是正に関する仕組みの有無を確認しています",
-    "url": "https://ir.mmc.co.jp/ja/sustainability/social/supply_chain.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "リコーグループは、グローバルに2,952社の直接材サプライヤーとの取引があり、調達金額は約3,460億円です（2026年3月現在）",
-    "url": "https://jp.ricoh.com/sustainability/society/scm",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "鉱物資源人材育成 1.0億円【1.0億円】",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "12.4億円（うち要望枠３．５億円）",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "【12.7億円】",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "10.5億円【8.2億円】",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "レアメタル備蓄 4.8億円【4.2億円】",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   }
   ]
  },
  "figures": {},
@@ -5139,14 +5271,14 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
+    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.env.go.jp/content/900535625.pdf",
+    "url": "https://note.com/iceman_23/n/nfea3a09d5355",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
@@ -5169,22 +5301,22 @@
     "method": "pdf"
    },
    {
+    "url": "https://www.env.go.jp/content/900535625.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://www.nikkei.com/article/DGXZQOUA1857S0Y4A710C2000000/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.jstage.jst.go.jp/article/materia/56/3/56_56.157/_pdf",
+    "url": "https://cmcre.com/wp-content/uploads/2023/01/pamf20230131cmcrb.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://olasonic.jp/%E9%9D%9E%E9%89%84%E5%90%84%E7%A4%BE%E3%80%81%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E5%BC%B7%E5%8C%96%E3%81%A7%E3%80%8C%E8%84%B1%E3%83%BB%E4%B8%AD/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.sankei.com/article/20260723-RAEEWNJSW5ICNL36HZLRMVD6LA/",
+    "url": "https://shizen-hatch.net/2020/09/08/rare-metals/",
     "status": "ok",
     "method": "http"
    },
@@ -5224,7 +5356,7 @@
     "method": "http"
    },
    {
-    "url": "https://mono.ipros.com/cg2/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB/",
+    "url": "https://www.cjc.or.jp/raremetal/company-list",
     "status": "ok",
     "method": "http"
    },
@@ -5239,12 +5371,12 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.ns-tool.com/ja/for_crafting_future/category/sub_category/1005.html",
-    "status": "ok",
-    "method": "http"
+    "url": "https://www.reuters.com/jp/markets/global-markets/T4LWWTKEM5PYHA2YI3XR3GGJ2U-2026-03-31/",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
-    "url": "https://go.sbisec.co.jp/media/report/dom_em_weekly/dom_em_weekly_251210.html",
+    "url": "https://www.ns-tool.com/ja/for_crafting_future/category/sub_category/1005.html",
     "status": "ok",
     "method": "http"
    },
@@ -5254,7 +5386,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.yano.co.jp/press-release/show/press_id/4178?srsltid=AYCX9vLC4hrU5xqG9VcgzMeNrA9s-w9mnnDWXqZa7F_9j2LR1r3XBAaC",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4178?srsltid=AYCX9vKIkH4asGqwd2XZ6cEI28QvsmqIJKkhX4uiZqENdhSj6o7KlamZ",
     "status": "ok",
     "method": "http"
    },
@@ -5349,22 +5481,22 @@
     "method": "http"
    },
    {
-    "url": "https://www.aist.go.jp/aist_j/magazine/20260624.html",
+    "url": "https://www.cjc.or.jp/news/topics/entry000266.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
+    "url": "https://hd.dowa.co.jp/ja/news/news20260910.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.pv-recycle.com/2021/05/18/demonstration-project-for-early-commercialisation-of-decarbonised-metal-recycling-system-in-2020/",
+    "url": "https://hojokin-agent.jp/subsidy/110704",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.aist.go.jp/aist_j/news/event/ev20261130.html",
+    "url": "https://www.mitsubishielectric.co.jp/ja/pr/2026/0602_co/",
     "status": "ok",
     "method": "http"
    },
@@ -5417,14 +5549,14 @@
     "https://www.cjc.or.jp/raremetal/",
     "https://www.youtube.com/watch?v=2zWOenwP3dQ",
     "https://sanwamekki.com/info/column/column_peeling/raremetal-recycling/",
-    "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "https://jpcb.jp/pickup/?m=detail&pkid=425",
     "https://tenbou.nies.go.jp/science/description/detail.php?id=62"
    ],
    "engines": [
     "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 15
   },
   {
    "query": "レアメタルリサイクル 受注残 人手不足",
@@ -5438,10 +5570,10 @@
     "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
     "https://www.youtube.com/watch?v=2zWOenwP3dQ",
     "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
-    "https://www.meti.go.jp/shingikai/enecho/shigen_nenryo/kogyo/pdf/001_s03_00.pdf"
+    "https://service.matsuda-sangyo.co.jp/greenbusiness/disposal/metal/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -5452,17 +5584,19 @@
     "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
     "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
     "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
     "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
-    "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
-    "https://www.env.go.jp/content/900535625.pdf",
     "https://note.com/iceman_23/n/nfea3a09d5355",
+    "https://www.env.go.jp/content/900535625.pdf",
     "https://service.xenobrain.jp/forecastresults/market-size/non-ferrous-metal-scrap-recycling",
-    "https://journal.jogmec.go.jp/content/300600724.pdf"
+    "https://journal.jogmec.go.jp/content/300600724.pdf",
+    "https://tenbou.nies.go.jp/science/description/detail.php?id=62"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 16
   },
   {
    "query": "レアメタルリサイクル 輸入 2026",
@@ -5479,7 +5613,7 @@
     "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -5493,16 +5627,16 @@
     "https://www.env.go.jp/content/900535625.pdf",
     "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
     "https://www.nikkei.com/article/DGXZQOUA1857S0Y4A710C2000000/",
-    "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
-    "https://www.jstage.jst.go.jp/article/materia/56/3/56_56.157/_pdf",
+    "https://cmcre.com/wp-content/uploads/2023/01/pamf20230131cmcrb.pdf",
     "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
-    "https://olasonic.jp/非鉄各社、レアメタルリサイクル強化で「脱・中/"
+    "https://shizen-hatch.net/2020/09/08/rare-metals/",
+    "https://tenbou.nies.go.jp/science/description/detail.php?id=62"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 16
   },
   {
    "query": "レアメタルリサイクル 日本 代理店 販売開始",
@@ -5550,12 +5684,12 @@
     "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
     "https://www.jetro.go.jp/biz/areareports/2026/729269e9b406c29c.html",
     "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
+    "https://note.com/kumu_works/n/nd9c4042d4da9",
     "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/mining/pdf/003_03_00.pdf",
     "https://www.nikkei.com/article/DGXZQOUA1857S0Y4A710C2000000/",
+    "https://www.reuters.com/jp/markets/global-markets/T4LWWTKEM5PYHA2YI3XR3GGJ2U-2026-03-31/",
     "https://www.ns-tool.com/ja/for_crafting_future/category/sub_category/1005.html",
     "https://go.sbisec.co.jp/media/report/dom_em_weekly/dom_em_weekly_251210.html",
-    "https://www.iru-miru.com/article/79945",
-    "https://project.nikkeibp.co.jp/ESG/forecast/atcl/news/042400148/",
     "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/"
    ],
    "engines": [
@@ -5568,18 +5702,18 @@
    "query": "レアメタルリサイクル 国内市場規模 2026",
    "results": [
     "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
-    "https://www.yano.co.jp/press-release/show/press_id/4178?srsltid=AYCX9vLC4hrU5xqG9VcgzMeNrA9s-w9mnnDWXqZa7F_9j2LR1r3XBAaC",
+    "https://www.yano.co.jp/press-release/show/press_id/4178?srsltid=AYCX9vKIkH4asGqwd2XZ6cEI28QvsmqIJKkhX4uiZqENdhSj6o7KlamZ",
     "https://jp.linkedin.com/pulse/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E9%96%93%E3%81%ABcagr133%E3%81%A7%E5%AE%89%E5%AE%9A%E3%81%97%E3%81%9F%E6%88%90%E9%95%B7%E3%82%92%E9%81%82%E3%81%92%E3%81%A6%E3%81%8A%E3%82%8A%E5%B8%82%E5%A0%B4%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86-7493500947101380608-tk2xe",
     "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
-    "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
     "https://www.jeri.or.jp/survey/202606-07_09/",
-    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
-    "https://straitsresearch.com/jp/report/metal-recycling-market",
     "https://newscast.jp/news/8926979",
+    "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "https://www.atpress.ne.jp/news/3506878",
+    "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
     "https://www.atpress.ne.jp/news/8926979"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -5596,10 +5730,10 @@
     "https://www.mol.co.jp/sustainability/governance/procurement/",
     "https://www.kuraray.com/jp-ja/sustainability/3p/supplychain/",
     "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
-    "https://www.cjc.or.jp/raremetal/"
+    "https://tenbou.nies.go.jp/science/description/detail.php?id=62"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -5615,7 +5749,7 @@
     "https://www.gyoukaku.go.jp/review/aki/R07/img/3_3_1_kikin.pdf",
     "https://www.iru-miru.com/article/79895",
     "https://www.cas.go.jp/jp/seisaku/economiccirculation/dai4/shiryo2.pdf",
-    "https://www.ousei.co.jp/news/post-5414/",
+    "https://www.japanmetal.com/news-h20251226147065.html",
     "https://www.kankyo-news.co.jp/news/9d43879b-ef03-4473-9f4d-23ccd3877db5"
    ],
    "engines": [
@@ -5635,14 +5769,14 @@
     "https://askacompany.co.jp/environmental-measures/27356/",
     "https://www.env.go.jp/content/000342215.pdf",
     "https://brightinnovation.jp/column/2026-04-14/",
-    "https://www.manegy.com/news/detail/13708/",
-    "https://www.dsj.co.jp/fast-carbon/column/shigen-yuko-riyo-sokushin-ho-kaisei/"
+    "https://www.cas.go.jp/jp/seisaku/economiccirculation/kanjikai_dai1/sanko3.pdf",
+    "https://www.japanmetal.com/news-h20261026151254.html"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 13
   },
   {
    "query": "レアメタルリサイクル 人手不足 自動化",
@@ -5659,30 +5793,30 @@
     "https://tenbou.nies.go.jp/science/description/detail.php?id=62"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 15
   },
   {
    "query": "レアメタルリサイクル 新技術 実証 2026",
    "results": [
     "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
+    "https://www.cjc.or.jp/news/topics/entry000266.html",
+    "https://hd.dowa.co.jp/ja/news/news20260910.html",
     "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
-    "https://www.cjc.or.jp/raremetal/advanced-business-model",
+    "https://www.instagram.com/p/DeGpWF1k72E/",
+    "https://hojokin-agent.jp/subsidy/110704",
+    "https://www.mitsubishielectric.co.jp/ja/pr/2026/0602_co/",
     "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
-    "https://www.aist.go.jp/aist_j/magazine/20260624.html",
-    "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
-    "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
-    "https://www.pv-recycle.com/2021/05/18/demonstration-project-for-early-commercialisation-of-decarbonised-metal-recycling-system-in-2020/",
-    "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
+    "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf",
     "https://www.aist.go.jp/aist_j/news/event/ev20261130.html"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 16
   },
   {
    "query": "e-waste precious metal recovery Japan distributor",
@@ -5693,50 +5827,28 @@
     "https://www.hanwa.co.jp/en/csr/business/escrap.html",
     "https://www.umicore.com/en/markets-products/recycling-solutions/precious-metals/e-scrap/",
     "https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202210/202210_10_en.html",
-    "https://www.researchandmarkets.com/report/precious-waste-e-waste-recovery?srsltid=AYCX9vIYBpm3X-t4-NgAmQUyHt0D0y17iV9qfIoMsqZzrhOuiDJW-S3V",
+    "https://www.researchandmarkets.com/report/precious-waste-e-waste-recovery?srsltid=AYCX9vIe30gb6syk9bXmHwY6NsLVSusJADoE81KkX7gDvaLazTEPUC4f",
     "https://www.witpress.com/Secure/elibrary/papers/WM14/WM14001FU1.pdf",
-    "https://www.mmc.co.jp/corporate/en/company/policy/details/e-scrap.html",
-    "https://www.scrapmonster.com/news/e-waste-recycling/mitsubishi-partners-on-e-scrap-metals-recovery-2026-3-10/98643"
+    "https://www.mmc.co.jp/corporate/en/company/policy/details/e-scrap.html"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 9
   },
   {
    "query": "e-waste precious metal recovery entering Japan market 2026",
    "results": [
-    "https://finance.yahoo.com/news/precious-metals-e-waste-recovery-102100639.html",
     "https://www.kenresearch.com/global-precious-metals-e-waste-recovery-market",
     "https://www.facebook.com/ItisaScience/posts/japan-engineered-a-technology-that-recovers-precious-metals-from-electronic-wast/122220882770051326/",
+    "https://finance.yahoo.com/news/precious-metals-e-waste-recovery-102100639.html",
     "https://www.gminsights.com/industry-analysis/precious-metals-e-waste-recovery-market",
     "https://www.marketsandmarkets.com/Market-Reports/geography/electronic-waste-recycling-market/Japan",
     "https://www.thebusinessresearchcompany.com/report/precious-metals-e-waste-recovery-global-market-report",
     "https://eridirect.com/blog/2026/03/the-rise-of-formal-e-waste-ecosystems-in-2026/",
     "https://www.sphericalinsights.com/reports/precious-metals-e-waste-recovery-market",
-    "https://ewaste-expo.com/metal-recycling-expo-global",
-    "https://www.6wresearch.com/industry-report/japan-precious-metals-e-waste-recovery-market"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 15
-  },
-  {
-   "query": "e-waste precious metal recovery Japanese customers",
-   "results": [
-    "https://www.facebook.com/ItisaScience/posts/japan-engineered-a-technology-that-recovers-precious-metals-from-electronic-wast/122220882770051326/",
-    "https://www.gminsights.com/industry-analysis/precious-metals-e-waste-recovery-market",
-    "https://emew.com/blog/precious-metals-recovery-from-e-waste",
-    "https://www.retsch.com/files/454280/precious-metal-recovery-from-e-waste.pdf",
-    "https://www.sciencedirect.com/science/article/abs/pii/S0921344922006425",
-    "https://www.thebusinessresearchcompany.com/report/precious-metals-e-waste-recovery-global-market-report",
-    "https://www.hanwa.co.jp/en/csr/business/escrap.html",
-    "https://www.marketsandmarkets.com/Market-Reports/precious-metals-e-waste-recovery-market-191615472.html",
-    "https://www.witpress.com/Secure/elibrary/papers/WM14/WM14001FU1.pdf",
-    "https://www.linkedin.com/pulse/japan-electronic-precious-metal-material-recovery-market-sfc9f"
+    "https://www.grandviewresearch.com/industry-analysis/precious-metals-e-waste-recovery-market-report",
+    "https://www.researchandmarkets.com/report/precious-waste-e-waste-recovery"
    ],
    "engines": [
     "ddgs:google",
@@ -5745,37 +5857,18 @@
    "n_hits": 14
   },
   {
-   "query": "site:note.com レアメタルリサイクル",
+   "query": "e-waste precious metal recovery Japanese customers",
    "results": [
-    "https://note.com/dr_yayasu/n/n566d84141c98",
-    "https://note.com/nts_journal/n/n8db5c196bc01",
-    "https://note.com/dr_yayasu/n/nfa4d099ef192",
-    "https://note.com/dr_yayasu/n/n5497b4502f04",
-    "https://note.com/dr_yayasu/n/n0464d3980e5d",
-    "https://note.com/mitsuwapump/n/nf03222bc1eaa",
-    "https://note.com/dr_yayasu/n/n3eb48c25c624",
-    "https://note.com/iceman_23/n/nfea3a09d5355",
-    "https://note.com/t_ryoma1985/n/n081c1e1bd377",
-    "https://note.com/science_totoron/n/n131d4e93bb8f"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 10
-  },
-  {
-   "query": "site:x.com レアメタルリサイクル",
-   "results": [
-    "https://x.com/i/trending/2019023510216290722",
-    "https://x.com/t_ryoma1985/status/1998664755880599803",
-    "https://x.com/t_ryoma1985/status/2011712801769996506",
-    "https://x.com/txbiz_ondemand/status/2012736707972718723",
-    "https://x.com/t_ryoma1985/status/2109557411648528817",
-    "https://x.com/t_ryoma1985/status/2025027897640304991",
-    "https://x.com/nhk_matsuyama/status/2109742126221381679",
-    "https://x.com/t_ryoma1985/status/2085647353214865764",
-    "https://x.com/semi_journal_jp/status/2115190881993273722",
-    "https://x.com/hashtag/レアメタルリサイクル"
+    "https://www.facebook.com/ItisaScience/posts/japan-engineered-a-technology-that-recovers-precious-metals-from-electronic-wast/122220882770051326/",
+    "https://www.gminsights.com/industry-analysis/precious-metals-e-waste-recovery-market",
+    "https://pubs.acs.org/estlcu/article/12/1/8/3676382/Recovery-of-Metals-from-E-waste-Facts-Methods",
+    "https://emew.com/blog/precious-metals-recovery-from-e-waste",
+    "https://www.thebusinessresearchcompany.com/report/precious-metals-e-waste-recovery-global-market-report",
+    "https://www.retsch.com/files/454280/precious-metal-recovery-from-e-waste.pdf",
+    "https://www.hanwa.co.jp/en/csr/business/escrap.html",
+    "https://www.marketsandmarkets.com/Market-Reports/precious-metals-e-waste-recovery-market-191615472.html",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0921344922006425",
+    "https://www.witpress.com/Secure/elibrary/papers/WM14/WM14001FU1.pdf"
    ],
    "engines": [
     "ddgs:google",
@@ -5784,24 +5877,65 @@
    "n_hits": 15
   },
   {
+   "query": "site:note.com レアメタルリサイクル",
+   "results": [
+    "https://note.com/dr_yayasu/n/n566d84141c98",
+    "https://note.com/nts_journal/n/n8db5c196bc01",
+    "https://note.com/dr_yayasu/n/n5497b4502f04",
+    "https://note.com/dr_yayasu/n/nfa4d099ef192",
+    "https://note.com/mitsuwapump/n/nf03222bc1eaa",
+    "https://note.com/dr_yayasu/n/n3eb48c25c624",
+    "https://note.com/iceman_23/n/nfea3a09d5355",
+    "https://note.com/science_totoron/n/n131d4e93bb8f",
+    "https://note.com/tatsuya_sabato/n/n0f07b1bf501e",
+    "https://note.com/pe_metals_o/n/nf530d4dbf155"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com レアメタルリサイクル",
+   "results": [
+    "https://x.com/i/trending/2019023510216290722",
+    "https://x.com/t_ryoma1985/status/1998664755880599803",
+    "https://x.com/t_ryoma1985/status/2011712801769996506",
+    "https://x.com/txbiz_ondemand/status/2012736707972718723",
+    "https://x.com/t_ryoma1985/status/2025027897640304991",
+    "https://x.com/t_ryoma1985/status/2109557411648528817",
+    "https://x.com/nhk_matsuyama/status/2109742126221381679",
+    "https://x.com/t_ryoma1985/status/2085647353214865764",
+    "https://x.com/ns_tool/status/2105825092995305610",
+    "https://x.com/nikkeinagoya/status/2079698111715574103"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
    "query": "site:linkedin.com レアメタルリサイクル",
    "results": [
     "https://jp.linkedin.com/pulse/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E9%96%93%E3%81%ABcagr133%E3%81%A7%E5%AE%89%E5%AE%9A%E3%81%97%E3%81%9F%E6%88%90%E9%95%B7%E3%82%92%E9%81%82%E3%81%92%E3%81%A6%E3%81%8A%E3%82%8A%E5%B8%82%E5%A0%B4%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86-7493500947101380608-tk2xe",
     "https://jp.linkedin.com/posts/%E5%BF%97%E6%B5%A9-%E7%AB%B9%E4%B8%8B-379929273_%E4%B8%96%E7%95%8C%E6%9C%80%E5%85%88%E7%AB%AF%E5%BB%83%E9%9B%BB%E6%B1%A0%E3%81%8B%E3%82%89%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%81%AF90%E8%B6%85%E3%81%88%E5%9B%9E%E5%8F%8E%E6%88%90%E5%8A%9F%E3%82%B0%E3%83%83%E3%83%89%E3%81%84%E3%81%A1%E3%81%8A%E3%81%97-activity-7510458413395476480-uVCQ",
-    "https://jp.linkedin.com/posts/hiroshi-suzuki-781838227_%E6%97%A5%E6%9C%AC%E3%81%AE%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%A0%94%E7%A9%B6%E3%81%8C%E7%94%A3%E3%82%93%E3%81%A0%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E6%96%B0%E3%81%9F%E3%81%AA%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E5%9B%9E%E5%8F%8E%E6%8A%80%E8%A1%93%E3%81%A7%E4%B8%96%E7%95%8C%E3%81%AE%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB-activity-7169513907630403584-VDCk",
     "https://www.linkedin.com/posts/michael-sailer-92088782_%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E7%B5%82%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E5%BC%8A%E7%A4%BE%E3%81%AE%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E6%97%A5%E7%8B%ACvc%E5%AF%BE%E8%AB%87%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%81%AB%E3%82%88%E3%82%8B-activity-7073940033866452992-5Pby",
+    "https://jp.linkedin.com/posts/hiroshi-suzuki-781838227_%E6%97%A5%E6%9C%AC%E3%81%AE%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%A0%94%E7%A9%B6%E3%81%8C%E7%94%A3%E3%82%93%E3%81%A0%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E6%96%B0%E3%81%9F%E3%81%AA%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E5%9B%9E%E5%8F%8E%E6%8A%80%E8%A1%93%E3%81%A7%E4%B8%96%E7%95%8C%E3%81%AE%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB-activity-7169513907630403584-VDCk",
     "https://www.linkedin.com/posts/yuko-ogura_%E3%81%84%E3%82%88%E3%81%84%E3%82%88%E6%98%8E%E6%97%A5%E3%81%A7%E3%81%99%E3%81%8A%E7%94%B3%E8%BE%BC%E3%81%BF%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89%E3%81%8B%E3%82%89httpslnkdingbbuck9e-activity-7072013081559629824-a0NN?trk=public_profile_share_view",
     "https://www.linkedin.com/company/emulsion-flow-technologies",
     "https://jp.linkedin.com/posts/hiroshi-suzuki-781838227_%E6%9C%AC%E6%97%A5%E6%B5%85%E5%B0%BE%E7%92%B0%E5%A2%83%E5%A4%A7%E8%87%A3%E3%81%A8%E9%9D%A2%E8%AB%87%E3%81%95%E3%81%9B%E3%81%A6%E9%A0%82%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%83%AD%E3%83%BC%E3%81%AF%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB-activity-7333437480429387777-KjRJ",
-    "https://jp.linkedin.com/in/hiroshi-suzuki-781838227",
     "https://jp.linkedin.com/posts/intralinkjapan_%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E7%B5%82%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E5%BC%8A%E7%A4%BE%E3%81%AE%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E6%97%A5%E7%8B%ACvc%E5%AF%BE%E8%AB%87%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%81%AB%E3%82%88%E3%82%8B-activity-7073929394825695232-YdXo",
-    "https://www.linkedin.com/posts/michael-sailer-92088782_イベント終了のお知らせ弊社のイベント日独vc対談レアメタルリサイクルによる-activity-7073940033866452992-5Pby"
+    "https://jp.linkedin.com/in/hiroshi-suzuki-781838227",
+    "https://www.linkedin.com/company/linkedin"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 14
   },
   {
    "query": "site:facebook.com レアメタルリサイクル",
@@ -5809,33 +5943,34 @@
     "https://www.facebook.com/officialkddi/posts/%E5%AE%B6%E5%BA%AD%E3%81%AB%E7%9C%A0%E3%82%8B%E8%B3%87%E6%BA%90%E3%82%92%E6%8E%98%E3%82%8A%E8%B5%B7%E3%81%93%E3%81%99%EF%B8%8F%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%81%AE%E5%86%8D%E8%B3%87%E6%BA%90%E5%8C%96%E3%81%A8%E7%81%AB%E7%81%BD%E9%98%B2%E6%AD%A2%E3%82%92%E4%B8%A1%E7%AB%8B%E3%81%99%E3%82%8B%E5%AE%89%E5%85%A8%E3%81%AA%E5%9B%9E%E5%8F%8E%E3%81%B8kddi-%E3%81%8C%E6%9D%B1%E4%BA%AC%E9%83%BD%E3%81%AA%E3%81%A9%E3%81%A8%E9%80%A3%E6%90%BA%E3%81%97%E9%83%BD%E5%BA%81%E8%88%8E%E3%81%A7%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%9F%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3%E9%9B%BB%E6%B1%A0%E5%9B%9E%E5%8F%8E%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3/1664058412177923/",
     "https://www.facebook.com/media/set/?set=a.439375229536669.1073741992.181256395348555&type=1",
     "https://www.facebook.com/JBIC.Japan/posts/%E6%B5%B7%E5%A4%96%E3%81%A7%E6%B4%BB%E8%BA%8D%E3%81%99%E3%82%8B%E4%B8%AD%E5%A0%85%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%82%92%E7%B4%B9%E4%BB%8B%E3%82%8F%E3%81%8C%E7%A4%BE%E3%81%AE%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E5%B1%95%E9%96%8B%E5%A4%AA%E9%99%BD%E9%89%B1%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%BD%BF%E7%94%A8%E6%B8%88%E3%81%BF%E8%A7%A6%E5%AA%92%E3%81%AE%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E6%8A%80%E8%A1%93%E3%82%92%E6%90%BA%E3%81%88%E3%81%A6%E5%88%9D%E3%81%AE%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA100%E5%84%84%E5%86%86%E8%B6%85%E3%82%92%E6%8A%95%E3%81%98%E3%82%8B%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2%E5%B7%A5%E5%A0%B4%E3%81%A7%E3%83%AC%E3%82%A2%E3%83%A1/1568460745323348/",
+    "https://www.facebook.com/onokatsuhikoyurihonjo/photos/1435621168751995/",
     "https://www.facebook.com/pages/IRRSG%E5%9B%BD%E9%9A%9B%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E7%A0%94%E7%A9%B6%E4%BC%9A/189935421042518",
     "https://www.facebook.com/koike.governor.tokyo/posts/%E6%9D%B1%E4%BA%AC%E9%89%B1%E5%B1%B1%E3%81%8B%E3%82%89%E8%B3%87%E6%BA%90%E3%82%92%E6%8E%98%E3%82%8A%E8%B5%B7%E3%81%93%E3%81%97-%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1%E3%82%84%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%81%AA%E3%81%A9%E3%81%AE%E5%B0%8F%E5%9E%8B%E5%85%85%E9%9B%BB%E5%BC%8F%E5%AE%B6%E9%9B%BB%E3%81%AE%E5%9B%9E%E5%8F%8E%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%82%92%E9%96%8B%E5%A7%8B%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99-%E9%83%BD%E5%BA%81%E7%AC%AC%E4%B8%80%E6%9C%AC%E5%BA%81%E8%88%8E%EF%BC%91%E9%9A%8E%E5%8D%97%E5%81%B4%E3%81%ABai%E8%87%AA%E5%8B%95%E5%88%86%E5%88%A5%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB/1325022329741873/",
-    "https://www.facebook.com/onokatsuhikoyurihonjo/posts/%E4%BB%A4%E5%92%8C8%E5%B9%B410%E6%9C%8829%E6%97%A5%E6%9C%A830%E6%97%A5%E9%87%91%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A%E6%8A%95%E7%A8%BF%E6%97%A5-%E4%BB%A4%E5%92%8C8%E5%B9%B410%E6%9C%8831%E6%97%A5-%E4%BB%8A%E6%97%A5%E3%81%AF%E5%8D%88%E5%89%8D%E7%A8%AE%E8%8B%97%E4%BA%A4%E6%8F%9B%E4%BC%9A%E9%96%8B%E4%BC%9A%E5%BC%8F%E5%8D%88%E5%BE%8C%E7%9F%A2%E5%B3%B6-%E9%AB%98%E6%A0%A1100%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E7%A5%9D%E8%B3%80%E4%BC%9A%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%E7%A7%8B%E7%94%B0%E5%B8%82-%E3%81%AB%E5%90%91%E3%81%8B%E3%81%8418%E6%99%82%E3%81%8B/1435621252085320/",
     "https://www.facebook.com/kankyoutainai/posts/%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1%E3%81%AA%E3%81%A9%E3%81%AE%E5%B0%8F%E5%9E%8B%E5%AE%B6%E9%9B%BB%E3%81%AB%E3%81%AF%E9%89%84%E3%82%84%E9%8A%85%E3%81%AE%E3%81%BB%E3%81%8B%E9%87%91%E3%82%84%E5%B8%8C%E5%B0%91%E9%87%91%E5%B1%9E%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%81%AA%E3%81%A9%E3%81%8C%E4%BD%BF%E7%94%A8%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%82%92%E3%81%94%E5%AD%98%E7%9F%A5%E3%81%A7%E3%81%99%E3%81%8B%E4%BD%BF%E7%94%A8%E6%B8%88%E3%81%BF%E3%81%AE%E5%B0%8F%E5%9E%8B%E5%AE%B6%E9%9B%BB%E3%81%AF%E3%81%94%E3%81%BF%E3%81%A8%E3%81%97%E3%81%A6%E6%8D%A8%E3%81%A6%E3%82%89%E3%82%8C%E3%81%A6%E3%81%97%E3%81%BE%E3%81%A3%E3%81%9F%E3%82%8A%E5%AE%B6%E5%BA%AD%E3%81%A7%E7%9C%A0%E3%81%A3%E3%81%9F%E3%81%BE/225569301162040/",
     "https://www.facebook.com/ERCA.jp/posts/%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%BC%E3%82%A8%E3%82%B3%E3%83%8E%E3%83%9F%E3%83%BC-expo-%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%97%E3%81%BE%E3%81%99%E7%92%B0%E5%A2%83%E5%86%8D%E7%94%9F%E4%BF%9D%E5%85%A8%E6%A9%9F%E6%A7%8Berca%E3%82%A8%E3%83%AB%E3%82%AB%E3%81%AE%E7%92%B0%E5%A2%83%E7%A0%94%E7%A9%B6%E7%B7%8F%E5%90%88%E6%8E%A8%E9%80%B2%E9%83%A8%E3%81%A7%E3%81%AF%E6%98%A8%E5%B9%B4%E3%81%AB%E5%BC%95%E3%81%8D%E7%B6%9A%E3%81%8D%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%BC%E3%82%A8%E3%82%B3%E3%83%8E%E3%83%9F%E3%83%BC-expo%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%97%E3%81%BE%E3%81%99-/971396951842433/",
     "https://www.facebook.com/fumiaki.kobayashi0408/posts/%E3%81%84%E3%81%BE%E4%B8%96%E7%95%8C%E3%81%A7%E8%B3%87%E6%BA%90%E3%82%92%E5%B7%A1%E3%82%8B%E5%8B%95%E3%81%8D%E3%81%8C%E6%BF%80%E5%A4%89%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AF%E3%81%84%E3%81%8B%E3%81%AB%E5%A4%A9%E7%84%B6%E8%B3%87%E6%BA%90%E3%82%92%E7%A2%BA%E4%BF%9D%E3%81%99%E3%82%8B%E3%81%8B%E3%81%8C%E7%84%A6%E7%82%B9%E3%81%A7%E3%81%97%E3%81%9F%E3%81%8C%E7%8F%BE%E5%9C%A8%E3%81%AF%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E8%B3%87%E6%BA%90%E3%81%AE%E7%8D%B2%E5%BE%97%E7%AB%B6%E4%BA%89%E3%81%A8%E3%81%84%E3%81%86%E6%96%B0%E3%81%9F%E3%81%AA%E3%83%95%E3%82%A7%E3%83%BC%E3%82%BA%E3%81%AB%E7%AA%81%E5%85%A5%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E5%8A%A0%E9%80%9F/26516612594660180/",
-    "https://secure.facebook.com/"
+    "https://secure.facebook.com/login/"
    ],
    "engines": [
     "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 17
   },
   {
    "query": "レアメタルリサイクル note 社長",
    "results": [
-    "https://note.com/nts_journal/n/n8db5c196bc01",
     "https://note.com/t_ryoma1985/n/n081c1e1bd377",
+    "https://note.com/nts_journal/n/n8db5c196bc01",
+    "https://www.env.go.jp/council/former2013/03haiki/y0326-04/mat05.pdf",
+    "https://www.projectdesign.jp/articles/03dd46fb-5423-468b-8d8b-be3e39e1c728",
+    "https://note.com/science_totoron/n/n131d4e93bb8f",
     "https://www.youtube.com/watch?v=Xr13KYBh3tM",
     "https://www.nikkei.com/article/DGXZQOUC152GV0V10C26A5000000/",
-    "https://note.com/tatsuya_sabato/n/n0f07b1bf501e",
-    "https://www.env.go.jp/council/former2013/03haiki/y0326-04/mat05.pdf",
-    "https://www.jstage.jst.go.jp/article/mcwmr/22/1/22_3/_article/-char/ja",
-    "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
-    "https://www.raremetal.co.jp/company",
-    "https://www.cjc.or.jp/raremetal/"
+    "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "https://www.iru-miru.com/article/83023",
+    "https://www.raremetal.co.jp/company/greeting"
    ],
    "engines": [
     "ddgs:google",
@@ -5849,33 +5984,37 @@
     "https://japan-forward.com/ja/japanese-companies-race-recycle-rare-metals-china-risk-grows/",
     "https://x.com/t_ryoma1985/status/2011712801769996506",
     "https://www.cjc.or.jp/raremetal/",
+    "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
     "https://www.nikkei.com/article/DGXZQOUA1857S0Y4A710C2000000/",
+    "https://www.env.go.jp/council/former2013/03haiki/y030-47/ref04.pdf",
     "https://tenbou.nies.go.jp/science/description/detail.php?id=62",
-    "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
-    "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/015_04_00.pdf",
-    "https://www.youtube.com/shorts/i1ldfs-m3jM"
+    "https://www.youtube.com/watch?v=PTYY1OmlXMk",
+    "https://service.matsuda-sangyo.co.jp/greenbusiness/disposal/metal/",
+    "https://x.com/rea_Raremetal"
    ],
    "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 8
+   "n_hits": 14
   },
   {
    "query": "e-waste precious metal recovery site:linkedin.com",
    "results": [
     "https://www.linkedin.com/pulse/revolutionizing-e-waste-unlocking-riches-precious-metal-recovery-xdlhf",
-    "https://www.linkedin.com/posts/waste-innovation-stories_wasteinnovation-ewaste-urbanmining-activity-7485233992233799682-iH1r",
+    "https://www.linkedin.com/pulse/precious-metals-recovery-from-e-waste-market-growth-factors-alyrf",
     "https://www.linkedin.com/pulse/cleaner-way-reclaim-gold-from-e-waste-2sluf",
     "https://www.linkedin.com/posts/businessinsider_inside-one-of-the-largest-e-recyclers-facilities-activity-7442928197475856386-oRhn",
+    "https://www.linkedin.com/company/all-green-recycling-llc",
     "https://www.linkedin.com/posts/ravi-kumar-neeladri-5014759_blueplanet-ewaste-resourcerecovery-activity-7513534567543332864-uXbh",
-    "https://www.linkedin.com/pulse/semiconductor-recycling-technologies-building-sustainable-js6cf",
     "https://lk.linkedin.com/jobs/view/career-opportunities-precious-metals-refining-e%E2%80%91waste-recycling-at-ceylon-waste-management-refinery-pvt-ltd-4328364049",
     "https://www.linkedin.com/top-content/technology/electronic-waste-management/resource-recovery-from-e-waste/",
-    "https://www.linkedin.com/in/larry-blue-121a2a28a",
-    "https://www.linkedin.com/pulse/process-metal-extraction-from-pcbs-e3kaf"
+    "https://www.linkedin.com/pulse/process-metal-extraction-from-pcbs-e3kaf",
+    "https://www.linkedin.com/in/larry-blue-121a2a28a"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -5883,491 +6022,145 @@
  ],
  "missing": {},
  "new_this_run": {
-  "顧客の競合（奪いに来る側）": [
-   {
-    "quote": "ザフスタン・SARECO、インド・インディアンレア",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "３０％以上を中国以",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "中国からの入手は実際に必要な量の半分以下となっている",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "FCC触媒は、補正予算による、代替材料の開発に成功したものの、量産化へはまだ時間がかかるため、引き続き中国からのランタンの輸入が必要",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "価格高騰と中国内外価格差のため中国メーカーが市場を伸ばしている",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "光学レンズは、高純度ランタンの代替が実現できておらず、レンズの生産量縮小と、一部中国へ移転し加工品にして持ち込む方向で対応",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": " 中国政府・企業が供給を絞っているジスプロシウムを含む 、電動パワーステアリングやオルタネーター等の車載モーター ・",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "に実装可能な技術を早期に 確立し、中国への技術流出を防ぐ",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "東邦亜鉛、群馬の拠点で鉛鉱石からレアアース 脱中国依存へ",
-    "url": "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "次の半導体大国、インド",
-    "url": "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "インド半導体の業界地図 タタ経済圏に450社、日本の突破口明らかに",
-    "url": "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "政府、APEC宣言に「貿易の透明性」提案 中国レアアース規制念頭",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "中国の貿易黒字が2年連続1兆ドル超 1〜10月、各国との摩擦悪化要因に",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "次の半導体大国、インド",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "インド半導体の業界地図 タタ経済圏に450社、日本の突破口明らかに",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "また、低炭素金属部素材（鉄鋼以外）の項目においても、「アルミニウムやレアメタルを中心に、欧州では素材製造 プロセスの脱炭素化要請が高まる中、製造工程の脱炭 素化やリサイクルシステム構築は製造業の国際競争力 維持・強化の観点から急務」としたうえで、生産基盤の強化に加え、「リサイクル施設への技術開発・設備投資支援、国・自治体による優先的調達・購入といった初期需要創出に向けた取組を通じ、高品質な低炭素金属部素材を世界に先駆けて商業化し、競争優位性の確立につなげる」と方針が示された",
-    "url": "https://www.iru-miru.com/article/82478",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "中国鉄鋼PMI（10月）：50を大きく割り込む",
-    "url": "https://www.iru-miru.com/article/82478",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "【ECOMONDO 2026】欧州鉄鋼業に二重の圧力 CBAMと輸入関税強化、スクラップ確保も焦点に",
-    "url": "https://www.iru-miru.com/article/82478",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "チタン鉱石輸入Report#89 2026年イルメナイト以外インドからの輸入増加",
-    "url": "https://www.iru-miru.com/article/82478",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "中国依存をどう減らす？2026年の重要鉱物サプライチェーン最前線｜株式会社KUMU Works",
-    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "中国依存をどう減らす？2026年の重要鉱物サプライチェーン最前線",
-    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "これは、世界最大の重要鉱物・レアアース生産国である中国が輸出規制を急増させたことが主な要因です",
-    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "これらの規制は主に米国および西側諸国を対象としており、世界のサプライチェーンは製品の原材料について代替供給源を確保するため、サプライチェーンの下位層まで詳細な分析を迫られています",
-    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "多くの企業にとっての現実は、中国が製造投入材料に使用される鉱物の採掘・抽出を支配しているという点です",
-    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   }
-  ],
   "政治（法・予算・規制）": [
    {
-    "quote": "２４年度予算要求額",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "【２３年度予算額】",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "・資源国協力事業（持続的資源開発推進対策事業） ３９．９億円（平成23年度三次補正予算）",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "（平成23年度三次補正予算）",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "８５億円（平成23年度三次補正予算）",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "平成２２年度補正予算（約７０億円）",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "設備導入支援（補正予算） 使用量５０％削減達成",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "代替技術開発（補正予算） 供給源の多様化が",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "使用量低減技術開発（当初予算） 単位あたり４０％削減技術確立",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "代替材（ＦeＮ）の開発 代替技術開発（補正予算）",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "当初予算及び補正予算により、研磨剤の代替、リサイクル等により省セリウムが実現",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "FCC触媒は、補正予算による、代替材料の開発に成功したものの、量産化へはまだ時間がかかるため、引き続き中国からのランタンの輸入が必要",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": " 中国政府・企業が供給を絞っているジスプロシウムを含む 、電動パワーステアリングやオルタネーター等の車載モーター ・",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "政府、APEC宣言に「貿易の透明性」提案 中国レアアース規制念頭",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "政府、鉱物やプラスチックリサイクルに１兆円投資か―国際競争力の強化へ",
-    "url": "https://www.iru-miru.com/article/82478",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "一部メディアが20日、政府が重要鉱物やプラスチックなどのリサイクルを強化するため、2030年までに施設整備や技術開発向けに官民で1兆円を投資する方針を固めたと報じた",
-    "url": "https://www.iru-miru.com/article/82478",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "プラスチック使用製品設計指針紐づく認定制度も稼働開始",
-    "url": "https://www.iru-miru.com/article/82478",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "プラスチックの資源循環についても、制度強化に本腰を入れ始めており、26年２月にはプラスチック資源循環促進法に紐づく設計日程制度において、プラスチック使用製品41件が初めて認定された",
-    "url": "https://www.iru-miru.com/article/82478",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "同認定制度はプラスチック使用製品設計指針に即した製品の設計のうち、特に優れた設計を主務大臣が認定するもので、指針には「再生利用が容易な材料の使用」や「再生プラスチックの利用」も含まれている",
-    "url": "https://www.iru-miru.com/article/82478",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "国は、認定したプラスチック製品について、「グリーン購入法上の配慮をすることやリサイクル設備を支援」する方針を明らかにしており、今後の具体的な施策内容に関心が集まっている",
-    "url": "https://www.iru-miru.com/article/82478",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "【ECOMONDO 2026】欧州鉄鋼業に二重の圧力 CBAMと輸入関税強化、スクラップ確保も焦点に",
-    "url": "https://www.iru-miru.com/article/82478",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "でも、経済安全保障の観点からレアアースを中心に供給不安への警戒が強まり、",
+    "quote": "この合意は、直前に発表された中国の輸出規制によって即時の影響を受けるはずだった多くの産業にとって、まさに命綱となりました",
     "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
     "pass": 3,
-    "first_seen": "2026-11-10"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "これは、世界最大の重要鉱物・レアアース生産国である中国が輸出規制を急増させたことが主な要因です",
+    "quote": "この協定は米中間のものでしたが、中国の輸出規制は全世界に適用されていたため、世界の製造業全体も恩恵を受けました",
     "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
     "pass": 3,
-    "first_seen": "2026-11-10"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "これらの規制は主に米国および西側諸国を対象としており、世界のサプライチェーンは製品の原材料について代替供給源を確保するため、サプライチェーンの下位層まで詳細な分析を迫られています",
+    "quote": "さらに中国は、輸出規制の対象鉱物を大幅に拡大し、",
     "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
     "pass": 3,
-    "first_seen": "2026-11-10"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "中国が支配する大半の重要鉱物に対する輸出規制を1年間停止する協定を発表しました",
+    "quote": "これらの鉱物を含む完成品や組立品にも規制を広げる予定でした",
     "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
     "pass": 3,
-    "first_seen": "2026-11-10"
-   }
-  ],
-  "社会（人・担い手）": [
-   {
-    "quote": "野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー",
-    "url": "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "新卒を年収1400万円で採用する霞ヶ関キャピタル 次の狙いは研究人材",
-    "url": "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
+    "quote": "これらの規制は戦略的な交渉姿勢だと見る向きもありましたが、実際には現在も停止状態のまま法的には存続しており、2026年後半に協定が失効すれば再発動される可能性があります",
+    "url": "https://note.com/kumu_works/n/nd9c4042d4da9",
     "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "新卒を年収1400万円で採用する霞ヶ関キャピタル 次の狙いは研究人材",
-    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "希少資源の獲得競争が世界で激化するなか、技術開発のカギを握るのは基礎研究の担い手であり、トップ研究を先導するアカデミアだ",
-    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー",
-    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "新卒を年収1400万円で採用する霞ヶ関キャピタル 次の狙いは研究人材",
-    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   }
-  ],
-  "顧客の顧客（発注元が求めること）": [
-   {
-    "quote": "２４年度予算要求額",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "（参考１）レアメタル等鉱物資源確保対策の全体像(24年度要求)",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "○次世代自動車向け高効率モーター用磁性材料技術開発：平成２４年度要求額４０億円（うち要望",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "○希尐金属代替材料開発プロジェクト：平成２４年度要求額 ８．２億円",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "また、低炭素金属部素材（鉄鋼以外）の項目においても、「アルミニウムやレアメタルを中心に、欧州では素材製造 プロセスの脱炭素化要請が高まる中、製造工程の脱炭 素化やリサイクルシステム構築は製造業の国際競争力 維持・強化の観点から急務」としたうえで、生産基盤の強化に加え、「リサイクル施設への技術開発・設備投資支援、国・自治体による優先的調達・購入といった初期需要創出に向けた取組を通じ、高品質な低炭素金属部素材を世界に先駆けて商業化し、競争優位性の確立につなげる」と方針が示された",
-    "url": "https://www.iru-miru.com/article/82478",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "防衛省ファンド応募が過去最多に…軍事研究の推進は平和を守る",
-    "url": "https://www.sankei.com/article/20260723-RAEEWNJSW5ICNL36HZLRMVD6LA/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
+    "first_seen": "2026-11-11"
    }
   ],
   "経済（規模・価格・為替）": [
    {
-    "quote": "レアメタルリサイクル・製錬技術対策 6.4億円【 4.8億円】",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "quote": "「レアアース版OPEC」唱えた中国 40年の計で価格支配、内外差4倍",
+    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
     "pass": 3,
-    "first_seen": "2026-11-10"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "0.8億円【１.6億円】",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "quote": "8000万円の機械壊しても不問 社員に前向きな失敗を促す理由",
+    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
     "pass": 3,
-    "first_seen": "2026-11-10"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "3.2億円【3.2億円】（特会）",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
+    "quote": "【年収調査2026】出身大学別年収ランキング 平均年収1000万円を超えたのは8大学",
+    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
     "pass": 3,
-    "first_seen": "2026-11-10"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "【71億円】",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "【５０億円】",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "(３６０億円)",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "３４０億円【新規】",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "（うち要望枠２億円）",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "【8.9億円】",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "・資源国協力事業（持続的資源開発推進対策事業） ３９．９億円（平成23年度三次補正予算）",
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/018_03_00.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "三菱マテリアル、レアメタル再生拡大へ処理施設 200億円投資 - 日本経済新聞",
-    "url": "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "2030年度までに子会社の国内拠点に約200億円を投じて、処理施設を建てる",
-    "url": "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "新卒1400万円、霞ヶ関キャピタル",
-    "url": "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "新卒を年収1400万円で採用する霞ヶ関キャピタル 次の狙いは研究人材",
-    "url": "https://www.nikkei.com/article/DGXZQOUC299280Z21C22A1000000/",
-    "pass": 3,
-    "first_seen": "2026-11-10"
-   },
-   {
-    "quote": "新卒を年収1400万円で採用する霞ヶ関キャピタル 次の狙いは研究人材",
+    "quote": "レアアースのイットリウム、価格1年で9倍 枯渇回避へ調達国・地域拡大",
     "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
     "pass": 3,
-    "first_seen": "2026-11-10"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "政府、鉱物やプラスチックリサイクルに１兆円投資か―国際競争力の強化へ",
-    "url": "https://www.iru-miru.com/article/82478",
+    "quote": "8000万円の機械壊しても不問 社員に前向きな失敗を促す理由",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
     "pass": 3,
-    "first_seen": "2026-11-10"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "一部メディアが20日、政府が重要鉱物やプラスチックなどのリサイクルを強化するため、2030年までに施設整備や技術開発向けに官民で1兆円を投資する方針を固めたと報じた",
-    "url": "https://www.iru-miru.com/article/82478",
+    "quote": "【年収調査2026】出身大学別年収ランキング 平均年収1000万円を超えたのは8大学",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
     "pass": 3,
-    "first_seen": "2026-11-10"
+    "first_seen": "2026-11-11"
+   }
+  ],
+  "顧客の競合（奪いに来る側）": [
+   {
+    "quote": "レアアース、世界111社の関連銘柄の決定版や中国対抗の革新技術",
+    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "シリカ輸入Report #16二酸化ケイ素 2026年1-9月輸入量前年比7%増 5年ぶり増加",
+    "quote": "レアアース、3000度の超高速加熱で回収 中国優位を崩す革新技術",
+    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "「レアアース版OPEC」唱えた中国 40年の計で価格支配、内外差4倍",
+    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "レアアース市場を寡占する中国が「資源の武器化」で世界を威圧する",
+    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "レアアース製錬とは 中国がシェア9割、新技術や地域多様化進む",
+    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "次の半導体大国、インド",
+    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "富士フイルムの挑戦、インドに半導体材料工場 原料調達にも骨折る",
+    "url": "https://www.nikkei.com/article/DGXZQOSG26BUU0W6A320C2000000/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "富士フイルムの挑戦、インドに半導体材料工場 原料調達にも骨折る",
+    "url": "https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "黒鉛電極：台湾の国別電極輸入について（26年10月）：輸入は中国のみ",
     "url": "https://www.iru-miru.com/article/82478",
     "pass": 3,
-    "first_seen": "2026-11-10"
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "中国の10月レアアース輸出量4386トン、前月からやや回復 輸入8270トンと大幅増",
+    "url": "https://www.iru-miru.com/article/82478",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "JX金属、台湾先端パッケージ向けガラス基板のプロセス開発共創に半導体材料が活用",
+    "url": "https://www.iru-miru.com/article/82478",
+    "pass": 3,
+    "first_seen": "2026-11-11"
    }
   ]
  },
- "runs": 7,
+ "runs": 8,
  "first_researched_at": "2026-11-04T01:11:29.839487+00:00"
 }

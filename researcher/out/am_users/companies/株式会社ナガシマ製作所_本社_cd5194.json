@@ -1,0 +1,225 @@
+{
+ "name": "株式会社ナガシマ製作所 本社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T23:29:13.367915+00:00",
+ "official_url": "http://www.nagashima-ss.co.jp",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "ナガシマ製作所の製品・サービス一覧｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2085652/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(1)",
+    "url": "https://mono.ipros.com/company/detail/2085652/category/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "製品・サービス一覧 | 株式会社ナガシマ製作所 本社 | イプロスものづ... — イプロスものづくりは、ものづくり分野の製品・サービス・技術情報が詰まったデータベースサイトです。 ものづくりに携わるあらゆる方々に、日々新しい情報をお届けします。",
+    "url": "https://www.ipros.jp/company/detail/2085652/category/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.nagashima-ss.co.jp",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2085652/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nagasima-group.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.naga-shima.com/company/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nagashima-const.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nagasima-group.com/contact/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ナガシマ製作所 本社 取扱製品 試作 小ロット",
+   "results": [
+    "http://www.nagashima-ss.co.jp/products/125/",
+    "https://www.nagashima-ss.co.jp/",
+    "https://mono.ipros.com/company/detail/2085652/category/",
+    "https://www.ipros.jp/company/detail/2085652/category/",
+    "https://mono.ipros.com/company/detail/2085652/",
+    "https://www.nagashima-mfg.com/",
+    "https://nagashimass.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ナガシマ製作所 本社 会社概要 事業内容",
+   "results": [
+    "http://www.nagashima-ss.co.jp/company/",
+    "https://nagasima-group.com/company/",
+    "https://www.naga-shima.com/company/index.html",
+    "https://www.nagashima-ss.co.jp/",
+    "http://www.nagashima-ss.com/profile.html",
+    "https://www.nagashima-mfg.com/",
+    "http://www.nagashima-ss.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ナガシマ製作所 本社 お問い合わせ メール",
+   "results": [
+    "http://www.nagashima-ss.co.jp/contact/",
+    "https://nagashima-const.jp/contact/",
+    "https://nagasima-group.com/contact/",
+    "https://naga-ss.com/contact/",
+    "https://nagahama.co.jp/contact/",
+    "https://www.office-nagashima.co.jp/contact/",
+    "https://www.nagashima-ss.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ナガシマ製作所 本社",
+   "results": [
+    "https://note.com/murata_pr/n/n654ef39cd8e3",
+    "https://note.com/daikidomon/n/n238268ba8967",
+    "https://note.com/nobusanchamame/n/nf7278a2a8af7",
+    "https://note.com/zuppy_1972/n/n31353e8a0b36",
+    "https://note.com/ai_nekosan/n/n48ee9704d772",
+    "https://note.com/miesc/n/n74d67b198a2c",
+    "https://note.com/kurozukin_yakko/n/n0fad1b899c56"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ナガシマ製作所 本社",
+   "results": [
+    "https://x.com/ZOA_group",
+    "https://x.com/ZOA_HAMAHON",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/nagashimaresort",
+    "https://x.com/tosou_nagashima",
+    "https://x.com/CSG_1031/status/2120354762843697404",
+    "https://x.com/nagashimaosamu"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ナガシマ製作所 本社",
+   "results": [
+    "https://jp.linkedin.com/company/nagashima-ohno-&-tsunematsu",
+    "https://jp.linkedin.com/in/masaaki-nagashima-b463aa259",
+    "https://www.linkedin.com/in/diego-sarabia-654409353",
+    "https://ar.linkedin.com/in/delfina-lanusse-5a225b237",
+    "https://www.linkedin.com/in/maria-angelidou-smith",
+    "https://mx.linkedin.com/in/gybran-sánchez-wegpq8",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ナガシマ製作所 本社",
+   "results": [
+    "https://www.facebook.com/nagashimakogyoukabusikigaisya/",
+    "https://secure.facebook.com/login/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/kazuyoshi.nagashima.7/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/people/株式会社-長島製作所/100066765845505/",
+    "https://www.facebook.com/photo/?fbid=5247251555297193"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ナガシマ製作所 本社 note 社長",
+   "results": [
+    "http://www.nagashima-ss.co.jp/company/",
+    "https://compalyze.co.jp/company/7020001073788",
+    "https://www.nagashima-ss.co.jp/",
+    "https://www.nagashima-mfg.com/",
+    "https://www.nagashima-kigata.com/company/",
+    "http://www.nagashima-ss.com/profile.html",
+    "http://www.nagashima-ss.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ナガシマ製作所 本社 X 投稿",
+   "results": [
+    "https://www.nagashima-ss.co.jp/",
+    "https://search.yahoo.co.jp/realtime/search/＃ナガシマ/",
+    "https://www.nagashima-mfg.com/",
+    "http://www.nagashima-ss.com/",
+    "https://www.nagashima-f.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 5
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索9回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索9回）",
+  "一点物・少量多品種": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索9回）",
+  "製品分野": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索9回）"
+ }
+}

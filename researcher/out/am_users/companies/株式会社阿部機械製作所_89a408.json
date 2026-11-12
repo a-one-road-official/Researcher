@@ -1,0 +1,378 @@
+{
+ "name": "株式会社阿部機械製作所",
+ "aliases": [],
+ "context": "ipros_all:少量",
+ "researched_at": "2026-11-11T23:34:12.271785+00:00",
+ "official_url": "http://www.abekikai.co.jp",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "パーマロイ・チタン合金やスーパーエンプラなど",
+    "url": "https://www.abekikai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "設立当初から​精密部品の切削金属加工を手掛けており、医療機器部品や光学関連精密部品等の高精度精密加工や高度な外観要求への対応、また指定材質変化によりパーマロイ・チタン合金などの難切削材料や、スーパーエンプラ等の特殊樹脂も同様の精度での加工を提供しております",
+    "url": "https://www.abekikai.co.jp/gaiyo",
+    "pass": 1
+   },
+   {
+    "quote": "難切削材料（金属）やスーパーエンプラ材料（樹脂）の精密切削加工を依頼したい",
+    "url": "https://www.takatsucraft.com/pu-abe",
+    "pass": 3
+   },
+   {
+    "quote": "1．難切削材料からスーパーエンプラまで幅広い材料の精密切削加工に対応",
+    "url": "https://www.takatsucraft.com/pu-abe",
+    "pass": 3
+   },
+   {
+    "quote": "アルミ・鉄・SUS・真鍮等の各種金属から難削材であるチタン・パーマロイ・インコネル・ハステロイまで、お客様のご要望に応える形で対応材料の拡大を図って参りました",
+    "url": "https://www.takatsucraft.com/pu-abe",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "最新設備も導入しておりますが、設備だけでは精度・品質は保てませんので、経験やノウハウを加えて、より良い製品作りを心がけております",
+    "url": "https://www.abekikai.co.jp/setsubi",
+    "pass": 1
+   },
+   {
+    "quote": "主な製品として電子顕微鏡や超音波メス等の医療機器などがあり、長年にわたる技術の蓄積により、高品質な製品の供給、年々高度化するユーザーニーズに対応するために最新鋭の５軸加工機や３Dプリンターの導入、材料手配・加工・表面処理まで一貫したサービスを提供できる体制が当社の強みです",
+    "url": "https://www.abekikai.co.jp/gaiyo",
+    "pass": 1
+   },
+   {
+    "quote": "切断、旋盤、表面加工が複合的に求められる小型製品",
+    "url": "https://www.takatsucraft.com/pu-abe",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "3DCAD CAM",
+    "url": "https://www.abekikai.co.jp/setsubi",
+    "pass": 1
+   },
+   {
+    "quote": "Mastercam X9",
+    "url": "https://www.abekikai.co.jp/setsubi",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ",
+    "url": "https://www.abekikai.co.jp/setsubi",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "設立当初から​精密部品の切削金属加工を手掛けており、医療機器部品や光学関連精密部品等の高精度精密加工や高度な外観要求への対応、また指定材質変化によりパーマロイ・チタン合金などの難切削材料や、スーパーエンプラ等の特殊樹脂も同様の精度での加工を提供しております",
+    "url": "https://www.abekikai.co.jp/gaiyo",
+    "pass": 1
+   },
+   {
+    "quote": "主な製品として電子顕微鏡や超音波メス等の医療機器などがあり、長年にわたる技術の蓄積により、高品質な製品の供給、年々高度化するユーザーニーズに対応するために最新鋭の５軸加工機や３Dプリンターの導入、材料手配・加工・表面処理まで一貫したサービスを提供できる体制が当社の強みです",
+    "url": "https://www.abekikai.co.jp/gaiyo",
+    "pass": 1
+   },
+   {
+    "quote": "光学関連精密部品や医療機器部品など、精密部品の優れた切削加工を可能にするのは、優れた技術と徹底した品質管理体制です",
+    "url": "https://www.takatsucraft.com/pu-abe",
+    "pass": 3
+   },
+   {
+    "quote": "2008年にはISO9001を取得し、医療機器メーカー様をはじめ、高い評価と信頼をいただいております",
+    "url": "https://www.takatsucraft.com/pu-abe",
+    "pass": 3
+   },
+   {
+    "quote": "5軸加工機（ヤマザキマザック製 INTEGREXを3台導入）・マシニングセンター・NC旋盤など、多数の最新設備と豊富な知見を有し、電子顕微鏡などの光学関連部品をはじめ、レーザーメスや超音波メスといった医療機器部品など、高い技術力が求められる精密部品の切削加工に対応します",
+    "url": "https://www.takatsucraft.com/pu-abe",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器として、精密さはもちろんのこと美観が要求される部品です",
+    "url": "https://www.takatsucraft.com/pu-abe",
+    "pass": 3
+   },
+   {
+    "quote": "バフ加工、アルマイト処理を要する医療機器",
+    "url": "https://www.takatsucraft.com/pu-abe",
+    "pass": 3
+   },
+   {
+    "quote": "もともと自動車部品メーカーのエンジニアからキャリアをスタートしていたこともあり、新しいことや楽しいことを実現することにやりがいを感じます",
+    "url": "https://www.takatsucraft.com/pu-abe",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "試作や小～中ロット加工を得意とする企業・技術者に製作を依頼したい",
+    "url": "https://www.takatsucraft.com/pu-abe",
+    "pass": 3
+   },
+   {
+    "quote": "3．爪の先から手のひらサイズ程度の精密部品の試作、小～中ロット加工に対応",
+    "url": "https://www.takatsucraft.com/pu-abe",
+    "pass": 3
+   },
+   {
+    "quote": "試作から小～中量生産まで、お気軽にご相談ください",
+    "url": "https://www.takatsucraft.com/pu-abe",
+    "pass": 3
+   },
+   {
+    "quote": "試作開発に関するお問い合わせ・お見積もり依頼",
+    "url": "https://www.takatsucraft.com/pu-abe",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "試作開発に関するお問い合わせ・お見積もり依頼",
+    "url": "https://www.takatsucraft.com/pu-abe",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "精密金属加工 | 阿部機械製作所 | 川崎市 — ㈱阿部機械製作所ウェブサイトへようこそ！ 各種金属の精密切削加工をしております。 最新設備も導入しておりますが、設備だけでは精度・品質は保てません。 経験やノウハウを加え良い製品をつくりお客様のお役に立ちたいと心がけております ...",
+    "url": "https://www.abekikai.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 阿部機械製作所・札幌市東区丘珠町 – 一般機械製作･修理･... — 株式会社阿部機械製作所では、旋盤加工･フライス加工･溶接等、常に最新の技術で承ります。 株式会社阿部機械製作所で取り組みしている事業内容をご紹介いたします。 株式会社阿部機械製作所の企業情報をご案内いたします。",
+    "url": "http://abekikai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "阿部機械製作所 | タカツクラフトウェブサイト — また、地域のものづくりネットワークを活かし、メッキ・アルマイト・バフ・研磨・熱処理まで行った部品供給が可能です。 試作から小～中量生産まで、お気軽にご相談ください。",
+    "url": "https://www.takatsucraft.com/pu-abe",
+    "pass": 3
+   },
+   {
+    "quote": "業務内容 | 阿部機械製作所 | 神奈川県川崎市 — 少量,多品種,難削材の精密切削加工 3次元測定器や豊富な測定機器を使用し、高度な精度にも対応 3Dプリンタによる試作造形 協力工場によるメッキ,バフ,研摩処理まで行った部品のご提供 簡単なポンチ絵や現物合わせなどの図面以外の加工にも対応",
+    "url": "https://www.abekikai.co.jp/gyomu",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 阿部機械製作所 | 神奈川県川崎市 — 昭和45年 阿部機械製作所を神奈川県川崎市中原区宮内に設立 昭和50年 阿部機械製作所を神奈川県川崎市宮前区野川に移転 昭和53年 株式会社 阿部機械製作所を設立 資本金100万円 昭和58年",
+    "url": "https://www.abekikai.co.jp/gaiyo",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 – 株式会社 阿部機械製作所・札幌市東区丘珠町企業概要 | 株式会社 阿部製作所会社概要 – 阿部製作所企業情報 | 株式会社 阿部製作所 — 札幌市東区,阿部機械製作所,旋盤加工,NC旋盤,機械製缶,機械製作,機械修理,フライス加工,ラジアル加工,直立ボール盤加工,スロッター加工,鋸盤加工,溶接,部品製造加工等を行っている旋盤加工のプロフェッショナル集団です。 株式会社阿部製作所の企業概要をご紹介しています。 会社概要 ... 沿革 1912年 小田原市板橋にて和紙の製造を始める 1960年 パッキング用材料生産開始 1965年 ガスケットの製造を始める 1966年 パッキング用材料の生産を中止 1972年 資本金2，000千円にて有限会社設立 私たちの会社は、1967年10月に創業しました新潟県長岡市与板町に本社がある製造会社でございます。 社員の皆さんのお孫さんが勤めたいと",
+    "url": "http://abekikai.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "お問合せ | 阿部機械製作所 | 神奈川県川崎市 — お問 合せ 株式会社 阿部機械製作所 住所：〒216-0005 神奈川県川崎市宮前区土橋5-4-1 電話：044-977-3637 FAX：044-976-5895 Email： info@abekikai.co.jp アクセスマップ",
+    "url": "https://www.abekikai.co.jp/contact",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.abekikai.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abekikai.co.jp/setsubi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abekikai.co.jp/gaiyo",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://static.wixstatic.com/media/b47317_bea7378a62f84de4a2a80123a69a5976~mv2.jpg/v1/crop/x_26,y_73,w_145,h_373/fill/w_155,h_400,al_c,lg_1,q_80,enc_avif,quality_auto/1_gaiyo.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "http://abekikai.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takatsucraft.com/pu-abe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://abekikai.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://abe-seisakusho.co.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abess.co.jp/inquirytec/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "阿部機械製作所 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.abekikai.co.jp/",
+    "http://abekikai.com/",
+    "https://www.takatsucraft.com/pu-abe",
+    "http://www.agata-ss.co.jp/small/",
+    "https://www.abekikai.co.jp/gyomu",
+    "https://morpha.co.jp/work/precision/",
+    "https://www.abess.co.jp/product/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "阿部機械製作所 会社概要 事業内容",
+   "results": [
+    "https://www.abekikai.co.jp/gaiyo",
+    "http://abekikai.com/",
+    "https://www.abekikai.co.jp/",
+    "http://abekikai.com/company/",
+    "https://www.abess.co.jp/overview/",
+    "https://abe-seisakusho.co.jp/会社概要/",
+    "https://www.abess.co.jp/corporate/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "阿部機械製作所 お問い合わせ メール",
+   "results": [
+    "https://www.abekikai.co.jp/contact",
+    "https://abe-seisakusho.co.jp/お問い合わせ/",
+    "https://www.abess.co.jp/inquirytec/",
+    "https://www.kak-abess.co.jp/contact/",
+    "https://abe-jp.com/contact/",
+    "http://www.abe-mf.co.jp/contact.html",
+    "https://abeseisaku.com/pages/contact"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 阿部機械製作所",
+   "results": [
+    "https://money.note.com/rankings/産業用機械/market_cap_desc",
+    "https://note.com/abesskawasaki/all",
+    "https://note.com/abesskawasaki/",
+    "https://note.com/abeabenomori/n/nc9be160743e6",
+    "https://note.com/mobio_osaka/n/n09de1e5cd129",
+    "https://note.com/abesskawasaki/n/n46628a1a2982",
+    "https://note.com/abetakaki/n/n7c40420243de"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 阿部機械製作所",
+   "results": [
+    "https://x.com/steedam0501/status/1724335747875197201",
+    "https://x.com/yoshida758/status/1631978397508444161",
+    "https://x.com/ajiiwashisabas1/status/2120433558036861406",
+    "https://x.com/abesada_ura/status/2104718186595955125",
+    "https://x.com/netatank/status/2112592876395991284",
+    "https://x.com/abesakebrewery",
+    "https://x.com/sanwa3286/status/1728258898241659345"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 阿部機械製作所",
+   "results": [
+    "https://jp.linkedin.com/in/功-阿部-a867b188",
+    "https://in.linkedin.com/in/al-afrah",
+    "https://www.linkedin.com/company/abe-industrial-vietnam-co-ltd",
+    "https://jp.linkedin.com/in/takeshi-abe-阿部　剛士-ec-087746321",
+    "https://au.linkedin.com/in/amir-khan-72839620",
+    "https://www.linkedin.com/jobs/有限会社阿部製作所-jobs",
+    "https://ca.linkedin.com/jobs/view/研究職（機械-材料-制御-化学-電気電子など）（オープンポジション-二卒・ポスドク歓迎-兵庫）-at-kobe-steel-ltd-4481685554"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 阿部機械製作所",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "阿部機械製作所 note 社長",
+   "results": [
+    "https://www.abekikai.co.jp/",
+    "https://www.abess.co.jp/overview/",
+    "http://abekikai.com/",
+    "https://www.abekikai.co.jp/gaiyo",
+    "https://www.rs-zukan.com/recruit/detail/564",
+    "https://www.abess.co.jp/corporate/",
+    "http://abe-jp.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "阿部機械製作所 X 投稿",
+   "results": [
+    "https://www.abekikai.co.jp/",
+    "http://abekikai.com/",
+    "https://x.com/yoshida758/status/1631978397508444161",
+    "https://www.abess.co.jp/",
+    "https://x.com/abe_mako_/status/1904141367980544479",
+    "https://abe-jp.com/",
+    "https://abe-works.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部5頁・検索9回）",
+  "事業内容": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部5頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部5頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部5頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部5頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部5頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部5頁・検索9回）"
+ }
+}

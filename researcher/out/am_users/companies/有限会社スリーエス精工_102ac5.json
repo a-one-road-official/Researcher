@@ -1,0 +1,310 @@
+{
+ "name": "有限会社スリーエス精工",
+ "aliases": [],
+ "context": "ipros_all:少量",
+ "researched_at": "2026-11-11T23:02:31.019292+00:00",
+ "official_url": "http://www.suriesuseiko.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "製品・サービス(1)",
+    "url": "https://mono.ipros.com/company/detail/2048337/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (1)",
+    "url": "https://mono.ipros.com/company/detail/2048337/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "「技を磨く」金属、非鉄金属、樹脂などのNC・MCによる機械部品加工",
+    "url": "https://mono.ipros.com/company/detail/2048337/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "有限会社スリーエス精工は、ＮＣ旋盤加工を中心に少量から量産品まで（中量）ユーザーの要望に対して出来る限り対応できる様心がけております",
+    "url": "https://mono.ipros.com/company/detail/2048337/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "○機械設備部品、医療機器部品、食品機械部品、半導体製造装置部品、",
+    "url": "https://mono.ipros.com/company/detail/2048337/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機部品、音響部品、印刷機械部品、鉄道部品（リニア）",
+    "url": "https://mono.ipros.com/company/detail/2048337/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "スリーエス精工 | 企業情報 | イプロスものづくり — スリーエス精工 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2048337/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "スリーエス精工 - Facebook スリーエス精工 updated their profile picture. · December 18, 2019 · All reactions: 1 Like Comment",
+    "url": "https://www.facebook.com/people/スリーエス精工/100081845581419/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.suriesuseiko.com",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mfg-hack.com/plastic/10134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2048337/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/47358/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shimizuseiko.securesite.jp/company/index.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3-s.co.jp/inquiry/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://rc-threes.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sline.co.jp/three-s_butsuryu/inquiry/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/people/スリーエス精工/100081845581419/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "スリーエス精工 取扱製品 試作 小ロット",
+   "results": [
+    "https://injection-lab.com/technology/64-2.html",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://mono.ipros.com/cg1/%E8%A9%A6%E4%BD%9C/%E7%9C%9F%E7%A9%BA%E6%88%90%E5%BD%A2/",
+    "https://www.zen.co.jp/",
+    "https://partners.solize.com/manufacturing/technology/rapid-mold",
+    "https://www.xeffect.com/small/",
+    "https://www.hotty.co.jp/product/shasyutsuseikei/",
+    "https://formlabs.com/jp/blog/low-volume-injection-molding/",
+    "https://mono.ipros.com/product/detail/2000418558/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "スリーエス精工 会社概要 事業内容",
+   "results": [
+    "https://mono.ipros.com/company/detail/2048337/",
+    "https://metoree.com/companies/47358/",
+    "https://shimizuseiko.securesite.jp/company/index.html",
+    "https://www.three-s-ft.jp/about.php",
+    "https://www.3-s.co.jp/company/",
+    "https://www.3s-sanesu.co.jp/company/",
+    "https://www.posi3s.com/about/outline.html",
+    "https://sline.co.jp/three-s_butsuryu/company/",
+    "https://www.threes-ltd.co.jp/company/",
+    "https://www.3s-corp.co.jp/company/outline.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "スリーエス精工 お問い合わせ メール",
+   "results": [
+    "https://www.3-s.co.jp/inquiry/",
+    "https://rc-threes.com/contact/",
+    "https://sline.co.jp/three-s_butsuryu/inquiry/",
+    "https://mono.ipros.com/company/detail/2048337/",
+    "https://fact.3s-corp.co.jp/sp/contact/",
+    "https://www.three-s-ft.jp/contact.php",
+    "https://3s.care/portall-contact",
+    "https://www.threes-ltd.co.jp/contact/",
+    "https://sss-yamanakaya.com/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/",
+    "https://3s-threes.co.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com スリーエス精工",
+   "results": [
+    "https://note.com/clipcorporation/n/na436b705ea10",
+    "https://note.com/clipcorporation/n/n265f7fe4f42f",
+    "https://note.com/clipcorporation/n/na522faa48a5e",
+    "https://note.com/clipcorporation/n/n98b93209203e",
+    "https://note.com/clipcorporation/n/na89263303839",
+    "https://note.com/clipcorporation/n/n878435cdfdd7",
+    "https://note.com/clipcorporation/n/n3e97ca1309a7",
+    "https://note.com/3s_inc/all",
+    "https://note.com/3s_inc",
+    "https://note.com/3s_inc/n/nc66d0942fd81"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com スリーエス精工",
+   "results": [
+    "https://x.com/3s_corp",
+    "https://x.com/3sbizschool",
+    "https://x.com/3SBattery",
+    "https://x.com/sss_create",
+    "https://x.com/pan_obsess/status/2120431975106224486",
+    "https://x.com/sayaseaweed/status/2119980441239429195",
+    "https://x.com/IRS_Corporation"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com スリーエス精工",
+   "results": [
+    "https://jp.linkedin.com/directory/companies/z-2",
+    "https://www.linkedin.com/pub/dir/Kunihiko/Yamamoto/jp-0-日本",
+    "https://jp.linkedin.com/in/成俊-指尾-4a4b271b0",
+    "https://uk.linkedin.com/in/katie-stephens-84b62913",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://www.linkedin.com/",
+    "https://jp.linkedin.com/in/kunihiko-yamamoto-84a685383",
+    "https://es.linkedin.com/posts/ipdperu_carreraipd8k2026-activity-7458283537658507265-Cr6a"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:facebook.com スリーエス精工",
+   "results": [
+    "https://www.facebook.com/people/スリーエス精工/100081845581419/",
+    "https://www.facebook.com/sanrituseikou/",
+    "https://www.facebook.com/people/株式会社スリーエス/61553014634156/",
+    "https://www.facebook.com/sss.fukuchiyama/",
+    "https://www.facebook.com/3spositioner/",
+    "https://www.facebook.com/NISHI.SEIKO.Inc/",
+    "https://www.facebook.com/three.sei/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "スリーエス精工 note 社長",
+   "results": [
+    "https://note.com/3s_inc",
+    "https://mono.ipros.com/company/detail/2048337/",
+    "https://note.com/3s_inc/n/n8cbefe30583a",
+    "https://lawplayer.com/jp/company/2030002041203",
+    "https://nissinseikou.com/company/policy/",
+    "https://note.com/tag/%E6%97%A5%E6%9C%AC%E7%B2%BE%E5%B7%A5",
+    "https://www.posi3s.com/recruit/information/message/",
+    "https://shikigaku.jp/client/3s/",
+    "https://shachomeikan.jp/industry_article/4902",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "スリーエス精工 X 投稿",
+   "results": [
+    "https://mono.ipros.com/company/detail/2048337/",
+    "https://lawplayer.com/jp/company/2030002041203",
+    "https://www.3-s.co.jp/topics/",
+    "https://x.com/3SKM_INFO/articles",
+    "https://fact.3s-corp.co.jp/sp/contact/",
+    "https://mono.ipros.com/product/detail/2000228135/",
+    "https://www.posi3s.com/contact/",
+    "https://www.3s-sys.co.jp/blog",
+    "https://sss-yamanakaya.com/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/",
+    "https://www.kazo-kogyobukai.net/有限会社スリーエス精工"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）"
+ }
+}

@@ -3096,6 +3096,8 @@
 ## 競合仮説分析と確率の言葉（ACH・推定の言い方）（analysis of competing hypotheses diagnosticity matrix estimative language）
 - 文脈：分析の型
 - 手順・やり方：
+  - 「The following is an example of the final matrix from a post by Scott J. Roberts, where he applies ACH to understand whether or not the Republican National Committee and Donald J. Trump for President, Inc were victims of similar attacks as the Democratic National Committee [2]. In his post he goes step-by-step on how he created and refined his ACH matrix.」（https://isc.sans.edu/diary/22460/）
+  - 「Interesting idea for analysis methodology. I'll be looking forward to the second part. The image is missing.」（https://isc.sans.edu/diary/22460/）
   - 「加えて、情報分析そのものの進め方の改革の必要性が指摘されており、様々な」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
   - 「Stephen Marrin, ImproingIntelligence Analysis: Bridging the Gap between」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
   - 「Intelligence Centers: An Experiment in Applying Structured Methods, Joint Military」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
@@ -3109,8 +3111,6 @@
   - 「上記の手順を経て得られた結果を報告するのが、第7 段階である」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
   - 「(1) 合理的敵情判断ノ方法」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
   - 「「合理的敵情判断ノ方法」では、敵情判断の方法について、三つの方面25に」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「これら三つの方面があいまって「合理的敵情判断ノ方法」は作動するも」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「判断ノ方法」の概要を、図1のようにまとめている」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
 - 突き合わせ・推定：
   - 「― 競合仮説分析(Analysis of Competing Hypotheses)との比較から ―」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
   - 「そうした情報分析手法の一つが、競合仮説分析（Analysis of Competing」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
@@ -3160,6 +3160,8 @@
   - 「notably confirmation bias which compels people to seek evidence confirming their」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「biases when dealing with complex issues. The」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
 - 実例：
+  - 「The following is an example of the final matrix from a post by Scott J. Roberts, where he applies ACH to understand whether or not the Republican National Committee and Donald J. Trump for President, Inc were victims of similar attacks as the Democratic National Committee [2]. In his post he goes step-by-step on how he created and refined his ACH matrix.」（https://isc.sans.edu/diary/22460/）
+  - 「This was a very brief introduction of ACH, and in my next diary I will apply ACH to a practical recent case. But I definitely encourage those interested to go through Heuer’s book for a deeper explanation of such model.」（https://isc.sans.edu/diary/22460/）
   - 「鮮戦争時の対中情報を事例として」『戦略研究』第5号、2007年 11月、145-159頁」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
   - 「例えば、北岡元は、前述の」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
   - 「7 例えば以下を参照のこと」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
@@ -3173,8 +3175,6 @@
   - 「結果が得られない場合には、他の案について同様の手順を繰り返す」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
   - 「は、判断の完結前に心理に描かれる結果の予想である」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
   - 「例えば、選言的推理や複」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「例えば、工夫の方法として、「工夫」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「ノ方法ハ、…先ヅ一案ヲ立テ之ニヨリテソノ結果ヲ検シ、如何ナル結末ニ成ル」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
 
 ## 統計を読むときの偏りの型（選択・確証・生存・測定）と相関・因果（statistical literacy bias types survivorship selection measurement correlation causation）
 - 文脈：失敗・落とし穴
@@ -6106,7 +6106,7 @@
   - 「Example use case: Identifying potential fraud cases where missing a fraudulent transaction is worse than flagging a legitimate one for review」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
   - 「Example use case: Automated merging of patient medical records where incorrect matches could cause serious problems」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
   - 「Using our previous example: With precision = 89% and recall = 80%:」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
 
 ## 情報源の伝達の段数と主観の分解（前提・事実・推論・評価）（source hops chain of custody intelligence information decomposition assumptions facts inferences）
 - 文脈：出どころ
@@ -9958,11 +9958,11 @@
 
 ## 管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト）（company due diligence choose jurisdiction first registry evidence limits beneficial ownership solvency）
 - 文脈：一次情報
-- 手順・やり方：記載なし（読んだ12頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
-- 実例：記載なし（読んだ12頁・検索12回）
+- 手順・やり方：記載なし（読んだ16頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+- 実例：記載なし（読んだ16頁・検索12回）
 
 ## 照合の判定を自動でまとめる・自動で別物・保留の3つの帯に分け、線の位置を用途で決める実務と、組ごととまとまりごとの精度の測り方（entity resolution の評価・tilores・Binette ら）（entity resolution accept reject threshold human review band cluster-level precision recall evaluation）
 - 文脈：照合
@@ -17143,6 +17143,11 @@
 ## 名寄せで1つの値に絞る規則（ゴールデンレコード・残す値の規則・ブロッキング）の実務（entity resolution survivorship rules golden record blocking practical guide）
 - 文脈：手順・やり方
 - 手順・やり方：
+  - 「作って、どれか1つでも当たれば候補にするのがコツです」（https://note.com/marketing_veji/n/n0cfb4b749249）
+  - 「手順（全5ステップ）」（https://note.com/marketing_veji/n/n0cfb4b749249）
+  - 「method: 'post',」（https://note.com/marketing_veji/n/n0cfb4b749249）
+  - 「匿名化して外部AIに渡す具体的な手順は、NDAつき資料の匿名化について書いた別記事で扱っているので、そちらをどうぞ」（https://note.com/marketing_veji/n/n0cfb4b749249）
+  - 「同じ考え方で「全部AIに投げない」自動化を組んだのが、Yahoo広告のレポートを全自動化する手順です」（https://note.com/marketing_veji/n/n0cfb4b749249）
   - 「データガバナンス側は「方針を作って終わり」ではなく、データマネジメント側とすり合わせしながら、方針に準拠した具体的な運用フロー（簡単な手順書や申請フォーム）の作成まで踏み込むこと」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
   - 「データ抽出の依頼手順が決まっており、特定のIT担当者が対応している」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
   - 「DMOの役割をどこに実装するかには、次の2つの進め方がある」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
@@ -17153,12 +17158,8 @@
   - 「特定を防ぐ最も確実な方法は「最初から持たないこと」である」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
   - 「物理名, 型, 制約, 最終更新日 など」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
   - 「「物理名」「論理名」「型」「PK」「外部キー」「NOT NULL」「パーティションキー」など」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
-  - 「二次利用側のパイプラインを停止させる可能性がある破壊的変更（カラムの追加・削除、型変更、マスタコードの体系変更など）を加える際は、原則〇ヶ月前までに事前通知する義務を負う」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
-  - 「ステップ2を継続的に適用することで、業務上必要なレベルのマスタ統制は十分に達成される」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
-  - 「中央集権から分散型の統制へ変化させ、中央組織のボトルネックを解消すること」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
-  - 「practical Entity Resolution / Deduplication framework on Databricks」（https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885）
-  - 「show how to compute multi‑field similarity scores (string distance, embeddings, etc.) and assemble a single match score per pair.」（https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885）
 - 突き合わせ・推定：
+  - 「掛け算すると、入力が約17,498ドル、出力が約15,000ドルで、」（https://note.com/marketing_veji/n/n0cfb4b749249）
   - 「競合よりも早く、より多くの仮説検証を試行することで、成功率を高められる」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
   - 「例（1）複数部門間での「データ連携ニーズ」と「定義の矛盾」が発生した時」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
   - 「他と照合されることで強力な間接識別子となる空間情報」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
@@ -17190,6 +17191,13 @@
   - 「生成AIサービスの利用に関する注意喚起（個人情報保護委員会）」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
   - 「AIの回答精度やバイアスを定期モニタリングし、源泉データの不備をカタログへフィードバックする」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
 - 実例：
+  - 「社名の末尾2文字もキーにしているのは、前株・後株や「〇〇株式会社」「株式会社〇〇」で先頭が変わるケースを拾うためです」（https://note.com/marketing_veji/n/n0cfb4b749249）
+  - 「：判定結果シートの「人の最終確認」列に、必要な行だけ「同一」「別」と書きます」（https://note.com/marketing_veji/n/n0cfb4b749249）
+  - 「* 出力シート「判定結果」は自動生成されます」（https://note.com/marketing_veji/n/n0cfb4b749249）
+  - 「OUT : '判定結果',」（https://note.com/marketing_veji/n/n0cfb4b749249）
+  - 「return t.toUpperCase();」（https://note.com/marketing_veji/n/n0cfb4b749249）
+  - 「function normMail_(s) { return nfkc_(s).trim().toLowerCase(); }」（https://note.com/marketing_veji/n/n0cfb4b749249）
+  - 「（ランサーズの出品ページに掲載された事例／2026年9月時点で確認）」（https://note.com/marketing_veji/n/n0cfb4b749249）
   - 「ガバナンスチームが方針だけを提示し、具体的な運用を現場（各事業部など）に一任した場合、現場の実態と合わず「ルールが無視される」か「対応優先度を極端に下げられる」結果に終わる」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
   - 「なぜなら、初期段階では具体的なユースケースが不明確であり、正確なリスク評価ができないためである」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
   - 「結果として理想的に作られたルールは、実態と乖離が大きくなり利活用の停滞やルールの形骸化を招いてしまう」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
@@ -17198,65 +17206,62 @@
   - 「⚖️ 【判例】個別ユースケース・適用例・FAQ」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
   - 「先行企業の事例：三菱電機グループの「データ活用宣言」」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
   - 「優れた先行事例として、三菱電機グループが制定している「」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
-  - 「現場から上がる具体的なユースケース（要望・要求）に都度応えながら、実務を阻害しない範囲で「安全と再利用性のためのルール」を組み込んでいく」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
-  - 「「すべてのデータを統制する」という幻想を捨て、ガバナンスの適用範囲は摩擦の少ない領域で成功体験（ショーケース）を作ることから始める」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
-  - 「また、結果としてデータのアクセス数、BIダッシュボードがどれくらい増えたかが重要である」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
-  - 「例えば「データ健全性はレベル3を維持しつつ、データアクセシビリティとビジネス価値創出をレベル4へ引き上げる」といった目標設定が、競争優位性を生む近道とされる」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
-  - 「立ち上げ期: 特定事業部のユースケース主導」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
-  - 「ガバナンスを緩めに設定し、特定のユースケース実現に直結するデータ整備のみに集中する」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
-  - 「成功事例を横展開するタイミングで、全社共通のルールをコーポレート主導で敷いていく」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
 
 ## 統計の改定の小ささと精度を分ける読み方（改定方針・平均改定・平均絶対改定・方法変更の除外）（statistical revisions analysis mean revision mean absolute revision revision policy methodological change exclusion）
 - 文脈：突き合わせ・推定
 - 手順・やり方：
-  - 「Google検索「Preferred Sources（優先ソース）」設定方法」（https://www.nli-research.co.jp/report/detail/id=84399?site=nli）
-  - 「※設定済みの方はステップ２でチェックがついています」（https://www.nli-research.co.jp/report/detail/id=84399?site=nli）
-  - 「1－3．指数の計算方法 .................................................... 27」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「2－4．指数の計算方法 .................................................... 28」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「2．公表方法 .................................................................... 32」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「2．調査事項と調査方法 .......................................................... 36」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「5．価格調査方法の種類 .......................................................... 42」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「5－4．料率型調査 ........................................................ 48」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「6．報告者負担軽減を企図した調査先調査以外の方法による価格調査 .................. 55」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「1－2．品質調整時の指数の計算方法 ........................................ 65」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「2．品質調整方法 ................................................................ 67」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「2－6．その他の調整方法： 「純粋な価格変動分」を利用可能なケース ........... 72」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「3．品質調整方法の選択手順 ...................................................... 72」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「3－1．欠測価格の補完方法 ................................................ 80」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「・①銘柄指定調査、②平均価格調査、③モデル価格調査、④料率型調査、⑤労働時」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「5．調査価格の種類（価格の調査方法） .......................................... 24」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「9．毎月の価格調査・指数作成の手順 ............................................ 42」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「12－1．欠測価格の補完方法（原則ルール：横ばい補完）」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「12－2．市況性が強い品目における補完方法（前月比補完）」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「12－3．価格変動に季節性が強い品目における補完方法（前年比補完）」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「3．品質調整方法 .............................................................. 54」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「4．品質調整方法の選択手順 .................................................... 70」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「4－1．品質調整方法の選択フローチャート」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「4－2．自動車関連品目における品質調整方法の選択手順」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「2－1．工業製品の推計方法」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「2－2．非工業製品の推計方法」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「5．参考指数のウエイト算定方法 ................................................ 79」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「1－3．指数の計算方法」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「2－2．指数の算式・計算方法」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「3－4．指数の計算方法」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
 - 突き合わせ・推定：
-  - 「成長率への影響は限定的だが、実質GDP成長率は小幅に上方改定され、それに伴い内閣府が推計する潜在成長率も0.2～0.3％程度引き上げられた」（https://www.nli-research.co.jp/report/detail/id=84399?site=nli）
-  - 「2－1．小類別の企業間取引額の推計 ........................................ 22」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「2－2．各サービスの企業間取引額の推計 .................................... 23」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「BOX 3．指数の改訂幅（2015年基準での検証） ..................................... 83」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「の推計が可能であり、かつ、②品質一定の下で継続的な価格調査が可能であるサービ」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「②（品目レベルの詳細な区分での）各サービスの企業間取引額の推計」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「2－1．小類別の企業間取引額の推計」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「まず、 小類別毎の企業間取引額を推計する」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「このため、国内取引額を別途推計し、加算している」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「＜サードパーティーロジスティクスにおける取引額推計＞」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「2－2．各サービスの企業間取引額の推計」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「用商品および非採用商品）の企業間取引額を推計する」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「る内訳サービス（品目）毎に、企業向けサービス生産額（売上高）を推計している33」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「企業の決算データなど代替的なデータを用いて、品目別の企業間取引額を推計してい」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「指数から、非公表品目の指数が逆算できないようにするための措置である」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「2－1．工業製品の推計方法」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「2－2．非工業製品の推計方法」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「推計した額から、2020 年貿易統計の」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「すなわち、企業間で取引される財であっても、(1)取引額を推計できない商品（土」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「される等、概念上、企業物価指数から除外される財の取引額、各々を推計し、企業物」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「2 国内・輸出・輸入の各取引額は、基礎統計等の 2019 年と 2020 年の平均値を用いて推計してい」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「4 輸出入取引には、 『産業連関表』を基に推計した、通関を経由しない特殊貿易（航空機・船舶へ」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「企業物価指数の速報計数の正確さを検証するため、速報時点から3 か月後時点まで」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「of Rapid Estimates of Economic Trends」（https://unstats.un.org/unsd/nationalaccount/workshops/2009/ottawa/AC188-S62a.PDF）
+  - 「This paper examines the revisions histories of eighteen OECD member countries for the first estimates of」（https://unstats.un.org/unsd/nationalaccount/workshops/2009/ottawa/AC188-S62a.PDF）
+  - 「P: First published estimate of GDP,」（https://unstats.un.org/unsd/nationalaccount/workshops/2009/ottawa/AC188-S62a.PDF）
+  - 「L: Latest published estimate of GDP (at least 3 years after the first),」（https://unstats.un.org/unsd/nationalaccount/workshops/2009/ottawa/AC188-S62a.PDF）
+  - 「Y1: Estimate published 1 year later,」（https://unstats.un.org/unsd/nationalaccount/workshops/2009/ottawa/AC188-S62a.PDF）
+  - 「Y2: Estimate published 2 years later,」（https://unstats.un.org/unsd/nationalaccount/workshops/2009/ottawa/AC188-S62a.PDF）
+  - 「Y3: Estimate published 3 years later,」（https://unstats.un.org/unsd/nationalaccount/workshops/2009/ottawa/AC188-S62a.PDF）
 - 一次情報の探し方：
-  - 「ＧＤＰ統計の基準改定で何が変わったのか－日本経済の姿を再点検する |ニッセイ基礎研究所」（https://www.nli-research.co.jp/report/detail/id=84399?site=nli）
-  - 「ＧＤＰ統計の基準改定で何が変わったのか－日本経済の姿を再点検する | ニッセイ基礎研究所」（https://www.nli-research.co.jp/report/detail/id=84399?site=nli）
-  - 「ＧＤＰ統計の基準改定で何が変わったのか－日本経済の姿を再点検する」（https://www.nli-research.co.jp/report/detail/id=84399?site=nli）
-  - 「GDP統計（国民経済計算）は2025年12月に基準改定（2015年基準→2020年基準）が実施され、2024年度の名目GDPは26.9兆円（GDP比4.4％）上方改定された」（https://www.nli-research.co.jp/report/detail/id=84399?site=nli）
-  - 「・ 2018年～ 統計委員会専門委員」（https://www.nli-research.co.jp/report/detail/id=84399?site=nli）
-  - 「【ＧＤＰ統計の基準改定で何が変わったのか－日本経済の姿を再点検する】【シンクタンク】ニッセイ基礎研究所は、保険・年金・社会保障、経済・金融・不動産、暮らし・高齢社会、経営・ビジネスなどの各専門領域の研究員を抱え、様々な情報提供を行っています」（https://www.nli-research.co.jp/report/detail/id=84399?site=nli）
-  - 「ＧＤＰ統計の基準改定で何が変わったのか－日本経済の姿を再点検するのレポート Topへ」（https://www.nli-research.co.jp/report/detail/id=84399?site=nli）
-  - 「第 5章 採用品目 ....................................................... 16」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「3．採用品目数 .................................................................. 18」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「5．採用商品カバレッジ .......................................................... 18」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「5－1．採用商品と採用商品カバレッジ ...................................... 18」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「5－2．採用商品カバレッジと指数精度 ...................................... 19」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「6－1．外部データの採用 .................................................. 55」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「BOX 2．報告者負担軽減と指数精度向上を両立したオルタナティブ・データの採用 ...... 58」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「間当たり単価調査、⑥マージン調査等を採用」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「第5 章 採用品目 .............................................. 15」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「2．品目の採用基準 ............................................................ 16」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「3．採用品目数 ................................................................ 17」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「4．採用商品カバレッジ ........................................................ 17」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「4－1．採用商品と非採用商品・採用商品カバレッジ」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「4－2．採用商品カバレッジと指数精度」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「6．外部データの採用 .......................................................... 33」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「6－1．市況系の品目における採用」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「6－2．価格動向のばらつきが大きい品目における採用」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「4．非採用商品のインピュート .................................................. 79」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「2－2．採用商品カバレッジ」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「・①銘柄指定調査、②平均価格調査、③モデル価格調査、④建値調査等を採用」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「・一部の品目では、他機関統計や外部データベースを活用」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「業統計の出荷額から、2019 年貿易統」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「の国内向け出荷額（2019 年工業統計」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
 - 失敗・落とし穴：
+  - 「指数を上回るバイアス（ 「ドリフト」と呼ぶ）が生じるデメリットが存在することか」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「指数を用いて『貿易統計』の名目額を実質化する際には、注意が必要である（⇒ウエ」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「の担当者でチェックを行い、入力ミスがないように細心の注意を払っている」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「い補完価格が最もバイアスを与えないと考えられるためである」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
   - 「一方、労働生産性が安定していなければ、物価指数にバイアスをもたらすと」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
   - 「・労働生産性が変化した場合、次のように指数にバイアスが発生するため、 「労働時間当」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
   - 「価ではない自己評価形式となっており、評価にバイアスがかかりやすくなること、ま」（https://nira.or.jp/paper/report0810.pdf）
@@ -17265,21 +17270,21 @@
   - 「correcting for unit nonresponse bias in surveys," Journal of Econometrics, vol. 136(1), pages」（https://nira.or.jp/paper/report0810.pdf）
   - 「or understate ‘final’ estimates, that is, whether they are biased.」（https://www.rba.gov.au/publications/bulletin/2013/mar/2.html）
 - 実例：
-  - 「2－6．その他の調整方法： 「純粋な価格変動分」を利用可能なケース ........... 72」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「例えば、輸入貨物の輸」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「例えば、ある卸売業者が、衣服と飲食料品など複数の種類の商品を扱って」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「例えば、金融・」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「この結果、『産業連関表』の企業間取引額には広告料収入が二重計上されているため、「新」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「これは、例えば、2015～2019 年の「総平均」の接続指数は、2015年」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「以下のようなケースにおいては、品目指数を非公表としている41」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「上記①のケースでは、当該品目の価格データが存在しないため、品目指数の算出自」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「②のケースでは、非公表とする品目についても指数は計算可能であり、当該品目の」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「※例えば、月次指数の 7月速報公表時は、4月から 6月までが訂正の対象」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「43 例えば、類別 「不動産賃貸」 では、 不動産を借りる側の企業から賃料を調査するケースがある」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「例えば、属性条件として 「サービス種類 （3種類） 」」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「にサービスの品質が大きく異なる）ケースでは、 「銘柄指定調査」や「平均価格調査」」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「例えば、労働生産性（労働投入1 単位当たりのアウトプット）が上」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
-  - 「値決めが労働時間当たり単価をベースに行われる事例が多い「建物サービス・警備」」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「その結果、企業物価指数」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「例えば技術進歩が著しく指数の下落テンポが大きい財に」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「例えば、類別「情報通信機器」の輸入物価指数の品目「録」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「14 例えば、『工業統計』6桁分類において、「その他の～」や「他に分類されない～」等の多種多」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「もっとも、 その結果、 価格データを代用している非採用商品のシェ」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「ぼす属性条件を、影響度合が大きい順に2 つ選択し（例えば、商品の種類、用途） 、そ」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「シェア（例えば、詳細な商品種類別・用途別・販売先別の企業シェア）に関するデー」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「生するが、取引内容（条件）の違いによる価格差が大きいケースがある」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「め、 商品グループ内の品質の違いが平均値引率や利益率・原価率に影響を及ぼす結果、」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「査」を行っているケースがある（類別「生産用機器」の品目「金型」）」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「例えば、輸入物価指数では、類別「石油・石炭・天然ガ」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「なる、③取引ごとに品質や価格が異なるオーダーメード商品である、 の各ケースでは、」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「（多品種少量生産により品目内に多数の商品が存在するケース：医薬品）」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「この結果、多数の価格を指数に取り込むことがで」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
+  - 「（地域ごとに商品の価格動向が異なるケース：建設資材関連品目）」（https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf）
 
 ## 業種の範囲を分類コードで先に決める調べ方（日本標準産業分類・NAICS・SIC・開示の業種と統計の業種の対応・4-131）（industry research define scope classification codes NAICS SIC methodology）
 - 文脈：手法・業種

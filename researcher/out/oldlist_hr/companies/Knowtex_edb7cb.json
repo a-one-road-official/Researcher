@@ -1,0 +1,986 @@
+{
+ "name": "Knowtex",
+ "aliases": [],
+ "context": "旧営業リスト｜Clinical AI / Healthcare Technology｜未接触",
+ "researched_at": "2026-11-11T23:36:24.138911+00:00",
+ "official_url": "https://www.knowtex.ai/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/knowtex-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/knowtex-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, California, United States",
+    "url": "https://prospeo.io/c/knowtex-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Frontier AI will reshape how medicine is practiced. Knowtex exists to make that intelligence clinical-grade, powered by original models and in-house evaluation science that advance with every patient encounter.",
+    "url": "https://www.knowtex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We introduce KnowBench, pioneered by Knowtex, whose unifying metric is Effort Reduction (ER): the proportion of system-generated clinical work product accepted by the responsible clinician under expert and safety review.",
+    "url": "https://www.knowtex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our engineers become your engineers. We deploy alongside your team, adapting AI to your workflows and turning your priorities into production.",
+    "url": "https://www.knowtex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Knowtex runs a healthcare-native evaluation harness across every specialty workflow, catching model failures in production and remediating system behavior at the source.",
+    "url": "https://www.knowtex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "R&D Co-Development for Enterprise Healthcare",
+    "url": "https://www.knowtex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We partner with health systems to develop, test, and refine AI for their unique clinical workflows — translating real-world needs into production-ready capabilities.",
+    "url": "https://www.knowtex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring documentation, coding, orders, chart intelligence, and clinical decision support into one platform, built to adapt to every provider, specialty, and workflow.",
+    "url": "https://www.knowtex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Detects order intent in conversation and stages labs, imaging, and meds for one-click approval.",
+    "url": "https://www.knowtex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A live face sheet: history, abnormal labs, imaging, and prior plans surfaced instantly.",
+    "url": "https://www.knowtex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“I love the look of the Face Sheet — everything important from the EHR is on one page: past notes, active issues, comorbidities, treatment history, lab trend graphs, etc. It reads like an intelligent summary of what's going on with the patient.”",
+    "url": "https://www.knowtex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“In regards to [Knowtex's] recommended CPT and DX coding, it prompts them well based on the note and will only get smarter. It gives guidance that can be changed based on MDM or time, and helps to guide to the correct ICD-10. It does also guide past the unspecified diagnosis, which is what [providers] usually just put in there. So far I am impressed, and I do not advocate much for tech.”",
+    "url": "https://www.knowtex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Knowtex significantly reduces the tremendous burden of admin work and improves wellness, which allows me to see more patients and generate more revenue. The technology pays for itself and it provides me the opportunity to truly focus on my patients - to listen, to empathize, and to educate - rather than being preoccupied with typing and clicking on a computer.”",
+    "url": "https://www.knowtex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Knowtex generates documentation, predicts billing codes, queues orders, and flags follow-ups — so clinicians can close encounters faster.",
+    "url": "https://www.knowtex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Knowtex was named a Top 3 Winner in the 2024 VA AI Tech Sprint, selected from 150 solutions nationwide.",
+    "url": "https://www.knowtex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Top 3 Winner in the 2024 VA AI Tech Sprint",
+    "url": "https://www.knowtex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Knowtex delivers HIPAA-compliant, audited security with private AI models tailored to each organization. Built for enterprise and federal scale, it ensures strong PHI protection, interoperability, and transparent, explainable AI.",
+    "url": "https://www.knowtex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From government systems to specialty clinics, Knowtex delivers measurable improvements in workflow, documentation quality,",
+    "url": "https://www.knowtex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "DO, Primary Care",
+    "url": "https://www.knowtex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Knowtex significantly reduces the tremendous burden of administrative work and improves physician wellness, allowing me to see more patients and generate more revenue.",
+    "url": "https://www.knowtex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "At Knowtex, you’ll work alongside clinicians, engineers, and researchers tackling some of healthcare’s most complex challenges. Our team values curiosity, ownership, and thoughtful collaboration, giving you the opportunity to build technology that directly improves how care is delivered.",
+    "url": "https://www.knowtex.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Knowtex Videos on YouTube",
+    "url": "https://www.toolmage.com/ja/tool/knowtex/",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex provides a simple and streamlined solution to create comprehensive visit notes from natural conversation between healthcare providers and patients. Compatible with all medical practices, from primary care to specialty clinics, Knowtex is a versatile app that can be tailored to meet individual preferences, ensuring seamless integration into any healthcare provider's workflow.",
+    "url": "https://apps.apple.com/jp/app/knowtex/id6446131804",
+    "pass": 3
+   },
+   {
+    "quote": "Compatible with all medical practices, from primary care to specialty clinics, Knowtex is a versatile app that can be tailored to meet individual preferences, ensuring seamless integration into any healthcare provider's workflow.",
+    "url": "https://apps.apple.com/jp/app/knowtex/id6446131804",
+    "pass": 3
+   },
+   {
+    "quote": "Developed with healthcare providers for healthcare providers, Knowtex will transform your medical practice and give you back your valuable time.",
+    "url": "https://apps.apple.com/jp/app/knowtex/id6446131804",
+    "pass": 3
+   },
+   {
+    "quote": "- reliability and data-safety improvements",
+    "url": "https://apps.apple.com/jp/app/knowtex/id6446131804",
+    "pass": 3
+   },
+   {
+    "quote": "Coding details now appear on the Codes tab. Reliability improvements and bug fixes.",
+    "url": "https://apps.apple.com/jp/app/knowtex/id6446131804",
+    "pass": 3
+   },
+   {
+    "quote": "- security and privacy improvements",
+    "url": "https://apps.apple.com/jp/app/knowtex/id6446131804",
+    "pass": 3
+   },
+   {
+    "quote": "bug fixes and reliability improvements",
+    "url": "https://apps.apple.com/jp/app/knowtex/id6446131804",
+    "pass": 3
+   },
+   {
+    "quote": "Stability and reliability improvements.",
+    "url": "https://apps.apple.com/jp/app/knowtex/id6446131804",
+    "pass": 3
+   },
+   {
+    "quote": "This update includes security and privacy improvements, and bug fixes.",
+    "url": "https://apps.apple.com/jp/app/knowtex/id6446131804",
+    "pass": 3
+   },
+   {
+    "quote": "- improved reliability of background note and recording uploads",
+    "url": "https://apps.apple.com/jp/app/knowtex/id6446131804",
+    "pass": 3
+   },
+   {
+    "quote": "- improved logging and error handling",
+    "url": "https://apps.apple.com/jp/app/knowtex/id6446131804",
+    "pass": 3
+   },
+   {
+    "quote": "UI fixes and improved logging for debugging.",
+    "url": "https://apps.apple.com/jp/app/knowtex/id6446131804",
+    "pass": 3
+   },
+   {
+    "quote": "Exciting update: Knowtex now allows select providers to choose template types for recordings.",
+    "url": "https://apps.apple.com/jp/app/knowtex/id6446131804",
+    "pass": 3
+   },
+   {
+    "quote": "Battery performance optimizations, improvements to offline uploading capabilities.",
+    "url": "https://apps.apple.com/jp/app/knowtex/id6446131804",
+    "pass": 3
+   },
+   {
+    "quote": "“Knowtex's founders are Stanford AI scientists who met studying AI and linguistics,” said Caroline Zhang, Knowtex CEO and co-founder, in a statement. “When we founded Knowtex in 2022, we spent a combined year in scrubs as medical scribes, working forward-deployed alongside clinicians during the day and building the product at night. That remains how Knowtex operates.”",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/knowtex-launches-frontier-healthcare-ai-lab",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex develops proprietary specialty-specific models and AI harnesses, according to Zhang, and has “anti-hallucination safeguards” in place to ensure record accuracy. There is also evaluation science via embedded evaluators that “judge clinical AI the way a clinician would.”",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/knowtex-launches-frontier-healthcare-ai-lab",
+    "pass": 3
+   },
+   {
+    "quote": "“Ambient scribe has enhanced my patient visits as I can be more focused on my interaction with the Veteran,” one Kansas City VA provider said. “More time talking to patients, more eye contact, more time to use other resources while patients are talking.”",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/knowtex-launches-frontier-healthcare-ai-lab",
+    "pass": 3
+   },
+   {
+    "quote": "Claim this profile to manage information and unlock premium features.",
+    "url": "https://www.welcome.ai/company/knowtex/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Collaborative projects with universities and research institutions.",
+    "url": "https://knowtexsolutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Assistance with proposal writing, project pitching, and capacity building.",
+    "url": "https://knowtexsolutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Trainings and Capacity Building",
+    "url": "https://knowtexsolutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Focused training programs for human resource professional development.",
+    "url": "https://knowtexsolutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Preparedness for current industry trends.",
+    "url": "https://knowtexsolutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Upscaling of products from research to full-scale production.",
+    "url": "https://knowtexsolutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Waste-to-value initiatives transforming textile waste into valuable products.",
+    "url": "https://knowtexsolutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our skilled professionals, including PhD doctors and technology experts, possess deep industry knowledge to drive exceptional results.",
+    "url": "https://knowtexsolutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sustainable Practices",
+    "url": "https://knowtexsolutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We are committed to environmentally friendly processes and sustainable product development.",
+    "url": "https://knowtexsolutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Your satisfaction is our priority. We provide personalized solutions and exceptional customer support.",
+    "url": "https://knowtexsolutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Prototypes are designed and refined in collaboration with universities and technical experts.",
+    "url": "https://knowtexsolutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We support manufacturers and brands in taking validated solutions to full-scale production.",
+    "url": "https://knowtexsolutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex captures natural conversation between a clinician and patient, identifies relevant medical information, and generates a pre-filled note with medical coding suggestions, for clinician review and sign-off.",
+    "url": "https://prospeo.io/c/knowtex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "For clinicians, we’re decreasing time spent on manual documentation and allowing them to focus on patient care. For healthcare organizations, we’re improving accuracy and efficiency in medical billing and coding to help with reimbursements.",
+    "url": "https://prospeo.io/c/knowtex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/knowtex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex has approximately",
+    "url": "https://prospeo.io/c/knowtex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/knowtex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/knowtex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/knowtex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex Stock Price, Funding, Valuation, Revenue & Financial Statements",
+    "url": "https://www.cbinsights.com/company/knowtex/financials",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by Clinical and Operational Leaders",
+    "url": "https://www.knowtex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Strategic consultancy for textile manufacturers and brands.",
+    "url": "https://knowtexsolutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We support manufacturers and brands in taking validated solutions to full-scale production.",
+    "url": "https://knowtexsolutions.com/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "It is easy to use and I like the feature of being able to record/add to the note after the visit with the patient, before uploading to OncoEMR. I did a few visits with patients that only spoke Portuguese and the translation was accurate. All of the patients consented to beinge recorded and using Knowtex.",
+    "url": "https://www.knowtex.ai/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "ICD-10 and E&M suggestions from the note. Less coder burden, better revenue capture.",
+    "url": "https://www.knowtex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Knowtex significantly reduces the tremendous burden of admin work and improves wellness, which allows me to see more patients and generate more revenue. The technology pays for itself and it provides me the opportunity to truly focus on my patients - to listen, to empathize, and to educate - rather than being preoccupied with typing and clicking on a computer.”",
+    "url": "https://www.knowtex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Knowtex significantly reduces the tremendous burden of administrative work and improves physician wellness, allowing me to see more patients and generate more revenue.",
+    "url": "https://www.knowtex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "これは単なる文書化にとどまらず、病院の収益性向上（Revenue Capture）に直接貢献するよう設計されています",
+    "url": "https://ainiche.net/ja/tools/knowtex",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex is experiencing rapid growth as Zhang notes the company is cash-flow positive with 10X revenue growth and 100X customer growth since the beginning of the year.",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/knowtex-launches-frontier-healthcare-ai-lab",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/knowtex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Knowtex",
+    "url": "https://prospeo.io/c/knowtex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/knowtex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/knowtex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/knowtex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Knowtex?",
+    "url": "https://prospeo.io/c/knowtex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/knowtex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/knowtex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/knowtex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Knowtex have?",
+    "url": "https://prospeo.io/c/knowtex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/knowtex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex Stock Price, Funding, Valuation, Revenue & Financial Statements",
+    "url": "https://www.cbinsights.com/company/knowtex/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Funding, Valuation & Revenue",
+    "url": "https://www.cbinsights.com/company/knowtex/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/knowtex",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Knowtex - The Frontier AI Lab for Healthcare — For a new patient visit, it used to take me about 20–25 minutes to manually dictate a note. With Knowtex, it cuts my documentation time down by half, if not more. On days when I'm using Knowtex consistently for all my patient visits, I'm able to close all my notes by the end of clinic.",
+    "url": "https://www.knowtex.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex：自動臨床記録と請求のためのAI医療書記 - ToolMage — Knowtexは、医療専門家向けの高度なAI搭載臨床文書作成ツールです。 音声認識を用いて、医師と患者の自然な会話を、正確な請求コード（ICD-10、CPT、E&M）付きの構造化された詳細な臨床記録に自動的に変換します。",
+    "url": "https://www.toolmage.com/ja/tool/knowtex/",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex - AIツールレビュー | AIniche — Jan 13, 2026 · 市場を支配するNuance Dragonが巨大なインフラを基盤としているのに対し、Knowtexは個々の医師でも容易に導入できる柔軟な契約方式と、医師個人の記録スタイルを学習するパーソナライズされたAIモデルを提供している点が特徴です。",
+    "url": "https://ainiche.net/ja/tools/knowtex",
+    "pass": 3
+   },
+   {
+    "quote": "「Knowtex」をApp StoreでKnowtex - 高精度な臨床記録と医療コードのための音声AI - AitoolnetKnowtex:医療会話を構造化されたノートと請求コードに変換し、医療チ...医師と患者の会話をAIで要約、「書類の自動作成」目指しスタンフォー... — Compatible with all medical practices, from primary care to specialty clinics, Knowtex is a versatile app that can be tailored to meet individual preferences, ensuring seamless integration into any healthcare provider's workflow. Apr 5, 2025 · 医療助手は患者様の病歴を記録",
+    "url": "https://apps.apple.com/jp/app/knowtex/id6446131804",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex - 高精度な臨床記録と医療コードのための音声AI - Aitoolnet — Apr 5, 2025 · 医療助手は患者様の病歴を記録し、看護師はバイタルサインと最新情報を記録し、医師は診察を行います。 Knowtexは共同ドキュメント作成を可能にし、入力を単一のまとまりのある記録に統合します。",
+    "url": "https://www.aitoolnet.com/ja/knowtex",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex - The Frontier AI Lab for Healthcare — Knowtex delivers HIPAA-compliant, audited security with private AI models tailored to each organization. Built for enterprise and federal scale, it ensures strong PHI protection, interoperability, and transparent, explainable AI.",
+    "url": "https://www.knowtex.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex - Voice AI Automated Clinical Workflows — Knowtex automates clinical workflows with AI-powered voice technology, reducing documentation time and improving healthcare efficiency. Enhance patient care with seamless, automated solutions designed for modern medical professionals.",
+    "url": "https://www.knowtexai.co/",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex Selected by U.S. Department of Veterans Affairs to ... — Sep 14, 2026 · Women-founded, YC-backed company, Knowtex brings ambient AI to the nation’s largest integrated healthcare system.",
+    "url": "https://www.knowtex.ai/resources/knowtex-selected-by-u-s-department-of-veterans-affairs-to-deploy-ambient-clinical-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex launches frontier healthcare AI lab — Sep 15, 2026 · Artificial intelligence company Knowtex launched a frontier AI lab for healthcare, aimed at developing and rigorously evaluating clinical AI tools for accuracy, auditability and clinician trust.",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/knowtex-launches-frontier-healthcare-ai-lab",
+    "pass": 3
+   },
+   {
+    "quote": "How Knowtex Landed an AI Scribe Contract With the VA — Oct 30, 2026 · One startup that has flown under the radar a bit is Knowtex, which recently became one of two prime awardees on the Veteran Administration’s $776 million ambient scribe enterprise contract.",
+    "url": "https://www.hcinnovationgroup.com/analytics-ai/generative-ai/article/55415619/how-knowtex-landed-an-ai-scribe-contract-with-the-va",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex Resources - AI Clinical Workflow Insights — This collaboration underscores Knowtex’s commitment to enhancing oncology workflows with innovative voice AI solutions, while also providing the flexibility to support multispecialty needs for clinicians in fields such as gastrointestinal, gynecology, and urology care.",
+    "url": "https://www.knowtex.ai/resources",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex Case Studies | Welcome.AI — Knowtex Djtogel situs judi togel macau terbaik dan terpercaya dengan pasaran terlengkap dari seluruh dunia di jamin maxwin jepe!",
+    "url": "https://welcome.ai/company/knowtex/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Home - Knowtex Solutions — KnowTex Solutions is a dynamic startup dedicated to revolutionizing Pakistan's textile industry. We bridge the gap between cutting-edge research and commercialization by developing and implementing innovative textile technologies.",
+    "url": "https://knowtexsolutions.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex 2026 Company Profile: Valuation, Funding & Investors ...Knowtex Revenue, Funding & Valuation - prospeo.ioKnowtex Stock Price, Funding, Valuation, Revenue & Financial ...Knowtex - Products, Competitors, Financials, Employees ...Knowtex Revenue, Valuation & Funding (2026) - getlatka.comKnowtex - ForbesKnowtex - Crunchbase Company Profile & Funding — Information on valuation, funding, cap tab",
+    "url": "https://pitchbook.com/profiles/company/502720-12",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex Revenue, Funding & Valuation - prospeo.io — Funding Data Explore Knowtex 's funding history, including investment rounds, total capital raised, and key backers.",
+    "url": "https://prospeo.io/c/knowtex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex Stock Price, Funding, Valuation, Revenue & Financial ... — Sep 12, 2024 · See Knowtex funding rounds, investors, investments, exits and more. Evaluate their financials based on Knowtex's post-money valuation and revenue.",
+    "url": "https://www.cbinsights.com/company/knowtex/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex - Products, Competitors, Financials, Employees ... — Founded by Stanford AI scientists Caroline Zhang and Jocelyn Kang, Knowtex is EHR-agnostic, specialty-customized, and deeply integrated into clinical workflows.",
+    "url": "https://www.cbinsights.com/company/knowtex",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex Revenue, Valuation & Funding (2026) - getlatka.com — Knowtex SaaS company profile on GetLatka — revenue, ARR, valuation, funding rounds, customers, team size, and growth.. Bootstrapped (no outside funding).",
+    "url": "https://getlatka.com/companies/knowtex.ai",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/knowtex-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Health Care Network on X: \"The VA Selected Knowtex for a ... The VA Selected Knowtex for a $775M Contract @ CarolineCZhang CEO & Co-Founder of Knowtex tells HCN why. \"It's not a surprise to us that this came about because we have been working with the VA for two years\"",
+    "url": "https://x.com/watchhcn/status/2106754714868289726",
+    "pass": 3
+   },
+   {
+    "quote": "MTS on X: \"Knowtex CEO @CarolineCZhang reveals how 2 Stanford ... Knowtex CEO @CarolineCZhang reveals how 2 Stanford AI scientists went from spending a year as medical scribes to securing a place on the VA's $775M AI contract: \"My co-founder and I are Stanford alums and AI scientists.",
+    "url": "https://x.com/MTSlive/status/2108717720154038560",
+    "pass": 3
+   },
+   {
+    "quote": "Excited to announce @knowtexai is part of @ycombinator S22 ... Knowtex (@knowtexai). 10 likes. Excited to announce @knowtexai is part of @ycombinator S22 batch🎉 Our founders, Stanford CS grads in AI, Psych, & Linguistics, saw the huge need to save clinicians time while working as medical scribes.",
+    "url": "https://x.com/knowtexai/status/1552000643862188038",
+    "pass": 3
+   },
+   {
+    "quote": "MTS on X: \"Knowtex CEO @CarolineCZhang predicts every doctor ... Knowtex CEO @CarolineCZhang predicts every doctor will be using AI within a year, bringing Stanford-grade medical expertise to patients even in rural clinics: \"In a year, every doctor is going to be using AI. It's no longer gonna be a question of, 'Oh, I am from a different generation.'",
+    "url": "https://x.com/MTSlive/status/2108720491032908271",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Knowtex - LinkedIn Knowtex captures natural conversation between a clinician and patient, identifies relevant medical information, and generates a pre-filled note with medical coding suggestions, for clinician ...",
+    "url": "https://www.linkedin.com/company/knowtexai",
+    "pass": 3
+   },
+   {
+    "quote": "KnowTex - LinkedIn KnowTex | 5,255 followers on LinkedIn. Knowledge based Textiles | Enhancement of Global Competitiveness of Pakistani Textile Export Value-chains By Capacity Building and Product Diversification",
+    "url": "https://www.linkedin.com/company/gcf-textile/",
+    "pass": 3
+   },
+   {
+    "quote": "Vardhaman K. - Knowtex | LinkedInAjuni Sohota - Chief of Staff at Knowtex | LinkedInMax Zubatov - Founding PM @ Knowtex | LinkedInJocelyn Kang - Knowtex | LinkedInDiandra Connolly - Head of Operations at Knowtex | LinkedIn I spend a lot of time coding and developing ML and Automation software. Love Physics and Software! ️ · Experience: Knowtex · Education: Plaksha University · Location: Sahibzada ",
+    "url": "https://in.linkedin.com/in/vardhaman-k",
+    "pass": 3
+   },
+   {
+    "quote": "Ajuni Sohota - Chief of Staff at Knowtex | LinkedInMax Zubatov - Founding PM @ Knowtex | LinkedInJocelyn Kang - Knowtex | LinkedInDiandra Connolly - Head of Operations at Knowtex | LinkedIn Chief of Staff at Knowtex · I spent seven years doing hands-on science at places like UCSF, Senti Biosciences, and GeneFab before I met a CEO who got me curious about how everything behind the ... Founding PM @",
+    "url": "https://www.linkedin.com/in/ajuni-sohota",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Knowtex | San Francisco CA - FacebookKnowTex | Faisalabad - FacebookKnowtex - FacebookKnowTex - 𝐋𝐚𝐮𝐧𝐜𝐡𝐢𝐧𝐠 𝐒𝐨𝐨𝐧: 𝐊𝐧𝐨𝐰𝐓𝐞𝐱 𝐓𝐚𝐥𝐤𝐬 ...Knowtex - We’re hiring! Join a team ... - FacebookKnowtex - MD Plus Supporting Innovation in Clinical AI ...Knowtex - Big news from Knowtex! We’re honored to share ... Jun 12, 2026 · We loved sharing how Knowtex is helping reduce documentation and coding burdens and supp",
+    "url": "https://www.facebook.com/knowtexai/",
+    "pass": 3
+   },
+   {
+    "quote": "KnowTex | Faisalabad - FacebookKnowtex - FacebookKnowTex - 𝐋𝐚𝐮𝐧𝐜𝐡𝐢𝐧𝐠 𝐒𝐨𝐨𝐧: 𝐊𝐧𝐨𝐰𝐓𝐞𝐱 𝐓𝐚𝐥𝐤𝐬 ...Knowtex - We’re hiring! Join a team ... - FacebookKnowtex - MD Plus Supporting Innovation in Clinical AI ...Knowtex - Big news from Knowtex! We’re honored to share ... Aug 18, 2026 · The team explored cutting-edge research by KnowTex and Alternative Fiber Solutions (Private) Limited, applauding their effort",
+    "url": "https://www.facebook.com/KnowTex2024/",
+    "pass": 3
+   },
+   {
+    "quote": "Knowtex - FacebookKnowTex - 𝐋𝐚𝐮𝐧𝐜𝐡𝐢𝐧𝐠 𝐒𝐨𝐨𝐧: 𝐊𝐧𝐨𝐰𝐓𝐞𝐱 𝐓𝐚𝐥𝐤𝐬 ...Knowtex - We’re hiring! Join a team ... - FacebookKnowtex - MD Plus Supporting Innovation in Clinical AI ...Knowtex - Big news from Knowtex! We’re honored to share ... Nov 4, 2013 · Knowtex. 2,753 followers. Bienvenue sur la page Facebook de Knowtex, un réseau pour les explorateurs des communautés créatives et innovantes. Jan 23, 2026 · ",
+    "url": "https://www.facebook.com/knowtex/",
+    "pass": 3
+   },
+   {
+    "quote": "KnowTex - 𝐋𝐚𝐮𝐧𝐜𝐡𝐢𝐧𝐠 𝐒𝐨𝐨𝐧: 𝐊𝐧𝐨𝐰𝐓𝐞𝐱 𝐓𝐚𝐥𝐤𝐬 ... Jan 23, 2026 · Join the upcoming KnowTex Talk webinar: “From Factory Floor to Second Life: Who Carries the Cost of Textile Circularity?” This North–South dialogue will examine how responsibility and costs are distributed across brands, manufacturers, suppliers, workers, consumers, collectors and importing countries—and how we can",
+    "url": "https://www.facebook.com/KnowTex2024/posts/-𝐋𝐚𝐮𝐧𝐜𝐡𝐢𝐧𝐠-𝐒𝐨𝐨𝐧-𝐊𝐧𝐨𝐰𝐓𝐞𝐱-𝐓𝐚𝐥𝐤𝐬-𝐀-𝐍𝐞𝐰-𝐖𝐞𝐛𝐢𝐧𝐚𝐫-𝐒𝐞𝐫𝐢𝐞𝐬the-global-textile-industry-is/1202686788660112/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.knowtex.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.knowtex.ai/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.toolmage.com/ja/tool/knowtex/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ainiche.net/ja/tools/knowtex",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.apple.com/jp/app/knowtex/id6446131804",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://glance.com/jp/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.knowtexai.co/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/knowtex-launches-frontier-healthcare-ai-lab",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.welcome.ai/company/knowtex/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://knowtexsolutions.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/502720-12",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/knowtex-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/knowtex/financials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/knowtex",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/watchhcn/status/2106754714868289726",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MTSlive/status/2108717720154038560",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/knowtexai/status/1552000643862188038",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MTSlive/status/2108720491032908271",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/knowtexai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/gcf-textile/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/vardhaman-k",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ajuni-sohota",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/knowtexai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/KnowTex2024/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/knowtex/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/KnowTex2024/posts/-𝐋𝐚𝐮𝐧𝐜𝐡𝐢𝐧𝐠-𝐒𝐨𝐨𝐧-𝐊𝐧𝐨𝐰𝐓𝐞𝐱-𝐓𝐚𝐥𝐤𝐬-𝐀-𝐍𝐞𝐰-𝐖𝐞𝐛𝐢𝐧𝐚𝐫-𝐒𝐞𝐫𝐢𝐞𝐬the-global-textile-industry-is/1202686788660112/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Knowtex 日本 導入",
+   "results": [
+    "https://www.knowtex.ai/",
+    "https://www.toolmage.com/ja/tool/knowtex/",
+    "https://ainiche.net/ja/tools/knowtex",
+    "https://apps.apple.com/jp/app/knowtex/id6446131804",
+    "https://www.aitoolnet.com/ja/knowtex",
+    "https://moge.ai/ja/product/knowtex",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00001/07725/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Knowtex 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://glance.com/jp/about-us",
+    "https://www.ontex.co.jp/corp/",
+    "https://www.jll.com/ja-jp/about-jll/japan-information",
+    "https://job.mynavi.jp/28/pc/search/corp77451/outline.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Knowtex Japan",
+   "results": [
+    "https://www.knowtex.ai/",
+    "https://www.knowtexai.co/",
+    "https://www.knowtex.ai/resources/knowtex-selected-by-u-s-department-of-veterans-affairs-to-deploy-ambient-clinical-ai",
+    "https://www.fiercehealthcare.com/ai-and-machine-learning/knowtex-launches-frontier-healthcare-ai-lab",
+    "https://www.hcinnovationgroup.com/analytics-ai/generative-ai/article/55415619/how-knowtex-landed-an-ai-scribe-contract-with-the-va",
+    "https://www.prnewswire.com/news-releases/knowtex-launches-the-frontier-ai-lab-for-healthcare-bringing-research-grade-clinical-ai-to-health-systems-to-maximize-intelligence-per-patient-encounter-302878575.html",
+    "https://www.app-knowtex.com/login"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Knowtex manufacturing customer case study",
+   "results": [
+    "https://www.knowtex.ai/",
+    "https://www.knowtex.ai/resources",
+    "https://welcome.ai/company/knowtex/case-studies",
+    "https://knowtexsolutions.com/",
+    "https://www.hcinnovationgroup.com/analytics-ai/generative-ai/article/55415619/how-knowtex-landed-an-ai-scribe-contract-with-the-va",
+    "https://www.linkedin.com/posts/knowtexai_case-study-university-of-rochester-medical-activity-7282865615558586368-afQu",
+    "https://www.youtube.com/watch?v=1QcABKVB5U0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Knowtex white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/",
+    "https://connect.redhat.com/en/partner-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Knowtex founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/502720-12",
+    "https://prospeo.io/c/knowtex-revenue",
+    "https://www.cbinsights.com/company/knowtex/financials",
+    "https://www.cbinsights.com/company/knowtex",
+    "https://getlatka.com/companies/knowtex.ai",
+    "https://www.forbes.com/profile/knowtex/",
+    "https://www.crunchbase.com/organization/knowtex"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Knowtex",
+   "results": [
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/tag/オーストラリア旅行",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/sj_2020/n/n494c87da7182",
+    "https://note.com/nahouemura/n/n9e519ef21b17",
+    "https://note.com/johnroom/n/nde54ceb366d6",
+    "https://note.com/jinseikoryaku_/n/n6df696f04d02"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Knowtex",
+   "results": [
+    "https://x.com/watchhcn/status/2106754714868289726",
+    "https://x.com/MTSlive/status/2108717720154038560",
+    "https://x.com/knowtexai/status/1552000643862188038",
+    "https://x.com/MTSlive/status/2108720491032908271",
+    "https://x.com/knowtexai/status/2100028062960333143",
+    "https://x.com/HealthcareAIGuy/status/2103522136531116444",
+    "https://x.com/Jocelynrice27"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Knowtex",
+   "results": [
+    "https://www.linkedin.com/company/knowtexai",
+    "https://www.linkedin.com/company/gcf-textile/",
+    "https://in.linkedin.com/in/vardhaman-k",
+    "https://www.linkedin.com/in/ajuni-sohota",
+    "https://www.linkedin.com/in/max-zubatov",
+    "https://www.linkedin.com/in/jocelynkang",
+    "https://www.linkedin.com/in/diandraconnolly"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Knowtex",
+   "results": [
+    "https://www.facebook.com/knowtexai/",
+    "https://www.facebook.com/KnowTex2024/",
+    "https://www.facebook.com/knowtex/",
+    "https://www.facebook.com/KnowTex2024/posts/-𝐋𝐚𝐮𝐧𝐜𝐡𝐢𝐧𝐠-𝐒𝐨𝐨𝐧-𝐊𝐧𝐨𝐰𝐓𝐞𝐱-𝐓𝐚𝐥𝐤𝐬-𝐀-𝐍𝐞𝐰-𝐖𝐞𝐛𝐢𝐧𝐚𝐫-𝐒𝐞𝐫𝐢𝐞𝐬the-global-textile-industry-is/1202686788660112/",
+    "https://www.facebook.com/knowtexai/posts/-were-hiringjoin-a-team-redefining-whats-possible-in-healthcare-documentation-at/814367968020470/",
+    "https://www.facebook.com/knowtexai/posts/md-plus-supporting-innovation-in-clinical-aiknowtex-is-excited-to-share-that-our/547598831364053/",
+    "https://www.facebook.com/knowtexai/posts/-big-news-from-knowtexwere-honored-to-share-that-knowtex-has-been-selected-by-th/802345259222741/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Knowtex note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/sadaaki",
+    "https://www.knowtex.ai/",
+    "https://note.jp/n/ncc37a1d4aa0b"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Knowtex X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

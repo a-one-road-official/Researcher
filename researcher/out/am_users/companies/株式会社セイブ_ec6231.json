@@ -1,0 +1,922 @@
+{
+ "name": "株式会社セイブ",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T23:48:45.828582+00:00",
+ "official_url": "http://www.seibu.biz",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "最先端の切削加工技術を活用し、難易度の高い製品もご相談に応じます",
+    "url": "https://www.seibu.biz:443/",
+    "pass": 1
+   },
+   {
+    "quote": "常に最新の設備・技術・情報に基づく製品づくりはお客様から「心強いビジネスパートナー」として認めて頂いております",
+    "url": "https://www.seibu.biz:443/company",
+    "pass": 1
+   },
+   {
+    "quote": "製品に傷がつかない様、緩衝材により丁寧に梱包し専用箱に入れて、納期日にお客様のもとへお届けします",
+    "url": "https://www.seibu.biz:443/technology",
+    "pass": 1
+   },
+   {
+    "quote": "やりがいとしては、最初から最後までお客様と製品を見るので、それが出来たとき嬉しい！仕事が上手くすすむことにやりがい感じます",
+    "url": "https://www.seibu.biz:443/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "製品の加工の段取りを行い、製造を行っています",
+    "url": "https://www.seibu.biz:443/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "会社には、製品を最後まで１人で作り上げる特色があってレベルアップするのにすごく向いてると思います",
+    "url": "https://www.seibu.biz:443/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "さらに3次元測定器や検査設備の導入により、高精度で高品質な製品の供給を実現しました",
+    "url": "https://www.seibu.biz:443/history",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "30年以上の経験とオートメーション化で、スピードと高品質の両立し、試作から量産まで一貫した製造加工をご提供します",
+    "url": "https://www.seibu.biz:443/",
+    "pass": 1
+   },
+   {
+    "quote": "試作・研究開発から量産まで、求められるスピードと、高品質にこだわったソリューション型のものづくりでお応えします",
+    "url": "https://www.seibu.biz:443/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社セイブは1984年の設立以来、自動車関連の試作品加工を中心に、半導体・医療関連機器等、高い精度が求められる分野で精密部品の加工業として歩んでまいりました",
+    "url": "https://www.seibu.biz:443/company",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの業務は品質に妥協が許されないことと同時に試作メーカーとして納期を厳守することは大前提です",
+    "url": "https://www.seibu.biz:443/company",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社セイブの最大の事業テーマである「顧客満足の追求」の為に、品質とスピードの両立、多品種・少量・量産への柔軟な対応、お客様の立場に立った発想・提案・行動等、真摯な営業姿勢はこれからも不変です",
+    "url": "https://www.seibu.biz:443/company",
+    "pass": 1
+   },
+   {
+    "quote": "ネットワーク力をいかし、一貫したフローで高品質な試作・量産部品加工を提供します",
+    "url": "https://www.seibu.biz:443/technology",
+    "pass": 1
+   },
+   {
+    "quote": "レース用の自動車エンジン部品加工の技術力で、研究開発や試作用途にスピードと高精度な仕上がりで対応します",
+    "url": "https://www.seibu.biz:443/solution",
+    "pass": 1
+   },
+   {
+    "quote": "課題解決型のものづくりで、試作から量産までをスムーズに連携します",
+    "url": "https://www.seibu.biz:443/solution",
+    "pass": 1
+   },
+   {
+    "quote": "多摩川沿いで開始されたその一歩は、各分野の部品試作を短納期でこなす、まちの便利屋さんとしてスタートしました",
+    "url": "https://www.seibu.biz:443/history",
+    "pass": 1
+   },
+   {
+    "quote": "2025年操業予定の浜松工場では、試作から量産まで一括して対応可能な体制へシフト",
+    "url": "https://www.seibu.biz:443/history",
+    "pass": 1
+   },
+   {
+    "quote": "たとえば、ある地元の味噌の月間売上が小さくても、購入者の来店頻度が高く、野菜や豆腐などを一緒に購入していれば、店全体への貢献は単品の売上以上になる",
+    "url": "https://note.com/anms/n/nba2ec708112c",
+    "pass": 3
+   },
+   {
+    "quote": "単品売上だけでなく、目的来店や併買への貢献を見る",
+    "url": "https://note.com/anms/n/nba2ec708112c",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "対応する素材もアルミニウム合金各種・ステンレス・チタン合金・マグネシウム・樹脂等幅広く特に最先端の3次元形状の加工に特化しています",
+    "url": "https://www.seibu.biz:443/company",
+    "pass": 1
+   },
+   {
+    "quote": "A5052, A2017, A2024, A6061, A7075, A7N01, SUS303, SUS304, SUS316L, SUS42Oj2, SCM420, Mg(マグネシウム), TP340, Ti6AL-4V, Cu, C3604, NAK55, NAK80, MCナイロン, PEEK, POM, PC, ABS, アクリル, S25C, S45C, S50C, SS400",
+    "url": "https://www.seibu.biz:443/company",
+    "pass": 1
+   },
+   {
+    "quote": "一般素材から、特殊なものまで多種多様な材質から最適な加工方法をご提案しながらお客様とともに決めていきます",
+    "url": "https://www.seibu.biz:443/technology",
+    "pass": 1
+   },
+   {
+    "quote": "金属、難削材、樹脂まで",
+    "url": "https://www.seibu.biz:443/solution",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ、SUS、インコネルやチタンなどにも対応します",
+    "url": "https://www.seibu.biz:443/solution",
+    "pass": 1
+   },
+   {
+    "quote": "難切削材（ステンレス、チタン合金、耐熱合金）、樹脂材料の加工においても、金属同様10μ以下の幾何公差に対応する、高精度な加工が可能です",
+    "url": "https://www.seibu.biz:443/solution",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "株式会社セイブは1984年の設立以来、自動車関連の試作品加工を中心に、半導体・医療関連機器等、高い精度が求められる分野で精密部品の加工業として歩んでまいりました",
+    "url": "https://www.seibu.biz:443/company",
+    "pass": 1
+   },
+   {
+    "quote": "自動車メーカー、輸送機器メーカー、電気機器メーカー、医療機器メーカー",
+    "url": "https://www.seibu.biz:443/company",
+    "pass": 1
+   },
+   {
+    "quote": "自動車先行開発、ＥＶ / ＨＥＶ / ＦＣＶ開発 / 自動車駆動系 / 燃料系 /",
+    "url": "https://www.seibu.biz:443/company",
+    "pass": 1
+   },
+   {
+    "quote": "給排気系 / 電装系開発 / 映像周辺機器 / 医療器開発 / 産業機械 / 各種モーター",
+    "url": "https://www.seibu.biz:443/company",
+    "pass": 1
+   },
+   {
+    "quote": "自動車先行開発、ＥＶ / ＨＥＶ / ＦＣＶ開発 / 自動車駆動系 / 燃料系 / 給排気系 / 電装系開発 / 映像周辺機器 / 医療器開発 / 産業機械 / 各種モーター",
+    "url": "https://www.seibu.biz:443/company",
+    "pass": 1
+   },
+   {
+    "quote": "高精度・高難易度の加工が求められる自動車エンジンの部品加工で３０年以上培った技術力",
+    "url": "https://www.seibu.biz:443/technology",
+    "pass": 1
+   },
+   {
+    "quote": "レース用の自動車エンジン部品加工の技術力で、研究開発や試作用途にスピードと高精度な仕上がりで対応します",
+    "url": "https://www.seibu.biz:443/solution",
+    "pass": 1
+   },
+   {
+    "quote": "ドローンエンジン部品の切削加工において独自の技術を提供します",
+    "url": "https://www.seibu.biz:443/solution",
+    "pass": 1
+   },
+   {
+    "quote": "軽量化と耐久性が要求されるドローン分野での研究開発用途のエンジン部品の切削加工は、精緻な加工技術が求めらます",
+    "url": "https://www.seibu.biz:443/solution",
+    "pass": 1
+   },
+   {
+    "quote": "半導体検査装置の部品切削では、優れた精度と信頼性が重要になります",
+    "url": "https://www.seibu.biz:443/solution",
+    "pass": 1
+   },
+   {
+    "quote": "弊社設備のパレットチェンジャーにより、変化点のない段取りや治具設計、成形刃物を用い効率化を図り、LT短縮を実現します",
+    "url": "https://www.seibu.biz:443/solution",
+    "pass": 1
+   },
+   {
+    "quote": "2017年、横浜工場へと拠点を移し、モータースポーツから一歩引き、EVやFC、医療機器、半導体検査装置などの新たな分野に挑戦を始めました",
+    "url": "https://www.seibu.biz:443/history",
+    "pass": 1
+   },
+   {
+    "quote": "ロボットやオートメーション技術を取り入れ、より効率的でコストの低いソリューションを提供します",
+    "url": "https://www.seibu.biz:443/history",
+    "pass": 1
+   },
+   {
+    "quote": "現在、自動車完成車メーカー、民間航空機産業のトップメーカーのお客様に設備解体撤去、メンテナンス工事、産業廃棄物処理のワンストップサービスを提しております",
+    "url": "https://www.seibu-kk.co.jp/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車で買い物する人と、徒歩や自転車で買い物する人では、店舗集約の影響が異なる",
+    "url": "https://note.com/anms/n/nba2ec708112c",
+    "pass": 3
+   },
+   {
+    "quote": "【合宿免許】静岡県セイブ自動車学校（ネストセイブ）での生活｜ヤシの実",
+    "url": "https://note.com/coconatsnomi/n/n4f51ab6c125a",
+    "pass": 3
+   },
+   {
+    "quote": "【合宿免許】静岡県セイブ自動車学校（ネストセイブ）での生活",
+    "url": "https://note.com/coconatsnomi/n/n4f51ab6c125a",
+    "pass": 3
+   },
+   {
+    "quote": "今年の秋に静岡県のセイブ自動車学校で免許を取得した際の記事になります",
+    "url": "https://note.com/coconatsnomi/n/n4f51ab6c125a",
+    "pass": 3
+   },
+   {
+    "quote": ")に動画や執筆するほどではないネストセイブ（静岡県セイブ自動車学校の宿泊施設）での愚痴やヤバさを記載しています",
+    "url": "https://note.com/coconatsnomi/n/n4f51ab6c125a",
+    "pass": 3
+   },
+   {
+    "quote": "【魚拓】【公式サイト】男性専用宿泊施設「ネストセイブ」｜運転免許はセイブ自動車学校 (megalodon.jp)",
+    "url": "https://note.com/coconatsnomi/n/n4f51ab6c125a",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "ACCRETECH CNC３次元座標測定機 DuraMax",
+    "url": "https://www.seibu.biz:443/technology",
+    "pass": 1
+   },
+   {
+    "quote": "CAMシステム AutoDesk Power-mill #1-#4",
+    "url": "https://www.seibu.biz:443/technology",
+    "pass": 1
+   },
+   {
+    "quote": "CAMシステム OPENMIND Hyper-mill",
+    "url": "https://www.seibu.biz:443/technology",
+    "pass": 1
+   },
+   {
+    "quote": "CAD/CAMシステム NAZCA #1-#2",
+    "url": "https://www.seibu.biz:443/technology",
+    "pass": 1
+   },
+   {
+    "quote": "技術者（CAD/CAM・マシニング）Tさん",
+    "url": "https://www.seibu.biz:443/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "主な流れとしては、図面を確認しCAD/CAMなどのソフトウェアでプログラウを組み、そこからマシニング加工を行う工程もやっています",
+    "url": "https://www.seibu.biz:443/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "技術者（CAD/CAM・マシニング）Mさん",
+    "url": "https://www.seibu.biz:443/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "1. CAD/CAMオペレーター",
+    "url": "https://www.seibu.biz:443/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "CAD/CAM(Solidworks, DellCAM, ナスカCAD)の操作をしていただきます",
+    "url": "https://www.seibu.biz:443/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "（2）加工シミュレーションにより、ツールパスとNCデータの作成（CAM）",
+    "url": "https://www.seibu.biz:443/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "2006年、下丸子への工場移転と同時に、CAD/CAMと5軸機械の導入が我々のビジネスを飛躍的に進化させました",
+    "url": "https://www.seibu.biz:443/history",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "スーパーマーケット セイブ ｜会社概要株式会社セイブ会社概要│株式会社セイブ - seibu-kk.co.jp株式会社セイブ - seibu-japan.com企業情報 | 会社概要 | 久留米大牟田のセイブ事業内容 | 株式会社セイブ会社情報│株式会社セイブ - seibu-kk.co.jp — 経営方針 最良の企業になるのではなく、地域の1店1店を最良にしたい たった1店しかなかったときのような思いで、地域に根づかせたい 「個」を最良にするためにだけ「全体」が機能したい そして、社会に責任と貢献を果たし続ける企業でありたい 会社 ... ／ セイブの取り組み ／ 会社概要 ／ アクセス ／ 教育・研修制度 採用情報 ／ メッセージ ／ 当社の魅力 ／ 求める人材像 ／ 募集要項 ／ 採用までの流れ ／ 社員成長物語 ／ 社員インタビュー ／ よくある質問 新着情報 プライバシーポリシー",
+    "url": "https://seibu-super.com/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社セイブ — ／ セイブの取り組み ／ 会社概要 ／ アクセス ／ 教育・研修制度 採用情報 ／ メッセージ ／ 当社の魅力 ／ 求める人材像 ／ 募集要項 ／ 採用までの流れ ／ 社員成長物語 ／ 社員インタビュー ／ よくある質問 新着情報 プライバシーポリシー サイトマップ",
+    "url": "https://seibu-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要│株式会社セイブ - seibu-kk.co.jp — 私たちセイブは東海3県を中心に、産業廃棄物の収集運搬および中間処理事業を行っております。 さらに、人材不足でお悩みの企業様のパートナーとして業務委託を実施し、経営の効率化を図ることで、業績向上のお手伝いをさせていただいております。",
+    "url": "https://www.seibu-kk.co.jp/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社セイブ - seibu-japan.com — 私達セイブは創立以来、「顧客満足」を第一に考え「誠心・誠意・誠実の精神」で電気設備工事を中心に数多くのプロジェクトに携わってきました。 新築工事からリニューアル工事まで幅広く対応し、信頼と実績でお客様より高い評価をいただいております。",
+    "url": "https://seibu-japan.com/business/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | 会社概要 | 久留米大牟田のセイブ — 企 業 情 報 社名 株式会社セイブ 所在地 福岡県久留米市荒木町荒木1-6 代表者 代表取締役 田中 憲治 資本金 1千万円 創業 昭和56年3月 (現在45期目) 従業員数 279名 (正社員47名/パート232名) 営業所 佐賀営業所 、山口営業所 関連会社 株式会社セイブ大牟田",
+    "url": "https://www.k-seibu.com/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 株式会社セイブ — 株式会社セイブは、工業用ゴム製品、樹脂製品、高圧ホース、土木・農業資材、環境資材、安全保安具等を全国に拠点を持ち豊富な在庫で時代のニーズにあった商品を提供するエキスパートです。 お気軽にお問い合わせ、ご相談ください。",
+    "url": "https://www.seibu-g.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ│株式会社セイブ — お客様からいただきましたメールは、月～金曜日の10：00～17：00（土、日、祝日、夏季、年末年始の弊社休業日を除く）で拝見しております。 あらかじめご了承いただきますようお願い申し上げます。",
+    "url": "https://www.seibu-kk.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社セイブ - SEIBU — TEL 087-806-1156 メールでのお問い合わせ お問い合わせフォーム HOME 会社紹介 会社概要 社長メッセージ 事業所・関連会社 沿革 トピックス 製品一覧 伝動/搬送 ホース・継手 エンジニアリング・プラスチック ゴムシート/樹脂マット スポンジ/フィルター 防振 ...",
+    "url": "https://www.seibu-g.com/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - セイブサポート — 第2条【個人情報の利用目的について】 当社は、お客様の個人情報について次の利用目的の範囲内で適正に利用いたします。 1 返済能力の調査のため 2 当社の与信並びに与信後の権利の保存、管理、変更及び権利行使のため",
+    "url": "https://www.seibu-support.co.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お客様からのお問い合わせやご要望に対して、迅速、丁寧に誠意を持って対応致します",
+    "url": "https://www.seibu-kk.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ頂いた内容によりましては、お答えできない場合や、お返事までにお時間を頂戴する場合がございます",
+    "url": "https://www.seibu-kk.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様からいただきましたメールは、月～金曜日の10：00～17：00（土、日、祝日、夏季、年末年始の弊社休業日を除く）で拝見しております",
+    "url": "https://www.seibu-kk.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "https://seibunet.jp/contact/",
+    "url": "https://note.com/seibu_smilehouse/n/n3e77db720cc8",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "46年続いたスーパーは、名前を変えるだけで生き残れるのか―セイブから... Nov 2, 2026 · 2026年11月6日、茨城県水戸市の「セイブ食彩館元吉田店」が「カスミ元吉田店」として新たにオープンする予定だ。 これは単なる看板の掛け替えではない。 長年通ってきたお客さまの記憶をどう引き継ぐのか。",
+    "url": "https://note.com/anms/n/nba2ec708112c",
+    "pass": 3
+   },
+   {
+    "quote": "【合宿免許】静岡県セイブ自動車学校（ネストセイブ）での生活 Dec 8, 2022 · まえおき 今年の秋に静岡県のセイブ自動車学校で免許を取得した際の記事になります。 評判が悪い宿泊施設に戦々恐々としながら入校、その中で感じた2022年現在の状態をお伝えできればと思いnoteに記事を執筆しました。",
+    "url": "https://note.com/coconatsnomi/n/n4f51ab6c125a",
+    "pass": 3
+   },
+   {
+    "quote": "セイブが考える土地探しで失敗しない3ポイント｜【長野県松本市の工務... Sep 30, 2026 · セイブ は、松本市・塩尻市・安曇野市エリアの土地・不動産探しをサポートしています。 株式会社セイブ 長野県松本市を拠点に、松本市・塩尻市・安曇野市・山形村等で土地探しや不動産売買をサポートしています。",
+    "url": "https://note.com/seibu_smilehouse/n/n3e77db720cc8",
+    "pass": 3
+   },
+   {
+    "quote": "セーブ開発｜木賃ふくよし (芸名) Jun 2, 2026 · ゲーム好きの間で、 ウィズと言えば「Wizardry」 で、ワタクシも大好きなのだが、実はWizardryの日本版が発売された1985年に、タイトーから発売された 「ウィズ」 (魔法使いウィズ)という魔法使いが主人公のアクションゲーム を開発したのが、セイブ開発なの ...",
+    "url": "https://note.com/wb_opus_one/n/nd243ea1a1ffa",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "46年続いたスーパーは、名前を変えるだけで生き残れるのか―セイブからカスミへ、元吉田店に学ぶ「地域の店を残す」7つの経営判断｜anms",
+    "url": "https://note.com/anms/n/nba2ec708112c",
+    "pass": 3
+   },
+   {
+    "quote": "46年続いたスーパーは、名前を変えるだけで生き残れるのか―セイブからカスミへ、元吉田店に学ぶ「地域の店を残す」7つの経営判断",
+    "url": "https://note.com/anms/n/nba2ec708112c",
+    "pass": 3
+   },
+   {
+    "quote": "46年間、地域の食卓を支えてきたスーパーマーケットが、名前を変える。",
+    "url": "https://note.com/anms/n/nba2ec708112c",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月6日、茨城県水戸市の「セイブ食彩館元吉田店」が「カスミ元吉田店」として新たにオープンする予定だ。",
+    "url": "https://note.com/anms/n/nba2ec708112c",
+    "pass": 3
+   },
+   {
+    "quote": "長年通ってきたお客さまの記憶をどう引き継ぐのか。地域の商品を残しながら、チェーンの仕入れ力や商品開発力をどう生かすのか。そして、人口減少と競争激化が進むなか、地域のスーパーをどう存続させるのか。",
+    "url": "https://note.com/anms/n/nba2ec708112c",
+    "pass": 3
+   },
+   {
+    "quote": "地方スーパーの経営に関わってきた立場から、今回の転換には考えさせられることが多い。",
+    "url": "https://note.com/anms/n/nba2ec708112c",
+    "pass": 3
+   },
+   {
+    "quote": "店を残すことと、店を生き残らせることは、同じではない。",
+    "url": "https://note.com/anms/n/nba2ec708112c",
+    "pass": 3
+   },
+   {
+    "quote": "今回のニュースを手がかりに、地方スーパーがこれから向き合う7つの経営判断を考えてみたい。",
+    "url": "https://note.com/anms/n/nba2ec708112c",
+    "pass": 3
+   },
+   {
+    "quote": "【合宿免許】静岡県セイブ自動車学校（ネストセイブ）での生活｜ヤシの実",
+    "url": "https://note.com/coconatsnomi/n/n4f51ab6c125a",
+    "pass": 3
+   },
+   {
+    "quote": "【合宿免許】静岡県セイブ自動車学校（ネストセイブ）での生活",
+    "url": "https://note.com/coconatsnomi/n/n4f51ab6c125a",
+    "pass": 3
+   },
+   {
+    "quote": "今年の秋に静岡県のセイブ自動車学校で免許を取得した際の記事になります。",
+    "url": "https://note.com/coconatsnomi/n/n4f51ab6c125a",
+    "pass": 3
+   },
+   {
+    "quote": "評判が悪い宿泊施設に戦々恐々としながら入校、その中で感じた2022年現在の状態をお伝えできればと思いnoteに記事を執筆しました。",
+    "url": "https://note.com/coconatsnomi/n/n4f51ab6c125a",
+    "pass": 3
+   },
+   {
+    "quote": ")に動画や執筆するほどではないネストセイブ（静岡県セイブ自動車学校の宿泊施設）での愚痴やヤバさを記載しています。",
+    "url": "https://note.com/coconatsnomi/n/n4f51ab6c125a",
+    "pass": 3
+   },
+   {
+    "quote": ")では合宿を考えている方にはぜひ見てほしい22年12月現在の状況をまとめています。",
+    "url": "https://note.com/coconatsnomi/n/n4f51ab6c125a",
+    "pass": 3
+   },
+   {
+    "quote": "なお、このnote内の記事を引用する場合は1件につき5万円頂きます。",
+    "url": "https://note.com/coconatsnomi/n/n4f51ab6c125a",
+    "pass": 3
+   },
+   {
+    "quote": "広告収入があると思いますので、払えますよね？？（勝手に使用されてた）",
+    "url": "https://note.com/coconatsnomi/n/n4f51ab6c125a",
+    "pass": 3
+   },
+   {
+    "quote": "セイブが考える土地探しで失敗しない3ポイント｜スマイルハウス｜長野県松本市の工務店",
+    "url": "https://note.com/seibu_smilehouse/n/n3e77db720cc8",
+    "pass": 3
+   },
+   {
+    "quote": "セイブが考える土地探しで失敗しない3ポイント",
+    "url": "https://note.com/seibu_smilehouse/n/n3e77db720cc8",
+    "pass": 3
+   },
+   {
+    "quote": "松本エリアの土地探し、失敗しないための3つのポイント",
+    "url": "https://note.com/seibu_smilehouse/n/n3e77db720cc8",
+    "pass": 3
+   },
+   {
+    "quote": "家づくりを考えるとき、多くの方が最初に直面するのが「土地探し」です。間取りやデザインよりも先に決めなくてはならないことが多く、何を基準に選べばいいのか迷ってしまう方も多いのではないでしょうか。今回は、松本・塩尻・安曇野エリアで土地を探す際に押さえておきたいポイントを整理します。",
+    "url": "https://note.com/seibu_smilehouse/n/n3e77db720cc8",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント1：価格だけでなく「地盤」を必ず確認する",
+    "url": "https://note.com/seibu_smilehouse/n/n3e77db720cc8",
+    "pass": 3
+   },
+   {
+    "quote": "同じ広さ・立地でも、土地の価格には差があります。安さだけに惹かれて決めてしまうと、地盤改良費が想定以上にかかり、結果的に総費用が高くなってしまうケースも珍しくありません。土地の価格は「地盤込みでいくらかかるか」という視点で比較することが大切です。",
+    "url": "https://note.com/seibu_smilehouse/n/n3e77db720cc8",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント2：日当たりと風の通りは「時間帯を変えて」確認する",
+    "url": "https://note.com/seibu_smilehouse/n/n3e77db720cc8",
+    "pass": 3
+   },
+   {
+    "quote": "同じ土地でも、朝と夕方では日の当たり方がまったく異なります。可能であれば、時間帯を変えて何度か現地を訪れ、日照や風通しの変化を確認しておくと、住み始めてからのギャップを減らすことができます。",
+    "url": "https://note.com/seibu_smilehouse/n/n3e77db720cc8",
+    "pass": 3
+   },
+   {
+    "quote": "セイブ開発は、その名前が表に出ていないだけで、主にタイトーやテクモから発売されているゲームを",
+    "url": "https://note.com/wb_opus_one/n/nd243ea1a1ffa",
+    "pass": 3
+   },
+   {
+    "quote": "で、ワタクシも大好きなのだが、実はWizardryの日本版が発売された1985年に、タイトーから発売された",
+    "url": "https://note.com/wb_opus_one/n/nd243ea1a1ffa",
+    "pass": 3
+   },
+   {
+    "quote": "「ウィズ」(魔法使いウィズ)という魔法使いが主人公のアクションゲーム",
+    "url": "https://note.com/wb_opus_one/n/nd243ea1a1ffa",
+    "pass": 3
+   },
+   {
+    "quote": "ウィズは、見た目がファイナルファンタジーの黒魔道士そっくり",
+    "url": "https://note.com/wb_opus_one/n/nd243ea1a1ffa",
+    "pass": 3
+   },
+   {
+    "quote": "ファイナルファンタジーは1987年だからね。",
+    "url": "https://note.com/wb_opus_one/n/nd243ea1a1ffa",
+    "pass": 3
+   },
+   {
+    "quote": "体力も気力も全快だぜ！って朝は絶対に訪れない。",
+    "url": "https://note.com/wb_opus_one/n/nd243ea1a1ffa",
+    "pass": 3
+   },
+   {
+    "quote": "だから、HP(体力)もMP(精神力)も全快にしてくれるRPGの宿屋が、",
+    "url": "https://note.com/wb_opus_one/n/nd243ea1a1ffa",
+    "pass": 3
+   },
+   {
+    "quote": "どこでもドアの方が夢もあって、使い方次第じゃ億万長者にもなれる",
+    "url": "https://note.com/wb_opus_one/n/nd243ea1a1ffa",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "【公式】株式会社セイブ (@seibu_office) / X 「セイブ」に新しい仲間が加わりました！ ベトナムから技能実習生として、9名の皆さんが入社です🇻🇳 緊張しながらも、キラキラした笑顔がとても印象的でした。 これから日本の技術を学び、一緒に成長していきましょう！",
+    "url": "https://x.com/seibu_office",
+    "pass": 3
+   },
+   {
+    "quote": "セイブのスマイルキッチン (@smile_seibu) / X 株式会社セイブのスマイルキッチンは、介護施設・福祉施設向けクックチル製法の袋惣菜を販売しております。 365日セイブ及びセイブ大牟田の自社便にて配達をさせていただきます。 朝食172円 (税込) 昼食367円 (税込) 夕食367円 (税込) 各3食より注文を承り ...",
+    "url": "https://x.com/smile_seibu",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】株式会社セイブ on X: \"7月18日 (土)、セイブグループ経営計... 発表会では、前期の発表と今期の目標をグループ全体で共有し、気持ちを新たに有意義な時間となりました 懇親会ではメンバー同士の絆を深める事ができ、大変楽しい会となりました♡ #セイブグループ #経営計画発表会",
+    "url": "https://x.com/seibu_office/status/2079486396004528356",
+    "pass": 3
+   },
+   {
+    "quote": "セイブ on X: \"@8101919abc 当時アニメディアの読者投稿でも指摘され... Nov 4, 2026 · Conversation 伊勢海老フライ @8101919abc Nov 3 急な坂道とかいうレベルじゃない急勾配 00:00 9 37 136 8.1K セイブ @yamemeiwana1 Show translation 当時アニメディアの読者投稿でも指摘されました 1:46 AM · Nov 4, 2026 · 70 Views 1 1 伊勢海老フライ @8101919abc 50m やはり皆そう思いますよ ...",
+    "url": "https://x.com/yamemeiwana1/status/2117795683625484367",
+    "pass": 3
+   },
+   {
+    "quote": "セイブ (@save_ex) / Posts / X May 16, 2014 · ポイントが必ず貰える🎁W受賞の金麦のオフ🏅\\ @suntory をフォロー＆この投稿をRT🕺抽選で50,000名様に #金麦のオフを飲んでご褒美当たる キャンペーン応募で使える6⃣ポイントがその場で当たる🎯 #第2弾 はずれても1⃣ポイント必ず貰えるよ！",
+    "url": "https://x.com/save_ex",
+    "pass": 3
+   },
+   {
+    "quote": "葛葉 on X: \"西武池袋本店3階コスメフロアが1周年！ ChroNoiRがイケセ... Jun 24, 2026 · ChroNoiRがイケセイコスメのアンバサダーをさせていただきます スタンディパネルやChroNoiRの楽曲イメージコスメの展示もあるみたいなのでぜひ 壁紙プレゼントもあるから詳細は西武池袋本店の投稿をチェックしてください！ #PR #にじセイブ",
+    "url": "https://x.com/Vamp_Kuzu/status/2069623377699221683",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Masahiro Hori - 株式会社セイブホーム - 役員 | LinkedIn 株式会社セイブホーム - 役員 · 職歴: 株式会社セイブホーム · 場所: 日本。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでMasahiro Horiさんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/masahiro-hori-1382114b",
+    "pass": 3
+   },
+   {
+    "quote": "大山 正一 - セイブ工営 - 営業部長 | LinkedInWissen Technology | LinkedInGreg Slabodkin - Buffalo, New York, United States ... - LinkedIn7,000+西武鉄道 有価証券報告書 虚偽 重く受け止め 2004 Jobs in Unit...LinkedIn: Log In or Sign UpGybran Sánchez - WEG | LinkedIn セイブ工営 - 営業部長 · 職歴: セイブ工営 · 場所: 埼玉県 · LinkedInのつながり1人。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで大山 正一さんのプロフィールを閲覧しましょう。 Wissen Technology | 401,511 followers on LinkedIn. ",
+    "url": "https://jp.linkedin.com/in/正一-大山-235449a2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "セイブ海外研修協同組合 | Oita-shi Oita - Facebook株式会社セイブ | Kurume-shi Fukuoka - FacebookFacebook - log in or sign upLog Into Facebook株式会社セイブ - Facebook（株）静岡県セイブ自動車学校 | Hamamatsu-shi Shizuoka株式会社セイブファン -SAVE FUN - Facebook セイブ海外研修協同組合, Oita-shi. 445 followers · 15 talking about this. 外国人技能実習事業を行なっています。 ベトナム 中国、フィリピン、カンボジア等から実習生を受け入れています。 Jul 26, 2017 · 1 株式会社セイブ Jul 10, 2017 7/11 (火曜) ランチ弁当 しぐれ煮フライ&秋刀魚の照焼き H ",
+    "url": "https://www.facebook.com/seibukaigai/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社セイブ | Kurume-shi Fukuoka - Facebook Jul 26, 2017 · 1 株式会社セイブ Jul 10, 2017 7/11 (火曜) ランチ弁当 しぐれ煮フライ&秋刀魚の照焼き H ポークチャップ 本山政春 and Daisuke Hashizume 2 株式会社セイブ Jul 9, 2017 7/10 (月曜) ランチ弁当チキン竜田 H メバルのマヨネーズ焼き Daisuke ...",
+    "url": "https://www.facebook.com/people/株式会社セイブ/100069285185014/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.seibu.biz:443/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seibu.biz:443/company",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seibu.biz:443/technology",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seibu.biz:443/recruit",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seibu.biz:443/solution",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seibu.biz:443/history",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seibu.biz:443/terms_of_use",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://systemcreate-inc.co.jp/products/moiron_top",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.few.co.jp/small-lot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newji.ai/procurement-purchasing/case-studies-of-prototype-processing-for-small-lot-production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-super.com/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-japan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seibu-kk.co.jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seibu-g.com/contact/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seibu-kk.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seibu-g.com/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/anms/n/nba2ec708112c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/coconatsnomi/n/n4f51ab6c125a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/seibu_smilehouse/n/n3e77db720cc8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wb_opus_one/n/nd243ea1a1ffa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/seibu_office",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/smile_seibu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/seibu_office/status/2079486396004528356",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/masahiro-hori-1382114b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/正一-大山-235449a2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/seibukaigai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/株式会社セイブ/100069285185014/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yamemeiwana1/status/2117795683625484367",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/save_ex",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Vamp_Kuzu/status/2069623377699221683",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "セイブ 取扱製品 試作 小ロット",
+   "results": [
+    "https://systemcreate-inc.co.jp/products/moiron_top",
+    "https://www.few.co.jp/small-lot/",
+    "https://newji.ai/procurement-purchasing/case-studies-of-prototype-processing-for-small-lot-production/",
+    "https://newji.ai/procurement-purchasing/manufacturing-methods-and-considerations-for-small-batch-prototyping/",
+    "https://silicon-labox.com/shisaku/",
+    "https://seiwa-1.co.jp/small-lot/",
+    "http://se-bu.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "セイブ 会社概要 事業内容",
+   "results": [
+    "https://seibu-super.com/company.html",
+    "https://seibu-japan.com/",
+    "https://www.seibu-kk.co.jp/company/about/",
+    "https://seibu-japan.com/business/",
+    "https://www.k-seibu.com/company/about/",
+    "https://seibu-cc.com/seibu-contents.html",
+    "http://seibu-kk.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "セイブ お問い合わせ メール",
+   "results": [
+    "https://www.seibu-g.com/contact/",
+    "https://www.seibu-kk.co.jp/contact/",
+    "https://www.seibu-g.com/",
+    "https://www.sev.info/contact/",
+    "https://www.seibu-support.co.jp/contact/",
+    "https://aritaseibu.co.jp/contact/",
+    "https://k-seibu.co.jp/お問い合わせ/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com セイブ",
+   "results": [
+    "https://note.com/anms/n/nba2ec708112c",
+    "https://note.com/coconatsnomi/n/n4f51ab6c125a",
+    "https://note.com/seibu_smilehouse/n/n3e77db720cc8",
+    "https://note.com/wb_opus_one/n/nd243ea1a1ffa",
+    "https://tales.note.com/moritakintarou/wreg14qic64xq/episodes/e1gu4vspl12sj",
+    "https://tales.note.com/",
+    "https://note.com/matome4/n/nd018cecc021e"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com セイブ",
+   "results": [
+    "https://x.com/seibu_office",
+    "https://about.x.com/",
+    "https://x.com/smile_seibu",
+    "https://x.com/seibu_office/status/2079486396004528356",
+    "https://x.com/seibu_ike",
+    "https://x.com/seibusogo_jp",
+    "https://x.com/seibu_info"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com セイブ",
+   "results": [
+    "https://jp.linkedin.com/in/masahiro-hori-1382114b",
+    "https://jp.linkedin.com/in/正一-大山-235449a2",
+    "https://in.linkedin.com/company/wissen-technology",
+    "https://www.linkedin.com/in/greg-slabodkin-114a93",
+    "https://mx.linkedin.com/in/gybran-sánchez-wegpq8",
+    "https://gb.linkedin.com/",
+    "https://www.linkedin.com/jobs/西武鉄道-有価証券報告書-虚偽-重く受け止め-2004-jobs"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com セイブ",
+   "results": [
+    "https://www.facebook.com/seibukaigai/",
+    "https://www.facebook.com/people/株式会社セイブ/100069285185014/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/ZhuShiHuiSheseibu/",
+    "https://www.facebook.com/kenseibu/",
+    "https://www.facebook.com/SAVEFUNCoLtd/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "セイブ note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://www.seibu-g.com/company/president/",
+    "https://note.com/mega_syobo2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "セイブ X 投稿",
+   "results": [
+    "https://x.com/yamemeiwana1/status/2117795683625484367",
+    "https://x.com/save_ex",
+    "https://seibu-super.com/",
+    "https://x.com/Vamp_Kuzu/status/2069623377699221683",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://x.com/Kanae_2434/status/2069625551023931657",
+    "https://x.com/twitcasting_jp/status/2100831269575868441"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部23頁・検索9回）",
+  "事業内容": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部23頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部23頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部23頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部23頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部23頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部23頁・検索9回）"
+ }
+}

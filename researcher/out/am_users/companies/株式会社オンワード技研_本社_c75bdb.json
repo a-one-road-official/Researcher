@@ -1,0 +1,1055 @@
+{
+ "name": "株式会社オンワード技研 本社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T23:48:08.180925+00:00",
+ "official_url": "http://www.onwardgiken.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "＜本社＞ 〒929-0112　石川県能美市福島町ほ 106 番地 MAP TEL：0761-55-0466 FAX：0761-55-4405 ＜関東事業所・関東工場＞ 〒321-4364　栃木県真岡市長田1丁目9番地24 MAP TEL：0285-80-5035 FAX：0285-82-1411",
+    "url": "https://www.onwardgiken.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "923-0111 石川県能美市吉原町",
+    "url": "https://www.onwardgiken.jp/blog/about/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役社長",
+    "value": "川畠　丈志",
+    "url": "https://www.onwardgiken.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "業務内容",
+    "value": "・PVDコーティング受託加工 ・各DLC膜、各セラミック膜 ・表面処理サービス、工具研削サービス",
+    "url": "https://www.onwardgiken.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "具体的な業務内容",
+    "value": "◎コーティング膜の試作および物性評価（硬さ測定、X線回折、元素分析など） ◎コーティングした工具の切削試験（社内旋盤利用） ◎成膜装置の開発、設計、製作（電気・機械設計、シーケンス制御プログラミングなど） ◎製造工程の改善や製造部・営業部への技術支援 ・社外協力会社との打ち合わせや現地作業対応 ◎技術力が認められれば、裁量労働制の適用も可能（4名中3名が適用中） ◎研修として、三菱電機主催の講習会や外部研修にも参加しながら、技術を学んでいただきます。 ◎OJTを通じて、先輩社員から直接指導を受けられる環境です。",
+    "url": "https://www.onwardgiken.jp/saiyo/%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85/%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "様々な製品をお預かりするため、検査はすべて職人が手作業で行い、",
+    "url": "https://www.onwardgiken.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "DLCコーティングは8種以上、セラミックコーティングは13種以上をラインナップ",
+    "url": "https://www.onwardgiken.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "＜No.31＞新製品「OS-ZZ」",
+    "url": "https://www.onwardgiken.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "DLCコーティング「AC-X」で石川ブランド優秀新製品金賞受賞",
+    "url": "https://www.onwardgiken.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様からお預かりした製品をキレイにする「前処理」「洗浄」、効率よく膜をつけるために工夫してセッティングする「組立」、成膜装置を実際に操作したり、品質を確認するための検査やテストなどを行うなど、さまざまなチームが力を合わせて日々の業務に取り組んでいます",
+    "url": "https://www.onwardgiken.jp/saiyo/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は受託加工であり、自社製品を売るセールスではありません",
+    "url": "https://www.onwardgiken.jp/saiyo/",
+    "pass": 1
+   },
+   {
+    "quote": "※詳細なスペックは各製品情報をご覧ください",
+    "url": "https://www.onwardgiken.jp/material/",
+    "pass": 1
+   },
+   {
+    "quote": "＜No.31＞新製品「OS-ZZ」 | オンワード技研 技術ブログ",
+    "url": "https://www.onwardgiken.jp/blog/post-884/",
+    "pass": 1
+   },
+   {
+    "quote": "今回はオンワード技研の新製品「OS-ZZ」についてご説明します",
+    "url": "https://www.onwardgiken.jp/blog/post-884/",
+    "pass": 1
+   },
+   {
+    "quote": "2026秋新製品の「OS-ZZ」、そのほかの膜に関しても、",
+    "url": "https://www.onwardgiken.jp/blog/post-884/",
+    "pass": 1
+   },
+   {
+    "quote": "・「ES-CrN」は、経済産業省「ものづくり中小企業製品開発等支援補助金（試作支援事業）」により開発しました",
+    "url": "https://www.onwardgiken.jp/products/es-crn/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、半導体製造に欠かせない金型や切削工具に、特殊なコーティングを施すことで、製品の性能を格段に向上させる技術を持っています",
+    "url": "https://www.onwardgiken.jp/saiyo/%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85/%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "あなたには、最先端技術を駆使した製品を提案する【営業職】として、下記の業務をお任せします！",
+    "url": "https://www.onwardgiken.jp/saiyo/%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85/%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "：お客様からお預かりした製品を、丁寧に管理します",
+    "url": "https://www.onwardgiken.jp/saiyo/%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85/%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、半導体製造に欠かせない金型や切削工具に、特殊なコーティングを施すことで、製品の性能向上に貢献する技術会社です",
+    "url": "https://www.onwardgiken.jp/saiyo/%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85/%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、半導体製造に欠かせない金型や切削工具に、特殊コーティングを施すことで、製品寿命を劇的に向上させる技術を持っています",
+    "url": "https://www.onwardgiken.jp/saiyo/%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85/%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "＜No.31＞新製品「OS-ZZ」",
+    "url": "https://www.onwardgiken.jp/blog/about/",
+    "pass": 1
+   },
+   {
+    "quote": "今回はオンワード技研の新製品「OS-ZZ」についてご説明します",
+    "url": "https://www.onwardgiken.jp/blog/about/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品 難切材向けセラミックコーティング OS-Z",
+    "url": "https://www.onwardgiken.jp/blog/about/",
+    "pass": 1
+   },
+   {
+    "quote": "先日のJIMTOFで初公開した新製品「OS-Z」のご紹介です",
+    "url": "https://www.onwardgiken.jp/blog/about/",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "DLC・セラミックスともに特許取得、",
+    "url": "https://www.onwardgiken.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "DLCコーティングは8種以上、セラミックコーティングは13種以上をラインナップ",
+    "url": "https://www.onwardgiken.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン（Ti）・クロム（Cr）系の硬質膜です",
+    "url": "https://www.onwardgiken.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "DLC セラミックコーティング 表面処理のプロ集団",
+    "url": "https://www.onwardgiken.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜TiN / ウスマクTiN",
+    "url": "https://www.onwardgiken.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-T",
+    "url": "https://www.onwardgiken.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-Ⅶ",
+    "url": "https://www.onwardgiken.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-K",
+    "url": "https://www.onwardgiken.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "熱変化に強く高速切削加工や樹脂成形金型に最適",
+    "url": "https://www.onwardgiken.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "・各DLC膜、各セラミック膜",
+    "url": "https://www.onwardgiken.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜TiN / ウスマクTiN",
+    "url": "https://www.onwardgiken.jp/material/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-T",
+    "url": "https://www.onwardgiken.jp/material/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-Ⅶ",
+    "url": "https://www.onwardgiken.jp/material/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-K",
+    "url": "https://www.onwardgiken.jp/material/",
+    "pass": 1
+   },
+   {
+    "quote": "1986年創業、DLC・セラミックコーティング・表面処理のプロ集団",
+    "url": "https://www.onwardgiken.jp/blog/post-884/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜TiN / ウスマクTiN",
+    "url": "https://www.onwardgiken.jp/products/dlc-ex/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-T",
+    "url": "https://www.onwardgiken.jp/products/dlc-ex/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-Ⅶ",
+    "url": "https://www.onwardgiken.jp/products/dlc-ex/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-K",
+    "url": "https://www.onwardgiken.jp/products/dlc-ex/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜TiN / ウスマクTiN",
+    "url": "https://www.onwardgiken.jp/products/dlc-prism/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-T",
+    "url": "https://www.onwardgiken.jp/products/dlc-prism/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-Ⅶ",
+    "url": "https://www.onwardgiken.jp/products/dlc-prism/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-K",
+    "url": "https://www.onwardgiken.jp/products/dlc-prism/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜TiN / ウスマクTiN",
+    "url": "https://www.onwardgiken.jp/products/xpc/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-T",
+    "url": "https://www.onwardgiken.jp/products/xpc/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-Ⅶ",
+    "url": "https://www.onwardgiken.jp/products/xpc/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-K",
+    "url": "https://www.onwardgiken.jp/products/xpc/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜TiN / ウスマクTiN",
+    "url": "https://www.onwardgiken.jp/products/cfc/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-T",
+    "url": "https://www.onwardgiken.jp/products/cfc/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-Ⅶ",
+    "url": "https://www.onwardgiken.jp/products/cfc/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-K",
+    "url": "https://www.onwardgiken.jp/products/cfc/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜TiN / ウスマクTiN",
+    "url": "https://www.onwardgiken.jp/products/dp-dlc/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-T",
+    "url": "https://www.onwardgiken.jp/products/dp-dlc/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-Ⅶ",
+    "url": "https://www.onwardgiken.jp/products/dp-dlc/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-K",
+    "url": "https://www.onwardgiken.jp/products/dp-dlc/",
+    "pass": 1
+   },
+   {
+    "quote": "潤滑剤：シリコーンオイル（樹脂離型、潤滑剤）",
+    "url": "https://www.onwardgiken.jp/products/dp-dlc/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜TiN / ウスマクTiN",
+    "url": "https://www.onwardgiken.jp/products/ac-x/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-T",
+    "url": "https://www.onwardgiken.jp/products/ac-x/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-Ⅶ",
+    "url": "https://www.onwardgiken.jp/products/ac-x/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-K",
+    "url": "https://www.onwardgiken.jp/products/ac-x/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜TiN / ウスマクTiN",
+    "url": "https://www.onwardgiken.jp/products/ac-x_w/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-T",
+    "url": "https://www.onwardgiken.jp/products/ac-x_w/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-Ⅶ",
+    "url": "https://www.onwardgiken.jp/products/ac-x_w/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-K",
+    "url": "https://www.onwardgiken.jp/products/ac-x_w/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜TiN / ウスマクTiN",
+    "url": "https://www.onwardgiken.jp/products/ac-x_x/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-T",
+    "url": "https://www.onwardgiken.jp/products/ac-x_x/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-Ⅶ",
+    "url": "https://www.onwardgiken.jp/products/ac-x_x/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-K",
+    "url": "https://www.onwardgiken.jp/products/ac-x_x/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜OS-Z | オンワード技研",
+    "url": "https://www.onwardgiken.jp/products/os-z/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜TiN / ウスマクTiN",
+    "url": "https://www.onwardgiken.jp/products/os-z/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-T",
+    "url": "https://www.onwardgiken.jp/products/os-z/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-Ⅶ",
+    "url": "https://www.onwardgiken.jp/products/os-z/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-K",
+    "url": "https://www.onwardgiken.jp/products/os-z/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング＜OS-Z＞の用途例",
+    "url": "https://www.onwardgiken.jp/products/os-z/",
+    "pass": 1
+   },
+   {
+    "quote": "OS-Ⅶは窒化アルミクロムコーティング〈OS-A〉を多層膜にした、セラミックコーティングの改良膜です",
+    "url": "https://www.onwardgiken.jp/products/os-z/",
+    "pass": 1
+   },
+   {
+    "quote": "TiAlNはチタンとアルミの合金を窒化した、窒化チタンアルミコーティングの当社スタンダード膜です",
+    "url": "https://www.onwardgiken.jp/products/os-z/",
+    "pass": 1
+   },
+   {
+    "quote": "窒化チタンコーティング〈TiN〉とくらべ耐熱性・膜硬度が高く、引っかき摩耗が発生するドリルやエンドミルなどで多く採用されています",
+    "url": "https://www.onwardgiken.jp/products/os-z/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜TiN / ウスマクTiN | オンワード技研",
+    "url": "https://www.onwardgiken.jp/products/tin/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜TiN / ウスマクTiN",
+    "url": "https://www.onwardgiken.jp/products/tin/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックコーティング｜SmArc OS-T",
+    "url": "https://www.onwardgiken.jp/products/tin/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "また試作品や少ロットも大歓迎、一個から受注生産しています",
+    "url": "https://www.onwardgiken.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、・コーティング膜の試作・コーティングした工具の切削試験・コーティング膜の物性評価・成膜装置製作に必要な機器類の手配、及び部材の製作・成膜装置用制御シーケンサーのプログラミング・成膜装置用電気回路設計・成膜装置用機械設計（2D or 3D Auto-CAD利用）など",
+    "url": "https://www.onwardgiken.jp/saiyo/",
+    "pass": 1
+   },
+   {
+    "quote": "試作品1品から承ります",
+    "url": "https://www.onwardgiken.jp/blog/post-884/",
+    "pass": 1
+   },
+   {
+    "quote": "試作品ご希望の企業様は問い合わせフォームまたはお電話でご連絡ください！",
+    "url": "https://www.onwardgiken.jp/blog/post-884/",
+    "pass": 1
+   },
+   {
+    "quote": "・「ES-CrN」は、経済産業省「ものづくり中小企業製品開発等支援補助金（試作支援事業）」により開発しました",
+    "url": "https://www.onwardgiken.jp/products/es-crn/",
+    "pass": 1
+   },
+   {
+    "quote": "◎コーティング膜の試作および物性評価（硬さ測定、X線回折、元素分析など）",
+    "url": "https://www.onwardgiken.jp/saiyo/%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85/%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "2002年からは、医療分野や研究機関、大学、企業とも連携し、新たな薄膜技術を研究",
+    "url": "https://www.onwardgiken.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体業界向けや医療分野向けのコーティングも、安心してお任せいただけます",
+    "url": "https://www.onwardgiken.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "切削工具や金型、機械部品などの耐久性向上や長寿命化に、幅広く採用されています",
+    "url": "https://www.onwardgiken.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "切削工具・金型をはじめ、自動車部品や精密部品、医療関係まで、全国のお客様の「ものづくり」に貢献しています",
+    "url": "https://www.onwardgiken.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "離型性が必要な金型や撥水性が必要な部品に最適",
+    "url": "https://www.onwardgiken.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "熱変化に強く高速切削加工や樹脂成形金型に最適",
+    "url": "https://www.onwardgiken.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "膜厚0.5ミクロンで小径工具・金型に最適",
+    "url": "https://www.onwardgiken.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "膜厚0.5ミクロンで小径工具・精密金型に最適",
+    "url": "https://www.onwardgiken.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "・北陸自動車道 能美根上スマートICから車で5分",
+    "url": "https://www.onwardgiken.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "・北関東自動車道 真岡I.Cより約3分",
+    "url": "https://www.onwardgiken.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "機械部品から半導体、医療分野まで",
+    "url": "https://www.onwardgiken.jp/saiyo/",
+    "pass": 1
+   },
+   {
+    "quote": "日本全国の大手メーカーや建設機械メーカー等から工具や金型をお預かりし、",
+    "url": "https://www.onwardgiken.jp/saiyo/",
+    "pass": 1
+   },
+   {
+    "quote": "近年では、半導体への活用や医療技術にも採用されています",
+    "url": "https://www.onwardgiken.jp/saiyo/",
+    "pass": 1
+   },
+   {
+    "quote": "また、製造部、営業部の支援(膜評価、治具図面作製等々)等々の幅広い範囲の仕事を数年を掛けて順次取り組んでいきます",
+    "url": "https://www.onwardgiken.jp/saiyo/",
+    "pass": 1
+   },
+   {
+    "quote": "摩耗やカジリが問題となる機械部品や、凝着が問題となるアルミ・銅加工の工具・金型に幅広く採用されています",
+    "url": "https://www.onwardgiken.jp/products/dlc-ex/",
+    "pass": 1
+   },
+   {
+    "quote": "撥水性に優れ、離型性が求められる金型や、液離れが求められる機械部品のDLCコーティングに最適",
+    "url": "https://www.onwardgiken.jp/products/cfc/",
+    "pass": 1
+   },
+   {
+    "quote": "汎用性が高く、金型から工具まで幅広く使われています",
+    "url": "https://www.onwardgiken.jp/products/os-z/",
+    "pass": 1
+   },
+   {
+    "quote": "硬度・密着度・酸化温度のバランスに優れ、使いやすい汎用膜として工具・金型から機械部品まで、幅広く採用されています",
+    "url": "https://www.onwardgiken.jp/products/tin/",
+    "pass": 1
+   },
+   {
+    "quote": "クロムの特徴の滑り性と銅に対する耐凝着性が特徴で、可動部品・摺動部品やパンチ・金型などで多く採用されています",
+    "url": "https://www.onwardgiken.jp/products/crn/",
+    "pass": 1
+   },
+   {
+    "quote": "耐熱性・高硬度が求められる金型部品にも最適です",
+    "url": "https://www.onwardgiken.jp/products/os-a/",
+    "pass": 1
+   },
+   {
+    "quote": "耐熱性、高硬度が要求される金型部品",
+    "url": "https://www.onwardgiken.jp/products/os-a/",
+    "pass": 1
+   },
+   {
+    "quote": "汎用性が高く、金型から工具まで幅広く使われています",
+    "url": "https://www.onwardgiken.jp/products/os-7/",
+    "pass": 1
+   },
+   {
+    "quote": "金型サイズ：φ80×104H",
+    "url": "https://www.onwardgiken.jp/products/os-r/",
+    "pass": 1
+   },
+   {
+    "quote": "金型材質：SKH51",
+    "url": "https://www.onwardgiken.jp/products/os-r/",
+    "pass": 1
+   },
+   {
+    "quote": "金型：鋳抜きピン ＳＫＤ－６１",
+    "url": "https://www.onwardgiken.jp/products/os-r/",
+    "pass": 1
+   },
+   {
+    "quote": "膜厚が影響する小径工具・金型など、母材の形状を損なわずコーティング可能",
+    "url": "https://www.onwardgiken.jp/products/smarc-os-t/",
+    "pass": 1
+   },
+   {
+    "quote": "膜厚が影響する小径工具・金型など、母材の形状を損なわずコーティング可能",
+    "url": "https://www.onwardgiken.jp/products/smarc-os-7/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、半導体製造に欠かせない金型や切削工具に、特殊なコーティングを施すことで、製品の性能を格段に向上させる技術を持っています",
+    "url": "https://www.onwardgiken.jp/saiyo/%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85/%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、半導体製造に欠かせない金型や切削工具に、特殊なコーティングを施すことで、製品の性能向上に貢献する技術会社です",
+    "url": "https://www.onwardgiken.jp/saiyo/%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85/%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "◎普通自動車運転免許（入社までに取得予定でOK）",
+    "url": "https://www.onwardgiken.jp/saiyo/%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85/%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、半導体製造に欠かせない金型や切削工具に、特殊コーティングを施すことで、製品寿命を劇的に向上させる技術を持っています",
+    "url": "https://www.onwardgiken.jp/saiyo/%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85/%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "金型、工具材料に使われる硬度の高い超硬も、タングステンカーバイドのバインダー（接着剤）であるコバルトが銅と親和して凝着摩耗が起きます",
+    "url": "https://www.onwardgiken.jp/blog/post-707/",
+    "pass": 1
+   },
+   {
+    "quote": "工具から人金型・部品まで カラー ブラック",
+    "url": "https://www.onwardgiken.jp/wp/wp-content/uploads/2023/04/e5ae0555504db8ad715efd89dd7848f5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "@超便粉末成型金型 摩擦係数 0.09~0.13",
+    "url": "https://www.onwardgiken.jp/wp/wp-content/uploads/2023/04/e5ae0555504db8ad715efd89dd7848f5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "用途 @援水目的金型・治工具 摩擦係数 0.2~0.25",
+    "url": "https://www.onwardgiken.jp/wp/wp-content/uploads/2023/04/e5ae0555504db8ad715efd89dd7848f5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "@金型 など eH 10GPa",
+    "url": "https://www.onwardgiken.jp/wp/wp-content/uploads/2023/04/e5ae0555504db8ad715efd89dd7848f5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "| 1 Al \\ @〇樹脂成型金型 など",
+    "url": "https://www.onwardgiken.jp/wp/wp-content/uploads/2023/04/e5ae0555504db8ad715efd89dd7848f5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "小径工具・金型に最: 膜 種 TiSi 系",
+    "url": "https://www.onwardgiken.jp/wp/wp-content/uploads/2023/04/e5ae0555504db8ad715efd89dd7848f5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "スマーク _ 小径工具・金型に最適 膜 種 AICrSi 多層",
+    "url": "https://www.onwardgiken.jp/wp/wp-content/uploads/2023/04/e5ae0555504db8ad715efd89dd7848f5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "-L 粉末成型金型 など Re 2~4um 2ー4/m",
+    "url": "https://www.onwardgiken.jp/wp/wp-content/uploads/2023/04/e5ae0555504db8ad715efd89dd7848f5.pdf",
+    "pass": 2
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "試作品ご希望の企業様は問い合わせフォームまたはお電話でご連絡ください！",
+    "url": "https://www.onwardgiken.jp/blog/post-884/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせお待ちしております ~ ぜひご覧ください",
+    "url": "https://www.onwardgiken.jp/wp/wp-content/uploads/2023/04/e5ae0555504db8ad715efd89dd7848f5.pdf",
+    "pass": 2
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "@超便粉末成型金型 摩擦係数 0.09~0.13",
+    "url": "https://www.onwardgiken.jp/wp/wp-content/uploads/2023/04/e5ae0555504db8ad715efd89dd7848f5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "_Ye BS OP LSY1DAMUABELA Besa 107G・cm",
+    "url": "https://www.onwardgiken.jp/wp/wp-content/uploads/2023/04/e5ae0555504db8ad715efd89dd7848f5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "-L 粉末成型金型 など Re 2~4um 2ー4/m",
+    "url": "https://www.onwardgiken.jp/wp/wp-content/uploads/2023/04/e5ae0555504db8ad715efd89dd7848f5.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.onwardgiken.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/saiyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/blog/post-884/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/products/dlc-ex/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/products/dlc-prism/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/products/xpc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/products/cfc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/products/dp-dlc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/products/ac-x/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/products/ac-x_w/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/products/ac-x_x/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/products/os-z/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/products/tin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/products/crn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/products/es-crn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/products/tialn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/products/os-t/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/products/os-c2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/products/os-a/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/products/os-7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/products/os-r/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/products/smarc-os-t/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/products/smarc-os-7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/saiyo/%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85/%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/saiyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/blog/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/blog/post-707/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.onwardgiken.jp/wp/wp-content/uploads/2023/04/e5ae0555504db8ad715efd89dd7848f5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/wp/wp-content/uploads/2024/11/619e3edb9215b2d2e1564ad8662efa16.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/blog/wp-content/uploads/2026/10/31img.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/common/img/products/ac-x-gurahu.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.onwardgiken.jp/common/img/products/souti.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://onwardms.com/news/%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%81%AE%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%BC%E3%82%BA%E3%81%8C%E5%B0%8F%E3%83%AD%E3%83%83%E3%83%88%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8C%E3%81%BE%E3%81%99/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizexpo.jp/companies/onwardgiken",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onwardms.com/contact/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "オンワード技研 本社 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.onwardgiken.jp/company/",
+    "https://onwardms.com/news/オリジナルのスクイーズが小ロットから作れます/",
+    "https://bizexpo.jp/companies/onwardgiken",
+    "https://www.onwardgiken.jp/",
+    "https://a-giken.jp/prototype/",
+    "https://mono.ipros.com/company/detail/342045/",
+    "https://mono.ipros.com/company/detail/342045/category/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "オンワード技研 本社 会社概要 事業内容",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "オンワード技研 本社 お問い合わせ メール",
+   "results": [
+    "https://www.onwardgiken.jp/contact/",
+    "https://www.onwardgiken.jp/thanks/",
+    "https://onwardms.com/contact/",
+    "https://mm-onward.jp/form/pub/inquiry/customer",
+    "https://onward-cd.co.jp/cgibin/inquiry/",
+    "https://www.onward.co.jp/contact/",
+    "https://mm-onward.jp/fm/pub/inquiry/hd_contact"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com オンワード技研 本社",
+   "results": [
+    "https://note.com/onward_holdings",
+    "https://note.com/onward_holdings/n/nc54ef769ff1c",
+    "https://note.com/onward_holdings/m/mf31ac25c162b",
+    "https://note.com/onward_holdings/n/nf932df91f3e1",
+    "https://note.com/onward_holdings/n/nf912754ccfb6",
+    "https://note.com/apt_hebe8902/n/n2353441f4825",
+    "https://note.com/clipcorporation/n/n0e301e68c664"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com オンワード技研 本社",
+   "results": [
+    "https://x.com/OSGikenOfficial/status/2119716624848826397",
+    "https://x.com/WoP8PWp4ufhDIay/status/2084868303852614086",
+    "https://x.com/onsec_jp",
+    "https://x.com/onwardpressroom",
+    "https://x.com/ceo_P_resident/status/2079370325469401410",
+    "https://x.com/jyuutakuotaku",
+    "https://x.com/George_Keys_Lo/status/2111081710742040712"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com オンワード技研 本社",
+   "results": [
+    "https://www.linkedin.com/company/onward-technologies-ltd",
+    "https://www.linkedin.com/company/onward-technologies",
+    "https://tw.linkedin.com/company/onward-security",
+    "https://jp.linkedin.com/company/（株）オンワードホールディングス",
+    "https://in.linkedin.com/company/onward-technologies",
+    "https://jp.linkedin.com/company/オンワード商事（株）",
+    "https://ca.linkedin.com/company/onward-technologies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com オンワード技研 本社",
+   "results": [
+    "https://www.facebook.com/reel/1001099512041692/",
+    "https://www.facebook.com/株オンワード技研-279340088786461/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/onwardresearch/",
+    "https://www.facebook.com/nomistyle1/posts/技研オンワード技研本当に強い地方企業ランキング25選選出技研株式会社と株式会社オンワード技研が日経トップリーダー誌本当に強い地方企業ランキングのベスト２５位内に/1757200767845170/",
+    "https://www.facebook.com/magara.construction/posts/新着情報更新しました株式会社オンワード技研新本社工場建設工事において感謝状httpwwwmagaracojpmoduleswhatsnewindexphppag/652024700053986/",
+    "https://www.facebook.com/nomi.iju/posts/-企業インタビュー-オンワード技研-オンワード技研様をご訪問金型分野へのdlcコーティングでは業界でも突出してお仕事されています福島産業団地に立地した新工場は開/170646839061044/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "オンワード技研 本社 note 社長",
+   "results": [
+    "https://www.onwardgiken.jp/company/",
+    "https://sakuranote.net/sponsor/onward/",
+    "https://www.onwardgiken.jp/",
+    "https://compalyze.co.jp/company/2220001012747",
+    "https://keep.ne.jp/interview/オンワード技研株式会社　代表取締役社長　川畠/",
+    "https://ishikawa-note.jp/note/6123/",
+    "https://www.onward-hd.co.jp/company/overview.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "オンワード技研 本社 X 投稿",
+   "results": [
+    "https://www.onwardgiken.jp/",
+    "https://www.onwardgiken.jp/company/",
+    "https://www.instagram.com/p/DUEw6dsEtLT/",
+    "https://www.instagram.com/onwardgiken/",
+    "https://mono.ipros.com/product/detail/2001172807/",
+    "https://x.com/kawakenka/status/2120411201309917226",
+    "https://x.com/HondaJP"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式30頁／PDF・画像5件／外部3頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像5件／外部3頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式30頁／PDF・画像5件／外部3頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式30頁／PDF・画像5件／外部3頁・検索9回）"
+ }
+}

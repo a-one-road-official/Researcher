@@ -1,0 +1,464 @@
+{
+ "name": "株式会社大崎金属",
+ "aliases": [],
+ "context": "ipros_all:多品種",
+ "researched_at": "2026-11-11T23:24:55.685225+00:00",
+ "official_url": "http://www.osaki-kinzoku.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社工場",
+    "value": "○所在地　　〒144-0033　東京都大田区東糀谷6丁目3番1号 TEL　(03)3744-8200（代表）　 FAX  (03)3745-4841 ○従業員　　47名 ○工場規模　工場敷地　750㎡　　工場建坪　1,140㎡",
+    "url": "http://www.osaki-kinzoku.com/company.html",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒144-0033　東京都大田区東糀谷6-3-1　城南電化協同組合　東糀谷めっきセンター内",
+    "url": "http://www.osaki-kinzoku.com/access.html",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都大田区東糀谷6-3-1",
+    "url": "https://tenshoku.mynavi.jp/company/439374/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "めっき処理（航空・宇宙・防衛向け部品など） 「世界に誇る東京のモノづくり‐輝く技術光る企業」東京都 Nadcap Chemical Processingの認証取得（2017年2月） JIS Q 9100認証取得（2011年6月：一般財団法人　日本品質保証機構より） ISO14001認証取得（2003年9月：社団法人日本能率協会登録センターより）",
+    "url": "https://tenshoku.mynavi.jp/company/439374/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　吉川 進",
+    "url": "https://tenshoku.mynavi.jp/company/439374/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "51名",
+    "url": "https://tenshoku.mynavi.jp/company/439374/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "製品分野": [
+   {
+    "quote": "現在、各種電気・電子部品 を始め、宇宙・航空部品、 半導体部品、 コンピューター部品など色々な産業で要求される難易度の高い電気めっきを主として手がけており、長年蓄積された高度な技術は信頼性の高い品質保証体制（JIS Q 9100認証取得）とあいまって、お客様に満足していただける品質をお届けしております",
+    "url": "http://www.osaki-kinzoku.com/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に宇宙・航空機製品には工程及び設備の事前認定が必要となります",
+    "url": "http://www.osaki-kinzoku.com/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、弊社では、2011年6月に一般財団法人 日本品質保証機構より「品質マネジメントシステム－航空・宇宙・防衛分野の組織に対する要求事項」JIS Q 9100を認証取得しました",
+    "url": "http://www.osaki-kinzoku.com/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "めっき処理（航空・宇宙・防衛向け部品など）",
+    "url": "https://tenshoku.mynavi.jp/company/439374/",
+    "pass": 3
+   },
+   {
+    "quote": "航空・宇宙産業の【入出荷スタッフ】★未経験歓迎★日勤のみ",
+    "url": "https://tenshoku.mynavi.jp/company/439374/",
+    "pass": 3
+   },
+   {
+    "quote": "＼未経験から航空・宇宙産業へ／【入出荷管理】★完全週休2日",
+    "url": "https://tenshoku.mynavi.jp/company/439374/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "1．多品種少量めっき",
+    "url": "http://www.osaki-kinzoku.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "3．試作めっき",
+    "url": "http://www.osaki-kinzoku.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種素材・複合素材の試作対応検討いたします",
+    "url": "http://www.osaki-kinzoku.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "少量のお持込みから大量スクラップの買取、工場設備の撤去、中古機械の買取まで、まずはお気軽にご相談ください",
+    "url": "https://www.osakikinzoku.com/about/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "QQ-P-416、AMS QQ-P-416、AMS2400",
+    "url": "http://www.osaki-kinzoku.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "QQ-S-365、AMS2410、AMS2411、AMS2412",
+    "url": "http://www.osaki-kinzoku.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "MIL-C-14550、AMS2418",
+    "url": "http://www.osaki-kinzoku.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "QQ-N-290、AMS QQ-N-290、AMS2403",
+    "url": "http://www.osaki-kinzoku.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "AMS2416",
+    "url": "http://www.osaki-kinzoku.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "MIL-C-26074、AMS2404",
+    "url": "http://www.osaki-kinzoku.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "QQ-P-35、AMS QQ-P-35、AMS2700",
+    "url": "http://www.osaki-kinzoku.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "AMS2750",
+    "url": "http://www.osaki-kinzoku.com/products.html",
+    "pass": 1
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "特に宇宙・航空機製品には工程及び設備の事前認定が必要となります",
+    "url": "http://www.osaki-kinzoku.com/quality.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "営業案内 - 株式会社大崎金属 — 大崎金属の営業案内です。 営業内容 1．多品種少量めっき 2．量産品めっき 3．試作めっき ※ 剥離再めっき、マスキング部分めっきもご相談に応じます。",
+    "url": "http://www.osaki-kinzoku.com/products.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社大崎金属 — Feb 1, 2017 · 本社工場 〒144-0033 東京都大田区東糀谷6丁目3番1号 電話 03-3744-8200 FAX 03-3745-4841",
+    "url": "http://www.osaki-kinzoku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社大崎金属 — 会社概要 ABOUT 宮城県大崎市で金属スクラップ・農機具の買取を行う 地域密着型リサイクル会社 株式会社大崎金属は、宮城県大崎市古川小野を拠点に、鉄スクラップ・非鉄金属などの金属全般の買取、農機具・重機・中古機械の買取を行っております。",
+    "url": "https://www.osakikinzoku.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 大崎金属 | 輝く技術 光る企業 | 東京カイシャハッケン伝 — 金属ごと、スペックごとの確認事項を取引先から承認されているもので、これが歴史ある大崎金属ならではの“宝物”。 確かに一つひとつの承認の意味合いは重く、大崎金属の商いの歴史であり、顧客との信頼を積み重ねた証そのものであるのだ。",
+    "url": "https://kaisyahakken.metro.tokyo.lg.jp/old/kigyou/osaki-kinzoku/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社大崎金属の会社概要|転職・求人・中途採用情報サイトのマイナ... — 「株式会社大崎金属」の企業情報ページです。 株式会社大崎金属で募集中の求人（1件）や会社概要などの企業情報を掲載しています。 マイナビ転職の企業情報ページでは、さまざまな業種・職種で求人を募集している企業の情報を探せます。",
+    "url": "https://tenshoku.mynavi.jp/company/439374/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社大崎金属（東京都）の会社概要・役員 | Compalyze — 〒144-0033 東京都大田区に本社を置く株式会社大崎金属の企業情報。 株式会社大崎金属は、大正12年（1923年）の創業以来、電気めっき一筋に事業を展開している表面処理専門企業です。 製造業 (鉄鋼・金属)、1923年設立、社会保険被保険者数49名。 代表者 吉川 ...",
+    "url": "https://compalyze.co.jp/company/8010801002013",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 - 株式会社大崎金属 — 現在、各種電気・電子部品 を始め、宇宙・航空部品、 半導体部品、 コンピューター部品など色々な産業で要求される難易度の高い電気めっきを主として手がけており、長年蓄積された高度な技術は信頼性の高い品質保証体制（JIS Q 9100認証取得）とあいまって、お客様に満足していただける品 ...",
+    "url": "http://www.osaki-kinzoku.com/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 株式会社大崎金属 — お問い合わせありがとうございます。 ご返信までに、3〜4営業日いただいております。 あらかじめご了承ください。 ※入力した情報はSSL暗号化通信によって安全に送信されます。",
+    "url": "http://www.osaki-kinzoku.com/contact.html",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email info@osakikinzoku.com",
+    "url": "https://www.osakikinzoku.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "「掲載お知らせ」に登録しておくと、この企業が求人を再開した際にメールでお知らせします",
+    "url": "https://tenshoku.mynavi.jp/company/439374/",
+    "pass": 3
+   },
+   {
+    "quote": "この企業の「掲載お知らせ」メールを受けとる",
+    "url": "https://tenshoku.mynavi.jp/company/439374/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "（株）大崎金属 hiring 年収500万～も目指せる看護師/准看護師求人 in... See who （株）大崎金属 has hired for this role 東京都品川区で看護師/准看護師を募集中！ 月給40万円可能／評価制度充実／時短勤務OK／未経験歓迎",
+    "url": "https://www.linkedin.com/jobs/view/年収500万～も目指せる看護師-准看護師求人-at-（株）大崎金属-4129264908",
+    "pass": 3
+   },
+   {
+    "quote": "2（株）大崎金属 Jobs in Worldwide - LinkedIn Today’s top 2 （株）大崎金属 jobs. Leverage your professional network, and get hired. New （株）大崎金属 jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/（株）大崎金属-jobs-worldwide?f_C=33398492",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.osaki-kinzoku.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.osaki-kinzoku.com/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.osaki-kinzoku.com/products.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.osaki-kinzoku.com/access.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.osaki-kinzoku.com/quality.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.osaki-kinzoku.com/environment.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://san-kk.co.jp/technical/item/test/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://systemcreate-inc.co.jp/products/moiron_top",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakikinzoku.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaisyahakken.metro.tokyo.lg.jp/old/kigyou/osaki-kinzoku/",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/439374/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://osaki-jpn.com/contact/index.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/contact/form/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/view/年収500万～も目指せる看護師-准看護師求人-at-（株）大崎金属-4129264908",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/（株）大崎金属-jobs-worldwide?f_C=33398492",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "大崎金属 取扱製品 試作 小ロット",
+   "results": [
+    "https://san-kk.co.jp/technical/item/test/",
+    "https://systemcreate-inc.co.jp/products/moiron_top",
+    "http://www.osaki-kinzoku.com/products.html",
+    "https://www.snc2012.jp/metal",
+    "http://www.osaki-kinzoku.com/",
+    "https://www.miyamaseiki.co.jp/lot/",
+    "https://www.bane-shisaku.com/products/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "大崎金属 会社概要 事業内容",
+   "results": [
+    "https://www.osakikinzoku.com/about/",
+    "https://kaisyahakken.metro.tokyo.lg.jp/old/kigyou/osaki-kinzoku/",
+    "https://tenshoku.mynavi.jp/company/439374/",
+    "https://compalyze.co.jp/company/8010801002013",
+    "http://www.osaki-kinzoku.com/company.html",
+    "http://www.osaki-kinzoku.com/",
+    "https://www.osakikinzoku.com/business/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "大崎金属 お問い合わせ メール",
+   "results": [
+    "http://www.osaki-kinzoku.com/contact.html",
+    "https://osaki-jpn.com/contact/index.php",
+    "https://www.mitsui-kinzoku.com/contact/form/",
+    "https://www.onishi-metal.co.jp/inquiries/index.html",
+    "https://www.oosaki.co.jp/inquiries-about-us/",
+    "http://www.osaki-kinzoku.com/",
+    "http://ohsakisangyo.jp/contact/contact.php"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 大崎金属",
+   "results": [
+    "https://note.com/fluffy_capital/n/na423899317ee",
+    "https://note.com/fisco_jp/n/ne0eacc65c5bf",
+    "https://tales.note.com/vast_lion662/w40pmxcla7jop/episodes/ea5x2som09m3w",
+    "https://note.com/kabuberry_/n/nf7abedfbde57",
+    "https://note.com/shacho_homon/n/nd013a4dfb362",
+    "https://note.com/disclosure_picks/n/n89d22a93f440",
+    "https://note.com/chikama_teppei/n/nd5b65fb5e514"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 大崎金属",
+   "results": [
+    "https://x.com/asahilegend1979",
+    "https://x.com/kazukiosaki80",
+    "https://x.com/hiron1125/status/2073377632084000807",
+    "https://x.com/akt_96/status/2103085583077933315",
+    "https://x.com/Tomor1dr/status/2103462384732103050",
+    "https://x.com/oosakiya2024",
+    "https://x.com/kakatte_514"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 大崎金属",
+   "results": [
+    "https://www.linkedin.com/jobs/view/年収500万～も目指せる看護師-准看護師求人-at-（株）大崎金属-4129264908",
+    "https://www.linkedin.com/jobs/（株）大崎金属-jobs-worldwide?f_C=33398492",
+    "https://jp.linkedin.com/jobs/（株）大崎-jobs",
+    "https://in.linkedin.com/company/linkedin",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://sg.linkedin.com/jobs/view/head-of-asean-applied-ai-at-anthropic-4486333303",
+    "https://jp.linkedin.com/jobs/view/保育士【即日勤務ok】-at-（株）大崎金属-4413191685"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 大崎金属",
+   "results": [
+    "https://lite.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/p/AMcreate-100064240082490/",
+    "https://www.facebook.com/kabeiroha/",
+    "https://www.facebook.com/GenkiOsaQi/",
+    "https://www.facebook.com/osaki.shien/posts/1882591972683962/",
+    "https://www.facebook.com/shinjyuku.wakaharo/posts/新宿わかハロ-ミニ面接会のお知らせ株式会社-大崎金属10月27日火-定員10名-10時10分30分毎職種営業及び出荷等業務35歳以下参加予約は最寄りのハローワー/1709976415832816/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "大崎金属 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://compalyze.co.jp/company/8010801002013",
+    "https://www.wantedly.com/companies/company_1284824/members",
+    "http://www.osaki-kinzoku.com/company.html",
+    "http://www.osaki-kinzoku.com/index.html",
+    "https://kaisyahakken.metro.tokyo.lg.jp/old/kigyou/osaki-kinzoku/",
+    "https://www.oosaki.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "大崎金属 X 投稿",
+   "results": [
+    "http://www.osaki-kinzoku.com/",
+    "https://www.osakikinzoku.com/",
+    "http://www.osaki-kinzoku.com/company.html",
+    "https://x.com/showa825/status/2119356680479944980",
+    "https://x.com/yuki_osaki",
+    "https://search.yahoo.co.jp/realtime/search/大崎/",
+    "https://www.youtube.com/shorts/WZqm43RaXvI"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部9頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部9頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部9頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部9頁・検索9回）"
+ }
+}

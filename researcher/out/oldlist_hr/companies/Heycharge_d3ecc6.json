@@ -1,0 +1,1388 @@
+{
+ "name": "Heycharge",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T23:18:17.973108+00:00",
+ "official_url": "https://heycharge.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Different user groups, different products, one mission.",
+    "url": "https://www.heycharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enabling property managers and housing companies to offer hassle-free charging to tenants in multi-apartment buildings.",
+    "url": "https://www.heycharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Helping hotels and vacation rentals provide convenient charging as a premium amenity for their guests.",
+    "url": "https://www.heycharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Employees charge company vehicles at home with precise, auditable session tracking — no matter what wallbox they have.",
+    "url": "https://www.heycharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Patented cryptographic protocols verify the user directly at the charger. Instant access, always.",
+    "url": "https://www.heycharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "April 16, 2026",
+    "url": "https://www.heycharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud-dependent EV chargers fail in underground garages — but there are 3 solutions that work. Property managers and fleet operators: here's what to deploy.",
+    "url": "https://www.heycharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Practical guides to the software, hardware and operations behind reliable charging —",
+    "url": "https://www.heycharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "for CPOs, property managers and fleet operators.",
+    "url": "https://www.heycharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Where EV charging costs really go, and how property operators cut total cost of ownership by 40–70% with load management, offline-first charging and retrofit.",
+    "url": "https://www.heycharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How property managers add EV charging to apartment and multi-tenant buildings: per-tenant billing, shared power, and chargers that work in underground garages.",
+    "url": "https://www.heycharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "HeyCharge started when our founders experienced firsthand the challenge of charging an EV without a private garage. Living in an apartment building with underground parking, they discovered that installing a charger meant navigating impossible infrastructure requirements.",
+    "url": "https://www.heycharge.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "The solution? Build charging infrastructure that doesn't need any infrastructure. No internet. No network cables. No SIM cards. Just Bluetooth, cryptography, and a radically simple approach.",
+    "url": "https://www.heycharge.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Today, HeyCharge powers charging for thousands of EV drivers across Europe and the US, proving that apartment dwellers deserve the same easy charging experience as homeowners.",
+    "url": "https://www.heycharge.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Robert brings a rare product-meets-opportunity-meets-sales perspective to the HeyCharge founding team.",
+    "url": "https://www.heycharge.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "At HeyCharge, Robert bridges market insight with disciplined execution. He ensures that product strategy, customer demand, and commercial growth stay tightly aligned — building not just innovation, but durable momentum.",
+    "url": "https://www.heycharge.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "We're a tight-knit, international team building real products that solve real problems. From our Munich office to team meetups across Europe, this is what it's like working with us.",
+    "url": "https://www.heycharge.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "We don't just write code. We solder, test, install, and debug hardware in the real world. Every team member gets close to the product.",
+    "url": "https://www.heycharge.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Real estate & property managers",
+    "url": "https://www.heycharge.com/solutions/cpos/",
+    "pass": 1
+   },
+   {
+    "quote": "Installers & service providers",
+    "url": "https://www.heycharge.com/solutions/cpos/",
+    "pass": 1
+   },
+   {
+    "quote": "EV charging for rental properties",
+    "url": "https://www.heycharge.com/solutions/cpos/",
+    "pass": 1
+   },
+   {
+    "quote": "News, blog, and press",
+    "url": "https://www.heycharge.com/solutions/cpos/",
+    "pass": 1
+   },
+   {
+    "quote": "Zigbee wireless mesh network provides intelligent load balancing across your sites without running a single network cable.",
+    "url": "https://www.heycharge.com/solutions/cpos/",
+    "pass": 1
+   },
+   {
+    "quote": "EV charging. Incredibly simple. Better reliability, lower cost, no compromise.",
+    "url": "https://www.heycharge.com/solutions/cpos/",
+    "pass": 1
+   },
+   {
+    "quote": "For Real Estate & Property Managers | HeyCharge",
+    "url": "https://www.heycharge.com/solutions/building-owners/",
+    "pass": 1
+   },
+   {
+    "quote": "Real estate & property managers",
+    "url": "https://www.heycharge.com/solutions/building-owners/",
+    "pass": 1
+   },
+   {
+    "quote": "Installers & service providers",
+    "url": "https://www.heycharge.com/solutions/building-owners/",
+    "pass": 1
+   },
+   {
+    "quote": "EV charging for rental properties",
+    "url": "https://www.heycharge.com/solutions/building-owners/",
+    "pass": 1
+   },
+   {
+    "quote": "News, blog, and press",
+    "url": "https://www.heycharge.com/solutions/building-owners/",
+    "pass": 1
+   },
+   {
+    "quote": "For Real Estate & Property Managers",
+    "url": "https://www.heycharge.com/solutions/building-owners/",
+    "pass": 1
+   },
+   {
+    "quote": "Future-Proof & Expandable",
+    "url": "https://www.heycharge.com/solutions/building-owners/",
+    "pass": 1
+   },
+   {
+    "quote": "EV charging. Incredibly simple. Better reliability, lower cost, no compromise.",
+    "url": "https://www.heycharge.com/solutions/building-owners/",
+    "pass": 1
+   },
+   {
+    "quote": "Real estate & property managers",
+    "url": "https://www.heycharge.com/solutions/fleets/",
+    "pass": 1
+   },
+   {
+    "quote": "Installers & service providers",
+    "url": "https://www.heycharge.com/solutions/fleets/",
+    "pass": 1
+   },
+   {
+    "quote": "EV charging for rental properties",
+    "url": "https://www.heycharge.com/solutions/fleets/",
+    "pass": 1
+   },
+   {
+    "quote": "News, blog, and press",
+    "url": "https://www.heycharge.com/solutions/fleets/",
+    "pass": 1
+   },
+   {
+    "quote": "EV charging. Incredibly simple. Better reliability, lower cost, no compromise.",
+    "url": "https://www.heycharge.com/solutions/fleets/",
+    "pass": 1
+   },
+   {
+    "quote": "Real estate & property managers",
+    "url": "https://www.heycharge.com/solutions/utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Installers & service providers",
+    "url": "https://www.heycharge.com/solutions/utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "EV charging for rental properties",
+    "url": "https://www.heycharge.com/solutions/utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "News, blog, and press",
+    "url": "https://www.heycharge.com/solutions/utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Site-level and building-level load management distributes charging power intelligently, preventing grid overloads and optimizing utilization.",
+    "url": "https://www.heycharge.com/solutions/utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Optional gateway connectivity provides real-time monitoring, session data, and grid integration while maintaining offline reliability as a fallback.",
+    "url": "https://www.heycharge.com/solutions/utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate HeyCharge technology into your own app and platform. Our SDK provides full charger access, billing, and energy management under your brand.",
+    "url": "https://www.heycharge.com/solutions/utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "EV charging. Incredibly simple. Better reliability, lower cost, no compromise.",
+    "url": "https://www.heycharge.com/solutions/utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "For Installers & Service Providers | HeyCharge",
+    "url": "https://www.heycharge.com/solutions/installers/",
+    "pass": 1
+   },
+   {
+    "quote": "Real estate & property managers",
+    "url": "https://www.heycharge.com/solutions/installers/",
+    "pass": 1
+   },
+   {
+    "quote": "Installers & service providers",
+    "url": "https://www.heycharge.com/solutions/installers/",
+    "pass": 1
+   },
+   {
+    "quote": "EV charging for rental properties",
+    "url": "https://www.heycharge.com/solutions/installers/",
+    "pass": 1
+   },
+   {
+    "quote": "News, blog, and press",
+    "url": "https://www.heycharge.com/solutions/installers/",
+    "pass": 1
+   },
+   {
+    "quote": "For Installers & Service Providers",
+    "url": "https://www.heycharge.com/solutions/installers/",
+    "pass": 1
+   },
+   {
+    "quote": "CONNECT Bridge Lite and CONNECT Bridge Pro retrofit kits bring HeyCharge technology to existing AC and DC chargers. Expand your service offerings without replacing hardware.",
+    "url": "https://www.heycharge.com/solutions/installers/",
+    "pass": 1
+   },
+   {
+    "quote": "EV charging. Incredibly simple. Better reliability, lower cost, no compromise.",
+    "url": "https://www.heycharge.com/solutions/installers/",
+    "pass": 1
+   },
+   {
+    "quote": "Future-Proof Scalability",
+    "url": "https://www.heycharge.com/solutions/parking-operators/",
+    "pass": 1
+   },
+   {
+    "quote": "Employees charge company vehicles at home with precise, auditable session tracking — regardless of what wallbox they have or whether their garage has Wi-Fi.",
+    "url": "https://www.heycharge.com/applications/company-car-at-home/",
+    "pass": 1
+   },
+   {
+    "quote": "Build your own charging experience with our comprehensive SDK and API.",
+    "url": "https://www.heycharge.com/products/sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive docs and sample code",
+    "url": "https://www.heycharge.com/products/sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "Eight principles that shape how we hire, promote, and ship.",
+    "url": "https://www.heycharge.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Any meaningful claim — about users, performance, or pricing — arrives with a number, or it doesn't ship.",
+    "url": "https://www.heycharge.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "The person who fixed the problem owns the credit, not the one who wrote the update doc.",
+    "url": "https://www.heycharge.com/careers/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by real estate leaders",
+    "url": "https://www.heycharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud-dependent EV chargers fail in underground garages — but there are 3 solutions that work. Property managers and fleet operators: here's what to deploy.",
+    "url": "https://www.heycharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "for CPOs, property managers and fleet operators.",
+    "url": "https://www.heycharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Where EV charging costs really go, and how property operators cut total cost of ownership by 40–70% with load management, offline-first charging and retrofit.",
+    "url": "https://www.heycharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "His background spans software, automotive R&D, and energy. He worked at Google, advanced vehicle electrification at Mercedes-Benz Research & Development North America, contributed to early EV research at the UC Davis Hybrid Electric Vehicle Center, and operated inside the utility world at E.ON.",
+    "url": "https://www.heycharge.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "His career spans automotive, consulting, fleet, and mobility ecosystems at BMW, Capgemini, SIXT, and ERGO Mobility Solutions. He understands how mobility markets evolve — where value is created, where friction appears, and how to turn both into scalable business.",
+    "url": "https://www.heycharge.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "For Charge Point Operators | HeyCharge",
+    "url": "https://www.heycharge.com/solutions/cpos/",
+    "pass": 1
+   },
+   {
+    "quote": "Charge point operators",
+    "url": "https://www.heycharge.com/solutions/cpos/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy companies & grid operators",
+    "url": "https://www.heycharge.com/solutions/cpos/",
+    "pass": 1
+   },
+   {
+    "quote": "Android Automotive OS",
+    "url": "https://www.heycharge.com/solutions/cpos/",
+    "pass": 1
+   },
+   {
+    "quote": "For Charge Point Operators",
+    "url": "https://www.heycharge.com/solutions/cpos/",
+    "pass": 1
+   },
+   {
+    "quote": "Charge point operators",
+    "url": "https://www.heycharge.com/solutions/building-owners/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy companies & grid operators",
+    "url": "https://www.heycharge.com/solutions/building-owners/",
+    "pass": 1
+   },
+   {
+    "quote": "Android Automotive OS",
+    "url": "https://www.heycharge.com/solutions/building-owners/",
+    "pass": 1
+   },
+   {
+    "quote": "Charge point operators",
+    "url": "https://www.heycharge.com/solutions/fleets/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy companies & grid operators",
+    "url": "https://www.heycharge.com/solutions/fleets/",
+    "pass": 1
+   },
+   {
+    "quote": "Android Automotive OS",
+    "url": "https://www.heycharge.com/solutions/fleets/",
+    "pass": 1
+   },
+   {
+    "quote": "Android Automotive OS integration lets drivers start charging from the vehicle's infotainment screen — no personal phone or app required. Ideal for shared fleet vehicles.",
+    "url": "https://www.heycharge.com/solutions/fleets/",
+    "pass": 1
+   },
+   {
+    "quote": "For Energy Companies & Grid Operators | HeyCharge",
+    "url": "https://www.heycharge.com/solutions/utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Charge point operators",
+    "url": "https://www.heycharge.com/solutions/utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy companies & grid operators",
+    "url": "https://www.heycharge.com/solutions/utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Android Automotive OS",
+    "url": "https://www.heycharge.com/solutions/utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "For Energy Companies & Grid Operators",
+    "url": "https://www.heycharge.com/solutions/utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Charge point operators",
+    "url": "https://www.heycharge.com/solutions/installers/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy companies & grid operators",
+    "url": "https://www.heycharge.com/solutions/installers/",
+    "pass": 1
+   },
+   {
+    "quote": "Android Automotive OS",
+    "url": "https://www.heycharge.com/solutions/installers/",
+    "pass": 1
+   },
+   {
+    "quote": "Parking Operators | HeyCharge",
+    "url": "https://www.heycharge.com/solutions/parking-operators/",
+    "pass": 1
+   },
+   {
+    "quote": "Android Automotive OS",
+    "url": "https://www.heycharge.com/applications/company-car-at-home/",
+    "pass": 1
+   },
+   {
+    "quote": "2階、E棟、No.29 Shunye Street、Industrial Park、Dongguan、中国",
+    "url": "https://heycharge.global/ja/about-us.html",
+    "pass": 3
+   },
+   {
+    "quote": "Our power bank rental factory has over 7 years of experience in power bank and shared power bank station assembly, production, and quality inspection.",
+    "url": "https://heycharge.global/",
+    "pass": 3
+   },
+   {
+    "quote": "Charge point operators",
+    "url": "https://www.heycharge.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy companies & grid operators",
+    "url": "https://www.heycharge.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "Android Automotive OS",
+    "url": "https://www.heycharge.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "real estate operators, CPOs, OEMs, and partners building on SecureCharge.",
+    "url": "https://www.heycharge.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "Onboarding installers and operators across Europe through a franchise model",
+    "url": "https://www.heycharge.com/news/heycharge-wins-eic-accelerator-grant/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Employees charge company vehicles at home with precise, auditable session tracking — no matter what wallbox they have.",
+    "url": "https://www.heycharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Accurately track and reimburse employees who charge company vehicles at home. CONNECT MagicBox technology handles metering and billing automatically.",
+    "url": "https://www.heycharge.com/solutions/fleets/",
+    "pass": 1
+   },
+   {
+    "quote": "Employees charge company vehicles at home with precise, auditable session tracking — regardless of what wallbox they have or whether their garage has Wi-Fi.",
+    "url": "https://www.heycharge.com/applications/company-car-at-home/",
+    "pass": 1
+   },
+   {
+    "quote": "kWh-accurate session data with automated reporting. Employers get auditable records; employees get reimbursed for exactly what they used.",
+    "url": "https://www.heycharge.com/applications/company-car-at-home/",
+    "pass": 1
+   },
+   {
+    "quote": "Employees plug in the MagicBox themselves — EU wall plug, no electrician. The fleet is operational from day one.",
+    "url": "https://www.heycharge.com/applications/company-car-at-home/",
+    "pass": 1
+   },
+   {
+    "quote": "Any meaningful claim — about users, performance, or pricing — arrives with a number, or it doesn't ship.",
+    "url": "https://www.heycharge.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize Your Business Operations to Maximize Revenue",
+    "url": "https://heycharge.global/",
+    "pass": 3
+   },
+   {
+    "quote": "Enhance your shared power bank business and boost revenue with expert support throughout the operation phase.",
+    "url": "https://heycharge.global/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore the revenue sources and operating factors behind power bank rentals, including rental demand, station usage, running costs, and advertising opportunities.",
+    "url": "https://heycharge.global/",
+    "pass": 3
+   },
+   {
+    "quote": "The European Innovation Council (EIC) Accelerator is the EU’s flagship funding programme for high-impact startups and SMEs developing breakthrough technologies. It provides grants and equity investments to companies with the potential to create new markets and scale rapidly. The EIC Accelerator is part of Horizon Europe, the EU’s research and innovation framework programme.",
+    "url": "https://www.heycharge.com/news/heycharge-wins-eic-accelerator-grant/",
+    "pass": 3
+   },
+   {
+    "quote": ", which provides a platform connecting athletes and companies, won the award. Their platform matches athletes with companies looking to utilize them for brand image and advertising. A portion of the revenue is donated to underserved local communities, aiming to support youth sports programs.",
+    "url": "https://note.com/noto15/n/n43e94701a6d8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", which won the award this time, will likely be in higher demand. I have also recently started using an Oculus 2, but it is still a bit large and heavy to carry around, so I sometimes feel that I want a service that allows me to easily enter a VR space using an app.",
+    "url": "https://note.com/noto15/n/n43e94701a6d8?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Hardware development kit for deep OEM integration",
+    "url": "https://www.heycharge.com/solutions/cpos/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label integration",
+    "url": "https://www.heycharge.com/solutions/cpos/",
+    "pass": 1
+   },
+   {
+    "quote": "Hardware development kit for deep OEM integration",
+    "url": "https://www.heycharge.com/solutions/building-owners/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label integration",
+    "url": "https://www.heycharge.com/solutions/building-owners/",
+    "pass": 1
+   },
+   {
+    "quote": "Hardware development kit for deep OEM integration",
+    "url": "https://www.heycharge.com/solutions/fleets/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label integration",
+    "url": "https://www.heycharge.com/solutions/fleets/",
+    "pass": 1
+   },
+   {
+    "quote": "Hardware development kit for deep OEM integration",
+    "url": "https://www.heycharge.com/solutions/utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label integration",
+    "url": "https://www.heycharge.com/solutions/utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate HeyCharge technology into your own app and platform. Our SDK provides full charger access, billing, and energy management under your brand.",
+    "url": "https://www.heycharge.com/solutions/utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Hardware development kit for deep OEM integration",
+    "url": "https://www.heycharge.com/solutions/installers/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label integration",
+    "url": "https://www.heycharge.com/solutions/installers/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label CPO partners",
+    "url": "https://www.heycharge.com/products/sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "Hardware development kit for deep OEM integration",
+    "url": "https://www.heycharge.com/products/sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "Own HeyCharge's core platform — backend, mobile SDK, and devices. Productize for our CPO division and external OEMs running our technology under their brand or ours.",
+    "url": "https://www.heycharge.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "300社以上のOEMブランド",
+    "url": "https://heycharge.global/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Launch Your Branded Power Bank Rental Business in 30 Days",
+    "url": "https://heycharge.global/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label stations, app-free QR and POS rentals, local payment integrations, management software, and launch support—from a small pilot to a nationwide network.",
+    "url": "https://heycharge.global/",
+    "pass": 3
+   },
+   {
+    "quote": "300+ OEM Brands",
+    "url": "https://heycharge.global/",
+    "pass": 3
+   },
+   {
+    "quote": "HeyCharge offers a variety of power bank rental stations for all commercial environments—malls, restaurants, airports, and outdoor locations. Reliable, zero maintenance, and fully customizable to reflect your brand's style, ensuring a seamless and professional customer experience.",
+    "url": "https://heycharge.global/",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware development kit for deep OEM integration",
+    "url": "https://www.heycharge.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label integration",
+    "url": "https://www.heycharge.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you're an apartment resident, CPO, property manager, or OEM — we'd love to discuss how HeyCharge can work for you.",
+    "url": "https://www.heycharge.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "real estate operators, CPOs, OEMs, and partners building on SecureCharge.",
+    "url": "https://www.heycharge.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM or hardware brand",
+    "url": "https://www.heycharge.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "technology powers a global platform, allowing other CPOs and OEMs to build their own services with offline-capable, cost-effective, and secure charging infrastructure. With backing from leading investors (including Y Combinator) and a growing international footprint, HeyCharge is scaling rapidly across Europe and beyond.",
+    "url": "https://www.ycombinator.com/companies/heycharge/jobs/Q9Va4eK-head-of-engineering",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us to discuss how HeyCharge can transform your charging operations.",
+    "url": "https://www.heycharge.com/solutions/cpos/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us to discuss how HeyCharge can transform your charging operations.",
+    "url": "https://www.heycharge.com/solutions/building-owners/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us to discuss how HeyCharge can transform your charging operations.",
+    "url": "https://www.heycharge.com/solutions/fleets/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us to discuss how HeyCharge can transform your charging operations.",
+    "url": "https://www.heycharge.com/solutions/utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us to discuss how HeyCharge can transform your charging operations.",
+    "url": "https://www.heycharge.com/solutions/installers/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us to discuss how HeyCharge can transform your charging operations.",
+    "url": "https://www.heycharge.com/solutions/parking-operators/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us to discuss how HeyCharge fits your use case.",
+    "url": "https://www.heycharge.com/applications/company-car-at-home/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us to discuss your EV charging infrastructure needs.",
+    "url": "https://www.heycharge.com/products/sdk/",
+    "pass": 1
+   },
+   {
+    "quote": "If you're excited about what we're building and think you can contribute, send us an email at",
+    "url": "https://www.heycharge.com/careers/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "パワーバンクレンタルと共有ソリューションのためのプレミア ... — パワーバンクレンタルと共有ソリューションのためのプレミア ... heycharge.global https://heycharge.global > ...",
+    "url": "https://heycharge.global/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "HeyCharge について — HeyCharge について heycharge.global https://heycharge.global > About HeyCharge",
+    "url": "https://heycharge.global/ja/about-us.html",
+    "pass": 3
+   },
+   {
+    "quote": "HeyCharge : Smart EV Charging — Without Internet — HeyCharge : Smart EV Charging — Without Internet HeyCharge https://www.heycharge.com",
+    "url": "https://www.heycharge.com/",
+    "pass": 3
+   },
+   {
+    "quote": "HeyCharge : Power Bank Rental Solution Provider — HeyCharge : Power Bank Rental Solution Provider heycharge.global https://heycharge.global",
+    "url": "https://heycharge.global/",
+    "pass": 3
+   },
+   {
+    "quote": "HeyCharge - LinkedIn — HeyCharge - LinkedIn LinkedIn https://de.linkedin.com > heycharge",
+    "url": "https://de.linkedin.com/company/heycharge",
+    "pass": 3
+   },
+   {
+    "quote": "Contact HeyCharge — EV Charging Sales & Support — Contact HeyCharge — EV Charging Sales & Support HeyCharge https://www.heycharge.com > contact",
+    "url": "https://www.heycharge.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "HeyCharge : Low-cost, high-scale EV charging platform for ... — HeyCharge : Low-cost, high-scale EV charging platform for ... Y Combinator https://www.ycombinator.com > heyc...",
+    "url": "https://www.ycombinator.com/companies/heycharge",
+    "pass": 3
+   },
+   {
+    "quote": "Hey Charge (@heychargeglobal) - Facebook — Hey Charge (@heychargeglobal) - Facebook Facebook https://www.facebook.com > ... > Electronics Company",
+    "url": "https://www.facebook.com/heychargeglobal/",
+    "pass": 3
+   },
+   {
+    "quote": "Set a power bank rental station! With HeyCharge ... - Instagram — Set a power bank rental station! With HeyCharge ... - Instagram Instagram https://www.instagram.com > ...",
+    "url": "https://www.instagram.com/p/DMZ4qaDuRbF/",
+    "pass": 3
+   },
+   {
+    "quote": "HeyCharge Wins €2.5 Million European Innovation Council ... — HeyCharge Wins €2.5 Million European Innovation Council ... HeyCharge https://www.heycharge.com > news",
+    "url": "https://www.heycharge.com/news/heycharge-wins-eic-accelerator-grant/",
+    "pass": 3
+   },
+   {
+    "quote": "Chris Cardé – CEO @ HeyCharge | Ex-Google - LinkedIn — Chris Cardé – CEO @ HeyCharge | Ex-Google - LinkedIn LinkedIn https://de.linkedin.com > pilotchris",
+    "url": "https://de.linkedin.com/in/pilotchris",
+    "pass": 3
+   },
+   {
+    "quote": "Germany's HeyCharge secures €2.5 million EIC grant to scale ... — Germany's HeyCharge secures €2.5 million EIC grant to scale ... EU-Startups https://www.eu-startups.com > 2026/02",
+    "url": "https://www.eu-startups.com/2026/02/germanys-heycharge-secures-e2-5-million-eic-grant-to-scale-offline-ev-charging-across-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "Head of Engineering at HeyCharge | Y Combinator — Head of Engineering at HeyCharge | Y Combinator Y Combinator https://www.ycombinator.com > jobs",
+    "url": "https://www.ycombinator.com/companies/heycharge/jobs/Q9Va4eK-head-of-engineering",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[SXSW 2022 Flash Report] Introducing the 9 Companies That Won ... Currently, an increasing number of lawyers handling criminal cases are using JusticeText's tools to analyze complex video footage more quickly. [Finalists] JusticeText (Irvine, CA) ★WINNER 4.screen (Munich, Germany) HeyCharge (Munich, Germany) Glaza (Los Angeles, CA) Kiro Action (Austin, TX)",
+    "url": "https://note.com/noto15/n/n43e94701a6d8?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "I’mbesideyou (Minatoku, Japan)",
+    "url": "https://note.com/noto15/n/n43e94701a6d8?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "[SXSW 2022 Flash Report] Introducing the 9 Companies That Won the Startup Pitch Awards!｜Shuichi Noto / 能任 秀一",
+    "url": "https://note.com/noto15/n/n43e94701a6d8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/noto15/n/n43e94701a6d8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[SXSW 2022 Flash Report] Introducing the 9 Companies That Won the Startup Pitch Awards!",
+    "url": "https://note.com/noto15/n/n43e94701a6d8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SXSW (South by Southwest), a festival of cutting-edge technology that attracts attention from all over the world, was held from March 11 to 20, 2022, in a hybrid format in Austin, Texas, and online. In this year's first hybrid event, many sessions were held on-site, while online streaming was limited to events such as keynotes.",
+    "url": "https://note.com/noto15/n/n43e94701a6d8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SXSW began in 1987 as a music festival in Austin, a city of music, and has since grown into an event covering a wide range of themes, including film and technology, as it does today. In 2007, Twitter won the SXSW Award, and it is now attracting attention as a festival for startups.",
+    "url": "https://note.com/noto15/n/n43e94701a6d8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SXSW offers a wealth of content, including lectures by numerous celebrities, but the most attention-grabbing event is the startup pitch event. In this article, I would like to introduce the",
+    "url": "https://note.com/noto15/n/n43e94701a6d8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "in an easy-to-understand way.",
+    "url": "https://note.com/noto15/n/n43e94701a6d8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[SXSW 2021 Flash Report] Introducing the 8 Startup Pitch Award Winners!",
+    "url": "https://note.com/noto15/n/n43e94701a6d8?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "HeyCharge - X HeyCharge - X X https://x.com > @HeyCharge",
+    "url": "https://x.com/HeyCharge/status/1178497090332192768/photo/1",
+    "pass": 3
+   },
+   {
+    "quote": "HeyCharge (@HeyCharge) / Posts / X Power Bank Rental Solution Provider | HeyCharge HeyCharge offers power bank rental turnkey solutions, including branded rental stations, app, and management tool.",
+    "url": "https://x.com/heycharge",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "HeyCharge - LinkedIn HeyCharge - LinkedIn LinkedIn https://de.linkedin.com > heycharge",
+    "url": "https://de.linkedin.com/company/heycharge",
+    "pass": 3
+   },
+   {
+    "quote": "Chris Cardé – CEO @ HeyCharge | Ex-Google - LinkedIn Chris Cardé – CEO @ HeyCharge | Ex-Google - LinkedIn LinkedIn https://de.linkedin.com > pilotchris",
+    "url": "https://de.linkedin.com/in/pilotchris",
+    "pass": 3
+   },
+   {
+    "quote": "#evcharging #fleetelectrification #homecharging ... - LinkedIn #evcharging #fleetelectrification #homecharging ... - LinkedIn LinkedIn https://www.linkedin.com > posts > heycharge_evchargin...",
+    "url": "https://www.linkedin.com/posts/heycharge_evcharging-fleetelectrification-homecharging-activity-7417606627765338112-kK8X",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Hey Charge (@heychargeglobal) - Facebook Hey Charge (@heychargeglobal) - Facebook Facebook https://www.facebook.com > ... > Electronics Company",
+    "url": "https://www.facebook.com/heychargeglobal/",
+    "pass": 3
+   },
+   {
+    "quote": "HeyCharge | Munich - Facebook HeyCharge | Munich - Facebook Facebook https://www.facebook.com > ... > Other > Brand > Software",
+    "url": "https://www.facebook.com/heychargehq/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.heycharge.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.heycharge.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.heycharge.com/solutions/cpos/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.heycharge.com/solutions/building-owners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.heycharge.com/solutions/fleets/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.heycharge.com/solutions/utilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.heycharge.com/solutions/installers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.heycharge.com/solutions/parking-operators/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.heycharge.com/applications/company-car-at-home/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.heycharge.com/products/sdk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.heycharge.com/careers/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.heycharge.com/logos/vonovia.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.heycharge.com/logos/meag.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.heycharge.com/logos/rv.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.heycharge.com/logos/aroundtown.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://heycharge.global/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://heycharge.global/ja/about-us.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=LsafVwmjypw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000096.000060444.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.heycharge.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://heycharge.global/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.linkedin.com/company/heycharge",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.heycharge.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.heycharge.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://heycharge.global/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/heycharge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/heychargeglobal/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.hpe.com/us/en/customer-case-studies.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.athenaswc.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://highqa.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.anylogic.com/resources/case-studies/?industry=manufacturing",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.heycharge.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://heycharge.global/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chargelab.co/blog/white-label-ev-charger",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.heycharge.com/news/heycharge-wins-eic-accelerator-grant/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.linkedin.com/in/pilotchris",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.eu-startups.com/2026/02/germanys-heycharge-secures-e2-5-million-eic-grant-to-scale-offline-ev-charging-across-europe/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/heycharge/jobs/Q9Va4eK-head-of-engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/noto15/n/n43e94701a6d8?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/HeyCharge/status/1178497090332192768/photo/1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/heycharge",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/company/heycharge",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/pilotchris",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/heycharge_evcharging-fleetelectrification-homecharging-activity-7417606627765338112-kK8X",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/heychargeglobal/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/heychargehq/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/pilotchris",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Heycharge 日本 導入",
+   "results": [
+    "https://heycharge.global/ja/",
+    "https://heycharge.global/ja/about-us.html",
+    "https://www.youtube.com/watch?v=LsafVwmjypw",
+    "https://prtimes.jp/main/html/rd/p/000000096.000060444.html",
+    "https://yourstand-ev.com/what_is_a_charging_depot/",
+    "https://ev.gogo.gs/news/detail/1787903010",
+    "https://www.jetro.go.jp/biznews/2022/01/d418579578d32e19.html",
+    "https://www.youtube.com/watch?v=S2Qb9GSb7h8",
+    "https://idtechproducts.com/ja/solutions/ev-charging/",
+    "https://www.heycharge.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Heycharge 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.heycharge.com/",
+    "https://heycharge.global/",
+    "https://de.linkedin.com/company/heycharge",
+    "https://www.heycharge.com/contact/",
+    "https://heycharge.global/ja/",
+    "https://idtechproducts.com/ja/company/distributors/",
+    "https://ev-charger.jp/agency/",
+    "https://www.heycharge.com/terms/",
+    "https://www.hecgroup.com/distributors/",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Heycharge Japan",
+   "results": [
+    "https://www.heycharge.com/",
+    "https://heycharge.global/",
+    "https://www.ycombinator.com/companies/heycharge",
+    "https://www.facebook.com/heychargeglobal/",
+    "https://www.instagram.com/p/DMZ4qaDuRbF/",
+    "https://play.google.com/store/apps/details?id=powerbank.humanbeing.stone.com.sharepowerbank",
+    "https://www.alibaba.com/product-detail/heycharge-APP-coin-POS-system-integrated_1600830313161.html",
+    "https://x.com/heycharge",
+    "https://heycharge.en.alibaba.com/",
+    "https://heycharge.global/ja/about-us.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Heycharge manufacturing customer case study",
+   "results": [
+    "https://www.hpe.com/us/en/customer-case-studies.html",
+    "https://www.athenaswc.com/case-studies/",
+    "https://highqa.com/case-studies/",
+    "https://www.anylogic.com/resources/case-studies/?industry=manufacturing",
+    "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "https://www.zensar.com/assets/files/2FrcliCSvzBZjpTRHRPMlA/Case_Studies_eBook.pdf",
+    "https://www.hcltech.com/en-us/case-studies",
+    "https://aws.amazon.com/manufacturing/case-studies/",
+    "https://www.sitecore.com/solutions/customers",
+    "https://www.sotec.eu/en/case-study/heycharge/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Heycharge white label OR reseller OR partner program",
+   "results": [
+    "https://www.heycharge.com/",
+    "https://heycharge.global/",
+    "https://chargetronix.com/white-label-ev-chargers-oem-solutions-how-to-expand-your-charging-brand/",
+    "https://chargelab.co/blog/white-label-ev-charger",
+    "https://www.facebook.com/fb-answers/white-label-lead-generation-reseller-program/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://seedlycrm.com/blog/white-label-crm-playbook",
+    "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://www.reddit.com/r/GrowthHacking/comments/1rxruln/using_a_whitelabel_or_reseller_program_to/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Heycharge founded funding employees revenue",
+   "results": [
+    "https://www.heycharge.com/news/heycharge-wins-eic-accelerator-grant/",
+    "https://de.linkedin.com/in/pilotchris",
+    "https://www.eu-startups.com/2026/02/germanys-heycharge-secures-e2-5-million-eic-grant-to-scale-offline-ev-charging-across-europe/",
+    "https://www.ycombinator.com/companies/heycharge/jobs/Q9Va4eK-head-of-engineering",
+    "https://getlatka.com/companies/heygen",
+    "https://heycharge.global/operating/power-bank-rental-startup.html",
+    "https://www.businessinsider.com/heycharge-startup-lands-47m-from-bmw-using-this-pitch-deck-2022-1",
+    "https://www.upstartsmedia.com/p/exclusive-heygen-200m-arr-without-burn",
+    "https://gaps.com/recruiting/",
+    "https://compworth.com/company/heycharge"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Heycharge",
+   "results": [
+    "https://note.com/nihonunist/n/n8a315d66e692",
+    "https://note.com/noto15/n/n43e94701a6d8?hl=en",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/",
+    "https://note.com/tanya_volkova/n/n90e41233834e?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/tori_1980/n/n21037c205ade"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com Heycharge",
+   "results": [
+    "https://x.com/HeyCharge/status/1178497090332192768/photo/1",
+    "https://x.com/mhah717593/status/2112484106261107116",
+    "https://x.com/PWHL_Ottawa",
+    "https://x.com/heycharge",
+    "https://x.com/search-home",
+    "https://x.com/kaylefth/status/2120602914565599442",
+    "https://x.com/heyhey",
+    "https://x.com/cwoconsultancy/status/1543234582576873472",
+    "https://x.com/CogitoEdu/status/2117911840973861028",
+    "https://x.com/ChargeCLE"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:linkedin.com Heycharge",
+   "results": [
+    "https://de.linkedin.com/company/heycharge",
+    "https://de.linkedin.com/in/pilotchris",
+    "https://de.linkedin.com/in/lennart-bendick",
+    "https://www.linkedin.com/posts/heycharge_evcharging-fleetelectrification-homecharging-activity-7417606627765338112-kK8X",
+    "https://www.linkedin.com/posts/startuprise-europe_heycharge-evcharging-electricvehicles-activity-7429881354810552321-3YK_",
+    "https://de.linkedin.com/in/dr-robert-lasowski-0b60077b",
+    "https://ua.linkedin.com/in/sergey-sokolov-2480b743",
+    "https://www.linkedin.com/posts/intercharge-network-conference_emobility-evcharging-startupaward-activity-7488174929675436033-jyzc",
+    "https://www.linkedin.com/in/george-morrone-5337521b4",
+    "https://www.linkedin.com/company/heycharge"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Heycharge",
+   "results": [
+    "https://www.facebook.com/heychargeglobal/",
+    "https://www.facebook.com/heychargehq/",
+    "https://www.facebook.com/teamdytv/videos/power-bank-for-rent/1406975001284532/",
+    "https://www.facebook.com/payandgomalaysia/posts/new-spot-alert-our-sharing-power-bank-charge-n-go-now-available-at-wild-pantry-s/796461602536808/",
+    "https://www.facebook.com/WatchChargeTV/posts/hey-charge-fans-just-an-fyi-charge-streaming-is-down-at-moment-we-need-to-change/642763319540830/",
+    "https://www.facebook.com/payandgomalaysia/videos/try-our-sharing-powerbank-and-stay-charged-on-the-go-rent-one-now-and-charge-you/987214853199848/",
+    "https://www.facebook.com/payandgomalaysia/videos/you-can-actually-rent-a-powerbank-at-location-a-and-return-it-at-location-b-/1544793582755665/",
+    "https://www.facebook.com/powernowasia/videos/superfast-charge-powerbank-rental-services-in-malaysia-powernow-repower-powerban/715803404510651/",
+    "https://www.facebook.com/CharGoPower/posts/%EF%B8%8Falways-there-when-you-need-itchargo-rentachargo-powerbank/1240413007669701/",
+    "https://www.facebook.com/61568950771777/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Heycharge note 社長",
+   "results": [
+    "https://heycharge.global/ja/",
+    "https://www.heycharge.com/",
+    "https://de.linkedin.com/in/pilotchris",
+    "https://note.com/kentakato212/m/me837e4663584",
+    "https://note.com/yosuke77",
+    "https://www.heycharge.com/contact/",
+    "https://heycharge.global/ja/about-us.html",
+    "https://www.youtube.com/watch?v=796hK2y9pVE",
+    "https://note.com/noted_hetagi4752",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Heycharge X 投稿",
+   "results": [
+    "https://www.heycharge.com/",
+    "https://heycharge.global/ja/",
+    "https://www.businessinsider.com/heycharge-startup-lands-47m-from-bmw-using-this-pitch-deck-2022-1",
+    "https://play.google.com/store/apps/details?id=powerbank.humanbeing.stone.com.sharepowerbank",
+    "https://de.linkedin.com/company/heycharge",
+    "https://www.ycombinator.com/companies/heycharge",
+    "https://electrek.co/2026/01/26/offline-ev-chargers-are-a-mess-emobi-and-heycharge-have-a-fix/",
+    "https://www.hyecharge.com/",
+    "https://heycharge.global/product/cell-phone-power-bank-rental-stations.html",
+    "https://x.com/heycharge"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式11頁／PDF・画像4件／外部33頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式11頁／PDF・画像4件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式11頁／PDF・画像4件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像4件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式11頁／PDF・画像4件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式11頁／PDF・画像4件／外部33頁・検索12回）"
+ }
+}

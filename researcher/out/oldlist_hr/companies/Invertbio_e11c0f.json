@@ -1,0 +1,1191 @@
+{
+ "name": "Invertbio",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-11T23:51:54.562076+00:00",
+ "official_url": "https://invertbio.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021, Y Combinator Winter 2022 batch",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Invert — Infrastructure and Intelligence for Bioprocess",
+    "url": "https://invertbio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Invert connects your bioprocess equipment and data sources across process development and manufacturing. Do better science and move faster than ever, both upstream and downstream.",
+    "url": "https://invertbio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bioprocess teams spend over 50% of their time managing data. Exporting data from instruments, aligning timestamps, normalizing units all costs precious time. With Invert, scientists can focus on the most important work.",
+    "url": "https://invertbio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Solve problems across unit ops.",
+    "url": "https://invertbio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bioprocesses are complex, and no single team member can optimize the whole process. With Invert, data from all teams and sources are easily analyzed and learned from. Customers consistently gain process insights that would have been otherwise missed.",
+    "url": "https://invertbio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every run represents a significant investment. Process data and learnings are often lost to time. With Invert, every experiment contributes to your team",
+    "url": "https://invertbio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore process knowledge",
+    "url": "https://invertbio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Invert users report doing in minutes what previously took months. Whether writing reports or training predictive machine learning, Invert",
+    "url": "https://invertbio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Top-5 Biopharma with Active Digital Twin Program",
+    "url": "https://invertbio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Recovering 3,000+ FTE hours per program in CMC biologics development.",
+    "url": "https://invertbio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "hours saved per program",
+    "url": "https://invertbio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unified process data across process development and MSAT.",
+    "url": "https://invertbio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Priced around your stack, not a seat count.",
+    "url": "https://invertbio.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every bioprocess team's setup is different. Tell us about yours — equipment, facilities, modalities — and we'll come back with a tailored estimate.",
+    "url": "https://invertbio.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "s hardest data problem needs the most driven people.",
+    "url": "https://invertbio.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Drug development is one of the most consequential data problems of our time. The data lags behind experiments; it",
+    "url": "https://invertbio.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "t hire people who wait to be told what to do or what to build. We expect everyone to have ideas and execute.",
+    "url": "https://invertbio.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "re using it to help our customers produce life-saving treatments for patients.",
+    "url": "https://invertbio.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "s exactly why the problem is worth solving. If you want hard problems, full ownership, and work you",
+    "url": "https://invertbio.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "ll be proud to tell your family about, this is the place for you.",
+    "url": "https://invertbio.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive health, dental, and vision insurance for you and your dependents",
+    "url": "https://invertbio.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study | Top-5 Biopharma with Active Digital Twin Program",
+    "url": "https://invertbio.com/case-studies/digital-twin",
+    "pass": 1
+   },
+   {
+    "quote": "A Top-5 Biopharma had invested heavily in a bioprocess digital twin for upstream process development — over $2M in CapEx and six months of data science work to build the model. It worked. But it couldn't run properly, because the live run data it required wasn't accessible.",
+    "url": "https://invertbio.com/case-studies/digital-twin",
+    "pass": 1
+   },
+   {
+    "quote": "Top-5 Biopharma with Active Digital Twin Program",
+    "url": "https://invertbio.com/case-studies/digital-twin",
+    "pass": 1
+   },
+   {
+    "quote": "The company had committed significant resources to building a bioprocess digital twin for upstream process development: over $2M in Ambr250 hardware, dedicated data science headcount, and six months of modeling work. The digital twin was functional. The data infrastructure required to operate it was not.",
+    "url": "https://invertbio.com/case-studies/digital-twin",
+    "pass": 1
+   },
+   {
+    "quote": "The problem had two layers: no automated pipeline to the company's centralized data platform, and parameter naming inconsistent across instruments and scales — the digital twin required a unified namespace to correctly apply incoming data to its models.",
+    "url": "https://invertbio.com/case-studies/digital-twin",
+    "pass": 1
+   },
+   {
+    "quote": "An isolated system at the center of process development",
+    "url": "https://invertbio.com/case-studies/digital-twin",
+    "pass": 1
+   },
+   {
+    "quote": "Invert solved both problems faster than a PI integration could. Direct OPC and file-based connection to the Ambr250, capturing more data than PI could access. Offline instrument results and ELN metadata unified into a harmonized, batch-centric dataset. Everything exposed via API for the centralized data platform to consume in near real-time. The integration went live in days.",
+    "url": "https://invertbio.com/case-studies/digital-twin",
+    "pass": 1
+   },
+   {
+    "quote": "Model training + deployment",
+    "url": "https://invertbio.com/case-studies/digital-twin",
+    "pass": 1
+   },
+   {
+    "quote": "Invert connected to the Ambr250 via a hybrid OPC and file-based integration, capturing not just time-series process parameters but also temporary files, system logs, and event data that PI could not access. No changes to the Ambr250 system were required.",
+    "url": "https://invertbio.com/case-studies/digital-twin",
+    "pass": 1
+   },
+   {
+    "quote": "The company didn't want Invert to replace its centralized data platform — it wanted Invert to feed it. Invert's API gave the team a programmatic interface to pull structured, harmonized data — parent metrics, formulas, and unit conversions — directly into their modeling environment on an automated basis.",
+    "url": "https://invertbio.com/case-studies/digital-twin",
+    "pass": 1
+   },
+   {
+    "quote": "The six historical Ambr250 experiments were also ingested during implementation, creating a structured archive that could be queried, compared, and used for model training alongside incoming live data.",
+    "url": "https://invertbio.com/case-studies/digital-twin",
+    "pass": 1
+   },
+   {
+    "quote": "The digital twin program is now operational — giving the data science team the proof points needed to secure additional funding and resources.",
+    "url": "https://invertbio.com/case-studies/digital-twin",
+    "pass": 1
+   },
+   {
+    "quote": "End user adoption is increasing as scientists engage directly with the digital twin for the first time, realizing the benefits of a program years in the making.",
+    "url": "https://invertbio.com/case-studies/digital-twin",
+    "pass": 1
+   },
+   {
+    "quote": "Process optimization is accelerating as the digital twin receives higher-quality, real-time data with every run.",
+    "url": "https://invertbio.com/case-studies/digital-twin",
+    "pass": 1
+   },
+   {
+    "quote": "3,000+ FTE hours recovered per program.",
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "pass": 1
+   },
+   {
+    "quote": "A Global Top-10 Biopharma and Biologics CDMO running upstream and downstream CMC programs was losing over 3,000 FTE hours per program to manual data work. They deployed Invert starting with file-based ingestion alone, no changes to validated systems, and compressed that burden to under 75 hours per program.",
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "pass": 1
+   },
+   {
+    "quote": "FTE hours saved per program",
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "pass": 1
+   },
+   {
+    "quote": "The team pulled experimental data from five to six separate systems before analysis could begin: bioreactor exports, daily offline sample logs, analytical results from HPLC and osmometry, and batch metadata from their ELN. Reconciling them into a usable dataset required manual effort per batch. The problems compounded across the program lifecycle.",
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "pass": 1
+   },
+   {
+    "quote": "A data problem hiding inside a science problem",
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "pass": 1
+   },
+   {
+    "quote": "Matching data to the correct program, batch, process version, and scale required manual work every time. Normalizing parameter naming conventions, matching timestamps, and setting up a visualization environment consumed 40 hours of configuration before a single chart could be produced.",
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "pass": 1
+   },
+   {
+    "quote": "Process characterization bottlenecked by data assembly",
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "pass": 1
+   },
+   {
+    "quote": "PC studies require cross-batch comparisons, multivariate analysis, and traceability from raw run data to conclusions about product quality. When the underlying data infrastructure is manual, report generation, deviation investigations, and root cause analysis each add days of overhead before actual scientific work can begin.",
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "pass": 1
+   },
+   {
+    "quote": "Cost compounding across the program lifecycle",
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "pass": 1
+   },
+   {
+    "quote": "Beyond individual batches and PC studies, the manual burden accumulated at every stage: retrospective analyses for scale-up decisions, tech transfer documentation, and cross-program comparisons. Each activity represented time scientists could spend advancing programs rather than assembling data.",
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "pass": 1
+   },
+   {
+    "quote": "Batch + process metadata",
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "pass": 1
+   },
+   {
+    "quote": "Bioreactor exports, offline sample logs, and analytical results ingested automatically. Data matched to the correct batch context from the ELN, normalized across instruments, and tagged by batch ID, process version, scale, and program.",
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "pass": 1
+   },
+   {
+    "quote": "Post-batch data aggregation dropped from 20 hours to minutes. Visualization setup that consumed 40 hours per batch became instant. Scientists could compare runs across scales and process versions without assembling a single spreadsheet.",
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "pass": 1
+   },
+   {
+    "quote": "With a complete, structured batch history instantly searchable, deviation investigations start from context rather than from a data retrieval exercise. Closure timelines compressed by 90%, reducing both investigation cost and timeline impact.",
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "pass": 1
+   },
+   {
+    "quote": "With structured, queryable batch data available, the team generates process characterization reports directly from accumulated run data using Invert Assist. Using an existing PC report as a template, Assist drafts new reports complete with cross-batch plots, statistical summaries, and parameter trend analyses. Scientists review and refine rather than build from scratch.",
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "pass": 1
+   },
+   {
+    "quote": "Report generation time dropped 98%. Assist surfaces conclusions that were not specifically asked about but were impactful to the process — turning what would have been days or weeks of manual work into a five-minute analysis.",
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "pass": 1
+   },
+   {
+    "quote": "The system was picking up and reporting on conclusions that were not specifically asked about, but were impactful to the process. If I had to do all this work myself, it could have taken days or weeks. The analysis took five minutes.",
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "pass": 1
+   },
+   {
+    "quote": "Per-batch data prep time reduced from 106 hours to 1.7 hours.",
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "pass": 1
+   },
+   {
+    "quote": "1.7 to 2 FTEs recovered annually per program — time redirected from data assembly to science.",
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "pass": 1
+   },
+   {
+    "quote": "Deviation closure timelines compressed by 90%, reducing both investigation cost and client program impact.",
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "pass": 1
+   },
+   {
+    "quote": "A sandbox loaded with synthetic runs for your modality and the part of the process you work in. Free for 2 weeks.",
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "pass": 1
+   },
+   {
+    "quote": "Process Development & MSAT Case Study | Invert",
+    "url": "https://invertbio.com/case-studies/bioreactor-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Unified process data across process development and MSAT.",
+    "url": "https://invertbio.com/case-studies/bioreactor-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Before working with Invert, the company had invested in a traditional data historian for bioprocess data collection and standardized on an ELN for experimental records, batch metadata, and analytical results. The systems worked, but connecting them did not scale.",
+    "url": "https://invertbio.com/case-studies/bioreactor-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Building a custom solution in-house would have cost $200K to $400K, taken 12 to 18 months, and demanded engineering resources they didn't have. The problems compounded into one.",
+    "url": "https://invertbio.com/case-studies/bioreactor-platforms",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Invert connects your bioprocess equipment and data sources across process development and manufacturing. Do better science and move faster than ever, both upstream and downstream.",
+    "url": "https://invertbio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The next frontier of AI is the physical world. Manufacturing floors, bioreactors, and lab instruments are generating signals that have never been captured at scale. We built Invert to be ready for that moment. We’re a fully remote team.",
+    "url": "https://invertbio.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Twin Case Study | Invert",
+    "url": "https://invertbio.com/case-studies/digital-twin",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study | Top-5 Biopharma with Active Digital Twin Program",
+    "url": "https://invertbio.com/case-studies/digital-twin",
+    "pass": 1
+   },
+   {
+    "quote": "CMC Biologics Case Study | Invert",
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study | Global Top-10 Biopharma and Biologics CDMO",
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "pass": 1
+   },
+   {
+    "quote": "Process Development & MSAT Case Study | Invert",
+    "url": "https://invertbio.com/case-studies/bioreactor-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study | Clinical-Stage In Vivo Cell Therapy Company",
+    "url": "https://invertbio.com/case-studies/bioreactor-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Case study · Global Top-10 Biopharma and Biologics CDMO",
+    "url": "https://invertbio.com/solutions/process-development",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study",
+    "url": "https://invertbio.com/solutions/process-development",
+    "pass": 1
+   },
+   {
+    "quote": "Case study · Clinical-Stage In Vivo Cell Therapy Company",
+    "url": "https://invertbio.com/solutions/msat",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study",
+    "url": "https://invertbio.com/solutions/msat",
+    "pass": 1
+   },
+   {
+    "quote": "Case study · Top-5 Biopharma with Active Digital Twin Program",
+    "url": "https://invertbio.com/solutions/rd-digital",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study",
+    "url": "https://invertbio.com/solutions/rd-digital",
+    "pass": 1
+   },
+   {
+    "quote": "Case study · Top-5 Biopharma with Active Digital Twin Program",
+    "url": "https://invertbio.com/solutions/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study",
+    "url": "https://invertbio.com/solutions/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "In industrial biotech and precision fermentation, competitive advantage comes from how quickly every run becomes a better next experiment — and how confidently your team can carry that learning from bench to pilot, CDMO, and production. Invert helps keep the full process history organized, so promising biology has a better path to real-world scale.",
+    "url": "https://invertbio.com/solutions/microbial",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial / synbio fermentation",
+    "url": "https://invertbio.com/assist-trial?s=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Pharmaceutical Manufacturing",
+    "url": "https://www.casestudies.com/company/invert",
+    "pass": 3
+   },
+   {
+    "quote": "Data platform and AI assistant that connects bioreactors, lab instruments and databases so biomanufacturing teams can analyse their process data.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Data platform and AI assistant that connects bioreactors, lab instruments and databases so biomanufacturing teams can analyse their process data. Scientists who develop and run biological manufacturing processes collect data from many instruments and systems, and Invert says they spend over half their time managing that data.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Not public by name. Case studies describe a top-10 global biopharma, a top-10 biopharma and biologics contract manufacturer and a clinical-stage cell therapy company",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Healthcare Foresights values the global bioprocess automation software market at US$1.90 billion in 2026, growing to US$6.19 billion by 2035. That is an adjacent category, not Invert's exact segment. Grand View Research sizes the AI in life sciences market at US$2.5 billion in 2024, which covers AI across drug discovery and life sciences rather than manufacturing data.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Growing cells or microbes in bioreactors to make a drug, an ingredient or a food product produces data from sensors, analysers, lab notebooks and plant systems. Those sources rarely share a format, so scientists often copy results into spreadsheets before they can compare runs.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Invert says teams spend over 50% of their time managing data. As processes move from the lab to full-scale manufacturing, the data also has to be traceable for regulators.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Invert's approach is to connect the sources first and then put analysis on top, most recently through an assistant that writes the code for questions asked in plain English. In a March 2024 interview, Permin described early traction in synthetic biology and industrial biotech, with growing use in biopharma.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "For process development and manufacturing teams in biopharma and industrial biotech",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Biopharma and industrial biotechnology manufacturing data",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "manufacturing, SaaS, AWS, Next.js, PostgreSQL, Python",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Two signals: the company's site lists integrations with 30+ named equipment and software vendors, and the company lists compliance claims that regulated manufacturers look for, namely ISO 27001, SOC 2 and 21 CFR Part 11. Switching in a regulated process carries cost.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Biopharma and biomanufacturing, B2B",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "One case study describes operationalising a digital twin worth over US$2 million in under a month, per the company.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Another case study reports 3,046 hours saved per program and about a 98% reduction in manual data work, per the company.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Invert's site describes case studies at a top-10 biopharma, a biologics contract manufacturer and a cell therapy company, but names none of them. Which organisations use it, and how many are paying customers?",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Process development and manufacturing teams in biopharma and industrial biotech that want their instrument and lab data in one place.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Invert sells software that gathers data from bioreactors, lab instruments and other systems used to make biologic drugs. Process scientists get one place to see and analyse that data instead of chasing spreadsheets. It adds AI analysis on top for process development and manufacturing teams.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Biopharma companies and contract manufacturers (CDMOs), from clinical-stage firms to global top-10 players. The company does not name individual customers, only describes them by type.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "The data is stored and organised across process development and manufacturing runs.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "AI quality control in GxP drug manufacturing",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Regulated plants need AI that improves yield while meeting quality rules. It is a neighbouring use of process data.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Real-time plant intelligence for manufacturers",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Process industries want live AI insight to cut variability across plants, which extends bioprocess analytics to other sectors.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "AI software for pharmaceutical manufacturing quality and yield.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Aizon centres on GxP production plants, while Invert covers process development as well.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Even when data arrived on time, the digital twin couldn't reliably consume it. The model had been built around specific parameter definitions, but those same parameters were labeled differently across instruments and bioreactor scales. Without a harmonized data layer, deploying the model against new run data required manual tag reconciliation every time.",
+    "url": "https://invertbio.com/case-studies/digital-twin",
+    "pass": 1
+   },
+   {
+    "quote": "A sandbox loaded with synthetic runs for your modality and the part of the process you work in. Free for 2 weeks.",
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "pass": 1
+   },
+   {
+    "quote": "The deployment required no changes to validated systems, no schema modifications, and no retraining. Consolidating data acquisition, monitoring, analysis, and visualization into one platform removed an entire layer of manual data prep. Scientists now spend time on process decisions, not data assembly.",
+    "url": "https://invertbio.com/case-studies/bioreactor-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "ISO/IEC 27001:2022 certified. Comprehensive Information Security Management System (ISMS) with controls regularly assessed and enhanced as part of a continuous improvement cycle.",
+    "url": "https://invertbio.com/compliance",
+    "pass": 1
+   },
+   {
+    "quote": "Bench, pilot, GMP, and CDMO data each arrive in their own format. Comparing a 2,500L run to a 15,000L run means reconciling parameter names, realigning sampling intervals, and trusting nothing got lost in translation. The analysis takes a day while the prep takes a week.",
+    "url": "https://invertbio.com/solutions/msat",
+    "pass": 1
+   },
+   {
+    "quote": "In industrial biotech and precision fermentation, competitive advantage comes from how quickly every run becomes a better next experiment — and how confidently your team can carry that learning from bench to pilot, CDMO, and production. Invert helps keep the full process history organized, so promising biology has a better path to real-world scale.",
+    "url": "https://invertbio.com/solutions/microbial",
+    "pass": 1
+   },
+   {
+    "quote": "Invert was founded by Martin Tromp Permin (Co-founder and CEO), Holger Thorup (listed as a founder by Y Combinator), per public sources.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "(listed as a founder by Y Combinator)",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "A specialist data platform with a clear buyer, a long integration list stated on its site and stated compliance credentials, now adding an AI assistant. Customers and revenue are not public.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Per Y Combinator, CEO Martin Tromp Permin previously worked at Airbnb and Hive and describes an interest in biology and data. The listed co-founder Holger Thorup was previously VP of Engineering at ZeroNorth and founded Pelion.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Two signals: the company's site lists integrations with 30+ named equipment and software vendors, and the company lists compliance claims that regulated manufacturers look for, namely ISO 27001, SOC 2 and 21 CFR Part 11. Switching in a regulated process carries cost.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Customers are not public by name; the site describes unnamed top-10 biopharma companies. A Series A in June 2024 is listed by Tracxn, and Tracxn reports 40 employees as of July 2026.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Live product with a Series A; 40 employees per Tracxn (July 2026)",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "The public material shows the integrations and compliance claims but not customer names or revenue.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Founder, listed as CTO on other profiles",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Listed by Y Combinator as a founder. Previously VP of Engineering at ZeroNorth and CTO and founder at Pelion, with a consulting background.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Invert lists a Series A in June 2024 led by ACME and Giant Ventures, after a Y Combinator seed in January 2022, and reports 40 employees as of July 2026.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "No public revenue or ARR figure found.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation as a multiple of ARR",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Not shown: it needs both a valuation and an ARR figure from a company, investor or named-press source, within 12 months of each other. We do not estimate either.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "We wrote this Spotlight from public material, as part of our series on the companies building with AI.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Invert Revenue 2024: $5M Est.",
+    "url": "https://getlatka.com/companies/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Invert has not published its revenue. GetLatka estimates it at about $5M a year (June 2024).",
+    "url": "https://getlatka.com/companies/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Invert CEO, founders & employees",
+    "url": "https://getlatka.com/companies/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Martin T. Permin founded Invert in 2021 and runs it as CEO. Invert had 40 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Invert's revenue?",
+    "url": "https://getlatka.com/companies/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Invert's revenue at about",
+    "url": "https://getlatka.com/companies/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Invert have?",
+    "url": "https://getlatka.com/companies/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/invertbio.com",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Case Studies | Invert - invertbio.com — What the data layer looks like in production. Real architectures, real numbers, named.",
+    "url": "https://invertbio.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Invert - AIツールレビュー | AIniche — バイオプロセスデータを自動収集・分析し、リアルタイムの意思決定を支援するライフサイエンス専用のAIプラットフォーム 有料Web 公式サイトへinvertbio.com Aidoc と比較 Invert の代替ツールを見る",
+    "url": "https://ainiche.net/ja/tools/invert",
+    "pass": 3
+   },
+   {
+    "quote": "Made in Invert | Invert - invertbio.com — Aug 12, 2026 · Explore live examples of analyses and models built in Invert. Some recreate methods from published research; others demonstrate established approaches developed by our data science team. Each shows the complete path from a question to the code, the charts, and a clear finding.",
+    "url": "https://invertbio.com/showcase",
+    "pass": 3
+   },
+   {
+    "quote": "Integrations | Invert - invertbio.com — Invert operates at the ISA-95 Level 3/4 boundary, ingesting from instruments, historians, and MES (Levels 2–3) and exposing structured data to enterprise systems (Level 4). The run-centric data model aligns with ISA-88 procedural hierarchy. Invert is an analytical and reporting layer.",
+    "url": "https://invertbio.com/product/integrations",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Invert - invertbio.com — Cell therapy, biologics, and CDMO teams using Invert in production — unlocked AI programs, thousands of hours recovered, deviations closed in days.",
+    "url": "https://invertbio.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Invert (invertbio.com): Health company profile | Present of AI — Oct 28, 2026 · Its site lists 30+ equipment and software vendor integrations, including Sartorius, Cytiva, Benchling and Rockwell Automation, and its case studies describe unnamed top-10 biopharma customers.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Process Development & MSAT Case Study | Invert - invertbio.com — How a Clinical-Stage In Vivo Cell Therapy Company unified process data across process development and MSAT with Invert — replacing a legacy historian with zero new headcount.",
+    "url": "https://invertbio.com/case-studies/bioreactor-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Invert Bio 2026 Company Profile: Valuation, Funding ...Invert: Funding, Investors & Team (Nov 2026) | FundedIQInvert - 2026 Company Profile, Team, Funding & Competitors ...Invert raised $500K: investors, founders | Recent FundingInvert - Products, Competitors, Financials, Employees ...Invert Valuation & Funding History | Caplight — Information on valuation, funding, cap tables, investors, and exec",
+    "url": "https://pitchbook.com/profiles/company/494671-69",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Get the AI Hiring Index data and new AI jobs in the daily digest, plus the daily Spotlight. Free, and every email has an unsubscribe link.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   },
+   {
+    "quote": "and we email you when new roles match.",
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Invert - LinkedIn Website https://www.invertbio.com Industry Biotechnology Research Company size 11-50 employees Headquarters San Francisco, California",
+    "url": "https://www.linkedin.com/company/invertinc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Invert Bio - Facebook Invert Bio is on Facebook. Join Facebook to connect with Invert Bio and others you may know. Facebook gives people the power to share and makes the world...",
+    "url": "https://www.facebook.com/people/Invert-Bio/100053511142702/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://invertbio.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://invertbio.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://invertbio.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://invertbio.com/case-studies/digital-twin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://invertbio.com/case-studies/cmc-biologics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://invertbio.com/case-studies/bioreactor-platforms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://invertbio.com/compliance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://invertbio.com/solutions/process-development",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://invertbio.com/solutions/msat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://invertbio.com/solutions/rd-digital",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://invertbio.com/solutions/leadership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://invertbio.com/solutions/cdmo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://invertbio.com/solutions/biologics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://invertbio.com/solutions/cell-therapy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://invertbio.com/solutions/gene-therapy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://invertbio.com/solutions/microbial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://invertbio.com/assist-trial?s=case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://invertbio.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://invertbio.com/logos/sartorius.svg?dpl=dpl_9ieaThvZPeyoPvEu9yFrWT5z2ko7",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://invertbio.com/logos/eppendorf.svg?dpl=dpl_9ieaThvZPeyoPvEu9yFrWT5z2ko7",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://invertbio.com/logos/cytiva.svg?dpl=dpl_9ieaThvZPeyoPvEu9yFrWT5z2ko7",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://invertbio.com/logos/getinge-applikon.svg?dpl=dpl_9ieaThvZPeyoPvEu9yFrWT5z2ko7",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ainiche.net/ja/tools/invert",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153268.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unival.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cosmobio.co.jp/agency/brevitycode.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inbio.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/invert",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/invertinc_digital-twin-case-study-invert-activity-7518395003124035584-D5bA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://presentofai.com/spotlight/invertbio.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/invertbio.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/494671-69",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/invert-invertbio-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/invert/__ncYTrLXYPbQlZ5_P1TOjxIWDWkub6HAXEiEMsAwTNb8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/invertinc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/Invert-Bio/100053511142702/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Invertbio 日本 導入",
+   "results": [
+    "https://invertbio.com/case-studies",
+    "https://ainiche.net/ja/tools/invert",
+    "https://invertbio.com/",
+    "https://car.watch.impress.co.jp/docs/news/2153268.html",
+    "https://www.firstcvc.jp/global/invertbio.com",
+    "https://www.shionogi.com/jp/ja/news/2026/10/20261005_02.html",
+    "https://biosearch.co.jp/news/news-2026-11-09-0001/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Invertbio 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.unival.jp/",
+    "https://invertbio.com/",
+    "https://www.cosmobio.co.jp/agency/brevitycode.asp",
+    "https://inbio.com/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.linkedin.com/company/invertinc",
+    "https://www.ucbjapan.com/about-ucb/summary"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Invertbio Japan",
+   "results": [
+    "https://invertbio.com/showcase",
+    "https://invertbio.com/product/integrations",
+    "https://invertbio.com/case-studies",
+    "https://invertbio.com/",
+    "https://invertbio.com/solutions/biologics",
+    "https://invertbio.com/solutions/process-development",
+    "https://invertbio.com/docs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Invertbio manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/invert",
+    "https://www.linkedin.com/posts/invertinc_digital-twin-case-study-invert-activity-7518395003124035584-D5bA",
+    "https://presentofai.com/spotlight/invertbio.com",
+    "https://invertbio.com/case-studies",
+    "https://invertbio.com/case-studies/bioreactor-platforms",
+    "https://www.linkedin.com/company/invertinc",
+    "https://blog.invertbio.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Invertbio white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/",
+    "https://www.extremenetworks.com/partners",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Invertbio founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/invertbio.com",
+    "https://pitchbook.com/profiles/company/494671-69",
+    "https://fundediq.co/invert-invertbio-com-funding/",
+    "https://tracxn.com/d/companies/invert/__ncYTrLXYPbQlZ5_P1TOjxIWDWkub6HAXEiEMsAwTNb8",
+    "https://recentfunding.com/companies/invert/",
+    "https://www.cbinsights.com/company/invert-1",
+    "https://www.caplight.com/company/invertbio"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Invertbio",
+   "results": [
+    "https://note.com/tag/Intelligent+UI",
+    "https://note.com/wise_turtle184",
+    "https://note.com/royal_vole835",
+    "https://note.com/deep_stoat7586/n/n12f3a9aaa329?hl=en",
+    "https://note.com/piamy_/n/na26c866d2274",
+    "https://note.com/chatgpt_otaku/n/nfec5ee18511a",
+    "https://note.com/bonustrack/n/n4da55d43b918"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Invertbio",
+   "results": [
+    "https://x.com/",
+    "https://x.com/BioAIFrontier/status/2120433948555612261",
+    "https://x.com/InvertTheWing/status/2103463546264969474",
+    "https://x.com:2096/purrmin",
+    "https://x.com/BioInvert_",
+    "https://x.com/Inversionism",
+    "https://x.com/Inversionism/reposts"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Invertbio",
+   "results": [
+    "https://www.linkedin.com/company/invertinc",
+    "https://www.linkedin.com/company/invertinc/life/",
+    "https://www.linkedin.com/company/bioinvert",
+    "https://www.linkedin.com/company/invertinc/jobs",
+    "https://www.linkedin.com/in/permin",
+    "https://www.linkedin.com/posts/invertinc_biomanufacturing-biotech-bioprocessing-activity-7173699565521379329-lUaa",
+    "https://www.linkedin.com/posts/invertinc_analyzing-real-time-time-series-data-in-bioprocess-activity-7396226388472774656-rUpb"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Invertbio",
+   "results": [
+    "https://www.facebook.com/people/Invert-Bio/100053511142702/",
+    "https://www.facebook.com/profile.php/?id=100071759500440",
+    "https://secure.facebook.com/login/",
+    "https://secure.facebook.com/",
+    "https://business.facebook.com/groups/3547097885399537/",
+    "https://www.facebook.com/p/BioInvert-100075958836456/",
+    "https://www.facebook.com/groups/davisinvertbio/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Invertbio note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.cbinsights.com/company/invert-1/people",
+    "https://invertbio.com/",
+    "https://nthbio.invertbio.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Invertbio X 投稿",
+   "results": [
+    "https://invertbio.com/showcase",
+    "https://invertbio.com/",
+    "https://app.invertbio.com/login",
+    "https://invertbio.com/docs/faq",
+    "https://oobli.invertbio.com/",
+    "https://onego.invertbio.com/",
+    "https://invertbio.com/docs/user-guides"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部18頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部18頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部18頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部18頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部18頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部18頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部18頁・検索12回）"
+ }
+}

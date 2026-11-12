@@ -1,0 +1,290 @@
+{
+ "name": "有限会社キョーシン 横浜川和工場",
+ "aliases": [],
+ "context": "ipros_all:小ロット",
+ "researched_at": "2026-11-11T23:29:38.635731+00:00",
+ "official_url": "http://anodizing.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "齋藤　剛",
+    "url": "http://anodizing.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒224-0057神奈川県横浜市都筑区川和町2709",
+    "url": "http://anodizing.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "14名",
+    "url": "http://anodizing.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "19名",
+    "url": "https://mono.ipros.com/company/detail/2034820/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "アルミの表面処理 アクリルキーホルダーのサイト http://www.anodizing.jp/uv_info/",
+    "url": "http://anodizing.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "株式会社ナックイメージテクノロジー\n株式会社ケル\nその他多数 (順不同・敬称略) ※モバイル、遊戯機器、航空、宇宙、電機、通信、医療、モータースポーツ全般",
+    "url": "https://mono.ipros.com/company/detail/2034820/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "製品分野": [
+   {
+    "quote": "医療の現場や交通機関その他、色々なところで皆さんの生活に馴染んでいます",
+    "url": "http://anodizing.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "※モバイル、遊戯機器、航空、宇宙、電機、通信、医療、モータースポーツ全般",
+    "url": "https://mono.ipros.com/company/detail/2034820/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email : info@anodizing.jp",
+    "url": "http://anodizing.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "Email:info@anodizing.jp",
+    "url": "http://anodizing.jp/case.html",
+    "pass": 1
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "製品・サービス(1)",
+    "url": "https://mono.ipros.com/company/detail/2034820/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム製品に対して一環作業が可能なため精密部品など主に運送中におこる、腐食、傷等を避けるとともに小ロット、短納期処理が可能となります",
+    "url": "https://mono.ipros.com/company/detail/2034820/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (1)",
+    "url": "https://mono.ipros.com/company/detail/2034820/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "アルミニウム製品に対して一環作業が可能なため精密部品など主に運送中におこる、腐食、傷等を避けるとともに小ロット、短納期処理が可能となります",
+    "url": "https://mono.ipros.com/company/detail/2034820/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://anodizing.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://anodizing.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://anodizing.jp/case.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "http://www.anodizing.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2034820/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matching.idec.or.jp/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%83%A7%E3%83%BC%E3%82%B7%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoshin-inc.jp/contact.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoshin-ltd.net/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cs368.xbit.jp/~w045142/form/form.cgi",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "キョーシン 横浜川和工場 取扱製品 試作 小ロット",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "キョーシン 横浜川和工場 会社概要 事業内容",
+   "results": [
+    "http://www.anodizing.jp/company.html",
+    "https://mono.ipros.com/company/detail/2034820/",
+    "https://matching.idec.or.jp/有限会社キョーシン",
+    "https://www.y-shikouren.or.jp/networkplus/hyoji.php?targetid=5410",
+    "http://anodizing.jp/",
+    "https://mono.ipros.com/product/detail/2001603484/",
+    "https://ja.nc-net.or.jp/company/89191/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "キョーシン 横浜川和工場 お問い合わせ メール",
+   "results": [
+    "https://kyoshin-inc.jp/contact.html",
+    "https://kyoshin-ltd.net/contact/",
+    "https://cs368.xbit.jp/~w045142/form/form.cgi",
+    "http://anodizing.jp/",
+    "http://www.koshin-t.co.jp/contact.html",
+    "https://kyoshin-sk.co.jp/contact-us/",
+    "https://www.kk-kyoushin.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com キョーシン 横浜川和工場",
+   "results": [
+    "https://note.com/keniki_sdgs/n/n73f7bac8ac20",
+    "https://note.com/cerezo_micorazon/n/n9f7cebd8d737",
+    "https://note.com/hamamiraipj/n/n2afaf368176e",
+    "https://note.com/naota_t/n/n998d3da64cb5",
+    "https://note.com/stninfo_k/n/n2a608a310c98",
+    "https://note.com/hazukiika/n/n53a5e15bf764",
+    "https://note.com/loyal_ivy9071/n/nfa5b97a43a30"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com キョーシン 横浜川和工場",
+   "results": [
+    "https://jf.x.com/images/media-preview/2119201031100006717",
+    "https://jf.x.com/images/media-preview/2119030178458525720",
+    "https://x.com/info_kyouko/status/721857379105542144",
+    "https://x.com/info_kyouko",
+    "https://x.com/vasavavikaskum4/status/2109532131190087721",
+    "https://x.com/mino_lin_rin/status/2086483568600178859",
+    "https://x.com/bThjImMcZGl1ucE/status/2119802431341269431"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com キョーシン 横浜川和工場",
+   "results": [
+    "https://jp.linkedin.com/in/yutaro-kawahira-8b4a47240",
+    "https://jp.linkedin.com/in/shin-ishii-3a2255157",
+    "https://www.linkedin.com/company/luna-software-solutions",
+    "https://www.linkedin.com/login/da",
+    "https://de.linkedin.com/in/andreas-schneck-0250093",
+    "https://nl.linkedin.com/in/chamminga",
+    "https://my.linkedin.com/jobs/view/senior-manager-client-consulting-ngpo-at-visa-4471454523"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com キョーシン 横浜川和工場",
+   "results": [
+    "https://www.facebook.com/株式会社キョーシン-345674982191267/",
+    "https://www.facebook.com/p/株式会社Kyo-shin-61575757893827/",
+    "https://www.facebook.com/kk.yamaboshi/",
+    "https://www.facebook.com/株式会社　KYO-SHiN（エコリラ）/videos/904216431465142/",
+    "https://www.facebook.com/株式会社　KYO-SHiN（エコリラ）/videos/944449324361618/",
+    "https://www.facebook.com/reel/291360317309561/",
+    "https://www.facebook.com/kyoshinreinetsu/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "キョーシン 横浜川和工場 note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "キョーシン 横浜川和工場 X 投稿",
+   "results": [
+    "http://www.anodizing.jp/company.html",
+    "https://matching.idec.or.jp/有限会社キョーシン",
+    "https://mono.ipros.com/company/detail/2034820/",
+    "http://anodizing.jp/",
+    "https://x.com/info_kyouko",
+    "https://x.com/kline_jpn/status/2120079456668987895",
+    "https://www.k-kyosin.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索9回）"
+ }
+}

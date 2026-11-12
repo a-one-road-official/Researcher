@@ -1,0 +1,964 @@
+{
+ "name": "Generalproximity",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Biotechnology｜未接触",
+ "researched_at": "2026-11-11T23:43:54.759051+00:00",
+ "official_url": "https://www.generalproximity.bio/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$16,000,000",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, California, United States",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Next-Gen Proximity Medicines | General Proximity",
+    "url": "https://www.generalproximity.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Programmable medicines for all mankind.",
+    "url": "https://www.generalproximity.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "First Principles: All biological processes are driven by proximity.",
+    "url": "https://www.generalproximity.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "We’ve built the first generalized, mechanism-agnostic, proximity discovery engine.",
+    "url": "https://www.generalproximity.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Our genomes code for thousands of intricate molecular machines—effector proteins—which regulate all aspects of biology. These include chaperone, adaptor proteins, and trafficking proteins, all post-translational modification (PTM) readers/writers/erasers, and many others.",
+    "url": "https://www.generalproximity.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "In aggregate, these effector proteins comprise the ‘effectome’: the set of all proteins which modulate other proteins to control biology.",
+    "url": "https://www.generalproximity.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "To us they represent something even more: a boundless array of untapped biological tools.",
+    "url": "https://www.generalproximity.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Proximity is a master regulator of biology. All biological processes are controlled through proximity on some level.",
+    "url": "https://www.generalproximity.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Interactions or ‘proximity events’ between ‘target’ and ‘effector proteins’ can result in a vast constellation of downstream biology on a target protein—activation, refolding, re-localization, re-programming, functional modulation, degradation, etc. Manipulation of a given protein’s proximity topology thus enables nearly arbitrary control of that protein's function and biology.",
+    "url": "https://www.generalproximity.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Our unbiased effector discovery platform allows us to discover the most powerful proximity mechanisms for a given target, enabling the development of highly-efficacious proximity therapeutics for targets previously beyond the reach of medicine.",
+    "url": "https://www.generalproximity.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborating with world-class institutions to create next gen proximity medicines",
+    "url": "https://www.generalproximity.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "FDA Approved Medicines",
+    "url": "https://www.generalproximity.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Work alongside a world-class team of proximity medicine scientists to end “undruggables”",
+    "url": "https://www.generalproximity.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Careers in Next-Gen Medicine | General Proximity",
+    "url": "https://www.generalproximity.bio/careers",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 General Proximity",
+    "url": "https://www.generalproximity.bio/careers",
+    "pass": 1
+   },
+   {
+    "quote": "General Proximity | Funding Rounds & Investor Information (Global Startup) | FIRST CVC",
+    "url": "https://en.firstcvc.jp/global/generalproximity.bio",
+    "pass": 3
+   },
+   {
+    "quote": "本ページの企業情報は、公式サイト（https://generalproximity.bio）および公開情報（報道・プレスリリース等）をもとにAIが調査・要約したものです",
+    "url": "https://en.firstcvc.jp/global/generalproximity.bio",
+    "pass": 3
+   },
+   {
+    "quote": "General Proximityの資金調達の推移",
+    "url": "https://en.firstcvc.jp/global/generalproximity.bio",
+    "pass": 3
+   },
+   {
+    "quote": "Pre-Series A（2026-05）",
+    "url": "https://en.firstcvc.jp/global/generalproximity.bio",
+    "pass": 3
+   },
+   {
+    "quote": "General Proximity Announces Multi-Target Collaboration with Daiichi Sankyo to Discover and Advance Novel Oncology Therapeutics Using OmniTAC™ Platform - BioSpace",
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "pass": 3
+   },
+   {
+    "quote": "General Proximity Announces Multi-Target Collaboration with Daiichi Sankyo to Discover and Advance Novel Oncology Therapeutics Using OmniTAC™ Platform",
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "pass": 3
+   },
+   {
+    "quote": "- The collaboration will leverage General Proximity's OmniTAC",
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "pass": 3
+   },
+   {
+    "quote": "platform to identify and advance next generation induced proximity agents for high value oncology targets.",
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "pass": 3
+   },
+   {
+    "quote": "- Induced proximity medicines, powered by the OmniTAC",
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "pass": 3
+   },
+   {
+    "quote": "platform, enable precise modulation of disease-driving and traditionally undruggable proteins.",
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "pass": 3
+   },
+   {
+    "quote": "- General Proximity will identify novel effector-target pairs that can be exploited through induced proximity medicines.",
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "pass": 3
+   },
+   {
+    "quote": "/PRNewswire/ -- General Proximity, a biotechnology company discovering and developing the next generation of induced proximity medicines, today announced a strategic multi-target collaboration with Daiichi Sankyo (TSE: 4568) through its Daiichi Sankyo Research Institute in Boston to apply General Proximity's proprietary OmniTAC",
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "pass": 3
+   },
+   {
+    "quote": "discovery platform to oncology programs of interest to Daiichi Sankyo.",
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Induced proximity medicines enable the precise and selective modification of disease-driving proteins, creating therapeutic opportunities for traditionally undruggable targets. The approach uses small molecules to bring two proteins into close physical proximity and subsequently induce a desired therapeutic effect. The OmniTAC",
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "pass": 3
+   },
+   {
+    "quote": "platform allows unbiased screening for effector proteins capable of modulating disease-relevant targets, offering a powerful and differentiated approach to drug discovery.",
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "pass": 3
+   },
+   {
+    "quote": "\"Daiichi Sankyo is a leader in oncology research and development, and we are excited to work with such a strong collaborator,\" said Armand Cognetta, Founder & Chief Executive Officer of General Proximity. \"This agreement represents an important validation of our novel induced proximity approach and highlights the potential of our OmniTAC",
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Under the terms of the collaboration, General Proximity will leverage OmniTAC",
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "pass": 3
+   },
+   {
+    "quote": "to discover and characterize novel effector-target pairs with the potential to generate first-in-class therapeutic candidates.",
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "pass": 3
+   },
+   {
+    "quote": "About General Proximity",
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "pass": 3
+   },
+   {
+    "quote": "General Proximity is a biotechnology company advancing next-generation induced proximity medicines. Its proprietary OmniTAC",
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "pass": 3
+   },
+   {
+    "quote": "platform enables unbiased identification of effector proteins capable of modulating disease-relevant targets, unlocking new opportunities across oncology and other therapeutic areas. The company is advancing multiple preclinical programs generated by the OmniTAC",
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "pass": 3
+   },
+   {
+    "quote": "View original content to download multimedia:",
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.prnewswire.com/news-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform-302612832.html",
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "pass": 3
+   },
+   {
+    "quote": "SOURCE General Proximity",
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Can Saudi Arabia’s burgeoning biotech hub withstand geopolitical pressures?",
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Atiba | General Proximity - Fully managed enterprise websites.",
+    "url": "https://generalproximity.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We are trusted by some of the largest enterprises to create and manage websites for their constituents.",
+    "url": "https://generalproximity.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Will I love working with General Proximity?",
+    "url": "https://generalproximity.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our old agency held our domain name hostage and took weeks to make even small changes. General Proximity is there when we need them.",
+    "url": "https://generalproximity.com/",
+    "pass": 3
+   },
+   {
+    "quote": "General Proximity Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "General Proximity Revenue",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At General Proximity",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Key Contact at General Proximity",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Director Of Business And Program Development",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "We are hiring for multiple roles; join us on our journey. Visit our website at https://www.generalproximity.bio.",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What is the address of General Proximity?",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "General Proximity is located in San Francisco, California, US.",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of General Proximity?",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "General Proximity generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What is the valuation of General Proximity?",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "General Proximity has an estimated valuation of",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does General Proximity have?",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "General Proximity has approximately",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "To us they represent something even more: a boundless array of untapped biological tools.",
+    "url": "https://www.generalproximity.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://en.firstcvc.jp/global/generalproximity.bio",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://en.firstcvc.jp/global/generalproximity.bio",
+    "pass": 3
+   },
+   {
+    "quote": "Coherus cuts 30% of staffers, Gyre makes post-acquisition layoffs",
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "pass": 3
+   },
+   {
+    "quote": "General Proximity Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "General Proximity Revenue",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At General Proximity",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of General Proximity?",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "General Proximity generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does General Proximity have?",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/439898-59",
+    "pass": 3
+   },
+   {
+    "quote": "General Proximity has 21 total employees.",
+    "url": "https://pitchbook.com/profiles/company/439898-59",
+    "pass": 3
+   },
+   {
+    "quote": "What is General Proximity’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/439898-59",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for General Proximity is",
+    "url": "https://pitchbook.com/profiles/company/439898-59",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does General Proximity have?",
+    "url": "https://fundediq.co/general-proximity-generalproximity-bio-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/general-proximity-generalproximity-bio-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/general-proximity-generalproximity-bio-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Please double-check the email.",
+    "url": "https://www.generalproximity.bio/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/439898-59",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/general-proximity-generalproximity-bio-funding/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Before GMP: Six manufacturing considerations gene therapy sponsors should address earlier",
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "pass": 3
+   },
+   {
+    "quote": "We are trusted by some of the largest enterprises to create and manage websites for their constituents.",
+    "url": "https://generalproximity.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Pinehurst Manufacturing Inc",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Next-Gen Proximity Medicines | General Proximity — General Proximity pioneers next-generation medicines by controlling biological processes through proximity. Redefining the future of medicine for all humankind.",
+    "url": "https://www.generalproximity.bio/",
+    "pass": 3
+   },
+   {
+    "quote": "Meet Our Team | General Proximity — Discover the visionary minds behind General Proximity, dedicated to pioneering next-gen medicines that control biology through proximity principles.",
+    "url": "https://www.generalproximity.bio/team",
+    "pass": 3
+   },
+   {
+    "quote": "General Proximity | Funding Rounds & Investor Information ... — Company profile of General Proximity, a global startup backed by Y Combinator, Felicis. General Proximityは、2019年に設立された米国カリフォルニア州サンフランシスコに拠点を置くバイオテクノロジー企業である。 ...",
+    "url": "https://en.firstcvc.jp/global/generalproximity.bio",
+    "pass": 3
+   },
+   {
+    "quote": "General Proximity Announces Multi-Target Collaboration with ... — Nov 13, 2025 · Under the terms of the collaboration, General Proximity will leverage OmniTAC ™ to discover and characterize novel effector-target pairs with the potential to generate first-in-class therapeutic candidates.",
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "pass": 3
+   },
+   {
+    "quote": "General Proximityの資金調達・投資家情報 | 海外スタートアップ | FI... — Sep 4, 2026 · Y Combinator、Felicisのポートフォリオに掲載される海外スタートアップGeneral Proximityの企業プロフィール。 General Proximityは、2019年に設立された米国カリフォルニア州サンフランシスコに拠点を置くバイオテクノロジー企業である。",
+    "url": "https://www.firstcvc.jp/global/generalproximity.bio",
+    "pass": 3
+   },
+   {
+    "quote": "General Proximity - LinkedIn — General Proximity Biotechnology San Francisco, CA 7,530 followers Creating the next generation of induced-proximity medicines. Nothing is undruggable.",
+    "url": "https://www.linkedin.com/company/generalproximity",
+    "pass": 3
+   },
+   {
+    "quote": "Next-Gen Proximity Medicines | General Proximity — We’ve built the first generalized, mechanism-agnostic, proximity discovery engine. Our genomes code for thousands of intricate molecular machines—effector proteins—which regulate all aspects of biology.",
+    "url": "https://www.generalproximity.bio/",
+    "pass": 3
+   },
+   {
+    "quote": "Latest News & Insights | General Proximity — Dec 18, 2024 · General Proximity announced its emergence from stealth, unveiling its proprietary OmniTAC platform designed to pioneer the next generation of induced proximity medicines. Drug discovery platform General Proximity raised an $8 million seed, CEO Armand Cognetta tells Axios exclusively.",
+    "url": "https://www.generalproximity.bio/news",
+    "pass": 3
+   },
+   {
+    "quote": "Atiba | General Proximity - Fully managed enterprise websites. — Security means actively intercepting threats before they take down your site. Speed means better search engine optimization and user experience. Support means always being able to call a real person who can help you. Fully managed websites for enterprise customers.",
+    "url": "https://generalproximity.com/",
+    "pass": 3
+   },
+   {
+    "quote": "General Proximity - LinkedIn — General Proximity | 7,530 followers on LinkedIn. Creating the next generation of induced-proximity medicines. Nothing is undruggable. | We are hiring for multiple roles; join us on our journey.",
+    "url": "https://www.linkedin.com/company/generalproximity",
+    "pass": 3
+   },
+   {
+    "quote": "/C O R R E C T I O N -- General Proximity/ - GuruFocus — Nov 13, 2025 · Under the terms of the collaboration, General Proximity will leverage OmniTAC ™ to discover and characterize novel effector-target pairs with the potential to generate first-in-class therapeutic candidates.",
+    "url": "https://www.gurufocus.com/news/3207744/c-o-r-r-e-c-t-i-o-n-general-proximity",
+    "pass": 3
+   },
+   {
+    "quote": "General Proximity Revenue, Funding & Valuation — General Proximity has revenue of $1,796,655, estimated valuation of $5,800,000, $16,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "General Proximity 2026 Company Profile: Valuation, Funding ...General Proximity — Company Profile | The Company CheckGeneral Proximity: Funding, Investors & Team (Nov 2026)General Proximity - 2026 Company Profile, Team, Funding ...General Proximity — Company Profile & Funding | Indexed.vcGeneral Proximity: Funding, Team & Investors | Startup Intros — Information on valuation, funding, cap tables, ",
+    "url": "https://pitchbook.com/profiles/company/439898-59",
+    "pass": 3
+   },
+   {
+    "quote": "General Proximity: Funding, Investors & Team (Nov 2026) — General Proximity is an innovative form of proximity medicine that looks towards the future of healthcare. General Proximity has raised $16.0M across 2 funding rounds on record, the most recent an undisclosed round announced in May 2026. Latest funding round on record: May 2026.",
+    "url": "https://fundediq.co/general-proximity-generalproximity-bio-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "General Proximity - 2026 Company Profile, Team, Funding ... — Feb 12, 2026 · General Proximity - About the company General Proximity is a seed company based in San Francisco (United States), founded in 2023 by Armand B Cognetta III. It operates as a Developer of next generation of induced-proximity medicines. General Proximity has raised $16M in funding.",
+    "url": "https://tracxn.com/d/companies/generalproximity/__nf1c0yEhvwCpiw9N8WP_OczMEJiIBH088t9HM5orI9M",
+    "pass": 3
+   },
+   {
+    "quote": "General Proximity — Company Profile & Funding | Indexed.vc — General Proximity is a Biotech company based in San Francisco, United States, founded in 2019. It has raised $16.0M in total across 3 rounds, most recently a $8.0M Venture Round round in May 2026.",
+    "url": "https://indexed.vc/companies/generalproximity",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "General Proximity - LinkedIn General Proximity | 7,530 followers on LinkedIn. Creating the next generation of induced-proximity medicines. Nothing is undruggable. | We are hiring for multiple roles; join us on our...",
+    "url": "https://www.linkedin.com/company/generalproximity",
+    "pass": 3
+   },
+   {
+    "quote": "Armand Cognetta - General Proximity | LinkedInReen R. - General Proximity | LinkedInCorentine Laurin – Senior Principal Scientist - Medicinal ...Andreas Maderna - General Proximity | LinkedInThrilled to have you on the team Max! | General ProximityGeneral Proximity on LinkedIn: The Longevity Fund Oct 1, 2021 · Armand Cognetta is the founder of General Proximity (YC W20). He is a Scripps Research… ",
+    "url": "https://www.linkedin.com/in/armandcognetta",
+    "pass": 3
+   },
+   {
+    "quote": "Reen R. - General Proximity | LinkedInCorentine Laurin – Senior Principal Scientist - Medicinal ...Andreas Maderna - General Proximity | LinkedInThrilled to have you on the team Max! | General ProximityGeneral Proximity on LinkedIn: The Longevity Fund Karanasan: General Proximity · Lokasyon: Metro Manila · 34 koneksyon sa LinkedIn. Tingnan ang profile ni Reen R. sa LinkedIn, isang propesyonal na k",
+    "url": "https://ph.linkedin.com/in/reenramos",
+    "pass": 3
+   },
+   {
+    "quote": "Corentine Laurin – Senior Principal Scientist - Medicinal ...Andreas Maderna - General Proximity | LinkedInThrilled to have you on the team Max! | General ProximityGeneral Proximity on LinkedIn: The Longevity Fund I am a senior principal scientist (team lead) at General Proximity, focusing on the design and optimisation of next generation proximity inducing small molecule drugs. · Experience: Gene",
+    "url": "https://at.linkedin.com/in/corentine-laurin-aa414b7b",
+    "pass": 3
+   },
+   {
+    "quote": "Armand Cognetta - General Proximity | LinkedIn加藤貞顕 - WikipediaArmand Cognetta: General Proximity Will Collaborate with ... Oct 1, 2021 · Armand Cognetta is the founder of General Proximity (YC W20). He is a Scripps Research… 加藤貞顕 加藤 貞顕 （かとう さだあき、 1973年 6月11日 [1] - ）は、日本の 編集者 、 実業家。 note株式会社 代表取締役CEO。 （2020年4月7日 株式会社ピースオブケイクより社名変更） Nov 13, 2025 · Really exciting to see your work and the General Pro",
+    "url": "https://www.linkedin.com/in/armandcognetta",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "General Proximity - Facebook General Proximity. 9 likes. Straightforward, reliable, sophisticated websites for healthcare, construction, and local businesses.",
+    "url": "https://www.facebook.com/GeneralProximity/",
+    "pass": 3
+   },
+   {
+    "quote": "AACR General Construction INC. | Downey CA - FacebookProximity Chat Etiquette for Games - FacebookShafer Construction LLC | Wapello IA - FacebookDwight R Vaughn - I found a stronger link than the general ... Aug 28, 2023 · AACR General Construction INC., Downey. 123 likes. Our company was built with the commitment to ensure cost-effectiveness and high quality. Proximity chat in Warzone 2 is a fan ",
+    "url": "https://www.facebook.com/AACRGC/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "General Proximity (@proxbio) / Posts / X Jul 25, 2019 · I'm looking to bring on our very first senior leadership role in drug discovery (Sr. Director/VP) at General Proximity. We have an insanely high talent density team ( prox.bio/team) so the bar for this role is extremely high.",
+    "url": "https://x.com/proxbio",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.generalproximity.bio/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.generalproximity.bio/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://en.firstcvc.jp/global/generalproximity.bio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://generalproximity.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/generalproximity",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.gep.com/knowledge-bank/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pkspaces.com/proximity-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/proximity-lab/case-study/enabling-users-to-produce-lighter-stronger-manufacturing-ready-products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/general-proximity-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/439898-59",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/general-proximity-generalproximity-bio-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/generalproximity/__nf1c0yEhvwCpiw9N8WP_OczMEJiIBH088t9HM5orI9M",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/generalproximity",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/armandcognetta",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ph.linkedin.com/in/reenramos",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://at.linkedin.com/in/corentine-laurin-aa414b7b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GeneralProximity/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AACRGC/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/armandcognetta",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/proxbio",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Generalproximity 日本 導入",
+   "results": [
+    "https://www.generalproximity.bio/",
+    "https://www.generalproximity.bio/team",
+    "https://en.firstcvc.jp/global/generalproximity.bio",
+    "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform",
+    "https://www.firstcvc.jp/global/generalproximity.bio",
+    "https://www.prnewswire.com/news-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform-302612832.html",
+    "https://www.biopharmaboardroom.com/news/1/4002/daiichi-sankyo-taps-general-proximitys-omnitac-platform-to-unlock-new-frontiers-in-oncology-drug-discovery.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Generalproximity 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.generalproximity.bio/",
+    "https://www.generalproximity.bio/team",
+    "https://www.linkedin.com/company/generalproximity",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://www.gnipharma.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Generalproximity Japan",
+   "results": [
+    "https://www.generalproximity.bio/",
+    "https://www.generalproximity.bio/news",
+    "https://generalproximity.com/",
+    "https://www.linkedin.com/company/generalproximity",
+    "https://www.gurufocus.com/news/3207744/c-o-r-r-e-c-t-i-o-n-general-proximity",
+    "https://bpjw.bio.org/participating-companies/general-proximity",
+    "https://www.biospace.com/press-releases/general-proximity-announces-multi-target-collaboration-with-daiichi-sankyo-to-discover-and-advance-novel-oncology-therapeutics-using-omnitac-platform"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Generalproximity manufacturing customer case study",
+   "results": [
+    "https://www.gep.com/knowledge-bank/case-studies",
+    "https://www.pkspaces.com/proximity-manufacturing-2025",
+    "https://www.casestudies.com/company/proximity-lab/case-study/enabling-users-to-produce-lighter-stronger-manufacturing-ready-products",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.gsb.stanford.edu/faculty-research/case-studies/proximity-designs",
+    "https://www.grantthornton.com/insights/case-studies/manufacturing/2025/customer-experience-transformation-at-a-global-manufacturer",
+    "https://www.researchgate.net/publication/285384844_Proximity_as_a_key_factor_to_narrow_the_relationship_between_supplier_and_its_customer_-_a_case_study_in_the_auto_industry"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Generalproximity white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://www.superantispyware.com/reseller-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Generalproximity founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/general-proximity-revenue",
+    "https://pitchbook.com/profiles/company/439898-59",
+    "https://fundediq.co/general-proximity-generalproximity-bio-funding/",
+    "https://tracxn.com/d/companies/generalproximity/__nf1c0yEhvwCpiw9N8WP_OczMEJiIBH088t9HM5orI9M",
+    "https://indexed.vc/companies/generalproximity",
+    "https://startupintros.com/orgs/general-proximity",
+    "https://www.thecompanycheck.com/company/b/general-proximity/dmdhx0s09a9jria3y",
+    "https://www.zoominfo.com/financial/general-proximity/1333753628"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:note.com Generalproximity",
+   "results": [
+    "https://note.com/tajima_marketing/n/nbd796582ee6f?hl=en",
+    "https://note.com/career_upup4050/n/nf3869648c564?hl=en",
+    "https://note.com/ste_info/n/nff31c4faff4e?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/career_upup4050/n/n2b5a38c5f534?hl=en",
+    "https://note.com/himutsukichi_gay/n/n605cbcc14820?hl=en",
+    "https://note.com/tender_willet146/n/n67bdc28fb720?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Generalproximity",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Generalproximity",
+   "results": [
+    "https://www.linkedin.com/company/generalproximity",
+    "https://www.linkedin.com/in/armandcognetta",
+    "https://ph.linkedin.com/in/reenramos",
+    "https://at.linkedin.com/in/corentine-laurin-aa414b7b",
+    "https://www.linkedin.com/in/andreasmaderna",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7112247100041568257/?origin=SHARED_BY_YOUR_PAGES",
+    "https://www.linkedin.com/posts/generalproximity_thrilled-to-have-you-on-the-team-max-activity-6929165027136479232-wegq"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Generalproximity",
+   "results": [
+    "https://www.facebook.com/GeneralProximity/",
+    "https://www.facebook.com/AACRGC/",
+    "https://www.facebook.com/proximitycaresarl/",
+    "https://www.facebook.com/J.E.Reed.author/videos/forced-proximity-mmc-cant-stand-physical-touch-kaz-brekker-styleromantasyangst-f/1109432465269966/",
+    "https://www.facebook.com/fb-answers/proximity-chat-etiquette-for-games/",
+    "https://www.facebook.com/shaferconstructionllc/",
+    "https://www.facebook.com/DwightRaymondVaughn/posts/i-found-a-stronger-link-than-the-general-proximity-argumentwashington-court-hous/3564788570356107/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Generalproximity note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.linkedin.com/in/armandcognetta",
+    "https://www.generalproximity.bio/",
+    "https://www.generalproximity.bio/team",
+    "https://generalproximity.com/",
+    "https://www.linkedin.com/company/generalproximity",
+    "https://oncodaily.com/voices/armand-cognetta-408600"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Generalproximity X 投稿",
+   "results": [
+    "https://x.com/proxbio",
+    "https://www.generalproximity.bio/",
+    "https://www.generalproximity.bio/team",
+    "https://generalproximity.com/",
+    "https://blog.generalproximity.bio/archive",
+    "https://www.generalproximity.bio/newsposts/general-proximity-de-stealths-with-16m-to-pioneer-next-gen-induced-proximity-medicines-for-undruggable-targets",
+    "https://www.generalproximity.bio/careers",
+    "https://x.com/NousResearch/status/2118822925445050435"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部26頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部26頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部26頁・検索12回）"
+ }
+}

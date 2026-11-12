@@ -1,0 +1,1567 @@
+{
+ "name": "Influxdata",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T23:55:54.839050+00:00",
+ "official_url": "https://www.influxdata.com",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "Pricing model",
+    "value": "Custom / contact us Consumption pricing Custom / contact us",
+    "url": "https://www.influxdata.com/influxdb-pricing/",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$119.9M",
+    "url": "https://getlatka.com/companies/influxdata",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Telemetry, edge devices, and physical AI generate data that most databases can’t handle. InfluxDB handles continuous, high-resolution data with precision and speed.",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ingest at millions of data points per second while keeping storage and compute predictable",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimized for fast ingest on high-velocity, high-resolution data with efficient compression and storage",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Compression and Downsampling",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Best-in-class compression. Parquet files store more data with less space.",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace telemetry never stops. Stay ahead with a database built for speed, precision, and decades of data.",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI systems need a stream of high-precision telemetry to improve. InfluxDB captures granular sensor data enabling AI to detect, respond and predict in real-time.",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aircraft and spacecraft require pinpoint precision for mission critical navigation. Capture high-rate sensor streams to power real-time diagnostics and adaptive control.",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production lines generate constant signals. Feed real-time telemetry into AI models to predict equipment failures, optimize throughput, and maintain product quality.",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage grid volatility across distributed assets. Real-time sensor streams feed predictive models to prevent costly edge failures.",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "On-prem, edge, or cloud. A single engine for every environment.",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate time series across AI/ML workloads & visualize instantly",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "print(table.to_pandas().to_markdown())",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "def write_line_protocol():",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "print(\"Writing record:\", record )",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "write_line_protocol()",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "const database = process.env.INFLUX_DATABASE;",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "const token = process.env.INFLUX_TOKEN;",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "fmt.Fprintln(w, \"day\\troom\\ttemp\")",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "fmt.Fprintf(w, \"%s\\t%s\\t%.2f\\n\", day, row[\"room\"], row[\"temp\"])",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "func WriteLineProtocol() error {",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "fmt.Println(\"Writing record: \", record)",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "public static async Task WriteLineProtocol()",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "System.out.printf(\"--------------------------------------------------------%n\");",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "System.out.printf(\"| %-8s | %-8s | %-30s |%n\", \"location\", \"value\", \"time\");",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "InfluxDB consolidates streams of time series data to reduce architectural fragmentation, simplify operations, and provide real-time visibility across space and ground systems.",
+    "url": "https://www.influxdata.com/solutions/by-industries/satellite-telemetry-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Run a Proof of Concept",
+    "url": "https://www.influxdata.com/solutions/by-industries/satellite-telemetry-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Downloads of InfluxDB",
+    "url": "https://www.influxdata.com/solutions/by-industries/satellite-telemetry-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "InfluxDB 3 is built for satellite & communications workloads",
+    "url": "https://www.influxdata.com/solutions/by-industries/satellite-telemetry-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring together data across assets to give operators a single source of truth so they can track performance, spot anomalies, and act fast to prevent failures and mission-critical outages.",
+    "url": "https://www.influxdata.com/solutions/by-industries/satellite-telemetry-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Run self managed, on-prem, private or sovereign environments (including segmented or air-gapped setups) for export control and data residency constraints.",
+    "url": "https://www.influxdata.com/solutions/by-industries/satellite-telemetry-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Cost-efficient long-term retention",
+    "url": "https://www.influxdata.com/solutions/by-industries/satellite-telemetry-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimized for timestamped metrics, enabling efficient storage, compression, and retrieval of spacecraft, RF, and network performance data without complex schema design.",
+    "url": "https://www.influxdata.com/solutions/by-industries/satellite-telemetry-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Protecting health and broadband service",
+    "url": "https://www.influxdata.com/solutions/by-industries/satellite-telemetry-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Eutelsat/OneWeb built their telemetry backbone on InfluxDB to operate 600+ low Earth orbit satellites and 35 geostationary satellites. InfluxDB ingests over one million data points per second and manages 15+ million time series across space and ground — delivering real-time intelligence to protect satellite health and broadband service availability.",
+    "url": "https://www.influxdata.com/solutions/by-industries/satellite-telemetry-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Epsilon3 provides a web-based procedure and workflow platform for aerospace operations. It’s often used as the operational interface for commanding and monitoring satellites. Engineers visualize real-time and historical telemetry directly alongside procedural steps using Epsilon3’s premium offering: Analyze.",
+    "url": "https://www.influxdata.com/solutions/by-industries/satellite-telemetry-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're building on-prem, private cloud, edge, or multi-tenant cloud, InfluxDB meets developers where they are.",
+    "url": "https://www.influxdata.com/solutions/by-industries/satellite-telemetry-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Request a Proof of Concept",
+    "url": "https://www.influxdata.com/solutions/by-industries/satellite-telemetry-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "curl -O https://www.influxdata.com/d/install_influxdb3.sh && sh install_influxdb3.sh enterprise",
+    "url": "https://www.influxdata.com/solutions/by-industries/satellite-telemetry-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Run a Proof of Concept",
+    "url": "https://www.influxdata.com/solutions/by-industries/aerospace-and-satellites/",
+    "pass": 1
+   },
+   {
+    "quote": "Downloads of InfluxDB",
+    "url": "https://www.influxdata.com/solutions/by-industries/aerospace-and-satellites/",
+    "pass": 1
+   },
+   {
+    "quote": "From flight tests to orbital missions, aerospace workloads demand high-fidelity capture at scale. InfluxDB analyzes millions of points per second with nanosecond precision, ensuring no signal is missed.",
+    "url": "https://www.influxdata.com/solutions/by-industries/aerospace-and-satellites/",
+    "pass": 1
+   },
+   {
+    "quote": "InfluxDB 3 is built for aerospace workloads",
+    "url": "https://www.influxdata.com/solutions/by-industries/aerospace-and-satellites/",
+    "pass": 1
+   },
+   {
+    "quote": "Run analytics and models where data originates. Process events on edge devices or ground stations, then sync with cloud or on-prem clusters for global visibility.",
+    "url": "https://www.influxdata.com/solutions/by-industries/aerospace-and-satellites/",
+    "pass": 1
+   },
+   {
+    "quote": "Store decades of high-resolution telemetry with compression and low-cost object storage, keeping data accessible for compliance, audits, digital twins, and AI training, without driving up infrastructure costs.",
+    "url": "https://www.influxdata.com/solutions/by-industries/aerospace-and-satellites/",
+    "pass": 1
+   },
+   {
+    "quote": "InfluxDB goes beyond capture and query—it gives aerospace teams the infrastructure to act on their telemetry. Process data at the edge, store massive volumes efficiently, and keep it ready for real-time analysis. Spot anomalies early, predict faults, optimize fleets, and act instantly on mission-critical systems anywhere, while meeting the strict demands of compliance and reliability.",
+    "url": "https://www.influxdata.com/solutions/by-industries/aerospace-and-satellites/",
+    "pass": 1
+   },
+   {
+    "quote": "InfluxDB streams data from launch to orbit with open protocols and 400+ Telegraf integrations. From CCSDS telemetry to AI tools, connect ground ops, mission systems, and analytics without lock-in.",
+    "url": "https://www.influxdata.com/solutions/by-industries/aerospace-and-satellites/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you’re building on-prem, private cloud, edge, or multi-tenant cloud, InfluxDB meets developers where they are.",
+    "url": "https://www.influxdata.com/solutions/by-industries/aerospace-and-satellites/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how InfluxDB 3 Enterprise powers real-time flight telemetry by capturing 90+ data points at 60 FPS, optimizing storage with compaction, and enabling cockpit dashboards with sub-10 ms response for aviation-scale monitoring.",
+    "url": "https://www.influxdata.com/solutions/by-industries/aerospace-and-satellites/",
+    "pass": 1
+   },
+   {
+    "quote": "In the rapidly developing aerospace industry, time series data is becoming a critical tool for enabling better operational efficiency, predictive maintenance, and innovation.",
+    "url": "https://www.influxdata.com/solutions/by-industries/aerospace-and-satellites/",
+    "pass": 1
+   },
+   {
+    "quote": "curl -O https://www.influxdata.com/d/install_influxdb3.sh && sh install_influxdb3.sh enterprise",
+    "url": "https://www.influxdata.com/solutions/by-industries/aerospace-and-satellites/",
+    "pass": 1
+   },
+   {
+    "quote": "Run a Proof of Concept",
+    "url": "https://www.influxdata.com/solutions/by-industries/energy-and-utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Downloads of InfluxDB",
+    "url": "https://www.influxdata.com/solutions/by-industries/energy-and-utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "From rigs and refineries to substations and smart meters, modern energy networks demand continuous, high-fidelity capture at scale. InfluxDB ingests millions of points per second with nanosecond precision, ensuring every fluctuation, fault, and forecast input is available for analysis.",
+    "url": "https://www.influxdata.com/solutions/by-industries/energy-and-utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "InfluxDB 3 is built for energy and utility workloads",
+    "url": "https://www.influxdata.com/solutions/by-industries/energy-and-utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Ingest millions of unique series per second from sensors, IoT devices, and OT protocols (MQTT, Modbus, OPC-UA, and more) to monitor power quality, renewable integration, and load balancing.",
+    "url": "https://www.influxdata.com/solutions/by-industries/energy-and-utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring together data across assets to give operators a single source of truth so they can track performance, spot anomalies, and act fast to prevent failures and outages.",
+    "url": "https://www.influxdata.com/solutions/by-industries/energy-and-utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive maintenance at scale",
+    "url": "https://www.influxdata.com/solutions/by-industries/energy-and-utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Support renewable integration, distributed energy resources, and smart grid modernization while reducing carbon footprint, enhancing safety, and enabling digital twins for more resilient infrastructure.",
+    "url": "https://www.influxdata.com/solutions/by-industries/energy-and-utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance",
+    "url": "https://www.influxdata.com/solutions/by-industries/energy-and-utilities/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Automatically evicts cold data and streams it into lakes, warehouses, and AI/ML pipelines.",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace telemetry never stops. Stay ahead with a database built for speed, precision, and decades of data.",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production lines generate constant signals. Feed real-time telemetry into AI models to predict equipment failures, optimize throughput, and maintain product quality.",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring together data across assets to give operators a single source of truth so they can track performance, spot anomalies, and act fast to prevent failures and mission-critical outages.",
+    "url": "https://www.influxdata.com/solutions/by-industries/satellite-telemetry-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Satellite operators require real-time, resilient systems",
+    "url": "https://www.influxdata.com/solutions/by-industries/satellite-telemetry-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Epsilon3 provides a web-based procedure and workflow platform for aerospace operations. It’s often used as the operational interface for commanding and monitoring satellites. Engineers visualize real-time and historical telemetry directly alongside procedural steps using Epsilon3’s premium offering: Analyze.",
+    "url": "https://www.influxdata.com/solutions/by-industries/satellite-telemetry-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace systems generate constant streams of telemetry. To keep up, teams need a database purpose-built for high-resolution data, delivering massive ingestion, sub-second queries, and decades of storage for compliance and analysis.",
+    "url": "https://www.influxdata.com/solutions/by-industries/aerospace-and-satellites/",
+    "pass": 1
+   },
+   {
+    "quote": "From flight tests to orbital missions, aerospace workloads demand high-fidelity capture at scale. InfluxDB analyzes millions of points per second with nanosecond precision, ensuring no signal is missed.",
+    "url": "https://www.influxdata.com/solutions/by-industries/aerospace-and-satellites/",
+    "pass": 1
+   },
+   {
+    "quote": "InfluxDB 3 is built for aerospace workloads",
+    "url": "https://www.influxdata.com/solutions/by-industries/aerospace-and-satellites/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace requires modern, real-time systems",
+    "url": "https://www.influxdata.com/solutions/by-industries/aerospace-and-satellites/",
+    "pass": 1
+   },
+   {
+    "quote": "InfluxDB goes beyond capture and query—it gives aerospace teams the infrastructure to act on their telemetry. Process data at the edge, store massive volumes efficiently, and keep it ready for real-time analysis. Spot anomalies early, predict faults, optimize fleets, and act instantly on mission-critical systems anywhere, while meeting the strict demands of compliance and reliability.",
+    "url": "https://www.influxdata.com/solutions/by-industries/aerospace-and-satellites/",
+    "pass": 1
+   },
+   {
+    "quote": "In the rapidly developing aerospace industry, time series data is becoming a critical tool for enabling better operational efficiency, predictive maintenance, and innovation.",
+    "url": "https://www.influxdata.com/solutions/by-industries/aerospace-and-satellites/",
+    "pass": 1
+   },
+   {
+    "quote": "Operators can query across billions of records to detect anomalies, balance supply and demand, and maintain grid stability where uptime and efficiency are critical.",
+    "url": "https://www.influxdata.com/solutions/by-industries/energy-and-utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring together data across assets to give operators a single source of truth so they can track performance, spot anomalies, and act fast to prevent failures and outages.",
+    "url": "https://www.influxdata.com/solutions/by-industries/energy-and-utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial IoT for Energy | Live Demonstration",
+    "url": "https://www.influxdata.com/solutions/by-industries/energy-and-utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "In the rapidly developing aerospace industry, time series data is becoming a critical tool for enabling better operational efficiency, predictive maintenance, and innovation.",
+    "url": "https://www.influxdata.com/solutions/by-industries/energy-and-utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Loved by developers, trusted by enterprises",
+    "url": "https://www.influxdata.com/solutions/by-industries/telecommunications/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Manufacturing Engineer",
+    "url": "https://www.influxdata.com/solutions/by-industries/telecommunications/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with InfluxData to help customers modernize industrial operations, power AI-driven systems, and scale high-volume telemetry workloads.",
+    "url": "https://www.influxdata.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by partners across cloud, industry and infrastructure",
+    "url": "https://www.influxdata.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "From cloud infrastructure to factory floors, the world runs on time series data.",
+    "url": "https://www.influxdata.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Address the workloads your customers can't solve alone across industrial, infrastructure, and AI systems.",
+    "url": "https://www.influxdata.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Tap demand in manufacturing, energy, aerospace, observability, and historian modernization.",
+    "url": "https://www.influxdata.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Help customers modernize industrial systems, observability platforms, and real-time infrastructure.",
+    "url": "https://www.influxdata.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "From smart grid operators to global manufacturers, teams deploy InfluxDB where operational data drives decisions.",
+    "url": "https://www.influxdata.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by industry leaders to keep critical systems running",
+    "url": "https://www.influxdata.com/solutions/network-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Cisco uses InfluxDB as the core of its custom DevOps monitoring stack to track uptime, load, and availability for its global service renewals platform. By integrating InfluxDB and Telegraf with Cisco NX-OS, the company provides network operators with a single pane of glass to monitor network, compute, and storage infrastructure in real-time.",
+    "url": "https://www.influxdata.com/solutions/network-monitoring/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial data creates real value only when high-resolution telemetry is used to monitor assets and control processes in real-time.",
+    "url": "https://www.influxdata.com/solutions/iot-analytics-and-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Purpose-built for Industrial IoT",
+    "url": "https://www.influxdata.com/solutions/iot-analytics-and-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial leaders build on InfluxDB",
+    "url": "https://www.influxdata.com/solutions/iot-analytics-and-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Time series powers every Industrial IoT system",
+    "url": "https://www.influxdata.com/solutions/iot-analytics-and-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "InfluxDB is the proven, real-time foundation for mission-critical IIoT analytics at scale. Global leaders in manufacturing, energy, utilities, and industrial automation depend on its extensibility and developer-friendly platform to connect OT and IT, and drive real-time automation.",
+    "url": "https://www.influxdata.com/solutions/iot-analytics-and-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Preventing Costly Downtime in Manufacturing",
+    "url": "https://www.influxdata.com/solutions/iot-analytics-and-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Olympus Controls (part of Applied Automation) uses InfluxDB to monitor robot health in real-time, spotting early signs of wear and scheduling maintenance before costly outages occur. By turning high-resolution machine telemetry into immediate insight, Olympus helps manufacturers reduce downtime and keep production lines running smoothly.",
+    "url": "https://www.influxdata.com/solutions/iot-analytics-and-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "From Zero Automation to Full Industrial Observability",
+    "url": "https://www.influxdata.com/solutions/iot-analytics-and-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "InfluxDB streams machine and sensor data across plants, production lines, and field assets using open protocols and 300+ Telegraf integrations. Connect PLCs, SCADA systems, and modern analytics tools without vendor lock-in, so operations, engineering, and IT teams can access high-frequency time series data anywhere it’s needed.",
+    "url": "https://www.influxdata.com/solutions/iot-analytics-and-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "All machinery, equipment, and their controls and sensors tell a story through the data they collect. This data, known as Industrial Internet of Things (IIoT) data, provides a clear narrative about the machines and offers insights on how to improve operations.",
+    "url": "https://www.influxdata.com/solutions/iot-analytics-and-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial IoT for Energy | Live Demonstration",
+    "url": "https://www.influxdata.com/solutions/iot-analytics-and-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Which industries and companies use InfluxDB for industrial IoT and predictive maintenance?",
+    "url": "https://www.influxdata.com/solutions/iot-analytics-and-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "InfluxDB supports reliable site operations, fleet-wide dispatch, and historical analysis by unifying high-frequency telemetry from storage systems, power electronics, and plant applications.",
+    "url": "https://www.influxdata.com/solutions/battery-energy-storage-systems/",
+    "pass": 1
+   },
+   {
+    "quote": "Grid-scale batteries and virtual power plants generate continuous, high-frequency telemetry across thousands of assets. InfluxDB is built to ingest and retain this data reliably, without lag or forced downsampling.",
+    "url": "https://www.influxdata.com/solutions/battery-energy-storage-systems/",
+    "pass": 1
+   },
+   {
+    "quote": "From individual assets to entire fleets, InfluxDB preserves high-resolution telemetry so operators and analysts always have a consistent, complete view.",
+    "url": "https://www.influxdata.com/solutions/battery-energy-storage-systems/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring together data across assets to give operators a single source of truth so they can track performance, spot anomalies, and act fast to prevent failures and outages.",
+    "url": "https://www.influxdata.com/solutions/battery-energy-storage-systems/",
+    "pass": 1
+   },
+   {
+    "quote": "InfluxDB delivers sub-second visibility into system state so operators and algorithms can respond instantly to price signals, grid conditions, and dispatch instructions.",
+    "url": "https://www.influxdata.com/solutions/battery-energy-storage-systems/",
+    "pass": 1
+   },
+   {
+    "quote": "BESS operators require real-time, resilient systems",
+    "url": "https://www.influxdata.com/solutions/battery-energy-storage-systems/",
+    "pass": 1
+   },
+   {
+    "quote": "Trading system telemetry, real-time fraud detection, portfolio and risk dashboards, payment platform observability, and market data infrastructure. It's also used to monitor the systems that support these functions — exchanges, clearing platforms, and payment gateways. Customers include Robinhood, Capital One, and Intuit.",
+    "url": "https://www.influxdata.com/solutions/fintech/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace / Space Operations Software",
+    "url": "https://www.influxdata.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Epsilon3 provides software for managing complex operational procedures in aerospace and other high-reliability industries. Its platform helps teams plan, execute, and track mission-critical operations through collaborative digital workflows.",
+    "url": "https://www.influxdata.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "How to Digitize Industrial Manufacturing with Azure loT Edge, InfluxDB, and MAJiK",
+    "url": "https://www.influxdata.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "MAJiK Systems improves OEE within factories using InfluxDB",
+    "url": "https://www.influxdata.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "How Cohu Uses InfluxDB to Power Digital Twins for Semiconductor Manufacturing",
+    "url": "https://www.influxdata.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Graphite Energy Powers Industrial Decarbonization with Real-Time Data from InfluxDB",
+    "url": "https://www.influxdata.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Texas Instruments Turns 1.5 Million Daily Data Points into Real-Time Manufacturing Visibility with InfluxDB",
+    "url": "https://www.influxdata.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Automation",
+    "url": "https://www.influxdata.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Olympus Controls Builds Predictive Maintenance Pipeline for Industrial Robots with InfluxDB",
+    "url": "https://www.influxdata.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Teréga built a modern data historian with InfluxDB to to monitor industrial sites and pipelines.",
+    "url": "https://www.influxdata.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Recultiv8 uses InfluxDB to streamline industrial data, speed up dashboards, and deliver real-time energy insights.",
+    "url": "https://www.influxdata.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "F3 Engineering selected purpose-built time series database InfluxDB as their real-time data solution for tracking, monitoring, and reporting on plant conditions.",
+    "url": "https://www.influxdata.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Grupo Islas, an industrial group based in Latin America, is dedicated to delivering turnkey water treatment and reuse projects.",
+    "url": "https://www.influxdata.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Tesla chose InfluxDB Enterprise as its primary time series database to collect, process, and store data from manufacturing assets such as drives, robots, and other industrial equipment.",
+    "url": "https://www.influxdata.com/customers/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "import {tableFromArrays} from 'apache-arrow';",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "console.table([...tableFromArrays(data)])",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"github.com/apache/arrow/go/v12/arrow\"",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "day := (row[\"_time\"].(arrow.Timestamp)).ToTime(arrow.TimeUnit(arrow.Nanosecond))",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "char[] token = \"my-token\".toCharArray();",
+    "url": "https://www.influxdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Correlate all data sources to determine how service quality impacts revenue",
+    "url": "https://www.influxdata.com/solutions/by-industries/telecommunications/",
+    "pass": 1
+   },
+   {
+    "quote": "InfluxDB 3 is built in Rust and the FDAP stack—Flight, DataFusion, Arrow, and Parquet—leveraging Apache-backed technologies to efficiently ingest, store, and analyze time series data at any scale.",
+    "url": "https://www.influxdata.com/solutions/by-industries/telecommunications/",
+    "pass": 1
+   },
+   {
+    "quote": "Olympus Controls (part of Applied Automation) uses InfluxDB to monitor robot health in real-time, spotting early signs of wear and scheduling maintenance before costly outages occur. By turning high-resolution machine telemetry into immediate insight, Olympus helps manufacturers reduce downtime and keep production lines running smoothly.",
+    "url": "https://www.influxdata.com/solutions/iot-analytics-and-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "All machinery, equipment, and their controls and sensors tell a story through the data they collect. This data, known as Industrial Internet of Things (IIoT) data, provides a clear narrative about the machines and offers insights on how to improve operations.",
+    "url": "https://www.influxdata.com/solutions/iot-analytics-and-predictive-maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize revenue in real-time",
+    "url": "https://www.influxdata.com/solutions/battery-energy-storage-systems/",
+    "pass": 1
+   },
+   {
+    "quote": "Markets move in milliseconds. Every trade, quote, risk event, and customer interaction creates data that must be processed the moment it arrives.",
+    "url": "https://www.influxdata.com/solutions/fintech/",
+    "pass": 1
+   },
+   {
+    "quote": "Fraud detection requires evaluating transactions the moment they arrive. InfluxDB's sub-10ms query performance lets detection systems query recent transaction patterns and trigger alerts in near-real-time. High-throughput ingest means payment events don't queue during volume spikes, and the time-indexed data model makes sliding-window aggregations and anomaly detection straightforward to build.",
+    "url": "https://www.influxdata.com/solutions/fintech/",
+    "pass": 1
+   },
+   {
+    "quote": "Expedia Group uses InfluxDB, which plays a crucial role in handling real-time time-series data related to booking trends, predicted numbers, and revenue loss due to incidents.",
+    "url": "https://www.influxdata.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "vBridge uses InfluxDB and Telegraf to collect and store backend metrics from Pure Storage and 3Par storage arrays.",
+    "url": "https://www.influxdata.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Digipolis uses InfluxDB to store thousands of smart city IoT sensor metrics collected every second.",
+    "url": "https://www.influxdata.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Switch uses InfluxDB to power its automation technology which helps credit card issuers improve card revenue.",
+    "url": "https://www.influxdata.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "she played a key role in the company's highly successful IPO and convertible notes offering. Winnie holds a Bachelor's",
+    "url": "https://www.influxdata.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://www.influxdata.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Prior to joining InfluxData, Yvette led global people operations at Auth0 (acquired by Okta), where she played a key role in growing its workforce.",
+    "url": "https://www.influxdata.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "SVP of Revenue at GitHub",
+    "url": "https://www.influxdata.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Some of these roles are posted in different locations to convey they're open to remote candidates. InfluxData is currently hiring remote employees in North America, South America, and across Europe.",
+    "url": "https://www.influxdata.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you for being part of our community!",
+    "url": "https://docs.influxdata.com/flux/v0/",
+    "pass": 3
+   },
+   {
+    "quote": "Digipolis achieves 1-second‑granularity IoT monitoring and easier debugging with InfluxData (InfluxDB)",
+    "url": "https://www.casestudies.com/company/influxdata",
+    "pass": 3
+   },
+   {
+    "quote": "InfluxData Revenue 2024: $75M Est., $119.9M Raised",
+    "url": "https://getlatka.com/companies/influxdata",
+    "pass": 3
+   },
+   {
+    "quote": "InfluxData has not published its revenue. GetLatka estimates it at about $75M a year (June 2024).",
+    "url": "https://getlatka.com/companies/influxdata",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/influxdata",
+    "pass": 3
+   },
+   {
+    "quote": "InfluxData CEO & employees",
+    "url": "https://getlatka.com/companies/influxdata",
+    "pass": 3
+   },
+   {
+    "quote": "Evan Kaplan is CEO of InfluxData. InfluxData had 197 employees (December 2024, LinkedIn), up from 187 a year earlier.",
+    "url": "https://getlatka.com/companies/influxdata",
+    "pass": 3
+   },
+   {
+    "quote": "What is InfluxData's revenue?",
+    "url": "https://getlatka.com/companies/influxdata",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates InfluxData's revenue at about",
+    "url": "https://getlatka.com/companies/influxdata",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does InfluxData have?",
+    "url": "https://getlatka.com/companies/influxdata",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/influxdata",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/influxdata",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/influxdata",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/influxdata",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Improve real-time alerting sent to various endpoints (i.e., email, Slack, and ServiceNow)",
+    "url": "https://www.influxdata.com/solutions/by-industries/telecommunications/",
+    "pass": 1
+   },
+   {
+    "quote": "FuseMail uses InfluxDB to gain performance insights, reduce email latency, debug and improve its infrastructure monitoring.",
+    "url": "https://www.influxdata.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact Us - Trial Extension",
+    "url": "https://www.influxdata.com/request-trial-extension/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "[InfluxDB V2.x]セットアップから管理画面起動まで | 株式会社イー・テック・ソリューションズ",
+    "url": "https://e-tecs.co.jp/influxdb2-x%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社イー・テック・ソリューションズについて",
+    "url": "https://e-tecs.co.jp/influxdb2-x%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "【11/26（木）】AWSアカウントごと侵害されても、データを元に戻せますか？ 2025 Japan AWS Top Engineers が解説、ランサムウェア対策の\"最終防衛ライン\"をどう築くか",
+    "url": "https://dev.classmethod.jp/articles/send-and-visualize-data-with-influxdb-cloud/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "InfluxData — Developers choose InfluxDB Built for systems that can’t afford to lag. Capture, analyze, and act on high-resolution operational data in real-time. Try InfluxDB 1B+ Downloads of InfluxDB 1M+ Live open source instances 5B+ InfluxData Telegraf downloads 2,800+ Open source contributors #1 Time series database Source: DB Engines",
+    "url": "https://www.influxdata.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Windows環境でのInfluxDB構築 - Qiita — May 5, 2024 · 手順 ① https://www.influxdata.com/downloads/ にアクセス ② Platformを\"Windows Binaries (64-bit) using Power Shell\"にする ③ 生成されるコマンドをPower Shellにコピペ ④ ZIPのDLが完了するまでしばらく待つ (2~3min) ⑤ ZIP解凍 (私の場合, commandで解答できなかった為手動で解凍した)",
+    "url": "https://qiita.com/RU4_Ryo/items/da127fab1fbdcafa5b35",
+    "pass": 3
+   },
+   {
+    "quote": "[InfluxDB V2.x]セットアップから管理画面起動まで | 株式会社イー・... — Jul 14, 2025 · ベースとして以下の公式ドキュメントを参考にしました。 https://docs.influxdata.com/influxdb/v2/install/?t=Linux#choose-the-influxdata-key-pair-for-y",
+    "url": "https://e-tecs.co.jp/influxdb2-xのインストール/",
+    "pass": 3
+   },
+   {
+    "quote": "InfluxDB Cloudへデータを送信＆可視化してみた | DevelopersIO — Sep 1, 2022 · 今回は、InfluxDB Cloudへデータを送信し、可視化してみましたのでご紹介します。 InfluxDB InfluxDB はInfluxData社が開発しているオープンソースの時系列データベースです。 サーバはセルフホスティングするか、フルマネージドのInfluxDB Cloudというサービスがあり ...",
+    "url": "https://dev.classmethod.jp/articles/send-and-visualize-data-with-influxdb-cloud/",
+    "pass": 3
+   },
+   {
+    "quote": "InfluxDBを試す - Zenn — Aug 23, 2024 · https://docs.influxdata.com/influxdb/v2/get-started/#example-influxdb-query-results を 書き換えたもの 使用するツール このチュートリアル全体を通して、InfluxDB 2.7 とやりとりするために使用できる複数のツールがあります。 以下に挙げる各ツールの例が提供されています。",
+    "url": "https://zenn.dev/kun432/scraps/ff26833a2f9498",
+    "pass": 3
+   },
+   {
+    "quote": "InfluxData: InfluxDB — Monitoring & Analytics Made Easy InfluxData's products, built upon the popular TICK Stack, with high availability, clustering, and security capabilities. Sign up and try it for free to quickly collect, analyze, and alert on key performance metrics that are important to you and your boss.",
+    "url": "https://portal.influxdata.com/",
+    "pass": 3
+   },
+   {
+    "quote": "InfluxData — Most databases weren’t built for time series Telemetry, edge devices, and physical AI generate data that most databases can’t handle. InfluxDB handles continuous, high-resolution data with precision and speed.",
+    "url": "https://www.influxdata.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Flux documentation - InfluxData — Flux is an open source functional data scripting language designed for querying, analyzing, and acting on data. Flux supports multiple data source types, including: Time series databases (such as InfluxDB) Relational SQL databases (such as MySQL and PostgreSQL) CSV Flux unifies code for querying, processing, writing, and acting on data into a single syntax. The la",
+    "url": "https://docs.influxdata.com/flux/v0/",
+    "pass": 3
+   },
+   {
+    "quote": "Building Strong Global Partnerships - InfluxDataSupported regions for InfluxDB 3 Cloud | InfluxDB 3 Cloud ...InfluxData DocumentationRichard Ting Bio – InfluxData APAC & Japan - The Official BoardInfluxData: 時系列アプリケーションのためのプラットフォームInfluxDBで実現する時系列データ管理：用途と実践的な実装ガイド - Qi... — InfluxData regional distributors serve as key strategic partners of InfluxData in their respective territories. Distributors",
+    "url": "https://www.influxdata.com/blog/building-strong-global-partnerships/",
+    "pass": 3
+   },
+   {
+    "quote": "InfluxData Documentation — InfluxData provides the industry leading time series platform. Store, process, and alert on time series data with InfluxDB and InfluxDB Cloud. Use Telegraf to collect metrics from a growing number of technologies. Visualize data with Chronograf. Build robust monitoring and alerting pipelines with Kapacitor.",
+    "url": "https://docs.influxdata.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Richard Ting Bio – InfluxData APAC & Japan - The Official Board — Aug 12, 2026 · Read the biography of Richard Ting, at InfluxData as Managing Director, Asia Pacific and Japan and Senior Program Manager... More on The Official Board.",
+    "url": "https://www.theofficialboard.com/biography/richard-ting-461d2",
+    "pass": 3
+   },
+   {
+    "quote": "InfluxData: 時系列アプリケーションのためのプラットフォーム — InfluxDataは、DevOpsとIoTアプリケーションのための時系列データ分析プラットフォームを提供します。 Autodesk、Cisco、eBayなどの企業が採用しています。",
+    "url": "https://huntscreens.com/ja/products/influxdata",
+    "pass": 3
+   },
+   {
+    "quote": "InfluxData — Learn how to build real-time monitoring that scales securely with InfluxDB and Grafana to keep ahead of outages, performance regressions, and costly blind spots. On-prem, edge, or cloud. A single engine for every environment. Integrate time series across AI/ML workloads & visualize instantly.",
+    "url": "https://www.influxdata.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Influxdata B2B Case Studies & Customer Successes — See how Influxdata solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/influxdata",
+    "pass": 3
+   },
+   {
+    "quote": "Customers | InfluxData — Tesla chose InfluxDB Enterprise as its primary time series database to collect, process, and store data from manufacturing assets such as drives, robots, and other industrial equipment.",
+    "url": "https://www.influxdata.com/customers/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Influxdata Uses Software & Services — Explore case studies featuring Influxdata as the customer — learn how vendors and partners helped Influxdata solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/influxdata",
+    "pass": 3
+   },
+   {
+    "quote": "InfluxData Blog — Oct 5, 2026 · The place for technical guides, customer observability & IoT use cases, product info, and news on leading time series platform InfluxDB, Telegraf, SQL, & more.",
+    "url": "https://www.influxdata.com/blog/category/usecase/",
+    "pass": 3
+   },
+   {
+    "quote": "InfluxData & Haystack - Customer Story — InfluxData, creator of InfluxDB, is committed to helping organizations get maximum value from their time series data. ... We met up with Jennifer Gibson and Christine Hynson to learn how InfluxData promotes that same mentality among employees in this award-winning workplace.",
+    "url": "https://www.haystackteam.com/customers/influxdata",
+    "pass": 3
+   },
+   {
+    "quote": "InfluxData 2026 Company Profile: Valuation, Funding ...InfluxData – Performance Metrics & Competitor Intelligence – 2026InfluxData Revenue 2024: $75M Est., $119.9M Raised - LATKAInfluxData - 2026 Company Profile, Team, Funding ... - TracxnInfluxData - Overview, News & Similar companies | ZoomInfo.comInfluxData — Company Profile | The Company CheckAnnual Revenue, Growth & Competitor Analysis Report",
+    "url": "https://pitchbook.com/profiles/company/56364-94",
+    "pass": 3
+   },
+   {
+    "quote": "InfluxData – Performance Metrics & Competitor Intelligence – 2026 — InfluxData Revenue & Valuation InfluxData reportedly generates an annual revenue of $30.6M. InfluxData's estimated revenue per employee stands at $150.5K. InfluxData has raised a total of $202M in funding.",
+    "url": "https://compworth.com/company/influxdata",
+    "pass": 3
+   },
+   {
+    "quote": "InfluxData Revenue 2024: $75M Est., $119.9M Raised - LATKA — Oct 30, 2026 · InfluxData 2024 estimated revenue: $75M (up from $17.3M in 2021). Total funding: $119.9M across 5 rounds. Founded 2012. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/influxdata",
+    "pass": 3
+   },
+   {
+    "quote": "InfluxData - 2026 Company Profile, Team, Funding ... - TracxnInfluxData - Overview, News & Similar companies | ZoomInfo.comInfluxData — Company Profile | The Company CheckAnnual Revenue, Growth & Competitor Analysis Report for ... — Jun 28, 2026 · InfluxData is a series E company based in San Francisco (United States), founded in 2012 by Todd Persen and Paul Dix. It operates as a Developer of a ti",
+    "url": "https://tracxn.com/d/companies/influxdata/__Q_N9f5hlezGNj8TwGe5SLFIP-I1rGTwylGPngeX8bV0",
+    "pass": 3
+   },
+   {
+    "quote": "InfluxData - Overview, News & Similar companies | ZoomInfo.com — Gather financial insights about InfluxData, including details on funding rounds, investors, total funding, and acquisitions, to gain a comprehensive understanding of their financial strategy.",
+    "url": "https://www.zoominfo.com/c/influxdata-inc/395975932",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "WindowsへのInfluxDBのインストールからgrafanaでの表示までメモ（Inf... Apr 29, 2020 · https://www.influxdata.com/ (2)解凍して適当な場所に保存 例えばC:\\\\Program Files\\\\influxdb\\\\に解凍したファイルを保存します。 (3)configファイルの書き換え 「influxdb.conf」をそれぞれの環境に合わせて書き変えます。 [meta] # Where the metadata/raft database is stored 【変更前】",
+    "url": "https://note.com/akinoto/n/n6aad8b844296",
+    "pass": 3
+   },
+   {
+    "quote": "超簡単PythonでInfluxDB 2.0（時系列データベース）入門 Sep 5, 2021 · Install InfluxDB | InfluxDB OSS 2.0 Documentation Download, install, and set up InfluxDB OSS. docs.influxdata.com",
+    "url": "https://note.com/10mohi6/n/n6dcf7bbc302f",
+    "pass": 3
+   },
+   {
+    "quote": "ラズパイPi3でサーバー構築！データ保存（InfuxDB）｜アキヤマ Feb 18, 2026 · InfluxDBのインストール まずはパッケージを更新します。 ... 次にInfluxData Repository を追加します。 ... そして、InfulxDBをインストールします。 ... サービス起動と自動起動設定を行います。",
+    "url": "https://note.com/ryosuke8516/n/nc3e364294209",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "WindowsへのInfluxDBのインストールからgrafanaでの表示までメモ（InfluxDBインストール編）｜あきのと",
+    "url": "https://note.com/akinoto/n/n6aad8b844296",
+    "pass": 3
+   },
+   {
+    "quote": "WindowsへのInfluxDBのインストールからgrafanaでの表示までメモ（InfluxDBインストール編）",
+    "url": "https://note.com/akinoto/n/n6aad8b844296",
+    "pass": 3
+   },
+   {
+    "quote": "データ分析したいなあと思って、grafanaがグラフ表示でよく使われているのを知り、見た目も良かったので、grafanaを使ってみようと思いました。不勉強だったので、grafanaはデータベースを操作することも知らず、これまでデータベースを扱ったことも無かったので、いろいろ調べながら行いました。最終的に表示までたどり着けたので、表示までの内容をまとめようと思います。",
+    "url": "https://note.com/akinoto/n/n6aad8b844296",
+    "pass": 3
+   },
+   {
+    "quote": "時系列データを扱いたかったので、それに適しているとされているInfulxDBを使うことにしました。",
+    "url": "https://note.com/akinoto/n/n6aad8b844296",
+    "pass": 3
+   },
+   {
+    "quote": "②InfluxDBのWindowsへのインストール",
+    "url": "https://note.com/akinoto/n/n6aad8b844296",
+    "pass": 3
+   },
+   {
+    "quote": "InfluxDBのページからwindowsようのファイルをダウンロードします。",
+    "url": "https://note.com/akinoto/n/n6aad8b844296",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.influxdata.com/",
+    "url": "https://note.com/akinoto/n/n6aad8b844296",
+    "pass": 3
+   },
+   {
+    "quote": "例えばC:\\\\Program Files\\\\influxdb\\\\に解凍したファイルを保存します。",
+    "url": "https://note.com/akinoto/n/n6aad8b844296",
+    "pass": 3
+   },
+   {
+    "quote": "ラズパイPi3でサーバー構築！データ保存（InfuxDB）｜アキヤマ",
+    "url": "https://note.com/ryosuke8516/n/nc3e364294209",
+    "pass": 3
+   },
+   {
+    "quote": "ラズパイPi3でサーバー構築！データ保存（InfuxDB）",
+    "url": "https://note.com/ryosuke8516/n/nc3e364294209",
+    "pass": 3
+   },
+   {
+    "quote": "これまでCO2センサーを使ってCO2濃度を測定するシステムを開発してきました。今後、測定した値を保存したり、グラフに表示したいのでサーバーを構築しようと思います！",
+    "url": "https://note.com/ryosuke8516/n/nc3e364294209",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、ラズパイにInfluxDBをインストールしてデータの保存・グラフ表示をしたいと思います！",
+    "url": "https://note.com/ryosuke8516/n/nc3e364294209",
+    "pass": 3
+   },
+   {
+    "quote": "sudo apt update && sudo apt upgrade -y",
+    "url": "https://note.com/ryosuke8516/n/nc3e364294209",
+    "pass": 3
+   },
+   {
+    "quote": "次にInfluxData Repository を追加します。",
+    "url": "https://note.com/ryosuke8516/n/nc3e364294209",
+    "pass": 3
+   },
+   {
+    "quote": "wget -q https://repos.influxdata.com/influxdata-archive.key",
+    "url": "https://note.com/ryosuke8516/n/nc3e364294209",
+    "pass": 3
+   },
+   {
+    "quote": "echo 'deb [signed-by=/usr/share/keyrings/influxdata-archive.key] https://repos.influxdata.com/ubuntu jammy stable' | sudo tee /etc/apt/sources.list.d/influxdata.list",
+    "url": "https://note.com/ryosuke8516/n/nc3e364294209",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "InfluxData (@InfluxDB) / X How did industrial AI spark the partnership between InfluxData and @Litmus_io? 🤝 🎥 Watch the video to find out why this was the ideal moment for the Litmus Edge + #InfluxDB 3 Enterprise integration, and how it’s helping drive faster insights and real impact across industrial IoT.",
+    "url": "https://x.com/influxdb",
+    "pass": 3
+   },
+   {
+    "quote": "InfluxData on X: \"InfluxData CEO @evankaplan joined the ... InfluxData CEO @evankaplan joined the @CloudcastPod to discuss physical AI and real-time data. Building autonomous systems requires deterministic outcomes—probabilistic won't cut it when the stakes are high. 🎧 Tune in to hear his insights: https://t.co/9uKJNgDYlN #InfluxDB",
+    "url": "https://x.com/InfluxDB/status/2119098554270507393",
+    "pass": 3
+   },
+   {
+    "quote": "InfluxData on X: \"Start with Core; scale with Enterprise. Get ... InfluxData on X: \"Start with Core; scale with Enterprise. Get everything you need to explore, query, and build with #InfluxDB 3 in our toolkit 🧰 🛠️ https://t.co/B13YDjnLMh\"",
+    "url": "https://x.com/InfluxDB/status/2110090718504976483",
+    "pass": 3
+   },
+   {
+    "quote": "InfluxData on X: \"The Downsampling Plugin in #InfluxDB 3 ... InfluxData on X: \"The Downsampling Plugin in #InfluxDB 3 automatically reduces data resolution over time. Keep minute-by-minute data recent, and aggregate to hourly for history.",
+    "url": "https://x.com/InfluxDB/status/2108694043886600357",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "InfluxData - LinkedIn About us InfluxData is the creator of InfluxDB, the leading time series platform used to collect, store, and analyze all time series data at any scale.",
+    "url": "https://www.linkedin.com/company/influxdb/",
+    "pass": 3
+   },
+   {
+    "quote": "Influx Data - LinkedIn Website www.influxdata.co Industry Marketing Services Company size 11-50 employees Type Public Company",
+    "url": "https://www.linkedin.com/company/influx-data/",
+    "pass": 3
+   },
+   {
+    "quote": "Dean Sheehan - Field CTO at InfluxData | LinkedInAssociate Sales Engineer at InfluxData — Manchester, England ...Michelle Partidas - InfluxData | LinkedInDeveloper Advocate at InfluxData — Ottawa, Ontario, Canada ...InfluxData on LinkedIn: Evolving InfluxDB into the Smart Data ... Field CTO at InfluxData · Experience: InfluxData · Location: Greater Cambridge Area · 500+ connections on LinkedIn. Vi",
+    "url": "https://uk.linkedin.com/in/dsheehan",
+    "pass": 3
+   },
+   {
+    "quote": "Associate Sales Engineer at InfluxData — Manchester, England ... InfluxData is the creator of InfluxDB, the leading time series platform used to collect, store, and analyze all time series data at any scale. Developers can query and analyze their time-stamped...",
+    "url": "https://uk.linkedin.com/jobs/view/associate-sales-engineer-at-influxdata-4453711642",
+    "pass": 3
+   },
+   {
+    "quote": "Evan Kaplan - InfluxData | LinkedIn加藤貞顕 - WikipediaPaul Dix - InfluxDB | LinkedInInfluxData Org Chart + Executive Team - The Official BoardEvan Kaplan - CEO @ InfluxData - Crunchbase Person ProfileFocusing on Company Values with InfluxData CEO, Evan Kaplan He is currently the CEO of InfluxData, the company behind InfluxDB, the leading time series database. 加藤貞顕 加藤 貞顕 （かとう さだあき、 1973年 6月11日 [1] - ）",
+    "url": "https://www.linkedin.com/in/kaplanevan",
+    "pass": 3
+   },
+   {
+    "quote": "Paul Dix - InfluxDB | LinkedInInfluxData Org Chart + Executive Team - The Official BoardEvan Kaplan - CEO @ InfluxData - Crunchbase Person ProfileFocusing on Company Values with InfluxData CEO, Evan Kaplan For the last twenty years I have worked in technology filling positions as a CEO, CTO… · Experience: InfluxDB · Education: Columbia University in the City of New York · Location: Brooklyn ... Se",
+    "url": "https://www.linkedin.com/in/pauldix",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.influxdata.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.influxdata.com/solutions/by-industries/satellite-telemetry-monitoring/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.influxdata.com/solutions/by-industries/aerospace-and-satellites/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.influxdata.com/solutions/by-industries/energy-and-utilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.influxdata.com/solutions/by-industries/telecommunications/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.influxdata.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.influxdata.com/solutions/network-monitoring/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.influxdata.com/solutions/iot-analytics-and-predictive-maintenance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.influxdata.com/solutions/battery-energy-storage-systems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.influxdata.com/solutions/fintech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.influxdata.com/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.influxdata.com/influxdb-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.influxdata.com/influxdb-signup/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.influxdata.com/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.influxdata.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.influxdata.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.influxdata.com/request-trial-extension/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.influxdata.com/general-inquiries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.influxdata.com/blog/litmus-and-influxdata-partnership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.influxdata.com/blog/category/about-company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://images.ctfassets.net/o7xu9whrs0u9/63EnOIbIJc0UaJ54n8Ill4/891da1097125754e038f975fb3b517fc/aws-logo-transparent.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://images.ctfassets.net/o7xu9whrs0u9/2pyDQDHysvxE84kNhYvtOV/15ef825afe55d8cb6e5fec505e04669d/cloud-logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://images.ctfassets.net/o7xu9whrs0u9/5eHMQc5ZM7NmSLC12hPfIq/109236de10f4a2c712ac27c102b84f0a/Microsoft_Azure_Logo-new.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://images.ctfassets.net/o7xu9whrs0u9/4Ah65zzrWm8raoTryVG6aO/f06ded4c75d2bbdd7065269661953388/litmus-logo.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://qiita.com/RU4_Ryo/items/da127fab1fbdcafa5b35",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://e-tecs.co.jp/influxdb2-x%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dev.classmethod.jp/articles/send-and-visualize-data-with-influxdb-cloud/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://portal.influxdata.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.influxdata.com/flux/v0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.influxdata.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theofficialboard.com/biography/richard-ting-461d2",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://huntscreens.com/ja/products/influxdata",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/influxdata",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/influxdata",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/56364-94",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/influxdata",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/influxdata",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/influxdata/__Q_N9f5hlezGNj8TwGe5SLFIP-I1rGTwylGPngeX8bV0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/akinoto/n/n6aad8b844296",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/10mohi6/n/n6dcf7bbc302f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ryosuke8516/n/nc3e364294209",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/influxdb",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/InfluxDB/status/2119098554270507393",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/InfluxDB/status/2110090718504976483",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/InfluxDB/status/2108694043886600357",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/influxdb/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/influx-data/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/dsheehan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/jobs/view/associate-sales-engineer-at-influxdata-4453711642",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/kaplanevan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/pauldix",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/influxdb",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Influxdata 日本 導入",
+   "results": [
+    "https://www.influxdata.com/",
+    "https://qiita.com/RU4_Ryo/items/da127fab1fbdcafa5b35",
+    "https://e-tecs.co.jp/influxdb2-xのインストール/",
+    "https://dev.classmethod.jp/articles/send-and-visualize-data-with-influxdb-cloud/",
+    "https://zenn.dev/kun432/scraps/ff26833a2f9498",
+    "https://qiita.com/huntersai/items/6d214564ffba4c63b5eb",
+    "https://www.x-cmd.com/ja/install/influxdb/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Influxdata 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://portal.influxdata.com/",
+    "https://www.influxdata.com/",
+    "https://docs.influxdata.com/flux/v0/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://infcurion.com/company/",
+    "https://www.jll.com/ja-jp/about-jll/japan-information",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Influxdata Japan",
+   "results": [
+    "https://www.influxdata.com/blog/building-strong-global-partnerships/",
+    "https://docs.influxdata.com/",
+    "https://www.theofficialboard.com/biography/richard-ting-461d2",
+    "https://huntscreens.com/ja/products/influxdata",
+    "https://www.influxdata.com/",
+    "https://docs.influxdata.com/influxdb3/cloud/reference/regions/",
+    "https://qiita.com/huntersai/items/6d214564ffba4c63b5eb"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Influxdata manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/influxdata",
+    "https://www.influxdata.com/customers/",
+    "https://www.casestudies.com/customer/influxdata",
+    "https://www.influxdata.com/blog/category/usecase/",
+    "https://www.haystackteam.com/customers/influxdata",
+    "https://www.featuredcustomers.com/vendor/influxdata/case-studies",
+    "https://www.cncf.io/case-studies/influxdata/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Influxdata white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Influxdata founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/56364-94",
+    "https://compworth.com/company/influxdata",
+    "https://getlatka.com/companies/influxdata",
+    "https://tracxn.com/d/companies/influxdata/__Q_N9f5hlezGNj8TwGe5SLFIP-I1rGTwylGPngeX8bV0",
+    "https://www.zoominfo.com/c/influxdata-inc/395975932",
+    "https://www.thecompanycheck.com/company/b/influxdata/ix5ueo5egm9ouy2ac",
+    "https://incfact.com/company/influxdata-brooklyn-ny/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Influxdata",
+   "results": [
+    "https://note.com/akinoto/n/n6aad8b844296",
+    "https://note.com/10mohi6/n/n6dcf7bbc302f",
+    "https://note.com/ryosuke8516/n/nc3e364294209",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/daikidomon/n/n238268ba8967",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/tori_1980/n/n21037c205ade"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Influxdata",
+   "results": [
+    "https://x.com/influxdb",
+    "https://x.com/InfluxDB/status/2119098554270507393",
+    "https://x.com/InfluxDB/status/2110090718504976483",
+    "https://x.com/InfluxDB/status/2108694043886600357",
+    "https://x.com/InfluxDB/status/2119402305808195726",
+    "https://x.com/InfluxDB/status/2111257139603730615",
+    "https://x.com/InfluxDB/status/2115863749869334703"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Influxdata",
+   "results": [
+    "https://www.linkedin.com/company/influxdb/",
+    "https://www.linkedin.com/company/influx-data/",
+    "https://uk.linkedin.com/in/dsheehan",
+    "https://uk.linkedin.com/jobs/view/associate-sales-engineer-at-influxdata-4453711642",
+    "https://ca.linkedin.com/in/michellepartidas",
+    "https://ca.linkedin.com/jobs/view/developer-advocate-at-influxdata-4479630367",
+    "https://in.linkedin.com/posts/influxdb_evolving-influxdb-into-the-smart-data-platform-activity-6995411802188644352-tQEQ"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Influxdata",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Influxdata note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.influxdata.com/about/",
+    "https://www.linkedin.com/in/kaplanevan",
+    "https://www.linkedin.com/in/pauldix",
+    "https://www.theofficialboard.com/org-chart/influxdata",
+    "https://www.crunchbase.com/person/evan-l-kaplan",
+    "https://www.mayfield.com/focusing-on-company-values-with-influxdata-ceo-evan-kaplan/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Influxdata X 投稿",
+   "results": [
+    "https://x.com/influxdb",
+    "https://docs.influxdata.com/",
+    "https://github.com/influxdata/influxdb",
+    "https://github.com/influxdata",
+    "https://www.influxdata.com/",
+    "https://www.influxdata.com/community/",
+    "https://docs.influxdata.com/influxdb/v2/api/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）"
+ }
+}

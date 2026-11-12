@@ -1,0 +1,1647 @@
+{
+ "name": "Improvado",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜リマイン1",
+ "researched_at": "2026-11-12T00:01:40.276482+00:00",
+ "official_url": "https://improvado.io",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://startupintros.com/orgs/improvado",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://prospeo.io/c/improvado-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "San Diego, CA, USA",
+    "url": "https://startupintros.com/orgs/improvado",
+    "pass": 3
+   },
+   {
+    "label": "Headquarters",
+    "value": "3919 30th St, San Diego, California 92104, US",
+    "url": "https://prospeo.io/c/improvado-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$93,000",
+    "url": "https://prospeo.io/c/improvado-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$22,000,000",
+    "url": "https://prospeo.io/c/improvado-revenue",
+    "pass": 3
+   },
+   {
+    "label": "Total raised",
+    "value": "$22M",
+    "url": "https://getlatka.com/companies/improvado.io",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Improvado, Your Marketing Runs Itself. The AI Agent That Connects, Analyzes, Creates & Optimizes.",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The reporting layer for marketing teams that have outgrown their spreadsheets, their dashboards, and their patience.",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Read Q3 spend from Google Ads, LinkedIn Ads and Meta Ads",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Checked headroom and drafted the move for approval",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Naming: “Nov webinar promo”",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Approval: $30K budget move",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Write blocked: Google Ads bid cap",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Workspace · marketing",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "#marketing-ops · anomalies and approvals",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Google Ads search · 3 campaigns",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Every agent reads this page",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by marketing teams at",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Unified marketing across",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated marketing data across",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing data unified across",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Read the Booyah Advertising story",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Onboarded enterprise clients",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "YODEL MOBILE · APP MARKETING",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Read the Chacka Marketing story",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "CHACKA MARKETING · AGENCY",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "One unified marketing data ecosystem",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Open the video player",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Show me what Improvado does for",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "CMO / VP Marketing · eCommerce",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta and Google produced 74% of attributed revenue.",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Improvado.io - Partners",
+    "url": "https://improvado.io/company/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Connectors, BI Platforms, Data Warehouses, Visualization Tools, AI/ML platforms, and more. OEM, VAR, and Referral Partnerships are all supported.",
+    "url": "https://improvado.io/company/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Your browser sent Global Privacy Control. Advertising sharing is off.",
+    "url": "https://improvado.io/company/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Helps us understand how the site is used so we can improve it.",
+    "url": "https://improvado.io/company/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Advertising data sharing",
+    "url": "https://improvado.io/company/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Turn off to opt out of sharing your activity with advertising partners for targeted ads.",
+    "url": "https://improvado.io/company/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We use it only to provide our service and keep it secure, such as your account log-in. You can ask us to limit its use to that.",
+    "url": "https://improvado.io/company/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Technology partnership | Improvado",
+    "url": "https://improvado.io/company/partners/technology-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "A three-step journey to becoming an Improvado technology partner.",
+    "url": "https://improvado.io/company/partners/technology-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Join Improvado Technology Partner Program by submitting your application. Every application is reviewed by a partner manager. We'll contact you with the agreement and next steps.",
+    "url": "https://improvado.io/company/partners/technology-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Execute a Partnership Agreement and dive deep into the Improvado product by accessing a free demo and learning more about ETL and marketing data pipeline automation.",
+    "url": "https://improvado.io/company/partners/technology-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Apply your new Improvado ETL automation knowledge to your existing suite of services to help your clients fully realise the power of their first-party customer data.",
+    "url": "https://improvado.io/company/partners/technology-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "We partner with Technology Providers that want to extend their product features and capabilities by ingesting Clients' Marketing Data. Improvado's Data Pipeline will be seamlessly embedded in Partner's product UI.",
+    "url": "https://improvado.io/company/partners/technology-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Improvado solution and technology partners",
+    "url": "https://improvado.io/company/partners/technology-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "We work with industry-leading platforms across cloud infrastructure, BI, and advertising.",
+    "url": "https://improvado.io/company/partners/technology-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Become an Improvado technology partner",
+    "url": "https://improvado.io/company/partners/technology-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Your browser sent Global Privacy Control. Advertising sharing is off.",
+    "url": "https://improvado.io/company/partners/technology-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Helps us understand how the site is used so we can improve it.",
+    "url": "https://improvado.io/company/partners/technology-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Advertising data sharing",
+    "url": "https://improvado.io/company/partners/technology-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Turn off to opt out of sharing your activity with advertising partners for targeted ads.",
+    "url": "https://improvado.io/company/partners/technology-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "We use it only to provide our service and keep it secure, such as your account log-in. You can ask us to limit its use to that.",
+    "url": "https://improvado.io/company/partners/technology-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Analytics & Reporting for Agencies | Improvado",
+    "url": "https://improvado.io/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Watch Improvado work for an",
+    "url": "https://improvado.io/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Faster client onboarding",
+    "url": "https://improvado.io/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Without labor-intensive and error-prone manual reporting processes.",
+    "url": "https://improvado.io/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Centralize all your marketing data",
+    "url": "https://improvado.io/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically standardize metrics and dimensions for precision and convenience in your analysis.",
+    "url": "https://improvado.io/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Comply with your marketing guidelines",
+    "url": "https://improvado.io/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Track campaign compliance with predefined rules and get notified in case of any issues.",
+    "url": "https://improvado.io/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Automate marketing reporting",
+    "url": "https://improvado.io/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Use pre-built BI dashboards and AI-powered suggestions to provide full visibility of marketing efforts.",
+    "url": "https://improvado.io/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Jumpstart reporting with pre-built analytics templates, data models, and dashboards.",
+    "url": "https://improvado.io/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Effortless report preparation",
+    "url": "https://improvado.io/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Generate graphs, charts, dashboards, documents, and code using a few short prompts.",
+    "url": "https://improvado.io/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing analytics AI agent, available 24/7",
+    "url": "https://improvado.io/solutions/agencies",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by marketing teams at",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Instantly query any warehouse table via natural language",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Connectors, BI Platforms, Data Warehouses, Visualization Tools, AI/ML platforms, and more. OEM, VAR, and Referral Partnerships are all supported.",
+    "url": "https://improvado.io/company/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading enterprises & agencies",
+    "url": "https://improvado.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "No. Every solution runs on the same platform: data extraction and loading, a warehouse you control, transformation, governance, reporting and the AI Agent. A solution page shows how one team or industry uses it;",
+    "url": "https://improvado.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by enterprise marketing teams",
+    "url": "https://improvado.io/solutions/marketers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by enterprise marketing teams",
+    "url": "https://improvado.io/solutions/analysts",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by enterprise marketing teams",
+    "url": "https://improvado.io/solutions/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "1,400+ data sources work seamlessly with your existing stack, from warehouses to BI tools.",
+    "url": "https://improvado.io/solutions/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Every record in a warehouse you control",
+    "url": "https://improvado.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "operators across 13 clinic categories, each evaluated from location",
+    "url": "https://improvado.io/marketing-research/multi-location-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "on this site inherits from this edition. 29 candidate operators were excluded after triage. Of",
+    "url": "https://improvado.io/marketing-research/multi-location-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "the reviewed operators, 33 received a full company audit,",
+    "url": "https://improvado.io/marketing-research/multi-location-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "100 reviewed operators",
+    "url": "https://improvado.io/marketing-research/multi-location-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Public inspection cannot see CRM, practice-management, EHR/EMR, billing, warehouse, or",
+    "url": "https://improvado.io/marketing-research/multi-location-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "require approval of the owners or operators of such Third-Party Sources and will be subject to",
+    "url": "https://improvado.io/company-legal/services-agreement-2023-12-01",
+    "pass": 1
+   },
+   {
+    "quote": "the extent that delay is caused by insurrection, war, riot, explosion, nuclear incident, fire,",
+    "url": "https://improvado.io/company-legal/services-agreement-2023-12-01",
+    "pass": 1
+   },
+   {
+    "quote": "Computer Hardware Manufacturing",
+    "url": "https://www.casestudies.com/company/improvado",
+    "pass": 3
+   },
+   {
+    "quote": "Food and Beverage Manufacturing",
+    "url": "https://www.casestudies.com/company/improvado",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetrics helps over 750k marketers and analysts move data from popular marketing and ad platforms like Facebook, Google, and HubSpot to their favorite analytics, reporting, and data warehouse platforms. Over …",
+    "url": "https://www.featuredcustomers.com/vendor/improvado/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/improvado/case-studies",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "How are we tracking against BFCM revenue plan?",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta and Google produced 74% of attributed revenue.",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Am I going to land the quarterly revenue number, where is per-channel new-customer efficiency decaying, and where does…",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Projected revenue $9.41M",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Sync Shopify revenue with Meta + Google spend",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Managing diverse marketing data in-house became a barrier to scaling the agency's operations.",
+    "url": "https://improvado.io/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Employees in 14 time zones",
+    "url": "https://improvado.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Improvado provides an end-to-end, customized analytics solution for medium to large enterprises and agencies. Its platform integrates, simplifies, governs, and attributes complex revenue data across 1,400+ data sources, providing a unified and clear view of marketing ROI and performance.",
+    "url": "https://improvado.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Be part of a team that's pushing the boundaries of how marketers access and act on their data.",
+    "url": "https://improvado.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Employees in 14 time zones",
+    "url": "https://improvado.io/company/jobs",
+    "pass": 1
+   },
+   {
+    "quote": "We operate in a high-energy, high-velocity environment where speed is married to efficiency. Rapid execution and delivery aren't mere buzzwords but inherent aspects of our work ethic.",
+    "url": "https://improvado.io/company/jobs",
+    "pass": 1
+   },
+   {
+    "quote": "Yes: it gets small businesses out of the Excel-and-PowerPoint era with all their revenue data in one place, and no engineering required.",
+    "url": "https://improvado.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Reports arrive days late, with numbers that don't always line up",
+    "url": "https://improvado.io/solutions/marketers",
+    "pass": 1
+   },
+   {
+    "quote": "The bars show how a fixed budget can be split differently. They do not predict revenue or recommend a budget for your company.",
+    "url": "https://improvado.io/solutions/mmm",
+    "pass": 1
+   },
+   {
+    "quote": "What lean teams gain when all their revenue data lives in one place.",
+    "url": "https://improvado.io/solutions/small-business",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue data scattered across spreadsheets and platform logins",
+    "url": "https://improvado.io/solutions/small-business",
+    "pass": 1
+   },
+   {
+    "quote": "All your revenue data unified in one place, automatically",
+    "url": "https://improvado.io/solutions/small-business",
+    "pass": 1
+   },
+   {
+    "quote": "Get all your revenue data in one place—no engineering, no spreadsheets.",
+    "url": "https://improvado.io/solutions/small-business",
+    "pass": 1
+   },
+   {
+    "quote": "From executive-level performance across teams to transaction-level detail, Improvado brings all your marketing and revenue data into one place—automated, structured, and ready to use. Explore data from any angle, share findings, and build dashboards on the fly, knowing every number aligns across teams, tools, and platforms.",
+    "url": "https://improvado.io/solutions/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Consultation ≠ revenue",
+    "url": "https://improvado.io/marketing-research/multi-location-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Attendance, treatment mix, financing, provider capacity, collected revenue, and repeat care sit between a response and margin.",
+    "url": "https://improvado.io/marketing-research/multi-location-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "A lead is a promise of care—not proof of revenue",
+    "url": "https://improvado.io/marketing-research/multi-location-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Availability is part of the ad",
+    "url": "https://improvado.io/marketing-research/multi-location-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "operator knows which calls booked, which patients arrived, or which care created",
+    "url": "https://improvado.io/marketing-research/multi-location-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "kept care and collected revenue",
+    "url": "https://improvado.io/marketing-research/multi-location-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Acquired brands preserve separate histories",
+    "url": "https://improvado.io/marketing-research/multi-location-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Cash-pay acquisition only becomes useful when consultation, capacity, and treatment revenue stay joined.",
+    "url": "https://improvado.io/marketing-research/multi-location-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Qualification, level of care, admissions routing, capacity, and the narrow privacy boundary.",
+    "url": "https://improvado.io/marketing-research/multi-location-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Every category page carries its own external source ledger and separates verified",
+    "url": "https://improvado.io/marketing-research/multi-location-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Move the sliders: ad spend, revenue, audience, sources. We’ll match you to the right plan",
+    "url": "https://improvado.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Tracked revenue per year",
+    "url": "https://improvado.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Annual revenue you attribute through marketing data",
+    "url": "https://improvado.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "tracked revenue $80M",
+    "url": "https://improvado.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Each plan has a starting price: Starter from $20,000 a year, Growth from $41,700 a year, and Enterprise by quote. Price follows your plan and data volume, not a share of your ad spend. The plan finder asks about ad spend and revenue only to suggest the plan that fits your size.",
+    "url": "https://improvado.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "user identification and passwords by Customer, including employees, consultants, contractors,",
+    "url": "https://improvado.io/company-legal/services-agreement-2023-12-01",
+    "pass": 1
+   },
+   {
+    "quote": ". Each party represents and warrants that: (i) it has",
+    "url": "https://improvado.io/company-legal/services-agreement-2023-12-01",
+    "pass": 1
+   },
+   {
+    "quote": "10. Functionality Warranty",
+    "url": "https://improvado.io/company-legal/services-agreement-2023-12-01",
+    "pass": 1
+   },
+   {
+    "quote": ". Improvado warrants that Improvado.io will operate",
+    "url": "https://improvado.io/company-legal/services-agreement-2023-12-01",
+    "pass": 1
+   },
+   {
+    "quote": "11. Data Security and Warranty",
+    "url": "https://improvado.io/company-legal/services-agreement-2023-12-01",
+    "pass": 1
+   },
+   {
+    "quote": "by employees or contractors employed by Improvado, whether by accident or otherwise.",
+    "url": "https://improvado.io/company-legal/services-agreement-2023-12-01",
+    "pass": 1
+   },
+   {
+    "quote": "12. Additional Warranties",
+    "url": "https://improvado.io/company-legal/services-agreement-2023-12-01",
+    "pass": 1
+   },
+   {
+    "quote": ". Improvado represents and warrants that: (i) the",
+    "url": "https://improvado.io/company-legal/services-agreement-2023-12-01",
+    "pass": 1
+   },
+   {
+    "quote": "Improvado.io and the Professional Services for the purposes for which they are being acquired by",
+    "url": "https://improvado.io/company-legal/services-agreement-2023-12-01",
+    "pass": 1
+   },
+   {
+    "quote": "expressly provided herein, IMPROVADO DISCLAIMS WARRANTIES, WHETHER EXPRESSED, IMPLIED, STATUTORY",
+    "url": "https://improvado.io/company-legal/services-agreement-2023-12-01",
+    "pass": 1
+   },
+   {
+    "quote": "OR OTHERWISE AND SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES INCLUDING WITHOUT LIMITATION THE",
+    "url": "https://improvado.io/company-legal/services-agreement-2023-12-01",
+    "pass": 1
+   },
+   {
+    "quote": "CONDITIONS AND/OR WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE TO THE MAXIMUM EXTENT",
+    "url": "https://improvado.io/company-legal/services-agreement-2023-12-01",
+    "pass": 1
+   },
+   {
+    "quote": "PERMITTED BY LAW. IMPROVADO DOES NOT WARRANT THAT IMPROVADO.IO, OR THE PROFESSIONAL SERVICES",
+    "url": "https://improvado.io/company-legal/services-agreement-2023-12-01",
+    "pass": 1
+   },
+   {
+    "quote": "FURTHER, IMPROVADO DOES NOT WARRANT THAT ALL ERRORS CAN BE CORRECTED.",
+    "url": "https://improvado.io/company-legal/services-agreement-2023-12-01",
+    "pass": 1
+   },
+   {
+    "quote": "to be part of Customer’s own or a third party website, (iv) attempt to probe, scan or test the vulnerability",
+    "url": "https://improvado.io/company-legal/services-agreement-2023-12-01",
+    "pass": 1
+   },
+   {
+    "quote": "(v) wilfully render any part of the Systems unusable; (vi) lease, distribute, license, sell or otherwise",
+    "url": "https://improvado.io/company-legal/services-agreement-2023-12-01",
+    "pass": 1
+   },
+   {
+    "quote": "PROFITS OR REVENUES OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, COVER OR PUNITIVE",
+    "url": "https://improvado.io/company-legal/services-agreement-2023-12-01",
+    "pass": 1
+   },
+   {
+    "quote": "Improvado may use Customer’s name and logo on Improvado’s website, and as a part of a general",
+    "url": "https://improvado.io/company-legal/services-agreement-2023-12-01",
+    "pass": 1
+   },
+   {
+    "quote": "assets as part of a corporate reorganization, merger or acquisition, provided the assignee",
+    "url": "https://improvado.io/company-legal/services-agreement-2023-12-01",
+    "pass": 1
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/improvado/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Improvado Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/improvado-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Improvado",
+    "url": "https://prospeo.io/c/improvado-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/improvado-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Improvado automates marketing reporting, enables informed budget decisions, and increases the ROI of marketing efforts. We help marketing teams streamline inefficient spreadsheet analytics and achieve deep insights into revenue generation.",
+    "url": "https://prospeo.io/c/improvado-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "With Improvado, it’s easy to track the performance of your cross-channel efforts, calculate complex metrics such as CLV or CAC, attribute revenue to touchpoints, and recreate customer journeys.",
+    "url": "https://prospeo.io/c/improvado-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/improvado-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Real times below — no back-and-forth over email.",
+    "url": "https://improvado.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Please use your work email address",
+    "url": "https://improvado.io/company/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Please use your work email address",
+    "url": "https://improvado.io/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Please use your work email address",
+    "url": "https://improvado.io/solutions/marketers",
+    "pass": 1
+   },
+   {
+    "quote": "Please use your work email address",
+    "url": "https://improvado.io/solutions/analysts",
+    "pass": 1
+   },
+   {
+    "quote": "Please use your work email address",
+    "url": "https://improvado.io/solutions/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Use your work email to continue to our call scheduling page. This form does not unlock a download.",
+    "url": "https://improvado.io/solutions/mmm",
+    "pass": 1
+   },
+   {
+    "quote": "Please use your work email address",
+    "url": "https://improvado.io/solutions/mmm",
+    "pass": 1
+   },
+   {
+    "quote": "Please use your work email address",
+    "url": "https://improvado.io/solutions/mcp-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Please use your work email address",
+    "url": "https://improvado.io/solutions/brands",
+    "pass": 1
+   },
+   {
+    "quote": "Please use your work email address",
+    "url": "https://improvado.io/solutions/small-business",
+    "pass": 1
+   },
+   {
+    "quote": "Please use your work email address",
+    "url": "https://improvado.io/solutions/entertainment",
+    "pass": 1
+   },
+   {
+    "quote": "Please use your work email address",
+    "url": "https://improvado.io/solutions/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Please use your work email address",
+    "url": "https://improvado.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "delivered personally, by confirmed email, or on the third day after mailing by first-class,",
+    "url": "https://improvado.io/company-legal/services-agreement-2023-12-01",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/improvado/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/improvado/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/improvado-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "The \"business glue\" that was once handled by email and spreadsheets is beginning to be replaced by GitHub.",
+    "url": "https://note.com/ai_stroll/n/n6d23fe1eef89?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The score changes every time behavioral logs, email responses, or site visits occur, and the sales team is notified the moment a threshold is exceeded.",
+    "url": "https://note.com/ai_stroll/n/n6d23fe1eef89?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.litmus.com/blog/ai-email-workflow",
+    "url": "https://note.com/ai_stroll/n/n6d23fe1eef89?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Marketing Connectors, BI Platforms, Data Warehouses, Visualization Tools, AI/ML platforms, and more. OEM, VAR, and Referral Partnerships are all supported.",
+    "url": "https://improvado.io/company/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Join Improvado Technology Partner Program by submitting your application. Every application is reviewed by a partner manager. We'll contact you with the agreement and next steps.",
+    "url": "https://improvado.io/company/partners/technology-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Analytics & Reporting for Agencies | Improvado",
+    "url": "https://improvado.io/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Track record verified by real agencies",
+    "url": "https://improvado.io/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Built for agencies that want to move fast",
+    "url": "https://improvado.io/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Improvado provides an end-to-end, customized analytics solution for medium to large enterprises and agencies. Its platform integrates, simplifies, governs, and attributes complex revenue data across 1,400+ data sources, providing a unified and clear view of marketing ROI and performance.",
+    "url": "https://improvado.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading enterprises & agencies",
+    "url": "https://improvado.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Improvado OS for agencies",
+    "url": "https://improvado.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "The operating system for marketing agencies.",
+    "url": "https://improvado.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Does Improvado work for agencies with many clients?",
+    "url": "https://improvado.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Yes: Improvado unifies client marketing data, automates reporting, and gives agencies an AI agent that answers performance questions in seconds, at scale. Eicoff gets 15× faster enterprise client onboarding with it.",
+    "url": "https://improvado.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Real numbers from marketing teams and agencies that centralized their data, automated",
+    "url": "https://improvado.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "TapClicks, Inc. is a leading marketing technology company for agencies, media companies, brands, and enterprises. Its integrated Marketing Operations Platform includes sales enablement, workflow and order management, analytics, and automated …",
+    "url": "https://www.featuredcustomers.com/vendor/improvado/case-studies",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "目的設定から対象媒体の選定、要件定義、代理店との役割分担、PoC、広告アカウントの権限管理・情報システム確認までの手順を整理",
+    "url": "https://free-ai-tools.jp/business/service/improvado",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Improvadoとは？ | 機能や料金、導入事例をご紹介【キャプテラ】 — Improvadoを実際に使用したユーザーのレビューから、製品の機能や価格、メリットデメリットをご覧いただけます。 類似製品との比較も簡単、ぴったりのSaaSが見つかるはず！",
+    "url": "https://www.capterra.jp/software/163884/improvado",
+    "pass": 3
+   },
+   {
+    "quote": "Improvado, Your Marketing Runs Itself. The AI Agent That ... — Improvado connects all your marketing data, answers any question in seconds, generates creatives, runs A/B tests, and governs your data quality, all through one AI agent with full context.",
+    "url": "https://improvado.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Improvado（Improvado, Inc.）の料金・機能を解説【2026年8月時点】 |... — Aug 6, 2026 · Improvado（Improvado, Inc.）は公式記載なし。 主な機能はAIエージェントとの連携・データの抽出/統合/変換。 1,000以上のプラットフォームからマーケティングデータを統合するデータ基盤を必要とするエンタープライズに向いています。",
+    "url": "https://free-ai-tools.jp/business/service/improvado",
+    "pass": 3
+   },
+   {
+    "quote": "Improvado - Mac、Windows (PC) 用デスクトップアプリ - WebCatalog — Mac、Windows (PC) 用デスクトップアプリ Improvado を macOS および Windows 用の WebCatalog Desktop で、専用の気が散らないウィンドウで使用できます。 アプリの切り替えが速くなり、マルチタスクもよりスムーズになって仕事の効率が向上します。",
+    "url": "https://webcatalog.io/ja/apps/improvado",
+    "pass": 3
+   },
+   {
+    "quote": "Improvado + Asana — What is Improvado? Improvado is a marketing data platform that connects your Asana workspace to 500+ marketing data sources — ad spend, campaign performance, web analytics, and revenue.",
+    "url": "https://asana.com/ja/apps/improvado",
+    "pass": 3
+   },
+   {
+    "quote": "Improvado, Your Marketing Runs Itself. The AI Agent That ... — Improvado connects 1,400+ data sources, ensures data quality, and extracts all the business knowledge that matters, in one prompt.",
+    "url": "https://improvado.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Improvado.io - Company — Learn about Improvado — our story, team, investors, partners, and career opportunities.",
+    "url": "https://improvado.io/company",
+    "pass": 3
+   },
+   {
+    "quote": "Improvado - LinkedIn — Improvado is an AI-powered marketing intelligence platform that enables marketing and analytics teams to unlock the full potential of their data for impactful business decisions.",
+    "url": "https://www.linkedin.com/products/improvado/",
+    "pass": 3
+   },
+   {
+    "quote": "Improvado Company Profile - Office Locations, Competitors ...Improvado | ATDbImprovado - 2026 Company Profile & Team - Tracxn — Improvado is a company that develops an AI-powered marketing intelligence and analytics platform. It allows users to manage and extract maps, transform, and analyze advertising and marketing data from social and private sources. Oct 17, 2026 · Improvado is a leading enter",
+    "url": "https://craft.co/improvado-io",
+    "pass": 3
+   },
+   {
+    "quote": "Improvado.io - Customer Case Studies — See how marketing teams and agencies use Improvado to centralize data, automate reporting, and prove ROI - real numbers from real customer stories.",
+    "url": "https://improvado.io/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Improvado B2B Case Studies & Customer Successes — See how Improvado solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/improvado",
+    "pass": 3
+   },
+   {
+    "quote": "22 Improvado Case Studies, Success Stories, & Customer ... — Narrow down 22 case studies by company size & industry to find out how Improvado works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/improvado/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case study: Improvado & fitness apparel brand — At Improvado, we always put the client’s interests and desires first. Our dedicated team of engineers and customer success managers has been working helping to set up everything and deliver first-class service from the initial contact right to the successful integration.",
+    "url": "https://improvado.io/customer/fitness-apparel-company",
+    "pass": 3
+   },
+   {
+    "quote": "Improvado Case Study: International Makeup and Fashion E ... — International Makeup and Fashion E-Commerce Company partnered with Improvado (Computer Software) to solve key challenges. \"How Improvado helped a personal styling platform to aggregate and process raw data\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/improvado/case-study/how-improvado-helped-a-personal-styling-platform-to-aggregate-and-process-raw-data",
+    "pass": 3
+   },
+   {
+    "quote": "Whitelabel Documentation | Improvado — Aug 21, 2024 · Discover how to customize your interface and remove any references to Improvado with our comprehensive Whitelabel documentation.",
+    "url": "https://improvado.io/docs/whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "Improvado: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Improvado was founded in 2017 by Daniel Kravtsov. Reported scale details include $34M total funding, 95 employees across 14 time zones, closed a $3M seed round and raised $8M from 60 investors.",
+    "url": "https://startupintros.com/orgs/improvado",
+    "pass": 3
+   },
+   {
+    "quote": "Improvado Revenue, Funding & Valuation — Improvado has revenue of $10,000,000, estimated valuation of $32,000,000, $22,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/improvado-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Improvado Revenue 2025: $12.2M Est., $22M Raised — Oct 30, 2026 · Improvado 2025 estimated revenue: $12.2M. Total funding: $22M across 1 round. 111 employees. Industry: Marketing Analytics Software. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/improvado.io",
+    "pass": 3
+   },
+   {
+    "quote": "Improvado - 2026 Company Profile, Funding & Investors | The ... — Oct 17, 2026 · Improvado has raised $33 million across 3 funding rounds from investors including Nexus Venture Partners, Updata Partners and Fund for Technological Internet Companies. Its chief executive, as recorded, is Daniel Kravtsov. Its website improvado.io draws about 182 thousand monthly visits.",
+    "url": "https://www.thecompanycheck.com/company/b/improvado/b8rb2nelqezbgmd6z",
+    "pass": 3
+   },
+   {
+    "quote": "Improvado 2026 Company Profile: Valuation, Funding ...Improvado Inc - $18.9 M Revenue, Employees & Growth | Kona EquityImprovado: Funding, Investors & Team (Oct 2026) | FundedIQ — Information on valuation, funding, cap tables, investors, and executives for Improvado. Use the PitchBook Platform to explore the full profile. Improvado Inc, has an estimated annual revenue of $18.9 M, with approximatel",
+    "url": "https://pitchbook.com/profiles/company/98638-30",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Business Applications of AI Coding Agents｜AI生活研究所 Jan 3, 2026 · https://improvado.io/blog/ai-marketing-automation https://docs.github.com/en/actions/use-cases-and-examples/project-management/using-github-actions-for-project-management",
+    "url": "https://note.com/ai_stroll/n/n6d23fe1eef89?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Business Applications of AI Coding Agents｜AI生活研究所",
+    "url": "https://note.com/ai_stroll/n/n6d23fe1eef89?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/ai_stroll/n/n6d23fe1eef89?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Business Applications of AI Coding Agents",
+    "url": "https://note.com/ai_stroll/n/n6d23fe1eef89?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI coding agents are beginning to permeate business operations as well. I feel this is a glimpse of the future, so I am recording it as a memo.",
+    "url": "https://note.com/ai_stroll/n/n6d23fe1eef89?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Developer tools have begun to transform into business operating systems",
+    "url": "https://note.com/ai_stroll/n/n6d23fe1eef89?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Over the past few years, the nature of",
+    "url": "https://note.com/ai_stroll/n/n6d23fe1eef89?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "(Claude Code Action) has changed.",
+    "url": "https://note.com/ai_stroll/n/n6d23fe1eef89?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is not about \"non-engineers being able to handle automation.\"",
+    "url": "https://note.com/ai_stroll/n/n6d23fe1eef89?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Improvado.io (@Improvado_io) / Posts / X Improvado.io (@Improvado_io) - Posts - What #AdAgencies use to aggregate #AdTech & #MarTech data for cross-channel reports + visualiz... | X (formerly Twitter)",
+    "url": "https://x.com/improvado_io",
+    "pass": 3
+   },
+   {
+    "quote": "Daniel Kravtsov (@DanielKravtsov) / Posts / X Improvado AI Agent comes with a knowledge graph that integrates all the business context that matters. To do so, it integrates data from 700+ data sources spanning beyond performance data — your landing pages, style, copy, documentation, reviews, and more.",
+    "url": "https://x.com/DanielKravtsov",
+    "pass": 3
+   },
+   {
+    "quote": "Improvado.io (@Improvado_io) / Posts / X Sep 22, 2016 · Improvado.io (@Improvado_io) - Posts - What #AdAgencies use to aggregate #AdTech & #MarTech data for cross-channel reports + visualiz... | X (formerly Twitter)",
+    "url": "https://x.com/improvado_io",
+    "pass": 3
+   },
+   {
+    "quote": "@improvado | X The latest posts from @improvado",
+    "url": "https://x.com/improvado",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Improvado - LinkedIn Improvado is an AI-powered marketing intelligence platform that enables marketing and analytics teams to unlock the full potential of their data for impactful business decisions.",
+    "url": "https://www.linkedin.com/company/improvado",
+    "pass": 3
+   },
+   {
+    "quote": "Improvado - LinkedIn Improvado is an AI-powered marketing intelligence platform that enables marketing and analytics teams to unlock the full potential of their data for impactful business decisions.",
+    "url": "https://www.linkedin.com/products/improvado/",
+    "pass": 3
+   },
+   {
+    "quote": "Ai Product Builder en Improvado — Área metropolitana de ... Nov 5, 2026 · AI Product Builder Improvado is an AI-powered, unified platform designed for marketing teams in medium to large-scale enterprises and agencies, who are looking to automate complex marketing intelligence and reporting to make decisions with ease.",
+    "url": "https://mx.linkedin.com/jobs/view/ai-product-builder-at-improvado-4485847989",
+    "pass": 3
+   },
+   {
+    "quote": "AI Product Builder na empresa Improvado - LinkedIn Jobs Improvado gathers, organizes, and untangles marketing data to deliver instant insights through BI and AI, helping to eliminate complexity, delivering laser-focused insights to optimize budgets, enhance campaign efficiency and marketing ROI. About The Role As an AI Product Builder you own one product area end to end.",
+    "url": "https://br.linkedin.com/jobs/view/ai-product-builder-at-improvado-4458557300",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Improvado | San Diego CA - FacebookImprov-a-Do - FacebookImprovado - A holistic dashboard is critical to understanding ...Improvado - Improvado continues to expand its integration ...Improvado - Our reviews speak for themselves ... - FacebookImprovado - Implementing a data pipeline in your... | FacebookImprovado - a 2019 #marketing #prediction THIS will... Feb 11, 2025 · Improvado provides a highl",
+    "url": "https://www.facebook.com/Improvado.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Improv-a-Do - Facebook Mar 14, 2018 · 5 more days to register for Improv-a-Do! before our April 1st, 2017 event! Go to www.improvado.org to sign up! Or click the sign up button above!",
+    "url": "https://www.facebook.com/improvado/",
+    "pass": 3
+   },
+   {
+    "quote": "Improvado - A holistic dashboard is critical to understanding ... Dec 15, 2022 · Me, realizing that I'd have to spend several days putting it together: 👀 🤔 Improvado has got you covered! Our dashboards provide a holistic view of your campaign's progress in no time, showcasing all of the relevant metrics and KPIs from your paid social campaigns.",
+    "url": "https://www.facebook.com/Improvado.io/photos/a-holistic-dashboard-is-critical-to-understanding-the-efficiency-of-your-ad-spen/588887083244764/",
+    "pass": 3
+   },
+   {
+    "quote": "Improvado - Improvado continues to expand its integration ... Dec 6, 2022 · Improvado - Improvado continues to expand its integration capabilities. In November, we added two new data sources.",
+    "url": "https://www.facebook.com/Improvado.io/photos/improvado-continues-to-expand-its-integration-capabilities-in-november-we-added-/579626104170862/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://improvado.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://improvado.io/company/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://improvado.io/company/partners/technology-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://improvado.io/solutions/agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://improvado.io/company/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://improvado.io/company/jobs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://improvado.io/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://improvado.io/solutions/marketers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://improvado.io/solutions/analysts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://improvado.io/solutions/leadership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://improvado.io/solutions/mmm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://improvado.io/solutions/mcp-marketing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://improvado.io/solutions/brands",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://improvado.io/solutions/small-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://improvado.io/solutions/entertainment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://improvado.io/solutions/finance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://improvado.io/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://improvado.io/marketing-research/multi-location-healthcare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://improvado.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://improvado.io/company-legal/services-agreement-2023-12-01",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://improvado.io/593ed35b7e7f144e5e0ec373/5ae1f88fd15258c2304c5779_Bessemer.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://improvado.io/593ed35b7e7f144e5e0ec373/5a1f05193361430001fc9d02_Nexus-Venture-Partners-logo-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://improvado.io/593ed35b7e7f144e5e0ec373/5bfc656c6383db516308ce78_logo.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://improvado.io/-/astro/trust-logos/asus.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.capterra.jp/software/163884/improvado",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://free-ai-tools.jp/business/service/improvado",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webcatalog.io/ja/apps/improvado",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%BB%E3%83%90%E3%83%BC%E3%83%9E%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atlassian.com/ja/blog/atlassian-japan-launched",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/products/improvado/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.capterra.jp/software/163884/improvado",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/improvado",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/improvado/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/improvado",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/improvado-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/improvado.io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/improvado/b8rb2nelqezbgmd6z",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_stroll/n/n6d23fe1eef89?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/improvado_io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/DanielKravtsov",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/improvado",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/improvado/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mx.linkedin.com/jobs/view/ai-product-builder-at-improvado-4485847989",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://br.linkedin.com/jobs/view/ai-product-builder-at-improvado-4458557300",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Improvado.io/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/improvado/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Improvado.io/photos/a-holistic-dashboard-is-critical-to-understanding-the-efficiency-of-your-ad-spen/588887083244764/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Improvado.io/photos/improvado-continues-to-expand-its-integration-capabilities-in-november-we-added-/579626104170862/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/improvado_io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/improvado",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Improvado 日本 導入",
+   "results": [
+    "https://www.capterra.jp/software/163884/improvado",
+    "https://improvado.io/",
+    "https://free-ai-tools.jp/business/service/improvado",
+    "https://webcatalog.io/ja/apps/improvado",
+    "https://asana.com/ja/apps/improvado",
+    "https://improvado.io/solutions/software-technology",
+    "https://car.watch.impress.co.jp/docs/news/2153268.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Improvado 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ニューバーガー・バーマン",
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://improvado.io/",
+    "https://www.atlassian.com/ja/blog/atlassian-japan-launched",
+    "https://www.houjin-bangou.nta.go.jp/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://jpmktg.winbond.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Improvado Japan",
+   "results": [
+    "https://improvado.io/",
+    "https://improvado.io/company",
+    "https://www.linkedin.com/products/improvado/",
+    "https://www.capterra.jp/software/163884/improvado",
+    "https://craft.co/improvado-io",
+    "https://www.theatdb.com/companies/improvado",
+    "https://tracxn.com/d/companies/improvado/__JPNzW_tlBkYVwgmNSx3lzvVuKJ46-BPiJuK2lLqBjgI"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Improvado manufacturing customer case study",
+   "results": [
+    "https://improvado.io/customers",
+    "https://www.casestudies.com/company/improvado",
+    "https://www.featuredcustomers.com/vendor/improvado/case-studies",
+    "https://improvado.io/customer/fitness-apparel-company",
+    "https://www.casestudies.com/company/improvado/case-study/how-improvado-helped-a-personal-styling-platform-to-aggregate-and-process-raw-data",
+    "https://www.cuspera.com/products/improvado-x-6125/customer-story",
+    "https://aboveapex.com/case-studies/improvado/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Improvado white label OR reseller OR partner program",
+   "results": [
+    "https://improvado.io/docs/whitelabel",
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Improvado founded funding employees revenue",
+   "results": [
+    "https://startupintros.com/orgs/improvado",
+    "https://prospeo.io/c/improvado-revenue",
+    "https://getlatka.com/companies/improvado.io",
+    "https://www.thecompanycheck.com/company/b/improvado/b8rb2nelqezbgmd6z",
+    "https://pitchbook.com/profiles/company/98638-30",
+    "https://www.konaequity.com/company/improvado-inc-4391709353/",
+    "https://fundediq.co/improvado-improvado-io-funding/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Improvado",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/dashboard",
+    "https://note.com/ai_stroll/n/n6d23fe1eef89?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/npaka/n/n337118664b85",
+    "https://note.com/fast_quince5593/n/n93f6f01230f1",
+    "https://note.com/tori_1980/n/n21037c205ade"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Improvado",
+   "results": [
+    "https://x.com/improvado_io",
+    "https://x.com/",
+    "https://x.com/DanielKravtsov",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/youdoingtoomuch/status/2114185237387456512",
+    "https://x.com/CogitoEdu/status/2117911840973861028",
+    "https://x.com/Marlayna29/status/2115433590150606880"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Improvado",
+   "results": [
+    "https://www.linkedin.com/company/improvado",
+    "https://www.linkedin.com/products/improvado/",
+    "https://mx.linkedin.com/jobs/view/ai-product-builder-at-improvado-4485847989",
+    "https://br.linkedin.com/jobs/view/ai-product-builder-at-improvado-4458557300",
+    "https://mx.linkedin.com/in/angel-heredia-uscanga-5bb19b14a",
+    "https://ie.linkedin.com/jobs/view/product-marketing-manager-at-improvado-4486287146",
+    "https://kz.linkedin.com/in/anna-betina-77b6b71b7"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Improvado",
+   "results": [
+    "https://www.facebook.com/Improvado.io/",
+    "https://www.facebook.com/improvado/",
+    "https://www.facebook.com/Improvado.io/photos/a-holistic-dashboard-is-critical-to-understanding-the-efficiency-of-your-ad-spen/588887083244764/",
+    "https://www.facebook.com/Improvado.io/photos/improvado-continues-to-expand-its-integration-capabilities-in-november-we-added-/579626104170862/",
+    "https://www.facebook.com/Improvado.io/photos/our-reviews-speak-for-themselves-share-with-us-your-honest-opinion-and-well-make/637354838397988/",
+    "https://www.facebook.com/Improvado.io/posts/implementing-a-data-pipeline-in-your-organization-can-be-challenging-for-any-bus/595584475908358/",
+    "https://www.facebook.com/Improvado.io/posts/a-2019-marketing-prediction-this-will-become-the-new-standard-and-stragglers-wil/2159754990950245/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Improvado note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://note.com/sanshita_note/n/n06e080c63da4",
+    "https://www.ch-files.net/note/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Improvado X 投稿",
+   "results": [
+    "https://x.com/improvado_io",
+    "https://x.com/improvado",
+    "https://improvado.io/docs/twitter",
+    "https://improvado.io/",
+    "https://x.com/Improvado_io/status/935586181051506689",
+    "https://improvado.io/blog/twitter-analytics",
+    "https://x.com/hashtag/improvisado"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）"
+ }
+}

@@ -1,0 +1,1536 @@
+{
+ "name": "Formance",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-12T00:07:40.574626+00:00",
+ "official_url": "https://formance.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$22,000",
+    "url": "https://prospeo.io/c/formance-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/formance-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Manhattan, New York, United States",
+    "url": "https://prospeo.io/c/formance-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://prospeo.io/c/formance-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Kraken Pro now connects to Formance →",
+    "url": "https://www.formance.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The open-source programmable ledger for fiat and digital assets. Model any flow of funds, track every cent in real time, and build on the immutable system of record trusted by regulators and auditors.",
+    "url": "https://www.formance.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A ledger built to design financial products, not just record them. Model flows in Numscript, ship in days.",
+    "url": "https://www.formance.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reconciliation scripts you babysit; internal records disagree with provider statements.",
+    "url": "https://www.formance.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Audits become fire drills; history is mutable and hard to prove.",
+    "url": "https://www.formance.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One normalized model across native connectors; add a provider without a rewrite.",
+    "url": "https://www.formance.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Compose multi-step flows (splits, fees, holds, payouts) as durable, event-driven programs. Run them reliably across providers with retries and full auditability.",
+    "url": "https://www.formance.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Formance enabled us to ship new lending products faster by providing a customizable foundation that let us reliably express the complexities of our flow of funds.",
+    "url": "https://www.formance.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Formance is the foundation of our Financial OS, the open-source approach lets us retain control over this key component.",
+    "url": "https://www.formance.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise controls, the certifications auditors ask for, and an immutable record, out of the box.",
+    "url": "https://www.formance.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From digital assets to corporate treasury, teams build their money movement on one programmable ledger.",
+    "url": "https://www.formance.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ledger, connectivity, flows and reconciliation, one programmable foundation your engineers can build on from day one.",
+    "url": "https://www.formance.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Kraken Pro now connects to Formance →",
+    "url": "https://www.formance.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Built to fit. Priced to scale.",
+    "url": "https://www.formance.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A production-grade, double-entry core ledger under MIT License. Full source code access, no restrictions.",
+    "url": "https://www.formance.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Generic Connector for any provider",
+    "url": "https://www.formance.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The full platform with a team behind it. Advanced modules, managed deployment, together with the guidance and support of an expert team so your ledger reaches production faster, stays reliable at scale, and meets the strictest regulatory requirements.",
+    "url": "https://www.formance.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-built PSP, bank & digital asset connectors",
+    "url": "https://www.formance.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Authentication, Auditing, Observability, and Streaming",
+    "url": "https://www.formance.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Private Cloud or Assisted Self-Hosted deployment",
+    "url": "https://www.formance.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Feature Breakdown: Open Source and Enterprise",
+    "url": "https://www.formance.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Build your own connector for any provider",
+    "url": "https://www.formance.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Capabilities",
+    "url": "https://www.formance.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise SSO (OIDC), authentication module",
+    "url": "https://www.formance.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prometheus, OpenTelemetry, Grafana dashboards, structured logs",
+    "url": "https://www.formance.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Implementation & Onboarding",
+    "url": "https://www.formance.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Solution design, provisioning, build, QA, go-live",
+    "url": "https://www.formance.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Deployment Options",
+    "url": "https://www.formance.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Both options include the full Enterprise platform and dedicated support. Choose where it runs and who operates it.",
+    "url": "https://www.formance.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Formance provisions and manages a dedicated, single-tenant environment in the region(s) of your choice.",
+    "url": "https://www.formance.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Formance handles provisioning, maintenance, upgrades & SRE",
+    "url": "https://www.formance.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Your infrastructure, your control. Formance provides the deployment toolkit, guided provisioning, and ongoing support.",
+    "url": "https://www.formance.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Guided provisioning & migration support",
+    "url": "https://www.formance.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Kraken Pro now connects to Formance →",
+    "url": "https://www.formance.com/solutions/digital-assets/stablecoin-issuance",
+    "pass": 1
+   },
+   {
+    "quote": "Issue stablecoins on a ledger that proves its reserves",
+    "url": "https://www.formance.com/solutions/digital-assets/stablecoin-issuance",
+    "pass": 1
+   },
+   {
+    "quote": "Back every token 1:1 with segregated fiat, mint and redeem programmatically, and produce an immutable audit trail your auditors and regulators can trust.",
+    "url": "https://www.formance.com/solutions/digital-assets/stablecoin-issuance",
+    "pass": 1
+   },
+   {
+    "quote": "Spreadsheets cannot back a token",
+    "url": "https://www.formance.com/solutions/digital-assets/stablecoin-issuance",
+    "pass": 1
+   },
+   {
+    "quote": "Reserve integrity is an accounting problem, not a smart-contract one.",
+    "url": "https://www.formance.com/solutions/digital-assets/stablecoin-issuance",
+    "pass": 1
+   },
+   {
+    "quote": "Off-chain reserves, mint/burn events and bank balances live in disconnected systems. Reconciling them is manual, error-prone, and impossible to prove after the fact.",
+    "url": "https://www.formance.com/solutions/digital-assets/stablecoin-issuance",
+    "pass": 1
+   },
+   {
+    "quote": "Auditors ask for point-in-time reserve proofs your stack cannot reconstruct.",
+    "url": "https://www.formance.com/solutions/digital-assets/stablecoin-issuance",
+    "pass": 1
+   },
+   {
+    "quote": "The primitives issuers need",
+    "url": "https://www.formance.com/solutions/digital-assets/stablecoin-issuance",
+    "pass": 1
+   },
+   {
+    "quote": "A double-entry core, programmable money movement and normalized connectivity — composed for reserve-backed issuance.",
+    "url": "https://www.formance.com/solutions/digital-assets/stablecoin-issuance",
+    "pass": 1
+   },
+   {
+    "quote": "Formance enabled us to ship new lending products faster by providing a customizable foundation that let us reliably express the complexities of our flow of funds.",
+    "url": "https://www.formance.com/solutions/digital-assets/stablecoin-issuance",
+    "pass": 1
+   },
+   {
+    "quote": "Formance is the foundation of our Financial OS, the open-source approach lets us retain control over this key component.",
+    "url": "https://www.formance.com/solutions/digital-assets/stablecoin-issuance",
+    "pass": 1
+   },
+   {
+    "quote": "See how fintechs, marketplaces and platforms run money movement on Formance in production.",
+    "url": "https://www.formance.com/solutions/digital-assets/stablecoin-issuance",
+    "pass": 1
+   },
+   {
+    "quote": "CAN I PRODUCE PROOF OF RESERVES?",
+    "url": "https://www.formance.com/solutions/digital-assets/stablecoin-issuance",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Reconstruct circulating supply and backing reserves for any point in time straight from the transaction log, and hand auditors a reproducible figure instead of a spreadsheet snapshot.",
+    "url": "https://www.formance.com/solutions/digital-assets/stablecoin-issuance",
+    "pass": 1
+   },
+   {
+    "quote": "Kraken Pro now connects to Formance →",
+    "url": "https://www.formance.com/solutions/digital-assets/exchanges-trading",
+    "pass": 1
+   },
+   {
+    "quote": "Fees, rebates and spreads are booked inconsistently across products.",
+    "url": "https://www.formance.com/solutions/digital-assets/exchanges-trading",
+    "pass": 1
+   },
+   {
+    "quote": "Proving solvency to an auditor means stitching together exports by hand.",
+    "url": "https://www.formance.com/solutions/digital-assets/exchanges-trading",
+    "pass": 1
+   },
+   {
+    "quote": "Express every fill, fee and rebate as a deterministic Numscript transaction so books balance by construction.",
+    "url": "https://www.formance.com/solutions/digital-assets/exchanges-trading",
+    "pass": 1
+   },
+   {
+    "quote": "Normalize fiat PSPs, banks and on-chain rails into one settlement model and keep internal orders in sync with provider refs.",
+    "url": "https://www.formance.com/solutions/digital-assets/exchanges-trading",
+    "pass": 1
+   },
+   {
+    "quote": "Formance enabled us to ship new lending products faster by providing a customizable foundation that let us reliably express the complexities of our flow of funds.",
+    "url": "https://www.formance.com/solutions/digital-assets/exchanges-trading",
+    "pass": 1
+   },
+   {
+    "quote": "Formance is the foundation of our Financial OS, the open-source approach lets us retain control over this key component.",
+    "url": "https://www.formance.com/solutions/digital-assets/exchanges-trading",
+    "pass": 1
+   },
+   {
+    "quote": "See how fintechs, marketplaces and platforms run money movement on Formance in production.",
+    "url": "https://www.formance.com/solutions/digital-assets/exchanges-trading",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Because every wallet balance is reconstructable from the log, you can produce a point-in-time solvency view across fiat and crypto without stitching exports together by hand.",
+    "url": "https://www.formance.com/solutions/digital-assets/exchanges-trading",
+    "pass": 1
+   },
+   {
+    "quote": "Fiat PSPs, banks and on-chain rails normalize into one settlement model, and internal orders stay linked to provider references so reconciliation is automatic.",
+    "url": "https://www.formance.com/solutions/digital-assets/exchanges-trading",
+    "pass": 1
+   },
+   {
+    "quote": "Kraken Pro now connects to Formance →",
+    "url": "https://www.formance.com/solutions/digital-assets/tokenization",
+    "pass": 1
+   },
+   {
+    "quote": "Connect off-chain cash flows to on-chain tokens with a double-entry ledger that keeps issuance, distributions and redemptions provably in sync.",
+    "url": "https://www.formance.com/solutions/digital-assets/tokenization",
+    "pass": 1
+   },
+   {
+    "quote": "Tokens represent real assets, but the cash, distributions and redemptions live off-chain. Keeping both sides reconciled is the hard part.",
+    "url": "https://www.formance.com/solutions/digital-assets/tokenization",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "The open-source programmable ledger for fiat and digital assets. Model any flow of funds, track every cent in real time, and build on the immutable system of record trusted by regulators and auditors.",
+    "url": "https://www.formance.com/",
+    "pass": 1
+   },
+   {
+    "quote": "_TRUSTED BY TEAMS MOVING MONEY/",
+    "url": "https://www.formance.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Investor and warehouse funding cannot be attributed cleanly across the book.",
+    "url": "https://www.formance.com/solutions/fintech/lending",
+    "pass": 1
+   },
+   {
+    "quote": "Attribute every disbursement and repayment to its warehouse line or investor, with returns computed from the same record.",
+    "url": "https://www.formance.com/solutions/fintech/lending",
+    "pass": 1
+   },
+   {
+    "quote": "Meter GPU-hours as a first-class asset, convert delivered compute into invoices and settlement, and keep operators, tenants, and rails in one auditable record, at inference-provider volume.",
+    "url": "https://www.formance.com/solutions/ai/compute-marketplaces",
+    "pass": 1
+   },
+   {
+    "quote": "Compute is delivered in hours, billed in dollars, and settled in USDC and fiat, across operators, tenants, and financing partners. Usage lives in one system, invoices in another, and the underwriters funding nine-figure GPU deals have no book to underwrite against.",
+    "url": "https://www.formance.com/solutions/ai/compute-marketplaces",
+    "pass": 1
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/formance/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Root Cause Analysis Examples: 5 Manufacturing Case Studies Walked Through - PPAP Documents | Production Part Approval Process",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Root Cause Analysis Examples: 5 Manufacturing Case Studies Walked Through",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Root cause analysis is best understood through real scenarios. This article walks through five manufacturing case studies: a dimensional nonconformance, a repeat customer complaint, a machine breakdown, an incoming material failure, and an audit finding. Each example shows the investigation process from problem identification through corrective action.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 1: Dimensional Nonconformance on a Machined Component",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "A Tier 2 automotive supplier receives a customer rejection for a machined aluminum housing. The bore diameter on 340 parts measures 25.12 to 25.18 mm against a specification of 25.00 +/- 0.05 mm. All rejected parts were produced during second shift on a single CNC machining center over a two-day period.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Why was the counter not set? The second-shift setup operator was not trained on the counter reset procedure. First-shift operators had been handling this task, and the procedure was passed informally rather than documented.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Revise the setup work instruction to include the counter reset step with visual aids. Retrain all operators on all shifts. Add counter verification to the startup checklist. Update the PFMEA to reflect the tool life management risk and the new control.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 2: Repeat Customer Complaint on Cosmetic Defects",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 3: Recurring Machine Breakdown",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Replace the fatigued spring immediately. Add wire feed assembly spring replacement to the PM schedule at an interval consistent with the manufacturer’s recommendation. Review all similar welding robots to verify their PM schedules include this component. Add a feed tension check to the weekly operator maintenance checklist as a secondary control.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 4: Incoming Material Failure",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 5: Internal Audit Finding on Document Control",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "A root cause analysis example walks through a real or realistic problem scenario showing the investigation method, the chain of cause and effect, the systemic root cause identified, and the corrective action implemented. The case studies above demonstrate this process across five common manufacturing situations.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "What is the most common root cause in manufacturing?",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Can these examples be adapted for non-manufacturing environments?",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. The investigation structure (define the problem, contain the damage, analyze the cause, implement corrective action, verify effectiveness) applies to any industry. Replace the manufacturing-specific details with your process context and the methodology works the same way.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Stay Current on Automotive Quality",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "How to Build a Lean Culture in an Automotive Manufacturing Plant",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Lean Manufacturing Tools: The 10 Most Effective Techniques for the Shop Floor",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Deposits credit a customer wallet, a matched trade moves balances between accounts, fees route to revenue, and withdrawals settle back out — all double-entry.",
+    "url": "https://www.formance.com/solutions/digital-assets/exchanges-trading",
+    "pass": 1
+   },
+   {
+    "quote": "Settle a matched trade between two customers and route the fee to revenue — atomic and idempotent.",
+    "url": "https://www.formance.com/solutions/digital-assets/exchanges-trading",
+    "pass": 1
+   },
+   {
+    "quote": "Every fill, fee and rebate is an explicit posting in the same transaction. There is no separate fee system to reconcile — revenue is booked as the trade settles.",
+    "url": "https://www.formance.com/solutions/digital-assets/exchanges-trading",
+    "pass": 1
+   },
+   {
+    "quote": "FX rates, ramp fees, and gas are hard-coded, so revenue capture breaks at scale.",
+    "url": "https://www.formance.com/solutions/digital-assets/crypto-payments",
+    "pass": 1
+   },
+   {
+    "quote": "Conversion rates, spreads, ramp fees, and gas modeled declaratively per hop, so revenue is captured by construction.",
+    "url": "https://www.formance.com/solutions/digital-assets/crypto-payments",
+    "pass": 1
+   },
+   {
+    "quote": "Employer funds arrive in one currency, sit as float across providers, and leave as hundreds of payouts across chains and rails. One failed retry double-pays someone; one missed payout is a support escalation, and the float is earning yield nobody can attribute.",
+    "url": "https://www.formance.com/solutions/digital-assets/crypto-payroll",
+    "pass": 1
+   },
+   {
+    "quote": "Balances live in the BaaS platform, card events arrive out of order, and your database is a best-effort mirror. Every provider migration, product launch, and safeguarding review runs into the same wall: the record is not yours.",
+    "url": "https://www.formance.com/solutions/fintech/neobanks",
+    "pass": 1
+   },
+   {
+    "quote": "An authorization must check and hold funds inside the network's window, then survive captures that arrive days later, partial reversals, and settlement files that never quite match. Most home-built ledgers fail on both speed and truth.",
+    "url": "https://www.formance.com/solutions/fintech/card-issuing",
+    "pass": 1
+   },
+   {
+    "quote": "Captures, partial captures, and reversals arrive late and out of order, corrupting balances.",
+    "url": "https://www.formance.com/solutions/fintech/card-issuing",
+    "pass": 1
+   },
+   {
+    "quote": "Holds, captures, partial captures, reversals, and refunds as native patterns, consistent even when events arrive out of order.",
+    "url": "https://www.formance.com/solutions/fintech/card-issuing",
+    "pass": 1
+   },
+   {
+    "quote": "Outstanding principal, accrued interest, and arrears derived from the log in real time: per loan, per cohort, per book.",
+    "url": "https://www.formance.com/solutions/fintech/lending",
+    "pass": 1
+   },
+   {
+    "quote": "principal · interest · arrears",
+    "url": "https://www.formance.com/solutions/fintech/lending",
+    "pass": 1
+   },
+   {
+    "quote": "State changes post as explicit transactions (arrears, restructuring, write-off), so the full lifecycle of every loan is one continuous, auditable history.",
+    "url": "https://www.formance.com/solutions/fintech/lending",
+    "pass": 1
+   },
+   {
+    "quote": "A dividend arrives at the nominee account and distributes to every holder pro-rata in one atomic posting: no batch script, no partial state, full audit trail.",
+    "url": "https://www.formance.com/solutions/fintech/investing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes: assets are ledgered with configurable precision, so fractional holdings carry the same double-entry guarantees as whole units.",
+    "url": "https://www.formance.com/solutions/fintech/investing",
+    "pass": 1
+   },
+   {
+    "quote": "Track premium collection, commission splits, claims payouts, and carrier settlement on one ledger, across brokers, carriers, and reinsurers.",
+    "url": "https://www.formance.com/solutions/fintech/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Broker, platform, carrier, reinsurer — everyone needs their exact share.",
+    "url": "https://www.formance.com/solutions/fintech/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "A single premium splits across commissions, taxes, carrier shares, and reinsurance cessions, then flows back out as claims and refunds months later. Tracked across bordereaux and spreadsheets, the money and the paperwork stop agreeing.",
+    "url": "https://www.formance.com/solutions/fintech/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Premium splits — commission, tax, carrier share — are computed in spreadsheets per bordereau.",
+    "url": "https://www.formance.com/solutions/fintech/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Client money and carrier money mix in the same accounts with no provable segregation.",
+    "url": "https://www.formance.com/solutions/fintech/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Carrier and reinsurer settlement happens monthly, by hand, from exported CSVs.",
+    "url": "https://www.formance.com/solutions/fintech/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Each premium splits at collection (commission, taxes, carrier share) into segregated accounts. Carrier settlement pays what the ledger holds, and claims draw from reserves with the full policy history attached.",
+    "url": "https://www.formance.com/solutions/fintech/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "commission · tax · carrier",
+    "url": "https://www.formance.com/solutions/fintech/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Declarative premium splits, segregated client money, and scheduled carrier settlement, composed for insurance distribution.",
+    "url": "https://www.formance.com/solutions/fintech/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Commissions, taxes, and carrier shares declared in Numscript and posted at collection: per product, per broker, per carrier.",
+    "url": "https://www.formance.com/solutions/fintech/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Premium held for carriers stays in segregated account trees, provable at any timestamp for CASS-style reviews.",
+    "url": "https://www.formance.com/solutions/fintech/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Bordereau-ready statements derived from the log, and settlement flows to carriers and reinsurers run on schedule.",
+    "url": "https://www.formance.com/solutions/fintech/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Commission, tax, and carrier share: one atomic posting.",
+    "url": "https://www.formance.com/solutions/fintech/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "A collected premium distributes across the platform commission, insurance premium tax, and the carrier's segregated account in a single Numscript transaction.",
+    "url": "https://www.formance.com/solutions/fintech/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "CAN SPLITS VARY BY PRODUCT AND CARRIER?",
+    "url": "https://www.formance.com/solutions/fintech/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Yes: splits are declared per product, broker, and carrier. A new scheme or commission structure is configuration, not a code change.",
+    "url": "https://www.formance.com/solutions/fintech/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "HOW DOES CARRIER SETTLEMENT WORK?",
+    "url": "https://www.formance.com/solutions/fintech/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Carrier and reinsurer positions accrue in segregated accounts as premiums post. Settlement pays the derived balance on schedule, with a bordereau-ready statement from the log.",
+    "url": "https://www.formance.com/solutions/fintech/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Unit economics shift with every hardware generation and workload mix, and financing partners underwriting GPU deployments have no auditable usage-to-revenue record.",
+    "url": "https://www.formance.com/solutions/ai/compute-marketplaces",
+    "pass": 1
+   },
+   {
+    "quote": "Hand financing partners an auditable usage-to-revenue history per operator and per deployment: the book that GPU lending has been missing.",
+    "url": "https://www.formance.com/solutions/ai/compute-marketplaces",
+    "pass": 1
+   },
+   {
+    "quote": "Usage converts to revenue atomically",
+    "url": "https://www.formance.com/solutions/ai/compute-marketplaces",
+    "pass": 1
+   },
+   {
+    "quote": "Rates are captured per conversion at booking time, so the usage-to-revenue history stays exact even when pricing moves between delivery and settlement.",
+    "url": "https://www.formance.com/solutions/ai/compute-marketplaces",
+    "pass": 1
+   },
+   {
+    "quote": "GPU financings are nine-figure bets on future usage revenue. An immutable usage-to-cash record per operator is the underwriting book that has not existed.",
+    "url": "https://www.formance.com/solutions/ai/compute-marketplaces",
+    "pass": 1
+   },
+   {
+    "quote": "Move a sender deposit into a safeguarded account and post the FX spread to revenue in a single transaction.",
+    "url": "https://www.formance.com/solutions/corporate-treasury/international-payments",
+    "pass": 1
+   },
+   {
+    "quote": "Payments arrive through lockboxes and card processors, invoices live in the ERP, and matching them is manual: short-pays, early-pay discounts, and cross-currency payments all land unapplied and wait for a human.",
+    "url": "https://www.formance.com/solutions/corporate-treasury/accounts-receivable",
+    "pass": 1
+   },
+   {
+    "quote": "An invoice opens the receivable, the payment arrives through a lockbox or processor, application matches it to the invoice (discounts and tolerable short-pays posting as explicit rules), and the residual clears by policy, not by hand.",
+    "url": "https://www.formance.com/solutions/corporate-treasury/accounts-receivable",
+    "pass": 1
+   },
+   {
+    "quote": "Attribute every dollar to the right company and cost center across a growing group, and keep it right through acquisitions, restructures, and consolidation.",
+    "url": "https://www.formance.com/solutions/corporate-treasury/multi-entity-accounting",
+    "pass": 1
+   },
+   {
+    "quote": "Acquisitions and restructures break entity-level accounting.",
+    "url": "https://www.formance.com/solutions/corporate-treasury/multi-entity-accounting",
+    "pass": 1
+   },
+   {
+    "quote": "Money arrives addressed to the group and must land in the right subsidiary, business unit, and cost center. Every acquisition adds entities, every restructure re-keys cost centers, and the GL absorbs it in batches, months behind reality.",
+    "url": "https://www.formance.com/solutions/corporate-treasury/multi-entity-accounting",
+    "pass": 1
+   },
+   {
+    "quote": "Each acquisition arrives with its own systems, and integration takes quarters.",
+    "url": "https://www.formance.com/solutions/corporate-treasury/multi-entity-accounting",
+    "pass": 1
+   },
+   {
+    "quote": "Accounts structured by customer, company, and cost center: every posting carries its dimensions, every balance rolls up along any of them.",
+    "url": "https://www.formance.com/solutions/corporate-treasury/multi-entity-accounting",
+    "pass": 1
+   },
+   {
+    "quote": "ACQUISITION ONBOARDING",
+    "url": "https://www.formance.com/solutions/corporate-treasury/multi-entity-accounting",
+    "pass": 1
+   },
+   {
+    "quote": "Bring an acquired company's books in through a mapped migration: shadow-run against their system, then cut over with the history intact.",
+    "url": "https://www.formance.com/solutions/corporate-treasury/multi-entity-accounting",
+    "pass": 1
+   },
+   {
+    "quote": "The account structure carries the dimensions: one posting records which customer owes which company for work done by which cost center, and every roll-up follows.",
+    "url": "https://www.formance.com/solutions/corporate-treasury/multi-entity-accounting",
+    "pass": 1
+   },
+   {
+    "quote": "HOW FAST CAN AN ACQUISITION BE ONBOARDED?",
+    "url": "https://www.formance.com/solutions/corporate-treasury/multi-entity-accounting",
+    "pass": 1
+   },
+   {
+    "quote": "Once the chart of accounts mapping is defined, the acquired books migrate through bulk endpoints: shadow-run alongside their system, then cut over. Weeks, not quarters.",
+    "url": "https://www.formance.com/solutions/corporate-treasury/multi-entity-accounting",
+    "pass": 1
+   },
+   {
+    "quote": "Modern Treasury enables its clients to marry bank statements with the company’s business logic to provide an enriched history of the company’s financial transactions. This view will empower the company’s …",
+    "url": "https://www.featuredcustomers.com/vendor/formance/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/formance/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Part Submission Warrant (PSW)",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Opportunity to build additional revenue streams around the products through professional services.",
+    "url": "https://www.vizrt.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Formance Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/formance-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Formance",
+    "url": "https://prospeo.io/c/formance-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/formance-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/formance-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/formance-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Operator payouts and tenant invoices are computed in batch, disputed by email.",
+    "url": "https://www.formance.com/solutions/ai/compute-marketplaces",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/formance/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/formance/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Why were the revisions not distributed to this workstation? Because the document control coordinator distributed revisions via email to supervisors, and this supervisor did not print and replace the document at the workstation.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "The document control distribution process does not include a verification step to confirm that updated documents have been received and posted at the workstation. The process relies entirely on email distribution to supervisors without a feedback loop.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Save my name, email, and website in this browser for the next time I comment.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/formance-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/482501-17",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Superformance Japan – 私どもスーパーフォーマンス社は、1996年より... — このウェブサイトはスーパーフォーマンス社 （Superformance LLC) による公式サイトです。 Superformance Head Office address : 1 Whatney Irvine CA 92618, USA / Phone # (949)900-1951/Fax# (949)900-1680 The Superformance MKIII is built under license from Carroll Shelby Licensing Inc. The GT40® is built under license from Safir Spares LLC, the holders of the GT40 ...",
+    "url": "https://superformancejapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Nippon Performance — Fast and Safe Vehicle Search Reliable address to buy a fast car from Japan",
+    "url": "https://nipponperformance.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "3 Formance Case Studies, Success Stories, & Customer Stories — Formance has a 4.8/5 star rating. Learn what their customers think, get 3 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/formance/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Formance B2B Case Studies & Customer Successes — Formance provides an agnostic infrastructure, allowing them to build and operate sophisticated fund flows with the financial service providers of their choice. Their open source and modular components ensure flexibility, ownership, and a shorter time-to-market.",
+    "url": "https://www.casestudies.com/company/formance",
+    "pass": 3
+   },
+   {
+    "quote": "Root Cause Analysis Examples: 5 Manufacturing Case Studies ... — Aug 14, 2026 · Root cause analysis is best understood through real scenarios. This article walks through five manufacturing case studies: a dimensional nonconformance, a repeat customer complaint, a machine breakdown, an incoming material failure, and an audit finding. Each example shows the investigation process",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "14 Formance Customer Reviews & References | FeaturedCustomers — Learn more about Formance - use cases, approaches, & end results from real customers; read customer reviews including 14 testimonials, videos, and case studies.",
+    "url": "https://www.featuredcustomers.com/vendor/formance",
+    "pass": 3
+   },
+   {
+    "quote": "Formance Revenue, Funding & Valuation - prospeo.io — Formance has revenue of $1,000,000, estimated valuation of $3,200,000. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/formance-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Formance 2026 Company Profile: Valuation, Funding & Investors ...How Formance hit $5M revenue with a 28 person team in 2024.Formance Funding | <$5M Revenue | Complete AnalysisFormance — Funding, Investors & Team | SeedtableFormance - 2026 Company Profile, Team, Funding & Competitors ...Formance: Funding, Team & Investors | Startup Intros — Formance FAQs When was Formance founded? Formance was foun",
+    "url": "https://pitchbook.com/profiles/company/482501-17",
+    "pass": 3
+   },
+   {
+    "quote": "How Formance hit $5M revenue with a 28 person team in 2024. — When was Formance founded? Formance was founded in 2021. How much revenue does Formance generate? Formance generates $5M in revenue. Click for revenue growth graph. How much funding does Formance have? Formance raised $0. How many employees does Formance have? Formance has 28 employees. Where is Formance headquarters?",
+    "url": "https://getlatka.com/companies/formance.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Formance Funding | <$5M Revenue | Complete Analysis — What is Formance? Formance offers open-source financial infrastructure for businesses to create custom fund flows and integrate with financial partners, enhancing their operational scalability.",
+    "url": "https://www.extruct.ai/hub/formance-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Formance — Funding, Investors & Team | Seedtable — Sep 19, 2026 · Formance: Formance, founded in 2021 by Anne-Sybille Pradelles and Clement Salaun, sells an open-source financial core for money-moving platforms: a programmable",
+    "url": "https://seedtable.com/companies/formance",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Partner Program - Resellers, Integrators & Tech Partners | Vizrt",
+    "url": "https://www.vizrt.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Vizrt Partner Program",
+    "url": "https://www.vizrt.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Attractive reseller discounts with performance rebates and additional discounts, marketing development funds, marketing support and lead distribution from Vizrt.",
+    "url": "https://www.vizrt.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "A Partner Program for",
+    "url": "https://www.vizrt.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "The partner program is segmented into the following categories, and you can certify to sell the categories that fit your target customers",
+    "url": "https://www.vizrt.com/partner-program/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "「ただの広告が通用しない日。信頼が売上になる日」をテーマにしたイ... Feb 8, 2026 · 申込をすればアーカイブ配信も視聴可能のようですので、是非お早めの予約をお勧めします。 参加申込みは以下の公式ページよりお願いします Brand-formance 2026 〜「ただの広告」が通用しない日。 「信頼」が売上になる日。",
+    "url": "https://biz.note.com/n/n4033c8c531df",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "「ただの広告が通用しない日。信頼が売上になる日」をテーマにしたイベントに、noteプロデューサーの徳力が登壇します。｜note pro公式 | 法人オウンドメディアをかんたん、すぐに立ち上げ",
+    "url": "https://biz.note.com/n/n4033c8c531df",
+    "pass": 3
+   },
+   {
+    "quote": "「ただの広告が通用しない日。信頼が売上になる日」をテーマにしたイベントに、noteプロデューサーの徳力が登壇します。",
+    "url": "https://biz.note.com/n/n4033c8c531df",
+    "pass": 3
+   },
+   {
+    "quote": "note pro公式 | 法人オウンドメディアをかんたん、すぐに立ち上げ",
+    "url": "https://biz.note.com/n/n4033c8c531df",
+    "pass": 3
+   },
+   {
+    "quote": "2月25日に開催される「ただの広告が通用しない日。信頼が売上になる日」をテーマにした「Brand-formance2026」というオンラインイベントに、noteプロデューサーの徳力基彦が登壇します。",
+    "url": "https://biz.note.com/n/n4033c8c531df",
+    "pass": 3
+   },
+   {
+    "quote": "「Brand-formance2026」は、「焼き畑農業的な獲得を卒業し、LTVを最大からする」をキャッチコピーに開催されるオンラインイベントです。",
+    "url": "https://biz.note.com/n/n4033c8c531df",
+    "pass": 3
+   },
+   {
+    "quote": "弊社の徳力は、12時25分から「AIによるゼロクリック時代に,企業はどのような情報発信をするべきなのか」をテーマに登壇させていただきます。",
+    "url": "https://biz.note.com/n/n4033c8c531df",
+    "pass": 3
+   },
+   {
+    "quote": "それ以外にも様々な企業の担当者から、信頼を獲得するためのブランディングや効果測定の方法についての多様なセッションが展開されるイベントになっています。",
+    "url": "https://biz.note.com/n/n4033c8c531df",
+    "pass": 3
+   },
+   {
+    "quote": "申込をすればアーカイブ配信も視聴可能のようですので、是非お早めの予約をお勧めします。",
+    "url": "https://biz.note.com/n/n4033c8c531df",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Formance (@formancehq) / X Formance is now DORA compliant! Our journey strengthened our resilience, sharpened our operations, and built opportunities for deeper trust with customers. Here’s what it took and why it matters.",
+    "url": "https://x.com/formancehq",
+    "pass": 3
+   },
+   {
+    "quote": "Trust is a Feature, Not a Feeling | Formance (@formancehq) on X True resilience comes from infrastructure that can prove its own correctness—automatically and continuously—so that no anomaly depends on human detection to be contained. This is where Formance shines. We help institutions design systems where the governance layer is built into the architecture rather than layered on afterward.",
+    "url": "https://x.com/formancehq/article/1995485636090876240",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by sharon steele (@tranceformance) / X 0 followers · 19 following. Joined Oct 2009. See the latest conversations with @tranceformance",
+    "url": "https://x.com/tranceformance/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "FELIZZ Announces Purr-formance Duo Cover Series with Fan ... The six-member Thai girl group—Chelsea, Sangt, Pream, Jaoying, AcaRe, and Chari—teased 'PURR-FORMANCE' on Sunday, promising one cover each day on... Get live updates on FELIZZ Announces Purr-formance Duo Cover Series with Fan-Favorite Ships trending on X (Twitter). 1428 posts and latest developments.",
+    "url": "https://x.com/i/trending/2030669690276815249",
+    "pass": 3
+   },
+   {
+    "quote": "Formance (@formancehq) / X Jul 22, 2021 · We're proud to officially unveil the Formance Platform: a suite of agnostic infrastructure services — Ledger, Connectivity, Flows, and Reconciliation — to build bespoke flows of funds on a scalable and extensible financial core system.",
+    "url": "https://x.com/formancehq",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Formance - LinkedIn Formance | 11,164 followers on LinkedIn. Track Every Cent. Trust Every Flow. | Formance is an open-source financial core: a programmable, double-entry ledger with modules for connectivity ...",
+    "url": "https://www.linkedin.com/company/formancehq",
+    "pass": 3
+   },
+   {
+    "quote": "Formance - LinkedIn Formance | 2,162 followers on LinkedIn. The effortless solution to comfortable, healthy homes. | We believe in better. Building better, living better and being better – for you, for your family ...",
+    "url": "https://www.linkedin.com/company/formance",
+    "pass": 3
+   },
+   {
+    "quote": "Formance - LinkedIn Formance is an open-source financial core: a programmable, double-entry ledger with modules for connectivity, reconciliation, and orchestrated money movement. Balances replay from an immutable transaction log.",
+    "url": "https://fr.linkedin.com/company/formancehq",
+    "pass": 3
+   },
+   {
+    "quote": "Pro-Formance Intermodal Inc. - LinkedIn Pro-formance Intermodal Inc. is an Alberta based company with our head office being in the beautiful city of Calgary. We have container storage yards for ocean & Inter-modal containers located in Calgary and Edmonton. We aim to be one of the best and most reliable trucking companies in Canada; by consistently being responsive, efficient and flexible, we stri",
+    "url": "https://ca.linkedin.com/company/pro-formance-intermodal-inc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Formance - Facebook Sep 24, 2026 · Formance. 4,513 followers · 31 talking about this. Formance Structural Insulated Panels- A building system for energy efficient living & the environment",
+    "url": "https://www.facebook.com/FormanceNZ/",
+    "pass": 3
+   },
+   {
+    "quote": "Pro-Formance Enterprises Ltd | Arima - FacebookFacebookPer Formance (@mzaperformance) • Facebook, Connect with friendsFormance | Santa Ana - FacebookPRO-Formance Intermodal Inc. | Calgary AB - FacebookPro-Formance Wood Floors - Facebook Aug 22, 2026 · Pro-Formance Enterprises Ltd, Arima. 476 followers. One stop shop for all your signage, printing and installation needs. Log into Facebook to connec",
+    "url": "https://www.facebook.com/ProFormanceSignsTT/",
+    "pass": 3
+   },
+   {
+    "quote": "Per Formance (@mzaperformance) • Facebook, Connect with friends Per Formance is on Facebook. Join Facebook to connect with Per Formance and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/mzaperformance/about/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.formance.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formance.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formance.com/solutions/digital-assets/stablecoin-issuance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formance.com/solutions/digital-assets/exchanges-trading",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formance.com/solutions/digital-assets/tokenization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formance.com/solutions/digital-assets/custody-wallets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formance.com/solutions/digital-assets/crypto-payments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formance.com/solutions/digital-assets/crypto-neobank",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formance.com/solutions/digital-assets/crypto-payroll",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formance.com/solutions/fintech/neobanks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formance.com/solutions/fintech/card-issuing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formance.com/solutions/fintech/acquiring",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formance.com/solutions/fintech/lending",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formance.com/solutions/fintech/investing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formance.com/solutions/fintech/insurance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formance.com/solutions/ai/compute-marketplaces",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formance.com/solutions/corporate-treasury/international-payments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formance.com/solutions/corporate-treasury/accounts-receivable",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formance.com/solutions/corporate-treasury/multi-entity-accounting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formance.com/solutions/corporate-treasury/ledger-modernization",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://formance01.b-cdn.net/customers/logos/liberis-white.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://formance01.b-cdn.net/customers/logos/doctolib-white.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://formance01.b-cdn.net/customers/logos/payflip-white.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://formance01.b-cdn.net/customers/logos/shares-white.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://superformancejapan.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153268.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://autoprove.net/imported-car/jeep/wrangler/258778/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.yahoo.co.jp/articles/82a32d3cf6c0ca76f13b11dddcfc54f722724546",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://superformancejapan.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nipponperformance.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.fromjapan.co.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fromjapan.co.jp/en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/formance/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/formance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mckinsey.com/about-us/case-studies",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canva.com/partners/reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.t-mobile.com/business/partner-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/formance-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/482501-17",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/formance.com#customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.extruct.ai/hub/formance-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.note.com/n/n4033c8c531df",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/formancehq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/formancehq/article/1995485636090876240",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tranceformance/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/i/trending/2030669690276815249",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/formancehq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/formance",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/company/formancehq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/pro-formance-intermodal-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/FormanceNZ/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ProFormanceSignsTT/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mzaperformance/about/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/formancehq",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Formance 日本 導入",
+   "results": [
+    "https://superformancejapan.com/",
+    "https://car.watch.impress.co.jp/docs/news/2153268.html",
+    "https://autoprove.net/imported-car/jeep/wrangler/258778/",
+    "https://news.yahoo.co.jp/articles/82a32d3cf6c0ca76f13b11dddcfc54f722724546",
+    "https://www.nikkei.com/article/DGXZQOUC060RJ0W6A600C2000000/",
+    "https://jikayosha.jp/2026/10/13/325463/",
+    "https://bestcarweb.jp/news/entame/1669612"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Formance 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.jetro.go.jp/invest/setting_up/section1/page1.html",
+    "https://www.dnb.com/business-directory/company-profiles/carrier-japan-corporation.c68792be67b1faf869e19ed327c4cc00",
+    "https://www.houjin-bangou.nta.go.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Formance Japan",
+   "results": [
+    "https://superformancejapan.com/",
+    "https://nipponperformance.com/en",
+    "http://corporate.fromjapan.co.jp/en/",
+    "https://www.fromjapan.co.jp/en",
+    "https://www.fromjapan.co.jp/sp/introduction/en/",
+    "https://www.formance.com/",
+    "https://nipponperformance.com/en/detailed-vehicle-search"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Formance manufacturing customer case study",
+   "results": [
+    "https://www.featuredcustomers.com/vendor/formance/case-studies",
+    "https://www.casestudies.com/company/formance",
+    "https://www.mckinsey.com/about-us/case-studies",
+    "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "https://www.featuredcustomers.com/vendor/formance",
+    "https://plex.rockwellautomation.com/en-us/case-studies.html",
+    "https://www.researchgate.net/publication/369411261_Quality_Improvement_of_the_Forging_Process_Using_Pareto_Analysis_and_8D_Methodology_in_Automotive_Manufacturing_A_Case_Study"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Formance white label OR reseller OR partner program",
+   "results": [
+    "https://www.canva.com/partners/reseller/",
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://www.seoreseller.com/",
+    "https://upcloud.com/partner-program/",
+    "https://partner.vw.com/partner"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Formance founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/formance-revenue",
+    "https://pitchbook.com/profiles/company/482501-17",
+    "https://getlatka.com/companies/formance.com/customers",
+    "https://www.extruct.ai/hub/formance-com-funding/",
+    "https://seedtable.com/companies/formance",
+    "https://tracxn.com/d/companies/formance/__WeVjmb-9dWsMCnWL6UBSDqzjNejcmCBD7UNw3hCwMyo",
+    "https://startupintros.com/orgs/formance"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Formance",
+   "results": [
+    "https://note.com/wise_turtle184",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/seigo77",
+    "https://biz.note.com/n/n4033c8c531df",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/cute_willet990/n/n9529041a97d7",
+    "https://note.com/rakbil/n/n16a0b62cd206",
+    "https://note.com/spaceygoblin/n/n0f0677188638"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com Formance",
+   "results": [
+    "https://x.com/formancehq",
+    "https://x.com/formancehq/article/1995485636090876240",
+    "https://x.com/tranceformance/with_replies",
+    "https://x.com/i/trending/2030669690276815249",
+    "https://x.com/formancehq/articles",
+    "https://x.com/pear_jkp/status/2120099077480481216",
+    "https://x.com/AbdulElSayed/status/2119810003364385227"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Formance",
+   "results": [
+    "https://www.linkedin.com/company/formancehq",
+    "https://www.linkedin.com/company/formance",
+    "https://fr.linkedin.com/company/formancehq",
+    "https://ca.linkedin.com/company/pro-formance-intermodal-inc",
+    "https://ca.linkedin.com/in/aman-brar-816a9586",
+    "https://www.linkedin.com/in/antoine-moreau",
+    "https://www.linkedin.com/company/viaformance"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Formance",
+   "results": [
+    "https://www.facebook.com/FormanceNZ/",
+    "https://www.facebook.com/ProFormanceSignsTT/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/mzaperformance/about/",
+    "https://www.facebook.com/formance.cr/",
+    "https://www.facebook.com/proformancetruck/",
+    "https://www.facebook.com/proformancefloors/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Formance note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://note.com/saiyou_dekirukun/all",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://ir.note.jp/message"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Formance X 投稿",
+   "results": [
+    "https://x.com/formancehq",
+    "https://airformancex.com/",
+    "https://www.formance.com/",
+    "https://www.xformance.agency/",
+    "https://github.com/formancehq/",
+    "https://x.com/RI_Monitor/status/2119690232220254244",
+    "https://photo-tools.tech/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部37頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部37頁・検索12回）"
+ }
+}

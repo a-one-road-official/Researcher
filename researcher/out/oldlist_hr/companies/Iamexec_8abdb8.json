@@ -1,0 +1,518 @@
+{
+ "name": "Iamexec",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-11T23:30:13.205298+00:00",
+ "official_url": "http://iamexec.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Get quotes from top local pros for cleaning and handyman tasks.",
+    "url": "https://www.handy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Home Improvement Projects",
+    "url": "https://www.handy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get free quotes from top local home improvement pros on larger home projects.",
+    "url": "https://www.handy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cleaning and handyman tasks booked and paid for through Handy are performed by experienced, skilled providers who are highly rated by customers like you.",
+    "url": "https://www.handy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Booking on Handy.com is no longer available. If you prefer to book directly, use the",
+    "url": "https://www.handy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Are You a Five Star Pro?",
+    "url": "https://www.handy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From cleaners to handymen to smart home installers, Handy is always looking for service professionals who are experts in their trade and provide great service to their customers. The best home service professionals use Handy to find jobs with no lead fees and flexible scheduling.",
+    "url": "https://www.handy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Handy works with partners who want to provide their customers, tenants, or employees easy access to quality home services at affordable prices.",
+    "url": "https://www.handy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Exec_(errand_service)",
+    "pass": 3
+   },
+   {
+    "quote": "was a company based in San Francisco, United States, that provided companies and individuals access to on-demand personal assistants (for delivery, furniture assembly, research, etc.) and cleaning services.",
+    "url": "https://en.wikipedia.org/wiki/Exec_(errand_service)",
+    "pass": 3
+   },
+   {
+    "quote": "The jobs were dispatched to nearby individuals with the appropriate skills and good ratings, at a flat rate of $38 an hour .",
+    "url": "https://en.wikipedia.org/wiki/Exec_(errand_service)",
+    "pass": 3
+   },
+   {
+    "quote": "Exec's cleaning service garnered positive reviews from web publications such as TechCrunch praising their professionalism and efficiency.",
+    "url": "https://en.wikipedia.org/wiki/Exec_(errand_service)",
+    "pass": 3
+   },
+   {
+    "quote": "\"Exec Scores $3.3M To Do Odd Jobs, On-Demand, For A La Carte Pricing\"",
+    "url": "https://en.wikipedia.org/wiki/Exec_(errand_service)",
+    "pass": 3
+   },
+   {
+    "quote": "\"You Can Hire Someone To Do Charity Work For You Through This Startup\"",
+    "url": "https://en.wikipedia.org/wiki/Exec_(errand_service)",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Exec_(errand_service)",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Handy works with partners who want to provide their customers, tenants, or employees easy access to quality home services at affordable prices.",
+    "url": "https://www.handy.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", his brother Daniel Kan, and Amir Ghazvinian. The company was acquired by",
+    "url": "https://en.wikipedia.org/wiki/Exec_(errand_service)",
+    "pass": 3
+   },
+   {
+    "quote": "In January 2014, Handybook, a company founded by Oisin Hanrahan, Umang Dua, Ignacio Leonhardt, and Weina Scott in 2012 announced that it had acquired Exec.",
+    "url": "https://en.wikipedia.org/wiki/Exec_(errand_service)",
+    "pass": 3
+   },
+   {
+    "quote": "\"Exec, Task Service Company, Sends Employees To Volunteer On Users' Behalf\"",
+    "url": "https://en.wikipedia.org/wiki/Exec_(errand_service)",
+    "pass": 3
+   },
+   {
+    "quote": "2014 mergers and acquisitions",
+    "url": "https://en.wikipedia.org/wiki/Exec_(errand_service)",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Exec (@iamexec) / Posts / X Exec (@iamexec) - Posts - Our new twitter name is @exec | X (formerly Twitter)",
+    "url": "https://x.com/iamexec",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by Exec (@iamexec) / X @iamexec hasn’t replied When they reply, their replies will show up here.",
+    "url": "https://x.com/iamexec/with_replies",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.handy.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=RYoYIT2EInc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://newswitch.jp/p/50724",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00006/00837/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=DBK9vqrcDaY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jamex.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imec-int.com/en/connect-with-us/imec-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.msci.com/www/index-factsheets/msci-japan-imi/05851572",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/EUJapanCentre",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.anylogic.com/resources/case-studies/?industry=manufacturing",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/customer-stories/case-studies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.acmeind.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infodreamgroup.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Exec_(errand_service)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://siliconangle.com/2026/09/23/ema-raises-77m-in-funding-to-deploy-ai-employees-across-enterprise-hr-it-and-finance-departments/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bullfincher.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/technology/ai/articles/ema-raises-77m-ai-starts-120000270.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/iamexec",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/iamexec/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Iamexec 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.youtube.com/watch?v=RYoYIT2EInc",
+    "https://newswitch.jp/p/50724",
+    "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00006/00837/",
+    "https://blog.evsmart.net/t/emta-k-ev-japan-launch-2027-affordable/3300",
+    "https://x.com/i/trending/2023441258102821054",
+    "https://www.youtube.com/watch?v=NnHpEhvwFNM",
+    "https://news.dellows.jp/1066031/",
+    "https://akiba.keizai.biz/release/679331/",
+    "https://prtimes.jp/main/html/rd/p/000000054.000045804.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Iamexec 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.youtube.com/watch?v=DBK9vqrcDaY",
+    "https://www.digima-japan.com/knowhow/world/19787.php",
+    "https://www.japan-port.com/news/374/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://web-repo.jp/articles/1451",
+    "https://fc-kamei.net/ID30/KW11",
+    "https://j-dma.org/company",
+    "https://b-seeds.com/column/sole-agency-agreement"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Iamexec Japan",
+   "results": [
+    "https://www.jamex.co.jp/",
+    "https://www.imec-int.com/en/connect-with-us/imec-japan",
+    "https://www.msci.com/www/index-factsheets/msci-japan-imi/05851572",
+    "https://x.com/EUJapanCentre",
+    "https://money.tmx.com/en/quote/JAPN",
+    "https://en.wikipedia.org/wiki/Japan_Agency_for_Medical_Research_and_Development",
+    "https://www.post.japanpost.jp/service/send/oversea/mypage/index_en.html",
+    "https://imexporta.jp/",
+    "https://www.gettyimages.com/photos/japan-yusuke-imai",
+    "https://courses.japanesewithaimee.com/login"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Iamexec manufacturing customer case study",
+   "results": [
+    "https://www.anylogic.com/resources/case-studies/?industry=manufacturing",
+    "https://www.autodesk.com/customer-stories/case-studies",
+    "https://www.acmeind.com/case-studies/",
+    "https://infodreamgroup.com/case-studies/",
+    "https://indx.com/case-studies",
+    "https://www.jmp.com/en/customer-stories/customer-listing/by-industry/industrial-manufacturing",
+    "https://www.factory-twin.com/casestudies",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.infosys.com/industries/industrial-manufacturing/case-studies.html",
+    "https://www.idmworks.com/insight/case-study-consumer-manufacturer-iam/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Iamexec white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.nuwebgroup.com/blog/entrepreneur/everything-you-need-to-know-about-white-label-reseller-programs",
+    "https://seedlycrm.com/blog/white-label-crm-playbook",
+    "https://evincedev.com/blog/a-detailed-guide-to-white-label-reseller-program-to-grow-your-existing-business/",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Iamexec founded funding employees revenue",
+   "results": [
+    "https://en.wikipedia.org/wiki/Exec_(errand_service)",
+    "https://siliconangle.com/2026/09/23/ema-raises-77m-in-funding-to-deploy-ai-employees-across-enterprise-hr-it-and-finance-departments/",
+    "https://bullfincher.io/",
+    "https://finance.yahoo.com/technology/ai/articles/ema-raises-77m-ai-starts-120000270.html",
+    "https://getlatka.com/companies/itemize.com",
+    "https://dealroom.co/news/info-1jq5etc-deepseeks-annualized-revenue-hits-1-billion-as-startup-finalizes-7-5-bil/",
+    "https://techcrunch.com/2024/03/05/ema-a-universal-ai-employee-emerges-from-stealth-with-25m/",
+    "https://inc42.com/buzz/ema-raises-77-mn-to-scale-its-universal-ai-employee-platform-globally/",
+    "https://venturebeat.com/business/ema-raises-36m-to-build-universal-ai-employees-for-enterprises",
+    "https://rocketreach.co/exec-inc-profile_b5ec0ce9f42e7299"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Iamexec",
+   "results": [
+    "https://note.com/akiman/n/n71cff9589662",
+    "https://note.com/tag/工藤公康",
+    "https://note.com/eng_memo/n/n18ac02673522?hl=en",
+    "https://note.com/eng_memo/n/ncb9599235e35?hl=en",
+    "https://note.com/rakbil/n/n16a0b62cd206",
+    "https://note.com/eng_memo/n/n78380e0d6347?hl=en",
+    "https://note.com/exec_coach20xx/n/na11fc61fad35?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Iamexec",
+   "results": [
+    "https://x.com/DrewDurbin",
+    "https://x.com/tyler_bates",
+    "https://x.com/iamexec",
+    "https://x.com/iamexec/with_replies",
+    "https://x.com/shiau/status/223935528788180993",
+    "https://x.com/iamexecassist",
+    "https://x.com/iAmExecAssist/with_replies",
+    "https://x.com/TheExecConcept/status/2028428155044687946",
+    "https://x.com/pashmerepat/status/2119968151064690919"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com Iamexec",
+   "results": [
+    "https://uk.linkedin.com/in/yang-yang-hogarth-70291a13",
+    "https://www.linkedin.com/pub/dir/Gabriel/Hill/us-0-United-States",
+    "https://www.linkedin.com/in/godardabel",
+    "https://www.linkedin.com/posts/catherineoliver_whats-inspired-you-this-week-or-made-you-activity-7524847613309812736-G0oV",
+    "https://au.linkedin.com/in/maxflanigan",
+    "https://www.linkedin.com/posts/eshap-media-cartographer_tiktok-filmtok-creatoreconomy-activity-7368599929633525760-Ab7K",
+    "https://www.linkedin.com/in/mhannus",
+    "https://www.linkedin.com/pulse/madecom-phoenix-from-ashes-brent-hoberman",
+    "https://uk.linkedin.com/in/abdul-mullick-91199710",
+    "https://www.linkedin.com/company/aim-executive-inc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com Iamexec",
+   "results": [
+    "https://www.facebook.com/groups/aadvm/posts/1404841973567863/",
+    "https://www.facebook.com/groups/aadvm/posts/1416090509109676/",
+    "https://www.facebook.com/groups/aadvm/posts/1261703634548365/",
+    "https://www.facebook.com/groups/aadvm/posts/1393101828075211/",
+    "https://www.facebook.com/groups/aadvm/posts/1699375624114495/",
+    "https://www.facebook.com/AmericanAirlines/posts/granite-cliffs-towering-waterfalls-and-ancient-sequoias-yosemite-is-a-reminder-o/1102741311900135/",
+    "https://www.facebook.com/groups/aadvm/posts/1333052970746764/",
+    "https://www.facebook.com/groups/aadvm/posts/1257977551587640/",
+    "https://www.facebook.com/mumsnet/posts/has-anyone-sold-a-house-recently-just-using-zoopla-or-anything-similar-i-am-exec/1501806531988462/",
+    "https://www.facebook.com/iamEXEC/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Iamexec note 社長",
+   "results": [
+    "https://note.com/tag/%E7%A4%BE%E9%95%B7%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC",
+    "https://x.com/sadaaki",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://online.nikkei-cnbc.co.jp/vod/58940",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://note.com/kazuyuki_tachi/n/n2915e4f702c6",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Iamexec X 投稿",
+   "results": [
+    "https://x.com/AEMET_Esp/status/1761345508235239928?ref_src=twsrc%5Etfw",
+    "https://x.com/official__ME_I_?lang=ja",
+    "https://www.instagram.com/aimee.x.x_/",
+    "https://linktr.ee/yame83",
+    "https://x.com/dicksostick/status/1775465640071197127",
+    "https://ameixt.com/ameixt09/",
+    "https://www.threads.com/@aimi.x_x.48",
+    "https://x.com/AmeiArts",
+    "https://www.sotwe.com/aymeex_",
+    "https://x.com/iamexec"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）"
+ }
+}

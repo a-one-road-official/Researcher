@@ -1,0 +1,931 @@
+{
+ "name": "株式会社伊東NC工業",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T23:07:29.732918+00:00",
+ "official_url": "http://www.ito-nc.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "〒208-0023　東京都武蔵村山市伊奈平2-70-1 Tel.042-560-8415 Fax.042-560-9675 アクセス",
+    "url": "https://www.ito-nc.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒208-0023　東京都武蔵村山市伊奈平2-70-1 Tel.042-560-8415 Fax.042-560-9675 アクセス",
+    "url": "http://www.ito-nc.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒208-0023　東京都武蔵村山市伊奈平2-70-1 Tel.042-560-8415 Fax.042-560-9675 アクセス",
+    "url": "http://ito-nc.com/company/",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東京都武蔵村山市伊奈平二丁目70-1",
+    "url": "https://eigyo-mfg.com/service/navi/company/81QnOhYaPsVL",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "25人",
+    "url": "https://www.ito-nc.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員",
+    "value": "25人",
+    "url": "http://www.ito-nc.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員",
+    "value": "25人",
+    "url": "http://ito-nc.com/company/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "17名",
+    "url": "https://eigyo-mfg.com/service/navi/company/81QnOhYaPsVL",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "業務内容",
+    "value": "立型・横型・マシニングセンター加工 ／ \t三次元製作・同時5軸加工 NCL加工・ワイヤーカット加工 ／ その他各種精密機械部品製作 各種治具工具製作、金型製品及び組立 ／ \tネジピンゲージ開発・販売 マイクロガイド開発・販売",
+    "url": "https://www.ito-nc.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "立型・横型・マシニングセンター加工 ／ \t三次元製作・同時5軸加工 NCL加工・ワイヤーカット加工 ／ その他各種精密機械部品製作 各種治具工具製作、金型製品及び組立 ／ \tネジピンゲージ開発・販売 マイクロガイド開発・販売",
+    "url": "http://www.ito-nc.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "立型・横型・マシニングセンター加工 ／ \t三次元製作・同時5軸加工 NCL加工・ワイヤーカット加工 ／ その他各種精密機械部品製作 各種治具工具製作、金型製品及び組立 ／ \tネジピンゲージ開発・販売 マイクロガイド開発・販売",
+    "url": "http://ito-nc.com/company/",
+    "pass": 3
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先 (敬称略)",
+    "value": "日野自動車株式会社　日野トレーディング株式会社 日立プロキュアメントサービス株式会社　株式会社ソーシン 株式会社富士機工　株式会社山口木型製作所 理研鍛造株式会社　明友機工株式会社　永和株式会社 カスヤ精工株式会社　株式会社コイワイ 日鍛バルブ株式会社　千代田鋳造株式会社 株式会社木村鋳造所　光和商事株式会社",
+    "url": "https://www.ito-nc.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "主要取引先 (敬称略)",
+    "value": "日野自動車株式会社　日野トレーディング株式会社 日立プロキュアメントサービス株式会社　株式会社ソーシン 株式会社富士機工　株式会社山口木型製作所 理研鍛造株式会社　明友機工株式会社　永和株式会社 カスヤ精工株式会社　株式会社コイワイ 日鍛バルブ株式会社　千代田鋳造株式会社 株式会社木村鋳造所　光和商事株式会社",
+    "url": "http://www.ito-nc.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "主要取引先 (敬称略)",
+    "value": "日野自動車株式会社　日野トレーディング株式会社 日立プロキュアメントサービス株式会社　株式会社ソーシン 株式会社富士機工　株式会社山口木型製作所 理研鍛造株式会社　明友機工株式会社　永和株式会社 カスヤ精工株式会社　株式会社コイワイ 日鍛バルブ株式会社　千代田鋳造株式会社 株式会社木村鋳造所　光和商事株式会社",
+    "url": "http://ito-nc.com/company/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "それを扱う人が成長してこそ、機械の特性を有効且つ最大限に生かし、より良い製品を作り出すことができるのだと考えております",
+    "url": "https://www.ito-nc.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "各種治具工具製作、金型製品及び組立 ／ ネジピンゲージ開発・販売",
+    "url": "https://www.ito-nc.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "それを扱う人が成長してこそ、機械の特性を有効且つ最大限に生かし、より良い製品を作り出すことができるのだと考えております",
+    "url": "http://www.ito-nc.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "各種治具工具製作、金型製品及び組立 ／ ネジピンゲージ開発・販売",
+    "url": "http://www.ito-nc.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介 Product introduction",
+    "url": "http://www.ito-nc.com/catalog/catalog03.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "それを扱う人が成長してこそ、機械の特性を有効且つ最大限に生かし、より良い製品を作り出すことができるのだと考えております",
+    "url": "http://ito-nc.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "各種治具工具製作、金型製品及び組立 ／ ネジピンゲージ開発・販売",
+    "url": "http://ito-nc.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "伊東NC工業の製品・サービス一覧｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2049899/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(4)",
+    "url": "https://mono.ipros.com/company/detail/2049899/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■各種治具工具製作、金型製品及び組立",
+    "url": "https://mono.ipros.com/company/detail/2049899/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(4)",
+    "url": "https://mono.ipros.com/company/detail/2049899/catalog/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "弊社は昭和４８年の創業以来、精密金属加工を生業としており、現在は主に自動車のエンジン部品の試作・開発、半導体製造装置の部品加工に携わらせていただいております",
+    "url": "https://www.ito-nc.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "試作から少量部品、生産部品まで",
+    "url": "http://www.ito-nc.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は昭和４８年の創業以来、精密金属加工を生業としており、現在は主に自動車のエンジン部品の試作・開発、半導体製造装置の部品加工に携わらせていただいております",
+    "url": "http://www.ito-nc.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "試作から少量部品、生産部品まで",
+    "url": "https://www.ito-nc.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "M21以上は特注製作対応となります",
+    "url": "http://www.ito-nc.com/catalog/catalog03.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "M2 1以上は特注製作対応となります",
+    "url": "http://www.ito-nc.com/catalog/catalog03.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "M21以上は特注製作対応となります",
+    "url": "http://www.ito-nc.com/catalog/catalog02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ネジ部 ： JIS2級相当 精度 同軸度0.01㎜ 〇 ・ ・ ・ 規格品 ● ・ ・ ・ 特注品",
+    "url": "http://www.ito-nc.com/catalog/catalog02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "精度 同軸度0.0 1㎜ 〇 ・ ・ ・ 規格品 ● ・ ・ ・ 特注品",
+    "url": "http://www.ito-nc.com/catalog/catalog02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "〇 ・ ・ ・ 規格品 ● ・ ・ ・ 特注品",
+    "url": "http://www.ito-nc.com/catalog/catalog02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※RAタイプは全サイズ特注品とな り ます",
+    "url": "http://www.ito-nc.com/catalog/catalog02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "G ・ PF1/2-14以上は特注製作対応となります",
+    "url": "http://www.ito-nc.com/catalog/catalog02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "R・PT1/2-14以上は特注製作対応となります",
+    "url": "http://www.ito-nc.com/catalog/catalog02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "PS1/2-14以上は特注製作対応となります",
+    "url": "http://www.ito-nc.com/catalog/catalog02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "7/8-14UNF以上は特注製作対応となります",
+    "url": "http://www.ito-nc.com/catalog/catalog02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "7/8-9UNC以上は特注製作対応となります",
+    "url": "http://www.ito-nc.com/catalog/catalog02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "M21以上は特注製作対応となります",
+    "url": "https://www.ito-nc.com/catalog/catalog02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ネジ部 ： JIS2級相当 精度 同軸度0.01㎜ 〇 ・ ・ ・ 規格品 ● ・ ・ ・ 特注品",
+    "url": "https://www.ito-nc.com/catalog/catalog02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "精度 同軸度0.0 1㎜ 〇 ・ ・ ・ 規格品 ● ・ ・ ・ 特注品",
+    "url": "https://www.ito-nc.com/catalog/catalog02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "〇 ・ ・ ・ 規格品 ● ・ ・ ・ 特注品",
+    "url": "https://www.ito-nc.com/catalog/catalog02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※RAタイプは全サイズ特注品とな り ます",
+    "url": "https://www.ito-nc.com/catalog/catalog02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "G ・ PF1/2-14以上は特注製作対応となります",
+    "url": "https://www.ito-nc.com/catalog/catalog02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "R・PT1/2-14以上は特注製作対応となります",
+    "url": "https://www.ito-nc.com/catalog/catalog02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "PS1/2-14以上は特注製作対応となります",
+    "url": "https://www.ito-nc.com/catalog/catalog02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "7/8-14UNF以上は特注製作対応となります",
+    "url": "https://www.ito-nc.com/catalog/catalog02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "7/8-9UNC以上は特注製作対応となります",
+    "url": "https://www.ito-nc.com/catalog/catalog02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "弊社は昭和４８年の創業以来、精密金属加工を生業としており、現在は主に自動車のエンジン部品の試作・開発、半導体製造装置の部品加工に携わらせていただいております",
+    "url": "http://ito-nc.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "現在は主に自動車のエンジン部品の試作・開発、半導体製造装置の",
+    "url": "https://mono.ipros.com/company/detail/2049899/category/",
+    "pass": 3
+   },
+   {
+    "quote": "試作から少量部品、生産部品まで対応いたします",
+    "url": "https://mono.ipros.com/company/detail/2049899/category/",
+    "pass": 3
+   },
+   {
+    "quote": "主に自動車のエンジン部品の試作・開発、半導体製造装置の部品加工を手がけています",
+    "url": "https://eigyo-mfg.com/service/navi/company/81QnOhYaPsVL",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "弊社は昭和４８年の創業以来、精密金属加工を生業としており、現在は主に自動車のエンジン部品の試作・開発、半導体製造装置の部品加工に携わらせていただいております",
+    "url": "https://www.ito-nc.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "各種治具工具製作、金型製品及び組立 ／ ネジピンゲージ開発・販売",
+    "url": "https://www.ito-nc.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "日野自動車株式会社 日野トレーディング株式会社",
+    "url": "https://www.ito-nc.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "汎用施盤、フライス等でプレス金型の加工を行う",
+    "url": "https://www.ito-nc.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "社内設計による加工治具にて、工程を集約",
+    "url": "http://www.ito-nc.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は昭和４８年の創業以来、精密金属加工を生業としており、現在は主に自動車のエンジン部品の試作・開発、半導体製造装置の部品加工に携わらせていただいております",
+    "url": "http://www.ito-nc.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "各種治具工具製作、金型製品及び組立 ／ ネジピンゲージ開発・販売",
+    "url": "http://www.ito-nc.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "日野自動車株式会社 日野トレーディング株式会社",
+    "url": "http://www.ito-nc.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "汎用施盤、フライス等でプレス金型の加工を行う",
+    "url": "http://www.ito-nc.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "社内設計による加工治具にて、工程を集約",
+    "url": "https://www.ito-nc.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は昭和４８年の創業以来、精密金属加工を生業としており、現在は主に自動車のエンジン部品の試作・開発、半導体製造装置の部品加工に携わらせていただいております",
+    "url": "http://ito-nc.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "各種治具工具製作、金型製品及び組立 ／ ネジピンゲージ開発・販売",
+    "url": "http://ito-nc.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "日野自動車株式会社 日野トレーディング株式会社",
+    "url": "http://ito-nc.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "汎用施盤、フライス等でプレス金型の加工を行う",
+    "url": "http://ito-nc.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "現在は主に自動車のエンジン部品の試作・開発、半導体製造装置の",
+    "url": "https://mono.ipros.com/company/detail/2049899/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■各種治具工具製作、金型製品及び組立",
+    "url": "https://mono.ipros.com/company/detail/2049899/category/",
+    "pass": 3
+   },
+   {
+    "quote": "社内設計による加工治具にて工程を集約し、短納期、低価格を実現",
+    "url": "https://mono.ipros.com/company/detail/2049899/category/",
+    "pass": 3
+   },
+   {
+    "quote": "主に自動車のエンジン部品の試作・開発、半導体製造装置の部品加工を手がけています",
+    "url": "https://eigyo-mfg.com/service/navi/company/81QnOhYaPsVL",
+    "pass": 3
+   },
+   {
+    "quote": "汎用施盤、フライス等でプレス金型の加工を行う",
+    "url": "https://eigyo-mfg.com/service/navi/company/81QnOhYaPsVL",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "鉄・非鉄材、鋳造、鍛造、樹脂など",
+    "url": "http://www.ito-nc.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄・非鉄材、鋳造、鍛造、樹脂など",
+    "url": "https://www.ito-nc.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "田 材質はステンレス(SUS303)を使用し、 錆を寄せ付けません",
+    "url": "http://www.ito-nc.com/catalog/catalog03.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "材質はステンレ ス(SUS303)を使用し、 錆を寄せ付けません",
+    "url": "http://www.ito-nc.com/catalog/catalog02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "材質はステンレ ス(SUS303)を使用し、 錆を寄せ付けません",
+    "url": "https://www.ito-nc.com/catalog/catalog02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "削り出し、異形物(鋳物)加工を得意とし、加工径最小1ｍｍ～最大1,200ｍｍまで対応可能！鋳物や難削材など材質もこだわりません",
+    "url": "https://mono.ipros.com/company/detail/2049899/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■材質にこだわりません(鋳物、アルミ、難削材、樹脂など)",
+    "url": "https://mono.ipros.com/company/detail/2049899/category/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "問い合わせフォーム | 株式会社 伊東NC工業",
+    "url": "https://www.ito-nc.com/index.php/inquire",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせは以下のお問い合わせフォームまたは電話・Faxにてお願いいたします",
+    "url": "https://www.ito-nc.com/index.php/inquire",
+    "pass": 1
+   },
+   {
+    "quote": "詳しくはお問い合わせ、またはカタログをダウンロードしてください",
+    "url": "https://mono.ipros.com/company/detail/2049899/category/",
+    "pass": 3
+   },
+   {
+    "quote": "インターネットを通じて当ウェブサイトの「お問い合わせ」をご利用いただいた際に、必要な情報の元となるお客様の個人情報の取扱いを行いますが、お客様の個人情報を、お客様の同意なしに第三者に開示することはありません",
+    "url": "https://r.goope.jp/itonc/contact",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "MO /¥RRBE.OOERLTUBTOT 36- PEP )=24になります. (MORVEY DY AMBAEEMOOBE)",
+    "url": "http://www.ito-nc.com/catalog/catalog03.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "PaMe) RA12175-1 13.0 es| 230 | a5 | 65 | 70 | 10 21 OfDRIPEE 11.0 #0005] 210] 85 | 55 | so | 10",
+    "url": "http://www.ito-nc.com/catalog/catalog03.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | 株式会社 伊東NC工業 — 会社概要 商号 株式会社伊東NC工業 役員 代表取締役 伊東大輔 創業 昭和48年1月 創立 昭和55年10月 資本金 1,000万円 住所 〒208-0023 東京都武蔵村山市伊奈平2-70-1 Tel.042-560-8415 Fax.042-560-9675 アクセス 取引銀行 多摩信用金庫 残堀支店 日本政策金融公庫 立川支店 従業員 25人 技能検定取得数 21 業務内容 ...",
+    "url": "http://ito-nc.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "伊東NC工業の製品・サービス一覧｜イプロスものづくり — Nov 19, 2018 · 伊東NC工業 の製品・サービス一覧です。 改革と挑戦が生み出す高次元な精度、経験が生み出す品質への自信。確かな技術でお応えします。 株式会社伊東NC工業は、精密金属加工を生業としており、現在は主に自動車のエンジン部品の試作・開発、半導体製造装置の部品加工に携わらせて ...",
+    "url": "https://mono.ipros.com/company/detail/2049899/category/",
+    "pass": 3
+   },
+   {
+    "quote": "伊東NC工業のカタログ一覧 | イプロスものづくり — Nov 19, 2018 · 伊東NC工業のカタログ一覧です。無料でダウンロードできます。伊東NC工業は、改革と挑戦が生み出す高次元な精度、経験が生み出す品質への自信。確かな技術でお応えします。株式会社伊東NC工業は、精密金属加工を生業としており、現在は主に自動車のエンジン部品の試作・開発、半導体製造 ...",
+    "url": "https://mono.ipros.com/company/detail/2049899/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 伊東NC工業 | 東京都武蔵村山市の精密機械加工 マイクロガイ... — Dec 16, 2025 · マシニングセンター等による精密機械加工とNCL加工・ ワイヤーカット及びマイクロガイド・ネジピンゲージの開発販売",
+    "url": "http://ito-nc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜株式会社伊東工業 - ito-k-g.com株式会社伊東NC工業 | 加工会社ナビ事業内容 - 株式会社伊東工業 | 株式会社伊東工業会社案内 | NC工業株式会社会社概要 – 伊東工業株式会社 — 会社概要 Greeting ご挨拶 弊社は平成2年3月に設立し、創業以来製缶加工及び搬送機器製造に力を入れ、各プラント工事を行ってきました。 受注から設計（開発を含む）・製造・据付までを一貫して行うことが、我が社の強みです。 株式会社伊東NC工業の 事業内容 マシニングセンター加工、三次元・同時5軸加工、NCL加工、ワイヤーカット加工、ネジピンゲージ開発販売、マイクロガイド開発販売 可能にする自動旋盤。 NC旋盤は、プログラムによって刃物の動きを精密に制御することで、高精度かつ連続的な加工を実現します。 寸法のバラつきが非常に少なく、複雑な形状の製品や高い繰り返し精度が求められる製品",
+    "url": "https://www.ito-k-g.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社伊東NC工業 | 加工会社ナビ — 株式会社伊東NC工業の 事業内容 マシニングセンター加工、三次元・同時5軸加工、NCL加工、ワイヤーカット加工、ネジピンゲージ開発販売、マイクロガイド開発販売",
+    "url": "https://eigyo-mfg.com/service/navi/company/81QnOhYaPsVL",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 | 株式会社 伊東NC工業 — マシニングセンター等による精密機械加工とNCL加工・ワイヤーカット及びマイクロガイド・ネジピンゲージの開発販売",
+    "url": "https://www.ito-nc.com/business/",
+    "pass": 3
+   },
+   {
+    "quote": "問い合わせフォーム | 株式会社 伊東NC工業 — お問い合わせフォーム お問い合わせは以下のお問い合わせフォームまたは電話・Faxにてお願いいたします。 株式会社伊東NC工業 〒208-0023 東京都武蔵村山市伊奈平2-70-1 Tel : 042-560-8415 Fax : 042-560-9675 個人情報保護方針 にご同意いただい上で以下のフォームご記入、送信ください。 ＊ マークは入力 ...",
+    "url": "https://www.ito-nc.com/index.php/inquire",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - （株）伊東NC工業 - グーペ — お問い合わせ | Welcome to our homepage 個人情報の保護について インターネットを通じて当ウェブサイトの「お問い合わせ」をご利用いただいた際に、必要な情報の元となるお客様の個人情報の取扱いを行いますが、お客様の個人情報を、お客様の同意なしに第三者に開示することはありません。",
+    "url": "https://r.goope.jp/itonc/contact",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "「機械ではなく、人。」 伊東NC工業が語ったのは、 同じ機械を持って... 「機械ではなく、人。」 伊東NC工業が語ったのは、 同じ機械を持っていても、 “伊東NCじゃなきゃ頼めない”状態を作ることが会社の価値だという話でした。 しかも向き合っているのは、 一品物が多く、試しができず、 いきなり正解を出さなければいけない難加工。 本編はこちら youtu.be/19wX ...",
+    "url": "https://x.com/Tsubasa19810917/status/2063604712126218270",
+    "pass": 3
+   },
+   {
+    "quote": "\"#伊東NC工業\" - Results on X | Live Posts & Updates Results for \"#伊東NC工業\" on X (Twitter). Find the latest posts, discussions, and updates about #伊東NC工業. 0 results found.",
+    "url": "https://x.com/hashtag/伊東NC工業",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "三塚 一樹 - ㈱伊東NC工業 - 営業チームリーダー | LinkedIn4,120,000+ 伊東nc工業 jobs in United States (228,333 new)ITO Corporation | LinkedIn30+ \"三塚\" profiles | LinkedInLinkedIn | LinkedInMatias Abergo - Arboreal | LinkedInHead of Business Development di Moneywave — Kuala Lumpur ... ㈱伊東NC工業 - 営業チームリーダー · 職歴: ㈱伊東NC工業 · 場所: 東京都 · LinkedInのつながり13人。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで三塚 一樹さんのプロフィールを閲覧しましょう。 Today’s top 4",
+    "url": "https://jp.linkedin.com/in/一樹-三塚-29a328171",
+    "pass": 3
+   },
+   {
+    "quote": "4,120,000+ 伊東nc工業 jobs in United States (228,333 new) Today’s top 4,120,000+ 伊東nc工業 jobs in United States. Leverage your professional network, and get hired. New 伊東nc工業 jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/伊東nc工業-jobs",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.ito-nc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ito-nc.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ito-nc.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ito-nc.com/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ito-nc.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ito-nc.com/index.php/inquire",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ito-nc.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ito-nc.com/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ito-nc.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ito-nc.com/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ito-nc.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ito-nc.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ito-nc.com/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ito-nc.com/business/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "http://www.ito-nc.com/catalog/catalog03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.ito-nc.com/catalog/catalog02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.ito-nc.com/catalog/micro.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ito-nc.com/catalog/catalog02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ito-nc.com/catalog/micro.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.ito-nc.com/product/img/product01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.ito-nc.com/product/img/product02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.ito-nc.com/product/img/product03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.ito-nc.com/product/img/product04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.ito-nc.com/product/img/product05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.ito-nc.com/product/img/get.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.ito-nc.com/product/img/pingauges1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.ito-nc.com/product/img/commentary01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.ito-nc.com/product/img/pingauges2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.ito-nc.com/product/img/pingauges3.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.ito-nc.com/product/img/pingauges4.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.ito-nc.com/product/img/pingauges5.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "http://ito-nc.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2049899/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2049899/catalog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ito-k-g.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eigyo-mfg.com/service/navi/company/81QnOhYaPsVL",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://ito-nc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ito-k-g.com/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://r.goope.jp/itonc/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Tsubasa19810917/status/2063604712126218270",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/伊東NC工業",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/一樹-三塚-29a328171",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/伊東nc工業-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/伊東NC工業",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "伊東NC工業 取扱製品 試作 小ロット",
+   "results": [
+    "http://ito-nc.com/company/",
+    "https://mono.ipros.com/company/detail/2049899/category/",
+    "https://mono.ipros.com/company/detail/2049899/catalog/",
+    "http://ito-nc.com/",
+    "https://yoshida-seiko.jp/column/1118/",
+    "https://www.nc-craft.jp/",
+    "https://www.nc-craft.jp/production-flow"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "伊東NC工業 会社概要 事業内容",
+   "results": [
+    "https://www.ito-k-g.com/company",
+    "https://eigyo-mfg.com/service/navi/company/81QnOhYaPsVL",
+    "http://ito-nc.com/",
+    "https://www.ito-nc.com/business/",
+    "https://itou-kougyou.com/service/",
+    "https://www.itokogyo-110.co.jp/company-profile/",
+    "https://nckougyou.com/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "伊東NC工業 お問い合わせ メール",
+   "results": [
+    "https://www.ito-k-g.com/contact",
+    "https://www.ito-nc.com/index.php/inquire",
+    "https://r.goope.jp/itonc/contact",
+    "https://www.itokogyo-110.co.jp/inquiries/",
+    "https://nckougyou.com/contacts/",
+    "https://ito-ind.info/contact/",
+    "https://www.ito-nc.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 伊東NC工業",
+   "results": [
+    "https://note.com/jun_ito_info",
+    "https://note.com/yoasobi_inc/n/nd52409c4fa75",
+    "https://note.com/futurestone/n/nd5081f1c3123",
+    "https://note.com/ryukyufantasy/n/n4a07d52c2cc3",
+    "https://note.com/arcbear/n/nc80101d1faf0",
+    "https://note.com/nobuhara_note/n/na9eb82ca54cf",
+    "https://note.com/aoi_journey/n/nccfd1177b768"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 伊東NC工業",
+   "results": [
+    "https://x.com/Tsubasa19810917/status/2063604712126218270",
+    "https://x.com/hashtag/伊東NC工業",
+    "https://x.com/itolife/status/2101596397846073472",
+    "https://x.com/ito_44_3",
+    "https://x.com/110seikan",
+    "https://x.com/aisan_running/status/2119561108659036309",
+    "https://x.com/ito_44"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 伊東NC工業",
+   "results": [
+    "https://jp.linkedin.com/in/一樹-三塚-29a328171",
+    "https://www.linkedin.com/jobs/伊東nc工業-jobs",
+    "https://jp.linkedin.com/company/itocorporation",
+    "https://www.linkedin.com/pub/dir/+/三塚",
+    "https://in.linkedin.com/company/linkedin",
+    "https://uy.linkedin.com/in/matiasabergo",
+    "https://my.linkedin.com/jobs/view/head-of-business-development-at-moneywave-4477234811"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 伊東NC工業",
+   "results": [
+    "https://secure.facebook.com/",
+    "https://business.facebook.com/groups/autry/",
+    "https://www.facebook.com/p/伊東工-100000555775226/",
+    "https://www.facebook.com/p/伊東自動車工業株-61558412518958/",
+    "https://business.facebook.com/groups/220675964817/",
+    "https://www.facebook.com/pages/伊東工業株式会社/1424592331133384/",
+    "https://www.facebook.com/syuzainogakkou/posts/編集後記掲載情報取材の学校７期生の赤田です公益財団法人東京都中小企業振興公社で発行されている東京のキラリ企業-2020年版にて株式会社伊東nc工業の伊東大輔社長/2680052722093796/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "伊東NC工業 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/伊東孝紳",
+    "http://ito-nc.com/company/",
+    "https://compalyze.co.jp/company/4012801004067",
+    "http://ito-nc.com/",
+    "https://www.nikkan.co.jp/articles/view/00488203/0/1286",
+    "https://www.ito-k-g.com/",
+    "https://nckougyou.com/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "伊東NC工業 X 投稿",
+   "results": [
+    "https://x.com/hashtag/伊東NC工業",
+    "http://ito-nc.com/company/",
+    "https://www.ito-nc.com/",
+    "https://x.com/ito_44",
+    "https://www.ito-k-g.com/",
+    "https://search.yahoo.co.jp/realtime/search/伊東市/",
+    "https://nckougyou.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式14頁／PDF・画像17件／外部13頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像17件／外部13頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式14頁／PDF・画像17件／外部13頁・検索9回）"
+ }
+}

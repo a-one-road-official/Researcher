@@ -1,0 +1,537 @@
+{
+ "name": "株式会社村山製作所",
+ "aliases": [],
+ "context": "ipros_all:小ロット",
+ "researched_at": "2026-11-11T23:22:37.218569+00:00",
+ "official_url": "http://www.mura-ss.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役　社長",
+    "value": "村山　昭範",
+    "url": "https://www.mura-ss.co.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒939-2252 富山県富山市上大久保1670-1 TEL 076-482-2551  FAX 076-482-2552",
+    "url": "https://www.mura-ss.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "ご住所",
+    "value": "都道府県 【選択して下さい】 北海道 青森県 岩手県 宮城県 秋田県 山形県 福島県 茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県 新潟県 富山県 石川県 福井県 山梨県 長野県 岐阜県 静岡県 愛知県 三重県 滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県 鳥取県 島根県 岡山県 広島県 山口県 徳島県 香川県 愛媛県 高知県 福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県 沖縄県 市区町村 丁目番地",
+    "url": "https://www.mura-ss.co.jp/contac_new1.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "機械加工・製缶・プラズマ加工・ワイヤーカット・放電・研削・表面処理・熱処理加工等も対応。 （建設機械部品）（半導体装置の部品加工）（産業機械の部品加工）（電極・台金作成）",
+    "url": "https://www.mura-ss.co.jp/company.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "株式会社村山製作所は1981年創業以来、機械加工を中心とし、高品質な製品を安定してお客様に提供しております",
+    "url": "https://www.mura-ss.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "今後もその信頼にお応えするために、最新の情報と製品の提供はもちろん、一人ひとりの豊かな個性を伸ばし、地域貢献に役立つ人材を輩出し、日本のものづくりに貢献することが私どもの使命であると確信しております",
+    "url": "https://www.mura-ss.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "抗張力鋼板等のスポット溶接製品向上のため、直流インバタースポット溶接機（75KVA・1台）を導入",
+    "url": "https://murayama-ss.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "抗張力鋼板製造の製品精度向上のため、アイダ200tサーボプレス機を導入",
+    "url": "https://murayama-ss.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入 簡易治具とデータを基に製品モデルを作成できるように",
+    "url": "https://murayama-ss.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "完成する製品の品質ばかりでなく、どのような工程を経て生産されていくかというプロセスまで明確に管理されたシステムです",
+    "url": "https://murayama-ss.co.jp/company/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "短納期、多•小ロット品、",
+    "url": "https://www.mura-ss.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "試作品、是非声をかけてください！",
+    "url": "https://www.mura-ss.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品業界では、大量生産、多品種少量生産、高品質化、低価格化、職場環境の改善など多くの課題が生じ、村山製作所においても、それら一つひとつに全力を挙げて真摯に取り組んできました",
+    "url": "https://murayama-ss.co.jp/company/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "機械加工・製缶・プラズマ加工・ワイヤーカット・放電・研削・表面処理・熱処理加工等も対応（建設機械部品 / 半導体装置の部品加工 / 産業機械の部品加工 / 電極・台金作成）",
+    "url": "https://www.mura-ss.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "（建設機械部品）（半導体装置の部品加工）（産業機械の部品加工）（電極・台金作成）",
+    "url": "https://www.mura-ss.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "神奈川県横浜市の村山製作所｜プレス・溶接・金型加工",
+    "url": "https://murayama-ss.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "100年におよぶ日本の自動車産業の歴史のなかで、日本が高度成長期を迎えた50年前の昭和34年（1959年）に村山製作所は創業しました",
+    "url": "https://murayama-ss.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品業界では、大量生産、多品種少量生産、高品質化、低価格化、職場環境の改善など多くの課題が生じ、村山製作所においても、それら一つひとつに全力を挙げて真摯に取り組んできました",
+    "url": "https://murayama-ss.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車は、たくさんの夢を乗せて走る人類の貴重な財産です",
+    "url": "https://murayama-ss.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車産業のさらなる発展に向けて、これからも村山製作所は、微力ですが多くの仲間とともに一生懸命走り続けます",
+    "url": "https://murayama-ss.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "オリイ製プレスロボットライン3機導入",
+    "url": "https://murayama-ss.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "プレスロボットライン6機を増設",
+    "url": "https://murayama-ss.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "高精度省力化へ向けプレスロボットライン 110t・60t、80t・60tの2ライン設備更新",
+    "url": "https://murayama-ss.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "ワイヤー放電加工機 部品加工外注分の内製化及び、金型加工精度向上",
+    "url": "https://murayama-ss.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "山崎技研 YZ-500SG ATC 金型部品加工内製化を図り、外注費用の削減",
+    "url": "https://murayama-ss.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入 簡易治具とデータを基に製品モデルを作成できるように",
+    "url": "https://murayama-ss.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "村山製作所は、ISO9001:2015に従って構築した品質マネジメントシステムで自動車部品を生産しています",
+    "url": "https://murayama-ss.co.jp/company/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "murayama@mura-ss.co.jp",
+    "url": "https://www.mura-ss.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自動鋸 AMADA HA350",
+    "url": "https://www.mura-ss.co.jp/equipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "MURAYAMA Challenge Spirit",
+    "url": "https://www.mura-ss.co.jp/images/company_taitol.jpg",
+    "pass": 2
+   },
+   {
+    "quote": "3Dプリンター Bambu H2D Combo≪AMS2Pro付≫PF00",
+    "url": "https://murayama-ss.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "©Murayama-SS Co., Ltd. ALL RIGHT RESERVED.",
+    "url": "https://murayama-ss.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入 簡易治具とデータを基に製品モデルを作成できるように",
+    "url": "https://murayama-ss.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "【例】 sample@murayama-ss.co.jp",
+    "url": "https://murayama-ss.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "©Murayama-SS Co., Ltd. ALL RIGHT RESERVED.",
+    "url": "https://murayama-ss.co.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お問い合わせ｜株式会社村山製作所・富山県富山市",
+    "url": "https://www.mura-ss.co.jp/contac_new1.html",
+    "pass": 1
+   },
+   {
+    "quote": "・お電話など、Eメール以外の方法でご連絡させていただく場合もございます",
+    "url": "https://murayama-ss.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "・メールの指定受信や拒否設定を行っている場合、私どもからの返信が届かない場合があるので受信可能な設定に変更後、登録を行ってください",
+    "url": "https://murayama-ss.co.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "切削・旋削・溶接・切断まで一貫して対応します｜株式会社村山製作所... — 高い技術と豊富な経験。 株式会社村山製作所は1981年創業以来、機械加工を中心とし、高品質な製品を安定してお客様に提供しております。「いい会社を作る」を社訓とし、ナンバーワンではなく、「オンリーワン」を目指し、如何なる問題にも挑戦と感謝の気持ちを忘れずにお客様のニーズに ...",
+    "url": "https://www.mura-ss.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川県横浜市の村山製作所｜プレス・溶接・金型加工 — 村山製作所の公式ホームページです。プレス加工・溶接加工・プレス金型の設計製造を行っています。ロボットを使った ...",
+    "url": "https://murayama-ss.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ご注文をお考えの方へ | 村山製作所 — 2．困りごと 例えばこんな内容でご依頼をいただいております ... 3．打合せ ご提案 打合せの後、弊社営業よりご提案させていただきます 小ロットから取り扱っております 詳しくは営業までお問い合わせください",
+    "url": "https://murayama-ss.co.jp/order/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 | 村山製作所 — 村山製作所の会社情報ページです。代表挨拶、会社概要、アクセス、歴史、ISO認証などを掲載しています。",
+    "url": "https://murayama-ss.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社 村山製作所村山製作所について | 村山製作所会社概要 - 株式会社村山製作所 | 株式会社村山製作所事業内容サービス・会社概要｜村山電機製作所村山製作所 会社概要 - murayama-ss.jp会社概要・アクセス | 株式会社ムラヤマ — ABOUT US 会社概要 ご挨拶 Introduce 当社は鉄に特化した『とろける鉄工所』株式会社村山製作所です。 昭和35年に溶接加工業で創業いたしまして以来、材料仕入れ、板金、溶接、機械加工、製缶と技術 経験を磨き積み重ねて参りました。 株式会社 石辺製作所 株式会社 伊澤製作所 株式会社 大栄製作所 株式会社 太平金属工業所 他6社 切削 1社 ロット加工 1社 メッキ 塗装 株式会社 大協製作所 他1社 試作 鈑金 3社 プレス金型 有限会社 ワシオエンジニアリング 他2社 検査治具 測定 有限会社 大同 ... CO",
+    "url": "https://murayama-ss.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社村山製作所 | 株式会社村山製作所 — COMPANY 会社案内 会社名 株式会社村山製作所 設立 1985年2月6日 代表者 村山 哲也 資本金 1,000万円 従業員数 21名（うち技能士12名） 所在地 〒242-0025 神奈川県大和市代官3-18-6",
+    "url": "https://murayama-duct.net/info/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容サービス・会社概要｜村山電機製作所村山製作所 会社概要 - murayama-ss.jp会社概要・アクセス | 株式会社ムラヤマ — 村山電機製作所は船舶・工業用温度計および計測器の専門メーカー。製品開発や販売はもちろん、その後のアフターサポートもご提供。温度計や計測器に関わることすべてにおいてご対応が可能です。お客さまのニーズを細かく把握し最適な製品をご提案いたします。 村山製作所は『誠の精神』でお客様に満足していただける製品（Q.C.D）を提供するために人が第一と考え、『人材育成』に ... 株式会社ムラヤマ（MURAYAMA INC.）の「会社概要」ページです。本社・支社・支店のアクセス情報やグループ会社をご確認 ...",
+    "url": "https://www.murayama-denki.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "村山製作所 会社概要 - murayama-ss.jp — 村山製作所は『誠の精神』でお客様に満足していただける製品（Q.C.D）を提供するために人が第一と考え、『人材育成』に ...",
+    "url": "http://www.murayama-ss.jp/company.htm",
+    "pass": 3
+   },
+   {
+    "quote": "お問合せ -- 株式会社村山製作所 — お問合せ メールでお問い合わせの際は、以下のフォームよりお問い合わせ下さい。",
+    "url": "https://www.mura-ss.co.jp/toiawase.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 村山製作所 — ご質問、お見積り依頼など、どんなことでもお気軽にお問い合わせください。折り返し、担当者よりご連絡を差し上げます。 お電話でのお問い合わせ TEL. 045-751-3563 【 受付時間 】 平日8:30〜17:00 土・日曜、祝日、夏季休暇や年末年始などは休みをいただいております。 ※ の表示がある項目に ...",
+    "url": "https://murayama-ss.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜株式会社村山製作所・富山県富山市 — 株式会社村山製作所は日頃より短期間で「かけこみ寺」的存在の弊社です。見積に関しましても、極力24時間対応しております。また、材料手配～加工・後処理まで一貫対応もさせて頂いており、付加価値の高い製品作りを目指しております。",
+    "url": "https://www.mura-ss.co.jp/contac_new1.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ/アクセス | 株式会社 村山製作所 — お問い合わせはこちら 当社製品や、採用情報についてご不明な点がございましたら お電話又はフォームよりお気軽にお問い合わせくださいませ。 0257-22-4579 平日 8:00-16:30 お名前 メールアドレス 電話番号 項目 お問い合わせ内容",
+    "url": "https://murayama-ss.com/contact",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社村山電機製作所 | Meguro-ku Tokyo - Facebook株式会社村山製作所株式会社 村山製作所株式会社村山製作所村山製作所株式会社村山製作所村山製作所 (@insutatsuhiro) • Facebook, Connect with friends Apr 9, 2024 · 連休明けは5月9日（月）からとな りますので宜しくお願い申し上げます。 株式会社村山電機製作所 代表取締役 村山 潤 株式会社村山電機製作所 is at ホテル雅叙園東京 Hotelgajoen-tokyo. 花筏見事です。 株式会社村山電機製作所 is at 目黒川 かめのこうばし. Oct 3, 2022 · INDUSTRIAL COMPANY. 神奈川県 横浜市 磯子区岡村5-5-17 株式会社 村山製作所 株式会社村山製作所 · May 12, 2022 · 福浦工場にワイヤー放電",
+    "url": "https://www.facebook.com/murayamadenkiseisakusyo/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社村山製作所 Oct 3, 2022 · INDUSTRIAL COMPANY. 神奈川県 横浜市 磯子区岡村5-5-17",
+    "url": "https://www.facebook.com/100083165299417/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 村山製作所 株式会社 村山製作所",
+    "url": "https://www.facebook.com/株式会社-村山製作所-322350907930904/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社村山製作所 株式会社村山製作所 · May 12, 2022 · 福浦工場にワイヤー放電加工機が入荷されました！ 早速操作して品物作りに向けて勉強中です All reactions: 1 Like Comment",
+    "url": "https://www.facebook.com/people/株式会社村山製作所/100083165299417/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mura-ss.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mura-ss.co.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mura-ss.co.jp/contac_new1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mura-ss.co.jp/equipment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mura-ss.co.jp/processing.html",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.mura-ss.co.jp/images/company_taitol.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://murayama-tanzo.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://murayama-ss.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://murayama-ss.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://murayama-ss.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://murayama-duct.net/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://murayama-ss.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/murayamadenkiseisakusyo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100083165299417/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/株式会社-村山製作所-322350907930904/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/株式会社村山製作所/100083165299417/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "村山製作所 取扱製品 試作 小ロット",
+   "results": [
+    "https://murayama-tanzo.co.jp/",
+    "https://www.mura-ss.co.jp/",
+    "https://murayama-ss.co.jp/",
+    "https://murayama-ss.co.jp/order/",
+    "http://www.matuyama-ss.co.jp/products.html",
+    "https://mono.ipros.com/company/detail/2035102/category/",
+    "https://murayama-tanzo.co.jp/service/dieforging/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "村山製作所 会社概要 事業内容",
+   "results": [
+    "https://murayama-ss.co.jp/company/",
+    "https://murayama-ss.com/about",
+    "https://murayama-duct.net/info/",
+    "https://www.murayama-denki.co.jp/about/",
+    "http://www.murayama-ss.jp/company.htm",
+    "https://www.murayama.co.jp/company/information/",
+    "https://murayama-ss.co.jp/about/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "村山製作所 お問い合わせ メール",
+   "results": [
+    "https://www.mura-ss.co.jp/toiawase.html",
+    "https://murayama-ss.co.jp/contact/",
+    "https://www.mura-ss.co.jp/contac_new1.html",
+    "https://murayama-ss.com/contact",
+    "https://www.maruyama.co.jp/contact/",
+    "https://www.murakami-seisakusho.co.jp/inquiry/",
+    "https://murayamakogyo.tokyo/contact"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 村山製作所",
+   "results": [
+    "https://note.com/murata_pr/n/nfcba8aa8c8ea",
+    "https://note.com/murayamalab",
+    "https://note.com/murata_pr/n/n1954a35942b6",
+    "https://note.com/murata_pr/n/n654ef39cd8e3",
+    "https://note.com/arcmasters/n/ne4f28b9ef536",
+    "https://tales.note.com/",
+    "https://note.com/gao_kabukabu/n/nd4cc7f8eaf0f"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 村山製作所",
+   "results": [
+    "https://x.com/murata_pr",
+    "https://x.com/_murayama",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/fmdhappa12_50/status/2109219442689503295",
+    "https://x.com/03nova/status/2110242650737852417",
+    "https://x.com/goromurayama",
+    "https://x.com/BmsMurayama"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 村山製作所",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 村山製作所",
+   "results": [
+    "https://www.facebook.com/murayamadenkiseisakusyo/",
+    "https://www.facebook.com/100083165299417/",
+    "https://www.facebook.com/株式会社-村山製作所-322350907930904/",
+    "https://www.facebook.com/people/株式会社村山製作所/100083165299417/",
+    "https://www.facebook.com/村山製作所-168118709978667/",
+    "https://www.facebook.com/p/株式会社村山製作所-100083165299417/",
+    "https://www.facebook.com/insutatsuhiro/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "村山製作所 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://murayama-ss.co.jp/company/",
+    "https://murayama-duct.net/greeting/",
+    "https://note.com/maruyamaofficial",
+    "https://jp.linkedin.com/in/murayama-yasuyoshi-7885377a",
+    "https://murayama-ss.co.jp/recruit/",
+    "https://compalyze.co.jp/company/7020001003357"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "村山製作所 X 投稿",
+   "results": [
+    "https://www.instagram.com/murayama.works/",
+    "https://x.com/murayama_2j",
+    "https://x.com/maruyamamfg",
+    "https://x.com/murata_pr",
+    "https://x.com/_murayama/status/2120435538083913973",
+    "https://x.com/_murayama/status/2043844883488878624",
+    "https://x.com/murayama_yuuka/status/2089245761670426878"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部10頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部10頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部10頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部10頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部10頁・検索9回）"
+ }
+}

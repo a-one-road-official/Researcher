@@ -1,0 +1,525 @@
+{
+ "name": "有限会社三都テック",
+ "aliases": [],
+ "context": "ipros_all:少量",
+ "researched_at": "2026-11-11T23:43:05.748123+00:00",
+ "official_url": "https://www.mitoteck.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒916-0016 福井県鯖江市神中町2-5-16",
+    "url": "https://mitoteck.jp/about/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　渡辺　多章（一史）",
+    "url": "https://mitoteck.jp/about/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "精密部品、成形金型、プレス金型の設計製作",
+    "url": "https://mitoteck.jp/about/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "14名 ・製造、マシンオペレーター　9名 ・3DCAD/CAMオペレーター　 3名 ・事務　　　　　　　　　　　2名",
+    "url": "https://mitoteck.jp/about/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "自動車関連企業、工作機械関連企業、産業機械関連企業、医療福祉関連企業 半導体、電子部品関連企業、樹脂化学関連企業、食品衣料関連企業、エネルギー関連企業、開発研究機関、教育機関、その他",
+    "url": "https://mitoteck.jp/about/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "（普通鋼＋特殊鋼＋SUS＋チタン＋アルミ＋銅＋真鍮＋樹脂など）",
+    "url": "https://mitoteck.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体、電子部品関連企業、樹脂化学関連企業、食品衣料関連企業、エネルギー関連企業、開発研究機関、教育機関、その他",
+    "url": "https://mitoteck.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "金属や樹脂を「削る、彫る、切る、孔ける、磨く」ことがベースです",
+    "url": "https://mitoteck.jp/about-us/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "治具、工程削減を可能にした多品種少量、短納期の製造を追及しています",
+    "url": "https://mitoteck.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくり中小企業・小規模事業者試作開発等支援補助金 採択",
+    "url": "https://mitoteck.jp/about/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "三都テック | 福井県鯖江市の精密部品/成形金型/プレス金型の専門メーカー",
+    "url": "https://mitoteck.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "（精密部品部門＋成形金型部門＋プレス金型部門）",
+    "url": "https://mitoteck.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "治具、工程削減を可能にした多品種少量、短納期の製造を追及しています",
+    "url": "https://mitoteck.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくりをワンストップで支える精密部品/成形金型/プレス金型の専門メーカー",
+    "url": "https://mitoteck.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "三都テックは「精密部品」、「成形金型」、「プレス金型」の三部門から構成され、",
+    "url": "https://mitoteck.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "精密部品、成形金型、プレス金型の設計製作",
+    "url": "https://mitoteck.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車関連企業、工作機械関連企業、産業機械関連企業、医療福祉関連企業",
+    "url": "https://mitoteck.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体、電子部品関連企業、樹脂化学関連企業、食品衣料関連企業、エネルギー関連企業、開発研究機関、教育機関、その他",
+    "url": "https://mitoteck.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "精密部品加工、成形金型、プレス金型の3部門に社内編成",
+    "url": "https://mitoteck.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "成形金型、精密部品加工に着手",
+    "url": "https://mitoteck.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス金型、治具加工に着手",
+    "url": "https://mitoteck.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくりをワンストップで支える精密部品/成形金型/プレス金型の専門メーカー",
+    "url": "https://mitoteck.jp/machines/",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくりをワンストップで支える精密部品/成形金型/プレス金型の専門メーカー",
+    "url": "https://mitoteck.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "それらを作るための元となる金型や機械に使用される部品です",
+    "url": "https://mitoteck.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちが手掛けたその一つ一つの金型や部品から、目の前にある様々な",
+    "url": "https://mitoteck.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくりをワンストップで支える精密部品/成形金型/プレス金型の専門メーカー",
+    "url": "https://mitoteck.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "高卒以上、要普通自動車免許",
+    "url": "https://mitoteck.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくりをワンストップで支える精密部品/成形金型/プレス金型の専門メーカー",
+    "url": "https://mitoteck.jp/access/",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "（3DCAD/CAM＋各種工作機械）",
+    "url": "https://mitoteck.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・3DCAD/CAMオペレーター 3名",
+    "url": "https://mitoteck.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2.5次元CAD/CAM増設",
+    "url": "https://mitoteck.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "同時5軸加工用3次元CAM増設",
+    "url": "https://mitoteck.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "3次元CAD/CAM増設",
+    "url": "https://mitoteck.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "縦型マシニングセンター、3次元CAD/CAM増設",
+    "url": "https://mitoteck.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "新築移転、縦型マシニングセンター、3次元CAD/CAM導入",
+    "url": "https://mitoteck.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "3次元CAD/CAM",
+    "url": "https://mitoteck.jp/machines/",
+    "pass": 1
+   },
+   {
+    "quote": "2次元、2.5次元CAD/CAM",
+    "url": "https://mitoteck.jp/machines/",
+    "pass": 1
+   },
+   {
+    "quote": "CAD/CAMソフトでプログラムしたり、図面や指示書を確認しながら、",
+    "url": "https://mitoteck.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "②3次元CAD/CAMオペレーター（3DモデリングやNCプログラムの作成）",
+    "url": "https://mitoteck.jp/recruit/",
+    "pass": 1
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "一般的に市販されている製品ではなく、",
+    "url": "https://mitoteck.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "製品が生み出され、多くの人に役立たれていることに誇りを感じています",
+    "url": "https://mitoteck.jp/about-us/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "三都テック | 福井県鯖江市の精密部品/成形金型/プレス金型の専門メー... — Aug 17, 2026 · 有限会社三都テックの強み 主要3部門の技術の融合 （精密部品部門＋成形金型部門＋プレス金型部門） 最適な加工方法を考慮した複合的なモノづくり （3DCAD/CAM＋各種工作機械） 多種多様な形状の加工 （平面的な2D加工＋立体的な3D自由曲面加工）",
+    "url": "http://mitoteck.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 - 三都テック三都テック | 福井県鯖江市の精密部品/成形金型/プレス金型の専門メー...有限会社三都テック（福井県鯖江市） 概要 - 企業情報会社概要 | 三都株式会社有限会社三都テック（福井県）の会社概要 | Compalyze会社案内 | 有限会社都テック三都テック | 企業情報 | イプロスものづくり — 三都テックとは 三都テックは「精密部品」、「成形金型」、「プレス金型」の三部門から構成され、 そのひとつひとつの部門を人や物、情報などが行き交う「都」と位置づけ、 三つのモノづくりの都から「思いやり溢れる技術で価値と形を創出し、 Aug 17, 2026 · 有限会社三都テックの強み 主要3部門の技術の融合 （精密部品部門＋成形金型部門＋プレス金型部門） 最適な加工方法を考慮した複合的なモノづくり （3DCAD/CAM＋各種工作機械） 多種多様な形状の加工 （平面的な2",
+    "url": "https://mitoteck.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社三都テック（福井県鯖江市） 概要 - 企業情報 — Oct 5, 2015 · 概要 有限会社三都テック （ミトテック）は福井県鯖江市にある企業です。 法人番号は8210002013459、住所は福井県鯖江市神中町です。 業種（大分類）は「製造業」に分類されます。 この法人は2015年（平成27年）10月5日に法人番号が指定されました。",
+    "url": "https://data-link-plus.com/jp/corporation/8210002013459",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社三都テック（福井県）の会社概要 | Compalyze — 〒916-0016 福井県鯖江市に本社を置く有限会社三都テックの企業情報。 有限会社三都テックは、福井県鯖江市を拠点に、精密部品、成形金型、プレス金型の設計製作を主要事業とする専門メーカーです。 MFG (MFG-10)、1979年設立、従業員（被保険者）15名。",
+    "url": "https://compalyze.co.jp/company/8210002013459",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 三都テック — 当社業務に関するご質問・お問い合わせに対応することを 目的として設置しております。 当社業務の円滑な運営を阻害する恐れがあるため、セールス、勧誘、宣伝等の営業目的でのご連絡は固くお断りいたします。",
+    "url": "https://mitoteck.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "【TEL、FAX、メール、下記フォームについてのお願い】",
+    "url": "https://mitoteck.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "本お問い合わせ窓口は、既存のお客様からのご連絡および",
+    "url": "https://mitoteck.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "当社業務に関するご質問・お問い合わせに対応することを",
+    "url": "https://mitoteck.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "3次元曲面加工の三都テック (ミトテック) | Sabae-shi Fukui3次元曲面加工の三都テック (ミトテック) - 【加工品紹介】 こんにち...Facebook3次元曲面加工の三都テック(ミトテック ... - Facebook3次元曲面加工の三都テック (ミトテック) - 位置決め同時4軸加工、ア...3次元曲面加工の三都テック (ミトテック) - 【加工品紹介】 こんにち...3次元曲面加工の三都テック(ミトテック) - SUS304削り出し。 有限会社... Aug 19, 2020 · Posts 3次元曲面加工の三都テック (ミトテック) updated their bio. 3次元CAD/CAMとマシニングをはじめとした工作機械を 複合的に使用し、次世? May 5, 2011 · 3次元曲面加工の三都テック (ミトテック) Nov 20, 2012 航空宇宙分野や",
+    "url": "https://www.facebook.com/mitoteck/",
+    "pass": 3
+   },
+   {
+    "quote": "3次元曲面加工の三都テック (ミトテック) - 【加工品紹介】 こんにち... May 5, 2011 · 3次元曲面加工の三都テック (ミトテック) Nov 20, 2012 航空宇宙分野や自動車、鉄道分野でも多く使用される ようになったCFRP（炭素繊維強化プラスチック） 。 弊社ではCFRPの切削加工にも挑戦しています。",
+    "url": "https://www.facebook.com/mitoteck/photos/加工品紹介こんにちは三都テックですgwも終わり弊社は今日より営業再開ですさて本日も加工品の紹介ですこちらは直径10ミリ30ミリのミニ歯車です自動車関連ハイブリッ/210132055686796/",
+    "pass": 3
+   },
+   {
+    "quote": "3次元曲面加工の三都テック(ミトテック ... - Facebook こんばんは。 三都テックです。 写真（右）はファインダービューアタッチメント。 市販品では市場に良いものが無いのでしょうか？ オリジナルでの製作ご依頼。 写真（左）は自転車部品。 破損により、現物からの採寸＆製作ご依頼でした。",
+    "url": "https://www.facebook.com/mitoteck/photos/こんばんは三都テックです写真右はファインダービューアタッチメント市販品では市場に良いものが無いのでしょうかオリジナルでの製作ご依頼写真左は自転車部品破損により現/353571178009549/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://mitoteck.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mitoteck.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mitoteck.jp/machines/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mitoteck.jp/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mitoteck.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mitoteck.jp/access/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mitoteck.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mitoteck.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://t-tec.mystrikingly.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protech-japan.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mitoteck.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mitoteck.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-link-plus.com/jp/corporation/8210002013459",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mitoteck.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.semitec.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mitoteck.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/mitoteck/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mitoteck/photos/加工品紹介こんにちは三都テックですgwも終わり弊社は今日より営業再開ですさて本日も加工品の紹介ですこちらは直径10ミリ30ミリのミニ歯車です自動車関連ハイブリッ/210132055686796/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mitoteck/photos/こんばんは三都テックです写真右はファインダービューアタッチメント市販品では市場に良いものが無いのでしょうかオリジナルでの製作ご依頼写真左は自転車部品破損により現/353571178009549/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "三都テック 取扱製品 試作 小ロット",
+   "results": [
+    "http://mitoteck.jp/",
+    "https://t-tec.mystrikingly.com/",
+    "https://www.protech-japan.jp/",
+    "https://www.tritek.co.jp/service_category/small-lot/",
+    "https://www.u-topia.co.jp/products/low-volume-series.html",
+    "https://www.sanyotec.com/",
+    "https://www.tyro-teq.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "三都テック 会社概要 事業内容",
+   "results": [
+    "https://mitoteck.jp/about/",
+    "http://mitoteck.jp/",
+    "https://data-link-plus.com/jp/corporation/8210002013459",
+    "https://santo-kafuan.com/?page_id=106",
+    "https://compalyze.co.jp/company/8210002013459",
+    "https://mono.ipros.com/company/detail/2075130/",
+    "https://miyako-tech.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "三都テック お問い合わせ メール",
+   "results": [
+    "https://mitoteck.jp/contact/",
+    "https://www.semitec.co.jp/contact/",
+    "http://mitoteck.jp/",
+    "http://www.multitek.co.jp/contact/",
+    "https://www.totec-e.co.jp/pages/5/",
+    "https://www.santokensetsu.co.jp/inquiry/",
+    "https://www.tritek.co.jp/mailto/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 三都テック",
+   "results": [
+    "https://note.com/suntech_official",
+    "https://note.com/africanist/n/na6ff3ff6b749",
+    "https://note.com/tristars_tec/n/n30c9ca1e2b32",
+    "https://note.com/suntech_official/n/ndde29aba29b8",
+    "https://note.com/sanyo_industry/n/nc88407b1cfa9",
+    "https://note.com/tristars_tec/n/ne769028e91bd",
+    "https://note.com/tristars_tec/n/n6f72e3d17066"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 三都テック",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com 三都テック",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 三都テック",
+   "results": [
+    "https://www.facebook.com/mitoteck/",
+    "https://www.facebook.com/mitoteck/photos/加工品紹介こんにちは三都テックですgwも終わり弊社は今日より営業再開ですさて本日も加工品の紹介ですこちらは直径10ミリ30ミリのミニ歯車です自動車関連ハイブリッ/210132055686796/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/mitoteck/photos/こんばんは三都テックです写真右はファインダービューアタッチメント市販品では市場に良いものが無いのでしょうかオリジナルでの製作ご依頼写真左は自転車部品破損により現/353571178009549/",
+    "https://www.facebook.com/mitoteck/photos/位置決め同時４軸加工アルミ材での試作品でした/398697050163628/",
+    "https://www.facebook.com/mitoteck/photos/加工品紹介こんにちは三都テックです今日は弊社で加工された金型についてのご紹介ですプラスチックなど決まった形にするための型を金型と言います金型は成形品の周りを囲ん/207390995960902/",
+    "https://www.facebook.com/mitoteck/photos/sus304削り出し有限会社桑原産業-ハンドリームワークス-桑原様-製作ご依頼有難うございましたまたの機会も宜しくお願い致します/441875572512442/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "三都テック note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "http://mitoteck.jp/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://mitoteck.jp/about/",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "三都テック X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部12頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部12頁・検索9回）"
+ }
+}

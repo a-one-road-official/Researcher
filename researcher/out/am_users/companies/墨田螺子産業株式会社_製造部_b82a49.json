@@ -1,0 +1,532 @@
+{
+ "name": "墨田螺子産業株式会社 製造部",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T23:07:49.536054+00:00",
+ "official_url": "https://www.sumidams.co.jp",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "掲載の加工製品から加工内容、部品形状、",
+    "url": "https://www.sumidams.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "主に特殊案件になりますが、機密保持の観点から、製品名・機種番等の掲載はしておりません",
+    "url": "https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/nc%E6%97%8B%E7%9B%A4%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "秘密保持の関係で、下記製品の画像は web 掲載しておりません",
+    "url": "https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/nc%E6%97%8B%E7%9B%A4%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "主に特殊案件になりますが、機密保持の観点から、製品名・機種番等の掲載はしておりません",
+    "url": "https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "秘密保持の関係で、下記製品の画像は web 掲載しておりません",
+    "url": "https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "様々な業界の加工製品から加工内容、部品形状、扱い材質等、弊社活用のご参考になればと思います",
+    "url": "https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/",
+    "pass": 1
+   },
+   {
+    "quote": "協力工場を探されたり、相談したい時に打ち合わせできるメーカーを近くで探している、また案件に関して図面がなかったり、現物を参考に製品を作りたいとか、目的は様々だと思います",
+    "url": "https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/",
+    "pass": 1
+   },
+   {
+    "quote": "但し、図面等よる委託製品に関しては、出図会社の権利と致します",
+    "url": "https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、エコ製品の提供、環境に配慮したサービスの提供、カーボンオフセットプログラムの導入などが挙げられます",
+    "url": "https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/sdgs%E5%AE%A3%E8%A8%80/",
+    "pass": 1
+   },
+   {
+    "quote": "管理項目：製品に含まれる化学物質の管理において、",
+    "url": "https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/sdgs%E5%AE%A3%E8%A8%80/",
+    "pass": 1
+   },
+   {
+    "quote": "・ 生産工程では、製品中にお客様の要求する含有禁止物質が含有しないように確認",
+    "url": "https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/sdgs%E5%AE%A3%E8%A8%80/",
+    "pass": 1
+   },
+   {
+    "quote": "・ 製品中にお客様の要求する含有禁止物質が含まれていると判明した場合は、",
+    "url": "https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/sdgs%E5%AE%A3%E8%A8%80/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の製造プロセスの化学物質の管理において、",
+    "url": "https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/sdgs%E5%AE%A3%E8%A8%80/",
+    "pass": 1
+   },
+   {
+    "quote": "環境保全に適合した製品の購入および販売の推進に努めます",
+    "url": "https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/sdgs%E5%AE%A3%E8%A8%80/",
+    "pass": 1
+   },
+   {
+    "quote": "主に特殊案件になりますが、機密保持の観点から、製品名・機種番等の掲載はしておりません",
+    "url": "https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E7%B2%BE%E5%AF%86%E6%9D%BF%E9%87%91/",
+    "pass": 1
+   },
+   {
+    "quote": "線材の曲げ加工、簡易型によるデザイン製品もご相談ください",
+    "url": "https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E7%B2%BE%E5%AF%86%E6%9D%BF%E9%87%91/",
+    "pass": 1
+   },
+   {
+    "quote": "秘密保持の関係で、下記製品の画像は web 掲載しておりません",
+    "url": "https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E7%B2%BE%E5%AF%86%E6%9D%BF%E9%87%91/",
+    "pass": 1
+   },
+   {
+    "quote": "主に特殊案件になりますが、機密保持の観点から、製品名・機種番等の掲載はしておりません",
+    "url": "https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E7%95%B0%E5%BD%A2-%E6%88%90%E5%9E%8B%E5%93%81/",
+    "pass": 1
+   },
+   {
+    "quote": "自社使用製品もあり、成形品は金型製作からお請けします",
+    "url": "https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E7%95%B0%E5%BD%A2-%E6%88%90%E5%9E%8B%E5%93%81/",
+    "pass": 1
+   },
+   {
+    "quote": "線材の曲げ加工、簡易型によるデザイン製品もご相談ください",
+    "url": "https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E7%95%B0%E5%BD%A2-%E6%88%90%E5%9E%8B%E5%93%81/",
+    "pass": 1
+   },
+   {
+    "quote": "秘密保持の関係で、下記製品の画像は web 掲載しておりません",
+    "url": "https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E7%95%B0%E5%BD%A2-%E6%88%90%E5%9E%8B%E5%93%81/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関する保証は、ホイッスル本体のみです",
+    "url": "https://www.sumidams.co.jp/%E6%B0%B8%E4%B9%85%E4%BF%9D%E8%A8%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "pass": 1
+   },
+   {
+    "quote": "●製品の加工（穴あけ、削り等）による破損",
+    "url": "https://www.sumidams.co.jp/%E6%B0%B8%E4%B9%85%E4%BF%9D%E8%A8%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "扱い材質等を参考に、",
+    "url": "https://www.sumidams.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "加工概要・材質等にて、ご参考になればと思います",
+    "url": "https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/nc%E6%97%8B%E7%9B%A4%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "材質はステンレス、真ちゅう（丸棒・六角材・ブロック）、アルミ（丸棒・ブロック材）、鉄をはじめ、ご要望に応じて樹脂と様々な材質に対応しております",
+    "url": "https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/nc%E6%97%8B%E7%9B%A4%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "加工概要・材質等にて、ご参考になればと思います",
+    "url": "https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "材質は真ちゅう（カドミレス可）、鉄をはじめステンレス、アルミ、樹脂と様々な材質に対応しております",
+    "url": "https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "様々な業界の加工製品から加工内容、部品形状、扱い材質等、弊社活用のご参考になればと思います",
+    "url": "https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/",
+    "pass": 1
+   },
+   {
+    "quote": "加工概要・材質等にて、ご参考になればと思います",
+    "url": "https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E7%B2%BE%E5%AF%86%E6%9D%BF%E9%87%91/",
+    "pass": 1
+   },
+   {
+    "quote": "加工概要・材質等にて、ご参考になればと思います",
+    "url": "https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E7%95%B0%E5%BD%A2-%E6%88%90%E5%9E%8B%E5%93%81/",
+    "pass": 1
+   },
+   {
+    "quote": "加工性質、使用材質、数量、後処理の内容により、 技術に精通したスタッフが担当させて頂きます",
+    "url": "https://www.sumidams.co.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%81%9B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "◇キャリア部品 ◇半導体設備部品 ◇化粧品金具部品 ◇モーターサイクルカスタム部品",
+    "url": "https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/nc%E6%97%8B%E7%9B%A4%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "設備装置部品、金融関係、流通、一般企業向けATM、通帳プリンター、POS、宝くじ発券機、コンピューター印字部、半導体装置、光関連機器検査装置等、ロボット、医療機器、原子力部品",
+    "url": "https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "３. 各種事務機・医療機器・健康機器類の製造販売",
+    "url": "https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/",
+    "pass": 1
+   },
+   {
+    "quote": "４. 各種工作機械・機械工具・金型類の製造販売",
+    "url": "https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/",
+    "pass": 1
+   },
+   {
+    "quote": "通信機器関連 医療機器関連 検査機器関連 二輪部品関連 四輪部品関連 光学部品関連",
+    "url": "https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/",
+    "pass": 1
+   },
+   {
+    "quote": "照明機器関連 治具・工具関連 水道機器関連 化粧品パーツ関連 設備機器関連",
+    "url": "https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/",
+    "pass": 1
+   },
+   {
+    "quote": "自社使用製品もあり、成形品は金型製作からお請けします",
+    "url": "https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E7%95%B0%E5%BD%A2-%E6%88%90%E5%9E%8B%E5%93%81/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "E-mail sumida.ass ☆ gmail.com",
+    "url": "https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ：当社Webの「お問い合わせファーム」からご連絡ください",
+    "url": "https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/",
+    "pass": 1
+   },
+   {
+    "quote": "ご不明な点はお問い合わせより、ご連絡お願い致します",
+    "url": "https://www.sumidams.co.jp/%E6%B0%B8%E4%B9%85%E4%BF%9D%E8%A8%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "pass": 1
+   },
+   {
+    "quote": "「どこで購入できるか」と言うお問い合わせを沢山頂いております",
+    "url": "https://www.sumidams.co.jp/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9/",
+    "pass": 1
+   },
+   {
+    "quote": "【注】こちらはお客様専用のお問い合わせフォームとなっております",
+    "url": "https://www.sumidams.co.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%81%9B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/",
+    "pass": 1
+   },
+   {
+    "quote": "宣伝及び勧誘等のメールは固くお断りをしております",
+    "url": "https://www.sumidams.co.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%81%9B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/",
+    "pass": 1
+   },
+   {
+    "quote": "メール・電話・ファックスにて、ご要望をお伝えください",
+    "url": "https://www.sumidams.co.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%81%9B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/",
+    "pass": 1
+   },
+   {
+    "quote": "sumida.ass ☆ gmail.com",
+    "url": "https://www.sumidams.co.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%81%9B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sumidams.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/nc%E6%97%8B%E7%9B%A4%E5%8A%A0%E5%B7%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E5%8A%A0%E5%B7%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/sdgs%E5%AE%A3%E8%A8%80/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E7%B2%BE%E5%AF%86%E6%9D%BF%E9%87%91/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E7%95%B0%E5%BD%A2-%E6%88%90%E5%9E%8B%E5%93%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumidams.co.jp/%E6%B0%B8%E4%B9%85%E4%BF%9D%E8%A8%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumidams.co.jp/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumidams.co.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%81%9B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.nc-net.or.jp/company/70051/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E5%B0%8F%E3%83%AD%E3%83%83%E3%83%88%E7%94%9F%E7%94%A3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zen.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/16187/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/70051/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/16187/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/70051/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "墨田螺子産業 製造部 取扱製品 試作 小ロット",
+   "results": [
+    "https://ja.nc-net.or.jp/company/70051/",
+    "https://mono.ipros.com/cg2/%E5%B0%8F%E3%83%AD%E3%83%83%E3%83%88%E7%94%9F%E7%94%A3/",
+    "https://www.zen.co.jp/",
+    "https://asiaplanning.com/machining/column/column-4733/",
+    "https://injection-lab.com/technology/87-2.html",
+    "https://www.sumidams.co.jp/",
+    "https://jp.arrk.com/service/lvp/",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.sumidabyora.co.jp/blog/%E5%B0%8F%E3%83%AD%E3%83%83%E3%83%88%E3%81%AD%E3%81%98%E8%A3%BD%E4%BD%9C%E3%82%AC%E3%82%A4%E3%83%89%EF%BD%9C%E8%A9%A6%E4%BD%9C1%E6%9C%AC%E3%81%8B%E3%82%89%E7%89%B9%E6%B3%A8%E3%81%A7%E3%81%8D%E3%82%8B/",
+    "https://mono.ipros.com/company/detail/16187/catalog/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "墨田螺子産業 製造部 会社概要 事業内容",
+   "results": [
+    "https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/",
+    "https://mono.ipros.com/company/detail/16187/",
+    "https://ja.nc-net.or.jp/company/70051/",
+    "https://www.sumidams.co.jp/",
+    "https://compalyze.co.jp/company/2010601011376",
+    "https://p-compass.com/sumidams/",
+    "https://www.facebook.com/sumidams/?locale=ja_JP",
+    "https://jgoodtech.smrj.go.jp/en/corp/info/JC0000000001872?preview=false&createdLocale=ja_JP",
+    "https://srss.co.jp/company/",
+    "https://metoree.com/companies/5717/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "墨田螺子産業 製造部 お問い合わせ メール",
+   "results": [
+    "https://www.sumidams.co.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%81%9B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/",
+    "https://mono.ipros.com/company/detail/16187/",
+    "https://ja.nc-net.or.jp/company/70051/",
+    "https://compalyze.co.jp/company/2010601011376",
+    "https://www.facebook.com/sumidams/?locale=ja_JP",
+    "https://srss.co.jp/company/",
+    "https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/",
+    "https://www.mapion.co.jp/phonebook/M26039/13107/21330248738/",
+    "https://www.sumidabyora.co.jp/contact/",
+    "https://www.sumidams.co.jp/お問い合せフォーム/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 墨田螺子産業 製造部",
+   "results": [
+    "https://note.com/kobachou/n/nbdf9d1e77425",
+    "https://note.com/clipcorporation/n/n2cbddc784d34",
+    "https://note.com/yutakanvc_note",
+    "https://note.com/uchiyama_mma/n/n17d67f803fd9",
+    "https://note.com/mo_0410/n/n34b68ea2f542",
+    "https://note.com/yharuki/n/nf6653981590c",
+    "https://note.com/forumhiroba/n/nfeca11f9967f",
+    "https://note.com/anduamet/n/n2b404269e896",
+    "https://note.com/deepannai/n/nab88e7661b10"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com 墨田螺子産業 製造部",
+   "results": [
+    "https://x.com/hashtag/%E9%9A%85%E7%94%B0%E5%B7%9D%E3%81%AE%E6%A1%9C",
+    "https://x.com/sumidarashi/status/924594830461747201",
+    "https://x.com/sumidarashi/status/910129538285240320",
+    "https://x.com/sumidarashi/status/954280421436530688",
+    "https://x.com/sumidarashi/status/935708055441772544",
+    "https://x.com/sumidarashi/status/922420498289459200",
+    "https://business.x.com/ja/blog/organic-success-kikusuisangyo",
+    "https://x.com/i/status/513044959293734912"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com 墨田螺子産業 製造部",
+   "results": [
+    "https://jp.linkedin.com/in/桂太郎-伊藤-6a8700194",
+    "https://in.linkedin.com/in/shiladityamukhopadhyaya",
+    "https://www.linkedin.com/products/linkedin-recruiter/",
+    "https://jp.linkedin.com/jobs/view/製造エンジニア-manufacturing-engineer-at-astroscale-4420299231",
+    "https://news.linkedin.com/2026/new-ways-to-build-meaningful-connections",
+    "https://www.linkedin.com/jobs/view/【墨田】金属製品の製造／若手活躍・医療機器だけじゃない！／製品企画開発も◎／未経験可・土日祝休-at-株式会社協栄医科工業-4023145461",
+    "https://hu.linkedin.com/in/judit-csenge-vizi"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 墨田螺子産業 製造部",
+   "results": [
+    "https://www.facebook.com/sumidams/?locale=ja_JP",
+    "https://www.facebook.com/196708takeshiro/posts/%E5%B1%B1%E6%9C%AC%E5%B7%A5%E5%A0%B4%E9%95%B7%E3%81%AE%E5%B7%A5%E5%A0%B4%E9%95%B7%E9%A4%8A%E6%88%90%E5%A1%BE%E5%8D%92%E6%A5%AD%E5%BC%8F%E3%81%A7%E3%81%99%E5%8D%8A%E5%B9%B4%E9%96%93%E3%81%AE%E5%8B%89%E5%BC%B7%E3%81%A8%E7%B7%8A%E5%BC%B5%E3%81%AE%E6%9C%80%E7%B5%82%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E5%A4%A7%E5%A4%89%E3%81%94%E8%8B%A6%E5%8A%B4%E6%A7%98%E3%81%A7%E3%81%97%E3%81%9F/1592059794213182/",
+    "https://www.facebook.com/arita.motors/posts/%E8%BB%8A%E6%A4%9C%E3%82%B9%E3%82%BA%E3%82%AD-%E3%82%A2%E3%83%AB%E3%83%88-h15%E5%B9%B4%E5%BC%8F%E7%B4%8412%E4%B8%87%E3%82%AD%E3%83%AD%E3%83%96%E3%83%AC%E3%83%BC%E3%82%AD%E3%81%AE%E5%9B%BA%E7%9D%80%E3%81%8C%E8%A6%8B%E3%82%89%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E5%AE%89%E5%85%A8%E3%81%AA%E8%B5%B0%E8%A1%8C%E3%82%92%E4%BF%9D%E3%81%A4%E3%81%9F%E3%82%81%E3%81%AB%E5%AE%9A%E6%9C%9F%E7%9A%84%E3%81%AA%E3%83%96%E3%83%AC%E3%83%BC%E3%82%AD%E3%83%95%E3%83%AB%E3%83%BC%E3%83%89%E3%81%AE%E4%BA%A4%E6%8F%9B%E3%82%84%E3%82%AB%E3%83%83%E3%83%97%E3%82%AD%E3%83%83%E3%83%88%E3%81%AE%E4%BA%A4%E6%8F%9B%E3%82%92%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%97%E3%81%BE%E3%81%99%E6%96%B0/1450054383493474/",
+    "https://www.facebook.com/100064214312451/posts/%E5%8B%A4%E5%8B%99%E9%96%93%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%90%E3%83%AB%E3%81%A8%E3%81%84%E3%81%86%E8%A8%80%E8%91%89%E3%82%92%E3%81%94%E5%AD%98%E3%81%98%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B-%E5%8A%B4%E5%8B%99%E7%AE%A1%E7%90%86%E3%81%A7%E3%81%AF%E5%8B%A4%E5%8B%99%E6%99%82%E9%96%93%E3%82%84%E6%8B%98%E6%9D%9F%E6%99%82%E9%96%93%E3%81%AB%E7%9B%AE%E3%81%8C%E5%90%91%E3%81%91%E3%82%89%E3%82%8C%E3%81%8C%E3%81%A1%E3%81%A7%E3%81%99%E3%81%8C%E5%8B%A4%E5%8B%99%E9%96%93%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%90%E3%83%AB%E3%81%A8%E3%81%AF%E5%83%8D%E3%81%8D%E7%B5%82%E3%81%88%E3%81%A6%E3%81%8B%E3%82%89%E6%AC%A1%E3%81%AB%E5%83%8D%E3%81%8D%E5%A7%8B%E3%82%81%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%AE%E4%BC%91/1536672278483235/",
+    "https://www.facebook.com/photo.php?fbid=1666470916759775&set=a.1666470843426449&id=100057420371050&locale=zh_CN",
+    "https://www.facebook.com/gankoya.karugan/posts/%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F%E4%B8%89%E6%98%A7%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E3%81%99%E3%82%8A%E3%81%8A%E3%82%8D%E3%81%97%E3%83%8B%E3%83%B3%E3%83%8B%E3%82%AF%E3%83%95%E3%83%A9%E3%82%A4%E3%83%89%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%83%97%E3%83%81%E3%83%8B%E3%83%B3%E3%83%8B%E3%82%AF%E7%B3%B8%E5%94%90%E8%BE%9B%E5%AD%90%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%9E%E6%9D%BF%E6%B5%B7%E8%8B%94%E3%82%B4%E3%83%9E%E3%81%AB%E3%82%93%E3%81%AB%E3%81%8F%E5%A5%BD%E3%81%8D%E3%81%AB%E3%81%AF%E3%81%9F%E3%81%BE%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%AD%E7%89%A9%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%E4%BA%BA%E3%81%AF%E3%81%99%E3%82%8A%E3%81%8A%E3%82%8D%E3%81%97%E3%83%8B/108751791187065/",
+    "https://www.facebook.com/gankoya.karugan/posts/%E3%81%B0%E3%82%89%E3%81%95%E3%81%8D%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B7%E3%83%A5%E3%83%BC%E4%B8%BC%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E3%81%94%E9%A3%AF%E3%81%AB%E3%82%82%E3%82%88%E3%81%8F%E5%90%88%E3%81%86%E3%82%93%E3%81%A7%E3%81%99%E3%83%88%E3%83%AD%E3%83%88%E3%83%AD%E3%81%AE%E6%B8%A9%E7%8E%89%E3%81%A8%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%BC%E3%81%AA%E3%81%8A%E8%82%89%E3%81%8C%E6%9C%80%E9%AB%98%E3%81%AE%E3%82%B3%E3%83%A9%E3%83%9C%EF%B8%8F%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E6%BF%83%E3%81%84%E3%82%81%E3%81%AE%E5%91%B3%E4%BB%98%E3%81%91%E3%81%A7%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%9F%E3%82%81%E3%81%94%E9%A3%AF%E3%81%8C%E3%81%99/111695787559332/",
+    "https://www.facebook.com/100008840446018/posts/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BA%E5%B7%9D%E5%B4%8E%E5%B8%82%E7%97%85%E9%99%A2%E5%8D%94%E4%BC%9A%E3%82%88%E3%82%8A%E5%84%AA%E8%89%AF%E8%81%B7%E5%93%A13%E5%90%8D%E3%81%8C%E8%A1%A8%E5%BD%B0%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%81%AE%E8%B3%9E%E3%81%AF%E6%B0%B8%E5%B9%B4%E7%97%85%E9%99%A2%E8%81%B7%E5%93%A1%E3%81%A8%E3%81%97%E3%81%A6%E5%B7%9D%E5%B4%8E%E5%B8%82%E3%81%AE%E5%9C%B0%E5%9F%9F%E5%8C%BB%E7%99%82%E3%81%AB%E8%B2%A2%E7%8C%AE%E3%81%97%E7%97%85%E9%99%A2%E3%81%AE%E7%99%BA%E5%B1%95%E3%81%AB%E5%AF%84%E4%B8%8E%E3%81%97%E3%81%9F%E8%80%85%E3%81%AB%E8%B4%88%E3%82%89%E3%82%8C%E3%81%BE%E3%81%993%E5%90%8D%E3%81%AF%E6%94%BE%E5%B0%84%E7%B7%9A%E6%8A%80%E8%A1%93%E9%83%A8/3402669820037666/",
+    "https://www.facebook.com/100008840446018/posts/%E5%B8%82%E6%B0%91%E8%AC%9B%E5%BA%A7%E8%85%B0%E7%97%9B%E4%BA%88%E9%98%B2%E6%95%99%E5%AE%A4%E3%82%92%E9%96%8B%E5%82%AC%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%992025%E5%B9%B43%E6%9C%8815%E6%97%A5%E5%9C%9F%E6%9B%9C%E6%97%A51030%E3%81%8B%E3%82%89%E8%85%B0%E7%97%9B%E4%BA%88%E9%98%B2%E3%81%AE%E4%BD%93%E6%93%8D%E6%95%99%E5%AE%A4%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E5%A0%B4%E6%89%80%E3%81%AF%E6%97%A5%E6%9C%AC%E9%8B%BC%E7%AE%A1%E7%97%85%E9%99%A2%E3%83%AA%E3%83%8F%E3%83%93%E3%83%AA%E5%AE%A4%E3%81%A7%E6%8C%81%E3%81%A1%E7%89%A9%E3%81%AF%E7%89%B9%E3%81%AB%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8A%E5%95%8F/3506499289654718/",
+    "https://www.facebook.com/sumidams/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "墨田螺子産業 製造部 note 社長",
+   "results": [
+    "https://www.sumidams.co.jp/",
+    "https://ja.nc-net.or.jp/company/70051/",
+    "https://note.com/sansanjapan/n/nc6e0bcf7a63e",
+    "https://www.facebook.com/sumidams/?locale=ja_JP",
+    "https://compalyze.co.jp/company/2010601011376",
+    "https://xtox.co.jp/kakouba/company/0d37dae6a7/",
+    "https://note.com/mobio_osaka/n/n6f64b4861aaf",
+    "https://srss.co.jp/company/",
+    "https://note.com/kongobyora/n/n95d07766b96a",
+    "https://mono.ipros.com/company/detail/16187/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "墨田螺子産業 製造部 X 投稿",
+   "results": [
+    "https://www.sumidams.co.jp/",
+    "https://ja.nc-net.or.jp/company/70051/",
+    "https://x.com/mono_sumida",
+    "https://www.sumidams.co.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%81%9B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/",
+    "https://srss.co.jp/",
+    "https://www.instagram.com/reel/DZW_l6ohgAh/",
+    "https://metoree.com/categories/7218/",
+    "https://www.sagamirasi.co.jp/",
+    "https://kokubunrashi.com/28/",
+    "https://www.ccnet21.ne.jp/company/112"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部7頁・検索9回）",
+  "事業内容": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部7頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部7頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部7頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部7頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部7頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部7頁・検索9回）",
+  "一点物・少量多品種": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部7頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部7頁・検索9回）"
+ }
+}

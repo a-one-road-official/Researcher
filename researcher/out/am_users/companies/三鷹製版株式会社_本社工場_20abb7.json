@@ -1,0 +1,252 @@
+{
+ "name": "三鷹製版株式会社 本社工場",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T23:08:55.879497+00:00",
+ "official_url": "http://www.mitaka-seihan.co.jp",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {},
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.mitaka-seihan.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/212901/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg-hack.com/plastic/10134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=hUn4tT9VgWU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/212901/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aichi-nagoya-aerospace.jp/companies/files/pdf/7a95a0a5c4db39248cbaa638a49f4cf88b721db1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rex.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aichi-biz.com/search/companies/144/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rex.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "三鷹製版 本社工場 取扱製品 試作 小ロット",
+   "results": [
+    "https://mono.ipros.com/company/detail/212901/",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.youtube.com/watch?v=hUn4tT9VgWU",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://www.aichi-biz.com/search/companies/144/",
+    "https://www.zen.co.jp/",
+    "https://www.okamono.com/member_det.php?no=219",
+    "https://orangedesign.co.jp/business_content/production/",
+    "https://www.rd-stuff.com/injectionmolding-lp/",
+    "https://www.okamono.com/fair2025_det.php?no=219"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "三鷹製版 本社工場 会社概要 事業内容",
+   "results": [
+    "https://mono.ipros.com/company/detail/212901/",
+    "https://aichi-nagoya-aerospace.jp/companies/files/pdf/7a95a0a5c4db39248cbaa638a49f4cf88b721db1.pdf",
+    "https://www.rex.co.jp/company/",
+    "https://sogo-seihan.com/company/info/",
+    "https://www.machinist.co.jp/2024/01/19748/",
+    "https://www.mitaka-seihan.co.jp/company/sdgs/",
+    "https://mitaka-seihan.bsj.jp/",
+    "https://www.aichi-biz.com/search/companies/144/",
+    "https://www.nikkanseibu-eve.com/mono/online-mono2022/exhibitor/mitaka-seihan/",
+    "https://www.mitaka-seihan.co.jp/company/profile/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "三鷹製版 本社工場 お問い合わせ メール",
+   "results": [
+    "https://www.aichi-biz.com/search/companies/144/inquiry/",
+    "https://www.mitaka-seihan.co.jp/contact/",
+    "https://www.rex.co.jp/inquiry/",
+    "https://www.nikkanseibu-eve.com/mono/online-mono2022/exhibitor/mitaka-seihan/",
+    "https://www.machinist.co.jp/2024/01/19748/",
+    "http://www.sankyo-ssp.co.jp/progress.html",
+    "https://mitaka-seihan.bsj.jp/",
+    "https://www.otsuka-shokai.co.jp/contact/form/A0540/?pid=0663&cat=&p_question=&02=82_h_h_contact&sbj=",
+    "https://form.shikaku.co.jp/webapp/form/12729_pvs_22/index.do",
+    "https://www.mitaka-seihan.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com 三鷹製版 本社工場",
+   "results": [
+    "https://note.com/tatsunoji/n/n80c14beeb4a5",
+    "https://note.com/alao_yokogi/n/n25680d15dd0d",
+    "https://note.com/kokimi11/n/n4a83b16fdd73",
+    "https://note.com/7136jo/n/n3f3d85abcbc3",
+    "https://note.com/takanori1976/n/n9f049cf75489",
+    "https://note.com/geographybu7/n/n0b48c807cbd5",
+    "https://note.com/clearcloudswater/n/n7560bbd42767",
+    "https://note.com/puratto15/n/nead1a5db067a",
+    "https://note.com/lucky_stilt130/n/n40844df6ffc7"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com 三鷹製版 本社工場",
+   "results": [
+    "https://x.com/mitakaseihan",
+    "https://x.com/toyohashicci/status/2056676238375498188",
+    "https://x.com/yukiakari/status/1938099316360679550",
+    "https://x.com/goma121",
+    "https://x.com/mitakaseihan/status/1757416972139323502",
+    "https://x.com/mitakaseihan/status/1807330200620822942",
+    "https://x.com/mitakaseihan/status/1841253403760214271",
+    "https://x.com/passage0771",
+    "https://x.com/MOKA_Factory",
+    "https://x.com/passage0771/status/2066384142405927166"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:linkedin.com 三鷹製版 本社工場",
+   "results": [
+    "https://jp.linkedin.com/company/三鷹製版（株）",
+    "https://jp.linkedin.com/company/mitakatrading",
+    "https://www.linkedin.com/posts/三鷹製版（株）_アルマイト-産業機器-銘板-activity-6795881595455836160-7m55",
+    "https://za.linkedin.com/in/fatima-missi-22314ab2",
+    "https://za.linkedin.com/in/advocate-mpati-qofa-lebakeng-88342921",
+    "https://www.linkedin.com/posts/三鷹製版（株）_表面処理-樹脂加工-樹脂盛り-activity-6799589070684192768-DN8X",
+    "https://bm.linkedin.com/in/lavonne-bean-59b4178a"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 三鷹製版 本社工場",
+   "results": [
+    "https://www.facebook.com/bunshin.tokyo/albums/733570960078128/",
+    "https://www.facebook.com/aerospacenameplatemitaka/about/",
+    "https://www.facebook.com/aerospacenameplatemitaka/photos/a1050-0で作りましたエッチングもアルマイトもどちらも可能ですこれは金型で抜きましたがファイバーレーザーも活用しています機械に貼り付けるネームプレートはお任/122165053538008500/",
+    "https://www.facebook.com/三鷹製版-1362317183791509/",
+    "https://www.facebook.com/aerospacenameplatemitaka/posts/高度加工出力センターがもうすぐ稼働します最大sus12mm迄レーザー加工出来ますまた印刷は最大時速200迄出来ますお客様-笑顔-ものづくり-プロ-街の-ネームプ/122141572640008500/",
+    "https://www.facebook.com/aerospacenameplatemitaka/posts/10月20日の中部経済新聞の三河静岡頁にて弊社が大きく取り上げられました新工場竣工や今後の展開にフォーカスして頂き記事となりました航空業界企業からの期待にも応え/122149495814008500/",
+    "https://www.facebook.com/aerospacenameplatemitaka/posts/印刷工場も塗装完了しました綺麗になりました良い製品は5sの行き届いた小綺麗な職場から鈑金塗装印刷やパッド印刷曲面印刷もしています特殊-印刷-綺麗-工場-学ぶ事の/122141574968008500/",
+    "https://www.facebook.com/aerospacenameplatemitaka/posts/無地もアルマイト文字染色もスクリーン印刷もuvインクジェットもぜんぶインハウスで出来ますよ一般銘板分野もたくさん実績あります特に継続品に強みを持ちます是非ご相談/122165052344008500/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "三鷹製版 本社工場 note 社長",
+   "results": [
+    "https://x.com/mitakaseihan",
+    "https://oshigotonote-mikawa.com/wp-content/uploads/2026/03/14-15_%E4%B8%89%E9%B7%B9%E8%A3%BD%E7%89%88_web.pdf",
+    "https://note.com/mitaka_soko/m/mdfc0581c1280/hashtag/%E7%A4%BE%E5%86%85%E5%A0%B1",
+    "https://japan.mimaki.com/casestudy/improvement/mitaka-seihan_2.html",
+    "https://www.nikkanseibu-eve.com/mono/online-mono2022/exhibitor/mitaka-seihan/",
+    "https://aichi-nagoya-aerospace.jp/companies/files/pdf/0f7227b38b1ba1501cc9f9877beed453393d6c58.pdf",
+    "https://note.com/glassy/n/n277a227d5144",
+    "https://www.bun-shin.co.jp/20201128/",
+    "https://www.atengineer.com/pr/mitaka-seihan/company",
+    "https://www.mitaka-seihan.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "三鷹製版 本社工場 X 投稿",
+   "results": [
+    "https://x.com/mitakaseihan",
+    "https://mono.ipros.com/company/detail/212901/",
+    "https://www.facebook.com/aerospacenameplatemitaka/",
+    "https://www.mitaka-seihan.co.jp/news/page/5/",
+    "https://www.aichi-biz.com/search/companies/144/",
+    "https://www.instagram.com/mtk_namep/",
+    "https://mitaka-seihan.bsj.jp/",
+    "https://www.city.mitaka.lg.jp/c_service/044/044059.html",
+    "https://www.mitaka-seihan.co.jp/",
+    "https://www.mitaka-seihan.co.jp/company/profile/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）",
+  "取扱製品": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）",
+  "一点物・少量多品種": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）",
+  "製品分野": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）"
+ }
+}

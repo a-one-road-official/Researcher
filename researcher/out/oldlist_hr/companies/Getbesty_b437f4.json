@@ -1,0 +1,877 @@
+{
+ "name": "Getbesty",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜状態なし",
+ "researched_at": "2026-11-12T00:01:54.332309+00:00",
+ "official_url": "https://www.getbesty.ai",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$67,000",
+    "url": "https://prospeo.io/c/besty-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$2,500,000",
+    "url": "https://prospeo.io/c/besty-ai-revenue",
+    "pass": 3
+   },
+   {
+    "label": "Seed Round",
+    "value": "$1.50M 3 Ridge Ventures, Bungalow Capital Management +1 20 Aug 2024",
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Manhattan, New York, United States",
+    "url": "https://prospeo.io/c/besty-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://prospeo.io/c/besty-ai-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Keep your existing PMS. Besty connects to the reservations and property information your business already runs on.",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep work moving across guest support, pricing and operations without relaying every detail yourself.",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Two growth engines in one Besty account. We drive direct bookings for the homes you manage today, and we start conversations with the owners near you to sign your next homes. Besty does the work; you approve and take the calls.",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta catalog ads, Google Search & PMax",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enriched listing pages, AI photo scoring & property films",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Owner lists, neighbor outreach, owner ads & comp reports",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Ask a question, assign work or approve a decision. Besty brings your software, AI agents and operations team together on your phone.",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Guest messaging, revenue, marketing, direct bookings, owner reporting, cleaning coordination, phones and reviews. Everything digital, 24/7.",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI implementation only works if you hire the company that built the AI",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hire the team that built the whole AI native stack.",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Cheap hours, then the training and the turnover. They are only as good as the systems you built for them.",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Digital property managers",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Real progress, until you hit the wall. You do not own the software underneath and cannot make it bend.",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing that grows with you",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The rate varies with portfolio size. No PMS required. Every other point solution goes, from your old website provider to your old revenue manager. No annual lock in, and you can cancel on 30 days' notice.",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How does pricing work?",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "You have two options. Use our software suite on its own, or let Besty's full AI property management service run the digital side of your business. Talk to sales and we'll price it for your portfolio.",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing for your portfolio size",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Besty was founded in 2023 when a property manager (Sam) and an AI whizz (Aarlo) got together to solve real problems.",
+    "url": "https://www.getbesty.ai/team",
+    "pass": 1
+   },
+   {
+    "quote": "Properties by Besty globally",
+    "url": "https://www.getbesty.ai/team",
+    "pass": 1
+   },
+   {
+    "quote": "75 Spring Street, SoHo, NYC",
+    "url": "https://www.getbesty.ai/team",
+    "pass": 1
+   },
+   {
+    "quote": "75 Spring Street, New York, NY 10012",
+    "url": "https://www.getbesty.ai/team",
+    "pass": 1
+   },
+   {
+    "quote": "AI Product Engineering",
+    "url": "https://www.getbesty.ai/team",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Development Representative",
+    "url": "https://www.getbesty.ai/team",
+    "pass": 1
+   },
+   {
+    "quote": "Onboarding Specialist",
+    "url": "https://www.getbesty.ai/team",
+    "pass": 1
+   },
+   {
+    "quote": "AI Product Engineering Intern",
+    "url": "https://www.getbesty.ai/team",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing for your portfolio size",
+    "url": "https://www.getbesty.ai/team",
+    "pass": 1
+   },
+   {
+    "quote": "Besty is an AI-powered guest messaging and revenue-generation tool for hosts. Besty reads through all listing data, past conversations, and custom host notes to generate a centralized knowledge base that updates in real time for each listing.",
+    "url": "https://help.guesty.com/hc/en-gb/articles/15388408077853-Besty-AI",
+    "pass": 3
+   },
+   {
+    "quote": "If you are migrating from a different PMS, contact Besty AI before starting the connection process. You need a new Besty AI account linked to Guesty, and the Besty AI team will help map your account settings. Start this process at least 7 days before your Guesty go-live date to avoid any service interruption.",
+    "url": "https://help.guesty.com/hc/en-gb/articles/15388408077853-Besty-AI",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/besty-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Besty AI has approximately",
+    "url": "https://prospeo.io/c/besty-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/besty-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/besty-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/besty-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/getbesty.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/getbesty.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Confirm with your work e-mail, get the Verified badge and keep this profile correct yourself. Search engines and AI assistants read it every day.",
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "pass": 3
+   },
+   {
+    "quote": "enhances communication efficiency between guests and property managers, while simultaneously driving revenue growth through intelligent pricing strategies and data-driven insights. These capabilities present a unique value proposition in the increasingly competitive short-term rental market.",
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "pass": 3
+   },
+   {
+    "quote": "AI-powered guest messaging, revenue optimization, STR managers, real-time analytics, business insights, interactive data analytics, enterprise data analytics, data-driven decision-making, online data analysis platform",
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Property Management Companies",
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Besty AI has approximately 14 employees.",
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Top alternatives and competitors to Besty AI include Verix, Balto, Gray Routes AI, DataGPT, Praisidio. These companies operate in related industries and serve comparable markets. You can compare them side by side on Bounce Watch.",
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Operators trained in vacation rentals",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Software, operators, growth team and accountability, on one fee. We built every layer and we run every layer.",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Accurate real-time demand sensing & inventory optimization that halves manufacturer's forecast error...",
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Besty AI operates in AI, Analytics, Mobile and Machine Learning. Its work centres on AI-powered guest messaging, revenue optimization, STR managers and real-time analytics. Its customers include Hospitality Leaders, Vacation Rental Managers and Short-Term Rental Businesses.",
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Homes, crews, owners, your market and your brand. The physical business, and the final say.",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Besty consolidates everything digital: guest messaging, revenue, owner reporting, daily coordination, and more.",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your people, part of the system.",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Growth & Owner Acquisition",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2 due before first arrival",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Guest messaging, revenue, marketing, direct bookings, owner reporting, cleaning coordination, phones and reviews. Everything digital, 24/7.",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "One complete service. One share of revenue.",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The rate varies with portfolio size. No PMS required. Every other point solution goes, from your old website provider to your old revenue manager. No annual lock in, and you can cancel on 30 days' notice.",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "$500K in annual guest revenue",
+    "url": "https://www.getbesty.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "In upsell revenue generated for customers",
+    "url": "https://www.getbesty.ai/team",
+    "pass": 1
+   },
+   {
+    "quote": "Besty is an AI-powered guest messaging and revenue-generation tool for hosts. Besty reads through all listing data, past conversations, and custom host notes to generate a centralized knowledge base that updates in real time for each listing.",
+    "url": "https://help.guesty.com/hc/en-gb/articles/15388408077853-Besty-AI",
+    "pass": 3
+   },
+   {
+    "quote": "Besty AI Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/besty-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Besty AI",
+    "url": "https://prospeo.io/c/besty-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/besty-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Besty AI is an AI-powered guest messaging and revenue optimization tool for STR managers.",
+    "url": "https://prospeo.io/c/besty-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/besty-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/besty-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Besty AI?",
+    "url": "https://prospeo.io/c/besty-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Besty AI generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/besty-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/besty-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/besty-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Besty AI have?",
+    "url": "https://prospeo.io/c/besty-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/besty-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Besty AI Revenue 2025: $1.5M Est.",
+    "url": "https://getlatka.com/companies/getbesty.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Besty is an AI -powered guest messaging and revenue optimization tool for STR managers.",
+    "url": "https://getlatka.com/companies/getbesty.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Besty AI has not published its revenue. GetLatka estimates it at about $1.5M a year (December 2025).",
+    "url": "https://getlatka.com/companies/getbesty.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Besty AI has 14 employees (December 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/getbesty.ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is Besty AI's revenue?",
+    "url": "https://getlatka.com/companies/getbesty.ai",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Besty AI's revenue at about",
+    "url": "https://getlatka.com/companies/getbesty.ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Besty AI have?",
+    "url": "https://getlatka.com/companies/getbesty.ai",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of December 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/getbesty.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/getbesty.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/getbesty.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/getbesty.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Besty is an AI-powered guest messaging and revenue optimization tool for STR managers.",
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "pass": 3
+   },
+   {
+    "quote": "14 employees",
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "pass": 3
+   },
+   {
+    "quote": "AI-powered guest messaging and revenue optimization tool",
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "pass": 3
+   },
+   {
+    "quote": "enhances communication efficiency between guests and property managers, while simultaneously driving revenue growth through intelligent pricing strategies and data-driven insights. These capabilities present a unique value proposition in the increasingly competitive short-term rental market.",
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "pass": 3
+   },
+   {
+    "quote": "AI-powered guest messaging, revenue optimization, STR managers, real-time analytics, business insights, interactive data analytics, enterprise data analytics, data-driven decision-making, online data analysis platform",
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Delivering an AI-powered Commercial Optimization Platform that boosts performance and revenue for ph...",
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "pass": 3
+   },
+   {
+    "quote": "60 employees",
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "pass": 3
+   },
+   {
+    "quote": "124 employees",
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "pass": 3
+   },
+   {
+    "quote": "3 employees",
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Besty AI operates in AI, Analytics, Mobile and Machine Learning. Its work centres on AI-powered guest messaging, revenue optimization, STR managers and real-time analytics. Its customers include Hospitality Leaders, Vacation Rental Managers and Short-Term Rental Businesses.",
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Besty AI has a SaaS and B2B business model. Its revenue comes from Subscription, Usage Based and Service Fee.",
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Besty AI have?",
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Besty AI has approximately 14 employees.",
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Welcome back - app.getbesty.ai — Forgot password? Create account.",
+    "url": "https://app.getbesty.ai/login",
+    "pass": 3
+   },
+   {
+    "quote": "Growth & Owner Acquisition | Besty - getbesty.ai — Two growth engines in one Besty account. Guest direct bookings from Meta and Google ads, property films, listing pages, and checkout recovery. Owner acquisition from neighbor outreach, owner ads, and comp reports. You approve every piece.",
+    "url": "https://www.getbesty.ai/growth-marketing",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Besty - getbesty.ai — Northwind used Besty to standardize implementation steps across onboarding, internal approvals, and customer handoff so new launches stopped stalling in email threads.",
+    "url": "https://www.getbesty.ai/case-studies",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/besty-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Confirm with your work e-mail, get the Verified badge and keep this profile correct yourself. Search engines and AI assistants read it every day.",
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "pass": 3
+   },
+   {
+    "quote": "The list's first rows in Excel, with every column the full file has and how full each one is. One e-mail, then at most two short notes.",
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Congrat to @AlchemsitAcc Alum https://t.co/Y4MnAT2RXo on ... nearly 10x growth in under a year, serving tens of thousands properties and a management team who’s dialed in = getbesty.ai @bungalowcapital is pumped to help build Besty into an iconic company in a space so close to the firm w. great friends @ridgevc, @rbelani 😍",
+    "url": "https://x.com/rbelani/status/1841917301127578036",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Getbesty - Facebook Nov 25, 2024 · Getbesty. 74 followers. Real Estate",
+    "url": "https://www.facebook.com/p/Getbesty-100087528313293/",
+    "pass": 3
+   },
+   {
+    "quote": "Getbesty - Facebook Nov 25, 2024 · Getbesty. 72 likes. \"Dongguan Lewei Trading Co., Ltd. Room 401, No. 19, Shayuan Road, Xitou, Humen Town, Dongguan City, G",
+    "url": "https://www.facebook.com/100087528313293/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.getbesty.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getbesty.ai/team",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.guesty.com/hc/en-gb/articles/15388408077853-Besty-AI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://app.getbesty.ai/login",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://app.getbesty.ai/login",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://app.getbesty.ai/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.casestudies.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mckinsey.com/about-us/case-studies",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/besty-ai-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/493564-69",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/getbesty.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bouncewatch.com/company/besty-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/rbelani/status/1841917301127578036",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Getbesty-100087528313293/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100087528313293/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Getbesty 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Getbesty 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.getbesty.ai/",
+    "https://help.guesty.com/hc/en-gb/articles/15388408077853-Besty-AI",
+    "https://app.getbesty.ai/login",
+    "https://midea-japan.com/",
+    "https://app.getbesty.ai/listings",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Getbesty Japan",
+   "results": [
+    "https://app.getbesty.ai/login",
+    "https://www.getbesty.ai/growth-marketing",
+    "https://www.getbesty.ai/",
+    "https://app.getbesty.ai/",
+    "https://getbesty.tech/about-us",
+    "https://www.getbesty.ai/?via=dangai",
+    "https://www.getbesty.ai/apply"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Getbesty manufacturing customer case study",
+   "results": [
+    "https://www.getbesty.ai/case-studies",
+    "https://www.casestudies.com/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.mckinsey.com/about-us/case-studies",
+    "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "https://azure.microsoft.com/en-us/resources/customer-stories/",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Getbesty white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Getbesty founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/besty-ai-revenue",
+    "https://pitchbook.com/profiles/company/493564-69",
+    "https://getlatka.com/companies/getbesty.ai",
+    "https://bouncewatch.com/company/besty-ai",
+    "https://lounge.ai/companies/besty-ai",
+    "https://www.caplight.com/company/getbesty",
+    "https://getbesty.tech/about-us"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Getbesty",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/higashide_note",
+    "https://note.com/59hitori_life/n/n68b7b010d838?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/akane_otrtb/n/n2dbe3b224513",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/mio_adviser_8888/n/n7d3f9597f090"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Getbesty",
+   "results": [
+    "https://x.com/rbelani/status/1841917301127578036",
+    "https://x.com/BestyBattalion",
+    "https://x.com/BESTY_PH",
+    "https://help.x.com/en/using-x/create-x-account",
+    "https://x.com/bestystation/status/2100402827466362962",
+    "https://x.com/BestyBattalion/status/2102145380742013415",
+    "https://x.com/BestyPh2026/status/2117086201471799380"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Getbesty",
+   "results": [
+    "https://za.linkedin.com/in/bestina-rakgoale-4a7923130",
+    "https://ie.linkedin.com/company/smilycom",
+    "https://jp.linkedin.com/in/futoshiyokota",
+    "https://fi.linkedin.com/company/ssh-communications-security",
+    "https://www.linkedin.com/company/besty-ai",
+    "https://www.linkedin.com/company/besty",
+    "https://uk.linkedin.com/in/sara-temboury"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Getbesty",
+   "results": [
+    "https://www.facebook.com/p/Getbesty-100087528313293/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/100087528313293/",
+    "https://www.facebook.com/Suppbesty/",
+    "https://www.facebook.com/VeryBesty/",
+    "https://www.facebook.com/bestyplatform/",
+    "https://www.facebook.com/www.getbesty.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Getbesty note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/bestisyettocom",
+    "https://getbesty.tech/about-us",
+    "https://www.getbesty.ai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Getbesty X 投稿",
+   "results": [
+    "https://app.getbesty.ai/login",
+    "https://app.getbesty.ai/listings",
+    "https://getbesty.tech/about-us",
+    "https://x.com/phoebebeautyup/status/2120062073485013245",
+    "https://www.getbesty.ai/",
+    "https://x.com/wangzi3x0x/status/2120121757986332736",
+    "https://www.xvideos.com/?k=素人投稿無修正"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部19頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部19頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部19頁・検索12回）"
+ }
+}

@@ -14,7 +14,7 @@
 - 要確認（文脈不明か年が無い）：300件／300件。この数字は結論に使う前に引用の本文で確かめる
 - 除外の点検（規則ごとに外した数字の件数・4-39）：疑問文の中の数字（4-61） 2件、一覧・目次のページの題名の行（4-60） 1件、見出し・題名・検索結果の抜粋（4-5） 1件
 - 短すぎる引用（12字未満・メニューや表の切れ端の疑い・4-39）から取った数字：54件。結論に使う前に本文で確かめる
-- 目で確かめる抜き取り（品目ごと・件数に比例・4-50）：Lotus Engineering（25件）、Hexcel（43件）、Rimac Technology（21件）。この品目の引用は全件を本文と照らす
+- 目で確かめる抜き取り（品目ごと・件数に比例・4-50）：Williams Advanced Engineering（5件）、Divergent Technologies（10件）、Hexcel（43件）。この品目の引用は全件を本文と照らす
   - ⚠ 翻訳・要約・又聞きの型の引用から取った数字 1件（例：Divergent Technologies）：元の一次と見比べるまで採る値・裏付けにしない（4-55）
   - ⚠ 出典がサイトの入口（トップページ）の数字 3件（例：litespeed.com）：数字が載った個別のページで取り直すまで裏付けに数えない（4-72）
   - ⚠ 表を平たくした文の疑い（数字6つ以上・かなほぼ無し）4件（例：Litespeed Titanium）：列・行の見出しとの対応が崩れている恐れ。表のファイル・原文の表で列を確かめるまで採る値にしない（4-76）
@@ -437,34 +437,34 @@
 （なし）
 
 ## 再調査の条件（取得から7日超・4-25）
-- Brabus：最後の取得 2026-11-02（9日前）
-- Capricorn Group：最後の取得 2026-11-02（9日前）
-- Czinger Vehicles：最後の取得 2026-11-02（9日前）
-- Dallara：最後の取得 2026-11-02（9日前）
-- Divergent Technologies：最後の取得 2026-11-02（9日前）
-- Gordon Murray Group：最後の取得 2026-11-02（9日前）
-- Haas Automation：最後の取得 2026-11-02（9日前）
-- Hennessey Performance：最後の取得 2026-11-02（9日前）
-- Hexcel：最後の取得 2026-11-02（9日前）
-- Italdesign：最後の取得 2026-11-02（9日前）
-- Koenigsegg：最後の取得 2026-11-02（9日前）
-- Ligier Automotive：最後の取得 2026-11-02（9日前）
-- Litespeed Titanium：最後の取得 2026-11-02（9日前）
-- Lotus Engineering：最後の取得 2026-11-02（9日前）
-- McLaren Applied：最後の取得 2026-11-02（9日前）
-- Multimatic：最後の取得 2026-11-02（9日前）
-- Pagani Automobili：最後の取得 2026-11-02（9日前）
-- Pininfarina：最後の取得 2026-11-02（9日前）
-- Porsche Engineering：最後の取得 2026-11-02（9日前）
-- Prodrive：最後の取得 2026-11-02（9日前）
-- RUF Automobile：最後の取得 2026-11-02（9日前）
-- Radical Motorsport：最後の取得 2026-11-02（9日前）
-- Ricardo：最後の取得 2026-11-02（9日前）
-- Rimac Technology：最後の取得 2026-11-02（9日前）
-- Roush：最後の取得 2026-11-02（9日前）
-- Spirit of Ricardo：最後の取得 2026-11-02（9日前）
-- Williams Advanced Engineering：最後の取得 2026-11-02（9日前）
-- YCOM：最後の取得 2026-11-02（9日前）
+- Brabus：最後の取得 2026-11-02（10日前）
+- Capricorn Group：最後の取得 2026-11-02（10日前）
+- Czinger Vehicles：最後の取得 2026-11-02（10日前）
+- Dallara：最後の取得 2026-11-02（10日前）
+- Divergent Technologies：最後の取得 2026-11-02（10日前）
+- Gordon Murray Group：最後の取得 2026-11-02（10日前）
+- Haas Automation：最後の取得 2026-11-02（10日前）
+- Hennessey Performance：最後の取得 2026-11-02（10日前）
+- Hexcel：最後の取得 2026-11-02（10日前）
+- Italdesign：最後の取得 2026-11-02（10日前）
+- Koenigsegg：最後の取得 2026-11-02（10日前）
+- Ligier Automotive：最後の取得 2026-11-02（10日前）
+- Litespeed Titanium：最後の取得 2026-11-02（10日前）
+- Lotus Engineering：最後の取得 2026-11-02（10日前）
+- McLaren Applied：最後の取得 2026-11-02（10日前）
+- Multimatic：最後の取得 2026-11-02（10日前）
+- Pagani Automobili：最後の取得 2026-11-02（10日前）
+- Pininfarina：最後の取得 2026-11-02（10日前）
+- Porsche Engineering：最後の取得 2026-11-02（10日前）
+- Prodrive：最後の取得 2026-11-02（10日前）
+- RUF Automobile：最後の取得 2026-11-02（10日前）
+- Radical Motorsport：最後の取得 2026-11-02（10日前）
+- Ricardo：最後の取得 2026-11-02（10日前）
+- Rimac Technology：最後の取得 2026-11-02（10日前）
+- Roush：最後の取得 2026-11-02（10日前）
+- Spirit of Ricardo：最後の取得 2026-11-02（10日前）
+- Williams Advanced Engineering：最後の取得 2026-11-02（10日前）
+- YCOM：最後の取得 2026-11-02（10日前）
 
 ## 年・符号・試算の点検（4-34）
 - 経済センサス-活動調査の調査年を実績年に1年戻した数字：0件

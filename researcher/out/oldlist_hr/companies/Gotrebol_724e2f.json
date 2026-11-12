@@ -1,0 +1,974 @@
+{
+ "name": "Gotrebol",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Software / SaaS｜未接触",
+ "researched_at": "2026-11-11T23:29:24.073614+00:00",
+ "official_url": "https://gotrebol.com/",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Email",
+    "value": "Google Workspace",
+    "url": "https://who.is/dns/gotrebol.com",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "24-May-2023 $3M   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/493372-00",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "15-Mar-2022    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/493372-00",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Software de Automatización de Documentos y Onboarding | Trébol",
+    "url": "https://www.gotrebol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Empresas líderes automatizan su back-office con nosotros.",
+    "url": "https://www.gotrebol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cada producto es un componente. Úsalos por separado o combínalos para crear el workflow para automatizar tu proceso.",
+    "url": "https://www.gotrebol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Flexibilidad para tu equipo y tus procesos.",
+    "url": "https://www.gotrebol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Expediente de empresa",
+    "url": "https://www.gotrebol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ver solución de onboarding",
+    "url": "https://www.gotrebol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Libera a tu back-office de tareas manuales y repetitivas. Recibe datos libres de errores y con una precisión superior a la humana, listos para la exportación directa a cualquier sistema o formato que utilices.",
+    "url": "https://www.gotrebol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "> Reduce el tiempo de procesamiento documental de días a segundos.",
+    "url": "https://www.gotrebol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Consultar datos de empresas y personas",
+    "url": "https://www.gotrebol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Consulta datos de empresas",
+    "url": "https://www.gotrebol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Verifica la información de personas, empresas e inmuebles contra registros públicos y fuentes de gobierno (ej. SIGER, RUES, etc). Una capa extra de seguridad y cumplimiento normativo",
+    "url": "https://www.gotrebol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Soluciones para procesos de back office",
+    "url": "https://www.gotrebol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No importa la complejidad, nuestra plataforma está diseñada para automatizar tus procesos más importantes y darte resultados medibles",
+    "url": "https://www.gotrebol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Onboarding de Empresas (KYB):",
+    "url": "https://www.gotrebol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Digitaliza el dictamen legal de empresas. Valida y extrae datos de actas constitutivas, poderes, y actas de asamblea.",
+    "url": "https://www.gotrebol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce el tiempo de onboarding de empresas de semanas a días y mejora la experiencia de tu cliente.",
+    "url": "https://www.gotrebol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aprueba créditos en minutos. Valida la identidad del solicitante y analiza sus recibos de nómina y estados de cuenta para determinar su capacidad de pago real.",
+    "url": "https://www.gotrebol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Digitaliza tu proceso de crédito y onboarding. Olvídate de transcribir documentos a mano.",
+    "url": "https://www.gotrebol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Déjanos tu correo y te mandamos contenido corto y práctico para que veas si encajamos contigo.",
+    "url": "https://www.gotrebol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Verifica empresas y personas en minutos",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Los equipos que usan Trébol pasan de días a minutos procesando documentos.",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Procesamiento de actas notariales y poderes con IA",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Acceso a la app, la API y el widget de onboarding (hasta 50 enlaces al mes)",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Widget de onboarding con hasta 200 enlaces al mes, personalizable con tu marca",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Widget de onboarding sin límite de enlaces",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Cuestionarios de seguridad de proveedores (VSQ)",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Un expediente equivale, en promedio, a los documentos y consultas necesarios para verificar una empresa o persona. El cobro real es por documento procesado, al mismo precio dentro y fuera de tu volumen incluido.",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Extracción de documentos con IA (actas, poderes, comprobantes fiscales)",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Widget de onboarding embebible",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Sí. Puedes subir de Standard a Growth o Enterprise cuando lo necesites; nuestro equipo te ayuda a migrar tu cuenta sin perder información.",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "El excedente se cobra en tu facturación al mismo precio por documento de tu plan, sin cambios de tarifa. Si tu volumen crece de forma consistente, puedes ajustar tu plan cuando quieras.",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "¿El plan Standard tiene el mismo nivel de seguridad que Enterprise?",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Sí, la infraestructura y el cifrado son los mismos en todos los planes (AES-256, certificación ISO 27001). Lo que agrega Enterprise son controles adicionales como SSO/SAML y control de acceso basado en roles, pensados para equipos más grandes.",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Con tarjeta a través de Stripe, de forma mensual. Empiezas con 2 semanas de prueba sin costo antes de que se active el cobro.",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "¿Necesito hablar con ventas si soy una empresa pequeña?",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Sí. Con el plan Standard te suscribes directo, sin pasar por una llamada de ventas. Registras tu tarjeta, activamos tu cuenta en menos de 24 horas y tienes 2 semanas de prueba antes de cualquier cobro.",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "El cobro es por documento procesado. Tu volumen incluido se va consumiendo conforme se procesan documentos, al mismo precio por documento dentro y fuera de tu plan.",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "¿Qué hago si tengo una pregunta que no está aquí?",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Agenda una llamada corta con nuestro equipo, sin costo ni compromiso, y te ayudamos a decidir qué plan se ajusta a tu operación. Puedes hacerlo desde cualquiera de los botones “Agenda una demo” de esta página.",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "DNS (Domain Name System) records are instructions that provide information about a domain, including its IP addresses, mail servers, and other services. Common record types include:",
+    "url": "https://who.is/dns/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "Trébol 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/493372-00",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/493372-00",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of document automation software designed to accelerate back-office processes and onboarding.",
+    "url": "https://pitchbook.com/profiles/company/493372-00",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/493372-00",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/493372-00",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/493372-00",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/493372-00",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/493372-00",
+    "pass": 3
+   },
+   {
+    "quote": "Trébol’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/493372-00",
+    "pass": 3
+   },
+   {
+    "quote": "Is Trébol a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/493372-00",
+    "pass": 3
+   },
+   {
+    "quote": "Trébol is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/493372-00",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/493372-00",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/493372-00",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/493372-00",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Customer Onboarding Software",
+    "url": "https://getlatka.com/companies/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "Best Collaboration & Productivity Software",
+    "url": "https://getlatka.com/companies/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Customer Onboarding Software",
+    "url": "https://getlatka.com/companies/gotrebol.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "Best Collaboration & Productivity Software",
+    "url": "https://getlatka.com/companies/gotrebol.com#team",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Con la confianza de equipos que construyen el futuro de las finanzas:",
+    "url": "https://www.gotrebol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Flexibilidad para tu equipo y tus procesos.",
+    "url": "https://www.gotrebol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ver flujo para hipotecas",
+    "url": "https://www.gotrebol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Créditos Hipotecarios:",
+    "url": "https://www.gotrebol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Los equipos que usan Trébol pasan de días a minutos procesando documentos.",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Sí. Puedes subir de Standard a Growth o Enterprise cuando lo necesites; nuestro equipo te ayuda a migrar tu cuenta sin perder información.",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Sí, la infraestructura y el cifrado son los mismos en todos los planes (AES-256, certificación ISO 27001). Lo que agrega Enterprise son controles adicionales como SSO/SAML y control de acceso basado en roles, pensados para equipos más grandes.",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Agenda una llamada corta con nuestro equipo, sin costo ni compromiso, y te ayudamos a decidir qué plan se ajusta a tu operación. Puedes hacerlo desde cualquiera de los botones “Agenda una demo” de esta página.",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Habla con nuestro equipo",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/493372-00",
+    "pass": 3
+   },
+   {
+    "quote": "Trébol has 10 total employees.",
+    "url": "https://pitchbook.com/profiles/company/493372-00",
+    "pass": 3
+   },
+   {
+    "quote": "What is Trébol’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/493372-00",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Trébol is",
+    "url": "https://pitchbook.com/profiles/company/493372-00",
+    "pass": 3
+   },
+   {
+    "quote": "Trébol Revenue 2024: $3.6M Est.",
+    "url": "https://getlatka.com/companies/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "Trébol has not published its revenue. GetLatka estimates it at about $3.6M a year (December 2024).",
+    "url": "https://getlatka.com/companies/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "Trébol CEO, founders & employees",
+    "url": "https://getlatka.com/companies/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "Fabian Torres founded Trébol in 2021 and runs it as CEO. Trébol had 24 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Trébol's revenue?",
+    "url": "https://getlatka.com/companies/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Trébol's revenue at about",
+    "url": "https://getlatka.com/companies/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Trébol have?",
+    "url": "https://getlatka.com/companies/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "Trébol Revenue 2024: $3.6M Est.",
+    "url": "https://getlatka.com/companies/gotrebol.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "Trébol has not published its revenue. GetLatka estimates it at about $3.6M a year (December 2024).",
+    "url": "https://getlatka.com/companies/gotrebol.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/gotrebol.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "Trébol CEO, founders & employees",
+    "url": "https://getlatka.com/companies/gotrebol.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "Fabian Torres founded Trébol in 2021 and runs it as CEO. Trébol had 24 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/gotrebol.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "What is Trébol's revenue?",
+    "url": "https://getlatka.com/companies/gotrebol.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Trébol's revenue at about",
+    "url": "https://getlatka.com/companies/gotrebol.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Trébol have?",
+    "url": "https://getlatka.com/companies/gotrebol.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/gotrebol.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/gotrebol.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/gotrebol.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/gotrebol.com#team",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Llenado automático de contratos y plantillas",
+    "url": "https://www.gotrebol.com/pricing",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Trebolの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — 本ページの企業情報は、公式サイト（https://gotrebol.com）および公開情報（報道・プレスリリース等）をもとにAIが調査・要約したものです。 内容の正確性については公式サイト・出典をご確認ください。 続きの詳しい内容は、無料会員登録でご覧いただけ ...",
+    "url": "https://www.firstcvc.jp/global/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "gotrebol.com DNS Information - Who.is — Hosting & Network gotrebol.com runs on Cloudflare, with DNS by Cloudflare and email via Google Workspace.",
+    "url": "https://who.is/dns/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "app.gotrebol.com — Sign in to Trébol to automate company onboarding and extract data from legal documents with AI and OCR.",
+    "url": "https://app.gotrebol.com/auth",
+    "pass": 3
+   },
+   {
+    "quote": "Trébol Trust Center | trustlists — Open Trébol's own security page at trust.gotrebol.com from trustlists, an open directory of 4,000+ vendor trust centers. Trébol's trust center is listed on Vanta in the directory.",
+    "url": "https://trustlists.org/company/trbol/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "gotrebol.com runs on Cloudflare, with DNS by Cloudflare and email via Google Workspace.",
+    "url": "https://who.is/dns/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "v=spf1 include:_spf.google.com include:20887184.spf05.hubspotemail.net -all",
+    "url": "https://who.is/dns/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "We visit the site from multiple regions worldwide and email you within minutes if it goes down, with a per-region breakdown so a real outage stands out from a regional blip.",
+    "url": "https://who.is/dns/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "Which of gotrebol.com's 5 mail servers gets email first?",
+    "url": "https://who.is/dns/gotrebol.com",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/493372-00",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Gotrebol (@gotrebolPeru) / Posts / X Gotrebol (@gotrebolPeru) - Posts - Gotrebol es la idealización de funcionalidad y tu estilo llevado a la web. | X (formerly Twitter)",
+    "url": "https://x.com/gotrebolPeru",
+    "pass": 3
+   },
+   {
+    "quote": "Gotrebol (@gotrebolPeru) / Posts / X Feb 21, 2015 · Gotrebol (@gotrebolPeru) - Posts - Gotrebol es la idealización de funcionalidad y tu estilo llevado a la web. | X (formerly Twitter)",
+    "url": "https://x.com/gotrebolPeru",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Trébol (YC W22) | LinkedIn Site https://www.gotrebol.com/ Setor Produtos de software integrado Tamanho da empresa 2-10 funcionários Sede Ciudad de México",
+    "url": "https://br.linkedin.com/company/trebolhq",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.gotrebol.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gotrebol.com/pricing",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.firstcvc.jp/global/gotrebol.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2149648.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://36kr.jp/502580/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ameblo.jp/akira8580/entry-12898546580.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC_(%E4%BC%81%E6%A5%AD)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.etsy.com/market/goebel_japan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://who.is/dns/gotrebol.com",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://app.gotrebol.com/auth",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://trustlists.org/company/trbol/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gorbel.com/casestudysearch",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.safetech.com.au/wp-content/uploads/2020/11/Gorbel-Glass-Industry-2020.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gorbel.com/docs/default-source/pdfs/gorbel-case-study-what-to-expect.pdf?sfvrsn=ca67e019_2",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ergonomicpartners.com/hose-management-with-gorbel-workstation-crane-and-spring-balancer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/493372-00",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/gotrebol.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/gotrebol.com#team",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/gotrebol",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/gotrebolPeru",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://br.linkedin.com/company/trebolhq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/gotrebolPeru",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Gotrebol 日本 導入",
+   "results": [
+    "https://www.firstcvc.jp/global/gotrebol.com",
+    "https://car.watch.impress.co.jp/docs/news/2149648.html",
+    "https://36kr.jp/502580/",
+    "https://ameblo.jp/akira8580/entry-12898546580.html",
+    "https://www.itmedia.co.jp/business/articles/2610/08/news016.html",
+    "https://cellgrandclinic.com/column/2738",
+    "https://www.moneypost.jp/988067",
+    "https://www.gotrebol.com/plataforma-validacion-documentos"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Gotrebol 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://ja.wikipedia.org/wiki/ジョージフィッシャー_(企業)",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://gtrade.co.jp/",
+    "https://www.jetro.go.jp/invest/setting_up/section1/page1.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gotrebol Japan",
+   "results": [
+    "https://www.etsy.com/market/goebel_japan",
+    "https://who.is/dns/gotrebol.com",
+    "https://app.gotrebol.com/auth",
+    "https://trustlists.org/company/trbol/",
+    "https://trust.gotrebol.com/",
+    "https://www.gotrebol.com/",
+    "https://www.linkedin.com/company/trebolhq/",
+    "https://www.ebay.com/itm/256311220190",
+    "https://www.gorbel.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Gotrebol manufacturing customer case study",
+   "results": [
+    "https://www.gorbel.com/casestudysearch",
+    "https://www.safetech.com.au/wp-content/uploads/2020/11/Gorbel-Glass-Industry-2020.pdf",
+    "https://www.gorbel.com/docs/default-source/pdfs/gorbel-case-study-what-to-expect.pdf?sfvrsn=ca67e019_2",
+    "https://www.ergonomicpartners.com/hose-management-with-gorbel-workstation-crane-and-spring-balancer-case-study",
+    "https://gbgmarketing.com/labs/how-to-write-a-manufacturing-case-study-the-4-section-formula-for-turning-a-customer-win-into-a-sales-tool/",
+    "https://acculift.com/gorbel-case-study-ag-manufacturer-lifting-solution/",
+    "https://www.facebook.com/Gorbelinc/videos/240756575511339/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gotrebol white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.logicmonitor.com/partners",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gotrebol founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/493372-00",
+    "https://getlatka.com/companies/gotrebol.com",
+    "https://getlatka.com/companies/gotrebol.com/team",
+    "https://www.owler.com/company/gotrebol",
+    "https://indexed.vc/companies/gotrebol",
+    "https://www.extruct.ai/hub/gotrebol-com/",
+    "https://craft.co/trebol"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Gotrebol",
+   "results": [
+    "https://note.com/trebol_nihongo/n/nb8acbefa0001",
+    "https://tales.note.com/menmennovel2/works",
+    "https://note.com/trebol_nihongo/n/n8e470ff9aaf6",
+    "https://note.com/trebol_nihongo/n/n5b6bec11a3d8",
+    "https://note.com/trebol_nihongo/n/n453644b87cfd",
+    "https://note.com/edutechnology/n/n8efa57cad42e",
+    "https://note.com/trebol_nihongo/n/ncc5ee7bfea0b"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Gotrebol",
+   "results": [
+    "https://x.com/gotrebolPeru",
+    "https://x.com/",
+    "https://x.com/TrebolHQ",
+    "https://x.com/kata_trebol/status/2114504001807114661",
+    "https://x.com/trevowl/status/2104407050037924115",
+    "https://x.com/trevowl/status/2104407421107982496",
+    "https://x.com/Trebolfox93/status/2094201256570974566",
+    "https://x.com/itscelyunique/status/2117839228826521620"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com Gotrebol",
+   "results": [
+    "https://www.linkedin.com/company/trebolhq/",
+    "https://br.linkedin.com/company/trebolhq",
+    "https://mx.linkedin.com/in/luisvo/es",
+    "https://co.linkedin.com/in/lsbuitrago/es",
+    "https://pr.linkedin.com/in/juliansotopr",
+    "https://www.linkedin.com/company/grupo-industrial-trebol",
+    "https://es.linkedin.com/posts/trebolhq_quién-es-el-más-rápido-de-la-industria-financiera-activity-7511473772802129920-uU8N"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Gotrebol",
+   "results": [
+    "https://www.facebook.com/p/Trebol-Go-61578623311527/",
+    "https://www.facebook.com/p/Golden-Trébol-61575894908072/",
+    "https://www.facebook.com/profile.php/?id=61555751249758",
+    "https://www.facebook.com/eltrebolusa/",
+    "https://www.facebook.com/eltrebo1/",
+    "https://www.facebook.com/p/Trebol-GO-61555751249758/",
+    "https://www.facebook.com/TrebolPizzaCedral/",
+    "https://www.facebook.com/public/Bin-Go-Trebol/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Gotrebol note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260121536475/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Gotrebol X 投稿",
+   "results": [
+    "https://x.com/gotrebolPeru",
+    "https://onboarding.gotrebol.com/",
+    "https://www.youtube.com/@gotrebol",
+    "https://x.com/TrebolHQ",
+    "https://www.gotrebol.com/",
+    "https://www.tokyo-sports.co.jp/articles/-/400712",
+    "https://note.com/mgane/n/n1c0d7384c8a0"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）"
+ }
+}

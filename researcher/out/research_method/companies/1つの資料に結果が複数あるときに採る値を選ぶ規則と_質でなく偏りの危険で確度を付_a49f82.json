@@ -8,8 +8,166 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-09T13:23:14.857827+00:00",
+ "researched_at": "2026-11-11T23:12:37.517004+00:00",
  "evidence": {
+  "実例": [
+   {
+    "quote": "A narrative review of selected papers, described as “systematic” without a registered protocol, documented search, or dual screening, is not a systematic review regardless of the label — this is explicitly called out as a counter-example on CASRAI’s own",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "— How review-article length varies by type (narrative, systematic, scoping, meta-analysis) and by journal, with Cochrane, JAMA, BMJ, and Nature Reviews examples.",
+    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For example, randomized trials, observational studies, diagnostic accuracy studies, and prognostic studies may require different risk-of-bias approaches.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "paper, which provides examples and rationale for individual checklist items.",
+    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "In this article we explain why reporting of each item is recommended, present bullet points that detail the reporting recommendations, and present examples from published reviews",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Consider providing additional information in the title, such as the method of analysis used (for example, “a systematic review with meta-analysis”), the designs of included studies (for example, “a systematic review of randomised trials”), or an indication that the review is an update of an existing review or a continually updated (“living”) systematic review.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Example of item 1 of PRISMA 2020 checklist.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Example of item 2 of PRISMA 2020 checklist.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Example of item 3 of PRISMA 2020 checklist.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Example of item 4 of PRISMA 2020 checklist.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "For example, in a review examining the effects of psychological interventions for smoking cessation in pregnancy, the authors specified intervention groups (counselling, health education, feedback, incentive-based interventions, social support, and exercise) and the defining components of each group.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Specify eligibility criteria with regard to report characteristics, such as year of dissemination, language, and report status (for example, whether reports such as unpublished manuscripts and conference abstracts were eligible for inclusion).",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Consider providing rationales for any notable restrictions to study eligibility. For example, authors might explain that the review was restricted to studies published from 2000 onward because that was the year the device was first available.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Example of item 5 of PRISMA 2020 checklist.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Authors should fully report the “what, when, and how” of the sources searched; the “what” and “when” are covered in item #6, and the “how” is covered in item #7. Further guidance and examples about searching can be found in PRISMA-Search, an extension to the PRISMA statement for reporting literature searches in systematic reviews.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Example of item 6 of PRISMA 2020 checklist.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Further guidance and examples of reporting search strategies can be found in PRISMA-Search.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "If published approaches such as search filters designed to retrieve specific types of records (for example, filter for randomised trials)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "or search strategies from other systematic reviews, were used, cite them. If published approaches were adapted—for example, if existing search filters were amended—note the changes made.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "PRISMA Guidelines: Step-by-Step Workflow + Examples",
+    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "defines them with examples.",
+    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The PRISMA Flow Diagram (With Example)",
+    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Example PRISMA Flow Diagram (Completed)",
+    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Below is a filled example for a systematic review on mindfulness interventions for academic stress.",
+    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "We included randomized controlled trials and quasi-experimental studies that examined mindfulness-based interventions in undergraduate or graduate students and reported stress or anxiety outcomes. We excluded case reports, qualitative studies, and interventions shorter than four weeks.",
+    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Before submitting your systematic review manuscript, verify your PRISMA compliance against published examples and the official checklist to catch any reporting gaps.",
+    "url": "https://paperguide.ai/blog/prisma-guidelines/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "Describe how studies were grouped for synthesis, how missing data and effect estimates were handled, how results were presented, the meta-analysis method (if used), and any heterogeneity or sensitivity analyses.",
@@ -512,160 +670,22 @@
     "first_seen": "2026-11-08"
    }
   ],
-  "実例": [
+  "一次情報の探し方": [
    {
-    "quote": "A narrative review of selected papers, described as “systematic” without a registered protocol, documented search, or dual screening, is not a systematic review regardless of the label — this is explicitly called out as a counter-example on CASRAI’s own",
-    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "— How review-article length varies by type (narrative, systematic, scoping, meta-analysis) and by journal, with Cochrane, JAMA, BMJ, and Nature Reviews examples.",
-    "url": "https://casrai.org/guides/prisma-and-systematic-review-methodology",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "For example, randomized trials, observational studies, diagnostic accuracy studies, and prognostic studies may require different risk-of-bias approaches.",
-    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "paper, which provides examples and rationale for individual checklist items.",
-    "url": "https://clinicapress.com/blog/prisma-2020-guidelines-systematic-review-meta-analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "In this article we explain why reporting of each item is recommended, present bullet points that detail the reporting recommendations, and present examples from published reviews",
+    "quote": "Specify the primary source of funding for the review",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "Consider providing additional information in the title, such as the method of analysis used (for example, “a systematic review with meta-analysis”), the designs of included studies (for example, “a systematic review of randomised trials”), or an indication that the review is an update of an existing review or a continually updated (“living”) systematic review.",
+    "quote": "pagm061901.w1.pdf",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "Example of item 1 of PRISMA 2020 checklist.",
+    "quote": "(757.9KB, pdf)",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Example of item 2 of PRISMA 2020 checklist.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Example of item 3 of PRISMA 2020 checklist.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Example of item 4 of PRISMA 2020 checklist.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "For example, in a review examining the effects of psychological interventions for smoking cessation in pregnancy, the authors specified intervention groups (counselling, health education, feedback, incentive-based interventions, social support, and exercise) and the defining components of each group.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Specify eligibility criteria with regard to report characteristics, such as year of dissemination, language, and report status (for example, whether reports such as unpublished manuscripts and conference abstracts were eligible for inclusion).",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Consider providing rationales for any notable restrictions to study eligibility. For example, authors might explain that the review was restricted to studies published from 2000 onward because that was the year the device was first available.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Example of item 5 of PRISMA 2020 checklist.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Authors should fully report the “what, when, and how” of the sources searched; the “what” and “when” are covered in item #6, and the “how” is covered in item #7. Further guidance and examples about searching can be found in PRISMA-Search, an extension to the PRISMA statement for reporting literature searches in systematic reviews.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Example of item 6 of PRISMA 2020 checklist.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Further guidance and examples of reporting search strategies can be found in PRISMA-Search.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "If published approaches such as search filters designed to retrieve specific types of records (for example, filter for randomised trials)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "or search strategies from other systematic reviews, were used, cite them. If published approaches were adapted—for example, if existing search filters were amended—note the changes made.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "PRISMA Guidelines: Step-by-Step Workflow + Examples",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "defines them with examples.",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The PRISMA Flow Diagram (With Example)",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Example PRISMA Flow Diagram (Completed)",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Below is a filled example for a systematic review on mindfulness interventions for academic stress.",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "We included randomized controlled trials and quasi-experimental studies that examined mindfulness-based interventions in undergraduate or graduate students and reported stress or anxiety outcomes. We excluded case reports, qualitative studies, and interventions shorter than four weeks.",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Before submitting your systematic review manuscript, verify your PRISMA compliance against published examples and the official checklist to catch any reporting gaps.",
-    "url": "https://paperguide.ai/blog/prisma-guidelines/",
     "pass": 3,
     "first_seen": "2026-11-08"
    }
@@ -1031,26 +1051,6 @@
     "pass": 3,
     "first_seen": "2026-11-08"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "Specify the primary source of funding for the review",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "pagm061901.w1.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(757.9KB, pdf)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
   ]
  },
  "figures": {},
@@ -1072,19 +1072,9 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.gatsbi.com/ja/resources/prisma-guidelines",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.caa.go.jp/policies/policy/food_labeling/foods_with_health_claims/info_session/assets/food_labeling_cms206_241226_05.pdf",
     "status": "ok",
     "method": "pdf"
-   },
-   {
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8056687/",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://www.prisma-statement.org/",
@@ -1097,32 +1087,47 @@
     "method": "pdf"
    },
    {
+    "url": "https://www.gatsbi.com/ja/resources/prisma-guidelines",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8008539/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://best-biostatistics.com/review/publication-stat-write.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.amed.go.jp/content/000034155.pdf",
+    "url": "https://support.microsoft.com/ja-jp/forms/check-and-share-your-form-results",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forest.watch.impress.co.jp/docs/serial/offitech/2087804.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.math.sci.ehime-u.ac.jp/~ishikawa/0422-ps-stat.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://best-biostatistics.com/summary/missing_value.html",
+    "url": "https://datachemeng.com/several_experiments_in_the_same_experimental_conditions/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://stat-agent.com/blog/13.html",
+    "url": "https://mdsc.kyushu-u.ac.jp/wp/wp-content/uploads/2023/07/7a88a180ee6166757fe23f82fa579cdc.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://smart-analytics.jp/learning/analysis-guide/multiple-comparisons/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://rnpsychology.org/lecture/papermanual_stat.pdf",
+    "url": "https://orea.or.jp/cp-bin/wordpress5/wp-content/uploads/2025/01/shinrijikken_tebiki_par2.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -1132,24 +1137,29 @@
     "method": "http"
    },
    {
-    "url": "https://orea.or.jp/cp-bin/wordpress5/wp-content/uploads/2025/01/shinrijikken_tebiki_par2.pdf",
+    "url": "https://gemini.google.com/?hl=ja",
     "status": "ok",
-    "method": "pdf"
+    "method": "browser"
    },
    {
-    "url": "https://engineer-education.com/experimental-design-basic06_data-analysis_results-verification/",
+    "url": "https://www.intra-mart.jp/im-press/useful/multi-regression_analysis",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://best-biostatistics.com/multiple/alpha.html",
+    "url": "https://best-biostatistics.com/stat-test/anova.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/seodoa_academy/n/n3c0a142cadc2",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
     "url": "https://www.bmj.com/content/372/bmj.n71",
@@ -1162,11 +1172,6 @@
     "method": "http"
    },
    {
-    "url": "https://www.sciencedirect.com/science/article/pii/S1743919121000522",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
     "url": "https://library.hmsom.edu/SystematicReviews/Risk_Bias",
     "status": "ok",
     "method": "http"
@@ -1174,6 +1179,11 @@
    {
     "url": "https://guides.mclibrary.duke.edu/sysreview/assess",
     "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S1743919121000522",
+    "status": "http_403",
     "method": "http"
    }
   ]
@@ -1185,19 +1195,20 @@
     "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
     "https://kinousei.sunsho.co.jp/column/6/21/",
     "https://jaohfa.com/wp/wp-content/uploads/news/PRISMA2020%E3%81%AE%E7%95%99%E6%84%8F%E7%82%B9%E7%AC%AC1%E7%89%88%E4%B8%80%E5%BC%8F250317.pdf",
-    "https://www.gatsbi.com/ja/resources/prisma-guidelines",
     "https://www.caa.go.jp/policies/policy/food_labeling/foods_with_health_claims/info_session/assets/food_labeling_cms206_241226_05.pdf",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8056687/",
     "https://www.prisma-statement.org/",
     "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "https://www.gatsbi.com/ja/resources/prisma-guidelines",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8008539/",
     "https://www.youtube.com/watch?v=jfrYiUS4nTk",
     "https://note.com/kimatta_kotae/n/n2cdb8416843a"
    ],
    "engines": [
     "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 17
   },
   {
    "query": "1つの資料に結果が複数あるときに採る値を選ぶ規則と、質でなく偏りの危険で確度を付ける考え方（PRISMA 2020 の解説・系統的レビュー・ファクトチェックの手引きの書き手） note",
@@ -1205,11 +1216,11 @@
     "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
     "https://kinousei.sunsho.co.jp/column/6/21/",
     "https://jaohfa.com/wp/wp-content/uploads/news/PRISMA2020%E3%81%AE%E7%95%99%E6%84%8F%E7%82%B9%E7%AC%AC1%E7%89%88%E4%B8%80%E5%BC%8F250317.pdf",
-    "https://www.gatsbi.com/ja/resources/prisma-guidelines",
     "https://www.caa.go.jp/policies/policy/food_labeling/foods_with_health_claims/info_session/assets/food_labeling_cms206_241226_05.pdf",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8056687/",
     "https://www.prisma-statement.org/",
     "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "https://www.gatsbi.com/ja/resources/prisma-guidelines",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8008539/",
     "https://www.youtube.com/watch?v=jfrYiUS4nTk"
    ],
    "engines": [
@@ -1223,16 +1234,16 @@
     "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
     "https://kinousei.sunsho.co.jp/column/6/21/",
     "https://jaohfa.com/wp/wp-content/uploads/news/PRISMA2020%E3%81%AE%E7%95%99%E6%84%8F%E7%82%B9%E7%AC%AC1%E7%89%88%E4%B8%80%E5%BC%8F250317.pdf",
-    "https://www.gatsbi.com/ja/resources/prisma-guidelines",
     "https://www.caa.go.jp/policies/policy/food_labeling/foods_with_health_claims/info_session/assets/food_labeling_cms206_241226_05.pdf",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8056687/",
     "https://www.prisma-statement.org/",
     "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "https://www.gatsbi.com/ja/resources/prisma-guidelines",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8008539/",
     "https://www.youtube.com/watch?v=jfrYiUS4nTk",
     "https://best-biostatistics.com/review/publication-stat-write.html"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -1243,19 +1254,20 @@
     "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
     "https://kinousei.sunsho.co.jp/column/6/21/",
     "https://jaohfa.com/wp/wp-content/uploads/news/PRISMA2020%E3%81%AE%E7%95%99%E6%84%8F%E7%82%B9%E7%AC%AC1%E7%89%88%E4%B8%80%E5%BC%8F250317.pdf",
-    "https://www.gatsbi.com/ja/resources/prisma-guidelines",
     "https://www.caa.go.jp/policies/policy/food_labeling/foods_with_health_claims/info_session/assets/food_labeling_cms206_241226_05.pdf",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8056687/",
     "https://www.prisma-statement.org/",
     "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "https://www.gatsbi.com/ja/resources/prisma-guidelines",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8008539/",
     "https://www.youtube.com/watch?v=jfrYiUS4nTk",
-    "https://best-biostatistics.com/review/publication-stat-write.html"
+    "https://orea.or.jp/cp-bin/wordpress5/wp-content/uploads/2025/01/shinrijikken_tebiki_par2.pdf"
    ],
    "engines": [
     "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 20
   },
   {
    "query": "selection of results multiple results per study risk of bias vs quality PRISMA 2020 explanation",
@@ -1264,12 +1276,12 @@
     "https://www.bmj.com/content/372/bmj.n71",
     "https://guides.himmelfarb.gwu.edu/systematic_review/reporting-quality-risk-of-bias",
     "https://www.prisma-statement.org/",
-    "https://www.sciencedirect.com/science/article/pii/S1743919121000522",
     "https://library.hmsom.edu/SystematicReviews/Risk_Bias",
     "https://guides.mclibrary.duke.edu/sysreview/assess",
-    "https://libraryguides.vu.edu.au/systematicliteraturereviews/riskofbias",
+    "https://www.sciencedirect.com/science/article/pii/S1743919121000522",
+    "https://libguides.lib.rochester.edu/systematicreviews/step10",
     "https://www.researchgate.net/post/When-performing-a-systematic-review-the-PRISMA-guidelines-recommend-assessing-individual-risk-of-bias-How-do-I-assess-the-risk-of-bias",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8007028/"
+    "https://www.bmj.com/content/372/bmj.n160"
    ],
    "engines": [
     "ddgs:google",
@@ -1292,7 +1304,7 @@
     "https://note.com/ippei_shimiuzu/n/na7bf5f69fa84"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -1305,17 +1317,18 @@
     "https://x.com/TMS_Japan/status/2118649021879537794",
     "https://x.com/ymori117",
     "https://x.com/LSI12d0tRdpb89X",
-    "https://jf.x.com/images/media-preview/2116866856183377926",
     "https://jf.x.com/images/media-preview/2110917534530822560",
-    "https://x.com/ichiro_Advisor/status/2116009701116621100",
-    "https://x.com/structure_mind/status/2096106684729147718",
-    "https://x.com/koutarou_furuno/status/2101174969950671123"
+    "https://jf.x.com/images/media-preview/2106381460500316488",
+    "https://help.x.com/ja/using-x/top-search-results-faqs",
+    "https://x.com/koutarou_furuno/status/2101174969950671123",
+    "https://x.com/kmsakura397582/status/2099654169506570503"
    ],
    "engines": [
     "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 12
+   "n_hits": 13
   },
   {
    "query": "site:linkedin.com 1つの資料に結果が複数あるときに採る値を選ぶ規則と、質でなく偏りの危険で確度を付ける考え方（PRISMA 2020 の解説・系統的レビュー・ファクトチェックの手引きの書き手）",
@@ -1326,8 +1339,8 @@
     "https://jp.linkedin.com/pulse/extracting-multiple-matching-values-excel-3-smart-methods-mandke-m99bf?tl=ja",
     "https://in.linkedin.com/posts/kazuro-furuya-8a0266229_人が例えば道を選択をするとき必ず悪口を言われると心せよ-2股の分かれ道で右を採ると-activity-7026546639637004288-a-oC",
     "https://www.linkedin.com/feed/update/urn:li:activity:7327512850145390592/",
-    "https://jp.linkedin.com/posts/miki-nonaka-kinoshita_fdaが歴史上初めて約200通の医薬品申請却下書簡を公開-先週製薬業界に-activity-7350453263286099968-OC6u",
-    "https://jp.linkedin.com/learning/excel-pivot-tables-365-2019/796397"
+    "https://jp.linkedin.com/learning/excel-pivot-tables-365-2019/796397",
+    "https://jp.linkedin.com/learning/solidworks-2021-essential-training-assemblies-and-sketches/3030119"
    ],
    "engines": [
     "ddgs:google",
@@ -1340,21 +1353,19 @@
    "results": [
     "https://www.facebook.com/groups/wellbeinginfo/permalink/2133736534103700/",
     "https://www.facebook.com/groups/wellbeinginfo/posts/2133736534103700/",
-    "https://www.facebook.com/k.masuoka.jp/posts/3787744501381459/",
-    "https://www.facebook.com/marketplace/item/27342055932160543/",
+    "https://www.facebook.com/hioki.co.jp/videos/複数の計測器を簡単コントロール計測器統合制御をexcelで実現するアドインsequence-maker-詳しくはこちらhttpssequencemakerhio/4405721939548569/",
+    "https://www.facebook.com/groups/sannsai.kinoko/permalink/4476188399297269/",
     "https://www.facebook.com/reel/1668086924381957/",
-    "https://www.facebook.com/photo/?fbid=1208257554853154",
-    "https://www.facebook.com/takeshi.hioki.10/posts/この度東洋経済オンラインに拙稿無能を採るなの叱責はもう通用しない-超優秀な新人が1カ月で辞めて人事部が密かにガッツポーズした訳が掲載されました新人の早期離職では/10239112739770547/",
-    "https://www.facebook.com/toyo489891/posts/血液を採ると必ずの数字が高いとか低いとか言われる昔は正常値と言っていたが最近は基準値という言い方をしている枠に入らないといかにも正常ではない印象を与えるからだし/1410976705628218/",
-    "https://www.facebook.com/sadahaku/posts/町見郷土館の収蔵資料から⑤まぶしむかし絹糸を採るお蚕かいこを飼っていた頃幼虫がさなぎになる時に繭まゆを作る場所にする蔟まぶしという藁をジグザグに折ったものを作る/217394303987244/",
-    "https://www.facebook.com/reastyle2012/videos/棚ぼた報告ですなんとなく理屈はわかっていたんですが-肥大の為にしていた食事いつもと方法を変えて最後に炭水化物を採る方法三角食いしてるときより少なくなったなぁと実/2430606117195430/"
+    "https://www.facebook.com/Microsoft365Japan/videos/excel-40-年の常識を変えるアップデート1-セル-1-つの値-の制約がなくなり1-つのセル内から複数の情報を識別これによりセル内で配列やネストも可能にex/1105755518992422/",
+    "https://www.facebook.com/mashmatrix/videos/列のコピペで複数の値をかんたんフィルタリング/400214403872759/",
+    "https://www.facebook.com/KouzaiNouen/posts/野菜を収穫するという意味のとるいつもどの漢字を使えばいいのか悩みます取る採る獲る穫る誰かおせーてー/1044429285650201/",
+    "https://www.facebook.com/JMPjpn/videos/グラフビルダーでダイアログボックス形式でのグラフ作成/3056004481357288/"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 9
   },
   {
    "query": "1つの資料に結果が複数あるときに採る値を選ぶ規則と、質でなく偏りの危険で確度を付ける考え方（PRISMA 2020 の解説・系統的レビュー・ファクトチェックの手引きの書き手） note 社長",
@@ -1362,11 +1373,11 @@
     "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
     "https://kinousei.sunsho.co.jp/column/6/21/",
     "https://jaohfa.com/wp/wp-content/uploads/news/PRISMA2020%E3%81%AE%E7%95%99%E6%84%8F%E7%82%B9%E7%AC%AC1%E7%89%88%E4%B8%80%E5%BC%8F250317.pdf",
-    "https://www.gatsbi.com/ja/resources/prisma-guidelines",
     "https://www.caa.go.jp/policies/policy/food_labeling/foods_with_health_claims/info_session/assets/food_labeling_cms206_241226_05.pdf",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8056687/",
     "https://www.prisma-statement.org/",
     "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "https://www.gatsbi.com/ja/resources/prisma-guidelines",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8008539/",
     "https://www.youtube.com/watch?v=jfrYiUS4nTk"
    ],
    "engines": [
@@ -1380,11 +1391,11 @@
     "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
     "https://kinousei.sunsho.co.jp/column/6/21/",
     "https://jaohfa.com/wp/wp-content/uploads/news/PRISMA2020%E3%81%AE%E7%95%99%E6%84%8F%E7%82%B9%E7%AC%AC1%E7%89%88%E4%B8%80%E5%BC%8F250317.pdf",
-    "https://www.gatsbi.com/ja/resources/prisma-guidelines",
     "https://www.caa.go.jp/policies/policy/food_labeling/foods_with_health_claims/info_session/assets/food_labeling_cms206_241226_05.pdf",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8056687/",
     "https://www.prisma-statement.org/",
     "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "https://www.gatsbi.com/ja/resources/prisma-guidelines",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8008539/",
     "https://www.youtube.com/watch?v=jfrYiUS4nTk",
     "https://best-biostatistics.com/review/publication-stat-write.html"
    ],
@@ -1397,13 +1408,13 @@
   {
    "query": "selection of results multiple results per study risk of bias vs quality PRISMA 2020 explanation site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/emmanueltsekleves_systematicreview-prisma-research-activity-7382755520362733568-w6tr",
+    "https://www.linkedin.com/posts/peter-munene-9ab033b8_systematicreview-phd-masters-activity-7484245329698099200-ZFux",
     "https://www.linkedin.com/posts/david-innocent-5427a3199_systematicreview-criticalappraisal-riskofbias-activity-7493226954008154112-ZSMP",
-    "https://www.linkedin.com/posts/dr-iana-yana-malasevskaia-75a814246_systematicreview-metaanalysis-publicationbias-activity-7368599490594766850-KG9_",
+    "https://www.linkedin.com/posts/emmanueltsekleves_systematicreview-prisma-research-activity-7382755520362733568-w6tr",
     "https://www.linkedin.com/posts/a-prof-karen-lamb-8292a740_clinicians-and-health-researchers-are-often-activity-7510247854091808768-J8ct",
-    "https://www.linkedin.com/posts/peter-munene-9ab033b8_%F0%9D%9F%AD%F0%9D%9F%AC-%F0%9D%97%A7%F0%9D%98%86%F0%9D%97%BD%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%BC%F0%9D%97%B3-%F0%9D%97%9F%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%AE%F0%9D%98%81%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%B2-activity-7518942543242477568-mY1n",
+    "https://www.linkedin.com/posts/dr-iana-yana-malasevskaia-75a814246_systematicreview-metaanalysis-publicationbias-activity-7368599490594766850-KG9_",
     "https://www.linkedin.com/posts/david-innocent-5427a3199_one-of-the-biggest-mistakes-researchers-make-activity-7488143090390679552-8m3n",
-    "https://www.linkedin.com/posts/david-innocent-5427a3199_systematicreview-riskofbias-evidencesynthesis-activity-7519318727973167104-Q7sg",
+    "https://www.linkedin.com/posts/peter-munene-9ab033b8_%F0%9D%9F%AD%F0%9D%9F%AC-%F0%9D%97%A7%F0%9D%98%86%F0%9D%97%BD%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%BC%F0%9D%97%B3-%F0%9D%97%9F%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%AE%F0%9D%98%81%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%B2-activity-7518942543242477568-mY1n",
     "https://www.linkedin.com/posts/david-innocent-5427a3199_systematicreview-researchmethods-evidencesynthesis-activity-7503362976398344192-siN4",
     "https://www.linkedin.com/pulse/how-conduct-meta-analysis-8-practical-steps-dr-naureen-aleem-s3jxf",
     "https://www.linkedin.com/posts/dr-monika-saigal-107186207_simplifiedresearchseries-kruskalwallistest-activity-7515454078257180672-37yT"
@@ -1417,6 +1428,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-08T04:01:59.656820+00:00"
 }

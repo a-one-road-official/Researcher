@@ -1,4 +1,4 @@
-# AM営業リスト am_users（取扱製品ベース選定）（事実のみ・213社）
+# AM営業リスト am_users（取扱製品ベース選定）（事実のみ・281社）
 
 ## CREST PRECISION株式会社
 - 公式URL：https://www.crest-grp.com（given）
@@ -541,6 +541,58 @@ ONIプレシジョン事業(調達代行サービス) 加工工場面積：約10
 - 取扱製品：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部9頁・検索9回）
 - 取扱材料：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部9頁・検索9回）
 
+## アートスキル
+- 公式URL：http://artskill.org（given）
+- 所在地：〒144-0052 東京都																																		大田区蒲田3-24-3（https://www.innovations-i.com/is/2889.html・3回目）
+- 取扱製品：
+  - 「アートスキルの製品・サービス一覧｜イプロスものづくり」（https://mono.ipros.com/company/detail/2027534/category/・3回目）
+  - 「製品・サービス(2)」（https://mono.ipros.com/company/detail/2027534/category/・3回目）
+  - 「加工冶具などを工夫し最適な切削条件での製品を作っております」（https://mono.ipros.com/company/detail/2027534/category/・3回目）
+  - 「光学機器メーカーの厳しい加工精度をクリアーしており、一般公差より厳しい公差の製品が、ほとんどの製品に求められております」（https://mono.ipros.com/company/detail/2027534/category/・3回目）
+  - 「技術・製品 - アートスキル 東京都 大田区」（https://ja.nc-net.or.jp/company/78977/product/・3回目）
+  - 「技術・製品情報(2)」（https://ja.nc-net.or.jp/company/78977/product/・3回目）
+  - 「、製品・技術・サービス」（https://www.atengineer.com/pr/artskill/company・3回目）
+- 取扱材料：
+  - 「材質・寸法の変更ですか？レスポンス良くCADデータや図面を変更し対応しています」（https://artskill-tokyo.jimdofree.com/・3回目）
+  - 「お客様のご要望（機能性、使用材質、使用環境、サイズ,作業性）などをヒヤリングをし、仕様を決めて作業を進めます」（https://artskill-tokyo.jimdofree.com/・3回目）
+  - 「樹脂専用ＨＰ http://artskill.jimdo.com/」（https://www.innovations-i.com/is/2889.html・3回目）
+- 一点物・少量多品種：
+  - 「top - 治具設計製作 試作品加工 東京都」（https://artskill-tokyo.jimdofree.com/・3回目）
+  - 「治具設計製作 JIG Design and manufacture 試作加工 Prototype shop」（https://artskill-tokyo.jimdofree.com/・3回目）
+  - 「mashine tool 試作品加工・微細加工・一般部品加工」（https://artskill-tokyo.jimdofree.com/・3回目）
+  - 「主にに自動車の電装部品、光学機器部品、航空機部品、医療機器部品、レーシングカーのパーツなど各種の高度な専門的技術要件に対応し、マシニングセンター（MC）によるアルミ、ステンレスの微細加工による試作品及び部品加工を1個から、中量産品(100個単位）までの対応にお応えいたします」（https://artskill-tokyo.jimdofree.com/・3回目）
+  - 「特に試作モデルの内部メカの組み込み検討や技術的な確認に使用されるワーキングモデルを主に製作いたしております」（https://artskill-tokyo.jimdofree.com/・3回目）
+  - 「アートスキルは三次元CAD/CAMを使った多品種・小ロット生産に対応しています」（https://artskill-tokyo.jimdofree.com/・3回目）
+  - 「医療関係の研究開発機関等での技術的な確認の為に使われる試作品、研究品を加工いたします」（https://artskill-tokyo.jimdofree.com/・3回目）
+- 製品分野：
+  - 「アートスキルで加工している航空部品は、薄い肉厚で形状加工をしております」（https://mono.ipros.com/company/detail/2027534/category/・3回目）
+  - 「top - 治具設計製作 試作品加工 東京都」（https://artskill-tokyo.jimdofree.com/・3回目）
+  - 「治具設計製作 JIG Design and manufacture 試作加工 Prototype shop」（https://artskill-tokyo.jimdofree.com/・3回目）
+  - 「主にに自動車の電装部品、光学機器部品、航空機部品、医療機器部品、レーシングカーのパーツなど各種の高度な専門的技術要件に対応し、マシニングセンター（MC）によるアルミ、ステンレスの微細加工による試作品及び部品加工を1個から、中量産品(100個単位）までの対応にお応えいたします」（https://artskill-tokyo.jimdofree.com/・3回目）
+  - 「医療関係の研究開発機関等での技術的な確認の為に使われる試作品、研究品を加工いたします」（https://artskill-tokyo.jimdofree.com/・3回目）
+  - 「平均肉厚の薄いアルミの部品加工及び、二次元加工から三次元形状加工をマシニングセンターにて切削加工しています★自動車・工学・航空機・レーシングカーの部品を製作しています」（https://www.atengineer.com/pr/artskill/company・3回目）
+  - 「・光学機器、医療用機器などの精密部品」（https://www.innovations-i.com/is/2889.html・3回目）
+- AM関連：
+  - 「アートスキルは三次元CAD/CAMを使った多品種・小ロット生産に対応しています」（https://artskill-tokyo.jimdofree.com/・3回目）
+- 連絡先：
+  - 「どの様なモノづくり会社をお探しですか 当社では主に切削加工をしていますが旋削・板金加工にも対応しています お問い合わせにはレスポンス良く対応致しております」（https://artskill-tokyo.jimdofree.com/・3回目）
+  - 「電話連絡につきましてはお問い合わせフォームに電話番号を記入して頂けましたら当社からご連絡を致します」（https://artskill-tokyo.jimdofree.com/・3回目）
+- 検索結果の抜粋：
+  - 「アートスキルの製品・サービス一覧｜イプロスものづくり — Nov 3, 2020 · アートスキル の製品・サービス一覧です。 当社の構想設計技術は様々な生産技術の分野で治工具などを提案をし解決しています。 機械加工では平面加工から三次元形状加工に対応 お客様の現場で使われます治工具などの設計製作を手掛けています。」（https://mono.ipros.com/company/detail/2027534/category/・3回目）
+  - 「技術・製品 - アートスキル 東京都 大田区 — 依頼している製品について変更などが生じた場合、レスポンス良くご依頼者様の意見を製品に反映出来ない時はございませんか。 当社では敏速に対応しています。 内容にも依りますが通常1日でCADデータに反映しています。 又、」（https://ja.nc-net.or.jp/company/78977/product/・3回目）
+  - 「top - 治具設計製作 試作品加工 東京都 — 特に試作モデルの内部メカの組み込み検討や技術的な確認に使用されるワーキングモデルを主に製作いたしております。 アートスキルは三次元CAD/CAMを使った多品種・小ロット生産に対応しています。」（https://artskill-tokyo.jimdofree.com/・3回目）
+  - 「3D CAD/CAM (CAM-TOOL) WORK - 治具設計製作 試作品加工 東京都 — 特に試作モデルの内部メカの組み込み検討や技術的な確認に使用されるワーキングモデルを主に製作いたしております。 アートスキルは三次元CAD/CAMを使った多品種・小ロット生産に対応しています。」（https://artskill-tokyo.jimdofree.com/cad-cam/・3回目）
+  - 「アートスキル - 会社概要 — アートスキルの事業概要 平均肉厚の薄いアルミの部品加工及び、二次元加工から三次元形状加工をマシニングセンターにて切削加工しています★自動車・工学・航空機・レーシングカーの部品を製作しています。」（https://www.atengineer.com/pr/artskill/company・3回目）
+  - 「会社概要｜アーティス株式会社 - artis.co.jpARTVIVANT | アールビバン金属・樹脂 切削加工 ものづくり 1個から承ります。お気軽にお問合せ...アートスキル（東京都・製造業）の会社概要 | イノベーションズアイ事業紹介 | 会社情報 | artienceアートスキル | 企業情報 | イプロスものづくり — 会社概要 アーティスグループの経営理念 迅速に闊達に動き、創造力と叡智に満ちた企業文化を維持すること。 経済社会の課題について、的確なソリューションを提供すること。 社会的存在としての企業の責任をしっかり果たし続けること。 Oct 22, 2026 · TEL : 03-5783-7171 ホーム トピックス 企業情報 会社概要 トップメッセージ グループビジョン 沿革 事業内容 アート事業 ヨガ事業 ファイナンス事業 IR情報 採用情報 お問い合わせ 個人情報保」（https://www.artis.co.jp/hp/company.html・3回目）
+  - 「アートスキル（東京都・製造業）の会社概要 | イノベーションズアイ — 東京都の製造業、アートスキルの会社概要。 各種産業用試作部品 各種産業用評価試験治具 光学機器、医療用機器などの精密部品 放熱盤の削り出し加工 3Dキャドﾃﾞｰﾀからの三次元形状切削加工…。 所在地・公式サイト、商品・サービス1件を掲載。」（https://www.innovations-i.com/is/2889.html・3回目）
+  - 「アートスキル | 企業情報 | イプロスものづくり — Nov 3, 2020 · アートスキルの会社概要 当社の構想設計技術は様々な生産技術の分野で治工具などを提案をし解決しています。 機械加工では平面加工から三次元形状加工に対応 お客様の現場で使われます治工具などの設計製作を手掛けています。」（https://mono.ipros.com/company/detail/2027534/・3回目）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索9回）
+
 ## エスアンドエス株式会社 本社工場
 - 公式URL：http://sands-g.com（given）
 - 所在地：（本社工場）〒379-2306　群馬県太田市大久保町399-1　　　（新田工場）〒370-0314　群馬県太田市新田市野井町1665-4（http://sands-g.com/company・1回目）
@@ -584,6 +636,72 @@ ONIプレシジョン事業(調達代行サービス) 加工工場面積：約10
 - 取引先：記載なし（3回確認済み：公式17頁／PDF・画像0件／外部8頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式17頁／PDF・画像0件／外部8頁・検索9回）
 - 連絡先：記載なし（3回確認済み：公式17頁／PDF・画像0件／外部8頁・検索9回）
+
+## エブレン株式会社 八王子事業所
+- 公式URL：http://www.ebrain.co.jp（given）
+- 所在地：本社・八王子事業所 〒192-0032　東京都八王子市石川町2970-6 Tel 042-646-7171（本社） Tel 042-646-2225（八王子事業所） Fax 042-644-8831 入間事業所 〒358-0045　埼玉県入間市寺竹46-25 Tel 04-2936-2301　Fax 04-2936-2304 大阪事業所 〒533-0004　大阪府大阪市東淀川区小松3-20-27 Tel 06-6990-6611　Fax 06-6990-6622 上野事業所 〒116-0014　東京都荒川区東日暮里5-51-11　静屋ビル8階 Tel 03-6458-3661　Fax 03-6806-6228 R&Dセンター 〒532-0033　大阪府大阪市淀川区新高5-8-20　I.S.X内 Tel 06-4807-6632　Fax 06-4807-6669（https://ebrain.co.jp/company/outline/・1回目）
+- 所在地：江蘇省蘇州市蘇州新区霊岩街16号11＃工業大廈 2F Tel +86-512-6808-7270 Fax +86-512-6808-7271（https://ebrain.co.jp/company/outline/・1回目）
+- 従業員数：117名（2026年3月期）（https://ebrain.co.jp/company/outline/・1回目）
+- 従業員数：19名(2025年12月期）（https://ebrain.co.jp/company/outline/・1回目）
+- 売上高：3,909百万円（2026年3月期） 3,880百万円（2025年3月期） 3,898百万円（2024年3月期）（https://ebrain.co.jp/company/outline/・1回目）
+- 取扱製品：
+  - 「産業用ボードコンピュータの製品開発で培った技術力、開発力を駆使し、様々なニーズに応じたハード/ソフト開発、筐体及び放熱設計、品質を高めるための検証業務まで、システム開発のライフサイクルに合わせた最適なサービスを提供します」（https://ebrain.co.jp/・1回目）
+  - 「エブレンへの各種（製品・お見積り依頼・ＩＲ・求人・その他）お問い合わせはこちらから」（https://ebrain.co.jp/・1回目）
+  - 「エブレンはこれらインフラシステムに使用される組込型コンピュータ（産業用コンピュータ）及びその周辺製品を、大手システムメーカー（産業用電子機器メーカーや機械装置メーカー等）に販売しております」（https://ebrain.co.jp/company/about_ebrain/・1回目）
+  - 「バックプレーンには各種の規格が制定されており、エブレンではそれらの規格に準拠した標準製品も販売しておりますが、お客様である電子機器メーカーや機械装置メーカーの製造する最終製品は多岐にわたり、その要求仕様も異なるため、お客様の独自の仕様に合わせて設計したカスタム製品の販売が中心となっております」（https://ebrain.co.jp/company/about_ebrain/・1回目）
+  - 「エブレンの長年の実績をもとに、設計回路のパターン・個々の電子部品特性等は過去の類似案件を応用し、多種少量のカスタム製品でも設計期間の短縮化、コストの低減など量産効果を発揮します」（https://ebrain.co.jp/company/about_ebrain/・1回目）
+  - 「・RoHS 対応製品の供給(鉛フリー化推進)」（https://ebrain.co.jp/company/about_ebrain/・1回目）
+  - 「・組織の活動・製品およびサービスによって生じる環境への影響を持続的に改善するためのシステムを構築し、そのシステムを継続的に改善していくPDCAサイクルを構築することが要求されている」（https://ebrain.co.jp/company/about_ebrain/・1回目）
+  - 「製品情報 PCIExpress拡張ユニット」（https://ebrain.co.jp/category/new-product-information/・1回目）
+  - 「新製品情報 Zynq Controller（19inchラックマウント）」（https://ebrain.co.jp/category/new-product-information/・1回目）
+  - 「新製品情報 Advanced TCAシャーシ」（https://ebrain.co.jp/category/new-product-information/・1回目）
+  - 「新製品情報 SHB Express Chassis」（https://ebrain.co.jp/category/new-product-information/・1回目）
+  - 「新製品情報 MicroATX Chassis」（https://ebrain.co.jp/category/new-product-information/・1回目）
+- 取扱材料：
+  - 「材質…… EL230（低誘電率材）」（https://ebrain.co.jp/product/cpci_products/compact-pci-serial/650-cpcis09/・1回目）
+  - 「基板材質……FR-4（4.8t）16層」（https://ebrain.co.jp/product/cpci_products/compact-pci-express/650-cpcie04/・1回目）
+- 一点物・少量多品種：
+  - 「開発・試作・設計・量産に関連する全てのニーズにお応えします」（https://ebrain.co.jp/・1回目）
+  - 「エブレンは多種少量・変種変量を常とする産業用電子機器の製造品質と要求納期をいかにして確保し、どのような手段で生産性を上げ、どれだけローコストで提供できるかを、終わりのないテーマとして取り組んでいます」（https://ebrain.co.jp/company/about_ebrain/・1回目）
+  - 「開発、試作、量産を問わず、どの段階からでも請け負います」（https://ebrain.co.jp/company/about_ebrain/・1回目）
+  - 「この二十五年余りの経験を踏まえ、皆様の特注仕様に基づいてカスタム設計し、製造し、品質を保証して納入することができます」（https://ebrain.co.jp/company/about_ebrain/・1回目）
+  - 「エブレンの長年の実績をもとに、設計回路のパターン・個々の電子部品特性等は過去の類似案件を応用し、多種少量のカスタム製品でも設計期間の短縮化、コストの低減など量産効果を発揮します」（https://ebrain.co.jp/company/about_ebrain/・1回目）
+  - 「お客様の仕様、サイズに基づく特注品も承ります」（https://ebrain.co.jp/product/system-solution/edgecomputing/com-express-careerboard_pa/com-express-careerboard/・1回目）
+  - 「お客様の仕様、サイズに基づく特注品も承ります」（https://ebrain.co.jp/product/system-solution/edgecomputing/com-express-careerboard_pa/350-pcecc07-come/・1回目）
+  - 「お客様の仕様、サイズに基づく特注品も承ります」（https://ebrain.co.jp/product/system-solution/edgecomputing/com-express-careerboard_pa/753-pcecc07/・1回目）
+  - 「お客様の仕様、サイズに基づく特注品も承ります」（https://ebrain.co.jp/product/system-solution/edgecomputing/com-express-careerboard_pa/i-mx-6ultralite-iot-cpu-board/・1回目）
+  - 「お客様の仕様、サイズに基づく特注品も承ります」（https://ebrain.co.jp/product/system-solution/edgecomputing/som/zynq-dimm/・1回目）
+  - 「お客様の仕様、サイズに基づく特注品も承ります」（https://ebrain.co.jp/product/system-solution/edgecomputing/som/zynq-dimm-bk/・1回目）
+  - 「お客様の仕様、サイズに基づく特注品も承ります」（https://ebrain.co.jp/product/system-solution/edgecomputing/som/zynq-ultrascale-mpsoc-som/・1回目）
+- 製品分野：
+  - 「エブレンでは、通信・放送／電子応用／計測・制御／交通関係／防衛・その他」（https://ebrain.co.jp/・1回目）
+  - 「医療機器（CTスキャナー、MRI、超音波診断装置等、血液分析装置等）、」（https://ebrain.co.jp/・1回目）
+  - 「半導体製造装置、半導体・IC測定器（ロジックICテスタ、メモリICテスタ、」（https://ebrain.co.jp/・1回目）
+  - 「ボードテスタ）、FA機器、ロボット等」（https://ebrain.co.jp/・1回目）
+  - 「航空機搭載装置、航空管制装置等」（https://ebrain.co.jp/・1回目）
+  - 「軍用車両・船舶・航空機等搭載装置、監視カメラシステム、組立機械・装置等」（https://ebrain.co.jp/・1回目）
+  - 「コンパクトPCIエクステンダー治具 210-CPCE160W」（https://ebrain.co.jp/company/about_ebrain/・1回目）
+  - 「エブレンは情報、通信、計測、制御、映像、交通、FA、メディカル、防衛など、広範な分野に渡って設計・製造の実績を重ね、それぞれの分野特有のカスタムニーズに対応してきました」（https://ebrain.co.jp/company/about_ebrain/・1回目）
+  - 「社会インフラの具体例としては、電気・ガス・水道などのライフラインを始め、交通・医療・通信・放送・セキュリティーから防衛に至る広範囲に及び、産業インフラとしては、情報・金融・物流・生産などに関わる各種システムや装置があります」（https://ebrain.co.jp/company/about_ebrain/・1回目）
+  - 「エブレンでは、通信・放送／電子応用／計測・制御／交通関係／防衛・その他の５つの分野で活躍しております」（https://ebrain.co.jp/company/about_ebrain/・1回目）
+  - 「医療機器（CTスキャナー、MRI、超音波診断装置等、血液分析装置等）、」（https://ebrain.co.jp/company/about_ebrain/・1回目）
+  - 「半導体製造装置、半導体・IC測定器（ロジックICテスタ、メモリICテスタ、」（https://ebrain.co.jp/company/about_ebrain/・1回目）
+- AM関連：
+  - 「Up Stream側:PCIe ×1 Lane、Gen.1（2.5Gbps）対応」（https://ebrain.co.jp/product/system-solution/edgecomputing/com-express-careerboard_pa/350-pcecc07-come/・1回目）
+  - 「Down Stream側: PCI 32bit 33MHz VIO=3.3V/5V」（https://ebrain.co.jp/product/system-solution/edgecomputing/com-express-careerboard_pa/350-pcecc07-come/・1回目）
+  - 「本モジュールは、Xilinx社製Zynq-7000 All Programmable SoCシリーズを搭載し、メインメモリ、フラッシュメモリ、RTC等を統合した、SO-DIMM形状の小型汎用モジュールです」（https://ebrain.co.jp/product/system-solution/edgecomputing/som/zynq-dimm/・1回目）
+  - 「DDR3-SDRAM」（https://ebrain.co.jp/product/system-solution/edgecomputing/som/zynq-dimm/・1回目）
+  - 「DDR3-SDRAM/」（https://ebrain.co.jp/product/system-solution/edgecomputing/som/zynq-dimm/・1回目）
+  - 「DDR4 SDRAM」（https://ebrain.co.jp/product/system-solution/edgecomputing/som/zynq-ultrascale-mpsoc-som/・1回目）
+  - 「AMD Zynq-7000」（https://ebrain.co.jp/product/system-solution/edgecomputing/smarc_series/・1回目）
+  - 「Compute Module 3+ RAM : 1GB LPDDR2」（https://ebrain.co.jp/wp-content/uploads/2020/07/RaspberryPiEdge.pdf・2回目）
+- 連絡先：
+  - 「エブレンへの各種（製品・お見積り依頼・ＩＲ・求人・その他）お問い合わせはこちらから」（https://ebrain.co.jp/・1回目）
+  - 「Email ebrain@ebrain.co.jp」（https://ebrain.co.jp/・1回目）
+- 事業内容：記載なし（3回確認済み：公式28頁／PDF・画像11件／外部9頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式28頁／PDF・画像11件／外部9頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式28頁／PDF・画像11件／外部9頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式28頁／PDF・画像11件／外部9頁・検索9回）
 
 ## キョーユー株式会社
 - 公式URL：http://www.kyoyu.jp（given）
@@ -1687,6 +1805,132 @@ Panasonic | Cannon | RYOBI | 協和発酵 | 安川情報システム | 安川コ
 - 取引先：記載なし（3回確認済み：公式24頁／PDF・画像20件／外部17頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式24頁／PDF・画像20件／外部17頁・検索9回）
 
+## フューテックス株式会社
+- 公式URL：https://www.futex.jp（given）
+- 所在地：東京都東京都昭島市福島町2-28-3（https://en-gage.net/futex_saiyo/・3回目）
+- 事業内容：・電子ビーム用各種電源のソリューション開発 ・各種特注電源、高圧電源、X線用電源の開発販売 ・理科学機器、医療器のEMS事業 ・半導体装置、産業用装置のEMS事業 ・防衛産業向け各種特注電源の開発（https://www.futex.jp/about・1回目）
+- 事業内容：・電子ビーム用各種電源のソリューション開発 ・各種特注電源、高圧電源、X線用電源の開発販売 ・理科学機器、医療器のEMS事業 ・半導体装置、産業用装置のEMS事業 ・防衛産業向け各種特注電源の開発（http://www.futex.jp/about・1回目）
+- 事業内容：・ 防衛関連の特殊電源システム、特殊インバータ（詳細は非公開） ・ 電子ビームアプリケーション用各種電源のソリューション開発 ・ 各種特注電源、高圧電源、X線用電源の開発販売 ・ 理科学機器、医療器のEMS事業（受託開発設計・製造） ・ 半導体装置、産業用装置のEMS事業（https://en-gage.net/futex_saiyo/・3回目）
+- 取扱製品：
+  - 「東京都新製品・新技術開発助成金に採択されました」（https://www.futex.jp/・1回目）
+  - 「オージェ電子分光装置(CMA)用に開発した製品です」（https://www.futex.jp/product・1回目）
+  - 「そして2006年より、自社製品として電子銃、およびイオン銃専用の高性能高圧電源の開発販売を開始いたしました」（https://www.futex.jp/about・1回目）
+  - 「オージェ電子分光装置(CMA)用に開発した製品です」（http://www.futex.jp/product/fag502%E3%80%80%E3%82%AA%E3%83%BC%E3%82%B8%E3%82%A7%E9%9B%BB%E5%AD%90%E5%88%86%E5%85%89%E8%A3%85%E7%BD%AEcma%E7%94%A8-5kv%E9%9B%BB%E5%AD%90%E9%8A%83%E9%9B%BB%E6%BA%90-2・1回目）
+  - 「東京都新製品・新技術開発助成金に採択されました」（https://www.futex.jp/news・1回目）
+  - 「H:130mm W:130mm L:286.8mm@30kV製品 (*予告なく変更する場合があります)」（https://www.futex.jp/product/%E9%AB%98%E8%80%90%E5%9C%A7%E3%83%95%E3%83%AD%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%BE%AE%E5%B0%91%E9%9B%BB%E6%B5%81%E8%A8%88-hvpa303-hv-floating-pico-ammeter・1回目）
+  - 「そして2006年より、自社製品として電子銃、およびイオン銃専用の高性能高圧電源の開発販売を開始いたしました」（http://www.futex.jp/about・1回目）
+  - 「オージェ電子分光装置(CMA)用に開発した製品です」（http://www.futex.jp/product・1回目）
+  - 「製品・サービス(22)」（https://mono.ipros.com/company/detail/348031/・3回目）
+  - 「防衛産業製品、半導体装置、理科学機器用に電源システムをソリューションで提供いたします」（https://mono.ipros.com/company/detail/348031/・3回目）
+  - 「製品・サービス (22)」（https://mono.ipros.com/company/detail/348031/・3回目）
+  - 「※顧客装置の要素技術に関わる製品が多く、ほとんどの顧客との間で機密保持契約を締結しております」（https://mono.ipros.com/company/detail/348031/・3回目）
+- 一点物・少量多品種：
+  - 「200kVまでの高電圧ブッシング・システムを特注製作いたします」（https://www.futex.jp/product・1回目）
+  - 「・各種特注電源、高圧電源、X線用電源の開発販売」（https://www.futex.jp/about・1回目）
+  - 「経済産業省 ものづくり中小企業試作開発支援補助金事業」（https://www.futex.jp/about・1回目）
+  - 「経済産業省 ものづくり中小企業試作開発等支援補助金事業」（https://www.futex.jp/about・1回目）
+  - 「・各種特注電源、高圧電源、X線用電源の開発販売」（http://www.futex.jp/about・1回目）
+  - 「経済産業省 ものづくり中小企業試作開発支援補助金事業」（http://www.futex.jp/about・1回目）
+  - 「経済産業省 ものづくり中小企業試作開発等支援補助金事業」（http://www.futex.jp/about・1回目）
+  - 「200kVまでの高電圧ブッシング・システムを特注製作いたします」（http://www.futex.jp/product・1回目）
+  - 「電子銃用高圧電源、各種特注電源は、フューテックスにお任せ下さい！」（https://mono.ipros.com/company/detail/348031/・3回目）
+  - 「その他、高圧電源を利用した装置のＯＥＭ製作や、高性能高圧バイポーラAMP、高速パルス電源などの特注品も承ります」（https://mono.ipros.com/company/detail/348031/・3回目）
+  - 「・当社は電子・イオンビーム用電源、及び特注電源の専門メーカーです」（https://mono.ipros.com/company/detail/348031/・3回目）
+  - 「電子銃電源、イオン銃電源、FIB用電源、マイクロフォーカスＸ線用電源、その他特注電源各種に対応可能です」（https://mono.ipros.com/company/detail/348031/・3回目）
+- 製品分野：
+  - 「・理科学機器、医療器のEMS事業」（https://www.futex.jp/about・1回目）
+  - 「・半導体装置、産業用装置のEMS事業」（https://www.futex.jp/about・1回目）
+  - 「・理科学機器、医療器のEMS事業」（http://www.futex.jp/about・1回目）
+  - 「・半導体装置、産業用装置のEMS事業」（http://www.futex.jp/about・1回目）
+  - 「防衛産業製品、半導体装置、理科学機器用に電源システムをソリューションで提供いたします」（https://mono.ipros.com/company/detail/348031/・3回目）
+  - 「・理科学機器、半導体装置のEMS事業（受託開発設計および製造）」（https://mono.ipros.com/company/detail/348031/・3回目）
+  - 「フューテックスは、防衛関連・半導体装置・理科学機器用に」（https://en-gage.net/futex_saiyo/・3回目）
+  - 「正社員・アナログ回路設計 防衛製品で国家に貢献します」（https://en-gage.net/futex_saiyo/・3回目）
+  - 「当社の製品のターゲット市場は主に、"防衛関連市場"，“半導体装置市場”，"理科学機器市場"です」（https://en-gage.net/futex_saiyo/・3回目）
+  - 「特に2021に参入した防衛関連市場おいては既に海上自衛隊や航空自衛隊向けに複数件の成功実績をつくり、お客様から高い評価を頂いております」（https://en-gage.net/futex_saiyo/・3回目）
+  - 「半導体装置市場向けの製品としては、半導体ウェハやマスクの欠陥を検査する装置や電子ビーム描画装置などで多くの実績を有しております」（https://en-gage.net/futex_saiyo/・3回目）
+  - 「・ 防衛関連の特殊電源システム、特殊インバータ（詳細は非公開）」（https://en-gage.net/futex_saiyo/・3回目）
+- AM関連：
+  - 「±HV-AMP-6ch+source PS」（https://www.futex.jp/product・1回目）
+  - 「±HV-AMPの基本モジュール6チャンネルとDCソース電源を専用ラックに装填した例です」（https://www.futex.jp/product・1回目）
+  - 「±HV-AMP-8ch+source PS」（https://www.futex.jp/product・1回目）
+  - 「±HV-AMPの基本モジュール8チャンネルを専用ラックに装填し、DCソース電源を別置きにした例です」（https://www.futex.jp/product・1回目）
+  - 「高耐圧フローティング微少電流計 HVPA303 HV Floating Pico-ammeter」（https://www.futex.jp/product・1回目）
+  - 「東京都異業種交流グループ（TAMA24）」（https://www.futex.jp/about・1回目）
+  - 「高耐圧フローティング微少電流計 HVPA303 HV Floating Pico-ammeter - フューテックス株式会社」（https://www.futex.jp/product/%E9%AB%98%E8%80%90%E5%9C%A7%E3%83%95%E3%83%AD%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%BE%AE%E5%B0%91%E9%9B%BB%E6%B5%81%E8%A8%88-hvpa303-hv-floating-pico-ammeter・1回目）
+  - 「高耐圧フローティング微少電流計 HVPA303 HV Floating Pico-ammeter」（https://www.futex.jp/product/%E9%AB%98%E8%80%90%E5%9C%A7%E3%83%95%E3%83%AD%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%BE%AE%E5%B0%91%E9%9B%BB%E6%B5%81%E8%A8%88-hvpa303-hv-floating-pico-ammeter・1回目）
+  - 「東京都異業種交流グループ（TAMA24）」（http://www.futex.jp/about・1回目）
+  - 「±HV-AMP-6ch+source PS」（http://www.futex.jp/product・1回目）
+  - 「±HV-AMPの基本モジュール6チャンネルとDCソース電源を専用ラックに装填した例です」（http://www.futex.jp/product・1回目）
+  - 「±HV-AMP-8ch+source PS」（http://www.futex.jp/product・1回目）
+- 連絡先：
+  - 「復旧までの間、お問い合わせ等は」（https://www.futex.jp/news・1回目）
+  - 「※ホームページからのお問い合わせにつきましても、2025年1月6日（月）以降回答をさせて頂きます」（https://www.futex.jp/news・1回目）
+  - 「※ホームページからのお問い合わせにつきましても、2024年1月5日（金）以降回答をさせて頂きます」（https://www.futex.jp/news・1回目）
+  - 「お問い合わせ - フューテックス 株式会社 東京都 昭島市」（https://ja.nc-net.or.jp/company/80863/inquiry/input/・3回目）
+  - 「当社からの連絡に必要な電子メールアドレスを用意してそのアドレスを当社に対して登録すること」（https://ja.nc-net.or.jp/company/80863/inquiry/input/・3回目）
+  - 「当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします」（https://ja.nc-net.or.jp/company/80863/inquiry/input/・3回目）
+  - 「かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします」（https://ja.nc-net.or.jp/company/80863/inquiry/input/・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 | フューテックス 株式会社 — 会社概要 | フューテックス 株式会社 フューテックス株式会社 https://www.futex.jp > about」（https://www.futex.jp/about・3回目）
+  - 「フューテックス | 企業 情報 | イプロスものづくり — フューテックス | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 産業用電気機器」（https://mono.ipros.com/company/detail/348031/・3回目）
+  - 「フューテックス 株式 会社 の採用・求人 情報 -engage - エンゲージ — フューテックス 株式 会社 の採用・求人 情報 -engage - エンゲージ エンゲージ https://en-gage.net > futex_saiyo」（https://en-gage.net/futex_saiyo/・3回目）
+  - 「ファームウェア設計×昭島市×正社員 - フューテックス 株式 会社 ... — ファームウェア設計×昭島市×正社員 - フューテックス 株式 会社 ... futex-recruit.com https://futex-recruit.com > recruit」（https://futex-recruit.com/recruit/282.html・3回目）
+  - 「フューテックス 株式会社 - 会社概要 — フューテックス 株式会社 - 会社概要 atengineer.com https://www.atengineer.com > futex > company」（https://www.atengineer.com/pr/futex/company・3回目）
+  - 「お問い合わせ - フューテックス株式会社 — お問い合わせ - フューテックス株式会社 フューテックス株式会社 https://www.futex.jp > contact」（https://www.futex.jp/contact・3回目）
+  - 「お問い合わせ - フューテックス 株式会社 東京都 昭島市 — お問い合わせ - フューテックス 株式会社 東京都 昭島市 エミダス https://ja.nc-net.or.jp > company > inquiry」（https://ja.nc-net.or.jp/company/80863/inquiry/・3回目）
+  - 「フューテックス | 企業情報 | イプロスものづくり — フューテックス | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 産業用電気機器」（https://mono.ipros.com/company/detail/348031/・3回目）
+  - 「フューテックス 株式会社 - 東京カイシャハッケン伝 — フューテックス 株式会社 - 東京カイシャハッケン伝 東京カイシャハッケン伝 https://www.kaisyahakken.metro.tokyo.lg.jp > old > futex」（https://www.kaisyahakken.metro.tokyo.lg.jp/old/company/futex/・3回目）
+- 代表者：記載なし（3回確認済み：公式15頁／PDF・画像19件／外部8頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式15頁／PDF・画像19件／外部8頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式15頁／PDF・画像19件／外部8頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式15頁／PDF・画像19件／外部8頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式15頁／PDF・画像19件／外部8頁・検索9回）
+- 取扱材料：記載なし（3回確認済み：公式15頁／PDF・画像19件／外部8頁・検索9回）
+
+## フレックス工業株式会社
+- 公式URL：http://www.flex21.co.jp（given）
+- 取扱製品：
+  - 「このことは加工分野におきましてもコストの低減化、納期の短縮化、製品の品質アップなどあらゆる面での相乗作用となって好結果をもたらしています」（http://www.flex21.co.jp/details/service.html・1回目）
+  - 「又、販売部門においてはものづくりに欠く事のできない、機械要素、部品、製品等幅広く取り扱っております」（http://www.flex21.co.jp/details/company.html・1回目）
+  - 「尚、製品価格は全て1個より御見積り致します」（http://www.flex21.co.jp/details/company.html・1回目）
+  - 「同一製品でも当社のノウハウを生かした新たな製造方法や、材質、工程の見直し等により、納期、コスト面でのメリットを追及します」（http://www.flex21.co.jp/details/service_product.html・1回目）
+- 取扱材料：
+  - 「チタンボルト / アルミボルト / ジュラルミン加工等の航空機・海洋産業部品」（http://www.flex21.co.jp/details/service.html・1回目）
+  - 「同一製品でも当社のノウハウを生かした新たな製造方法や、材質、工程の見直し等により、納期、コスト面でのメリットを追及します」（http://www.flex21.co.jp/details/service_product.html・1回目）
+- 一点物・少量多品種：
+  - 「上記加工を主体とした装置 / 治具類の設計 / 制作及び試作」（http://www.flex21.co.jp/details/service.html・1回目）
+  - 「それぞれの分野に合わせた、特注品1台から、量産品までを当社及び協力工場が一丸となって対応しています」（http://www.flex21.co.jp/details/company.html・1回目）
+  - 「お客様の案件を企画段階から試作、量産へ向けての提案を致します」（http://www.flex21.co.jp/details/service_product.html・1回目）
+- 製品分野：
+  - 「チタンボルト / アルミボルト / ジュラルミン加工等の航空機・海洋産業部品」（http://www.flex21.co.jp/details/service.html・1回目）
+  - 「上記加工を主体とした装置 / 治具類の設計 / 制作及び試作」（http://www.flex21.co.jp/details/service.html・1回目）
+  - 「工場・倉庫・店舗・事務所、医療施設(クリニック)、各種官公庁、一般木造住宅建築、リフォーム工事等」（https://flex-kogyo2020.com/about・3回目）
+- 連絡先：
+  - 「お問い合わせ | フレックス工業株式会社 | CORPORATE SITE」（https://flex-kogyo2020.com/contact・3回目）
+  - 「お問い合わせ │ 日本フレックス工業株式会社」（https://nichifule.co.jp/contact/・3回目）
+  - 「日本フレックス工業株式会社へのお問い合わせやご相談、ご質問、採用のご応募については、」（https://nichifule.co.jp/contact/・3回目）
+  - 「お急ぎの方は、お電話でのお問い合わせも承ります」（https://nichifule.co.jp/contact/・3回目）
+- 検索結果の抜粋：
+  - 「製造物のご案内｜サービス情報｜フレックス工業株式会社 — サンプルやスケッチからの製作、図面をいただいての製作依頼はもちろん、 同一製品でも当社のノウハウを生かした新たな製造方法や、材質、工程の見直し等により、納期、コスト面でのメリットを追及します。」（http://www.flex21.co.jp/details/service_product.html・3回目）
+  - 「会社概要 | フレックス工業株式会社 | CORPORATE SITEフレックス工業株式会社 | CORPORATE SITEフレックス工業株式会社会社概要 | フレックス工業株式会社 - flex-web.net会社概要 | FLEXコーポレートサイト会社情報｜フレックス工業株式会社 - flex21.co.jpフレックス工業株式会社 | ディスプレイ| 什器 | 東京 — 建物は建てて終わるのではなく、建ててからが始まりです。 その先のメンテナンスまで承り、末永くお使い頂ける様に努めるのが、建設会社の仕事と考えております。 また、人間一人ひとりに個性がある様に、建物にも個性があります。 Jul 27, 2023 · 未来の街を創りあげていく 総合建設業 フレックス工業 JFEシステム建築、JFE建築建材など、積み重ねてきた技術力と施工力で未来の街を作り上げて参ります。 総合的な企画・指」（https://flex-kogyo2020.com/about・3回目）
+  - 「フレックス工業株式会社 | CORPORATE SITE — Jul 27, 2023 · 未来の街を創りあげていく 総合建設業 フレックス工業 JFEシステム建築、JFE建築建材など、積み重ねてきた技術力と施工力で未来の街を作り上げて参ります。 総合的な企画・指導・調整まで一括でお任せください。」（https://flex-kogyo2020.com/・3回目）
+  - 「フレックス工業株式会社 — ものづくり応援カンパニー Flexble Thinking & Action ボルト類・車両・電気・光学機器部品・産業用機器設計製作 フレックス工業株式会社 ホーム 会社案内 概要」（http://www.flex21.co.jp/gaiyo.html・3回目）
+  - 「会社概要 | フレックス工業株式会社 - flex-web.net — 大里 昇個人事業として日昇社を創業 販促什器・用品の企画製造販売業を開始 1959年（昭和34年）2月 1966年（昭和41年）4月 株式会社日昇製作所を設立 フレックス工業株式会社に社名変更 1975年（昭和50年）4月 大里 高史 代表取締役に就任」（https://www.flex-web.net/会社概要・3回目）
+  - 「会社概要 | FLEXコーポレートサイト会社情報｜フレックス工業株式会社 - flex21.co.jpフレックス工業株式会社 | ディスプレイ| 什器 | 東京 — フジカ不動産株式会社 株式会社フジカ 株式会社MOTA アクセス Google Map フレックス株式会社 本社 〒107-0061 東京都港区北青山2-5-8 青山OMスクエア6階 本社は青山OMスクエアビル内の6Fにございます。 ご来社いただく際は、ビルの6Fに直接お越しください。 ご挨拶 昭和23年よりボルト類及び機械部品の製造販売を始め、その後、特殊品部門をフレックス工業株式会社として昭和60年に発足させ、様々な分野でのノウハウを蓄積してきました。 〒124-0025 東京都葛飾区西新小岩3-13-20 TEL：03-5654-6423 FAX：03-5654-6433 Mail : flex@cello.ocn.ne」（https://flex.jp/corporate/info・3回目）
+  - 「お問い合わせ | フレックス工業株式会社 | CORPORATE SITE — 以下のフォームにご記入のうえ、お気軽にお問い合わせください。 内容を確認後、担当よりご連絡させて頂きます。 必須 がついている項目は必ずご記入ください。 ... 個人情報の取り扱いについて ご確認のうえ、「同意する」にチェックしてご送信ください。」（https://flex-kogyo2020.com/contact・3回目）
+  - 「よくある質問｜フレックス工業株式会社お問い合わせ │ 日本フレックス工業株式会社フレックス工業株式会社お問い合わせ | 株式会社フレックス - FLEXお問い合わせ - オートフレックス工業株式会社お問い合わせ | 関西フレックス工業株式会社 — ボルト類・車両・電気・光学機器部品・産業用機器などの設計製作はフレックス工業株式会社へ お問い合わせ ... お問い合わせはこちらまで 〒174-0064 東京都板橋区中台2丁目8番5号 TEL 03-3932-3571 FAX 03-3936-2158 E-MAIL info@flex21.co.jp 日本フレックス工業株式会社へのお問い合わせやご相談、ご質問、採用のご応募については、 下記のメールフォームからお送りください。 お急ぎの方は、お電話でのお問い合わせも承ります。 E-mailアドレス (必須)： 会社名： 郵便番号： 住所： 電話」（http://www.flex21.co.jp/contact/index.html・3回目）
+  - 「お問い合わせ │ 日本フレックス工業株式会社 — 日本フレックス工業株式会社へのお問い合わせやご相談、ご質問、採用のご応募については、 下記のメールフォームからお送りください。 お急ぎの方は、お電話でのお問い合わせも承ります。」（https://nichifule.co.jp/contact/・3回目）
+  - 「お問い合わせ - オートフレックス工業株式会社 — お問い合わせ CONTACT 下記フォーマットにご記入いただき、ご確認のうえ「送信」ボタンを押して、内容を送信していただくと、自動で受付メールを送信いたします。 尚、ご予約の場合はお手数ですが、直接弊社までご連絡ください。」（https://autoflex.jp/contact/・3回目）
+- 所在地：記載なし（3回確認済み：公式5頁／PDF・画像3件／外部10頁・検索9回）
+- 事業内容：記載なし（3回確認済み：公式5頁／PDF・画像3件／外部10頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式5頁／PDF・画像3件／外部10頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式5頁／PDF・画像3件／外部10頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像3件／外部10頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式5頁／PDF・画像3件／外部10頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式5頁／PDF・画像3件／外部10頁・検索9回）
+- AM関連：記載なし（3回確認済み：公式5頁／PDF・画像3件／外部10頁・検索9回）
+
 ## ヘガネスジャパン株式会社
 - 公式URL：http://www.hoganas.com（given）
 - 取扱製品：
@@ -1847,6 +2091,80 @@ Panasonic | Cannon | RYOBI | 協和発酵 | 安川情報システム | 安川コ
 - 売上高：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部5頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部5頁・検索9回）
 - AM関連：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部5頁・検索9回）
+
+## ユアサネオテック株式会社
+- 公式URL：https://yuasa-neotec.com（given）
+- 所在地：〒101-0053　東京都千代田区神田美土代町9番地1 TEL:03-6369-1740　FAX:03-6369-1781（https://yuasa-neotec.com/company/about/・1回目）
+- 事業内容：経験豊富な技術スタッフがお客様に寄り添い生産効率、品質、コストを突き詰めた仕様検討を行い、付加価値の高い設備導入をサポートします。（https://yuasa-neotec.com/・1回目）
+- 事業内容：強固なネットワークとモノづくりの広く深い経験により、お客様の製品に組み込まれる構成部品をタイムリーかつメリットある価格でご提供します。（https://yuasa-neotec.com/・1回目）
+- 事業内容：地球環境を守る為の省エネ・創エネ・リサイクル関連のソリューション及び企業の事業継続や工場強靭化に関わる提案を行います。（https://yuasa-neotec.com/・1回目）
+- 代表者：代表取締役社長　堀 徹（https://yuasa-neotec.com/company/about/・1回目）
+- 代表者：濱安 守（https://yuasa-neotec.com/company/about/・1回目）
+- 代表者：堀 徹（https://yuasa-neotec.com/company/about/・1回目）
+- 従業員数：187名（2025年4月1日）（https://yuasa-neotec.com/company/about/・1回目）
+- 従業員数：180名（https://mono.ipros.com/company/detail/2077382/・3回目）
+- 取扱製品：
+  - 「約6,000社の仕入先と全国ネットワーク、製造業界で培った経験により、お客様の製品部品から工場設備まで、モノづくりに必要な全てを一気通貫でご提供可能です」（https://yuasa-neotec.com/・1回目）
+  - 「お取引先の製品を販売することで、お取引先の売上向上に貢献します」（https://yuasa-neotec.com/・1回目）
+  - 「強固なネットワークとモノづくりの広く深い経験により、お客様の製品に組み込まれる構成部品をタイムリーかつメリットある価格でご提供します」（https://yuasa-neotec.com/・1回目）
+  - 「お客様の課題を解決する、当社が厳選した製品やソリューションをご紹介」（https://yuasa-neotec.com/・1回目）
+  - 「カーボンニュートラルソリューション、製品紹介、工場見学レポート、」（https://yuasa-neotec.com/・1回目）
+  - 「強固なネットワークとモノづくりの広く深い経験により、お客様の製品に組み込まれる構成部品をタイムリーかつメリットある価格でご提供します」（https://yuasa-neotec.com/business/・1回目）
+  - 「約6,000社の仕入先と築いた強固なネットワークとモノづくりの各業界向けで培った広く深い経験により、お客様の製品に組み込まれる構成部品をタイムリーかつメリットある価格でご提供します」（https://yuasa-neotec.com/business/parts_supply/・1回目）
+  - 「また、お客様の製品を当社ネットワークで販売することも可能で、双方向でのお取引によりお客様の事業成長に貢献します」（https://yuasa-neotec.com/business/parts_supply/・1回目）
+  - 「物流業界において製品輸送や製造業の工場内搬送、倉庫業務、3PLなどの物流倉庫、冷凍倉庫など搬送するモノや現場によって課題は様々です」（https://yuasa-neotec.com/business/logistics/・1回目）
+  - 「当社はお客様それぞれの現場に合わせた改善案や業務の最適化、役立つ情報やサービス、製品選定、運用サポートをいたします」（https://yuasa-neotec.com/business/logistics/・1回目）
+  - 「製品の調達から在庫、検査、アッセンブリ、デリバリー等、お客様毎の課題に寄り添い価値のあるサービスをご提供致します」（https://yuasa-neotec.com/solution/building/・1回目）
+  - 「私たちの使命は、製品を販売することだけではなく、課題解決そのものを提供する“コト売り”にあります」（https://yuasa-neotec.com/company/philosophy/・1回目）
+- 取扱材料：
+  - 「樹脂・CFRP、」（https://yuasa-neotec.com/products/made-to-order/・1回目）
+  - 「樹脂・CFRP、グラスファイバー加工」（https://yuasa-neotec.com/products/made-to-order/・1回目）
+  - 「■合成樹脂原料、プラスチック成形品、鋳物の販売」（https://mono.ipros.com/company/detail/2077382/・3回目）
+- 一点物・少量多品種：
+  - 「工作機械及び周辺装置、鍛圧・板金・レーザー加工機、省力化機械・各種専用機、管材建築設備機器、産業機器、オーダーメイド品、物流・梱包機器、半導体製造装置、省エネ・環境改善設備、BCP・レジリエンス機器、他」（https://yuasa-neotec.com/company/about/・1回目）
+  - 「IT/多品種少量生産の影響による部品管理の煩雑化」（https://yuasa-neotec.com/business/logistics/・1回目）
+  - 「金属3Dプリンターによる試作造形 受託加工サービス」（https://yuasa-neotec.com/solution/building/・1回目）
+  - 「オーダーメイド品 | ユアサネオテック株式会社」（https://yuasa-neotec.com/products/made-to-order/・1回目）
+  - 「工作機械及び周辺装置、鍛圧・板金・レーザー加工機、省力化機械・各種専用機、管材建築設備機器、産業機器、オーダーメイド品、物流・梱包機器、半導体製造装置、省エネ・環境改善設備、BCP・レジリエンス機器、産業用ロボット、サービスロボット、AGV、AGF、AMR、CN、カーボンニュートラル、省エネ商品他」（https://mono.ipros.com/company/detail/2077382/・3回目）
+- 製品分野：
+  - 「工作機械及び周辺装置、鍛圧・板金・レーザー加工機、省力化機械・各種専用機、管材建築設備機器、産業機器、オーダーメイド品、物流・梱包機器、半導体製造装置、省エネ・環境改善設備、BCP・レジリエンス機器、他」（https://yuasa-neotec.com/company/about/・1回目）
+  - 「自動車、工作機械、ロボットなどの各分野におけるエキスパートを揃えた営業技術部を擁し、お客様のニーズに沿った製造プロセスをご提供いたします」（https://yuasa-neotec.com/business/machine_sales/・1回目）
+  - 「ワイヤーカット・放電加工機・金型みがき・射出成型機」（https://yuasa-neotec.com/products/machine/・1回目）
+  - 「ダイレクト痛電ロボットスポット溶接システム」（https://yuasa-neotec.com/products/labor-saving/・1回目）
+  - 「半導体製造装置 | ユアサネオテック株式会社」（https://yuasa-neotec.com/products/semiconductor-making/・1回目）
+  - 「その中で自動化、省力化、ロボット・AIといった先端技術を駆使した現場改善のご提案、現場に最も適した解決策を導き出す「技術商社」としての役割を果たしてまいります」（https://yuasa-neotec.com/company/philosophy/・1回目）
+  - 「工作機械及び周辺装置、鍛圧・板金・レーザー加工機、省力化機械・各種専用機、管材建築設備機器、産業機器、オーダーメイド品、物流・梱包機器、半導体製造装置、省エネ・環境改善設備、BCP・レジリエンス機器、産業用ロボット、サービスロボット、AGV、AGF、AMR、CN、カーボンニュートラル、省エネ商品他」（https://mono.ipros.com/company/detail/2077382/・3回目）
+  - 「自動車、建築設備、航空・宇宙、光学・半導体、建設機械、食品業界、工作機械・工具などの多岐にわたる分野と関係があります」（https://job.mynavi.jp/27/pc/search/corp261793/outline.html・3回目）
+  - 「自動車、建築設備・水処理、光学・半導体産業をはじめとする『モノづ」（https://job.mynavi.jp/27/pc/search/corp261793/outline.html・3回目）
+  - 「#専門商社 #機械商社 #賞与 #業界シェア #YUASA #技術 #ロボット」（https://job.mynavi.jp/27/pc/search/corp261793/outline.html・3回目）
+  - 「愛知学院大学、関西学院大学、釧路公立大学、立正大学、立命館大学、共立女子大学、関西外国語大学、日本大学、武蔵野音楽大学、四天王寺大学、国士舘大学、専修大学、同志社大学、大阪経済大学、駒澤大学、防衛大学校」（https://job.mynavi.jp/27/pc/search/corp261793/outline.html・3回目）
+- AM関連：
+  - 「搬送、保管システム、AGV、AMR、AGF等による物流の効率化システムと物流拠点で必要なさまざまな機器、設備を取り揃えておりトータルソリューションを提供いたします」（https://yuasa-neotec.com/・1回目）
+  - 「搬送、保管システム、AGV、AMR、AGF等による物流の効率化システムと物流拠点で必要なさまざまな機器、設備を取り揃えておりトータルソリューションを提供いたします」（https://yuasa-neotec.com/business/・1回目）
+  - 「物流工程に関わるラック、AMR、自動倉庫といった機器から日常の梱包資材まで物流を構成するすべての要素に対し当社が窓口として対応します」（https://yuasa-neotec.com/business/logistics/・1回目）
+  - 「金属3Dプリンターによる試作造形 受託加工サービス」（https://yuasa-neotec.com/solution/building/・1回目）
+  - 「8/15 -8/16, D COMPLEX SRIRACHA, NIKOM PINTHONG, MOO.10, NONG KHAM, SRIRACHA, CHONBURI 20110, THAILAND」（https://yuasa-neotec.com/company/overseas-network/・1回目）
+  - 「NO.31,JALAN KARTUNIS U1/47 TEMASYA INDUSTRIAL PARK SECTION U1,GLENMARIE 40150 SHAH ALAM,SELANGOR,DARUL EHSAN,MALAYSIA」（https://yuasa-neotec.com/company/overseas-network/・1回目）
+  - 「WISMA NUSANTARA BUILDING 20TH FLOOR, JL.M.H. THAMRIN N0.59 JAKARTA 10350, INDONESIA」（https://yuasa-neotec.com/company/overseas-network/・1回目）
+  - 「ROBSON SQUARE BLOK A No.19-20 JL.MH.THAMRIN-LIPPO CIKARANG BEKASI, INDONESIA」（https://yuasa-neotec.com/company/overseas-network/・1回目）
+  - 「YUASA TRADING VIETNAM CO.,LTD.」（https://yuasa-neotec.com/company/overseas-network/・1回目）
+  - 「No.60, STREET B4 SALA URBAN AREA, AN LOI DONG WARD, DISTRICT 2, HO CHI MINH CITY, VIETNAM」（https://yuasa-neotec.com/company/overseas-network/・1回目）
+  - 「YUASA TRADING VIETNAM CO.,LTD. ハノイ支店」（https://yuasa-neotec.com/company/overseas-network/・1回目）
+  - 「FLOOR 15, HOA BINH INTERNATIONAL TOWER, 106 HOANG QUOC VIET, CAU GIAY, HANOI, VIETNAM」（https://yuasa-neotec.com/company/overseas-network/・1回目）
+- 検索結果の抜粋：
+  - 「取扱商品 - ユアサネオテック株式会社 — 取扱商品 - ユアサネオテック株式会社 ユアサネオテック株式会社 https://yuasa-neotec.com > products」（https://yuasa-neotec.com/products/・3回目）
+  - 「ユアサネオテック チャンネル - YouTube — ユアサネオテック チャンネル - YouTube YouTube https://www.youtube.com > channel」（https://www.youtube.com/channel/UC1FFFjDWFyg7PL0hL8O-M5A・3回目）
+  - 「会社概要 ・役員一覧 - ユアサネオテック株式会社 — 会社概要 ・役員一覧 - ユアサネオテック株式会社 ユアサネオテック株式会社 https://yuasa-neotec.com > 会社情報」（https://yuasa-neotec.com/company/about/・3回目）
+  - 「ユアサネオテック 株式 会社 - イプロス — ユアサネオテック 株式 会社 - イプロス 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 商社・卸売り」（https://mono.ipros.com/company/detail/2077382/・3回目）
+  - 「ユアサネオテック (株)【YUASAグループ】の 会社概要 - マイナビ — ユアサネオテック (株)【YUASAグループ】の 会社概要 - マイナビ マイナビ https://job.mynavi.jp > search > corp261793 > outline」（https://job.mynavi.jp/27/pc/search/corp261793/outline.html・3回目）
+  - 「会社 情報 - ユアサネオテック株式会社 — 会社 情報 - ユアサネオテック株式会社 ユアサネオテック株式会社 https://yuasa-neotec.com > company」（https://yuasa-neotec.com/company/・3回目）
+  - 「お問い合わせ | ユアサネオテック 株式会社 — お問い合わせ | ユアサネオテック 株式会社 ユアサネオテック株式会社 https://yuasa-neotec.com > contact」（https://yuasa-neotec.com/contact/・3回目）
+  - 「お問い合わせ | ユアサネオテック 株式会社 — お問い合わせ | ユアサネオテック 株式会社 ユアサネオテック株式会社 https://yuasa-neotec.com > お問い合わせ」（https://yuasa-neotec.com/contact/finish/・3回目）
+  - 「ユアサネオテック 株式会社の会社概要・製品情報 - Metoree — ユアサネオテック 株式会社の会社概要・製品情報 - Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/52596/・3回目）
+- 売上高：記載なし（3回確認済み：公式26頁／PDF・画像12件／外部8頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式26頁／PDF・画像12件／外部8頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式26頁／PDF・画像12件／外部8頁・検索9回）
+- 連絡先：記載なし（3回確認済み：公式26頁／PDF・画像12件／外部8頁・検索9回）
 
 ## ユニセラ株式会社 営業部
 - 公式URL：http://www.unicera.co.jp（given）
@@ -2074,6 +2392,36 @@ Panasonic | Cannon | RYOBI | 協和発酵 | 安川情報システム | 安川コ
 - 取引先：記載なし（3回確認済み：公式30頁／PDF・画像20件／外部6頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式30頁／PDF・画像20件／外部6頁・検索9回）
 
+## 三輝モールド有限会社
+- 公式URL：http://www.mikimold.com（given）
+- 所在地：〒444-0701 愛知県愛知県幡豆郡幡豆町大字東幡豆上床崎30 地図で見る（https://www.ccnet21.ne.jp/company/3964・3回目）
+- 代表者：鈴木 勝彦（https://www.ccnet21.ne.jp/company/3964・3回目）
+- 従業員数：1～10人（https://www.ccnet21.ne.jp/company/3964・3回目）
+- 取扱製品：
+  - 「三輝モールド有限会社はプラスチック金型製造・設計・試作および修理・メンテナンス、2・3次元CAD/CAMによるモデリング・デザイン図面・製品図面の作成などを行っております」（https://www.ccnet21.ne.jp/company/3964・3回目）
+- 一点物・少量多品種：
+  - 「三輝モールド有限会社はプラスチック金型製造・設計・試作および修理・メンテナンス、2・3次元CAD/CAMによるモデリング・デザイン図面・製品図面の作成などを行っております」（https://www.ccnet21.ne.jp/company/3964・3回目）
+- 製品分野：
+  - 「三輝モールド 有限会社（愛知県幡豆郡幡豆町）｜金型設計・プラ金型・MC加工｜製造業応援サイトCCNET」（https://www.ccnet21.ne.jp/company/3964・3回目）
+  - 「プラスチック金型、金型製造、金型設計のことなら三輝モールド有限会社」（https://www.ccnet21.ne.jp/company/3964・3回目）
+  - 「三輝モールド有限会社はプラスチック金型製造・設計・試作および修理・メンテナンス、2・3次元CAD/CAMによるモデリング・デザイン図面・製品図面の作成などを行っております」（https://www.ccnet21.ne.jp/company/3964・3回目）
+  - 「精度は10μまで対応しており、複雑な形状のプラスチック金型を得意としております」（https://www.ccnet21.ne.jp/company/3964・3回目）
+  - 「プラスチック金型加工に対する高精度や納期短縮の要求に応えるため、オークマMB-46VAEを導入いたしました」（https://www.ccnet21.ne.jp/company/3964・3回目）
+  - 「プラスチック金型でお困りであれば是非三輝モールドへご相談くださいませ」（https://www.ccnet21.ne.jp/company/3964・3回目）
+- AM関連：
+  - 「三輝モールド有限会社はプラスチック金型製造・設計・試作および修理・メンテナンス、2・3次元CAD/CAMによるモデリング・デザイン図面・製品図面の作成などを行っております」（https://www.ccnet21.ne.jp/company/3964・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 ｜株式会社サンシーモールド三輝モールド 有限会社（愛知県幡豆郡幡豆町）｜金型設計・プラ金型・...事業内容｜株式会社サンシーモールド会社概要｜有限会社三輝三輝モールド有限会社（愛知県西尾市） 概要 - 企業情報 — 会社概要のページです。 金型・成形・組立の3部門を保有し、多くのネットワークにより金型設計製作～成形／組立～動作検証まで一貫して行うことが可能です。 経験豊かな人の技と最新のテクノロジーを融合し、高精度高品質な金型を提供いたします。 Sep 1, 2006 · 会社概要 三輝モールド有限会社はプラスチック金型製造・設計・試作および修理・メンテナンス、2・3次元CAD/CAMによるモデリング・デザイン図面・製品図面の作成などを行っております。 事業内容のページです。 金型・成形・組立の3部門を保有し、多くのネットワークにより金型設計製作～成形／組立～動作検証まで一貫して」（https://3c-mold.co.jp/company_overview/・3回目）
+  - 「三輝モールド 有限会社（愛知県幡豆郡幡豆町）｜金型設計・プラ金型・... — Sep 1, 2006 · 会社概要 三輝モールド有限会社はプラスチック金型製造・設計・試作および修理・メンテナンス、2・3次元CAD/CAMによるモデリング・デザイン図面・製品図面の作成などを行っております。」（https://www.ccnet21.ne.jp/company/3964・3回目）
+  - 「三輝モールド有限会社（愛知県西尾市） 概要 - 企業情報 — この法人データが国税庁で更新されたのは2015年（平成27年）11月13日です。 事業内容、組織沿革、役員名簿、売上高等につきましては、当該法人の公式ウェブサイト等をご確認下さい。」（https://data-link-plus.com/jp/corporation/2180302027218・3回目）
+  - 「三輝モールド 有限会社（愛知県幡豆郡幡豆町）｜金型設計・プラ金型・... — Sep 1, 2006 · 24～36時間の連続加工でも寸法精度は10μ以内と安定。 作業時間の短縮かつ、高精度を実現いたしました。 プラスチック金型でお困りであれば是非三輝モールドへご相談くださいませ。」（https://www.ccnet21.ne.jp/company/3964・3回目）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
+- 取扱材料：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
+
 ## 三鷹製版株式会社 本社工場
 - 公式URL：http://www.mitaka-seihan.co.jp（given）
 - 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）
@@ -2218,6 +2566,91 @@ Panasonic | Cannon | RYOBI | 協和発酵 | 安川情報システム | 安川コ
 - 従業員数：記載なし（3回確認済み：公式16頁／PDF・画像5件／外部8頁・検索9回）
 - 売上高：記載なし（3回確認済み：公式16頁／PDF・画像5件／外部8頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式16頁／PDF・画像5件／外部8頁・検索9回）
+
+## 会津ゴム工業株式会社
+- 公式URL：http://www.aizugomu.co.jp（given）
+- 所在地：〒179－0076東京都練馬区土支田1-20-13（https://www.aizugomu.co.jp/company.html・1回目）
+- 所在地：〒179-0076 東京都練馬区土支田１−２０−１３（https://www.atengineer.com/pr/aizugomu/company・3回目）
+- 代表者：鳥澤　明子（https://www.aizugomu.co.jp/company.html・1回目）
+- 代表者：鳥澤明子（https://www.atengineer.com/pr/aizugomu/company・3回目）
+- 従業員数：9名（https://www.aizugomu.co.jp/company.html・1回目）
+- 取扱製品：
+  - 「医療用ゴム製品をはじめとしたゴムの製作は会津ゴムへ！！」（https://www.aizugomu.co.jp/・1回目）
+  - 「医療用ゴムをはじめとした樹脂製品をお客様の求める条件に合わせてご提案！！」（https://www.aizugomu.co.jp/・1回目）
+  - 「樹脂製品の研究開発をはじめ、医療用ゴムや工業用ゴムの制作や販売を行なっています」（https://www.aizugomu.co.jp/・1回目）
+  - 「各種製品は、形状や材質等様々な使用用途に適したご提案をいたします」（https://www.aizugomu.co.jp/・1回目）
+  - 「ゴム製品に関してお困りのことがございましたらお気軽にご相談下さい」（https://www.aizugomu.co.jp/・1回目）
+  - 「ゴムの機能面から、最適なゴム製品を提案｜会津ゴム工業」（https://www.aizugomu.co.jp/kakoujirei.html・1回目）
+  - 「ＰＴＦＥテフロンファイバーとグラファイト、耐熱性の潤滑油をミックスして造られた繊維をインターロック編みにした製品」（https://www.aizugomu.co.jp/kakoujirei.html・1回目）
+  - 「アラミド繊維をインターロック編みにし、更に密封性を高める為にテフロン、潤滑剤処理を施した製品」（https://www.aizugomu.co.jp/kakoujirei.html・1回目）
+  - 「特殊カーボン繊維にPTFEディスパーションを含浸し格子編方式で断面角型に編組した製品」（https://www.aizugomu.co.jp/kakoujirei.html・1回目）
+  - 「ユーザーニーズに応え続け、十分満足のいただける製品作りを行っています」（https://www.aizugomu.co.jp/company.html・1回目）
+  - 「医療用シリコンゴム製品の開発設計・成形・加工なら会津ゴム」（https://www.aizugomu.co.jp/silicon.html・1回目）
+  - 「医療用シリコンゴム製品の開発設計製造・シリコンピンマット販売」（https://www.aizugomu.co.jp/silicon.html・1回目）
+- 取扱材料：
+  - 「医療用ゴムをはじめとした樹脂製品をお客様の求める条件に合わせてご提案！！」（https://www.aizugomu.co.jp/・1回目）
+  - 「樹脂製品の研究開発をはじめ、医療用ゴムや工業用ゴムの制作や販売を行なっています」（https://www.aizugomu.co.jp/・1回目）
+  - 「各種製品は、形状や材質等様々な使用用途に適したご提案をいたします」（https://www.aizugomu.co.jp/・1回目）
+  - 「材質：天然黒、φ93ｘΦ155」（https://www.aizugomu.co.jp/kakoujirei.html・1回目）
+  - 「材質：天然ゴムグリーン３ｔ、720ｘ500」（https://www.aizugomu.co.jp/kakoujirei.html・1回目）
+  - 「材質：ライナテックス２ｔｘ９０ｍｍｘ３．５ｍｍ」（https://www.aizugomu.co.jp/kakoujirei.html・1回目）
+  - 「材質：アメゴム １６００ｍｍｘ８５ｍｍ」（https://www.aizugomu.co.jp/kakoujirei.html・1回目）
+  - 「材質：ＣＲ ８６０mmｘ５０８mm」（https://www.aizugomu.co.jp/kakoujirei.html・1回目）
+  - 「材質：CR Φ５２０ｍｍｘΦ４８０ｍｍ」（https://www.aizugomu.co.jp/kakoujirei.html・1回目）
+  - 「材質：NBR 490mmx330mmx10t」（https://www.aizugomu.co.jp/kakoujirei.html・1回目）
+  - 「材質：NBR 158mmx72mmx1t」（https://www.aizugomu.co.jp/kakoujirei.html・1回目）
+  - 「材質：ＮＢＲ７０°Φ１０ｘΦ１２０ｘΦ１００」（https://www.aizugomu.co.jp/kakoujirei.html・1回目）
+- 一点物・少量多品種：
+  - 「水筒用パッキンや水道用のパッキンといった食品用ゴムをオーダーメイドにて制作いたします」（https://www.aizugomu.co.jp/・1回目）
+  - 「当社は、昭和44年創業以来 歯科医療及び一般医療用機器を中心としたさまざまなゴム、プラスチック、金属の試作研究から量産製造までを一貫して手がけてきました」（https://www.aizugomu.co.jp/company.html・1回目）
+  - 「・少量すぎて加工先が見つからない ・材質選定に迷っている ・試作だけ対応してほしい ・図面がラフな状態 ・現品しかない」（https://aizugomu.com/・3回目）
+  - 「弊社は「必要なものを必要な数だけつくる」小ロット生産を通じて、」（https://aizugomu.com/・3回目）
+  - 「第30回〖色付きゴム・樹脂〗「この色で少量だけ作りたい」にも対応します」（https://aizugomu.com/・3回目）
+  - 「第28回【実例】「展示会まであと3日…！」開発スケジュールを救った特急試作の裏側」（https://aizugomu.com/・3回目）
+  - 「第27回【実例】試作から量産へ」（https://aizugomu.com/・3回目）
+  - 「金型不要、- 小ロット・試作向き- 複雑形状に対応」（https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/・3回目）
+  - 「ゴム切削加工は、ゴム素材を削ったり切断したりして目的の形状に仕上げる加工方法で、金型を使わずに試作や少量生産に適しています」（https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/・3回目）
+  - 「最小ロット | 1個から対応可能（試作・小ロット生産に最適）」（https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/・3回目）
+  - 「シリコンゴムなどを用いたチューブやパッキンの試作」（https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/・3回目）
+  - 「ゴム＆樹脂加工事例 標準在庫品（125種）/特注品」（https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/・3回目）
+- 製品分野：
+  - 「医療用ゴム製品をはじめとしたゴムの製作は会津ゴムへ！！」（https://www.aizugomu.co.jp/・1回目）
+  - 「医療用ゴムをはじめとした樹脂製品をお客様の求める条件に合わせてご提案！！」（https://www.aizugomu.co.jp/・1回目）
+  - 「樹脂製品の研究開発をはじめ、医療用ゴムや工業用ゴムの制作や販売を行なっています」（https://www.aizugomu.co.jp/・1回目）
+  - 「弊社は、産業用ゴムや医療機器用ゴム、食品用ゴムなどの各種業種別のチューブ及びパッキン、成形部品等を製造販売いたしております」（https://www.aizugomu.co.jp/・1回目）
+  - 「当社は、昭和44年創業以来 歯科医療及び一般医療用機器を中心としたさまざまなゴム、プラスチック、金属の試作研究から量産製造までを一貫して手がけてきました」（https://www.aizugomu.co.jp/company.html・1回目）
+  - 「関越自動車道練馬インターより約3km」（https://www.aizugomu.co.jp/company.html・1回目）
+  - 「医療用シリコンゴム製品の開発設計・成形・加工なら会津ゴム」（https://www.aizugomu.co.jp/silicon.html・1回目）
+  - 「医療用シリコンゴム製品の開発設計製造・シリコンピンマット販売」（https://www.aizugomu.co.jp/silicon.html・1回目）
+  - 「医療用シリコンゴム製品の製品の開発・設計・製造」（https://www.aizugomu.co.jp/silicon.html・1回目）
+  - 「耐熱用ゴム(耐熱性ゴム)は、滅菌消毒や殺菌消毒に対応する為医療機器や食品機器には欠かすことのできないものです」（https://www.aizugomu.co.jp/proposal.html・1回目）
+  - 「医療照明機器などの熱を発する箇所でも使用可能です」（https://www.aizugomu.co.jp/proposal.html・1回目）
+  - 「弊社からはシリコンよりも硬い、EBDMの食品衛生法対応材料での代替を提案し、ホースを製作した後に治具により曲がり癖をつけ、細かな寸法を製作できる状態に修正しました」（https://www.aizugomu.co.jp/proposal.html・1回目）
+- 連絡先：
+  - 「お問い合わせ頂いた時点では、お客様は食品衛生法上、シリコンでないとだめだと思っていました」（https://www.aizugomu.co.jp/proposal.html・1回目）
+  - 「まずは相談だけでもお気軽に、お電話、メールをいただければ即日～ご対応いたします」（https://aizugomu.com/・3回目）
+  - 「詳しくはお問い合わせ、またはカタログをダウンロードしてください」（https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/・3回目）
+  - 「まずはお問い合わせ内容をお聞かせいただければ、ご提案・お見積りを差し上げます」（https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/・3回目）
+  - 「まずはお問い合わせ内容をお聞かせいただければ、ご提案・お見積りを差し上げます」（https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/・3回目）
+  - 「下記フォームの上でダブルクリック - メールフォームの編集」（https://aizugomu.com/contact/・3回目）
+- 検索結果の抜粋：
+  - 「有限会社 会津ゴム工業 — 弊社は「必要なものを必要な数だけつくる」小ロット生産を通じて、資源やエネルギーの無駄を減らしています。 また、製造工程で発生する端材は分別・リサイクルを徹底し、廃棄物削減に努めています。」（https://aizugomu.com/・3回目）
+  - 「加工技術 「ゴム切削加工」 | 会津ゴム工業 - Powered by イプロスも... — 金型不要、- 小ロット・試作向き- 複雑形状に対応 ゴム切削加工は、ゴム素材を削ったり切断したりして目的の形状に仕上げる加工方法で、金型を使わずに試作や少量生産に適しています。」（https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/・3回目）
+  - 「OEM受託生産 | 会津ゴム工業 - Powered by イプロスものづくり — 会津ゴム工業は、研究開発･設計製造・提案販売企業です。 弊社は1970年の創業以来、歯科医療および一般医療機器、工業用ゴム製品を中心に、プラスチック・金属製品の試作から量産まで一貫して対応してまいりました。」（https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/・3回目）
+  - 「ゴム切削，ゴム加工，試作，少量生産 - 会津ゴム工業株式会社 — ゴム素材を製作して加工しることも可能ですので、 着色、ゴム硬度変更等ご要望がありましたら柔軟に対応をいたします。 量産前の形状確認、勘合確認 少量生産の金型レス ゴムの加工ですので寸法公差は多めに見ていただく場合が多いです。」（https://ja.nc-net.or.jp/company/81864/product/detail/58620/・3回目）
+  - 「形状別のゴム製品ラインアップはこちらからご覧下さい｜会津ゴム工業 — 形状別でシート部品やOリングなどのゴム製品の商品情報を確認することができます。 シート部品 各種シール材料、絶縁・断熱材料、樹脂、ロール・ライニング、フィルターなどお客様の多様なニーズに合わせて幅広く取り扱っています。」（https://www.aizugomu.co.jp/shape.html・3回目）
+  - 「会津ゴム工業の会社概要｜ゴムとプラスチックの研究開発集団会社案内 | 有限会社 会津ゴム工業医療用ゴム製品をはじめとしたゴムの製作は会津ゴムへ！！有限会社 会津ゴム工業会津ゴム工業株式会社 - 会社概要会津ゴム工業 | 企業情報 | イプロスものづくり企業情報 | 会津ゴム工業 - Powered by イプロスものづくり — 当社は、昭和44年創業以来 歯科医療及び一般医療用機器を中心としたさまざまなゴム、プラスチック、金属の試作研究から量産製造までを一貫して手がけてきました。 ユーザーニーズに応え続け、十分満足のいただける製品作りを行っています。 企業情報 ご挨拶 私ども有限会社会津ゴム工業は創業以来、ゴム・プラスチック分野に於きまして 「お客様の求める以上の製品づくり」を目標とし医療機器をはじめ、 各産業で高い技術力と豊富な経験で社会に貢献して参りました。 ごあいさつ 会津ゴム工業株」（https://www.aizugomu.co.jp/company.html・3回目）
+  - 「会社案内 | 有限会社 会津ゴム工業医療用ゴム製品をはじめとしたゴムの製作は会津ゴムへ！！有限会社 会津ゴム工業会津ゴム工業株式会社 - 会社概要会津ゴム工業 | 企業情報 | イプロスものづくり企業情報 | 会津ゴム工業 - Powered by イプロスものづくり — ご挨拶 私ども有限会社会津ゴム工業は創業以来、ゴム・プラスチック分野に於きまして 「お客様の求める以上の製品づくり」を目標とし医療機器をはじめ、 各産業で高い技術力と豊富な経験で社会に貢献して参りました。 ごあいさつ 会津ゴム工業株式会社のホームページをご覧頂きまして誠に有難うございます。 弊社は、産業用ゴムや医療機器用ゴム、食品用ゴムなどの各種業種別のチューブ及びパッキン、成形部品等を製造販売いたしております。 ゴム素材からスーパーエンプラまで、あらゆるの樹脂素材に対応し、切削加工、射出成形、真空成形及びチューブ類の押」（https://aizugomu.com/company/・3回目）
+  - 「会津ゴム工業株式会社 - 会社概要 — 会津ゴム工業株式会社 事業概要 設備紹介 東京都にある 会津ゴム工業株式会社 の会社情報です。 事業概要 、製品・技術・サービス 、設備紹介 などを掲載しています。」（https://www.atengineer.com/pr/aizugomu/company・3回目）
+  - 「会津ゴム工業 | 企業情報 | イプロスものづくり — Mar 5, 2026 · 会津ゴム工業は、研究開発･設計製造・提案販売企業です。 弊社は1970年の創業以来、歯科医療および一般医療機器、工業用ゴム製品を中心に、プラスチック・金属製品の試作から量産まで一貫して対応してまいりました。」（https://mono.ipros.com/company/detail/2003857/・3回目）
+  - 「企業情報 | 会津ゴム工業 - Powered by イプロスものづくり — 会津ゴム工業は、研究開発･設計製造・提案販売企業です。 弊社は1970年の創業以来、歯科医療および一般医療機器、工業用ゴム製品を中心に、プラスチック・金属製品の試作から量産まで一貫して対応してまいりました。」（https://pr.mono.ipros.com/aizugomu/information/・3回目）
+  - 「会津ゴム工業のお問合わせページ - aizugomu.co.jp — 経験豊富な社員が、ゴム、樹脂に関する問い合わせ、見積に誠心誠意ご対応します。 連絡先 TEL 03-6915-9311 FAX 03-6915-9312 e-mail: info@aizugomu.co.jp メールフォーム 必要事項をご記入の上、下記確認ボタンを押して下さい。 ★ は必須項目になります。」（https://www.aizugomu.co.jp/contact.html・3回目）
+  - 「お問い合わせ | 有限会社 会津ゴム工業 — ホーム 加工内容・製品紹介 会社案内 事例紹介 お問い合わせ プライバシーポリシー 有限会社 会津ゴム工業 住所 〒470-1126 愛知県豊明市三崎町高鴨14-7 電話番号 0562-95-4331 (代表) FAX 0562-95-4388 MAIL info@aizugomu.com」（https://aizugomu.com/contact/・3回目）
+- 事業内容：記載なし（3回確認済み：公式5頁／PDF・画像4件／外部11頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像4件／外部11頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式5頁／PDF・画像4件／外部11頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式5頁／PDF・画像4件／外部11頁・検索9回）
+- AM関連：記載なし（3回確認済み：公式5頁／PDF・画像4件／外部11頁・検索9回）
 
 ## 八幡金属株式会社
 - 公式URL：https://www.yawata-metal.jp（given）
@@ -2561,6 +2994,177 @@ Panasonic | Cannon | RYOBI | 協和発酵 | 安川情報システム | 安川コ
   - 「お問い合わせ - 北川精機株式会社 — 本社 担当：川上（かわかみ） TEL 0847-40-1203 FAX 0847-40-1208 info@kitagawaseiki.co.jp 東京支店 担当：金藤（かねとう） TEL 03-3917-6275 FAX 03-3917-6413 tokyo@kitagawaseiki.co.jp >> お問い合わせフォーム」（https://kitagawaseiki.co.jp/contact/・3回目）
 - 取引先：記載なし（3回確認済み：公式27頁／PDF・画像10件／外部27頁・検索9回）
 
+## 合同会社DMM.com DMM.make 3Dプリント事業部
+- 公式URL：https://make.dmm.com（given）
+- 従業員数：4000名（https://mono.ipros.com/company/detail/2078244/・3回目）
+- 取扱製品：
+  - 「試作品、工業製品の治具・金型、医療機器…小ロットから大量生産まで、ビジネスの需要に幅広く対応いたします」（https://make.dmm.com/・1回目）
+  - 「高品質の3Dプリンターでハイクオリティの製品を」（https://make.dmm.com/print/・1回目）
+  - 「緊急で短納期にて製品が欲しい際やラピッドプロトライピングのニーズにもお応えいたします」（https://make.dmm.com/print/・1回目）
+  - 「ファッション・アパレル業界はもちろん、自動車や工業製品、芸術分野や研究用途など、布を扱うあらゆる業界での活用が期待されています」（https://make.dmm.com/print/・1回目）
+  - 「最終製品などで使用する場合は、特定の用途に応じた屋外試験を実施することを推奨します」（https://make.dmm.com/print/・1回目）
+  - 「従来のナイロンより耐候性があり、ホワイトカラーが黄変せずに持続するため、最終製品やデザイン性が求められるシーンでご利用頂けます」（https://make.dmm.com/print/・1回目）
+  - 「MJF方式はSLS方式と比べて造形物に異方性が無く、高い強度と寸法精度を持ち、プロトタイプから最終製品までお使いいただけます」（https://make.dmm.com/print/・1回目）
+  - 「ライク品ではなく、本物のポリプロピレン粉末のため、利用範囲が幅広く、自動車部品、医療用途、家電製品、日用品など、多くの製品に使用できます」（https://make.dmm.com/print/・1回目）
+  - 「バルブ、シャフトタイプ、蒸気タービン部品、および耐食性要件を持つ高強度部品などの造形、耐久性のある金属製品や軽量設計に適しています」（https://make.dmm.com/print/・1回目）
+  - 「お客様の用途に合わせた活用提案を、試作から最終製品、量産まで支援いたします」（https://make.dmm.com/print/・1回目）
+  - 「引き続き、製品開発や機能検証など様々な用途でご活用いただけますと幸いです」（https://make.dmm.com/print/news/20260831-5x7h7-3uitan/・1回目）
+  - 「製品開発におけるパーツの試作からフィギュアまで幅広いジャンルに対応しています」（https://make.dmm.com/print/option/express/・1回目）
+- 取扱材料：
+  - 「樹脂系、ゴム･シリコン系造形担当」（https://make.dmm.com/print/・1回目）
+  - 「アクリル樹脂やゴム･シリコン系を主に担当しています」（https://make.dmm.com/print/・1回目）
+  - 「* 使用する樹脂材料は以下の規格に遵守した試験を実施し、合格しています」（https://make.dmm.com/print/・1回目）
+  - 「高精細セラミックライク｜HPS｜LumiaX1」（https://make.dmm.com/print/・1回目）
+  - 「Lumia X1で出力されたUltracur3D® RG 3280 は、セラミック充填樹脂であり、滑らかな表面仕上げ、 荷重たわみ温度（0.45MPa）280℃までの耐熱性、並外れた剛性、優れた耐薬品性、電気絶縁特性を特徴としています」（https://make.dmm.com/print/・1回目）
+  - 「射出する樹脂は、ABS、PP、PC、TPEなどの熱可塑性プラスチックで成形が可能です」（https://make.dmm.com/print/・1回目）
+  - 「64チタン｜SLM」（https://make.dmm.com/print/・1回目）
+  - 「64チタン「Ti-6Al-4V」はチタンを主成分として6%のアルミニウムと4%のバナジウムを含むα-β合金です」（https://make.dmm.com/print/・1回目）
+  - 「3Dプリントで一般的に使用されるチタン合金であり、航空宇宙や自動車分野のプロトタイプや実用部品に広く使用されています」（https://make.dmm.com/print/・1回目）
+  - 「樹脂や金属など、」（https://make.dmm.com/print/personal/・1回目）
+  - 「64チタン｜SLM」（https://make.dmm.com/print/news/20260929-w-xw_jur5o/・1回目）
+  - 「飲食店向けデリバリー用ロッカーのネームプレート制作でDMM.makeのチタンを活用 株式会社ユーボ」（https://make.dmm.com/print/case/biz/・1回目）
+- 一点物・少量多品種：
+  - 「試作品、工業製品の治具・金型、医療機器…小ロットから大量生産まで、ビジネスの需要に幅広く対応いたします」（https://make.dmm.com/・1回目）
+  - 「特注の窓パーツをMJF「PA12W ホワイト」で試作、量産へ 株式会社LIXIL」（https://make.dmm.com/print/・1回目）
+  - 「小ロットからマスプロダクションまで、豊富な設備・素材で柔軟な対応が可能です」（https://make.dmm.com/print/・1回目）
+  - 「お客様の用途に合わせた活用提案を、試作から最終製品、量産まで支援いたします」（https://make.dmm.com/print/・1回目）
+  - 「特注の窓パーツをMJF「PA12W ホワイト」で試作、量産へ 株式会社LIXIL」（https://make.dmm.com/print/case/biz/・1回目）
+  - 「株式会社LIXIL様に特注の窓パーツを試作いただいた事例をご紹介いたします」（https://make.dmm.com/print/case/biz/・1回目）
+  - 「製品開発におけるパーツの試作からフィギュアまで幅広いジャンルに対応しています」（https://make.dmm.com/print/option/express/・1回目）
+  - 「製品開発におけるパーツの試作からフィギュアまで幅広いジャンルに対応しています」（https://make.dmm.com/print/option/direction/・1回目）
+  - 「オーダーメイドやカスタムメイドで受注し、今は飲食店向けのデリバリー用ロッカーがメインです」（https://make.dmm.com/print/case/ubo/・1回目）
+  - 「オーダーメイドやカスタムメイドで受注していて、今は飲食店さん向けのデリバリー用ロッカーがメインになっています」（https://make.dmm.com/print/case/ubo/・1回目）
+  - 「現状はオーダーメイドで一点物を作ってお渡しするカタチなので、その中に組み込めたら嬉しいなと感じています」（https://make.dmm.com/print/case/ubo/・1回目）
+  - 「その会社のロゴとして雰囲気が合うのであれば可愛らしい透明レジンでも良いかなとは思いますが、現状は金属の質感や重厚感で見た目も締まるので、一点物として作るならチタン一択で良いかと考えています」（https://make.dmm.com/print/case/ubo/・1回目）
+- 製品分野：
+  - 「試作品、工業製品の治具・金型、医療機器…小ロットから大量生産まで、ビジネスの需要に幅広く対応いたします」（https://make.dmm.com/・1回目）
+  - 「DMM.makeのAGILISTAでハイブリッドロケット燃料を製作 北海道大学 宇宙環境システム工学研究室」（https://make.dmm.com/print/・1回目）
+  - 「ファッション・アパレル業界はもちろん、自動車や工業製品、芸術分野や研究用途など、布を扱うあらゆる業界での活用が期待されています」（https://make.dmm.com/print/・1回目）
+  - 「これらの特徴により、航空宇宙、自動車、エレクトロニクスなど、極端な熱環境にさらされる産業のアプリケーションに適用可能です」（https://make.dmm.com/print/・1回目）
+  - 「ライク品ではなく、本物のポリプロピレン粉末のため、利用範囲が幅広く、自動車部品、医療用途、家電製品、日用品など、多くの製品に使用できます」（https://make.dmm.com/print/・1回目）
+  - 「3Dプリントで一般的に使用されるチタン合金であり、航空宇宙や自動車分野のプロトタイプや実用部品に広く使用されています」（https://make.dmm.com/print/・1回目）
+  - 「DMM.makeのAGILISTAでハイブリッドロケット燃料を製作 北海道大学 宇宙環境システム工学研究室」（https://make.dmm.com/print/case/biz/・1回目）
+  - 「新しい機能を持ったドローンを研究開発する中で3Dプリンターを活用 国立研究開発法人 宇宙航空研究開発機構（JAXA）航空技術部門」（https://make.dmm.com/print/case/biz/・1回目）
+  - 「中に入れるものは高級バッグでも自動車でも良いのですが、「商品をお客さまに受け渡す瞬間」が一番難しいタイミングで、一般のお客さまの中には「作るのはロボットで良いけど、渡すのは人間が良い」という人もいます」（https://make.dmm.com/print/case/ubo/・1回目）
+  - 「10数個の小ロット製品を造形するのに、金型だとコストがかさんでしまう」（https://make.dmm.com/print/case/lixil/・1回目）
+  - 「射出成型で部品を製作しようとすると金型コストが高くなってしまうので、3Dプリントサービスで必要な数だけ小ロットで安く作れるのは非常に魅力的でした」（https://make.dmm.com/print/case/lixil/・1回目）
+  - 「しかし、たとえば20～30年前の販売終了製品の部品金型を全て残していくのは非常に難しいです」（https://make.dmm.com/print/case/lixil/・1回目）
+- AM関連：
+  - 「高品質の3Dプリンターを揃えた出力代行サービス」（https://make.dmm.com/・1回目）
+  - 「多様な素材と高性能な3Dプリンター」（https://make.dmm.com/print/・1回目）
+  - 「高品質の3Dプリンターでハイクオリティの製品を」（https://make.dmm.com/print/・1回目）
+  - 「素材や3Dプリンターを多く取り揃え、お客様の理想を叶えることが私たちの目標です」（https://make.dmm.com/print/・1回目）
+  - 「造形から発送までが最短翌日と、スピーディーな対応も多くの方から選ばれている理由のひとつ」（https://make.dmm.com/print/・1回目）
+  - 「*1 造形後からのスピード、受注状況により異なる場合があります」（https://make.dmm.com/print/・1回目）
+  - 「ナイロン、MJF等のSLS系造形機のオペレーションを担当しています」（https://make.dmm.com/print/・1回目）
+  - 「金属造形を担当して5年ほどになります」（https://make.dmm.com/print/・1回目）
+  - 「樹脂系、ゴム･シリコン系造形担当」（https://make.dmm.com/print/・1回目）
+  - 「3Dプリントは造形後に、細かな手作業での工程があるので、そこで自分の経験や技術を活かせられる所にやりがいを感じます」（https://make.dmm.com/print/・1回目）
+  - 「NXE400・SLS系造形担当」（https://make.dmm.com/print/・1回目）
+  - 「NXE400を中心に、ナイロンの造形補佐から梱包出荷までを担当しております」（https://make.dmm.com/print/・1回目）
+- 連絡先：
+  - 「メールフォームより必要事項をご記入の上、お問合せください」（https://make.dmm.com/print/・1回目）
+  - 「改めてモデルチェックをおこない、メールにて正式なお見積り書をお知らせします」（https://make.dmm.com/print/・1回目）
+  - 「※本素材は造形方式の関係上、お問い合わせ素材とさせていただいております」（https://make.dmm.com/print/・1回目）
+  - 「（※手動でのお見積もりやお問い合わせは通常通り承っております）」（https://make.dmm.com/print/news/20260904-0tlopl7rq1e/・1回目）
+  - 「当社でのデータチェック完了後、ご登録のメールアドレスに完了メールをお送りします」（https://make.dmm.com/print/option/express/・1回目）
+  - 「基本的には「お問い合わせいただいてから」という感じでお願いしています」（https://make.dmm.com/print/case/ubo/・1回目）
+  - 「他社は費用も高く、また対応がメールのやり取りだけだったので、コミュニケーションにもやや不安がありました」（https://make.dmm.com/print/case/cami-and-co/・1回目）
+  - 「業務で使用する場合は、まずメールでデータを送って、担当者とやり取りをして見積もりを取って、 発注書を送って…というやり取りが発生します」（https://make.dmm.com/print/case/go/・1回目）
+  - 「基本的には大満足なのですが、たとえば、メールかなにかで事前に完成品の画像見せてもらえると良いのかなと思いました」（https://make.dmm.com/print/case/caoscreation/・1回目）
+  - 「194mm X 243mm X 300mmを超える造形に関してはお問い合わせ素材とさせていただいております」（https://make.dmm.com/print/material/pa12-sls/・1回目）
+  - 「【お問い合わせURL】：https://make.dmm.com/print/inquiry/corp/」（https://make.dmm.com/print/material/pa12-sls/・1回目）
+  - 「※仕上がりの色についてご不安がある方は事前にお問い合わせの上、ご検討ください」（https://make.dmm.com/print/material/high-definition-plastic-projet2500/・1回目）
+- 所在地：記載なし（3回確認済み：公式30頁／PDF・画像2件／外部2頁・検索9回）
+- 事業内容：記載なし（3回確認済み：公式30頁／PDF・画像2件／外部2頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式30頁／PDF・画像2件／外部2頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像2件／外部2頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式30頁／PDF・画像2件／外部2頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式30頁／PDF・画像2件／外部2頁・検索9回）
+
+## 合同会社微細加工研究所
+- 公式URL：https://mf-laboratory.com（given）
+- 所在地：〒192-0051 東京都八王子市元本郷町1-5-17　元本郷レジデンス１F（https://mf-laboratory.com/company・1回目）
+- 所在地：東京都八王子市元本郷町1-5-17 元本郷レジデンス1F（https://www.micro-fabricating.com/list/mf-laboratory.html・3回目）
+- 取引先：・東京大学生産技術研究所
+・太原理工大学
+・南京航空航天大学
+その他、メーカー（機密保持のため匿名希望）など (順不同・敬称略) ※上記ユーザー様の他に、半導体や金属MEMSに関する社外秘の生産技術研究や量産ラインでの導入事例も多数あります（https://mono.ipros.com/company/detail/2009022/・3回目）
+- 取扱製品：
+  - 「卓上プレス機と金型一貫しての設計製造体制は、金属MEMSや半導体などの先端技術メーカーでの生産技術研究、大学や研究機関で行われる高難易度実験、ミクロン台の精度を要求される精密小物製品の量産に携わる現場からのハイレベルなプレス加工をご要望のユーザー様を支えてまいりました」（https://mf-laboratory.com/・1回目）
+  - 「手作業では困難なサイズの微細板金部品の組立を金型内で行うことで、組立の時間コスト低減と製品精度の均一化を実現させる技術」（https://mf-laboratory.com/precisionpress・1回目）
+  - 「ある程度の大きさの製品にも応用できますが、MEMSを含めた精密マイクロ機器の製作時における効果が特に大きいことから、平成15～17年度「戦略的基盤技術高度化事業」に採択されました」（https://mf-laboratory.com/precisionpress・1回目）
+  - 「そのため、クリアランスを過小にすることは原則として避けられますが、一方で、製品に発生するダレやバリそのものは、通常の抜き加工時よりも小さくなるという特徴もあります」（https://mf-laboratory.com/vibration・1回目）
+  - 「既製品機種：軽作業用卓上サーボスクリュープレス機 SSS-01」（https://mf-laboratory.com/vibration・1回目）
+  - 「微細加工研究所製品の導入をご検討の皆様へお知らせいたします」（https://mf-laboratory.com/information/3081・1回目）
+  - 「板厚、ロット数、製品形状、納期、代金いずれも応相談」（https://mf-laboratory.com/manufacture・1回目）
+  - 「※小ロット生産は以下の機材(自社製品)で行っております」（https://mf-laboratory.com/manufacture・1回目）
+  - 「また、基本仕様を確定させている【既製品】機種でもあります」（https://mf-laboratory.com/press/press_unit・1回目）
+  - 「また、この機種を用いて精密小物製品の量産を行っているユーザー様もいらっしゃいます」（https://mf-laboratory.com/press/press_unit・1回目）
+  - 「・ カシメ、圧入などの組立作業に適した既製品の軽作業用卓上プレス機です」（https://mf-laboratory.com/site/wp-content/uploads/2026/03/sss01.pdf・2回目）
+  - 「製品・サービス(18)」（https://mono.ipros.com/company/detail/2009022/・3回目）
+- 取扱材料：
+  - 「得意とする加工対象はSUSや純チタン等の難加工材の薄板材(板厚0.1mm程度)ですが、それ以外の素材、材料に対しても検討いたします」（https://mf-laboratory.com/・1回目）
+  - 「材料 SUS304CSP-1/2H または純チタン１種、共に板厚0.05mm」（https://mf-laboratory.com/precisionpress・1回目）
+  - 「さらに、樹脂製薄板材のように柔らかすぎて加工精度を出しにくい材料への精密抜き加工や、バリ、ダレ極小化に伴い板厚の半分以下の幅の抜き加工、通常よりも低い加圧力での鍛造加工なども行えます」（https://mf-laboratory.com/vibration・1回目）
+  - 「弊社製品による精密小物プレス加工は、SUSや純チタンや銅合金などの薄板材(板厚0.1～0.01mm程度)を対象としておりますが、それ以外の材料、または用途にも対応いたします」（https://mono.ipros.com/company/detail/2009022/・3回目）
+  - 「なかでも、ステンレスや純チタンなどの難加工材の薄板材を対象とした「微細精密プレス加工」を得意としています」（https://www.micro-fabricating.com/list/mf-laboratory.html・3回目）
+- 一点物・少量多品種：
+  - 「現在の製造業界、とりわけ先端技術開発においては、「高精度化」「小型化」「多品種少量生産への対応」、あるいは“より薄く、より軽く、より高精度”という要望と、それに対応するシステムを持つメーカーへの需要が高まり続けています」（https://mf-laboratory.com/・1回目）
+  - 「そんなお客様は小ロット生産をご用命ください」（https://mf-laboratory.com/・1回目）
+  - 「「ものづくり中小企業・小規模事業者試作開発等支援補助」」（https://mf-laboratory.com/company・1回目）
+  - 「多品種少量生産時の金型コストの低減を目指して開発した「金型自動交換装置」です」（https://mf-laboratory.com/precisionpress・1回目）
+  - 「また、設計変更の際に、当該箇所の金型だけを再設計すれば良いため、試作時での金型コストを低減させる効果もあります」（https://mf-laboratory.com/precisionpress・1回目）
+  - 「小ロット生産代行 - 合同会社 微細加工研究所」（https://mf-laboratory.com/manufacture・1回目）
+  - 「弊社は他社様からのご依頼に応じて精密小物部品の小ロット生産(部品外形寸法20mm×20mm以下、寸法誤差±0.1mm以内)を受託しております」（https://mf-laboratory.com/manufacture・1回目）
+  - 「※小ロット生産は以下の機材(自社製品)で行っております」（https://mf-laboratory.com/manufacture・1回目）
+  - 「オフィス内での試作や実験に適しており、大学・研究機関などでの精密小物塑性加工実験や民間精密小物メーカー様のインライン生産、その他精密プレスで行いたい様々な用途に対応しております」（https://mf-laboratory.com/press/press_unit・1回目）
+  - 「・ 精密小物部品の塑性加工実験、少量単発作業、順送加工にご利用頂けます」（https://mf-laboratory.com/site/wp-content/uploads/2021/11/catalog_pressunit.pdf・2回目）
+  - 「特殊加工実験、試作・小ロット生産、精密カシメ、量産ライン増設」（https://mono.ipros.com/company/detail/2009022/・3回目）
+  - 「将来的な量産に向けて必要となる試作や小ロット生産」（https://mono.ipros.com/company/detail/2009022/・3回目）
+- 製品分野：
+  - 「微細加工研究所は先端技術や生産技術開発の研究にも適用できる、0.01mm単位の精度要求に対応できる精密加工用の卓上精密サーボプレス機と特殊精密金型の両方を一貫して設計製造しております」（https://mf-laboratory.com/・1回目）
+  - 「卓上プレス機と金型一貫しての設計製造体制は、金属MEMSや半導体などの先端技術メーカーでの生産技術研究、大学や研究機関で行われる高難易度実験、ミクロン台の精度を要求される精密小物製品の量産に携わる現場からのハイレベルなプレス加工をご要望のユーザー様を支えてまいりました」（https://mf-laboratory.com/・1回目）
+  - 「さらに、プレス機の仕様や金型レイアウトを定める上でのコンサルティングと納品後の加工や量産におけるサポートも、弊社内に設置されている自社製プレス機を使用した受託生産、新人設計者や技術営業職を対象とした金型設計ノウハウのリモート講習も、弊社の熟練技術者を交えて丁寧に行います」（https://mf-laboratory.com/・1回目）
+  - 「当社の精密微細プレス金型設計の考え方はこちら」（https://mf-laboratory.com/・1回目）
+  - 「医療用検査器具を使用した実験に使用されています」（https://mf-laboratory.com/precisionpress・1回目）
+  - 「手作業では困難なサイズの微細板金部品の組立を金型内で行うことで、組立の時間コスト低減と製品精度の均一化を実現させる技術」（https://mf-laboratory.com/precisionpress・1回目）
+  - 「多品種少量生産時の金型コストの低減を目指して開発した「金型自動交換装置」です」（https://mf-laboratory.com/precisionpress・1回目）
+  - 「工程ごとに金型の列をプレス機方向へスライドさせて金型を自動的に交換します」（https://mf-laboratory.com/precisionpress・1回目）
+  - 「また、設計変更の際に、当該箇所の金型だけを再設計すれば良いため、試作時での金型コストを低減させる効果もあります」（https://mf-laboratory.com/precisionpress・1回目）
+  - 「これにより、スクリュープレス機のスライドとそれに合致させた金型は高速で上下動を繰り返すことになります」（https://mf-laboratory.com/vibration・1回目）
+  - 「抜き加工に際し、ダイとパンチのクリアランスが適正値より小さい金型を強引に使用すると、金型への食いつきやパンチ刃先のチッピングといった金型の破損を招きます」（https://mf-laboratory.com/vibration・1回目）
+  - 「この特徴を利用し、あえてダイとパンチのクリアランスを適正値より小さくした金型を使用する加工法としてファインブランキング加工が知られています」（https://mf-laboratory.com/vibration・1回目）
+- AM関連：
+  - 「https://mf-laboratory.com/processing_example/660」（https://www.micro-fabricating.com/list/mf-laboratory.html・3回目）
+  - 「yunogamiアットマークgmail.com」（https://yunogami.net/contact.html・3回目）
+- 連絡先：
+  - 「e-mail:m_ito@mf-lab.jp (担当者：伊藤)」（https://mf-laboratory.com/site/wp-content/uploads/2021/11/catalog_pressunit.pdf・2回目）
+  - 「e-mail:m_ito@mf-lab.jp (担当者：伊藤)」（https://mf-laboratory.com/site/wp-content/uploads/2026/03/sss01.pdf・2回目）
+  - 「※回答を確実にお求めの方は弊社HPメールフォーム（https://mf-laboratory.com/contact）にもご一報ください」（https://mono.ipros.com/company/detail/2009022/・3回目）
+  - 「OJT形式・長期研修にも対応しているので、気になる方はぜひお問い合わせしてみてください」（https://www.micro-fabricating.com/list/mf-laboratory.html・3回目）
+  - 「微細加工研究所・湯之上.NET ／ お問い合わせ」（https://yunogami.net/contact.html・3回目）
+  - 「講演、執筆、取材、対談、コンサルタントなどのお問い合わせは、」（https://yunogami.net/contact.html・3回目）
+  - 「yunogamiアットマークgmail.com」（https://yunogami.net/contact.html・3回目）
+  - 「上記は迷惑メール防止のためアットマークをカタカナ表記にしてあります」（https://yunogami.net/contact.html・3回目）
+  - 「メールをくださる場合は、ご注意ください」（https://yunogami.net/contact.html・3回目）
+- 検索結果の抜粋：
+  - 「微細加工研究所 | 企業情報 | イプロスものづくり — 微細加工研究所 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 産業用機械」（https://mono.ipros.com/company/detail/2009022/・3回目）
+  - 「合同会社 微細加工研究所 : HOME — 合同会社 微細加工研究所 : HOME 合同会社 微細加工研究所 https://mf-laboratory.com」（https://mf-laboratory.com/・3回目）
+  - 「合同 会社 微細加工研究所 : HOME — 合同 会社 微細加工研究所 : HOME 合同会社 微細加工研究所 https://mf-laboratory.com」（https://mf-laboratory.com/・3回目）
+  - 「微細加工研究所 | 企業 情報 | イプロスものづくり — 微細加工研究所 | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 産業用機械」（https://mono.ipros.com/company/detail/2009022/・3回目）
+  - 「オーダーメイド方式を採用する合同 会社微細加工研究所 を調査 — オーダーメイド方式を採用する合同 会社微細加工研究所 を調査 micro-fabricating.com https://www.micro-fabricating.com > list > mf-laboratory」（https://www.micro-fabricating.com/list/mf-laboratory.html・3回目）
+  - 「微細加工研究所 の企業 情報 - バフェット・コード — 微細加工研究所 の企業 情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company」（https://www.buffett-code.com/company/fc6irs88i2/・3回目）
+  - 「合同 会社微細加工研究所 - Compalyze — 合同 会社微細加工研究所 - Compalyze Compalyze https://compalyze.co.jp > 企業検索 > 機械・設備」（https://compalyze.co.jp/company/1010103000531・3回目）
+  - 「お問い合わせ - 合同会社 微細加工研究所 — お問い合わせ - 合同会社 微細加工研究所 合同会社 微細加工研究所 https://mf-laboratory.com > contact」（https://mf-laboratory.com/contact・3回目）
+  - 「お問い合わせ - 微細加工研究所・湯之上.NET ／ HOME — お問い合わせ - 微細加工研究所・湯之上.NET ／ HOME yunogami.net http://yunogami.net > contact」（http://yunogami.net/contact.html・3回目）
+  - 「夏季休暇のお知らせ - 合同会社 微細加工研究所 — 夏季休暇のお知らせ - 合同会社 微細加工研究所 合同会社 微細加工研究所 https://mf-laboratory.com > category > information」（https://mf-laboratory.com/category/information・3回目）
+- 事業内容：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部7頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部7頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部7頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部7頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部7頁・検索9回）
+
 ## 吉田工業株式会社 佐久平プラント
 - 公式URL：http://www.yoshidanet.com（given）
 - 所在地：【本社グリーンヒル】 アクセスはこちらから 〒384-2202 長野県佐久市望月内匠2166番地1 TEL：0267-53-2151 FAX：0267-53-5828 【佐久平プラント】 アクセスはこちらから 〒385-0021 長野県佐久市長土呂793番地13 TEL：0267-54-8371 FAX：0267-54-8372（https://yoshidanet.com/company/・1回目）
@@ -2755,6 +3359,96 @@ Panasonic | Cannon | RYOBI | 協和発酵 | 安川情報システム | 安川コ
 - 拠点：記載なし（3回確認済み：公式4頁／PDF・画像3件／外部15頁・検索9回）
 - 連絡先：記載なし（3回確認済み：公式4頁／PDF・画像3件／外部15頁・検索9回）
 
+## 墨田螺子産業株式会社 製造部
+- 公式URL：https://www.sumidams.co.jp（given）
+- 取扱製品：
+  - 「掲載の加工製品から加工内容、部品形状、」（https://www.sumidams.co.jp/・1回目）
+  - 「主に特殊案件になりますが、機密保持の観点から、製品名・機種番等の掲載はしておりません」（https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/nc%E6%97%8B%E7%9B%A4%E5%8A%A0%E5%B7%A5/・1回目）
+  - 「秘密保持の関係で、下記製品の画像は web 掲載しておりません」（https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/nc%E6%97%8B%E7%9B%A4%E5%8A%A0%E5%B7%A5/・1回目）
+  - 「主に特殊案件になりますが、機密保持の観点から、製品名・機種番等の掲載はしておりません」（https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E5%8A%A0%E5%B7%A5/・1回目）
+  - 「秘密保持の関係で、下記製品の画像は web 掲載しておりません」（https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E5%8A%A0%E5%B7%A5/・1回目）
+  - 「様々な業界の加工製品から加工内容、部品形状、扱い材質等、弊社活用のご参考になればと思います」（https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/・1回目）
+  - 「協力工場を探されたり、相談したい時に打ち合わせできるメーカーを近くで探している、また案件に関して図面がなかったり、現物を参考に製品を作りたいとか、目的は様々だと思います」（https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/・1回目）
+  - 「但し、図面等よる委託製品に関しては、出図会社の権利と致します」（https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/・1回目）
+  - 「例えば、エコ製品の提供、環境に配慮したサービスの提供、カーボンオフセットプログラムの導入などが挙げられます」（https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/sdgs%E5%AE%A3%E8%A8%80/・1回目）
+  - 「管理項目：製品に含まれる化学物質の管理において、」（https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/sdgs%E5%AE%A3%E8%A8%80/・1回目）
+  - 「・ 生産工程では、製品中にお客様の要求する含有禁止物質が含有しないように確認」（https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/sdgs%E5%AE%A3%E8%A8%80/・1回目）
+  - 「・ 製品中にお客様の要求する含有禁止物質が含まれていると判明した場合は、」（https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/sdgs%E5%AE%A3%E8%A8%80/・1回目）
+- 取扱材料：
+  - 「扱い材質等を参考に、」（https://www.sumidams.co.jp/・1回目）
+  - 「加工概要・材質等にて、ご参考になればと思います」（https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/nc%E6%97%8B%E7%9B%A4%E5%8A%A0%E5%B7%A5/・1回目）
+  - 「材質はステンレス、真ちゅう（丸棒・六角材・ブロック）、アルミ（丸棒・ブロック材）、鉄をはじめ、ご要望に応じて樹脂と様々な材質に対応しております」（https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/nc%E6%97%8B%E7%9B%A4%E5%8A%A0%E5%B7%A5/・1回目）
+  - 「加工概要・材質等にて、ご参考になればと思います」（https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E5%8A%A0%E5%B7%A5/・1回目）
+  - 「材質は真ちゅう（カドミレス可）、鉄をはじめステンレス、アルミ、樹脂と様々な材質に対応しております」（https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E5%8A%A0%E5%B7%A5/・1回目）
+  - 「様々な業界の加工製品から加工内容、部品形状、扱い材質等、弊社活用のご参考になればと思います」（https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/・1回目）
+  - 「加工概要・材質等にて、ご参考になればと思います」（https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E7%B2%BE%E5%AF%86%E6%9D%BF%E9%87%91/・1回目）
+  - 「加工概要・材質等にて、ご参考になればと思います」（https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E7%95%B0%E5%BD%A2-%E6%88%90%E5%9E%8B%E5%93%81/・1回目）
+  - 「加工性質、使用材質、数量、後処理の内容により、 技術に精通したスタッフが担当させて頂きます」（https://www.sumidams.co.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%81%9B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/・1回目）
+- 製品分野：
+  - 「◇キャリア部品 ◇半導体設備部品 ◇化粧品金具部品 ◇モーターサイクルカスタム部品」（https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/nc%E6%97%8B%E7%9B%A4%E5%8A%A0%E5%B7%A5/・1回目）
+  - 「設備装置部品、金融関係、流通、一般企業向けATM、通帳プリンター、POS、宝くじ発券機、コンピューター印字部、半導体装置、光関連機器検査装置等、ロボット、医療機器、原子力部品」（https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E5%8A%A0%E5%B7%A5/・1回目）
+  - 「３. 各種事務機・医療機器・健康機器類の製造販売」（https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/・1回目）
+  - 「４. 各種工作機械・機械工具・金型類の製造販売」（https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/・1回目）
+  - 「通信機器関連 医療機器関連 検査機器関連 二輪部品関連 四輪部品関連 光学部品関連」（https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/・1回目）
+  - 「照明機器関連 治具・工具関連 水道機器関連 化粧品パーツ関連 設備機器関連」（https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/・1回目）
+  - 「自社使用製品もあり、成形品は金型製作からお請けします」（https://www.sumidams.co.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E7%95%B0%E5%BD%A2-%E6%88%90%E5%9E%8B%E5%93%81/・1回目）
+- 連絡先：
+  - 「E-mail sumida.ass ☆ gmail.com」（https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/・1回目）
+  - 「お問い合わせ：当社Webの「お問い合わせファーム」からご連絡ください」（https://www.sumidams.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E6%B2%BF%E9%9D%A9/・1回目）
+  - 「ご不明な点はお問い合わせより、ご連絡お願い致します」（https://www.sumidams.co.jp/%E6%B0%B8%E4%B9%85%E4%BF%9D%E8%A8%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/・1回目）
+  - 「「どこで購入できるか」と言うお問い合わせを沢山頂いております」（https://www.sumidams.co.jp/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9/・1回目）
+  - 「【注】こちらはお客様専用のお問い合わせフォームとなっております」（https://www.sumidams.co.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%81%9B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/・1回目）
+  - 「宣伝及び勧誘等のメールは固くお断りをしております」（https://www.sumidams.co.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%81%9B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/・1回目）
+  - 「メール・電話・ファックスにて、ご要望をお伝えください」（https://www.sumidams.co.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%81%9B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/・1回目）
+  - 「sumida.ass ☆ gmail.com」（https://www.sumidams.co.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%81%9B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/・1回目）
+- 所在地：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部7頁・検索9回）
+- 事業内容：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部7頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部7頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部7頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部7頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部7頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部7頁・検索9回）
+- 一点物・少量多品種：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部7頁・検索9回）
+- AM関連：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部7頁・検索9回）
+
+## 大塚セラミックス株式会社 営業所
+- 公式URL：https://www.ohtsuka-ceramics.co.jp（given）
+- 所在地：■本社･工場 〒304-0005 茨城県下妻市半谷482番地1 TEL:0296-44-3165 FAX:0296-43-2574 ■営業所 〒101-0045 東京都千代田区神田鍛冶町三丁目7番地21 天翔オフィス神田 TEL:050-5894-1101 FAX:050-5894-1102（https://ohtsuka-ceramics.co.jp/company/・1回目）
+- 事業内容：アルミナ･ステアタイト･コージライト･ムライト･ジルコニア･炭化ケイ素･窒化ケイ素 他（https://ohtsuka-ceramics.co.jp/company/・1回目）
+- 事業内容：各種セラミックス製品の開発･製造･販売（https://ohtsuka-ceramics.co.jp/company/・1回目）
+- 代表者：大塚 喜一郎（https://ohtsuka-ceramics.co.jp/company/・1回目）
+- 取引先：自動車関連･電気 電子関連･半導体関連･産業機器関連（https://ohtsuka-ceramics.co.jp/company/・1回目）
+- 取扱製品：
+  - 「お客様のニーズに合わせて、セラミックス製品をオーダーメイドで製作します」（https://ohtsuka-ceramics.co.jp/・1回目）
+  - 「創業以来、顧客視点の製品開発に挑戦し続け、自動車･電気･半導体･産業機器など、幅広い分野の製品開発で社会に貢献してまいりました」（https://ohtsuka-ceramics.co.jp/company/・1回目）
+  - 「お客様のニーズに合わせて、セラミックス製品をオーダーメイドで製作します」（https://ohtsuka-ceramics.co.jp/company/・1回目）
+- 取扱材料：
+  - 「大塚セラミックス株式会社｜ファインセラミックス部品の製造･開発」（https://ohtsuka-ceramics.co.jp/・1回目）
+  - 「弊社は、1959年の設立以来一貫してセラミックスを専門とした」（https://ohtsuka-ceramics.co.jp/・1回目）
+  - 「セラミックスは耐熱性･耐摩耗性･電気絶縁性に優れており、」（https://ohtsuka-ceramics.co.jp/・1回目）
+  - 「私たちは、これからもセラミックスの新たな可能性を追い求め、」（https://ohtsuka-ceramics.co.jp/・1回目）
+  - 「60年以上の専門知識と経験に加え、常に業務改善に取り組み、釉薬処理や異材質との接着･精密加工にも対応できる高い技術力を維持しています」（https://ohtsuka-ceramics.co.jp/・1回目）
+  - 「弊社工場はつくば市に隣接しており、産官学連携で新しい高機能セラミックス素材や技術の開発に力を注いでいます」（https://ohtsuka-ceramics.co.jp/・1回目）
+  - 「お客様のニーズに合わせて、セラミックス製品をオーダーメイドで製作します」（https://ohtsuka-ceramics.co.jp/・1回目）
+  - 「会社案内｜大塚セラミックス株式会社｜ファインセラミックス部品の製造･開発」（https://ohtsuka-ceramics.co.jp/company/・1回目）
+  - 「大塚セラミックス株式会社は「顧客･従業員･会社の満足を追求し地域･社会に貢献する」を企業理念に、1959年(昭和34年)の設立以来、原料から焼成までの一貫生産と自社研究開発を強みとし、セラミックスの製造･開発に従事しております」（https://ohtsuka-ceramics.co.jp/company/・1回目）
+  - 「セラミックスは大いなる可能性を秘めた素材です」（https://ohtsuka-ceramics.co.jp/company/・1回目）
+  - 「弊社はセラミックスが持つ特性を生かした新素材開発や用途開発にも早くから取り組み、グローバル市場を視野に入れた新しい技術開発にも挑戦しております」（https://ohtsuka-ceramics.co.jp/company/・1回目）
+  - 「そして個々の力と、それをつなぐコミュニケーションによる団結力を力に、先進の技術でセラミックスの新しい価値を創造してまいります」（https://ohtsuka-ceramics.co.jp/company/・1回目）
+- 一点物・少量多品種：
+  - 「お客様のニーズに合わせて、セラミックス製品をオーダーメイドで製作します」（https://ohtsuka-ceramics.co.jp/・1回目）
+  - 「お客様のニーズに合わせて、セラミックス製品をオーダーメイドで製作します」（https://ohtsuka-ceramics.co.jp/company/・1回目）
+- 製品分野：
+  - 「創業以来、顧客視点の製品開発に挑戦し続け、自動車･電気･半導体･産業機器など、幅広い分野の製品開発で社会に貢献してまいりました」（https://ohtsuka-ceramics.co.jp/company/・1回目）
+  - 「自動車関連･電気 電子関連･半導体関連･産業機器関連」（https://ohtsuka-ceramics.co.jp/company/・1回目）
+- AM関連：
+  - 「Believe in the possibility of ceramics」（https://ohtsuka-ceramics.co.jp/・1回目）
+  - 「(OHTSUKA CERAMICS INC.)」（https://ohtsuka-ceramics.co.jp/company/・1回目）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像2件／外部9頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像2件／外部9頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式3頁／PDF・画像2件／外部9頁・検索9回）
+- 連絡先：記載なし（3回確認済み：公式3頁／PDF・画像2件／外部9頁・検索9回）
+
 ## 大山エンジニアリング株式会社
 - 公式URL：http://oyama-eng.com（given）
 - 所在地：〒501-3307　岐阜県加茂郡冨加町大平賀1250 アクセスはこちら（https://oyama-eng.com/company/・1回目）
@@ -2887,6 +3581,89 @@ Panasonic | Cannon | RYOBI | 協和発酵 | 安川情報システム | 安川コ
 - 売上高：記載なし（3回確認済み：公式15頁／PDF・画像1件／外部4頁・検索9回）
 - 取引先：記載なし（3回確認済み：公式15頁／PDF・画像1件／外部4頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式15頁／PDF・画像1件／外部4頁・検索9回）
+
+## 太平電機株式会社
+- 公式URL：http://www.taiheidenki-kk.co.jp（given）
+- 所在地：神奈川県横浜市神奈川区反町2-15-6（https://www.taiheidenki-kk.co.jp/234177271・1回目）
+- 所在地：JR-東神奈川駅から徒歩７分、東急東横線、反町駅から徒歩５分（https://www.taiheidenki-kk.co.jp/234177271・1回目）
+- 所在地：15:00（https://www.taiheidenki-kk.co.jp/15036421918569・1回目）
+- 代表者：代表取締役社長：樋口　公平（https://www.taiheidenki-kk.co.jp/234177271・1回目）
+- 代表者：樋口 公平（https://www.taiheidenki-kk.co.jp/234177271・1回目）
+- 取引先：ヒロセ電機株式会社（代理店） ニデックコンポーネンツ株式会社（代理店） 東京信和商事株式会社（関連会社） 平河ヒューテック株式会社 坂東電線株式会社 インターワイヤード株式会社 住友電工オプティフロンティア株式会社 有限会社大樹電線 株式会社セナジー 神明電機株式会社 日本エレパーツ株式会社 ハーネスメーカー約20社 他７０社（https://www.taiheidenki-kk.co.jp/234177271・1回目）
+- 拠点：JR-上尾駅から徒歩１２分（https://www.taiheidenki-kk.co.jp/234177271・1回目）
+- 取扱製品：
+  - 「住友電工オプティフロンティアの光ケーブル製品を取り扱っております」（https://www.taiheidenki-kk.co.jp/・1回目）
+  - 「製品紹介に「ファンへのコネクタ取り付け加工」コーナーを追加いたしました」（https://www.taiheidenki-kk.co.jp/・1回目）
+  - 「製品紹介にセンサーコーナーを追加いたしました(ゴフェルテック製掲載中)」（https://www.taiheidenki-kk.co.jp/・1回目）
+  - 「ニデックコンポーネンツ製品(スイッチ以外)」（https://www.taiheidenki-kk.co.jp/・1回目）
+  - 「ニデックコンポーネンツ製品(スイッチ以外) - 太平電機株式会社：コネクタ・ワイヤーハーネス加工・スイッチの事ならお任せください！」（https://www.taiheidenki-kk.co.jp/17034918485038・1回目）
+  - 「ニデックコンポーネンツ製品(スイッチ以外)」（https://www.taiheidenki-kk.co.jp/17034918485038・1回目）
+  - 「製品紹介 - 太平電機株式会社：コネクタ・ワイヤーハーネス加工・スイッチの事ならお任せください！」（https://www.taiheidenki-kk.co.jp/161173331・1回目）
+  - 「精密砂型鋳造製品、精密板金、ゴム加工品を中心に取り扱っております」（https://www.taiheidenki-kk.co.jp/161173331・1回目）
+  - 「ニデックコンポーネンツ(旧日本電産コパル電子)のスイッチ以外の製品をまとめております」（https://www.taiheidenki-kk.co.jp/161173331・1回目）
+  - 「ニデックコンポーネンツ製品(スイッチ以外)」（https://www.taiheidenki-kk.co.jp/161173331・1回目）
+  - 「ニデックコンポーネンツ製品(スイッチ以外)」（https://www.taiheidenki-kk.co.jp/234177271・1回目）
+  - 「ニデックコンポーネンツ製品(スイッチ以外)」（https://www.taiheidenki-kk.co.jp/15036421918569・1回目）
+- 取扱材料：
+  - 「精密砂型、小ロット樹脂成形、板金、各方法で部品を供給いたします」（https://www.taiheidenki-kk.co.jp/・1回目）
+  - 「樹脂モールドした加速度センサーで、IP×7、紫外線耐候、耐オゾン、動作(表面)温度－20℃～85℃、I2Cインターフェースです」（https://www.taiheidenki-kk.co.jp/17034917085875・1回目）
+  - 「樹脂モールドした温度センサーで、IP×7、紫外線耐候、耐オゾン、動作(表面)温度－20℃～100℃、I2Cインターフェースです」（https://www.taiheidenki-kk.co.jp/17034917085875・1回目）
+  - 「樹脂モールドでありながら、応答性に優れています」（https://www.taiheidenki-kk.co.jp/17034917085875・1回目）
+  - 「テンションメンバーの材質はFRPで、雷に影響を受けません」（https://www.taiheidenki-kk.co.jp/15828689899928・1回目）
+- 一点物・少量多品種：
+  - 「小ロット＝１本から対応可能！」（https://www.taiheidenki-kk.co.jp/・1回目）
+  - 「精密砂型、小ロット樹脂成形、板金、各方法で部品を供給いたします」（https://www.taiheidenki-kk.co.jp/・1回目）
+  - 「太平電機株式会社は、ヒロセ電機のコネクタ・各種ワイヤーハーネス・ニデックコンポーネンツ(旧日本電産コパル電子)のスイッチ・小ロットのリチウムイオン電池など、電子部品を取り扱う専門商社です」（https://www.taiheidenki-kk.co.jp/・1回目）
+  - 「小ロット供給をモットーに関東を中心に日本全国フォロー可能ですので、まずはお気軽にお問合せください」（https://www.taiheidenki-kk.co.jp/・1回目）
+  - 「太平電機はカーボンニュートラルの達成を目指し、国産木材を使用した特注事務デスクを導入（脱炭素貢献量0.45ｔ）」（https://www.taiheidenki-kk.co.jp/・1回目）
+  - 「ハーネス試作のお手伝い！ヒロセ電機ナイロンコネクタ圧着済在庫化スタート」（https://www.taiheidenki-kk.co.jp/・1回目）
+  - 「コネクタ同様、ワイヤハーネスも信号用、電源用、高速伝送、同軸、光通信用など様々なものを小ロットでご用意できます」（https://www.taiheidenki-kk.co.jp/161173331・1回目）
+  - 「100個からの小ロットリチウムイオン電池を取り扱っております」（https://www.taiheidenki-kk.co.jp/161173331・1回目）
+  - 「弊社では、小ロットの試作から量産までを国内の提携メーカーで生産することが可能です」（http://www.taiheidenki-kk.co.jp/16885263099635・1回目）
+  - 「ハーネス在庫 試作用 - 太平電機株式会社：コネクタ・ワイヤーハーネス加工・スイッチの事ならお任せください！」（http://www.taiheidenki-kk.co.jp/16423401129205・1回目）
+  - 「シングルモードファイバ（SMF）専用ケーブル、MF13プラグ、太平電機にて在庫しているため、小ロット、短納期対応が可能です」（https://www.taiheidenki-kk.co.jp/16226968471848・1回目）
+  - 「台所用洗剤（中性）を少量水に溶かして雑巾がけです」（https://note.com/mori_to_koya/n/ndf57c12048d3・3回目）
+- 製品分野：
+  - 「過電流保護素子は、繰り返し使用が可能な自己復帰型を特長としており、PTCサーミスタと半導体タイプを取り揃えております」（https://www.taiheidenki-kk.co.jp/17034918485038・1回目）
+  - 「機器内配線用、自動車用、防水用、高周波用各種ハーネスを取り扱っております」（https://www.taiheidenki-kk.co.jp/161173331・1回目）
+  - 「半導体技術を駆使し、センサ素子から各種応用製品まで国内で一貫自社生産を行っております」（https://www.taiheidenki-kk.co.jp/17034917085875・1回目）
+  - 「・電気自動車を逐次導入し、すべての営業車両が2024年3月に切り替わりました」（http://www.taiheidenki-kk.co.jp/17089098457224・1回目）
+  - 「CO₂の発生しない電気を電気自動車に充電し、脱炭素納品・脱炭素営業がおこなえるようになりました」（http://www.taiheidenki-kk.co.jp/17089098457224・1回目）
+  - 「電気自動車日産リーフにRE100の電気を充電し、走行時CO2排出ゼロを達成」（http://www.taiheidenki-kk.co.jp/17089098457224・1回目）
+  - 「SW20シリーズのプラグは、専用の組立治具が必要になります」（https://www.taiheidenki-kk.co.jp/15828689899928・1回目）
+  - 「下記の通り、４種類ありますが、太平電機では全ての専用治具を保有しております」（https://www.taiheidenki-kk.co.jp/15828689899928・1回目）
+  - 「●コードカン組込治具：SW20-SCLC-T1/CV-MD」（https://www.taiheidenki-kk.co.jp/15828689899928・1回目）
+  - 「●引止金具組込治具：SW20-LCPT75-1/CVMD3」（https://www.taiheidenki-kk.co.jp/15828689899928・1回目）
+  - 「●スプリングワッシャー組込治具：SW20-LCPT75-1/CVMD4」（https://www.taiheidenki-kk.co.jp/15828689899928・1回目）
+  - 「●LCツマミ組込治具：SW20-LCPT75-1/CVMD1」（https://www.taiheidenki-kk.co.jp/15828689899928・1回目）
+- AM関連：
+  - 「タイコ（Tyco,AMP）」（https://www.taiheidenki-kk.co.jp/15445061469549・1回目）
+  - 「Microsoft Teamsでのウェブ会議も可能です」（http://www.taiheidenki-kk.co.jp/16423401129205・1回目）
+  - 「SXAM-01T-P0.6」（http://www.taiheidenki-kk.co.jp/16423401129205・1回目）
+  - 「Microsoft Teamsでのウェブ会議も可能です」（http://www.taiheidenki-kk.co.jp/16802467515668・1回目）
+  - 「http://www.pref.saitama.lg.jp/a0704/kenkochoju/kenkoukeieijisenjigyousyo.html」（http://www.taiheidenki-kk.co.jp/16411249866480・1回目）
+  - 「Microsoft Teamsでのウェブ会議も可能です」（https://www.taiheidenki-kk.co.jp/15828689899928・1回目）
+- 連絡先：
+  - 「メールでのお問合せは、24時間受け付けております」（https://www.taiheidenki-kk.co.jp/・1回目）
+  - 「メールでのお問合せは、24時間受け付けております」（https://www.taiheidenki-kk.co.jp/17034918485038・1回目）
+  - 「メールでのお問合せは、24時間受け付けております」（https://www.taiheidenki-kk.co.jp/161173331・1回目）
+  - 「メールでのお問合せは、24時間受け付けております」（https://www.taiheidenki-kk.co.jp/234177271・1回目）
+  - 「メールでのお問合せは、24時間受け付けております」（https://www.taiheidenki-kk.co.jp/15036421918569・1回目）
+  - 「メールでのお問合せは、24時間受け付けております」（http://www.taiheidenki-kk.co.jp/16885263099635・1回目）
+  - 「メールでのお問合せは、24時間受け付けております」（https://www.taiheidenki-kk.co.jp/17034917085875・1回目）
+  - 「メールでのお問合せは、24時間受け付けております」（http://www.taiheidenki-kk.co.jp/16413872724946・1回目）
+  - 「メールでのお問合せは、24時間受け付けております」（http://www.taiheidenki-kk.co.jp/17089098457224・1回目）
+  - 「メールでのお問合せは、24時間受け付けております」（https://www.taiheidenki-kk.co.jp/16404388349402・1回目）
+  - 「メールでのお問合せは、24時間受け付けております」（https://www.taiheidenki-kk.co.jp/15445061469549・1回目）
+  - 「③お問い合わせから、品名、本数（1本～）を連絡いただく」（http://www.taiheidenki-kk.co.jp/16423401129205・1回目）
+- 検索結果の抜粋：
+  - 「太平電機株式会社：コネクタ・ワイヤーハーネス加工・スイッチの事な... — 太平電機株式会社は、ヒロセ電機のコネクタ・各種ワイヤーハーネス・日本電産コパル電子のスイッチ・小ロットのリチウムイオン電池など、電子部品を取り扱う専門商社です。状況に合わせたハーネス加工のご提案も行っております。」（https://www.taiheidenki-kk.co.jp/・3回目）
+  - 「製品紹介 - 太平電機株式会社：コネクタ・ワイヤーハーネス加工・スイ... — 当社は、ヒロセ電機とニデックコンポーネンツの代理店をしております。数多いコネクタ、スイッチの中から最適なものをご提案いたします。コネクタ同様、ワイヤハーネスも信号用、電源用、高速伝送、同軸、光通信用など様々なものを小ロットでご用意できます。お気軽にご相談ください。」（https://www.taiheidenki-kk.co.jp/161173331・3回目）
+  - 「お問い合わせ｜自動制御盤の製造・販売は株式会社太平電機製作所 — お問い合わせは、ページ下部のフォームよりお気軽にご連絡ください。 こちらのフォームよりお送りいただいたお問い合わせには、数日中にメールにてご返答いたします。 お急ぎの方は、下記の連絡先にお電話またはFAXにてお問い合わせください。」（http://www.taihei-denki.com/contact/・3回目）
+  - 「お問合せ - 太平電機株式会社：コネクタ・ワイヤーハーネス加工・スイ... — ワイヤーハーネス図面あるけど加工できる？ どうぞお気軽にお問合せください 図面をFAX送信（045-322-5057）または、お問い合わせメール後、弊社返信メールに再度ファイルを添付のうえご返信ください。 内容確認後、加工可否を連絡いたします。」（https://www.taiheidenki-kk.co.jp/498471954・3回目）
+- 事業内容：記載なし（3回確認済み：公式26頁／PDF・画像0件／外部13頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式26頁／PDF・画像0件／外部13頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式26頁／PDF・画像0件／外部13頁・検索9回）
 
 ## 岩佐工業株式会社
 - 公式URL：https://www.iwasakk.jp（given）
@@ -3340,6 +4117,89 @@ Panasonic | Cannon | RYOBI | 協和発酵 | 安川情報システム | 安川コ
 - 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部16頁・検索9回）
 - 取扱材料：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部16頁・検索9回）
 
+## 日本ファインセラミックス株式会社
+- 公式URL：https://www.japan-fc.co.jp（given）
+- 取扱製品：
+  - 「製品情報 - 日本ファインセラミックス｜先端産業のパートナー」（https://www.japan-fc.co.jp/products/・1回目）
+  - 「静電チャック・ラッププレート・真空チャックなど各種半導体製品」（https://www.japan-fc.co.jp/products/cate01/post-17.html・1回目）
+  - 「加工データー（製品サイズφ350mm×8mm）」（https://www.japan-fc.co.jp/products/cate01/post-17.html・1回目）
+  - 「静電チャック・ラッププレート・真空チャックなど各種半導体製品」（https://www.japan-fc.co.jp/products/cate01/post-18.html・1回目）
+  - 「加工精度：製品サイズ φ350mm × 8mmt」（https://www.japan-fc.co.jp/products/cate01/post-18.html・1回目）
+  - 「JFCは、電子材料セラミックス（Electronic Ceramics）、構造材料セラミックス（Engineering Ceramics）、金属セラミックス複合材料（MMC: Metal Matrix Composites）を軸に、一般産業機械、エレクトロニクス、自動車、光通信など多様な分野へ製品を提供してまいりました」（https://www.japan-fc.co.jp/company/・1回目）
+  - 「製品のお問い合わせは、お問い合わせフォーム」（https://www.japan-fc.co.jp/company/company/・1回目）
+  - 「SCPシリーズに加えて、接合技術や金型成形による量産技術を有するヘキサロイシリーズが新たにラインナップされました」（https://www.japan-fc.co.jp/products/cate01/cate0101/sic-1.html・1回目）
+  - 「弊社では標準SCP01、高熱伝導SCP02、高強度SCP03に加えて、金型成形による量産技術や接合技術を有するヘキサロイSAをラインナップしています」（https://www.japan-fc.co.jp/products/cate01/cate0101/sic-1.html・1回目）
+  - 「純度99.5%と99.9%のALPシリーズに加えて、新たにハロックスがラインナップされました」（https://www.japan-fc.co.jp/products/cate01/cate0101/al2o3.html・1回目）
+  - 「弊社では純度99.5%のALP01、純度99.9%のALP02、純度99.8%のハロックスをラインナップしています」（https://www.japan-fc.co.jp/products/cate01/cate0101/al2o3.html・1回目）
+  - 「大型製品の製造も可能で、特に高純度のALP02は曲げ強度が高く、耐食性に優れています」（https://www.japan-fc.co.jp/products/cate01/cate0101/al2o3.html・1回目）
+- 取扱材料：
+  - 「日本ファインセラミックス｜先端産業のパートナー」（https://www.japan-fc.co.jp/・1回目）
+  - 「ファインセラミックス トランスフォーメーション」（https://www.japan-fc.co.jp/・1回目）
+  - 「私たちはファインセラミックスの変革を通じて、社会に価値を提供し続ける会社です」（https://www.japan-fc.co.jp/・1回目）
+  - 「先端産業のDX（Digital Transformation）やGX（Green Transformation）のパートナーとして、ファインセラミックスの変革 Fine CeramiX を実現し、未来を切り開く存在でありたいと考えています」（https://www.japan-fc.co.jp/・1回目）
+  - 「JFCは、ファインセラミックスの変革 "Fine CeramiX" を通じて、社会に新たな価値を提供し続ける企業です」（https://www.japan-fc.co.jp/・1回目）
+  - 「アメリカセラミックス協会からの環境功績賞受賞をはじめ、3D造型技術の活用による廃棄物削減、製造工程の環境配慮、TPM活動を通じた生産性向上など、多角的に取り組んでいます」（https://www.japan-fc.co.jp/・1回目）
+  - 「受託加工（請負加工）サービスのご紹介 - 日本ファインセラミックス｜先端産業のパートナー」（https://www.japan-fc.co.jp/products/cate01/cat0105/post-26.html・1回目）
+  - 「セラミックメーカーJFCが提供する高精度加工サービスです」（https://www.japan-fc.co.jp/products/cate01/cat0105/post-26.html・1回目）
+  - 「1977年創業以来、セラミックスの精密加工に特化し技術力を高めてきた」（https://www.japan-fc.co.jp/products/cate01/cat0105/post-26.html・1回目）
+  - 「製品情報 - 日本ファインセラミックス｜先端産業のパートナー」（https://www.japan-fc.co.jp/products/・1回目）
+  - 「セラミックス 受託加工 - 日本ファインセラミックス｜先端産業のパートナー」（https://www.japan-fc.co.jp/products/cate01/cat0105/・1回目）
+  - 「ラッピング加工 - 日本ファインセラミックス｜先端産業のパートナー」（https://www.japan-fc.co.jp/products/cate01/post-17.html・1回目）
+- 一点物・少量多品種：
+  - 「少量多品種対応の強みと、グローバル市場への挑戦を支えるのは、信頼を基盤に共創するこの社風です」（https://www.japan-fc.co.jp/・1回目）
+  - 「少量試作から量産まで、小物から大物まで、お客様のご要望に応じて幅広く対応します」（https://www.japan-fc.co.jp/products/cate01/cat0105/post-26.html・1回目）
+  - 「試作から量産まで高品質の製品を低価格・短納期で提供致します」（https://www.japan-fc.co.jp/products/cate01/cate0103/post.html・1回目）
+  - 「短納期試作（１⽇）から量産⼤型品加工（φ８００）まで幅広く対応」（https://www.japan-fc.co.jp/products/docs/41575cf1350033df7074b999dfc4ee58d08eae4d.pdf・2回目）
+  - 「一方で従来から大切にしてきた少量多品種のニーズにも柔軟かつ精密な製造体制で対応し、高度かつ細やかな要求に応える技術力で顧客からの厚い信頼を維持することも変わらず大切にしています」（https://job.mynavi.jp/27/pc/search/corp224192/outline.html・3回目）
+- 製品分野：
+  - 「血液ポンプ・歯科矯正治具・攪拌機／粉砕機・内視鏡・深紫外線光源」（https://www.japan-fc.co.jp/・1回目）
+  - 「人工衛星／ロケット・衛星搭載用ミラー・高温試験機」（https://www.japan-fc.co.jp/・1回目）
+  - 「静電チャック・ラッププレート・真空チャックなど各種半導体製品」（https://www.japan-fc.co.jp/products/cate01/post-17.html・1回目）
+  - 「静電チャック・ラッププレート・真空チャックなど各種半導体製品」（https://www.japan-fc.co.jp/products/cate01/post-18.html・1回目）
+  - 「JFCは、電子材料セラミックス（Electronic Ceramics）、構造材料セラミックス（Engineering Ceramics）、金属セラミックス複合材料（MMC: Metal Matrix Composites）を軸に、一般産業機械、エレクトロニクス、自動車、光通信など多様な分野へ製品を提供してまいりました」（https://www.japan-fc.co.jp/company/・1回目）
+  - 「中でも、電気自動車・ハイブリッド車向けの高熱伝導性窒化珪素（Si3N4）セラミックス基板（SN基板）は、当社独自の製法による量産化に成功し、2024年にはアメリカファインセラミックス協会より「企業環境功績賞」を受賞しました」（https://www.japan-fc.co.jp/company/・1回目）
+  - 「半導体製造装置、精密機械、治具類、バルブ、ポンプ、他」（https://www.japan-fc.co.jp/company/company/・1回目）
+  - 「半導体製造装置・検査装置、FPD製造装置・検査装置、他」（https://www.japan-fc.co.jp/company/company/・1回目）
+  - 「SCPシリーズに加えて、接合技術や金型成形による量産技術を有するヘキサロイシリーズが新たにラインナップされました」（https://www.japan-fc.co.jp/products/cate01/cate0101/sic-1.html・1回目）
+  - 「半導体製造装置部品（XYステージ、MOCVDトレー、フォーカスリング、ウェハーチャック）」（https://www.japan-fc.co.jp/products/cate01/cate0101/sic-1.html・1回目）
+  - 「この様な特性を生かし、メカニカルシール、ケミカルポンプ、半導体製造装置のウェハーフォークなどに利用されています」（https://www.japan-fc.co.jp/products/cate01/cate0101/sic-1.html・1回目）
+  - 「弊社では標準SCP01、高熱伝導SCP02、高強度SCP03に加えて、金型成形による量産技術や接合技術を有するヘキサロイSAをラインナップしています」（https://www.japan-fc.co.jp/products/cate01/cate0101/sic-1.html・1回目）
+- AM関連：
+  - 「先端産業のDX（Digital Transformation）やGX（Green Transformation）のパートナーとして、ファインセラミックスの変革 Fine CeramiX を実現し、未来を切り開く存在でありたいと考えています」（https://www.japan-fc.co.jp/・1回目）
+  - 「JFCは、ファインセラミックスの変革 "Fine CeramiX" を通じて、社会に新たな価値を提供し続ける企業です」（https://www.japan-fc.co.jp/・1回目）
+  - 「JFCは、電子材料セラミックス（Electronic Ceramics）、構造材料セラミックス（Engineering Ceramics）、金属セラミックス複合材料（MMC: Metal Matrix Composites）を軸に、一般産業機械、エレクトロニクス、自動車、光通信など多様な分野へ製品を提供してまいりました」（https://www.japan-fc.co.jp/company/・1回目）
+  - 「JAPAN FINE CERAMICS CO., LTD.（略称 JFC）」（https://www.japan-fc.co.jp/company/company/・1回目）
+  - 「私たちJFCは、「Fine CeramiX」というビジョンのもと、ファインセラミックスの革新を通じて未来を切り拓く企業です」（https://job.mynavi.jp/27/pc/search/corp224192/outline.html・3回目）
+  - 「JFCは、「Fine CeramiX」（ファインセラミックスの変革）のビジョンのもと、半導体・EVなど成長市場に向けた革新技術を生み出し続けています」（https://job.mynavi.jp/27/pc/search/corp224192/outline.html・3回目）
+  - 「JFCの「Fine CeramiX」は、単なる材料開発にとどまらず、ファイン セラミックスの新たな可能性を広げるための技術革新と製造プロセスの最適化を含みます」（https://job.mynavi.jp/27/pc/search/corp224192/outline.html・3回目）
+- 連絡先：
+  - 「以下のお問い合わせフォームボタン、または電話番号まで、気軽にご相談ください」（https://www.japan-fc.co.jp/products/cate01/cat0105/post-26.html・1回目）
+  - 「製品のお問い合わせは、お問い合わせフォーム」（https://www.japan-fc.co.jp/company/company/・1回目）
+  - 「お問い合わせ｜一般社団法人日本ファインセラミックス協会」（https://www.jfca-net.or.jp/contact.html・3回目）
+  - 「一般社団法人日本ファインセラミックス協会へのお問い合わせありがとうございます」（https://www.jfca-net.or.jp/contact.html・3回目）
+  - 「内容を確認次第、メールにてご連絡致します」（https://www.jfca-net.or.jp/contact.html・3回目）
+  - 「尚、お問い合わせ内容によりましては、回答に時間がかかる場合がございます」（https://www.jfca-net.or.jp/contact.html・3回目）
+  - 「また、お客さまからいただいたEメールアドレスが違っている場合や、システム障害などによりお返事できない場合がございます」（https://www.jfca-net.or.jp/contact.html・3回目）
+  - 「■お問い合わせ情報は、フォームにご記入頂きましたメールアドレス宛にも自動返送されます」（https://www.jfca-net.or.jp/contact.html・3回目）
+- 検索結果の抜粋：
+  - 「受託加工（請負加工）サービスのご紹介 — 受託加工（請負加工）サービスのご紹介 日本ファインセラミックス https://www.japan-fc.co.jp > cate01 > cat0105 > post-26」（https://www.japan-fc.co.jp/products/cate01/cat0105/post-26.html・3回目）
+  - 「会社 案内 - 日本ファインセラミックス ｜先端産業のパートナー — 会社 案内 - 日本ファインセラミックス ｜先端産業のパートナー 日本ファインセラミックス https://www.japan-fc.co.jp > company > company」（https://www.japan-fc.co.jp/company/company/・3回目）
+  - 「日本ファインセラミックス (株)【日揮グループ】 - マイナビ2027 — 日本ファインセラミックス (株)【日揮グループ】 - マイナビ2027 マイナビ https://job.mynavi.jp > search > corp224192 > outline」（https://job.mynavi.jp/27/pc/search/corp224192/outline.html・3回目）
+  - 「日本ファインセラミックス 株式 会社 - Metoree — 日本ファインセラミックス 株式 会社 - Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/16722/・3回目）
+  - 「日本ファインセラミックス 株式 会社 - 日揮ホールディングス — 日本ファインセラミックス 株式 会社 - 日揮ホールディングス 日揮ホールディングス株式会社 https://www.jgc.com > ... > 会社情報 > グループ会社一覧」（https://www.jgc.com/jp/about/related-companies/jfc.html・3回目）
+  - 「日本ファインセラミックス | 企業 情報 | イプロスものづくり — 日本ファインセラミックス | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > セラミックス」（https://mono.ipros.com/company/detail/2043623/・3回目）
+  - 「お問い合わせ - 日本ファインセラミックス — お問い合わせ - 日本ファインセラミックス 日本ファインセラミックス https://www.japan-fc.co.jp > inquiry」（https://www.japan-fc.co.jp/inquiry/・3回目）
+  - 「お問い合わせ ｜一般社団法人 日本ファインセラミックス 協会 — お問い合わせ ｜一般社団法人 日本ファインセラミックス 協会 一般社団法人日本ファインセラミックス協会 https://www.jfca-net.or.jp > contact」（https://www.jfca-net.or.jp/contact.html・3回目）
+  - 「日本ファインセラミックス 株式会社 - Metoree — 日本ファインセラミックス 株式会社 - Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/16722/・3回目）
+  - 「日本ファインセラミックス | 企業情報 | イプロスものづくり — 日本ファインセラミックス | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > セラミックス」（https://mono.ipros.com/company/detail/2043623/・3回目）
+- 所在地：記載なし（3回確認済み：公式26頁／PDF・画像13件／外部11頁・検索9回）
+- 事業内容：記載なし（3回確認済み：公式26頁／PDF・画像13件／外部11頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式26頁／PDF・画像13件／外部11頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式26頁／PDF・画像13件／外部11頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式26頁／PDF・画像13件／外部11頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式26頁／PDF・画像13件／外部11頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式26頁／PDF・画像13件／外部11頁・検索9回）
+
 ## 日本ユニバーサル電気株式会社
 - 公式URL：http://jpuni.co.jp（given）
 - 所在地：—以下から選択してください— 北海道 青森県 岩手県 宮城県 秋田県 山形県 福島県 茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県 新潟県 富山県 石川県 福井県 山梨県 長野県 岐阜県 静岡県 愛知県 三重県 滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県 鳥取県 島根県 岡山県 広島県 山口県 徳島県 香川県 愛媛県 高知県 福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県 沖縄県 その他（https://staff-universal.jp/inquiry/・3回目）
@@ -3724,6 +4584,40 @@ Panasonic | Cannon | RYOBI | 協和発酵 | 安川情報システム | 安川コ
   - 「E-mail: info@meiseidenki.co.jp」（https://meiseidenki.co.jp/wordpress/wp-content/themes/meisei/pdf/Company.pdf・2回目）
 - 取引先：記載なし（3回確認済み：公式30頁／PDF・画像14件／外部6頁・検索9回）
 
+## 月井精密株式会社
+- 公式URL：http://www.tsinc.jp（given）
+- 取扱製品：
+  - 「月井精密の製品・サービス一覧｜イプロスものづくり」（https://mono.ipros.com/company/detail/2004158/category/・3回目）
+  - 「製品・サービス(6)」（https://mono.ipros.com/company/detail/2004158/category/・3回目）
+  - 「製品・研究開発（建築・土木・プラント・設備）」（https://ja.nc-net.or.jp/company/79525/inquiry/input/・3回目）
+- 一点物・少量多品種：
+  - 「航空衛星・自動車・医療・光学・計測機器などの分野に、試作から量産まで幅広く部品供給させていただいております」（https://mono.ipros.com/company/detail/2004158/category/・3回目）
+- 製品分野：
+  - 「航空衛星・自動車・医療・光学・計測機器などの分野に、試作から量産まで幅広く部品供給させていただいております」（https://mono.ipros.com/company/detail/2004158/category/・3回目）
+  - 「そのため角度の割り出しが必要な、複雑かつ高精度な加工を行う際には、まずワークを傾けるための治具を製作し、何度もワークを掴みかえるという作業が必要になります」（https://mono.ipros.com/company/detail/2004158/category/・3回目）
+  - 「作業が複雑化することにより3軸のマシニングセンターは5軸のマシニングセンターに比べ、角度の割り出し精度が安定しない、段取り変えが必要、割り出し治具が必要、などの弱点があります」（https://mono.ipros.com/company/detail/2004158/category/・3回目）
+- AM関連：
+  - 「様々な二次元加工物、三次元加工物に対応できるようにCADCAMに直結して使用しております」（https://mono.ipros.com/company/detail/2004158/category/・3回目）
+- 連絡先：
+  - 「詳しくはお問い合わせ、もしくはカタログをダウンロードしてください」（https://mono.ipros.com/company/detail/2004158/category/・3回目）
+  - 「お問い合わせ - 月井精密 株式会社 東京都 八王子市」（https://ja.nc-net.or.jp/company/79525/inquiry/input/・3回目）
+  - 「当社からの連絡に必要な電子メールアドレスを用意してそのアドレスを当社に対して登録すること」（https://ja.nc-net.or.jp/company/79525/inquiry/input/・3回目）
+  - 「当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします」（https://ja.nc-net.or.jp/company/79525/inquiry/input/・3回目）
+  - 「かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします」（https://ja.nc-net.or.jp/company/79525/inquiry/input/・3回目）
+- 検索結果の抜粋：
+  - 「月井精密の製品・サービス一覧｜イプロスものづくり — Jan 20, 2011 · 目指すのは、もっと先の技術力 守りたいのは、ものづくりの誇り 月井精密株式会社は精密機械部品の加工メーカーです。 航空衛星・自動車・医療・光学・計測機器などの分野に、試作から量産まで幅広く部品供給させていただいております。」（https://mono.ipros.com/company/detail/2004158/category/・3回目）
+  - 「月井精密株式会社の会社概要・製品情報 | Metoree — 会社概要 月井精密株式会社は、1981年に創業し、精密機械部品の加工メーカーです。 月井精密は、創業以来、航空衛星、医療、自動車、光学、計測機器などの分野に用いられる様々な金属部品の供給を行っています。」（https://metoree.com/companies/12809/・3回目）
+  - 「技術・製品 - 月井精密 株式会社 東京都 八王子市 — Jan 23, 2023 · 当社は金属や樹脂などを精密に加工することを得意とした精密機械部品加工メーカーです。 衛星部品、航空機部品、モーターレース用部品など精密な部品が必要とされる幅広い分野にサプライヤーとして部品供給しております。」（https://ja.nc-net.or.jp/company/79525/product/・3回目）
+  - 「お問い合わせ - 月井精密 株式会社 東京都 八王子市 — Jan 23, 2023 · 当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします。 かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします。」（https://ja.nc-net.or.jp/company/79525/inquiry/input/・3回目）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部11頁・検索9回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部11頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部11頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部11頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部11頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部11頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部11頁・検索9回）
+- 取扱材料：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部11頁・検索9回）
+
 ## 有富設計株式会社
 - 公式URL：http://www.aritomi.co.jp（given）
 - 取扱製品：
@@ -4053,6 +4947,119 @@ Panasonic | Cannon | RYOBI | 協和発酵 | 安川情報システム | 安川コ
 - 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
 - 取扱材料：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
 
+## 有限会社キョーシン 横浜川和工場
+- 公式URL：http://anodizing.jp（given）
+- 所在地：〒224-0057神奈川県横浜市都筑区川和町2709（http://anodizing.jp/company.html・1回目）
+- 事業内容：アルミの表面処理 アクリルキーホルダーのサイト http://www.anodizing.jp/uv_info/（http://anodizing.jp/company.html・1回目）
+- 代表者：齋藤　剛（http://anodizing.jp/company.html・1回目）
+- 従業員数：14名（http://anodizing.jp/company.html・1回目）
+- 従業員数：19名（https://mono.ipros.com/company/detail/2034820/・3回目）
+- 取引先：株式会社ナックイメージテクノロジー
+株式会社ケル
+その他多数 (順不同・敬称略) ※モバイル、遊戯機器、航空、宇宙、電機、通信、医療、モータースポーツ全般（https://mono.ipros.com/company/detail/2034820/・3回目）
+- 取扱製品：
+  - 「製品・サービス(1)」（https://mono.ipros.com/company/detail/2034820/・3回目）
+  - 「アルミニウム製品に対して一環作業が可能なため精密部品など主に運送中におこる、腐食、傷等を避けるとともに小ロット、短納期処理が可能となります」（https://mono.ipros.com/company/detail/2034820/・3回目）
+  - 「製品・サービス (1)」（https://mono.ipros.com/company/detail/2034820/・3回目）
+- 一点物・少量多品種：
+  - 「アルミニウム製品に対して一環作業が可能なため精密部品など主に運送中におこる、腐食、傷等を避けるとともに小ロット、短納期処理が可能となります」（https://mono.ipros.com/company/detail/2034820/・3回目）
+- 製品分野：
+  - 「医療の現場や交通機関その他、色々なところで皆さんの生活に馴染んでいます」（http://anodizing.jp/company.html・1回目）
+  - 「※モバイル、遊戯機器、航空、宇宙、電機、通信、医療、モータースポーツ全般」（https://mono.ipros.com/company/detail/2034820/・3回目）
+- 連絡先：
+  - 「Email : info@anodizing.jp」（http://anodizing.jp/case.html・1回目）
+  - 「Email:info@anodizing.jp」（http://anodizing.jp/case.html・1回目）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索9回）
+- 取扱材料：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索9回）
+- AM関連：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部6頁・検索9回）
+
+## 有限会社ケイ・エム・エス
+- 公式URL：http://www.kms-jp.com（given）
+- 取扱製品：
+  - 「ステンレス製品に「高強度・高硬度」を求める場合、SUS440Cに熱処理がお薦めです」（http://kms-jp.com/service/material-selected/materials/・1回目）
+  - 「熱可塑性樹脂は、熱を加えると溶けて柔らかく、冷やすと固まり製品等に成型できますが、再び熱を加えると溶けて柔らかくなる性質のプラスチックです」（http://kms-jp.com/service/material-selected/materials/・1回目）
+  - 「お客様のイメージ＆アイデアそして設計思想を、幅広い素材を選定しニーズにぴったりマッチする製品つくりや加工を実現しています」（http://kms-jp.com/service/material-selected/materials/・1回目）
+  - 「車載パーツやアクセサリーなど個人様向け製品にオススメです」（http://kms-jp.com/service/technology/laser-sculpture/・1回目）
+  - 「本「ケイ・エム・エス取引条件」(以下、「本取引条件」といいます)は、有限会社ケイ・エム・エス(以下、「当社」といいます)を受託者とし、お客様を委託者とする金属製品等の加工品(以下、「本製品」といいます)の製造販売の委託に関する契約(以下、「本契約」といいます)の条件を定めることを目的としています」（http://kms-jp.com/company-info/term/・1回目）
+  - 「① お客様が提供する3D CADデータや図面に対して当社アドバイスによりお客様が本製品の仕様を決定します」（http://kms-jp.com/company-info/term/・1回目）
+  - 「④ お客様は本取引条件、確定された仕様内容、製作における注意点を確認し、発注を希望する場合には、見積りの有効期間内に、その旨をメールにて連絡し本製品を発注します」（http://kms-jp.com/company-info/term/・1回目）
+  - 「(a) 当社は、お客様から見積り提案の要求があった場合、お客様から提供される3D CADデータ等の資料に基づき受注対象となる本製品の仕様を特定した上で、当該仕様の本製品に対する見積りを、当社からお客様に提示します」（http://kms-jp.com/company-info/term/・1回目）
+  - 「見積りには本製品の消費税（別途加算）は含まれておりません」（http://kms-jp.com/company-info/term/・1回目）
+  - 「本製品に対する消費税はご請求書に記載されています」（http://kms-jp.com/company-info/term/・1回目）
+  - 「お客様から実際に発注がなされた時の状況によっては、当社は、見積り記載の納期に本製品を出荷することが困難な場合があります」（http://kms-jp.com/company-info/term/・1回目）
+  - 「(1)本製品の発注代金のお支払い」（http://kms-jp.com/company-info/term/・1回目）
+- 取扱材料：
+  - 「KMSでは、金属やプラスチック、ガラスをはじめ、ステンレス鋼、チタン合金、超耐熱合金、さらにマグネシウムや切削データのない新素材などの難削材まで、幅広い素材を取り扱っております」（http://kms-jp.com/service/material-selected/・1回目）
+  - 「プラスチックには、大きく分けて2つの種類、熱可塑性(ねつかそせい)樹脂と熱硬化性(ねつこうかせい)樹脂があります」（http://kms-jp.com/service/material-selected/materials/・1回目）
+  - 「熱可塑性樹脂は、熱を加えると溶けて柔らかく、冷やすと固まり製品等に成型できますが、再び熱を加えると溶けて柔らかくなる性質のプラスチックです」（http://kms-jp.com/service/material-selected/materials/・1回目）
+  - 「熱硬化性樹脂は、熱可塑性樹脂と同じに熱を加え型に流れ込み、さらに加熱すると硬化します」（http://kms-jp.com/service/material-selected/materials/・1回目）
+  - 「銅、アルミ、樹脂はもちろん真鍮やステンレスからガラス、硬質なチタンなどの特殊素材まで対応」（http://kms-jp.com/service/material-selected/materials/・1回目）
+  - 「現在は主にアクリルから各種金属、チタンを材料に、宇宙・航空・ロボット・自動車・カーレースなど多岐にわたる機械・産業部品やRX-7などMAZDA車用の自社製パーツを加工しています」（http://kms-jp.com/service/technology/machining-center/・1回目）
+  - 「さらに、3-Axis ファイバ レーザマーカは、ステンレス・チタン・アルミ・真鍮・鉄(焼入れ後も可)など様々な加工品に、従来彫刻機と、」（http://kms-jp.com/service/technology/laser-sculpture/・1回目）
+  - 「ステンレス・チタン・アルミ・真鍮・鉄(焼入れ後も可)」（http://kms-jp.com/service/technology/laser-sculpture/・1回目）
+  - 「色々な加工技術や材質にトライし日夜研究する」（http://kms-jp.com/company-info/message/・1回目）
+- 一点物・少量多品種：
+  - 「少量の試作品をつくりたい場合などは錆びないステンレスを使ったほうが安く上がる場合があります」（http://kms-jp.com/service/material-selected/・1回目）
+  - 「KMSでは、試作品(サンプル)や、金型がいらない小ロット生産を目的に3次元CAD/CAMシステムと共に導入」（http://kms-jp.com/service/technology/machining-center/・1回目）
+  - 「電気自動車の試作部品・ロボット部品・カスタムカー・レースカー部品・航空機部品医療機部品」（http://kms-jp.com/company-info/・1回目）
+  - 「さまざまな素材、小ロットから大量生産まで対応可能です」（http://kms-jp.com/service/technology/laser-sculpture/・1回目）
+  - 「個人向けのパーソナル仕様のため高度なモデリングはできませんが、切削加工の前段階での試作や思いついたアイデアを具体的な形にするには最適であると考えます」（http://kms-jp.com/service/3d-printer/・1回目）
+  - 「電気自動車の試作部品・ロボット部品・カスタムカー・レースカー部品・航空機部品・医療機部品ほかその他(自転車・バイク・車・iphone・アクセサリー・etc..)部品のワンオフ制作も可能です」（http://kms-jp.com/company-info/message/・1回目）
+- 製品分野：
+  - 「自動車パーツからバイク、自転車、オーディオの部品、インテリア小物からiphone等スマートフォンカバーまで、なんでも製作いたします」（http://kms-jp.com/・1回目）
+  - 「航空機部品、人工衛星部品、ロボット部品、工作機械部品、自動車やレース関連部品から医療機器部品にいたるまで、他社には真似できない高精度の加工技術を提供いたします」（http://kms-jp.com/・1回目）
+  - 「金型加工・金型メンテナンス・3Dモデリング、小径穴あけ加工ほか、切削加工のプロとして高品質かつ短納期でお客様のニーズにお応えします！」（http://kms-jp.com/・1回目）
+  - 「形状が複雑で細密な機械部品、医療装置部品、航空機部品などの製作にも用いられます」（http://kms-jp.com/service/technology/・1回目）
+  - 「一度の取り付けで複数の加工が可能になり、加工工程、治具製作の削減などによるリードタイム（着手してから全ての工程が完成するまでの所要期間）の短縮が期待できます」（http://kms-jp.com/service/technology/machining-center/・1回目）
+  - 「KMSでは、試作品(サンプル)や、金型がいらない小ロット生産を目的に3次元CAD/CAMシステムと共に導入」（http://kms-jp.com/service/technology/machining-center/・1回目）
+  - 「現在は主にアクリルから各種金属、チタンを材料に、宇宙・航空・ロボット・自動車・カーレースなど多岐にわたる機械・産業部品やRX-7などMAZDA車用の自社製パーツを加工しています」（http://kms-jp.com/service/technology/machining-center/・1回目）
+  - 「KMSでは主に自動車レースや産業ロボット用部品の加工を得意としています」（http://kms-jp.com/service/technology/nc/・1回目）
+  - 「自動車レース用スペーサー、車高調整用部品、シャフト、産業用ロボット人工関節部品、医療器具」（http://kms-jp.com/service/technology/nc/・1回目）
+  - 「小さなフィギュアやオリジナルアクセサリーから、スケールモデルや自動車の改造パーツや装備品、鉄道模型用など趣味の小物からエンジンやインテーク周りの部品パーツなど、お客様のアイデア次第で様々なものを「実際のモノ」として切削加工できます」（http://kms-jp.com/service/machining/highspeed-3d/・1回目）
+  - 「電気自動車の試作部品・ロボット部品・カスタムカー・レースカー部品・航空機部品医療機部品」（http://kms-jp.com/company-info/・1回目）
+  - 「プラスチックからタングステン、個人のお客様から宇宙産業まで幅広い素材とお客様とのお付き合いを通して磨かれた確かな技術をご提供いたします!」（http://kms-jp.com/service/machining/3d-cam/・1回目）
+- AM関連：
+  - 「3d camデータ生成」（http://kms-jp.com/・1回目）
+  - 「3Dプリンター」（http://kms-jp.com/・1回目）
+  - 「3D CAM データ生成」（http://kms-jp.com/・1回目）
+  - 「3D-CAD/CAMを用いて図面に落とし込み、確認後、製造工程に移ります」（http://kms-jp.com/・1回目）
+  - 「3d camデータ生成」（http://kms-jp.com/service/・1回目）
+  - 「3Dプリンター」（http://kms-jp.com/service/・1回目）
+  - 「3d camデータ生成」（http://kms-jp.com/service/material-selected/・1回目）
+  - 「3Dプリンター」（http://kms-jp.com/service/material-selected/・1回目）
+  - 「3d camデータ生成」（http://kms-jp.com/service/material-selected/materials/・1回目）
+  - 「3Dプリンター」（http://kms-jp.com/service/material-selected/materials/・1回目）
+  - 「3d camデータ生成」（http://kms-jp.com/service/technology/・1回目）
+  - 「3Dプリンター」（http://kms-jp.com/service/technology/・1回目）
+- 連絡先：
+  - 「イメージナビ:アイデアをアンケート形式でお問い合わせ」（http://kms-jp.com/・1回目）
+  - 「② 決定された仕様に対して当社は、見積りをメールで連絡します」（http://kms-jp.com/company-info/term/・1回目）
+  - 「④ お客様は本取引条件、確定された仕様内容、製作における注意点を確認し、発注を希望する場合には、見積りの有効期間内に、その旨をメールにて連絡し本製品を発注します」（http://kms-jp.com/company-info/term/・1回目）
+  - 「このメール発注は正式発注とみなされ、当社で受注確認した時点をもって、お客様と当社間に本契約が成立するものとします」（http://kms-jp.com/company-info/term/・1回目）
+  - 「⑤メール発注のお客様につきましては、当社は連絡を受けた後、確認の連絡をします」（http://kms-jp.com/company-info/term/・1回目）
+  - 「お客様は当社との連絡完了後、注文書を当社あてにメールまたはFAXで送信します」（http://kms-jp.com/company-info/term/・1回目）
+  - 「メールアドレスだけで支払いや受け取りができます」（http://kms-jp.com/company-info/international-trade/・1回目）
+  - 「メールアドレスだけで支払いや受け取りができるシステムです」（http://kms-jp.com/company-info/international-trade/・1回目）
+  - 「株式会社ケイ・エム・エス | ダイレクトメール・発送代行・ラベリング」（https://www.k-ms.co.jp/・3回目）
+  - 「・広告郵便・区内特別郵便・ゆうメールなどの」（https://www.k-ms.co.jp/・3回目）
+  - 「当社はダイレクトメールなどの発送代行をはじめ、セットアップ作業の代行からパッケージのご提案まで、お客さまに最適なサービスをトータルでご提供いたします」（https://www.k-ms.co.jp/・3回目）
+  - 「メールでのお問い合わせは、こちらのフォームをご利用ください」（https://www.k-ms.co.jp/・3回目）
+- 検索結果の抜粋：
+  - 「有限会社 ケイ・エム・エス — 特殊な形状や素材、微細な部品もお任せください。 どんな製品加工も小ロットからお受けします。 > レーザー彫刻 > レーザー加工 > マシニングセンター加工 > NC旋盤加工 > 表面処理」（http://kms-jp.com/・3回目）
+  - 「株式会社ケイ・エム・エス | ダイレクトメール・発送代行・ラベリング — 当社は、ダイレクトメール・発送代行・ラベリング・梱包・その他DM関連付随業務を行っている会社です。 株式会社ケイ・エム・エス. 360－0835 埼玉県熊谷市大麻生2176－8 TEL：048－531－2406 FAX：048－531－2413.」（https://www.k-ms.co.jp/・3回目）
+  - 「会社概要 | 有限会社 ケイ・エム・エス — FAX: 045-642-8306 事業内容 あなたのイマジネーションを形にする加工屋です。 ミッション 電気自動車の試作部品・ロボット部品・カスタムカー・レースカー部品・航空機部品医療機部品 説明 金属・プラスチック・ガラス・その他の素材を工作機械を使い加工 ...」（http://kms-jp.com/company-info/・3回目）
+  - 「株式会社ケイ・エム・エス | ダイレクトメール・発送代行・ラベリング — 会社紹介 当社はダイレクトメールなどの発送代行をはじめ、セットアップ作業の代行からパッケージのご提案まで、お客さまに最適なサービスをトータルでご提供いたします。」（https://www.k-ms.co.jp/・3回目）
+  - 「お問い合わせ | 有限会社 ケイ・エム・エス — お問い合わせ contact ご意見、ご質問、メッセージ等々お気軽にお問い合わせください。 ... ※ は必須項目です お問い合わせフォームにパスワード等を入力しないでください。 認証コード」（http://kms-jp.com/contact/・3回目）
+  - 「お問い合わせ | 有限会社ケイ・エス・エムプラス株式会社ケイ・エム・エス | ダイレクトメール・発送代行・ラベリングお問い合わせ | 株式会社ケイエムお問い合わせ | KTS | 株式会社ケイティーエスお問い合わせ - 株式会社エム・エス・ケー — 電話・メールでのお問い合わせ お問合せは下記、電話およびメールにて受け付けております。 サービスやシステムに関わらずお気軽にお尋ねください。 お電話でのお問い合わせ ... フォームからのお問い合わせ 貴社名※必須 お名前※必須 プライバシーマーク認定企業として、社内での個人情報を徹底管理。 お客さまからお預かりした大切な情報を万全のセキュリティ体制で管理しております。 手間のかかる業務やパッケージなどでお困りの方は、ぜひ当社にご相談ください。 株式会社ケイエムのお問い合わせについてのページです。お問い合わせは専用フォームから承っております。 」（https://www.ksmplus.co.jp/contact/・3回目）
+- 所在地：記載なし（3回確認済み：公式26頁／PDF・画像3件／外部12頁・検索9回）
+- 事業内容：記載なし（3回確認済み：公式26頁／PDF・画像3件／外部12頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式26頁／PDF・画像3件／外部12頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式26頁／PDF・画像3件／外部12頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式26頁／PDF・画像3件／外部12頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式26頁／PDF・画像3件／外部12頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式26頁／PDF・画像3件／外部12頁・検索9回）
+
 ## 有限会社シナノ精密
 - 公式URL：http://www.shinano-seimitsu.com（given）
 - 所在地：〒399-2565　長野県飯田市桐林1764-6 TEL：0265-26-9142　FAX：0265-26-7089（https://www.shinano-seimitsu.com/company/・1回目）
@@ -4106,19 +5113,27 @@ Panasonic | Cannon | RYOBI | 協和発酵 | 安川情報システム | 安川コ
 
 ## 有限会社スリーエス精工
 - 公式URL：http://www.suriesuseiko.com（given）
-- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
-- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
-- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
-- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
-- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
-- 取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
-- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
-- 取扱製品：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
-- 取扱材料：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
-- 一点物・少量多品種：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
-- 製品分野：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
-- AM関連：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
-- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
+- 取扱製品：
+  - 「製品・サービス(1)」（https://mono.ipros.com/company/detail/2048337/・3回目）
+  - 「製品・サービス (1)」（https://mono.ipros.com/company/detail/2048337/・3回目）
+- 取扱材料：
+  - 「「技を磨く」金属、非鉄金属、樹脂などのNC・MCによる機械部品加工」（https://mono.ipros.com/company/detail/2048337/・3回目）
+- 一点物・少量多品種：
+  - 「有限会社スリーエス精工は、ＮＣ旋盤加工を中心に少量から量産品まで（中量）ユーザーの要望に対して出来る限り対応できる様心がけております」（https://mono.ipros.com/company/detail/2048337/・3回目）
+- 製品分野：
+  - 「○機械設備部品、医療機器部品、食品機械部品、半導体製造装置部品、」（https://mono.ipros.com/company/detail/2048337/・3回目）
+  - 「航空機部品、音響部品、印刷機械部品、鉄道部品（リニア）」（https://mono.ipros.com/company/detail/2048337/・3回目）
+- 検索結果の抜粋：
+  - 「スリーエス精工 | 企業情報 | イプロスものづくり — スリーエス精工 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託」（https://mono.ipros.com/company/detail/2048337/・3回目）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- AM関連：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
 
 ## 有限会社ナラシノカセイ
 - 公式URL：http://narashinokasei.cool.coocan.jp（given）
@@ -4455,6 +5470,61 @@ Panasonic | Cannon | RYOBI | 協和発酵 | 安川情報システム | 安川コ
 - 取引先：記載なし（3回確認済み：公式19頁／PDF・画像1件／外部9頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式19頁／PDF・画像1件／外部9頁・検索9回）
 
+## 有限会社三都テック
+- 公式URL：https://www.mitoteck.jp（given）
+- 所在地：〒916-0016 福井県鯖江市神中町2-5-16（https://mitoteck.jp/about/・1回目）
+- 事業内容：精密部品、成形金型、プレス金型の設計製作（https://mitoteck.jp/about/・1回目）
+- 代表者：代表取締役　渡辺　多章（一史）（https://mitoteck.jp/about/・1回目）
+- 従業員数：14名 ・製造、マシンオペレーター　9名 ・3DCAD/CAMオペレーター　 3名 ・事務　　　　　　　　　　　2名（https://mitoteck.jp/about/・1回目）
+- 取引先：自動車関連企業、工作機械関連企業、産業機械関連企業、医療福祉関連企業 半導体、電子部品関連企業、樹脂化学関連企業、食品衣料関連企業、エネルギー関連企業、開発研究機関、教育機関、その他（https://mitoteck.jp/about/・1回目）
+- 取扱製品：
+  - 「一般的に市販されている製品ではなく、」（https://mitoteck.jp/about-us/・1回目）
+  - 「製品が生み出され、多くの人に役立たれていることに誇りを感じています」（https://mitoteck.jp/about-us/・1回目）
+- 取扱材料：
+  - 「（普通鋼＋特殊鋼＋SUS＋チタン＋アルミ＋銅＋真鍮＋樹脂など）」（https://mitoteck.jp/・1回目）
+  - 「半導体、電子部品関連企業、樹脂化学関連企業、食品衣料関連企業、エネルギー関連企業、開発研究機関、教育機関、その他」（https://mitoteck.jp/about/・1回目）
+  - 「金属や樹脂を「削る、彫る、切る、孔ける、磨く」ことがベースです」（https://mitoteck.jp/about-us/・1回目）
+- 一点物・少量多品種：
+  - 「治具、工程削減を可能にした多品種少量、短納期の製造を追及しています」（https://mitoteck.jp/・1回目）
+  - 「ものづくり中小企業・小規模事業者試作開発等支援補助金 採択」（https://mitoteck.jp/about/・1回目）
+- 製品分野：
+  - 「三都テック | 福井県鯖江市の精密部品/成形金型/プレス金型の専門メーカー」（https://mitoteck.jp/・1回目）
+  - 「（精密部品部門＋成形金型部門＋プレス金型部門）」（https://mitoteck.jp/・1回目）
+  - 「治具、工程削減を可能にした多品種少量、短納期の製造を追及しています」（https://mitoteck.jp/・1回目）
+  - 「ものづくりをワンストップで支える精密部品/成形金型/プレス金型の専門メーカー」（https://mitoteck.jp/about/・1回目）
+  - 「三都テックは「精密部品」、「成形金型」、「プレス金型」の三部門から構成され、」（https://mitoteck.jp/about/・1回目）
+  - 「精密部品、成形金型、プレス金型の設計製作」（https://mitoteck.jp/about/・1回目）
+  - 「自動車関連企業、工作機械関連企業、産業機械関連企業、医療福祉関連企業」（https://mitoteck.jp/about/・1回目）
+  - 「半導体、電子部品関連企業、樹脂化学関連企業、食品衣料関連企業、エネルギー関連企業、開発研究機関、教育機関、その他」（https://mitoteck.jp/about/・1回目）
+  - 「精密部品加工、成形金型、プレス金型の3部門に社内編成」（https://mitoteck.jp/about/・1回目）
+  - 「成形金型、精密部品加工に着手」（https://mitoteck.jp/about/・1回目）
+  - 「プレス金型、治具加工に着手」（https://mitoteck.jp/about/・1回目）
+  - 「ものづくりをワンストップで支える精密部品/成形金型/プレス金型の専門メーカー」（https://mitoteck.jp/machines/・1回目）
+- AM関連：
+  - 「（3DCAD/CAM＋各種工作機械）」（https://mitoteck.jp/・1回目）
+  - 「・3DCAD/CAMオペレーター 3名」（https://mitoteck.jp/about/・1回目）
+  - 「2.5次元CAD/CAM増設」（https://mitoteck.jp/about/・1回目）
+  - 「同時5軸加工用3次元CAM増設」（https://mitoteck.jp/about/・1回目）
+  - 「3次元CAD/CAM増設」（https://mitoteck.jp/about/・1回目）
+  - 「縦型マシニングセンター、3次元CAD/CAM増設」（https://mitoteck.jp/about/・1回目）
+  - 「新築移転、縦型マシニングセンター、3次元CAD/CAM導入」（https://mitoteck.jp/about/・1回目）
+  - 「3次元CAD/CAM」（https://mitoteck.jp/machines/・1回目）
+  - 「2次元、2.5次元CAD/CAM」（https://mitoteck.jp/machines/・1回目）
+  - 「CAD/CAMソフトでプログラムしたり、図面や指示書を確認しながら、」（https://mitoteck.jp/about-us/・1回目）
+  - 「②3次元CAD/CAMオペレーター（3DモデリングやNCプログラムの作成）」（https://mitoteck.jp/recruit/・1回目）
+- 連絡先：
+  - 「【TEL、FAX、メール、下記フォームについてのお願い】」（https://mitoteck.jp/contact/・3回目）
+  - 「本お問い合わせ窓口は、既存のお客様からのご連絡および」（https://mitoteck.jp/contact/・3回目）
+  - 「当社業務に関するご質問・お問い合わせに対応することを」（https://mitoteck.jp/contact/・3回目）
+- 検索結果の抜粋：
+  - 「三都テック | 福井県鯖江市の精密部品/成形金型/プレス金型の専門メー... — Aug 17, 2026 · 有限会社三都テックの強み 主要3部門の技術の融合 （精密部品部門＋成形金型部門＋プレス金型部門） 最適な加工方法を考慮した複合的なモノづくり （3DCAD/CAM＋各種工作機械） 多種多様な形状の加工 （平面的な2D加工＋立体的な3D自由曲面加工）」（http://mitoteck.jp/・3回目）
+  - 「会社案内 - 三都テック三都テック | 福井県鯖江市の精密部品/成形金型/プレス金型の専門メー...有限会社三都テック（福井県鯖江市） 概要 - 企業情報会社概要 | 三都株式会社有限会社三都テック（福井県）の会社概要 | Compalyze会社案内 | 有限会社都テック三都テック | 企業情報 | イプロスものづくり — 三都テックとは 三都テックは「精密部品」、「成形金型」、「プレス金型」の三部門から構成され、 そのひとつひとつの部門を人や物、情報などが行き交う「都」と位置づけ、 三つのモノづくりの都から「思いやり溢れる技術で価値と形を創出し、 Aug 17, 2026 · 有限会社三都テックの強み 主要3部門の技術の融合 （精密部品部門＋成形金型部門＋プレス金型部門） 最適な加工方法を考慮した複合的なモノづくり （3DCAD/CAM＋各種工作機械） 多種多様な形状の加工 （平面的な2」（https://mitoteck.jp/about/・3回目）
+  - 「有限会社三都テック（福井県鯖江市） 概要 - 企業情報 — Oct 5, 2015 · 概要 有限会社三都テック （ミトテック）は福井県鯖江市にある企業です。 法人番号は8210002013459、住所は福井県鯖江市神中町です。 業種（大分類）は「製造業」に分類されます。 この法人は2015年（平成27年）10月5日に法人番号が指定されました。」（https://data-link-plus.com/jp/corporation/8210002013459・3回目）
+  - 「有限会社三都テック（福井県）の会社概要 | Compalyze — 〒916-0016 福井県鯖江市に本社を置く有限会社三都テックの企業情報。 有限会社三都テックは、福井県鯖江市を拠点に、精密部品、成形金型、プレス金型の設計製作を主要事業とする専門メーカーです。 MFG (MFG-10)、1979年設立、従業員（被保険者）15名。」（https://compalyze.co.jp/company/8210002013459・3回目）
+  - 「お問い合わせ | 三都テック — 当社業務に関するご質問・お問い合わせに対応することを 目的として設置しております。 当社業務の円滑な運営を阻害する恐れがあるため、セールス、勧誘、宣伝等の営業目的でのご連絡は固くお断りいたします。」（https://mitoteck.jp/contact/・3回目）
+- 売上高：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部12頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部12頁・検索9回）
+
 ## 有限会社中山鉄工所
 - 公式URL：http://sus-kakou.com（given）
 - 取扱材料：
@@ -4516,6 +5586,42 @@ Panasonic | Cannon | RYOBI | 協和発酵 | 安川情報システム | 安川コ
 - 取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索9回）
 - 取扱製品：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索9回）
+
+## 有限会社今製作所
+- 公式URL：http://kon-factory.business-hp.com（given）
+- 取扱製品：
+  - 「その結果、試作品のような小ロットの製品から、500個の量産品といった、幅広い生産能力を確保しております」（https://kon-factory.co.jp/publics/index/29/・3回目）
+- 取扱材料：
+  - 「また、材質に関しましても、鉄鋼・鋳物・アルミ鋳物・銅合金・ステンレス・チタンといった、幅広い材質の加工が可能です」（https://kon-factory.co.jp/publics/index/29/・3回目）
+  - 「上記はよくご依頼いただく「鉄・スチール」材質です」（https://kon-factory.co.jp/publics/index/29/・3回目）
+  - 「砲金 / 銅 / チタン合金 / 真鍮 / その他非鉄金属 など」（https://kon-factory.co.jp/publics/index/29/・3回目）
+- 一点物・少量多品種：
+  - 「ポイント３ 試作品・小ロット～量産品まで幅広く対応」（https://kon-factory.co.jp/publics/index/29/・3回目）
+  - 「その結果、試作品のような小ロットの製品から、500個の量産品といった、幅広い生産能力を確保しております」（https://kon-factory.co.jp/publics/index/29/・3回目）
+  - 「小ロット（5個）から量産品（500個）まで幅広く対応」（https://kon-factory.co.jp/publics/index/29/・3回目）
+  - 「技術的なご相談や試作依頼などお気軽にご連絡ください」（https://kon-factory.co.jp/publics/index/29/・3回目）
+  - 「10個程度の少量～100個程度の少量量産品・リピート品が得意です！」（https://kon-factory.co.jp/・3回目）
+- 製品分野：
+  - 「くろがね自動車製オート三輪のエンジン部品の製造を中心に行う」（https://kon-factory.co.jp/publics/index/3/・3回目）
+- 連絡先：
+  - 「メール・インターネットからのお問い合わせはこちら」（https://kon-factory.co.jp/publics/index/29/・3回目）
+  - 「ご相談・お問い合わせ｜「大田区優工場認定」有限会社今製作所｜月産5個以上の量産品のコストダウン」（https://kon-factory.co.jp/publics/index/5/・3回目）
+  - 「メールアドレスをお伝えいたしますので、こちらにチェックしてください」（https://kon-factory.co.jp/publics/index/5/・3回目）
+- 検索結果の抜粋：
+  - 「部品製作・加工・調達サービス｜「大田区優工場認定」有限会社今製作...今製作所｜月産5個以上の量産品のコストダウン試作・小ロット加工｜加工の相談窓口試作1個から対応！ステンレス加工・金属加工の今井製作所 | ワンオフ...試作、切削加工、短納期対応の今橋製作所金属加工技術 | 試作1個から対応！ステンレス加工・金属加工の今井製...製品事例 - 今橋製作所株式会社 — ポイント3 試作品・小ロット～量産品まで幅広く対応 弊社では最新の複合加工機・5軸加工機を導入しております。 その結果、試作品のような小ロットの製品から、500個の量産品といった、幅広い生産能力を確保しております。 創業75周年。技術と信頼を積み重ねてこられたのは、お取引先様・関係者の皆様のご支援の賜物です。心より感謝申し上げ ... 試作・小ロット加工、短納期加工もぜひご相談ください。単純形状から複雑形状部品まで、どのよう」（https://kon-factory.co.jp/publics/index/29/・3回目）
+  - 「今製作所｜月産5個以上の量産品のコストダウン — 創業75周年。技術と信頼を積み重ねてこられたのは、お取引先様・関係者の皆様のご支援の賜物です。心より感謝申し上げ ...」（https://kon-factory.co.jp/・3回目）
+  - 「会社概要｜「大田区優工場認定」有限会社今製作所｜月産5個以上の量産...今製作所｜月産5個以上の量産品のコストダウン有限会社今製作所の会社概要・製品情報 | Metoree会社概要 | 企業情報 | 今仙電機製作所今野製作所 - 企業情報株式会社今井製作所会社概要｜株式会社 今井製作所 — お電話でのお問い合わせもお待ちしています トップページ | 選ばれる理由 | 複合加工 | 5軸加工 | 5軸加工機による多面加工 | 加工事例 | 得意業界 | SDGsへの取り組み | 保有設備 | 会社概要 | ご相談・お問い合わせ 有限会社今製作所は、1951年に創業した機械部品メーカーです。 自動車エンジン部品の製造及び販売を主な事業とするほか、各種治工具の製造及び販売や部品加工コンサルティングなども事業内容としており、設計製造から品質管理及び検査まで自社による一貫体制で行っています。 195」（https://kon-factory.co.jp/publics/index/3/・3回目）
+  - 「今製作所｜月産5個以上の量産品のコストダウン — トップページ | 選ばれる理由 | 複合加工 | 5軸加工 | 5軸加工機による多面加工 | 加工事例 | 得意業界 | SDGsへの取り組み | 保有設備 | 会社概要 | ご相談・お問い合わせ」（https://kon-factory.co.jp/・3回目）
+  - 「有限会社今製作所の会社概要・製品情報 | Metoree会社概要 | 企業情報 | 今仙電機製作所今野製作所 - 企業情報株式会社今井製作所会社概要｜株式会社 今井製作所 — 有限会社今製作所は、1951年に創業した機械部品メーカーです。 自動車エンジン部品の製造及び販売を主な事業とするほか、各種治工具の製造及び販売や部品加工コンサルティングなども事業内容としており、設計製造から品質管理及び検査まで自社による一貫体制で行っています。 1952年の ... 主要取引先 (50音順) 株式会社タチエス／テイ・エス テック株式会社／株式会社東洋シート／日産自動車株式会社／ 日本発条株式会社／本田技研工業株式会社／マツダ株式会社／三菱自動車工業株式会社／ 第四期 2015年 板金事業の新生産管理・見積管理システムを自社開発し、運用開始。 一般社団法人インダストリアル・バリューチェーン・イニシアティ」（https://metoree.com/companies/6338/・3回目）
+  - 「ご相談・お問い合わせ｜「大田区優工場認定」有限会社今製作所｜月産5...お問い合わせ | 今仙電機製作所お問い合わせ - 株式会社 今野製作所お問い合わせフォーム - 株式会社今西製作所お問い合わせ - 有限会社 今製作所 東京都 大田区お問い合わせ - 有限会社岩田製作所 — 「大田区優工場認定」有限会社今製作所｜月産5個以上の量産品のコストダウン ホームページからのお問い合わせに関して 1．お問い合わせいただいた質問に関しては、社内担当部門にて速やかに回答を差し上げられるよう努めます。 2．お問い合わせ内容によっては回答を差し上げるまでにお時間をいただく場合もございますので予めご了承ください。また、土曜日・日曜 ... PAGE TOP 株式会社 今野製作所 トップページ 会社概要 お知らせ 施工実績 採用情報 お問い合わせ スタッフ紹介 Instagramを始めました MOBILE 」（https://kon-factory.co.jp/publics/index/5/・3回目）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- AM関連：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
 
 ## 有限会社伊藤製作所
 - 公式URL：http://www.ito-seisakusyo.ecnet.jp（given）
@@ -4589,6 +5695,115 @@ Panasonic | Cannon | RYOBI | 協和発酵 | 安川情報システム | 安川コ
 - 売上高：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部23頁・検索9回）
 - 取引先：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部23頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部23頁・検索9回）
+
+## 有限会社佐久間製作所
+- 公式URL：http://www.sakuma-ss.com（given）
+- 所在地：東京都西多摩郡奥多摩町丹三郎159-2 [ アクセスマップ ]（http://www.sakuma-ss.com/company.html・1回目）
+- 代表者：佐久間　賢一（http://www.sakuma-ss.com/company.html・1回目）
+- 従業員数：6名（http://www.sakuma-ss.com/company.html・1回目）
+- 取引先：時計メーカー 計器メーカー 電子部品メーカー 自動車部品メーカー 半導体機械メーカー（http://www.sakuma-ss.com/company.html・1回目）
+- 取扱製品：
+  - 「「製品は手元にあるのに設計図がなくて困っている」佐久間製作所では3次元測定器を導入しているため、そのようなお悩みも解決することができます」（https://sakuma-seisakujo.com/service-indivisual/・3回目）
+  - 「そういった場合には、まず製品の形状をデータに落とし込むことが必要です」（https://sakuma-seisakujo.com/service-indivisual/・3回目）
+  - 「佐久間製作所は、3次元測定器を導入していますので、立体形状の製品でもすぐにデータ化し、短納期でお渡しすることが可能です」（https://sakuma-seisakujo.com/service-indivisual/・3回目）
+  - 「製作する製品の形状を図面に起こし、詳細をデータ化していきます」（https://sakuma-seisakujo.com/service-indivisual/・3回目）
+  - 「データを基に各マシンを使用して、製品を形作っていきます」（https://sakuma-seisakujo.com/service-indivisual/・3回目）
+  - 「出来上がった製品を検品し、状態を整えてお客様に納品致します」（https://sakuma-seisakujo.com/service-indivisual/・3回目）
+  - 「設計図のない部品や製品を図面として落とし込むのにも時間をかけずに対応できます」（https://sakuma-seisakujo.com/about/・3回目）
+- 取扱材料：
+  - 「鉄・アルミ・SUS303・SUS304・SUS316・クローム430,416,420・POM(ジュラコン)・チタン」（http://www.sakuma-ss.com/・1回目）
+  - 「鉄・アルミ・SUS303・SUS304・SUS316・クローム430,416,420・POM(ジュラコン)・チタン」（http://www.sakuma-ss.com/company.html・1回目）
+  - 「【材質】C3604BD」（http://www.sakuma-ss.com/products.html・1回目）
+  - 「【材質】C5191B」（http://www.sakuma-ss.com/products.html・1回目）
+  - 「【材質】SUS303」（http://www.sakuma-ss.com/products.html・1回目）
+  - 「【材質】SUS304」（http://www.sakuma-ss.com/products.html・1回目）
+  - 「【材質】20クローム」（http://www.sakuma-ss.com/products.html・1回目）
+  - 「【材質】A5052」（http://www.sakuma-ss.com/products.html・1回目）
+  - 「【材質】A5056」（http://www.sakuma-ss.com/products.html・1回目）
+  - 「鉄・アルミ・SUS303・SUS304・SUS316・クローム430,416,420・POM(ジュラコン)・チタン」（http://www.sakuma-ss.com/products.html・1回目）
+  - 「鉄・アルミ・SUS303・SUS304・SUS316・クローム430,416,420・POM(ジュラコン)・チタン」（http://www.sakuma-ss.com/equipment.html・1回目）
+  - 「東京都墨田区の金属加工、樹脂加工｜佐久間製作所」（https://sakuma-seisakujo.com/service-indivisual/・3回目）
+- 一点物・少量多品種：
+  - 「航空機部品、医療部品、空調部品の試作・単品加工から量産まで【精密加工、薄肉加工】」（http://www.sakuma-ss.com/・1回目）
+  - 「中でもΦ20以内、肉厚が0.3mm程度の薄肉仕上げを得意としており、小ロットでの製造でお受けしております」（http://www.sakuma-ss.com/・1回目）
+  - 「航空機部品、医療部品、空調部品の試作・精密部品加工事例｜佐久間製作所」（http://www.sakuma-ss.com/products.html・1回目）
+  - 「また、ワイヤー加工のみ、マシニング加工のみ、多品種・小ロットなど細かい仕事も承っておりますので、お困りの際にはぜひご相談ください」（https://sakuma-seisakujo.com/service-indivisual/・3回目）
+- 製品分野：
+  - 「航空機部品、医療部品、空調部品の試作・単品加工から量産まで【精密加工、薄肉加工】」（http://www.sakuma-ss.com/・1回目）
+  - 「医療部品や航空機部品や携帯部品、モーター部品、自動車部品など幅広い実績があります」（http://www.sakuma-ss.com/・1回目）
+  - 「オーディオ機器・ＯＡ機器・遊戯機器・医療機器・自動車機器・飛行機機器・通信機器等の各業種のお客様にささえられ今日に至ってまいりました」（http://www.sakuma-ss.com/company.html・1回目）
+  - 「航空機部品、医療部品、空調部品の試作・精密部品加工事例｜佐久間製作所」（http://www.sakuma-ss.com/products.html・1回目）
+  - 「【お車でお越しになる場合】中央連絡自動車道 青梅インター又は日の出インターより約20km」（http://www.sakuma-ss.com/access.html・1回目）
+- AM関連：
+  - 「https://www.yamashin-ss.com/」（https://sakuma-seisakujo.com/about/company/・3回目）
+- 連絡先：
+  - 「お問い合わせ｜３次元測定器で即データ化」（https://sakuma-seisakujo.com/contact/・3回目）
+  - 「当社は，ユーザーが利用登録をする際に氏名，生年月日，住所，電話番号，メールアドレス，銀行口座番号，クレジットカード番号，運転免許証番号などの個人情報をお尋ねすることがあります」（https://sakuma-seisakujo.com/contact/・3回目）
+  - 「ユーザーにお知らせや連絡をするためにメールアドレスを利用する場合やユーザーに商品を送付したり必要に応じて連絡したりするため，氏名や住所などの連絡先情報を利用する目的」（https://sakuma-seisakujo.com/contact/・3回目）
+  - 「ユーザーからのお問い合わせに対応するために，お問い合わせ内容や代金の請求に関する情報など当社がユーザーに対してサービスを提供するにあたって必要となる情報や，ユーザーのサービス利用状況，連絡先情報などを利用する目的」（https://sakuma-seisakujo.com/contact/・3回目）
+- 検索結果の抜粋：
+  - 「NC自動旋盤加工なら佐久間製作所へ！精密小物の自動旋盤加工の佐久間... — 薄肉加工と精密加工 複合旋盤を用いた切削加工により、精密部品の製造を行っています。 中でもΦ20以内、肉厚が0.3mm程度の薄肉仕上げを得意としており、小ロットでの製造でお受けしております。」（http://www.sakuma-ss.com/・3回目）
+  - 「個人の方へ｜3次元測定器で即データ化。東京都墨田区の金属加工、樹脂... — 短納期対応 自分で製作した物を量産したい。 そういった場合には、まず製品の形状をデータに落とし込むことが必要です。 佐久間製作所は、3次元測定器を導入していますので、立体形状の製品でもすぐにデータ化し、短納期でお渡しすることが可能です ...」（https://sakuma-seisakujo.com/service-indivisual/・3回目）
+  - 「佐久間製作所について｜3次元測定器で即データ化。東京都墨田区の金属... — 佐久間製作所は 「3次元測定器によるデータ化」「半世紀磨き続けてきた技術に裏打ちされた実績と信頼」 「少ロットからでも対応できる商品開発サポート」 という3つの強み・特徴を持っています。」（https://sakuma-seisakujo.com/about/・3回目）
+  - 「会社概要｜3次元測定器で即データ化。東京都墨田区の金属加工、樹脂加... — 会社名 有限会社 佐久間製作所 設立年月日 1965年9月20日 代表者名 佐久間 浩一 所在地 131-0046 東京都墨田区京島1丁目21-1 電話番号 03-3617-6223 FAX 03-3617-6224」（https://sakuma-seisakujo.com/about/company/・3回目）
+  - 「会社案内｜薄肉加工・精密加工の佐久間製作所佐久間製作所 - 会社概要株式会社佐久間製作所の会社概要とプレスリリース企業概要 | 株式会社 佐久間株式会社佐久間製作所（東京都）の会社概要・役員 | Compalyze — 弊社は、過去に蓄積して来た技術と経験を基として未来に向け会社作りに向かってまいります。 これからもお客様の幅広いニーズに応えるべく生産技術向上を目指してまいります。 企業プロフィール 企業名 佐久間製作所 企業名かな さくませいさくしょ 住所 〒198-0104 東京都西多摩郡奥多摩町丹三郎159−2 ホームページ 佐久間製作所のホームページ 法人概要 株式会社佐久間製作所（サクマセイサクジョ）は、2015年設立の東京都大田区西蒲田3丁目11番2号に所在する法人です（法人番号: 1010801019245）。 最終登記更新は2019/06/03で、新規を実施しました。 掲載」（http://www.sakuma-ss.com/company.html・3回目）
+  - 「佐久間製作所 - 会社概要 — 企業プロフィール 企業名 佐久間製作所 企業名かな さくませいさくしょ 住所 〒198-0104 東京都西多摩郡奥多摩町丹三郎159−2 ホームページ 佐久間製作所のホームページ」（https://www.atengineer.com/pr/sakumass/company・3回目）
+  - 「株式会社佐久間製作所の会社概要とプレスリリース — 法人概要 株式会社佐久間製作所（サクマセイサクジョ）は、2015年設立の東京都大田区西蒲田3丁目11番2号に所在する法人です（法人番号: 1010801019245）。 最終登記更新は2019/06/03で、新規を実施しました。 掲載中の法令違反/処分/ブラック情報はありません。」（https://companydata.tsujigawa.com/company2/1010801019245/・3回目）
+  - 「お問い合わせ｜薄肉加工・精密加工の佐久間製作所 — お問い合わせ｜薄肉加工・精密加工の佐久間製作所 個人情報保護方針 本入力フォームおよびメールでご連絡頂きました、お客様の個人情報につきましては、厳重に管理を行っております。」（https://www.sakuma-ss.com/contact.html・3回目）
+- 事業内容：記載なし（3回確認済み：公式5頁／PDF・画像12件／外部10頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像12件／外部10頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式5頁／PDF・画像12件／外部10頁・検索9回）
+
+## 有限会社佐藤精密 本社
+- 公式URL：https://www.satoseimitsu.co.jp（given）
+- 所在地：〒379-2201 群馬県伊勢崎市間野谷町872-12 電話：0270-61-8617 FAX：0270-61-8618 事務所（本社）： 〒152-0002 東京都目黒区目黒本町3-6-9 長谷川ビル302号 電話：03-3792-6207（https://satoseimitsu.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/・1回目）
+- 事業内容：金属加工業 1) 機械部品の製造・試作（実績：産業機械、レーザー溶接機等の工具、貴金属加工機械、治具、医療用機械などの機械・装置） 2) ガラス用金型の製造（実績：食器類、花瓶、風鈴、照明器具、ガラスレンガなど各種ガラス製品・工芸品の吹き型、スピン型、流し込み型、押し型） 3) 試験片・テストピースの製造（実績：ハステロイ、インコネル等の難削材） 4) 機械設備の設計、製造、組立、メンテナス・保守（実績：製袋機） 5) 規格品・市販品、既存部品などの追加工 6) その他、金属製品または樹脂・プラスチック製品の製造（https://satoseimitsu.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/・1回目）
+- 事業内容：T3013202002900（https://satoseimitsu.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/・1回目）
+- 代表者：contact@satoseimitsu.co.jp（https://satoseimitsu.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/・1回目）
+- 代表者：佐藤有里、堀口祥弘（https://satoseimitsu.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/・1回目）
+- 取扱製品：
+  - 「2) ガラス用金型の製造（実績：食器類、花瓶、風鈴、照明器具、ガラスレンガなど各種ガラス製品・工芸品の吹き型、スピン型、流し込み型、押し型）」（https://satoseimitsu.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/・1回目）
+  - 「6) その他、金属製品または樹脂・プラスチック製品の製造」（https://satoseimitsu.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/・1回目）
+  - 「当社では、加工後の製品について、図面寸法および外観を確認したうえで出荷しております」（https://satoseimitsu.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/%E6%A9%9F%E6%A2%B0%E8%A8%AD%E5%82%99/・1回目）
+  - 「製品・サービス(0)」（https://mono.ipros.com/company/detail/2112466/・3回目）
+  - 「製品・サービス (0)」（https://mono.ipros.com/company/detail/2112466/・3回目）
+  - 「※試作品や試験片・テストピース、機械の消耗部品、受注生産の製品の部品など、さまざまなご相談があります」（https://mono.ipros.com/company/detail/2112466/・3回目）
+- 取扱材料：
+  - 「6) その他、金属製品または樹脂・プラスチック製品の製造」（https://satoseimitsu.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/・1回目）
+  - 「難削材を含む、さまざまな材質・サイズに対応しながら、」（https://satoseimitsu.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/%E6%A9%9F%E6%A2%B0%E8%A8%AD%E5%82%99/・1回目）
+  - 「佐藤精密では、ワークのサイズや形状、材質などに合わせて、」（https://satoseimitsu.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/%E6%A9%9F%E6%A2%B0%E8%A8%AD%E5%82%99/・1回目）
+  - 「銀、純銅、銅合金（黄銅／真鍮、りん青銅、クローム銅、ベリリウム銅）、純チタン、アルミニウム合金（AU2011、A2017、A5056、A6063）、ニッケル合金（ハステロイC276 / Alloy-C276、ハステロイC22 / Alloy-C22、Alloy-600）」（https://mono.ipros.com/company/detail/2112466/・3回目）
+  - 「テフロン（フッ素樹脂）、ポリアセタール／POM、ピーク材、MCナイロン、木材」（https://mono.ipros.com/company/detail/2112466/・3回目）
+- 一点物・少量多品種：
+  - 「機械部品もガラス用金型も単品・小ロット対応」（https://satoseimitsu.co.jp/・1回目）
+  - 「試作・追加工も1個から」（https://satoseimitsu.co.jp/・1回目）
+  - 「創業当初より、職人の手で加工するからこその柔軟性にこだわり、単品・小ロット、試作品・特注品、 難削材の加工などで重宝されてきました」（https://satoseimitsu.co.jp/・1回目）
+  - 「プログラミングが不要ですぐに加工を始められる汎用機械は、低コスト・短納期で単品や小ロットの加工ができます」（https://satoseimitsu.co.jp/・1回目）
+  - 「アイデアを形にするための試作品、材料の性質を調査する試験片・テストピース、長年使用している機械の消耗部品、受注生産品の特注部品など、さまざまなご相談があります」（https://satoseimitsu.co.jp/・1回目）
+  - 「試作から追加工、難削材まで熟練技能にお任せください」（https://satoseimitsu.co.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/・1回目）
+  - 「試作から追加工、難削材まで熟練技能にお任せください」（https://satoseimitsu.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/・1回目）
+  - 「1) 機械部品の製造・試作（実績：産業機械、レーザー溶接機等の工具、貴金属加工機械、治具、医療用機械などの機械・装置）」（https://satoseimitsu.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/・1回目）
+  - 「試作から追加工、難削材まで熟練技能にお任せください」（https://satoseimitsu.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/%E6%A9%9F%E6%A2%B0%E8%A8%AD%E5%82%99/・1回目）
+  - 「【単品・小ロット専門】旋盤・フライス加工の熟練技能で「必要なときに必要なだけ」を叶える！機械部品からガラス用金型まで」（https://mono.ipros.com/company/detail/2112466/・3回目）
+  - 「※試作品や試験片・テストピース、機械の消耗部品、受注生産の製品の部品など、さまざまなご相談があります」（https://mono.ipros.com/company/detail/2112466/・3回目）
+- 製品分野：
+  - 「機械部品もガラス用金型も単品・小ロット対応」（https://satoseimitsu.co.jp/・1回目）
+  - 「1) 機械部品の製造・試作（実績：産業機械、レーザー溶接機等の工具、貴金属加工機械、治具、医療用機械などの機械・装置）」（https://satoseimitsu.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/・1回目）
+  - 「2) ガラス用金型の製造（実績：食器類、花瓶、風鈴、照明器具、ガラスレンガなど各種ガラス製品・工芸品の吹き型、スピン型、流し込み型、押し型）」（https://satoseimitsu.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/・1回目）
+  - 「上越クリスタル硝子さん向けの金型は、この10尺旋盤をよく使用していました」（https://satoseimitsu.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/%E6%A9%9F%E6%A2%B0%E8%A8%AD%E5%82%99/・1回目）
+  - 「【単品・小ロット専門】旋盤・フライス加工の熟練技能で「必要なときに必要なだけ」を叶える！機械部品からガラス用金型まで」（https://mono.ipros.com/company/detail/2112466/・3回目）
+- 連絡先：
+  - 「contact@satoseimitsu.co.jp」（https://satoseimitsu.co.jp/・1回目）
+  - 「お問い合わせ・お見積もり | 東京都目黒区の有限会社 佐藤精密」（https://satoseimitsu.co.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/・1回目）
+  - 「contact@satoseimitsu.co.jp」（https://satoseimitsu.co.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/・1回目）
+  - 「下記メールアドレスより返信させていただきます」（https://satoseimitsu.co.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/・1回目）
+  - 「contact@satoseimitsu.co.jp」（https://satoseimitsu.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/・1回目）
+  - 「contact@satoseimitsu.co.jp」（https://satoseimitsu.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/%E6%A9%9F%E6%A2%B0%E8%A8%AD%E5%82%99/・1回目）
+- 従業員数：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部9頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部9頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部9頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部9頁・検索9回）
+- AM関連：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部9頁・検索9回）
 
 ## 有限会社双葉螺子製作所
 - 公式URL：http://www.futaba-grinder.co.jp（given）
@@ -4685,6 +5900,153 @@ Panasonic | Cannon | RYOBI | 協和発酵 | 安川情報システム | 安川コ
 - 従業員数：記載なし（3回確認済み：公式7頁／PDF・画像2件／外部17頁・検索9回）
 - 売上高：記載なし（3回確認済み：公式7頁／PDF・画像2件／外部17頁・検索9回）
 - 取引先：記載なし（3回確認済み：公式7頁／PDF・画像2件／外部17頁・検索9回）
+
+## 有限会社吉川製作所
+- 公式URL：http://www.yoshikawa-eng.com（given）
+- 所在地：静岡県駿東郡清水町伏見517-1（https://www.yoshikawa-eng.com/information.html・1回目）
+- 事業内容：本社工場のご案内（https://www.yoshikawa-eng.com/・1回目）
+- 事業内容：TEL (055) 976 - 0300 FAX (055) 976 - 0302（https://www.yoshikawa-eng.com/information.html・1回目）
+- 事業内容：本社工場のご案内（https://www.yoshikawa-eng.com/headquater.html・1回目）
+- 取引先：自動車メーカー各社 自動車部品メーカー各社 各種産業機器メーカー各社（https://www.yoshikawa-eng.com/information.html・1回目）
+- 取扱製品：
+  - 「こちらでご覧頂く製品は、吉川製作所がかつて手がけた「」（https://www.yoshikawa-eng.com/product.html・1回目）
+  - 「同一の製品であっても、案件の状況（台数・納期・コスト）によって、最適な手法は千差万別です」（https://www.yoshikawa-eng.com/product.html・1回目）
+  - 「本来であれば鋳造を適用すべき製品ですが、」（https://www.yoshikawa-eng.com/product.html・1回目）
+  - 「加工形状だけでなく、容積管理も求められる製品」（https://www.yoshikawa-eng.com/product.html・1回目）
+  - 「吉川製作所の対応保証は、単なる製品・加工保証にとどまらず、様々なオプションを提供できます」（https://www.yoshikawa-eng.com/product.html・1回目）
+  - 「吉川製作所は、それぞれの持ち味を生かした製品を、一貫対応・一貫保証にてご提供いたします」（https://www.yoshikawa-eng.com/product.html・1回目）
+  - 「製品形状や台数によって、試作手法はさまざまです」（https://www.yoshikawa-eng.com/product.html・1回目）
+  - 「吉川製作所の製品は全て「恒温精密測定室」にて測定が行われています」（https://www.yoshikawa-eng.com/quality.html・1回目）
+  - 「製品納入時には測定データを必ず添付いたします」（https://www.yoshikawa-eng.com/quality.html・1回目）
+  - 「鋳造加工品を一貫製作・一貫保証する上で、自社内にて完成品の素材巣検査が可能であることは製品保証上、大きなメリットになります」（https://www.yoshikawa-eng.com/quality.html・1回目）
+  - 「吉川製作所では検査対象の製品毎に、自社内で適宜作製したワンオフの治具を用い、厳密かつ臨機応変な検査を可能としています」（https://www.yoshikawa-eng.com/quality.html・1回目）
+  - 「製品そのものの精度にとどまらず、作業工程の進め方から測定内容に至るまで、すべてがトレーサビリティ管理された上で、納期・コストも含め、案件全体の管理・運営体制をも意味します」（https://www.yoshikawa-eng.com/quality.html・1回目）
+- 取扱材料：
+  - 「各種アルミニウム合金のほか、マグネシウム・ステンレス・鉄・真鍮・銅などの金属素材、ナイロン・ポリアセタール・ABSといった樹脂材から、チタン等難削材に至るまで、総切削対応いたします」（https://www.yoshikawa-eng.com/product.html・1回目）
+  - 「ダイカスト素材、高熱伝導材などの機能性素材を使用したり、透明な樹脂」（https://mono.ipros.com/company/detail/2046414/category/・3回目）
+  - 「■透明な樹脂素材を制作し、精密加工を施した可視化クリアモデル」（https://mono.ipros.com/company/detail/2046414/category/・3回目）
+- 一点物・少量多品種：
+  - 「吉川製作所 [試作部品製作のトータルメーカー／試作ソリューションサービス]」（https://www.yoshikawa-eng.com/・1回目）
+  - 「試作部品製作のトータルメーカー／試作ソリューションサービス.素材鋳造,複合加工,各種処理,検査,気密試験まで一貫して,フレキシブルかつスピーディーに対応いたします.」（https://www.yoshikawa-eng.com/・1回目）
+  - 「吉川製作所 [試作部品製作のトータルメーカー／試作ソリューションサービス]」（https://www.yoshikawa-eng.com/product.html・1回目）
+  - 「一貫対応・一貫保証による試作部品製作のサンプル」（https://www.yoshikawa-eng.com/product.html・1回目）
+  - 「吉川製作所では、案件に最適な試作手法のプランニングからお手伝いいたします」（https://www.yoshikawa-eng.com/product.html・1回目）
+  - 「高精度の単品加工後、組み付けを行った状態で、共加工」（https://www.yoshikawa-eng.com/product.html・1回目）
+  - 「小物の試作も、様々な手法で・・・」（https://www.yoshikawa-eng.com/product.html・1回目）
+  - 「製品形状や台数によって、試作手法はさまざまです」（https://www.yoshikawa-eng.com/product.html・1回目）
+  - 「吉川製作所 [試作部品製作のトータルメーカー／試作ソリューションサービス]」（https://www.yoshikawa-eng.com/quality.html・1回目）
+  - 「安心できる「異次元の試作品質」を、是非ご活用下さい」（https://www.yoshikawa-eng.com/quality.html・1回目）
+  - 「試作対応上、限られた時間の中でいかに洩れなく正確な検査を行なうことができるか、これらのノウハウは全て「検査基準書」として文書化され、日々の業務に生かされています」（https://www.yoshikawa-eng.com/quality.html・1回目）
+  - 「吉川製作所 [試作部品製作のトータルメーカー／試作ソリューションサービス]」（https://www.yoshikawa-eng.com/equipment.html・1回目）
+- 製品分野：
+  - 「そのためには、工程間の精度への影響を考慮に入れ、非常に精度の高い治具が必要になります」（https://www.yoshikawa-eng.com/product.html・1回目）
+  - 「多岐にわたる工程設定・治具設計すべてにおいて、蓄積されたノウハウが駆使されています」（https://www.yoshikawa-eng.com/product.html・1回目）
+  - 「金型ではできない形状も、砂型であれば可能になります」（https://www.yoshikawa-eng.com/product.html・1回目）
+  - 「吉川製作所では検査対象の製品毎に、自社内で適宜作製したワンオフの治具を用い、厳密かつ臨機応変な検査を可能としています」（https://www.yoshikawa-eng.com/quality.html・1回目）
+  - 「自動車開発試作で培った技術を柱とし、次世代輸送用機器、ロボット、半導体、医療・福祉、」（https://www.yoshikawa-eng.com/information.html・1回目）
+  - 「航空・宇宙、船舶、光学機器、コンシューマー製品などあらゆる分野の試作部品製作を手がけています」（https://www.yoshikawa-eng.com/information.html・1回目）
+  - 「有限会社吉川製作所は、自動車開発試作で培った技術を柱とし、各種輸送用機器、航空・宇宙、船舶、医療・福祉、光学機器、産業機械、コンシューマー製品など、あらゆる分野の試作部品製作を手がける試作部品製作のトータルメーカーです」（https://mono.ipros.com/company/detail/2046414/category/・3回目）
+  - 「特に工作機械や半導体装置他、さまざまな製品に不可欠な気密溶接や高い剛性が求められるフレーム溶接に強みを持ってます」（https://yoshi-kawa.jp/・3回目）
+  - 「車：九州自動車道「久留米IC」より約7分」（https://yoshikawa-ss.jp/company/・3回目）
+  - 「車：九州自動車道「鳥栖IC」より約5分」（https://yoshikawa-ss.jp/company/・3回目）
+- AM関連：
+  - 「「人とくるまのテクノロジー展 2026 YOKOHAMA」（5/27-5/29 パシフィコ横浜）出展」（https://www.yoshikawa-eng.com/・1回目）
+  - 「生産本部長・工程責任者の監督の下、一人ひとりがCAD/CAMから工程段取り・実加工までをトータルでこなす「オールマイティ」な技術者たちによって、無駄なく効率的な製造体制を実現しています」（https://www.yoshikawa-eng.com/equipment.html・1回目）
+  - 「３次元CAD/CAM」（https://www.yoshikawa-eng.com/equipment.html・1回目）
+  - 「Mastercam (Multi-Axis)」（https://www.yoshikawa-eng.com/equipment.html・1回目）
+  - 「試作部品製作受託！3Dプリンターなどの技術を取り入れ、素早い加工を実現！」（https://mono.ipros.com/company/detail/2046414/category/・3回目）
+  - 「3Dプリンター（金属粉末造形）などの手法を取り入れ、」（https://mono.ipros.com/company/detail/2046414/category/・3回目）
+  - 「■3Dプリンターなどの手法を取り入れ、素早い加工を実現」（https://mono.ipros.com/company/detail/2046414/category/・3回目）
+  - 「■金属粉末造形（3Dプリンター）からの精密加工」（https://mono.ipros.com/company/detail/2046414/category/・3回目）
+- 連絡先：
+  - 「mail : info@yoshikawa-eng.com」（https://www.yoshikawa-eng.com/・1回目）
+  - 「品質マネジメントシステムに関するお問い合わせ窓口」（https://www.yoshikawa-eng.com/quality.html・1回目）
+  - 「当社の品質マネジメントに関するお問い合わせは下記窓口にお願い致します」（https://www.yoshikawa-eng.com/quality.html・1回目）
+  - 「info@yoshikawa-eng.com （お問い合わせ）」（https://www.yoshikawa-eng.com/information.html・1回目）
+  - 「詳しくはお問い合わせ、またはカタログをダウンロードしてください」（https://mono.ipros.com/company/detail/2046414/category/・3回目）
+  - 「※ご入力いただいた情報は、お問い合わせ対応の目的にのみ使用し、」（https://yoshi-kawa.jp/・3回目）
+  - 「修理サポートのご相談や、お電話でのお問い合わせはこちらへ」（https://yoshikawa-ss.jp/contact/・3回目）
+  - 「お問合せは、下記メールアドレスまでご連絡ください」（https://www.ysb-brake.co.jp/contact.php・3回目）
+  - 「弊社への営業メールは、お客様へのサービス対応の障害になりますのでご遠慮ください」（https://www.ysb-brake.co.jp/contact.php・3回目）
+- 検索結果の抜粋：
+  - 「吉川製作所 [試作部品製作のトータルメーカー／試作ソリューションサ... — 有限会社吉川製作所 代表取締役社長 吉川大輔 五軸加工機9台体制にて稼働中 品質マネジメントシステム ISO9001 認証取得 環境マネジメントシステム KES 認証取得 【お問い合わせ窓口はこちら】 吉川製作所 試作ソリューショングループ -メールにて- info ...」（https://www.yoshikawa-eng.com/・3回目）
+  - 「吉川製作所の製品・サービス一覧｜イプロスものづくり — Jun 3, 2015 · 試作部品製作受託！3Dプリンターなどの技術を取り入れ、素早い加工を実現！ 試作部品製作のトータルメーカーである吉川製作所では、 ラピッドプロトタイピングを行っています。 3Dプリンター（金属粉末造形）などの手法を取り入れ、 精密加工することで、素早く加工することを可能にし ...」（https://mono.ipros.com/company/detail/2046414/category/・3回目）
+  - 「吉川製作所吉川製作所のカタログ一覧 | イプロスものづくり試作も、ダイカスト材で。 - 有限会社 吉川製作所試作・小ロット・オーダーメイド - 賀陽技研 — CAD部門 2D·3DCAD部門はお客様の「図面」と実現したアイディアを確実な「製品」へと繋ぐ設計の要です。 単なるデータ制作に留まらず、加工現場の視点を取り入れた「製造のための設計」を実施しています。 Jun 3, 2015 · 吉川製作所は、試作部品製作のトータルメーカー／試作ソリューションサービスの吉川製作所有限会社吉川製作所は、自動車開発試作で培った技術を柱とし、各種輸送用機器、航空・宇宙、船舶、医療・福祉、光学機器、産業機械、コンシューマー製品など ... Dec 5, 2023 · アルミダイカスト材（ADC12）、マグネダイカスト材 (AZ91D)、高熱伝導ダイカスト材 (HT-1、DMS）などを使った試作品 1台から製」（https://yoshi-kawa.jp/・3回目）
+  - 「吉川製作所のカタログ一覧 | イプロスものづくり — Jun 3, 2015 · 吉川製作所は、試作部品製作のトータルメーカー／試作ソリューションサービスの吉川製作所有限会社吉川製作所は、自動車開発試作で培った技術を柱とし、各種輸送用機器、航空・宇宙、船舶、医療・福祉、光学機器、産業機械、コンシューマー製品など ...」（https://mono.ipros.com/company/detail/2046414/catalog/・3回目）
+  - 「会社概要｜【公式】株式会社吉川製作所事業内容｜【公式】株式会社吉川製作所吉川製作所会社概要｜株式会社吉川製作所会社概要 – 吉川製作所吉川製作所 [試作部品製作のトータルメーカー／試作ソリューションサ...吉川製作所 [試作部品製作のトータルメーカー／試作ソリューションサ... — 真空装置のトータルプランナー 吉川トレーディング株式会社 真空業界における専門技術商社であり、真空成膜装置、薄膜材料、消耗品、周辺機器、イオンソースなどの販売、中古製品の売買、保守サービスなど、お客様のニーズに合わせたトータルなサービスをご提案・ご提供いたします。 WEB ... 生産ラインを止めないスピーディできめ細かな対応 50年を超える歴史の中で蓄積したノウハウと最先端の技術で、メーカーを問わず多種多様な真空設備の修理・メンテナンスを行っています。「お客様の生産ラインを絶対に止めない」を大命題に、データベ」（https://ys-vacuum.com/company/profile/・3回目）
+  - 「吉川製作所会社概要｜株式会社吉川製作所会社概要 – 吉川製作所吉川製作所 [試作部品製作のトータルメーカー／試作ソリューションサ...吉川製作所 [試作部品製作のトータルメーカー／試作ソリューションサ... — CAD部門 2D·3DCAD部門はお客様の「図面」と実現したアイディアを確実な「製品」へと繋ぐ設計の要です。 単なるデータ制作に留まらず、加工現場の視点を取り入れた「製造のための設計」を実施しています。 特に、最終的な「擦り合わせ」工程や溶接時の歪みを予測し、最初から最適な展開図を ... FAX 0942-48-0772 営業時間 8:00〜17:00 （※日・祝・第2・第4土曜を除く） 業務内容 設備工事・メンテナンス 管工事 省エネ・環境対応 冷媒フロン回収 核シェルター 会社情報 お客様の声 会社概要 採用 お知らせ お問い合わせ 採用情報 プライバシーポリシー 40名（パ」（https://yoshi-kawa.jp/・3回目）
+  - 「会社概要｜株式会社吉川製作所 — FAX 0942-48-0772 営業時間 8:00〜17:00 （※日・祝・第2・第4土曜を除く） 業務内容 設備工事・メンテナンス 管工事 省エネ・環境対応 冷媒フロン回収 核シェルター 会社情報 お客様の声 会社概要 採用 お知らせ お問い合わせ 採用情報 プライバシーポリシー」（https://yoshikawa-ss.jp/company/・3回目）
+  - 「会社概要 – 吉川製作所 — 40名（パート含む） 事業内容 プリント基板への部品実装・組立てアセンブリ 電源回路設計及び製造 各種電子機器の製造 加入団体 上野商工会議所 伊賀法人会 伊賀情報ネットワーク共同組合 三重県地域活性化雇用創造プロジェクト 賛助会員 三重TLO 一般会員」（https://www.yskw-ss.co.jp/?page_id=13・3回目）
+  - 「吉川製作所 [試作部品製作のトータルメーカー／試作ソリューションサ... — 事業内容 試作部品製作のトータルメーカー 自動車開発試作で培った技術を柱とし、次世代輸送用機器、ロボット、半導体、医療・福祉、 航空・宇宙、船舶、光学機器、コンシューマー製品などあらゆる分野の試作部品製作を手がけています。 試作ソリューションサービス 試作のノウハウを ...」（https://www.yoshikawa-eng.com/information.html・3回目）
+  - 「お問い合わせ – 吉川製作所 — お問い合わせ お問い合わせ先 本社工場 工場長 籔本 達也 設計・開発室 取締役室長 大川内 治 お問い合わせフォーム 以下の項目にご記入のうえ、送信内容の確認ボタンを押してください。 必須 がついている項目は、必ずご記入をお願いいたします。」（http://www.yskw-ss.co.jp/contact/・3回目）
+  - 「お問い合わせ｜株式会社吉川製作所 — 株式会社 吉川製作所 本社：福岡県久留米市高良内町字池田19-2 工場：佐賀県鳥栖市曽根崎町1742-1 本社TEL 0942-43-5938 FAX 0942-48-0772 営業時間 8:00〜17:00 （※日・祝・第2・第4土曜を除く） 業務内容」（https://yoshikawa-ss.jp/contact/・3回目）
+  - 「お問合せ - 株式会社吉川製作所 — お問合せ お問合せは、下記メールアドレスまでご連絡ください。 info@ysb-brake.co.jp このアドレスは、弊社製品に関連する商品の問い合わせ専用です。 弊社への営業メールは、お客様へのサービス対応の障害になりますのでご遠慮ください。」（https://www.ysb-brake.co.jp/contact.php・3回目）
+- 代表者：記載なし（3回確認済み：公式6頁／PDF・画像12件／外部13頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式6頁／PDF・画像12件／外部13頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式6頁／PDF・画像12件／外部13頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式6頁／PDF・画像12件／外部13頁・検索9回）
+
+## 有限会社寺本木型製作所
+- 公式URL：http://teramotokigata.sakura.ne.jp（given）
+- 事業内容：ホーム ご挨拶 会社概要 業務内容 機械設備  会社概要 社名                   
+      有限会社　寺本木型製作所 代表取締役          
+      寺本　衛 本社                    
+      〒124-0012　東京都葛飾区立石1-22-14 電話番号              
+      03-3694-2526 ＦＡＸ                     
+      03-3691-6914 設立 昭和35年9月30日 資本金                 
+      300万円 取引銀行             
+      東栄信用金庫立石支店（http://teramotokigata.sakura.ne.jp/gaiyou.html・1回目）
+- 取扱製品：
+  - 「す、東京下町で昭和時代から自動車部品の型、電子部品トレーの型、医療器具の型、プラスチック製品の型、ゴム製品の型などあらゆる型の製作をしています」（http://teramotokigata.sakura.ne.jp/・1回目）
+  - 「木型製作から金型製作、試作モデル製作、少量製品加工までものづくりのことなら何でもお気軽にご相談ください」（http://teramotokigata.sakura.ne.jp/・1回目）
+  - 「製品・サービス(0)」（https://mono.ipros.com/company/detail/2033085/・3回目）
+  - 「東京下町で昭和時代から自動車部品の型、電子部品トレーの型、医療器具の型、プラスチック製品の型、ゴム製品の型などあらゆる型の製作をしています」（https://mono.ipros.com/company/detail/2033085/・3回目）
+  - 「弊社ではお客様のご要望に応えるため各種型製作や試作モデルを専門にし、木型から金型、加工治具、検査治具、少量製品加工まで、ものづくりのことなら何でもお気軽にご相談ください」（https://mono.ipros.com/company/detail/2033085/・3回目）
+  - 「プラスチック製品、ゴム製品の型」（https://mono.ipros.com/company/detail/2033085/・3回目）
+  - 「【業務内容】木型製作、試作モデル、各種成形品金型、治具、検査治具製作、3次元CAD/CAM加工、3次元複雑形状マニュアル加工、小ロットプラスチック製品加工」（https://mono.ipros.com/company/detail/2033085/・3回目）
+  - 「製品・サービス (0)」（https://mono.ipros.com/company/detail/2033085/・3回目）
+  - 「製品・研究開発（建築・土木・プラント・設備）」（https://ja.nc-net.or.jp/company/73286/inquiry/input/・3回目）
+- 一点物・少量多品種：
+  - 「木型製作から金型製作、試作モデル製作、少量製品加工までものづくりのことなら何でもお気軽にご相談ください」（http://teramotokigata.sakura.ne.jp/・1回目）
+  - 「弊社ではお客様のご要望に応えるため各種型製作や試作モデルを専門にし、木型から金型、加工治具、検査治具、少量製品加工まで、ものづくりのことなら何でもお気軽にご相談ください」（https://mono.ipros.com/company/detail/2033085/・3回目）
+  - 「【業務内容】木型製作、試作モデル、各種成形品金型、治具、検査治具製作、3次元CAD/CAM加工、3次元複雑形状マニュアル加工、小ロットプラスチック製品加工」（https://mono.ipros.com/company/detail/2033085/・3回目）
+- 製品分野：
+  - 「す、東京下町で昭和時代から自動車部品の型、電子部品トレーの型、医療器具の型、プラスチック製品の型、ゴム製品の型などあらゆる型の製作をしています」（http://teramotokigata.sakura.ne.jp/・1回目）
+  - 「木型製作から金型製作、試作モデル製作、少量製品加工までものづくりのことなら何でもお気軽にご相談ください」（http://teramotokigata.sakura.ne.jp/・1回目）
+  - 「東京下町で昭和時代から自動車部品の型、電子部品トレーの型、医療器具の型、プラスチック製品の型、ゴム製品の型などあらゆる型の製作をしています」（https://mono.ipros.com/company/detail/2033085/・3回目）
+  - 「弊社ではお客様のご要望に応えるため各種型製作や試作モデルを専門にし、木型から金型、加工治具、検査治具、少量製品加工まで、ものづくりのことなら何でもお気軽にご相談ください」（https://mono.ipros.com/company/detail/2033085/・3回目）
+  - 「自動車部品の型、電子部品のトレーの型」（https://mono.ipros.com/company/detail/2033085/・3回目）
+  - 「【業務内容】木型製作、試作モデル、各種成形品金型、治具、検査治具製作、3次元CAD/CAM加工、3次元複雑形状マニュアル加工、小ロットプラスチック製品加工」（https://mono.ipros.com/company/detail/2033085/・3回目）
+- AM関連：
+  - 「3次元CAD/CAM（対応DATA iges,dxf、他）」（http://teramotokigata.sakura.ne.jp/kikai.html・1回目）
+  - 「2.５次元CAD/CAM（対応DATA」（http://teramotokigata.sakura.ne.jp/kikai.html・1回目）
+  - 「【業務内容】木型製作、試作モデル、各種成形品金型、治具、検査治具製作、3次元CAD/CAM加工、3次元複雑形状マニュアル加工、小ロットプラスチック製品加工」（https://mono.ipros.com/company/detail/2033085/・3回目）
+  - 「teramotokigata@wing.ocn.ne.jp」（http://www.teramotokigata.sakura.ne.jp/contact.html・3回目）
+- 連絡先：
+  - 「お問い合わせ - 有限会社 寺本木型製作所 東京都 葛飾区」（https://ja.nc-net.or.jp/company/73286/inquiry/input/・3回目）
+  - 「当社からの連絡に必要な電子メールアドレスを用意してそのアドレスを当社に対して登録すること」（https://ja.nc-net.or.jp/company/73286/inquiry/input/・3回目）
+  - 「当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします」（https://ja.nc-net.or.jp/company/73286/inquiry/input/・3回目）
+  - 「かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします」（https://ja.nc-net.or.jp/company/73286/inquiry/input/・3回目）
+- 検索結果の抜粋：
+  - 「オーダーメード製作｜有限会社寺本製作所（公式ホームページ）寺本木型製作所 | 企業情報 | イプロスものづくり有限会社 寺本木型製作所製品（金型・レーザー加工）｜有限会社寺本製作所（公式ホームページ...有限会社 寺本木型製作所 東京都 葛飾区有限会社 寺本木型製作所木型 (試作) - メーカー・企業と業務用製品 | イプロスものづくり — 2．見積もり・ご発注 打ち合わせ内容をもとに仕様書と見積書を作成し、提案させていただきます。 内容に問題なければご発注いただきます。 ※ご発注前の試作品製作についてはご相談ください。 Jan 17, 2019 · 弊社ではお客様のご要望に応えるため各種型製作や試作モデルを専門にし、木型から金型、加工治具、検査治具、少量製品加工まで、ものづくりのことなら何でもお気軽にご相談ください。 機械で出来ない複雑な加工を手加工で製作。 成型木型 小ロット製品加工 」（https://teramoto-ss.jp/pages/57/・3回目）
+  - 「寺本木型製作所 | 企業情報 | イプロスものづくり有限会社 寺本木型製作所製品（金型・レーザー加工）｜有限会社寺本製作所（公式ホームページ...有限会社 寺本木型製作所 東京都 葛飾区有限会社 寺本木型製作所木型 (試作) - メーカー・企業と業務用製品 | イプロスものづくり — Jan 17, 2019 · 弊社ではお客様のご要望に応えるため各種型製作や試作モデルを専門にし、木型から金型、加工治具、検査治具、少量製品加工まで、ものづくりのことなら何でもお気軽にご相談ください。 機械で出来ない複雑な加工を手加工で製作。 成型木型 小ロット製品加工 他、、一般鋳造型、注型、倣い型モデル、ブロー型モデル、ZAS型、曲型、NC加工治具など様々な加工に対応しておりますのでお気軽にご相談ください。 まで各種ご相談に応じます。 お見積り・お問い合わせはこちら 0968-73-8628 Dec 9,」（https://mono.ipros.com/company/detail/2033085/・3回目）
+  - 「有限会社 寺本木型製作所 — 成型木型 小ロット製品加工 他、、一般鋳造型、注型、倣い型モデル、ブロー型モデル、ZAS型、曲型、NC加工治具など様々な加工に対応しておりますのでお気軽にご相談ください。 まで各種ご相談に応じます。」（http://teramotokigata.sakura.ne.jp/gyoumu.html・3回目）
+  - 「製品（金型・レーザー加工）｜有限会社寺本製作所（公式ホームページ...有限会社 寺本木型製作所 東京都 葛飾区有限会社 寺本木型製作所木型 (試作) - メーカー・企業と業務用製品 | イプロスものづくり — お見積り・お問い合わせはこちら 0968-73-8628 Dec 9, 2020 · 3次元CAD/CAM加工、鋳物木型製作、ゴム型設計製作、試作モデル製作、真空、圧空成形型設計製作、プレス治具、検査治具製作、3次元複雑形状マニュアル加工、小ロット製品加工 有限会社 寺本木型製作所のホームページをご覧いただきありがとうございま す、東京下町で昭和時代から自動車部品の型、電子部品トレーの型、医療器具の型、プラスチック製品の型、ゴム製品の型などあらゆる型の製作をしています。 Oct 14, 2026 · 50角の小さい製品から1000角の大きい製品まで対応できます。 また、設計も承ってお」（https://teramoto-ss.jp/pages/51/・3回目）
+  - 「有限会社 寺本木型製作所 東京都 葛飾区 — Dec 9, 2020 · 3次元CAD/CAM加工、鋳物木型製作、ゴム型設計製作、試作モデル製作、真空、圧空成形型設計製作、プレス治具、検査治具製作、3次元複雑形状マニュアル加工、小ロット製品加工」（https://ja.nc-net.or.jp/company/73286/・3回目）
+  - 「事業内容｜有限会社寺本製作所（公式ホームページ）有限会社寺本製作所（公式ホームページ）有限会社 寺本木型製作所有限会社 寺本木型製作所有限会社 寺本木型製作所 東京都 葛飾区有限会社寺本木型製作所（東京都葛飾区） 概要 - 企業情報寺本木型製作所 の企業情報 | バフェット・コード — また、自社内で長年にわたり蓄積されたデータをもとにCADによる効率的な設計を行い順送型、単発型や絞り型など多種多様な金型を製作させていただいております。 Feb 28, 2023 · ★寺本製作所では、主に自動車部品、二輪車、農機具メーカーからの独自オーダーも含め製造、加工で高品質な製品を製作しています。 また、塑性加工後の切削、 研磨、製造、高周波熱処理をインラインで行い、一貫加工できるのが当社の強みです。 木型製作から金型製作、試作モデル製作、少量製品加工までものづくりのことなら何でもお気軽にご相談くだ」（https://teramoto-ss.jp/pages/52/・3回目）
+  - 「有限会社 寺本木型製作所 — 木型製作から金型製作、試作モデル製作、少量製品加工までものづくりのことなら何でもお気軽にご相談ください。 よろしくお願いします。 Copyright (C)2008 有限会社 寺本木型製作所 All Rights Reserved. Template design by Nikukyu-Punch*」（http://teramotokigata.sakura.ne.jp/・3回目）
+  - 「有限会社 寺本木型製作所 — 会社概要 社名 有限会社 寺本木型製作所 代表取締役 寺本 衛 本社 〒124-0012 東京都葛飾区立石1-22-14 電話番号 03-3694-2526 FAX 03-3691-6914」（https://teramotokigata.sakura.ne.jp/gaiyou.html・3回目）
+  - 「有限会社寺本木型製作所（東京都葛飾区） 概要 - 企業情報 — Oct 5, 2015 · 有限会社寺本木型製作所 is a limited company (yugen gaisha) with its head office in Katsushika-Ku, Tokyo, Japan.」（https://data-link-plus.com/jp/corporation/5011802005321・3回目）
+  - 「寺本木型製作所 の企業情報 | バフェット・コード — 事業内容 有限会社寺本木型製作所は、東京下町を拠点に自動車部品の型、電子部品トレーの型、医療器具の型、プラスチック製品やゴム製品の型など、幅広い分野の木型・金型製作を手掛ける企業です。」（https://www.buffett-code.com/company/fm6pmaqofc/・3回目）
+  - 「お問い合わせ｜有限会社寺本製作所（公式ホームページ）有限会社 寺本木型製作所お問い合わせ - 有限会社 寺本木型製作所 東京都 葛飾区お問い合わせ - matsumoto-k.orgお問い合わせ - 株式会社 寺本木材 - グーペお問い合わせ | 株式会社寺本木材｜吉野杉、吉野桧の販売・製材有限会社 寺本木型製作所 — 回答に時間がかかる場合がありますので、お急ぎの方はお電話にてお問い合わせください。 返信メールをお受け取りいただけるよう、受信設定（迷惑メール設定）等をお確かめください。 お問い合わせ TEL 03-3694-2526 FAX 03-3691-6914 E-MAIL teramotokigata@wing.ocn.ne.jp 〒124-0012 東京都葛飾区立石1-22-14 有限会社 寺本木型製作所 有限会社 寺本木型製作所へのお問い合わせ 会員の方はこちら ログイン後、」（https://teramoto-ss.jp/pages/5/・3回目）
+  - 「有限会社 寺本木型製作所 — お問い合わせ TEL 03-3694-2526 FAX 03-3691-6914 E-MAIL teramotokigata@wing.ocn.ne.jp 〒124-0012 東京都葛飾区立石1-22-14 有限会社 寺本木型製作所」（http://www.teramotokigata.sakura.ne.jp/contact.html・3回目）
+- 所在地：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索9回）
+- 取扱材料：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索9回）
 
 ## 有限会社小川製作所
 - 公式URL：https://ogwss.co.jp（given）
@@ -4851,6 +6213,106 @@ Panasonic | Cannon | RYOBI | 協和発酵 | 安川情報システム | 安川コ
 - 代表者：記載なし（3回確認済み：公式13頁／PDF・画像0件／外部17頁・検索9回）
 - 売上高：記載なし（3回確認済み：公式13頁／PDF・画像0件／外部17頁・検索9回）
 - 取引先：記載なし（3回確認済み：公式13頁／PDF・画像0件／外部17頁・検索9回）
+
+## 有限会社小桜 本社
+- 公式URL：https://www.kozakura-ltd.com（given）
+- 所在地：本社・工場 〒184-0005　東京都小金井市桜町2-12-40（https://www.kozakura-ltd.com/company.html・1回目）
+- 事業内容：各種金属部品精密加工 大型部品加工・組立 新規・改造設計業務（https://www.kozakura-ltd.com/company.html・1回目）
+- 事業内容：T2012402004930（https://www.kozakura-ltd.com/company.html・1回目）
+- 代表者：田中　恒（https://www.kozakura-ltd.com/company.html・1回目）
+- 従業員数：9名（https://www.kozakura-ltd.com/company.html・1回目）
+- 取扱製品：
+  - 「製品・サービス(2)」（https://mono.ipros.com/company/detail/2070962/・3回目）
+  - 「製品・サービス (2)」（https://mono.ipros.com/company/detail/2070962/・3回目）
+- 取扱材料：
+  - 「主な材質としてはアルミ・鉄・ステンレスの３種を中心に快削黄銅や真鍮・チタン・樹脂などの特殊材にも対応しております」（https://mono.ipros.com/company/detail/2070962/・3回目）
+  - 「精密機械加工では鉄・ステンレス・アルミ・銅・真鍮・樹脂などの様々な材質を大小多品種・小ロット、試作など幅広く対応し加工しております」（https://mono.ipros.com/company/detail/2070962/・3回目）
+- 一点物・少量多品種：
+  - 「精密機械加工では鉄・ステンレス・アルミ・銅・真鍮・樹脂などの様々な材質を大小多品種・小ロット、試作など幅広く対応し加工しております」（https://mono.ipros.com/company/detail/2070962/・3回目）
+- 製品分野：
+  - 「以来、印刷機・自動車・高周波・超音波・研究機関・工場ライン自動化装置などの幅広い分野の装置の部品供給させて頂いております」（https://www.kozakura-ltd.com/・1回目）
+  - 「当社は創業以来、半導体・印刷機・自動車・高周波・超音波・大学研究機関装置など幅広い分野にサプライヤーとして加工部品の供給を行う加工会社となります」（https://mono.ipros.com/company/detail/2070962/・3回目）
+  - 「印刷機器装置／高周波焼入装置／超音波洗浄装置／自動車製造装置／自動車部品／航空機器部品／半導体製造装置／食品製造装置の架台部品や装置部品一式として納入（装置会社様／加工会社様／商社様を始めとする）」（https://mono.ipros.com/company/detail/2070962/・3回目）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部9頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部9頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部9頁・検索9回）
+- AM関連：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部9頁・検索9回）
+- 連絡先：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部9頁・検索9回）
+
+## 有限会社岩井製作所
+- 公式URL：http://www.iwaiseisakusho.co.jp（given）
+- 所在地：〒273-0128（https://iwaiseisakusho.co.jp/company/・1回目）
+- 事業内容：極小部品加工技術とプロセスイノベーションを用いた課題解決（https://iwaiseisakusho.co.jp/company/・1回目）
+- 従業員数：22名（https://iwaiseisakusho.co.jp/company/・1回目）
+- 従業員数：20名（https://mono.ipros.com/company/detail/2029547/・3回目）
+- 拠点：〒273-0128 千葉県鎌ヶ谷市くぬぎ山3-16（https://iwaiseisakusho.co.jp/company/・1回目）
+- 取扱製品：
+  - 「国内歯科機器メーカーをはじめ医療機器分野(鉗子、ボーンスクリューなど)、工作機械(ワイヤー、放電の軸など)の研究開発、資材、購買に多く納品し、特に極小部品の加工技術に関わる研究開発段階や市場に出た製品の課題・問題解決事例では多くの実績を重ねてきました」（https://iwaiseisakusho.co.jp/company/・1回目）
+  - 「製品開発なら試作から量産まで一貫対応可能な岩井製作所へ！」（https://iwaiseisakusho.co.jp/shisaku/・1回目）
+  - 「試作・製品開発なら岩井製作所へご相談ください」（https://iwaiseisakusho.co.jp/shisaku/・1回目）
+  - 「製品開発段階では、図面通りに作れば良いというものは少なく、求める用途に合わせて図面変更のご提案をさせていただきます」（https://iwaiseisakusho.co.jp/shisaku/・1回目）
+  - 「製品・コンセプト、企画立案」（https://iwaiseisakusho.co.jp/shisaku/・1回目）
+  - 「製品の製造、組み立て」（https://iwaiseisakusho.co.jp/shisaku/・1回目）
+  - 「岩井製作所では、製品開発の企画設計段階から参加することで、製品の加工実現可能性、機構提案等、作る側の観点から製品開発実現のアドバイスをいたします」（https://iwaiseisakusho.co.jp/shisaku/・1回目）
+  - 「製品開発の全体を把握し、どうすればできるかをお客様と一緒に考えプロジェクトを遂行していきます」（https://iwaiseisakusho.co.jp/shisaku/・1回目）
+  - 「現在も調査、研究の段階ではありますが医療分野を日本が成長分野と位置付けていることもあり当社では、これまで培ってきた極小部品づくりの技術を用いて最先端の医療製品の仕事を取り入れていくことを目的とし、レーザー溶接技術を取り入れることにしました」（https://iwaiseisakusho.co.jp/medlical/・1回目）
+  - 「既存製品の涙道内視鏡に使われるコネクタ部分の市場において現状出ている問題についてチャックの機構の改善提案例です」（https://iwaiseisakusho.co.jp/medlical/・1回目）
+  - 「歯科用機器・部材の製品開発・試作なら岩井製作所へ」（https://iwaiseisakusho.co.jp/dental/・1回目）
+  - 「図面が無い状態からでも利用用途に合わせた仕様設計を行い、ご要望に合わせた製品づくりが可能です」（https://iwaiseisakusho.co.jp/dental/・1回目）
+- 取扱材料：
+  - 「微細部品のマグネシウム切削が可能になりました」（https://iwaiseisakusho.co.jp/・1回目）
+  - 「現在使用しているユニット組立品について「女性でも簡単に曲げられるようにしたい」、「見た目にもこだわりたい」というお客様の要望があり、当社で携わらせてもらったところ、当初は材質もそのまま使用し曲げると固く、曲げると表面処理がはがれたりひびが入っていました」（https://iwaiseisakusho.co.jp/medlical/・1回目）
+  - 「そこで材質、焼入れに関して我々のノウハウを入れて工程を変えてみると客先の要求に近い固さが実現できました」（https://iwaiseisakusho.co.jp/medlical/・1回目）
+  - 「材質：SUS440C」（https://iwaiseisakusho.co.jp/dental/・1回目）
+  - 「材質：SUS304」（https://iwaiseisakusho.co.jp/dental/・1回目）
+  - 「サージカルチタンなど医療用材質の試作切削加工なら岩井製作所」（https://iwaiseisakusho.co.jp/difficult/・1回目）
+  - 「チタンは、元素記号 「Ti」で表される銀灰色の金属です」（https://iwaiseisakusho.co.jp/difficult/・1回目）
+  - 「チタン材料は、主に純チタンとチタン合金の２種類に分けることが出来ます」（https://iwaiseisakusho.co.jp/difficult/・1回目）
+  - 「サージカルチタンとも呼ばれますが決まった規格はありません」（https://iwaiseisakusho.co.jp/difficult/・1回目）
+  - 「チタン合金は、医療用だけではなく、原子炉や熱交換器部品にも多く使われますが、ニッケルを含んでいないため、生体に対してアレルギーが発生しにくいのが特徴です」（https://iwaiseisakusho.co.jp/difficult/・1回目）
+- 一点物・少量多品種：
+  - 「岩井製作所では、医療メーカー、大学などの研究機関、病院などから要望をいただき、医療器具の試作開発や製造のお手伝いを行っております」（https://iwaiseisakusho.co.jp/・1回目）
+  - 「他社では難しい小ロットの生産に対応していますのでぜひ一度ご相談ください」（https://iwaiseisakusho.co.jp/company/・1回目）
+  - 「製品開発なら試作から量産まで一貫対応可能な岩井製作所へ！」（https://iwaiseisakusho.co.jp/shisaku/・1回目）
+  - 「試作・製品開発なら岩井製作所へご相談ください」（https://iwaiseisakusho.co.jp/shisaku/・1回目）
+  - 「医療メーカー、大学などの研究機関、病院などから要望をいただき、医療器具の試作開発や製造に数多くの実績がございます」（https://iwaiseisakusho.co.jp/shisaku/・1回目）
+  - 「医療用器具の試作・開発製作なら岩井製作所へ（鉗子・内視鏡部品等）」（https://iwaiseisakusho.co.jp/medlical/・1回目）
+  - 「機構部分の加工から組み立て及びレーザーでの接合までの試作をお手伝いいたしました」（https://iwaiseisakusho.co.jp/medlical/・1回目）
+  - 「締め付けに必要な力量測定：従来品1.25Kgf 試作品1.25Kgf」（https://iwaiseisakusho.co.jp/medlical/・1回目）
+  - 「増し締めした際の頂点の回転距離：従来品1mm 試作品3mm」（https://iwaiseisakusho.co.jp/medlical/・1回目）
+  - 「歯科用機器・部材の製品開発・試作なら岩井製作所へ」（https://iwaiseisakusho.co.jp/dental/・1回目）
+  - 「サージカルチタンなど医療用材質の試作切削加工なら岩井製作所」（https://iwaiseisakusho.co.jp/difficult/・1回目）
+  - 「切削加工による細穴加工や、新規開発部品、少量でのご発注も承っております」（https://mono.ipros.com/company/detail/2029547/・3回目）
+- 製品分野：
+  - 「岩井製作所では、医療メーカー、大学などの研究機関、病院などから要望をいただき、医療器具の試作開発や製造のお手伝いを行っております」（https://iwaiseisakusho.co.jp/・1回目）
+  - 「医療機器製造の資格も取得しておりますので、安心してご発注いただけます」（https://iwaiseisakusho.co.jp/・1回目）
+  - 「弊社では歯科用の機械の部品を主に製作を行っています」（https://iwaiseisakusho.co.jp/company/・1回目）
+  - 「国内歯科機器メーカーをはじめ医療機器分野(鉗子、ボーンスクリューなど)、工作機械(ワイヤー、放電の軸など)の研究開発、資材、購買に多く納品し、特に極小部品の加工技術に関わる研究開発段階や市場に出た製品の課題・問題解決事例では多くの実績を重ねてきました」（https://iwaiseisakusho.co.jp/company/・1回目）
+  - 「歯科機器、工作機械関係の軸、スピンドル、シャフト、ギヤ、小径、六角、ネジ、駆動部に関わる機構部品」（https://iwaiseisakusho.co.jp/company/・1回目）
+  - 「医療メーカー、大学などの研究機関、病院などから要望をいただき、医療器具の試作開発や製造に数多くの実績がございます」（https://iwaiseisakusho.co.jp/shisaku/・1回目）
+  - 「医療機器製造の資格も取得しておりますので、安心してご依頼頂けます」（https://iwaiseisakusho.co.jp/shisaku/・1回目）
+  - 「医療用器具の試作・開発製作なら岩井製作所へ（鉗子・内視鏡部品等）」（https://iwaiseisakusho.co.jp/medlical/・1回目）
+  - 「岩井製作所では、歯科・医療分野で使われるφ25以下の極小部品を主に製造しております」（https://iwaiseisakusho.co.jp/medlical/・1回目）
+  - 「医療部品の例としては「鉗子」で対応させた頂きました」（https://iwaiseisakusho.co.jp/medlical/・1回目）
+  - 「現在も調査、研究の段階ではありますが医療分野を日本が成長分野と位置付けていることもあり当社では、これまで培ってきた極小部品づくりの技術を用いて最先端の医療製品の仕事を取り入れていくことを目的とし、レーザー溶接技術を取り入れることにしました」（https://iwaiseisakusho.co.jp/medlical/・1回目）
+  - 「歯科用機器・部材の製品開発・試作なら岩井製作所へ」（https://iwaiseisakusho.co.jp/dental/・1回目）
+- 連絡先：
+  - 「弊社業務についてのお問い合わせは、こちらで受付しております」（http://www.iwai-ss.co.jp/contact.html・3回目）
+- 検索結果の抜粋：
+  - 「精密部品加工の 試作 から量産まで 岩井製作所 — 精密部品加工の 試作 から量産まで 岩井製作所 岩井製作所 https://iwaiseisakusho.co.jp」（https://iwaiseisakusho.co.jp/・3回目）
+  - 「会社概要 - 岩井製作所 — 会社概要 - 岩井製作所 岩井製作所 https://iwaiseisakusho.co.jp > company」（https://iwaiseisakusho.co.jp/company/・3回目）
+  - 「金属加工のことなら、株式 会社岩井製作所 にお任せください。 — 金属加工のことなら、株式 会社岩井製作所 にお任せください。 株式会社岩井製作所 https://www.iwaiss.co.jp > company」（https://www.iwaiss.co.jp/company/・3回目）
+  - 「岩井製作所 | 企業 情報 | イプロスものづくり — 岩井製作所 | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託」（https://mono.ipros.com/company/detail/2029547/・3回目）
+  - 「会社概要 - 株式会社 岩井製作所 — 会社概要 - 株式会社 岩井製作所 iwai-ss.co.jp http://www.iwai-ss.co.jp > company」（http://www.iwai-ss.co.jp/company.html・3回目）
+  - 「岩井製作所 様 新 事業 進出補助金 採択事例 - シェアビジョン — 岩井製作所 様 新 事業 進出補助金 採択事例 - シェアビジョン シェアビジョン https://svltd.co.jp > cases > iwai」（https://svltd.co.jp/cases/iwai/・3回目）
+  - 「お問い合せ - 岩井製作所 — お問い合せ - 岩井製作所 岩井製作所 https://iwaiseisakusho.co.jp > contacts」（https://iwaiseisakusho.co.jp/contacts/・3回目）
+  - 「お問い合わせ - 株式会社 岩井製作所 — お問い合わせ - 株式会社 岩井製作所 iwai-ss.co.jp http://www.iwai-ss.co.jp > contact」（http://www.iwai-ss.co.jp/contact.html・3回目）
+  - 「金属加工のことなら、株式会社 岩井製作所 にお任せください。 — 金属加工のことなら、株式会社 岩井製作所 にお任せください。 株式会社岩井製作所 https://www.iwaiss.co.jp > info」（https://www.iwaiss.co.jp/info/・3回目）
+  - 「岩井製作所 | 企業情報 | イプロスものづくり — 岩井製作所 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託」（https://mono.ipros.com/company/detail/2029547/・3回目）
+- 代表者：記載なし（3回確認済み：公式19頁／PDF・画像3件／外部9頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式19頁／PDF・画像3件／外部9頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式19頁／PDF・画像3件／外部9頁・検索9回）
+- AM関連：記載なし（3回確認済み：公式19頁／PDF・画像3件／外部9頁・検索9回）
 
 ## 有限会社岸本工業
 - 公式URL：https://kishimotokogyo.co.jp（given）
@@ -5075,6 +6537,54 @@ TOTOファインセラミックス（株）
 - 取引先：記載なし（3回確認済み：公式6頁／PDF・画像3件／外部7頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式6頁／PDF・画像3件／外部7頁・検索9回）
 - AM関連：記載なし（3回確認済み：公式6頁／PDF・画像3件／外部7頁・検索9回）
+
+## 有限会社日成工業
+- 公式URL：http://nissei-kogyo.world.coocan.jp（given）
+- 取扱製品：
+  - 「顕微鏡・拡大鏡・目視による外観検査選別業務で製品・部品をきめ細かくチェック」（https://nissei-industry.com/・3回目）
+  - 「精密機械部品、自動車部品、ゴム製品、樹脂製品、金属製品、セラミック製品など、多岐に渡る分野の検査業務に精通し、不良品流出の防止、コスト削減、多品種少量検査など、品質管理における多様なニーズにきめ細かく対応します」（https://nissei-industry.com/・3回目）
+  - 「ご依頼いただいた製品・部品は、長年に渡り蓄積された豊富なノウハウと経験豊富な検査員一人ひとりの確かな目を駆使し、ひとつひとつ丁寧に検査・選別します」（https://nissei-industry.com/・3回目）
+  - 「製品・部品のクオリティを高いレベルで維持します」（https://nissei-industry.com/・3回目）
+  - 「製品検査を行うのは、確かな検査スキルと豊富な経験を持つ熟練のスタッフです」（https://nissei-industry.com/・3回目）
+  - 「ベテランスタッフも製品や検査技術に関する講習の機会を定期的に持ち、検査精度の維持・向上をつねに図っています」（https://nissei-industry.com/・3回目）
+  - 「モノづくり現場における製品の検査・選別は、商品価値や企業への信用を高め維持するために不可欠な工程です」（https://nissei-industry.com/・3回目）
+  - 「試験に合格した認定検査員だけがお客様の製品検査にあたっています」（https://nissei-industry.com/・3回目）
+  - 「検査における基礎知識の習得、標準検査動作の訓練、製品の取り扱い方、目の動かし方、手の動かし方、主な不良項目についてなどを教育担当者が指導」（https://nissei-industry.com/・3回目）
+  - 「お客様のニーズを的確に把握し、製品・部品の特性を深く理解した上で、ひとつひとつの作業に真摯に取り組む」（https://nissei-industry.com/・3回目）
+  - 「常に技術の向上に努め、お客様に満足していただける製品を提供し続けます」（https://nissei-industry.com/・3回目）
+  - 「各種製品についてのご相談・ご質問、」（https://nisseikogyo.jp/contact/・3回目）
+- 取扱材料：
+  - 「精密機械部品、自動車部品、ゴム製品、樹脂製品、金属製品、セラミック製品など、多岐に渡る分野の検査業務に精通し、不良品流出の防止、コスト削減、多品種少量検査など、品質管理における多様なニーズにきめ細かく対応します」（https://nissei-industry.com/・3回目）
+  - 「中でもセラミック素材の検査実績を多数持ち、基板、車載部品等の精密機器、切削工具などの検査に定評があります」（https://nissei-industry.com/・3回目）
+- 一点物・少量多品種：
+  - 「精密機械部品、自動車部品、ゴム製品、樹脂製品、金属製品、セラミック製品など、多岐に渡る分野の検査業務に精通し、不良品流出の防止、コスト削減、多品種少量検査など、品質管理における多様なニーズにきめ細かく対応します」（https://nissei-industry.com/・3回目）
+- 製品分野：
+  - 「精密機械部品、自動車部品、ゴム製品、樹脂製品、金属製品、セラミック製品など、多岐に渡る分野の検査業務に精通し、不良品流出の防止、コスト削減、多品種少量検査など、品質管理における多様なニーズにきめ細かく対応します」（https://nissei-industry.com/・3回目）
+  - 「株式会社大友自動車 ｜ 鳥取県米子市流通町１５８番地５」（https://note.com/clipcorporation/n/n89cf30f42465・3回目）
+- 連絡先：
+  - 「下記のお問い合わせぺージのフォームにご記入の上、送信ください」（https://nissei.lline-group.co.jp/business/・3回目）
+  - 「下記のお問い合わせぺージのフォームにご記入の上、送信ください」（https://nissei.lline-group.co.jp/・3回目）
+  - 「会社名／屋号 お問い合わせの種類 メールアドレス」（https://nissei.lline-group.co.jp/contact/・3回目）
+- 検索結果の抜粋：
+  - 「日成工業株式会社試作小ロット開発支援 – 株式会社日本容器試作・小ロットでの対応試作・小ロット生産総合メーカーのゼン｜樹脂加工・金属加工・射出成...ステンレス在庫リスト・小ロット/短納期のお問い合わせ - 日本金属株...加工事例 | 日成工業プラスチック精密加工の日成工業｜微細･高精度 — 精密機械部品、自動車部品、ゴム製品、樹脂製品、金属製品、セラミック製品など、多岐に渡る分野の検査業務に精通し、不良品流出の防止、コスト削減、多品種少量検査など、品質管理における多様なニーズにきめ細かく対応します。 金型に原料を流し込んで製造するプラスチック製品は小さな突起が発生してしまうのですが、それがペットの口に当たることがないように、蓋の裏側にくるよう独自に配慮をしてくださいました。 各種電源に関しては500種類以上（ODM・EMS・OEM）の製品が存在しています。 お客様のご要望に近い製品から」（https://nissei-industry.com/・3回目）
+  - 「加工事例 | 日成工業 — 日成工業では、様々な素材の加工実績がございます。 加工難度の高い難削素材から快削素材まで、お客様の欲しい形状を具現化いたします。 主な取り扱い材料をご紹介いたします。」（https://nissei-industry.net/products/・3回目）
+  - 「事業内容 | 日成工業株式会社 — 日成工業は塗装工事・リニューアル工事を専門にしており、確かな技術でお客様に価値を提供しております。 国内は関東エリアのお客様を中心に、国外は各国の日本大使館など、当社の技術と施工管理が必要とされた施工実績が多数あります。」（https://nissei.lline-group.co.jp/business/・3回目）
+  - 「日成工業株式会社 — 日成工業は1955年に業務を開始してから70年以上、塗装工事とリニューアル工事を手掛けてきました。 高い技術力と徹底した品質・安全管理を強みとし、住宅やマンション、競技場や高層ビルなどを施工してまいりました。」（https://nissei.lline-group.co.jp/・3回目）
+  - 「日成工業株式会社日成工業株式会社 - 設備工事の日成工業 ...会社案内｜設備工事の日成工業株式会社会社概要 - 日成工業会社概要 ｜ 日成工業 採用サイト — 約40年に渡り、検査業務を通してお客様の信頼をひとつずつ積み重ねてきた日成工業。 その根底にあるのは、社員一人ひとりの「誠意」です。 お客様のニーズを的確に把握し、製品・部品の特性を深く理解した上で、ひとつひとつの作業に真摯に取り組む。 消防設備工事 厨房設備工事 工場プレハブ加工事業 ダクト設計・製造 製品オンラインショップ 自社工場で加工した製品の販売をしています。 機械、ダクト、フード・フィルター、ダンパー、吹出口・吸込口、ダクト部材、工具等ラインナップがあります。 今後も私達は少しでも社会に貢献できるよう業界の課題に向き合ってまいります。 さらには、確かな技術と知識で仕事を積み重ね続けます。 そして「設備工事と言えば日成工」（https://nissei-industry.com/・3回目）
+  - 「会社案内｜設備工事の日成工業株式会社 — 今後も私達は少しでも社会に貢献できるよう業界の課題に向き合ってまいります。 さらには、確かな技術と知識で仕事を積み重ね続けます。 そして「設備工事と言えば日成工業」と皆様に認めていただけるよう、日々弛まぬ努力を続けていきます。」（https://www.nisseikougyou.co.jp/company.html・3回目）
+  - 「会社概要 - 日成工業 — 日成工業は、1978年に川崎市で精密部品の加工業として創業しました。 お客様に恵まれたおかげで、45年以上が経ちました。 技術力を鍛え設備環境を整えつつ、お客さまに質の高い加工サービスを提供し続け、会社として成長してきたと自負しております。」（https://nissei-industry.net/company/overview/・3回目）
+  - 「お問い合わせ | 日成工業株式会社 — お問い合わせ 個人情報保護方針 反社会的勢力排除に関する方針 アクセス TEL：03-6633-9684 9:00〜18:00（土･日･祝休） © 日成工業株式会社 All Rights Reserved」（https://nissei.lline-group.co.jp/contact/・3回目）
+  - 「お問い合わせ | 日成工業 株式会社 — 日成工業 株式会社 〒124-0024 東京都葛飾区新小岩1-17-15 正栄ビル第二 Google Maps プライバシーポリシー ホーム 事業案内 代表挨拶 会社案内 アクセス 採用情報 社員紹介 福利厚生 お知らせ お問い合わせ ギャラリー ©2023 日成工業株式会社」（https://nisseikougyou-saiyou.com/contact/・3回目）
+  - 「CONTACT - お問合せ ｜ 日成工業有限会社 — プライバシーポリシー Corporate site 日成工業について ご挨拶 会社概要 沿革 私たちの取り組み 事業内容 機械保守・メンテナンス 溶接マスクフィットテスト ビジネスサポート お知らせ 採用情報 ↗ Online shop 商品一覧 ご利用ガイド 特定商取引法に基づく表記」（https://nisseikogyo.jp/contact/・3回目）
+  - 「有限会社日成工業お問い合せ — お問い合せ ご相談・お問い合わせ、資料のご請求は下記フォームにご記入の上、ご送信ください。 お電話・ファックスでも受付いたします。 TEL.022-382-4341 FAX.022-382-2427」（https://nis-bup.sakura.ne.jp/nissei2/contact.htm・3回目）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索9回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索9回）
+- AM関連：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索9回）
 
 ## 有限会社日進精機
 - 公式URL：http://nissin.konjiki.jp（given）
@@ -5604,6 +7114,161 @@ TOTOファインセラミックス（株）
 - 取引先：記載なし（3回確認済み：公式10頁／PDF・画像2件／外部4頁・検索9回）
 - 連絡先：記載なし（3回確認済み：公式10頁／PDF・画像2件／外部4頁・検索9回）
 
+## 東京レーダー株式会社
+- 公式URL：http://www.radar.co.jp（given）
+- 所在地：〒240-0022　神奈川県横浜市保土ヶ谷区西久保町15-7 TEL: 045-335-1111 / FAX: 045-335-1975（https://www.radar.co.jp/company/・1回目）
+- 所在地：〒375-0053　群馬県藤岡市中大塚1065-2 TEL: 0274-24-3611 / FAX: 0274-24-3616（https://www.radar.co.jp/company/・1回目）
+- 所在地：延床面積：2547.85㎡　設計・製造部門・管理部門などを有する本社機能（https://www.radar.co.jp/company/・1回目）
+- 事業内容：延床面積：4,507.88㎡　主に製造・検査部門を備えた生産拠点（https://www.radar.co.jp/company/・1回目）
+- 代表者：加藤　浩（https://www.radar.co.jp/company/・1回目）
+- 代表者：仲岡　和水（https://www.radar.co.jp/company/・1回目）
+- 従業員数：119名（2026年4月現在）（https://www.radar.co.jp/company/・1回目）
+- 取引先：日本電気株式会社 / NECプラットフォームズ株式会社 / NECネットワーク・センサ株式会社 / NECネッツエスアイ株式会社 / 沖電気工業株式会社 / IDEC AUTO-ID SOLUTIONS株式会社 / 株式会社ニューテック / フコク物産株式会社（https://www.radar.co.jp/company/・1回目）
+- 取扱製品：
+  - 「東京レーダーは、設計から量産まで、御社の製品開発をワンストップで支援いたします」（https://www.radar.co.jp/・1回目）
+  - 「東京レーダーは、電子機器の設計・製造を一貫して対応できる国内体制を強みに、小ロットや短納期、高信頼性が求められる製品にも柔軟に対応しています」（https://www.radar.co.jp/・1回目）
+  - 「プリント基板の後工程から大型製品の組立・検査・保守まで一貫して対応できる体制を備えた拠点です」（https://www.radar.co.jp/・1回目）
+  - 「製品企画や発注前に知っておきたい基本用語、製品化や外注を検討するときに出てくる専門用語を、図解と実務ポイントでやさしく解説します」（https://www.radar.co.jp/・1回目）
+  - 「専門の技術スタッフがヒアリングから丁寧に対応し、要件整理から製品化まで一貫してサポートいたします」（https://www.radar.co.jp/・1回目）
+  - 「高信頼性が求められる製品の実績も多数ございます」（https://www.radar.co.jp/・1回目）
+  - 「産業機器、民生機器、医療機器、車載機器など、高信頼性が求められる製品に対応するため、当社では設計から部品調達、製造、検査・試験までを自社一貫体制で実施」（https://www.radar.co.jp/services/・1回目）
+  - 「製品ライフサイクル全体にわたって、最適な技術と設備、そして人の力でお客様を支援します」（https://www.radar.co.jp/services/・1回目）
+  - 「お客様のアイデア段階から、製品として具現化するまでの開発業務をトータルで支援します」（https://www.radar.co.jp/services/・1回目）
+  - 「LTE通信端末、Bluetooth対応製品 など」（https://www.radar.co.jp/services/・1回目）
+  - 「医療機器レベルの品質基準を求められる製品にも対応できる、生産管理体制と検査ノウハウを有しています」（https://www.radar.co.jp/services/・1回目）
+  - 「製品の立ち上げ時や改良時に、次のような課題をお持ちではありませんか？」（https://www.radar.co.jp/services/・1回目）
+- 一点物・少量多品種：
+  - 「試作から量産まで柔軟に対応し、高信頼性を実現します」（https://www.radar.co.jp/・1回目）
+  - 「東京レーダーは、電子機器の設計・製造を一貫して対応できる国内体制を強みに、小ロットや短納期、高信頼性が求められる製品にも柔軟に対応しています」（https://www.radar.co.jp/・1回目）
+  - 「東京レーダーでは、100台・500台といった少量からの量産に対応」（https://www.radar.co.jp/・1回目）
+  - 「小ロットや試作だけでも対応してもらえますか？」（https://www.radar.co.jp/・1回目）
+  - 「試作や短納期の量産に対応してくれる製造先がない」（https://www.radar.co.jp/services/・1回目）
+  - 「通信機器・制御機器を多数手がけてきた経験を活かし、試作から量産まで柔軟に対応いたします」（https://www.radar.co.jp/services/service-ems/・1回目）
+  - 「試作から量産まで、当社が対応してきた製造例の一部をご紹介します」（https://www.radar.co.jp/services/service-ems/・1回目）
+  - 「数十台程度の小ロットにも対応してもらえますか？」（https://www.radar.co.jp/services/service-ems/・1回目）
+  - 「東京レーダーでは、電子機器の「こんなものを作りたい」というアイデア段階から、仕様の具体化、設計、試作、量産、保守まで、ワンストップで支援するODM（設計・製造受託）サービスを提供しています」（https://www.radar.co.jp/services/service-odm/・1回目）
+  - 「小ロット・短納期に対応できる会社を探している」（https://www.radar.co.jp/services/service-odm/・1回目）
+  - 「実使用に即した検証・フィードバック反映・試作改善」（https://www.radar.co.jp/services/service-odm/・1回目）
+  - 「電気・ソフト・筐体すべての設計と試作・製造を内製で対応できるため、スピード感ある開発が可能です」（https://www.radar.co.jp/services/service-odm/・1回目）
+- 製品分野：
+  - 「産業機器・医療機器など高信頼性のものづくりを委託したい」（https://www.radar.co.jp/・1回目）
+  - 「医療・産業分野での豊富な実績と、厳格な品質保証体制により、お客様に安心と信頼をご提供しています」（https://www.radar.co.jp/・1回目）
+  - 「産業機器、民生機器、医療機器、車載機器など、多様な分野に対応しています」（https://www.radar.co.jp/・1回目）
+  - 「産業機器、民生機器、医療機器、車載機器など、高信頼性が求められる製品に対応するため、当社では設計から部品調達、製造、検査・試験までを自社一貫体制で実施」（https://www.radar.co.jp/services/・1回目）
+  - 「医療機器製造業許可取得済み、クリーンブース完備」（https://www.radar.co.jp/services/・1回目）
+  - 「医療機器レベルの品質基準を求められる製品にも対応できる、生産管理体制と検査ノウハウを有しています」（https://www.radar.co.jp/services/・1回目）
+  - 「産業・医療用途に対応できる品質管理体制のある会社に頼みたい」（https://www.radar.co.jp/services/service-ems/・1回目）
+  - 「多種多様な製品機器（産業・医療機器から民生品）の実装・組立経験あり」（https://www.radar.co.jp/services/service-ems/・1回目）
+  - 「医療機器製造業登録もあり、高信頼性が求められる製品にも対応」（https://www.radar.co.jp/services/service-ems/・1回目）
+  - 「医療用端末の製造・品質管理、厳格なトレーサビリティ対応など」（https://www.radar.co.jp/services/service-ems/・1回目）
+  - 「医療、介護向けセンサ端末」（https://www.radar.co.jp/services/service-ems/・1回目）
+  - 「医療機器製造業登録を取得しており、対応可能です」（https://www.radar.co.jp/services/service-ems/・1回目）
+- 検索結果の抜粋：
+  - 「電子機器の設計・製造を一括対応 東京レーダー株式会社 — 当社の強み・選ばれる理由 東京レーダーは、電子機器の設計・製造を一貫して対応できる国内体制を強みに、小ロットや短納期、高信頼性が求められる製品にも柔軟に対応しています。」（https://www.radar.co.jp/・3回目）
+  - 「東京レーダーが提供するEMSサービスの特徴や強みを解説 — 東京レーダーが手がけるEMSでは、これまで 通信機器を手がけてきた経験を活かし、試作から量産まで対応。 部品の調達から検査まで行い、顧客のものづくりを支援します。」（https://www.lead-ems.com/list/tokyo-radar.html・3回目）
+  - 「東京レーダーの製品・サービス一覧｜イプロスものづくり — Oct 7, 2015 · 東京レーダーは、移動体通信システム（主に無線基地局・小型無線端末機器及び公共公益無線システム（列車無線システム・消防無線、防災無線システム等）の開発・設計から製造までの豊富な実績がございます。」（https://mono.ipros.com/company/detail/2032829/category/・3回目）
+  - 「東京レーダー株式会社｜GUNMA VIRTUAL EXPO｜群馬バーチャルエキスポ — 小ロット・短納期にも対応 製品ライフサイクルの短期化や多品種化により、「少量かつ高品質」な製造ニーズが増加しています。 当社では、100台・500台といった小ロット量産に対応。 短納期での納品実績も多数あります。」（https://www.gunma-virtualexpo.jp/company/detail.cgi?id=1875・3回目）
+  - 「電子機器の設計・製造を一括対応 東京レーダー株式会社 — 東京レーダーでは、神奈川県横浜市・群馬県藤岡市に拠点を持ち、設計から量産、検査までの全工程を社内で一貫対応しています。 柔軟な生産体制と設計段階からの製造最適化提案により、コスト・納期・品質のバランスの取れた生産体制を提供しています。」（https://www.radar.co.jp/・3回目）
+- 売上高：記載なし（3回確認済み：公式17頁／PDF・画像2件／外部7頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式17頁／PDF・画像2件／外部7頁・検索9回）
+- 取扱材料：記載なし（3回確認済み：公式17頁／PDF・画像2件／外部7頁・検索9回）
+- AM関連：記載なし（3回確認済み：公式17頁／PDF・画像2件／外部7頁・検索9回）
+- 連絡先：記載なし（3回確認済み：公式17頁／PDF・画像2件／外部7頁・検索9回）
+
+## 東京炭素工業株式会社
+- 公式URL：http://tokyotanso.com（given）
+- 所在地：本社：〒105-0004 東京都港区新橋3-4-11 千葉工場：〒289-1122 千葉県八街市四木1613-1（https://tokyotanso.com/company-2/・1回目）
+- 所在地：〒105-0004 東京都港区新橋3-4-11（https://tokyotanso.com/company-2/・1回目）
+- 代表者：山﨑利恵（https://tokyotanso.com/company-2/・1回目）
+- 拠点：〒289-1122 千葉県八街市四木1613-1（https://tokyotanso.com/company-2/・1回目）
+- 取扱製品：
+  - 「東京炭素工業株式会社では、半導体を始め、太陽電池・燃料電池・冶金・非鉄金属・電機・自動車・窯業・化学・ガラス・機械・航空宇宙産業など、様々な分野のカーボン・グラファイト製品の製造および、販売をしております」（https://tokyotanso.com/・1回目）
+  - 「長年カーボン加工に携わってきた技術者の卓越した技能と経験、弊社の蓄積したノウハウ、そして最新鋭の機械設備との融合により、高精度で高品質な製品をご提供致します」（https://tokyotanso.com/・1回目）
+  - 「カーボン材全般 | グラファイト製品 | 高温度・高温炉用部材 | 半導体製造装置用部材 | 黒鉛ルツボ・発熱体 | 太陽電池製造用部材 | 燃料電池用分離板 | 焼結用黒鉛鋳型 | カーボンブラシ | 電極板・電極棒 | 放電加工用電極 | 中性子反応装置部材 | 航空宇宙産業用機材 | 軸受・摺動材」（https://tokyotanso.com/・1回目）
+  - 「カーボン材・グラファイト材による精密加工製品の製造・販売」（https://tokyotanso.com/service1/・1回目）
+  - 「弊社の生産体制は、お客様よりお預かりした図面に基づいて製品をおつくりする、受注生産方式を主にとらせて頂いており、試作品から多品種小ロット生産、量産品まで幅広く対応しております」（https://tokyotanso.com/service1/・1回目）
+  - 「炭素成分99.9%以上、純粋なカーボンによる黒鉛製品です」（https://tokyotanso.com/service1/・1回目）
+  - 「C/Cコンポジット（炭素繊維強化炭素）製品」（https://tokyotanso.com/service1/・1回目）
+  - 「▼C/Cコンポジット製品（F1のブレーキ）」（https://tokyotanso.com/service1/・1回目）
+  - 「カーボン材全般 | グラファイト製品 | 高温度・高温炉用部材 | 半導体製造装置用部材 | 黒鉛ルツボ・発熱体 | 太陽電池製造用部材 | 燃料電池用分離板 | 焼結用黒鉛鋳型 | カーボンブラシ | 電極板・電極棒 | 放電加工用電極 | 中性子反応装置部材 | 航空宇宙産業用機材 | 軸受・摺動材」（https://tokyotanso.com/service1/・1回目）
+  - 「製品管理の徹底、品質向上に努め、皆様に喜んで頂ける会社になる様、社員一同努力し前進する所存で御座います」（https://tokyotanso.com/company-2/・1回目）
+  - 「山﨑石子個人経営により東京炭素工業所を創設、電気部品ならびに炭素製品の製造加工販売を開始する」（https://tokyotanso.com/company-2/・1回目）
+  - 「カーボン製品部門、一部自動化に入る」（https://tokyotanso.com/company-2/・1回目）
+- 取扱材料：
+  - 「あらゆる材質・材料に熟知した匠の技と最新鋭の生産設備を用いてCAD/CAMに熟練した技術者による高度な精密機械加工を実現」（https://tokyotanso.com/・1回目）
+  - 「カーボングラファイトのみならず、近年注目されているC/Cコンポジットや各種含浸材、CFRP、金属や樹脂の加工も対応します」（https://tokyotanso.com/・1回目）
+  - 「また、カーボン・グラファイト材の加工だけではなく、カーボンコンポジット材(C/Cコンポジット)、カーボンと金属のアセンブリ品、樹脂、非鉄金属、特殊鋼など、あらゆる材質・材料の精密加工にご対応いたします」（https://tokyotanso.com/service1/・1回目）
+  - 「人造黒鉛材は、金属や樹脂のような規格サイズ品が殆ど無いため、黒皮付の黒鉛ブロック材より切断機で切り出して、材料取りをします」（https://tokyotanso.com/service1/・1回目）
+  - 「C/Cコンポジット（炭素繊維強化炭素）製品」（https://tokyotanso.com/service1/・1回目）
+  - 「炭素繊維と炭素（または黒鉛）の複合素材です」（https://tokyotanso.com/service1/・1回目）
+  - 「使用環境によって高温や機械的特性でグラファイト(黒鉛)より優れた部分を持ち合わせており、上記用途に使用される際に弊社では炭素繊維にピッチ含浸して焼成したC/Cコンポジットを主に扱っています」（https://tokyotanso.com/service1/・1回目）
+  - 「「オートクレーブ法」や「真空バッグ法」で制作した、ドライカーボンとも呼ばれるCFRPを主に扱っています」（https://tokyotanso.com/service1/・1回目）
+  - 「プリプレグシート(※)を型に積層させて成型し、大気圧もしくは大気圧以上の圧力をかけた高温炉の中で樹脂を硬化させます」（https://tokyotanso.com/service1/・1回目）
+  - 「※プリプレグシート ＝ 炭素繊維に熱硬化性樹脂を含浸し、取扱い易いように“半硬化”させた薄いシート」（https://tokyotanso.com/service1/・1回目）
+  - 「アルミニウム合金に、硬質アルマイト（硬質陽極酸化被膜）の表面処理を施した後、表層面（微小な凹凸のある表面）にフッ素樹脂を含浸させて、耐摩耗性、耐食性、低い摩擦係数などの特性を持たせた、アルミ用の表面改質処理です」（https://tokyotanso.com/service1/・1回目）
+  - 「アルミ・ステンレス・チタン等の精密機械加工、汎用樹脂やエンジニアプラスチック等にも実績があり、幅広いユーザー層に対応しております」（https://tokyotanso.com/service1/・1回目）
+- 一点物・少量多品種：
+  - 「微細加工からメートルオーバー級のサイズまで、試作品1個から多品種小ロット生産品および量産品の製作まで、お客様のご要望にお応え致します」（https://tokyotanso.com/・1回目）
+  - 「カーボン加工・グラファイト加工(受注生産)」（https://tokyotanso.com/service1/・1回目）
+  - 「弊社の生産体制は、お客様よりお預かりした図面に基づいて製品をおつくりする、受注生産方式を主にとらせて頂いており、試作品から多品種小ロット生産、量産品まで幅広く対応しております」（https://tokyotanso.com/service1/・1回目）
+  - 「当社は主に受注生産にて承りますが、1枚からお買い求めやすい価格で規格品のご用意もしております」（https://tokyotanso.com/service1/・1回目）
+  - 「※ その他サイズや六角ナットも受注生産にて承ります」（https://tokyotanso.com/service1/・1回目）
+  - 「１個からのオーダーメイド（当社規格サイズは準備中）」（https://tokyotanso.com/service1/・1回目）
+  - 「当社は主に受注生産にて承りますが、1枚からお買い求めやすい価格で規格品のご用意もしております」（https://tokyotanso.com/product/・1回目）
+  - 「※ その他サイズや六角ナットも受注生産にて承ります」（https://tokyotanso.com/product/・1回目）
+  - 「１個からのオーダーメイド（当社規格サイズは準備中）」（https://tokyotanso.com/product/・1回目）
+  - 「このソフトカーボンバックに、ご興味がありましたらお声掛けください（オーダーメイドも承ります）」（https://tokyotanso.com/goods-2/・1回目）
+  - 「お客様よりお預かりした図面に基づいて製品をおつくりする、受注生産方式を主にとらせて頂いており、試作品から多品種小ロット生産、量産品まで幅広く対応しております」（https://pr.mono.ipros.com/tokyotanso/product/・3回目）
+  - 「・各材料メーカー様より仕入れた多品種の材料を常にストックしています」（https://pr.mono.ipros.com/tokyotanso/information/・3回目）
+- 製品分野：
+  - 「東京炭素工業株式会社では、半導体を始め、太陽電池・燃料電池・冶金・非鉄金属・電機・自動車・窯業・化学・ガラス・機械・航空宇宙産業など、様々な分野のカーボン・グラファイト製品の製造および、販売をしております」（https://tokyotanso.com/・1回目）
+  - 「カーボン材全般 | グラファイト製品 | 高温度・高温炉用部材 | 半導体製造装置用部材 | 黒鉛ルツボ・発熱体 | 太陽電池製造用部材 | 燃料電池用分離板 | 焼結用黒鉛鋳型 | カーボンブラシ | 電極板・電極棒 | 放電加工用電極 | 中性子反応装置部材 | 航空宇宙産業用機材 | 軸受・摺動材」（https://tokyotanso.com/・1回目）
+  - 「封止用治具・ろう付け用治具・スリット電極・ヒータ・サセプタ」（https://tokyotanso.com/service1/・1回目）
+  - 「ロケットノズル、タービンローター、高速車両や航空機のブレーキ材、溶解用ルツボなどで使われています」（https://tokyotanso.com/service1/・1回目）
+  - 「半導体製造用にもカーボンは必要不可欠な部材です」（https://tokyotanso.com/service1/・1回目）
+  - 「カーボン材全般 | グラファイト製品 | 高温度・高温炉用部材 | 半導体製造装置用部材 | 黒鉛ルツボ・発熱体 | 太陽電池製造用部材 | 燃料電池用分離板 | 焼結用黒鉛鋳型 | カーボンブラシ | 電極板・電極棒 | 放電加工用電極 | 中性子反応装置部材 | 航空宇宙産業用機材 | 軸受・摺動材」（https://tokyotanso.com/service1/・1回目）
+  - 「カーボン材全般 | グラファイト製品 | 高温度・高温炉用部材 | 半導体製造装置用部材 | 黒鉛ルツボ・発熱体 | 太陽電池製造用部材 | 燃料電池用分離板 | 焼結用黒鉛鋳型 | カーボンブラシ | 電極板・電極棒 | 放電加工用電極 | 中性子反応装置部材 | 航空宇宙産業用機材 | 軸受・摺動材」（https://tokyotanso.com/company-2/・1回目）
+  - 「カーボン材全般 | グラファイト製品 | 高温度・高温炉用部材 | 半導体製造装置用部材 | 黒鉛ルツボ・発熱体 | 太陽電池製造用部材 | 燃料電池用分離板 | 焼結用黒鉛鋳型 | カーボンブラシ | 電極板・電極棒 | 放電加工用電極 | 中性子反応装置部材 | 航空宇宙産業用機材 | 軸受・摺動材」（https://tokyotanso.com/company-2/machine-shop-facilities/・1回目）
+  - 「カーボン材全般 | グラファイト製品 | 高温度・高温炉用部材 | 半導体製造装置用部材 | 黒鉛ルツボ・発熱体 | 太陽電池製造用部材 | 燃料電池用分離板 | 焼結用黒鉛鋳型 | カーボンブラシ | 電極板・電極棒 | 放電加工用電極 | 中性子反応装置部材 | 航空宇宙産業用機材 | 軸受・摺動材」（https://tokyotanso.com/product/・1回目）
+  - 「炭素繊維は、低燃費ジェット旅客機や自動車最高峰レース（F1）のボディにも採用されている時代先端の素材であり、機能面では軽量で引張りに強いカーボン（炭素繊維）特有の性質、デザイン性では眺める角度によって様々に変化するカーボン独特の織り目などが特徴です」（https://tokyotanso.com/goods-2/・1回目）
+  - 「カーボン材全般 | グラファイト製品 | 高温度・高温炉用部材 | 半導体製造装置用部材 | 黒鉛ルツボ・発熱体 | 太陽電池製造用部材 | 燃料電池用分離板 | 焼結用黒鉛鋳型 | カーボンブラシ | 電極板・電極棒 | 放電加工用電極 | 中性子反応装置部材 | 航空宇宙産業用機材 | 軸受・摺動材」（https://tokyotanso.com/goods-2/・1回目）
+  - 「半導体用(0)」（https://pr.mono.ipros.com/tokyotanso/product/・3回目）
+- AM関連：
+  - 「あらゆる材質・材料に熟知した匠の技と最新鋭の生産設備を用いてCAD/CAMに熟練した技術者による高度な精密機械加工を実現」（https://tokyotanso.com/・1回目）
+  - 「Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.」（https://tokyotanso.com/・1回目）
+  - 「Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.」（https://tokyotanso.com/service1/・1回目）
+  - 「Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.」（https://tokyotanso.com/company-2/・1回目）
+  - 「Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.」（https://tokyotanso.com/company-2/machine-shop-facilities/・1回目）
+  - 「Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.」（https://tokyotanso.com/product/・1回目）
+  - 「Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.」（https://tokyotanso.com/goods-2/・1回目）
+- 連絡先：
+  - 「休業期間中にいただいたお問い合わせについては、営業開始日7日以降に順次回答させていただきます」（https://tokyotanso.com/・1回目）
+  - 「カーボン・グラファイトの精密機械加工に関するお問い合わせは、」（https://tokyotanso.com/・1回目）
+  - 「Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.」（https://tokyotanso.com/・1回目）
+  - 「カーボン・グラファイトの精密機械加工に関するお問い合わせは、」（https://tokyotanso.com/service1/・1回目）
+  - 「Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.」（https://tokyotanso.com/service1/・1回目）
+  - 「カーボン・グラファイトの精密機械加工に関するお問い合わせは、」（https://tokyotanso.com/company-2/・1回目）
+  - 「Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.」（https://tokyotanso.com/company-2/・1回目）
+  - 「カーボン・グラファイトの精密機械加工に関するお問い合わせは、」（https://tokyotanso.com/company-2/machine-shop-facilities/・1回目）
+  - 「Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.」（https://tokyotanso.com/company-2/machine-shop-facilities/・1回目）
+  - 「カーボン・グラファイトの精密機械加工に関するお問い合わせは、」（https://tokyotanso.com/product/・1回目）
+  - 「Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.」（https://tokyotanso.com/product/・1回目）
+  - 「カーボン・グラファイトの精密機械加工に関するお問い合わせは、」（https://tokyotanso.com/goods-2/・1回目）
+- 検索結果の抜粋：
+  - 「Home - 東京炭素工業株式会社 — Aug 17, 2026 · 東京炭素工業株式会社では、半導体を始め、太陽電池・燃料電池・冶金・非鉄金属・電機・自動車・窯業・化学・ガラス・機械・航空宇宙産業など、様々な分野のカーボン・グラファイト製品の製造および、販売をしております。」（https://tokyotanso.com/・3回目）
+  - 「カーボン・グラファイト加工 - 東京炭素工業株式会社 — 弊社の生産体制は、お客様よりお預かりした図面に基づいて製品をおつくりする、受注生産方式を主にとらせて頂いており、試作品から多品種小ロット生産、量産品まで幅広く対応しております。」（https://tokyotanso.com/service1/・3回目）
+  - 「製品・サービス | 東京炭素工業 - Powered by イプロスものづくり — お客様よりお預かりした図面に基づいて製品をおつくりする、受注生産方式を主にとらせて頂いており、試作品から多品種小ロット生産、量産品まで幅広く対応しております。 グラファイト製品例 (24) - 治金用 (0) - 燃料電池用 (0) - 半導体用 (0) - 成膜用 (0) -」（https://pr.mono.ipros.com/tokyotanso/product/・3回目）
+  - 「グラファイト加工一覧 | 東京炭素工業 - Powered by イプロスものづく... — 「グラファイト材」による、精密加工品の製造・販売をしております。 お客様よりお預かりした図面に基づいて製品をおつくりする、受注生産方式を主にとらせて頂いており、試作品から多品種小ロット生産、量産品まで幅広く対応しております。」（https://pr.mono.ipros.com/tokyotanso/product/category/70611/・3回目）
+  - 「会社案内 - 東京炭素工業株式会社企業情報 | 東京炭素工業 - Powered by イプロスものづくり東京炭素工業株式会社 - 会社概要会社概要｜会社情報｜東洋炭素株式会社 TOYO TANSO Japan東京炭素工業 | 企業情報 | イプロスものづくり会社案内 - toyotanso.co.jp — 本社へのアクセス 【最寄り駅】 JR新橋駅[烏森口]より徒歩約8分 （東海道線・山手線・京浜東北線・横須賀線・総武線快速） 都営地下鉄三田線 内幸町駅より徒歩約5分 東京メトロ銀座線 新橋駅 都営地下鉄浅草線 新橋駅 ゆりかもめ 新橋駅 企業概要 企業名 東京炭素工業株式会社 設立 1947年5月23日 所在地 〒105-0004 東京都 港区 新橋3-4-11 地図で見る TEL 03-3591-6245 FAX 03-3591-1071 東京炭素工業株式会社の事業概要 カーボン・グ」（https://tokyotanso.com/company-2/・3回目）
+  - 「企業情報 | 東京炭素工業 - Powered by イプロスものづくり — 企業概要 企業名 東京炭素工業株式会社 設立 1947年5月23日 所在地 〒105-0004 東京都 港区 新橋3-4-11 地図で見る TEL 03-3591-6245 FAX 03-3591-1071」（https://pr.mono.ipros.com/tokyotanso/information/・3回目）
+  - 「東京炭素工業株式会社 - 会社概要 — 東京炭素工業株式会社の事業概要 カーボン・グラファイト材 半導体用部材（ルツボ受け、ヒーター、支持受け他） 冶金用部材（ヒーター、受け皿、鋳型他） 金属溶解部材（ルツボ、ヒーター、型材他） 光学用部材（型材、反射基盤他）」（https://www.atengineer.com/pr/tokyotanso/company・3回目）
+  - 「お問い合わせ - 東京炭素工業株式会社 — まずはお気軽にお問合せ下さい。 お電話からのお問い合わせ 03-3591-6245 お電話受付時間 9：00～12：00 13：00～18：00 土・日・祝日のお問い合わせは、フォームにて御連絡下さい。 ※お電話の際に「ホームページを見ました。 」と一声お伝えください。」（https://tokyotanso.com/contact/・3回目）
+  - 「お問い合わせ - 東京炭素工業 株式会社 東京都 港区 — Jul 25, 2023 · 東京炭素工業株式会社では、お客様のご要望に応じ、様々なカーボン・グラファイトによる精密加工製品を製造しております。 弊社の生産体制は、設計から試作、量産までの一貫生産を行っております。」（https://ja.nc-net.or.jp/company/79452/inquiry/・3回目）
+- 事業内容：記載なし（3回確認済み：公式8頁／PDF・画像2件／外部8頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式8頁／PDF・画像2件／外部8頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式8頁／PDF・画像2件／外部8頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式8頁／PDF・画像2件／外部8頁・検索9回）
+
 ## 東京電子工業株式会社
 - 公式URL：https://tokyo-denshi.jp（given）
 - 所在地：〒335-0033 埼玉県戸田市笹目北町8-9 MAP TEL：048-422-1171 FAX：048-422-1172（https://tokyo-denshi.jp/company/・1回目）
@@ -5953,6 +7618,58 @@ TEL:04-7182-4490　FAX:04-7182-2382（https://matsumoto-screw.jp/pages/2/・1回
 - 取扱製品：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部10頁・検索9回）
 - 連絡先：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部10頁・検索9回）
 
+## 株式会社Ｊ・３Ｄ
+- 公式URL：https://j3d.co.jp（given）
+- 所在地：日本 〒 455-0815 愛知県 名古屋市 港区 油屋町 1-30 北緯35度6分18.3秒 東経136度51分5.9秒 ﻿ / ﻿ 北緯35.105083度 東経136.851639度 ﻿ / 35.105083; 136.851639 座標 : 北緯35度6分18.3秒 東経136度51分5.9秒 ﻿ / ﻿ 北緯35.105083度 東経136.851639度 ﻿ / 35.105083; 136.851639（https://ja.wikipedia.org/wiki/J%E3%83%BB3D・3回目）
+- 事業内容：金属、樹脂の3Dプリンター受託造形サービス（https://ja.wikipedia.org/wiki/J%E3%83%BB3D・3回目）
+- 代表者：代表取締役　高関 二三男（https://ja.wikipedia.org/wiki/J%E3%83%BB3D・3回目）
+- 従業員数：4名（2021年11月現在）（https://ja.wikipedia.org/wiki/J%E3%83%BB3D・3回目）
+- 従業員数：6名（https://mono.ipros.com/company/detail/2045838/・3回目）
+- 取扱製品：
+  - 「製品・サービス(10)」（https://mono.ipros.com/company/detail/2045838/・3回目）
+  - 「弊社は、開発・企画段階の試作や３次元水管を配置したハイサイクル金型を金属３Ｄプリンターや樹脂３Ｄプリンターを用いた造形（1個～）に特化し、開発・設計者様向けに、短納期での製品試作などをご提供しております」（https://mono.ipros.com/company/detail/2045838/・3回目）
+  - 「また、複雑な形状やカスタマイズ製作のような一品一様製品に対しても、」（https://mono.ipros.com/company/detail/2045838/・3回目）
+  - 「製品・サービス (10)」（https://mono.ipros.com/company/detail/2045838/・3回目）
+- 取扱材料：
+  - 「金属、樹脂の3Dプリンター受託造形サービス」（https://ja.wikipedia.org/wiki/J%E3%83%BB3D・3回目）
+  - 「ドイツのEOS社の金属3Dプリンターを使いアルミ合金、マルエージング鋼、インコネル718、純チタンの金属粉末をレーザーで焼結させ金型や部品など製作している」（https://ja.wikipedia.org/wiki/J%E3%83%BB3D・3回目）
+  - 「設備は金属3Dプリンターを４台、樹脂3Dプリンターを1台を保有している」（https://ja.wikipedia.org/wiki/J%E3%83%BB3D・3回目）
+  - 「【金属・樹脂の３Ｄプリンター受託造形の株式会社Ｊ・３Ｄ】」（https://mono.ipros.com/company/detail/2045838/・3回目）
+  - 「医療機器・自動車部品・航空機部品・その他あらゆる分野の試作、ダイカスト、樹脂金型のハイサイクル金型については株式会社Ｊ・３Ｄにご依頼ください」（https://mono.ipros.com/company/detail/2045838/・3回目）
+  - 「弊社は、開発・企画段階の試作や３次元水管を配置したハイサイクル金型を金属３Ｄプリンターや樹脂３Ｄプリンターを用いた造形（1個～）に特化し、開発・設計者様向けに、短納期での製品試作などをご提供しております」（https://mono.ipros.com/company/detail/2045838/・3回目）
+  - 「ダイカスト金型や樹脂金型に３次元冷却回路を配置しハイサイクルな金型を安価でかつ短納期で提供させていただいております」（https://mono.ipros.com/company/detail/2045838/・3回目）
+  - 「金属＆樹脂の3Ｄプリント受託サービス」（https://mono.ipros.com/company/detail/2045838/・3回目）
+- 一点物・少量多品種：
+  - 「医療機器・自動車部品・航空機部品・その他あらゆる分野の試作、ダイカスト、樹脂金型のハイサイクル金型については株式会社Ｊ・３Ｄにご依頼ください」（https://mono.ipros.com/company/detail/2045838/・3回目）
+  - 「弊社は、開発・企画段階の試作や３次元水管を配置したハイサイクル金型を金属３Ｄプリンターや樹脂３Ｄプリンターを用いた造形（1個～）に特化し、開発・設計者様向けに、短納期での製品試作などをご提供しております」（https://mono.ipros.com/company/detail/2045838/・3回目）
+- 製品分野：
+  - 「ドイツのEOS社の金属3Dプリンターを使いアルミ合金、マルエージング鋼、インコネル718、純チタンの金属粉末をレーザーで焼結させ金型や部品など製作している」（https://ja.wikipedia.org/wiki/J%E3%83%BB3D・3回目）
+  - 「医療機器・自動車部品・航空機部品・その他あらゆる分野の試作、ダイカスト、樹脂金型のハイサイクル金型については株式会社Ｊ・３Ｄにご依頼ください」（https://mono.ipros.com/company/detail/2045838/・3回目）
+  - 「弊社は、開発・企画段階の試作や３次元水管を配置したハイサイクル金型を金属３Ｄプリンターや樹脂３Ｄプリンターを用いた造形（1個～）に特化し、開発・設計者様向けに、短納期での製品試作などをご提供しております」（https://mono.ipros.com/company/detail/2045838/・3回目）
+  - 「金属３Ｄプリンターを用いて金型レスで鋳造品を短納期で造形しご提供しております」（https://mono.ipros.com/company/detail/2045838/・3回目）
+  - 「ダイカスト金型や樹脂金型に３次元冷却回路を配置しハイサイクルな金型を安価でかつ短納期で提供させていただいております」（https://mono.ipros.com/company/detail/2045838/・3回目）
+- AM関連：
+  - 「金属、樹脂の3Dプリンター受託造形サービス」（https://ja.wikipedia.org/wiki/J%E3%83%BB3D・3回目）
+  - 「に本社を置き2013年に立ち上げた日本で初めての金属受託造形サービス専門の会社である」（https://ja.wikipedia.org/wiki/J%E3%83%BB3D・3回目）
+  - 「ドイツのEOS社の金属3Dプリンターを使いアルミ合金、マルエージング鋼、インコネル718、純チタンの金属粉末をレーザーで焼結させ金型や部品など製作している」（https://ja.wikipedia.org/wiki/J%E3%83%BB3D・3回目）
+  - 「設備は金属3Dプリンターを４台、樹脂3Dプリンターを1台を保有している」（https://ja.wikipedia.org/wiki/J%E3%83%BB3D・3回目）
+  - 「【金属・樹脂の３Ｄプリンター受託造形の株式会社Ｊ・３Ｄ】」（https://mono.ipros.com/company/detail/2045838/・3回目）
+  - 「弊社は、開発・企画段階の試作や３次元水管を配置したハイサイクル金型を金属３Ｄプリンターや樹脂３Ｄプリンターを用いた造形（1個～）に特化し、開発・設計者様向けに、短納期での製品試作などをご提供しております」（https://mono.ipros.com/company/detail/2045838/・3回目）
+  - 「金属３Ｄプリンターを用いて金型レスで鋳造品を短納期で造形しご提供しております」（https://mono.ipros.com/company/detail/2045838/・3回目）
+  - 「ダイレクト造形を行いコストメリットの高い製作をご提供しています」（https://mono.ipros.com/company/detail/2045838/・3回目）
+  - 「金属3Dプリンター【適した造形材料と方法でコストダウンをご提案】」（https://mono.ipros.com/company/detail/2045838/・3回目）
+  - 「【造形事例付き】『3Dプリンター受託造形サービス』カタログ」（https://mono.ipros.com/company/detail/2045838/・3回目）
+- 検索結果の抜粋：
+  - 「金属3Dプリンターの受託造形サービスのご相談なら株式会社J・3D — 受託造形サービスとして1点からの試作、小ロットの受託製作、新素材対応など、受託造形サービスとして手掛ける内容をまとめています。 現場で本当に求められる形を実現することに力を注いでおります。」（https://j3d.co.jp/・3回目）
+  - 「J・3Dについて | 金属3Dプリンターの受託造形サービスのご相談なら株... — 3Dプリンターの普及とともに拡大するニーズに対し、試作から小ロットの量産、さらには特殊な構造の造形まで幅広く対応しています。 現場の視点に立ち、設計段階からの技術サポートや加工方法のご提案などを行っております。」（https://j3d.co.jp/j3d/・3回目）
+  - 「J・3D - Wikipedia — ドイツのEOS社の金属3Dプリンターを使いアルミ合金、マルエージング鋼、インコネル718、純チタンの金属粉末をレーザーで焼結させ金型や部品など製作している。 設備は金属3Dプリンターを4台、樹脂3Dプリンターを1台を保有している。」（https://ja.wikipedia.org/wiki/J・3D・3回目）
+  - 「金属3Dプリンターは愛知で製品づくりをサポート | 会社概要J・3D - WikipediaJ・3D | 企業情報 | イプロスものづくり株式会社J・3D | 金属積層造形技術で製造業の未来を創造する株式会社J・3D | 加工会社ナビ事業内容 | 日本3Dプリンター株式会社 — 最寄りの荒子川公園駅より徒歩約15分 あおなみ線荒子川公園駅より徒歩約15分の立地に事務所を構え、3D金属プリンターによる受託造形を手掛けています。 ご予約はお電話にて承っております。 ドイツのEOS社の金属3Dプリンターを使いアルミ合金、マルエージング鋼、インコネル718、純チタンの金属粉末をレーザーで焼結させ金型や部品など製作している。 設備は金属3Dプリンターを4台、樹脂3Dプリンターを1台を保有している。 Jan 9, 2024 · J・3Dの企業情報や製品・サービス、関連カタログをご紹介。 【金属・樹脂の」（https://j3d.co.jp/company/・3回目）
+  - 「J・3D | 企業情報 | イプロスものづくり株式会社J・3D | 金属積層造形技術で製造業の未来を創造する株式会社J・3D | 加工会社ナビ事業内容 | 日本3Dプリンター株式会社 — Jan 9, 2024 · J・3Dの企業情報や製品・サービス、関連カタログをご紹介。 【金属・樹脂の3Dプリンター受託造形の株式会社J・3D】 イプロスものづくりでは、その他製造など製造業向けの情報を多数掲載。 多種金属材料による積層造形の技術基盤 EOS社製の高性能機器群を核とした製造体制で、金属3Dプリンター事業を展開する株式会社J・3Dは、チタン合金やインコネル718相当材から汎用のアルミ・ステンレス系まで多彩な金属粉末に対応している。 同社は金属3Dプリンター受託造形サービスを主力とし、樹脂3Dプリンター造形や鋼材フライス加工も手がけています。 自動車、航空宇宙、医療、スポーツなど多岐にわたる業」（https://mono.ipros.com/company/detail/2045838/・3回目）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+
 ## 株式会社MES甲信
 - 公式URL：https://meskoshin.co.jp（given）
 - 所在地：〒396-0111　長野県伊那市美篶5830-1（https://meskoshin.co.jp/company/・1回目）
@@ -6108,6 +7825,93 @@ TEL:04-7182-4490　FAX:04-7182-2382（https://matsumoto-screw.jp/pages/2/・1回
 - 一点物・少量多品種：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）
 - AM関連：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）
 - 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）
+
+## 株式会社ＹＨＴＣ
+- 公式URL：https://www.yhtc.jp（given）
+- 代表者：堤 孝太郎（https://www.yhtc.jp/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/・1回目）
+- 取扱製品：
+  - 「ステム、半導体レーザソケット、非球面レンズ等の製品を産出して」（https://www.yhtc.jp/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/・1回目）
+  - 「今後、更なる小型化と高性能化を図るとともに低価格製品化に向けた検討を進める」（https://www.yhtc.jp/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/・1回目）
+  - 「本試作の製品化により赤外パワーメータ､変角、分光、偏光、複屈折測定器、レーザー量子分析装置等の各種光計測に貢献できる」（https://www.yhtc.jp/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/・1回目）
+  - 「1991年ころ川崎市内の上場企業である大手弱電メーカー3社から特注の定電流電源の製作依頼が略同時に有り1年を掛け開発納品するが、 メーカーの希望仕様に合わず時間ばかりを奪われ製品完成が見えぬ状況が続く中、客先に使用用途を尋ねたが、㊙事項の一言で断られた」（https://www.yhtc.jp/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/・1回目）
+  - 「この事が切欠と成り、日本全国の理工学系研究室への弊社半導体レーザ駆動電源の納入が始まり、弊社ＬＤドライバーをご使用戴いた学生さんが社会に巣立ち半導体レーザの商品用途開発に弊社ＬＤ駆動電源を用い、これからの半導体レーザ応用製品の裾野が開拓されている」（https://www.yhtc.jp/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/・1回目）
+  - 「その後、２００４年に超小型光チョッパーモジュールを開発、中小企業優秀技術新製品賞を受賞、受賞会場にて、東京工業大学教授武者利光氏と知り合い「ゆらぎ」を知り電源のノイズに興味を持つ事と成り低ノイズLD駆動電源をYAMAKIブランドで商品化、2005年に産業総合技術研究所」（https://www.yhtc.jp/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/・1回目）
+  - 「の製品は、高齢者や、特有の持病等を持たれた人を対象とし、通院される患者に、掛かり付け医が本人の傍にいない場合でも、救急隊員や、他の先生等に持病内容を伝えられるようにと、川崎市内の小林外科病院から依頼され、試作製作を行いました」（https://www.yhtc.jp/%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A-%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5%E5%B1%8B/・1回目）
+  - 「蓋と本体にネジ加工が施され、間にオーリングを配置することで、密封状況を維持でき防水性を高めた製品です」（https://www.yhtc.jp/%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A-%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5%E5%B1%8B/・1回目）
+  - 「お客様に有っては、エンドユーザーの心を射止め、より良いヒット性のある製品誕生への近道と成る様創意工夫させて戴きます」（https://www.yhtc.jp/%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A-%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5%E5%B1%8B/・1回目）
+  - 「3Ｄプリント加工製品例（サーキュレーター用冷却循環アルミブロック）」（https://www.yhtc.jp/%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A-%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5%E5%B1%8B/・1回目）
+  - 「製品保証について - ｜レーザ制御技術要素は、ＹＨＴＣ｜温度制御は、ＹＨＴＣ｜」（https://www.yhtc.jp/%E8%A3%BD%E5%93%81%E4%BF%9D%E8%A8%BC/・1回目）
+  - 「株式会社ＹＨＴＣ（以下「当社」）の製品保証について以下に記載します」（https://www.yhtc.jp/%E8%A3%BD%E5%93%81%E4%BF%9D%E8%A8%BC/・1回目）
+- 取扱材料：
+  - 「ラミネート加工とは、樹脂」（https://www.yhtc.jp/%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E5%90%8D%E5%88%BA%E3%82%B9%E3%83%86%E3%83%83%E3%82%AB%E3%83%BC/・1回目）
+  - 「ストーンペーパーは石灰石と合成樹脂を混ぜ合わせてシート状に加工します」（https://www.yhtc.jp/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E8%A3%BD%E5%93%81/・1回目）
+  - 「ＰＦＡ溶接・樹脂等の加工 - ｜レーザ制御技術要素は、ＹＨＴＣ｜温度制御は、ＹＨＴＣ｜」（https://www.yhtc.jp/%EF%BD%90%EF%BD%86%EF%BD%81%E6%BA%B6%E6%8E%A5-%E6%A8%B9%E8%84%82%E5%8A%A0%E5%B7%A5/・1回目）
+  - 「チャンバー材質 ：フッ素樹脂 / 石英硝子 /」（https://www.yhtc.jp/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%B3%E6%B1%8E%E7%94%A8%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC/・1回目）
+  - 「紙の材質は、ストーンペーパを使用していますので、災害、水害時に於いても、水等で破れる心配は、有りません」（https://www.yhtc.jp/%E7%81%BD%E5%AE%B3%E6%99%82%E9%81%BF%E9%9B%A3%E3%83%9E%E3%83%83%E3%83%97-%E6%B4%A5%E6%B3%A2%E3%83%9E%E3%83%83%E3%83%97/・1回目）
+- 一点物・少量多品種：
+  - 「LD駆動周辺要素回路基板 30種/ 組込・試作用」（https://www.yhtc.jp/・1回目）
+  - 「送受信機100ｃＨの試作機を製作」（https://www.yhtc.jp/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/・1回目）
+  - 「これにより、他に類の無い超小型な微弱光計測器の試作が出来た」（https://www.yhtc.jp/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/・1回目）
+  - 「本試作の製品化により赤外パワーメータ､変角、分光、偏光、複屈折測定器、レーザー量子分析装置等の各種光計測に貢献できる」（https://www.yhtc.jp/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/・1回目）
+  - 「1991年ころ川崎市内の上場企業である大手弱電メーカー3社から特注の定電流電源の製作依頼が略同時に有り1年を掛け開発納品するが、 メーカーの希望仕様に合わず時間ばかりを奪われ製品完成が見えぬ状況が続く中、客先に使用用途を尋ねたが、㊙事項の一言で断られた」（https://www.yhtc.jp/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/・1回目）
+  - 「その後、半導体レーザ関連学会技術者間で、弊社LD電源の話が広がり、ＮＴＴの横須賀研究所より、100ｃH光多重送受信機の試作に呼ばれ、光通信技術を経験する事が出来た」（https://www.yhtc.jp/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/・1回目）
+  - 「NTT横須賀研究所で経験した技術に、光増幅と言う新技術を学び得た.技術試作部が配置する弊社は、東急田園都市線すずかけ台駅下車、徒歩１０分程に位置した場所に社屋を構えていた為、東京科学大学大学院すずかけ台キャンパスとは、国道R246線を挟み目と鼻の先の関係に配置されていたことから、総合理工学部大津研究室との学生との交流があり、1997年、当時研究室の助手であった興侶元伸氏と光コム研究所設立期に出会い光コム技術を知る切欠を得た」（https://www.yhtc.jp/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/・1回目）
+  - 「商品総合カタログ（見開きＡ3版、問い合わせ顧客対応用）及び単品商品カタログ（Ａ4版）の有償支給」（https://www.yhtc.jp/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/・1回目）
+  - 「LD駆動周辺要素回路基板 30種/ 組込・試作用」（https://www.yhtc.jp/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/・1回目）
+  - 「LD駆動周辺要素回路基板 30種/ 組込・試作用」（https://www.yhtc.jp/opt%E7%B7%8F%E5%90%88%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0pdf/・1回目）
+  - 「試作加工、SUS製チャンバー、量産部品加工、金型製作、承ります」（https://www.yhtc.jp/%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A-%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5%E5%B1%8B/・1回目）
+  - 「の製品は、高齢者や、特有の持病等を持たれた人を対象とし、通院される患者に、掛かり付け医が本人の傍にいない場合でも、救急隊員や、他の先生等に持病内容を伝えられるようにと、川崎市内の小林外科病院から依頼され、試作製作を行いました」（https://www.yhtc.jp/%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A-%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5%E5%B1%8B/・1回目）
+- 製品分野：
+  - 「半導体レーザ制御用周辺機器部材 - ｜レーザ制御技術要素は、ＹＨＴＣ｜温度制御は、ＹＨＴＣ｜」（https://www.yhtc.jp/・1回目）
+  - 「半導体レーザ /半導体サーモ・モジュール制御要素部材」（https://www.yhtc.jp/・1回目）
+  - 「｜ヒートシンク｜半導体レーザソケット｜温度センサー｜」（https://www.yhtc.jp/・1回目）
+  - 「｜半導体レーザ/光送受信（O/E.E/O.変調）実験システム｜」（https://www.yhtc.jp/・1回目）
+  - 「半導体モジュールプロセスライン汎用ケミカルサーキュレーター」（https://www.yhtc.jp/・1回目）
+  - 「ＬＤドライバー｜半導体レーザドライバー｜パルスＬＤドライバー｜」（https://www.yhtc.jp/・1回目）
+  - 「半導体レーザ駆動制御電源KLD-1ALT」（https://www.yhtc.jp/・1回目）
+  - 「半導体レーザ専用LDソケット＆LDコネクターⅠ」（https://www.yhtc.jp/・1回目）
+  - 「半導体レーザ専用LDソケット＆LDコネクターⅢ」（https://www.yhtc.jp/・1回目）
+  - 「半導体レーザ専用LDソケット＆LDコネクターⅡ」（https://www.yhtc.jp/・1回目）
+  - 「｜低雑音大出力電流電源｜ローノイズLD駆動電源｜低ノイズ半導体レーザ駆動電源｜」（https://www.yhtc.jp/・1回目）
+  - 「半導体レーザ /半導体サーモ・モジュール制御要素部材」（https://www.yhtc.jp/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/・1回目）
+- AM関連：
+  - 「AM9:00～ＰＭ17：00」（https://www.yhtc.jp/・1回目）
+  - 「その後、２００４年に超小型光チョッパーモジュールを開発、中小企業優秀技術新製品賞を受賞、受賞会場にて、東京工業大学教授武者利光氏と知り合い「ゆらぎ」を知り電源のノイズに興味を持つ事と成り低ノイズLD駆動電源をYAMAKIブランドで商品化、2005年に産業総合技術研究所」（https://www.yhtc.jp/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/・1回目）
+  - 「AM9:00～ＰＭ17：00」（https://www.yhtc.jp/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/・1回目）
+  - 「AM9:00～ＰＭ17：00」（https://www.yhtc.jp/opt%E7%B7%8F%E5%90%88%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0pdf/・1回目）
+  - 「AM9:00～ＰＭ17：00」（https://www.yhtc.jp/%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A-%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5%E5%B1%8B/・1回目）
+  - 「AM9:00～ＰＭ17：00」（https://www.yhtc.jp/%E8%A3%BD%E5%93%81%E4%BF%9D%E8%A8%BC/・1回目）
+  - 「AM9:00～ＰＭ17：00」（https://www.yhtc.jp/%E8%A3%BD%E5%93%81%E4%BF%9D%E5%AE%88%E4%BF%9D%E8%A8%BC/・1回目）
+  - 「How does Cloudflare protect email addresses on website from spammers?」（https://www.yhtc.jp/cdn-cgi/l/email-protection・1回目）
+  - 「AM9:00～ＰＭ17：00」（https://www.yhtc.jp/%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E5%90%8D%E5%88%BA%E3%82%B9%E3%83%86%E3%83%83%E3%82%AB%E3%83%BC/・1回目）
+  - 「AM9:00～ＰＭ17：00」（https://www.yhtc.jp/products/・1回目）
+  - 「AM9:00～ＰＭ17：00」（https://www.yhtc.jp/%E5%AE%89%E5%85%A8-%E5%AE%89%E5%BF%83%E7%94%9F%E6%B4%BB%E9%96%A2%E9%80%A3%E8%A3%BD%E5%93%81%E3%82%B5%E3%82%A4%E3%83%88/・1回目）
+  - 「AM9:00～ＰＭ17：00」（https://www.yhtc.jp/%E5%AE%89%E5%85%A8-%E5%AE%89%E5%BF%83%E7%94%9F%E6%B4%BB%E9%96%A2%E9%80%A3%E8%A3%BD%E5%93%81%E3%82%B5%E3%82%A4%E3%83%88-1/・1回目）
+- 連絡先：
+  - 「Email Protection | Cloudflare」（https://www.yhtc.jp/cdn-cgi/l/email-protection・1回目）
+  - 「You are unable to access this email address」（https://www.yhtc.jp/cdn-cgi/l/email-protection・1回目）
+  - 「The website from which you got to this page is protected by Cloudflare. Email addresses on that page have been hidden in order to keep them from being accessed by malicious bots.」（https://www.yhtc.jp/cdn-cgi/l/email-protection・1回目）
+  - 「You must enable Javascript in your browser in order to decode the e-mail address」（https://www.yhtc.jp/cdn-cgi/l/email-protection・1回目）
+  - 「How does Cloudflare protect email addresses on website from spammers?」（https://www.yhtc.jp/cdn-cgi/l/email-protection・1回目）
+  - 「当日若しくは翌日にメールにてご返事させて戴きます」（https://www.yhtc.jp/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E8%A3%BD%E5%93%81/・1回目）
+  - 「そこで産総研は排水処理における経験を生 * E-mail :」（https://www.yhtc.jp/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%B3%E6%B1%8E%E7%94%A8%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC/・1回目）
+  - 「お問い合わせ - ｜レーザ制御技術要素は、ＹＨＴＣ｜温度制御は、ＹＨＴＣ｜」（https://www.yhtc.jp/%E3%81%8A%E5%95%8F%E5%90%88%E3%82%8F%E3%81%9B/・1回目）
+  - 「貴社へ、弊社は、Ａ商品の、仕様書、見積書をメールで送付致」（https://www.yhtc.jp/2022/11/15/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%AB%E3%81%AF-%E7%84%A1%E3%81%84%E8%B5%B7%E6%A5%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-%E5%B9%B4%E9%BD%A2%E5%95%8F%E3%82%8F%E3%81%9A-%E5%82%8D%E6%A5%BD%E4%BA%8B%E6%A5%AD%E3%82%92%E6%8F%90%E6%A1%88/・1回目）
+- 検索結果の抜粋：
+  - 「会社概要案内 - ｜レーザ制御技術要素は、YHTC｜温度制御は、YHTC｜ — 商 号：株式会社 YHTC / YHTC Co.,Ltd 法人番号：5012301008501 本 社： LD駆動/温度制御電源及び光ロジック組立製造業務 〒194－0002 東京都町田市南つくし野 2-31-15 2024年 東北地域: 鶴岡支店開設 半導体製造設備機器の延命・ 保守サービス」（https://www.yhtc.jp/会社案内/・3回目）
+  - 「概要 - ｜レーザ制御技術要素は、YHTC｜温度制御は、YHTC｜ — YHTC Co.,Ltd 半導体レーザ /半導体サーモ・モジュール制御要素部材 半導体製造設備ラインの延命保守サービス ｜レーザドライバー｜ペルチェドライバー｜サーモモジュール｜ ｜ヒートシンク｜半導体レーザソケット｜温度センサー｜ ｜LDパイプソケット ...」（https://www.yhtc.jp/about/・3回目）
+  - 「株式会社YHTC（東京都）の会社概要・役員 | Compalyze — 〒194-0002 東京都町田市に本社を置く株式会社YHTCの企業情報。株式会社YHTCは、半導体レーザと半導体サーモモジュールの制御機器・周辺部材の開発、製造販売。製造業 (電気・電子機器)、社会保険被保険者数4名。代表者 堤孝太郎。役員1名・登記2件。」（https://compalyze.co.jp/company/5012301008501・3回目）
+  - 「株式会社YHTCの会社概要・製品情報 | MetoreeYHTC | 企業情報 | イプロスAbout Us - YHTCYHTC | 企業情報 | イプロスものづくり — 会社概要 株式会社YHTCは1988年に創業された、半導体レーザー制御部品などのメーカーです。 半導体の再結合発光を利用したレーザーである半導体レーザー専用の電源、メモリを基板などに取り付けるための受け口であるソケットなどの製造を行っています。 YHTCの企業情報や製品・サービス、関連カタログをご紹介。 安全安心ものづくりはYHTC の企画・設計・試作・開発から量産へ。 イプロスでは、その他なBtoB向けの情報を多数掲載。 Founded in 2003, YHTC is a Beijing-based manufacturer of pressure calibration and verification equi」（https://metoree.com/companies/10505/・3回目）
+  - 「YHTC | 企業情報 | イプロスAbout Us - YHTCYHTC | 企業情報 | イプロスものづくり — YHTCの企業情報や製品・サービス、関連カタログをご紹介。 安全安心ものづくりはYHTC の企画・設計・試作・開発から量産へ。 イプロスでは、その他なBtoB向けの情報を多数掲載。 Founded in 2003, YHTC is a Beijing-based manufacturer of pressure calibration and verification equipment with ISO9001, factory-direct prices, lifetime support. Aug 13, 2009 · YHTCの企業情報や製品・サービス、関連カタログをご紹介。 安全安心ものづくりはYHTC の企画・設計・試作・開発から量産へ。 イプロスものづくりでは」（https://www.ipros.com/company/detail/2056441/・3回目）
+  - 「お問い合わせ - ｜レーザ制御技術要素は、YHTC｜温度制御は、YHTC｜ — メモ:* は入力必須項目です 問い合わせ TEL:042－706－8970 安全安心ものづくりに活用下さいYHTCの技術 【試作屋】【機械屋】【板金屋】【基板屋】【半導体レーザー制御用機器】【モック屋】【プラスチック成型】」（https://www.yhtc.jp/お問合わせ/・3回目）
+  - 「yhtc.co.jp - M&W Eco — がんばろう、日本 このページはNTTコミュニケーションズが提供する Bizホスティング メール＆ウェブ エコノミー を ご利用中のお客さまのサイトです。 お問い合わせは こちら までお願いします。」（http://www.yhtc.co.jp/・3回目）
+  - 「会社概要案内 - ｜レーザ制御技術要素は、YHTC｜温度制御は、YHTC｜ — 1986年頃IBM/PCが日本に上陸したが、弊社では、米国と日本の電送規格が異なる為、IBM/PCの性能を十分発揮出来て無い事にIBM/PC販売会社の問い合わせからヒントを得て、AC100V入力/AC110V出力のステップアップ電源を商品化開発しKeetブランドで月産250台の電源製造 ...」（https://www.yhtc.jp/会社案内/・3回目）
+- 所在地：記載なし（3回確認済み：公式27頁／PDF・画像1件／外部16頁・検索9回）
+- 事業内容：記載なし（3回確認済み：公式27頁／PDF・画像1件／外部16頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式27頁／PDF・画像1件／外部16頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式27頁／PDF・画像1件／外部16頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式27頁／PDF・画像1件／外部16頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式27頁／PDF・画像1件／外部16頁・検索9回）
 
 ## 株式会社 エージェンシーアシスト 京都本社　営業所(仙台・東京・埼玉・神奈川・浜松・愛知・岐阜・新潟・福井・奈良・兵庫・岡山・福岡)
 - 公式URL：https://www.agency-assist.co.jp（given）
@@ -6519,6 +8323,89 @@ TEL:04-7182-4490　FAX:04-7182-2382（https://matsumoto-screw.jp/pages/2/・1回
 - 取引先：記載なし（3回確認済み：公式10頁／PDF・画像8件／外部5頁・検索9回）
 - 連絡先：記載なし（3回確認済み：公式10頁／PDF・画像8件／外部5頁・検索9回）
 
+## 株式会社アルケー
+- 公式URL：https://arkhe.net（given）
+- 所在地：福井県福井市今市町19-1-5（https://arkhe.net/company/・1回目）
+- 代表者：山中 勝允（https://arkhe.net/company/・1回目）
+- 取扱製品：
+  - 「製造から出荷まで製品の寸法、形状、強度などを管理」（https://arkhe.net/・1回目）
+  - 「また加工した材料を使い、多くの製品も作っています」（https://arkhe.net/company/・1回目）
+  - 「丸線・直線材は特殊な金型に素材を通しながら均一の寸法に引き伸ばしていきます.これを伸線加工といい、表面をなめらかに保ちながらわずかな誤差もなく加工していく精度は、国内外から高い評価をいただいています.φ0.8～6.5ミリまでの伸線ができ、線径公差±0.005内での調整も可能です.眼鏡部品製造で培った技術をさらに高めながら、工業用製品や医療の分野にも販路を拡大しています.」（https://arkhe.net/service/・1回目）
+  - 「弊社の材料は、主にメガネ、時計、自転車の部品などに使用されております.弊社オリジナルの機械で、材料の特性に合わせて伸線をしているため、組織が均一で線径にバラつきがありません.次工程（＝お客様が行う工程）での使いやすさ、最終製品の仕上がりの美しさを追求した丸線です.また、自社で伸線しているので、硬さの強弱や寸法アレンジなど、細かな対応ができます.素材は全て日本製で、ミルシートの添付も可能です.」（https://arkhe.net/service/・1回目）
+  - 「当社は常に高水準の製品を提供するために、高度な技術を使用して製品を作り出しています.また、品質を保証するために、厳格な品質管理を実施しています.製品のすべての面を検査し、最高品質の基準を遵守することで、お客様に信頼性と安心を提供します.」（https://arkhe.net/service/・1回目）
+  - 「厳正な検査体制の下、製品の寸法、形状、強度など数々のチェックを実施しています.製造から出荷まですべての工程において、全社員が品質に対する高い意識を共有し、さらなる向上に日々努めています.」（https://arkhe.net/service/・1回目）
+  - 「最高品質の製品をスピーディーにお届けします.」（https://arkhe.net/service/・1回目）
+  - 「例えば、このような分野でチタン製品が使われています.」（https://arkhe.net/service/・1回目）
+  - 「新規製品開発にあたり、試作品の小ロット生産から始めることは非常に重要です」（https://arkhe.net/products/・1回目）
+  - 「新規製品開発にあたり、試作品の小ロット生産から始めることは非常に重要です」（https://arkhe.net/company/history/・1回目）
+  - 「新規製品開発にあたり、試作品の小ロット生産から始めることは非常に重要です」（https://arkhe.net/products-cat/material/・1回目）
+  - 「新規製品開発にあたり、試作品の小ロット生産から始めることは非常に重要です」（https://arkhe.net/products-cat/plate/・1回目）
+- 取扱材料：
+  - 「株式会社アルケー | チタン資材 製造・販売・加工のプロフェッショナル」（https://arkhe.net/・1回目）
+  - 「培ってきたのは、チタンを使った」（https://arkhe.net/・1回目）
+  - 「チタンは軽量で高強度、優れた耐食性を持つ金属です」（https://arkhe.net/・1回目）
+  - 「チタンの歴史や、規格の種類、優れた特性、業界動向、加工方法などをご紹介します」（https://arkhe.net/・1回目）
+  - 「私たちの会社は、主に「チタン」の丸線や板材を、お客様が必要とされる線径や厚み、形状(異型線)に加工し販売しています」（https://arkhe.net/company/・1回目）
+  - 「軽くて錆びにくいチタンは、医療現場でも使われるような人にやさしい金属であり、あらゆる分野で使用されておりますが、加工がとても難しい金属でもあります」（https://arkhe.net/company/・1回目）
+  - 「皆様のものづくりに、アルケーのチタンをどうぞお役立てください」（https://arkhe.net/company/・1回目）
+  - 「高い技術と深い知識が必要とされるチタンの加工.自社工場での一貫生産を行う中で技術を磨いた熟練の職人が、あらゆる可能性に挑戦し、お客様のご要望をカタチにします.」（https://arkhe.net/service/・1回目）
+  - 「純チタン（JIS2種, TW340）、βチタン(Ti-22V-4Al, Ti-15-3-3-3)、Ti-3Al-2.5V」（https://arkhe.net/service/・1回目）
+  - 「βチタン(Ti-22V-4Al, Ti-15-3-3-3)、Ti-3Al-2.5V」（https://arkhe.net/service/・1回目）
+  - 「純チタン（JIS2種,TP340）」（https://arkhe.net/service/・1回目）
+  - 「βチタン（Ti-15-3-3-3）」（https://arkhe.net/service/・1回目）
+- 一点物・少量多品種：
+  - 「多種少量生産でもご依頼ください.豊富な実績があります.」（https://arkhe.net/service/・1回目）
+  - 「新規製品開発にあたり、試作品の小ロット生産から始めることは非常に重要です」（https://arkhe.net/products/・1回目）
+  - 「新規製品開発にあたり、試作品の小ロット生産から始めることは非常に重要です」（https://arkhe.net/company/history/・1回目）
+  - 「新規製品開発にあたり、試作品の小ロット生産から始めることは非常に重要です」（https://arkhe.net/products-cat/material/・1回目）
+  - 「新規製品開発にあたり、試作品の小ロット生産から始めることは非常に重要です」（https://arkhe.net/products-cat/plate/・1回目）
+  - 「新規製品開発にあたり、試作品の小ロット生産から始めることは非常に重要です」（https://arkhe.net/products-cat/groove/・1回目）
+  - 「新規製品開発にあたり、試作品の小ロット生産から始めることは非常に重要です」（https://arkhe.net/products-cat/glasses/・1回目）
+  - 「新規製品開発にあたり、試作品の小ロット生産から始めることは非常に重要です」（https://arkhe.net/works/・1回目）
+  - 「新規製品開発にあたり、試作品の小ロット生産から始めることは非常に重要です」（https://arkhe.net/recruit/・1回目）
+  - 「新規製品開発にあたり、試作品の小ロット生産から始めることは非常に重要です」（https://arkhe.net/products/products-451/・1回目）
+  - 「新規製品開発にあたり、試作品の小ロット生産から始めることは非常に重要です」（https://arkhe.net/products/products-453/・1回目）
+  - 「新規製品開発にあたり、試作品の小ロット生産から始めることは非常に重要です」（https://arkhe.net/products/products-455/・1回目）
+- 製品分野：
+  - 「航空宇宙や医療分野などで活用され、今後さらに用途が広がる可能性を秘めています」（https://arkhe.net/・1回目）
+  - 「溝線を作るための丸線のみならず、 金型も自社で製造しております」（https://arkhe.net/・1回目）
+  - 「細部まで突き詰めて金型を設計しているので、 出来上がっ...」（https://arkhe.net/・1回目）
+  - 「軽くて錆びにくいチタンは、医療現場でも使われるような人にやさしい金属であり、あらゆる分野で使用されておりますが、加工がとても難しい金属でもあります」（https://arkhe.net/company/・1回目）
+  - 「丸線・直線材は特殊な金型に素材を通しながら均一の寸法に引き伸ばしていきます.これを伸線加工といい、表面をなめらかに保ちながらわずかな誤差もなく加工していく精度は、国内外から高い評価をいただいています.φ0.8～6.5ミリまでの伸線ができ、線径公差±0.005内での調整も可能です.眼鏡部品製造で培った技術をさらに高めながら、工業用製品や医療の分野にも販路を拡大しています.」（https://arkhe.net/service/・1回目）
+  - 「弊社は溝線の製造において、丸線だけでなく、金型も自社内で製作しています.細部まで突き詰めて金型を設計しているので、出来上がった溝線の機械性質は安定しています.ベンディング時にもバラつきがなく、巻きやすい溝線です.フル溝のV角度は左右対称で、ナイロールの溝の形状も安定しています.素材は全て日本製で、ミルシートの添付も可能です.」（https://arkhe.net/service/・1回目）
+  - 「医療機器製造業、第三種 医療機器製造販売業 許可取得」（https://arkhe.net/company/history/・1回目）
+  - 「溝線を作るための丸線のみならず、 金型も自社で製造しております」（https://arkhe.net/products/products-455/・1回目）
+  - 「細部まで突き詰めて金型を設計しているので、 出来上がった溝線の機械性質は安定しています」（https://arkhe.net/products/products-455/・1回目）
+  - 「医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第 23 AO 2 の3」（https://arkhe.net/wp-content/themes/arkhe/assets/img/PDF/Medical-device.pdf・2回目）
+  - 「第 1 項の規定により登録された医療 機 器製造業者であることを証明する」（https://arkhe.net/wp-content/themes/arkhe/assets/img/PDF/Medical-device.pdf・2回目）
+  - 「医薬品、 医療機器等の品質、」（https://arkhe.net/wp-content/themes/arkhe/assets/img/PDF/Medical-device-manufacture.pdf・2回目）
+- 連絡先：
+  - 「当社は，ユーザーが利用登録をする際に氏名，生年月日，住所，電話番号，メールアドレス，銀行口座番号，クレジットカード番号，運転免許証番号などの個人情報をお尋ねすることがあります」（https://arkhe-0315.com/contact/・3回目）
+  - 「ユーザーからのお問い合わせに回答するため（本人確認を行うことを含む）」（https://arkhe-0315.com/contact/・3回目）
+  - 「ユーザーが利用中のサービスの新機能，更新情報，キャンペーン等及び当社が提供する他のサービスの案内のメールを送付するため」（https://arkhe-0315.com/contact/・3回目）
+  - 「第10条（お問い合わせ窓口）」（https://arkhe-0315.com/contact/・3回目）
+  - 「本ポリシーに関するお問い合わせは，下記の窓口までお願いいたします」（https://arkhe-0315.com/contact/・3回目）
+  - 「Eメールアドレス：info@arkhes.jp」（https://arkhe-0315.com/contact/・3回目）
+- 検索結果の抜粋：
+  - 「製品紹介 - 株式会社アルケー — 弊社では少量でも 対応可能ですので、 ぜひご相談ください。 新規製品開発にあたり、試作品の小ロット生産から始めることは非常に重要です。 高品質な機械加工品を提供し、新規開発のパートナーとして、お客様のビジネスを全力でサポートします。」（https://arkhe.net/products/・3回目）
+  - 「株式会社アルケー | チタン資材 製造・販売・加工のプロフェッショナ... — 一切の妥協を許さず 0.01ミリを実現する 世界に誇るチタン加工品質 豊富な専門知識、技術ノウハウ、そして品質に対する取り組みを持つ当社は、どんなに複雑で困難な要件であっても、すべてのお客様のニーズに応えることができる自信があります。アイデアを実現するためのパートナーをお ...」（https://arkhe.net/・3回目）
+  - 「株式会社アルケー — 自社製品の開発、設計、製造は弊社本社工場を軸に日本国内4拠点、海外6拠点のパートナー会社と連携しお客様のあらゆるニーズに対応しております。 私たちは様々な試料を評価し、お客様の環境にあったコアな生産プロセスを提供しております。」（https://arkhe-0315.com/・3回目）
+  - 「株式会社アルケー | チタン資材 製造・販売・加工のプロフェッショナ... — アルケーでは、知識と技術を備えた専門社員が加工から納品までワンストップでご要望にお応えします。 チタンをはじめ精緻な技術を要する加工についてのコンサルティングも行っておりますので、 部品製造に関することなら何でもお気軽にご相談ください。」（https://arkhe.net/・3回目）
+  - 「会社概要 - アルケア株式会社会社概要 - 株式会社アルケー株式会社アルケー会社概要 – 株式会社アルケーcompany - 株式会社ARKHE — アルケアの会社概要および事業所一覧です。 東京都墨田区に本社をおき、医療機器、医療用消耗材料の開発、製造、販売および輸出入を行う企業です。 本社、研究所、工場の所在地およびアクセスマップを掲載しています。 アルケーでは、知識と技術を備えた専門社員が加工から納品までワンストップでご要望にお応えします。 チタンをはじめ精緻な技術を要する加工についてのコンサルティングも行っておりますので、 部品製造に関することなら何でもお気軽にご相談ください。 株式会社アルケーはステークホルダーの皆様へ限られた水資源、エネルギー資源を有効に再生利用できる環境機器を提供しております。 私達は持続可能な社会と平和な未来を皆様と考え、生命の為の豊かな地球環境保護を目指し」（https://www.alcare.co.jp/company/profile/・3回目）
+  - 「会社概要 - 株式会社アルケー — アルケーでは、知識と技術を備えた専門社員が加工から納品までワンストップでご要望にお応えします。 チタンをはじめ精緻な技術を要する加工についてのコンサルティングも行っておりますので、 部品製造に関することなら何でもお気軽にご相談ください。」（https://arkhe.net/company/・3回目）
+  - 「株式会社アルケー — 株式会社アルケーはステークホルダーの皆様へ限られた水資源、エネルギー資源を有効に再生利用できる環境機器を提供しております。 私達は持続可能な社会と平和な未来を皆様と考え、生命の為の豊かな地球環境保護を目指します。」（https://arkhe-0315.com/・3回目）
+  - 「会社概要 – 株式会社アルケー — 自社製品の開発、設計、製造は弊社本社工場を軸に日本国内4拠点、海外6拠点のパートナー会社と連携しお客様のあらゆるニーズに対応しております。 私たちは様々な試料を評価し、お客様の環境にあったコアな生産プロセスを提供しております。」（https://arkhe-0315.com/company/・3回目）
+  - 「お問い合わせ | 株式会社アルケー — メールでのお問い合わせ 以下のフォームに必要事項をご記入の上ご送信ください。 後日、担当よりご連絡させていただきます。 ＊必須入力項目です。 必ずご記入お願いいたします。」（https://arkhe.net/contact/・3回目）
+  - 「お問い合わせ – 株式会社アルケー — 第10条（お問い合わせ窓口） 本ポリシーに関するお問い合わせは，下記の窓口までお願いいたします。 住所：埼玉県川口市東領家4-1-20 社名：株式会社アルケー Eメールアドレス：info@arkhes.jp」（https://arkhe-0315.com/contact/・3回目）
+  - 「お問い合わせ - アルケー株式会社お問い合わせ – 株式会社アルケーArche（アルケー）ご相談・お問い合わせ｜アルケーエコ株式会社CONTACT of 合同会社アルケー - arkhe.ltd — TEL 0276-78-2179 営業時間 9:00～17:00 定休日 土曜日・日曜日 〒370-0713 群馬県邑楽郡明和町中谷124 ミコーズビル2F-1 HOME 会社案内 事業紹介 当社の人材派遣について 派遣の流れ お知らせ お問い合わせ search 株式会社アルケー（以下，「当社」といいます。 ）は，本ウェブサイト上で提供するサービス（以下,「本サービス」といいます。 ）における，ユーザーの個人情報の取扱いについて，以下のとおりプライバシーポリシー（以下，「本ポリシー」といいます。 お問い合わせ ご質問・ご相談はこちらよりお寄せください。 Contact ... ※お客様のメー」（https://www.arkhe.co.jp/contact・3回目）
+  - 「お問い合わせ – 株式会社アルケー — 株式会社アルケー（以下，「当社」といいます。 ）は，本ウェブサイト上で提供するサービス（以下,「本サービス」といいます。 ）における，ユーザーの個人情報の取扱いについて，以下のとおりプライバシーポリシー（以下，「本ポリシー」といいます。」（https://crossdesign-testsite.com/Arkhe/contact/・3回目）
+- 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像5件／外部19頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像5件／外部19頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像5件／外部19頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式25頁／PDF・画像5件／外部19頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式25頁／PDF・画像5件／外部19頁・検索9回）
+- AM関連：記載なし（3回確認済み：公式25頁／PDF・画像5件／外部19頁・検索9回）
+
 ## 株式会社アール・ティー・シー
 - 公式URL：http://www.rtc-corp.co.jp（given）
 - 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
@@ -6688,6 +8575,96 @@ TEL:04-7182-4490　FAX:04-7182-2382（https://matsumoto-screw.jp/pages/2/・1回
 - 拠点：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部9頁・検索9回）
 - 取扱材料：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部9頁・検索9回）
 
+## 株式会社エスケー
+- 公式URL：http://www.sk-co-ltd.com（given）
+- 取扱製品：
+  - 「4）製品の準備が出来次第、お客様のお手元へ出荷いたします」（https://www.sk-co-ltd.com/・1回目）
+  - 「代金引換（佐川急便）による製品お引渡し時の現金取引でお願いいたします」（https://www.sk-co-ltd.com/・1回目）
+  - 「発送に係る送料・代引手数料・梱包料として、製品代金以外に￥1,500を申し受けます（税別）」（https://www.sk-co-ltd.com/・1回目）
+  - 「また、お送りする製品の大きさ、量によっては上記の金額を超えることがございます」（https://www.sk-co-ltd.com/・1回目）
+  - 「基本的には製品を最小単位にてご購入いただくことになっておりますが、一部製品につきましては端材をご提供できることがございますので、一度ご相談ください」（https://www.sk-co-ltd.com/・1回目）
+  - 「製品に明らかな瑕疵が認められる場合を除き、製品のご返品は出来かねます」（https://www.sk-co-ltd.com/・1回目）
+  - 「製品に関するお問い合わせ、ご相談はこちらから」（https://www.sk-co-ltd.com/・1回目）
+  - 「（財）朝日中小企業経営情報センターより開発製品顕彰」（https://sk-co-ltd.com/jp/about/history・1回目）
+  - 「トライアル品・試作開発製品・量産成形品、ゴム・プラスチック樹脂・エラストマー・金属加工品の課題をひとつ、ひとつ、解決してまいります」（https://sk-co-ltd.com/jp/about/access・1回目）
+  - 「医療・理化学規格品・ゴム製品・樹脂製品規格案内」（https://sk-co-ltd.com/jp/product・1回目）
+  - 「エスケーは、工業用品から医療製品製造までのみならず、材料販売や完成品も取り扱っております」（https://sk-co-ltd.com/jp/product・1回目）
+  - 「製品の目的、予算、試作品、量産品、データなどに関する質問をぶつけてください」（https://sk-co-ltd.com/jp/%E3%81%8A%E5%95%8F%E5%90%88%E3%81%9B%E6%B5%81%E3%82%8C・1回目）
+- 取扱材料：
+  - 「トライアル品・試作開発製品・量産成形品、ゴム・プラスチック樹脂・エラストマー・金属加工品の課題をひとつ、ひとつ、解決してまいります」（https://sk-co-ltd.com/jp/about/access・1回目）
+  - 「医療・理化学規格品・ゴム製品・樹脂製品規格案内」（https://sk-co-ltd.com/jp/product・1回目）
+  - 「弊社は、樹脂材料をはじめ、合成ゴムやシリコーンゴムの低硬度材から発泡体のスポンジまで幅広く対応しております」（https://sk-co-ltd.com/jp/tech-data・1回目）
+  - 「弊社は樹脂材料をはじめ、合成ゴムやシリコーンゴムの低硬度材から発泡体のスポンジまで幅広く対応いたします」（https://sk-co-ltd.com/jp/tech-data/cutting-products・1回目）
+  - 「【樹脂】：PMP、PBI、PEEK、PPS、PTFE、PEI、PAI、PBT、PVC、POM、ABS、PET、ポリカーボネート、PMMA、PE、PP、PA等」（https://sk-co-ltd.com/jp/tech-data/cutting-products・1回目）
+  - 「★ 設計上の不具合を未然に防ぐため、コンピューターによる樹脂流動解析で製品のパターンを検査します」（https://sk-co-ltd.com/jp/moldingprocessing・1回目）
+  - 「【主要材質】シリコーン、フッ素ゴム、HNBR、その他」（https://sk-co-ltd.com/jp/product/o-ring・1回目）
+  - 「有機無機水系塗材、合成樹脂塗料、無機質系塗材、高級内装装飾材、高意匠性内外シート建材、無機質建材の製造販売及び特殊仕上工事の請負」（https://www.sk-kaken.co.jp/company/・3回目）
+  - 「ゴム樹脂の開発品・特注品・OEM製造のご相談フォーム」（https://sk-co-ltd.com/jp/inquiry・3回目）
+- 一点物・少量多品種：
+  - 「一般的に試作や小ロット生産に適した成形方法ですが、硬度や色指定、複雑な形状の場合、金型製作の方が総合的に安価になる場合もございます」（https://www.sk-co-ltd.com/・1回目）
+  - 「トライアル品・試作開発製品・量産成形品、ゴム・プラスチック樹脂・エラストマー・金属加工品の課題をひとつ、ひとつ、解決してまいります」（https://sk-co-ltd.com/jp/about/access・1回目）
+  - 「ゴム加工の開発品・特注品・OEM製造のエスケー」（https://sk-co-ltd.com/jp/product・1回目）
+  - 「製品の目的、予算、試作品、量産品、データなどに関する質問をぶつけてください」（https://sk-co-ltd.com/jp/%E3%81%8A%E5%95%8F%E5%90%88%E3%81%9B%E6%B5%81%E3%82%8C・1回目）
+  - 「試作1個から２次加工（追加工）や量産加工まで国内外に調達網を有し、最短納期1週間から対応いたします」（https://sk-co-ltd.com/jp/tech-data/cutting-products・1回目）
+  - 「また、特殊な案件や特注品に関しては、材料開発・試作の段階から対応いたします」（https://sk-co-ltd.com/jp/product/o-ring・1回目）
+  - 「一般的に試作や小ロット生産に適した成形方法ですが、硬度や色指定、複雑な形状の場合、金型製作の方が総合的に安価になる場合もございます」（https://sk-co-ltd.com/jp/・1回目）
+  - 「ゴム樹脂の開発品・特注品・OEM製造のご相談フォーム」（https://sk-co-ltd.com/jp/inquiry・3回目）
+- 製品分野：
+  - 「一般的に試作や小ロット生産に適した成形方法ですが、硬度や色指定、複雑な形状の場合、金型製作の方が総合的に安価になる場合もございます」（https://www.sk-co-ltd.com/・1回目）
+  - 「医療機器製造業取得 登録番号 13BZ201513」（https://sk-co-ltd.com/jp/about/history・1回目）
+  - 「第２種医療機器製造販売業取得 登録番号 13B2X10474」（https://sk-co-ltd.com/jp/about/history・1回目）
+  - 「医療・理化学規格品・ゴム製品・樹脂製品規格案内」（https://sk-co-ltd.com/jp/product・1回目）
+  - 「エスケーは、工業用品から医療製品製造までのみならず、材料販売や完成品も取り扱っております」（https://sk-co-ltd.com/jp/product・1回目）
+  - 「金型やプロトタイプの設計の最終決定や調整を行う」（https://sk-co-ltd.com/jp/%E3%81%8A%E5%95%8F%E5%90%88%E3%81%9B%E6%B5%81%E3%82%8C・1回目）
+  - 「標準品は、図面の修正や金型の準備などの工程が少ないことが特徴で、在庫状況に応じて迅速に納品されます」（https://sk-co-ltd.com/jp/%E3%81%8A%E5%95%8F%E5%90%88%E3%81%9B%E6%B5%81%E3%82%8C・1回目）
+  - 「医療製品・マスク・カニューラ・ハイフローカニューラ・パッキン・呼吸器部材・輸送キットワイヤーケーブル・ハーネス等」（https://sk-co-ltd.com/jp/about・1回目）
+  - 「第２種医療機器製造販売業取得」（https://sk-co-ltd.com/jp/about・1回目）
+  - 「耐熱部品、電気部品、自動車部品等、用途が広範囲です」（https://sk-co-ltd.com/jp/product/silicon-tube・1回目）
+  - 「耐熱部品、電気部品、自動車部品等、用途が広範囲です」（https://sk-co-ltd.com/jp/product/o-ring・1回目）
+  - 「・家電一般(加湿器)・業務用給湯器・歯科治療器具・外科系・外科系医療器具・呼吸器系医療器具等」（https://sk-co-ltd.com/jp/product/o-ring・1回目）
+- AM関連：
+  - 「・切削加工は金属を中心にプラスチックやゴム等、多様な造形作業において一般的な加工方法です」（https://sk-co-ltd.com/jp/tech-data/cutting-products・1回目）
+  - 「100T clamping force injects molten plastic into a precisely machined mold, solidifying it under pressure. The machine’s servo-controlled hydraulic system ensures precise ram movement and injection parameters, guaranteeing consistent product quality. Ideal for complex geometries and high-volume production of plastic parts.」（https://sk-co-ltd.com/jp/%E8%A8%AD%E5%82%99・1回目）
+  - 「180T clamping force tackles complex geometries and high-volume production. Servo-controlled hydraulics ensure precise melt injection and mold closure for consistent, high-quality plastic parts in applications like automotive, electronics, and medical.」（https://sk-co-ltd.com/jp/%E8%A8%AD%E5%82%99・1回目）
+  - 「Laser melts polymer filament, extruding it layer-by-layer onto a build platform within a controlled thermal environment. Software dictates the precise deposition path, defining the three-dimensional mask geometry. Upon completion, the printed mask undergoes post-processing (e.g., cooling, support removal) and potential sterilization before use.」（https://sk-co-ltd.com/jp/%E8%A8%AD%E5%82%99・1回目）
+  - 「High-pressure rollers or mandrels deform and weld pre-cut sheet metal into seamless tubes. Precise control of tension, pressure, and forming tools ensures dimensional accuracy and consistent cross-sections. Ideal for high-volume production of tubular components.」（https://sk-co-ltd.com/jp/%E8%A8%AD%E5%82%99・1回目）
+  - 「Combines microscope and infrared light to analyze tiny samples like cells and fibers, revealing their chemical makeup.」（https://sk-co-ltd.com/jp/%E8%A8%AD%E5%82%99・1回目）
+  - 「Tracks heat absorbed or released by sample during temperature change, revealing material properties like melting point, mixing compatibility, and chemical reactions.」（https://sk-co-ltd.com/jp/%E8%A8%AD%E5%82%99・1回目）
+  - 「Measures mass change of a sample as temperature and atmosphere vary over time, unveiling decomposition, phase changes, and reaction kinetics as a sample heats up.」（https://sk-co-ltd.com/jp/%E8%A8%AD%E5%82%99・1回目）
+  - 「Exposes a sample to a beam of high-energy X-rays or gamma rays, which causes the atoms in the sample to emit fluorescent X-rays with characteristic energies, revealing elemental composition of materials.」（https://sk-co-ltd.com/jp/%E8%A8%AD%E5%82%99・1回目）
+  - 「Ozone Aging Test Chamber」（https://sk-co-ltd.com/jp/%E8%A8%AD%E5%82%99・1回目）
+  - 「Maximum allowable particle count is 1,000,000 particles per cubic meter (actually 300,000 in this particular room). Laboratories and manufacturing processes in industries such as optics, electronics, and food processing, where a controlled environment is essential to prevent contamination.」（https://sk-co-ltd.com/jp/%E8%A8%AD%E5%82%99・1回目）
+  - 「（Cucina Italiana Tamanaha）」（https://note.com/pinchama/n/nca09cd231f4a・3回目）
+- 連絡先：
+  - 「お問い合わせからご注文、発送までの流れ」（https://www.sk-co-ltd.com/・1回目）
+  - 「2）弊社でお問合せ内容を確認の上、メールまたはＦＡＸでお見積をお送りいたします」（https://www.sk-co-ltd.com/・1回目）
+  - 「3）お客様からのメールまたはＦＡＸのご返信をもってご注文とさせていただきます」（https://www.sk-co-ltd.com/・1回目）
+  - 「図面、データ等ございましたら、お問い合わせフォーム又はメール、ＦＡＸにて添付してご送信ください」（https://www.sk-co-ltd.com/・1回目）
+  - 「製品に関するお問い合わせ、ご相談はこちらから」（https://www.sk-co-ltd.com/・1回目）
+  - 「ぜひ一度、お問い合わせよりご相談ください」（https://sk-co-ltd.com/jp/about/access・1回目）
+  - 「お問い合わせは、」（https://sk-co-ltd.com/jp/product・1回目）
+  - 「お問い合わせは、」（https://sk-co-ltd.com/jp/about・1回目）
+  - 「ぜひ一度、お問い合わせよりご相談ください」（https://sk-co-ltd.com/jp/tech-data・1回目）
+  - 「お問い合わせは、」（https://sk-co-ltd.com/jp/tech-data・1回目）
+  - 「昨今の材料不足における不安定な状況のなか、弊社へのお問い合わせが増加しております」（https://sk-co-ltd.com/jp/product/o-ring・1回目）
+  - 「お問い合わせからご注文、発送までの流れ」（https://sk-co-ltd.com/jp/・1回目）
+- 検索結果の抜粋：
+  - 「会社概要 | エスケー 化研株式会社 — 会社概要 | エスケー 化研株式会社 エスケー化研株式会社 https://www.sk-kaken.co.jp > company」（https://www.sk-kaken.co.jp/company/・3回目）
+  - 「会社概要 | 企業情報 - 株式会社東京 エスケー — 会社概要 | 企業情報 - 株式会社東京 エスケー 株式会社東京エスケー https://t-sk.ne.jp > corp > corp02」（https://t-sk.ne.jp/corp/corp02.html・3回目）
+  - 「会社概要 - 東京の電気工事は株式会社エスケーシステム — 会社概要 - 東京の電気工事は株式会社エスケーシステム sksystem.jp https://sksystem.jp > company」（https://sksystem.jp/company/・3回目）
+  - 「(株) エスケー ホームの新卒採用・ 会社概要 | マイナビ2027 — (株) エスケー ホームの新卒採用・ 会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp95573 > outline」（https://job.mynavi.jp/27/pc/search/corp95573/outline.html・3回目）
+  - 「お問い合わせ | 株式会社 エスケー アイ — お問い合わせ | 株式会社 エスケー アイ 株式会社エスケーアイ https://ski-inc.jp > contact」（https://ski-inc.jp/contact/・3回目）
+  - 「お問い合わせ - 株式会社 エスケー — お問い合わせ - 株式会社 エスケー SK Co., Ltd. https://sk-co-ltd.com > inquiry」（https://sk-co-ltd.com/jp/inquiry・3回目）
+  - 「お問い合わせ | 株式会社 エスケー - SHINTORA — お問い合わせ | 株式会社 エスケー - SHINTORA SHINTORA https://shintora.co.jp > contact」（https://shintora.co.jp/sk/contact/・3回目）
+  - 「応募・ お問い合わせ ｜株式会社 エスケー （江戸川区中葛西） — 応募・ お問い合わせ ｜株式会社 エスケー （江戸川区中葛西） kk-sk.co.jp https://www.kk-sk.co.jp > contact」（https://www.kk-sk.co.jp/contact/・3回目）
+- 所在地：記載なし（3回確認済み：公式18頁／PDF・画像1件／外部23頁・検索9回）
+- 事業内容：記載なし（3回確認済み：公式18頁／PDF・画像1件／外部23頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式18頁／PDF・画像1件／外部23頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式18頁／PDF・画像1件／外部23頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式18頁／PDF・画像1件／外部23頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式18頁／PDF・画像1件／外部23頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式18頁／PDF・画像1件／外部23頁・検索9回）
+
 ## 株式会社エヌ・エステクニカル
 - 公式URL：http://www.nst-jpn.co.jp（given）
 - 所在地：〒322-0344　栃木県鹿沼市西沢町1453 tel.0289-77-2021（代） fax.0289-77-2612 mail : nst@one.bc9.jp ◆ベトナム工場 DNTN NHAT - VIET JAVIMEX CORPORATION 30/4 st-5 area - Chanh Nghia ward - Thu Dau Mot Cty - Binh Duong provinces - Viet Nam http : // www.javimex.com（http://www.nst-jpn.co.jp/company.html・1回目）
@@ -6783,6 +8760,71 @@ TEL:04-7182-4490　FAX:04-7182-2382（https://matsumoto-screw.jp/pages/2/・1回
 - 売上高：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部7頁・検索9回）
 - 取引先：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部7頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部7頁・検索9回）
+
+## 株式会社オンワード技研 本社
+- 公式URL：http://www.onwardgiken.jp（given）
+- 所在地：＜本社＞ 〒929-0112　石川県能美市福島町ほ 106 番地 MAP TEL：0761-55-0466 FAX：0761-55-4405 ＜関東事業所・関東工場＞ 〒321-4364　栃木県真岡市長田1丁目9番地24 MAP TEL：0285-80-5035 FAX：0285-82-1411（https://www.onwardgiken.jp/company/・1回目）
+- 所在地：923-0111 石川県能美市吉原町（https://www.onwardgiken.jp/blog/about/・1回目）
+- 事業内容：・PVDコーティング受託加工 ・各DLC膜、各セラミック膜 ・表面処理サービス、工具研削サービス（https://www.onwardgiken.jp/company/・1回目）
+- 事業内容：◎コーティング膜の試作および物性評価（硬さ測定、X線回折、元素分析など） ◎コーティングした工具の切削試験（社内旋盤利用） ◎成膜装置の開発、設計、製作（電気・機械設計、シーケンス制御プログラミングなど） ◎製造工程の改善や製造部・営業部への技術支援 ・社外協力会社との打ち合わせや現地作業対応 ◎技術力が認められれば、裁量労働制の適用も可能（4名中3名が適用中） ◎研修として、三菱電機主催の講習会や外部研修にも参加しながら、技術を学んでいただきます。 ◎OJTを通じて、先輩社員から直接指導を受けられる環境です。（https://www.onwardgiken.jp/saiyo/%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85/%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8/・1回目）
+- 代表者：川畠　丈志（https://www.onwardgiken.jp/company/・1回目）
+- 取扱製品：
+  - 「様々な製品をお預かりするため、検査はすべて職人が手作業で行い、」（https://www.onwardgiken.jp/・1回目）
+  - 「DLCコーティングは8種以上、セラミックコーティングは13種以上をラインナップ」（https://www.onwardgiken.jp/・1回目）
+  - 「＜No.31＞新製品「OS-ZZ」」（https://www.onwardgiken.jp/・1回目）
+  - 「DLCコーティング「AC-X」で石川ブランド優秀新製品金賞受賞」（https://www.onwardgiken.jp/company/・1回目）
+  - 「お客様からお預かりした製品をキレイにする「前処理」「洗浄」、効率よく膜をつけるために工夫してセッティングする「組立」、成膜装置を実際に操作したり、品質を確認するための検査やテストなどを行うなど、さまざまなチームが力を合わせて日々の業務に取り組んでいます」（https://www.onwardgiken.jp/saiyo/・1回目）
+  - 「当社は受託加工であり、自社製品を売るセールスではありません」（https://www.onwardgiken.jp/saiyo/・1回目）
+  - 「※詳細なスペックは各製品情報をご覧ください」（https://www.onwardgiken.jp/material/・1回目）
+  - 「＜No.31＞新製品「OS-ZZ」 | オンワード技研 技術ブログ」（https://www.onwardgiken.jp/blog/post-884/・1回目）
+  - 「今回はオンワード技研の新製品「OS-ZZ」についてご説明します」（https://www.onwardgiken.jp/blog/post-884/・1回目）
+  - 「2026秋新製品の「OS-ZZ」、そのほかの膜に関しても、」（https://www.onwardgiken.jp/blog/post-884/・1回目）
+  - 「・「ES-CrN」は、経済産業省「ものづくり中小企業製品開発等支援補助金（試作支援事業）」により開発しました」（https://www.onwardgiken.jp/products/es-crn/・1回目）
+  - 「当社は、半導体製造に欠かせない金型や切削工具に、特殊なコーティングを施すことで、製品の性能を格段に向上させる技術を持っています」（https://www.onwardgiken.jp/saiyo/%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85/%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8/・1回目）
+- 取扱材料：
+  - 「DLC・セラミックスともに特許取得、」（https://www.onwardgiken.jp/・1回目）
+  - 「DLCコーティングは8種以上、セラミックコーティングは13種以上をラインナップ」（https://www.onwardgiken.jp/・1回目）
+  - 「チタン（Ti）・クロム（Cr）系の硬質膜です」（https://www.onwardgiken.jp/・1回目）
+  - 「DLC セラミックコーティング 表面処理のプロ集団」（https://www.onwardgiken.jp/products/・1回目）
+  - 「セラミックコーティング｜TiN / ウスマクTiN」（https://www.onwardgiken.jp/products/・1回目）
+  - 「セラミックコーティング｜SmArc OS-T」（https://www.onwardgiken.jp/products/・1回目）
+  - 「セラミックコーティング｜SmArc OS-Ⅶ」（https://www.onwardgiken.jp/products/・1回目）
+  - 「セラミックコーティング｜SmArc OS-K」（https://www.onwardgiken.jp/products/・1回目）
+  - 「熱変化に強く高速切削加工や樹脂成形金型に最適」（https://www.onwardgiken.jp/products/・1回目）
+  - 「・各DLC膜、各セラミック膜」（https://www.onwardgiken.jp/company/・1回目）
+  - 「セラミックコーティング｜TiN / ウスマクTiN」（https://www.onwardgiken.jp/material/・1回目）
+  - 「セラミックコーティング｜SmArc OS-T」（https://www.onwardgiken.jp/material/・1回目）
+- 一点物・少量多品種：
+  - 「また試作品や少ロットも大歓迎、一個から受注生産しています」（https://www.onwardgiken.jp/・1回目）
+  - 「具体的には、・コーティング膜の試作・コーティングした工具の切削試験・コーティング膜の物性評価・成膜装置製作に必要な機器類の手配、及び部材の製作・成膜装置用制御シーケンサーのプログラミング・成膜装置用電気回路設計・成膜装置用機械設計（2D or 3D Auto-CAD利用）など」（https://www.onwardgiken.jp/saiyo/・1回目）
+  - 「試作品1品から承ります」（https://www.onwardgiken.jp/blog/post-884/・1回目）
+  - 「試作品ご希望の企業様は問い合わせフォームまたはお電話でご連絡ください！」（https://www.onwardgiken.jp/blog/post-884/・1回目）
+  - 「・「ES-CrN」は、経済産業省「ものづくり中小企業製品開発等支援補助金（試作支援事業）」により開発しました」（https://www.onwardgiken.jp/products/es-crn/・1回目）
+  - 「◎コーティング膜の試作および物性評価（硬さ測定、X線回折、元素分析など）」（https://www.onwardgiken.jp/saiyo/%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85/%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8/・1回目）
+- 製品分野：
+  - 「2002年からは、医療分野や研究機関、大学、企業とも連携し、新たな薄膜技術を研究」（https://www.onwardgiken.jp/・1回目）
+  - 「半導体業界向けや医療分野向けのコーティングも、安心してお任せいただけます」（https://www.onwardgiken.jp/・1回目）
+  - 「切削工具や金型、機械部品などの耐久性向上や長寿命化に、幅広く採用されています」（https://www.onwardgiken.jp/・1回目）
+  - 「切削工具・金型をはじめ、自動車部品や精密部品、医療関係まで、全国のお客様の「ものづくり」に貢献しています」（https://www.onwardgiken.jp/・1回目）
+  - 「離型性が必要な金型や撥水性が必要な部品に最適」（https://www.onwardgiken.jp/products/・1回目）
+  - 「熱変化に強く高速切削加工や樹脂成形金型に最適」（https://www.onwardgiken.jp/products/・1回目）
+  - 「膜厚0.5ミクロンで小径工具・金型に最適」（https://www.onwardgiken.jp/products/・1回目）
+  - 「膜厚0.5ミクロンで小径工具・精密金型に最適」（https://www.onwardgiken.jp/products/・1回目）
+  - 「・北陸自動車道 能美根上スマートICから車で5分」（https://www.onwardgiken.jp/company/・1回目）
+  - 「・北関東自動車道 真岡I.Cより約3分」（https://www.onwardgiken.jp/company/・1回目）
+  - 「機械部品から半導体、医療分野まで」（https://www.onwardgiken.jp/saiyo/・1回目）
+  - 「日本全国の大手メーカーや建設機械メーカー等から工具や金型をお預かりし、」（https://www.onwardgiken.jp/saiyo/・1回目）
+- AM関連：
+  - 「@超便粉末成型金型 摩擦係数 0.09~0.13」（https://www.onwardgiken.jp/wp/wp-content/uploads/2023/04/e5ae0555504db8ad715efd89dd7848f5.pdf・2回目）
+  - 「_Ye BS OP LSY1DAMUABELA Besa 107G・cm」（https://www.onwardgiken.jp/wp/wp-content/uploads/2023/04/e5ae0555504db8ad715efd89dd7848f5.pdf・2回目）
+  - 「-L 粉末成型金型 など Re 2~4um 2ー4/m」（https://www.onwardgiken.jp/wp/wp-content/uploads/2023/04/e5ae0555504db8ad715efd89dd7848f5.pdf・2回目）
+- 連絡先：
+  - 「試作品ご希望の企業様は問い合わせフォームまたはお電話でご連絡ください！」（https://www.onwardgiken.jp/blog/post-884/・1回目）
+  - 「お問い合わせお待ちしております ~ ぜひご覧ください」（https://www.onwardgiken.jp/wp/wp-content/uploads/2023/04/e5ae0555504db8ad715efd89dd7848f5.pdf・2回目）
+- 従業員数：記載なし（3回確認済み：公式30頁／PDF・画像5件／外部3頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像5件／外部3頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式30頁／PDF・画像5件／外部3頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式30頁／PDF・画像5件／外部3頁・検索9回）
 
 ## 株式会社オーヒラ
 - 公式URL：https://ohira.co.jp（given）
@@ -7055,6 +9097,63 @@ TEL:04-7182-4490　FAX:04-7182-2382（https://matsumoto-screw.jp/pages/2/・1回
 - 売上高：記載なし（3回確認済み：公式24頁／PDF・画像10件／外部13頁・検索9回）
 - 取引先：記載なし（3回確認済み：公式24頁／PDF・画像10件／外部13頁・検索9回）
 
+## 株式会社クリエイティブコーティングス
+- 公式URL：https://c-coatings.co.jp（given）
+- 所在地：〒940-2128　新潟県長岡市新産東町38 電話：0258-89-8608　FAX番号：0258-89-8609（https://www.c-coatings.co.jp/・1回目）
+- 事業内容：【液相・気相技術事業】 液相・気相コーティングプロセスの現世代技術の進化 並びに次世代技術の研究開発 並びに装置・治具・材料・プロセスの開発支援、 デバイス試作・量産までシステムの一貫提供。（https://www.c-coatings.co.jp/・1回目）
+- 取扱製品：
+  - 「クリエイティブコーティングスの製品・サービス一覧｜イプロスものづくり」（https://mono.ipros.com/company/detail/2066186/category/・3回目）
+  - 「製品・サービス(11)」（https://mono.ipros.com/company/detail/2066186/category/・3回目）
+  - 「クリエイティブコーティングスの製品ラインアップ」（https://mono.ipros.com/company/detail/2066186/category/・3回目）
+  - 「製品のライフサイクルコスト低減や材料廃棄削減など環境負荷低減にも貢献」（https://mono.ipros.com/company/detail/2066186/category/・3回目）
+  - 「製品・サービス(11)」（https://mono.ipros.com/company/detail/2066186/・3回目）
+  - 「液相から気相まで、お客様のニーズに合わせた製品を豊富に取り揃えています」（https://mono.ipros.com/company/detail/2066186/・3回目）
+  - 「お客様の製品や材料にあわせたプロセス条件、ジグ、装置、外部電極材料の最善に関する開発サポート、受託塗布まで幅広く対応いたします」（https://mono.ipros.com/company/detail/2066186/・3回目）
+  - 「製品・サービス (11)」（https://mono.ipros.com/company/detail/2066186/・3回目）
+- 取扱材料：
+  - 「半導体製造装置パーツ用金型や樹脂成形金型、摺動部品や治工具などの長寿命化に貢献」（https://mono.ipros.com/company/detail/2066186/category/・3回目）
+  - 「ワーク材質や膜種、膜厚から、弊社がご提案する技術や加工例をご紹介！」（https://mono.ipros.com/company/detail/2066186/category/・3回目）
+  - 「「気相技術」は、樹脂原料・燃料電池など『新素材・新材料』『エネルギー』、医療センサー・機器など『医療・ヘルスケア』、電子部品・新ディスプレイなど『モバイル端末』『ウェアラブル機器』『オートモーティブ』など多様な分野で活用されています」（https://mono.ipros.com/company/detail/2066186/category/・3回目）
+- 一点物・少量多品種：
+  - 「試作・小ロット、多品種製作を社内開発装置にてワンストップで行います！」（https://mono.ipros.com/company/detail/2066186/category/・3回目）
+  - 「コーティング試作受託、量産受託請負」（https://mono.ipros.com/company/detail/2066186/・3回目）
+- 製品分野：
+  - 「並びに装置・治具・材料・プロセスの開発支援、」（https://www.c-coatings.co.jp/・1回目）
+  - 「【対応分野】電子部品｜半導体｜エネルギー｜医療機器｜先端素材」（https://www.c-coatings.co.jp/・1回目）
+  - 「半導体向け極低温高密度プラズマALD装置と」（https://mono.ipros.com/company/detail/2066186/category/・3回目）
+  - 「半導体製造装置パーツ用金型や樹脂成形金型、摺動部品や治工具などの長寿命化に貢献」（https://mono.ipros.com/company/detail/2066186/category/・3回目）
+  - 「立体的な超精密な複雑形状な金型や機械部品にも」（https://mono.ipros.com/company/detail/2066186/category/・3回目）
+  - 「「気相技術」は、樹脂原料・燃料電池など『新素材・新材料』『エネルギー』、医療センサー・機器など『医療・ヘルスケア』、電子部品・新ディスプレイなど『モバイル端末』『ウェアラブル機器』『オートモーティブ』など多様な分野で活用されています」（https://mono.ipros.com/company/detail/2066186/category/・3回目）
+  - 「■バレル型ALDロボットCVA-B series」（https://mono.ipros.com/company/detail/2066186/category/・3回目）
+  - 「■バブリングCVDロボットCVB series」（https://mono.ipros.com/company/detail/2066186/category/・3回目）
+  - 「カーボンニュートラル実現に向けたキーテクノロジーの1つである次世代電池、さまざまな機能を持ったナノスケールの機能性粒子、５G・６G通信システムや環境対応車の普及、先進運転支援システム (ADAS)の進歩を背景に超小型化・高信頼性が求められるMLCCをはじめとする受動部品、DXによる質の高い医療、AI・デジタル化の進む医療機器など、社会のあらゆる分野で我々のコーティング技術に期待が集まっています」（https://mono.ipros.com/company/detail/2066186/・3回目）
+  - 「電子部品、半導体、エネルギー、」（https://mono.ipros.com/company/detail/2066186/・3回目）
+  - 「医療機器、素材関連 など」（https://mono.ipros.com/company/detail/2066186/・3回目）
+- AM関連：
+  - 「常温粉体ALD装置 全固体電池材料、量子ドット粉末用」（https://mono.ipros.com/company/detail/2066186/category/・3回目）
+  - 「多層成膜により耐荷重性向上した低温DLC(Diamond-like carbon）薄膜硬質コーティングが可能！」（https://mono.ipros.com/company/detail/2066186/category/・3回目）
+  - 「DLCとは：ダイヤモンドライクカーボン(Diamond-Like Carbon)の略で、」（https://mono.ipros.com/company/detail/2066186/category/・3回目）
+  - 「従来ta-Cと比較し密着力向上した低温DLC(Diamond-like carbon）薄膜硬質コーティングが可能！」（https://mono.ipros.com/company/detail/2066186/category/・3回目）
+  - 「多層成膜により耐衝撃性向上した低温DLC(Diamond-like carbon）薄膜硬質コーティングが可能！」（https://mono.ipros.com/company/detail/2066186/category/・3回目）
+  - 「常温粉体ALD装置 全固体電池材料、量子ドット粉末用」（https://mono.ipros.com/company/detail/2066186/・3回目）
+- 検索結果の抜粋：
+  - 「クリエイティブコーティングス の 製品 ・サービス一覧 - イプロス — クリエイティブコーティングス の 製品 ・サービス一覧 - イプロス 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > company > detail > category」（https://mono.ipros.com/company/detail/2066186/category/・3回目）
+  - 「試作 製作＆技術お問合せ - — 試作 製作＆技術お問合せ - 株式会社クリエイティブコーティングス https://www.c-coatings.co.jp > inquiry」（https://www.c-coatings.co.jp/inquiry/・3回目）
+  - 「クリエイティブコーティングス | 企業 情報 | イプロスものづくり — クリエイティブコーティングス | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 電子部品・半導体」（https://mono.ipros.com/company/detail/2066186/・3回目）
+  - 「株式 会社クリエイティブコーティングス — 株式 会社クリエイティブコーティングス 株式会社クリエイティブコーティングス https://www.c-coatings.co.jp」（https://www.c-coatings.co.jp/・3回目）
+  - 「株式 会社クリエイティブコーティングス - キャリアクロス — 株式 会社クリエイティブコーティングス - キャリアクロス キャリアクロス https://www.careercross.com > company > detail-595826」（https://www.careercross.com/company/detail-595826・3回目）
+  - 「株式 会社クリエイティブコーティングス - マイナビ転職 — 株式 会社クリエイティブコーティングス - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company」（https://tenshoku.mynavi.jp/company/468277/・3回目）
+  - 「クリエイティブコーティングス | 企業情報 | イプロスものづくり — クリエイティブコーティングス | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 電子部品・半導体」（https://mono.ipros.com/company/detail/2066186/・3回目）
+  - 「試作製作＆技術 お問合せ - — 試作製作＆技術 お問合せ - 株式会社クリエイティブコーティングス https://www.c-coatings.co.jp > inquiry」（https://www.c-coatings.co.jp/inquiry/・3回目）
+  - 「株式会社 クリエイティブコーティングス | 新潟ベンチャー ... — 株式会社 クリエイティブコーティングス | 新潟ベンチャー ... 新潟ベンチャーキャピタル株式会社 https://niigata-vc.co.jp > portfolio > c-coatings」（https://niigata-vc.co.jp/portfolio/c-coatings・3回目）
+  - 「株式会社 クリエイティブコーティングス - キャリアクロス — 株式会社 クリエイティブコーティングス - キャリアクロス キャリアクロス https://www.careercross.com > company > detail-595826」（https://www.careercross.com/company/detail-595826・3回目）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
+
 ## 株式会社ケーテーテック
 - 公式URL：http://www.kt-tec.co.jp（given）
 - 所在地：本　　社　　〒341-0034 埼玉県三郷市新和1-433-1 TEL: 048-949-7771 / FAX: 048-949-7781 土浦工場　　〒300-0026 茨城県土浦市木田余3321-1 TEL: 029-869-7630 / FAX: 029-869-7633（http://www.kt-tec.co.jp/company/・1回目）
@@ -7142,6 +9241,60 @@ TEL:04-7182-4490　FAX:04-7182-2382（https://matsumoto-screw.jp/pages/2/・1回
 - 売上高：記載なし（3回確認済み：公式5頁／PDF・画像12件／外部6頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式5頁／PDF・画像12件／外部6頁・検索9回）
 - AM関連：記載なし（3回確認済み：公式5頁／PDF・画像12件／外部6頁・検索9回）
+
+## 株式会社サイアン
+- 公式URL：https://www.cyan-rs.com（given）
+- 所在地：〒（https://www.cyan-rs.com/pages/5/・1回目）
+- 所在地：〒430-0853　静岡県浜松市中央区三島町1606番地（https://www.cyan-rs.com/pages/3/・1回目）
+- 所在地：〒352-0001　埼玉県新座市東北2-17-22（https://www.cyan-rs.com/pages/3/・1回目）
+- 事業内容：モータースポーツ、車両試験、並びにその他産業関連部品の開発・製造・調達／海外製品の輸入販売（https://www.cyan-rs.com/pages/3/・1回目）
+- 代表者：内沼 篤博（https://www.cyan-rs.com/pages/3/・1回目）
+- 取扱製品：
+  - 「各種アンプ・表示器・コントローラ等を設計から製品試作まで一貫してお客様をサポートします」（https://www.cyan-rs.com/・1回目）
+  - 「製品情報｜株式会社サイアン（CYAN） ハーネス・センサのトータルソリューション」（https://www.cyan-rs.com/pages/43/・1回目）
+  - 「各種の設計と加工技術をもって、様々なオリジナル製品を製造・販売しています」（https://www.cyan-rs.com/pages/43/・1回目）
+  - 「成形品 / 切削加工品 / ゴム製品 / 樹脂製品 / 金属製品 / 粉体成型品 の試作開発供給」（https://www.cyan-rs.com/pages/43/・1回目）
+  - 「私達はそれらの経験を生かし、ユーザーの皆様へ有益な製品をタイミング良く供給させて頂くことに主眼を置いています」（https://www.cyan-rs.com/pages/3/・1回目）
+  - 「更に、モータースポーツR&D業務により獲得した知識や経験は、例えば量産車両や重工業製品試作開発分野においても、十分に有効活用が可能と考えています」（https://www.cyan-rs.com/pages/3/・1回目）
+  - 「モータースポーツ、車両試験、並びにその他産業関連部品の開発・製造・調達／海外製品の輸入販売」（https://www.cyan-rs.com/pages/3/・1回目）
+  - 「BRIGHTWATER社製品の販売代理店となる」（https://www.cyan-rs.com/pages/3/・1回目）
+  - 「VARIOHM社モータースポーツ用製品の販売代理店となる」（https://www.cyan-rs.com/pages/3/・1回目）
+  - 「OPTEL TEXYS (旧OPTEL THEVON）社製品の販売代理店となる」（https://www.cyan-rs.com/pages/3/・1回目）
+  - 「・既存国産センサ利用のシステムに対し、海外新製品で置き換え＋周辺加工のご提案」（https://www.cyan-rs.com/pages/84/・1回目）
+  - 「・ご希望の機能をもつセンサを、既製品とカスタム品の両方でご提案」（https://www.cyan-rs.com/pages/84/・1回目）
+- 取扱材料：
+  - 「成形品 / 切削加工品 / ゴム製品 / 樹脂製品 / 金属製品 / 粉体成型品 の試作開発供給」（https://www.cyan-rs.com/pages/43/・1回目）
+- 一点物・少量多品種：
+  - 「サイアンはハーネスの製作から各種センサ・部品の輸入業務、試作の設計支援・製造業務まで、お客様のスタッフの一員として、」（https://www.cyan-rs.com/・1回目）
+  - 「各種アンプ・表示器・コントローラ等を設計から製品試作まで一貫してお客様をサポートします」（https://www.cyan-rs.com/・1回目）
+  - 「又は、ハーネス製造用部材などを中心に、一部を小ロット販売しています」（https://www.cyan-rs.com/pages/43/・1回目）
+  - 「成形品 / 切削加工品 / ゴム製品 / 樹脂製品 / 金属製品 / 粉体成型品 の試作開発供給」（https://www.cyan-rs.com/pages/43/・1回目）
+  - 「更に、モータースポーツR&D業務により獲得した知識や経験は、例えば量産車両や重工業製品試作開発分野においても、十分に有効活用が可能と考えています」（https://www.cyan-rs.com/pages/3/・1回目）
+  - 「私達サイアンは、部品の輸入業務から、試作物件における設計支援・製造業務まで、経験と熱意を持ってご協力させて頂きます」（https://www.cyan-rs.com/pages/3/・1回目）
+  - 「更に、モータースポーツR&D業務により獲得した知識や経験は、例えば量産車両や重工業製品試作開発分野においても、十分に有効活用が可能と考えています」（https://pr.mono.ipros.com/cyan-rs/information/・3回目）
+- 製品分野：
+  - 「事実、私達のパートナーの皆様において、航空宇宙産業や軍事・重工業・医療・車両試験等の分野での成功を収めて頂いていることは、私どもの誇りとするところです」（https://www.cyan-rs.com/pages/3/・1回目）
+  - 「自動車開発・モータースポーツ車両テスト・産業機器・各種開発をサポートする会社です」（https://pr.mono.ipros.com/cyan-rs/information/・3回目）
+  - 「事実、私達のパートナーの皆様において、航空宇宙産業や軍事・重工業・医療・車両試験等の分野での成功を収めて頂いていることは、私どもの誇りとするところです」（https://pr.mono.ipros.com/cyan-rs/information/・3回目）
+- 連絡先：
+  - 「お問い合わせ｜株式会社サイアン | CYAN Co., Ltd.」（https://www.cyan-rs.com/pages/5/・1回目）
+  - 「お問い合わせを下記のフォームより受け付けております」（https://www.cyan-rs.com/pages/5/・1回目）
+  - 「・新規部品導入お問い合わせに対し、導入用の操作ボックスも併せて設計してご提案」（https://www.cyan-rs.com/pages/84/・1回目）
+- 検索結果の抜粋：
+  - 「株式会社サイアン | CYAN Co., Ltd. — Nov 2, 2026 · サイアンはハーネスの製作から各種センサ・部品の輸入業務、試作の設計支援・製造業務まで、お客様のスタッフの一員として、経験と知識と熱い情熱を持ってお応えしております。 まずは、どんな案件でも是非、サイアンにお聞かせください。」（https://www.cyan-rs.com/・3回目）
+  - 「製品情報｜株式会社サイアン（CYAN） ハーネス・センサのトータルソリ... — モータースポーツ用メインハーネスやサブハーネス、産業用量産ハーネス等、様々なハーネスの製作・加工・設計支援を行なっています。 又は、ハーネス製造用部材などを中心に、一部を小ロット販売しています。」（https://www.cyan-rs.com/pages/43/・3回目）
+  - 「企業情報｜株式会社サイアン | CYAN Co., Ltd.企業情報 | サイアン - Powered by イプロスものづくり会社案内 | 株式会社Cyan会社概要 - 株式会社シアン株式会社サイアン - 会社概要株式会社シアン — 株式会社サイアンは、モータースポーツ車両開発の支援を目的とし、2004年に創立された会社です。 創業のメンバーは各々の経歴において、輸出入業務・CAD設計・ワイヤーハーネス製造・検査/品質管理、そして新規事業開拓営業などに専念して参りました。 株式会社サイアンは、モータースポーツ車両開発の支援を目的とし、2004年に創立された会社です。 創業のメンバーは各々の経歴において、輸出入業務・CAD設計・ワイヤーハーネス製造・検査/品質管理、そして新規事業開拓営業などに専念して参りました。 株式会社Cyanは、DXコンサルティングを中心に、中小企業のあらゆる課題に対」（https://www.cyan-rs.com/pages/3/・3回目）
+  - 「企業情報 | サイアン - Powered by イプロスものづくり — 株式会社サイアンは、モータースポーツ車両開発の支援を目的とし、2004年に創立された会社です。 創業のメンバーは各々の経歴において、輸出入業務・CAD設計・ワイヤーハーネス製造・検査/品質管理、そして新規事業開拓営業などに専念して参りました。」（https://pr.mono.ipros.com/cyan-rs/information/・3回目）
+  - 「会社概要 - 株式会社シアン株式会社サイアン - 会社概要株式会社シアン — 等身大で世界の仲良しに会いに行ける居場所創りができる、ちょこっと交流と恐竜大スクリーン。 日常に登場する人物を増やし交流することでコミュニティを拡張します。 | 株式会社シアン 株式会社サイアンは、モータースポーツ車両開発の支援を目的とし、2004年に創立された会社です。 創業のメンバーは各々の経歴において、輸出入業務・CAD設計・ワイヤーハーネス製造・検査/品質管理、そして新規事業開拓営業などに専念して参りました。 シアンは「世界の喜びを最大化する」をミッションに、マーケDX事業やサブスク動画プラットフォーム事業を展開している会社です。 人への投資を最大限し、世界を変える事業家を増やし、世界の喜びを最大化する。」（https://cian-aviation.co.jp/company/・3回目）
+  - 「株式会社サイアン - 会社概要 — 株式会社サイアンは、モータースポーツ車両開発の支援を目的とし、2004年に創立された会社です。 創業のメンバーは各々の経歴において、輸出入業務・CAD設計・ワイヤーハーネス製造・検査/品質管理、そして新規事業開拓営業などに専念して参りました。」（https://www.atengineer.com/pr/cyan-rs/company・3回目）
+  - 「お問い合わせ｜株式会社サイアン | CYAN Co., Ltd. — お問い合わせ お問い合わせを下記のフォームより受け付けております。 後日、担当よりご連絡させていただきます。 「※」印の項目は必須になります。 ※営業のメールご遠慮ください。」（https://www.cyan-rs.com/pages/5/・3回目）
+  - 「お問い合わせ - cyan-rs.com — 株式会社サイアンのお問い合わせです 浜松営業所 (本社) 〒430-0853 静岡県浜松市中央区三島町1606番地」（https://www.cyan-rs.com/pages/5?url=pages/5/&step=confirm&type_no=0&b_id=9&r_id=1&fid=e6789992f97ce8989394584ff10e4a08・3回目）
+  - 「問い合わせ サイアン — サイアンへのお問合せ先です」（https://cyan.a.la9.jp/toiawase.html・3回目）
+- 従業員数：記載なし（3回確認済み：公式8頁／PDF・画像1件／外部14頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式8頁／PDF・画像1件／外部14頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式8頁／PDF・画像1件／外部14頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式8頁／PDF・画像1件／外部14頁・検索9回）
+- AM関連：記載なし（3回確認済み：公式8頁／PDF・画像1件／外部14頁・検索9回）
 
 ## 株式会社サクラテック
 - 公式URL：http://www.sacra-tech.co.jp（given）
@@ -7441,6 +9594,43 @@ TEL:04-7182-4490　FAX:04-7182-2382（https://matsumoto-screw.jp/pages/2/・1回
   - 「株式会社シミズトライムプレシジョン - NCネットワーク — 株式会社シミズトライムプレシジョン - NCネットワーク エミダス https://ja.nc-net.or.jp > company」（https://ja.nc-net.or.jp/company/87724/・3回目）
 - 売上高：記載なし（3回確認済み：公式7頁／PDF・画像14件／外部10頁・検索9回）
 
+## 株式会社シモノ
+- 公式URL：https://e-shimono.jp（given）
+- 所在地：〒929-0114　石川県能美市浜開発町丙53-1（https://e-shimono.jp/company/information/・1回目）
+- 事業内容：各種装置アルミ部品製造（https://e-shimono.jp/company/information/・1回目）
+- 代表者：玉山　久高（https://e-shimono.jp/company/information/・1回目）
+- 従業員数：45名（男子24名・女子23名　令和5年2月現在）（https://e-shimono.jp/company/information/・1回目）
+- 取扱製品：
+  - 「⾷品機械メーカー、医療機器メーカー、国立大学研究室、鋼材・工具・加工製品専門商社、等多数」（https://e-shimono.jp/company/partner/・1回目）
+- 一点物・少量多品種：
+  - 「業界の常識を超える短納期対応を実現し、高品位なアルミ切削加工で試作開発用一品物から」（https://e-shimono.jp/・1回目）
+  - 「少量ロット品まで貴社サプライチェーンを支えます」（https://e-shimono.jp/・1回目）
+  - 「そのため、上⾯加⼯が多いベースプレートや多品種少量の⽣産に向いています」（https://e-shimono.jp/facilities/・1回目）
+  - 「業界の常識を超えた短納期、１個からの小ロット製造に対応」（https://e-shimono.jp/company/information/・1回目）
+- 製品分野：
+  - 「FA・ロボットSIer、産業機械メーカー、半導体関連装置メーカー、電⼦部品関連装置メーカー、包装機械メーカー、」（https://e-shimono.jp/company/partner/・1回目）
+  - 「⾷品機械メーカー、医療機器メーカー、国立大学研究室、鋼材・工具・加工製品専門商社、等多数」（https://e-shimono.jp/company/partner/・1回目）
+  - 「アトスを訪れた事で次の目的が明確に定まったので、早速今晩の航空券を購入」（https://note.com/frontier_travel/n/n907a601a9a81・3回目）
+- 連絡先：
+  - 「数分経ってもサーバーより自動返信が無い場合、入力されたメールアドレスに間違いがございます」（https://e-shimono.jp/form/・1回目）
+  - 「図面はPDFでメール添付いただけますと助かります」（https://e-shimono.jp/form/・1回目）
+  - 「巡礼者界隈では一番人気で宿泊困難と言われるこの修道院は事前にしていたメールにおいては満員で断られていたのだが、当日ダメ元で行ったらスムーズに入ることができた」（https://note.com/frontier_travel/n/n907a601a9a81・3回目）
+- 検索結果の抜粋：
+  - 「株式会社シモノ | アルミ加工・アルミ部品を高品位・短納期でお届けい... — シモノでは最新設備への積極的な更新により短納期と高品質への対応を強化しています。 また、1個からのご注文のお客様にも対応できる豊富な加工設備で貴社の加工部品調達の不安を解消いたします。」（https://e-shimono.jp/・3回目）
+  - 「製品案内 | 株式会社シモノ — ねじ加工 ヘリサート穴加工のみ対応 コイル挿入は実施しておりません 表面処理 白アルマイトのみ対応します 他の処理はお客様指定の業者様へ直送可能 ロット 基本1個～10個程度、最大～100個 （ご相談下さい）」（https://e-shimono.jp/products/・3回目）
+  - 「会社概要 | 株式会社シモノ — 会社概要 TOP 企業情報 会社概要 アルミ加工専門に特化した製造体制で 業界の常識を超えた短納期、1個からの小ロット製造 ...」（https://e-shimono.jp/company/information/・3回目）
+  - 「企業情報 - 株式会社シモノ — ご挨拶 株式会社シモノは昭和39年の設立以来金属加工業を営み、先代の方針によるアルミ部品加工に特化した業態への移り変わりを経て、 アルミ部品の切削加工に関してはどこよりも早く納入できる体制を構築してまいりました。」（https://e-shimono.jp/company/・3回目）
+  - 「株式会社シモノ（大阪府吹田市） 概要 - 企業情報 — Oct 5, 2015 · 概要 株式会社シモノ は大阪府吹田市にある企業です。 法人番号は9120901018681、住所は大阪府吹田市山田東4丁目29番3号です。 この法人は2015年（平成27年）10月5日に法人番号が指定されました。」（https://data-link-plus.com/jp/corporation/9120901018681・3回目）
+  - 「会社概要 |働く方々の手と足を守る、安全と信頼のシモンCORPORATE PROFILE2026-2027会社概要｜シマノコーポレートサイト株式会社 シモノ — 東京駅 (八重洲中央口)より徒歩12分 (約0.9km) 羽田空港から八重洲南口のりば [リムジンバス 約25～45分]・徒歩12分 (約0.9km) 茅場町駅 [東京メトロ日比谷線・東西線] (5番出口)より徒歩3分 (約0.2km) 日本橋駅 [東京メトロ銀座線・東西線 / 都営浅草線]より徒歩6分 (約0.5km) 八丁堀駅 [東京メトロ日比谷線 ... CORPORATE PROFILE 2026 -- 2027 インテリア内装材事業 自動車内装材事業 鉄道・バス・船舶・航空機内装材事業 機能性資材事業 全ての事業 URL https://suminoe.co.jp/ 本 社〒542-8504 大阪市中央区南船場三丁目11」（https://www.simon.co.jp/company_info/gaiyo/・3回目）
+  - 「お問い合わせ | 株式会社シモノ — 株式会社シモノへの お見積りやご注文以外のお問い合わせ はこちらのフォームをご使用ください。 必要事項を記入し確認ボタンを押してください。 送信内容がサーバーより自動で返信されます。 内容にお間違いがないかご確認ください。」（https://e-shimono.jp/form/・3回目）
+  - 「お問い合わせ | 紳士服のシモノ - tailor-shimono.com — このフォームの「送信」ボタンを押すことで、入力された個人情報が、お問い合わせ対応および個別のご案内の目的で利用されることに同意します。 なお、この同意は、メール等の連絡によりいつでも撤回することができます。」（https://www.tailor-shimono.com/お問い合わせ/・3回目）
+  - 「コンタクト｜シモノスタジオ — CONTACT お電話の場合は下の電話番号におかけください。 メールの場合はフォームにご入力ください。」（https://shimono-studio.com/contact.html・3回目）
+- 売上高：記載なし（3回確認済み：公式11頁／PDF・画像12件／外部18頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式11頁／PDF・画像12件／外部18頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式11頁／PDF・画像12件／外部18頁・検索9回）
+- 取扱材料：記載なし（3回確認済み：公式11頁／PDF・画像12件／外部18頁・検索9回）
+- AM関連：記載なし（3回確認済み：公式11頁／PDF・画像12件／外部18頁・検索9回）
+
 ## 株式会社ショーダ
 - 公式URL：https://www.sho-da.jp（given）
 - 所在地：〒729-4203　広島県三次市吉舎町安田1076-1（https://www.sho-da.jp/company/・1回目）
@@ -7548,6 +9738,84 @@ TEL:04-7182-4490　FAX:04-7182-2382（https://matsumoto-screw.jp/pages/2/・1回
   - 「採用に関するお問い合わせはこちらのフォームから受け付けております」（https://jpe2000.co.jp/recruit/・1回目）
 - 拠点：記載なし（3回確認済み：公式11頁／PDF・画像0件／外部9頁・検索9回）
 
+## 株式会社セイブ
+- 公式URL：http://www.seibu.biz（given）
+- 取扱製品：
+  - 「最先端の切削加工技術を活用し、難易度の高い製品もご相談に応じます」（https://www.seibu.biz:443/・1回目）
+  - 「常に最新の設備・技術・情報に基づく製品づくりはお客様から「心強いビジネスパートナー」として認めて頂いております」（https://www.seibu.biz:443/company・1回目）
+  - 「製品に傷がつかない様、緩衝材により丁寧に梱包し専用箱に入れて、納期日にお客様のもとへお届けします」（https://www.seibu.biz:443/technology・1回目）
+  - 「やりがいとしては、最初から最後までお客様と製品を見るので、それが出来たとき嬉しい！仕事が上手くすすむことにやりがい感じます」（https://www.seibu.biz:443/recruit・1回目）
+  - 「製品の加工の段取りを行い、製造を行っています」（https://www.seibu.biz:443/recruit・1回目）
+  - 「会社には、製品を最後まで１人で作り上げる特色があってレベルアップするのにすごく向いてると思います」（https://www.seibu.biz:443/recruit・1回目）
+  - 「さらに3次元測定器や検査設備の導入により、高精度で高品質な製品の供給を実現しました」（https://www.seibu.biz:443/history・1回目）
+- 取扱材料：
+  - 「対応する素材もアルミニウム合金各種・ステンレス・チタン合金・マグネシウム・樹脂等幅広く特に最先端の3次元形状の加工に特化しています」（https://www.seibu.biz:443/company・1回目）
+  - 「A5052, A2017, A2024, A6061, A7075, A7N01, SUS303, SUS304, SUS316L, SUS42Oj2, SCM420, Mg(マグネシウム), TP340, Ti6AL-4V, Cu, C3604, NAK55, NAK80, MCナイロン, PEEK, POM, PC, ABS, アクリル, S25C, S45C, S50C, SS400」（https://www.seibu.biz:443/company・1回目）
+  - 「一般素材から、特殊なものまで多種多様な材質から最適な加工方法をご提案しながらお客様とともに決めていきます」（https://www.seibu.biz:443/technology・1回目）
+  - 「金属、難削材、樹脂まで」（https://www.seibu.biz:443/solution・1回目）
+  - 「アルミ、SUS、インコネルやチタンなどにも対応します」（https://www.seibu.biz:443/solution・1回目）
+  - 「難切削材（ステンレス、チタン合金、耐熱合金）、樹脂材料の加工においても、金属同様10μ以下の幾何公差に対応する、高精度な加工が可能です」（https://www.seibu.biz:443/solution・1回目）
+- 一点物・少量多品種：
+  - 「30年以上の経験とオートメーション化で、スピードと高品質の両立し、試作から量産まで一貫した製造加工をご提供します」（https://www.seibu.biz:443/・1回目）
+  - 「試作・研究開発から量産まで、求められるスピードと、高品質にこだわったソリューション型のものづくりでお応えします」（https://www.seibu.biz:443/・1回目）
+  - 「株式会社セイブは1984年の設立以来、自動車関連の試作品加工を中心に、半導体・医療関連機器等、高い精度が求められる分野で精密部品の加工業として歩んでまいりました」（https://www.seibu.biz:443/company・1回目）
+  - 「私たちの業務は品質に妥協が許されないことと同時に試作メーカーとして納期を厳守することは大前提です」（https://www.seibu.biz:443/company・1回目）
+  - 「株式会社セイブの最大の事業テーマである「顧客満足の追求」の為に、品質とスピードの両立、多品種・少量・量産への柔軟な対応、お客様の立場に立った発想・提案・行動等、真摯な営業姿勢はこれからも不変です」（https://www.seibu.biz:443/company・1回目）
+  - 「ネットワーク力をいかし、一貫したフローで高品質な試作・量産部品加工を提供します」（https://www.seibu.biz:443/technology・1回目）
+  - 「レース用の自動車エンジン部品加工の技術力で、研究開発や試作用途にスピードと高精度な仕上がりで対応します」（https://www.seibu.biz:443/solution・1回目）
+  - 「課題解決型のものづくりで、試作から量産までをスムーズに連携します」（https://www.seibu.biz:443/solution・1回目）
+  - 「多摩川沿いで開始されたその一歩は、各分野の部品試作を短納期でこなす、まちの便利屋さんとしてスタートしました」（https://www.seibu.biz:443/history・1回目）
+  - 「2025年操業予定の浜松工場では、試作から量産まで一括して対応可能な体制へシフト」（https://www.seibu.biz:443/history・1回目）
+  - 「たとえば、ある地元の味噌の月間売上が小さくても、購入者の来店頻度が高く、野菜や豆腐などを一緒に購入していれば、店全体への貢献は単品の売上以上になる」（https://note.com/anms/n/nba2ec708112c・3回目）
+  - 「単品売上だけでなく、目的来店や併買への貢献を見る」（https://note.com/anms/n/nba2ec708112c・3回目）
+- 製品分野：
+  - 「株式会社セイブは1984年の設立以来、自動車関連の試作品加工を中心に、半導体・医療関連機器等、高い精度が求められる分野で精密部品の加工業として歩んでまいりました」（https://www.seibu.biz:443/company・1回目）
+  - 「自動車メーカー、輸送機器メーカー、電気機器メーカー、医療機器メーカー」（https://www.seibu.biz:443/company・1回目）
+  - 「自動車先行開発、ＥＶ / ＨＥＶ / ＦＣＶ開発 / 自動車駆動系 / 燃料系 /」（https://www.seibu.biz:443/company・1回目）
+  - 「給排気系 / 電装系開発 / 映像周辺機器 / 医療器開発 / 産業機械 / 各種モーター」（https://www.seibu.biz:443/company・1回目）
+  - 「自動車先行開発、ＥＶ / ＨＥＶ / ＦＣＶ開発 / 自動車駆動系 / 燃料系 / 給排気系 / 電装系開発 / 映像周辺機器 / 医療器開発 / 産業機械 / 各種モーター」（https://www.seibu.biz:443/company・1回目）
+  - 「高精度・高難易度の加工が求められる自動車エンジンの部品加工で３０年以上培った技術力」（https://www.seibu.biz:443/technology・1回目）
+  - 「レース用の自動車エンジン部品加工の技術力で、研究開発や試作用途にスピードと高精度な仕上がりで対応します」（https://www.seibu.biz:443/solution・1回目）
+  - 「ドローンエンジン部品の切削加工において独自の技術を提供します」（https://www.seibu.biz:443/solution・1回目）
+  - 「軽量化と耐久性が要求されるドローン分野での研究開発用途のエンジン部品の切削加工は、精緻な加工技術が求めらます」（https://www.seibu.biz:443/solution・1回目）
+  - 「半導体検査装置の部品切削では、優れた精度と信頼性が重要になります」（https://www.seibu.biz:443/solution・1回目）
+  - 「弊社設備のパレットチェンジャーにより、変化点のない段取りや治具設計、成形刃物を用い効率化を図り、LT短縮を実現します」（https://www.seibu.biz:443/solution・1回目）
+  - 「2017年、横浜工場へと拠点を移し、モータースポーツから一歩引き、EVやFC、医療機器、半導体検査装置などの新たな分野に挑戦を始めました」（https://www.seibu.biz:443/history・1回目）
+- AM関連：
+  - 「ACCRETECH CNC３次元座標測定機 DuraMax」（https://www.seibu.biz:443/technology・1回目）
+  - 「CAMシステム AutoDesk Power-mill #1-#4」（https://www.seibu.biz:443/technology・1回目）
+  - 「CAMシステム OPENMIND Hyper-mill」（https://www.seibu.biz:443/technology・1回目）
+  - 「CAD/CAMシステム NAZCA #1-#2」（https://www.seibu.biz:443/technology・1回目）
+  - 「技術者（CAD/CAM・マシニング）Tさん」（https://www.seibu.biz:443/recruit・1回目）
+  - 「主な流れとしては、図面を確認しCAD/CAMなどのソフトウェアでプログラウを組み、そこからマシニング加工を行う工程もやっています」（https://www.seibu.biz:443/recruit・1回目）
+  - 「技術者（CAD/CAM・マシニング）Mさん」（https://www.seibu.biz:443/recruit・1回目）
+  - 「1. CAD/CAMオペレーター」（https://www.seibu.biz:443/recruit・1回目）
+  - 「CAD/CAM(Solidworks, DellCAM, ナスカCAD)の操作をしていただきます」（https://www.seibu.biz:443/recruit・1回目）
+  - 「（2）加工シミュレーションにより、ツールパスとNCデータの作成（CAM）」（https://www.seibu.biz:443/recruit・1回目）
+  - 「2006年、下丸子への工場移転と同時に、CAD/CAMと5軸機械の導入が我々のビジネスを飛躍的に進化させました」（https://www.seibu.biz:443/history・1回目）
+- 連絡先：
+  - 「お客様からのお問い合わせやご要望に対して、迅速、丁寧に誠意を持って対応致します」（https://www.seibu-kk.co.jp/contact/・3回目）
+  - 「お問い合わせ頂いた内容によりましては、お答えできない場合や、お返事までにお時間を頂戴する場合がございます」（https://www.seibu-kk.co.jp/contact/・3回目）
+  - 「お客様からいただきましたメールは、月～金曜日の10：00～17：00（土、日、祝日、夏季、年末年始の弊社休業日を除く）で拝見しております」（https://www.seibu-kk.co.jp/contact/・3回目）
+  - 「https://seibunet.jp/contact/」（https://note.com/seibu_smilehouse/n/n3e77db720cc8・3回目）
+- 検索結果の抜粋：
+  - 「スーパーマーケット セイブ ｜会社概要株式会社セイブ会社概要│株式会社セイブ - seibu-kk.co.jp株式会社セイブ - seibu-japan.com企業情報 | 会社概要 | 久留米大牟田のセイブ事業内容 | 株式会社セイブ会社情報│株式会社セイブ - seibu-kk.co.jp — 経営方針 最良の企業になるのではなく、地域の1店1店を最良にしたい たった1店しかなかったときのような思いで、地域に根づかせたい 「個」を最良にするためにだけ「全体」が機能したい そして、社会に責任と貢献を果たし続ける企業でありたい 会社 ... ／ セイブの取り組み ／ 会社概要 ／ アクセス ／ 教育・研修制度 採用情報 ／ メッセージ ／ 当社の魅力 ／ 求める人材像 ／ 募集要項 ／ 採用までの流れ ／ 社員成長物語 ／ 社員インタビュー ／ よくある質問 新着情報 プライバシーポリシー」（https://seibu-super.com/company.html・3回目）
+  - 「株式会社セイブ — ／ セイブの取り組み ／ 会社概要 ／ アクセス ／ 教育・研修制度 採用情報 ／ メッセージ ／ 当社の魅力 ／ 求める人材像 ／ 募集要項 ／ 採用までの流れ ／ 社員成長物語 ／ 社員インタビュー ／ よくある質問 新着情報 プライバシーポリシー サイトマップ」（https://seibu-japan.com/・3回目）
+  - 「会社概要│株式会社セイブ - seibu-kk.co.jp — 私たちセイブは東海3県を中心に、産業廃棄物の収集運搬および中間処理事業を行っております。 さらに、人材不足でお悩みの企業様のパートナーとして業務委託を実施し、経営の効率化を図ることで、業績向上のお手伝いをさせていただいております。」（https://www.seibu-kk.co.jp/company/about/・3回目）
+  - 「株式会社セイブ - seibu-japan.com — 私達セイブは創立以来、「顧客満足」を第一に考え「誠心・誠意・誠実の精神」で電気設備工事を中心に数多くのプロジェクトに携わってきました。 新築工事からリニューアル工事まで幅広く対応し、信頼と実績でお客様より高い評価をいただいております。」（https://seibu-japan.com/business/・3回目）
+  - 「企業情報 | 会社概要 | 久留米大牟田のセイブ — 企 業 情 報 社名 株式会社セイブ 所在地 福岡県久留米市荒木町荒木1-6 代表者 代表取締役 田中 憲治 資本金 1千万円 創業 昭和56年3月 (現在45期目) 従業員数 279名 (正社員47名/パート232名) 営業所 佐賀営業所 、山口営業所 関連会社 株式会社セイブ大牟田」（https://www.k-seibu.com/company/about/・3回目）
+  - 「お問い合わせ | 株式会社セイブ — 株式会社セイブは、工業用ゴム製品、樹脂製品、高圧ホース、土木・農業資材、環境資材、安全保安具等を全国に拠点を持ち豊富な在庫で時代のニーズにあった商品を提供するエキスパートです。 お気軽にお問い合わせ、ご相談ください。」（https://www.seibu-g.com/contact/・3回目）
+  - 「お問い合わせ│株式会社セイブ — お客様からいただきましたメールは、月～金曜日の10：00～17：00（土、日、祝日、夏季、年末年始の弊社休業日を除く）で拝見しております。 あらかじめご了承いただきますようお願い申し上げます。」（https://www.seibu-kk.co.jp/contact/・3回目）
+  - 「株式会社セイブ - SEIBU — TEL 087-806-1156 メールでのお問い合わせ お問い合わせフォーム HOME 会社紹介 会社概要 社長メッセージ 事業所・関連会社 沿革 トピックス 製品一覧 伝動/搬送 ホース・継手 エンジニアリング・プラスチック ゴムシート/樹脂マット スポンジ/フィルター 防振 ...」（https://www.seibu-g.com/・3回目）
+  - 「お問い合わせ - セイブサポート — 第2条【個人情報の利用目的について】 当社は、お客様の個人情報について次の利用目的の範囲内で適正に利用いたします。 1 返済能力の調査のため 2 当社の与信並びに与信後の権利の保存、管理、変更及び権利行使のため」（https://www.seibu-support.co.jp/contact/・3回目）
+- 所在地：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部23頁・検索9回）
+- 事業内容：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部23頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部23頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部23頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部23頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部23頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部23頁・検索9回）
+
 ## 株式会社セライズ CE-RISE Co.,Ltd. 新潟事業所【上越】
 - 公式URL：https://ceramic.co.jp（given）
 - 取扱製品：
@@ -7635,6 +9903,102 @@ TEL:04-7182-4490　FAX:04-7182-2382（https://matsumoto-screw.jp/pages/2/・1回
 - 売上高：記載なし（3回確認済み：公式17頁／PDF・画像1件／外部6頁・検索9回）
 - 取引先：記載なし（3回確認済み：公式17頁／PDF・画像1件／外部6頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式17頁／PDF・画像1件／外部6頁・検索9回）
+
+## 株式会社ゼロワンデザイン
+- 公式URL：https://www.01-design.co.jp（given）
+- 所在地：〒154-0014　東京都世田谷区新町3-23-3 詳細マップ（PDF）（https://www.01-design.co.jp/about/・1回目）
+- 事業内容：工業デザイン及びプロダクトデザイン／ロボット、IT機器、美容機器、健康機器、医療機器、スーツケース、家庭用品、各種測定器、大型産業用機器等のデザイン 機構設計、外観設計、電気設計、各種試作、基板試作、金型製造、基板製造、ソフト制作、組立、生産、輸入出業務、他販売サポート パッケージデザイン、カタログ、パンフレットのデザイン及び制作、取扱説明書、印刷、製本展示会用ビデオ制作、撮影、デザインコンサルティング、教育（https://www.01-design.co.jp/about/・1回目）
+- 代表者：田中　信吉（https://www.01-design.co.jp/about/・1回目）
+- 取扱製品：
+  - 「金型制作、金型輸送、部品と製品生産」（https://www.01-design.co.jp/about/・1回目）
+  - 「家電製品から家具、ライター、バッグ…」（https://www.01-design.co.jp/wp/wp-content/uploads/2023/02/nikkei.pdf・2回目）
+  - 「のライテックに受け入れられ、製品化に」（https://www.01-design.co.jp/wp/wp-content/uploads/2023/02/nikkei.pdf・2回目）
+- 一点物・少量多品種：
+  - 「生活家電、医療機器、産業機器、ロボットなどの外装デザイン、機構設計、試作、⾦型製作、製造までサポートいたします」（https://www.01-design.co.jp/・1回目）
+  - 「当社中国⽀社では、試作、⾦型製作、量産までをローコストで⾏っており、OEM⽣産の現地での交渉、修正設計の管理、PSE認証の⼿続きなども行っています」（https://www.01-design.co.jp/・1回目）
+  - 「2002年より中国深圳に協力会社を持ち、試作、⾦型製作、量産のサポートをローコストで⾏っており、最近では、中国既存品の調査、輸⼊業務、あるいは外観や仕様を変更して⽇本向けにモディファイする業務も⾏っております」（https://www.01-design.co.jp/about/・1回目）
+  - 「テクニカルモックアップ、3Dプリンター試作」（https://www.01-design.co.jp/about/・1回目）
+  - 「機構設計、外観設計、電気設計、各種試作、基板試作、金型製造、基板製造、ソフト制作、組立、生産、輸入出業務、他販売サポート」（https://www.01-design.co.jp/about/・1回目）
+  - 「象を解消すべく多くの試作を重ね、世界」（https://www.01-design.co.jp/wp/wp-content/uploads/2023/02/nikkei.pdf・2回目）
+- 製品分野：
+  - 「生活家電、医療機器、産業機器、ロボットなどの外装デザイン、機構設計、試作、⾦型製作、製造までサポートいたします」（https://www.01-design.co.jp/・1回目）
+  - 「家庭用品、医療機械、産業機械、輸送機械、ロボットなどの外装デザイン」（https://www.01-design.co.jp/about/・1回目）
+  - 「金型制作、金型輸送、部品と製品生産」（https://www.01-design.co.jp/about/・1回目）
+  - 「工業デザイン及びプロダクトデザイン／ロボット、IT機器、美容機器、健康機器、医療機器、スーツケース、家庭用品、各種測定器、大型産業用機器等のデザイン」（https://www.01-design.co.jp/about/・1回目）
+  - 「機構設計、外観設計、電気設計、各種試作、基板試作、金型製造、基板製造、ソフト制作、組立、生産、輸入出業務、他販売サポート」（https://www.01-design.co.jp/about/・1回目）
+- AM関連：
+  - 「テクニカルモックアップ、3Dプリンター試作」（https://www.01-design.co.jp/about/・1回目）
+  - 「3Dプリンターモデル」（https://www.01-design.co.jp/about/・1回目）
+  - 「: SAMSUNG ELECTRONICS CO.,LTD.」（https://www.01-design.co.jp/about/・1回目）
+- 検索結果の抜粋：
+  - 「プロダクトデザイン事務所：ゼロワンデザイン (東京)、工業デザイン事... — ゼロワンデザイン社は、プロダクトデザイン事務所です。 外観デザイン、機構設計を主業 務とし、企画、外観デザイン、機構設計、インダストリアルデザインを行う工業デザイ会 社です。」（https://www.01-design.co.jp/・3回目）
+  - 「会社情報 - プロダクトデザイン事務所：株式会社ゼロワンデザイン（東...インダストリアルデザイン（プロダクトデザイン）を主として設計・試...事業内容 | 株式会社ZERO ONE会社概要｜株式会社 ZERO-ONE｜ぬいぐるみ工場・縫製工場会社概要 | 株式会社ZERO ONETOP│株式会社 ゼロワン企業情報｜株式会社ゼロワン - zero-one.co.jp — Zero One Design Company is a product design office. Its main activities include exterior design and mechanical design, and it is an industrial design company that handles planning, exterior design, mechanical desi」（https://www.01-design.co.jp/about/・3回目）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像2件／外部10頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像2件／外部10頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式2頁／PDF・画像2件／外部10頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式2頁／PDF・画像2件／外部10頁・検索9回）
+- 取扱材料：記載なし（3回確認済み：公式2頁／PDF・画像2件／外部10頁・検索9回）
+- 連絡先：記載なし（3回確認済み：公式2頁／PDF・画像2件／外部10頁・検索9回）
+
+## 株式会社ソナスリンク
+- 公式URL：https://www.sonuslink.com（given）
+- 所在地：〒226-0017　神奈川県横浜市緑区新治町474番地１（https://www.sonuslink.com/company.html・1回目）
+- 所在地：※必須（https://www.sonuslink.com/info/inquery-a.html・1回目）
+- 所在地：※必須（https://www.sonuslink.com/info/inquery-re.html・1回目）
+- 事業内容：【真空機器事業】 真空ポンプの修理・メンテナンス（油回転ポンプ、ドライポンプ、ターボ分子ポンプ、クライオポンプ等）、真空機器の販売(真空ポンプ・真空計・ヘリウムリークディテクタ、真空チャンバ・真空バルブ・真空配管部品・真空フィルター)、中古真空機器販売(真空ポンプ等)、真空装置構成部品及び付帯設備の販売及び修理、設置作業 金属や樹脂部品の販売及び追加工受託、真空装置の保守・改造・販売・移設、高純度ガス配管用機器の販売、理科学機器の販売、その他 【ヘリウムリーク検査事業】 漏れ検査装置(ヘリウムリークディテクタ)を用いた受託ヘリウムリーク検査、出張ヘリウムリーク検査、レンタル及び使用時の導入支援 【電子部品事業】 電源トランスの設計・試作・製造・販売・改良、その他各種巻線製品製作（https://www.sonuslink.com/company.html・1回目）
+- 代表者：代表取締役　小野邉 実奈子（https://www.sonuslink.com/company.html・1回目）
+- 取引先：大学・研究機関・一般企業など）（https://www.sonuslink.com/repare-main.html・1回目）
+- 拠点：厚木工場　神奈川県厚木市下川入（https://www.sonuslink.com/company.html・1回目）
+- 取扱製品：
+  - 「弊社が取扱う製品やサービスに関する情報や小話、展示会などの報告を掲載いたします」（https://www.sonuslink.com/・1回目）
+  - 「電源トランスの設計・試作・製造・販売・改良、その他各種巻線製品製作」（https://www.sonuslink.com/company.html・1回目）
+  - 「半導体製造装置・ALD装置・スパッタリング装置・真空装置・真空バルブ・自動車部品・半導体メモリ・電子部品・電子管・電池・化学薬品・熱交換器・精密機器・締結部品・機械加工部品・ガラス製品・樹脂部品・産業用機器・医療用機械」（https://www.sonuslink.com/company.html・1回目）
+  - 「アズワン製品 販売店(科学機器・産業機器分野）」（https://www.sonuslink.com/company.html・1回目）
+  - 「VACUUM2020真空展 注目の製品・サービスの記事にてご紹介いただきました」（https://www.sonuslink.com/company.html・1回目）
+  - 「尚、製品やサービスの説明をする時にはメリットだけではなく、デメリットもお客様に説明し、ご納得・ご理解を頂けるよう努めております」（https://www.sonuslink.com/company.html・1回目）
+  - 「中でも、自身が設計試作したトランス・コイルは大手電機メーカーでも採用され、様々な製品に使用されている」（https://www.sonuslink.com/company.html・1回目）
+  - 「設計だけではなく、海外工場で部品製造にも関わり、その経験を基にして、いかに良い製品を作るかを製造現場レベルから考え模索中」（https://www.sonuslink.com/company.html・1回目）
+  - 「お客様に喜んで頂けるベストな製品を生み出すことを目標に日々製作に取り組んでおります」（https://www.sonuslink.com/company.html・1回目）
+  - 「修理メンテナンス・製品購入・レンタル・中古販売・加工品などのお問い合わせをご希望の方は」（https://www.sonuslink.com/inquery.html・1回目）
+  - 「弊社はお客様の「こういうものを作って欲しい」を原点に自社で基本構想を練り、各々の分野で秀でた技術を有するベテラン設計者や製造現場と協力して最適な加工製品を作り上げます」（https://www.sonuslink.com/processed.html・1回目）
+- 取扱材料：
+  - 「金属や樹脂部品の販売及び追加工受託、真空装置の保守・改造・販売・移設、高純度ガス配管用機器の販売、理科学機器の販売、その他」（https://www.sonuslink.com/company.html・1回目）
+  - 「半導体製造装置・ALD装置・スパッタリング装置・真空装置・真空バルブ・自動車部品・半導体メモリ・電子部品・電子管・電池・化学薬品・熱交換器・精密機器・締結部品・機械加工部品・ガラス製品・樹脂部品・産業用機器・医療用機械」（https://www.sonuslink.com/company.html・1回目）
+  - 「金属や樹脂の加工品製作・販売 ｜株式会社ソナスリンク」（https://www.sonuslink.com/processed.html・1回目）
+- 一点物・少量多品種：
+  - 「弊社では只今、電子部品「基板実装型オーダーメイドトランス」の販売を行っていただける代理店様を募集しております」（https://www.sonuslink.com/・1回目）
+  - 「電源トランスの設計・試作・製造・販売・改良、その他各種巻線製品製作」（https://www.sonuslink.com/company.html・1回目）
+  - 「中でも、自身が設計試作したトランス・コイルは大手電機メーカーでも採用され、様々な製品に使用されている」（https://www.sonuslink.com/company.html・1回目）
+  - 「電子部品のメーカーに長年勤務し、電源トランスの設計・試作・評価・製造に従事してきました」（https://www.sonuslink.com/company.html・1回目）
+  - 「トランスの試作の際、回路を組んで動作確認をしていたので、回路についても知見を有しています」（https://www.sonuslink.com/company.html・1回目）
+  - 「真空装置や製造設備で必要とされる加工品や特注のパーツの製作を承ります」（https://www.sonuslink.com/processed.html・1回目）
+- 製品分野：
+  - 「半導体製造装置・ALD装置・スパッタリング装置・真空装置・真空バルブ・自動車部品・半導体メモリ・電子部品・電子管・電池・化学薬品・熱交換器・精密機器・締結部品・機械加工部品・ガラス製品・樹脂部品・産業用機器・医療用機械」（https://www.sonuslink.com/company.html・1回目）
+  - 「株式会社ADEKA・AGC株式会社・株式会社サムスン日本研究所・ジーエルサイエンス株式会社・株式会社シンクロン・ソニー株式会社・大同特殊鋼株式会社・東京電設サービス株式会社・日鉄テクノロジー株式会社・浜松ホトニクス株式会社・富士フィルム株式会社・古河電工グループ・株式会社村田製作所 その他 自動車メーカー等の上場企業及び中小企業多数」（https://www.sonuslink.com/company.html・1回目）
+  - 「カタログ品には無い、お客様だけの特別な部品・治具・チャンバーを提供致します」（https://www.sonuslink.com/processed.html・1回目）
+- 連絡先：
+  - 「今では様々なお客様からお問い合わせやご依頼を頂けるまでに成長しております」（https://www.sonuslink.com/company.html・1回目）
+  - 「修理メンテナンス・製品購入・レンタル・中古販売・加工品などのお問い合わせをご希望の方は」（https://www.sonuslink.com/inquery.html・1回目）
+  - 「下記お問い合わせボタンをクリックしてお進みください」（https://www.sonuslink.com/inquery.html・1回目）
+  - 「お電話でのお問い合わせも受け付けております」（https://www.sonuslink.com/inquery.html・1回目）
+  - 「※平日17時以降、土・日・祝日及び弊社指定休日のお問い合わせは、その翌営業日以降の返信となります」（https://www.sonuslink.com/inquery.html・1回目）
+  - 「・24時間お問い合わせフォームにて受付中」（https://www.sonuslink.com/inquery.html・1回目）
+  - 「・お問い合わせ後3営業日以内にご連絡いたします」（https://www.sonuslink.com/inquery.html・1回目）
+  - 「・各種お問い合わせは下記にても受付ております」（https://www.sonuslink.com/inquery.html・1回目）
+  - 「お問い合わせ 総合窓口 ｜株式会社ソナスリンク」（https://www.sonuslink.com/info/inquery-a.html・1回目）
+  - 「こちらは株式会社ソナスリンクの総合お問い合わせフォームです」（https://www.sonuslink.com/info/inquery-a.html・1回目）
+  - 「お問い合わせをご希望の方は必要事項をご記入の上、送信ボタンをクリックしてください」（https://www.sonuslink.com/info/inquery-a.html・1回目）
+  - 「※平日17時以降、土・日・祝日及び弊社指定休日のお問い合わせは、その翌営業日以降の返信とさせていただきます」（https://www.sonuslink.com/info/inquery-a.html・1回目）
+- 検索結果の抜粋：
+  - 「株式会社ソナスリンク ｜TOPページ — 真空機器の販売・修理・メンテナンス・中古品販売・加工品製作・電子部品（トランス）の製作を行っている株式会社ソナスリンクWEBサイトです。 ヘリウムリークディテクタのレンタルも行っております。」（https://www.sonuslink.com/・3回目）
+  - 「電源トランスの設計製作を承ります｜株式会社ソナスリンク — 弊社ではトランス設計の際にお客様に十分なヒアリングを行い、周辺の回路を考慮したトランス設計を行っております。 それにより、お客様の製品に実装された時のトラブルを減らし、コストや、時間的損失を軽減できるように努めております。」（https://www.sonuslink.com/electronic.html・3回目）
+  - 「会社概要/メンバー | ソナス株式会社ソナス株式会社Sonasu - 株式会社ソナス株式会社ソーリンク（SOLINK）－自動機・省力機械・制御装置株式会社ソナスリンクの会社概要【2026年最新】| SalesNow DB株式会社ソナスリンクの会社概要・製品情報 | Metoree — ソナス株式会社の企業情報/会社概要・メンバーになります。 ソナス株式会社は2017年の事業開始以来、複数回の資金調達や各種プログラムにおける受賞を経て順調に事業を拡大しています。 ソナス株式会社は革新的転送方式を採用した独自開発のIoT無線「UNISONet」を核にIoT製品やSIサービスを展開しています。 土木・建築分野や製造業をはじめとして幅広い業界で活用領域が拡大しています。 株式会社ソナスは、システム開発・アプリ開発・WEB制作を提供する会社です。 日本とスリランカを拠点に、業務効率化・コスト削減・売」（https://www.sonas.co.jp/company・3回目）
+  - 「株式会社ソナスリンクの会社概要【2026年最新】| SalesNow DB — Dec 8, 2021 · 株式会社ソナスリンク を含む企業リスト 110,976社がヒット 神奈川県で従業員数5人未満の企業リスト 有料版で全て見る 16,288社がヒット システム開発の企業リスト」（https://salesnow.jp/db/companies/jcbkwnx5nhxwenxuy・3回目）
+  - 「株式会社ソナスリンクの会社概要・製品情報 | Metoree — 会社概要 株式会社ソナスリンクは、2019年に設立された、真空機器と電子部品の製作・販売を行う企業です。 気体を排出して容器内を真空にするための、真空機器の販売と、真空ポンプの修理を行っています。」（https://metoree.com/companies/8258/・3回目）
+  - 「お問い合わせ ｜株式会社ソナスリンク — こちらは弊社のお問い合わせフォームです。 修理メンテナンス・製品購入・レンタル・中古販売・加工品などのお問い合わせをご希望の方は 下記お問い合わせボタンをクリックしてお進みください。 お電話でのお問い合わせも受け付けております。」（https://www.sonuslink.com/inquery.html・3回目）
+- 従業員数：記載なし（3回確認済み：公式13頁／PDF・画像0件／外部8頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式13頁／PDF・画像0件／外部8頁・検索9回）
+- AM関連：記載なし（3回確認済み：公式13頁／PDF・画像0件／外部8頁・検索9回）
 
 ## 株式会社ソリッドレイ研究所 横浜本社
 - 公式URL：https://www.solidray.co.jp（given）
@@ -8163,6 +10527,108 @@ TEL:04-7182-4490　FAX:04-7182-2382（https://matsumoto-screw.jp/pages/2/・1回
 - 取引先：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部8頁・検索9回）
 - 連絡先：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部8頁・検索9回）
 
+## 株式会社ナガシマ製作所 本社
+- 公式URL：http://www.nagashima-ss.co.jp（given）
+- 取扱製品：
+  - 「ナガシマ製作所の製品・サービス一覧｜イプロスものづくり」（https://mono.ipros.com/company/detail/2085652/category/・3回目）
+  - 「製品・サービス(1)」（https://mono.ipros.com/company/detail/2085652/category/・3回目）
+- 検索結果の抜粋：
+  - 「製品・サービス一覧 | 株式会社ナガシマ製作所 本社 | イプロスものづ... — イプロスものづくりは、ものづくり分野の製品・サービス・技術情報が詰まったデータベースサイトです。 ものづくりに携わるあらゆる方々に、日々新しい情報をお届けします。」（https://www.ipros.jp/company/detail/2085652/category/・3回目）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索9回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索9回）
+- 取扱材料：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索9回）
+- 一点物・少量多品種：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索9回）
+- 製品分野：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索9回）
+- AM関連：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索9回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部5頁・検索9回）
+
+## 株式会社ナノ 横浜工場
+- 公式URL：http://www.nanowave.co.jp（given）
+- 所在地：〒236-0016 神奈川県横浜市金沢区谷津町86番1号 大きな地図で見る（http://www.nanowave.co.jp/company/index.html・1回目）
+- 所在地：〒236-0016 神奈川県横浜市金沢区谷津町86番1号 大きな地図で見る（http://www.nanowave.co.jp/company/・1回目）
+- 事業内容：精密加工をはじめ、小型フライス盤・小型旋盤の開発・製造・販売（http://www.nanowave.co.jp/company/index.html・1回目）
+- 事業内容：精密加工をはじめ、小型フライス盤・小型旋盤の開発・製造・販売（http://www.nanowave.co.jp/company/・1回目）
+- 代表者：代表取締役社長 林 ふさ子（http://www.nanowave.co.jp/company/index.html・1回目）
+- 代表者：代表取締役社長 林 ふさ子（http://www.nanowave.co.jp/company/・1回目）
+- 従業員数：16名（平成29年4月1日現在）（http://www.nanowave.co.jp/company/index.html・1回目）
+- 従業員数：16名（平成29年4月1日現在）（http://www.nanowave.co.jp/company/・1回目）
+- 従業員数：18名（https://mono.ipros.com/company/detail/209991/・3回目）
+- 取引先：【国内】
+東京大学（先端研、医学部）
+島根大学（医学部）
+神奈川大学（工学部）
+防衛大学校
+理化学研究所
+他
+
+【海外】
+デルフト工科大学（オランダ）
+ニューカッスル大学（イギリス）
+タリン工科大学（エストニア）
+他 (順不同・敬称略) ※医療機器関連、電子・機械部品、企業の研究所や大学の研究室など、あらゆる要求に解決策をご提案いたします！（https://mono.ipros.com/company/detail/209991/・3回目）
+- 取扱製品：
+  - 「旋盤・フライス・研削・仕上げ加工から組み立てまで、 当社製品の基盤となる、目に見えないところの精度にも こだわったナノの技術力をご紹介します」（http://www.nanowave.co.jp/・1回目）
+  - 「製品の外形寸法や重量、各テーブルの詳しい仕様などは製品カタログに記載がございます」（http://www.nanowave.co.jp/product/mts5r.html・1回目）
+  - 「当社では、MTSシリーズをベースにしたカスタマイズから、御社専用の部品加工機の製作まで、お客さまのニーズにあわせた製品開発を承っております」（http://www.nanowave.co.jp/product/mts5r.html・1回目）
+  - 「技術的な相談、テストカット、製品デモ、仕様打ち合わせ、」（http://www.nanowave.co.jp/suggest/custom_01.html・1回目）
+  - 「製品の外形寸法や重量、各テーブルの詳しい仕様などは製品カタログに記載がございます」（http://www.nanowave.co.jp/product/mts3s.html・1回目）
+  - 「当社では、MTSシリーズをベースにしたカスタマイズから、御社専用の部品加工機の製作まで、お客さまのニーズにあわせた製品開発を承っております」（http://www.nanowave.co.jp/product/mts3s.html・1回目）
+  - 「当社では、MTSシリーズをベースにしたカスタマイズから、御社専用の部品加工機の製作まで、お客さまのニーズにあわせた製品開発を承っております」（http://www.nanowave.co.jp/product/download.html・1回目）
+  - 「当社では、MTSシリーズをベースにしたカスタマイズから、御社専用の部品加工機の製作まで、お客さまのニーズにあわせた製品開発を承っております」（http://www.nanowave.co.jp/product/customize.html・1回目）
+  - 「技術的な相談、テストカット、製品デモ、仕様打ち合わせ、」（http://www.nanowave.co.jp/suggest/longwork.html・1回目）
+  - 「携帯電話、パソコン、AV機器、電化製品など、わたしたちの日常生活を支える部品たちは、小型・高性能化により飛躍的に省エネが実現しています」（http://www.nanowave.co.jp/company/message.html・1回目）
+  - 「先端技術と熟練技術の融合により，お客様が満足していただける製品づくりを心がけています．」（http://www.nanowave.co.jp/company/principle.html・1回目）
+  - 「技術的な相談、テストカット、製品デモ、仕様打ち合わせ、」（http://www.nanowave.co.jp/suggest/・1回目）
+- 取扱材料：
+  - 「PC, POM, PI, PMMA, エポキシ樹脂」（http://www.nanowave.co.jp/product/material.html・1回目）
+  - 「研究者自らが直径φ1mmの樹脂製タービン部品を試作」（http://www.nanowave.co.jp/suggest/custom_01.html・1回目）
+  - 「研究者自らが直径φ1mmの樹脂製タービン部品を試作」（http://www.nanowave.co.jp/suggest/longwork.html・1回目）
+  - 「研究者自らが直径φ1mmの樹脂製タービン部品を試作」（http://www.nanowave.co.jp/suggest/・1回目）
+  - 「研究者自らが直径φ1mmの樹脂製タービン部品を試作」（http://www.nanowave.co.jp/suggest/case_02.html・1回目）
+  - 「研究者自らが直径φ1mmの樹脂製タービン部品を試作」（http://www.nanowave.co.jp/suggest/case_04.html・1回目）
+  - 「研究者自らが直径φ1mmの樹脂製タービン部品を試作」（http://www.nanowave.co.jp/suggest/case_05.html・1回目）
+  - 「研究者自らが直径φ1mmの樹脂製タービン部品を試作」（http://www.nanowave.co.jp/suggest/case_06.html・1回目）
+  - 「研究者自らが直径φ1mmの樹脂製タービン部品を試作」（http://www.nanowave.co.jp/suggest/measure.html・1回目）
+  - 「研究者自らが直径φ1mmの樹脂製タービン部品を試作」（http://www.nanowave.co.jp/suggest/concent.html・1回目）
+  - 「研究者自らが直径φ1mmの樹脂製タービン部品を試作」（http://www.nanowave.co.jp/suggest/nc.html・1回目）
+  - 「研究者自らが直径φ1mmの樹脂製タービン部品を試作」（http://www.nanowave.co.jp/suggest/knowhow.html・1回目）
+- 一点物・少量多品種：
+  - 「研究者自らが直径φ1mmの樹脂製タービン部品を試作」（http://www.nanowave.co.jp/suggest/custom_01.html・1回目）
+  - 「研究者自らが直径φ1mmの樹脂製タービン部品を試作」（http://www.nanowave.co.jp/suggest/longwork.html・1回目）
+  - 「研究者自らが直径φ1mmの樹脂製タービン部品を試作」（http://www.nanowave.co.jp/suggest/・1回目）
+  - 「研究者自らが直径φ1mmの樹脂製タービン部品を試作」（http://www.nanowave.co.jp/suggest/case_02.html・1回目）
+  - 「研究者自らが直径φ1mmの樹脂製タービン部品を試作」（http://www.nanowave.co.jp/suggest/case_04.html・1回目）
+  - 「研究者自らが直径φ1mmの樹脂製タービン部品を試作」（http://www.nanowave.co.jp/suggest/case_05.html・1回目）
+  - 「研究者自らが直径φ1mmの樹脂製タービン部品を試作」（http://www.nanowave.co.jp/suggest/case_06.html・1回目）
+  - 「研究者自らが直径φ1mmの樹脂製タービン部品を試作」（http://www.nanowave.co.jp/suggest/measure.html・1回目）
+  - 「研究者自らが直径φ1mmの樹脂製タービン部品を試作」（http://www.nanowave.co.jp/suggest/concent.html・1回目）
+  - 「研究者自らが直径φ1mmの樹脂製タービン部品を試作」（http://www.nanowave.co.jp/suggest/nc.html・1回目）
+  - 「研究者自らが直径φ1mmの樹脂製タービン部品を試作」（http://www.nanowave.co.jp/suggest/knowhow.html・1回目）
+  - 「研究者自らが直径φ1mmの樹脂製タービン部品を試作」（http://www.nanowave.co.jp/suggest/house.html・1回目）
+- 製品分野：
+  - 「工業技術院機械技術研究所にキャスティングマニピュレータ機構および伸縮脚型2足歩行ロボットを納入」（http://www.nanowave.co.jp/company/history.html・1回目）
+  - 「精密CNC高硬度金型材切削機 NANOWAVE UPL2 の販売を開始」（http://www.nanowave.co.jp/company/history.html・1回目）
+  - 「昭和大学歯科病院保存修復学講座に初号デバイス納入」（http://www.nanowave.co.jp/company/history.html・1回目）
+  - 「卓上NC機によるミクロンオーダーの超硬金型修正工程の内製化で生産性向上」（http://www.nanowave.co.jp/suggest/custom_01.html・1回目）
+  - 「バイオ工学研究者による培地用の微細な超硬金型作成の内製化」（http://www.nanowave.co.jp/suggest/custom_01.html・1回目）
+  - 「生命工学工業技術研究所にロボットセンサー部品を納入」（http://www.nanowave.co.jp/product/installed.html・1回目）
+  - 「生命工学工業技機械技術研究所に、キャスティングマニピュレータ機構（ロボット）を設計製作納入」（http://www.nanowave.co.jp/product/installed.html・1回目）
+  - 「機械技術研究所に、伸縮脚型２足歩行ロボットを設計製作納入」（http://www.nanowave.co.jp/product/installed.html・1回目）
+  - 「機械技術研究所に自立型脚車輪２足システムロボットを納入」（http://www.nanowave.co.jp/product/installed.html・1回目）
+  - 「産業技術総合研究所にＮＥＤＯ「人間協調・共存型ロボットシステムの研究開発」の実験機納入」（http://www.nanowave.co.jp/product/installed.html・1回目）
+  - 「湘南工科大学工学部機械工学科に「真円度測定治具」を納入」（http://www.nanowave.co.jp/product/installed.html・1回目）
+  - 「北海道大学大学院工学研究科に筋電位義手ロボットを納入」（http://www.nanowave.co.jp/product/installed.html・1回目）
+- AM関連：
+  - 「ターニングセンタの場合、簡易 CAM を使用した際のデータ編集タブ」（http://www.nanowave.co.jp/dl/soft_history130318.pdf・2回目）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部10頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部10頁・検索9回）
+- 連絡先：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部10頁・検索9回）
+
 ## 株式会社ネクスト
 - 公式URL：https://www.next-craft.com（given）
 - 検索結果の抜粋：
@@ -8184,6 +10650,70 @@ TEL:04-7182-4490　FAX:04-7182-2382（https://matsumoto-screw.jp/pages/2/・1回
 - 製品分野：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）
 - AM関連：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）
 - 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）
+
+## 株式会社ハイパーウェブ
+- 公式URL：http://hyperweb-japan.co.jp（given）
+- 所在地：〒251-0052　神奈川県藤沢市藤沢1049番地大矢ビル2A（http://hyperweb-japan.co.jp/group-info.html・1回目）
+- 所在地：1255-22 JINMAO ROAD ZHOUSHI TOWN, KUNSHAN CITY JIANGSU CHINA 215314（http://hyperweb-japan.co.jp/group-info.html・1回目）
+- 所在地：湘南オフィス 〒252-0813　神奈川県藤沢市亀井野1524-1 ファーストシティ松嶋105 東京オフィス 〒105-0013　東京都港区浜松町1-18-12 山手ビル5号館7階（http://hyperweb-japan.co.jp/group-info.html・1回目）
+- 事業内容：産業用機械部品・工作機械部品・半導体装置部品の調達支援、サプライヤー開発 生産技術指導、組立技術指導、品質管理、コスト管理 、言語サポート販売支援、
+進出サポート（http://hyperweb-japan.co.jp/group-info.html・1回目）
+- 事業内容：産業用機械部品・工作機械部品・半導体装置部品の加工・ 生産・組立 ・品質検査・アフターサービス（http://hyperweb-japan.co.jp/group-info.html・1回目）
+- 事業内容：産業用設備・機器業界の設計支援・組立支援・半導体製造装置・電子部品製造装置・ 産業用ロボットの改造提案・設計・設置・アフターサービス等のワンストップサービスを提供。（http://hyperweb-japan.co.jp/group-info.html・1回目）
+- 代表者：代表取締役社長　山内 実（http://hyperweb-japan.co.jp/group-info.html・1回目）
+- 代表者：山内 実（https://www.ccnet21.ne.jp/company/1556・3回目）
+- 代表者：代表取締役社長 　 山内　実（https://www.atengineer.com/pr/hyperweb/company・3回目）
+- 従業員数：11～50人（https://www.ccnet21.ne.jp/company/1556・3回目）
+- 取引先：川崎重工株式会社ロボットビジネスセンター パナソニックファクトリーソリューションズ株式会社 YKK AP 株式会社 東京計器株式会社 株式会社共立合金製作所（http://hyperweb-japan.co.jp/group-info.html・1回目）
+- 取引先：株式会社ギガソーラー 株式会社ギガエンジニアリング（http://hyperweb-japan.co.jp/group-info.html・1回目）
+- 取扱製品：
+  - 「Quality「品質」の良い製品を、Delivery「納期」を守って、Cost「コスト」を安く生産することで顧客満足の向上と企業利益創出の貢献を果たしています」（http://hyperweb-japan.co.jp/group-info.html・1回目）
+  - 「海外製品の製造過程では、しばしば品質基準の差が問題になることがあります」（http://hyperweb-japan.co.jp/machine-parts.html・1回目）
+  - 「太陽光発電を活用したそれぞれの事業用途に合わせた専用架台をラインナップ」（http://hyperweb-japan.co.jp/renewable-energy.html・1回目）
+  - 「陸屋根にはアンカー設置不要の穴を開けない自重式架台をラインナップ」（http://hyperweb-japan.co.jp/renewable-energy.html・1回目）
+  - 「株式会社ハイパーウェブ（神奈川県藤沢市）｜製品設計・金型設計・その他設計｜製造業応援サイトCCNET」（https://www.ccnet21.ne.jp/company/1556・3回目）
+  - 「製品メーカー様にグローバルなネットワークの製造部門をご提供致します！」（https://www.ccnet21.ne.jp/company/1556・3回目）
+  - 「、製品・技術・サービス」（https://www.atengineer.com/pr/hyperweb/company・3回目）
+  - 「株式会社ハイパーウェブの製品・技術・サービス」（https://www.atengineer.com/pr/hyperweb/company・3回目）
+- 取扱材料：
+  - 「材質や種類が豊富な各種折半屋根にも対応可能」（http://hyperweb-japan.co.jp/renewable-energy.html・1回目）
+  - 「屋根の材質や建物の構造、景観にも配慮した架台をご提供致します」（http://hyperweb-japan.co.jp/renewable-energy.html・1回目）
+  - 「耐久性の高いアルミとステンレス材質を採用した軽量でサビにくい高品質の部材なら当社へご相談ください」（http://hyperweb-japan.co.jp/renewable-energy.html・1回目）
+- 一点物・少量多品種：
+  - 「では、経験豊かなコーディネーターやエンジニアが集い、特注加工部品の調達支援、部品製造の生産技術指導、品質管理指導を行っています」（http://hyperweb-japan.co.jp/・1回目）
+  - 「また2009年9月には中国昆山に特注機械加工部品の加工・生産・組立 ・品質検査を行う」（http://hyperweb-japan.co.jp/・1回目）
+  - 「特注機械部品・工作機械部品・半導体装置部品の加工、生産、組立、品質検査、アフターサービス」（http://hyperweb-japan.co.jp/group-info.html・1回目）
+  - 「中国昆山にあるHyper Web Inc. 海偉波机器設備科技(昆山)有限公司では、特注機械部品の加工・生産・組立 ・品質検査・アフターサービスを主たる業務として、QDC向上を意識した生産活動を行なっています」（http://hyperweb-japan.co.jp/group-info.html・1回目）
+  - 「では、経験豊かなコーディネーターやエンジニアが集い、特注加工部品の調達支援、部品製造の生産技術指導、品質管理指導を行っています」（http://hyperweb-japan.co.jp/index.html・1回目）
+  - 「また2009年9月には中国昆山に特注機械加工部品の加工・生産・組立 ・品質検査を行う」（http://hyperweb-japan.co.jp/index.html・1回目）
+- 製品分野：
+  - 「を設立し、製造工程の機器装置類を自動化して作業の効率化を図る産業用設備の製造、産業用ロボットシステムの自動化の改造を必要とする企業に対して、改造提案・設計・設置・アフターサービス等のワンストップサービスを提供しています」（http://hyperweb-japan.co.jp/・1回目）
+  - 「製造業関連企業様・産業用ロボット製造会社様・太陽光施工関連企業様にご利用いただいております」（http://hyperweb-japan.co.jp/・1回目）
+  - 「成形品の組立や検査、デパレタイズロボット、移動体ロボット、多言語音声ガイドロボット、災害対応ロボット、シロアリ駆除の調査ロボットなどの実績があります」（http://hyperweb-japan.co.jp/・1回目）
+  - 「産業用機械部品・工作機械部品・半導体装置部品の調達支援、サプライヤー開発、生産技術指導、組立技術指導、品質管理、コスト管理 、言語サポート販売支援、進出サポート」（http://hyperweb-japan.co.jp/group-info.html・1回目）
+  - 「特注機械部品・工作機械部品・半導体装置部品の加工、生産、組立、品質検査、アフターサービス」（http://hyperweb-japan.co.jp/group-info.html・1回目）
+  - 「産業用設備 ・機器業界の設計支援・組立支援 ・半導体製造装置・電子部品製造装置・産業用ロボットの改造提案・設計・設置・アフターサービス」（http://hyperweb-japan.co.jp/group-info.html・1回目）
+  - 「産業用機械部品・工作機械部品・半導体装置部品の調達支援、サプライヤー開発」（http://hyperweb-japan.co.jp/group-info.html・1回目）
+  - 「産業用機械部品・工作機械部品・半導体装置部品の加工・」（http://hyperweb-japan.co.jp/group-info.html・1回目）
+  - 「また、産業用ロボットシステムの自動化の改造を必要とする企業に対して、改造提案・設計・設置・アフターサービス等のワンストップサービスを提供しています」（http://hyperweb-japan.co.jp/group-info.html・1回目）
+  - 「産業用設備・機器業界の設計支援・組立支援・半導体製造装置・電子部品製造装置・」（http://hyperweb-japan.co.jp/group-info.html・1回目）
+  - 「産業用ロボットの改造提案・設計・設置・アフターサービス等のワンストップサービスを提供」（http://hyperweb-japan.co.jp/group-info.html・1回目）
+  - 「2006年 3月 産業用ロボット業界向けの支援サービスを開始」（http://hyperweb-japan.co.jp/group-info.html・1回目）
+- AM関連：
+  - 「Supports for advancement of manufacturing campany」（http://hyperweb-japan.co.jp/・1回目）
+  - 「Supports for advancement of manufacturing campany」（http://hyperweb-japan.co.jp/index.html・1回目）
+- 連絡先：
+  - 「図面・仕様・数量・希望価格・希望納品をメールにてお知らせいただけますとスムーズです」（http://hyperweb-japan.co.jp/machine-parts.html・1回目）
+  - 「お問い合わせ | ハイパーグループ公式サイト」（https://www.hyperweb-japan.co.jp/contact-us.html・3回目）
+  - 「既存の部品の御見積りご依頼は、メールにて図面・仕様・数量・希望価格・希望納品をお知らせいただけますとスムーズです」（https://www.hyperweb-japan.co.jp/contact-us.html・3回目）
+  - 「※日本からのお問い合わせは、上記の株式会社ハイパーウェブ宛でも承ります」（https://www.hyperweb-japan.co.jp/contact-us.html・3回目）
+- 検索結果の抜粋：
+  - 「株式会社ハイパーウェブ（神奈川県藤沢市）｜製品設計・金型設計・そ... — Jan 10, 2018 · 会社概要 ― 製造業界にネットワークによる最適なモノ作りをご提供 ―ハイパーウェブはネットワークでモノ作りをしている会社です！ 装置メーカー様の案件に合せて、アジア圏で最適な生産環境を構築いたします。」（https://www.ccnet21.ne.jp/company/1556・3回目）
+  - 「株式会社ハイパーウェブ - 会社概要 — モノ作り業界にビジネスプラットホームを提供 Webサイトと提供サービス概要 ハイパーウェブのeモノ作りサービスは【モノ作りの専門サイト】として “国内調達・海外調達”の障壁となる下記の諸問題を解決します。」（https://www.atengineer.com/pr/hyperweb/company・3回目）
+  - 「トップ | ハイパーグループ公式サイト — ハイパーグループは、モノづくり業界を繋ぐ「モノづくり支援カンパニー」です。 株式会社ハイパーウェブ では、経験豊かなコーディネーターやエンジニアが集い、特注加工部品の調達支援、部品製造の生産技術指導、品質管理指導を行っています。」（http://hyperweb-japan.co.jp/・3回目）
+  - 「グループ情報 | ハイパーグループ公式サイト — 株式会社 ハイパーウェブ [ グループ本社 ] どこの国で造っていても Made in japan魂で エンジニアリングサービスを提供しています 株式会社ハイパーウェブは、製造業の調達ご担当者様と加工メーカーとの橋渡しをするモノづくり支援カンパニーです。」（https://www.hyperweb-japan.co.jp/group-info.html・3回目）
+- 売上高：記載なし（3回確認済み：公式6頁／PDF・画像1件／外部9頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式6頁／PDF・画像1件／外部9頁・検索9回）
 
 ## 株式会社ハシバモールド 茨城事業所
 - 公式URL：http://www.hashiba-shisaku.co.jp（given）
@@ -8235,6 +10765,67 @@ TEL:04-7182-4490　FAX:04-7182-2382（https://matsumoto-screw.jp/pages/2/・1回
 - 取扱材料：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
 - AM関連：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
 - 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
+
+## 株式会社ファーストメカニカルデザイン
+- 公式URL：http://www.1md.co.jp（given）
+- 取扱製品：
+  - 「の佐々木原幸一氏と目黒弘氏と共に開発・製品化した超高級品フォノカートリッジ「」（http://www.1md.co.jp/・1回目）
+  - 「光学系を安定させるための新製品を共同開発中で評価実験ためのご来社です」（http://www.1md.co.jp/・1回目）
+  - 「製品・サービス(7)」（https://mono.ipros.com/company/detail/2062063/・3回目）
+  - 「当社の主要製品「FMDミラーマウント」は、現在までに、QST・NICT・」（https://mono.ipros.com/company/detail/2062063/・3回目）
+  - 「製品・サービス (7)」（https://mono.ipros.com/company/detail/2062063/・3回目）
+- 取扱材料：
+  - 「14:05-14:35 次世代半導体パッケージ甚板向け居間絶縁樹脂」（http://www.1md.co.jp/pdf/interopto_2024.pdf・2回目）
+- 一点物・少量多品種：
+  - 「光量子コンピュータのキーパーツの一つになる新型ミラーマウントの試作品が完成しました」（http://www.1md.co.jp/・1回目）
+  - 「試作機をマニアの方達に聞いて頂いた評価では「世界一の音」と言われたそうです」（http://www.1md.co.jp/・1回目）
+  - 「ファイバアライナの試作機が紹介されました!!」（http://www.1md.co.jp/・1回目）
+  - 「■音響機器の設計、試作組立業務」（https://mono.ipros.com/company/detail/2062063/・3回目）
+- 製品分野：
+  - 「当社はKAGRA心臓部の部品であるミラーとビームスプリッターに部品を接着してKAGRA迄運搬するための治具を」（http://www.1md.co.jp/・1回目）
+  - 「1 3:00-13:35 半導体・デジタル産業戦略 清水英路氏(経済産業省)」（http://www.1md.co.jp/pdf/interopto_2024.pdf・2回目）
+  - 「1 3:35-14:05 半導体後工程へ向けたAIレーザー微細加工 小林洋平氏(東京大学)」（http://www.1md.co.jp/pdf/interopto_2024.pdf・2回目）
+  - 「14:05-14:35 次世代半導体パッケージ甚板向け居間絶縁樹脂」（http://www.1md.co.jp/pdf/interopto_2024.pdf・2回目）
+  - 「1 5:35-1 6:05 先端半導体デバイス向けEUV露光装置」（http://www.1md.co.jp/pdf/interopto_2024.pdf・2回目）
+  - 「11 口 0-11:50側オフィールジャパン「ドローン向けの赤外線カメラ用レンズに」（http://www.1md.co.jp/pdf/interopto_2024.pdf・2回目）
+  - 「テラヘルツ次世代イメージングによる半導体解析」（http://www.1md.co.jp/pdf/interopto_2024.pdf・2回目）
+  - 「液晶基板製造装置、医療用機械器具などのコンサルティング、設計、」（https://mono.ipros.com/company/detail/2062063/・3回目）
+  - 「■医療用機械器具のコンサルティング、設計、製造、組立、改造、販売、メンテナンス業務」（https://mono.ipros.com/company/detail/2062063/・3回目）
+- AM関連：
+  - 「重力波望遠鏡TAMA300」（http://www.1md.co.jp/・1回目）
+  - 「| Ukeizai@saitama-np.co.jp」（http://www.1md.co.jp/pdf/top_info_202505_info.pdf・2回目）
+  - 「oe 4 CHRAECIK(S) 18° [KR BR ANCREHO” |X WORD SER OKA yam ges」（http://www.1md.co.jp/pdf/top_info_202505_info.pdf・2回目）
+  - 「WHOIS WIND LISA ong WER IhS REN —R MP Uh (Im | HH EMRE) © 5 | Ramee?」（http://www.1md.co.jp/pdf/top_info_202505_info.pdf・2回目）
+  - 「SE [NPD] 8 NAMBOREBOR8h SREETUENLAROO” WBN IP KAKA | 40) QRS) Reo"」（http://www.1md.co.jp/pdf/top_info_202505_info.pdf・2回目）
+  - 「am TURBO COS BRRQWIN— PD £28 [S8B) AINDNT AD? M1] OWOSER」（http://www.1md.co.jp/pdf/top_info_202505_info.pdf・2回目）
+  - 「su’ Ade |S REAGAN SION 4ORMERRORS KW | MERSIK US| BEX MER ORREH NS) | 4AM art」（http://www.1md.co.jp/pdf/top_info_202505_info.pdf・2回目）
+  - 「REA MMOUHES | 1.4 10° BREA WEMUSN | ABV’ TM ORRIREK | cxco « coAMOOY REMOTE] 1 Ee” BV Oem” <| GW上層室上」（http://www.1md.co.jp/pdf/top_info_202505_info.pdf・2回目）
+  - 「FOE | ARAM | JNM? IK SERRO MK | SR" RE) JO | BOSD) 人AORS | KBB IEE) JASSIBRUUEE] WAH VA) ORES KJ RII’ TE」（http://www.1md.co.jp/pdf/top_info_202505_info.pdf・2回目）
+  - 「DO LMIIRREC SHES | Crm WHR S 10° ELIT | HOO |) AOU? RAMI « coAINS + co] KOUGTHK | BENDIS」（http://www.1md.co.jp/pdf/top_info_202505_info.pdf・2回目）
+  - 「GSきき fins? WBOSLY.0" BUEIIY | HE SOY ee] LPNS FS WSS) |) J. ios 19? Ramey」（http://www.1md.co.jp/pdf/top_info_202505_info.pdf・2回目）
+  - 「[OCR] 光軸高さ2 インチのコンパクトサイズです (1 円玉は直径 20mm) アクチュエータは有限会社メカノトランスフォーマ社の PAM3-6.5R を搭載」（http://www.1md.co.jp/pdf/top_info_202409_new20250120.pdf・2回目）
+- 連絡先：
+  - 「(Contact us for details.)」（http://www.1md.co.jp/pdf/page_fa1000s.pdf・2回目）
+  - 「available upon your request. Contact us for details.」（http://www.1md.co.jp/pdf/page_fa1000s.pdf・2回目）
+  - 「“OFF” position at first. Confirm that the upper plate contacts with the lower」（http://www.1md.co.jp/pdf/page_fbp1000s.pdf・2回目）
+  - 「the contact point of the plates will be damaged by magnetic attractive force.」（http://www.1md.co.jp/pdf/page_fbp1000s.pdf・2回目）
+- 検索結果の抜粋：
+  - 「株式会社 ファーストメカニカルデザイン - Metoree — 株式会社 ファーストメカニカルデザイン - Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/6962/・3回目）
+  - 「ファーストメカニカルデザイン | 企業情報 | イプロスものづくり — ファーストメカニカルデザイン | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 光学機器」（https://mono.ipros.com/company/detail/2062063/・3回目）
+  - 「First Mechanical Design (FMD) 株式会社 ファースト ... — First Mechanical Design (FMD) 株式会社 ファースト ... ファーストメカニカルデザイン http://www.1md.co.jp」（http://www.1md.co.jp/・3回目）
+  - 「First Mechanical Design (FMD) 株式 会社ファースト ... — First Mechanical Design (FMD) 株式 会社ファースト ... ファーストメカニカルデザイン http://www.1md.co.jp > data」（http://www.1md.co.jp/data.php・3回目）
+  - 「ファーストメカニカルデザイン | 企業 情報 | イプロスものづくり — ファーストメカニカルデザイン | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 光学機器」（https://mono.ipros.com/company/detail/2062063/・3回目）
+  - 「株式 会社ファーストメカニカルデザイン - Metoree — 株式 会社ファーストメカニカルデザイン - Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/6962/・3回目）
+  - 「ファーストメカニカルデザイン — ファーストメカニカルデザイン ファーストメカニカルデザイン http://www.1md.co.jp」（http://www.1md.co.jp/・3回目）
+  - 「FMDミラーマウント MH100IH_254 — FMDミラーマウント MH100IH_254 ファーストメカニカルデザイン http://www.1md.co.jp > ...」（http://www.1md.co.jp/mh100ih_254.php・3回目）
+  - 「FMD MAP - ファーストメカニカルデザイン — FMD MAP - ファーストメカニカルデザイン ファーストメカニカルデザイン http://www.1md.co.jp > map」（http://www.1md.co.jp/map.php・3回目）
+- 所在地：記載なし（3回確認済み：公式2頁／PDF・画像8件／外部7頁・検索9回）
+- 事業内容：記載なし（3回確認済み：公式2頁／PDF・画像8件／外部7頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式2頁／PDF・画像8件／外部7頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像8件／外部7頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像8件／外部7頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式2頁／PDF・画像8件／外部7頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式2頁／PDF・画像8件／外部7頁・検索9回）
 
 ## 株式会社フジタ
 - 公式URL：http://www.fujita-k.co.jp（given）
@@ -8555,6 +11146,110 @@ TEL:04-7182-4490　FAX:04-7182-2382（https://matsumoto-screw.jp/pages/2/・1回
 - 取扱材料：記載なし（3回確認済み：公式10頁／PDF・画像20件／外部1頁・検索9回）
 - AM関連：記載なし（3回確認済み：公式10頁／PDF・画像20件／外部1頁・検索9回）
 - 連絡先：記載なし（3回確認済み：公式10頁／PDF・画像20件／外部1頁・検索9回）
+
+## 株式会社プラメリーデザイン
+- 公式URL：https://www.plamerry.co.jp（given）
+- 所在地：〒277-0871 千葉県 柏市 若柴6-60（https://www.plamerry.co.jp/company/・1回目）
+- 所在地：日本 千葉県 柏市 [地図を見る] 担当者 忽那広樹（https://ja.nc-net.or.jp/company/83210/・3回目）
+- 事業内容：•3次元CADによるモデリング・商品開発ものづくり支援 •精密真空注型、MC切削加工、光造形、粉末造形による工業用モデルの試作製作 •自動車関連・各車両・農機具関連の試作支援 •家電機器・通信機器・OA機器・医療機器・介護機器の試作支援 •人工知能（AI）を活用した介護・医療・産業用ロボット開発支援 •玩具・アミューズメント関連の開発支援 •SLMシステムによるナイロンプラス真空注型（PA6 GF30/CF20） •簡易射出システムによる小ロット試作用射出成形 •試作型・金型設計 •設計から量産までのシステムネットワークによる、製造管理受託業務 •UV照射装置の販売・技術サポート •三次元測定業務（接触式 非接触式スキャナ型対応） •中国長興社製の注型機＆恒温槽の販売・技術サポート（https://www.plamerry.co.jp/company/・1回目）
+- 代表者：090-0000-0000（https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf・2回目）
+- 従業員数：25人（https://www.plamerry.co.jp/company/・1回目）
+- 従業員数：30名（https://mono.ipros.com/company/detail/288127/・3回目）
+- 取引先：自動車開発メーカー・自動車関連のサプライヤー企業・医療関連企業・
+家電機器関連企業・通信機器関連企業・介護機器関連企業・他 (順不同・敬称略)（https://mono.ipros.com/company/detail/288127/・3回目）
+- 取引先：大手自動車メーカー 家電・通信機器メーカー 車両部品メーカー 医療・介護機器メーカー 農機具・船舶関連メーカー（https://ja.nc-net.or.jp/company/83210/・3回目）
+- 取扱製品：
+  - 「プラスチック製品の製作において、種々のニーズに応えてきたプラメリーデザインでは、試作・型設計から量産品の製造までをトータルに対応しています」（https://www.plamerry.co.jp/・1回目）
+  - 「革新的な工業製品の企画開発を支援します「ゼロからのモノづくり」でお客様独自のニーズに対応します」（https://www.plamerry.co.jp/・1回目）
+  - 「プラメリーデザインでは、革新的な工業製品の企画開発を支援しています」（https://www.plamerry.co.jp/company/・1回目）
+  - 「試作製品の製作において種々のニーズに応えてきたプラメリーデザインでは企画提案・3Dデータの設計から量産品の製造までトータルに対応しています」（https://www.plamerry.co.jp/company/・1回目）
+  - 「スタッフが力を合わせ、常にクオリティの高い製品づくりを目指していこうという当社のメッセージが込められています」（https://www.plamerry.co.jp/company/・1回目）
+  - 「情熱の込められた製品は、利用する人々の「幸せ」に、いつもパワーを与えてくれます」（https://www.plamerry.co.jp/company/・1回目）
+  - 「より良いモノを人々が手にし、その製品に込められた情熱を感じ取る」（https://www.plamerry.co.jp/company/・1回目）
+  - 「そこから生まれた感動が、その製品をさらに成長させていく」（https://www.plamerry.co.jp/company/・1回目）
+  - 「プラスチック製品の製作において、種々のニーズに応えてきたプラメリーデザインでは、試作・型設計から量産品の製造までトータルに対応しています」（https://www.plamerry.co.jp/service/・1回目）
+  - 「実際の組立て・稼動試験による製品構成に関する技術検証や3次元測定を行うことで、 ユーザーの工数削減、品質管理（ISO9001）など生産性の向上に貢献します」（https://www.plamerry.co.jp/service/・1回目）
+  - 「真空状態で樹脂をシリコーン型にキャストして製品の複製（形状により20個前後）を作る工法です」（https://www.plamerry.co.jp/service/・1回目）
+  - 「製品自体が高価で販売台数が少ない商品では、この工法で注型品量産する場合もあります」（https://www.plamerry.co.jp/service/・1回目）
+- 取扱材料：
+  - 「PA6熱可塑性のナイロン樹脂材料を使用した独自の真空注型工法なので、小ロットの試作成形品に対応」（https://www.plamerry.co.jp/・1回目）
+  - 「樹脂型＋簡易射出成形システムによる超小ロット対応射出成形工法を確立」（https://www.plamerry.co.jp/company/・1回目）
+  - 「ユーザーのご要望により、各種樹脂素材を利用した最適な試作方法を選定し、コストパフォーマンスに優れた試作品をお届けしています」（https://www.plamerry.co.jp/service/・1回目）
+  - 「汎用樹脂および指定材料による1個からのファーストモデル製作が可能です」（https://www.plamerry.co.jp/service/・1回目）
+  - 「真空状態で樹脂をシリコーン型にキャストして製品の複製（形状により20個前後）を作る工法です」（https://www.plamerry.co.jp/service/・1回目）
+  - 「一般的には、熱硬化性樹脂を使用して形状確認や営業サンプルとして活用し、商品開発に成果を上げています」（https://www.plamerry.co.jp/service/・1回目）
+  - 「その他、特殊工法として熱可塑性樹脂（6ナイロン）をシリコーン型にキャストさせるナイロン注型システムも当社ならではのオリジナルです」（https://www.plamerry.co.jp/service/・1回目）
+  - 「汎用樹脂から高機能樹脂まで会社企画ペレットおよび特殊ペレットをご指定して頂ければ同等材料での製品モデル製作が可能」（https://www.plamerry.co.jp/mccutting/・1回目）
+  - 「エンジン吸気系 樹脂部品の金型レス試作工法開発」（https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/urethane.pdf・2回目）
+  - 「「シリコーン型に熱可塑性樹脂をキャストする」」（https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/nylon_1.pdf・2回目）
+  - 「樹脂型+簡易射出成形システムによる超小ロット対応射出成形工法を確立」（https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG・3回目）
+  - 「4. 光造形、精密真空注型、樹脂切削加工による工業用モデルの試作」（https://mono.ipros.com/company/detail/288127/・3回目）
+- 一点物・少量多品種：
+  - 「プラスチック製品の製作において、種々のニーズに応えてきたプラメリーデザインでは、試作・型設計から量産品の製造までをトータルに対応しています」（https://www.plamerry.co.jp/・1回目）
+  - 「PA6熱可塑性のナイロン樹脂材料を使用した独自の真空注型工法なので、小ロットの試作成形品に対応」（https://www.plamerry.co.jp/・1回目）
+  - 「試作製品の製作において種々のニーズに応えてきたプラメリーデザインでは企画提案・3Dデータの設計から量産品の製造までトータルに対応しています」（https://www.plamerry.co.jp/company/・1回目）
+  - 「•精密真空注型、MC切削加工、光造形、粉末造形による工業用モデルの試作製作」（https://www.plamerry.co.jp/company/・1回目）
+  - 「•自動車関連・各車両・農機具関連の試作支援」（https://www.plamerry.co.jp/company/・1回目）
+  - 「•家電機器・通信機器・OA機器・医療機器・介護機器の試作支援」（https://www.plamerry.co.jp/company/・1回目）
+  - 「•簡易射出システムによる小ロット試作用射出成形」（https://www.plamerry.co.jp/company/・1回目）
+  - 「屋号「プラメリー成工」として、柏市に精密真空注型を主に試作業を開始する」（https://www.plamerry.co.jp/company/・1回目）
+  - 「樹脂型＋簡易射出成形システムによる超小ロット対応射出成形工法を確立」（https://www.plamerry.co.jp/company/・1回目）
+  - 「ゼロからの「モノづくり」試作から量産までトータルな製造管理」（https://www.plamerry.co.jp/service/・1回目）
+  - 「プラスチック製品の製作において、種々のニーズに応えてきたプラメリーデザインでは、試作・型設計から量産品の製造までトータルに対応しています」（https://www.plamerry.co.jp/service/・1回目）
+  - 「ユーザーのご要望により、各種樹脂素材を利用した最適な試作方法を選定し、コストパフォーマンスに優れた試作品をお届けしています」（https://www.plamerry.co.jp/service/・1回目）
+- 製品分野：
+  - 「ドイツ SLM solutionsグループ社との技術提携により確立したナイロン注型システムは、金型不要で低コスト・短納期を実現」（https://www.plamerry.co.jp/・1回目）
+  - 「•自動車関連・各車両・農機具関連の試作支援」（https://www.plamerry.co.jp/company/・1回目）
+  - 「•家電機器・通信機器・OA機器・医療機器・介護機器の試作支援」（https://www.plamerry.co.jp/company/・1回目）
+  - 「•人工知能（AI）を活用した介護・医療・産業用ロボット開発支援」（https://www.plamerry.co.jp/company/・1回目）
+  - 「常磐自動車道 柏インターより 約15分」（https://www.plamerry.co.jp/company/・1回目）
+  - 「モノづくり工法提案・企画・3Dモデリング・治具/型設計などを製作工法設計いたします」（https://www.plamerry.co.jp/service/・1回目）
+  - 「最も重要な用途である金型の製造をはじめ、金属部品の加工になくてはならない存在です」（https://www.plamerry.co.jp/mccutting/・1回目）
+  - 「たとえば、自動車産業ではエンジン部品の研削や穴開けをはじめ、ボディ部品の金型製造などで威力を発揮しています」（https://www.plamerry.co.jp/mccutting/・1回目）
+  - 「航空宇宙・エネルギー・医療部品・自動車など様々な分野のワーク加工に対する5軸制御マシニングセンターです」（https://www.plamerry.co.jp/mccutting/・1回目）
+  - 「汎用性が要求されるアプリケーションはもちろん、多様治具製作や金型製作の為の3～5軸加工、5面/5軸同時の全加工など経済的かつ近代的な加工を実現する 基本ソリューションをご提供いたします」（https://www.plamerry.co.jp/mccutting/・1回目）
+  - 「自動車、二輪、船舶、産業機械などに使用されるトランスミッションの可視化を実現します」（https://www.plamerry.co.jp/mccutting/・1回目）
+  - 「検査/精度/試験の為の精度加工と各治具設計製作モデル」（https://www.plamerry.co.jp/mccutting/・1回目）
+- AM関連：
+  - 「Plamerry Design Co;Ltd.」（https://www.plamerry.co.jp/company/・1回目）
+  - 「•精密真空注型、MC切削加工、光造形、粉末造形による工業用モデルの試作製作」（https://www.plamerry.co.jp/company/・1回目）
+  - 「光造形機 3DシステムiPro™8000導入」（https://www.plamerry.co.jp/company/・1回目）
+  - 「光造形機ACCULAS（アキュラス）BA-85S導入」（https://www.plamerry.co.jp/company/・1回目）
+  - 「製作工法は、3Dデータ（CAD/CAM）にて切削加工（M/C）が一般的ですが、今流行りの3Dプリンターや造形システムにより製作されることも多くなりました」（https://www.plamerry.co.jp/service/・1回目）
+  - 「スピードを要するなら3Dプリンター・造形システムによる製作、精度を要するならM/Cによる切削加工（3軸～5軸加工）による製作をご提案いたします」（https://www.plamerry.co.jp/service/・1回目）
+  - 「D-MEC製光造形装置 ACCULAS BA-85S」（https://www.plamerry.co.jp/equipment/・1回目）
+  - 「Mastercam X6（CAM）」（https://www.plamerry.co.jp/equipment/・1回目）
+  - 「AUTON 3D（CAM）」（https://www.plamerry.co.jp/equipment/・1回目）
+  - 「Magic RP (CAD) /AM_meister （光造形装置STL編集ソフト）」（https://www.plamerry.co.jp/equipment/・1回目）
+  - 「VISI5AXIS（5軸加工CAD/CAM）」（https://www.plamerry.co.jp/equipment/・1回目）
+  - 「http://www.plamerry.co.jp」（https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/design.pdf・2回目）
+- 連絡先：
+  - 「時には、速やかに社長に報告し、電子メールで対策を全社員に通知する」（https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf・2回目）
+  - 「⚫ メールソフトを以下のように設定し、宛先のアドレスが間違っていないか確認してから」（https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf・2回目）
+  - 「➢ 送信トレイに保存されたメールをもう一度確認して「送受信タブ」から[すべてのフォ」（https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf・2回目）
+  - 「⚫ 複数の外部の人に同時に同じメールを送る場合には、宛先（TO）に自分自身の」（https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf・2回目）
+  - 「⚫ 標的型攻撃メールによるウイルス感染を防止するため以下の内容に複数合致する」（https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf・2回目）
+  - 「①知らない人からのメールだが、メール本文のURLや添付ファイルを開かざるを得ない内容」（https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf・2回目）
+  - 「②心当たりのないメールだが、興味をそそられる内容」（https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf・2回目）
+  - 「⑥ID やパスワードなどの入力を要求するメール」（https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf・2回目）
+  - 「①yahoo、gmailなどのフリーメールアドレスから送信されている」（https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf・2回目）
+  - 「②差出人のメールアドレスとメール本文の署名に記載されたメールアドレスが異なる」（https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf・2回目）
+  - 「④表示されているURLと実際のリンク先のURL が異なる（HTML メールの場合）」（https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf・2回目）
+  - 「➢ 不審なサイトへのアクセス及び社用メールアドレス登録を禁止する」（https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf・2回目）
+- 検索結果の抜粋：
+  - 「プラメリーデザイン — プラメリーデザイン プラメリーデザイン https://www.plamerry.co.jp」（https://www.plamerry.co.jp/・3回目）
+  - 「株式会社 プラメリーデザイン | 加工会社ナビ - 営業製作所 — 株式会社 プラメリーデザイン | 加工会社ナビ - 営業製作所 営業製作所株式会社 https://eigyo-mfg.com > TOP > 千葉県の加工会社」（https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG・3回目）
+  - 「会社 案内 - プラメリーデザイン — 会社 案内 - プラメリーデザイン プラメリーデザイン https://www.plamerry.co.jp > company」（https://www.plamerry.co.jp/company/・3回目）
+  - 「プラメリーデザイン | 企業 情報 | イプロスものづくり — プラメリーデザイン | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託」（https://mono.ipros.com/company/detail/288127/・3回目）
+  - 「株式 会社プラメリーデザイン | 加工 会社 ナビ - 営業製作所 — 株式 会社プラメリーデザイン | 加工 会社 ナビ - 営業製作所 営業製作所株式会社 https://eigyo-mfg.com > TOP > 千葉県の加工会社」（https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG・3回目）
+  - 「株式 会社プラメリーデザイン の採用・求人 情報 - エンゲージ — 株式 会社プラメリーデザイン の採用・求人 情報 - エンゲージ エンゲージ https://en-gage.net > plamerry_saiyo」（https://en-gage.net/plamerry_saiyo/・3回目）
+  - 「株式 会社 プラメリーデザイン 千葉県 柏市 - NCネットワーク — 株式 会社 プラメリーデザイン 千葉県 柏市 - NCネットワーク エミダス https://ja.nc-net.or.jp > company」（https://ja.nc-net.or.jp/company/83210/・3回目）
+  - 「お問い合わせ - プラメリーデザイン — お問い合わせ - プラメリーデザイン プラメリーデザイン https://www.plamerry.co.jp > contact」（https://www.plamerry.co.jp/contact/・3回目）
+  - 「株式会社 プラメリーデザイン 千葉県 柏市 - NCネットワーク — 株式会社 プラメリーデザイン 千葉県 柏市 - NCネットワーク エミダス https://ja.nc-net.or.jp > company」（https://ja.nc-net.or.jp/company/83210/・3回目）
+  - 「株式会社 プラメリーデザイン - 千葉県・金型製造業界の企業情報 — 株式会社 プラメリーデザイン - 千葉県・金型製造業界の企業情報 Baseconnect https://baseconnect.in > companies」（https://baseconnect.in/companies/50463640-73b3-424f-a308-8aaee079add3・3回目）
+  - 「お知らせ | 精密真空注型・ナイロン真空 ... - プラメリーデザイン — お知らせ | 精密真空注型・ナイロン真空 ... - プラメリーデザイン プラメリーデザイン https://www.plamerry.co.jp > category > news」（https://www.plamerry.co.jp/category/news/・3回目）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像5件／外部6頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式5頁／PDF・画像5件／外部6頁・検索9回）
 
 ## 株式会社ベテル 本社・工場、東京オフィス、ハドソン研究所、ベトナム工場
 - 公式URL：https://www.bethel.co.jp（given）
@@ -9391,6 +12086,39 @@ TEL:04-7182-4490　FAX:04-7182-2382（https://matsumoto-screw.jp/pages/2/・1回
 - 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
 - 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）
 
+## 株式会社ユーカリ光学研究所
+- 公式URL：https://yucaly.com（given）
+- 取扱製品：
+  - 「ユーカリ光学研究所の製品・サービス一覧｜イプロスものづくり」（https://mono.ipros.com/company/detail/311463/category/・3回目）
+  - 「製品・サービス(2)」（https://mono.ipros.com/company/detail/311463/category/・3回目）
+- 一点物・少量多品種：
+  - 「商品開発から設計、試作まで一貫作業にて承ります」（https://yucaly.com/・1回目）
+  - 「多くの経験から迅速な見積もりと試作開発を実現します」（https://yucaly.com/・1回目）
+- 連絡先：
+  - 「*For more details, please refer to the PDF document or feel free to contact us.」（https://mono.ipros.com/en/company/detail/311463/category/・3回目）
+  - 「For specifications and further details, please feel free to contact us.」（https://mono.ipros.com/en/company/detail/311463/category/・3回目）
+- 検索結果の抜粋：
+  - 「試作サービス | 測定サービス | ユーカリ光学研究所 — Copyright © ユーカリ光学研究所 All Rights Reserved. Powered by WordPress & BizVektor Theme by Vektor,Inc. technology.」（https://yucaly.com/?page_id=109・3回目）
+  - 「ユーカリ光学研究所の製品・サービス一覧｜イプロスものづくり — Aug 21, 2023 · ユーカリ光学研究所 の製品・サービス一覧です。 皆様の立場に立ってソリューションを提供いたします。 多くの経験から迅速な見積もりと試作開発を実現します。 当社は光学機器システム開発を受託する会社です。」（https://mono.ipros.com/company/detail/311463/category/・3回目）
+  - 「ユーカリ光学研究所｜List of Products and Services｜IPROS GMS — ユーカリ光学研究所 Product/Service List. We provide solutions from your perspective. With extensive experience, we ensure quick estimates and prototype development. Our company is a contractor for the development of optical equipment systems.」（https://mono.ipros.com/en/company/detail/311463/category/・3回目）
+  - 「ユーカリ光学研究所 — 皆様の立場に立ってソリューションを提供いたします。 多くの経験から迅速な見積もりと試作開発を実現します。 小さな企業の強みを活かし、自社の設計・開発・製造部門のように、使い勝手のよいパートナーであり続けます。」（https://yucaly.com/・3回目）
+  - 「概要 | 会社概要 | ユーカリ光学研究所ユーカリ光学研究所ユーカリ光学研究所 | 企業情報 | イプロスものづくり株式会社ユーカリ光学研究所会社概要 - Eukarya株式会社ユーカリ光学研究所（東京都板橋区） 概要 - 企業情報株式会社ユーカリ光学研究所 (東京都板橋区)の企業情報|カイシャリサ... — 光学設計・開発は株式会社ユーカリ光学研究所へぜひおまかせください。 OPIE2026に出展いたします 2026年4月21日 お知らせ 気が付けば、いつの間にか初夏の陽気になっていました。 光学展示会「OPIE2026 レンズ製造設計展」に出展いたします。 横浜の潮風を楽しんだ後に、ぜひお立ち寄りいただければ幸いです。 Aug 21, 2023 · 当社は光学機器システム開発を受託する会社です。 特注光学系の設計、試作をメインに長い経験と最新の技術で 皆様の光学製品開発のお手伝いをいた」（https://yucaly.com/?page_id=32・3回目）
+  - 「株式会社ユーカリ光学研究所（東京都板橋区） 概要 - 企業情報 — Oct 5, 2015 · 株式会社ユーカリ光学研究所 is a joint-stock company (kabushiki gaisha) with its head office in Itabashi-Ku, Tokyo, Japan. The Invoice Registration Number (インボイス登録番号) can be verified on the Qualified Invoice Issuer Public Database (www.invoice-kohyo.nta.go.jp).」（https://data-link-plus.com/jp/corporation/2011401006582・3回目）
+  - 「株式会社ユーカリ光学研究所 (東京都板橋区)の企業情報|カイシャリサ... — 株式会社ユーカリ光学研究所の本店所在地、業種、社員数、連絡先などに関する情報です。 登記上の本店住所 〒173-0004 東京都板橋区板橋2丁目64番10号 本店所在地の地図 企業名フリガナ ユーカリコウガクケンキュウジョ 上場区分 非上場 法人区分 株式会社」（https://kaisharesearch.com/company/detail/2011401006582/・3回目）
+  - 「ユーカリ光学研究所 — OPIE2026に出展いたします 2026年4月21日 お知らせ 気が付けば、いつの間にか初夏の陽気になっていました。 光学展示会「OPIE2026 レンズ製造設計展」に出展いたします。 横浜の潮風を楽しんだ後に、ぜひお立ち寄りいただければ幸いです。」（https://yucaly.com/・3回目）
+  - 「ユーカリ光学研究所 | 企業情報 | イプロスものづくり — Aug 21, 2023 · 当社は光学機器システム開発を受託する会社です。 特注光学系の設計、試作をメインに長い経験と最新の技術で 皆様の光学製品開発のお手伝いをいたします。 光と名が付けば何でも可能ですが、 特に赤外線光学系には自信を持っております。」（https://mono.ipros.com/company/detail/311463/・3回目）
+  - 「お問合せ | ユーカリ光学研究所 — お問合せ 会社名 (必須) 部署名 お名前 (必須) 電話番号 (必須) メールアドレス (必須) お問い合わせ内容 ご予算 メッセージ 内容をご確認の上チェックをお願いいたします」（https://yucaly.com/?page_id=17・3回目）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索9回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索9回）
+- 取扱材料：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索9回）
+- 製品分野：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索9回）
+- AM関連：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索9回）
+
 ## 株式会社ラルテフィッチェ
 - 公式URL：http://www.larte38.co.jp（given）
 - 所在地：〒321-0911　栃木県宇都宮市問屋町3413-59 TEL 028-657-7440 FAX 028-656-0444（http://www.larte38.co.jp/company/・1回目）
@@ -9578,6 +12306,93 @@ TEL:04-7182-4490　FAX:04-7182-2382（https://matsumoto-screw.jp/pages/2/・1回
 - 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部10頁・検索9回）
 - 取引先：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部10頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部10頁・検索9回）
+
+## 株式会社中越製作所
+- 公式URL：https://special-blow-mold.com（given）
+- 所在地：〒132-0023 東京都江戸川区西一之江4丁目10番2号（https://special-blow-mold.com/news/3310/・1回目）
+- 所在地：〒132-0023 東京都江戸川区西一之江4丁目10番2号（https://special-blow-mold.com/news/3089/・1回目）
+- 所在地：〒132-0023 東京都江戸川区西一之江4丁目10番2号（https://special-blow-mold.com/news/3088/・1回目）
+- 代表者：北井　希昌子（https://chuuetsu.co.jp/・3回目）
+- 代表者：北井 久雄（https://www.atengineer.com/pr/chuuetsu/company・3回目）
+- 従業員数：12名（https://mono.ipros.com/company/detail/2080107/・3回目）
+- 取引先：(株)エクセル製作所、日本ビニロン(株)、(株)アイテック、大丸工業(株)、
+(有)エフエーモールディング、(株)YOSHIMI、(株)マルチュウ、双伸工業(株)、(株)リョウケ (順不同・敬称略)（https://mono.ipros.com/company/detail/2080107/・3回目）
+- 取扱製品：
+  - 「製品の種類も多岐にわたり、3次元ブロー金型や特殊なブロー金型、3次元加工品にも対応しております」（https://special-blow-mold.com/・1回目）
+  - 「製品の詳細は載せることができませんが、実際の製品の形状を見ていただいて、「こういったものはブローで作れる？」といったご相談を承ります」（https://special-blow-mold.com/・1回目）
+  - 「既存製品・金型を基にした新規金型製作 -リバースエンジニアリング-」（https://special-blow-mold.com/・1回目）
+  - 「ブロー成形の製品開発において、「試作型」をどのように位置づけるかは、開発コストや手戻りリスク、そして最終的な量産品質を大きく左右します」（https://special-blow-mold.com/・1回目）
+  - 「既存製品・金型を基にした新規金型製作 -リバースエンジニアリング-」（https://special-blow-mold.com/service/・1回目）
+  - 「vol.18 タンク製品といえばブロー成形！当社の大型タンク製品をご紹介します！」（https://special-blow-mold.com/service/・1回目）
+  - 「vol.6 ブロー成形で作られる製品」（https://special-blow-mold.com/service/・1回目）
+  - 「プラスチック製品をお取り扱いの企業様、必見！」（https://special-blow-mold.com/service/2350/・1回目）
+  - 「「ブロー成形ってどんなもの？」「自社製品に適用できるの？」「コストはどれくらい？」そんな疑問をお持ちの企業様に向けて、ブロー成形金型の製作を行う当社では、ブロー成形可否判断サービスを提供しています」（https://special-blow-mold.com/service/2350/・1回目）
+  - 「また「射出成形からブローに置き換えることは可能か？」「製品の一部だけブロー成形に置き換えできるのか？」といったご相談にも回答させていただきます」（https://special-blow-mold.com/service/2350/・1回目）
+  - 「長年のブロー金型製作で培ってきた経験と実績を持つ当社だからこそ、 金型製作の視点 から、お客様の製品のブロー成形への適性を見極めることができます」（https://special-blow-mold.com/service/2350/・1回目）
+  - 「製品図面やサンプルを元にして、ブロー金型構造から考え、より確実にブロー成形で製作可能か判断いたします」（https://special-blow-mold.com/service/2350/・1回目）
+- 取扱材料：
+  - 「金型材質の選定、樹脂の収縮率など特性を加味して、詳細な図面データを作成し、金型設計をします」（https://special-blow-mold.com/service/1790/・1回目）
+  - 「例えば、形状的に樹脂が膨らみづらい部分には適切なパーティングの分割面を設定したり、溶着リブと呼ばれる構造で割れや剥がれが起きない仕様にする、といったご提案を行っております」（https://special-blow-mold.com/service/575/・1回目）
+  - 「射出成形は、重ねた金型の隙間（成形品となる部分またはキャビティ内）に溶かして液化した樹脂を高い圧力で注射のように注入し、冷却固化させる成形方法です」（https://special-blow-mold.com/service/575/・1回目）
+  - 「凸凹の隙間に樹脂を圧入するので、その隙間が製品の肉厚になります」（https://special-blow-mold.com/service/575/・1回目）
+  - 「異なる樹脂材料を積層させて多層化したパリソンを生成します」（https://special-blow-mold.com/service/575/・1回目）
+  - 「各種樹脂の特性を利用して、光沢性・耐薬品性・ガスバリア性（酸素）など多層構造の製品を可能にします」（https://special-blow-mold.com/service/575/・1回目）
+  - 「パイプ状に落ちてくるパリソン（溶融樹脂）を金型の２面（製品形状面）で挟み込み、パリソンの内部から膨らますと、パリソンの外面は金型に密着し、冷却固化をしはじめ製品の外観面を成形します」（https://special-blow-mold.com/service/575/・1回目）
+  - 「加えて、パリソンは溶融樹脂なので、上方から下方に自重で垂れていく”ドローダウン”を生じて”偏肉”になりやすいです」（https://special-blow-mold.com/service/575/・1回目）
+  - 「しかし、偏肉の防止や肉厚をコントロールをするために、成形機の樹脂吐出口（ヘッド）の調整や樹脂の粘度、空気圧の調整など成形条件の最適化と、吹き込みや型締めのタイミングを計る成形技術により対策されています」（https://special-blow-mold.com/service/575/・1回目）
+  - 「冷却固化の影響も合わさり、樹脂のまわりが悪くなることで薄肉やパンクなどのリスクがあります」（https://special-blow-mold.com/service/575/・1回目）
+  - 「ブロー成形は溶融樹脂を垂らして成形するため、製品デザインや金型の設計が要因して様々な事象がありえます」（https://special-blow-mold.com/service/575/・1回目）
+  - 「ダイレクトブロー成形は、溶融樹脂（パリソン）が自重で重力方向に垂れ下がる”ドローダウン”により上方と下方で偏肉（下方が厚い）が生じます」（https://special-blow-mold.com/service/575/・1回目）
+- 一点物・少量多品種：
+  - 「試作型は使い倒す！1ヶ月で挑むブロー成形1stトライ」（https://special-blow-mold.com/・1回目）
+  - 「ブロー成形の製品開発において、「試作型」をどのように位置づけるかは、開発コストや手戻りリスク、そして最終的な量産品質を大きく左右します」（https://special-blow-mold.com/・1回目）
+  - 「技術コラムに「試作型は使い倒す！1ヶ月で挑むブロー成形1stトライ」を追加しました」（https://special-blow-mold.com/・1回目）
+  - 「vol.23 【試作金型】のブロー成形の適正について」（https://special-blow-mold.com/service/・1回目）
+  - 「vol.23 【試作金型】のブロー成形の適正について」（https://special-blow-mold.com/case/・1回目）
+  - 「よってコスト面から、一般的に小ロット生産には向いておりません」（https://special-blow-mold.com/service/575/・1回目）
+  - 「ブロー成形で試作用の金型を作りたいのですが可能ですか？」（https://special-blow-mold.com/service/575/・1回目）
+  - 「もちろん試作型から量産化への転用を前提とした金型製作も可能です」（https://special-blow-mold.com/service/575/・1回目）
+  - 「金型製作においては製品開発における試作型や、小ロット生産にコスト面で適しています」（https://special-blow-mold.com/service/575/・1回目）
+  - 「ブロー成形で試作用の金型を作りたいのですが可能ですか？」（https://special-blow-mold.com/service/579/・1回目）
+  - 「もちろん試作型から量産化への転用を前提とした金型製作も可能です」（https://special-blow-mold.com/service/579/・1回目）
+  - 「vol.23 【試作金型】のブロー成形の適正について」（https://special-blow-mold.com/vave/・1回目）
+- 製品分野：
+  - 「特殊ブロー金型 設計・製作.com｜特殊・3次元ブロー金型の設計・製作」（https://special-blow-mold.com/・1回目）
+  - 「国内有数の「３次元ブロー金型」設計・製作メーカーによる」（https://special-blow-mold.com/・1回目）
+  - 「部品一体化を実現する特殊ブロー金型の設計ノウハウ」（https://special-blow-mold.com/・1回目）
+  - 「秘密義務があるため、詳細をお話することはできませんが、自動車や建機・農機メーカーなど、幅広い業種のお客様のご要望に対応しております」（https://special-blow-mold.com/・1回目）
+  - 「製品の種類も多岐にわたり、3次元ブロー金型や特殊なブロー金型、3次元加工品にも対応しております」（https://special-blow-mold.com/・1回目）
+  - 「薬剤散布用背負いタンク（プレス形状・タンク形状を一体成形）金型【ブロー金型参考価格記載】」（https://special-blow-mold.com/・1回目）
+  - 「ウォッシャータンク（自動車向け） 金型【ブロー金型参考価格記載】」（https://special-blow-mold.com/・1回目）
+  - 「尿素タンク 金型 【ブロー金型参考価格記載】」（https://special-blow-mold.com/・1回目）
+  - 「多層ブロー成形品のタンク 金型【ブロー金型参考価格記載】」（https://special-blow-mold.com/・1回目）
+  - 「ボトル ( １ℓ 容器 ) 金型【ブロー金型参考価格記載】」（https://special-blow-mold.com/・1回目）
+  - 「Ф28小径ホースの３次元ブロー成形用金型【ブロー金型参考価格記載】」（https://special-blow-mold.com/・1回目）
+  - 「プレス部品も全てブロー成形品のウォッシャータンク 金型」（https://special-blow-mold.com/・1回目）
+- AM関連：
+  - 「大型マシニングセンタ導入、またCAD/CAMによる自動加工も開始」（https://chuuetsu.co.jp/・3回目）
+- 連絡先：
+  - 「※配信停止をご希望の方は末尾の配信停止用メールアドレスよりご連絡ください」（https://special-blow-mold.com/news/3310/・1回目）
+  - 「◆◇お問い合わせ先 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━」（https://special-blow-mold.com/news/3310/・1回目）
+  - 「Email：info@chuuetsu.co.jp」（https://special-blow-mold.com/news/3310/・1回目）
+  - 「本メールマガジンの配信停止をご希望される方は下記よりご対応ください」（https://special-blow-mold.com/news/3310/・1回目）
+  - 「※配信停止をご希望の方は末尾の配信停止用メールアドレスよりご連絡ください」（https://special-blow-mold.com/news/3089/・1回目）
+  - 「◆◇お問い合わせ先 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━」（https://special-blow-mold.com/news/3089/・1回目）
+  - 「Email：info@chuuetsu.co.jp」（https://special-blow-mold.com/news/3089/・1回目）
+  - 「本メールマガジンの配信停止をご希望される方は下記よりご対応ください」（https://special-blow-mold.com/news/3089/・1回目）
+  - 「※配信停止をご希望の方は末尾の配信停止用メールアドレスよりご連絡ください」（https://special-blow-mold.com/news/3088/・1回目）
+  - 「◆◇お問い合わせ先 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━」（https://special-blow-mold.com/news/3088/・1回目）
+  - 「Email：info@chuuetsu.co.jp」（https://special-blow-mold.com/news/3088/・1回目）
+  - 「本メールマガジンの配信停止をご希望される方は下記よりご対応ください」（https://special-blow-mold.com/news/3088/・1回目）
+- 検索結果の抜粋：
+  - 「株式 会社中越製作所 — 株式 会社中越製作所 株式会社中越製作所 https://chuuetsu.co.jp」（https://chuuetsu.co.jp/・3回目）
+  - 「中越製作所 | 企業 情報 | イプロスものづくり — 中越製作所 | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託」（https://mono.ipros.com/company/detail/2080107/・3回目）
+  - 「株式会社 中越製作所 - 会社概要 - engineer — 株式会社 中越製作所 - 会社概要 - engineer atengineer.com https://www.atengineer.com > chuuetsu > company」（https://www.atengineer.com/pr/chuuetsu/company・3回目）
+  - 「株式会社 中越製作所 （東京都）の 会社概要 ・役員 | Compalyze — 株式会社 中越製作所 （東京都）の 会社概要 ・役員 | Compalyze Compalyze https://compalyze.co.jp > 企業検索 > 機械・設備」（https://compalyze.co.jp/company/7011701005858・3回目）
+  - 「お問合せ | 株式会社 中越製作所 — お問合せ | 株式会社 中越製作所 株式会社中越製作所 https://chuuetsu.co.jp > contact」（https://chuuetsu.co.jp/contact/・3回目）
+- 事業内容：記載なし（3回確認済み：公式23頁／PDF・画像12件／外部12頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式23頁／PDF・画像12件／外部12頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式23頁／PDF・画像12件／外部12頁・検索9回）
 
 ## 株式会社中農製作所
 - 公式URL：https://www.senjoh-komachi.jp（given）
@@ -9915,6 +12730,88 @@ FAX.0256-57-3581（https://www.mrkt.co.jp/companyinfo/・1回目）
 - 売上高：記載なし（3回確認済み：公式30頁／PDF・画像1件／外部21頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式30頁／PDF・画像1件／外部21頁・検索9回）
 
+## 株式会社伊東NC工業
+- 公式URL：http://www.ito-nc.com（given）
+- 所在地：〒208-0023　東京都武蔵村山市伊奈平2-70-1 Tel.042-560-8415 Fax.042-560-9675 アクセス（https://www.ito-nc.com/company/・1回目）
+- 所在地：〒208-0023　東京都武蔵村山市伊奈平2-70-1 Tel.042-560-8415 Fax.042-560-9675 アクセス（http://www.ito-nc.com/company/・1回目）
+- 所在地：〒208-0023　東京都武蔵村山市伊奈平2-70-1 Tel.042-560-8415 Fax.042-560-9675 アクセス（http://ito-nc.com/company/・3回目）
+- 事業内容：立型・横型・マシニングセンター加工 ／ 	三次元製作・同時5軸加工 NCL加工・ワイヤーカット加工 ／ その他各種精密機械部品製作 各種治具工具製作、金型製品及び組立 ／ 	ネジピンゲージ開発・販売 マイクロガイド開発・販売（https://www.ito-nc.com/company/・1回目）
+- 事業内容：立型・横型・マシニングセンター加工 ／ 	三次元製作・同時5軸加工 NCL加工・ワイヤーカット加工 ／ その他各種精密機械部品製作 各種治具工具製作、金型製品及び組立 ／ 	ネジピンゲージ開発・販売 マイクロガイド開発・販売（http://www.ito-nc.com/company/・1回目）
+- 事業内容：立型・横型・マシニングセンター加工 ／ 	三次元製作・同時5軸加工 NCL加工・ワイヤーカット加工 ／ その他各種精密機械部品製作 各種治具工具製作、金型製品及び組立 ／ 	ネジピンゲージ開発・販売 マイクロガイド開発・販売（http://ito-nc.com/company/・3回目）
+- 従業員数：25人（https://www.ito-nc.com/company/・1回目）
+- 従業員数：25人（http://www.ito-nc.com/company/・1回目）
+- 従業員数：25人（http://ito-nc.com/company/・3回目）
+- 取引先：日野自動車株式会社　日野トレーディング株式会社 日立プロキュアメントサービス株式会社　株式会社ソーシン 株式会社富士機工　株式会社山口木型製作所 理研鍛造株式会社　明友機工株式会社　永和株式会社 カスヤ精工株式会社　株式会社コイワイ 日鍛バルブ株式会社　千代田鋳造株式会社 株式会社木村鋳造所　光和商事株式会社（https://www.ito-nc.com/company/・1回目）
+- 取引先：日野自動車株式会社　日野トレーディング株式会社 日立プロキュアメントサービス株式会社　株式会社ソーシン 株式会社富士機工　株式会社山口木型製作所 理研鍛造株式会社　明友機工株式会社　永和株式会社 カスヤ精工株式会社　株式会社コイワイ 日鍛バルブ株式会社　千代田鋳造株式会社 株式会社木村鋳造所　光和商事株式会社（http://www.ito-nc.com/company/・1回目）
+- 取引先：日野自動車株式会社　日野トレーディング株式会社 日立プロキュアメントサービス株式会社　株式会社ソーシン 株式会社富士機工　株式会社山口木型製作所 理研鍛造株式会社　明友機工株式会社　永和株式会社 カスヤ精工株式会社　株式会社コイワイ 日鍛バルブ株式会社　千代田鋳造株式会社 株式会社木村鋳造所　光和商事株式会社（http://ito-nc.com/company/・3回目）
+- 取扱製品：
+  - 「それを扱う人が成長してこそ、機械の特性を有効且つ最大限に生かし、より良い製品を作り出すことができるのだと考えております」（https://www.ito-nc.com/company/・1回目）
+  - 「各種治具工具製作、金型製品及び組立 ／ ネジピンゲージ開発・販売」（https://www.ito-nc.com/company/・1回目）
+  - 「それを扱う人が成長してこそ、機械の特性を有効且つ最大限に生かし、より良い製品を作り出すことができるのだと考えております」（http://www.ito-nc.com/company/・1回目）
+  - 「各種治具工具製作、金型製品及び組立 ／ ネジピンゲージ開発・販売」（http://www.ito-nc.com/company/・1回目）
+  - 「製品紹介 Product introduction」（http://www.ito-nc.com/catalog/catalog03.pdf・2回目）
+  - 「それを扱う人が成長してこそ、機械の特性を有効且つ最大限に生かし、より良い製品を作り出すことができるのだと考えております」（http://ito-nc.com/company/・3回目）
+  - 「各種治具工具製作、金型製品及び組立 ／ ネジピンゲージ開発・販売」（http://ito-nc.com/company/・3回目）
+  - 「伊東NC工業の製品・サービス一覧｜イプロスものづくり」（https://mono.ipros.com/company/detail/2049899/category/・3回目）
+  - 「製品・サービス(4)」（https://mono.ipros.com/company/detail/2049899/category/・3回目）
+  - 「■各種治具工具製作、金型製品及び組立」（https://mono.ipros.com/company/detail/2049899/category/・3回目）
+  - 「製品・サービス(4)」（https://mono.ipros.com/company/detail/2049899/catalog/・3回目）
+- 取扱材料：
+  - 「鉄・非鉄材、鋳造、鍛造、樹脂など」（http://www.ito-nc.com/business/・1回目）
+  - 「鉄・非鉄材、鋳造、鍛造、樹脂など」（https://www.ito-nc.com/business/・1回目）
+  - 「田 材質はステンレス(SUS303)を使用し、 錆を寄せ付けません」（http://www.ito-nc.com/catalog/catalog03.pdf・2回目）
+  - 「材質はステンレ ス(SUS303)を使用し、 錆を寄せ付けません」（http://www.ito-nc.com/catalog/catalog02.pdf・2回目）
+  - 「材質はステンレ ス(SUS303)を使用し、 錆を寄せ付けません」（https://www.ito-nc.com/catalog/catalog02.pdf・2回目）
+  - 「削り出し、異形物(鋳物)加工を得意とし、加工径最小1ｍｍ～最大1,200ｍｍまで対応可能！鋳物や難削材など材質もこだわりません」（https://mono.ipros.com/company/detail/2049899/category/・3回目）
+  - 「■材質にこだわりません(鋳物、アルミ、難削材、樹脂など)」（https://mono.ipros.com/company/detail/2049899/category/・3回目）
+- 一点物・少量多品種：
+  - 「弊社は昭和４８年の創業以来、精密金属加工を生業としており、現在は主に自動車のエンジン部品の試作・開発、半導体製造装置の部品加工に携わらせていただいております」（https://www.ito-nc.com/company/・1回目）
+  - 「試作から少量部品、生産部品まで」（http://www.ito-nc.com/business/・1回目）
+  - 「弊社は昭和４８年の創業以来、精密金属加工を生業としており、現在は主に自動車のエンジン部品の試作・開発、半導体製造装置の部品加工に携わらせていただいております」（http://www.ito-nc.com/company/・1回目）
+  - 「試作から少量部品、生産部品まで」（https://www.ito-nc.com/business/・1回目）
+  - 「M21以上は特注製作対応となります」（http://www.ito-nc.com/catalog/catalog03.pdf・2回目）
+  - 「M2 1以上は特注製作対応となります」（http://www.ito-nc.com/catalog/catalog03.pdf・2回目）
+  - 「M21以上は特注製作対応となります」（http://www.ito-nc.com/catalog/catalog02.pdf・2回目）
+  - 「ネジ部 ： JIS2級相当 精度 同軸度0.01㎜ 〇 ・ ・ ・ 規格品 ● ・ ・ ・ 特注品」（http://www.ito-nc.com/catalog/catalog02.pdf・2回目）
+  - 「精度 同軸度0.0 1㎜ 〇 ・ ・ ・ 規格品 ● ・ ・ ・ 特注品」（http://www.ito-nc.com/catalog/catalog02.pdf・2回目）
+  - 「〇 ・ ・ ・ 規格品 ● ・ ・ ・ 特注品」（http://www.ito-nc.com/catalog/catalog02.pdf・2回目）
+  - 「※RAタイプは全サイズ特注品とな り ます」（http://www.ito-nc.com/catalog/catalog02.pdf・2回目）
+  - 「G ・ PF1/2-14以上は特注製作対応となります」（http://www.ito-nc.com/catalog/catalog02.pdf・2回目）
+- 製品分野：
+  - 「弊社は昭和４８年の創業以来、精密金属加工を生業としており、現在は主に自動車のエンジン部品の試作・開発、半導体製造装置の部品加工に携わらせていただいております」（https://www.ito-nc.com/company/・1回目）
+  - 「各種治具工具製作、金型製品及び組立 ／ ネジピンゲージ開発・販売」（https://www.ito-nc.com/company/・1回目）
+  - 「日野自動車株式会社 日野トレーディング株式会社」（https://www.ito-nc.com/company/・1回目）
+  - 「汎用施盤、フライス等でプレス金型の加工を行う」（https://www.ito-nc.com/company/・1回目）
+  - 「社内設計による加工治具にて、工程を集約」（http://www.ito-nc.com/business/・1回目）
+  - 「弊社は昭和４８年の創業以来、精密金属加工を生業としており、現在は主に自動車のエンジン部品の試作・開発、半導体製造装置の部品加工に携わらせていただいております」（http://www.ito-nc.com/company/・1回目）
+  - 「各種治具工具製作、金型製品及び組立 ／ ネジピンゲージ開発・販売」（http://www.ito-nc.com/company/・1回目）
+  - 「日野自動車株式会社 日野トレーディング株式会社」（http://www.ito-nc.com/company/・1回目）
+  - 「汎用施盤、フライス等でプレス金型の加工を行う」（http://www.ito-nc.com/company/・1回目）
+  - 「社内設計による加工治具にて、工程を集約」（https://www.ito-nc.com/business/・1回目）
+  - 「弊社は昭和４８年の創業以来、精密金属加工を生業としており、現在は主に自動車のエンジン部品の試作・開発、半導体製造装置の部品加工に携わらせていただいております」（http://ito-nc.com/company/・3回目）
+  - 「各種治具工具製作、金型製品及び組立 ／ ネジピンゲージ開発・販売」（http://ito-nc.com/company/・3回目）
+- AM関連：
+  - 「MO /¥RRBE.OOERLTUBTOT 36- PEP )=24になります. (MORVEY DY AMBAEEMOOBE)」（http://www.ito-nc.com/catalog/catalog03.pdf・2回目）
+  - 「PaMe) RA12175-1 13.0 es| 230 | a5 | 65 | 70 | 10 21 OfDRIPEE 11.0 #0005] 210] 85 | 55 | so | 10」（http://www.ito-nc.com/catalog/catalog03.pdf・2回目）
+- 連絡先：
+  - 「問い合わせフォーム | 株式会社 伊東NC工業」（https://www.ito-nc.com/index.php/inquire・1回目）
+  - 「お問い合わせは以下のお問い合わせフォームまたは電話・Faxにてお願いいたします」（https://www.ito-nc.com/index.php/inquire・1回目）
+  - 「詳しくはお問い合わせ、またはカタログをダウンロードしてください」（https://mono.ipros.com/company/detail/2049899/category/・3回目）
+  - 「インターネットを通じて当ウェブサイトの「お問い合わせ」をご利用いただいた際に、必要な情報の元となるお客様の個人情報の取扱いを行いますが、お客様の個人情報を、お客様の同意なしに第三者に開示することはありません」（https://r.goope.jp/itonc/contact・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 | 株式会社 伊東NC工業 — 会社概要 商号 株式会社伊東NC工業 役員 代表取締役 伊東大輔 創業 昭和48年1月 創立 昭和55年10月 資本金 1,000万円 住所 〒208-0023 東京都武蔵村山市伊奈平2-70-1 Tel.042-560-8415 Fax.042-560-9675 アクセス 取引銀行 多摩信用金庫 残堀支店 日本政策金融公庫 立川支店 従業員 25人 技能検定取得数 21 業務内容 ...」（http://ito-nc.com/company/・3回目）
+  - 「伊東NC工業の製品・サービス一覧｜イプロスものづくり — Nov 19, 2018 · 伊東NC工業 の製品・サービス一覧です。 改革と挑戦が生み出す高次元な精度、経験が生み出す品質への自信。確かな技術でお応えします。 株式会社伊東NC工業は、精密金属加工を生業としており、現在は主に自動車のエンジン部品の試作・開発、半導体製造装置の部品加工に携わらせて ...」（https://mono.ipros.com/company/detail/2049899/category/・3回目）
+  - 「伊東NC工業のカタログ一覧 | イプロスものづくり — Nov 19, 2018 · 伊東NC工業のカタログ一覧です。無料でダウンロードできます。伊東NC工業は、改革と挑戦が生み出す高次元な精度、経験が生み出す品質への自信。確かな技術でお応えします。株式会社伊東NC工業は、精密金属加工を生業としており、現在は主に自動車のエンジン部品の試作・開発、半導体製造 ...」（https://mono.ipros.com/company/detail/2049899/catalog/・3回目）
+  - 「株式会社 伊東NC工業 | 東京都武蔵村山市の精密機械加工 マイクロガイ... — Dec 16, 2025 · マシニングセンター等による精密機械加工とNCL加工・ ワイヤーカット及びマイクロガイド・ネジピンゲージの開発販売」（http://ito-nc.com/・3回目）
+  - 「会社概要｜株式会社伊東工業 - ito-k-g.com株式会社伊東NC工業 | 加工会社ナビ事業内容 - 株式会社伊東工業 | 株式会社伊東工業会社案内 | NC工業株式会社会社概要 – 伊東工業株式会社 — 会社概要 Greeting ご挨拶 弊社は平成2年3月に設立し、創業以来製缶加工及び搬送機器製造に力を入れ、各プラント工事を行ってきました。 受注から設計（開発を含む）・製造・据付までを一貫して行うことが、我が社の強みです。 株式会社伊東NC工業の 事業内容 マシニングセンター加工、三次元・同時5軸加工、NCL加工、ワイヤーカット加工、ネジピンゲージ開発販売、マイクロガイド開発販売 可能にする自動旋盤。 NC旋盤は、プログラムによって刃物の動きを精密に制御することで、高精度かつ連続的な加工を実現します。 寸法のバラつきが非常に少なく、複雑な形状の製品や高い繰り返し精度が求められる製品」（https://www.ito-k-g.com/company・3回目）
+  - 「株式会社伊東NC工業 | 加工会社ナビ — 株式会社伊東NC工業の 事業内容 マシニングセンター加工、三次元・同時5軸加工、NCL加工、ワイヤーカット加工、ネジピンゲージ開発販売、マイクロガイド開発販売」（https://eigyo-mfg.com/service/navi/company/81QnOhYaPsVL・3回目）
+  - 「事業内容 | 株式会社 伊東NC工業 — マシニングセンター等による精密機械加工とNCL加工・ワイヤーカット及びマイクロガイド・ネジピンゲージの開発販売」（https://www.ito-nc.com/business/・3回目）
+  - 「問い合わせフォーム | 株式会社 伊東NC工業 — お問い合わせフォーム お問い合わせは以下のお問い合わせフォームまたは電話・Faxにてお願いいたします。 株式会社伊東NC工業 〒208-0023 東京都武蔵村山市伊奈平2-70-1 Tel : 042-560-8415 Fax : 042-560-9675 個人情報保護方針 にご同意いただい上で以下のフォームご記入、送信ください。 ＊ マークは入力 ...」（https://www.ito-nc.com/index.php/inquire・3回目）
+  - 「お問い合わせ - （株）伊東NC工業 - グーペ — お問い合わせ | Welcome to our homepage 個人情報の保護について インターネットを通じて当ウェブサイトの「お問い合わせ」をご利用いただいた際に、必要な情報の元となるお客様の個人情報の取扱いを行いますが、お客様の個人情報を、お客様の同意なしに第三者に開示することはありません。」（https://r.goope.jp/itonc/contact・3回目）
+- 代表者：記載なし（3回確認済み：公式14頁／PDF・画像17件／外部13頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像17件／外部13頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式14頁／PDF・画像17件／外部13頁・検索9回）
+
 ## 株式会社信貴精器
 - 公式URL：http://sigiseiki.jp（given）
 - 所在地：本社、本社工場：大阪府八尾市上尾町4-1-3 本社第二工場：大阪府八尾市上尾町5-1-33 テクノセンター：大阪府八尾市上尾町4-1-6 高知工場：高知県宿毛市平田町戸内字扇3433-1 高知営業所 佐賀営業所（https://sigiseiki.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81%E3%83%BB%E6%B2%BF%E9%9D%A9/・1回目）
@@ -10062,6 +12959,95 @@ FAX.0256-57-3581（https://www.mrkt.co.jp/companyinfo/・1回目）
 - 取引先：記載なし（3回確認済み：公式15頁／PDF・画像4件／外部6頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式15頁／PDF・画像4件／外部6頁・検索9回）
 
+## 株式会社八木製作所
+- 公式URL：https://www.yagiseisakujo.co.jp（given）
+- 所在地：東京都日野市 工場：東京都八王子市）は 創業(昭和３８年)から今日まで多品種少量(試作)から、量産までの精密機械加工及び治具製作を一筋で行っています（https://www.yagiseisakujo.co.jp/・1回目）
+- 所在地：本社工場 〒191-0053 東京都日野市豊田4-36-16 TEL：042-583-3682 FAX：042-583-3664 八王子工場 〒192-0045 東京都八王子市大和田町3-4-17 TEL：042-644-1755 FAX：042-644-1756 八王子第二工場 〒192-0045 東京都八王子市大和田町1-21-12 八王子第三工場 〒193-0821 東京都八王子市川町35-1 TEL：042-659-2392 FAX：042-659-2393（https://www.yagiseisakujo.co.jp/company.html・1回目）
+- 事業内容：複写機、光学機器、医療機器等の部品の精密加工
+          及び治具の設計製作及び組立（https://www.yagiseisakujo.co.jp/company.html・1回目）
+- 代表者：八木　博之（https://www.yagiseisakujo.co.jp/company.html・1回目）
+- 従業員数：43名（https://www.yagiseisakujo.co.jp/company.html・1回目）
+- 取扱製品：
+  - 「切削加工(フライス、旋盤、ＭＣ、ＮＣ旋盤、ワイヤーカット、放電、研削等)を主とし、表面処理、熱処理までの製品を短納期で御提供」（https://www.yagiseisakujo.co.jp/・1回目）
+  - 「本冊子は、不断の努力により、キラリと光る確かな製品や技術を育んできた都内中小企業200社が掲載されております」（https://www.yagiseisakujo.co.jp/company.html・1回目）
+  - 「切削加工(フライス、旋盤、ＭＣ、ＮＣ旋盤、ワイヤーカット、放電、研削等)を主とし、表面処理、熱処理までの製品を短納期で御提供」（https://www.yagiseisakujo.co.jp/setsubi.html・1回目）
+  - 「八木製作所の製品・サービス一覧｜イプロスものづくり」（https://mono.ipros.com/company/detail/2075874/category/・3回目）
+  - 「製品・サービス(3)」（https://mono.ipros.com/company/detail/2075874/category/・3回目）
+  - 「当製品は、設置が簡単な自動除菌・消毒ディスペンサー付き除菌スタンドです」（https://mono.ipros.com/company/detail/2075874/category/・3回目）
+  - 「切削加工を主とし、表面処理、熱処理までの製品を短納期で御提供しております」（https://mono.ipros.com/company/detail/2075874/category/・3回目）
+  - 「一つの試作品から、量産製品まで！小さな部品、大きな筐体、お急ぎの試作品まで、お気軽にご相談いただける体制を心掛けております」（https://www.yagi-ss.co.jp/outline/・3回目）
+  - 「車からボールペン、工業製品を製造する機械を構成するパーツには」（https://www.yagi-ss.co.jp/・3回目）
+  - 「わたしたちの製品が使用されているものが多くあります」（https://www.yagi-ss.co.jp/・3回目）
+  - 「YAGIの製品が関わっているかもしれません」（https://www.yagi-ss.co.jp/・3回目）
+- 取扱材料：
+  - 「金属（ＳＵＳ、ＡＬ、真鍮、チタン・タングステン等）の難削材、樹脂(ＰＯＭ、アクリル、ＰＢＴ、ＮＷ-02、ＡＢＳ、ＭＣナイロン等) 、焼結材(ＳＢＦ、ＳＭＦ等)の材料全般に対応」（https://www.yagiseisakujo.co.jp/・1回目）
+  - 「切削加工が必要な一連の設備を保有しており、金属、非鉄金属、樹脂に対応可能」（https://www.yagiseisakujo.co.jp/・1回目）
+  - 「ステンレス(SUS416)＋樹脂」（https://www.yagiseisakujo.co.jp/case02.html・1回目）
+  - 「ステンレス(SUS416)＋樹脂」（https://www.yagiseisakujo.co.jp/products01.html・1回目）
+  - 「樹脂(POM)材料を使用した事務機器部品金型」（https://www.yagiseisakujo.co.jp/products04.html・1回目）
+- 一点物・少量多品種：
+  - 「精密切削加工、軸加工、超精密微細加工を短納期で設計、試作、組立を行います」（https://www.yagiseisakujo.co.jp/・1回目）
+  - 「八木製作所（本社：東京都日野市 工場：東京都八王子市）は 創業(昭和３８年)から今日まで多品種少量(試作)から、量産までの精密機械加工及び治具製作を一筋で行っています」（https://www.yagiseisakujo.co.jp/・1回目）
+  - 「フレキシブルな対応力で設計、試作、組立 1個から対応可能」（https://www.yagiseisakujo.co.jp/・1回目）
+  - 「短納期・低価格・高品質をモットーに、治具設計製作、試作、少・中量生産を承っております」（https://www.yagiseisakujo.co.jp/products.html・1回目）
+  - 「八木製作所は 創業(昭和３８年)から今日まで多品種少量(試作)から、量産までの精密機械加工及び治具製作を一筋で行っています」（https://www.yagiseisakujo.co.jp/company.html・1回目）
+  - 「短納期・低価格・高品質をモットーに、治具設計製作、試作、少・中量生産を承っております」（https://www.yagiseisakujo.co.jp/products04.html・1回目）
+  - 「試作品から量産まで高精度、低コスト、短納期でご提供しております」（https://mono.ipros.com/company/detail/2075874/category/・3回目）
+  - 「短納期で設計、試作、組立を行います」（https://mono.ipros.com/company/detail/2075874/category/・3回目）
+  - 「短納期・低価格・高品質をモットーに、治具設計製作、試作、少・中量生産を承っております」（https://yagiseisakujo.co.jp/products.html・3回目）
+  - 「一つの試作品から、量産製品まで！小さな部品、大きな筐体、お急ぎの試作品まで、お気軽にご相談いただける体制を心掛けております」（https://www.yagi-ss.co.jp/outline/・3回目）
+- 製品分野：
+  - 「八木製作所（本社：東京都日野市 工場：東京都八王子市）は 創業(昭和３８年)から今日まで多品種少量(試作)から、量産までの精密機械加工及び治具製作を一筋で行っています」（https://www.yagiseisakujo.co.jp/・1回目）
+  - 「事務・光学・医療機器に不可欠なシャフト加工・軸加工の加工事例です」（https://www.yagiseisakujo.co.jp/・1回目）
+  - 「医療機器にヒートシンク等の部品を精密切削加工で短納期で製作します」（https://www.yagiseisakujo.co.jp/・1回目）
+  - 「医療機器にヒートシンク等の部品を切削加工で短納期で製作します」（https://www.yagiseisakujo.co.jp/products.html・1回目）
+  - 「短納期・低価格・高品質をモットーに、治具設計製作、試作、少・中量生産を承っております」（https://www.yagiseisakujo.co.jp/products.html・1回目）
+  - 「事務・光学・医療機器に不可欠なシャフト加工・軸加工の加工事例です」（https://www.yagiseisakujo.co.jp/case.html・1回目）
+  - 「八木製作所は 創業(昭和３８年)から今日まで多品種少量(試作)から、量産までの精密機械加工及び治具製作を一筋で行っています」（https://www.yagiseisakujo.co.jp/company.html・1回目）
+  - 「複写機、光学機器、医療機器等の部品の精密加工」（https://www.yagiseisakujo.co.jp/company.html・1回目）
+  - 「プログラミング教育教材のロボット外装作製（東京都日野市産業プロジェクト）」（https://www.yagiseisakujo.co.jp/company.html・1回目）
+  - 「産・官・学・金が連携〜日野おもてなしロボットの製作企業として掲載されました」（https://www.yagiseisakujo.co.jp/company.html・1回目）
+  - 「事務・光学・医療機器に不可欠なシャフト加工・軸加工の加工事例です」（https://www.yagiseisakujo.co.jp/case02.html・1回目）
+  - 「切削加工、軸加工、超精密微細加工なら東京多摩の八木製作所へ｜医療機器部品」（https://www.yagiseisakujo.co.jp/products03.html・1回目）
+- AM関連：
+  - 「MetaCAM Ver11 2台」（https://www.yagi-ss.co.jp/outline/・3回目）
+  - 「CamMagic LA Ver9 1台」（https://www.yagi-ss.co.jp/outline/・3回目）
+  - 「AMADA TPL-150S 1台(150TON リンクプレス）」（https://www.yagi-ss.co.jp/outline/・3回目）
+  - 「AMADA RG-125 1台（125TON)」（https://www.yagi-ss.co.jp/outline/・3回目）
+  - 「AMADA TW530 1台」（https://www.yagi-ss.co.jp/outline/・3回目）
+  - 「OKAMOTO PSG52DX 1台」（https://www.yagi-ss.co.jp/outline/・3回目）
+  - 「スポット溶接機 AMADA ID-40-ST 2台」（https://www.yagi-ss.co.jp/outline/・3回目）
+  - 「タッピングマシン AMADA CTS-900 1台」（https://www.yagi-ss.co.jp/outline/・3回目）
+  - 「シャーリングマシン AMADA M-632 1台」（https://www.yagi-ss.co.jp/outline/・3回目）
+  - 「コンターマシン AMADA VAC-500 1台」（https://www.yagi-ss.co.jp/outline/・3回目）
+  - 「ヤスリ盤 AMADA F-4 1台」（https://www.yagi-ss.co.jp/outline/・3回目）
+- 連絡先：
+  - 「Gmailへの自動返信メールが届かない場合があります」（https://yagi-ss.jp/contact/・3回目）
+  - 「もし、メールを送信を2日〜3日以内に返信がない場合は、お手数ですが再度メールを送信頂くか、電話でご連絡を頂けますようお願いします」（https://yagi-ss.jp/contact/・3回目）
+  - 「お問い合わせ内容を下記フォームにご入力後、「この内容でメールを送信する」ボタンをクリックしてください」（https://yagi-ss.jp/contact/・3回目）
+  - 「メールを送信後、お問い合わせ内容を記載した、自動返信メールが届きます」（https://yagi-ss.jp/contact/・3回目）
+  - 「自動返信メールが届かない場合は、迷惑メールボックスをご確認下さい」（https://yagi-ss.jp/contact/・3回目）
+  - 「メールを確認した後、2日～3日以内にこちらからメールにてご連絡をさせていただきます」（https://yagi-ss.jp/contact/・3回目）
+  - 「もし1週間経ってもこちらからのメールが届かない場合、メールアドレスが間違っている可能性がありますので、再度こちらのページよりメールを送信して下さい」（https://yagi-ss.jp/contact/・3回目）
+  - 「当サイトから、お問い合わせいただきました、お客様の個人情報につきましては、第三者に一切提供いたしません」（https://yagi-ss.jp/contact/・3回目）
+  - 「スパムメール防止のためこちらのボックスにチェックを入れてから送信して下さい」（https://yagi-ss.jp/contact/・3回目）
+- 検索結果の抜粋：
+  - 「切削加工、軸加工、超精密微細加工なら東京多摩の八木製作所へ — 八木製作所（本社：東京都日野市 工場：東京都八王子市）は 創業 (昭和38年)から今日まで多品種少量 (試作)から、量産までの精密機械加工及び治具製作を一筋で行っています。」（https://www.yagiseisakujo.co.jp/・3回目）
+  - 「八木製作所の製品・サービス一覧｜イプロスものづくり — Dec 17, 2018 · 株式会社八木製作所は、50年以上に渡り精密部品加工および治具製作一筋で、 試作品から量産まで高精度、低コスト、短納期でご提供しております。 NC旋盤や、汎用フライス、3次元測定機、画像測定機など様々な設備を保有。」（https://mono.ipros.com/company/detail/2075874/category/・3回目）
+  - 「切削加工、軸加工、超精密微細加工なら東京多摩の八木製作所へ｜取扱... — 取扱品目 昭和38年創業の精密切削加工、軸加工、精密微細加工のプロ集団 事務機器部品 事務機器に必要なローラー加工、軸加工を様々な長さや大きさで短納期で製作します。 »詳細はクリック」（https://yagiseisakujo.co.jp/products.html・3回目）
+  - 「八木製作所 - ㈱八木製作所 — 建築・店舗内装金物 サイン Sign モニュメント Monument 展示ケース Display cases 外構 Exterior 内装金物 Interior 什器 Furniture 照明 Light オブジェ Art/Object その他 Other」（https://www.yagi-ss.com/・3回目）
+  - 「会社概要｜板金（金属プレス）のコンビニ、株式会社八木製作所 — 企業情報 会社名 株式会社 八木製作所 設立 1957年4月30日 所在地 〒552-0013 大阪市港区福崎3丁目1-111 GoogleMap 代表者 代表取締役 八木麗憲 創業 1935年（昭和10年）8月 資本金 2,500万円 従業員数 30名 事業内容 各種金属機械部品製造（板金加工・プレス加工 等 ...」（https://www.yagi-ss.co.jp/outline/・3回目）
+  - 「板金（金属プレス）のコンビニ、株式会社八木製作所-八木製作所トップ... — 株式会社八木製作所 〒552-0013 大阪市港区福崎3丁目1番111号 TEL.06-6573-1021 / FAX.06-6573-1025 トップページ 会社概要 サービス紹介 品質・環境方針 お問い合わせ お知らせ一覧 採用情報 プライバシーポリシー サイトマップ」（https://www.yagi-ss.co.jp/・3回目）
+  - 「切削加工、軸加工、超精密微細加工なら東京多摩の八木製作所へ — 精密切削加工、軸加工、超精密微細加工を短納期で設計、試作、組立を行います。 八木製作所（本社：東京都日野市 工場：東京都八王子市）は 創業 (昭和38年)から今日まで多品種少量 (試作)から、量産までの精密機械加工及び治具製作を一筋で行っています。 切削加工 (フライス、旋盤、MC、NC ...」（https://www.yagiseisakujo.co.jp/・3回目）
+  - 「会社概要 - ㈱八木製作所 - yagi-ss.com八木製作所 - ㈱八木製作所企業紹介 - 有限会社 八木製作所 - eonet.ne.jp株式会社八木製作所 - 会社概要 — 建築金物・店舗内装金物・什器・家具金物サイン・看板・モニュメント・博物館等の展示ケース・アート作品 建築・店舗内装金物 サイン Sign モニュメント Monument 展示ケース Display cases 外構 Exterior 内装金物 Interior 什器 Furniture 照明 Light オブジェ Art/Object その他 Other 事業内容 電子部品業 電子部品の組立, 小型溶接スポット、基盤に樹脂塗布、 拡大鏡外観検査 基盤に樹脂塗布、 主要取引金融機関 京都銀行 八木 支店 従業員 9名 国内拠点 所在地：京都府南丹市八木町八木野条30番地 連絡先：0771-42-2495 企業プロ」（https://www.yagi-ss.com/会社概要/・3回目）
+  - 「企業紹介 - 有限会社 八木製作所 - eonet.ne.jp — 事業内容 電子部品業 電子部品の組立, 小型溶接スポット、基盤に樹脂塗布、 拡大鏡外観検査 基盤に樹脂塗布、 主要取引金融機関 京都銀行 八木 支店 従業員 9名 国内拠点 所在地：京都府南丹市八木町八木野条30番地 連絡先：0771-42-2495」（https://www.eonet.ne.jp/~yagiseisakusyo/profile1.html・3回目）
+  - 「お問い合わせ | 株式会社八木製作所 — ご質問等をメールにてお伺いいたします。 お問い合わせ内容を下記フォームにご入力後、「この内容でメールを送信する」ボタンをクリックしてください。 メールを送信後、お問い合わせ内容を記載した、自動返信メールが届きます。」（https://yagi-ss.jp/contact/・3回目）
+  - 「お問い合わせ - ㈱八木製作所 — ホーム ご挨拶 会社概要 材料・設備 ご相談～施工まで お問い合わせ アクセス リンク」（https://www.yagi-ss.com/お問い合わせ/・3回目）
+  - 「お問い合わせ | 株式会社八工製作所切削加工、軸加工、超精密微細加工なら東京多摩の八木製作所へお問い合わせ｜板金（金属プレス）のコンビニ、株式会社八木製作所お問い合わせ - 有限会社 八木製作所切削加工、軸加工、超精密微細加工なら東京多摩の八木製作所へ｜お問... — 株式会社八工製作所のお問い合わせページでは、製品やサービスに関するご質問やご相談を簡単にお寄せいただけます。 フォームや電話、メールでのご連絡方法を提供し、迅速かつ丁寧な対応をお約束します。 精密切削加工、軸加工、超精密微細加工を短納期で設計、試作、組立を行います。 八木製作所（本社：東京都日野市 工場：東京都八王子市）は 創業 (昭和38年)から今日まで多品種少量 (試作)から、量産までの精密機械加工及び治具製作を一筋で行っています。 切削加工 (フライス、旋盤、MC、NC ... 株式会社八木製作所 〒552-0013 」（https://www.hachikou-s.co.jp/contact/・3回目）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像13件／外部9頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式14頁／PDF・画像13件／外部9頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式14頁／PDF・画像13件／外部9頁・検索9回）
+
 ## 株式会社共和製作所 本社
 - 公式URL：https://www.kyowa-tokai.com（given）
 - 所在地：〒447-0857 愛知県碧南市大浜上町二丁目35番地２ Mail : info@kyowa-tokai.co.jp TEL : 0566-70-8481 / FAX：0566-70-8482（https://www.kyowa-tokai.com/company/about/・1回目）
@@ -10186,6 +13172,93 @@ FAX.0256-57-3581（https://www.mrkt.co.jp/companyinfo/・1回目）
 - 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部13頁・検索9回）
 - 取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部13頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部13頁・検索9回）
+
+## 株式会社加藤製作所
+- 公式URL：http://katoss.co.jp（given）
+- 所在地：〒131-0045 東京都墨田区押上2-26-13（https://katoss.co.jp/company.html・1回目）
+- 事業内容：精密鍛造用金型製作、アルミダイカスト品加工、特注部品設計製作、建築部品設計製作（https://katoss.co.jp/company.html・1回目）
+- 代表者：加藤 雅規（https://katoss.co.jp/company.html・1回目）
+- 拠点：〒131-0041 東京都墨田区八広6-5-9（https://katoss.co.jp/company.html・1回目）
+- 取扱製品：
+  - 「幅広い素材と加工要件に対応し、アイデア段階の相談から製品化まで伴走します」（https://katoss.co.jp/・1回目）
+  - 「量産化や追加工、検品まで含めて、最終製品として届けるところまで支援します」（https://katoss.co.jp/・1回目）
+  - 「製品・金型・治具・装置のデザインをお客様と共につくり上げます」（https://katoss.co.jp/services.html・1回目）
+  - 「製品化が難しそうに見えるアイデアでも、設計、加工、試作の視点から実現可能性を探ります」（https://katoss.co.jp/works.html・1回目）
+  - 「対向液圧プレス成形を駆使し、シワやひずみを排除した高品質な製品を実現」（https://www.katog.co.jp/・3回目）
+  - 「対向液圧成形を活用した独自の深絞り加工技術により、従来の方法では難しい複雑形状や高品質な金属製品を実現」（https://www.katog.co.jp/・3回目）
+  - 「加藤製作所は、スポット溶接・MIG溶接・TIG溶接・ファイバーレーザー溶接を駆使し、多様な製品製造を支えています」（https://www.katog.co.jp/・3回目）
+  - 「当社は、これまで「優秀な製品による社会への貢献」を経営理念に掲げ、主に荷役機械、建設機械、各種産業機械の開発・製造・販売を一貫して行い、今日まで成長を遂げてまいりました」（https://www.kato-works.co.jp/profile/index.html・3回目）
+  - 「その歴史は古く、大正時代の機関車を始め、トラッククレーン・油圧ショベル・ラフテレーンクレーン・オールテレーンクレーン・クローラキャリアなど、創業以来のパイオニア精神と独自の技術革新で様々な機種の開発に挑戦し、製品化してまいりました」（https://www.kato-works.co.jp/profile/index.html・3回目）
+  - 「近年、世界的に地球温暖化問題を含めた環境への配慮が叫ばれているなか、当社としては、サステナビリティ経営を重点課題の一つと考え、カーボンニュートラルへの対応を目的とした機種の開発・製品化等を積極的に進めております」（https://www.kato-works.co.jp/profile/index.html・3回目）
+  - 「建設用クレーン、油圧ショベル等、その他製品の製造・販売」（https://www.kato-works.co.jp/profile/index.html・3回目）
+  - 「めまぐるしく変化する製品スペック、常に進化を求められる技術に対応できる企業を目指し、株式会社加藤製作所は業務を遂行しております」（http://www.katoseisakusyo.co.jp/about.html・3回目）
+- 取扱材料：
+  - 「株式会社加藤製作所は、金属・樹脂の切削加工を軸に、」（https://katoss.co.jp/・1回目）
+  - 「鍛造金型製作、特殊鋼、SUS、チタン、アルミ、銅、カーボン、樹脂まで」（https://katoss.co.jp/・1回目）
+  - 「金属: SUS / チタン / アルミ / 銅 / 真鍮」（https://katoss.co.jp/・1回目）
+  - 「樹脂: ナイロン / POM / ABS / PP / アクリル / ポリカ」（https://katoss.co.jp/・1回目）
+  - 「玩具製作や高級ハンガー製作を経て、現在は金属・樹脂の切削加工を中心に、」（https://katoss.co.jp/company.html・1回目）
+- 一点物・少量多品種：
+  - 「3Dデータ活用、試作、量産、製造提案までワンストップでものづくりを支える東京都墨田区の加工会社です」（https://katoss.co.jp/・1回目）
+  - 「3D CAD/CAM、3Dプリンタ、3Dスキャナ、レーザーマーカーを用い、試作と現場実装の往復を高速化します」（https://katoss.co.jp/・1回目）
+  - 「形状確認用の試作から現地スキャン、刻印まで、製造前後の検証精度を高める設備を揃えています」（https://katoss.co.jp/・1回目）
+  - 「3Dプリンタやスキャン、試作加工を使い、寸法・フィッティングを確認します」（https://katoss.co.jp/・1回目）
+  - 「長年の機械加工ノウハウに、3D技術、試作力、量産支援を掛け合わせ、」（https://katoss.co.jp/services.html・1回目）
+  - 「FDM式3Dプリンタによる形状確認や実用強度を見据えた試作、」（https://katoss.co.jp/services.html・1回目）
+  - 「精密鍛造用金型製作、アルミダイカスト品加工、特注部品設計製作、建築部品設計製作」（https://katoss.co.jp/company.html・1回目）
+  - 「製品化が難しそうに見えるアイデアでも、設計、加工、試作の視点から実現可能性を探ります」（https://katoss.co.jp/works.html・1回目）
+  - 「小ロット・茶筒・珈琲缶・オリジナル缶の加藤製作所」（https://kato-seisakusho.net/・3回目）
+  - 「印刷缶と違い、手作業で丁寧に塗装、プリントしていますので、色艶もよく、味わいがあり、小ロットでの製作が可能です」（https://kato-seisakusho.net/・3回目）
+  - 「予算を抑えたい方、小ロットでお考えの方へお勧めです」（https://kato-seisakusho.net/・3回目）
+  - 「小ロット、200個から製作可能です」（https://kato-seisakusho.net/・3回目）
+- 製品分野：
+  - 「鍛造金型製作、特殊鋼、SUS、チタン、アルミ、銅、カーボン、樹脂まで」（https://katoss.co.jp/・1回目）
+  - 「レーシングカートやオートバイ・自動車関連部品の開発製作で、高精度かつ実戦的な要求に応えます」（https://katoss.co.jp/・1回目）
+  - 「自社ブランド「Triple K」や各種モータースポーツパーツ、金型製作で培った知見をもとに、」（https://katoss.co.jp/services.html・1回目）
+  - 「製品・金型・治具・装置のデザインをお客様と共につくり上げます」（https://katoss.co.jp/services.html・1回目）
+  - 「オートバイ・自動車関連部品の開発や製作も行い、厳しい要求条件に応える経験を蓄積しています」（https://katoss.co.jp/services.html・1回目）
+  - 「精密鍛造用金型製作、アルミダイカスト品加工、特注部品設計製作、建築部品設計製作」（https://katoss.co.jp/company.html・1回目）
+  - 「熱や荷重などを踏まえた部品開発に対応し、自動車関連部品としての信頼性を支えます」（https://katoss.co.jp/works.html・1回目）
+  - 「深絞り加工を極め、自動車・家電・航空機など多岐にわたる業界で必要不可欠な精密部品を作り続けています」（https://www.katog.co.jp/・3回目）
+  - 「自動車、錠前部品加工」（http://www.katoseisakusyo.co.jp/about.html・3回目）
+  - 「及びサブ組立・自動車部品錠前及びソレノイドバルブ部品加工切削加工」（http://www.katoseisakusyo.co.jp/about.html・3回目）
+  - 「加藤製作所は航空機部品製造という専門分野に軸足を置き、」（https://katoseisakusho.co.jp/company/・3回目）
+  - 「航空宇宙機器部品の機械加工及び治工具設計製作」（https://katoseisakusho.co.jp/company/・3回目）
+- AM関連：
+  - 「3D CAD/CAM、3Dプリンタ、3Dスキャナ、レーザーマーカーを用い、試作と現場実装の往復を高速化します」（https://katoss.co.jp/・1回目）
+  - 「3D CAD/CAM」（https://katoss.co.jp/・1回目）
+  - 「3Dプリンタ / スキャナ」（https://katoss.co.jp/・1回目）
+  - 「3Dプリンタやスキャン、試作加工を使い、寸法・フィッティングを確認します」（https://katoss.co.jp/・1回目）
+  - 「3D CAD/CAM」（https://katoss.co.jp/services.html・1回目）
+  - 「3Dプリンタ / 3Dレーザースキャナ / レーザーマーカー」（https://katoss.co.jp/services.html・1回目）
+  - 「FDM式3Dプリンタによる形状確認や実用強度を見据えた試作、」（https://katoss.co.jp/services.html・1回目）
+  - 「また、2026年7月には油圧ショベルの新型「REGZAM」シリーズ4機種の販売を開始する」（https://note.com/fisco_jp/n/n6856891dadf3・3回目）
+- 連絡先：
+  - 「お問い合わせいただく前に一度ご確認ください」（https://www.kato-works.co.jp/others/contact.html・3回目）
+  - 「FAX・E-mailでのお問い合せには、受付時間内に回答したいと努力いたしますが場合によっては時間がかかる可能性もございますのでご了承ください」（https://www.kato-works.co.jp/others/contact.html・3回目）
+  - 「コーポレートコミュニケーション部 TEL：03(3458)1144 MAIL：」（https://www.kato-works.co.jp/others/contact.html・3回目）
+  - 「今般、米国およびカナダにおいて、当社の役員を騙る人物からメールまたは電話で連絡を受け、当社が米国およびカナダにおいて新たに立ち上げる現地事務所の代表者を募集する旨の勧誘を受けたという情報が当社に寄せられました」（https://www.kato-works.co.jp/profile/news/form/form.html・3回目）
+  - 「これらのメールや電話は詐欺の恐れがあり、当社グループとは一切関係がございませんので、充分ご注意頂きますとともに、不審な連絡を受けた際には以下の対応をお願い申し上げます」（https://www.kato-works.co.jp/profile/news/form/form.html・3回目）
+  - 「● 当社役員等を名乗る人物から米国・カナダにおける事務所での雇用通知等、または、現金の回収および送金等に関する連絡等を受けた場合、その場では対応せず、連絡を受けたメールアドレスや電話番号等以外の手段で、当社へ直接内容をご確認ください」（https://www.kato-works.co.jp/profile/news/form/form.html・3回目）
+  - 「● 当社のドメインと酷似しているメールアドレス（@kato-works-jp.com、@katoworks-jp.comなど）からのメールは詐欺の可能性がありますので、開封しないようご注意ください」（https://www.kato-works.co.jp/profile/news/form/form.html・3回目）
+  - 「● 不審なメールを受け取った場合は速やかに削除し、本文記載のURLや添付ファイル等を開かないようご注意下さい」（https://www.kato-works.co.jp/profile/news/form/form.html・3回目）
+  - 「お問い合わせ・アクセス | 株式会社 加藤製作所」（http://www.katoseisakusyo.co.jp/contacts.html・3回目）
+- 検索結果の抜粋：
+  - 「小ロット・茶筒・珈琲缶・オリジナル缶の加藤製作所 — 明治28年創業の老舗茶筒メーカー。 小ロット・茶筒・珈琲缶・オリジナル缶の「加藤製作所」。 株式会社加藤製作所は、明治28年の創業より「茶筒」「のり缶」「菓子缶」等のメーカーとして120年以上の歴史を有しています。」（https://kato-seisakusho.net/・3回目）
+  - 「オンラインショップ | 小ロット・茶筒・珈琲缶・オリジナル缶の加藤製... — 明治28年創業の老舗茶筒メーカー。小ロット・茶筒・珈琲缶・オリジナル缶の「加藤製作所」。株式会社加藤製作所は、明治28年の創業より「茶筒」「のり缶」「菓子缶」等のメーカーとして120年以上の歴史を有しています。時代を経るにつれ、変わっていくお客様のご要望にお応えすべく ...」（https://kato-seisakusho.net/ec/・3回目）
+  - 「株式会社加藤製作所 — read more 02 板金 順送プレス・単発プレス・大型プレス・曲げ加工・精密プレスを駆使し、「高品質」「高効率」「低コスト」を実現。 設計段階からのVE提案により、試作から量産まで一貫生産体制を確立しております。」（http://www.katog.co.jp/・3回目）
+  - 「納品までの流れ | 加藤製作所 宮城 金属加工 旋盤加工 短納期 切削加... — STEP04 試作・製作 まずは、製品の試作を行います。 修正箇所がございましたら、ご遠慮なくお申し付けください。 試作品に問題が無ければ、製作物の製作に取り掛かります。」（https://www.katoseisakusyo.com/works/flow/・3回目）
+  - 「会社概要｜加藤製作所 — 会社概要 TOP MESSAGE 当社は、これまで「優秀な製品による社会への貢献」を経営理念に掲げ、主に荷役機械、建設機械、各種産業機械の開発・製造・販売を一貫して行い、今日まで成長を遂げてまいりました。当社の歴史は、各々の時代にて求められたニーズに応えるための技術開発の連続で ...」（https://www.kato-works.co.jp/profile/index.html・3回目）
+  - 「会社概要 | 株式会社 加藤製作所会社概要｜加藤製作所会社概要｜加藤製作所会社概要 | 加藤製作所株式会社 加藤製作所会社案内│株式会社加藤製作所・株式会社カトメ│新潟市 — ジュウゼン製造（株） （株）ヌカベ パナソニックエコソリューションズ朝日 川崎自動車工業（株） 群馬精機（株） （株）三光電器製作所 （株）L&Aデバイス 新電元メカトロニクス（株） 日発販売（株） 他 （順不同・敬称略） 会社概要 Company 縁の下で品質を支える 確かな技術 空と宇宙の未来へ貢献 昭和22年の創業以来、 加藤製作所は航空機部品製造という専門分野に軸足を置き、 日本の航空宇宙産業とともに歩んできました。 私たちの仕事は、決して目立つものではありません。 120年以上続くKATOブランド。 時代のニーズに柔軟に応える優れた設計力、高品質なものづくりをスピーディーに実現する総合的生産管理システム、全」（http://www.katoseisakusyo.co.jp/about.html・3回目）
+  - 「会社概要｜加藤製作所 — 会社概要 Company 縁の下で品質を支える 確かな技術 空と宇宙の未来へ貢献 昭和22年の創業以来、 加藤製作所は航空機部品製造という専門分野に軸足を置き、 日本の航空宇宙産業とともに歩んできました。 私たちの仕事は、決して目立つものではありません。」（https://katoseisakusho.co.jp/company/・3回目）
+  - 「会社概要 | 加藤製作所株式会社 加藤製作所会社案内│株式会社加藤製作所・株式会社カトメ│新潟市 — 会社概要 ... 関連会社 有限会社 チヒロ ... K.S. of West Virginia Co. Ltd. ... LK 精密 株式会社 ... 企業理念 沿革 CSR SDGsの取り組み 関連会社 幅広い加工技術 株式会社加藤製作所は自動車、建設機械、その他業界の部品加工をバーマシン、NC、マシニングセンタ、研磨機他の設備を駆使し、固有の加工技術で、幅広く生産を行っています。多品種少量生産にも対応し、加工技術の幅の広さを得意とします。 ISO9001取得企業 株式会社加藤 ... 会社概要 ... 会社沿革 ... アクセスマップ 株式会社加藤製作所 〒956-0101 新潟県新潟市秋葉区小須戸3848-1 お車の場合 > 巻潟東IC 出口の十字路右折、新潟市南区白根 経由、新潟」（https://ksj-group.com/overvie/・3回目）
+  - 「株式会社 加藤製作所 — 幅広い加工技術 株式会社加藤製作所は自動車、建設機械、その他業界の部品加工をバーマシン、NC、マシニングセンタ、研磨機他の設備を駆使し、固有の加工技術で、幅広く生産を行っています。多品種少量生産にも対応し、加工技術の幅の広さを得意とします。 ISO9001取得企業 株式会社加藤 ...」（http://www.katoseisakusyo.co.jp/・3回目）
+  - 「お問い合せ｜加藤製作所 — お問い合せ よく寄せられる内容を、 よくある質問 にまとめてあります。お問い合わせいただく前に一度ご確認ください。 FAX・E-mailでのお問い合せには、受付時間内に回答したいと努力いたしますが場合によっては時間がかかる可能性もございますのでご了承ください。」（https://www.kato-works.co.jp/others/contact.html・3回目）
+  - 「お問い合わせフォーム｜加藤製作所 — （当社の送信元ドメインは@kato-works.co.jpです） 不審なメールを受け取った場合は速やかに削除し、本文記載のURLや添付ファイル等を開かないようご注意下さい。」（https://www.kato-works.co.jp/profile/news/form/form.html・3回目）
+  - 「お問い合わせ・アクセス | 株式会社 加藤製作所 — お問い合わせは電話・メールにて承ります。お気軽にご連絡ください。」（http://www.katoseisakusyo.co.jp/contacts.html・3回目）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部20頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部20頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部20頁・検索9回）
 
 ## 株式会社協新製作所 本社
 - 公式URL：http://www.kyoshin-works.com（given）
@@ -10345,6 +13418,31 @@ FAX.0256-57-3581（https://www.mrkt.co.jp/companyinfo/・1回目）
 - 売上高：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部9頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部9頁・検索9回）
 
+## 株式会社坂上製作所
+- 公式URL：http://www.sakagamiseisakusyo.co.jp（given）
+- 取扱製品：
+  - 「製品・サービス(7)」（https://mono.ipros.com/company/detail/2044729/catalog/・3回目）
+  - 「「坂上製作所に任せて良かった」と心から思っていただけるよう、全従業員が一丸となって、より高品質な製品づくりに邁進していく所存です」（https://www.big-advance.site/c/177/1773/profile・3回目）
+- 検索結果の抜粋：
+  - 「坂上製作所のカタログ一覧 | イプロスものづくり — バリアブルパラメータ入力による特殊部品のNCデータ作成とそのシステム提供も実績があります。 坂上製作所は、客先との協議を通じてより良い機能と製作の円滑化を図るために、様々な提言を実施しております。」（https://mono.ipros.com/company/detail/2044729/catalog/・3回目）
+  - 「会社概要 | アルミ、ステンレスなどの金属加工（旋盤加工・フライス加...株式会社 坂上製作所｜会社概要 - ncokyoudoukumiai.jp会社案内 | 有限会社 坂上製作所｜日立市の切削・穴あけ加工専門 有限... — 私たちは、社会の様々なニーズにお応えするべく、金属加工の技術と経験を積み重ねてまいりました。 会社概要や工場の様子、沿革、受賞歴、理念など、坂製作所に関する各種情報は、こちらのページをご覧ください。 会社概要 商号 株式会社 坂上製作所 所在地 〒950-3308 新潟県新潟市北区下大谷内378-19 【地図】 NCO豊栄工業団地協同組合 地図 TEL.025-259-2633 FAX.025-258-3522 Email: 資本金 2,000万円 役 員 代表取締役社長 坂上 勝彦 1.6mの正面旋盤による最大1200φの大型旋削から、1500mmまでの長尺物、」（https://www.sakass.com/company/・3回目）
+  - 「株式会社 坂上製作所｜会社概要 - ncokyoudoukumiai.jp — 会社概要 商号 株式会社 坂上製作所 所在地 〒950-3308 新潟県新潟市北区下大谷内378-19 【地図】 NCO豊栄工業団地協同組合 地図 TEL.025-259-2633 FAX.025-258-3522 Email: 資本金 2,000万円 役 員 代表取締役社長 坂上 勝彦」（http://ncokyoudoukumiai.jp/sakaue/outline.html・3回目）
+  - 「会社案内 | 有限会社 坂上製作所｜日立市の切削・穴あけ加工専門 有限... — 1.6mの正面旋盤による最大1200φの大型旋削から、1500mmまでの長尺物、細かな精密穴あけ加工まで柔軟に対応可能。 大型部品の切削・穴あけ加工なら、日立市の坂上製作所へ。」（https://www.big-advance.site/c/177/1773/profile・3回目）
+  - 「事業内容 | 有限会社 坂上製作所｜日立市の切削・穴あけ加工専門 有限... — ルーツは日立市久慈町での船舶内燃機関の修理工場にあり、その後、昭和32年より日立機材、昭和37年より久慈電気製作所、そして平成4年の有限会社設立以降は日立製作所の協力工場として、日本の産業を支える重要部品の製造に携わってまいりました。」（https://www.big-advance.site/c/177/1773/service・3回目）
+  - 「株式会社 坂上製作所｜事業内容 — 〒950-3308 新潟県新潟市北区下大谷内378番地19 TEL.025-259-2633 FAX.025-258-3522」（https://www.ncokyoudoukumiai.jp/sakaue/business.html・3回目）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 取扱材料：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 一点物・少量多品種：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 製品分野：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- AM関連：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）
+
 ## 株式会社大実製作所 本社、羽田工場、テクノCORE、筑西工場
 - 公式URL：https://www.omi.co.jp（given）
 - 所在地：東京都品川区旗の台5-16-18 TEL:03-3787-1088（代表） FAX:03-3787-1606（https://www.omi.co.jp/corporate/profile_history/index.html・1回目）
@@ -10401,6 +13499,152 @@ FAX.0256-57-3581（https://www.mrkt.co.jp/companyinfo/・1回目）
 - 売上高：記載なし（3回確認済み：公式28頁／PDF・画像12件／外部2頁・検索9回）
 - 取引先：記載なし（3回確認済み：公式28頁／PDF・画像12件／外部2頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式28頁／PDF・画像12件／外部2頁・検索9回）
+
+## 株式会社大崎金属
+- 公式URL：http://www.osaki-kinzoku.com（given）
+- 所在地：○所在地　　〒144-0033　東京都大田区東糀谷6丁目3番1号 TEL　(03)3744-8200（代表）　 FAX  (03)3745-4841 ○従業員　　47名 ○工場規模　工場敷地　750㎡　　工場建坪　1,140㎡（http://www.osaki-kinzoku.com/company.html・1回目）
+- 所在地：〒144-0033　東京都大田区東糀谷6-3-1　城南電化協同組合　東糀谷めっきセンター内（http://www.osaki-kinzoku.com/access.html・1回目）
+- 所在地：東京都大田区東糀谷6-3-1（https://tenshoku.mynavi.jp/company/439374/・3回目）
+- 事業内容：めっき処理（航空・宇宙・防衛向け部品など） 「世界に誇る東京のモノづくり‐輝く技術光る企業」東京都 Nadcap Chemical Processingの認証取得（2017年2月） JIS Q 9100認証取得（2011年6月：一般財団法人　日本品質保証機構より） ISO14001認証取得（2003年9月：社団法人日本能率協会登録センターより）（https://tenshoku.mynavi.jp/company/439374/・3回目）
+- 代表者：代表取締役　吉川 進（https://tenshoku.mynavi.jp/company/439374/・3回目）
+- 従業員数：51名（https://tenshoku.mynavi.jp/company/439374/・3回目）
+- 取扱製品：
+  - 「特に宇宙・航空機製品には工程及び設備の事前認定が必要となります」（http://www.osaki-kinzoku.com/quality.html・1回目）
+- 一点物・少量多品種：
+  - 「1．多品種少量めっき」（http://www.osaki-kinzoku.com/products.html・1回目）
+  - 「3．試作めっき」（http://www.osaki-kinzoku.com/products.html・1回目）
+  - 「各種素材・複合素材の試作対応検討いたします」（http://www.osaki-kinzoku.com/products.html・1回目）
+  - 「少量のお持込みから大量スクラップの買取、工場設備の撤去、中古機械の買取まで、まずはお気軽にご相談ください」（https://www.osakikinzoku.com/about/・3回目）
+- 製品分野：
+  - 「現在、各種電気・電子部品 を始め、宇宙・航空部品、 半導体部品、 コンピューター部品など色々な産業で要求される難易度の高い電気めっきを主として手がけており、長年蓄積された高度な技術は信頼性の高い品質保証体制（JIS Q 9100認証取得）とあいまって、お客様に満足していただける品質をお届けしております」（http://www.osaki-kinzoku.com/company.html・1回目）
+  - 「特に宇宙・航空機製品には工程及び設備の事前認定が必要となります」（http://www.osaki-kinzoku.com/quality.html・1回目）
+  - 「また、弊社では、2011年6月に一般財団法人 日本品質保証機構より「品質マネジメントシステム－航空・宇宙・防衛分野の組織に対する要求事項」JIS Q 9100を認証取得しました」（http://www.osaki-kinzoku.com/quality.html・1回目）
+  - 「めっき処理（航空・宇宙・防衛向け部品など）」（https://tenshoku.mynavi.jp/company/439374/・3回目）
+  - 「航空・宇宙産業の【入出荷スタッフ】★未経験歓迎★日勤のみ」（https://tenshoku.mynavi.jp/company/439374/・3回目）
+  - 「＼未経験から航空・宇宙産業へ／【入出荷管理】★完全週休2日」（https://tenshoku.mynavi.jp/company/439374/・3回目）
+- AM関連：
+  - 「QQ-P-416、AMS QQ-P-416、AMS2400」（http://www.osaki-kinzoku.com/products.html・1回目）
+  - 「QQ-S-365、AMS2410、AMS2411、AMS2412」（http://www.osaki-kinzoku.com/products.html・1回目）
+  - 「MIL-C-14550、AMS2418」（http://www.osaki-kinzoku.com/products.html・1回目）
+  - 「QQ-N-290、AMS QQ-N-290、AMS2403」（http://www.osaki-kinzoku.com/products.html・1回目）
+  - 「AMS2416」（http://www.osaki-kinzoku.com/products.html・1回目）
+  - 「MIL-C-26074、AMS2404」（http://www.osaki-kinzoku.com/products.html・1回目）
+  - 「QQ-P-35、AMS QQ-P-35、AMS2700」（http://www.osaki-kinzoku.com/products.html・1回目）
+  - 「AMS2750」（http://www.osaki-kinzoku.com/products.html・1回目）
+- 連絡先：
+  - 「Email info@osakikinzoku.com」（https://www.osakikinzoku.com/about/・3回目）
+  - 「「掲載お知らせ」に登録しておくと、この企業が求人を再開した際にメールでお知らせします」（https://tenshoku.mynavi.jp/company/439374/・3回目）
+  - 「この企業の「掲載お知らせ」メールを受けとる」（https://tenshoku.mynavi.jp/company/439374/・3回目）
+- 検索結果の抜粋：
+  - 「営業案内 - 株式会社大崎金属 — 大崎金属の営業案内です。 営業内容 1．多品種少量めっき 2．量産品めっき 3．試作めっき ※ 剥離再めっき、マスキング部分めっきもご相談に応じます。」（http://www.osaki-kinzoku.com/products.html・3回目）
+  - 「株式会社大崎金属 — Feb 1, 2017 · 本社工場 〒144-0033 東京都大田区東糀谷6丁目3番1号 電話 03-3744-8200 FAX 03-3745-4841」（http://www.osaki-kinzoku.com/・3回目）
+  - 「会社概要 - 株式会社大崎金属 — 会社概要 ABOUT 宮城県大崎市で金属スクラップ・農機具の買取を行う 地域密着型リサイクル会社 株式会社大崎金属は、宮城県大崎市古川小野を拠点に、鉄スクラップ・非鉄金属などの金属全般の買取、農機具・重機・中古機械の買取を行っております。」（https://www.osakikinzoku.com/about/・3回目）
+  - 「株式会社 大崎金属 | 輝く技術 光る企業 | 東京カイシャハッケン伝 — 金属ごと、スペックごとの確認事項を取引先から承認されているもので、これが歴史ある大崎金属ならではの“宝物”。 確かに一つひとつの承認の意味合いは重く、大崎金属の商いの歴史であり、顧客との信頼を積み重ねた証そのものであるのだ。」（https://kaisyahakken.metro.tokyo.lg.jp/old/kigyou/osaki-kinzoku/・3回目）
+  - 「株式会社大崎金属の会社概要|転職・求人・中途採用情報サイトのマイナ... — 「株式会社大崎金属」の企業情報ページです。 株式会社大崎金属で募集中の求人（1件）や会社概要などの企業情報を掲載しています。 マイナビ転職の企業情報ページでは、さまざまな業種・職種で求人を募集している企業の情報を探せます。」（https://tenshoku.mynavi.jp/company/439374/・3回目）
+  - 「株式会社大崎金属（東京都）の会社概要・役員 | Compalyze — 〒144-0033 東京都大田区に本社を置く株式会社大崎金属の企業情報。 株式会社大崎金属は、大正12年（1923年）の創業以来、電気めっき一筋に事業を展開している表面処理専門企業です。 製造業 (鉄鋼・金属)、1923年設立、社会保険被保険者数49名。 代表者 吉川 ...」（https://compalyze.co.jp/company/8010801002013・3回目）
+  - 「会社案内 - 株式会社大崎金属 — 現在、各種電気・電子部品 を始め、宇宙・航空部品、 半導体部品、 コンピューター部品など色々な産業で要求される難易度の高い電気めっきを主として手がけており、長年蓄積された高度な技術は信頼性の高い品質保証体制（JIS Q 9100認証取得）とあいまって、お客様に満足していただける品 ...」（http://www.osaki-kinzoku.com/company.html・3回目）
+  - 「お問い合わせ - 株式会社大崎金属 — お問い合わせありがとうございます。 ご返信までに、3〜4営業日いただいております。 あらかじめご了承ください。 ※入力した情報はSSL暗号化通信によって安全に送信されます。」（http://www.osaki-kinzoku.com/contact.html・3回目）
+- 売上高：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部9頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部9頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部9頁・検索9回）
+- 取扱材料：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部9頁・検索9回）
+
+## 株式会社大槇精機
+- 公式URL：http://www.disn.co.jp（given）
+- 所在地：​本社 〒107-0062　東京都港区南青山3-2-2 TEL：03-6434-0625 生産本部 〒351-0014　埼玉県朝霞市膝折町4-8-45 TEL：048-462-0832 南工場 〒351-0014　埼玉県朝霞市膝折町4-8-12 TEL：048-458-6336 ※お問い合わせは生産本部へお願いします（http://www.disn.co.jp/about/・1回目）
+- 所在地：​本社 〒107-0062　東京都港区南青山3-2-2 TEL：03-6434-0625 生産本部 〒351-0014　埼玉県朝霞市膝折町4-8-45 TEL：048-462-0832 南工場 〒351-0014　埼玉県朝霞市膝折町4-8-12 TEL：048-458-6336 ※お問い合わせは生産本部へお願いします（https://disn.co.jp/about/・3回目）
+- 事業内容：​二輪・四輪自動車用試作部品・レース部品・航空宇宙部品 防衛部品・船外機部品・半導体部品・真空部品・ロボット部品 各種治具製作・機械加工全般・木型製作・アルミニウム合金鋳造・FC/FCD鋳造・各種金属鋳造・試作開発サポート・デザイン開発（http://www.disn.co.jp/about/・1回目）
+- 事業内容：​二輪・四輪自動車用試作部品・レース部品・航空宇宙部品 防衛部品・船外機部品・半導体部品・真空部品・ロボット部品 各種治具製作・機械加工全般・木型製作・アルミニウム合金鋳造・FC/FCD鋳造・各種金属鋳造・試作開発サポート・デザイン開発（https://disn.co.jp/about/・3回目）
+- 代表者：​代表取締役社長　大町亮介（http://www.disn.co.jp/about/・1回目）
+- 代表者：​代表取締役社長　大町亮介（https://disn.co.jp/about/・3回目）
+- 拠点：〒351-0014 埼玉県朝霞市膝折町4-8-12 TEL: 048-458-6336 FAX:048-464-7842（http://www.disn.co.jp/・1回目）
+- 拠点：〒351-0014 埼玉県朝霞市膝折町4-8-12 TEL: 048-458-6336 FAX:048-464-7842（http://www.disn.co.jp/about/・1回目）
+- 拠点：〒351-0014 埼玉県朝霞市膝折町4-8-12 TEL: 048-458-6336 FAX:048-464-7842（http://www.disn.co.jp/products/・1回目）
+- 取扱製品：
+  - 「さらに、自社ブランド「DDS」では、技術とデザインの融合をテーマに、創造性あふれる製品や技術サンプルを発信し続けています」（http://www.disn.co.jp/about/・1回目）
+  - 「​DDS製品 ㈱森精機製作所様 公認商品に認定」（http://www.disn.co.jp/about/・1回目）
+  - 「許可いただいたものやオリジナルで製作した製品を掲載させていただいております」（http://www.disn.co.jp/products/・1回目）
+  - 「デザインデータの作成から同時5軸加工による造形まで、意匠性の高い金属製品の開発をお手伝いします」（http://www.disn.co.jp/products/・1回目）
+  - 「MotoGPやF1の1/1000秒を争う世界最高峰レース部品の製造で鍛えられた高品質・短納期・適正コストは現在、モビリティー部品はもちろん、航空宇宙部品・防衛部品・造船部品・半導体部品・真空部品等の様々な分野に付加価値の高い製品を送り出しています」（http://www.disn.co.jp/spirits/・1回目）
+  - 「これからも大槇精機の技能集団が生み出す製品群にご期待下さいませ」（http://www.disn.co.jp/spirits/・1回目）
+  - 「弊社の鋳造技術は古来より伝わる砂型鋳造を原点とし、明治時代から改良と改善を重ね、砂型でも高精度な薄肉鋳造や鋳肌の綺麗な製品を提供しております」（http://www.disn.co.jp/spirits/・1回目）
+  - 「各工程で熟練の作業者が妥協を許さずに製品と向き合い、安定した品質管理を実施しながらも、スピーディな納期設定での提供を可能にしています」（http://www.disn.co.jp/spirits/・1回目）
+  - 「その製品は世界最高峰のレース部品から各大手メーカー様の試作開部品、小ロット量産部品として様々な分野で活用されています」（http://www.disn.co.jp/spirits/・1回目）
+  - 「​​年間数千点に及ぶ製品の一つ一つを品質保証するその作業は、一瞬の隙も許されません」（http://www.disn.co.jp/spirits/・1回目）
+  - 「このセクションを通過した製品のみに「ダイシンブランド」が宿ります」（http://www.disn.co.jp/spirits/・1回目）
+  - 「MotoGPやF1の1/1000秒を争う世界最高峰レース部品の製造で鍛えられた高品質・短納期・適正コストは現在、モビリティー部品はもちろん、航空宇宙部品・防衛部品・造船部品・半導体部品・真空部品等の様々な分野に付加価値の高い製品を送り出しています」（https://disn.co.jp/spirits/・3回目）
+- 取扱材料：
+  - 「受託加工にとどまらず、チタン削り出しのクラウンやDALI MASK、AERO Pinsなどの自社オリジナルプロダクトを企画・製作しています」（http://www.disn.co.jp/products/・1回目）
+  - 「チタンクラウン 5軸加工動画」（http://www.disn.co.jp/products/・1回目）
+  - 「材質・数量・希望納期を添えてお送りいただくとスムーズです」（http://www.disn.co.jp/products/・1回目）
+  - 「取り扱う材質はアルミニウム合金、鋳鉄を主とし、マグネシウム合金、亜鉛合金、銅合金、鋳鋼などさまざまで、その鋳造法は、生砂、自硬性、自動造型、砂型積層、低圧、簡易金型等、伝統的なものから最先端の技術までアプローチが可能です」（http://www.disn.co.jp/spirits/・1回目）
+  - 「取り扱う材質はアルミニウム合金、鋳鉄を主とし、マグネシウム合金、亜鉛合金、銅合金、鋳鋼などさまざまで、その鋳造法は、生砂、自硬性、自動造型、砂型積層、低圧、簡易金型等、伝統的なものから最先端の技術までアプローチが可能です」（https://disn.co.jp/spirits/・3回目）
+  - 「用途・おおよその形状やサイズ・材質・数量・希望時期が見えた段階でご連絡いただくと、加工・鋳造・品質保証の観点から具体的に検討できます」（https://disn.co.jp/faq/・3回目）
+  - 「ご相談前に整理をお願いしたい情報：用途／おおよその形状・サイズ／想定している材質／数量／希望時期」（https://disn.co.jp/faq/・3回目）
+  - 「ご相談時にあると助かる情報：データ形式（STEPなど）／材質／数量／重要な公差・仕上げの指示」（https://disn.co.jp/faq/・3回目）
+  - 「「図面または3Dデータ・材質・数量・希望納期」の4点があれば、お見積りを開始できます」（https://disn.co.jp/faq/・3回目）
+  - 「ご相談時にあると助かる情報：図面または3Dデータ／材質／希望納期」（https://disn.co.jp/faq/・3回目）
+  - 「形状・材質・検査条件によって変わるため、個別にご相談ください」（https://disn.co.jp/faq/・3回目）
+  - 「アルミニウム合金・チタン・ステンレス・鉄鋼材料など、金属材料全般に対応しています」（https://disn.co.jp/faq/・3回目）
+- 一点物・少量多品種：
+  - 「​二輪・四輪自動車用試作部品・レース部品・航空宇宙部品」（http://www.disn.co.jp/about/・1回目）
+  - 「各種治具製作・機械加工全般・木型製作・アルミニウム合金鋳造・FC/FCD鋳造・各種金属鋳造・試作開発サポート・デザイン開発」（http://www.disn.co.jp/about/・1回目）
+  - 「​「ＤＡＩＳＨＩＮ」の頭文字Ｄに曲線でスピ​ード感・直線で信頼性を表し、強い方向性とシャープなエッジ感を持ったフォルムの中に丸みある柔らかいイメージを調和させ、試作業務には欠かせない柔軟性も同時に表現しています」（http://www.disn.co.jp/about/・1回目）
+  - 「CATIAによるモデリングからCAM、加工までを社内で完結できる体制が、試作開発のスピードを支えています」（http://www.disn.co.jp/products/・1回目）
+  - 「木型・鋳造・切削・測定を一連の流れで管理することで、試作から小ロット量産まで、品質と納期を両立した部品づくりが可能です」（http://www.disn.co.jp/products/・1回目）
+  - 「試作開発や、1個からの単品加工に対応しています」（http://www.disn.co.jp/products/・1回目）
+  - 「パレット自動搬送をはじめとする自動化設備の活用により、試作で確立した品質をそのまま小ロット量産へ展開できることが強みです」（http://www.disn.co.jp/products/・1回目）
+  - 「近年では試作開発だけでなく、自動化の推進により小ロッド量産にも着手し高い技術力の安定供給が始まっております」（http://www.disn.co.jp/spirits/・1回目）
+  - 「その製品は世界最高峰のレース部品から各大手メーカー様の試作開部品、小ロット量産部品として様々な分野で活用されています」（http://www.disn.co.jp/spirits/・1回目）
+  - 「近年では試作開発だけでなく、自動化の推進により小ロッド量産にも着手し高い技術力の安定供給が始まっております」（https://disn.co.jp/spirits/・3回目）
+  - 「その製品は世界最高峰のレース部品から各大手メーカー様の試作開部品、小ロット量産部品として様々な分野で活用されています」（https://disn.co.jp/spirits/・3回目）
+  - 「試作機械加工・試作開発サポート・DDSデザイン開発」（https://www.pref.saitama.lg.jp/robotics/database/0421.html・3回目）
+- 製品分野：
+  - 「​二輪・四輪自動車用試作部品・レース部品・航空宇宙部品」（http://www.disn.co.jp/about/・1回目）
+  - 「防衛部品・船外機部品・半導体部品・真空部品・ロボット部品」（http://www.disn.co.jp/about/・1回目）
+  - 「各種治具製作・機械加工全般・木型製作・アルミニウム合金鋳造・FC/FCD鋳造・各種金属鋳造・試作開発サポート・デザイン開発」（http://www.disn.co.jp/about/・1回目）
+  - 「自動車・コンプレッサー・エンジン部品の製造を行う」（http://www.disn.co.jp/about/・1回目）
+  - 「​​​航空宇宙品質認証規格 JISQ9100取得」（http://www.disn.co.jp/about/・1回目）
+  - 「航空宇宙・防衛分野の品質マネジメント規格 JIS Q 9100:2016 および JIS Q 9001:2015 の認証を取得しています（認証番号 BSKA0244／宇宙部品の製造）」（http://www.disn.co.jp/products/・1回目）
+  - 「MotoGPやF1の1/1000秒を争う世界最高峰レース部品の製造で鍛えられた高品質・短納期・適正コストは現在、モビリティー部品はもちろん、航空宇宙部品・防衛部品・造船部品・半導体部品・真空部品等の様々な分野に付加価値の高い製品を送り出しています」（http://www.disn.co.jp/spirits/・1回目）
+  - 「取り扱う材質はアルミニウム合金、鋳鉄を主とし、マグネシウム合金、亜鉛合金、銅合金、鋳鋼などさまざまで、その鋳造法は、生砂、自硬性、自動造型、砂型積層、低圧、簡易金型等、伝統的なものから最先端の技術までアプローチが可能です」（http://www.disn.co.jp/spirits/・1回目）
+  - 「MILLTAP 700 1 同時５軸 量産ロボット付き」（http://www.disn.co.jp/pdf/equipment.pdf・2回目）
+  - 「多関節ロボット デンソー VM-60B1M-W 1 リーチ：1298㎜ 最大可搬質量：13Kg」（http://www.disn.co.jp/pdf/equipment.pdf・2回目）
+  - 「MotoGPやF1の1/1000秒を争う世界最高峰レース部品の製造で鍛えられた高品質・短納期・適正コストは現在、モビリティー部品はもちろん、航空宇宙部品・防衛部品・造船部品・半導体部品・真空部品等の様々な分野に付加価値の高い製品を送り出しています」（https://disn.co.jp/spirits/・3回目）
+  - 「取り扱う材質はアルミニウム合金、鋳鉄を主とし、マグネシウム合金、亜鉛合金、銅合金、鋳鋼などさまざまで、その鋳造法は、生砂、自硬性、自動造型、砂型積層、低圧、簡易金型等、伝統的なものから最先端の技術までアプローチが可能です」（https://disn.co.jp/spirits/・3回目）
+- AM関連：
+  - 「最新情報はFacebook,Instagram,Youtubeをご覧ください」（http://www.disn.co.jp/・1回目）
+  - 「イタリア、CAM AWARD 日本企業初受賞」（http://www.disn.co.jp/about/・1回目）
+  - 「ドイツ製5軸加工機10台、5軸CAM（hyperMILL）12ライセンスを保有し、同時5軸加工による複雑形状の削り出しを得意としています」（http://www.disn.co.jp/products/・1回目）
+  - 「CATIAによるモデリングからCAM、加工までを社内で完結できる体制が、試作開発のスピードを支えています」（http://www.disn.co.jp/products/・1回目）
+  - 「デザインデータの作成から同時5軸加工による造形まで、意匠性の高い金属製品の開発をお手伝いします」（http://www.disn.co.jp/products/・1回目）
+  - 「多数の高精度マシンをはじめ最新のドイツ製5軸加工機を10台、5軸CAMを12ライセンス保有し、高速レスポンスで従来の機械加工では想像もつかないような高精度で複雑な部品を生産し続けています」（http://www.disn.co.jp/spirits/・1回目）
+  - 「CAD／CAM Dassault CATIA V5 2」（http://www.disn.co.jp/pdf/equipment.pdf・2回目）
+  - 「コンピュータ・エンジニアリング TAM－BOY－NT 1」（http://www.disn.co.jp/pdf/equipment.pdf・2回目）
+  - 「TAM－BOY－3D 2」（http://www.disn.co.jp/pdf/equipment.pdf・2回目）
+  - 「Pathtrace edgeCAM 1」（http://www.disn.co.jp/pdf/equipment.pdf・2回目）
+  - 「DuraMax 1」（http://www.disn.co.jp/pdf/equipment.pdf・2回目）
+  - 「YAMATOKOKl CG－200N 1」（http://www.disn.co.jp/pdf/equipment.pdf・2回目）
+- 連絡先：
+  - 「お問い合わせ前にご一読いただくと、その後のやり取りがスムーズになります」（https://disn.co.jp/faq/・3回目）
+  - 「ご相談の際は、下のボタンから開くメールテンプレートに沿ってご記入ください」（https://disn.co.jp/faq/・3回目）
+  - 「本ページの「メールで相談する」ボタンには、これらの項目を記載したテンプレートが設定されています」（https://disn.co.jp/faq/・3回目）
+  - 「「何を・いつまでに・どのくらい」の3点を、メールでお送りいただくのが最短です」（https://disn.co.jp/faq/・3回目）
+  - 「本ページの「メールで相談する」ボタンから、テンプレートに沿ってご記入ください」（https://disn.co.jp/faq/・3回目）
+- 検索結果の抜粋：
+  - 「Spirits｜想像を創造する モノづくり集団 株式会社 大槇精機 — Spirits｜想像を創造する モノづくり集団 株式会社 大槇精機 disn.co.jp https://disn.co.jp > spirits」（https://disn.co.jp/spirits/・3回目）
+  - 「株式会社 大槇精機 - 埼玉県 — 株式会社 大槇精機 - 埼玉県 埼玉県 https://www.pref.saitama.lg.jp > robotics > database」（https://www.pref.saitama.lg.jp/robotics/database/0421.html・3回目）
+  - 「大槇精機 | 企業情報 | イプロスものづくり — 大槇精機 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 機械要素・部品」（https://mono.ipros.com/company/detail/2008192/・3回目）
+  - 「About｜想像を創造する モノづくり集団 株式 会社大槇精機 — About｜想像を創造する モノづくり集団 株式 会社大槇精機 disn.co.jp https://disn.co.jp > about」（https://disn.co.jp/about/・3回目）
+  - 「株式 会社大槇精機 - 埼玉県 — 株式 会社大槇精機 - 埼玉県 埼玉県 https://www.pref.saitama.lg.jp > robotics > database」（https://www.pref.saitama.lg.jp/robotics/database/0421.html・3回目）
+  - 「株式会社 大槇精機 の 会社概要 ・製品情報 - Metoree — 株式会社 大槇精機 の 会社概要 ・製品情報 - Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/8017/・3回目）
+  - 「【株式 会社大槇精機 】の採用サイト — 【株式 会社大槇精機 】の採用サイト arwrk.net https://arwrk.net > recruit」（https://arwrk.net/recruit/vrl5i0t6quj9z6v/・3回目）
+  - 「よくあるご相談・Q&A｜5軸加工・鋳造・試作開発 ... - 大槇精機 — よくあるご相談・Q&A｜5軸加工・鋳造・試作開発 ... - 大槇精機 disn.co.jp https://disn.co.jp > faq」（https://disn.co.jp/faq/・3回目）
+  - 「株式会社 大槇精機 への お問い合わせ - NCネットワーク — 株式会社 大槇精機 への お問い合わせ - NCネットワーク エミダス https://ja.nc-net.or.jp > company > inquiry > input」（https://ja.nc-net.or.jp/company/85583/inquiry/input/・3回目）
+  - 「株式会社 大槇精機 | 医療機器開発のパートナーが探せるサイト ... — 株式会社 大槇精機 | 医療機器開発のパートナーが探せるサイト ... tokyo-monodukuri-seeds.jp https://tokyo-monodukuri-seeds.jp > corporate」（https://tokyo-monodukuri-seeds.jp/corporate/153・3回目）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像13件／外部16頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像13件／外部16頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式4頁／PDF・画像13件／外部16頁・検索9回）
 
 ## 株式会社太陽光機
 - 公式URL：http://www.taiyokoki.co.jp（given）
@@ -10908,6 +14152,83 @@ FAX.0256-57-3581（https://www.mrkt.co.jp/companyinfo/・1回目）
   - 「お問い合わせ - 株式会社山岸製作所|群馬金属加工 — 各種お問合わせは、下記までお願いします。 〒370-0081 群馬県高崎市浜川町590-23（浜川工業団地内） Tel. 027-360-4100 (代) Fax 027-344-5855 *お電話でのお問い合わせは平日17時までとなっております。」（https://www.yamagishi-ss.com/お問合わせ/・3回目）
 - 売上高：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部22頁・検索9回）
 
+## 株式会社川邑研究所
+- 公式URL：https://www.defric.com（given）
+- 所在地：〒153-0063 東京都目黒区目黒1-5-6（https://www.defric.com/business.html・1回目）
+- 所在地：153-0063 東京都目黒区目黒1-5-6（https://www.juntsu.co.jp/kaishabox/5002.php・3回目）
+- 所在地：※必須（https://www.juntsu.co.jp/kaishabox/5002.php・3回目）
+- 事業内容：固体潤滑剤及び特殊機能塗料の開発、製造、販売（https://www.defric.com/business.html・1回目）
+- 代表者：川邑 正広（https://www.defric.com/business.html・1回目）
+- 代表者：03-3495-2121（https://www.defric.com/business.html・1回目）
+- 代表者：代表取締役社長　川邑　正広（https://www.juntsu.co.jp/kaishabox/5002.php・3回目）
+- 従業員数：50名（https://mono.ipros.com/company/detail/2044166/・3回目）
+- 取引先：・ 日本パーカライジング株式会社 ・ 旭千代田工業株式会社 ・パーカープロセッシング株式会社（https://www.defric.com/business.html・1回目）
+- 取引先：自動車会社・部品メーカー
+重工関連
+電機メーカー
+航空宇宙分野
+光学機器メーカー
+半導体関連メーカー
+など (順不同・敬称略)（https://mono.ipros.com/company/detail/2044166/・3回目）
+- 拠点：目黒本社 京浜工場 羽田工場（https://www.defric.com/business.html・1回目）
+- 取扱製品：
+  - 「この度、新規にカーボン系導電塗料シリーズをラインナップしました」（https://www.defric.com/・1回目）
+  - 「＜新製品＞PFASフリー シリコーン系非粘着性塗料SLCシリーズのご紹介」（https://www.defric.com/・1回目）
+  - 「現在は固体潤滑塗料の研究に重点を置き、自社開発の固体潤滑塗料「デフリック」の製品販売、並びに各種コンサルティング業務を行っています」（https://www.defric.com/・1回目）
+  - 「また、お客様のニーズに合わせたオリジナル潤滑塗料の開発、既存製品のカスタマイズ、トラブルの原因究明など、高い技術力で問題を解決いたします」（https://www.defric.com/・1回目）
+  - 「＜新製品＞PFASフリー シリコーン系非粘着性塗料SLCシリーズのご紹介」（https://www.defric.com/media/products・1回目）
+  - 「製品一覧 (12)」（https://www.defric.com/media/products・1回目）
+  - 「潤滑剤としての性能を最大限に引き出すことで、日常の身の回りの部品から専門業界の用途に至るまで、私たちの製品は幅広い分野に適応することが可能となっています」（https://www.defric.com/business.html・1回目）
+  - 「私たちは自動車、船舶、航空機、発電所、カメラなど、多岐にわたる業界と協力を深め、70年以上の製品開発の歴史を有しています」（https://www.defric.com/business.html・1回目）
+  - 「固体潤滑塗料の研究開発に重点を置き、独自の優れた製品の開発に成功」（https://www.defric.com/business.html・1回目）
+  - 「現在は固体潤滑塗料を中心とした潤滑の研究及び固体潤滑塗料「デフリック」の製品販売ならびに各種コンサルティング業務を行う」（https://www.defric.com/business.html・1回目）
+  - 「＜新製品＞PFASフリー シリコーン系非粘着性塗料SLCシリーズのご紹介 │ ｜株式会社川邑研究所」（https://www.defric.com/media/info/i-productdetail/a55・1回目）
+  - 「＜新製品＞PFASフリー シリコーン系非粘着性塗料SLCシリーズのご紹介」（https://www.defric.com/media/info/i-productdetail/a55・1回目）
+- 取扱材料：
+  - 「受託分散サービスのご案内 高度な分散技術によるCNT分散 反応性樹脂における高濃度分散技術 無機粒子...」（https://www.defric.com/・1回目）
+  - 「シリコーン樹脂は、その独特な化学構造により非粘着性を発現します」（https://www.defric.com/media/info/i-productdetail/a55・1回目）
+  - 「シリコーン樹脂の主成分であるシロキサン結合（」（https://www.defric.com/media/info/i-productdetail/a55・1回目）
+  - 「この特性により、シリコーン樹脂は非粘着性を持つ塗料として広く利用されています」（https://www.defric.com/media/info/i-productdetail/a55・1回目）
+  - 「は、シリコーン系樹脂を主成分とした塗料です」（https://www.defric.com/media/info/i-productdetail/a55・1回目）
+  - 「は、シリコーン樹脂を主成分とした乾燥するだけで使用可能な非粘着塗料です」（https://www.defric.com/media/info/i-productdetail/a55・1回目）
+  - 「は、シリコーン樹脂を主成分とした非粘着塗料です」（https://www.defric.com/media/info/i-productdetail/a55・1回目）
+  - 「樹脂基材の種類、塗布方法、焼成条件、などに応じて、最適なグレードを選定いただけます」（https://www.defric.com/media/info/i-productdetail/a56・1回目）
+  - 「私たちの革新的な技術は、反応性希釈剤、反応性樹脂中での高濃度ナノシリカ粒子の分散にも応用されています」（https://www.defric.com/media/info/i-fundamental/a52・1回目）
+  - 「従来の方法（下写真右）では、高いせん断力や衝撃を加える必要があり、その結果、分散の安定性が低下し、樹脂の反応や劣化を引き起こすことが多く、高濃度分散の妨げとなっていました」（https://www.defric.com/media/info/i-fundamental/a52・1回目）
+  - 「無機粒子分散液と樹脂の混合においても、私たちの技術はその真価を発揮します」（https://www.defric.com/media/info/i-fundamental/a52・1回目）
+  - 「一般的に、粒子（特にナノ粒子）分散液は樹脂と均一に混合されず、結果として光学特性の劣化やアッベ数の低下を引き起こします」（https://www.defric.com/media/info/i-fundamental/a52・1回目）
+- 一点物・少量多品種：
+  - 「もちろん、小ロットからの対応も可能です」（https://www.city.meguro.tokyo.jp/sangyoukeizai/shigoto/sangyou/202510.html・3回目）
+- 製品分野：
+  - 「#自動車 (9)」（https://www.defric.com/media/products・1回目）
+  - 「#航空宇宙・半導体 (2)」（https://www.defric.com/media/products・1回目）
+  - 「宇宙をも舞台に、開発を進めています」（https://www.defric.com/business.html・1回目）
+  - 「私たちは自動車、船舶、航空機、発電所、カメラなど、多岐にわたる業界と協力を深め、70年以上の製品開発の歴史を有しています」（https://www.defric.com/business.html・1回目）
+  - 「特に注目すべきは、宇宙開発という最先端技術の領域での実績です」（https://www.defric.com/business.html・1回目）
+  - 「凍結防止 橋梁、道路、航空機の翼に適用することで、冬季の凍結防止や解氷に使用できます」（https://www.defric.com/media/info/i-productdetail/a54・1回目）
+  - 「自動車 シートヒーターやステアリングヒーターに適用することで快適な運転をサポートすることができます」（https://www.defric.com/media/info/i-productdetail/a54・1回目）
+  - 「1987年 防衛庁の認定工場になる」（https://www.juntsu.co.jp/kaishabox/5002.php・3回目）
+  - 「」（デフリック）の開発製造販売を行っている会社で、実は宇宙開発にも密接に関係している革新的な企業です」（https://www.city.meguro.tokyo.jp/sangyoukeizai/shigoto/sangyou/202510.html・3回目）
+  - 「これまでにH-II（H2）ロケットや惑星探査機「はやぶさ」などの機体を製造する際に「DEFRIC」（https://www.city.meguro.tokyo.jp/sangyoukeizai/shigoto/sangyou/202510.html・3回目）
+  - 「」が採用され、現在もJAXAやNASAをはじめとする宇宙開発機構から宇宙用のコーティング剤の開発依頼を受けています」（https://www.city.meguro.tokyo.jp/sangyoukeizai/shigoto/sangyou/202510.html・3回目）
+  - 「例えば、「はやぶさ」のような探査機では、宇宙空間にさらされる翼などの駆動部があります」（https://www.city.meguro.tokyo.jp/sangyoukeizai/shigoto/sangyou/202510.html・3回目）
+- AM関連：
+  - 「KAWAMURA RESEARCH. LAB., INC.」（https://www.juntsu.co.jp/kaishabox/5002.php・3回目）
+- 検索結果の抜粋：
+  - 「川邑研究所 — 川邑研究所 川邑研究所 https://www.defric.com」（https://www.defric.com/・3回目）
+  - 「川邑研究所 | 企業情報 | イプロスものづくり — 川邑研究所 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > その他製造」（https://mono.ipros.com/company/detail/2044166/・3回目）
+  - 「川邑研究所 | 固体潤滑剤の研究，製造販売など — 川邑研究所 | 固体潤滑剤の研究，製造販売など ジュンツウネット21 https://www.juntsu.co.jp > kaishabox」（https://www.juntsu.co.jp/kaishabox/5002.php・3回目）
+  - 「株式会社 川邑研究所 京浜工場 - 東糀谷工場会 — 株式会社 川邑研究所 京浜工場 - 東糀谷工場会 東糀谷工場会 https://www.higashikoujiya.net > detail」（https://www.higashikoujiya.net/detail.php?no=34・3回目）
+  - 「企業 情報 ｜株式 会社川邑研究所 — 企業 情報 ｜株式 会社川邑研究所 川邑研究所 https://www.defric.com > business」（https://www.defric.com/business.html・3回目）
+  - 「川邑研究所 | 企業 情報 | イプロスものづくり — 川邑研究所 | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > その他製造」（https://mono.ipros.com/company/detail/2044166/・3回目）
+  - 「活気ある 事業 所をご紹介します「株式 会社川邑研究所 」 - 目黒区 — 活気ある 事業 所をご紹介します「株式 会社川邑研究所 」 - 目黒区 目黒区 https://www.city.meguro.tokyo.jp > shigoto > sangyou」（https://www.city.meguro.tokyo.jp/sangyoukeizai/shigoto/sangyou/202510.html・3回目）
+  - 「株式 会社 川邑研究所 - 東京カイシャハッケン伝 — 株式 会社 川邑研究所 - 東京カイシャハッケン伝 東京カイシャハッケン伝 https://www.kaisyahakken.metro.tokyo.lg.jp > kawamura」（https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kawamura/・3回目）
+  - 「株式 会社川邑研究所 - Metoree — 株式 会社川邑研究所 - Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/53596/・3回目）
+  - 「お問い合わせ ｜株式会社 川邑研究所 — お問い合わせ ｜株式会社 川邑研究所 川邑研究所 https://www.defric.com > contact」（https://www.defric.com/contact.html・3回目）
+  - 「活気ある事業所をご紹介します「株式会社 川邑研究所 」 - 目黒区 — 活気ある事業所をご紹介します「株式会社 川邑研究所 」 - 目黒区 目黒区 https://www.city.meguro.tokyo.jp > shigoto > sangyou」（https://www.city.meguro.tokyo.jp/sangyoukeizai/shigoto/sangyou/202510.html・3回目）
+- 売上高：記載なし（3回確認済み：公式9頁／PDF・画像2件／外部7頁・検索9回）
+- 連絡先：記載なし（3回確認済み：公式9頁／PDF・画像2件／外部7頁・検索9回）
+
 ## 株式会社市川鉄工
 - 公式URL：http://www.ichikawa-jp.com（given）
 - 所在地：〒379-2312　群馬県みどり市笠懸町久宮364-1 TEL 0277-77-1050（代）　FAX 0277-77-1055（http://www.ichikawa-jp.com/profile.html・1回目）
@@ -11191,6 +14512,77 @@ FAX.0256-57-3581（https://www.mrkt.co.jp/companyinfo/・1回目）
 - 一点物・少量多品種：記載なし（3回確認済み：公式5頁／PDF・画像3件／外部10頁・検索9回）
 - AM関連：記載なし（3回確認済み：公式5頁／PDF・画像3件／外部10頁・検索9回）
 
+## 株式会社恵那金属製作所
+- 公式URL：https://enakin.com（given）
+- 所在地：〒508-0023　岐阜県中津川市小川町2番18号（https://enakin.com/company/・1回目）
+- 所在地：〒508-0111　岐阜県中津川市瀬戸1389番地（https://enakin.com/company/・1回目）
+- 所在地：〒508-0101 岐阜県中津川市苗木4594（https://enakin.com/company/・1回目）
+- 事業内容：機械加工 表面処理 不動産賃貸（https://enakin.com/company/・1回目）
+- 事業内容：表面処理（https://enakin.com/company/・1回目）
+- 事業内容：機械加工（https://enakin.com/company/・1回目）
+- 代表者：市岡 真二（https://enakin.com/company/・1回目）
+- 代表者：代表取締役社長 吉村裕（https://www.atengineer.com/pr/enakin/company・3回目）
+- 従業員数：200名（国内：120名、海外：80名）（https://enakin.com/company/・1回目）
+- 従業員数：5名（https://enakin.com/company/・1回目）
+- 従業員数：15名（https://enakin.com/company/・1回目）
+- 拠点：4,000㎡（https://enakin.com/company/・1回目）
+- 拠点：13,000㎡（https://enakin.com/company/・1回目）
+- 拠点：6,849㎡（https://enakin.com/company/・1回目）
+- 取扱製品：
+  - 「「挑戦する心」と「確かな品質」を大切に、信頼されるパートナーとして、価値ある製品とサービスをお届けし続けます」（https://enakin.com/・1回目）
+  - 「特に、難削材や複雑形状の製品を得意としており、1997年に難削材の加工を開始して以来、長年の経験と実績を基に、現在では世界トップクラスの技術力を誇っています」（https://enakin.com/company/・1回目）
+  - 「また、工程設計や治工具の設計・製作を担う専門技術チームを社内に擁し、新規製品の生産準備や改善活動を迅速に進める体制を整えています」（https://enakin.com/company/・1回目）
+  - 「表面処理部門では、楽器や家電製品の装飾を目的とした表面処理や、精密計測器の性能向上を目的とした表面処理を得意としています」（https://enakin.com/company/・1回目）
+  - 「これらの部品は製品品質に直結するため、非常に厳しい要求基準が課され、わずかな傷や曇り、ばらつきも許されません」（https://enakin.com/company/・1回目）
+  - 「高恵金属製品（深圳）有限公司、中津川香港有限公司を清算」（https://enakin.com/company/・1回目）
+  - 「また、社内で治工具の設計・製作を一貫して行うことで、新規製品の立ち上げを迅速に実現」（https://enakin.com/business/machining/・1回目）
+  - 「機械加工部門では、自動車のターボチャージャーに使用されるタービンハウジングの加工を手掛けており、難削材や複雑形状の製品の量産加工を得意としています」（https://enakin.com/business/machining/・1回目）
+  - 「ミクロン単位の精度が求められる製品を全員で協力してつくり上げるため、指導を通じて現場を円滑に稼働させるのが私の役割です」（https://enakin.com/recruit/・1回目）
+  - 「現場作業者や加工プログラムと日々向き合い、製品が図面通りに仕上がったときの達成感は格別です」（https://enakin.com/recruit/・1回目）
+  - 「製品の仕上げや、より良い作業方法の検討に取り組みます」（https://enakin.com/recruit/・1回目）
+  - 「私は品質管理課で製品の寸法測定を担当しています」（https://enakin.com/recruit/・1回目）
+- 取扱材料：
+  - 「材質は、FC、FCD、FCVのほか、二レジスト、ステンレス鋳鋼、ロストワックス鋳造品にも対応しており、調達品は江蘇省にある子会社の「恵那金属(昆山)有限公司」で徹底した検査・品質管理を行い輸出するため、日本と同等の品質を保証しています」（https://enakin.com/business/machining/・1回目）
+- 一点物・少量多品種：
+  - 「短納期が求められる試作段階では、5軸加工機や複合加工機を活用し、量産段階での対応にはセル生産方式に切り替えることで、柔軟かつ最適な生産体制を構築しています」（https://enakin.com/business/machining/・1回目）
+  - 「生産数が少なく短納期の試作には、5軸加工機や複合加工機を活用した工程集約型の生産を行い、生産数の多い量産には、NC旋盤やマシニングセンタ、NC円テーブルを組み合わせた工程分散型のセル生産を採用しています」（https://enakin.com/business/machining/・1回目）
+  - 「機械加工部門では、中国内15社以上の鋳物会社および加工会社と、小ロットから大量生産品まで幅広く調達可能なサプライチェーンを構築しています」（https://enakin.com/business/machining/・1回目）
+  - 「装飾目的から機能目的まで多品種小ロットに対応」（https://mono.ipros.com/product/detail/2000637713/・3回目）
+  - 「めっきまでのワンストップ対応、多品種小ロット対応」（https://mono.ipros.com/product/detail/2000637713/・3回目）
+  - 「当社には「手動めっきライン」という、多品種小ロット対応を目的とした表面処理設備を保有しています」（https://mono.ipros.com/product/detail/2000637713/・3回目）
+  - 「■困った時の駆け込み寺、量産・試作共にスピーディな生産対応」（https://mono.ipros.com/product/detail/2000637713/・3回目）
+  - 「また、試作と量産、異なるコンセプトの生産設備により、1個の試作から月産数万個の量産まで、お客様の多彩なニーズに対応することが可能です」（https://mono.ipros.com/product/detail/2000637713/・3回目）
+  - 「工法転換｜溶接・組立品をアルミ鋳物で一体化 1個から試作」（https://mono.ipros.com/product/detail/2000637713/・3回目）
+  - 「装飾目的から機能目的まで多品種小ロットに対応」（https://mono.ipros.com/company/detail/2004296/category/・3回目）
+  - 「めっきまでのワンストップ対応、多品種小ロット対応」（https://mono.ipros.com/company/detail/2004296/category/・3回目）
+  - 「試作、量産に対応しています」（https://xtox.co.jp/kakouba/company/38780bc9e5/・3回目）
+- 製品分野：
+  - 「機械加工部門では、主に自動車用ターボチャージャーに使用されるタービンハウジングの加工を手がけています」（https://enakin.com/company/・1回目）
+  - 「機械加工部門では、自動車のターボチャージャーに使用されるタービンハウジングの加工を手掛けており、難削材や複雑形状の製品の量産加工を得意としています」（https://enakin.com/business/machining/・1回目）
+  - 「当社では長年にわたり、自動車業界の厳しい品質マネジメント要求に応え、高品質かつ低コストなモノづくりを実現してきました」（https://enakin.com/business/machining/・1回目）
+  - 「その証として、一般的な品質管理規格「ISO 9001」よりも厳しい要求を持つ、自動車業界特化の品質マネジメントシステム「IATF 16949」を取得しています」（https://enakin.com/business/machining/・1回目）
+  - 「IATF 16949は、自動車業界に特化した品質マネジメントシステムの国際規格であり、世界中の自動車メーカーやサプライヤーが信頼する品質保証の基準です」（https://enakin.com/business/machining/・1回目）
+  - 「これは、ISO9001をベースに、自動車業界ならではの厳しい要求が追加された規格で、高品質なモノづくりを支えるために不可欠な存在です」（https://enakin.com/business/machining/・1回目）
+  - 「機械加工エンジニアとして工作機械又は産業用ロボットを用いた製品の製造に携わっていただきます」（https://enakin.com/recruit/・1回目）
+  - 「「変更範囲※適性を見て加工プログラム作成や加工治具製作、現場管理を行う 可能性があります」（https://enakin.com/recruit/・1回目）
+  - 「線材（ワイヤー）製品は、金型製作から、切断、溶接、」（https://mono.ipros.com/product/detail/2000637713/・3回目）
+  - 「ワイヤー製品については、製品図面さえあれば、金型、溶接治具の製作から、切断、溶接、めっきまでワンストップで対応することができます」（https://mono.ipros.com/product/detail/2000637713/・3回目）
+  - 「暖房器部品、測定器部品、楽器部品、自動車部品、工作機械部品、産業機器部品など対応」（https://mono.ipros.com/product/detail/2000637713/・3回目）
+  - 「自動車業界に特化した品質マネジメントシステムの国際規格「IATF16949」を認証取得」（https://mono.ipros.com/product/detail/2000637713/・3回目）
+- 連絡先：
+  - 「夜勤担当からの情報を受け取り、メールを確認します」（https://enakin.com/recruit/・1回目）
+  - 「前日に届いたメールの内容を確認して返信を行います」（https://enakin.com/recruit/・1回目）
+- 検索結果の抜粋：
+  - 「金属部品の表面処理 恵那金属製作所 | イプロスものづくり — 創業1946年「積み重ねてきた経験と技術」 困った時の駆け込み寺、量産・試作共にスピーディな生産対応 工程設計、治工具の設計･製作が行える技術チームを有しているため、新規品の生産準備をスピーディに行う事が可能です。また、試作と量産、異なるコンセプトの生産設備により、1個の ...」（https://mono.ipros.com/product/detail/2000637713/・3回目）
+  - 「恵那金属製作所の製品・サービス一覧｜イプロスものづくり — Jan 17, 2022 · 創業1946年「積み重ねてきた経験と技術」 困った時の駆け込み寺、量産・試作共にスピーディな生産対応 工程設計、治工具の設計･製作が行える技術チームを有しているため、新規品の生産準備をスピーディに行う事が可能です。」（https://mono.ipros.com/company/detail/2004296/category/・3回目）
+  - 「株式会社恵那金属製作所 - 会社概要 — 企業プロフィール 企業名 株式会社恵那金属製作所 企業名かな えなきんぞくせいさくしょ 住所 〒508-0023 岐阜県中津川市小川町2番18号 代表者名 代表取締役社長 吉村裕 ホームページ 株式会社恵那金属製作所のホームページ」（https://www.atengineer.com/pr/enakin/company・3回目）
+  - 「株式会社恵那金属製作所｜岐阜県中津川市の切削会社｜カコウバ — 株式会社恵那金属製作所の概要 岐阜県中津川市に本社を置く、鋳造、切削加工、治具・工具製作の会社です。 扱う材料は難削材、鋳鉄、ステンレス、アルミです。 試作、量産に対応しています。 1946年の設立で、従業員は120人です。」（https://xtox.co.jp/kakouba/company/38780bc9e5/・3回目）
+  - 「株式会社 恵那金属製作所 岐阜県 中津川市 — Jun 21, 2023 · PRコメント 鋳鋼、鋳鉄、チタン、アルミダイカスト等を素材とする自動車・電機等の各種部品の切削加工を行っています。主要製品の車両用ターボチャージャー部品のタービンハウジングについては、難易度の高い材質および形状の量産技術を確立し、業界ではトップレベルの加工技術を保有し ...」（https://ja.nc-net.or.jp/company/21090/・3回目）
+  - 「株式会社恵那金属製作所の会社概要・製品情報 | Metoree — お客様からメーカーに対して問い合わせ・見積もりを行うと、内容がメーカーに通知されます。 メーカーの対応が遅い場合、メトリーがお客様に代わって催促のメール・電話を実施します。」（https://metoree.com/companies/66215/・3回目）
+- 売上高：記載なし（3回確認済み：公式7頁／PDF・画像3件／外部16頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式7頁／PDF・画像3件／外部16頁・検索9回）
+- AM関連：記載なし（3回確認済み：公式7頁／PDF・画像3件／外部16頁・検索9回）
+
 ## 株式会社日新化成 本社
 - 公式URL：http://nissinkasei.co.jp（given）
 - 所在地：本社・工場 〒331-0046 埼玉県さいたま市西区宮前町821番地 TEL.048-624-8450(代) FAX.048-624-8404 宮城第一工場 〒989-4305 宮城県大崎市田尻小塩字坂下5番地 TEL.0229-38-2411(代) FAX.0229-38-2412 宮城第二工場 〒989-4308 宮城県大崎市田尻沼部字新富岡39-1番地 秋田工場 〒014-0113 秋田県大仙市堀見内字下田茂木114番地 TEL.0187-73-5650(代) FAX.0187-73-6066（https://www.nissinkasei.co.jp/company/・1回目）
@@ -11370,6 +14762,69 @@ FAX.0256-57-3581（https://www.mrkt.co.jp/companyinfo/・1回目）
 - AM関連：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索9回）
 - 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索9回）
 
+## 株式会社昭和製作所(東京・栃木)
+- 公式URL：http://www.showa-ss.jp（given）
+- 所在地：本社/本社工場 〒143-0015 東京都大田区大森西2-17-8（ 所在地 ）（https://showa-ss.jp/company/・1回目）
+- 事業内容：材料試験片（https://showa-ss.jp/company/・1回目）
+- 代表者：舟久保 利和（https://showa-ss.jp/company/・1回目）
+- 取引先：自動車関連企業（https://showa-ss.jp/company/・1回目）
+- 取扱製品：
+  - 「今後もお客様に御満足して頂ける製品を提供し、社会に貢献できる様努めてまいります」（https://www.showaseisakusho.co.jp/company/・3回目）
+  - 「私たちは、製品のひとつひとつに誠意と技術を込め、」（https://syowa-ss.co.jp/yk/Inquiry_Form.htm・3回目）
+  - 「製品の仕様やご希望納期、数量などについて、担当者が丁寧にヒアリングさせていただきます」（https://syowa-ss.co.jp/yk/Inquiry_Form.htm・3回目）
+  - 「自動車シートだとゲージを当てながら微調整したり、航空機向けの製品の場合は3次元測定機も使いながら加工していくので、」（https://note.com/monojirei/n/nb672f704abfe・3回目）
+- 一点物・少量多品種：
+  - 「株式会社昭和製作所 試験片(テストピース)や試作・冶具製作メーカー」（https://showa-ss.jp/・1回目）
+  - 「加工事例 – 株式会社昭和製作所 試験片(テストピース)や試作・冶具製作メーカー」（https://showa-ss.jp/works/・1回目）
+  - 「アルミニウム合金の試験片、治具、試作等の加工 -加工実績材料...」（https://showa-ss.jp/works/・1回目）
+  - 「会社概要 – 株式会社昭和製作所 試験片(テストピース)や試作・冶具製作メーカー」（https://showa-ss.jp/company/・1回目）
+  - 「金属材料を中心として、材料試験片・超音波探傷用試験片・試作部品等を作り続けて参りました」（https://showa-ss.jp/company/・1回目）
+  - 「お問い合わせはこちら – 株式会社昭和製作所 試験片(テストピース)や試作・冶具製作メーカー」（https://showa-ss.jp/enquiry/・1回目）
+  - 「材料試験片、超音波深傷用試験片、試作部品・部品・治具等の」（https://showa-ss.jp/enquiry/・1回目）
+  - 「採用情報 – 株式会社昭和製作所 試験片(テストピース)や試作・冶具製作メーカー」（https://showa-ss.jp/recruit/・1回目）
+  - 「試験片・試作・冶具・加工/製作｜株式会社昭和製作所」（http://showa1952.xsrv.jp/wp/・3回目）
+  - 「ご提示したお見積もりをもとに、価格や納期、試作品の製作可否などについて、最終的な打ち合わせを行います」（https://syowa-ss.co.jp/yk/Inquiry_Form.htm・3回目）
+  - 「可能な場合は、量産に先立って試作品の製作も承ります」（https://syowa-ss.co.jp/yk/Inquiry_Form.htm・3回目）
+  - 「試作品や初品のご確認で問題がなければ、量産に移行いたします」（https://syowa-ss.co.jp/yk/Inquiry_Form.htm・3回目）
+- 製品分野：
+  - 「アルミニウム合金の試験片、治具、試作等の加工 -加工実績材料...」（https://showa-ss.jp/works/・1回目）
+  - 「株式会社昭和製作所はJISＱ9100（航空・宇宙・防衛品質マネジメント規格）の認証を取得しました」（https://showa-ss.jp/company/・1回目）
+  - 「JISＱ9100は、航空宇宙防衛産業における特有の要求事項をISO9001に追加した品質マネジメント規格です」（https://showa-ss.jp/company/・1回目）
+  - 「材料試験片、超音波深傷用試験片、試作部品・部品・治具等の」（https://showa-ss.jp/enquiry/・1回目）
+  - 「お伺いした内容をもとに、製造工程、使用治具、検査方法、運搬手段などを含めた詳細なお見積もりを作成いたします」（https://syowa-ss.co.jp/yk/Inquiry_Form.htm・3回目）
+  - 「今回は自動車シートの木型などを製造されている」（https://note.com/monojirei/n/nb672f704abfe・3回目）
+  - 「自動車シートだとゲージを当てながら微調整したり、航空機向けの製品の場合は3次元測定機も使いながら加工していくので、」（https://note.com/monojirei/n/nb672f704abfe・3回目）
+  - 「金型メーカーさんなのですが、自分たちの工程だけでも成り立たないし、資金も分担すれば進出しやすい」（https://note.com/monojirei/n/nb672f704abfe・3回目）
+  - 「たとえばタイだと、自動車シートの分野で弊社と競合になる企業が既にいて参入しづらかったんです」（https://note.com/monojirei/n/nb672f704abfe・3回目）
+  - 「インドネシアだけで行っている自動車内部のカーペット型製造はどういったきっかけ」（https://note.com/monojirei/n/nb672f704abfe・3回目）
+  - 「一緒にインドネシアに進出した金型メーカーさんの協力もあり、事業として成り立つ形になりました」（https://note.com/monojirei/n/nb672f704abfe・3回目）
+  - 「「日本ではお付き合いのなかった自動車メーカーと、」（https://note.com/monojirei/n/nb672f704abfe・3回目）
+- 連絡先：
+  - 「お問い合わせはこちら – 株式会社昭和製作所 試験片(テストピース)や試作・冶具製作メーカー」（https://showa-ss.jp/enquiry/・1回目）
+  - 「お問い合わせ｜鏡板製造の株式会社昭和製作所」（https://www.showa-ss.co.jp/contact.html・3回目）
+  - 「お問い合わせ内容によりましては、回答に時間がかかる場合がございます」（https://www.showa-ss.co.jp/contact.html・3回目）
+  - 「また、お客さまからいただいたEメールアドレスが違っている場合や、システム障害などによりお返事できない場合がございます」（https://www.showa-ss.co.jp/contact.html・3回目）
+  - 「業務に関するお問い合わせは、電話またはメールにてお願いいたします」（https://syowa-ss.co.jp/yk/Inquiry_Form.htm・3回目）
+  - 「なお、弊社の休日を含む電話対応時間外は、メールでご連絡くださいますようお願い申し上げます」（https://syowa-ss.co.jp/yk/Inquiry_Form.htm・3回目）
+  - 「つい最近も大手電機メーカーから直接お問い合わせがありました」（https://note.com/monojirei/n/nb672f704abfe・3回目）
+- 検索結果の抜粋：
+  - 「株式会社昭和製作所 試験片 (テストピース)や試作・冶具製作メーカー — 昭和製作所は試験片 (テストピース)の製造・加工を最高品質と短納期でご提供。 鉄鋼（超耐熱鋼を含む）・非鉄金属だけでなく難削材やセラミック・プラスチックも含む全工業材料で試験片（テストピース）の製造加工と試作品、治具の製造が可能です。」（https://showa-ss.jp/・3回目）
+  - 「会社概要 – 株式会社昭和製作所 試験片 (テストピース)や試作・冶具製... — ものづくり分野の発展に貢献するため、昭和製作所では地域の学生や子供達の工場見学を受け入れてきました。 様々な企業がある中で、大田区の製造業の現場を見学する事によって、将来、学生や子供達が職業を選ぶ際の検討材料となればと考えております。」（https://showa-ss.jp/company/・3回目）
+  - 「試験片・試作・冶具・加工/製作｜株式会社昭和製作所 — 昭和製作所は試験片（材料試験片・超音波探傷用試験片）の製造・加工を最高品質と納期でご提供。 鉄鋼（超耐熱鋼を含む）・非鉄金属だけでなく難削材やセラミック・プラスチックも含む全工業材料で試験片（テストピース）の製造加工と試作品、治具の製造が可能です。」（http://showa1952.xsrv.jp/wp/・3回目）
+  - 「昭和製作所 (東京・栃木)のカタログ一覧 | イプロス — 昭和製作所 (東京・栃木)のカタログ一覧です。 無料でダウンロードできます。 昭和製作所 (東京・栃木)は、材料試験片と精密機械加工全般に関するプロフェッショナル集団です！」（https://www.ipros.com/company/detail/2051257/catalog/・3回目）
+  - 「会社概要 ｜ 佐瀬式吟醸搾り機 大吟醸酒の酒搾り機械は昭和製作所 — 会社概要 社名 株式会社 昭和製作所 所在地 〒321-0905 栃木県宇都宮市平出工業団地38-8 創立 大正8年3月 資本金 2,000万円 事業内容 佐瀬式圧搾濾過機、佐瀬式吟醸用搾り機、その他油圧装置の製造・販売・メンテナンス・産業用機械部品加工・鉄及び非鉄の板金 ...」（https://showa-saseshiki.com/company/・3回目）
+  - 「会社概要 | 株式会社昭和製作所株式会社昭和製作所 試験片 (テストピース)や試作・冶具製作メーカー会社概要 | 試験片・試作・冶具・加工/製作｜株式会社昭和製作所会社案内｜銅配管・銅管組成加工品の設計・製造会社概要｜企業情報｜昭和 ... - 昭和株式会社 — スプリングメーカーとして、時代の変化に対応し、お客様の御要望に柔軟に対応すべく技術を磨き、事業を拡大してきました。 おかげさまで創立80周年を迎えることができました。 昭和製作所は試験片 (テストピース)の製造・加工を最高品質と短納期でご提供。 鉄鋼（超耐熱鋼を含む）・非鉄金属だけでなく難削材やセラミック・プラスチックも含む全工業材料で試験片（テストピース）の製造加工と試作品、治具の製造が可能です。 ものづくり分野の発展に貢献するため、昭和製作所では地域の学生や子供達の工場見学を受け入れてきました。 様々な企業がある中で、大田区の」（https://www.showaseisakusho.co.jp/company/・3回目）
+  - 「会社概要 | 試験片・試作・冶具・加工/製作｜株式会社昭和製作所 — ものづくり分野の発展に貢献するため、昭和製作所では地域の学生や子供達の工場見学を受け入れてきました。 様々な企業がある中で、大田区の製造業の現場を見学する事によって、将来、学生や子供達が職業を選ぶ際の検討材料となればと考えております。」（http://showa1952.xsrv.jp/wp/company・3回目）
+  - 「お問い合わせ｜鏡板製造の株式会社昭和製作所 — お問い合わせありがとうございます。 ご質問やお問い合わせは下記メールフォームかお電話・FAXでお気軽にお問い合わせ下さい。 お問い合わせ内容によりましては、回答に時間がかかる場合がございます。」（https://www.showa-ss.co.jp/contact.html・3回目）
+  - 「お問い合わせ – ㈱昭和製作所 — お名前 (必須) 貴社名 メールアドレス (必須) お電話番号 ご相談の種類」（https://www.showaseisakusho.com/?page_id=69・3回目）
+  - 「昭和製作所：お問合せ — 連絡先 業務に関するお問い合わせは、電話またはメールにてお願いいたします。 なお、弊社の休日を含む電話対応時間外は、メールでご連絡くださいますようお願い申し上げます。 確認でき次第、折り返しご連絡いたします。 電話受付時間 8:00～12:00,13:00 ...」（https://syowa-ss.co.jp/yk/Inquiry_Form.htm・3回目）
+  - 「お問い合わせ - 株式会社昭和製作所 — お客さまからお預かりした個人情報は、当社からのご連絡や業務のご案内やご質問に対する回答として、電子メールや資料のご送付に利用いたします。 個人情報の第三者への開示・提供の禁止」（https://www.showaseisakusho.co.jp/contact/・3回目）
+- 従業員数：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部17頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部17頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部17頁・検索9回）
+- 取扱材料：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部17頁・検索9回）
+- AM関連：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部17頁・検索9回）
+
 ## 株式会社木下技研
 - 公式URL：http://www.kinoshitagiken.jp（given）
 - 所在地：〒 675-2365 兵庫県加西市畑町1126（https://www.kinoshitagiken.jp/company.html・1回目）
@@ -11434,6 +14889,133 @@ FAX.0256-57-3581（https://www.mrkt.co.jp/companyinfo/・1回目）
 - 売上高：記載なし（3回確認済み：公式5頁／PDF・画像4件／外部8頁・検索9回）
 - 取引先：記載なし（3回確認済み：公式5頁／PDF・画像4件／外部8頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式5頁／PDF・画像4件／外部8頁・検索9回）
+
+## 株式会社村山製作所
+- 公式URL：http://www.mura-ss.co.jp（given）
+- 所在地：〒939-2252 富山県富山市上大久保1670-1 TEL 076-482-2551  FAX 076-482-2552（https://www.mura-ss.co.jp/company.html・1回目）
+- 所在地：都道府県 【選択して下さい】 北海道 青森県 岩手県 宮城県 秋田県 山形県 福島県 茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県 新潟県 富山県 石川県 福井県 山梨県 長野県 岐阜県 静岡県 愛知県 三重県 滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県 鳥取県 島根県 岡山県 広島県 山口県 徳島県 香川県 愛媛県 高知県 福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県 沖縄県 市区町村 丁目番地（https://www.mura-ss.co.jp/contac_new1.html・1回目）
+- 事業内容：機械加工・製缶・プラズマ加工・ワイヤーカット・放電・研削・表面処理・熱処理加工等も対応。 （建設機械部品）（半導体装置の部品加工）（産業機械の部品加工）（電極・台金作成）（https://www.mura-ss.co.jp/company.html・1回目）
+- 代表者：村山　昭範（https://www.mura-ss.co.jp/company.html・1回目）
+- 取扱製品：
+  - 「株式会社村山製作所は1981年創業以来、機械加工を中心とし、高品質な製品を安定してお客様に提供しております」（https://www.mura-ss.co.jp/・1回目）
+  - 「今後もその信頼にお応えするために、最新の情報と製品の提供はもちろん、一人ひとりの豊かな個性を伸ばし、地域貢献に役立つ人材を輩出し、日本のものづくりに貢献することが私どもの使命であると確信しております」（https://www.mura-ss.co.jp/・1回目）
+  - 「抗張力鋼板等のスポット溶接製品向上のため、直流インバタースポット溶接機（75KVA・1台）を導入」（https://murayama-ss.co.jp/company/・3回目）
+  - 「抗張力鋼板製造の製品精度向上のため、アイダ200tサーボプレス機を導入」（https://murayama-ss.co.jp/company/・3回目）
+  - 「3Dプリンター導入 簡易治具とデータを基に製品モデルを作成できるように」（https://murayama-ss.co.jp/company/・3回目）
+  - 「完成する製品の品質ばかりでなく、どのような工程を経て生産されていくかというプロセスまで明確に管理されたシステムです」（https://murayama-ss.co.jp/company/・3回目）
+- 一点物・少量多品種：
+  - 「短納期、多•小ロット品、」（https://www.mura-ss.co.jp/・1回目）
+  - 「試作品、是非声をかけてください！」（https://www.mura-ss.co.jp/・1回目）
+  - 「自動車部品業界では、大量生産、多品種少量生産、高品質化、低価格化、職場環境の改善など多くの課題が生じ、村山製作所においても、それら一つひとつに全力を挙げて真摯に取り組んできました」（https://murayama-ss.co.jp/company/・3回目）
+- 製品分野：
+  - 「機械加工・製缶・プラズマ加工・ワイヤーカット・放電・研削・表面処理・熱処理加工等も対応（建設機械部品 / 半導体装置の部品加工 / 産業機械の部品加工 / 電極・台金作成）」（https://www.mura-ss.co.jp/・1回目）
+  - 「（建設機械部品）（半導体装置の部品加工）（産業機械の部品加工）（電極・台金作成）」（https://www.mura-ss.co.jp/company.html・1回目）
+  - 「神奈川県横浜市の村山製作所｜プレス・溶接・金型加工」（https://murayama-ss.co.jp/・3回目）
+  - 「100年におよぶ日本の自動車産業の歴史のなかで、日本が高度成長期を迎えた50年前の昭和34年（1959年）に村山製作所は創業しました」（https://murayama-ss.co.jp/company/・3回目）
+  - 「自動車部品業界では、大量生産、多品種少量生産、高品質化、低価格化、職場環境の改善など多くの課題が生じ、村山製作所においても、それら一つひとつに全力を挙げて真摯に取り組んできました」（https://murayama-ss.co.jp/company/・3回目）
+  - 「自動車は、たくさんの夢を乗せて走る人類の貴重な財産です」（https://murayama-ss.co.jp/company/・3回目）
+  - 「自動車産業のさらなる発展に向けて、これからも村山製作所は、微力ですが多くの仲間とともに一生懸命走り続けます」（https://murayama-ss.co.jp/company/・3回目）
+  - 「オリイ製プレスロボットライン3機導入」（https://murayama-ss.co.jp/company/・3回目）
+  - 「プレスロボットライン6機を増設」（https://murayama-ss.co.jp/company/・3回目）
+  - 「高精度省力化へ向けプレスロボットライン 110t・60t、80t・60tの2ライン設備更新」（https://murayama-ss.co.jp/company/・3回目）
+  - 「ワイヤー放電加工機 部品加工外注分の内製化及び、金型加工精度向上」（https://murayama-ss.co.jp/company/・3回目）
+  - 「山崎技研 YZ-500SG ATC 金型部品加工内製化を図り、外注費用の削減」（https://murayama-ss.co.jp/company/・3回目）
+- AM関連：
+  - 「murayama@mura-ss.co.jp」（https://www.mura-ss.co.jp/・1回目）
+  - 「自動鋸 AMADA HA350」（https://www.mura-ss.co.jp/equipment.html・1回目）
+  - 「MURAYAMA Challenge Spirit」（https://www.mura-ss.co.jp/images/company_taitol.jpg・2回目）
+  - 「3Dプリンター Bambu H2D Combo≪AMS2Pro付≫PF00」（https://murayama-ss.co.jp/・3回目）
+  - 「©Murayama-SS Co., Ltd. ALL RIGHT RESERVED.」（https://murayama-ss.co.jp/・3回目）
+  - 「3Dプリンター導入 簡易治具とデータを基に製品モデルを作成できるように」（https://murayama-ss.co.jp/company/・3回目）
+  - 「【例】 sample@murayama-ss.co.jp」（https://murayama-ss.co.jp/contact/・3回目）
+  - 「©Murayama-SS Co., Ltd. ALL RIGHT RESERVED.」（https://murayama-ss.co.jp/contact/・3回目）
+- 連絡先：
+  - 「お問い合わせ｜株式会社村山製作所・富山県富山市」（https://www.mura-ss.co.jp/contac_new1.html・1回目）
+  - 「・お電話など、Eメール以外の方法でご連絡させていただく場合もございます」（https://murayama-ss.co.jp/contact/・3回目）
+  - 「・メールの指定受信や拒否設定を行っている場合、私どもからの返信が届かない場合があるので受信可能な設定に変更後、登録を行ってください」（https://murayama-ss.co.jp/contact/・3回目）
+- 検索結果の抜粋：
+  - 「切削・旋削・溶接・切断まで一貫して対応します｜株式会社村山製作所... — 高い技術と豊富な経験。 株式会社村山製作所は1981年創業以来、機械加工を中心とし、高品質な製品を安定してお客様に提供しております。「いい会社を作る」を社訓とし、ナンバーワンではなく、「オンリーワン」を目指し、如何なる問題にも挑戦と感謝の気持ちを忘れずにお客様のニーズに ...」（https://www.mura-ss.co.jp/・3回目）
+  - 「神奈川県横浜市の村山製作所｜プレス・溶接・金型加工 — 村山製作所の公式ホームページです。プレス加工・溶接加工・プレス金型の設計製造を行っています。ロボットを使った ...」（https://murayama-ss.co.jp/・3回目）
+  - 「ご注文をお考えの方へ | 村山製作所 — 2．困りごと 例えばこんな内容でご依頼をいただいております ... 3．打合せ ご提案 打合せの後、弊社営業よりご提案させていただきます 小ロットから取り扱っております 詳しくは営業までお問い合わせください」（https://murayama-ss.co.jp/order/・3回目）
+  - 「会社情報 | 村山製作所 — 村山製作所の会社情報ページです。代表挨拶、会社概要、アクセス、歴史、ISO認証などを掲載しています。」（https://murayama-ss.co.jp/company/・3回目）
+  - 「会社概要 | 株式会社 村山製作所村山製作所について | 村山製作所会社概要 - 株式会社村山製作所 | 株式会社村山製作所事業内容サービス・会社概要｜村山電機製作所村山製作所 会社概要 - murayama-ss.jp会社概要・アクセス | 株式会社ムラヤマ — ABOUT US 会社概要 ご挨拶 Introduce 当社は鉄に特化した『とろける鉄工所』株式会社村山製作所です。 昭和35年に溶接加工業で創業いたしまして以来、材料仕入れ、板金、溶接、機械加工、製缶と技術 経験を磨き積み重ねて参りました。 株式会社 石辺製作所 株式会社 伊澤製作所 株式会社 大栄製作所 株式会社 太平金属工業所 他6社 切削 1社 ロット加工 1社 メッキ 塗装 株式会社 大協製作所 他1社 試作 鈑金 3社 プレス金型 有限会社 ワシオエンジニアリング 他2社 検査治具 測定 有限会社 大同 ... CO」（https://murayama-ss.com/about・3回目）
+  - 「会社概要 - 株式会社村山製作所 | 株式会社村山製作所 — COMPANY 会社案内 会社名 株式会社村山製作所 設立 1985年2月6日 代表者 村山 哲也 資本金 1,000万円 従業員数 21名（うち技能士12名） 所在地 〒242-0025 神奈川県大和市代官3-18-6」（https://murayama-duct.net/info/・3回目）
+  - 「事業内容サービス・会社概要｜村山電機製作所村山製作所 会社概要 - murayama-ss.jp会社概要・アクセス | 株式会社ムラヤマ — 村山電機製作所は船舶・工業用温度計および計測器の専門メーカー。製品開発や販売はもちろん、その後のアフターサポートもご提供。温度計や計測器に関わることすべてにおいてご対応が可能です。お客さまのニーズを細かく把握し最適な製品をご提案いたします。 村山製作所は『誠の精神』でお客様に満足していただける製品（Q.C.D）を提供するために人が第一と考え、『人材育成』に ... 株式会社ムラヤマ（MURAYAMA INC.）の「会社概要」ページです。本社・支社・支店のアクセス情報やグループ会社をご確認 ...」（https://www.murayama-denki.co.jp/about/・3回目）
+  - 「村山製作所 会社概要 - murayama-ss.jp — 村山製作所は『誠の精神』でお客様に満足していただける製品（Q.C.D）を提供するために人が第一と考え、『人材育成』に ...」（http://www.murayama-ss.jp/company.htm・3回目）
+  - 「お問合せ -- 株式会社村山製作所 — お問合せ メールでお問い合わせの際は、以下のフォームよりお問い合わせ下さい。」（https://www.mura-ss.co.jp/toiawase.html・3回目）
+  - 「お問い合わせ | 村山製作所 — ご質問、お見積り依頼など、どんなことでもお気軽にお問い合わせください。折り返し、担当者よりご連絡を差し上げます。 お電話でのお問い合わせ TEL. 045-751-3563 【 受付時間 】 平日8:30〜17:00 土・日曜、祝日、夏季休暇や年末年始などは休みをいただいております。 ※ の表示がある項目に ...」（https://murayama-ss.co.jp/contact/・3回目）
+  - 「お問い合わせ｜株式会社村山製作所・富山県富山市 — 株式会社村山製作所は日頃より短期間で「かけこみ寺」的存在の弊社です。見積に関しましても、極力24時間対応しております。また、材料手配～加工・後処理まで一貫対応もさせて頂いており、付加価値の高い製品作りを目指しております。」（https://www.mura-ss.co.jp/contac_new1.html・3回目）
+  - 「お問い合わせ/アクセス | 株式会社 村山製作所 — お問い合わせはこちら 当社製品や、採用情報についてご不明な点がございましたら お電話又はフォームよりお気軽にお問い合わせくださいませ。 0257-22-4579 平日 8:00-16:30 お名前 メールアドレス 電話番号 項目 お問い合わせ内容」（https://murayama-ss.com/contact・3回目）
+- 従業員数：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部10頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部10頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部10頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部10頁・検索9回）
+- 取扱材料：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部10頁・検索9回）
+
+## 株式会社栄電子
+- 公式URL：http://www.sakae-denshi.com（given）
+- 所在地：〒101-0021 東京都千代田区外神田2-9-10 TEL：03-6385-7240（代） FAX：03-3255-7801（代）（https://sakae-denshi.com/outline/・1回目）
+- 所在地：東京都千代田区外神田2-9-10（https://sakae-denshi.com/recruit/recruit1/・1回目）
+- 所在地：〒101-0021 東京都千代田区外神田2-9-10 7階 営業職 (法人営業) 正社員 1名（https://sakae-denshi.com/recruit/recruit2/・1回目）
+- 事業内容：電子部品総合商社（https://sakae-denshi.com/outline/・1回目）
+- 従業員数：91名（2026年3月末現在）（https://sakae-denshi.com/outline/・1回目）
+- 拠点：東京営業所、宮城営業所、長野営業所、山梨営業所、埼玉営業所、 西東京営業所、神奈川営業所、大阪営業所、熊本営業所（https://sakae-denshi.com/outline/・1回目）
+- 拠点：群馬県高崎市八島町20 KSビル4階（https://sakae-denshi.com/recruit/recruit1/・1回目）
+- 拠点：住所 募集職種 雇用形態 募集人数（https://sakae-denshi.com/recruit/recruit2/・1回目）
+- 取扱製品：
+  - 「新製品、新商材の扉を力強くノックします」（https://sakae-denshi.com/・1回目）
+  - 「メーカー・仕入先、協力工場と連携して装置・製品の試作から量産までワンストップで幅広く対応します」（https://sakae-denshi.com/・1回目）
+  - 「CT・MRIなどの大型医療設備や血圧計や美顔器など家庭用の製品への納入実績があります」（https://sakae-denshi.com/・1回目）
+  - 「メーカー・仕入先、協力工場と連携して装置・製品の試作から量産までワンストップで幅広く対応します」（https://sakae-denshi.com/business/・1回目）
+  - 「この製品はパルス制御により振幅を自由に変化させることができるため、多彩な振動パターンに対応します」（https://sakae-denshi.com/business/new-item/・1回目）
+  - 「●同特性で2つの形状（低背/ブックタイプ）をラインナップ」（https://sakae-denshi.com/business/new-item/・1回目）
+  - 「●長寿命：期待製品寿命7年（周囲温度+50℃、出力電力600W24時間連続通電時）」（https://sakae-denshi.com/business/new-item/・1回目）
+  - 「産業用ラズベリーパイは、ラズベリーパイをベースに産業用途に耐えられるよう耐久性、耐環境性を高めた新たな製品カテゴリです」（https://sakae-denshi.com/business/new-item/・1回目）
+  - 「日本市場ではセメント抵抗器・メタルクラッド抵抗器等の大型抵抗器のサイズダウン・軽量化において非常に有効な製品となっております」（https://sakae-denshi.com/business/new-item/・1回目）
+  - 「家電やモバイル製品をはじめとするテクノロジーのグローバルイノベーターとして、世界中に事業拠点を持ち、約75,000人以上の従業員を擁しています」（https://sakae-denshi.com/business/new-item/・1回目）
+  - 「LGは、さまざまな製品を通じて新しい価値を創造し、世界中のお客様へより豊かで快適な暮らしのご提案をしていきます」（https://sakae-denshi.com/business/new-item/・1回目）
+  - 「ワイドミュラーは経験豊富な専門家として、電力、信号、データの産業環境における製品、ソリューション、サービスを提供し、世界中のお客様やパートナーをサポートします」（https://sakae-denshi.com/business/new-item/・1回目）
+- 取扱材料：
+  - 「ロバスト、工業グレード樹脂採用により、-40C～85C の動作温度範囲という最も過酷な環境でセンサーが動作する事を可能にしています」（https://sakae-denshi.com/business/new-item/・1回目）
+  - 「トーキンの焦電型赤外線センサは、蓄積された圧電セラミック材料で、高感度、リフロー可能なSMD型を実現しております」（https://sakae-denshi.com/business/new-item/・1回目）
+  - 「独自のセンサ構成により、レンズ不要の短距離検知やレンズ付きの中距離検知、樹脂越し検知のタッチレスへも対応可能です」（https://sakae-denshi.com/business/new-item/・1回目）
+  - 「圧電セラミック材料の組成最適化と発生電荷を効率よく捕獲する振動子構造により、高い感度と広い周波数帯域、小型・低背化を両立しました」（https://sakae-denshi.com/business/new-item/・1回目）
+- 一点物・少量多品種：
+  - 「メーカー・仕入先、協力工場と連携して装置・製品の試作から量産までワンストップで幅広く対応します」（https://sakae-denshi.com/・1回目）
+  - 「メーカー・仕入先、協力工場と連携して装置・製品の試作から量産までワンストップで幅広く対応します」（https://sakae-denshi.com/business/・1回目）
+  - 「信頼性が要求される自動車関連機器、多品種少量の産業機器及び医療向け機器、高品質や特殊なめっき技術が求められるデバイス・モジュール基板などお客様からの様々なご要求に対して、高い品質(Quality)、適性な価格(Cost)、早い納期(Delivery)で生産を行うため、最先端の設備と独自の管理システムを用いて対応しています」（https://www.sdk.gr.jp/business/・3回目）
+  - 「多品種少量、高アスペクト、特殊サイズ、厚銅めっき製品などにも対応した銅めっき」（https://www.sdk.gr.jp/business/・3回目）
+- 製品分野：
+  - 「AI・Iot・５Gに欠かせない半導体を製造する各種装置や液晶・有機ELパネル製造装置への納入実績があります」（https://sakae-denshi.com/・1回目）
+  - 「精密測定機器や半導体の検査装置などへの納入実績がります」（https://sakae-denshi.com/・1回目）
+  - 「CT・MRIなどの大型医療設備や血圧計や美顔器など家庭用の製品への納入実績があります」（https://sakae-denshi.com/・1回目）
+  - 「●用途：無人搬送車(AGV)・各種ロボット・バッテリアプリケーション」（https://sakae-denshi.com/business/new-item/・1回目）
+  - 「RevPiシリーズはコストと手軽さを追求したモデルで、すでに自動車製造ラインや工作機械などで1000台以上が実稼働しています」（https://sakae-denshi.com/business/new-item/・1回目）
+  - 「OPB9000 は多目的センサで、幅広い産業および医療用途に利用可能」（https://sakae-denshi.com/business/new-item/・1回目）
+  - 「近年ではデジタルサイネージ、医療、エネルギー市場など、ICT（Information and Communication Technology）化が進められている成長市場へFAで培った技術を応用し、あらゆる産業に役立つ製品を開発し、供給しています」（https://sakae-denshi.com/business/new-item/・1回目）
+  - 「例えば、家電製品、建築設備、医療機器、物流設備などなど…」（https://sakae-denshi.com/business/iot_solution/・1回目）
+  - 「定期健康診断、退職金制度、eラーニング、チャット型医療相談サービス、保養所」（https://sakae-denshi.com/recruit/recruit1/・1回目）
+  - 「信頼性が要求される自動車関連機器、多品種少量の産業機器及び医療向け機器、高品質や特殊なめっき技術が求められるデバイス・モジュール基板などお客様からの様々なご要求に対して、高い品質(Quality)、適性な価格(Cost)、早い納期(Delivery)で生産を行うため、最先端の設備と独自の管理システムを用いて対応しています」（https://www.sdk.gr.jp/business/・3回目）
+  - 「「AI・半導体製造装置需要回復＋受注先行＋利益率改善」という、今の市場が好みやすい形」（https://note.com/foreko/n/na4489c653d98・3回目）
+  - 「「半導体製造装置関連の需要回復が本格的な受注増に転じている」」（https://note.com/foreko/n/na4489c653d98・3回目）
+- 連絡先：
+  - 「MAIL：soumu1@sakae-denshi.com」（https://sakae-denshi.com/recruit/recruit1/・1回目）
+  - 「MAIL：soumu1@sakae-denshi.com」（https://sakae-denshi.com/recruit/recruit2/・1回目）
+- 検索結果の抜粋：
+  - 「HOME - 栄電子 — Knock 新製品、新商材の扉を力強くノックします Aggressive 不可能を可能にするためにアグレッシブに活動します Energy お客様への感謝がエネルギーの源です Action 頭脳と身体とシステムのフル回転で素早く対応します」（https://sakae-denshi.com/・3回目）
+  - 「取扱メーカー【五十音順】 - 栄電子 — ア Abracon アコン アルプスアルパイン IAM電子 アジア電子工業 アズビル IDEC アルファーシステム 旭計器 IBSジャパン アイコー電子 アンペール ADAPTER TECHNOLOG...」（https://sakae-denshi.com/maker-gojyuuon/・3回目）
+  - 「企業情報 - 栄電子事業紹介 - 栄電子事業内容 │ 栄電子工業 - sdk.gr.jp会社案内 │ 栄電子工業 - sdk.gr.jp栄電子（7567）のプロフィール | 会社四季報オンライン栄電子（7567）の事業内容・業績｜平均年収507万円・売上73億円（2026...栄電子（7567）の関連テーマ・事業内容｜事業テーマPro — 栄電子は、ユーザーやメーカーなどの多様なお取引先と情報を受発信し、共有する場としての独自のネットワークの構築を、21世紀の最重要課題に位置づけています。 代表取締役社長 津田 百子 会社概要 ... 環境方針 コスト削減に力を発揮します。 強力な協力会社群：当社が業務委託する協力会社のネットワークにより、ボード・ケーブルのアッセンブリから、ユニットの組立てまで、様々なアッセンブリに対応します。 栄電子工業株式会社の事業内容ページです。 プリント基板の無電」（https://sakae-denshi.com/outline/・3回目）
+  - 「事業内容 │ 栄電子工業 - sdk.gr.jp — 栄電子工業株式会社の事業内容ページです。 プリント基板の無電解金めっきやパネル銅めっき加工を展開。 自動車・産業・医療機器向けなどの高い信頼性が求められる基板めっきに、最先端設備と独自システムで高品質・適正価格・短納期でお応えします。」（https://www.sdk.gr.jp/business/・3回目）
+  - 「会社案内 │ 栄電子工業 - sdk.gr.jp栄電子（7567）のプロフィール | 会社四季報オンライン栄電子（7567）の事業内容・業績｜平均年収507万円・売上73億円（2026...栄電子（7567）の関連テーマ・事業内容｜事業テーマPro — 1952年創業以来、プリント基板のめっきニーズに技術開発と量産化技術でお応えしてきました。 社長挨拶のほか、資本金や事業所などの会社概要、今日までの歩みを示す会社沿革、主要取引先などの企業情報を掲載しています。 Nov 12, 2026 · ウルトラテクノロジー 栄電子（7567）株に係る変更報告書を提出 ウルトラテクノロジー 栄電子（7567）株に係る変更報告書を提出 ウルトラテクノロジー 栄電子（7567）株に係る大量保有報告書を提出 事業の中身 産業用の一般電子部品と電子機器を売る会社だ。 事業の区分は一つにまとめられている。 子会社」（https://www.sdk.gr.jp/about/・3回目）
+  - 「栄電子（7567）のプロフィール | 会社四季報オンライン — Nov 12, 2026 · ウルトラテクノロジー 栄電子（7567）株に係る変更報告書を提出 ウルトラテクノロジー 栄電子（7567）株に係る変更報告書を提出 ウルトラテクノロジー 栄電子（7567）株に係る大量保有報告書を提出」（https://shikiho.toyokeizai.net/stocks/7567/corporate・3回目）
+  - 「栄電子（7567）の事業内容・業績｜平均年収507万円・売上73億円（2026... — 事業の中身 産業用の一般電子部品と電子機器を売る会社だ。 事業の区分は一つにまとめられている。 子会社の東栄電子も同じく産業用の一般電子部品と電子デバイスを売り、両社は扱う電子部品の一部を互いに融通している。」（https://zukaikeizai.com/kaisha/7567/・3回目）
+  - 「お問い合わせ - 栄電子 — カレンダー ... 定休日 棚卸日 本社アクセス HOME 新製品・新商材 リクルート 個人情報保護ポリシー サイト利用条件 SiteMap Copyright © 栄電子 All Rights Reserved.」（https://sakae-denshi.com/contact/・3回目）
+  - 「お問い合わせ │ 栄電子工業 — 栄電子工業へのお問い合わせ 以下の入力項目に必要事項をご入力いただき、プライバシーポリシーに同意の上「送信」ボタンを押してください。 プライバシーポリシーについて お問い合わせ時のよくあるご質問 お名前 必須 フリガナ 必須 お電話番号 必須」（https://www.sdk.gr.jp/contact/・3回目）
+  - 「問い合わせフォーム | 維栄電子日本株式会社 — トップ TOP 当社について ABOUT 事業内容 SERVICE 商品紹介 PRODUCTS 採用情報 RECRUIT お問い合わせ CONTACT 中国語・英語版 HP CHINESEver・ENGLISHver」（https://ea-elec.co.jp/contact/・3回目）
+- 代表者：記載なし（3回確認済み：公式13頁／PDF・画像4件／外部20頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式13頁／PDF・画像4件／外部20頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式13頁／PDF・画像4件／外部20頁・検索9回）
+- AM関連：記載なし（3回確認済み：公式13頁／PDF・画像4件／外部20頁・検索9回）
 
 ## 株式会社橋本製作所
 - 公式URL：http://www.kkhashimoto.co.jp（given）
@@ -11795,6 +15377,102 @@ FAX.0256-57-3581（https://www.mrkt.co.jp/companyinfo/・1回目）
 - 売上高：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部25頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部25頁・検索9回）
 
+## 株式会社浜野製作所
+- 公式URL：https://www.hamano-products.co.jp（given）
+- 所在地：本社板金工場 Garage Sumida (ガレージスミダ) 〒131-0041 東京都墨田区八広4-39-7 TEL　03-5631-9111 FAX　03-5631-9112 アクセスMAPはこちらから（https://hamano-products.co.jp/company/・1回目）
+- 所在地：〒131-0041 東京都墨田区八広4-39-7（https://hamano-products.co.jp/company/map/・1回目）
+- 所在地：日本 〒 131-0041 東京都 墨田区 八広4-39-7（https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%87%8E%E8%A3%BD%E4%BD%9C%E6%89%80・3回目）
+- 事業内容：各種装置・機械の設計開発、架台・筐体設計・製作、精密板金加工・レーザー加工、金属プレス金型設計・製作、金属プレス加工 切削加工・機械加工、複合加工、各種アッセンブリ加工、ラピッドマニュファクチャリング（3Dプリンター・レーザーカッター・CNC加工・UVプリント・3Dスキャン・3Dデータ作成）（https://hamano-products.co.jp/company/・1回目）
+- 事業内容：半導体製造装置関連部品・建築金物部品・事務機器関連部品・コネクター部品・ポンプ関連部品・光学関連部品・理化学部品・バイオ関連部品・農機具・農業用部品・オートバイパーツ・ゲーム機関連部品・自動車関連部品・医療機器・弱電部品・精密測定装置関連部品・スイッチング機器部品・情報通信機関連部品・液品パネル貼合せ装置部品・航空宇宙関連部品・ロボット製作・深海・海洋関連部品・各種治具・3Dプリンターパーツ・美術品・発明アイデア商品・デザイナーズ商品　他（https://hamano-products.co.jp/company/・1回目）
+- 事業内容：板金・架台・筐体設計　各種アッセンブリ加工　精密板金加工・レーザー加工　金属プレス金型製作 金属プレス加工部品　試作品製作（https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%87%8E%E8%A3%BD%E4%BD%9C%E6%89%80・3回目）
+- 代表者：代表取締役 CEO　浜野慶一（https://hamano-products.co.jp/company/・1回目）
+- 代表者：浜野 慶一（https://hamano-products.co.jp/company/・1回目）
+- 代表者：小林 亮（https://hamano-products.co.jp/company/・1回目）
+- 従業員数：48名（役員・従業員合計）（https://hamano-products.co.jp/company/・1回目）
+- 従業員数：48名（役員・従業員合計／2025年1月現在）（https://www.product-dev-guide.com/service-guide/hamano.html・3回目）
+- 拠点：第三工場（https://hamano-products.co.jp/company/・1回目）
+- 取扱製品：
+  - 「経済産業省 ものづくり中小企業製品開発等支援補助金 申請案件採択」（https://hamano-products.co.jp/company/・1回目）
+  - 「また、千分台の精度が要求される製品やコンマ台以下の薄板、10mmを超えるような板厚の切断にはワイヤーカットを使用し、対応しています」（https://hamano-products.co.jp/processing/・1回目）
+  - 「開発・設計製品事例 - 浜野製作所浜野製作所」（https://hamano-products.co.jp/designing/design-examples/・1回目）
+  - 「過酷な条件下で使用できるオリジナル乾電池の残量をチェックする製品です」（https://hamano-products.co.jp/designing/design-examples/・1回目）
+  - 「デザイナーと協議の下、製品のデザインや製作方法を決めていきま」（https://hamano-products.co.jp/designing/design-examples/・1回目）
+  - 「難加工素材やその製品の販売をされている会社から依頼を受け、この度「ジルカロイ」の折り鶴を製作致しまし」（https://hamano-products.co.jp/processing/examples/・1回目）
+  - 「過酷な条件下で使用できるオリジナル乾電池の残量をチェックする製品です」（https://hamano-products.co.jp/processing/examples/・1回目）
+  - 「デザイナーと協議の下、製品のデザインや製作方法を決めていきま」（https://hamano-products.co.jp/processing/examples/・1回目）
+  - 「私ども浜野製作所では、従来からの納期厳守・低コスト・高品質・高精度の加工・製作といった“モノづくりへの姿勢”はもちろんのこと、新規製品の提案、新規製品の共同開発や新規開発製品の試作など、細かい仕様・ニーズに応えられる様、多品種少量生産から量産までの一貫した受注生産体制を整えております」（https://hamano-products.co.jp/company/president/・1回目）
+  - 「また、「こんなものが欲しい」「こんなものる作れるのか？」などのお問い合わせに関しても図面化からのご相談や現物採寸→図面起こし→製品製造また最終製品の組み込み（アッセンブリー加工）まで、お客様からのご依頼にきめ細かく且つ幅広い対応をさせていただいております」（https://hamano-products.co.jp/company/president/・1回目）
+  - 「半導体製造装置関連・医療機器関連部品・自動車関連部品・電子部品・情報通信機関連部品・精密測定器関連部品モーター関連部品・液晶機器関連部品・コネクター部品・汎用ポンプ関連部品・製薬関連部品・オートバイパーツ・ロボット関連部品・光学装置関連部品・ICチップ関連ユニット、食品工場内での改善機器・工場内の治工具関係等、私どもは幅広い業界の企業に対して、産業関連部品・機械設備部品の加工・製作に携わる他、デザイナーズ商品、発明・アイデア商品、健康促進器具など、いわゆる消費者向け商品の製品化の御相談もお受けできる体制を整えております」（https://hamano-products.co.jp/company/president/・1回目）
+  - 「2Dデータ（DXFファイル）、3Dデータからの図面化をはじめ、最新鋭の工作機械・ネットワークシステムといった最先端の技術と当社の持つ「匠の技」、「職人技」の融合による高品質・高精度の製品のご要望にお応えしております」（https://hamano-products.co.jp/company/president/・1回目）
+- 取扱材料：
+  - 「通常のステンレスからチタンなどの難削材まで量産化をご検討の際はお気軽にご相談ください」（https://hamano-products.co.jp/processing/molding/・1回目）
+  - 「仮型（簡易型）やワイヤーカットなどを駆使し、ステンレス、アルミ、真鍮、銅、チタンなど板厚百分台から微細加工を行います」（https://hamano-products.co.jp/processing/molding/・1回目）
+  - 「マイナス30度の極寒環境や、極度の圧力に耐えうる堅牢性が求められる一方で、観測機器としての精度を保つため「電波観測を阻害しない材質」という極めて厳しい制約がありました」（https://www.product-dev-guide.com/service-guide/hamano.html・3回目）
+  - 「過酷な環境下でも機能し、かつ観測を妨げない材質の選定や加工方法を提案しました」（https://www.product-dev-guide.com/service-guide/hamano.html・3回目）
+  - 「堅牢さを求めれば材質が重く電波を遮り、電波透過を優先すれば強度が落ちる」（https://www.product-dev-guide.com/service-guide/hamano.html・3回目）
+  - 「材質選定と加工方法をセットで提案できること」（https://www.product-dev-guide.com/service-guide/hamano.html・3回目）
+- 一点物・少量多品種：
+  - 「浜野製作所では構想段階から試作・製造・組込み・量産に至るまで、お客様のご要望に合わせた」（https://hamano-products.co.jp/・1回目）
+  - 「墨田区八広に精密板金、試作工場を設立」（https://hamano-products.co.jp/company/・1回目）
+  - 「平成24年度ものづくり中小企業試作開発等支援補助金 医療用カート生産に係わる申請案件交付採択」（https://hamano-products.co.jp/company/・1回目）
+  - 「加工数量が小中量（単品～数百個程度目安）であれば、タレパン、レーザーにより、大量生産（数百個～数万個程度目安）であれば、専用金型を起工してプレス加工による切断・穴あけを行うケースが多いです」（https://hamano-products.co.jp/processing/・1回目）
+  - 「量産品は本金型を起工してのプレス加工、試作・小中ロット品は仮型（簡易金型）を利用して、何段階に分けて絞っていきます」（https://hamano-products.co.jp/processing/・1回目）
+  - 「ディスク読み取り用サスペンションの試作です」（https://hamano-products.co.jp/processing/examples/・1回目）
+  - 「センサー用冶具としてして使用するノズルの試作品です」（https://hamano-products.co.jp/processing/examples/・1回目）
+  - 「私ども浜野製作所では、従来からの納期厳守・低コスト・高品質・高精度の加工・製作といった“モノづくりへの姿勢”はもちろんのこと、新規製品の提案、新規製品の共同開発や新規開発製品の試作など、細かい仕様・ニーズに応えられる様、多品種少量生産から量産までの一貫した受注生産体制を整えております」（https://hamano-products.co.jp/company/president/・1回目）
+  - 「さらに、企業間ネットワークの構築・整備によって塗装処理・各種精密メッキ・アルマイト・シルク印刷・各種コーティング処理・機械加工・設計・挽物加工等を含むトータル的な受注生産体制も整備しております」（https://hamano-products.co.jp/company/president/・1回目）
+  - 「当社では、企画～設計・開発といった構想段階から、その後の試作・製作、量産支援までお客様のニーズに合わせた一貫対応を実現いたします」（https://hamano-products.co.jp/designing/・1回目）
+  - 「デザイン検討用・試作モデル用として3Dモデルリングを行います」（https://hamano-products.co.jp/designing/・1回目）
+  - 「レーザー・タレパン・プレスブレーキといった最新設備を駆使し、情報通信関連部品、計測器用部品、医療機器用部品、半導体製造装置用部品など様々な分野の産業関連部品を多品種少量で製作しています」（https://hamano-products.co.jp/processing/fineplate/・1回目）
+- 製品分野：
+  - 「各種装置・機械の設計開発、架台・筐体設計・製作、精密板金加工・レーザー加工、金属プレス金型設計・製作、金属プレス加工 切削加工・機械加工、複合加工、各種アッセンブリ加工、ラピッドマニュファクチャリング（3Dプリンター・レーザーカッター・CNC加工・UVプリント・3Dスキャン・3Dデータ作成）」（https://hamano-products.co.jp/company/・1回目）
+  - 「半導体製造装置関連部品・建築金物部品・事務機器関連部品・コネクター部品・ポンプ関連部品・光学関連部品・理化学部品・バイオ関連部品・農機具・農業用部品・オートバイパーツ・ゲーム機関連部品・自動車関連部品・医療機器・弱電部品・精密測定装置関連部品・スイッチング機器部品・情報通信機関連部品・液品パネル貼合せ装置部品・航空宇宙関連部品・ロボット製作・深海・海洋関連部品・各種治具・3Dプリンターパーツ・美術品・発明アイデア商品・デザイナーズ商品 他」（https://hamano-products.co.jp/company/・1回目）
+  - 「浜野嘉彦が墨田区八広に浜野製作所（金属金型工場）を立上げ」（https://hamano-products.co.jp/company/・1回目）
+  - 「墨田区八広にプレス・金型工場を新規設立し、東墨田の仮工場を移転」（https://hamano-products.co.jp/company/・1回目）
+  - 「同時に精密板金の工場を本社板金工場、プレス工場をプレス・金型工場と名称変更」（https://hamano-products.co.jp/company/・1回目）
+  - 「平成24年度ものづくり中小企業試作開発等支援補助金 医療用カート生産に係わる申請案件交付採択」（https://hamano-products.co.jp/company/・1回目）
+  - 「浜野製作所の加工事業は、レーザー・タレパンといった最新機械と職人の優れた技能を融合した精密板金加工、自社で金型の設計・製作を行うプレス加工、マシニングセンタやワイヤーカットを利用した切削・機械加工を総合的に組み合わせ、お客様のあらゆるニーズに対応いたします」（https://hamano-products.co.jp/processing/・1回目）
+  - 「加工数量が小中量（単品～数百個程度目安）であれば、タレパン、レーザーにより、大量生産（数百個～数万個程度目安）であれば、専用金型を起工してプレス加工による切断・穴あけを行うケースが多いです」（https://hamano-products.co.jp/processing/・1回目）
+  - 「プレスブレーキ（NCベンダー）、プレス加工機（本金型・簡易金型）、3本ロールといった機械によって、板、丸、角といった様々な形状・大きさの金属材料をL、R、U、Zなどあらゆる形に曲げることが可能です」（https://hamano-products.co.jp/processing/・1回目）
+  - 「量産品は本金型を起工してのプレス加工、試作・小中ロット品は仮型（簡易金型）を利用して、何段階に分けて絞っていきます」（https://hamano-products.co.jp/processing/・1回目）
+  - 「プレス作業者安全衛生特別教育(プレス金型調整特別安全教育)」（https://hamano-products.co.jp/company/equipments/・1回目）
+  - 「金型製作技能士 プレス金型製作作業1級」（https://hamano-products.co.jp/company/equipments/・1回目）
+- AM関連：
+  - 「各種装置・機械の設計開発、架台・筐体設計・製作、精密板金加工・レーザー加工、金属プレス金型設計・製作、金属プレス加工 切削加工・機械加工、複合加工、各種アッセンブリ加工、ラピッドマニュファクチャリング（3Dプリンター・レーザーカッター・CNC加工・UVプリント・3Dスキャン・3Dデータ作成）」（https://hamano-products.co.jp/company/・1回目）
+  - 「半導体製造装置関連部品・建築金物部品・事務機器関連部品・コネクター部品・ポンプ関連部品・光学関連部品・理化学部品・バイオ関連部品・農機具・農業用部品・オートバイパーツ・ゲーム機関連部品・自動車関連部品・医療機器・弱電部品・精密測定装置関連部品・スイッチング機器部品・情報通信機関連部品・液品パネル貼合せ装置部品・航空宇宙関連部品・ロボット製作・深海・海洋関連部品・各種治具・3Dプリンターパーツ・美術品・発明アイデア商品・デザイナーズ商品 他」（https://hamano-products.co.jp/company/・1回目）
+  - 「（レーザー加工機、ベンダー、溶接機、CAD/CAMシステム等を導入）」（https://hamano-products.co.jp/company/・1回目）
+  - 「Mastercam 2018」（https://hamano-products.co.jp/company/equipments/・1回目）
+  - 「3Dプリンター」（https://hamano-products.co.jp/company/equipments/・1回目）
+  - 「熱溶解積層式3Dプリンター」（https://hamano-products.co.jp/company/equipments/・1回目）
+  - 「光造形式3Dプリンター」（https://hamano-products.co.jp/company/equipments/・1回目）
+  - 「https://camp-fire.jp/projects/view/444217#menu」（https://hamano-products.co.jp/designing/・1回目）
+  - 「2DCAD：MicroCADAM、AutoCAD LT、AutoCAD Ｍechanical、HiCAD 他 3DCAD：Pro/E、CATIA V5、SolidWorks、Inventor、ICAD、SX、SolidMX他」（https://hamano-products.co.jp/designing/・1回目）
+  - 「Hamano Products Co.,Ltd.」（https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%87%8E%E8%A3%BD%E4%BD%9C%E6%89%80・3回目）
+  - 「https://hamano-products.co.jp/」（https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%87%8E%E8%A3%BD%E4%BD%9C%E6%89%80・3回目）
+  - 「https://www.tv-tokyo.co.jp/cambria/backnumber/2023/0622/」（https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%87%8E%E8%A3%BD%E4%BD%9C%E6%89%80・3回目）
+- 連絡先：
+  - 「【重要：ご注意】代表・浜野からの招待を装った迷惑メールにご注意ください（10/29更新）」（https://hamano-products.co.jp/・1回目）
+  - 「また、「こんなものが欲しい」「こんなものる作れるのか？」などのお問い合わせに関しても図面化からのご相談や現物採寸→図面起こし→製品製造また最終製品の組み込み（アッセンブリー加工）まで、お客様からのご依頼にきめ細かく且つ幅広い対応をさせていただいております」（https://hamano-products.co.jp/company/president/・1回目）
+  - 「お問い合わせフォームをご利用の方は下記事項をご確認の上、フォームをご入力ください」（https://hamano-products.co.jp/contact/・3回目）
+  - 「お客様からいただく個人情報は、お問い合わせ・ご質問への回答、情報提供のために使用させていただきます」（https://hamano-products.co.jp/contact/・3回目）
+  - 「お問い合わせの内容によっては、電子メール以外の方法で回答を差し上げる場合がございます」（https://hamano-products.co.jp/contact/・3回目）
+  - 「お問い合わせ内容によっては数日要する場合もございますので予めご了承ください」（https://hamano-products.co.jp/contact/・3回目）
+  - 「加工のご相談・支給材の持ち込み等でご来社される際は、必ず事前に電話またはメールで面会のご予約をお願いいたします」（https://hamano-products.co.jp/contact/・3回目）
+  - 「お問い合わせは、こちら」（https://note.com/aru343/n/nc979ed235428・3回目）
+- 検索結果の抜粋：
+  - 「浜野製作所 - Wikipedia — 浜野製作所 ... 株式会社浜野製作所 （はまのせいさくしょ、 英: Hamano Products Co.,Ltd.）は、東京都墨田区八広4-39-7に本社を置く金属加工メーカー。 精密板金 加工、 プレス加工 、 金型 設計・製作、 プロトタイプ を主な事業としている。」（https://ja.wikipedia.org/wiki/浜野製作所・3回目）
+  - 「製品開発コンサル｜設計から量産まで一貫支援する「浜野製作所」の強... — ハードウェア開発における試作や量産加工の壁に悩む企業に向けて、浜野製作所（Garage Sumida）の開発支援サービスを解説。 精密板金や切削の知見を活かし、構想段階から「作れる図面」への具現化、量産移行までを伴走する強みを紹介します。」（https://www.product-dev-guide.com/service-guide/hamano.html・3回目）
+  - 「株式会社浜野製作所（東京都墨田区）の板金加工・溶接加工・受託製造... — 株式会社浜野製作所が受託している板金加工・溶接加工・受託製造・OEM・設計から量産まで一貫・プレス加工・設計・試作・レーザー加工・金型の処理の種類・材質・大きさ・設備。 各社の公式サイトで確認。」（https://makerzukan.jp/m/hamano-products/・3回目）
+  - 「製品事例 - 浜野製作所 — 製品事例 ... 難加工材「ジルカロイ」で折り鶴を製作しました。 ... 難加工素材やその製品の販売をされている会社から依頼を受け、この度「ジルカロイ」の折り鶴を製作致しまし 続きを読む」（https://hamano-products.co.jp/processing/examples/・3回目）
+  - 「会社概要 - 浜野製作所 — 浜野製作所の会社概要ページです。会社基本情報、沿革、受賞歴、インターンシップ受け入れ校（実績）について紹介して ...」（https://hamano-products.co.jp/company/・3回目）
+  - 「株式会社浜野製作所 - 会社概要 — 株式会社浜野製作所の事業概要 浜野製作所は超特急納品！ レーザー加工・精密板金・プレス・金型加工等、図面のない試作品1個のみから量産まで、特急品でも喜んでお受けします。 まずはお気軽にお問い合わせください。」（https://www.atengineer.com/pr/hamano-products/company・3回目）
+  - 「株式会社浜野製作所 | 事業概要・投資方針・投資実績 | FIRST CVC — 株式会社浜野製作所の事業概要、投資方針、投資実績をまとめた企業プロフィール。 株式会社浜野製作所は1968年創業、1978年4月設立で、本社を東京都墨田区に置く金属加工・開発の会社です。」（https://www.firstcvc.jp/company/hamano-products.co.jp・3回目）
+  - 「株式会社浜野製作所の会社概要・製品情報 | Metoree — 金属部品の板金加工を主要な事業内容とし、国際品質規格であるISO9001を取得するなど、高い品質管理体制を敷いており、半導体部品メーカーや理化学機器メーカー、事務機器メーカーを主要な取引先としています。」（https://metoree.com/companies/5976/・3回目）
+  - 「お問い合わせ - 浜野製作所 — お問い合わせ お問い合わせフォームをご利用の方は下記事項をご確認の上、フォームをご入力ください。 お客様からいただく個人情報は、お問い合わせ・ご質問への回答、情報提供のために使用させていただきます。」（https://hamano-products.co.jp/contact/・3回目）
+  - 「浜野製作所 - 浜野製作所（東京都墨田区）は設計・開発・OEM、板金・... — 2026-10-05 お知らせ 10月2日（金）株式会社浜野製作所 第50期経営計画発表会を行いました。 2026-09-29 お知らせ 社内行事の実施により、10月2日（金）は午前11時までの営業となります 2026-09-28 メディア 取材 【新聞掲載：浜野会長インタビュー】 開発・設計事業」（http://hamano-products.co.jp/・3回目）
+- 売上高：記載なし（3回確認済み：公式13頁／PDF・画像13件／外部26頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式13頁／PDF・画像13件／外部26頁・検索9回）
+
 ## 株式会社清富士 プレス・金型工場
 - 公式URL：http://www.kiyofuji.co.jp（given）
 - 事業内容：・精密板金 ・プレス加工 ・金型設計製作（https://www.kiyofuji.co.jp/about/・1回目）
@@ -11838,6 +15516,70 @@ FAX.0256-57-3581（https://www.mrkt.co.jp/companyinfo/・1回目）
 - 取引先：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部5頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部5頁・検索9回）
 - AM関連：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部5頁・検索9回）
+
+## 株式会社渡辺精機
+- 公式URL：http://watanabeseiki.jp（given）
+- 取扱製品：
+  - 「私たち自らプログラムを考え、議論、挑戦を繰り返し、製品を完成させていきます」（https://watanabe-sk.com/・3回目）
+  - 「高い精度と信頼性が求められる製品づくりに取り組んでいます」（https://watanabe-sk.com/・3回目）
+  - 「各メーカー様の事業拡大に合わせて、私たちが扱う製品も進化」（https://note.com/witty_rabbit6280/n/n72151a77ee43・3回目）
+  - 「大手メーカー向けに半導体製造装置および医療用解析装置向けの高精度加工製品をメインに取り扱うように」（https://note.com/witty_rabbit6280/n/n72151a77ee43・3回目）
+  - 「現場の社員自らが考え、試行錯誤を重ねて製品を形にします」（https://note.com/witty_rabbit6280/n/nd0c3116d6063・3回目）
+  - 「私たちが扱う製品は、非常に高度な精度が求められます」（https://note.com/witty_rabbit6280/n/nebc3ca078a3f・3回目）
+  - 「「自分でプログラムを組んで、実際に製品をつくる」」（https://note.com/witty_rabbit6280/n/nebc3ca078a3f・3回目）
+  - 「加工条件を自分で考え、最適な手順を組み立てて、最終的に精密な製品が完成する」（https://note.com/witty_rabbit6280/n/nebc3ca078a3f・3回目）
+- 取扱材料：
+  - 「材質：A5056」（https://watanabeseiki.jp/%E5%8A%A0%E5%B7%A5%E4%BA%8B%E4%BE%8B/・1回目）
+  - 「この他にも異なった材質を圧入したローラやシャフトを多数製作しております」（https://watanabeseiki.jp/%E5%8A%A0%E5%B7%A5%E4%BA%8B%E4%BE%8B/・1回目）
+  - 「材質：SUS416」（https://watanabeseiki.jp/%E5%8A%A0%E5%B7%A5%E4%BA%8B%E4%BE%8B/・1回目）
+  - 「材質：SUS303」（https://watanabeseiki.jp/%E5%8A%A0%E5%B7%A5%E4%BA%8B%E4%BE%8B/・1回目）
+  - 「材質：A5056」（http://watanabeseiki.jp/%E5%8A%A0%E5%B7%A5%E4%BA%8B%E4%BE%8B/・1回目）
+  - 「この他にも異なった材質を圧入したローラやシャフトを多数製作しております」（http://watanabeseiki.jp/%E5%8A%A0%E5%B7%A5%E4%BA%8B%E4%BE%8B/・1回目）
+  - 「材質：SUS416」（http://watanabeseiki.jp/%E5%8A%A0%E5%B7%A5%E4%BA%8B%E4%BE%8B/・1回目）
+  - 「材質：SUS303」（http://watanabeseiki.jp/%E5%8A%A0%E5%B7%A5%E4%BA%8B%E4%BE%8B/・1回目）
+- 一点物・少量多品種：
+  - 「プレス成型品の試作として切削加工することがあり、厚さ0.08mmまでの加工実績があります」（https://watanabeseiki.jp/%E5%8A%A0%E5%B7%A5%E4%BA%8B%E4%BE%8B/・1回目）
+  - 「プレス成型品の試作として切削加工することがあり、厚さ0.08mmまでの加工実績があります」（http://watanabeseiki.jp/%E5%8A%A0%E5%B7%A5%E4%BA%8B%E4%BE%8B/・1回目）
+  - 「今まで使用していた試作品等の形状を少し変更したいけれど、 新規で製作するにはコストがかかりすぎる時などに「追加工」の依頼を頂きます」（https://watanabeseiki.jp/category/processing-case/・1回目）
+  - 「今まで使用していた試作品等の形状を少し変更したいけれど、」（https://watanabeseiki.jp/%E8%BF%BD%E5%8A%A0%E5%B7%A5%E5%93%81%E3%81%AE%E4%BE%9D%E9%A0%BC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/・1回目）
+- 製品分野：
+  - 「歯科医療器用部品（タービン、チャック他）」（https://watanabeseiki.jp/%E4%BC%9A%E7%A4%BE%E6%83%85%E5%A0%B1/・1回目）
+  - 「自動車部品から始まり、現在は半導体・医療機器分野の精密加工を手がける同社の採用担当Aさんに、会社の歴史と理念について詳しく伺いました」（https://note.com/witty_rabbit6280/n/n72151a77ee43・3回目）
+  - 「創業当初は自動車部品の金型や治工具、カメラ部品などを製造していたんです」（https://note.com/witty_rabbit6280/n/n72151a77ee43・3回目）
+  - 「大手メーカー向けに半導体製造装置および医療用解析装置向けの高精度加工製品をメインに取り扱うように」（https://note.com/witty_rabbit6280/n/n72151a77ee43・3回目）
+  - 「半導体や医療機器に使われる精密部品の加工を担う、まさに「ものづくりのプロ」」（https://note.com/witty_rabbit6280/n/nebc3ca078a3f・3回目）
+  - 「半導体製造装置やX線解析装置に用いられる部品の高精度な切削加工」（https://note.com/witty_rabbit6280/n/nebc3ca078a3f・3回目）
+- AM関連：
+  - 「CAD/CAMを使用して加工データを作成しています」（https://watanabeseiki.jp/%E5%8A%A0%E5%B7%A5%E4%BA%8B%E4%BE%8B/・1回目）
+  - 「CAD/CAMを使用して加工データを作成しています」（http://watanabeseiki.jp/%E5%8A%A0%E5%B7%A5%E4%BA%8B%E4%BE%8B/・1回目）
+  - 「CADCAMCREO ELEMENTS DIRECT MODELING」（https://watanabeseiki.jp/%E4%BC%9A%E7%A4%BE%E6%83%85%E5%A0%B1/・1回目）
+- 連絡先：
+  - 「お問い合わせ｜株式会社 渡辺精機（公式ホームページ）」（https://watanabe-sk.com/pages/4/・3回目）
+  - 「お問い合わせの際は「個人情報保護方針」をお読みになり、同意のうえご記入ください」（https://watanabe-sk.com/pages/4/・3回目）
+  - 「返信メールをお受け取りいただけるよう、受信設定（迷惑メール設定）等をお確かめください」（https://watanabe-sk.com/pages/4/・3回目）
+  - 「お問い合わせ・資料請求等は、お電話もしくは以下のお問い合わせフォームにてお願いいたします」（https://watanabe-seiki-co.com/otoi.html・3回目）
+  - 「お問い合わせ、資料ご請求は、お電話もしくは以下のお問い合わせフォームにてお願いいたします」（https://watanabe-seiki-co.com/sp/otoi.html・3回目）
+  - 「また、メールでのお問い合わせは、以下のフォームにご記入の上、ご送付ください」（https://watanabe-seiki-co.com/sp/otoi.html・3回目）
+- 検索結果の抜粋：
+  - 「試作金型と射出成形｜小ロット、少量生産｜渡辺製作所試作メーカーの渡辺製作所－単品加工－金型・成形・切削 | 試作メーカ...株式会社 渡辺精機（公式ホームページ）株式会社渡辺製作所の切削加工 試作 1個からの特徴と製作事例｜比較ハ...株式会社渡辺精機 | 東京 大田区で丸物切削加工なら渡辺精機渡辺精機製作所 ｜ 精密部品加工｜NC旋盤・マシニング・研削・精密測... — 樹脂流動シミュレーション（金型充填・反り解析） 充填・反り解析ソフト「SOLIDWORKS Plastics Premium」を導入しました。これにより射出成形の充填と反りのシミュレーションが可能になりました。解析結果をもとに金型製作のための打ち合わせを行うことができます。 ※インサート解析も可能です ※当サービスは受託解析ではありません（解析のみのサービスは提供していません） ※解析についての詳細はコチラのページをご確」（https://www.watanabe-mfg.co.jp/business/mold/・3回目）
+  - 「株式会社渡辺精機 | 東京 大田区で丸物切削加工なら渡辺精機 — 株式会社 渡辺精機 本社・工場 〒143-0015 東京都大田区大森西2-9-6 TEL：03-3761-7535 FAX：03-3761-6450 第二工場 〒144-0047 東京都大田区萩中3-14-17 TEL：03-5735-7511 FAX：03-5735-7512 ホーム 加工事例 渡辺精機の特徴 会社情報 ニュース お問い合わせ」（https://watanabeseiki.jp/・3回目）
+  - 「株式会社 渡辺精機（公式ホームページ） — Oct 1, 2026 · 高い精度と信頼性が求められる製品づくりに取り組んでいます。 ミクロン単位の品質を追求するものづくりの現場では、 一つひとつの工程に誠実に向き合い、お客様の期待を超える価値の提供を目指しています。」（https://watanabe-sk.com/・3回目）
+  - 「渡辺精機製作所 ｜ 精密部品加工｜NC旋盤・マシニング・研削・精密測... — 試作1個でも加工できますか？ はい。 試作1個からの加工に対応しています。 量産化を見据えたご提案も可能です。 どのくらいの精度に対応できますか？ 加工内容によりますが、±5μm（0.005mm）程度の精度に対応しています。 図面の公差をお知らせください。」（https://multiserviceokada.com/samples/buhin・3回目）
+  - 「会社概要｜株式会社 渡辺精機（公式ホームページ） — 株式会社 渡辺精機の会社概要です 本社 〒409-3606 山梨県西八代郡市川三郷町高田527-1 TEL：055-272-2300 FAX：055-272-1330」（https://watanabe-sk.com/pages/40/・3回目）
+  - 「株式会社 渡辺精機（公式ホームページ） — Oct 1, 2026 · 渡辺精機には今も変わらず息づいています。 渡辺精機の存在意義とは、すでにある知識や技術を身につけるだけではなく、 これまで誰も見たことのない技術や知識を身につけ、社会に広めていくことだと確信しています。」（https://watanabe-sk.com/・3回目）
+  - 「会社概要｜渡辺精機株式会社 - watanabe-seiki-co.com — 人参・大根の皮むき、乱切り、いちょう切りを簡単操作でスピード処理します。 画期的機能満載の食品加工機を企画開発、製造販売しています。 東京都小金井・府中の渡辺精機株式会社です。」（https://watanabe-seiki-co.com/kais.html・3回目）
+  - 「会社情報 | 株式会社渡辺精機 — 会社概要 会 社 名 株式会社 渡辺精機 代 表 者 代表取締役 渡辺 穣 本社・工場 〒143-0015 東京都大田区大森西2-9-6 第二工場 〒144-0047 東京都大田区萩中3-14-17 T E L 03-3761-7535（本社代表）」（https://watanabeseiki.jp/会社情報/・3回目）
+  - 「お問い合わせ｜株式会社 渡辺精機（公式ホームページ） — 電話番号欄には、必ず連絡の取れる電話番号をご入力ください。 回答に時間がかかる場合がありますので、お急ぎの方はお電話にてお問い合わせください。 返信メールをお受け取りいただけるよう、受信設定（迷惑メール設定）等をお確かめください。」（https://watanabe-sk.com/pages/4/・3回目）
+  - 「お問い合わせフォーム｜渡辺精機株式会社 — お問い合わせ・資料請求等は、お電話もしくは以下のお問い合わせフォームにてお願いいたします。 お電話でのお問い合わせ Tel.042-386-0078 （営業時間：9:00～18:00） メールでのお問い合わせ 以下のフォームにご記入の上、ご送付ください。」（https://watanabe-seiki-co.com/otoi.html・3回目）
+  - 「お問い合わせフォーム｜渡辺精機株式会社 — お問い合わせ お電話でのお問い合わせこちら Tel.042-386-0078 （営業時間：9:00～18:00） また、メールでのお問い合わせは、以下のフォームにご記入の上、ご送付ください。 ※ は必須項目です。」（https://watanabe-seiki-co.com/sp/otoi.html・3回目）
+  - 「お問い合わせ | 株式会社渡辺精機 — 株式会社 渡辺精機 本社・工場 〒143-0015 東京都大田区大森西2-9-6 TEL：03-3761-7535 FAX：03-3761-6450 第二工場 〒144-0047 東京都大田区萩中3-14-17 TEL：03-5735-7511 FAX：03-5735-7512 ホーム 加工事例 渡辺精機の特徴 会社情報 ニュース お問い合わせ」（https://watanabeseiki.jp/お問い合わせ/・3回目）
+- 所在地：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部19頁・検索9回）
+- 事業内容：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部19頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部19頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部19頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部19頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部19頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部19頁・検索9回）
 
 ## 株式会社澤村溶射センター
 - 公式URL：http://yosha.jp（given）
@@ -12030,6 +15772,95 @@ FAX.0256-57-3581（https://www.mrkt.co.jp/companyinfo/・1回目）
 - 取引先：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部3頁・検索9回）
 - 連絡先：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部3頁・検索9回）
 
+## 株式会社由紀精密
+- 公式URL：http://www.yukiseimitsu.co.jp（given）
+- 所在地：Immeuble New Deal 2c 24 Rue Salomon Reinach 69007 Lyon FRANCE（https://www.yukiseimitsu.co.jp/company/・1回目）
+- 事業内容：航空宇宙関連部品の試作・量産 医療機器関連部品の試作・量産 電機・電子機器部品の試作・量産 半導体製造装置・各種試験装置部品の試作・量産 自動車関連部品の試作・テスト装置の開発 人工衛星筐体の設計・製作 人工衛星エンジンテストベンチの設計・製作 特殊環境［高温、低温、真空等］で用いられる装置の設計・製作等（https://www.yukiseimitsu.co.jp/company/・1回目）
+- 事業内容：精密部品製造［航空・宇宙・医療・電気電子・機械式時計］ 精密部品、材料の輸出入、欧州進出企業へのコンサルティング等（https://www.yukiseimitsu.co.jp/company/・1回目）
+- 従業員数：38名（https://www.yukiseimitsu.co.jp/company/・1回目）
+- 取引先：宇宙 ： 株式会社アクセルスペース　株式会社アストロスケールホールディングス　独立行政法人宇宙航空研究開発機構［JAXA］ 他 航空 ： NTN株式会社　横浜ゴム株式会社　株式会社山川機械製作所　他 電気 ： アンリツ株式会社　ヒロセ電機株式会社　多治見無線株式会社　他 大学 ： 東京大学　東京科学大学　青山学院大学　多摩美術大学　早稲田大学　他 その他、約200社（https://www.yukiseimitsu.co.jp/company/・1回目）
+- 拠点：由紀ホールディングス株式会社 株式会社仙北谷 国産合金株式会社 他（https://www.yukiseimitsu.co.jp/company/・1回目）
+- 取扱製品：
+  - 「アナログプレーヤーAP-01 製品サイト」（https://www.yukiseimitsu.co.jp/・1回目）
+  - 「地上での試験や基礎実験に用いられる機器や治具類はもちろん、フライトモデルとして宇宙空間で活躍している製品もあります」（https://www.yukiseimitsu.co.jp/business/rd/・1回目）
+  - 「実際に医療現場で働く方々や、医療機器メーカーと密に連携しながら、イメージを描き、製品化まで行っています」（https://www.yukiseimitsu.co.jp/business/rd/・1回目）
+  - 「アナログプレーヤーAP-01 製品サイト」（https://www.yukiseimitsu.co.jp/company/business-day/・1回目）
+  - 「加工が困難な形状や材質、海外規格への対応など技術的課題にお応えすべく、お客様と密にコミュニケーションを取りながら、あらゆる製品の実現に協力致します」（https://www.yukiseimitsu.co.jp/business/precision/suggest/・1回目）
+  - 「アナログプレーヤーAP-01 製品サイト」（https://www.yukiseimitsu.co.jp/business/rd/consulting/・1回目）
+  - 「製品の設計製造の他にも、」（https://www.yukiseimitsu.co.jp/business/rd/consulting/・1回目）
+  - 「実際の使用環境でお客様の期待とニーズを満たす製品であることを確認します」（https://www.yukiseimitsu.co.jp/business/rd/design/・1回目）
+  - 「手作業とは思えない、精度の高い製品を作っていました」（https://www.yukiseimitsu.co.jp/company/story/・1回目）
+  - 「しかし、１つの製品を作るたびに専用のカムとよばれる部品が必要な上、段取り作業にとても時間が掛かりました」（https://www.yukiseimitsu.co.jp/company/story/・1回目）
+  - 「NC自動盤は製品が代わる際に専用のカムを作る必要がなく、プログラムを書き換えて様々な形状を作り出します」（https://www.yukiseimitsu.co.jp/company/story/・1回目）
+  - 「由紀精密工業は生産初期からカードリーダー部に使用されるシャフトを製造し、携帯電話が普及するまでの10年以上もの間、自社の売り上げを支える製品となっていました」（https://www.yukiseimitsu.co.jp/company/story/・1回目）
+- 取扱材料：
+  - 「S0.6のチタンねじ」（https://www.yukiseimitsu.co.jp/business/precision/・1回目）
+  - 「樹脂3Dプリンター」（https://www.yukiseimitsu.co.jp/business/precision/facility/・1回目）
+  - 「TP340 / TW340 / 純チタン / 64 チタン」（https://www.yukiseimitsu.co.jp/business/precision/facility/・1回目）
+  - 「陽極酸化処理［アルマイト、硬質アルマイト、チタンへの陽極酸化など］」（https://www.yukiseimitsu.co.jp/business/precision/facility/・1回目）
+  - 「材質はインコネルで、0.4mm、1mm、2mmの３種類の穴が合計で56個開いています」（https://www.yukiseimitsu.co.jp/business/rd/case/・1回目）
+  - 「錆やアウトガスが発生しない材質で、ロケットの打ち上げ時の振動に耐えられるよう、また、複数の衛星に対応するため重心が可変であるように設計しました」（https://www.yukiseimitsu.co.jp/business/rd/case/・1回目）
+  - 「加工が困難な形状や材質、海外規格への対応など技術的課題にお応えすべく、お客様と密にコミュニケーションを取りながら、あらゆる製品の実現に協力致します」（https://www.yukiseimitsu.co.jp/business/precision/suggest/・1回目）
+  - 「Ti-6Al-4V チタン」（https://www.yukiseimitsu.co.jp/business/precision/case/mechanical-watch-screws/・1回目）
+  - 「S0.6のチタンねじ」（https://www.yukiseimitsu.co.jp/business/precision/case/mechanical-watch-screws/・1回目）
+  - 「Ti-6Al-4V チタン」（https://www.yukiseimitsu.co.jp/business/precision/case/kounotori-nozzle/・1回目）
+  - 「チタンの加工製品はレーシングバイク用に限らずあらゆるものを安価で製造しております」（https://mono.ipros.com/company/detail/221680/category/・3回目）
+  - 「材質はC1100（銅）でスイス型自動盤で製作しています」（https://mono.ipros.com/company/detail/221680/category/・3回目）
+- 一点物・少量多品種：
+  - 「2液式液体燃料ロケットの姿勢制御用インジェクタを想定し、設計と加工の技術確認のためにオリジナルで試作したものです」（https://www.yukiseimitsu.co.jp/business/rd/case/・1回目）
+  - 「様々な試作スラスターの評価に利用されています」（https://www.yukiseimitsu.co.jp/business/rd/case/・1回目）
+  - 「半導体製造装置・各種試験装置部品の試作・量産」（https://www.yukiseimitsu.co.jp/company/・1回目）
+  - 「当初はねじや六角支柱の量産を行っておりましたが、現在では特殊形状のコネクタ、半導体関連、高周波関連など小径、高精度、複雑形状の部品について試作から量産まで手掛けています」（https://www.yukiseimitsu.co.jp/business/precision/case/・1回目）
+  - 「小ロットでの生産にも対応し、ギア、ねじ、りゅうず、針、ケースなど幅広い部品の加工が可能です」（https://www.yukiseimitsu.co.jp/business/precision/case/・1回目）
+  - 「しかし、インターネットを活用した営業活動により、少量で付加価値の高い部品を受注できるようになり、2006年度の売上はITバブル崩壊前の状態に回復しました」（https://www.yukiseimitsu.co.jp/company/story/・1回目）
+- 製品分野：
+  - 「2液性液体ロケットエンジンを想定」（https://www.yukiseimitsu.co.jp/business/precision/・1回目）
+  - 「例えば、宇宙空間や、 山林などの不整地、 熱帯、凍土、深海、そして高温環境から超低温環境」（https://www.yukiseimitsu.co.jp/business/rd/・1回目）
+  - 「人工衛星のミッション機器やISSでの試験装置、ロケット関連部品の設計支援を行っています」（https://www.yukiseimitsu.co.jp/business/rd/・1回目）
+  - 「地上での試験や基礎実験に用いられる機器や治具類はもちろん、フライトモデルとして宇宙空間で活躍している製品もあります」（https://www.yukiseimitsu.co.jp/business/rd/・1回目）
+  - 「人の命を救う医療機器は、開発が留まることなく、常に進化し続けている市場です」（https://www.yukiseimitsu.co.jp/business/rd/・1回目）
+  - 「実際に医療現場で働く方々や、医療機器メーカーと密に連携しながら、イメージを描き、製品化まで行っています」（https://www.yukiseimitsu.co.jp/business/rd/・1回目）
+  - 「宇宙ゴミを回収し、大気圏に突入するまでの動作を実際に宇宙で行なおうというもので、「捕獲機」と「模擬デブリ」で構成されています」（https://www.yukiseimitsu.co.jp/business/rd/case/・1回目）
+  - 「2021年3月23日にカザフスタンバイコヌール宇宙基地から打ち上げられ、同8月26日に軌道上で模擬デブリの捕獲実証に成功しました」（https://www.yukiseimitsu.co.jp/business/rd/case/・1回目）
+  - 「ロケットでの打ち上げや宇宙空間での動作を見据えて設計・製作した、2軸のジンバルです」（https://www.yukiseimitsu.co.jp/business/rd/case/・1回目）
+  - 「2液式液体燃料ロケットの姿勢制御用インジェクタを想定し、設計と加工の技術確認のためにオリジナルで試作したものです」（https://www.yukiseimitsu.co.jp/business/rd/case/・1回目）
+  - 「国立研究開発法人新エネルギー・産業技術総合開発機構[NEDO]の助成を受けて開発したスラスタに、推進薬を供給するための実験用治具です」（https://www.yukiseimitsu.co.jp/business/rd/case/・1回目）
+  - 「HTV搭載小型回収カプセルは、再突入機による国際宇宙ステーション(ISS)からの宇宙実験サンプルの回収を行うものです」（https://www.yukiseimitsu.co.jp/business/rd/case/・1回目）
+- AM関連：
+  - 「LUNAR DREAM CAPSULE PROJECT」（https://www.yukiseimitsu.co.jp/・1回目）
+  - 「3Dプリンタと精密切削加工を融合したスラスター」（https://www.yukiseimitsu.co.jp/business/precision/・1回目）
+  - 「3Dプリンター」（https://www.yukiseimitsu.co.jp/business/precision/facility/・1回目）
+  - 「金属3Dプリンター」（https://www.yukiseimitsu.co.jp/business/precision/facility/・1回目）
+  - 「樹脂3Dプリンター」（https://www.yukiseimitsu.co.jp/business/precision/facility/・1回目）
+  - 「JIS、AMS、ASTM、DIN、EN、ISOなど各種規格やアルミの調質記号などの指定に対応可能です」（https://www.yukiseimitsu.co.jp/business/precision/facility/・1回目）
+  - 「AISI403 / AMS5639 / AMS5643 / AMS5645 / AMS5647 / ASK-2300 / ASK-3200 / ASK-500F」（https://www.yukiseimitsu.co.jp/business/precision/facility/・1回目）
+  - 「ジェラルミン / 超ジェラルミン / 超々ジェラルミン / AMS4640 / BeCu25 / BeCu50 / C1011」（https://www.yukiseimitsu.co.jp/business/precision/facility/・1回目）
+  - 「快削黄銅 / 銅合金鋳物 / 無酸素銅 / 洋白 / AMS4928 / ASTM F136 / TB340 / Ti-6Al-4V」（https://www.yukiseimitsu.co.jp/business/precision/facility/・1回目）
+  - 「QQ-P-35、AMS QQ-P-35、AMS2700」（https://www.yukiseimitsu.co.jp/business/precision/facility/・1回目）
+  - 「LUNAR DREAM CAPSULE PROJECT」（https://www.yukiseimitsu.co.jp/business/rd/case/・1回目）
+  - 「姿勢制御用ノズルは、金属3Dプリンタで製造し、精度が必要な部分に切削加工を施しました」（https://www.yukiseimitsu.co.jp/business/rd/case/・1回目）
+- 連絡先：
+  - 「できるだけ鮮明に図面を把握したいので、可能な場合はメールでのご送付を希望します」（https://www.yukiseimitsu.co.jp/business/precision/suggest/・1回目）
+  - 「お問い合わせ - 株式会社由紀精密 神奈川県 茅ヶ崎市」（https://ja.nc-net.or.jp/company/48581/inquiry/input/・3回目）
+  - 「当社からの連絡に必要な電子メールアドレスを用意してそのアドレスを当社に対して登録すること」（https://ja.nc-net.or.jp/company/48581/inquiry/input/・3回目）
+  - 「当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします」（https://ja.nc-net.or.jp/company/48581/inquiry/input/・3回目）
+  - 「かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします」（https://ja.nc-net.or.jp/company/48581/inquiry/input/・3回目）
+- 検索結果の抜粋：
+  - 「株式会社由紀精密 — 由紀精密は、ミッション「ものづくりの力で世界を幸せに」を掲げ、精密部品の製造、機械の設計、それに伴うサービスにより、エンドユーザーが今よりも豊かに、お客様がより満たされるように、自社で働くメンバーが一層輝けるように、歩み続けます。」（https://www.yukiseimitsu.co.jp/・3回目）
+  - 「由紀精密の製品・サービス一覧｜イプロスものづくり — Feb 18, 2021 · 由紀精密 の製品・サービス一覧です。 要求精度の高い高難易度の複合加工品を、短納期でお求め安い価格で提供いたします。 創業以来47年、切削加工一筋でつちかったノウハウで、複雑な加工工程の高精度部品を削り出しで製造します。」（https://mono.ipros.com/company/detail/221680/category/・3回目）
+  - 「技術・製品 - 株式会社由紀精密 神奈川県 茅ヶ崎市 — Aug 21, 2023 · 由紀精密は神奈川県茅ヶ崎市に本社工場をもつ精密切削加工を得意とする企業です。 技術者が開発の原点からメーカーや研究機関、顧客と直接対話し、仕様書や構想図を基に設計から製造まで行える受託開発体制を整えました。」（https://ja.nc-net.or.jp/company/48581/product/・3回目）
+  - 「精密加工事業トップ [加工事例] | 株式会社由紀精密 — 切削加工を中心に、1950年から今日まで、毎日しっかりと着実に精密部品を作り続けています。 長い年月をかけて育んだ量産部品の製造手法や、高い品質要求のある一点ものの難加工まで 幅広く展開できる技術により、お客様のものづくりを支えます。」（https://www.yukiseimitsu.co.jp/business/precision/・3回目）
+  - 「会社概要 - 株式会社由紀精密 — 会社概要 ... アクセス 本社 / 茅ヶ崎工場 〒253-0084 神奈川県茅ヶ崎市円蔵370 TEL 0467-82-4106 FAX 0467-86-9614 TEL 0467-82-4106 FAX 0467-86-9614 電車でお越しの方 JR相模線 北茅ヶ崎駅より徒歩7分 車でお越しの方 新湘南バイパス 茅ヶ崎中央ICより5分」（https://www.yukiseimitsu.co.jp/company/・3回目）
+  - 「由紀ホールディングス株式会社｜ものづくりの力で世界を幸せに由紀精密工業株式会社 - 会社概要株式会社由紀精密 - METI株式会社由紀精密 | 加工会社ナビ株式会社由紀精密（神奈川県・製造業）の会社概要 | イノベーションズ... — Jul 23, 2026 · 由紀精密の精密切削加工技術は、かつて公衆電話の部品を支え、その後は光ファイバーの部品、航空機や人工衛星の部品へと応用の場を広げてきました。 JSAは、細くしなやかな電線製造技術を受け継ぎ、超電導の線材づくりに取り組んでいます。 由紀精密工業株式会社の事業概要 NC複合加工機による量産物から手加工による単品物まで、多品種少量生産に対応します。 電子、電機機器部品、産業用機械部品、一般精密機械部品、医療機器等、あらゆる産業の部品加工を行っております。 事業概要 を構えています。本社の他に新横浜の開発拠点があり、合わせて33名の従業員」（https://yuki-holdings.jp/・3回目）
+  - 「由紀精密工業株式会社 - 会社概要 — 由紀精密工業株式会社の事業概要 NC複合加工機による量産物から手加工による単品物まで、多品種少量生産に対応します。 電子、電機機器部品、産業用機械部品、一般精密機械部品、医療機器等、あらゆる産業の部品加工を行っております。」（https://www.atengineer.com/pr/yukiseimitsu/company・3回目）
+  - 「株式会社由紀精密 | 加工会社ナビ — 株式会社由紀精密の 概要 航空宇宙、医療機器、電気電子、産業機器向けに精密切削加工部品の製造を主力としています。 量産品から難加工の一点ものまで、顧客の多様なニーズに対応した製品を提供しています。」（https://eigyo-mfg.com/service/navi/company/1rknFsNZtU5g・3回目）
+  - 「お問い合わせ | 株式会社由紀精密 — お知らせ NEWS コラムアーカイブ 事業紹介 精密加工事業 トップ [加工事例] 提案型ものづくり 主要分野と経験 品質管理 設備 / 材料 / 処理 Q&A 技術開発事業 トップ [由紀精密の技術開発とは] 機械設計支援 技術コンサルティング 開発事例 採用情報 お問い合わせ」（https://www.yukiseimitsu.co.jp/inquiry/・3回目）
+  - 「お問い合わせ - 株式会社由紀精密 神奈川県 茅ヶ崎市 — Sep 12, 2022 · 由紀精密は神奈川県茅ヶ崎市に本社工場をもつ精密切削加工を得意とする企業です。 技術者が開発の原点からメーカーや研究機関、顧客と直接対話し、仕様書や構想図を基に設計から製造まで行える受託開発体制を整えました。」（https://ja.nc-net.or.jp/company/48581/inquiry/・3回目）
+  - 「精密加工事業にお問い合わせ | 株式会社由紀精密 — 株式会社由紀精密 精密加工事業 本社 / 茅ヶ崎工場 〒253-0084 神奈川県茅ヶ崎市円蔵370 TEL 0467-82-4106 / FAX 0467-86-9614 技術開発事業 TECH DESIGN YOKOHAMA 〒222-0033 神奈川県横浜市港北区新横浜3-18-5 アイズビル9F TEL 045-620-2555 / FAX 045-620-2556 SEIMITSU COMAに関して」（https://www.yukiseimitsu.co.jp/inquiry/precision/・3回目）
+  - 「由紀ホールディングス株式会社｜ものづくりの力で世界を幸せにユキワ精工株式会社｜お問い合わせYUKI Précision — Jul 23, 2026 · 由紀ホールディングスは、日本の中小製造業で長年培われた要素技術を深く理解し、先端産業に応用することで、技術の承継と継続的な進化をもたらします。 目指すのは、要素技術による社会課題の解決です。 日本雪和精工株式会社 上海代表処 中国国内における円テーブルのサービスに関するお問い合わせ 〒200336 上海市長寧区楼山関路85號 東方國際大厦B座302室 TEL：+86-21-6270-9020 FAX：+86-21-6270-9019 Jan 28, 2026 · 由紀精密は、ミッション「ものづくりの力で世界を幸せに」を掲げ、精密部品の製造、機械の設計、それに伴うサービスにより、エンドユーザーが今よりも豊かに、お客様がより満たされるように、」（https://yuki-holdings.jp/・3回目）
+- 代表者：記載なし（3回確認済み：公式26頁／PDF・画像1件／外部11頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式26頁／PDF・画像1件／外部11頁・検索9回）
+
 ## 株式会社相馬製作所
 - 公式URL：https://soma-ss.co.jp（given）
 - 所在地：本社 〒332-0002　埼玉県川口市弥平1丁目19番16号 本社第2工場 〒332-0003　埼玉県川口市東領家3丁目11番13号 本社物流倉庫 〒332-0003　埼玉県川口市東領家3丁目13番4号 福島工場 〒975-0062　福島県南相馬市原町区本陣前3丁目58番地（https://www.soma-ss.co.jp/company/・3回目）
@@ -12068,6 +15899,89 @@ FAX.0256-57-3581（https://www.mrkt.co.jp/companyinfo/・1回目）
 - 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部13頁・検索9回）
 - 取扱材料：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部13頁・検索9回）
 - AM関連：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部13頁・検索9回）
+
+## 株式会社石川工場
+- 公式URL：https://www.ishikawakojo.jp（given）
+- 所在地：〒135-0053　東京都江東区辰巳1丁目 1-8（https://www.ishikawakojo.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E7%9F%B3%E5%B7%9D%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%81%82%E3%82%86%E3%81%BF/・1回目）
+- 所在地：東京都江東区辰巳1-1-8（https://tenshoku.mynavi.jp/company/390131/・3回目）
+- 事業内容：石川式攪拌擂潰機製造販売（https://www.ishikawakojo.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E7%9F%B3%E5%B7%9D%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%81%82%E3%82%86%E3%81%BF/・1回目）
+- 事業内容：石川式撹拌擂潰機（自動乳鉢）の製造販売 微量機、真空/加熱/冷却型の小型機、鉢固定式や鉢回転式の大型機等、 多様な種類の石川式撹拌擂潰機（自動乳鉢）を手掛けています。（https://tenshoku.mynavi.jp/company/390131/・3回目）
+- 代表者：代表取締役社長　中村 雅一（https://www.ishikawakojo.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E7%9F%B3%E5%B7%9D%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%81%82%E3%82%86%E3%81%BF/・1回目）
+- 代表者：代表取締役　中村 雅一（https://tenshoku.mynavi.jp/company/390131/・3回目）
+- 従業員数：11名（https://tenshoku.mynavi.jp/company/390131/・3回目）
+- 従業員数：17名（https://mono.ipros.com/company/detail/222405/・3回目）
+- 取扱製品：
+  - 「製品活用事例「高濃度と無損傷を両立！石川式自動乳鉢のSWCNT前処理分散」をアップしました」（https://www.ishikawakojo.jp/・1回目）
+  - 「製品活用事例「【産総研 共同評価】全固体電池の界面抵抗を抑える粉体混合の最適解」をアップしました」（https://www.ishikawakojo.jp/・1回目）
+  - 「製品トピックス｜Tiny plus 超小型 卓上型」（https://www.ishikawakojo.jp/・1回目）
+  - 「また、製品選定や性能評価に役立つデータ・情報もご覧いただけます」（https://www.ishikawakojo.jp/・1回目）
+  - 「「ボールミル」「ニーダー」「三本ロール」「ミキサー」「自動乳鉢」等を導入されている企業様で処理結果にお困りの方は、代替機としてぜひ弊社製品をご検討ください」（https://www.ishikawakojo.jp/%E7%9F%B3%E5%B7%9D%E5%BC%8F%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E6%A9%9F%E3%81%AE%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B/・1回目）
+  - 「「ボールミル」「ニーダー」「三本ロールミル」「ミキサー」「自動乳鉢」等を導入されている企業様で処理結果にお困りの方は、代替になり得るか、ぜひ一度弊社製品をお試しください」（https://www.ishikawakojo.jp/%E7%9F%B3%E5%B7%9D%E5%BC%8F%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E6%A9%9F%E3%81%AE%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B/・1回目）
+  - 「これにより石川式撹拌擂潰機は常にその時代の最先端の材料の研究開発、製品の生産に採用使用される事になり、この磁器製の乳棒、乳鉢を搭載した機械は現在でも石川式撹拌擂潰機（自動乳鉢）の主力機械となっています」（https://www.ishikawakojo.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E7%9F%B3%E5%B7%9D%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%81%82%E3%82%86%E3%81%BF/・1回目）
+  - 「その後、昭和後半には耐摩耗性に優れたステンレス・メノウ・超硬合金・高純度アルミナ製などの乳鉢/乳棒をラインナップに加え、さらに多様なニーズに対応可能になりました」（https://www.ishikawakojo.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E7%9F%B3%E5%B7%9D%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%81%82%E3%82%86%E3%81%BF/・1回目）
+  - 「製品一覧 - 石川式自動乳鉢（撹拌擂潰機）」（https://www.ishikawakojo.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/・1回目）
+  - 「撹拌機、粉砕機としても利用可能な小型機｜石川式攪拌擂潰機・自動乳鉢の製品一覧 - 石川式自動乳鉢（撹拌擂潰機）」（https://www.ishikawakojo.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E5%B0%8F%E5%9E%8B%E6%A9%9F/・1回目）
+  - 「1．製品概要」（https://www.ishikawakojo.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E5%BE%AE%E9%87%8F%E6%A9%9F/tiny-%E8%B6%85%E5%B0%8F%E5%9E%8B/・1回目）
+  - 「5．製品の動きと操作方法」（https://www.ishikawakojo.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E5%BE%AE%E9%87%8F%E6%A9%9F/tiny-%E8%B6%85%E5%B0%8F%E5%9E%8B/・1回目）
+- 取扱材料：
+  - 「処理量、材質、真空環境、加熱・冷却など、材料や環境に合わせた最適な機械をお選びいただけます」（https://www.ishikawakojo.jp/・1回目）
+  - 「機械サイズ（処理量）、乳鉢・乳棒の材質、回転機構、真空環境、加熱・冷却しながらの」（https://www.ishikawakojo.jp/・1回目）
+  - 「—SDGs時代の無機フィラー入り樹脂材料開発と石川式自動乳鉢の活用」（https://www.ishikawakojo.jp/%E7%9F%B3%E5%B7%9D%E5%BC%8F%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E6%A9%9F%E3%81%AE%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B/・1回目）
+  - 「金属ペースト、ガラスペースト・スラリー、カーボンペースト、磁器、シリカペースト、カーボンナノチューブ、パッケージ封止材、導電性インク、導電性接着剤等IC材料・ガスセンサー、圧電素子等各種センサー素材・フェライト磁石素材・電池用材料（2次電池の電極材、全固体電池の電解質）・ハンダ材（フラックス）、セラミック材料」（https://www.ishikawakojo.jp/%E7%9F%B3%E5%B7%9D%E5%BC%8F%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E6%A9%9F%E3%81%AE%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B/・1回目）
+  - 「ファインセラミック粉・センサー材料・貴金属粉・カーボン粉末・ガラス添加物・粉末治金・酸化アルミナ・金属、鉱物試料・陶芸釉薬」（https://www.ishikawakojo.jp/%E7%9F%B3%E5%B7%9D%E5%BC%8F%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E6%A9%9F%E3%81%AE%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B/・1回目）
+  - 「乳鉢/乳棒の材質のラインアップに、ステンレス・メノウ・超硬合金・高純度アルミナ製などが加わる」（https://www.ishikawakojo.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E7%9F%B3%E5%B7%9D%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%81%82%E3%82%86%E3%81%BF/・1回目）
+  - 「石川式撹拌擂潰機は機械サイズ（搭載される乳鉢、臼、釜の容積）、乳鉢と乳棒の材質、乳鉢/乳棒の回転機構、真空環境や加熱、冷却しながらの撹拌擂潰処理が可能な機械等処理材料の処理量や硬度、粒子径サイズ、粘度等、様々な処理材料の状況に合わせた機械を揃えております」（https://www.ishikawakojo.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/・1回目）
+  - 「乳鉢の材質、は磁器・アルミナ・花崗岩・砲金・ステンレス等、乳棒の材質は、磁器・木・テフロン等で、バリエーションにより様々な処理材料に対応します」（https://www.ishikawakojo.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E5%B0%8F%E5%9E%8B%E6%A9%9F/・1回目）
+  - 「Q3. 乳鉢・乳棒の材質は選べますか？」（https://www.ishikawakojo.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E5%B0%8F%E5%9E%8B%E6%A9%9F/d101s-d16s-d18s-d20s-d22s-%E5%8D%93%E4%B8%8A%E6%A9%9F/・1回目）
+  - 「電池材料、電子材料、セラミックス、医薬・化粧品分野の前処理」（https://www.ishikawakojo.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E5%B0%8F%E5%9E%8B%E6%A9%9F/d20sl-%E5%8D%93%E4%B8%8A%E6%A9%9F/・1回目）
+  - 「乳棒の材質変更や本数変更を伴う試験でも、段取り時間を最小限に抑えられます」（https://www.ishikawakojo.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E5%B0%8F%E5%9E%8B%E6%A9%9F/d20sl-%E5%8D%93%E4%B8%8A%E6%A9%9F/・1回目）
+  - 「医薬品、化粧品、セラミックス、電池材料など、研究開発現場での少量試料の粉砕・混合・練り処理による配合検討」（https://www.ishikawakojo.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E5%BE%AE%E9%87%8F%E6%A9%9F/agb-%E5%8D%93%E4%B8%8A%E5%9E%8B/・1回目）
+- 一点物・少量多品種：
+  - 「処理等、材料の性質（量・硬度・粒子径サイズ粘度等）や、処理環境に合わせた特注仕様のご相談も承っております」（https://www.ishikawakojo.jp/・1回目）
+  - 「少量サンプルに特化（0.5 gから対応）」（https://www.ishikawakojo.jp/・1回目）
+  - 「オーダーメイドや特殊仕様など、こんな機械を作ってほしい（開発提案）」（https://www.ishikawakojo.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E7%9F%B3%E5%B7%9D%E5%BC%8F%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E6%A9%9F-%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E5%95%8F%E5%90%88%E3%81%9B/・1回目）
+  - 「石川式撹拌擂潰機の撹拌擂潰性能を小型で軽量な筐体（平成後半にはステンレス筐体も発売）に収納することで、研究開発用途や少量の試作、量産用にも石川式撹拌擂潰機を手軽にご利用頂ける様になりました」（https://www.ishikawakojo.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E7%9F%B3%E5%B7%9D%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%81%82%E3%82%86%E3%81%BF/・1回目）
+  - 「手作業でよく使われる0.5gの極少量の処理も可能」（https://www.ishikawakojo.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E5%B0%8F%E5%9E%8B%E6%A9%9F/・1回目）
+  - 「分析試料の調整や、硬質物質の少量の処理に好適」（https://www.ishikawakojo.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E5%B0%8F%E5%9E%8B%E6%A9%9F/・1回目）
+  - 「～極少量サンプル＋グローブボックス運用に特化したモデル～」（https://www.ishikawakojo.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E5%BE%AE%E9%87%8F%E6%A9%9F/tiny-%E8%B6%85%E5%B0%8F%E5%9E%8B/・1回目）
+  - 「Tiny は、石川式自動乳鉢（正式名称：石川式撹拌擂潰機）シリーズの中で最もコンパクトなモデルとして設計された、極少量サンプル専用の精密混練・分散・粉砕装置です」（https://www.ishikawakojo.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E5%BE%AE%E9%87%8F%E6%A9%9F/tiny-%E8%B6%85%E5%B0%8F%E5%9E%8B/・1回目）
+  - 「極少量試料でも、手すり乳鉢と同等の再現性」（https://www.ishikawakojo.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E5%BE%AE%E9%87%8F%E6%A9%9F/tiny-%E8%B6%85%E5%B0%8F%E5%9E%8B/・1回目）
+  - 「Tiny plus ～極少量サンプルに最適化したTinyの進化版～」（https://www.ishikawakojo.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E5%BE%AE%E9%87%8F%E6%A9%9F/tiny-plus-%E8%B6%85%E5%B0%8F%E5%9E%8B/・1回目）
+  - 「極少量サンプル専用の精密混練・分散・粉砕・撹拌装置」（https://www.ishikawakojo.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E5%BE%AE%E9%87%8F%E6%A9%9F/tiny-plus-%E8%B6%85%E5%B0%8F%E5%9E%8B/・1回目）
+  - 「極少量サンプルをムラなく処理できる高精度メカニズム」（https://www.ishikawakojo.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E5%BE%AE%E9%87%8F%E6%A9%9F/tiny-plus-%E8%B6%85%E5%B0%8F%E5%9E%8B/・1回目）
+- 製品分野：
+  - 「軟膏材・義歯素材等歯科材料・人工骨・化粧品素材・香料、漢方薬、健康食品」（https://www.ishikawakojo.jp/%E7%9F%B3%E5%B7%9D%E5%BC%8F%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E6%A9%9F%E3%81%AE%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B/・1回目）
+  - 「昭和30年代「日本の宇宙開発の父」とされる糸川英夫博士のペンシルロケットの固形燃料製造石川式撹拌擂潰機（自動乳鉢）が採用されたこともその象徴です」（https://www.ishikawakojo.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E7%9F%B3%E5%B7%9D%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%81%82%E3%82%86%E3%81%BF/・1回目）
+  - 「「日本の宇宙開発の父」とされる糸川英夫博士が、 ペンシルロケットの固形燃料製造に「石川式撹拌擂潰機」を採用」（https://www.ishikawakojo.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81-%E7%9F%B3%E5%B7%9D%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%81%82%E3%82%86%E3%81%BF/・1回目）
+- AM関連：
+  - 「板ガラスからサラサラの微粉末へ：石川式自動乳鉢AGB型によるガラス粉砕と過粉砕（ダマ化）の検証」（https://www.ishikawakojo.jp/%E7%9F%B3%E5%B7%9D%E5%BC%8F%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E6%A9%9F%E3%81%AE%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B/・1回目）
+  - 「塗料用粉末・接着剤添加物・インク用材・火薬類・グリース添加物・朱肉・墨汁・染料・顔料・絵具・漆材、七宝釉薬、触媒」（https://www.ishikawakojo.jp/%E7%9F%B3%E5%B7%9D%E5%BC%8F%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E6%A9%9F%E3%81%AE%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B/・1回目）
+  - 「ファインセラミック粉・センサー材料・貴金属粉・カーボン粉末・ガラス添加物・粉末治金・酸化アルミナ・金属、鉱物試料・陶芸釉薬」（https://www.ishikawakojo.jp/%E7%9F%B3%E5%B7%9D%E5%BC%8F%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E6%A9%9F%E3%81%AE%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B/・1回目）
+  - 「蕎麦・うどん・高級和菓子・洋菓子・製餡、カレールウ・粉末スープ・豆腐・こんにゃく・わさび漬け・蒲鉾・はんぺん、竹輪・ハム・すりごま・味噌すり、ピーナッツペースト」（https://www.ishikawakojo.jp/%E7%9F%B3%E5%B7%9D%E5%BC%8F%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E6%A9%9F%E3%81%AE%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B/・1回目）
+  - 「例えば、スラリーの場合、乳棒が材料を強力に撹拌、すり潰しをするため、固まることなく粉末化します」（https://www.ishikawakojo.jp/%E7%9F%B3%E5%B7%9D%E5%BC%8F%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E6%A9%9F%E3%81%AE%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B/・1回目）
+  - 「加熱によりベース樹脂の流動性を高めつつ、粉末フィラーを均一に混練」（https://www.ishikawakojo.jp/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E5%B0%8F%E5%9E%8B%E6%A9%9F/24r%E5%8F%B7-%E5%8A%A0%E7%86%B1-%E5%86%B7%E5%8D%B4%E5%9E%8B/・1回目）
+- 連絡先：
+  - 「弊社へのお問い合わせ・ご相談・ご連絡フォーム」（https://www.ishikawakojo.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E6%8E%A1%E7%94%A8-%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/・1回目）
+  - 「お問い合わせ以外の目的でのご利用はご遠慮ください」（https://www.ishikawakojo.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E6%8E%A1%E7%94%A8-%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/・1回目）
+  - 「お問い合わせ - 石川式自動乳鉢（撹拌擂潰機）」（https://www.ishikawakojo.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/・1回目）
+  - 「お問い合わせ以外の目的でのご利用はご遠慮ください」（https://www.ishikawakojo.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/・1回目）
+  - 「お問い合わせ お見積り依頼・デモルーム使用依頼 - 石川式自動乳鉢（撹拌擂潰機）」（https://www.ishikawakojo.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E7%9F%B3%E5%B7%9D%E5%BC%8F%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E6%A9%9F-%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E5%95%8F%E5%90%88%E3%81%9B/・1回目）
+  - 「機械やサービスに関するお問い合わせ・お見積り依頼」（https://www.ishikawakojo.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E7%9F%B3%E5%B7%9D%E5%BC%8F%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E6%A9%9F-%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E5%95%8F%E5%90%88%E3%81%9B/・1回目）
+  - 「お問い合わせ以外の目的でのご利用はご遠慮ください」（https://www.ishikawakojo.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E7%9F%B3%E5%B7%9D%E5%BC%8F%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E6%A9%9F-%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E5%95%8F%E5%90%88%E3%81%9B/・1回目）
+  - 「機械やサービスに関するお問い合わせ・お見積りご依頼フォーム」（https://www.ishikawakojo.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E7%9F%B3%E5%B7%9D%E5%BC%8F%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E6%A9%9F-%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E5%95%8F%E5%90%88%E3%81%9B/・1回目）
+  - 「お問い合わせ内容を選択 ※セールス等のご案内はご遠慮くださいませ」（https://www.ishikawakojo.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E7%9F%B3%E5%B7%9D%E5%BC%8F%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E6%A9%9F-%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E5%95%8F%E5%90%88%E3%81%9B/・1回目）
+  - 「※営業時間外・休日のお問い合わせについては、翌営業日以降にご連絡致します」（https://www.ishikawakojo.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E7%9F%B3%E5%B7%9D%E5%BC%8F%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E6%A9%9F-%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E5%95%8F%E5%90%88%E3%81%9B/・1回目）
+  - 「以下の情報をご記載の上、メールにて直接」（https://www.ishikawakojo.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E7%9F%B3%E5%B7%9D%E5%BC%8F%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E6%A9%9F-%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E5%95%8F%E5%90%88%E3%81%9B/・1回目）
+  - 「貴社名 / ご氏名 / 電話番号 / メールアドレス」（https://www.ishikawakojo.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E7%9F%B3%E5%B7%9D%E5%BC%8F%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E6%A9%9F-%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E5%95%8F%E5%90%88%E3%81%9B/・1回目）
+- 検索結果の抜粋：
+  - 「株式会社 石川工場 の 会社概要 - マイナビ転職 — 株式会社 石川工場 の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company」（https://tenshoku.mynavi.jp/company/390131/・3回目）
+  - 「石川工場 | 企業 情報 | イプロスものづくり — 石川工場 | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 産業用機械」（https://mono.ipros.com/company/detail/222405/・3回目）
+  - 「石川工場 | 拠点紹介 | 働く環境と制度 | 新卒採用サイト - 東レ — 石川工場 | 拠点紹介 | 働く環境と制度 | 新卒採用サイト - 東レ TORAY https://www.toray.co.jp > worklifebalance > plants_ishikawa」（https://www.toray.co.jp/saiyou/fresh/worklifebalance/plants_ishikawa.html・3回目）
+  - 「石川工場 のあゆみ｜ 会社概要 - 石川式自動乳鉢（撹拌擂潰機） — 石川工場 のあゆみ｜ 会社概要 - 石川式自動乳鉢（撹拌擂潰機） ishikawakojo.jp https://www.ishikawakojo.jp > 創業初期のカタログ」（https://www.ishikawakojo.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/%E5%89%B5%E6%A5%AD%E5%88%9D%E6%9C%9F%E3%81%AE%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0/・3回目）
+  - 「機械やサービスに関する お問い合わせ ・お見積り依頼 - 石川工場 — 機械やサービスに関する お問い合わせ ・お見積り依頼 - 石川工場 ishikawakojo.jp https://www.ishikawakojo.jp > お問い合わせ > 石川式撹...」（https://www.ishikawakojo.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E7%9F%B3%E5%B7%9D%E5%BC%8F%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E6%A9%9F-%E6%92%B9%E6%8B%8C%E6%93%82%E6%BD%B0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E5%95%8F%E5%90%88%E3%81%9B/・3回目）
+- 売上高：記載なし（3回確認済み：公式26頁／PDF・画像9件／外部14頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式26頁／PDF・画像9件／外部14頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式26頁／PDF・画像9件／外部14頁・検索9回）
 
 ## 株式会社第一金属製作所
 - 公式URL：https://daiichikinzoku.co.jp（given）
@@ -12334,6 +16248,76 @@ FAX.0256-57-3581（https://www.mrkt.co.jp/companyinfo/・1回目）
 - 売上高：記載なし（3回確認済み：公式26頁／PDF・画像3件／外部6頁・検索9回）
 - 取引先：記載なし（3回確認済み：公式26頁／PDF・画像3件／外部6頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式26頁／PDF・画像3件／外部6頁・検索9回）
+
+## 株式会社菅原モデル
+- 公式URL：http://www.sugawaramodel.co.jp（given）
+- 所在地：〒252-0244 神奈川県相模原市中央区田名3156-4（https://www.sugawaramodel.co.jp/company・1回目）
+- 事業内容：プロダクトデザイン、製品開発段階での試作品製造、 自動車バイク部品製造（https://www.sugawaramodel.co.jp/company・1回目）
+- 代表者：菅原 公一（https://www.sugawaramodel.co.jp/company・1回目）
+- 従業員数：1名(その他専門検査員数名 )（https://www.sugawaramodel.co.jp/company・1回目）
+- 取扱製品：
+  - 「製品1個からでもまずはご相談下さい」（https://www.sugawaramodel.co.jp/・1回目）
+  - 「プロダクトデザイン、製品開発段階での試作品製造、」（https://www.sugawaramodel.co.jp/company・1回目）
+  - 「ホビー・アミューズメント関連などのユニークな製品から、自動車部品・医療器具・セキュリティ機器まで、多種多様な業界の実績から、適正な提案を行います」（https://www.sugawaramodel.co.jp/products・1回目）
+  - 「大型樹脂成形品の小ロット生産や、生涯生産台数の少ない製品の」（https://mono.ipros.com/product/detail/2000597300/・3回目）
+  - 「弊社は、量産前の開発過程で、商品イメージ検討や性能テストを担うモデル製品の作成を行っています」（https://mono.ipros.com/product/detail/2000597300/・3回目）
+  - 「マグネシウム３D加工など、新しい試作のニーズに応えて、難易度が高い製品なども取り扱っております」（https://mono.ipros.com/product/detail/2000597300/・3回目）
+  - 「製品・サービス一覧 (42)」（https://mono.ipros.com/product/detail/2000597300/・3回目）
+  - 「、製品・技術・サービス」（https://www.atengineer.com/pr/sugawaramodel/company・3回目）
+  - 「製品開発時の試作モデル、機構部品・注型・金型・板金、構造設計・回路設計などを行う」（https://www.atengineer.com/pr/sugawaramodel/company・3回目）
+- 取扱材料：
+  - 「また樹脂切削による試作品だけでなく、簡易試作金型の製作や、1個～10,000個程度までの小ロット成形に対応」（https://www.sugawaramodel.co.jp/・1回目）
+  - 「樹脂から金属まで様々なご要望にお応えできます」（https://www.sugawaramodel.co.jp/・1回目）
+  - 「また樹脂切削による試作品だけでなく、簡易試作金型の製作や、1個～10,000個程度までの小ロット成形にも対応」（https://www.sugawaramodel.co.jp/company・1回目）
+  - 「『金属・樹脂部品の試作・小ロット成形・量産』※加工事例進呈 菅原モデル | イプロスものづくり」（https://mono.ipros.com/product/detail/2000597300/・3回目）
+  - 「『金属・樹脂部品の試作・小ロット成形・量産』※加工事例進呈」（https://mono.ipros.com/product/detail/2000597300/・3回目）
+  - 「大型樹脂成形品の小ロット生産や、生涯生産台数の少ない製品の」（https://mono.ipros.com/product/detail/2000597300/・3回目）
+  - 「◎樹脂加工：切削・粉体造形、3Dプリンター加工、」（https://mono.ipros.com/product/detail/2000597300/・3回目）
+  - 「マグネシウム３D加工など、新しい試作のニーズに応えて、難易度が高い製品なども取り扱っております」（https://mono.ipros.com/product/detail/2000597300/・3回目）
+- 一点物・少量多品種：
+  - 「弊社は商品イメージ検討用のデザインモデルや性能テスト用の試作品、量産前試作、」（https://www.sugawaramodel.co.jp/・1回目）
+  - 「小ロットから大量の量産、仕上、簡易的な組み立てまで一貫生産対応が可能です」（https://www.sugawaramodel.co.jp/・1回目）
+  - 「試作品製造／真空注型／金型成形／板金・プレス／ダイカスト鋳造／表面処理 アルマイトetc／各種塗装／シルク印刷」（https://www.sugawaramodel.co.jp/・1回目）
+  - 「また樹脂切削による試作品だけでなく、簡易試作金型の製作や、1個～10,000個程度までの小ロット成形に対応」（https://www.sugawaramodel.co.jp/・1回目）
+  - 「また樹脂切削による試作品だけでなく、簡易試作金型の製作や、1個～10,000個程度までの小ロット成形にも対応」（https://www.sugawaramodel.co.jp/company・1回目）
+  - 「プロダクトデザイン、製品開発段階での試作品製造、」（https://www.sugawaramodel.co.jp/company・1回目）
+  - 「金型による小ロット成形品、」（https://www.sugawaramodel.co.jp/company・1回目）
+  - 「１個の手作り試作から、量産性に配慮した金型製作、トライ成形と検証、実機の小ロット量産まで、モノづくりのプロセスを支援します」（https://www.sugawaramodel.co.jp/products・1回目）
+  - 「『金属・樹脂部品の試作・小ロット成形・量産』※加工事例進呈 菅原モデル | イプロスものづくり」（https://mono.ipros.com/product/detail/2000597300/・3回目）
+  - 「『金属・樹脂部品の試作・小ロット成形・量産』※加工事例進呈」（https://mono.ipros.com/product/detail/2000597300/・3回目）
+  - 「性能テスト用の試作から2万個程度の小ロット生産まで対応」（https://mono.ipros.com/product/detail/2000597300/・3回目）
+  - 「当社では、商品イメージ検討用のモデル製作から、性能テスト用の試作、」（https://mono.ipros.com/product/detail/2000597300/・3回目）
+- 製品分野：
+  - 「試作品製造／真空注型／金型成形／板金・プレス／ダイカスト鋳造／表面処理 アルマイトetc／各種塗装／シルク印刷」（https://www.sugawaramodel.co.jp/・1回目）
+  - 「また樹脂切削による試作品だけでなく、簡易試作金型の製作や、1個～10,000個程度までの小ロット成形に対応」（https://www.sugawaramodel.co.jp/・1回目）
+  - 「スポーツ機器、精密機器、特殊機器(通信・検査・海洋など）、自動車部品、医療機器など」（https://www.sugawaramodel.co.jp/・1回目）
+  - 「国内外に多数の協力会社を所有する当社では筐体・外装品の成形については、小型～中型の民生機器から大型のスポーツ機器、精密機器、特殊機器（通信・検査・海洋など）、医療機器まで幅広い実績を誇ります」（https://www.sugawaramodel.co.jp/company・1回目）
+  - 「また樹脂切削による試作品だけでなく、簡易試作金型の製作や、1個～10,000個程度までの小ロット成形にも対応」（https://www.sugawaramodel.co.jp/company・1回目）
+  - 「金型による小ロット成形品、」（https://www.sugawaramodel.co.jp/company・1回目）
+  - 「ホビー・アミューズメント関連などのユニークな製品から、自動車部品・医療器具・セキュリティ機器まで、多種多様な業界の実績から、適正な提案を行います」（https://www.sugawaramodel.co.jp/products・1回目）
+  - 「１個の手作り試作から、量産性に配慮した金型製作、トライ成形と検証、実機の小ロット量産まで、モノづくりのプロセスを支援します」（https://www.sugawaramodel.co.jp/products・1回目）
+  - 「★自動車部品や建設模型などを掲載した「加工事例資料」を進呈中！」（https://mono.ipros.com/product/detail/2000597300/・3回目）
+  - 「事例付き資料『量産金型・簡易金型・注型によるコスト削減のご提案』」（https://mono.ipros.com/product/detail/2000597300/・3回目）
+  - 「また、試作時のデータをそのまま活用し短期間での金型完成も可能です」（https://mono.ipros.com/product/detail/2000597300/・3回目）
+  - 「産業用ロボット分野、輸送機器など 産業機器用部品」（https://mono.ipros.com/product/detail/2000597300/・3回目）
+- AM関連：
+  - 「ダイキャスト加工、SLM（金属3Dプリンター）加工など」（https://mono.ipros.com/product/detail/2000597300/・3回目）
+  - 「◎樹脂加工：切削・粉体造形、3Dプリンター加工、」（https://mono.ipros.com/product/detail/2000597300/・3回目）
+  - 「ワークサイズ表_3Dプリンタ」（https://mono.ipros.com/product/detail/2000597300/・3回目）
+  - 「特にお急ぎのお客さまへは、光造形でマスタ－製作し、そのまま注型品完成まで、対応が可能です」（https://mono.ipros.com/product/detail/2000597300/・3回目）
+- 連絡先：
+  - 「また、定期的にメールの確認もいたしますが、」（https://www.sugawaramodel.co.jp/・1回目）
+- 検索結果の抜粋：
+  - 「株式会社菅原モデル — 菅原モデルは商品イメージ検討用のデザインモデルや性能テスト用の試作品,量産前試作,小ロット~大量の量産,仕上,簡易的な組み立てまで一貫生産対応が可能な製造のスペシャリストです。」（https://www.sugawaramodel.co.jp/・3回目）
+  - 「試作 | 株式会社菅原モデル — 試作 金属・樹脂のマシニング加工 お客様のご要望に沿った、加工方法にて試作製作 試作・小ロット品に幅広く対応しています。 金属では五軸加工での精密加工や板金、プレス加工など 樹脂では粉体造形・光造形・真空注型など」（https://www.sugawaramodel.co.jp/works・3回目）
+  - 「菅原モデルの製品・サービス一覧｜イプロスものづくり — 菅原モデルは、金属・樹脂の試作から小ロット品、量産品に幅広く対応しています。 材質・数量・精度・サイズ・コストなど、お客様のご要望に応じて 適切な工法により製品を加工。」（https://mono.ipros.com/company/detail/2002775/category/・3回目）
+  - 「会社案内 | 株式会社菅原モデル株式会社菅原モデル菅原モデル | 企業情報 | イプロスものづくり株式会社菅原モデル - 会社概要会社概要｜株式会社菅原 - kk-sugahara.co.jp株式会社菅原株式会社 菅原モデル 神奈川県 相模原市中央区 — また樹脂切削による試作品だけでなく、簡易試作金型の製作や、1個～10,000個程度までの小ロット成形にも対応。 初期のデザインモデルを切削しながら、量産化に向けたご提案をさせていただき、管理工数やリードタイムの削減に貢献します。 菅原モデルは商品イメージ検討用のデザインモデルや性能テスト用の試作品,量産前試作,小ロット~大量の量産,仕上,簡易的な組み立てまで一貫生産対応が可能な製造のスペシャリストです。 弊社は、量産前の開発過程で、商品イメージ検討や性能テストを担うモデル製品の作成を行っています。 お客様のご希望に応じ1個からの製作をお受」（https://www.sugawaramodel.co.jp/company・3回目）
+  - 「株式会社菅原モデル - 会社概要 — 企業プロフィール 企業名 株式会社菅原モデル 企業名かな すがわらもでる 住所 〒229-1124 神奈川県相模原市田名2214−1 代表者名 菅原 正弘 ホームページ 株式会社菅原モデルのホームページ」（https://www.atengineer.com/pr/sugawaramodel/company・3回目）
+  - 「会社概要｜株式会社菅原 - kk-sugahara.co.jp株式会社菅原株式会社 菅原モデル 神奈川県 相模原市中央区 — TEL（093）681-8361 FAX（093）671-0293 企業情報 会社概要 企業理念 役員 沿革 主な納入先 主な仕入先 ISO 事業紹介 鉄鋼プラント設備 電力・エネルギー設備 公共・環境設備 産業用設備・機器 石油化学プラント設備 その他の設備 営業所一覧 採用情報 心を合わせ、力を合わせ、助け合って、夢と活力のある菅原文化の醸成を大切にしております。 顧客第一の精神に徹して、常に経済的な価値ある商品・サービス・情報を提供いたして、 よりよく奉仕することを使命にしております。 Aug 1, 2018 · 【その他の事業内容】 高機能樹脂、及びマグネシュウム3次元加工、節電 電気泳動式DNA鑑定装置初期筐体 医療用胆管 医療用細血官挿入器 臨床向け少量」（https://www.kk-sugahara.co.jp/gaiyou/gaiyou.html・3回目）
+  - 「株式会社 菅原モデル 神奈川県 相模原市中央区 — Aug 1, 2018 · 【その他の事業内容】 高機能樹脂、及びマグネシュウム3次元加工、節電 電気泳動式DNA鑑定装置初期筐体 医療用胆管 医療用細血官挿入器 臨床向け少量製造 アルミ精密切削加工 3D顔認証システム筐体 簡易成形工法」（https://ja.nc-net.or.jp/company/5184/・3回目）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部5頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部5頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部5頁・検索9回）
 
 ## 株式会社落合堂製作所 株式会社落合堂製作所
 - 公式URL：https://ochiaido-ss.co.jp（given）
@@ -12620,6 +16604,79 @@ FAX.0256-57-3581（https://www.mrkt.co.jp/companyinfo/・1回目）
 - 取扱材料：記載なし（3回確認済み：公式9頁／PDF・画像7件／外部9頁・検索9回）
 - 連絡先：記載なし（3回確認済み：公式9頁／PDF・画像7件／外部9頁・検索9回）
 
+## 株式会社都留 川崎工場
+- 公式URL：http://www.tsuru.co.jp（given）
+- 所在地：〒210-0858　神奈川県川崎市川崎区大川町8-1 TEL : 044-742-4300 （代表）　FAX : 044-742-4301 アクセス 工場見学（https://www.tsuru.co.jp/company/・1回目）
+- 所在地：〒146-0093　東京都大田区矢口2-15-2 TEL : 03-3756-2511 （代表）　FAX : 03-3756-2514 アクセス（https://www.tsuru.co.jp/company/・1回目）
+- 事業内容：精密板金加工 レーザー加工 ファイバーレーザー溶接（https://www.tsuru.co.jp/company/・1回目）
+- 事業内容：業務用厨房機器部品 食品機器部品 半導体製造装置関連部品 医療機器関連部品 産業用X線機器部品 弱電機器部品 理化学機器部品 その他精密板金部品（https://www.tsuru.co.jp/company/・1回目）
+- 代表者：藤本 浩一（フジモト コウイチ） 代表挨拶（https://www.tsuru.co.jp/company/・1回目）
+- 従業員数：14人（https://www.tsuru.co.jp/company/・1回目）
+- 従業員数：15名（https://mono.ipros.com/company/detail/288191/・3回目）
+- 取引先：厨房機器メーカー
+半導体製造装置メーカー
+医療機器メーカー
+食品機械メーカー
+照明機器メーカー
+産業機械メーカー等 (順不同・敬称略)（https://mono.ipros.com/company/detail/288191/・3回目）
+- 拠点：1F：396㎡ 2F：198㎡（https://www.tsuru.co.jp/company/・1回目）
+- 拠点：小田支店（https://www.tsuru.co.jp/company/terms_conditions/・1回目）
+- 取扱製品：
+  - 「研究者・エンジニア向け製品・メーカー情報比較サイト「メトリー」で紹介さ…」（https://www.tsuru.co.jp/・1回目）
+  - 「10年以上の生産実績で、経年劣化による割れの発生なし！ TIG垂直自動溶接機で溶接した製品です」（https://www.tsuru.co.jp/・1回目）
+  - 「事例・製品・加工例紹介 ｜ 精密板金加工なら株式会社都留」（https://www.tsuru.co.jp/case/・1回目）
+  - 「弊社は1966年の創業以来、お客様の要求される高品質な金属加工製品を作り、社会に貢献するという経営理念の下、」（https://www.tsuru.co.jp/company/・1回目）
+  - 「社員（仲間）を尊敬し事業を通してお客様に満足していただける製品作りを目指します」（https://www.tsuru.co.jp/company/・1回目）
+  - 「当社はお客様の要求される高品質な金属加工製品を作り、社会に貢献します」（https://www.tsuru.co.jp/company/・1回目）
+  - 「品質第一に徹し、お客様の要求、ニーズに応え、満足される製品及びサービスを提供いたします」（https://www.tsuru.co.jp/company/・1回目）
+  - 「製品や目的によりバリ取りの精度は異なりますので、多くの業界の製品を手掛けてきた経験から、最適な精度に仕上げていきます」（https://www.tsuru.co.jp/facility/・1回目）
+  - 「ロット、製品の大きさや求められる精度・要件・外観により最適な溶接方法をご提案いたします」（https://www.tsuru.co.jp/facility/・1回目）
+  - 「製品に応じて最適な処理方法、または溶接焼けしない加工方法をご提案させていただきます」（https://www.tsuru.co.jp/facility/・1回目）
+  - 「当社の業務は、OEM製品の量産が中心です」（https://www.tsuru.co.jp/recruitment/・1回目）
+  - 「研究者・エンジニア向け製品・メーカー情報比較サイト「メトリー」で紹介されました ｜ 精密板金加工なら株式会社都留」（https://www.tsuru.co.jp/news/metoree/・1回目）
+- 取扱材料：
+  - 「ファイバーレーザー溶接とスポット溶接の3部品構成 溶接時間 スピードアップ 焼け取り作業 時間短縮 仕様・データ 材質 …」（https://www.tsuru.co.jp/・1回目）
+  - 「加工機によって適した材質・板厚・ロット数が違うため、最適な加工方法を選択し、段取りを組むことで、加工コストを最小限に抑えることができます」（https://www.tsuru.co.jp/facility/・1回目）
+  - 「このようなトラブルを防ぐため、都留では材質や板厚、またその曲げ形状に応じて、その伸びやひずみ、応力をシミュレーションすることにより、角度出し加工の精度を高めています」（https://www.tsuru.co.jp/column/types-of-bending/・1回目）
+  - 「製品名、材質（仕様書を取り交わしている場合は仕様書番号）」（https://www.tsuru.co.jp/company/terms_conditions/・1回目）
+  - 「このようなトラブルを防ぐため、角度出しについては材質や板厚、またその曲げ形状に応じて、その伸びやひずみ、応力をシミュレーションすることにより、加工の精度を高めています」（https://www.tsuru.co.jp/facility/bending/・1回目）
+  - 「アルミ材、ステンレス材、クロムフリー材、鉄と幅広い材質に対応可能です」（https://www.tsuru.co.jp/facility/laser_cutting_and_punching_center/・1回目）
+  - 「・角度出しの際に、材質や板厚、またその曲げ形状に応じてその伸びやひずみ、」（https://mono.ipros.com/company/detail/288191/category/・3回目）
+- 一点物・少量多品種：
+  - 「現物があれば、寸法を測定しCADで図面化して試作・製作も可能です」（https://www.tsuru.co.jp/facility/・1回目）
+  - 「板の厚さに関しては、かなり厚いものであっても金型さえ合えば対応することが可能です（都留では基本的な金型は取り揃えていますが、合う金型がない場合は特注になる場合があります）」（https://www.tsuru.co.jp/column/types-of-bending/・1回目）
+  - 「都留では基本的な金型は取り揃えていますが、最終的に目指す形に加工するための金型がない場合があります（特注の金型で対応できる場合もあります）」（https://www.tsuru.co.jp/column/types-of-bending/・1回目）
+  - 「◆レーザー・パンチ複合加工は形自由自在で小ロットから対応いたします」（https://mono.ipros.com/company/detail/288191/category/・3回目）
+  - 「◆試作品から量産品まで速やかに対応致しております！」（https://mono.ipros.com/company/detail/288191/category/・3回目）
+  - 「当社は、神奈川県川崎市川崎区に位置し、浜川崎インター、浅田インターも近く、東京、千葉、埼玉からのアクセスも良い場所で小ロットから中ロットの精密板金加工を行っております」（https://mono.ipros.com/company/detail/288191/・3回目）
+- 製品分野：
+  - 「半導体製造装置部品：SUS304両面研磨材ブラケット」（https://www.tsuru.co.jp/・1回目）
+  - 「ファイバーレーザー溶接とは④ ロボットファイバーレーザーの更…」（https://www.tsuru.co.jp/・1回目）
+  - 「「ファイバーレーザー溶接とは③」最新機器・ロボットファイバー…」（https://www.tsuru.co.jp/・1回目）
+  - 「溶接時間をこれまで以上に大幅短縮！ ロボットファイバーレーザーは、ファイバーレーザーの最新機器になります」（https://www.tsuru.co.jp/・1回目）
+  - 「ダイヘン製 TIGロボット溶接機 FDV8-A350A」（https://www.tsuru.co.jp/company/・1回目）
+  - 「alfa TKG社製 alfaJULIA-W1500H ファイバーレーザー溶接ロボット導入」（https://www.tsuru.co.jp/company/・1回目）
+  - 「板金図面展開・NCプログラム（金型割付）をしていきます」（https://www.tsuru.co.jp/facility/・1回目）
+  - 「後工程においてTIG自動溶接やTIGロボット溶接でなめ付けする、」（https://www.tsuru.co.jp/facility/・1回目）
+  - 「ファイバーレーザー溶接をはじめ、TIG垂直自動溶接機、TIGフィラロボット溶接機、NCスタッド溶接機、テーブルスポット溶接機、高速電源スポット溶接機等、最新設備をそろえさまざまな溶接のご要望にお応えしております」（https://www.tsuru.co.jp/facility/・1回目）
+  - 「TIGロボット溶接にして、経年劣化による割れ・歪みなし、溶接時間・コスト30%削減した事例」（https://www.tsuru.co.jp/facility/・1回目）
+  - 「金型不要・複雑な形状が得意で、薄板から厚板まで広範囲に対応」（https://www.tsuru.co.jp/recruitment/・1回目）
+  - 「金属板の種類・厚み・曲げる形によって、上型と下型の金型は変わります」（https://www.tsuru.co.jp/column/types-of-bending/・1回目）
+- AM関連：
+  - 「全自動CAM、複合機教育修了者」（https://www.tsuru.co.jp/company/・1回目）
+  - 「◆CAD/CAMも複数台もち、プログラム作成も速やかに行い、」（https://mono.ipros.com/company/detail/288191/category/・3回目）
+- 連絡先：
+  - 「ご注文の際には、ご注文書をメール（info@tsuru.co.jp）、またはFAX（044-742-4301）にてお送りください」（https://www.tsuru.co.jp/company/terms_conditions/・1回目）
+  - 「※カタログダウンロードから、お問い合わせシートが」（https://mono.ipros.com/company/detail/288191/category/・3回目）
+  - 「※カタログダウンロードからはお問い合わせシートが」（https://mono.ipros.com/company/detail/288191/category/・3回目）
+- 検索結果の抜粋：
+  - 「製品・サービス一覧 | 株式会社都留 川崎工場 | イプロスものづくり — Feb 8, 2024 · 株式会社都留 川崎工場の製品・サービス一覧です。精密板金加工・ステンレス板金のレーザー・パンチ複合加工、タレパン、ファイバーレーザー溶接・TIG溶接なら神奈川県川崎市の都留へ 当社は、神奈川県川崎市川崎区に位置し、浜川崎インター、浅田インターも近く、東京、千葉、埼玉から ...」（https://www.ipros.jp/company/detail/288191/category/・3回目）
+  - 「会社紹介 ｜ 精密板金加工なら株式会社都留精密板金加工の短納期・コストダウンは大田区・神奈川県川崎市の都留会社案内 | 株式会社都留 株式会社都留株式会社 都留 神奈川県 川崎市都留 | 企業情報 | イプロスものづくり株式会社都留のカタログ無料ダウンロード・会社概要 | Metoree製品・サービス一覧 | 株式会社都留 川崎工場 | イプロスものづくり — 精密板金加工メーカー として お客様のニーズに 迅速に対応すべく 日々研鑽を重ねて50年 神奈川県川崎市に工場を置く当社は、浅田インターから車で約5分と、都内へのアクセスも抜群です。 中ロットの精密板金加工をメインに、小部品から筐体物のサブアセンブリまで対応いたします。 最新 ... 中ロット生産に特化した 最新加工設備 一貫生産 24時間稼働工場 により貴社の課題を 総合的に解決いたします。 〒146-0093 東京都大田区矢口2」（https://www.tsuru.co.jp/company/・3回目）
+  - 「会社案内 | 株式会社都留 株式会社都留株式会社 都留 神奈川県 川崎市都留 | 企業情報 | イプロスものづくり株式会社都留のカタログ無料ダウンロード・会社概要 | Metoree製品・サービス一覧 | 株式会社都留 川崎工場 | イプロスものづくり — 〒146-0093 東京都大田区矢口2丁目15番2号 PRコメント 当社は、神奈川県川崎市川崎区に位置し、浜川崎インター、浅田インターも近く、東京、千葉、埼玉からのアクセスも良い場所で小ロットから中ロットの精密板金・板金加工を行っております。 レーザ・パンチ複合加工、タレパン加工の自動化で24時間稼動。ファイバーレーザー溶接 ... Sep 18, 2020 · 都留の企業情報や製品・サービス、関連カタログをご紹介。 精密板金加工・ステンレス板金のレーザー・パンチ複合加工、タレパン、ファイバーレーザー溶接・TIG溶接なら神奈川県川崎市の」（https://www.big-advance.site/c/157/1238/profile・3回目）
+  - 「都留 | 企業情報 | イプロスものづくり株式会社都留のカタログ無料ダウンロード・会社概要 | Metoree製品・サービス一覧 | 株式会社都留 川崎工場 | イプロスものづくり — Sep 18, 2020 · 都留の企業情報や製品・サービス、関連カタログをご紹介。 精密板金加工・ステンレス板金のレーザー・パンチ複合加工、タレパン、ファイバーレーザー溶接・TIG溶接なら神奈川県川崎市の都留へ イプロスものづくりでは、製造・加工受託など製造業向けの情報を多数掲載。 事業所情報 株式会社都留の生産・加工施設が全国で1箇所登録されています。 生産・加工施設 神奈川県で株式会社都留の生産・加工施設が1箇所登録されています。 川崎工場 生産・加工施設 〒210-0858 神奈川県川崎市川崎区大川町8-1 Feb 8, 2024 · 株式会社都留 川崎工場の製品・サービス一覧です。精密板金加工・ス」（https://mono.ipros.com/company/detail/288191/・3回目）
+  - 「会社紹介 ｜ 精密板金加工なら株式会社都留お問い合わせ - 株式会社デイ・シイ見積・お問合せ ｜ 精密板金加工なら株式会社都留川崎工場 - 株式会社都留の事業所情報 | Baseconnectお問い合わせフォーム | WEGO 株式会社お問い合わせ | 株式会社カワサキ — 精密板金加工メーカー として お客様のニーズに 迅速に対応すべく 日々研鑽を重ねて50年 神奈川県川崎市に工場を置く当社は、浅田インターから車で約5分と、都内へのアクセスも抜群です。 中ロットの精密板金加工をメインに、小部品から筐体物のサブアセンブリまで対応いたします。 最新 ... CONTACT CONTACT お問い合わせ お問い合わせ内容にあった窓口をお選びください。 お問い合わせ・ご相談の内容により、ご連絡に時間を要するものや、お答えできない場合もありますので、予めご了承ください。 ※当フォームからの営業活動」（https://www.tsuru.co.jp/company/・3回目）
+- 売上高：記載なし（3回確認済み：公式30頁／PDF・画像1件／外部6頁・検索9回）
+
 ## 株式会社野上技研 茨城工場
 - 公式URL：http://www.nogami-gk.co.jp（given）
 - 所在地：本社： 〒152-0002　東京都目黒区目黒本町５丁目９番３号 茨城工場、テクニカルソリューションセンター： 〒319-2144　茨城県常陸大宮市泉１１３６番３号 TEL 0295-53-2188（代表）（https://nogamigiken.com/company/・1回目）
@@ -12706,6 +16763,54 @@ FAX.0256-57-3581（https://www.mrkt.co.jp/companyinfo/・1回目）
   - 「株式会社 野上技研 茨城工場 - 常陸大宮市商工会野上技研 | 企業情報 | イプロスものづくり株式会社野上技研 - 会社概要株式会社野上技研 - city.hitachiomiya.lg.jp茨城工場 - 株式会社野上技研の事業所情報 | Baseconnect — 当社は精密研削加工を主力とし、超精密治具製品の開発・設計・製作、精密金型部品・機械部品の製造、精密プレス金型（試作～量産）の設計・製作、及び精密プレス加工を行っております。 金型・治具・機械部品は、1μ前後の高精度仕上げが可能です。 精密プレス部品は薄物（t0.020 ... 野上技研の会社概要 ・超精密治具・器具・検査冶具の設計製作販売 ・極薄板t0．010のプレス加工 ・フィルム抜き金型設計製作 バイスで培った超精密加工技術で、ワーク形状に合わせた各種精密治具を、デザインからご提案させて頂きます。 株式会社野上技研の事業」（https://hitachiomiya-shoko.jp/2535/・3回目）
 - 売上高：記載なし（3回確認済み：公式6頁／PDF・画像6件／外部9頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式6頁／PDF・画像6件／外部9頁・検索9回）
+
+## 株式会社阿部機械製作所
+- 公式URL：http://www.abekikai.co.jp（given）
+- 取扱製品：
+  - 「最新設備も導入しておりますが、設備だけでは精度・品質は保てませんので、経験やノウハウを加えて、より良い製品作りを心がけております」（https://www.abekikai.co.jp/setsubi・1回目）
+  - 「主な製品として電子顕微鏡や超音波メス等の医療機器などがあり、長年にわたる技術の蓄積により、高品質な製品の供給、年々高度化するユーザーニーズに対応するために最新鋭の５軸加工機や３Dプリンターの導入、材料手配・加工・表面処理まで一貫したサービスを提供できる体制が当社の強みです」（https://www.abekikai.co.jp/gaiyo・1回目）
+  - 「切断、旋盤、表面加工が複合的に求められる小型製品」（https://www.takatsucraft.com/pu-abe・3回目）
+- 取扱材料：
+  - 「パーマロイ・チタン合金やスーパーエンプラなど」（https://www.abekikai.co.jp/・1回目）
+  - 「設立当初から​精密部品の切削金属加工を手掛けており、医療機器部品や光学関連精密部品等の高精度精密加工や高度な外観要求への対応、また指定材質変化によりパーマロイ・チタン合金などの難切削材料や、スーパーエンプラ等の特殊樹脂も同様の精度での加工を提供しております」（https://www.abekikai.co.jp/gaiyo・1回目）
+  - 「難切削材料（金属）やスーパーエンプラ材料（樹脂）の精密切削加工を依頼したい」（https://www.takatsucraft.com/pu-abe・3回目）
+  - 「1．難切削材料からスーパーエンプラまで幅広い材料の精密切削加工に対応」（https://www.takatsucraft.com/pu-abe・3回目）
+  - 「アルミ・鉄・SUS・真鍮等の各種金属から難削材であるチタン・パーマロイ・インコネル・ハステロイまで、お客様のご要望に応える形で対応材料の拡大を図って参りました」（https://www.takatsucraft.com/pu-abe・3回目）
+- 一点物・少量多品種：
+  - 「試作や小～中ロット加工を得意とする企業・技術者に製作を依頼したい」（https://www.takatsucraft.com/pu-abe・3回目）
+  - 「3．爪の先から手のひらサイズ程度の精密部品の試作、小～中ロット加工に対応」（https://www.takatsucraft.com/pu-abe・3回目）
+  - 「試作から小～中量生産まで、お気軽にご相談ください」（https://www.takatsucraft.com/pu-abe・3回目）
+  - 「試作開発に関するお問い合わせ・お見積もり依頼」（https://www.takatsucraft.com/pu-abe・3回目）
+- 製品分野：
+  - 「設立当初から​精密部品の切削金属加工を手掛けており、医療機器部品や光学関連精密部品等の高精度精密加工や高度な外観要求への対応、また指定材質変化によりパーマロイ・チタン合金などの難切削材料や、スーパーエンプラ等の特殊樹脂も同様の精度での加工を提供しております」（https://www.abekikai.co.jp/gaiyo・1回目）
+  - 「主な製品として電子顕微鏡や超音波メス等の医療機器などがあり、長年にわたる技術の蓄積により、高品質な製品の供給、年々高度化するユーザーニーズに対応するために最新鋭の５軸加工機や３Dプリンターの導入、材料手配・加工・表面処理まで一貫したサービスを提供できる体制が当社の強みです」（https://www.abekikai.co.jp/gaiyo・1回目）
+  - 「光学関連精密部品や医療機器部品など、精密部品の優れた切削加工を可能にするのは、優れた技術と徹底した品質管理体制です」（https://www.takatsucraft.com/pu-abe・3回目）
+  - 「2008年にはISO9001を取得し、医療機器メーカー様をはじめ、高い評価と信頼をいただいております」（https://www.takatsucraft.com/pu-abe・3回目）
+  - 「5軸加工機（ヤマザキマザック製 INTEGREXを3台導入）・マシニングセンター・NC旋盤など、多数の最新設備と豊富な知見を有し、電子顕微鏡などの光学関連部品をはじめ、レーザーメスや超音波メスといった医療機器部品など、高い技術力が求められる精密部品の切削加工に対応します」（https://www.takatsucraft.com/pu-abe・3回目）
+  - 「医療機器として、精密さはもちろんのこと美観が要求される部品です」（https://www.takatsucraft.com/pu-abe・3回目）
+  - 「バフ加工、アルマイト処理を要する医療機器」（https://www.takatsucraft.com/pu-abe・3回目）
+  - 「もともと自動車部品メーカーのエンジニアからキャリアをスタートしていたこともあり、新しいことや楽しいことを実現することにやりがいを感じます」（https://www.takatsucraft.com/pu-abe・3回目）
+- AM関連：
+  - 「3DCAD CAM」（https://www.abekikai.co.jp/setsubi・1回目）
+  - 「Mastercam X9」（https://www.abekikai.co.jp/setsubi・1回目）
+  - 「3Dプリンタ」（https://www.abekikai.co.jp/setsubi・1回目）
+- 連絡先：
+  - 「試作開発に関するお問い合わせ・お見積もり依頼」（https://www.takatsucraft.com/pu-abe・3回目）
+- 検索結果の抜粋：
+  - 「精密金属加工 | 阿部機械製作所 | 川崎市 — ㈱阿部機械製作所ウェブサイトへようこそ！ 各種金属の精密切削加工をしております。 最新設備も導入しておりますが、設備だけでは精度・品質は保てません。 経験やノウハウを加え良い製品をつくりお客様のお役に立ちたいと心がけております ...」（https://www.abekikai.co.jp/・3回目）
+  - 「株式会社 阿部機械製作所・札幌市東区丘珠町 – 一般機械製作･修理･... — 株式会社阿部機械製作所では、旋盤加工･フライス加工･溶接等、常に最新の技術で承ります。 株式会社阿部機械製作所で取り組みしている事業内容をご紹介いたします。 株式会社阿部機械製作所の企業情報をご案内いたします。」（http://abekikai.com/・3回目）
+  - 「阿部機械製作所 | タカツクラフトウェブサイト — また、地域のものづくりネットワークを活かし、メッキ・アルマイト・バフ・研磨・熱処理まで行った部品供給が可能です。 試作から小～中量生産まで、お気軽にご相談ください。」（https://www.takatsucraft.com/pu-abe・3回目）
+  - 「業務内容 | 阿部機械製作所 | 神奈川県川崎市 — 少量,多品種,難削材の精密切削加工 3次元測定器や豊富な測定機器を使用し、高度な精度にも対応 3Dプリンタによる試作造形 協力工場によるメッキ,バフ,研摩処理まで行った部品のご提供 簡単なポンチ絵や現物合わせなどの図面以外の加工にも対応」（https://www.abekikai.co.jp/gyomu・3回目）
+  - 「会社概要 | 阿部機械製作所 | 神奈川県川崎市 — 昭和45年 阿部機械製作所を神奈川県川崎市中原区宮内に設立 昭和50年 阿部機械製作所を神奈川県川崎市宮前区野川に移転 昭和53年 株式会社 阿部機械製作所を設立 資本金100万円 昭和58年」（https://www.abekikai.co.jp/gaiyo・3回目）
+  - 「会社概要 – 株式会社 阿部機械製作所・札幌市東区丘珠町企業概要 | 株式会社 阿部製作所会社概要 – 阿部製作所企業情報 | 株式会社 阿部製作所 — 札幌市東区,阿部機械製作所,旋盤加工,NC旋盤,機械製缶,機械製作,機械修理,フライス加工,ラジアル加工,直立ボール盤加工,スロッター加工,鋸盤加工,溶接,部品製造加工等を行っている旋盤加工のプロフェッショナル集団です。 株式会社阿部製作所の企業概要をご紹介しています。 会社概要 ... 沿革 1912年 小田原市板橋にて和紙の製造を始める 1960年 パッキング用材料生産開始 1965年 ガスケットの製造を始める 1966年 パッキング用材料の生産を中止 1972年 資本金2，000千円にて有限会社設立 私たちの会社は、1967年10月に創業しました新潟県長岡市与板町に本社がある製造会社でございます。 社員の皆さんのお孫さんが勤めたいと」（http://abekikai.com/company/・3回目）
+  - 「お問合せ | 阿部機械製作所 | 神奈川県川崎市 — お問 合せ 株式会社 阿部機械製作所 住所：〒216-0005 神奈川県川崎市宮前区土橋5-4-1 電話：044-977-3637 FAX：044-976-5895 Email： info@abekikai.co.jp アクセスマップ」（https://www.abekikai.co.jp/contact・3回目）
+- 所在地：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部5頁・検索9回）
+- 事業内容：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部5頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部5頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部5頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部5頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部5頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部5頁・検索9回）
 
 ## 株式会社須藤機械
 - 公式URL：http://www.sudokikai.com（given）
@@ -12831,6 +16936,72 @@ FAX.0256-57-3581（https://www.mrkt.co.jp/companyinfo/・1回目）
 - 売上高：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部6頁・検索9回）
 - 取引先：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部6頁・検索9回）
 - 拠点：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部6頁・検索9回）
+
+## 株式会社飯山特殊硝子
+- 公式URL：https://iiyamapgc.co.jp（given）
+- 所在地：〒146-0095 東京都大田区多摩川2-12-25（https://www.opt-bg.jp/company/index/26・3回目）
+- 所在地：本社 〒146-0095　東京都大田区多摩川 2-12-25 TEL. 03-3758-1181 FAX. 03-3758-4655 工場 〒146-0095　東京都大田区多摩川 2-12-26 TEL. 03-3758-1184 FAX. 03-3758-2328（https://www.iiyamapgc.co.jp/company/・3回目）
+- 代表者：飯山　賢一（https://www.opt-bg.jp/company/index/26・3回目）
+- 代表者：代表取締役社長　飯山　賢一（https://www.iiyamapgc.co.jp/company/・3回目）
+- 従業員数：63名（https://www.opt-bg.jp/company/index/26・3回目）
+- 従業員数：64人（https://www.iiyamapgc.co.jp/company/・3回目）
+- 従業員数：63名（https://mono.ipros.com/company/detail/311459/・3回目）
+- 取引先：ガラスメーカー、光学機器メーカー、医・理化学機器メーカー、電機メーカー、大学研究室、その他（https://www.iiyamapgc.co.jp/company/・3回目）
+- 取引先：国内大手ガラスメーカー、光学機器・電子機器・精密機器メーカー、半導体製造装置メーカー、医・理化学機器メーカー、弱電メーカー、自動車メーカー、大学研究所、国公立研究機関 (順不同・敬称略)（https://mono.ipros.com/company/detail/311459/・3回目）
+- 取扱製品：
+  - 「飯山特殊硝子のガラス製品は、半導体、通信、医療、航空宇宙、自動車などの」（https://www.iiyamapgc.co.jp/・3回目）
+  - 「新製品開発に必要とされており、開発現場からのレベルの高いリクエストにお応えしています」（https://www.iiyamapgc.co.jp/・3回目）
+  - 「光製品ナビ：オプトロニクス社 - 企業情報 - （株）飯山特殊硝子」（https://www.opt-bg.jp/company/index/26・3回目）
+  - 「今後ともお客様のニーズに応え、地域に根付いた専門メーカーとして誇りを持った製品づくりを心がけてまいります」（https://www.iiyamapgc.co.jp/company/・3回目）
+  - 「製品・サービス(5)」（https://mono.ipros.com/company/detail/311459/・3回目）
+  - 「製品・サービス (5)」（https://mono.ipros.com/company/detail/311459/・3回目）
+- 取扱材料：
+  - 「対応材料は、合成石英、各種光学ガラスを中心に、多様なガラス材料に対応可能です」（https://www.opt-bg.jp/company/index/26・3回目）
+  - 「私たちは、ガラス・セラミックス・結晶体などの様々な材料を、精密光学部品や医療機器・測定機器および機械部品として加工し、各分野の研究所や製造工程に供給しております」（https://mono.ipros.com/company/detail/311459/・3回目）
+- 一点物・少量多品種：
+  - 「精密ガラスの特殊加工・研磨・試作｜株式会社飯山特殊硝子」（https://www.iiyamapgc.co.jp/・3回目）
+  - 「少量多品種を得意としており、1個からのご要望にも柔軟に対応いたします」（https://www.iiyamapgc.co.jp/・3回目）
+  - 「研究開発を加速させる、ガラス光学部品の試作・少量加工パートナー」（https://www.opt-bg.jp/company/index/26・3回目）
+  - 「特に、半導体・液晶露光装置用光学部品の製造で培った加工技術と品質管理ノウハウを基盤に、研究開発段階で必要とされる評価用・試作用部品を数多く手がけてきました」（https://www.opt-bg.jp/company/index/26・3回目）
+  - 「「量産前の検証として、まずは1個だけ試作したい」」（https://www.opt-bg.jp/company/index/26・3回目）
+  - 「“1個から”の少量多品種加工に柔軟に対応」（https://www.opt-bg.jp/company/index/26・3回目）
+  - 「可視化評価用部品、実験用治具部品、試作レンズ・光学部材など、用途や評価目的に応じて、加工方法・材料選定の段階から技術的なご提案を行います」（https://www.opt-bg.jp/company/index/26・3回目）
+  - 「レンズ設計・光学評価・半導体／電子分野での試作・検証に関するお困りごとがございましたら、ぜひお気軽に当社ブースへお立ち寄りください」（https://www.opt-bg.jp/company/index/26・3回目）
+  - 「○可視化用部品の研究開発用、試作製作」（https://mono.ipros.com/company/detail/311459/・3回目）
+  - 「○半導体製造用部品等の硝子の成形、研磨の試作、加工」（https://mono.ipros.com/company/detail/311459/・3回目）
+  - 「○ガラス・フィルターの成形、研磨の試作、研究開発」（https://mono.ipros.com/company/detail/311459/・3回目）
+  - 「○石英等の成形、研磨の試作」（https://mono.ipros.com/company/detail/311459/・3回目）
+- 製品分野：
+  - 「半導体や医療、航空宇宙産業など最先端の研究開発に大きく貢献しています」（https://www.iiyamapgc.co.jp/・3回目）
+  - 「第3回 ［九州］半導体産業展に出展いたしました」（https://www.iiyamapgc.co.jp/・3回目）
+  - 「飯山特殊硝子のガラス製品は、半導体、通信、医療、航空宇宙、自動車などの」（https://www.iiyamapgc.co.jp/・3回目）
+  - 「斜鏡（対角鏡）とは？医療機器から光学顕微鏡まで、光路を折り曲げる精密ミラーの選定ポイント」（https://www.iiyamapgc.co.jp/・3回目）
+  - 「特に、半導体・液晶露光装置用光学部品の製造で培った加工技術と品質管理ノウハウを基盤に、研究開発段階で必要とされる評価用・試作用部品を数多く手がけてきました」（https://www.opt-bg.jp/company/index/26・3回目）
+  - 「可視化評価用部品、実験用治具部品、試作レンズ・光学部材など、用途や評価目的に応じて、加工方法・材料選定の段階から技術的なご提案を行います」（https://www.opt-bg.jp/company/index/26・3回目）
+  - 「レンズ設計・光学評価・半導体／電子分野での試作・検証に関するお困りごとがございましたら、ぜひお気軽に当社ブースへお立ち寄りください」（https://www.opt-bg.jp/company/index/26・3回目）
+  - 「以来、光学・半導体・電子部品・医理化学用等、様々な分野の研究・製造の現場で高い評価を頂いております」（https://www.iiyamapgc.co.jp/company/・3回目）
+  - 「私たちは、ガラス・セラミックス・結晶体などの様々な材料を、精密光学部品や医療機器・測定機器および機械部品として加工し、各分野の研究所や製造工程に供給しております」（https://mono.ipros.com/company/detail/311459/・3回目）
+  - 「○半導体製造用部品等の硝子の成形、研磨の試作、加工」（https://mono.ipros.com/company/detail/311459/・3回目）
+  - 「国内大手ガラスメーカー、光学機器・電子機器・精密機器メーカー、半導体製造装置メーカー、医・理化学機器メーカー、弱電メーカー、自動車メーカー、大学研究所、国公立研究機関」（https://mono.ipros.com/company/detail/311459/・3回目）
+- AM関連：
+  - 「https://iiyamapgc.co.jp」（https://www.opt-bg.jp/company/index/26・3回目）
+- 連絡先：
+  - 「メール確認後、担当者より改めてご連絡させていただきます」（https://www.iiyamapgc.co.jp/contact/・3回目）
+- 検索結果の抜粋：
+  - 「精密ガラスの特殊加工・研磨・ 試作 ｜株式会社 飯山特殊硝子 — 精密ガラスの特殊加工・研磨・ 試作 ｜株式会社 飯山特殊硝子 株式会社飯山特殊硝子 https://www.iiyamapgc.co.jp」（https://www.iiyamapgc.co.jp/・3回目）
+  - 「企業情報 - （株）飯山特殊硝子 - 光製品ナビ：オプトロニクス社 — 企業情報 - （株）飯山特殊硝子 - 光製品ナビ：オプトロニクス社 光製品ナビ https://www.opt-bg.jp > company > index」（https://www.opt-bg.jp/company/index/26・3回目）
+  - 「株式会社 飯山特殊硝子 の会社概要・ 製品 情報 - Metoree — 株式会社 飯山特殊硝子 の会社概要・ 製品 情報 - Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/42210/・3回目）
+  - 「株式会社 飯山特殊硝子 東京都 大田区 - NCネットワーク — 株式会社 飯山特殊硝子 東京都 大田区 - NCネットワーク エミダス https://ja.nc-net.or.jp > company」（https://ja.nc-net.or.jp/company/78690/・3回目）
+  - 「会社概要 - 株式会社飯山特殊硝子 — 会社概要 - 株式会社飯山特殊硝子 株式会社飯山特殊硝子 https://www.iiyamapgc.co.jp > company」（https://www.iiyamapgc.co.jp/company/・3回目）
+  - 「株式会社 飯山特殊硝子 の 会社概要 ・製品情報 - Metoree — 株式会社 飯山特殊硝子 の 会社概要 ・製品情報 - Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/42210/・3回目）
+  - 「飯山特殊硝子 | 企業情報 | イプロスものづくり — 飯山特殊硝子 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ガラス・土石製品」（https://mono.ipros.com/company/detail/311459/・3回目）
+  - 「採用情報 - 株式会社飯山特殊硝子 — 採用情報 - 株式会社飯山特殊硝子 株式会社飯山特殊硝子 https://www.iiyamapgc.co.jp > recruit」（https://www.iiyamapgc.co.jp/recruit/・3回目）
+  - 「飯山特殊硝子 「社員クチコミ」 就職・転職の採用 ... - OpenWork — 飯山特殊硝子 「社員クチコミ」 就職・転職の採用 ... - OpenWork OpenWork https://www.openwork.jp > company」（https://www.openwork.jp/company.php?m_id=a0C1000000qamHg・3回目）
+  - 「お問い合わせ - 株式会社飯山特殊硝子 — お問い合わせ - 株式会社飯山特殊硝子 株式会社飯山特殊硝子 https://www.iiyamapgc.co.jp > contact」（https://www.iiyamapgc.co.jp/contact/・3回目）
+  - 「株式会社 飯山特殊硝子 の会社概要・製品情報 - Metoree — 株式会社 飯山特殊硝子 の会社概要・製品情報 - Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/42210/・3回目）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部16頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部16頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部16頁・検索9回）
 
 ## 株式会社鳥越樹脂工業
 - 公式URL：http://www.torigoejyushi.co.jp（given）
@@ -13222,6 +17393,192 @@ FAX.0256-57-3581（https://www.mrkt.co.jp/companyinfo/・1回目）
 - 一点物・少量多品種：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部4頁・検索9回）
 - 連絡先：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部4頁・検索9回）
 
+## 磐田電工株式会社
+- 公式URL：http://www.iwata.co.jp（given）
+- 所在地：〒143-0024 東京都大田区中央6丁目29番2号 TEL ： 03-6410-6301（代表） 03-6410-6272（営業部） FAX ： 03-6410-6304（代表） 03-3752-8100（営業部）（https://www.iwata.co.jp/company/・1回目）
+- 所在地：〒143-0024 東京都大田区中央6-29-2 橋本ビル2F TEL ： 03-6410-6272 FAX ： 03-3752-8100 東急池上線池上駅より徒歩13分 アクセスMAP（https://www.iwata.co.jp/company/・1回目）
+- 事業内容：スナップリング、ウェーブワッシャー等各種自家製品、皿ばね（特注品） デジタルカメラ、携帯電話、スマートフォン、小型精密機器・IT機器の筐体・外装 医用機器、自動車、工作機械、計測機器、精密機器等の機構部品・機械部品（https://www.iwata.co.jp/company/・1回目）
+- 代表者：代表取締役 櫻井 一幸（https://www.iwata.co.jp/company/・1回目）
+- 従業員数：202名 （2025年6月1日現在）（https://www.iwata.co.jp/company/・1回目）
+- 拠点：〒448-0034 愛知県刈谷市神明町5-416 TEL ： 0566-21-2471 FAX ： 0566-21-2408 東海道本線刈谷駅より車で5分（https://www.iwata.co.jp/company/・1回目）
+- 拠点：〒018-1215 秋田県由利本荘市岩城赤平字川ノ上267 TEL ： 0184-74-2021 FAX ： 0184-74-2023 羽越本線羽後亀田駅より車で10分（https://www.iwata.co.jp/company/・1回目）
+- 拠点：〒999-3511 山形県西村山郡河北町谷地辛2311 TEL ： 0237-72-3211 FAX ： 0237-72-3120 山形空港より車で10分 JR山形新幹線 さくらんぼ東根駅より車で15分（https://www.iwata.co.jp/company/・1回目）
+- 取扱製品：
+  - 「スナップリング製品をはじめ、」（https://www.iwata.co.jp/・1回目）
+  - 「例えば上記のような厚物製品、異形で２枚重ねる（溶接）」（https://www.iwata.co.jp/・1回目）
+  - 「豊富なラインナップに加え、カスタム対応も可能です」（https://www.iwata.co.jp/・1回目）
+  - 「スナップリング、ウェーブワッシャー等各種自家製品、皿ばね（特注品）」（https://www.iwata.co.jp/company/・1回目）
+  - 「一部製品の販売終了（廃番）および特注対応への移行のお知らせ」（https://www.iwata.co.jp/company/・1回目）
+  - 「スナップリング（自家製品） | 磐田電工株式会社」（https://www.iwata.co.jp/product/snap-ring/・1回目）
+  - 「（I.W.T規格）で埋めた幅広いラインナップ」（https://www.iwata.co.jp/product/snap-ring/・1回目）
+  - 「スラスト荷重が低い為、溝を切らなくても良い高荷重な製品が欲しい」（https://www.iwata.co.jp/product/snap-ring/・1回目）
+  - 「製品例 ネジ留め部つぶし 2.9mmH」（https://www.iwata.co.jp/capabilities/・1回目）
+  - 「ウェーブワッシャー（自家製品） | 磐田電工株式会社」（https://www.iwata.co.jp/product/wave-washer/・1回目）
+  - 「磐田電工独自規格に基づき、幅広いラインナップを用意」（https://www.iwata.co.jp/product/wave-washer/・1回目）
+  - 「ホルダースプリング（自家製品） | 磐田電工株式会社」（https://www.iwata.co.jp/product/holder-spring/・1回目）
+- 取扱材料：
+  - 「以降カメラ筐体（ステンレス、チタンなど）のビジネス増加」（https://www.iwata.co.jp/company/・1回目）
+  - 「チタン、各種合金材、その他金属材」（https://www.iwata.co.jp/capabilities/・1回目）
+  - 「標準材質は、SK85M叉はSK85（黒染め）、ステンレス（SUS304）です」（https://www.iwata.co.jp/product/pdf/4-IWT_E.pdf・2回目）
+  - 「標準材質は、SK85M叉はSK85（黒染め）、ステンレス（SUS304）です」（https://www.iwata.co.jp/product/pdf/5-JIS_E.pdf・2回目）
+  - 「標準材質は、SK85M叉はSK85（黒染め）です」（https://www.iwata.co.jp/product/pdf/6-IWT_CE.pdf・2回目）
+  - 「特に、ステンレス、チタン合金等の難加工材はお任せください」（https://mono.ipros.com/company/detail/2003710/・3回目）
+  - 「デジタルカメラ、携帯電話等の金属製筐体・外装品（ステンレス、チタン、アルミニウム等）」（https://mono.ipros.com/company/detail/2003710/・3回目）
+- 一点物・少量多品種：
+  - 「スナップリング、ウェーブワッシャー等各種自家製品、皿ばね（特注品）」（https://www.iwata.co.jp/company/・1回目）
+  - 「一部製品の販売終了（廃番）および特注対応への移行のお知らせ」（https://www.iwata.co.jp/company/・1回目）
+  - 「カスタム仕様も試作から量産供給まできめ細かく」（https://www.iwata.co.jp/product/snap-ring/・1回目）
+  - 「塗装（スピンドル、レシプロ 焼付塗装、光沢、マット、しぼ塗装、ライン長、62、72、210、420m、小ロット」（https://www.iwata.co.jp/equipment/・1回目）
+  - 「カスタム仕様の試作から量産供給まで対応可能」（https://www.iwata.co.jp/product/wave-washer/・1回目）
+  - 「ものづくり、機構部品（特注品）営業に興味のある方、生産オペレーターとしての自身のスキルアップも目指す方、随時募集しています」（https://www.iwata.co.jp/info/recruit/・1回目）
+  - 「一部製品の販売終了（廃番）および特注対応への移行のお知らせ」（https://www.iwata.co.jp/company/news/news-20260511.pdf・2回目）
+  - 「なお、定番品としては廃番となりますが、対象製品につきましては今後「受注生産（特注品） 」」（https://www.iwata.co.jp/company/news/news-20260511.pdf・2回目）
+  - 「3. 今後の対応について（特注生産のご案内）」（https://www.iwata.co.jp/company/news/news-20260511.pdf・2回目）
+  - 「本対象製品は今後、お客様のご要望に応じて「特注品（受注生産） 」として製造を承りま」（https://www.iwata.co.jp/company/news/news-20260511.pdf・2回目）
+  - 「最小ロット数、納期、価格等につきましては、通常製品と異なりますので、詳細は弊」（https://www.iwata.co.jp/company/news/news-20260511.pdf・2回目）
+  - 「※規格品だけでなく、ご要望にお応えして様々なサイズの製品を受注生産します」（https://mono.ipros.com/company/detail/2003710/・3回目）
+- 製品分野：
+  - 「医用機器、自動車、工作機械、計測機器、精密機器等の機構部品・機械部品」（https://www.iwata.co.jp/company/・1回目）
+  - 「自動車、半導体製造装置、光学機器、PC、携帯など精密ハンディデバイス、医療機器、家電、釣り具等民生機器、インフラ設備及びあらゆる製造設備関連工作機器、測定機など」（https://www.iwata.co.jp/company/・1回目）
+  - 「独自規格（I.W.T規格）を打ち出してから50有余年、PPMオーダーといった厳しい要求基準の自動車」（https://www.iwata.co.jp/product/snap-ring/・1回目）
+  - 「金型は勿論、塗装治具・マスキングなど、すべて社内設計からの設備内作」（https://www.iwata.co.jp/capabilities/・1回目）
+  - 「精密金型、塗装治具、マスキング設計」（https://www.iwata.co.jp/capabilities/・1回目）
+  - 「＞ 3m金型」（https://www.iwata.co.jp/capabilities/・1回目）
+  - 「金型長３ｍ超」（https://www.iwata.co.jp/capabilities/・1回目）
+  - 「金型設計、金型製作、プレス、表面処理、塗装、最終検査に至るまで、すべて国内２工場（山形、秋田）で行っています」（https://mono.ipros.com/company/detail/2003710/・3回目）
+  - 「工作機械、医療機器、各種産業機械に使われる精密部品」（https://mono.ipros.com/company/detail/2003710/・3回目）
+  - 「自動車用部品（内外装品、イグニションコイル用部品等）」（https://mono.ipros.com/company/detail/2003710/・3回目）
+- AM関連：
+  - 「Nidec Servo Vietnam Corporation」（https://www.iwata.co.jp/company/・1回目）
+  - 「3次元ーCAM」（https://www.iwata.co.jp/equipment/・1回目）
+- 連絡先：
+  - 「お問い合わせ - 磐田電工株式会社 東京都 大田区」（https://ja.nc-net.or.jp/company/107862/inquiry/input/・3回目）
+  - 「当社からの連絡に必要な電子メールアドレスを用意してそのアドレスを当社に対して登録すること」（https://ja.nc-net.or.jp/company/107862/inquiry/input/・3回目）
+  - 「当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします」（https://ja.nc-net.or.jp/company/107862/inquiry/input/・3回目）
+  - 「かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします」（https://ja.nc-net.or.jp/company/107862/inquiry/input/・3回目）
+- 検索結果の抜粋：
+  - 「磐田電工株式会社の会社概要・製品情報 | Metoree磐田電工 | 企業情報 | イプロスものづくり磐田電工株式会社（東京都）の会社概要・役員 | Compalyze磐田電工株式会社 | 加工会社ナビ坪田電工 — 磐田電工株式会社は1943年に設立された東京都大田区中央6丁目29番2号に本社が所在する会社です。 リテイニングリング、皿ばね、表面処理、プレス加工、精密加工、ウェーブワッシャー等を取り扱っています。 Jul 17, 2015 · 磐田電工の企業情報や製品・サービス、関連カタログをご紹介。 独創的技術と60年の経験により、変幻自在のフォルムを造ります。 イプロスものづくりでは、製造・加工受託など製造業向けの情報を多数掲載。 〒143-0024 東京都大田区に本社を置く磐田電工株式会社の企業情報。 磐田電工株式会社は、1943年の創立以来、80年以上にわたり精密金属加工技術を核と」（https://metoree.com/companies/40815/・3回目）
+  - 「磐田電工 | 企業情報 | イプロスものづくり — Jul 17, 2015 · 磐田電工の企業情報や製品・サービス、関連カタログをご紹介。 独創的技術と60年の経験により、変幻自在のフォルムを造ります。 イプロスものづくりでは、製造・加工受託など製造業向けの情報を多数掲載。」（https://mono.ipros.com/company/detail/2003710/・3回目）
+  - 「磐田電工株式会社（東京都）の会社概要・役員 | Compalyze — 〒143-0024 東京都大田区に本社を置く磐田電工株式会社の企業情報。 磐田電工株式会社は、1943年の創立以来、80年以上にわたり精密金属加工技術を核として多岐にわたる産業分野の発展に貢献し。 製造業 (機械・設備)、1943年設立、社会保険被保険者数207名。」（https://compalyze.co.jp/company/7010801001164・3回目）
+  - 「磐田電工株式会社 | 加工会社ナビ — 磐田電工株式会社の 概要 同社は、自動車、精密機械、医療機器など多岐にわたる産業向けに金属加工を手がけています。 精密金型設計・製作、精密プレス加工、表面処理、加飾処理を提供しています。」（https://eigyo-mfg.com/service/navi/company/S5K2qBiGEQUW・3回目）
+  - 「会社案内 | 磐田電工株式会社 — 株式会社ミクニ ミネベアアクセスソリューションズ株式会社 ミネベアミツミ株式会社 メイコーエレクディベロップ株式会社 矢崎総業株式会社 株式会社安川電機 株式会社八幡ねじ 矢辺鋼業株式会社 山形カシオ株式会社 山口電機工業株式会社 株式会社リコー」（https://www.iwata.co.jp/company/・3回目）
+  - 「一般・製品に関するお問い合わせ | 磐田電工株式会社 — ここで入力していただいた情報は、当社が細心の注意をもって管理しています。 ご記入いただいた情報は、インターネットの電子メールとして、当社担当者宛と、お客様宛へ（電子メール欄に記入がある場合のみ）、配信されます。」（https://www.iwata.co.jp/contact/general/・3回目）
+  - 「お問い合わせ - 磐田電工株式会社 東京都 大田区 — 当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします。 かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします。」（https://ja.nc-net.or.jp/company/107862/inquiry/input/・3回目）
+- 売上高：記載なし（3回確認済み：公式22頁／PDF・画像20件／外部8頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式22頁／PDF・画像20件／外部8頁・検索9回）
+
+## 磯村産業株式会社 本社
+- 公式URL：http://www.isomura-s.co.jp（given）
+- 所在地：東京都葛飾区西新小岩3-25-3（最寄り駅：JR新小岩駅）（https://isomura-s.co.jp/company/・1回目）
+- 所在地：東京都葛飾区西新小岩3-25-3（https://isomura-s.co.jp/2026/09/04/2026-09-04-superlight-shoiko/・1回目）
+- 所在地：東京都葛飾区西新小岩3-25-3（https://isomura-s.co.jp/2026/01/29/new-table-spot/・1回目）
+- 事業内容：アルミ・ステンレス・鉄・ボンデ鋼板・真鍮などの金属加工 建築金物加工（クリーンルーム部材など） 医療機器・理化学機器製作 遊技機部品製作・管理（パチンコ補給用部品） 計測機器製作 事務機製作（https://isomura-s.co.jp/company/・1回目）
+- 代表者：神戸広豊（https://isomura-s.co.jp/company/・1回目）
+- 代表者：「ジュラルミン」（https://isomura-s.co.jp/2023/08/09/aboutaluminum/・1回目）
+- 従業員数：10名（2023年6月時点）（https://isomura-s.co.jp/company/・1回目）
+- 取引先：株式会社エース電研 三機工業株式会社 日本シグマックス株式会社 その他　約100社（https://isomura-s.co.jp/company/・1回目）
+- 取扱製品：
+  - 「第72回プレミアム・インセンティブショーにてISOMURA製品を展示」（https://isomura-s.co.jp/・1回目）
+  - 「アルミ加工：溶接せずに組み立てる 依頼内容 製品の特徴 3方向曲げをした部品を2種類作成し、重ねることで6面の…」（https://isomura-s.co.jp/category/product-case/・1回目）
+  - 「身体固定用装具部品 依頼内容 製品の特徴 股関節の動きに合わせて、適切な可動域を実現するサポート装具部品です」（https://isomura-s.co.jp/category/product-case/・1回目）
+  - 「プレス加工による曲線状の曲げ 依頼内容 製品の特徴 医療用のため、高い精度の加工技術と量産体制の両立が必要とな…」（https://isomura-s.co.jp/category/product-case/・1回目）
+  - 「ロボット部品：複雑な形状の金属加工 依頼内容 製品の特徴 2種類の機械（NCタレット／レーザー）を組み合わせた…」（https://isomura-s.co.jp/category/product-case/・1回目）
+  - 「アルミ・ステンレス・鉄の他、成形品（樹脂）を使用した製品の加工も行っております」（https://isomura-s.co.jp/2023/06/20/productexample/・1回目）
+  - 「第72回プレミアム・インセンティブショーにてISOMURA製品を展示」（https://isomura-s.co.jp/2026/09/04/2026-09-04-superlight-shoiko/・1回目）
+  - 「板金製造で使用される展開CADですが、そのほとんどが2次元ベースであり、板金以外の製品の組み込みに対応していません」（https://isomura-s.co.jp/mechanical/・1回目）
+  - 「しかし、多くの製品は板金以外の製品の組み込みがあります」（https://isomura-s.co.jp/mechanical/・1回目）
+  - 「複雑形状製品など、組み立て後の動作確認や干渉チェックが行えるため、試作加工期間の短縮が可能となり、スピード感のあるご対応ができます」（https://isomura-s.co.jp/mechanical/・1回目）
+  - 「右記の製品は、各部品ごとに色分けされています」（https://isomura-s.co.jp/mechanical/・1回目）
+  - 「外観品質が重要視される製品のクオリティを劇的に引き上げます」（https://isomura-s.co.jp/2026/01/29/new-table-spot/・1回目）
+- 取扱材料：
+  - 「真鍮、銅、チタン：5％」（https://isomura-s.co.jp/・1回目）
+  - 「取り扱い素材はアルミ、ステンレス、鉄、真鍮、銅、チタン等の金属です」（https://isomura-s.co.jp/company/・1回目）
+  - 「アルミ・ステンレス・鉄の他、成形品（樹脂）を使用した製品の加工も行っております」（https://isomura-s.co.jp/2023/06/20/productexample/・1回目）
+  - 「実は最初のご相談は、チタン製の背負子でした」（https://isomura-s.co.jp/2026/09/04/2026-09-04-superlight-shoiko/・1回目）
+  - 「ただ、想定されていた販売価格から逆算すると、チタンでの実現は難しいとお伝えしたんです」（https://isomura-s.co.jp/2026/09/04/2026-09-04-superlight-shoiko/・1回目）
+  - 「マグネシウム含有により、強度と耐食性が向上」（https://isomura-s.co.jp/2023/08/09/aboutaluminum/・1回目）
+  - 「板厚や材質によって適正なクリアランスがあります」（https://isomura-s.co.jp/2023/09/01/tarepan-1/・1回目）
+  - 「差は「0.25」ですが、材質や板厚によって適切なダイを選ぶ必要があります」（https://isomura-s.co.jp/2023/09/01/tarepan-1/・1回目）
+- 一点物・少量多品種：
+  - 「金属加工・精密板金加工・試作製作を短納期で承っております」（https://isomura-s.co.jp/company/・1回目）
+  - 「製作ロット数は、多品種少量生産・小ロット製作から量産まで幅広く対応可能でございます」（https://isomura-s.co.jp/company/・1回目）
+  - 「幾度もの試作を経てたどり着いた1台について、製作を担当した磯村産業（代表神戸）に、開発の舞台裏を聞きました」（https://isomura-s.co.jp/2026/09/04/2026-09-04-superlight-shoiko/・1回目）
+  - 「その後、半年ほど経って、別の会社様でアルミの試作を作られたものの、なかなかクオリティが上がらず……ということで改めてご連絡をいただき、そこから開発が本格的にスタートしました」（https://isomura-s.co.jp/2026/09/04/2026-09-04-superlight-shoiko/・1回目）
+  - 「強度を重視しながら慎重に進めたので、試作は1st・2nd・3rdと重ね、3回目の試作でようやく量産にたどり着いています」（https://isomura-s.co.jp/2026/09/04/2026-09-04-superlight-shoiko/・1回目）
+  - 「複雑形状製品など、組み立て後の動作確認や干渉チェックが行えるため、試作加工期間の短縮が可能となり、スピード感のあるご対応ができます」（https://isomura-s.co.jp/mechanical/・1回目）
+  - 「「図面なし・試作1個からのご相談大歓迎です」」（https://isomura-s.co.jp/2026/01/29/new-table-spot/・1回目）
+  - 「製作数が「小ロット」「短期的な生産」の場合、金型作成は初期費用を多く占めてしまいます」（https://isomura-s.co.jp/2023/09/01/tarepan-1/・1回目）
+  - 「小ロットから大量生産まで対応可能な、板金加工では中心となる機械です」（https://isomura-s.co.jp/2023/09/01/tarepan-1/・1回目）
+- 製品分野：
+  - 「プレス加工による曲線状の曲げ 依頼内容 製品の特徴 医療用のため、高い精度の加工技術と量産体制の両立が必要とな…」（https://isomura-s.co.jp/category/product-case/・1回目）
+  - 「ロボット部品：複雑な形状の金属加工 依頼内容 製品の特徴 2種類の機械（NCタレット／レーザー）を組み合わせた…」（https://isomura-s.co.jp/category/product-case/・1回目）
+  - 「金型を製作する必要がありますが、」（https://isomura-s.co.jp/2023/08/09/aboutaluminum/・1回目）
+  - 「プレス加工のように専用の金型は必要なく、200種類ある金型を組み合わせて、外形及び穴加工を行います」（https://isomura-s.co.jp/2023/08/09/aboutaluminum/・1回目）
+  - 「プレスとの違いは、プレスは製品専用の金型を使用するのに対し、」（https://isomura-s.co.jp/2023/09/01/tarepan-1/・1回目）
+  - 「タレパンは、タレットに数十種類の汎用金型を装着し、プログラムに合わせて自動でタレットを回転させ、加工します」（https://isomura-s.co.jp/2023/09/01/tarepan-1/・1回目）
+  - 「NCTは、タレットに数十本の金型を装着し、タレットを回転させることにより必要な金型を呼び出し、材料を位置決めしながら加工を行います」（https://isomura-s.co.jp/2023/09/01/tarepan-1/・1回目）
+  - 「丸・角・長丸・長角の数百種類ある汎用金型を組み合わせて加工を行います」（https://isomura-s.co.jp/2023/09/01/tarepan-1/・1回目）
+  - 「金型の組み合わせパターンは何種類もありますので、材料がムダにならない効率の良い金型の使用が必須です」（https://isomura-s.co.jp/2023/09/01/tarepan-1/・1回目）
+  - 「上図で紹介した金型もA型とB型であり、比較してみると大きさが違います」（https://isomura-s.co.jp/2023/09/01/tarepan-1/・1回目）
+  - 「上部金型（パンチ）よりも下部金型（ダイ）の径が少し大きくないと、材料を抜くことができないのです」（https://isomura-s.co.jp/2023/09/01/tarepan-1/・1回目）
+  - 「出典：株式会社アマダ「NCT金型推奨クリアランス表」」（https://isomura-s.co.jp/2023/09/01/tarepan-1/・1回目）
+- AM関連：
+  - 「営業時間：AM8：30～PM5：30(土日祝日除く）」（https://isomura-s.co.jp/category/product-case/・1回目）
+  - 「営業時間：AM8：30～PM5：30(土日祝日除く）」（https://isomura-s.co.jp/downloadcompany/・1回目）
+  - 「営業時間：AM8：30～PM5：30(土日祝日除く）」（https://isomura-s.co.jp/access/・1回目）
+  - 「当社Instagramにて新着情報を投稿しております」（https://isomura-s.co.jp/2025/10/08/event-booth/・1回目）
+  - 「営業時間：AM8：30～PM5：30(土日祝日除く）」（https://isomura-s.co.jp/category/new/company/・1回目）
+  - 「営業時間：AM8：30～PM5：30(土日祝日除く）」（https://isomura-s.co.jp/category/column/metalworking/・1回目）
+  - 「営業時間：AM8：30～PM5：30(土日祝日除く）」（https://isomura-s.co.jp/tag/%E5%8A%A0%E5%B7%A5%E6%96%B9%E6%B3%95/・1回目）
+  - 「営業時間：AM8：30～PM5：30(土日祝日除く）」（https://isomura-s.co.jp/tag/%E8%A3%BD%E4%BD%9C%E4%BA%8B%E4%BE%8B-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/・1回目）
+  - 「https://www.sheetmetal.amada.co.jp/column/course/basis05/」（https://isomura-s.co.jp/2023/09/01/tarepan-1/・1回目）
+  - 「https://navi.tooling.amada-vfactory.com/NAVI/Web_data/web_contents/Navi/PAGE_HTML/PT/Pt_Cl_help.html」（https://isomura-s.co.jp/2023/09/01/tarepan-1/・1回目）
+- 売上高：記載なし（3回確認済み：公式18頁／PDF・画像0件／外部9頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式18頁／PDF・画像0件／外部9頁・検索9回）
+- 連絡先：記載なし（3回確認済み：公式18頁／PDF・画像0件／外部9頁・検索9回）
+
+## 豊国工業株式会社
+- 公式URL：https://www.hokoku.co.jp（given）
+- 取扱製品：
+  - 「最新の高い技術力により、設計から製作、据付、メンテナンスまで一貫した管理体制のもと、お客様のニーズに沿った製品を提案・提供して参ります」（https://hokoku-kogyo.co.jp/・3回目）
+  - 「約半世紀に渡って培ったノウハウと技術力で、お客様にご満足いただける製品をご提供します」（http://www.houkoku-kougyou.com/content1.html・3回目）
+  - 「曲げ工程の精度は、製品の品質に大きく影響します」（http://www.houkoku-kougyou.com/content1.html・3回目）
+  - 「様々な製品の特性に合わせた組み合わせで溶接いたします」（http://www.houkoku-kougyou.com/content1.html・3回目）
+  - 「各製品、事業についてお問い合せされる場合には、」（https://hokoku-kogyo.co.jp/contact/・3回目）
+- 一点物・少量多品種：
+  - 「アルマイト表面処理装置を全面更新(少量品対応化)」（https://hokoku.co.jp/company/・3回目）
+- 製品分野：
+  - 「当社では太物NCベンダー機を導入しておりますので、様々な金型がいるような曲げ加工に対応可能です」（http://www.houkoku-kougyou.com/content1.html・3回目）
+  - 「自動車部品メーカー、水洗金具メーカー、バルブメーカー、」（https://hokoku.co.jp/company/・3回目）
+- 連絡先：
+  - 「お問い合せされる事業カテゴリーの電話・FAXまたはメールフォームよりご連絡下さい」（https://hokoku-kogyo.co.jp/contact/・3回目）
+  - 「採用についてのお問い合わせ・工場見学の申込み・その他全般についてのご意見・お問い合わせ」（https://hokoku-kogyo.co.jp/contact/・3回目）
+  - 「新規事業及び大型加工・表面処理事業 についてのお問い合わせ」（https://hokoku-kogyo.co.jp/contact/・3回目）
+  - 「お問い合わせ【新規事業及び大型加工・表面処理事業】 - 豊国工業株式会社」（https://hokoku-kogyo.co.jp/contact/technology_contact/・3回目）
+  - 「お問い合わせ【新規事業及び大型加工・表面処理事業】」（https://hokoku-kogyo.co.jp/contact/technology_contact/・3回目）
+  - 「新規事業及び大型加工・表面処理事業 についてのお問い合わせ」（https://hokoku-kogyo.co.jp/contact/technology_contact/・3回目）
+  - 「新規事業及び大型加工・表面処理事業 についてお問い合せされる場合には、下記メールフォームをご利用下さい」（https://hokoku-kogyo.co.jp/contact/technology_contact/・3回目）
+- 検索結果の抜粋：
+  - 「HOME - 豊国工業株式会社 — 豊国工業からのお知らせ INFORMATION 2026.11.02 「水循環ACTIVE企業」に認定されました。 2026.10.20 2026酒まつり開催に併せ、県内の酒造好適米を使った西条酒をPRしました。」（https://hokoku-kogyo.co.jp/・3回目）
+  - 「線材加工 | 有限会社豊国工業 — 丸棒線材曲げ加工 曲げ工程の精度は、製品の品質に大きく影響します。そのため、私たちは常に工夫と技術力の向上に努めています。 当社では太物NCベンダー機を導入しておりますので、様々な金型がいるような曲げ加工に対応可能です。また、ステンレスや鉄など数多くの素材を曲げること ...」（http://www.houkoku-kougyou.com/content1.html・3回目）
+  - 「会社概要 - 豊国工業株式会社会社概要 | 豊国工業株式会社HOME - 豊国工業株式会社豊國工業株式会社豊国工業株式会社 | 愛知県豊橋市の切削加工メーカー豊國工業株式会社｜企業情報株式会社豊國 | 会社概要・経営理念・沿革 — 会社概要 社 名 豊国工業株式会社 本社所在地 広島県東広島市西条町御薗宇6400番地3 代表取締役 金谷 俊宗金谷 将明 創 立 昭和32年（1957年）10月21日 資本金 1億円 従業員数 215名（2025年10月現在） 事業内容 豊国工業株式会社は、切削加工ひとすじに創業100年に向けて成長と進化を続けています。私たちが目指すのは作り方(コト)を売る加工プロセス開発メーカーです。 お客様から信頼され、期待される会社になれるよう生産現場の改善・改革を進め、仕事の付加価値を高めることで競争力向上を図っ ... 豊国工業からのお知らせ INFORMATION」（https://hokoku-kogyo.co.jp/aboutus/outline/・3回目）
+  - 「会社概要 | 豊国工業株式会社 — 豊国工業株式会社は、切削加工ひとすじに創業100年に向けて成長と進化を続けています。私たちが目指すのは作り方(コト)を売る加工プロセス開発メーカーです。 お客様から信頼され、期待される会社になれるよう生産現場の改善・改革を進め、仕事の付加価値を高めることで競争力向上を図っ ...」（https://hokoku.co.jp/company/・3回目）
+  - 「豊国工業株式会社 | 愛知県豊橋市の切削加工メーカー — 豊国工業株式会社は、切削加工ひとすじに創業100年に向けて成長と進化を続けています。 1939年、豊橋にて創業。 工作機械の製造とともに、モノづくりの基本といえる切削加工部品の製造を主業務として技術とノウハウを蓄積してきました。」（https://hokoku.co.jp/・3回目）
+  - 「お問い合わせ - 豊国工業株式会社 — 各製品、事業についてお問い合せされる場合には、お問い合せされる事業カテゴリーの電話・FAXまたはメールフォームよりご連絡下さい。 採用についてのお問い合わせ・工場見学の申込み・その他全般についてのご意見・お問い合わせ TEL:082-493」（https://hokoku-kogyo.co.jp/contact/・3回目）
+  - 「お問い合わせ | 豊国工業株式会社 — お電話でのお問い合わせはこちら TEL：0532-31-6591 受付時間：月～金 8：30～17：00（休日除く） お問い合わせ種類 必須 会社名 お名前 必須 フリガナ 必須 メールアドレス 必須 電話番号 郵便番号 住所 お問い合わせ詳細 必須 プライバシーポリシー に同意」（https://hokoku.co.jp/contact/・3回目）
+  - 「お問い合わせ【新規事業及び大型加工・表面処理事業】 - 豊国工業株式... — 新規事業及び大型加工・表面処理事業 についてのお問い合わせ 新規事業及び大型加工・表面処理事業 についてお問い合せされる場合には、下記メールフォームをご利用下さい。 ※ *は必須項目です。」（https://hokoku-kogyo.co.jp/contact/technology_contact/・3回目）
+  - 「お問い合わせ | 有限会社豊国工業 — お電話でのお問い合わせ 0561-36-1628 （受付時間8:00～17:00）」（http://www.houkoku-kougyou.com/inquiry.html・3回目）
+  - 「豊国工業株式会社 - お問い合わせ — 豊国工業株式会社 ＠engineerへのメンバー登録はお済みですか？ ＠engineerは、"ものづくり"に特化したポータル＆メンバー交流サイトです。 メンバー同士の意見交換や情報共有を可能にし、未来を担うソリューションサービスを提供しております。」（https://www.atengineer.com/pr/hokoku-kogyo/inquiry・3回目）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）
+- 代表者：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）
+- 取扱材料：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）
+- AM関連：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）
+
 ## 野方電機工業株式会社
 - 公式URL：http://www.nogatadenki.jp（given）
 - 所在地：東京都中野区野方6丁目30番地27号（ 交通アクセス >> ）（https://www.nogatadenki.jp/company.html?id=company・1回目）
@@ -13494,3 +17851,52 @@ FAX.0256-57-3581（https://www.mrkt.co.jp/companyinfo/・1回目）
 - 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索9回）
 - AM関連：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索9回）
 - 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索9回）
+
+## 齊藤精機株式会社
+- 公式URL：https://saito-seiki.co.jp（given）
+- 所在地：第1～第3工場　神奈川県相模原市中央区淵野辺1-21-18（https://saito-seiki.co.jp/company/・1回目）
+- 事業内容：半導体関係の各種専用機と装置の設計・製造 自動車・航空機・衛星関係の各種専用機と装置の設計・製造 光学ガラス関係の汎用機と装置の設計・製造及び受託加工 太陽電池関係の各種専用機と装置の設計・製造 その他、専用機での試作品や受託加工を行います。 知的財産：特許 4件 / 商標登録 10件（https://saito-seiki.co.jp/company/・1回目）
+- 代表者：代表取締役社長　齊藤　武（https://saito-seiki.co.jp/company/・1回目）
+- 取扱製品：
+  - 「このような事業環境で発展していくためには、当社においてもデータやデジタル技術の活用を積極的に進めていくことによって業務プロセスを改善し、当社の製品や技術・サービス、そしてビジネスモデルも変革していくことが不可欠です」（https://saito-seiki.co.jp/company/dx%e6%8e%a8%e9%80%b2%e5%ae%a3%e8%a8%80/dxtac/・1回目）
+  - 「DXに関する経営ビジョンは、「DXによって働く人と環境の多様性を可能にし、事業の生産性を高めながら、付加価値の高い製品・技術・サービスを顧客に提供する」です」（https://saito-seiki.co.jp/company/dx%e6%8e%a8%e9%80%b2%e5%ae%a3%e8%a8%80/dxtac/・1回目）
+  - 「③ デジタル技術を活用した製品性能の高度化（長期的）」（https://saito-seiki.co.jp/company/dx%e6%8e%a8%e9%80%b2%e5%ae%a3%e8%a8%80/dxtac/・1回目）
+  - 「現在まで紙資料で管理していた納入製品のメンテナンス履歴をデジタル化し、データベース化する体制とシステムを整え、メンテナンス履歴データと顧客データベース（Zoho CRM）を連携して履歴データを管理することで、顧客への提案力を向上させます」（https://saito-seiki.co.jp/company/dx%e6%8e%a8%e9%80%b2%e5%ae%a3%e8%a8%80/dxtac/・1回目）
+  - 「デジタル技術を活用した製品性能の高度化（長期的な取組み）」（https://saito-seiki.co.jp/company/dx%e6%8e%a8%e9%80%b2%e5%ae%a3%e8%a8%80/dxtac/・1回目）
+  - 「AI技術を活用し、高機能製品の開発に取り組みます」（https://saito-seiki.co.jp/company/dx%e6%8e%a8%e9%80%b2%e5%ae%a3%e8%a8%80/dxtac/・1回目）
+  - 「3年後までに高機能製品の開発を開始する」（https://saito-seiki.co.jp/company/dx%e6%8e%a8%e9%80%b2%e5%ae%a3%e8%a8%80/dxtac/・1回目）
+  - 「市場ニーズに対応した高機能製品の開発に着手しました」（https://saito-seiki.co.jp/company/dx%e6%8e%a8%e9%80%b2%e5%ae%a3%e8%a8%80/dxtac/・1回目）
+  - 「製品・研究開発（建築・土木・プラント・設備）」（https://ja.nc-net.or.jp/company/91382/inquiry/input/・3回目）
+- 取扱材料：
+  - 「各種シリコン加工技術をもとに、セラミック、石英、サファイヤ、SiC、ガリウム、インジウム等の結晶素材に適応した、切断・研削加工する測定器付専用機も製作致します」（https://saito-seiki.co.jp/jigyo/・1回目）
+- 一点物・少量多品種：
+  - 「その他、専用機での試作品や受託加工を行います」（https://saito-seiki.co.jp/company/・1回目）
+  - 「私たちは、半導体、衛星、航空機、自動車関連の情報セキュリティの厳しい分野で使用される専用機の製造、装置の設計・製作・試作加工に80年以上にわたって取り組み、国内外のお客様のニーズに豊富な設計経験と高度な製造技術で応えてきました」（https://saito-seiki.co.jp/company/dx%E6%8E%A8%E9%80%B2%E5%AE%A3%E8%A8%80/・1回目）
+  - 「デジタル技術の活用により、商品である専用機や装置、試作機の機能や性能の付加価値を向上させます」（https://saito-seiki.co.jp/company/dx%e6%8e%a8%e9%80%b2%e5%ae%a3%e8%a8%80/dxtac/・1回目）
+- 製品分野：
+  - 「半導体関連の切断機・円筒研磨機の 納入実績、」（https://saito-seiki.co.jp/・1回目）
+  - 「半導体素材※1に適応した専用機の設計製造において45年以上の実績あり」（https://saito-seiki.co.jp/・1回目）
+  - 「自動車・航空機・衛星関係の各種専用機と装置の設計・製造」（https://saito-seiki.co.jp/company/・1回目）
+  - 「民需転換し自動車部品、電気部品加工に着手」（https://saito-seiki.co.jp/company/・1回目）
+  - 「その後斬次業態を進展し、各種専用機及び治具の設計製作メーカーへと躍進」（https://saito-seiki.co.jp/company/・1回目）
+  - 「半導体シリコンインゴット加工機の開発・製作の開始」（https://saito-seiki.co.jp/company/・1回目）
+  - 「半導体シリコンインゴット加工機 初号機納入」（https://saito-seiki.co.jp/company/・1回目）
+  - 「私たちは、半導体、衛星、航空機、自動車関連の情報セキュリティの厳しい分野で使用される専用機の製造、装置の設計・製作・試作加工に80年以上にわたって取り組み、国内外のお客様のニーズに豊富な設計経験と高度な製造技術で応えてきました」（https://saito-seiki.co.jp/company/dx%E6%8E%A8%E9%80%B2%E5%AE%A3%E8%A8%80/・1回目）
+- AM関連：
+  - 「クラウド型業務管理パッケージを導入し、Zoho CRMを顧客情報管理に、Zoho Booksを見積作成に、Zoho Campaignsをマーケティング用に営業部で利用を開始しました」（https://saito-seiki.co.jp/company/dx%e6%8e%a8%e9%80%b2%e5%ae%a3%e8%a8%80/dxtac/・1回目）
+- 連絡先：
+  - 「お問い合わせ - 齊藤精機 株式会社 神奈川県 相模原市中央区」（https://ja.nc-net.or.jp/company/91382/inquiry/input/・3回目）
+  - 「当社からの連絡に必要な電子メールアドレスを用意してそのアドレスを当社に対して登録すること」（https://ja.nc-net.or.jp/company/91382/inquiry/input/・3回目）
+  - 「当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします」（https://ja.nc-net.or.jp/company/91382/inquiry/input/・3回目）
+  - 「かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします」（https://ja.nc-net.or.jp/company/91382/inquiry/input/・3回目）
+- 検索結果の抜粋：
+  - 「会社案内 | 齊藤精機株式会社シリコン・ガラス加工・各種専用機、精密機器の設計・製造の齊藤精機...会社案内｜株式会社斎藤精機｜半導体・自動車関連の製造設備製作｜栃...会社概要｜切削加工・旋削加工の齋藤精機株式会社｜静岡県浜松市株式会社斎藤精機｜半導体・自動車関連の製造設備製作｜栃木県足利市切削加工・旋削加工の齋藤精機株式会社｜静岡県浜松市齊藤精機株式会社の会社概要・製品情報 | Metoree — 人と人のつながりを大切にして、地元から愛される企業になります。 マシン、ソフト、通信のメカトロニクスで、お客様の”困った！ ”を解消する、やりがいのある会社を、社員みんなで楽しんで作っています。 齊藤精機株式会社 代表取締役社長 齊藤 武 シリコン・ガラス加工・各種専用機、精密機器の設計・製造の齊藤精機株式会社 〒252-0206 神奈川県相模原市中央区淵野辺1-21-18 TEL 042-」（https://saito-seiki.co.jp/company/・3回目）
+  - 「シリコン・ガラス加工・各種専用機、精密機器の設計・製造の齊藤精機... — シリコン・ガラス加工・各種専用機、精密機器の設計・製造の齊藤精機株式会社 〒252-0206 神奈川県相模原市中央区淵野辺1-21-18 TEL 042-755-3150 FAX 042-758-1165」（https://saito-seiki.co.jp/・3回目）
+  - 「会社案内｜株式会社斎藤精機｜半導体・自動車関連の製造設備製作｜栃...会社概要｜切削加工・旋削加工の齋藤精機株式会社｜静岡県浜松市株式会社斎藤精機｜半導体・自動車関連の製造設備製作｜栃木県足利市切削加工・旋削加工の齋藤精機株式会社｜静岡県浜松市齊藤精機株式会社の会社概要・製品情報 | Metoree — 栃木県足利市に本社を構える株式会社斎藤精機は、半導体・自動車産業を中心に、製造設備やその部品をオーダーメイドで製作する会社です。 ここでは社長挨拶・経営理念・会社概要・アクセス・沿革をご紹介します。 「小さな技術者集団」を標榜する齋藤精機は創業以来、独自性を徹底追求。 お客様の信頼を獲得するとともに、さらなる顧客満足の実現に全力を尽くしています。 技術を通してお客様の利益に貢献することが私たちの目標です。 オーダーメイドで製作する会社です。 精密な加工・組立・配線を 得意としており 生成A」（http://www.saitouseiki.co.jp/company・3回目）
+  - 「齊藤精機株式会社の会社概要・製品情報 | Metoree — 齊藤精機株式会社は1936年に設立された神奈川県相模原市中央区淵野辺1-21-18に本社が所在する会社です。 齊藤精機株式会社の基本情報や取り扱い製品などの情報を掲載中です」（https://metoree.com/companies/15907/・3回目）
+  - 「お問合せ | 齊藤精機株式会社お問合せ｜切削加工・旋削加工の齋藤精機株式会社｜静岡県浜松市お問い合わせ｜株式会社斎藤精機｜半導体・自動車関連の製造設備製作...お問い合わせ - 齊藤精機 株式会社 神奈川県 相模原市中央区株式会社斎藤精機｜半導体・自動車関連の製造設備製作｜栃木県足利市お問い合わせ | 株式会社齊藤» お問い合わせ — このたびは、 齊藤精機株式会社のウェブサイトをご覧いただき誠にありがとうございます。 当社に関するお問い合わせは、お電話・FAX・お問合せフォームよりお受けしております。 お気軽にお問い合わせください。 お問合せフォーム 下記のフォームより必要事項を入力の上「確認」ボタンをクリックしてください。 ご入力いただきました個人情報については、ご本人の同意がない限り、お問合せに対応する目的以外に利用されることはございません。 株式会社斎藤精機（以下「弊社」といいます」（https://saito-seiki.co.jp/contact/・3回目）
+  - 「お問い合わせ - 齊藤精機 株式会社 神奈川県 相模原市中央区 — 齊藤精機 株式会社へのお問い合わせ 会員の方はこちら ログイン後、お問い合わせ頂けます。 電話でお問合せ メールでのお問い合わせ お問い合わせ内容 区分 (必須) 資料請求 お見積り依頼 お問い合わせ その他 件名 (必須) 本文 (必須) 添付ファイル」（https://ja.nc-net.or.jp/company/91382/inquiry/・3回目）
+- 従業員数：記載なし（3回確認済み：公式7頁／PDF・画像2件／外部14頁・検索9回）
+- 売上高：記載なし（3回確認済み：公式7頁／PDF・画像2件／外部14頁・検索9回）
+- 取引先：記載なし（3回確認済み：公式7頁／PDF・画像2件／外部14頁・検索9回）
+- 拠点：記載なし（3回確認済み：公式7頁／PDF・画像2件／外部14頁・検索9回）

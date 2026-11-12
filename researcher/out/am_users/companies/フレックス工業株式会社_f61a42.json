@@ -1,0 +1,438 @@
+{
+ "name": "フレックス工業株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T23:33:59.640432+00:00",
+ "official_url": "http://www.flex21.co.jp",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "このことは加工分野におきましてもコストの低減化、納期の短縮化、製品の品質アップなどあらゆる面での相乗作用となって好結果をもたらしています",
+    "url": "http://www.flex21.co.jp/details/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "又、販売部門においてはものづくりに欠く事のできない、機械要素、部品、製品等幅広く取り扱っております",
+    "url": "http://www.flex21.co.jp/details/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "尚、製品価格は全て1個より御見積り致します",
+    "url": "http://www.flex21.co.jp/details/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "同一製品でも当社のノウハウを生かした新たな製造方法や、材質、工程の見直し等により、納期、コスト面でのメリットを追及します",
+    "url": "http://www.flex21.co.jp/details/service_product.html",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "チタンボルト / アルミボルト / ジュラルミン加工等の航空機・海洋産業部品",
+    "url": "http://www.flex21.co.jp/details/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "同一製品でも当社のノウハウを生かした新たな製造方法や、材質、工程の見直し等により、納期、コスト面でのメリットを追及します",
+    "url": "http://www.flex21.co.jp/details/service_product.html",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "上記加工を主体とした装置 / 治具類の設計 / 制作及び試作",
+    "url": "http://www.flex21.co.jp/details/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "それぞれの分野に合わせた、特注品1台から、量産品までを当社及び協力工場が一丸となって対応しています",
+    "url": "http://www.flex21.co.jp/details/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の案件を企画段階から試作、量産へ向けての提案を致します",
+    "url": "http://www.flex21.co.jp/details/service_product.html",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "チタンボルト / アルミボルト / ジュラルミン加工等の航空機・海洋産業部品",
+    "url": "http://www.flex21.co.jp/details/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "上記加工を主体とした装置 / 治具類の設計 / 制作及び試作",
+    "url": "http://www.flex21.co.jp/details/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "工場・倉庫・店舗・事務所、医療施設(クリニック)、各種官公庁、一般木造住宅建築、リフォーム工事等",
+    "url": "https://flex-kogyo2020.com/about",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "製造物のご案内｜サービス情報｜フレックス工業株式会社 — サンプルやスケッチからの製作、図面をいただいての製作依頼はもちろん、 同一製品でも当社のノウハウを生かした新たな製造方法や、材質、工程の見直し等により、納期、コスト面でのメリットを追及します。",
+    "url": "http://www.flex21.co.jp/details/service_product.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | フレックス工業株式会社 | CORPORATE SITEフレックス工業株式会社 | CORPORATE SITEフレックス工業株式会社会社概要 | フレックス工業株式会社 - flex-web.net会社概要 | FLEXコーポレートサイト会社情報｜フレックス工業株式会社 - flex21.co.jpフレックス工業株式会社 | ディスプレイ| 什器 | 東京 — 建物は建てて終わるのではなく、建ててからが始まりです。 その先のメンテナンスまで承り、末永くお使い頂ける様に努めるのが、建設会社の仕事と考えております。 また、人間一人ひとりに個性がある様に、建物にも個性があります。 Jul 27, 2023 · 未来の街を創りあげていく 総合建設業 フレックス工業 JFEシステム建築、JFE建築建材など、積み重ねてきた技術力と施工力で未来の街を作り上げて参ります。 総合的な企画・指",
+    "url": "https://flex-kogyo2020.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "フレックス工業株式会社 | CORPORATE SITE — Jul 27, 2023 · 未来の街を創りあげていく 総合建設業 フレックス工業 JFEシステム建築、JFE建築建材など、積み重ねてきた技術力と施工力で未来の街を作り上げて参ります。 総合的な企画・指導・調整まで一括でお任せください。",
+    "url": "https://flex-kogyo2020.com/",
+    "pass": 3
+   },
+   {
+    "quote": "フレックス工業株式会社 — ものづくり応援カンパニー Flexble Thinking & Action ボルト類・車両・電気・光学機器部品・産業用機器設計製作 フレックス工業株式会社 ホーム 会社案内 概要",
+    "url": "http://www.flex21.co.jp/gaiyo.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | フレックス工業株式会社 - flex-web.net — 大里 昇個人事業として日昇社を創業 販促什器・用品の企画製造販売業を開始 1959年（昭和34年）2月 1966年（昭和41年）4月 株式会社日昇製作所を設立 フレックス工業株式会社に社名変更 1975年（昭和50年）4月 大里 高史 代表取締役に就任",
+    "url": "https://www.flex-web.net/会社概要",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | FLEXコーポレートサイト会社情報｜フレックス工業株式会社 - flex21.co.jpフレックス工業株式会社 | ディスプレイ| 什器 | 東京 — フジカ不動産株式会社 株式会社フジカ 株式会社MOTA アクセス Google Map フレックス株式会社 本社 〒107-0061 東京都港区北青山2-5-8 青山OMスクエア6階 本社は青山OMスクエアビル内の6Fにございます。 ご来社いただく際は、ビルの6Fに直接お越しください。 ご挨拶 昭和23年よりボルト類及び機械部品の製造販売を始め、その後、特殊品部門をフレックス工業株式会社として昭和60年に発足させ、様々な分野でのノウハウを蓄積してきました。 〒124-0025 東京都葛飾区西新小岩3-13-20 TEL：03-5654-6423 FAX：03-5654-6433 Mail : flex@cello.ocn.ne",
+    "url": "https://flex.jp/corporate/info",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | フレックス工業株式会社 | CORPORATE SITE — 以下のフォームにご記入のうえ、お気軽にお問い合わせください。 内容を確認後、担当よりご連絡させて頂きます。 必須 がついている項目は必ずご記入ください。 ... 個人情報の取り扱いについて ご確認のうえ、「同意する」にチェックしてご送信ください。",
+    "url": "https://flex-kogyo2020.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "よくある質問｜フレックス工業株式会社お問い合わせ │ 日本フレックス工業株式会社フレックス工業株式会社お問い合わせ | 株式会社フレックス - FLEXお問い合わせ - オートフレックス工業株式会社お問い合わせ | 関西フレックス工業株式会社 — ボルト類・車両・電気・光学機器部品・産業用機器などの設計製作はフレックス工業株式会社へ お問い合わせ ... お問い合わせはこちらまで 〒174-0064 東京都板橋区中台2丁目8番5号 TEL 03-3932-3571 FAX 03-3936-2158 E-MAIL info@flex21.co.jp 日本フレックス工業株式会社へのお問い合わせやご相談、ご質問、採用のご応募については、 下記のメールフォームからお送りください。 お急ぎの方は、お電話でのお問い合わせも承ります。 E-mailアドレス (必須)： 会社名： 郵便番号： 住所： 電話",
+    "url": "http://www.flex21.co.jp/contact/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ │ 日本フレックス工業株式会社 — 日本フレックス工業株式会社へのお問い合わせやご相談、ご質問、採用のご応募については、 下記のメールフォームからお送りください。 お急ぎの方は、お電話でのお問い合わせも承ります。",
+    "url": "https://nichifule.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - オートフレックス工業株式会社 — お問い合わせ CONTACT 下記フォーマットにご記入いただき、ご確認のうえ「送信」ボタンを押して、内容を送信していただくと、自動で受付メールを送信いたします。 尚、ご予約の場合はお手数ですが、直接弊社までご連絡ください。",
+    "url": "https://autoflex.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お問い合わせ | フレックス工業株式会社 | CORPORATE SITE",
+    "url": "https://flex-kogyo2020.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ │ 日本フレックス工業株式会社",
+    "url": "https://nichifule.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "日本フレックス工業株式会社へのお問い合わせやご相談、ご質問、採用のご応募については、",
+    "url": "https://nichifule.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お急ぎの方は、お電話でのお問い合わせも承ります",
+    "url": "https://nichifule.co.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【事例インタビュー】AIと連携した自動検査装置が完成！1年間不良流出... Apr 1, 2025 · 今回はなんと、初のインタビュー第2弾です！ 検査AI MENOU 本稼働から1年を経て、日本フレックス工業さまに現在のご状況を改めてインタビューさせていただきました🌸 今回、特別に！ 検査AI MENOU を組み込んだ生産ラインの様子も公開してくださいました📣",
+    "url": "https://note.com/menou_kojima/n/n44a7ef9cb1f2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【事例インタビュー】AIと連携した自動検査装置が完成！1年間不良流出ゼロ（日本フレックス工業）｜kojima/MENOU広報",
+    "url": "https://note.com/menou_kojima/n/n44a7ef9cb1f2",
+    "pass": 3
+   },
+   {
+    "quote": "【事例インタビュー】AIと連携した自動検査装置が完成！1年間不良流出ゼロ（日本フレックス工業）",
+    "url": "https://note.com/menou_kojima/n/n44a7ef9cb1f2",
+    "pass": 3
+   },
+   {
+    "quote": "今回はなんと、初のインタビュー第2弾です！",
+    "url": "https://note.com/menou_kojima/n/n44a7ef9cb1f2",
+    "pass": 3
+   },
+   {
+    "quote": "本稼働から１年を経て、日本フレックス工業さまに現在のご状況を改めてインタビューさせていただきました🌸",
+    "url": "https://note.com/menou_kojima/n/n44a7ef9cb1f2",
+    "pass": 3
+   },
+   {
+    "quote": "を組み込んだ生産ラインの様子も公開してくださいました📣",
+    "url": "https://note.com/menou_kojima/n/n44a7ef9cb1f2",
+    "pass": 3
+   },
+   {
+    "quote": "インタビューの詳細は、こちらからご覧ください😉",
+    "url": "https://note.com/menou_kojima/n/n44a7ef9cb1f2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "木村 精二 - フレックス工業株式会社 - 営業職 | LinkedIn フレックス工業株式会社 - 営業職 · 職歴: フレックス工業株式会社 · 場所: 1320025。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで木村 精二さんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/精二-木村-b46ba8377",
+    "pass": 3
+   },
+   {
+    "quote": "Hiroshi Nobe - フレックス工業株式会社 - 開発営業部 | LinkedIn フレックス工業株式会社 - 開発営業部 · 職歴: フレックス工業株式会社 · 場所: 日本。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでHiroshi Nobeさんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/hiroshi-nobe-3a78b3151",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.flex21.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.flex21.co.jp/details/service.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.flex21.co.jp/details/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.flex21.co.jp/details/service_product.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.flex21.co.jp/details/access.html",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "http://www.flex21.co.jp/image/service/product01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.flex21.co.jp/image/service/product05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.flex21.co.jp/image/service/product02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://fukuda-kk.com/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/product/detail/2000493134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fukuda-kk.com/service/913/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://flex-kogyo2020.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://flex-kogyo2020.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://flex-kogyo2020.com/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nichifule.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/menou_kojima/n/n44a7ef9cb1f2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/精二-木村-b46ba8377",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/hiroshi-nobe-3a78b3151",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "フレックス工業 取扱製品 試作 小ロット",
+   "results": [
+    "https://fukuda-kk.com/service/",
+    "https://mono.ipros.com/product/detail/2000493134/",
+    "https://fukuda-kk.com/service/913/",
+    "https://pdk21.com/",
+    "http://www.flex21.co.jp/details/service_product.html",
+    "http://www.flex21.co.jp/",
+    "https://flexipcb.com/ja/services/flex-prototype/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "フレックス工業 会社概要 事業内容",
+   "results": [
+    "https://flex-kogyo2020.com/about",
+    "https://flex-kogyo2020.com/",
+    "http://www.flex21.co.jp/gaiyo.html",
+    "https://www.flex-web.net/会社概要",
+    "https://flex.jp/corporate/info",
+    "http://www.flex21.co.jp/details/company.html",
+    "https://www.flex-web.net/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "フレックス工業 お問い合わせ メール",
+   "results": [
+    "https://flex-kogyo2020.com/contact",
+    "http://www.flex21.co.jp/contact/index.html",
+    "https://nichifule.co.jp/contact/",
+    "https://flex.co.jp/contact/",
+    "https://autoflex.jp/contact/",
+    "https://neoflexibility.com/contact.html",
+    "http://flex21.co.jp/csvmail.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com フレックス工業",
+   "results": [
+    "https://note.com/hbc_flex",
+    "https://note.com/note_menou/m/md657db6a28f2",
+    "https://note.com/menou_kojima/n/n44a7ef9cb1f2",
+    "https://note.com/yamatokogyo/n/n72f690718400",
+    "https://note.com/monovate/n/n9d3ee65a6354",
+    "https://note.com/yamatokogyo/n/n72f690718400?hl=en",
+    "https://note.com/blue_flex/n/nd01338ba3d46"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com フレックス工業",
+   "results": [
+    "https://x.com/flexcarlife",
+    "https://x.com/idsecctv",
+    "https://x.com/GuiiiFreitas",
+    "https://x.com/Guikyo/status/2033434615051120905",
+    "https://x.com/Guikyo/status/2033408129279697267",
+    "https://x.com/santi2610aron",
+    "https://x.com/flexintl"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com フレックス工業",
+   "results": [
+    "https://jp.linkedin.com/in/精二-木村-b46ba8377",
+    "https://www.linkedin.com/company/flexintl/",
+    "https://jp.linkedin.com/in/hiroshi-nobe-3a78b3151",
+    "https://in.linkedin.com/company/linkedin",
+    "https://www.linkedin.com/company/the-flex-company",
+    "https://hk.linkedin.com/in/zhluch/ja",
+    "https://kr.linkedin.com/in/bong-keun-kang-11560857"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com フレックス工業",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "フレックス工業 note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "フレックス工業 X 投稿",
+   "results": [
+    "https://flex-kogyo2020.com/",
+    "https://x.com/idsecctv",
+    "https://x.com/idsecctv/status/2053750843950944504",
+    "https://x.com/MegTrapp/status/2055286354972647676",
+    "https://x.com/Fukuriwork/status/2118902891029344510",
+    "https://x.com/MegTrapp/status/2054855262016823661",
+    "https://x.com/FlexComix"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部10頁・検索9回）",
+  "事業内容": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部10頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部10頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部10頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部10頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部10頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部10頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部10頁・検索9回）"
+ }
+}

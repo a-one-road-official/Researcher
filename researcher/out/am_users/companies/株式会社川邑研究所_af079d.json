@@ -1,0 +1,751 @@
+{
+ "name": "株式会社川邑研究所",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T23:09:54.758455+00:00",
+ "official_url": "https://www.defric.com",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "川邑 正広",
+    "url": "https://www.defric.com/business.html",
+    "pass": 1
+   },
+   {
+    "label": "代表電話",
+    "value": "03-3495-2121",
+    "url": "https://www.defric.com/business.html",
+    "pass": 1
+   },
+   {
+    "label": "icon-flag 代表者",
+    "value": "代表取締役社長　川邑　正広",
+    "url": "https://www.juntsu.co.jp/kaishabox/5002.php",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "固体潤滑剤及び特殊機能塗料の開発、製造、販売",
+    "url": "https://www.defric.com/business.html",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒153-0063 東京都目黒区目黒1-5-6",
+    "url": "https://www.defric.com/business.html",
+    "pass": 1
+   },
+   {
+    "label": "icon-list 住所",
+    "value": "153-0063 東京都目黒区目黒1-5-6",
+    "url": "https://www.juntsu.co.jp/kaishabox/5002.php",
+    "pass": 3
+   },
+   {
+    "label": "住所1　市区町村",
+    "value": "※必須",
+    "url": "https://www.juntsu.co.jp/kaishabox/5002.php",
+    "pass": 3
+   }
+  ],
+  "拠点": [
+   {
+    "label": "拠点一覧",
+    "value": "目黒本社 京浜工場 羽田工場",
+    "url": "https://www.defric.com/business.html",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "取引先企業",
+    "value": "・ 日本パーカライジング株式会社 ・ 旭千代田工業株式会社 ・パーカープロセッシング株式会社",
+    "url": "https://www.defric.com/business.html",
+    "pass": 1
+   },
+   {
+    "label": "主要取引先",
+    "value": "自動車会社・部品メーカー\n重工関連\n電機メーカー\n航空宇宙分野\n光学機器メーカー\n半導体関連メーカー\nなど (順不同・敬称略)",
+    "url": "https://mono.ipros.com/company/detail/2044166/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "50名",
+    "url": "https://mono.ipros.com/company/detail/2044166/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "この度、新規にカーボン系導電塗料シリーズをラインナップしました",
+    "url": "https://www.defric.com/",
+    "pass": 1
+   },
+   {
+    "quote": "＜新製品＞PFASフリー シリコーン系非粘着性塗料SLCシリーズのご紹介",
+    "url": "https://www.defric.com/",
+    "pass": 1
+   },
+   {
+    "quote": "現在は固体潤滑塗料の研究に重点を置き、自社開発の固体潤滑塗料「デフリック」の製品販売、並びに各種コンサルティング業務を行っています",
+    "url": "https://www.defric.com/",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様のニーズに合わせたオリジナル潤滑塗料の開発、既存製品のカスタマイズ、トラブルの原因究明など、高い技術力で問題を解決いたします",
+    "url": "https://www.defric.com/",
+    "pass": 1
+   },
+   {
+    "quote": "＜新製品＞PFASフリー シリコーン系非粘着性塗料SLCシリーズのご紹介",
+    "url": "https://www.defric.com/media/products",
+    "pass": 1
+   },
+   {
+    "quote": "製品一覧 (12)",
+    "url": "https://www.defric.com/media/products",
+    "pass": 1
+   },
+   {
+    "quote": "潤滑剤としての性能を最大限に引き出すことで、日常の身の回りの部品から専門業界の用途に至るまで、私たちの製品は幅広い分野に適応することが可能となっています",
+    "url": "https://www.defric.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは自動車、船舶、航空機、発電所、カメラなど、多岐にわたる業界と協力を深め、70年以上の製品開発の歴史を有しています",
+    "url": "https://www.defric.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "固体潤滑塗料の研究開発に重点を置き、独自の優れた製品の開発に成功",
+    "url": "https://www.defric.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "現在は固体潤滑塗料を中心とした潤滑の研究及び固体潤滑塗料「デフリック」の製品販売ならびに各種コンサルティング業務を行う",
+    "url": "https://www.defric.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "＜新製品＞PFASフリー シリコーン系非粘着性塗料SLCシリーズのご紹介 │ ｜株式会社川邑研究所",
+    "url": "https://www.defric.com/media/info/i-productdetail/a55",
+    "pass": 1
+   },
+   {
+    "quote": "＜新製品＞PFASフリー シリコーン系非粘着性塗料SLCシリーズのご紹介",
+    "url": "https://www.defric.com/media/info/i-productdetail/a55",
+    "pass": 1
+   },
+   {
+    "quote": "製品詳細 (5)",
+    "url": "https://www.defric.com/media/info/i-productdetail/a55",
+    "pass": 1
+   },
+   {
+    "quote": "この度、新規にカーボン系導電塗料シリーズをラインナップしました",
+    "url": "https://www.defric.com/media/info/i-productdetail/a56",
+    "pass": 1
+   },
+   {
+    "quote": "＜新製品＞PFASフリー シリコーン系非粘着性塗料SLCシリーズのご紹介",
+    "url": "https://www.defric.com/media/info/i-productdetail/a56",
+    "pass": 1
+   },
+   {
+    "quote": "製品詳細 (5)",
+    "url": "https://www.defric.com/media/info/i-productdetail/a56",
+    "pass": 1
+   },
+   {
+    "quote": "＜新製品＞PFASフリー シリコーン系非粘着性塗料SLCシリーズのご紹介",
+    "url": "https://www.defric.com/media/info/i-productdetail/a54",
+    "pass": 1
+   },
+   {
+    "quote": "製品詳細 (5)",
+    "url": "https://www.defric.com/media/info/i-productdetail/a54",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズに応じた分散技術を提供し、高品質な製品の実現をサポートいたします",
+    "url": "https://www.defric.com/media/info/i-fundamental/a52",
+    "pass": 1
+   },
+   {
+    "quote": "高品質な製品：厳格な品質管理を行い、常に高品質な製品を提供しています",
+    "url": "https://www.defric.com/media/info/i-fundamental/a52",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、より効率的で高性能な製品の開発が可能となり、産業の進化に貢献します",
+    "url": "https://www.defric.com/media/info/i-fundamental/a52",
+    "pass": 1
+   },
+   {
+    "quote": "＜新製品＞PFASフリー シリコーン系非粘着性塗料SLCシリーズのご紹介",
+    "url": "https://www.defric.com/media/info/i-fundamental/a52",
+    "pass": 1
+   },
+   {
+    "quote": "製品詳細 (5)",
+    "url": "https://www.defric.com/media/info/i-fundamental/a52",
+    "pass": 1
+   },
+   {
+    "quote": "＜新製品＞PFASフリー シリコーン系非粘着性塗料SLCシリーズのご紹介",
+    "url": "https://www.defric.com/media/i-productdetail",
+    "pass": 1
+   },
+   {
+    "quote": "製品詳細 (5)",
+    "url": "https://www.defric.com/media/i-productdetail",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(37)",
+    "url": "https://mono.ipros.com/company/detail/2044166/",
+    "pass": 3
+   },
+   {
+    "quote": "川邑研究所は100年以上の歴史を誇り、最先端の学術知識を製品の研究開発に取り入れてきました",
+    "url": "https://mono.ipros.com/company/detail/2044166/",
+    "pass": 3
+   },
+   {
+    "quote": "川邑研究所は科学的な知識と革新的な技術力を融合させ、未来のニーズに対応する製品を創り出すことを使命としています",
+    "url": "https://mono.ipros.com/company/detail/2044166/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (37)",
+    "url": "https://mono.ipros.com/company/detail/2044166/",
+    "pass": 3
+   },
+   {
+    "quote": "1959年 固体潤滑剤のうち，特に固体被膜潤滑剤の研究開発に重点を置き，独自の優れた製品の開発に成功",
+    "url": "https://www.juntsu.co.jp/kaishabox/5002.php",
+    "pass": 3
+   },
+   {
+    "quote": "現在は固体被膜潤滑剤を中心とした固体潤滑の研究及び固体潤滑剤「デフリック」の製品販売ならびに各種コンサルティング業務を行う",
+    "url": "https://www.juntsu.co.jp/kaishabox/5002.php",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "受託分散サービスのご案内 高度な分散技術によるCNT分散 反応性樹脂における高濃度分散技術 無機粒子...",
+    "url": "https://www.defric.com/",
+    "pass": 1
+   },
+   {
+    "quote": "シリコーン樹脂は、その独特な化学構造により非粘着性を発現します",
+    "url": "https://www.defric.com/media/info/i-productdetail/a55",
+    "pass": 1
+   },
+   {
+    "quote": "シリコーン樹脂の主成分であるシロキサン結合（",
+    "url": "https://www.defric.com/media/info/i-productdetail/a55",
+    "pass": 1
+   },
+   {
+    "quote": "この特性により、シリコーン樹脂は非粘着性を持つ塗料として広く利用されています",
+    "url": "https://www.defric.com/media/info/i-productdetail/a55",
+    "pass": 1
+   },
+   {
+    "quote": "は、シリコーン系樹脂を主成分とした塗料です",
+    "url": "https://www.defric.com/media/info/i-productdetail/a55",
+    "pass": 1
+   },
+   {
+    "quote": "は、シリコーン樹脂を主成分とした乾燥するだけで使用可能な非粘着塗料です",
+    "url": "https://www.defric.com/media/info/i-productdetail/a55",
+    "pass": 1
+   },
+   {
+    "quote": "は、シリコーン樹脂を主成分とした非粘着塗料です",
+    "url": "https://www.defric.com/media/info/i-productdetail/a55",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂基材の種類、塗布方法、焼成条件、などに応じて、最適なグレードを選定いただけます",
+    "url": "https://www.defric.com/media/info/i-productdetail/a56",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの革新的な技術は、反応性希釈剤、反応性樹脂中での高濃度ナノシリカ粒子の分散にも応用されています",
+    "url": "https://www.defric.com/media/info/i-fundamental/a52",
+    "pass": 1
+   },
+   {
+    "quote": "従来の方法（下写真右）では、高いせん断力や衝撃を加える必要があり、その結果、分散の安定性が低下し、樹脂の反応や劣化を引き起こすことが多く、高濃度分散の妨げとなっていました",
+    "url": "https://www.defric.com/media/info/i-fundamental/a52",
+    "pass": 1
+   },
+   {
+    "quote": "無機粒子分散液と樹脂の混合においても、私たちの技術はその真価を発揮します",
+    "url": "https://www.defric.com/media/info/i-fundamental/a52",
+    "pass": 1
+   },
+   {
+    "quote": "一般的に、粒子（特にナノ粒子）分散液は樹脂と均一に混合されず、結果として光学特性の劣化やアッベ数の低下を引き起こします",
+    "url": "https://www.defric.com/media/info/i-fundamental/a52",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、私たちの特殊な分散技術はこの不安定性を克服し、各粒子を完全に分散させた状態を維持しながら、樹脂成分と均一に混合します",
+    "url": "https://www.defric.com/media/info/i-fundamental/a52",
+    "pass": 1
+   },
+   {
+    "quote": "二流化モリブデンを中心に、フッ素樹脂やグラファイトなどから作られる潤滑剤「DEFRIC",
+    "url": "https://www.city.meguro.tokyo.jp/sangyoukeizai/shigoto/sangyou/202510.html",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "#自動車 (9)",
+    "url": "https://www.defric.com/media/products",
+    "pass": 1
+   },
+   {
+    "quote": "#航空宇宙・半導体 (2)",
+    "url": "https://www.defric.com/media/products",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙をも舞台に、開発を進めています",
+    "url": "https://www.defric.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは自動車、船舶、航空機、発電所、カメラなど、多岐にわたる業界と協力を深め、70年以上の製品開発の歴史を有しています",
+    "url": "https://www.defric.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に注目すべきは、宇宙開発という最先端技術の領域での実績です",
+    "url": "https://www.defric.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "凍結防止 橋梁、道路、航空機の翼に適用することで、冬季の凍結防止や解氷に使用できます",
+    "url": "https://www.defric.com/media/info/i-productdetail/a54",
+    "pass": 1
+   },
+   {
+    "quote": "自動車 シートヒーターやステアリングヒーターに適用することで快適な運転をサポートすることができます",
+    "url": "https://www.defric.com/media/info/i-productdetail/a54",
+    "pass": 1
+   },
+   {
+    "quote": "1987年 防衛庁の認定工場になる",
+    "url": "https://www.juntsu.co.jp/kaishabox/5002.php",
+    "pass": 3
+   },
+   {
+    "quote": "」（デフリック）の開発製造販売を行っている会社で、実は宇宙開発にも密接に関係している革新的な企業です",
+    "url": "https://www.city.meguro.tokyo.jp/sangyoukeizai/shigoto/sangyou/202510.html",
+    "pass": 3
+   },
+   {
+    "quote": "これまでにH-II（H2）ロケットや惑星探査機「はやぶさ」などの機体を製造する際に「DEFRIC",
+    "url": "https://www.city.meguro.tokyo.jp/sangyoukeizai/shigoto/sangyou/202510.html",
+    "pass": 3
+   },
+   {
+    "quote": "」が採用され、現在もJAXAやNASAをはじめとする宇宙開発機構から宇宙用のコーティング剤の開発依頼を受けています",
+    "url": "https://www.city.meguro.tokyo.jp/sangyoukeizai/shigoto/sangyou/202510.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、「はやぶさ」のような探査機では、宇宙空間にさらされる翼などの駆動部があります",
+    "url": "https://www.city.meguro.tokyo.jp/sangyoukeizai/shigoto/sangyou/202510.html",
+    "pass": 3
+   },
+   {
+    "quote": "やがて日本が復興していくなかで、自動車部品の下請けをやっている知人から相談されたのがきっかけで、潤滑剤を開発したという流れです",
+    "url": "https://www.city.meguro.tokyo.jp/sangyoukeizai/shigoto/sangyou/202510.html",
+    "pass": 3
+   },
+   {
+    "quote": "」は、宇宙関連のほか、自動車の部品や重工メーカーの発電インフラ設備、カメラなどの光学機器、家電など日常生活に欠かせない多くのものに採用されています",
+    "url": "https://www.city.meguro.tokyo.jp/sangyoukeizai/shigoto/sangyou/202510.html",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "KAWAMURA RESEARCH. LAB., INC.",
+    "url": "https://www.juntsu.co.jp/kaishabox/5002.php",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "川邑研究所 — 川邑研究所 川邑研究所 https://www.defric.com",
+    "url": "https://www.defric.com/",
+    "pass": 3
+   },
+   {
+    "quote": "川邑研究所 | 企業情報 | イプロスものづくり — 川邑研究所 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > その他製造",
+    "url": "https://mono.ipros.com/company/detail/2044166/",
+    "pass": 3
+   },
+   {
+    "quote": "川邑研究所 | 固体潤滑剤の研究，製造販売など — 川邑研究所 | 固体潤滑剤の研究，製造販売など ジュンツウネット21 https://www.juntsu.co.jp > kaishabox",
+    "url": "https://www.juntsu.co.jp/kaishabox/5002.php",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 川邑研究所 京浜工場 - 東糀谷工場会 — 株式会社 川邑研究所 京浜工場 - 東糀谷工場会 東糀谷工場会 https://www.higashikoujiya.net > detail",
+    "url": "https://www.higashikoujiya.net/detail.php?no=34",
+    "pass": 3
+   },
+   {
+    "quote": "企業 情報 ｜株式 会社川邑研究所 — 企業 情報 ｜株式 会社川邑研究所 川邑研究所 https://www.defric.com > business",
+    "url": "https://www.defric.com/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "川邑研究所 | 企業 情報 | イプロスものづくり — 川邑研究所 | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > その他製造",
+    "url": "https://mono.ipros.com/company/detail/2044166/",
+    "pass": 3
+   },
+   {
+    "quote": "活気ある 事業 所をご紹介します「株式 会社川邑研究所 」 - 目黒区 — 活気ある 事業 所をご紹介します「株式 会社川邑研究所 」 - 目黒区 目黒区 https://www.city.meguro.tokyo.jp > shigoto > sangyou",
+    "url": "https://www.city.meguro.tokyo.jp/sangyoukeizai/shigoto/sangyou/202510.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社 川邑研究所 - 東京カイシャハッケン伝 — 株式 会社 川邑研究所 - 東京カイシャハッケン伝 東京カイシャハッケン伝 https://www.kaisyahakken.metro.tokyo.lg.jp > kawamura",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kawamura/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社川邑研究所 - Metoree — 株式 会社川邑研究所 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/53596/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ ｜株式会社 川邑研究所 — お問い合わせ ｜株式会社 川邑研究所 川邑研究所 https://www.defric.com > contact",
+    "url": "https://www.defric.com/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "活気ある事業所をご紹介します「株式会社 川邑研究所 」 - 目黒区 — 活気ある事業所をご紹介します「株式会社 川邑研究所 」 - 目黒区 目黒区 https://www.city.meguro.tokyo.jp > shigoto > sangyou",
+    "url": "https://www.city.meguro.tokyo.jp/sangyoukeizai/shigoto/sangyou/202510.html",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "もちろん、小ロットからの対応も可能です",
+    "url": "https://www.city.meguro.tokyo.jp/sangyoukeizai/shigoto/sangyou/202510.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "川邑 宏平 - 株式会社 川邑研究所 | LinkedIn 川邑 宏平 - 株式会社 川邑研究所 | LinkedIn LinkedIn https://jp.linkedin.com > 宏平-川邑-14a64b3a3",
+    "url": "https://jp.linkedin.com/in/%E5%AE%8F%E5%B9%B3-%E5%B7%9D%E9%82%91-14a64b3a3",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.defric.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.defric.com/media/products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.defric.com/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.defric.com/media/info/i-productdetail/a55",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.defric.com/recruit.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.defric.com/media/info/i-productdetail/a56",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.defric.com/media/info/i-productdetail/a54",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.defric.com/media/info/i-fundamental/a52",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.defric.com/media/i-productdetail",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.defric.com/dcms_media/other/%E5%B7%9D%E9%82%91%E7%A0%94%E7%A9%B6%E6%89%80%E3%83%87%E3%83%95%E3%83%AA%E3%83%83%E3%82%AF%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.defric.com/dcms_media/image/media-lowfriction.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2044166/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.juntsu.co.jp/kaishabox/5002.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2044166/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.meguro.tokyo.jp/sangyoukeizai/shigoto/sangyou/202510.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.juntsu.co.jp/kaishabox/5002.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2044166/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E5%AE%8F%E5%B9%B3-%E5%B7%9D%E9%82%91-14a64b3a3",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "川邑研究所 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.defric.com/",
+    "https://mono.ipros.com/company/detail/2044166/",
+    "https://www.juntsu.co.jp/kaishabox/5002.php",
+    "https://www.higashikoujiya.net/detail.php?no=34",
+    "https://njstore.jp/hp120201/",
+    "https://neji-mekki-coating.com/type/821/",
+    "https://www.cksj.co.jp/726.html",
+    "https://www.defric.com/feature.html",
+    "https://mono.ipros.com/company/detail/2044166/catalog/",
+    "https://mono.ipros.com/product/detail/2000905612/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "川邑研究所 会社概要 事業内容",
+   "results": [
+    "https://www.defric.com/business.html",
+    "https://mono.ipros.com/company/detail/2044166/",
+    "https://www.city.meguro.tokyo.jp/sangyoukeizai/shigoto/sangyou/202510.html",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kawamura/",
+    "https://metoree.com/companies/53596/",
+    "https://www.juntsu.co.jp/kaishabox/5002.php",
+    "https://www.defric.com/",
+    "https://www.higashikoujiya.net/detail.php?no=34",
+    "https://compalyze.co.jp/company/1013201001525",
+    "https://jobhakase.com/archives/258489"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "川邑研究所 お問い合わせ メール",
+   "results": [
+    "https://www.defric.com/contact.html",
+    "https://www.juntsu.co.jp/kaishabox/5002.php",
+    "https://mono.ipros.com/company/detail/2044166/",
+    "https://www.city.meguro.tokyo.jp/sangyoukeizai/shigoto/sangyou/202510.html",
+    "https://www.defric.com/",
+    "https://www.higashikoujiya.net/detail.php?no=34",
+    "https://www.defric.com/business.html",
+    "https://www.kawamura.co.jp/contactus/",
+    "https://forms.zohopublic.jp/008yow/form/2/formperma/KuFMiL9mloXLa1GiAOiLSPxQKGFVdByz5iDpJKt4e-M?&product_id=3397&mode=p_contact",
+    "https://www.juntsu.co.jp/syohinbox/5002001.php"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 川邑研究所",
+   "results": [
+    "https://note.com/ryotakawamura9/n/n4ae662dada59",
+    "https://note.com/ryotakawamura9/n/ne2f58714f2b2",
+    "https://note.com/dnx_vc/n/nfecf4ddb71f7",
+    "https://note.com/ryotakawamura9/n/n875dfb50cdfc?hl=en",
+    "https://note.com/ryotakawamura9/n/nb91e8e226dfa",
+    "https://note.com/teppei31/n/n1bb4eb8cafae",
+    "https://note.com/dr_paradi/n/n58becc0c3d75",
+    "https://note.com/makoto_abe/n/n2fd715378150",
+    "https://note.com/nature_positive/n/nf26ae168d7c3",
+    "https://note.com/tag/%E3%83%9C%E3%83%AD%E3%83%BC%E3%83%8B%E3%83%A3%E5%A4%A7%E5%AD%A6"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 川邑研究所",
+   "results": [
+    "https://x.com/8buonpu_39/status/1991466354101420465",
+    "https://x.com/8buonpu_39/status/2032050986932715719",
+    "https://x.com/shochiku_geino/status/1994648120555442387",
+    "https://x.com/kazuma7kawamura",
+    "https://x.com/majimeehime/status/1991463281903673569",
+    "https://x.com/kazuma7kawamura/status/2102896010523508794",
+    "https://x.com/kazuma7kawamura/status/2102896012205408484",
+    "https://x.com/yu__ing",
+    "https://x.com/CAO_BOUSAI",
+    "https://x.com/LOGITARO1"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 川邑研究所",
+   "results": [
+    "https://jp.linkedin.com/in/%E5%AE%8F%E5%B9%B3-%E5%B7%9D%E9%82%91-14a64b3a3",
+    "https://jp.linkedin.com/in/shuichi-iwade-09281994",
+    "https://jp.linkedin.com/in/%E7%91%9E%E7%94%9F-%E6%B5%85%E5%B7%9D-472934365",
+    "https://www.linkedin.com/pub/dir/+/Iwade",
+    "https://jm.linkedin.com/pub/dir/%E3%81%8A/%E3%81%82%E3%81%95",
+    "https://jp.linkedin.com/pub/dir/Takashi/Kawamura/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://www.linkedin.com/pub/dir/Keita/Kawamura",
+    "https://www.linkedin.com/pub/dir/Takashi/Kawamura",
+    "https://jp.linkedin.com/pub/dir/Keita/Kawamura/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/in/宏平-川邑-14a64b3a3"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com 川邑研究所",
+   "results": [
+    "https://www.facebook.com/nedo.startup.club/posts/128%E6%B0%B430%E9%87%91%E3%81%AF%E6%9D%B1%E4%BA%AC%E3%83%93%E3%83%83%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%88%E3%81%B8nano-tech-2026-%E5%9B%BD%E9%9A%9B%E3%83%8A%E3%83%8E%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E7%B7%8F%E5%90%88%E5%B1%95%E6%8A%80%E8%A1%93%E4%BC%9A%E8%AD%B0-%E3%83%8A%E3%83%8E%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%92%E8%BB%B8%E3%81%AB%E6%9C%AA%E6%9D%A5%E6%8A%80%E8%A1%93%E3%81%AE%E7%A4%BE%E4%BC%9A%E5%AE%9F%E8%A3%85%E3%82%92%E6%8E%A2%E6%B1%82%E3%81%99%E3%82%8B%E5%A0%B4%E3%81%A8%E3%81%97%E3%81%A6%E9%9D%A9/122172823616386197/",
+    "https://www.facebook.com/seitaikeikaku/posts/1554622593338968/",
+    "https://www.facebook.com/artmuseum.sakima/posts/%E3%81%84%E3%81%A4%E3%82%82%E5%A4%A7%E5%A4%89%E3%81%8A%E4%B8%96%E8%A9%B1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%86%E3%82%8B%E3%81%BE%E5%B8%82%E3%81%AE%E3%83%8B%E3%83%A9%E3%82%A4%E5%A1%BE%E3%81%A8%E7%86%B1%E5%B8%AF%E8%B3%87%E6%BA%90%E6%A4%8D%E7%89%A9%E7%A0%94%E7%A9%B6%E6%89%80%E3%81%AE%E5%90%8D%E8%AD%B7%E6%9D%B1%E4%B8%80%E9%83%8E%E6%A7%98%E3%82%88%E3%82%8A%E5%A4%A7%E5%A4%89%E7%AB%8B%E6%B4%BE%E3%81%AA%E8%83%A1%E8%9D%B6%E8%98%AD%E3%81%8C%E5%B1%8A%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%84%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%81%BF%E3%81%AA%E6%A7%98/1049881690274135/",
+    "https://www.facebook.com/dormousewildlife/?locale=ja_JP",
+    "https://www.facebook.com/warau101/",
+    "https://www.facebook.com/niwabunka/",
+    "https://www.facebook.com/arita.pocelain.lab/videos/%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E4%BA%BA%E3%80%85-%E5%90%89%E6%B0%B8-%E6%98%8E%E5%AD%90-arita-porcelain-lab/1780325138657290/",
+    "https://www.facebook.com/kaiensha/posts/%E6%98%A0%E7%94%BB%E4%B8%B8%E6%9C%A8%E4%BD%8D%E9%87%8C%E4%B8%B8%E6%9C%A8%E4%BF%8A-%E6%B2%96%E7%B8%84%E6%88%A6%E3%81%AE%E5%9B%B3-%E5%85%A814%E9%83%A8-%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%86%99%E7%9C%9F%E7%BE%8E%E8%A1%93%E9%A4%A8%E3%83%9B%E3%83%BC%E3%83%AB-%E4%B8%8A%E6%98%A0%E4%B8%AD%E9%91%91%E8%B3%9E%E3%81%8A%E7%A4%BC-%E6%9C%AC%E6%97%A5%E3%81%AE%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AB%E6%84%9F%E8%AC%9D-%E3%81%94%E9%91%91%E8%B3%9E%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E6%98%8E%E6%97%A5%E3%81%AE%E4%B8%8A%E6%98%A0-6%E6%9C%8829%E6%97%A5%E5%9C%9F%E3%81%AF%EF%BC%92%E5%9B%9E/1005104264952649/",
+    "https://www.facebook.com/NPOCEED/posts/%E6%97%A9%E5%B7%9D%E4%BA%8B%E6%A5%AD%E6%89%80-%E3%83%98%E3%83%AB%E3%82%B7%E3%83%BC%E7%BE%8E%E9%87%8C-%E9%87%8E%E9%B3%A5%E5%85%AC%E5%9C%92%E3%81%A8%E5%A0%BA%E4%BA%8B%E6%A5%AD%E6%89%80%E5%A0%BA%E8%87%AA%E7%84%B6%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E3%81%AE%E6%A3%AE%E3%81%A7%E6%96%B0%E8%81%B7%E5%93%A1%E3%82%92%E5%8B%9F%E9%9B%86%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E5%A4%9A%E3%81%8F%E3%81%AE%E3%81%94%E5%BF%9C%E5%8B%9F%E3%82%92%E3%81%8A%E5%BE%85%E3%81%A1%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E7%94%9F%E6%85%8B%E6%95%99%E8%82%B2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E3%81%A8%E5%8D%94%E5%83%8D%E9%96%A2%E4%BF%82%E3%81%AB%E3%81%82%E3%82%8B%E7%94%9F%E6%85%8B%E8%A8%88%E7%94%BB%E7%A0%94/1070521541782599/",
+    "https://www.facebook.com/pages/川邑省吾事務所/297032413642718/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "川邑研究所 note 社長",
+   "results": [
+    "https://www.defric.com/",
+    "https://mono.ipros.com/company/detail/2044166/",
+    "https://www.juntsu.co.jp/kaishabox/5002.php",
+    "https://www.higashikoujiya.net/detail.php?no=34",
+    "https://www.city.meguro.tokyo.jp/meguroplus/20251016.html",
+    "https://njstore.jp/hp120201/",
+    "https://www.defric.com/business.html",
+    "https://note.com/dnx_vc/n/nfecf4ddb71f7",
+    "https://jp.linkedin.com/in/%E5%AE%8F%E5%B9%B3-%E5%B7%9D%E9%82%91-14a64b3a3"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "川邑研究所 X 投稿",
+   "results": [
+    "https://www.defric.com/",
+    "https://mono.ipros.com/company/detail/2044166/",
+    "https://www.higashikoujiya.net/detail.php?no=34",
+    "https://www.city.meguro.tokyo.jp/meguroplus/20251016.html",
+    "https://www.juntsu.co.jp/kaishabox/5002.php",
+    "https://www.defric.com/business.html",
+    "https://njstore.jp/hp120201/",
+    "https://www.cksj.co.jp/726.html",
+    "https://syukatsu-kaigi.jp/companies/156730/match",
+    "https://www.rakusyo.jp/casestudy/kawamura_labo/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式9頁／PDF・画像2件／外部7頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式9頁／PDF・画像2件／外部7頁・検索9回）"
+ }
+}

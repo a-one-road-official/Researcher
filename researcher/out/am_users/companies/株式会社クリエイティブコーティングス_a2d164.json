@@ -1,0 +1,487 @@
+{
+ "name": "株式会社クリエイティブコーティングス",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T23:04:20.491319+00:00",
+ "official_url": "https://c-coatings.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "【液相・気相技術事業】 液相・気相コーティングプロセスの現世代技術の進化 並びに次世代技術の研究開発 並びに装置・治具・材料・プロセスの開発支援、 デバイス試作・量産までシステムの一貫提供。",
+    "url": "https://www.c-coatings.co.jp/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒940-2128　新潟県長岡市新産東町38 電話：0258-89-8608　FAX番号：0258-89-8609",
+    "url": "https://www.c-coatings.co.jp/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "製品分野": [
+   {
+    "quote": "並びに装置・治具・材料・プロセスの開発支援、",
+    "url": "https://www.c-coatings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【対応分野】電子部品｜半導体｜エネルギー｜医療機器｜先端素材",
+    "url": "https://www.c-coatings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体向け極低温高密度プラズマALD装置と",
+    "url": "https://mono.ipros.com/company/detail/2066186/category/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置パーツ用金型や樹脂成形金型、摺動部品や治工具などの長寿命化に貢献",
+    "url": "https://mono.ipros.com/company/detail/2066186/category/",
+    "pass": 3
+   },
+   {
+    "quote": "立体的な超精密な複雑形状な金型や機械部品にも",
+    "url": "https://mono.ipros.com/company/detail/2066186/category/",
+    "pass": 3
+   },
+   {
+    "quote": "「気相技術」は、樹脂原料・燃料電池など『新素材・新材料』『エネルギー』、医療センサー・機器など『医療・ヘルスケア』、電子部品・新ディスプレイなど『モバイル端末』『ウェアラブル機器』『オートモーティブ』など多様な分野で活用されています",
+    "url": "https://mono.ipros.com/company/detail/2066186/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■バレル型ALDロボットCVA-B series",
+    "url": "https://mono.ipros.com/company/detail/2066186/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■バブリングCVDロボットCVB series",
+    "url": "https://mono.ipros.com/company/detail/2066186/category/",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンニュートラル実現に向けたキーテクノロジーの1つである次世代電池、さまざまな機能を持ったナノスケールの機能性粒子、５G・６G通信システムや環境対応車の普及、先進運転支援システム (ADAS)の進歩を背景に超小型化・高信頼性が求められるMLCCをはじめとする受動部品、DXによる質の高い医療、AI・デジタル化の進む医療機器など、社会のあらゆる分野で我々のコーティング技術に期待が集まっています",
+    "url": "https://mono.ipros.com/company/detail/2066186/",
+    "pass": 3
+   },
+   {
+    "quote": "電子部品、半導体、エネルギー、",
+    "url": "https://mono.ipros.com/company/detail/2066186/",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器、素材関連 など",
+    "url": "https://mono.ipros.com/company/detail/2066186/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "クリエイティブコーティングスの製品・サービス一覧｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2066186/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(11)",
+    "url": "https://mono.ipros.com/company/detail/2066186/category/",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブコーティングスの製品ラインアップ",
+    "url": "https://mono.ipros.com/company/detail/2066186/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品のライフサイクルコスト低減や材料廃棄削減など環境負荷低減にも貢献",
+    "url": "https://mono.ipros.com/company/detail/2066186/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(11)",
+    "url": "https://mono.ipros.com/company/detail/2066186/",
+    "pass": 3
+   },
+   {
+    "quote": "液相から気相まで、お客様のニーズに合わせた製品を豊富に取り揃えています",
+    "url": "https://mono.ipros.com/company/detail/2066186/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の製品や材料にあわせたプロセス条件、ジグ、装置、外部電極材料の最善に関する開発サポート、受託塗布まで幅広く対応いたします",
+    "url": "https://mono.ipros.com/company/detail/2066186/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (11)",
+    "url": "https://mono.ipros.com/company/detail/2066186/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "半導体製造装置パーツ用金型や樹脂成形金型、摺動部品や治工具などの長寿命化に貢献",
+    "url": "https://mono.ipros.com/company/detail/2066186/category/",
+    "pass": 3
+   },
+   {
+    "quote": "ワーク材質や膜種、膜厚から、弊社がご提案する技術や加工例をご紹介！",
+    "url": "https://mono.ipros.com/company/detail/2066186/category/",
+    "pass": 3
+   },
+   {
+    "quote": "「気相技術」は、樹脂原料・燃料電池など『新素材・新材料』『エネルギー』、医療センサー・機器など『医療・ヘルスケア』、電子部品・新ディスプレイなど『モバイル端末』『ウェアラブル機器』『オートモーティブ』など多様な分野で活用されています",
+    "url": "https://mono.ipros.com/company/detail/2066186/category/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "試作・小ロット、多品種製作を社内開発装置にてワンストップで行います！",
+    "url": "https://mono.ipros.com/company/detail/2066186/category/",
+    "pass": 3
+   },
+   {
+    "quote": "コーティング試作受託、量産受託請負",
+    "url": "https://mono.ipros.com/company/detail/2066186/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "常温粉体ALD装置 全固体電池材料、量子ドット粉末用",
+    "url": "https://mono.ipros.com/company/detail/2066186/category/",
+    "pass": 3
+   },
+   {
+    "quote": "多層成膜により耐荷重性向上した低温DLC(Diamond-like carbon）薄膜硬質コーティングが可能！",
+    "url": "https://mono.ipros.com/company/detail/2066186/category/",
+    "pass": 3
+   },
+   {
+    "quote": "DLCとは：ダイヤモンドライクカーボン(Diamond-Like Carbon)の略で、",
+    "url": "https://mono.ipros.com/company/detail/2066186/category/",
+    "pass": 3
+   },
+   {
+    "quote": "従来ta-Cと比較し密着力向上した低温DLC(Diamond-like carbon）薄膜硬質コーティングが可能！",
+    "url": "https://mono.ipros.com/company/detail/2066186/category/",
+    "pass": 3
+   },
+   {
+    "quote": "多層成膜により耐衝撃性向上した低温DLC(Diamond-like carbon）薄膜硬質コーティングが可能！",
+    "url": "https://mono.ipros.com/company/detail/2066186/category/",
+    "pass": 3
+   },
+   {
+    "quote": "常温粉体ALD装置 全固体電池材料、量子ドット粉末用",
+    "url": "https://mono.ipros.com/company/detail/2066186/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "クリエイティブコーティングス の 製品 ・サービス一覧 - イプロス — クリエイティブコーティングス の 製品 ・サービス一覧 - イプロス 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > company > detail > category",
+    "url": "https://mono.ipros.com/company/detail/2066186/category/",
+    "pass": 3
+   },
+   {
+    "quote": "試作 製作＆技術お問合せ - — 試作 製作＆技術お問合せ - 株式会社クリエイティブコーティングス https://www.c-coatings.co.jp > inquiry",
+    "url": "https://www.c-coatings.co.jp/inquiry/",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブコーティングス | 企業 情報 | イプロスものづくり — クリエイティブコーティングス | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 電子部品・半導体",
+    "url": "https://mono.ipros.com/company/detail/2066186/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社クリエイティブコーティングス — 株式 会社クリエイティブコーティングス 株式会社クリエイティブコーティングス https://www.c-coatings.co.jp",
+    "url": "https://www.c-coatings.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社クリエイティブコーティングス - キャリアクロス — 株式 会社クリエイティブコーティングス - キャリアクロス キャリアクロス https://www.careercross.com > company > detail-595826",
+    "url": "https://www.careercross.com/company/detail-595826",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社クリエイティブコーティングス - マイナビ転職 — 株式 会社クリエイティブコーティングス - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/468277/",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブコーティングス | 企業情報 | イプロスものづくり — クリエイティブコーティングス | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 電子部品・半導体",
+    "url": "https://mono.ipros.com/company/detail/2066186/",
+    "pass": 3
+   },
+   {
+    "quote": "試作製作＆技術 お問合せ - — 試作製作＆技術 お問合せ - 株式会社クリエイティブコーティングス https://www.c-coatings.co.jp > inquiry",
+    "url": "https://www.c-coatings.co.jp/inquiry/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 クリエイティブコーティングス | 新潟ベンチャー ... — 株式会社 クリエイティブコーティングス | 新潟ベンチャー ... 新潟ベンチャーキャピタル株式会社 https://niigata-vc.co.jp > portfolio > c-coatings",
+    "url": "https://niigata-vc.co.jp/portfolio/c-coatings",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 クリエイティブコーティングス - キャリアクロス — 株式会社 クリエイティブコーティングス - キャリアクロス キャリアクロス https://www.careercross.com > company > detail-595826",
+    "url": "https://www.careercross.com/company/detail-595826",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.c-coatings.co.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2066186/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2066186/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.c-coatings.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.careercross.com/company/detail-595826",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.creative-coating.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2066186/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.c-coatings.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "クリエイティブコーティングス 取扱製品 試作 小ロット",
+   "results": [
+    "https://mono.ipros.com/company/detail/2066186/category/",
+    "https://injection-lab.com/technology/64-2.html",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.c-coatings.co.jp/inquiry/",
+    "https://www.film-formation.com/list/c-coatings.html",
+    "https://injection-fuchu.com/column/1203/",
+    "https://kyoeidesign.co.jp/lot-production/",
+    "https://www.xeffect.com/small/",
+    "https://mono.ipros.com/product/detail/2000360905/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "クリエイティブコーティングス 会社概要 事業内容",
+   "results": [
+    "https://mono.ipros.com/company/detail/2066186/",
+    "https://www.c-coatings.co.jp/",
+    "https://www.careercross.com/company/detail-595826",
+    "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3015929476/",
+    "https://tenshoku.mynavi.jp/company/468277/",
+    "https://niigata-vc.co.jp/portfolio/c-coatings",
+    "https://www.r-agent.com/company/d7492/",
+    "https://initial.inc/companies/A-32634",
+    "https://clip-corporation.com/company-matching/company-details/?corporate_number=3110001032664",
+    "https://www.creative-coating.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "クリエイティブコーティングス お問い合わせ メール",
+   "results": [
+    "https://www.creative-coating.co.jp/contact/",
+    "https://mono.ipros.com/company/detail/2066186/",
+    "https://www.c-coatings.co.jp/inquiry/",
+    "https://niigata-vc.co.jp/portfolio/c-coatings",
+    "https://www.careercross.com/company/detail-595826",
+    "https://www.r-agent.com/viewjob/jka347c6bdc31c4a12/",
+    "https://initial.inc/companies/A-32634",
+    "https://biznavi.smrj.go.jp/18798/",
+    "https://compalyze.co.jp/company/3110001032664",
+    "https://www.picasso-cre.jp/form/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com クリエイティブコーティングス",
+   "results": [
+    "https://note.com/kikakusya/n/n99e888878a1b",
+    "https://note.com/chobishiba/n/nd100600de84f",
+    "https://note.com/hiroaki_sugihara/n/n0edf88aa4a6e",
+    "https://note.com/kawajiring/n/n9f4f10470e96",
+    "https://note.com/dapper_squid9109/n/nfd69faf18080",
+    "https://note.com/atsumori_inc/n/n54dc6b78825a",
+    "https://note.com/kesikijp/n/nf84705b42092?hl=en",
+    "https://note.com/sugi2000/n/n7cabbb239ad4",
+    "https://note.com/tatu1014/n/n20c60d0b1c47",
+    "https://note.com/kawajiring/n/n30fd407bd51e"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com クリエイティブコーティングス",
+   "results": [
+    "https://x.com/kessan_db/status/2113778810550423916",
+    "https://x.com/tasteofhome/status/2006495614247309562",
+    "https://x.com/CoBRAIN_P",
+    "https://x.com/tasteofhome/status/2116329355244605462?lang=ar-x-fm",
+    "https://x.com/JChengWSJ/status/2074374057529602328",
+    "https://x.com/CarCreativeJP",
+    "https://x.com/TAForum",
+    "https://x.com/fusee_tokyo/with_replies",
+    "https://x.com/Crystals_MDPI",
+    "https://x.com/team_creatives1"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com クリエイティブコーティングス",
+   "results": [
+    "https://www.linkedin.com/company/creative-coatings-co-inc",
+    "https://www.linkedin.com/company/creativecoatingslv",
+    "https://www.linkedin.com/in/chris-stevenson-99b71711",
+    "https://www.linkedin.com/in/jesse-creek-b1a03828",
+    "https://www.linkedin.com/posts/creative-coatings-co-inc_creative-coatings-acquisition-and-introduction-activity-7104861926416887808-uHnq",
+    "https://www.linkedin.com/in/larry-benforado-67646414",
+    "https://www.linkedin.com/in/todd-wadsworth-6170b287",
+    "https://www.linkedin.com/company/creative-coatings-llc-mn",
+    "https://www.linkedin.com/in/stephen-geist-37789483",
+    "https://jp.linkedin.com/company/（株）クリエイティブコーティングス"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com クリエイティブコーティングス",
+   "results": [
+    "https://www.facebook.com/creativecoatingskc/",
+    "https://www.facebook.com/cover14u2/",
+    "https://www.facebook.com/creativecoatings4u/",
+    "https://www.facebook.com/creativecoatingsshawnee/",
+    "https://www.facebook.com/creativeepoxycoatings/",
+    "https://www.facebook.com/CreativeCoatingsLV/",
+    "https://www.facebook.com/FitzgeraldsCreativeCoating/",
+    "https://www.facebook.com/cnycreativecoatings/",
+    "https://www.facebook.com/creativecoatings365/",
+    "https://www.facebook.com/PlatteCityAreaChamberOfCommerce/posts/-ambassador-spotlight-sean-parrett-were-proud-to-shine-the-spotlight-on-sean-par/1406682411505010/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "クリエイティブコーティングス note 社長",
+   "results": [
+    "https://www.nikkei.com/article/DGKKZO51494090Y9A021C1L21000/",
+    "https://mono.ipros.com/company/detail/2066186/",
+    "https://www.firstcvc.jp/company/c-coatings.co.jp",
+    "https://www.c-coatings.co.jp/",
+    "https://initial.inc/companies/A-32634",
+    "https://niigata-vc.co.jp/portfolio/c-coatings",
+    "https://www.nikkan.co.jp/articles/view/496693",
+    "https://biznavi.smrj.go.jp/18798/",
+    "https://tenshoku.mynavi.jp/company/468277/",
+    "https://ja.wikipedia.org/wiki/佐藤英児"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "クリエイティブコーティングス X 投稿",
+   "results": [
+    "https://mono.ipros.com/company/detail/2066186/",
+    "https://biznavi.smrj.go.jp/18798/",
+    "https://www.c-coatings.co.jp/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000001MXMLm",
+    "https://niigata-vc.co.jp/portfolio/c-coatings",
+    "https://jobtalk.jp/companies/9593969/answers",
+    "https://initial.inc/companies/A-32634",
+    "https://www.nikkei.com/article/DGKKZO51494090Y9A021C1L21000/",
+    "https://en-hyouban.com/company/10200473662/",
+    "https://x.com/kessan_db/status/2113778810550423916"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）"
+ }
+}

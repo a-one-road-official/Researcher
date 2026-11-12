@@ -1,0 +1,1163 @@
+{
+ "name": "会津ゴム工業株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T23:15:33.909750+00:00",
+ "official_url": "http://www.aizugomu.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社・工場",
+    "value": "〒179－0076東京都練馬区土支田1-20-13",
+    "url": "https://www.aizugomu.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒179-0076 東京都練馬区土支田１−２０−１３",
+    "url": "https://www.atengineer.com/pr/aizugomu/company",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "鳥澤　明子",
+    "url": "https://www.aizugomu.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "鳥澤明子",
+    "url": "https://www.atengineer.com/pr/aizugomu/company",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "9名",
+    "url": "https://www.aizugomu.co.jp/company.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "医療用ゴム製品をはじめとしたゴムの製作は会津ゴムへ！！",
+    "url": "https://www.aizugomu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用ゴムをはじめとした樹脂製品をお客様の求める条件に合わせてご提案！！",
+    "url": "https://www.aizugomu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂製品の研究開発をはじめ、医療用ゴムや工業用ゴムの制作や販売を行なっています",
+    "url": "https://www.aizugomu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "各種製品は、形状や材質等様々な使用用途に適したご提案をいたします",
+    "url": "https://www.aizugomu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ゴム製品に関してお困りのことがございましたらお気軽にご相談下さい",
+    "url": "https://www.aizugomu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ゴムの機能面から、最適なゴム製品を提案｜会津ゴム工業",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＰＴＦＥテフロンファイバーとグラファイト、耐熱性の潤滑油をミックスして造られた繊維をインターロック編みにした製品",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "アラミド繊維をインターロック編みにし、更に密封性を高める為にテフロン、潤滑剤処理を施した製品",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "特殊カーボン繊維にPTFEディスパーションを含浸し格子編方式で断面角型に編組した製品",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーニーズに応え続け、十分満足のいただける製品作りを行っています",
+    "url": "https://www.aizugomu.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療用シリコンゴム製品の開発設計・成形・加工なら会津ゴム",
+    "url": "https://www.aizugomu.co.jp/silicon.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療用シリコンゴム製品の開発設計製造・シリコンピンマット販売",
+    "url": "https://www.aizugomu.co.jp/silicon.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療用シリコンゴム製品の製品の開発・設計・製造",
+    "url": "https://www.aizugomu.co.jp/silicon.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、自社開発によるシリコンゴム製品（シリコンピンマット）の提供も行っております",
+    "url": "https://www.aizugomu.co.jp/silicon.html",
+    "pass": 1
+   },
+   {
+    "quote": "※左記のように最大サイズの製品には縁がついていますがカット品にはありません",
+    "url": "https://www.aizugomu.co.jp/silicon.html",
+    "pass": 1
+   },
+   {
+    "quote": "左記のように最大サイズの製品には縁が付いていますが、",
+    "url": "https://www.aizugomu.co.jp/pdf/%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%B3%E3%83%94%E3%83%B3%E3%83%9E%E3%83%83%E3%83%88_2%E7%89%88.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受注いただいた製品のほとんどが1個～500個程度です",
+    "url": "https://aizugomu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "押出し成形等、高精度の製品を短納期でご提供させて頂きます",
+    "url": "https://aizugomu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "金型を使わずに1個から製作できるため、製品開発段階での形状確認やフィッティングテストに最適です",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "【通販サイト】ゴム・シリコン・プラスチック各種製品がすぐ買える！",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム製品 ゴムローラー・焼付品(加硫接着剤)",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "【半導体向け】AIZUシリコーン ゴム製品のご提案",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "【航空宇宙向け】AIZUシリコーン ゴム製品",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は1970年の創業以来、歯科医療および一般医療機器、工業用ゴム製品を中心に、プラスチック・金属製品の試作から量産まで一貫して対応してまいりました",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "また、提案型の商社として、パーツ部品から機械設備に至るまで、幅広い製品と柔軟なご提案を行っております",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス一覧 (118)",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "ディスポ製品を中心に部品、部材等、滅菌、未滅菌を問わず、",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "pass": 3
+   },
+   {
+    "quote": "【通販サイト】ゴム・シリコン・プラスチック各種製品がすぐ買える！",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム製品 ゴムローラー・焼付品(加硫接着剤)",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "pass": 3
+   },
+   {
+    "quote": "【半導体向け】AIZUシリコーン ゴム製品のご提案",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "pass": 3
+   },
+   {
+    "quote": "【航空宇宙向け】AIZUシリコーン ゴム製品",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は1970年の創業以来、歯科医療および一般医療機器、工業用ゴム製品を中心に、プラスチック・金属製品の試作から量産まで一貫して対応してまいりました",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "pass": 3
+   },
+   {
+    "quote": "また、提案型の商社として、パーツ部品から機械設備に至るまで、幅広い製品と柔軟なご提案を行っております",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス一覧 (118)",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "pass": 3
+   },
+   {
+    "quote": "私ども有限会社会津ゴム工業は創業以来、ゴム・プラスチック分野に於きまして 「お客様の求める以上の製品づくり」を目標とし医療機器をはじめ、 各産業で高い技術力と豊富な経験で社会に貢献して参りました",
+    "url": "https://aizugomu.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "近年は合成樹脂業界でも成形・加工機器や材料の技術革新は目覚しいものがありますが、弊社も常に新しい視点に立ち、お客様により一層質の高いサービスと製品を提供出来るよう努力して参ります",
+    "url": "https://aizugomu.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "14 ゴム製品、プラスチック製品",
+    "url": "https://aizugomu.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "、製品・技術・サービス",
+    "url": "https://www.atengineer.com/pr/aizugomu/company",
+    "pass": 3
+   },
+   {
+    "quote": "会津ゴム工業株式会社の製品・技術・サービス",
+    "url": "https://www.atengineer.com/pr/aizugomu/company",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "医療用ゴムをはじめとした樹脂製品をお客様の求める条件に合わせてご提案！！",
+    "url": "https://www.aizugomu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂製品の研究開発をはじめ、医療用ゴムや工業用ゴムの制作や販売を行なっています",
+    "url": "https://www.aizugomu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "各種製品は、形状や材質等様々な使用用途に適したご提案をいたします",
+    "url": "https://www.aizugomu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "材質：天然黒、φ93ｘΦ155",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：天然ゴムグリーン３ｔ、720ｘ500",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：ライナテックス２ｔｘ９０ｍｍｘ３．５ｍｍ",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：アメゴム １６００ｍｍｘ８５ｍｍ",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：ＣＲ ８６０mmｘ５０８mm",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：CR Φ５２０ｍｍｘΦ４８０ｍｍ",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：NBR 490mmx330mmx10t",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：NBR 158mmx72mmx1t",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：ＮＢＲ７０°Φ１０ｘΦ１２０ｘΦ１００",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：NBR Φ３１０ｍｍｘΦ１６３ｍｍ",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：EPT３ｔ ３００ｍｍｘ１００ｍｍ",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：ＳＢＲ３ｔ 842x542",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：ブチル３ｔ ６０ｍｍｘ５０ｍｍ",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：フッ素ゴム ３０ｍｍｘ２６ｍｍｘ１５ｍｍ",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：フッ素ゴム２ｔ-１５６ｍｍｘ８４ｍｍ",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：ウレタン９０ ２６．５ｍｍｘΦ１２ｍｍ",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：ウレタン７０ Φ４ｘΦ３ｘ７．２８ｍｍ",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：ウレタン70度 ２６０ｍｍ ｘ ３７８ｍｍ",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：シリコン 30ｍｍｘ２６ｍｍｘ２４０ｍｍ",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：シリコン５０度 Φ110mm ｘ 95mm",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：シリコン7０度",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：シリコン50 Φ5.00mm ｘ 0.5mm",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：NBRφ７ｘ３ｍ",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：ネオロン６ｍｍｘ１５ｍｍｘ１．５ｍ",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：１０００ｍｍｘ３０ｍｍ",
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "pass": 1
+   },
+   {
+    "quote": "シリコン→EPDMの食品衛生法対応材料の提案事例",
+    "url": "https://www.aizugomu.co.jp/proposal.html",
+    "pass": 1
+   },
+   {
+    "quote": "シリコンではなく、EPDMの食品衛生法対応材料を提案",
+    "url": "https://www.aizugomu.co.jp/proposal.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社からはシリコンよりも硬い、EBDMの食品衛生法対応材料での代替を提案し、ホースを製作した後に治具により曲がり癖をつけ、細かな寸法を製作できる状態に修正しました",
+    "url": "https://www.aizugomu.co.jp/proposal.html",
+    "pass": 1
+   },
+   {
+    "quote": "それにより、一般アクリル樹脂よりも表面硬度が硬く傷が付きにくいものになり",
+    "url": "https://www.aizugomu.co.jp/proposal.html",
+    "pass": 1
+   },
+   {
+    "quote": "材料：帯電防止アクリル樹脂 厚さ2mm 透明",
+    "url": "https://www.aizugomu.co.jp/proposal.html",
+    "pass": 1
+   },
+   {
+    "quote": "・少量すぎて加工先が見つからない ・材質選定に迷っている ・試作だけ対応してほしい ・図面がラフな状態 ・現品しかない",
+    "url": "https://aizugomu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム素材からスーパーエンプラまで、あらゆるの樹脂素材に対応し、切削加工、射出成形、真空成形及びチューブ類の",
+    "url": "https://aizugomu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "第30回〖色付きゴム・樹脂〗「この色で少量だけ作りたい」にも対応します",
+    "url": "https://aizugomu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "第25回【実例】板金から樹脂への置き換え",
+    "url": "https://aizugomu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "第23回【スーパーエンプラ適材適所】過酷な環境を支える高機能樹脂の使い分け",
+    "url": "https://aizugomu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "対応材質：ゴム切削加工における技術仕様やスペックは、使用する素材や加工方法、求められる精度によって異なりますが、以下に代表的な仕様の一例をご紹介します",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "対応材質 | 天然ゴム、NBR、EPDM、シリコンゴム、ウレタンゴム、CR、フッ素ゴムなど特殊材質",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "対応硬度 | ショアA 30〜90 程度（材質により異なる）",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム＆樹脂加工事例 標準在庫品（125種）/特注品",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム＆樹脂加工事例集プレゼント 加工事例６４本を一挙掲載！",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "高摺動性特殊ポリエチレン樹脂『LUBMER』",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム＆樹脂加工事例 標準在庫品（125種）/特注品",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム＆樹脂加工事例集プレゼント 加工事例６４本を一挙掲載！",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "pass": 3
+   },
+   {
+    "quote": "高摺動性特殊ポリエチレン樹脂『LUBMER』",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "pass": 3
+   },
+   {
+    "quote": "近年は合成樹脂業界でも成形・加工機器や材料の技術革新は目覚しいものがありますが、弊社も常に新しい視点に立ち、お客様により一層質の高いサービスと製品を提供出来るよう努力して参ります",
+    "url": "https://aizugomu.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂ホース、多層チューブ 極細から極太迄対応可能",
+    "url": "https://www.atengineer.com/pr/aizugomu/company",
+    "pass": 3
+   },
+   {
+    "quote": "スーパーエンプラ、汎用プラスチック樹脂射出成型 試作から量産迄対応",
+    "url": "https://www.atengineer.com/pr/aizugomu/company",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム、樹脂インサート成形",
+    "url": "https://www.atengineer.com/pr/aizugomu/company",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム、樹脂押し出成形",
+    "url": "https://www.atengineer.com/pr/aizugomu/company",
+    "pass": 3
+   },
+   {
+    "quote": "図面作成から材質選択、金型製作、試作量産、組み立て迄お手伝いいたします",
+    "url": "https://www.atengineer.com/pr/aizugomu/company",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "水筒用パッキンや水道用のパッキンといった食品用ゴムをオーダーメイドにて制作いたします",
+    "url": "https://www.aizugomu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、昭和44年創業以来 歯科医療及び一般医療用機器を中心としたさまざまなゴム、プラスチック、金属の試作研究から量産製造までを一貫して手がけてきました",
+    "url": "https://www.aizugomu.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "・少量すぎて加工先が見つからない ・材質選定に迷っている ・試作だけ対応してほしい ・図面がラフな状態 ・現品しかない",
+    "url": "https://aizugomu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は「必要なものを必要な数だけつくる」小ロット生産を通じて、",
+    "url": "https://aizugomu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "第30回〖色付きゴム・樹脂〗「この色で少量だけ作りたい」にも対応します",
+    "url": "https://aizugomu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "第28回【実例】「展示会まであと3日…！」開発スケジュールを救った特急試作の裏側",
+    "url": "https://aizugomu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "第27回【実例】試作から量産へ",
+    "url": "https://aizugomu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "金型不要、- 小ロット・試作向き- 複雑形状に対応",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム切削加工は、ゴム素材を削ったり切断したりして目的の形状に仕上げる加工方法で、金型を使わずに試作や少量生産に適しています",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "最小ロット | 1個から対応可能（試作・小ロット生産に最適）",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "シリコンゴムなどを用いたチューブやパッキンの試作",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム＆樹脂加工事例 標準在庫品（125種）/特注品",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は1970年の創業以来、歯科医療および一般医療機器、工業用ゴム製品を中心に、プラスチック・金属製品の試作から量産まで一貫して対応してまいりました",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "とくに規格外のオーダーメイド品においては、自社工場および協力メーカーとの連携により、設計から製造・発送までフルカスタマイズで対応可能です",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム＆樹脂加工事例 標準在庫品（125種）/特注品",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は1970年の創業以来、歯科医療および一般医療機器、工業用ゴム製品を中心に、プラスチック・金属製品の試作から量産まで一貫して対応してまいりました",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "pass": 3
+   },
+   {
+    "quote": "とくに規格外のオーダーメイド品においては、自社工場および協力メーカーとの連携により、設計から製造・発送までフルカスタマイズで対応可能です",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "pass": 3
+   },
+   {
+    "quote": "スーパーエンプラ、汎用プラスチック樹脂射出成型 試作から量産迄対応",
+    "url": "https://www.atengineer.com/pr/aizugomu/company",
+    "pass": 3
+   },
+   {
+    "quote": "試作量産、移管型にも対応可能です！",
+    "url": "https://www.atengineer.com/pr/aizugomu/company",
+    "pass": 3
+   },
+   {
+    "quote": "図面作成から材質選択、金型製作、試作量産、組み立て迄お手伝いいたします",
+    "url": "https://www.atengineer.com/pr/aizugomu/company",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "医療用ゴム製品をはじめとしたゴムの製作は会津ゴムへ！！",
+    "url": "https://www.aizugomu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用ゴムをはじめとした樹脂製品をお客様の求める条件に合わせてご提案！！",
+    "url": "https://www.aizugomu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂製品の研究開発をはじめ、医療用ゴムや工業用ゴムの制作や販売を行なっています",
+    "url": "https://www.aizugomu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は、産業用ゴムや医療機器用ゴム、食品用ゴムなどの各種業種別のチューブ及びパッキン、成形部品等を製造販売いたしております",
+    "url": "https://www.aizugomu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、昭和44年創業以来 歯科医療及び一般医療用機器を中心としたさまざまなゴム、プラスチック、金属の試作研究から量産製造までを一貫して手がけてきました",
+    "url": "https://www.aizugomu.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "関越自動車道練馬インターより約3km",
+    "url": "https://www.aizugomu.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療用シリコンゴム製品の開発設計・成形・加工なら会津ゴム",
+    "url": "https://www.aizugomu.co.jp/silicon.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療用シリコンゴム製品の開発設計製造・シリコンピンマット販売",
+    "url": "https://www.aizugomu.co.jp/silicon.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療用シリコンゴム製品の製品の開発・設計・製造",
+    "url": "https://www.aizugomu.co.jp/silicon.html",
+    "pass": 1
+   },
+   {
+    "quote": "耐熱用ゴム(耐熱性ゴム)は、滅菌消毒や殺菌消毒に対応する為医療機器や食品機器には欠かすことのできないものです",
+    "url": "https://www.aizugomu.co.jp/proposal.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療照明機器などの熱を発する箇所でも使用可能です",
+    "url": "https://www.aizugomu.co.jp/proposal.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社からはシリコンよりも硬い、EBDMの食品衛生法対応材料での代替を提案し、ホースを製作した後に治具により曲がり癖をつけ、細かな寸法を製作できる状態に修正しました",
+    "url": "https://www.aizugomu.co.jp/proposal.html",
+    "pass": 1
+   },
+   {
+    "quote": "インジェクション成形品よりも、金型費用が大幅に安価になり",
+    "url": "https://www.aizugomu.co.jp/proposal.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型不要、- 小ロット・試作向き- 複雑形状に対応",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム切削加工は、ゴム素材を削ったり切断したりして目的の形状に仕上げる加工方法で、金型を使わずに試作や少量生産に適しています",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "金型を使わずに1個から製作できるため、製品開発段階での形状確認やフィッティングテストに最適です",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "医療用編組管 ブレイデッドチューブ【優れた耐食性・強度・加工性】",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "【半導体向け】AIZUシリコーン ゴム製品のご提案",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "【医療機器向け】AIZUシリコーン チューブ",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "【航空宇宙向け】AIZUシリコーン ゴム製品",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "【医療機器製造向け】医療用透明シリコンチューブ",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "【救急医療向け】医療用透明シリコンチューブ",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "【半導体ウェーハ向け】超耐熱シリコンゴムシート",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は1970年の創業以来、歯科医療および一般医療機器、工業用ゴム製品を中心に、プラスチック・金属製品の試作から量産まで一貫して対応してまいりました",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "医療用編組管 ブレイデッドチューブ【優れた耐食性・強度・加工性】",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "pass": 3
+   },
+   {
+    "quote": "【半導体向け】AIZUシリコーン ゴム製品のご提案",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "pass": 3
+   },
+   {
+    "quote": "【医療機器向け】AIZUシリコーン チューブ",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "pass": 3
+   },
+   {
+    "quote": "【航空宇宙向け】AIZUシリコーン ゴム製品",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "pass": 3
+   },
+   {
+    "quote": "【医療機器製造向け】医療用透明シリコンチューブ",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "pass": 3
+   },
+   {
+    "quote": "【救急医療向け】医療用透明シリコンチューブ",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "pass": 3
+   },
+   {
+    "quote": "【半導体ウェーハ向け】超耐熱シリコンゴムシート",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は1970年の創業以来、歯科医療および一般医療機器、工業用ゴム製品を中心に、プラスチック・金属製品の試作から量産まで一貫して対応してまいりました",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "pass": 3
+   },
+   {
+    "quote": "私ども有限会社会津ゴム工業は創業以来、ゴム・プラスチック分野に於きまして 「お客様の求める以上の製品づくり」を目標とし医療機器をはじめ、 各産業で高い技術力と豊富な経験で社会に貢献して参りました",
+    "url": "https://aizugomu.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "図面作成から材質選択、金型製作、試作量産、組み立て迄お手伝いいたします",
+    "url": "https://www.atengineer.com/pr/aizugomu/company",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お問い合わせ頂いた時点では、お客様は食品衛生法上、シリコンでないとだめだと思っていました",
+    "url": "https://www.aizugomu.co.jp/proposal.html",
+    "pass": 1
+   },
+   {
+    "quote": "まずは相談だけでもお気軽に、お電話、メールをいただければ即日～ご対応いたします",
+    "url": "https://aizugomu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "詳しくはお問い合わせ、またはカタログをダウンロードしてください",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "まずはお問い合わせ内容をお聞かせいただければ、ご提案・お見積りを差し上げます",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "まずはお問い合わせ内容をお聞かせいただければ、ご提案・お見積りを差し上げます",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "pass": 3
+   },
+   {
+    "quote": "下記フォームの上でダブルクリック - メールフォームの編集",
+    "url": "https://aizugomu.com/contact/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "有限会社 会津ゴム工業 — 弊社は「必要なものを必要な数だけつくる」小ロット生産を通じて、資源やエネルギーの無駄を減らしています。 また、製造工程で発生する端材は分別・リサイクルを徹底し、廃棄物削減に努めています。",
+    "url": "https://aizugomu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "加工技術 「ゴム切削加工」 | 会津ゴム工業 - Powered by イプロスも... — 金型不要、- 小ロット・試作向き- 複雑形状に対応 ゴム切削加工は、ゴム素材を削ったり切断したりして目的の形状に仕上げる加工方法で、金型を使わずに試作や少量生産に適しています。",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM受託生産 | 会津ゴム工業 - Powered by イプロスものづくり — 会津ゴム工業は、研究開発･設計製造・提案販売企業です。 弊社は1970年の創業以来、歯科医療および一般医療機器、工業用ゴム製品を中心に、プラスチック・金属製品の試作から量産まで一貫して対応してまいりました。",
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム切削，ゴム加工，試作，少量生産 - 会津ゴム工業株式会社 — ゴム素材を製作して加工しることも可能ですので、 着色、ゴム硬度変更等ご要望がありましたら柔軟に対応をいたします。 量産前の形状確認、勘合確認 少量生産の金型レス ゴムの加工ですので寸法公差は多めに見ていただく場合が多いです。",
+    "url": "https://ja.nc-net.or.jp/company/81864/product/detail/58620/",
+    "pass": 3
+   },
+   {
+    "quote": "形状別のゴム製品ラインアップはこちらからご覧下さい｜会津ゴム工業 — 形状別でシート部品やOリングなどのゴム製品の商品情報を確認することができます。 シート部品 各種シール材料、絶縁・断熱材料、樹脂、ロール・ライニング、フィルターなどお客様の多様なニーズに合わせて幅広く取り扱っています。",
+    "url": "https://www.aizugomu.co.jp/shape.html",
+    "pass": 3
+   },
+   {
+    "quote": "会津ゴム工業の会社概要｜ゴムとプラスチックの研究開発集団会社案内 | 有限会社 会津ゴム工業医療用ゴム製品をはじめとしたゴムの製作は会津ゴムへ！！有限会社 会津ゴム工業会津ゴム工業株式会社 - 会社概要会津ゴム工業 | 企業情報 | イプロスものづくり企業情報 | 会津ゴム工業 - Powered by イプロスものづくり — 当社は、昭和44年創業以来 歯科医療及び一般医療用機器を中心としたさまざまなゴム、プラスチック、金属の試作研究から量産製造までを一貫して手がけてきました。 ユーザーニーズに応え続け、十分満足のいただける製品作りを行っています。 企業情報 ご挨拶 私ども有限会社会津ゴム工業は創業以来、ゴム・プラスチック分野に於きまして 「お客様の求める以上の製品づくり」を目標とし医療機器をはじめ、 各産業で高い技術力と豊富な経験で社会に貢献して参りました。 ごあいさつ 会津ゴム工業株",
+    "url": "https://www.aizugomu.co.jp/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | 有限会社 会津ゴム工業医療用ゴム製品をはじめとしたゴムの製作は会津ゴムへ！！有限会社 会津ゴム工業会津ゴム工業株式会社 - 会社概要会津ゴム工業 | 企業情報 | イプロスものづくり企業情報 | 会津ゴム工業 - Powered by イプロスものづくり — ご挨拶 私ども有限会社会津ゴム工業は創業以来、ゴム・プラスチック分野に於きまして 「お客様の求める以上の製品づくり」を目標とし医療機器をはじめ、 各産業で高い技術力と豊富な経験で社会に貢献して参りました。 ごあいさつ 会津ゴム工業株式会社のホームページをご覧頂きまして誠に有難うございます。 弊社は、産業用ゴムや医療機器用ゴム、食品用ゴムなどの各種業種別のチューブ及びパッキン、成形部品等を製造販売いたしております。 ゴム素材からスーパーエンプラまで、あらゆるの樹脂素材に対応し、切削加工、射出成形、真空成形及びチューブ類の押",
+    "url": "https://aizugomu.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会津ゴム工業株式会社 - 会社概要 — 会津ゴム工業株式会社 事業概要 設備紹介 東京都にある 会津ゴム工業株式会社 の会社情報です。 事業概要 、製品・技術・サービス 、設備紹介 などを掲載しています。",
+    "url": "https://www.atengineer.com/pr/aizugomu/company",
+    "pass": 3
+   },
+   {
+    "quote": "会津ゴム工業 | 企業情報 | イプロスものづくり — Mar 5, 2026 · 会津ゴム工業は、研究開発･設計製造・提案販売企業です。 弊社は1970年の創業以来、歯科医療および一般医療機器、工業用ゴム製品を中心に、プラスチック・金属製品の試作から量産まで一貫して対応してまいりました。",
+    "url": "https://mono.ipros.com/company/detail/2003857/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | 会津ゴム工業 - Powered by イプロスものづくり — 会津ゴム工業は、研究開発･設計製造・提案販売企業です。 弊社は1970年の創業以来、歯科医療および一般医療機器、工業用ゴム製品を中心に、プラスチック・金属製品の試作から量産まで一貫して対応してまいりました。",
+    "url": "https://pr.mono.ipros.com/aizugomu/information/",
+    "pass": 3
+   },
+   {
+    "quote": "会津ゴム工業のお問合わせページ - aizugomu.co.jp — 経験豊富な社員が、ゴム、樹脂に関する問い合わせ、見積に誠心誠意ご対応します。 連絡先 TEL 03-6915-9311 FAX 03-6915-9312 e-mail: info@aizugomu.co.jp メールフォーム 必要事項をご記入の上、下記確認ボタンを押して下さい。 ★ は必須項目になります。",
+    "url": "https://www.aizugomu.co.jp/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 有限会社 会津ゴム工業 — ホーム 加工内容・製品紹介 会社案内 事例紹介 お問い合わせ プライバシーポリシー 有限会社 会津ゴム工業 住所 〒470-1126 愛知県豊明市三崎町高鴨14-7 電話番号 0562-95-4331 (代表) FAX 0562-95-4388 MAIL info@aizugomu.com",
+    "url": "https://aizugomu.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 会津ゴム工業 — 当社は多品種・小ロットは得意中の得意です。 受注いただいた製品のほとんどが1個～500個程度です。 まずは相談だけでもお気軽に、お電話、メールをいただければ即日～ご対応いたします。",
+    "url": "https://aizugomu.com/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "会津ゴム工業株式会社 | Nerima-ku Tokyo - Facebook 会津ゴム工業株式会社 ゴム プラスチック 成形 切削 プレス 加工 医療用機器部品 産業用機器部品 研究開発用 Industrial Company All Photos",
+    "url": "https://www.facebook.com/aizugomu/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社会津ゴム工業 - Facebook Aug 18, 2026 · 有限会社会津ゴム工業. ゴム素材からスーパーエンプラまですべての樹脂素材に対応し、切削加工、射出成形、真空成形及びチューブ類の押し出し成形等、樹脂成型加工品なら有限会社会津ゴム工業にお任せ下さい！ 試作から量産まで迅速に対応致します。",
+    "url": "https://www.facebook.com/p/有限会社会津ゴム工業-61590305046970/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社会津ゴム工業初投稿 - Facebook Add photos Once you add photos, you'll see them here.",
+    "url": "https://www.facebook.com/media/set/?set=a.122104663233343501",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.aizugomu.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizugomu.co.jp/kakoujirei.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizugomu.co.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizugomu.co.jp/silicon.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aizugomu.co.jp/proposal.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.aizugomu.co.jp/pdf/%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%B3%E3%83%94%E3%83%B3%E3%83%9E%E3%83%83%E3%83%88_2%E7%89%88.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aizugomu.co.jp/img/kakoujirei_h1.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.aizugomu.co.jp/img/company-h1.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.aizugomu.co.jp/img/kakoujireibn.gif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://aizugomu.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aizugomu.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/aizugomu/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aizugomu.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aizugomu.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/aizugomu/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/有限会社会津ゴム工業-61590305046970/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/media/set/?set=a.122104663233343501",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/有限会社会津ゴム工業-61590305046970/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "会津ゴム工業 取扱製品 試作 小ロット",
+   "results": [
+    "https://aizugomu.com/",
+    "https://pr.mono.ipros.com/aizugomu/product/detail/2000182463/",
+    "https://pr.mono.ipros.com/aizugomu/product/detail/2001509304/",
+    "https://ja.nc-net.or.jp/company/81864/product/detail/58620/",
+    "https://www.aizugomu.co.jp/shape.html",
+    "https://aizugomu.com/products/",
+    "https://www.aizugomu.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "会津ゴム工業 会社概要 事業内容",
+   "results": [
+    "https://www.aizugomu.co.jp/company.html",
+    "https://aizugomu.com/company/",
+    "https://www.atengineer.com/pr/aizugomu/company",
+    "https://mono.ipros.com/company/detail/2003857/",
+    "https://pr.mono.ipros.com/aizugomu/information/",
+    "https://aizugomu.com/",
+    "https://www.aizugomu.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "会津ゴム工業 お問い合わせ メール",
+   "results": [
+    "https://www.aizugomu.co.jp/contact.html",
+    "https://aizugomu.com/contact/",
+    "https://aizugomu.com/",
+    "https://ja.nc-net.or.jp/company/81864/inquiry/input/",
+    "https://r.goope.jp/aizukogyo/contact/sendmail/",
+    "https://yashima-gomu.com/contact/",
+    "https://www.aizugomu.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 会津ゴム工業",
+   "results": [
+    "https://note.com/light_broom545/n/ncd9f1b8ef884",
+    "https://note.com/light_broom545",
+    "https://note.com/light_broom545/n/n7702fc21d2c2",
+    "https://note.com/clipcorporation/n/na10fa0c54203",
+    "https://tales.note.com/20220612/wr98m266akp5v",
+    "https://tales.note.com/kind_cosmos9896/wiyxpcjj4ahp0/episodes/e9ub1f3bgc4ti",
+    "https://note.com/shoboicycle/n/nf21099a858cf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 会津ゴム工業",
+   "results": [
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/aizuseimen",
+    "https://x.com/_y_u_t_o_/status/2101958222957699234",
+    "https://x.com/kaiko_official",
+    "https://x.com/9VVydfAL3g78376/status/2113596798745100309",
+    "https://x.com/Aizu_Brand_Kan/status/2063493914431312097",
+    "https://x.com/miyagawagomu/status/2120477281441485203"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 会津ゴム工業",
+   "results": [
+    "https://jp.linkedin.com/in/信者-男-96504638a",
+    "https://www.linkedin.com/company/luna-software-solutions",
+    "https://www.linkedin.com/in/ikem-nwaesei",
+    "https://ar.linkedin.com/in/delfina-lanusse-5a225b237",
+    "https://jp.linkedin.com/company/住友ゴム工業（株）",
+    "https://pk.linkedin.com/in/abu-bakr-aman-46818b38a",
+    "https://za.linkedin.com/in/elizabeth-moselakgomo-195171198"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 会津ゴム工業",
+   "results": [
+    "https://www.facebook.com/aizugomu/",
+    "https://www.facebook.com/p/有限会社会津ゴム工業-61590305046970/",
+    "https://www.facebook.com/media/set/?set=a.122104663233343501",
+    "https://www.facebook.com/IGARASHIKOGYO/",
+    "https://www.facebook.com/p/会津自動車工業株式会社-61554252882131/",
+    "https://www.facebook.com/p/株式会社-北日本金型工業-100060847910155/",
+    "https://www.facebook.com/61554252882131/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "会津ゴム工業 note 社長",
+   "results": [
+    "https://aizugomu.com/company/",
+    "https://www.aizugomu.co.jp/company.html",
+    "https://business.walmart.com/search?query=会津ゴム工業+note+社長&sort=best_match&cat_id=0&stores=1934&spelling=false&ps=40",
+    "https://compalyze.co.jp/company/1011601000139",
+    "https://aizugomu.com/",
+    "https://www.aizugomu.co.jp/",
+    "https://yashima-gomu.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "会津ゴム工業 X 投稿",
+   "results": [
+    "https://www.aizugomu.co.jp/company.html",
+    "https://aizugomu.com/company/",
+    "https://www.facebook.com/p/有限会社会津ゴム工業-61590305046970/",
+    "https://aizugomu.com/",
+    "https://www.aizugomu.co.jp/",
+    "https://x.com/gou_super/status/2120112427736179068",
+    "https://yashima-gomu.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部11頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部11頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部11頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部11頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部11頁・検索9回）"
+ }
+}

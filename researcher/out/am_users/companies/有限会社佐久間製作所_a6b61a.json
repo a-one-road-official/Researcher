@@ -1,0 +1,584 @@
+{
+ "name": "有限会社佐久間製作所",
+ "aliases": [],
+ "context": "ipros_all:少量",
+ "researched_at": "2026-11-11T23:24:21.997099+00:00",
+ "official_url": "http://www.sakuma-ss.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "東京都西多摩郡奥多摩町丹三郎159-2 [ アクセスマップ ]",
+    "url": "http://www.sakuma-ss.com/company.html",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "佐久間　賢一",
+    "url": "http://www.sakuma-ss.com/company.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "6名",
+    "url": "http://www.sakuma-ss.com/company.html",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "時計メーカー 計器メーカー 電子部品メーカー 自動車部品メーカー 半導体機械メーカー",
+    "url": "http://www.sakuma-ss.com/company.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "鉄・アルミ・SUS303・SUS304・SUS316・クローム430,416,420・POM(ジュラコン)・チタン",
+    "url": "http://www.sakuma-ss.com/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄・アルミ・SUS303・SUS304・SUS316・クローム430,416,420・POM(ジュラコン)・チタン",
+    "url": "http://www.sakuma-ss.com/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "【材質】C3604BD",
+    "url": "http://www.sakuma-ss.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "【材質】C5191B",
+    "url": "http://www.sakuma-ss.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "【材質】SUS303",
+    "url": "http://www.sakuma-ss.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "【材質】SUS304",
+    "url": "http://www.sakuma-ss.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "【材質】20クローム",
+    "url": "http://www.sakuma-ss.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "【材質】A5052",
+    "url": "http://www.sakuma-ss.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "【材質】A5056",
+    "url": "http://www.sakuma-ss.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄・アルミ・SUS303・SUS304・SUS316・クローム430,416,420・POM(ジュラコン)・チタン",
+    "url": "http://www.sakuma-ss.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄・アルミ・SUS303・SUS304・SUS316・クローム430,416,420・POM(ジュラコン)・チタン",
+    "url": "http://www.sakuma-ss.com/equipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "東京都墨田区の金属加工、樹脂加工｜佐久間製作所",
+    "url": "https://sakuma-seisakujo.com/service-indivisual/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都墨田区の金属加工、樹脂加工｜佐久間製作所",
+    "url": "https://sakuma-seisakujo.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都墨田区の金属加工、樹脂加工｜佐久間製作所",
+    "url": "https://sakuma-seisakujo.com/about/company/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都墨田区の金属加工、樹脂加工｜佐久間製作所",
+    "url": "https://sakuma-seisakujo.com/contact/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "航空機部品、医療部品、空調部品の試作・単品加工から量産まで【精密加工、薄肉加工】",
+    "url": "http://www.sakuma-ss.com/",
+    "pass": 1
+   },
+   {
+    "quote": "中でもΦ20以内、肉厚が0.3mm程度の薄肉仕上げを得意としており、小ロットでの製造でお受けしております",
+    "url": "http://www.sakuma-ss.com/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機部品、医療部品、空調部品の試作・精密部品加工事例｜佐久間製作所",
+    "url": "http://www.sakuma-ss.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、ワイヤー加工のみ、マシニング加工のみ、多品種・小ロットなど細かい仕事も承っておりますので、お困りの際にはぜひご相談ください",
+    "url": "https://sakuma-seisakujo.com/service-indivisual/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "航空機部品、医療部品、空調部品の試作・単品加工から量産まで【精密加工、薄肉加工】",
+    "url": "http://www.sakuma-ss.com/",
+    "pass": 1
+   },
+   {
+    "quote": "医療部品や航空機部品や携帯部品、モーター部品、自動車部品など幅広い実績があります",
+    "url": "http://www.sakuma-ss.com/",
+    "pass": 1
+   },
+   {
+    "quote": "オーディオ機器・ＯＡ機器・遊戯機器・医療機器・自動車機器・飛行機機器・通信機器等の各業種のお客様にささえられ今日に至ってまいりました",
+    "url": "http://www.sakuma-ss.com/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空機部品、医療部品、空調部品の試作・精密部品加工事例｜佐久間製作所",
+    "url": "http://www.sakuma-ss.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "【お車でお越しになる場合】中央連絡自動車道 青梅インター又は日の出インターより約20km",
+    "url": "http://www.sakuma-ss.com/access.html",
+    "pass": 1
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "「製品は手元にあるのに設計図がなくて困っている」佐久間製作所では3次元測定器を導入しているため、そのようなお悩みも解決することができます",
+    "url": "https://sakuma-seisakujo.com/service-indivisual/",
+    "pass": 3
+   },
+   {
+    "quote": "そういった場合には、まず製品の形状をデータに落とし込むことが必要です",
+    "url": "https://sakuma-seisakujo.com/service-indivisual/",
+    "pass": 3
+   },
+   {
+    "quote": "佐久間製作所は、3次元測定器を導入していますので、立体形状の製品でもすぐにデータ化し、短納期でお渡しすることが可能です",
+    "url": "https://sakuma-seisakujo.com/service-indivisual/",
+    "pass": 3
+   },
+   {
+    "quote": "製作する製品の形状を図面に起こし、詳細をデータ化していきます",
+    "url": "https://sakuma-seisakujo.com/service-indivisual/",
+    "pass": 3
+   },
+   {
+    "quote": "データを基に各マシンを使用して、製品を形作っていきます",
+    "url": "https://sakuma-seisakujo.com/service-indivisual/",
+    "pass": 3
+   },
+   {
+    "quote": "出来上がった製品を検品し、状態を整えてお客様に納品致します",
+    "url": "https://sakuma-seisakujo.com/service-indivisual/",
+    "pass": 3
+   },
+   {
+    "quote": "設計図のない部品や製品を図面として落とし込むのにも時間をかけずに対応できます",
+    "url": "https://sakuma-seisakujo.com/about/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "NC自動旋盤加工なら佐久間製作所へ！精密小物の自動旋盤加工の佐久間... — 薄肉加工と精密加工 複合旋盤を用いた切削加工により、精密部品の製造を行っています。 中でもΦ20以内、肉厚が0.3mm程度の薄肉仕上げを得意としており、小ロットでの製造でお受けしております。",
+    "url": "http://www.sakuma-ss.com/",
+    "pass": 3
+   },
+   {
+    "quote": "個人の方へ｜3次元測定器で即データ化。東京都墨田区の金属加工、樹脂... — 短納期対応 自分で製作した物を量産したい。 そういった場合には、まず製品の形状をデータに落とし込むことが必要です。 佐久間製作所は、3次元測定器を導入していますので、立体形状の製品でもすぐにデータ化し、短納期でお渡しすることが可能です ...",
+    "url": "https://sakuma-seisakujo.com/service-indivisual/",
+    "pass": 3
+   },
+   {
+    "quote": "佐久間製作所について｜3次元測定器で即データ化。東京都墨田区の金属... — 佐久間製作所は 「3次元測定器によるデータ化」「半世紀磨き続けてきた技術に裏打ちされた実績と信頼」 「少ロットからでも対応できる商品開発サポート」 という3つの強み・特徴を持っています。",
+    "url": "https://sakuma-seisakujo.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜3次元測定器で即データ化。東京都墨田区の金属加工、樹脂加... — 会社名 有限会社 佐久間製作所 設立年月日 1965年9月20日 代表者名 佐久間 浩一 所在地 131-0046 東京都墨田区京島1丁目21-1 電話番号 03-3617-6223 FAX 03-3617-6224",
+    "url": "https://sakuma-seisakujo.com/about/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内｜薄肉加工・精密加工の佐久間製作所佐久間製作所 - 会社概要株式会社佐久間製作所の会社概要とプレスリリース企業概要 | 株式会社 佐久間株式会社佐久間製作所（東京都）の会社概要・役員 | Compalyze — 弊社は、過去に蓄積して来た技術と経験を基として未来に向け会社作りに向かってまいります。 これからもお客様の幅広いニーズに応えるべく生産技術向上を目指してまいります。 企業プロフィール 企業名 佐久間製作所 企業名かな さくませいさくしょ 住所 〒198-0104 東京都西多摩郡奥多摩町丹三郎159−2 ホームページ 佐久間製作所のホームページ 法人概要 株式会社佐久間製作所（サクマセイサクジョ）は、2015年設立の東京都大田区西蒲田3丁目11番2号に所在する法人です（法人番号: 1010801019245）。 最終登記更新は2019/06/03で、新規を実施しました。 掲載",
+    "url": "http://www.sakuma-ss.com/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "佐久間製作所 - 会社概要 — 企業プロフィール 企業名 佐久間製作所 企業名かな さくませいさくしょ 住所 〒198-0104 東京都西多摩郡奥多摩町丹三郎159−2 ホームページ 佐久間製作所のホームページ",
+    "url": "https://www.atengineer.com/pr/sakumass/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社佐久間製作所の会社概要とプレスリリース — 法人概要 株式会社佐久間製作所（サクマセイサクジョ）は、2015年設立の東京都大田区西蒲田3丁目11番2号に所在する法人です（法人番号: 1010801019245）。 最終登記更新は2019/06/03で、新規を実施しました。 掲載中の法令違反/処分/ブラック情報はありません。",
+    "url": "https://companydata.tsujigawa.com/company2/1010801019245/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜薄肉加工・精密加工の佐久間製作所 — お問い合わせ｜薄肉加工・精密加工の佐久間製作所 個人情報保護方針 本入力フォームおよびメールでご連絡頂きました、お客様の個人情報につきましては、厳重に管理を行っております。",
+    "url": "https://www.sakuma-ss.com/contact.html",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "https://www.yamashin-ss.com/",
+    "url": "https://sakuma-seisakujo.com/about/company/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お問い合わせ｜３次元測定器で即データ化",
+    "url": "https://sakuma-seisakujo.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は，ユーザーが利用登録をする際に氏名，生年月日，住所，電話番号，メールアドレス，銀行口座番号，クレジットカード番号，運転免許証番号などの個人情報をお尋ねすることがあります",
+    "url": "https://sakuma-seisakujo.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーにお知らせや連絡をするためにメールアドレスを利用する場合やユーザーに商品を送付したり必要に応じて連絡したりするため，氏名や住所などの連絡先情報を利用する目的",
+    "url": "https://sakuma-seisakujo.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーからのお問い合わせに対応するために，お問い合わせ内容や代金の請求に関する情報など当社がユーザーに対してサービスを提供するにあたって必要となる情報や，ユーザーのサービス利用状況，連絡先情報などを利用する目的",
+    "url": "https://sakuma-seisakujo.com/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "㈱佐久間製作所 ㈱佐久間製作所",
+    "url": "https://www.facebook.com/佐久間製作所-1119716181483964/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社佐久間製作所 | Okutama-machi Nishitama-gun Tokyo Mar 26, 2012 · Posts 有限会社佐久間製作所 Mar 26, 2012 HP公開しました！ 今後ともよろしくお願いいたします ！！ Shinji Yamamoto and Okato Fukuda 2 有限会社佐久間製作所 Mar 1, 2012 Shinji Yamamoto and Okato Fukuda 2",
+    "url": "https://www.facebook.com/pages/有限会社佐久間製作所/294220797312070/",
+    "pass": 3
+   },
+   {
+    "quote": "佐久間製作所 佐久間製作所 . Company",
+    "url": "https://www.facebook.com/people/佐久間製作所-/100093984313294/",
+    "pass": 3
+   },
+   {
+    "quote": "佐久間製作所 佐久間製作所 ... 佐久間製作所",
+    "url": "https://www.facebook.com/pages/佐久間製作所/372473789446210/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.sakuma-ss.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sakuma-ss.com/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sakuma-ss.com/products.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sakuma-ss.com/equipment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.sakuma-ss.com/access.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "http://www.sakuma-ss.com/img/btproducts.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.sakuma-ss.com/img/productstitlte.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.sakuma-ss.com/img/sproducts01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.sakuma-ss.com/img/sproducts02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.sakuma-ss.com/img/sproducts03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.sakuma-ss.com/img/sproducts04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.sakuma-ss.com/img/sproducts05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.sakuma-ss.com/img/sproducts06.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.sakuma-ss.com/img/sproducts07.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.sakuma-ss.com/img/sproducts08.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.sakuma-ss.com/img/sproducts09.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.sakuma-ss.com/img/sproducts10.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sakuma-seisakujo.com/service-indivisual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sakuma-seisakujo.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sakuma-seisakujo.com/about/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sakuma-seisakujo.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakuma-ss.co.jp/contact-search/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/佐久間製作所-1119716181483964/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/有限会社佐久間製作所/294220797312070/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/佐久間製作所-/100093984313294/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/佐久間製作所/372473789446210/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "佐久間製作所 取扱製品 試作 小ロット",
+   "results": [
+    "http://www.sakuma-ss.com/",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://sakuma-seisakujo.com/service-indivisual/",
+    "https://satoss.co.jp/capabilities/lot-production/",
+    "https://www.sakuma-ss.com/smalllot.html",
+    "https://sakuma-seisakujo.com/",
+    "https://ja.nc-net.or.jp/company/72063/product/detail/29968/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "佐久間製作所 会社概要 事業内容",
+   "results": [
+    "https://sakuma-seisakujo.com/about/",
+    "https://sakuma-seisakujo.com/about/company/",
+    "http://www.sakuma-ss.com/company.html",
+    "https://www.atengineer.com/pr/sakumass/company",
+    "https://companydata.tsujigawa.com/company2/1010801019245/",
+    "https://compalyze.co.jp/company/2010801004493",
+    "http://www.e-sakuma.jp/kigyougaiyou.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "佐久間製作所 お問い合わせ メール",
+   "results": [
+    "https://www.sakuma-ss.com/contact.html",
+    "https://sakuma-seisakujo.com/contact/",
+    "https://www.sakuma-ss.co.jp/contact-search/",
+    "http://www.e-sakuma.jp/otoiawase.html",
+    "https://www.sakumatechnica.com/contact/index.html",
+    "https://www.sakuma-denko.com/contact/index.html",
+    "https://ja.nc-net.or.jp/company/72063/inquiry/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 佐久間製作所",
+   "results": [
+    "https://note.com/takashi_sakuma",
+    "https://note.com/takashi_sakuma/all",
+    "https://note.com/taira0131/n/ncc700eac716a",
+    "https://note.com/19250807/n/n45e723e237cc",
+    "https://note.com/idol_man_center/n/n3645c38bbaab",
+    "https://tales.note.com/",
+    "https://note.com/naofumit/n/n7976e5c95368"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 佐久間製作所",
+   "results": [
+    "https://x.com/sakumaseimitsu",
+    "https://x.com/sa39kuma",
+    "https://x.com/SAK_SAK_SAKUMA",
+    "https://x.com/sakuma_group",
+    "https://x.com/sasakumako",
+    "https://x.com/keisankionwykip",
+    "https://x.com/sakuas/status/2083043383740915873"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 佐久間製作所",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 佐久間製作所",
+   "results": [
+    "https://www.facebook.com/佐久間製作所-1119716181483964/",
+    "https://www.facebook.com/pages/有限会社佐久間製作所/294220797312070/",
+    "https://www.facebook.com/people/佐久間製作所-/100093984313294/",
+    "https://www.facebook.com/pages/佐久間製作所/372473789446210/",
+    "https://www.facebook.com/有佐久間製作所-142417869217648/",
+    "https://www.facebook.com/people/有限会社佐久間製作所/100067676627627/",
+    "https://www.facebook.com/p/RUSH-RC-Tire-100054517297173/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "佐久間製作所 note 社長",
+   "results": [
+    "http://www.sakuma-ss.com/company.html",
+    "https://compalyze.co.jp/company/2010801004493",
+    "https://www.skm-ss.com/",
+    "https://note.com/saku_masa/all",
+    "https://www.kaijipress.com/person/logbook/2026/07/202799/",
+    "https://www.nikkei.com/article/DGXZQODZ00002_X21C25A1000000/",
+    "https://www.nikkan.co.jp/articles/view/784857"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "佐久間製作所 X 投稿",
+   "results": [
+    "https://x.com/SAK_SAK_SAKUMA",
+    "https://x.com/i/trending/2105689002976374900",
+    "https://search.yahoo.co.jp/realtime/search/佐久間/",
+    "https://realsound.jp/2024/02/post-1560395.html",
+    "https://www.instagram.com/p/DfTDL22yZDU/",
+    "https://www.sponichi.co.jp/entertainment/news/2024/03/25/kiji/20240325s00041000473000c.html",
+    "https://www.joqr.co.jp/ic/article/121977/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式5頁／PDF・画像12件／外部10頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像12件／外部10頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式5頁／PDF・画像12件／外部10頁・検索9回）"
+ }
+}

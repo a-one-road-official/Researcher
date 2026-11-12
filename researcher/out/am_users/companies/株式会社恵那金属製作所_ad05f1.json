@@ -1,0 +1,874 @@
+{
+ "name": "株式会社恵那金属製作所",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-12T00:00:47.794784+00:00",
+ "official_url": "https://enakin.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒508-0023　岐阜県中津川市小川町2番18号",
+    "url": "https://enakin.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒508-0111　岐阜県中津川市瀬戸1389番地",
+    "url": "https://enakin.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒508-0101 岐阜県中津川市苗木4594",
+    "url": "https://enakin.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "中国江蘇省昆山市玉山鎮玉楊路777号　中国節能（昆山）循環産業園1期8号棟、9号棟",
+    "url": "https://enakin.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒508-0023 岐阜県中津川市小川町2番18号",
+    "url": "https://www.atengineer.com/pr/enakin/company",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "岐阜県中津川市小川町2-18",
+    "url": "https://xtox.co.jp/kakouba/company/38780bc9e5/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "市岡 真二",
+    "url": "https://enakin.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "代表取締役社長 吉村裕",
+    "url": "https://www.atengineer.com/pr/enakin/company",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "200名（国内：120名、海外：80名）",
+    "url": "https://enakin.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員",
+    "value": "5名",
+    "url": "https://enakin.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員",
+    "value": "15名",
+    "url": "https://enakin.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員",
+    "value": "100名",
+    "url": "https://enakin.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員",
+    "value": "80名",
+    "url": "https://enakin.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "120 人",
+    "url": "https://xtox.co.jp/kakouba/company/38780bc9e5/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "業務内容",
+    "value": "機械加工 表面処理 不動産賃貸",
+    "url": "https://enakin.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "表面処理",
+    "url": "https://enakin.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "機械加工",
+    "url": "https://enakin.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "品質管理 汎用測定器や３次元測定器を用いた測定業務及び不良発生時の対策等 「変更範囲：本社もしくは本社工場及びテレワークを含む。 また当社の行う業務すべて」",
+    "url": "https://enakin.com/recruit/",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "生産管理 生産管理課に配属され主に以下の業務を行っていただきます。 ・顧客対応 ・入出荷管理 ・生産調整 ・素材調達・管理 ・倉庫管理・事務所業務全般（電話応対、接客対応等） 「変更範囲：本社もしくは本社工場及びテレワークを含む。 また当社の行う業務すべて」",
+    "url": "https://enakin.com/recruit/",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "機械加工エンジニア 機械加工エンジニアとして工作機械又は産業用ロボットを用いた製品の製造に携わっていただきます。 ※将来的に製造現場のリーダーを目指して頂きます。 「変更範囲※適性を見て加工プログラム作成や加工治具製作、現場管理を行う　可能性があります。 本社もしくは本社工場及びテレワークを含む。また当社の行う業務すべて」",
+    "url": "https://enakin.com/recruit/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "工場面積",
+    "value": "4,000㎡",
+    "url": "https://enakin.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "工場面積",
+    "value": "13,000㎡",
+    "url": "https://enakin.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "工場面積",
+    "value": "6,849㎡",
+    "url": "https://enakin.com/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "「挑戦する心」と「確かな品質」を大切に、信頼されるパートナーとして、価値ある製品とサービスをお届けし続けます",
+    "url": "https://enakin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、難削材や複雑形状の製品を得意としており、1997年に難削材の加工を開始して以来、長年の経験と実績を基に、現在では世界トップクラスの技術力を誇っています",
+    "url": "https://enakin.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "また、工程設計や治工具の設計・製作を担う専門技術チームを社内に擁し、新規製品の生産準備や改善活動を迅速に進める体制を整えています",
+    "url": "https://enakin.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "表面処理部門では、楽器や家電製品の装飾を目的とした表面処理や、精密計測器の性能向上を目的とした表面処理を得意としています",
+    "url": "https://enakin.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "これらの部品は製品品質に直結するため、非常に厳しい要求基準が課され、わずかな傷や曇り、ばらつきも許されません",
+    "url": "https://enakin.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "高恵金属製品（深圳）有限公司、中津川香港有限公司を清算",
+    "url": "https://enakin.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "また、社内で治工具の設計・製作を一貫して行うことで、新規製品の立ち上げを迅速に実現",
+    "url": "https://enakin.com/business/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "機械加工部門では、自動車のターボチャージャーに使用されるタービンハウジングの加工を手掛けており、難削材や複雑形状の製品の量産加工を得意としています",
+    "url": "https://enakin.com/business/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "ミクロン単位の精度が求められる製品を全員で協力してつくり上げるため、指導を通じて現場を円滑に稼働させるのが私の役割です",
+    "url": "https://enakin.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "現場作業者や加工プログラムと日々向き合い、製品が図面通りに仕上がったときの達成感は格別です",
+    "url": "https://enakin.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の仕上げや、より良い作業方法の検討に取り組みます",
+    "url": "https://enakin.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "私は品質管理課で製品の寸法測定を担当しています",
+    "url": "https://enakin.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "三次元測定機やノギス、マイクロメーターといった測定機器を使い、製品が図面通りに正確に加工されているかを一つひとつ丁寧に確認しています",
+    "url": "https://enakin.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の寸法測定には正確性が求められますがチームで情報を共有し、ミスを防ぐ体制がしっかり構築されているので安心です",
+    "url": "https://enakin.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "品質管理の仕事は一見地味に見えるかもしれませんが、製品の信頼性を守る重要な役割を担っています",
+    "url": "https://enakin.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の検査を通して「この製品は安心して出荷できる」と判断することは、大きな責任と同時に達成感も得られます",
+    "url": "https://enakin.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品を検査できるように必要な製品をそろえます",
+    "url": "https://enakin.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "翌日出荷する製品を確認し、準備を進めます",
+    "url": "https://enakin.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "機械加工エンジニアとして工作機械又は産業用ロボットを用いた製品の製造に携わっていただきます",
+    "url": "https://enakin.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "線材（ワイヤー）製品は、金型製作から、切断、溶接、",
+    "url": "https://mono.ipros.com/product/detail/2000637713/",
+    "pass": 3
+   },
+   {
+    "quote": "ワイヤー製品については、製品図面さえあれば、金型、溶接治具の製作から、切断、溶接、めっきまでワンストップで対応することができます",
+    "url": "https://mono.ipros.com/product/detail/2000637713/",
+    "pass": 3
+   },
+   {
+    "quote": "この設備の特徴として、複雑形状の製品への対応、お客様のニーズに合わた膜厚のコントロールなどがあります",
+    "url": "https://mono.ipros.com/product/detail/2000637713/",
+    "pass": 3
+   },
+   {
+    "quote": "測定器から楽器の部品まで幅広い分野の製品に対応しています",
+    "url": "https://mono.ipros.com/product/detail/2000637713/",
+    "pass": 3
+   },
+   {
+    "quote": "測定器部品など高度な膜厚管理が要求される製品については、蛍光Ｘ線膜厚測定器によって膜厚測定を行い、測定結果を表面処理の条件設定や液管理にフィードバックし、膜厚をコントロールし、品質確保を行っています",
+    "url": "https://mono.ipros.com/product/detail/2000637713/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス一覧 (3)",
+    "url": "https://mono.ipros.com/product/detail/2000637713/",
+    "pass": 3
+   },
+   {
+    "quote": "恵那金属製作所の製品・サービス一覧｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2004296/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(3)",
+    "url": "https://mono.ipros.com/company/detail/2004296/category/",
+    "pass": 3
+   },
+   {
+    "quote": "線材（ワイヤー）製品は、金型製作から、切断、溶接、",
+    "url": "https://mono.ipros.com/company/detail/2004296/category/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "機械加工部門では、主に自動車用ターボチャージャーに使用されるタービンハウジングの加工を手がけています",
+    "url": "https://enakin.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "機械加工部門では、自動車のターボチャージャーに使用されるタービンハウジングの加工を手掛けており、難削材や複雑形状の製品の量産加工を得意としています",
+    "url": "https://enakin.com/business/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では長年にわたり、自動車業界の厳しい品質マネジメント要求に応え、高品質かつ低コストなモノづくりを実現してきました",
+    "url": "https://enakin.com/business/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "その証として、一般的な品質管理規格「ISO 9001」よりも厳しい要求を持つ、自動車業界特化の品質マネジメントシステム「IATF 16949」を取得しています",
+    "url": "https://enakin.com/business/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "IATF 16949は、自動車業界に特化した品質マネジメントシステムの国際規格であり、世界中の自動車メーカーやサプライヤーが信頼する品質保証の基準です",
+    "url": "https://enakin.com/business/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "これは、ISO9001をベースに、自動車業界ならではの厳しい要求が追加された規格で、高品質なモノづくりを支えるために不可欠な存在です",
+    "url": "https://enakin.com/business/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "機械加工エンジニアとして工作機械又は産業用ロボットを用いた製品の製造に携わっていただきます",
+    "url": "https://enakin.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "「変更範囲※適性を見て加工プログラム作成や加工治具製作、現場管理を行う 可能性があります",
+    "url": "https://enakin.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "線材（ワイヤー）製品は、金型製作から、切断、溶接、",
+    "url": "https://mono.ipros.com/product/detail/2000637713/",
+    "pass": 3
+   },
+   {
+    "quote": "ワイヤー製品については、製品図面さえあれば、金型、溶接治具の製作から、切断、溶接、めっきまでワンストップで対応することができます",
+    "url": "https://mono.ipros.com/product/detail/2000637713/",
+    "pass": 3
+   },
+   {
+    "quote": "暖房器部品、測定器部品、楽器部品、自動車部品、工作機械部品、産業機器部品など対応",
+    "url": "https://mono.ipros.com/product/detail/2000637713/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界に特化した品質マネジメントシステムの国際規格「IATF16949」を認証取得",
+    "url": "https://mono.ipros.com/product/detail/2000637713/",
+    "pass": 3
+   },
+   {
+    "quote": "日本と中国の厳しい競争環境下で自動車部品製造を行っています",
+    "url": "https://mono.ipros.com/product/detail/2000637713/",
+    "pass": 3
+   },
+   {
+    "quote": "線材（ワイヤー）製品は、金型製作から、切断、溶接、",
+    "url": "https://mono.ipros.com/company/detail/2004296/category/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車・航空機・釣り具・測定器など豊富な業界対応",
+    "url": "https://mono.ipros.com/company/detail/2004296/category/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車、工作機械、産業機械など幅広い業界に対応",
+    "url": "https://mono.ipros.com/company/detail/2004296/category/",
+    "pass": 3
+   },
+   {
+    "quote": "岐阜県中津川市に本社を置く、鋳造、切削加工、治具・工具製作の会社です",
+    "url": "https://xtox.co.jp/kakouba/company/38780bc9e5/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "材質は、FC、FCD、FCVのほか、二レジスト、ステンレス鋳鋼、ロストワックス鋳造品にも対応しており、調達品は江蘇省にある子会社の「恵那金属(昆山)有限公司」で徹底した検査・品質管理を行い輸出するため、日本と同等の品質を保証しています",
+    "url": "https://enakin.com/business/machining/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "短納期が求められる試作段階では、5軸加工機や複合加工機を活用し、量産段階での対応にはセル生産方式に切り替えることで、柔軟かつ最適な生産体制を構築しています",
+    "url": "https://enakin.com/business/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "生産数が少なく短納期の試作には、5軸加工機や複合加工機を活用した工程集約型の生産を行い、生産数の多い量産には、NC旋盤やマシニングセンタ、NC円テーブルを組み合わせた工程分散型のセル生産を採用しています",
+    "url": "https://enakin.com/business/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "機械加工部門では、中国内15社以上の鋳物会社および加工会社と、小ロットから大量生産品まで幅広く調達可能なサプライチェーンを構築しています",
+    "url": "https://enakin.com/business/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "装飾目的から機能目的まで多品種小ロットに対応",
+    "url": "https://mono.ipros.com/product/detail/2000637713/",
+    "pass": 3
+   },
+   {
+    "quote": "めっきまでのワンストップ対応、多品種小ロット対応",
+    "url": "https://mono.ipros.com/product/detail/2000637713/",
+    "pass": 3
+   },
+   {
+    "quote": "当社には「手動めっきライン」という、多品種小ロット対応を目的とした表面処理設備を保有しています",
+    "url": "https://mono.ipros.com/product/detail/2000637713/",
+    "pass": 3
+   },
+   {
+    "quote": "■困った時の駆け込み寺、量産・試作共にスピーディな生産対応",
+    "url": "https://mono.ipros.com/product/detail/2000637713/",
+    "pass": 3
+   },
+   {
+    "quote": "また、試作と量産、異なるコンセプトの生産設備により、1個の試作から月産数万個の量産まで、お客様の多彩なニーズに対応することが可能です",
+    "url": "https://mono.ipros.com/product/detail/2000637713/",
+    "pass": 3
+   },
+   {
+    "quote": "工法転換｜溶接・組立品をアルミ鋳物で一体化 1個から試作",
+    "url": "https://mono.ipros.com/product/detail/2000637713/",
+    "pass": 3
+   },
+   {
+    "quote": "装飾目的から機能目的まで多品種小ロットに対応",
+    "url": "https://mono.ipros.com/company/detail/2004296/category/",
+    "pass": 3
+   },
+   {
+    "quote": "めっきまでのワンストップ対応、多品種小ロット対応",
+    "url": "https://mono.ipros.com/company/detail/2004296/category/",
+    "pass": 3
+   },
+   {
+    "quote": "試作、量産に対応しています",
+    "url": "https://xtox.co.jp/kakouba/company/38780bc9e5/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "夜勤担当からの情報を受け取り、メールを確認します",
+    "url": "https://enakin.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "前日に届いたメールの内容を確認して返信を行います",
+    "url": "https://enakin.com/recruit/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "金属部品の表面処理 恵那金属製作所 | イプロスものづくり — 創業1946年「積み重ねてきた経験と技術」 困った時の駆け込み寺、量産・試作共にスピーディな生産対応 工程設計、治工具の設計･製作が行える技術チームを有しているため、新規品の生産準備をスピーディに行う事が可能です。また、試作と量産、異なるコンセプトの生産設備により、1個の ...",
+    "url": "https://mono.ipros.com/product/detail/2000637713/",
+    "pass": 3
+   },
+   {
+    "quote": "恵那金属製作所の製品・サービス一覧｜イプロスものづくり — Jan 17, 2022 · 創業1946年「積み重ねてきた経験と技術」 困った時の駆け込み寺、量産・試作共にスピーディな生産対応 工程設計、治工具の設計･製作が行える技術チームを有しているため、新規品の生産準備をスピーディに行う事が可能です。",
+    "url": "https://mono.ipros.com/company/detail/2004296/category/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社恵那金属製作所 - 会社概要 — 企業プロフィール 企業名 株式会社恵那金属製作所 企業名かな えなきんぞくせいさくしょ 住所 〒508-0023 岐阜県中津川市小川町2番18号 代表者名 代表取締役社長 吉村裕 ホームページ 株式会社恵那金属製作所のホームページ",
+    "url": "https://www.atengineer.com/pr/enakin/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社恵那金属製作所｜岐阜県中津川市の切削会社｜カコウバ — 株式会社恵那金属製作所の概要 岐阜県中津川市に本社を置く、鋳造、切削加工、治具・工具製作の会社です。 扱う材料は難削材、鋳鉄、ステンレス、アルミです。 試作、量産に対応しています。 1946年の設立で、従業員は120人です。",
+    "url": "https://xtox.co.jp/kakouba/company/38780bc9e5/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 恵那金属製作所 岐阜県 中津川市 — Jun 21, 2023 · PRコメント 鋳鋼、鋳鉄、チタン、アルミダイカスト等を素材とする自動車・電機等の各種部品の切削加工を行っています。主要製品の車両用ターボチャージャー部品のタービンハウジングについては、難易度の高い材質および形状の量産技術を確立し、業界ではトップレベルの加工技術を保有し ...",
+    "url": "https://ja.nc-net.or.jp/company/21090/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社恵那金属製作所の会社概要・製品情報 | Metoree — お客様からメーカーに対して問い合わせ・見積もりを行うと、内容がメーカーに通知されます。 メーカーの対応が遅い場合、メトリーがお客様に代わって催促のメール・電話を実施します。",
+    "url": "https://metoree.com/companies/66215/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "イベントレポートvol.1 ITベンチャーから老舗製造業へ！（18年11月全... Nov 20, 2018 · 現在は恵那金属製作所の代表取締役を務められていますが、大学卒業後はベンチャーと大企業に勤められたのち、ご自身で起業されてリーマンショックの不況の中も乗り切る等の苦難も乗り越えてきたとのことです。",
+    "url": "https://note.com/globis_henkaku/n/n7707b3e62784",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "イベントレポートvol.1 ITベンチャーから老舗製造業へ！（18年11月全体会）｜グロービス変革クラブ",
+    "url": "https://note.com/globis_henkaku/n/n7707b3e62784",
+    "pass": 3
+   },
+   {
+    "quote": "イベントレポートvol.1 ITベンチャーから老舗製造業へ！（18年11月全体会）",
+    "url": "https://note.com/globis_henkaku/n/n7707b3e62784",
+    "pass": 3
+   },
+   {
+    "quote": "11月16日(金)グロービス東京校にて、恵那金属製作所代表取締役社長の松岡達也さんにお越しいただき、変革クラブ11月全体会を開催いたしました。",
+    "url": "https://note.com/globis_henkaku/n/n7707b3e62784",
+    "pass": 3
+   },
+   {
+    "quote": "松岡さんは、グロービス経営大学院の卒業生でもあり、2018年度アルムナイアワード変革部門にて受賞されています。現在は恵那金属製作所の代表取締役を務められていますが、大学卒業後はベンチャーと大企業に勤められたのち、ご自身で起業されてリーマンショックの不況の中も乗り切る等の苦難も乗り越えてきたとのことです。",
+    "url": "https://note.com/globis_henkaku/n/n7707b3e62784",
+    "pass": 3
+   },
+   {
+    "quote": "今回は「全く異なる環境で経営者として数々の困難をどのように乗り越えてきたのか？」というテーマでお話いただきました。起業するまでの経緯や、なぜ起業したにも関わらず製造業経営者に転身したのか？ということについて、幼少期の頃からも含めて松岡さんの「価値観」を伺い、とても優しいお人柄と強い芯が両立されていることに「なるほど」と思いました。",
+    "url": "https://note.com/globis_henkaku/n/n7707b3e62784",
+    "pass": 3
+   },
+   {
+    "quote": "そして、今回のメインテーマでもある「変革が成功したポイント」。",
+    "url": "https://note.com/globis_henkaku/n/n7707b3e62784",
+    "pass": 3
+   },
+   {
+    "quote": "全てが学びになっているので選び難いですが・・・私が特に大切にしたい３つのポイントを紹介します。",
+    "url": "https://note.com/globis_henkaku/n/n7707b3e62784",
+    "pass": 3
+   },
+   {
+    "quote": "経営者として人に動いてもらうためには、正しく・論理的であればいいというわけではありません。相手は「人」であるので、納得して動いてもらうためには思いやりがあってこそ。",
+    "url": "https://note.com/globis_henkaku/n/n7707b3e62784",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "（株）恵那金属製作所 | LinkedIn （株）恵那金属製作所 | LinkedInのフォロワー数5人。",
+    "url": "https://jp.linkedin.com/company/（株）恵那金属製作所",
+    "pass": 3
+   },
+   {
+    "quote": "Mechanical Engineer at （株）恵那金属製作所 - LinkedIn Mechanical Engineer at （株）恵那金属製作所 · 職歴: （株）恵那金属製作所 · 場所: 中津川市。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでPandi Uwietoさんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/pandi-uwieto-b67252231",
+    "pass": 3
+   },
+   {
+    "quote": "Alfian Kamil - -- | LinkedIn -- · 職歴: （株）恵那金属製作所 · 場所: 中津川市。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでAlfian Kamilさんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/alfian-kamil-7852b0220",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "恵那金属製作所 恵那金属製作所",
+    "url": "https://www.facebook.com/恵那金属製作所-219312991472719/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社恵那金属製作所 株式会社恵那金属製作所",
+    "url": "https://www.facebook.com/株式会社恵那金属製作所-775982985790129/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社恵那金属製作所 | Facebook Facebook is showing information to help you better understand the purpose of a Page. See actions taken by the people who manage and post content.",
+    "url": "https://www.facebook.com/株式会社恵那金属製作所-2416640211897550/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://enakin.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enakin.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enakin.com/business/machining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enakin.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enakin.com/business/machining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enakin.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enakin.com/business/machining/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://enakin.com/wp-content/uploads/2025/09/interview001-other001.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://enakin.com/wp-content/uploads/2025/09/interview002-other001.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://enakin.com/wp-content/uploads/2025/09/interview002-other002.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.h-k-k.co.jp/small_lot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/product/detail/2000637713/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2004296/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/enakin/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtox.co.jp/kakouba/company/38780bc9e5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/8010001191482",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kawachikinzoku.co.jp/contact/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "http://www.t-u-metal.co.jp/dainaka/inquiry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/globis_henkaku/n/n7707b3e62784",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/（株）恵那金属製作所",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/pandi-uwieto-b67252231",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/alfian-kamil-7852b0220",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/恵那金属製作所-219312991472719/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/株式会社恵那金属製作所-775982985790129/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/株式会社恵那金属製作所-2416640211897550/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/globis_henkaku/n/n7707b3e62784",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "恵那金属製作所 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.h-k-k.co.jp/small_lot/",
+    "https://mono.ipros.com/product/detail/2000637713/",
+    "https://mono.ipros.com/company/detail/2004296/category/",
+    "https://kouno-ss.com/small-lot/",
+    "https://enakin.com/",
+    "https://enakin.com/contact/",
+    "https://www.h-k-k.co.jp/prototype/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "恵那金属製作所 会社概要 事業内容",
+   "results": [
+    "https://www.atengineer.com/pr/enakin/company",
+    "https://xtox.co.jp/kakouba/company/38780bc9e5/",
+    "https://compalyze.co.jp/company/8010001191482",
+    "https://ja.nc-net.or.jp/company/21090/",
+    "https://metoree.com/companies/66215/",
+    "https://enakin.com/company/",
+    "https://enakin.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "恵那金属製作所 お問い合わせ メール",
+   "results": [
+    "https://enakin.com/contact/",
+    "https://www.kawachikinzoku.co.jp/contact/",
+    "http://www.t-u-metal.co.jp/dainaka/inquiry.html",
+    "https://umc.uacj-group.com/inquiry/",
+    "https://tanakakinzoku.jp/contact/",
+    "https://www.enomoto-k.com/contact/",
+    "https://enakin.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 恵那金属製作所",
+   "results": [
+    "https://note.com/ishigurokinzoku",
+    "https://note.com/ishigurokinzoku/all",
+    "https://note.com/ishigurokinzoku/m/m2aec457e8f96",
+    "https://note.com/globis_henkaku/n/n7707b3e62784",
+    "https://note.com/ukumori_hiroo/n/ne24d79a5a7f3",
+    "https://note.com/ikigai_design/n/ne1896044a594",
+    "https://note.com/kemono_hunters/n/n10311d70217b"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 恵那金属製作所",
+   "results": [
+    "https://x.com/Qho_MetalWorks",
+    "https://x.com/enajill",
+    "https://x.com/TKS_Corporate",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/tanakakinzoku_s",
+    "https://x.com/hashtag/株式会社NITTAN恵那金属",
+    "https://x.com/NITTAN_PR/status/2092526486121218411"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 恵那金属製作所",
+   "results": [
+    "https://jp.linkedin.com/company/（株）恵那金属製作所",
+    "https://jp.linkedin.com/in/pandi-uwieto-b67252231",
+    "https://jp.linkedin.com/in/alfian-kamil-7852b0220",
+    "https://www.linkedin.com/jobs/eigyo-製作所-jobs",
+    "https://www.linkedin.com/jobs/有限会社阿部製作所-jobs",
+    "https://jp.linkedin.com/in/pandi-uwieto-s-t-2aa86b137",
+    "https://jp.linkedin.com/in/apitcs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 恵那金属製作所",
+   "results": [
+    "https://www.facebook.com/恵那金属製作所-219312991472719/",
+    "https://www.facebook.com/株式会社恵那金属製作所-775982985790129/",
+    "https://www.facebook.com/株式会社恵那金属製作所-2416640211897550/",
+    "https://www.facebook.com/恵那金属-467504366653295/",
+    "https://www.facebook.com/hayashikinzoku/",
+    "https://www.facebook.com/swelltone.foodbowl/posts/136018788943400/",
+    "https://www.facebook.com/yanagimetal.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "恵那金属製作所 note 社長",
+   "results": [
+    "https://globis.jp/article/6654/",
+    "https://note.com/globis_henkaku/n/n7707b3e62784",
+    "https://enakin.com/news_post/",
+    "https://globis.jp/person_articles/1385/",
+    "https://gifukeikyo.org/upfiles/humanandmanage/1518496401F.pdf",
+    "https://enakin.com/",
+    "https://mba.globis.ac.jp/student/detail-14726.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "恵那金属製作所 X 投稿",
+   "results": [
+    "https://www.instagram.com/enakinzoku/",
+    "https://www.instagram.com/swelltone.foodbowl/",
+    "https://mono.ipros.com/product/detail/2000637713/",
+    "https://jinsapo.jinzai-gifu.jp/gaikokujinzai/interview_read/株式会社恵那金属製作所/",
+    "https://enakin.com/",
+    "https://enakin.com/company/",
+    "https://x.com/fujitaenamel/status/2120459436871598421"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像3件／外部16頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式7頁／PDF・画像3件／外部16頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式7頁／PDF・画像3件／外部16頁・検索9回）"
+ }
+}

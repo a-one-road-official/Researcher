@@ -1,0 +1,727 @@
+{
+ "name": "株式会社シモノ",
+ "aliases": [],
+ "context": "ipros_all:小ロット",
+ "researched_at": "2026-11-11T23:54:07.366770+00:00",
+ "official_url": "https://e-shimono.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "玉山　久高",
+    "url": "https://e-shimono.jp/company/information/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒929-0114　石川県能美市浜開発町丙53-1",
+    "url": "https://e-shimono.jp/company/information/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "各種装置アルミ部品製造",
+    "url": "https://e-shimono.jp/company/information/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "45名（男子24名・女子23名　令和5年2月現在）",
+    "url": "https://e-shimono.jp/company/information/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "一点物・少量多品種": [
+   {
+    "quote": "業界の常識を超える短納期対応を実現し、高品位なアルミ切削加工で試作開発用一品物から",
+    "url": "https://e-shimono.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "少量ロット品まで貴社サプライチェーンを支えます",
+    "url": "https://e-shimono.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、上⾯加⼯が多いベースプレートや多品種少量の⽣産に向いています",
+    "url": "https://e-shimono.jp/facilities/",
+    "pass": 1
+   },
+   {
+    "quote": "業界の常識を超えた短納期、１個からの小ロット製造に対応",
+    "url": "https://e-shimono.jp/company/information/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "数分経ってもサーバーより自動返信が無い場合、入力されたメールアドレスに間違いがございます",
+    "url": "https://e-shimono.jp/form/",
+    "pass": 1
+   },
+   {
+    "quote": "図面はPDFでメール添付いただけますと助かります",
+    "url": "https://e-shimono.jp/form/",
+    "pass": 1
+   },
+   {
+    "quote": "巡礼者界隈では一番人気で宿泊困難と言われるこの修道院は事前にしていたメールにおいては満員で断られていたのだが、当日ダメ元で行ったらスムーズに入ることができた",
+    "url": "https://note.com/frontier_travel/n/n907a601a9a81",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "⾷品機械メーカー、医療機器メーカー、国立大学研究室、鋼材・工具・加工製品専門商社、等多数",
+    "url": "https://e-shimono.jp/company/partner/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "FA・ロボットSIer、産業機械メーカー、半導体関連装置メーカー、電⼦部品関連装置メーカー、包装機械メーカー、",
+    "url": "https://e-shimono.jp/company/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "⾷品機械メーカー、医療機器メーカー、国立大学研究室、鋼材・工具・加工製品専門商社、等多数",
+    "url": "https://e-shimono.jp/company/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "アトスを訪れた事で次の目的が明確に定まったので、早速今晩の航空券を購入",
+    "url": "https://note.com/frontier_travel/n/n907a601a9a81",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社シモノ | アルミ加工・アルミ部品を高品位・短納期でお届けい... — シモノでは最新設備への積極的な更新により短納期と高品質への対応を強化しています。 また、1個からのご注文のお客様にも対応できる豊富な加工設備で貴社の加工部品調達の不安を解消いたします。",
+    "url": "https://e-shimono.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "製品案内 | 株式会社シモノ — ねじ加工 ヘリサート穴加工のみ対応 コイル挿入は実施しておりません 表面処理 白アルマイトのみ対応します 他の処理はお客様指定の業者様へ直送可能 ロット 基本1個～10個程度、最大～100個 （ご相談下さい）",
+    "url": "https://e-shimono.jp/products/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社シモノ — 会社概要 TOP 企業情報 会社概要 アルミ加工専門に特化した製造体制で 業界の常識を超えた短納期、1個からの小ロット製造 ...",
+    "url": "https://e-shimono.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 - 株式会社シモノ — ご挨拶 株式会社シモノは昭和39年の設立以来金属加工業を営み、先代の方針によるアルミ部品加工に特化した業態への移り変わりを経て、 アルミ部品の切削加工に関してはどこよりも早く納入できる体制を構築してまいりました。",
+    "url": "https://e-shimono.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社シモノ（大阪府吹田市） 概要 - 企業情報 — Oct 5, 2015 · 概要 株式会社シモノ は大阪府吹田市にある企業です。 法人番号は9120901018681、住所は大阪府吹田市山田東4丁目29番3号です。 この法人は2015年（平成27年）10月5日に法人番号が指定されました。",
+    "url": "https://data-link-plus.com/jp/corporation/9120901018681",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 |働く方々の手と足を守る、安全と信頼のシモンCORPORATE PROFILE2026-2027会社概要｜シマノコーポレートサイト株式会社 シモノ — 東京駅 (八重洲中央口)より徒歩12分 (約0.9km) 羽田空港から八重洲南口のりば [リムジンバス 約25～45分]・徒歩12分 (約0.9km) 茅場町駅 [東京メトロ日比谷線・東西線] (5番出口)より徒歩3分 (約0.2km) 日本橋駅 [東京メトロ銀座線・東西線 / 都営浅草線]より徒歩6分 (約0.5km) 八丁堀駅 [東京メトロ日比谷線 ... CORPORATE PROFILE 2026 -- 2027 インテリア内装材事業 自動車内装材事業 鉄道・バス・船舶・航空機内装材事業 機能性資材事業 全ての事業 URL https://suminoe.co.jp/ 本 社〒542-8504 大阪市中央区南船場三丁目11",
+    "url": "https://www.simon.co.jp/company_info/gaiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 株式会社シモノ — 株式会社シモノへの お見積りやご注文以外のお問い合わせ はこちらのフォームをご使用ください。 必要事項を記入し確認ボタンを押してください。 送信内容がサーバーより自動で返信されます。 内容にお間違いがないかご確認ください。",
+    "url": "https://e-shimono.jp/form/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 紳士服のシモノ - tailor-shimono.com — このフォームの「送信」ボタンを押すことで、入力された個人情報が、お問い合わせ対応および個別のご案内の目的で利用されることに同意します。 なお、この同意は、メール等の連絡によりいつでも撤回することができます。",
+    "url": "https://www.tailor-shimono.com/お問い合わせ/",
+    "pass": 3
+   },
+   {
+    "quote": "コンタクト｜シモノスタジオ — CONTACT お電話の場合は下の電話番号におかけください。 メールの場合はフォームにご入力ください。",
+    "url": "https://shimono-studio.com/contact.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "アトス自治修道士共和国巡礼記｜辺境ツレシモノ〜憑かれしものの残響録〜 | TALES 物語・小説【音楽】ユーリ・シモノフの指揮の特徴｜大極貴人（たいきょくきじん...元気がでるユーリ・シモノフ先生① 〜ハチャトゥリアン/仮面舞踏会から...第111章 下関市：シモノセキノカミの願い｜Gold聞かれてもいい独り言301【シモノハナシ】｜今羽隆（いまは たかし） 6月8日午前11時。ギリシャ第二の都市テッサロニキのThe holy mount of Athos のオフィスでアトス山の入山申請を行うために向かった。 そもそもアトスは、ギリシャ以外の外国人は正教徒であっても一日に最大10名の入国許可しかおりない。そして正教徒はこの地の巡礼を夢見て入山申請を事前に済ませている。したがって一般旅行者が思いつきで行けるような場所ではないのだ。(一般旅行者はアトスの地から最大500mまで船で近づけるのみだ",
+    "url": "https://note.com/frontier_travel/n/n907a601a9a81",
+    "pass": 3
+   },
+   {
+    "quote": "【音楽】ユーリ・シモノフの指揮の特徴｜大極貴人（たいきょくきじん... Oct 12, 2025 · 🎼 ユーリ・シモノフの指揮の特徴 ☆劇場的なダイナミズム ボリショイ劇場出身の彼は、オペラ的な演出感覚を持ち、音楽にドラマを宿す指揮をします。 打楽器や金管を大胆に鳴らす、重量感あるサウンド構築が特徴的。",
+    "url": "https://note.com/taikyokukijin/n/nb9cac23cac1c",
+    "pass": 3
+   },
+   {
+    "quote": "元気がでるユーリ・シモノフ先生① 〜ハチャトゥリアン/仮面舞踏会から... Sep 4, 2026 · 何の因果か分かりませんが、アルゴリズムの成せるワザなのが、最近、youtubeに、ユーリ・シモノフ先生ばかりが流れてきます。 一時期、毎日、ユーリ・シモノフ先生の指揮姿を観て、元気をもらっていた時期があるので、そのせいかなあ。",
+    "url": "https://note.com/tetsu19992000/n/n4cc4f330c956",
+    "pass": 3
+   },
+   {
+    "quote": "第111章 下関市：シモノセキノカミの願い｜Gold Jun 13, 2025 · 「……今日は、フグの身がよぉ、少し厚めに切れてんだわ」 陽気で男気あふれるシモノセキノカミは、板前でもなければ漁師でもない。 ただの白い作務衣姿の神様である。 だが、願い事が潮風とともに吹き込んでくれば、手元の包丁を握るフリだけはする。",
+    "url": "https://note.com/goldness/n/n52262dd177cf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "アトス自治修道士共和国(通称アトス山)はギリシャ東北部のエーゲ海沿いに位置する、人口約2,000人のアトス山を囲んだ半島の一地域である。ギリシャ政府から治外法権が認められているギリシャ正教の聖地および他の東方正教の聖地の一つであり、紀元後10-14世紀に20の修道院が建てられ、最長で1000年以上にわたり同じ場所で祈りが捧げられている。",
+    "url": "https://note.com/frontier_travel/n/n907a601a9a81",
+    "pass": 3
+   },
+   {
+    "quote": "これは僕が2019年6月19日から22日にかけてアトス山を訪れた記録であり、写真のパーミッションは異世界かつ現実世界であるアトス山への入山許可証であり、一般の旅行者は日程調整を主理由としたパーミッション取得の困難性からほぼ入らない事、3泊4日と短い期間であるが時を超え新たな問いをもらった貴重な体験をしたため是非このような地があるのを皆さんにも知って欲しい事からnoteに記載することとした。ただ、99%が自分のために書いた行動記録用メモであることを断っておく。",
+    "url": "https://note.com/frontier_travel/n/n907a601a9a81",
+    "pass": 3
+   },
+   {
+    "quote": "6月8日午前11時。ギリシャ第二の都市テッサロニキのThe holy mount of Athos のオフィスでアトス山の入山申請を行うために向かった。",
+    "url": "https://note.com/frontier_travel/n/n907a601a9a81",
+    "pass": 3
+   },
+   {
+    "quote": "そもそもアトスは、ギリシャ以外の外国人は正教徒であっても一日に最大10名の入国許可しかおりない。そして正教徒はこの地の巡礼を夢見て入山申請を事前に済ませている。したがって一般旅行者が思いつきで行けるような場所ではないのだ。(一般旅行者はアトスの地から最大500mまで船で近づけるのみだ。)あくまでもダメ元で向かう。",
+    "url": "https://note.com/frontier_travel/n/n907a601a9a81",
+    "pass": 3
+   },
+   {
+    "quote": "すると、偶然キャンセルが出たとのことで11日後の6月19日に入れることが決まった。ちなみにその次の空き日程は3ヶ月後だった。",
+    "url": "https://note.com/frontier_travel/n/n907a601a9a81",
+    "pass": 3
+   },
+   {
+    "quote": "出発前に、村上春樹が1988年9月にアトス山を訪れた事をまとめた本「雨天炎天」を読み、南端に位置する「世界の末端に接近した場所」と評されたカフソカリヴィアだけは必ず訪れることを決める。",
+    "url": "https://note.com/frontier_travel/n/n907a601a9a81",
+    "pass": 3
+   },
+   {
+    "quote": "6時起床。今日も相変わらず快晴。この時期の地中海は晴天続き、日中気温も18-30°程度で本当に過ごし易い。市バスで郊外のバスターミナルへ行き、2時間ほど待ったのちに8時45分テッサロニキからバスでアトスへと続く港町ウラノポリに向かう。ウラノポリの船着き場横のオフィスで30€払って入山許可証をもらう。巡礼先のアトス山の修道院では宿泊と食事は無料であり、実質この30€が3日の宿泊と食事代に当たると考える。入山許可は6月19日から6月22日までの3泊4日。",
+    "url": "https://note.com/frontier_travel/n/n907a601a9a81",
+    "pass": 3
+   },
+   {
+    "quote": "11時45分、ウラノポリから船でアトスの玄関口ダフニへ。女人禁制を保っているアトスに向かう船上には男性しかいない。ギリシャ正教徒の正装をしている人が乗客の半分を占める。長いヒゲを蓄えて髪を後方で結い、クロブークというバースデーケーキのような黒い帽子をかぶり、ラーソという黒いだぼっとした衣服を纏っている。残り半分は白人(殆どがギリシャ人)巡礼者である。彼らももまた３泊4日の入山許可証を手に握りしめている。",
+    "url": "https://note.com/frontier_travel/n/n907a601a9a81",
+    "pass": 3
+   },
+   {
+    "quote": "【音楽】ユーリ・シモノフの指揮の特徴｜大極貴人（たいきょくきじん）",
+    "url": "https://note.com/taikyokukijin/n/nb9cac23cac1c",
+    "pass": 3
+   },
+   {
+    "quote": "ボリショイ劇場出身の彼は、オペラ的な演出感覚を持ち、音楽にドラマを宿す指揮をします。",
+    "url": "https://note.com/taikyokukijin/n/nb9cac23cac1c",
+    "pass": 3
+   },
+   {
+    "quote": "打楽器や金管を大胆に鳴らす、重量感あるサウンド構築が特徴的。",
+    "url": "https://note.com/taikyokukijin/n/nb9cac23cac1c",
+    "pass": 3
+   },
+   {
+    "quote": "音を出す前の「間（ま）」に芸術性を込める。",
+    "url": "https://note.com/taikyokukijin/n/nb9cac23cac1c",
+    "pass": 3
+   },
+   {
+    "quote": "指揮棒を振るというより、空間を意識で支配するような精密なバランスがある。",
+    "url": "https://note.com/taikyokukijin/n/nb9cac23cac1c",
+    "pass": 3
+   },
+   {
+    "quote": "音を撫でる、叩く、掴む、飛ばす、支える——多彩なアプローチで音を描く。",
+    "url": "https://note.com/taikyokukijin/n/nb9cac23cac1c",
+    "pass": 3
+   },
+   {
+    "quote": "その動きは、まるで舞踏のようにリズムと感情を身体で可視化している。",
+    "url": "https://note.com/taikyokukijin/n/nb9cac23cac1c",
+    "pass": 3
+   },
+   {
+    "quote": "演奏中に踊るような動きで、観客から笑いが漏れることも。",
+    "url": "https://note.com/taikyokukijin/n/nb9cac23cac1c",
+    "pass": 3
+   },
+   {
+    "quote": "元気がでるユーリ・シモノフ先生① 〜ハチャトゥリアン/仮面舞踏会からワルツ｜tetsu",
+    "url": "https://note.com/tetsu19992000/n/n4cc4f330c956",
+    "pass": 3
+   },
+   {
+    "quote": "元気がでるユーリ・シモノフ先生① 〜ハチャトゥリアン/仮面舞踏会からワルツ",
+    "url": "https://note.com/tetsu19992000/n/n4cc4f330c956",
+    "pass": 3
+   },
+   {
+    "quote": "何の因果か分かりませんが、アルゴリズムの成せるワザなのが、最近、youtubeに、ユーリ・シモノフ先生ばかりが流れてきます。",
+    "url": "https://note.com/tetsu19992000/n/n4cc4f330c956",
+    "pass": 3
+   },
+   {
+    "quote": "一時期、毎日、ユーリ・シモノフ先生の指揮姿を観て、元気をもらっていた時期があるので、そのせいかなあ。",
+    "url": "https://note.com/tetsu19992000/n/n4cc4f330c956",
+    "pass": 3
+   },
+   {
+    "quote": "なんか、この曲を聴くと浅田真央を思い出します。",
+    "url": "https://note.com/tetsu19992000/n/n4cc4f330c956",
+    "pass": 3
+   },
+   {
+    "quote": "第111章 下関市：シモノセキノカミの願い｜Goldness",
+    "url": "https://note.com/goldness/n/n52262dd177cf",
+    "pass": 3
+   },
+   {
+    "quote": "第111章 下関市：シモノセキノカミの願い",
+    "url": "https://note.com/goldness/n/n52262dd177cf",
+    "pass": 3
+   },
+   {
+    "quote": "潮風が、ちょっとだけ塩っけを帯びて吹いていた。関門橋の下、ふぐの香りが立ちのぼる市場の一角に、その神様はのれんの奥にいた。",
+    "url": "https://note.com/goldness/n/n52262dd177cf",
+    "pass": 3
+   },
+   {
+    "quote": "「……今日は、フグの身がよぉ、少し厚めに切れてんだわ」",
+    "url": "https://note.com/goldness/n/n52262dd177cf",
+    "pass": 3
+   },
+   {
+    "quote": "陽気で男気あふれるシモノセキノカミは、板前でもなければ漁師でもない。ただの白い作務衣姿の神様である。だが、願い事が潮風とともに吹き込んでくれば、手元の包丁を握るフリだけはする。",
+    "url": "https://note.com/goldness/n/n52262dd177cf",
+    "pass": 3
+   },
+   {
+    "quote": "その日、やって来たのは、観光で関門海峡にやってきたカップル……ではなく、妙に目つきの鋭い若い男・遼太郎と、手元のメモ帳に「河豚」「願」「割引券」とだけ走り書きしていた謎の女・淳穂だった。",
+    "url": "https://note.com/goldness/n/n52262dd177cf",
+    "pass": 3
+   },
+   {
+    "quote": "「すみません、この“フグ願成就券”って、ここで使えます？」",
+    "url": "https://note.com/goldness/n/n52262dd177cf",
+    "pass": 3
+   },
+   {
+    "quote": "遼太郎が出したのは、地元の観光協会がふざけて配布した謎のチケット。表面にはでかでかと「願いを込めて食べよう、当たるも八景、当たらぬも無毒」と書かれている。完全に不安しかない。",
+    "url": "https://note.com/goldness/n/n52262dd177cf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "シモノヘイ (@SH43167414) / X 1 シモノヘイ @SH43167414 Jul 2, 2020 ティナさんの動画設定ないだろうバラの戦乱カグラ打ってて壊れてくれる笑笑 こんだけ回してボーナス確率が500分の1はげせん笑笑 これから馬鹿ボーナス引いてやる",
+    "url": "https://x.com/SH43167414",
+    "pass": 3
+   },
+   {
+    "quote": "シモノケフレンズ (@kemonohairy) / X ふぅん 1 113 シモノケフレンズ @kemonohairy Aug 28 昔中古屋でかわいいからというだけで買ったこのアクスタなんのやつかと調べたらケーキの特典なのね ケーキの中身も箱も凝っててよいね",
+    "url": "https://x.com/kemonohairy",
+    "pass": 3
+   },
+   {
+    "quote": "シモノ ミヤ (@cmonomiya) / Posts / X シモノ ミヤ (@cmonomiya) - Posts - ねぇ知ってる？🫛 #ハロプロ | X (formerly Twitter)",
+    "url": "https://x.com/cmonomiya",
+    "pass": 3
+   },
+   {
+    "quote": "下野紘 on X: \"先日久しぶりに、シモノバンドのバンマス京一さん、音... Post 下野紘 @shimono_kousiki 先日久しぶりに、シモノバンドのバンマス京一さん、音楽プロデューサー山田さんと飲みっ🍻 やっぱ、楽しいね〜っ😆 3:01 AM · Jul 16, 2026 151.3KViews 149 512",
+    "url": "https://x.com/shimono_kousiki/status/2077695198419927401",
+    "pass": 3
+   },
+   {
+    "quote": "シモノ (@Shimono_85) / Posts / X Dec 27, 2025 · 🤍 0 📊 17 📎 シモノ Shimono_85 Apr 8 昨日、新開地辺りのお風呂屋さん行こうと思って駅降りたまではいいけど、店選びしてる間に気分変わってパチ屋へGO 4000円",
+    "url": "https://x.com/Shimono_85",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "シモノ写真スタジオ湯布院本店 | Yufu-shi Oita有限会社シモノ工務店 - Facebook紳士服のシモノ | Kagoshima-shi Kagoshima - FacebookLife Photo シモノスタジオ | Oita-shi Oita - Facebookシモノロ・パーマネント | Miyoshi-shi Tokushimaシモノ写真スタジオ湯布院本店 - さなちゃんの七五三 ... | Facebook2026年 七五三撮影 𝐬𝐭𝐚𝐫𝐭♡ᵎᵎᵎ 新作衣装を準備してお待ちしており... シモノ写真スタジオ湯布院本店, Yufu. 255 followers · 3 talking about this · 254 were here. お宮参り バースディー 七五三 十歳祝い 十三参り 成人式 婚礼 Sep 27, 2025 · 我々シモノ工務店も登壇します。 9/",
+    "url": "https://www.facebook.com/yuhuinshimono/photos/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社シモノ工務店 - Facebook紳士服のシモノ | Kagoshima-shi Kagoshima - FacebookLife Photo シモノスタジオ | Oita-shi Oita - Facebookシモノロ・パーマネント | Miyoshi-shi Tokushimaシモノ写真スタジオ湯布院本店 - さなちゃんの七五三 ... | Facebook2026年 七五三撮影 𝐬𝐭𝐚𝐫𝐭♡ᵎᵎᵎ 新作衣装を準備してお待ちしており... Sep 27, 2025 · 我々シモノ工務店も登壇します。 9/16 (月祝)ツインメッセ北館 是非お越し下さい。 #ツインメッセ #イベント #キャリア体験授業 #仕事 #体験授業 #静岡市 #中小企業家同友会 #静岡支部 #シモノ工務店 #9月イベント Dec 11, 2023 · 私の大好きな地 種子島、屋久島の皆様にお会いでき るこ",
+    "url": "https://www.facebook.com/shimonokmt/",
+    "pass": 3
+   },
+   {
+    "quote": "紳士服のシモノ | Kagoshima-shi Kagoshima - FacebookLife Photo シモノスタジオ | Oita-shi Oita - Facebookシモノロ・パーマネント | Miyoshi-shi Tokushimaシモノ写真スタジオ湯布院本店 - さなちゃんの七五三 ... | Facebook2026年 七五三撮影 𝐬𝐭𝐚𝐫𝐭♡ᵎᵎᵎ 新作衣装を準備してお待ちしており... Dec 11, 2023 · 私の大好きな地 種子島、屋久島の皆様にお会いでき ることを今から楽しみにしています。 ぜひ会場に遊びにいらしてください。 シモノ大感謝セール開催中です！ 詳細はこちら 数千生地取りそろえております。 Jun 9, 2022 · Life Photo シモノスタジオ, Oita-shi. 174 likes · 111 were here. 出会いと感動を",
+    "url": "https://www.facebook.com/shinshihukushimono/",
+    "pass": 3
+   },
+   {
+    "quote": "Life Photo シモノスタジオ | Oita-shi Oita - Facebookシモノロ・パーマネント | Miyoshi-shi Tokushimaシモノ写真スタジオ湯布院本店 - さなちゃんの七五三 ... | Facebook2026年 七五三撮影 𝐬𝐭𝐚𝐫𝐭♡ᵎᵎᵎ 新作衣装を準備してお待ちしており... Jun 9, 2022 · Life Photo シモノスタジオ, Oita-shi. 174 likes · 111 were here. 出会いと感動を大切にする、トータルフォトスタジオです。 Aug 31, 2026 · 🌿 8月のシモノロは、夏をまるごと楽しめます。 8月に入り、シモノロでは毎日のように子どもたちの笑 い声が響いています。 森のようちえん 花笑み のサマーキャンプがスタートし、川遊びや魚とり、ス イカ割りなど、この季節ならではの自然体験を満喫。 ",
+    "url": "https://www.facebook.com/lifephotoshimonostudio/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://e-shimono.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://e-shimono.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://e-shimono.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://e-shimono.jp/form/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://e-shimono.jp/facilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://e-shimono.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://e-shimono.jp/company/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://e-shimono.jp/company/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://e-shimono.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://e-shimono.jp/company/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://e-shimono.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://e-shimono.jp/assets/img/products/top-products.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://e-shimono.jp/assets/img/products/plate-left.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://e-shimono.jp/assets/img/products/plate-center.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://e-shimono.jp/assets/img/products/plate-right.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://e-shimono.jp/assets/img/products/block-left.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://e-shimono.jp/assets/img/products/block-center.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://e-shimono.jp/assets/img/products/block-right.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://e-shimono.jp/assets/img/products/brackets-left.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://e-shimono.jp/assets/img/products/brackets-center.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://e-shimono.jp/assets/img/products/brackets-right.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://e-shimono.jp/assets/img/products/ribu-left.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://e-shimono.jp/assets/img/products/ribu-center.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ytc-eng.com/silicon_tsukuru2_try",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://silicon-labox.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-link-plus.com/jp/corporation/9120901018681",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tailor-shimono.com/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp-shimano.com/PostMail/postmail.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/frontier_travel/n/n907a601a9a81",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/taikyokukijin/n/nb9cac23cac1c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tetsu19992000/n/n4cc4f330c956",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/goldness/n/n52262dd177cf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SH43167414",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kemonohairy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cmonomiya",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/shimono_kousiki/status/2077695198419927401",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/yuhuinshimono/photos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/shimonokmt/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/shinshihukushimono/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lifephotoshimonostudio/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Shimono_85",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "シモノ 取扱製品 試作 小ロット",
+   "results": [
+    "https://e-shimono.jp/",
+    "https://ytc-eng.com/silicon_tsukuru2_try",
+    "https://silicon-labox.com/",
+    "https://silicon-labox.com/shisaku/",
+    "https://e-shimono.jp/products/",
+    "https://www.u-topia.co.jp/products/low-volume-series.html",
+    "https://shimoworks.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "シモノ 会社概要 事業内容",
+   "results": [
+    "https://e-shimono.jp/company/information/",
+    "https://e-shimono.jp/company/",
+    "https://data-link-plus.com/jp/corporation/9120901018681",
+    "https://www.simon.co.jp/company_info/gaiyo/",
+    "https://www.shimano.com/jp/company/profile.html",
+    "https://isico-vrkogyo-pickupsite.jp/list/shimono/",
+    "https://suminoe.co.jp/uploads/2026/08/suminoe_corporate_profile_jp.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "シモノ お問い合わせ メール",
+   "results": [
+    "https://e-shimono.jp/form/",
+    "https://www.tailor-shimono.com/お問い合わせ/",
+    "http://jp-shimano.com/PostMail/postmail.html",
+    "https://shimoda.ne.jp/contact/",
+    "https://shimono-studio.com/contact.html",
+    "https://www.shiono.co.jp/contact/",
+    "https://www.shimoda-group.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com シモノ",
+   "results": [
+    "https://note.com/frontier_travel/n/n907a601a9a81",
+    "https://note.com/taikyokukijin/n/nb9cac23cac1c",
+    "https://note.com/tetsu19992000/n/n4cc4f330c956",
+    "https://note.com/goldness/n/n52262dd177cf",
+    "https://note.com/chiharushi",
+    "https://tales.note.com/witty_hare9002/whmdww0nqp93f",
+    "https://note.com/ningen75/n/n0b2e0017501b"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com シモノ",
+   "results": [
+    "https://x.com/SH43167414",
+    "https://x.com/kemonohairy",
+    "https://x.com/cmonomiya",
+    "https://x.com/shimono_kousiki/status/2077695198419927401",
+    "https://x.com/DOCUMENT58",
+    "https://x.com/shi10_mo",
+    "https://x.com/chasso_j"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com シモノ",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com シモノ",
+   "results": [
+    "https://www.facebook.com/yuhuinshimono/photos/",
+    "https://www.facebook.com/shimonokmt/",
+    "https://www.facebook.com/shinshihukushimono/",
+    "https://www.facebook.com/lifephotoshimonostudio/",
+    "https://www.facebook.com/shimonoro.p/",
+    "https://www.facebook.com/yuhuinshimono/posts/さなちゃんの七五三七五三撮影に来てくれたさなちゃん3歳さんだけど1人でなんでもこなしちゃうお利口さん準備してるあいだはもくもくとパズルに夢中お着替えするとなんだ/847606415352993/",
+    "https://www.facebook.com/yuhuinshimono/videos/-2026年-七五三撮影-𝐬𝐭𝐚𝐫𝐭︎ᵎᵎᵎ新作衣装を準備してお待ちしております-͜まだまだご相談を承っております11月ご希望の方はお急ぎください𖤣𖥧𖥣𖥧𖧧/1512456410615952/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "シモノ note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.ch-files.net/note/",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://note.com/momunote",
+    "https://e-shimono.jp/company/information/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "シモノ X 投稿",
+   "results": [
+    "https://x.com/Shimono_85",
+    "https://x.com/shimon__g/status/2120231101981761689",
+    "https://njavtv.com/ja/series/投稿個人撮影+キモ男ヲタ復讐動画",
+    "https://www.xvideos.com/tags/素人-投稿",
+    "https://www.xvideos.com/?k=素人投稿",
+    "https://jp.xhamster.com/search/japanese+素人+投稿"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 6
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像12件／外部18頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式11頁／PDF・画像12件／外部18頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式11頁／PDF・画像12件／外部18頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式11頁／PDF・画像12件／外部18頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式11頁／PDF・画像12件／外部18頁・検索9回）"
+ }
+}

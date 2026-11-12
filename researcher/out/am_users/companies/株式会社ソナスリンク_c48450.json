@@ -1,0 +1,756 @@
+{
+ "name": "株式会社ソナスリンク",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T23:36:59.624645+00:00",
+ "official_url": "https://www.sonuslink.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒226-0017　神奈川県横浜市緑区新治町474番地１",
+    "url": "https://www.sonuslink.com/company.html",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "※必須",
+    "url": "https://www.sonuslink.com/info/inquery-a.html",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "※必須",
+    "url": "https://www.sonuslink.com/info/inquery-re.html",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "※必須",
+    "url": "https://www.sonuslink.com/ins_info/ins_inquery.html",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "※必須",
+    "url": "https://www.sonuslink.com/info/inquery-ol.html",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "※必須",
+    "url": "https://www.sonuslink.com/info/inquery-pr.html",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "※必須",
+    "url": "https://www.sonuslink.com/info/inquery-co.html",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "※必須",
+    "url": "https://www.sonuslink.com/info/inquery-ele.html",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "拠点",
+    "value": "厚木工場　神奈川県厚木市下川入",
+    "url": "https://www.sonuslink.com/company.html",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　小野邉 実奈子",
+    "url": "https://www.sonuslink.com/company.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "【真空機器事業】 真空ポンプの修理・メンテナンス（油回転ポンプ、ドライポンプ、ターボ分子ポンプ、クライオポンプ等）、真空機器の販売(真空ポンプ・真空計・ヘリウムリークディテクタ、真空チャンバ・真空バルブ・真空配管部品・真空フィルター)、中古真空機器販売(真空ポンプ等)、真空装置構成部品及び付帯設備の販売及び修理、設置作業 金属や樹脂部品の販売及び追加工受託、真空装置の保守・改造・販売・移設、高純度ガス配管用機器の販売、理科学機器の販売、その他 【ヘリウムリーク検査事業】 漏れ検査装置(ヘリウムリークディテクタ)を用いた受託ヘリウムリーク検査、出張ヘリウムリーク検査、レンタル及び使用時の導入支援 【電子部品事業】 電源トランスの設計・試作・製造・販売・改良、その他各種巻線製品製作",
+    "url": "https://www.sonuslink.com/company.html",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "（取引先",
+    "value": "大学・研究機関・一般企業など）",
+    "url": "https://www.sonuslink.com/repare-main.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "弊社が取扱う製品やサービスに関する情報や小話、展示会などの報告を掲載いたします",
+    "url": "https://www.sonuslink.com/",
+    "pass": 1
+   },
+   {
+    "quote": "電源トランスの設計・試作・製造・販売・改良、その他各種巻線製品製作",
+    "url": "https://www.sonuslink.com/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置・ALD装置・スパッタリング装置・真空装置・真空バルブ・自動車部品・半導体メモリ・電子部品・電子管・電池・化学薬品・熱交換器・精密機器・締結部品・機械加工部品・ガラス製品・樹脂部品・産業用機器・医療用機械",
+    "url": "https://www.sonuslink.com/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "アズワン製品 販売店(科学機器・産業機器分野）",
+    "url": "https://www.sonuslink.com/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "VACUUM2020真空展 注目の製品・サービスの記事にてご紹介いただきました",
+    "url": "https://www.sonuslink.com/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "尚、製品やサービスの説明をする時にはメリットだけではなく、デメリットもお客様に説明し、ご納得・ご理解を頂けるよう努めております",
+    "url": "https://www.sonuslink.com/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "中でも、自身が設計試作したトランス・コイルは大手電機メーカーでも採用され、様々な製品に使用されている",
+    "url": "https://www.sonuslink.com/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "設計だけではなく、海外工場で部品製造にも関わり、その経験を基にして、いかに良い製品を作るかを製造現場レベルから考え模索中",
+    "url": "https://www.sonuslink.com/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に喜んで頂けるベストな製品を生み出すことを目標に日々製作に取り組んでおります",
+    "url": "https://www.sonuslink.com/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "修理メンテナンス・製品購入・レンタル・中古販売・加工品などのお問い合わせをご希望の方は",
+    "url": "https://www.sonuslink.com/inquery.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社はお客様の「こういうものを作って欲しい」を原点に自社で基本構想を練り、各々の分野で秀でた技術を有するベテラン設計者や製造現場と協力して最適な加工製品を作り上げます",
+    "url": "https://www.sonuslink.com/processed.html",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "弊社では只今、電子部品「基板実装型オーダーメイドトランス」の販売を行っていただける代理店様を募集しております",
+    "url": "https://www.sonuslink.com/",
+    "pass": 1
+   },
+   {
+    "quote": "電源トランスの設計・試作・製造・販売・改良、その他各種巻線製品製作",
+    "url": "https://www.sonuslink.com/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "中でも、自身が設計試作したトランス・コイルは大手電機メーカーでも採用され、様々な製品に使用されている",
+    "url": "https://www.sonuslink.com/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子部品のメーカーに長年勤務し、電源トランスの設計・試作・評価・製造に従事してきました",
+    "url": "https://www.sonuslink.com/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "トランスの試作の際、回路を組んで動作確認をしていたので、回路についても知見を有しています",
+    "url": "https://www.sonuslink.com/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "真空装置や製造設備で必要とされる加工品や特注のパーツの製作を承ります",
+    "url": "https://www.sonuslink.com/processed.html",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "金属や樹脂部品の販売及び追加工受託、真空装置の保守・改造・販売・移設、高純度ガス配管用機器の販売、理科学機器の販売、その他",
+    "url": "https://www.sonuslink.com/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置・ALD装置・スパッタリング装置・真空装置・真空バルブ・自動車部品・半導体メモリ・電子部品・電子管・電池・化学薬品・熱交換器・精密機器・締結部品・機械加工部品・ガラス製品・樹脂部品・産業用機器・医療用機械",
+    "url": "https://www.sonuslink.com/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属や樹脂の加工品製作・販売 ｜株式会社ソナスリンク",
+    "url": "https://www.sonuslink.com/processed.html",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "半導体製造装置・ALD装置・スパッタリング装置・真空装置・真空バルブ・自動車部品・半導体メモリ・電子部品・電子管・電池・化学薬品・熱交換器・精密機器・締結部品・機械加工部品・ガラス製品・樹脂部品・産業用機器・医療用機械",
+    "url": "https://www.sonuslink.com/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ADEKA・AGC株式会社・株式会社サムスン日本研究所・ジーエルサイエンス株式会社・株式会社シンクロン・ソニー株式会社・大同特殊鋼株式会社・東京電設サービス株式会社・日鉄テクノロジー株式会社・浜松ホトニクス株式会社・富士フィルム株式会社・古河電工グループ・株式会社村田製作所 その他 自動車メーカー等の上場企業及び中小企業多数",
+    "url": "https://www.sonuslink.com/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "カタログ品には無い、お客様だけの特別な部品・治具・チャンバーを提供致します",
+    "url": "https://www.sonuslink.com/processed.html",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "今では様々なお客様からお問い合わせやご依頼を頂けるまでに成長しております",
+    "url": "https://www.sonuslink.com/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "修理メンテナンス・製品購入・レンタル・中古販売・加工品などのお問い合わせをご希望の方は",
+    "url": "https://www.sonuslink.com/inquery.html",
+    "pass": 1
+   },
+   {
+    "quote": "下記お問い合わせボタンをクリックしてお進みください",
+    "url": "https://www.sonuslink.com/inquery.html",
+    "pass": 1
+   },
+   {
+    "quote": "お電話でのお問い合わせも受け付けております",
+    "url": "https://www.sonuslink.com/inquery.html",
+    "pass": 1
+   },
+   {
+    "quote": "※平日17時以降、土・日・祝日及び弊社指定休日のお問い合わせは、その翌営業日以降の返信となります",
+    "url": "https://www.sonuslink.com/inquery.html",
+    "pass": 1
+   },
+   {
+    "quote": "・24時間お問い合わせフォームにて受付中",
+    "url": "https://www.sonuslink.com/inquery.html",
+    "pass": 1
+   },
+   {
+    "quote": "・お問い合わせ後3営業日以内にご連絡いたします",
+    "url": "https://www.sonuslink.com/inquery.html",
+    "pass": 1
+   },
+   {
+    "quote": "・各種お問い合わせは下記にても受付ております",
+    "url": "https://www.sonuslink.com/inquery.html",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ 総合窓口 ｜株式会社ソナスリンク",
+    "url": "https://www.sonuslink.com/info/inquery-a.html",
+    "pass": 1
+   },
+   {
+    "quote": "こちらは株式会社ソナスリンクの総合お問い合わせフォームです",
+    "url": "https://www.sonuslink.com/info/inquery-a.html",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせをご希望の方は必要事項をご記入の上、送信ボタンをクリックしてください",
+    "url": "https://www.sonuslink.com/info/inquery-a.html",
+    "pass": 1
+   },
+   {
+    "quote": "※平日17時以降、土・日・祝日及び弊社指定休日のお問い合わせは、その翌営業日以降の返信とさせていただきます",
+    "url": "https://www.sonuslink.com/info/inquery-a.html",
+    "pass": 1
+   },
+   {
+    "quote": "※お問い合わせの内容により、回答を差し上げるのに時間をいただく、または回答を差し控えさせていただく場合がございます",
+    "url": "https://www.sonuslink.com/info/inquery-a.html",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ 真空機器の修理 ｜株式会社ソナスリンク",
+    "url": "https://www.sonuslink.com/info/inquery-re.html",
+    "pass": 1
+   },
+   {
+    "quote": "こちらは株式会社ソナスリンクの真空機器修理相談のお問い合わせフォームです",
+    "url": "https://www.sonuslink.com/info/inquery-re.html",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせをご希望の方は必要事項をご記入の上、送信ボタンをクリックしてください",
+    "url": "https://www.sonuslink.com/info/inquery-re.html",
+    "pass": 1
+   },
+   {
+    "quote": "※平日17時以降、土・日・祝日及び弊社指定休日のお問い合わせは、その翌営業日以降の返信とさせていただきます",
+    "url": "https://www.sonuslink.com/info/inquery-re.html",
+    "pass": 1
+   },
+   {
+    "quote": "※お問い合わせの内容により、回答を差し上げるのに時間をいただく、または回答を差し控えさせていただく場合がございます",
+    "url": "https://www.sonuslink.com/info/inquery-re.html",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ内容の確認後、できるだけ早く担当者からご連絡いたします",
+    "url": "https://www.sonuslink.com/repare-main.html",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ Heリーク検査 ｜株式会社ソナスリンク",
+    "url": "https://www.sonuslink.com/ins_info/ins_inquery.html",
+    "pass": 1
+   },
+   {
+    "quote": "ヘリウムリークディテクタレンタル・検査のお問い合わせ",
+    "url": "https://www.sonuslink.com/ins_info/ins_inquery.html",
+    "pass": 1
+   },
+   {
+    "quote": "こちらは「ヘリウムリークディテクタレンタル」・「受託ヘリウムリーク検査」・「出張ヘリウムリーク検査」のお問い合わせフォームです",
+    "url": "https://www.sonuslink.com/ins_info/ins_inquery.html",
+    "pass": 1
+   },
+   {
+    "quote": "お申込み・お問い合わせをご希望の方は必要事項をご記入の上、お問い合わせボタンをクリックしてください",
+    "url": "https://www.sonuslink.com/ins_info/ins_inquery.html",
+    "pass": 1
+   },
+   {
+    "quote": "※平日17時以降、土・日・祝日及び弊社指定休日のお問い合わせは、その翌営業日以降の返信とさせていただきます",
+    "url": "https://www.sonuslink.com/ins_info/ins_inquery.html",
+    "pass": 1
+   },
+   {
+    "quote": "※お問い合わせの内容により、回答を差し上げるのに時間をいただくかまたは回答を差し控えさせていただく場合がございます",
+    "url": "https://www.sonuslink.com/ins_info/ins_inquery.html",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ 真空機器・装置中古品 ｜株式会社ソナスリンク",
+    "url": "https://www.sonuslink.com/info/inquery-ol.html",
+    "pass": 1
+   },
+   {
+    "quote": "こちらは株式会社ソナスリンクの中古品のお問い合わせフォームです",
+    "url": "https://www.sonuslink.com/info/inquery-ol.html",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせをご希望の方は必要事項をご記入の上、送信ボタンをクリックしてください",
+    "url": "https://www.sonuslink.com/info/inquery-ol.html",
+    "pass": 1
+   },
+   {
+    "quote": "※平日17時以降、土・日・祝日及び弊社指定休日のお問い合わせは、その翌営業日以降の返信とさせていただきます",
+    "url": "https://www.sonuslink.com/info/inquery-ol.html",
+    "pass": 1
+   },
+   {
+    "quote": "※お問い合わせの内容により、回答を差し上げるのに時間をいただく、または回答を差し控えさせていただく場合がございます",
+    "url": "https://www.sonuslink.com/info/inquery-ol.html",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ 加工品 ｜株式会社ソナスリンク",
+    "url": "https://www.sonuslink.com/info/inquery-pr.html",
+    "pass": 1
+   },
+   {
+    "quote": "こちらは株式会社ソナスリンクの加工品製作に関するお問い合わせフォームです",
+    "url": "https://www.sonuslink.com/info/inquery-pr.html",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせをご希望の方は必要事項をご記入の上、送信ボタンをクリックしてください",
+    "url": "https://www.sonuslink.com/info/inquery-pr.html",
+    "pass": 1
+   },
+   {
+    "quote": "※平日17時以降、土・日・祝日及び弊社指定休日のお問い合わせは、その翌営業日以降の返信とさせていただきます",
+    "url": "https://www.sonuslink.com/info/inquery-pr.html",
+    "pass": 1
+   },
+   {
+    "quote": "※お問い合わせの内容により、回答を差し上げるのに時間をいただく、または回答を差し控えさせていただく場合がございます",
+    "url": "https://www.sonuslink.com/info/inquery-pr.html",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ 真空機器・真空装置の購入相談など ｜株式会社ソナスリンク",
+    "url": "https://www.sonuslink.com/info/inquery-co.html",
+    "pass": 1
+   },
+   {
+    "quote": "こちらは株式会社ソナスリンクの真空機器・真空装置に関するお問い合わせフォームです",
+    "url": "https://www.sonuslink.com/info/inquery-co.html",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせをご希望の方は必要事項をご記入の上、送信ボタンをクリックしてください",
+    "url": "https://www.sonuslink.com/info/inquery-co.html",
+    "pass": 1
+   },
+   {
+    "quote": "※平日17時以降、土・日・祝日及び弊社指定休日のお問い合わせは、その翌営業日以降の返信とさせていただきます",
+    "url": "https://www.sonuslink.com/info/inquery-co.html",
+    "pass": 1
+   },
+   {
+    "quote": "※お問い合わせの内容により、回答を差し上げるのに時間をいただく、または回答を差し控えさせていただく場合がございます",
+    "url": "https://www.sonuslink.com/info/inquery-co.html",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ トランス・コイル ｜株式会社ソナスリンク",
+    "url": "https://www.sonuslink.com/info/inquery-ele.html",
+    "pass": 1
+   },
+   {
+    "quote": "こちらは株式会社ソナスリンクの電子部品（トランス）に関するお問い合わせフォームです",
+    "url": "https://www.sonuslink.com/info/inquery-ele.html",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせをご希望の方はお問い合わせ内容と必要事項をご記入の上、送信ボタンをクリックしてください",
+    "url": "https://www.sonuslink.com/info/inquery-ele.html",
+    "pass": 1
+   },
+   {
+    "quote": "※平日17時以降、土・日・祝日及び弊社指定休日のお問い合わせは、その翌営業日以降の返信とさせていただきます",
+    "url": "https://www.sonuslink.com/info/inquery-ele.html",
+    "pass": 1
+   },
+   {
+    "quote": "※お問い合わせの内容により、回答を差し上げるのに時間をいただく、または回答を差し控えさせていただく場合がございます",
+    "url": "https://www.sonuslink.com/info/inquery-ele.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社ソナスリンク ｜TOPページ — 真空機器の販売・修理・メンテナンス・中古品販売・加工品製作・電子部品（トランス）の製作を行っている株式会社ソナスリンクWEBサイトです。 ヘリウムリークディテクタのレンタルも行っております。",
+    "url": "https://www.sonuslink.com/",
+    "pass": 3
+   },
+   {
+    "quote": "電源トランスの設計製作を承ります｜株式会社ソナスリンク — 弊社ではトランス設計の際にお客様に十分なヒアリングを行い、周辺の回路を考慮したトランス設計を行っております。 それにより、お客様の製品に実装された時のトラブルを減らし、コストや、時間的損失を軽減できるように努めております。",
+    "url": "https://www.sonuslink.com/electronic.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要/メンバー | ソナス株式会社ソナス株式会社Sonasu - 株式会社ソナス株式会社ソーリンク（SOLINK）－自動機・省力機械・制御装置株式会社ソナスリンクの会社概要【2026年最新】| SalesNow DB株式会社ソナスリンクの会社概要・製品情報 | Metoree — ソナス株式会社の企業情報/会社概要・メンバーになります。 ソナス株式会社は2017年の事業開始以来、複数回の資金調達や各種プログラムにおける受賞を経て順調に事業を拡大しています。 ソナス株式会社は革新的転送方式を採用した独自開発のIoT無線「UNISONet」を核にIoT製品やSIサービスを展開しています。 土木・建築分野や製造業をはじめとして幅広い業界で活用領域が拡大しています。 株式会社ソナスは、システム開発・アプリ開発・WEB制作を提供する会社です。 日本とスリランカを拠点に、業務効率化・コスト削減・売",
+    "url": "https://www.sonas.co.jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ソナスリンクの会社概要【2026年最新】| SalesNow DB — Dec 8, 2021 · 株式会社ソナスリンク を含む企業リスト 110,976社がヒット 神奈川県で従業員数5人未満の企業リスト 有料版で全て見る 16,288社がヒット システム開発の企業リスト",
+    "url": "https://salesnow.jp/db/companies/jcbkwnx5nhxwenxuy",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ソナスリンクの会社概要・製品情報 | Metoree — 会社概要 株式会社ソナスリンクは、2019年に設立された、真空機器と電子部品の製作・販売を行う企業です。 気体を排出して容器内を真空にするための、真空機器の販売と、真空ポンプの修理を行っています。",
+    "url": "https://metoree.com/companies/8258/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ ｜株式会社ソナスリンク — こちらは弊社のお問い合わせフォームです。 修理メンテナンス・製品購入・レンタル・中古販売・加工品などのお問い合わせをご希望の方は 下記お問い合わせボタンをクリックしてお進みください。 お電話でのお問い合わせも受け付けております。",
+    "url": "https://www.sonuslink.com/inquery.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ソナス株式会社（Sonas inc.） | Bunkyo-ku Tokyo株式会社ソナス Sonasu Co.,Ltd. | Nagoya-shi Aichiビジコムポスト - Facebook建設現場での山留管理、こんな悩みありませんか？ • ピアノ線や下げ振...【展示会出展のお知らせ】 本日よりソナス株式会社が「新価値創造展 i...TRIDE | Shunan-shi Yamaguchi - Facebook4月1日付で執行役員の一木が取締役 兼... - ソナス株式会社（Sonas in... ソナスは傾斜監視システムを始めとして建築・土木の 現場でご活用いただける製品に加え、リリースしたば かりの新型の無線式振動計も今回初展示いたします。 皆様のお越しをお待ちしております。 Sep 18, 2025 · 本年度もソナスは「つなぐ力で、未来を変える」とい う想いのもと、 一歩先の",
+    "url": "https://www.facebook.com/sonas.inc.pr/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ソナス Sonasu Co.,Ltd. | Nagoya-shi Aichiビジコムポスト - Facebook建設現場での山留管理、こんな悩みありませんか？ • ピアノ線や下げ振...【展示会出展のお知らせ】 本日よりソナス株式会社が「新価値創造展 i...TRIDE | Shunan-shi Yamaguchi - Facebook4月1日付で執行役員の一木が取締役 兼... - ソナス株式会社（Sonas in... Sep 18, 2025 · 本年度もソナスは「つなぐ力で、未来を変える」とい う想いのもと、 一歩先の技術と発想で、皆さまの期待を超える価値を 創造してまいります。 新しい仲間を迎え、社内にも新たな風が吹いています 。 Jul 15, 2025 · スペシャルインタビュー ヘリウムリーク検査サービスや特注トランスのエキス パート 〜真空技術とトランスの設計力が",
+    "url": "https://www.facebook.com/sonasu.page/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジコムポスト - Facebook建設現場での山留管理、こんな悩みありませんか？ • ピアノ線や下げ振...【展示会出展のお知らせ】 本日よりソナス株式会社が「新価値創造展 i...TRIDE | Shunan-shi Yamaguchi - Facebook4月1日付で執行役員の一木が取締役 兼... - ソナス株式会社（Sonas in... Jul 15, 2025 · スペシャルインタビュー ヘリウムリーク検査サービスや特注トランスのエキス パート 〜真空技術とトランスの設計力が強みの提案型エンジ ニアリング企業〜 株式会社 ソナスリンク 代表取締役 小野邉 実奈子 氏 取締役兼 セールスエンジニア部長 小野邉 ... Nov 3, 2025 · • ピアノ線や下げ振り、測量器による計測が面倒 • トータルステーションは高価で導入が難しい • 異常があった時、すぐに気づけない… ",
+    "url": "https://www.facebook.com/Busicompost/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sonuslink.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sonuslink.com/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sonuslink.com/inquery.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sonuslink.com/info/inquery-a.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sonuslink.com/info/inquery-re.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sonuslink.com/repare-main.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sonuslink.com/processed.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sonuslink.com/ins_info/ins_inquery.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sonuslink.com/info/inquery-ol.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sonuslink.com/info/inquery-pr.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sonuslink.com/info/inquery-co.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sonuslink.com/info/inquery-ele.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sonuslink.com/vaccum-main.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.signus.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sonas.co.jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://salesnow.jp/db/companies/jcbkwnx5nhxwenxuy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sonas.co.jp/contact/form",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sonas.co.jp/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/sonas.inc.pr/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sonasu.page/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Busicompost/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ソナスリンク 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.sonuslink.com/",
+    "https://www.sonuslink.com/electronic.html",
+    "https://www.signus.co.jp/",
+    "https://www.u-topia.co.jp/products/low-volume-series.html",
+    "https://www.bane-shisaku.com/products/",
+    "https://newji.ai/procurement-purchasing/manufacturing-methods-and-considerations-for-small-batch-prototyping/",
+    "https://www.sonas.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ソナスリンク 会社概要 事業内容",
+   "results": [
+    "https://www.sonuslink.com/",
+    "https://www.sonas.co.jp/company",
+    "https://salesnow.jp/db/companies/jcbkwnx5nhxwenxuy",
+    "https://metoree.com/companies/8258/",
+    "https://solink.co.jp/",
+    "https://www.sonas.co.jp/",
+    "https://sonasu.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ソナスリンク お問い合わせ メール",
+   "results": [
+    "https://www.sonuslink.com/inquery.html",
+    "https://www.sonas.co.jp/contact/form",
+    "https://www.sonas.co.jp/contact",
+    "https://www.so-net.ne.jp/support/contact/",
+    "https://www.link.co.jp/contact/",
+    "https://sonuslink.com/script/mailform/inquery1/",
+    "https://www.sunus.co.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ソナスリンク",
+   "results": [
+    "https://money.note.com/rankings/AI/per_desc",
+    "https://money.note.com/",
+    "https://note.com/good_fairy858/n/n645ab2f28c1d",
+    "https://note.com/hecate_mk2/n/n76b0fb396098",
+    "https://tales.note.com/karasumachizuru/wi6rlhqo4jqjs",
+    "https://tales.note.com/gay_panda2698/wfc81vur8utqv/episodes/evjj2t0vpued2",
+    "https://note.com/sonas_ensemble/n/n1be44d9464eb"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ソナスリンク",
+   "results": [
+    "https://x.com/sonas_inc",
+    "https://x.com/somnus_app",
+    "https://x.com/fukasandesu/status/2108036845556978100",
+    "https://x.com/SonasTakizawa",
+    "https://x.com/Hecate_mk2/status/2080265185781068229",
+    "https://x.com/FlatMountain123/status/2120273294410813841",
+    "https://x.com/mpoL4suku08B22r/status/2120303872426291424"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ソナスリンク",
+   "results": [
+    "https://www.linkedin.com/login/",
+    "https://jp.linkedin.com/company/sonas-inc",
+    "https://jp.linkedin.com/company/sonasu",
+    "https://lk.linkedin.com/in/dilanwickramarathna",
+    "https://members.linkedin.com/students-logged-in",
+    "https://business.linkedin.com/hire/customer/admin-center",
+    "https://www.linkedin.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ソナスリンク",
+   "results": [
+    "https://www.facebook.com/sonas.inc.pr/",
+    "https://www.facebook.com/sonasu.page/",
+    "https://www.facebook.com/Busicompost/",
+    "https://www.facebook.com/tride.co.jp/",
+    "https://www.facebook.com/sonas.inc.pr/videos/建設現場の施工管理者必見/1594058198434129/",
+    "https://www.facebook.com/sonas.inc.pr/posts/展示会出展のお知らせ本日よりソナス株式会社が新価値創造展-in-未来モノづくり国際-expo-2024に出展しています無線式メータ点検自動化サービスなど様々なi/959662016187369/",
+    "https://www.facebook.com/sonas.inc.pr/posts/4月1日付で執行役員の一木が取締役-兼-cfo最高財務責任者に就任しました財務戦略及び経営管理体制の強化を通じて当社の中長期的な企業価値向上に貢献していきますh/5068218483257445/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ソナスリンク note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.sonas.co.jp/company",
+    "https://note.com/sadaaki",
+    "https://note.com/utokyo_ipc/n/nd89b3062197b"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ソナスリンク X 投稿",
+   "results": [
+    "https://www.sonuslink.com/",
+    "https://x.com/sonas_inc",
+    "https://help.x.com/ja/using-x/how-to-post-a-link",
+    "https://x.com/sonoLAgi/status/2111110188417896677",
+    "https://www.sonas.co.jp/",
+    "https://sonasu.com/",
+    "https://www.luft.co.jp/media/how-to-post-a-link-on-twitter/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部8頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部8頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部8頁・検索9回）"
+ }
+}

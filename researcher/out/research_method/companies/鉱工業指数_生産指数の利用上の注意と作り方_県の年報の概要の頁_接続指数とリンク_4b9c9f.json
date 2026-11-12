@@ -8,95 +8,43 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-09T13:17:11.003896+00:00",
+ "researched_at": "2026-11-11T22:55:41.729240+00:00",
  "evidence": {
-  "手順・やり方": [
+  "一次情報の探し方": [
    {
-    "quote": "advises interested Governments on the ways and means of translating policy frameworks",
-    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
+    "quote": "経済産業省 大臣官房 調査統計グループ 経済解析室",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "経済産業省 大臣官房 調査統計グループ 経済解析室",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/index.html",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "manual published by the United Nations in 1950. It takes into account methodological",
+    "quote": "162. The two primary sources of data to compile the movements in an IIP are:",
     "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "利用上の注意、用語",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "利用上の注意、用語",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/index.html",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "and describes new recommended methodological standards for the compilation of index",
-    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The updated methodology described in this publication, used with the Manual for an",
-    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "In addition to outlining the standard methodology, this publication also provides practical",
-    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "guidance for actual steps in the index number calculation and presents recommended",
-    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "methods for each industry in its scope to assist countries in producing high-quality short-",
-    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "methodology related to the compilation of index numbers for the services sector of the",
-    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "1.5.3 Sources and methods .................................................................................................... 17",
-    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Chapter 4: Sources and Methods .................................................................................. 38",
-    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "4.2 Methods to obtain industrial production volumes ...................................................... 44",
-    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "4.3 Recommended variables and methods to obtain industrial production volumes........ 46",
-    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "5.5.1 A step-by-step guide to compiling the index ................................................................ 83",
-    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Appendix 5 (c): Using the volume extrapolation method to calculate the IIP .................... 125",
-    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "7.2 Evaluating the suitability of data variables and methods.......................................... 142",
+    "quote": "discusses potential IIP calculation errors, biases and incompatibilities between",
     "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
@@ -189,6 +137,98 @@
    },
    {
     "quote": "overlap period or, if not available, some estimate made.",
+    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "advises interested Governments on the ways and means of translating policy frameworks",
+    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "manual published by the United Nations in 1950. It takes into account methodological",
+    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "and describes new recommended methodological standards for the compilation of index",
+    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The updated methodology described in this publication, used with the Manual for an",
+    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "In addition to outlining the standard methodology, this publication also provides practical",
+    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "guidance for actual steps in the index number calculation and presents recommended",
+    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "methods for each industry in its scope to assist countries in producing high-quality short-",
+    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "methodology related to the compilation of index numbers for the services sector of the",
+    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "1.5.3 Sources and methods .................................................................................................... 17",
+    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Chapter 4: Sources and Methods .................................................................................. 38",
+    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4.2 Methods to obtain industrial production volumes ...................................................... 44",
+    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4.3 Recommended variables and methods to obtain industrial production volumes........ 46",
+    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "5.5.1 A step-by-step guide to compiling the index ................................................................ 83",
+    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Appendix 5 (c): Using the volume extrapolation method to calculate the IIP .................... 125",
+    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "7.2 Evaluating the suitability of data variables and methods.......................................... 142",
     "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
@@ -297,46 +337,6 @@
     "pass": 3,
     "first_seen": "2026-11-08"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "経済産業省 大臣官房 調査統計グループ 経済解析室",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "経済産業省 大臣官房 調査統計グループ 経済解析室",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/index.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "162. The two primary sources of data to compile the movements in an IIP are:",
-    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "利用上の注意、用語",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "利用上の注意、用語",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/index.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "discusses potential IIP calculation errors, biases and incompatibilities between",
-    "url": "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
   ]
  },
  "figures": {},
@@ -349,11 +349,6 @@
    },
    {
     "url": "https://note.com/edger_signal/n/n282a89a1263d",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/good_elk973/n/n5a804062c475?magazine_key=mf1438619774d",
     "status": "ok",
     "method": "http"
    },
@@ -373,6 +368,11 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/shuichichiba/n/n9fa452f4f967",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou.html",
     "status": "ok",
     "method": "http"
@@ -383,14 +383,19 @@
     "method": "http"
    },
    {
-    "url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/136902.pdf",
+    "url": "https://note.com/todobuono/n/n9852cee20310",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data.bodik.jp/dataset/3d674aac-7c03-47ba-949e-97e0df46c3cf/resource/35bcdb8f-bd59-4952-892a-24afd0d05787/download",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://note.com/todobuono/n/n9852cee20310",
+    "url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/136902.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://glossary.hub.hit-u.ac.jp/faq/show/345/",
@@ -398,17 +403,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/todobuono/n/n33a05aa48f11",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.e-stat.go.jp/statistics/00550300",
     "status": "ok",
     "method": "http"
    },
@@ -423,37 +418,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.hosei.ac.jp/toukei_data/shuppan/mokuji_sanshi73.html",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/index.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.dlri.co.jp/report/macro/638221.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/176530.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.nikkei.com/article/DGXZQOUA2595N0V20C26A8000000/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ja.wikipedia.org/wiki/%E9%89%B1%E5%B7%A5%E6%A5%AD%E6%8C%87%E6%95%B0",
+    "url": "https://www.e-stat.go.jp/statistics/00550300",
     "status": "ok",
     "method": "http"
    },
@@ -463,7 +428,47 @@
     "method": "pdf"
    },
    {
+    "url": "https://www.stat.go.jp/library/faq/faq08/faq08c01.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/getsurei/2020/01shihyou/shihyou1-7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dlri.co.jp/report/macro/638221.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E9%89%B1%E5%B7%A5%E6%A5%AD%E6%8C%87%E6%95%B0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hosei.ac.jp/toukei_data/shuppan/mokuji_sanshi73.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://www.federalreserve.gov/releases/g17/current/default.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://microdata.gov.in/NADA/index.php/catalog/148",
     "status": "ok",
     "method": "http"
    },
@@ -483,11 +488,6 @@
     "method": "http"
    },
    {
-    "url": "https://microdata.gov.in/NADA/index.php/catalog/148",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://fred.stlouisfed.org/series/INDPRO",
     "status": "network_error:ReadTimeout",
     "method": "http"
@@ -500,37 +500,37 @@
    "results": [
     "https://note.com/matrixflow/n/n079a8261157e",
     "https://note.com/edger_signal/n/n282a89a1263d",
-    "https://note.com/good_elk973/n/n5a804062c475?magazine_key=mf1438619774d",
     "https://note.com/tatsuya_sabato/n/nb4eb490d79ec",
     "https://note.com/kabu_memo_1114/n/ne936fe5a7fd3",
     "https://note.com/efl/n/n58b28e4d1aa6",
     "https://note.com/shuichichiba/n/n9fa452f4f967",
+    "https://note.com/nagi_cpa_tax/n/neb297e1c4899",
     "https://note.com/shiga_being/n/n700e52efaed4",
     "https://note.com/nifty_swift3711/n/nb504b618f413",
-    "https://note.com/seikahaibun/n/nbe552cedb537"
+    "https://note.com/rei_blog/n/naad9c176e39c"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 13
+   "n_hits": 12
   },
   {
    "query": "鉱工業指数・生産指数の利用上の注意と作り方（県の年報の概要の頁・接続指数とリンク係数・年間補正の方法・ふくらまし・採用品目のカバー率・統計の担当者や研究者の解説・4-110） note",
    "results": [
     "https://www.meti.go.jp/statistics/tyo/iip/riyou.html",
     "https://note.com/akiyoshitakumori/n/nf6d2c1bec3cf",
-    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/136902.pdf",
     "https://note.com/todobuono/n/n9852cee20310",
+    "https://data.bodik.jp/dataset/3d674aac-7c03-47ba-949e-97e0df46c3cf/resource/35bcdb8f-bd59-4952-892a-24afd0d05787/download",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/136902.pdf",
     "https://glossary.hub.hit-u.ac.jp/faq/show/345/",
     "https://note.com/todobuono/n/n33a05aa48f11",
-    "https://www.e-stat.go.jp/statistics/00550300",
-    "https://www.pref.ehime.jp/page/3015.html",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
     "https://crea-lp.com/lab/industrial-production-index/",
     "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2024/04sankouR6.pdf"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -540,55 +540,54 @@
    "results": [
     "https://www.meti.go.jp/statistics/tyo/iip/riyou.html",
     "https://www.pref.hiroshima.lg.jp/uploaded/attachment/136902.pdf",
+    "https://data.bodik.jp/dataset/3d674aac-7c03-47ba-949e-97e0df46c3cf/resource/35bcdb8f-bd59-4952-892a-24afd0d05787/download",
     "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
     "https://glossary.hub.hit-u.ac.jp/faq/show/345/",
-    "https://www.e-stat.go.jp/statistics/00550300",
-    "https://crea-lp.com/lab/industrial-production-index/",
     "https://www.youtube.com/watch?v=1zsdkReBDbI",
+    "https://crea-lp.com/lab/industrial-production-index/",
     "https://www.rosei.jp/readers/article/57458",
-    "https://www.hosei.ac.jp/toukei_data/shuppan/mokuji_sanshi73.html",
-    "https://www.meti.go.jp/statistics/tyo/iip/"
+    "https://www.e-stat.go.jp/statistics/00550300",
+    "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2024/04sankouR6.pdf"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 15
   },
   {
    "query": "鉱工業指数・生産指数の利用上の注意と作り方（県の年報の概要の頁・接続指数とリンク係数・年間補正の方法・ふくらまし・採用品目のカバー率・統計の担当者や研究者の解説・4-110） 事例",
    "results": [
     "https://www.meti.go.jp/statistics/tyo/iip/index.html",
     "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
+    "https://www5.cao.go.jp/keizai3/getsurei/2020/01shihyou/shihyou1-7.pdf",
     "https://www.meti.go.jp/statistics/tyo/iip/riyou.html",
     "https://crea-lp.com/lab/industrial-production-index/",
-    "https://www.dlri.co.jp/report/macro/638221.html",
     "https://www.e-stat.go.jp/statistics/00550300",
-    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/176530.pdf",
-    "https://www.nikkei.com/article/DGXZQOUA2595N0V20C26A8000000/",
+    "https://www.dlri.co.jp/report/macro/638221.html",
     "https://ja.wikipedia.org/wiki/%E9%89%B1%E5%B7%A5%E6%A5%AD%E6%8C%87%E6%95%B0",
-    "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2024/04sankouR6.pdf"
+    "https://www.hosei.ac.jp/toukei_data/shuppan/mokuji_sanshi73.html",
+    "https://www.meti.go.jp/statistics/tyo/iip/riyou-2.pdf"
    ],
    "engines": [
     "ddgs:bing",
-    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 15
   },
   {
    "query": "how to use industrial production index base year linking annual revision weights coverage guide",
    "results": [
     "https://www.federalreserve.gov/releases/g17/current/default.htm",
+    "https://microdata.gov.in/NADA/index.php/catalog/148",
     "https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf",
     "https://www.istat.it/wp-content/uploads/2023/10/Industrial-production-index-note.pdf",
     "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2267531&reg=3&lang=2",
-    "https://microdata.gov.in/NADA/index.php/catalog/148",
     "https://fred.stlouisfed.org/series/INDPRO",
     "https://archive.unescwa.org/sites/www.unescwa.org/files/u593/iip.pdf",
     "https://escoe-website.s3.amazonaws.com/wp-content/uploads/2018/10/30112210/The-Index-of-Industrial-Production-and-Other-Output-Measures.pdf",
     "https://www.mospi.gov.in/uploads/documents/documents/1779702577643-Report_of_TAC_IIP_Final.pdf",
-    "https://www.federalreserve.gov/releases/g17/current/"
+    "https://www.federalreserve.gov/releases/G17/revisions/20251124/DefaultRev.htm"
    ],
    "engines": [
     "ddgs:google",
@@ -602,16 +601,16 @@
     "https://note.com/edger_signal/n/n282a89a1263d",
     "https://note.com/tatsuya_sabato/n/nb4eb490d79ec",
     "https://note.com/kabu_memo_1114/n/ne936fe5a7fd3",
-    "https://note.com/shiga_being/n/n700e52efaed4",
     "https://note.com/shuichichiba/n/n9fa452f4f967",
     "https://note.com/nagi_cpa_tax/n/neb297e1c4899",
+    "https://note.com/shiga_being/n/n700e52efaed4",
     "https://note.com/nifty_swift3711/n/nb504b618f413",
     "https://note.com/seikahaibun/n/nbe552cedb537",
     "https://note.com/rei_blog/n/naad9c176e39c",
     "https://note.com/miura_finance/n/n09a75b8b5ad1"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 10
@@ -620,34 +619,28 @@
    "query": "site:x.com 鉱工業指数・生産指数の利用上の注意と作り方（県の年報の概要の頁・接続指数とリンク係数・年間補正の方法・ふくらまし・採用品目のカバー率・統計の担当者や研究者の解説・4-110）",
    "results": [
     "https://x.com/JEconomicRJP/status/2089351549919043820",
-    "https://x.com/I3Xv3t4me684451/status/2070901641952534573",
     "https://x.com/indbgraphreport/status/2049665300162035920",
-    "https://x.com/JEconomicRJP/status/2099483313929134505",
-    "https://x.com/indbgraphreport/status/2049645945554686131",
+    "https://x.com/I3Xv3t4me684451/status/2070901641952534573",
     "https://x.com/meti_Kanto/status/2089895124943650997",
-    "https://x.com/meti_Kanto/status/2081560205838409893"
+    "https://x.com/indbgraphreport/status/2049645945554686131",
+    "https://x.com/meti_Kanto/status/2081560205838409893",
+    "https://x.com/meti_Kanto/status/2104405746100404370"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
   {
    "query": "site:linkedin.com 鉱工業指数・生産指数の利用上の注意と作り方（県の年報の概要の頁・接続指数とリンク係数・年間補正の方法・ふくらまし・採用品目のカバー率・統計の担当者や研究者の解説・4-110）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
-  },
-  {
-   "query": "site:facebook.com 鉱工業指数・生産指数の利用上の注意と作り方（県の年報の概要の頁・接続指数とリンク係数・年間補正の方法・ふくらまし・採用品目のカバー率・統計の担当者や研究者の解説・4-110）",
    "results": [
-    "https://www.facebook.com/groups/335876377687020/",
-    "https://www.facebook.com/groups/335876377687020/posts/1622932318981413/",
-    "https://www.facebook.com/oita.toukei/posts/大分県鉱工業指数2025年5月分を公表しました生産指数季節調整済指数は1098前月比26ポイントとなり３ヶ月連続で上昇しました業種別に生産動向をみると上昇に主に/1194824796022205/",
-    "https://www.facebook.com/oita.toukei/posts/大分県鉱工業指数2024年11月分を公表しました生産指数季節調整済指数は１０２６前月比３９となり３ヶ月ぶりに低下しました業種別に生産動をみると上昇に主に寄与した/1048780070626679/",
-    "https://www.facebook.com/oita.toukei/photos/大分県鉱工業指数2026年1月分を公表しました生産指数季節調整済指数は1243前月比113ポイントとなり５ヶ月ぶりに上昇しました業種別に生産動向をみると上昇に主/1394021032769246/",
-    "https://www.facebook.com/oita.toukei/photos/大分県鉱工業指数2025年3月分を公表しました生産指数季節調整済指数は1057前月比26ポイントとなり２ヶ月ぶりに上昇しました業種別に生産動向をみると上昇に主に/1149943953843623/",
-    "https://www.facebook.com/kanpo.kagoshima/photos/新刊のご案内です指数の作成と利用の改訂版が入荷しております指数の作成に携わる方々実際に指数を利用して経済分析を行う方々へ指数の作成と利用-鉱工業指数読本-第９版/1090383992534770/"
+    "https://www.linkedin.com/help/linkedin/answer/a1341216/?lang=ja",
+    "https://www.linkedin.com/company/roche",
+    "https://pe.linkedin.com/feed/update/urn:li:activity:7334134444322103296/",
+    "https://jp.linkedin.com/pulse/技術者こそ企業経営トップを目指せ-ー-第2章-生産性向上への考え方ビット生産性bと量子ビット生産性q-mitsunobu-koshiba",
+    "https://jp.linkedin.com/posts/think-cell-jp_think-cellの機能②ウォーターフォールグラフ作成-数字の増減を分かりやすく-activity-7234428041509175297-BFqR",
+    "https://in.linkedin.com/in/sudhirsitapati",
+    "https://jp.linkedin.com/posts/koji1974_株浜銀総合研究所の遠藤裕基様が提唱された赤ちゃん物価指数と物価指数総合-activity-7173605254943457280-1qbk"
    ],
    "engines": [
     "ddgs:bing"
@@ -655,21 +648,37 @@
    "n_hits": 7
   },
   {
+   "query": "site:facebook.com 鉱工業指数・生産指数の利用上の注意と作り方（県の年報の概要の頁・接続指数とリンク係数・年間補正の方法・ふくらまし・採用品目のカバー率・統計の担当者や研究者の解説・4-110）",
+   "results": [
+    "https://www.facebook.com/groups/335876377687020/",
+    "https://www.facebook.com/groups/335876377687020/posts/1622932318981413/",
+    "https://www.facebook.com/oita.toukei/posts/大分県鉱工業指数2024年11月分を公表しました生産指数季節調整済指数は１０２６前月比３９となり３ヶ月ぶりに低下しました業種別に生産動をみると上昇に主に寄与した/1048780070626679/",
+    "https://www.facebook.com/oita.toukei/posts/大分県鉱工業指数2025年5月分を公表しました生産指数季節調整済指数は1098前月比26ポイントとなり３ヶ月連続で上昇しました業種別に生産動向をみると上昇に主に/1194824796022205/",
+    "https://www.facebook.com/oita.toukei/photos/大分県鉱工業指数2026年1月分を公表しました生産指数季節調整済指数は1243前月比113ポイントとなり５ヶ月ぶりに上昇しました業種別に生産動向をみると上昇に主/1394021032769246/",
+    "https://www.facebook.com/oita.toukei/photos/大分県鉱工業指数2025年3月分を公表しました生産指数季節調整済指数は1057前月比26ポイントとなり２ヶ月ぶりに上昇しました業種別に生産動向をみると上昇に主に/1149943953843623/",
+    "https://www.facebook.com/kanpo.kagoshima/photos/新刊のご案内です指数の作成と利用の改訂版が入荷しております指数の作成に携わる方々実際に指数を利用して経済分析を行う方々へ指数の作成と利用-鉱工業指数読本-第９版/1090383992534770/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
    "query": "鉱工業指数・生産指数の利用上の注意と作り方（県の年報の概要の頁・接続指数とリンク係数・年間補正の方法・ふくらまし・採用品目のカバー率・統計の担当者や研究者の解説・4-110） note 社長",
    "results": [
     "https://www.meti.go.jp/statistics/tyo/iip/riyou.html",
-    "https://note.com/akiyoshitakumori/n/nf6d2c1bec3cf",
+    "https://note.com/akiyoshitakumori/n/n5533f24ef06e",
     "https://www.pref.hiroshima.lg.jp/uploaded/attachment/136902.pdf",
-    "https://note.com/akiyoshitakumori/n/nb140bdecf965",
+    "https://note.com/todobuono/n/n33a05aa48f11",
+    "https://data.bodik.jp/dataset/3d674aac-7c03-47ba-949e-97e0df46c3cf/resource/35bcdb8f-bd59-4952-892a-24afd0d05787/download",
     "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
-    "https://www.pref.wakayama.lg.jp/prefg/020300/iip/index.html",
-    "https://www.pref.ehime.jp/page/3015.html",
-    "https://note.com/todobuono/n/nf3229adacbdb",
+    "https://note.com/akiyoshitakumori/n/nf6d2c1bec3cf",
     "https://glossary.hub.hit-u.ac.jp/faq/show/345/",
-    "https://www.pref.toyama.jp/sections/1015/lib/iip/yb2024/04sankouR6.pdf"
+    "https://note.com/todobuono/n/n9852cee20310",
+    "https://www.meti.go.jp/statistics/tyo/iip/riyou-2.pdf"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -679,17 +688,17 @@
    "results": [
     "https://www.meti.go.jp/statistics/tyo/iip/index.html",
     "https://www.jil.go.jp/kokunai/statistics/shozai/html/k19.html",
-    "https://www.e-stat.go.jp/statistics/00550300",
-    "https://www.pref.ehime.jp/page/3015.html",
-    "https://x.com/indbgraphreport/status/2105092618950770805",
+    "https://x.com/indbgraphreport/status/2094253920386494668",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&query=country%20code&stat_infid=000040504764",
     "https://www.pref.hiroshima.lg.jp/uploaded/attachment/659367.pdf",
     "https://www.youtube.com/watch?v=1zsdkReBDbI",
-    "https://www.meti.go.jp/statistics/tyo/iip/result-4.html",
     "https://www.nikkei.com/article/DGXZQOUA2595N0V20C26A8000000/",
+    "https://www.meti.go.jp/statistics/tyo/iip/result-4.html",
+    "https://www.stat.go.jp/library/faq/faq08/faq08c01.html",
     "https://www.meti.go.jp/statistics/tyo/iip/riyou.html"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -703,13 +712,13 @@
     "https://www.linkedin.com/in/weirong-tian-02409b72",
     "https://www.linkedin.com/pulse/sap-licensing-guide-enterprise-cios-2025-redresscompliancellc-srdvf",
     "https://www.linkedin.com/pulse/gen-ai-business-97-winter-olympics-edition-eugina-jordan-pgmue",
-    "https://www.linkedin.com/in/ctoddmaiden",
-    "https://www.linkedin.com/in/yoshiyokokawa",
     "https://www.linkedin.com/in/timjoo",
-    "https://www.linkedin.com/posts/wallstreetmojo_financialmodeling-valuation-equityresearch-activity-7503686589735383041-h0ff"
+    "https://www.linkedin.com/in/circular-economy",
+    "https://www.linkedin.com/in/yoshiyokokawa",
+    "https://www.linkedin.com/in/ronnyk"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -717,6 +726,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-08T17:57:06.085680+00:00"
 }

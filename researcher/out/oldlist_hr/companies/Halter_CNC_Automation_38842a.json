@@ -1,0 +1,1103 @@
+{
+ "name": "Halter CNC Automation",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T23:25:33.333938+00:00",
+ "official_url": "https://www.haltercncautomation.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/halter-cnc-robotics-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/halter-cnc-robotics-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "241995 Fillmore Rd, Cascade, Iowa 52033, US",
+    "url": "https://prospeo.io/c/halter-cnc-robotics-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://prospeo.io/c/halter-cnc-robotics-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "CNC Machine Automation | HALTER Loading Robots | Proven, Reliable & Future-Proof",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial automation that grows with your production needs.",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven robot loading systems, trusted by manufacturers worldwide.",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "HALTER develops modular CNC loading robots for a wide range of production environments. Our solutions help manufacturers automate reliably, increase spindle hours, and maintain flexibility.",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "by manufacturers who rely on practical, proven CNC automation in their production.",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You can automate various types of workpieces, variating in shape, size and materials, complex or simple, with short or long cycle times. When needed, we provide customized grippers or gripper fingers.",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You can add extra steps in process - measuring, cleaning, deburring, unloading on pallets etc, initially or as production evolves. Always included in intuitive HALTER SmartControl.",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Over 1,000 HALTER-robots running full-time in production across a wide range of industries and machine brands, proving every day their reliability.",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Future-proof solution",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Add new functionalities or move your HALTER to another CNC at any time — your automation stays flexible and expands as your production and business needs evolve.",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With HALTER, you get more than a robot — a long-term automation partner who keeps your cell performing and profitable as your needs evolve.",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Joseph Hurley, CEO | Pro Products, Inc.",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We are achieving our production target with just one CNC operator.\"",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Martin Richter, Project Manager | Tornado Antriebstechnik",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Because the HALTER LoadAssistant could be adapted to our specific needs, we can produce more flexibly and efficiently.\"",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PRESS RELEASE: Halter Group B.V. joins the Gibas Group",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Basic Pro 12",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Universal Premium 25 & 35",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "TurnStacker Premium 25 & 35",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "MillStacker Premium 25 & 35",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By subscribing, you agree to receive marketing information from HALTER CNC Automation. You can unsubscribe at any time.",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Follow us on social media",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Halter helps companies in aerospace, manufacturing, machinery and automotive achieve greater efficiency and profits from their CNC machines.",
+    "url": "https://www.haltercncautomation.com/about-halter",
+    "pass": 1
+   },
+   {
+    "quote": "HALTER LoadAssistants give you the flexibility to quickly respond to your clients. We enable you to profitably run small and medium-sized batches with quick turnaround times. Day in. Day out.",
+    "url": "https://www.haltercncautomation.com/about-halter",
+    "pass": 1
+   },
+   {
+    "quote": "Halter enables your growth by developing CNC automation solutions for every CNC machine and every end-user. We continuously improve the development, production, distribution and service of our products. Our customers can rely on advanced, robust and reliable automation - so they can deliver for their customers.",
+    "url": "https://www.haltercncautomation.com/about-halter",
+    "pass": 1
+   },
+   {
+    "quote": "HALTER LoadAssistants are available in more than 25 countries. With short set-up times and fast integration processes, our robotic solutions give you the flexibility to quickly respond to your customers.",
+    "url": "https://www.haltercncautomation.com/about-halter",
+    "pass": 1
+   },
+   {
+    "quote": "Hundreds of HALTER LoadAssistants are being used by satisfied customers. Through an international network of certified partners and Halter field service engineers, you can expect the very best from us. Like short delivery times, turnkey delivery, set-up and training.",
+    "url": "https://www.haltercncautomation.com/about-halter",
+    "pass": 1
+   },
+   {
+    "quote": "HALTER CNC Automation has an international network of certified service partners so that high-quality service can be provided with every system supplied. Through training and annual certification of our service partners, a consistently",
+    "url": "https://www.haltercncautomation.com/about-halter",
+    "pass": 1
+   },
+   {
+    "quote": "Basic Pro 12",
+    "url": "https://www.haltercncautomation.com/about-halter",
+    "pass": 1
+   },
+   {
+    "quote": "Universal Premium 25 & 35",
+    "url": "https://www.haltercncautomation.com/about-halter",
+    "pass": 1
+   },
+   {
+    "quote": "TurnStacker Premium 25 & 35",
+    "url": "https://www.haltercncautomation.com/about-halter",
+    "pass": 1
+   },
+   {
+    "quote": "MillStacker Premium 25 & 35",
+    "url": "https://www.haltercncautomation.com/about-halter",
+    "pass": 1
+   },
+   {
+    "quote": "By subscribing, you agree to receive marketing information from HALTER CNC Automation. You can unsubscribe at any time.",
+    "url": "https://www.haltercncautomation.com/about-halter",
+    "pass": 1
+   },
+   {
+    "quote": "Follow us on social media",
+    "url": "https://www.haltercncautomation.com/about-halter",
+    "pass": 1
+   },
+   {
+    "quote": "At HALTER we are passionate about technology and our customers. We want to improve every day and ensure that machining companies become more efficient by providing them with accessible robotic technology. We always do what we promise and that is appreciated by our customers and our employees. Collaboration and collegiality are among our core values.",
+    "url": "https://www.haltercncautomation.com/working-at-halter",
+    "pass": 1
+   },
+   {
+    "quote": "Are you a passionate professional who can help improve our organization? Are you interested in working in a secure environment where you can develop yourself?",
+    "url": "https://www.haltercncautomation.com/working-at-halter",
+    "pass": 1
+   },
+   {
+    "quote": "Basic Pro 12",
+    "url": "https://www.haltercncautomation.com/working-at-halter",
+    "pass": 1
+   },
+   {
+    "quote": "Universal Premium 25 & 35",
+    "url": "https://www.haltercncautomation.com/working-at-halter",
+    "pass": 1
+   },
+   {
+    "quote": "TurnStacker Premium 25 & 35",
+    "url": "https://www.haltercncautomation.com/working-at-halter",
+    "pass": 1
+   },
+   {
+    "quote": "MillStacker Premium 25 & 35",
+    "url": "https://www.haltercncautomation.com/working-at-halter",
+    "pass": 1
+   },
+   {
+    "quote": "By subscribing, you agree to receive marketing information from HALTER CNC Automation. You can unsubscribe at any time.",
+    "url": "https://www.haltercncautomation.com/working-at-halter",
+    "pass": 1
+   },
+   {
+    "quote": "Follow us on social media",
+    "url": "https://www.haltercncautomation.com/working-at-halter",
+    "pass": 1
+   },
+   {
+    "quote": "HALTER Modular is a flexible, scalable loading robot for turning and milling. Industrial automation that grows with your production needs.",
+    "url": "https://www.haltercncautomation.com/loading-robots",
+    "pass": 1
+   },
+   {
+    "quote": "Basic Pro 12",
+    "url": "https://www.haltercncautomation.com/loading-robots",
+    "pass": 1
+   },
+   {
+    "quote": "Basic Pro is a basic, yet professional loading robot for turning and milling. Industrial technology for the price of a cobot system.",
+    "url": "https://www.haltercncautomation.com/loading-robots",
+    "pass": 1
+   },
+   {
+    "quote": "The Universal Compact 12 is a robotic loading solution for turning and milling with the smallest footprint in our Universal product range, at the most competitive price in the market. covering the complete range of workpieces up to 135 mm.",
+    "url": "https://www.haltercncautomation.com/loading-robots",
+    "pass": 1
+   },
+   {
+    "quote": "Universal Premium 25 & 35",
+    "url": "https://www.haltercncautomation.com/loading-robots",
+    "pass": 1
+   },
+   {
+    "quote": "The Universal Premium 25/35 is a robotic loading solution for turning and milling, covering the complete range of workpieces up to 270 mm.",
+    "url": "https://www.haltercncautomation.com/loading-robots",
+    "pass": 1
+   },
+   {
+    "quote": "Our TurnStackers are made for round, symmetrical parts that fit efficiently in stacks— bushings, rings and flanges for example. Stacking gives you high capacity in a compact footprint, making them very productive for repetitive turning work.",
+    "url": "https://www.haltercncautomation.com/loading-robots",
+    "pass": 1
+   },
+   {
+    "quote": "The TurnStacker Compact 12 is a robotic loading solution for turning with the smallest footprint in our TurnStacker product range. Great for loading flanges and gears. It has a high capacity for diameters up to 160 mm.",
+    "url": "https://www.haltercncautomation.com/loading-robots",
+    "pass": 1
+   },
+   {
+    "quote": "TurnStacker Premium 25 & 35",
+    "url": "https://www.haltercncautomation.com/loading-robots",
+    "pass": 1
+   },
+   {
+    "quote": "The TurnStacker Premium 25/35 is a robotic loading solution for turning. Great for loading flanges and gears. It has a high capacity for diameters up to 230 mm.",
+    "url": "https://www.haltercncautomation.com/loading-robots",
+    "pass": 1
+   },
+   {
+    "quote": "For High-Volume Milling Jobs With Prismatic or Block-Shaped Parts",
+    "url": "https://www.haltercncautomation.com/loading-robots",
+    "pass": 1
+   },
+   {
+    "quote": "Our MillStackers are designed for uniform rectangular parts that can be placed in stacks. This ensures solid capacity and stable handling, making them a strong fit for steady milling work and series production.",
+    "url": "https://www.haltercncautomation.com/loading-robots",
+    "pass": 1
+   },
+   {
+    "quote": "The MillStacker Compact 12 is a robotic loading solution for milling with the smallest footprint in our MillStacker product range. It has a high capacity for workpieces up to 200 mm.",
+    "url": "https://www.haltercncautomation.com/loading-robots",
+    "pass": 1
+   },
+   {
+    "quote": "MillStacker Premium 25 & 35",
+    "url": "https://www.haltercncautomation.com/loading-robots",
+    "pass": 1
+   },
+   {
+    "quote": "The MillStacker Premium 25/35 is a robotic loading solution for milling with a high capacity for workpieces up to 280 mm.",
+    "url": "https://www.haltercncautomation.com/loading-robots",
+    "pass": 1
+   },
+   {
+    "quote": "We’ll be happy to answer any practical questions and show you how our automation can be used for your CNC machine.",
+    "url": "https://www.haltercncautomation.com/loading-robots",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you add them from the start or integrate later, these functionalities allow the system to evolve with your production.",
+    "url": "https://www.haltercncautomation.com/loading-robots",
+    "pass": 1
+   },
+   {
+    "quote": "The robot unloads the CNC machine and then moves the workpiece to an external cleaning station before returning the workpiece to the HALTER LoadAssistant.",
+    "url": "https://www.haltercncautomation.com/loading-robots",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Industrial automation that grows with your production needs.",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven robot loading systems, trusted by manufacturers worldwide.",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "HALTER develops modular CNC loading robots for a wide range of production environments. Our solutions help manufacturers automate reliably, increase spindle hours, and maintain flexibility.",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "by manufacturers who rely on practical, proven CNC automation in their production.",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Good operators are hard to find and harder to keep. A robot takes over the repetitive work so your skilled people stay — and new talent actually wants the job.",
+    "url": "https://www.haltercncautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Halter helps companies in aerospace, manufacturing, machinery and automotive achieve greater efficiency and profits from their CNC machines.",
+    "url": "https://www.haltercncautomation.com/about-halter",
+    "pass": 1
+   },
+   {
+    "quote": "For over 30 years, Halter has advanced the field of CNC automation. We have developed a loading robotic arm, which is easily connected with any CNC machine. This helps you increase the efficiency of your operators.",
+    "url": "https://www.haltercncautomation.com/about-halter",
+    "pass": 1
+   },
+   {
+    "quote": "Hundreds of HALTER LoadAssistants are being used by satisfied customers. Through an international network of certified partners and Halter field service engineers, you can expect the very best from us. Like short delivery times, turnkey delivery, set-up and training.",
+    "url": "https://www.haltercncautomation.com/about-halter",
+    "pass": 1
+   },
+   {
+    "quote": "HALTER LOADING ROBOTS FOR EVERY SHOP FLOOR",
+    "url": "https://www.haltercncautomation.com/loading-robots",
+    "pass": 1
+   },
+   {
+    "quote": "HALTER Modular is a flexible, scalable loading robot for turning and milling. Industrial automation that grows with your production needs.",
+    "url": "https://www.haltercncautomation.com/loading-robots",
+    "pass": 1
+   },
+   {
+    "quote": "Basic Pro is a basic, yet professional loading robot for turning and milling. Industrial technology for the price of a cobot system.",
+    "url": "https://www.haltercncautomation.com/loading-robots",
+    "pass": 1
+   },
+   {
+    "quote": "HALTER Modular is a flexible, scalable loading robot for turning and milling. Industrial automation that grows with your production needs.",
+    "url": "https://www.haltercncautomation.com/how-to-automate-cnc-machine",
+    "pass": 1
+   },
+   {
+    "quote": "Basic Pro is a basic, yet professional loading robot for turning and milling. Industrial technology for the price of a cobot system.",
+    "url": "https://www.haltercncautomation.com/how-to-automate-cnc-machine",
+    "pass": 1
+   },
+   {
+    "quote": "Halter helps aerospace, manufacturing, machinery, and automotive companies achieve greater efficiency and profits from their CNC machines. For over 30 years, Halter has advanced the field of CNC automation.",
+    "url": "https://precision-tec.com/automation-machines/halter/",
+    "pass": 3
+   },
+   {
+    "quote": "They have developed a loading robotic arm, which is easily connected to any CNC machine. This helps you increase the efficiency of your operators. HALTER LoadAssistants give you the flexibility to respond to your clients quickly. We enable you to run small and medium-sized batches with quick turnaround times profitably.",
+    "url": "https://precision-tec.com/automation-machines/halter/",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to receive the latest videos, insights, and exclusive content from the world of manufacturing",
+    "url": "https://mtdcnc.com/case-studies/halter-cnc-automation/why-use-a-halter-robot-arm/",
+    "pass": 3
+   },
+   {
+    "quote": "Insights and strategies to keep you one step ahead in manufacturing.",
+    "url": "https://mtdcnc.com/case-studies/halter-cnc-automation/why-use-a-halter-robot-arm/",
+    "pass": 3
+   },
+   {
+    "quote": "Case study: Lathe tending system modified to extend unattended production | Zenoot | Manufacturing news, industry insights and case studies",
+    "url": "https://zenoot.com/articles/case-study-lathe-tending-system-modified-to-extend-unattended-production/",
+    "pass": 3
+   },
+   {
+    "quote": "Case study: Lathe tending system modified to extend unattended production",
+    "url": "https://zenoot.com/articles/case-study-lathe-tending-system-modified-to-extend-unattended-production/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of industrial automation systems intended to support CNC machining and manufacturing operations.",
+    "url": "https://pitchbook.com/profiles/company/143603-56",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/143603-56",
+    "pass": 3
+   },
+   {
+    "quote": "Automation Machinery Manufacturing",
+    "url": "https://prospeo.io/c/halter-cnc-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "• CNC operators are relieved of simple and repetitive tasks",
+    "url": "https://prospeo.io/c/halter-cnc-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "The HALTER LoadAssistant was developed in cooperation with the Fastems Group. Fastems is the world leader in the field of manufacturing automation. It has installed more than 1,500 FMS systems (Flexible Manufacturing Systems) and implemented more than 350 portals and 1,600 robotic systems worldwide.",
+    "url": "https://prospeo.io/c/halter-cnc-robotics-revenue",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "At HALTER we are passionate about technology and our customers. We want to improve every day and ensure that machining companies become more efficient by providing them with accessible robotic technology. We always do what we promise and that is appreciated by our customers and our employees. Collaboration and collegiality are among our core values.",
+    "url": "https://www.haltercncautomation.com/working-at-halter",
+    "pass": 1
+   },
+   {
+    "quote": "IS YOUR CNC MACHINE NOT LISTED HERE?",
+    "url": "https://www.haltercncautomation.com/how-to-automate-cnc-machine",
+    "pass": 1
+   },
+   {
+    "quote": "HALTER CNC Automation has 29 total employees.",
+    "url": "https://pitchbook.com/profiles/company/143603-56",
+    "pass": 3
+   },
+   {
+    "quote": "What is HALTER CNC Automation’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/143603-56",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for HALTER CNC Automation is",
+    "url": "https://pitchbook.com/profiles/company/143603-56",
+    "pass": 3
+   },
+   {
+    "quote": "HALTER CNC Robotics Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/halter-cnc-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "HALTER CNC Robotics Revenue",
+    "url": "https://prospeo.io/c/halter-cnc-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At HALTER CNC Robotics",
+    "url": "https://prospeo.io/c/halter-cnc-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/halter-cnc-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/halter-cnc-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/halter-cnc-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of HALTER CNC Robotics?",
+    "url": "https://prospeo.io/c/halter-cnc-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "HALTER CNC Robotics generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/halter-cnc-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/halter-cnc-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/halter-cnc-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does HALTER CNC Robotics have?",
+    "url": "https://prospeo.io/c/halter-cnc-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/halter-cnc-robotics-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "No worries, our models can be connected to any new or used cnc machines of any brand. Check here the models or contact us for best options for automation of your CNC machine.",
+    "url": "https://www.haltercncautomation.com/how-to-automate-cnc-machine",
+    "pass": 1
+   },
+   {
+    "quote": "Or contact us via the button below.",
+    "url": "https://www.haltercncautomation.com/how-to-automate-cnc-machine",
+    "pass": 1
+   },
+   {
+    "quote": "Info@Precision-Tec.com",
+    "url": "https://precision-tec.com/automation-machines/halter/",
+    "pass": 3
+   },
+   {
+    "quote": "Thank you for adding your email",
+    "url": "https://mtdcnc.com/case-studies/halter-cnc-automation/why-use-a-halter-robot-arm/",
+    "pass": 3
+   },
+   {
+    "quote": "Email more info on this story",
+    "url": "https://mtdcnc.com/case-studies/halter-cnc-automation/why-use-a-halter-robot-arm/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/143603-56",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/halter-cnc-robotics-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "HALTER CNC Automation dealers — All our partners are well-known dealers of CNC machines and/or service companies, who are all trained and certified for turnkey delivery and commissioning of the HALTER LoadAssistant on any brand of CNC machine.",
+    "url": "https://www.haltercncautomation.com/dealers",
+    "pass": 3
+   },
+   {
+    "quote": "HALTER CNC Automation - LinkedIn 日本 — HALTER works continuously on the development, production, distribution and service of our products. We do this with a team of specialists and by working together with highly qualified suppliers...",
+    "url": "https://jp.linkedin.com/company/halter-cnc-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Halter CNC Automation Knowledge base — Discover the latest knowledge of CNC Automation. Three reasons why the HALTER LoadAssistant is the right solution for CNC operators 19 April 2020 Smaller batches, shorter delivery times, a shortage of skilled workforce and machine tools that are too expensive in relation to the ...",
+    "url": "https://www.haltercncautomation.com/knowledge",
+    "pass": 3
+   },
+   {
+    "quote": "HALTER CNC Automation | Issum - FacebookHALTER CNC Automation - LinkedInHALTER CNC Automation - LinkedInHALTER CNC Automation | LinkedInHELLER USA | CNC machine tools for metal-cutting — Oct 22, 2026 · HALTER CNC Automation, Issum. 303 followers · 3 talking about this. HALTER CNC Automation is manufacturer of the HALTER LoadAssistant®, robotic systems for automatic loading of your CNC machine. The",
+    "url": "https://www.facebook.com/haltercncautomation/",
+    "pass": 3
+   },
+   {
+    "quote": "HALTER CNC Automation - LinkedIn — HALTER CNC Automation Automation Machinery Manufacturing Issum, North Rhine-Westphalia 3,439 followers We help companies achieve greater efficiency and profits from their CNC machines.",
+    "url": "https://www.linkedin.com/company/halter-cnc-automation/",
+    "pass": 3
+   },
+   {
+    "quote": "HALTER CNC Automation - LinkedIn — HALTER CNC Automation | 3.433 volgers op LinkedIn. We help companies achieve greater efficiency and profits from their CNC machines. | OUR MISSION To enable economic growth through development of CNC automation solutions for every CNC machine, for every end-user. HALTER works continuously on the development, production, distribution and service of our products. W",
+    "url": "https://nl.linkedin.com/company/halter-cnc-automation",
+    "pass": 3
+   },
+   {
+    "quote": "CNC Robotic Arm Systems - Halter CNC Automation — Halter helps companies in aerospace, manufacturing, machinery and automotive achieve greater efficiency and profits from their CNC machines. For over 30 years, Halter has advanced the field of CNC automation. We have developed a CNC robotic arm system, which is easily connected with any CNC machine.",
+    "url": "https://www.haltercncautomation.com/en-us/about-halter",
+    "pass": 3
+   },
+   {
+    "quote": "HALTER CNC Automation | LinkedIn — HALTER works continuously on the development, production, distribution and service of our products. We do this with a team of specialists and by working together with highly qualified suppliers...",
+    "url": "https://jp.linkedin.com/company/halter-cnc-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Home - HALTER CNC Automation - IndustryArena — Halter helps companies in aerospace, manufacturing, machinery and automotive achieve greater efficiency and profits from their CNC machines. For over 30 years, Halter has advanced the field of CNC automation. We have developed a loading robotic arm, which is easily connected with any CNC machine.",
+    "url": "https://en.industryarena.com/halter-cnc-automation",
+    "pass": 3
+   },
+   {
+    "quote": "HALTER CNC Automation Cases & Experiences | Halter CNC Automation — CNC Automation examples, cases and customer experiences. See how HALTER CNC Automation has assisted many companies with automation of their CNC machinery.",
+    "url": "https://www.haltercncautomation.com/en-us/cases",
+    "pass": 3
+   },
+   {
+    "quote": "HALTER CNC Automation examples, cases and experiences — CNC Automation examples, cases and customer experiences. See how HALTER CNC Automation has assisted many companies with automation of their CNC machinery.",
+    "url": "https://www.haltercncautomation.com/cases",
+    "pass": 3
+   },
+   {
+    "quote": "Why Use A Halter Robot Arm? - MTDCNC - The home of CNC ... — Jul 29, 2019 · Halter CNC Automation provide an automated solution for your machine tools, whether it’s turning or milling. Here we talk to Ollie from Rotec who talks to us about why he likes the easy, versatility and simplicity of the system.",
+    "url": "https://mtdcnc.com/case-studies/halter-cnc-automation/why-use-a-halter-robot-arm/",
+    "pass": 3
+   },
+   {
+    "quote": "Case study: Lathe tending system modified to extend ... - Zenoot — Case study: Lathe tending system modified to extend unattended production Compact robotic systems from Halter CNC Automation, Holland, are ideally suited to loading and unloading CNC machine tools, as family business Armbruster GmbH in Steinach, southwest Germany reports.",
+    "url": "https://zenoot.com/articles/case-study-lathe-tending-system-modified-to-extend-unattended-production/",
+    "pass": 3
+   },
+   {
+    "quote": "Optimization of contract manufacturing through robot cells — Mar 21, 2025 · Learn how Frank Verzahnungstechnik optimized their manufacturing with robot cells from Halter CNC Automation - a practical report.",
+    "url": "https://www.all-about-industries.com/optimization-of-contract-manufacturing-through-robot-cells-a-55248172ea8212a0af87134615a0ba5d/",
+    "pass": 3
+   },
+   {
+    "quote": "HALTER CNC Automation 2026 Company Profile: Valuation ... — Information on valuation, funding, cap tables, investors, and executives for HALTER CNC Automation. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/143603-56",
+    "pass": 3
+   },
+   {
+    "quote": "Halter 2026 Company Profile: Valuation, Funding & Investors ...HALTER CNC Robotics Revenue, Funding & ValuationHalter Revenue 2025: $35.9M, $1B Valuation - getlatka.comHalter - 2026 Company Profile, Funding, Competitors ... - TracxnHalter Stock Price, Funding, Valuation, Revenue & Financial ...HALTER CNC Robotics - Overview, News & Similar companies ... — Information on valuation, funding, cap tab",
+    "url": "https://pitchbook.com/profiles/company/222541-12",
+    "pass": 3
+   },
+   {
+    "quote": "Halter - 2026 Company Profile, Funding, Competitors ... - TracxnHalter Stock Price, Funding, Valuation, Revenue & Financial ...HALTER CNC Robotics - Overview, News & Similar companies ... — Jul 18, 2026 · Halter is a series E company based in Auckland (New Zealand), founded in 2016. It operates as a Revolutionizing pasture management with virtual fencing and animal monitoring technology. Halter ha",
+    "url": "https://tracxn.com/d/companies/halter/__HsYA_WxDur354Kxpn1S7gvnXGY73vgtvh5yGiWeDddU",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "HALTER CNCAutomation (@HALTERCNC) / Posts / X Dec 10, 2015 · On 4, 5 and 6 December you will get the opportunity to experience how easy it is to use the HALTER LoadAssistant. Discover the simplicity of our loading robot by visiting HALTER CNC Automation during the Technology Days at Okuma.",
+    "url": "https://x.com/HALTERCNC",
+    "pass": 3
+   },
+   {
+    "quote": "HALTER CNC Automation is dit jaar weer aanwezig tijdens de ... Nov 22, 2018 · HALTER CNC Automation is dit jaar weer aanwezig tijdens de Open Huis dagen van Dormac. Altijd al willen weten hoe je het productieproces kan automatiseren? Kom dan langs en ervaar het gemak van de HALTER LoadAssistant. Vandaag en morgen zijn we aanwezig van 10:00 tot 21:00 uur. HALTER CNCAutomationHALTERCNC Nov 22",
+    "url": "https://x.com/HALTERCNC/status/1065659020718034944",
+    "pass": 3
+   },
+   {
+    "quote": "Wer sich wie die Frank Verzahnungstechnik als ... Mar 10, 2025 · Wer sich wie die Frank Verzahnungstechnik als hochspezialisierter #Lohnfertiger innerhalb weniger Jahre mehrfach für eine #Roboterzelle von Halter CNC Automation entscheidet, hat gute Gründe. ⚙️👉 maschinenmarkt.vogel.de/optimierung-lo…",
+    "url": "https://x.com/MaschinenMarkt/status/1899011720909070818",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "HALTER CNC Automation - LinkedIn HALTER works continuously on the development, production, distribution and service of our products. We do this with a team of specialists and by working together with highly qualified suppliers...",
+    "url": "https://www.linkedin.com/company/halter-cnc-automation/",
+    "pass": 3
+   },
+   {
+    "quote": "HALTER CNC Automation - LinkedIn HALTER works continuously on the development, production, distribution and service of our products. We do this with a team of specialists and by working together with highly qualified suppliers...",
+    "url": "https://uk.linkedin.com/company/halter-cnc-automation",
+    "pass": 3
+   },
+   {
+    "quote": "HALTER CNC Automation | LinkedIn HALTER works continuously on the development, production, distribution and service of our products. We do this with a team of specialists and by working together with highly qualified suppliers...",
+    "url": "https://br.linkedin.com/company/halter-cnc-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Rick Hoffman - CEO at Halter Robotics | LinkedInWouter van Halteren - CEO - HALTER CNC Automation | XINGHALTER CNC Automation - LinkedInWe asked our CEO Wouter van... - HALTER CNC Automation - FacebookHALTER CNC Automation | LinkedIn CEO at Halter Robotics · Experience: HALTER CNC Robotics · Location: Farley · 500+ connections on LinkedIn. View Rick Hoffman’s profile on LinkedIn, a professional co",
+    "url": "https://www.linkedin.com/in/rick-hoffman-76334836",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "HALTER CNC Automation | Issum - FacebookHalter North America | Cascade IA - Facebook𝗛𝗮𝗹𝘁𝗲𝗿 𝗚𝗿𝗼𝘂𝗽 𝗕.𝗩. 𝗵𝗮𝘀 𝗯𝗲𝗰𝗼𝗺𝗲 𝗽𝗮𝗿𝘁... - ...𝗡𝗲𝘄 𝗛𝗔𝗟𝗧𝗘𝗥 𝗠𝗼𝗱𝘂𝗹𝗮𝗿 – 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻... - HA...“Lower production costs and... - HALTER CNC Automation ...Robots - Made Easy with HALTER CNC Automation - HALTER ...Whitepaper: CNC Automation -... - HALTER CNC Automation ... Oct 22, 2026 · By taking repetitive machine loading off ",
+    "url": "https://www.facebook.com/haltercncautomation/",
+    "pass": 3
+   },
+   {
+    "quote": "Halter North America | Cascade IA - Facebook𝗛𝗮𝗹𝘁𝗲𝗿 𝗚𝗿𝗼𝘂𝗽 𝗕.𝗩. 𝗵𝗮𝘀 𝗯𝗲𝗰𝗼𝗺𝗲 𝗽𝗮𝗿𝘁... - ...𝗡𝗲𝘄 𝗛𝗔𝗟𝗧𝗘𝗥 𝗠𝗼𝗱𝘂𝗹𝗮𝗿 – 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻... - HA...“Lower production costs and... - HALTER CNC Automation ...Robots - Made Easy with HALTER CNC Automation - HALTER ...Whitepaper: CNC Automation -... - HALTER CNC Automation ... At 𝗜𝗠𝗧𝗦 𝟮𝟬𝟮𝟲, the HALTER CNC Robotics LLC team will demonstrate how simple, flexible automation ",
+    "url": "https://www.facebook.com/HALTERUSA/",
+    "pass": 3
+   },
+   {
+    "quote": "“Lower production costs and... - HALTER CNC Automation ... Jun 10, 2021 · 🇬🇧 “Lower production costs and better delivery reliability” Leonard Euler tells all about his experience with three Halter CNC Automation loading robots...",
+    "url": "https://www.facebook.com/haltercncautomation/posts/811275979496861/",
+    "pass": 3
+   },
+   {
+    "quote": "Robots - Made Easy with HALTER CNC Automation - HALTER ...Whitepaper: CNC Automation -... - HALTER CNC Automation ... Jul 25, 2019 · Robots - Made Easy with HALTER CNC Automation - HALTER Technology Center UK MTD News had a walk through the new HALTER Technology Center in the UK with Steve Price from HALTER CNC Automation. Aug 2, 2021 · challenges facing the manufacturing industry. Smaller series,",
+    "url": "https://www.facebook.com/haltercncautomation/videos/robots-made-easy-with-halter-cnc-automation-halter-technology-center-uk/640050723171905/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.haltercncautomation.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.haltercncautomation.com/about-halter",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.haltercncautomation.com/working-at-halter",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.haltercncautomation.com/loading-robots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.haltercncautomation.com/how-to-automate-cnc-machine",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.haltercncautomation.com/hubfs/Iconen/Satisfied-customers-icon.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://smartagri.jp/p/1869/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/halter-cnc-automation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/haltercncautomation/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/halter-cnc-automation/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://precision-tec.com/automation-machines/halter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/halter-cnc-automation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mtdcnc.com/case-studies/halter-cnc-automation/why-use-a-halter-robot-arm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zenoot.com/articles/case-study-lathe-tending-system-modified-to-extend-unattended-production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zebra.com/us/en/partners/partner-application-locator.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/143603-56",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/222541-12",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/halter-cnc-robotics-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/halter",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/HALTERCNC",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HALTERCNC/status/1065659020718034944",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MaschinenMarkt/status/1899011720909070818",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/halter-cnc-automation/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/halter-cnc-automation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://br.linkedin.com/company/halter-cnc-automation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/haltercncautomation/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/HALTERUSA/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/haltercncautomation/posts/811275979496861/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/haltercncautomation/videos/robots-made-easy-with-halter-cnc-automation-halter-technology-center-uk/640050723171905/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/rick-hoffman-76334836",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Halter CNC Automation 日本 導入",
+   "results": [
+    "https://www.haltercncautomation.com/",
+    "https://www.haltercncautomation.com/dealers",
+    "https://smartagri.jp/p/1869/",
+    "https://jp.linkedin.com/company/halter-cnc-automation",
+    "https://jp.linkedin.com/pulse/cncツールホルダーの日本メーカー2026年版-base-basket-imzve",
+    "https://www.harting.com/ja-JP",
+    "https://www.halder.com/jp"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Halter CNC Automation 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.haltercncautomation.com/",
+    "https://www.haltercncautomation.com/knowledge",
+    "https://www.facebook.com/haltercncautomation/",
+    "https://www.linkedin.com/company/halter-cnc-automation/",
+    "https://nl.linkedin.com/company/halter-cnc-automation",
+    "https://fi.linkedin.com/company/halter-cnc-automation",
+    "https://us.heller.biz/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Halter CNC Automation Japan",
+   "results": [
+    "https://www.haltercncautomation.com/",
+    "https://www.haltercncautomation.com/en-us/about-halter",
+    "https://precision-tec.com/automation-machines/halter/",
+    "https://jp.linkedin.com/company/halter-cnc-automation",
+    "https://en.industryarena.com/halter-cnc-automation",
+    "https://www.linkedin.com/company/halter-group-b-v",
+    "https://www.ellisontechnologies.com/halter-loadassistant"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Halter CNC Automation manufacturing customer case study",
+   "results": [
+    "https://www.haltercncautomation.com/en-us/cases",
+    "https://www.haltercncautomation.com/cases",
+    "https://mtdcnc.com/case-studies/halter-cnc-automation/why-use-a-halter-robot-arm/",
+    "https://zenoot.com/articles/case-study-lathe-tending-system-modified-to-extend-unattended-production/",
+    "https://www.all-about-industries.com/optimization-of-contract-manufacturing-through-robot-cells-a-55248172ea8212a0af87134615a0ba5d/",
+    "https://precision-tec.com/automation-machines/halter/",
+    "https://www.appsruntheworld.com/customers-database/customers/view/halter-cnc-automation-netherlands"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Halter CNC Automation white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.zebra.com/us/en/partners/partner-application-locator.html",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://creators.riotgames.com/en-us",
+    "https://partner.microsoft.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Halter CNC Automation founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/143603-56",
+    "https://pitchbook.com/profiles/company/222541-12",
+    "https://prospeo.io/c/halter-cnc-robotics-revenue",
+    "https://getlatka.com/companies/halter",
+    "https://tracxn.com/d/companies/halter/__HsYA_WxDur354Kxpn1S7gvnXGY73vgtvh5yGiWeDddU",
+    "https://www.cbinsights.com/company/halter/financials",
+    "https://www.zoominfo.com/c/halter-cnc-robotics-llc/370307777"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Halter CNC Automation",
+   "results": [
+    "https://note.com/kentabright",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tag/ディガー",
+    "https://note.com/tag/プリキュア映画",
+    "https://note.com/light_coot554",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d",
+    "https://note.com/fukuso_sutaro/n/nf365aa7a3733"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Halter CNC Automation",
+   "results": [
+    "https://x.com/HALTERCNC",
+    "https://x.com/HALTERCNC/status/1065659020718034944",
+    "https://x.com/jyotiHuron",
+    "https://x.com/MaschinenMarkt/status/1899011720909070818",
+    "https://x.com/MaschinenMarkt/status/1902985150662615132",
+    "https://x.com/hillmachllc",
+    "https://help.x.com/zh-cn/managing-your-account"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Halter CNC Automation",
+   "results": [
+    "https://www.linkedin.com/company/halter-cnc-automation/",
+    "https://uk.linkedin.com/company/halter-cnc-automation",
+    "https://br.linkedin.com/company/halter-cnc-automation",
+    "https://www.linkedin.com/company/halter-cnc-robotics",
+    "https://nl.linkedin.com/company/halter-cnc-automation",
+    "https://it.linkedin.com/company/halter-cnc-automation",
+    "https://nl.linkedin.com/in/woutervanhalteren"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Halter CNC Automation",
+   "results": [
+    "https://www.facebook.com/haltercncautomation/",
+    "https://www.facebook.com/HALTERUSA/",
+    "https://www.facebook.com/haltercncautomation/posts/811275979496861/",
+    "https://www.facebook.com/haltercncautomation/videos/robots-made-easy-with-halter-cnc-automation-halter-technology-center-uk/640050723171905/",
+    "https://www.facebook.com/haltercncautomation/posts/whitepaper-cnc-automation-customised-or-generic-it-is-clear-that-automation-offe/838239830133809/",
+    "https://www.facebook.com/haltercncautomation/posts/𝗛𝗮𝗹𝘁𝗲𝗿-𝗚𝗿𝗼𝘂𝗽-𝗕𝗩-𝗵𝗮𝘀-𝗯𝗲𝗰𝗼𝗺𝗲-𝗽𝗮𝗿𝘁-𝗼𝗳-𝘁𝗵𝗲-𝗚𝗶𝗯𝗮𝘀-𝗚𝗿𝗼𝘂𝗽with-this-step-we-are-bundling/1692409545491920/",
+    "https://www.facebook.com/haltercncautomation/posts/𝗡𝗲𝘄-𝗛𝗔𝗟𝗧𝗘𝗥-𝗠𝗼𝗱𝘂𝗹𝗮𝗿-𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻-𝘁𝗵𝗮𝘁-𝗴𝗿𝗼𝘄𝘀-𝘄𝗶𝘁𝗵-𝘆𝗼𝘂not-every-production-environmen/1901573801242159/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Halter CNC Automation note 社長",
+   "results": [
+    "https://www.haltercncautomation.com/about-halter",
+    "https://www.haltercncautomation.com/",
+    "https://www.linkedin.com/in/rick-hoffman-76334836",
+    "https://www.xing.com/profile/Wouter_vanHalteren",
+    "https://www.linkedin.com/company/halter-cnc-automation/",
+    "https://www.facebook.com/haltercncautomation/posts/we-asked-our-ceo-wouter-van-halteren-about-halter-cnc-automations-mission-and-th/445299529427843/",
+    "https://it.linkedin.com/company/halter-cnc-automation"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Halter CNC Automation X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部27頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部27頁・検索12回）"
+ }
+}

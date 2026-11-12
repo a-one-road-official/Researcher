@@ -1,0 +1,772 @@
+{
+ "name": "有限会社岩井製作所",
+ "aliases": [],
+ "context": "ipros_all:少量",
+ "researched_at": "2026-11-11T23:00:52.254243+00:00",
+ "official_url": "http://www.iwaiseisakusho.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "22名",
+    "url": "https://iwaiseisakusho.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "20名",
+    "url": "https://mono.ipros.com/company/detail/2029547/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "極小部品加工技術とプロセスイノベーションを用いた課題解決",
+    "url": "https://iwaiseisakusho.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社・工場",
+    "value": "〒273-0128",
+    "url": "https://iwaiseisakusho.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "第二工場",
+    "value": "〒273-0128 千葉県鎌ヶ谷市くぬぎ山3-16",
+    "url": "https://iwaiseisakusho.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "微細部品のマグネシウム切削が可能になりました",
+    "url": "https://iwaiseisakusho.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "現在使用しているユニット組立品について「女性でも簡単に曲げられるようにしたい」、「見た目にもこだわりたい」というお客様の要望があり、当社で携わらせてもらったところ、当初は材質もそのまま使用し曲げると固く、曲げると表面処理がはがれたりひびが入っていました",
+    "url": "https://iwaiseisakusho.co.jp/medlical/",
+    "pass": 1
+   },
+   {
+    "quote": "そこで材質、焼入れに関して我々のノウハウを入れて工程を変えてみると客先の要求に近い固さが実現できました",
+    "url": "https://iwaiseisakusho.co.jp/medlical/",
+    "pass": 1
+   },
+   {
+    "quote": "材質：SUS440C",
+    "url": "https://iwaiseisakusho.co.jp/dental/",
+    "pass": 1
+   },
+   {
+    "quote": "材質：SUS304",
+    "url": "https://iwaiseisakusho.co.jp/dental/",
+    "pass": 1
+   },
+   {
+    "quote": "サージカルチタンなど医療用材質の試作切削加工なら岩井製作所",
+    "url": "https://iwaiseisakusho.co.jp/difficult/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンは、元素記号 「Ti」で表される銀灰色の金属です",
+    "url": "https://iwaiseisakusho.co.jp/difficult/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン材料は、主に純チタンとチタン合金の２種類に分けることが出来ます",
+    "url": "https://iwaiseisakusho.co.jp/difficult/",
+    "pass": 1
+   },
+   {
+    "quote": "サージカルチタンとも呼ばれますが決まった規格はありません",
+    "url": "https://iwaiseisakusho.co.jp/difficult/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン合金は、医療用だけではなく、原子炉や熱交換器部品にも多く使われますが、ニッケルを含んでいないため、生体に対してアレルギーが発生しにくいのが特徴です",
+    "url": "https://iwaiseisakusho.co.jp/difficult/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "岩井製作所では、医療メーカー、大学などの研究機関、病院などから要望をいただき、医療器具の試作開発や製造のお手伝いを行っております",
+    "url": "https://iwaiseisakusho.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "他社では難しい小ロットの生産に対応していますのでぜひ一度ご相談ください",
+    "url": "https://iwaiseisakusho.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発なら試作から量産まで一貫対応可能な岩井製作所へ！",
+    "url": "https://iwaiseisakusho.co.jp/shisaku/",
+    "pass": 1
+   },
+   {
+    "quote": "試作・製品開発なら岩井製作所へご相談ください",
+    "url": "https://iwaiseisakusho.co.jp/shisaku/",
+    "pass": 1
+   },
+   {
+    "quote": "医療メーカー、大学などの研究機関、病院などから要望をいただき、医療器具の試作開発や製造に数多くの実績がございます",
+    "url": "https://iwaiseisakusho.co.jp/shisaku/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用器具の試作・開発製作なら岩井製作所へ（鉗子・内視鏡部品等）",
+    "url": "https://iwaiseisakusho.co.jp/medlical/",
+    "pass": 1
+   },
+   {
+    "quote": "機構部分の加工から組み立て及びレーザーでの接合までの試作をお手伝いいたしました",
+    "url": "https://iwaiseisakusho.co.jp/medlical/",
+    "pass": 1
+   },
+   {
+    "quote": "締め付けに必要な力量測定：従来品1.25Kgf 試作品1.25Kgf",
+    "url": "https://iwaiseisakusho.co.jp/medlical/",
+    "pass": 1
+   },
+   {
+    "quote": "増し締めした際の頂点の回転距離：従来品1mm 試作品3mm",
+    "url": "https://iwaiseisakusho.co.jp/medlical/",
+    "pass": 1
+   },
+   {
+    "quote": "歯科用機器・部材の製品開発・試作なら岩井製作所へ",
+    "url": "https://iwaiseisakusho.co.jp/dental/",
+    "pass": 1
+   },
+   {
+    "quote": "サージカルチタンなど医療用材質の試作切削加工なら岩井製作所",
+    "url": "https://iwaiseisakusho.co.jp/difficult/",
+    "pass": 1
+   },
+   {
+    "quote": "切削加工による細穴加工や、新規開発部品、少量でのご発注も承っております",
+    "url": "https://mono.ipros.com/company/detail/2029547/",
+    "pass": 3
+   },
+   {
+    "quote": "『人工心肺装置部品の試作実績（産学連携）』のご紹介",
+    "url": "https://mono.ipros.com/company/detail/2029547/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "岩井製作所では、医療メーカー、大学などの研究機関、病院などから要望をいただき、医療器具の試作開発や製造のお手伝いを行っております",
+    "url": "https://iwaiseisakusho.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製造の資格も取得しておりますので、安心してご発注いただけます",
+    "url": "https://iwaiseisakusho.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では歯科用の機械の部品を主に製作を行っています",
+    "url": "https://iwaiseisakusho.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "国内歯科機器メーカーをはじめ医療機器分野(鉗子、ボーンスクリューなど)、工作機械(ワイヤー、放電の軸など)の研究開発、資材、購買に多く納品し、特に極小部品の加工技術に関わる研究開発段階や市場に出た製品の課題・問題解決事例では多くの実績を重ねてきました",
+    "url": "https://iwaiseisakusho.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "歯科機器、工作機械関係の軸、スピンドル、シャフト、ギヤ、小径、六角、ネジ、駆動部に関わる機構部品",
+    "url": "https://iwaiseisakusho.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "医療メーカー、大学などの研究機関、病院などから要望をいただき、医療器具の試作開発や製造に数多くの実績がございます",
+    "url": "https://iwaiseisakusho.co.jp/shisaku/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製造の資格も取得しておりますので、安心してご依頼頂けます",
+    "url": "https://iwaiseisakusho.co.jp/shisaku/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用器具の試作・開発製作なら岩井製作所へ（鉗子・内視鏡部品等）",
+    "url": "https://iwaiseisakusho.co.jp/medlical/",
+    "pass": 1
+   },
+   {
+    "quote": "岩井製作所では、歯科・医療分野で使われるφ25以下の極小部品を主に製造しております",
+    "url": "https://iwaiseisakusho.co.jp/medlical/",
+    "pass": 1
+   },
+   {
+    "quote": "医療部品の例としては「鉗子」で対応させた頂きました",
+    "url": "https://iwaiseisakusho.co.jp/medlical/",
+    "pass": 1
+   },
+   {
+    "quote": "現在も調査、研究の段階ではありますが医療分野を日本が成長分野と位置付けていることもあり当社では、これまで培ってきた極小部品づくりの技術を用いて最先端の医療製品の仕事を取り入れていくことを目的とし、レーザー溶接技術を取り入れることにしました",
+    "url": "https://iwaiseisakusho.co.jp/medlical/",
+    "pass": 1
+   },
+   {
+    "quote": "歯科用機器・部材の製品開発・試作なら岩井製作所へ",
+    "url": "https://iwaiseisakusho.co.jp/dental/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では数多くの歯科用部材を手掛けております",
+    "url": "https://iwaiseisakusho.co.jp/dental/",
+    "pass": 1
+   },
+   {
+    "quote": "サージカルチタンなど医療用材質の試作切削加工なら岩井製作所",
+    "url": "https://iwaiseisakusho.co.jp/difficult/",
+    "pass": 1
+   },
+   {
+    "quote": "手術用器具、ペースメーカー、歯科材料、車椅子、ステッキ、ピンセット、インプラント、ボーンスクリューなど医療系にもよく使われる部材です",
+    "url": "https://iwaiseisakusho.co.jp/difficult/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン合金は、医療用だけではなく、原子炉や熱交換器部品にも多く使われますが、ニッケルを含んでいないため、生体に対してアレルギーが発生しにくいのが特徴です",
+    "url": "https://iwaiseisakusho.co.jp/difficult/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用には他にステンレスもよく用いられます",
+    "url": "https://iwaiseisakusho.co.jp/difficult/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用ステンレスとは（サージカルステンレス）",
+    "url": "https://iwaiseisakusho.co.jp/difficult/",
+    "pass": 1
+   },
+   {
+    "quote": "一般的に医療用のメスやはさみ、ボルトに使用されるステンレスのことです",
+    "url": "https://iwaiseisakusho.co.jp/difficult/",
+    "pass": 1
+   },
+   {
+    "quote": "会社案内｜金属プレス加工、金型の製作、部品の加工など、金属加工のことなら、株式会社岩井製作所にお任せください",
+    "url": "https://www.iwaiss.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "特に精密小型モーターの部品製造で培ってきた小物部品加工を得意としており今ではその技術を生かした、医療機器 歯科機器 工作機械 空圧部品 梱包機械 など幅広く受注いただいております",
+    "url": "https://mono.ipros.com/company/detail/2029547/",
+    "pass": 3
+   },
+   {
+    "quote": "歯科・医療分野における 極小部品・課題解決事例",
+    "url": "https://mono.ipros.com/company/detail/2029547/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "国内歯科機器メーカーをはじめ医療機器分野(鉗子、ボーンスクリューなど)、工作機械(ワイヤー、放電の軸など)の研究開発、資材、購買に多く納品し、特に極小部品の加工技術に関わる研究開発段階や市場に出た製品の課題・問題解決事例では多くの実績を重ねてきました",
+    "url": "https://iwaiseisakusho.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発なら試作から量産まで一貫対応可能な岩井製作所へ！",
+    "url": "https://iwaiseisakusho.co.jp/shisaku/",
+    "pass": 1
+   },
+   {
+    "quote": "試作・製品開発なら岩井製作所へご相談ください",
+    "url": "https://iwaiseisakusho.co.jp/shisaku/",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発段階では、図面通りに作れば良いというものは少なく、求める用途に合わせて図面変更のご提案をさせていただきます",
+    "url": "https://iwaiseisakusho.co.jp/shisaku/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・コンセプト、企画立案",
+    "url": "https://iwaiseisakusho.co.jp/shisaku/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の製造、組み立て",
+    "url": "https://iwaiseisakusho.co.jp/shisaku/",
+    "pass": 1
+   },
+   {
+    "quote": "岩井製作所では、製品開発の企画設計段階から参加することで、製品の加工実現可能性、機構提案等、作る側の観点から製品開発実現のアドバイスをいたします",
+    "url": "https://iwaiseisakusho.co.jp/shisaku/",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発の全体を把握し、どうすればできるかをお客様と一緒に考えプロジェクトを遂行していきます",
+    "url": "https://iwaiseisakusho.co.jp/shisaku/",
+    "pass": 1
+   },
+   {
+    "quote": "現在も調査、研究の段階ではありますが医療分野を日本が成長分野と位置付けていることもあり当社では、これまで培ってきた極小部品づくりの技術を用いて最先端の医療製品の仕事を取り入れていくことを目的とし、レーザー溶接技術を取り入れることにしました",
+    "url": "https://iwaiseisakusho.co.jp/medlical/",
+    "pass": 1
+   },
+   {
+    "quote": "既存製品の涙道内視鏡に使われるコネクタ部分の市場において現状出ている問題についてチャックの機構の改善提案例です",
+    "url": "https://iwaiseisakusho.co.jp/medlical/",
+    "pass": 1
+   },
+   {
+    "quote": "歯科用機器・部材の製品開発・試作なら岩井製作所へ",
+    "url": "https://iwaiseisakusho.co.jp/dental/",
+    "pass": 1
+   },
+   {
+    "quote": "図面が無い状態からでも利用用途に合わせた仕様設計を行い、ご要望に合わせた製品づくりが可能です",
+    "url": "https://iwaiseisakusho.co.jp/dental/",
+    "pass": 1
+   },
+   {
+    "quote": "旋盤加工は切削加工の一種で、旋盤加工機を使い、製品を回転させ、刃物台に取り付けられた切削工具を当て、加工することをいいます",
+    "url": "https://iwaiseisakusho.co.jp/seimitsu/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の外周を円形や先細形状（テーパ）にしたり、中心に穴を開けたりすることもできます",
+    "url": "https://iwaiseisakusho.co.jp/seimitsu/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(18)",
+    "url": "https://mono.ipros.com/company/detail/2029547/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (18)",
+    "url": "https://mono.ipros.com/company/detail/2029547/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "精密部品加工の 試作 から量産まで 岩井製作所 — 精密部品加工の 試作 から量産まで 岩井製作所 岩井製作所 https://iwaiseisakusho.co.jp",
+    "url": "https://iwaiseisakusho.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 岩井製作所 — 会社概要 - 岩井製作所 岩井製作所 https://iwaiseisakusho.co.jp > company",
+    "url": "https://iwaiseisakusho.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工のことなら、株式 会社岩井製作所 にお任せください。 — 金属加工のことなら、株式 会社岩井製作所 にお任せください。 株式会社岩井製作所 https://www.iwaiss.co.jp > company",
+    "url": "https://www.iwaiss.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "岩井製作所 | 企業 情報 | イプロスものづくり — 岩井製作所 | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2029547/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社 岩井製作所 — 会社概要 - 株式会社 岩井製作所 iwai-ss.co.jp http://www.iwai-ss.co.jp > company",
+    "url": "http://www.iwai-ss.co.jp/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "岩井製作所 様 新 事業 進出補助金 採択事例 - シェアビジョン — 岩井製作所 様 新 事業 進出補助金 採択事例 - シェアビジョン シェアビジョン https://svltd.co.jp > cases > iwai",
+    "url": "https://svltd.co.jp/cases/iwai/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合せ - 岩井製作所 — お問い合せ - 岩井製作所 岩井製作所 https://iwaiseisakusho.co.jp > contacts",
+    "url": "https://iwaiseisakusho.co.jp/contacts/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 株式会社 岩井製作所 — お問い合わせ - 株式会社 岩井製作所 iwai-ss.co.jp http://www.iwai-ss.co.jp > contact",
+    "url": "http://www.iwai-ss.co.jp/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工のことなら、株式会社 岩井製作所 にお任せください。 — 金属加工のことなら、株式会社 岩井製作所 にお任せください。 株式会社岩井製作所 https://www.iwaiss.co.jp > info",
+    "url": "https://www.iwaiss.co.jp/info/",
+    "pass": 3
+   },
+   {
+    "quote": "岩井製作所 | 企業情報 | イプロスものづくり — 岩井製作所 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2029547/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "弊社業務についてのお問い合わせは、こちらで受付しております",
+    "url": "http://www.iwai-ss.co.jp/contact.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://iwaiseisakusho.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwaiseisakusho.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwaiseisakusho.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwaiseisakusho.co.jp/bisai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwaiseisakusho.co.jp/list-index-html/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwaiseisakusho.co.jp/news/202109/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwaiseisakusho.co.jp/shisaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwaiseisakusho.co.jp/medlical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwaiseisakusho.co.jp/dental/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwaiseisakusho.co.jp/seimitsu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwaiseisakusho.co.jp/bisai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwaiseisakusho.co.jp/kensaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwaiseisakusho.co.jp/difficult/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwaiseisakusho.co.jp/list-index-html/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwaiseisakusho.co.jp/shisaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwaiseisakusho.co.jp/medlical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwaiseisakusho.co.jp/dental/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwaiseisakusho.co.jp/seimitsu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwaiseisakusho.co.jp/kensaku/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://iwaiseisakusho.co.jp/wp/wp-content/themes/iwaiseisakusho/assets/img/shisaku/list-03-01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://iwaiseisakusho.co.jp/wp/wp-content/themes/iwaiseisakusho/assets/img/shisaku/list-03-02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://iwaiseisakusho.co.jp/wp/wp-content/themes/iwaiseisakusho/assets/img/shisaku/list-03-03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg-hack.com/plastic/10134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://iwaiseisakusho.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwaiss.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2029547/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwaikinzoku.com/cate-news/6167",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwaiseisakusho.co.jp/contacts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.iwai-ss.co.jp/contact.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "岩井製作所 取扱製品 試作 小ロット",
+   "results": [
+    "https://injection-lab.com/technology/64-2.html",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://iwaiseisakusho.co.jp/",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://www.zen.co.jp/",
+    "https://injection-fuchu.com/column/1203/",
+    "https://san-ss.co.jp/service/plastickanagata/plasticseikeihin-ryousan",
+    "https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%B0%8F%E3%83%AD%E3%83%83%E3%83%88/",
+    "https://mono.ipros.com/product/detail/346169013/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "岩井製作所 会社概要 事業内容",
+   "results": [
+    "https://iwaiseisakusho.co.jp/company/",
+    "https://www.iwaiss.co.jp/company/",
+    "https://mono.ipros.com/company/detail/2029547/",
+    "http://www.iwai-ss.co.jp/company.html",
+    "https://svltd.co.jp/cases/iwai/",
+    "https://compalyze.co.jp/company/2122001024303",
+    "https://www.chiba-chiikishigoto.jp/corpinfo/5174/",
+    "https://fmc.fmddsc.jp/db/81/",
+    "https://metoree.com/companies/71092/",
+    "https://iwaiseisakusho.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "岩井製作所 お問い合わせ メール",
+   "results": [
+    "https://iwaikinzoku.com/cate-news/6167",
+    "https://iwaiseisakusho.co.jp/contacts/",
+    "http://www.iwai-ss.co.jp/contact.html",
+    "https://www.iwaiss.co.jp/info/",
+    "https://mono.ipros.com/company/detail/2029547/",
+    "https://www.iwai.co.jp/inquiry/form/",
+    "https://fmc.fmddsc.jp/db/81/",
+    "https://svltd.co.jp/cases/iwai/",
+    "https://iwaikogyo.com/contact/",
+    "https://aiwaltd.co.jp/pages/5/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com 岩井製作所",
+   "results": [
+    "https://note.com/daikoseiki/n/n8b0498181c7c",
+    "https://note.com/daikoseiki",
+    "https://note.com/kabubake/n/nbca19a52b8c5",
+    "https://note.com/daikoseiki/n/n7bd7beea4842",
+    "https://note.com/iwai_chika777/n/nb9a3106effa9",
+    "https://note.com/daikoseiki/n/n0d9e7e76376c",
+    "https://note.com/kabubake/n/n13b1076ed942?hl=en",
+    "https://note.com/kabubake/m/maa792caa6a89/archive/2026-07",
+    "https://note.com/greenonion_golf/n/n7f842ba0a814",
+    "https://note.com/gann0918"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com 岩井製作所",
+   "results": [
+    "https://x.com/i_w_i_d",
+    "https://x.com/hitoshi_iwai_92/status/1844740312239063311",
+    "https://x.com/iwaicosmo_sec/status/1948302239019196480",
+    "https://x.com/iwaicosmo_sec/status/1938143402396192914",
+    "https://x.com/iwaicosmo_sec",
+    "https://x.com/hitoshi_iwai_92/status/2120502110592639269",
+    "https://x.com/ipusoccer2007/status/2098668815458631741",
+    "https://x.com/hashtag/%E5%B2%A9%E4%BA%95%E5%B0%86%E5%90%BE",
+    "https://x.com/quickdisclosure/status/2080261797098196994",
+    "https://x.com/IWAI_Kiyotaka"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 岩井製作所",
+   "results": [
+    "https://jp.linkedin.com/in/makoto-iwai-49822a1a8",
+    "https://jp.linkedin.com/in/%E7%A5%90%E6%B2%BB-%E5%B2%A9%E4%BA%95-7a1832122",
+    "https://www.linkedin.com/pub/dir/Atsushi/Iwai",
+    "https://jp.linkedin.com/in/%E5%BE%B3%E5%85%89-%E9%AB%98%E5%B6%8B-506ab31b5",
+    "https://www.linkedin.com/pub/dir/Jun/+/jp-7670-Gunma,-Japan",
+    "https://jp.linkedin.com/pub/dir/Atsushi/Iwai/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/in/yutaka-shibata-b4b038b5",
+    "https://jp.linkedin.com/in/%E9%A1%9E-%E8%BF%91%E8%97%A4-1ab34672",
+    "https://www.linkedin.com/pub/dir/%E5%BA%B7%E7%A5%90/+"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com 岩井製作所",
+   "results": [
+    "https://www.facebook.com/iwakin.jp/",
+    "https://www.facebook.com/pages/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE-%E5%B2%A9%E4%BA%95%E6%9C%A8%E5%9E%8B%E8%A3%BD%E4%BD%9C%E6%89%80/139458079527038?locale=ar_AR",
+    "https://www.facebook.com/media/set/?set=a.514298071986336.1073741839.164998713582942&type=1",
+    "https://www.facebook.com/meganenofuji/posts/%E3%81%BE%E3%81%9F%E3%81%BE%E3%81%9F-%E3%82%AB%E3%83%83%E3%82%B3%E3%81%84%E3%81%84%E3%83%A1%E3%82%AC%E3%83%8D%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%8C%E5%85%A5%E8%8D%B7%E5%B2%A9%E4%BA%95%E7%9C%BC%E9%8F%A1%E8%A3%BD%E4%BD%9C%E6%89%80-km-03-%E3%82%AB%E3%83%A9%E3%83%BC-2%E9%87%91%E9%A1%8D-32400%E5%86%86%E7%A8%8E%E8%BE%BC%E6%9C%AC%E6%97%A5%E5%85%A5%E8%8D%B7%E3%81%A7%E3%81%99%E5%B2%A9%E4%BA%95%E7%9C%BC%E9%8F%A1%E8%A3%BD%E4%BD%9C%E6%89%80%E5%B2%A9%E4%BA%95%E3%82%B8%E3%83%A7%E3%83%8B%E7%94%B7%E3%83%A1%E3%82%AC%E3%83%8D%E3%81%AE%E3%81%B5%E3%81%98%E4%B9%9D%E5%B7%9E%E5%88%9D-%E3%82%81/2000176366766544/",
+    "https://www.facebook.com/media/set/?set=a.375891099195087.1073741834.133229150127951&type=1",
+    "https://www.facebook.com/Elekta/posts/%E5%BC%8A%E7%A4%BE-%E5%B2%A9%E4%BA%95%E8%89%AF%E5%A4%AB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%83%A8-%E3%82%AF%E3%83%AA%E3%83%8B%E3%82%AB%E3%83%AB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%8C%E6%97%A5%E6%9C%AC%E6%94%BE%E5%B0%84%E7%B7%9A%E8%85%AB%E7%98%8D%E5%AD%A6%E4%BC%9A-%E5%84%AA%E7%A7%80%E6%95%99%E8%82%B2%E8%AC%9B%E6%BC%94%E8%B3%9E%E3%82%92%E5%8F%97%E8%B3%9E%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9Fjastro%E3%82%A8%E3%83%AC%E3%82%AF%E3%82%BF%E6%94%BE%E5%B0%84%E7%B7%9A%E6%B2%BB%E7%99%82/10157652454919337/",
+    "https://www.facebook.com/pages/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE-%E5%B2%A9%E4%BA%95%E6%9C%A8%E5%9E%8B%E8%A3%BD%E4%BD%9C%E6%89%80/139458079527038?locale=nb_NO",
+    "https://www.facebook.com/mm01801801/",
+    "https://www.facebook.com/iwaimeganeten/posts/%E5%8F%AA%E4%BB%8A%E6%94%BE%E9%80%81%E4%B8%AD%E3%81%AE%E7%AC%91up%E3%82%B4%E3%83%AB%E3%83%95%E3%82%B8%E3%83%A7%E3%83%8B%E7%94%B7%E3%81%95%E3%82%93%E3%81%8C%E5%BD%93%E5%BA%97%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%81%AEkm-03%E3%82%92%E6%8E%9B%E3%81%91%E3%81%A6%E3%83%97%E3%83%AC%E3%83%BC%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%A6%E3%81%BE%E3%81%99%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%84%E5%B8%BD%E5%AD%90%E3%81%A8%E3%83%9E%E3%83%83%E3%83%81%E3%81%97%E3%81%9F%E3%82%B8%E3%83%A7%E3%83%8B%E7%94%B7%E5%BC%8F%E7%B4%B3%E5%A3%AB%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AB%E4%B8%80%E5%BD%B9%E3%81%8B%E3%81%88%E3%81%A6%E5%B9%B8%E3%81%84%E3%81%A7%E3%81%99w/2276610385703303/",
+    "https://www.facebook.com/p/Formula-SAE-Project-Team-Grandelfino-100066444980272/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "岩井製作所 note 社長",
+   "results": [
+    "https://note.com/coreconcept_mm",
+    "https://note.com/daikoseiki/n/n8b0498181c7c",
+    "https://www.nikkei.com/article/DGXNASDD22051_S0A221C1000001/",
+    "https://note.com/iwai_81",
+    "https://note.com/paycloud/n/nbf4a8cbc5242",
+    "https://craftman-story.com/vol/1/",
+    "https://www.nikkan.co.jp/articles/view/458214",
+    "https://note.com/tag/%E5%B2%A9%E4%BA%95%E3%81%95%E3%82%93",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/西尾哲"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "岩井製作所 X 投稿",
+   "results": [
+    "https://iwaiseisakusho.co.jp/",
+    "https://craftman-story.com/vol/1/",
+    "http://www.iwai-ss.co.jp/",
+    "https://www.iwaiss.co.jp/",
+    "https://www.chiba-chiikishigoto.jp/corpinfo/5174/?phase=3",
+    "https://svltd.co.jp/cases/iwai/",
+    "https://www.pref.chiba.lg.jp/koyou/worklifebalance/portalsite/ikiiki/h27/15-6.html",
+    "https://www.atuen.com/mml/entry44.html",
+    "https://x.com/AI_art_r18/status/2119267154948436267",
+    "https://x.com/mk_hk0128/status/2119075838989877288"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式19頁／PDF・画像3件／外部9頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式19頁／PDF・画像3件／外部9頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式19頁／PDF・画像3件／外部9頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式19頁／PDF・画像3件／外部9頁・検索9回）"
+ }
+}

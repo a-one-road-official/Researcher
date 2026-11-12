@@ -1,0 +1,701 @@
+{
+ "name": "株式会社ハイパーウェブ",
+ "aliases": [],
+ "context": "ipros_all:特注",
+ "researched_at": "2026-11-11T23:26:08.454528+00:00",
+ "official_url": "http://hyperweb-japan.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　山内 実",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "山内 実",
+    "url": "https://www.ccnet21.ne.jp/company/1556",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "代表取締役社長 　 山内　実",
+    "url": "https://www.atengineer.com/pr/hyperweb/company",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒251-0052　神奈川県藤沢市藤沢1049番地大矢ビル2A",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "1255-22 JINMAO ROAD ZHOUSHI TOWN, KUNSHAN CITY JIANGSU CHINA 215314",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "湘南オフィス 〒252-0813　神奈川県藤沢市亀井野1524-1 ファーストシティ松嶋105 東京オフィス 〒105-0013　東京都港区浜松町1-18-12 山手ビル5号館7階",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒252-0813 神奈川県藤沢市亀井野1523-1 地図で見る",
+    "url": "https://www.ccnet21.ne.jp/company/1556",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "〒252-0813 神奈川県藤沢市亀井野1523-1",
+    "url": "https://www.atengineer.com/pr/hyperweb/company",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "産業用機械部品・工作機械部品・半導体装置部品の調達支援、サプライヤー開発 生産技術指導、組立技術指導、品質管理、コスト管理 、言語サポート販売支援、\n進出サポート",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "産業用機械部品・工作機械部品・半導体装置部品の加工・ 生産・組立 ・品質検査・アフターサービス",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "産業用設備・機器業界の設計支援・組立支援・半導体製造装置・電子部品製造装置・ 産業用ロボットの改造提案・設計・設置・アフターサービス等のワンストップサービスを提供。",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "産業用太陽光発電システム関連部材、架台システムの開発、設計、販売",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "川崎重工株式会社ロボットビジネスセンター パナソニックファクトリーソリューションズ株式会社 YKK AP 株式会社 東京計器株式会社 株式会社共立合金製作所",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "label": "主要取引先",
+    "value": "株式会社ギガソーラー 株式会社ギガエンジニアリング",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員規模",
+    "value": "11～50人",
+    "url": "https://www.ccnet21.ne.jp/company/1556",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "一点物・少量多品種": [
+   {
+    "quote": "では、経験豊かなコーディネーターやエンジニアが集い、特注加工部品の調達支援、部品製造の生産技術指導、品質管理指導を行っています",
+    "url": "http://hyperweb-japan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また2009年9月には中国昆山に特注機械加工部品の加工・生産・組立 ・品質検査を行う",
+    "url": "http://hyperweb-japan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "特注機械部品・工作機械部品・半導体装置部品の加工、生産、組立、品質検査、アフターサービス",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "quote": "中国昆山にあるHyper Web Inc. 海偉波机器設備科技(昆山)有限公司では、特注機械部品の加工・生産・組立 ・品質検査・アフターサービスを主たる業務として、QDC向上を意識した生産活動を行なっています",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "quote": "では、経験豊かなコーディネーターやエンジニアが集い、特注加工部品の調達支援、部品製造の生産技術指導、品質管理指導を行っています",
+    "url": "http://hyperweb-japan.co.jp/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また2009年9月には中国昆山に特注機械加工部品の加工・生産・組立 ・品質検査を行う",
+    "url": "http://hyperweb-japan.co.jp/index.html",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "を設立し、製造工程の機器装置類を自動化して作業の効率化を図る産業用設備の製造、産業用ロボットシステムの自動化の改造を必要とする企業に対して、改造提案・設計・設置・アフターサービス等のワンストップサービスを提供しています",
+    "url": "http://hyperweb-japan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業関連企業様・産業用ロボット製造会社様・太陽光施工関連企業様にご利用いただいております",
+    "url": "http://hyperweb-japan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "成形品の組立や検査、デパレタイズロボット、移動体ロボット、多言語音声ガイドロボット、災害対応ロボット、シロアリ駆除の調査ロボットなどの実績があります",
+    "url": "http://hyperweb-japan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "産業用機械部品・工作機械部品・半導体装置部品の調達支援、サプライヤー開発、生産技術指導、組立技術指導、品質管理、コスト管理 、言語サポート販売支援、進出サポート",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "quote": "特注機械部品・工作機械部品・半導体装置部品の加工、生産、組立、品質検査、アフターサービス",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業用設備 ・機器業界の設計支援・組立支援 ・半導体製造装置・電子部品製造装置・産業用ロボットの改造提案・設計・設置・アフターサービス",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業用機械部品・工作機械部品・半導体装置部品の調達支援、サプライヤー開発",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業用機械部品・工作機械部品・半導体装置部品の加工・",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、産業用ロボットシステムの自動化の改造を必要とする企業に対して、改造提案・設計・設置・アフターサービス等のワンストップサービスを提供しています",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業用設備・機器業界の設計支援・組立支援・半導体製造装置・電子部品製造装置・",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業用ロボットの改造提案・設計・設置・アフターサービス等のワンストップサービスを提供",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "quote": "2006年 3月 産業用ロボット業界向けの支援サービスを開始",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "quote": "2006年 5月 NEDO 戦略的先端ロボット要素技術開発プロジェクトを受託",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "quote": "2009年 9月 中国昆山にHyper Web Inc.(海偉波机器設備科技(昆山)有限公司)を設立 産業用ロボット部品調達事業を拡大",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年12月 中国昆山にHyper Robotics Inc.(海偉波机器人技術(昆山)有限公司)を設立 産業用ロボットシステム事業拡大",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年 3月 大規模太陽光発電所向けの墨出しGPSマーキングロボットを発表",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年 9月 大規模太陽光発電所向けの草刈りロボットを発表",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年 5月 機械加工部品のロボット検査システムを発表",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロボット関連事業 | ハイパーグループ公式サイト",
+    "url": "http://hyperweb-japan.co.jp/robotics.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業用ロボットシステム事業のハイパーロボティクス",
+    "url": "http://hyperweb-japan.co.jp/robotics.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業用設備や産業用ロボットシステムの自動化の改造を必要とする企業に対し、",
+    "url": "http://hyperweb-japan.co.jp/robotics.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロボットを組合わせた「三次元自動検査システム」を開発しました",
+    "url": "http://hyperweb-japan.co.jp/robotics.html",
+    "pass": 1
+   },
+   {
+    "quote": "制作事例〔2〕産業用ロボットシステム",
+    "url": "http://hyperweb-japan.co.jp/robotics.html",
+    "pass": 1
+   },
+   {
+    "quote": "物流設備でパレットに積まれたケースや段ボールの荷卸し作業を自動で行うデパレタイズロボットを開発しました",
+    "url": "http://hyperweb-japan.co.jp/robotics.html",
+    "pass": 1
+   },
+   {
+    "quote": "制作事例〔3〕 移動体ロボットシステム",
+    "url": "http://hyperweb-japan.co.jp/robotics.html",
+    "pass": 1
+   },
+   {
+    "quote": "住宅の雨漏りやシロアリの侵入を調査するためのロボットです",
+    "url": "http://hyperweb-japan.co.jp/robotics.html",
+    "pass": 1
+   },
+   {
+    "quote": "災害救助・原発事故時の発電所施設内の情報収集が可能なロボットです",
+    "url": "http://hyperweb-japan.co.jp/robotics.html",
+    "pass": 1
+   },
+   {
+    "quote": "太陽光発電所の施工前に施工位置を土場にマーキングするロボットを開発しました",
+    "url": "http://hyperweb-japan.co.jp/robotics.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業用設備 ・機器業界の設計支援・組立支援 ・半導体製造装置・電子部品製造装置・",
+    "url": "http://hyperweb-japan.co.jp/robotics.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業用ロボットの改造提案・設計・設置・アフターサービス等のワンストップサービスを提供",
+    "url": "http://hyperweb-japan.co.jp/robotics.html",
+    "pass": 1
+   },
+   {
+    "quote": "その他、溶接や塗装ロボットの実績多数ございます",
+    "url": "http://hyperweb-japan.co.jp/robotics.html",
+    "pass": 1
+   },
+   {
+    "quote": "を設立し、製造工程の機器装置類を自動化して作業の効率化を図る産業用設備の製造、産業用ロボットシステムの自動化の改造を必要とする企業に対して、改造提案・設計・設置・アフターサービス等のワンストップサービスを提供しています",
+    "url": "http://hyperweb-japan.co.jp/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製造業関連企業様・産業用ロボット製造会社様・太陽光施工関連企業様にご利用いただいております",
+    "url": "http://hyperweb-japan.co.jp/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "成形品の組立や検査、デパレタイズロボット、移動体ロボット、多言語音声ガイドロボット、災害対応ロボット、シロアリ駆除の調査ロボットなどの実績があります",
+    "url": "http://hyperweb-japan.co.jp/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ハイパーウェブ（神奈川県藤沢市）｜製品設計・金型設計・その他設計｜製造業応援サイトCCNET",
+    "url": "https://www.ccnet21.ne.jp/company/1556",
+    "pass": 3
+   },
+   {
+    "quote": "調達支援サービス 機械、装置、金型、量産品のコストダウンに国内、海外の優良メーカー３００社がお答えいたしま す！",
+    "url": "https://www.ccnet21.ne.jp/company/1556",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボット、再生エネルギー事業",
+    "url": "https://www.atengineer.com/pr/hyperweb/company",
+    "pass": 3
+   },
+   {
+    "quote": "産業用機械部品・工作機械部品・半導体装置部品の調達支援のことなら",
+    "url": "https://www.hyperweb-japan.co.jp/contact-us.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業用設備 ・機器業界の設計支援・組立支援 ・半導体製造装置・電子部品製造装置・産業用ロボットのことなら",
+    "url": "https://www.hyperweb-japan.co.jp/contact-us.html",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "Supports for advancement of manufacturing campany",
+    "url": "http://hyperweb-japan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports for advancement of manufacturing campany",
+    "url": "http://hyperweb-japan.co.jp/index.html",
+    "pass": 1
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "Quality「品質」の良い製品を、Delivery「納期」を守って、Cost「コスト」を安く生産することで顧客満足の向上と企業利益創出の貢献を果たしています",
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "pass": 1
+   },
+   {
+    "quote": "海外製品の製造過程では、しばしば品質基準の差が問題になることがあります",
+    "url": "http://hyperweb-japan.co.jp/machine-parts.html",
+    "pass": 1
+   },
+   {
+    "quote": "太陽光発電を活用したそれぞれの事業用途に合わせた専用架台をラインナップ",
+    "url": "http://hyperweb-japan.co.jp/renewable-energy.html",
+    "pass": 1
+   },
+   {
+    "quote": "陸屋根にはアンカー設置不要の穴を開けない自重式架台をラインナップ",
+    "url": "http://hyperweb-japan.co.jp/renewable-energy.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ハイパーウェブ（神奈川県藤沢市）｜製品設計・金型設計・その他設計｜製造業応援サイトCCNET",
+    "url": "https://www.ccnet21.ne.jp/company/1556",
+    "pass": 3
+   },
+   {
+    "quote": "製品メーカー様にグローバルなネットワークの製造部門をご提供致します！",
+    "url": "https://www.ccnet21.ne.jp/company/1556",
+    "pass": 3
+   },
+   {
+    "quote": "、製品・技術・サービス",
+    "url": "https://www.atengineer.com/pr/hyperweb/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ハイパーウェブの製品・技術・サービス",
+    "url": "https://www.atengineer.com/pr/hyperweb/company",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "図面・仕様・数量・希望価格・希望納品をメールにてお知らせいただけますとスムーズです",
+    "url": "http://hyperweb-japan.co.jp/machine-parts.html",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ | ハイパーグループ公式サイト",
+    "url": "https://www.hyperweb-japan.co.jp/contact-us.html",
+    "pass": 3
+   },
+   {
+    "quote": "既存の部品の御見積りご依頼は、メールにて図面・仕様・数量・希望価格・希望納品をお知らせいただけますとスムーズです",
+    "url": "https://www.hyperweb-japan.co.jp/contact-us.html",
+    "pass": 3
+   },
+   {
+    "quote": "※日本からのお問い合わせは、上記の株式会社ハイパーウェブ宛でも承ります",
+    "url": "https://www.hyperweb-japan.co.jp/contact-us.html",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "材質や種類が豊富な各種折半屋根にも対応可能",
+    "url": "http://hyperweb-japan.co.jp/renewable-energy.html",
+    "pass": 1
+   },
+   {
+    "quote": "屋根の材質や建物の構造、景観にも配慮した架台をご提供致します",
+    "url": "http://hyperweb-japan.co.jp/renewable-energy.html",
+    "pass": 1
+   },
+   {
+    "quote": "耐久性の高いアルミとステンレス材質を採用した軽量でサビにくい高品質の部材なら当社へご相談ください",
+    "url": "http://hyperweb-japan.co.jp/renewable-energy.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社ハイパーウェブ（神奈川県藤沢市）｜製品設計・金型設計・そ... — Jan 10, 2018 · 会社概要 ― 製造業界にネットワークによる最適なモノ作りをご提供 ―ハイパーウェブはネットワークでモノ作りをしている会社です！ 装置メーカー様の案件に合せて、アジア圏で最適な生産環境を構築いたします。",
+    "url": "https://www.ccnet21.ne.jp/company/1556",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ハイパーウェブ - 会社概要 — モノ作り業界にビジネスプラットホームを提供 Webサイトと提供サービス概要 ハイパーウェブのeモノ作りサービスは【モノ作りの専門サイト】として “国内調達・海外調達”の障壁となる下記の諸問題を解決します。",
+    "url": "https://www.atengineer.com/pr/hyperweb/company",
+    "pass": 3
+   },
+   {
+    "quote": "トップ | ハイパーグループ公式サイト — ハイパーグループは、モノづくり業界を繋ぐ「モノづくり支援カンパニー」です。 株式会社ハイパーウェブ では、経験豊かなコーディネーターやエンジニアが集い、特注加工部品の調達支援、部品製造の生産技術指導、品質管理指導を行っています。",
+    "url": "http://hyperweb-japan.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ情報 | ハイパーグループ公式サイト — 株式会社 ハイパーウェブ [ グループ本社 ] どこの国で造っていても Made in japan魂で エンジニアリングサービスを提供しています 株式会社ハイパーウェブは、製造業の調達ご担当者様と加工メーカーとの橋渡しをするモノづくり支援カンパニーです。",
+    "url": "https://www.hyperweb-japan.co.jp/group-info.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 ハイパーウェブ - Facebook 株式会社 ハイパーウェブ",
+    "url": "https://www.facebook.com/株式会社-ハイパーウェブ-872654876116483/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://hyperweb-japan.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://hyperweb-japan.co.jp/group-info.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://hyperweb-japan.co.jp/machine-parts.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://hyperweb-japan.co.jp/robotics.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://hyperweb-japan.co.jp/renewable-energy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://hyperweb-japan.co.jp/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://hyperweb-japan.co.jp/images/news/AgricultureExpo_2019_1009-1011.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.h-k-k.co.jp/small_lot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ccnet21.ne.jp/company/1556",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/hyperweb/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/hyperweb/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyper-pro.co.jp/about_us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.twave.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperweb-japan.co.jp/contact-us.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hyperpc.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/株式会社-ハイパーウェブ-872654876116483/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ハイパーウェブ 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.h-k-k.co.jp/small_lot/",
+    "https://www.ccnet21.ne.jp/company/1556",
+    "https://www.atengineer.com/pr/hyperweb/company",
+    "https://www.u-topia.co.jp/products/low-volume-series.html",
+    "https://www.hyper-tec.co.jp/business-introduction/",
+    "http://hyperweb-japan.co.jp/",
+    "https://www.h-k-k.co.jp/prototype/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ハイパーウェブ 会社概要 事業内容",
+   "results": [
+    "https://www.atengineer.com/pr/hyperweb/company",
+    "https://www.hyper-pro.co.jp/about_us/",
+    "https://info.twave.co.jp/company/",
+    "http://hyperweb-japan.co.jp/",
+    "https://www.hyperweb-japan.co.jp/group-info.html",
+    "https://hyperpc.co.jp/about/",
+    "https://hyperpc.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ハイパーウェブ お問い合わせ メール",
+   "results": [
+    "https://www.hyperweb-japan.co.jp/contact-us.html",
+    "https://hyperpc.co.jp/contact/",
+    "https://hyperweb-japan.co.jp/test/contact-us.html",
+    "https://www.hyper.fitweb.net/contact",
+    "https://www.hypergear.com/contact/",
+    "https://www.hyper.co.jp/contact/",
+    "http://www.hyper.co.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ハイパーウェブ",
+   "results": [
+    "https://note.com/kenjisiratori/n/n7fc4d5de5bd5",
+    "https://note.com/tag/vm/investment_money/fund-02311951",
+    "https://note.com/kenjisiratori/n/ncea4e30ab459",
+    "https://note.com/ocean4540/n/n12b682bc3447",
+    "https://note.com/hyper_voice/n/n14207f3bf40a",
+    "https://note.com/mahjong_lab/n/n78b99a673094",
+    "https://note.com/7wtkn/n/nf9a4d3740449"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ハイパーウェブ",
+   "results": [
+    "https://x.com/htd_hyper/status/2100361168414277869",
+    "https://x.com/hypergameinfo/status/2078817446929281493",
+    "https://x.com/hiroya_nt/status/1350004685298548737",
+    "https://x.com/cryptohyperwave/status/2119838192429875688",
+    "https://x.com/hyperatom0509/status/2118194326702637242",
+    "https://x.com/8iper_official",
+    "https://x.com/bandai_ridertoy/status/2108407104084021545"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ハイパーウェブ",
+   "results": [
+    "https://www.linkedin.com/company/hyperwave",
+    "https://www.linkedin.com/company/hyperwave-systems-engineering-sdn-bhd",
+    "https://jp.linkedin.com/in/norimitsu-sasaki",
+    "https://in.linkedin.com/in/balajie",
+    "https://vn.linkedin.com/in/khanguyenvan",
+    "https://jp.linkedin.com/in/学-山口-92866017a",
+    "https://au.linkedin.com/in/jengoeldner"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ハイパーウェブ",
+   "results": [
+    "https://www.facebook.com/株式会社-ハイパーウェブ-872654876116483/",
+    "https://www.facebook.com/hiperdyne/",
+    "https://www.facebook.com/HyperproJapanSpec/",
+    "https://www.facebook.com/panzoyahyper/",
+    "https://www.facebook.com/hyperlabs12/",
+    "https://www.facebook.com/Ester-Yamada-103676638430233/videos/hifuハイパーナイフハイパーウェーブ正規取扱店小顔マツエク専門店ハイフハイパーナイフハイパーウェブ小顔コルキハーブピーリング-痩身リフトアップリーフレリラック/1368791623507394/",
+    "https://www.facebook.com/Ester-Yamada-103676638430233/videos/hifuハイパーナイフハイパーウェーブ正規取扱店小顔マツエク専門店最新型ハイフですハイフハイパーナイフハイパーウェブ小顔コルキハーブピーリング-痩身リフトアップ/160492099415353/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ハイパーウェブ note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.atengineer.com/pr/hyperweb/company",
+    "https://note.com/hajime_sugiura",
+    "https://note.com/web_ai_note",
+    "http://hyperweb-japan.co.jp/",
+    "https://www.hyperweb-japan.co.jp/group-info.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ハイパーウェブ X 投稿",
+   "results": [
+    "http://hyperweb-japan.co.jp/",
+    "https://x.com/hypergameinfo",
+    "https://x.com/hypergameinfo/status/2120101665021759789",
+    "https://help.x.com/ja/using-x/how-to-post-a-link",
+    "https://help.x.com/ja/using-x/embed-x-feed",
+    "https://hyperweb.io/",
+    "https://addness.co.jp/media/twitter-video-posting/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部9頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部9頁・検索9回）"
+ }
+}

@@ -1,0 +1,907 @@
+{
+ "name": "Gridware",
+ "aliases": [],
+ "context": "旧営業リスト｜Energy / Utilities Technology｜未接触",
+ "researched_at": "2026-11-11T23:42:24.947348+00:00",
+ "official_url": "https://www.gridware.io",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "5. Seed Round",
+    "value": "24-May-2021    Completed Product Development",
+    "url": "https://pitchbook.com/profiles/company/442981-00",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Gridware | Protecting the Grid Today, Preparing the Grid for Tomorrow.",
+    "url": "https://www.gridware.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Electric utilities are expected to maintain near-perfect uptime, but they typically only learn of hazards like fallen limbs or damaged power lines after they cause outages or disasters. This gap, known as Hazard Awareness Delay, leads to expensive outages and public safety risks.",
+    "url": "https://www.gridware.io/",
+    "pass": 1
+   },
+   {
+    "quote": "We’ve pioneered a new kind of grid intelligence—a platform that provides constant visibility into real-time electrical, physical, and environmental conditions by capturing information directly at the pole. This new class of technology is called Active Grid Response. It is defined by immediate detection, precise localization, detailed identification, and even monitoring during outages.",
+    "url": "https://www.gridware.io/",
+    "pass": 1
+   },
+   {
+    "quote": "With more than 90 million field hours and counting, Gridware is already detecting the small changes that lead to big problems.",
+    "url": "https://www.gridware.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Together with utility companies, we’re preventing hazards from causing harm. We’re helping crews restore power quickly and safely. And we’re extending the life of assets in the field.",
+    "url": "https://www.gridware.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Puget Sound Energy's pilot with Gridware's Active Grid Response improved their ability to identify outages and prioritize repairs during severe weather, enhancing system resiliency and restoration speed by providing real-time alerts.",
+    "url": "https://www.gridware.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Xcel Energy, facing increasing wildfire risks in Colorado, partnered with Gridware to implement Active Grid Response technology, enabling real-time detection of hazardous conditions and successfully preventing a potentially catastrophic fire during a critical incident.",
+    "url": "https://www.gridware.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Approach problems with a “can do” mentality. Everything is impossible until someone proves it is possible.",
+    "url": "https://www.gridware.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "waiting for someone to prove they're possible.\"",
+    "url": "https://www.gridware.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Stay hungry. Accept that failing is part of the process. Learn and improve, over and over.",
+    "url": "https://www.gridware.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Practice optimism and keep it light. Help make our time together fun!",
+    "url": "https://www.gridware.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our tools have more than 90 million hours in the field, and they continue to improve with every pole we add to our platform.",
+    "url": "https://www.gridware.io/about-gridware",
+    "pass": 1
+   },
+   {
+    "quote": "In 120ºF heatwave or a Category 5 hurricane, power lines are lifelines and can be the difference between life and death. And yet, utilities typically don’t find out about problems until after they happen, leaving lines crews scrambling to locate the source.",
+    "url": "https://www.gridware.io/about-gridware",
+    "pass": 1
+   },
+   {
+    "quote": "We’re arming line workers with the information they need to spend their time fixing the grid instead of searching for problems. We’re helping utilities act faster, respond strategically, and keep communities safe. And we’re laying the foundation for a future with a more reliable, more resilient, more wildfire-resistant grid.",
+    "url": "https://www.gridware.io/about-gridware",
+    "pass": 1
+   },
+   {
+    "quote": "\"Gridware allows us to transition from reactive to proactive grid management. We now have continuous visibility into real-time grid conditions, allowing us to prevent failures before they happen.\"",
+    "url": "https://www.gridware.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Gridware’s real-time monitoring capabilities are critical for improving wildfire prevention and response. We’ve already seen how immediate alerts on vegetation or fallen conductors allow us to dispatch crews before issues escalate.\"",
+    "url": "https://www.gridware.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Principle Systems Engineer",
+    "url": "https://www.gridware.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Gridware is taking an innovative approach by measuring physical disturbances rather relying on impedance fault detection, which has well-known limitations. Electrical detection methods struggle with accuracy when circuits change\"",
+    "url": "https://www.gridware.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"We’ve had 20+ alerts since installing Gridware, and it has been 100% accurate in identifying both the location and cause of disturbances. This level of precision helps us respond faster and significantly reduces outage durations.”",
+    "url": "https://www.gridware.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"The ability to detect pre-failure conditions before they become major outages is invaluable. By identifying risks early, we can send crews to resolve issues proactively, improving reliability and reducing emergency response costs, which is crucial for us.\"",
+    "url": "https://www.gridware.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "ジョブごとの prolog/epilog で GPU 環境のセットアップが可能",
+    "url": "https://www.infiniware.jp/products/gridware-cluster-scheduler/",
+    "pass": 3
+   },
+   {
+    "quote": "（Prometheus・Grafana 連携）",
+    "url": "https://www.infiniware.jp/products/gridware-cluster-scheduler/",
+    "pass": 3
+   },
+   {
+    "quote": ". Our team will be on-site to demonstrate how Gridware Cluster Scheduler can optimize your HPC workloads and streamline cluster management.",
+    "url": "https://hpc-gridware.com/hpc-gridware-at-sca-hpcasia-2026-in-osaka/",
+    "pass": 3
+   },
+   {
+    "quote": "Principal Program Manager, Asset Performance Center",
+    "url": "https://www.casestudies.com/company/gridware",
+    "pass": 3
+   },
+   {
+    "quote": "PG&E improves wildfire hazard detection with Gridware's Active Grid Response platform",
+    "url": "https://www.casestudies.com/company/gridware",
+    "pass": 3
+   },
+   {
+    "quote": "Puget Sound Energy improves outage detection and restoration speed with Gridware Active Grid Response",
+    "url": "https://www.casestudies.com/company/gridware",
+    "pass": 3
+   },
+   {
+    "quote": "Xcel Energy Prevents Wildfire Risk with Gridware Active Grid Response",
+    "url": "https://www.casestudies.com/company/gridware",
+    "pass": 3
+   },
+   {
+    "quote": "Landis+Gyr has helped the world manage energy better. Their meters and solutions empower utilities and end-customers around the world to improve their energy efficiency, reduce their energy costs and contribute …",
+    "url": "https://www.featuredcustomers.com/vendor/gridware/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/gridware/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/gridware/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/gridware/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "unlock all of your customer references for prospects",
+    "url": "https://www.featuredcustomers.com/vendor/gridware/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/gridware/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Gridware 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/442981-00",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/442981-00",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/442981-00",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/442981-00",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/442981-00",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/442981-00",
+    "pass": 3
+   },
+   {
+    "quote": "Gridware’s primary industry is Electronic Equipment and Instruments.",
+    "url": "https://pitchbook.com/profiles/company/442981-00",
+    "pass": 3
+   },
+   {
+    "quote": "Is Gridware a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/442981-00",
+    "pass": 3
+   },
+   {
+    "quote": "Gridware is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/442981-00",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/442981-00",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/442981-00",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/442981-00",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Stay hungry. Accept that failing is part of the process. Learn and improve, over and over.",
+    "url": "https://www.gridware.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/gridware.io",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/gridware.io",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/gridware/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/442981-00",
+    "pass": 3
+   },
+   {
+    "quote": "Gridware has 132 total employees.",
+    "url": "https://pitchbook.com/profiles/company/442981-00",
+    "pass": 3
+   },
+   {
+    "quote": "What is Gridware’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/442981-00",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Gridware is",
+    "url": "https://pitchbook.com/profiles/company/442981-00",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Serving Grid Operators Across Every Pole, Span & Circuit",
+    "url": "https://www.gridware.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more here about how we are working with grid operators on fault detection and localization, hazard response, power restoration and hazard management.",
+    "url": "https://www.gridware.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Ubicquia offers cities, utilities and mobile operators a smarter, simpler, more cost-effective way to deploy and monitor critical infrastructure.",
+    "url": "https://www.featuredcustomers.com/vendor/gridware/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/gridware/case-studies",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Gridware Cluster Scheduler | 取扱製品一覧 | Infiniware株式会社",
+    "url": "https://www.infiniware.jp/products/gridware-cluster-scheduler/",
+    "pass": 3
+   },
+   {
+    "quote": "HPC Gridware at SCA/HPCAsia 2026 in Osaka - HPC-Gridware",
+    "url": "https://hpc-gridware.com/hpc-gridware-at-sca-hpcasia-2026-in-osaka/",
+    "pass": 3
+   },
+   {
+    "quote": "HPC Gridware at SCA/HPCAsia 2026 in Osaka",
+    "url": "https://hpc-gridware.com/hpc-gridware-at-sca-hpcasia-2026-in-osaka/",
+    "pass": 3
+   },
+   {
+    "quote": "in Osaka, Japan, from January 26-29, 2026!",
+    "url": "https://hpc-gridware.com/hpc-gridware-at-sca-hpcasia-2026-in-osaka/",
+    "pass": 3
+   },
+   {
+    "quote": "We look forward to seeing you in Osaka!",
+    "url": "https://hpc-gridware.com/hpc-gridware-at-sca-hpcasia-2026-in-osaka/",
+    "pass": 3
+   },
+   {
+    "quote": "* Osaka International Convention Center (Grand Cube Osaka)",
+    "url": "https://hpc-gridware.com/hpc-gridware-at-sca-hpcasia-2026-in-osaka/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Gridware | Protecting the Grid Today, Preparing the Grid for ... — With more than 90 million field hours and counting, Gridware is already detecting the small changes that lead to big problems.Together with utility companies, we’re preventing hazards from causing harm. We’re helping crews restore power quickly and safely. And we’re extending the life of assets in the field.Let’s create a smarter, ",
+    "url": "https://www.gridware.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Gridwareの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — Y Combinator、Fifty Years、True Venturesのポートフォリオに掲載される海外スタートアップGridwareの企業プロフィール。Gridware（Gridware Technologies Inc.）は、送配電網の物理的・電気的・環境的異常をリアルタイムで検知・解析する次世代グリッド...",
+    "url": "https://www.firstcvc.jp/global/gridware.io",
+    "pass": 3
+   },
+   {
+    "quote": "Gridware Cluster Scheduler | 取扱製品一覧 | Infiniware株式会社 — その後、元 SGE/Univa の開発者たちが再結集し、Univa 系コードを基盤に開発を継続している Open Cluster Scheduler（OCS）を発展させ、公式に「SGE 系の後継」を掲げる最新世代のジョブスケジューラ Gridware Cluster Scheduler（GCS） が生まれました。 GCS導入のメリット",
+    "url": "https://www.infiniware.jp/products/gridware-cluster-scheduler/",
+    "pass": 3
+   },
+   {
+    "quote": "Gridware - Wi-SUNアライアンス — Gridware社は、架空送電線の故障や山火事のリスクをリアルタイムで検知するグリッド監視センサーを開発しています。",
+    "url": "https://wi-sun.org/ja/メンバー会社/gridware/",
+    "pass": 3
+   },
+   {
+    "quote": "Gridware: 送電線故障検出で山火事予防 — Gridwareは、電力配電網のセンサーとソフトウェアのグリッド監視システムを提供し、山火事の原因となる故障を検出、予測、予防を支援します。",
+    "url": "https://huntscreens.com/ja/products/gridware",
+    "pass": 3
+   },
+   {
+    "quote": "Gridware Applications | Real-Time Solutions for Grid Safety ... — Discover Gridware’s applications for utilities—real-time hazard detection, outage monitoring, and grid health analysis. See how our innovative solutions help power companies improve reliability, enhance safety, and respond proactively to threats across the electric grid.",
+    "url": "https://www.gridware.io/applications",
+    "pass": 3
+   },
+   {
+    "quote": "HPC Gridware at SCA/HPCAsia 2026 in Osaka - HPC-Gridware — Jan 22, 2026 · We're excited to announce that HPC Gridware will be attending SCA/HPCAsia 2026 in Osaka, Japan, from January 26-29, 2026! About the Conference The SupercomputingAsia (SCA) is a major annual international HPC event in Asia established in 2018.",
+    "url": "https://hpc-gridware.com/hpc-gridware-at-sca-hpcasia-2026-in-osaka/",
+    "pass": 3
+   },
+   {
+    "quote": "Gridware - LinkedIn — Gridware is a technology company focused on protecting and enhancing the electrical grid. We pioneered a groundbreaking new class of grid management called active grid response (AGR), focused on ...",
+    "url": "https://www.linkedin.com/company/gridwareinc",
+    "pass": 3
+   },
+   {
+    "quote": "Gridware Case Studies | Real-World Results in Grid Monitoring ... — Explore Gridware’s case studies to see how utilities are leveraging real-time grid monitoring and hazard detection technology to boost safety, reduce downtime, and improve operational efficiency. Discover proven results and success stories from power companies in the field.",
+    "url": "https://www.gridware.io/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Gridware Customers — See how leading utilities partner with Gridware to enhance grid safety, reliability, and resilience. Explore customer stories and discover the real-world impact of Gridware’s real-time monitoring and hazard detection solutions.",
+    "url": "https://www.gridware.io/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Gridware B2B Case Studies & Customer Successes — Gridware is a technology company focused on protecting and enhancing the electrical grid. They pioneered a groundbreaking new class of grid management called active grid response (AGR), focused on monitoring the electrical, physical, and environmental aspects of the grid that affect reliability and safety.",
+    "url": "https://www.casestudies.com/company/gridware",
+    "pass": 3
+   },
+   {
+    "quote": "4 Gridware Case Studies, Success Stories, & Customer Stories — Narrow down 4 case studies by company size & industry to find out how Gridware works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/gridware/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Success Stories - Gridware — Gridware Case Study: How we helped fintech leader Astute Wheel When leading international education provider Kumon needed a leading partner to provide independent assurance of potential security vulnerabilities within their web application system, they turned to Gridware.",
+    "url": "https://www.gridware.com.au/customer-success-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Gridware – Overview – Funding, Revenue & Growth – 2026 — Understand Gridware through its estimated revenue of $28.1M, team of around 100+ employees (Sacramento), showing continued business traction.",
+    "url": "https://compworth.com/company/gridware",
+    "pass": 3
+   },
+   {
+    "quote": "Gridware 2026 Company Profile: Valuation, Funding & Investors ...Gridware - 2026 Company Profile, Team, Funding & Competitors ...Gridware - 2026 Company Profile, Funding & Investors | The ...Gridware Technologies Inc. Funding & Investors | How Much ...Gridware - Products, Competitors, Financials, Employees ...Gridware Funding History, Valuation and Investors - aVenture — Gridware FAQs When was Gri",
+    "url": "https://pitchbook.com/profiles/company/442981-00",
+    "pass": 3
+   },
+   {
+    "quote": "Gridware - 2026 Company Profile, Team, Funding & Competitors ...Gridware - 2026 Company Profile, Funding & Investors | The ...Gridware Technologies Inc. Funding & Investors | How Much ...Gridware - Products, Competitors, Financials, Employees ...Gridware Funding History, Valuation and Investors - aVenture — May 15, 2026 · Gridware is a series B company based in Sacramento (United States), founded ",
+    "url": "https://tracxn.com/d/companies/gridware/__wpxx1HZudY5aAowszwfCDOu0Ocv7pexH6va7NZz2etY",
+    "pass": 3
+   },
+   {
+    "quote": "Gridware - 2026 Company Profile, Funding & Investors | The ... — Oct 15, 2026 · Gridware is a Technology company based in Sacramento, United States, founded in 2020. AI-based technology for grid wildfire prevention is provided.",
+    "url": "https://www.thecompanycheck.com/company/b/gridware/rmipfncccy84dhgdp",
+    "pass": 3
+   },
+   {
+    "quote": "Gridware Technologies Inc. Funding & Investors | How Much ... — Nov 3, 2026 · Gridware Technologies Inc., founded in 2020 by Abdulrahman Bin Omar, Hall Chen, and Timothy Barat, is a technology company specializing in advanced sensing and AI-based monitoring systems for the electrical grid. With approximately 18 to 86 employees, Gridware provides solutions to detect faults, prevent wildfires, and e",
+    "url": "https://exa.ai/websets/directory/gridware-funding",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "sales@hpc-gridware.com",
+    "url": "https://hpc-gridware.com/hpc-gridware-at-sca-hpcasia-2026-in-osaka/",
+    "pass": 3
+   },
+   {
+    "quote": "Name or E-Mail Address",
+    "url": "https://hpc-gridware.com/hpc-gridware-at-sca-hpcasia-2026-in-osaka/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/gridware/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/gridware/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/442981-00",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "HPC-Gridware (@HPC_Gridware) / Posts / X Apr 27, 2024 · Gridware Cluster Scheduler & Open Cluster Scheduler 9.1.0 are out. Topology-aware scheduling, built-in TLS, Prometheus/Grafana telemetry, GPU support, and a new web UI preview.",
+    "url": "https://x.com/HPC_Gridware",
+    "pass": 3
+   },
+   {
+    "quote": "A. Bin Omar (@A_binomar1) / Posts / X Nov 1, 2012 · Congratulations to alum AbdulRahman bin Omar (M.S. '20 BPEng) and Gridware team!! Their product Gridscope (detects faults in the electrical grid before it could lead to wildfires) was just named one of the best inventions of the year by @TIME. bit.ly/3tkq5OA ...",
+    "url": "https://x.com/A_binomar1",
+    "pass": 3
+   },
+   {
+    "quote": "Ahmed Khanji (@khanjicyber) / X Ahmed Khanji @khanjicyber CEO and Founder of @ gridware Sydney, New South Wales Joined April 2026 67 Following",
+    "url": "https://x.com/khanjicyber",
+    "pass": 3
+   },
+   {
+    "quote": "HPC-Gridware (@HPC_Gridware) / Posts / X - x.com Apr 27, 2024 · Gridware Cluster Scheduler & Open Cluster Scheduler 9.1.0 are out. Topology-aware scheduling, built-in TLS, Prometheus/Grafana telemetry, GPU support, and a new web UI preview.",
+    "url": "https://x.com/HPC_Gridware",
+    "pass": 3
+   },
+   {
+    "quote": "@gridware | X The latest posts from @gridware",
+    "url": "https://x.com/gridware",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Gridware - LinkedIn Gridware is a technology company focused on protecting and enhancing the electrical grid. We pioneered a groundbreaking new class of grid management called active grid response (AGR), focused on ...",
+    "url": "https://www.linkedin.com/company/gridwareinc",
+    "pass": 3
+   },
+   {
+    "quote": "Gridware - LinkedIn Gridware | 5,768 followers on LinkedIn. Hackers move fast, but we move faster. | For most organisations in Australia, a data breach can be more than a PR disaster, it could be the final chapter ...",
+    "url": "https://www.linkedin.com/company/gridware-cybersecurity/",
+    "pass": 3
+   },
+   {
+    "quote": "Abdul Mhanni - OffSec@Gridware | Microsoft MVP | 46xCVE ...Gridware: Jobs | LinkedInTimothy Barat - Co-Founder & CEO at Gridware | LinkedInHPC Gridware - LinkedInGridware B.V. - LinkedIn OffSec@Gridware | Microsoft MVP | 46xCVE | OSCP OSCP+ | OSEP | CRTP | Electrical Engineer in the making · I am a Microsoft MVP in Security and Cloud &amp; Datacenter management as well as an Offensive Security Con",
+    "url": "https://au.linkedin.com/in/abdulmhanni",
+    "pass": 3
+   },
+   {
+    "quote": "Gridware: Jobs | LinkedIn Gridware | 75,032 followers on LinkedIn. Protecting the grid today, preparing the grid for tomorrow | Gridware is a technology company focused on protecting and enhancing the electrical grid. We ...",
+    "url": "https://www.linkedin.com/company/gridwareinc/jobs/",
+    "pass": 3
+   },
+   {
+    "quote": "Timothy Barat - Co-Founder & CEO at Gridware | LinkedInTimothy Barat - Co-Founder and CEO @ Gridware - CrunchbaseTimothy Barat | Sequoia CapitalWho is the CEO of Gridware in 2026? Timothy Barat | UnifyGridware Technologies Inc. Executive Team & LeadershipTimothy Barat - Gridware Co-Founder & CEO | ProfileGridware CEO, Tim Barat, speaks with “CleanTechies” Co-Founder & CEO at Gridware · Experience:",
+    "url": "https://www.linkedin.com/in/timothybarat",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Gridware | San Francisco CA - FacebookGridware - FacebookGridware - Gridware added a new photo. - FacebookGridware - Gridware updated their profile picture. - FacebookGridware - Gridware updated their cover photo. - FacebookGridware Cyber Security - Melbourne - FacebookGridware IR - Facebook Dec 23, 2025 · Gridware, San Francisco. 32 followers. Gridware provides a grid monitoring system of sensors",
+    "url": "https://www.facebook.com/GridwareInc/",
+    "pass": 3
+   },
+   {
+    "quote": "Gridware - FacebookGridware - Gridware added a new photo. - FacebookGridware - Gridware updated their profile picture. - FacebookGridware - Gridware updated their cover photo. - FacebookGridware Cyber Security - Melbourne - FacebookGridware IR - Facebook Jan 10, 2022 · Gridware. 509 likes · 1 talking about this. Gridware is an Australian cybersecurity auditing and consulting start-up based in Sydn",
+    "url": "https://www.facebook.com/gridware/",
+    "pass": 3
+   },
+   {
+    "quote": "Gridware - Gridware added a new photo. - Facebook Nov 18, 2020 · Recent posts Gridware Dec 23, 2025 · Public Final press check We’re wrapping up the Gridware 2026 Wall Calendar, featuring some of the best field photos captured by our customers, linemen, and the Gridware field teams. Always rewarding to see real-world moments captured in the field come together in print.",
+    "url": "https://www.facebook.com/GridwareInc/photos/103531938252517/",
+    "pass": 3
+   },
+   {
+    "quote": "Gridware - Gridware updated their profile picture. - Facebook May 6, 2025 · Final press check We’re wrapping up the Gridware 2026 Wall Calendar, featuring some of the best field photos captured by our customers, linemen, and the Gridware field teams. Always rewarding to see real-world moments captured in the field come together in print.",
+    "url": "https://www.facebook.com/GridwareInc/photos/1008975078030868/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.gridware.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridware.io/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridware.io/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridware.io/about-gridware",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gridware.io/customers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.firstcvc.jp/global/gridware.io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infiniware.jp/products/gridware-cluster-scheduler/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wi-sun.org/ja/%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E4%BC%9A%E7%A4%BE/gridware/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hpc-gridware.com/hpc-gridware-at-sca-hpcasia-2026-in-osaka/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/gridwareinc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/gridware",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/gridware/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/gridware",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/442981-00",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/gridware/__wpxx1HZudY5aAowszwfCDOu0Ocv7pexH6va7NZz2etY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/gridware/rmipfncccy84dhgdp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/HPC_Gridware",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/A_binomar1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/khanjicyber",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/gridwareinc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/gridware-cybersecurity/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/in/abdulmhanni",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/gridwareinc/jobs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GridwareInc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/gridware/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GridwareInc/photos/103531938252517/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GridwareInc/photos/1008975078030868/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/timothybarat",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HPC_Gridware",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/gridware",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Gridware 日本 導入",
+   "results": [
+    "https://www.gridware.io/",
+    "https://www.firstcvc.jp/global/gridware.io",
+    "https://www.infiniware.jp/products/gridware-cluster-scheduler/",
+    "https://wi-sun.org/ja/メンバー会社/gridware/",
+    "https://huntscreens.com/ja/products/gridware",
+    "https://www.gridware.io/gridscope",
+    "https://earthkey.blog/global/gridware/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gridware 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Gridware Japan",
+   "results": [
+    "https://www.gridware.io/",
+    "https://www.gridware.io/applications",
+    "https://hpc-gridware.com/hpc-gridware-at-sca-hpcasia-2026-in-osaka/",
+    "https://www.linkedin.com/company/gridwareinc",
+    "https://wi-sun.org/ja/メンバー会社/gridware/",
+    "https://en.firstcvc.jp/global/gridware.io",
+    "https://hpc-gridware.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gridware manufacturing customer case study",
+   "results": [
+    "https://www.gridware.io/case-studies",
+    "https://www.gridware.io/customers",
+    "https://www.casestudies.com/company/gridware",
+    "https://www.featuredcustomers.com/vendor/gridware/case-studies",
+    "https://www.gridware.com.au/customer-success-stories/",
+    "https://www.casestudies.com/company/gridware/case-study/fire-risk-escalates-for-xcel-energy-across-diverse-terrain",
+    "https://www.gridware.com.au/blog/gridware-case-study-how-we-helped-fintech-leader-astute-wheel/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gridware white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.seoreseller.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/digitalexperience/",
+    "https://www.t-mobile.com/business/partner-recruitment"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gridware founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/gridware",
+    "https://pitchbook.com/profiles/company/442981-00",
+    "https://tracxn.com/d/companies/gridware/__wpxx1HZudY5aAowszwfCDOu0Ocv7pexH6va7NZz2etY",
+    "https://www.thecompanycheck.com/company/b/gridware/rmipfncccy84dhgdp",
+    "https://exa.ai/websets/directory/gridware-funding",
+    "https://www.cbinsights.com/company/gridware-1",
+    "https://aventure.vc/companies/gridware-sacramento-ca-us/fundraising"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Gridware",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/dashboard",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/kiitemiyou123/n/n4f7e0ff28671",
+    "https://note.com/spaceygoblin/n/n0f0677188638",
+    "https://note.com/rakbil/n/n16a0b62cd206"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Gridware",
+   "results": [
+    "https://x.com/HPC_Gridware",
+    "https://x.com/",
+    "https://x.com/A_binomar1",
+    "https://x.com/khanjicyber",
+    "https://x.com/Brooke_Lin1/status/2119320957978620403",
+    "https://x.com/nessasleone/status/2119479910729179459",
+    "https://x.com/MehekCooke/status/2119183723400761473"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Gridware",
+   "results": [
+    "https://www.linkedin.com/company/gridwareinc",
+    "https://www.linkedin.com/company/gridware-cybersecurity/",
+    "https://au.linkedin.com/in/abdulmhanni",
+    "https://www.linkedin.com/company/gridwareinc/jobs/",
+    "https://www.linkedin.com/in/timothybarat",
+    "https://www.linkedin.com/company/hpc-gridware",
+    "https://www.linkedin.com/company/gridwarebv"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Gridware",
+   "results": [
+    "https://www.facebook.com/GridwareInc/",
+    "https://www.facebook.com/gridware/",
+    "https://www.facebook.com/GridwareInc/photos/103531938252517/",
+    "https://www.facebook.com/GridwareInc/photos/1008975078030868/",
+    "https://www.facebook.com/GridwareInc/photos/403645308563851/",
+    "https://www.facebook.com/pages/Gridware+Cyber+Security+-+Melbourne/105343489062629/",
+    "https://www.facebook.com/p/Gridware-IR-61560410394435/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gridware note 社長",
+   "results": [
+    "https://www.linkedin.com/in/timothybarat",
+    "https://www.crunchbase.com/person/timothy-barat-7b3e",
+    "https://www.unifygtm.com/insights/executives/gridware-ceo",
+    "https://exa.ai/websets/directory/gridware-executives",
+    "https://yespress.io/timothy-barat",
+    "https://www.gridware.io/news/podcast-gridware-ceo-tim-barat-speaks-with-cleantechies",
+    "https://www.sequoiacap.com/founder/timothy-barat"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gridware X 投稿",
+   "results": [
+    "https://www.gridware.io/",
+    "https://x.com/HPC_Gridware",
+    "https://x.com/gridware",
+    "https://app.gridware.io/auth/login",
+    "https://www.gridware.io/gridscope",
+    "https://gridwareinc.com/ecosystem/gridworkspace",
+    "https://note.com/aikachan_ai/n/n5bf03e58300f"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部29頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部29頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部29頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部29頁・検索12回）"
+ }
+}

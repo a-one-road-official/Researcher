@@ -1,0 +1,1182 @@
+{
+ "name": "Fernride",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T23:51:31.795715+00:00",
+ "official_url": "https://www.fernride.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$23,000",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$40,073,000",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   },
+   {
+    "label": "6. Seed Round",
+    "value": "06-Jul-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/327252-88",
+    "pass": 3
+   },
+   {
+    "label": "3. Seed Round",
+    "value": "04-Dec-2019 $2.32M $2.32M  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/327252-88",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Joseph-Dollinger-Bogen 28, München, Bayern 80807, DE",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2019",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Improve productivity, safety and sustainability with logistics automation solutions for moving cargo in container terminals, manufacturing facilities and distribution centers.",
+    "url": "https://www.fernride.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce risks and free up personnel with FERNRIDE’s proven ground autonomy platform for unmanned vehicles.",
+    "url": "https://www.fernride.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FERNRIDE’s autonomous trucks can automate cargo movements between ports, facilities, and logistics hubs, extending yard trucking benefits to open-road logistics for greater productivity and efficiency.",
+    "url": "https://www.fernride.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate your yard operations with FERNRIDE's reliable, autonomous shunting solution, improving productivity and reducing inefficiencies.",
+    "url": "https://www.fernride.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FERNRIDE delivers a comprehensive ground autonomy platform designed to automate operations in the most demanding, repetitive and high-risk environments.",
+    "url": "https://www.fernride.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us to learn how FERNRIDE's autonomous solution can accelerate your transition to automated and green operations. Our technology integrates with your existing processes, improving productivity, safety, and sustainability while delivering immediate ROI.",
+    "url": "https://www.fernride.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Moving forward into zero-emissions sustainable logistics powered by electric vehicles and future-proof technology.",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Safety first: protect your workers and the success of your everyday operations. Human-machine collaboration and guaranteed reliability ensure that you’ve safely and effectively achieved your targets at the end of every shift.",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate inefficiencies, increase your operational productivity, and redefine the role of drivers while boosting their output.",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "We are proud to have strong partners and venture capitals supporting our vision and driving our growth.",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "\"In terms of potential, Fernride plays in the same league as our previous early-stage investments such as Volocopter or Luminar. For me, the team is already one of the strongest in Europe. I am convinced that Hendrik and his team will make a decisive contribution on the road to autonomous driving. We are proud to support Fernride on this journey.\"",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "FERNRIDE has raised more than €75 million in venture funding from leading investors and proven entrepreneurs and was acquired in December 2025 to establish the",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "We deliver results & fast prototypes, learn iteratively, make entrepreneurial choices, and maintain a hands-on, can-do attitude.",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Development of product, technology as well as the business model - supported by Seed Investment from Speedinvest, Fly Ventures, UnternehmerTUM and Business Angel Amir Roughani.",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Successful proof of technology with an initial pilot project on a customer site at DB Schenker together with special vehicle manufacturer KAMAG.",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Partnerships with leading OEMs and signature for more customer pilot projects to proof of commercial feasibility.",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "First productive operations of two automated trucks at the world’s largest automotive production plant at Volkswagen Wolfsburg",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Productive operations across all yard-trucking use-cases with DB Schenker, HHLA, and Volkswagen.",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Hendrik studied industrial engineering at TUM and Stanford and was recognized as a Forbes 30 Under 30 and Logistics Leader of the Year 2024. As CEO, he leads FERNRIDE in building a global platform for industrial automation.",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "With over 15 years at Audi launching successful L2 and L3 ADAS products, Thomas led teams developing L4 autonomous systems across Europe before joining FERNRIDE. As CTO/COO, he bridges product development and deployment, ensuring seamless customer integration.",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "With over 15 years of experience at Goldman Sachs, Barclays, and Forto, and degrees in Mathematics and Economics from Wellesley College and an MBA from Yale, Candice leads People & Culture and the CEO Office at FERNRIDE, shaping an engaged and high-performing team.",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Klaus is founder and CEO of K2Elevation, a company that invests in international enterprises in the technology segment. He was Chairman and CEO of Alcoa/Arconic. Previously, Klaus had a 20-year career with Siemens and became CEO of Siemens AG in 2005.",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Holger has more than 30 years of leadership experience in general management, sales, procurement and organizational strategy. His career includes executive positions such as CEO and board member at Volkswagen/MAN Group, Caterpillar and Volvo.",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Thomas is the former CEO of HENSOLDT AG, having led the company from 2015 until recently. He previously held senior executive roles at Astrium, EADS, and Airbus, and now serves on the supervisory board of Airbus Defense and Space. Throughout his career, he has built a track record of driving growth and innovation in aerospace and defense.",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us to learn how FERNRIDE's autonomous solution can accelerate your transition to automated and green operations. Our technology integrates with your existing processes, improving productivity, safety, and sustainability while delivering immediate ROI.",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Extending autonomous transport to open roads.",
+    "url": "https://www.fernride.com/open-positions",
+    "pass": 1
+   },
+   {
+    "quote": "FERNRIDE Launches Comprehensive Driverless Testing",
+    "url": "https://deeptech.nextblue.com/press/2174",
+    "pass": 3
+   },
+   {
+    "quote": "その後、EADS、エアバス、そして最後にヘンゾルトで様々な管理職を歴任し、エアバス・グループからのスピンオフ後、独立企業としてのヘンゾルトの設立を成功に導きました",
+    "url": "https://xpert.digital/ja/%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "FERNRIDE accelerates autonomous trucking model training with CVAT Online 3D annotation tools",
+    "url": "https://www.casestudies.com/customer/fernride",
+    "pass": 3
+   },
+   {
+    "quote": "productivity, promote sustainability, and improve worker",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "approach, which allows for remote takeovers of trucks",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "safety driver that is currently present in the cabin to",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "provide an additional safety layer.",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "standards in autonomous terminal tractors in private",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "on advancing its product towards compliance with the",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Safety First: FERNRIDE prioritizes the safety",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Regulatory Compliance: The pre-certified QNX",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "software provided the safe software, training,",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "takes a human-assisted approach to autonomy",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "centers. With the pressing challenges of driver shortages,",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "thin profit margins, and the need to increase efficiency,",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "calls it ‘human-assisted autonomy’. This approach allows",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "from day one. Currently, a safety driver is present in the",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "a software provider that was recognized for its strength in",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "the automotive industry and that could provide a software",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "is why, at FERNRIDE, we take a phased approach to implementation and deliver the highest",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "FERNRIDE needed a software provider that had pre-",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "qualification, experience, and could provide support and",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "training. These factors would contribute to the company’s",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "FERNRIDE prioritized safety while also enabling",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Prioritizing a Safe Software Foundation",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "extensive retraining. Other important factors included the",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "availability of training, process isolation, and out-of-the-",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "During the selection process, FERNRIDE also considered",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Director Of Marketing & Communications",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Director Marketing And Communications",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Director Program Management",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft Advertising",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "FERNRIDE has approximately",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Improve productivity, safety and sustainability with logistics automation solutions for moving cargo in container terminals, manufacturing facilities and distribution centers.",
+    "url": "https://www.fernride.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline component transportation within your manufacturing facility using FERNRIDE's autonomous solution, reducing idle time and increasing efficiency.",
+    "url": "https://www.fernride.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We are creating the future of industrial automation by transforming critical industries through human-centric automation.",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Investor and Lead Partner Industrial Tech at",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "10 years of research at the leading Chair of Automotive Engineering at TUM in the field of vehicle engineering and sensor technology.",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Successful proof of technology with an initial pilot project on a customer site at DB Schenker together with special vehicle manufacturer KAMAG.",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "First productive operations of two automated trucks at the world’s largest automotive production plant at Volkswagen Wolfsburg",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Hendrik studied industrial engineering at TUM and Stanford and was recognized as a Forbes 30 Under 30 and Logistics Leader of the Year 2024. As CEO, he leads FERNRIDE in building a global platform for industrial automation.",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Thomas is the former CEO of HENSOLDT AG, having led the company from 2015 until recently. He previously held senior executive roles at Astrium, EADS, and Airbus, and now serves on the supervisory board of Airbus Defense and Space. Throughout his career, he has built a track record of driving growth and innovation in aerospace and defense.",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Success Stories about Software and Services used by FERNRIDE",
+    "url": "https://www.casestudies.com/customer/fernride",
+    "pass": 3
+   },
+   {
+    "quote": "reliable operations for logistics operators. FERNRIDE is",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "the automotive industry and that could provide a software",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "strength in the automotive industry and that QNX provided",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "operators. With more than a decade of research and",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "including automotive, medical devices, industrial controls,",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "robotics, commercial vehicles, rail, and aerospace and",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: FERNRIDE strengthens autonomous vehicle cybersecurity with Diconium | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/diconium/case-study/fernride-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: FERNRIDE strengthens autonomous vehicle cybersecurity with Diconium",
+    "url": "https://www.casestudies.com/company/diconium/case-study/fernride-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "FERNRIDE - Customer Case Study",
+    "url": "https://www.casestudies.com/company/diconium/case-study/fernride-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/diconium/case-study/fernride-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/diconium/case-study/fernride-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Physical AI is the biggest transformational technology of our time. Backed by €75 million in venture funding from top-tier investors and trusted by blue chip customers, such as HHLA, Volkswagen, and DB Schenker, we are on a mission to build Europe’s leader in Physical AI, on track to lead the world in next-generation industrial automation.",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us to learn how FERNRIDE's autonomous solution can accelerate your transition to automated and green operations. Our technology integrates with your existing processes, improving productivity, safety, and sustainability while delivering immediate ROI.",
+    "url": "https://www.fernride.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us to learn how FERNRIDE's autonomous solution can accelerate your transition to automated and green operations. Our technology integrates with your existing processes, improving productivity, safety, and sustainability while delivering immediate ROI.",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/327252-88",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Partnerships with leading OEMs and signature for more customer pilot projects to proof of commercial feasibility.",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "FERNRIDE has raised more than €75 million in venture funding from leading investors and proven entrepreneurs and was acquired in December 2025 to establish the",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "3 Employees",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "15 Employees",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "25 Employees",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "35 Employees",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "60 Employees",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Guenter is an executive with decades of experience in the maritime and logistics sectors, focusing on implementing automation solutions. As Chief Revenue Officer, he leverages his leadership experience to drive FERNRIDE’s mission",
+    "url": "https://www.fernride.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "150 employees.",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "FERNRIDE Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At FERNRIDE",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "FERNRIDE was founded in 2019 following 10 years of research at the Technical University of Munich and currently has over 150 employees. We are setting the standard for autonomous logistics and advancing Europe’s technological sovereignty by delivering the first-ever fully certified autonomous trucking system in Europe in 2025.",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of FERNRIDE?",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "FERNRIDE generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does FERNRIDE have?",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Fernride 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/327252-88",
+    "pass": 3
+   },
+   {
+    "quote": "11. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/327252-88",
+    "pass": 3
+   },
+   {
+    "quote": "Fernride has 150 total employees.",
+    "url": "https://pitchbook.com/profiles/company/327252-88",
+    "pass": 3
+   },
+   {
+    "quote": "What is Fernride’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/327252-88",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Fernride is",
+    "url": "https://pitchbook.com/profiles/company/327252-88",
+    "pass": 3
+   },
+   {
+    "quote": "When was Fernride acquired?",
+    "url": "https://pitchbook.com/profiles/company/327252-88",
+    "pass": 3
+   },
+   {
+    "quote": "Fernride was acquired on 17-Dec-2025.",
+    "url": "https://pitchbook.com/profiles/company/327252-88",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired Fernride?",
+    "url": "https://pitchbook.com/profiles/company/327252-88",
+    "pass": 3
+   },
+   {
+    "quote": "Fernride was acquired by",
+    "url": "https://pitchbook.com/profiles/company/327252-88",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "：日本最大の問題と解決策：縮小、債務、停滞 - 世界第3位の経済大国は衰退の危機に瀕しているのか？",
+    "url": "https://xpert.digital/ja/%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "FERNRIDE | Flexible Ground Autonomy — FERNRIDE delivers scalable automation for industries ranging from container terminals and yard operations to defence and open-road trucking.",
+    "url": "https://www.fernride.com/",
+    "pass": 3
+   },
+   {
+    "quote": "FERNRIDE、包括的な無人走行テストを開始 - DeepTech.NEXTBLUE — FERNRIDE は2025年1月、自律走行トラックソリューションの本格的な無人走行テストを開始した。2024年には14週間で2,000を超えるテストシナリオを実施しており、2025年はさらに大規模な検証を計画している。テストは、自動走行、車両の応答性、予期しない障害物に対する制動など、コンテナ ...",
+    "url": "https://deeptech.nextblue.com/press/2174",
+    "pass": 3
+   },
+   {
+    "quote": "自律型コンテナ車両？ Fernride が防衛物流に進出 ️ 人間支援による自... — Sep 23, 2025 · 二つの世界のための革命的なテクノロジー Fernrideは2019年から、「Human-Assisted Autonomy（人間支援による自律走行）」というコンセプトに特化し、自律物流プロセスのための革新的なソリューションを開発しています。",
+    "url": "https://xpert.digital/ja/自動運転トラック/",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Systems acquires FERNRIDE — Dec 17, 2025 · As part of its expansion into a multi-domain provider, Quantum Systems acquires FERNRIDE and integrates solutions for ground autonomy.",
+    "url": "https://quantum-systems.com/news/quantum-systems-acquires-fernride/",
+    "pass": 3
+   },
+   {
+    "quote": "FERNRIDE | Human-Assisted Autonomous Technology — FERNRIDE is the first to receive TÜV SÜD certification under the EU Machinery Directive for autonomous terminal tractors. Our ground autonomy platform meets Europe’s stringent requirements for safety, security, and reliability.",
+    "url": "https://www.fernride.com/our-platform",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How FERNRIDE Uses Software & Services — Explore case studies featuring FERNRIDE as the customer — learn how vendors and partners helped FERNRIDE solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/fernride",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study Revolutionizing Container Terminal Transportation — Customer Background FERNRIDE, based in Munich, Germany, offers automation solutions for port and yard logistics that aim to increase productivity, promote sustainability, and improve worker safety. The company employs a human-assisted autonomy approach, which allows for remote takeovers of trucks when necessary. This enables seamless i",
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: FERNRIDE strengthens autonomous vehicle ... — FERNRIDE - Customer Case Study FERNRIDE, a European leader in automation solutions for yard and port logistics, faced the challenge of securing its autonomous vehicle systems against cyber threats to meet IEC 62443 standards. Their distributed architecture and compressed development timeline required a partner with deep expertise in automot",
+    "url": "https://www.casestudies.com/company/diconium/case-study/fernride-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Driverless yard shunting - FERNRIDE — The Munich-based company Fernride offers a solution with its teleoperation platform. The platform (including the underlying technology, AI and hardware stacks) and accompanying integration services enable the gradual introduction of driverless processes in logistics. For this purpose, the human intelligence of a so-called teleoperator is linked wit",
+    "url": "https://www.fernride.com/news/case-study-driverless-yard-shunting",
+    "pass": 3
+   },
+   {
+    "quote": "FERNRIDE | Flexible Ground Autonomy — Enhance container movement efficiency and safety in mixed-traffic terminals with FERNRIDE-enabled autonomous terminal tractors. Streamline component transportation within your manufacturing facility using FERNRIDE's autonomous solution, reducing idle time and increasing efficiency.",
+    "url": "https://www.fernride.com/",
+    "pass": 3
+   },
+   {
+    "quote": "FERNRIDE – Overview – Funding, Revenue & Growth – 2026 — With 86 employees generating $330K in revenue per person, the company shows strong productivity metrics. Founded 7 years ago, FERNRIDE is past the early startup phase.",
+    "url": "https://compworth.com/company/fernride",
+    "pass": 3
+   },
+   {
+    "quote": "FERNRIDE Revenue, Funding & Valuation - prospeo.io — FERNRIDE was founded in 2019 following 10 years of research at the Technical University of Munich and currently has over 150 employees. We are setting the standard for autonomous logistics and advancing Europe’s technological sovereignty by delivering the first-ever fully certified autonomous trucking system in Europe in 2025.",
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Fernride - 2026 Company Profile, Team, Funding, Competitors ...Fernride 2026 Company Profile: Valuation, Investors ...FERNRIDE Information - RocketReachFERNRIDE — investors & funding | gritt.ioFERNRIDE funding, valuation, investors & robots · MEKAWIRE — Mar 13, 2026 · Fernride is an acquired company based in Munich (Germany), founded in 2019 by Hendrik Kramer, Jean-Michael Georg and Maximilian Fis",
+    "url": "https://tracxn.com/d/companies/fernride/__M0zOJ4gTNJ-NFlRh3r2oS2qejJnISdm3AqihEtv2lt0",
+    "pass": 3
+   },
+   {
+    "quote": "Fernride 2026 Company Profile: Valuation, Investors ...FERNRIDE Information - RocketReachFERNRIDE — investors & funding | gritt.ioFERNRIDE funding, valuation, investors & robots · MEKAWIRE — The current revenue for Fernride is . How much funding has Fernride raised over time? Fernride has raised $88.4M. Who are Fernride’s investors? 10X Group, 10x Founders, Bayern Kapital, DeepTech & Climate Fonds",
+    "url": "https://pitchbook.com/profiles/company/327252-88",
+    "pass": 3
+   },
+   {
+    "quote": "FERNRIDE Information - RocketReachFERNRIDE — investors & funding | gritt.ioFERNRIDE funding, valuation, investors & robots · MEKAWIRE — FERNRIDE is a Robotics Engineering company located in DE with $12.6 million in revenue and 46 employees. Find top employees, contact details and business statistics at RocketReach. FERNRIDE was founded in 2019 following 10 years of research at the Technical Univer",
+    "url": "https://rocketreach.co/fernride-profile_b794b559c24dd415",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "FERNRIDE (@fernride) / Posts / X FERNRIDE. fernride. Joined: Jun 6, 2020. 0 Posts. 0 Following. 6 Followers. Posts. Explore Trending Stories Go to Home Search X News",
+    "url": "https://x.com/fernride",
+    "pass": 3
+   },
+   {
+    "quote": "My heritage - x.com Fern☠️🚜🏍️ (@fernride4life). 8 likes 125 views. My heritage",
+    "url": "https://x.com/fernride4life/status/2033189492287234436",
+    "pass": 3
+   },
+   {
+    "quote": "Fern☠️ ️ (@fernride4life) / X BIKER. PORRABOER! music, beer🍻, history, humour. Respect my people and traditions or leave. not interested in a relationship. STOP FARMMURDERS",
+    "url": "https://x.com/fernride4life",
+    "pass": 3
+   },
+   {
+    "quote": "You idiots are disgusting. Each cross is for a farmer who ... Fern☠️🚜🏍️ (@fernride4life). 327 likes 112 replies. You idiots are disgusting. Each cross is for a farmer who were murdered moron. Maybe do proper research. Those crosses next to the road were for a protest against farm murders",
+    "url": "https://x.com/fernride4life/status/2025820156992106506",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "FERNRIDE - LinkedIn FERNRIDE | 15,322 followers on LinkedIn. DRIVING LOGISTICS AUTOMATION | At FERNRIDE, we believe in a future where robotics unlocks human potential to create a better world. Yet today, humans still ...",
+    "url": "https://www.linkedin.com/company/fernride",
+    "pass": 3
+   },
+   {
+    "quote": "This Is How We Build an Autonomous Fleet... Together - LinkedIn Aug 7, 2025 · Getting Autonomous Trucks Market Ready In partnership with Motius, FERNRIDE has advanced autonomous logistics to meet the highest safety standards for critical infrastructure.",
+    "url": "https://www.linkedin.com/pulse/how-we-build-autonomous-fleet-together-fernride-0fwdf/",
+    "pass": 3
+   },
+   {
+    "quote": "Hendrik Kramer – Co-Founder & CEO at FERNRIDE | LinkedIn Co-Founder & CEO at FERNRIDE · Berufserfahrung: FERNRIDE · Ausbildung: Stanford University · Standort: Bayern · Sehen Sie sich das Profil von Hendrik Kramer auf LinkedIn, einer professionellen Community mit mehr als 1 Milliarde Mitgliedern, an.",
+    "url": "https://de.linkedin.com/in/hendrik-kramer-31011139b",
+    "pass": 3
+   },
+   {
+    "quote": "Jean-Michael Georg – FERNRIDE | LinkedInFernride Jobs in Worldwide (28,000+ Open Roles) | LinkedInFERNRIDE on LinkedIn: #teleoperation #driverlessfuture#fernride #logisticstransformation #5yearsstrong # ... Berufserfahrung: FERNRIDE · Ausbildung: RWTH Aachen University · Ort: München · 500+ Kontakte auf LinkedIn. Sehen Sie sich das Profil von Jean-Michael Georg Jean-Michael Georg auf LinkedIn, ein",
+    "url": "https://de.linkedin.com/in/jmgeorg",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Fernride - Facebook Fernride, Munich, Germany. 158 likes · 1 was here. Fernride enables automated, sustainable logistics by combining the skills of remote drivers with autonomous technologies",
+    "url": "https://www.facebook.com/Fernride/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Fernride - Facebook May 18, 2021 · Facebook is showing information to help you better understand the purpose of a Page. See actions taken by the people who manage and post content.",
+    "url": "https://www.facebook.com/pages/Fernride/106457041631622/",
+    "pass": 3
+   },
+   {
+    "quote": "FERNRIDE –... - Manufacturing & Logistics IT Magazine Jan 31, 2024 · FERNRIDE – Autonomous, electric #trucking solution driving sustainability, productivity and safety in the supply chain...",
+    "url": "https://www.facebook.com/MLITMagazine/posts/fernride-autonomous-electric-trucking-solution-driving-sustainability-productivi/1120049419370684/",
+    "pass": 3
+   },
+   {
+    "quote": "FERNRIDE is accelerating the transition to #automated and # ... Jul 25, 2022 · FERNRIDE is accelerating the transition to #automated and #sustainable logistics by creating the best human-machine collaboration technology. In close collaboration with the marketing team of FERNRIDE lehof COMMERCIAL created a gripping Company Film and further assets to promote teleoperation to investors and the public",
+    "url": "https://www.facebook.com/lehofmedia/videos/fernride-is-accelerating-the-transition-to-automated-and-sustainable-logistics-b/611778366938358/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fernride.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fernride.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fernride.com/open-positions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fernride.com/uc-manufacturing",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/5fa51840490fb91334d17311/65f82a64a01586303cd34000_manufacturing-supply-website%402x.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://deeptech.nextblue.com/press/2174",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xpert.digital/ja/%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quantum-systems.com/us/news/quantum-systems-acquires-fernride",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/fernride",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.casestudies.com/company/diconium/case-study/fernride-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ninjaone.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/fernride",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/fernride-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/fernride/__M0zOJ4gTNJ-NFlRh3r2oS2qejJnISdm3AqihEtv2lt0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/327252-88",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/fernride",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fernride4life/status/2033189492287234436",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fernride4life",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fernride4life/status/2025820156992106506",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/fernride",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/how-we-build-autonomous-fleet-together-fernride-0fwdf/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/hendrik-kramer-31011139b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/jmgeorg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Fernride/about/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/Fernride/106457041631622/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MLITMagazine/posts/fernride-autonomous-electric-trucking-solution-driving-sustainability-productivi/1120049419370684/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lehofmedia/videos/fernride-is-accelerating-the-transition-to-automated-and-sustainable-logistics-b/611778366938358/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fernride",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fernride4life",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fernride4life/status/2033189492287234436",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Fernride 日本 導入",
+   "results": [
+    "https://www.fernride.com/",
+    "https://deeptech.nextblue.com/press/2174",
+    "https://xpert.digital/ja/自動運転トラック/",
+    "https://quantum-systems.com/news/quantum-systems-acquires-fernride/",
+    "https://www.fernride.com/our-platform",
+    "https://www3.to/quantum-systems、fernride買収により防衛自律スタックを拡張/",
+    "https://travel.watch.impress.co.jp/docs/news/2131337.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fernride 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.dnb.com/business-directory/company-profiles/carrier-japan-corporation.c68792be67b1faf869e19ed327c4cc00",
+    "https://www.teradyne.com/ja/company/about-us/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fernride Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Fernride manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/fernride",
+    "https://qnx.software/content/dam/qnx-xwalk/pdf/success-stories/commercial-vehicles/qnx-fernride-case-study.pdf",
+    "https://www.casestudies.com/company/diconium/case-study/fernride-customer-case-study",
+    "https://www.fernride.com/news/case-study-driverless-yard-shunting",
+    "https://www.fernride.com/",
+    "https://diconium.com/en/success-stories/fernride",
+    "https://www.cvat.ai/case-study/fernride"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fernride white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://partners.spectrum.com/",
+    "https://connect.redhat.com/en/partner-program"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fernride founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/fernride",
+    "https://prospeo.io/c/fernride-revenue",
+    "https://tracxn.com/d/companies/fernride/__M0zOJ4gTNJ-NFlRh3r2oS2qejJnISdm3AqihEtv2lt0",
+    "https://pitchbook.com/profiles/company/327252-88",
+    "https://rocketreach.co/fernride-profile_b794b559c24dd415",
+    "https://www.gritt.io/company/fernride/",
+    "https://mekawire.com/companies/fernride"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Fernride",
+   "results": [
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/nakura__/n/n0ad68bc081ee",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/fond_clam2634/n/n06d26defb95d",
+    "https://note.com/kaede_money/n/nd2625da70290",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/dandori_money/n/n9a8362b1861d"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Fernride",
+   "results": [
+    "https://x.com/fernride",
+    "https://x.com/fernride4life/status/2033189492287234436",
+    "https://x.com/fernride4life",
+    "https://x.com/fernride4life/status/2025820156992106506",
+    "https://x.com/fernride4life/status/2103018418643390687",
+    "https://x.com/fernride4life/status/2102618184662618488",
+    "https://x.com/fernride4life/status/2101889603212886216"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Fernride",
+   "results": [
+    "https://www.linkedin.com/company/fernride",
+    "https://www.linkedin.com/pulse/how-we-build-autonomous-fleet-together-fernride-0fwdf/",
+    "https://de.linkedin.com/in/hendrik-kramer-31011139b",
+    "https://de.linkedin.com/in/jmgeorg",
+    "https://www.linkedin.com/jobs/fernride-jobs-worldwide",
+    "https://www.linkedin.com/posts/fernride_teleoperation-driverlessfuture-activity-6734488195364466688-Y9Lb",
+    "https://www.linkedin.com/posts/fernride_celebrating-5-years-of-fernride-today-and-activity-7242816012960641027-9IrE"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Fernride",
+   "results": [
+    "https://www.facebook.com/Fernride/about/",
+    "https://www.facebook.com/pages/Fernride/106457041631622/",
+    "https://www.facebook.com/MLITMagazine/posts/fernride-autonomous-electric-trucking-solution-driving-sustainability-productivi/1120049419370684/",
+    "https://www.facebook.com/lehofmedia/videos/fernride-is-accelerating-the-transition-to-automated-and-sustainable-logistics-b/611778366938358/",
+    "https://www.facebook.com/nvidiaeurope/videos/-fernride-is-transforming-logistics-with-ai-powered-autonomous-trucks-️-httpsnvd/1015406700527307/",
+    "https://www.facebook.com/speedinvestcom/posts/762631992386453/",
+    "https://www.facebook.com/zeitung.transport/posts/projekt-fernride-und-terberg-testen-fahrerlosen-prototypen-transport/4695605800484851/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fernride note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://www.fernride.com/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.fernride.com/filter-news/company",
+    "https://quantum-systems.com/news/quantum-systems-acquires-fernride/",
+    "https://jp.linkedin.com/company/fernride/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fernride X 投稿",
+   "results": [
+    "https://x.com/fernride",
+    "https://www.fernride.com/",
+    "https://x.com/fernride4life",
+    "https://x.com/fernride4life/status/2033189492287234436",
+    "https://x.com/fernride4life/status/2116408163293356540",
+    "https://x.com/fernride4life/status/2102702134433046552",
+    "https://x.com/fernride4life/status/2117111701908726127"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部33頁・検索12回）"
+ }
+}

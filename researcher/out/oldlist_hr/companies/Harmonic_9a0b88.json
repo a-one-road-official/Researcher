@@ -1,0 +1,1795 @@
+{
+ "name": "Harmonic",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜状態なし",
+ "researched_at": "2026-11-11T23:48:19.616447+00:00",
+ "official_url": "https://www.harmonic.security",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Harmonic Security | AI Security for the Workforce",
+    "url": "https://www.harmonic.security/",
+    "pass": 1
+   },
+   {
+    "quote": "AI wherever your workforce runs it",
+    "url": "https://www.harmonic.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Click around a live preview of the Harmonic console — no signup, no sales call.",
+    "url": "https://www.harmonic.security/",
+    "pass": 1
+   },
+   {
+    "quote": "explore.harmonic.security · Harmonic Platform preview",
+    "url": "https://www.harmonic.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Principal, Information Security Architect, Advisor360",
+    "url": "https://www.harmonic.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Safely Enabling Workforce AI",
+    "url": "https://www.harmonic.security/",
+    "pass": 1
+   },
+   {
+    "quote": "A primer for security leaders on governing how employees and their agents use AI, without slowing down the work.",
+    "url": "https://www.harmonic.security/",
+    "pass": 1
+   },
+   {
+    "quote": "No. Pattern-matching DLP cannot tell a draft email from a deal memo because prompts are unstructured and contextual. Static rules either flood teams with false positives or get ripped out entirely. We classify the meaning of the work, not the shape of the string. That is what lets us govern inline, where DLP can only monitor.",
+    "url": "https://www.harmonic.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Purview gives you visibility inside only Microsoft tools and only works as a traditional keyword based DLP solution. Real AI usage is not Microsoft-only. We see the full stack across vendors, including the long tail and the agentic surfaces, and we provide context aware guardrails for employees and their agents.",
+    "url": "https://www.harmonic.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Can't we just block all unapproved tools?",
+    "url": "https://www.harmonic.security/",
+    "pass": 1
+   },
+   {
+    "quote": "This is the problem most security platforms cannot see yet. When an agent reads a file, calls an API, writes to a database, and emails a summary, all without a human in the loop, there is no browser request to inspect and no prompt to classify at the keyboard. We govern at the MCP layer and at the tool surface, which is where agentic workflows execute. Policy follows the action, not the person.",
+    "url": "https://www.harmonic.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Harmonic covers ChatGPT and Codex across supported web, desktop, and command-line environments. It provides discovery and monitoring across those surfaces, with inline guardrails where the application and deployment method support them. Harmonic also monitors calls to OpenAI APIs from scripts and other applications.",
+    "url": "https://www.harmonic.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Does this help with the EU AI Act, GDPR, or other regulations?",
+    "url": "https://www.harmonic.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Harmonic Security | Partner Program",
+    "url": "https://www.harmonic.security/company/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "At Harmonic Security, we welcome all types of partners in one simple program to work with us to best support your business model:",
+    "url": "https://www.harmonic.security/company/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Sales/Technical Training",
+    "url": "https://www.harmonic.security/company/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Incumbency Protection",
+    "url": "https://www.harmonic.security/company/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Joint Lead Generation",
+    "url": "https://www.harmonic.security/company/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Co-Branded Marketing Collateral",
+    "url": "https://www.harmonic.security/company/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "This is a foundational moment. Joining now means shaping both the product and the category.",
+    "url": "https://www.harmonic.security/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Prefer substance over hype",
+    "url": "https://www.harmonic.security/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "url": "https://www.harmonic.security/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Need rigid structure or heavy process",
+    "url": "https://www.harmonic.security/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Prefer incremental change over first-principles work",
+    "url": "https://www.harmonic.security/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You raise your hand, learn constantly, and take ownership of hard problems.",
+    "url": "https://www.harmonic.security/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We foster success through collaboration and honest sharing of feedback and ideas, enabling everyone to grow and produce their best work.",
+    "url": "https://www.harmonic.security/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "• Comprehensive benefits",
+    "url": "https://www.harmonic.security/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Every role at Harmonic directly shapes how enterprises adopt AI safely at scale. You will help define systems, not inherit them.",
+    "url": "https://www.harmonic.security/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Regulators and auditors want evidence that AI use is under control. Harmonic records how employees use AI and applies granular controls to sensitive data and high-risk use cases, so you can answer their questions while your workforce keeps using AI safely.",
+    "url": "https://www.harmonic.security/solutions/genai-compliance-regulated-industries",
+    "pass": 1
+   },
+   {
+    "quote": "They identify when AI is being used for high-risk activities such as automated candidate screening or credit scoring, so you can apply the specific guardrails the EU AI Act and local laws require.",
+    "url": "https://www.harmonic.security/solutions/genai-compliance-regulated-industries",
+    "pass": 1
+   },
+   {
+    "quote": "Protect data privacy under HIPAA and GDPR",
+    "url": "https://www.harmonic.security/solutions/genai-compliance-regulated-industries",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent the upload of protected health information and personally identifiable information to non-compliant models.",
+    "url": "https://www.harmonic.security/solutions/genai-compliance-regulated-industries",
+    "pass": 1
+   },
+   {
+    "quote": "Harmonic works in the browser and on the endpoint to detect sensitive data and block it from unapproved AI tools, so patient and client data stays out of public model training.",
+    "url": "https://www.harmonic.security/solutions/genai-compliance-regulated-industries",
+    "pass": 1
+   },
+   {
+    "quote": "Enforce contractual customer data protections",
+    "url": "https://www.harmonic.security/solutions/genai-compliance-regulated-industries",
+    "pass": 1
+   },
+   {
+    "quote": "Your customers trust you with their data. Harmonic detects customer information and prevents it from leaking into public AI tools.",
+    "url": "https://www.harmonic.security/solutions/genai-compliance-regulated-industries",
+    "pass": 1
+   },
+   {
+    "quote": "That helps you enforce data residency and training policies, and stay compliant with the commitments in your own client contracts.",
+    "url": "https://www.harmonic.security/solutions/genai-compliance-regulated-industries",
+    "pass": 1
+   },
+   {
+    "quote": "Can traditional DLP detect sensitive data in AI prompts?",
+    "url": "https://www.harmonic.security/solutions/genai-compliance-regulated-industries",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional regex-based DLP struggles with conversational AI, because prompts are unstructured, contextual, and often contain legitimate business information that patterns cannot distinguish from sensitive data. That leads to false positives and monitor-only deployments.",
+    "url": "https://www.harmonic.security/solutions/genai-compliance-regulated-industries",
+    "pass": 1
+   },
+   {
+    "quote": "Some SASE vendors offer limited AI controls for a small number of high-profile domains like ChatGPT or Copilot. Those controls require per-domain integrations and do not cover the full spectrum of AI tools, embedded AI features, or agentic workflows.",
+    "url": "https://www.harmonic.security/solutions/genai-compliance-regulated-industries",
+    "pass": 1
+   },
+   {
+    "quote": "AI apps with prompt-level controls",
+    "url": "https://www.harmonic.security/solutions/genai-compliance-regulated-industries",
+    "pass": 1
+   },
+   {
+    "quote": "Your full AI usage footprint",
+    "url": "https://www.harmonic.security/solutions/genai-compliance-regulated-industries",
+    "pass": 1
+   },
+   {
+    "quote": "AI Governance & Control Platform Pricing | Harmonic Security",
+    "url": "https://www.harmonic.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "One flexible platform. Start with full visibility, add real-time protection as needed, and extend to AI agents when the time comes.",
+    "url": "https://www.harmonic.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Discover all the AI tools your workforce uses, the data flowing in, and the use cases driving adoption.",
+    "url": "https://www.harmonic.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prompt level visibility across 1,000+ applications",
+    "url": "https://www.harmonic.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Sensitive data and prompt injection detection in context",
+    "url": "https://www.harmonic.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time data protection inside agentic workflows",
+    "url": "https://www.harmonic.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "ROI & productivity insights by department",
+    "url": "https://www.harmonic.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Data training policies, vendor location, and security certifications",
+    "url": "https://www.harmonic.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Endpoint AI process inventory",
+    "url": "https://www.harmonic.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Sensitive data protection in agentic workflows",
+    "url": "https://www.harmonic.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prompt injection detection models",
+    "url": "https://www.harmonic.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Organize tools into approved, monitored, and unsanctioned categories",
+    "url": "https://www.harmonic.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Warning banners on risky or unapproved tools",
+    "url": "https://www.harmonic.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Based on department, role, or identity provider attributes",
+    "url": "https://www.harmonic.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Identity provider sync (Entra ID, Okta, Google)",
+    "url": "https://www.harmonic.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Full prompt audit log",
+    "url": "https://www.harmonic.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "2024 • April",
+    "url": "https://www.harmonic.security/about",
+    "pass": 1
+   },
+   {
+    "quote": "To pave the way for secure AI adoption in enterprises, ensuring innovation thrives without compromise. We stand committed to protecting data integrity, promoting responsible AI use, and fostering trust in tomorrow’s technological advancements.",
+    "url": "https://www.harmonic.security/about",
+    "pass": 1
+   },
+   {
+    "quote": "We are a security and privacy-first organization. All customer data is protected in a dedicated tenant. We help you deliver your privacy obligations through EU Hosting by default, with US options available.",
+    "url": "https://www.harmonic.security/about",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "A primer for security leaders on governing how employees and their agents use AI, without slowing down the work.",
+    "url": "https://www.harmonic.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Purview gives you visibility inside only Microsoft tools and only works as a traditional keyword based DLP solution. Real AI usage is not Microsoft-only. We see the full stack across vendors, including the long tail and the agentic surfaces, and we provide context aware guardrails for employees and their agents.",
+    "url": "https://www.harmonic.security/",
+    "pass": 1
+   },
+   {
+    "quote": "AI is becoming part of every employee’s daily workflow. Security and governance tools were not built for this shift.",
+    "url": "https://www.harmonic.security/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Regulators and auditors want evidence that AI use is under control. Harmonic records how employees use AI and applies granular controls to sensitive data and high-risk use cases, so you can answer their questions while your workforce keeps using AI safely.",
+    "url": "https://www.harmonic.security/solutions/genai-compliance-regulated-industries",
+    "pass": 1
+   },
+   {
+    "quote": "See what employees actually accomplish with AI across every team and department",
+    "url": "https://www.harmonic.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "See which tools deliver real value and which employees have abandoned for unsanctioned alternatives",
+    "url": "https://www.harmonic.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Employees see what was flagged and why, building better habits over time",
+    "url": "https://www.harmonic.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "GenAI is the Wild West right now, but Harmonic gives me the insights I need to get in control. Harmonic Security uncovers blindspots, including unauthorized and risky AI applications my employees are using.",
+    "url": "https://www.harmonic.security/about",
+    "pass": 1
+   },
+   {
+    "quote": "Purview gives you visibility inside only Microsoft tools and only works as a traditional keyword based DLP solution. Real AI usage is not Microsoft-only. We see the full stack across vendors, including the long tail and the agentic surfaces, and we provide context aware guardrails for employees and their agents.",
+    "url": "https://www.harmonic.security/company/events",
+    "pass": 1
+   },
+   {
+    "quote": "For many employees, Claude has become the default interface for daily work. Harmonic shows you how your company uses Claude and applies context-aware guardrails that protect sensitive information and govern what agents do.",
+    "url": "https://www.harmonic.security/solutions/securing-claude",
+    "pass": 1
+   },
+   {
+    "quote": "Discover Claude usage wherever employees work with it, including claude.ai in the browser, Claude Desktop, Claude Cowork and Claude Code. Monitor usage even when employees are on free or personal plans, and set plan-specific policies.",
+    "url": "https://www.harmonic.security/solutions/securing-claude",
+    "pass": 1
+   },
+   {
+    "quote": "Understand exactly how employees use each surface down to the task level, including which use cases lead to the riskiest behavior and which are driving real productivity.",
+    "url": "https://www.harmonic.security/solutions/securing-claude",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure employees never share information they shouldn't with Claude. Harmonic's models read through a conversation just like a human would, and understand what's sensitive in context rather than matching a fixed pattern.",
+    "url": "https://www.harmonic.security/solutions/securing-claude",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver inline controls across web and desktop with a clear explanation for employees of what triggered each warning or intervention.",
+    "url": "https://www.harmonic.security/solutions/securing-claude",
+    "pass": 1
+   },
+   {
+    "quote": "You can, but it won't hold. Employees will access Claude on personal devices, use mobile hotspots, or route around network controls. Blocking also removes the evidence of what people needed Claude for. A durable answer puts visibility and policy at the point of use: in the browser, on the endpoint, and at the MCP layer.",
+    "url": "https://www.harmonic.security/solutions/securing-claude",
+    "pass": 1
+   },
+   {
+    "quote": "Discover ChatGPT and Codex usage wherever employees work with them, including chatgpt.com, the ChatGPT desktop app and its Codex mode, and the Codex CLI. Monitor usage even when employees are on free or personal plans, and set plan-specific policies.",
+    "url": "https://www.harmonic.security/solutions/securing-chatgpt-and-codex",
+    "pass": 1
+   },
+   {
+    "quote": "Understand how employees use each tool down to the task level, including which use cases lead to the riskiest behavior and which are driving real productivity.",
+    "url": "https://www.harmonic.security/solutions/securing-chatgpt-and-codex",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure employees never share information they shouldn't with ChatGPT or Codex. Harmonic's models read through a conversation just like a human would, and understand what's sensitive in context rather than matching a fixed pattern.",
+    "url": "https://www.harmonic.security/solutions/securing-chatgpt-and-codex",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver inline controls across web and desktop with a clear explanation for employees of what triggered each warning or intervention.",
+    "url": "https://www.harmonic.security/solutions/securing-chatgpt-and-codex",
+    "pass": 1
+   },
+   {
+    "quote": "EDR is designed to monitor processes running on the endpoint and detect malware. CrowdStrike and other vendors have minimal visibility into what's being done by employees within AI tools on the desktop. They'll know that an application is being run, and they could block it entirely, but they are unable to provide the task-level intelligence and granular guardrails needed to safely use AI.",
+    "url": "https://www.harmonic.security/solutions/securing-chatgpt-and-codex",
+    "pass": 1
+   },
+   {
+    "quote": "Harmonic groups every captured interaction into tasks and organization-specific use cases. See which teams are adopting AI, what work it supports, where unsanctioned tools and personal accounts appear, and which use cases carry the most risk.",
+    "url": "https://www.harmonic.security/solutions/ai-application-detection-and-response-aidr",
+    "pass": 1
+   },
+   {
+    "quote": "Inline interventions explain what triggered them and how to continue safely, so high-risk behavior stops before it becomes an incident while legitimate work carries on.",
+    "url": "https://www.harmonic.security/solutions/ai-application-detection-and-response-aidr",
+    "pass": 1
+   },
+   {
+    "quote": "Employees don't only use AI in a browser tab. Harmonic collects interactions from web apps, desktop apps, the command line and agent tool calls, and analyzes all of them the same way.",
+    "url": "https://www.harmonic.security/solutions/ai-application-detection-and-response-aidr",
+    "pass": 1
+   },
+   {
+    "quote": "You can, and it's a reasonable starting point. The difficulty is that blocking tools without a suitable alternative pushes employees to find other ways in, often via personal accounts that carry more risk. And even for sanctioned tools you still need granular guardrails over the actions taken inside them: an approved coding agent can still delete a repository or push customer data into production.",
+    "url": "https://www.harmonic.security/solutions/ai-application-detection-and-response-aidr",
+    "pass": 1
+   },
+   {
+    "quote": "Discover Microsoft Copilot and GitHub Copilot use wherever employees work with them, including Microsoft 365 Copilot Chat on the web, Copilot in the Microsoft 365 apps, and GitHub Copilot in the IDE and CLI. See where employees use approved products and accounts, and where unsanctioned tools appear.",
+    "url": "https://www.harmonic.security/solutions/securing-microsoft-and-github-copilot",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure employees never share information they shouldn't with Copilot. Harmonic's models read through conversations and files just like a human would, to understand what's sensitive in context rather than matching a fixed pattern.",
+    "url": "https://www.harmonic.security/solutions/securing-microsoft-and-github-copilot",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver inline controls across web and desktop with a clear explanation for employees of what triggered each warning or intervention.",
+    "url": "https://www.harmonic.security/solutions/securing-microsoft-and-github-copilot",
+    "pass": 1
+   },
+   {
+    "quote": "When an agent tries to take an action that policy does not allow, Harmonic intervenes in real time and explains why. The permitted parts of the workflow continue, so employees and agents can stay on task.",
+    "url": "https://www.harmonic.security/solutions/securing-microsoft-and-github-copilot",
+    "pass": 1
+   },
+   {
+    "quote": "We provide visibility and control wherever employees use Copilot: Microsoft Copilot and Copilot Chat on the web, Copilot in the desktop Microsoft 365 apps, and GitHub Copilot in the IDE and GitHub Copilot CLI.",
+    "url": "https://www.harmonic.security/solutions/securing-microsoft-and-github-copilot",
+    "pass": 1
+   },
+   {
+    "quote": "Microsoft Purview relies mainly on pattern-matching DLP and only sees inside Microsoft tools. Real AI usage is not Microsoft-only. We see the full stack across vendors, including the long tail and the agentic surfaces, and we provide context-aware guardrails for employees and their agents.",
+    "url": "https://www.harmonic.security/solutions/securing-microsoft-and-github-copilot",
+    "pass": 1
+   },
+   {
+    "quote": "Harmonic continually monitors for employees using unapproved AI tools or agents. That includes visibility into the prompts and data shared with them, giving you the context to apply intelligent controls rather than blunt blocks.",
+    "url": "https://www.harmonic.security/solutions/shadow-ai-detection",
+    "pass": 1
+   },
+   {
+    "quote": "Use those real-time insights to inform your AI governance committee and guide employees toward safe, sanctioned tools.",
+    "url": "https://www.harmonic.security/solutions/shadow-ai-detection",
+    "pass": 1
+   },
+   {
+    "quote": "Blocking known AI tools can reduce immediate exposure, but it rarely gives security teams full control. AI is embedded in approved applications, and employees may move work to personal accounts, unmanaged devices, or other tools when access is restricted. That creates activity the security team cannot evaluate or govern.",
+    "url": "https://www.harmonic.security/solutions/shadow-ai-detection",
+    "pass": 1
+   },
+   {
+    "quote": "Monitoring shows which tools employees use, what data they share, and which workflows create meaningful risk. Security teams can then approve appropriate use, coach employees toward safer options, and block high-confidence events involving sensitive data or risky accounts. The right approach combines visibility with proportionate enforcement based on the tool, account, data, user, and action.",
+    "url": "https://www.harmonic.security/solutions/shadow-ai-detection",
+    "pass": 1
+   },
+   {
+    "quote": "When employees reach for unsanctioned tools, it's usually a signal about what's missing from the sanctioned ones. Harmonic maps risky tool use back to the specific use case driving it, so you can see the work behind the workaround.",
+    "url": "https://www.harmonic.security/solutions/ai-usage-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Not every risk looks the same. Harmonic identifies the tool, the account type and the subscription plan, and ties all of it to the use case it supports, so you can prioritise the exposures that matter and sanction what employees clearly need.",
+    "url": "https://www.harmonic.security/solutions/ai-usage-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Pinpoint where employees need support",
+    "url": "https://www.harmonic.security/solutions/ai-usage-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Data on how employees actually use AI at work, and how teams use Harmonic to act on it.",
+    "url": "https://www.harmonic.security/solutions/ai-usage-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "How can security teams understand what employees are doing with AI across tools, accounts, and use cases?",
+    "url": "https://www.harmonic.security/solutions/ai-usage-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Can Harmonic show which unsanctioned AI tools employees use, and why?",
+    "url": "https://www.harmonic.security/solutions/ai-usage-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Does Usage Intelligence expose employees' raw prompts?",
+    "url": "https://www.harmonic.security/solutions/ai-usage-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "The Usage Explorer shows task summaries rather than raw prompts. Role-based access control limits who can see what, and you can exclude or mask employees and filter out personal conversations. Harmonic does not train on customer data.",
+    "url": "https://www.harmonic.security/solutions/ai-usage-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "AI is embedded in approved productivity tools like Google Translate, Microsoft Copilot and Salesforce, so blocking AI would block core business functions. Employees will also use personal devices and accounts when corporate access is restricted, creating greater shadow AI risk.",
+    "url": "https://www.harmonic.security/solutions/ai-usage-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Discovery tells you what's running. Prompt-level analysis tells you what's actually being shared. Harmonic reads the full content of every interaction with the AI tools on employee devices, detects sensitive data in context, and coaches employees away from risky behaviour in real time.",
+    "url": "https://www.harmonic.security/solutions/endpoint-ai-security",
+    "pass": 1
+   },
+   {
+    "quote": "EDR monitors processes running on the endpoint and detects malware. It has minimal visibility into what employees actually do inside AI tools on the desktop: it knows an application is running, and it can block it entirely, but it cannot provide the task-level intelligence and granular guardrails needed to use AI safely.",
+    "url": "https://www.harmonic.security/solutions/endpoint-ai-security",
+    "pass": 1
+   },
+   {
+    "quote": "Harmonic secures AI use in the browser with real-time visibility and control over how employees use AI tools. It monitors prompts, agent actions and data flows in context, detects sensitive or high-risk usage, and guides users before data exposure becomes an incident.",
+    "url": "https://www.harmonic.security/solutions/browser-based-genai-security",
+    "pass": 1
+   },
+   {
+    "quote": "Usage analytics show which employees use which clients and servers, and how often. Invocation logging captures a detailed audit record of every interaction for forensics and compliance.",
+    "url": "https://www.harmonic.security/solutions/ai-agent-security",
+    "pass": 1
+   },
+   {
+    "quote": "上場市場 東証プライム（6324）",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai9/shiryou12.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Brownfield MDU Broadband: Unlocking Revenue with Existing Infrastructure",
+    "url": "https://www.harmonicinc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Michael is an investor at Costanoa Ventures, an early-stage VC firm focused on investments in application software, fintech, defense, frontier tech, and cybersecurity. Costanoa partners with industry-changing founders and companies, and provides deep operational support in areas like go-to-market strategy, hiring, and customer acquisition.",
+    "url": "https://harmonic.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Gopi is the Co-founder, Partner, and Head of Data Science at Ensemble VC. Prior to Ensemble, he was the Data Science Lead at Kauffman Fellows (under the umbrella of the Kauffman Fellows Fund) and a Data Scientist at Watson Health Consulting (part of IBM Watson Health). Ensemble’s thesis is to back great teams, regardless of the vertical. The model Gopi and his team have built uncovers those teams.",
+    "url": "https://harmonic.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Our goal is to create long-lasting relationships with you and your team. We believe that all of our partners are apart of the Harmonic brand and strive to make you feel integrated in everything that we do. By joining the Harmonic Channel Partner Network, you benefit from our strong partner program to help secure your business.",
+    "url": "https://www.harmonicinc.com/channel-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Data isn’t everything though, and investors’ networks are one of their most valuable assets. Harmonic doesn't replace these networks; we fill the gap of out-of-network data, and marry in the network to facilitate super-powered sourcing.",
+    "url": "https://harmonic.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Before joining Harmonic, Eric was in-house counsel at Meta with responsibilities covering global privacy diligence for acquisitions and IP strategy for Meta’s virtual reality division. In his free time, Eric enjoys surfing and Brazilian jiu-jitsu.",
+    "url": "https://harmonic.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Previously worked in sales at Clearbit (acquired by Hubspot) and PowerSchool (Acquired by Bain Capital). Outside of work enjoys making music, watching sports, and exploring San Diego!",
+    "url": "https://harmonic.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://harmonic.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Soham has worked in business operations, corporate development, and management consulting. Once a collegiate middle distance runner, he’s trying his hand now at long distance running and can be found exploring routes around Williamsburg (likely with Harmonic’s running crew). He’s part of Harmonic’s 1st team All-Astroball and can be usually seen sipping on an Orange Poppi.",
+    "url": "https://harmonic.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Before Harmonic, Darri ran a GTM consultancy and previously led Growth and Strategy for an AML software startup. He’s also a former basketball coach, winning multiple championships in his home country of Iceland, and is always ready to chat, play, or watch hoops.",
+    "url": "https://harmonic.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Apoorva was at Qualtrics prior to Harmonic as an engineer during which he also got a Masters in CS from the University of Washington. Originally from Detroit, he's moved from Seattle to NYC to be a part of the Harmonic team. Some of his current hobbies include developing a functional golf swing, perfecting his pizza-making skills, pondering macroeconomics and making as many friends as he can.",
+    "url": "https://harmonic.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Shreyas comes from Microsoft where he worked on the next generation of AI agents in Teams Meetings prior to joining the adventures at Harmonic. He’s an avid photographer and will often be seen carrying a camera around to even the most boring of places. He also loves watching F1, playing soccer and building out indie apps.",
+    "url": "https://harmonic.ai/about",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "No. Pattern-matching DLP cannot tell a draft email from a deal memo because prompts are unstructured and contextual. Static rules either flood teams with false positives or get ripped out entirely. We classify the meaning of the work, not the shape of the string. That is what lets us govern inline, where DLP can only monitor.",
+    "url": "https://www.harmonic.security/",
+    "pass": 1
+   },
+   {
+    "quote": "This is the problem most security platforms cannot see yet. When an agent reads a file, calls an API, writes to a database, and emails a summary, all without a human in the loop, there is no browser request to inspect and no prompt to classify at the keyboard. We govern at the MCP layer and at the tool surface, which is where agentic workflows execute. Policy follows the action, not the person.",
+    "url": "https://www.harmonic.security/",
+    "pass": 1
+   },
+   {
+    "quote": "No. Pattern-matching DLP cannot tell a draft email from a deal memo because prompts are unstructured and contextual. Static rules either flood teams with false positives or get ripped out entirely. We classify the meaning of the work, not the shape of the string. That is what lets us govern inline, where DLP can only monitor.",
+    "url": "https://www.harmonic.security/company/events",
+    "pass": 1
+   },
+   {
+    "quote": "This is the problem most security platforms cannot see yet. When an agent reads a file, calls an API, writes to a database, and emails a summary, all without a human in the loop, there is no browser request to inspect and no prompt to classify at the keyboard. We govern at the MCP layer and at the tool surface, which is where agentic workflows execute. Policy follows the action, not the person.",
+    "url": "https://www.harmonic.security/company/events",
+    "pass": 1
+   },
+   {
+    "quote": "No. Pattern-matching DLP cannot tell a draft email from a deal memo, because prompts are unstructured and contextual. Static rules either flood teams with false positives or get ripped out entirely. Harmonic classifies the meaning of the work, not the shape of the string, which is what lets it govern inline where DLP can only monitor.",
+    "url": "https://www.harmonic.security/solutions/endpoint-ai-security",
+    "pass": 1
+   },
+   {
+    "quote": "What email address should we use for the invite?",
+    "url": "https://harmonic.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "What email address should we use for the invite?",
+    "url": "https://harmonic.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "LinkedIn connections, email and calendar events, and CRM engagements, all mapped onto the startups and operators in our database so you can field opportunities with every bit of relevant context.",
+    "url": "https://harmonic.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us for a demo",
+    "url": "https://harmonic.ai/about",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Harmonic Security | Partner Program",
+    "url": "https://www.harmonic.security/company/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller, Referral Partner, Security Assessment (Services Partner), Distributor, MSSP",
+    "url": "https://www.harmonic.security/company/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Below are the standard benefits for our Reseller and Services Partners.",
+    "url": "https://www.harmonic.security/company/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店（Reseller）パートナープログラム | HARMONIC insight",
+    "url": "https://www.insight-office.com/ja/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Track B · 販売代理店（Reseller）",
+    "url": "https://www.insight-office.com/ja/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Channel Partners | Broadband | Harmonic",
+    "url": "https://www.harmonicinc.com/channel-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic is dedicated to a strong channel partner ecosystem to provide our customers with an excellent experience at every step of the sales process.",
+    "url": "https://www.harmonicinc.com/channel-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Become a Channel Partner",
+    "url": "https://www.harmonicinc.com/channel-partners",
+    "pass": 3
+   },
+   {
+    "quote": "As a Channel Partner, you gain access to resources that drive your business to create new opportunities, increase profitability and help close deals faster.",
+    "url": "https://www.harmonicinc.com/channel-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Our goal is to create long-lasting relationships with you and your team. We believe that all of our partners are apart of the Harmonic brand and strive to make you feel integrated in everything that we do. By joining the Harmonic Channel Partner Network, you benefit from our strong partner program to help secure your business.",
+    "url": "https://www.harmonicinc.com/channel-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Take your industry and product knowledge to the next level. Our teams help you leverage sales opportunities and protect your customer's investment with future proof solutions. When you become a Channel Partner, you become an extension to our team and benefit from market development funds and performance-based incentives.",
+    "url": "https://www.harmonicinc.com/channel-partners",
+    "pass": 3
+   },
+   {
+    "quote": "A strong Channel Partner relationship",
+    "url": "https://www.harmonicinc.com/channel-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Please fill out the form to get more information about our Channel Partners or find a reseller in your area. Someone from the Channel Partners team will be in touch within 1-2 business days.",
+    "url": "https://www.harmonicinc.com/channel-partners",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "第31回 機械要素技術展【東京】［2026年7月1日(水)～3日(金)］へ出展いたします",
+    "url": "https://www.hds.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic All In One エンコーダ XOS | 株式会社イノコス",
+    "url": "https://www.innoqos.com/service/products/harmonic/encoder/",
+    "pass": 3
+   },
+   {
+    "quote": "放送の分野では、XOSは日本のARIB規格に準拠しており、XOSを含めたHarmonic社エンコーダは、日本のCATVやIPTV、衛星放送を中心に多くの採用実績がございます",
+    "url": "https://www.innoqos.com/service/products/harmonic/encoder/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、日本の放送の現場にも安心してご導入頂けます",
+    "url": "https://www.innoqos.com/service/products/harmonic/encoder/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ハーモニック・ドライブ・システムズ",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai9/shiryou12.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "重要部品の国内生産を通じ、日本の",
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai9/shiryou12.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店（Reseller）パートナープログラム | HARMONIC insight",
+    "url": "https://www.insight-office.com/ja/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Track B · 販売代理店（Reseller）",
+    "url": "https://www.insight-office.com/ja/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Before Harmonic, John studied mechanical engineering at MIT and began his career in consulting. He later transitioned to growth tech, focusing on operational roles. In his free time, you’ll find John swimming, playing video games, solving Japanese puzzle books, or diving into a new manga. Known for his expressive nature and love for comedy, John brings a vibrant energy to work everyday.",
+    "url": "https://harmonic.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "The first model, the XiaoQiao, was a $69 1DD, and it had a strong role as an entrance to let people know the worldview and basic sound design of Harmonic Empire widely. In contrast, the Zhang Liao adopts a tribrid configuration that combines one dynamic driver, two BAs, and one planar magnetic driver, and the price jumps to a price range of about 30,000 yen in Japanese yen.",
+    "url": "https://note.com/if_kumacchi/n/n188f82b64944?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Harmonic | パートナー事例 - Akamai — Harmonic | パートナー事例 - Akamai Akamai https://www.akamai.com > partner-story > harmonic",
+    "url": "https://www.akamai.com/ja/resources/partner-story/harmonic",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic All In One エンコーダ XOS | 株式会社イノコス — Harmonic All In One エンコーダ XOS | 株式会社イノコス 株式会社イノコス https://www.innoqos.com > products > harmonic > encoder",
+    "url": "https://www.innoqos.com/service/products/harmonic/encoder/",
+    "pass": 3
+   },
+   {
+    "quote": "販売 代理店 （Reseller）パートナープログラム | HARMONIC ... — 販売 代理店 （Reseller）パートナープログラム | HARMONIC ... insight-office.com https://www.insight-office.com > partners",
+    "url": "https://www.insight-office.com/ja/partners",
+    "pass": 3
+   },
+   {
+    "quote": "パートナープログラム - HARMONIC insight — パートナープログラム - HARMONIC insight h-insight.jp https://h-insight.jp > partners",
+    "url": "https://h-insight.jp/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic | Pure Broadband Solutions — Harmonic | Pure Broadband Solutions Harmonic Inc. https://www.harmonicinc.com",
+    "url": "https://www.harmonicinc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic Japan 合同会社（東京都）の会社概要 — Harmonic Japan 合同会社（東京都）の会社概要 Compalyze https://compalyze.co.jp > 企業検索 > 通信・ISP",
+    "url": "https://compalyze.co.jp/company/3010403007464",
+    "pass": 3
+   },
+   {
+    "quote": "Subsidiaries of Harmonic Inc. - SEC.gov — Subsidiaries of Harmonic Inc. - SEC.gov SEC.gov https://www.sec.gov > edgar > data",
+    "url": "https://www.sec.gov/Archives/edgar/data/851310/000119312512089433/d258265dex211.htm",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic Japan 合同会社の企業情報 — Harmonic Japan 合同会社の企業情報 G-Search 企業INDEXナビ https://cnavi.g-search.or.jp > detail",
+    "url": "https://cnavi.g-search.or.jp/detail/3010403007464.html",
+    "pass": 3
+   },
+   {
+    "quote": "All Case Studies - Harmonic .ai — All Case Studies - Harmonic .ai Harmonic.ai https://harmonic.ai > case-studies",
+    "url": "https://harmonic.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonics case studies - Eaton Corporation — Harmonics case studies - Eaton Corporation Eaton https://www.eaton.com > harmonics",
+    "url": "https://www.eaton.com/us/en-us/products/controls-drives-automation-sensors/harmonics/harmonics-faq-video-library/harmonics-case-studies.html",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic : A long history of collaborative innovation. - Plexus — Harmonic : A long history of collaborative innovation. - Plexus plexus.com https://www.plexus.com > harmonic",
+    "url": "https://www.plexus.com/case-study/harmonic/",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic Measurement and Analysis in Manufacturing Industry — Harmonic Measurement and Analysis in Manufacturing Industry IEEE Xplore https://ieeexplore.ieee.org > document",
+    "url": "https://ieeexplore.ieee.org/document/10768848/",
+    "pass": 3
+   },
+   {
+    "quote": "How Harmonic Saved $20K Replacing a SaaS Tool with Retool — How Harmonic Saved $20K Replacing a SaaS Tool with Retool Retool https://retool.com > harmonic",
+    "url": "https://retool.com/customers/harmonic",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program - Harmonic Security — Partner Program - Harmonic Security Harmonic Security https://www.harmonic.security > part...",
+    "url": "https://www.harmonic.security/company/partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Channel Partners | Broadband - Harmonic Inc. — Channel Partners | Broadband - Harmonic Inc. Harmonic Inc. https://www.harmonicinc.com > chan...",
+    "url": "https://www.harmonicinc.com/channel-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic .ai - Crunchbase Company Profile & Funding — Harmonic .ai - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > harmo...",
+    "url": "https://www.crunchbase.com/organization/harmonic-ai",
+    "pass": 3
+   },
+   {
+    "quote": "About - Harmonic .ai — About - Harmonic .ai Harmonic.ai https://harmonic.ai > about",
+    "url": "https://harmonic.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic Raises $120M, Valued at $1.45B, Developing AI for ... — Harmonic Raises $120M, Valued at $1.45B, Developing AI for ... LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/ai-world-eu_minif2f-mathematicalsuperintelligence-activity-7402039842848538624-_We4",
+    "pass": 3
+   },
+   {
+    "quote": "Robinhood CEO's math-focused AI startup Harmonic valued at ... — Robinhood CEO's math-focused AI startup Harmonic valued at ... Reuters https://www.reuters.com > business",
+    "url": "https://www.reuters.com/business/robinhood-ceos-math-focused-ai-startup-harmonic-valued-145-billion-latest-2025-11-25/",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic - Overview, News & Similar companies - ZoomInfo — Harmonic - Overview, News & Similar companies - ZoomInfo ZoomInfo https://www.zoominfo.com > harmon...",
+    "url": "https://www.zoominfo.com/c/harmonic-ai-inc/566133201",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Insight AI Doc Factory",
+    "url": "https://www.insight-office.com/ja/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Fiber Broadband for Cable Operators",
+    "url": "https://www.harmonicinc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Broadband Access Solutions for Telecom Operators",
+    "url": "https://www.harmonicinc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic is a pure-play broadband industry leader, innovating for the next generation of connectivity. Our high-performance broadband solutions provide the reliability, scalability and intelligence operators need to thrive in a multi-gigabit world. As a strategic partner, we provide a faster, greener and more versatile path to the ultra-connected future.",
+    "url": "https://www.harmonicinc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We empower operators to provide an always-on, consistent service that elevates the connected experience.",
+    "url": "https://www.harmonicinc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "For broadband operators navigating an increasingly competitive landscape, multi-dwelling units (MDUs) represent both a...",
+    "url": "https://www.harmonicinc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "How cOS Amply brings vendor-agnostic, real-time monitoring and control to the modern HFC smart-amplifier plant. Cable...",
+    "url": "https://www.harmonicinc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "An investor’s data stack inside a software startup: How Factory uses Harmonic",
+    "url": "https://harmonic.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "End-to-End Manufacturing",
+    "url": "https://www.plexus.com/case-study/harmonic/",
+    "pass": 3
+   },
+   {
+    "quote": "End-to-end Manufacturing",
+    "url": "https://www.plexus.com/case-study/harmonic/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore All Aerospace / Defense",
+    "url": "https://www.plexus.com/case-study/harmonic/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore All Industrial",
+    "url": "https://www.plexus.com/case-study/harmonic/",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic’s relationship with Plexus began in 2003 and is still going strong, far outlasting the average length of customer relationships in the electronics manufacturing industry.",
+    "url": "https://www.plexus.com/case-study/harmonic/",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic Measurement and Analysis in Manufacturing Industry: Case Study | IEEE Conference Publication | IEEE Xplore",
+    "url": "https://ieeexplore.ieee.org/document/10768848/",
+    "pass": 3
+   },
+   {
+    "quote": "Power Quality (PQ) has gained significant importance in recent years and is one of the critical aspects of modern manufacturing plants. Harmonics is one of the important ...",
+    "url": "https://ieeexplore.ieee.org/document/10768848/",
+    "pass": 3
+   },
+   {
+    "quote": "Fiber Broadband for Cable Operators",
+    "url": "https://www.harmonicinc.com/channel-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Broadband Access Solutions for Telecom Operators",
+    "url": "https://www.harmonicinc.com/channel-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic is dedicated to a strong partner ecosystem to provide our customers with an excellent experience at every step of the sales process. We strive to stay ahead of the evolving broadband market so operators can deliver the highest quality gigabit experience.",
+    "url": "https://www.harmonicinc.com/channel-partners",
+    "pass": 3
+   },
+   {
+    "quote": "LinkedIn connections, email and calendar events, and CRM engagements, all mapped onto the startups and operators in our database so you can field opportunities with every bit of relevant context.",
+    "url": "https://harmonic.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Used by the best,",
+    "url": "https://harmonic.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "On top of that, the price difference is kept to $10. Even considering the recent rise in manufacturing costs and material prices, I can feel the effort on Harmonic Empire's side in the content, which has completely changed the unboxing experience while clearly enhancing the cable and eartips.",
+    "url": "https://note.com/if_kumacchi/n/n8224fab5dd71?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "is what becomes crucial for audio manufacturers.",
+    "url": "https://note.com/nuarl_official/n/n1ddf0f78cfbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The outer sleeve of the Zhang Liao depicts a worldview that replaces Zhang Liao's bravery and disciplined military spirit with a cyber-mecha industrial aesthetic. The official concept of this model is \"wearable acoustic armor\" that combines sharp metallic cutting lines, a gray-blue color scheme, red accents, and sci-fi mecha motifs.",
+    "url": "https://note.com/if_kumacchi/n/n188f82b64944?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "TANGZU and Harmonic Empire develop not only earphones but also ear tips as independent products. I believe that being able to provide two types from the start that differ in fit, seal, and sound leakage is a strength unique to a manufacturer that designs even peripheral parts in-house.",
+    "url": "https://note.com/if_kumacchi/n/n188f82b64944?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When calculating with a lower Ki value by assuming a \"built-in DCL,\" the power company will require the attachment of manufacturer specifications or catalogs as proof.",
+    "url": "https://note.com/trang_1985/n/n29c2f65a11d8?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Harmonic Empire XiaoQiao Rock Edition Review - note Harmonic Empire XiaoQiao Rock Edition Review - note note https://note.com > if_kumacchi",
+    "url": "https://note.com/if_kumacchi/n/n8224fab5dd71?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The sonic fingerprints created by harmonics ｜NUARL公式 - note The sonic fingerprints created by harmonics ｜NUARL公式 - note note https://note.com > 音楽 > 音楽理論",
+    "url": "https://note.com/nuarl_official/n/n1ddf0f78cfbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic Empire Zhang Liao Review | A High-End Tribrid ... Harmonic Empire Zhang Liao Review | A High-End Tribrid ... note https://note.com > if_kumacchi",
+    "url": "https://note.com/if_kumacchi/n/n188f82b64944?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Fundamentals of Harmonics and Guide to Notification to ... - note Fundamentals of Harmonics and Guide to Notification to ... - note note https://note.com > ... > 電気・電子工学",
+    "url": "https://note.com/trang_1985/n/n29c2f65a11d8?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Harmonic Empire XiaoQiao Rock Edition Review | A derivative model that retains the strengths of the standard version while raising the heat of rock music｜くまっち | IEM・オーディオレビュー",
+    "url": "https://note.com/if_kumacchi/n/n8224fab5dd71?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/if_kumacchi/n/n8224fab5dd71?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic Empire XiaoQiao Rock Edition Review | A derivative model that retains the strengths of the standard version while raising the heat of rock music",
+    "url": "https://note.com/if_kumacchi/n/n8224fab5dd71?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The standard XiaoQiao model I covered previously was the first model Harmonic Empire brought to the market. From that first release, the direction was already clear: to deliver music with energy, focusing on thick low frequencies and rich vocals while suppressing harshness in the high frequencies.",
+    "url": "https://note.com/if_kumacchi/n/n8224fab5dd71?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The XiaoQiao Rock Edition has arrived as a derivative model, adding a new name to that origin.",
+    "url": "https://note.com/if_kumacchi/n/n8224fab5dd71?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The reason I am covering this model immediately after reviewing the standard version is not simply because it is a new release in the same series. While it is built on the same XiaoQiao foundation, I want to verify what kind of sound Harmonic Empire has given to the word \"Rock\" while the memory of the standard version is still fresh.",
+    "url": "https://note.com/if_kumacchi/n/n8224fab5dd71?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Personally, when I hear \"Rock Edition,\" I imagine a V-shaped sound that emphasizes guitar edges, snare hits, and boosts the low and high frequencies. However, the intensity of rock as envisioned by Harmonic Empire does not necessarily align with my own perception. The first question for this review is whether they kept the low-frequency strength and vocal thickness of the standard version, or if t",
+    "url": "https://note.com/if_kumacchi/n/n8224fab5dd71?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Also, the standard XiaoQiao had a high level of perfection for under $100, including the sense of ownership. I want to confirm whether the Rock Edition is just a color variation that inherits that worldview, or if it is a model created with reasons beyond just sound and color.",
+    "url": "https://note.com/if_kumacchi/n/n8224fab5dd71?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Sound Science #17] Why you can tell it's a \"piano\" even with your eyes closed: The sonic fingerprints created by harmonics｜NUARL公式",
+    "url": "https://note.com/nuarl_official/n/n1ddf0f78cfbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/nuarl_official/n/n1ddf0f78cfbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Sound Science #17] Why you can tell it's a \"piano\" even with your eyes closed: The sonic fingerprints created by harmonics",
+    "url": "https://note.com/nuarl_official/n/n1ddf0f78cfbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Good evening, this is NUARL.",
+    "url": "https://note.com/nuarl_official/n/n1ddf0f78cfbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This might be sudden, but haven't you ever wondered about this?",
+    "url": "https://note.com/nuarl_official/n/n1ddf0f78cfbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When listening to music, even if both are the same \"C\" note, you can instantly tell, \"Oh, that's a piano,\" or \"That's a guitar.\"",
+    "url": "https://note.com/nuarl_official/n/n1ddf0f78cfbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Or, when you hear a friend's voice over the phone. You know who is speaking from just a single \"Hello.\"",
+    "url": "https://note.com/nuarl_official/n/n1ddf0f78cfbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It seems obvious at first glance. But we are so used to it that we actually overlook how mysterious it is.",
+    "url": "https://note.com/nuarl_official/n/n1ddf0f78cfbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic Empire Zhang Liao Review | A High-End Tribrid That Increases Resolution from the XiaoQiao While Maintaining Listenability｜くまっち | IEM・オーディオレビュー",
+    "url": "https://note.com/if_kumacchi/n/n188f82b64944?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/if_kumacchi/n/n188f82b64944?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic Empire Zhang Liao Review | A High-End Tribrid That Increases Resolution from the XiaoQiao While Maintaining Listenability",
+    "url": "https://note.com/if_kumacchi/n/n188f82b64944?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "To follow the trajectory of Harmonic Empire, I have consecutively checked the brand's first model, the XiaoQiao, and the latest work, the Rock Edition.",
+    "url": "https://note.com/if_kumacchi/n/n188f82b64944?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the standard version, I saw the origin of Harmonic Empire, which focuses on thick low frequencies and rich vocals while suppressing high-frequency irritation for long listening sessions. In the Rock Edition, while retaining that framework, the range from the sub-bass to the mid-bass was further strengthened, leading to the intensity of rock music and the power of the performance.",
+    "url": "https://note.com/if_kumacchi/n/n188f82b64944?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Through these two models, I understood that Harmonic Empire is stepping strongly toward a direction of making music enjoyable with power, centered on low frequencies and vocals, rather than making the sound bright and sharp.",
+    "url": "https://note.com/if_kumacchi/n/n188f82b64944?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, the two models covered so far both have a simple configuration with a single 10mm dynamic driver. While the natural connection typical of 1DD was a major strength, there was a lack of high-frequency granularity and the ability to sharply decompose each note compared to competitors in this price range.",
+    "url": "https://note.com/if_kumacchi/n/n188f82b64944?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "That is why I am taking up the Zhang Liao this time.",
+    "url": "https://note.com/if_kumacchi/n/n188f82b64944?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Fundamentals of Harmonics and Guide to Notification to Electric Power Companies: Threshold Determination and Optimization Strategies Useful in Practice｜Hideki-yq",
+    "url": "https://note.com/trang_1985/n/n29c2f65a11d8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/trang_1985/n/n29c2f65a11d8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Fundamentals of Harmonics and Guide to Notification to Electric Power Companies: Threshold Determination and Optimization Strategies Useful in Practice",
+    "url": "https://note.com/trang_1985/n/n29c2f65a11d8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. Introduction: The Nature of Harmonics and Their Generation Mechanism",
+    "url": "https://note.com/trang_1985/n/n29c2f65a11d8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In modern building facility design, harmonic countermeasures are not merely administrative tasks for legal compliance. They are the core of a \"design strategy\" to optimize the cost of the entire project while ensuring the stable operation of the system.",
+    "url": "https://note.com/trang_1985/n/n29c2f65a11d8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Definition of Harmonics and Waveform Distortion",
+    "url": "https://note.com/trang_1985/n/n29c2f65a11d8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonics refer to a phenomenon in which waves with frequencies that are integer multiples of the fundamental wave (50Hz or 60Hz sine wave) of the power system (3rd, 5th, 7th, etc.) are superimposed. When these high-frequency components mix into a waveform that should ideally be a clean sine wave, the voltage and current waveforms become complexly \"distorted\".",
+    "url": "https://note.com/trang_1985/n/n29c2f65a11d8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Identification of Main Causes",
+    "url": "https://note.com/trang_1985/n/n29c2f65a11d8?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Harmonic (@HarmonicMath) / X Harmonic (@HarmonicMath) / X X https://x.com > HarmonicMath",
+    "url": "https://x.com/HarmonicMath",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic (@harmonic_ai) / X Harmonic (@harmonic_ai) / X X https://x.com > harmonic_ai",
+    "url": "https://x.com/harmonic_ai",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic Inc (@HarmonicInc) / X Harmonic Inc (@HarmonicInc) / X X https://x.com > HarmonicInc",
+    "url": "https://x.com/HarmonicInc",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic on X: \"We're bringing Aristotle to code. AI is writing ... Harmonic on X: \"We're bringing Aristotle to code. AI is writing ... X https://x.com > @HarmonicMath",
+    "url": "https://x.com/HarmonicMath/status/2115118879127351586",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Harmonic | LinkedIn Harmonic | LinkedIn LinkedIn https://www.linkedin.com > harmonic",
+    "url": "https://www.linkedin.com/company/harmonic",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic | LinkedIn Harmonic | LinkedIn LinkedIn https://www.linkedin.com > harmonicai",
+    "url": "https://www.linkedin.com/company/harmonicai",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic | LinkedIn Harmonic | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/harmonicmath",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic Growth Partners | LinkedIn Harmonic Growth Partners | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/harmonic-growth-partners",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "The harmonic feedback club… - Facebook The harmonic feedback club… - Facebook Facebook https://www.facebook.com > the-harmonic-feedback-club",
+    "url": "https://www.facebook.com/holyyouthmovement/posts/the-harmonic-feedback-club/1748271060641760/",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic Inc | San Jose CA - Facebook Harmonic Inc | San Jose CA - Facebook Facebook https://www.facebook.com > harmonicinc",
+    "url": "https://www.facebook.com/harmonicinc/",
+    "pass": 3
+   },
+   {
+    "quote": "Finding the center of a harmonic : intuitive or taught? - Facebook Finding the center of a harmonic : intuitive or taught? - Facebook Facebook https://www.facebook.com > groups > doublebasshq > posts",
+    "url": "https://www.facebook.com/groups/doublebasshq/posts/10160518587633265/",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic Dirt (@harmonicdirt) - Facebook Harmonic Dirt (@harmonicdirt) - Facebook Facebook https://www.facebook.com > ... > Musician/band",
+    "url": "https://www.facebook.com/harmonicdirt/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.harmonic.security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.harmonic.security/company/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.harmonic.security/company/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.harmonic.security/solutions/genai-compliance-regulated-industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.harmonic.security/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.harmonic.security/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.harmonic.security/company/events",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.harmonic.security/solutions/securing-claude",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.harmonic.security/solutions/securing-chatgpt-and-codex",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.harmonic.security/solutions/ai-application-detection-and-response-aidr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.harmonic.security/solutions/securing-microsoft-and-github-copilot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.harmonic.security/solutions/shadow-ai-detection",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.harmonic.security/solutions/ai-usage-intelligence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.harmonic.security/solutions/endpoint-ai-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.harmonic.security/solutions/browser-based-genai-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.harmonic.security/solutions/ai-agent-security",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.hds.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.akamai.com/ja/resources/partner-story/harmonic",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.innoqos.com/service/products/harmonic/encoder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai9/shiryou12.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://metoree.com/companies/1247/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=538",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hds.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.insight-office.com/ja/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hds.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.harmonicinc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/3010403007464",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/851310/000119312512089433/d258265dex211.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://harmonic.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eaton.com/us/en-us/products/controls-drives-automation-sensors/harmonics/harmonics-faq-video-library/harmonics-case-studies.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plexus.com/case-study/harmonic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ieeexplore.ieee.org/document/10768848/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.harmonicinc.com/channel-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/harmonic-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://harmonic.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/ai-world-eu_minif2f-mathematicalsuperintelligence-activity-7402039842848538624-_We4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reuters.com/business/robinhood-ceos-math-focused-ai-startup-harmonic-valued-145-billion-latest-2025-11-25/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/if_kumacchi/n/n8224fab5dd71?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nuarl_official/n/n1ddf0f78cfbe?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/if_kumacchi/n/n188f82b64944?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/trang_1985/n/n29c2f65a11d8?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/HarmonicMath",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/harmonic_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HarmonicInc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HarmonicMath/status/2115118879127351586",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/harmonic",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/harmonicai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/harmonicmath",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/harmonic-growth-partners",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/holyyouthmovement/posts/the-harmonic-feedback-club/1748271060641760/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/harmonicinc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/doublebasshq/posts/10160518587633265/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/harmonicdirt/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HarmonicInc",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Harmonic 日本 導入",
+   "results": [
+    "https://www.hds.co.jp/",
+    "https://www.akamai.com/ja/resources/partner-story/harmonic",
+    "https://www.innoqos.com/service/products/harmonic/encoder/",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai9/shiryou12.pdf",
+    "https://www.robot-digest.com/contents/?id=1764148648-896415",
+    "https://robo-ken.jp/media/companies/harmonic-drive-systems-strain-wave-profile/",
+    "https://business.nikkei.com/atcl/NBD/19/00114/00050/",
+    "https://www.primal-inc.com/works/bizforecast/entry/00095.html",
+    "https://www.hds50th.jp/history.php",
+    "https://www.hds.co.jp/english/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Harmonic 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/1247/distributors/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=538",
+    "https://www.hds.co.jp/",
+    "https://www.insight-office.com/ja/partners",
+    "https://h-insight.jp/partners",
+    "https://www.harmonic-ad.com/privacy.php",
+    "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%83%E3%82%AF%E3%83%BB%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "https://compalyze.co.jp/company/3010403007464",
+    "https://www.moomoo.com/ja/news/post/62574075/harmonic-announces-pending-sale-of-its-video-business-to-mediakind",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Harmonic Japan",
+   "results": [
+    "https://www.hds.co.jp/",
+    "https://www.harmonicinc.com/",
+    "https://compalyze.co.jp/company/3010403007464",
+    "https://www.sec.gov/Archives/edgar/data/851310/000119312512089433/d258265dex211.htm",
+    "https://cnavi.g-search.or.jp/detail/3010403007464.html",
+    "https://www.innoqos.com/service/products/harmonic/encoder/",
+    "https://www.theworldfolio.com/company/harmonic-drive-systems-inc/1479/?id=1479",
+    "https://www.linkedin.com/company/harmonic",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3010403007464",
+    "https://www.hds.co.jp/english/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Harmonic manufacturing customer case study",
+   "results": [
+    "https://harmonic.ai/case-studies",
+    "https://www.eaton.com/us/en-us/products/controls-drives-automation-sensors/harmonics/harmonics-faq-video-library/harmonics-case-studies.html",
+    "https://www.plexus.com/case-study/harmonic/",
+    "https://ieeexplore.ieee.org/document/10768848/",
+    "https://retool.com/customers/harmonic",
+    "https://harmonic.ai/case-study/posthog",
+    "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vLsm22Mx-b6_TGJNabkv5WFHm9ZUzQhsJdfAYIQC-H72HeA43JL",
+    "https://www.linkedin.com/posts/carter-headley_harmonic-case-study-an-investors-data-activity-7518327215864856577-MQ4l",
+    "https://www.manufacturingsuccess.org/case-studies"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Harmonic white label OR reseller OR partner program",
+   "results": [
+    "https://www.harmonic.security/company/partner-program",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.harmonicinc.com/channel-partners",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.goodbarber.com/blog/7-best-app-builders-for-resellers-and-agencies-a1590/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://www.intermedia.com/resellers",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Harmonic founded funding employees revenue",
+   "results": [
+    "https://www.crunchbase.com/organization/harmonic-ai",
+    "https://harmonic.ai/about",
+    "https://www.linkedin.com/posts/ai-world-eu_minif2f-mathematicalsuperintelligence-activity-7402039842848538624-_We4",
+    "https://www.reuters.com/business/robinhood-ceos-math-focused-ai-startup-harmonic-valued-145-billion-latest-2025-11-25/",
+    "https://www.zoominfo.com/c/harmonic-ai-inc/566133201",
+    "https://www.owler.com/company/harmonicfundservices",
+    "https://finance.yahoo.com/news/robinhood-ceos-math-focused-ai-192706395.html",
+    "https://getlatka.com/companies/harmonicai.ai",
+    "https://investor.harmonicinc.com/static-files/213e2584-10b0-4c55-81e0-bc594f4df4a0",
+    "https://compworth.com/company/harmonic-ai"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Harmonic",
+   "results": [
+    "https://note.com/if_kumacchi/n/n8224fab5dd71?hl=en",
+    "https://note.com/nuarl_official/n/n1ddf0f78cfbe?hl=en",
+    "https://note.com/if_kumacchi/n/n188f82b64944?hl=en",
+    "https://note.com/trang_1985/n/n29c2f65a11d8?hl=en",
+    "https://note.com/delta_phy/n/nc3e78e3d4f77?hl=en",
+    "https://note.com/clean_duck787/n/nb6d185e6aeb1?hl=en",
+    "https://note.com/hirokimiyano/n/n52fb51edaf5c?hl=en",
+    "https://note.com/aragenosusume/n/nef1740997250?hl=en",
+    "https://note.com/p929/n/na125d1e4b1c2?hl=en",
+    "https://note.com/eqhor_music_labo/n/n6b97950ca77a?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com Harmonic",
+   "results": [
+    "https://x.com/HarmonicMath",
+    "https://x.com/harmonic_ai",
+    "https://x.com/HarmonicInc",
+    "https://x.com/HarmonicMath/status/2115118879127351586",
+    "https://x.com/harmonic_gg",
+    "https://x.com/SongShuran/status/1985759497902817551",
+    "https://x.com/solana/status/1986092274317500765",
+    "https://x.com/firstharmonic",
+    "https://x.com/harmonictrader",
+    "https://x.com/tachim"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Harmonic",
+   "results": [
+    "https://www.linkedin.com/company/harmonic",
+    "https://www.linkedin.com/company/harmonicai",
+    "https://www.linkedin.com/company/harmonicmath",
+    "https://www.linkedin.com/company/harmonic-growth-partners",
+    "https://www.linkedin.com/company/harmonic-security",
+    "https://www.linkedin.com/posts/maxruderman_thrilled-to-share-how-harmonic-actually-announced-activity-7247994799771803649-SMKf",
+    "https://www.linkedin.com/company/harmonic-group-inc",
+    "https://www.linkedin.com/company/harmonic/jobs",
+    "https://www.linkedin.com/company/first-harmonic",
+    "https://www.linkedin.com/company/harmonicdiscovery"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Harmonic",
+   "results": [
+    "https://www.facebook.com/holyyouthmovement/posts/the-harmonic-feedback-club/1748271060641760/",
+    "https://www.facebook.com/harmonicinc/",
+    "https://www.facebook.com/groups/doublebasshq/posts/10160518587633265/",
+    "https://www.facebook.com/harmonicdirt/",
+    "https://www.facebook.com/groups/876194196241093/posts/2290705441456621/",
+    "https://www.facebook.com/groups/118464738839430/posts/1068890110463550/",
+    "https://www.facebook.com/groups/musictheory/posts/1906519306076032/",
+    "https://www.facebook.com/thecityharmonic/",
+    "https://www.facebook.com/groups/musicengravingtips/posts/3941660719466124/",
+    "https://www.facebook.com/p/Harmonic-100089032459566/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Harmonic note 社長",
+   "results": [
+    "https://www.reddit.com/r/musictheory/comments/jqc83h/what_are_harmonics/",
+    "https://investor.harmonicinc.com/static-files/50d4c412-0df5-44c2-95d8-68da1490a01e",
+    "https://www.harmonic.fm/blog",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.harmonic.fun/about/",
+    "https://www.linkedin.com/in/maxruderman",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://sequoiacap.com/companies/harmonic",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Harmonic X 投稿",
+   "results": [
+    "https://x.com/HarmonicInc",
+    "https://www.harmonicinc.com/hubfs/datasheet/prostream-x.pdf",
+    "https://www.mediakind.com/prostream-x/",
+    "https://networkxevent.com/sponsors/harmonic/",
+    "https://www.harmonic.fun/news/",
+    "https://www.instagram.com/harmonic.xv/",
+    "https://harmonic.gg/",
+    "https://www.alphaxiv.org/ja/abs/1610.05997",
+    "https://www.instagram.com/_harmonic__x/reels/",
+    "https://www.instagram.com/_harmonicx_/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部40頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部40頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部40頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部40頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部40頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部40頁・検索12回）"
+ }
+}

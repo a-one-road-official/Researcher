@@ -1,0 +1,1360 @@
+{
+ "name": "Furtherai",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T23:44:24.791768+00:00",
+ "official_url": "https://www.furtherai.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Insurance Professionals",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Submission Processing",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Insurance professionals are drowning in busywork",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FurtherAI clears the busywork from submissions, policies, audits, and claims — so insurance professionals can focus on judgment, not manual repetitive tasks.",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One of the largest managing general agencies (MGAs) in the U.S., with over $1.5 billion in premiums across 20+ insurance programs and serving more than 1 million policyholders, sought to streamline its underwriting process.",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A leading insurance company responsible for supporting over 100 MGAs faced a time-intensive, inefficient underwriting audit process. Each MGA audit required reviewing the underwriting files for about 20 portfolio companies, consuming 200 hours.",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A specialty insurer with over three consecutive years of more than 20% premium growth and an expansion from five to ten insurance programs faced a critical operational bottleneck — claims workflows.",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A top-10 global insurance carrier with over $20 billion in gross written premium (GWP) and a portfolio spanning 25+ commercial insurance products partnered with FurtherAI to overhaul its Large Property unit’s operational backbone.",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "President, Commercial Property",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "MGA with $1.5B in Premiums",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"This is a godsend. The technology is impressive with very",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“We landed on FurtherAI, because we saw their dedication to the space, and we saw that they were really going to be able to enhance our team's already good underwriting and make it that much better. This is the biggest technology advancement for our space since the computer, and it's probably going to be much more significant.”",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Program Officer, Euclid Program Managers",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The FurtherAI team has been a fantastic partner in helping us rapidly stand-up complex, enterprise workflows.\"",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“After evaluating several vendors, we chose FurtherAI for its performance, insurance expertise, and partnership approach. The forward deployed engineer model makes a big difference — they work directly with our teams and help us get results quickly and we are able to both learn and iterate.”",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Managing Principal, Euclid Security Programs",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade security",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "That adheres to industry best practices and compliance standards.",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Client prompts and data are never used for training",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI masters complex insurance workflows, automating tedious document processing and sharpening decision-making accuracy. Your team can finally focus on what matters most — driving your business forward.",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI extracts key details, runs eligibility checks, and flags inconsistencies — processing client intake 30x faster so you can focus on risk evaluation.",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Leading MGA with over $1.5B in premiums",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Insurance teams use FurtherAI to eliminate manual work, improve accuracy, and move faster — all with built-in controls and a human-in-the-loop process.",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Improve combined ratio at scale",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Submission Processing",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate growth and reduce E&O exposure by streamlining intake, preparing cleaner submissions, and automating proposal generation.",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Premium & Claims Roll-ups",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Loss History Processing",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Improve CAT modeling accuracy",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Automate intake, detect issues early, and give underwriters complete, standardized property data.",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Claims File Processing",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "View Commercial Property",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Underwrite non-standard risks profitably",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Claims Documents Processing",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Application & Medical Record Processing",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Process cyber submissions, validate controls, and generate standardized summaries for underwriting review.",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Generate clean, compliant proposals in minutes — with full human review.",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Turn disjointed spreadsheets into standardized data for analytics, appetite, and reporting.",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "“We landed on FurtherAI, because we saw their dedication to the space, and we saw that they were really going to be able to enhance our team's already good underwriting and make it that much better. This is the biggest technology advancement for our space since the computer, and it's probably going to be much more significant.”",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Program Officer, Euclid Program Managers",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "“The FurtherAI team has been a fantastic partner in helping us rapidly stand-up complex, enterprise workflows.\"",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "“After evaluating several vendors, we chose FurtherAI for its performance, insurance expertise, and partnership approach. The forward deployed engineer model makes a big difference — they work directly with our teams and help us get results quickly and we are able to both learn and iterate.”",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Managing Principal, Euclid Security Programs",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "A workspace aligned to industry best practices and compliance standards.",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Insurance AI Videos: Product Demos, Interviews & Case Studies",
+    "url": "https://www.furtherai.com/videos",
+    "pass": 1
+   },
+   {
+    "quote": "The latest solutions videos, expert insights, and product updates from the FurtherAI team.",
+    "url": "https://www.furtherai.com/videos",
+    "pass": 1
+   },
+   {
+    "quote": "COI Processing on FurtherAI",
+    "url": "https://www.furtherai.com/videos",
+    "pass": 1
+   },
+   {
+    "quote": "Upland Specialty Proved FurtherAI in Production, Then Cut Clearance Time by 30 to 40%",
+    "url": "https://www.furtherai.com/videos",
+    "pass": 1
+   },
+   {
+    "quote": "A workspace aligned to industry best practices and compliance standards.",
+    "url": "https://www.furtherai.com/videos",
+    "pass": 1
+   },
+   {
+    "quote": "Leading MGA with over $1.5B in premiums",
+    "url": "https://www.furtherai.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Novacore Chooses FurtherAI to Power Underwriting Across Its Specialty Programs",
+    "url": "https://www.furtherai.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "https://cdn.prod.website-files.com/67bce5e386b7ca213dda94ef/682cd96569dadf36f32ce66a_FurtherAI%20Submission%20Processing%20Report.pdf",
+    "url": "https://www.furtherai.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Submissions Processing",
+    "url": "https://www.furtherai.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "https://cdn.prod.website-files.com/67bce5e386b7ca213dda94ef/682cd965cea50dbdbe5faa4b_FurtherAI%20Underwriting%20Audit%20Report.pdf",
+    "url": "https://www.furtherai.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "https://cdn.prod.website-files.com/67bce5e386b7ca213dda94ef/682cd965d3e974f3662720ef_FurtherAI%20Policy%20Comparison%20and%20Check%20Report.pdf",
+    "url": "https://www.furtherai.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "https://cdn.prod.website-files.com/67bce5e386b7ca213dda94ef/6851b644437bec02ac4d4ef9_SOV%20Intake%20CS.pdf",
+    "url": "https://www.furtherai.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Complex Property SOV Intake",
+    "url": "https://www.furtherai.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "https://cdn.prod.website-files.com/67bce5e386b7ca213dda94ef/6851b64404ec17b56dddfcc6_Claim%20Processing%20CS.pdf",
+    "url": "https://www.furtherai.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "A FurtherAI Claim Intake hit 90% automation, $360k savings & 10x faster processing",
+    "url": "https://www.furtherai.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Brokers Use FurtherAI to Generate Client Proposals in Minutes",
+    "url": "https://www.furtherai.com/customers",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by leading commercial insurers",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FurtherAI is trusted by",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading commercial insurers",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.",
+    "url": "https://www.furtherai.com/draft-pages/about",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.",
+    "url": "https://www.furtherai.com/draft-pages/about",
+    "pass": 1
+   },
+   {
+    "quote": "MGA Case Study: 30x Faster Submission Processing",
+    "url": "https://www.furtherai.com/customers/submissions-processing-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Underwriting Audit Case Study: 45% Less Audit Time",
+    "url": "https://www.furtherai.com/customers/underwriting-audit-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Claims Case Study: 90% Intake Automation, 568% ROI",
+    "url": "https://www.furtherai.com/customers/claims-processing-ai",
+    "pass": 1
+   },
+   {
+    "quote": "SOV Intake Case Study: 646% ROI at a Top-10 Carrier",
+    "url": "https://www.furtherai.com/customers/complex-property-sov-intake",
+    "pass": 1
+   },
+   {
+    "quote": "Global property mixes (commercial, habitational, industrial, high-hazard).",
+    "url": "https://www.furtherai.com/customers/complex-property-sov-intake",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "One of the largest managing general agencies (MGAs) in the U.S., with over $1.5 billion in premiums across 20+ insurance programs and serving more than 1 million policyholders, sought to streamline its underwriting process.",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Voice and Email Intake for Insurance Agencies | FurtherAI",
+    "url": "https://www.furtherai.com/blog/voice-email-intake-insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Why service requests pile up at agencies",
+    "url": "https://www.furtherai.com/blog/voice-email-intake-insurance-agencies",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "FurtherAI works with 5 of top-10 carriers and 5 of top-15 brokers/wholesalers",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A mid-sized insurer with over 1,500 employees and $1 billion in annual revenue partnered with FurtherAI.",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A top-10 global insurance carrier with over $20 billion in gross written premium (GWP) and a portfolio spanning 25+ commercial insurance products partnered with FurtherAI to overhaul its Large Property unit’s operational backbone.",
+    "url": "https://www.furtherai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "View carrier solutions",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Scale revenue without added headcount",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Instant, accurate comparisons across versions, carriers, and formats.",
+    "url": "https://www.furtherai.com/all-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "See how Carriers, Brokers and MGAs scale faster with AI.",
+    "url": "https://www.furtherai.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "A carrier boosted quote speed, achieving 646% ROI with efficiency, accuracy & scalability",
+    "url": "https://www.furtherai.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Inconsistent Input → To open a new claim, required documentation arrived in diverse layouts, requiring manual normalization of fields for accurate processing",
+    "url": "https://www.furtherai.com/customers/claims-processing-ai",
+    "pass": 1
+   },
+   {
+    "quote": "SOV Intake Case Study: 646% ROI at a Top-10 Carrier",
+    "url": "https://www.furtherai.com/customers/complex-property-sov-intake",
+    "pass": 1
+   },
+   {
+    "quote": "By integrating FurtherAI’s Complex SOV Intake AI Teammate, the carrier transformed its quote turnaround times and unlocked a 646% ROI through extreme efficiency gains, industry-leading accuracy, and enterprise-grade scalability.",
+    "url": "https://www.furtherai.com/customers/complex-property-sov-intake",
+    "pass": 1
+   },
+   {
+    "quote": "Before AI integration, the carrier’s intake was manual – and it was slow and costly:",
+    "url": "https://www.furtherai.com/customers/complex-property-sov-intake",
+    "pass": 1
+   },
+   {
+    "quote": "The carrier’s underwriting team faced added complexities due to:",
+    "url": "https://www.furtherai.com/customers/complex-property-sov-intake",
+    "pass": 1
+   },
+   {
+    "quote": "Schema Alignment: Re-mapped broker-submitted data to the carrier’s proprietary underwriting system schema.",
+    "url": "https://www.furtherai.com/customers/complex-property-sov-intake",
+    "pass": 1
+   },
+   {
+    "quote": "Fully integrated with carrier’s Morpheus system and submission workflows",
+    "url": "https://www.furtherai.com/customers/complex-property-sov-intake",
+    "pass": 1
+   },
+   {
+    "quote": "Unlocked full support for high-volume renewal and new business cycles across the carrier’s global portfolio.",
+    "url": "https://www.furtherai.com/customers/complex-property-sov-intake",
+    "pass": 1
+   },
+   {
+    "quote": "FurtherAI’s Complex SOV Intake AI Teammate enabled the carrier to leapfrog traditional intake constraints—delivering best-in-class speed, scale, and accuracy for one of the world’s most intricate underwriting operations.",
+    "url": "https://www.furtherai.com/customers/complex-property-sov-intake",
+    "pass": 1
+   },
+   {
+    "quote": ", a Canadian reinsurance and insurance services company based in Toronto and part of the CRC group, has chosen FurtherAI's insurance-native AI workspace as the foundation for modernizing its claims operations. RMA is FurtherAI's first Canadian customer, marking a meaningful step in our expansion beyond the US.",
+    "url": "https://www.furtherai.com/blog/rma-insurance-partners-with-furtherai",
+    "pass": 1
+   },
+   {
+    "quote": "That's the story we're proud to be part of. What we like most about it is why RMA made the move, and what they're planning to build on top.",
+    "url": "https://www.furtherai.com/blog/rma-insurance-partners-with-furtherai",
+    "pass": 1
+   },
+   {
+    "quote": "RMA joins a customer community that spans US carriers, brokers, MGAs, and now Canadian insurance operations. For FurtherAI, the partnership is a step past the US border and into the North American market more broadly. For RMA, it's a foundation that can carry additional programs and continue operational modernization as the business grows.",
+    "url": "https://www.furtherai.com/blog/rma-insurance-partners-with-furtherai",
+    "pass": 1
+   },
+   {
+    "quote": "FurtherAI now handles agency intake by voice and email. When a client calls the agency or emails the service inbox, FurtherAI picks it up, understands the request, finds the account, and carries the work through to completion. Your team approves wherever it's needed.",
+    "url": "https://www.furtherai.com/blog/voice-email-intake-insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "A lot of an account manager's day goes to requests that arrive one at a time: a certificate for a new contract, a question about coverage, a change to a policy. Each one comes in by phone or email, and each one starts the same way. Someone has to work out what the client needs, find the right account, pull the right documents, and log the work in the agency management system.",
+    "url": "https://www.furtherai.com/blog/voice-email-intake-insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "The work isn't hard, but it's constant, and it competes with renewals and new business for the same people. When volume spikes, requests wait, and clients notice. A certificate that arrives late can hold up a client's contract or their access to a job site.",
+    "url": "https://www.furtherai.com/blog/voice-email-intake-insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Covering both channels matters. Plenty of clients still pick up the phone when they need something quickly, especially a certificate with a deadline attached. Others email the shared service inbox, where requests can sit behind newer messages. With voice and email intake, requests reach the same workflow however they arrive.",
+    "url": "https://www.furtherai.com/blog/voice-email-intake-insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Insurance is a trillion-dollar industry that still runs on PDFs and Excel. It’s not the employees’ fault–the tools they use were primarily built at the dawn of the digital age, or worse yet, were never digitized at all. The work itself is complex, heavily regulated, and must be strictly accurate.",
+    "url": "https://a16z.com/announcement/investing-in-furtherai/",
+    "pass": 3
+   },
+   {
+    "quote": "On the surface, this looks like the perfect opportunity for software automation. In practice, replacing core systems of record at scale is costly and risky when the stakes are this high. And so every year, carriers, MGAs, wholesalers, agents, and brokers instead choose to instead throw more humans at the problem, which in turn creates more internal complexity and a massive outsourcing ecosystem.",
+    "url": "https://a16z.com/announcement/investing-in-furtherai/",
+    "pass": 3
+   },
+   {
+    "quote": "FurtherAI has developed flexible AI primitives that allow carriers, MGAs, and brokers to automate paper-based workflows. Its insurance-native workspace lets customers skip long implementation cycles and realize value from AI fast.",
+    "url": "https://a16z.com/announcement/investing-in-furtherai/",
+    "pass": 3
+   },
+   {
+    "quote": "If you’re a carrier, broker, agent, MGA, or wholesaler, give the FurtherAI suite a try to see how AI could transform your business. And if you’re an employee looking to join a rocket ship bringing AI to insurance–they’re hiring.",
+    "url": "https://a16z.com/announcement/investing-in-furtherai/",
+    "pass": 3
+   },
+   {
+    "quote": "Previously he co-founded, TurboHire - a platform for recruitment automation, where he was responsible for scaling up the revenue to over $1m in ARR. He has approximately 10 years of experience in developing workflow automation solutions for various industries.",
+    "url": "https://www.ycombinator.com/companies/furtherai",
+    "pass": 3
+   },
+   {
+    "quote": "is a second-time founder with around 10 years of experience in workflow automation. Previously he built and scaled his company to over $1 million ARR and worked as a Product Manager at Microsoft.",
+    "url": "https://www.ycombinator.com/companies/furtherai",
+    "pass": 3
+   },
+   {
+    "quote": "Introducing \"Yomigaeri\" (Resurrection), a real combat sports entertainment project betting on the future of the city. A red-hot new version of the \"Yomigaeri Official AI Theme Song,\" which was just released the other day, has already arrived!",
+    "url": "https://note.com/i_am_chan_mitsu/n/n5ecd36451251?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is called the \"Sora Muaythai Remix,\" an AI-covered and arranged version of the official theme song!",
+    "url": "https://note.com/i_am_chan_mitsu/n/n5ecd36451251?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.",
+    "url": "https://www.furtherai.com/draft-pages/about",
+    "pass": 1
+   },
+   {
+    "quote": "Please state your consent ID and date when you contact us regarding your consent.",
+    "url": "https://www.furtherai.com/draft-pages/about",
+    "pass": 1
+   },
+   {
+    "quote": "John approved a $10M transaction exceeding the $5M limit; however, there was a clear email trail documenting the approval request.",
+    "url": "https://www.furtherai.com/customers/submissions-processing-ai",
+    "pass": 1
+   },
+   {
+    "quote": "John approved a $10M transaction exceeding the $5M limit; however, there was a clear email trail documenting the approval request.",
+    "url": "https://www.furtherai.com/customers/underwriting-audit-ai",
+    "pass": 1
+   },
+   {
+    "quote": "John approved a $10M transaction exceeding the $5M limit; however, there was a clear email trail documenting the approval request.",
+    "url": "https://www.furtherai.com/customers/claims-processing-ai",
+    "pass": 1
+   },
+   {
+    "quote": "John approved a $10M transaction exceeding the $5M limit; however, there was a clear email trail documenting the approval request.",
+    "url": "https://www.furtherai.com/customers/complex-property-sov-intake",
+    "pass": 1
+   },
+   {
+    "quote": "Voice and Email Intake for Insurance Agencies | FurtherAI",
+    "url": "https://www.furtherai.com/blog/voice-email-intake-insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "FurtherAI now handles agency intake by voice and email. When a client calls the agency or emails the service inbox, FurtherAI picks it up, understands the request, finds the account, and carries the work through to completion. Your team approves wherever it's needed.",
+    "url": "https://www.furtherai.com/blog/voice-email-intake-insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "The result: every call and email gets handled, service teams keep up without adding headcount, and clients get what they asked for the same day.",
+    "url": "https://www.furtherai.com/blog/voice-email-intake-insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "A lot of an account manager's day goes to requests that arrive one at a time: a certificate for a new contract, a question about coverage, a change to a policy. Each one comes in by phone or email, and each one starts the same way. Someone has to work out what the client needs, find the right account, pull the right documents, and log the work in the agency management system.",
+    "url": "https://www.furtherai.com/blog/voice-email-intake-insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "How voice and email intake works",
+    "url": "https://www.furtherai.com/blog/voice-email-intake-insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "FurtherAI answers the call or reads the email in the service inbox.",
+    "url": "https://www.furtherai.com/blog/voice-email-intake-insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Covering both channels matters. Plenty of clients still pick up the phone when they need something quickly, especially a certificate with a deadline attached. Others email the shared service inbox, where requests can sit behind newer messages. With voice and email intake, requests reach the same workflow however they arrive.",
+    "url": "https://www.furtherai.com/blog/voice-email-intake-insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Every call and email gets handled, even when the team is busy.",
+    "url": "https://www.furtherai.com/blog/voice-email-intake-insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Requests don't sit in a voicemail box or an unread folder until someone has time.",
+    "url": "https://www.furtherai.com/blog/voice-email-intake-insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "- Send an email along with the client application attached",
+    "url": "https://www.ycombinator.com/companies/furtherai",
+    "pass": 3
+   },
+   {
+    "quote": "Everything happens within the email client (Outlook/Gmail)",
+    "url": "https://www.ycombinator.com/companies/furtherai",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "a16zとYコンビネータが出資、「保険業界版ChatGPT」が実現する事務処理の革新的自動化 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "url": "https://forbesjapan.com/articles/detail/83387",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ今、日本市場に勝機があるのか ローランド・ベルガーが示す日本企業の新たな成長像",
+    "url": "https://forbesjapan.com/articles/detail/83387",
+    "pass": 3
+   },
+   {
+    "quote": "上智大学×タキヒヨーの共創が生んだサステナブルTシャツ――「TOKYOエシカル」がつなぐ新たな可能性",
+    "url": "https://forbesjapan.com/articles/detail/83387",
+    "pass": 3
+   },
+   {
+    "quote": "100年続くホテルが、100年先の森を育てる理由──「東京ステーションホテル」が未来へつなぐもの",
+    "url": "https://forbesjapan.com/articles/detail/83387",
+    "pass": 3
+   },
+   {
+    "quote": "KKR・大和証券の両トップが語る 日本が「世界有数の成長市場」になる未来",
+    "url": "https://forbesjapan.com/articles/detail/83387",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPANの最新のニュースをお届けします",
+    "url": "https://forbesjapan.com/articles/detail/83387",
+    "pass": 3
+   },
+   {
+    "quote": "With respect to funds managed by a16z that are registered in Japan, a16z will provide to any member of the Japanese public a copy of such documents as are required to be made publicly available pursuant to Article 63 of the Financial Instruments and Exchange Act of Japan. Please contact",
+    "url": "https://a16z.com/announcement/investing-in-furtherai/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "保険業務を変える「Forward Deployed Engineer（FDE ... — 保険業務を変える「Forward Deployed Engineer（FDE ... BRIDGE（ブリッジ） https://thebridge.jp > 2025/10 > furtherai-25m-series-a-fo...",
+    "url": "https://thebridge.jp/2025/10/furtherai-25m-series-a-forward-deployed-engineer-insurance",
+    "pass": 3
+   },
+   {
+    "quote": "FurtherAI 、英国・EU事業拡大の統括責任者にトム・ブラッド ... — FurtherAI 、英国・EU事業拡大の統括責任者にトム・ブラッド ... Business Wire https://www.businesswire.com > news > home",
+    "url": "https://www.businesswire.com/news/home/20260518218786/ja",
+    "pass": 3
+   },
+   {
+    "quote": "FurtherAI | AI Underwriting & Claims Platform for Insurance — FurtherAI | AI Underwriting & Claims Platform for Insurance FurtherAI https://www.furtherai.com",
+    "url": "https://www.furtherai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Investing in FurtherAI | Andreessen Horowitz — Investing in FurtherAI | Andreessen Horowitz Andreessen Horowitz https://a16z.com > announcement > i...",
+    "url": "https://a16z.com/announcement/investing-in-furtherai/",
+    "pass": 3
+   },
+   {
+    "quote": "FurtherAI - LinkedIn — FurtherAI - LinkedIn LinkedIn https://www.linkedin.com > furtherai",
+    "url": "https://www.linkedin.com/company/furtherai",
+    "pass": 3
+   },
+   {
+    "quote": "FurtherAI (@furtheraicom) / X — FurtherAI (@furtheraicom) / X X https://x.com > furtheraicom",
+    "url": "https://x.com/furtheraicom",
+    "pass": 3
+   },
+   {
+    "quote": "FurtherAI Inc. - ITC Vegas 2026 — FurtherAI Inc. - ITC Vegas 2026 ITC Vegas 2026 https://vegas.insuretechconnect.com > ...",
+    "url": "https://vegas.insuretechconnect.com/exhibitors/furtherai-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Insurance AI Case Studies & Customer Results | FurtherAI — Insurance AI Case Studies & Customer Results | FurtherAI FurtherAI https://www.furtherai.com > customers",
+    "url": "https://www.furtherai.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Policy Check & Compare Case Study : 400% ROI in Months — Policy Check & Compare Case Study : 400% ROI in Months FurtherAI https://www.furtherai.com > customers",
+    "url": "https://www.furtherai.com/customers/policy-check-compare-ai-teammate",
+    "pass": 3
+   },
+   {
+    "quote": "Every AI company at Insurtech Insights had a pitch. FurtherAI ... — Every AI company at Insurtech Insights had a pitch. FurtherAI ... Insurtech Insights https://www.insurtechinsights.com > e...",
+    "url": "https://www.insurtechinsights.com/resources/every-ai-company-at-insurtech-insights-had-a-pitch-furtherai-had-its-partners/6978/",
+    "pass": 3
+   },
+   {
+    "quote": "AI for Reinsurers: Cedent Data, Treaties & Exposure - FurtherAI — AI for Reinsurers: Cedent Data, Treaties & Exposure - FurtherAI FurtherAI https://www.furtherai.com > reinsurers",
+    "url": "https://www.furtherai.com/segment/reinsurers",
+    "pass": 3
+   },
+   {
+    "quote": "FurtherAI Raises $25M Series A Led by a16z — FurtherAI Raises $25M Series A Led by a16z FurtherAI https://www.furtherai.com > blog > fu...",
+    "url": "https://www.furtherai.com/blog/furtherai-announces-25m-series-a-from-andreessen-horowitz-to-transform-insurance-workflows-with-ai-automating-busywork",
+    "pass": 3
+   },
+   {
+    "quote": "FurtherAI , a San Francisco-based AI company ... - Instagram — FurtherAI , a San Francisco-based AI company ... - Instagram Instagram https://www.instagram.com > DPhTZj...",
+    "url": "https://www.instagram.com/p/DPhTZjjkeGm/",
+    "pass": 3
+   },
+   {
+    "quote": "FurtherAI - 2026 Company Profile, Team, Funding & Competitors — FurtherAI - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/furtherai/__x-ydePLjR0ovcx1BASHUAbXPikaiFaWJbe-n8qX71Qg",
+    "pass": 3
+   },
+   {
+    "quote": "FurtherAI : AI Workforce for the Insurance Industry - Y Combinator — FurtherAI : AI Workforce for the Insurance Industry - Y Combinator Y Combinator https://www.ycombinator.com > furth...",
+    "url": "https://www.ycombinator.com/companies/furtherai",
+    "pass": 3
+   },
+   {
+    "quote": "FurtherAI Raises $25 Million From Andreessen To Automate ... — FurtherAI Raises $25 Million From Andreessen To Automate ... Forbes https://www.forbes.com > ... > AI",
+    "url": "https://www.forbes.com/sites/charliefink/2025/10/07/furtherai-raises-25m-from-andreessen-to-automate-insurance-workflows/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Further AI Cover of the Official AI Theme Song! Soak in ... - note Further AI Cover of the Official AI Theme Song! Soak in ... - note note https://note.com > エンタメ > 音楽",
+    "url": "https://note.com/i_am_chan_mitsu/n/n5ecd36451251?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Further AI Cover of the Official AI Theme Song! Soak in the Resurrected Sora Muaythai Remix at the Festival!🔥｜ちゃんみつ@二日酔いキックボクサー🥊",
+    "url": "https://note.com/i_am_chan_mitsu/n/n5ecd36451251?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/i_am_chan_mitsu/n/n5ecd36451251?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Further AI Cover of the Official AI Theme Song! Soak in the Resurrected Sora Muaythai Remix at the Festival!🔥",
+    "url": "https://note.com/i_am_chan_mitsu/n/n5ecd36451251?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Introducing \"Yomigaeri\" (Resurrection), a real combat sports entertainment project betting on the future of the city. A red-hot new version of the \"Yomigaeri Official AI Theme Song,\" which was just released the other day, has already arrived!",
+    "url": "https://note.com/i_am_chan_mitsu/n/n5ecd36451251?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is called the \"Sora Muaythai Remix,\" an AI-covered and arranged version of the official theme song!",
+    "url": "https://note.com/i_am_chan_mitsu/n/n5ecd36451251?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is the ultimate remix track that fuses the unique, adrenaline-pumping beats that stir up the fighting spirit of Muaythai with the latest AI technology. We plan to blast this song at upcoming Tsurumi festivals, event venues, and kickboxing experience booths to bring the venue's voltage to its peak!",
+    "url": "https://note.com/i_am_chan_mitsu/n/n5ecd36451251?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Please come to the event venue, soak in the \"Sora Muaythai Remix\" at full volume, and feel the heat of the battle to revive the city firsthand!",
+    "url": "https://note.com/i_am_chan_mitsu/n/n5ecd36451251?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For those of you who are learning about \"",
+    "url": "https://note.com/i_am_chan_mitsu/n/n5ecd36451251?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "FurtherAI (@furtheraicom) / X FurtherAI (@furtheraicom) / X X https://x.com > furtheraicom",
+    "url": "https://x.com/furtheraicom",
+    "pass": 3
+   },
+   {
+    "quote": "Aman Gour // FurtherAI (@amangour30) / X Aman Gour // FurtherAI (@amangour30) / X X https://x.com > amangour30",
+    "url": "https://x.com/amangour30",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "FurtherAI - LinkedIn FurtherAI - LinkedIn LinkedIn https://www.linkedin.com > furtherai",
+    "url": "https://www.linkedin.com/company/furtherai",
+    "pass": 3
+   },
+   {
+    "quote": "Aman Gour - AI x Insurance | CEO, FurtherAI (a16z, YC) Aman Gour - AI x Insurance | CEO, FurtherAI (a16z, YC) LinkedIn https://www.linkedin.com > amangour",
+    "url": "https://www.linkedin.com/in/amangour",
+    "pass": 3
+   },
+   {
+    "quote": "FurtherAI : Culture - LinkedIn FurtherAI : Culture - LinkedIn LinkedIn https://www.linkedin.com > life",
+    "url": "https://www.linkedin.com/company/furtherai/life",
+    "pass": 3
+   },
+   {
+    "quote": "FurtherAI : Jobs - LinkedIn FurtherAI : Jobs - LinkedIn LinkedIn https://www.linkedin.com > jobs",
+    "url": "https://www.linkedin.com/company/furtherai/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "FurtherAI CEO Aman Gour's Differentiation in Insurtech FurtherAI CEO Aman Gour's Differentiation in Insurtech LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/joshuarhollander_in-an-insurtech-leadership-podcast-episode-activity-7501618169321811968-l3Ea",
+    "pass": 3
+   },
+   {
+    "quote": "Introducing The Coverage: What FurtherAI Shipped in October Introducing The Coverage: What FurtherAI Shipped in October LinkedIn https://www.linkedin.com > pulse > in...",
+    "url": "https://www.linkedin.com/pulse/introducing-coverage-what-furtherai-shipped-october-furtherai-rpjbc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Further AI | Atlanta GA - Facebook Further AI | Atlanta GA - Facebook Facebook https://www.facebook.com > ... > Consulting agency",
+    "url": "https://www.facebook.com/further.ai.fb/",
+    "pass": 3
+   },
+   {
+    "quote": "Further AI added a new photo. Further AI added a new photo. Facebook https://www.facebook.com > further.ai.fb > photos",
+    "url": "https://www.facebook.com/further.ai.fb/photos/1581835730614242/",
+    "pass": 3
+   },
+   {
+    "quote": "There really needs to a moratorium on any further AI ... There really needs to a moratorium on any further AI ... Facebook https://www.facebook.com > gregory.j.bentley.1 > posts",
+    "url": "https://www.facebook.com/gregory.j.bentley.1/posts/there-really-needs-to-a-moratorium-on-any-further-ai-development-until-we-can-ge/10239461911018645/",
+    "pass": 3
+   },
+   {
+    "quote": "Lyri Lo Three Steps Further AI Version Music Release Lyri Lo Three Steps Further AI Version Music Release Facebook https://www.facebook.com > ... > Lyri LO > Videos",
+    "url": "https://www.facebook.com/LyriLO/videos/i-am-three-step-further-ai-version-akapheli-lyrilo-lyrilomusic/1448339753930739/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.furtherai.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furtherai.com/all-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furtherai.com/videos",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furtherai.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furtherai.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furtherai.com/draft-pages/about",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.furtherai.com/customers/submissions-processing-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furtherai.com/customers/underwriting-audit-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furtherai.com/customers/claims-processing-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furtherai.com/customers/complex-property-sov-intake",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furtherai.com/blog/rma-insurance-partners-with-furtherai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furtherai.com/blog/furtherai-raises-5m-to-advance-its-specialized-ai-for-insurance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furtherai.com/blog/voice-email-intake-insurance-agencies",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://thebridge.jp/2025/10/furtherai-25m-series-a-forward-deployed-engineer-insurance",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/83387",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snowflake.com/accelerate/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ZzY2rHyOrXM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20260518218786/ja",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/83387",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairii.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforce.com/jp/financial-services/resources/jp-sales-revolution-with-ai/?bc=OTH",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://a16z.com/announcement/investing-in-furtherai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/furtherai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/furtheraicom",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://further.ai/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thirdeyedata.ai/case-studies/manufacturing-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Y-l_-CAmJ2c",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://customgpt.ai/white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/p/DPhTZjjkeGm/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/furtherai/__x-ydePLjR0ovcx1BASHUAbXPikaiFaWJbe-n8qX71Qg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/furtherai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/i_am_chan_mitsu/n/n5ecd36451251?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/furtheraicom",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/amangour30",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/furtherai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/amangour",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/furtherai/life",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/furtherai/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/further.ai.fb/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/further.ai.fb/photos/1581835730614242/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/gregory.j.bentley.1/posts/there-really-needs-to-a-moratorium-on-any-further-ai-development-until-we-can-ge/10239461911018645/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/LyriLO/videos/i-am-three-step-further-ai-version-akapheli-lyrilo-lyrilomusic/1448339753930739/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/amangour",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/joshuarhollander_in-an-insurtech-leadership-podcast-episode-activity-7501618169321811968-l3Ea",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/furtheraicom",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/introducing-coverage-what-furtherai-shipped-october-furtherai-rpjbc",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Furtherai 日本 導入",
+   "results": [
+    "https://thebridge.jp/2025/10/furtherai-25m-series-a-forward-deployed-engineer-insurance",
+    "https://forbesjapan.com/articles/detail/83387",
+    "https://www.snowflake.com/accelerate/japan/",
+    "https://www.youtube.com/watch?v=ZzY2rHyOrXM",
+    "https://www.nikkei.com/article/DGXZQOUC10BRL0Q6A210C2000000/",
+    "https://www.watch.impress.co.jp/docs/news/2107725.html",
+    "https://helm.ai/ja/about",
+    "https://www.ibm.com/jp-ja/new/product-blog/iot-strakerai",
+    "https://mdb-biz.jmar.co.jp/news",
+    "https://skywork.ai/skypage/ja/ai-workspace-insurance/1985617265664794624"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Furtherai 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.businesswire.com/news/home/20260518218786/ja",
+    "https://forbesjapan.com/articles/detail/83387",
+    "https://dairii.ai/",
+    "https://www.salesforce.com/jp/financial-services/resources/jp-sales-revolution-with-ai/",
+    "https://www.funaisoken.co.jp/dl-contents/industry-ai-insurance_S005",
+    "https://www.youtube.com/watch?v=VzDrk6uvBSo",
+    "https://ext.cx/agency/",
+    "https://www10.inswatch.co.jp/contents/news?id=817&aflg=0&sbid=0&cpwd=0",
+    "https://www.aoagent.jp/",
+    "https://dairitenboshu.com/column/detail/soudairiten"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Furtherai Japan",
+   "results": [
+    "https://www.furtherai.com/",
+    "https://a16z.com/announcement/investing-in-furtherai/",
+    "https://www.linkedin.com/company/furtherai",
+    "https://x.com/furtheraicom",
+    "https://vegas.insuretechconnect.com/exhibitors/furtherai-inc",
+    "https://mgaa.co.uk/members/furtherai-inc/",
+    "https://www.ambest.com/video/video.aspx?s=1&rc=gour525",
+    "https://www.workatastartup.com/companies/furtherai",
+    "https://thebridge.jp/2025/10/furtherai-25m-series-a-forward-deployed-engineer-insurance",
+    "https://skywork.ai/skypage/ja/ai-workspace-insurance/1985617265664794624"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Furtherai manufacturing customer case study",
+   "results": [
+    "https://www.furtherai.com/customers",
+    "https://www.furtherai.com/customers/policy-check-compare-ai-teammate",
+    "https://further.ai/customer-stories",
+    "https://thirdeyedata.ai/case-studies/manufacturing-industry/",
+    "https://www.insurtechinsights.com/resources/every-ai-company-at-insurtech-insights-had-a-pitch-furtherai-had-its-partners/6978/",
+    "https://studiohuncho.com/work/further-ai",
+    "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "https://www.linkedin.com/company/furtherai/life",
+    "https://www.automate.org/ai/industry-insights/case-studies-ai-advanced-manufacturing",
+    "https://www.casestudies.com/company/furtherai"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Furtherai white label OR reseller OR partner program",
+   "results": [
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=Y-l_-CAmJ2c",
+    "https://customgpt.ai/white-label-software-to-resell/",
+    "https://www.furtherai.com/segment/reinsurers",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://www.linkedin.com/company/furtherai",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Furtherai founded funding employees revenue",
+   "results": [
+    "https://www.furtherai.com/blog/furtherai-announces-25m-series-a-from-andreessen-horowitz-to-transform-insurance-workflows-with-ai-automating-busywork",
+    "https://www.instagram.com/p/DPhTZjjkeGm/",
+    "https://tracxn.com/d/companies/furtherai/__x-ydePLjR0ovcx1BASHUAbXPikaiFaWJbe-n8qX71Qg",
+    "https://www.ycombinator.com/companies/furtherai",
+    "https://www.forbes.com/sites/charliefink/2025/10/07/furtherai-raises-25m-from-andreessen-to-automate-insurance-workflows/",
+    "https://pitchbook.com/profiles/company/596689-93",
+    "https://www.linkedin.com/posts/southparkcommons_furtherai-has-raised-a-25m-series-a-to-activity-7381443655317884928-qJyz",
+    "https://www.crunchbase.com/organization/further-ai",
+    "https://www.linkedin.com/posts/y-combinator_further-ai-has-just-raised-a-5m-seed-round-activity-7313622569276829697-vfsW",
+    "https://prospeo.io/c/furtherai-revenue"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Furtherai",
+   "results": [
+    "https://note.com/anyoneanderson/n/n55518554ef0c",
+    "https://note.com/i_am_chan_mitsu/n/n5ecd36451251?hl=en",
+    "https://note.com/peizannu/n/n4cc7dab79f58?hl=en",
+    "https://note.com/indi_stocks/n/n3c78e11c7972?hl=en",
+    "https://note.com/juicy_daisy5937/n/nb22191852435?hl=en",
+    "https://note.com/kohadachan/n/nacf9e6262fe0?hl=en",
+    "https://note.com/explaza_inc/n/n0fe6866a08b4?hl=en",
+    "https://note.com/pasberth/n/n04bc17b94757?hl=en",
+    "https://note.com/_yoshiaki/n/n4e1d648bc001?hl=en",
+    "https://note.com/emilia_lab/n/n4936145a7f14?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Furtherai",
+   "results": [
+    "https://x.com/furtheraicom",
+    "https://x.com/amangour30",
+    "https://x.com/ellenpark_",
+    "https://x.com/sgondala2",
+    "https://x.com/BAI_AGI/status/2118193000606228514",
+    "https://x.com/sgondala2/status/2115832070274723875",
+    "https://x.com/GaryMarcus/status/2100287205336047912",
+    "https://x.com/SarahAnnabels/status/2120363170791657497",
+    "https://x.com/SeekingAlpha/status/2117747407635271683",
+    "https://x.com/furtherai_"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com Furtherai",
+   "results": [
+    "https://www.linkedin.com/company/furtherai",
+    "https://www.linkedin.com/in/amangour",
+    "https://www.linkedin.com/company/furtherai/life",
+    "https://www.linkedin.com/company/furtherai/jobs",
+    "https://www.linkedin.com/posts/amangour_furtherai-now-powers-10-of-the-top-25-insurance-activity-7524154691379871744-w_6e",
+    "https://www.linkedin.com/posts/furtherai_today-were-announcing-the-first-ai-orchestration-activity-7452085045953216512-y8CK",
+    "https://www.linkedin.com/posts/tech-funding-news_furtherai-bags-25m-to-automate-insurance-activity-7381336415961235456-sJQ2",
+    "https://www.linkedin.com/in/ben-grosser-71154818",
+    "https://www.linkedin.com/pulse/introducing-coverage-what-furtherai-shipped-october-furtherai-rpjbc",
+    "https://uk.linkedin.com/in/garikaigono"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Furtherai",
+   "results": [
+    "https://www.facebook.com/further.ai.fb/",
+    "https://www.facebook.com/further.ai.fb/photos/1581835730614242/",
+    "https://www.facebook.com/gregory.j.bentley.1/posts/there-really-needs-to-a-moratorium-on-any-further-ai-development-until-we-can-ge/10239461911018645/",
+    "https://www.facebook.com/LyriLO/videos/i-am-three-step-further-ai-version-akapheli-lyrilo-lyrilomusic/1448339753930739/",
+    "https://www.facebook.com/NBCConnecticut/posts/such-stocks-have-been-swinging-for-months-on-worries-that-the-construction-of-fu/1707144641459428/",
+    "https://www.facebook.com/further.ai.fb/posts/when-is-ai-good-enough-to-act-on-moving-ai-from-experimentation-to-real-world-im/1804402351690911/",
+    "https://www.facebook.com/further.ai.fb/posts/the-ai-agent-wars-are-here-but-is-your-data-actually-ready-for-themwith-metas-mu/1805670758230737/",
+    "https://www.facebook.com/exchange4media/videos/e4matindiaaiimpactsummit-watch-sundar-pichai-ceo-of-google-speak-on-how-google-i/889980787129795/",
+    "https://www.facebook.com/FranklinCovey/posts/ai-is-reshaping-the-workplace-automating-routine-tasks-and-driving-efficiency-ac/1749063069092948/",
+    "https://www.facebook.com/p/Further-AI-Powered-Solutions-61551607094263/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Furtherai note 社長",
+   "results": [
+    "https://www.linkedin.com/in/amangour",
+    "https://www.furtherai.com/blog/built-on-a-box-of-donuts-a-letter-from-our-founders",
+    "https://www.linkedin.com/posts/joshuarhollander_in-an-insurtech-leadership-podcast-episode-activity-7501618169321811968-l3Ea",
+    "https://www.insurtechny.com/speakers/aman-gour/",
+    "https://www.insurtechinsights.com/resources/every-ai-company-at-insurtech-insights-had-a-pitch-furtherai-had-its-partners/6978/",
+    "https://insnerds.com/news/exclusive-furtherai-raises-25-million-automate-insurance-tasks",
+    "https://note.com/trex_ai",
+    "https://cfotech.co.uk/story/furtherai-raises-usd-25m-to-boost-insurance-automation",
+    "https://note.com/anyoneanderson/n/n55518554ef0c"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Furtherai X 投稿",
+   "results": [
+    "https://x.com/furtheraicom",
+    "https://www.furtherai.com/blog/furtherai-x-openai-improving-ai-agents-for-insurance",
+    "https://www.ambest.com/video/video.aspx?s=1&rc=gour525",
+    "https://www.linkedin.com/pulse/introducing-coverage-what-furtherai-shipped-october-furtherai-rpjbc",
+    "https://www.linkedin.com/posts/furtherai_today-were-launching-builder-agent-a-new-activity-7497742680270036992-a6q3",
+    "https://www.furtherai.com/",
+    "https://www.youtube.com/@furtheraicom",
+    "https://mgaa.co.uk/members/furtherai-inc/",
+    "https://x.com/amangour30",
+    "https://x.com/furtherai_"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部35頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

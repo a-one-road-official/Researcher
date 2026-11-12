@@ -1,0 +1,427 @@
+{
+ "name": "Grepdata",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-11T23:50:57.043923+00:00",
+ "official_url": "http://grepdata.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "We help B2B Companies identify their TAM. Once identified we help them focus on who's in-market OR help them market to those companies via advertising and personalization. Our platform ensures that your AdTech, MarTech and SalesTech tools are targeting the right audiences.",
+    "url": "https://www.ycombinator.com/companies/grepdata",
+    "pass": 3
+   },
+   {
+    "quote": "In addition to above, I invest in startups and mentor 1st time founders. My areas of expertise are big data, scaling machine learning systems, enterprise SaaS, Product Pricing, GTM.",
+    "url": "https://www.ycombinator.com/companies/grepdata",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "GrepData : Big Data Analytics - Y Combinator — GrepData : Big Data Analytics - Y Combinator Y Combinator https://www.ycombinator.com > grep...",
+    "url": "https://www.ycombinator.com/companies/grepdata",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "grepdata (@grepdata) / Posts / X grepdata (@grepdata) - Posts - | X (formerly Twitter) grepdata Joined: Feb 22, 2013 0 3 0",
+    "url": "https://x.com/grepdata",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://grepdata.com",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.youtube.com/watch?v=_Xvl_3HtKEY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://japan.zdnet.com/article/35241891/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2072775.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://code41.com/ja/projects/day41/projects/x41/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kaking.jp/agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.google.com/business/answer/7353903?hl=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bizhawkeye.ne.jp/agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worldjpn.net/indexPC-ENG.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nippon.com/en/articles/-/56881",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linklaters.com/insights/data-protected/data-protected---japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japantoday.com/category/national/update2-more-data-breaches-reported-by-japan-prefectural-police-forces-companies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factbird.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://goamplifi.com/knowledge-base/case-study-6-case-studies-of-data-management-success-in-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/grepdata",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/nholmesacourt_how-much-revenue-does-the-average-startup-activity-7410518895192838144-vH7m",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/rightdata",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/grepdata",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Grepdata 日本 導入",
+   "results": [
+    "https://www.youtube.com/watch?v=_Xvl_3HtKEY",
+    "https://japan.zdnet.com/article/35241891/",
+    "https://cloud.watch.impress.co.jp/docs/news/2072775.html",
+    "https://code41.com/ja/projects/day41/projects/x41/",
+    "https://docs.github.com/ja/enterprise-cloud@latest/admin/data-residency/about-github-enterprise-cloud-with-data-residency",
+    "https://www.zipc.com/jp/news/info/20201125.html",
+    "https://docs.cyberark.com/sca/latest/ja/default.htm",
+    "https://www.bizaces.net/entry/gm-brings-ota-to-vehicle-by-2023",
+    "https://prtimes.jp/main/html/rd/p/000000002.000190823.html",
+    "https://grepodata.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Grepdata 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.kaking.jp/agent/",
+    "https://support.google.com/business/answer/7353903?hl=ja",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.bizhawkeye.ne.jp/agency/",
+    "https://b-seeds.com/",
+    "https://www.hits-company.co.jp/alliance/column/agency-business/",
+    "https://www.cloudec.jp/ms-enterprise/lp-salesagent/",
+    "https://ecnomikata.com/blog/51120/",
+    "https://rkd-inc.jp/business-introduction/agency-business",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Grepdata Japan",
+   "results": [
+    "https://worldjpn.net/indexPC-ENG.html",
+    "https://www.nippon.com/en/articles/-/56881",
+    "https://www.linklaters.com/insights/data-protected/data-protected---japan",
+    "https://japantoday.com/category/national/update2-more-data-breaches-reported-by-japan-prefectural-police-forces-companies",
+    "https://www.ddbj.nig.ac.jp/jga/index-e.html",
+    "https://asia.nikkei.com/spotlight/cybersecurity/japan-to-safeguard-personal-financial-genetic-data-from-foreign-threats",
+    "https://www.youtube.com/watch?v=hC2LjnFJTEI",
+    "https://www.grips.ac.jp/en/",
+    "https://cpl.thalesgroup.com/compliance/apac/data-security-compliance-japan-act-on-protection-of-personal-information",
+    "https://grep.fm/reports/japanese/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Grepdata manufacturing customer case study",
+   "results": [
+    "https://www.factbird.com/resources/case-studies",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "https://goamplifi.com/knowledge-base/case-study-6-case-studies-of-data-management-success-in-manufacturing",
+    "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vK9_0-kn6wX11Ug_5XaXbx5FChW-21oDKHXINaDueq07yV6t9so",
+    "https://pimcore.com/en/customers",
+    "https://www.griddynamics.com/blog/case-studies",
+    "https://www.sciencedirect.com/science/article/pii/S2212827120314608",
+    "https://aws.amazon.com/manufacturing/case-studies/",
+    "https://www.gep.com/knowledge-bank/case-studies"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Grepdata white label OR reseller OR partner program",
+   "results": [
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.goodbarber.com/blog/7-best-app-builders-for-resellers-and-agencies-a1590/",
+    "https://www.reddit.com/r/GrowthHacking/comments/1rxruln/using_a_whitelabel_or_reseller_program_to/",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Grepdata founded funding employees revenue",
+   "results": [
+    "https://growjo.com/",
+    "https://www.ycombinator.com/companies/grepdata",
+    "https://www.linkedin.com/posts/nholmesacourt_how-much-revenue-does-the-average-startup-activity-7410518895192838144-vH7m",
+    "https://getlatka.com/companies/rightdata",
+    "https://gaps.com/finance/",
+    "https://www.reddit.com/r/datasets/comments/1atvnc9/data_on_ai_startups_number_of_employees_revenue/",
+    "https://bullfincher.io/",
+    "https://epoch.ai/data/ai-companies",
+    "https://www.crunchbase.com/",
+    "https://www.crunchbase.com/organization/grepdata"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Grepdata",
+   "results": [
+    "https://note.com/magic_vole6213/n/n66fe7520d9a9",
+    "https://note.com/xcamp/n/nde66b83f2dc7?hl=ko",
+    "https://note.com/kujiraitakahiro/n/n38179e63ec37",
+    "https://note.com/goldnanoparticle/n/n1e0d961e8985",
+    "https://note.com/yukikkoaimanabi/n/n113cfe86ca94",
+    "https://note.com/xcamp/n/nde66b83f2dc7",
+    "https://note.com/uehara_paradise/n/na7f0fd876a97",
+    "https://note.com/minato_kame/n/nfde9ef8abd38",
+    "https://note.com/dopingconsomme/n/n9541090f9406",
+    "https://note.com/coconut_1122_/n/n73f25e80ee06?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Grepdata",
+   "results": [
+    "https://x.com/6senseInc",
+    "https://x.com/grepdata",
+    "https://x.com/grep_ai/status/2106010705652793739",
+    "https://x.com/MiguelriosEN/status/2101029313906987422",
+    "https://x.com/ZvecAI/status/2095148156392509465",
+    "https://x.com/ryouxbt/status/2120506876194369869",
+    "https://x.com/samselikoff",
+    "https://x.com/choopyplug1/status/2120279453460824273"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com Grepdata",
+   "results": [
+    "https://www.linkedin.com/in/dustinchang",
+    "https://www.linkedin.com/posts/deepsourcelabs_introducing-deepsource-ai-code-review-we-activity-7432453058908966913-0uzA",
+    "https://uk.linkedin.com/company/grapedata",
+    "https://www.linkedin.com/in/erikhmoore",
+    "https://www.linkedin.com/in/shanemoriah",
+    "https://www.linkedin.com/in/victor-i-chung-lin",
+    "https://in.linkedin.com/in/archana-chaudhary-93b95375",
+    "https://www.linkedin.com/in/premaljshah",
+    "https://www.linkedin.com/posts/gyaansetu-ai_%F0%9D%97%96%F0%9D%97%BC%F0%9D%97%B1%F0%9D%97%B2%F0%9D%98%85-%F0%9D%97%96%F0%9D%97%9F%F0%9D%97%9C-%F0%9D%97%98%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%97%AC%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BF-%F0%9D%97%A6%F0%9D%97%A6%F0%9D%97%97-activity-7476294625247498241-11n1",
+    "https://se.linkedin.com/in/olle-enström-572402128"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com Grepdata",
+   "results": [
+    "https://www.facebook.com/groups/Fedora.linux/posts/10173026290490249/",
+    "https://www.facebook.com/groups/1073126727485389/posts/1559646918833365/",
+    "https://www.facebook.com/tekniskukeblad/photos/seks-grep-vil-gi-%C3%B8kt-kapasitet-i-str%C3%B8mnettet-mener-norsk-datasenterindustri-lenk/1621202000010953/",
+    "https://www.facebook.com/groups/phpid/posts/10152700429926101/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/thenewstack/posts/learn-about-linux-grep-a-command-line-utility-used-to-search-plain-text-data-for/1598836464881875/",
+    "https://www.facebook.com/groups/TreasuresofGrep/",
+    "https://www.facebook.com/sheexploresdata/videos/learning-linux-becomes-easier-when-you-understand-the-commands-behind-everyday-t/2128155227732725/",
+    "https://www.facebook.com/Yes.I.Know.IT/posts/how-to-filter-data-using-grepextracting-the-interesting-data-from-a-large-datase/1544608562393441/",
+    "https://www.facebook.com/gotostationx/videos/grep-is-where-log-analysis-starts-these-7-tools-finish-itgrep-finds-lines-these-/1488935506474321/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Grepdata note 社長",
+   "results": [
+    "https://note.com/sadaaki",
+    "https://x.com/sadaaki",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://diamond.jp/articles/-/388572",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://note.com/tag/%E7%A4%BE%E9%95%B7",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Grepdata X 投稿",
+   "results": [
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://embedsocial.jp/blog/x-posts-with-keyword/",
+    "https://reg18.smp.ne.jp/regist/is?SMPFORM=tdk-mckhnf-7aec38d8f4e4f9eff240164b30ad4f0a",
+    "https://docs.brightdata.com/products/scrapers/twitter/quickstart",
+    "https://www.youtube.com/watch?v=fn1CR2vZGRM",
+    "https://note.com/dx_ai_tools/n/nd831ea9143ab",
+    "https://www.gas-laboratory.com/courses/twitter-video-post-data",
+    "https://www.navicus.jp/column/xcommand_241213/",
+    "https://www.aiqveone.co.jp/oreo/blog/search-query/",
+    "https://x.com/grepdata"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）"
+ }
+}

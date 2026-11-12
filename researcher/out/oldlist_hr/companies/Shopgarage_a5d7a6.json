@@ -1,0 +1,757 @@
+{
+ "name": "Shopgarage",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T23:43:41.228780+00:00",
+ "official_url": "https://www.shopgarage.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "30-Apr-2024 $4.5M $4.63M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/591448-06",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2023",
+    "url": "https://startupintros.com/orgs/garage-2",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "New York City, NY, USA",
+    "url": "https://startupintros.com/orgs/garage-2",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Rescue Trucks and Squads",
+    "url": "https://www.shopgarage.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2023 Freightliner G-S Products Automated Side Loader",
+    "url": "https://www.shopgarage.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2009 KME Predator 4x4 Heavy Rescue",
+    "url": "https://www.shopgarage.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2012 Riverside Metal Craft 4-Story Mobile Training Tower",
+    "url": "https://www.shopgarage.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FRC Focus Flood Light Heads X4",
+    "url": "https://www.shopgarage.com/",
+    "pass": 1
+   },
+   {
+    "quote": "STRYKER 6506 POWER PRO XPS - with Loading System 6390",
+    "url": "https://www.shopgarage.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stryker Power Pro XT 6506 700 LBS Capacity Electric Stretcher With Bariatric XPS",
+    "url": "https://www.shopgarage.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stryker MX-Pro Bariatric 6083",
+    "url": "https://www.shopgarage.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stryker Power Pro 6506 Ambulance Stretcher & Stryker Power-Load 6390 Cot Fastener Mount EMS EMT",
+    "url": "https://www.shopgarage.com/",
+    "pass": 1
+   },
+   {
+    "quote": "NEW/UNUSED Stryker Power Pro XT 6500 Ambulance Stretcher Cot Gurney",
+    "url": "https://www.shopgarage.com/",
+    "pass": 1
+   },
+   {
+    "quote": "STRYKER 6500 POWER PRO XT",
+    "url": "https://www.shopgarage.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stryker Power-PRO - Model 6506 and Power-LOAD 6390 system",
+    "url": "https://www.shopgarage.com/",
+    "pass": 1
+   },
+   {
+    "quote": "STRYKER 6506 POWER PRO XT - with Loading System 6390",
+    "url": "https://www.shopgarage.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Two Stryker Power Pro XT Model 6500 Stretchers (Two Stretcher Package Deal)",
+    "url": "https://www.shopgarage.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We created Garage from personal experience. When I joined the fire service, I watched my hometown struggle with a problem that communities across the country face: the secondary market for critical assets was mostly offline, underserved by technology, and cost some of the busiest people in America countless hours.",
+    "url": "https://www.shopgarage.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We built Garage to make the procurement and disposition of America’s most essential assets completely frictionless, from fire trucks to street sweepers.",
+    "url": "https://www.shopgarage.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Since launching, Garage has grown into the largest marketplace serving America’s public safety agencies, and now serves other mission-critical sectors like sanitation, public works, and construction. Today, it’s used by 25,000+ professionals at more than 1,000 government agencies and essential services businesses.",
+    "url": "https://www.shopgarage.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We're hiring – Garage",
+    "url": "https://www.shopgarage.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Founding Sales Development Representative (SDR)",
+    "url": "https://www.shopgarage.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Growth Marketing Lead",
+    "url": "https://www.shopgarage.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Garage 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/591448-06",
+    "pass": 3
+   },
+   {
+    "quote": "Operator of a vehicle and equipment transaction marketplace designed to facilitate the buying and selling of pre-owned firefighting equipment.",
+    "url": "https://pitchbook.com/profiles/company/591448-06",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/591448-06",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/591448-06",
+    "pass": 3
+   },
+   {
+    "quote": "30-Apr-2024",
+    "url": "https://pitchbook.com/profiles/company/591448-06",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/591448-06",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/591448-06",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/591448-06",
+    "pass": 3
+   },
+   {
+    "quote": "Garage’s primary industry is Media and Information Services (B2B).",
+    "url": "https://pitchbook.com/profiles/company/591448-06",
+    "pass": 3
+   },
+   {
+    "quote": "Is Garage a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/591448-06",
+    "pass": 3
+   },
+   {
+    "quote": "Garage is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/591448-06",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/591448-06",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/591448-06",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/591448-06",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 1, 2024",
+    "url": "https://startupintros.com/orgs/garage-2",
+    "pass": 3
+   },
+   {
+    "quote": "Early traction came from fire departments across the U.S. who embraced Garage’s free listings, nationwide reach, and hands-off logistics. The company’s ability to handle freight, payments, and paperwork—while offering financing and warranty options—proved compelling, leading to adoption in all 50 states and a $13.5 million Series A in 2025.",
+    "url": "https://startupintros.com/orgs/garage-2",
+    "pass": 3
+   },
+   {
+    "quote": "Garage stands out in the used emergency vehicle and government surplus space through a combination of product design, operational depth, and domain focus:",
+    "url": "https://startupintros.com/orgs/garage-2",
+    "pass": 3
+   },
+   {
+    "quote": "\u0001 Garage automates appraisal (via AI), listing, freight quoting, payments, and logistics, reducing what used to be weeks of coordination to a streamlined digital workflow.",
+    "url": "https://startupintros.com/orgs/garage-2",
+    "pass": 3
+   },
+   {
+    "quote": "\u0001 The platform is tailored to civil servants and fleet managers who lack bandwidth for complex sales processes, offering simple listings, expert support, and transparent pricing with no fees unless a sale closes.",
+    "url": "https://startupintros.com/orgs/garage-2",
+    "pass": 3
+   },
+   {
+    "quote": "\u0001 Sellers can choose between “Buy Now” and auction-style listings, with tools to help price vehicles competitively and maximize sale value.",
+    "url": "https://startupintros.com/orgs/garage-2",
+    "pass": 3
+   },
+   {
+    "quote": "\u0001 The founders’ background in firefighting and emergency services gives Garage deep credibility and product empathy, helping it earn trust in a relationship-driven, safety-critical market.",
+    "url": "https://startupintros.com/orgs/garage-2",
+    "pass": 3
+   },
+   {
+    "quote": "Digitization of Government & Public Safety Procurement",
+    "url": "https://startupintros.com/orgs/garage-2",
+    "pass": 3
+   },
+   {
+    "quote": "\u0001 Governments are under pressure to modernize procurement, reduce waste, and stretch budgets. Garage helps departments monetize surplus assets efficiently and reinvest in new equipment, aligning with broader public sector digitization efforts.",
+    "url": "https://startupintros.com/orgs/garage-2",
+    "pass": 3
+   },
+   {
+    "quote": "\u0001 By using AI for appraisal and freight coordination, Garage reduces friction in high-consideration, high-cost transactions, making it easier for non-technical users (like firefighters and city clerks) to participate in a national market.",
+    "url": "https://startupintros.com/orgs/garage-2",
+    "pass": 3
+   },
+   {
+    "quote": "\u0001 As budgets tighten and new apparatus costs soar ($1.5M–$2.5M per fire truck), the secondary market becomes increasingly strategic. Garage is helping institutionalize and professionalize this market, much like platforms have done for used construction or agricultural machinery.",
+    "url": "https://startupintros.com/orgs/garage-2",
+    "pass": 3
+   },
+   {
+    "quote": "Leverage its AI-powered appraisal and logistics engine to enter other capital-intensive verticals like construction, agriculture, or industrial equipment.",
+    "url": "https://startupintros.com/orgs/garage-2",
+    "pass": 3
+   },
+   {
+    "quote": "Potentially move upstream into fleet management or procurement advisory tools for municipalities.",
+    "url": "https://startupintros.com/orgs/garage-2",
+    "pass": 3
+   },
+   {
+    "quote": "prnewswire.com/news-releases/garage-raises-13-5m-series-a-to-build-modern-marketplace-for-americas-essential-equipment-302534666.html",
+    "url": "https://startupintros.com/orgs/garage-2",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "2014 Peterbilt Industrial Vacuum Tank Truck – Heavy-Duty Vacuum Unit",
+    "url": "https://www.shopgarage.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1994 Ford Vacall Industrial Vacuum",
+    "url": "https://www.shopgarage.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Since launching, Garage has grown into the largest marketplace serving America’s public safety agencies, and now serves other mission-critical sectors like sanitation, public works, and construction. Today, it’s used by 25,000+ professionals at more than 1,000 government agencies and essential services businesses.",
+    "url": "https://www.shopgarage.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "\u0001 Garage doesn’t just list vehicles—it acts as a transaction layer, handling payments, logistics, and risk (via warranties and escrow-like settlement). This model mirrors successful vertical marketplaces in construction, agriculture, and industrial equipment.",
+    "url": "https://startupintros.com/orgs/garage-2",
+    "pass": 3
+   },
+   {
+    "quote": "Leverage its AI-powered appraisal and logistics engine to enter other capital-intensive verticals like construction, agriculture, or industrial equipment.",
+    "url": "https://startupintros.com/orgs/garage-2",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "2008 Pierce Arrow XT 100' Quint",
+    "url": "https://www.shopgarage.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Harrison Stealth Series 8,000w Mobile Hydraulic Generator",
+    "url": "https://www.shopgarage.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2013 International Crew Carrier",
+    "url": "https://www.shopgarage.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/591448-06",
+    "pass": 3
+   },
+   {
+    "quote": "Garage has 35 total employees.",
+    "url": "https://pitchbook.com/profiles/company/591448-06",
+    "pass": 3
+   },
+   {
+    "quote": "What is Garage’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/591448-06",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Garage is",
+    "url": "https://pitchbook.com/profiles/company/591448-06",
+    "pass": 3
+   },
+   {
+    "quote": "Early traction came from fire departments across the U.S. who embraced Garage’s free listings, nationwide reach, and hands-off logistics. The company’s ability to handle freight, payments, and paperwork—while offering financing and warranty options—proved compelling, leading to adoption in all 50 states and a $13.5 million Series A in 2025.",
+    "url": "https://startupintros.com/orgs/garage-2",
+    "pass": 3
+   },
+   {
+    "quote": "\u0001 Garage offers instant warranty and financing options at checkout, making it easier for departments to close deals without external financing hurdles.",
+    "url": "https://startupintros.com/orgs/garage-2",
+    "pass": 3
+   },
+   {
+    "quote": "\u0001 Garage doesn’t just list vehicles—it acts as a transaction layer, handling payments, logistics, and risk (via warranties and escrow-like settlement). This model mirrors successful vertical marketplaces in construction, agriculture, and industrial equipment.",
+    "url": "https://startupintros.com/orgs/garage-2",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Since launching, Garage has grown into the largest marketplace serving America’s public safety agencies, and now serves other mission-critical sectors like sanitation, public works, and construction. Today, it’s used by 25,000+ professionals at more than 1,000 government agencies and essential services businesses.",
+    "url": "https://www.shopgarage.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "\u0001 Unlike local classifieds or regional auctions, Garage connects sellers with thousands of fire departments and agencies across all 50 states, dramatically increasing exposure and competitive bidding.",
+    "url": "https://startupintros.com/orgs/garage-2",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/591448-06",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Garage 2026 Company Profile: Valuation, Funding & Investors ...Garage: Funding, Team & Investors | Startup IntrosCursor by Anysphere Revenue 2026: $2B, Acquired for $60BAirGarage 2026 Company Profile: Valuation, Funding ...Founder Garage Revenue, Funding & ValuationGarage Funding: $13.5M | Complete Analysis | Extruct AI — Information on valuation, funding, cap tables, investors, and executives for",
+    "url": "https://pitchbook.com/profiles/company/591448-06",
+    "pass": 3
+   },
+   {
+    "quote": "AirGarage 2026 Company Profile: Valuation, Funding ...Founder Garage Revenue, Funding & ValuationGarage Funding: $13.5M | Complete Analysis | Extruct AI — Information on valuation, funding, cap tables, investors, and executives for AirGarage. Use the PitchBook Platform to explore the full profile. When was Founder Garage founded? Founder Garage was founded in 2025, making it 1 years old. The compa",
+    "url": "https://pitchbook.com/profiles/company/267107-59",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Alaz Sengul (@alazsengul) / Posts / X Alaz Sengul (@alazsengul) - Posts - building shopgarage.com (yc w24) previously @twitter | X (formerly Twitter)",
+    "url": "https://x.com/alazsengul",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Shopgarage Jobs in United States (10,000+ Open Roles) | LinkedIn Today’s top 10,000+ Shopgarage jobs in United States. Leverage your professional network, and get hired. New Shopgarage jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/shopgarage-jobs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ShopGarage - Facebook Aug 19, 2021 · ShopGarage. 384 likes. We offer a variety of products to satisfy any enthusiast needs.",
+    "url": "https://www.facebook.com/ShopGarage98/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.shopgarage.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopgarage.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopgarage.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.shopgarage.com/logos/media/bbb-white.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://rubygroupe.jp/blogs/column/development032",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopify.com/jp/blog/shopify-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.garage.co.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japancarlovers.com/upgarage-yokohama-machida-main-branch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebay.com/str/garagejapanshop",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upgarage.com/en/ec/car-items/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upgarage.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalshopsolutions.com/hubfs/website-pdfs/case-studies/ps-garage-doors.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalshopsolutions.com/manufacturing-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/spotsee_large-garage-door-manufacturing-company_798182.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/shopgarage",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/591448-06",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/garage-2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/cursor.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/alazsengul",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/shopgarage-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ShopGarage98/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Shopgarage 日本 導入",
+   "results": [
+    "https://rubygroupe.jp/blogs/column/development032",
+    "https://www.shopify.com/jp/blog/shopify-case-studies",
+    "https://www.shopgarage.com/contact",
+    "https://www.garage.co.jp/en/",
+    "https://shopi-lab.com/shopify-information/1492/",
+    "https://tools-online-system.com/shopify-case/",
+    "https://36kr.jp/502580/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shopgarage 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://www.sidebizz.net/blog/agent/general-agency/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shopgarage Japan",
+   "results": [
+    "https://japancarlovers.com/upgarage-yokohama-machida-main-branch/",
+    "https://www.ebay.com/str/garagejapanshop",
+    "https://www.upgarage.com/en/ec/car-items/",
+    "https://www.upgarage.com/",
+    "https://www.shopgarage.com/categories",
+    "https://www.showa-garage.shop/",
+    "https://www.legarage.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shopgarage manufacturing customer case study",
+   "results": [
+    "https://www.globalshopsolutions.com/hubfs/website-pdfs/case-studies/ps-garage-doors.pdf",
+    "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "https://www.globalshopsolutions.com/manufacturing-case-studies",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/spotsee_large-garage-door-manufacturing-company_798182.pdf",
+    "https://www.casestudies.com/company/shopmonkey/case-study/euro-garage-slashes-customer-communication-time-while-boosting-professionalism-and-organization-with-shopmonkey",
+    "https://autoleap.com/customers/case-studies/schimpfs-garage/",
+    "https://www.shopgarage.com/contact"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shopgarage white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/",
+    "https://www.seoreseller.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shopgarage founded funding employees revenue",
+   "results": [
+    "https://www.owler.com/company/shopgarage",
+    "https://pitchbook.com/profiles/company/591448-06",
+    "https://startupintros.com/orgs/garage-2",
+    "https://getlatka.com/companies/cursor.com",
+    "https://pitchbook.com/profiles/company/267107-59",
+    "https://prospeo.io/c/founder-garage-revenue",
+    "https://www.extruct.ai/hub/shopgarage-com-funding/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Shopgarage",
+   "results": [
+    "https://note.com/purveyors/n/nccecb7bfd245",
+    "https://note.com/shoji0928/n/n625df06525d9",
+    "https://note.com/tag/2026年ドラフト",
+    "https://note.com/draft_candidate/n/nb70ef7a5bfc0",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/rakbil/n/n16a0b62cd206"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Shopgarage",
+   "results": [
+    "https://about.x.com/en",
+    "https://x.com/alazsengul",
+    "https://help.x.com/en",
+    "https://help.x.com/en/using-x",
+    "https://x.com/rlgarage",
+    "https://x.com/hashtag/showagarage?f=user",
+    "https://business.x.com/en/advertising"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Shopgarage",
+   "results": [
+    "https://www.linkedin.com/jobs/shopgarage-jobs",
+    "https://www.linkedin.com/company/withgarage",
+    "https://in.linkedin.com/company/linkedin",
+    "https://kr.linkedin.com/in/민수-송-063031143",
+    "https://ph.linkedin.com/in/im-r-b6a598449",
+    "https://sk.linkedin.com/in/lucia-kramarcikova-425446138",
+    "https://in.linkedin.com/in/nisa-sehr"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Shopgarage",
+   "results": [
+    "https://lite.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/ShopGarage98/",
+    "https://www.facebook.com/p/Garage-Buy-Sell-Vehicles-Equipment-61553998774237/",
+    "https://www.facebook.com/creekside.steelbuildings/",
+    "https://www.facebook.com/Garage/",
+    "https://www.facebook.com/garageheavyduty/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shopgarage note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.shopgarage.com/dashboard",
+    "https://note.com/notahotel_inc/n/n9871861c14d6",
+    "https://prtimes.jp/main/html/rd/p/000000097.000080389.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shopgarage X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部26頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部26頁・検索12回）"
+ }
+}

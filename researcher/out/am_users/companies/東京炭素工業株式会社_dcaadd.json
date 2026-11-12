@@ -1,0 +1,892 @@
+{
+ "name": "東京炭素工業株式会社",
+ "aliases": [],
+ "context": "ipros_all:多品種",
+ "researched_at": "2026-11-11T23:32:07.193415+00:00",
+ "official_url": "http://tokyotanso.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社：〒105-0004 東京都港区新橋3-4-11 千葉工場：〒289-1122 千葉県八街市四木1613-1",
+    "url": "https://tokyotanso.com/company-2/",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "〒105-0004 東京都港区新橋3-4-11",
+    "url": "https://tokyotanso.com/company-2/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "山﨑利恵",
+    "url": "https://tokyotanso.com/company-2/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "千葉工場",
+    "value": "〒289-1122 千葉県八街市四木1613-1",
+    "url": "https://tokyotanso.com/company-2/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "東京炭素工業株式会社では、半導体を始め、太陽電池・燃料電池・冶金・非鉄金属・電機・自動車・窯業・化学・ガラス・機械・航空宇宙産業など、様々な分野のカーボン・グラファイト製品の製造および、販売をしております",
+    "url": "https://tokyotanso.com/",
+    "pass": 1
+   },
+   {
+    "quote": "長年カーボン加工に携わってきた技術者の卓越した技能と経験、弊社の蓄積したノウハウ、そして最新鋭の機械設備との融合により、高精度で高品質な製品をご提供致します",
+    "url": "https://tokyotanso.com/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボン材全般 | グラファイト製品 | 高温度・高温炉用部材 | 半導体製造装置用部材 | 黒鉛ルツボ・発熱体 | 太陽電池製造用部材 | 燃料電池用分離板 | 焼結用黒鉛鋳型 | カーボンブラシ | 電極板・電極棒 | 放電加工用電極 | 中性子反応装置部材 | 航空宇宙産業用機材 | 軸受・摺動材",
+    "url": "https://tokyotanso.com/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボン材・グラファイト材による精密加工製品の製造・販売",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の生産体制は、お客様よりお預かりした図面に基づいて製品をおつくりする、受注生産方式を主にとらせて頂いており、試作品から多品種小ロット生産、量産品まで幅広く対応しております",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "炭素成分99.9%以上、純粋なカーボンによる黒鉛製品です",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "C/Cコンポジット（炭素繊維強化炭素）製品",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "▼C/Cコンポジット製品（F1のブレーキ）",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボン材全般 | グラファイト製品 | 高温度・高温炉用部材 | 半導体製造装置用部材 | 黒鉛ルツボ・発熱体 | 太陽電池製造用部材 | 燃料電池用分離板 | 焼結用黒鉛鋳型 | カーボンブラシ | 電極板・電極棒 | 放電加工用電極 | 中性子反応装置部材 | 航空宇宙産業用機材 | 軸受・摺動材",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "製品管理の徹底、品質向上に努め、皆様に喜んで頂ける会社になる様、社員一同努力し前進する所存で御座います",
+    "url": "https://tokyotanso.com/company-2/",
+    "pass": 1
+   },
+   {
+    "quote": "山﨑石子個人経営により東京炭素工業所を創設、電気部品ならびに炭素製品の製造加工販売を開始する",
+    "url": "https://tokyotanso.com/company-2/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボン製品部門、一部自動化に入る",
+    "url": "https://tokyotanso.com/company-2/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボン材全般 | グラファイト製品 | 高温度・高温炉用部材 | 半導体製造装置用部材 | 黒鉛ルツボ・発熱体 | 太陽電池製造用部材 | 燃料電池用分離板 | 焼結用黒鉛鋳型 | カーボンブラシ | 電極板・電極棒 | 放電加工用電極 | 中性子反応装置部材 | 航空宇宙産業用機材 | 軸受・摺動材",
+    "url": "https://tokyotanso.com/company-2/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボン材全般 | グラファイト製品 | 高温度・高温炉用部材 | 半導体製造装置用部材 | 黒鉛ルツボ・発熱体 | 太陽電池製造用部材 | 燃料電池用分離板 | 焼結用黒鉛鋳型 | カーボンブラシ | 電極板・電極棒 | 放電加工用電極 | 中性子反応装置部材 | 航空宇宙産業用機材 | 軸受・摺動材",
+    "url": "https://tokyotanso.com/company-2/machine-shop-facilities/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボン材全般 | グラファイト製品 | 高温度・高温炉用部材 | 半導体製造装置用部材 | 黒鉛ルツボ・発熱体 | 太陽電池製造用部材 | 燃料電池用分離板 | 焼結用黒鉛鋳型 | カーボンブラシ | 電極板・電極棒 | 放電加工用電極 | 中性子反応装置部材 | 航空宇宙産業用機材 | 軸受・摺動材",
+    "url": "https://tokyotanso.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "革製品のステッチ（縫い目）カラーは、「ブラック」または「レッド」からお選びいただけます",
+    "url": "https://tokyotanso.com/goods-2/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボン材全般 | グラファイト製品 | 高温度・高温炉用部材 | 半導体製造装置用部材 | 黒鉛ルツボ・発熱体 | 太陽電池製造用部材 | 燃料電池用分離板 | 焼結用黒鉛鋳型 | カーボンブラシ | 電極板・電極棒 | 放電加工用電極 | 中性子反応装置部材 | 航空宇宙産業用機材 | 軸受・摺動材",
+    "url": "https://tokyotanso.com/goods-2/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス | 東京炭素工業 - Powered by イプロスものづくり",
+    "url": "https://pr.mono.ipros.com/tokyotanso/product/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様よりお預かりした図面に基づいて製品をおつくりする、受注生産方式を主にとらせて頂いており、試作品から多品種小ロット生産、量産品まで幅広く対応しております",
+    "url": "https://pr.mono.ipros.com/tokyotanso/product/",
+    "pass": 3
+   },
+   {
+    "quote": "グラファイト製品例▶(24)",
+    "url": "https://pr.mono.ipros.com/tokyotanso/product/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス一覧 (30)",
+    "url": "https://pr.mono.ipros.com/tokyotanso/product/",
+    "pass": 3
+   },
+   {
+    "quote": "カーボン材・グラファイト材による精密加工製品の製造・販売",
+    "url": "https://pr.mono.ipros.com/tokyotanso/information/",
+    "pass": 3
+   },
+   {
+    "quote": "■CFRP（炭素繊維強化プラスチック）製品",
+    "url": "https://pr.mono.ipros.com/tokyotanso/information/",
+    "pass": 3
+   },
+   {
+    "quote": "■C/Cコンポジット（炭素繊維強化炭素）製品",
+    "url": "https://pr.mono.ipros.com/tokyotanso/information/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・研究開発（建築・土木・プラント・設備）",
+    "url": "https://ja.nc-net.or.jp/company/79452/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "あらゆる材質・材料に熟知した匠の技と最新鋭の生産設備を用いてCAD/CAMに熟練した技術者による高度な精密機械加工を実現",
+    "url": "https://tokyotanso.com/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボングラファイトのみならず、近年注目されているC/Cコンポジットや各種含浸材、CFRP、金属や樹脂の加工も対応します",
+    "url": "https://tokyotanso.com/",
+    "pass": 1
+   },
+   {
+    "quote": "また、カーボン・グラファイト材の加工だけではなく、カーボンコンポジット材(C/Cコンポジット)、カーボンと金属のアセンブリ品、樹脂、非鉄金属、特殊鋼など、あらゆる材質・材料の精密加工にご対応いたします",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "人造黒鉛材は、金属や樹脂のような規格サイズ品が殆ど無いため、黒皮付の黒鉛ブロック材より切断機で切り出して、材料取りをします",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "C/Cコンポジット（炭素繊維強化炭素）製品",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維と炭素（または黒鉛）の複合素材です",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "使用環境によって高温や機械的特性でグラファイト(黒鉛)より優れた部分を持ち合わせており、上記用途に使用される際に弊社では炭素繊維にピッチ含浸して焼成したC/Cコンポジットを主に扱っています",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "「オートクレーブ法」や「真空バッグ法」で制作した、ドライカーボンとも呼ばれるCFRPを主に扱っています",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "プリプレグシート(※)を型に積層させて成型し、大気圧もしくは大気圧以上の圧力をかけた高温炉の中で樹脂を硬化させます",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "※プリプレグシート ＝ 炭素繊維に熱硬化性樹脂を含浸し、取扱い易いように“半硬化”させた薄いシート",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミニウム合金に、硬質アルマイト（硬質陽極酸化被膜）の表面処理を施した後、表層面（微小な凹凸のある表面）にフッ素樹脂を含浸させて、耐摩耗性、耐食性、低い摩擦係数などの特性を持たせた、アルミ用の表面改質処理です",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ・ステンレス・チタン等の精密機械加工、汎用樹脂やエンジニアプラスチック等にも実績があり、幅広いユーザー層に対応しております",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "※ 材質にご指定がある場合は、ご相談ください",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "※ 材質にご指定がある場合は、ご相談ください",
+    "url": "https://tokyotanso.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンクロスの一本に見える糸は、直径数ミクロンの繊維を数千本まとめた炭素繊維の束です",
+    "url": "https://tokyotanso.com/goods-2/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRP（炭素繊維強化プラスチック）製のミニスケール",
+    "url": "https://tokyotanso.com/goods-2/",
+    "pass": 1
+   },
+   {
+    "quote": "本物のカーボンファブリック（炭素繊維の織物）に柔らかい透明樹脂をコートしたソフトカーボンを使用し、様々な天然皮革や織物生地が組み合わせられる、オリジナルのバックです",
+    "url": "https://tokyotanso.com/goods-2/",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維は、低燃費ジェット旅客機や自動車最高峰レース（F1）のボディにも採用されている時代先端の素材であり、機能面では軽量で引張りに強いカーボン（炭素繊維）特有の性質、デザイン性では眺める角度によって様々に変化するカーボン独特の織り目などが特徴です",
+    "url": "https://tokyotanso.com/goods-2/",
+    "pass": 1
+   },
+   {
+    "quote": "■CFRP（炭素繊維強化プラスチック）製品",
+    "url": "https://pr.mono.ipros.com/tokyotanso/information/",
+    "pass": 3
+   },
+   {
+    "quote": "■C/Cコンポジット（炭素繊維強化炭素）製品",
+    "url": "https://pr.mono.ipros.com/tokyotanso/information/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "微細加工からメートルオーバー級のサイズまで、試作品1個から多品種小ロット生産品および量産品の製作まで、お客様のご要望にお応え致します",
+    "url": "https://tokyotanso.com/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボン加工・グラファイト加工(受注生産)",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の生産体制は、お客様よりお預かりした図面に基づいて製品をおつくりする、受注生産方式を主にとらせて頂いており、試作品から多品種小ロット生産、量産品まで幅広く対応しております",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は主に受注生産にて承りますが、1枚からお買い求めやすい価格で規格品のご用意もしております",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "※ その他サイズや六角ナットも受注生産にて承ります",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "１個からのオーダーメイド（当社規格サイズは準備中）",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は主に受注生産にて承りますが、1枚からお買い求めやすい価格で規格品のご用意もしております",
+    "url": "https://tokyotanso.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "※ その他サイズや六角ナットも受注生産にて承ります",
+    "url": "https://tokyotanso.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "１個からのオーダーメイド（当社規格サイズは準備中）",
+    "url": "https://tokyotanso.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "このソフトカーボンバックに、ご興味がありましたらお声掛けください（オーダーメイドも承ります）",
+    "url": "https://tokyotanso.com/goods-2/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様よりお預かりした図面に基づいて製品をおつくりする、受注生産方式を主にとらせて頂いており、試作品から多品種小ロット生産、量産品まで幅広く対応しております",
+    "url": "https://pr.mono.ipros.com/tokyotanso/product/",
+    "pass": 3
+   },
+   {
+    "quote": "・各材料メーカー様より仕入れた多品種の材料を常にストックしています",
+    "url": "https://pr.mono.ipros.com/tokyotanso/information/",
+    "pass": 3
+   },
+   {
+    "quote": "・受注生産ですので、量産又は1個からでも承ります",
+    "url": "https://pr.mono.ipros.com/tokyotanso/information/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "東京炭素工業株式会社では、半導体を始め、太陽電池・燃料電池・冶金・非鉄金属・電機・自動車・窯業・化学・ガラス・機械・航空宇宙産業など、様々な分野のカーボン・グラファイト製品の製造および、販売をしております",
+    "url": "https://tokyotanso.com/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボン材全般 | グラファイト製品 | 高温度・高温炉用部材 | 半導体製造装置用部材 | 黒鉛ルツボ・発熱体 | 太陽電池製造用部材 | 燃料電池用分離板 | 焼結用黒鉛鋳型 | カーボンブラシ | 電極板・電極棒 | 放電加工用電極 | 中性子反応装置部材 | 航空宇宙産業用機材 | 軸受・摺動材",
+    "url": "https://tokyotanso.com/",
+    "pass": 1
+   },
+   {
+    "quote": "封止用治具・ろう付け用治具・スリット電極・ヒータ・サセプタ",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "ロケットノズル、タービンローター、高速車両や航空機のブレーキ材、溶解用ルツボなどで使われています",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造用にもカーボンは必要不可欠な部材です",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボン材全般 | グラファイト製品 | 高温度・高温炉用部材 | 半導体製造装置用部材 | 黒鉛ルツボ・発熱体 | 太陽電池製造用部材 | 燃料電池用分離板 | 焼結用黒鉛鋳型 | カーボンブラシ | 電極板・電極棒 | 放電加工用電極 | 中性子反応装置部材 | 航空宇宙産業用機材 | 軸受・摺動材",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボン材全般 | グラファイト製品 | 高温度・高温炉用部材 | 半導体製造装置用部材 | 黒鉛ルツボ・発熱体 | 太陽電池製造用部材 | 燃料電池用分離板 | 焼結用黒鉛鋳型 | カーボンブラシ | 電極板・電極棒 | 放電加工用電極 | 中性子反応装置部材 | 航空宇宙産業用機材 | 軸受・摺動材",
+    "url": "https://tokyotanso.com/company-2/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボン材全般 | グラファイト製品 | 高温度・高温炉用部材 | 半導体製造装置用部材 | 黒鉛ルツボ・発熱体 | 太陽電池製造用部材 | 燃料電池用分離板 | 焼結用黒鉛鋳型 | カーボンブラシ | 電極板・電極棒 | 放電加工用電極 | 中性子反応装置部材 | 航空宇宙産業用機材 | 軸受・摺動材",
+    "url": "https://tokyotanso.com/company-2/machine-shop-facilities/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボン材全般 | グラファイト製品 | 高温度・高温炉用部材 | 半導体製造装置用部材 | 黒鉛ルツボ・発熱体 | 太陽電池製造用部材 | 燃料電池用分離板 | 焼結用黒鉛鋳型 | カーボンブラシ | 電極板・電極棒 | 放電加工用電極 | 中性子反応装置部材 | 航空宇宙産業用機材 | 軸受・摺動材",
+    "url": "https://tokyotanso.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維は、低燃費ジェット旅客機や自動車最高峰レース（F1）のボディにも採用されている時代先端の素材であり、機能面では軽量で引張りに強いカーボン（炭素繊維）特有の性質、デザイン性では眺める角度によって様々に変化するカーボン独特の織り目などが特徴です",
+    "url": "https://tokyotanso.com/goods-2/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボン材全般 | グラファイト製品 | 高温度・高温炉用部材 | 半導体製造装置用部材 | 黒鉛ルツボ・発熱体 | 太陽電池製造用部材 | 燃料電池用分離板 | 焼結用黒鉛鋳型 | カーボンブラシ | 電極板・電極棒 | 放電加工用電極 | 中性子反応装置部材 | 航空宇宙産業用機材 | 軸受・摺動材",
+    "url": "https://tokyotanso.com/goods-2/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体用(0)",
+    "url": "https://pr.mono.ipros.com/tokyotanso/product/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "あらゆる材質・材料に熟知した匠の技と最新鋭の生産設備を用いてCAD/CAMに熟練した技術者による高度な精密機械加工を実現",
+    "url": "https://tokyotanso.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.",
+    "url": "https://tokyotanso.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.",
+    "url": "https://tokyotanso.com/company-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.",
+    "url": "https://tokyotanso.com/company-2/machine-shop-facilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.",
+    "url": "https://tokyotanso.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.",
+    "url": "https://tokyotanso.com/goods-2/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "休業期間中にいただいたお問い合わせについては、営業開始日7日以降に順次回答させていただきます",
+    "url": "https://tokyotanso.com/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボン・グラファイトの精密機械加工に関するお問い合わせは、",
+    "url": "https://tokyotanso.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.",
+    "url": "https://tokyotanso.com/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボン・グラファイトの精密機械加工に関するお問い合わせは、",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボン・グラファイトの精密機械加工に関するお問い合わせは、",
+    "url": "https://tokyotanso.com/company-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.",
+    "url": "https://tokyotanso.com/company-2/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボン・グラファイトの精密機械加工に関するお問い合わせは、",
+    "url": "https://tokyotanso.com/company-2/machine-shop-facilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.",
+    "url": "https://tokyotanso.com/company-2/machine-shop-facilities/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボン・グラファイトの精密機械加工に関するお問い合わせは、",
+    "url": "https://tokyotanso.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.",
+    "url": "https://tokyotanso.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボン・グラファイトの精密機械加工に関するお問い合わせは、",
+    "url": "https://tokyotanso.com/goods-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.",
+    "url": "https://tokyotanso.com/goods-2/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ - 東京炭素工業 株式会社 東京都 港区",
+    "url": "https://ja.nc-net.or.jp/company/79452/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社からの連絡に必要な電子メールアドレスを用意してそのアドレスを当社に対して登録すること",
+    "url": "https://ja.nc-net.or.jp/company/79452/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします",
+    "url": "https://ja.nc-net.or.jp/company/79452/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします",
+    "url": "https://ja.nc-net.or.jp/company/79452/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Home - 東京炭素工業株式会社 — Aug 17, 2026 · 東京炭素工業株式会社では、半導体を始め、太陽電池・燃料電池・冶金・非鉄金属・電機・自動車・窯業・化学・ガラス・機械・航空宇宙産業など、様々な分野のカーボン・グラファイト製品の製造および、販売をしております。",
+    "url": "https://tokyotanso.com/",
+    "pass": 3
+   },
+   {
+    "quote": "カーボン・グラファイト加工 - 東京炭素工業株式会社 — 弊社の生産体制は、お客様よりお預かりした図面に基づいて製品をおつくりする、受注生産方式を主にとらせて頂いており、試作品から多品種小ロット生産、量産品まで幅広く対応しております。",
+    "url": "https://tokyotanso.com/service1/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス | 東京炭素工業 - Powered by イプロスものづくり — お客様よりお預かりした図面に基づいて製品をおつくりする、受注生産方式を主にとらせて頂いており、試作品から多品種小ロット生産、量産品まで幅広く対応しております。 グラファイト製品例 (24) - 治金用 (0) - 燃料電池用 (0) - 半導体用 (0) - 成膜用 (0) -",
+    "url": "https://pr.mono.ipros.com/tokyotanso/product/",
+    "pass": 3
+   },
+   {
+    "quote": "グラファイト加工一覧 | 東京炭素工業 - Powered by イプロスものづく... — 「グラファイト材」による、精密加工品の製造・販売をしております。 お客様よりお預かりした図面に基づいて製品をおつくりする、受注生産方式を主にとらせて頂いており、試作品から多品種小ロット生産、量産品まで幅広く対応しております。",
+    "url": "https://pr.mono.ipros.com/tokyotanso/product/category/70611/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 - 東京炭素工業株式会社企業情報 | 東京炭素工業 - Powered by イプロスものづくり東京炭素工業株式会社 - 会社概要会社概要｜会社情報｜東洋炭素株式会社 TOYO TANSO Japan東京炭素工業 | 企業情報 | イプロスものづくり会社案内 - toyotanso.co.jp — 本社へのアクセス 【最寄り駅】 JR新橋駅[烏森口]より徒歩約8分 （東海道線・山手線・京浜東北線・横須賀線・総武線快速） 都営地下鉄三田線 内幸町駅より徒歩約5分 東京メトロ銀座線 新橋駅 都営地下鉄浅草線 新橋駅 ゆりかもめ 新橋駅 企業概要 企業名 東京炭素工業株式会社 設立 1947年5月23日 所在地 〒105-0004 東京都 港区 新橋3-4-11 地図で見る TEL 03-3591-6245 FAX 03-3591-1071 東京炭素工業株式会社の事業概要 カーボン・グ",
+    "url": "https://tokyotanso.com/company-2/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | 東京炭素工業 - Powered by イプロスものづくり — 企業概要 企業名 東京炭素工業株式会社 設立 1947年5月23日 所在地 〒105-0004 東京都 港区 新橋3-4-11 地図で見る TEL 03-3591-6245 FAX 03-3591-1071",
+    "url": "https://pr.mono.ipros.com/tokyotanso/information/",
+    "pass": 3
+   },
+   {
+    "quote": "東京炭素工業株式会社 - 会社概要 — 東京炭素工業株式会社の事業概要 カーボン・グラファイト材 半導体用部材（ルツボ受け、ヒーター、支持受け他） 冶金用部材（ヒーター、受け皿、鋳型他） 金属溶解部材（ルツボ、ヒーター、型材他） 光学用部材（型材、反射基盤他）",
+    "url": "https://www.atengineer.com/pr/tokyotanso/company",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 東京炭素工業株式会社 — まずはお気軽にお問合せ下さい。 お電話からのお問い合わせ 03-3591-6245 お電話受付時間 9：00～12：00 13：00～18：00 土・日・祝日のお問い合わせは、フォームにて御連絡下さい。 ※お電話の際に「ホームページを見ました。 」と一声お伝えください。",
+    "url": "https://tokyotanso.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 東京炭素工業 株式会社 東京都 港区 — Jul 25, 2023 · 東京炭素工業株式会社では、お客様のご要望に応じ、様々なカーボン・グラファイトによる精密加工製品を製造しております。 弊社の生産体制は、設計から試作、量産までの一貫生産を行っております。",
+    "url": "https://ja.nc-net.or.jp/company/79452/inquiry/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "新規事業おじさん®のつぶやき Vol.530 廃タイヤを電池にリサイクル Aug 1, 2026 · やはり、そうでしたか。 今は、電極素材の製造を担う東京炭素工業や、丸紅や双日などの大手商社を含む18社と協力し、プロジェクトの協議会を結成。 さらに参加を希望する企業が国内外にあるという。 これはすごいことですね。",
+    "url": "https://note.com/fast_poppy8050/n/nc4f1a993ec38",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "新規事業おじさん®のつぶやき Vol.530 廃タイヤを電池にリサイクル｜合同会社ヘキサゴンブリッジ 代表 CEO 新規事業おじさん® シニア機会クリエイター® 森慶一郎",
+    "url": "https://note.com/fast_poppy8050/n/nc4f1a993ec38",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業おじさん®のつぶやき Vol.530 廃タイヤを電池にリサイクル",
+    "url": "https://note.com/fast_poppy8050/n/nc4f1a993ec38",
+    "pass": 3
+   },
+   {
+    "quote": "合同会社ヘキサゴンブリッジ 代表 CEO 新規事業おじさん® シニア機会クリエイター® 森慶一郎",
+    "url": "https://note.com/fast_poppy8050/n/nc4f1a993ec38",
+    "pass": 3
+   },
+   {
+    "quote": "（本稿は2025年に掲載したものの再掲です。）",
+    "url": "https://note.com/fast_poppy8050/n/nc4f1a993ec38",
+    "pass": 3
+   },
+   {
+    "quote": "廃タイヤを電池にリサイクル 「タイヤ電池プロジェクト」始動",
+    "url": "https://note.com/fast_poppy8050/n/nc4f1a993ec38",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.asahi.com/articles/ASSDK44M5SDKTTHB004M.html",
+    "url": "https://note.com/fast_poppy8050/n/nc4f1a993ec38",
+    "pass": 3
+   },
+   {
+    "quote": "タイヤ電池は、使用済みのタイヤを熱で分解して生じた炭化物などを使って、正と負の電極の素材を作り、木の葉など身近な素材からつくったカルシウムやナトリウムなどと合わせて製造する。",
+    "url": "https://note.com/fast_poppy8050/n/nc4f1a993ec38",
+    "pass": 3
+   },
+   {
+    "quote": "そうか。負極に炭素が使われているからなのですね。",
+    "url": "https://note.com/fast_poppy8050/n/nc4f1a993ec38",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "東京化成工業株式会社 | Chuo-ku Tokyo - Facebook東京化成工業株式会社 - 『TCI反応実例』 今回は、「パラジウム/炭素...みなと子ども食堂 - 昨日6月17日、月例のフードパントリー@増上寺... ...東京化成工業株式会社 - 【TCI製品ハイライト】脱ハロゲン化を抑制し...東京科学大学 総合研究院 ゼロカーボンエネルギー研究所・原子核工学...本日のお務め開始。... - Keiichiro Art Mori | Facebook浜松工業会東京支部 - Facebook 東京化成工業株式会社, Chuo. 1,526 followers · 25 talking about this · 14 were here. 試験研究用薬品の製造・販売を行っています。 ページ利用の際は利用規約 Dec 3, 2024 · 東京化成工業株式会社 - 『TCI反応実例",
+    "url": "https://www.facebook.com/tci.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "東京化成工業株式会社 - 『TCI反応実例』 今回は、「パラジウム/炭素...みなと子ども食堂 - 昨日6月17日、月例のフードパントリー@増上寺... ...東京化成工業株式会社 - 【TCI製品ハイライト】脱ハロゲン化を抑制し...東京科学大学 総合研究院 ゼロカーボンエネルギー研究所・原子核工学...本日のお務め開始。... - Keiichiro Art Mori | Facebook浜松工業会東京支部 - Facebook Dec 3, 2024 · 東京化成工業株式会社 - 『TCI反応実例』 今回は、「パラジウム/炭素を用いたクロスカップリング反応」を紹介しています。 パラジウム/炭素を触媒として用いた、4-クロロベンゾトリフルオリドとフェニルボロン酸との鈴木-宮浦クロスカップリング反応です。 Jun 17, 2026 · 近時、やはりお米が不足しがちな状態です～👀皆さ ま何",
+    "url": "https://www.facebook.com/tci.jp/photos/tci反応実例今回はパラジウム炭素を用いたクロスカップリング反応を紹介していますパラジウム炭素を触媒として用いた4-クロロベンゾトリフルオリドとフェニルボロン酸/1113965877181831/",
+    "pass": 3
+   },
+   {
+    "quote": "東京科学大学 総合研究院 ゼロカーボンエネルギー研究所・原子核工学...本日のお務め開始。... - Keiichiro Art Mori | Facebook浜松工業会東京支部 - Facebook 工大祭2026のご案内 （2026年10/10 (土)-10/11 (日)） ゼロカーボンエネルギー研究所 所長 加藤 之貴 近年の猛暑、豪雨は人為的な二酸化炭素 (CO2)の排出 による地球温暖化が要因とされています。 CO2排出削 減には一次エネルギーの非化石化が重要です。 やはり、そうでしたか。 今は、電極素材の製造を担う東京炭素工業や、丸 紅や双日などの大手商社を含む18社と協力し、プ ロジェクトの協議会を結成。 さらに参加を希望す る企業が国内外にあるという。 これはすごいことですね。 「2025年度、東京支部交流会のご案内」 昨年度に続き、東京支部では、「支部交流会」を以下 の要",
+    "url": "https://www.facebook.com/ne.titech.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "本日のお務め開始。... - Keiichiro Art Mori | Facebook やはり、そうでしたか。 今は、電極素材の製造を担う東京炭素工業や、丸 紅や双日などの大手商社を含む18社と協力し、プ ロジェクトの協議会を結成。 さらに参加を希望す る企業が国内外にあるという。 これはすごいことですね。",
+    "url": "https://www.facebook.com/keiichiro.a.mori/posts/本日のお務め開始本日はお初となるホストメンバーの方々のセッションに参加ナウ1ラウンド目はspeak-low昨晩の肩がコルトレーンでマイルスから復活しました/28023723097252835/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://tokyotanso.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotanso.com/service1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotanso.com/company-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotanso.com/company-2/machine-shop-facilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotanso.com/service1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotanso.com/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotanso.com/company-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotanso.com/goods-2/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://tokyotanso.com/site/wp-content/uploads/2022/11/ttst.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tokyotanso.com/site/wp-content/uploads/2022/12/Corporate-Profile_highrezo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://pr.mono.ipros.com/tokyotanso/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/tokyotanso/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/79452/inquiry/input/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fast_poppy8050/n/nc4f1a993ec38",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/tci.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tci.jp/photos/tci反応実例今回はパラジウム炭素を用いたクロスカップリング反応を紹介していますパラジウム炭素を触媒として用いた4-クロロベンゾトリフルオリドとフェニルボロン酸/1113965877181831/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ne.titech.ac.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/keiichiro.a.mori/posts/本日のお務め開始本日はお初となるホストメンバーの方々のセッションに参加ナウ1ラウンド目はspeak-low昨晩の肩がコルトレーンでマイルスから復活しました/28023723097252835/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東京炭素工業 取扱製品 試作 小ロット",
+   "results": [
+    "https://tokyotanso.com/",
+    "https://tokyotanso.com/service1/",
+    "https://pr.mono.ipros.com/tokyotanso/product/",
+    "https://pr.mono.ipros.com/tokyotanso/product/category/70611/",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://mono.ipros.com/company/detail/414719/catalog/",
+    "https://mono.ipros.com/company/detail/414719/category/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "東京炭素工業 会社概要 事業内容",
+   "results": [
+    "https://tokyotanso.com/",
+    "https://tokyotanso.com/company-2/",
+    "https://pr.mono.ipros.com/tokyotanso/information/",
+    "https://www.atengineer.com/pr/tokyotanso/company",
+    "https://www.toyotanso.co.jp/Company/Outline.html",
+    "https://mono.ipros.com/company/detail/414719/",
+    "https://www.toyotanso.co.jp/Company/b2bedb3e3e6c3cae865d856a67b108877f3b9e6e.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "東京炭素工業 お問い合わせ メール",
+   "results": [
+    "https://tokyotanso.com/contact/",
+    "https://tokyotanso.com/",
+    "https://ja.nc-net.or.jp/company/79452/inquiry/",
+    "https://www.toyotanso.co.jp/Contact/form/",
+    "https://www.tokaicarbon.co.jp/inquiry/",
+    "https://www.atengineer.com/pr/tokyotanso/inquiry",
+    "https://www.toyotanso.co.jp/Contact/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 東京炭素工業",
+   "results": [
+    "https://note.com/fast_poppy8050/n/nc4f1a993ec38",
+    "https://note.com/kakuka0904/n/n22b18df75d8c",
+    "https://note.com/tisobro/n/n7cc8378b4c7d",
+    "https://tales.note.com/20220612/wr98m266akp5v",
+    "https://tales.note.com/platypus2000jp/wwal8cw05tizy",
+    "https://note.com/tatsuya_sabato/n/n7e61e949d75f",
+    "https://note.com/pay2022/n/nd9e8acb5405e"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 東京炭素工業",
+   "results": [
+    "https://x.com/tokyomagazine/status/2054504386093797722",
+    "https://x.com/mainichikagaku/status/2072523971158036561",
+    "https://x.com/TCI_J",
+    "https://x.com/TCI_J/status/1711577316357226696",
+    "https://x.com/kiko_kanshin/status/2114123271885189567",
+    "https://x.com/kanchanakichan/status/2120027699637039443",
+    "https://x.com/mainichi/status/2072530704370688447"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 東京炭素工業",
+   "results": [
+    "https://jp.linkedin.com/company/toyo-tanso-co-ltd",
+    "https://id.linkedin.com/in/chyntia-oktavia/in",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://jp.linkedin.com/in/修平-宇野-0b0618373",
+    "https://www.linkedin.com/posts/ontario-tio-tokyo_9月8日にカナダ大使館で開催されたccusおよびcdrに関する日加-activity-7504082201974583296-cPwr",
+    "https://www.linkedin.com/jobs/日通包装工業-東京段ボール工場-綾瀬-開設-移転前-jobs",
+    "https://uk.linkedin.com/in/teppei-yamamoto-3431392bb"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 東京炭素工業",
+   "results": [
+    "https://www.facebook.com/tci.jp/",
+    "https://www.facebook.com/tci.jp/photos/tci反応実例今回はパラジウム炭素を用いたクロスカップリング反応を紹介していますパラジウム炭素を触媒として用いた4-クロロベンゾトリフルオリドとフェニルボロン酸/1113965877181831/",
+    "https://www.facebook.com/ne.titech.ac.jp/",
+    "https://www.facebook.com/keiichiro.a.mori/posts/本日のお務め開始本日はお初となるホストメンバーの方々のセッションに参加ナウ1ラウンド目はspeak-low昨晩の肩がコルトレーンでマイルスから復活しました/28023723097252835/",
+    "https://www.facebook.com/sanarutokyo/",
+    "https://www.facebook.com/minatokodomosyokudo/posts/昨日6月17日月例のフードパントリー増上寺-が下記の方々はじめ本当に沢山のご寄付ご協力のお陰で開催できました️-最近は会社様からのボランティアの方々や新極真空手/1433043235535535/",
+    "https://www.facebook.com/tci.jp/photos/tci製品ハイライト脱ハロゲン化を抑制した水素化に利用できる硫黄被毒型白金活性炭担持触媒白金-炭素-pt-3-約55水湿潤品-硫黄修飾はニトロ基やオレフィンの還/1221844173060667/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "東京炭素工業 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://tokyotanso.com/company-2/",
+    "https://tokyotanso.com/",
+    "https://kigyo-scope.jp/company/5310/ceo/",
+    "https://the-shashi.com/tse/5310/executives/ceo/kondo-naotaka/",
+    "https://www.toyotanso.co.jp/Company/Outline.html",
+    "https://www.toyotanso.co.jp/Company/Philosophy.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "東京炭素工業 X 投稿",
+   "results": [
+    "https://tokyotanso.com/",
+    "https://tokyotanso.com/company-2/",
+    "https://x.com/co2tans/status/2114706377788862895",
+    "https://x.com/co2tans/status/2117954836675338366",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://www.tok.co.jp/",
+    "https://www.toyotanso.co.jp/News/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式8頁／PDF・画像2件／外部8頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像2件／外部8頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像2件／外部8頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式8頁／PDF・画像2件／外部8頁・検索9回）"
+ }
+}

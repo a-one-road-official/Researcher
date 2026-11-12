@@ -1,0 +1,274 @@
+{
+ "name": "株式会社坂上製作所",
+ "aliases": [],
+ "context": "ipros_all:単品",
+ "researched_at": "2026-11-11T23:39:23.760958+00:00",
+ "official_url": "http://www.sakagamiseisakusyo.co.jp",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "製品・サービス(7)",
+    "url": "https://mono.ipros.com/company/detail/2044729/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "「坂上製作所に任せて良かった」と心から思っていただけるよう、全従業員が一丸となって、より高品質な製品づくりに邁進していく所存です",
+    "url": "https://www.big-advance.site/c/177/1773/profile",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "坂上製作所のカタログ一覧 | イプロスものづくり — バリアブルパラメータ入力による特殊部品のNCデータ作成とそのシステム提供も実績があります。 坂上製作所は、客先との協議を通じてより良い機能と製作の円滑化を図るために、様々な提言を実施しております。",
+    "url": "https://mono.ipros.com/company/detail/2044729/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | アルミ、ステンレスなどの金属加工（旋盤加工・フライス加...株式会社 坂上製作所｜会社概要 - ncokyoudoukumiai.jp会社案内 | 有限会社 坂上製作所｜日立市の切削・穴あけ加工専門 有限... — 私たちは、社会の様々なニーズにお応えするべく、金属加工の技術と経験を積み重ねてまいりました。 会社概要や工場の様子、沿革、受賞歴、理念など、坂製作所に関する各種情報は、こちらのページをご覧ください。 会社概要 商号 株式会社 坂上製作所 所在地 〒950-3308 新潟県新潟市北区下大谷内378-19 【地図】 NCO豊栄工業団地協同組合 地図 TEL.025-259-2633 FAX.025-258-3522 Email: 資本金 2,000万円 役 員 代表取締役社長 坂上 勝彦 1.6mの正面旋盤による最大1200φの大型旋削から、1500mmまでの長尺物、",
+    "url": "https://www.sakass.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 坂上製作所｜会社概要 - ncokyoudoukumiai.jp — 会社概要 商号 株式会社 坂上製作所 所在地 〒950-3308 新潟県新潟市北区下大谷内378-19 【地図】 NCO豊栄工業団地協同組合 地図 TEL.025-259-2633 FAX.025-258-3522 Email: 資本金 2,000万円 役 員 代表取締役社長 坂上 勝彦",
+    "url": "http://ncokyoudoukumiai.jp/sakaue/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | 有限会社 坂上製作所｜日立市の切削・穴あけ加工専門 有限... — 1.6mの正面旋盤による最大1200φの大型旋削から、1500mmまでの長尺物、細かな精密穴あけ加工まで柔軟に対応可能。 大型部品の切削・穴あけ加工なら、日立市の坂上製作所へ。",
+    "url": "https://www.big-advance.site/c/177/1773/profile",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 | 有限会社 坂上製作所｜日立市の切削・穴あけ加工専門 有限... — ルーツは日立市久慈町での船舶内燃機関の修理工場にあり、その後、昭和32年より日立機材、昭和37年より久慈電気製作所、そして平成4年の有限会社設立以降は日立製作所の協力工場として、日本の産業を支える重要部品の製造に携わってまいりました。",
+    "url": "https://www.big-advance.site/c/177/1773/service",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 坂上製作所｜事業内容 — 〒950-3308 新潟県新潟市北区下大谷内378番地19 TEL.025-259-2633 FAX.025-258-3522",
+    "url": "https://www.ncokyoudoukumiai.jp/sakaue/business.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "kanmani＠浦和から世界へ on X: \"ほほう 株式会社IHIキャスティングス... kanmani＠浦和から世界へ on X: \"ほほう 株式会社IHIキャスティングス フジメタル工業株式会社 AeroEdge株式会社 株式会社TBM 坂上製作所 長井精機 とGeminiサンが教えてくれた\"",
+    "url": "https://x.com/kanmani/status/2119626462957547572",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.sakagamiseisakusyo.co.jp",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://e-sakai.co.jp/bisaikako-lab/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2044729/catalog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakass.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://ncokyoudoukumiai.jp/sakaue/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.big-advance.site/c/177/1773/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakass.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakai-ss-n.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakagami-ltd.co.jp/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kanmani/status/2119626462957547572",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "坂上製作所 取扱製品 試作 小ロット",
+   "results": [
+    "https://e-sakai.co.jp/bisaikako-lab/",
+    "https://mono.ipros.com/company/detail/2044729/catalog/",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "http://www.sakaguchi-tanko.co.jp/service/lot.php",
+    "https://takahashi-tss.com/prototype",
+    "https://mono.ipros.com/company/detail/2044729/category/",
+    "https://www.sakagami-ltd.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "坂上製作所 会社概要 事業内容",
+   "results": [
+    "https://www.sakass.com/company/",
+    "http://ncokyoudoukumiai.jp/sakaue/outline.html",
+    "https://www.big-advance.site/c/177/1773/profile",
+    "https://www.big-advance.site/c/177/1773/service",
+    "https://www.ncokyoudoukumiai.jp/sakaue/business.html",
+    "https://www.sakagami-ltd.co.jp/company",
+    "https://www.sakagami-ltd.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "坂上製作所 お問い合わせ メール",
+   "results": [
+    "https://www.sakass.com/contact/",
+    "https://www.sakai-ss-n.co.jp/contact/",
+    "https://www.sakagami-ltd.co.jp/contact",
+    "http://sakaue-screw.co.jp/contact.html",
+    "https://form.sakagami-ltd.co.jp/sys/toiawase/index.html",
+    "https://www.sakagami-ltd.co.jp/",
+    "https://form.sakagami-ltd.co.jp/sys/toiawase/other.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 坂上製作所",
+   "results": [
+    "https://note.com/postblackjack/store",
+    "https://note.com/tommy_ka8374",
+    "https://note.com/sakagamikaoru",
+    "https://note.com/editorsaka",
+    "https://note.com/",
+    "https://tales.note.com/",
+    "https://note.com/emewriter_0731/n/nffc5282d3b53"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 坂上製作所",
+   "results": [
+    "https://x.com/kanmani/status/2119626462957547572",
+    "https://x.com/CHOUZETSUSEISO",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/sakata_s_s",
+    "https://x.com/sakagamisho",
+    "https://x.com/arya_director",
+    "https://x.com/sakakky1090"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 坂上製作所",
+   "results": [
+    "https://jp.linkedin.com/in/桂太-坂上-b478a6328",
+    "https://www.linkedin.com/in/joanne-otuonye-586b7385",
+    "https://www.linkedin.com/in/cynthia-mchugh-cfp®-crps®-1874505",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://in.linkedin.com/company/linkedin",
+    "https://pk.linkedin.com/in/abu-bakr-aman-46818b38a",
+    "https://jp.linkedin.com/in/takuma-sakaue-b4127a388"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 坂上製作所",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "坂上製作所 note 社長",
+   "results": [
+    "http://ncokyoudoukumiai.jp/sakaue/outline.html",
+    "https://www.sakagami-ltd.co.jp/company",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/6966/executives/ceo/sakaue-takanori/",
+    "http://www.sakagami-ltd.co.jp/",
+    "https://note.com/nexusdl/n/n41222923b030",
+    "https://note.com/emewriter_0731/n/nffc5282d3b53"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "坂上製作所 X 投稿",
+   "results": [
+    "https://x.com/sakanoue_post/status/2120576918559092924",
+    "https://x.com/suzuka_xx_s/status/2080996518518214826",
+    "http://www.sakagami-ltd.co.jp/",
+    "https://search.yahoo.co.jp/realtime/search/坂上/",
+    "https://xmypage.syosetu.com/mypageblog/view/xid/x5617cs/blogkey/455079/",
+    "https://www.sakagami-ltd.co.jp/company",
+    "https://coki.jp/article/column/97201/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）",
+  "一点物・少量多品種": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）",
+  "製品分野": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）"
+ }
+}

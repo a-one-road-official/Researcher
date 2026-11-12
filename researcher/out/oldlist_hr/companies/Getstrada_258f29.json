@@ -1,0 +1,958 @@
+{
+ "name": "Getstrada",
+ "aliases": [],
+ "context": "旧営業リスト｜Non-AUMS｜商談中",
+ "researched_at": "2026-11-11T23:57:05.030630+00:00",
+ "official_url": "https://www.getstrada.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Billing & payment processing",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Claims processing support",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Endorsement processing",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Provider & vendor inquiries",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Provides invoice, commissions and payment status.",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "data accuracy across policy and document processing",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Liability",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "policyholder retention",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Gen AI Product Manager",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The turning point was when we saw policies close from leads we had already written off. That’s when it clicked. This wasn’t just automation for efficiency, it was revenue we were getting back.”",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President, Insurance Operations",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Full threads and attachments",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Validate the details, prepare the documents and update your systems. Every step stays on record.",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Roll a prompt version forward or back",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fills forms and reads data",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why enterprises choose Strada",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise controls across data handling, infrastructure and every model we call.",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SOC 2 Type II, GDPR, HIPAA and CPRA controls",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zero-day retention with AI providers, with a full audit trail",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Training so your team can evolve the agents without us",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "California privacy rights",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your data stays protected, is never used to train models, and every agent action is logged and monitored.",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Memberships and press",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SOC 2 Type II, GDPR, HIPAA safeguards where required, CPRA, and isolated tenancy. Model providers do not train on your data.",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers report 80% containment across voice, chat and email, 70% lower handle time, and double-digit CSAT gains within the first weeks of production.",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Talk to our team about your workflows, systems, and deployment approach.",
+    "url": "https://www.getstrada.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "We're a high ownership, high velocity team building AI infrastructure for insurance operations. If you enjoy pushing the limits of AI models in high-stakes, production environments, we would love to talk.",
+    "url": "https://www.getstrada.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Talk to our team about your workflows, systems, and deployment approach.",
+    "url": "https://www.getstrada.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We are a high-ownership team in San Francisco building AI infrastructure for insurance operations. If you enjoy pushing the limits of AI models in high-stakes, production environments, we would love to talk.",
+    "url": "https://www.getstrada.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering in San Francisco and Toronto, sales in San Francisco and remote. Applications are handled on the Strada job board.",
+    "url": "https://www.getstrada.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Account Executive",
+    "url": "https://www.getstrada.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Business Development Representative (BDR)",
+    "url": "https://www.getstrada.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Improvement in Predicted CSAT",
+    "url": "https://www.getstrada.com/customers/clearcover",
+    "pass": 1
+   },
+   {
+    "quote": "Gen AI Product Manager",
+    "url": "https://www.getstrada.com/customers/clearcover",
+    "pass": 1
+   },
+   {
+    "quote": "Clearcover provides digital-first auto insurance across the United States",
+    "url": "https://www.getstrada.com/customers/clearcover",
+    "pass": 1
+   },
+   {
+    "quote": "Clearcover Insurance Company (“Clearcover”) built its business on the promise of fast, frictionless service. As the company scaled, digital self-service became central to how customers managed their policies – cancellations, payments, coverage questions. That made the reliability of those automated workflows a direct measure of the customer experience.",
+    "url": "https://www.getstrada.com/customers/clearcover",
+    "pass": 1
+   },
+   {
+    "quote": "The pay-by-link journey had room for improvement – OTP verification only worked via email, which created opportunities to streamline completion rates.",
+    "url": "https://www.getstrada.com/customers/clearcover",
+    "pass": 1
+   },
+   {
+    "quote": "Complex workflows like cancellation eligibility checks needed more robust automation to improve containment and reduce unnecessary escalation to agents.",
+    "url": "https://www.getstrada.com/customers/clearcover",
+    "pass": 1
+   },
+   {
+    "quote": "Two of the most pressing issues were addressed early. Strada implemented the pay-by-link flow with SMS-based OTP verification, reducing the drop-off caused by delayed email delivery. At the same time, Clearcover gained enhanced visibility into performance – with analytics and QA tooling that made it possible to see where customers were struggling and fix it quickly.",
+    "url": "https://www.getstrada.com/customers/clearcover",
+    "pass": 1
+   },
+   {
+    "quote": "\"The metrics moved faster than I expected: containment, CSAT, completion rates. Within weeks we had a clear picture of the improvement across the funnel.\"",
+    "url": "https://www.getstrada.com/customers/clearcover",
+    "pass": 1
+   },
+   {
+    "quote": "Clearcover is now preparing to extend its use of Strada across additional workflows. The team is working toward FNOL capabilities with appropriate compliance and claims-handling controls and expanding their quote intake use cases, while continuing to build out QA systems that provide deeper visibility into customer interactions and agent performance.",
+    "url": "https://www.getstrada.com/customers/clearcover",
+    "pass": 1
+   },
+   {
+    "quote": "Talk to our team about your workflows, systems, and deployment approach.",
+    "url": "https://www.getstrada.com/customers/clearcover",
+    "pass": 1
+   },
+   {
+    "quote": "FNOL Process Automation Guide",
+    "url": "https://www.getstrada.com/customers/clearcover",
+    "pass": 1
+   },
+   {
+    "quote": "First Connect is a modern insurance marketplace connecting independent agents with 150+ partners. As the company grew, so did the volume of inbound support requests and outbound agency outreach, placing increasing pressure on a relatively small support team responsible for both.",
+    "url": "https://www.getstrada.com/customers/first-connect",
+    "pass": 1
+   },
+   {
+    "quote": "To keep response times fast while continuing to scale, the team began exploring how automation could absorb a large share of these interactions – faster response times, more consistent outreach, and a support operation that could grow alongside the company without a proportional increase in overhead.",
+    "url": "https://www.getstrada.com/customers/first-connect",
+    "pass": 1
+   },
+   {
+    "quote": "Finding the right partner to solve this proved harder than expected. First Connect evaluated five agentic AI vendors and came away unconvinced – most fell short on voice quality, integration depth, or complex workflow capabilities. Strada was the first vendor that cleared all three bars, and the first that felt credible enough to put in front of their agency partners.",
+    "url": "https://www.getstrada.com/customers/first-connect",
+    "pass": 1
+   },
+   {
+    "quote": "First Connect's outbound operation covers multiple touchpoints across the agency lifecycle – from following up with unconverted leads to checking in with agents at key milestones, such as when they've been newly appointed to a carrier and can start writing policies.",
+    "url": "https://www.getstrada.com/customers/first-connect",
+    "pass": 1
+   },
+   {
+    "quote": "Strada also introduced AI agents to handle routine outbound support. Calls that previously required a live representative – such as appointment status checks or general platform questions – can now be resolved automatically.",
+    "url": "https://www.getstrada.com/customers/first-connect",
+    "pass": 1
+   },
+   {
+    "quote": "Within a few months of deployment, Strada drove measurable improvements across both inbound and outbound operations:",
+    "url": "https://www.getstrada.com/customers/first-connect",
+    "pass": 1
+   },
+   {
+    "quote": "As First Connect continues to grow, the team plans to expand automation into additional workflows across the agency lifecycle – particularly in the sales funnel. New AI agents will support onboarding, follow-ups, and proactive check-ins to help agencies engage more quickly on the platform, running across both phone and email.",
+    "url": "https://www.getstrada.com/customers/first-connect",
+    "pass": 1
+   },
+   {
+    "quote": "Talk to our team about your workflows, systems, and deployment approach.",
+    "url": "https://www.getstrada.com/customers/first-connect",
+    "pass": 1
+   },
+   {
+    "quote": "FNOL Process Automation Guide",
+    "url": "https://www.getstrada.com/customers/first-connect",
+    "pass": 1
+   },
+   {
+    "quote": "Increase in Premium Quoted",
+    "url": "https://www.getstrada.com/customers/foxquilt",
+    "pass": 1
+   },
+   {
+    "quote": "\"Within the first month, we were already writing new policies from leads we thought were dead. Strada doesn't just make calls - it means actual revenue for us.\"",
+    "url": "https://www.getstrada.com/customers/foxquilt",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President, Insurance Operations",
+    "url": "https://www.getstrada.com/customers/foxquilt",
+    "pass": 1
+   },
+   {
+    "quote": "Provides commercial insurance solutions to small businesses across the US and Canada.",
+    "url": "https://www.getstrada.com/customers/foxquilt",
+    "pass": 1
+   },
+   {
+    "quote": "Foxquilt is a leading North American insurance technology company focused on providing small business insurance through a seamless, embedded distribution model across the US and Canada. As they scaled the revenue leakage from abandoned quotes, delayed follow-ups, and missed payments became a growing concern.",
+    "url": "https://www.getstrada.com/customers/foxquilt",
+    "pass": 1
+   },
+   {
+    "quote": "\"We were generating demand, but adding headcount so the team could follow up promptly and chase down missed payments wasn't a prudent use of capital”",
+    "url": "https://www.getstrada.com/customers/foxquilt",
+    "pass": 1
+   },
+   {
+    "quote": "Many small businesses would request insurance quotes through their digital platform, but abandon the process before purchasing, creating missed revenue opportunities",
+    "url": "https://www.getstrada.com/customers/foxquilt",
+    "pass": 1
+   },
+   {
+    "quote": "Leads referred by partners required fast responses, but Foxquilt's team lacked the bandwidth to contact every prospect when they were most engaged",
+    "url": "https://www.getstrada.com/customers/foxquilt",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Export to your warehouse or as CSV",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Strada is supported by leading investors and experienced operators in insurance and AI.",
+    "url": "https://www.getstrada.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Two of the most pressing issues were addressed early. Strada implemented the pay-by-link flow with SMS-based OTP verification, reducing the drop-off caused by delayed email delivery. At the same time, Clearcover gained enhanced visibility into performance – with analytics and QA tooling that made it possible to see where customers were struggling and fix it quickly.",
+    "url": "https://www.getstrada.com/customers/clearcover",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Strada: Phone, Email, and Chat AI for Insurance Carriers & Brokers",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Strada’s agents complete claims and servicing work end to end for carriers, TPAs and MGAs, inside the systems you already run on.",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Classifies, extracts and files whatever arrives.",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Carrier portal navigation",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Retrieves policy documents, dec pages and loss runs from carrier portals and files them in your systems.",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Measured across live deployments with carriers, TPAs and MGAs, on the workflows Strada runs end to end.",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The turning point was when we saw policies close from leads we had already written off. That’s when it clicked. This wasn’t just automation for efficiency, it was revenue we were getting back.”",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Browser agents operate carrier portals and legacy tools the same way your team does, with the same audit trail.",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FNOL, policy servicing, renewals, quote intake, claims status, and outbound follow-up across voice, email, chat, and SMS, purpose-built for carriers, MGAs, and brokers.",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We build the AI infrastructure that runs insurance operations, from customer interactions to back-office workflows, integrated directly into carrier, broker and TPA core systems.",
+    "url": "https://www.getstrada.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering leader who led NLP and knowledge graph deployments for Fortune 500s at Microsoft.",
+    "url": "https://www.getstrada.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Strada: Phone, Email, and Chat AI for Insurance Carriers & Brokers",
+    "url": "https://www.getstrada.com/customers/clearcover",
+    "pass": 1
+   },
+   {
+    "quote": "Carriers, MGAs, and brokers scale operations with Strada's AI platform.",
+    "url": "https://www.getstrada.com/customers/clearcover",
+    "pass": 1
+   },
+   {
+    "quote": "Strada: Phone, Email, and Chat AI for Insurance Carriers & Brokers",
+    "url": "https://www.getstrada.com/customers/first-connect",
+    "pass": 1
+   },
+   {
+    "quote": "Carriers, MGAs, and brokers scale operations with Strada's AI platform.",
+    "url": "https://www.getstrada.com/customers/first-connect",
+    "pass": 1
+   },
+   {
+    "quote": "First Connect's outbound operation covers multiple touchpoints across the agency lifecycle – from following up with unconverted leads to checking in with agents at key milestones, such as when they've been newly appointed to a carrier and can start writing policies.",
+    "url": "https://www.getstrada.com/customers/first-connect",
+    "pass": 1
+   },
+   {
+    "quote": "Strada: Phone, Email, and Chat AI for Insurance Carriers & Brokers",
+    "url": "https://www.getstrada.com/customers/foxquilt",
+    "pass": 1
+   },
+   {
+    "quote": "\"Within the first month, we were already writing new policies from leads we thought were dead. Strada doesn't just make calls - it means actual revenue for us.\"",
+    "url": "https://www.getstrada.com/customers/foxquilt",
+    "pass": 1
+   },
+   {
+    "quote": "Carriers, MGAs, and brokers scale operations with Strada's AI platform.",
+    "url": "https://www.getstrada.com/customers/foxquilt",
+    "pass": 1
+   },
+   {
+    "quote": "Foxquilt is a leading North American insurance technology company focused on providing small business insurance through a seamless, embedded distribution model across the US and Canada. As they scaled the revenue leakage from abandoned quotes, delayed follow-ups, and missed payments became a growing concern.",
+    "url": "https://www.getstrada.com/customers/foxquilt",
+    "pass": 1
+   },
+   {
+    "quote": "Foxquilt faced several critical revenue challenges that were limiting their growth potential:",
+    "url": "https://www.getstrada.com/customers/foxquilt",
+    "pass": 1
+   },
+   {
+    "quote": "Many small businesses would request insurance quotes through their digital platform, but abandon the process before purchasing, creating missed revenue opportunities",
+    "url": "https://www.getstrada.com/customers/foxquilt",
+    "pass": 1
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/getstrada.com",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/getstrada.com",
+    "pass": 3
+   },
+   {
+    "quote": "Carriers, MGAs, and brokers scale revenue-driving phone calls with Strada's AI phone assistants.",
+    "url": "https://builtin.com/company/strada-0",
+    "pass": 3
+   },
+   {
+    "quote": "Purpose-built for insurance and quick to deploy, Strada turns every conversation into an opportunity to drive revenue and deepen relationships.",
+    "url": "https://builtin.com/company/strada-0",
+    "pass": 3
+   },
+   {
+    "quote": "Employees work from physical offices.",
+    "url": "https://builtin.com/company/strada-0",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Strada: Phone, Email, and Chat AI for Insurance Carriers & Brokers",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Full first notice of loss over phone, chat or email, around the clock.",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "of contacts contained end to end, across voice, chat and email",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Answer calls, emails and messages. Complete the request in the same conversation.",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FNOL, policy servicing, renewals, quote intake, claims status, and outbound follow-up across voice, email, chat, and SMS, purpose-built for carriers, MGAs, and brokers.",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers report 80% containment across voice, chat and email, 70% lower handle time, and double-digit CSAT gains within the first weeks of production.",
+    "url": "https://www.getstrada.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Strada: Phone, Email, and Chat AI for Insurance Carriers & Brokers",
+    "url": "https://www.getstrada.com/customers/clearcover",
+    "pass": 1
+   },
+   {
+    "quote": "The pay-by-link journey had room for improvement – OTP verification only worked via email, which created opportunities to streamline completion rates.",
+    "url": "https://www.getstrada.com/customers/clearcover",
+    "pass": 1
+   },
+   {
+    "quote": "Two of the most pressing issues were addressed early. Strada implemented the pay-by-link flow with SMS-based OTP verification, reducing the drop-off caused by delayed email delivery. At the same time, Clearcover gained enhanced visibility into performance – with analytics and QA tooling that made it possible to see where customers were struggling and fix it quickly.",
+    "url": "https://www.getstrada.com/customers/clearcover",
+    "pass": 1
+   },
+   {
+    "quote": "Strada: Phone, Email, and Chat AI for Insurance Carriers & Brokers",
+    "url": "https://www.getstrada.com/customers/first-connect",
+    "pass": 1
+   },
+   {
+    "quote": "As First Connect continues to grow, the team plans to expand automation into additional workflows across the agency lifecycle – particularly in the sales funnel. New AI agents will support onboarding, follow-ups, and proactive check-ins to help agencies engage more quickly on the platform, running across both phone and email.",
+    "url": "https://www.getstrada.com/customers/first-connect",
+    "pass": 1
+   },
+   {
+    "quote": "Strada: Phone, Email, and Chat AI for Insurance Carriers & Brokers",
+    "url": "https://www.getstrada.com/customers/foxquilt",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Finding the right partner to solve this proved harder than expected. First Connect evaluated five agentic AI vendors and came away unconvinced – most fell short on voice quality, integration depth, or complex workflow capabilities. Strada was the first vendor that cleared all three bars, and the first that felt credible enough to put in front of their agency partners.",
+    "url": "https://www.getstrada.com/customers/first-connect",
+    "pass": 1
+   },
+   {
+    "quote": "By handling these high-frequency requests, Strada AI agents reduce inbound volume reaching the support team while ensuring agencies get answers quickly. This allows First Connect’s team to focus on more complex interactions that require human expertise while maintaining fast response times as the network grows.",
+    "url": "https://www.getstrada.com/customers/first-connect",
+    "pass": 1
+   },
+   {
+    "quote": "As First Connect continues to grow, the team plans to expand automation into additional workflows across the agency lifecycle – particularly in the sales funnel. New AI agents will support onboarding, follow-ups, and proactive check-ins to help agencies engage more quickly on the platform, running across both phone and email.",
+    "url": "https://www.getstrada.com/customers/first-connect",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Stradaの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — 本ページの企業情報は、公式サイト（https://getstrada.com）および公開情報（報道・プレスリリース等）をもとにAIが調査・要約したものです。 内容の正確性については公式サイト・出典をご確認ください。 続きの詳しい内容は、無料会員登録でご覧いただけ ...",
+    "url": "https://www.firstcvc.jp/global/getstrada.com",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories — Strada - getstrada.com — Read how insurance teams drive transformation with Strada.",
+    "url": "https://www.getstrada.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Strada (getstrada.com) Careers, Perks + Culture | Built In — Find jobs, explore benefits, and research company culture at Built In.",
+    "url": "https://builtin.com/company/strada-0",
+    "pass": 3
+   },
+   {
+    "quote": "Strada - 2026 Company Profile, Team, Funding & Competitors ...Strada — Company Profile & Funding | Indexed.vcStrada 2026 Company Profile: Valuation, Funding & Investors ...Strada – Revenue, Valuation & Top Competitors – 2026Strada Funding | $7.5-15M Revenue | Complete AnalysisStrada’s Competitors, Revenue, Number of Employees, Funding ...Strada Funding | $7.5-15M Revenue | Complete Analysis — Mar ",
+    "url": "https://tracxn.com/d/companies/strada/__6zK3XJQxknVmxKCYISjXx0zcz2kaOkXU1ZSz24DPClE",
+    "pass": 3
+   },
+   {
+    "quote": "Strada 2026 Company Profile: Valuation, Funding & Investors ...Strada – Revenue, Valuation & Top Competitors – 2026Strada Funding | $7.5-15M Revenue | Complete AnalysisStrada’s Competitors, Revenue, Number of Employees, Funding ...Strada Funding | $7.5-15M Revenue | Complete Analysis — Information on valuation, funding, cap tables, investors, and executives for Strada. Use the PitchBook Platform t",
+    "url": "https://pitchbook.com/profiles/company/534454-66",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Amir Prodensky (@AmirProd1) / Posts / X Feb 8 Excited to launch @StradaHQ self-serve! We've seen a shift in the post-ChatGPT world. IT and Ops teams are starting to build automation with code. That's where Strada comes in -Connect your apps -Set up actions with no code -Get full control with Python app.getstrada.com/auth/signup 💬 0",
+    "url": "https://x.com/AmirProd1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Strada - LinkedIn Website https://www.getstrada.com Industry Software Development Company size 11-50 employees Headquarters San Francisco, SF",
+    "url": "https://www.linkedin.com/company/getstrada/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.getstrada.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getstrada.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getstrada.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getstrada.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getstrada.com/customers/clearcover",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getstrada.com/customers/first-connect",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getstrada.com/customers/foxquilt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getstrada.com/book-a-demo",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.getstrada.com/assets/img/logos/strada-mark.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.getstrada.com/assets/img/logos/logo-08.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.getstrada.com/assets/img/logos/logo-07.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.getstrada.com/assets/img/logos/logo-accelerant.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/Strada",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/global/getstrada.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aimyflow.com/ja/ai/getstrada-com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/getstrada/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://get-jpn.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://builtin.com/company/strada-0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/intro1/case-study/strada-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/strada/case-study/manufacturing-organization-leveraging-strada-expertise-to-tackle-quarterly-sap-successfactors-releases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/strada/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/strada/__6zK3XJQxknVmxKCYISjXx0zcz2kaOkXU1ZSz24DPClE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://indexed.vc/companies/getstrada",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/534454-66",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/strada",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/AmirProd1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/getstrada/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Getstrada 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/Strada",
+    "https://www.firstcvc.jp/global/getstrada.com",
+    "https://www.getstrada.com/",
+    "https://aimyflow.com/ja/ai/getstrada-com",
+    "https://ainiche.net/ja/tools/strada",
+    "https://www.getstrada.com/platform",
+    "https://sekabe.hatenablog.com/entry/2026/03/05/232251"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Getstrada 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/セカンドストリート",
+    "https://www.getstrada.com/",
+    "https://www.linkedin.com/company/getstrada/",
+    "https://www.getstrada.com/platform",
+    "https://abeshokai.jp/ls_archives",
+    "https://gsat.jp/",
+    "https://maymobility.com/ja"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Getstrada Japan",
+   "results": [
+    "https://get-jpn.com/",
+    "https://www.getstrada.com/customers",
+    "https://builtin.com/company/strada-0",
+    "https://www.getstrada.com/",
+    "https://www.getstrada.com/platform",
+    "https://www.getstrada.com/about",
+    "https://www.linkedin.com/company/getstrada/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Getstrada manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/intro1/case-study/strada-customer-case-study",
+    "https://www.casestudies.com/company/strada/case-study/manufacturing-organization-leveraging-strada-expertise-to-tackle-quarterly-sap-successfactors-releases",
+    "https://www.featuredcustomers.com/vendor/strada/case-studies",
+    "https://www.getstrada.com/customers",
+    "https://www.getstrada.com/platform",
+    "https://www.linkedin.com/company/getstrada/",
+    "https://stradaglobal.com/why-strada/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Getstrada white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Getstrada founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/strada/__6zK3XJQxknVmxKCYISjXx0zcz2kaOkXU1ZSz24DPClE",
+    "https://indexed.vc/companies/getstrada",
+    "https://pitchbook.com/profiles/company/534454-66",
+    "https://compworth.com/company/strada",
+    "https://www.extruct.ai/hub/getstrada-com/",
+    "https://www.owler.com/company/getstrada",
+    "https://www.extruct.ai/hub/getstrada-com-funding/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Getstrada",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/tag/キングオブコント2026",
+    "https://note.com/tag/mentor",
+    "https://note.com/dashboard",
+    "https://note.com/suits_ceo/n/n33532f0b38bd",
+    "https://note.com/power_uncovered/n/n7fbd3966fdff",
+    "https://note.com/natucketlemon/n/nd02d53fdfac8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Getstrada",
+   "results": [
+    "https://about.x.com/en",
+    "https://x.com/SS_Strada",
+    "https://x.com/AmirProd1",
+    "https://x.com/stradaservices",
+    "https://x.com/VoteStrada",
+    "https://help.x.com/en/using-x/create-x-account",
+    "https://x.com/global_strada"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Getstrada",
+   "results": [
+    "https://www.linkedin.com/company/getstrada/",
+    "https://www.linkedin.com/company/stradaglobal",
+    "https://www.linkedin.com/in/colin-brennan-0771804",
+    "https://www.linkedin.com/company/strada-tech",
+    "https://www.linkedin.com/company/stradaglobal/jobs",
+    "https://www.linkedin.com/company/strada-investment-group",
+    "https://www.linkedin.com/company/strada-education-foundation"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Getstrada",
+   "results": [
+    "https://www.facebook.com/StradaComm/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/getstrada/",
+    "https://business.facebook.com/groups/italianivietnam/",
+    "https://business.facebook.com/latest/home/",
+    "https://www.facebook.com/eddiestradaracing/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Getstrada note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://www.getstrada.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Getstrada X 投稿",
+   "results": [
+    "https://x.com/SS_Strada/with_replies",
+    "https://www.getstrada.com/",
+    "https://x.com/AmirProd1",
+    "https://www.getstrada.com/platform",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://help.x.com/ja/using-x/instagram-stories-share",
+    "https://widget.getstrada.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部20頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部20頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部20頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部20頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部20頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部20頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部20頁・検索12回）"
+ }
+}

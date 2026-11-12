@@ -1,0 +1,1434 @@
+{
+ "name": "Fontawesome",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-12T00:11:17.499871+00:00",
+ "official_url": "http://fontawesome.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "01-Jan-2016    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/101588-50",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2014",
+    "url": "https://startupintros.com/orgs/font-awesome",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Bentonville, AR, USA",
+    "url": "https://startupintros.com/orgs/font-awesome",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Pro icons, Kits, and the Icon Wizard, hosted on our CDN.",
+    "url": "https://fontawesome.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuilt from the ground up using classic principles of animation. Available to everyone for free.",
+    "url": "https://fontawesome.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Watch the Font Awesome overview video",
+    "url": "https://fontawesome.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our icons, your uploads, your settings. Manage it all from one place. Add it to any site with a single embed code.",
+    "url": "https://fontawesome.com/",
+    "pass": 1
+   },
+   {
+    "quote": "icon and writes it into your project, your way.",
+    "url": "https://fontawesome.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sparkles is a Pro icon, and you're using React with Font Awesome Pro, so it's all yours.",
+    "url": "https://fontawesome.com/",
+    "pass": 1
+   },
+   {
+    "quote": "import { faSparkles } from '@fortawesome/pro-solid-svg-icons'",
+    "url": "https://fontawesome.com/",
+    "pass": 1
+   },
+   {
+    "quote": "star reads more like \"rate this\"",
+    "url": "https://fontawesome.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We open-sourced Font Awesome in 2012. Backed by our Pro subscribers, it's grown into one of the most-used open source projects on GitHub. Today our",
+    "url": "https://fontawesome.com/",
+    "pass": 1
+   },
+   {
+    "quote": "People sometimes ask why we keep supporting the free version of Font Awesome instead of pouring everything into Pro. It's a fair question, and the answer",
+    "url": "https://fontawesome.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We can keep giving it away because of our Pro subscribers. Every Pro subscription helps fund the free, open source version everyone else gets to use.",
+    "url": "https://fontawesome.com/",
+    "pass": 1
+   },
+   {
+    "quote": "biggest competitor to Font Awesome Pro.",
+    "url": "https://fontawesome.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Link to Pricing on this page",
+    "url": "https://fontawesome.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Plans for Every Project",
+    "url": "https://fontawesome.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pro icons, hosted via CDN.",
+    "url": "https://fontawesome.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get it all with a Pro+ plan!",
+    "url": "https://fontawesome.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"font-awesome-sprockets\"",
+    "url": "https://qiita.com/Yu-8chan/items/d0141011bfcc68b03b31",
+    "pass": 3
+   },
+   {
+    "quote": "content: \"\\f07c\";",
+    "url": "https://tekuedit-design.com/font-awesome-method/",
+    "pass": 3
+   },
+   {
+    "quote": "content: \"\\f058\";",
+    "url": "https://tekuedit-design.com/font-awesome-method/",
+    "pass": 3
+   },
+   {
+    "quote": "アイコン画面でコピーした文字コードを「content」プロパティーに落とし込みます",
+    "url": "https://tekuedit-design.com/font-awesome-method/",
+    "pass": 3
+   },
+   {
+    "quote": "WordPressブログや企業サイトのデザインで使われる「箇条書き」にFont Awesomeを使用した例です",
+    "url": "https://tekuedit-design.com/font-awesome-method/",
+    "pass": 3
+   },
+   {
+    "quote": "content: \"\\f10d\";",
+    "url": "https://tekuedit-design.com/font-awesome-method/",
+    "pass": 3
+   },
+   {
+    "quote": "見出しやWordPressのタグ要素などへのFont Awesomeの使い方一例です",
+    "url": "https://tekuedit-design.com/font-awesome-method/",
+    "pass": 3
+   },
+   {
+    "quote": "content: \"\\f5ad\";",
+    "url": "https://tekuedit-design.com/font-awesome-method/",
+    "pass": 3
+   },
+   {
+    "quote": "content: \"\\f35a\";",
+    "url": "https://tekuedit-design.com/font-awesome-method/",
+    "pass": 3
+   },
+   {
+    "quote": "Web制作やWordPress初心者の方に少しでも参考になれば幸いです♪",
+    "url": "https://tekuedit-design.com/font-awesome-method/",
+    "pass": 3
+   },
+   {
+    "quote": "WordPress(ワードプレス)ではブログを運営しつつ、デザインや機能のカスタマイズにも対応",
+    "url": "https://tekuedit-design.com/font-awesome-method/",
+    "pass": 3
+   },
+   {
+    "quote": "最後までお読みいただきありがとうございました！このサイトでは、初心者の方を対象にWordPressはじめWeb制作やデザインに関するスキルについて情報をまとめています",
+    "url": "https://tekuedit-design.com/font-awesome-method/",
+    "pass": 3
+   },
+   {
+    "quote": "WordPressブログの多言語化方法３選とおすすめプラグイン７選をご紹介",
+    "url": "https://tekuedit-design.com/font-awesome-method/",
+    "pass": 3
+   },
+   {
+    "quote": "WordPressのおすすめ無料プラグインと追加方法！注意点も解説",
+    "url": "https://tekuedit-design.com/font-awesome-method/",
+    "pass": 3
+   },
+   {
+    "quote": "WordPressのブログの始め方や設定方法！初心者向けに徹底解説",
+    "url": "https://tekuedit-design.com/font-awesome-method/",
+    "pass": 3
+   },
+   {
+    "quote": "FTPソフトCyberduckでのWordPressテーマ更新手順【初心者向け】",
+    "url": "https://tekuedit-design.com/font-awesome-method/",
+    "pass": 3
+   },
+   {
+    "quote": "WordPressの訪問者向けサイトマップの自作方法【プラグインなし】",
+    "url": "https://tekuedit-design.com/font-awesome-method/",
+    "pass": 3
+   },
+   {
+    "quote": "WordPressの表示速度が遅い！高速化は可能？原因と改善策を解説",
+    "url": "https://tekuedit-design.com/font-awesome-method/",
+    "pass": 3
+   },
+   {
+    "quote": "WordPressの閲覧向けサイトマップの作成方法【WP Sitemap Page使用】",
+    "url": "https://tekuedit-design.com/font-awesome-method/",
+    "pass": 3
+   },
+   {
+    "quote": "万一の備えに！WordPressの３つのバックアップ方法を初心者向けに解説",
+    "url": "https://tekuedit-design.com/font-awesome-method/",
+    "pass": 3
+   },
+   {
+    "quote": "WordPress歴は7年で、Web制作トータルでは10年",
+    "url": "https://tekuedit-design.com/font-awesome-method/",
+    "pass": 3
+   },
+   {
+    "quote": "RailsやWordPressでの導入、オフライン環境、厳格CSP下の実装も分岐して解説します",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "2025/09/09時点ではv6系が主流で、Freeで基本用途をカバーしつつProで拡張できます",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "短納期や試験導入はFree、ブランド厳密対応や多様なスタイル要求はProが適します",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Pro(Font Awesome 6 Proなど)",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "まずFreeで検証し、カバレッジ不足や表現要件の壁が判明した段階でProを検討すると移行リスクが低いです",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "プリコネクトやdns-prefetchで初回表示を高速化し、障害時はフォールバックを用意します",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "やdns-prefetchで接続確立を短縮します",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "preconnect/dns-prefetch",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "contentにUnicode、font-familyに対応ファミリ、必要に応じてfont-weightを指定します",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": ".btn-download::before{content:”\\f019″;font-family:”Font Awesome 5 Free”;font-weight:900;margin-right:.4em;}",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": ".sns::before{content:”\\f099″;font-family:”Font Awesome 5 Brands”;}",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "モバイルでの過剰な動きは電力消費と可読性低下を招くため、2025/09/09時点でもメディアクエリprefers-reduced-motionに追従して無効化します",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "prefers-reduced-motionで抑制",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "prefers-reduced-motion尊重",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "5はsolid=fás、regular=far、brands=fabが中心で、6ではthin、light、duotone、sharpなどPro中心のスタイルが拡張されています",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "5と6のFree/Proの機能差と選び方",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Freeはsolidとbrands中心、Proはlightやduotone、thin、sharp系など拡張が利用可能です",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "コストはProサブスクリプションの有無で変動しますが、ブランドガイドライン順守やデザイン一貫性を重視するならPro検討が現実的です",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "5 Free/Pro",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "6 Free/Pro",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "solid/regular/brands(+Pro:light等)",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "solid/regular/brands(+Pro:thin/light/duotone/sharp等)",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Free版では利用不可のPro専用アイコンがあり、classは合っていても描画されません",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Font Awesomeから登録したアドレス宛にメールが届くので、メール本文内の「Click to Confirm Your Email…」のリンクをクリックします",
+    "url": "https://tekuedit-design.com/font-awesome-method/",
+    "pass": 3
+   },
+   {
+    "quote": "もし、メールが届いていない場合はサイト画面にある、リンク再発行用の「Resend Confirmation Email」をクリックします",
+    "url": "https://tekuedit-design.com/font-awesome-method/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/101588-50",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "font-awesomeの導入と使い方大全｜最短手順と互換とトラブル解決と日本語検索術【2025年最新】 - ハウスケアラボ",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "運営責任者：宇井和朗（株式会社アシスト 代表取締役）",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、クラス指定・擬似要素の基本、サイズや配置のユーティリティ、スピン・パルス・スタック重ねによる表現力向上、4.7/5/6の互換と移行、ネットワークやCORS起因の不具合切り分け、日本語での最短アイコン検索フローまで網羅",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "font-awesomeとは何かを日本語で整理し、使い方の全体像をつかむ",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "一覧から探す効率化：日本語でのアイコン検索と選定フロー",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語キーワードで目的のアイコンに最短到達する手順",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "font-awesomeのアイコン一覧を効率よく絞り込むには、日本語の発想で出発し英語の正式名へ橋渡しする流れが有効です",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "まず目的行為を日本語で列挙し、同義語と対義語を洗い出します",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "フォント画像検索で最短3分識別｜日本語対応の無料・有料ツール比較と精度UP手順",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "FontAwesomeを日本語で検索しやすいようにまとめてみる",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "電話といえば日本では「tel」という表記が一般的ですが、Awesomeで探すときは",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "“よく使うFontAwesomeの日本語まとめ作ってみたよ",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "【Ver.4, Ver.5対応】Font Awesome アイコンを日本語で検索！クリック１つでコードをコピー【アイコン一覧】",
+    "url": "https://webllica.com/search-font-awesome-icon-by-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで日本語で簡単に検索できたら便利だと思い、検索リストを作成しました",
+    "url": "https://webllica.com/search-font-awesome-icon-by-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の内容については僕の独断と偏見で記載しているので、イメージと異なる部分がある点はご了承ください",
+    "url": "https://webllica.com/search-font-awesome-icon-by-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "それでも漢字を含む日本語フォントよりはまだ軽いです",
+    "url": "https://webllica.com/search-font-awesome-icon-by-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし日本語の場合、半角...",
+    "url": "https://webllica.com/search-font-awesome-icon-by-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "Font Awesome Free 日本語チートシートを作成しました » 群馬県高崎市のホームページ制作会社 | Kiraba（キラバ）",
+    "url": "https://kiraba.jp/font-awesome-jp-lang-cheatsheet/",
+    "pass": 3
+   },
+   {
+    "quote": "Font Awesome Free 日本語チートシートを作成しました | 群馬県高崎市のホームページ制作会社 | Kiraba（キラバ）",
+    "url": "https://kiraba.jp/font-awesome-jp-lang-cheatsheet/",
+    "pass": 3
+   },
+   {
+    "quote": "Font Awesome Free 日本語チートシートを作成しました",
+    "url": "https://kiraba.jp/font-awesome-jp-lang-cheatsheet/",
+    "pass": 3
+   },
+   {
+    "quote": "仕事でFont Awesome Freeの日本語訳が必要だったので、ついでに日本語チートシートを作成しました",
+    "url": "https://kiraba.jp/font-awesome-jp-lang-cheatsheet/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "arrow-left/chevron-leftの選択",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "右方向はarrow-right、階層移動はchevron、ページ送りはangleなど機能で形状を固定します",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "機能別にarrow/chevron/angleを使い分けます",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "arrow-up-right-from-square",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "arrow up right down left",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "あと、外部リンク（external link）を表すアイコンもarrow検索では出てきません",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "arrow以外にもchevron caret angleといったワードで探しても色々な矢印が出てきます",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "<i class=\"fa fa-arrow-up\"></i>",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "<i class=\"fa fa-arrow-right\"></i>",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "<i class=\"fa fa-arrow-down\"></i>",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "<i class=\"fa fa-arrow-left\"></i>",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": ".fa-arrow-up:before {",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": ".fa-arrow-right:before {",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": ".fa-arrow-down:before {",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": ".fa-arrow-left:before {",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "fa-arrow-circle-o-right",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "fa-arrow-circle-o-down",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "fa-arrow-circle-o-left",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "<i class=\"fa fa-arrow-circle-o-up\"></i>",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "<i class=\"fa fa-arrow-circle-o-right\"></i>",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "<i class=\"fa fa-arrow-circle-o-down\"></i>",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "<i class=\"fa fa-arrow-circle-o-left\"></i>",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": ".fa-arrow-circle-o-up:before {",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": ".fa-arrow-circle-o-right:before {",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": ".fa-arrow-circle-o-down:before {",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": ".fa-arrow-circle-o-left:before {",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "fa-arrow-circle-right",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "<i class=\"fa fa-arrow-circle-up\"></i>",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "<i class=\"fa fa-arrow-circle-right\"></i>",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "fa-acquisitions-incorporated",
+    "url": "https://webllica.com/search-font-awesome-icon-by-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "fa-arrow-alt-circle-down",
+    "url": "https://webllica.com/search-font-awesome-icon-by-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "fa-arrow-alt-circle-left",
+    "url": "https://webllica.com/search-font-awesome-icon-by-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "fa-arrow-alt-circle-right",
+    "url": "https://webllica.com/search-font-awesome-icon-by-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "fa-arrow-alt-circle-up",
+    "url": "https://webllica.com/search-font-awesome-icon-by-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "fa-arrow-circle-right",
+    "url": "https://webllica.com/search-font-awesome-icon-by-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "fa-compress-arrows-alt",
+    "url": "https://webllica.com/search-font-awesome-icon-by-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "fa-long-arrow-alt-down",
+    "url": "https://webllica.com/search-font-awesome-icon-by-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "fa-long-arrow-alt-left",
+    "url": "https://webllica.com/search-font-awesome-icon-by-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "fa-long-arrow-alt-right",
+    "url": "https://webllica.com/search-font-awesome-icon-by-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "fa-arrow-circle-o-down",
+    "url": "https://webllica.com/search-font-awesome-icon-by-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "fa-arrow-circle-o-left",
+    "url": "https://webllica.com/search-font-awesome-icon-by-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "fa-arrow-circle-o-right",
+    "url": "https://webllica.com/search-font-awesome-icon-by-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "arrow-alt-circle-down",
+    "url": "https://kiraba.jp/font-awesome-jp-lang-cheatsheet/",
+    "pass": 3
+   },
+   {
+    "quote": "arrow-alt-circle-left",
+    "url": "https://kiraba.jp/font-awesome-jp-lang-cheatsheet/",
+    "pass": 3
+   },
+   {
+    "quote": "arrow-alt-circle-right",
+    "url": "https://kiraba.jp/font-awesome-jp-lang-cheatsheet/",
+    "pass": 3
+   },
+   {
+    "quote": "Font Awesome Revenue 2024: $1.5M Est.",
+    "url": "https://getlatka.com/companies/fontawesome.com",
+    "pass": 3
+   },
+   {
+    "quote": "Font Awesome has not published its revenue. GetLatka estimates it at about $1.5M a year (June 2024).",
+    "url": "https://getlatka.com/companies/fontawesome.com",
+    "pass": 3
+   },
+   {
+    "quote": "Font Awesome CEO, founders & employees",
+    "url": "https://getlatka.com/companies/fontawesome.com",
+    "pass": 3
+   },
+   {
+    "quote": "Dave Gandy founded Font Awesome in 2014 and runs it as CEO. Font Awesome had 17 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/fontawesome.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Font Awesome's revenue?",
+    "url": "https://getlatka.com/companies/fontawesome.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Font Awesome's revenue at about",
+    "url": "https://getlatka.com/companies/fontawesome.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Font Awesome have?",
+    "url": "https://getlatka.com/companies/fontawesome.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/fontawesome.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/fontawesome.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/fontawesome.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/fontawesome.com",
+    "pass": 3
+   },
+   {
+    "quote": "Font Awesome has 17 total employees.",
+    "url": "https://pitchbook.com/profiles/company/101588-50",
+    "pass": 3
+   },
+   {
+    "quote": "What is Font Awesome’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/101588-50",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Font Awesome is",
+    "url": "https://pitchbook.com/profiles/company/101588-50",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "FontAwesomeの導入と使い方解説 - Qiita — May 18, 2020 · 今回はFontAwesomeの導入方法から表示させるまでについてを解説していきます。 FontAwesomeの導入 1.Gemfileに以下の記述を追記 gem \"font-awesome-sass\" $ bundle install 2.application.s...",
+    "url": "https://qiita.com/Yu-8chan/items/d0141011bfcc68b03b31",
+    "pass": 3
+   },
+   {
+    "quote": "FontAwesomeの使い方！Webアイコンの導入と基本的な表示方法 — Nov 9, 2021 · Webサイトのアイコン表示に使えるFont Awesomeという無料で使えるWebサービスの使い方について解説しています。 基本的な導入手順から、WordPressブログでもよく使われる一例に関しても紹介しています。",
+    "url": "https://tekuedit-design.com/font-awesome-method/",
+    "pass": 3
+   },
+   {
+    "quote": "Font Awesomeとは？導入から使い方まで解説 — Urhoba — Aug 12, 2026 · Font Awesome は、これらのアイコンをプロジェクトに簡単に導入できる広範なアイコンライブラリです。 Font Awesomeとは何か？ Font Awesomeは、ウェブサイト、管理パネル、アプリケーションインターフェースで使用できる数千のベクトルアイコンを提供します。",
+    "url": "https://www.urhoba.net/ja/post/font-awesome",
+    "pass": 3
+   },
+   {
+    "quote": "font awesomeの特徴と最新7への導入手順を初心者向けに徹底解説【無料... — Aug 23, 2025 · SVGや画像素材と違い、CDN経由なら数分で最新バージョン「Font Awesome 7」の機能が導入でき、昨年は日本国内だけで10万件以上の新規導入実績がありました。 「アイコンが表示されない…」「無料と有料、どちらを選ぶべき？ 」と迷う声も多く聞きます。",
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-features-install-guide-beginner-free-pro-icon-use/",
+    "pass": 3
+   },
+   {
+    "quote": "レッドハット株式会社 会社案内 - Red Hat会社概要 | エーオン - Aon海外ネットワーク | グローバルネットワーク | 企業情報 | 信越化学工...Font Awesome アイコンフォント一覧 [Free (フリー) のみ] | JOHOBASE — レッドハット株式会社は、米国ノース・カロライナ州ラーレーに本社を置く米国 Red Hat LLC の日本法人です。オープンソース・ソリューションのプロバイダーとして世界をリードする Red Hat は、コミュニティとの協業により高い信頼性と性能を備える Linux、ハイブリッドクラウド、コンテナ ... エーオングループジャパン株式会社 （再保険仲立人） 損害再保険、生命再保険仲立業、保険会社・共済団体の経営上のリスクマネジメントに関するコンサルティング業務、それらに付帯する一切の業務（詳細はこちら） 所在地 〒100-00",
+    "url": "https://www.redhat.com/ja/explore/information/corporate-profile",
+    "pass": 3
+   },
+   {
+    "quote": "良くあるメニュー・アイキャッチのアイコンに使えそうなFontAwesomeの... — Jun 3, 2015 · たくさんのWEBアイコンフォントが使えるFontAwesomeですが、種類が豊富故に『あのアイコン使いたいけど名前なんだっけ・・・』ということも増えてきました。",
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "【Ver.4, Ver.5対応】Font Awesome アイコンを日本語で検索！クリック... — FontAwesomeのアイコンを日本語で検索！ 最新のバージョン5と旧バージョンのアイコンにも対応しています。 それぞれバージョンごとに検索出来るようにアップデートしました。",
+    "url": "https://webllica.com/search-font-awesome-icon-by-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "Font Awesome Free 日本語チートシートを作成しました — Mar 30, 2018 · こんにちはKirabaの堀口です。 仕事でFont Awesome Freeの日本語訳が必要だったので、ついでに日本語チートシートを作成しました。 FontAwesomeアイコンを探す時などにご利用ください。",
+    "url": "https://kiraba.jp/font-awesome-jp-lang-cheatsheet/",
+    "pass": 3
+   },
+   {
+    "quote": "fa-jpy: Font Awesome Icons — After you get up and running, you can place Font Awesome icons just about anywhere with the tag: Note: to improve web accessibility, we recommend using aria-hidden=\"true\" to hide icons used purely for decoration. Looking for more? Check out the examples.",
+    "url": "https://fontawesome.com/v4/icon/jpy",
+    "pass": 3
+   },
+   {
+    "quote": "Font Awesome — Use Font Awesome with any framework, any build system, or none at all. And with our agent skills, one command in your AI coding tool finds the right icon and writes it into your project, your way.",
+    "url": "https://fontawesome.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Font Awesome Revenue 2024: $1.5M Est. - getlatka.com — Oct 30, 2026 · Who is the CEO of Font Awesome? Dave Gandy is the CEO of Font Awesome and founded the company in 2014.",
+    "url": "https://getlatka.com/companies/fontawesome.com",
+    "pass": 3
+   },
+   {
+    "quote": "Font Awesome 2026 Company Profile: Valuation, Funding ...Font Awesome: Funding, Team & Investors | Startup IntrosFont Awesome – Industry Ranking & Company Valuation – 2026Font Awesome - 2026 Company Profile, Team, Funding ... - TracxnFont Awesome - Crunchbase Company Profile & FundingFont Awesome — Company Profile | The Company Check — Information on valuation, funding, cap tables, investors, and ",
+    "url": "https://pitchbook.com/profiles/company/101588-50",
+    "pass": 3
+   },
+   {
+    "quote": "Font Awesome: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Operating with a lean team of 17 employees and generating under $5 million in annual revenue, the platform maintains a massive library containing over 13,800 distinct vector icons.",
+    "url": "https://startupintros.com/orgs/font-awesome",
+    "pass": 3
+   },
+   {
+    "quote": "Font Awesome - 2026 Company Profile, Team, Funding ... - Tracxn — Mar 5, 2026 · Font Awesome is a seed company based in Bentonville (United States), founded in 2012 by Travis Chase and Dave Gandy. It operates as a Provider of cloud-based icon development toolkit.",
+    "url": "https://tracxn.com/d/companies/fontawesome/__O3u14PWDOD0urzqHbbIpY4n5IyWfuGzm2vK7BbwPTfs",
+    "pass": 3
+   },
+   {
+    "quote": "Font Awesome - Crunchbase Company Profile & Funding — Frequently Asked Questions Where is Font Awesome's headquarters? Font Awesome is located in Bentonville, Arkansas, United States. Who invested in Font Awesome? Font Awesome has 3 investors including Xfund and Y Combinator. When was the last funding round for Font Awesome? Font Awesome closed its last funding round on",
+    "url": "https://www.crunchbase.com/organization/font-awesome",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[MAWnt Lab Explanation #02] What is 'fontawesome' that you ... Nov 3, 2026 · \"So, what exactly is this fontawesome?\" had been stuck in the back of my mind... This time, when I looked into its true nature again, the dots connected perfectly, and I thought, \"Ah! So that's what that code was for!\" So, I would like to explain it as a way to organize my own knowledge!",
+    "url": "https://note.com/mawnt_lab/n/n7b148ed0e15d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[MAWnt Lab 해설 #02] 사이트에서 자주 보이는 'fontawesome'은 무엇... Nov 3, 2026 · '그런데 애초에 이 fontawesome은 뭐야?' 라는 의문이 계속 머릿속 한구석에 남아 있어서… 이번에 그 정체를 다시 조사해 본 결과, '아! 그때의 코드가 이것이었구나!' 하고 점과 점이 완벽하게 연결되었기에, 제 지식 정리 차원에서 해설해 보려고 합니다!",
+    "url": "https://note.com/mawnt_lab/n/n7b148ed0e15d?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "記事中のリンクに「アイコン」を添えるひと手間を（Font Awesome）｜w... Mar 3, 2024 · こんな便利なサービスがあるなんて・・・ Font Awesome Font Awesome The internet's icon library + toolkit. Used by millions of de fontawesome.com このサービスは、アイコン（ピクト）をまるで絵文字のように文中に配置できる優れものです。",
+    "url": "https://note.com/miratec/n/nc87a92b72c6a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "[MAWnt Lab Explanation #02] What is 'fontawesome' that you see on websites? Connecting the dots from the Donan Bus code analysis | MAWnt Lab｜MAWnt Lab",
+    "url": "https://note.com/mawnt_lab/n/n7b148ed0e15d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/mawnt_lab/n/n7b148ed0e15d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[MAWnt Lab Explanation #02] What is 'fontawesome' that you see on websites? Connecting the dots from the Donan Bus code analysis | MAWnt Lab",
+    "url": "https://note.com/mawnt_lab/n/n7b148ed0e15d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello! This is a researcher from MAWnt Lab!",
+    "url": "https://note.com/mawnt_lab/n/n7b148ed0e15d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Previously, I wrote an article analyzing the official website of the local infrastructure company, \"Donan Bus,\" using developer tools (F12).",
+    "url": "https://note.com/mawnt_lab/n/n7b148ed0e15d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The code introduced in this past article",
+    "url": "https://note.com/mawnt_lab/n/n7b148ed0e15d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Web Structure Analysis] Learning from the Donan Bus official page! Modern JavaScript loading (defer) and front-end design | MAWnt Lab",
+    "url": "https://note.com/mawnt_lab/n/n7b148ed0e15d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://note.com/mawnt_lab/n/ne125a67a7801",
+    "url": "https://note.com/mawnt_lab/n/n7b148ed0e15d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[MAWnt Lab 해설 #02] 사이트에서 자주 보이는 'fontawesome'은 무엇인가? 도난 버스 코드 분석으로 연결된 점과 점｜MAWnt Lab｜MAWnt Lab",
+    "url": "https://note.com/mawnt_lab/n/n7b148ed0e15d?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "AI로 자동 번역된 내용입니다. 번역의 정확도와 뉘앙스, 작성자의 의도가 완전히 반영되지 않을 수 있으니 유의해 주세요.",
+    "url": "https://note.com/mawnt_lab/n/n7b148ed0e15d?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "[MAWnt Lab 해설 #02] 사이트에서 자주 보이는 'fontawesome'은 무엇인가? 도난 버스 코드 분석으로 연결된 점과 점｜MAWnt Lab",
+    "url": "https://note.com/mawnt_lab/n/n7b148ed0e15d?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "안녕하세요! MAWnt Lab 연구원입니다!",
+    "url": "https://note.com/mawnt_lab/n/n7b148ed0e15d?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "이전에 지역 인프라 기업인 '도난 버스'의 공식 사이트를 개발자 도구(F12)로 분석한 기사를 쓴 적이 있습니다.",
+    "url": "https://note.com/mawnt_lab/n/n7b148ed0e15d?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "[웹 구조 분석] 도난 버스 공식 페이지에서 배우다! 현대 JavaScript 로딩(defer)과 프론트엔드 설계｜MAWnt Lab",
+    "url": "https://note.com/mawnt_lab/n/n7b148ed0e15d?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "https://note.com/mawnt_lab/n/ne125a67a7801",
+    "url": "https://note.com/mawnt_lab/n/n7b148ed0e15d?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright © MAWnt Lab since 2026",
+    "url": "https://note.com/mawnt_lab/n/n7b148ed0e15d?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "記事中のリンクに「アイコン」を添えるひと手間を（Font Awesome）｜web担@ミラテック",
+    "url": "https://note.com/miratec/n/nc87a92b72c6a",
+    "pass": 3
+   },
+   {
+    "quote": "記事中のリンクに「アイコン」を添えるひと手間を（Font Awesome）",
+    "url": "https://note.com/miratec/n/nc87a92b72c6a",
+    "pass": 3
+   },
+   {
+    "quote": "このサービスは、アイコン（ピクト）をまるで絵文字のように文中に配置できる優れものです。色もサイズも自在、さらにサイズはブラウザのフォントサイズの変更にも対応するし、まさにフォントそのものです。オーサム！お見事！",
+    "url": "https://note.com/miratec/n/nc87a92b72c6a",
+    "pass": 3
+   },
+   {
+    "quote": "他にも類似のサービスがいくつかあるようですけど、これらのサービスはずいぶん前からあったようなので、ここで記事にする\"今さら\"感はきっと強めですよね。。。",
+    "url": "https://note.com/miratec/n/nc87a92b72c6a",
+    "pass": 3
+   },
+   {
+    "quote": "その昔、絵文字風に<img>タグをインラインで使ってた記憶があったので、ai形式やeps形式のフリー素材を探していたら、たまたま検索にヒットしました。",
+    "url": "https://note.com/miratec/n/nc87a92b72c6a",
+    "pass": 3
+   },
+   {
+    "quote": "WordPressテーマ、大体aタグの装飾なし",
+    "url": "https://note.com/miratec/n/nc87a92b72c6a",
+    "pass": 3
+   },
+   {
+    "quote": "WordPressのテーマ（私が使っているテーマはすべて）では、デフォルトで<a>タグの装飾が無効化されています。デザインの一貫性のためとか、レスポンシブデザインへの対応のためだとか、いろいろと理由はあるのでしょうが、「:hover」で指定するテキストのわずかな色の変化だけではリンクであると気づいてもらえずスルーされる恐れが…",
+    "url": "https://note.com/miratec/n/nc87a92b72c6a",
+    "pass": 3
+   },
+   {
+    "quote": "「じゃあ下線なりなんなり分かりやすくすればイイじゃん？」というツッコミがきそうですが、テーマであえてそうしているものを修正するのは少し野暮な気がするのは私だけでしょうか（笑",
+    "url": "https://note.com/miratec/n/nc87a92b72c6a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Font Awesome (@fontawesome) / X There's a reason AI agents couldn't read our site: fontawesome.com is a JavaScript app. But your browser runs the JS. Most agents just grab the raw HTML, and for our license, plans, and changelog pages, that HTML was about 20KB of code and zero sentences.",
+    "url": "https://x.com/fontawesome",
+    "pass": 3
+   },
+   {
+    "quote": "#PodcastAwesome - Search / X This week on Podcast Awesome, we dig into the weird legacy of Microsoft’s most notorious UI assistant: 🧷 Clippy. 🎧 Full ep → youtu.be/sXuFnrPOkuc #PodcastAwesome #UXHistory #ClippyCult #DesignHumor The Rise of the Clippy Cult – The Paperclip That Wouldn’t Quit | Podcast Awesome From youtube.com 1 1 997 Font Awesome @fontawesome ...",
+    "url": "https://x.com/hashtag/PodcastAwesome?f=live",
+    "pass": 3
+   },
+   {
+    "quote": "Shoelace (@shoelace_style) / Posts / X ⏳ The wait is over! Something fresh is coming off the grill, and it’s about to be served. 🍽️Don’t miss out—we go live in 3 hours. 🔗 Watch here: fontawesome.com 💬 0 🔄 1 🤍 5",
+    "url": "https://x.com/shoelace_style",
+    "pass": 3
+   },
+   {
+    "quote": "Sameh Nassar on X: \"https://t.co/aumCPGoipE is now fully ... Ghostools.com is now fully ready to receive users. Just now I am trying to solve the problem of icons from the \"Fontawesome\" The idea here is that I can't find a suitable icon for Gemini and I don't want to use the svg, so any suggestions?",
+    "url": "https://x.com/siynrr/status/2107161615015571654",
+    "pass": 3
+   },
+   {
+    "quote": "\"#FontAwesome\" - Results on X | Live Posts & Updates Results for \"#FontAwesome\" on X (Twitter). Find the latest posts, discussions, and updates about #FontAwesome. 19 results found.",
+    "url": "https://x.com/hashtag/FontAwesome",
+    "pass": 3
+   },
+   {
+    "quote": "Font Awesome (@fontawesome) / X Part 2 is coming next week... but first: Catch up with Josh Williams as we talk about Mosaic, his commissioned Font Awesome Pro+ icon pack, how it came together, and why “green fields” create the best design work.",
+    "url": "https://x.com/fontawesome",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Font Awesome - LinkedIn Font Awesome | 988 followers on LinkedIn. Get vector icons and social logos on your website with Font Awesome, the web’s most popular icon set and toolkit.",
+    "url": "https://www.linkedin.com/company/fontawesome",
+    "pass": 3
+   },
+   {
+    "quote": "Dave Gandy - Font Awesome | LinkedInCómo Font Awesome mejora el diseño de aplicaciones webPourquoi et comment utiliser Font Awesome dans son site web ?Como o Font Awesome melhora o design de aplicativos WebKarl Gabriel Garcia - meldCX | LinkedInHow Font Awesome Enhances Web Application Design - LinkedIn Experience: Font Awesome · Education: Massachusetts Institute of Technology · Location: Bentonv",
+    "url": "https://www.linkedin.com/in/davegandy",
+    "pass": 3
+   },
+   {
+    "quote": "Pourquoi et comment utiliser Font Awesome dans son site web ? Apprenez à installer et à utiliser la police de caractère Font Awesome dans votre site et comparez les avantages et les inconvénients d'une telle méthode.",
+    "url": "https://fr.linkedin.com/learning/design-et-integration-web-serie/pourquoi-et-comment-utiliser-font-awesome-dans-son-site-web",
+    "pass": 3
+   },
+   {
+    "quote": "Karl Gabriel Garcia - meldCX | LinkedIn Current Focus: ReactJS Node GraphQL REST Fundamentals HTML,CSS,JS Bootstrap FontAwesome -- Experiences -- Web Dev: PHP (Laravel) VueJS AngularJS JavaEE (AEM) Software Dev JavaSE (Softwares) Electron Game Dev: Unity game developement Adobe: AEM (CMS) After Effects Premiere Photoshop Databases: MySQL MySQLi Postgres NoSQL (MongoDB) OPEN FOR OFFERS Contact me a",
+    "url": "https://ph.linkedin.com/in/karlgabrielgarcia",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Font Awesome - FacebookFort Awesome - FacebookUse Fontawesome in React - FacebookFont Awesome Icon Sizes How to Use - Facebook77 Mostrar Roles de Usuario en la Interfaz: Personalización ...CSS Font Awesome icon Color and Size #csstutorial - FacebookCreative Media Development Club | Font Awesome - one of the ... Oct 8, 2026 · Have you ever worked really hard on something and gotten almost nothing b",
+    "url": "https://www.facebook.com/fontawesome/",
+    "pass": 3
+   },
+   {
+    "quote": "Fort Awesome - FacebookUse Fontawesome in React - FacebookFont Awesome Icon Sizes How to Use - Facebook77 Mostrar Roles de Usuario en la Interfaz: Personalización ...CSS Font Awesome icon Color and Size #csstutorial - FacebookCreative Media Development Club | Font Awesome - one of the ... Oct 24, 2016 · We’ve learned a few things since creating Font Awe... Missing an icon? Want to add you logo? Fo",
+    "url": "https://www.facebook.com/getfortawesome/",
+    "pass": 3
+   },
+   {
+    "quote": "Use Fontawesome in React - Facebook For React web apps, install @fortawesome/react-fontawesome via npm and import icons directly. For React Native, use react-native-vector-icons instead of...",
+    "url": "https://www.facebook.com/fb-answers/use-fontawesome-in-react/",
+    "pass": 3
+   },
+   {
+    "quote": "CSS Font Awesome icon Color and Size #csstutorial - Facebook CSS Font Awesome icon Color and Size #csstutorial #fontawesome #coding Code Editor: https://mrdigitals.com/code-editor/ Copy Code:...",
+    "url": "https://www.facebook.com/mrdigitalsweb/videos/css-font-awesome-icon-color-and-size-csstutorial-fontawesome-codingcode-editorht/1562542552218004/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://fontawesome.com/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://qiita.com/Yu-8chan/items/d0141011bfcc68b03b31",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tekuedit-design.com/font-awesome-method/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.urhoba.net/ja/post/font-awesome",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redhat.com/ja/explore/information/corporate-profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jll.com/ja-jp/about-jll/japan-information",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webllica.com/search-font-awesome-icon-by-japanese/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kiraba.jp/font-awesome-jp-lang-cheatsheet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/fontawesome.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/101588-50",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/font-awesome",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/fontawesome/__O3u14PWDOD0urzqHbbIpY4n5IyWfuGzm2vK7BbwPTfs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/mawnt_lab/n/n7b148ed0e15d?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mawnt_lab/n/n7b148ed0e15d?hl=ko",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/miratec/n/nc87a92b72c6a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/fontawesome",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/PodcastAwesome?f=live",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/shoelace_style",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/siynrr/status/2107161615015571654",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/fontawesome",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/davegandy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/learning/design-et-integration-web-serie/pourquoi-et-comment-utiliser-font-awesome-dans-son-site-web",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ph.linkedin.com/in/karlgabrielgarcia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fontawesome/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/getfortawesome/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/use-fontawesome-in-react/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mrdigitalsweb/videos/css-font-awesome-icon-color-and-size-csstutorial-fontawesome-codingcode-editorht/1562542552218004/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/FontAwesome",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fontawesome",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Fontawesome 日本 導入",
+   "results": [
+    "https://qiita.com/Yu-8chan/items/d0141011bfcc68b03b31",
+    "https://tekuedit-design.com/font-awesome-method/",
+    "https://www.urhoba.net/ja/post/font-awesome",
+    "https://lifestyle.assist-all.co.jp/font-awesome-installation-usage-guide-2025/",
+    "https://lifestyle.assist-all.co.jp/font-awesome-features-install-guide-beginner-free-pro-icon-use/",
+    "https://cuba-study.com/fontawesome/",
+    "https://qiita.com/oreo3/items/08a350520a1f0eaf6e42"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fontawesome 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.redhat.com/ja/explore/information/corporate-profile",
+    "https://www.jll.com/ja-jp/about-jll/japan-information",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://johobase.com/font-awesome-icon-font-list-free/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fontawesome Japan",
+   "results": [
+    "https://website-homepage.com/web-design/tips/font-awesome-japanese/",
+    "https://webllica.com/search-font-awesome-icon-by-japanese/",
+    "https://kiraba.jp/font-awesome-jp-lang-cheatsheet/",
+    "https://fontawesome.com/v4/icon/jpy",
+    "https://fontawesome.com/",
+    "https://saruwakakun.com/html-css/basic/font-awesome",
+    "https://alfa-tools.net/fontawesome/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fontawesome manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Fontawesome white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://connect.redhat.com/en/partner-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fontawesome founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/fontawesome.com",
+    "https://pitchbook.com/profiles/company/101588-50",
+    "https://startupintros.com/orgs/font-awesome",
+    "https://tracxn.com/d/companies/fontawesome/__O3u14PWDOD0urzqHbbIpY4n5IyWfuGzm2vK7BbwPTfs",
+    "https://www.crunchbase.com/organization/font-awesome",
+    "https://compworth.com/company/font-awesome",
+    "https://www.thecompanycheck.com/company/b/font-awesome/qxpntvxg0mo0gm5r3"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Fontawesome",
+   "results": [
+    "https://note.com/mawnt_lab/n/n7b148ed0e15d?hl=en",
+    "https://note.com/mawnt_lab/n/n7b148ed0e15d?hl=ko",
+    "https://note.com/miratec/n/nc87a92b72c6a",
+    "https://note.com/maclove/n/n3c20fbd2037d?hl=en",
+    "https://note.com/eiji71/n/n65dc33e9b962",
+    "https://note.com/jinbunxshakai/n/n17af76272ba2",
+    "https://note.com/glossy_thyme6064/n/n5dce3a719246"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Fontawesome",
+   "results": [
+    "https://x.com/fontawesome",
+    "https://x.com/hashtag/PodcastAwesome?f=live",
+    "https://x.com/shoelace_style",
+    "https://x.com/siynrr/status/2107161615015571654",
+    "https://x.com/davegandy",
+    "https://x.com/supercodepoet",
+    "https://x.com/ztarhaven/status/2120258525486022856"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Fontawesome",
+   "results": [
+    "https://www.linkedin.com/company/fontawesome",
+    "https://www.linkedin.com/in/davegandy",
+    "https://fr.linkedin.com/learning/design-et-integration-web-serie/pourquoi-et-comment-utiliser-font-awesome-dans-son-site-web",
+    "https://ph.linkedin.com/in/karlgabrielgarcia",
+    "https://pt.linkedin.com/advice/0/how-can-you-use-font-awesome-enhance-web-application-s4n5c?lang=pt",
+    "https://www.linkedin.com/advice/0/how-can-you-use-font-awesome-enhance-web-application-s4n5c",
+    "https://es.linkedin.com/advice/0/how-can-you-use-font-awesome-enhance-web-application-s4n5c?lang=es"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Fontawesome",
+   "results": [
+    "https://www.facebook.com/fontawesome/",
+    "https://www.facebook.com/getfortawesome/",
+    "https://www.facebook.com/fb-answers/use-fontawesome-in-react/",
+    "https://www.facebook.com/mrdigitalsweb/videos/css-font-awesome-icon-color-and-size-csstutorial-fontawesome-codingcode-editorht/1562542552218004/",
+    "https://www.facebook.com/fb-answers/font-awesome-icon-sizes-how-to-use/",
+    "https://www.facebook.com/hilariweb/videos/77-mostrar-roles-de-usuario-en-la-interfaz-personalización-con-flux-ui-y-fontawe/1069122305938939/",
+    "https://www.facebook.com/groups/214488685394427/posts/433075780202382/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fontawesome note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://fontawesome.com/icons/classic/solid/note",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://comemo.nikkei.com/n/n20e339a81773",
+    "https://fontawesome.com/",
+    "https://note.com/jinbunxshakai/n/n17af76272ba2"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fontawesome X 投稿",
+   "results": [
+    "https://x.com/hashtag/FontAwesome",
+    "https://fontawesome.com.cn/",
+    "https://x.com/fontawesome",
+    "https://fontawesome.com/",
+    "https://qiita.com/mindwood/items/0e8f33739e65e258bc8a",
+    "https://fontawesome.com/v5/icons",
+    "https://lightning-free.hp1.work/font-awesome-icon-twitter-to-x/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

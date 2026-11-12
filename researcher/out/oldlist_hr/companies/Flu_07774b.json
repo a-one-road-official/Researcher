@@ -1,0 +1,1466 @@
+{
+ "name": "Flu",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-12T00:01:12.421363+00:00",
+ "official_url": "https://flu.ke/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "\"Grundzüge der praktischen Medizin\"",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "(Press release). Cochrane Collaboration",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "“A 'small-world-like' model for comparing interventions aimed at preventing and controlling influenza pandemics”",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "“The spread of influenza and other respiratory viruses: complexities and conjectures”",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "(April 2007).",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "“Characterization of infectious aerosols in health care facilities: an aid to effective engineering controls and preventive strategies”.",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "Influenza: Vaccination Still the Best Protection",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "“Randomized trial of vitamin D supplementation to prevent seasonal influenza A in schoolchildren”.",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "Vaccines for preventing influenza in healthy children.",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "Madhi SA et al. Influenza vaccination of pregnant women and protection of their infants. N Engl J Med 2014 Sep 4; 371:918.,",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "Advisory Committee on Immunization Practices; Smith NM, et al. \"Prevention and Control of Influenza: recommendations of the Advisory Committee on Immunization Practices (ACIP).\"",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "Nasal Flu Vaccine Approved",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "EBM Reviews - ACP Journal Club An intranasal influenza vaccine for the prevention of influenza in healthy children was cost-effective",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "v136 (2): 75, March/April, 2002.",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "Ohmit SE et al. \"Prevention of antigenically drifted influenza by inactivated and live attenuated vaccines.\"",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "“Neuraminidase inhibitors for preventing and treating influenza in healthy adults and children”",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "“Antivirals for post-exposure prophylaxis of influenza: a systematic review and network meta-analysis.”",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.globalpointofcare.abbott/jp/ja/product-details/id-now-influenza-ab-2.html",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "Chartrand C，Leeflang MM，Minion J，et al．Accuracy of rapid influenza diagnostic tests：a meta-analysis．Ann Intern Med．2012 Apr 3；156(7)：500-11",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.kansensho.or.jp/uploads/files/news/gakkai/gakkai_oseltamivir_250114.pdf",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "Centers for Disease Control and Prevention",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "Influenza (prophylaxis) - amantadine, oseltamivir and zanamivir (TA158)",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "ソース: Dr. Erskine Palmer, Centers for Disease Control and Prevention Public Health Image Library",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "en:Global spread of H5N1",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "ProMED日本語20040128-0080",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "‘Not a surprise’: what’s behind Australia’s egg shortage, and is it here to stay?",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "HPAI: Global spread and mammal infections",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "'Unprecedented': How bird flu became an animal pandemic",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "Big Ag, Not Wild Birds, Is What Really Spreads Avian Flu",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "Avian flu and intensive poultry production: an unsustainable model according to a report conducted in Spain",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "Prepare for a bird flu pandemic now, virologists urge",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "European Centre for Disease Prevention and Control, Solna, Sweden 2024-WCP-0023 Draft.docx",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "Avian flu has infected dairy cows in more than a dozen states – a microbiologist explains how the virus is spreading",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "Study identifies wind as likely culprit behind HPAI spread",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "Readout of CDC/ASTHO/CSTE/APHL Call Regarding Avian Influenza Preparedness",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "Dec 18, 2024 Governor Newsom takes proactive action to strengthen robust state response to Bird Flu",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "EPA’s Registered Antimicrobial Products Effective Against Avian Influenza [List M",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "Anodic production of hydrogen peroxide using commercial carbon materials, Applied Catalysis B: Environmental, Volume 303, April 2022, 120848,",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "https://eprints.soton.ac.uk/432497/",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.cidrap.umn.edu/avian-influenza-bird-flu/los-angeles-cat-h5n1-deaths-prompt-new-warning-about-raw-pet-food",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "Los Angeles cat H5N1 deaths prompt new warning about raw pet food",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "(671-Apr): 2–6.",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "10.57546/livestocktechnology.2011.671-Apr_2",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.jstage.jst.go.jp/article/livestocktechnology/2011/671-Apr/2011_2/_article/-char/ja/",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "Avian influenza vaccination doesn’t fully protect French ducks",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "AMID BIRD FLU OUTBREAK, MEAT PRODUCERS SEEK “VENTILATION SHUTDOWN” FOR MASS CHICKEN KILLING",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "The 2009 swine flu pandemic in Japan encompassed the nation's outbreak of the novel influenza A(H1N1)pdm09 virus, which originated globally in April 2009 and first appeared domestically on May 16, 2009, initially among high school students returning from overseas travel.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "The virus spread rapidly through schools and communities, primarily affecting younger individuals with predominantly mild respiratory symptoms, yielding a notably low case fatality rate compared to historical pandemics.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "Over 12,700 hospitalizations were recorded during peak surveillance, with 110 fatalities among them, underscoring limited excess mortality despite widespread circulation.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "Overall, the episode highlighted causal efficacy of proactive, data-driven interventions in mitigating a novel respiratory pathogen's impact in a high-density setting.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "Initial Detection and Spread",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "The subsequent first domestic case, without overseas travel history, was confirmed on May 16, 2009, in a high school student in Kobe, Hyogo Prefecture, indicating early community transmission within Japan.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "Initial transmission chains rapidly involved school settings, with an outbreak reported in a high school in Osaka Prefecture starting May 11, 2009, where two students were the index cases, followed by secondary spread among classmates through close-contact person-to-person transmission in classrooms and extracurricular activities.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "By the end of May 2009, confirmed cases exceeded several dozen, primarily in western Japan including Hyogo and Osaka prefectures, with genetic analyses of early isolates showing close relatedness to imported strains but evidence of local evolution and containment challenges in contained environments like universities and schools.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "The estimated number of symptomatic infections from pandemic H1N1 influenza in Japan reached approximately 15 million between May 2009 and March 2010, based on sentinel surveillance data extrapolating from reported influenza-like illness (ILI) cases.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "Around 127,000 ILI cases were reported through sentinel systems by late 2009, but laboratory-confirmed infections numbered in the thousands due to restrictive testing policies prioritizing severe cases, resulting in official confirmed infections far below actual prevalence.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "Confirmed deaths numbered 200 by the end of the outbreak period, with 85 reported by mid-December 2009 alone, primarily attributed to complications like pneumonia and encephalopathy in hospitalized patients.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "Regional distribution reflected population density and early importation foci, with initial clusters in Kansai prefectures (e.g., Osaka and Hyogo) from May-June 2009, followed by rapid spread to Kanto urban centers like Tokyo, where higher case volumes were recorded due to commuting and school-based transmission.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "The 2009 H1N1 influenza pandemic in Japan resulted in 85 laboratory-confirmed deaths by mid-December 2009, amid widespread outbreaks but with a notably low case fatality rate of approximately 0.07% based on reported infections.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "Hospitalization patterns for H1N1 deviated from seasonal influenza norms, with excess admissions concentrated among persons under 20 years old, who faced higher relative risk compared to older groups lacking prior exposure to similar strains.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本などの温帯では、",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "や筋肉注射であるが、日本・米国では鼻噴霧式のものも認可されている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるワクチンの接種費用は3000〜6000円程度が多い",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、インフルエンザウイルスのA型およびB型株をそれぞれ個別に発育鶏卵（鶏の受精卵）で培養し、増殖したウイルスを含む尿膜腔液をゾーナル遠心機による蔗糖密度勾配遠心法により濃縮精製後、ウイルス粒子をエーテル等により処理して分解、",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "かつては日本でも学校で集団接種が行われていたが、鶏卵アレルギーの問題のため現在は任意となっている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "予防薬としての処方は、日本では",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "(NICE)ならびに、2012年の日本感染症学会の",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "（日本未発売）を使用しないように勧告を行った",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "日本感染症学会のガイドラインでは、48時間を経過した患者についても、既に軽快傾向である場合を除いて、積極的投与を検討するとしている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "開発、日本では",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "以下の通り一部の漢方薬には、日本においてインフルエンザ（あるいは流感）の適用を承認されているものがある",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "肺炎合併率は、1970年台から1980年台の日本の調査で、小児で数%、高齢者で25%程度という結果があるが、調査方法による母集団の選び方や生活環境・治療方法の変化など、数値の変動要因は多いので注意が必要である",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "日本では毎年、人口の5%から15%がインフルエンザに感染して医療機関を受診する",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "また日本でのインフルエンザの死亡者の8から9割は高齢者が占める",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "日本語では「インフルエンザ」の表記が定着しているが、イタリア語での発音は「インフルエンツァ」が近い",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "おそらく元をたどれば渡り鳥由来とみられるが何らかの経路で、しばしばニワトリに鳥インフルエンザが発生することが日本でも観察される",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、2007年1月に",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "日本の学校保健安全法施行規則では発症した後5日を経過し、かつ、解熱した後2日（幼児は、3日）を経過するまで",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "」『ウイルス』第67巻 第2号、日本ウイルス学会、2017年、161-170頁",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "日本感染症学会提言2012 インフルエンザ病院内感染対策の考え方について（高齢者施設を含めて）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "』（レポート）、日本感染症学会、2012年",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "日本感染症学会 2009",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "日本東洋医学雑誌 2013年 64巻 5号 p.289-302,",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "10.11453/orltokyo.61.2_115",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "日本東洋医学雑誌 Vol.62 (2011) No.4 P.556-558,",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "日本における鳥インフルエンザサブセクションを切り替えます",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "2022年、日本でNHKの動物番組取材班が北海道で偶然カラスやオジロワシが地上に墜ちているという異変が続くことに気づき、調査の結果、H5N1の感染によるものであることが確認されている",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "鳥用ワクチンが開発されており、日本国内でも備蓄されている",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "しかし日本では、殺処分と移動制限だけでは感染拡大防止が困難である時に限って鳥インフルエンザワクチンの使用が認められ、予防のための使用は認められていない",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "日本では2005年（平成17年）から、オセルタミビルを国内発生初期の封じ込め用に300万人分、治療用に2500万人分備蓄している",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "ProMED日本語20040128-0080",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "韓国の鳥インフルエンザウイルスは地理的に渡り鳥を介して日本に侵入する可能性が高く、日本国内の養鶏場や家畜保健衛生所は警戒を強めている",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "によって、日本国内への上陸が拒否される",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "2005年の鳥インフルエンザ世界的な広がりを受けて、日本政府は鳥インフルエンザ対策省庁会議を設けている",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内で鳥インフルエンザが発生した場合、農水省が",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "これは日本独自の防疫手法で、ウイルス発生の疑いの段階で、処分・移動停止・畜舎や運送車の消毒が、",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "2000年日本における口蹄疫",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "農家で、日本では初となるH7亜型ウイルスが確認された",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "2009年（平成21年）4月、日本獣医学会において、国内では",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "東京大学医科学研究所は個体間の感染ではなく、感染した鳥の死骸を食べて感染した可能性が高いことを指摘している",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "2022年秋から2023年、日本全国に鳥インフルエンザが流行し、1600万羽超の鶏が殺処分となった",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "日本と中国で鳥インフルエンザが流行したため相互に鳥の",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "の弊害を避けるため予定していた日本と中国での",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "にトキ4羽（2つがい）が東京の",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "1924年：日本 HPAI（H7N7型）",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "その他、日本国内で1996年9月と12月に低病原性タイプと疑わしい事例が発生したが、ウイルスの分離特定はできなかった（H3型としている情報もある）",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "2004年1月、日本・",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "2004年3月16日、日本政府、総合対策を発表",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "、日本の農水省、イギリスからの家きん・家きん肉等の輸入一時停止措置",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "の採卵用ウズラ飼養農場の定期検査で、高病原性のものとしては日本では初となるH7型が検出",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "2009 swine flu pandemic in Japan — Grokipedia",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "The 2009 swine flu pandemic in Japan encompassed the nation's outbreak of the novel influenza A(H1N1)pdm09 virus, which originated globally in April 2009 and first appeared domestically on May 16, 2009, initially among high school students returning from overseas travel.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese public health authorities responded with aggressive non-pharmaceutical measures, including mandatory quarantines at borders and ports to screen inbound travelers, which curbed initial importation.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "The first laboratory-confirmed cases of pandemic (H1N1) 2009 influenza in Japan were identified on May 9, 2009, involving three Japanese men detected through quarantine screening at Narita International Airport; these individuals had returned from travel abroad, marking the initial importation of the virus via international air travel.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "The subsequent first domestic case, without overseas travel history, was confirmed on May 16, 2009, in a high school student in Kobe, Hyogo Prefecture, indicating early community transmission within Japan.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "Initial transmission chains rapidly involved school settings, with an outbreak reported in a high school in Osaka Prefecture starting May 11, 2009, where two students were the index cases, followed by secondary spread among classmates through close-contact person-to-person transmission in classrooms and extracurricular activities.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "By the end of May 2009, confirmed cases exceeded several dozen, primarily in western Japan including Hyogo and Osaka prefectures, with genetic analyses of early isolates showing close relatedness to imported strains but evidence of local evolution and containment challenges in contained environments like universities and schools.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "The estimated number of symptomatic infections from pandemic H1N1 influenza in Japan reached approximately 15 million between May 2009 and March 2010, based on sentinel surveillance data extrapolating from reported influenza-like illness (ILI) cases.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "Regional distribution reflected population density and early importation foci, with initial clusters in Kansai prefectures (e.g., Osaka and Hyogo) from May-June 2009, followed by rapid spread to Kanto urban centers like Tokyo, where higher case volumes were recorded due to commuting and school-based transmission.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "The 2009 H1N1 influenza pandemic in Japan resulted in 85 laboratory-confirmed deaths by mid-December 2009, amid widespread outbreaks but with a notably low case fatality rate of approximately 0.07% based on reported infections.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Carrat F, Luong J, Lao H, Sallé A, Lajaunie C, Wackernagel H",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "Bird flu has been evolving and migrating for 30 years. It is a far more deadly virus that has now arrived in Australia",
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "Children under 20 accounted for a subset of cases involving severe outcomes like cardiopulmonary arrest, often linked to neurological complications.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "From April 28 to June 18, 2009, approximately 441,041 passengers and 30,692 crew members arriving on 1,903 flights were screened, with 805 undergoing rapid tests.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "Quarantine procedures isolated febrile or symptomatic arrivals pending test results, though empirical data revealed limited detection of infections.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "The sensitivity of fever-based screening was low at 22.2% (using an 38.0°C cutoff), as many cases were asymptomatic, pre-symptomatic, or masked by antipyretic medications taken prior to arrival (affecting 55.6% of confirmed cases).",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "Subsequent evaluations confirmed that border controls delayed but did not prevent local outbreaks, given the virus's capacity for undetected spread among non-febrile carriers.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "The Ministry of Health, Labour and Welfare (MHLW) established guidelines prioritizing antiviral administration to high-risk groups, including individuals with underlying conditions such as diabetes or asthma, and those at elevated risk for severe disease, as part of a proactive national strategy initiated in May 2009 to mitigate spread and severity.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "Safety profiles from postmarketing surveillance indicated low rates of serious adverse events. In over 1 million doses administered by early 2010, no concerning patterns emerged, including no excess risk of Guillain–Barré syndrome or other neurological disorders beyond background rates.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "The tourism sector faced acute pressure, with inbound visitors declining amid the outbreak, strong yen, and global recession; foreign arrivals totaled 6.79 million in 2009, partly attributable to swine flu fears prompting event cancellations and flight adjustments.",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "If you’re arriving in Japan in October or November and you haven’t had your annual flu",
+    "url": "https://japan-international-tokyo.com/en/guides/flu-season-japan-tourist/",
+    "pass": 3
+   },
+   {
+    "quote": "If you come to us with flu-like symptoms, we’ll run the test as part of your consultation. A confirmed result means a confirmed diagnosis — and faster, more targeted treatment.",
+    "url": "https://japan-international-tokyo.com/en/guides/flu-season-japan-tourist/",
+    "pass": 3
+   },
+   {
+    "quote": "The honest answer is: you cannot reliably self-diagnose the difference, and you shouldn’t try. Both flu and COVID require different treatments, and both carry risks of complications if left unmanaged.",
+    "url": "https://japan-international-tokyo.com/en/guides/flu-season-japan-tourist/",
+    "pass": 3
+   },
+   {
+    "quote": "At Japan International Clinic ASAKUSA, we can test for both influenza and COVID-19 in a single visit. Combined rapid antigen tests are available, so you can have clarity on both within 15–20 minutes of arriving.",
+    "url": "https://japan-international-tokyo.com/en/guides/flu-season-japan-tourist/",
+    "pass": 3
+   },
+   {
+    "quote": "— shinkansen carriages, busy shrines on New Year’s, and indoor markets are all high-traffic environments.",
+    "url": "https://japan-international-tokyo.com/en/guides/flu-season-japan-tourist/",
+    "pass": 3
+   },
+   {
+    "quote": "Man arrested over operation of rogue cellular base station in Tokyo",
+    "url": "https://www.japantimes.co.jp/tag/flu/",
+    "pass": 3
+   },
+   {
+    "quote": "Man arrested over theft of watch that was returned days later to Tokyo mall",
+    "url": "https://www.japantimes.co.jp/tag/flu/",
+    "pass": 3
+   },
+   {
+    "quote": "Families Fighting Flu Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/families-fighting-flu-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Families Fighting Flu Revenue",
+    "url": "https://prospeo.io/c/families-fighting-flu-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Families Fighting Flu",
+    "url": "https://prospeo.io/c/families-fighting-flu-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/families-fighting-flu-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/families-fighting-flu-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Families Fighting Flu?",
+    "url": "https://prospeo.io/c/families-fighting-flu-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Families Fighting Flu generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/families-fighting-flu-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/families-fighting-flu-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/families-fighting-flu-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Families Fighting Flu have?",
+    "url": "https://prospeo.io/c/families-fighting-flu-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/families-fighting-flu-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Flu Lab Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/flu-lab-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Flu Lab",
+    "url": "https://prospeo.io/c/flu-lab-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/flu-lab-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/flu-lab-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/flu-lab-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Flu Lab?",
+    "url": "https://prospeo.io/c/flu-lab-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Flu Lab generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/flu-lab-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/flu-lab-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/flu-lab-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Flu Lab have?",
+    "url": "https://prospeo.io/c/flu-lab-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/flu-lab-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "4. What employees are concerned about: \"How many days should I take off?\"",
+    "url": "https://note.com/biz_hack_master/n/n415d55b45c74?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "So, what about company employees?",
+    "url": "https://note.com/biz_hack_master/n/n415d55b45c74?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For company employees, there is no uniform national standard for the number of days off from work as there is for schools.",
+    "url": "https://note.com/biz_hack_master/n/n415d55b45c74?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", and considering how immunity is acquired,",
+    "url": "https://note.com/coli7901/n/n30dbf2410ac4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Persistent vomiting or diarrhea",
+    "url": "https://note.com/coli7901/n/n30dbf2410ac4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When I arrive, I stand in front of the sensor-based thermometer that's been there since the COVID days, show my forehead, and have my temperature taken.",
+    "url": "https://note.com/sawakosawsaw/n/ne54ca4e2f6bb?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "4,121,000+Flu Tef Wires 日本 代理店 Jobs in United States — Sep 16, 2026 · Today's top 4,121,000+ Flu Tef Wires 日本 代理店 jobs in United States. Leverage your professional network, and get hired. New Flu Tef Wires 日本 代理店 jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/flu-tef-wires-日本-代理店-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "2009 swine flu pandemic in Japan — The 2009 swine flu pandemic in Japan encompassed the nation's outbreak of the novel influenza A(H1N1)pdm09 virus, which originated globally in April 2009 and first appeared domestically on May 16, 2009, initially among high school students returning…",
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "pass": 3
+   },
+   {
+    "quote": "Flu Season in Japan: Vaccination, Treatment, and What ... — Mar 31, 2026 · Flu season in Japan runs December to March. Vaccination, the 15-minute rapid test, Tamiflu and Xofluza, and how to tell flu from COVID.",
+    "url": "https://japan-international-tokyo.com/en/guides/flu-season-japan-tourist/",
+    "pass": 3
+   },
+   {
+    "quote": "Tag - The Japan Times — Per-institution new flu cases in Japan came to 23.93 in the week to Feb. 11, up for the fifth straight week. Amid an earlier-than-usual start of the flu season, a type of flu medicine for...",
+    "url": "https://www.japantimes.co.jp/tag/flu/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan hit by nationwide flu outbreak - The Japan Times — Oct 2, 2026 · The average number of influenza patients per monitored medical institution has exceeded 1.0 in all 47 prefectures in Japan, signaling a nationwide flu outbreak, a health ministry announcement...",
+    "url": "https://www.japantimes.co.jp/news/2026/10/02/japan/science-health/japan-flu-outbreak/",
+    "pass": 3
+   },
+   {
+    "quote": "Families Fighting Flu Revenue, Funding & Valuation — Families Fighting Flu is more than just a name – it’s who we are and what we do. We are a nonprofit advocacy organization dedicated to protecting children, families, and communities against the flu.",
+    "url": "https://prospeo.io/c/families-fighting-flu-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Flo - 2026 Company Profile, Team, Funding, Competitors ...Flu Lab Revenue, Funding & Valuation - prospeo.iofounded – Overview – Funding, Revenue & Growth – 2026Flo Health Revenue 2025: $157.6M Est., $275.5M RaisedFluorDriver – Funding, Acquisitions & Key Rivals – 2026FlutterFlow - Crunchbase Company Profile & Funding — Oct 21, 2026 · Flo has raised $269M in funding from investors like Flint Capita",
+    "url": "https://tracxn.com/d/companies/flo/__b-Vge9aGn0bLiDLykh539TAM-B6Nac2FF83KA9F2rRs",
+    "pass": 3
+   },
+   {
+    "quote": "Flu Lab Revenue, Funding & Valuation - prospeo.io — Flu Lab supports organizations and leaders that share our sense of urgency for new ideas and action and are willing to explore and experiment. We evaluate prospective grants and investments based on their potential to create actionable knowledge and advance solutions to pressing influenza challenges.",
+    "url": "https://prospeo.io/c/flu-lab-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/families-fighting-flu-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/flu-lab-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[Free] [Flu vs. COVID] October 2026: Which one is spreading ... Oct 21, 2026 · [Free] [Flu vs. COVID] October 2026: Which one is spreading now? A comparison using the latest data! Explaining everything from symptoms and days off to prevention methods.",
+    "url": "https://note.com/biz_hack_master/n/n415d55b45c74?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Is it too late for a flu shot? A pharmacist answers 5 common ... Hello. I am a pharmacist working at a pharmacy.Recently, I often hear these comments at the pharmacy counter.Is it true that the flu is already spreading?I haven't had my vaccination yet, but is there any point in getting it now?To put it simply, it is not too late even now. In fact, if you are",
+    "url": "https://note.com/coli7901/n/n30dbf2410ac4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Getting the Flu Vaccine: A Shot of Trust and Peace of Mind Maybe I should write a normal essay for once... That's not true. I'm always writing with all my might. But I can't help but feel like a string of strange stories has been going on. _________ The end of October. I went to get my flu vaccine earlier than usual, as I typically get it in November. H",
+    "url": "https://note.com/sawakosawsaw/n/ne54ca4e2f6bb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "FLU.｜BRAND × CAREER × AESTHETIC｜note Mar 17, 2026 · FLU.｜BRAND × CAREER × AESTHETIC ブランドとキャリアの観察記録。 ときめく世界観と、そこにある仕事を記録しています。 香りの TOP / MIDDLE / LAST のように、ブランドの余韻を味わいたい。 ※個人視点による観察メモです。",
+    "url": "https://note.com/flu_notes",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "[Free] [Flu vs. COVID] October 2026: Which one is spreading now? A comparison using the latest data! Explaining everything from symptoms and days off to prevention methods.｜ビジハックマスター｜会社員の「壁」攻略本",
+    "url": "https://note.com/biz_hack_master/n/n415d55b45c74?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/biz_hack_master/n/n415d55b45c74?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Free] [Flu vs. COVID] October 2026: Which one is spreading now? A comparison using the latest data! Explaining everything from symptoms and days off to prevention methods.",
+    "url": "https://note.com/biz_hack_master/n/n415d55b45c74?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"I heard the flu is going around.\"",
+    "url": "https://note.com/biz_hack_master/n/n415d55b45c74?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"But isn't COVID still spreading too?\"",
+    "url": "https://note.com/biz_hack_master/n/n415d55b45c74?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Have you been wondering about that lately?",
+    "url": "https://note.com/biz_hack_master/n/n415d55b45c74?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Good morning. This is BizHack Master.",
+    "url": "https://note.com/biz_hack_master/n/n415d55b45c74?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We are now in the latter half of October, and it has started to get a little chilly in the mornings and evenings.",
+    "url": "https://note.com/biz_hack_master/n/n415d55b45c74?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Is it too late for a flu shot? A pharmacist answers 5 common questions｜CoLi@どこにでもいる薬剤師",
+    "url": "https://note.com/coli7901/n/n30dbf2410ac4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/coli7901/n/n30dbf2410ac4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Is it too late for a flu shot? A pharmacist answers 5 common questions",
+    "url": "https://note.com/coli7901/n/n30dbf2410ac4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello. I am a pharmacist working at a pharmacy.",
+    "url": "https://note.com/coli7901/n/n30dbf2410ac4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Recently, I often hear these comments at the pharmacy counter.",
+    "url": "https://note.com/coli7901/n/n30dbf2410ac4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Is it true that the flu is already spreading?",
+    "url": "https://note.com/coli7901/n/n30dbf2410ac4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I haven't had my vaccination yet, but is there any point in getting it now?",
+    "url": "https://note.com/coli7901/n/n30dbf2410ac4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "it is not too late even now. In fact, if you are hesitating, this is the time when it is worth acting quickly",
+    "url": "https://note.com/coli7901/n/n30dbf2410ac4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Getting the Flu Vaccine: A Shot of Trust and Peace of Mind｜佐和子",
+    "url": "https://note.com/sawakosawsaw/n/ne54ca4e2f6bb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/sawakosawsaw/n/ne54ca4e2f6bb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Getting the Flu Vaccine: A Shot of Trust and Peace of Mind",
+    "url": "https://note.com/sawakosawsaw/n/ne54ca4e2f6bb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Maybe I should write a normal essay for once...",
+    "url": "https://note.com/sawakosawsaw/n/ne54ca4e2f6bb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "That's not true. I'm always writing with all my might.",
+    "url": "https://note.com/sawakosawsaw/n/ne54ca4e2f6bb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "But I can't help but feel like a string of strange stories has been going on.",
+    "url": "https://note.com/sawakosawsaw/n/ne54ca4e2f6bb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I went to get my flu vaccine earlier than usual, as I typically get it in November.",
+    "url": "https://note.com/sawakosawsaw/n/ne54ca4e2f6bb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Honestly, I sometimes think I don't need to get it since I've probably never had the flu before.",
+    "url": "https://note.com/sawakosawsaw/n/ne54ca4e2f6bb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "FLU.｜BRAND × CAREER × AESTHETIC｜note",
+    "url": "https://note.com/flu_notes",
+    "pass": 3
+   },
+   {
+    "quote": "“余韻を設計する”という仕事 ‐サンタ・マリア・ノヴェッラでのブランド体験から考える‐",
+    "url": "https://note.com/flu_notes",
+    "pass": 3
+   },
+   {
+    "quote": "FLU.｜BRAND × CAREER × AESTHETIC",
+    "url": "https://note.com/flu_notes",
+    "pass": 3
+   },
+   {
+    "quote": "ときめきはどう設計されるのか -Her lip to 新ライン\"Essentia\"に見るブランド拡張とPR設計-",
+    "url": "https://note.com/flu_notes",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "CDC Flu (@CDCFlu) / X CDC's official source for daily credible health & safety updates from Centers for Disease Control & Prevention. Privacy/comment policy: https://t.co/9LbZmE4uoO",
+    "url": "https://x.com/CDCFlu",
+    "pass": 3
+   },
+   {
+    "quote": "Pandemic Flu (@Pandemicflu) / X Reliable, fact-focused information on pandemic potential influenza on Twitter since 2009. No hype.",
+    "url": "https://x.com/Pandemicflu",
+    "pass": 3
+   },
+   {
+    "quote": "霧島 蓮太郎 on X: \"@flu_kxpi ありがとう〜！！！ これからもよろし... Nov 1, 2026 · 霧島 蓮太郎 on X: \"@flu_kxpi ありがとう〜！ 💕 これからもよろしくねぇ〜💕 ꒰ˆ>～<ˆ꒱/// いい投稿をできる限りしてけたらなと思うよ！",
+    "url": "https://x.com/Tukimalu_Himalu/status/2116864854900535716",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Flu Clinic Assistant (TEMP) at Michigan Medicine - LinkedIn 2 days ago · Apply for Flu Clinic Assistant (TEMP) at Michigan Medicine in Ann Arbor, MI. Part-time Entry level role. See responsibilities, qualifications, and similar jobs on LinkedIn.",
+    "url": "https://www.linkedin.com/jobs/view/flu-clinic-assistant-temp-at-michigan-medicine-4487845509",
+    "pass": 3
+   },
+   {
+    "quote": "Legal & Compliance Department - FLU BSA and ... - LinkedIn 2 days ago · Apply for Legal & Compliance Department - FLU BSA and Compliance Oversight Associate/AVP at Sumitomo Mitsui Trust Bank Limited New York Branch in New York, NY. Full-time Entry level role. See ...",
+    "url": "https://www.linkedin.com/jobs/view/legal-compliance-department -flu-bsa-and-compliance-oversight-associate-avp-at-sumitomo-mitsui-trust-bank-limited-new-york-branch-4487455628",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "FLU'S Store LLC | Fairmont WV - FacebookFlúirse Grist - Facebook[FLU] FUERZA LATINA UNIDA | FacebookFacebook - log in or sign upLog Into FacebookMeta for Business (formerly Facebook for Business)Is it flu or RSV? Our expert shares some of the most common ... Nov 3, 2026 · FLU'S Store LLC, Fairmont. 13,603 followers · 55 talking about this · 178 were here. Great furniture at UNBEATABLE prices! Furn",
+    "url": "https://www.facebook.com/flusstorellc/",
+    "pass": 3
+   },
+   {
+    "quote": "[FLU] FUERZA LATINA UNIDA | Facebook Espacio donde podremos compartir como la gran familia que somos sin interferencia de nadie que no pertenezca a FLU acá podremos discutir sus...",
+    "url": "https://business.facebook.com/groups/FUERZALATINAUNIDA/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://flu.ke/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aiakos.co.jp/column/history-vcflu-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ochanomizu.yourclinic.jp/blog/2026fluvaccinechoice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC_(%E4%BC%81%E6%A5%AD)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/flu-tef-wires-日本-代理店-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/FEO_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-international-tokyo.com/en/guides/flu-season-japan-tourist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japantimes.co.jp/tag/flu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/families-fighting-flu-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/flo/__b-Vge9aGn0bLiDLykh539TAM-B6Nac2FF83KA9F2rRs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/flu-lab-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/founded",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/biz_hack_master/n/n415d55b45c74?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/coli7901/n/n30dbf2410ac4?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sawakosawsaw/n/ne54ca4e2f6bb?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/CDCFlu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Pandemicflu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/view/flu-clinic-assistant-temp-at-michigan-medicine-4487845509",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/view/legal-compliance-department -flu-bsa-and-compliance-oversight-associate-avp-at-sumitomo-mitsui-trust-bank-limited-new-york-branch-4487455628",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/flusstorellc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.facebook.com/groups/FUERZALATINAUNIDA/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/flu_notes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Tukimalu_Himalu/status/2116864854900535716",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Flu 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/インフルエンザ",
+    "https://ja.wikipedia.org/wiki/鳥インフルエンザ",
+    "https://www.aiakos.co.jp/column/history-vcflu-japan/",
+    "https://ochanomizu.yourclinic.jp/blog/2026fluvaccinechoice",
+    "https://respiratorycl-oizumi-gakuen.com/influenza-2026-early-season-vaccine-evidence/",
+    "https://www.takeuchi-iin.jp/blog/influenza-early-season-flumist-2026/",
+    "https://www.businessclinic.tokyo/archives/column/9054"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Flu 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ジョージフィッシャー_(企業)",
+    "https://www.linkedin.com/jobs/flu-tef-wires-日本-代理店-jobs",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "https://jpmktg.winbond.com/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.ipsen.com/japan/会社/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Flu Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/FEO_Japan",
+    "https://grokipedia.com/page/2009_swine_flu_pandemic_in_japan",
+    "https://japan-international-tokyo.com/en/guides/flu-season-japan-tourist/",
+    "https://www.japantimes.co.jp/tag/flu/",
+    "https://www.japantimes.co.jp/news/2026/10/02/japan/science-health/japan-flu-outbreak/",
+    "https://id-info.jihs.go.jp/en/index.html",
+    "https://japanhandbook.com/flu-season-in-japan-getting-your-flu-shot-and-staying-healthy/",
+    "https://www.firstpost.com/health/japan-flu-outbreak-influenza-13941675.html",
+    "https://japanhealthcompass.com/guides/flu-season-in-japan/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Flu manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Flu white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Flu founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/families-fighting-flu-revenue",
+    "https://tracxn.com/d/companies/flo/__b-Vge9aGn0bLiDLykh539TAM-B6Nac2FF83KA9F2rRs",
+    "https://prospeo.io/c/flu-lab-revenue",
+    "https://compworth.com/company/founded",
+    "https://getlatka.com/companies/flo.health",
+    "https://compworth.com/company/fluordriver",
+    "https://www.crunchbase.com/organization/flutterflow"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Flu",
+   "results": [
+    "https://note.com/biz_hack_master/n/n415d55b45c74?hl=en",
+    "https://note.com/coli7901/n/n30dbf2410ac4?hl=en",
+    "https://note.com/sawakosawsaw/n/ne54ca4e2f6bb?hl=en",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/flu_gel4619",
+    "https://note.com/fluctlight/n/nb14d910efa58?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Flu",
+   "results": [
+    "https://x.com/CDCFlu",
+    "https://x.com/Pandemicflu",
+    "https://about.x.com/en",
+    "https://jf.x.com/images/media-preview/2107586100512370742",
+    "https://blog.x.com/en/product/introducing-a-new-twitter-dot-com",
+    "https://help.x.com/en",
+    "https://help.x.com/en/using-x/create-x-account"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Flu",
+   "results": [
+    "https://www.linkedin.com/jobs/view/flu-clinic-assistant-temp-at-michigan-medicine-4487845509",
+    "https://www.linkedin.com/jobs/view/legal-compliance-department -flu-bsa-and-compliance-oversight-associate-avp-at-sumitomo-mitsui-trust-bank-limited-new-york-branch-4487455628",
+    "https://tr.linkedin.com/in/ipek-kirazoğlu-74387b1b4",
+    "https://au.linkedin.com/jobs/view/global-product-line-manager-screens-at-flsmidth-4477353599",
+    "https://uk.linkedin.com/jobs/view/health-care-support-worker-immunisation-team-at-betsi-cadwaladr-university-health-board-4488772544",
+    "https://ca.linkedin.com/jobs/view/manager-clinical-practice-at-bayshore-healthcare-4487424050",
+    "https://ca.linkedin.com/jobs/view/pharmacist-pm-outpatient-at-university-health-network-4481219026"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Flu",
+   "results": [
+    "https://www.facebook.com/flusstorellc/",
+    "https://business.facebook.com/groups/FUERZALATINAUNIDA/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/NationwideChildrensHospital/videos/rsv-vs-flu/1597325444937940/",
+    "https://www.facebook.com/fluirsegrist/reels/",
+    "https://business.facebook.com/latest/home/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Flu note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/flu_notes",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://jp.linkedin.com/in/芳樹-酒井-2059b1188",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://note.com/flux_inc/n/n5249df3f326b"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Flu X 投稿",
+   "results": [
+    "https://ja.wikipedia.org/wiki/Fluxbox",
+    "https://flux-ai.io/cn/",
+    "https://x.com/Tukimalu_Himalu/status/2116864854900535716",
+    "https://www.csdn.net/article/2026-09-24/166593087",
+    "https://www.expansionfan.com/comics/FLU-X/c=169/",
+    "https://blog.csdn.net/2401_85688943/article/details/145900094",
+    "https://x.com/flu_ly/status/2084470574596981051",
+    "https://careers.microsoft.com/v2/global/en/home.html?lc=Boydton,+Virginia,+United+States&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

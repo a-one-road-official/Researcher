@@ -1,0 +1,884 @@
+{
+ "name": "磐田電工株式会社",
+ "aliases": [],
+ "context": "ipros_all:受注生産",
+ "researched_at": "2026-11-11T23:19:01.899650+00:00",
+ "official_url": "http://www.iwata.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役 櫻井 一幸",
+    "url": "https://www.iwata.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "〒143-0024 東京都大田区中央6丁目29番2号 TEL ： 03-6410-6301（代表） 03-6410-6272（営業部） FAX ： 03-6410-6304（代表） 03-3752-8100（営業部）",
+    "url": "https://www.iwata.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社・ 首都圏営業部",
+    "value": "〒143-0024 東京都大田区中央6-29-2 橋本ビル2F TEL ： 03-6410-6272 FAX ： 03-3752-8100 東急池上線池上駅より徒歩13分 アクセスMAP",
+    "url": "https://www.iwata.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "202名 （2025年6月1日現在）",
+    "url": "https://www.iwata.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "営業品目",
+    "value": "スナップリング、ウェーブワッシャー等各種自家製品、皿ばね（特注品） デジタルカメラ、携帯電話、スマートフォン、小型精密機器・IT機器の筐体・外装 医用機器、自動車、工作機械、計測機器、精密機器等の機構部品・機械部品",
+    "url": "https://www.iwata.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "中部営業所",
+    "value": "〒448-0034 愛知県刈谷市神明町5-416 TEL ： 0566-21-2471 FAX ： 0566-21-2408 東海道本線刈谷駅より車で5分",
+    "url": "https://www.iwata.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "営業ニ課 （秋田工場内）",
+    "value": "〒018-1215 秋田県由利本荘市岩城赤平字川ノ上267 TEL ： 0184-74-2021 FAX ： 0184-74-2023 羽越本線羽後亀田駅より車で10分",
+    "url": "https://www.iwata.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "山形工場",
+    "value": "〒999-3511 山形県西村山郡河北町谷地辛2311 TEL ： 0237-72-3211 FAX ： 0237-72-3120 山形空港より車で10分 JR山形新幹線 さくらんぼ東根駅より車で15分",
+    "url": "https://www.iwata.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "スナップリング製品をはじめ、",
+    "url": "https://www.iwata.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば上記のような厚物製品、異形で２枚重ねる（溶接）",
+    "url": "https://www.iwata.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "豊富なラインナップに加え、カスタム対応も可能です",
+    "url": "https://www.iwata.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "スナップリング、ウェーブワッシャー等各種自家製品、皿ばね（特注品）",
+    "url": "https://www.iwata.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "一部製品の販売終了（廃番）および特注対応への移行のお知らせ",
+    "url": "https://www.iwata.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "スナップリング（自家製品） | 磐田電工株式会社",
+    "url": "https://www.iwata.co.jp/product/snap-ring/",
+    "pass": 1
+   },
+   {
+    "quote": "（I.W.T規格）で埋めた幅広いラインナップ",
+    "url": "https://www.iwata.co.jp/product/snap-ring/",
+    "pass": 1
+   },
+   {
+    "quote": "スラスト荷重が低い為、溝を切らなくても良い高荷重な製品が欲しい",
+    "url": "https://www.iwata.co.jp/product/snap-ring/",
+    "pass": 1
+   },
+   {
+    "quote": "製品例 ネジ留め部つぶし 2.9mmH",
+    "url": "https://www.iwata.co.jp/capabilities/",
+    "pass": 1
+   },
+   {
+    "quote": "ウェーブワッシャー（自家製品） | 磐田電工株式会社",
+    "url": "https://www.iwata.co.jp/product/wave-washer/",
+    "pass": 1
+   },
+   {
+    "quote": "磐田電工独自規格に基づき、幅広いラインナップを用意",
+    "url": "https://www.iwata.co.jp/product/wave-washer/",
+    "pass": 1
+   },
+   {
+    "quote": "ホルダースプリング（自家製品） | 磐田電工株式会社",
+    "url": "https://www.iwata.co.jp/product/holder-spring/",
+    "pass": 1
+   },
+   {
+    "quote": "関連工具（自家製品） | 磐田電工株式会社",
+    "url": "https://www.iwata.co.jp/product/e-ring-holder/",
+    "pass": 1
+   },
+   {
+    "quote": "IWATA製品の取り付け用に、専門工具を取り揃え",
+    "url": "https://www.iwata.co.jp/product/e-ring-holder/",
+    "pass": 1
+   },
+   {
+    "quote": "直列·並列の組み合わせにより、必要な荷重負荷能力を限られたスペースでもたらし、他のバネ製品では実現できない",
+    "url": "https://www.iwata.co.jp/product/disc-spring/",
+    "pass": 1
+   },
+   {
+    "quote": "皿ばねセット品（自家製品） | 磐田電工株式会社",
+    "url": "https://www.iwata.co.jp/product/disc-spring-set/",
+    "pass": 1
+   },
+   {
+    "quote": "皿ばね各種（自家製品） | 磐田電工株式会社",
+    "url": "https://www.iwata.co.jp/product/disc-spring-other/",
+    "pass": 1
+   },
+   {
+    "quote": "一部製品の販売終了（廃番）および特注対応への移行のお知らせ",
+    "url": "https://www.iwata.co.jp/company/news/news-20260511.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "平素は弊社製品をご愛顧いただき、厚く御礼申し上げます",
+    "url": "https://www.iwata.co.jp/company/news/news-20260511.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この度、⾧年ご愛顧いただいてまいりました一部製品につきまして、近年の需要動向および受",
+    "url": "https://www.iwata.co.jp/company/news/news-20260511.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、定番品としては廃番となりますが、対象製品につきましては今後「受注生産（特注品） 」",
+    "url": "https://www.iwata.co.jp/company/news/news-20260511.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1. 対象製品",
+    "url": "https://www.iwata.co.jp/company/news/news-20260511.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本対象製品は今後、お客様のご要望に応じて「特注品（受注生産） 」として製造を承りま",
+    "url": "https://www.iwata.co.jp/company/news/news-20260511.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "最小ロット数、納期、価格等につきましては、通常製品と異なりますので、詳細は弊",
+    "url": "https://www.iwata.co.jp/company/news/news-20260511.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注） E-001～003は、SK製品のお取り扱いございません",
+    "url": "https://www.iwata.co.jp/product/pdf/4-IWT_E.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注） （ ）は、ステレンレス製品のお取扱いございません",
+    "url": "https://www.iwata.co.jp/product/pdf/4-IWT_E.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注） （ ）は、ステレンレス製品のお取扱いございません",
+    "url": "https://www.iwata.co.jp/product/pdf/5-JIS_E.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注） ★印は、ステンレス製品（SUS304）もお取扱いございます",
+    "url": "https://www.iwata.co.jp/product/pdf/6-IWT_CE.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品・サービス(11)",
+    "url": "https://mono.ipros.com/company/detail/2003710/",
+    "pass": 3
+   },
+   {
+    "quote": "様ざまな金属を加工して多様な形状の製品を創造するだけでなく、独自の塗装技術、表面処理技術により、消費者の感性に訴える美をも追求しています",
+    "url": "https://mono.ipros.com/company/detail/2003710/",
+    "pass": 3
+   },
+   {
+    "quote": "60年の経験に裏付けられた超精密加工技術と東北有数の量産設備を駆使して、お客様の求める多種多様な製品を生産しています",
+    "url": "https://mono.ipros.com/company/detail/2003710/",
+    "pass": 3
+   },
+   {
+    "quote": "※規格品だけでなく、ご要望にお応えして様々なサイズの製品を受注生産します",
+    "url": "https://mono.ipros.com/company/detail/2003710/",
+    "pass": 3
+   },
+   {
+    "quote": "カメラ、時計等、各種精密機器製品に使われる各種機構部品",
+    "url": "https://mono.ipros.com/company/detail/2003710/",
+    "pass": 3
+   },
+   {
+    "quote": "※規格製品のカタログ（規格表）をご希望の方は、磐田電工のホームページからダウンロードしてください",
+    "url": "https://mono.ipros.com/company/detail/2003710/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (11)",
+    "url": "https://mono.ipros.com/company/detail/2003710/",
+    "pass": 3
+   },
+   {
+    "quote": "受注製品事例「レールパック状Ｅリングとディスペンサー」",
+    "url": "https://mono.ipros.com/company/detail/2003710/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・研究開発（建築・土木・プラント・設備）",
+    "url": "https://ja.nc-net.or.jp/company/107862/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "以降カメラ筐体（ステンレス、チタンなど）のビジネス増加",
+    "url": "https://www.iwata.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン、各種合金材、その他金属材",
+    "url": "https://www.iwata.co.jp/capabilities/",
+    "pass": 1
+   },
+   {
+    "quote": "標準材質は、SK85M叉はSK85（黒染め）、ステンレス（SUS304）です",
+    "url": "https://www.iwata.co.jp/product/pdf/4-IWT_E.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "標準材質は、SK85M叉はSK85（黒染め）、ステンレス（SUS304）です",
+    "url": "https://www.iwata.co.jp/product/pdf/5-JIS_E.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "標準材質は、SK85M叉はSK85（黒染め）です",
+    "url": "https://www.iwata.co.jp/product/pdf/6-IWT_CE.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特に、ステンレス、チタン合金等の難加工材はお任せください",
+    "url": "https://mono.ipros.com/company/detail/2003710/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルカメラ、携帯電話等の金属製筐体・外装品（ステンレス、チタン、アルミニウム等）",
+    "url": "https://mono.ipros.com/company/detail/2003710/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "スナップリング、ウェーブワッシャー等各種自家製品、皿ばね（特注品）",
+    "url": "https://www.iwata.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "一部製品の販売終了（廃番）および特注対応への移行のお知らせ",
+    "url": "https://www.iwata.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "カスタム仕様も試作から量産供給まできめ細かく",
+    "url": "https://www.iwata.co.jp/product/snap-ring/",
+    "pass": 1
+   },
+   {
+    "quote": "塗装（スピンドル、レシプロ 焼付塗装、光沢、マット、しぼ塗装、ライン長、62、72、210、420m、小ロット",
+    "url": "https://www.iwata.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "カスタム仕様の試作から量産供給まで対応可能",
+    "url": "https://www.iwata.co.jp/product/wave-washer/",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくり、機構部品（特注品）営業に興味のある方、生産オペレーターとしての自身のスキルアップも目指す方、随時募集しています",
+    "url": "https://www.iwata.co.jp/info/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "一部製品の販売終了（廃番）および特注対応への移行のお知らせ",
+    "url": "https://www.iwata.co.jp/company/news/news-20260511.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、定番品としては廃番となりますが、対象製品につきましては今後「受注生産（特注品） 」",
+    "url": "https://www.iwata.co.jp/company/news/news-20260511.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3. 今後の対応について（特注生産のご案内）",
+    "url": "https://www.iwata.co.jp/company/news/news-20260511.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本対象製品は今後、お客様のご要望に応じて「特注品（受注生産） 」として製造を承りま",
+    "url": "https://www.iwata.co.jp/company/news/news-20260511.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "最小ロット数、納期、価格等につきましては、通常製品と異なりますので、詳細は弊",
+    "url": "https://www.iwata.co.jp/company/news/news-20260511.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※規格品だけでなく、ご要望にお応えして様々なサイズの製品を受注生産します",
+    "url": "https://mono.ipros.com/company/detail/2003710/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "医用機器、自動車、工作機械、計測機器、精密機器等の機構部品・機械部品",
+    "url": "https://www.iwata.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車、半導体製造装置、光学機器、PC、携帯など精密ハンディデバイス、医療機器、家電、釣り具等民生機器、インフラ設備及びあらゆる製造設備関連工作機器、測定機など",
+    "url": "https://www.iwata.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "独自規格（I.W.T規格）を打ち出してから50有余年、PPMオーダーといった厳しい要求基準の自動車",
+    "url": "https://www.iwata.co.jp/product/snap-ring/",
+    "pass": 1
+   },
+   {
+    "quote": "金型は勿論、塗装治具・マスキングなど、すべて社内設計からの設備内作",
+    "url": "https://www.iwata.co.jp/capabilities/",
+    "pass": 1
+   },
+   {
+    "quote": "精密金型、塗装治具、マスキング設計",
+    "url": "https://www.iwata.co.jp/capabilities/",
+    "pass": 1
+   },
+   {
+    "quote": "＞ 3m金型",
+    "url": "https://www.iwata.co.jp/capabilities/",
+    "pass": 1
+   },
+   {
+    "quote": "金型長３ｍ超",
+    "url": "https://www.iwata.co.jp/capabilities/",
+    "pass": 1
+   },
+   {
+    "quote": "金型設計、金型製作、プレス、表面処理、塗装、最終検査に至るまで、すべて国内２工場（山形、秋田）で行っています",
+    "url": "https://mono.ipros.com/company/detail/2003710/",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械、医療機器、各種産業機械に使われる精密部品",
+    "url": "https://mono.ipros.com/company/detail/2003710/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車用部品（内外装品、イグニションコイル用部品等）",
+    "url": "https://mono.ipros.com/company/detail/2003710/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "Nidec Servo Vietnam Corporation",
+    "url": "https://www.iwata.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "3次元ーCAM",
+    "url": "https://www.iwata.co.jp/equipment/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "磐田電工株式会社の会社概要・製品情報 | Metoree磐田電工 | 企業情報 | イプロスものづくり磐田電工株式会社（東京都）の会社概要・役員 | Compalyze磐田電工株式会社 | 加工会社ナビ坪田電工 — 磐田電工株式会社は1943年に設立された東京都大田区中央6丁目29番2号に本社が所在する会社です。 リテイニングリング、皿ばね、表面処理、プレス加工、精密加工、ウェーブワッシャー等を取り扱っています。 Jul 17, 2015 · 磐田電工の企業情報や製品・サービス、関連カタログをご紹介。 独創的技術と60年の経験により、変幻自在のフォルムを造ります。 イプロスものづくりでは、製造・加工受託など製造業向けの情報を多数掲載。 〒143-0024 東京都大田区に本社を置く磐田電工株式会社の企業情報。 磐田電工株式会社は、1943年の創立以来、80年以上にわたり精密金属加工技術を核と",
+    "url": "https://metoree.com/companies/40815/",
+    "pass": 3
+   },
+   {
+    "quote": "磐田電工 | 企業情報 | イプロスものづくり — Jul 17, 2015 · 磐田電工の企業情報や製品・サービス、関連カタログをご紹介。 独創的技術と60年の経験により、変幻自在のフォルムを造ります。 イプロスものづくりでは、製造・加工受託など製造業向けの情報を多数掲載。",
+    "url": "https://mono.ipros.com/company/detail/2003710/",
+    "pass": 3
+   },
+   {
+    "quote": "磐田電工株式会社（東京都）の会社概要・役員 | Compalyze — 〒143-0024 東京都大田区に本社を置く磐田電工株式会社の企業情報。 磐田電工株式会社は、1943年の創立以来、80年以上にわたり精密金属加工技術を核として多岐にわたる産業分野の発展に貢献し。 製造業 (機械・設備)、1943年設立、社会保険被保険者数207名。",
+    "url": "https://compalyze.co.jp/company/7010801001164",
+    "pass": 3
+   },
+   {
+    "quote": "磐田電工株式会社 | 加工会社ナビ — 磐田電工株式会社の 概要 同社は、自動車、精密機械、医療機器など多岐にわたる産業向けに金属加工を手がけています。 精密金型設計・製作、精密プレス加工、表面処理、加飾処理を提供しています。",
+    "url": "https://eigyo-mfg.com/service/navi/company/S5K2qBiGEQUW",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | 磐田電工株式会社 — 株式会社ミクニ ミネベアアクセスソリューションズ株式会社 ミネベアミツミ株式会社 メイコーエレクディベロップ株式会社 矢崎総業株式会社 株式会社安川電機 株式会社八幡ねじ 矢辺鋼業株式会社 山形カシオ株式会社 山口電機工業株式会社 株式会社リコー",
+    "url": "https://www.iwata.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "一般・製品に関するお問い合わせ | 磐田電工株式会社 — ここで入力していただいた情報は、当社が細心の注意をもって管理しています。 ご記入いただいた情報は、インターネットの電子メールとして、当社担当者宛と、お客様宛へ（電子メール欄に記入がある場合のみ）、配信されます。",
+    "url": "https://www.iwata.co.jp/contact/general/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 磐田電工株式会社 東京都 大田区 — 当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします。 かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします。",
+    "url": "https://ja.nc-net.or.jp/company/107862/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お問い合わせ - 磐田電工株式会社 東京都 大田区",
+    "url": "https://ja.nc-net.or.jp/company/107862/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社からの連絡に必要な電子メールアドレスを用意してそのアドレスを当社に対して登録すること",
+    "url": "https://ja.nc-net.or.jp/company/107862/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします",
+    "url": "https://ja.nc-net.or.jp/company/107862/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします",
+    "url": "https://ja.nc-net.or.jp/company/107862/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "磐田電工 - Facebook 磐田電工 - Facebook ... 磐田電工",
+    "url": "https://www.facebook.com/磐田電工-214177955312920/",
+    "pass": 3
+   },
+   {
+    "quote": "磐田電工株式会社 - Facebook 磐田電工株式会社",
+    "url": "https://www.facebook.com/磐田電工株式会社-636191806392122/",
+    "pass": 3
+   },
+   {
+    "quote": "磐田電工株式会社 秋田工場 - Facebook 磐田電工株式会社 秋田工場",
+    "url": "https://www.facebook.com/磐田電工株式会社-秋田工場-199750730123297/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.iwata.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwata.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwata.co.jp/product/snap-ring/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwata.co.jp/capabilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwata.co.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwata.co.jp/product/wave-washer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwata.co.jp/product/holder-spring/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwata.co.jp/product/e-ring-holder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwata.co.jp/product/disc-spring/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwata.co.jp/product/disc-spring-set/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwata.co.jp/product/disc-spring-other/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwata.co.jp/info/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwata.co.jp/product/snap-ring/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwata.co.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwata.co.jp/product/wave-washer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwata.co.jp/product/holder-spring/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwata.co.jp/product/e-ring-holder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwata.co.jp/product/disc-spring/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwata.co.jp/product/disc-spring-set/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwata.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwata.co.jp/company/ethics/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.iwata.co.jp/info/recruit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.iwata.co.jp/info/information_security.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.iwata.co.jp/company/accessmap.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.iwata.co.jp/company/news/news-20260511.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.iwata.co.jp/company/news/news-20200409.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.iwata.co.jp/company/news/news-20170714.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.iwata.co.jp/product/pdf/4-IWT_E.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.iwata.co.jp/product/pdf/5-JIS_E.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.iwata.co.jp/product/pdf/6-IWT_CE.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.iwata.co.jp/images/company/history_right_2023.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.iwata.co.jp/images/product/item_snap-ring_s.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.iwata.co.jp/images/product/item_wave-washer_s.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.iwata.co.jp/images/product/item_holder-spring_s.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.iwata.co.jp/images/product/item_e-ring-holder_s.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.iwata.co.jp/images/product/item_disc-spring_s.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.iwata.co.jp/images/product/item_disc-spring-set_s.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.iwata.co.jp/images/product/item_disc-spring-other_s.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.iwata.co.jp/images/product/item_snap-ring_l.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.iwata.co.jp/images/product/product_snap-ring_img_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.iwata.co.jp/images/product/product_snap-ring_img_02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.iwata.co.jp/images/product/product_snap-ring_list_e.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/40815/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2003710/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/7010801001164",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/107862/inquiry/input/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirata.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/磐田電工-214177955312920/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/磐田電工株式会社-636191806392122/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/磐田電工株式会社-秋田工場-199750730123297/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "磐田電工 取扱製品 試作 小ロット",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "磐田電工 会社概要 事業内容",
+   "results": [
+    "https://metoree.com/companies/40815/",
+    "https://mono.ipros.com/company/detail/2003710/",
+    "https://compalyze.co.jp/company/7010801001164",
+    "https://eigyo-mfg.com/service/navi/company/S5K2qBiGEQUW",
+    "https://www.iwata.co.jp/company/",
+    "https://www.iwata.co.jp/",
+    "http://tsubotadenko.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "磐田電工 お問い合わせ メール",
+   "results": [
+    "https://www.iwata.co.jp/contact/general/",
+    "https://ja.nc-net.or.jp/company/107862/inquiry/input/",
+    "https://www.hirata.co.jp/contact/",
+    "https://www.terada-ele.co.jp/contact/",
+    "https://miyata-denkou.co.jp/contact/",
+    "https://www.tdk.com/ja/contact/index.html",
+    "https://mizuta-denko-co-jp.secure-web.jp/contact?url=contact"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 磐田電工",
+   "results": [
+    "https://note.com/iwataeast",
+    "https://note.com/iwata_east_89/n/n40a79a5a0530",
+    "https://note.com/tisobro/n/nee3995b08fe6",
+    "https://tales.note.com/",
+    "https://note.com/tomiyama_kei/n/n30684f46e05d",
+    "https://note.com/quruli/n/n35d2b6cdc37a",
+    "https://note.com/densen_note/n/nc85cad0cc39b"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 磐田電工",
+   "results": [
+    "https://x.com/tsuboden_k",
+    "https://x.com/otadenko_nagoya",
+    "https://help.x.com/zh-cn/managing-your-account",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/Omgemeraldddd/status/2112926461866967336",
+    "https://x.com/kanafujidenko",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 磐田電工",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 磐田電工",
+   "results": [
+    "https://www.facebook.com/磐田電工-214177955312920/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/磐田電工株式会社-636191806392122/",
+    "https://www.facebook.com/磐田電工株式会社-秋田工場-199750730123297/",
+    "https://www.facebook.com/p/株式会社-坪田電工-100083129300710/",
+    "https://www.facebook.com/tetsuya.tsutsumi.9/",
+    "https://www.facebook.com/kitaidenki.iwata/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "磐田電工 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://nandenko.co.jp/info/note_20261020/",
+    "https://www.iwata.co.jp/company/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://x.com/nw68892/status/2112369652265541823",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://nandenko.co.jp/info-cat/note/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "磐田電工 X 投稿",
+   "results": [
+    "https://www.iwata.co.jp/company/",
+    "https://jobcatalog.yahoo.co.jp/company/1100017114/review/",
+    "https://www.iwata.co.jp/",
+    "https://x.com/yuchan070521/status/2119324557538415020",
+    "https://x.com/hashtag/磐田GP",
+    "https://search.yahoo.co.jp/realtime/search/磐田/",
+    "https://asianoneta.blog.jp/63545055"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式22頁／PDF・画像20件／外部8頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式22頁／PDF・画像20件／外部8頁・検索9回）"
+ }
+}

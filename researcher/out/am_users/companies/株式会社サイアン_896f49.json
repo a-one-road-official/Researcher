@@ -1,0 +1,709 @@
+{
+ "name": "株式会社サイアン",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T23:35:54.523591+00:00",
+ "official_url": "https://www.cyan-rs.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "住所 ※必須",
+    "value": "〒",
+    "url": "https://www.cyan-rs.com/pages/5/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒430-0853　静岡県浜松市中央区三島町1606番地",
+    "url": "https://www.cyan-rs.com/pages/3/",
+    "pass": 1
+   },
+   {
+    "label": "新座営業所所在地",
+    "value": "〒352-0001　埼玉県新座市東北2-17-22",
+    "url": "https://www.cyan-rs.com/pages/3/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役社長",
+    "value": "内沼 篤博",
+    "url": "https://www.cyan-rs.com/pages/3/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "業務内容",
+    "value": "モータースポーツ、車両試験、並びにその他産業関連部品の開発・製造・調達／海外製品の輸入販売",
+    "url": "https://www.cyan-rs.com/pages/3/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "各種アンプ・表示器・コントローラ等を設計から製品試作まで一貫してお客様をサポートします",
+    "url": "https://www.cyan-rs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報｜株式会社サイアン（CYAN） ハーネス・センサのトータルソリューション",
+    "url": "https://www.cyan-rs.com/pages/43/",
+    "pass": 1
+   },
+   {
+    "quote": "各種の設計と加工技術をもって、様々なオリジナル製品を製造・販売しています",
+    "url": "https://www.cyan-rs.com/pages/43/",
+    "pass": 1
+   },
+   {
+    "quote": "成形品 / 切削加工品 / ゴム製品 / 樹脂製品 / 金属製品 / 粉体成型品 の試作開発供給",
+    "url": "https://www.cyan-rs.com/pages/43/",
+    "pass": 1
+   },
+   {
+    "quote": "私達はそれらの経験を生かし、ユーザーの皆様へ有益な製品をタイミング良く供給させて頂くことに主眼を置いています",
+    "url": "https://www.cyan-rs.com/pages/3/",
+    "pass": 1
+   },
+   {
+    "quote": "更に、モータースポーツR&D業務により獲得した知識や経験は、例えば量産車両や重工業製品試作開発分野においても、十分に有効活用が可能と考えています",
+    "url": "https://www.cyan-rs.com/pages/3/",
+    "pass": 1
+   },
+   {
+    "quote": "モータースポーツ、車両試験、並びにその他産業関連部品の開発・製造・調達／海外製品の輸入販売",
+    "url": "https://www.cyan-rs.com/pages/3/",
+    "pass": 1
+   },
+   {
+    "quote": "BRIGHTWATER社製品の販売代理店となる",
+    "url": "https://www.cyan-rs.com/pages/3/",
+    "pass": 1
+   },
+   {
+    "quote": "VARIOHM社モータースポーツ用製品の販売代理店となる",
+    "url": "https://www.cyan-rs.com/pages/3/",
+    "pass": 1
+   },
+   {
+    "quote": "OPTEL TEXYS (旧OPTEL THEVON）社製品の販売代理店となる",
+    "url": "https://www.cyan-rs.com/pages/3/",
+    "pass": 1
+   },
+   {
+    "quote": "・既存国産センサ利用のシステムに対し、海外新製品で置き換え＋周辺加工のご提案",
+    "url": "https://www.cyan-rs.com/pages/84/",
+    "pass": 1
+   },
+   {
+    "quote": "・ご希望の機能をもつセンサを、既製品とカスタム品の両方でご提案",
+    "url": "https://www.cyan-rs.com/pages/84/",
+    "pass": 1
+   },
+   {
+    "quote": "私達はそれらの経験を生かし、ユーザーの皆様へ有益な製品をタイミング良く供給させて頂くことに主眼を置いています",
+    "url": "https://pr.mono.ipros.com/cyan-rs/information/",
+    "pass": 3
+   },
+   {
+    "quote": "更に、モータースポーツR&D業務により獲得した知識や経験は、例えば量産車両や重工業製品試作開発分野においても、十分に有効活用が可能と考えています",
+    "url": "https://pr.mono.ipros.com/cyan-rs/information/",
+    "pass": 3
+   },
+   {
+    "quote": "モータースポーツ、車両試験、並びにその他産業関連部品の開発・製造・調達／海外製品の輸入販売",
+    "url": "https://pr.mono.ipros.com/cyan-rs/information/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "サイアンはハーネスの製作から各種センサ・部品の輸入業務、試作の設計支援・製造業務まで、お客様のスタッフの一員として、",
+    "url": "https://www.cyan-rs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "各種アンプ・表示器・コントローラ等を設計から製品試作まで一貫してお客様をサポートします",
+    "url": "https://www.cyan-rs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "又は、ハーネス製造用部材などを中心に、一部を小ロット販売しています",
+    "url": "https://www.cyan-rs.com/pages/43/",
+    "pass": 1
+   },
+   {
+    "quote": "成形品 / 切削加工品 / ゴム製品 / 樹脂製品 / 金属製品 / 粉体成型品 の試作開発供給",
+    "url": "https://www.cyan-rs.com/pages/43/",
+    "pass": 1
+   },
+   {
+    "quote": "更に、モータースポーツR&D業務により獲得した知識や経験は、例えば量産車両や重工業製品試作開発分野においても、十分に有効活用が可能と考えています",
+    "url": "https://www.cyan-rs.com/pages/3/",
+    "pass": 1
+   },
+   {
+    "quote": "私達サイアンは、部品の輸入業務から、試作物件における設計支援・製造業務まで、経験と熱意を持ってご協力させて頂きます",
+    "url": "https://www.cyan-rs.com/pages/3/",
+    "pass": 1
+   },
+   {
+    "quote": "更に、モータースポーツR&D業務により獲得した知識や経験は、例えば量産車両や重工業製品試作開発分野においても、十分に有効活用が可能と考えています",
+    "url": "https://pr.mono.ipros.com/cyan-rs/information/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お問い合わせ｜株式会社サイアン | CYAN Co., Ltd.",
+    "url": "https://www.cyan-rs.com/pages/5/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせを下記のフォームより受け付けております",
+    "url": "https://www.cyan-rs.com/pages/5/",
+    "pass": 1
+   },
+   {
+    "quote": "・新規部品導入お問い合わせに対し、導入用の操作ボックスも併せて設計してご提案",
+    "url": "https://www.cyan-rs.com/pages/84/",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "成形品 / 切削加工品 / ゴム製品 / 樹脂製品 / 金属製品 / 粉体成型品 の試作開発供給",
+    "url": "https://www.cyan-rs.com/pages/43/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "事実、私達のパートナーの皆様において、航空宇宙産業や軍事・重工業・医療・車両試験等の分野での成功を収めて頂いていることは、私どもの誇りとするところです",
+    "url": "https://www.cyan-rs.com/pages/3/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車開発・モータースポーツ車両テスト・産業機器・各種開発をサポートする会社です",
+    "url": "https://pr.mono.ipros.com/cyan-rs/information/",
+    "pass": 3
+   },
+   {
+    "quote": "事実、私達のパートナーの皆様において、航空宇宙産業や軍事・重工業・医療・車両試験等の分野での成功を収めて頂いていることは、私どもの誇りとするところです",
+    "url": "https://pr.mono.ipros.com/cyan-rs/information/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社サイアン | CYAN Co., Ltd. — Nov 2, 2026 · サイアンはハーネスの製作から各種センサ・部品の輸入業務、試作の設計支援・製造業務まで、お客様のスタッフの一員として、経験と知識と熱い情熱を持ってお応えしております。 まずは、どんな案件でも是非、サイアンにお聞かせください。",
+    "url": "https://www.cyan-rs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報｜株式会社サイアン（CYAN） ハーネス・センサのトータルソリ... — モータースポーツ用メインハーネスやサブハーネス、産業用量産ハーネス等、様々なハーネスの製作・加工・設計支援を行なっています。 又は、ハーネス製造用部材などを中心に、一部を小ロット販売しています。",
+    "url": "https://www.cyan-rs.com/pages/43/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報｜株式会社サイアン | CYAN Co., Ltd.企業情報 | サイアン - Powered by イプロスものづくり会社案内 | 株式会社Cyan会社概要 - 株式会社シアン株式会社サイアン - 会社概要株式会社シアン — 株式会社サイアンは、モータースポーツ車両開発の支援を目的とし、2004年に創立された会社です。 創業のメンバーは各々の経歴において、輸出入業務・CAD設計・ワイヤーハーネス製造・検査/品質管理、そして新規事業開拓営業などに専念して参りました。 株式会社サイアンは、モータースポーツ車両開発の支援を目的とし、2004年に創立された会社です。 創業のメンバーは各々の経歴において、輸出入業務・CAD設計・ワイヤーハーネス製造・検査/品質管理、そして新規事業開拓営業などに専念して参りました。 株式会社Cyanは、DXコンサルティングを中心に、中小企業のあらゆる課題に対",
+    "url": "https://www.cyan-rs.com/pages/3/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | サイアン - Powered by イプロスものづくり — 株式会社サイアンは、モータースポーツ車両開発の支援を目的とし、2004年に創立された会社です。 創業のメンバーは各々の経歴において、輸出入業務・CAD設計・ワイヤーハーネス製造・検査/品質管理、そして新規事業開拓営業などに専念して参りました。",
+    "url": "https://pr.mono.ipros.com/cyan-rs/information/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社シアン株式会社サイアン - 会社概要株式会社シアン — 等身大で世界の仲良しに会いに行ける居場所創りができる、ちょこっと交流と恐竜大スクリーン。 日常に登場する人物を増やし交流することでコミュニティを拡張します。 | 株式会社シアン 株式会社サイアンは、モータースポーツ車両開発の支援を目的とし、2004年に創立された会社です。 創業のメンバーは各々の経歴において、輸出入業務・CAD設計・ワイヤーハーネス製造・検査/品質管理、そして新規事業開拓営業などに専念して参りました。 シアンは「世界の喜びを最大化する」をミッションに、マーケDX事業やサブスク動画プラットフォーム事業を展開している会社です。 人への投資を最大限し、世界を変える事業家を増やし、世界の喜びを最大化する。",
+    "url": "https://cian-aviation.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サイアン - 会社概要 — 株式会社サイアンは、モータースポーツ車両開発の支援を目的とし、2004年に創立された会社です。 創業のメンバーは各々の経歴において、輸出入業務・CAD設計・ワイヤーハーネス製造・検査/品質管理、そして新規事業開拓営業などに専念して参りました。",
+    "url": "https://www.atengineer.com/pr/cyan-rs/company",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜株式会社サイアン | CYAN Co., Ltd. — お問い合わせ お問い合わせを下記のフォームより受け付けております。 後日、担当よりご連絡させていただきます。 「※」印の項目は必須になります。 ※営業のメールご遠慮ください。",
+    "url": "https://www.cyan-rs.com/pages/5/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - cyan-rs.com — 株式会社サイアンのお問い合わせです 浜松営業所 (本社) 〒430-0853 静岡県浜松市中央区三島町1606番地",
+    "url": "https://www.cyan-rs.com/pages/5?url=pages/5/&step=confirm&type_no=0&b_id=9&r_id=1&fid=e6789992f97ce8989394584ff10e4a08",
+    "pass": 3
+   },
+   {
+    "quote": "問い合わせ サイアン — サイアンへのお問合せ先です",
+    "url": "https://cyan.a.la9.jp/toiawase.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "灯りが角を曲がるまで｜サイアンドコー｜能登のために復興応援ありが... ・サイアンドコー（18／金沢校高等部本科3年） 大井から金沢へ移って間もない、落ち着いた物腰の競走ウマ娘。競走では前を行く背中を追いかける彼女も、九メートルのキリコの前ではまず自分の足で歩いてみる。本人は ...",
+    "url": "https://note.com/link_u_system/n/nd9a64cf4ae90",
+    "pass": 3
+   },
+   {
+    "quote": "気になることば: サイアン、ジットウ｜大阪大学教職学生の部屋から。 Apr 20, 2022 · 「詳細な案はあとで」の意味で「あとから\"サイアン\"を詰めていきましょう」…と打とうとしたら、あれ、変換されない。 「細案」が出てこない。 なぜだ。 自分が使いたいことばが一発変換されないとき、「あれ、ひょっとしてそんな言葉はないのか？",
+    "url": "https://note.com/heya_oukyo/n/nc9671cd5fddc",
+    "pass": 3
+   },
+   {
+    "quote": "先生が先生になれない世の中で（50） ～臨機応変：「叱るとは愛するこ... Oct 16, 2025 · 教員1年目、1年生歓迎会の時に初めてその「サイアン」なるものを見た時には心底ビックリした。 そこには、いつ、どこで、誰が、何をしなければいけないのかが分刻みで書いてあり、担当生徒のセリフや立ち位置までご丁寧に書き込んであったのだ。",
+    "url": "https://note.com/otsukishoten/n/n2fe8963dfce4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "灯りが角を曲がるまで｜サイアンドコー｜能登のために復興応援ありがとう賞（重賞）｜金沢トレセン学園文芸クラブ",
+    "url": "https://note.com/link_u_system/n/nd9a64cf4ae90",
+    "pass": 3
+   },
+   {
+    "quote": "灯りが角を曲がるまで｜サイアンドコー｜能登のために復興応援ありがとう賞（重賞）",
+    "url": "https://note.com/link_u_system/n/nd9a64cf4ae90",
+    "pass": 3
+   },
+   {
+    "quote": "能登の海沿いの日和浦集落では、三年ぶりにキリコを担ぐ祭りの準備が進んでいた。ところが昔の道は使えず、迂回路には九メートル近い灯籠が曲がれるかわからない難所がある。金沢へ移籍して間もないサイアンドコーは、地域交流の手伝いに訪れ、再開を願う住民たちの試行錯誤に加わる。",
+    "url": "https://note.com/link_u_system/n/nd9a64cf4ae90",
+    "pass": 3
+   },
+   {
+    "quote": "十月のとある休日、能登半島の海沿いにある日和浦集落には、朝から木槌の音が響いていた。",
+    "url": "https://note.com/link_u_system/n/nd9a64cf4ae90",
+    "pass": 3
+   },
+   {
+    "quote": "海へ向かって家々が並ぶ小さな集落。そのいちばん奥、倉庫前の広場では、高さ九メートル近い木組みのキリコが、三年ぶりに組み上がっていた。神輿の行く道を照らしながら、土地の人々が担いで練り歩く、能登の大きな切子灯籠だ。",
+    "url": "https://note.com/link_u_system/n/nd9a64cf4ae90",
+    "pass": 3
+   },
+   {
+    "quote": "細長い胴には青い波と色鮮やかな花が描かれ、上下を深紅の幕が飾る。金色の飾りを施した屋根の両脇から丸い提灯が下がり、足元には太い担ぎ棒が横へ張り出していた。「海照」と呼ばれるそのキリコには、新しく継いだ木材と、かつて担いだ人々の手の跡が残る古い梁が並んでいた。",
+    "url": "https://note.com/link_u_system/n/nd9a64cf4ae90",
+    "pass": 3
+   },
+   {
+    "quote": "「まあ……想像していたより、ずっと高いのですわね」",
+    "url": "https://note.com/link_u_system/n/nd9a64cf4ae90",
+    "pass": 3
+   },
+   {
+    "quote": "栗色の髪を束ねたサイアンドコーは、軍手をはめた手で、ひさしの向こうを見上げた。",
+    "url": "https://note.com/link_u_system/n/nd9a64cf4ae90",
+    "pass": 3
+   },
+   {
+    "quote": "気になることば: サイアン、ジットウ｜大阪大学教職学生の部屋から。",
+    "url": "https://note.com/heya_oukyo/n/nc9671cd5fddc",
+    "pass": 3
+   },
+   {
+    "quote": "教職にまったく関係のないLINE上での話。「詳細な案はあとで」の意味で「あとから\"サイアン\"を詰めていきましょう」…と打とうとしたら、あれ、変換されない。",
+    "url": "https://note.com/heya_oukyo/n/nc9671cd5fddc",
+    "pass": 3
+   },
+   {
+    "quote": "自分が使いたいことばが一発変換されないとき、「あれ、ひょっとしてそんな言葉はないのか？」「もしくは一般語ではないのか？」と、好奇心をかき立てられる。",
+    "url": "https://note.com/heya_oukyo/n/nc9671cd5fddc",
+    "pass": 3
+   },
+   {
+    "quote": "調べてわかった。自分が「細案」という言葉とどこで出会っていたかが。",
+    "url": "https://note.com/heya_oukyo/n/nc9671cd5fddc",
+    "pass": 3
+   },
+   {
+    "quote": "「細案」は、学習指導案のタイプをいう言葉だった。単元名や意図、時間割まで詳細に書き込んだ学習指導案のことで、対義語は「略案」。",
+    "url": "https://note.com/heya_oukyo/n/nc9671cd5fddc",
+    "pass": 3
+   },
+   {
+    "quote": "こんなところで教職の影響が出てくるのである。まったく。",
+    "url": "https://note.com/heya_oukyo/n/nc9671cd5fddc",
+    "pass": 3
+   },
+   {
+    "quote": "指導案を「細案」と「略案」にわけることは授業で知り、覚えていた。しかし「細案」とは「詳細な案」というような意味で、国語辞典にも載っているような一般語だと思い込んでいたようだ。学習指導案に限定した教職用語であるとは思いもしなかった。",
+    "url": "https://note.com/heya_oukyo/n/nc9671cd5fddc",
+    "pass": 3
+   },
+   {
+    "quote": "でも、「細案」ってすごく直感的にわかりやすいし、短く、口に出した響きもいい。十分、一般語になるポテンシャルはあると思う。",
+    "url": "https://note.com/heya_oukyo/n/nc9671cd5fddc",
+    "pass": 3
+   },
+   {
+    "quote": "先生が先生になれない世の中で（50） ～臨機応変：「叱るとは愛すること」②～｜大月書店 Otsuki Shoten",
+    "url": "https://note.com/otsukishoten/n/n2fe8963dfce4",
+    "pass": 3
+   },
+   {
+    "quote": "先生が先生になれない世の中で（50） ～臨機応変：「叱るとは愛すること」②～",
+    "url": "https://note.com/otsukishoten/n/n2fe8963dfce4",
+    "pass": 3
+   },
+   {
+    "quote": "「細案」なんて言葉は、僕は教員になるまで一度も聞いたことがなかった。どうやら、超綿密な学習指導案のことらしい。教員１年目、１年生歓迎会の時に初めてその「サイアン」なるものを見た時には心底ビックリした。そこには、いつ、どこで、誰が、何をしなければいけないのかが分刻みで書いてあり、担当生徒のセリフや立ち位置までご丁寧に書き込んであったのだ。",
+    "url": "https://note.com/otsukishoten/n/n2fe8963dfce4",
+    "pass": 3
+   },
+   {
+    "quote": "サイアンどおり、淡々と１年生歓迎会を進行する生徒会役員の子たちをみて、「なんだかな〜」と思ったのを今でも覚えている。全部細かく決められていて、それどおりやるわけだから、失敗などあるはずもなく、会は滞りなく終了する。そして、あとには何も残らない。",
+    "url": "https://note.com/otsukishoten/n/n2fe8963dfce4",
+    "pass": 3
+   },
+   {
+    "quote": "そのようにして作り上げられた修学旅行では、係の生徒たちは、まるでとりつかれたようにサイアンばかり見ている。そして、多くの教員たちは、決められたとおりに動けるようになった子どもを褒めるのだ。「大人になった」、と。",
+    "url": "https://note.com/otsukishoten/n/n2fe8963dfce4",
+    "pass": 3
+   },
+   {
+    "quote": "サイアンは誰のため？ と問われれば、生徒のためというより教員のためだろう。",
+    "url": "https://note.com/otsukishoten/n/n2fe8963dfce4",
+    "pass": 3
+   },
+   {
+    "quote": "問題なく、スムーズに行事が終わるように。生徒が失敗して、傷つかないように。保護者からのクレームが来ないように。",
+    "url": "https://note.com/otsukishoten/n/n2fe8963dfce4",
+    "pass": 3
+   },
+   {
+    "quote": "学校がサービス業化し教育現場にも効率性とお客様満足度が求められる、コスパ、タイパ、そしてリスクフリーの時代だ。そんな世の中ではある意味当然の対応なのかもしれない。ただ、教育基本法に定められている教育の目標は、今だに「人格の完成」であることを、私たちは忘れてはいけない。人の成長には時間がかかるし、負荷も失敗の可能性も取り除かれた環境で、心身の成長など望めるはずもない。",
+    "url": "https://note.com/otsukishoten/n/n2fe8963dfce4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Ichiro SciAn /一ロ•サイアン The Otaku Science VTutor on X ... Eternal Fighter Zero was my gateway into the works of key. I will never forget playing this random fighting game I found on my computer that looked like tons of fun. \"Eternity exists here\"",
+    "url": "https://x.com/IchiroScian/status/2087026671303938160",
+    "pass": 3
+   },
+   {
+    "quote": "チョウサイアン (@Sycuchiu) / Posts / X Posts チョウサイアンSycuchiu 0 Mar 1 💬0 🔄0 🤍0 📊13 📎 0 🔁Reposted by チョウサイアン Anime Aesthetics anime_ Dec 14 Anya's reaction 😭 💬19 📊104046 📎",
+    "url": "https://x.com/Sycuchiu",
+    "pass": 3
+   },
+   {
+    "quote": "Ichiro SciAn /一ロ•サイアン The Otaku Science VTutor Ichiro SciAn /一ロ•サイアン🤖🔬 The Otaku Science VTutor @IchiroScian Here's a bit about me!",
+    "url": "https://x.com/IchiroScian/status/2069767595327164465",
+    "pass": 3
+   },
+   {
+    "quote": "Ad-Colors(アド・カラーズ) on X: \"#舞台サイアン 【重大発表 】 ぜひ... Ad-Colors (アド・カラーズ) @AdColors_ #舞台サイアン 【重大発表📢】 ぜひどうがを最後までご覧ください 00:00 9:06 AM · Aug 16, 2026 346Views 2 9",
+    "url": "https://x.com/AdColors_/status/2088915367200788581",
+    "pass": 3
+   },
+   {
+    "quote": "\"#サイアン\" - Results on X | Live Posts & Updates Results for \"#サイアン\" on X (Twitter). Find the latest posts, discussions, and updates about #サイアン. 14 results found.",
+    "url": "https://x.com/hashtag/サイアン",
+    "pass": 3
+   },
+   {
+    "quote": "cyan (@cyan_cyanotype) / X ｻｲｱﾝと読みます/SD/147🔥/20↑/物書きです/読むのはなんでも/🌶️がすきです/📷/ ️/🏝️ wavebox : https://t.co/vTkwXXSLcB",
+    "url": "https://x.com/cyan_cyanotype",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "サイアン CYAN - Facebook サイアン CYAN is on Facebook. Join Facebook to connect with サイアン CYAN and others you may know. Facebook gives people the power to share and makes the world...",
+    "url": "https://www.facebook.com/cyanrace/",
+    "pass": 3
+   },
+   {
+    "quote": "CYAN Co Ltd | Hamamatsu-shi Shizuoka - FacebookFacebook - log in or sign upLog Into Facebook救世主の正体を隠したサイアンは、約束を守るため、三年間マリス家に...続きを見る: https://share.sparkgigs.com/go/JHwIJ7nRWw3 タイトル: ...サイアン98 - Facebook Mar 18, 2020 · サイアンのテスト車両を購入しました。 #honda #grom #ホンダ #テスト車両 #サイアン Only one week left before Suzuka 8Hr. We want to wish all of our customers good luck and most importantly good racing いよいよ鈴鹿8耐本番まで、",
+    "url": "https://www.facebook.com/cyanrs/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.cyan-rs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cyan-rs.com/pages/5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cyan-rs.com/pages/43/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cyan-rs.com/pages/3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cyan-rs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cyan-rs.com/pages/93/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cyan-rs.com/pages/84/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cyan-rs.com/relays/download/3/259/3/0/?file=/files/libs/2400/201910091135258304.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.cyan-rs.com/files/libs/782/201606081519355887.jpg?1735025232",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://systemcreate-inc.co.jp/products/moiron_top",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/cyan-rs/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cyan.a.la9.jp/toiawase.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/link_u_system/n/nd9a64cf4ae90",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/heya_oukyo/n/nc9671cd5fddc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/otsukishoten/n/n2fe8963dfce4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/IchiroScian/status/2087026671303938160",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Sycuchiu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/IchiroScian/status/2069767595327164465",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AdColors_/status/2088915367200788581",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cyanrace/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cyanrs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/サイアン",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cyan_cyanotype",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "サイアン 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.cyan-rs.com/",
+    "https://www.cyan-rs.com/pages/43/",
+    "https://systemcreate-inc.co.jp/products/moiron_top",
+    "https://ytc-eng.com/silicon_tsukuru2_try",
+    "https://silicon-labox.com/",
+    "https://silicon-labox.com/shisaku/",
+    "http://www.seitan.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "サイアン 会社概要 事業内容",
+   "results": [
+    "https://www.cyan-rs.com/",
+    "https://www.cyan-rs.com/pages/3/",
+    "https://pr.mono.ipros.com/cyan-rs/information/",
+    "https://cian-aviation.co.jp/company/",
+    "https://www.atengineer.com/pr/cyan-rs/company",
+    "https://www.cy-an.jp/company",
+    "https://xian.inc/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "サイアン お問い合わせ メール",
+   "results": [
+    "https://www.cyan-rs.com/pages/5/",
+    "https://www.cyan-rs.com/pages/5?url=pages/5/&step=confirm&type_no=0&b_id=9&r_id=1&fid=e6789992f97ce8989394584ff10e4a08",
+    "https://cyan.a.la9.jp/toiawase.html",
+    "https://www.saisan.net/contact/",
+    "https://sanei-cv.co.jp/contact/",
+    "https://jp.shein.com/contact-us.html",
+    "https://saisan.net/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com サイアン",
+   "results": [
+    "https://note.com/link_u_system/n/nd9a64cf4ae90",
+    "https://note.com/heya_oukyo/n/nc9671cd5fddc",
+    "https://note.com/otsukishoten/n/n2fe8963dfce4",
+    "https://note.com/haruki454/n/n0faed8281f30",
+    "https://note.com/fitenao55/n/n7fdcbcfa7dba",
+    "https://note.com/kaixa913/n/nd7c653a3053b",
+    "https://note.com/kazukitakeshita/n/nc78b185532a7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com サイアン",
+   "results": [
+    "https://x.com/IchiroScian/status/2087026671303938160",
+    "https://x.com/Sycuchiu",
+    "https://x.com/IchiroScian/status/2069767595327164465",
+    "https://x.com/AdColors_/status/2088915367200788581",
+    "https://x.com/IchiroScian/status/2075941044202410366",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/cyan_cyanotype"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com サイアン",
+   "results": [
+    "https://ca.linkedin.com/in/karl-angelo-tutor",
+    "https://www.linkedin.com/in/richardrash1",
+    "https://www.linkedin.com/company/zynga",
+    "https://be.linkedin.com/in/rocio-lorenzo-1936841b1",
+    "https://ca.linkedin.com/",
+    "https://uk.linkedin.com/in/simonedegale",
+    "https://uk.linkedin.com/in/emmawalmsleyhp"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com サイアン",
+   "results": [
+    "https://www.facebook.com/cyanrace/",
+    "https://www.facebook.com/cyanrs/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/61557743426467/posts/救世主の正体を隠したサイアンは約束を守るため三年間マリス家に婿入りし専業主夫として屈辱的な日々を送る契約が満了し妻サーシーに無情にも追い出された彼は潔く離婚しす/122257707566258114/",
+    "https://www.facebook.com/61589894597245/videos/1698338124788148/",
+    "https://www.facebook.com/CyanYOLO/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "サイアン note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://note.com/saiyou_dekirukun/all",
+    "https://note.com/mega_syobo2",
+    "https://www.sayn-inc.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "サイアン X 投稿",
+   "results": [
+    "https://x.com/hashtag/サイアン",
+    "https://x.com/cyan_cyanotype",
+    "https://note.com/aikachan_ai/n/n5bf03e58300f",
+    "https://help.x.com/ja/rules-and-policies/x-report-violation",
+    "https://myfans.jp/",
+    "https://note.com/munou_ac/n/n3489f9572885",
+    "https://www.pixiv.net/users/97057750"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部14頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部14頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部14頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部14頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部14頁・検索9回）"
+ }
+}

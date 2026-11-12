@@ -1,0 +1,1151 @@
+{
+ "name": "東京レーダー株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T23:22:34.551033+00:00",
+ "official_url": "http://www.radar.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役会長",
+    "value": "加藤　浩",
+    "url": "https://www.radar.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表取締役社長",
+    "value": "仲岡　和水",
+    "url": "https://www.radar.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒240-0022　神奈川県横浜市保土ヶ谷区西久保町15-7 TEL: 045-335-1111 / FAX: 045-335-1975",
+    "url": "https://www.radar.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "藤岡事業所所在地",
+    "value": "〒375-0053　群馬県藤岡市中大塚1065-2 TEL: 0274-24-3611 / FAX: 0274-24-3616",
+    "url": "https://www.radar.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社工場（横浜）",
+    "value": "延床面積：2547.85㎡　設計・製造部門・管理部門などを有する本社機能",
+    "url": "https://www.radar.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "神奈川県横浜市保土ヶ谷区西久保町15-7",
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "119名（2026年4月現在）",
+    "url": "https://www.radar.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "日本電気株式会社 / NECプラットフォームズ株式会社 / NECネットワーク・センサ株式会社 / NECネッツエスアイ株式会社 / 沖電気工業株式会社 / IDEC AUTO-ID SOLUTIONS株式会社 / 株式会社ニューテック / フコク物産株式会社",
+    "url": "https://www.radar.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "藤岡事業所（群馬）",
+    "value": "延床面積：4,507.88㎡　主に製造・検査部門を備えた生産拠点",
+    "url": "https://www.radar.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "東京レーダーは、設計から量産まで、御社の製品開発をワンストップで支援いたします",
+    "url": "https://www.radar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "東京レーダーは、電子機器の設計・製造を一貫して対応できる国内体制を強みに、小ロットや短納期、高信頼性が求められる製品にも柔軟に対応しています",
+    "url": "https://www.radar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プリント基板の後工程から大型製品の組立・検査・保守まで一貫して対応できる体制を備えた拠点です",
+    "url": "https://www.radar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品企画や発注前に知っておきたい基本用語、製品化や外注を検討するときに出てくる専門用語を、図解と実務ポイントでやさしく解説します",
+    "url": "https://www.radar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "専門の技術スタッフがヒアリングから丁寧に対応し、要件整理から製品化まで一貫してサポートいたします",
+    "url": "https://www.radar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高信頼性が求められる製品の実績も多数ございます",
+    "url": "https://www.radar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "産業機器、民生機器、医療機器、車載機器など、高信頼性が求められる製品に対応するため、当社では設計から部品調達、製造、検査・試験までを自社一貫体制で実施",
+    "url": "https://www.radar.co.jp/services/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ライフサイクル全体にわたって、最適な技術と設備、そして人の力でお客様を支援します",
+    "url": "https://www.radar.co.jp/services/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のアイデア段階から、製品として具現化するまでの開発業務をトータルで支援します",
+    "url": "https://www.radar.co.jp/services/",
+    "pass": 1
+   },
+   {
+    "quote": "LTE通信端末、Bluetooth対応製品 など",
+    "url": "https://www.radar.co.jp/services/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器レベルの品質基準を求められる製品にも対応できる、生産管理体制と検査ノウハウを有しています",
+    "url": "https://www.radar.co.jp/services/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の立ち上げ時や改良時に、次のような課題をお持ちではありませんか？",
+    "url": "https://www.radar.co.jp/services/",
+    "pass": 1
+   },
+   {
+    "quote": "社内で製品設計ができない、または筐体設計などの専門領域が不在",
+    "url": "https://www.radar.co.jp/services/",
+    "pass": 1
+   },
+   {
+    "quote": "東京レーダーは、これらの課題に正面から向き合い、貴社製品の価値を高める支援を行います",
+    "url": "https://www.radar.co.jp/services/",
+    "pass": 1
+   },
+   {
+    "quote": "東京レーダーでは、電子機器の基板実装から製品の組立・検査・出荷までを一括で対応するEMS（電子機器製造受託）サービスを提供しています",
+    "url": "https://www.radar.co.jp/services/service-ems/",
+    "pass": 1
+   },
+   {
+    "quote": "回路設計済み製品、基板実装～組立～検査を一括対応",
+    "url": "https://www.radar.co.jp/services/service-ems/",
+    "pass": 1
+   },
+   {
+    "quote": "EMSは、既に設計済みの製品を「作ってほしい」という場合に最適なサービスです",
+    "url": "https://www.radar.co.jp/services/service-ems/",
+    "pass": 1
+   },
+   {
+    "quote": "無線通信対応製品の組立・検査まで任せられる会社を探している",
+    "url": "https://www.radar.co.jp/services/service-ems/",
+    "pass": 1
+   },
+   {
+    "quote": "製品形状や数量に応じた最適な梱包・出荷・納品対応",
+    "url": "https://www.radar.co.jp/services/service-ems/",
+    "pass": 1
+   },
+   {
+    "quote": "多種多様な製品機器（産業・医療機器から民生品）の実装・組立経験あり",
+    "url": "https://www.radar.co.jp/services/service-ems/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製造業登録もあり、高信頼性が求められる製品にも対応",
+    "url": "https://www.radar.co.jp/services/service-ems/",
+    "pass": 1
+   },
+   {
+    "quote": "部品調達から基板実装・組立・検査まで、高品質な製造体制でお客様の製品化を支援しています",
+    "url": "https://www.radar.co.jp/services/service-ems/",
+    "pass": 1
+   },
+   {
+    "quote": "製品企画や発注前に知っておきたい基本用語、製品化や外注を検討するときに出てくる専門用語を、図解と実務ポイントでやさしく解説します",
+    "url": "https://www.radar.co.jp/services/service-ems/",
+    "pass": 1
+   },
+   {
+    "quote": "通信回路・制御回路に強い技術力で、製品開発を支援",
+    "url": "https://www.radar.co.jp/services/service-odm/",
+    "pass": 1
+   },
+   {
+    "quote": "回路設計済み製品、基板実装～組立～検査を一括対応",
+    "url": "https://www.radar.co.jp/services/service-odm/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちが改版・評価を担うことで、お客様は新製品開発にリソースを集中できます",
+    "url": "https://www.radar.co.jp/services/service-odm/",
+    "pass": 1
+   },
+   {
+    "quote": "ODMは製品企画・設計から委託できる点が異なります",
+    "url": "https://www.radar.co.jp/services/service-odm/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製造業登録を取得済みで、医療・介護分野の製品開発も経験しております",
+    "url": "https://www.radar.co.jp/services/service-odm/",
+    "pass": 1
+   },
+   {
+    "quote": "製品企画や発注前に知っておきたい基本用語、製品化や外注を検討するときに出てくる専門用語を、図解と実務ポイントでやさしく解説します",
+    "url": "https://www.radar.co.jp/services/service-odm/",
+    "pass": 1
+   },
+   {
+    "quote": "以下のような製品カテゴリの設計・製造に対応可能です",
+    "url": "https://www.radar.co.jp/services/tech-design/",
+    "pass": 1
+   },
+   {
+    "quote": "無線搭載装置（LTE、WiFi、BLE ほか）・無線モジュール搭載・無線回路搭載製品",
+    "url": "https://www.radar.co.jp/services/tech-design/",
+    "pass": 1
+   },
+   {
+    "quote": "以下に代表的な製品例や課題対応をご紹介します",
+    "url": "https://www.radar.co.jp/services/tech-design/",
+    "pass": 1
+   },
+   {
+    "quote": "製品企画や発注前に知っておきたい基本用語、製品化や外注を検討するときに出てくる専門用語を、図解と実務ポイントでやさしく解説します",
+    "url": "https://www.radar.co.jp/services/tech-design/",
+    "pass": 1
+   },
+   {
+    "quote": "※上記は代表的な設備であり、製品に応じた治具・支援ツールの内製も可能です",
+    "url": "https://www.radar.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "プリント基板の後工程から大型製品の組立・検査・保守まで一貫して対応できる体制を備えた拠点です",
+    "url": "https://www.radar.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "良い製品をより高い信頼性と品質で、より早く、より安く提供",
+    "url": "https://www.radar.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "日本電気株式会社および東京芝浦電気株式会社向け製品の設計・製造・検査を開始",
+    "url": "https://www.radar.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "通信技術の世界は日々進化し、新たな製品やソリューションが生まれています",
+    "url": "https://www.radar.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "従業員一人ひとりが技能、知識と品質意識の継続的向上を図り、優れた製品づくりをとおして顧客満足の向上、並びに社会に役立つように行動します",
+    "url": "https://www.radar.co.jp/company/quality-security/",
+    "pass": 1
+   },
+   {
+    "quote": "革新的な技術、サービスを創出すると共に、製品の小型化や軽量化を進め、再生材料の使用やリサイクルを考慮した製品、システム提案に取り組む",
+    "url": "https://www.radar.co.jp/company/csr-sdgs/",
+    "pass": 1
+   },
+   {
+    "quote": "製品やシステムのリユース、リペアなどの資源環境ビジ ネスもグローバルに推進し廃棄物を削減する",
+    "url": "https://www.radar.co.jp/company/csr-sdgs/",
+    "pass": 1
+   },
+   {
+    "quote": "東京レーダーでは、電子機器の設計から実装・組立・量産まで、ODM・EMSに対応可能な一貫体制を構築し、多様な業界や製品ニーズに応えてきました",
+    "url": "https://www.radar.co.jp/category/cases/",
+    "pass": 1
+   },
+   {
+    "quote": "※一部製品カテゴリについては、対応サービスに制限がある場合がございます",
+    "url": "https://www.radar.co.jp/category/cases/",
+    "pass": 1
+   },
+   {
+    "quote": "本案件では、原理試作品を製品化するために、ハードウェアとソフトウェアの開発から製品の製造まで一貫した技術支援を提供しました",
+    "url": "https://www.radar.co.jp/category/cases/",
+    "pass": 1
+   },
+   {
+    "quote": "本案件では、WLANによるリモコン機能を追加したいというお客様からの要望にこたえるため、回路設計から筐体構造設計、試作製造を経て製品の製造まで、一貫した技術支援を提供しました",
+    "url": "https://www.radar.co.jp/category/cases/",
+    "pass": 1
+   },
+   {
+    "quote": "上記に掲載のない製品でも、お客様の仕様や目的に合わせて、最適な構成・手法をご提案いたします",
+    "url": "https://www.radar.co.jp/category/cases/",
+    "pass": 1
+   },
+   {
+    "quote": "東京レーダーでは、設計から製造までを社内一貫で対応し、製品の用途や運用環境に合わせた最適な構成をご提案しています",
+    "url": "https://www.radar.co.jp/cases/post-658/",
+    "pass": 1
+   },
+   {
+    "quote": "本案件では、WLANによるリモコン機能を追加したいというお客様からの要望にこたえるため、回路設計から筐体構造設計、試作製造を経て製品の製造まで、一貫した技術支援を提供しました",
+    "url": "https://www.radar.co.jp/cases/post-655/",
+    "pass": 1
+   },
+   {
+    "quote": "東京レーダーでは、設計から製造までを社内一貫で対応し、製品の用途や運用環境に合わせた最適な構成をご提案しています",
+    "url": "https://www.radar.co.jp/cases/post-655/",
+    "pass": 1
+   },
+   {
+    "quote": "本案件では、原理試作品を製品化するために、ハードウェアとソフトウェアの開発から製品の製造まで一貫した技術支援を提供しました",
+    "url": "https://www.radar.co.jp/cases/post-1071/",
+    "pass": 1
+   },
+   {
+    "quote": "原理試作を終えて、製品化に向けて具体的に進める段階で、製品としての品質や生産性を考慮した量産設計を行う必要があり、",
+    "url": "https://www.radar.co.jp/cases/post-1071/",
+    "pass": 1
+   },
+   {
+    "quote": "品質を担保するための出荷検査の仕様を策定し、製品の全数検査を実施",
+    "url": "https://www.radar.co.jp/cases/post-1071/",
+    "pass": 1
+   },
+   {
+    "quote": "東京レーダーでは、設計から製造までを社内一貫で対応し、製品の用途や運用環境に合わせた最適な構成をご提案しています",
+    "url": "https://www.radar.co.jp/cases/post-1071/",
+    "pass": 1
+   },
+   {
+    "quote": "東京レーダーでは、設計から製造までを社内一貫で対応し、製品の用途や運用環境に合わせた最適な構成をご提案しています",
+    "url": "https://www.radar.co.jp/cases/post-667/",
+    "pass": 1
+   },
+   {
+    "quote": "企業の製品生産を推進させる！EMS受託製造専門サイト「LeadEMS」",
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器製造業登録を取得していることから、高い信頼性が求められる製品にも対応している",
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内外の調達ネットワーク活かした部品調達から基盤実装（SMT・DIP）、製品の組立、検査、最終的な出荷までを一括で対応",
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業・医療機器から民生品まで、多種多様な製品機器の実装・組立経験を持ち、通信機器・制御機器の量産に向けた豊富な知見を活かした対応を行っていきます",
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "pass": 3
+   },
+   {
+    "quote": "このように、一般的な電子機器だけではなく、安全性や信頼性が要求される分野の製品についても製造を委託できる品質保証体制が同社の特徴のひとつといえます",
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "pass": 3
+   },
+   {
+    "quote": "本サイトでは、EMSの受託製造サービスを検討中の企業向けに、業界別に製品生産を推進させるEMS受託製造会社をご紹介しています",
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "試作から量産まで柔軟に対応し、高信頼性を実現します",
+    "url": "https://www.radar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "東京レーダーは、電子機器の設計・製造を一貫して対応できる国内体制を強みに、小ロットや短納期、高信頼性が求められる製品にも柔軟に対応しています",
+    "url": "https://www.radar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "東京レーダーでは、100台・500台といった少量からの量産に対応",
+    "url": "https://www.radar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロットや試作だけでも対応してもらえますか？",
+    "url": "https://www.radar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "試作や短納期の量産に対応してくれる製造先がない",
+    "url": "https://www.radar.co.jp/services/",
+    "pass": 1
+   },
+   {
+    "quote": "通信機器・制御機器を多数手がけてきた経験を活かし、試作から量産まで柔軟に対応いたします",
+    "url": "https://www.radar.co.jp/services/service-ems/",
+    "pass": 1
+   },
+   {
+    "quote": "試作から量産まで、当社が対応してきた製造例の一部をご紹介します",
+    "url": "https://www.radar.co.jp/services/service-ems/",
+    "pass": 1
+   },
+   {
+    "quote": "数十台程度の小ロットにも対応してもらえますか？",
+    "url": "https://www.radar.co.jp/services/service-ems/",
+    "pass": 1
+   },
+   {
+    "quote": "東京レーダーでは、電子機器の「こんなものを作りたい」というアイデア段階から、仕様の具体化、設計、試作、量産、保守まで、ワンストップで支援するODM（設計・製造受託）サービスを提供しています",
+    "url": "https://www.radar.co.jp/services/service-odm/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロット・短納期に対応できる会社を探している",
+    "url": "https://www.radar.co.jp/services/service-odm/",
+    "pass": 1
+   },
+   {
+    "quote": "実使用に即した検証・フィードバック反映・試作改善",
+    "url": "https://www.radar.co.jp/services/service-odm/",
+    "pass": 1
+   },
+   {
+    "quote": "電気・ソフト・筐体すべての設計と試作・製造を内製で対応できるため、スピード感ある開発が可能です",
+    "url": "https://www.radar.co.jp/services/service-odm/",
+    "pass": 1
+   },
+   {
+    "quote": "まずは小ロットで「市場テストしたい」といったニーズにも対応します",
+    "url": "https://www.radar.co.jp/services/service-odm/",
+    "pass": 1
+   },
+   {
+    "quote": "東京レーダーでは、国内工場内に製造ライン・検査設備・設計・開発機能を集約し、設計から試作、量産、検査までの全工程を社内で一貫対応しています",
+    "url": "https://www.radar.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロット・短納期のご要望にも柔軟に対応できる体制を整えています",
+    "url": "https://www.radar.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "東京レーダーは、横浜本社工場と群馬・藤岡事業所の二拠点体制で、試作から量産までを高い品質で支えます",
+    "url": "https://www.radar.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "回路設計・筐体設計・試作・量産・検査を社内で完結",
+    "url": "https://www.radar.co.jp/company/quality-security/",
+    "pass": 1
+   },
+   {
+    "quote": "本案件では、原理試作品を製品化するために、ハードウェアとソフトウェアの開発から製品の製造まで一貫した技術支援を提供しました",
+    "url": "https://www.radar.co.jp/category/cases/",
+    "pass": 1
+   },
+   {
+    "quote": "設計から製造まで一貫した対応により、ご希望の納期に間に合わせて試作基板を納品させていただきました",
+    "url": "https://www.radar.co.jp/category/cases/",
+    "pass": 1
+   },
+   {
+    "quote": "本案件では、WLANによるリモコン機能を追加したいというお客様からの要望にこたえるため、回路設計から筐体構造設計、試作製造を経て製品の製造まで、一貫した技術支援を提供しました",
+    "url": "https://www.radar.co.jp/category/cases/",
+    "pass": 1
+   },
+   {
+    "quote": "開発段階からのご相談、製造のみのご依頼、試作対応、小ロット生産なども柔軟に対応可能です",
+    "url": "https://www.radar.co.jp/category/cases/",
+    "pass": 1
+   },
+   {
+    "quote": "設計から製造まで一貫した対応により、ご希望の納期に間に合わせて試作基板を納品させていただきました",
+    "url": "https://www.radar.co.jp/cases/post-658/",
+    "pass": 1
+   },
+   {
+    "quote": "本案件では、WLANによるリモコン機能を追加したいというお客様からの要望にこたえるため、回路設計から筐体構造設計、試作製造を経て製品の製造まで、一貫した技術支援を提供しました",
+    "url": "https://www.radar.co.jp/cases/post-655/",
+    "pass": 1
+   },
+   {
+    "quote": "3.試作～量産立ち上げ",
+    "url": "https://www.radar.co.jp/cases/post-655/",
+    "pass": 1
+   },
+   {
+    "quote": "本案件では、原理試作品を製品化するために、ハードウェアとソフトウェアの開発から製品の製造まで一貫した技術支援を提供しました",
+    "url": "https://www.radar.co.jp/cases/post-1071/",
+    "pass": 1
+   },
+   {
+    "quote": "原理試作を終えて、製品化に向けて具体的に進める段階で、製品としての品質や生産性を考慮した量産設計を行う必要があり、",
+    "url": "https://www.radar.co.jp/cases/post-1071/",
+    "pass": 1
+   },
+   {
+    "quote": "4. 試作～量産立ち上げ",
+    "url": "https://www.radar.co.jp/cases/post-1071/",
+    "pass": 1
+   },
+   {
+    "quote": "医療認証で懸念していた、輻射ノイズの測定を外部サイトを手配して試作機で事前確認を実施",
+    "url": "https://www.radar.co.jp/cases/post-1071/",
+    "pass": 1
+   },
+   {
+    "quote": "3.試作～量産立ち上げ",
+    "url": "https://www.radar.co.jp/cases/post-667/",
+    "pass": 1
+   },
+   {
+    "quote": "通信機器を手がけてきた経験を活かし、試作から量産まで対応",
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "pass": 3
+   },
+   {
+    "quote": "量産から多品種少量生産のニーズまで幅広く対応",
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "pass": 3
+   },
+   {
+    "quote": "大量生産だけではなく、多品種少量生産のニーズにも対応",
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "pass": 3
+   },
+   {
+    "quote": "希望の納期に間に合わせる形で試作基盤を納品",
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "pass": 3
+   },
+   {
+    "quote": "量産から多品種少量生産までの柔軟な対応力に加え、医療機器製造業登録を取得していることをはじめとする品質管理体制が特徴です",
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "pass": 3
+   },
+   {
+    "quote": "提案力や設計支援を重視するのか、グローバル拠点による安定供給やBCP対策を重視するのか、あるいは短納期・小ロット対応を優先するのか",
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "pass": 3
+   },
+   {
+    "quote": "多品種少量・小品種多量生産にも対応し、お客様の信頼を追求してまいります",
+    "url": "https://mono.ipros.com/company/detail/2032829/category/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "産業機器・医療機器など高信頼性のものづくりを委託したい",
+    "url": "https://www.radar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療・産業分野での豊富な実績と、厳格な品質保証体制により、お客様に安心と信頼をご提供しています",
+    "url": "https://www.radar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "産業機器、民生機器、医療機器、車載機器など、多様な分野に対応しています",
+    "url": "https://www.radar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "産業機器、民生機器、医療機器、車載機器など、高信頼性が求められる製品に対応するため、当社では設計から部品調達、製造、検査・試験までを自社一貫体制で実施",
+    "url": "https://www.radar.co.jp/services/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製造業許可取得済み、クリーンブース完備",
+    "url": "https://www.radar.co.jp/services/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器レベルの品質基準を求められる製品にも対応できる、生産管理体制と検査ノウハウを有しています",
+    "url": "https://www.radar.co.jp/services/",
+    "pass": 1
+   },
+   {
+    "quote": "産業・医療用途に対応できる品質管理体制のある会社に頼みたい",
+    "url": "https://www.radar.co.jp/services/service-ems/",
+    "pass": 1
+   },
+   {
+    "quote": "多種多様な製品機器（産業・医療機器から民生品）の実装・組立経験あり",
+    "url": "https://www.radar.co.jp/services/service-ems/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製造業登録もあり、高信頼性が求められる製品にも対応",
+    "url": "https://www.radar.co.jp/services/service-ems/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用端末の製造・品質管理、厳格なトレーサビリティ対応など",
+    "url": "https://www.radar.co.jp/services/service-ems/",
+    "pass": 1
+   },
+   {
+    "quote": "医療、介護向けセンサ端末",
+    "url": "https://www.radar.co.jp/services/service-ems/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製造業登録を取得しており、対応可能です",
+    "url": "https://www.radar.co.jp/services/service-ems/",
+    "pass": 1
+   },
+   {
+    "quote": "医療向け携帯機器（バイタル計測・通知機能付）",
+    "url": "https://www.radar.co.jp/services/service-odm/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製造業登録を取得済みで、医療・介護分野の製品開発も経験しております",
+    "url": "https://www.radar.co.jp/services/service-odm/",
+    "pass": 1
+   },
+   {
+    "quote": "見守り端末・医療、介護向けセンサ端末・センサー装置",
+    "url": "https://www.radar.co.jp/services/tech-design/",
+    "pass": 1
+   },
+   {
+    "quote": "医療向け携帯機器（バイタル計測・通知機能付）",
+    "url": "https://www.radar.co.jp/services/tech-design/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用端末の製造・品質管理、厳格なトレーサビリティ対応・医療機器用通信装置",
+    "url": "https://www.radar.co.jp/services/tech-design/",
+    "pass": 1
+   },
+   {
+    "quote": "各種治具、クリーンブース",
+    "url": "https://www.radar.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "※上記は代表的な設備であり、製品に応じた治具・支援ツールの内製も可能です",
+    "url": "https://www.radar.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "保有スキルと設備の両輪で、医療・通信・産業機器など高信頼分野に求められる厳格な品質要件に対応しています",
+    "url": "https://www.radar.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "ISO13485 認証取得（医療機器の品質マネジメント）",
+    "url": "https://www.radar.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器品質マネジメント（2019年11月取得）",
+    "url": "https://www.radar.co.jp/company/quality-security/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用端末の製造・品質管理、厳格なトレーサビリティ対応など",
+    "url": "https://www.radar.co.jp/category/cases/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が開発された既存のBluetooth端末に、各種センサ（地軸, 温湿度）の追加、静電気対策を施し、医療認証取得のための電気特性の確立いたしました",
+    "url": "https://www.radar.co.jp/category/cases/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様で設計した3Dデータより、金型の設計及び成形品の手配を担当",
+    "url": "https://www.radar.co.jp/cases/post-1071/",
+    "pass": 1
+   },
+   {
+    "quote": "医療認証で懸念していた、輻射ノイズの測定を外部サイトを手配して試作機で事前確認を実施",
+    "url": "https://www.radar.co.jp/cases/post-1071/",
+    "pass": 1
+   },
+   {
+    "quote": "多種多様な産業機器、医療機器から民生品の実装や組み立ての経験を活かしたサービス",
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器製造業登録を取得していることから、高い信頼性が求められる製品にも対応している",
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業機器、福祉・介護、医療機器、公共インフラのように、",
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業・医療機器から民生品まで、多種多様な製品機器の実装・組立経験を持ち、通信機器・制御機器の量産に向けた豊富な知見を活かした対応を行っていきます",
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "pass": 3
+   },
+   {
+    "quote": "高い信頼性が求められる医療機器の製造に対応するため、同社では",
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "pass": 3
+   },
+   {
+    "quote": "このように、医療機器にも対応が可能な品質体制を整えるとともに、外観検査や機能検査、動作検証など顧客仕様に合わせた検査工程を構築しています",
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "pass": 3
+   },
+   {
+    "quote": "「計測・医療・航空宇宙」「家電・住宅設備」「自動車」",
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "pass": 3
+   },
+   {
+    "quote": "量産から多品種少量生産までの柔軟な対応力に加え、医療機器製造業登録を取得していることをはじめとする品質管理体制が特徴です",
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "pass": 3
+   },
+   {
+    "quote": "EMS受託製造会社を「計測・医療・航空宇宙」「家電・住宅設備」「自動車」などの業界別に徹底調査",
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "pass": 3
+   },
+   {
+    "quote": "で、自社ノウハウ不要で航空宇宙・医療など厳格な品質基準の市場へ安全に参入できます",
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "電子機器の設計・製造を一括対応 東京レーダー株式会社 — 当社の強み・選ばれる理由 東京レーダーは、電子機器の設計・製造を一貫して対応できる国内体制を強みに、小ロットや短納期、高信頼性が求められる製品にも柔軟に対応しています。",
+    "url": "https://www.radar.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "東京レーダーが提供するEMSサービスの特徴や強みを解説 — 東京レーダーが手がけるEMSでは、これまで 通信機器を手がけてきた経験を活かし、試作から量産まで対応。 部品の調達から検査まで行い、顧客のものづくりを支援します。",
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京レーダーの製品・サービス一覧｜イプロスものづくり — Oct 7, 2015 · 東京レーダーは、移動体通信システム（主に無線基地局・小型無線端末機器及び公共公益無線システム（列車無線システム・消防無線、防災無線システム等）の開発・設計から製造までの豊富な実績がございます。",
+    "url": "https://mono.ipros.com/company/detail/2032829/category/",
+    "pass": 3
+   },
+   {
+    "quote": "東京レーダー株式会社｜GUNMA VIRTUAL EXPO｜群馬バーチャルエキスポ — 小ロット・短納期にも対応 製品ライフサイクルの短期化や多品種化により、「少量かつ高品質」な製造ニーズが増加しています。 当社では、100台・500台といった小ロット量産に対応。 短納期での納品実績も多数あります。",
+    "url": "https://www.gunma-virtualexpo.jp/company/detail.cgi?id=1875",
+    "pass": 3
+   },
+   {
+    "quote": "電子機器の設計・製造を一括対応 東京レーダー株式会社 — 東京レーダーでは、神奈川県横浜市・群馬県藤岡市に拠点を持ち、設計から量産、検査までの全工程を社内で一貫対応しています。 柔軟な生産体制と設計段階からの製造最適化提案により、コスト・納期・品質のバランスの取れた生産体制を提供しています。",
+    "url": "https://www.radar.co.jp/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "柏市の気象大学校と「東京レーダー」の概要：気象観測の歴史と役割｜... Aug 16, 2026 · 柏市の気象大学校構内にある東京レーダーは、長年にわたり首都圏の気象監視を支えてきた重要な観測インフラの一つです。 その役割は一貫して気象の「観測と分析」であり、科学的な気象データの収集拠点として日本の防災・気象業務に貢献してきました。",
+    "url": "https://note.com/lingvistika/n/n448dede3a4b9",
+    "pass": 3
+   },
+   {
+    "quote": "千葉豪雨と気象大学校｜poppo_panda22 Aug 17, 2026 · 今回の千葉豪雨と柏市にある気象大学校のレーダーが関連しているという…… えええ🙄 ええと、気象大学校にレーダー？ ？？ なにそれ？ 右端の東京レーダーというものです 我が家はこの、気象大学校の徒歩圏内にあります",
+    "url": "https://note.com/cute_panda220/n/n8899f3006477",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "柏市の気象大学校と「東京レーダー」の概要：気象観測の歴史と役割｜永沼としあき",
+    "url": "https://note.com/lingvistika/n/n448dede3a4b9",
+    "pass": 3
+   },
+   {
+    "quote": "柏市の気象大学校と「東京レーダー」の概要：気象観測の歴史と役割",
+    "url": "https://note.com/lingvistika/n/n448dede3a4b9",
+    "pass": 3
+   },
+   {
+    "quote": "千葉県柏市にある気象庁の施設「気象大学校」の構内には、かつて関東地方の気象観測において重要な役割を担っていた「東京レーダー」が設置されています。本記事では、この施設の本来の目的や気象観測における位置づけについて、客観的な事実に基づいて解説します。",
+    "url": "https://note.com/lingvistika/n/n448dede3a4b9",
+    "pass": 3
+   },
+   {
+    "quote": "気象大学校（柏市旭町）の敷地内に位置する東京レーダーは、気象庁が関東地方を中心とした降水状況を把握するために運用してきた気象レーダー施設です。円形のドーム（レドーム）に覆われた特徴的な外観を持ち、地域のランドマークとしても知られています。",
+    "url": "https://note.com/lingvistika/n/n448dede3a4b9",
+    "pass": 3
+   },
+   {
+    "quote": ": 関東平野周辺の雨雲の動きや降水強度をリアルタイムで観測し、気象予報や防災情報の発表に役立てるための基礎データを提供すること。",
+    "url": "https://note.com/lingvistika/n/n448dede3a4b9",
+    "pass": 3
+   },
+   {
+    "quote": ": アンテナから電波（マイクロ波）を発射し、大気中の雨粒や雪などの降水粒子に当たって跳ね返ってきた反射波（エコー）を受信・解析することで、降水の分布や強さを捉えます。",
+    "url": "https://note.com/lingvistika/n/n448dede3a4b9",
+    "pass": 3
+   },
+   {
+    "quote": "気象観測レーダーは、大気中の水分からの反射波を受信して分析する観測機器であり、次のような特性を持っています。",
+    "url": "https://note.com/lingvistika/n/n448dede3a4b9",
+    "pass": 3
+   },
+   {
+    "quote": ": レーダーが発信する電波は気象観測に必要な範囲の強度に設計されており、大気や気象そのものを人工的に変更・操作するようなエネルギーや機能を持つものではありません。",
+    "url": "https://note.com/lingvistika/n/n448dede3a4b9",
+    "pass": 3
+   },
+   {
+    "quote": "千葉豪雨と気象大学校｜poppo_panda22",
+    "url": "https://note.com/cute_panda220/n/n8899f3006477",
+    "pass": 3
+   },
+   {
+    "quote": "結局千葉豪雨については、死者を出すほどの大災害どなってしまいました",
+    "url": "https://note.com/cute_panda220/n/n8899f3006477",
+    "pass": 3
+   },
+   {
+    "quote": "本当に亡くなられた方々のご冥福をお祈りするばかりです",
+    "url": "https://note.com/cute_panda220/n/n8899f3006477",
+    "pass": 3
+   },
+   {
+    "quote": "確かに経験したことのないような雨と雷だったのですが、",
+    "url": "https://note.com/cute_panda220/n/n8899f3006477",
+    "pass": 3
+   },
+   {
+    "quote": "SNSを見ていたところ、びっくりするようなポストを目にしました…",
+    "url": "https://note.com/cute_panda220/n/n8899f3006477",
+    "pass": 3
+   },
+   {
+    "quote": "今回の千葉豪雨と柏市にある気象大学校のレーダーが関連しているという……",
+    "url": "https://note.com/cute_panda220/n/n8899f3006477",
+    "pass": 3
+   },
+   {
+    "quote": "ええと、気象大学校にレーダー？？？なにそれ？",
+    "url": "https://note.com/cute_panda220/n/n8899f3006477",
+    "pass": 3
+   },
+   {
+    "quote": "我が家はこの、気象大学校の徒歩圏内にあります",
+    "url": "https://note.com/cute_panda220/n/n8899f3006477",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "松本 雅 - 東京レーダー株式会社 - なし | LinkedIn 東京レーダー株式会社 - なし · 職歴: 東京レーダー株式会社 · 学歴: 群馬工業高等専門学校 · 場所: 横浜 · LinkedInのつながり1人。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで松本 雅さんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/雅-松本-490157b3",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.radar.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.radar.co.jp/services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.radar.co.jp/services/service-ems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.radar.co.jp/company/jisedai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.radar.co.jp/services/service-odm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.radar.co.jp/services/tech-design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.radar.co.jp/facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.radar.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.radar.co.jp/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.radar.co.jp/company/quality-security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.radar.co.jp/company/csr-sdgs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.radar.co.jp/category/cases/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.radar.co.jp/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.radar.co.jp/cases/post-658/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.radar.co.jp/cases/post-655/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.radar.co.jp/cases/post-1071/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.radar.co.jp/cases/post-667/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.radar.co.jp/resources/wp-content/uploads/2026/03/barrier-free_chirashi.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.radar.co.jp/resources/wp-content/uploads/2026/03/tech-design-service7.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.lead-ems.com/list/tokyo-radar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2032829/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-radiator.co.jp/contact/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trialradar.com/ja/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/lingvistika/n/n448dede3a4b9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cute_panda220/n/n8899f3006477",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/雅-松本-490157b3",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東京レーダー 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.radar.co.jp/",
+    "https://www.lead-ems.com/list/tokyo-radar.html",
+    "https://mono.ipros.com/company/detail/2032829/category/",
+    "https://www.gunma-virtualexpo.jp/company/detail.cgi?id=1875",
+    "https://www.tpc.toray/solution/sol_002.html",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://www.radar.co.jp/services/service-odm/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "東京レーダー 会社概要 事業内容",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "東京レーダー お問い合わせ メール",
+   "results": [
+    "https://www.radar.co.jp/",
+    "https://www.tokyo-radiator.co.jp/contact/contact/",
+    "https://trialradar.com/ja/contact/",
+    "https://www.nyusatsu-radar.com/contact",
+    "https://www.radar.co.jp/contact/",
+    "https://www.tel.co.jp/contactus/",
+    "https://www.blitz.co.jp/about/blitz/contact.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 東京レーダー",
+   "results": [
+    "https://note.com/lingvistika/n/n448dede3a4b9",
+    "https://note.com/cute_panda220/n/n8899f3006477",
+    "https://note.com/lingvistika/n/n448dede3a4b9?hl=en",
+    "https://note.com/haremarue/n/n82dfdb66d324",
+    "https://note.com/chizutodesign/n/n73e9261167e7",
+    "https://note.com/major_pony7610/n/n283563f8e4da",
+    "https://note.com/bousai_labo/n/n47290c016d03"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 東京レーダー",
+   "results": [
+    "https://x.com/taiwanradar",
+    "https://x.com/japan_radar",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/tuituiguan",
+    "https://x.com/nhk_seikatsu/status/2080572405261738090",
+    "https://x.com/slvxshdwsknt/status/2091071264987504801",
+    "https://x.com/peeenyanV/status/2091102854400610735"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 東京レーダー",
+   "results": [
+    "https://jp.linkedin.com/in/雅-松本-490157b3",
+    "https://www.linkedin.com/pub/dir/哲二/柳沢",
+    "https://www.linkedin.com/jobs/view/4447699282/",
+    "https://hn.linkedin.com/in/ejenseng",
+    "https://pa.linkedin.com/in/quiterio-vega-270b2989",
+    "https://jp.linkedin.com/jobs/view/radar-ultrasonic-specialist-adas-at-l-t-technology-services-4479938844",
+    "https://au.linkedin.com/in/katarina-mexis-707ba43a4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 東京レーダー",
+   "results": [
+    "https://www.facebook.com/eyez.inc/",
+    "https://secure.facebook.com/login/",
+    "https://secure.facebook.com/",
+    "https://business.facebook.com/groups/Palmcoastcommunitynetwork/",
+    "https://www.facebook.com/profile.php/?id=61587802472589",
+    "https://business.facebook.com/groups/1100067867543764/",
+    "https://www.facebook.com/smartrador/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "東京レーダー note 社長",
+   "results": [
+    "https://www.radar.co.jp/company/",
+    "https://jobtalk.jp/companies/33132/answers/1179355",
+    "https://compalyze.co.jp/company/4020001030255",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/vip_tokyo_jp",
+    "https://www.radar.co.jp/company/message/",
+    "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/kankyohozen/katudo/katsudosho/28kankyokatudou.files/0117_20210428.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "東京レーダー X 投稿",
+   "results": [
+    "https://www.radar.co.jp/",
+    "https://www.radar.co.jp/company/",
+    "https://x.com/taiwanradar",
+    "https://x.com/tuituiguan",
+    "https://ex-radar.jp/guidelines",
+    "https://xradars.com/",
+    "https://search.yahoo.co.jp/realtime/search/投稿/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像2件／外部7頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式17頁／PDF・画像2件／外部7頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式17頁／PDF・画像2件／外部7頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式17頁／PDF・画像2件／外部7頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式17頁／PDF・画像2件／外部7頁・検索9回）"
+ }
+}

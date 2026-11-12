@@ -1,0 +1,1904 @@
+{
+ "name": "Embrace",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-12T00:07:18.150070+00:00",
+ "official_url": "https://embrace.io",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$57M",
+    "url": "https://getlatka.com/companies/embrace",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "$20,000,000",
+    "url": "https://prospeo.io/c/embrace-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$112,000",
+    "url": "https://prospeo.io/c/embrace-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Culver City, California, United States",
+    "url": "https://prospeo.io/c/embrace-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2016",
+    "url": "https://prospeo.io/c/embrace-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Powered by OpenTelemetry, Embrace provides real user monitoring across mobile and web to tie technical performance to end-user impact.",
+    "url": "https://embrace.io/",
+    "pass": 1
+   },
+   {
+    "quote": "View product overview",
+    "url": "https://embrace.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Prioritize what actually impacts users and revenue. No more guessing. No more noisy dashboards. Just clear insights into what’s broken, why it matters, and how to fix it.",
+    "url": "https://embrace.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The most comprehensive mobile monitoring platform. Capture 100% of user sessions with automatic instrumentation for crashes, ANRs, network issues, and performance metrics.",
+    "url": "https://embrace.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive Real User Monitoring for web applications. Monitor Core Web Vitals, track user journeys, and understand how performance impacts your business metrics.",
+    "url": "https://embrace.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Embrace gives us the best way to improve app performance and user experience across our suite of mobile apps. We can measure specific user interactions, optimize complex journeys, and enhance the overall customer experience.",
+    "url": "https://embrace.io/",
+    "pass": 1
+   },
+   {
+    "quote": "By integrating Embrace with Grafana, we have implemented mobile SLOs with performance segmentation by app, so our teams can proactively address issues, minimize downtime, and improve service quality.",
+    "url": "https://embrace.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Embrace is the best monitoring solution we’ve found for our mobile games. The depth of insights they provide allows us to understand which issues to address and gives us the data our teams need to solve them. We can make better decisions for our business and users because of our partnership with Embrace.",
+    "url": "https://embrace.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Embrace has helped our team identify the source of issues, understand their impact, and ultimately solve them much more quickly and effortlessly than with previous tools.",
+    "url": "https://embrace.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Black Friday is one of the most important events of the year. We use Embrace to monitor our platform and troubleshoot any problems while the live event is going on.",
+    "url": "https://embrace.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Embrace is built on open standards like OpenTelemetry. You own your data, integrate it anywhere, and avoid the rigid pricing and limitations of all-in-one platforms.",
+    "url": "https://embrace.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Performance Profiling",
+    "url": "https://embrace.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Best practices for monitoring network conditions in mobile",
+    "url": "https://embrace.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Powered by OpenTelemetry, Embrace provides real user monitoring across mobile and web to tie technical performance to end-user impact.",
+    "url": "https://embrace.io/solutions/e-commerce-and-retail/",
+    "pass": 1
+   },
+   {
+    "quote": "View product overview",
+    "url": "https://embrace.io/solutions/e-commerce-and-retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Get real-time proactive alerting and a top-level view across crashes, user terminations, ANRs, errors, and much more when traffic and engagement spike without manually adding in breadcrumbs. Quickly go from customer complaint to complete session detail in seconds with PII-compliant user ID lookups.",
+    "url": "https://embrace.io/solutions/e-commerce-and-retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate friction and innovate rapidly by proactively planning for and addressing the pains associated with growth.",
+    "url": "https://embrace.io/solutions/e-commerce-and-retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Performance Profiling",
+    "url": "https://embrace.io/solutions/e-commerce-and-retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Best practices for monitoring network conditions in mobile",
+    "url": "https://embrace.io/solutions/e-commerce-and-retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Powered by OpenTelemetry, Embrace provides real user monitoring across mobile and web to tie technical performance to end-user impact.",
+    "url": "https://embrace.io/solutions/travel-and-hospitality/",
+    "pass": 1
+   },
+   {
+    "quote": "View product overview",
+    "url": "https://embrace.io/solutions/travel-and-hospitality/",
+    "pass": 1
+   },
+   {
+    "quote": "Handle the crunch of spring",
+    "url": "https://embrace.io/solutions/travel-and-hospitality/",
+    "pass": 1
+   },
+   {
+    "quote": "With Embrace, the BYHOURS mobile team can see where negative experiences result in revenue leaks. They can deliver better user experiences by instantly identifying, prioritizing, and solving issues with complete user session data.",
+    "url": "https://embrace.io/solutions/travel-and-hospitality/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify and prioritize issues",
+    "url": "https://embrace.io/solutions/travel-and-hospitality/",
+    "pass": 1
+   },
+   {
+    "quote": "There could be dozens of high-priority issues and stack traces to consider when assessing severity. Embrace uses high-fidelity unsampled data to intelligently surface and pinpoint which issues you should focus on based on frequency and common issue attributes like version, methods, architecture, and advanced segments like network requests for your most important user flows.",
+    "url": "https://embrace.io/solutions/travel-and-hospitality/",
+    "pass": 1
+   },
+   {
+    "quote": "development, product, and",
+    "url": "https://embrace.io/solutions/travel-and-hospitality/",
+    "pass": 1
+   },
+   {
+    "quote": "Full session context for every user experience is crucial for identifying, prioritizing, and solving the root cause of issues.",
+    "url": "https://embrace.io/solutions/travel-and-hospitality/",
+    "pass": 1
+   },
+   {
+    "quote": "Performance Profiling",
+    "url": "https://embrace.io/solutions/travel-and-hospitality/",
+    "pass": 1
+   },
+   {
+    "quote": "Best practices for monitoring network conditions in mobile",
+    "url": "https://embrace.io/solutions/travel-and-hospitality/",
+    "pass": 1
+   },
+   {
+    "quote": "Powered by OpenTelemetry, Embrace provides real user monitoring across mobile and web to tie technical performance to end-user impact.",
+    "url": "https://embrace.io/solutions/media-and-entertainment/",
+    "pass": 1
+   },
+   {
+    "quote": "View product overview",
+    "url": "https://embrace.io/solutions/media-and-entertainment/",
+    "pass": 1
+   },
+   {
+    "quote": "premieres, always deliver your",
+    "url": "https://embrace.io/solutions/media-and-entertainment/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure revenue-impacting ads",
+    "url": "https://embrace.io/solutions/media-and-entertainment/",
+    "pass": 1
+   },
+   {
+    "quote": "development, product, and",
+    "url": "https://embrace.io/solutions/media-and-entertainment/",
+    "pass": 1
+   },
+   {
+    "quote": "Full session context for every user experience is crucial for identifying, prioritizing, and solving the root cause of issues.",
+    "url": "https://embrace.io/solutions/media-and-entertainment/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how the Touch Surgery mobile team can effectively prioritize and solve failing startups that affect their high-value users.",
+    "url": "https://embrace.io/solutions/media-and-entertainment/",
+    "pass": 1
+   },
+   {
+    "quote": "Performance Profiling",
+    "url": "https://embrace.io/solutions/media-and-entertainment/",
+    "pass": 1
+   },
+   {
+    "quote": "Best practices for monitoring network conditions in mobile",
+    "url": "https://embrace.io/solutions/media-and-entertainment/",
+    "pass": 1
+   },
+   {
+    "quote": "Powered by OpenTelemetry, Embrace provides real user monitoring across mobile and web to tie technical performance to end-user impact.",
+    "url": "https://embrace.io/solutions/gaming/",
+    "pass": 1
+   },
+   {
+    "quote": "View product overview",
+    "url": "https://embrace.io/solutions/gaming/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactively find every app hang, crash, and error before your players do. Whether you’re using Unity, Android, iOS, or Flutter – get the full user journey in a single solution, purpose-built for mobile developers.",
+    "url": "https://embrace.io/solutions/gaming/",
+    "pass": 1
+   },
+   {
+    "quote": "Surface high priority ANRs and crashes that may be impacting your app rankings and discoverability",
+    "url": "https://embrace.io/solutions/gaming/",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent and eliminate issues",
+    "url": "https://embrace.io/solutions/gaming/",
+    "pass": 1
+   },
+   {
+    "quote": "development, product, and",
+    "url": "https://embrace.io/solutions/gaming/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn why it’s so difficult to detect ad SDK issues, and how better data can help you improve player experiences and hold ad vendors accountable.",
+    "url": "https://embrace.io/solutions/gaming/",
+    "pass": 1
+   },
+   {
+    "quote": "Performance Profiling",
+    "url": "https://embrace.io/solutions/gaming/",
+    "pass": 1
+   },
+   {
+    "quote": "Best practices for monitoring network conditions in mobile",
+    "url": "https://embrace.io/solutions/gaming/",
+    "pass": 1
+   },
+   {
+    "quote": "Powered by OpenTelemetry, Embrace provides real user monitoring across mobile and web to tie technical performance to end-user impact.",
+    "url": "https://embrace.io/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "View product overview",
+    "url": "https://embrace.io/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "24 April 2026",
+    "url": "https://embrace.io/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "3 April 2026",
+    "url": "https://embrace.io/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "Personify Health expedites issue resolution and streamlines the SRE release process with Embrace",
+    "url": "https://embrace.io/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "Tokopedia achieves and maintains >99% page loads, improves mobile user experience with Embrace",
+    "url": "https://embrace.io/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "TextNow switches from Firebase to Embrace as it looks to continuously improve its ANR and mobile app data",
+    "url": "https://embrace.io/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "EMA explores how Embrace and SpeedCurve’s combined strengths create a comprehensive experience layer across mobile, web, and backend systems. The briefing outlines the strategic impact on modern observability, performance engineering, and AI-driven reliability.",
+    "url": "https://embrace.io/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "Download the new research report to understand how industry professionals are adopting OpenTelemetry for mobile and weaving it into their bigger-picture observability strategies.",
+    "url": "https://embrace.io/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "Get a crash course on mobile app complexity, and why your existing observability approach is limiting visibility, increasing toil, and preventing collaboration across teams.",
+    "url": "https://embrace.io/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "Grab your copy of this guide for practical, actionable advice to build and maintain SLOs that keep end users and engineers happy.",
+    "url": "https://embrace.io/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "13 ways to improve your iOS shopping app’s performance",
+    "url": "https://embrace.io/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "Find out the priorities and pain points of Unity developers and how this affects the mobile game development process.",
+    "url": "https://embrace.io/resources/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Palo Alto Networks Completes Embrace Acquisition, Extending Leading Observability Platform with Innovative Digital Experience Monitoring",
+    "url": "https://embrace.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile and web teams weigh in on AI readiness, observability maturity, and the barriers holding teams back",
+    "url": "https://embrace.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Prioritize what actually impacts users and revenue. No more guessing. No more noisy dashboards. Just clear insights into what’s broken, why it matters, and how to fix it.",
+    "url": "https://embrace.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Palo Alto Networks Completes Embrace Acquisition, Extending Leading Observability Platform with Innovative Digital Experience Monitoring",
+    "url": "https://embrace.io/solutions/e-commerce-and-retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile and web teams weigh in on AI readiness, observability maturity, and the barriers holding teams back",
+    "url": "https://embrace.io/solutions/e-commerce-and-retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Surface revenue-impacting",
+    "url": "https://embrace.io/solutions/e-commerce-and-retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify and close revenue leaks",
+    "url": "https://embrace.io/solutions/e-commerce-and-retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Palo Alto Networks Completes Embrace Acquisition, Extending Leading Observability Platform with Innovative Digital Experience Monitoring",
+    "url": "https://embrace.io/solutions/travel-and-hospitality/",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile and web teams weigh in on AI readiness, observability maturity, and the barriers holding teams back",
+    "url": "https://embrace.io/solutions/travel-and-hospitality/",
+    "pass": 1
+   },
+   {
+    "quote": "With Embrace, the BYHOURS mobile team can see where negative experiences result in revenue leaks. They can deliver better user experiences by instantly identifying, prioritizing, and solving issues with complete user session data.",
+    "url": "https://embrace.io/solutions/travel-and-hospitality/",
+    "pass": 1
+   },
+   {
+    "quote": "that impact revenue with",
+    "url": "https://embrace.io/solutions/travel-and-hospitality/",
+    "pass": 1
+   },
+   {
+    "quote": "Palo Alto Networks Completes Embrace Acquisition, Extending Leading Observability Platform with Innovative Digital Experience Monitoring",
+    "url": "https://embrace.io/solutions/media-and-entertainment/",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile and web teams weigh in on AI readiness, observability maturity, and the barriers holding teams back",
+    "url": "https://embrace.io/solutions/media-and-entertainment/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure revenue-impacting ads",
+    "url": "https://embrace.io/solutions/media-and-entertainment/",
+    "pass": 1
+   },
+   {
+    "quote": "Palo Alto Networks Completes Embrace Acquisition, Extending Leading Observability Platform with Innovative Digital Experience Monitoring",
+    "url": "https://embrace.io/solutions/gaming/",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile and web teams weigh in on AI readiness, observability maturity, and the barriers holding teams back",
+    "url": "https://embrace.io/solutions/gaming/",
+    "pass": 1
+   },
+   {
+    "quote": "that cause revenue loss",
+    "url": "https://embrace.io/solutions/gaming/",
+    "pass": 1
+   },
+   {
+    "quote": "Palo Alto Networks Completes Embrace Acquisition, Extending Leading Observability Platform with Innovative Digital Experience Monitoring",
+    "url": "https://embrace.io/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile and web teams weigh in on AI readiness, observability maturity, and the barriers holding teams back",
+    "url": "https://embrace.io/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "Use this toolkit to align engineering work directly with revenue and customer outcomes",
+    "url": "https://embrace.io/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "Watch this OpenTelemetry expert panel to learn about the most loved (and hated) parts of everyone’s favorite observability framework. And to play “Fling, Marry, Kill” with logs, metrics, and traces.",
+    "url": "https://embrace.io/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "Palo Alto Networks Completes Embrace Acquisition, Extending Leading Observability Platform with Innovative Digital Experience Monitoring",
+    "url": "https://embrace.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile and web teams weigh in on AI readiness, observability maturity, and the barriers holding teams back",
+    "url": "https://embrace.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Palo Alto Networks Completes Embrace Acquisition, Extending Leading Observability Platform with Innovative Digital Experience Monitoring",
+    "url": "https://embrace.io/case-studies/wildlife/",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile and web teams weigh in on AI readiness, observability maturity, and the barriers holding teams back",
+    "url": "https://embrace.io/case-studies/wildlife/",
+    "pass": 1
+   },
+   {
+    "quote": "After investigating every lead that Embrace gave us, we found the best way to reduce our ANR rate was to disable ads for a subset of devices and stop supporting the game for very low-end devices. This allowed us to minimize the revenue impact while boosting our Play Store visibility. Embrace helped us to test the right things and discard ideas that would not lead us anywhere.",
+    "url": "https://embrace.io/case-studies/wildlife/",
+    "pass": 1
+   },
+   {
+    "quote": "In Sniper 3D’s case, low-end devices account for low revenue levels, and ads were disabled for the less profitable providers. In addition, the negative impact in downloads due to poor technical performance was evident.",
+    "url": "https://embrace.io/case-studies/wildlife/",
+    "pass": 1
+   },
+   {
+    "quote": "Technical Director of Sky Warriors",
+    "url": "https://embrace.io/case-studies/wildlife/",
+    "pass": 1
+   },
+   {
+    "quote": "Embrace is now an essential part of how Wildlife ships successful mobile games",
+    "url": "https://embrace.io/case-studies/wildlife/",
+    "pass": 1
+   },
+   {
+    "quote": "Palo Alto Networks Completes Embrace Acquisition, Extending Leading Observability Platform with Innovative Digital Experience Monitoring",
+    "url": "https://embrace.io/case-studies/goat/",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile and web teams weigh in on AI readiness, observability maturity, and the barriers holding teams back",
+    "url": "https://embrace.io/case-studies/goat/",
+    "pass": 1
+   },
+   {
+    "quote": "Embrace is an essential part of GOAT’s release workflow",
+    "url": "https://embrace.io/case-studies/goat/",
+    "pass": 1
+   },
+   {
+    "quote": "Palo Alto Networks Completes Embrace Acquisition, Extending Leading Observability Platform with Innovative Digital Experience Monitoring",
+    "url": "https://embrace.io/case-studies/byhours/",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile and web teams weigh in on AI readiness, observability maturity, and the barriers holding teams back",
+    "url": "https://embrace.io/case-studies/byhours/",
+    "pass": 1
+   },
+   {
+    "quote": "Palo Alto Networks Completes Embrace Acquisition, Extending Leading Observability Platform with Innovative Digital Experience Monitoring",
+    "url": "https://embrace.io/case-studies/kumu/",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile and web teams weigh in on AI readiness, observability maturity, and the barriers holding teams back",
+    "url": "https://embrace.io/case-studies/kumu/",
+    "pass": 1
+   },
+   {
+    "quote": "Palo Alto Networks Completes Embrace Acquisition, Extending Leading Observability Platform with Innovative Digital Experience Monitoring",
+    "url": "https://embrace.io/case-studies/touch-surgery/",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile and web teams weigh in on AI readiness, observability maturity, and the barriers holding teams back",
+    "url": "https://embrace.io/case-studies/touch-surgery/",
+    "pass": 1
+   },
+   {
+    "quote": "Palo Alto Networks Completes Embrace Acquisition, Extending Leading Observability Platform with Innovative Digital Experience Monitoring",
+    "url": "https://embrace.io/case-studies/adidas/",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile and web teams weigh in on AI readiness, observability maturity, and the barriers holding teams back",
+    "url": "https://embrace.io/case-studies/adidas/",
+    "pass": 1
+   },
+   {
+    "quote": "adidas Runtastic is a mobile health and fitness company founded in Austria in 2009. Acquired by adidas in 2015, adidas Runtastic’s two main offerings are mobile apps:",
+    "url": "https://embrace.io/case-studies/adidas/",
+    "pass": 1
+   },
+   {
+    "quote": "Acquired by adidas in 2015, adidas Runtastic is the magic behind popular health and fitness apps",
+    "url": "https://embrace.io/case-studies/adidas/",
+    "pass": 1
+   },
+   {
+    "quote": "putting the industry’s net revenues for 2023 at more than $29B. With no shortage of options on mobile app stores, including from internationally known fitness brands like adidas, expectations for user experience are sky high.",
+    "url": "https://embrace.io/case-studies/adidas/",
+    "pass": 1
+   },
+   {
+    "quote": "Structured as a series of undated diary-like entries in loose chronological order, the narrative offers an episodic, blow-by-blow account of his time abroad without formal chapter divisions.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The work frames these observations as part of an ongoing sense of confusion and uncertainty amid the muted lunacy of everyday life in Japan.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The book is presented as a collection of diary-like entries rather than a conventional narrative with formal chapters or sections.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The entries appear without specific dates, requiring readers to infer chronology from contextual references to major events such as arrival in Japan and eventual departure.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "It carries the ISBN 1892061341 and was initially offered at approximately $11.00 USD.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Eckert critiqued the book's vagueness, noting that insights into Japanese culture and education are often not fully spelled out and require readers to actively seek them or possess prior experience in Japan to fill in narrative gaps.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Rolf Potts described the narrative as well-observed and frequently hilarious, highlighting its ability to convey the surreal simplicity and culture shock of an East Asian sojourn.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "are optimizing app performance, deploying fixes faster, and delivering smoother experiences that increase revenue.",
+    "url": "https://get.embrace.io/customer-success-stories",
+    "pass": 3
+   },
+   {
+    "quote": "USA TODAY achieves 3x more video views and higher app engagement and ad revenue with Embrace",
+    "url": "https://www.casestudies.com/company/embrace",
+    "pass": 3
+   },
+   {
+    "quote": "UpCloud White Label Cloud Services is a plug-and-play white label cloud control panel that removes technical barriers to entry.",
+    "url": "https://upcloud.com/global/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "We understand your business and by partnering with us, you get competitive pricing structures maximising revenue potential and business growth",
+    "url": "https://upcloud.com/global/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "As an alternative cloud provider, UpCloud helps you unlock new revenue streams and opportunities.",
+    "url": "https://upcloud.com/global/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Our competitive pricing on high-performance cloud solutions boosts your profitability. Maximize your revenue streams by offering added value to your customers while standing out from competitors. Don’t follow the crowd—embrace innovation, challenge the standards, and differentiate your business with smarter solutions.",
+    "url": "https://upcloud.com/global/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace Revenue 2024: $24.2M Est., $57M Raised",
+    "url": "https://getlatka.com/companies/embrace",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace has not published its revenue. ZoomInfo puts it at about $24.2M a year (November 2024).",
+    "url": "https://getlatka.com/companies/embrace",
+    "pass": 3
+   },
+   {
+    "quote": "All 4 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/embrace",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace CEO, founders & employees",
+    "url": "https://getlatka.com/companies/embrace",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Farm Dog uses Embrace to eliminate crashes caused by poor network connection",
+    "url": "https://embrace.io/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "The testing environments aren’t always realistic to what is going on in the real world. So Embrace tracking and surfacing the level of connectivity properties of the user has been quite helpful. In addition, Embrace highlights slow API requests caused by client-side or server- side issues.",
+    "url": "https://embrace.io/case-studies/touch-surgery/",
+    "pass": 1
+   },
+   {
+    "quote": "Grove9 Case Study: Embrace – Embrace - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/grove9/case-study/embrace-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace - Customer Case Study",
+    "url": "https://www.casestudies.com/company/grove9/case-study/embrace-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Embrace used Grove9",
+    "url": "https://www.casestudies.com/company/grove9/case-study/embrace-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/grove9/case-study/embrace-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/grove9/case-study/embrace-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Download our customer case study roundup and discover:",
+    "url": "https://get.embrace.io/customer-success-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Computers and Electronics Manufacturing",
+    "url": "https://www.casestudies.com/company/embrace",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by 10,000+ organizations globally – GDPR compliant – ISO 27001 certified",
+    "url": "https://upcloud.com/global/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Website visibility and case study",
+    "url": "https://upcloud.com/global/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "MVN Industrial Solutions",
+    "url": "https://prospeo.io/c/embrace-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us for pricing",
+    "url": "https://embrace.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Please contact us first.",
+    "url": "https://embracejp.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Please \"contact us\" here first.",
+    "url": "https://embracejp.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/embrace-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "EMBRACEJAPAN｜日本の魅力を世界に発信",
+    "url": "https://embracejp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "あなたのお気に入りの日本を探してみませんか",
+    "url": "https://embracejp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "「日本の文化・体験・アート・食」などの「旅人の素材」を世界の旅人に届けることが「Embrace japan」の使命です",
+    "url": "https://embracejp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace Japanは、「日本の素材」を世界に届けたいという、想いのもと活動をしております",
+    "url": "https://embracejp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "「Embrace Japan」は「日本文化にふれ合う、楽しむ」をコンセプトに展開しております",
+    "url": "https://embracejp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "・東京のホテルのスイートルームに宿泊しているので「甲冑体験プラン」をホテルに呼んでやりたい",
+    "url": "https://embracejp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace Japan オープンします",
+    "url": "https://embracejp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "EMBRACEJAPAN｜日本の魅力を世界に発信",
+    "url": "https://embracejp.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "For you who are looking for the real Japan",
+    "url": "https://embracejp.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Find your favorite Japan.",
+    "url": "https://embracejp.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The mission of \"Embrace japan\" is to deliver \"traveler's materials\" such as \"Japanese culture, experiences, art, and food\" to travelers around the world.",
+    "url": "https://embracejp.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Learning\" about Japan",
+    "url": "https://embracejp.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "kenji (Japanese traditional architectural structure, where the building has its main entrance on the sidewalk)",
+    "url": "https://embracejp.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace Japan's Vision",
+    "url": "https://embracejp.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace Japan is a company that aims to deliver \"Japanese materials\" to the world.",
+    "url": "https://embracejp.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The concept of Embrace Japan is \"to interact with and enjoy Japanese culture.",
+    "url": "https://embracejp.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Delivery ninja, oiran (courtesans), juni-hitoe (12-layered kimono), viewing of Japanese musical instrument shows",
+    "url": "https://embracejp.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "I am staying in a suite at a hotel in Tokyo and would like to invite the \"Armor Experience Plan\" to the hotel.",
+    "url": "https://embracejp.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace Japan will open!",
+    "url": "https://embracejp.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語訳：AmazonのCEOアンディ・ジャシーは、従業員に人工知能（AI）を受け入れるよう伝え、この技術が数年で企業の従業員数を減らすだろうと警告しました",
+    "url": "https://ety-book.com/embrace/",
+    "pass": 3
+   },
+   {
+    "quote": "EMBRACEのものづくりを支えるのは日本の職人たち",
+    "url": "https://embrace-rv.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace Your Insignificance: Lessons Learned Teaching English in Japan (book) — Grokipedia",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace Your Insignificance: Lessons Learned Teaching English in Japan is a memoir by Bob Gaulke that chronicles his experiences as an Assistant Language Teacher in Japanese public middle schools through the JET Programme.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Published in 2009 by Future Tense Books, the 124-page book consists of informal, diary-like entries documenting roughly three years of the author's life in Japan, where he navigates cultural differences, professional challenges, and personal anxieties as a thirty-something American.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The book offers insights into the Japanese public education system, including widespread student apathy toward school lessons, reliance on cram schools for academic preparation, and resulting teacher frustrations that contribute to burnout.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Gaulke's reportage style is described as entertaining, oblique, and illuminating, capturing strange and surreal elements of life in Japan through candid observations and dry humor.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Gaulke later participated in the Japan Exchange and Teaching (JET) Programme as an assistant English teacher.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "During his time in Japan, he was an anxious thirty-something American navigating unfamiliar cultural surroundings.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Teaching English in Japan",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan Exchange and Teaching (JET) Programme, launched in 1987 by the Japanese government, has served as a major pathway for native English speakers to teach in Japan's public school system.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The initiative aims to enhance foreign language education, particularly English, while promoting mutual understanding between Japan and other countries and encouraging grassroots international exchange in local communities.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The majority of JET participants—more than 90%—serve as Assistant Language Teachers (ALTs), who are assigned to public elementary, junior high, and senior high schools throughout Japan.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "ALTs work under the supervision of Japanese Teachers of English (JTEs) or local boards of education, engaging primarily in team-teaching rather than independent instruction.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "English teaching through the JET Programme often occurs against a backdrop of systemic challenges in Japan's foreign language education.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "These conditions contrast sharply with Western stereotypes of Japanese education as uniformly rigorous and uniformly successful, revealing persistent issues with student disinterest in communicative subjects and broader patterns of exhaustion in the educational environment.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace Your Insignificance: Lessons Learned Teaching English in Japan",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "from a collection of informal diary, journal, and blog entries he wrote during his two-and-a-half-year stint as an assistant English teacher in several public Japanese middle schools through the JET Programme.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "is a memoir by Bob Gaulke chronicling his approximately three years as an assistant English teacher in Japanese public middle schools through the JET Programme.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "It covers his strange encounters, cultural misconnections, and teaching experiences in middle school settings, providing an unfiltered perspective on life as an outsider in Japanese education and society.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Observations on Japanese education",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": ", Bob Gaulke challenges the common Western stereotype of Japanese education as a uniformly rigorous and highly effective model, depicting instead a public school system characterized by widespread student apathy and systemic inefficiencies.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Gaulke portrays working in Japanese public schools as extremely frustrating due to this pervasive mutual apathy, although he presents this as a general trend rather than an absolute rule, acknowledging that enthusiastic teachers and motivated students still exist within the system.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "These observations highlight broader inefficiencies in the structure of Japanese public education, where overworked adolescents appear bored, disenfranchised, and resistant to classroom efforts despite the long hours invested in schooling and supplementary study.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "presents a series of distinctive cultural observations drawn from Bob Gaulke's experiences in Japan, highlighting elements that struck him as peculiar or revealing. These include Japanese girl gangs devoted to tea, notably a \"Peach Tea gang\" whose cliquish behavior is likened to the teenage dynamics in the American film",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Other encounters involve the use of cartoon robots to convey lessons on democracy, reflecting a distinctive fusion of pop culture and civic themes in Japanese media or public life.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "These anecdotes contribute to the author's broader depiction of Japan as a society filled with strange encounters and cultural misconnections that both fascinate and exhaust him as an anxious American navigating an unfamiliar environment.",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Japan - Embrace Horizons",
+    "url": "https://embracehorizons.com/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "During our 15-month journey traveling the world, we had the privilege of experiencing Japan across winter, spring, and summer. There is so much to do in Japan, you’ll never run out of new things to add to your bucket list. Click the article titles to discover deep dives into the neighborhoods, cuisine, and culture of the regions we loved most.",
+    "url": "https://embracehorizons.com/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Your 2026 Tokyo Itinerary: A Slow Travel Guide",
+    "url": "https://embracehorizons.com/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Getting Around Tokyo 2026: Airport Transfers, JR Passes, and Digital IC Cards",
+    "url": "https://embracehorizons.com/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Escaping the Crowds: Our 5 Favorite Quiet Spots in Tokyo",
+    "url": "https://embracehorizons.com/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "A Slow Travel Tokyo Food Guide: Eating Our Way Through the City",
+    "url": "https://embracehorizons.com/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "A Perfect Tokyo Afternoon: teamLab Borderless and Tokyo Tower",
+    "url": "https://embracehorizons.com/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語に訳すと「抱きしめる」という意味が一番に出てくるのだが、",
+    "url": "https://note.com/dress_burning/n/n32b591a6f294",
+    "pass": 3
+   },
+   {
+    "quote": "これにピッタリ当てはまる日本語がなかなか無い",
+    "url": "https://note.com/dress_burning/n/n32b591a6f294",
+    "pass": 3
+   },
+   {
+    "quote": "などの授業でも例に出されてきたが、一つのことを正確に繰り返し改善し極めていくのが得意な日本人は、",
+    "url": "https://note.com/dress_burning/n/n32b591a6f294",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "To travel agencies, tourism associations, and other interested parties",
+    "url": "https://embracejp.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program - UpCloud Global",
+    "url": "https://upcloud.com/global/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "UpCloud Partner Program",
+    "url": "https://upcloud.com/global/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "The UpCloud Partner Program, is crafted specifically for hosting companies and managed service providers (MSPs).",
+    "url": "https://upcloud.com/global/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Your Brand. Our Infrastructure.",
+    "url": "https://upcloud.com/global/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Cloud Services",
+    "url": "https://upcloud.com/global/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "UpCloud White Label Cloud Services is a plug-and-play white label cloud control panel that removes technical barriers to entry.",
+    "url": "https://upcloud.com/global/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "UpCloud was founded by web hosting entrepreneurs to empower companies and resellers with a robust, high-performance cloud infrastructure, freeing them to focus on their strengths: delivering exceptional managed services and outstanding customer experiences.",
+    "url": "https://upcloud.com/global/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Our white labeling capabilities enable you to brand our modern managed services as your own, fostering brand credibility and recognition while maintaining complete control over client relationships and service delivery",
+    "url": "https://upcloud.com/global/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller discount (lifetime)",
+    "url": "https://upcloud.com/global/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Join UpCloud Partner Program",
+    "url": "https://upcloud.com/global/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "UpCloud Partner Program has something to offer for everyone – resellers, service providers, and innovators.",
+    "url": "https://upcloud.com/global/partner-program/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "EMBRACEJAPAN｜日本の魅力を世界に発信 — Embrace Japanは、「日本の素材」を世界に届けたいという、想いのもと活動をしております。 「Embrace Japan」は「日本文化にふれ合う、楽しむ」をコンセプトに展開しております。 各メニューをツアー自体の企画やオプション販売、また地域活性化のイベントなどに活用して大きなアテンションに ...",
+    "url": "https://embracejp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "EMBRACEJAPAN｜日本の魅力を世界に発信 — The concept of Embrace Japan is \"to interact with and enjoy Japanese culture. Each menu will be used for planning the tours themselves, selling options, and for community revitalization events, which will be a major attrition.",
+    "url": "https://embracejp.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "embrace（受け入れる）の意味と語源：Amazon、AI導入で人員削減へ – C... — Jun 19, 2025 · はじめに こんにちは。今日は、最近のニュースでよく目にする英単語「embrace（受け入れる）」について深掘りしていきましょう。この単語は、新しい技術や変化に対して積極的に向き合う姿勢を表す際によく使われます。そして、この単語が使われたAmazonのアンディ・ジャシーCEOは、人工知能 ...",
+    "url": "https://ety-book.com/embrace/",
+    "pass": 3
+   },
+   {
+    "quote": "EMBRACE（エンブレース） | フランス・パリで活躍中のデザイナーズバ... — EMBRACE（エンブレース）はデザイナーズバッグや財布の通販サイト。パリで活躍する女性デザイナーがパイソンなどの素材を厳選し、日本の職人と共にこだわり抜いて作り上げています。",
+    "url": "https://embrace-rv.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「エンブレイス」という名の優しきリフトアップ | 日本を代表する美容... — Nov 5, 2025 · 名前の「エンブレイス（Embrace）」の意味が、まさにそのまま体現されていると思います。 多くの症例から得られた確信 当院でエンブレイスRFを導入してから、約1年半が経ちました。",
+    "url": "https://biancaclinic.jp/blog/46029/",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace Your Insignificance: Lessons Learned Teaching English in Japan (book) — Embrace Your Insignificance: Lessons Learned Teaching English in Japan is a memoir by Bob Gaulke that chronicles his experiences as an Assistant Language Teacher in Japanese public middle schools through the JET Programme. Published in 2009 by Futur…",
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "EMBRACEJAPAN｜日本の魅力を世界に発信 — Find your favorite Japan. The mission of \"Embrace japan\" is to deliver \"traveler's materials\" such as \"Japanese culture, experiences, art, and food\" to travelers around the world.",
+    "url": "https://embracejp.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "EMBRACEJAPAN｜日本の魅力を世界に発信 — Embrace Japanは、「日本の素材」を世界に届けたいという、想いのもと活動をしております。 「Embrace Japan」は「日本文化にふれ合う、楽しむ」をコンセプトに展開しております。",
+    "url": "https://embracejp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan - Embrace Horizons — Planning a trip to Japan? Explore our slow travel guides to Tokyo, Fukuoka, and Hokkaido. Discover our deep dives into neighborhoods, cuisine, and local culture.",
+    "url": "https://embracehorizons.com/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "当社について - embracejapan.com — Mar 26, 2026 · デジタルエンターテインメントに対する私たちのビジョン 私たちの使命の中核は、現代のオンラインカジノ私たちは、デジタル賭博は単なる一連の取引ではなく、世界有数の名門ゲーミングホールの雰囲気に匹敵する、没入感のある高精細な体験であるべきだと考えています。技術革新と ...",
+    "url": "https://www.embracejapan.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace - Customer Case Study — Embrace partnered with Grove9 to solve key challenges. \"Embrace - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/grove9/case-study/embrace-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace Infant Warmer: Market Strategy InsightsBest of Embrace Customer Case StudiesEmbrace B2B Case Studies & Customer SuccessesCase Studies | McKinsey & CompanyMAN Case Study | Embrace ERPEmbrace: Deciding on a Hybrid Structure | Stanford Graduate ... — Embrace Case study - Free download as PDF File (.pdf), Text File (.txt) or read online for free. Embrace had a competitive advantage over compet",
+    "url": "https://www.scribd.com/document/261086760/Embrace-Case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Best of Embrace Customer Case Studies — Your Guide to Embrace Customer Success Stories Real-world case studies from Embrace customers across mobile games, e-commerce, hospitality, and more.",
+    "url": "https://get.embrace.io/customer-success-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace B2B Case Studies & Customer Successes — See how Embrace solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/embrace",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace Revenue 2024: $24.2M Est., $57M Raised - LATKA — Oct 30, 2026 · Embrace 2024 estimated revenue: $24.2M (up from $16.7M in 2023). Total funding: $57M across 3 rounds. 112 employees. Founded 2016. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/embrace",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace – Valuation, Revenue & Market Scope – 2026 — Embrace Revenue & Valuation Current figures suggest that Embrace earns about $17.8M per year. The revenue per employee estimate for Embrace is $140K. Cumulative funding for Embrace currently stands at $80M.",
+    "url": "https://compworth.com/company/embrace",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace Revenue, Funding & Valuation - prospeo.io — Embrace has revenue of $14,000,000, estimated valuation of $44,800,000, $20,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/embrace-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace — company profile, headcount and funding | Inven — Embrace's platform helps organizations enhance their digital products by providing insights into user interactions and performance metrics. Employees 126 Founded 2016 Ownership corporate Est. revenue $13.1M",
+    "url": "https://www.inven.ai/data/companies/embrace-io",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace – Estimated Net Worth, Growth & Competitor Overview – … — Embrace’s strategic edge lies in estimated revenue of $7.5M, team of around 90+ employees, located in Oakland, giving it an advantage in its niche.",
+    "url": "https://compworth.com/company/embraceglobalorg",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "アメリカに教わった\"Embrace\"という概念｜つくね Nov 20, 2025 · （2018年、MBA在学中に書いた文章です） こちらに来てから、アメリカの良い文化だと思っていることがある。 ”Embrace”という概念である。 \"Embrace\"とは 日本語に訳すと「抱きしめる」という意味が一番に出てくるのだが、アメリカではそれ以上に別の意味で使われることの方が多い。 それは ...",
+    "url": "https://note.com/dress_burning/n/n32b591a6f294",
+    "pass": 3
+   },
+   {
+    "quote": "【With the 'you of now,' embrace your life properly once again.】 Not for someone else's expectations, not by your former rules of success, but with the ' you of now,' embrace your life properly once again. 【Highly Recommended Video】",
+    "url": "https://note.com/hamashi3/n/nf29d21f5e732?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "BUMP OF CHICKENの『embrace』｜ナナシ - note（ノート） Aug 18, 2025 · こんにちは、ナナシです。 ずっとエンバランスって発音してました。 カタカナで書くとしたら、 エンブレイスですよね。 カラオケでも「次エンバランス歌うわ」って 周りに言ってました。 BUMP OF CHICKENの曲を周りはそんなに 知らないから、なんとか助かりました。 恥を知れ恥を。 \"embrace\"の ...",
+    "url": "https://note.com/you_cat/n/n8f827415b44a",
+    "pass": 3
+   },
+   {
+    "quote": "The Golden Embrace｜kaori チャートの向こうと、物語 Sep 27, 2026 · This is a story about a girl who thought she was unloved, until she learned that she had been loved all along.Once, in a small town where the inside of the windowpanes would cloud over white whenever winter came, there lived a young girl.The girl's name was Lilia.Lilia did not smile very often.I",
+    "url": "https://note.com/nanohana77/n/n3e72401cc050?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "アメリカに教わった\"Embrace\"という概念｜つくね",
+    "url": "https://note.com/dress_burning/n/n32b591a6f294",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカに教わった\"Embrace\"という概念",
+    "url": "https://note.com/dress_burning/n/n32b591a6f294",
+    "pass": 3
+   },
+   {
+    "quote": "（2018年、MBA在学中に書いた文章です）",
+    "url": "https://note.com/dress_burning/n/n32b591a6f294",
+    "pass": 3
+   },
+   {
+    "quote": "日本語に訳すと「抱きしめる」という意味が一番に出てくるのだが、",
+    "url": "https://note.com/dress_burning/n/n32b591a6f294",
+    "pass": 3
+   },
+   {
+    "quote": "カではそれ以上に別の意味で使われることの方が多い。",
+    "url": "https://note.com/dress_burning/n/n32b591a6f294",
+    "pass": 3
+   },
+   {
+    "quote": "何か外からやってきたものごとを、興味と関心を持って受け入れ、楽しむ」",
+    "url": "https://note.com/dress_burning/n/n32b591a6f294",
+    "pass": 3
+   },
+   {
+    "quote": "これにピッタリ当てはまる日本語がなかなか無い。",
+    "url": "https://note.com/dress_burning/n/n32b591a6f294",
+    "pass": 3
+   },
+   {
+    "quote": "”to accept something with great interest or enthusiasm”",
+    "url": "https://note.com/dress_burning/n/n32b591a6f294",
+    "pass": 3
+   },
+   {
+    "quote": "【With the 'you of now,' embrace your life properly once again.】｜柳本剛志",
+    "url": "https://note.com/hamashi3/n/nf29d21f5e732?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/hamashi3/n/nf29d21f5e732?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【With the 'you of now,' embrace your life properly once again.】",
+    "url": "https://note.com/hamashi3/n/nf29d21f5e732?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It 'descends naturally'.",
+    "url": "https://note.com/hamashi3/n/nf29d21f5e732?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Everything happens naturally.",
+    "url": "https://note.com/hamashi3/n/nf29d21f5e732?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "'Natural' means 'in the direction of things as they are'",
+    "url": "https://note.com/hamashi3/n/nf29d21f5e732?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Events that connect to the direction of things as they are are happening all around us. This is the fundamental premise.",
+    "url": "https://note.com/hamashi3/n/nf29d21f5e732?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Those who are facing their 'negatives',",
+    "url": "https://note.com/hamashi3/n/nf29d21f5e732?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "BUMP OF CHICKENの『embrace』｜ナナシ",
+    "url": "https://note.com/you_cat/n/n8f827415b44a",
+    "pass": 3
+   },
+   {
+    "quote": "BUMP OF CHICKENの『embrace』",
+    "url": "https://note.com/you_cat/n/n8f827415b44a",
+    "pass": 3
+   },
+   {
+    "quote": "BUMP OF CHICKENの曲を周りはそんなに",
+    "url": "https://note.com/you_cat/n/n8f827415b44a",
+    "pass": 3
+   },
+   {
+    "quote": "同じ意味として\"hug\"、ハグがありますが、",
+    "url": "https://note.com/you_cat/n/n8f827415b44a",
+    "pass": 3
+   },
+   {
+    "quote": "GPTくんによると、より精神的な受容や包容",
+    "url": "https://note.com/you_cat/n/n8f827415b44a",
+    "pass": 3
+   },
+   {
+    "quote": "「embrace」作詞・作曲：藤原基央 / BUMP OF CHICKEN",
+    "url": "https://note.com/you_cat/n/n8f827415b44a",
+    "pass": 3
+   },
+   {
+    "quote": "場所は部屋の中、ここから移動する事はありません。",
+    "url": "https://note.com/you_cat/n/n8f827415b44a",
+    "pass": 3
+   },
+   {
+    "quote": "念入りに二人だけしかいないのを確認する様に",
+    "url": "https://note.com/you_cat/n/n8f827415b44a",
+    "pass": 3
+   },
+   {
+    "quote": "The Golden Embrace｜kaori🌿チャートの向こうと、物語",
+    "url": "https://note.com/nanohana77/n/n3e72401cc050?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/nanohana77/n/n3e72401cc050?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is a story about a girl who thought she was unloved,",
+    "url": "https://note.com/nanohana77/n/n3e72401cc050?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "until she learned that she had been loved all along.",
+    "url": "https://note.com/nanohana77/n/n3e72401cc050?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Once, in a small town where the inside of the windowpanes would cloud over white whenever winter came, there lived a young girl.",
+    "url": "https://note.com/nanohana77/n/n3e72401cc050?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The girl's name was Lilia.",
+    "url": "https://note.com/nanohana77/n/n3e72401cc050?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Lilia did not smile very often.",
+    "url": "https://note.com/nanohana77/n/n3e72401cc050?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It was not that she was a child who never smiled by nature.",
+    "url": "https://note.com/nanohana77/n/n3e72401cc050?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "EMBRace (@EMBRaceProgram) / X EMBRace is a culturally-based therapeutic program that empowers African-American families to confront racial stress together while strengthening family ties!",
+    "url": "https://x.com/EMBRaceProgram",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace (@embracemobile) / X Embrace is now part of Palo Alto Networks! User-focused observability for mobile and web, built on #OpenTelemetry. Proudly in YC S19 and YCG21.",
+    "url": "https://x.com/embracemobile",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace Church (@iamembrace) / X Relentlessly reaching the next person for Jesus. We are made up of campuses & network churches in South Dakota, Minnesota & online. 🎉 #iamembrace",
+    "url": "https://x.com/iamembrace",
+    "pass": 3
+   },
+   {
+    "quote": "#embrace - Search / X See posts about #embrace on X. See what people are saying and join the conversation.",
+    "url": "https://x.com/hashtag/embrace",
+    "pass": 3
+   },
+   {
+    "quote": "short動画投稿 紫之創担当Pが「EMBRACE ... - x.com Jun 19, 2026 · 🪼 short動画投稿 🪼 紫之創担当Pが「EMBRACE」を歌いました 🔗 youtube.com/shorts/eIQCWa9…",
+    "url": "https://x.com/KurarageMikumo/status/2067940457892794456",
+    "pass": 3
+   },
+   {
+    "quote": "The White House on X: \"Embrace the penguin.\" / X - x.com Jan 24, 2026 · Embrace the penguin. Cat check: Penguins live in the Southern Hemisphere",
+    "url": "https://x.com/WhiteHouse/status/2014819683757678654",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace (@embrace) / X New album ‘Avalanche’ - Out Now!!! UK Headline Tour - tickets on sale now. Celebrating 30 years!!",
+    "url": "https://x.com/embrace",
+    "pass": 3
+   },
+   {
+    "quote": "embrace (@f3san1) / X ／ 📢7/11 (金)限定 #セブンイレブンの日 をTAP👆 \\ Xでは抽選で71,100名様に 無料クーポンが当たる キャンペーンを開催🎁 ① @ 711SEJ をフォロー ② #セブンイレブンの日 をつけてこの投稿を引用ポスト ③👇から応募して結果を確認 sej-rp250711.belugacpn.jp ④さらに ...",
+    "url": "https://x.com/f3san1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Embrace - LinkedIn Embrace Embrace is the only user-focused observability platform that ties technical performance to end-user impact. Powered by OpenTelemetry, Embrace provides real user monitoring (RUM) across ...",
+    "url": "https://www.linkedin.com/company/embrace.io",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace - LinkedIn Embrace | 3,061 followers on LinkedIn. The Operating Layer For Media | Embrace builds an operating layer for media companies, offering automation and collaboration platforms that simplify complex ...",
+    "url": "https://www.linkedin.com/company/embracemedia",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace Srl - LinkedIn Embrace Srl Servicios médicos Buenos Aires, Ciudad Autónoma de Buenos Aires 244 seguidores Asistir nos Inspira Seguir Denunciar esta empresa",
+    "url": "https://ar.linkedin.com/company/embrace-srl",
+    "pass": 3
+   },
+   {
+    "quote": "Embrace Community Services - LinkedIn Embrace Community Services | 1,345 followers on LinkedIn. Embrace Community Services | The aim of our strengths-based service is to afford each resident the opportunity to develop a valued social role within their community. We empower our residents to take on greater levels of independence to live with a greater level of self-sufficiency.",
+    "url": "https://ie.linkedin.com/company/embrace-living",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://embrace.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embrace.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embrace.io/solutions/e-commerce-and-retail/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embrace.io/solutions/travel-and-hospitality/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embrace.io/solutions/media-and-entertainment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embrace.io/solutions/gaming/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embrace.io/resources/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embrace.io/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embrace.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embrace.io/case-studies/wildlife/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embrace.io/case-studies/goat/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embrace.io/case-studies/byhours/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://embrace.io/case-studies/kumu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embrace.io/case-studies/touch-surgery/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embrace.io/resources/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embrace.io/case-studies/adidas/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://embracejp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embracejp.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ety-book.com/embrace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embrace-rv.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embracejp.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embracejp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://embracehorizons.com/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/grove9/case-study/embrace-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scribd.com/document/261086760/Embrace-Case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://get.embrace.io/customer-success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/embrace",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/embrace",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/embrace",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/embrace-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inven.ai/data/companies/embrace-io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dress_burning/n/n32b591a6f294",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hamashi3/n/nf29d21f5e732?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/you_cat/n/n8f827415b44a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nanohana77/n/n3e72401cc050?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/EMBRaceProgram",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/embracemobile",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/iamembrace",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/embrace",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/embrace.io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/embracemedia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ar.linkedin.com/company/embrace-srl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ie.linkedin.com/company/embrace-living",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/KurarageMikumo/status/2067940457892794456",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/WhiteHouse/status/2014819683757678654",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/embrace",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/f3san1",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Embrace 日本 導入",
+   "results": [
+    "https://embracejp.com/",
+    "https://embracejp.com/en/",
+    "https://ety-book.com/embrace/",
+    "https://embrace-rv.jp/",
+    "https://biancaclinic.jp/blog/46029/",
+    "https://www.embrace.co.jp/",
+    "https://embrace-japan.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Embrace 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Embrace Japan",
+   "results": [
+    "https://grokipedia.com/page/embrace_your_insignificance_lessons_learned_teaching_english_in_japan_(book)",
+    "https://embracejp.com/en/",
+    "https://embracejp.com/",
+    "https://embracehorizons.com/japan/",
+    "https://www.embracejapan.com/about/",
+    "https://embrace-japan.com/en/start-en/",
+    "https://embrace-japan.com/en/",
+    "https://www.embrace.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Embrace manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/grove9/case-study/embrace-customer-case-study",
+    "https://www.scribd.com/document/261086760/Embrace-Case-study",
+    "https://get.embrace.io/customer-success-stories",
+    "https://www.casestudies.com/company/embrace",
+    "https://www.mckinsey.com/about-us/case-studies",
+    "https://embrace.co.za/case-studies/man-case-study/",
+    "https://www.gsb.stanford.edu/faculty-research/publications/embrace-deciding-hybrid-structure"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Embrace white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://www.cohesity.com/partners/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Embrace founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/embrace",
+    "https://compworth.com/company/embrace",
+    "https://prospeo.io/c/embrace-revenue",
+    "https://www.inven.ai/data/companies/embrace-io",
+    "https://compworth.com/company/embraceglobalorg",
+    "https://pitchbook.com/profiles/company/741879-64",
+    "https://prospeo.io/c/embrace-hair-care-revenue"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Embrace",
+   "results": [
+    "https://note.com/dress_burning/n/n32b591a6f294",
+    "https://note.com/hamashi3/n/nf29d21f5e732?hl=en",
+    "https://note.com/you_cat/n/n8f827415b44a",
+    "https://note.com/nanohana77/n/n3e72401cc050?hl=en",
+    "https://note.com/j_pop87811/n/n0d2687f5d759?hl=en",
+    "https://note.com/ample_lynx9409/n/naeef6cd62b10",
+    "https://note.com/pocketbooq/n/n8f606787592e?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Embrace",
+   "results": [
+    "https://x.com/EMBRaceProgram",
+    "https://x.com/embracemobile",
+    "https://x.com/iamembrace",
+    "https://x.com/hashtag/embrace",
+    "https://x.com/capitalembrace",
+    "https://x.com/embracettruth/status/2120543942756196671",
+    "https://x.com/embrace"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Embrace",
+   "results": [
+    "https://www.linkedin.com/company/embrace.io",
+    "https://www.linkedin.com/company/embracemedia",
+    "https://ar.linkedin.com/company/embrace-srl",
+    "https://ie.linkedin.com/company/embrace-living",
+    "https://pk.linkedin.com/company/embrace-it-software-development-management-consultancy",
+    "https://uk.linkedin.com/company/embrace-financial-services",
+    "https://uk.linkedin.com/in/jonathan-layton-cemap-41481117a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Embrace",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Embrace note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.kokuyo.com/design-award/goods/embrace-note/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://note.com/sadaaki"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Embrace X 投稿",
+   "results": [
+    "https://x.com/KurarageMikumo/status/2067940457892794456",
+    "https://x.com/WhiteHouse/status/2014819683757678654",
+    "https://x.com/embrace",
+    "https://x.com/f3san1",
+    "https://x.com/6333Ryuji/status/1820121154302222393",
+    "https://x.com/moe_embrace/status/2117198984355905833",
+    "https://help.x.com/ja/using-x/edit-post"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部40頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部40頁・検索12回）"
+ }
+}

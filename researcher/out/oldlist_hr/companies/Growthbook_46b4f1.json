@@ -1,0 +1,1734 @@
+{
+ "name": "Growthbook",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜リマイン1",
+ "researched_at": "2026-11-11T23:43:19.287402+00:00",
+ "official_url": "https://www.growthbook.io",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金タイプ",
+    "value": "フリーミアム（無料〜$40 / seat / month） 無料枠 あり（最大3ユーザー・1プロジェクト・フィーチャーフラグ・実験・トラフィック無制限）",
+    "url": "https://aipicks.jp/tool/growthbook-5-0#japanese",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "GrowthBook | Experimentation, Feature Flags & Product Analytics Platform",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The warehouse-native platform used by modern product teams for experimentation, feature flags, and product analytics.",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "• Go deeper with product analytics",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthBook connects to all your product data, so your team can understand user behavior, track trends, and identify opportunities. Ask our AI Analyst or explore your data with your agents.",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Product Analytics",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox uses GrowthBook to safely drive AI product development",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "premium subscriptions",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Khan Academy uses GrowthBook to improve AI tutoring",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Oda Built a Faster, Smarter Experimentation Practice",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Same features, same product, 100% on your cloud or on prem.",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Why product teams prefer GrowthBook",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Uncover opportunities with product analytics",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Twitch: false negatives are killing your best product ideas",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "OpenFeature Provider Python",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "pip install growthbook-openfeature-provider",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "OpenFeature Provider Go",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "go get github.com/growthbook/growthbook-openfeature-provider-go",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "OpenFeature Provider .NET",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "OpenFeature Provider Java",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "com.github.growthbook:growthbook-openfeature-provider-java:",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthBook gives us a way to standardize experimentation while respecting the way Wikimedia projects actually work: open source, self-hosted, privacy-first, and deeply integrated with our existing data infrastructure.",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Principal Engineer, Wikimedia",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Manager, Lingokids",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We are always experimenting now. It’s a natural part of product development. This is due to GrowthBook and the ease of usage both in the UX and in the seamless integration with Snowflake/DWH.\"",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "No credit card required. Start with feature flags, experimentation, and product analytics — free.",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox uses GrowthBook to safely drive AI product development",
+    "url": "https://www.growthbook.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthBook fit the Wikimedia Foundation’s self-hosted, privacy-first stack, supporting massive traffic, custom infrastructure, and warehouse-native analysis.",
+    "url": "https://www.growthbook.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How a small cross-functional team turned siloed testing into a company-wide practice, running nearly 100 experiments with millions of readers and driving double-digit subscription gains.",
+    "url": "https://www.growthbook.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How a global theater ticketing platform used GrowthBook to run 50+ A/B tests, and discovered design rules that now shape Broadway marketing.",
+    "url": "https://www.growthbook.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Khan Academy uses GrowthBook to improve AI tutoring",
+    "url": "https://www.growthbook.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Khan Academy uses GrowthBook to test Khanmigo prompts, system instructions, and models in production while protecting learner trust, data privacy, and site performance.",
+    "url": "https://www.growthbook.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Oda Built a Faster, Smarter Experimentation Practice",
+    "url": "https://www.growthbook.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "By replacing a hard-coded in-house setup with a warehouse-native workflow on top of Snowflake, Oda made experimentation part of everyday product development.",
+    "url": "https://www.growthbook.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How a global kids entertainment platform uses disciplined experimentation to improve conversion, reduce risk, and scale confident product decisions.",
+    "url": "https://www.growthbook.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fyxer used GrowthBook and AI-assisted workflows to run 541 A/B tests in one year, helping a four-person growth team learn faster, ship faster, and scale product-led growth.",
+    "url": "https://www.growthbook.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthBook empowers Upstart's engineering teams to innovate faster, reduce dependency on manual analytics processes, and ensure data privacy with its on-premises solution.",
+    "url": "https://www.growthbook.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Treatwell accelerates product experimentation across marketplace teams",
+    "url": "https://www.growthbook.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "No credit card required. Start with feature flags, experimentation, and product analytics — free.",
+    "url": "https://www.growthbook.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "BrillMark builds, QAs, and analyzes feature flag and A/B test implementations for CRO agencies and brands, pairing AI-assisted test prioritization and automation with hands-on engineering across any testing platform.",
+    "url": "https://www.growthbook.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The Nordic leader in experimentation and digital growth, Conversionista helps businesses increase sales, build better products, and validate new ideas, using data, AI, and the scientific rigor of experimentation rather than guesswork.",
+    "url": "https://www.growthbook.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Mintminds helps teams scale testing programs to drive predictable, measurable, data-driven growth with a specialization in GrowthBook implementation and management.",
+    "url": "https://www.growthbook.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Speero builds, manages, and scales growth experimentation programs for product and marketing teams, powered by research, engineering, and its XOS operating system.",
+    "url": "https://www.growthbook.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "No credit card required. Start with feature flags, experimentation, and product analytics — free.",
+    "url": "https://www.growthbook.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox uses GrowthBook to safely drive AI product development",
+    "url": "https://www.growthbook.io/customers/dropbox",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox is a global cloud platform that helps hundreds of millions of users store, share, and collaborate on files. As Dropbox expanded its product portfolio, including new AI-driven experiences, the company needed a modern experimentation and release platform that could operate at scale while meeting strict security, compliance, and data infrastructure requirements.",
+    "url": "https://www.growthbook.io/customers/dropbox",
+    "pass": 1
+   },
+   {
+    "quote": "With over 3 billion feature evaluations and 1 billion logs processed daily, Dropbox is operating at a scale where the infrastructure team needs to be world-class.",
+    "url": "https://www.growthbook.io/customers/dropbox",
+    "pass": 1
+   },
+   {
+    "quote": "As the company grew through acquisitions and launched new AI-driven products, Dropbox found itself managing a fragmented ecosystem of internal tools for feature flagging, experimentation, and analysis. The result was rising complexity, slower decision-making, and growing maintenance costs.",
+    "url": "https://www.growthbook.io/customers/dropbox",
+    "pass": 1
+   },
+   {
+    "quote": "Tool sprawl and rising complexity",
+    "url": "https://www.growthbook.io/customers/dropbox",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox supports multiple programming languages and platforms across web, desktop, and mobile, complicating standardization.",
+    "url": "https://www.growthbook.io/customers/dropbox",
+    "pass": 1
+   },
+   {
+    "quote": "Growing pressure from AI product development",
+    "url": "https://www.growthbook.io/customers/dropbox",
+    "pass": 1
+   },
+   {
+    "quote": "New AI-driven products required rapid iteration, staged rollouts, and fast rollback capabilities without risking stability.",
+    "url": "https://www.growthbook.io/customers/dropbox",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox runs GrowthBook self-hosted on AWS and analyzes experiments directly in its Databricks data lake. This avoided costly and risky data duplication to third-party vendors while preserving full control over sensitive data.",
+    "url": "https://www.growthbook.io/customers/dropbox",
+    "pass": 1
+   },
+   {
+    "quote": "3. Modern UX and Rapid Product Evolution",
+    "url": "https://www.growthbook.io/customers/dropbox",
+    "pass": 1
+   },
+   {
+    "quote": "Compared to Dropbox’s legacy tools, GrowthBook’s UI and analytics dramatically lowered friction for engineers and data scientists. Dropbox also values GrowthBook’s fast pace of improvement and responsiveness to feature requests.",
+    "url": "https://www.growthbook.io/customers/dropbox",
+    "pass": 1
+   },
+   {
+    "quote": "This eliminated overlapping audience definitions and confusion around targeting, while enabling precise, staged rollouts across desktop, web, and mobile platforms.",
+    "url": "https://www.growthbook.io/customers/dropbox",
+    "pass": 1
+   },
+   {
+    "quote": "For emerging AI products like Dash, GrowthBook became the backbone for safe, high-velocity releases in a fast-moving market.",
+    "url": "https://www.growthbook.io/customers/dropbox",
+    "pass": 1
+   },
+   {
+    "quote": "today, experimentation remains a core capability and strategic priority.",
+    "url": "https://www.growthbook.io/customers/dropbox",
+    "pass": 1
+   },
+   {
+    "quote": "Product managers primarily consume results and make decisions",
+    "url": "https://www.growthbook.io/customers/dropbox",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox uses experimentation not just to validate wins, but to avoid costly mistakes and guide product direction with statistical rigor.",
+    "url": "https://www.growthbook.io/customers/dropbox",
+    "pass": 1
+   },
+   {
+    "quote": "“Experimentation is how we decide where to invest. It prevents us from shipping things that feel right but don’t actually move metrics. Neutral or negative results save us from scaling the wrong ideas.”",
+    "url": "https://www.growthbook.io/customers/dropbox",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "The warehouse-native platform used by modern product teams for experimentation, feature flags, and product analytics.",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 4,000+ companies worldwide",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's leading data science teams, GrowthBook is built for your teams and agents to run rigorous tests at scale and learn faster.",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Instant updates, low maintenance, and warehouse-native.",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse-native architecture",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Define metrics in SQL on your data warehouse",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthBook low-latency feature flags, high-velocity experimentation, and warehouse-native analytics scale with every team, every agent, every release.",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthBook fit the Wikimedia Foundation’s self-hosted, privacy-first stack, supporting massive traffic, custom infrastructure, and warehouse-native analysis.",
+    "url": "https://www.growthbook.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "By replacing a hard-coded in-house setup with a warehouse-native workflow on top of Snowflake, Oda made experimentation part of everyday product development.",
+    "url": "https://www.growthbook.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Building an experimentation culture with a warehouse-native experimentation platform enabled faster decisions, deeper insights, and scalable testing across markets.",
+    "url": "https://www.growthbook.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "1. Self-Hosted, Warehouse-Native Analytics",
+    "url": "https://www.growthbook.io/customers/dropbox",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthBook is the warehouse-native platform for experimentation, feature flags, and product analytics trusted by AI-native product teams at 4,000+ companies worldwide.",
+    "url": "https://www.growthbook.io/customers/dropbox",
+    "pass": 1
+   },
+   {
+    "quote": "Bring your own warehouse",
+    "url": "https://www.growthbook.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Managed warehouse option",
+    "url": "https://www.growthbook.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthBook Managed Warehouse",
+    "url": "https://www.growthbook.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No need to connect your data warehouse.",
+    "url": "https://www.growthbook.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Your Own Warehouse",
+    "url": "https://www.growthbook.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Product teams choose GrowthBook over Optimizely when they want to reduce complexity and cost with a warehouse-native experimentation, feature flags, and product analytics platform.",
+    "url": "https://www.growthbook.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 4,000+ companies worldwide",
+    "url": "https://www.growthbook.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The Enterprise option is aimed at large teams with apps and websites that can serve millions of users and billions of events. Regulated industries choose enterprise for advanced governance, and custom security integrations (SSO, SCIM). Enterprise is ideal for organizations that require data-warehouse cost controls and formal support agreements.",
+    "url": "https://www.growthbook.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Can GrowthBook connect to our data warehouse?",
+    "url": "https://www.growthbook.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthBook is warehouse-native and connects directly to Snowflake, BigQuery, Redshift, Databricks, Clickhouse, and other systems. Enterprise plans offer fact-table optimization and incremental updates to reduce query costs and latency. A managed warehouse is available for our Starter and Pro plans so you can get up and running quickly.",
+    "url": "https://www.growthbook.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthBook fit the Wikimedia Foundation’s self-hosted, privacy-first stack, supporting massive traffic, custom infrastructure, and warehouse-native analysis.",
+    "url": "https://www.growthbook.io/customers/how-the-wikimedia-foundation-scaled-experimentation-for-15b-monthly-page-views",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthBook meets those requirements by integrating directly with the Foundation’s existing stack: self-hosted deployment, Presto/Trino connectivity, Kerberos authentication, OIDC/SSO support, warehouse-native analysis, and an open-source collaboration model.",
+    "url": "https://www.growthbook.io/customers/how-the-wikimedia-foundation-scaled-experimentation-for-15b-monthly-page-views",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse-native analysis",
+    "url": "https://www.growthbook.io/customers/how-the-wikimedia-foundation-scaled-experimentation-for-15b-monthly-page-views",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthBook is the warehouse-native platform for experimentation, feature flags, and product analytics trusted by AI-native product teams at 4,000+ companies worldwide.",
+    "url": "https://www.growthbook.io/customers/how-the-wikimedia-foundation-scaled-experimentation-for-15b-monthly-page-views",
+    "pass": 1
+   },
+   {
+    "quote": "The solution: GrowthBook’s warehouse-native platform",
+    "url": "https://www.growthbook.io/customers/breeze-airways",
+    "pass": 1
+   },
+   {
+    "quote": "Breeze chose GrowthBook for its flexibility, developer-first design, and seamless integration with their BigQuery warehouse.",
+    "url": "https://www.growthbook.io/customers/breeze-airways",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse-Native Analytics",
+    "url": "https://www.growthbook.io/customers/breeze-airways",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthBook is the warehouse-native platform for experimentation, feature flags, and product analytics trusted by AI-native product teams at 4,000+ companies worldwide.",
+    "url": "https://www.growthbook.io/customers/breeze-airways",
+    "pass": 1
+   },
+   {
+    "quote": "Philadelphia Inquirer Case Study | GrowthBook Experimentation | Growthbook",
+    "url": "https://www.growthbook.io/customers/the-philadelphia-inquirer-scales-experimentation-across-the-organization",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthBook is the warehouse-native platform for experimentation, feature flags, and product analytics trusted by AI-native product teams at 4,000+ companies worldwide.",
+    "url": "https://www.growthbook.io/customers/the-philadelphia-inquirer-scales-experimentation-across-the-organization",
+    "pass": 1
+   },
+   {
+    "quote": "TodayTix Group integrated GrowthBook directly with Redshift, connecting experiment assignment and analysis to the same data warehouse already powering their analytics. The warehouse-native approach meant no duplicate pipelines, no third-party data transfers, and no new infrastructure to maintain.",
+    "url": "https://www.growthbook.io/customers/todaytix",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthBook is the warehouse-native platform for experimentation, feature flags, and product analytics trusted by AI-native product teams at 4,000+ companies worldwide.",
+    "url": "https://www.growthbook.io/customers/todaytix",
+    "pass": 1
+   },
+   {
+    "quote": "In 2024, Khan Academy launched GrowthBook as its self-hosted platform for feature flags and experiments. GrowthBook fit because it could use Khan Academy’s existing data warehouse, data pipelines, instrumented events, and metrics. It also supported experiments without slowing a site with roughly one million daily active users.",
+    "url": "https://www.growthbook.io/customers/khan-academy",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse-native analysis using existing data infrastructure",
+    "url": "https://www.growthbook.io/customers/khan-academy",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthBook is the warehouse-native platform for experimentation, feature flags, and product analytics trusted by AI-native product teams at 4,000+ companies worldwide.",
+    "url": "https://www.growthbook.io/customers/khan-academy",
+    "pass": 1
+   },
+   {
+    "quote": "How Oda Built a Warehouse-Native Experimentation Practice | Growthbook",
+    "url": "https://www.growthbook.io/customers/oda",
+    "pass": 1
+   },
+   {
+    "quote": "By replacing a hard-coded in-house setup with a warehouse-native workflow on top of Snowflake, Oda made experimentation part of everyday product development.",
+    "url": "https://www.growthbook.io/customers/oda",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthBook fit because it worked on top of Oda’s existing stack. It sat on top of Snowflake, reused the data warehouse and metrics the team had already built, and let Oda keep using experiment data in Looker and Jupyter for deeper analysis. That made it easier to adopt and easier to trust.",
+    "url": "https://www.growthbook.io/customers/oda",
+    "pass": 1
+   },
+   {
+    "quote": "That changed when the team found GrowthBook in 2021 and tested it on top of the stack they already had. The appeal was straightforward: it worked with their existing data warehouse, it didn’t force them into a black box, and it felt plug-and-play compared to what they had before.",
+    "url": "https://www.growthbook.io/customers/oda",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthBook is the warehouse-native platform for experimentation, feature flags, and product analytics trusted by AI-native product teams at 4,000+ companies worldwide.",
+    "url": "https://www.growthbook.io/customers/oda",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthBook is the warehouse-native platform for experimentation, feature flags, and product analytics trusted by AI-native product teams at 4,000+ companies worldwide.",
+    "url": "https://www.growthbook.io/customers/lingokids",
+    "pass": 1
+   },
+   {
+    "quote": "Claude helped with research, strategy, copy, analysis, and internal workflows. Cursor helped the team build and review experiments faster, including visual experiments where AI-assisted workflows could reduce manual QA. Dot helped answer questions about segments, cohorts, and experiment results using documented warehouse schemas and Slack-based workflows.",
+    "url": "https://www.growthbook.io/customers/fyxer",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthBook is the warehouse-native platform for experimentation, feature flags, and product analytics trusted by AI-native product teams at 4,000+ companies worldwide.",
+    "url": "https://www.growthbook.io/customers/fyxer",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 4,000+ companies worldwide",
+    "url": "https://www.growthbook.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "In 2020, Graham and Jeremy co-founded GrowthBook, and built the first warehouse-native, open-source platform for feature flags, experimentation, and product analytics.",
+    "url": "https://www.growthbook.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "We're on a mission to create the best open-source platform for feature flags, experimentation, and product analytics. We're a fast-growing company, trusted by the most innovative companies, and backed by top venture funds.",
+    "url": "https://www.growthbook.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "最大3ユーザー・1プロジェクト・フィーチャーフラグ・実験・トラフィック無制限・自社データウェアハウス接続対応（Managed Warehouseは月間100万イベントまで）・コミュニティサポート",
+    "url": "https://aipicks.jp/tool/growthbook-5-0#japanese",
+    "pass": 3
+   },
+   {
+    "quote": "最大30ユーザー・3プロジェクト・AI Visual Editor・マルチアームバンディット・自動ロールバック付き安全ロールアウト・カスタムダッシュボード・高度な権限設定・Managed Warehouse（月間200万イベントまで）・プレミアムサポート",
+    "url": "https://aipicks.jp/tool/growthbook-5-0#japanese",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthBook’s warehouse-native architecture means experiments work with your existing data infrastructure. Instead of requiring you to send event data to a third-party service, the platform connects directly to your data warehouse or analytics tools like Mixpanel and Google Analytics. This approach maintains data control while avoiding vendor lock-in.",
+    "url": "https://www.getunleash.io/blog/understanding-growthbooks-a-b-testing-features",
+    "pass": 3
+   },
+   {
+    "quote": "Targeting granularity extends beyond basic demographic splits. You can target based on user behavior patterns, subscription status, feature usage history, or any data points available in your application. The conditional logic supports operators like equals, not equals, greater than, less than, and pattern matching for strings.",
+    "url": "https://www.getunleash.io/blog/understanding-growthbooks-a-b-testing-features",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthBook’s warehouse-native approach means it works with your existing event tracking infrastructure. The platform supports direct connections to SQL databases including PostgreSQL, MySQL, BigQuery, Snowflake, Redshift, and others. It also integrates with analytics platforms like Google Analytics, Mixpanel, Amplitude, and Segment.",
+    "url": "https://www.getunleash.io/blog/understanding-growthbooks-a-b-testing-features",
+    "pass": 3
+   },
+   {
+    "quote": "Results update automatically as new data flows into your warehouse. You can set refresh schedules to balance data freshness with system performance. The platform shows both cumulative results and daily snapshots to help identify trends.",
+    "url": "https://www.getunleash.io/blog/understanding-growthbooks-a-b-testing-features",
+    "pass": 3
+   },
+   {
+    "quote": "“wanted to use our own data pipeline. We didn’t want a solution where we would basically need to send all our data to it and then it would tell us whether the A/B tests are successful. We wanted our data scientists to analyze our results from our data warehouse.”",
+    "url": "https://www.getunleash.io/blog/understanding-growthbooks-a-b-testing-features",
+    "pass": 3
+   },
+   {
+    "quote": "I have served as the e-commerce manager for major consumer goods manufacturers and craft chocolate brands.",
+    "url": "https://note.com/pala_kojima/n/nb869c51ee067?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "From 10-billion-yen scale manufacturer e-commerce and luxury D2C to zero-to-one brand launches...",
+    "url": "https://note.com/pala_kojima/n/nb869c51ee067?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "incremental monthly revenue",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How Fyxer used AI-powered experimentation to grow from $1M to $35M ARR",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We are always experimenting now. It’s a natural part of product development. This is due to GrowthBook and the ease of usage both in the UX and in the seamless integration with Snowflake/DWH.\"",
+    "url": "https://www.growthbook.io/",
+    "pass": 1
+   },
+   {
+    "quote": "For high-volume, digital-first businesses, experimentation can make or break revenue. Find out how Breeze avoided million-dollar mistakes.",
+    "url": "https://www.growthbook.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "By replacing a hard-coded in-house setup with a warehouse-native workflow on top of Snowflake, Oda made experimentation part of everyday product development.",
+    "url": "https://www.growthbook.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Fyxer used AI-powered experimentation to grow from $1M to $35M ARR",
+    "url": "https://www.growthbook.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Floward drove double-digit revenue growth",
+    "url": "https://www.growthbook.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "As the company grew through acquisitions and launched new AI-driven products, Dropbox found itself managing a fragmented ecosystem of internal tools for feature flagging, experimentation, and analysis. The result was rising complexity, slower decision-making, and growing maintenance costs.",
+    "url": "https://www.growthbook.io/customers/dropbox",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthBook supports Dropbox’s diverse technical ecosystem, including Python, PHP, and other languages inherited through acquisitions, without requiring custom rebuilds.",
+    "url": "https://www.growthbook.io/customers/dropbox",
+    "pass": 1
+   },
+   {
+    "quote": "All Dropbox employees",
+    "url": "https://www.growthbook.io/customers/dropbox",
+    "pass": 1
+   },
+   {
+    "quote": "\"We are always experimenting now. It’s a natural part of product development. This is due to GrowthBook and the ease of usage both in the UX and in the seamless integration with Snowflake/DWH.\"",
+    "url": "https://www.growthbook.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The organization is not trying to maximize revenue. It is trying to do the right thing without causing harm.",
+    "url": "https://www.growthbook.io/customers/how-the-wikimedia-foundation-scaled-experimentation-for-15b-monthly-page-views",
+    "pass": 1
+   },
+   {
+    "quote": "That level of public reporting reflects the way the Foundation approaches experimentation. They are part of an open decision-making process that helps teams, contributors, and communities understand what changed, why it changed, and what the organization learned.",
+    "url": "https://www.growthbook.io/customers/how-the-wikimedia-foundation-scaled-experimentation-for-15b-monthly-page-views",
+    "pass": 1
+   },
+   {
+    "quote": "Those examples show why scalable experimentation matters. Small product details can shape whether someone confirms an email address, creates an account, starts editing, or becomes part of the contributor community.",
+    "url": "https://www.growthbook.io/customers/how-the-wikimedia-foundation-scaled-experimentation-for-15b-monthly-page-views",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthBook then merged the capability upstream, turning the organization’s integration requirement into part of the broader open-source product.",
+    "url": "https://www.growthbook.io/customers/how-the-wikimedia-foundation-scaled-experimentation-for-15b-monthly-page-views",
+    "pass": 1
+   },
+   {
+    "quote": "For the organization, that is part of building a durable culture of experimentation. The fewer places people have to search, the more likely they are to use the system consistently.",
+    "url": "https://www.growthbook.io/customers/how-the-wikimedia-foundation-scaled-experimentation-for-15b-monthly-page-views",
+    "pass": 1
+   },
+   {
+    "quote": "For high-volume, digital-first businesses, experimentation can make or break revenue. Find out how Breeze avoided million-dollar mistakes.",
+    "url": "https://www.growthbook.io/customers/breeze-airways",
+    "pass": 1
+   },
+   {
+    "quote": "incremental monthly revenue",
+    "url": "https://www.growthbook.io/customers/breeze-airways",
+    "pass": 1
+   },
+   {
+    "quote": "Every hour reconciling data was an hour not spent optimizing revenue. Breeze needed one platform that scaled with their business.",
+    "url": "https://www.growthbook.io/customers/breeze-airways",
+    "pass": 1
+   },
+   {
+    "quote": "Millions in incremental revenue",
+    "url": "https://www.growthbook.io/customers/breeze-airways",
+    "pass": 1
+   },
+   {
+    "quote": "With GrowthBook, Breeze scaled testing throughput, unlocked millions in revenue, and embedded a culture of experimentation that pays off in both wins and avoided mistakes. The result: faster testing, higher confidence, and measurable business impact, without breaking the budget.",
+    "url": "https://www.growthbook.io/customers/breeze-airways",
+    "pass": 1
+   },
+   {
+    "quote": "Anyone in the organization can propose an experiment. A small cross-functional group provides the process, statistical rigor, QA, and governance to turn those ideas into trustworthy decisions. Every experiment uses predefined success and guardrail metrics, and becomes part of a shared research repository.",
+    "url": "https://www.growthbook.io/customers/the-philadelphia-inquirer-scales-experimentation-across-the-organization",
+    "pass": 1
+   },
+   {
+    "quote": "“Scaling our experimentation program has had a massive impact on the business, not just by helping us grow revenue, but by helping us identify opportunities to prevent losses and make better decisions with more confidence.”",
+    "url": "https://www.growthbook.io/customers/the-philadelphia-inquirer-scales-experimentation-across-the-organization",
+    "pass": 1
+   },
+   {
+    "quote": "While Marketing had eyes on subscriber acquisition and retention, Advertising was prioritizing the on-site advertising experience and revenue. Product and newsroom teams had additional own goals for reader engagement and UX.",
+    "url": "https://www.growthbook.io/customers/the-philadelphia-inquirer-scales-experimentation-across-the-organization",
+    "pass": 1
+   },
+   {
+    "quote": "That has allowed the team to run nearly 100 A/B tests in only two years while experimentation remains just one part of each team member's job.",
+    "url": "https://www.growthbook.io/customers/the-philadelphia-inquirer-scales-experimentation-across-the-organization",
+    "pass": 1
+   },
+   {
+    "quote": "“Almost all of our experiments now are running on GrowthBook. That is intentional, so that we can be involved in every part of that process.”",
+    "url": "https://www.growthbook.io/customers/the-philadelphia-inquirer-scales-experimentation-across-the-organization",
+    "pass": 1
+   },
+   {
+    "quote": "“A big part of [building trust] is building a culture where both wins and losses provide valuable information.”",
+    "url": "https://www.growthbook.io/customers/the-philadelphia-inquirer-scales-experimentation-across-the-organization",
+    "pass": 1
+   },
+   {
+    "quote": "Agreeing on the metrics first prevents teams from hunting for a favorable result after the data arrives.",
+    "url": "https://www.growthbook.io/customers/the-philadelphia-inquirer-scales-experimentation-across-the-organization",
+    "pass": 1
+   },
+   {
+    "quote": "For Khan Academy, GrowthBook made experimentation part of the AI development loop.",
+    "url": "https://www.growthbook.io/customers/khan-academy",
+    "pass": 1
+   },
+   {
+    "quote": "By replacing a hard-coded in-house setup with a warehouse-native workflow on top of Snowflake, Oda made experimentation part of everyday product development.",
+    "url": "https://www.growthbook.io/customers/oda",
+    "pass": 1
+   },
+   {
+    "quote": "One of the most important changes is that we are always experimenting now. It’s a natural part of product development. This is due to GrowthBook and the ease of usage both in the UX and in the seamless integration with Snowflake/DWH.",
+    "url": "https://www.growthbook.io/customers/oda",
+    "pass": 1
+   },
+   {
+    "quote": "Oda started with a homegrown setup built on PostgreSQL and hard-coded feature flags. It worked, but it made experimentation slow and manual. The team described the post-experiment analysis process as tedious, and experiments themselves as “big things” rather than a normal part of development.",
+    "url": "https://www.growthbook.io/customers/oda",
+    "pass": 1
+   },
+   {
+    "quote": "There was still a learning curve. The team said one early challenge was getting better at interpreting uncertainty. But once that maturity developed, experimentation became easier to use as part of regular product work instead of something that sat off to the side.",
+    "url": "https://www.growthbook.io/customers/oda",
+    "pass": 1
+   },
+   {
+    "quote": "That’s an important part of this story. Oda is not only using experimentation to find big winners. It is using it to make better product decisions when customer experience, profitability, and operational realities all pull in different directions. One strong example of this is their loyalty program.",
+    "url": "https://www.growthbook.io/customers/oda",
+    "pass": 1
+   },
+   {
+    "quote": "Oda is “always experimenting,” and experimentation has become a natural part of product development. With 400+ experiments, they’ve driven a broader change so that now experimentation is something engineers, PMs, and growth managers do consistently and independently.",
+    "url": "https://www.growthbook.io/customers/oda",
+    "pass": 1
+   },
+   {
+    "quote": "“Our culture has totally changed. Experimentation went from being a ‘big, hard thing,’ to just a standard part of product development.”",
+    "url": "https://www.growthbook.io/customers/oda",
+    "pass": 1
+   },
+   {
+    "quote": "Lingokids is the #1 entertainment platform for young kids, delivering fun, play-based learning experiences for children ages 2-8. With over 3 million weekly active users across iOS and Android, the company continuously experiments on in-app experiences and monetization flows to improve learning engagement while driving sustainable revenue growth.",
+    "url": "https://www.growthbook.io/customers/lingokids",
+    "pass": 1
+   },
+   {
+    "quote": "Lingokids runs a high-scale mobile app with two distinct audiences and success criteria: kids need a delightful learning experience, while parents need clarity and confidence to subscribe. That makes experimentation high leverage, but also high risk: a “small” paywall change can swing revenue, retention, and long-term engagement.",
+    "url": "https://www.growthbook.io/customers/lingokids",
+    "pass": 1
+   },
+   {
+    "quote": "“For the monetization metrics we normally use conversion and revenue. From a guardrail point of view, we keep an eye on retention.”",
+    "url": "https://www.growthbook.io/customers/lingokids",
+    "pass": 1
+   },
+   {
+    "quote": "A flagship win: 7% conversion and revenue lift from paywall redesign",
+    "url": "https://www.growthbook.io/customers/lingokids",
+    "pass": 1
+   },
+   {
+    "quote": "~7% increase in conversion and revenue",
+    "url": "https://www.growthbook.io/customers/lingokids",
+    "pass": 1
+   },
+   {
+    "quote": "How Fyxer Used AI Experimentation to Grow ARR | GrowthBook | Growthbook",
+    "url": "https://www.growthbook.io/customers/fyxer",
+    "pass": 1
+   },
+   {
+    "quote": "How Fyxer used AI-powered experimentation to grow from $1M to $35M ARR",
+    "url": "https://www.growthbook.io/customers/fyxer",
+    "pass": 1
+   },
+   {
+    "quote": "Fyxer did not grow from $1M to $35M ARR in one year by betting on one big idea. They built an AI-powered experimentation engine.",
+    "url": "https://www.growthbook.io/customers/fyxer",
+    "pass": 1
+   },
+   {
+    "quote": "Experimentation became part of how Fyxer operated",
+    "url": "https://www.growthbook.io/customers/fyxer",
+    "pass": 1
+   },
+   {
+    "quote": "Fyxer also made experimentation visible across the company. Experiments, releases, wins, losses, and learnings were pushed into Slack so the broader team could see what was changing and why. GrowthBook became part of that operating rhythm, helping the team create a shared view of product progress instead of leaving results buried in dashboards.",
+    "url": "https://www.growthbook.io/customers/fyxer",
+    "pass": 1
+   },
+   {
+    "quote": "grow the company from $1M to $35M ARR",
+    "url": "https://www.growthbook.io/customers/fyxer",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://www.growthbook.io/about",
+    "pass": 1
+   },
+   {
+    "quote": ". With Graham as CTO and Jeremy as software architect, they unlocked an experimentation culture that led to 40% revenue growth year-over-year with flat traffic.",
+    "url": "https://www.growthbook.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "\"We are always experimenting now. It’s a natural part of product development. This is due to GrowthBook and the ease of usage both in the UX and in the seamless integration with Snowflake/DWH.\"",
+    "url": "https://www.growthbook.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "incremental monthly revenue",
+    "url": "https://www.growthbook.io/demo",
+    "pass": 1
+   },
+   {
+    "quote": "How Fyxer used AI-powered experimentation to grow from $1M to $35M ARR",
+    "url": "https://www.growthbook.io/demo",
+    "pass": 1
+   },
+   {
+    "quote": "Conversion tracking works by identifying events that occur after users are exposed to experiments. GrowthBook automatically handles attribution windows and can track multiple conversion events per experiment. The platform supports both conversion rate metrics and revenue-based calculations.",
+    "url": "https://www.getunleash.io/blog/understanding-growthbooks-a-b-testing-features",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthBook Funding: $22.6M | $3.8-5M Revenue | Complete Analysis | Extruct AI",
+    "url": "https://www.extruct.ai/hub/growthbook-io/",
+    "pass": 3
+   },
+   {
+    "quote": "Subscription-based revenue model with seat-based pricing for teams of all sizes.",
+    "url": "https://www.extruct.ai/hub/growthbook-io/",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisition (customer attraction)",
+    "url": "https://note.com/pala_kojima/n/nb869c51ee067?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "BrillMark builds, QAs, and analyzes feature flag and A/B test implementations for CRO agencies and brands, pairing AI-assisted test prioritization and automation with hands-on engineering across any testing platform.",
+    "url": "https://www.growthbook.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The problem is that without rigorous experimentation, nobody actually knows what \"right\" looks like. Theater is a high-instinct industry. Producers, marketing agencies, and designers all have strong opinions. Without data to settle the arguments, every poster decision is a guess.",
+    "url": "https://www.growthbook.io/customers/todaytix",
+    "pass": 1
+   },
+   {
+    "quote": "Share data-backed best practices with partners, turning experiment outputs into actionable guidance for marketing agencies and designers",
+    "url": "https://www.growthbook.io/customers/todaytix",
+    "pass": 1
+   },
+   {
+    "quote": "Support companies (agencies, production companies, SIers)",
+    "url": "https://note.com/pala_kojima/n/nb869c51ee067?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email (Premium Support)",
+    "url": "https://www.growthbook.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "In one experiment, the growth team added a simple banner prompting people to confirm their email address.",
+    "url": "https://www.growthbook.io/customers/how-the-wikimedia-foundation-scaled-experimentation-for-15b-monthly-page-views",
+    "pass": 1
+   },
+   {
+    "quote": "Email confirmations rose by roughly 40%",
+    "url": "https://www.growthbook.io/customers/how-the-wikimedia-foundation-scaled-experimentation-for-15b-monthly-page-views",
+    "pass": 1
+   },
+   {
+    "quote": "Those examples show why scalable experimentation matters. Small product details can shape whether someone confirms an email address, creates an account, starts editing, or becomes part of the contributor community.",
+    "url": "https://www.growthbook.io/customers/how-the-wikimedia-foundation-scaled-experimentation-for-15b-monthly-page-views",
+    "pass": 1
+   },
+   {
+    "quote": "Fyxer is an AI assistant for email and scheduling workflows. The platform helps busy teams reduce manual inbox work, coordinate meetings, and automate the repetitive workflows that slow down modern work.",
+    "url": "https://www.growthbook.io/customers/fyxer",
+    "pass": 1
+   },
+   {
+    "quote": "The results included a lift in free-to-paid conversion from 5% to 35%, a 50% reduction in annual-plan churn, a 65% increase in trial starts for personal email users, and a referral growth loop tied to 33% of accepted invites.",
+    "url": "https://www.growthbook.io/customers/fyxer",
+    "pass": 1
+   },
+   {
+    "quote": "increased trial starts for personal email users by 65%",
+    "url": "https://www.growthbook.io/customers/fyxer",
+    "pass": 1
+   },
+   {
+    "quote": "The team also used GrowthBook to test product-led growth loops. Instead of launching one broad PLG motion and hoping it worked, Fyxer tested the steps that moved users forward: the email that brought people back, the signup page they landed on, the message they saw, and the path to add seats.",
+    "url": "https://www.growthbook.io/customers/fyxer",
+    "pass": 1
+   },
+   {
+    "quote": "Alert systems notify stakeholders when experiments reach statistical significance or when unusual patterns emerge in the data. You can configure notifications through email, Slack, or webhook integrations.",
+    "url": "https://www.getunleash.io/blog/understanding-growthbooks-a-b-testing-features",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本語にも対応し、Mac・Windowsのどの入力欄でも使える（無料は1,000語まで）",
+    "url": "https://aipicks.jp/tool/growthbook-5-0#japanese",
+    "pass": 3
+   },
+   {
+    "quote": "公式サイトに日本語の表示は見当たりません（2026年9月時点）",
+    "url": "https://aipicks.jp/tool/growthbook-5-0#japanese",
+    "pass": 3
+   },
+   {
+    "quote": "日付は GitHub の Release の公開日（日本時間）です",
+    "url": "https://note.com/tech_athletes/n/n04b91ac6a78f",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "noteでの GrowthBook の 導入 理由と使い方を紹介 — noteでの GrowthBook の 導入 理由と使い方を紹介 note株式会社 https://engineerteam.note.jp > ...",
+    "url": "https://engineerteam.note.jp/n/n5e6f422289cd",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthBook 4.2 - product analytics, scale experimentation — GrowthBook 4.2 - product analytics, scale experimentation GrowthBook https://www.growthbook.io > blog > r...",
+    "url": "https://www.growthbook.io/blog/release-4-2-product-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "Growthbook とは？機能や特徴・製品の概要まとめ - Findy Tools — Growthbook とは？機能や特徴・製品の概要まとめ - Findy Tools Findy Tools https://findy-tools.io > products > growthbook",
+    "url": "https://findy-tools.io/products/growthbook/1061",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthBook 5.0は 日本 語対応している? - AI PICKS — GrowthBook 5.0は 日本 語対応している? - AI PICKS aipicks.jp https://aipicks.jp > AIコーディング > GrowthBook 5.0",
+    "url": "https://aipicks.jp/tool/growthbook-5-0/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthBook | Experimentation, Feature Flags & Product ... — GrowthBook | Experimentation, Feature Flags & Product ... GrowthBook https://www.growthbook.io",
+    "url": "https://www.growthbook.io/",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthBook - LinkedIn — GrowthBook - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/growthbook",
+    "pass": 3
+   },
+   {
+    "quote": "noteでの GrowthBook の導入理由と使い方を紹介 — noteでの GrowthBook の導入理由と使い方を紹介 note株式会社 https://engineerteam.note.jp > ...",
+    "url": "https://engineerteam.note.jp/n/n5e6f422289cd",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthBook - GitHub — GrowthBook - GitHub GitHub https://github.com > growthbook",
+    "url": "https://github.com/growthbook",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthBook : Open source feature flagging and A/B testing — GrowthBook : Open source feature flagging and A/B testing Y Combinator https://www.ycombinator.com > grow...",
+    "url": "https://www.ycombinator.com/companies/growthbook",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories - GrowthBook — Customer Stories - GrowthBook GrowthBook https://www.growthbook.io > customers",
+    "url": "https://www.growthbook.io/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Understanding GrowthBook's A/B Testing Features | Unleash — Understanding GrowthBook's A/B Testing Features | Unleash Unleash https://www.getunleash.io > Blog",
+    "url": "https://www.getunleash.io/blog/understanding-growthbooks-a-b-testing-features",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthBook Reviews & Ratings 2026 | Gartner Peer Insights — GrowthBook Reviews & Ratings 2026 | Gartner Peer Insights Gartner https://www.gartner.com > product",
+    "url": "https://www.gartner.com/reviews/product/growthbook-1432622933",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthBook in 5 Minutes: Feature Flags ... - YouTube — GrowthBook in 5 Minutes: Feature Flags ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=ps64zEUyXHs",
+    "pass": 3
+   },
+   {
+    "quote": "Predictable Pricing – Free Tiers, Enterprise Plans | GrowthBook — Predictable Pricing – Free Tiers, Enterprise Plans | GrowthBook GrowthBook https://www.growthbook.io > pricing",
+    "url": "https://www.growthbook.io/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Fullcircleinsights vs GrowthBook : Revenue & Funding - GetLatka — Fullcircleinsights vs GrowthBook : Revenue & Funding - GetLatka GetLatka https://getlatka.com > growthbook",
+    "url": "https://getlatka.com/companies/fullcircleinsights/vs/growthbook.io",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthBook Funding : $22.6M | $3.8-5M Revenue - Extruct AI — GrowthBook Funding : $22.6M | $3.8-5M Revenue - Extruct AI Extruct AI https://www.extruct.ai > growthbook-io",
+    "url": "https://www.extruct.ai/hub/growthbook-io/",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthBook - 2026 Company Profile & Team - Tracxn — GrowthBook - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/growthbook/__ybuTaEleb_daVWYK1sVloK4npIHJdsMUEHm0JcpnZkM",
+    "pass": 3
+   },
+   {
+    "quote": "Growth Book - Overview, News & Similar companies - ZoomInfo — Growth Book - Overview, News & Similar companies - ZoomInfo ZoomInfo https://www.zoominfo.com > growth-...",
+    "url": "https://www.zoominfo.com/c/growth-book-llc/546863816",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "I am starting a note called \"E-COMMERCE GROWTH BOOK ... I am starting a note called \"E-COMMERCE GROWTH BOOK ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/pala_kojima/n/nb869c51ee067?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "LaunchDarkly・Unleash・Flagsmith・ GrowthBook ・Flipt の ... LaunchDarkly・Unleash・Flagsmith・ GrowthBook ・Flipt の ... note https://note.com > ビジネス > 収益化",
+    "url": "https://note.com/tech_athletes/n/n04b91ac6a78f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "I am starting a note called \"E-COMMERCE GROWTH BOOK,\" written seriously by an e-commerce expert.｜兒嶋仁視 / EC事業の成長設計・実行支援",
+    "url": "https://note.com/pala_kojima/n/nb869c51ee067?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/pala_kojima/n/nb869c51ee067?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I am starting a note called \"E-COMMERCE GROWTH BOOK,\" written seriously by an e-commerce expert.",
+    "url": "https://note.com/pala_kojima/n/nb869c51ee067?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "兒嶋仁視 / EC事業の成長設計・実行支援",
+    "url": "https://note.com/pala_kojima/n/nb869c51ee067?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Nice to meet you. My name is Hitoshi Kojima, and I am the CEO of PALA Inc., a company that provides e-commerce and marketing support.",
+    "url": "https://note.com/pala_kojima/n/nb869c51ee067?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hitoshi Kojima (CEO of PALA)",
+    "url": "https://note.com/pala_kojima/n/nb869c51ee067?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have served as the e-commerce manager for major consumer goods manufacturers and craft chocolate brands.",
+    "url": "https://note.com/pala_kojima/n/nb869c51ee067?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "🚩 機能フラグの月額を見直す｜LaunchDarkly・Unleash・Flagsmith・GrowthBook・Flipt の課金単位と人数別の費用【2026年11月】｜TechAthletes（テックアスリーツ）",
+    "url": "https://note.com/tech_athletes/n/n04b91ac6a78f",
+    "pass": 3
+   },
+   {
+    "quote": "🚩 機能フラグの月額を見直す｜LaunchDarkly・Unleash・Flagsmith・GrowthBook・Flipt の課金単位と人数別の費用【2026年11月】",
+    "url": "https://note.com/tech_athletes/n/n04b91ac6a78f",
+    "pass": 3
+   },
+   {
+    "quote": "TechAthletes（テックアスリーツ）",
+    "url": "https://note.com/tech_athletes/n/n04b91ac6a78f",
+    "pass": 3
+   },
+   {
+    "quote": "機能フラグ（feature flag）の道具は、どれも「無料で始められる」と書いてあります。違うのは",
+    "url": "https://note.com/tech_athletes/n/n04b91ac6a78f",
+    "pass": 3
+   },
+   {
+    "quote": "です。人数で取るのか、サーバーの接続数とアクセスする利用者数で取るのか、定額なのか。ここを取り違えると、チームが育ったときの請求額がまったく違ってきます。",
+    "url": "https://note.com/tech_athletes/n/n04b91ac6a78f",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では LaunchDarkly と、自前サーバーに置ける4つ（Unleash・Flagsmith・GrowthBook・Flipt）を並べます。数字は",
+    "url": "https://note.com/tech_athletes/n/n04b91ac6a78f",
+    "pass": 3
+   },
+   {
+    "quote": "2026-11-04 に各社の公式料金ページ（年払い・月払いの切替があるものは両方の金額を確認）と GitHub のリポジトリで確かめたものだけ",
+    "url": "https://note.com/tech_athletes/n/n04b91ac6a78f",
+    "pass": 3
+   },
+   {
+    "quote": "筆者がこの5つを業務で使い比べた記録はありません。使い心地の話はせず、料金表・ライセンス・自前で立てるときの構成という、確かめられる事実に絞ります。",
+    "url": "https://note.com/tech_athletes/n/n04b91ac6a78f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "GrowthBook (@growth_book) / X GrowthBook (@growth_book) / X X https://x.com > growth_book",
+    "url": "https://x.com/growth_book",
+    "pass": 3
+   },
+   {
+    "quote": "note株式会社 on X: \" GrowthBook でA/Bテストを効率化！ A/B ... note株式会社 on X: \" GrowthBook でA/Bテストを効率化！ A/B ... X https://x.com > @note_corp",
+    "url": "https://x.com/note_corp/status/1858768339440726092",
+    "pass": 3
+   },
+   {
+    "quote": "AGIラボ on X: \"11/15 難読化された機能フラグ GrowthBook の ... AGIラボ on X: \"11/15 難読化された機能フラグ GrowthBook の ... X https://x.com > @ctgptlb",
+    "url": "https://x.com/ctgptlb/status/2038978607918555530",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "GrowthBook - LinkedIn GrowthBook - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/growthbook",
+    "pass": 3
+   },
+   {
+    "quote": "Graham McNicoll - Co-founder & CEO at GrowthBook (YC W22) Graham McNicoll - Co-founder & CEO at GrowthBook (YC W22) LinkedIn https://www.linkedin.com > grahamm...",
+    "url": "https://www.linkedin.com/in/grahammcnicoll",
+    "pass": 3
+   },
+   {
+    "quote": "Luke Sonnet - Head of Experimentation @ GrowthBook Luke Sonnet - Head of Experimentation @ GrowthBook LinkedIn https://www.linkedin.com > luke-sonnet",
+    "url": "https://www.linkedin.com/in/luke-sonnet",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthBook | LinkedIn GrowthBook | LinkedIn LinkedIn https://www.linkedin.com > products",
+    "url": "https://www.linkedin.com/products/growthbook/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Give me a year by Shonda Scott personal growth book Give me a year by Shonda Scott personal growth book Facebook https://www.facebook.com > posts > featured-author-spotl...",
+    "url": "https://www.facebook.com/internationalimpactbookawards/posts/featured-author-spotlightcongratulations-to-shonda-scott-author-of-give-me-a-yea/1512223574290988/",
+    "pass": 3
+   },
+   {
+    "quote": "Unstoppable personal stories of courage and growth book Unstoppable personal stories of courage and growth book Facebook https://www.facebook.com > nicki.lothian > posts > im-stil...",
+    "url": "https://www.facebook.com/nicki.lothian/posts/im-still-taking-this-one-inim-officially-a-published-author-%EF%B8%8Fits-one-of-those-mo/10164853466605932/",
+    "pass": 3
+   },
+   {
+    "quote": "I'm looking for a good mindset growth book .What do you ... I'm looking for a good mindset growth book .What do you ... Facebook https://www.facebook.com > ... > Book Lovers | Facebook",
+    "url": "https://www.facebook.com/groups/mybookloversclub/posts/28841845098791092/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.growthbook.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthbook.io/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthbook.io/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthbook.io/customers/dropbox",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthbook.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthbook.io/customers/how-the-wikimedia-foundation-scaled-experimentation-for-15b-monthly-page-views",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthbook.io/customers/breeze-airways",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthbook.io/customers/the-philadelphia-inquirer-scales-experimentation-across-the-organization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthbook.io/customers/todaytix",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthbook.io/customers/khan-academy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthbook.io/customers/oda",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthbook.io/customers/lingokids",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthbook.io/customers/fyxer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthbook.io/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthbook.io/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthbook.io/demo",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/699d535399af6088dad49a5c/69e9320d0e6c7067041805b1_logos-21.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/699d535399af6088dad49a5c/69e932281c29e92e4a605a45_logos-11.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/699d535399af6088dad49a5c/69e932ac551a7e64bb7bb5be_logos-23.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/699d535399af6088dad49a5c/69e9332ac978325fe954c37e_logos-22.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://engineerteam.note.jp/n/n5e6f422289cd?cdr=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findy-tools.io/products/growthbook/1061",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aipicks.jp/tool/growthbook-5-0#japanese",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-dx.com/solutions/alliance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000062.000151821.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthtrigger.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-company.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/growthbook",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://engineerteam.note.jp/n/n5e6f422289cd?cdr=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/growthbook",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getunleash.io/blog/understanding-growthbooks-a-b-testing-features",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gartner.com/reviews/product/growthbook-1432622933",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3Dps64zEUyXHs&q=EgQUqR_1GPT709cGIjDvC-aziSZWR__FZK8B89v_hC4KngtGI9iBchidX-1qGgu5txUr7x29YA_kbWX85oUyAnJSWgFDYLPoquysiLS5kAE",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/fullcircleinsights#competitors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.extruct.ai/hub/growthbook-io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/growthbook/__ybuTaEleb_daVWYK1sVloK4npIHJdsMUEHm0JcpnZkM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/growthbook",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/pala_kojima/n/nb869c51ee067?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tech_athletes/n/n04b91ac6a78f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/growth_book",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/note_corp/status/1858768339440726092",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ctgptlb/status/2038978607918555530",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/growthbook",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/grahammcnicoll",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/luke-sonnet",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/growthbook/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/internationalimpactbookawards/posts/featured-author-spotlightcongratulations-to-shonda-scott-author-of-give-me-a-yea/1512223574290988/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nicki.lothian/posts/im-still-taking-this-one-inim-officially-a-published-author-%EF%B8%8Fits-one-of-those-mo/10164853466605932/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/mybookloversclub/posts/28841845098791092/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/growth_book",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Growthbook 日本 導入",
+   "results": [
+    "https://engineerteam.note.jp/n/n5e6f422289cd",
+    "https://www.growthbook.io/blog/release-4-2-product-analytics",
+    "https://findy-tools.io/products/growthbook/1061",
+    "https://aipicks.jp/tool/growthbook-5-0/japanese",
+    "https://gigazine.net/news/20230904-growthbook/",
+    "https://chromewebstore.google.com/detail/growthbook-devtools/opemhndcehfgipokneipaafbglcecjia",
+    "https://findy-tools.io/products/growthbook/1061/546",
+    "https://news.livedoor.com/topics/detail/24922905/",
+    "https://rikuka.dev/blog/vwo-to-growthbook-usecase-mapping/",
+    "https://www.growthbook.io/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Growthbook 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://growth-dx.com/solutions/alliance/",
+    "https://prtimes.jp/main/html/rd/p/000000062.000151821.html",
+    "https://www.growthtrigger.net/",
+    "https://growth-company.jp/",
+    "https://www.gyro-n.com/partner/",
+    "https://www.jiji.com/jc/article?k=000000062.000151821&g=prt",
+    "https://sizebook.co.jp/",
+    "https://news.infoseek.co.jp/article/prtimes_000000062_000151821/",
+    "https://www.auncon.co.jp/partner/",
+    "https://www.gaishikei.net/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Growthbook Japan",
+   "results": [
+    "https://www.growthbook.io/",
+    "https://www.linkedin.com/company/growthbook",
+    "https://engineerteam.note.jp/n/n5e6f422289cd",
+    "https://github.com/growthbook",
+    "https://www.ycombinator.com/companies/growthbook",
+    "https://www.youtube.com/@growthbook-ab",
+    "https://aws.amazon.com/marketplace/pp/prodview-2ltf7dt5g2y6q",
+    "https://moengage.com/docs/ja/partner-guide/personalize-and-optimize/experimentation/growthbook",
+    "https://hub.docker.com/r/growthbook/growthbook",
+    "https://www.growthbook.io/events"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Growthbook manufacturing customer case study",
+   "results": [
+    "https://www.growthbook.io/customers",
+    "https://www.getunleash.io/blog/understanding-growthbooks-a-b-testing-features",
+    "https://www.gartner.com/reviews/product/growthbook-1432622933",
+    "https://www.youtube.com/watch?v=ps64zEUyXHs",
+    "https://www.routledge.com/Innovations-in-Smart-Manufacturing-for-Long-Term-Development-and-Growth/book-series/CRCISMLDG",
+    "https://www.growthbook.io/customers/oda",
+    "https://www.factbird.com/resources/case-studies",
+    "https://www.hubspot.com/case-studies/directory/manufacturing",
+    "https://www.autodesk.com/customer-stories/case-studies",
+    "https://www.casestudydesk.com/product/growthbook-feature-flags"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Growthbook white label OR reseller OR partner program",
+   "results": [
+    "https://www.growthbook.io/pricing",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://v2cloud.com/blog/white-label-saas-software-to-resell",
+    "https://seedlycrm.com/blog/white-label-crm-playbook",
+    "https://www.reddit.com/r/GrowthHacking/comments/1rxruln/using_a_whitelabel_or_reseller_program_to/",
+    "https://www.databricks.com/blog/introducing-new-databricks-partner-program-and-well-architected-framework-isvs-and-data"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Growthbook founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/fullcircleinsights/vs/growthbook.io",
+    "https://www.extruct.ai/hub/growthbook-io/",
+    "https://tracxn.com/d/companies/growthbook/__ybuTaEleb_daVWYK1sVloK4npIHJdsMUEHm0JcpnZkM",
+    "https://www.linkedin.com/company/growthbook",
+    "https://www.zoominfo.com/c/growth-book-llc/546863816",
+    "https://www.crunchbase.com/organization/growth-book",
+    "https://www.growthbook.io/about",
+    "https://pitchbook.com/profiles/company/466885-63",
+    "https://www.cbinsights.com/company/growthbook/financials",
+    "https://prospeo.io/c/growthbook-revenue"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Growthbook",
+   "results": [
+    "https://note.com/pala_kojima/n/nb869c51ee067?hl=en",
+    "https://note.com/noteeng/m/mccc0b752e2fc",
+    "https://note.com/kuradashi/n/n73167d3da177",
+    "https://note.com/tech_athletes/n/n04b91ac6a78f",
+    "https://note.com/chov/n/n5afc548bd190?hl=en",
+    "https://note.com/pala_kojima",
+    "https://note.com/tech_athletes/n/nd7babc21531c",
+    "https://note.com/zephel01/n/nb72c835586d6",
+    "https://note.com/yasukochi2020/n/na47c4cc2fa69?hl=en",
+    "https://note.com/fancy_whale2095/n/n2b0d0e662a2a?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Growthbook",
+   "results": [
+    "https://x.com/growth_book",
+    "https://x.com/note_corp/status/1858768339440726092",
+    "https://x.com/ctgptlb/status/2038978607918555530",
+    "https://x.com/PremiumTimesng/status/2119055366486958204",
+    "https://x.com/ClaudeCodeLog/status/2078293003433595103",
+    "https://x.com/ADIPECOfficial/status/2117291699529814223",
+    "https://x.com/ADIPECOfficial/status/2117928555854381275",
+    "https://x.com/ADIPECOfficial/status/2117642841916928212",
+    "https://x.com/ADIPECOfficial/status/2117933590126469248",
+    "https://x.com/GrowthBookApp"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com Growthbook",
+   "results": [
+    "https://www.linkedin.com/company/growthbook",
+    "https://www.linkedin.com/in/grahammcnicoll",
+    "https://www.linkedin.com/in/luke-sonnet",
+    "https://www.linkedin.com/products/growthbook/",
+    "https://www.linkedin.com/in/ashleystirrup",
+    "https://www.linkedin.com/in/jeremy-dorn-6198a09",
+    "https://uk.linkedin.com/in/james-shannon-music",
+    "https://www.linkedin.com/posts/luke-sonnet_growthbook-52-launched-today-includes-activity-7523457550252482562-oYgR",
+    "https://www.linkedin.com/in/lyndsieberens",
+    "https://uk.linkedin.com/in/natasha-lee-5a42aba7"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Growthbook",
+   "results": [
+    "https://www.facebook.com/61566028651159/posts/sometimes-the-p-value-is-never-comingwanli-lau-twilio-on-experimentation-when-yo/122212665758534288/",
+    "https://www.facebook.com/internationalimpactbookawards/posts/featured-author-spotlightcongratulations-to-shonda-scott-author-of-give-me-a-yea/1512223574290988/",
+    "https://www.facebook.com/nicki.lothian/posts/im-still-taking-this-one-inim-officially-a-published-author-%EF%B8%8Fits-one-of-those-mo/10164853466605932/",
+    "https://www.facebook.com/groups/mybookloversclub/posts/28841845098791092/",
+    "https://www.facebook.com/borntodev/posts/-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%88%E0%B8%B0%E0%B8%81%E0%B8%94-deploy-%E0%B8%9B%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%9F%E0%B8%B5%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99-production-%E0%B8%97%E0%B8%B5%E0%B9%84%E0%B8%A3-%E0%B9%83%E0%B8%99%E0%B9%83%E0%B8%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%A7%E0%B8%94%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B6/1638865118241478/",
+    "https://www.facebook.com/davidleungtherapy/videos/david-leung-registered-psychotherapistpsychotherapy-for-healing-and-growthbook-a/1588455566413536/",
+    "https://www.facebook.com/clubofrome/videos/the-limits-to-growth-books-impact/27637511812602434/",
+    "https://www.facebook.com/merrillvilleintermediateschool/posts/finished-my-4th-professional-growth-bookthis-summer-this-one-is-my-favorite-so-f/296666258410992/",
+    "https://www.facebook.com/nuriayourhonestonlineshop/posts/nature-does-not-negotiate-by-jacob-eyalira-okala-personal-growth-book-aiming-to-/1591065466357856/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Growthbook note 社長",
+   "results": [
+    "https://engineerteam.note.jp/n/n5e6f422289cd",
+    "https://note.com/growth_verse",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.com/fgn",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://dimension-note.jp/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Growthbook X 投稿",
+   "results": [
+    "https://x.com/growth_book",
+    "https://docs.growthbook.io/insights",
+    "https://www.youtube.com/watch?v=ps64zEUyXHs",
+    "https://zenn.dev/bm_sms/articles/912692f938aaef",
+    "https://github.com/growthbook/growthbook/issues/711",
+    "https://hub.docker.com/r/growthbook/growthbook",
+    "https://www.growthbook.io/get-started",
+    "https://jsr.io/@growthbook/growthbook",
+    "https://moengage.com/docs/ja/partner-guide/personalize-and-optimize/experimentation/growthbook",
+    "https://x.com/GrowthBookApp"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部33頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部33頁・検索12回）"
+ }
+}

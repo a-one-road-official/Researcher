@@ -1889,6 +1889,12 @@
 - 「SocialPilotの料金・機能アップデート・代替ツール情報を日本語でお届けします」（https://oai-market.com/products/socialpilot）
 - 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/socialpilot/case-studies）
 
+## Snackpass（https://snackpass.co）
+- 「オンライン注文ができるサービスは、日本では、マクドナルドや吉野家でも独自にサービス提供されているものではあります」（https://ie-invest.com/ah_004/）
+- 「日本でもデリバリーサービスの自転車やバイクをよく見かけるようになりました」（https://ie-invest.com/ah_004/）
+- 「Aalto（アアルト）：不動産売買の売り手と買い手を直接繋げるマーケットプレイス運営のビジネスの特徴、日本の類似会社」（https://ie-invest.com/ah_004/）
+- 「Listed on the marketplace」（https://www.snackpass.co/forbrands/pricing）
+
 ## Smyte（http://smyte.com）
 - 「Twitter、嫌がらせ対策など手掛ける新興企業Smyteを買収 - CNET Japan」（https://japan.cnet.com/article/35121347/）
 - 「Continue to CNET Japan」（https://japan.cnet.com/article/35121347/）
@@ -1911,6 +1917,15 @@
 - 「This article is about the Japanese cooking show. For other versions, see」（https://en.wikipedia.org/wiki/Iron_Chef）
 - 「is a Japanese television」（https://en.wikipedia.org/wiki/Iron_Chef）
 - 「as a Judge that were shown on Food Network were not listed on FilmRise.」（https://en.wikipedia.org/wiki/Iron_Chef）
+
+## Sfox（https://sfoxmodel.com/）
+- 「Foxes in Japanese archaeology」（https://en.wikipedia.org/wiki/Kitsune）
+- 「Fox spirits in Japanese folklore」（https://en.wikipedia.org/wiki/Kitsune）
+- 「(q.v.), which was a superstition widespread throughout Japan.」（https://en.wikipedia.org/wiki/Kitsune）
+
+## Sensofar（https://www.sensofar.com/）
+- 「Sensofar Japan was founded, Sensofar USA LLC was created to serve the Americas, and the company strengthened partnerships with Leica Microsystems, Digital Surf, Mikropack, and Promicron.」（https://www.sensofar.com/company/history/）
+- 「SENSOFAR Metrology - 日本レーザー」（https://www.japanlaser.co.jp/maker/sensofar-metrology/）
 
 ## Scienceexchange（https://www.scienceexchange.com/）
 - 「The 5th Japan-India Universities Forum」（https://ssp.jst.go.jp/en/）
@@ -2206,6 +2221,11 @@
 - 「FitGapの要件チェックでは、「日本語UI対応」が×(非対応)です」（https://fitgap.com/jp/products/limble-cmms）
 - 「一方で、「日本語アラート文適合」や「日本市場保全フロー適合」は○(対応)のため、アラートや保全手順の適合だけでなく、日常的に操作する画面の言語まで確認することが重要です」（https://fitgap.com/jp/products/limble-cmms）
 
+## Lemonbox（https://lemonboxbeauty.com/）
+- 「AIで購入者の体調を分析、ビタミンサプリをカスタムメイド ヘルスケアテック「LemonBox」が数億円を調達 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア」（https://36kr.jp/108977/）
+- 「日本企業のDXを促進するプラットフォーム「CONNECTO」」（https://36kr.jp/108977/）
+- 「With the new proceeds, LemonBox is opening a second fulfillment center in the Shenzhen free-trade zone after its Silicon Valley-based one. That’s to provide more stability to its supply chain as the COVID-19 pandemic disrupts international flights and cross-border trade. Moreover, the startup will s」（https://techcrunch.com/2020/12/03/lemonbox-2-5-million-funding/）
+
 ## Latentspace（https://latentspace.sh/）
 - 「日本の著作権法では、」（https://izutsu.aa0.netvolante.jp/pukiwiki2/?LatentSpace）
 - 「日本の著作権法では、このような行為を「情報解析」として認めています」（https://izutsu.aa0.netvolante.jp/pukiwiki2/?LatentSpace）
@@ -2245,14 +2265,77 @@
 - 「the power of knowing when & where online... in Japan」（https://www.nowinstock.net/jp/）
 - 「日本語WordNet(英和)での「instock」の意味」（https://ejje.weblio.jp/content/instock）
 
+## Hunters（https://www.hunters.security）
+- 「Traditional winter hunters in Japan」（https://en.wikipedia.org/wiki/Matagi）
+- 「a machine-translated version of the Japanese article.」（https://en.wikipedia.org/wiki/Matagi）
+- 「Content in this edit is translated from the existing Japanese Wikipedia article at [[:ja:マタギ]]; see its history for attribution.」（https://en.wikipedia.org/wiki/Matagi）
+
+## Humanlinker（https://www.humanlinker.com）
+- 「（出典: Humanlinker Help Center） Q3. 日本語には対応していますか？ A. 2025年11月現在、プラットフォームのUI（ユーザーインターフェース）は主に英語とフランス語です」（https://skywork.ai/skypage/ja/ai-sales-guide/1985171802960502784）
+- 「しかし、AIによるメッセージ生成機能は多言語に対応しており、日本語のメッセージも生成可能です」（https://skywork.ai/skypage/ja/ai-sales-guide/1985171802960502784）
+- 「ただし、生成される日本語の自然さや精度については、実際に無料プランなどで試してみることを強くお勧めします」（https://skywork.ai/skypage/ja/ai-sales-guide/1985171802960502784）
+
+## Heycharge（https://heycharge.com/）
+- 「I’mbesideyou (Minatoku, Japan)」（https://note.com/noto15/n/n43e94701a6d8?hl=en）
+
 ## Helionenergy（https://www.helionenergy.com）
 - 「日本でも核融合研究に関心がある読者なら、ITERやJT-60SA、KSTARなどの名前を聞いたことがあるかもしれません」（https://koriscience.com/helion-energy-fusion-startup-ai-power-jp/）
 - 「FRCとは、Field-Reversed Configurationの略で、日本語では「磁場反転配位」と訳されます」（https://koriscience.com/helion-energy-fusion-startup-ai-power-jp/）
 - 「日本の読者に置き換えるなら、大都市の外側に巨大なデータセンターが増え、そのすべてが24時間安定した電力を必要とするイメージです」（https://koriscience.com/helion-energy-fusion-startup-ai-power-jp/）
 
+## Handle（https://www.handle.com）
+- 「Japanese Knife Handles vs. Western Knife Handles – What’s the Differen」（https://sharpedgeshop.com/blogs/knives-101/japanese-knife-handles-vs-western-knife-handles?srsltid=AYCX9vImozM4VGOj2DP2Ls0vdX7kqd-XhZHzpHAngvYEsYb6sIfS_FIz）
+- 「Japanese wa and Western yo knife handles differ in construction, weight, balance and feel. Wa handles use a hidden tang, are generally lighter, favour a pinch grip and are easy to replace. Yo handles usually feature scales, rivets, a full tang and bolster, creating a heavier, handle-balanced knife. 」（https://sharpedgeshop.com/blogs/knives-101/japanese-knife-handles-vs-western-knife-handles?srsltid=AYCX9vImozM4VGOj2DP2Ls0vdX7kqd-XhZHzpHAngvYEsYb6sIfS_FIz）
+- 「Traditional Japanese handles (also known as ‘wa’ handles)」（https://sharpedgeshop.com/blogs/knives-101/japanese-knife-handles-vs-western-knife-handles?srsltid=AYCX9vImozM4VGOj2DP2Ls0vdX7kqd-XhZHzpHAngvYEsYb6sIfS_FIz）
+- 「$199/month (monthly billing, as listed on the vendor's pricing page)」（https://www.salesforge.ai/blog/white-label-software）
+
+## Goldbelly（https://www.goldbelly.com/）
+- 「日本のご当地グルメサイトとはまた違った感じでいいですよ♪」（https://ameblo.jp/mamiystreett/entry-12841568275.html）
+
+## Global E（https://www.global-e.com）
+- 「Japan, Tokyo」（https://www.global-e.com/careers/）
+- 「Japan, Tokyo」（https://www.global-e.com/careers/c7-661/）
+- 「Near native or native level Japanese, English and fluency in Mandarin highly advantageous」（https://www.global-e.com/careers/c7-661/）
+- 「Global-e (Nasdaq: GLBE) is the world’s leading platform for global direct-to-consumer e-commerce, enabling brands and retailers to seamlessly sell worldwide, delivering localized experiences across markets.」（https://www.global-e.com/careers/c7-661/）
+
 ## Getbalance（https://www.getbalance.com）
 - 「日本では過去24時間に 0 件のレポートが記録されており、そのうち 0 件が過去1時間以内のものです」（https://www.entireweb.com/jp/status/getbalance）
 - 「Alibaba.com is part of the Alibaba International Digital Commerce Group, a global leading B2B ecommerce platform serving sellers and buyers from over 200 countries and regions. Their U.S. buyers had a clear, growing need: more flexible payment options beyond credit cards and traditional wire transfe」（https://www.getbalance.com/case-study/alibaba/）
+
+## Furtherai（https://www.furtherai.com/）
+- 「なぜ今、日本市場に勝機があるのか ローランド・ベルガーが示す日本企業の新たな成長像」（https://forbesjapan.com/articles/detail/83387）
+- 「KKR・大和証券の両トップが語る 日本が「世界有数の成長市場」になる未来」（https://forbesjapan.com/articles/detail/83387）
+- 「With respect to funds managed by a16z that are registered in Japan, a16z will provide to any member of the Japanese public a copy of such documents as are required to be made publicly available pursuant to Article 63 of the Financial Instruments and Exchange Act of Japan. Please contact」（https://a16z.com/announcement/investing-in-furtherai/）
+- 「A mid-sized insurer with over 1,500 employees and $1 billion in annual revenue partnered with FurtherAI.」（https://www.furtherai.com/）
+
+## Flu（https://flu.ke/）
+- 「日本などの温帯では、」（https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6）
+- 「や筋肉注射であるが、日本・米国では鼻噴霧式のものも認可されている」（https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6）
+- 「日本におけるワクチンの接種費用は3000〜6000円程度が多い」（https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6）
+
+## Firmly（https://www.firmly.ai）
+- 「日本語WordNet(英和)での「firmly」の意味」（https://ejje.weblio.jp/content/firmly）
+- 「日本語WordNet(英和)での「firmly,--」の意味」（https://ejje.weblio.jp/content/firmly,--）
+- 「firmly - ウィクショナリー日本語版」（https://ja.wiktionary.org/wiki/firmly）
+
+## Fernride（https://www.fernride.com/）
+- 「：日本最大の問題と解決策：縮小、債務、停滞 - 世界第3位の経済大国は衰退の危機に瀕しているのか？」（https://xpert.digital/ja/%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/）
+
+## Explo（https://explo.co/）
+- 「Discover the beauty of Japan through travel experiences personalized and immersive in Kansai.」（https://explorajapon.com/en/）
+- 「Experiences to discover Japan」（https://explorajapon.com/en/）
+- 「Immerse yourself in the culture, history and natural beauty of Japan with our personalized and immersive experiences.」（https://explorajapon.com/en/）
+- 「How can I get my company listed on CaseStudies.com?」（https://www.casestudies.com/）
+
+## Embrace（https://embrace.io）
+- 「EMBRACEJAPAN｜日本の魅力を世界に発信」（https://embracejp.com/）
+- 「あなたのお気に入りの日本を探してみませんか」（https://embracejp.com/）
+- 「「日本の文化・体験・アート・食」などの「旅人の素材」を世界の旅人に届けることが「Embrace japan」の使命です」（https://embracejp.com/）
+
+## Delineate（https://delineate.pro/）
+- 「日本では、農地の管理や補助金の配分に行政データが使われており、Delineate Anything v2の手法を活用することで、より正確な境界線のマッピングが可能になります」（https://smartagri.jp/p/6575/）
+- 「本記事は以下のarXiv論文を参考に、日本語に解説したものです」（https://smartagri.jp/p/6575/）
+- 「日本語WordNet(英和)での「delineate」の意味」（https://ejje.weblio.jp/content/delineate）
 
 ## Metalpine GmbH（https://www.metalpine.at）
 - 「METALPINE is part of the internationally represented htm Group (hightech metal invest) with locations in Germany, Austria, Bahrain and Japan.」（https://metalpine.at/）

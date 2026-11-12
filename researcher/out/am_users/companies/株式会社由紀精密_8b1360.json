@@ -1,0 +1,1169 @@
+{
+ "name": "株式会社由紀精密",
+ "aliases": [],
+ "context": "ipros_all:小ロット",
+ "researched_at": "2026-11-11T23:39:41.708161+00:00",
+ "official_url": "http://www.yukiseimitsu.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "38名",
+    "url": "https://www.yukiseimitsu.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "航空宇宙関連部品の試作・量産 医療機器関連部品の試作・量産 電機・電子機器部品の試作・量産 半導体製造装置・各種試験装置部品の試作・量産 自動車関連部品の試作・テスト装置の開発 人工衛星筐体の設計・製作 人工衛星エンジンテストベンチの設計・製作 特殊環境［高温、低温、真空等］で用いられる装置の設計・製作等",
+    "url": "https://www.yukiseimitsu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "精密部品製造［航空・宇宙・医療・電気電子・機械式時計］ 精密部品、材料の輸出入、欧州進出企業へのコンサルティング等",
+    "url": "https://www.yukiseimitsu.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "宇宙 ： 株式会社アクセルスペース　株式会社アストロスケールホールディングス　独立行政法人宇宙航空研究開発機構［JAXA］ 他 航空 ： NTN株式会社　横浜ゴム株式会社　株式会社山川機械製作所　他 電気 ： アンリツ株式会社　ヒロセ電機株式会社　多治見無線株式会社　他 大学 ： 東京大学　東京科学大学　青山学院大学　多摩美術大学　早稲田大学　他 その他、約200社",
+    "url": "https://www.yukiseimitsu.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "グループ会社",
+    "value": "由紀ホールディングス株式会社 株式会社仙北谷 国産合金株式会社 他",
+    "url": "https://www.yukiseimitsu.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "Immeuble New Deal 2c 24 Rue Salomon Reinach 69007 Lyon FRANCE",
+    "url": "https://www.yukiseimitsu.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "アナログプレーヤーAP-01 製品サイト",
+    "url": "https://www.yukiseimitsu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "地上での試験や基礎実験に用いられる機器や治具類はもちろん、フライトモデルとして宇宙空間で活躍している製品もあります",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/",
+    "pass": 1
+   },
+   {
+    "quote": "実際に医療現場で働く方々や、医療機器メーカーと密に連携しながら、イメージを描き、製品化まで行っています",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/",
+    "pass": 1
+   },
+   {
+    "quote": "アナログプレーヤーAP-01 製品サイト",
+    "url": "https://www.yukiseimitsu.co.jp/company/business-day/",
+    "pass": 1
+   },
+   {
+    "quote": "加工が困難な形状や材質、海外規格への対応など技術的課題にお応えすべく、お客様と密にコミュニケーションを取りながら、あらゆる製品の実現に協力致します",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/suggest/",
+    "pass": 1
+   },
+   {
+    "quote": "アナログプレーヤーAP-01 製品サイト",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の設計製造の他にも、",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "実際の使用環境でお客様の期待とニーズを満たす製品であることを確認します",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/design/",
+    "pass": 1
+   },
+   {
+    "quote": "手作業とは思えない、精度の高い製品を作っていました",
+    "url": "https://www.yukiseimitsu.co.jp/company/story/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、１つの製品を作るたびに専用のカムとよばれる部品が必要な上、段取り作業にとても時間が掛かりました",
+    "url": "https://www.yukiseimitsu.co.jp/company/story/",
+    "pass": 1
+   },
+   {
+    "quote": "NC自動盤は製品が代わる際に専用のカムを作る必要がなく、プログラムを書き換えて様々な形状を作り出します",
+    "url": "https://www.yukiseimitsu.co.jp/company/story/",
+    "pass": 1
+   },
+   {
+    "quote": "由紀精密工業は生産初期からカードリーダー部に使用されるシャフトを製造し、携帯電話が普及するまでの10年以上もの間、自社の売り上げを支える製品となっていました",
+    "url": "https://www.yukiseimitsu.co.jp/company/story/",
+    "pass": 1
+   },
+   {
+    "quote": "製品による社会の幸せ、お客様の幸せ、",
+    "url": "https://www.yukiseimitsu.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "アナログプレーヤーAP-01 製品サイト",
+    "url": "https://www.yukiseimitsu.co.jp/company/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "アナログプレーヤーAP-01 製品サイト",
+    "url": "https://www.yukiseimitsu.co.jp/recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "アナログプレーヤーAP-01 製品サイト",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/elsa-d/",
+    "pass": 1
+   },
+   {
+    "quote": "アナログプレーヤーAP-01 製品サイト",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/gimbal-mechanism/",
+    "pass": 1
+   },
+   {
+    "quote": "アナログプレーヤーAP-01 製品サイト",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/spinal-implant/",
+    "pass": 1
+   },
+   {
+    "quote": "由紀精密の製品・サービス一覧｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/221680/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(4)",
+    "url": "https://mono.ipros.com/company/detail/221680/category/",
+    "pass": 3
+   },
+   {
+    "quote": "チタンの加工製品はレーシングバイク用に限らずあらゆるものを安価で製造しております",
+    "url": "https://mono.ipros.com/company/detail/221680/category/",
+    "pass": 3
+   },
+   {
+    "quote": "そうした技術力を持ちながらも、後継者の不在や製品ライフサイクルの波により存続が難しい状況に追い込まれる事態が起きています",
+    "url": "https://yuki-holdings.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "由紀ホールディングスは、こうした要素技術を深く理解し製品ライフサイクルの波を超えて技術を進化させていくことを目指しています",
+    "url": "https://yuki-holdings.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・研究開発（建築・土木・プラント・設備）",
+    "url": "https://ja.nc-net.or.jp/company/48581/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "LUNAR DREAM CAPSULE PROJECT",
+    "url": "https://www.yukiseimitsu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタと精密切削加工を融合したスラスター",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂3Dプリンター",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "JIS、AMS、ASTM、DIN、EN、ISOなど各種規格やアルミの調質記号などの指定に対応可能です",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "AISI403 / AMS5639 / AMS5643 / AMS5645 / AMS5647 / ASK-2300 / ASK-3200 / ASK-500F",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "ジェラルミン / 超ジェラルミン / 超々ジェラルミン / AMS4640 / BeCu25 / BeCu50 / C1011",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "快削黄銅 / 銅合金鋳物 / 無酸素銅 / 洋白 / AMS4928 / ASTM F136 / TB340 / Ti-6Al-4V",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "QQ-P-35、AMS QQ-P-35、AMS2700",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "LUNAR DREAM CAPSULE PROJECT",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "姿勢制御用ノズルは、金属3Dプリンタで製造し、精度が必要な部分に切削加工を施しました",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム積層造形による金属3Dプリンターで製造された姿勢制御用ノズルです",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3D造形は切削加工では製造できない複雑で高機能な形状を実現できるため、宇宙開発の分野で期待されていますが、表面粗さ等の課題があります",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "月面に届けるタイムカプセル“LUNAR DREAM CAPSULE PROJECT” には、世界中の子どもたちから集めた夢とともに、人類にとって大切な「水」の象徴としてポカリスエットの粉末が収められています",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "LUNAR DREAM CAPSULE PROJECT オフィシャルページ",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "LUNAR DREAM CAPSULE PROJECT プロジェクトチーム紹介 大塚製薬 プレスリリース",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "「捕集パネル」は簡易曝露実験装置［ExHAM］に取り付け国際宇宙ステーションの「きぼう」日本実験棟の船外に取り付けられています",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "DESPATCHは3Dプリンタで制作された螺旋状の造形部を有する、包絡域が約50cm角、重量約32kgの宇宙機で、2014年12月3日、INVADER同様にH-IIAロケット［主衛星「はやぶさ2」］に相乗りする小型副ペイロードとして打ち上げられました",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "SOLIZE株式会社［3Dプリンタによる造形部］、株式会社西無線研究所［無線機］がプロジェクトメンバーとして参加し、共同で設計制作を行いました",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "港北区新横浜に横浜ファクトリー（現・TECH DESIGN YOKOHAMA）を設立、開発部を移転",
+    "url": "https://www.yukiseimitsu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム積層造形法と精密切削加工技術の融合による衛星用スラスタ部品の開発",
+    "url": "https://www.yukiseimitsu.co.jp/company/story/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ、マシニング",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/case/kounotori-nozzle/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタと精密切削加工を融合したスラスター",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/case/kounotori-nozzle/",
+    "pass": 1
+   },
+   {
+    "quote": "LUNAR DREAM CAPSULE PROJECT",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/elsa-d/",
+    "pass": 1
+   },
+   {
+    "quote": "LUNAR DREAM CAPSULE PROJECT",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/gimbal-mechanism/",
+    "pass": 1
+   },
+   {
+    "quote": "LUNAR DREAM CAPSULE PROJECT｜お知らせ｜株式会社由紀精密",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/lunar-dream-capsule-project/",
+    "pass": 1
+   },
+   {
+    "quote": "LUNAR DREAM CAPSULE PROJECT",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/lunar-dream-capsule-project/",
+    "pass": 1
+   },
+   {
+    "quote": "月面にタイムカプセルを届ける“LUNAR DREAM CAPSULE PROJECT”は、ポカリスエットによる月面到達プロジェクトです",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/lunar-dream-capsule-project/",
+    "pass": 1
+   },
+   {
+    "quote": "世界中の子どもたちから集めた夢とともに、人類にとって大切な「水」の象徴としてポカリスエットの粉末が収められています",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/lunar-dream-capsule-project/",
+    "pass": 1
+   },
+   {
+    "quote": "月面到達というチャレンジは叶いませんでしたが、世界中の子どもたちから寄せられた夢とポカリスエットの粉末が詰まったドリームカプセルは、11日間の宇宙空間航行に成功しました",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/lunar-dream-capsule-project/",
+    "pass": 1
+   },
+   {
+    "quote": "LUNAR DREAM CAPSULE PROJECT",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/spinal-implant/",
+    "pass": 1
+   },
+   {
+    "quote": "KITAMURA 83 2 20",
+    "url": "https://www.yukiseimitsu.co.jp/wp1910/wp-content/uploads/2025/09/JP-facilites_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "精密切削加工／金属3D造形・加工",
+    "url": "https://yuki-holdings.jp/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "S0.6のチタンねじ",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂3Dプリンター",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "TP340 / TW340 / 純チタン / 64 チタン",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "陽極酸化処理［アルマイト、硬質アルマイト、チタンへの陽極酸化など］",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "材質はインコネルで、0.4mm、1mm、2mmの３種類の穴が合計で56個開いています",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "錆やアウトガスが発生しない材質で、ロケットの打ち上げ時の振動に耐えられるよう、また、複数の衛星に対応するため重心が可変であるように設計しました",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "加工が困難な形状や材質、海外規格への対応など技術的課題にお応えすべく、お客様と密にコミュニケーションを取りながら、あらゆる製品の実現に協力致します",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/suggest/",
+    "pass": 1
+   },
+   {
+    "quote": "Ti-6Al-4V チタン",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/case/mechanical-watch-screws/",
+    "pass": 1
+   },
+   {
+    "quote": "S0.6のチタンねじ",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/case/mechanical-watch-screws/",
+    "pass": 1
+   },
+   {
+    "quote": "Ti-6Al-4V チタン",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/case/kounotori-nozzle/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンの加工製品はレーシングバイク用に限らずあらゆるものを安価で製造しております",
+    "url": "https://mono.ipros.com/company/detail/221680/category/",
+    "pass": 3
+   },
+   {
+    "quote": "材質はC1100（銅）でスイス型自動盤で製作しています",
+    "url": "https://mono.ipros.com/company/detail/221680/category/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "2液性液体ロケットエンジンを想定",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、宇宙空間や、 山林などの不整地、 熱帯、凍土、深海、そして高温環境から超低温環境",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/",
+    "pass": 1
+   },
+   {
+    "quote": "人工衛星のミッション機器やISSでの試験装置、ロケット関連部品の設計支援を行っています",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/",
+    "pass": 1
+   },
+   {
+    "quote": "地上での試験や基礎実験に用いられる機器や治具類はもちろん、フライトモデルとして宇宙空間で活躍している製品もあります",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/",
+    "pass": 1
+   },
+   {
+    "quote": "人の命を救う医療機器は、開発が留まることなく、常に進化し続けている市場です",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/",
+    "pass": 1
+   },
+   {
+    "quote": "実際に医療現場で働く方々や、医療機器メーカーと密に連携しながら、イメージを描き、製品化まで行っています",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙ゴミを回収し、大気圏に突入するまでの動作を実際に宇宙で行なおうというもので、「捕獲機」と「模擬デブリ」で構成されています",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月23日にカザフスタンバイコヌール宇宙基地から打ち上げられ、同8月26日に軌道上で模擬デブリの捕獲実証に成功しました",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "ロケットでの打ち上げや宇宙空間での動作を見据えて設計・製作した、2軸のジンバルです",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "2液式液体燃料ロケットの姿勢制御用インジェクタを想定し、設計と加工の技術確認のためにオリジナルで試作したものです",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "国立研究開発法人新エネルギー・産業技術総合開発機構[NEDO]の助成を受けて開発したスラスタに、推進薬を供給するための実験用治具です",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "HTV搭載小型回収カプセルは、再突入機による国際宇宙ステーション(ISS)からの宇宙実験サンプルの回収を行うものです",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3D造形は切削加工では製造できない複雑で高機能な形状を実現できるため、宇宙開発の分野で期待されていますが、表面粗さ等の課題があります",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "衛星ダミーマスとは、万が一、何らかの理由で予定していた衛星がロケットに搭載できなかった場合、代わりに取り付けられる代替質量体のことです",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "錆やアウトガスが発生しない材質で、ロケットの打ち上げ時の振動に耐えられるよう、また、複数の衛星に対応するため重心が可変であるように設計しました",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "月や宇宙を身近に感じてほしいと集約した民間企業とともに、地上約38万kmの月面へ挑むプロジェクト",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "スペースデリバリープロジェクトは、国内外の研究機関・教育機関・民間企業10組から集めた、研究用素材、写真、イラストなどの様々な対象品を宇宙空間に打上げ曝露するプロジェクトで、たんぽぽ計画は、「宇宙での生命の起源、移動と生存」の解明を目指して宇宙環境での生体有機物合成と微生物の生存性の検証を行うプロジェクトです",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "たんぽぽ計画は「生命は宇宙空間を移動するのではないか」というパンスペルミア仮説を検証するために、宇宙空間で地球を脱出する微生物の存在があるかどうかを検証する試みです",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "「捕集パネル」は簡易曝露実験装置［ExHAM］に取り付け国際宇宙ステーションの「きぼう」日本実験棟の船外に取り付けられています",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "「ARTSAT：衛星芸術プロジェクト」は、地球を周回する衛星や深宇宙に投入される宇宙機を「宇宙と地球をつなぐメディア」ととらえ、衛星そのものや、そこから得られるデータを使って、さまざまな芸術実験を展開していく多摩美術大学と東京大学の共同プロジェクトです",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "DESPATCHは3Dプリンタで制作された螺旋状の造形部を有する、包絡域が約50cm角、重量約32kgの宇宙機で、2014年12月3日、INVADER同様にH-IIAロケット［主衛星「はやぶさ2」］に相乗りする小型副ペイロードとして打ち上げられました",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "ARTSAT 深宇宙彫刻 DESPATCH",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置・各種試験装置部品の試作・量産",
+    "url": "https://www.yukiseimitsu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "登録範囲 ： 航空宇宙防衛関連機器用を含む精密切削加工部品の製造（医療関連を除く）",
+    "url": "https://www.yukiseimitsu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙 ： 株式会社アクセルスペース 株式会社アストロスケールホールディングス 独立行政法人宇宙航空研究開発機構［JAXA］ 他",
+    "url": "https://www.yukiseimitsu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "航空 ： NTN株式会社 横浜ゴム株式会社 株式会社山川機械製作所 他",
+    "url": "https://www.yukiseimitsu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "精密部品製造［航空・宇宙・医療・電気電子・機械式時計］",
+    "url": "https://www.yukiseimitsu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙関連の管理システム JIS Q 9100：2004認証取得 ［茅ヶ崎工場］",
+    "url": "https://www.yukiseimitsu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製造業登録証を取得 ［茅ヶ崎工場］",
+    "url": "https://www.yukiseimitsu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "神奈川県内に宇宙機製造拠点S-Labが完成",
+    "url": "https://www.yukiseimitsu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙防衛関連機器用を含む精密切削加工部品の製造（医療関連を除く）",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/quality/",
+    "pass": 1
+   },
+   {
+    "quote": "当初はねじや六角支柱の量産を行っておりましたが、現在では特殊形状のコネクタ、半導体関連、高周波関連など小径、高精度、複雑形状の部品について試作から量産まで手掛けています",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/case/",
+    "pass": 1
+   },
+   {
+    "quote": "内装品、構造、エンジンなど航空機に使われる様々な機械部品を製造しています",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/case/",
+    "pass": 1
+   },
+   {
+    "quote": "小型人工衛星をはじめとする多くの宇宙機器向けに金属部品製造実績を積み上げています",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/case/",
+    "pass": 1
+   },
+   {
+    "quote": "微細構造で幾何公差の要求も厳しい内視鏡部品をはじめ、歯科医療機器、脊椎インプラントおよび手術器械など、医療業界の部品を製造しています",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/case/",
+    "pass": 1
+   },
+   {
+    "quote": "脊椎インプラントはお客様の仕様を基に設計から関わるほか、真空洗浄機を用いた洗浄など、試験や改良を積み重ねて量産製造まで関わっています",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/case/",
+    "pass": 1
+   },
+   {
+    "quote": "茅ヶ崎工場が航空宇宙関連の管理システムJIS Q 9100：2004認証取得",
+    "url": "https://www.yukiseimitsu.co.jp/company/story/",
+    "pass": 1
+   },
+   {
+    "quote": "世界最大規模の航空宇宙機器見本市であるパリ航空ショーに初出展",
+    "url": "https://www.yukiseimitsu.co.jp/company/story/",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙ゴミを回収し、大気圏に突入するまでの動作を実際に宇宙で行なおうというもので、「捕獲機」と「模擬デブリ」で構成されています",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/elsa-d/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月23日にカザフスタンバイコヌール宇宙基地から打ち上げられ、同8月26日に軌道上で模擬デブリの捕獲実証に成功しました",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/elsa-d/",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙向けジンバル機構｜お知らせ｜株式会社由紀精密",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/gimbal-mechanism/",
+    "pass": 1
+   },
+   {
+    "quote": "ロケットでの打ち上げや宇宙空間での動作を見据えて設計・製作した、2軸のジンバルです",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/gimbal-mechanism/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年1月8日、ロケットの打ち上げは無事成功しましたが、月面着陸船からの推進剤の漏れなどの理由により、月への着陸を断念、1月19日に大気圏に突入しました",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/lunar-dream-capsule-project/",
+    "pass": 1
+   },
+   {
+    "quote": "月面到達というチャレンジは叶いませんでしたが、世界中の子どもたちから寄せられた夢とポカリスエットの粉末が詰まったドリームカプセルは、11日間の宇宙空間航行に成功しました",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/lunar-dream-capsule-project/",
+    "pass": 1
+   },
+   {
+    "quote": "脊椎インプラント｜お知らせ｜株式会社由紀精密",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/spinal-implant/",
+    "pass": 1
+   },
+   {
+    "quote": "特集「中小企業が挑む宇宙ビジネス」第3章",
+    "url": "https://yuki-holdings.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙・航空、超電導に邁進する由紀精密のエクストリーム製造論",
+    "url": "https://yuki-holdings.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "由紀精密の精密切削加工技術は、かつて公衆電話の部品を支え、その後は光ファイバーの部品、航空機や人工衛星の部品へと応用の場を広げてきました",
+    "url": "https://yuki-holdings.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "事業承継、製造業のグループ経営、宇宙・超電導の要素技術について、代表とグループ各社がお話しします",
+    "url": "https://yuki-holdings.jp/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "2液式液体燃料ロケットの姿勢制御用インジェクタを想定し、設計と加工の技術確認のためにオリジナルで試作したものです",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "様々な試作スラスターの評価に利用されています",
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置・各種試験装置部品の試作・量産",
+    "url": "https://www.yukiseimitsu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当初はねじや六角支柱の量産を行っておりましたが、現在では特殊形状のコネクタ、半導体関連、高周波関連など小径、高精度、複雑形状の部品について試作から量産まで手掛けています",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/case/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロットでの生産にも対応し、ギア、ねじ、りゅうず、針、ケースなど幅広い部品の加工が可能です",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/case/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、インターネットを活用した営業活動により、少量で付加価値の高い部品を受注できるようになり、2006年度の売上はITバブル崩壊前の状態に回復しました",
+    "url": "https://www.yukiseimitsu.co.jp/company/story/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "できるだけ鮮明に図面を把握したいので、可能な場合はメールでのご送付を希望します",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/suggest/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ - 株式会社由紀精密 神奈川県 茅ヶ崎市",
+    "url": "https://ja.nc-net.or.jp/company/48581/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社からの連絡に必要な電子メールアドレスを用意してそのアドレスを当社に対して登録すること",
+    "url": "https://ja.nc-net.or.jp/company/48581/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします",
+    "url": "https://ja.nc-net.or.jp/company/48581/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします",
+    "url": "https://ja.nc-net.or.jp/company/48581/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社由紀精密 — 由紀精密は、ミッション「ものづくりの力で世界を幸せに」を掲げ、精密部品の製造、機械の設計、それに伴うサービスにより、エンドユーザーが今よりも豊かに、お客様がより満たされるように、自社で働くメンバーが一層輝けるように、歩み続けます。",
+    "url": "https://www.yukiseimitsu.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "由紀精密の製品・サービス一覧｜イプロスものづくり — Feb 18, 2021 · 由紀精密 の製品・サービス一覧です。 要求精度の高い高難易度の複合加工品を、短納期でお求め安い価格で提供いたします。 創業以来47年、切削加工一筋でつちかったノウハウで、複雑な加工工程の高精度部品を削り出しで製造します。",
+    "url": "https://mono.ipros.com/company/detail/221680/category/",
+    "pass": 3
+   },
+   {
+    "quote": "技術・製品 - 株式会社由紀精密 神奈川県 茅ヶ崎市 — Aug 21, 2023 · 由紀精密は神奈川県茅ヶ崎市に本社工場をもつ精密切削加工を得意とする企業です。 技術者が開発の原点からメーカーや研究機関、顧客と直接対話し、仕様書や構想図を基に設計から製造まで行える受託開発体制を整えました。",
+    "url": "https://ja.nc-net.or.jp/company/48581/product/",
+    "pass": 3
+   },
+   {
+    "quote": "精密加工事業トップ [加工事例] | 株式会社由紀精密 — 切削加工を中心に、1950年から今日まで、毎日しっかりと着実に精密部品を作り続けています。 長い年月をかけて育んだ量産部品の製造手法や、高い品質要求のある一点ものの難加工まで 幅広く展開できる技術により、お客様のものづくりを支えます。",
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社由紀精密 — 会社概要 ... アクセス 本社 / 茅ヶ崎工場 〒253-0084 神奈川県茅ヶ崎市円蔵370 TEL 0467-82-4106 FAX 0467-86-9614 TEL 0467-82-4106 FAX 0467-86-9614 電車でお越しの方 JR相模線 北茅ヶ崎駅より徒歩7分 車でお越しの方 新湘南バイパス 茅ヶ崎中央ICより5分",
+    "url": "https://www.yukiseimitsu.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "由紀ホールディングス株式会社｜ものづくりの力で世界を幸せに由紀精密工業株式会社 - 会社概要株式会社由紀精密 - METI株式会社由紀精密 | 加工会社ナビ株式会社由紀精密（神奈川県・製造業）の会社概要 | イノベーションズ... — Jul 23, 2026 · 由紀精密の精密切削加工技術は、かつて公衆電話の部品を支え、その後は光ファイバーの部品、航空機や人工衛星の部品へと応用の場を広げてきました。 JSAは、細くしなやかな電線製造技術を受け継ぎ、超電導の線材づくりに取り組んでいます。 由紀精密工業株式会社の事業概要 NC複合加工機による量産物から手加工による単品物まで、多品種少量生産に対応します。 電子、電機機器部品、産業用機械部品、一般精密機械部品、医療機器等、あらゆる産業の部品加工を行っております。 事業概要 を構えています。本社の他に新横浜の開発拠点があり、合わせて33名の従業員",
+    "url": "https://yuki-holdings.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "由紀精密工業株式会社 - 会社概要 — 由紀精密工業株式会社の事業概要 NC複合加工機による量産物から手加工による単品物まで、多品種少量生産に対応します。 電子、電機機器部品、産業用機械部品、一般精密機械部品、医療機器等、あらゆる産業の部品加工を行っております。",
+    "url": "https://www.atengineer.com/pr/yukiseimitsu/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社由紀精密 | 加工会社ナビ — 株式会社由紀精密の 概要 航空宇宙、医療機器、電気電子、産業機器向けに精密切削加工部品の製造を主力としています。 量産品から難加工の一点ものまで、顧客の多様なニーズに対応した製品を提供しています。",
+    "url": "https://eigyo-mfg.com/service/navi/company/1rknFsNZtU5g",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 株式会社由紀精密 — お知らせ NEWS コラムアーカイブ 事業紹介 精密加工事業 トップ [加工事例] 提案型ものづくり 主要分野と経験 品質管理 設備 / 材料 / 処理 Q&A 技術開発事業 トップ [由紀精密の技術開発とは] 機械設計支援 技術コンサルティング 開発事例 採用情報 お問い合わせ",
+    "url": "https://www.yukiseimitsu.co.jp/inquiry/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 株式会社由紀精密 神奈川県 茅ヶ崎市 — Sep 12, 2022 · 由紀精密は神奈川県茅ヶ崎市に本社工場をもつ精密切削加工を得意とする企業です。 技術者が開発の原点からメーカーや研究機関、顧客と直接対話し、仕様書や構想図を基に設計から製造まで行える受託開発体制を整えました。",
+    "url": "https://ja.nc-net.or.jp/company/48581/inquiry/",
+    "pass": 3
+   },
+   {
+    "quote": "精密加工事業にお問い合わせ | 株式会社由紀精密 — 株式会社由紀精密 精密加工事業 本社 / 茅ヶ崎工場 〒253-0084 神奈川県茅ヶ崎市円蔵370 TEL 0467-82-4106 / FAX 0467-86-9614 技術開発事業 TECH DESIGN YOKOHAMA 〒222-0033 神奈川県横浜市港北区新横浜3-18-5 アイズビル9F TEL 045-620-2555 / FAX 045-620-2556 SEIMITSU COMAに関して",
+    "url": "https://www.yukiseimitsu.co.jp/inquiry/precision/",
+    "pass": 3
+   },
+   {
+    "quote": "由紀ホールディングス株式会社｜ものづくりの力で世界を幸せにユキワ精工株式会社｜お問い合わせYUKI Précision — Jul 23, 2026 · 由紀ホールディングスは、日本の中小製造業で長年培われた要素技術を深く理解し、先端産業に応用することで、技術の承継と継続的な進化をもたらします。 目指すのは、要素技術による社会課題の解決です。 日本雪和精工株式会社 上海代表処 中国国内における円テーブルのサービスに関するお問い合わせ 〒200336 上海市長寧区楼山関路85號 東方國際大厦B座302室 TEL：+86-21-6270-9020 FAX：+86-21-6270-9019 Jan 28, 2026 · 由紀精密は、ミッション「ものづくりの力で世界を幸せに」を掲げ、精密部品の製造、機械の設計、それに伴うサービスにより、エンドユーザーが今よりも豊かに、お客様がより満たされるように、",
+    "url": "https://yuki-holdings.jp/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "株式会社由紀精密 (@yuki_precision) / X 13年ぶり、3回目のコマ大戦へーーー 由紀精密は、10月3日（土）開催の「全日本製造業コマ大戦 千葉きぼーる 重量制限特別場所」に出場します。 この夏、私たちが向き合ってきたのは、限られた重量とサイズの中でつくるコマ。",
+    "url": "https://x.com/yuki_precision",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社由紀精密 (@yuki_precision) / X Mar 24, 2010 · 【お盆も営業中】 由紀精密の2026年営業日カレンダーです。 担当部署で調整して任意の時期に夏休みを取得しているため、企業としてはお盆期間も通常営業しています。 お気軽にご連絡ください。",
+    "url": "https://x.com/yuki_precision",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社由紀精密 | Chigasaki-shi Kanagawa - Facebook株式会社由紀精密 - こちらの写真は由紀精密の前身である大坪螺子製作...株式会社由紀精密 - 【ウェブサイト更新】由紀精密の公式サイトをプチ...株式会社由紀精密 - [由紀精密の公式SNS紹介] ... | Facebook株式会社由紀精密 - #そうだ由紀精密に聞いてみよう 開発事例・宇宙向...株式会社由紀精密 - こちらの写真は由紀精密の前身である大坪螺子製作...株式会社由紀精密 - 株式会社由紀精密 added a new photo. 由紀精密は、精密加工と技術開発の二つの事業を軸に 、宇宙関連分野の開発にも力を入れています。 今回は 、宇宙と由紀精密の取り組みをエンジニアの視点から 紹介したコラムのご案内です。 Nov 18, 2025 · ネジの製造から、様々な設計・受託加工品、精密",
+    "url": "https://www.facebook.com/yuki.precision/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社由紀精密 - こちらの写真は由紀精密の前身である大坪螺子製作... Nov 18, 2025 · ネジの製造から、様々な設計・受託加工品、精密コマ、そしてアナログ・レコードプレーヤーに至るまで、「創業当時から変わらぬ「ものづくり」への想いは由紀精密の存在そのもの」と4代目社長の永松純は表現します。 ...",
+    "url": "https://www.facebook.com/yuki.precision/posts/こちらの写真は由紀精密の前身である大坪螺子製作所時代の工場そして現在の由紀精密の本社工場の様子ですネジの製造から様々な設計受託加工品精密コマそしてアナログレコー/1308839727923055/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社由紀精密 - 【ウェブサイト更新】由紀精密の公式サイトをプチ... Dec 12, 2023 · 由紀精密は精密部品の製造、機械の設計、それに伴う サービスにより、エンドユーザーが今よりも豊かに、 お客様がより満たされるように、自社で働くメンバー が一層輝けるように、2026年も歩み続けます。 #yukiseimitsu#由紀精密#yukiprecision 渡邊忍 and 20 others ...",
+    "url": "https://www.facebook.com/yuki.precision/photos/ウェブサイト更新由紀精密の公式サイトをプチリニューアルより便利になりました️トップページに事業部の紹介事例のご案内️精密加工の事例一覧材質加工ジャンルごと選んで/785298623610504/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社由紀精密 - [由紀精密の公式SNS紹介] ... | Facebook Apr 10, 2019 · [由紀精密の公式SNS紹介] 由紀精密ではFacebookの他にTwitterとInstagramアカウントを運営しています。 Twitterでは掲載記事や工場の様子などをリアルタイムに紹介していきます。 お気軽にリツイートやリプライをしていただけますと幸いです。",
+    "url": "https://www.facebook.com/yuki.precision/posts/由紀精密の公式sns紹介-由紀精密ではfacebookの他にtwitterとinstagramアカウントを運営しています-twitterでは掲載記事や工場の様子/2689833441033576/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社由紀精密 | Chigasaki-shi Kanagawa - Facebook開発事例 - 株式会社由紀精密YUKI Précision 由紀精密は、精密加工と技術開発の二つの事業を軸に 、宇宙関連分野の開発にも力を入れています。 今回は 、宇宙と由紀精密の取り組みをエンジニアの視点から 紹介したコラムのご案内です。 米に0.3mmの穴をあけ、0.02mmのタングステンワイヤーを通す、精密な工程を担当しました。 高さ約5mmの浮遊している米粒に映されている鮮明な映像を駆使し、日本の技術をアピールしています。 Jan 28, 2026 · 由紀精密は、ミッション「ものづくりの力で世界を幸せに」を掲げ、精密部品の製造、機械の設計、それに伴うサービスにより、エンドユーザーが今よりも豊かに、お客様がより満たされるように、自社で働くメンバーが一層輝けるように、歩み続けます。",
+    "url": "https://www.facebook.com/yuki.precision/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.yukiseimitsu.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/company/business-day/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/company/business-day/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/quality/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/suggest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/consulting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/company/story/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/company/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/company/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/recruitment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/case/mechanical-watch-screws/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/case/insert/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/case/weight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/business/precision/case/kounotori-nozzle/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/elsa-d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/gimbal-mechanism/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/lunar-dream-capsule-project/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yukiseimitsu.co.jp/business/rd/case/spinal-implant/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.yukiseimitsu.co.jp/wp1910/wp-content/uploads/2025/09/JP-facilites_2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/221680/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://e-sakai.co.jp/bisaikako-lab/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yuki-holdings.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/48581/inquiry/input/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/yuki_precision",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/yuki.precision/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/yuki.precision/posts/こちらの写真は由紀精密の前身である大坪螺子製作所時代の工場そして現在の由紀精密の本社工場の様子ですネジの製造から様々な設計受託加工品精密コマそしてアナログレコー/1308839727923055/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/yuki.precision/photos/ウェブサイト更新由紀精密の公式サイトをプチリニューアルより便利になりました️トップページに事業部の紹介事例のご案内️精密加工の事例一覧材質加工ジャンルごと選んで/785298623610504/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/yuki.precision/posts/由紀精密の公式sns紹介-由紀精密ではfacebookの他にtwitterとinstagramアカウントを運営しています-twitterでは掲載記事や工場の様子/2689833441033576/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yuki_precision",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/yuki.precision/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "由紀精密 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.yukiseimitsu.co.jp/",
+    "https://mono.ipros.com/company/detail/221680/category/",
+    "https://e-sakai.co.jp/bisaikako-lab/",
+    "https://ja.nc-net.or.jp/company/48581/product/",
+    "https://www.yukiseimitsu.co.jp/business/precision/",
+    "https://morpha.co.jp/work/precision/",
+    "https://yumoparts.com/services/machining"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "由紀精密 会社概要 事業内容",
+   "results": [
+    "https://www.yukiseimitsu.co.jp/company/",
+    "https://www.yukiseimitsu.co.jp/",
+    "https://yuki-holdings.jp/",
+    "https://www.atengineer.com/pr/yukiseimitsu/company",
+    "https://eigyo-mfg.com/service/navi/company/1rknFsNZtU5g",
+    "https://www.innovations-i.com/is/2509.html",
+    "https://chiiki-kenin-kigyou.meti.go.jp/pdf/140031.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "由紀精密 お問い合わせ メール",
+   "results": [
+    "https://www.yukiseimitsu.co.jp/inquiry/",
+    "https://ja.nc-net.or.jp/company/48581/inquiry/",
+    "https://www.yukiseimitsu.co.jp/inquiry/precision/",
+    "https://yuki-holdings.jp/contact/",
+    "https://yuki-holdings.jp/",
+    "https://www.yukiwa.co.jp/contact/index.php",
+    "https://www.yuki-precision.fr/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 由紀精密",
+   "results": [
+    "https://note.com/yuyu2000_0908",
+    "https://note.com/ugomeki",
+    "https://note.com/useful_magazines/n/ne223e10997e9",
+    "https://tales.note.com/mio_stories/w5ttircumsoip",
+    "https://tales.note.com/",
+    "https://note.com/kabude/n/n98d86f1e656b",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 由紀精密",
+   "results": [
+    "https://x.com/yuki_precision",
+    "https://x.com/YukiSahara2",
+    "https://x.com/PreciseToolMfg",
+    "https://x.com/0901pfm",
+    "https://x.com/shirakawayuki_",
+    "https://x.com/superdoccimo/status/2119065498143150219",
+    "https://x.com/Yukiriiiin__K"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 由紀精密",
+   "results": [
+    "https://tw.linkedin.com/in/彥百-紀-a49677242",
+    "https://jp.linkedin.com/in/由紀-森下-779a7358",
+    "https://tw.linkedin.com/in/岱昀-紀-237581132",
+    "https://jp.linkedin.com/in/侑紀-中川-1b2ab72b7",
+    "https://www.linkedin.com/pub/dir/Miyuki/Sakurai",
+    "https://in.linkedin.com/company/linkedin",
+    "https://www.linkedin.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 由紀精密",
+   "results": [
+    "https://www.facebook.com/yuki.precision/",
+    "https://www.facebook.com/yuki.precision/posts/こちらの写真は由紀精密の前身である大坪螺子製作所時代の工場そして現在の由紀精密の本社工場の様子ですネジの製造から様々な設計受託加工品精密コマそしてアナログレコー/1308839727923055/",
+    "https://www.facebook.com/yuki.precision/photos/ウェブサイト更新由紀精密の公式サイトをプチリニューアルより便利になりました️トップページに事業部の紹介事例のご案内️精密加工の事例一覧材質加工ジャンルごと選んで/785298623610504/",
+    "https://www.facebook.com/yuki.precision/posts/由紀精密の公式sns紹介-由紀精密ではfacebookの他にtwitterとinstagramアカウントを運営しています-twitterでは掲載記事や工場の様子/2689833441033576/",
+    "https://www.facebook.com/yuki.precision/photos/そうだ由紀精密に聞いてみよう開発事例宇宙向けジンバル機構ロケットでの打ち上げや宇宙空間での動作を見据えて設計製作した2軸のジンバルです購入品のモータやレゾルバを/1324899862983708/",
+    "https://www.facebook.com/yuki.precision/photos/こちらの写真は由紀精密の前身である大坪螺子製作所時代の工場そして現在の由紀精密の本社工場の様子ですネジの製造から様々な設計受託加工品精密コマそしてアナログレコー/1308839684589726/",
+    "https://www.facebook.com/photo/?fbid=1234435125363516"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "由紀精密 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.yukiseimitsu.co.jp/company/message/",
+    "https://www.yukiseimitsu.co.jp/",
+    "https://yuki-holdings.jp/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/ceo_offrecord/n/ne596f65c2ace"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "由紀精密 X 投稿",
+   "results": [
+    "https://x.com/yuki_precision",
+    "https://www.yukiseimitsu.co.jp/",
+    "https://www.instagram.com/yukiseimitsu/",
+    "https://www.facebook.com/yuki.precision/",
+    "https://www.yukiseimitsu.co.jp/business/rd/case/",
+    "https://www.yuki-precision.fr/",
+    "https://x.com/hahaguma/status/2096200053732016491"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式26頁／PDF・画像1件／外部11頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式26頁／PDF・画像1件／外部11頁・検索9回）"
+ }
+}

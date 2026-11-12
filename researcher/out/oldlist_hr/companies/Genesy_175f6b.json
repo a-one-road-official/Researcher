@@ -1,0 +1,2280 @@
+{
+ "name": "Genesy",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Software / SaaS｜返信あり",
+ "researched_at": "2026-11-11T23:51:24.202482+00:00",
+ "official_url": "https://salesforge.ai/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "“5k leads, 20M emails and 300k LinkedIn DMs a month.”",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Janis Plume · Outbound Pros",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Stable deliverability and one product for our full outbound.”",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Theo Kanellopoulos · Marketing Director @ SalesCaptain",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Primeforge gets us client-ready inboxes in minutes.”",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How AKOOL Reached Over 214K Prospects With a",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Outreach at our scale requires speed, segmentation, and precision -",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "the warm-up process, spintax, and inbox management are all winners for us",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Premium Email Deliverability",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Forget about seat-based pricing. We're the only platform to offer unlimited mailboxes & LinkedIn senders to allow you to add everybody on your team to generate superior pipeline levels.",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "With conditional multi-channel sequences you can orchestrate outreach that not only reaches your prospects across multiple touchpoints, but also targets their pain points and goals to increase engagement.",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Across Email & LinkedIn With Primebox™",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Primebox™ keeps you in control by consolidating all your replies across email and LinkedIn in one place, capturing replies from any address (even if the prospect responds from a different email) and layering in AI analysis and smart tools to help you respond faster, better, and always on time - so you never lose a prospect in the noise. Included for free with every Salesforge subscription.",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Salesforge comes with free, unlimited access to Warmforge - our email deliverability tool with a premium warm up pool, free of external SMTPs and full of healthy Google Workspace and Microsoft365 mailboxes.",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hire our AI SDR, Agent Frank, to join your human team or instead of one. He can handle your entire outreach from prospecting all the way to booking meetings.",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The agent behaviour is modelled after top 1% sales reps in your industry trained on a proprietary data lake with superior Gen AI & ML in place, including the most advanced email infrastructure set up, making him the most superior agent on the market for you.",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether it’s 2 or 20 different languages, with Salesforge you can craft unique messages to each recipient without hiring translators or local SDRs.",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Salesforge is part of The Forge Stack with products that cover everything from premium email infrastructure to building laser-focused lead lists. All that with one simple login.",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Salesforge and your other products, and your fast support team were crucial in my first 2 years running a lead generation agency. As a solo founder, generating leads for myself and my clients is challenging. Salesforge helped me create a \"lean and mean\" pipeline. With a small investment of time and money,",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I often receive so many leads that I have to pause my campaigns.",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Our CAC is currently $2.86, and we expect it to decrease even further. We’re currently onboarding 4 to 5 new music creators every day.",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Founder, Vacord Screen Printing",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Salesforge seamlessly integrates with any email infrastructure you might be using, but more importantly, you can add new domains and mailboxes from Mailforge, Infraforge or Primeforge with a few simple clicks!",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From popular CRMs to lead generation tools and workflow automation software, Salesforge is easy to plug into your existing stack.",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Salesforge is the all-in-one cold outreach platform that combines AI, human workflows, and world-class infrastructure. Unlike other tools, Salesforge lets you run multi-channel campaigns (email + LinkedIn) from a single dashboard, with unlimited mailboxes & LinkedIn senders, built-in AI personalization, deliverability protection, and autonomous AI SDRs.",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale safely across as many LinkedIn profiles as you need - no cap.",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Each account operates on dedicated IPs with an isolated sequencer fingerprint. No shared pools, no reputation bleed - just full control over deliverability in single-tenant clusters.",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "You sell B2B products or services with ACVs between $5K–$100K",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "You want to book meetings at scale without hiring a large SDR team",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "You primarily target Fortune 500 companies",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Your sales motion depends on long RFP cycles and complex enterprise procurement",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "You’re comfortable with a fragmented tool stack and manual processes",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Already succeeding with Forge products and want to take your role to the next level? Join our exclusive Forge Expert Program to gain recognition, premium benefits, and access to referral opportunities from our customer base.",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Add the Forge Expert logo to your LinkedIn profile and/or website.",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Prove your commitment and success with a minimum of $500 in monthly recurring revenue.",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Once you’re in the Forge Expert program, you unlock a whole new level of perks that go well beyond the regular ambassador setup:",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Get showcased on our dedicated Forge Expert page, giving your agency or service a prominent industry shoutout.",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Ditch the standard affiliate link. Instead, simply share your prospects’ names and emails with us - and we’ll handle the rest.",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborative Content Opportunities:",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with Frank, our CEO, on exclusive webinars, podcasts, or joint social media posts to boost your reach.",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "“Salesforge and your other products, and your fast support team were crucial in my first 2 years running a lead generation agency. As a solo founder, generating leads for myself and my clients is challenging. Salesforge helped me create a \"lean and mean\" pipeline. With a small investment of time and money, I often receive so many leads that I have to pause my campaigns.”",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "From one-man teams to Fortune500 companies, businesses using the Forge get real results. Read about how they leveraged our products to make their cold outreach into a pipeline-growing machine!",
+    "url": "https://www.salesforge.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Vanderbuild runs every client on Primeforge, Warmforge and Salesforge, cutting 4+ hours from each client onboarding while keeping deliverability at 99.3%.",
+    "url": "https://www.salesforge.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Marblism’s team built an outbound engine that matches the ambition of their AI platform - fast, adaptable, and capable of managing thousands of prospects per day.",
+    "url": "https://www.salesforge.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "How Outbound Pros Scaled Agency Operations with the Forge Stack",
+    "url": "https://www.salesforge.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Outbound Pros uses the Forge Stack to do what every agency wants to do - scale outbound operations efficiently, deliver better results, and keep margins strong.",
+    "url": "https://www.salesforge.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "VidLab7 isn’t just sending more emails - they’re sending better emails, from an infrastructure that’s designed to scale without breaking. By combining Salesforge, Mailforge, Primeforge, and Warmforge, they’ve created an outreach machine that books meetings without burning domains.",
+    "url": "https://www.salesforge.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Tim was impressed with Salesforge and Mailforge from the start. The platforms not only met his needs but gave him the confidence to move all his campaigns to Salesforge and Mailforge.",
+    "url": "https://www.salesforge.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "How VAI Consulting Generates Outbound Leads on Auto-Pilot with Agent Frank",
+    "url": "https://www.salesforge.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "How AKOOL Reached Over 214K Prospects With a 16%+ Positive Reply Rate",
+    "url": "https://www.salesforge.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Despite targeting broad and complex segments, AKOOL maintained strong positive engagement across the board - proving the value of precise targeting and message testing.",
+    "url": "https://www.salesforge.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Scale your outreach without scaling your team by programmatically sending unique messages and maximizing pipeline coverage by hiring AI Agents.",
+    "url": "https://www.salesforge.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Get Leads, Fast",
+    "url": "https://www.salesforge.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Private Email Infrastructure",
+    "url": "https://www.salesforge.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Forge Experts: Certified Pro's in Sales & Outreach.",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Founders, MDs and Heads of Sales",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Resonant GTM uses predictive demand generation to find companies who are currently searching for a product like yours. We then handle the advertising, content, and direct outreach to turn that insight into sales opportunities quickly and efficiently.",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "B2B companies with a proven product and happy customers",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Under pressure to grow efficiently, not just fast",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "IAD Growth is a US-based lead generation partner for B2B services and software companies, running phone, email, LinkedIn, and website campaigns for small business owners, founders, solopreneurs, and consultants. The focus is sustainable, high quality outreach that turns into profitable revenue, not just activity metrics.",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 10,000+ Businesses",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 10,000+ Businesses",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by High-Performing Agencies",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "This case study shows how Jungler uses Salesforge and Warmforge as the execution layer for their signals - turning engagement data into high-quality, human outbound that actually converts.",
+    "url": "https://www.salesforge.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Software development, manufacturing, or specialized B2B services",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Deal sizes large enough for a retainer to pay itself back quickly. Our flagship case study runs on a $250k average deal size",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: How Net New Solutions is Scaling Campaigns with Salesforge & Mailforge",
+    "url": "https://www.salesforge.ai/case-study/net-new-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 10,000+ Businesses",
+    "url": "https://www.salesforge.ai/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by High-Performing Sales Teams",
+    "url": "https://www.salesforge.ai/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 10,000+ Businesses",
+    "url": "https://www.salesforge.ai/solutions/growth",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by High-Performing Growth Teams",
+    "url": "https://www.salesforge.ai/solutions/growth",
+    "pass": 1
+   },
+   {
+    "quote": "Di-Atomic, a division of DEMAVIAS, LLC, is a full-service marketing agency dedicated to assisting manufacturers in achieving global expansion.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: How AKOOL Reached Over 214K Prospects With a 16%+ Positive Reply Rate",
+    "url": "https://www.salesforge.ai/case-study/akool",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: How ChannelCrawler Achieved Positive Replies",
+    "url": "https://www.salesforge.ai/case-study/channelcrawler",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: How UniteSync Achieved an 85.26% Positive Reply Rate and a $2.86 CAC",
+    "url": "https://www.salesforge.ai/case-study/unitesync",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: How VidLab7 Runs Multi-Domain Cold Outreach with The Forge Stack",
+    "url": "https://www.salesforge.ai/case-study/vidlab7",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: How Dualboot Partners 3x'd Their Reply Volume",
+    "url": "https://www.salesforge.ai/case-study/dualboot-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Utility Warehouse uses agentic AI to deliver instant, personalized support, achieving 30-50% containment on WhatsApp",
+    "url": "https://www.genesys.com/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Boosting the UK’s largest digital automotive marketplace with cloud contact center transformation",
+    "url": "https://www.genesys.com/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Utility Warehouse uses agentic AI to deliver instant, personalised support",
+    "url": "https://www.genesys.com/en-gb/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Boosting the UK’s largest digital automotive marketplace with cloud contact centre transformation",
+    "url": "https://www.genesys.com/en-gb/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Chemical Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/genesys/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Computer Hardware Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/genesys/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Computers and Electronics Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/genesys/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Appliances, Electrical, and Electronics Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/genesys/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Food and Beverage Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/genesys/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Machinery Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/genesys/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Equipment Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/genesys/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Pharmaceutical Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/genesys/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Beverage Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/genesys/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Automation Machinery Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/genesys/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Dairy Product Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/genesys/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "HVAC and Refrigeration Equipment Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/genesys/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Motor Vehicle Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/genesys/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/genesys/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "2. Predaplant",
+    "url": "https://note.com/whiteshield7/n/n622755ff8262?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is a powerful card that searches while bringing out a Predaplant from your hand, but you can only bring out Fusion Monsters after activation. I would like to activate it after bringing out a Synchro Monster first.",
+    "url": "https://note.com/whiteshield7/n/n622755ff8262?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since Predaplants are all DARK attribute, this deck does not suffer much from the disadvantage of The Monarchs Erupt.",
+    "url": "https://note.com/whiteshield7/n/n622755ff8262?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Salesforge is part of The Forge Stack with products that cover everything from premium email infrastructure to building laser-focused lead lists. All that with one simple login.",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "You primarily target Fortune 500 companies",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Prove your commitment and success with a minimum of $500 in monthly recurring revenue.",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Make sure you’re part of our network by connecting with us on LinkedIn.",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "SalesCaptain replaced four separate vendors with the Forge Stack and booked 710+ demos, a 21% reply rate, and $394K in new ARR for a client in 90 days.",
+    "url": "https://www.salesforge.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "As a Forge Expert partner, Growth Alliance uses the Forge Stack as a unified outbound ecosystem - both internally and across client engagements - to design revenue engines that scale across domains, inboxes, ICPs, and teams without sacrificing deliverability or control.",
+    "url": "https://www.salesforge.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "S4W is a founder-led AI and growth consultancy that builds the systems behind a full pipeline, from data and cold outbound to AI voice agents that answer, qualify and book. We’ve sold for a living, so everything we build is judged on revenue, not activity.",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "B2B tech companies with 20–200 employees in Europe and North America",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "IAD Growth is a US-based lead generation partner for B2B services and software companies, running phone, email, LinkedIn, and website campaigns for small business owners, founders, solopreneurs, and consultants. The focus is sustainable, high quality outreach that turns into profitable revenue, not just activity metrics.",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Growing scale-ups (10-100+ employees)",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "B2B companies with $5M+ annual revenue",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "1–100 employees",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Chrysales is the all-in-one growth partner for scaling businesses. Led by Sabir Naghiyev, TEDx speaker and sales expert who’s closed over €10M, Chrysales has scaled 1,000+ companies, trained 500+ sales teams to hit 6-7 figure revenues.",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Strong product/service but struggling with pipeline generation or new client acquisition",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Growth & AI operations partner for B2B companies scaling from $5M-$50M ARR and beyond. We architect AI-powered revenue infrastructure, CRM enrichment systems, and data orchestration workflows that accelerate pipeline growth. Partnership model with weekly strategic sessions and metric tracking.",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Greenfield: no revenue motion or acquisition system built yet",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Ceiling: one revenue motion works but has reached its growth limit",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Core services: ABX orchestration, GTM engineering, demand generation, and revenue data/attribution",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "10–200 employees, typically founder-led or with a small SDR/BDR team",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Founders and revenue leaders who want predictable pipeline without hiring, training and managing an in-house BDR team",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Teams already running HubSpot, Salesforce or Clay, or open to adopting Clay as part of the engagement",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Join the Forge Expert Program, get listed here, and let clients come to you.",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Salesforge for Sales Teams: Drive Revenue With The #1 Outreach Tool",
+    "url": "https://www.salesforge.ai/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Salesforge gives reps the tools they need to drive revenue.",
+    "url": "https://www.salesforge.ai/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "You primarily target Fortune 500 companies",
+    "url": "https://www.salesforge.ai/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "You primarily target Fortune 500 companies",
+    "url": "https://www.salesforge.ai/solutions/growth",
+    "pass": 1
+   },
+   {
+    "quote": "\"The best part of the platform is the ability to be confident that you are compliant and that you have a team working obsessively to have the best product and platform on the market for the delivery of emails and compliance of the process. I can go as wide as I like with the simplest of systems and a customer service that is always there to help.\"",
+    "url": "https://www.salesforge.ai/solutions/growth",
+    "pass": 1
+   },
+   {
+    "quote": "B2B Growth Force (BGF) is a B2B growth agency founded in 2011, specializing in demand generation strategies to drive revenue growth for brands across various industries.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Intely Tech is a niche consultancy specializing in revenue generation for B2B and B2G technology companies.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "RevPartners is a full-service RevOps agency based in Atlanta, specializing in helping scaling companies align their revenue operations to increase growth velocity.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Set 2 Close is a premier business consulting firm and HubSpot Platinum Partner, revolutionizing B2B sales through cutting-edge revenue operations and CRM solutions.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "AcquisitionX is a B2B lead generation agency specializing in building multichannel acquisition systems.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Agency Scaling Systems specializes in assisting agency owners to develop scalable sales and client management systems, aiming to achieve consistent monthly revenues exceeding $10,000.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Aspen Growth Group is a consultancy specializing in client acquisition strategies for established B2B firms.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "automate rev.ops. is a revenue operations agency specializing in AI-driven sales automation.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "B2B Catalyst is an outbound sales agency, which helps companies to create revenue from sources like cold email.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "B2B Lanes specializes in enhancing revenue growth for clients across various industries through tailored demand generation services.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Bant.io is a B2B lead generation platform that offers done-for-you solutions to help businesses generate high-quality leads, increase sales, and optimize customer acquisition.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Black Sheep Marketing is a UK-based lead generation agency dedicated to enhancing business growth through high-quality lead acquisition.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Caret is an outbound revenue generation platform designed to help businesses streamline their sales processes by leveraging data-driven strategies.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Christian Banach is a business development and growth consultancy specializing in helping marketing agencies and martech companies secure six- and seven-figure opportunities with Fortune 500 brands.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Clayground is a Swiss AI-first sales engineering agency that builds data-driven outbound systems and automations for B2B revenue teams.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "ColdGrowth is a lead generation agency specializing in assisting B2B SaaS companies with annual recurring revenues exceeding $500,000.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "​CRM Hacker is a Salesforce consulting firm specializing in revenue operations, sales technology optimization, and seamless Salesforce integrations.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "durhamlane is a UK-based sales and marketing agency specializing in revenue generation for ambitious businesses",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "ElevasionX is a performance-based lead generation agency dedicated to enhancing revenue for B2B service-based companies by filling their sales pipelines with qualified meetings.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "BlAInk Digital is a marketing agency that leverages AI-driven strategies to enhance lead generation and client acquisition.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Cold Labs is a B2B cold email outreach agency, which leverages several different tools to create revenue for their customers.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "IntentSignal is a premier outbound sales agency that partners with a select group of executives from companies with over $100 million in annual recurring revenue (ARR).",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Oppdrip is a sales outsourcing agency founded in April 2023, specializing in automating client acquisition processes for B2B service-based and software companies.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Outboundgen is an outreach agency which leverages several AI tools to create revenue for its clients",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "RevEnvy helps small and medium-sized businesses fill their sales pipeline, increase revenue, and scale quickly.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Salesforge didn’t start like most companies. We had paying users and real revenue before we even built our first product. That’s because we didn’t build in a vacuum - we built based on pain we knew firsthand.",
+    "url": "https://www.salesforge.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "It may have been an arranged marriage, but our Founders are a match made in heaven!",
+    "url": "https://www.salesforge.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Try it out for free and decide which plan works best for your business - whether you’re a one-man team, agency or a Fortune 500 company.",
+    "url": "https://www.salesforge.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "UniteSync is on a mission to fix one of the music industry’s biggest blind spots: unclaimed royalties. Their platform helps music creators and rights holders uncover and collect revenue they’re owed - often without even realizing it. By analyzing rights and royalty data, UniteSync finds unpaid earnings and turns overlooked income into real payouts.",
+    "url": "https://www.salesforge.ai/case-study/unitesync",
+    "pass": 1
+   },
+   {
+    "quote": "$2.86 Customer Acquisition Cost",
+    "url": "https://www.salesforge.ai/case-study/unitesync",
+    "pass": 1
+   },
+   {
+    "quote": "$394K New ARR",
+    "url": "https://www.salesforge.ai/case-study/salescaptain",
+    "pass": 1
+   },
+   {
+    "quote": "Strongest Group evaluated their options and chose the Forge stack because it solved the part of agency outbound most tools don't: scaling client count without scaling cost or operational drag.",
+    "url": "https://www.salesforge.ai/case-study/strongest-group",
+    "pass": 1
+   },
+   {
+    "quote": "IAD Growth is a US-based lead generation partner for B2B services and software companies, running phone, email, LinkedIn, and website campaigns for small business owners, founders, solopreneurs, and consultants. The focus is sustainable, high quality outreach that turns into profitable revenue, not just activity metrics.",
+    "url": "https://www.salesforge.ai/experts/iad-growth",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Salesforge | Forge Pipeline With Unlimited LinkedIn, Email & AI SDR Outreach",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Forge Pipeline With Unlimited LinkedIn, Email & AI SDR Outreach",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“5k leads, 20M emails and 300k LinkedIn DMs a month.”",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“We’ve been running small campaigns because I want our email infrastructure to stay strong over a long period of time. But",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "but cold email only works when it lands",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“For us, outreach isn’t just about sending more emails - it’s about",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "sending the right emails from the right setup so they actually get seen",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Once I had it set up and was sending, I saw excellent open rates with high deliverability. But when I saw the high number of opened emails, I was able to hone in on my calling campaigns even further.”",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Premium Email Deliverability",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Across Email & LinkedIn With Primebox™",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Primebox™ keeps you in control by consolidating all your replies across email and LinkedIn in one place, capturing replies from any address (even if the prospect responds from a different email) and layering in AI analysis and smart tools to help you respond faster, better, and always on time - so you never lose a prospect in the noise. Included for free with every Salesforge subscription.",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Salesforge comes with free, unlimited access to Warmforge - our email deliverability tool with a premium warm up pool, free of external SMTPs and full of healthy Google Workspace and Microsoft365 mailboxes.",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "This pool is used to send emails to and from your mailboxes to establish sender reputation. With Warmforge, you can warm up and monitor the health of all your mailboxes at a glance, without worrying about warm up quality.",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The agent behaviour is modelled after top 1% sales reps in your industry trained on a proprietary data lake with superior Gen AI & ML in place, including the most advanced email infrastructure set up, making him the most superior agent on the market for you.",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Salesforge is part of The Forge Stack with products that cover everything from premium email infrastructure to building laser-focused lead lists. All that with one simple login.",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enrich with emails, LinkedIn & phone numbers",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Send emails & LinkedIn messages",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Reply to emails & LinkedIn messages",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“I've used many platforms and no one beats Salesforge on email deliverability and ease of use. Every week the team adds new features and the support is excellent!",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Salesforge's new infrastructure is a game-changer. Big boost for my deliverability and sending capacity. I've tried multiple outreach tools and let me tell you: it's a must-have for everyone that is serious about cold emailing at scale.\"",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Salesforge seamlessly integrates with any email infrastructure you might be using, but more importantly, you can add new domains and mailboxes from Mailforge, Infraforge or Primeforge with a few simple clicks!",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Email Infrastructure",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter your email to get a custom plan & stack recommendation for your business",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Salesforge is the all-in-one cold outreach platform that combines AI, human workflows, and world-class infrastructure. Unlike other tools, Salesforge lets you run multi-channel campaigns (email + LinkedIn) from a single dashboard, with unlimited mailboxes & LinkedIn senders, built-in AI personalization, deliverability protection, and autonomous AI SDRs.",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Agent Frank is our AI Sales Development Representative (AI SDR). He finds prospects, writes tailored outreach, follows up, and books meetings. With multi-channel enabled, Agent Frank engages prospects on both email and LinkedIn, ensuring your outreach feels natural and human - while freeing up your sales team to focus on closing.",
+    "url": "https://www.salesforge.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your agency’s success depends on results - not excuses. Salesforge gives outbound agencies the ability to scale LinkedIn and cold email outreach across multiple clients with personalization, automation, and unmatched deliverability.",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "“Once I had it set up and was sending, I saw excellent open rates with high deliverability. But when I saw the high number of opened emails, I was able to hone in on my calling campaigns even further.”",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Easily create and manage LinkedIn and email campaigns across all your clients. Salesforge gives you account-level visibility and control, with seamless transitions between brands, messaging, and lead data.",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "No more copy-paste templates. Use AI-powered personalization to craft unique, relevant messages at scale - across both LinkedIn and email - that resonate with every lead.",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "You’ve seen email and LinkedIn work manually, but scaling it is now costly or inefficient",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Complete the Salesforge Cold Email Course:",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Demonstrate your know‑how in effective cold email strategies.",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Ditch the standard affiliate link. Instead, simply share your prospects’ names and emails with us - and we’ll handle the rest.",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Enrich with emails, LinkedIn & phone numbers",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Send emails & LinkedIn messages",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Reply to emails & LinkedIn messages",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "“Salesforge's new infrastructure is a game-changer. Big boost for my deliverability and sending capacity. I've tried multiple outreach tools and let me tell you: it's a must-have for everyone that is serious about cold emailing at scale.“",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "“I've used many platforms and no one beats Salesforge on email deliverability and ease of use. Every week the team adds new features and the support is excellent!”",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "RevSculpt runs LinkedIn, email and warmup for every client on Salesforge and Warmforge and adds new accounts with no extra tool cost.",
+    "url": "https://www.salesforge.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "VidLab7 isn’t just sending more emails - they’re sending better emails, from an infrastructure that’s designed to scale without breaking. By combining Salesforge, Mailforge, Primeforge, and Warmforge, they’ve created an outreach machine that books meetings without burning domains.",
+    "url": "https://www.salesforge.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "UniteSync paired a sharp, high-impact message (“you have unclaimed royalties”) with world-class cold email infrastructure and automation. That combination is fueling rapid, cost-efficient growth.",
+    "url": "https://www.salesforge.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Private Email Infrastructure",
+    "url": "https://www.salesforge.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Distributed Email Infrastructure",
+    "url": "https://www.salesforge.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Email Deliverability Center",
+    "url": "https://www.salesforge.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "IAD Growth is a US-based lead generation partner for B2B services and software companies, running phone, email, LinkedIn, and website campaigns for small business owners, founders, solopreneurs, and consultants. The focus is sustainable, high quality outreach that turns into profitable revenue, not just activity metrics.",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Buyers who want email and LinkedIn running as one coordinated motion instead of two siloed channels",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Distributed Email Infrastructure",
+    "url": "https://www.salesforge.ai/case-study/net-new-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Tim Savage and his team at Net New Solutions needed a solution to navigate the complexities of email deliverability, engagement tracking, and campaign optimization. Enter Salesforge and Mailforge.",
+    "url": "https://www.salesforge.ai/case-study/net-new-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "“Once I had it set up and was sending, I saw excellent open rates with high deliverability. But when I saw the high number of opened emails, I was able to hone in on my calling campaigns even further.”",
+    "url": "https://www.salesforge.ai/case-study/net-new-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "the best product and platform on the market for the delivery of emails and compliance of the process",
+    "url": "https://www.salesforge.ai/case-study/net-new-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Net New Solutions built a high-conversion growth engine with Salesforge and Mailforge. If you’re serious about cold email, this is how you scale it.",
+    "url": "https://www.salesforge.ai/case-study/net-new-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Enrich with emails, LinkedIn & phone numbers",
+    "url": "https://www.salesforge.ai/case-study/net-new-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Send emails & LinkedIn messages",
+    "url": "https://www.salesforge.ai/case-study/net-new-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Reply to emails & LinkedIn messages",
+    "url": "https://www.salesforge.ai/case-study/net-new-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Fuel Your Pipeline With Email & LinkedIn Outreach",
+    "url": "https://www.salesforge.ai/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Your team’s performance depends on booked meetings - not activity numbers. Salesforge gives SDRs and AEs the ability to run unlimited LinkedIn and email outreach that converts, powered by AI and bulletproof infrastructure.",
+    "url": "https://www.salesforge.ai/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "“We’ve been running small campaigns because I want our email infrastructure to stay strong over a long period of time. But",
+    "url": "https://www.salesforge.ai/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "but cold email only works when it lands",
+    "url": "https://www.salesforge.ai/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Emails that actually land where they should.",
+    "url": "https://www.salesforge.ai/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "You’ve seen email and LinkedIn work manually, but scaling it is now costly or inefficient",
+    "url": "https://www.salesforge.ai/solutions/sales",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Salesforge for Agencies: Scale Across Multiple Clients With The #1 Outreach Tool",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Salesforge for Agencies",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Your agency’s success depends on results - not excuses. Salesforge gives outbound agencies the ability to scale LinkedIn and cold email outreach across multiple clients with personalization, automation, and unmatched deliverability.",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Why Outbound Agencies Choose Salesforge",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "What Makes Salesforge the #1 Choice for Outbound Agencies",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Salesforge isn’t just another sending tool - it’s a full-stack solution designed for agencies that take outreach seriously.",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "For Agencies & Experts",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Enjoy potential post sponsorships that put your brand in front of an even larger audience.",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by High-Performing Agencies",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies like Salescaptain, Revenews, and LFG are using Salesforge to drive more meetings, reduce manual work, and scale their client campaigns.",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "From boutique agencies to global outbound machines, Salesforge powers cold outreach at scale.",
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Vetted agencies and consultants who deliver Salesforge for their clients. Filter by what you need, find your match, and book a call.",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies and consultancies",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Stalled: existing channels or agencies are underperforming",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "B2B focus across logistics, SaaS, fintech, healthtech, data, agencies, and media",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies, recruitment firms, local-business sellers, and B2B SaaS",
+    "url": "https://www.salesforge.ai/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies Directory | Salesforge",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Check out our top picks for agencies in different categories along with an overview of their services, pricing and a summary of user reviews to help you choose the right vendor for your business's needs!",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Brand Beat Marketing Agency is a digital marketing agency specializing in rebranding, web development, SEO and more.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "100Signals is a market intelligence platform tailored for software development agencies.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Christian Banach is a business development and growth consultancy specializing in helping marketing agencies and martech companies secure six- and seven-figure opportunities with Fortune 500 brands.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Clay Bootcamp is an 8–10 week Clay (GTM engineering) accelerator teaching Clay workflows to build Clay-powered GTM agencies and careers.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "ClickATeam is an agency specializing in lead generation and sales support for marketing agencies and business owners.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Fenixtal is a B2B growth agency specializing in systematic, signal-led outreach strategies tailored for European marketing, media, and creative agencies.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced Client is a UK-based agency specializing in building outbound systems that book qualified sales meetings for B2B companies, agencies, and service providers.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Eggleads specializes in lead generation and sales outsourcing for digital agencies.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Affluent Academy is a digital marketing training program designed to help individuals launch and scale their own marketing agencies.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Outsource Demand Gen is a B2B lead generation and demand generation agency that focuses on content syndication and webinar lead generation for industries such as SaaS, B2B publishing, and agencies.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "PLNITUDE is a digital marketing agency specializing in performance-driven lead generation for B2B companies and marketing agencies.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Skaleo is a lead generation agency specializing in building automated growth engines for B2B SaaS companies and agencies.",
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "With Forge stack, Strongest Group added more clients without adding more people or more tools. The pipeline didn't suffer for it. For most agencies, that's the difference between scaling and stalling.",
+    "url": "https://www.salesforge.ai/case-study/strongest-group",
+    "pass": 1
+   },
+   {
+    "quote": "10 Popular Cold Email Agencies in 2026",
+    "url": "https://www.salesforge.ai/experts/iad-growth",
+    "pass": 1
+   },
+   {
+    "quote": "Discover 10 popular cold email agencies in 2026. Explore their services, strengths, and how they can help optimize your outreach campaigns for better results.",
+    "url": "https://www.salesforge.ai/experts/iad-growth",
+    "pass": 1
+   },
+   {
+    "quote": "We’ve helped early-stage startups, agencies, and growth-stage SaaS unlock:",
+    "url": "https://www.salesforge.ai/experts/strongest-group",
+    "pass": 1
+   },
+   {
+    "quote": "10 Popular Cold Email Agencies in 2026",
+    "url": "https://www.salesforge.ai/experts/strongest-group",
+    "pass": 1
+   },
+   {
+    "quote": "Discover 10 popular cold email agencies in 2026. Explore their services, strengths, and how they can help optimize your outreach campaigns for better results.",
+    "url": "https://www.salesforge.ai/experts/strongest-group",
+    "pass": 1
+   },
+   {
+    "quote": "How we’ve helped local, state, and federal transportation agencies in their journey for infrastructure modernization.",
+    "url": "https://www.genesysimpact.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Consulting for Federal Agencies & Contractors",
+    "url": "https://www.genesysimpact.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "How we’ve supported federal agencies in with consulting, IT modernization, and so much more",
+    "url": "https://www.genesysimpact.com/case-studies",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "パーソルコミュニケーションサービス株式会社",
+    "url": "https://www.genesys.com/ja-jp/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "【国内初】 廃棄物総合管理システム「GENESYS-ECO」の「廃棄物の輸送および処理に関するCO2排出量可視化」機能が第三者機関による妥当性評価を取得 | 株式会社ＪＥＭＳ",
+    "url": "https://www.j-ems.jp/news_20230215/",
+    "pass": 3
+   },
+   {
+    "quote": "」（環境省・経済産業省）に基づいて適切に算定・出力されるものとして設計されているかについて、国際審査・認証機関のソコテック・サーティフィケーション・ジャパン株式会社（以下、「ソコテック」）を第三者機関とする審査を実施し、その妥当性の保証を受けました",
+    "url": "https://www.j-ems.jp/news_20230215/",
+    "pass": 3
+   },
+   {
+    "quote": "会社名：ソコテック・サーティフィケーション・ジャパン株式会社",
+    "url": "https://www.j-ems.jp/news_20230215/",
+    "pass": 3
+   },
+   {
+    "quote": "Genesys Japan Co. Ltd",
+    "url": "https://www.genesys.com/global-offices",
+    "pass": 3
+   },
+   {
+    "quote": "1-13-22 Sonezakishinchi Kita-ku, Osaka 530-0002",
+    "url": "https://www.genesys.com/global-offices",
+    "pass": 3
+   },
+   {
+    "quote": "We Work, Kamiya-cho Trust Tower, 4-1-1 Toranomon, Minato-ku, Tokyo",
+    "url": "https://www.genesys.com/global-offices",
+    "pass": 3
+   },
+   {
+    "quote": "This note is about the Japanese version of GENESYS, for which the point list was updated in October 2026.",
+    "url": "https://note.com/whiteshield7/n/n622755ff8262?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.yugioh-card.com/japan/howto/genesys/?list=202610",
+    "url": "https://note.com/whiteshield7/n/n622755ff8262?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "日本でのGENESYS実装直後となる3月末の公式イベントには一度参加しており、その時はエクソシスターを使用しました",
+    "url": "https://note.com/ikota_iko_note/n/na86b0699c2db",
+    "pass": 3
+   },
+   {
+    "quote": "日本で遊戯王GENESYSが始まった当初に、こんな記事を書きました",
+    "url": "https://note.com/roku666roku1/n/n6a31f5a5bb72",
+    "pass": 3
+   },
+   {
+    "quote": "そして今回施行されるこの日本向けのポイント改定では、",
+    "url": "https://note.com/roku666roku1/n/n6a31f5a5bb72",
+    "pass": 3
+   },
+   {
+    "quote": "海外のほうでは2026年にでたクラウン・クラン等の新しめのテーマも使えるそうですが、完全に日本向けに設定されたということです",
+    "url": "https://note.com/roku666roku1/n/n6a31f5a5bb72",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "導入事例 - Genesys Cloud — Genesys Cloudの導入事例紹介ページ。 コンタクトセンター・コールセンターのAI活用、DX推進などによる業務改善や効率化など、最新の成功事例をご紹介します。",
+    "url": "https://www.genesys.com/ja-jp/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "【国内初】 廃棄物総合管理システム「GENESYS-ECO」の「廃棄物の輸送...GENESY | ゴシック・ラテン語刺繍のアパレルブランド導入実績事例｜Genesys Cloud CX｜PRONIアイミツ SaaSGenesy AIとは｜料金・機能・評判｜MY-BEST.AIGeneXus Japan — 近年、ESG金融の進展に伴い、市場や取引先（サプライヤー）からGHG排出量の把握・削減、再エネ調達などが求められるようになり、さらに、各社の「独自ルール」算定から、「グローバルスタンダードなルール」で算定する時代へ変化してきました。 そこで当社は、信頼性の高いサービスを提供するべく廃棄物総合管理システム「GENESYS-ECO」の「廃棄物の輸送および処理に関するCO2排出量可視化」機能の算定結果に対し、同算定システムの使用者が定めたGHG排出量の算定範囲における排出量がGHGプロトコル",
+    "url": "https://www.j-ems.jp/news_20230215/",
+    "pass": 3
+   },
+   {
+    "quote": "GENESY | ゴシック・ラテン語刺繍のアパレルブランド — GENESY（ジェネシー）は、ゴシックとラテン語を融合した刺繍アパレルブランド。 黒を基調としたTシャツに、言葉の意味を表現する大型刺繍を施しています。 一点ずつ丁寧に制作。 Wear Words. Live Meaning. 言葉を纏い、意味を生きる。",
+    "url": "https://genesy-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "導入実績事例｜Genesys Cloud CX｜PRONIアイミツ SaaS — Genesys Cloud CXの導入実績事例 Genesys Cloud CX の導入企業名をご紹介します。 企業規模・業界・上場企業ごとの導入企業名を調べることができます。 実績は、公式サイトに掲載されている情報をもとにPRONIアイミツ編集部が編集しております。",
+    "url": "https://saas.imitsu.jp/cate-cti/service/399/case",
+    "pass": 3
+   },
+   {
+    "quote": "Genesy AIとは｜料金・機能・評判｜MY-BEST.AI — Oct 18, 2026 · Q. Genesy AIを導入する際の注意点はありますか？ A. 以下の点に注意が必要です。 無料プランは「学習者向け／限定生成回数／基本的なコード作成機能を利用可能」の範囲に限られるため、本格的な運用には有料プランの検討が必要になる場合があります。",
+    "url": "https://my-best.ai/ai-tools/genesy-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Genesys Global Offices: Find a location near you | Genesys — Find Genesys global offices across North America, Latin America, EMEA and Asia Pacific, with the full address for each location. Find an office near you.",
+    "url": "https://www.genesys.com/global-offices",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要 - Genesys Cloud — Genesys CloudはCXとクラウド・コンタクトセンター・ソリューションのグローバルリーダーとして顧客とオペレーター双方の体験を向上させます。",
+    "url": "https://www.genesys.com/ja-jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "AI 搭載の CX | Genesys Cloud — Genesys は、オムニチャネルのカスタマーエクスペリエンスおよびコンタクトセンターソリューションのリーダーであり、100 か国以上、10,000 社を超える企業から信頼されています。",
+    "url": "https://www.genesys.com/ja-jp",
+    "pass": 3
+   },
+   {
+    "quote": "GENESY (@genesy_jp) • Instagram photos and videos — 6 Followers, 2 Following, 10 Posts - GENESY (@genesy_jp) on Instagram: \"Wear Words. Live Meaning. 言葉を纏い、意味を生きる Embroidered in Japan. 2026.10.22-Start-up\"",
+    "url": "https://www.instagram.com/genesy_jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Genesys Japan - Company Profile — With more than 3,000 customers in 80 countries, Genesys orchestrates more than 100 million customer interactions every day across the contact center and back office, helping companies deliver fast and optimal levels of customer service with a highly personalized cross-channel customer experience.",
+    "url": "https://www.contactcenterworld.com/company/genesys-japan.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Success Stories | Genesys — Read real-world stories about how Genesys contact center and customer experience solutions can help you succeed.",
+    "url": "https://www.genesys.com/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Experience Success Stories | Genesys — We are looking for customers who are having success with Genesys solutions and want to share their experience. If you are interested in being featured in a Genesys customer success story, let us know!",
+    "url": "https://www.genesys.com/en-gb/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "577 Genesys Case Studies, Success Stories, & Customer StoriesCase Studies - Genesys ImpactGenesys Case Study - SBI GrowthGenesys global program | Customer Case Study | ON24Genesys B2B Case Studies & Customer Successes — Narrow down 577 case studies by company size & industry to find out how Genesys works for a business like yours. From optimizing processes to improving customer experience, our tea",
+    "url": "https://www.featuredcustomers.com/vendor/genesys/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Genesys Impact — From optimizing processes to improving customer experience, our team has worked with a diverse range of clients across various industries to drive impactful results.",
+    "url": "https://www.genesysimpact.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Genesys Case Study - SBI GrowthGenesys global program | Customer Case Study | ON24Genesys B2B Case Studies & Customer Successes — After aggressive M&A activity, this global cloud contact center provider faced inefficiencies and capability gaps in its sales organization. The team couldn’t secure full-portfolio sales and product specialists lacked development. Read our case study to learn why Genesy",
+    "url": "https://sbigrowth.com/success-stories/genesys",
+    "pass": 3
+   },
+   {
+    "quote": "Genesys (company) - Wikipedia — In February 2017, Genesys acquired Silver Lining, an employee performance management company that developed applications to support and analyze employee performance and learning automation.",
+    "url": "https://en.wikipedia.org/wiki/Genesys_(company)",
+    "pass": 3
+   },
+   {
+    "quote": "Genesy Revenue, Funding & Valuation - prospeo.io — Genesy has revenue of $5,047,745, estimated valuation of $16,200,000, $5,689,300 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/genesy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Genesy: Revenue, Worth, Valuation & Competitors 2026 — Discover Genesy's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/genesy",
+    "pass": 3
+   },
+   {
+    "quote": "Genesys 2026 Company Profile: Valuation, Funding & Investors ...Genesys Revenue 2021: $2B, $900M Raised - LATKAGenesys - 2026 Company Profile, Team, Funding & Competitors ...Genesys: funding rounds, valuation, investors and revenue — Information on valuation, funding, acquisitions, investors, and executives for Genesys. Use the PitchBook Platform to explore the full profile. Apr 19, 2022 · Genesys",
+    "url": "https://pitchbook.com/profiles/company/53372-62",
+    "pass": 3
+   },
+   {
+    "quote": "Genesys Revenue 2021: $2B, $900M Raised - LATKA — Apr 19, 2022 · Genesys 2021 revenue: $2B. Valuation (2016): $2.9B. Total funding: $900M across 1 round. 5.8K employees. Founded 1990. Updated Apr 19, 2022.",
+    "url": "https://getlatka.com/companies/genesys",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Yu-Gi-Oh! GENESYS October 2026 Environment｜ショウ.07 Oct 11, 2026 · IntroductionMy name is Sho.07 (@whiteshield7), a Yu-Gi-Oh! player primarily active in Aichi Prefecture.This note is about the Japanese version of GENESYS, for which the point list was updated in October 2026.Official events are increasing, and the Swiss-draw tournaments held at Satellite Shops o",
+    "url": "https://note.com/whiteshield7/n/n622755ff8262?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "遊戯王GENESYSの8月改定・環境を解説！｜ram Jul 14, 2026 · OCGとは違った遊戯王を体験できるポイント制レギュレーションのGENESYS。 今年3月に導入され、6月に改定があったことで先日noteや動画で解説していたが、なんと8月に改定が発表された。 公式リンク（「GENESYS」ポイント設定 2026年8月1日適用リスト） カードプールは変わらず…！ 周期とか告知 ...",
+    "url": "https://note.com/ramwatt/n/nb5b7aa455d10",
+    "pass": 3
+   },
+   {
+    "quote": "遊戯王GENESYS日記 ミミグル編（202606環境）｜中橋イコ Jul 26, 2026 · 本記事をご覧いただきありがとうございます。 本記事は「遊戯王GENESYSのデッキ構築をこんな感じでやってみたよ」といった所感を記録する目的で作成しています。 GENESYSでのデッキ構築の様子を知りたいという方の参考となれば嬉しいです。 注意 ・この記事は解説記事ではなくあくまで自分用 ...",
+    "url": "https://note.com/ikota_iko_note/n/na86b0699c2db",
+    "pass": 3
+   },
+   {
+    "quote": "遊戯王GENESYS（ジェネシス）は2026/6/1より大幅に変わる！ May 31, 2026 · 2026/07/13： 2026/08/01からのポイント改定が発表されたため、新しい記事を書きました。 日本で遊戯王GENESYSが始まった当初に、こんな記事を書きました。 その後もGENESYSのイベントがあれば積極的に顔を出していたのですが ...",
+    "url": "https://note.com/roku666roku1/n/n6a31f5a5bb72",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Yu-Gi-Oh! GENESYS October 2026 Environment｜ショウ.07",
+    "url": "https://note.com/whiteshield7/n/n622755ff8262?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/whiteshield7/n/n622755ff8262?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Yu-Gi-Oh! GENESYS October 2026 Environment",
+    "url": "https://note.com/whiteshield7/n/n622755ff8262?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My name is Sho.07 (@whiteshield7), a Yu-Gi-Oh! player primarily active in Aichi Prefecture.",
+    "url": "https://note.com/whiteshield7/n/n622755ff8262?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This note is about the Japanese version of GENESYS, for which the point list was updated in October 2026.",
+    "url": "https://note.com/whiteshield7/n/n622755ff8262?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Official events are increasing, and the Swiss-draw tournaments held at Satellite Shops offer prizes for the top 4 despite having no entry fee.",
+    "url": "https://note.com/whiteshield7/n/n622755ff8262?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "(I wish DKC would learn from this...)",
+    "url": "https://note.com/whiteshield7/n/n622755ff8262?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since it has a different kind of fun compared to the standard rules, I wrote this note hoping that more people will become interested in it.",
+    "url": "https://note.com/whiteshield7/n/n622755ff8262?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "遊戯王GENESYSの8月改定・環境を解説！｜ram",
+    "url": "https://note.com/ramwatt/n/nb5b7aa455d10",
+    "pass": 3
+   },
+   {
+    "quote": "遊戯王GENESYSの8月改定・環境を解説！",
+    "url": "https://note.com/ramwatt/n/nb5b7aa455d10",
+    "pass": 3
+   },
+   {
+    "quote": "OCGとは違った遊戯王を体験できるポイント制レギュレーションのGENESYS。",
+    "url": "https://note.com/ramwatt/n/nb5b7aa455d10",
+    "pass": 3
+   },
+   {
+    "quote": "今年3月に導入され、6月に改定があったことで先日noteや動画で解説していたが、なんと8月に改定が発表された。",
+    "url": "https://note.com/ramwatt/n/nb5b7aa455d10",
+    "pass": 3
+   },
+   {
+    "quote": "■公式リンク（「GENESYS」ポイント設定 2026年8月1日適用リスト）",
+    "url": "https://note.com/ramwatt/n/nb5b7aa455d10",
+    "pass": 3
+   },
+   {
+    "quote": "まぁ色々気になる部分はあるものの、まだ始まったばかりのイベント。",
+    "url": "https://note.com/ramwatt/n/nb5b7aa455d10",
+    "pass": 3
+   },
+   {
+    "quote": "今後の改定ペースも依然として不明なので、今回はイレギュラーとして3ヶ月くらいの一定周期になればうれしいね。",
+    "url": "https://note.com/ramwatt/n/nb5b7aa455d10",
+    "pass": 3
+   },
+   {
+    "quote": "そしてそんなことより、8月に大型イベントが発表されたのだ！（これも急！）GENESYSのみの単独イベントで参加費無料の400名規模！",
+    "url": "https://note.com/ramwatt/n/nb5b7aa455d10",
+    "pass": 3
+   },
+   {
+    "quote": "【遊戯王】GENESYS日記 ミミグル編（202606環境）｜中橋イコ",
+    "url": "https://note.com/ikota_iko_note/n/na86b0699c2db",
+    "pass": 3
+   },
+   {
+    "quote": "【遊戯王】GENESYS日記 ミミグル編（202606環境）",
+    "url": "https://note.com/ikota_iko_note/n/na86b0699c2db",
+    "pass": 3
+   },
+   {
+    "quote": "本記事をご覧いただきありがとうございます。",
+    "url": "https://note.com/ikota_iko_note/n/na86b0699c2db",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は「遊戯王GENESYSのデッキ構築をこんな感じでやってみたよ」といった所感を記録する目的で作成しています。",
+    "url": "https://note.com/ikota_iko_note/n/na86b0699c2db",
+    "pass": 3
+   },
+   {
+    "quote": "GENESYSでのデッキ構築の様子を知りたいという方の参考となれば嬉しいです。",
+    "url": "https://note.com/ikota_iko_note/n/na86b0699c2db",
+    "pass": 3
+   },
+   {
+    "quote": "・この記事は解説記事ではなくあくまで自分用の記録として書いています",
+    "url": "https://note.com/ikota_iko_note/n/na86b0699c2db",
+    "pass": 3
+   },
+   {
+    "quote": "・総試合数は少ないため完璧な構築ではありません",
+    "url": "https://note.com/ikota_iko_note/n/na86b0699c2db",
+    "pass": 3
+   },
+   {
+    "quote": "・2026年8月1日からポイントが改正されるのでこのデッキは使えなくなります(リペア案も最後に載せておきます)",
+    "url": "https://note.com/ikota_iko_note/n/na86b0699c2db",
+    "pass": 3
+   },
+   {
+    "quote": "遊戯王GENESYS（ジェネシス）は2026/6/1より大幅に変わる！｜roku",
+    "url": "https://note.com/roku666roku1/n/n6a31f5a5bb72",
+    "pass": 3
+   },
+   {
+    "quote": "遊戯王GENESYS（ジェネシス）は2026/6/1より大幅に変わる！",
+    "url": "https://note.com/roku666roku1/n/n6a31f5a5bb72",
+    "pass": 3
+   },
+   {
+    "quote": "2026/08/01からのポイント改定が発表されたため、新しい記事を書きました。",
+    "url": "https://note.com/roku666roku1/n/n6a31f5a5bb72",
+    "pass": 3
+   },
+   {
+    "quote": "日本で遊戯王GENESYSが始まった当初に、こんな記事を書きました。",
+    "url": "https://note.com/roku666roku1/n/n6a31f5a5bb72",
+    "pass": 3
+   },
+   {
+    "quote": "その後もGENESYSのイベントがあれば積極的に顔を出していたのですが、ついに2026/6/1に初のポイント改定をすることが発表されました。",
+    "url": "https://note.com/roku666roku1/n/n6a31f5a5bb72",
+    "pass": 3
+   },
+   {
+    "quote": "◤遊戯王OCG「GENESYS」フォーマット",
+    "url": "https://note.com/roku666roku1/n/n6a31f5a5bb72",
+    "pass": 3
+   },
+   {
+    "quote": "https://t.co/5RMgnMN7FI",
+    "url": "https://note.com/roku666roku1/n/n6a31f5a5bb72",
+    "pass": 3
+   },
+   {
+    "quote": "pic.twitter.com/22lALFH4mm",
+    "url": "https://note.com/roku666roku1/n/n6a31f5a5bb72",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Gene Sy (@GeneSy) / Posts / X We are pleased to announce our new partnership with ACNH.Guide Server. They are the official discord for the ACNH tracking app we all love and use. The app is the creation of @GeneSy who continues to tweak and improve an already amazing product!",
+    "url": "https://x.com/GeneSy",
+    "pass": 3
+   },
+   {
+    "quote": "Genesys (@Genesys) / X Genesys provides the agentic orchestration platform that enables organizations to deliver the best customer and employee experiences.",
+    "url": "https://x.com/Genesys",
+    "pass": 3
+   },
+   {
+    "quote": "Genesy Hinjun (@genesys_carner) / Posts / X Genesy Hinjun (@genesys_carner) - Posts - Only came outside to watch the nightfall with the rain... | X (formerly Twitter)",
+    "url": "https://x.com/genesys_carner",
+    "pass": 3
+   },
+   {
+    "quote": "Genesy Casa e Jardim (@genesycom) / Posts / X Genesy Casa e Jardim (@genesycom) - Posts - Fornecedor Produtos para Casa & Jardim Artesanato de Qualidade e Personalizados | X (formerly Twitter)",
+    "url": "https://x.com/genesycom",
+    "pass": 3
+   },
+   {
+    "quote": "Gene Sy (@GeneSy) / Posts / X Apr 1, 2008 · We are pleased to announce our new partnership with ACNH.Guide Server. They are the official discord for the ACNH tracking app we all love and use. The app is the creation of @GeneSy who continues to tweak and improve an already amazing product!",
+    "url": "https://x.com/GeneSy",
+    "pass": 3
+   },
+   {
+    "quote": "GENESY (@genesy_jp) / X GENESY — 始動。 Wear Words. Live Meaning. 言葉を纏い、意味を生きる。 意志。 強さ。 信念。 言葉が持つ意味を、刺繍として纏う。 ONE COLOR. TWO STATEMENTS. 2026.10.22 OPEN genesy-jp.com #GENESY Made with AI 15 GENESY @genesy_jp 1h",
+    "url": "https://x.com/genesy_jp",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by GENESY (@genesy_jp) / X - x.com Wear Words. Live Meaning. 言葉を纏い、意味を生きる。 Embroidered in Japan. genesy-jp.com Joined October 2026 1Following 1Followers Mention Follow PostsPosts RepliesRepliesRepostsRepostsMediaMedia",
+    "url": "https://x.com/genesy_jp/with_replies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Genesys - LinkedIn Genesys® empowers more than 8,000 organizations worldwide to create the best customer and employee experiences. With agentic AI at its core, Genesys Cloud™ is the AI-Powered Experience ...",
+    "url": "https://www.linkedin.com/company/genesys",
+    "pass": 3
+   },
+   {
+    "quote": "Genesys | LinkedIn Genesys | 378,934 followers on LinkedIn. Enabling organizations to orchestrate agentic customer experiences that drive loyalty, growth and efficiency. | Genesys® empowers more than 8,000 organizations worldwide to create the best customer and employee experiences. With agentic AI at its core, Genesys Cloud™ is the AI-Powered Experience Orchestration platform that connects people",
+    "url": "https://in.linkedin.com/company/genesys",
+    "pass": 3
+   },
+   {
+    "quote": "Genesy - LinkedIn Genesy | 8 followers on LinkedIn. Your daily vitamins in one shot with 10 times better absorption than pills and powders. | Your daily vitamins in one shot with 10 times better absorption than...",
+    "url": "https://www.linkedin.com/company/mygenesy",
+    "pass": 3
+   },
+   {
+    "quote": "Genesys - LinkedIn Genesys | 377,459 followers on LinkedIn. Enabling organizations to orchestrate agentic customer experiences that drive loyalty, growth and efficiency. | Genesys® empowers more than 8,000 organizations worldwide to create the best customer and employee experiences. With agentic AI at its core, Genesys Cloud™ is the AI-Powered Experience Orchestration platform that connects people",
+    "url": "https://ca.linkedin.com/company/genesys",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Genesy Ferguson - Facebook Genesy Ferguson. 4,883 followers · 63 talking about this. Dominicana 🇩🇴 WV Realtor®️ 401-499-7378 ☎️ genesy.ferguson@theagencyre.com",
+    "url": "https://www.facebook.com/genesy.peguero/",
+    "pass": 3
+   },
+   {
+    "quote": "Genesy - Facebook Sep 30, 2026 · Genesy Casa e Jardim une design rústico, funcionalidade e uma mensagem especial para o seu dia a dia. Feito em madeira de alta qualidade 🎨 Acabamento preto fosco, elegante e decorativo 🔄 Modelo desmontável: fácil de limpar e transportar Escolha a frase que mais combina com você (e troque quando quiser): 💬 Eu amo a família",
+    "url": "https://www.facebook.com/genesycom/",
+    "pass": 3
+   },
+   {
+    "quote": "GENESYS Systems Integrator | Kansas City MO - FacebookGenesys - FacebookCentro Genesy Palermo - FacebookGenesys Business Solutions | Quezon City - FacebookGenesys Philippines | Cubao - Facebook Nov 2, 2026 · GENESYS Systems Integrator, Kansas City. 928 followers · 13 talking about this · 313 were here. Full service design, build, and construction firm helping clients produce quality products bette",
+    "url": "https://www.facebook.com/GenesysCorp/",
+    "pass": 3
+   },
+   {
+    "quote": "Genesys - FacebookCentro Genesy Palermo - FacebookGenesys Business Solutions | Quezon City - FacebookGenesys Philippines | Cubao - Facebook 6 days ago · Genesys. 35,889 followers · 91 talking about this. Enabling organizations to orchestrate agentic CX that drive loyalty, growth and efficiency. Oct 22, 2026 · Perché dietro ogni Figlio del Genesy c’è una squadra di professionisti che non smette mai",
+    "url": "https://www.facebook.com/Genesys/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.salesforge.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/solutions/agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/experts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/case-study/net-new-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/solutions/sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/solutions/growth",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/directory/agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/case-study/akool",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/case-study/channelcrawler",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/case-study/unitesync",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/case-study/vidlab7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/case-study/salescaptain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/case-study/strongest-group",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/case-study/dualboot-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/experts/iad-growth",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/experts/strongest-group",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/6436c3ac9f9fd0594d00b9fc/6735985ad9fa391a1aa84332_Opus%20Growth%20Partners.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/642bd4ac1fcf21f9f33d92ed/6a2c1206c67fd844203a16bb_dualbootpartners.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.genesys.com/ja-jp/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-ems.jp/news_20230215/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genesy-jp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saas.imitsu.jp/cate-cti/service/399/case",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.genesys.com/global-offices",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cosmobio.co.jp/agency/brevitycode.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gnx.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gilead.com/ja-jp/company/gilead-in-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genesy-jp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.genesys.com/ja-jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.genesys.com/ja-jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/genesy_jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.genesys.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.genesys.com/en-gb/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/genesys/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.genesysimpact.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Genesys_(company)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/genesy-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/genesy",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/53372-62",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/whiteshield7/n/n622755ff8262?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ramwatt/n/nb5b7aa455d10",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ikota_iko_note/n/na86b0699c2db",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/roku666roku1/n/n6a31f5a5bb72",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/GeneSy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Genesys",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/genesys_carner",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/genesycom",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/genesys",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/genesys",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mygenesy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/genesys",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/genesy.peguero/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/genesycom/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GenesysCorp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Genesys/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/GeneSy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Genesys",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/genesy_jp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/genesy_jp/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Genesy 日本 導入",
+   "results": [
+    "https://www.genesys.com/ja-jp/customer-stories",
+    "https://www.j-ems.jp/news_20230215/",
+    "https://genesy-jp.com/",
+    "https://saas.imitsu.jp/cate-cti/service/399/case",
+    "https://my-best.ai/ai-tools/genesy-ai/",
+    "https://www.genesys.com/ja-jp",
+    "https://www.genexus.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Genesy 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.genesys.com/global-offices",
+    "https://www.cosmobio.co.jp/agency/brevitycode.asp",
+    "https://www.gnx.co.jp/",
+    "https://www.gilead.com/ja-jp/company/gilead-in-japan",
+    "https://www.ipsen.com/japan/会社/",
+    "https://mabgenesis.com/",
+    "https://www.gnipharma.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Genesy Japan",
+   "results": [
+    "https://genesy-jp.com/",
+    "https://www.genesys.com/ja-jp/company",
+    "https://www.genesys.com/ja-jp",
+    "https://www.instagram.com/genesy_jp/",
+    "https://www.contactcenterworld.com/company/genesys-japan.aspx",
+    "https://www.genesys.gr.jp/english.html",
+    "https://www.genesys.gr.jp/company.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Genesy manufacturing customer case study",
+   "results": [
+    "https://www.genesys.com/customer-stories",
+    "https://www.genesys.com/en-gb/customer-stories",
+    "https://www.featuredcustomers.com/vendor/genesys/case-studies",
+    "https://www.genesysimpact.com/case-studies",
+    "https://sbigrowth.com/success-stories/genesys",
+    "https://www.on24.com/customer-stories/genesys/",
+    "https://www.casestudies.com/company/genesys"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Genesy white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://skyswitch.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Genesy founded funding employees revenue",
+   "results": [
+    "https://en.wikipedia.org/wiki/Genesys_(company)",
+    "https://prospeo.io/c/genesy-revenue",
+    "https://compworth.com/company/genesy",
+    "https://pitchbook.com/profiles/company/53372-62",
+    "https://getlatka.com/companies/genesys",
+    "https://tracxn.com/d/companies/genesys/__Y3CvO-IeSDeTtBIutYvLVwIRsG1trShjlV2dQIZ1QFY",
+    "https://ai.lounge.ai/companies/genesys"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Genesy",
+   "results": [
+    "https://note.com/whiteshield7/n/n622755ff8262?hl=en",
+    "https://note.com/ramwatt/n/nb5b7aa455d10",
+    "https://note.com/ikota_iko_note/n/na86b0699c2db",
+    "https://note.com/roku666roku1/n/n6a31f5a5bb72",
+    "https://note.com/roku666roku1/n/n1f3aaf10ee07",
+    "https://note.com/ttoyp/n/n32134b21807a",
+    "https://note.com/ramwatt/n/nc284b2d1461f"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Genesy",
+   "results": [
+    "https://x.com/GeneSy",
+    "https://x.com/Genesys",
+    "https://x.com/genesys_carner",
+    "https://x.com/genesycom",
+    "https://x.com/GeneSysAdamEN",
+    "https://x.com/GenesynCO",
+    "https://x.com/GenesysYuGiOh"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Genesy",
+   "results": [
+    "https://www.linkedin.com/company/genesys",
+    "https://in.linkedin.com/company/genesys",
+    "https://www.linkedin.com/company/mygenesy",
+    "https://ca.linkedin.com/company/genesys",
+    "https://bo.linkedin.com/company/genesy-ai",
+    "https://uk.linkedin.com/company/genesys",
+    "https://br.linkedin.com/company/genesys"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Genesy",
+   "results": [
+    "https://www.facebook.com/genesy.peguero/",
+    "https://www.facebook.com/genesycom/",
+    "https://www.facebook.com/GenesysCorp/",
+    "https://www.facebook.com/Genesys/",
+    "https://www.facebook.com/CentroGenesyPalermo/",
+    "https://www.facebook.com/genesysbusinesssolutions/",
+    "https://www.facebook.com/GenesysPhilippines/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Genesy note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://www.genesys.com/company/leadership/tony-j-bates",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://jp.linkedin.com/in/koji-hayama-genesys-inc-694541aa",
+    "https://www.genesys.com/ja-jp/company/newsroom/announcements/200120_japan_management"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Genesy X 投稿",
+   "results": [
+    "https://x.com/GeneSy",
+    "https://x.com/Genesys",
+    "https://x.com/genesy_jp",
+    "https://x.com/genesy_jp/with_replies",
+    "https://x.com/gene5x/status/2109496419564552585",
+    "https://x.com/GCA_KF2K08C/status/2111626335131152700",
+    "https://onlinelibrary.wiley.com/page/journal/1526968x/homepage/forauthors.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部44頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部44頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部44頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部44頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部44頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部44頁・検索12回）"
+ }
+}

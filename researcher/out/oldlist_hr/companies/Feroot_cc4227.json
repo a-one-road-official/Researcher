@@ -1,0 +1,1066 @@
+{
+ "name": "Feroot",
+ "aliases": [],
+ "context": "旧営業リスト｜Cybersecurity｜未接触",
+ "researched_at": "2026-11-12T00:21:57.948682+00:00",
+ "official_url": "https://www.feroot.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$14.4M",
+    "url": "https://getlatka.com/companies/feroot-security",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Feroot Security | Automated PCI, HIPAA & Privacy Compliance",
+    "url": "https://www.feroot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy and Consent Compliant",
+    "url": "https://www.feroot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Feroot AI Agent platform covers PCI DSS 4.0.1 (req 6.4.3 / 11.6.1), HIPAA, CIPA, CCPA/CPRA, GDPR, NIST, DORA, Law 25, and 70+ laws and standards.",
+    "url": "https://www.feroot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PCI DSS 4.0.1 protection for checkout flows and cardholder data, with payment-page script monitoring for requirements 6.4.3 and 11.6.1.",
+    "url": "https://www.feroot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scan Your Website For Pre-consent Trackers And Scripts In 30 Seconds",
+    "url": "https://www.feroot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get a report you can share with your security, privacy, and compliance teams to clean it up.",
+    "url": "https://www.feroot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing & Advertising · Mid-Market",
+    "url": "https://www.feroot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Feroot met PCI DSS v4.0.1 requirements quickly and easily, with very little effort on my part, always a plus on a small team. The team built a genuine relationship with me and clearly cares how the product runs.",
+    "url": "https://www.feroot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "As the person in Feroot every day, I love how easy it is to navigate. I also appreciate the consultative support. After one quality walkthrough, implementation was straightforward.",
+    "url": "https://www.feroot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hospital & Health Care · Enterprise",
+    "url": "https://www.feroot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why Consent Management Isn’t Enough for Privacy Compliance",
+    "url": "https://www.feroot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Feroot Security team is passionate about delivering customer experience without compromise. We are pioneers and experts in our field and strive to help all developers and security practitioners help protect their customers from cyberthreats. Explore our resources to learn more about our products, our passion, and our mission.",
+    "url": "https://www.feroot.com/resources/?_filter=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Videos · 1:16",
+    "url": "https://www.feroot.com/resources/?_filter=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Compliant at Audit Doesn’t Mean Protected Every Day",
+    "url": "https://www.feroot.com/resources/?_filter=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Videos · 1:24",
+    "url": "https://www.feroot.com/resources/?_filter=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Learn why changing script behavior overwrites consent preferences and what you can do about it.",
+    "url": "https://www.feroot.com/resources/?_filter=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The Global State of Privacy Compliance Across the Digital Experience Layer",
+    "url": "https://www.feroot.com/resources/?_filter=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Why Consent Management Isn't Enough for Privacy Compliance",
+    "url": "https://www.feroot.com/resources/?_filter=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "ATT Runtime Feroot Product Brief",
+    "url": "https://www.feroot.com/resources/?_filter=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Runtime Security Fuels Customer and Brand Protection",
+    "url": "https://www.feroot.com/resources/?_filter=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Feroot Security Product Suite",
+    "url": "https://www.feroot.com/resources/?_filter=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Guide to Preventing JavaScript Supply Chain Attacks",
+    "url": "https://www.feroot.com/resources/?_filter=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Improve Your Web Applications and Your runtime Security",
+    "url": "https://www.feroot.com/resources/?_filter=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Securing the Runtime to Proactively Manage Cyber Risk",
+    "url": "https://www.feroot.com/resources/?_filter=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Every modern site runs on third-party code: analytics, payments, chat, advertising, and more. This is normal, and most of it is genuinely useful. It is also how business gets done online today.",
+    "url": "https://www.feroot.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Companies that complete this journey can see everything running on their sites, pass audits as a matter of routine, and know their customers' data is protected. That is the outcome the work is for.",
+    "url": "https://www.feroot.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Feroot helps organizations discover and eliminate the unwanted trackers, scripts, and code on their websites, so their customers and their company stay protected.",
+    "url": "https://www.feroot.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Feroot automates compliance for business websites with PCI DSS 4.0.1, HIPAA regulations on the Use of Online Tracking Technologies, CCPA/CPRA, GDPR, CIPA, and more, saving you time, money and making your life easy.",
+    "url": "https://www.feroot.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Leads an OWASP Top 10 project, serves on the Standards Council of Canada GDPR committee, and has more than 20 years in technology. He testified before the U.S. Congress Security Commission.",
+    "url": "https://www.feroot.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "A serial entrepreneur and engineer with a Master of Electrical and Computer Engineering, and a security researcher since the early 2000s.",
+    "url": "https://www.feroot.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Managing Director at Ernst & Young, Co-Founder/COO of Aspect Security, Co-Founder of the OWASP Foundation and OWASP Top 10 Project",
+    "url": "https://www.feroot.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch with the Feroot Security team. Whether you have questions about our products, need support, or want to explore partnership opportunities, we're here to help. Visit us at our downtown Toronto office or reach out via email.",
+    "url": "https://www.feroot.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Program and grow your business with leading",
+    "url": "https://www.feroot.com/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Get access to tailored benefits like deal registration discounts, sales training, marketing resources, and pre-qualified lead referrals.",
+    "url": "https://www.feroot.com/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Receive personalized support to drive business success through product demos, technical assistance, and go-to-market strategies.",
+    "url": "https://www.feroot.com/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "At Feroot Security we’re focused on keeping everyday people safe from cyberthreats. We’re leading the charge to make it easy for businesses of all types and sizes to protect their customers from threat actors. Join our mission to enable businesses to protect their customers and their data.",
+    "url": "https://www.feroot.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Success Engineer Representative (CSE-R)",
+    "url": "https://www.feroot.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Payment Processors SAQ D",
+    "url": "https://www.feroot.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy Policy Compliance",
+    "url": "https://www.feroot.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Australian Privacy Act",
+    "url": "https://www.feroot.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "U.S. Privacy Laws (CCPA/CPRA+)",
+    "url": "https://www.feroot.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "PageScanner Privacy Policy",
+    "url": "https://www.feroot.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "#1 Product of the Day",
+    "url": "https://moge.ai/ja/product/feroot",
+    "pass": 3
+   },
+   {
+    "quote": "Ferootは企業がサイバーリスクを低減し、PCI DSS、GDPR、HIPAAなどの基準へのコンプライアンスを維持し、金融、医療、Eコマースなどの業界全体で顧客データを保護するのを支援します",
+    "url": "https://moge.ai/ja/product/feroot",
+    "pass": 3
+   },
+   {
+    "quote": "サードパーティスクリプトとデータフローを監視することで、PCI DSS 4.0、GDPR、HIPAA、CCPAなどの規制への準拠を確保します",
+    "url": "https://moge.ai/ja/product/feroot",
+    "pass": 3
+   },
+   {
+    "quote": "Cross App Access Protocol",
+    "url": "https://www.okta.com/ja-jp/integrations/feroot/",
+    "pass": 3
+   },
+   {
+    "quote": "Identity Threat Protection",
+    "url": "https://www.okta.com/ja-jp/integrations/feroot/",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日: Apr. 22 2021",
+    "url": "https://www.okta.com/ja-jp/integrations/feroot/",
+    "pass": 3
+   },
+   {
+    "quote": "Add this integration to enable authentication and provisioning capabilities.",
+    "url": "https://www.okta.com/ja-jp/integrations/feroot/",
+    "pass": 3
+   },
+   {
+    "quote": "Privileged Access Management",
+    "url": "https://www.okta.com/ja-jp/integrations/feroot/",
+    "pass": 3
+   },
+   {
+    "quote": "Can’t find an app in our catalog? Use our developer guides to build a custom, private integration for your organization’s internal apps.",
+    "url": "https://www.okta.com/ja-jp/integrations/feroot/",
+    "pass": 3
+   },
+   {
+    "quote": "To connect with a product expert today,",
+    "url": "https://www.okta.com/ja-jp/integrations/feroot/",
+    "pass": 3
+   },
+   {
+    "quote": "Feroot (YC W21) is the leading compliance and security platform for b2b websites that helps you easily achieve and maintain compliance with PCI DSS 4.0.1, CCPA, CIPA, HIPAA and 50+ data privacy regulations.",
+    "url": "https://www.ycombinator.com/companies/feroot-security",
+    "pass": 3
+   },
+   {
+    "quote": "Feroot Security Case Study: Gusto – Securing the Client Side to Proactively Manage Cyber Risk | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/feroot-security/case-study/securing-the-client-side-to-proactively-manage-cyber-risk",
+    "pass": 3
+   },
+   {
+    "quote": "Securing the Client Side to Proactively Manage Cyber Risk",
+    "url": "https://www.casestudies.com/company/feroot-security/case-study/securing-the-client-side-to-proactively-manage-cyber-risk",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Quickbase strengthens client-side security and GDPR compliance with Feroot Security Inspector | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/feroot-security/case-study/driving-customer-trust-by-ensuring-security-of-the-client-side-digital-ecosystem",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Quickbase strengthens client-side security and GDPR compliance with Feroot Security Inspector",
+    "url": "https://www.casestudies.com/company/feroot-security/case-study/driving-customer-trust-by-ensuring-security-of-the-client-side-digital-ecosystem",
+    "pass": 3
+   },
+   {
+    "quote": "Feroot Security platform protects the client-side javascript code of web applications against client-side attacks and compliance violations.",
+    "url": "https://getlatka.com/companies/feroot-security",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/feroot-security",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/feroot-security",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Get in touch with the Feroot Security team. Whether you have questions about our products, need support, or want to explore partnership opportunities, we're here to help. Visit us at our downtown Toronto office or reach out via email.",
+    "url": "https://www.feroot.com/about/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Become a Partner - Feroot Security",
+    "url": "https://www.feroot.com/become-a-partner/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Be Part of the Future",
+    "url": "https://www.feroot.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Feroot Security Revenue 2024: $5M Est., $14.4M Raised",
+    "url": "https://getlatka.com/companies/feroot-security",
+    "pass": 3
+   },
+   {
+    "quote": "Feroot Security revenue",
+    "url": "https://getlatka.com/companies/feroot-security",
+    "pass": 3
+   },
+   {
+    "quote": "Feroot Security has not published its revenue. RocketReach puts it at about $5M a year (November 2024).",
+    "url": "https://getlatka.com/companies/feroot-security",
+    "pass": 3
+   },
+   {
+    "quote": "All 4 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/feroot-security",
+    "pass": 3
+   },
+   {
+    "quote": "Feroot Security CEO, founders & employees",
+    "url": "https://getlatka.com/companies/feroot-security",
+    "pass": 3
+   },
+   {
+    "quote": "Ivan Tsarynny founded Feroot Security in 2017 and runs it as CEO. Feroot Security had 22 employees (October 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/feroot-security",
+    "pass": 3
+   },
+   {
+    "quote": "What is Feroot Security's revenue?",
+    "url": "https://getlatka.com/companies/feroot-security",
+    "pass": 3
+   },
+   {
+    "quote": "RocketReach estimates Feroot Security's revenue at about",
+    "url": "https://getlatka.com/companies/feroot-security",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Feroot Security have?",
+    "url": "https://getlatka.com/companies/feroot-security",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/feroot-security",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/feroot-security",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/feroot-security",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/feroot-security",
+    "pass": 3
+   },
+   {
+    "quote": "Feroot - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/feroot",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Feroot Security | Automated PCI, HIPAA & Privacy Compliance — Security teams at Instacart, Reddit, and Gusto use Feroot to monitor every third-party script, block unauthorized data exfiltration, and satisfy PCI DSS 4.0 requirements 6.4.3 and 11.6.1 without manual audits.",
+    "url": "https://www.feroot.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Feroot:悪意のあるスクリプトやデータ流出からウェブアプリケーション... — Ferootは、Magecart攻撃、フォームジャッキング、クロスサイトスクリプティングなどの悪意のあるJavaScript活動を継続的に監視、検出、ブロックすることで、クライアントサイドのウェブアプリケーションを保護することに特化しています。",
+    "url": "https://moge.ai/ja/product/feroot",
+    "pass": 3
+   },
+   {
+    "quote": "Browser-Based Security Platform, JavaScript Threats | Feroot — Detect web skimming, Magecart, and JavaScript supply chain attacks in real time. Feroot's browser-based security platform enforces PCI DSS 4.0.1. Schedule a demo.",
+    "url": "https://www.feroot.com/product-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "Integrate Feroot with Okta — Okta's Feroot integration enables single sign-on and users provisioning to Feroot account",
+    "url": "https://www.okta.com/ja-jp/integrations/feroot/",
+    "pass": 3
+   },
+   {
+    "quote": "Feroot & Slack Integration | Slack Marketplace — Feroot combines behavioral analysis AI with seamless automation to enable cybersecurity, data governance, and privacy compliance teams to proactively defeat evolving intrusion threats with accuracy, confidence and speed.",
+    "url": "https://slack.com/intl/ja-jp/marketplace/AMTSSN06T-feroot",
+    "pass": 3
+   },
+   {
+    "quote": "Feroot Security - LinkedIn — Feroot is the leading GRC and security platform for websites to automate compliance with PCI DSS4, HIPAA, CCPA, 50+laws | Always-on GRC and AppSec Protection for Websites and Web Applications.",
+    "url": "https://www.linkedin.com/company/feroot",
+    "pass": 3
+   },
+   {
+    "quote": "Feroot Security: AI-powered Compliance Platform for PCI 4 ... — Nov 19, 2025 · Feroot (YC W21) is the leading compliance and security platform for b2b websites that helps you easily achieve and maintain compliance with PCI DSS 4.0.1, CCPA, CIPA, HIPAA and 50+ data privacy regulations. Ivan is the CEO and Co-Founder of Feroot Security.",
+    "url": "https://www.ycombinator.com/companies/feroot-security",
+    "pass": 3
+   },
+   {
+    "quote": "Feroot Security Inspector Customer Success Story Driving ... — About Feroot root Security believes that customers should be able to do business securely with any company online, without risk or compr mise. Feroot secures client-side web applications so businesses can del ver flawless digital",
+    "url": "https://www.feroot.com/wp-content/uploads/2024/07/Feroot-Case-Study-Quickbase.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Feroot Security Inspector & PageGuard Customer Success Story ... — The team found Feroot Security and requested a demo to evaluate the Inspector product o ering and how it might be able to support a client-side security program.",
+    "url": "https://www.feroot.com/wp-content/uploads/2024/07/Feroot-Case-Study-Digital-Communications.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Feroot Security Case Study: Gusto – Securing the Client Side ... — Gusto (Computer Software) partnered with Feroot Security (Computer & Network Security) to solve key challenges. \"Securing the Client Side to Proactively Manage Cyber Risk\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/feroot-security/case-study/securing-the-client-side-to-proactively-manage-cyber-risk",
+    "pass": 3
+   },
+   {
+    "quote": "Feroot Security Case Study: Quickbase – Driving Customer ... — Quickbase (Computer Software) partnered with Feroot Security (Computer & Network Security) to solve key challenges. \"Driving Customer Trust by Ensuring Security of the Client-side Digital Ecosystem\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/feroot-security/case-study/driving-customer-trust-by-ensuring-security-of-the-client-side-digital-ecosystem",
+    "pass": 3
+   },
+   {
+    "quote": "Client-Side Security Fuels Customer and Brand Protection — Feroot showed us all the first- and third-party scripts that were running on our web pages, code that was obfuscated, vulnerabilities in our code, ongoing data fingerprinting, and more.",
+    "url": "https://fs.hubspotusercontent00.net/hubfs/4605309/Feroot+Security+Inspector+and+PageGuard+Case+Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Feroot Security Revenue 2024: $5M Est., $14.4M Raised — Oct 30, 2026 · Feroot Security 2024 estimated revenue: $5M (up from $1M in 2023). Total funding: $14.4M across 4 rounds. 22 employees. Founded 2017. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/feroot-security",
+    "pass": 3
+   },
+   {
+    "quote": "Feroot 2026 Company Profile: Valuation, Funding & Investors ...Feroot – Business Snapshot & Rival Analysis – 2026 – TorontoFeroot - Products, Competitors, Financials, Employees ...Feroot - 2025 Company Profile, Team, Funding & Competitors ...Feroot Stock Price, Funding, Valuation, Revenue & Financial ...Feroot: $25.82M Funding, 51 Employees & Latest News | Mandos — Information on valuation, fundin",
+    "url": "https://pitchbook.com/profiles/company/229057-66",
+    "pass": 3
+   },
+   {
+    "quote": "Feroot – Business Snapshot & Rival Analysis – 2026 – Toronto — Discover Feroot's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/feroot",
+    "pass": 3
+   },
+   {
+    "quote": "Feroot - Products, Competitors, Financials, Employees ... — The company provides an AI platform that manages website security and compliance programs to address various regulatory requirements. Feroot's services aim to mitigate web-based risks and adhere to global regulations. It was founded in 2020 and is based in Toronto, Canada.",
+    "url": "https://www.cbinsights.com/company/feroot",
+    "pass": 3
+   },
+   {
+    "quote": "Feroot - 2025 Company Profile, Team, Funding & Competitors ... — Jul 24, 2025 · Feroot was founded in 2017 and raised its 1st funding round 4 years after it was founded. Where is Feroot located? Feroot is headquartered in Toronto, Canada.",
+    "url": "https://tracxn.com/d/companies/feroot/__yAkafhUX-SbChDO9xAsc-IXlryi1x7oosk7X39P8c84",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Feroot Security Case Study: Gusto – Securing the Client Side to Proactively Manage Cyber Risk | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/feroot-security/case-study/securing-the-client-side-to-proactively-manage-cyber-risk",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Gusto used Feroot Security",
+    "url": "https://www.casestudies.com/company/feroot-security/case-study/securing-the-client-side-to-proactively-manage-cyber-risk",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/feroot-security/case-study/securing-the-client-side-to-proactively-manage-cyber-risk",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/feroot-security/case-study/securing-the-client-side-to-proactively-manage-cyber-risk",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Quickbase strengthens client-side security and GDPR compliance with Feroot Security Inspector | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/feroot-security/case-study/driving-customer-trust-by-ensuring-security-of-the-client-side-digital-ecosystem",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Quickbase strengthens client-side security and GDPR compliance with Feroot Security Inspector",
+    "url": "https://www.casestudies.com/company/feroot-security/case-study/driving-customer-trust-by-ensuring-security-of-the-client-side-digital-ecosystem",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/feroot-security/case-study/driving-customer-trust-by-ensuring-security-of-the-client-side-digital-ecosystem",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/feroot-security/case-study/driving-customer-trust-by-ensuring-security-of-the-client-side-digital-ecosystem",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "DeepSeek OSS版における中国へのデータパイプラインの証拠調査 Feb 7, 2025 · FerootおよびAPの検証では、北米からテストした限り実際のデータ送信は観測されなかったものの、条件次第ではユーザデータが中国移動のサーバーに転送される可能性を排除できないとしています。",
+    "url": "https://note.com/post_japanpost/n/nc7510d75cf73",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "DeepSeek OSS版における中国へのデータパイプラインの証拠調査｜いろいろビルダー",
+    "url": "https://note.com/post_japanpost/n/nc7510d75cf73",
+    "pass": 3
+   },
+   {
+    "quote": "DeepSeek OSS版における中国へのデータパイプラインの証拠調査",
+    "url": "https://note.com/post_japanpost/n/nc7510d75cf73",
+    "pass": 3
+   },
+   {
+    "quote": "※発信というよりはせっかく調べたので備忘録として残しておきます。 結論：オープンソースは問題見つからない。ブラウザ版は中国に送る難読化コードが埋めこまれている。",
+    "url": "https://note.com/post_japanpost/n/nc7510d75cf73",
+    "pass": 3
+   },
+   {
+    "quote": "DeepSeekの公開OSS版（モデルコード）を解析したところ、ユーザーデータを外部送信する直接的なコードは見当たりませんでした。OSS版のリポジトリには主にモデルのアーキテクチャや推論コードが含まれており、通信処理などの記述は確認できません。実際、DeepSeekのモデル自体は公開されており、多くの開発者がコードを精査していますが、「OSS版のコード内に隠れたデータ送信があればすぐ発見されるはずだ」という指摘もあります。コミュニティでも「DeepSeekのWebサイト部分のコードはオープンソースではなく、問題視されているのはそのWebクライアント側だ。モデルそのもの（OSS版）はただの数値で構成されたAIモデルであり、悪質な通信機能があるわけではない」という議論がなされています。このことから、OSS版のコード自体には中国へのデータ送信機能は含まれていない可能性が高いです。",
+    "url": "https://note.com/post_japanpost/n/nc7510d75cf73",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、DeepSeekのWebクライアント（チャット用Webサイト）には疑わしいコードが埋め込まれていることが判明しています。ブラウザの開発者ツールでDeepSeekのWebページを調べると、難読化（オブスクエート）されたJavaScriptコード内に「cmpassport.com」という外部ドメインへの言及が見つかります。cmpassport.comは中国の通信大手・中国移動（チャイナモバイル）が運営するオンライン登録サービスであり、このドメインへの通信コードが存在すること自体が、データが中国側へ送信され得るパイプラインの存在を示唆します。コードは難読化されており一見内容は判読しづらいものの、外部ドメインへのリクエストを含んでいる点は技術的に確認できます。",
+    "url": "https://note.com/post_japanpost/n/nc7510d75cf73",
+    "pass": 3
+   },
+   {
+    "quote": "補足: DeepSeekのモデルはローカル環境でも動作可能であり、その場合ユーザーデータは外部に送信されません。問題のコードはクラウド版/Web版のクライアント側に含まれており、OSS版（モデル単体をローカル実行）の利用においては当該パイプラインは関与しません。",
+    "url": "https://note.com/post_japanpost/n/nc7510d75cf73",
+    "pass": 3
+   },
+   {
+    "quote": "2. セキュリティ研究者や技術者のレポート",
+    "url": "https://note.com/post_japanpost/n/nc7510d75cf73",
+    "pass": 3
+   },
+   {
+    "quote": "カナダのサイバーセキュリティ企業Feroot SecurityはDeepSeekのブラウザ版アプリを解析し、中国移動のオンライン登録サービス「CMPassport.com」へユーザーデータを送信しうる隠しコードを発見しました。Ferootの研究者によれば、このコードは高度に暗号化・難読化されており通常の手段では判別が難しいものでしたが、内部を解析するとユーザーデータをCMPassport.comに送信する命令を含んでいたとのことです。FerootのCEOであるIvan Tsarynny氏は**「DeepSeekのコード内に、中国政府管理下にある企業のサーバーと直接通信する記述がある。これはこれまで見たことがないものだ」とABCニュースの取材で述べています。この「隠しコード」はDeepSeekのアカウント作成やログイン処理**に組み込まれているとされ、ユーザが気付かないうちにデータが外部送信",
+    "url": "https://note.com/post_japanpost/n/nc7510d75cf73",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Feroot Security (@FerootSecurity) / X Feroot has been named one of @ G2dotcom ’s Best Software Products of 2026 in Data Privacy Chosen based on real customer feedback (4.9/5 ), Feroot ensures compliant and secure user experiences across web and mobile applications 24x7.",
+    "url": "https://x.com/FerootSecurity",
+    "pass": 3
+   },
+   {
+    "quote": "feroot (@fero158gg) on X feroot (@fero158gg). 5 likes 184 views.",
+    "url": "https://x.com/fero158gg/status/2067105838704001221",
+    "pass": 3
+   },
+   {
+    "quote": "feroot (@fero158gg) on X feroot (@fero158gg). 7 likes 394 views. ferootfero158gg 18h 💬0 🔄0 🤍7 📊394 📎",
+    "url": "https://x.com/fero158gg/status/2072237455353250034",
+    "pass": 3
+   },
+   {
+    "quote": "feroot (@fero158gg) on X feroot (@fero158gg). 13 likes 643 views.",
+    "url": "https://x.com/fero158gg/status/2068609989430608210",
+    "pass": 3
+   },
+   {
+    "quote": "Feroot Security (@FerootSecurity) / X Join Ivan Tsarynny of Feroot and Ethan Sailers of FLLR Consulting to explore how AI-enabled consent auditing helps organizations close the gap between CMP configuration and real-world consent behavior",
+    "url": "https://x.com/FerootSecurity",
+    "pass": 3
+   },
+   {
+    "quote": "feroot (@fero158gg) on X Jul 6, 2026 · feroot (@fero158gg). 166 views.",
+    "url": "https://x.com/fero158gg/status/2074076109189120133",
+    "pass": 3
+   },
+   {
+    "quote": "feroot (@fero158gg) on X Jun 18, 2026 · feroot (@fero158gg). 11 likes 938 views.",
+    "url": "https://x.com/fero158gg/status/2067729265789899051",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Feroot Security - LinkedIn Feroot is the leading GRC and security platform for websites to automate compliance with PCI DSS4, HIPAA, CCPA, 50+laws | Always-on GRC and AppSec Protection for Websites and Web Applications.",
+    "url": "https://www.linkedin.com/company/feroot",
+    "pass": 3
+   },
+   {
+    "quote": "Ivan Tsarynny - Feroot | LinkedInBeyond PCI and HIPAA: How Feroot Powers National ... - LinkedInMark Gillard - Feroot Customer Success | LinkedIn#ai #cybersecurity #robotics #privacy #digitaltransformation ...Beyond PCI and HIPAA: How Feroot Powers Personal ... - LinkedInSchedule a Demo | Feroot Security | Feroot Security - LinkedIn About Ivan Tsarynny is the founder of Feroot – A data protection ",
+    "url": "https://ca.linkedin.com/in/ivantsarynny",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond PCI and HIPAA: How Feroot Powers National ... - LinkedIn Sep 1, 2025 · By applying Feroot’s client-side security tools, organizations can demonstrate compliance while reducing the risk of breaches, fines, or lost contracts tied to NIST standards.",
+    "url": "https://www.linkedin.com/pulse/beyond-pci-hipaa-how-feroot-powers-national-institute-standards-ouvse",
+    "pass": 3
+   },
+   {
+    "quote": "Mark Gillard - Feroot Customer Success | LinkedIn#ai #cybersecurity #robotics #privacy #digitaltransformation ...Beyond PCI and HIPAA: How Feroot Powers Personal ... - LinkedInSchedule a Demo | Feroot Security | Feroot Security - LinkedIn Feroot Customer Success · Experience: Feroot Security · Location: Kingston · 500+ connections on LinkedIn. View Mark Gillard’s profile on LinkedIn, a professiona",
+    "url": "https://ca.linkedin.com/in/mark-gillard-7673117",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Feroot - Facebook Jul 8, 2022 · Feroot. 114 likes. Client-side Security Made Easy. Enable client-side security with automated JavaScript monitoring & c",
+    "url": "https://www.facebook.com/FerootSec/",
+    "pass": 3
+   },
+   {
+    "quote": "Ferry Feroot (@ferry.feroot) • Facebook, Connect with friends Ferry Feroot is on Facebook. Join Facebook to connect with Ferry Feroot and others you may know. Facebook gives people the power to share and makes the...",
+    "url": "https://www.facebook.com/ferry.feroot/",
+    "pass": 3
+   },
+   {
+    "quote": "Feroot - We're proud to announce that we have secured $11 ... Feb 28, 2022 · Feroot Jun 27, 2022 · We believe that customers should be able to interact securely with any company on the web, without risk or compromise. That is why we offer faster and more effective ways to secure the #client-side of your business and protect #customerdata. Learn How to We believe that customers should be able to in",
+    "url": "https://www.facebook.com/FerootSec/posts/were-proud-to-announce-that-we-have-secured-11-million-in-seed-funding-read-the-/933578227301128/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.feroot.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.feroot.com/resources/?_filter=case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.feroot.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.feroot.com/become-a-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.feroot.com/careers/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://moge.ai/ja/product/feroot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okta.com/ja-jp/integrations/feroot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ferrotec.co.jp/en/index.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dnb.com/business-directory/company-profiles/carrier-japan-corporation.c68792be67b1faf869e19ed327c4cc00",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partnerportal.fortinet.com/directory/search?l=japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/feroot",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/feroot-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/feroot-security/case-study/securing-the-client-side-to-proactively-manage-cyber-risk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/feroot-security/case-study/driving-customer-trust-by-ensuring-security-of-the-client-side-digital-ecosystem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/feroot-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/229057-66",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/feroot",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/feroot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/post_japanpost/n/nc7510d75cf73",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/FerootSecurity",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fero158gg/status/2067105838704001221",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fero158gg/status/2072237455353250034",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fero158gg/status/2068609989430608210",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/feroot",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/ivantsarynny",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/beyond-pci-hipaa-how-feroot-powers-national-institute-standards-ouvse",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/mark-gillard-7673117",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/FerootSec/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ferry.feroot/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/FerootSec/posts/were-proud-to-announce-that-we-have-secured-11-million-in-seed-funding-read-the-/933578227301128/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/FerootSecurity",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fero158gg/status/2074076109189120133",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fero158gg/status/2067729265789899051",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Feroot 日本 導入",
+   "results": [
+    "https://www.feroot.com/",
+    "https://moge.ai/ja/product/feroot",
+    "https://www.feroot.com/product-overview/",
+    "https://www.okta.com/ja-jp/integrations/feroot/",
+    "https://slack.com/intl/ja-jp/marketplace/AMTSSN06T-feroot",
+    "https://travel.watch.impress.co.jp/docs/news/2131337.html",
+    "https://dhbr.diamond.jp/articles/-/15034"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Feroot 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.ferrotec.co.jp/en/index.php",
+    "https://www.dnb.com/business-directory/company-profiles/carrier-japan-corporation.c68792be67b1faf869e19ed327c4cc00",
+    "https://partnerportal.fortinet.com/directory/search?l=japan",
+    "https://kft.kanematsu.co.jp/",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://midea-japan.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Feroot Japan",
+   "results": [
+    "https://www.feroot.com/",
+    "https://www.feroot.com/product-overview/",
+    "https://www.linkedin.com/company/feroot",
+    "https://www.ycombinator.com/companies/feroot-security",
+    "https://www.yokogaomag.com/editorial/feet-maestro",
+    "https://go.feroot.com/schedule-a-demo",
+    "http://www.footjapan.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Feroot manufacturing customer case study",
+   "results": [
+    "https://www.feroot.com/wp-content/uploads/2024/07/Feroot-Case-Study-Quickbase.pdf",
+    "https://www.feroot.com/wp-content/uploads/2024/07/Feroot-Case-Study-Digital-Communications.pdf",
+    "https://www.casestudies.com/company/feroot-security/case-study/securing-the-client-side-to-proactively-manage-cyber-risk",
+    "https://www.casestudies.com/company/feroot-security/case-study/driving-customer-trust-by-ensuring-security-of-the-client-side-digital-ecosystem",
+    "https://fs.hubspotusercontent00.net/hubfs/4605309/Feroot+Security+Inspector+and+PageGuard+Case+Study.pdf",
+    "https://www.featuredcustomers.com/vendor/feroot-security/case-studies",
+    "https://www.theproductrecruiter.com/case-studies/feroot-senior-security-engineer-case-study"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Feroot white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Feroot founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/feroot-security",
+    "https://pitchbook.com/profiles/company/229057-66",
+    "https://compworth.com/company/feroot",
+    "https://www.cbinsights.com/company/feroot",
+    "https://tracxn.com/d/companies/feroot/__yAkafhUX-SbChDO9xAsc-IXlryi1x7oosk7X39P8c84",
+    "https://www.cbinsights.com/company/feroot/financials",
+    "https://mandos.io/data/companies/feroot"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Feroot",
+   "results": [
+    "https://note.com/dashboard",
+    "https://note.com/post_japanpost/n/nc7510d75cf73",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/quruli/n/n35d2b6cdc37a",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/nakura__/n/n0ad68bc081ee",
+    "https://note.com/goku1up/n/n664f4cfd41e1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Feroot",
+   "results": [
+    "https://x.com/FerootSecurity",
+    "https://x.com/fero158gg/status/2067105838704001221",
+    "https://x.com/fero158gg/status/2072237455353250034",
+    "https://x.com/fero158gg/status/2068609989430608210",
+    "https://x.com/fero158gg/status/2074076109189120133",
+    "https://x.com/fero158gg/status/2063694283878653990",
+    "https://x.com/fero158gg/status/2070120952201912574"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Feroot",
+   "results": [
+    "https://www.linkedin.com/company/feroot",
+    "https://ca.linkedin.com/in/ivantsarynny",
+    "https://www.linkedin.com/pulse/beyond-pci-hipaa-how-feroot-powers-national-institute-standards-ouvse",
+    "https://ca.linkedin.com/in/mark-gillard-7673117",
+    "https://www.linkedin.com/pulse/beyond-pci-hipaa-how-feroot-powers-personal-information-protection-uootf",
+    "https://www.linkedin.com/posts/feroot_schedule-a-demo-feroot-security-activity-7407843816554180608-ZRBl",
+    "https://www.linkedin.com/posts/feroot_ai-cybersecurity-robotics-activity-7463301113899941888-bXe2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Feroot",
+   "results": [
+    "https://www.facebook.com/FerootSec/",
+    "https://www.facebook.com/ferry.feroot/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/FerootSec/posts/were-proud-to-announce-that-we-have-secured-11-million-in-seed-funding-read-the-/933578227301128/",
+    "https://www.facebook.com/techinsider/posts/read-the-series-a-pitch-deck-for-feroot-a-canadian-cybersecurity-startup-that-bu/1213146170684857/",
+    "https://www.facebook.com/businessinsider/posts/read-the-series-a-pitch-deck-for-feroot-a-canadian-cybersecurity-startup-that-bu/1211604820837800/",
+    "https://www.facebook.com/groups/698593531630485/posts/1213961203427046/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Feroot note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://note.com/sadaaki"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Feroot X 投稿",
+   "results": [
+    "https://x.com/FerootSecurity",
+    "https://www.feroot.com/",
+    "https://x.com/fero158gg/status/2074076109189120133",
+    "https://x.com/fero158gg/status/2067729265789899051",
+    "https://x.com/fero158gg/status/2080924030446497910",
+    "https://x.com/fero158gg/status/2063694283878653990",
+    "https://x.com/frootloaf"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部33頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

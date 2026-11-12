@@ -1,0 +1,895 @@
+{
+ "name": "フューテックス株式会社",
+ "aliases": [],
+ "context": "ipros_all:特注",
+ "researched_at": "2026-11-11T22:57:15.455008+00:00",
+ "official_url": "https://www.futex.jp",
+ "identified_by": "given",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・電子ビーム用各種電源のソリューション開発 ・各種特注電源、高圧電源、X線用電源の開発販売 ・理科学機器、医療器のEMS事業 ・半導体装置、産業用装置のEMS事業 ・防衛産業向け各種特注電源の開発",
+    "url": "https://www.futex.jp/about",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "・電子ビーム用各種電源のソリューション開発 ・各種特注電源、高圧電源、X線用電源の開発販売 ・理科学機器、医療器のEMS事業 ・半導体装置、産業用装置のEMS事業 ・防衛産業向け各種特注電源の開発",
+    "url": "http://www.futex.jp/about",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "・ 防衛関連の特殊電源システム、特殊インバータ（詳細は非公開） ・ 電子ビームアプリケーション用各種電源のソリューション開発 ・ 各種特注電源、高圧電源、X線用電源の開発販売 ・ 理科学機器、医療器のEMS事業（受託開発設計・製造） ・ 半導体装置、産業用装置のEMS事業",
+    "url": "https://en-gage.net/futex_saiyo/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "東京都東京都昭島市福島町2-28-3",
+    "url": "https://en-gage.net/futex_saiyo/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "東京都新製品・新技術開発助成金に採択されました",
+    "url": "https://www.futex.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "オージェ電子分光装置(CMA)用に開発した製品です",
+    "url": "https://www.futex.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "そして2006年より、自社製品として電子銃、およびイオン銃専用の高性能高圧電源の開発販売を開始いたしました",
+    "url": "https://www.futex.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "オージェ電子分光装置(CMA)用に開発した製品です",
+    "url": "http://www.futex.jp/product/fag502%E3%80%80%E3%82%AA%E3%83%BC%E3%82%B8%E3%82%A7%E9%9B%BB%E5%AD%90%E5%88%86%E5%85%89%E8%A3%85%E7%BD%AEcma%E7%94%A8-5kv%E9%9B%BB%E5%AD%90%E9%8A%83%E9%9B%BB%E6%BA%90-2",
+    "pass": 1
+   },
+   {
+    "quote": "東京都新製品・新技術開発助成金に採択されました",
+    "url": "https://www.futex.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "H:130mm W:130mm L:286.8mm@30kV製品 (*予告なく変更する場合があります)",
+    "url": "https://www.futex.jp/product/%E9%AB%98%E8%80%90%E5%9C%A7%E3%83%95%E3%83%AD%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%BE%AE%E5%B0%91%E9%9B%BB%E6%B5%81%E8%A8%88-hvpa303-hv-floating-pico-ammeter",
+    "pass": 1
+   },
+   {
+    "quote": "そして2006年より、自社製品として電子銃、およびイオン銃専用の高性能高圧電源の開発販売を開始いたしました",
+    "url": "http://www.futex.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "オージェ電子分光装置(CMA)用に開発した製品です",
+    "url": "http://www.futex.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(22)",
+    "url": "https://mono.ipros.com/company/detail/348031/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛産業製品、半導体装置、理科学機器用に電源システムをソリューションで提供いたします",
+    "url": "https://mono.ipros.com/company/detail/348031/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (22)",
+    "url": "https://mono.ipros.com/company/detail/348031/",
+    "pass": 3
+   },
+   {
+    "quote": "※顧客装置の要素技術に関わる製品が多く、ほとんどの顧客との間で機密保持契約を締結しております",
+    "url": "https://mono.ipros.com/company/detail/348031/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員・アナログ回路設計 防衛製品で国家に貢献します",
+    "url": "https://en-gage.net/futex_saiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の製品のターゲット市場は主に、\"防衛関連市場\"，“半導体装置市場”，\"理科学機器市場\"です",
+    "url": "https://en-gage.net/futex_saiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "いずれも先端分野のハイテク製品の位置づけとなります",
+    "url": "https://en-gage.net/futex_saiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体装置市場向けの製品としては、半導体ウェハやマスクの欠陥を検査する装置や電子ビーム描画装置などで多くの実績を有しております",
+    "url": "https://en-gage.net/futex_saiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "社員全員が先端分野の製品開発に携わることに誇りをもっております",
+    "url": "https://en-gage.net/futex_saiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・研究開発（建築・土木・プラント・設備）",
+    "url": "https://ja.nc-net.or.jp/company/80863/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "200kVまでの高電圧ブッシング・システムを特注製作いたします",
+    "url": "https://www.futex.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "・各種特注電源、高圧電源、X線用電源の開発販売",
+    "url": "https://www.futex.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "経済産業省 ものづくり中小企業試作開発支援補助金事業",
+    "url": "https://www.futex.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "経済産業省 ものづくり中小企業試作開発等支援補助金事業",
+    "url": "https://www.futex.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "・各種特注電源、高圧電源、X線用電源の開発販売",
+    "url": "http://www.futex.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "経済産業省 ものづくり中小企業試作開発支援補助金事業",
+    "url": "http://www.futex.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "経済産業省 ものづくり中小企業試作開発等支援補助金事業",
+    "url": "http://www.futex.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "200kVまでの高電圧ブッシング・システムを特注製作いたします",
+    "url": "http://www.futex.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "電子銃用高圧電源、各種特注電源は、フューテックスにお任せ下さい！",
+    "url": "https://mono.ipros.com/company/detail/348031/",
+    "pass": 3
+   },
+   {
+    "quote": "その他、高圧電源を利用した装置のＯＥＭ製作や、高性能高圧バイポーラAMP、高速パルス電源などの特注品も承ります",
+    "url": "https://mono.ipros.com/company/detail/348031/",
+    "pass": 3
+   },
+   {
+    "quote": "・当社は電子・イオンビーム用電源、及び特注電源の専門メーカーです",
+    "url": "https://mono.ipros.com/company/detail/348031/",
+    "pass": 3
+   },
+   {
+    "quote": "電子銃電源、イオン銃電源、FIB用電源、マイクロフォーカスＸ線用電源、その他特注電源各種に対応可能です",
+    "url": "https://mono.ipros.com/company/detail/348031/",
+    "pass": 3
+   },
+   {
+    "quote": "・ 各種特注電源、高圧電源、X線用電源の開発販売",
+    "url": "https://en-gage.net/futex_saiyo/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "±HV-AMP-6ch+source PS",
+    "url": "https://www.futex.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "±HV-AMPの基本モジュール6チャンネルとDCソース電源を専用ラックに装填した例です",
+    "url": "https://www.futex.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "±HV-AMP-8ch+source PS",
+    "url": "https://www.futex.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "±HV-AMPの基本モジュール8チャンネルを専用ラックに装填し、DCソース電源を別置きにした例です",
+    "url": "https://www.futex.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "高耐圧フローティング微少電流計 HVPA303 HV Floating Pico-ammeter",
+    "url": "https://www.futex.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "東京都異業種交流グループ（TAMA24）",
+    "url": "https://www.futex.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "高耐圧フローティング微少電流計 HVPA303 HV Floating Pico-ammeter - フューテックス株式会社",
+    "url": "https://www.futex.jp/product/%E9%AB%98%E8%80%90%E5%9C%A7%E3%83%95%E3%83%AD%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%BE%AE%E5%B0%91%E9%9B%BB%E6%B5%81%E8%A8%88-hvpa303-hv-floating-pico-ammeter",
+    "pass": 1
+   },
+   {
+    "quote": "高耐圧フローティング微少電流計 HVPA303 HV Floating Pico-ammeter",
+    "url": "https://www.futex.jp/product/%E9%AB%98%E8%80%90%E5%9C%A7%E3%83%95%E3%83%AD%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%BE%AE%E5%B0%91%E9%9B%BB%E6%B5%81%E8%A8%88-hvpa303-hv-floating-pico-ammeter",
+    "pass": 1
+   },
+   {
+    "quote": "東京都異業種交流グループ（TAMA24）",
+    "url": "http://www.futex.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "±HV-AMP-6ch+source PS",
+    "url": "http://www.futex.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "±HV-AMPの基本モジュール6チャンネルとDCソース電源を専用ラックに装填した例です",
+    "url": "http://www.futex.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "±HV-AMP-8ch+source PS",
+    "url": "http://www.futex.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "±HV-AMPの基本モジュール8チャンネルを専用ラックに装填し、DCソース電源を別置きにした例です",
+    "url": "http://www.futex.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "高耐圧フローティング微少電流計 HVPA303 HV Floating Pico-ammeter",
+    "url": "http://www.futex.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "Filament supply (Referenced to Accelerator)",
+    "url": "https://www.futex.jp/wpx/wp-content/uploads/2023/05/FE303XS130614-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Filament supply (Referenced to Accelerator)",
+    "url": "https://www.futex.jp/wpx/wp-content/uploads/2023/05/FE303XP_130417-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Filament supply (Referenced to Accelerator)",
+    "url": "https://www.futex.jp/wpx/wp-content/uploads/2023/05/FE103XP_130417-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "＊ This picture is an example adopted as CD-SEM.",
+    "url": "https://www.futex.jp/wpx/wp-content/uploads/2023/05/FE103XP_130417-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・Electron beam lithography",
+    "url": "https://www.futex.jp/wpx/wp-content/uploads/2023/05/FE503XP_130417-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "supply for “electron beam lithography",
+    "url": "https://www.futex.jp/wpx/wp-content/uploads/2023/05/FE503XP_130417-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Filament supply (Referenced to Accelerator)",
+    "url": "https://www.futex.jp/wpx/wp-content/uploads/2023/05/FE503XP_130417-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "type electron beam lithography.",
+    "url": "https://www.futex.jp/wpx/wp-content/uploads/2023/05/FE503XP_130417-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Filament supply (Referenced to Accelerator)",
+    "url": "https://www.futex.jp/wpx/wp-content/uploads/2023/05/TL303S_130417-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "This photograph is a production example.",
+    "url": "https://www.futex.jp/wpx/wp-content/uploads/2023/05/TL303S_130417-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Filament supply (Referenced to Accelerator)",
+    "url": "https://www.futex.jp/wpx/wp-content/uploads/2023/05/XR303XP_130417-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その他、高圧電源を利用した装置のＯＥＭ製作や、高性能高圧バイポーラAMP、高速パルス電源などの特注品も承ります",
+    "url": "https://mono.ipros.com/company/detail/348031/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "・理科学機器、医療器のEMS事業",
+    "url": "https://www.futex.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "・半導体装置、産業用装置のEMS事業",
+    "url": "https://www.futex.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "・理科学機器、医療器のEMS事業",
+    "url": "http://www.futex.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "・半導体装置、産業用装置のEMS事業",
+    "url": "http://www.futex.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "防衛産業製品、半導体装置、理科学機器用に電源システムをソリューションで提供いたします",
+    "url": "https://mono.ipros.com/company/detail/348031/",
+    "pass": 3
+   },
+   {
+    "quote": "・理科学機器、半導体装置のEMS事業（受託開発設計および製造）",
+    "url": "https://mono.ipros.com/company/detail/348031/",
+    "pass": 3
+   },
+   {
+    "quote": "フューテックスは、防衛関連・半導体装置・理科学機器用に",
+    "url": "https://en-gage.net/futex_saiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員・アナログ回路設計 防衛製品で国家に貢献します",
+    "url": "https://en-gage.net/futex_saiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の製品のターゲット市場は主に、\"防衛関連市場\"，“半導体装置市場”，\"理科学機器市場\"です",
+    "url": "https://en-gage.net/futex_saiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "特に2021に参入した防衛関連市場おいては既に海上自衛隊や航空自衛隊向けに複数件の成功実績をつくり、お客様から高い評価を頂いております",
+    "url": "https://en-gage.net/futex_saiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体装置市場向けの製品としては、半導体ウェハやマスクの欠陥を検査する装置や電子ビーム描画装置などで多くの実績を有しております",
+    "url": "https://en-gage.net/futex_saiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "・ 防衛関連の特殊電源システム、特殊インバータ（詳細は非公開）",
+    "url": "https://en-gage.net/futex_saiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "・ 理科学機器、医療器のEMS事業（受託開発設計・製造）",
+    "url": "https://en-gage.net/futex_saiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "・ 半導体装置、産業用装置のEMS事業",
+    "url": "https://en-gage.net/futex_saiyo/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "復旧までの間、お問い合わせ等は",
+    "url": "https://www.futex.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "※ホームページからのお問い合わせにつきましても、2025年1月6日（月）以降回答をさせて頂きます",
+    "url": "https://www.futex.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "※ホームページからのお問い合わせにつきましても、2024年1月5日（金）以降回答をさせて頂きます",
+    "url": "https://www.futex.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ - フューテックス 株式会社 東京都 昭島市",
+    "url": "https://ja.nc-net.or.jp/company/80863/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社からの連絡に必要な電子メールアドレスを用意してそのアドレスを当社に対して登録すること",
+    "url": "https://ja.nc-net.or.jp/company/80863/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします",
+    "url": "https://ja.nc-net.or.jp/company/80863/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします",
+    "url": "https://ja.nc-net.or.jp/company/80863/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | フューテックス 株式会社 — 会社概要 | フューテックス 株式会社 フューテックス株式会社 https://www.futex.jp > about",
+    "url": "https://www.futex.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "フューテックス | 企業 情報 | イプロスものづくり — フューテックス | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 産業用電気機器",
+    "url": "https://mono.ipros.com/company/detail/348031/",
+    "pass": 3
+   },
+   {
+    "quote": "フューテックス 株式 会社 の採用・求人 情報 -engage - エンゲージ — フューテックス 株式 会社 の採用・求人 情報 -engage - エンゲージ エンゲージ https://en-gage.net > futex_saiyo",
+    "url": "https://en-gage.net/futex_saiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "ファームウェア設計×昭島市×正社員 - フューテックス 株式 会社 ... — ファームウェア設計×昭島市×正社員 - フューテックス 株式 会社 ... futex-recruit.com https://futex-recruit.com > recruit",
+    "url": "https://futex-recruit.com/recruit/282.html",
+    "pass": 3
+   },
+   {
+    "quote": "フューテックス 株式会社 - 会社概要 — フューテックス 株式会社 - 会社概要 atengineer.com https://www.atengineer.com > futex > company",
+    "url": "https://www.atengineer.com/pr/futex/company",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - フューテックス株式会社 — お問い合わせ - フューテックス株式会社 フューテックス株式会社 https://www.futex.jp > contact",
+    "url": "https://www.futex.jp/contact",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - フューテックス 株式会社 東京都 昭島市 — お問い合わせ - フューテックス 株式会社 東京都 昭島市 エミダス https://ja.nc-net.or.jp > company > inquiry",
+    "url": "https://ja.nc-net.or.jp/company/80863/inquiry/",
+    "pass": 3
+   },
+   {
+    "quote": "フューテックス | 企業情報 | イプロスものづくり — フューテックス | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 産業用電気機器",
+    "url": "https://mono.ipros.com/company/detail/348031/",
+    "pass": 3
+   },
+   {
+    "quote": "フューテックス 株式会社 - 東京カイシャハッケン伝 — フューテックス 株式会社 - 東京カイシャハッケン伝 東京カイシャハッケン伝 https://www.kaisyahakken.metro.tokyo.lg.jp > old > futex",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/company/futex/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "フューテックス 株式会社 | Akishima-shi Tokyo - Facebook フューテックス 株式会社 | Akishima-shi Tokyo - Facebook Facebook https://www.facebook.com > futex",
+    "url": "https://www.facebook.com/futex.jp/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.futex.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futex.jp/product",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futex.jp/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futex.jp/product/uhv204n-4ns-%E3%83%8A%E3%83%8E%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9-x-%E7%B7%9A%E7%AE%A1%E7%94%A8-200kv-%E8%B6%85%E9%AB%98%E5%9C%A7%E9%9B%BB%E6%BA%90i",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futex.jp/product",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.futex.jp/product/%E8%B6%85%E4%BD%8E%E3%83%AA%E3%83%83%E3%83%97%E3%83%AB%E3%83%8E%E3%82%A4%E3%82%BA%E3%80%81%E9%AB%98%E5%AE%89%E5%AE%9A%E5%BA%A6%E3%80%80%E5%AE%9A%E9%9B%BB%E5%9C%A7%E9%9B%BB%E6%BA%90%E3%80%80alr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.futex.jp/product/fag502%E3%80%80%E3%82%AA%E3%83%BC%E3%82%B8%E3%82%A7%E9%9B%BB%E5%AD%90%E5%88%86%E5%85%89%E8%A3%85%E7%BD%AEcma%E7%94%A8-5kv%E9%9B%BB%E5%AD%90%E9%8A%83%E9%9B%BB%E6%BA%90",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.futex.jp/product/fag502%E3%80%80%E3%82%AA%E3%83%BC%E3%82%B8%E3%82%A7%E9%9B%BB%E5%AD%90%E5%88%86%E5%85%89%E8%A3%85%E7%BD%AEcma%E7%94%A8-5kv%E9%9B%BB%E5%AD%90%E9%8A%83%E9%9B%BB%E6%BA%90-2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.futex.jp/product/fe303xp%E3%80%80tfe%E9%9B%BB%E5%AD%90%E9%8A%83%E7%94%A8%EF%BC%8D30kv%E9%AB%98%E5%9C%A7%E9%9B%BB%E6%BA%90%E3%83%BB%E9%AB%98%E7%B2%BE%E5%BA%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futex.jp/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futex.jp/product/%E3%83%90%E3%82%A4%E3%83%9D%E3%83%BC%E3%83%A930kv%E9%AB%98%E5%9C%A7%E9%9B%BB%E6%BA%90-bphv303",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futex.jp/product/%E9%AB%98%E8%80%90%E5%9C%A7%E3%83%95%E3%83%AD%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%BE%AE%E5%B0%91%E9%9B%BB%E6%B5%81%E8%A8%88-hvpa303-hv-floating-pico-ammeter",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.futex.jp/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.futex.jp/product",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.futex.jp/product",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.futex.jp/wpx/wp-content/uploads/2023/05/FE303XS130614-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.futex.jp/wpx/wp-content/uploads/2023/05/FE303XP_130417-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.futex.jp/wpx/wp-content/uploads/2023/05/FE103XP_130417-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.futex.jp/wpx/wp-content/uploads/2023/05/FE503XP_130417-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.futex.jp/wpx/wp-content/uploads/2023/05/TL303S_130417-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.futex.jp/wpx/wp-content/uploads/2023/06/UHV204_200kV%E9%9B%BB%E5%AD%90%E9%8A%83%E9%9B%BB%E6%BA%902.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.futex.jp/wpx/wp-content/uploads/2023/05/UHV204_200kV%E9%9B%BB%E5%AD%90%E9%8A%83%E9%9B%BB%E6%BA%902-1-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.futex.jp/wpx/wp-content/uploads/2023/05/XR303XP_130417-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.futex.jp/assets/img/product/coming.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.futex.jp/product/images/600-1.png",
+    "status": "http_404",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.futex.jp/assets/img/product/coming.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.futex.jp/assets/img/product/bnr_product01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.futex.jp/assets/img/product/bnr_product02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.futex.jp/assets/img/product/bnr_product03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.futex.jp/assets/img/product/bnr_product04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.futex.jp/assets/img/product/bnr_product05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.futex.jp/assets/img/product/bnr_product06.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.futex.jp/assets/img/product/bnr_product07.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.futex.jp/assets/img/product/bnr_product08.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mfg-hack.com/plastic/10134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/348031/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en-gage.net/futex_saiyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/80863/inquiry/input/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/348031/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/futex.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "フューテックス 取扱製品 試作 小ロット",
+   "results": [
+    "https://injection-lab.com/technology/64-2.html",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://kakounosusume.com/product/epomold/",
+    "https://www.zen.co.jp/",
+    "https://a-giken.co.jp/casting",
+    "https://www.daytech.co.jp/reason/prototype-mold",
+    "https://www.xeffect.com/small/",
+    "https://www.furutaka-netsel.co.jp/utility/elec_26_small-lot"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "フューテックス 会社概要 事業内容",
+   "results": [
+    "https://www.futex.jp/about",
+    "https://mono.ipros.com/company/detail/348031/",
+    "https://en-gage.net/futex_saiyo/",
+    "https://futex-recruit.com/recruit/282.html",
+    "https://www.atengineer.com/pr/futex/company",
+    "https://compalyze.co.jp/company/4012801004356",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/old/company/futex/",
+    "https://dentou-chousen.jp/company/935/",
+    "https://auba.eiicon.net/projects/8305",
+    "https://www.futex.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "フューテックス お問い合わせ メール",
+   "results": [
+    "https://www.futex.jp/contact",
+    "https://ja.nc-net.or.jp/company/80863/inquiry/",
+    "https://mono.ipros.com/company/detail/348031/",
+    "https://www.j-futec.co.jp/contact/",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/old/company/futex/",
+    "http://futex-recruit.com/privacy",
+    "https://www.atengineer.com/pr/futex/company",
+    "http://www.fu-tech.jp/ask.html",
+    "https://www.futec.co.jp/contact/contactform",
+    "https://www.atengineer.com/pr/futex/inquiry"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com フューテックス",
+   "results": [
+    "https://note.com/preventure/n/n2764346f2c83",
+    "https://note.com/proper_toad4357/n/n1a3467f226ef",
+    "https://note.com/grgrgrpmpy/n/nb540b21016c3",
+    "https://note.com/tigerzett0529/n/n6d90667b8d86",
+    "https://note.com/tag/CFS",
+    "https://note.com/tag/LCOE",
+    "https://note.com/usen_apres_midi/n/n2f0d93bfb264",
+    "https://note.com/tag/SPARC",
+    "https://note.com/subeaki/n/n101ad9476341",
+    "https://note.com/harufure3/n/n6b8d327574d7"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com フューテックス",
+   "results": [
+    "https://x.com/daidolife_pr/status/2050002259249914320",
+    "https://x.com/NB_onlinestore/all",
+    "https://x.com/nb_SAPPORO",
+    "https://x.com/NB_onlinestore",
+    "https://x.com/buntcsatte_jp/status/2110536133134188908",
+    "https://x.com/kakenai01",
+    "https://x.com/jugpromarketer",
+    "https://x.com/utbuffett/status/2065281434756186401",
+    "https://x.com/focustaiwanjapa/status/2061038678546243984",
+    "https://x.com/AlexZarkage/status/2113754409410674975"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:linkedin.com フューテックス",
+   "results": [
+    "https://jp.linkedin.com/in/pyae-phyo-aung-517b5224a",
+    "https://jp.linkedin.com/pulse/next-evolution-data-platforms-ai-native-engineering-shriram-sankaran-vevoc?tl=ja",
+    "https://jp.linkedin.com/in/arisa-ban-rxjapan/ja",
+    "https://jp.linkedin.com/in/hinako-koga-6085b82b9"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 4
+  },
+  {
+   "query": "site:facebook.com フューテックス",
+   "results": [
+    "https://www.facebook.com/futex.jp/",
+    "https://www.facebook.com/100050549006504/posts/%E6%96%B0%E5%85%A5%E4%BC%9A%E5%93%A1%E5%85%A5%E4%BC%9A%E5%BC%8F9%E6%9C%88%E4%BE%8B%E4%BC%9A9%E6%9C%8818%E6%97%A5%E4%BB%8A%E5%B9%B4%E5%BA%A62%E4%BA%BA%E7%9B%AE3%E4%BA%BA%E7%9B%AE%E3%81%AE%E6%96%B0%E5%85%A5%E4%BC%9A%E5%93%A1%E3%81%8C%E4%BB%B2%E9%96%93%E3%81%AB%E5%8A%A0%E3%82%8F%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E4%BE%8B%E4%BC%9A%E3%81%A7%E3%81%AF%E8%87%BC%E4%BA%95%E4%BC%B8%E4%BB%8B%E6%98%AD%E5%B3%B6%E5%B8%82%E9%95%B7%E3%82%92%E3%81%8A%E6%8B%9B%E3%81%8D%E3%81%97%E3%81%94%E8%AC%9B%E8%A9%B1%E3%82%92%E8%B3%9C%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E5%B8%82%E9%95%B7%E9%81%B8%E3%81%8C%E8%BF%91%E3%81%84%E3%81%93%E3%81%A8%E3%82%82%E3%81%82%E3%82%8A%E7%86%B1%E3%81%AE%E3%81%93/1058990905795866/",
+    "https://www.facebook.com/takumigiken1171/posts/%E6%B4%97%E9%9D%A2%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%81%AF%E5%8F%8E%E7%B4%8D%E5%8A%9B%E3%81%A8%E4%BD%BF%E3%81%84%E3%82%84%E3%81%99%E3%81%95%E3%82%92%E5%82%99%E3%81%88%E3%81%AA%E3%81%8C%E3%82%89%E5%AE%B6%E5%85%B7%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%81%98%E3%82%80%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AB%E7%B4%B0%E3%81%8B%E3%81%AA%E3%82%82%E3%81%AE%E3%82%82%E3%81%99%E3%81%A3%E3%81%8D%E3%82%8A%E5%8F%8E%E3%81%BE%E3%82%8A%E6%AF%8E%E6%97%A5%E3%81%AE%E8%BA%AB%E6%94%AF%E5%BA%A6%E3%82%92%E5%BF%83%E5%9C%B0%E3%82%88%E3%81%8F%E6%94%AF%E3%81%88%E3%81%BE%E3%81%99%E6%B4%97%E9%9D%A2%E3%81%BE%E3%82%8F%E3%82%8A%E3%81%AE%E5%8F%8E%E7%B4%8D%E3%82%84%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%82%E6%9A%AE%E3%82%89/1708866761242354/",
+    "https://www.facebook.com/takumigiken1171/posts/%E3%81%93%E3%81%AE%E5%BA%A6lixil%E3%83%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E7%AC%AC%EF%BC%93%E5%BC%BE%E3%81%A8%E3%81%97%E3%81%A6%E8%80%90%E9%9C%87%E7%9B%B8%E8%AB%87%E4%BC%9A%E5%86%85%E7%AA%93%E3%83%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E7%89%B9%E5%88%A5%E4%BC%81%E7%94%BB%E3%82%92%E9%96%8B%E5%82%AC%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E8%87%AA%E5%AE%85%E3%81%AE%E8%80%90%E9%9C%87%E6%80%A7%E3%81%8C%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B%E3%83%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E8%80%90%E9%9C%87%E3%81%AB%E3%81%A4%E3%81%84/1731720825623614/",
+    "https://www.facebook.com/takasetoryo/posts/%E3%82%AD%E3%82%B7%E3%83%A9%E3%83%87%E3%82%B3%E3%83%BC%E3%83%AB%E3%81%AE%E7%94%9F%E3%83%8D%E3%82%BF%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E6%8F%83%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99%E3%82%AD%E3%82%B7%E3%83%A9%E3%83%87%E3%82%B3%E3%83%BC%E3%83%AB-%E6%9C%A8%E9%83%A8%E7%94%A8%E5%A1%97%E6%96%99-%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB-%E5%A1%97%E6%96%99%E8%B2%A9%E5%A3%B2%E5%BA%97-%E9%AB%98%E7%80%AC%E5%A1%97%E6%96%99/850692657070672/",
+    "https://www.facebook.com/YouXianHuiShetoraiesu/posts/%E9%9D%92%E3%81%84%E3%81%A4%E3%81%AA%E3%81%8E%E3%81%8C%E7%9B%AE%E5%8D%B0%E6%B8%85%E6%8E%83%E6%A5%AD%E3%81%AE%E3%81%95%E3%82%8F%E3%82%84%E3%81%8B%E3%83%97%E3%83%AD%E9%9B%86%E5%9B%A3%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A8%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E5%8B%9F%E9%9B%86%E7%94%A8%E3%81%A7%E3%81%99%E3%81%8C%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7%E3%82%88%E3%82%8D%E3%81%97%E3%81%91%E3%82%8C%E3%81%B0%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%81%8A%E9%A1%98%E3%81%84%E8%87%B4%E3%81%97%E3%81%BE%E3%81%99/3489371594433111/",
+    "https://www.facebook.com/groups/npoitec/",
+    "https://www.facebook.com/irodori0101/posts/%E6%97%A5%E3%81%AE%E5%87%BA%E7%94%BA%E7%AB%8B%E5%B9%B3%E4%BA%95%E4%B8%AD%E5%AD%A6%E6%A0%A1%E9%9A%8E%E6%AE%B5%E3%82%A2%E3%83%BC%E3%83%88%E7%AC%AC3%E5%9B%9E%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AF%E6%B5%B7%E3%81%AE%E6%B3%A2%E3%81%A7%E3%81%99%E5%85%A8%E4%BD%93%E7%9A%84%E3%81%AB%E9%9D%92%E8%89%B2%E3%81%8C%E3%83%A1%E3%82%A4%E3%83%B3%E3%81%A7%E6%B3%A2%E3%82%92%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8A%E8%BF%91%E3%81%8F%E3%82%92%E3%81%8A%E9%80%9A%E3%82%8A%E3%81%AE%E9%9A%9B%E3%81%AF%E3%81%9C%E3%81%B2%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%86%99%E7%9C%9F%E3%82%88%E3%82%8A%E5%AE%9F%E9%9A%9B%E3%81%AF%E5%87%84%E3%81%8F%E8%89%AF%E3%81%84/866272861227720/",
+    "https://www.facebook.com/groups/438881676315537/posts/3278753745661635/",
+    "https://www.facebook.com/futex.jp/photos/フューテックスでは電子ビームアプリケーションに必要な各種電源コントローラソフトウェアまでをカスタムソリューションで提供しております電子光学系のレンズは磁界型レン/3013930095352909/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "フューテックス note 社長",
+   "results": [
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/old/company/futex/",
+    "https://www.futex.jp/about",
+    "https://dentou-chousen.jp/company/935/",
+    "https://en-gage.net/futex_saiyo/",
+    "https://www.nikkan.co.jp/articles/view/511207",
+    "http://futex-recruit.com/",
+    "https://syukatsu-kaigi.jp/companies/143328/word_mouths/employee/employments/regular_employee",
+    "https://note.com/fusion_ltd/m/m72ded779aa56",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "フューテックス X 投稿",
+   "results": [
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/old/company/futex/",
+    "https://syukatsu-kaigi.jp/companies/143328/word_mouths/employee/employments/regular_employee",
+    "https://www.futex.jp/faq",
+    "https://x.com/UTokyo_News/status/1915148726869336298",
+    "https://metoree.com/categories/5435/",
+    "https://syukatsu-kaigi.jp/companies/106895/word_mouths",
+    "https://www.youtube.com/watch?v=9i0zy9_Pb4I",
+    "https://fusetter.com/",
+    "https://www.futex.jp/",
+    "https://www.futex.jp/product"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式15頁／PDF・画像19件／外部8頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式15頁／PDF・画像19件／外部8頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式15頁／PDF・画像19件／外部8頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式15頁／PDF・画像19件／外部8頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式15頁／PDF・画像19件／外部8頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式15頁／PDF・画像19件／外部8頁・検索9回）"
+ }
+}

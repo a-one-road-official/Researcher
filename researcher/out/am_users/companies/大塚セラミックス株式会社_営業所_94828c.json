@@ -1,0 +1,439 @@
+{
+ "name": "大塚セラミックス株式会社 営業所",
+ "aliases": [],
+ "context": "ipros_all:オーダーメイド",
+ "researched_at": "2026-11-11T23:31:16.450122+00:00",
+ "official_url": "https://www.ohtsuka-ceramics.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "■本社･工場 〒304-0005 茨城県下妻市半谷482番地1 TEL:0296-44-3165 FAX:0296-43-2574 ■営業所 〒101-0045 東京都千代田区神田鍛冶町三丁目7番地21 天翔オフィス神田 TEL:050-5894-1101 FAX:050-5894-1102",
+    "url": "https://ohtsuka-ceramics.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "大塚 喜一郎",
+    "url": "https://ohtsuka-ceramics.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "取引先",
+    "value": "自動車関連･電気 電子関連･半導体関連･産業機器関連",
+    "url": "https://ohtsuka-ceramics.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "取扱品目",
+    "value": "アルミナ･ステアタイト･コージライト･ムライト･ジルコニア･炭化ケイ素･窒化ケイ素 他",
+    "url": "https://ohtsuka-ceramics.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "各種セラミックス製品の開発･製造･販売",
+    "url": "https://ohtsuka-ceramics.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "お客様のニーズに合わせて、セラミックス製品をオーダーメイドで製作します",
+    "url": "https://ohtsuka-ceramics.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来、顧客視点の製品開発に挑戦し続け、自動車･電気･半導体･産業機器など、幅広い分野の製品開発で社会に貢献してまいりました",
+    "url": "https://ohtsuka-ceramics.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズに合わせて、セラミックス製品をオーダーメイドで製作します",
+    "url": "https://ohtsuka-ceramics.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "大塚セラミックス株式会社｜ファインセラミックス部品の製造･開発",
+    "url": "https://ohtsuka-ceramics.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は、1959年の設立以来一貫してセラミックスを専門とした",
+    "url": "https://ohtsuka-ceramics.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックスは耐熱性･耐摩耗性･電気絶縁性に優れており、",
+    "url": "https://ohtsuka-ceramics.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、これからもセラミックスの新たな可能性を追い求め、",
+    "url": "https://ohtsuka-ceramics.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "60年以上の専門知識と経験に加え、常に業務改善に取り組み、釉薬処理や異材質との接着･精密加工にも対応できる高い技術力を維持しています",
+    "url": "https://ohtsuka-ceramics.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社工場はつくば市に隣接しており、産官学連携で新しい高機能セラミックス素材や技術の開発に力を注いでいます",
+    "url": "https://ohtsuka-ceramics.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズに合わせて、セラミックス製品をオーダーメイドで製作します",
+    "url": "https://ohtsuka-ceramics.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社案内｜大塚セラミックス株式会社｜ファインセラミックス部品の製造･開発",
+    "url": "https://ohtsuka-ceramics.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "大塚セラミックス株式会社は「顧客･従業員･会社の満足を追求し地域･社会に貢献する」を企業理念に、1959年(昭和34年)の設立以来、原料から焼成までの一貫生産と自社研究開発を強みとし、セラミックスの製造･開発に従事しております",
+    "url": "https://ohtsuka-ceramics.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックスは大いなる可能性を秘めた素材です",
+    "url": "https://ohtsuka-ceramics.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社はセラミックスが持つ特性を生かした新素材開発や用途開発にも早くから取り組み、グローバル市場を視野に入れた新しい技術開発にも挑戦しております",
+    "url": "https://ohtsuka-ceramics.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "そして個々の力と、それをつなぐコミュニケーションによる団結力を力に、先進の技術でセラミックスの新しい価値を創造してまいります",
+    "url": "https://ohtsuka-ceramics.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社日立製作所･多賀工場のセラミックス加工外注協力工場となる",
+    "url": "https://ohtsuka-ceramics.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "10月1日大塚セラミックス株式会社に社名変更",
+    "url": "https://ohtsuka-ceramics.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズに合わせて、セラミックス製品をオーダーメイドで製作します",
+    "url": "https://ohtsuka-ceramics.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "お客様のニーズに合わせて、セラミックス製品をオーダーメイドで製作します",
+    "url": "https://ohtsuka-ceramics.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズに合わせて、セラミックス製品をオーダーメイドで製作します",
+    "url": "https://ohtsuka-ceramics.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "Believe in the possibility of ceramics",
+    "url": "https://ohtsuka-ceramics.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "(OHTSUKA CERAMICS INC.)",
+    "url": "https://ohtsuka-ceramics.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "創業以来、顧客視点の製品開発に挑戦し続け、自動車･電気･半導体･産業機器など、幅広い分野の製品開発で社会に貢献してまいりました",
+    "url": "https://ohtsuka-ceramics.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車関連･電気 電子関連･半導体関連･産業機器関連",
+    "url": "https://ohtsuka-ceramics.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ohtsuka-ceramics.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ohtsuka-ceramics.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ohtsuka-ceramics.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://ohtsuka-ceramics.co.jp/cms_cj6jDjde/wp-content/uploads/2026/07/SR_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ohtsuka-ceramics.co.jp/cms_cj6jDjde/wp-content/themes/ohtsuka-ceramic.co.jp/pdf/ceramic-table.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/156242/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ohtsuka-ceramics.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ck-crm.jp/%E5%B0%8F%E3%83%AD%E3%83%83%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ohtsuka-ceramics.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/156242/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/42336/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ohtsuka-ceramics.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/company/detail/156242/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/42336/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "大塚セラミックス 営業所 取扱製品 試作 小ロット",
+   "results": [
+    "https://mono.ipros.com/company/detail/156242/category/",
+    "https://ohtsuka-ceramics.co.jp/company/",
+    "https://www.ck-crm.jp/%E5%B0%8F%E3%83%AD%E3%83%83%E3%83%88/",
+    "https://injection-lab.com/technology/64-2.html",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://ja.nc-net.or.jp/company/81350/product/detail/193024/",
+    "https://www.kyocera.co.jp/prdct/fc/development-support/index.html",
+    "http://www.otsuka-pr.co.jp/",
+    "https://ohtsuka-ceramics.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "大塚セラミックス 営業所 会社概要 事業内容",
+   "results": [
+    "https://ohtsuka-ceramics.co.jp/company/",
+    "https://mono.ipros.com/company/detail/156242/",
+    "https://metoree.com/companies/42336/",
+    "https://wakamono-koyou-sokushin.mhlw.go.jp/search/service/portalkigyodetail.action?action=showDetail&kigyo_id=28030",
+    "https://www.otsuka-pr.co.jp/company.html",
+    "https://course-ibaraki.jp/company/ohtsuka-ceramics2026/",
+    "https://business.atengineer.com/ohtsuka/info/",
+    "https://compalyze.co.jp/company/7050001013287",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7050001013287",
+    "https://ohtsuka-ceramics.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "大塚セラミックス 営業所 お問い合わせ メール",
+   "results": [
+    "https://ohtsuka-ceramics.co.jp/contact/",
+    "https://www.ipros.com/company/detail/156242/",
+    "https://metoree.com/companies/42336/",
+    "https://ja.nc-net.or.jp/company/81350/inquiry/input/",
+    "https://space.pref.ibaraki.jp/participating-companies-2/ootsukaceramics/",
+    "https://ohtsuka-ceramics.co.jp/company/",
+    "https://www.otsukafoods.co.jp/contact/",
+    "https://agcc.jp/contact/",
+    "https://www.otsukakj.jp/contact_us/",
+    "https://ohtsuka-ceramics.co.jp/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com 大塚セラミックス 営業所",
+   "results": [
+    "https://note.com/kyototrade/n/n0a5359db72a4",
+    "https://note.com/toko_mashiko/n/n8416bfb639f1",
+    "https://note.com/kerovee/n/n244586bc8edc",
+    "https://note.com/keiko_zaitaiwan/n/n9544f5e0805c",
+    "https://note.com/picaresque/n/nd95d4c4253c6",
+    "https://note.com/tag/NGK",
+    "https://note.com/oyako_kitchen/n/nb2eda0f91353",
+    "https://note.com/tech_nomad/n/n5eefb5eda986",
+    "https://note.com/interiorshop/n/nd686d2d39adf",
+    "https://note.com/tisobro/n/n3e6223289fe0"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 大塚セラミックス 営業所",
+   "results": [
+    "https://x.com/asamadakekomoro/reposts",
+    "https://x.com/shiosenbe",
+    "https://x.com/KomedaOfficial",
+    "https://x.com/alexxskywalker",
+    "https://x.com/Nonakaya_G/with_replies?lang=bg",
+    "https://x.com/OHMOS_Nansun",
+    "https://x.com/gourmet_lab_jp",
+    "https://x.com/Ogawa_kankou/status/2105623109831463109",
+    "https://x.com/akameneko31/status/2115784785083929028",
+    "https://x.com/agepota"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 大塚セラミックス 営業所",
+   "results": [
+    "https://jp.linkedin.com/in/kenichi-tajima-292254196",
+    "https://jp.linkedin.com/in/%E9%99%BD%E4%BB%8B-%E4%BB%8A%E6%B3%89-6882b818b",
+    "https://jp.linkedin.com/in/%E6%B4%8B%E5%AD%90-%E4%B8%AD%E6%9D%91-2602b9104",
+    "https://jp.linkedin.com/in/%E7%90%86-%E5%B2%A1%E6%9C%AC-8669b0224"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 4
+  },
+  {
+   "query": "site:facebook.com 大塚セラミックス 営業所",
+   "results": [
+    "https://www.facebook.com/otsuka6480/?locale=ja_JP",
+    "https://www.facebook.com/thekahalahotelandresortyokohama/videos/ristorante-ozio-%E6%96%99%E7%90%86%E9%95%B7-%E5%A4%A7%E5%A1%9A%E6%B5%A9%E4%BB%8B-vol2%E6%84%9F%E8%AC%9D%E8%AC%99%E8%99%9A%E3%81%9D%E3%81%97%E3%81%A6%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95/724392876043279/",
+    "https://www.facebook.com/yamaniotsuka/",
+    "https://www.facebook.com/p/OMO5-Tokyo-Otsuka-Hotel-by-Hoshino-Resorts-Omo5%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%A1%9A-by-%E6%98%9F%E9%87%8E%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88-100048752925419/",
+    "https://www.facebook.com/IslandVintageCoffeeJapan/posts/aloha%E3%81%93%E3%81%AE%E5%A4%8F%E3%81%AFivc%E5%85%A8%E5%BA%97%E3%81%A73%E7%A8%AE%E9%A1%9E%E3%81%AE%E3%82%A2%E3%82%B5%E3%82%A4%E3%83%BC%E3%83%9C%E3%82%A6%E3%83%AB%E3%82%92%E3%81%94%E7%94%A8%E6%84%8F%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8D%E3%81%A3%E3%81%A8%E3%81%8A%E6%B0%97%E3%81%AB%E5%85%A5%E3%82%8A%E3%81%8C%E8%A6%8B%E3%81%A4%E3%81%8B%E3%82%8B%E3%81%AF%E3%81%9A%E3%81%9C%E3%81%B2%E3%81%8A%E3%81%9F%E3%82%81%E3%81%97%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84mahalo%E3%83%AA%E3%83%AA%E3%82%B3%E3%82%A4%E3%83%A2%E3%82%A2%E3%83%8A%E3%83%9C%E3%82%A6%E3%83%AB%E3%83%8F%E3%82%A6%E3%83%94/4153153564760625/",
+    "https://www.facebook.com/yamaniotsuka/posts/%E6%98%8E%E6%97%A5%E3%81%8B%E3%82%89%E7%9B%8A%E5%AD%90%E9%99%B6%E5%99%A8%E5%B8%82%E3%81%A7%E3%81%99%E3%81%AD%E3%82%84%E3%81%BE%E3%81%AB%E5%A4%A7%E5%A1%9A%E3%82%82%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A%E3%81%AE%E9%99%B6%E5%99%A8%E5%B8%82%E3%81%AB%E5%BC%B5%E3%82%8A%E5%88%87%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%BB%E3%81%A3%E3%81%A8%E3%82%8B%E3%83%BC%E3%82%80%E3%81%91%E3%82%84%E3%81%8D%E8%84%87%E3%81%AE%E3%82%AB%E3%83%95%E3%82%A7%E3%83%86%E3%83%A9%E3%82%B9ami%E3%82%82%E5%96%B6%E6%A5%AD%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E5%AE%8C%E7%86%9F%E3%81%84%E3%81%A1%E3%81%94%E3%81%AE%E3%81%A8%E3%81%A1%E3%81%8A%E3%81%A8%E3%82%81%E3%83%9F%E3%83%AB%E3%82%AF%E3%81%84%E3%81%A1%E3%81%94/5144860368910321/",
+    "https://www.facebook.com/yamaniotsuka/posts/%E3%82%88%E3%81%97%E3%81%96%E3%82%8F%E7%AA%AF%E5%85%A5%E8%8D%B7%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%AC%E6%97%A5%E5%B1%95%E7%A4%BA%E8%B2%A9%E5%A3%B2%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%99%E5%B9%B4%E6%9C%AB%E5%B9%B4%E5%A7%8B%E3%81%AB%E3%82%80%E3%81%91%E3%81%A6%E7%B4%A0%E6%95%B5%E3%81%AA%E5%99%A8%E3%81%A7%E6%96%B0%E5%B9%B4%E3%82%92%E3%82%80%E3%81%8B%E3%81%88%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B%E3%82%84%E3%81%BE%E3%81%AB%E5%A4%A7%E5%A1%9A%E3%81%AF%E5%B9%B4%E6%9C%AB%E5%B9%B4%E5%A7%8B%E3%82%82%E5%96%B6%E6%A5%AD%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%992025%E5%B9%B411%E3%81%AF12%E6%99%82/1102814068299467/",
+    "https://www.facebook.com/p/Bistro-Katayama-100063639969015/",
+    "https://www.facebook.com/thekahalahotelandresortyokohama/videos/ristorante-ozio-%E6%96%99%E7%90%86%E9%95%B7-%E5%A4%A7%E5%A1%9A%E6%B5%A9%E4%BB%8B-vol1%E6%9C%AC%E8%B3%AA%E3%82%92%E8%A6%8B%E6%A5%B5%E3%82%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%83%86%E3%82%A3%E3%82%92%E7%A3%A8%E3%81%8D%E7%B6%9A%E3%81%91%E3%82%8B/804295507949367/",
+    "https://www.facebook.com/otsukaLiquorShop/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "大塚セラミックス 営業所 note 社長",
+   "results": [
+    "https://ohtsuka-ceramics.co.jp/company/",
+    "https://metoree.com/companies/42336/",
+    "https://note.com/kyocera_pr/n/n5388680213e9",
+    "https://course-ibaraki.jp/company/ohtsuka-ceramics2026/",
+    "https://note.com/otsukayosuke",
+    "https://ohtsuka-ceramics.co.jp/",
+    "https://note.com/stammkneipe/m/mfd6f26a80c02/hashtag/%E3%83%84%E3%83%BC%E3%83%AB",
+    "https://www.buffett-code.com/industries/2350803",
+    "https://www.japan-fc.co.jp/news/post-13.html",
+    "https://tof.jp.toto.com/company/message.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "大塚セラミックス 営業所 X 投稿",
+   "results": [
+    "https://ohtsuka-ceramics.co.jp/company/",
+    "https://www.ipros.com/company/detail/156242/",
+    "https://metoree.com/companies/42336/",
+    "https://www.joyobank.co.jp/enterpri/monozukuri/2014/02/2-4-02-084.html",
+    "https://ja.nc-net.or.jp/company/81350/product/detail/193024/",
+    "https://ohtsuka-ceramics.co.jp/",
+    "https://www.japan-fc.co.jp/news/post-5.html",
+    "https://wakamono-koyou-sokushin.mhlw.go.jp/search/service/portalkigyodetail.action?action=showDetail&kigyo_id=28030",
+    "https://www.japanaerospace.jp/jp/exhibitor/374",
+    "https://ohtsuka-ceramics.co.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像2件／外部9頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像2件／外部9頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式3頁／PDF・画像2件／外部9頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式3頁／PDF・画像2件／外部9頁・検索9回）"
+ }
+}

@@ -1,0 +1,649 @@
+{
+ "name": "株式会社昭和製作所(東京・栃木)",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T23:12:10.557241+00:00",
+ "official_url": "http://www.showa-ss.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役社長",
+    "value": "舟久保 利和",
+    "url": "https://showa-ss.jp/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "本社/本社工場 〒143-0015 東京都大田区大森西2-17-8（ 所在地 ）",
+    "url": "https://showa-ss.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "営業品目",
+    "value": "材料試験片",
+    "url": "https://showa-ss.jp/company/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主なお取引先",
+    "value": "自動車関連企業",
+    "url": "https://showa-ss.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "一点物・少量多品種": [
+   {
+    "quote": "株式会社昭和製作所 試験片(テストピース)や試作・冶具製作メーカー",
+    "url": "https://showa-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "加工事例 – 株式会社昭和製作所 試験片(テストピース)や試作・冶具製作メーカー",
+    "url": "https://showa-ss.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミニウム合金の試験片、治具、試作等の加工 -加工実績材料...",
+    "url": "https://showa-ss.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 – 株式会社昭和製作所 試験片(テストピース)や試作・冶具製作メーカー",
+    "url": "https://showa-ss.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "金属材料を中心として、材料試験片・超音波探傷用試験片・試作部品等を作り続けて参りました",
+    "url": "https://showa-ss.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせはこちら – 株式会社昭和製作所 試験片(テストピース)や試作・冶具製作メーカー",
+    "url": "https://showa-ss.jp/enquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "材料試験片、超音波深傷用試験片、試作部品・部品・治具等の",
+    "url": "https://showa-ss.jp/enquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報 – 株式会社昭和製作所 試験片(テストピース)や試作・冶具製作メーカー",
+    "url": "https://showa-ss.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "試験片・試作・冶具・加工/製作｜株式会社昭和製作所",
+    "url": "http://showa1952.xsrv.jp/wp/",
+    "pass": 3
+   },
+   {
+    "quote": "ご提示したお見積もりをもとに、価格や納期、試作品の製作可否などについて、最終的な打ち合わせを行います",
+    "url": "https://syowa-ss.co.jp/yk/Inquiry_Form.htm",
+    "pass": 3
+   },
+   {
+    "quote": "可能な場合は、量産に先立って試作品の製作も承ります",
+    "url": "https://syowa-ss.co.jp/yk/Inquiry_Form.htm",
+    "pass": 3
+   },
+   {
+    "quote": "試作品や初品のご確認で問題がなければ、量産に移行いたします",
+    "url": "https://syowa-ss.co.jp/yk/Inquiry_Form.htm",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "アルミニウム合金の試験片、治具、試作等の加工 -加工実績材料...",
+    "url": "https://showa-ss.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社昭和製作所はJISＱ9100（航空・宇宙・防衛品質マネジメント規格）の認証を取得しました",
+    "url": "https://showa-ss.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "JISＱ9100は、航空宇宙防衛産業における特有の要求事項をISO9001に追加した品質マネジメント規格です",
+    "url": "https://showa-ss.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "材料試験片、超音波深傷用試験片、試作部品・部品・治具等の",
+    "url": "https://showa-ss.jp/enquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "お伺いした内容をもとに、製造工程、使用治具、検査方法、運搬手段などを含めた詳細なお見積もりを作成いたします",
+    "url": "https://syowa-ss.co.jp/yk/Inquiry_Form.htm",
+    "pass": 3
+   },
+   {
+    "quote": "今回は自動車シートの木型などを製造されている",
+    "url": "https://note.com/monojirei/n/nb672f704abfe",
+    "pass": 3
+   },
+   {
+    "quote": "自動車シートだとゲージを当てながら微調整したり、航空機向けの製品の場合は3次元測定機も使いながら加工していくので、",
+    "url": "https://note.com/monojirei/n/nb672f704abfe",
+    "pass": 3
+   },
+   {
+    "quote": "金型メーカーさんなのですが、自分たちの工程だけでも成り立たないし、資金も分担すれば進出しやすい",
+    "url": "https://note.com/monojirei/n/nb672f704abfe",
+    "pass": 3
+   },
+   {
+    "quote": "たとえばタイだと、自動車シートの分野で弊社と競合になる企業が既にいて参入しづらかったんです",
+    "url": "https://note.com/monojirei/n/nb672f704abfe",
+    "pass": 3
+   },
+   {
+    "quote": "インドネシアだけで行っている自動車内部のカーペット型製造はどういったきっかけ",
+    "url": "https://note.com/monojirei/n/nb672f704abfe",
+    "pass": 3
+   },
+   {
+    "quote": "一緒にインドネシアに進出した金型メーカーさんの協力もあり、事業として成り立つ形になりました",
+    "url": "https://note.com/monojirei/n/nb672f704abfe",
+    "pass": 3
+   },
+   {
+    "quote": "「日本ではお付き合いのなかった自動車メーカーと、",
+    "url": "https://note.com/monojirei/n/nb672f704abfe",
+    "pass": 3
+   },
+   {
+    "quote": "インドネシアでお付き合いのある自動車メーカーの担当者と、その電機メーカーの方が日本人同士で交流があり、弊社を紹介していただきました",
+    "url": "https://note.com/monojirei/n/nb672f704abfe",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お問い合わせはこちら – 株式会社昭和製作所 試験片(テストピース)や試作・冶具製作メーカー",
+    "url": "https://showa-ss.jp/enquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ｜鏡板製造の株式会社昭和製作所",
+    "url": "https://www.showa-ss.co.jp/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ内容によりましては、回答に時間がかかる場合がございます",
+    "url": "https://www.showa-ss.co.jp/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、お客さまからいただいたEメールアドレスが違っている場合や、システム障害などによりお返事できない場合がございます",
+    "url": "https://www.showa-ss.co.jp/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "業務に関するお問い合わせは、電話またはメールにてお願いいたします",
+    "url": "https://syowa-ss.co.jp/yk/Inquiry_Form.htm",
+    "pass": 3
+   },
+   {
+    "quote": "なお、弊社の休日を含む電話対応時間外は、メールでご連絡くださいますようお願い申し上げます",
+    "url": "https://syowa-ss.co.jp/yk/Inquiry_Form.htm",
+    "pass": 3
+   },
+   {
+    "quote": "つい最近も大手電機メーカーから直接お問い合わせがありました",
+    "url": "https://note.com/monojirei/n/nb672f704abfe",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社昭和製作所 試験片 (テストピース)や試作・冶具製作メーカー — 昭和製作所は試験片 (テストピース)の製造・加工を最高品質と短納期でご提供。 鉄鋼（超耐熱鋼を含む）・非鉄金属だけでなく難削材やセラミック・プラスチックも含む全工業材料で試験片（テストピース）の製造加工と試作品、治具の製造が可能です。",
+    "url": "https://showa-ss.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 – 株式会社昭和製作所 試験片 (テストピース)や試作・冶具製... — ものづくり分野の発展に貢献するため、昭和製作所では地域の学生や子供達の工場見学を受け入れてきました。 様々な企業がある中で、大田区の製造業の現場を見学する事によって、将来、学生や子供達が職業を選ぶ際の検討材料となればと考えております。",
+    "url": "https://showa-ss.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "試験片・試作・冶具・加工/製作｜株式会社昭和製作所 — 昭和製作所は試験片（材料試験片・超音波探傷用試験片）の製造・加工を最高品質と納期でご提供。 鉄鋼（超耐熱鋼を含む）・非鉄金属だけでなく難削材やセラミック・プラスチックも含む全工業材料で試験片（テストピース）の製造加工と試作品、治具の製造が可能です。",
+    "url": "http://showa1952.xsrv.jp/wp/",
+    "pass": 3
+   },
+   {
+    "quote": "昭和製作所 (東京・栃木)のカタログ一覧 | イプロス — 昭和製作所 (東京・栃木)のカタログ一覧です。 無料でダウンロードできます。 昭和製作所 (東京・栃木)は、材料試験片と精密機械加工全般に関するプロフェッショナル集団です！",
+    "url": "https://www.ipros.com/company/detail/2051257/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 ｜ 佐瀬式吟醸搾り機 大吟醸酒の酒搾り機械は昭和製作所 — 会社概要 社名 株式会社 昭和製作所 所在地 〒321-0905 栃木県宇都宮市平出工業団地38-8 創立 大正8年3月 資本金 2,000万円 事業内容 佐瀬式圧搾濾過機、佐瀬式吟醸用搾り機、その他油圧装置の製造・販売・メンテナンス・産業用機械部品加工・鉄及び非鉄の板金 ...",
+    "url": "https://showa-saseshiki.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社昭和製作所株式会社昭和製作所 試験片 (テストピース)や試作・冶具製作メーカー会社概要 | 試験片・試作・冶具・加工/製作｜株式会社昭和製作所会社案内｜銅配管・銅管組成加工品の設計・製造会社概要｜企業情報｜昭和 ... - 昭和株式会社 — スプリングメーカーとして、時代の変化に対応し、お客様の御要望に柔軟に対応すべく技術を磨き、事業を拡大してきました。 おかげさまで創立80周年を迎えることができました。 昭和製作所は試験片 (テストピース)の製造・加工を最高品質と短納期でご提供。 鉄鋼（超耐熱鋼を含む）・非鉄金属だけでなく難削材やセラミック・プラスチックも含む全工業材料で試験片（テストピース）の製造加工と試作品、治具の製造が可能です。 ものづくり分野の発展に貢献するため、昭和製作所では地域の学生や子供達の工場見学を受け入れてきました。 様々な企業がある中で、大田区の",
+    "url": "https://www.showaseisakusho.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 試験片・試作・冶具・加工/製作｜株式会社昭和製作所 — ものづくり分野の発展に貢献するため、昭和製作所では地域の学生や子供達の工場見学を受け入れてきました。 様々な企業がある中で、大田区の製造業の現場を見学する事によって、将来、学生や子供達が職業を選ぶ際の検討材料となればと考えております。",
+    "url": "http://showa1952.xsrv.jp/wp/company",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜鏡板製造の株式会社昭和製作所 — お問い合わせありがとうございます。 ご質問やお問い合わせは下記メールフォームかお電話・FAXでお気軽にお問い合わせ下さい。 お問い合わせ内容によりましては、回答に時間がかかる場合がございます。",
+    "url": "https://www.showa-ss.co.jp/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ – ㈱昭和製作所 — お名前 (必須) 貴社名 メールアドレス (必須) お電話番号 ご相談の種類",
+    "url": "https://www.showaseisakusho.com/?page_id=69",
+    "pass": 3
+   },
+   {
+    "quote": "昭和製作所：お問合せ — 連絡先 業務に関するお問い合わせは、電話またはメールにてお願いいたします。 なお、弊社の休日を含む電話対応時間外は、メールでご連絡くださいますようお願い申し上げます。 確認でき次第、折り返しご連絡いたします。 電話受付時間 8:00～12:00,13:00 ...",
+    "url": "https://syowa-ss.co.jp/yk/Inquiry_Form.htm",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 株式会社昭和製作所 — お客さまからお預かりした個人情報は、当社からのご連絡や業務のご案内やご質問に対する回答として、電子メールや資料のご送付に利用いたします。 個人情報の第三者への開示・提供の禁止",
+    "url": "https://www.showaseisakusho.co.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "今後もお客様に御満足して頂ける製品を提供し、社会に貢献できる様努めてまいります",
+    "url": "https://www.showaseisakusho.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、製品のひとつひとつに誠意と技術を込め、",
+    "url": "https://syowa-ss.co.jp/yk/Inquiry_Form.htm",
+    "pass": 3
+   },
+   {
+    "quote": "製品の仕様やご希望納期、数量などについて、担当者が丁寧にヒアリングさせていただきます",
+    "url": "https://syowa-ss.co.jp/yk/Inquiry_Form.htm",
+    "pass": 3
+   },
+   {
+    "quote": "自動車シートだとゲージを当てながら微調整したり、航空機向けの製品の場合は3次元測定機も使いながら加工していくので、",
+    "url": "https://note.com/monojirei/n/nb672f704abfe",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "デジタルなものづくりから、リアルな製造業へ 100年続く町工場でDXを... Jul 5, 2021 · デジタル系とリアルな製造業は実は似ている！ 🗞家業を継ぐ前は東京で勤務されていたのですよね？ 「はい。 昭和製作所に入社する前は、6年半程IT関連の制作会社でコンサルタントや営業職を経験しました。",
+    "url": "https://note.com/monojirei/n/nb672f704abfe",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "デジタルなものづくりから、リアルな製造業へ 100年続く町工場でDXを推進する5代目アトツギの挑戦｜ものづくり新聞",
+    "url": "https://note.com/monojirei/n/nb672f704abfe",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルなものづくりから、リアルな製造業へ 100年続く町工場でDXを推進する5代目アトツギの挑戦",
+    "url": "https://note.com/monojirei/n/nb672f704abfe",
+    "pass": 3
+   },
+   {
+    "quote": "今回は自動車シートの木型などを製造されている",
+    "url": "https://note.com/monojirei/n/nb672f704abfe",
+    "pass": 3
+   },
+   {
+    "quote": "奥野さんはデジタル系制作会社勤務を経て、2014年に家業である昭和製作所に入社し、以来6年以上インドネシア工場で営業や製造管理に従事されています。",
+    "url": "https://note.com/monojirei/n/nb672f704abfe",
+    "pass": 3
+   },
+   {
+    "quote": "奥野さんはどんな未来を描いているのでしょうか？",
+    "url": "https://note.com/monojirei/n/nb672f704abfe",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル系とリアルな製造業は実は似ている！",
+    "url": "https://note.com/monojirei/n/nb672f704abfe",
+    "pass": 3
+   },
+   {
+    "quote": "🗞家業を継ぐ前は東京で勤務されていたのですよね？",
+    "url": "https://note.com/monojirei/n/nb672f704abfe",
+    "pass": 3
+   },
+   {
+    "quote": "「はい。昭和製作所に入社する前は、6年半程IT関連の制作会社でコンサルタントや営業職を経験しました。Webサイトアクセス分析などのマーケティングの業務を経て、営業職では制作の方針決めや進捗管理などお客様と接する機会も多かったです。」",
+    "url": "https://note.com/monojirei/n/nb672f704abfe",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "X on X / X - x.com X on X 2026年7月21日に発表された株式会社昭和製作所の第69期決算公告は、純利益1億869万8858円、利益剰余金3億7581万1140円、総資産5億1922万489円。所在地は千葉県長生郡白子町中里1914番地1で、代表者は山田 秀之さんです。 · 182 Views",
+    "url": "https://x.com/kessan_db/status/2079525449118650798",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "遠藤 昭和 - 株式会社 Sanko Medical -営業企画部長 | LinkedIn2 \"近藤佑哉\" profiles | LinkedIn6 \"近藤ゆうや\" profiles | LinkedInMartin Villa - Avocat chez Cain Lamarre | LinkedInAstemo Ltd.の1709_調達部門 業務プロセスの作成・改廃【東京・栃木】...Eduardo César Garrido Merchán - Investigador y Profesor de IA ...Ana Cristina Varga - Business & Marketing | Digital ... 株式会社 Sanko Medical -営業企画部長 · 職歴: 株式会社 Sanko Medical · 場所: 埼玉県。10億人のメンバーを擁するプロフェッショナ",
+    "url": "https://jp.linkedin.com/in/昭和-遠藤-4b41b7237",
+    "pass": 3
+   },
+   {
+    "quote": "Martin Villa - Avocat chez Cain Lamarre | LinkedInAstemo Ltd.の1709_調達部門 業務プロセスの作成・改廃【東京・栃木】...Eduardo César Garrido Merchán - Investigador y Profesor de IA ...Ana Cristina Varga - Business & Marketing | Digital ... Avocat chez Cain Lamarre · Avocat depuis 1995. Détenteur d'une maîtrise en droit de l'entreprise. A plaidé devant plusieurs instances, notamment à la Cour suprême du Canada. A travaillé",
+    "url": "https://ca.linkedin.com/in/martin-villa-7a48042a1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "有限会社 昭貴製作所 | Utsunomiya-shi Tochigi - Facebook(株)昭和製作所有限会社 昭和製作所昭和制作 - Facebook株式会社昭和製作所（Showa - インドネシアで工場の引き渡しが行われ...株式会社昭和螺旋管製作所昭和精工株式会社 - Facebook 」って本気で思った5日間でもある。 で、出張から戻ってひと息……つけるかと思いきや、 来週からまた【東京→静岡→岡山→名古屋】と出張が 続くスケジュール。 ちょっとハードだけど、ここが勝負の年だってわかっ てるから、気は抜かずにいきます。 (株)昭和製作所. 電子部品(高周波電源トランス等)製造業 有限会社 昭和製作所 昭和制作. 18 likes · 3 talking about this. Industrial Company Jan 1, 2015 · インドネシアで工場の引き渡しが行わ",
+    "url": "https://www.facebook.com/shouki.since1953/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)昭和製作所 (株)昭和製作所. 電子部品(高周波電源トランス等)製造業",
+    "url": "https://www.facebook.com/Showaseisakusyo/videos/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 昭和製作所 有限会社 昭和製作所",
+    "url": "https://www.facebook.com/有限会社-昭和製作所-182397121832495/",
+    "pass": 3
+   },
+   {
+    "quote": "昭和制作 - Facebook株式会社昭和製作所（Showa - インドネシアで工場の引き渡しが行われ...株式会社昭和螺旋管製作所昭和精工株式会社 - Facebook 昭和制作. 18 likes · 3 talking about this. Industrial Company Jan 1, 2015 · インドネシアで工場の引き渡しが行われ、インドネシアでの拠点が完成しました。 この場所からお客様のお役に立てるよう ... 株式会社昭和螺旋管製作所. 5 likes. Local service Jun 30, 2025 · 明日から東京ビッグサイトで開催される、国際ロボッ ト展2023に出展します。 精密5軸加工加工部品、リチ ウムイオン電池用金型、精密剪断加工サンプルの他、 設計者が製作したロボットの展示もございますので、 皆様のご来場をお待ちしております。",
+    "url": "https://www.facebook.com/showa.seisaku/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://showa-ss.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://showa-ss.jp/works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://showa-ss.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://showa-ss.jp/enquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://showa-ss.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://showa-ss.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://showa-ss.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://showa1952.xsrv.jp/wp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://showa-ss.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://showa-saseshiki.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.showaseisakusho.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.showa-ss.co.jp/contact.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.showaseisakusho.com/?page_id=69",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://syowa-ss.co.jp/yk/Inquiry_Form.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/monojirei/n/nb672f704abfe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kessan_db/status/2079525449118650798",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/昭和-遠藤-4b41b7237",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/martin-villa-7a48042a1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/shouki.since1953/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Showaseisakusyo/videos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/有限会社-昭和製作所-182397121832495/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/showa.seisaku/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "昭和製作所(東京・栃木) 取扱製品 試作 小ロット",
+   "results": [
+    "https://showa-ss.jp/",
+    "https://showa-ss.jp/company/",
+    "http://showa1952.xsrv.jp/wp/",
+    "https://www.ipros.com/company/detail/2051257/catalog/",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://www.showa-seisakusyo.co.jp/product/",
+    "https://www.ipros.com/company/detail/2051257/category/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "昭和製作所(東京・栃木) 会社概要 事業内容",
+   "results": [
+    "https://showa-ss.jp/company/",
+    "https://showa-saseshiki.com/company/",
+    "https://www.showaseisakusho.co.jp/company/",
+    "https://showa-ss.jp/",
+    "http://showa1952.xsrv.jp/wp/company",
+    "https://sho-wa.co.jp/company/info/",
+    "https://syowa-ss.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "昭和製作所(東京・栃木) お問い合わせ メール",
+   "results": [
+    "https://www.showa-ss.co.jp/contact.html",
+    "https://www.showaseisakusho.com/?page_id=69",
+    "https://syowa-ss.co.jp/yk/Inquiry_Form.htm",
+    "https://www.showaseisakusho.co.jp/contact/",
+    "https://syowa-ss.co.jp/contact/",
+    "https://showa-saseshiki.com/contact/",
+    "https://www.showa-hp.co.jp/お問い合わせ/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 昭和製作所(東京・栃木)",
+   "results": [
+    "https://money.note.com/rankings/地方銀行/dividend_yield_desc",
+    "https://money.note.com/rankings/地方銀行/pbr_desc",
+    "https://note.com/monojirei/n/nb672f704abfe",
+    "https://note.com/cam_kagemusha/n/n5ce6e667d692",
+    "https://tales.note.com/platypus2000jp/wwal8cw05tizy",
+    "https://note.com/lithe_crocus8929/n/nf2f1cb2c2716",
+    "https://note.com/ai_drc97567/n/n9aefe213ded3"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 昭和製作所(東京・栃木)",
+   "results": [
+    "https://x.com/kessan_db/status/2079525449118650798",
+    "https://jf.x.com/images/media-preview/2116037421167198388",
+    "https://x.com/TSR_NEWS/status/2079365405253275692",
+    "https://x.com/conerudoll",
+    "https://x.com/Hagacitizenbot/status/2120468389588300178",
+    "https://x.com/13zenzaemon/status/2116640353541558693",
+    "https://x.com/TStm38/status/2110679626200834319"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 昭和製作所(東京・栃木)",
+   "results": [
+    "https://jp.linkedin.com/in/昭和-遠藤-4b41b7237",
+    "https://www.linkedin.com/pub/dir/佑哉/近藤",
+    "https://www.linkedin.com/pub/dir/ゆうや/近藤",
+    "https://ca.linkedin.com/in/martin-villa-7a48042a1",
+    "https://jp.linkedin.com/jobs/view/1709-調達部門-業務プロセスの作成・改廃【東京・栃木】-j0050035-at-astemo-ltd-4399847412",
+    "https://es.linkedin.com/in/eduardo-césar-garrido-merchán-94628a346",
+    "https://ro.linkedin.com/in/ana-cristina-varga-0376257b"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 昭和製作所(東京・栃木)",
+   "results": [
+    "https://www.facebook.com/shouki.since1953/",
+    "https://www.facebook.com/Showaseisakusyo/videos/",
+    "https://www.facebook.com/有限会社-昭和製作所-182397121832495/",
+    "https://www.facebook.com/showa.seisaku/",
+    "https://www.facebook.com/showaworks/photos/インドネシアで工場の引き渡しが行われインドネシアでの拠点が完成しましたこの場所からお客様のお役に立てるよう価値を創り出していきます/1538350663088505/",
+    "https://www.facebook.com/showaseiko/",
+    "https://www.facebook.com/p/株式会社昭和螺旋管製作所-100069522756977/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "昭和製作所(東京・栃木) note 社長",
+   "results": [
+    "https://showa-ss.jp/company/",
+    "http://showa1952.xsrv.jp/wp/company",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/showa-ss/",
+    "https://compalyze.co.jp/company/7060001002280",
+    "https://www.showaseisakusho.co.jp/company/",
+    "https://compalyze.co.jp/company/2010801005665",
+    "https://syowa-ss.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "昭和製作所(東京・栃木) X 投稿",
+   "results": [
+    "https://showa-ss.jp/company/",
+    "https://www.showaseisakusho.co.jp/",
+    "https://showa-ss.jp/",
+    "https://www.jbmm.jp/pages/71/",
+    "https://x.com/kessan_db/status/2079525449118650798",
+    "https://x.com/showasangyo_co",
+    "https://search.yahoo.co.jp/realtime/search/昭和産業/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部17頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部17頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部17頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部17頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部17頁・検索9回）"
+ }
+}

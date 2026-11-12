@@ -1,0 +1,1628 @@
+{
+ "name": "株式会社中越製作所",
+ "aliases": [],
+ "context": "ipros_all:小ロット",
+ "researched_at": "2026-11-11T23:22:19.831157+00:00",
+ "official_url": "https://special-blow-mold.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社工場",
+    "value": "〒132-0023 東京都江戸川区西一之江4丁目10番2号",
+    "url": "https://special-blow-mold.com/news/3310/",
+    "pass": 1
+   },
+   {
+    "label": "本社工場",
+    "value": "〒132-0023 東京都江戸川区西一之江4丁目10番2号",
+    "url": "https://special-blow-mold.com/news/3089/",
+    "pass": 1
+   },
+   {
+    "label": "本社工場",
+    "value": "〒132-0023 東京都江戸川区西一之江4丁目10番2号",
+    "url": "https://special-blow-mold.com/news/3088/",
+    "pass": 1
+   },
+   {
+    "label": "本社工場",
+    "value": "〒132-0023 東京都江戸川区西一之江4丁目10番2号",
+    "url": "https://special-blow-mold.com/news/3085/",
+    "pass": 1
+   },
+   {
+    "label": "本社工場",
+    "value": "〒132-0023 東京都江戸川区西一之江4丁目10番2号",
+    "url": "https://special-blow-mold.com/news/3081/",
+    "pass": 1
+   },
+   {
+    "label": "本社工場",
+    "value": "〒132-0023 東京都江戸川区西一之江4丁目10番2号",
+    "url": "https://special-blow-mold.com/news/3075/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "本社工場 〒132-0023 東京都江戸川区西一之江4丁目10番2号 TEL 03-3656-1727　FAX 03-3654-1255 第2工場 〒132-0023 東京都江戸川区西一之江4丁目6番19号 第3工場 〒132-0023 東京都江戸川区西一之江4丁目14番4号",
+    "url": "https://chuuetsu.co.jp/",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "〒132-0023 東京都江戸川区西一之江4丁目10番2号",
+    "url": "https://www.atengineer.com/pr/chuuetsu/company",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "北井　希昌子",
+    "url": "https://chuuetsu.co.jp/",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "北井 久雄",
+    "url": "https://www.atengineer.com/pr/chuuetsu/company",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "12名",
+    "url": "https://mono.ipros.com/company/detail/2080107/",
+    "pass": 3
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "(株)エクセル製作所、日本ビニロン(株)、(株)アイテック、大丸工業(株)、\n(有)エフエーモールディング、(株)YOSHIMI、(株)マルチュウ、双伸工業(株)、(株)リョウケ (順不同・敬称略)",
+    "url": "https://mono.ipros.com/company/detail/2080107/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "製品の種類も多岐にわたり、3次元ブロー金型や特殊なブロー金型、3次元加工品にも対応しております",
+    "url": "https://special-blow-mold.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の詳細は載せることができませんが、実際の製品の形状を見ていただいて、「こういったものはブローで作れる？」といったご相談を承ります",
+    "url": "https://special-blow-mold.com/",
+    "pass": 1
+   },
+   {
+    "quote": "既存製品・金型を基にした新規金型製作 -リバースエンジニアリング-",
+    "url": "https://special-blow-mold.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成形の製品開発において、「試作型」をどのように位置づけるかは、開発コストや手戻りリスク、そして最終的な量産品質を大きく左右します",
+    "url": "https://special-blow-mold.com/",
+    "pass": 1
+   },
+   {
+    "quote": "既存製品・金型を基にした新規金型製作 -リバースエンジニアリング-",
+    "url": "https://special-blow-mold.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "vol.18 タンク製品といえばブロー成形！当社の大型タンク製品をご紹介します！",
+    "url": "https://special-blow-mold.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "vol.6 ブロー成形で作られる製品",
+    "url": "https://special-blow-mold.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック製品をお取り扱いの企業様、必見！",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "「ブロー成形ってどんなもの？」「自社製品に適用できるの？」「コストはどれくらい？」そんな疑問をお持ちの企業様に向けて、ブロー成形金型の製作を行う当社では、ブロー成形可否判断サービスを提供しています",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "また「射出成形からブローに置き換えることは可能か？」「製品の一部だけブロー成形に置き換えできるのか？」といったご相談にも回答させていただきます",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "長年のブロー金型製作で培ってきた経験と実績を持つ当社だからこそ、 金型製作の視点 から、お客様の製品のブロー成形への適性を見極めることができます",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "製品図面やサンプルを元にして、ブロー金型構造から考え、より確実にブロー成形で製作可能か判断いたします",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "特殊ブロー金型 設計・製作.comでは、お客様の製品を詳細に分析し、ブロー成形による具体的なコストメリットを明確にご提示いたします",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "射出成形＋ブロー成形で製作している製品を、ブローで一体成形できる可能性も！",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "射出成形＋ブロー成形で製作、溶着していた製品も、中空形状の場合、ブローで一体成形できる可能性があります",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "また、溶着による接合部のバリ（余肉）が発生しないため、製品の美観性も向上します",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "中空の製品形状の場合、ブロー成形の方がコストを抑えた生産が可能な場合も多く、また肉厚の調整や、リブ構造の設計など、ブロー成形に適した形状への変更や部品一体化を行うことで、コストメリットを生み出すことも可能です",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ベースで図面でご依頼いただきましたら、ブロー金型製作を行う当社より、製品やお客様のご要望や立地条件に合わせて最適なブロー成形企業様に弊社よりご依頼をさせていただきます",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様は、ブロー成形企業様を探す必要も、再度製品仕様のすり合わせを行う必要もございません",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成形に関する専門的な知識がない場合でも、当社はブロー成形を深く理解したブロー金型のスペシャリストですので、製作可否の判断はもちろん、金型段階で製品品質を高める工夫や技術的な提案をさせていただきます",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "既存製品・金型を基にした新規金型製作 -リバースエンジニアリング-",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "成形機と金型が不釣り合いの場合も、適切にクランプを機能させる調整を金型側で行うことで、お客様のお求めの製品を製造できる金型を製作いたします",
+    "url": "https://special-blow-mold.com/service/2348/",
+    "pass": 1
+   },
+   {
+    "quote": "金型を導入したものの、「うまく成形できない」「製品に不具合が出る」といったトラブルが発生することもあります",
+    "url": "https://special-blow-mold.com/service/2348/",
+    "pass": 1
+   },
+   {
+    "quote": "既存製品・金型を基にした新規金型製作 -リバースエンジニアリング-",
+    "url": "https://special-blow-mold.com/service/2348/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー金型を専門的に取り扱う企業として培ってきた独自の当社のネットワークを活用し、製品に合わせて最適なブロー成形企業様に、ブロー成形を依頼いたします",
+    "url": "https://special-blow-mold.com/service/1989/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック製品をお求めの商社、セットメーカーのお客様に対して、製品ベースで図面でご依頼いただきましたら、ブロー金型製作を行う当社より、製品やお客様のご要望や立地条件に合わせて最適なブロー成形企業様に弊社よりご依頼をさせていただきます",
+    "url": "https://special-blow-mold.com/service/1989/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様は、ブロー成形企業様を探す必要も、再度製品仕様のすり合わせを行う必要もございません",
+    "url": "https://special-blow-mold.com/service/1989/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成形に関する専門的な知識がない場合でも、当社はブロー成形を深く理解したブロー金型のスペシャリストですので、製作可否の判断はもちろん、金型段階で製品品質を高める工夫や技術的な提案をさせていただきます",
+    "url": "https://special-blow-mold.com/service/1989/",
+    "pass": 1
+   },
+   {
+    "quote": "また、図面データがなく製品の現物のみといった場合でも金型製作が可能です",
+    "url": "https://special-blow-mold.com/service/1989/",
+    "pass": 1
+   },
+   {
+    "quote": "既存製品・金型を基にした新規金型製作 -リバースエンジニアリング-",
+    "url": "https://special-blow-mold.com/service/1989/",
+    "pass": 1
+   },
+   {
+    "quote": "既存製品・金型を基にした新規金型製作 -リバースエンジニアリング- | サービス | 特殊ブロー金型 設計・製作.com",
+    "url": "https://special-blow-mold.com/service/1790/",
+    "pass": 1
+   },
+   {
+    "quote": "既存製品・金型を基にした新規金型製作 -リバースエンジニアリング-",
+    "url": "https://special-blow-mold.com/service/1790/",
+    "pass": 1
+   },
+   {
+    "quote": "既存製品・金型を基にした新規金型製作 -リバースエンジニアリング-の",
+    "url": "https://special-blow-mold.com/service/1790/",
+    "pass": 1
+   },
+   {
+    "quote": "既存製品を三次元測定機などを用いて測定します",
+    "url": "https://special-blow-mold.com/service/1790/",
+    "pass": 1
+   },
+   {
+    "quote": "新規での金型設計（※）は、既存製品の特定のニーズや製品仕様の変更に対応できます",
+    "url": "https://special-blow-mold.com/service/1790/",
+    "pass": 1
+   },
+   {
+    "quote": "また容器については、あえてキャップと本体の締め付けを緩く設計した製品であれば、容器本体のネジ山を測定します",
+    "url": "https://special-blow-mold.com/service/1790/",
+    "pass": 1
+   },
+   {
+    "quote": "既存製品・金型を基にした新規金型製作 -リバースエンジニアリング-に関連するQ&A",
+    "url": "https://special-blow-mold.com/service/1790/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、製品形状や生産数に応じて高寿命を加味した設計をしており、お客様の長期的なコスト削減に努めております",
+    "url": "https://special-blow-mold.com/service/1790/",
+    "pass": 1
+   },
+   {
+    "quote": "製品事例 | 特殊ブロー金型 設計・製作.com",
+    "url": "https://special-blow-mold.com/case/",
+    "pass": 1
+   },
+   {
+    "quote": "既存製品・金型を基にした新規金型製作 -リバースエンジニアリング-",
+    "url": "https://special-blow-mold.com/case/",
+    "pass": 1
+   },
+   {
+    "quote": "vol.18 タンク製品といえばブロー成形！当社の大型タンク製品をご紹介します！",
+    "url": "https://special-blow-mold.com/case/",
+    "pass": 1
+   },
+   {
+    "quote": "vol.6 ブロー成形で作られる製品",
+    "url": "https://special-blow-mold.com/case/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の種類も多岐にわたり、3次元ブロー金型や特殊なブロー金型、3次元加工品にも対応しております",
+    "url": "https://special-blow-mold.com/case/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の詳細は載せることができませんが、実際の製品の形状を見ていただいて、「こういったものはブローで作れる？」といったご相談を承ります",
+    "url": "https://special-blow-mold.com/case/",
+    "pass": 1
+   },
+   {
+    "quote": "３次元ブロー成形金型では、その名の通り全体が湾曲面のような３次元形状をしていることが多く、製品の収縮も考慮した上で楕円形状の加工が必要な場合もあります",
+    "url": "https://special-blow-mold.com/reason/",
+    "pass": 1
+   },
+   {
+    "quote": "幅広い設備ラインナップで対応力を高めつつ、治具を工夫して特殊な加工方法を行うことで工作機械の可能性を広げて、従業員全員で知恵を振り絞りながら設備力の向上を図っております",
+    "url": "https://special-blow-mold.com/reason/",
+    "pass": 1
+   },
+   {
+    "quote": "一言でブロー成形といっても、成形する製品の形状等によってその成形方法は異なります",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "射出成形が主流な中、ブロー成形を選択した製品とその理由を説明します",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "凸凹の隙間に樹脂を圧入するので、その隙間が製品の肉厚になります",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の成立性・低価格・短納期をご提案します",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "金型製作においては製品開発における試作型や、小ロット生産にコスト面で適しています",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "継続的に製品を量産成形できるので大量生産に向いております",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "各種樹脂の特性を利用して、光沢性・耐薬品性・ガスバリア性（酸素）など多層構造の製品を可能にします",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "パイプ状に落ちてくるパリソン（溶融樹脂）を金型の２面（製品形状面）で挟み込み、パリソンの内部から膨らますと、パリソンの外面は金型に密着し、冷却固化をしはじめ製品の外観面を成形します",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "パリソンの外面と内面で温度差が生じており冷却固化のバラつきと、製品デザインにも左右され肉厚が不均一となる",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "はめ合わせが必要なパイプ形状の製品などは、後加工により内径切削を施します",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "また、製品形状の幅よりも大きいパリソンを金型全面で挟む”総バリ”設計もあり、成形品外周の大きなバリを取らなくてはなりません",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "風船が円の中心から膨らむイメージで、パイプ状のパリソンが製品面に密着していくため、製品デザインとして、丸みが小さい・エッジが多い・谷状の狭い形状等は苦手です",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成形は溶融樹脂を垂らして成形するため、製品デザインや金型の設計が要因して様々な事象がありえます",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の特定部分の肉厚が不均一（厚薄）となること",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "試作型は使い倒す！1ヶ月で挑むブロー成形1stトライ",
+    "url": "https://special-blow-mold.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成形の製品開発において、「試作型」をどのように位置づけるかは、開発コストや手戻りリスク、そして最終的な量産品質を大きく左右します",
+    "url": "https://special-blow-mold.com/",
+    "pass": 1
+   },
+   {
+    "quote": "技術コラムに「試作型は使い倒す！1ヶ月で挑むブロー成形1stトライ」を追加しました",
+    "url": "https://special-blow-mold.com/",
+    "pass": 1
+   },
+   {
+    "quote": "vol.23 【試作金型】のブロー成形の適正について",
+    "url": "https://special-blow-mold.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "vol.23 【試作金型】のブロー成形の適正について",
+    "url": "https://special-blow-mold.com/case/",
+    "pass": 1
+   },
+   {
+    "quote": "よってコスト面から、一般的に小ロット生産には向いておりません",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成形で試作用の金型を作りたいのですが可能ですか？",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "もちろん試作型から量産化への転用を前提とした金型製作も可能です",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "金型製作においては製品開発における試作型や、小ロット生産にコスト面で適しています",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成形で試作用の金型を作りたいのですが可能ですか？",
+    "url": "https://special-blow-mold.com/service/579/",
+    "pass": 1
+   },
+   {
+    "quote": "もちろん試作型から量産化への転用を前提とした金型製作も可能です",
+    "url": "https://special-blow-mold.com/service/579/",
+    "pass": 1
+   },
+   {
+    "quote": "vol.23 【試作金型】のブロー成形の適正について",
+    "url": "https://special-blow-mold.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "試作型は使い倒す！1ヶ月で挑むブロー成形1stトライ | 技術コラム | 特殊ブロー金型 設計・製作.com",
+    "url": "https://special-blow-mold.com/column/3614/",
+    "pass": 1
+   },
+   {
+    "quote": "試作型は使い倒す！1ヶ月で挑むブロー成形1stトライ",
+    "url": "https://special-blow-mold.com/column/3614/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成形の製品開発において、「試作型」をどのように位置づけるかは、開発コストや手戻りリスク、そして最終的な量産品質を大きく左右します",
+    "url": "https://special-blow-mold.com/column/3614/",
+    "pass": 1
+   },
+   {
+    "quote": "一般的な開発では、試作型を1回限りの形状確認用として終わらせてしまいがちです",
+    "url": "https://special-blow-mold.com/column/3614/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、最初から**「将来の改造を見越して試作型を徹底的に使い倒す」**という設計思想を持つことで、リスクを最小限に抑えながら理想の製品へとアプローチすることができます",
+    "url": "https://special-blow-mold.com/column/3614/",
+    "pass": 1
+   },
+   {
+    "quote": "ご相談から試作金型製作、そして中空品の「1stトライ」までをわずか1ヶ月で達成",
+    "url": "https://special-blow-mold.com/column/3614/",
+    "pass": 1
+   },
+   {
+    "quote": "試作金型の完成まで約2週間、そして最初の成形（1stトライ）完了までトータル約1ヶ月",
+    "url": "https://special-blow-mold.com/column/3614/",
+    "pass": 1
+   },
+   {
+    "quote": "├─◆ 約2週間：試作金型が完成！",
+    "url": "https://special-blow-mold.com/column/3614/",
+    "pass": 1
+   },
+   {
+    "quote": "└─◆ 【Next Step】これから試作型を「使い倒す」本番へ！",
+    "url": "https://special-blow-mold.com/column/3614/",
+    "pass": 1
+   },
+   {
+    "quote": "2. 試作型は「使い捨てる」のではなく「育てるもの」",
+    "url": "https://special-blow-mold.com/column/3614/",
+    "pass": 1
+   },
+   {
+    "quote": "今回の試作型は、一度成形して終わりにするのではなく、**「ここから段階的に手を加えて育てていく開発ツール」**として設計されています",
+    "url": "https://special-blow-mold.com/column/3614/",
+    "pass": 1
+   },
+   {
+    "quote": "試作型に直接手を加え、段階的に理想形状へアプローチ",
+    "url": "https://special-blow-mold.com/column/3614/",
+    "pass": 1
+   },
+   {
+    "quote": "1stトライが完了した現在は、いわば**「これから試作金型を本格的に使い倒すスタートライン」**に立った状態です",
+    "url": "https://special-blow-mold.com/column/3614/",
+    "pass": 1
+   },
+   {
+    "quote": "試作金型をただの確認用として終わらせず、改造しながら理想の形へ育てていくこの戦略的アプローチが、今後どのような完成形へと実を結ぶのか",
+    "url": "https://special-blow-mold.com/column/3614/",
+    "pass": 1
+   },
+   {
+    "quote": "vol.23 【試作金型】のブロー成形の適正について",
+    "url": "https://special-blow-mold.com/vave/1171/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "特殊ブロー金型 設計・製作.com｜特殊・3次元ブロー金型の設計・製作",
+    "url": "https://special-blow-mold.com/",
+    "pass": 1
+   },
+   {
+    "quote": "国内有数の「３次元ブロー金型」設計・製作メーカーによる",
+    "url": "https://special-blow-mold.com/",
+    "pass": 1
+   },
+   {
+    "quote": "部品一体化を実現する特殊ブロー金型の設計ノウハウ",
+    "url": "https://special-blow-mold.com/",
+    "pass": 1
+   },
+   {
+    "quote": "秘密義務があるため、詳細をお話することはできませんが、自動車や建機・農機メーカーなど、幅広い業種のお客様のご要望に対応しております",
+    "url": "https://special-blow-mold.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の種類も多岐にわたり、3次元ブロー金型や特殊なブロー金型、3次元加工品にも対応しております",
+    "url": "https://special-blow-mold.com/",
+    "pass": 1
+   },
+   {
+    "quote": "薬剤散布用背負いタンク（プレス形状・タンク形状を一体成形）金型【ブロー金型参考価格記載】",
+    "url": "https://special-blow-mold.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ウォッシャータンク（自動車向け） 金型【ブロー金型参考価格記載】",
+    "url": "https://special-blow-mold.com/",
+    "pass": 1
+   },
+   {
+    "quote": "尿素タンク 金型 【ブロー金型参考価格記載】",
+    "url": "https://special-blow-mold.com/",
+    "pass": 1
+   },
+   {
+    "quote": "多層ブロー成形品のタンク 金型【ブロー金型参考価格記載】",
+    "url": "https://special-blow-mold.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ボトル ( １ℓ 容器 ) 金型【ブロー金型参考価格記載】",
+    "url": "https://special-blow-mold.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ф28小径ホースの３次元ブロー成形用金型【ブロー金型参考価格記載】",
+    "url": "https://special-blow-mold.com/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス部品も全てブロー成形品のウォッシャータンク 金型",
+    "url": "https://special-blow-mold.com/",
+    "pass": 1
+   },
+   {
+    "quote": "マネキン ”PP製 （ポリプロピレン）” 金型",
+    "url": "https://special-blow-mold.com/",
+    "pass": 1
+   },
+   {
+    "quote": "金型設計・製作からブロー成形一貫対応サービス",
+    "url": "https://special-blow-mold.com/",
+    "pass": 1
+   },
+   {
+    "quote": "既存製品・金型を基にした新規金型製作 -リバースエンジニアリング-",
+    "url": "https://special-blow-mold.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー金型や成形に関する専門知識やノウハウが満載のコラムです",
+    "url": "https://special-blow-mold.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス | 特殊ブロー金型 設計・製作.com",
+    "url": "https://special-blow-mold.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "3次元ブロー金型や特殊ブロー金型の設計・製作のことならお任せください",
+    "url": "https://special-blow-mold.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "3次元部品加工や、スライド機構ノウハウを活かした治具設計にも対応いたします！",
+    "url": "https://special-blow-mold.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "国内有数の「３次元ブロー金型」設計・製作メーカーによる",
+    "url": "https://special-blow-mold.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "部品一体化を実現する特殊ブロー金型の設計ノウハウ",
+    "url": "https://special-blow-mold.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "金型設計・製作からブロー成形一貫対応サービス",
+    "url": "https://special-blow-mold.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "既存製品・金型を基にした新規金型製作 -リバースエンジニアリング-",
+    "url": "https://special-blow-mold.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "vol.24 大公開！金型工場の大掃除で発掘された懐かしのモノと㊙エピソード",
+    "url": "https://special-blow-mold.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "vol.23 【試作金型】のブロー成形の適正について",
+    "url": "https://special-blow-mold.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "vol.22 「カーボンニュートラル燃料」と「特殊ブロー金型」",
+    "url": "https://special-blow-mold.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "vol.21 ブロー成形の新しい可能性？プレス部品も全てブロー成形品のウォッシャータンク金型",
+    "url": "https://special-blow-mold.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "vol.19 金型のPL【型割】を利用した複雑形状と実際の成形事例",
+    "url": "https://special-blow-mold.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "vol.17 全国のブロー金型は中越製作所にお任せ！",
+    "url": "https://special-blow-mold.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "vol.16 金型の空きスペースを有効利用したブロー成形で、製造コストを削減！",
+    "url": "https://special-blow-mold.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "vol.13 ブロー金型におけるスライド機構とは？",
+    "url": "https://special-blow-mold.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "vol.11 金型設計・製作からブロー成形一貫対応サービス",
+    "url": "https://special-blow-mold.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "vol.4 ブロー金型 修理・メンテナンス",
+    "url": "https://special-blow-mold.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー金型や3次元ブロー成形に関するハンドブックを",
+    "url": "https://special-blow-mold.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成形可否判断サービス | サービス | 特殊ブロー金型 設計・製作.com",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "「ブロー成形ってどんなもの？」「自社製品に適用できるの？」「コストはどれくらい？」そんな疑問をお持ちの企業様に向けて、ブロー成形金型の製作を行う当社では、ブロー成形可否判断サービスを提供しています",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "長年のブロー金型製作で培ってきた経験と実績を持つ当社だからこそ、 金型製作の視点 から、お客様の製品のブロー成形への適性を見極めることができます",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "製品図面やサンプルを元にして、ブロー金型構造から考え、より確実にブロー成形で製作可能か判断いたします",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成形は、射出成形と比べて金型費用が安く、複雑な形状にも対応できるため、トータルコストの削減につながる可能性があります",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "特殊ブロー金型 設計・製作.comでは、お客様の製品を詳細に分析し、ブロー成形による具体的なコストメリットを明確にご提示いたします",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、金型構造の簡素化や、材料選定によるコスト削減など、 金型メーカーならではの視点 から、費用対効果の高いご提案をさせていただきます",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ベースで図面でご依頼いただきましたら、ブロー金型製作を行う当社より、製品やお客様のご要望や立地条件に合わせて最適なブロー成形企業様に弊社よりご依頼をさせていただきます",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成形に関する専門的な知識がない場合でも、当社はブロー成形を深く理解したブロー金型のスペシャリストですので、製作可否の判断はもちろん、金型段階で製品品質を高める工夫や技術的な提案をさせていただきます",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "金型設計・製作からブロー成形一貫対応サービス",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "既存製品・金型を基にした新規金型製作 -リバースエンジニアリング-",
+    "url": "https://special-blow-mold.com/service/2350/",
+    "pass": 1
+   },
+   {
+    "quote": "成形機に合わせたブロー金型移管サービス | サービス | 特殊ブロー金型 設計・製作.com",
+    "url": "https://special-blow-mold.com/service/2348/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様がお持ちのブロー成形機に最適なブロー金型を移管いたします",
+    "url": "https://special-blow-mold.com/service/2348/",
+    "pass": 1
+   },
+   {
+    "quote": "過去の豊富な実績を元に、成形機の特性に合わせた金型サイズ、クランプ調整、開閉圧力などを考慮し、最高の性能を引き出すブロー金型をご提供いたします",
+    "url": "https://special-blow-mold.com/service/2348/",
+    "pass": 1
+   },
+   {
+    "quote": "過去の実績を元にした成形機ベースの最適な金型設計・製作が可能！",
+    "url": "https://special-blow-mold.com/service/2348/",
+    "pass": 1
+   },
+   {
+    "quote": "これまで培ってきた経験と実績を活かし、お客様の成形機に合わせて最適なブロー金型を移管（設計・製作）いたします",
+    "url": "https://special-blow-mold.com/service/2348/",
+    "pass": 1
+   },
+   {
+    "quote": "金型のサイズや形状はもちろんのこと、クランプや開閉圧力など、細部にわたって成形機に合わせた調整いたします",
+    "url": "https://special-blow-mold.com/service/2348/",
+    "pass": 1
+   },
+   {
+    "quote": "成形機と金型が不釣り合いの場合も、適切にクランプを機能させる調整を金型側で行うことで、お客様のお求めの製品を製造できる金型を製作いたします",
+    "url": "https://special-blow-mold.com/service/2348/",
+    "pass": 1
+   },
+   {
+    "quote": "継手や位置決めブロックなど金型付属品の製作も可能！",
+    "url": "https://special-blow-mold.com/service/2348/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー金型本体だけでなく、継手や位置決めブロックなど、金型に付随する部品の製作も承ります",
+    "url": "https://special-blow-mold.com/service/2348/",
+    "pass": 1
+   },
+   {
+    "quote": "３次元ブロー金型の製作で培った、スライドの方向や長さや位置等を考慮し、スライドや他機構との干渉を回避する設計力を活かして、金型付属品を製作いたします！",
+    "url": "https://special-blow-mold.com/service/2348/",
+    "pass": 1
+   },
+   {
+    "quote": "金型導入後の調整・メンテナンスも一貫対応！",
+    "url": "https://special-blow-mold.com/service/2348/",
+    "pass": 1
+   },
+   {
+    "quote": "特殊ブロー金型 設計・製作.comでは金型導入後の調整にも対応しています",
+    "url": "https://special-blow-mold.com/service/2348/",
+    "pass": 1
+   },
+   {
+    "quote": "金型を導入したものの、「うまく成形できない」「製品に不具合が出る」といったトラブルが発生することもあります",
+    "url": "https://special-blow-mold.com/service/2348/",
+    "pass": 1
+   },
+   {
+    "quote": "そのような時でも当社にご相談いただきましたら、金型の調整を迅速に行わせていただきます",
+    "url": "https://special-blow-mold.com/service/2348/",
+    "pass": 1
+   },
+   {
+    "quote": "また、ブロー金型のスペシャリストとして、お客様がブロー金型を長く使用いただけるようメンテナンスを行い、必要に応じて修理対応も実施いたします",
+    "url": "https://special-blow-mold.com/service/2348/",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "金型材質の選定、樹脂の収縮率など特性を加味して、詳細な図面データを作成し、金型設計をします",
+    "url": "https://special-blow-mold.com/service/1790/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、形状的に樹脂が膨らみづらい部分には適切なパーティングの分割面を設定したり、溶着リブと呼ばれる構造で割れや剥がれが起きない仕様にする、といったご提案を行っております",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "射出成形は、重ねた金型の隙間（成形品となる部分またはキャビティ内）に溶かして液化した樹脂を高い圧力で注射のように注入し、冷却固化させる成形方法です",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "凸凹の隙間に樹脂を圧入するので、その隙間が製品の肉厚になります",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "異なる樹脂材料を積層させて多層化したパリソンを生成します",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "各種樹脂の特性を利用して、光沢性・耐薬品性・ガスバリア性（酸素）など多層構造の製品を可能にします",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "パイプ状に落ちてくるパリソン（溶融樹脂）を金型の２面（製品形状面）で挟み込み、パリソンの内部から膨らますと、パリソンの外面は金型に密着し、冷却固化をしはじめ製品の外観面を成形します",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、パリソンは溶融樹脂なので、上方から下方に自重で垂れていく”ドローダウン”を生じて”偏肉”になりやすいです",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、偏肉の防止や肉厚をコントロールをするために、成形機の樹脂吐出口（ヘッド）の調整や樹脂の粘度、空気圧の調整など成形条件の最適化と、吹き込みや型締めのタイミングを計る成形技術により対策されています",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "冷却固化の影響も合わさり、樹脂のまわりが悪くなることで薄肉やパンクなどのリスクがあります",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成形は溶融樹脂を垂らして成形するため、製品デザインや金型の設計が要因して様々な事象がありえます",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイレクトブロー成形は、溶融樹脂（パリソン）が自重で重力方向に垂れ下がる”ドローダウン”により上方と下方で偏肉（下方が厚い）が生じます",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "徐々に密着しながらパリソンは冷めて固くなることで樹脂の伸延性は低くなります",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "最終的に底部分に到達した樹脂の肉厚はＰＬ側より薄くなります",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "このＰＬ部分にパリソンを挟んだ場合、樹脂の折れ込みによって盛り上がり、製品内部のＰＬ部分に肉だまり（膨らみ）が発生することがあります",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "金型が閉じるとき、パイプ状のパリソン（溶融樹脂）がＰＬ面に接触する部分に押し潰されて融合（ウェルド）します",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "（樹脂のヒケも関係する）製品外観面に影響はありませんが、この製品内部（ＰＬ部分）の窪みが製品の脆性に悪影響を与えるかもしれません",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイレクトブロー成形はパリソンを縦（天地）に垂らすので、自重で樹脂が下方に垂れるドローダウンが発生し、上方と下方で製品断面の肉厚が不均一となります",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "大部分の樹脂を噛まないことで、製品外観面と寸法精度も良くなります",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "また、パリソンを誘導できる利点から樹脂材料を交互に切り替えて硬質部分と軟質部分を一体で成形することができます",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂を金型の形状面に密着させて、水冷や空冷といった冷却工程で硬化させる成形方法です",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "開いた金型の間に、肉厚が一定となるようにしたパイプ状の溶融樹脂を縦方向(天地方向)へ直線的に垂らします",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "膨らむと同時に残留した空気と樹脂から発生するガスをベントを通じて金型外へ排気します",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "そして樹脂を金型の形状面に密着させて、水冷や空冷といった冷却工程で硬化させる成形方法です",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成形品の樹脂材料で、過去にどのような実績がありますか？",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "熱可塑性樹脂となり、",
+    "url": "https://special-blow-mold.com/service/575/",
+    "pass": 1
+   },
+   {
+    "quote": "FRP製品からPP樹脂製品のマネキンへ置き換え",
+    "url": "https://special-blow-mold.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "ガラスの電球カバーを樹脂に置き換えて、破損リスクを軽減！",
+    "url": "https://special-blow-mold.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成形は、樹脂を風船のように膨らませるイメージ",
+    "url": "https://special-blow-mold.com/news/3089/",
+    "pass": 1
+   },
+   {
+    "quote": "肩紐を通す射出成形品と樹脂製ナット各々２個インサートしています",
+    "url": "https://special-blow-mold.com/news/3089/",
+    "pass": 1
+   },
+   {
+    "quote": "では、型締め時にパイプ状のパリソン（溶融樹脂）がPL面（パーティングライン）で押し潰されて融合する際、",
+    "url": "https://special-blow-mold.com/vave/3398/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂が押し潰される際の流動と融合状態をコントロール",
+    "url": "https://special-blow-mold.com/vave/3398/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、樹脂流動解析で問題がなくても、実成形時に予期せぬヒケ（窪み）が発生し、不良品となってしまうケースがあります",
+    "url": "https://special-blow-mold.com/vave/3398/",
+    "pass": 1
+   },
+   {
+    "quote": "また、樹脂を溶かす加熱後の加圧（圧着）で、接合部のバリ（余肉）が多くできたりするため美観性にも影響を与えます",
+    "url": "https://special-blow-mold.com/vave/1171/",
+    "pass": 1
+   },
+   {
+    "quote": "「この複雑な空洞形状、樹脂で抜けるの？」を解決する、3次元ブロー金型のプロ集団",
+    "url": "https://mono.ipros.com/company/detail/2080107/",
+    "pass": 3
+   },
+   {
+    "quote": "「複雑な空洞形状を樹脂で作れないか」「金属部品を樹脂化して軽量化したい」といった設計・開発者様のSOSを解決します",
+    "url": "https://mono.ipros.com/company/detail/2080107/",
+    "pass": 3
+   },
+   {
+    "quote": "金属からの「樹脂化・軽量化」ニーズにお応えします",
+    "url": "https://mono.ipros.com/company/detail/2080107/",
+    "pass": 3
+   },
+   {
+    "quote": "【コストダウン・軽量化】他材質・他工法からのブロー成形化提案",
+    "url": "https://mono.ipros.com/company/detail/2080107/",
+    "pass": 3
+   },
+   {
+    "quote": "当日は、複雑な中空形状を実現する金型のサンプル展示はもちろん、「こんな形状、樹脂で作れる？」「金属から樹脂化して軽くしたい」といった設計・開発の図面相談（ラフスケッチでもOK）をブースにて無料で承ります",
+    "url": "https://mono.ipros.com/company/detail/2080107/",
+    "pass": 3
+   },
+   {
+    "quote": "・金属部品の樹脂化（軽量化）を検討されている方",
+    "url": "https://mono.ipros.com/company/detail/2080107/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "※配信停止をご希望の方は末尾の配信停止用メールアドレスよりご連絡ください",
+    "url": "https://special-blow-mold.com/news/3310/",
+    "pass": 1
+   },
+   {
+    "quote": "◆◇お問い合わせ先 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+    "url": "https://special-blow-mold.com/news/3310/",
+    "pass": 1
+   },
+   {
+    "quote": "Email：info@chuuetsu.co.jp",
+    "url": "https://special-blow-mold.com/news/3310/",
+    "pass": 1
+   },
+   {
+    "quote": "本メールマガジンの配信停止をご希望される方は下記よりご対応ください",
+    "url": "https://special-blow-mold.com/news/3310/",
+    "pass": 1
+   },
+   {
+    "quote": "※配信停止をご希望の方は末尾の配信停止用メールアドレスよりご連絡ください",
+    "url": "https://special-blow-mold.com/news/3089/",
+    "pass": 1
+   },
+   {
+    "quote": "◆◇お問い合わせ先 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+    "url": "https://special-blow-mold.com/news/3089/",
+    "pass": 1
+   },
+   {
+    "quote": "Email：info@chuuetsu.co.jp",
+    "url": "https://special-blow-mold.com/news/3089/",
+    "pass": 1
+   },
+   {
+    "quote": "本メールマガジンの配信停止をご希望される方は下記よりご対応ください",
+    "url": "https://special-blow-mold.com/news/3089/",
+    "pass": 1
+   },
+   {
+    "quote": "※配信停止をご希望の方は末尾の配信停止用メールアドレスよりご連絡ください",
+    "url": "https://special-blow-mold.com/news/3088/",
+    "pass": 1
+   },
+   {
+    "quote": "◆◇お問い合わせ先 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+    "url": "https://special-blow-mold.com/news/3088/",
+    "pass": 1
+   },
+   {
+    "quote": "Email：info@chuuetsu.co.jp",
+    "url": "https://special-blow-mold.com/news/3088/",
+    "pass": 1
+   },
+   {
+    "quote": "本メールマガジンの配信停止をご希望される方は下記よりご対応ください",
+    "url": "https://special-blow-mold.com/news/3088/",
+    "pass": 1
+   },
+   {
+    "quote": "※配信停止をご希望の方は末尾の配信停止用メールアドレスよりご連絡ください",
+    "url": "https://special-blow-mold.com/news/3085/",
+    "pass": 1
+   },
+   {
+    "quote": "◆◇お問い合わせ先 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+    "url": "https://special-blow-mold.com/news/3085/",
+    "pass": 1
+   },
+   {
+    "quote": "Email：info@chuuetsu.co.jp",
+    "url": "https://special-blow-mold.com/news/3085/",
+    "pass": 1
+   },
+   {
+    "quote": "本メールマガジンの配信停止をご希望される方は下記よりご対応ください",
+    "url": "https://special-blow-mold.com/news/3085/",
+    "pass": 1
+   },
+   {
+    "quote": "※配信停止をご希望の方は末尾の配信停止用メールアドレスよりご連絡ください",
+    "url": "https://special-blow-mold.com/news/3081/",
+    "pass": 1
+   },
+   {
+    "quote": "◆◇お問い合わせ先 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+    "url": "https://special-blow-mold.com/news/3081/",
+    "pass": 1
+   },
+   {
+    "quote": "Email：info@chuuetsu.co.jp",
+    "url": "https://special-blow-mold.com/news/3081/",
+    "pass": 1
+   },
+   {
+    "quote": "本メールマガジンの配信停止をご希望される方は下記よりご対応ください",
+    "url": "https://special-blow-mold.com/news/3081/",
+    "pass": 1
+   },
+   {
+    "quote": "※配信停止をご希望の方は末尾の配信停止用メールアドレスよりご連絡ください",
+    "url": "https://special-blow-mold.com/news/3075/",
+    "pass": 1
+   },
+   {
+    "quote": "◆◇お問い合わせ先 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+    "url": "https://special-blow-mold.com/news/3075/",
+    "pass": 1
+   },
+   {
+    "quote": "Email：info@chuuetsu.co.jp",
+    "url": "https://special-blow-mold.com/news/3075/",
+    "pass": 1
+   },
+   {
+    "quote": "本メールマガジンの配信停止をご希望される方は下記よりご対応ください",
+    "url": "https://special-blow-mold.com/news/3075/",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "大型マシニングセンタ導入、またCAD/CAMによる自動加工も開始",
+    "url": "https://chuuetsu.co.jp/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式 会社中越製作所 — 株式 会社中越製作所 株式会社中越製作所 https://chuuetsu.co.jp",
+    "url": "https://chuuetsu.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "中越製作所 | 企業 情報 | イプロスものづくり — 中越製作所 | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2080107/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 中越製作所 - 会社概要 - engineer — 株式会社 中越製作所 - 会社概要 - engineer atengineer.com https://www.atengineer.com > chuuetsu > company",
+    "url": "https://www.atengineer.com/pr/chuuetsu/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 中越製作所 （東京都）の 会社概要 ・役員 | Compalyze — 株式会社 中越製作所 （東京都）の 会社概要 ・役員 | Compalyze Compalyze https://compalyze.co.jp > 企業検索 > 機械・設備",
+    "url": "https://compalyze.co.jp/company/7011701005858",
+    "pass": 3
+   },
+   {
+    "quote": "お問合せ | 株式会社 中越製作所 — お問合せ | 株式会社 中越製作所 株式会社中越製作所 https://chuuetsu.co.jp > contact",
+    "url": "https://chuuetsu.co.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 中越製作所 (@chuuetsu_MFG) / X 株式会社 中越製作所 (@chuuetsu_MFG) / X X https://x.com > chuuetsu_MFG",
+    "url": "https://x.com/chuuetsu_MFG",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 中越製作所 on X: \"木曜お疲れ様です 残暑と湿気は 株式会社 中越製作所 on X: \"木曜お疲れ様です 残暑と湿気は X https://x.com > @chuuetsu_MFG",
+    "url": "https://x.com/chuuetsu_MFG/status/2092884831642558552?utm_source=yjrealtime&utm_medium=search",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://special-blow-mold.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special-blow-mold.com/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special-blow-mold.com/service/2350/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special-blow-mold.com/service/2348/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special-blow-mold.com/service/1989/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special-blow-mold.com/service/1790/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special-blow-mold.com/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special-blow-mold.com/reason/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special-blow-mold.com/service/575/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special-blow-mold.com/service/1140/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special-blow-mold.com/service/579/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special-blow-mold.com/service/583/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special-blow-mold.com/vave/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special-blow-mold.com/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special-blow-mold.com/news/3310/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special-blow-mold.com/news/3089/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special-blow-mold.com/news/3088/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special-blow-mold.com/news/3085/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special-blow-mold.com/news/3081/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special-blow-mold.com/news/3075/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special-blow-mold.com/vave/3398/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special-blow-mold.com/column/3614/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special-blow-mold.com/vave/1171/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://special-blow-mold.com/cms/wp-content/uploads/2024/07/cc8a18743f933c00025856afa9b5641d.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://special-blow-mold.com/cms/wp-content/uploads/2024/02/38c026aef5e2feaeac7ce8b572f098e8-800x600.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://special-blow-mold.com/cms/wp-content/uploads/2024/09/b25e0264c4c7d97cce74bed26cf17928-800x600.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://special-blow-mold.com/cms/wp-content/uploads/2024/07/cc8a18743f933c00025856afa9b5641d.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://special-blow-mold.com/cms/wp-content/uploads/2024/07/a890474dc36a00f2bb5a6ff393edcb3f-800x600.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://special-blow-mold.com/cms/wp-content/uploads/2023/10/10871-e1720159740981-800x600.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://special-blow-mold.com/cms/wp-content/uploads/2026/04/6fe1454186ea3ab9728d4a984fd1c33e-800x600.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://special-blow-mold.com/cms/wp-content/uploads/2025/03/Slide3-800x600.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://special-blow-mold.com/cms/wp-content/uploads/2025/07/72928d11595d42717cdea8107052c82f-800x600.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://special-blow-mold.com/cms/wp-content/uploads/2025/07/Slide1-800x600.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://special-blow-mold.com/cms/wp-content/uploads/2024/11/Slide1-2-800x600.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://special-blow-mold.com/cms/wp-content/uploads/2023/09/vave13-b.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg-hack.com/plastic/10134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuuetsu.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2080107/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/chuuetsu/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chuetsu-pulp.co.jp/contact/form_jp.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuuetsu.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://kk-chuetsu.co.jp/contact/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/chuuetsu_MFG",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/chuuetsu_MFG/status/2092884831642558552?utm_source=yjrealtime&utm_medium=search",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/chuuetsu_MFG",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "中越製作所 取扱製品 試作 小ロット",
+   "results": [
+    "https://injection-lab.com/technology/64-2.html",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "http://www.agata-ss.co.jp/small/",
+    "https://injection-fuchu.com/column/1203/",
+    "https://www.watanabe-mfg.co.jp/business/mold/",
+    "https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%B0%8F%E3%83%AD%E3%83%83%E3%83%88/",
+    "https://www.rd-stuff.com/injectionmolding-lp/",
+    "https://www.chuuetsu.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "中越製作所 会社概要 事業内容",
+   "results": [
+    "https://chuuetsu.co.jp/",
+    "https://mono.ipros.com/company/detail/2080107/",
+    "https://www.atengineer.com/pr/chuuetsu/company",
+    "https://www.chuetsu-pulp.co.jp/company/outline.html",
+    "https://compalyze.co.jp/company/7011701005858",
+    "https://eigyo-mfg.com/service/navi/company/MCQNOsVTvQIm",
+    "https://www.nakanishi.co.jp/corporate/outline.html",
+    "https://www.nakakita-s.co.jp/company/outline",
+    "https://www.chuetsu-group.co.jp/company/",
+    "https://www.chuuetsu.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "中越製作所 お問い合わせ メール",
+   "results": [
+    "https://www.chuetsu-pulp.co.jp/contact/form_jp.php",
+    "https://chuuetsu.co.jp/contact/",
+    "http://kk-chuetsu.co.jp/contact/",
+    "https://special-blow-mold.com/contact/",
+    "https://www.chuetsutec.jp/contact",
+    "https://www.chuetsu-lace.co.jp/mailform/contact.html",
+    "https://www.chuetsuyeast.co.jp/contact/",
+    "https://www.nakakita-s.co.jp/contact",
+    "https://www.cfs-net.jp/contact/",
+    "https://chuetsukogyo.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 中越製作所",
+   "results": [
+    "https://note.com/wakabayashi1830/n/nbe1a9ac512d3",
+    "https://note.com/utsu_taro/n/n108c972d3e45",
+    "https://note.com/yuniko0206/n/n2176dc09e8ed",
+    "https://note.com/kdbtfc/n/n3c1fe5a46419",
+    "https://note.com/hiroco_s/n/n8ea6fc6cd234",
+    "https://note.com/smz_breakers/n/nfe280c55ca0a",
+    "https://note.com/kabu_times/n/n3bd91a95e5d2",
+    "https://note.com/tatsuya_sabato/n/n26f24215bac4",
+    "https://note.com/yu_pi0000/n/n20c8dc218f3b",
+    "https://note.com/chuetsukogyo/n/n82926c9e6148?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 中越製作所",
+   "results": [
+    "https://x.com/chuuetsu_MFG",
+    "https://x.com/chuuetsu_MFG/status/2092884831642558552?utm_source=yjrealtime&utm_medium=search",
+    "https://x.com/niigatajob/status/2107733381593370779",
+    "https://x.com/shibatorakotsu/status/1880145524696969462",
+    "https://x.com/sorave55/status/2114365111527972940",
+    "https://x.com/issokusamurai",
+    "https://x.com/hashtag/%E3%81%82%E3%81%A864%E6%97%A5",
+    "https://x.com/UtsunomiyaSeisa",
+    "https://x.com/sorave55/status/2118544122109919603",
+    "https://x.com/chuuetsu_MFG/with_replies"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com 中越製作所",
+   "results": [
+    "https://www.linkedin.com/pub/dir/%E5%85%89%E5%8F%B2/+",
+    "https://www.linkedin.com/pub/dir/+/%E6%A3%AE%E5%B1%8B",
+    "https://jp.linkedin.com/in/yusuke-awane-4895549a",
+    "https://jp.linkedin.com/in/%E6%98%8E-%E9%AB%98%E9%87%8E-093bba210",
+    "https://www.linkedin.com/pub/dir/+/%E3%81%AA%E3%81%8B/jp-7654-%E6%97%A5%E6%9C%AC-%E6%84%9B%E7%9F%A5%E7%9C%8C/",
+    "https://www.linkedin.com/pub/dir/+/%E6%B3%A2%E5%A4%9A%E9%87%8E",
+    "https://jp.linkedin.com/in/tomoharu-nakanishi-941a9615",
+    "https://jp.linkedin.com/in/%E5%8D%83%E5%A4%8F-%E6%A0%B9%E6%B4%A5-93a276216",
+    "https://www.linkedin.com/pub/dir/Hiroki/Takahashi"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com 中越製作所",
+   "results": [
+    "https://www.facebook.com/hokurikuss/",
+    "https://www.facebook.com/cds625/posts/%E4%B8%AD%E8%B6%8A%E8%87%AA%E5%8B%95%E8%BB%8A%E5%AD%A6%E6%A0%A1%E6%9D%AF%E4%BA%89%E5%A5%AA-%E6%96%B0%E6%BD%9F%E7%9C%8C%E4%B8%AD%E5%AD%A6%E6%A0%A1%E3%83%90%E3%83%AC%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB%E9%95%B7%E5%B2%A1%E5%A4%A7%E4%BC%9A-6%E6%9C%884%E6%97%A5%E9%87%911900-%E5%88%9D%E5%9B%9E%E6%94%BE%E9%80%81-4%E6%9C%8825%E6%97%A5%E3%81%AB%E8%A1%8C%E3%82%8F%E3%82%8C%E3%81%9F-%E3%83%90%E3%83%AC%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB%E3%81%AE%E5%A4%A7%E4%BC%9A%E3%82%92-%E6%94%BE%E9%80%81%E3%81%97%E3%81%BE%E3%81%99-%E5%87%BA%E5%A0%B4%E9%81%B8%E6%89%8B%E3%81%AE%E7%86%B1%E3%81%84%E6%88%A6%E3%81%84/4283871158310186/",
+    "https://www.facebook.com/nagaokajyfc/posts/u12%E4%B8%AD%E8%B6%8A%E3%83%AA%E3%83%BC%E3%82%B0trm%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E4%B8%AD%E8%B6%8A%E3%83%AA%E3%83%BC%E3%82%B0%E5%9F%BA%E6%BA%96%E3%81%AF%E9%AB%98%E3%81%8F%E7%9F%A2%E5%8D%B0%E3%81%AF%E8%87%AA%E5%88%86%E3%81%AB%E5%B8%B8%E3%81%AB%E3%81%86%E3%82%8B%E3%81%95%E3%81%8Ftrm%E9%81%A0%E6%96%B9%E3%81%8B%E3%82%89%E5%AF%8C%E5%B1%B1sv%E6%A7%98%E5%B0%91%E3%81%97%E9%81%A0%E6%96%B9%E3%81%8B%E3%82%89%E5%A4%A7%E5%92%8C%E6%A7%98%E3%81%84%E3%81%A4%E3%82%82%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%EF%B8%8F%E4%B8%AD%E8%B6%8A%E3%83%AA%E3%83%BC%E3%82%B0%E3%81%A7/1377206321101174/",
+    "https://m.facebook.com/100064354585329/photos/777011877787291/",
+    "https://www.facebook.com/matudai.syhjyou/posts/%E6%98%8E%E6%97%A5%EF%BC%91%EF%BC%92%E6%97%A5%E3%81%AF%E6%96%B0%E6%BD%9F%E7%9C%8C%E7%8C%9F%E5%8F%8B%E4%BC%9A%E5%AE%89%E5%85%A8%E7%8B%A9%E7%8C%9F%E5%B0%84%E6%92%83%E5%A4%A7%E4%BC%9A%E3%81%AE%E5%87%BA%E5%A0%B4%E8%80%85%E4%BA%88%E9%81%B8%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E4%BD%B5%E3%81%9B%E3%81%A6%E4%B8%AD%E8%B6%8A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E4%B8%89%E9%AD%9A%E6%B2%BC%E3%81%AE%E5%90%84%E5%B0%84%E6%92%83%E5%A4%A7%E4%BC%9A%E3%81%AE%E5%87%BA%E5%A0%B4%E8%80%85%E6%B1%BA%E5%AE%9A%E3%81%AE%E5%A4%A7%E4%BC%9A%E3%81%A7%E3%82%82%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E5%BD%93%E6%97%A5%EF%BC%99%EF%BC%90%EF%BC%90%E3%81%BE%E3%81%A7%E3%81%AB%E5%8F%97%E4%BB%98%E3%82%92/2343496959022597/",
+    "https://www.facebook.com/nagaokajyfc/posts/u12%E9%80%B1%E6%9C%AB%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A1%E7%99%BA%E7%9B%AE%E3%81%AF%E4%B8%AD%E8%B6%8A%E3%83%AA%E3%83%BC%E3%82%B0-jy-vs-%E3%83%9A%E3%82%AF%E3%83%BC%E3%83%8E%E3%82%A2%E3%83%84%E3%82%A2%E3%83%84%E3%81%AA%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AFjy%E3%81%AB%E8%BB%8D%E9%85%8D%E3%83%9A%E3%82%AF%E3%83%BC%E3%83%8E%E9%81%B8%E6%89%8B%E3%81%8B%E3%82%89%E6%B6%99%E3%82%82%E6%A7%98%E3%80%85%E3%81%AA%E6%83%B3%E3%81%84%E3%81%8C%E5%85%A5%E3%82%8A%E4%BA%A4%E3%81%98%E3%82%8A%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%84%E3%81%A7%E3%81%97%E3%81%9F%EF%B8%8Fjy%E3%81%AF2%E5%8B%9D%E3%81%A7%E6%B1%BA/1393337676154705/",
+    "https://www.facebook.com/hoshigaoka.kochi/posts/%E4%B8%AD%E8%B6%8A%E4%BB%A4%E5%AD%90%E3%81%95%E3%82%93%E3%81%AEhappy-crazy-quiltlomlom%E3%83%96%E3%83%AD%E3%83%BC%E3%83%81%E5%B1%95%E6%9C%AC%E6%97%A5%E6%9C%80%E7%B5%82%E6%97%A5%E3%81%A7%E3%81%99%E6%9C%9D%E3%82%A4%E3%83%81%E3%81%AE%E3%81%8A%E5%AE%A2%E6%A7%98%E5%85%A5%E3%81%A3%E3%81%A6%E6%9D%A5%E3%82%8B%E3%81%AA%E3%82%8A%E3%82%AB%E3%83%84%E3%82%AA%E3%81%8F%E3%81%A0%E3%81%95%E3%81%81%E3%81%84%E3%81%AB%E3%83%86%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E4%B8%8A%E3%81%8C%E3%82%8A%E3%81%BE%E3%81%8F%E3%82%8A%E3%81%A7%E3%81%99%E7%9A%86%E3%81%95/257467986383141/",
+    "https://www.facebook.com/chuojunko/videos/%E5%BC%B7%E5%8C%96%E7%B7%B4%E7%BF%92%E6%9C%9F%E9%96%93-7%E6%97%A5%E7%9B%AE%E9%81%B8%E6%89%8B%E9%81%94%E3%81%8B%E3%82%89%E3%81%AE%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88%E6%9C%8D%E9%83%A8-%E5%BA%B7%E5%A4%AA%E9%83%8E4%E5%B9%B4-%E5%A4%A7%E9%98%AA%E5%81%95%E6%98%9F%E5%8F%8B%E7%94%B0-%E7%9C%9F%E5%BF%973%E5%B9%B4-%E9%83%BD%E5%9F%8E%E5%95%86%E6%A5%AD%E4%BD%90%E8%97%A4-%E9%BE%8D%E4%B9%8B%E4%BB%8B2%E5%B9%B4-%E8%83%BD%E4%BB%A3%E6%9D%BE%E9%99%BD%E5%B0%8F%E6%9E%97-%E6%B4%B8%E8%AA%A01%E5%B9%B4-%E4%B8%AD%E8%B6%8A/314747139802566/",
+    "https://www.facebook.com/gojptime/posts/%E5%B0%B1%E5%BF%AB%E9%81%8A%E5%88%B0%E6%97%A5%E6%83%85%E5%A0%B1%E6%96%B0%E6%BD%9F%E7%89%87%E6%9C%A8%E8%95%8E%E9%BA%A5%E9%BA%B5%E5%BF%85%E5%90%83%E9%AB%98%E7%87%9F%E9%A4%8A%E6%B5%B7%E8%97%BB%E8%95%8E%E9%BA%A5%E7%89%87%E6%9C%A8%E8%95%8E%E9%BA%A5%E9%BA%B5%E7%99%BC%E6%BA%90%E6%96%BC%E6%96%B0%E6%BD%9F%E7%B8%A3%E4%B8%AD%E5%BF%83%E5%9C%B0%E5%B8%B6%E7%9A%84%E4%B8%AD%E8%B6%8A%E5%9C%B0%E5%8D%80%E7%89%B9%E5%BE%B5%E6%98%AF%E5%8E%9F%E6%9D%90%E6%96%99%E5%90%AB%E6%9C%89%E4%B8%80%E7%A8%AE%E5%8F%AB%E5%B8%83%E6%B5%B7%E8%8B%94%E7%9A%84%E6%B5%B7%E8%97%BB%E4%BB%A5%E5%8F%8A%E6%9C%83%E5%B0%87%E9%BA%B5%E6%A2%9D%E5%88%86%E6%88%90%E4%B8%80%E5%8F%A3%E4%BB%BD%E9%87%8F%E8%A3%9D%E5%9C%A8%E4%BD%BF%E7%94%A8%E5%90%8D%E7%82%BAhe/3374993699250398/",
+    "https://www.facebook.com/kamonankansc/posts/gw%E3%81%AEu12u12%E3%81%AF%E6%9C%AC%E6%97%A5%E4%B8%AD%E8%B6%8A%E3%83%AA%E3%83%BC%E3%82%B0%E5%89%8D%E6%9C%9F1st%E6%9C%80%E7%B5%82%E6%97%A5%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%B8%E3%83%A5-7-0-%E5%88%86%E6%B0%B4%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%B8%E3%83%A5-3-1-%E5%90%89%E7%94%B0%E5%89%8D%E6%9C%9F1st%E3%82%92%E5%85%A8%E5%8B%9D%E3%81%A7%E7%B5%82%E3%81%88%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E5%87%BA%E6%9D%A5%E3%81%BE%E3%81%97%E3%81%9F%E3%81%95%E3%81%82/1080272044129646/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "中越製作所 note 社長",
+   "results": [
+    "https://chuuetsu.co.jp/",
+    "https://note.com/amagasaki_mono/n/na20d8c674dab",
+    "https://mono.ipros.com/company/detail/2080107/",
+    "https://note.com/fundinno/n/nb630599f26c6",
+    "https://www.instagram.com/chuuetsu_mfg/",
+    "https://x.com/chuuetsu_MFG",
+    "https://eigyo-mfg.com/service/navi/company/MCQNOsVTvQIm",
+    "https://note.com/kyushu_catalyst/n/nf66757ce2aa0"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "中越製作所 X 投稿",
+   "results": [
+    "https://x.com/chuuetsu_MFG",
+    "https://chuuetsu.co.jp/",
+    "https://www.instagram.com/chuuetsu_mfg/",
+    "https://www.youtube.com/@chuuetsu",
+    "https://www.atengineer.com/pr/chuuetsu/company",
+    "https://special-blow-mold.com/cms/wp-content/uploads/2026/04/Blow_Molding_Success_Blueprint_7.pdf",
+    "https://compalyze.co.jp/company/7011701005858",
+    "https://www.manufacturing-world.jp/tokyo/en-gb/search/2026mto0701/directory/directory-details.%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%B8%AD%E8%B6%8A%E8%A3%BD%E4%BD%9C%E6%89%80.org-65493dd5-0e5b-43b8-b719-0c1ac3e32e64.html",
+    "https://x.com/chuuetsu_MFG/status/2120063920715059604",
+    "https://x.com/chuuetsu_MFG/with_replies"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式23頁／PDF・画像12件／外部12頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式23頁／PDF・画像12件／外部12頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式23頁／PDF・画像12件／外部12頁・検索9回）"
+ }
+}

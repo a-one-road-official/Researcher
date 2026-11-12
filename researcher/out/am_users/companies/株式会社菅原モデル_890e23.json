@@ -1,0 +1,579 @@
+{
+ "name": "株式会社菅原モデル",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T23:42:42.827644+00:00",
+ "official_url": "http://www.sugawaramodel.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "菅原 公一",
+    "url": "https://www.sugawaramodel.co.jp/company",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社・工場",
+    "value": "〒252-0244 神奈川県相模原市中央区田名3156-4",
+    "url": "https://www.sugawaramodel.co.jp/company",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1名(その他専門検査員数名 )",
+    "url": "https://www.sugawaramodel.co.jp/company",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "プロダクトデザイン、製品開発段階での試作品製造、 自動車バイク部品製造",
+    "url": "https://www.sugawaramodel.co.jp/company",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "製品1個からでもまずはご相談下さい",
+    "url": "https://www.sugawaramodel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクトデザイン、製品開発段階での試作品製造、",
+    "url": "https://www.sugawaramodel.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "ホビー・アミューズメント関連などのユニークな製品から、自動車部品・医療器具・セキュリティ機器まで、多種多様な業界の実績から、適正な提案を行います",
+    "url": "https://www.sugawaramodel.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "大型樹脂成形品の小ロット生産や、生涯生産台数の少ない製品の",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は、量産前の開発過程で、商品イメージ検討や性能テストを担うモデル製品の作成を行っています",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "マグネシウム３D加工など、新しい試作のニーズに応えて、難易度が高い製品なども取り扱っております",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス一覧 (42)",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "、製品・技術・サービス",
+    "url": "https://www.atengineer.com/pr/sugawaramodel/company",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発時の試作モデル、機構部品・注型・金型・板金、構造設計・回路設計などを行う",
+    "url": "https://www.atengineer.com/pr/sugawaramodel/company",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "また樹脂切削による試作品だけでなく、簡易試作金型の製作や、1個～10,000個程度までの小ロット成形に対応",
+    "url": "https://www.sugawaramodel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂から金属まで様々なご要望にお応えできます",
+    "url": "https://www.sugawaramodel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また樹脂切削による試作品だけでなく、簡易試作金型の製作や、1個～10,000個程度までの小ロット成形にも対応",
+    "url": "https://www.sugawaramodel.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "『金属・樹脂部品の試作・小ロット成形・量産』※加工事例進呈 菅原モデル | イプロスものづくり",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "『金属・樹脂部品の試作・小ロット成形・量産』※加工事例進呈",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "大型樹脂成形品の小ロット生産や、生涯生産台数の少ない製品の",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "◎樹脂加工：切削・粉体造形、3Dプリンター加工、",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "マグネシウム３D加工など、新しい試作のニーズに応えて、難易度が高い製品なども取り扱っております",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "弊社は商品イメージ検討用のデザインモデルや性能テスト用の試作品、量産前試作、",
+    "url": "https://www.sugawaramodel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロットから大量の量産、仕上、簡易的な組み立てまで一貫生産対応が可能です",
+    "url": "https://www.sugawaramodel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "試作品製造／真空注型／金型成形／板金・プレス／ダイカスト鋳造／表面処理 アルマイトetc／各種塗装／シルク印刷",
+    "url": "https://www.sugawaramodel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また樹脂切削による試作品だけでなく、簡易試作金型の製作や、1個～10,000個程度までの小ロット成形に対応",
+    "url": "https://www.sugawaramodel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また樹脂切削による試作品だけでなく、簡易試作金型の製作や、1個～10,000個程度までの小ロット成形にも対応",
+    "url": "https://www.sugawaramodel.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクトデザイン、製品開発段階での試作品製造、",
+    "url": "https://www.sugawaramodel.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "金型による小ロット成形品、",
+    "url": "https://www.sugawaramodel.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "１個の手作り試作から、量産性に配慮した金型製作、トライ成形と検証、実機の小ロット量産まで、モノづくりのプロセスを支援します",
+    "url": "https://www.sugawaramodel.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "『金属・樹脂部品の試作・小ロット成形・量産』※加工事例進呈 菅原モデル | イプロスものづくり",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "『金属・樹脂部品の試作・小ロット成形・量産』※加工事例進呈",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "性能テスト用の試作から2万個程度の小ロット生産まで対応",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、商品イメージ検討用のモデル製作から、性能テスト用の試作、",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "量産前の試作、量産初期の小ロット生産までトータルで行っています",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "大型樹脂成形品の小ロット生産や、生涯生産台数の少ない製品の",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "また、試作時のデータをそのまま活用し短期間での金型完成も可能です",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "マグネシウム３D加工など、新しい試作のニーズに応えて、難易度が高い製品なども取り扱っております",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "試作加工とは？営業担当者必見のコスト削減に効く方法",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "【受託】研究装置用の精密部品｜図面から単品・試作加工",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "工法転換｜溶接・組立品をアルミ鋳物で一体化 1個から試作",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発時の試作モデル、機構部品・注型・金型・板金、構造設計・回路設計などを行う",
+    "url": "https://www.atengineer.com/pr/sugawaramodel/company",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "試作品製造／真空注型／金型成形／板金・プレス／ダイカスト鋳造／表面処理 アルマイトetc／各種塗装／シルク印刷",
+    "url": "https://www.sugawaramodel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また樹脂切削による試作品だけでなく、簡易試作金型の製作や、1個～10,000個程度までの小ロット成形に対応",
+    "url": "https://www.sugawaramodel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "スポーツ機器、精密機器、特殊機器(通信・検査・海洋など）、自動車部品、医療機器など",
+    "url": "https://www.sugawaramodel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "国内外に多数の協力会社を所有する当社では筐体・外装品の成形については、小型～中型の民生機器から大型のスポーツ機器、精密機器、特殊機器（通信・検査・海洋など）、医療機器まで幅広い実績を誇ります",
+    "url": "https://www.sugawaramodel.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "また樹脂切削による試作品だけでなく、簡易試作金型の製作や、1個～10,000個程度までの小ロット成形にも対応",
+    "url": "https://www.sugawaramodel.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "金型による小ロット成形品、",
+    "url": "https://www.sugawaramodel.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "ホビー・アミューズメント関連などのユニークな製品から、自動車部品・医療器具・セキュリティ機器まで、多種多様な業界の実績から、適正な提案を行います",
+    "url": "https://www.sugawaramodel.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "１個の手作り試作から、量産性に配慮した金型製作、トライ成形と検証、実機の小ロット量産まで、モノづくりのプロセスを支援します",
+    "url": "https://www.sugawaramodel.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "★自動車部品や建設模型などを掲載した「加工事例資料」を進呈中！",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "事例付き資料『量産金型・簡易金型・注型によるコスト削減のご提案』",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "また、試作時のデータをそのまま活用し短期間での金型完成も可能です",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボット分野、輸送機器など 産業機器用部品",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発時の試作モデル、機構部品・注型・金型・板金、構造設計・回路設計などを行う",
+    "url": "https://www.atengineer.com/pr/sugawaramodel/company",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "また、定期的にメールの確認もいたしますが、",
+    "url": "https://www.sugawaramodel.co.jp/",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "ダイキャスト加工、SLM（金属3Dプリンター）加工など",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "◎樹脂加工：切削・粉体造形、3Dプリンター加工、",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "ワークサイズ表_3Dプリンタ",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   },
+   {
+    "quote": "特にお急ぎのお客さまへは、光造形でマスタ－製作し、そのまま注型品完成まで、対応が可能です",
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社菅原モデル — 菅原モデルは商品イメージ検討用のデザインモデルや性能テスト用の試作品,量産前試作,小ロット~大量の量産,仕上,簡易的な組み立てまで一貫生産対応が可能な製造のスペシャリストです。",
+    "url": "https://www.sugawaramodel.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "試作 | 株式会社菅原モデル — 試作 金属・樹脂のマシニング加工 お客様のご要望に沿った、加工方法にて試作製作 試作・小ロット品に幅広く対応しています。 金属では五軸加工での精密加工や板金、プレス加工など 樹脂では粉体造形・光造形・真空注型など",
+    "url": "https://www.sugawaramodel.co.jp/works",
+    "pass": 3
+   },
+   {
+    "quote": "菅原モデルの製品・サービス一覧｜イプロスものづくり — 菅原モデルは、金属・樹脂の試作から小ロット品、量産品に幅広く対応しています。 材質・数量・精度・サイズ・コストなど、お客様のご要望に応じて 適切な工法により製品を加工。",
+    "url": "https://mono.ipros.com/company/detail/2002775/category/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | 株式会社菅原モデル株式会社菅原モデル菅原モデル | 企業情報 | イプロスものづくり株式会社菅原モデル - 会社概要会社概要｜株式会社菅原 - kk-sugahara.co.jp株式会社菅原株式会社 菅原モデル 神奈川県 相模原市中央区 — また樹脂切削による試作品だけでなく、簡易試作金型の製作や、1個～10,000個程度までの小ロット成形にも対応。 初期のデザインモデルを切削しながら、量産化に向けたご提案をさせていただき、管理工数やリードタイムの削減に貢献します。 菅原モデルは商品イメージ検討用のデザインモデルや性能テスト用の試作品,量産前試作,小ロット~大量の量産,仕上,簡易的な組み立てまで一貫生産対応が可能な製造のスペシャリストです。 弊社は、量産前の開発過程で、商品イメージ検討や性能テストを担うモデル製品の作成を行っています。 お客様のご希望に応じ1個からの製作をお受",
+    "url": "https://www.sugawaramodel.co.jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社菅原モデル - 会社概要 — 企業プロフィール 企業名 株式会社菅原モデル 企業名かな すがわらもでる 住所 〒229-1124 神奈川県相模原市田名2214−1 代表者名 菅原 正弘 ホームページ 株式会社菅原モデルのホームページ",
+    "url": "https://www.atengineer.com/pr/sugawaramodel/company",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜株式会社菅原 - kk-sugahara.co.jp株式会社菅原株式会社 菅原モデル 神奈川県 相模原市中央区 — TEL（093）681-8361 FAX（093）671-0293 企業情報 会社概要 企業理念 役員 沿革 主な納入先 主な仕入先 ISO 事業紹介 鉄鋼プラント設備 電力・エネルギー設備 公共・環境設備 産業用設備・機器 石油化学プラント設備 その他の設備 営業所一覧 採用情報 心を合わせ、力を合わせ、助け合って、夢と活力のある菅原文化の醸成を大切にしております。 顧客第一の精神に徹して、常に経済的な価値ある商品・サービス・情報を提供いたして、 よりよく奉仕することを使命にしております。 Aug 1, 2018 · 【その他の事業内容】 高機能樹脂、及びマグネシュウム3次元加工、節電 電気泳動式DNA鑑定装置初期筐体 医療用胆管 医療用細血官挿入器 臨床向け少量",
+    "url": "https://www.kk-sugahara.co.jp/gaiyou/gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 菅原モデル 神奈川県 相模原市中央区 — Aug 1, 2018 · 【その他の事業内容】 高機能樹脂、及びマグネシュウム3次元加工、節電 電気泳動式DNA鑑定装置初期筐体 医療用胆管 医療用細血官挿入器 臨床向け少量製造 アルミ精密切削加工 3D顔認証システム筐体 簡易成形工法",
+    "url": "https://ja.nc-net.or.jp/company/5184/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "西澤 亜美 - 菅原モデルの総務パーソナルアシスタント | LinkedIn 菅原モデルの総務パーソナルアシスタント · 職歴: 菅原モデル · 場所: 神奈川県。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで西澤 亜美さんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/亜美-西澤-2437413b0",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sugawaramodel.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sugawaramodel.co.jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sugawaramodel.co.jp/products",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sugawaramodel.co.jp/library/63fc059ab0672b72ddca1654/645b679ee3eb8631504030ea.jpg",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/product/detail/2000597300/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/sugawaramodel/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sugahara.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sugahara.co/?page_id=16",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/亜美-西澤-2437413b0",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "菅原モデル 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.sugawaramodel.co.jp/",
+    "https://www.sugawaramodel.co.jp/works",
+    "https://mono.ipros.com/product/detail/2000597300/",
+    "https://mono.ipros.com/company/detail/2002775/category/",
+    "https://www.sugihara-s.co.jp/archives/1936",
+    "https://ja.nc-net.or.jp/company/5184/",
+    "https://ja.nc-net.or.jp/company/5184/product/detail/25684/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "菅原モデル 会社概要 事業内容",
+   "results": [
+    "https://www.sugawaramodel.co.jp/company",
+    "https://www.sugawaramodel.co.jp/",
+    "https://www.atengineer.com/pr/sugawaramodel/company",
+    "https://www.kk-sugahara.co.jp/gaiyou/gaiyou.html",
+    "https://ja.nc-net.or.jp/company/5184/",
+    "https://mono.ipros.com/company/detail/2002775/",
+    "https://www.kk-sugahara.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "菅原モデル お問い合わせ メール",
+   "results": [
+    "https://www.sugawaramodel.co.jp/",
+    "https://www.sugahara.com/contact/",
+    "https://sugahara.co/?page_id=16",
+    "https://sgccl-2.com/pages/3/",
+    "https://futuremodel.co.jp/contact-to/",
+    "https://www.emikosugawara.com/contact",
+    "https://www.kk-sugahara.co.jp/inquiry/index.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 菅原モデル",
+   "results": [
+    "https://note.com/saki313",
+    "https://note.com/idol_information/n/n047ded46cbae",
+    "https://note.com/nogi_thinker/n/n06d3887441b1",
+    "https://note.com/yoshiki810/n/na323a37bbdaf",
+    "https://note.com/famous_hosta125/n/nd18e9f4c5025",
+    "https://note.com/aodori_note/n/n26da51e6a7dd",
+    "https://note.com/sugawara_sakura/n/n05c29c66151d"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 菅原モデル",
+   "results": [
+    "https://x.com/gensho_sugahara",
+    "https://x.com/__sugahara",
+    "https://x.com/sugawara11",
+    "https://x.com/modelpress/status/2091545852833878394",
+    "https://x.com/maya_sugawara/status/2089726959660228743",
+    "https://x.com/sugari_24",
+    "https://x.com/sugawara__nana"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 菅原モデル",
+   "results": [
+    "https://jp.linkedin.com/in/亜美-西澤-2437413b0",
+    "https://sg.linkedin.com/jobs/view/head-of-asean-applied-ai-at-anthropic-4486333303",
+    "https://lk.linkedin.com/in/chamindry-saparamadu-1911a65b",
+    "https://www.linkedin.com/signup?_l=de",
+    "https://in.linkedin.com/in/aparajita-puri18110007",
+    "https://jp.linkedin.com/posts/雨笑-菅原-b124ab380_初めまして-自己紹介-元モデルワイン好き-広島出身-広島在住-広島を拠点に-activity-7387652481343975424-02_S",
+    "https://cn.linkedin.com/in/kevin-zhou-周晨-7156b1142"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 菅原モデル",
+   "results": [
+    "https://www.facebook.com/p/菅原葵-100005642869089/",
+    "https://www.facebook.com/p/菅原宏菅原笑美子-100028843074588/",
+    "https://www.facebook.com/groups/7436590736362952/posts/29175409995387713/",
+    "https://www.facebook.com/hidenobu.sugawara/",
+    "https://www.facebook.com/yuichi.sugawara.5/",
+    "https://www.facebook.com/groups/358586826319960/posts/903928428452461/",
+    "https://www.facebook.com/Asobisystem/posts/モデルプレス菅原茉椰ske48という名前に助けられていたタレント転身後の率直な心境現状に葛藤-アイドル時代の経験糧に挑戦続ける日々語る/1359853879494330/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "菅原モデル note 社長",
+   "results": [
+    "https://www.sugawaramodel.co.jp/",
+    "https://hatsu-ga.com/代表の菅原が「note」を始めました/",
+    "https://jp.linkedin.com/posts/takuyasugawara1994_紹介をもらう関係からビジネスを一緒に育てる関係へパートナーの事業モデルごと-activity-7471044978551664640-0kvp",
+    "https://note.com/sugawaratomokazu/n/n626b40ba0c3f",
+    "https://note.com/sugawaratomokazu/n/n0fdbdba76dee",
+    "https://aile-official.co.jp/media/women-leader/sugahara-tomomi/",
+    "https://ameblo.jp/sannet/entry-12864155427.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "菅原モデル X 投稿",
+   "results": [
+    "https://www.sugawaramodel.co.jp/",
+    "https://x.com/modelpress/status/2080850828899098832",
+    "https://x.com/_st_nn/status/2080893104857690445",
+    "https://search.yahoo.co.jp/realtime/search/菅原咲月/",
+    "https://www.instagram.com/satsukisugawara_official/",
+    "https://fantia.jp/posts/56253",
+    "https://fantia.jp/posts/2922326"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部5頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部5頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部5頁・検索9回）"
+ }
+}

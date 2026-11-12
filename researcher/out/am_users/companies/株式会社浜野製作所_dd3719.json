@@ -1,0 +1,1808 @@
+{
+ "name": "株式会社浜野製作所",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T23:14:58.489106+00:00",
+ "official_url": "https://www.hamano-products.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社板金工場 Garage Sumida (ガレージスミダ) 〒131-0041 東京都墨田区八広4-39-7 TEL　03-5631-9111 FAX　03-5631-9112 アクセスMAPはこちらから",
+    "url": "https://hamano-products.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒131-0041 東京都墨田区八広4-39-7",
+    "url": "https://hamano-products.co.jp/company/map/",
+    "pass": 1
+   },
+   {
+    "label": "本社 所在地",
+    "value": "日本 〒 131-0041 東京都 墨田区 八広4-39-7",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%87%8E%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都墨田区八広4-39-7 （本社板金工場／Garage Sumida。ほか第一〜第三工場）",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "〒131-0041 東京都東京都墨田区八広4-39-7",
+    "url": "https://www.atengineer.com/pr/hamano-products/company",
+    "pass": 3
+   }
+  ],
+  "拠点": [
+   {
+    "label": "第二工場",
+    "value": "第三工場",
+    "url": "https://hamano-products.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役 CEO　浜野慶一",
+    "url": "https://hamano-products.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表取締役 CEO",
+    "value": "浜野 慶一",
+    "url": "https://hamano-products.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "取締役社長",
+    "value": "小林 亮",
+    "url": "https://hamano-products.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "取締役副社長",
+    "value": "宮地 史也",
+    "url": "https://hamano-products.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "浜野慶一（代表取締役社長）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%87%8E%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役CEO 浜野 慶一",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "浜野慶一",
+    "url": "https://www.atengineer.com/pr/hamano-products/company",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "48名（役員・従業員合計）",
+    "url": "https://hamano-products.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "社員数",
+    "value": "48名（役員・従業員合計／2025年1月現在）",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "業務内容",
+    "value": "各種装置・機械の設計開発、架台・筐体設計・製作、精密板金加工・レーザー加工、金属プレス金型設計・製作、金属プレス加工 切削加工・機械加工、複合加工、各種アッセンブリ加工、ラピッドマニュファクチャリング（3Dプリンター・レーザーカッター・CNC加工・UVプリント・3Dスキャン・3Dデータ作成）",
+    "url": "https://hamano-products.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "取扱品目",
+    "value": "半導体製造装置関連部品・建築金物部品・事務機器関連部品・コネクター部品・ポンプ関連部品・光学関連部品・理化学部品・バイオ関連部品・農機具・農業用部品・オートバイパーツ・ゲーム機関連部品・自動車関連部品・医療機器・弱電部品・精密測定装置関連部品・スイッチング機器部品・情報通信機関連部品・液品パネル貼合せ装置部品・航空宇宙関連部品・ロボット製作・深海・海洋関連部品・各種治具・3Dプリンターパーツ・美術品・発明アイデア商品・デザイナーズ商品　他",
+    "url": "https://hamano-products.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "板金・架台・筐体設計　各種アッセンブリ加工　精密板金加工・レーザー加工　金属プレス金型製作 金属プレス加工部品　試作品製作",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%87%8E%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "label": "業務内容",
+    "value": "各種装置・機械の設計開発、架台・筐体設計・製作、精密板金加工・レーザー加工、金属プレス金型設計・製作、金属プレス加工、切削加工・機械加工、複合加工、各種アッセンブリ加工、ラピッドマニュファクチャリング（3Dプリンター・レーザーカッター・CNC加工・UVプリント・3Dスキャン・3Dデータ作成）",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "一点物・少量多品種": [
+   {
+    "quote": "浜野製作所では構想段階から試作・製造・組込み・量産に至るまで、お客様のご要望に合わせた",
+    "url": "https://hamano-products.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "墨田区八広に精密板金、試作工場を設立",
+    "url": "https://hamano-products.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "平成24年度ものづくり中小企業試作開発等支援補助金 医療用カート生産に係わる申請案件交付採択",
+    "url": "https://hamano-products.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "加工数量が小中量（単品～数百個程度目安）であれば、タレパン、レーザーにより、大量生産（数百個～数万個程度目安）であれば、専用金型を起工してプレス加工による切断・穴あけを行うケースが多いです",
+    "url": "https://hamano-products.co.jp/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "量産品は本金型を起工してのプレス加工、試作・小中ロット品は仮型（簡易金型）を利用して、何段階に分けて絞っていきます",
+    "url": "https://hamano-products.co.jp/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "ディスク読み取り用サスペンションの試作です",
+    "url": "https://hamano-products.co.jp/processing/examples/",
+    "pass": 1
+   },
+   {
+    "quote": "センサー用冶具としてして使用するノズルの試作品です",
+    "url": "https://hamano-products.co.jp/processing/examples/",
+    "pass": 1
+   },
+   {
+    "quote": "私ども浜野製作所では、従来からの納期厳守・低コスト・高品質・高精度の加工・製作といった“モノづくりへの姿勢”はもちろんのこと、新規製品の提案、新規製品の共同開発や新規開発製品の試作など、細かい仕様・ニーズに応えられる様、多品種少量生産から量産までの一貫した受注生産体制を整えております",
+    "url": "https://hamano-products.co.jp/company/president/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、企業間ネットワークの構築・整備によって塗装処理・各種精密メッキ・アルマイト・シルク印刷・各種コーティング処理・機械加工・設計・挽物加工等を含むトータル的な受注生産体制も整備しております",
+    "url": "https://hamano-products.co.jp/company/president/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、企画～設計・開発といった構想段階から、その後の試作・製作、量産支援までお客様のニーズに合わせた一貫対応を実現いたします",
+    "url": "https://hamano-products.co.jp/designing/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン検討用・試作モデル用として3Dモデルリングを行います",
+    "url": "https://hamano-products.co.jp/designing/",
+    "pass": 1
+   },
+   {
+    "quote": "レーザー・タレパン・プレスブレーキといった最新設備を駆使し、情報通信関連部品、計測器用部品、医療機器用部品、半導体製造装置用部品など様々な分野の産業関連部品を多品種少量で製作しています",
+    "url": "https://hamano-products.co.jp/processing/fineplate/",
+    "pass": 1
+   },
+   {
+    "quote": "こうした多品種小ロット生産に対応するために、生産管理システムによるIT管理を徹底し、製品の加工状況、生産設備の稼働状況をリアルタイムに把握し、「工場の見える化と効率化」を実現しています",
+    "url": "https://hamano-products.co.jp/processing/fineplate/",
+    "pass": 1
+   },
+   {
+    "quote": "③仮型や職人技を駆使した複雑難加工の試作板金",
+    "url": "https://hamano-products.co.jp/processing/fineplate/",
+    "pass": 1
+   },
+   {
+    "quote": "レーザー・タレパン・ワイヤーカットによる抜き加工、仮型（簡易型）・ベンダーを駆使した曲げ加工、ボス・絞り・切り起こし・エンボス加工などといった加工技術を組み合わせることで、量産時には金型が必要な複雑形状の製品モデルを短納期で実現する試作板金を得意としています",
+    "url": "https://hamano-products.co.jp/processing/fineplate/",
+    "pass": 1
+   },
+   {
+    "quote": "数百個から数万個程度の多品種少中量生産に対応できる単発プレス加工を東京都心で安定的に営む会社が少なくなる中で、数多くの企業・研究機関からの開発・試作、量産依頼をいただいております",
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "pass": 1
+   },
+   {
+    "quote": "①仮型（簡易型）を使った低コスト・短納期の試作品製作から専用金型の設計・製作による量産プレス加工まで社内で一貫対応",
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "pass": 1
+   },
+   {
+    "quote": "創業時から培った金型設計・製作の幅広い技術力によって、仮型・簡易型を使った試作から最短工程に抑えた本金型による量産プレス加工まで全て自社内で一貫対応いたします",
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "pass": 1
+   },
+   {
+    "quote": "プリンターカバー 試作から量産プレス加工へ",
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "pass": 1
+   },
+   {
+    "quote": "②15t～80tまでの単発プレス加工により他社では受けづらい多品種少中量の製作依頼に柔軟な対応が可能！",
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "pass": 1
+   },
+   {
+    "quote": "順送プレスでは敬遠されがちな工程が多く、かつ多品種少中量（数百個～数千個程度）の製品に対し、15t～80tまでの単発プレス機（計9台）を駆使して柔軟に対応することが可能です",
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "pass": 1
+   },
+   {
+    "quote": "カメラ部品、医療機器、半導体関連装置、OA機器、通信機器、家電といった接点金具や端子、カバーなど1個から数十個までの試作から数万個単位の量産まで社内で一貫対応いたします",
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "pass": 1
+   },
+   {
+    "quote": "板金・架台・筐体設計 各種アッセンブリ加工 精密板金加工・レーザー加工 金属プレス金型製作 金属プレス加工部品 試作品製作",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%87%8E%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "2000年 - 墨田区八広に精密板金、試作工場を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%87%8E%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "量産を見据えた試作開発や、金属加工要件の落とし込みに悩むR&D・新規事業責任者に向けて、構想段階から量産までを一貫サポートする浜野製作所（Garage Sumida）の強みや得意領域、事例を解説します",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "設計から試作・組立、量産移行までを一気通貫で伴走支援する企業",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械群と熟練の職人技を融合させ、試作段階から量産時の加工性やコストを見据えた設計を行うことで、製品化における量産移行を支援",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "「アイデアはあるが加工図面に落とし込めていない」「試作は完了したが量産時のコストや歩留まりに課題がある」といった、",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "この振れ幅を支えているのが、金型設計・製作から量産プレス、精密板金・レーザー加工、機械加工・複合加工、各種アッセンブリ、そして3Dプリンター・レーザーカッター・CNC加工・3Dスキャンによる高速試作までを",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "試作の一品物から金型を使った量産まで、同じ会社の中で工法を選び直せる",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "ラフスケッチの段階から、板金加工機や溶接技術を用いた具体的な構造へと落とし込み、試作を通じて量産時の歩留まりや組立効率を確認しながら、完成度を高めていきます",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "試作は板金やCNCで作り、数が増えたらプレス化してコストを落とす——この移行判断を",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "「試作は通ったが量産の値段が合わない」という典型的な行き詰まりに、工法変更という答えを出せます",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "試作：試作品を製作し、設計評価を確認して図面を修正、最終的な製品モデルを作成します",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品コンセプト開発、試作～量産移行、ディスコン対応",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "■浜野製作所は超特急納品！■レーザー加工・精密板金・プレス・金型加工等、図面のない試作品1個のみから量産まで、特急品でも喜んでお受けします",
+    "url": "https://www.atengineer.com/pr/hamano-products/company",
+    "pass": 3
+   },
+   {
+    "quote": "経営悪化時は取引先から相手にされませんでしたが、「短納期の一品物」に全力で対応する戦略に活路を見出しました",
+    "url": "https://note.com/aru343/n/nc979ed235428",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくりの工程には①設計開発②試作検証③量産加工④組込・組立・検証の大きな流れがあり③量産加工を町工場が担当することが多いです",
+    "url": "https://note.com/k_ai5555/n/n8e917021c5d5",
+    "pass": 3
+   },
+   {
+    "quote": "大手メーカーが敬遠する小ロットや多品種の加工に挑み、顧客からの難題を「頼まれごとは、試されごと」として引き受けます",
+    "url": "https://note.com/bonustrack/n/n427e53e2f562",
+    "pass": 3
+   },
+   {
+    "quote": "高速で試作のトライ＆エラーを繰り返すことが得意",
+    "url": "https://note.com/dash1327/n/n9661d2336f79",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "【重要：ご注意】代表・浜野からの招待を装った迷惑メールにご注意ください（10/29更新）",
+    "url": "https://hamano-products.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、「こんなものが欲しい」「こんなものる作れるのか？」などのお問い合わせに関しても図面化からのご相談や現物採寸→図面起こし→製品製造また最終製品の組み込み（アッセンブリー加工）まで、お客様からのご依頼にきめ細かく且つ幅広い対応をさせていただいております",
+    "url": "https://hamano-products.co.jp/company/president/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせフォームをご利用の方は下記事項をご確認の上、フォームをご入力ください",
+    "url": "https://hamano-products.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様からいただく個人情報は、お問い合わせ・ご質問への回答、情報提供のために使用させていただきます",
+    "url": "https://hamano-products.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせの内容によっては、電子メール以外の方法で回答を差し上げる場合がございます",
+    "url": "https://hamano-products.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ内容によっては数日要する場合もございますので予めご了承ください",
+    "url": "https://hamano-products.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "加工のご相談・支給材の持ち込み等でご来社される際は、必ず事前に電話またはメールで面会のご予約をお願いいたします",
+    "url": "https://hamano-products.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせは、こちら",
+    "url": "https://note.com/aru343/n/nc979ed235428",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "経済産業省 ものづくり中小企業製品開発等支援補助金 申請案件採択",
+    "url": "https://hamano-products.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "また、千分台の精度が要求される製品やコンマ台以下の薄板、10mmを超えるような板厚の切断にはワイヤーカットを使用し、対応しています",
+    "url": "https://hamano-products.co.jp/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "開発・設計製品事例 - 浜野製作所浜野製作所",
+    "url": "https://hamano-products.co.jp/designing/design-examples/",
+    "pass": 1
+   },
+   {
+    "quote": "過酷な条件下で使用できるオリジナル乾電池の残量をチェックする製品です",
+    "url": "https://hamano-products.co.jp/designing/design-examples/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイナーと協議の下、製品のデザインや製作方法を決めていきま",
+    "url": "https://hamano-products.co.jp/designing/design-examples/",
+    "pass": 1
+   },
+   {
+    "quote": "難加工素材やその製品の販売をされている会社から依頼を受け、この度「ジルカロイ」の折り鶴を製作致しまし",
+    "url": "https://hamano-products.co.jp/processing/examples/",
+    "pass": 1
+   },
+   {
+    "quote": "過酷な条件下で使用できるオリジナル乾電池の残量をチェックする製品です",
+    "url": "https://hamano-products.co.jp/processing/examples/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイナーと協議の下、製品のデザインや製作方法を決めていきま",
+    "url": "https://hamano-products.co.jp/processing/examples/",
+    "pass": 1
+   },
+   {
+    "quote": "私ども浜野製作所では、従来からの納期厳守・低コスト・高品質・高精度の加工・製作といった“モノづくりへの姿勢”はもちろんのこと、新規製品の提案、新規製品の共同開発や新規開発製品の試作など、細かい仕様・ニーズに応えられる様、多品種少量生産から量産までの一貫した受注生産体制を整えております",
+    "url": "https://hamano-products.co.jp/company/president/",
+    "pass": 1
+   },
+   {
+    "quote": "また、「こんなものが欲しい」「こんなものる作れるのか？」などのお問い合わせに関しても図面化からのご相談や現物採寸→図面起こし→製品製造また最終製品の組み込み（アッセンブリー加工）まで、お客様からのご依頼にきめ細かく且つ幅広い対応をさせていただいております",
+    "url": "https://hamano-products.co.jp/company/president/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置関連・医療機器関連部品・自動車関連部品・電子部品・情報通信機関連部品・精密測定器関連部品モーター関連部品・液晶機器関連部品・コネクター部品・汎用ポンプ関連部品・製薬関連部品・オートバイパーツ・ロボット関連部品・光学装置関連部品・ICチップ関連ユニット、食品工場内での改善機器・工場内の治工具関係等、私どもは幅広い業界の企業に対して、産業関連部品・機械設備部品の加工・製作に携わる他、デザイナーズ商品、発明・アイデア商品、健康促進器具など、いわゆる消費者向け商品の製品化の御相談もお受けできる体制を整えております",
+    "url": "https://hamano-products.co.jp/company/president/",
+    "pass": 1
+   },
+   {
+    "quote": "2Dデータ（DXFファイル）、3Dデータからの図面化をはじめ、最新鋭の工作機械・ネットワークシステムといった最先端の技術と当社の持つ「匠の技」、「職人技」の融合による高品質・高精度の製品のご要望にお応えしております",
+    "url": "https://hamano-products.co.jp/company/president/",
+    "pass": 1
+   },
+   {
+    "quote": "産学連携による電気自動車（HOKUSAI）・深海探査船(江戸っ子1号)の設計・製作にも携わり新製品の開発や人材育成・教育にも注力しております",
+    "url": "https://hamano-products.co.jp/company/president/",
+    "pass": 1
+   },
+   {
+    "quote": "」の取り組みを等、これまでにも様々な製品開発をものづくりで支援しています",
+    "url": "https://hamano-products.co.jp/designing/",
+    "pass": 1
+   },
+   {
+    "quote": "長年の金属加工実績に裏付けされた経験を基に、製品の加工性やメンテナンス、コスト面等に考慮した最適な機械設計を行うことが可能です",
+    "url": "https://hamano-products.co.jp/designing/",
+    "pass": 1
+   },
+   {
+    "quote": "既存製品の設計変更や類似品の設計まで様々な見直し提案を行うことが可能です",
+    "url": "https://hamano-products.co.jp/designing/",
+    "pass": 1
+   },
+   {
+    "quote": "既存製品の再設計・形状変更による3次元モデルの活用を提案いたします",
+    "url": "https://hamano-products.co.jp/designing/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の稼働性・組立性を検証するためのアセンブリモデルの作成を行います",
+    "url": "https://hamano-products.co.jp/designing/",
+    "pass": 1
+   },
+   {
+    "quote": "こうした多品種小ロット生産に対応するために、生産管理システムによるIT管理を徹底し、製品の加工状況、生産設備の稼働状況をリアルタイムに把握し、「工場の見える化と効率化」を実現しています",
+    "url": "https://hamano-products.co.jp/processing/fineplate/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、実際の組み立て作業を含む完成品も数多く製作きた実績を基に、あらゆる業種のお客様にご満足いただける筐体製品をご提供することが可能です",
+    "url": "https://hamano-products.co.jp/processing/fineplate/",
+    "pass": 1
+   },
+   {
+    "quote": "レーザー・タレパン・ワイヤーカットによる抜き加工、仮型（簡易型）・ベンダーを駆使した曲げ加工、ボス・絞り・切り起こし・エンボス加工などといった加工技術を組み合わせることで、量産時には金型が必要な複雑形状の製品モデルを短納期で実現する試作板金を得意としています",
+    "url": "https://hamano-products.co.jp/processing/fineplate/",
+    "pass": 1
+   },
+   {
+    "quote": "①板金加工・プレス加工の製品に含まれる一部要求精度の高い機械加工品までを自社内で一貫対応可能",
+    "url": "https://hamano-products.co.jp/processing/assemble/",
+    "pass": 1
+   },
+   {
+    "quote": "通常のレーザーでは精度出しが難しい0.01～0.1mm程度の薄板のシム（スペーサー）や厚さのあるプレート・ブロック材等をワイヤーカット放電加工機を駆使して加工することにより、板金・プレス加工製品と一括して自社内でご注文を承ることが可能です",
+    "url": "https://hamano-products.co.jp/processing/assemble/",
+    "pass": 1
+   },
+   {
+    "quote": "ASSY・ユニット製品の3次元設計から板金加工・プレス加工・機械加工を組み合わせた2次加工、配線・組立まで自社で一貫対応が可能です",
+    "url": "https://hamano-products.co.jp/processing/assemble/",
+    "pass": 1
+   },
+   {
+    "quote": "「こんな感じのものが作れますか？」といった構想段階のご相談、他社では断られてしまった製品案件、プレスによる量産化・工法転換のご依頼までフットワークの軽い柔軟な対応を心掛けています",
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、低コスト・短納期を実現できるのはもちろんのこと、製品仕様に関する柔軟な対応や金型の機密保持・安全な保管をお約束いたします",
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "pass": 1
+   },
+   {
+    "quote": "順送プレスでは敬遠されがちな工程が多く、かつ多品種少中量（数百個～数千個程度）の製品に対し、15t～80tまでの単発プレス機（計9台）を駆使して柔軟に対応することが可能です",
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "pass": 1
+   },
+   {
+    "quote": "金型も専任のスペシャリストによって全て内製化していますので、短納期・低コストで製品をご提供できます",
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "pass": 1
+   },
+   {
+    "quote": "板金加工を合わせ持つ強みを活かし、ブランクをレーザー・タレパンで行うことによって、少中量のプレス製品のブランク型を不要に！",
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "pass": 1
+   },
+   {
+    "quote": "通常単発プレスでは行わないような形状の製品も金型職人の発想力によってプレス化を実現！",
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "pass": 1
+   },
+   {
+    "quote": "屏風、切子、皮革製品、時計、板金加工などの工房で職人体験ができる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%87%8E%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発コンサル｜設計から量産まで一貫支援する「浜野製作所」の強み・事例",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械群と熟練の職人技を融合させ、試作段階から量産時の加工性やコストを見据えた設計を行うことで、製品化における量産移行を支援",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品に求められる公差や強度、予算に対して、どの工法が適しているかを実務実績に基づいて提案",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "「実際の加工や組立を考慮した製品設計」「将来の量産化を視野に入れた設計と製作」",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工を軸とした製品開発を一貫して支援する体制",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発を成功させるためには、",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "当メディアでは、こうした「モノづくりの課題別」に、おすすめの製品開発コンサルティング会社を厳選して紹介しています",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発コンサル3社を見る",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "矛盾する条件をいかにして物理的な製品（ハードウェア）に落とし込むか",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "南極という極限の地で確実に動作する確かな製品へと具現化すること",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品分野：研究開発製品（ニュートリノ観測器部品）",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "協議・開発計画の立案：製品の基本構想が固まった段階で、プロジェクトの進め方や開発方針を協議",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "構想設計：詳細な製品構想図を作成し、希望する仕様やアイデアをどう実現するかを具体化します",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "試作：試作品を製作し、設計評価を確認して図面を修正、最終的な製品モデルを作成します",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発コンサル3社",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品コンセプト開発、試作～量産移行、ディスコン対応",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "設計・評価設備が失われており、現物での再テストが困難なレガシー製品でも、",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "、製品・技術・サービス",
+    "url": "https://www.atengineer.com/pr/hamano-products/company",
+    "pass": 3
+   },
+   {
+    "quote": "立ち乗り3輪車「ストリーモ」や分身ロボット「OriHime」といった革新的な製品の誕生は、その象徴です",
+    "url": "https://note.com/aru343/n/nc979ed235428",
+    "pass": 3
+   },
+   {
+    "quote": "そこで生まれた独自性の高い製品が「ニッチ市場攻略」という営業活動（主活動）の威力を高め、最終的に高いマージンを生み出すと考えます",
+    "url": "https://note.com/aru343/n/nc979ed235428",
+    "pass": 3
+   },
+   {
+    "quote": "そんな素晴らしいベンチャー企業の製品が技術力のある町工場とコラボレーションし、世の中に生まれていく仕組みは素敵だなと感じます",
+    "url": "https://note.com/k_ai5555/n/n8e917021c5d5",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "各種装置・機械の設計開発、架台・筐体設計・製作、精密板金加工・レーザー加工、金属プレス金型設計・製作、金属プレス加工 切削加工・機械加工、複合加工、各種アッセンブリ加工、ラピッドマニュファクチャリング（3Dプリンター・レーザーカッター・CNC加工・UVプリント・3Dスキャン・3Dデータ作成）",
+    "url": "https://hamano-products.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置関連部品・建築金物部品・事務機器関連部品・コネクター部品・ポンプ関連部品・光学関連部品・理化学部品・バイオ関連部品・農機具・農業用部品・オートバイパーツ・ゲーム機関連部品・自動車関連部品・医療機器・弱電部品・精密測定装置関連部品・スイッチング機器部品・情報通信機関連部品・液品パネル貼合せ装置部品・航空宇宙関連部品・ロボット製作・深海・海洋関連部品・各種治具・3Dプリンターパーツ・美術品・発明アイデア商品・デザイナーズ商品 他",
+    "url": "https://hamano-products.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "浜野嘉彦が墨田区八広に浜野製作所（金属金型工場）を立上げ",
+    "url": "https://hamano-products.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "墨田区八広にプレス・金型工場を新規設立し、東墨田の仮工場を移転",
+    "url": "https://hamano-products.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "同時に精密板金の工場を本社板金工場、プレス工場をプレス・金型工場と名称変更",
+    "url": "https://hamano-products.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "平成24年度ものづくり中小企業試作開発等支援補助金 医療用カート生産に係わる申請案件交付採択",
+    "url": "https://hamano-products.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "浜野製作所の加工事業は、レーザー・タレパンといった最新機械と職人の優れた技能を融合した精密板金加工、自社で金型の設計・製作を行うプレス加工、マシニングセンタやワイヤーカットを利用した切削・機械加工を総合的に組み合わせ、お客様のあらゆるニーズに対応いたします",
+    "url": "https://hamano-products.co.jp/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "加工数量が小中量（単品～数百個程度目安）であれば、タレパン、レーザーにより、大量生産（数百個～数万個程度目安）であれば、専用金型を起工してプレス加工による切断・穴あけを行うケースが多いです",
+    "url": "https://hamano-products.co.jp/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスブレーキ（NCベンダー）、プレス加工機（本金型・簡易金型）、3本ロールといった機械によって、板、丸、角といった様々な形状・大きさの金属材料をL、R、U、Zなどあらゆる形に曲げることが可能です",
+    "url": "https://hamano-products.co.jp/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "量産品は本金型を起工してのプレス加工、試作・小中ロット品は仮型（簡易金型）を利用して、何段階に分けて絞っていきます",
+    "url": "https://hamano-products.co.jp/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス作業者安全衛生特別教育(プレス金型調整特別安全教育)",
+    "url": "https://hamano-products.co.jp/company/equipments/",
+    "pass": 1
+   },
+   {
+    "quote": "金型製作技能士 プレス金型製作作業1級",
+    "url": "https://hamano-products.co.jp/company/equipments/",
+    "pass": 1
+   },
+   {
+    "quote": "金型製作技能士 プレス金型製作作業特級(一部合格)",
+    "url": "https://hamano-products.co.jp/company/equipments/",
+    "pass": 1
+   },
+   {
+    "quote": "JALエンジニアリング×浜野製作所が連携して作った航空機部品を活用した家",
+    "url": "https://hamano-products.co.jp/designing/design-examples/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社JALエンジニアリング（JALEC）が取り組む、役目を終えた航空機部品等をアップサイクルする",
+    "url": "https://hamano-products.co.jp/designing/design-examples/",
+    "pass": 1
+   },
+   {
+    "quote": "墨田区オリジナルEV 電気自動車HOKUSAIシリーズの第一弾",
+    "url": "https://hamano-products.co.jp/designing/design-examples/",
+    "pass": 1
+   },
+   {
+    "quote": "千葉大学大学院理学研究科付属 ハドロン宇宙国際研究センターIceCube",
+    "url": "https://hamano-products.co.jp/designing/design-examples/",
+    "pass": 1
+   },
+   {
+    "quote": "墨田区オリジナルEV 電気自動車HOKUSAIシリーズの記念すべき第一弾",
+    "url": "https://hamano-products.co.jp/designing/design-examples/",
+    "pass": 1
+   },
+   {
+    "quote": "墨田区オリジナルEV 電気自動車HOKUSAIシリーズの第一弾",
+    "url": "https://hamano-products.co.jp/processing/examples/",
+    "pass": 1
+   },
+   {
+    "quote": "千葉大学大学院理学研究科付属 ハドロン宇宙国際研究センターIceCube",
+    "url": "https://hamano-products.co.jp/processing/examples/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置関連・医療機器関連部品・自動車関連部品・電子部品・情報通信機関連部品・精密測定器関連部品モーター関連部品・液晶機器関連部品・コネクター部品・汎用ポンプ関連部品・製薬関連部品・オートバイパーツ・ロボット関連部品・光学装置関連部品・ICチップ関連ユニット、食品工場内での改善機器・工場内の治工具関係等、私どもは幅広い業界の企業に対して、産業関連部品・機械設備部品の加工・製作に携わる他、デザイナーズ商品、発明・アイデア商品、健康促進器具など、いわゆる消費者向け商品の製品化の御相談もお受けできる体制を整えております",
+    "url": "https://hamano-products.co.jp/company/president/",
+    "pass": 1
+   },
+   {
+    "quote": "産学連携による電気自動車（HOKUSAI）・深海探査船(江戸っ子1号)の設計・製作にも携わり新製品の開発や人材育成・教育にも注力しております",
+    "url": "https://hamano-products.co.jp/company/president/",
+    "pass": 1
+   },
+   {
+    "quote": "深海探査ロボット艇開発プロジェクト「江戸っ子1号プロジェクト推進委員会」副委員長",
+    "url": "https://hamano-products.co.jp/company/president/",
+    "pass": 1
+   },
+   {
+    "quote": "ロボット・機械装置の開発を得意としています",
+    "url": "https://hamano-products.co.jp/designing/",
+    "pass": 1
+   },
+   {
+    "quote": "JALエンジニアリング×浜野製作所が連携して作った航空機部品を活用した家",
+    "url": "https://hamano-products.co.jp/designing/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社JALエンジニアリング（JALEC）が取り組む、役目を終えた航空機部品等をアップサイクルする",
+    "url": "https://hamano-products.co.jp/designing/",
+    "pass": 1
+   },
+   {
+    "quote": "レーザー・タレパン・プレスブレーキといった最新設備を駆使し、情報通信関連部品、計測器用部品、医療機器用部品、半導体製造装置用部品など様々な分野の産業関連部品を多品種少量で製作しています",
+    "url": "https://hamano-products.co.jp/processing/fineplate/",
+    "pass": 1
+   },
+   {
+    "quote": "レーザー・タレパン・ワイヤーカットによる抜き加工、仮型（簡易型）・ベンダーを駆使した曲げ加工、ボス・絞り・切り起こし・エンボス加工などといった加工技術を組み合わせることで、量産時には金型が必要な複雑形状の製品モデルを短納期で実現する試作板金を得意としています",
+    "url": "https://hamano-products.co.jp/processing/fineplate/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、医療関係や検査装置・治具といった部品、筐体の溶接の仕上がりには常に高い評価をいただいております",
+    "url": "https://hamano-products.co.jp/processing/fineplate/",
+    "pass": 1
+   },
+   {
+    "quote": "正確かつ綺麗な溶接を行うために、様々な職人技術が蓄積された特殊治具を製作し、さらなる加工技術・精度の向上と高い作業効率性を追求しています",
+    "url": "https://hamano-products.co.jp/processing/fineplate/",
+    "pass": 1
+   },
+   {
+    "quote": "歪みや寸法ズレのない正確な溶接を支える治具",
+    "url": "https://hamano-products.co.jp/processing/fineplate/",
+    "pass": 1
+   },
+   {
+    "quote": "金型設計・製作・プレス加工 - 浜野製作所浜野製作所",
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "pass": 1
+   },
+   {
+    "quote": "①仮型（簡易型）を使った低コスト・短納期の試作品製作から専用金型の設計・製作による量産プレス加工まで社内で一貫対応",
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "pass": 1
+   },
+   {
+    "quote": "創業時から培った金型設計・製作の幅広い技術力によって、仮型・簡易型を使った試作から最短工程に抑えた本金型による量産プレス加工まで全て自社内で一貫対応いたします",
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、低コスト・短納期を実現できるのはもちろんのこと、製品仕様に関する柔軟な対応や金型の機密保持・安全な保管をお約束いたします",
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "pass": 1
+   },
+   {
+    "quote": "金型も専任のスペシャリストによって全て内製化していますので、短納期・低コストで製品をご提供できます",
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "pass": 1
+   },
+   {
+    "quote": "これまでに培った金型設計・製作の技術を活かし、切削・ダイキャストなどの高コストの加工方法からプレス加工へと工法転換を数多く実現してきました",
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "pass": 1
+   },
+   {
+    "quote": "通常単発プレスでは行わないような形状の製品も金型職人の発想力によってプレス化を実現！",
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "pass": 1
+   },
+   {
+    "quote": "金型を起工した丸棒の量産化によるコスト削減",
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "pass": 1
+   },
+   {
+    "quote": "カメラ部品、医療機器、半導体関連装置、OA機器、通信機器、家電といった接点金具や端子、カバーなど1個から数十個までの試作から数万個単位の量産まで社内で一貫対応いたします",
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "pass": 1
+   },
+   {
+    "quote": "板金・架台・筐体設計 各種アッセンブリ加工 精密板金加工・レーザー加工 金属プレス金型製作 金属プレス加工部品 試作品製作",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%87%8E%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "」の「リアルロボットバトル日本一決定戦!」、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%87%8E%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "1968年 - 浜野嘉彦が墨田区八広に金属金型工場として浜野製作所を立上げる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%87%8E%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "2002年 - 墨田区八広にプレス・金型工場を新設",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%87%8E%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "同時に精密板金工場を本社板金工場、プレス工場をプレス・金型工場と名称変更",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%87%8E%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "ただし取扱品目は驚くほど広く、半導体製造装置、医療機器、光学、理化学、バイオ、農機具、オートバイパーツ、自動車、情報通信、",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙関連部品、深海・海洋関連部品、美術品、発明アイデア商品",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "この振れ幅を支えているのが、金型設計・製作から量産プレス、精密板金・レーザー加工、機械加工・複合加工、各種アッセンブリ、そして3Dプリンター・レーザーカッター・CNC加工・3Dスキャンによる高速試作までを",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "試作の一品物から金型を使った量産まで、同じ会社の中で工法を選び直せる",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット、宇宙関連機器、生活家電など、多岐にわたる",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー加工、タレパン、マシニングセンタ、ベンダー、金型プレスなど、",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボットや医療機器などの外装（筐体）において、",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここが効くのは、金型設計・製作とプレス量産を自社に持っているためです",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "書家・デザイナーとのアクセサリー開発や、福島県の割り箸製造会社向けの先端加工機製作、JALエンジニアリングとの退役航空機部品のアップサイクル家具など、",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "依頼企業：千葉大学（ハドロン宇宙国際研究センター）",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "各種装置・機械の設計開発、架台・筐体設計・製作、精密板金加工・レーザー加工、金属プレス金型設計・製作、金属プレス加工、切削加工・機械加工、複合加工、各種アッセンブリ加工、ラピッドマニュファクチャリング（3Dプリンター・レーザーカッター・CNC加工・UVプリント・3Dスキャン・3Dデータ作成）",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "■浜野製作所は超特急納品！■レーザー加工・精密板金・プレス・金型加工等、図面のない試作品1個のみから量産まで、特急品でも喜んでお受けします",
+    "url": "https://www.atengineer.com/pr/hamano-products/company",
+    "pass": 3
+   },
+   {
+    "quote": "立ち乗り3輪車「ストリーモ」や分身ロボット「OriHime」といった革新的な製品の誕生は、その象徴です",
+    "url": "https://note.com/aru343/n/nc979ed235428",
+    "pass": 3
+   },
+   {
+    "quote": "そこで得た共創の経験とネットワークが、分身ロボット開発といった高リスク・高付加価値な多角化を可能にする、という計算された成長モデルです",
+    "url": "https://note.com/aru343/n/nc979ed235428",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工を主事業としながら、産学官連携としての電気自動車『HOKUSAI』深海探査艇『江戸っ子一号』等多数の新規的なプロジェクトを担っています",
+    "url": "https://note.com/k_ai5555/n/n8e917021c5d5",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "各種装置・機械の設計開発、架台・筐体設計・製作、精密板金加工・レーザー加工、金属プレス金型設計・製作、金属プレス加工 切削加工・機械加工、複合加工、各種アッセンブリ加工、ラピッドマニュファクチャリング（3Dプリンター・レーザーカッター・CNC加工・UVプリント・3Dスキャン・3Dデータ作成）",
+    "url": "https://hamano-products.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置関連部品・建築金物部品・事務機器関連部品・コネクター部品・ポンプ関連部品・光学関連部品・理化学部品・バイオ関連部品・農機具・農業用部品・オートバイパーツ・ゲーム機関連部品・自動車関連部品・医療機器・弱電部品・精密測定装置関連部品・スイッチング機器部品・情報通信機関連部品・液品パネル貼合せ装置部品・航空宇宙関連部品・ロボット製作・深海・海洋関連部品・各種治具・3Dプリンターパーツ・美術品・発明アイデア商品・デザイナーズ商品 他",
+    "url": "https://hamano-products.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "（レーザー加工機、ベンダー、溶接機、CAD/CAMシステム等を導入）",
+    "url": "https://hamano-products.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Mastercam 2018",
+    "url": "https://hamano-products.co.jp/company/equipments/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター",
+    "url": "https://hamano-products.co.jp/company/equipments/",
+    "pass": 1
+   },
+   {
+    "quote": "熱溶解積層式3Dプリンター",
+    "url": "https://hamano-products.co.jp/company/equipments/",
+    "pass": 1
+   },
+   {
+    "quote": "光造形式3Dプリンター",
+    "url": "https://hamano-products.co.jp/company/equipments/",
+    "pass": 1
+   },
+   {
+    "quote": "https://camp-fire.jp/projects/view/444217#menu",
+    "url": "https://hamano-products.co.jp/designing/",
+    "pass": 1
+   },
+   {
+    "quote": "2DCAD：MicroCADAM、AutoCAD LT、AutoCAD Ｍechanical、HiCAD 他 3DCAD：Pro/E、CATIA V5、SolidWorks、Inventor、ICAD、SX、SolidMX他",
+    "url": "https://hamano-products.co.jp/designing/",
+    "pass": 1
+   },
+   {
+    "quote": "Hamano Products Co.,Ltd.",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%87%8E%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "https://hamano-products.co.jp/",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%87%8E%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.tv-tokyo.co.jp/cambria/backnumber/2023/0622/",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%87%8E%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "https://hamano-products.co.jp/",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "この振れ幅を支えているのが、金型設計・製作から量産プレス、精密板金・レーザー加工、機械加工・複合加工、各種アッセンブリ、そして3Dプリンター・レーザーカッター・CNC加工・3Dスキャンによる高速試作までを",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "参照元：浜野製作所公式HP「会社概要」2025年1月現在（https://hamano-products.co.jp/company/）／",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "参照元：浜野製作所公式HP「会社概要」（https://hamano-products.co.jp/company/）／",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "地元中小企業とJAMSTEC、芝浦工業大学、東京海洋大学、東京東信用金庫による産学官連携で、",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "参照元：浜野製作所公式HP（https://hamano-products.co.jp/2014/04/江戸っ子1号の深海8000メートル耐圧加工技術を応用/）",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "JAMSTEC（海洋研究開発機構）、芝浦工業大学、東京海洋大学、東京東信用金庫との産学官金連携で開発を推進し、",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "連携先：JAMSTEC、芝浦工業大学、東京海洋大学、東京東信用金庫ほか地元中小企業",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "参照元：浜野製作所公式HP「深海探査艇 江戸っ子1号」（https://hamano-products.co.jp/hamanoproject/edokko1/）／",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "各種装置・機械の設計開発、架台・筐体設計・製作、精密板金加工・レーザー加工、金属プレス金型設計・製作、金属プレス加工、切削加工・機械加工、複合加工、各種アッセンブリ加工、ラピッドマニュファクチャリング（3Dプリンター・レーザーカッター・CNC加工・UVプリント・3Dスキャン・3Dデータ作成）",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "https://youtu.be/YJZLlAMnJK8?si=1XLhZ1GP6ed9Vzw2",
+    "url": "https://note.com/k_ai5555/n/n8e917021c5d5",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "通常のステンレスからチタンなどの難削材まで量産化をご検討の際はお気軽にご相談ください",
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "pass": 1
+   },
+   {
+    "quote": "仮型（簡易型）やワイヤーカットなどを駆使し、ステンレス、アルミ、真鍮、銅、チタンなど板厚百分台から微細加工を行います",
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "pass": 1
+   },
+   {
+    "quote": "マイナス30度の極寒環境や、極度の圧力に耐えうる堅牢性が求められる一方で、観測機器としての精度を保つため「電波観測を阻害しない材質」という極めて厳しい制約がありました",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "過酷な環境下でも機能し、かつ観測を妨げない材質の選定や加工方法を提案しました",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "堅牢さを求めれば材質が重く電波を遮り、電波透過を優先すれば強度が落ちる",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "材質選定と加工方法をセットで提案できること",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "浜野製作所 - Wikipedia — 浜野製作所 ... 株式会社浜野製作所 （はまのせいさくしょ、 英: Hamano Products Co.,Ltd.）は、東京都墨田区八広4-39-7に本社を置く金属加工メーカー。 精密板金 加工、 プレス加工 、 金型 設計・製作、 プロトタイプ を主な事業としている。",
+    "url": "https://ja.wikipedia.org/wiki/浜野製作所",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発コンサル｜設計から量産まで一貫支援する「浜野製作所」の強... — ハードウェア開発における試作や量産加工の壁に悩む企業に向けて、浜野製作所（Garage Sumida）の開発支援サービスを解説。 精密板金や切削の知見を活かし、構想段階から「作れる図面」への具現化、量産移行までを伴走する強みを紹介します。",
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社浜野製作所（東京都墨田区）の板金加工・溶接加工・受託製造... — 株式会社浜野製作所が受託している板金加工・溶接加工・受託製造・OEM・設計から量産まで一貫・プレス加工・設計・試作・レーザー加工・金型の処理の種類・材質・大きさ・設備。 各社の公式サイトで確認。",
+    "url": "https://makerzukan.jp/m/hamano-products/",
+    "pass": 3
+   },
+   {
+    "quote": "製品事例 - 浜野製作所 — 製品事例 ... 難加工材「ジルカロイ」で折り鶴を製作しました。 ... 難加工素材やその製品の販売をされている会社から依頼を受け、この度「ジルカロイ」の折り鶴を製作致しまし 続きを読む",
+    "url": "https://hamano-products.co.jp/processing/examples/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 浜野製作所 — 浜野製作所の会社概要ページです。会社基本情報、沿革、受賞歴、インターンシップ受け入れ校（実績）について紹介して ...",
+    "url": "https://hamano-products.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社浜野製作所 - 会社概要 — 株式会社浜野製作所の事業概要 浜野製作所は超特急納品！ レーザー加工・精密板金・プレス・金型加工等、図面のない試作品1個のみから量産まで、特急品でも喜んでお受けします。 まずはお気軽にお問い合わせください。",
+    "url": "https://www.atengineer.com/pr/hamano-products/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社浜野製作所 | 事業概要・投資方針・投資実績 | FIRST CVC — 株式会社浜野製作所の事業概要、投資方針、投資実績をまとめた企業プロフィール。 株式会社浜野製作所は1968年創業、1978年4月設立で、本社を東京都墨田区に置く金属加工・開発の会社です。",
+    "url": "https://www.firstcvc.jp/company/hamano-products.co.jp",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社浜野製作所の会社概要・製品情報 | Metoree — 金属部品の板金加工を主要な事業内容とし、国際品質規格であるISO9001を取得するなど、高い品質管理体制を敷いており、半導体部品メーカーや理化学機器メーカー、事務機器メーカーを主要な取引先としています。",
+    "url": "https://metoree.com/companies/5976/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 浜野製作所 — お問い合わせ お問い合わせフォームをご利用の方は下記事項をご確認の上、フォームをご入力ください。 お客様からいただく個人情報は、お問い合わせ・ご質問への回答、情報提供のために使用させていただきます。",
+    "url": "https://hamano-products.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "浜野製作所 - 浜野製作所（東京都墨田区）は設計・開発・OEM、板金・... — 2026-10-05 お知らせ 10月2日（金）株式会社浜野製作所 第50期経営計画発表会を行いました。 2026-09-29 お知らせ 社内行事の実施により、10月2日（金）は午前11時までの営業となります 2026-09-28 メディア 取材 【新聞掲載：浜野会長インタビュー】 開発・設計事業",
+    "url": "http://hamano-products.co.jp/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【グロースの翼】浜野製作所～イノベーション戦略と共感経営～ Nov 5, 2025 · 持続的な成長を実現するためには、未来を担う人材への投資が不可欠です。 浜野製作所は、若者たちにものづくりの魅力を伝え、実践的な学びの場を提供することで、企業の未来だけでなく、産業全体の未来をも見据えた戦略を展開しています。",
+    "url": "https://note.com/aru343/n/nc979ed235428",
+    "pass": 3
+   },
+   {
+    "quote": "日本が誇る町工場、浜野製作所に学ぶ｜か〜い May 6, 2024 · 町工場の名は、浜野製作所。 火災等、幾度もピンチに陥りながら挑戦を続け、今や天皇陛下もご見学される先進的な取り組みをする企業へと成長を遂げ多方面から注目が集まっています。 取引先は、4社から約4500社へ。",
+    "url": "https://note.com/k_ai5555/n/n8e917021c5d5",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタのPMFを地でいく浜野製作所の内田さん〜レヴィ＝ストロースのブ... Sep 22, 2025 · 浜野製作所の内田さんの実践は、その象徴と言えるものです。 顧客の声を真正面から受け止め、手元にある資源を最大限に活かしながら最適解を導き出す姿勢は、まさにトヨタが歩んできたPMFの実践と重なります。",
+    "url": "https://note.com/bonustrack/n/n427e53e2f562",
+    "pass": 3
+   },
+   {
+    "quote": "【⚜️カンブリア宮殿⚜️】浜野製作所 Aug 27, 2023 · 浜野製作所が町工場のハブとなり、各町工場に仕事を依頼する (墨田区内120社、全国600社の協力企業あり) 町工場にも関わらず赤い作業着を着る集団 何か課題を解決するために集った人たちに横の繋がりもできている (新たなコミュニティの創出)",
+    "url": "https://note.com/dash1327/n/n9661d2336f79",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【グロースの翼】浜野製作所～イノベーション戦略と共感経営～｜村上哲也",
+    "url": "https://note.com/aru343/n/nc979ed235428",
+    "pass": 3
+   },
+   {
+    "quote": "【グロースの翼】浜野製作所～イノベーション戦略と共感経営～",
+    "url": "https://note.com/aru343/n/nc979ed235428",
+    "pass": 3
+   },
+   {
+    "quote": "倒産寸前からV字回復！火災を乗り越え、社会課題解決企業へ変貌を遂げた浜野製作所の軌跡。",
+    "url": "https://note.com/aru343/n/nc979ed235428",
+    "pass": 3
+   },
+   {
+    "quote": "下請けからの脱却、顧客との信頼構築、共創戦略、人材育成、地域共創…中小企業が学ぶべき成長戦略が満載！その成功の秘密を徹底分析します！",
+    "url": "https://note.com/aru343/n/nc979ed235428",
+    "pass": 3
+   },
+   {
+    "quote": "浜野製作所は、火災による工場全焼とそれに伴う経営難という絶望的な状況から、卓越した事業改革によってV字回復を成し遂げました。",
+    "url": "https://note.com/aru343/n/nc979ed235428",
+    "pass": 3
+   },
+   {
+    "quote": "単なる下請けの町工場から、社会課題を解決するイノベーションハブへと飛躍した同社の軌跡は、多くの中小企業にとって重要な示唆を与えてくれます。",
+    "url": "https://note.com/aru343/n/nc979ed235428",
+    "pass": 3
+   },
+   {
+    "quote": "本稿では、同社の成功を支えた独自の戦略を多角的に分析します。",
+    "url": "https://note.com/aru343/n/nc979ed235428",
+    "pass": 3
+   },
+   {
+    "quote": "25年前の工場全焼と顧客離れという危機を乗り越え、従業員2名から54名へと成長を遂げました。",
+    "url": "https://note.com/aru343/n/nc979ed235428",
+    "pass": 3
+   },
+   {
+    "quote": "日本が誇る町工場、浜野製作所に学ぶ｜か〜い",
+    "url": "https://note.com/k_ai5555/n/n8e917021c5d5",
+    "pass": 3
+   },
+   {
+    "quote": "最近、つい友人にシェアしてしまう動画があります。それは、過去にアンビリーバボーにもとりあげられた町工場の復活物語。",
+    "url": "https://note.com/k_ai5555/n/n8e917021c5d5",
+    "pass": 3
+   },
+   {
+    "quote": "町工場の名は、浜野製作所。火災等、幾度もピンチに陥りながら挑戦を続け、今や天皇陛下もご見学される先進的な取り組みをする企業へと成長を遂げ多方面から注目が集まっています。取引先は、4社から約4500社へ。目覚ましい成長の背景には、浜野社長の情熱と努力、お客様、スタッフ、地域への強い想いがありました。",
+    "url": "https://note.com/k_ai5555/n/n8e917021c5d5",
+    "pass": 3
+   },
+   {
+    "quote": "私は祖父が鉄工所、更に自営業を営む家庭で育ったことから、共感する部分も多く、このストーリーに勇気を頂きました。",
+    "url": "https://note.com/k_ai5555/n/n8e917021c5d5",
+    "pass": 3
+   },
+   {
+    "quote": "https://youtu.be/YJZLlAMnJK8?si=1XLhZ1GP6ed9Vzw2",
+    "url": "https://note.com/k_ai5555/n/n8e917021c5d5",
+    "pass": 3
+   },
+   {
+    "quote": "そんな浜野製作所の取り組みをまとめた書籍が出版されていることを知り、早速読了したのでその一部をご紹介いたします。",
+    "url": "https://note.com/k_ai5555/n/n8e917021c5d5",
+    "pass": 3
+   },
+   {
+    "quote": "1968年、墨田区にて創業。金属加工を主事業としながら、産学官連携としての電気自動車『HOKUSAI』深海探査艇『江戸っ子一号』等多数の新規的なプロジェクトを担っています。",
+    "url": "https://note.com/k_ai5555/n/n8e917021c5d5",
+    "pass": 3
+   },
+   {
+    "quote": "その歴史は、現在の社長である浜野慶一さんのお父様が立ち上げた家内工場から始まりました。詳細はアンビリーバボーの動画を見て頂きたいのですが、まさに多くの人の心を動かす挑戦物語と言えます。",
+    "url": "https://note.com/k_ai5555/n/n8e917021c5d5",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタのPMFを地でいく浜野製作所の内田さん〜レヴィ＝ストロースのブリコラージュ（器用仕事）は現代に生きている〜｜コンテンツコンビニ",
+    "url": "https://note.com/bonustrack/n/n427e53e2f562",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタのPMFを地でいく浜野製作所の内田さん〜レヴィ＝ストロースのブリコラージュ（器用仕事）は現代に生きている〜",
+    "url": "https://note.com/bonustrack/n/n427e53e2f562",
+    "pass": 3
+   },
+   {
+    "quote": "プロダクトと市場が適合する「PMF（Product-Market Fit）」という概念は、スタートアップやテック業界の専売特許ではありません。実は、日本の製造業や町工場の現場にこそ、その本質が息づいています。",
+    "url": "https://note.com/bonustrack/n/n427e53e2f562",
+    "pass": 3
+   },
+   {
+    "quote": "浜野製作所の内田さんの実践は、その象徴と言えるものです。顧客の声を真正面から受け止め、手元にある資源を最大限に活かしながら最適解を導き出す姿勢は、まさにトヨタが歩んできたPMFの実践と重なります。そしてその背景には、フランスの人類学者レヴィ＝ストロースが提示した「ブリコラージュ（器用仕事）」の哲学が響いています。",
+    "url": "https://note.com/bonustrack/n/n427e53e2f562",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタは長年にわたり「顧客にとっての移動の価値」を追求してきました。ハイブリッド車の開発は環境規制と燃費志向への応答であり、水素自動車への挑戦は持続可能な社会への布石です。",
+    "url": "https://note.com/bonustrack/n/n427e53e2f562",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタが示してきたのは、ゼロからの発明ではなく、既存の資源や技術を組み合わせて顧客や社会にフィットさせるという発想です。文脈に適合する「最適化の創造」こそ、トヨタ型PMFの真髄と言えるでしょう。",
+    "url": "https://note.com/bonustrack/n/n427e53e2f562",
+    "pass": 3
+   },
+   {
+    "quote": "浜野製作所・内田さんの「頼まれごとは試されごと」",
+    "url": "https://note.com/bonustrack/n/n427e53e2f562",
+    "pass": 3
+   },
+   {
+    "quote": "大手メーカーが敬遠する小ロットや多品種の加工に挑み、顧客からの難題を「頼まれごとは、試されごと」として引き受けます。",
+    "url": "https://note.com/bonustrack/n/n427e53e2f562",
+    "pass": 3
+   },
+   {
+    "quote": "【⚜️カンブリア宮殿⚜️】浜野製作所｜まいにち英会話を頑張るだけのアカウント",
+    "url": "https://note.com/dash1327/n/n9661d2336f79",
+    "pass": 3
+   },
+   {
+    "quote": "2023年6月22日放送、「モノづくりの駆け込み寺」である浜野製作所の放送会のレビューになります‼️",
+    "url": "https://note.com/dash1327/n/n9661d2336f79",
+    "pass": 3
+   },
+   {
+    "quote": "まさにアジャイル開発を絵に描いたような会社。今最も求められる会社なのではないか、是非見るべき。",
+    "url": "https://note.com/dash1327/n/n9661d2336f79",
+    "pass": 3
+   },
+   {
+    "quote": "ベンチャー企業が改良依頼を持ち込むと、5分とかからず実際に改良を始める。そのスピード感が好まれる要因",
+    "url": "https://note.com/dash1327/n/n9661d2336f79",
+    "pass": 3
+   },
+   {
+    "quote": "高速で試作のトライ＆エラーを繰り返すことが得意",
+    "url": "https://note.com/dash1327/n/n9661d2336f79",
+    "pass": 3
+   },
+   {
+    "quote": "ベンチャー企業は相談を持ち掛けてもあまり相手にされることがない。そんな中、手厚く相談に乗り、支援してくれることが価値",
+    "url": "https://note.com/dash1327/n/n9661d2336f79",
+    "pass": 3
+   },
+   {
+    "quote": "浜野製作所が町工場のハブとなり、各町工場に仕事を依頼する(墨田区内120社、全国600社の協力企業あり)",
+    "url": "https://note.com/dash1327/n/n9661d2336f79",
+    "pass": 3
+   },
+   {
+    "quote": "何か課題を解決するために集った人たちに横の繋がりもできている(新たなコミュニティの創出)",
+    "url": "https://note.com/dash1327/n/n9661d2336f79",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 浜野製作所 on X: \"浜野製作所の工場見学・ワークショップに... 浜野製作所の工場見学・ワークショップにご参加をいただきました皆様、見守ってくださった皆様、ありがとうございました！ おかげさまで無事に終了致しました。 初挑戦のワークショップでは全員がカタチにできたことに安堵しつつ、みなさんが作っている時の真剣な顔や笑顔に目頭が何度 ...",
+    "url": "https://x.com/hamano_products/status/1989672079583842713",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 浜野製作所 on X: \"墨田区の様々な工場や工房をご覧いただけ... 墨田区の様々な工場や工房をご覧いただけるオープンファクトリ―イベント「スミファ sumifa.jp」で、浜野製作所は2026/11/20と11/21にワークショップを実施します あのコ🐕がいよいよ歩きますよ 詳細・お申し込みはこちら garage-sumida.wixsite.com/sumifa2026 目下 ...",
+    "url": "https://x.com/hamano_products/status/2108861308183748697",
+    "pass": 3
+   },
+   {
+    "quote": "企業説明をした後に「で、浜野製作所さんは何をやっている会社なんで... エコシステムを差別化と成長の糧にする中小製造業の勝ち筋——浜野製作所の挑戦 多くの製造業がDXで十分な成果が得られていない中、あらためてDXの「X」の重要性に注目が集まっている。",
+    "url": "https://x.com/hamano_products/status/1982670647789748452",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 浜野製作所 on X: \"千葉大学 ハドロン宇宙国際研究センター... #ノーベル物理学賞 江戸っ子1号の深海8000メートル耐圧加工技術を応用して、千葉大学が進めているニュートリノ観測プロジェクト「IceCube」の検出器の一部を製作いたしました。 - 浜野製作所 From hamano-products.co.jp 1:54 AM · Oct 7, 2026 · 296 Views 3 3",
+    "url": "https://x.com/hamano_products/status/2107650739422331292",
+    "pass": 3
+   },
+   {
+    "quote": "#浜野製作所 - Search / X See posts about #浜野製作所 on X. See what people are saying and join the conversation.",
+    "url": "https://x.com/hashtag/浜野製作所",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 浜野製作所 (@hamano_products) / X 工科高校のイベントで昨日、会長の浜野がお話しさせていただきました。 エンジニアの皆さんのコメントが沁みます。 よろしければ。 魔改造の夜×工科高校 「未来を動かす、つくるの力。 」｜都立工科高校ドリーム・フェスタ2026",
+    "url": "https://x.com/hamano_products",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 浜野製作所（Hamano Products.Co.,Ltd.） | Sumida-ku Tokyo【2025年版中小企業白書に弊社の取組後... - 株式会社 浜野製作所（Ha...5月7日 (木)... - 株式会社 浜野製作所（Hamano Products.Co.,Ltd.） ...【新体制のご挨拶】... - 株式会社 浜野製作所（Hamano Products.Co.,...株式会社浜野製作所 - Facebook弊社の社員の活躍を放送していただきまし... - 株式会社 浜野製作所（...【インターン】... - 株式会社 浜野製作所（Hamano Products.Co.,Ltd.... 【たつじんプロジェクト002】 浜野製作所さま 金属のバリ取り技術を学ぼう！ あそび大学の初日となる8月25日（火）、墨田区 の金属加工・製品開発支援の町工場『浜野製作所 』の社員",
+    "url": "https://www.facebook.com/hamanoproducts/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社浜野製作所 - Facebook Facebook is showing information to help you better understand the purpose of a Page. See actions taken by the people who manage and post content.",
+    "url": "https://www.facebook.com/株式会社浜野製作所-102638972356107/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社の社員の活躍を放送していただきまし... - 株式会社 浜野製作所（... Jun 11, 2026 · 【たつじんプロジェクト002】 浜野製作所さま 金属のバリ取り技術を学ぼう！ あそび大学の初日となる8月25日（火）、墨田区 の金属加工・製品開発支援の町工場『浜野製作所 』の社員さんが来てくださり、こども達に金属の バリ取りを教えてくれました。",
+    "url": "https://www.facebook.com/hamanoproducts/posts/弊社の社員の活躍を放送していただきました相談から設計そして製品化まで関われるその点に魅力を感じて町工場浜野製作所を職場に選んでくれた高専卒で現製造部副部長ロボコ/1527349062517389/",
+    "pass": 3
+   },
+   {
+    "quote": "【インターン】... - 株式会社 浜野製作所（Hamano Products.Co.,Ltd.... May 20, 2019 · また、ご応募多数の 場合、選考となる可能性があります。 恐れ入りますが ご了承いただけますようお願いいたします。 #浜野製作所 #インターン シンニチ工業株式会社 / Shinnichi Kogyo Corpora...",
+    "url": "https://www.facebook.com/hamanoproducts/posts/インターン今年度の夏季インターン開催が決まりましたのでご案内いたします募集するのは設計開発コースと次世代職人コース2種類のプログラムです最前線で活躍する先輩社員/3221412907872676/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 浜野製作所（Hamano Products.Co.,Ltd.） | Sumida-ku Tokyo麻耶佐藤 (浜野製作所 の投稿者)浜野製作所「製造業X（エックス）」をテーマとしたM... - 株式会社 浜野製作所（...エコシステムを差別化と成長の糧にする中小製造業の勝ち筋――浜野製作... 【たつじんプロジェクト002】 浜野製作所さま 金属のバリ取り技術を学ぼう！ あそび大学の初日となる8月25日（火）、墨田区 の金属加工・製品開発支援の町工場『浜野製作所 』の社員さんが来てくださり、こども達に金属の バリ取りを教えてくれました。 朝日新聞さんが発行する週末の別刷り「be on Sunday」に、浜野会長のインタビューを掲載していただきました！ 社員および家族より、「日曜日に新聞を開いたら浜野会長が…!」と、うれしい報告も受け取っております。 Oct 26, 2025 · ",
+    "url": "https://www.facebook.com/hamanoproducts/",
+    "pass": 3
+   },
+   {
+    "quote": "「製造業X（エックス）」をテーマとしたM... - 株式会社 浜野製作所（... Oct 26, 2025 · 「製造業X（エックス）」をテーマとしたMonoistさんの連載にて、浜野製作所を取り上げていただきました。 企業説明をした後でも「結局、浜野製作所さんは何をしている会社なんですか？ 」と、問われがちな弊社。 ...",
+    "url": "https://www.facebook.com/hamanoproducts/posts/製造業xエックスをテーマとしたmonoistさんの連載にて浜野製作所を取り上げていただきました企業説明をした後でも結局浜野製作所さんは何をしている会社なんですか/1337138211538476/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "浜野 慶一 - 株式会社浜野製作所 - 代表取締役 | LinkedIn 株式会社浜野製作所 - 代表取締役 · 職歴: 株式会社浜野製作所 · 場所: 東京都 · LinkedInのつながり104人。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで浜野 慶一さんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/慶一-浜野-35751890",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://hamano-products.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hamano-products.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hamano-products.co.jp/company/map/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hamano-products.co.jp/processing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hamano-products.co.jp/company/equipments/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hamano-products.co.jp/designing/design-examples/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hamano-products.co.jp/processing/examples/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hamano-products.co.jp/company/president/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hamano-products.co.jp/company/vision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hamano-products.co.jp/designing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hamano-products.co.jp/processing/fineplate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hamano-products.co.jp/processing/assemble/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hamano-products.co.jp/processing/molding/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://hamano-products.co.jp/map/map-from-YahiroStation.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://hamano-products.co.jp/wp-content/themes/hamano2013/images/main_mark.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hamano-products.co.jp/wp-content/themes/hamano2013/images/logo_type.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hamano-products.co.jp/wp-content/uploads/2018/01/30b2e5f804fb58a1075b60b5d390bfd1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hamano-products.co.jp/wp-content/uploads/2018/01/48c343da61aebd0d20b769c154c90298.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hamano-products.co.jp/wp-content/uploads/2018/01/d16524d3bc55bdb9b92bacd194f0e3a1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hamano-products.co.jp/wp-content/uploads/2013/02/49ab4f912d58abfb579b85f0f8831447.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hamano-products.co.jp/wp-content/uploads/2017/01/d8fea149b892aa331bf2784c483e56fa.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hamano-products.co.jp/wp-content/uploads/2017/01/6c065560426890afb7c8ca371a4ae8d4.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hamano-products.co.jp/wp-content/uploads/2017/01/e4c13e9f7a7d9131e630d08c7defd5c9.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hamano-products.co.jp/wp-content/uploads/2017/01/e70745adeadd6e95e29d795a784c2dff.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hamano-products.co.jp/wp-content/uploads/2018/01/20180115001a-276x300.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hamano-products.co.jp/images/2020ISO.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%87%8E%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.matuyama-ss.co.jp/products.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%87%8E%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hamano-products.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/hamano-products/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hamano-products.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hamano-products.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hamano-atsuen.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/aru343/n/nc979ed235428",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/k_ai5555/n/n8e917021c5d5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bonustrack/n/n427e53e2f562",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dash1327/n/n9661d2336f79",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hamano_products/status/1989672079583842713",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hamano_products/status/2108861308183748697",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hamano_products/status/1982670647789748452",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hamano_products/status/2107650739422331292",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hamanoproducts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/株式会社浜野製作所-102638972356107/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hamanoproducts/posts/弊社の社員の活躍を放送していただきました相談から設計そして製品化まで関われるその点に魅力を感じて町工場浜野製作所を職場に選んでくれた高専卒で現製造部副部長ロボコ/1527349062517389/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hamanoproducts/posts/インターン今年度の夏季インターン開催が決まりましたのでご案内いたします募集するのは設計開発コースと次世代職人コース2種類のプログラムです最前線で活躍する先輩社員/3221412907872676/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/慶一-浜野-35751890",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/浜野製作所",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hamanoproducts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hamanoproducts/posts/製造業xエックスをテーマとしたmonoistさんの連載にて浜野製作所を取り上げていただきました企業説明をした後でも結局浜野製作所さんは何をしている会社なんですか/1337138211538476/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hamano_products",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "浜野製作所 取扱製品 試作 小ロット",
+   "results": [
+    "https://ja.wikipedia.org/wiki/浜野製作所",
+    "http://www.matuyama-ss.co.jp/products.html",
+    "https://www.product-dev-guide.com/service-guide/hamano.html",
+    "https://makerzukan.jp/m/hamano-products/",
+    "https://hamano-products.co.jp/processing/examples/",
+    "https://kouno-ss.com/small-lot/",
+    "http://hamano-products.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "浜野製作所 会社概要 事業内容",
+   "results": [
+    "https://ja.wikipedia.org/wiki/浜野製作所",
+    "https://hamano-products.co.jp/company/",
+    "https://www.atengineer.com/pr/hamano-products/company",
+    "https://www.firstcvc.jp/company/hamano-products.co.jp",
+    "https://metoree.com/companies/5976/",
+    "https://eigyo-mfg.com/service/navi/company/XjGXdCXQEzHp",
+    "https://hamano-products.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "浜野製作所 お問い合わせ メール",
+   "results": [
+    "https://hamano-products.co.jp/contact/",
+    "http://hamano-products.co.jp/",
+    "http://www.hamano-atsuen.co.jp/inquiry.php",
+    "https://www.hamanosangyo.co.jp/contact/",
+    "https://www.hiranojp.com/inquiry/",
+    "https://konoseisakusho.jp/contact/",
+    "https://ja.nc-net.or.jp/company/77425/inquiry/input/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 浜野製作所",
+   "results": [
+    "https://note.com/aru343/n/nc979ed235428",
+    "https://note.com/k_ai5555/n/n8e917021c5d5",
+    "https://note.com/bonustrack/n/n427e53e2f562",
+    "https://note.com/dash1327/n/n9661d2336f79",
+    "https://note.com/whillcommunity/n/n107b9433bb04",
+    "https://note.com/monoiku/n/n36bdf791ac4c",
+    "https://note.com/zenschool/n/n4d22c4e806ed"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 浜野製作所",
+   "results": [
+    "https://x.com/hamano_products/status/1989672079583842713",
+    "https://x.com/hamano_products/status/2108861308183748697",
+    "https://x.com/hamano_products/status/1982670647789748452",
+    "https://x.com/hamano_products/status/2107650739422331292",
+    "https://x.com/hashtag/浜野製作所",
+    "https://x.com/hamano_products",
+    "https://x.com/hamano_products/status/1730211323882168764"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 浜野製作所",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 浜野製作所",
+   "results": [
+    "https://www.facebook.com/hamanoproducts/",
+    "https://www.facebook.com/株式会社浜野製作所-102638972356107/",
+    "https://www.facebook.com/hamanoproducts/posts/弊社の社員の活躍を放送していただきました相談から設計そして製品化まで関われるその点に魅力を感じて町工場浜野製作所を職場に選んでくれた高専卒で現製造部副部長ロボコ/1527349062517389/",
+    "https://www.facebook.com/hamanoproducts/posts/インターン今年度の夏季インターン開催が決まりましたのでご案内いたします募集するのは設計開発コースと次世代職人コース2種類のプログラムです最前線で活躍する先輩社員/3221412907872676/",
+    "https://www.facebook.com/hamanoproducts/posts/2025年版中小企業白書に弊社の取組後ご紹介いただきましたすでにご覧頂いた方もいらっしゃるかと思いますが2025年4月25日に弊社の取り組みをご紹介いただきまし/1198968265355472/",
+    "https://www.facebook.com/hamanoproducts/posts/5月7日木-19572100に放送されるフジテレビ奇跡体験アンビリバボーで代表浜野のストーリーが取り上げられます連休明け初日の方も多いと思いますがお時間ございま/4314537495226873/",
+    "https://www.facebook.com/hamanoproducts/posts/新体制のご挨拶先日ご報告をいたしました弊社の新体制に向けて会長の浜野と社長の小林のコメントを改めてホームページに掲載いたしました-よろしければご覧ください/1046244520627848/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "浜野製作所 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/浜野製作所",
+    "https://hamano-products.co.jp/company/president/",
+    "https://hamano-products.co.jp/company/",
+    "https://jp.linkedin.com/in/慶一-浜野-35751890",
+    "https://roushikyo-digital.com/archive_previous_pos/management-6959/",
+    "https://www.kouenirai.com/profile/9536",
+    "https://jbvisions.jp/kenjin/088.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "浜野製作所 X 投稿",
+   "results": [
+    "https://x.com/hashtag/浜野製作所",
+    "https://www.facebook.com/hamanoproducts/",
+    "https://www.facebook.com/hamanoproducts/posts/製造業xエックスをテーマとしたmonoistさんの連載にて浜野製作所を取り上げていただきました企業説明をした後でも結局浜野製作所さんは何をしている会社なんですか/1337138211538476/",
+    "https://x.com/hamano_products",
+    "http://hamano-products.co.jp/",
+    "https://hamano-products.co.jp/author/satow/",
+    "https://monoist.itmedia.co.jp/mn/articles/2510/27/news001.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像13件／外部26頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式13頁／PDF・画像13件／外部26頁・検索9回）"
+ }
+}

@@ -1,0 +1,1248 @@
+{
+ "name": "株式会社プラメリーデザイン",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T23:14:05.058651+00:00",
+ "official_url": "https://www.plamerry.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒277-0871 千葉県 柏市 若柴6-60",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "日本 千葉県 柏市 [地図を見る] 担当者 忽那広樹",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "25人",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "30名",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "•3次元CADによるモデリング・商品開発ものづくり支援 •精密真空注型、MC切削加工、光造形、粉末造形による工業用モデルの試作製作 •自動車関連・各車両・農機具関連の試作支援 •家電機器・通信機器・OA機器・医療機器・介護機器の試作支援 •人工知能（AI）を活用した介護・医療・産業用ロボット開発支援 •玩具・アミューズメント関連の開発支援 •SLMシステムによるナイロンプラス真空注型（PA6 GF30/CF20） •簡易射出システムによる小ロット試作用射出成形 •試作型・金型設計 •設計から量産までのシステムネットワークによる、製造管理受託業務 •UV照射装置の販売・技術サポート •三次元測定業務（接触式 非接触式スキャナ型対応） •中国長興社製の注型機＆恒温槽の販売・技術サポート",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "社長携帯電話",
+    "value": "090-0000-0000",
+    "url": "https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf",
+    "pass": 2
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "自動車開発メーカー・自動車関連のサプライヤー企業・医療関連企業・\n家電機器関連企業・通信機器関連企業・介護機器関連企業・他 (順不同・敬称略)",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "label": "主要取引先",
+    "value": "大手自動車メーカー 家電・通信機器メーカー 車両部品メーカー 医療・介護機器メーカー 農機具・船舶関連メーカー",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "プラスチック製品の製作において、種々のニーズに応えてきたプラメリーデザインでは、試作・型設計から量産品の製造までをトータルに対応しています",
+    "url": "https://www.plamerry.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "革新的な工業製品の企画開発を支援します「ゼロからのモノづくり」でお客様独自のニーズに対応します",
+    "url": "https://www.plamerry.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プラメリーデザインでは、革新的な工業製品の企画開発を支援しています",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "試作製品の製作において種々のニーズに応えてきたプラメリーデザインでは企画提案・3Dデータの設計から量産品の製造までトータルに対応しています",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "スタッフが力を合わせ、常にクオリティの高い製品づくりを目指していこうという当社のメッセージが込められています",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "情熱の込められた製品は、利用する人々の「幸せ」に、いつもパワーを与えてくれます",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "より良いモノを人々が手にし、その製品に込められた情熱を感じ取る",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "そこから生まれた感動が、その製品をさらに成長させていく",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック製品の製作において、種々のニーズに応えてきたプラメリーデザインでは、試作・型設計から量産品の製造までトータルに対応しています",
+    "url": "https://www.plamerry.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "実際の組立て・稼動試験による製品構成に関する技術検証や3次元測定を行うことで、 ユーザーの工数削減、品質管理（ISO9001）など生産性の向上に貢献します",
+    "url": "https://www.plamerry.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "真空状態で樹脂をシリコーン型にキャストして製品の複製（形状により20個前後）を作る工法です",
+    "url": "https://www.plamerry.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "製品自体が高価で販売台数が少ない商品では、この工法で注型品量産する場合もあります",
+    "url": "https://www.plamerry.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "継続的な品質改善を図るため従来のISO規格に則り、当社が定義した目標達成に向けて組織を適切に管理するルールの制定や万全な体制による「情報セキュリティ」を強化することにより高い品質の製品やサービス提供による顧客満足度の向上に寄与することをお約束致します",
+    "url": "https://www.plamerry.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "そのほか、暮らしや産業を支えるプラスチック製品の多くがマシニングセンタによって生み出されています",
+    "url": "https://www.plamerry.co.jp/mccutting/",
+    "pass": 1
+   },
+   {
+    "quote": "工業用製品試作モデル⇒モックアップデザインモデル・ワーキングモデル",
+    "url": "https://www.plamerry.co.jp/mccutting/",
+    "pass": 1
+   },
+   {
+    "quote": "マシニングセンター（M/C）を中心に精密な機構部品から3次元形状の意匠製品まで製作可能です",
+    "url": "https://www.plamerry.co.jp/mccutting/",
+    "pass": 1
+   },
+   {
+    "quote": "自社ブランドのペレットおよびご指定の量産ペレットをブロック成型し、3次元精密加工で小ロット多品種の製品確認が可能",
+    "url": "https://www.plamerry.co.jp/mccutting/",
+    "pass": 1
+   },
+   {
+    "quote": "汎用樹脂から高機能樹脂まで会社企画ペレットおよび特殊ペレットをご指定して頂ければ同等材料での製品モデル製作が可能",
+    "url": "https://www.plamerry.co.jp/mccutting/",
+    "pass": 1
+   },
+   {
+    "quote": "⚫ Windowsの更新時に他のMicrosoft製品の更新プログラムも入手しインストールした",
+    "url": "https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "IT製品やサービスに関わる重要なセキュリティ情報、緊急情報などが公表された",
+    "url": "https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■受注工程 / プラスチック製品の試作品製作",
+    "url": "https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/design.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 量産前のプラスチック製品の試作を各々の工法",
+    "url": "https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/design.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "同社は、工業製品の企画開発支援から量産品の製造までを一貫して手がけています",
+    "url": "https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG",
+    "pass": 3
+   },
+   {
+    "quote": "自動車、家電、医療機器、ロボット、玩具といった多岐にわたる業界の製品開発を支援しています",
+    "url": "https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(15)",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "quote": "プラメリーデザインでは、革新的な工業製品の企画開発を支援しています",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "quote": "試作製品の製作において種々のニーズに応えてきたプラメリーデザインでは企画提案・３Dデータの設計から量産品の製造までトータルに対応しています「ゼロからのモノづくり」ができることで、商品本来の機能性やデザインといった価値を理解し、ユーザーのニーズに対応していく力を成長させていきます",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 3次元CADによるモデリング・製品研究開発ものづくり支援",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (15)",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "quote": "豊富なラインナップ！日本販売最安値、国内製相場の約1/2の価格！",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "quote": "プラスチック製品の製作において、種々のニーズに応えてきたプラメリーデザインでは、試作・型設計から量産品の製造までをトータルに対応しています",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "ナイロン真空注型は多大なコストと納期がかかる金型の製作なしで、熱可塑性樹脂6ナイロン製品を生み出すシステムです",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "ナイロン材にCFを混合すると黒色の製品になります",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "材料PA3000は衝撃強度/耐熱性を維持し、PA1000はPPに似た靭性の特性（ヒンジ）を必要とする製品に選ばれます",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "最大寸法サイズ 800×750×350(mm)程度（製品寸法）",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "③１個の試作製品から試作金型成型までメリット力のあるご提案",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "PA6熱可塑性のナイロン樹脂材料を使用した独自の真空注型工法なので、小ロットの試作成形品に対応",
+    "url": "https://www.plamerry.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂型＋簡易射出成形システムによる超小ロット対応射出成形工法を確立",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーのご要望により、各種樹脂素材を利用した最適な試作方法を選定し、コストパフォーマンスに優れた試作品をお届けしています",
+    "url": "https://www.plamerry.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "汎用樹脂および指定材料による1個からのファーストモデル製作が可能です",
+    "url": "https://www.plamerry.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "真空状態で樹脂をシリコーン型にキャストして製品の複製（形状により20個前後）を作る工法です",
+    "url": "https://www.plamerry.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "一般的には、熱硬化性樹脂を使用して形状確認や営業サンプルとして活用し、商品開発に成果を上げています",
+    "url": "https://www.plamerry.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "その他、特殊工法として熱可塑性樹脂（6ナイロン）をシリコーン型にキャストさせるナイロン注型システムも当社ならではのオリジナルです",
+    "url": "https://www.plamerry.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "汎用樹脂から高機能樹脂まで会社企画ペレットおよび特殊ペレットをご指定して頂ければ同等材料での製品モデル製作が可能",
+    "url": "https://www.plamerry.co.jp/mccutting/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジン吸気系 樹脂部品の金型レス試作工法開発",
+    "url": "https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/urethane.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「シリコーン型に熱可塑性樹脂をキャストする」",
+    "url": "https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/nylon_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "樹脂型+簡易射出成形システムによる超小ロット対応射出成形工法を確立",
+    "url": "https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG",
+    "pass": 3
+   },
+   {
+    "quote": "4. 光造形、精密真空注型、樹脂切削加工による工業用モデルの試作",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "quote": "真空注型品 自動車吸気配管部品 迅速な試作立ち上げと少量量産 ウレタン樹脂ゴム複合",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "硬質ウレタン樹脂とウレタンゴムの２つの素材で製作することで、必要な個所に必要な特性を持たせております",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "ナイロン真空注型は多大なコストと納期がかかる金型の製作なしで、熱可塑性樹脂6ナイロン製品を生み出すシステムです",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "最大樹脂体積投入量 3600ｇ（GF量含む）",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "プラスチック製品の製作において、種々のニーズに応えてきたプラメリーデザインでは、試作・型設計から量産品の製造までをトータルに対応しています",
+    "url": "https://www.plamerry.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "PA6熱可塑性のナイロン樹脂材料を使用した独自の真空注型工法なので、小ロットの試作成形品に対応",
+    "url": "https://www.plamerry.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "試作製品の製作において種々のニーズに応えてきたプラメリーデザインでは企画提案・3Dデータの設計から量産品の製造までトータルに対応しています",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "•精密真空注型、MC切削加工、光造形、粉末造形による工業用モデルの試作製作",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "•自動車関連・各車両・農機具関連の試作支援",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "•家電機器・通信機器・OA機器・医療機器・介護機器の試作支援",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "•簡易射出システムによる小ロット試作用射出成形",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "屋号「プラメリー成工」として、柏市に精密真空注型を主に試作業を開始する",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂型＋簡易射出成形システムによる超小ロット対応射出成形工法を確立",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ゼロからの「モノづくり」試作から量産までトータルな製造管理",
+    "url": "https://www.plamerry.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック製品の製作において、種々のニーズに応えてきたプラメリーデザインでは、試作・型設計から量産品の製造までトータルに対応しています",
+    "url": "https://www.plamerry.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーのご要望により、各種樹脂素材を利用した最適な試作方法を選定し、コストパフォーマンスに優れた試作品をお届けしています",
+    "url": "https://www.plamerry.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "プラメリーデザインでは、試作品の組み立てから機能テストまでサポートしています",
+    "url": "https://www.plamerry.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ファースト試作モデル設計（マスターモデルの製作）",
+    "url": "https://www.plamerry.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "モノ本来の機能性や実用性、デザインや美しさといった付加価値を理解し、ユーザーのニーズに対応して高いクオリティで高品質な試作加工モデルをご提供いたします",
+    "url": "https://www.plamerry.co.jp/mccutting/",
+    "pass": 1
+   },
+   {
+    "quote": "工業用製品試作モデル⇒モックアップデザインモデル・ワーキングモデル",
+    "url": "https://www.plamerry.co.jp/mccutting/",
+    "pass": 1
+   },
+   {
+    "quote": "試作部品に対する精度加工（追加工処理）にて制度要求に対応します",
+    "url": "https://www.plamerry.co.jp/mccutting/",
+    "pass": 1
+   },
+   {
+    "quote": "自社ブランドのペレットおよびご指定の量産ペレットをブロック成型し、3次元精密加工で小ロット多品種の製品確認が可能",
+    "url": "https://www.plamerry.co.jp/mccutting/",
+    "pass": 1
+   },
+   {
+    "quote": "家電機器・通信機器・OA機器・医療機器・介護機器などの試作",
+    "url": "https://www.plamerry.co.jp/mccutting/",
+    "pass": 1
+   },
+   {
+    "quote": "■受注工程 / プラスチック製品の試作品製作",
+    "url": "https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/design.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 量産前のプラスチック製品の試作を各々の工法",
+    "url": "https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/design.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "熱可塑性真空注型部品モデル小ロット試作部品モデル",
+    "url": "https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/design.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "車両部品全般の小ロット射出成形品など・・・",
+    "url": "https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/design.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "エンジン吸気系 樹脂部品の金型レス試作工法開発",
+    "url": "https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/urethane.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特に金型不要のナイロン注型システムにより、低コスト・短納期での小ロット試作を実現しています",
+    "url": "https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG",
+    "pass": 3
+   },
+   {
+    "quote": "商品開発ものづくり支援、工業用モデル試作製作、ナイロン真空注型、小ロット射出成形、試作型・金型設計、製造管理受託業務",
+    "url": "https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG",
+    "pass": 3
+   },
+   {
+    "quote": "屋号「プラメリー成工」として、柏市に精密真空注型を主に試作業を開始する",
+    "url": "https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂型+簡易射出成形システムによる超小ロット対応射出成形工法を確立",
+    "url": "https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG",
+    "pass": 3
+   },
+   {
+    "quote": "試作製品の製作において種々のニーズに応えてきたプラメリーデザインでは企画提案・３Dデータの設計から量産品の製造までトータルに対応しています「ゼロからのモノづくり」ができることで、商品本来の機能性やデザインといった価値を理解し、ユーザーのニーズに対応していく力を成長させていきます",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 自動車関連・各車両・農機具関連の試作支援",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 家電機器・通信機器・OA機器・医療機器・介護機器の試作支援",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "quote": "4. 光造形、精密真空注型、樹脂切削加工による工業用モデルの試作",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "quote": "8. 簡易射出システムによる小ロット試作用射出成形",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "quote": "9. 試作型・金型設計",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "quote": "14. 精密真空注型、MC切削加工、光造形による工業用モデルの試作製造",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "quote": "【未来を創る「モノづくり」】 ●工業モデル試作開発支援●",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "プラスチック製品の製作において、種々のニーズに応えてきたプラメリーデザインでは、試作・型設計から量産品の製造までをトータルに対応しています",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "真空注型品 自動車吸気配管部品 迅速な試作立ち上げと少量量産 ウレタン樹脂ゴム複合",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "真空注型技術を使用して、自動車部品の試作立ち上げを迅速に行う事が可能です",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "シリコンの簡易型を使用することで、試作のコストと納期を大幅削減を実現しております",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、試作可能かどうかご相談ください",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "◆試作業界35年の実績◆",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "③１個の試作製品から試作金型成型までメリット力のあるご提案",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "ドイツ SLM solutionsグループ社との技術提携により確立したナイロン注型システムは、金型不要で低コスト・短納期を実現",
+    "url": "https://www.plamerry.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "•自動車関連・各車両・農機具関連の試作支援",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "•家電機器・通信機器・OA機器・医療機器・介護機器の試作支援",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "•人工知能（AI）を活用した介護・医療・産業用ロボット開発支援",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "常磐自動車道 柏インターより 約15分",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "モノづくり工法提案・企画・3Dモデリング・治具/型設計などを製作工法設計いたします",
+    "url": "https://www.plamerry.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "最も重要な用途である金型の製造をはじめ、金属部品の加工になくてはならない存在です",
+    "url": "https://www.plamerry.co.jp/mccutting/",
+    "pass": 1
+   },
+   {
+    "quote": "たとえば、自動車産業ではエンジン部品の研削や穴開けをはじめ、ボディ部品の金型製造などで威力を発揮しています",
+    "url": "https://www.plamerry.co.jp/mccutting/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙・エネルギー・医療部品・自動車など様々な分野のワーク加工に対する5軸制御マシニングセンターです",
+    "url": "https://www.plamerry.co.jp/mccutting/",
+    "pass": 1
+   },
+   {
+    "quote": "汎用性が要求されるアプリケーションはもちろん、多様治具製作や金型製作の為の3～5軸加工、5面/5軸同時の全加工など経済的かつ近代的な加工を実現する 基本ソリューションをご提供いたします",
+    "url": "https://www.plamerry.co.jp/mccutting/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車、二輪、船舶、産業機械などに使用されるトランスミッションの可視化を実現します",
+    "url": "https://www.plamerry.co.jp/mccutting/",
+    "pass": 1
+   },
+   {
+    "quote": "検査/精度/試験の為の精度加工と各治具設計製作モデル",
+    "url": "https://www.plamerry.co.jp/mccutting/",
+    "pass": 1
+   },
+   {
+    "quote": "寸法検査冶具/嵌合用冶具/熱矯正治具/気密用冶具/インサート冶具など設計3Dモデリングにて治具製作します",
+    "url": "https://www.plamerry.co.jp/mccutting/",
+    "pass": 1
+   },
+   {
+    "quote": "家電機器・通信機器・OA機器・医療機器・介護機器などの試作",
+    "url": "https://www.plamerry.co.jp/mccutting/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジン吸気系 樹脂部品の金型レス試作工法開発",
+    "url": "https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/urethane.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "自動車、家電、医療機器、ロボット、玩具といった多岐にわたる業界の製品開発を支援しています",
+    "url": "https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG",
+    "pass": 3
+   },
+   {
+    "quote": "特に金型不要のナイロン注型システムにより、低コスト・短納期での小ロット試作を実現しています",
+    "url": "https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG",
+    "pass": 3
+   },
+   {
+    "quote": "商品開発ものづくり支援、工業用モデル試作製作、ナイロン真空注型、小ロット射出成形、試作型・金型設計、製造管理受託業務",
+    "url": "https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG",
+    "pass": 3
+   },
+   {
+    "quote": "2. 自動車関連・各車両・農機具関連の試作支援",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 家電機器・通信機器・OA機器・医療機器・介護機器の試作支援",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "quote": "5. 介護・医療・産業用ロボット開発支援",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "quote": "9. 試作型・金型設計",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "quote": "13. 人工知能(AI)を活用した産業用ロボットの研究開発支援",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車開発メーカー・自動車関連のサプライヤー企業・医療関連企業・",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "quote": "真空注型品 自動車吸気配管部品 迅速な試作立ち上げと少量量産 ウレタン樹脂ゴム複合",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "真空注型技術を使用して、自動車部品の試作立ち上げを迅速に行う事が可能です",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品の他、医療機器やATMなどの精密機器にも実績がございます",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "ナイロン真空注型は多大なコストと納期がかかる金型の製作なしで、熱可塑性樹脂6ナイロン製品を生み出すシステムです",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "③１個の試作製品から試作金型成型までメリット力のあるご提案",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "Plamerry Design Co;Ltd.",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "•精密真空注型、MC切削加工、光造形、粉末造形による工業用モデルの試作製作",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "光造形機 3DシステムiPro™8000導入",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "光造形機ACCULAS（アキュラス）BA-85S導入",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製作工法は、3Dデータ（CAD/CAM）にて切削加工（M/C）が一般的ですが、今流行りの3Dプリンターや造形システムにより製作されることも多くなりました",
+    "url": "https://www.plamerry.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "スピードを要するなら3Dプリンター・造形システムによる製作、精度を要するならM/Cによる切削加工（3軸～5軸加工）による製作をご提案いたします",
+    "url": "https://www.plamerry.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "D-MEC製光造形装置 ACCULAS BA-85S",
+    "url": "https://www.plamerry.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Mastercam X6（CAM）",
+    "url": "https://www.plamerry.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "AUTON 3D（CAM）",
+    "url": "https://www.plamerry.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Magic RP (CAD) /AM_meister （光造形装置STL編集ソフト）",
+    "url": "https://www.plamerry.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "VISI5AXIS（5軸加工CAD/CAM）",
+    "url": "https://www.plamerry.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "http://www.plamerry.co.jp",
+    "url": "https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/design.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "RP光造形法による作成（１個）",
+    "url": "https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/design.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ナイロンPA6注型 GF30%プラス精密真空注型・M/C加工・光造形・粉末造形",
+    "url": "https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/design.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "http://www.plamerry.co.jp",
+    "url": "https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/urethane.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "http://www.plamerry.co.jp",
+    "url": "https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/nylon_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "URL: http://www.plamerry.co.jp",
+    "url": "https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/download_10.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "E-mail: info@plamerry.co.jp",
+    "url": "https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/download_10.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "光造形機 3DシステムiProTM8000導入",
+    "url": "https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG",
+    "pass": 3
+   },
+   {
+    "quote": "光造形機ACCULAS(アキュラス)BA-85S導入",
+    "url": "https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG",
+    "pass": 3
+   },
+   {
+    "quote": "4. 光造形、精密真空注型、樹脂切削加工による工業用モデルの試作",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "quote": "14. 精密真空注型、MC切削加工、光造形による工業用モデルの試作製造",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "quote": "高速造形機 アキュラス BA-85S（ディメック製）",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.plamerry.co.jp/contact/",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.plamerry.co.jp/",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "Plamerry Nylon Vacuum Casting",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.plamerry.co.jp",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "ナイロン注型・精密ウレタン真空注型・光造形・粉末造形",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "時には、速やかに社長に報告し、電子メールで対策を全社員に通知する",
+    "url": "https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ メールソフトを以下のように設定し、宛先のアドレスが間違っていないか確認してから",
+    "url": "https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ 送信トレイに保存されたメールをもう一度確認して「送受信タブ」から[すべてのフォ",
+    "url": "https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 複数の外部の人に同時に同じメールを送る場合には、宛先（TO）に自分自身の",
+    "url": "https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 標的型攻撃メールによるウイルス感染を防止するため以下の内容に複数合致する",
+    "url": "https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①知らない人からのメールだが、メール本文のURLや添付ファイルを開かざるを得ない内容",
+    "url": "https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②心当たりのないメールだが、興味をそそられる内容",
+    "url": "https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑥ID やパスワードなどの入力を要求するメール",
+    "url": "https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①yahoo、gmailなどのフリーメールアドレスから送信されている",
+    "url": "https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②差出人のメールアドレスとメール本文の署名に記載されたメールアドレスが異なる",
+    "url": "https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "④表示されているURLと実際のリンク先のURL が異なる（HTML メールの場合）",
+    "url": "https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ 不審なサイトへのアクセス及び社用メールアドレス登録を禁止する",
+    "url": "https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ メールアドレスの登録が必要な場合は社用メールアドレスを登録する",
+    "url": "https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "E-mail: info@plamerry.co.jp",
+    "url": "https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/download_10.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "https://www.plamerry.co.jp/contact/",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "プラメリーデザイン — プラメリーデザイン プラメリーデザイン https://www.plamerry.co.jp",
+    "url": "https://www.plamerry.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 プラメリーデザイン | 加工会社ナビ - 営業製作所 — 株式会社 プラメリーデザイン | 加工会社ナビ - 営業製作所 営業製作所株式会社 https://eigyo-mfg.com > TOP > 千葉県の加工会社",
+    "url": "https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG",
+    "pass": 3
+   },
+   {
+    "quote": "会社 案内 - プラメリーデザイン — 会社 案内 - プラメリーデザイン プラメリーデザイン https://www.plamerry.co.jp > company",
+    "url": "https://www.plamerry.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "プラメリーデザイン | 企業 情報 | イプロスものづくり — プラメリーデザイン | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社プラメリーデザイン | 加工 会社 ナビ - 営業製作所 — 株式 会社プラメリーデザイン | 加工 会社 ナビ - 営業製作所 営業製作所株式会社 https://eigyo-mfg.com > TOP > 千葉県の加工会社",
+    "url": "https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社プラメリーデザイン の採用・求人 情報 - エンゲージ — 株式 会社プラメリーデザイン の採用・求人 情報 - エンゲージ エンゲージ https://en-gage.net > plamerry_saiyo",
+    "url": "https://en-gage.net/plamerry_saiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社 プラメリーデザイン 千葉県 柏市 - NCネットワーク — 株式 会社 プラメリーデザイン 千葉県 柏市 - NCネットワーク エミダス https://ja.nc-net.or.jp > company",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - プラメリーデザイン — お問い合わせ - プラメリーデザイン プラメリーデザイン https://www.plamerry.co.jp > contact",
+    "url": "https://www.plamerry.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 プラメリーデザイン 千葉県 柏市 - NCネットワーク — 株式会社 プラメリーデザイン 千葉県 柏市 - NCネットワーク エミダス https://ja.nc-net.or.jp > company",
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 プラメリーデザイン - 千葉県・金型製造業界の企業情報 — 株式会社 プラメリーデザイン - 千葉県・金型製造業界の企業情報 Baseconnect https://baseconnect.in > companies",
+    "url": "https://baseconnect.in/companies/50463640-73b3-424f-a308-8aaee079add3",
+    "pass": 3
+   },
+   {
+    "quote": "お知らせ | 精密真空注型・ナイロン真空 ... - プラメリーデザイン — お知らせ | 精密真空注型・ナイロン真空 ... - プラメリーデザイン プラメリーデザイン https://www.plamerry.co.jp > category > news",
+    "url": "https://www.plamerry.co.jp/category/news/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.plamerry.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plamerry.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plamerry.co.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plamerry.co.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plamerry.co.jp/mccutting/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.plamerry.co.jp/wp-content/uploads/2025/02/2025_security.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/design.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/urethane.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/nylon_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/download_10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/288127/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/83210/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "プラメリーデザイン 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.plamerry.co.jp/",
+    "https://injection-lab.com/technology/64-2.html",
+    "https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://mono.ipros.com/cg1/%E8%A9%A6%E4%BD%9C/%E7%9C%9F%E7%A9%BA%E6%88%90%E5%BD%A2/",
+    "https://chiba-mednet.com/Corps/view/213",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://ja.nc-net.or.jp/company/83210/",
+    "https://systemcreate-inc.co.jp/products/moiron_top",
+    "https://kyoeidesign.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "プラメリーデザイン 会社概要 事業内容",
+   "results": [
+    "https://www.plamerry.co.jp/company/",
+    "https://mono.ipros.com/company/detail/288127/",
+    "https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG",
+    "https://en-gage.net/plamerry_saiyo/",
+    "https://ja.nc-net.or.jp/company/83210/",
+    "https://compalyze.co.jp/company/4040001068442",
+    "https://chiba-mednet.com/Corps/view/213",
+    "https://baseconnect.in/companies/50463640-73b3-424f-a308-8aaee079add3",
+    "https://www.buffett-code.com/company/clsnbmnv0a/",
+    "https://www.plamerry.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "プラメリーデザイン お問い合わせ メール",
+   "results": [
+    "https://www.plamerry.co.jp/contact/",
+    "https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG",
+    "https://ja.nc-net.or.jp/company/83210/",
+    "https://baseconnect.in/companies/50463640-73b3-424f-a308-8aaee079add3",
+    "https://www.plamerry.co.jp/category/news/",
+    "https://www.awgd.co.jp/inquiry/form_c",
+    "https://www.shinkumi.jp/ssl/2062s/contact/mailform.php",
+    "https://www.pmoa.co.jp/form/contact/postmail.html",
+    "https://jp.pg.com/contact-us/cr/",
+    "https://plamori.com/contact"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com プラメリーデザイン",
+   "results": [
+    "https://note.com/felissimo_choco/n/nfef9ff05a8ba",
+    "https://note.com/shogotabuchi/n/n50a7abe4c472",
+    "https://note.com/sk_package_labo/n/nb7e1fcb1cc53",
+    "https://note.com/skiri_letter09/n/n4a984019df36",
+    "https://note.com/sakanagatoreta/n/nc3b8ba52d7ea",
+    "https://note.com/kkvofficial/n/ndb96246cd8ad",
+    "https://note.com/planetta/n/n6a5d38f63e84?hl=en",
+    "https://note.com/pure_guppy3248/n/nc7aa4f2b01e8",
+    "https://note.com/planetta/n/n810902de960f",
+    "https://note.com/85gift/n/ncb66af629784"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com プラメリーデザイン",
+   "results": [
+    "https://x.com/3COINS_news/status/1859129553115115773",
+    "https://x.com/aikatsu_style/status/1354671689980727298",
+    "https://x.com/SWhizumemika_ru",
+    "https://x.com/toshinhokkaido",
+    "https://x.com/new_osushi/status/2065383685113967015",
+    "https://x.com/marychocolate_c/status/2116372089607499796",
+    "https://x.com/KemoPlaofficial",
+    "https://x.com/Cpla_shiga_2/status/2113122926052679793",
+    "https://x.com/mmasiro03",
+    "https://x.com/norion17"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com プラメリーデザイン",
+   "results": [
+    "https://www.linkedin.com/in/ianbishopmba",
+    "https://in.linkedin.com/in/pwarier",
+    "https://www.linkedin.com/posts/steventseng_i-usually-meet-up-with-suvi-sundquist-commercial-activity-7525488857555910657-HCTG",
+    "https://in.linkedin.com/in/lalithagangadhara",
+    "https://www.linkedin.com/in/tomoko-maekawa-0004b871",
+    "https://uk.linkedin.com/in/hana-dethlefsen-60420b65",
+    "https://au.linkedin.com/in/adam-napoli-393153179",
+    "https://www.linkedin.com/in/buckkulkarni",
+    "https://in.linkedin.com/in/rohit-madhur-8714481",
+    "https://in.linkedin.com/in/mandar-sathe-b773291"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com プラメリーデザイン",
+   "results": [
+    "https://www.facebook.com/100070714399425/posts/%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%96%E3%83%AB%E3%83%BC%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E7%A7%8B%E6%9C%8D%E3%81%AB%E3%83%94%E3%83%83%E3%82%BF%E3%83%AA________%E3%81%9C%E3%81%B2%E4%BF%9D%E5%AD%98%E3%81%97%E3%81%A6%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E5%8F%82%E8%80%83%E3%81%AB%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%81%AD%EF%B8%8F-salon-%EF%B8%8F-reservation-plusmerry_y/1157148559985613/",
+    "https://www.facebook.com/hypebeast/videos/gustafwestman-is-one-of-the-most-recognisable-designers-working-today-his-day-of/1011423855319065/",
+    "https://www.facebook.com/HEPFIVE/posts/new-era-mary-quant-%E3%82%B3%E3%83%A9%E3%83%9C%E7%AC%AC3%E5%BC%BE-%E5%A4%A7%E4%BA%BA%E6%B0%97%E3%82%B3%E3%83%A9%E3%83%9C%E3%81%8B%E3%82%89%E6%96%B0%E4%BD%9C%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0%E3%81%8C%E7%99%BB%E5%A0%B4-%E5%AE%9A%E7%95%AA%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97%E3%82%84%E3%83%AA%E3%83%A5%E3%83%83%E3%82%AF%E3%81%AB%E5%8A%A0%E3%81%88%E3%81%A6%E4%BB%8A%E5%9B%9E%E3%81%AF%E3%83%91%E3%83%BC%E3%82%AB%E3%82%84%E3%83%96%E3%83%AB%E3%82%BE%E3%83%B3%E3%81%AA%E3%81%A9%E7%A7%8B%E3%82%B3%E3%83%BC%E3%83%87%E3%81%AB%E5%8F%96%E3%82%8A/2018133749481573/",
+    "https://www.facebook.com/centralflooringcc/posts/daltiles-pietra-divina-in-namaste-gold-blend-spectrum-makes-sure-this-backsplash/1583554537117707/",
+    "https://www.facebook.com/100057068306149/posts/%E3%83%A1%E3%83%AB%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E8%B2%A8%E8%BB%8A%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%92%E7%AD%89%E5%85%A5%E8%8D%B7%E3%81%A7%E3%81%99h0z%E3%81%8A%E5%BE%85%E3%81%9F%E3%81%9B%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%B9%B4%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E8%B2%A8%E8%BB%8A%E7%AD%89%E5%85%A5%E8%8D%B7%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8C%E3%81%AE%E5%86%99%E7%9C%9F%E3%82%92%E3%82%A2%E3%83%83%E3%83%97%E3%81%97%E3%81%A6%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99/642327067679564/",
+    "https://www.facebook.com/ahaoklahoma/posts/cecilia-corral-is-the-co-founder-and-chief-strategy-officer-of-caremessage-a-pat/1541047504723439/",
+    "https://www.facebook.com/handsincofficial/posts/%E3%83%8F%E3%83%B3%E3%82%BA50%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E6%96%B0%E6%97%A7%E3%83%AD%E3%82%B4%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%8C%E6%A5%BD%E3%81%97%E3%82%81%E3%82%8B%E3%82%AB%E3%83%97%E3%82%BB%E3%83%AB%E3%83%88%E3%82%A4%E7%AC%AC2%E5%BC%BE%E3%81%AFmini%E3%82%B3%E3%82%A4%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%B950%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E6%87%90%E3%81%8B%E3%81%97%E3%81%AE%E6%97%A7%E3%83%AD%E3%82%B4%E3%81%8B%E3%82%89%E7%8F%BE%E5%9C%A8%E3%81%AE%E6%96%B0%E3%83%AD%E3%82%B4%E3%81%BE%E3%81%A7%E3%83%8F%E3%83%B3%E3%82%BA%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%82%92%E6%84%9F%E3%81%98%E3%82%89%E3%82%8C%E3%82%8B%E3%83%87%E3%82%B6%E3%82%A4/1517721090381621/",
+    "https://www.facebook.com/nolinokko/videos/hello-im-noriko-fujiki-nolinokkoa-member-of-the-memory-place-asuka-studio-design/1152483940627056/",
+    "https://www.facebook.com/roelruby/videos/new-design-alert%EF%B8%8Fcommunity-helpers-%EF%B8%8F/884064098025043/",
+    "https://www.facebook.com/groups/attica.zone/posts/10165328123109452/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "プラメリーデザイン note 社長",
+   "results": [
+    "https://www.plamerry.co.jp/company/",
+    "https://ja.nc-net.or.jp/company/83210/",
+    "https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG",
+    "https://www.nikkan.co.jp/articles/view/101382",
+    "https://mono.ipros.com/product/detail/2000160128/",
+    "https://note.com/designmate/n/n01e07e6a5c1a",
+    "https://baseconnect.in/companies/50463640-73b3-424f-a308-8aaee079add3",
+    "https://note.com/refalover/n/na50c160f10ca",
+    "https://www.plamerry.co.jp/",
+    "https://compalyze.co.jp/company/4040001068442"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "プラメリーデザイン X 投稿",
+   "results": [
+    "https://www.plamerry.co.jp/company/",
+    "https://ja.nc-net.or.jp/company/83210/",
+    "https://eigyo-mfg.com/service/navi/company/2Bsm1DlCjxeG",
+    "https://www.nikkan.co.jp/articles/view/101382",
+    "https://baseconnect.in/companies/50463640-73b3-424f-a308-8aaee079add3",
+    "https://www.plamerry.co.jp/design/",
+    "https://x.com/plantodesignmm",
+    "https://www.plamerry.co.jp/wp-content/themes/plamerry.co.jp/images/under/pdf/campany.pdf",
+    "https://www.facebook.com/PrusaResearch/videos/prusament-pla-colormix-print-45-color-shades-using-just-five-filament-spools-and/1580103896989276/",
+    "https://www.plamerry.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像5件／外部6頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式5頁／PDF・画像5件／外部6頁・検索9回）"
+ }
+}

@@ -1,0 +1,1138 @@
+{
+ "name": "株式会社都留 川崎工場",
+ "aliases": [],
+ "context": "ipros_all:小ロット",
+ "researched_at": "2026-11-11T23:18:20.165887+00:00",
+ "official_url": "http://www.tsuru.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "工場所在地",
+    "value": "〒210-0858　神奈川県川崎市川崎区大川町8-1 TEL : 044-742-4300 （代表）　FAX : 044-742-4301 アクセス 工場見学",
+    "url": "https://www.tsuru.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒146-0093　東京都大田区矢口2-15-2 TEL : 03-3756-2511 （代表）　FAX : 03-3756-2514 アクセス",
+    "url": "https://www.tsuru.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "藤本 浩一（フジモト コウイチ） 代表挨拶",
+    "url": "https://www.tsuru.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "14人",
+    "url": "https://www.tsuru.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "15名",
+    "url": "https://mono.ipros.com/company/detail/288191/",
+    "pass": 3
+   }
+  ],
+  "拠点": [
+   {
+    "label": "工場の広さ",
+    "value": "1F：396㎡ 2F：198㎡",
+    "url": "https://www.tsuru.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "支店名：",
+    "value": "小田支店",
+    "url": "https://www.tsuru.co.jp/company/terms_conditions/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "業務内容",
+    "value": "精密板金加工 レーザー加工 ファイバーレーザー溶接",
+    "url": "https://www.tsuru.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "取扱品目",
+    "value": "業務用厨房機器部品 食品機器部品 半導体製造装置関連部品 医療機器関連部品 産業用X線機器部品 弱電機器部品 理化学機器部品 その他精密板金部品",
+    "url": "https://www.tsuru.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "厨房機器メーカー\n半導体製造装置メーカー\n医療機器メーカー\n食品機械メーカー\n照明機器メーカー\n産業機械メーカー等 (順不同・敬称略)",
+    "url": "https://mono.ipros.com/company/detail/288191/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "研究者・エンジニア向け製品・メーカー情報比較サイト「メトリー」で紹介さ…",
+    "url": "https://www.tsuru.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "10年以上の生産実績で、経年劣化による割れの発生なし！ TIG垂直自動溶接機で溶接した製品です",
+    "url": "https://www.tsuru.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事例・製品・加工例紹介 ｜ 精密板金加工なら株式会社都留",
+    "url": "https://www.tsuru.co.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は1966年の創業以来、お客様の要求される高品質な金属加工製品を作り、社会に貢献するという経営理念の下、",
+    "url": "https://www.tsuru.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "社員（仲間）を尊敬し事業を通してお客様に満足していただける製品作りを目指します",
+    "url": "https://www.tsuru.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はお客様の要求される高品質な金属加工製品を作り、社会に貢献します",
+    "url": "https://www.tsuru.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "品質第一に徹し、お客様の要求、ニーズに応え、満足される製品及びサービスを提供いたします",
+    "url": "https://www.tsuru.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品や目的によりバリ取りの精度は異なりますので、多くの業界の製品を手掛けてきた経験から、最適な精度に仕上げていきます",
+    "url": "https://www.tsuru.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "ロット、製品の大きさや求められる精度・要件・外観により最適な溶接方法をご提案いたします",
+    "url": "https://www.tsuru.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に応じて最適な処理方法、または溶接焼けしない加工方法をご提案させていただきます",
+    "url": "https://www.tsuru.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の業務は、OEM製品の量産が中心です",
+    "url": "https://www.tsuru.co.jp/recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "研究者・エンジニア向け製品・メーカー情報比較サイト「メトリー」で紹介されました ｜ 精密板金加工なら株式会社都留",
+    "url": "https://www.tsuru.co.jp/news/metoree/",
+    "pass": 1
+   },
+   {
+    "quote": "研究者・エンジニア向け製品・メーカー情報比較サイト「メトリー」で紹介されました",
+    "url": "https://www.tsuru.co.jp/news/metoree/",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレス・鉄・アルミに対する中ロットの精密板金加工会社として、研究者・エンジニア向け製品・メーカー情報比較サイト「メトリー」で紹介されました",
+    "url": "https://www.tsuru.co.jp/news/metoree/",
+    "pass": 1
+   },
+   {
+    "quote": "メトリーは産業用製品メーカー比較サイトとして、幅広く様々な製品を紹介する研究者・エンジニア向け製品・メーカー情報比較サイトです",
+    "url": "https://www.tsuru.co.jp/news/metoree/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアが製品やメーカーを比較、選定する際に役立つ情報を提供しています",
+    "url": "https://www.tsuru.co.jp/news/metoree/",
+    "pass": 1
+   },
+   {
+    "quote": "そしてベンダー加工は多くの製品で活用されている、基本的な加工技術",
+    "url": "https://www.tsuru.co.jp/column/types-of-bending/",
+    "pass": 1
+   },
+   {
+    "quote": "ベンダー加工の製品としては、いわゆる機械の外側となる筐体が代表的です",
+    "url": "https://www.tsuru.co.jp/column/types-of-bending/",
+    "pass": 1
+   },
+   {
+    "quote": "R曲げは曲げる位置と曲げ中心の距離（曲げの半径）でカーブの緩急を調整でき、U曲げは専用金型でU字の角を同時に形成するため、製品の形状や要求精度によって使い分けられます",
+    "url": "https://www.tsuru.co.jp/column/types-of-bending/",
+    "pass": 1
+   },
+   {
+    "quote": "この際、金型により製品表面に傷がついてしまうことがあります",
+    "url": "https://www.tsuru.co.jp/column/types-of-bending/",
+    "pass": 1
+   },
+   {
+    "quote": "この影響は、アセンブリ段階で部品が合わないことや、最終製品の使用中にあらわれる欠陥に繋がるなど、無視できないものになります",
+    "url": "https://www.tsuru.co.jp/column/types-of-bending/",
+    "pass": 1
+   },
+   {
+    "quote": "この製品は、ベンダー加工にファイバーレーザー溶接とスポット溶接を施した3部品構成となっています",
+    "url": "https://www.tsuru.co.jp/column/types-of-bending/",
+    "pass": 1
+   },
+   {
+    "quote": "この製品は、ヘミング曲げ（あざ折り）加工、R曲げ加工、スポット溶接の複合加工品です",
+    "url": "https://www.tsuru.co.jp/column/types-of-bending/",
+    "pass": 1
+   },
+   {
+    "quote": "製品名、材質（仕様書を取り交わしている場合は仕様書番号）",
+    "url": "https://www.tsuru.co.jp/company/terms_conditions/",
+    "pass": 1
+   },
+   {
+    "quote": "図面（製品の寸法）（公差）記載無き場合は一般公差とさせていただきます",
+    "url": "https://www.tsuru.co.jp/company/terms_conditions/",
+    "pass": 1
+   },
+   {
+    "quote": "メンテナンスが必要な製品では、加工後も分解ができるよう圧入加工を採用されています",
+    "url": "https://www.tsuru.co.jp/facility/press_fit/",
+    "pass": 1
+   },
+   {
+    "quote": "ネジなどの部品が必要となるため、製品重量がシビアな製品等では溶接を選択するなど、製品に応じて最適なご提案をさせていただきます",
+    "url": "https://www.tsuru.co.jp/facility/press_fit/",
+    "pass": 1
+   },
+   {
+    "quote": "この際、金型により製品表面に傷がついてしまうことがあります",
+    "url": "https://www.tsuru.co.jp/facility/bending/",
+    "pass": 1
+   },
+   {
+    "quote": "後に塗装工程を経るものや、構造材等として使われるものであれば特に問題ありませんが、医療機器や厨房機器等、清潔さの求められる製品にとっては、大きな問題となることがあります",
+    "url": "https://www.tsuru.co.jp/facility/bending/",
+    "pass": 1
+   },
+   {
+    "quote": "この影響は、アセンブリ段階で部品が合わないことや、最終製品の使用中にあらわれる欠陥に繋がるなど、無視できないものになります",
+    "url": "https://www.tsuru.co.jp/facility/bending/",
+    "pass": 1
+   },
+   {
+    "quote": "タレパン加工、バリ取り、曲げ加工、スポット溶接をした自社製品…",
+    "url": "https://www.tsuru.co.jp/techniques/turret_punch/",
+    "pass": 1
+   },
+   {
+    "quote": "タレパン加工、バリ取り、曲げ加工、スポット溶接をした自社製品…",
+    "url": "https://www.tsuru.co.jp/techniques/bend/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品 ｜ 精密板金加工なら株式会社都留",
+    "url": "https://www.tsuru.co.jp/industry/own_product/",
+    "pass": 1
+   },
+   {
+    "quote": "タレパン加工、バリ取り、曲げ加工、スポット溶接をした自社製品…",
+    "url": "https://www.tsuru.co.jp/industry/own_product/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の業務は、OEM製品の量産が中心です",
+    "url": "https://www.tsuru.co.jp/recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "専用金型を使用した通信機器SPCC製品、曲げの難加工事例",
+    "url": "https://www.tsuru.co.jp/techniques/steel_sheet_hemming/",
+    "pass": 1
+   },
+   {
+    "quote": "【医療機器】【ヘミング曲げ】【R曲げ】医療機器ユニット製品",
+    "url": "https://www.tsuru.co.jp/techniques/steel_sheet_hemming/",
+    "pass": 1
+   },
+   {
+    "quote": "事例・製品・加工例紹介 ｜ 精密板金加工なら株式会社都留",
+    "url": "https://www.tsuru.co.jp/case",
+    "pass": 1
+   },
+   {
+    "quote": "もともと、板材から製品を切り取るには下記の方法がありました",
+    "url": "https://www.tsuru.co.jp/facility/turret_punch_press/slotting/",
+    "pass": 1
+   },
+   {
+    "quote": "ぴったりの金型がある場合や、金型を新たに作成してもコストに見合う場合はいいのですが、製品の数は無限にあり現実的ではありません",
+    "url": "https://www.tsuru.co.jp/facility/turret_punch_press/slotting/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、レーザーはコスト高にはなりますので、製品に応じて最適な方法を提案させていただきます",
+    "url": "https://www.tsuru.co.jp/facility/turret_punch_press/slotting/",
+    "pass": 1
+   },
+   {
+    "quote": "都留の製品・サービス一覧｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(24)",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   },
+   {
+    "quote": "「ヤゲン等の金型で製品表面にキズがついてしまう」",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   },
+   {
+    "quote": "「医療機器や暖房機器の製品用に精度の高い曲げ加工をしたい」",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   },
+   {
+    "quote": "・バリ残りで製品の安全性が低下する（バリにひっかかり怪我をする）",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   },
+   {
+    "quote": "このようにバリ残りは製品の精度だけでなく安全面・衛生面低下など様々な問題が発生します",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   },
+   {
+    "quote": "・処理の程度に応じ、サンダーの番手を製品用途に応じて選択する",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   },
+   {
+    "quote": "・塗装防錆効果の向上→Ｒ面取りした製品は塗料がしっかり乗ります",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   },
+   {
+    "quote": "・加工されたステンレス板金製品が何の用途に",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   },
+   {
+    "quote": "「ステンレス製品・部品を鏡のように美しく仕上げたい！」",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   },
+   {
+    "quote": "・アセンブリ前の製品は、仕上がり精度が低く、組立できないといった問題や",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(24)",
+    "url": "https://mono.ipros.com/company/detail/288191/",
+    "pass": 3
+   },
+   {
+    "quote": "昭和41年設立以来、精密板金を柱に精密板金加工専門メーカーとしてお客様に製品をお届けして参りました",
+    "url": "https://mono.ipros.com/company/detail/288191/",
+    "pass": 3
+   },
+   {
+    "quote": "製品サイズは500×500×500以内のものが得意であります",
+    "url": "https://mono.ipros.com/company/detail/288191/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (24)",
+    "url": "https://mono.ipros.com/company/detail/288191/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "ファイバーレーザー溶接とスポット溶接の3部品構成 溶接時間 スピードアップ 焼け取り作業 時間短縮 仕様・データ 材質 …",
+    "url": "https://www.tsuru.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "加工機によって適した材質・板厚・ロット数が違うため、最適な加工方法を選択し、段取りを組むことで、加工コストを最小限に抑えることができます",
+    "url": "https://www.tsuru.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "このようなトラブルを防ぐため、都留では材質や板厚、またその曲げ形状に応じて、その伸びやひずみ、応力をシミュレーションすることにより、角度出し加工の精度を高めています",
+    "url": "https://www.tsuru.co.jp/column/types-of-bending/",
+    "pass": 1
+   },
+   {
+    "quote": "製品名、材質（仕様書を取り交わしている場合は仕様書番号）",
+    "url": "https://www.tsuru.co.jp/company/terms_conditions/",
+    "pass": 1
+   },
+   {
+    "quote": "このようなトラブルを防ぐため、角度出しについては材質や板厚、またその曲げ形状に応じて、その伸びやひずみ、応力をシミュレーションすることにより、加工の精度を高めています",
+    "url": "https://www.tsuru.co.jp/facility/bending/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ材、ステンレス材、クロムフリー材、鉄と幅広い材質に対応可能です",
+    "url": "https://www.tsuru.co.jp/facility/laser_cutting_and_punching_center/",
+    "pass": 1
+   },
+   {
+    "quote": "・角度出しの際に、材質や板厚、またその曲げ形状に応じてその伸びやひずみ、",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "半導体製造装置部品：SUS304両面研磨材ブラケット",
+    "url": "https://www.tsuru.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ファイバーレーザー溶接とは④ ロボットファイバーレーザーの更…",
+    "url": "https://www.tsuru.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「ファイバーレーザー溶接とは③」最新機器・ロボットファイバー…",
+    "url": "https://www.tsuru.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "溶接時間をこれまで以上に大幅短縮！ ロボットファイバーレーザーは、ファイバーレーザーの最新機器になります",
+    "url": "https://www.tsuru.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイヘン製 TIGロボット溶接機 FDV8-A350A",
+    "url": "https://www.tsuru.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "alfa TKG社製 alfaJULIA-W1500H ファイバーレーザー溶接ロボット導入",
+    "url": "https://www.tsuru.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "板金図面展開・NCプログラム（金型割付）をしていきます",
+    "url": "https://www.tsuru.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "後工程においてTIG自動溶接やTIGロボット溶接でなめ付けする、",
+    "url": "https://www.tsuru.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "ファイバーレーザー溶接をはじめ、TIG垂直自動溶接機、TIGフィラロボット溶接機、NCスタッド溶接機、テーブルスポット溶接機、高速電源スポット溶接機等、最新設備をそろえさまざまな溶接のご要望にお応えしております",
+    "url": "https://www.tsuru.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "TIGロボット溶接にして、経年劣化による割れ・歪みなし、溶接時間・コスト30%削減した事例",
+    "url": "https://www.tsuru.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "金型不要・複雑な形状が得意で、薄板から厚板まで広範囲に対応",
+    "url": "https://www.tsuru.co.jp/recruitment/",
+    "pass": 1
+   },
+   {
+    "quote": "金属板の種類・厚み・曲げる形によって、上型と下型の金型は変わります",
+    "url": "https://www.tsuru.co.jp/column/types-of-bending/",
+    "pass": 1
+   },
+   {
+    "quote": "板の厚さに関しては、かなり厚いものであっても金型さえ合えば対応することが可能です（都留では基本的な金型は取り揃えていますが、合う金型がない場合は特注になる場合があります）",
+    "url": "https://www.tsuru.co.jp/column/types-of-bending/",
+    "pass": 1
+   },
+   {
+    "quote": "そしてこれら１～3のV曲げを行う方法には、パーシャルベンディング（主に90°に満たないV字曲げに用いられる）、ボトミング（金型の角度に合わせて曲げ加工を行う最もオーソドックスな加工）、コイニング（ボトミング以上に精度を出すV字加工）などの方法があります",
+    "url": "https://www.tsuru.co.jp/column/types-of-bending/",
+    "pass": 1
+   },
+   {
+    "quote": "R曲げは曲げる位置と曲げ中心の距離（曲げの半径）でカーブの緩急を調整でき、U曲げは専用金型でU字の角を同時に形成するため、製品の形状や要求精度によって使い分けられます",
+    "url": "https://www.tsuru.co.jp/column/types-of-bending/",
+    "pass": 1
+   },
+   {
+    "quote": "金型と材料が接触する部分が限られた状態で曲げ加工を行う「エアーベンディング」の一種で、パンチと呼ばれる上型の金型と下型のV溝の３点で接触して曲げる方法で、「自由曲げ」とも呼ばれます",
+    "url": "https://www.tsuru.co.jp/column/types-of-bending/",
+    "pass": 1
+   },
+   {
+    "quote": "ベンダーマシンで板金を曲げる際に、パンチと呼ばれる上型の金型を、下型（ダイ）のV溝の底に完全に接触するまで押し込むことで、高い精度と強度が得られる加工方法です",
+    "url": "https://www.tsuru.co.jp/column/types-of-bending/",
+    "pass": 1
+   },
+   {
+    "quote": "曲げ加工は、板金を台に載せ、ヤゲン等の金型を押し当てることで行われるものです",
+    "url": "https://www.tsuru.co.jp/column/types-of-bending/",
+    "pass": 1
+   },
+   {
+    "quote": "この際、金型により製品表面に傷がついてしまうことがあります",
+    "url": "https://www.tsuru.co.jp/column/types-of-bending/",
+    "pass": 1
+   },
+   {
+    "quote": "そのため都留では、曲げ傷を防ぐために、金型が直接板金に触れないよう、",
+    "url": "https://www.tsuru.co.jp/column/types-of-bending/",
+    "pass": 1
+   },
+   {
+    "quote": "都留では基本的な金型は取り揃えていますが、最終的に目指す形に加工するための金型がない場合があります（特注の金型で対応できる場合もあります）",
+    "url": "https://www.tsuru.co.jp/column/types-of-bending/",
+    "pass": 1
+   },
+   {
+    "quote": "①【半導体製造装置部品】SUS304両面研磨材ブラケット",
+    "url": "https://www.tsuru.co.jp/column/types-of-bending/",
+    "pass": 1
+   },
+   {
+    "quote": "また、後工程においてTIG自動溶接やTIGロボット溶接でなめ付けする、箱曲げ（ケース類）も多く、曲げオペレーターのレベルもとても高いと自負しております",
+    "url": "https://www.tsuru.co.jp/column/types-of-bending/",
+    "pass": 1
+   },
+   {
+    "quote": "「ファイバーレーザー溶接とは③」最新機器・ロボットファイバーレーザーについて解説 ｜ 精密板金加工なら株式会社都留",
+    "url": "https://www.tsuru.co.jp/column/about-robot-fiber-laser/",
+    "pass": 1
+   },
+   {
+    "quote": "「ファイバーレーザー溶接とは③」最新機器・ロボットファイバーレーザーについて解説",
+    "url": "https://www.tsuru.co.jp/column/about-robot-fiber-laser/",
+    "pass": 1
+   },
+   {
+    "quote": "ロボットファイバーレーザーは、ファイバーレーザーの最新機器になります",
+    "url": "https://www.tsuru.co.jp/column/about-robot-fiber-laser/",
+    "pass": 1
+   },
+   {
+    "quote": "ファイバーレーザー溶接機と協働ロボットを連動し、AIソフト（人工知能）で図面や治具情報、ティーチング（ロボットに動作を記憶させること）内容などをクラウド保存",
+    "url": "https://www.tsuru.co.jp/column/about-robot-fiber-laser/",
+    "pass": 1
+   },
+   {
+    "quote": "ロボットファイバ－レーザー溶接は歪みを少なく抑えられる",
+    "url": "https://www.tsuru.co.jp/column/about-robot-fiber-laser/",
+    "pass": 1
+   },
+   {
+    "quote": "これからはロボットファイバーレーザーの時代だと、ロボットファイバーレーザーを導入した都留は実感しています",
+    "url": "https://www.tsuru.co.jp/column/about-robot-fiber-laser/",
+    "pass": 1
+   },
+   {
+    "quote": "タレパン加工とは、正式にはタレットパンチプレスと言い、タレットという金型で金属の板を打ち抜いて加工する手法です",
+    "url": "https://www.tsuru.co.jp/facility/turret_punch_press/",
+    "pass": 1
+   },
+   {
+    "quote": "NC制御（プログラム）で金型の自動交換や複雑な打ち抜き加工ができるため、量産に適しています",
+    "url": "https://www.tsuru.co.jp/facility/turret_punch_press/",
+    "pass": 1
+   },
+   {
+    "quote": "曲げ加工は、板金を台に載せ、ヤゲン等の金型を押し当てることで行われるものです",
+    "url": "https://www.tsuru.co.jp/facility/bending/",
+    "pass": 1
+   },
+   {
+    "quote": "この際、金型により製品表面に傷がついてしまうことがあります",
+    "url": "https://www.tsuru.co.jp/facility/bending/",
+    "pass": 1
+   },
+   {
+    "quote": "後に塗装工程を経るものや、構造材等として使われるものであれば特に問題ありませんが、医療機器や厨房機器等、清潔さの求められる製品にとっては、大きな問題となることがあります",
+    "url": "https://www.tsuru.co.jp/facility/bending/",
+    "pass": 1
+   },
+   {
+    "quote": "曲げ傷を防ぐために、金型が直接板金に触れないよう、保護シートがつけられた状態で曲げ加工を行っております",
+    "url": "https://www.tsuru.co.jp/facility/bending/",
+    "pass": 1
+   },
+   {
+    "quote": "SECC（ボンデ鋼板）通信機器ブラケットの多工程曲げです",
+    "url": "https://www.tsuru.co.jp/facility/bending/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置部品：SUS304両面研磨材ブラケット",
+    "url": "https://www.tsuru.co.jp/techniques/turret_punch/",
+    "pass": 1
+   },
+   {
+    "quote": "タレパン+溶接加工（ナット溶接含む）＋バフ研磨をした半導体製…",
+    "url": "https://www.tsuru.co.jp/techniques/turret_punch/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置部品：SUS304両面研磨材ブラケット",
+    "url": "https://www.tsuru.co.jp/techniques/bend/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置部品：SUS304両面研磨材ブラケット",
+    "url": "https://www.tsuru.co.jp/techniques/burling_processing",
+    "pass": 1
+   },
+   {
+    "quote": "穴あけ加工＋皿もみ加工（ボール盤）＋バフ研磨処理をした医療機…",
+    "url": "https://www.tsuru.co.jp/techniques/counter_sinking",
+    "pass": 1
+   },
+   {
+    "quote": "金型不要・複雑な形状が得意で、薄板から厚板まで広範囲に対応",
+    "url": "https://www.tsuru.co.jp/recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "タレパン加工とは、正式にはタレットパンチプレスと言い、タレットという金型で金属の板を打ち抜いて加工する手法です",
+    "url": "https://www.tsuru.co.jp/facility/turret_punch_press",
+    "pass": 1
+   },
+   {
+    "quote": "NC制御（プログラム）で金型の自動交換や複雑な打ち抜き加工ができるため、量産に適しています",
+    "url": "https://www.tsuru.co.jp/facility/turret_punch_press",
+    "pass": 1
+   },
+   {
+    "quote": "専用金型を使用した通信機器SPCC製品、曲げの難加工事例",
+    "url": "https://www.tsuru.co.jp/techniques/steel_sheet_hemming/",
+    "pass": 1
+   },
+   {
+    "quote": "【半導体機器】【ヘミング曲げ（あざ折り）】【スポット溶接】【…",
+    "url": "https://www.tsuru.co.jp/techniques/steel_sheet_hemming/",
+    "pass": 1
+   },
+   {
+    "quote": "【医療機器】【ヘミング曲げ】【R曲げ】医療機器ユニット製品",
+    "url": "https://www.tsuru.co.jp/techniques/steel_sheet_hemming/",
+    "pass": 1
+   },
+   {
+    "quote": "とは、写真のようなタレパン加工の金型の継ぎ目（ノッチ）をほとんど目立たなくした加工方法です",
+    "url": "https://www.tsuru.co.jp/facility/turret_punch_press/slotting/",
+    "pass": 1
+   },
+   {
+    "quote": "ぴったりの金型がある場合や、金型を新たに作成してもコストに見合う場合はいいのですが、製品の数は無限にあり現実的ではありません",
+    "url": "https://www.tsuru.co.jp/facility/turret_punch_press/slotting/",
+    "pass": 1
+   },
+   {
+    "quote": "そこで他の金型を流用し、金型を少しずつずらして打ち抜く方法（二ブリング加工）をとっていました",
+    "url": "https://www.tsuru.co.jp/facility/turret_punch_press/slotting/",
+    "pass": 1
+   },
+   {
+    "quote": "バフ研磨から、塗装、シルク印刷、メッキ、ヘアライン加工電解研磨、アルマイト、酸洗など、あらゆる表面処理に対応！ステンレス・鉄の板金加工、レーザー・パンチ複合加工、タレパン加工、ファイバーレーザー溶接、TIG自動溶接、TIGロボット溶接、NCスタッド溶接で、量産、短納期に対応致します",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   },
+   {
+    "quote": "主な業界は半導体製造装置、医療機器、厨房機器、食品機械、照明機器メーカー様に主に納入しております",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   },
+   {
+    "quote": "ステンレス板金加工、ファイバーレーザー溶接、TIGロボット溶接",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   },
+   {
+    "quote": "ステンレス板金加工、ファイバーレーザー溶接、TIG自動溶接・TIGロボット溶接・NCスタッド溶接・精密板金加工",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   },
+   {
+    "quote": "・医療、厨房機器、半導体製造装置→傷はＮＧ、細かい加工が求められる",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   },
+   {
+    "quote": "「ヤゲン等の金型で製品表面にキズがついてしまう」",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   },
+   {
+    "quote": "「医療機器や暖房機器の製品用に精度の高い曲げ加工をしたい」",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   },
+   {
+    "quote": "メリット：量産に適している、金型がある場合はコストを抑えられる、ムラがなく綺麗に仕上がる",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   },
+   {
+    "quote": "デメリット：金型がない場合、調達にかかる採算はロット数によって変わってしまう",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   },
+   {
+    "quote": "≪厨房機器・医療機器・自動車部品には・・≫",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "全自動CAM、複合機教育修了者",
+    "url": "https://www.tsuru.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "◆CAD/CAMも複数台もち、プログラム作成も速やかに行い、",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "現物があれば、寸法を測定しCADで図面化して試作・製作も可能です",
+    "url": "https://www.tsuru.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "板の厚さに関しては、かなり厚いものであっても金型さえ合えば対応することが可能です（都留では基本的な金型は取り揃えていますが、合う金型がない場合は特注になる場合があります）",
+    "url": "https://www.tsuru.co.jp/column/types-of-bending/",
+    "pass": 1
+   },
+   {
+    "quote": "都留では基本的な金型は取り揃えていますが、最終的に目指す形に加工するための金型がない場合があります（特注の金型で対応できる場合もあります）",
+    "url": "https://www.tsuru.co.jp/column/types-of-bending/",
+    "pass": 1
+   },
+   {
+    "quote": "◆レーザー・パンチ複合加工は形自由自在で小ロットから対応いたします",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   },
+   {
+    "quote": "◆試作品から量産品まで速やかに対応致しております！",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、神奈川県川崎市川崎区に位置し、浜川崎インター、浅田インターも近く、東京、千葉、埼玉からのアクセスも良い場所で小ロットから中ロットの精密板金加工を行っております",
+    "url": "https://mono.ipros.com/company/detail/288191/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "ご注文の際には、ご注文書をメール（info@tsuru.co.jp）、またはFAX（044-742-4301）にてお送りください",
+    "url": "https://www.tsuru.co.jp/company/terms_conditions/",
+    "pass": 1
+   },
+   {
+    "quote": "※カタログダウンロードから、お問い合わせシートが",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   },
+   {
+    "quote": "※カタログダウンロードからはお問い合わせシートが",
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "製品・サービス一覧 | 株式会社都留 川崎工場 | イプロスものづくり — Feb 8, 2024 · 株式会社都留 川崎工場の製品・サービス一覧です。精密板金加工・ステンレス板金のレーザー・パンチ複合加工、タレパン、ファイバーレーザー溶接・TIG溶接なら神奈川県川崎市の都留へ 当社は、神奈川県川崎市川崎区に位置し、浜川崎インター、浅田インターも近く、東京、千葉、埼玉から ...",
+    "url": "https://www.ipros.jp/company/detail/288191/category/",
+    "pass": 3
+   },
+   {
+    "quote": "会社紹介 ｜ 精密板金加工なら株式会社都留精密板金加工の短納期・コストダウンは大田区・神奈川県川崎市の都留会社案内 | 株式会社都留 株式会社都留株式会社 都留 神奈川県 川崎市都留 | 企業情報 | イプロスものづくり株式会社都留のカタログ無料ダウンロード・会社概要 | Metoree製品・サービス一覧 | 株式会社都留 川崎工場 | イプロスものづくり — 精密板金加工メーカー として お客様のニーズに 迅速に対応すべく 日々研鑽を重ねて50年 神奈川県川崎市に工場を置く当社は、浅田インターから車で約5分と、都内へのアクセスも抜群です。 中ロットの精密板金加工をメインに、小部品から筐体物のサブアセンブリまで対応いたします。 最新 ... 中ロット生産に特化した 最新加工設備 一貫生産 24時間稼働工場 により貴社の課題を 総合的に解決いたします。 〒146-0093 東京都大田区矢口2",
+    "url": "https://www.tsuru.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | 株式会社都留 株式会社都留株式会社 都留 神奈川県 川崎市都留 | 企業情報 | イプロスものづくり株式会社都留のカタログ無料ダウンロード・会社概要 | Metoree製品・サービス一覧 | 株式会社都留 川崎工場 | イプロスものづくり — 〒146-0093 東京都大田区矢口2丁目15番2号 PRコメント 当社は、神奈川県川崎市川崎区に位置し、浜川崎インター、浅田インターも近く、東京、千葉、埼玉からのアクセスも良い場所で小ロットから中ロットの精密板金・板金加工を行っております。 レーザ・パンチ複合加工、タレパン加工の自動化で24時間稼動。ファイバーレーザー溶接 ... Sep 18, 2020 · 都留の企業情報や製品・サービス、関連カタログをご紹介。 精密板金加工・ステンレス板金のレーザー・パンチ複合加工、タレパン、ファイバーレーザー溶接・TIG溶接なら神奈川県川崎市の",
+    "url": "https://www.big-advance.site/c/157/1238/profile",
+    "pass": 3
+   },
+   {
+    "quote": "都留 | 企業情報 | イプロスものづくり株式会社都留のカタログ無料ダウンロード・会社概要 | Metoree製品・サービス一覧 | 株式会社都留 川崎工場 | イプロスものづくり — Sep 18, 2020 · 都留の企業情報や製品・サービス、関連カタログをご紹介。 精密板金加工・ステンレス板金のレーザー・パンチ複合加工、タレパン、ファイバーレーザー溶接・TIG溶接なら神奈川県川崎市の都留へ イプロスものづくりでは、製造・加工受託など製造業向けの情報を多数掲載。 事業所情報 株式会社都留の生産・加工施設が全国で1箇所登録されています。 生産・加工施設 神奈川県で株式会社都留の生産・加工施設が1箇所登録されています。 川崎工場 生産・加工施設 〒210-0858 神奈川県川崎市川崎区大川町8-1 Feb 8, 2024 · 株式会社都留 川崎工場の製品・サービス一覧です。精密板金加工・ス",
+    "url": "https://mono.ipros.com/company/detail/288191/",
+    "pass": 3
+   },
+   {
+    "quote": "会社紹介 ｜ 精密板金加工なら株式会社都留お問い合わせ - 株式会社デイ・シイ見積・お問合せ ｜ 精密板金加工なら株式会社都留川崎工場 - 株式会社都留の事業所情報 | Baseconnectお問い合わせフォーム | WEGO 株式会社お問い合わせ | 株式会社カワサキ — 精密板金加工メーカー として お客様のニーズに 迅速に対応すべく 日々研鑽を重ねて50年 神奈川県川崎市に工場を置く当社は、浅田インターから車で約5分と、都内へのアクセスも抜群です。 中ロットの精密板金加工をメインに、小部品から筐体物のサブアセンブリまで対応いたします。 最新 ... CONTACT CONTACT お問い合わせ お問い合わせ内容にあった窓口をお選びください。 お問い合わせ・ご相談の内容により、ご連絡に時間を要するものや、お答えできない場合もありますので、予めご了承ください。 ※当フォームからの営業活動",
+    "url": "https://www.tsuru.co.jp/company/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tsuru.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/news/saiyojoho/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/recruitment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/case/stainless-steel-tig-welding-water-tank/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/news/metoree/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/column/types-of-bending/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/column/about-robot-fiber-laser/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/company/terms_conditions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/facility/turret_punch_press/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/facility/press_fit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/facility/bending/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/techniques/turret_punch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/techniques/bend/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/techniques/press_in/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/industry/own_product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/techniques/slotting_processing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/techniques/burling_processing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/techniques/counter_sinking",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/techniques/dowel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/facility/turret_punch_press",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/techniques/steel_sheet_hemming/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/facility/laser_cutting_and_punching_center/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/download/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/facility/turret_punch_press/slotting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuru.co.jp/facility/turret_punch_press/burling/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tsuru.co.jp/wp-content/uploads/2021/01/thumb_15.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/288191/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.u-topia.co.jp/products/low-volume-series.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.big-advance.site/c/157/1238/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/288191/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dccorp.jp/contact/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://baseconnect.in/branch_offices/44e77259-00b7-4389-b80a-8f45bb914155",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "都留 川崎工場 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.ipros.jp/company/detail/288191/category/",
+    "https://www.u-topia.co.jp/products/low-volume-series.html",
+    "https://www.tsuru.co.jp/flow/",
+    "https://ja.nc-net.or.jp/company/33483/",
+    "https://tsuru.co.jp/",
+    "https://mono.ipros.com/company/detail/288191/category/",
+    "https://mono.ipros.com/company/detail/288191/catalog/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "都留 川崎工場 会社概要 事業内容",
+   "results": [
+    "https://www.tsuru.co.jp/company/",
+    "https://www.big-advance.site/c/157/1238/profile",
+    "https://mono.ipros.com/company/detail/288191/",
+    "https://metoree.com/companies/44386/",
+    "https://www.ipros.jp/company/detail/288191/category/",
+    "https://tsuru.co.jp/",
+    "https://ja.nc-net.or.jp/company/33483/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "都留 川崎工場 お問い合わせ メール",
+   "results": [
+    "https://www.tsuru.co.jp/company/",
+    "https://dccorp.jp/contact/",
+    "https://baseconnect.in/branch_offices/44e77259-00b7-4389-b80a-8f45bb914155",
+    "https://www.wego-corp.com/contact",
+    "https://kawasaki-corp.co.jp/contact/",
+    "https://ja.nc-net.or.jp/company/33483/inquiry/input/",
+    "https://www.tsuru.co.jp/inquiry/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 都留 川崎工場",
+   "results": [
+    "https://note.com/tabikotabio/n/n16abdf719886",
+    "https://note.com/akih/n/n5c340d831022",
+    "https://note.com/osushi30/n/nc6e7ab806bee",
+    "https://note.com/mikoto_everyday/n/nfaf3e6ad5472",
+    "https://note.com/nanana_sato/n/n999610af7edb",
+    "https://note.com/rohvnd984/n/ndbd5dd8a977b",
+    "https://note.com/nagareruiota/n/n7c45943ac87e"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 都留 川崎工場",
+   "results": [
+    "https://x.com/info12689346",
+    "https://x.com/livedoornews/status/2078029436377579632",
+    "https://x.com/urakutenism/status/1763862625975472269",
+    "https://x.com/kawasakifactory",
+    "https://x.com/turusiki",
+    "https://x.com/tsurumichinoeki/status/2051930123553976424",
+    "https://x.com/dtsuru"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 都留 川崎工場",
+   "results": [
+    "https://jp.linkedin.com/in/哲-久冨-928002209",
+    "https://jp.linkedin.com/in/光史郎-近江屋-166503213",
+    "https://be.linkedin.com/in/rocio-lorenzo-1936841b1",
+    "https://ch.linkedin.com/in/dr-stefan-m-toth-2520481ba",
+    "https://ch.linkedin.com/in/vasee-moorthy-md-phd-21791599",
+    "https://www.linkedin.com/posts/秀和-宮宇地-949573271_富士通テクノロジーパーク-ftp-富士通創業の地-activity-7301928423780716544-0Y8r",
+    "https://www.linkedin.com/jobs/jfe川崎から三井住友金属鉱山上尾工場までの距離-jobs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 都留 川崎工場",
+   "results": [
+    "https://www.facebook.com/groups/284084568661075/posts/1888652048204311/",
+    "https://www.facebook.com/media/set/?set=a.538640672841152",
+    "https://www.facebook.com/FusoOfficial/videos/-take-a-peek-behind-the-scenes-of-our-kawasaki-plant-here-our-team-produces-ligh/959895522040306/",
+    "https://www.facebook.com/tabilist/posts/津田山駅懐石料理-青山菊露居工場食べログでcheck懐石料理の青山の工場直売所毎月第一金曜日が特売日でお寿司が三割引で購入できる営業11001400-土日祝日休/932057710683870/",
+    "https://www.facebook.com/japan.kawasaki/posts/液化水素プラント向け真空二重配管の自動化生産ラインを構築液化水素サプライチェーンの商用化実証向け真空二重配管を初出荷川崎重工は播磨工場兵庫県加古郡播磨町に商用規/1671667811412551/",
+    "https://www.facebook.com/sentarou.watanabe/posts/3809794325835234/",
+    "https://www.facebook.com/groups/142966376175836/posts/2284323092040143/",
+    "https://www.facebook.com/bibai.kouryu/photos/1509041884585894/",
+    "https://www.facebook.com/100090171573215/posts/hatobus_jp-はとバスの最新情報はこちら️今回は川崎工場夜景運河探検クルーズのご紹介です羽田の天空橋桟橋から屋根のない運河船に乗船し迫力の工場夜景をお楽/701993919482988/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "都留 川崎工場 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.tsuru.co.jp/company/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://tsuru.co.jp/",
+    "https://note.com/gijutsu_lab/n/nd2d52d8660fc",
+    "https://www.ccnet21.ne.jp/company/4552",
+    "https://ja.nc-net.or.jp/company/33483/history/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "都留 川崎工場 X 投稿",
+   "results": [
+    "https://x.com/info12689346",
+    "https://search.yahoo.co.jp/realtime/search/都留市/",
+    "https://search.yahoo.co.jp/realtime/search/都留/",
+    "https://x.com/yu_saku_photo/status/2119997130341527794",
+    "https://www.tsuru.co.jp/company/",
+    "https://tsuru.co.jp/",
+    "https://ja.nc-net.or.jp/company/33483/pr/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像1件／外部6頁・検索9回）"
+ }
+}

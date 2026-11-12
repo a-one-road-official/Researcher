@@ -1,0 +1,863 @@
+{
+ "name": "合同会社微細加工研究所",
+ "aliases": [],
+ "context": "ipros_all:多品種",
+ "researched_at": "2026-11-11T23:29:22.324019+00:00",
+ "official_url": "https://mf-laboratory.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒192-0051 東京都八王子市元本郷町1-5-17　元本郷レジデンス１F",
+    "url": "https://mf-laboratory.com/company",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "東京都八王子市元本郷町1-5-17 元本郷レジデンス1F",
+    "url": "https://www.micro-fabricating.com/list/mf-laboratory.html",
+    "pass": 3
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "・東京大学生産技術研究所\n・太原理工大学\n・南京航空航天大学\nその他、メーカー（機密保持のため匿名希望）など (順不同・敬称略) ※上記ユーザー様の他に、半導体や金属MEMSに関する社外秘の生産技術研究や量産ラインでの導入事例も多数あります",
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "卓上プレス機と金型一貫しての設計製造体制は、金属MEMSや半導体などの先端技術メーカーでの生産技術研究、大学や研究機関で行われる高難易度実験、ミクロン台の精度を要求される精密小物製品の量産に携わる現場からのハイレベルなプレス加工をご要望のユーザー様を支えてまいりました",
+    "url": "https://mf-laboratory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "手作業では困難なサイズの微細板金部品の組立を金型内で行うことで、組立の時間コスト低減と製品精度の均一化を実現させる技術",
+    "url": "https://mf-laboratory.com/precisionpress",
+    "pass": 1
+   },
+   {
+    "quote": "ある程度の大きさの製品にも応用できますが、MEMSを含めた精密マイクロ機器の製作時における効果が特に大きいことから、平成15～17年度「戦略的基盤技術高度化事業」に採択されました",
+    "url": "https://mf-laboratory.com/precisionpress",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、クリアランスを過小にすることは原則として避けられますが、一方で、製品に発生するダレやバリそのものは、通常の抜き加工時よりも小さくなるという特徴もあります",
+    "url": "https://mf-laboratory.com/vibration",
+    "pass": 1
+   },
+   {
+    "quote": "既製品機種：軽作業用卓上サーボスクリュープレス機 SSS-01",
+    "url": "https://mf-laboratory.com/vibration",
+    "pass": 1
+   },
+   {
+    "quote": "微細加工研究所製品の導入をご検討の皆様へお知らせいたします",
+    "url": "https://mf-laboratory.com/information/3081",
+    "pass": 1
+   },
+   {
+    "quote": "板厚、ロット数、製品形状、納期、代金いずれも応相談",
+    "url": "https://mf-laboratory.com/manufacture",
+    "pass": 1
+   },
+   {
+    "quote": "※小ロット生産は以下の機材(自社製品)で行っております",
+    "url": "https://mf-laboratory.com/manufacture",
+    "pass": 1
+   },
+   {
+    "quote": "また、基本仕様を確定させている【既製品】機種でもあります",
+    "url": "https://mf-laboratory.com/press/press_unit",
+    "pass": 1
+   },
+   {
+    "quote": "また、この機種を用いて精密小物製品の量産を行っているユーザー様もいらっしゃいます",
+    "url": "https://mf-laboratory.com/press/press_unit",
+    "pass": 1
+   },
+   {
+    "quote": "・ カシメ、圧入などの組立作業に適した既製品の軽作業用卓上プレス機です",
+    "url": "https://mf-laboratory.com/site/wp-content/uploads/2026/03/sss01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品・サービス(18)",
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社製品による精密小物プレス加工は、SUSや純チタンや銅合金などの薄板材(板厚0.1～0.01mm程度)を対象としておりますが、それ以外の材料、または用途にも対応いたします",
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "pass": 3
+   },
+   {
+    "quote": "1/100ミリ単位の精度を要求される精密小物製品の量産",
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "pass": 3
+   },
+   {
+    "quote": "精密小物製品のインライン生産現場の省スペース化、または余剰スペースの有効活用",
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (18)",
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "pass": 3
+   },
+   {
+    "quote": "【まずはこちらをご覧ください】微細加工研究所 製品・サービス紹介パンフレット（2025年11月版）",
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "pass": 3
+   },
+   {
+    "quote": "微細加工研究所の製品の導入を検討されている皆様へお知らせいたします",
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "pass": 3
+   },
+   {
+    "quote": "詳細なスペックは、イプロス内の製品ページをご覧ください",
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "pass": 3
+   },
+   {
+    "quote": "オーダーメイド生産式によって用途に合った製品の加工が可能",
+    "url": "https://www.micro-fabricating.com/list/mf-laboratory.html",
+    "pass": 3
+   },
+   {
+    "quote": "基本的には、ユーザーの作りたい製品の形状や用途に合ったものを提案する、「オーダーメイド生産方式」で製品を提供しています",
+    "url": "https://www.micro-fabricating.com/list/mf-laboratory.html",
+    "pass": 3
+   },
+   {
+    "quote": "いくら高精度の加工機器で加工したとしても、検査測定器で正確に検査して問題ないと判断されてはじめて高品質な製品の納品が可能となります",
+    "url": "https://www.micro-fabricating.com/list/mf-laboratory.html",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "得意とする加工対象はSUSや純チタン等の難加工材の薄板材(板厚0.1mm程度)ですが、それ以外の素材、材料に対しても検討いたします",
+    "url": "https://mf-laboratory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "材料 SUS304CSP-1/2H または純チタン１種、共に板厚0.05mm",
+    "url": "https://mf-laboratory.com/precisionpress",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、樹脂製薄板材のように柔らかすぎて加工精度を出しにくい材料への精密抜き加工や、バリ、ダレ極小化に伴い板厚の半分以下の幅の抜き加工、通常よりも低い加圧力での鍛造加工なども行えます",
+    "url": "https://mf-laboratory.com/vibration",
+    "pass": 1
+   },
+   {
+    "quote": "弊社製品による精密小物プレス加工は、SUSや純チタンや銅合金などの薄板材(板厚0.1～0.01mm程度)を対象としておりますが、それ以外の材料、または用途にも対応いたします",
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "pass": 3
+   },
+   {
+    "quote": "なかでも、ステンレスや純チタンなどの難加工材の薄板材を対象とした「微細精密プレス加工」を得意としています",
+    "url": "https://www.micro-fabricating.com/list/mf-laboratory.html",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "現在の製造業界、とりわけ先端技術開発においては、「高精度化」「小型化」「多品種少量生産への対応」、あるいは“より薄く、より軽く、より高精度”という要望と、それに対応するシステムを持つメーカーへの需要が高まり続けています",
+    "url": "https://mf-laboratory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "そんなお客様は小ロット生産をご用命ください",
+    "url": "https://mf-laboratory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「ものづくり中小企業・小規模事業者試作開発等支援補助」",
+    "url": "https://mf-laboratory.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "多品種少量生産時の金型コストの低減を目指して開発した「金型自動交換装置」です",
+    "url": "https://mf-laboratory.com/precisionpress",
+    "pass": 1
+   },
+   {
+    "quote": "また、設計変更の際に、当該箇所の金型だけを再設計すれば良いため、試作時での金型コストを低減させる効果もあります",
+    "url": "https://mf-laboratory.com/precisionpress",
+    "pass": 1
+   },
+   {
+    "quote": "小ロット生産代行 - 合同会社 微細加工研究所",
+    "url": "https://mf-laboratory.com/manufacture",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は他社様からのご依頼に応じて精密小物部品の小ロット生産(部品外形寸法20mm×20mm以下、寸法誤差±0.1mm以内)を受託しております",
+    "url": "https://mf-laboratory.com/manufacture",
+    "pass": 1
+   },
+   {
+    "quote": "※小ロット生産は以下の機材(自社製品)で行っております",
+    "url": "https://mf-laboratory.com/manufacture",
+    "pass": 1
+   },
+   {
+    "quote": "オフィス内での試作や実験に適しており、大学・研究機関などでの精密小物塑性加工実験や民間精密小物メーカー様のインライン生産、その他精密プレスで行いたい様々な用途に対応しております",
+    "url": "https://mf-laboratory.com/press/press_unit",
+    "pass": 1
+   },
+   {
+    "quote": "・ 精密小物部品の塑性加工実験、少量単発作業、順送加工にご利用頂けます",
+    "url": "https://mf-laboratory.com/site/wp-content/uploads/2021/11/catalog_pressunit.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特殊加工実験、試作・小ロット生産、精密カシメ、量産ライン増設",
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "pass": 3
+   },
+   {
+    "quote": "将来的な量産に向けて必要となる試作や小ロット生産",
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "pass": 3
+   },
+   {
+    "quote": "【多品種少量生産向け】卓上精密サーボスクリュープレス機",
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "pass": 3
+   },
+   {
+    "quote": "オーダーメイド方式を採用する合同会社微細加工研究所を調査",
+    "url": "https://www.micro-fabricating.com/list/mf-laboratory.html",
+    "pass": 3
+   },
+   {
+    "quote": "オーダーメイド生産式によって用途に合った製品の加工が可能",
+    "url": "https://www.micro-fabricating.com/list/mf-laboratory.html",
+    "pass": 3
+   },
+   {
+    "quote": "基本的には、ユーザーの作りたい製品の形状や用途に合ったものを提案する、「オーダーメイド生産方式」で製品を提供しています",
+    "url": "https://www.micro-fabricating.com/list/mf-laboratory.html",
+    "pass": 3
+   },
+   {
+    "quote": "精密小物部品の小ロット生産（部品外形寸法20mm×20mm以下、寸法誤差±0.1mm以内）も受け付けています",
+    "url": "https://www.micro-fabricating.com/list/mf-laboratory.html",
+    "pass": 3
+   },
+   {
+    "quote": "小ロット生産は、合同会社微細加工研究所製の卓上スクリュープラス機・卓上高速クランクプレス機を使って行っています",
+    "url": "https://www.micro-fabricating.com/list/mf-laboratory.html",
+    "pass": 3
+   },
+   {
+    "quote": "合同会社微細加工研究所は、オーダーメイド生産で微細加工設備の設計・製造を行う企業です",
+    "url": "https://www.micro-fabricating.com/list/mf-laboratory.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社製の設備を使った部品生産にも対応しており、小ロットから部品生産を代行しています",
+    "url": "https://www.micro-fabricating.com/list/mf-laboratory.html",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "微細加工研究所は先端技術や生産技術開発の研究にも適用できる、0.01mm単位の精度要求に対応できる精密加工用の卓上精密サーボプレス機と特殊精密金型の両方を一貫して設計製造しております",
+    "url": "https://mf-laboratory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "卓上プレス機と金型一貫しての設計製造体制は、金属MEMSや半導体などの先端技術メーカーでの生産技術研究、大学や研究機関で行われる高難易度実験、ミクロン台の精度を要求される精密小物製品の量産に携わる現場からのハイレベルなプレス加工をご要望のユーザー様を支えてまいりました",
+    "url": "https://mf-laboratory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、プレス機の仕様や金型レイアウトを定める上でのコンサルティングと納品後の加工や量産におけるサポートも、弊社内に設置されている自社製プレス機を使用した受託生産、新人設計者や技術営業職を対象とした金型設計ノウハウのリモート講習も、弊社の熟練技術者を交えて丁寧に行います",
+    "url": "https://mf-laboratory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の精密微細プレス金型設計の考え方はこちら",
+    "url": "https://mf-laboratory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用検査器具を使用した実験に使用されています",
+    "url": "https://mf-laboratory.com/precisionpress",
+    "pass": 1
+   },
+   {
+    "quote": "手作業では困難なサイズの微細板金部品の組立を金型内で行うことで、組立の時間コスト低減と製品精度の均一化を実現させる技術",
+    "url": "https://mf-laboratory.com/precisionpress",
+    "pass": 1
+   },
+   {
+    "quote": "多品種少量生産時の金型コストの低減を目指して開発した「金型自動交換装置」です",
+    "url": "https://mf-laboratory.com/precisionpress",
+    "pass": 1
+   },
+   {
+    "quote": "工程ごとに金型の列をプレス機方向へスライドさせて金型を自動的に交換します",
+    "url": "https://mf-laboratory.com/precisionpress",
+    "pass": 1
+   },
+   {
+    "quote": "また、設計変更の際に、当該箇所の金型だけを再設計すれば良いため、試作時での金型コストを低減させる効果もあります",
+    "url": "https://mf-laboratory.com/precisionpress",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、スクリュープレス機のスライドとそれに合致させた金型は高速で上下動を繰り返すことになります",
+    "url": "https://mf-laboratory.com/vibration",
+    "pass": 1
+   },
+   {
+    "quote": "抜き加工に際し、ダイとパンチのクリアランスが適正値より小さい金型を強引に使用すると、金型への食いつきやパンチ刃先のチッピングといった金型の破損を招きます",
+    "url": "https://mf-laboratory.com/vibration",
+    "pass": 1
+   },
+   {
+    "quote": "この特徴を利用し、あえてダイとパンチのクリアランスを適正値より小さくした金型を使用する加工法としてファインブランキング加工が知られています",
+    "url": "https://mf-laboratory.com/vibration",
+    "pass": 1
+   },
+   {
+    "quote": "しかしこれは、特殊性の高い金型を必要とします",
+    "url": "https://mf-laboratory.com/vibration",
+    "pass": 1
+   },
+   {
+    "quote": "振動加工は、通常の金型で、このファインブランキングと同等の加工精度を出すために考案されました",
+    "url": "https://mf-laboratory.com/vibration",
+    "pass": 1
+   },
+   {
+    "quote": "ベリリューム銅に対して通常よりパンチとダイ穴のクリアランスを通常より小さい金型にて実施",
+    "url": "https://mf-laboratory.com/vibration",
+    "pass": 1
+   },
+   {
+    "quote": "(搭載金型サイズ X=100mm Y=100mm)",
+    "url": "https://mf-laboratory.com/press/press_unit",
+    "pass": 1
+   },
+   {
+    "quote": "スライドとボルスターに金型をネジで固定いたします",
+    "url": "https://mf-laboratory.com/press/press_unit",
+    "pass": 1
+   },
+   {
+    "quote": "原型であるMCPシリーズ同様にストローク長さやスライド速度を数値で調節でき、スライド下死点も1/100mm単位の精度で設定できるため、半導体基板などを対象とした精密カシメ、微小ピンの圧入、センサ部品の封止カシメといった組立作業にも使用できます",
+    "url": "https://mf-laboratory.com/sss01",
+    "pass": 1
+   },
+   {
+    "quote": "また、プレス機の間口（内部の左右幅）を300mm、オープンハイト（ボルスターとスライドの最大上下幅）を180mmまで広げたことで、金型を取り付けた際の作業もやりやすくなります",
+    "url": "https://mf-laboratory.com/sss01",
+    "pass": 1
+   },
+   {
+    "quote": "※当機種での使用を前提とした特殊精密金型の設計製造も承ります",
+    "url": "https://mf-laboratory.com/sss01",
+    "pass": 1
+   },
+   {
+    "quote": "小型NCロールフィーダー、搭載金型サイズ変更、",
+    "url": "https://mf-laboratory.com/sss01",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では代表社員の伊藤によるプレス金型講座を承っております",
+    "url": "https://mf-laboratory.com/information/3046",
+    "pass": 1
+   },
+   {
+    "quote": "・搭載金型サイズ X=100mm、Y=100mm",
+    "url": "https://mf-laboratory.com/site/wp-content/uploads/2021/11/catalog_pressunit.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・搭載金型サイズ (下型)X=150mm、Y=150mm (上型)X=125mm、Y=100mm",
+    "url": "https://mf-laboratory.com/site/wp-content/uploads/2026/03/sss01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・金型内には絶対に手指を入れないでください",
+    "url": "https://mf-laboratory.com/site/wp-content/uploads/2026/03/sss01date.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "無負荷状態で中心よりＸ軸、Ｙ軸のそれぞれ金型搭載サイズまでを測定",
+    "url": "https://mf-laboratory.com/site/wp-content/uploads/2026/03/sss01date.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "弊社は精密小物プレス加工に適した、卓上サイズの精密サーボプレス機と特殊精密金型を設計製造しております",
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "pass": 3
+   },
+   {
+    "quote": "基盤の破損が許されない半導体などの精密カシメ作業",
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "pass": 3
+   },
+   {
+    "quote": "微細加工研究所の卓上精密サーボプレス機と金型は、これらの先端技術に関わるニーズ達成に貢献いたします",
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "pass": 3
+   },
+   {
+    "quote": "その他治具または装置類の設計製作および相談",
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "pass": 3
+   },
+   {
+    "quote": "【半導体関連のR&D】【脱炭素】卓上精密サーボスクリュープレス機",
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体基板への精密カシメ、圧入などの組立作業に対する適性を高めております",
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "pass": 3
+   },
+   {
+    "quote": "※上記ユーザー様の他に、半導体や金属MEMSに関する社外秘の生産技術研究や量産ラインでの導入事例も多数あります",
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "e-mail:m_ito@mf-lab.jp (担当者：伊藤)",
+    "url": "https://mf-laboratory.com/site/wp-content/uploads/2021/11/catalog_pressunit.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "e-mail:m_ito@mf-lab.jp (担当者：伊藤)",
+    "url": "https://mf-laboratory.com/site/wp-content/uploads/2026/03/sss01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※回答を確実にお求めの方は弊社HPメールフォーム（https://mf-laboratory.com/contact）にもご一報ください",
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "pass": 3
+   },
+   {
+    "quote": "OJT形式・長期研修にも対応しているので、気になる方はぜひお問い合わせしてみてください",
+    "url": "https://www.micro-fabricating.com/list/mf-laboratory.html",
+    "pass": 3
+   },
+   {
+    "quote": "微細加工研究所・湯之上.NET ／ お問い合わせ",
+    "url": "https://yunogami.net/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "講演、執筆、取材、対談、コンサルタントなどのお問い合わせは、",
+    "url": "https://yunogami.net/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "yunogamiアットマークgmail.com",
+    "url": "https://yunogami.net/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記は迷惑メール防止のためアットマークをカタカナ表記にしてあります",
+    "url": "https://yunogami.net/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "メールをくださる場合は、ご注意ください",
+    "url": "https://yunogami.net/contact.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "微細加工研究所 | 企業情報 | イプロスものづくり — 微細加工研究所 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 産業用機械",
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "pass": 3
+   },
+   {
+    "quote": "合同会社 微細加工研究所 : HOME — 合同会社 微細加工研究所 : HOME 合同会社 微細加工研究所 https://mf-laboratory.com",
+    "url": "https://mf-laboratory.com/",
+    "pass": 3
+   },
+   {
+    "quote": "合同 会社 微細加工研究所 : HOME — 合同 会社 微細加工研究所 : HOME 合同会社 微細加工研究所 https://mf-laboratory.com",
+    "url": "https://mf-laboratory.com/",
+    "pass": 3
+   },
+   {
+    "quote": "微細加工研究所 | 企業 情報 | イプロスものづくり — 微細加工研究所 | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 産業用機械",
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "pass": 3
+   },
+   {
+    "quote": "オーダーメイド方式を採用する合同 会社微細加工研究所 を調査 — オーダーメイド方式を採用する合同 会社微細加工研究所 を調査 micro-fabricating.com https://www.micro-fabricating.com > list > mf-laboratory",
+    "url": "https://www.micro-fabricating.com/list/mf-laboratory.html",
+    "pass": 3
+   },
+   {
+    "quote": "微細加工研究所 の企業 情報 - バフェット・コード — 微細加工研究所 の企業 情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company",
+    "url": "https://www.buffett-code.com/company/fc6irs88i2/",
+    "pass": 3
+   },
+   {
+    "quote": "合同 会社微細加工研究所 - Compalyze — 合同 会社微細加工研究所 - Compalyze Compalyze https://compalyze.co.jp > 企業検索 > 機械・設備",
+    "url": "https://compalyze.co.jp/company/1010103000531",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 合同会社 微細加工研究所 — お問い合わせ - 合同会社 微細加工研究所 合同会社 微細加工研究所 https://mf-laboratory.com > contact",
+    "url": "https://mf-laboratory.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 微細加工研究所・湯之上.NET ／ HOME — お問い合わせ - 微細加工研究所・湯之上.NET ／ HOME yunogami.net http://yunogami.net > contact",
+    "url": "http://yunogami.net/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "夏季休暇のお知らせ - 合同会社 微細加工研究所 — 夏季休暇のお知らせ - 合同会社 微細加工研究所 合同会社 微細加工研究所 https://mf-laboratory.com > category > information",
+    "url": "https://mf-laboratory.com/category/information",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "https://mf-laboratory.com/processing_example/660",
+    "url": "https://www.micro-fabricating.com/list/mf-laboratory.html",
+    "pass": 3
+   },
+   {
+    "quote": "yunogamiアットマークgmail.com",
+    "url": "https://yunogami.net/contact.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Takashi Yunogami - 微細加工研究所 CEO兼所長 | LinkedIn Takashi Yunogami - 微細加工研究所 CEO兼所長 | LinkedIn LinkedIn https://jp.linkedin.com > takashi-yunogami-01348457",
+    "url": "https://jp.linkedin.com/in/takashi-yunogami-01348457",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://mf-laboratory.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mf-laboratory.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mf-laboratory.com/precisionpress",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mf-laboratory.com/vibration",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mf-laboratory.com/information/3081",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mf-laboratory.com/precisionpress",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mf-laboratory.com/manufacture",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mf-laboratory.com/press/press_unit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mf-laboratory.com/sss01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mf-laboratory.com/information/3046",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mf-laboratory.com/manufacture",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mf-laboratory.com/information/3021",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://mf-laboratory.com/site/wp-content/uploads/2021/11/catalog_pressunit.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mf-laboratory.com/site/wp-content/uploads/2026/03/sss01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mf-laboratory.com/site/wp-content/uploads/2026/03/sss01date.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bmf3d.co.jp/solutions/prototyping",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2009022/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.micro-fabricating.com/list/mf-laboratory.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yunogami.net/contact.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ultra-high-precision.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/takashi-yunogami-01348457",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "微細加工研究所 取扱製品 試作 小ロット",
+   "results": [
+    "https://mono.ipros.com/company/detail/2009022/",
+    "https://mf-laboratory.com/",
+    "https://www.bmf3d.co.jp/solutions/prototyping",
+    "https://www.zen.co.jp/",
+    "https://e-sakai.co.jp/bisaikako-lab/",
+    "https://injection-lab.com/download/1955-2.html",
+    "https://www.micro-fabricating.com/list/mf-laboratory.html",
+    "https://www.bisaikakou.net/",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://mf-laboratory.com/manufacture"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "微細加工研究所 会社概要 事業内容",
+   "results": [
+    "https://mf-laboratory.com/",
+    "https://mono.ipros.com/company/detail/2009022/",
+    "https://www.micro-fabricating.com/list/mf-laboratory.html",
+    "https://www.buffett-code.com/company/fc6irs88i2/",
+    "https://compalyze.co.jp/company/1010103000531",
+    "https://mf-laboratory.com/company",
+    "https://metoree.com/categories/5671/",
+    "https://www.hsk.co.jp/ja/introduction.html",
+    "https://www.youtube.com/channel/UCxdqYxGnd9dYQkSQwuz4kwQ",
+    "https://data-link-plus.com/jp/corporation/1010103000531"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "微細加工研究所 お問い合わせ メール",
+   "results": [
+    "https://mf-laboratory.com/contact",
+    "http://yunogami.net/contact.html",
+    "https://ultra-high-precision.com/contact/",
+    "https://mono.ipros.com/company/detail/2009022/",
+    "https://mf-laboratory.com/category/information",
+    "https://www.aist.go.jp/aist_j/press_release/inquiry.html?sysid=8664",
+    "https://www.bushclover.net/contact/",
+    "https://bisai-monozukuri.com/database/",
+    "https://www.bisaikakou.net/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com 微細加工研究所",
+   "results": [
+    "https://note.com/tag/%E5%BE%AE%E7%B4%B0%E5%8A%A0%E5%B7%A5",
+    "https://note.com/handotai14/n/nc931832ff7e2",
+    "https://note.com/quadrifogliospa/n/n7222b0d07671",
+    "https://note.com/tomorrow56/n/nac75bfe7b08e",
+    "https://note.com/dxdcamp/n/nc0f2cb8c0bba",
+    "https://note.com/good_dill292/n/n86189dd3e2c7",
+    "https://note.com/kigyosm/n/nb5991d543d1f",
+    "https://note.com/bunseki2531/n/n90635efe33ab",
+    "https://note.com/bobrir7l/n/na181bdfea863",
+    "https://note.com/finalvent/n/n71f9a943c430"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 微細加工研究所",
+   "results": [
+    "https://x.com/JBpress/status/1921716381890011589",
+    "https://x.com/JBpress/status/1940240007752454173",
+    "https://x.com/eetimes_jp/status/2092084566131442169",
+    "https://x.com/JBpress/status/2020680120181137858",
+    "https://x.com/primenews_/status/857180030157426688",
+    "https://x.com/rjp_news/status/2115008035856982386",
+    "https://x.com/ToyotaCRDL/status/1377606678074552324",
+    "https://x.com/jpShareLab/status/2105546398938935730",
+    "https://x.com/UTokyo_IIS/status/2116014444522111230",
+    "https://x.com/NJINJINJI/status/1395894204778246151"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 微細加工研究所",
+   "results": [
+    "https://jp.linkedin.com/in/takashi-yunogami-01348457",
+    "https://www.linkedin.com/posts/takashi-yunogami-01348457_%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E7%A4%BE%E3%81%AB%E6%97%A5%E6%9C%AC%E3%81%8C%E4%B8%96%E7%95%8C%E5%8D%8A%E5%B0%8E%E4%BD%93%E7%94%A3%E6%A5%AD%E3%81%A7%E3%81%AF%E3%81%9F%E3%81%99%E3%81%B9%E3%81%8D%E5%BD%B9%E5%89%B2%E3%81%A8%E3%81%AF-%E6%97%A5%E6%9C%AC%E3%81%AE%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE%E3%81%AE%E3%82%B7%E3%82%A7%E3%82%A2-activity-7109868704439435265-4ffu",
+    "https://jp.linkedin.com/posts/takeruhishiki_%E5%BF%9C%E6%8F%B4%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E6%97%A5%E6%9C%AC%E3%81%AE%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC-activity-7077604099130605568-8xcz",
+    "https://jp.linkedin.com/posts/takashi-yunogami-01348457_%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%81%AE3%E5%A4%A7%E5%9B%BD%E9%9A%9B%E5%AD%A6%E4%BC%9A%E3%81%AE%E4%B8%80%E3%81%A4vlsi%E3%82%B7%E3%83%B3%E3%83%9D%E3%82%B8%E3%82%A6%E3%83%A0%E3%81%A7%E4%B8%AD%E5%9B%BD%E3%81%8B%E3%82%89%E3%81%AE%E6%8A%95%E7%A8%BF%E6%95%B0%E3%81%A8%E6%8E%A1%E6%8A%9E%E6%95%B0%E3%81%8C%E6%80%A5%E5%A2%97-activity-7327561092832866304-pH--",
+    "https://jp.linkedin.com/posts/takashi-yunogami-01348457_%E6%9C%AC%E6%97%A52%E6%9C%8813%E6%97%A52nm%E3%81%AE%E9%87%8F%E7%94%A3%E3%81%8C%E9%9B%A3%E3%81%97%E3%81%84%E3%81%93%E3%81%A8%E3%82%92%E8%AA%AC%E6%98%8E%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E9%9B%A3%E3%81%97%E3%81%84%E3%82%84%E3%81%A3%E3%81%B1%E3%82%8Arapidus-activity-7295751672159420416-aEYM",
+    "https://jp.linkedin.com/posts/takashi-yunogami-01348457_%E9%81%8E%E5%8E%BB2%E5%9B%9E%E3%81%AEee-times-japan%E3%81%AE%E8%A8%98%E4%BA%8B%E3%81%AF%E4%B8%8D%E8%A9%95%E3%81%A7%E3%81%97%E3%81%9F%E3%81%9D%E3%81%93%E3%81%A7%E6%B1%9A%E5%90%8D%E3%82%92%E8%BF%94%E4%B8%8A%E3%81%99%E3%81%B9%E3%81%8F-activity-7315210513959788544-bMl-",
+    "https://jp.linkedin.com/posts/takashi-yunogami-01348457_ee-times-japan%E3%81%AB%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%82%AA%E3%83%AC%E3%83%99%E3%83%AB%E3%81%AE%E5%8D%8A%E5%B0%8E%E4%BD%93%E4%B8%8D%E6%B3%81%E3%81%AB%E5%9B%9E%E5%BE%A9%E3%81%AE%E5%85%86%E3%81%97%E7%94%9F%E6%88%90ai-activity-7105752441941327872-vz8h",
+    "https://jp.linkedin.com/posts/takashi-yunogami-01348457_%E7%B1%B3%E3%83%A9%E3%83%A0%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%81%AE%E6%96%B0%E5%9E%8B%E3%83%89%E3%83%A9%E3%82%A4%E3%82%A8%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E8%A3%85%E7%BD%AEsense-i%E3%81%AF%E5%87%84%E3%81%84%E3%81%A7%E3%81%99%E7%9C%9F%E7%A9%BA%E3%83%81%E3%83%A3%E3%83%B3%E3%83%90-activity-6722271906826858496-gWax",
+    "https://jp.linkedin.com/in/yasunari-tetsuzo-979893a0",
+    "https://jp.linkedin.com/in/州巨-佐藤-4b9a56145"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com 微細加工研究所",
+   "results": [
+    "https://www.facebook.com/yunogami/?locale=ja_JP",
+    "https://www.facebook.com/NanofabricationPlatform/",
+    "https://www.facebook.com/JBpress/videos/%E5%89%8D%E6%8F%90%E3%81%A8%E3%81%AA%E3%82%8B2nm%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AF%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%82%92%E9%87%8F%E7%94%A3%E3%81%97%E3%81%A6%E3%82%82%E5%85%88%E7%AB%AFhbm%E3%81%AE%E6%97%A9%E6%9C%9F%E8%AA%BF%E9%81%94%E3%81%8C%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%B9%AF%E4%B9%8B%E4%B8%8A-%E9%9A%86%E6%8A%80%E8%A1%93%E7%B5%8C%E5%96%B6%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%88%E5%BE%AE%E7%B4%B0%E5%8A%A0%E5%B7%A5%E7%A0%94%E7%A9%B6%E6%89%80%E6%89%80%E9%95%B7%E5%8D%8A%E5%B0%8E%E4%BD%93-%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AF%E5%8D%8A%E5%B0%8E%E4%BD%93-hbm-%E5%BE%AE%E7%B4%B0%E5%8A%A0%E5%B7%A5/3052578411572384/",
+    "https://www.facebook.com/JBpress/posts/%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%9B%B3%E8%A1%A89%E7%82%B9%E3%81%A7%E8%A7%A3%E8%AA%AC-%E3%82%82%E3%81%97%E6%97%A5%E6%9C%AC%E3%81%AB%E6%9C%80%E5%85%88%E7%AB%AF%E3%81%AE%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%B7%A5%E5%A0%B4%E3%81%8C%E5%BB%BA%E3%81%A6%E3%81%B0%E7%94%A3%E6%A5%AD%E3%81%AF%E5%BE%A9%E6%B4%BB%E3%81%99%E3%82%8B%E3%81%9D%E3%82%93%E3%81%AA%E7%89%A9%E8%AA%9E%E3%82%92%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AF%E5%BF%83%E3%81%AE%E3%81%A9%E3%81%93%E3%81%8B%E3%81%A7%E4%BF%A1%E3%81%98%E3%81%A6%E3%81%84%E3%82%8B-%E5%B7%A8%E9%A1%8D%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%82%92%E6%8A%95%E3%81%98%E4%B8%96%E7%95%8C%E6%9C%80%E5%85%88%E7%AB%AF%E3%81%AE%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE%E3%82%92%E4%B8%A6%E3%81%B9/1513056314158277/",
+    "https://www.facebook.com/HSKsince1961/",
+    "https://www.facebook.com/sisakubisai/",
+    "https://www.facebook.com/udai.kouhou/posts/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%95%E3%82%A7%E3%83%A0%E3%83%88%E7%A7%92%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%85%89%E3%81%AE%E9%AB%98%E6%AC%A1%E9%AB%98%E8%AA%BF%E6%B3%A2%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E8%96%84%E8%86%9C%E3%81%AE%E5%BE%AE%E7%B4%B0%E5%8A%A0%E5%B7%A5%E3%81%AB%E6%88%90%E5%8A%9F-%E6%A5%B5%E7%AB%AF%E7%B4%AB%E5%A4%96%E5%85%89%E3%81%AE%E5%9B%9E%E6%8A%98%E9%99%90%E7%95%8C%E9%9B%86%E5%85%89%E3%81%8C%E6%8B%93%E3%81%8F%E5%BE%AE%E7%B4%B0%E5%8A%A0%E5%B7%A5%E3%81%AE%E6%9C%80%E5%89%8D%E7%B7%9A-%E6%A6%82%E8%A6%81-%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E6%B3%95%E4%BA%BA%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%B7%8F%E9%95%B7%E4%BA%94%E7%A5%9E-/2970125039749176/",
+    "https://www.facebook.com/researcherjp/posts/%E6%B3%A8%E7%9B%AE%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E7%A1%AC%E3%81%8F%E3%81%A6%E8%84%86%E3%81%84%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%B3%E3%82%92%E3%83%95%E3%83%AC%E3%82%AD%E3%82%B7%E3%83%96%E3%83%AB%E5%8C%96%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E3%83%86%E3%83%A9%E3%83%98%E3%83%AB%E3%83%84%E6%B3%A2%E3%82%92%E5%88%B6%E5%BE%A1-mems%E5%BE%AE%E7%B4%B0%E5%8A%A0%E5%B7%A5%E3%81%A7%E3%83%95%E3%83%AC%E3%82%AD%E3%82%B7%E3%83%96%E3%83%AB%E3%83%86%E3%83%A9%E3%83%98%E3%83%AB%E3%83%84%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%88%E3%83%8B%E3%82%AF%E3%82%B9%E3%82%92%E5%89%B5%E6%88%90-%E5%A4%A7%E9%98%AA%E7%94%A3%E6%A5%AD%E6%8A%80/1583335397170930/",
+    "https://www.facebook.com/kunimitsu.ayano/posts/17%E3%81%AE%E6%88%A6%E7%95%A5%E5%88%86%E9%87%8E%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E7%A0%94%E7%A9%B6%E7%8F%BE%E5%A0%B4%E3%82%92%E8%A8%AA%E5%95%8Fnims%E7%89%A9%E8%B3%AA%E6%9D%90%E6%96%99%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B%E6%94%BF%E5%BA%9C%E3%81%8C%E6%8E%B2%E3%81%92%E3%82%8B17%E3%81%AE%E6%88%A6%E7%95%A5%E5%88%86%E9%87%8E%E3%81%AB%E9%96%A2%E9%80%A3%E3%81%99%E3%82%8B%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%9C%80%E5%85%88%E7%AB%AF%E6%8A%80%E8%A1%93%E3%81%AB%E9%80%A0%E8%A9%A3%E3%81%AE%E6%B7%B1%E3%81%84%E5%A1%9A%E6%9C%AC%E4%B8%80%E4%B9%9F%E8%8C%A8%E5%9F%8E%E7%9C%8C%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%E3%81%A8%E3%81%A8/1413738723911404/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "微細加工研究所 note 社長",
+   "results": [
+    "https://note.com/tag/%E5%BE%AE%E7%B4%B0%E5%8A%A0%E5%B7%A5",
+    "http://yunogami.net/index.html",
+    "https://www.asahi.com/articles/DA3S15800431.html",
+    "https://www.issp.u-tokyo.ac.jp/maincontents/organization/nanofab.html",
+    "https://mf-laboratory.com/",
+    "https://note.com/tatsuya_sabato/n/nf33d7f1e9fd2",
+    "https://eetimes.itmedia.co.jp/ee/series/11164/",
+    "https://jp.linkedin.com/in/takashi-yunogami-01348457",
+    "https://www.youtube.com/watch?v=iCbyGzxFPWE",
+    "https://ja.wikipedia.org/wiki/湯之上隆"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "微細加工研究所 X 投稿",
+   "results": [
+    "https://mf-laboratory.com/",
+    "http://yunogami.net/index.html",
+    "https://eetimes.itmedia.co.jp/ee/series/11164/",
+    "https://www.qst.go.jp/soshiki/133/xruspp.html",
+    "https://jp.linkedin.com/in/takashi-yunogami-01348457",
+    "https://mono.ipros.com/company/detail/2009022/",
+    "https://www.youtube.com/watch?v=iCbyGzxFPWE",
+    "https://www.asahi.com/articles/DA3S15800431.html",
+    "https://yunogami.net/",
+    "https://mf-laboratory.com/category/processing_example"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部7頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部7頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部7頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部7頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部7頁・検索9回）"
+ }
+}
