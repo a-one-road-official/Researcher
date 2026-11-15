@@ -77,7 +77,10 @@ topics:
 
   yc_mfg_hr: {run: true, shards: 4, per_run: 2}  # 2026-11-09 海外で製造業の採用・ブランディングに実績があり日本で未定着のサービス（YC周り優先）8品目：提供企業・YCの期・製造業の実績・日本展開・再販条件
   am_owners: {run: true, shards: 12, per_run: 4}
-  customer_eye_4: {run: true, shards: 8, per_run: 3}  # 2026-11-15 本人指示：④顧客目線の調査（MECE）。顧客像A〜D×中の人（使う/決める/払う）×項目1〜10。正本は docs/customer_eye_4-spec-2026-11-15.md  # 2026-11-10 本人：日本で金属AM（PBF：SLMなど）を持つ会社・研究機関＝金属粉を買っている先の洗い出し。製造元は問わない。第2段で1社ずつ保有装置・資本金・創業年度・株主構成を三重確認
+  customer_eye_a: {run: true, shards: 6, per_run: 3}  # 2026-11-15 ④顧客目線A：社長一人決裁の会社（業種別）。正本 docs/customer_eye_4-spec-2026-11-15.md
+  customer_eye_b: {run: true, shards: 3, per_run: 2}  # 2026-11-15 ④顧客目線B：アスティダ参加経営者。正本は同上
+  customer_eye_c: {run: true, shards: 4, per_run: 3}  # 2026-11-15 ④顧客目線C：卓上3Dプリンターのクラファン支援者。正本は同上
+  customer_eye_d: {run: true, shards: 3, per_run: 2}  # 2026-11-15 ④顧客目線D：ガソリンスタンド・整備工場のトップ。正本は同上
 
 # X の困りごと（有料API・1投稿ごとに課金）。topics とは別の仕組み（.github/workflows/x_pain.yml）。
 # 2026-11-06 本人「深さが重要」「APIで抜き出す」。1回の読み取り上限・深い声として出す最低点（5点満点）
