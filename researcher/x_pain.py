@@ -59,7 +59,12 @@ INDUSTRY = {  # 候補として付けるだけ（確定しない）
     "溶接": r"溶接", "造船": r"造船|ドック|船台", "町工場・製造（全般）": r"町工場|製作所|工場|製造業|ものづくり|モノづくり|加工",
     "建築・設計": r"建築|設計事務所|工務店", "デザイン": r"デザイン事務所|プロダクトデザイン",
 }
-FIELDS = ["id", "url", "created_at", "query", "score", "marks", "industry_candidates", "username", "name", "bio",
+ROLE = {  # 2026-11-16：投稿者の立場の候補（プロフィールの言葉の一致だけ。確定ではない）
+    "社長・経営": r"社長|代表|取締役|経営|専務|常務|代目|CEO", "工場長・製造": r"工場長|製造部|現場|職人|オペレーター",
+    "設計": r"設計|CAD|機械設計|メカ設計", "品質": r"品質|検査|QC|QA|品証", "生産技術": r"生産技術|生技|治具",
+    "営業・見積": r"営業|見積", "3Dプリント": r"3D|積層|造形|AM",
+}
+FIELDS = ["id", "url", "created_at", "query", "score", "marks", "industry_candidates", "role_candidates", "username", "name", "bio",
           "followers", "likes", "retweets", "replies", "text", "first_seen"]
 
 
@@ -70,7 +75,7 @@ def load_cfg() -> dict:
 
 def load_queries() -> list[dict]:
     with open(ROOT / "inputs" / "x_pain.csv", encoding="utf-8-sig") as f:
-        return [r for r in csv.DictReader(f) if (r.get("検索式") or "").strip()]
+        return [r for r in csv.DictReader(f) if (r.get("検索式") or "").strip() and not (r.get("回す") or "").startswith("保留")]
 
 
 def judge(text: str, bio: str) -> tuple[int, list[str], list[str]]:
@@ -162,7 +167,7 @@ def main() -> int:
             rows[t["id"]] = {
                 "id": t["id"], "url": f"https://x.com/{u.get('username', 'i')}/status/{t['id']}",
                 "created_at": t.get("created_at", ""), "query": q["名前"], "score": score, "marks": "・".join(marks),
-                "industry_candidates": "・".join(inds), "username": u.get("username", ""), "name": u.get("name", ""),
+                "industry_candidates": "・".join(inds), "role_candidates": "・".join(k for k, rx in ROLE.items() if re.search(rx, bio)), "username": u.get("username", ""), "name": u.get("name", ""),
                 "bio": bio, "followers": (u.get("public_metrics") or {}).get("followers_count", ""),
                 "likes": m.get("like_count", ""), "retweets": m.get("retweet_count", ""), "replies": m.get("reply_count", ""),
                 "text": text, "first_seen": now,
@@ -179,12 +184,16 @@ def main() -> int:
         w.writerows(allrows)
 
     deep = [r for r in allrows if int(r["score"] or 0) >= min_score]
+    from collections import Counter
+    tally = Counter((r["query"], r.get("role_candidates") or "立場不明", r["industry_candidates"] or "業種不明") for r in allrows)
     md = ["# X の困りごと — 深い声（点数の高い順）", "",
           f"更新：{now}。全 {len(allrows)} 件のうち、深さの印が {min_score} 個以上の {len(deep)} 件。",
-          "印：お金・件数／繰り返し／手を打って失敗／決める人／期限（1つ1点）。業種は候補（言葉の一致だけで確定ではない）。", ""]
+          "印：お金・件数／繰り返し／手を打って失敗／決める人／期限（1つ1点）。業種・立場は候補（言葉の一致だけで確定ではない）。", "",
+          "## 仮説×立場×業種の件数（交差は求人票・ipros_allと会社の型で突き合わせる。X単独では「未交差」）", ""]
+    md += [f"- {q}｜{role}｜{ind}：{n}件" for (q, role, ind), n in tally.most_common(60)] + [""]
     for r in deep[:300]:
         md += [f"## {r['score']}点｜{r['marks']}｜{r['industry_candidates'] or '業種の手がかりなし'}",
-               f"- {r['name']}（@{r['username']}・フォロワー {r['followers']}）：{r['bio'][:160]}",
+               f"- {r['name']}（@{r['username']}・フォロワー {r['followers']}・立場候補 {r.get('role_candidates') or 'なし'}）：{r['bio'][:160]}",
                f"- {r['created_at'][:10]}｜検索：{r['query']}｜{r['url']}",
                f"> {r['text']}", ""]
     (OUT / "deep.md").write_text("\n".join(md), encoding="utf-8")

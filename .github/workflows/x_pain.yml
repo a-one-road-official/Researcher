@@ -12,7 +12,7 @@ on:
       - "researcher/inputs/x_pain.csv"
   workflow_dispatch: {}
   schedule:
-    - cron: "17 */6 * * *"   # 6時間おき（直近7日の検索なので取りこぼさない間隔）
+    - cron: "17 0 * * *"   # 1日1回 JST 9:17（直近7日の検索なので1日1回で取りこぼさない。2026-11-16 本人：最小資源最大成果）
 
 permissions:
   contents: write
