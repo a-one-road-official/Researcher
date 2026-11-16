@@ -84,4 +84,4 @@ topics:
 
 # X の困りごと（有料API・1投稿ごとに課金）。topics とは別の仕組み（.github/workflows/x_pain.yml）。
 # 2026-11-06 本人「深さが重要」「APIで抜き出す」。1回の読み取り上限・深い声として出す最低点（5点満点）
-x_pain: {run: true, max_posts_per_run: 300, min_score: 2}
+x_pain: {run: true, max_posts_per_run: 100, min_score: 2}  # 2026-11-16：Xの残高5ドル。A・C仮説5本×20件＝1回100件（0.5ドル）を1日1回
