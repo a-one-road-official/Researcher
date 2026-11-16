@@ -1,9 +1,9 @@
 名前,検索式,ねらい,回す
-H1 C品質書類,"(""検査成績書"" OR ""ミルシート"" OR ""品質記録"" OR ""トレーサビリティ"") (手書き OR エクセル OR Excel OR 転記) (造形 OR 3Dプリンタ OR 加工 OR 受託) lang:ja -is:retweet -has:links",C：受託造形・加工の品質書類（amsight）,回す
-H2 C部品の追跡,(ロット OR シリアル OR 刻印) (追えない OR 手書き OR 転記 OR 紐付け) (部品 OR 出荷 OR 不良) lang:ja -is:retweet -has:links,C：部品1個ずつの追跡（Additive Marking）,回す
-H3 A治具,(治具 OR 冶具) (設計 OR 作図) (毎回 OR 追いつかない OR 時間がかかる) lang:ja -is:retweet -has:links,A：治具を社内で作るメーカー（trinckle）,回す
-H4 A繰り返し設計,(流用設計 OR 類似設計 OR 個別設計 OR 受注設計) (残業 OR 追いつかない OR 時間がかかる) (機械 OR 装置) lang:ja -is:retweet -has:links,A：注文ごとに設計し直す機械メーカー（nureo）,回す
-H5 Aデータ修復,(STL OR メッシュ) (修正 OR 修復 OR エラー OR 穴) (毎回 OR 時間 OR 面倒) lang:ja -is:retweet -has:links,A：受託造形・計測のデータ修復（DeskArtes）,回す
+H1 C品質書類,"(""検査成績書"" OR ""ミルシート"" OR ""品質記録"" OR ""トレーサビリティ"") (手書き OR エクセル OR Excel OR 転記) (造形 OR 3Dプリンタ OR 加工 OR 受託) lang:ja -is:retweet -has:links",C：受託造形・加工の品質書類（amsight）,保留（情報参謀の信条に基づく設計 x_pain-design-2026-11-16 の実装が済むまで回さない。2026-11-16 本人承認）
+H2 C部品の追跡,(ロット OR シリアル OR 刻印) (追えない OR 手書き OR 転記 OR 紐付け) (部品 OR 出荷 OR 不良) lang:ja -is:retweet -has:links,C：部品1個ずつの追跡（Additive Marking）,保留（情報参謀の信条に基づく設計 x_pain-design-2026-11-16 の実装が済むまで回さない。2026-11-16 本人承認）
+H3 A治具,(治具 OR 冶具) (設計 OR 作図) (毎回 OR 追いつかない OR 時間がかかる) lang:ja -is:retweet -has:links,A：治具を社内で作るメーカー（trinckle）,保留（情報参謀の信条に基づく設計 x_pain-design-2026-11-16 の実装が済むまで回さない。2026-11-16 本人承認）
+H4 A繰り返し設計,(流用設計 OR 類似設計 OR 個別設計 OR 受注設計) (残業 OR 追いつかない OR 時間がかかる) (機械 OR 装置) lang:ja -is:retweet -has:links,A：注文ごとに設計し直す機械メーカー（nureo）,保留（情報参謀の信条に基づく設計 x_pain-design-2026-11-16 の実装が済むまで回さない。2026-11-16 本人承認）
+H5 Aデータ修復,(STL OR メッシュ) (修正 OR 修復 OR エラー OR 穴) (毎回 OR 時間 OR 面倒) lang:ja -is:retweet -has:links,A：受託造形・計測のデータ修復（DeskArtes）,保留（情報参謀の信条に基づく設計 x_pain-design-2026-11-16 の実装が済むまで回さない。2026-11-16 本人承認）
 受注を断る,(受注 OR 仕事 OR 注文 OR 依頼) (断った OR 断る OR 断らざるを得 OR お断り OR 見送) (人手 OR 人が足りない OR 人がいない OR 職人 OR 人不足) lang:ja -is:retweet,人がいなくて仕事を断った（損が金額・件数で語られるか）,保留（A・Cが終わるまで回さない。2026-11-16 本人：最小資源最大成果）
 求人が来ない,(求人 OR 募集 OR 採用) (来ない OR 応募ゼロ OR 応募がない OR 採れない OR 集まらない) (工場 OR 町工場 OR 製造 OR 加工 OR 溶接 OR 職人) lang:ja -is:retweet,もう手を打って失敗している（求人・広告に払ったのに採れない）,保留（A・Cが終わるまで回さない。2026-11-16 本人：最小資源最大成果）
 採用費の無駄,(採用費 OR 求人広告 OR 紹介会社 OR 人材紹介 OR 紹介料) (無駄 OR 辞め OR 定着しない OR 高すぎ OR 効果なし OR 来なかった) (工場 OR 製造 OR 町工場 OR 職人) lang:ja -is:retweet,払った実績のある悩み＝財布がある,保留（A・Cが終わるまで回さない。2026-11-16 本人：最小資源最大成果）
