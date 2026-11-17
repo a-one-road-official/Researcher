@@ -3,19 +3,56 @@ name: am_owners
 # 2026-11-10 本人：日本の金属AM（PBF）保有者の名簿を爆速で。検索語を10本に分けて同時に回し、最後に1本で名簿にまとめる。
 # 第2段（1社ずつ三重確認）は researcher.yml の am_owners が inputs/am_owners.csv を拾って回す。
 
+# 2026-11-17 課金ガード：起動は手動（workflow_dispatch）だけ。元の起動条件はコメントで残す。
 on:
-  push:
-    branches: [main]
-    paths: [".github/workflows/am_owners.yml", "researcher/build_am_owners.py"]
   workflow_dispatch: {}
 
+  # [停止] push:
+  # [停止]   branches: [main]
+  # [停止]   paths: [".github/workflows/am_owners.yml", "researcher/build_am_owners.py"]
 permissions:
   contents: write
 
 jobs:
-  search:
+  billing_guard:
+    # 2026-11-17 課金ガード：billing_guard.yaml が enabled: true で、このワークフローが allowed_workflows に
+    # 載っていて、手動起動（workflow_dispatch）のときだけ、後ろのジョブを動かす。それ以外は即終了。
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 2
+    permissions:
+      contents: read
+    outputs:
+      enabled: ${{ steps.guard.outputs.enabled }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: billing_guard.yaml
+          sparse-checkout-cone-mode: false
+      - id: guard
+        env:
+          EVENT: ${{ github.event_name }}
+          WF_REF: ${{ github.workflow_ref }}
+        run: |
+          python3 - <<'PY'
+          import os, re
+          from pathlib import Path
+          wf = os.environ["WF_REF"].split("@")[0].rsplit("/", 1)[-1]
+          p = Path("billing_guard.yaml")
+          text = p.read_text(encoding="utf-8") if p.exists() else ""
+          enabled = re.search(r"(?m)^enabled:\s*true\s*(#.*)?$", text) is not None
+          m = re.search(r"(?m)^allowed_workflows:\s*\[([^\]]*)\]", text)
+          allowed = [x.strip().strip("'\"") for x in (m.group(1).split(",") if m else []) if x.strip()]
+          ok = enabled and wf in allowed and os.environ["EVENT"] == "workflow_dispatch"
+          print(f"billing_guard: enabled={enabled} workflow={wf} allowed={allowed} event={os.environ['EVENT']} -> {'RUN' if ok else 'STOP'}")
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"enabled={'true' if ok else 'false'}\n")
+          PY
+
+  search:
+    needs: billing_guard
+    if: ${{ needs.billing_guard.outputs.enabled == 'true' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5   # 2026-11-17 課金ガード：成功実績から短縮（元 120）
     strategy:
       fail-fast: false
       matrix:
@@ -47,8 +84,10 @@ jobs:
           done
 
   summarize:
+    needs: billing_guard
+    if: ${{ needs.billing_guard.outputs.enabled == 'true' }}
     runs-on: ubuntu-latest
-    timeout-minutes: 125
+    timeout-minutes: 110   # 2026-11-17 課金ガード：成功実績から短縮（元 125）
     steps:
       - uses: actions/checkout@v4
         with: { ref: main }

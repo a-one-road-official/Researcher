@@ -1,15 +1,52 @@
 name: Judge
 # 2026-11-09 AI判定。GitHub Models は 2026-07-30 に廃止済みのため、作業機の中で無料の公開モデル（Ollama, qwen2.5:7b）を動かす。
 # キー・課金・外部AIサービスなし。調査の回（collect）の最後に呼ばれる。手動でも回せる
+# 2026-11-17 課金ガード：起動は手動（workflow_dispatch）だけ。元の起動条件はコメントで残す。
 on:
   workflow_dispatch: {}
 permissions:
   contents: write
 concurrency: { group: researcher-judge, cancel-in-progress: false }
 jobs:
-  judge:
+  billing_guard:
+    # 2026-11-17 課金ガード：billing_guard.yaml が enabled: true で、このワークフローが allowed_workflows に
+    # 載っていて、手動起動（workflow_dispatch）のときだけ、後ろのジョブを動かす。それ以外は即終了。
     runs-on: ubuntu-latest
-    timeout-minutes: 180
+    timeout-minutes: 2
+    permissions:
+      contents: read
+    outputs:
+      enabled: ${{ steps.guard.outputs.enabled }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: billing_guard.yaml
+          sparse-checkout-cone-mode: false
+      - id: guard
+        env:
+          EVENT: ${{ github.event_name }}
+          WF_REF: ${{ github.workflow_ref }}
+        run: |
+          python3 - <<'PY'
+          import os, re
+          from pathlib import Path
+          wf = os.environ["WF_REF"].split("@")[0].rsplit("/", 1)[-1]
+          p = Path("billing_guard.yaml")
+          text = p.read_text(encoding="utf-8") if p.exists() else ""
+          enabled = re.search(r"(?m)^enabled:\s*true\s*(#.*)?$", text) is not None
+          m = re.search(r"(?m)^allowed_workflows:\s*\[([^\]]*)\]", text)
+          allowed = [x.strip().strip("'\"") for x in (m.group(1).split(",") if m else []) if x.strip()]
+          ok = enabled and wf in allowed and os.environ["EVENT"] == "workflow_dispatch"
+          print(f"billing_guard: enabled={enabled} workflow={wf} allowed={allowed} event={os.environ['EVENT']} -> {'RUN' if ok else 'STOP'}")
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"enabled={'true' if ok else 'false'}\n")
+          PY
+
+  judge:
+    needs: billing_guard
+    if: ${{ needs.billing_guard.outputs.enabled == 'true' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 52   # 2026-11-17 課金ガード：成功実績から短縮（元 180）
     services:
       ollama:
         image: ollama/ollama:latest

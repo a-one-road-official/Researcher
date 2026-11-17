@@ -33,7 +33,7 @@ import os
 import re
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 import requests
 import yaml
@@ -42,6 +42,13 @@ from researcher.targets import ROOT
 
 OUT = ROOT / "out" / "x_pain"
 API = "https://api.x.com/2/tweets/search/recent"
+USAGE = OUT / "usage.json"
+JST = timezone(timedelta(hours=9))
+# 2026-11-17 課金ガード：読み取り件数の上限。control.yaml の値がこれを超えても、ここで頭打ちにする。
+# 1日・1か月の上限は control.yaml の x_pain.max_posts_per_day / max_posts_per_month。書いていなければ 0＝読まない。
+HARD_MAX_PER_RUN = 100
+API_MIN_RESULTS = 10   # X の API は1回に最低10件を要求する。残りが10件未満なら読まずに止める（上限を超えないため）
+MAX_429_RETRIES = 2
 
 NUMBER = r"[0-9０-９一二三四五六七八九十百千]+(?:[,，.][0-9]+)?\s*(?:万円|億円|千万|万|億|円|件|日|週間|ヶ月|か月|カ月|人|社|台|トン)"
 LOSS = r"(断|失|損|逃|止ま|止め|見送|飛ん|赤字|流れ|キャンセル|取られ|潰れ|廃業)"
@@ -73,6 +80,56 @@ def load_cfg() -> dict:
     return ctl.get("x_pain") or {}
 
 
+def load_usage() -> dict:
+    """これまでの読み取り件数（JSTの日・月ごと）。初回は log.md の記録から作る。"""
+    if USAGE.exists():
+        return json.loads(USAGE.read_text(encoding="utf-8"))
+    u = {"days": {}, "months": {}}
+    log = OUT / "log.md"
+    if log.exists():
+        for line in log.read_text(encoding="utf-8").splitlines():
+            m = re.match(r"- (\d{4}-\d{2}-\d{2} \d{2}:\d{2}) UTC：この回の読み取り (\d+) 件", line)
+            if m:
+                at = datetime.strptime(m.group(1), "%Y-%m-%d %H:%M").replace(tzinfo=timezone.utc).astimezone(JST)
+                n = int(m.group(2))
+                u["days"][at.strftime("%Y-%m-%d")] = u["days"].get(at.strftime("%Y-%m-%d"), 0) + n
+                u["months"][at.strftime("%Y-%m")] = u["months"].get(at.strftime("%Y-%m"), 0) + n
+    return u
+
+
+def save_usage(u: dict) -> None:
+    OUT.mkdir(parents=True, exist_ok=True)
+    USAGE.write_text(json.dumps(u, ensure_ascii=False, indent=1, sort_keys=True), encoding="utf-8")
+
+
+class Allowance:
+    """この回・今日・今月の残り件数。読むたびに台帳へ足し、すぐ保存する。"""
+
+    def __init__(self, cfg: dict):
+        self.usage = load_usage()
+        now = datetime.now(JST)
+        self.day, self.month = now.strftime("%Y-%m-%d"), now.strftime("%Y-%m")
+        self.run_cap = min(HARD_MAX_PER_RUN, int(cfg.get("max_posts_per_run", 0) or 0))
+        self.day_cap = int(cfg.get("max_posts_per_day", 0) or 0)
+        self.month_cap = int(cfg.get("max_posts_per_month", 0) or 0)
+        self.run_used = 0
+
+    def left(self) -> int:
+        return max(0, min(self.run_cap - self.run_used,
+                          self.day_cap - self.usage["days"].get(self.day, 0),
+                          self.month_cap - self.usage["months"].get(self.month, 0)))
+
+    def add(self, n: int) -> None:
+        self.run_used += n
+        self.usage["days"][self.day] = self.usage["days"].get(self.day, 0) + n
+        self.usage["months"][self.month] = self.usage["months"].get(self.month, 0) + n
+        save_usage(self.usage)
+
+    def describe(self) -> str:
+        return (f"この回 {self.run_used}/{self.run_cap}・今日 {self.usage['days'].get(self.day, 0)}/{self.day_cap}"
+                f"・今月 {self.usage['months'].get(self.month, 0)}/{self.month_cap}")
+
+
 def load_queries() -> list[dict]:
     with open(ROOT / "inputs" / "x_pain.csv", encoding="utf-8-sig") as f:
         return [r for r in csv.DictReader(f) if (r.get("検索式") or "").strip() and not (r.get("回す") or "").startswith("保留")]
@@ -84,8 +141,9 @@ def judge(text: str, bio: str) -> tuple[int, list[str], list[str]]:
     return len(marks), marks, inds
 
 
-def fetch(query: str, token: str, since_id: str | None, budget: int) -> tuple[list[dict], dict, str | None, str]:
-    """1つの検索式で、budget 件まで新しい投稿を取る。返り値：(投稿, ユーザー辞書, 最新ID, エラー)"""
+def fetch(query: str, token: str, since_id: str | None, budget: int, allow: "Allowance") -> tuple[list[dict], dict, str | None, str]:
+    """1つの検索式で、budget 件まで新しい投稿を取る。返り値：(投稿, ユーザー辞書, 最新ID, エラー)
+    2026-11-17 課金ガード：毎回のリクエスト前に この回・今日・今月 の残りを確かめ、10件未満なら読まない。"""
     headers = {"Authorization": f"Bearer {token}", "User-Agent": "a1-researcher"}
     params = {
         "query": query, "max_results": 100,
@@ -95,10 +153,19 @@ def fetch(query: str, token: str, since_id: str | None, budget: int) -> tuple[li
     if since_id:
         params["since_id"] = since_id
     tweets, users, newest, err = [], {}, None, ""
+    retries = 0
     while budget > 0:
-        params["max_results"] = max(10, min(100, budget))
+        n = min(100, budget, allow.left())
+        if n < API_MIN_RESULTS:
+            err = err or f"上限のため読まずに止めた（{allow.describe()}）"
+            break
+        params["max_results"] = n
         r = requests.get(API, headers=headers, params=params, timeout=30)
         if r.status_code == 429:
+            retries += 1
+            if retries > MAX_429_RETRIES:
+                err = "status=429 を繰り返したので止めた"
+                break
             reset = int(r.headers.get("x-rate-limit-reset", time.time() + 60))
             time.sleep(max(5, min(900, reset - time.time() + 2)))
             continue
@@ -110,6 +177,7 @@ def fetch(query: str, token: str, since_id: str | None, budget: int) -> tuple[li
         for u in (j.get("includes") or {}).get("users") or []:
             users[u["id"]] = u
         tweets.extend(data)
+        allow.add(len(data))
         budget -= len(data)
         meta = j.get("meta") or {}
         newest = newest or meta.get("newest_id")
@@ -134,7 +202,13 @@ def main() -> int:
         print("x_pain: no token")
         return 0
 
-    total_budget = int(cfg.get("max_posts_per_run", 300))
+    allow = Allowance(cfg)
+    total_budget = allow.run_cap
+    if allow.left() < API_MIN_RESULTS:
+        with open(log, "a", encoding="utf-8") as f:
+            f.write(f"- {now}：上限のため読まなかった（{allow.describe()}）\n")
+        print(f"x_pain: cap reached, no read ({allow.describe()})")
+        return 0
     min_score = int(cfg.get("min_score", 2))
     queries = load_queries()
     per_q = max(10, total_budget // max(1, len(queries)))
@@ -152,7 +226,7 @@ def main() -> int:
         if used >= total_budget:
             lines.append(f"  - {q['名前']}：この回の上限 {total_budget} 件に達したので次の回へ")
             continue
-        tw, users, newest, err = fetch(q["検索式"], token, state.get(q["名前"]), min(per_q, total_budget - used))
+        tw, users, newest, err = fetch(q["検索式"], token, state.get(q["名前"]), min(per_q, total_budget - used), allow)
         used += len(tw)
         new = 0
         for t in tw:
@@ -198,7 +272,7 @@ def main() -> int:
                f"> {r['text']}", ""]
     (OUT / "deep.md").write_text("\n".join(md), encoding="utf-8")
     with open(log, "a", encoding="utf-8") as f:
-        f.write(f"- {now}：この回の読み取り {used} 件（上限 {total_budget}）\n" + "\n".join(lines) + "\n")
+        f.write(f"- {now}：この回の読み取り {used} 件（上限 {total_budget}）［{allow.describe()}］\n" + "\n".join(lines) + "\n")
     print(f"x_pain: read {used}, total {len(allrows)}, deep {len(deep)}")
     return 0
 

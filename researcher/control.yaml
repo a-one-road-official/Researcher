@@ -84,4 +84,6 @@ topics:
 
 # X の困りごと（有料API・1投稿ごとに課金）。topics とは別の仕組み（.github/workflows/x_pain.yml）。
 # 2026-11-06 本人「深さが重要」「APIで抜き出す」。1回の読み取り上限・深い声として出す最低点（5点満点）
-x_pain: {run: true, max_posts_per_run: 100, min_score: 2}  # 2026-11-16：Xの残高5ドル。A・C仮説5本×20件＝1回100件（0.5ドル）を1日1回
+# 2026-11-17 課金ガード：1日・1か月の上限件数（max_posts_per_day / max_posts_per_month）。本人が件数を決めるまで 0＝読まない。
+# 1回の上限はコード側でも100件で頭打ち（researcher/x_pain.py の HARD_MAX_PER_RUN）。読んだ件数の台帳は researcher/out/x_pain/usage.json
+x_pain: {run: true, max_posts_per_run: 100, max_posts_per_day: 0, max_posts_per_month: 0, min_score: 2}  # 2026-11-16：Xの残高5ドル。A・C仮説5本×20件＝1回100件（0.5ドル）を1日1回

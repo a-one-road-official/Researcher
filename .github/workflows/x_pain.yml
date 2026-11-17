@@ -5,10 +5,11 @@ name: X pain
 # トークンは GitHub の Secrets の X_BEARER_TOKEN。無ければ何もせず終わる。オン・オフは control.yaml の x_pain.run。
 
 # 2026-11-17 本人「Usageをunder controlしろ」：control.yaml を触るたびに有料APIが回っていたので push 起動を外した。定期1日1回＋手動だけ
+# 2026-11-17 課金ガード：起動は手動（workflow_dispatch）だけ。元の起動条件はコメントで残す。
 on:
   workflow_dispatch: {}
-  schedule:
-    - cron: "17 0 * * *"   # 1日1回 JST 9:17（直近7日の検索なので1日1回で取りこぼさない。2026-11-16 本人：最小資源最大成果）
+  # [停止] schedule:
+  # [停止]   - cron: "17 0 * * *"   # 1日1回 JST 9:17（直近7日の検索なので1日1回で取りこぼさない。2026-11-16 本人：最小資源最大成果）
 
 permissions:
   contents: write
@@ -18,9 +19,45 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  x_pain:
+  billing_guard:
+    # 2026-11-17 課金ガード：billing_guard.yaml が enabled: true で、このワークフローが allowed_workflows に
+    # 載っていて、手動起動（workflow_dispatch）のときだけ、後ろのジョブを動かす。それ以外は即終了。
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 2
+    permissions:
+      contents: read
+    outputs:
+      enabled: ${{ steps.guard.outputs.enabled }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: billing_guard.yaml
+          sparse-checkout-cone-mode: false
+      - id: guard
+        env:
+          EVENT: ${{ github.event_name }}
+          WF_REF: ${{ github.workflow_ref }}
+        run: |
+          python3 - <<'PY'
+          import os, re
+          from pathlib import Path
+          wf = os.environ["WF_REF"].split("@")[0].rsplit("/", 1)[-1]
+          p = Path("billing_guard.yaml")
+          text = p.read_text(encoding="utf-8") if p.exists() else ""
+          enabled = re.search(r"(?m)^enabled:\s*true\s*(#.*)?$", text) is not None
+          m = re.search(r"(?m)^allowed_workflows:\s*\[([^\]]*)\]", text)
+          allowed = [x.strip().strip("'\"") for x in (m.group(1).split(",") if m else []) if x.strip()]
+          ok = enabled and wf in allowed and os.environ["EVENT"] == "workflow_dispatch"
+          print(f"billing_guard: enabled={enabled} workflow={wf} allowed={allowed} event={os.environ['EVENT']} -> {'RUN' if ok else 'STOP'}")
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"enabled={'true' if ok else 'false'}\n")
+          PY
+
+  x_pain:
+    needs: billing_guard
+    if: ${{ needs.billing_guard.outputs.enabled == 'true' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5   # 2026-11-17 課金ガード：成功実績から短縮（元 30）
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5

@@ -2,24 +2,61 @@ name: IPROS list
 
 # 2026-11-10 本人：イプロス掲載企業（ドライブの ipros_all.csv）から、採用・広告の営業先の名簿を作る。
 # 80本（20台×4本）で同時に確かめる。種→20台で確認→合流、を全部終わるまで自分で繰り返す。Claude は触らない。
+# 2026-11-17 課金ガード：起動は手動（workflow_dispatch）だけ。元の起動条件はコメントで残す。
 on:
-  push:
-    branches: [main]
-    paths:
-      - ".github/workflows/ipros.yml"
-      - "researcher/build_ipros.py"
   workflow_dispatch: {}
 
+  # [停止] push:
+  # [停止]   branches: [main]
+  # [停止]   paths:
+  # [停止]     - ".github/workflows/ipros.yml"
+  # [停止]     - "researcher/build_ipros.py"
 permissions:
   contents: write
-  actions: write
+  # actions: write   # [停止 2026-11-17 課金ガード] 次の回を自分で呼ぶためだけの権限だったので外した
 
 concurrency: { group: ipros-list, cancel-in-progress: false }
 
 jobs:
-  seeds:
+  billing_guard:
+    # 2026-11-17 課金ガード：billing_guard.yaml が enabled: true で、このワークフローが allowed_workflows に
+    # 載っていて、手動起動（workflow_dispatch）のときだけ、後ろのジョブを動かす。それ以外は即終了。
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 2
+    permissions:
+      contents: read
+    outputs:
+      enabled: ${{ steps.guard.outputs.enabled }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: billing_guard.yaml
+          sparse-checkout-cone-mode: false
+      - id: guard
+        env:
+          EVENT: ${{ github.event_name }}
+          WF_REF: ${{ github.workflow_ref }}
+        run: |
+          python3 - <<'PY'
+          import os, re
+          from pathlib import Path
+          wf = os.environ["WF_REF"].split("@")[0].rsplit("/", 1)[-1]
+          p = Path("billing_guard.yaml")
+          text = p.read_text(encoding="utf-8") if p.exists() else ""
+          enabled = re.search(r"(?m)^enabled:\s*true\s*(#.*)?$", text) is not None
+          m = re.search(r"(?m)^allowed_workflows:\s*\[([^\]]*)\]", text)
+          allowed = [x.strip().strip("'\"") for x in (m.group(1).split(",") if m else []) if x.strip()]
+          ok = enabled and wf in allowed and os.environ["EVENT"] == "workflow_dispatch"
+          print(f"billing_guard: enabled={enabled} workflow={wf} allowed={allowed} event={os.environ['EVENT']} -> {'RUN' if ok else 'STOP'}")
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"enabled={'true' if ok else 'false'}\n")
+          PY
+
+  seeds:
+    needs: billing_guard
+    if: ${{ needs.billing_guard.outputs.enabled == 'true' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5   # 2026-11-17 課金ガード：成功実績から短縮（元 90）
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -36,9 +73,10 @@ jobs:
           for i in 1 2 3 4 5 6 7 8; do git pull -q --rebase && git push -q && break; sleep $((RANDOM % 10 + 3)); done
 
   shard:
-    needs: seeds
+    if: ${{ needs.billing_guard.outputs.enabled == 'true' }}
+    needs: [billing_guard, seeds]
     runs-on: ubuntu-latest
-    timeout-minutes: 100
+    timeout-minutes: 5   # 2026-11-17 課金ガード：成功実績から短縮（元 100）
     strategy:
       fail-fast: false
       max-parallel: 20
@@ -64,10 +102,10 @@ jobs:
           for i in 1 2 3 4 5 6 7 8 9 10; do git pull -q --rebase && git push -q && break; sleep $((RANDOM % 15 + 3)); done
 
   merge:
-    needs: shard
-    if: always()
+    needs: [billing_guard, shard]
+    if: ${{ needs.billing_guard.outputs.enabled == 'true' && (always()) }}
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 5   # 2026-11-17 課金ガード：成功実績から短縮（元 20）
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -84,6 +122,7 @@ jobs:
           git add -A researcher/out/ipros_hr researcher/inputs/ipros_hr.csv
           git diff --cached --quiet || git commit -q -m "ipros: merge $(date -u +%FT%TZ)"
           for i in 1 2 3 4 5 6 7 8; do git pull -q --rebase && git push -q && break; sleep 5; done
-      - if: steps.m.outputs.code == '0'
+      # 2026-11-17 課金ガード：次の回を自分で呼ぶのは禁止。このステップは動かない（元は if: steps.m.outputs.code == '0'）
+      - if: ${{ false }}
         env: { GH_TOKEN: "${{ github.token }}" }
         run: gh workflow run ipros.yml --ref main
