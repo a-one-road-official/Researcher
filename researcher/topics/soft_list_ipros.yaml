@@ -1,0 +1,32 @@
+# 本人の指示（2026-11-17）：担いだ海外AMソフトを日本で売る営業先リストを ipros_all から作る。リストはソフト別でなく客の役割（R1〜R11）別。
+# 条件の正本：docs/soft_list_ipros-spec-2026-11-17.md。第1段・第2段と門番は build_soft_list.py（GitHub）で回す。Claude は1社ずつ読まない。
+# control.yaml では run: false で登録する。回し始め（run: true）は GitHub 側の担当の手順。
+title: ソフト営業リスト（ipros由来）— 役割R1〜R11別・従業員100〜500人・AM判定A/B/Cつき
+build: researcher.build_soft_list
+input: researcher/inputs/soft_list_ipros.csv
+columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
+
+profile_keys:
+  所在地: [所在地, 本社, 住所]
+  事業内容: [事業内容, 事業概要, 営業品目, 業務内容, 取扱品目, 事業]
+  代表者: [代表者, 代表取締役, 社長, 代表]
+  従業員数: [従業員, 社員数, 従業者, 人員]
+  売上高: [売上高, 売上, 年商]
+  取引先: [主要取引先, 取引先, 仕入先, 販売先, 納入先]
+  拠点: [拠点, 事業所, 営業所, 支店, 工場, 海外拠点, 関連会社, グループ会社]
+
+evidence:
+  役割・事業分野: [設計, 治具, 熱交換器, 鋳造, 解析, 受託加工, 試作, 多品種少量, 見積]
+  AM関連: [3Dプリンタ, 3Dプリンター, 積層造形, アディティブ, AM, 造形, 光造形, 粉末]
+  連絡先: [メール, メールアドレス, お問い合わせ, 問い合わせフォーム, contact, mail]
+
+subpage_keywords: [会社概要, 会社案内, 企業情報, 企業概要, 沿革, 事業, 製品, 取扱, サービス, 設備, 加工, 事例, 採用,
+  アクセス, お問い合わせ, 問い合わせ, company, about, profile, corporate, business, product, service, contact, mail, pdf]
+
+image_keywords: [概要, gaiyo, outline, 製品, product]
+
+external_queries:
+  - "{name} 会社概要 従業員数 事業内容"
+  - "{name} お問い合わせ メール"
+
+limits: {pages: 30, subpages: 25, pdfs: 8, images: 12, external_per_query: 3}
