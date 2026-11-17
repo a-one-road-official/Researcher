@@ -4,12 +4,8 @@ name: X pain
 # 有料API（1投稿ごとに課金）。読み取り数の上限は researcher/control.yaml の x_pain.max_posts_per_run。
 # トークンは GitHub の Secrets の X_BEARER_TOKEN。無ければ何もせず終わる。オン・オフは control.yaml の x_pain.run。
 
+# 2026-11-17 本人「Usageをunder controlしろ」：control.yaml を触るたびに有料APIが回っていたので push 起動を外した。定期1日1回＋手動だけ
 on:
-  push:
-    branches: [main]
-    paths:
-      - "researcher/control.yaml"
-      - "researcher/inputs/x_pain.csv"
   workflow_dispatch: {}
   schedule:
     - cron: "17 0 * * *"   # 1日1回 JST 9:17（直近7日の検索なので1日1回で取りこぼさない。2026-11-16 本人：最小資源最大成果）
