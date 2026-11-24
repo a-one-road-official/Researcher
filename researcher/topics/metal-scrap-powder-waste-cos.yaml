@@ -1,0 +1,49 @@
+# 2026-11-24 本人指示で追加：metal-scrap-powder-waste の第2段。会社1社ごとに必須項目を三重確認（①公式本文 ②PDF・画像OCR ③外部・別言語）で取る。
+# 必須項目：社名／公式URL／創業年／株主構成／売上・従業員数／何でどう稼いでいるか（誰が誰にいくら払うか）／端材・粉との関わり／出典URL。
+# 交差（別系統2つ以上）・円換算・下書きシートは researcher/build_metal_scrap_sheet.py が出す。判定（タグ）は付けない。
+# 回し方：手動だけ（.github/workflows/metal_scrap.yml）。control.yaml には載せない。
+kind: company
+title: 金属端材・粉・廃棄物回収 — 会社ファクト（創業年・株主・売上・稼ぎ方・端材と粉との関わり）
+input: researcher/inputs/metal-scrap-powder-waste-cos.csv
+columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
+
+profile_keys:
+  創業年: [設立, 創業, 創立, 設立年, 創業年, Founded, Established, founded in, year founded, Gründung, gegründet, Date de création, Fondazione, 成立时间, 설립일]
+  株主構成: [株主, 主要株主, 大株主, 株主構成, 出資者, 親会社, Shareholders, Ownership, Owner, Parent company, Investors, Gesellschafter, Actionnaires, 股东, 주주]
+  売上: [売上高, 売上, 年商, Revenue, Turnover, Sales, Umsatz, Chiffre d'affaires, Fatturato, 营业收入, 매출]
+  従業員数: [従業員, 社員数, 従業者, 人員, Employees, Staff, Mitarbeiter, Effectif, Dipendenti, 员工, 직원]
+  資本金: [資本金, Share capital, Stammkapital, 注册资本]
+  事業内容: [事業内容, 事業概要, 営業品目, 業務内容, 取扱品目, Business, Activities, Products, Tätigkeit]
+  許認可: [許可, 許可番号, 古物商, 産業廃棄物, 収集運搬, 処分業, 認証, ISO, Permit, License, Licence, Zertifizierung]
+  所在地: [所在地, 本社, 住所, Headquarters, Address, Sitz, Siège]
+
+evidence:
+  創業年: [設立, 創業, 創立, 年に設立, founded in, established in, was founded, since 19, since 20, gegründet, fondée en, fondata nel, 成立于, 설립]
+  株主構成: [株主, 大株主, 筆頭株主, 出資比率, 持株, 親会社, 子会社, 資本提携, 出資, 資金調達, shareholder, ownership, owned by, stake, majority, parent company, subsidiary of, investors, led by, backed by, raised, funding, Series A, Series B, seed, acquired, acquisition, Beteiligung, levée de fonds, 融资, 투자]
+  売上・従業員数: [売上高, 売上, 年商, 従業員, 社員数, revenue, turnover, sales of, employees, staff, headcount, Umsatz, Mitarbeiter, chiffre d'affaires, fatturato, 营收, 员工, 매출, 직원]
+  稼ぎ方（誰が誰にいくら払うか）: [料金, 価格, 手数料, 月額, 買取, 販売, 有償, 無償, 課金, 成果報酬, 委託料, 処理料, 引取料, fee, pricing, price, subscription, commission, per ton, per kg, pay, paid, buy back, purchase, sell, toll, tolling, offtake, Gebühr, Preis, tarif, prezzo, 收费, 수수료]
+  端材・粉との関わり: [端材, 切粉, 切りくず, 削りくず, スクラップ, 使用済み粉, リサイクル粉, 再生粉, 回収, アトマイズ, 粉末, swarf, chips, turnings, revert, scrap, recycled, used powder, feedstock, atomiz, powder, Späne, Schrott, Pulver, copeaux, poudre, polvere, rottami, 废料, 粉末, 스크랩, 분말]
+  合金: [チタン, ニッケル, コバルト, タングステン, 超硬, アルミ, マグネシウム, インコネル, titanium, nickel, cobalt, tungsten, carbide, aluminium, aluminum, magnesium, superalloy, Inconel, Ti-6Al-4V, 钛, 镍, 钴, 钨]
+  提携・調達・顧客: [提携, 契約, 共同, 導入, 採用, 実証, 調達, 仕入, 取引先, 納入先, partnership, partnered, agreement, signed, MoU, collaboration, customer, supplier, sourcing, supply, Partnerschaft, partenariat, accordo, 合作, 협약]
+  許可・規制: [許可, 許可番号, 古物商, 産業廃棄物収集運搬, 処分業, 消防法, 危険物, バーゼル, 外為法, permit, licence, license, Basel, export control, hazardous]
+  沿革: [沿革]
+
+subpage_keywords: [会社概要, 会社案内, 企業情報, 沿革, 事業, 製品, サービス, リサイクル, 回収, 買取, 環境, サステナビリティ, CSR, 統合報告書, 環境報告書, IR, ニュース, プレスリリース, 許可, 料金,
+  company, about, profile, corporate, history, business, product, service, recycling, sustainability, esg, report, news, press, investors, partners, pricing, unternehmen, über-uns, entreprise, azienda, pdf]
+image_keywords: [概要, 沿革, history, 許可, license, permit, 廃棄物, waste, recycling, リサイクル, data, データ, 組織, organization]
+
+external_queries:
+  - "{name} 設立 OR 創業 OR founded"
+  - "{name} 株主 OR 出資 OR 資金調達 OR investors"
+  - "{name} 売上 OR 従業員 OR revenue OR employees"
+  - "{name} 端材 OR スクラップ OR 切粉 OR 粉末"
+  - "{name} scrap OR swarf OR recycled powder"
+  - "{name} 提携 OR partnership OR agreement"
+  - "{name} 環境報告書 OR 統合報告書 廃棄物"
+  - "{name} 料金 OR 買取 OR pricing"
+  - "site:prtimes.jp {name}"
+  - "{name} press release"
+  - "{name} Pressemitteilung OR communiqué OR comunicato"
+  - "{name} 新闻 OR 보도"
+
+limits: {pages: 30, subpages: 25, pdfs: 8, images: 10, external_per_query: 3}

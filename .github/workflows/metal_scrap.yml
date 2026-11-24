@@ -1,0 +1,115 @@
+name: metal-scrap-powder-waste
+
+# 2026-11-24 本人指示で追加：金属端材・粉・廃棄物回収プラットフォーム（テーマ metal-scrap-powder-waste）。
+# 手動実行（workflow_dispatch）だけ。schedule・push・自分で次の回を呼ぶ仕組みは「持たない」（11/17 の全停止を崩さない）。
+# AI・有料API・X API は使わない（HTTP・ヘッドレスChromium・pypdf・tesseract OCR・無料の検索エンジン・ECBの無料レートだけ）。
+# 使用量の上限（このファイルの中で固定。入力でこれより大きくはできない）：
+#   同時に回す本数 最大4（max-parallel: 4）／1本の制限時間 60分／1本が1回で調べる件数 最大10
+#   → 1回の手動実行の最悪値 ＝ 調査 4本×60分 ＋ 準備5分 ＋ まとめ20分 ＝ 約265分（ランナー分）
+# GitHub 側の使用量の上限（Billing の Budget と「上限で止める」設定）はここでは触らない。外さない。
+
+on:
+  workflow_dispatch:
+    inputs:
+      stage:
+        description: "何を回すか（questions=問い1〜5の第1段／companies=会社ごとの第2段／both=両方）"
+        type: choice
+        options: [questions, companies, both]
+        default: questions
+      shards:
+        description: "同時に回す本数（上限4）"
+        type: choice
+        options: ["1", "2", "3", "4"]
+        default: "2"
+      per_run:
+        description: "1本が1回で調べる件数（上限10）"
+        type: choice
+        options: ["1", "2", "3", "5", "8", "10"]
+        default: "3"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: metal-scrap-powder-waste
+  cancel-in-progress: false
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    outputs:
+      matrix: ${{ steps.p.outputs.matrix }}
+    steps:
+      - id: p
+        env:
+          STAGE: ${{ inputs.stage }}
+          SHARDS: ${{ inputs.shards }}
+          PER_RUN: ${{ inputs.per_run }}
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, os
+          stage = os.environ["STAGE"]
+          shards = max(1, min(int(os.environ["SHARDS"]), 4))     # 上限4
+          per_run = max(1, min(int(os.environ["PER_RUN"]), 10))  # 上限10
+          topics = {"questions": ["metal-scrap-powder-waste"], "companies": ["metal-scrap-powder-waste-cos"],
+                    "both": ["metal-scrap-powder-waste", "metal-scrap-powder-waste-cos"]}[stage]
+          # both のときも合計4本を超えない
+          per_topic = max(1, shards // len(topics)) if len(topics) > 1 else shards
+          inc = [{"topic": t, "shard": i, "shards": per_topic, "limit": per_run} for t in topics for i in range(per_topic)]
+          print("matrix=" + json.dumps({"include": inc[:4]}))
+          PY
+
+  research:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      max-parallel: 4
+      matrix: ${{ fromJson(needs.plan.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: 読む道具を入れる（全部無料）
+        run: |
+          python -m pip install -q -r researcher/requirements.txt
+          python -m playwright install --with-deps chromium
+          sudo apt-get update -qq && sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-jpn tesseract-ocr-chi-sim tesseract-ocr-kor tesseract-ocr-deu tesseract-ocr-fra tesseract-ocr-ita tesseract-ocr-nld poppler-utils
+      - name: 1本ぶん調べる（55分で打ち切り）
+        run: |
+          timeout 3300 python -m researcher.run --topic "${{ matrix.topic }}" --shard ${{ matrix.shard }} --shards ${{ matrix.shards }} --limit ${{ matrix.limit }} --out "shard_out/${{ matrix.topic }}/companies" || echo "打ち切り・失敗（できた分だけ残す）"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: msw-${{ matrix.topic }}-${{ matrix.shard }}
+          path: shard_out
+          if-no-files-found: ignore
+          retention-days: 3
+
+  collect:
+    needs: [plan, research]
+    if: always() && needs.plan.result == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python -m pip install -q pyyaml
+      - uses: actions/download-artifact@v4
+        with: { path: dl, pattern: "msw-*" }
+      - name: 結果をしまって、下書きシート・交差・引用をつくる
+        run: |
+          shopt -s nullglob
+          for d in dl/msw-*/*/; do t=$(basename "$d"); mkdir -p "researcher/out/$t/companies"; cp "$d"companies/*.json "researcher/out/$t/companies/" 2>/dev/null || true; done
+          for t in metal-scrap-powder-waste metal-scrap-powder-waste-cos; do [ -d "researcher/out/$t/companies" ] && python -m researcher.merge "$t" || true; done
+          python -m researcher.build_metal_scrap_sheet
+      - name: 実行した枝に commit（次の回は呼ばない）
+        run: |
+          git config user.name "a1-researcher"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A researcher/out/metal-scrap-powder-waste researcher/out/metal-scrap-powder-waste-cos themes/metal-scrap-powder-waste 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -q -m "metal-scrap-powder-waste: ${{ inputs.stage }} $(date -u +%FT%TZ)"
+          for i in 1 2 3 4 5; do git pull -q --rebase origin "${GITHUB_REF_NAME}" && git push -q origin "HEAD:${GITHUB_REF_NAME}" && break; sleep 5; done

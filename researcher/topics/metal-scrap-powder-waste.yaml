@@ -1,0 +1,50 @@
+# 2026-11-24 本人指示で追加：金属端材・粉・廃棄物回収プラットフォーム（テーマ名 metal-scrap-powder-waste）。
+# 第1段（この topic・kind: market）：問い1〜5を品目に割って、出どころの行をそのまま引用する。
+# 第2段（metal-scrap-powder-waste-cos・kind: company）：会社1社ごとの必須項目を三重確認で取る。
+# 条件の正本：themes/metal-scrap-powder-waste/README.md。METHOD.md の末尾「metal-scrap-powder-waste の決まり」。
+# 回し方：手動だけ（.github/workflows/metal_scrap.yml の workflow_dispatch）。control.yaml には載せない（自動の回に混ぜない）。
+# キーワードは「行を拾う目印」であって、会社にタグを付ける根拠ではない。判定は1社ずつ一次情報を読んで本人が付ける。
+kind: market
+title: 金属端材・粉・廃棄物回収 — 発生元・引き取り手と相場・端材から粉・端材マッチングの前例・前提の規制
+input: researcher/inputs/metal-scrap-powder-waste.csv
+columns: {name: 品目, en: 英語名, aliases: 別名, context: 文脈, url: 直接URL}
+
+evidence:
+  発生元・工程: [端材, 切粉, 切りくず, 削りくず, 切削くず, スクラップ, 研削スラッジ, 使用済み粉, 使用済粉末, 回収粉, swarf, chips, turnings, offcut, revert, scrap, machining scrap, used powder, Späne, Schrott, Metallspäne, copeaux, chutes, trucioli, rottami, 废料, 边角料, 切屑, 스크랩, 절삭칩]
+  発生量・リサイクル率: [廃棄物量, 廃棄物発生量, 産業廃棄物, 排出量, 再資源化率, リサイクル率, 最終処分量, 有価物, 金属くず, t/年, トン, tonnes, tons, recycling rate, waste generated, Abfallmenge, Recyclingquote, 回收率, 재활용률]
+  合金・金属: [チタン, ニッケル, コバルト, タングステン, 超硬, アルミ, マグネシウム, インコネル, ハステロイ, 64チタン, Ti-6Al-4V, titanium, nickel, cobalt, tungsten, carbide, aluminium, aluminum, magnesium, superalloy, Inconel, 钛, 镍, 钴, 钨, 티타늄, 니켈, 텅스텐]
+  引き取り・価格: [買取, 買取価格, 相場, 建値, 円/kg, 円/トン, 引取, 引き取り, 回収業者, 非鉄問屋, 問屋, price per, per kg, /kg, /lb, per tonne, buying price, scrap price, Schrottpreis, prix, 回收价格, 元/吨, 시세]
+  端材から粉・調達: [リサイクル粉, 再生粉, アトマイズ, 粉末化, 原料調達, スクラップを原料, feedstock, scrap-to-powder, recycled powder, revert, atomiz, sourcing, supply agreement, offtake, partnership, partner, recycled content, 再生原料, Rohstoff, Recyclingpulver, 再生粉末, 回收粉末]
+  端材マッチング・データベース: [マッチング, データベース, プラットフォーム, 端材市場, 余剰材, 見える化, 排出事業者, 静脈, marketplace, matching, database, platform, exchange, by-product, byproduct, waste data, circular, Plattform, Marktplatz, plateforme, piattaforma, 平台, 撮合, 플랫폼, 매칭]
+  持ち込み先・提携: [マツダ, トヨタ, ホンダ, 日産, スバル, デンソー, アイシン, IHI, 川崎重工, 三菱重工, 導入, 採用, 実証, 提携, 共同, 契約, pilot, customer, partnered with, signed, collaboration, Kunde, client, 合作, 협력]
+  会社名・創業・規模: [株式会社, Inc., Ltd., GmbH, B.V., SAS, S.r.l., Co., 設立, 創業, founded, established, gegründet, fondée, fondata, 成立, 설립, 従業員, employees, revenue, 売上, 資金調達, raised, funding, Series, investors, 株主]
+  規制・許可: [消防法, 危険物, 第2類, 金属粉, 可燃性固体, 指定可燃物, 産業廃棄物収集運搬業, 処分業, 許可, 古物商, 古物営業法, 外為法, 輸出貿易管理令, 該非判定, バーゼル法, 特定有害廃棄物, 雑品スクラップ, 有害使用済機器, 金属くず商, 条例, Basel, export control, permit, licence, license, dual-use]
+  展示会・業界紙: [出展, 出展者, exhibitor, booth, Formnext, IFAT, BIR, ISRI, ReMA, Metal Recycling, スクラップリサイクル展, 鉄鋼新聞, 日刊市況通信, 産業新聞, Fastmarkets, Argus, Recycling International, EUWID, 上海有色网, 我的钢铁]
+
+numeric: [発生量・リサイクル率, 引き取り・価格]
+
+figure_patterns:
+  円建て価格: '引き取り・価格|(\d{1,3}(?:,\d{3})*(?:\.\d+)?\s*円\s*/\s*(?:kg|ｋｇ|キロ|t|トン))'
+  外貨建て: '引き取り・価格|((?:USD|US\$|\$|€|EUR|£|GBP|CNY|RMB|¥|KRW|₩)\s*\d{1,3}(?:[,.]\d{3})*(?:\.\d+)?\s*(?:/\s*(?:kg|lb|t|tonne|ton|mt))?)'
+  発生量トン: '発生量・リサイクル率|(\d{1,3}(?:,\d{3})*(?:\.\d+)?\s*(?:千)?(?:トン|t\b|tonnes|tons))'
+  リサイクル率: '発生量・リサイクル率|(\d{1,3}(?:\.\d+)?\s*[%％])'
+  創業年: '会社名・創業・規模|(?:founded|established|gegründet|fondée|fondata|設立|創業|成立|설립)[^0-9]{0,20}?((?:18|19|20)\d{2})'
+
+external_queries:
+  - "{name}"
+  - "{en}"
+  - "{name} 環境報告書 OR 統合報告書 OR サステナビリティ 廃棄物"
+  - "{name} filetype:pdf"
+  - "{en} filetype:pdf"
+  - "{name} 価格 OR 相場 OR 買取"
+  - "{en} price OR partnership OR supply agreement"
+  - "{en} startup marketplace"
+  - "site:prtimes.jp {name}"
+  - "site:businesswire.com {en}"
+  - "site:prnewswire.com {en}"
+  - "site:recyclinginternational.com {en}"
+  - "site:metal-am.com {en}"
+  - "site:3dnatives.com {en}"
+  - "site:euwid-recycling.com {en}"
+
+limits: {pages: 60, external_per_query: 5, per_cat: 20, seed_pages: 4, pdfs: 6}
